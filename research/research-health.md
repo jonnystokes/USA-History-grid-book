@@ -1,0 +1,41 @@
+# Research Notes: Chapter 18, Health, Disease, and Medicine
+
+**Chapter not started.** This file parks material found while working on other chapters, per the "capture stories for other chapters" rule in `control/project-notes.md`. Follow `control/writing-style-guide.md`. No invented facts. Organized by the ten standard time sections.
+
+## Parked from Ch27 Elements research (2026-07-23) — radiation and health; elements in medicine
+Ch27 tells the elements' stories; what radiation does to bodies, and how elements heal or harm, belongs here. Facts source-checked in `research/research-elements.md`.
+
+### 8. 1900 to 1950
+- **Radium poisoning — the science of what happened to the Radium Girls.** Radium behaves chemically like calcium, so swallowed radium (from lip-pointing paint brushes, from 1917 at the dial factories) settles into bone, where its radiation kills bone tissue and causes anemia, "radium jaw" (necrosis of the jaw), fractures, and cancers. The dial painters' deaths in the 1920s–30s produced some of the first hard knowledge of internal radiation poisoning, and their bodies were studied for decades to set radiation-safety limits for later workers (including Manhattan Project workers). The court fight → Ch17; the element craze → Ch27; the medicine and dosimetry → here. (Sources: History.com; Library of Congress "Radium Girls: Living Dead Women"; NJ historic-register documentation.)
+- **Radioactive patent medicine: Radithor.** Radium dissolved in water, sold as a cure-all; industrialist Eben Byers drank ~1,400 bottles (1927–30) and died of radium poisoning in 1932 — his death helped push federal action against radioactive quack cures. (Caution: the famous "jaw came off" headline is a 1990 Wall Street Journal retrospective, not from 1932.) (Sources: Wikipedia Eben Byers/Radithor cross-checked; FDA/AMA history references to VERIFY when Ch18 is worked.)
+- **The radium craze as health fad:** radium tonics, cosmetics, and glow products marketed as vitality itself in the 1910s–20s — a case study in medicine before drug regulation (ties to the 1938 Food, Drug, and Cosmetic Act — VERIFY the regulatory line when Ch18 is worked).
+
+### 9. 1950 to 2000
+- **Technetium-99m — the artificial element that scans hearts.** Technetium, the first man-made element (1937, Ch27), gave medicine its workhorse imaging isotope: Tc-99m, used in tens of millions of nuclear-medicine scans worldwide each year (bone, heart, kidney imaging). A strong "element made by people, healing people" story; get current usage numbers from IAEA/SNMMI sources when Ch18 is worked. (Sources: LANL periodic table on Tc medical use.)
+- **Radioisotopes from the labs:** Oak Ridge shipped medical radioisotopes from the late 1940s onward — the reactor-to-hospital pipeline (institutional side → Ch6). VERIFY specifics when Ch18 is worked.
+
+---
+
+## Pointer (2026-08-07, from the ch17-prejudice split — registry ruling 9)
+- **The Radium Girls** (dial painters poisoned 1917 onward; Grace Fryer's 1927–28 New Jersey suit; Catherine Wolfe Donohue's 1938 Illinois win) — the workers' fight now lives in `research-work-workers.md`; the element side in `research-elements.md`. Health's angle when this chapter is worked: radium poisoning as occupational disease (radium jaw, the medical evidence fight). Facts source-checked in those files.
+
+## Parked from `native-nations` (2026-08-07) — the Great Dying (health leads on the disease itself)
+- **Contact epidemics, 1500s onward:** European diseases (smallpox and others) traveled ahead of Europeans along Native trade routes and killed large shares of communities before many nations ever saw a newcomer; de Soto's expedition (1539–43) spread disease through the Mississippian Southeast, whose chiefdoms fragmented in the following decades. (Sources: World History Encyclopedia on de Soto; British Academy, "The Demographic Collapse of Native Peoples of the Americas.")
+- **The honest numbers:** pre-contact population north of Mexico is disputed — ~1.85M (Ubelaker 1976) to ~18M (Dobyns 1983); by **1900 the U.S. census counted about 250,000** Native people; the 2020 census counted **9.7 million** AIAN alone-or-in-combination. Health's angle: the disease mechanism (virgin-soil epidemics, repeated waves); `native-nations` carries the political consequences (reorganization, refugee absorption, new confederacies). (Sources: Ubelaker/Dobyns via British Academy paper; USAFacts census history.)
+
+## Parked from `city-building` (2026-08-07) — water, sewers, and city disease (health leads the epidemics; the pipes are city-building's)
+- **Cholera 1832, New York:** ~3,500 deaths out of ~250,000 residents — a driver (with the 1835 fire) of the Croton Aqueduct (water arrived June 22, 1842; 41-mile gravity aqueduct). Health's angle: the epidemic and the (wrong) miasma thinking; the aqueduct itself → `city-building`. (Sources: Museum of the City of New York "The Contentious History of Supplying Water to Manhattan"; NCBI/NAP review of NYC water history; NY Historical Society.)
+- **Chicago River reversal, January 2, 1900:** the Sanitary and Ship Canal turned the river away from Lake Michigan (the drinking supply); one economic-history estimate credits the reversal with cutting Chicago's overall mortality ~4% in 1900 (~985 lives) — typhoid/waterborne-disease logic. (Sources: MWRD; WTTW Chicago Stories; Linda Hall Library exhibition.)
+- **Swill milk and infant death (1850s–1870s NYC):** distillery-fed "swill" dairies sold contaminated milk in the city; tenement infant deaths like five-month-old **Agnes Mary Moore** (97 Orchard St., died April 21, 1869, of marasmus/malnutrition — Tenement Museum records) put a documented face on it. (Sources: Tenement Museum Moore-family materials; standard swill-milk scholarship — verify specifics when this chapter is worked.)
+- **George E. Waring Jr. and the "White Wings," 1895–1898:** NYC's reform street-cleaning commissioner put ~2,000 sweepers in white uniforms cleaning ~450 miles of streets daily; first systematic waste-disposal and recycling programs; Jacob Riis wrote Waring's broom "saved more lives in the crowded tenements than a squad of doctors." Public-health-as-policy angle is yours; the streets themselves are `city-building`'s. (Sources: New-York Historical Society "Who were the White Wings?"; Urban Archive; LOC.)
+- **Philadelphia yellow fever 1793 and 1798** → the country's first steam-powered municipal waterworks (Latrobe's Centre Square, pumping January 21, 1801). The epidemics are yours (1793 already famous); the waterworks → `city-building`. (Sources: Water History PHL / Frederic Graff records.)
+
+## Parked from science research (2026-08-08) — CRISPR reaches medicine
+`science` tells the 2012 discovery (Doudna/Charpentier, Nobel 2020); the therapy is yours:
+- **Casgevy (exagamglogene autotemcel):** FDA-approved December 8, 2023 — the first CRISPR-Cas9 gene-editing therapy approved anywhere, for sickle cell disease in patients 12+ with recurrent pain crises (approved for beta-thalassemia January 2024). Works by switching fetal hemoglobin back on; a one-time treatment; about 100,000 Americans have sickle cell, a large majority Black. (Sources: FDA/Vertex-CRISPR Therapeutics press releases; STAT News Dec 8, 2023 — journalism, label.)
+
+## Parked from `marketplace` research (2026-08-08) — patent medicine and how it was sold
+`marketplace` leads the selling tactics; what the medicines did, and the law that stopped the claims, is yours.
+- **Lydia E. Pinkham's Vegetable Compound**, sold from the mid-1870s, was advertised as curing almost any "female complaint," from nervous prostration to a prolapsed uterus. It was **18 to 20 percent alcohol by volume** depending on the source; the label said the alcohol was "used solely as a solvent and preservative."
+- Her sons put her portrait in newspaper advertisements to make the remedy look homemade, and she invited customers to write to her personally, using the correspondence to keep selling.
+- It was among the most cited examples of patent-medicine excess in the years before the **Pure Food and Drug Act of 1906**. (Smithsonian National Museum of American History object records for the Vegetable Compound and the Herb Medicine; Britannica; New England Historical Society; Organization of American Historians teaching exercise.)

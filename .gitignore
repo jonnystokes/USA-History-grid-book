@@ -1,0 +1,13 @@
+# Kept on Jon's PC only, not in the GitHub repo:
+#   _reference/  superseded v1/v2 work, raw agent transcripts, retired planning docs
+#   seed-files/  original seed dump (reference only)
+#   .claude/     local agent config
+_reference/
+seed-files/
+.claude/
+
+# Backups and generated files
+*.bak*
+viewer/viewer-v1.html
+__pycache__/
+*.pyc

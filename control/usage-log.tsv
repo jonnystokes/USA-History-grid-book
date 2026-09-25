@@ -1,0 +1,112 @@
+# Sub-agent usage log. TSV so it can be analysed later for patterns:
+#   which KINDS of sub-agent task cost how much of a usage window.
+# usage_pct_* are read off the UI by Jon - agents cannot see them. "?" = not recorded.
+# subagent_tokens / tool_uses / duration_ms come from the task-notification.
+# Append one row per sub-agent. Never rewrite history.
+#
+# UNCERTAINTY MARKERS on usage_start / usage_end / usage_delta:
+#   (no marker) = read cleanly at the right moment. Trust it.
+#   ~           = APPROXIMATE. The reading was taken late or early, so the figure
+#                 includes work either side of the agent and is BIGGER than the truth.
+#                 Treat as an upper bound, not a measurement.
+#   ?           = not captured at all.
+#
+# ACCURACY MARKERS on usage_start / usage_end / usage_delta:
+#   (no marker) = read cleanly right before the agent started and right after it finished.
+#   *           = LOW ACCURACY. The reading was taken late, so the window includes work
+#                 other than the agent's - director activity before or after it. The true
+#                 cost of the agent is SMALLER than the number shown. Do not treat starred
+#                 rows as comparable to clean ones when looking for patterns.
+#   ?           = not captured at all. Blank by design, not an error.
+date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subagent_tokens	tool_uses	duration_ms	output_words	outcome	notes
+2026-09-07	T-200	prose-part	general-purpose	city-building part1 (5 eras)	68	81	13	157398	51	488833	2814	completed	first measured delta; wrote incrementally (25 writes)
+2026-09-06	T-100	prose-part	general-purpose	native-nations part1 (5 eras)	?	?	?	185632	41	791137	4080	completed	the voice-setter; single terminal write
+2026-09-06	T-103	prose-part	general-purpose	native-nations part2 (2 eras)	?	?	?	?	19	?	3900	KILLED-after-write	file landed whole; report lost
+2026-09-06	T-104	prose-part	general-purpose	native-nations part3 (3 eras)	?	?	?	?	17	?	4800	KILLED-after-write	file landed whole; report lost
+2026-09-07	T-101	research-chapter	general-purpose	america-world full chapter	?	?	?	?	128	?	0	KILLED-before-write	died reading; 103 web fetches lost to no output
+2026-09-07	T-101b	research-chapter	general-purpose	america-world full chapter (retry)	?	?	?	?	122	?	0	KILLED-before-write	same failure; task too big for one window
+2026-09-07	T-101c-a	research-half	general-purpose	america-world eras 1-5	?	?	?	?	47	?	?	completed	SPLIT worked - landed first try
+2026-09-07	T-101c-b	research-half	general-purpose	america-world eras 6-10	?	?	?	?	46	?	?	completed	SPLIT worked - landed first try
+2026-09-07	T-105a	verify-prose	general-purpose	verify native-nations part2	?	?	?	143291	27	403088	0	completed	adversarial check, 3 fixes applied
+2026-09-07	T-105b	verify-prose	general-purpose	verify native-nations part3	?	?	?	145671	32	422837	0	completed	adversarial check, boarding-school floor confirmed
+2026-09-07	T-102	research-focused	general-purpose	Acoma 1599 single question	?	?	?	183275	90	979006	0	completed	one focused question, 90 tool calls
+2026-09-07	probe-1	probe	general-purpose	trivial wc -l	?	?	?	50750	1	3702	0	completed	SPAWN FLOOR
+2026-09-07	probe-2	probe	general-purpose	trivial echo	?	?	?	53681	1	3847	0	completed	SPAWN FLOOR
+2026-09-07	probe-3	probe	fork	one-line reply, inherited context	?	?	?	621107	0	3138	0	completed	fork = ~12x a cold spawn, did no work
+2026-09-07	T-203	prose-part	general-purpose	city-building part2 (2 eras)	83	99	16	166243	48	524063	4076	completed	8 incremental writes; caught itself inventing 2 numbers
+# usage: part1 = 13% for 2814w (4.6%/1000w). part2 = 16% for 4076w (3.9%/1000w).
+# Larger parts are MORE efficient per word - the ~50k spawn floor amortises.
+2026-09-07	T-204	prose-part	general-purpose	city-building part3 (killed)	?	99	?	?	1	?	0	KILLED-before-write	died ~30s in; nothing to salvage
+2026-09-07	T-205	prose-part	general-purpose	city-building part3 (relaunch)	?	42	?	190986	44	788717	5564	completed	self-caught 5 inventions; ~25 personifications repaired. START % NOT CAPTURED (ran across a window reset) - end 42%. Blank by design, not an error.
+2026-09-07	T-206	verify-prose	general-purpose	verify city-building part3 (5564w)	44	58	14	166800	38	622493	0	completed	FAIL: 9 fixed + 7 reported; caught an error inherited from our own outline
+2026-09-07	T-207	verify-prose	general-purpose	verify city-building part2 (4076w)	~62	~74	~12	137273	32	504543	0	completed	FAIL: 10 fixed + 8 reported; found 3 defect classes in our OWN sources. ~ = both readings taken off-moment, so 12% is an UPPER BOUND, not a measurement.
+2026-09-07	T-208	verify-prose	general-purpose	verify city-building part1 (3253w)	28	37	9	113039	18	284445	0	completed	7 defects found, 5 of them inherited from our own outline/bank. Cheapest verify so far: 113k tokens, 18 tool calls.
+#
+# FINDING (2026-09-07, after 4 clean data points): window cost tracks subagent_tokens
+# almost linearly, at roughly 12,000 tokens per 1% of a window:
+#   T-200 157,398 tok / 13% = 12,107     T-206 166,800 / 14% = 11,914
+#   T-207 137,273 / ~12%    = 11,439*    T-208 113,039 /  9% = 12,560
+#   (* T-207 percentages are approximate and its % is an upper bound, so its true
+#      rate is at or above the figure shown.)
+# Spread is 11,900-12,600 across three clean runs. USE: a task expected to burn
+# ~150,000 subagent tokens will cost ~12-13% of a window. At 12k/pt a full window is
+# roughly 1.2M subagent tokens, or about 8 verification-sized agents. This is the
+# number to size tasks against; re-derive it as more rows land.
+2026-09-07	T-209	fix-prose+sources	general-purpose	fix city-building part1 + outline + bank (7 defects)	38	67+	29+	204654	109	995617	0	completed	First Phase 2b fix pass: repaired sources as well as prose. Found a THIRD empty-land erasure (Oak Ridge) in a part that had already passed verification.
+#
+# FINDING UPDATED (2026-09-07) - THE 12,000-TOKENS-PER-POINT RULE IS FALSIFIED.
+# T-209: 204,654 subagent tokens for 29% of a window = 7,057 tokens/pt, roughly HALF
+# the rate of the four runs it was derived from. subagent_tokens alone does NOT predict
+# window cost. Do not size tasks off tok/pt.
+#   run    tokens    tools  duration  %     tok/pt
+#   T-200  157,398   51     -         13    12,107
+#   T-206  166,800   38     622s      14    11,914
+#   T-207  137,273   32     505s      ~12   11,439
+#   T-208  113,039   18     284s       9    12,560
+#   T-209  204,654   109    996s      29     7,057
+# The four cheap runs were all VERIFY tasks (read + reason, few writes). T-209 was the
+# first FIX task: many edits, many re-reads, 109 tool calls, 16.6 minutes. Working
+# hypothesis: cost tracks DURATION and TOOL CALLS - the agent's whole context is re-sent
+# every turn - more than it tracks the reported token total. Needs more fix-type rows.
+#
+# ============================================================================
+# MARKER LEGEND, EXTENDED 2026-09-07
+#   (none) = read cleanly at the right moment. Trust it.
+#   ~      = APPROXIMATE. Taken late or early. Treat the delta as an UPPER BOUND.
+#   +      = CONTAMINATED BY DIRECTOR WORK. The window between the two readings
+#            contains work the DIRECTOR did before or after the agent ran, not just
+#            the agent. The agent's own share is LOWER, by an unknown amount.
+#   ?      = not captured.
+#
+# T-209 is marked + . Jon's correction, 2026-09-07: "the fact that you did lots of
+# stuff after the agent finished, which I included in that one, decreases the accuracy
+# of the last one you did." Between the 38% and 67% readings the director also ran
+# four grep sweeps, wrote two long WORKLOG blocks, read three sections of
+# project_state.py, wrote a 140-line patch script, and put a two-part question to Jon.
+# So 29% is the cost of THAT WHOLE STRETCH, not the cost of the fix agent.
+# RULE GOING FORWARD: a clean reading brackets the agent and nothing else. If director
+# work falls inside the bracket, mark the row + and do not use it for sizing.
+#
+# ============================================================================
+# TASK CATEGORIES - use one of these in the `kind` column, every row.
+# Jon's instruction, 2026-09-07: categorize what agents DO, so cost correlates with
+# a KIND of work rather than being averaged across unlike tasks.
+#
+#   research     web-heavy discovery; writes research/research-<slug>.md + outline.
+#                Many fetches, long duration. No prior file to read.
+#   write-prose  produces manuscript/<slug>/*.md from an existing outline + bank.
+#                Reads 2 files deeply, writes one long one.
+#   verify       reads and judges; REPORTS ONLY, writes nothing. Cheapest kind
+#                observed (T-206/207/208: 9-14% each, 18-38 tool calls).
+#   fix          edits existing files to close named defects. Many small reads and
+#                edits; tool-call count is the cost driver, not word count.
+#   audit        sweeps many files for a pattern. Untested as an agent task; the
+#                director can do the mechanical part with grep for ~0.
+#   tooling      changes to scripts in tools/. Usually director work, not an agent.
+#
+# What the five rows so far actually say:
+#   verify x4  ->  9%, ~12%, 13%, 14%    (113k-167k tokens, 18-51 tool calls)
+#   fix   x1   ->  29+% (contaminated; true figure unknown and lower)
+# There is NO clean fix-type row yet, and no research or write-prose row measured
+# under the bracketing rule above. Do not size anything off this table until each
+# category has at least two clean rows.

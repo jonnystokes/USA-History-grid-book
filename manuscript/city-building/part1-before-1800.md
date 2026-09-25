@@ -1,0 +1,208 @@
+<!-- hb-chapter id="06" slug="city-building" title="City Building" part="2" mode="prose" file="part1" -->
+
+# Chapter 06: City Building
+
+<!-- hb-note -->
+**Angle:** How settlements became towns and cities and how cities changed — layout and planning, water, sewers, fire, the grid. The through-line: cities are built things. Someone drew the streets, dug the pipes, raised the buildings, and decided who got to live where.
+**Keep out:** the move to the city (`migration`); the house itself and the household (`home-family`); monuments and single famous structures (`landmarks`); the epidemics as disease (`health`).
+**This file:** part 1 of the chapter — eras 01 through 05 only (before-1500, 1500s, 1600s, 1700-1750, 1750-1800). The validator is run with `--part`, which is why it does not demand all ten eras here; the remaining eras live in the later part files and the parser merges them by slug.
+**Research bank:** research/research-city-building.md · **Outline:** outlines/city-building.md
+Editor's in-development note — not part of the final book; the parser strips it.
+<!-- /hb-note -->
+
+<!-- hb-time:start id="before-1500" order="01" chapter="city-building" label="Before 1500" state="full" progress="written" -->
+## Before 1500
+
+<!-- hb-zoom level="era" -->
+There were planned cities on this land centuries before any European saw it. A planned city is one where people decided in advance where things would go — this open square here, this wall there, this mound at the center — and then built it that way. The largest of them stood beside the Mississippi River. In the Southwest, people cut and stacked stone into towns, and some of the towns they built then are lived in today.
+
+Nobody's name survives from these places. No builder, no surveyor, no ruler. What survives is the work itself: the mounds, the walls, the rooms, the roads. The builders are known by what they built, and by nothing else.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Cahokia, a city laid out on purpose" -->
+Near where St. Louis, Missouri, stands today, people began building Cahokia quickly from about 1050. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. That was about the size of London at the same date. Some estimates for the wider settlement around the center run higher, up to about 50,000, and those larger figures are not settled.
+
+The city was arranged, not accidental. At its heart stood Monks Mound, the largest prehistoric earthen structure in the Americas — prehistoric meaning built before anyone living here kept written records. It holds about 814,000 cubic yards of earth, all of it carried and packed by hand, raised in stages, with four flat terraces climbing to about 100 feet. Its base covers roughly 14 acres. UNESCO, the United Nations body that keeps the World Heritage list of historic sites, counts fourteen separate building stages in it.
+
+At the foot of the mound lay the Grand Plaza, about 50 acres of ground deliberately leveled and filled in by hand so that it was flat. People gathered there and played chunkey there, a game played with a rolling stone disk.
+
+West of Monks Mound stood a circle of tall red cedar posts. There were five of these circles in succession, each replacing the last. The posts line up with the point on the horizon where the sun rises at the solstices and the equinoxes — the longest day, the shortest day, and the two days in between when day and night are equal. That is a working calendar, and it was built into the plan of the city.
+
+Around the central precinct ran a palisade, a wall of upright logs about two miles long. People began it around 1100 and rebuilt it three times over about two hundred years. Each build took between 15,000 and 20,000 logs of oak and hickory, each roughly a foot thick and twenty feet tall. People cut every one of those logs, hauled it, and stood it upright.
+
+By about 1350 the people had gone.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Stone towns of the Southwest" -->
+In what is now northwestern New Mexico, Ancestral Puebloan people built Chaco Canyon into the center of their world. They built with shaped stone, and they went on putting up and using the canyon's great houses for roughly 280 years, from about 900 to about 1180. One of those buildings, Pueblo Bonito, had more than 650 rooms in it.
+
+They also built roads. Chacoan roads were engineered, which means people laid them out and built them, rather than a track being worn into the ground by feet over many years. They run straight for miles across the Four Corners country and average about 30 feet wide. They connected outlying communities to the canyon.
+
+In southwestern Colorado, at Mesa Verde, people built into the hollows under cliff overhangs. Cliff Palace is the largest of those cliff dwellings: 150 rooms and 23 kivas, built between 1190 and 1280. A kiva is a round room, usually sunk into the ground, used for ceremonies and for meeting. More than 100 people lived at Cliff Palace.
+
+Those two dates measure different things. The 1140s is when people began leaving Chaco; building and living in the canyon trailed off through the decades after that, to about 1180. People had left Mesa Verde by the 1280s. They did not stop living in towns. They regathered into the pueblo towns along the Rio Grande, and those towns are still there. Town-living in the Southwest has never stopped.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="before-1500" -->
+
+<!-- hb-time:start id="1500s" order="02" chapter="city-building" label="The 1500s" state="thin" progress="written" -->
+## The 1500s
+
+<!-- hb-zoom level="era" -->
+European town-building on this land begins in the 1500s with one town on the Florida coast, and eight years later with a written set of orders from the king of Spain for laying out all the others. That is the whole of the century for this subject. One lasting town, one set of rules, and no town-builder from these years who left enough of a documented life to tell.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="St. Augustine and the Laws of the Indies" -->
+In September 1565 Pedro Menendez de Aviles founded St. Augustine on the coast of Florida, on the site of the Timucua village of Seloy. It is the oldest European-founded city in the continental United States where people have lived without a break ever since.
+
+In 1573 King Philip II of Spain issued a set of ordinances called the Laws of the Indies. An ordinance is a written order with the force of law, and these ones told the men who founded Spanish towns exactly how to build them. Start with a central plaza — a public square, open ground with the town built around it. Lay it out to the compass points, so its sides face north, south, east, and west. Make it one and a half times as long as it is wide. Run the streets out from it in a grid, which is a pattern of straight streets crossing each other at right angles, like the lines on a sheet of graph paper. Set aside particular lots for the church and for the government buildings. These were among the first standardized town-planning rules written anywhere in the world: one document, one pattern, to be repeated wherever Spanish officials founded a town.
+
+St. Augustine's own Plaza de la Constitucion was laid out under those 1573 ordinances, which is to say after the town was already there. Government buildings and the church fronted onto it, and traders began holding a market on it in 1598. It is the oldest public square in the country. Spanish town-builders across what is now the Southwest went on laying towns out to that same plaza-and-grid pattern.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1500s" -->
+
+<!-- hb-time:start id="1600s" order="03" chapter="city-building" label="The 1600s" state="full" progress="written" -->
+## The 1600s
+
+<!-- hb-zoom level="era" -->
+The first English and Dutch towns on this coast were small, wooden, and improvised: a fort, a wall, a huddle of houses by the water. In some of them the streets formed one house at a time, with nobody deciding anything in advance. At the end of the century one man had the opposite done: a plan drawn on paper before a single street existed on the ground. American town-builders copied it for the next two hundred years.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Fort towns, walls, and watchmen" -->
+Jamestown began in 1607 as a three-sided fort on the James River in Virginia. It was a defensive work, not a town. In the 1620s the surveyor William Claiborne laid out a settlement east of the fort called New Towne, with rows of houses instead of a stockade. A surveyor is the person who measures the ground and marks out where the streets and the lots will go.
+
+Santa Fe was founded about 1610 by Governor Pedro de Peralta, and it was planned around a central plaza in the Spanish pattern. The Palace of the Governors, on that plaza, has been in continuous use as a public building longer than any other in the United States.
+
+English colonists founded Boston in 1630, and nobody planned it at all. Colonists put their houses up near the waterfront, and the gaps left between the houses became the streets, bending around what was already on the ground: the hills of the Trimountain, the brooks, and the marshes. A well-known explanation says Boston's crooked streets follow old cow paths. That explanation is a legend, and it can be traced to a line Ralph Waldo Emerson wrote in 1860.
+
+Boston's houses were wooden and close together. In 1631 Boston's leaders set a night watch: men who walked the streets after dark. That watch is where the Boston Police Department began.
+
+Africans held as property by the Dutch West India Company dug the trench for the wall that gave Wall Street its name. It ran clear across the top of New Amsterdam, on the southern tip of Manhattan, from the East River to the North River. They stood the timbers up in that trench and packed dirt and stones around each one. Soldiers, other servants of the Company, and the townsmen worked on it alongside them: the men who ordered the wall required every one of them to turn out and excused nobody. What they built was a plank wall about five or six feet high, river to river.
+
+Petrus Stuyvesant, the Dutch director general, and the town court ordered it on March 13, 1653, because they had heard the English in New England were preparing to attack. The cost was reckoned at 3,166 guilders, raised from named townsmen. Officials reported the wall standing on July 28, 1653.
+
+Some of the Africans who did that work had what the Dutch called half-freedom. Eleven of the Company's enslaved men, among them Paulo d'Angola, Simon Congo and Anthony Portuguese, had asked to be let go after eighteen or nineteen years of work, and on February 25, 1644 the director and council of New Netherland granted it to them and their wives, on conditions. They could hold land and go to court. But their children, born and unborn, stayed the property of the Dutch West India Company, they owed the Company a payment every year that Dutch colonists did not owe, and they had to come back and work for the Company whenever they were called.
+
+The wall is long gone. The street that ran along it is Wall Street.
+
+On August 12, 1658, the Dutch authorities in New Amsterdam put a rattle watch on the streets: paid night patrolmen carrying wooden rattles, noisemakers that clack loudly when spun, to raise the alarm. It was among the first paid public police forces in America.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Penn's plan" -->
+In 1682 William Penn appointed Thomas Holme his surveyor-general and had him lay out Philadelphia before the settlers arrived. Holme drew the grid in December 1682. His map, "A Portraiture of the City of Philadelphia," was published in 1683, and it was an advertisement as much as a working drawing: Penn wanted people to come.
+
+Nobody decided Boston's streets. Somebody decided Philadelphia's, drew them, and had them measured onto the ground before the settlers came.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="william-penn" name="William Penn" movie="Penn of Pennsylvania (1941)" kind="famous" status="verified" -->
+### William Penn
+
+> **Who:** The Quaker founder of Pennsylvania, who had Philadelphia planned on paper before it existed on the ground.
+> **When and where:** The grid laid out by his surveyor-general Thomas Holme in December 1682; Holme's map published in 1683.
+> **Movie:** *Penn of Pennsylvania* (1941), released in the United States as *The Courageous Mr. Penn* (1942). It is a life of Penn, not a film about the city plan.
+
+Penn wrote down what he wanted: "a greene Country Towne which will never be burnt, and always be wholesome." Not burnt, and not sick. That is what he was asking his surveyor to lay out.
+
+Holme drew a straight grid on the land between the Delaware and the Schuylkill rivers. Two wide main streets crossed it, Broad and High — High Street is now Market Street. The streets were made wide partly as a lesson from the fire that burned London in 1666 — wide enough to keep a fire from crossing from one row of houses to the next. Where the two main streets crossed, Holme put a large central square, and he put one smaller public square in each of the four quarters of the town.
+
+All five are still there. The four quarter squares are now Logan, Franklin, Washington, and Rittenhouse. Philadelphia's City Hall stands on the center square.
+<!-- hb-story:end slug="william-penn" -->
+<!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="city-building" label="1700 to 1750" state="full" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+In the first half of the 1700s the colonial ports grew into real little cities, and the problems of a real city came with that. Fire came first.
+
+Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston. The Charleston figure is a count some sources place in 1760 rather than 1750, so "about 8,000" is as close as the record allows. Those were the biggest places in the colonies. London at the same date held hundreds of thousands.
+
+Boston was the busiest port until about 1750. After that, New York and Philadelphia passed it.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Fire, the city killer" -->
+Towns built of wood burn street by street, and in the colonies no government put the fires out. There was no fire department to call.
+
+Boston had mutual fire societies instead. The members of a society agreed to protect one another's houses, and only one another's. A burning house belonging to anyone outside the society was not their business.
+
+Men in Philadelphia took the next step: a company of volunteers who would fight anybody's fire.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="benjamin-franklin-fire-company-city-building" name="Benjamin Franklin" movie="" kind="famous" status="verified" -->
+### Benjamin Franklin
+
+> **Who:** A printer and civic organizer who helped start the first formally organized volunteer fire company in the colonies that protected a whole town rather than only its own members.
+> **When and where:** Philadelphia, December 7, 1736.
+
+Franklin argued in his newspaper, the *Pennsylvania Gazette*, that the city needed organized firefighting. Then he and other men in the city did it themselves.
+
+On December 7, 1736, about twenty-five men, Franklin among them, signed the Articles of the Union Fire Company. The articles set out what each member owed: six leather buckets and two stout linen bags, kept ready at home. The buckets carried water. The bags were for hauling other people's belongings out of a burning house. Every member had to turn out at every alarm, at any house in the town, member or not.
+
+Other men in other towns copied the arrangement. Volunteer fire companies became a fixture of American town life for the next hundred years.
+<!-- hb-story:end slug="benjamin-franklin-fire-company-city-building" -->
+<!-- hb-time:end id="1700-1750" -->
+
+<!-- hb-time:start id="1750-1800" order="05" chapter="city-building" label="1750 to 1800" state="full" progress="written" -->
+## 1750 to 1800
+
+<!-- hb-zoom level="era" -->
+The men running a brand-new country decided to build themselves a capital city, and to have the whole of it drawn on paper before it was built. The ground they chose was not empty. Native towns had stood on it. Two tobacco ports were standing on it when they chose it. The rest of it was farmland, and the people working that farmland were enslaved.
+
+In the same years, after yellow fever killed about one Philadelphian in every ten, workers in Philadelphia dug and laid the first public water supply in the country driven by steam.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The ground the capital was built on" -->
+On July 16, 1790 Congress passed the Residence Act. In it the members put the capital somewhere on the Potomac River, in a space no bigger than ten miles square, and left it to President George Washington to say exactly where. He went and looked at the country himself, chose the ground at and beside Georgetown, and told Congress on January 24, 1791.
+
+Three Native towns had stood inside that square of land. The largest was Nacotchtank, on the southeast side of the Anacostia River; the river's name comes from theirs. The first European known to have reached that stretch of the Potomac was Captain John Smith, in 1608. The National Park Service states what followed: within forty years of that contact, the number of Native people living in the region was about a quarter of what it had been. They died of diseases Europeans brought and in wars. Others joined nations to the north, south and west.
+
+Two towns were standing there when Washington chose the site, and both are still there. The Virginia assembly established Alexandria in 1749, and the county surveyor, John West, laid out its first sixty acres around Hugh West's tobacco warehouse on the bluffs above the river. The Maryland assembly authorized Georgetown in 1751 and bought sixty acres for it from George Gordon and George Beall for £280; it had a tobacco inspection house, and it grew into a tobacco port. Both stood inside the ten-mile square. Jones Point, where the boundary survey began, is at Alexandria.
+
+The rest was farms, and the main crop was tobacco. Five men owned the ground where the National Mall is now: Daniel Carroll of Duddington, David Burnes, Notley Young, Benjamin Oden, and Samuel Davidson. They held people in slavery, and enslaved men and women raised the tobacco, the corn, the wheat and the cattle on that land. Notley Young's tobacco plantation ran to 800 acres. The census of 1790 counted 245 people enslaved on it. Another account of the same plantation says 260. Young's land went to the new government in 1791. All five men were paid for their ground, and they are still called the Original Proprietors.
+
+Two jobs had to be done before anything could be built. Somebody had to survey the boundary — measure the ground and mark exactly where the district's corners and edges lay. And somebody had to draw the city that would go inside it.
+
+The city plan came from a French-born engineer who was dismissed the year after he drew it. The boundary astronomy was done by a free Black farmer from Maryland, working under the surveyor who ran the job.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="pierre-lenfant" name="Pierre L'Enfant" movie="" kind="famous" status="verified" -->
+### Pierre L'Enfant
+
+> **Who:** The French-born engineer who designed the plan of Washington, D.C., and was dismissed before it was built.
+> **When and where:** The federal district, 1791 to February 1792.
+
+In 1791 Pierre Charles L'Enfant drew the plan of the capital. He laid a street grid down and then cut grand diagonal avenues across it, meeting at circles and squares. That is why Washington looks like no other American city: two street systems on top of each other, one square and one slanting.
+
+Then he lost the job. The commissioners appointed over him asked for his original drawing so an engraver could cut it into a printing plate and copies could be printed. L'Enfant refused to hand it over. He would not take direction from the commissioners either. In February 1792 George Washington dismissed him for insubordination, which means refusing to obey the men set above him.
+
+Andrew Ellicott, working with his brother Benjamin, reconstructed the plan from what he knew of it, and changed parts of it: he straightened Massachusetts Avenue and took out some of the squares. The engraving Thackara and Vallance made from that version, in March 1792, was the plan that circulated widely, and it is the plan the city was built from.
+
+L'Enfant died poor in 1825. In 1909 workmen moved his body to Arlington National Cemetery, on the hillside above the city that was built roughly to his design.
+<!-- hb-story:end slug="pierre-lenfant" -->
+
+<!-- hb-story:start slug="benjamin-banneker" name="Benjamin Banneker" movie="" kind="famous" status="verified" -->
+### Benjamin Banneker
+
+> **Who:** A free Black tobacco farmer and self-taught astronomer who made the observations that fixed the starting corner of the federal district.
+> **When and where:** The survey's base camp at Jones Point, Virginia, February to April 1791.
+
+George Ellicott recommended Banneker, and Major Andrew Ellicott hired him as scientific assistant on the survey of the ten-mile square. Banneker was nearly sixty, farmed tobacco, and had taught himself astronomy.
+
+His work was the night work. Fixing a position on the earth by astronomy means watching particular stars cross a particular point in the sky, recording the moment exactly, and calculating from that. Banneker made those observations and did those calculations. He also kept the regulator clock — the precision clock every one of those timings was measured against — running true. The work fixed the district's south corner at Jones Point. He was paid $2 a day, which was an ordinary day's pay for an assistant. Andrew Ellicott was paid $5.
+
+Banneker left the survey in the spring of 1791, before the full forty miles of boundary had been run. He was in poor health. The next year he published his first almanac.
+
+There is a popular story that after L'Enfant was dismissed, Banneker reproduced the whole plan of Washington from memory. It is a legend, and the dates rule it out: Banneker had left the project about ten months before the dismissal, and it was Andrew Ellicott who reconstructed the plan. What the National Park Service and the historians who have worked through the records credit Banneker with is the boundary astronomy — the observations that put the corner of the capital where it is.
+<!-- hb-story:end slug="benjamin-banneker" -->
+
+<!-- hb-zoom level="span" label="Water after the fevers" -->
+Yellow fever is a disease people catch from the bite of a mosquito carrying the virus. Most people who get it have fever, chills, headache and vomiting, and then recover. In about one case in seven the fever eases and then comes back worse. In that stage the virus destroys cells in the liver, and as the liver fails the skin and the whites of the eyes turn yellow, which is what the disease is named for. Bleeding starts — from the mouth, the nose and the eyes, and into the stomach, where blood mixes with stomach acid and comes back up black. People at the time called that the black vomit. The kidneys fail as well. Of the people who reach that stage, between 30 and 60 percent die.
+
+In Philadelphia it killed about 5,000 people between August 1 and November 9, 1793. About 50,000 people lived in the city, so it killed roughly one of every ten of them. About 20,000 more left the city, among them the officials of the new federal government.
+
+It came back in 1798. After that, the men governing the city decided Philadelphia had to bring in clean water and push it through the streets.
+
+They hired Benjamin Henry Latrobe, an engineer and architect. Work on the Centre Square Water Works began in 1799. Workers erected the engine from February 1800. On January 21, 1801, its steam pumps started pushing water out of the Schuylkill River and into the city. Philadelphia was the first American city with a public water supply driven by steam.
+
+Nicholas J. Roosevelt built the engines and pumps under contract for $33,000. The Centre Square works did not last long; a larger set of works at Fairmount replaced it in 1815. The idea lasted. The men who governed a city could decide to supply its water themselves, raise the money, and dig.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1750-1800" -->
