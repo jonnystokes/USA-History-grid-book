@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234a working on part 1, unit 4 (era 1700-1750).
-NEXT:   part 1, era 1700-1750.
+NOW:    T-234a working on part 1, unit 5 (era 1750-1800).
+NEXT:   part 1, era 1750-1800.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -33,8 +33,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 1 | part1 era before-1500 | landed | v2 revision, T-234a |
 | 2 | part1 era 1500s | landed | v2 revision, T-234a |
 | 3 | part1 era 1600s | landed | v2 revision, T-234a |
-| 4 | part1 era 1700-1750 | working | |
-| 5 | part1 era 1750-1800 | todo | |
+| 4 | part1 era 1700-1750 | landed | v2 revision, T-234a |
+| 5 | part1 era 1750-1800 | working | |
 | 6 | part2 era 1800-1850 | todo | |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
@@ -63,6 +63,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1600s: "American town-builders copied it for the next two hundred years" is in the outline but NOT in the bank. Kept (no fact may leave), flagged for AUDIT-QUEUE.
 - 1600s: the bank has nothing on which Native nations lived on the sites of Jamestown, Boston, New Amsterdam or Philadelphia, so the prose cannot name them. "Before the settlers arrived" now reads "before the English settlers arrived" so it does not imply empty land. Gap for AUDIT-QUEUE (land-erasure watch).
 - 1600s: Wall paragraphs reordered so the workers stay the subject and the name of Wall Street comes first. Closing lines "The wall is long gone..." and "Nobody decided Boston's streets. Somebody decided Philadelphia's..." (antithesis, closing reversal) removed, their facts moved into earlier sentences.
+- 1700-1750: span label "Fire, the city killer" personifies fire, but marker lines are frozen by the brief. Left as is, flagged for AUDIT-QUEUE.
+- 1700-1750: "London ... hundreds of thousands" and "volunteer fire companies ... for the next hundred years" are in the outline/prose, not in the bank. Kept, flagged for AUDIT-QUEUE.
 
 ## Log
 
@@ -71,3 +73,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 1 before-1500 | era revised to v2 | 0 errors | era clean (file still has later-era marks)
 - 2026-09-26 | 2 1500s | era revised to v2 | 0 errors | era clean
 - 2026-09-26 | 3 1600s | era revised to v2 | 0 errors | era clean
+- 2026-09-26 | 4 1700-1750 | era revised to v2 | 0 errors | era clean

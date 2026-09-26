@@ -108,19 +108,19 @@ All five squares are still there. The four quarter squares are now Logan, Frankl
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the first half of the 1700s the colonial ports grew into real little cities, and the problems of a real city came with that. Fire came first.
+In the first half of the 1700s the colonial ports grew into small cities, and the people in them began to face the problems of city life, starting with fire.
 
-Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston. The Charleston figure is a count some sources place in 1760 rather than 1750, so "about 8,000" is as close as the record allows. Those were the biggest places in the colonies. London at the same date held hundreds of thousands.
+Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston. Some sources date the Charleston count to 1760 rather than 1750, so "about 8,000" is as close as the record allows. These four were the biggest towns in the colonies. London at the same date had hundreds of thousands of people.
 
 Boston was the busiest port until about 1750. After that, New York and Philadelphia passed it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fire, the city killer" -->
-Towns built of wood burn street by street, and in the colonies no government put the fires out. There was no fire department to call.
+A fire in a town built of wood can spread from house to house along a whole street. No colonial town had a fire department, and no town officials had the job of putting fires out.
 
-Boston had mutual fire societies instead. The members of a society agreed to protect one another's houses, and only one another's. A burning house belonging to anyone outside the society was not their business.
+In Boston, people formed mutual fire societies instead. Mutual means that the members help one another. The members of each society agreed to protect one another's houses, and they had no duty to fight a fire at the house of anyone outside the society.
 
-Men in Philadelphia took the next step: a company of volunteers who would fight anybody's fire.
+In 1736 men in Philadelphia formed a company of volunteers who agreed to fight a fire at any house in the town.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-franklin-fire-company-city-building" name="Benjamin Franklin" movie="" kind="famous" status="verified" -->
@@ -129,11 +129,11 @@ Men in Philadelphia took the next step: a company of volunteers who would fight 
 > **Who:** A printer and civic organizer who helped start the first formally organized volunteer fire company in the colonies that protected a whole town rather than only its own members.
 > **When and where:** Philadelphia, December 7, 1736.
 
-Franklin argued in his newspaper, the *Pennsylvania Gazette*, that the city needed organized firefighting. Then he and other men in the city did it themselves.
+Franklin printed a newspaper, the *Pennsylvania Gazette*, and in it he argued that Philadelphians should organize to fight fires. Then he and other men in the city set up a fire company themselves.
 
-On December 7, 1736, about twenty-five men, Franklin among them, signed the Articles of the Union Fire Company. The articles set out what each member owed: six leather buckets and two stout linen bags, kept ready at home. The buckets carried water. The bags were for hauling other people's belongings out of a burning house. Every member had to turn out at every alarm, at any house in the town, member or not.
+On December 7, 1736, about twenty-five men, Franklin among them, signed the Articles of the Union Fire Company. The articles list what each member had to keep ready at home: six leather buckets and two strong linen bags. Members carried water in the buckets. They used the bags to haul other people's belongings out of a burning house. Every member had to come out at every fire alarm, to any house in the town, whether its owner was a member or not.
 
-Other men in other towns copied the arrangement. Volunteer fire companies became a fixture of American town life for the next hundred years.
+Men in other towns set up volunteer fire companies on the same plan. For the next hundred years, volunteer fire companies were a regular part of life in American towns.
 <!-- hb-story:end slug="benjamin-franklin-fire-company-city-building" -->
 <!-- hb-time:end id="1700-1750" -->
 
