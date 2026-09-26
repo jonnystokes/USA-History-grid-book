@@ -11,7 +11,7 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240a landed (bank check done; research check PASS).
+NOW:    T-240b writing part 1 (eras 1-5) into manuscript/science/part1-before-1800.md.
 NEXT:   T-240b: write part 1 (eras 1-5)
 
 ## Units
@@ -19,7 +19,7 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | todo | |
+| 2 | part1 eras 1-5 | in-flight | |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 
@@ -46,3 +46,4 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 
 ## Log
 - 2026-09-26 T-240a: bank check landed. 17 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
+- 2026-09-26 T-240b: era before-1500 written (about 700 words). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
