@@ -2084,4 +2084,27 @@ T-237 COMPLETE: immigration written in 5 agents plus 1 bank patch (T-238).
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-239-immigration-gaps.md
 VERIFY: immigration still PASSES both research and prose.
+RESULT: DONE. 192,529 tokens, 87 tool uses, 13 min. Both checks PASS, and part 3 --punct is 0/0.
+        BANK NOW HOLDS: the pirates were Thai fishermen (UPI citing a UN official, 1986; McCabe 2015).
+        No pirate is named anywhere. 96 suspects were arrested and 1 sentenced to death. The 88
+        braceros died after a roundup in 112-degree heat. Arenas was held by Cuban State Security
+        at El Morro, then Villa Marista, and released in 1976. The Lost Boys' parents were killed
+        by Sudanese government forces and government-armed muraheleen (PBS, HRW). Villegas
+        González was shot by an unnamed ICE officer. Prosecutors declined to charge, and the
+        Illinois State Police investigation was open in Sept 2026. The 2018 separations:
+        McAleenan, Homan and Cissna memo of Apr 23, 2018, approved by Nielsen May 4, 2018. The
+        Jan 20, 2025 inauguration is sourced to the JCCIC record.
+        STILL HELD: the tung-trinh story, for Jon's ruling.
+
+### 2026-09-26 | [CLOUD] PROCESS CHANGE: a pre-write bank check for every chapter
+immigration needed a bank patch (T-238) and a revision (T-237b2) AFTER writing, plus a gap patch
+(T-239). About 580k tokens went on rework. From now on each chapter starts with ONE pre-write
+bank check. The agent compares the bank against the outline and the chapter's subject, finds
+the missing hard subjects and missing actors, and appends them to the bank. Then the writers
+write once. The brief is in RESUME.md, "Standard PRE-WRITE BANK CHECK brief".
+
+### 2026-09-26 | [CLOUD] T-240a | science: pre-write bank check
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-240-science.md
+VERIFY: science --stage research still PASSES. The patch sections are listed in the checkpoint.
 RESULT:

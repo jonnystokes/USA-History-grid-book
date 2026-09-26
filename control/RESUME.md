@@ -206,6 +206,22 @@ Every prose agent gets, verbatim:
 
 ---
 
+### Standard PRE-WRITE BANK CHECK brief (added 2026-09-26, runs before every chapter's writers)
+
+One research agent per chapter, before the first writing agent. It appends to the bank only. It
+does not touch the outline or the manuscript. Its brief names the chapter and says:
+
+> Compare `research/research-<slug>.md` against `outlines/<slug>.md` and against the chapter's
+> subject as `control/chapter-registry.md` defines it. Find: (1) hard subjects the chapter must
+> cover that the bank does not (violence, deaths, expulsions, experiments on people,
+> exploitation, and who did them), (2) events in the bank with no named actor, cause or count,
+> (3) outline claims the writers will need that the bank lacks. Research each one and APPEND it
+> to the bank under its era as "### PATCH <date> (T-nnn): <topic>", with an inline source per
+> fact, named actors, and numbers with their ranges. Where a gap is genuinely unknowable, record
+> which sources you checked. The research check must still PASS.
+
+Writers then write once. Gaps they still find follow the BLOCKING rule in the writing brief.
+
 ### Standard REVISION brief (added 2026-09-26, for prose written before style guide v2)
 
 Every agent revising an existing manuscript part to Version 2 gets, verbatim, with the part

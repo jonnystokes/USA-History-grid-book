@@ -11,8 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-239 in flight:** small bank patch plus part 3 update for immigration's six "who did it" gaps.
-**immigration PASSES prose** (T-237 done). Next chapter after T-239: science.
+**T-240a in flight:** pre-write bank check for `science` (the new step). Then 3 writers.
+**immigration PASSES prose and research** (T-237, T-238, T-239 done). Only the tung-trinh story waits on Jon.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
