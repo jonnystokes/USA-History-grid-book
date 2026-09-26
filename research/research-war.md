@@ -1203,3 +1203,321 @@ https://historynet.com/amos-humiston-union-soldier-who-died-at-the-battle-of-get
     mouth and forcing him to swallow water until he could hold no more"), falls in 1900-1902.
     Sources seen: TIME, https://time.com/3653711/torture-report-history-philippines/ ; Paul A.
     Kramer, Asia-Pacific Journal, https://apjjf.org/paul-a-kramer/2685/article . Not verified here.
+
+---
+---
+
+# PART C — ERAS 8–10, RESEARCHED 2026-09-26 (task T-235b)
+
+Research agent for eras `1900-1950` · `1950-2000` · `2000-today`. Eras 1-7 above are unchanged.
+Every line carries its URL. Disputes are stated, not resolved. britannica.com is blocked here and
+nothing below rests on it. The official Defense Department death tables for WWI, WWII, Korea,
+Vietnam and the Gulf War come from **CRS RL32492, "American War and Military Operations
+Casualties: Lists and Statistics," updated July 29, 2020, Table 1**
+(https://sgp.fas.org/crs/natsec/RL32492.pdf), cited below as "CRS Table 1".
+
+## 8. 1900 TO 1950
+
+### 8.0 Shape of the era, and the official numbers (CRS Table 1)
+- **World War I, 1917-1918:** 4,734,991 served. **116,516 deaths: 53,402 battle, 63,114 other.**
+  204,002 wounded. Other deaths counted April 1, 1917 to December 31, 1918.
+- **World War II, 1941-1946:** 16,112,566 served. **405,399 deaths: 291,557 battle, 113,842
+  other.** 670,846 wounded. CRS note i: "World War II was the first war in which there were more
+  American battle casualties than deaths from other causes, such as accidents, disease, and
+  infections." Serving from December 1, 1941 to August 31, 1945: 14,903,213.
+- Every earlier war in this chapter lost more soldiers to disease than to battle. WWII is the turn.
+
+### 8.1 The Philippines, 1900-1902: the "water cure" (hand-off from T-235a; era 7 already gives the war's start and totals, do not repeat them)
+Source for everything here: Paul A. Kramer (historian, Vanderbilt), "The Water Cure," *The New
+Yorker*, February 25, 2008, PDF on the author's site,
+https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Paul-Kramer_New-Yorker.pdf .
+TIME, January 5, 2015 (https://time.com/3653711/torture-report-history-philippines/) confirms that
+a Senate Committee on the Philippines heard soldiers testify about torture in 1902, but names no one.
+- **November 27, 1900, Igbaras, on Panay.** Sergeant **Charles S. Riley**, 26th Volunteer Infantry,
+  saw **Tobeniano Ealdama**, the *presidente* (mayor) of Igbaras, "bound and forced full of water,"
+  supervised by a contract surgeon and **Captain Edwin Glenn**, a judge advocate (an army lawyer).
+  Ealdama's throat was "held so he could not prevent swallowing the water, so that he had to allow
+  the water to run into his stomach." The water was then "forced out of him by pressing a foot on
+  his stomach or else with [the soldiers'] hands." After a second round by a "water detail" of five
+  or six men, Ealdama confessed to being a captain in the insurgency. That night Glenn ordered the
+  town, **400 to 500 houses**, burned.
+- At the court-martial Ealdama testified: **"My stomach and throat pained me, and also the nose
+  where they passed the salt water through."**
+- **Riley testified to the Senate committee (the Lodge committee) on April 14, 1902.** Another
+  member of the unit confirmed it. Secretary of War Elihu Root ordered a court-martial. It was moved
+  to Catbalogan in the Philippines. **Glenn was convicted: one-month suspension and a $50 fine**,
+  "on account of the circumstances as shown in evidence." Glenn retired in 1919 as a brigadier
+  general. Ealdama was serving ten years' hard labor as a "war traitor."
+- **Samar, late 1901.** After Filipino fighters killed 48 of 74 men of an American company at
+  Balangiga, Brigadier General **Jacob Smith** ordered Marine Major **Littleton Waller** to make the
+  island a "howling wilderness": "The more you kill and burn, the better it will please me." Smith
+  said he thought ten-year-old Filipino boys were "capable of bearing arms." Waller had eleven
+  Filipino guides and carriers shot without trial. Waller was acquitted. Smith was court-martialed
+  in spring 1902, reprimanded, and made to retire early.
+- Kramer: **"The scale of abuses in the Philippines remains unknowable."** Do not supply a count.
+- Method, in plain words for the outline: soldiers held a prisoner down, poured water (salt water in
+  Ealdama's account) into his mouth and nose until his stomach swelled, then pressed or stood on his
+  stomach to force it out.
+
+### 8.2 World War I, 1917-1918
+- **Draft.** "On May 18, 1917, the Selective Service Act was passed." Registrations June 5, 1917
+  (men 21 to 31), June 5, 1918, and September 12, 1918 (men 18 through 45). **About 24,000,000
+  registration cards, "about 23% of the population in 1918."** (National Archives,
+  https://www.archives.gov/research/military/ww1/draft-registration)
+  **2.8 million drafted and 2 million volunteered.** (National Archives Foundation,
+  https://archivesfoundation.org/documents/mobilizing-war-selective-service-act-world-war/)
+- **Meuse-Argonne, September 26 to November 11, 1918.** "Over a million American soldiers";
+  **"over 26,000 soldiers being killed in action (KIA) and over 120,000 total casualties."**
+  (National Archives, https://www.archives.gov/research/military/ww1/meuse-argonne) The ABMC and
+  other sources give **26,277** dead and 1.2 million men and call it the deadliest battle in US
+  history (search summaries of abmc.gov; the figure 26,277 is the ABMC's). The "Lost Battalion" of
+  the 77th Division was surrounded October 2-8, 1918 (National Archives, same page).
+- **Influenza. DISPUTE on the count.** "About 45,000 American Soldiers died of influenza and related
+  pneumonia by the end of 1918." (Eric Durr, army.mil, August 31, 2018,
+  https://www.army.mil/article/210420/worldwide_flu_outbreak_killed_45000_american_soldiers_during_world_war_i)
+  Dr. Frederick Holmes (University of Kansas Medical Center WWI archive) gives a narrower number:
+  "of 791,907 admissions for influenza to army hospitals there were 24,664 deaths," and says most of
+  these deaths came from bacterial pneumonia that followed the flu, some within hours
+  (https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/influenza.html).
+  The two counts measure different things (all flu-and-pneumonia deaths vs deaths among soldiers
+  admitted to hospital for influenza). State both. First cases: Camp Funston, Kansas, March 4, 1918
+  (search summary of army.mil). A sailor recalled "15 such burials on one day" on a troopship to
+  France (army.mil, above).
+- **Choctaw code talkers.** Colonel A. W. Bloor, commander of the 142nd Infantry, 36th Division,
+  memo of January 23, 1919 (full text reproduced in the Choctaw Nation booklet *Choctaw Code
+  Talkers*, https://www.choctawnation.com/wp-content/uploads/2022/06/code-talkers-educational-booklet.pdf):
+  the Germans were listening in on American telephone lines. **"The first use of the Indians was
+  made in ordering a delicate withdrawal of two companies of the 2nd Bn. from Chufilly to Chardoney
+  on the night of October 26th"** 1918. They were used again on October 27 before the assault on
+  Forest Farm, and "the enemy's complete surprise is evidence that he could not decipher the
+  messages." Code words: **"Big Gun" for artillery, "Little gun shoot fast" for machine gun**,
+  battalions as one, two and three grains of corn. **Nineteen Choctaw soldiers** are honored as the
+  code talkers (Oklahoma Historical Society, https://www.okhistory.org/historycenter//militaryhof/inductee.php?id=19 ,
+  which says their work was "forgotten and not spoken of because of military sensitivity until the
+  late 1980s"). Congressional Gold Medals for code talkers of 25 tribes, November 20, 2013 (search
+  summary). Several signed their enlistment cards as "natural born citizens" (Choctaw Nation booklet).
+
+### 8.3 STORY — Henry Gunther (ordinary; individual-scale death) — verified
+- Born in Baltimore, June 1895. **DISPUTE: June 5 (Western Front Association) or June 6
+  (other summaries).** Do not give the day. Clerk and bookkeeper at the National Bank of Baltimore,
+  drafted September 1917, engaged. (Western Front Association,
+  https://www.westernfrontassociation.com/on-this-day/11-november-1918-pvt-ex-sgt-henry-nicolas-gunther-co-a-313th-infantry-regiment-us-army/ ,
+  via search summary)
+- Supply sergeant, **Company A, 313th Infantry, 79th Division.** Arrived in France July 1918.
+  **Demoted to private after army censors read a letter he wrote to a friend complaining about the
+  trenches and urging him not to join.** (Christopher Klein, HISTORY, November 9, 2018,
+  https://www.history.com/articles/world-war-i-armistice-last-american-death ; WFA)
+- **November 11, 1918, near Chaumont-devant-Damvillers, Meuse, France.** The armistice was signed
+  at about 5 a.m. to take effect at 11 a.m. A runner brought word of it. At **10:59 a.m.** Gunther
+  **charged a German machine-gun position with a fixed bayonet.** The Germans fired, and **a bullet
+  hit him in the left temple.** He died there. (HISTORY, above; military.com, November 10, 2025,
+  https://www.military.com/daily-news/investigations-and-features/2025/11/10/last-american-killed-wwi-charged-german-machine-gun-seconds-armistice-took-effect.html ,
+  via search summary.) General John Pershing's army listed him as the last American killed in the war.
+- **Afterward:** rank restored to sergeant and **Distinguished Service Cross** (HISTORY gives the
+  restoration as 1923). Body returned in 1923, buried at **Most Holy Redeemer Cemetery, Baltimore.**
+- Why he charged is not known. HISTORY and others suggest he wanted to win back his rank. That is an
+  inference. The outline says the records do not say why.
+- Movie: none. Slug `henry-gunther` unique (checked).
+
+### 8.4 The Bonus Army, 1932 (parked from `economy`; re-sourced)
+- WWI veterans camped in Washington in spring and summer 1932 to demand early cash payment of a
+  bonus that a 1924 law had promised for 1945. **Size DISPUTE: the parked economy line gives about
+  10,000 to more than 20,000 veterans. George Mason's *Histories of the National Mall* gives
+  "nearly 43,000 demonstrators" including families.** State the range and what each counts.
+- **July 28, 1932:** police evicting the camps shot two veterans, **William Hushka** and **Eric
+  Carlson**, who died. Hushka was a Lithuanian immigrant who sold his butcher shop to enlist in
+  WWI and became a citizen while serving. He was buried at **Arlington National Cemetery** less than
+  a week later. (Roy Rosenzweig Center for History and New Media, George Mason University,
+  https://mallhistory.org/items/show/407)
+- The same day President Herbert Hoover ordered the Army in. Army Chief of Staff **Douglas
+  MacArthur** "brought soldiers onto the Mall, supported by six tanks." Infantry used tear gas and
+  bayonets, and the camps burned. (mallhistory.org, above; parked economy line citing National
+  Archives Prologue and PBS American Experience.) Major Dwight Eisenhower and Major George Patton
+  were there (parked line).
+- Bonus paid from June 1936 over Roosevelt's veto (parked economy line).
+
+### 8.5 World War II — the fighting
+- **Pearl Harbor, December 7, 1941.** Killed or missing: **Navy 2,008, Marine Corps 109, Army 218,
+  civilians 68 (2,403).** Wounded: Navy 710, Marines 69, Army 364, civilians 35 (1,178). (NHHC fact
+  sheet "Pearl Harbor: Aftermath,"
+  https://www.history.navy.mil/content/history/museums/nmusn/education/educational-resources/the-date-that-lives-in-infamy--pearl-harbor--high-school-/the-aftermath/pearl-harbor-fact-sheet.html ,
+  via search summary; NHHC was returning 503 errors on direct fetch.) **USS *Arizona*: 1,177 of her
+  crew died; over 900 of them are still inside the sunken ship** (NPS,
+  https://www.nps.gov/places/uss-arizona-memorial.htm). A 1,760-pound bomb hit her forward deck and set off an
+  explosion (HISTORY, https://www.history.com/articles/pearl-harbor , via search summary).
+- **Doris "Dorie" Miller**, mess attendant second class on USS *West Virginia*. Mess attendant was
+  "one of the few positions open to African Americans in the Navy." On December 7 he carried his
+  mortally wounded captain and then fired an anti-aircraft machine gun he had never been trained
+  on. Navy Cross from Admiral Chester Nimitz, **May 27, 1942**, the first Black sailor to receive it.
+  **Killed November 24, 1943**, when a Japanese submarine torpedoed the escort carrier *Liscome Bay*
+  off Makin in the Gilbert Islands. His body was never recovered. (Pacific War Museum,
+  https://www.pacificwarmuseum.org/learn/articles/the-unforeseen-legacy-of-doris-miller ; NHHC
+  search summaries.) *Liscome Bay*: the torpedo set off the ship's bomb magazine and she sank in
+  about 23 minutes. The Navy's war damage report put the dead at about **three-fourths of the crew**
+  (US Navy Bureau of Ships War Damage Report, https://ibiblio.org/hyperwar/USN/WarDamageReports/WarDamageReportCVE56/WarDamageReportCVE56.html).
+  **DISPUTE on the number:** that report's figure reads as 648 men and 54 officers, other summaries
+  give 642 or 644. Use "about three-fourths of the crew." A carrier, USS *Doris Miller*, was
+  announced in 2020, the first named for an enlisted sailor (Pacific War Museum).
+- **D-Day, June 6, 1944.** The National D-Day Memorial Foundation's name-by-name count: **4,436
+  Allied dead that day, 2,519 of them Americans** (https://www.dday.org/learn/necrology-project/ ,
+  current page). Older counts (search summaries): 4,414 with 2,501 Americans. State the
+  foundation's current figure and note the earlier one.
+- **Iwo Jima, February 19 to March 26, 1945.** **6,821 Americans killed, 19,217 wounded.** Of about
+  21,000 Japanese defenders, **216 were captured and the rest killed.** Flag raised on Mount
+  Suribachi February 23. 27 Medals of Honor. (National WWII Museum,
+  https://www.nationalww2museum.org/war/topics/battle-iwo-jima)
+- **Women:** more than **350,000** American women served in uniform in WWII. Congress created the
+  Women's Army Auxiliary Corps (later WAC), the Navy WAVES and the Marine Corps Women's Reserve in
+  1942. (NPS, https://www.nps.gov/articles/000/women-in-the-military-during-world-war-ii.htm , via
+  search summary)
+- **Oil** (parked from `energy`): the US supplied about 6 billion of the Allies' roughly 7 billion
+  barrels. The outline leaves this to `energy`.
+
+### 8.6 The segregated forces, and the soldiers the country distrusted
+- Parked `rights-movements` lines (above): EO 8802 (June 25, 1941), **EO 9981 (July 26, 1948)**:
+  "equality of treatment and opportunity for all persons in the armed services without regard to
+  race"; nearly all units integrated by about 1953. A. Philip Randolph's threatened march (NPS).
+- **Tuskegee Airmen: the "never lost a bomber" claim is false.** Dr. Daniel L. Haulman, Air Force
+  Historical Research Agency, "Nine Myths About the Tuskegee Airmen," October 21, 2011
+  (https://www.tuskegee.edu/Content/Uploads/Tuskegee/files/Nine_Myths_About_the_Tuskegee_Airmen.pdf):
+  **27 bombers the 332nd Fighter Group was assigned to escort were shot down by enemy aircraft**, on
+  seven days (June 9, June 13, July 12, July 18, July 20, August 24, 1944, and March 24, 1945). The
+  average for the other Fifteenth Air Force fighter groups was **46**. The 332nd flew 311 missions
+  for the Fifteenth Air Force, June 1944 to April 1945, 179 of them bomber escorts. The myth began in
+  the press in March 1945. The NMUSA biography of Davis repeats the myth ("never lost a bomber on an
+  escort mission"). **Do not use that line.**
+- **Japanese American soldiers.** "In 1943, when the U.S. Army dropped its enlistment ban on
+  Japanese Americans." The **442nd Regimental Combat Team**: about **14,000** men served, **9,486
+  Purple Hearts** (the medal for being wounded or killed in action), **21 Medals of Honor**. (NPS,
+  https://www.nps.gov/articles/inouyeww2.htm) Many enlisted from inside the camps described in the
+  parked `rights-movements` lines (EO 9066, February 19, 1942, over 120,000 people removed).
+  `rights-movements` leads on the camps.
+- **Volunteers from the camps vs Hawaii.** "Only 1,208 people, fewer than 6 percent of eligible
+  Nisei, enlisted in the military voluntarily from the camps." In Hawaii, where there was no mass
+  incarceration, more than 10,000 volunteered. (Densho Encyclopedia, "442nd Regimental Combat Team"
+  and "Japanese Americans in military during World War II," https://encyclopedia.densho.org/442nd_Regimental_Combat_Team/ ,
+  via search summary: Densho returned 403 on direct fetch.) Another summary gives about 1,250. Use 1,208.
+- **Navajo code talkers.** The first 29 Navajo Marines built the code in 1942. **More than 375**
+  Navajos served as code talkers. "Fighter plane" became "hummingbird" and "submarine" became "iron
+  fish." At Iwo Jima six code talkers sent **more than 800 messages without error**. The program was
+  declassified in **1968**. (intelligence.gov, https://www.intelligence.gov/publics-daily-brief/publics-daily-brief-articles/navajo-nation-inventors-of-the-unbreakable-code)
+  The parked native-nations line gives 350-420 served, the 29 recruits to San Diego May 5, 1942, and
+  Connor's Iwo Jima quote. `native-nations` leads on the code and the language.
+
+### 8.7 STORY — Benjamin O. Davis Jr. (fills the "(target) a Tuskegee airman" slot; famous) — verified
+- **Born Washington, DC, December 18, 1912**, son of Benjamin O. Davis Sr., one of only two Black
+  officers in the Army then. (National Museum of the U.S. Army, https://www.thenmusa.org/biographies/benjamin-o-davis-jr/)
+- **West Point 1932-1936**, first Black cadet of the 20th century. "He never had a roommate, ate his
+  meals in silence, and was only spoken to if needed." (NMUSA) Summaries: first Black graduate since
+  1889, **35th of 276** (search summary, Military Times 2015,
+  https://www.militarytimes.com/news/your-military/2015/05/10/west-point-names-barracks-for-black-graduate-who-was-shunned/).
+  NMUSA says "top fifth." Both agree.
+- No Black flying units existed, so the Army made him an infantry officer. **Earned his pilot's
+  wings March 1942.** Commanded the **99th Fighter Squadron and then the 332nd Fighter Group.**
+  (NMUSA)
+- Haulman (above): years later Davis told the historian Alan Gropman that **he questioned the "never
+  lost a bomber" claim** himself.
+- First Black general in the Air Force. **Fourth star 1998, from President Clinton. Died July 4,
+  2002**, age 89. (NMUSA) West Point named a barracks for him in 2015 (Military Times).
+- Movie: none about him specifically (*Red Tails* 2012 is a fiction film about the group). `movie=""`.
+- Slug `benjamin-o-davis-jr` unique (checked).
+
+### 8.8 STORY — Daniel Inouye (replaces the "(target) a WWII GI" slot; famous) — verified
+Why the swap: the slot asked for "an ordinary draftee's war." Inouye was a volunteer and later a
+senator, so he is famous, not ordinary. He is used because he is the best-documented single
+soldier's wound in the era, in his own words, which the war-row ruling asks for. Henry Gunther (8.3)
+is the era's ordinary soldier.
+- **Born Honolulu, September 7, 1924**, to Japanese immigrant parents. Wanted to be a surgeon.
+  (Tyler Bamford, National WWII Museum, July 19, 2020,
+  https://www.nationalww2museum.org/war/articles/medal-of-honor-recipient-daniel-inouye)
+- Turned away when he first tried to enlist. **Enlisted in 1943** when the Army dropped the ban on
+  Japanese Americans. 442nd Regimental Combat Team. (NPS, https://www.nps.gov/articles/inouyeww2.htm)
+- **April 21, 1945, a ridge near San Terenzo, Tuscany, Italy.** Leading an attack on three German
+  machine guns, he was **shot in the stomach** (NPS) / torso (WWII Museum) and kept going. Then, in
+  his own words: **"his rifle grenade smashed into my right elbow and exploded. I looked at my
+  dangling arm and saw my grenade still clenched in a fist that suddenly didn't belong to me
+  anymore."** (WWII Museum.) He **"pried the live grenade from his useless right hand and transferred
+  it to his left,"** threw it at the last bunker, and was wounded again (NPS). Shot in the leg and
+  lost consciousness (WWII Museum).
+- **May 1, 1945: surgeons at a field hospital cut off his right arm.** He had the operation
+  **"without sedation"** because he had already been given too much morphine, and he had **17 blood
+  transfusions** while recovering. (WWII Museum; NPS says "without anesthesia".) He recovered at
+  Percy Jones Army Hospital in Michigan, where he met Bob Dole (NPS). Discharged 1947 as a captain.
+- **Distinguished Service Cross, upgraded to the Medal of Honor by President Clinton on June 21,
+  2000**, with 19 other Japanese American veterans. US senator from Hawaii for 50 years (NPS).
+  **Died December 17, 2012**, age 88 (WWII Museum).
+- Family and the camps: NPS's wording implies his Hawaii family was not incarcerated. Most Japanese
+  Americans in Hawaii were not. Do not say his family was held.
+- Movie: none about him. `movie=""`. Slug `daniel-inouye` unique (checked).
+
+### 8.9 STORY — Chester Nez (fills the "(target) a Navajo code talker" slot) — verified. Slug `chester-nez-war`
+`native-nations` already carries `chester-nez-native-nations` (the boarding school and the code).
+War's slice is the combat, the wound, and the veteran. All from the Library of Congress Veterans
+History Project guide, https://guides.loc.gov/navajo-code-talkers/profiles/chester-nez , unless marked.
+- Born **1921, Chi Chil Tah, New Mexico**, on the Navajo reservation. At Fort Defiance boarding school
+  "students were punished, often physically, for speaking in Navajo."
+- Marine recruiters came to the reservation in **April 1942**. He was one of the "First Twenty-Nine."
+  At Camp Elliott, California, they "devised a cipher code using the Navajo language," which the
+  Japanese "were never able to break."
+- **Guadalcanal** with the 1st Marine Division from November 1942. **Bougainville** with the 3rd
+  Marine Division. **Guam, July-August 1944, where he was wounded in the foot.** **Peleliu,
+  September 1944.**
+- After the war he **struggled with PTSD** (post-traumatic stress disorder: fear, nightmares and
+  memories of combat that keep coming back long after the danger is over). An **Enemy Way
+  ceremony**, a Navajo healing ceremony for warriors, helped him. Finished high school at Haskell
+  Institute, studied fine arts at the University of Kansas on the G.I. Bill. Recalled for Korea but
+  not sent overseas. Worked 25 years for the Veterans Administration.
+- Congressional Gold Medal 2001. **Died June 4, 2014, Albuquerque, age 93, the last of the first 29.**
+  (American Legion, https://www.legion.org/information-center/news/honor/2014/june/navajo-code-talker-dies-at-93 , via search summary; CNN June 4, 2014)
+- Memoir *Code Talker* (2011). Movie: none (*Windtalkers*, 2002, is fiction). `movie=""`.
+
+### 8.10 The atomic bombs, 1945 (parked `elements` and `science` lines supply Trinity, Hanford, Oak Ridge, the Einstein-Szilard letter)
+- **Cost:** $1,889,604,000 in then-year dollars through August 1945 (Brookings Institution, "The Costs
+  of the Manhattan Project," https://www.brookings.edu/the-costs-of-the-manhattan-project/).
+- **The order.** On **July 25, 1945**, General **Thomas Handy**, acting Army chief of staff, ordered
+  General **Carl Spaatz** that the 509th Composite Group "will deliver its first special bomb as soon
+  as weather will permit visual bombing after about 3 August 1945" on one of Hiroshima, Kokura,
+  Niigata and Nagasaki, by direction of the Secretary of War (Henry Stimson) and the Chief of Staff
+  (George Marshall). (National Archives DocsTeach,
+  https://docsteach.org/document/letter-received-from-general-thomas-handy-to-general-carl-spaatz-authorizing-the-dropping-of-the-first-atomic-bomb/ ,
+  via search summary; text also at https://www.dannen.com/decision/handy.html) President Truman
+  approved the use.
+- **Hiroshima, August 6, 1945, 8:16 a.m.** "Little Boy," a uranium bomb, dropped from the B-29
+  *Enola Gay*, pilot **Colonel Paul Tibbets.** **Nagasaki, August 9, 1945, 10:58 a.m.** "Fat Man," a
+  plutonium bomb, from *Bockscar*, pilot **Major Charles Sweeney.** Japan surrendered **August 14,
+  1945** (US date). (Atomic Heritage Foundation / National Museum of Nuclear Science & History,
+  https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
+- **Deaths. DISPUTE, state the range.** Radiation Effects Research Foundation (the joint
+  Japan-US research body, https://www.rerf.or.jp/en/faq/): deaths within 2 to 4 months,
+  **Hiroshima 90,000 to 166,000** of a population of 340,000-350,000, **Nagasaki 60,000 to 80,000** of
+  250,000-270,000. "Precise figures remain unknown." The 1946 **US Strategic Bombing Survey** gave
+  lower counts: Hiroshima 70,000-80,000, Nagasaki over 35,000.
+- **What the bombs did to bodies** (US Strategic Bombing Survey, 1946,
+  https://www.atomicarchive.com/resources/documents/bombing-survey/section_II.html): causes of death
+  "Flash burns, 20 to 30 percent. Other injuries, 50 to 60 percent. Radiation sickness, 15 to 20
+  percent." Radiation sickness: fever within 12 to 48 hours. **Hair fell out starting about 2 weeks
+  after.** "Small livid spots (petechiae) resulting from escape of blood into the tissues of the
+  skin," and bleeding from the gums, nose and skin. The white blood cells, which fight infection,
+  fell. **"Deaths from radiation began about a week after exposure and reached a peak in 3 to 4
+  weeks."** Plain definition for the outline: radiation sickness is damage from the invisible energy
+  the bomb gave off, which killed the cells that make blood and line the gut.
+
+### 8.11 The G.I. Bill
+- **Signed by Roosevelt June 22, 1944.** By its end on July 25, 1956, **7.8 million of the 16 million
+  WWII veterans** had used it for school or job training. From 1944 to 1952 the VA backed nearly
+  **2.4 million home loans.** (VA, "Born of Controversy: The GI Bill of Rights,"
+  https://www.va.gov/opa/publications/celebrate/gi-bill.pdf , via search summary)
+- **Black veterans.** In 1947 *Ebony* magazine found that **only two of 3,229 VA-guaranteed home
+  loans in 13 Mississippi cities went to Black borrowers.** In New York and northern New Jersey,
+  fewer than 100 of 67,000 GI Bill mortgages went to non-white veterans. (HISTORY,
+  https://www.history.com/articles/gi-bill-black-wwii-veterans-benefits ; War on the Rocks,
+  September 2020, https://warontherocks.com/2020/09/many-black-world-war-ii-veterans-were-denied-their-gi-bill-benefits-time-to-fix-that/ ;
+  journalism, labelled.) Local white bank officers and real-estate agents made the decisions.
+
+### 8.12 Left out of era 8, and why
+- The WWII "(target) a WWII GI" slot is not kept as an ordinary draftee story: no single documented
+  draftee was researched to verification in this pass. Gunther (WWI draftee) carries the ordinary
+  soldier. Audit-queue candidate: an ordinary WWII draftee from the Library of Congress Veterans
+  History Project.
+- Isaac Woodard (1946) was not researched here. Audit-queue candidate, with `rights-movements`.
+- Oil and the pipelines stay in `energy`. The home-front economy stays in `economy`.

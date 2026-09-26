@@ -351,26 +351,108 @@ On February 4, 1899, fighting broke out between US soldiers and Aguinaldo's Fili
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="war" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="war" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Two world wars turn a small army into the largest military on earth, and the country builds a weapon that changes what war means.
+The United States fought two world wars in this half century. In World War I, from 1917 to 1918, about 4.7 million Americans served and 116,516 died. More of them died of disease and accidents than in battle. In World War II, from 1941 to 1945, more than 16 million Americans served and 405,399 died. It was the first American war in which battle killed more soldiers than disease did. These are the Defense Department's counts.
+
+Both wars were fought mostly by drafted men. The draft is a law that makes men sign up and serve when the government calls them. Black soldiers served in separate units under mostly white officers until 1948. In 1945 American airmen dropped the first two atomic bombs used in war, on two cities in Japan.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the world wars, the bomb, and the G.I. Bill" -->
-World War I — the draft, trench warfare, and the influenza that traveled with the troops; World War II — the draft, the segregated forces, the Pacific and European wars, D-Day; the Manhattan Project, Trinity on July 16, 1945, and the plutonium bomb dropped on Nagasaki on August 9, 1945; Japanese American soldiers whose families were interned (**`rights-movements` leads on internment**); the G.I. Bill and the veterans who came home.
+<!-- hb-zoom level="span" label="The Philippines, 1900 to 1902: the water cure" -->
+During the war in the Philippines, American soldiers tortured Filipino prisoners with what they called the water cure. Soldiers held a man down and poured water into his mouth and nose until his stomach swelled. Then they pressed or stood on his stomach to force the water out, and started again.
+
+On November 27, 1900, in the town of Igbaras, soldiers did this to the town's mayor, Tobeniano Ealdama. Captain Edwin Glenn, an army lawyer, watched over it. Ealdama said later, "My stomach and throat pained me, and also the nose where they passed the salt water through." That night Glenn ordered the town's 400 to 500 houses burned. A sergeant who had been there, Charles Riley, told a Senate committee about it on April 14, 1902. An army court found Glenn guilty. His punishment was a $50 fine and one month out of command.
+
+On the island of Samar in late 1901, General Jacob Smith ordered his officers to kill and burn. He said boys of ten were old enough to fight. Smith was reprimanded and made to retire. The historian Paul Kramer writes that nobody can know how many prisoners were tortured.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="wwii-gi" name="(target) a WWII GI" movie="" kind="ordinary" status="target" -->
-### (target) a WWII GI
-An ordinary draftee's war (documented).
-<!-- hb-story:end slug="wwii-gi" -->
-<!-- hb-story:start slug="navajo-code-talker" name="(target) a Navajo code talker" movie="" kind="ordinary" status="target" -->
-### (target) a Navajo code talker
-Turned his own language into an unbreakable military code (shares with `native-nations`).
-<!-- hb-story:end slug="navajo-code-talker" -->
-<!-- hb-story:start slug="tuskegee-airman" name="(target) a Tuskegee airman" movie="" kind="famous" status="target" -->
-### (target) a Tuskegee airman
-Flew in a segregated air force.
-<!-- hb-story:end slug="tuskegee-airman" -->
+<!-- hb-zoom level="span" label="World War I, 1917 and 1918" -->
+Congress passed the Selective Service Act on May 18, 1917, six weeks after the United States entered the war. About 24 million men registered, and 2.8 million of them were drafted. Another 2 million volunteered.
+
+The largest American battle of the war was the Meuse-Argonne, in northern France, from September 26 to November 11, 1918. More than a million American soldiers fought in it, and more than 26,000 were killed. The American Battle Monuments Commission counts 26,277 dead, more than in any other battle in the country's history.
+
+Influenza, a disease of the lungs, spread through the crowded army camps and troopships in 1918. Most of the soldiers it killed died of pneumonia that followed it, when their lungs filled with fluid. Some died within hours. An army history counts about 45,000 soldiers dead of flu and pneumonia by the end of 1918. A narrower count of soldiers admitted to army hospitals for influenza finds 24,664 deaths.
+
+German soldiers listened in on American telephone lines. On October 26, 1918, officers of the 142nd Infantry had Choctaw soldiers send orders over the phone in the Choctaw language. The Germans could not understand them. The Choctaw had no words for some weapons, so they made new ones. A machine gun was "little gun shoot fast."
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="henry-gunther" name="Henry Gunther" movie="" kind="ordinary" status="verified" -->
+### Henry Gunther
+> **Who:** A drafted bank clerk from Baltimore, the last American soldier killed in World War I.
+> **When and where:** Born Baltimore, Maryland, June 1895. Company A, 313th Infantry, 79th Division. Killed near Chaumont-devant-Damvillers, France, at 10:59 a.m. on November 11, 1918.
+
+Gunther was a bookkeeper at the National Bank of Baltimore when he was drafted in September 1917. He was engaged to be married. By the time his regiment reached France in July 1918 he was a supply sergeant. Then army censors, who read soldiers' mail, opened a letter he wrote to a friend. He complained about life in the trenches and told his friend not to join. His officers made him a private again.
+
+Early on November 11, 1918, German and Allied leaders signed the armistice, the agreement to stop fighting. It would take effect at 11 a.m. A runner brought word of it to Gunther's unit. At 10:59 Gunther stood up and charged a German machine gun with his bayonet fixed. The Germans fired, and a bullet hit him in the left temple. He died there, one minute before the fighting stopped. The records do not say why he charged.
+
+The army gave him back his sergeant's rank and awarded him the Distinguished Service Cross. His body came home in 1923, and he is buried in Most Holy Redeemer Cemetery in Baltimore.
+<!-- hb-story:end slug="henry-gunther" -->
+<!-- hb-zoom level="span" label="The Bonus Army, 1932" -->
+In 1924 Congress promised World War I veterans a bonus, but set the payment date for 1945. In 1932, during the Great Depression, thousands of veterans came to Washington and camped there to ask for the money early. Counts of the veterans run from about 10,000 to more than 20,000. With their wives and children, one count reaches about 43,000 people.
+
+On July 28, 1932, police clearing the camps shot two veterans, William Hushka and Eric Carlson, and both died. Hushka was a butcher from Lithuania who had become a citizen while serving in the army. He was buried at Arlington National Cemetery.
+
+The same day President Herbert Hoover ordered the army to clear the camps. General Douglas MacArthur sent cavalry, infantry and six tanks. Soldiers drove the veterans out with tear gas and bayonets, and the camps burned. Congress voted to pay the bonus in 1936, over President Franklin Roosevelt's veto.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="World War II, 1941 to 1945" -->
+Japanese Navy pilots attacked the US Navy base at Pearl Harbor, Hawaii, on December 7, 1941. They killed 2,403 Americans, counting the missing: 2,008 sailors, 109 Marines, 218 soldiers and 68 civilians. A Japanese bomb hit the battleship *Arizona*, and she exploded and sank. Of her crew, 1,177 died. More than 900 of them are still inside the sunken ship.
+
+On the battleship *West Virginia* that morning, Doris Miller was a mess attendant, a sailor who cooked and served food. It was one of the few jobs the Navy let Black sailors do. Miller carried his dying captain to shelter and then fired a machine gun he had never been trained to use. Admiral Chester Nimitz gave him the Navy Cross in May 1942. On November 24, 1943, a Japanese submarine torpedoed his ship, the *Liscome Bay*. The torpedo set off the bombs stored below deck, and the ship sank in about 23 minutes. About three of every four men aboard died, Miller among them. His body was never found.
+
+On June 6, 1944, called D-Day, American, British and Canadian soldiers landed on the beaches of Normandy in France. The National D-Day Memorial Foundation has found the names of 4,436 Allied soldiers killed that day, and 2,519 of them were American. On the Pacific island of Iwo Jima, from February 19 to March 26, 1945, 6,821 Americans were killed and 19,217 were wounded. Of about 21,000 Japanese defenders, Marines captured 216. The rest were killed.
+
+More than 350,000 American women served in uniform, in new women's branches of the Army, Navy and Marines and as nurses.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Soldiers the army kept apart" -->
+Black soldiers, sailors and airmen served in separate units. Army instructors trained Black pilots at Tuskegee, Alabama. The 332nd Fighter Group, made up of these pilots, escorted bombers over Europe. A story began in the newspapers in 1945 that it never lost a bomber. That story is false. Daniel Haulman, an Air Force historian, checked the mission reports. Enemy planes shot down 27 bombers that the 332nd was escorting. The other fighter groups in the same air force lost 46 each, on average.
+
+After Japan's attack, Army leaders refused to let Japanese Americans enlist. In 1943 they changed the rule. In Hawaii, where officials did not lock up Japanese Americans in large numbers, more than 10,000 volunteered. On the mainland, federal officials had locked up Japanese American families in camps (`rights-movements` tells about the camps). From the camps, 1,208 men volunteered, fewer than 6 of every 100 who could. About 14,000 men served in the all-Japanese American 442nd Regimental Combat Team. They received 9,486 Purple Hearts, the medal for soldiers wounded or killed in battle.
+
+More than 375 Navajo Marines sent messages in a code built from the Navajo language. In it, a fighter plane was a "hummingbird" and a submarine was an "iron fish." Japanese code breakers never broke it. At Iwo Jima six Navajo code talkers sent more than 800 messages without an error. The code stayed secret until 1968.
+
+On July 26, 1948, President Harry Truman signed an order requiring equal treatment for everyone in the armed forces, whatever their race. Nearly every unit was mixed by about 1953.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="benjamin-o-davis-jr" name="Benjamin O. Davis Jr." movie="" kind="famous" status="verified" -->
+### Benjamin O. Davis Jr.
+> **Who:** Commander of the Black fighter pilots trained at Tuskegee, and the first Black general in the Air Force.
+> **When and where:** Born Washington, DC, December 18, 1912. West Point, 1932 to 1936. Commanded the 99th Fighter Squadron and the 332nd Fighter Group in Italy. Died July 4, 2002.
+
+His father, Benjamin O. Davis Sr., was one of only two Black officers in the Army. The son entered West Point in 1932. For four years his white classmates spoke to him only when their duties required it. He never had a roommate, and he ate his meals in silence. He finished 35th of 276 in the class of 1936.
+
+He wanted to fly, but the Army had no Black flying units, so it made him an infantry officer. When Army leaders opened pilot training for Black men at Tuskegee, he trained there and earned his wings in March 1942. He led the 99th Fighter Squadron and then the 332nd Fighter Group in combat. Years later a historian asked him whether it was true that the group never lost a bomber. Davis said he questioned it himself. In 1998 President Bill Clinton made him a four-star general.
+<!-- hb-story:end slug="benjamin-o-davis-jr" -->
+<!-- hb-story:start slug="daniel-inouye" name="Daniel Inouye" movie="" kind="famous" status="verified" -->
+### Daniel Inouye
+> **Who:** A Japanese American soldier from Hawaii who lost his right arm in Italy, and later a US senator.
+> **When and where:** Born Honolulu, September 7, 1924. 442nd Regimental Combat Team. Wounded near San Terenzo, Italy, April 21, 1945. Died December 17, 2012.
+
+Inouye wanted to be a surgeon. When he first tried to join the army, he was turned away, because Army rules then barred Japanese Americans. He enlisted in 1943, after Army leaders dropped the ban.
+
+On April 21, 1945, he led his platoon up a ridge in Italy against three German machine guns. A bullet hit him in the stomach, and he kept going. Then, in his own words, a German "rifle grenade smashed into my right elbow and exploded. I looked at my dangling arm and saw my grenade still clenched in a fist that suddenly didn't belong to me anymore." He pulled the live grenade out of his right hand with his left and threw it at the last machine gun. Then he was shot in the leg and passed out.
+
+On May 1, surgeons at a field hospital cut off his right arm. Doctors had already given him so much morphine, a painkiller, that they gave him nothing more to put him to sleep for the operation. He needed 17 blood transfusions. He left the army in 1947 as a captain and served Hawaii in the US Senate for 50 years. On June 21, 2000, President Clinton gave him the Medal of Honor, with 19 other Japanese American veterans.
+<!-- hb-story:end slug="daniel-inouye" -->
+<!-- hb-story:start slug="chester-nez-war" name="Chester Nez" movie="" kind="ordinary" status="verified" -->
+### Chester Nez
+> **Who:** A Navajo Marine, one of the first 29 code talkers, who fought on four Pacific islands.
+> **When and where:** Born Chi Chil Tah, New Mexico, 1921. Guadalcanal, Bougainville, Guam and Peleliu, 1942 to 1944. Died Albuquerque, June 4, 2014.
+
+At his boarding school, teachers punished students, often by hitting them, for speaking Navajo. In April 1942 Marine recruiters came to the reservation, and Nez joined. He and 28 other Navajo Marines built the code at Camp Elliott in California (`native-nations` tells how).
+
+He went into combat on Guadalcanal in November 1942, then on Bougainville. On Guam, in July and August 1944, he was wounded in the foot. He fought again on Peleliu in September 1944.
+
+At home after the war he had nightmares and memories of combat that kept coming back. Doctors now call this post-traumatic stress disorder. A Navajo healing ceremony for warriors, the Enemy Way, helped him. He finished high school, studied art at the University of Kansas on the G.I. Bill, and worked 25 years for the Veterans Administration. He was the last of the first 29 when he died at 93.
+<!-- hb-story:end slug="chester-nez-war" -->
+<!-- hb-zoom level="span" label="The atomic bombs, August 1945" -->
+Scientists and engineers of the Manhattan Project built the first atomic bombs in secret, at a cost of about $1.9 billion. On July 25, 1945, General Thomas Handy ordered the Army Air Forces to drop the first one on a Japanese city as soon as the weather allowed. President Harry Truman approved.
+
+At 8:16 a.m. on August 6, 1945, the crew of the bomber *Enola Gay*, piloted by Colonel Paul Tibbets, dropped a uranium bomb on Hiroshima. On August 9 Major Charles Sweeney's crew dropped a plutonium bomb on Nagasaki. Japan's leaders surrendered on August 14.
+
+The Radiation Effects Research Foundation, run by Japan and the United States, estimates that 90,000 to 166,000 people in Hiroshima and 60,000 to 80,000 in Nagasaki died within four months. The exact numbers are not known. Most died of burns from the flash of heat and of injuries from the blast. US investigators found that 15 to 20 percent died of radiation sickness. The bombs gave off invisible energy called radiation, which killed the cells that make blood and line the stomach. Survivors ran fevers within two days. After about two weeks their hair fell out, and they bled from the gums and nose and under the skin. Deaths from radiation began about a week after the bombs and peaked three to four weeks later.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The G.I. Bill" -->
+President Franklin Roosevelt signed the G.I. Bill on June 22, 1944. It paid for veterans' schooling and backed their loans for homes, farms and businesses. By 1956, 7.8 million of the 16 million World War II veterans had used it for school or job training. The Veterans Administration backed nearly 2.4 million home loans by 1952.
+
+Local banks made the loans, and many would not lend to Black veterans. In 1947 *Ebony* magazine checked 3,229 of these home loans in 13 Mississippi cities. Two went to Black veterans.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="war" label="1950 to 2000" state="full" progress="seed" -->

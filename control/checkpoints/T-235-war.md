@@ -17,8 +17,8 @@ STATE AT START (2026-09-26): eras 1-4 progress="researched"; eras 5-10 progress=
 RULINGS THAT BIND THIS CHAPTER: hard-subjects-policy.md §6, war row: "Go to individual scale:
         the single soldier's wound and death, not only unit-and-number."
 
-NOW:    T-235b working unit 4 (era 1900-1950). Units 1-3 landed by T-235a.
-NEXT:   era 1900-1950
+NOW:    T-235b working unit 5 (era 1950-2000). Unit 4 landed.
+NEXT:   era 1950-2000, then 2000-today
 
 ## Units
 
@@ -27,8 +27,8 @@ NEXT:   era 1900-1950
 | 1 | era 05 1750-1800 | landed | 4 spans + 3 verified stories (washington, joseph-plumb-martin, deborah-sampson-war); bank §5 |
 | 2 | era 06 1800-1850 | landed | 3 spans + 1 verified story (john-riley-san-patricios); bank §6 |
 | 3 | era 07 1850-1900 | landed | 6 spans + 4 verified stories (amos-humiston, grant-lee, christian-fleetwood, cathay-williams); bank §7 |
-| 4 | era 08 1900-1950 | working | |
-| 5 | era 09 1950-2000 | todo | |
+| 4 | era 08 1900-1950 | landed | 7 spans + 4 verified stories (henry-gunther, benjamin-o-davis-jr, daniel-inouye, chester-nez-war); wwii-gi target replaced; bank §8 |
+| 5 | era 09 1950-2000 | working | |
 | 6 | era 10 2000-today | todo | |
 
 <!-- state: todo | working | landed | skipped (say why) -->
@@ -56,6 +56,8 @@ Era 6 (cited in bank §6): house.gov 1812 vote; nps.gov/stsp invasion-of-washing
 Era 7 (cited in bank §7): battlefields.org civil-war-casualties, gettysburg, amputations-and-civil-war, andersonville-prison, remember-fort-pillow, biographies christian-fleetwood / ulysses-s-grant / robert-e-lee; discovere.binghamton.edu civilwar-3826 (Hacker); smithsonianmag Fort Pillow and Wounded Knee; historynet Amos Humiston (Dunkelman); neh.gov incognito-in-the-infantry (Cathay Williams); acwm.org Lee as slaveholder; thenmusa.org buffalo-soldiers-2; history.state.gov milestones/1899-1913/war; militarytimes 2025 Wounded Knee medals.
 - https://www.army.mil/article/65594/st_clairs_campaign_of_1791_a_defeat_in_the_wilderness_that_helped_forge_todays_u_s_army : St. Clair, Fallen Timbers
 
+Era 8 (T-235b, all cited in bank §8): CRS Table 1 (WWI/WWII totals); Kramer New Yorker 2008 PDF at paulkrameronline.com (water cure, Glenn, Smith); archives.gov ww1 draft-registration + meuse-argonne; archivesfoundation.org (2.8M drafted); army.mil 210420 + kumc.edu Holmes (flu, dispute); Choctaw Nation code-talkers booklet PDF (Bloor memo); history.com armistice-last-american-death + westernfrontassociation.com (Gunther); mallhistory.org/items/show/407 (Hushka); NHHC Pearl Harbor fact sheet (via search; NHHC 503s); nps.gov uss-arizona-memorial; pacificwarmuseum.org Doris Miller; ibiblio hyperwar Liscome Bay war damage report; dday.org necrology-project; nationalww2museum.org battle-iwo-jima + medal-of-honor-recipient-daniel-inouye; nps.gov/articles/inouyeww2.htm; tuskegee.edu Haulman Nine Myths PDF; thenmusa.org Davis; guides.loc.gov chester-nez; intelligence.gov Navajo; densho (via search, 403); brookings Manhattan costs; docsteach Handy order; ahf.nuclearmuseum.org bombings; rerf.or.jp/en/faq; atomicarchive USSBS section_II; va.gov gi-bill.pdf (via search); history.com gi-bill-black-wwii-veterans.
+
 ## Decisions and known gaps
 
 <!-- Facts left out rather than hedged. Disputes recorded. Anything a successor must not undo. -->
@@ -64,6 +66,7 @@ Era 7 (cited in bank §7): battlefields.org civil-war-casualties, gettysburg, am
 - Era 7 disputes: Civil War dead 620,000 (ABT) vs ~750,000, range 650,000-850,000 (Hacker 2011); Fort Pillow Black dead 182 (Smithsonian) to ~300; Buffalo Soldier Medals of Honor 17-23; Wounded Knee who fired first; USS Maine cause. Humiston's wound not recorded, not described. Cathay Williams's death date and Riley's not established, not supplied.
 - Era 7 left out: the draft and the 1863 riots (not researched; audit-queue candidate); a diarrhea/dysentery death figure (only secondary sources seen); Humiston orphanage abuse (1876) kept in bank only.
 - Hand-offs to T-235b are in workspace/war.md ("Hand-offs from T-235a").
+- Era 8 disputes: WWI flu deaths 45,000 (army.mil) vs 24,664 hospital-admitted (Holmes); Gunther birth day June 5 or 6 (not given); Bonus Army size 10,000-20,000+ veterans vs ~43,000 with families; Liscome Bay dead (used 'about three-fourths'); D-Day 4,436/2,519 (foundation, current) vs 4,414/2,501; Hiroshima/Nagasaki RERF 90,000-166,000 / 60,000-80,000 vs USSBS lower; Tuskegee 'never lost a bomber' is false (Haulman: 27). Era 8 left out: an ordinary WWII draftee (wwii-gi slot replaced by Inouye; audit-queue candidate); Isaac Woodard; oil (energy).
 - Era 5 left out: Native nations choosing sides in the Revolution, Sullivan 1779 (native-nations leads; not researched); treaties (america-world).
 
 ## Log
@@ -72,3 +75,4 @@ Era 7 (cited in bank §7): battlefields.org civil-war-casualties, gettysburg, am
 2026-09-26 | unit 1 era 1750-1800 | outline era 5 researched, bank §5, workspace checklist | validator 0 errors
 2026-09-26 | unit 3 era 1850-1900 | outline era 7 researched, bank §7, workspace hand-offs | validator 0 errors
 2026-09-26 | unit 2 era 1800-1850 | outline era 6 researched, bank §6 (+ CRS Revolution dispute added to §5) | validator 0 errors
+2026-09-26 | unit 4 era 1900-1950 | outline era 8 researched, bank §8 (PART C) | validator 0 errors
