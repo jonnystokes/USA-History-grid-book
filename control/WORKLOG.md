@@ -2334,4 +2334,24 @@ LESSON (now in CLOUD-WORKFLOW §4): a file that validates is not a finished file
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 4)
 VERIFY: land-environment --stage prose SHOULD PASS.
+RESULT: *** PASS. land-environment passes prose (15 stories verified, 15,639w). ***
+        Part 3 is about 5,300 words. It covers Roosevelt's 230M acres, Glacier and the Blackfeet
+        (Marias 1870, the Starvation Winter, the 1895 sale), Hetch Hetchy, the last pigeons, the
+        wolves poisoned 1914-26, the Dust Bowl as soil damage, the CCC, DDT, Yosemite 1969, the
+        Cuyahoga, Love Canal (Hooker's deed, Whalen, Carter, 236+710 families), Warren County
+        (Ward, the Burns family, Gov. Hunt), GAO 1983, UCC 1987 (Chavis), EO 12898, the wolves'
+        return in 1995, Cancer Alley, Denka, land given back, and Bears Ears to 2026-09-26.
+        DEFECTS FIXED: personification (Congress, states, Shell, agencies). "Hundreds of homes" is
+        now the bank's "about 100". "Well blowout" is now "oil spill". An unsourced
+        "first-of-its-kind" was dropped. Both Love Canal figures are given.
+        Outline claims left out: about 25.
+        BLOCKING GAPS (8): who lived on Roosevelt's lands, who ended the Blackfeet rights after
+        1910, the Gila's people, who ordered the 1969 Yosemite eviction, the Cuyahoga and Santa
+        Barbara polluters, the Love Canal home builders, the 1908 Bison Range taking, the count
+        years. Chapter total with parts 1-2: 13. -> T-242e.
+
+### 2026-09-26 | [CLOUD] T-242e | land-environment: close the 13 collected BLOCKING GAPS
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md, "BLOCKING GAPS"
+VERIFY: land-environment still PASSES research and prose.
 RESULT:

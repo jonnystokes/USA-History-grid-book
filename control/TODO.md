@@ -11,10 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-242d in flight:** writing `land-environment` part 3 (eras 8-10). Parts 1 and 2 are done. Part 2
-survived a usage-limit kill through salvage and a continuation (T-242c2).
-**elements PASSES prose and research** (T-241 done). Written chapters: native-nations,
-city-building, immigration, science, elements.
+**T-242e in flight:** closing land-environment's 13 blocking gaps. **land-environment PASSES prose**
+(T-242d done).
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
