@@ -11,15 +11,15 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240b writing part 1 (eras 1-5) into manuscript/science/part1-before-1800.md.
-NEXT:   T-240b: write part 1 (eras 1-5)
+NOW:    T-240b landed (part 1, eras 1-5, manuscript/science/part1-before-1800.md).
+NEXT:   T-240c: write part 2 (eras 6-7)
 
 ## Units
 
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | in-flight | |
+| 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 
@@ -42,7 +42,18 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 - era 10 Dunford story: "hauling cables, debugging detectors". Not in the bank. Drop it.
 - era 05 Jefferson/Buffon span: the outline omits Jefferson's Query XIV race claim. It is now banked, and the Banneker story needs it.
 
+- T-240b (part 1) left these outline claims out because the bank does not contain them:
+  - era 01: plant knowledge as "which plants feed, which heal, when to harvest"; "controlled fire to keep land open and productive" (bank: "plant knowledge, fire ecology" only); scientists "work with it as knowledge, not folklore"; Woodhenge "precise enough to build a calendar"; Kimmerer "shows they test and strengthen each other" (bank: two ways of knowing used together); "national bestseller" (bank: NYT bestseller since Feb 2020).
+  - era 02: Hariot "spent a year" (bank: 1585-86 only).
+  - era 03: Mather "preached" the comet (bank: his book catalogued comets as divine warnings); New Sweden as "small Swedish colony on the Delaware"; the comet "blazed".
+  - era 04: Franklin as "printer"; "results shared free"; Bartram "self-taught"; Kingsessing "near Philadelphia".
+  - era 05: the purpose of the 1769 transit ("the measurement nations wanted for the distance to the sun"); Rittenhouse "led" the Norriton team (bank lists him as one of four); "era's finest American instruments"; Marly rod "drew sparks from a storm cloud"; "colonial science treated as equal work for the first time"; "fossil claws" (bank: a fossil named Megalonyx); Buffon as "Europe's leading naturalist"; societies "printed his almanacs as walking proof" (bank: promoted them, printers published them).
+- T-240b identity glosses from general knowledge, not the bank (for audit): Isaac Newton's first name; Carl Linnaeus's first name and "Swedish botanist"; Euclid "an ancient Greek mathematician"; Walter Raleigh's first name; 145 m converted to about 475 feet.
+
 ## BLOCKING GAPS
+- T-240b era 05 (central cause): the bank never says WHY observers timed the 1769 transit of Venus. The span states the event, the team and the Transactions without its purpose.
+- T-240b era 05 (hard subject, why): the bank gives Jefferson's Query XIV race claim with actor and words, but nothing on its context: that Jefferson enslaved people, or how such claims were used to defend slavery. Written without it.
+- T-240b era 01 (not blocking, noted): the bank does not name the nations who built Woodhenge at Cahokia or the Sun Dagger at Chaco. Prose says "the people of Cahokia" and names no nation for Chaco.
 
 ## Log
 - 2026-09-26 T-240a: bank check landed. 17 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
@@ -50,3 +61,4 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 - 2026-09-26 T-240b: era 1500s written (about 150 words, thin). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1600s written (about 600 words, thin). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1700-1750 written (about 750 words). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
+- 2026-09-26 T-240b: era 1750-1800 written (about 1,500 words). Part 1 total about 3,250 words, 6 stories. Validator --part: 0 errors. --punct: emdash=0 semicolon=0. Unit 2 landed.

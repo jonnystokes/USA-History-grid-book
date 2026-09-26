@@ -24,7 +24,7 @@ The place where the sun comes up moves along the horizon over the course of a ye
 
 They built five of these circles, one after another, between about the years 900 and 1100. Each circle had between 24 and 72 posts. The largest was up to 145 meters across, which is about 475 feet. The posts marked the points where the sun rose at different times of the year.
 
-Some of those points were the solstices and the equinoxes. The solstices are the longest day of the year and the shortest day. The equinoxes are the two days each year when day and night are about the same length.
+Among them were the sunrise points on the solstices and the equinoxes. The solstices are the longest day of the year and the shortest day. The equinoxes are the two days each year when day and night are about the same length.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Sun Dagger at Chaco Canyon" -->
@@ -32,11 +32,11 @@ In Chaco Canyon, in what is now New Mexico, three slabs of sandstone lean agains
 
 Sunlight passes the edges of the slabs and falls on the spirals as thin blades of light, called daggers. The daggers land on the spirals in set places at the solstices and the equinoxes. Researchers in a group called the Solstice Project argue that the spirals also mark a cycle of the moon. Over 18.6 years, the points where the moon rises and sets swing out to their widest and back again. Other researchers who study ancient astronomy still debate that claim.
 
-Anna Sofaer, a volunteer who was recording rock art, recorded the daggers at the summer solstice of 1977. By the summer solstice of 1989, two of the three slabs had shifted. Visitors walking on the butte had made the ground wear away faster, even though visits there were limited. The daggers no longer form the way Sofaer recorded them.
+Anna Sofaer was a volunteer making a record of rock art. At the summer solstice of 1977, she recorded the daggers. By the summer solstice of 1989, two of the three slabs had shifted. Visitors walking on the butte had made the ground wear away faster, even though visits there were limited. The daggers no longer form the way Sofaer recorded them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Knowledge of living things" -->
-Native nations also kept knowledge of plants, of fire and how it changes the land, and of the weather and the tides. Scientists today have a name for this kind of knowledge. They call it Traditional Ecological Knowledge, or TEK for short.
+Scientists today have a name for the knowledge that Native nations built up about plants, fire, weather and the land. They call it Traditional Ecological Knowledge, or TEK for short. Part of it is knowledge of how fire changes the land and the living things on it.
 
 Ecology is the study of how living things depend on each other and on the land around them. TEK is knowledge of those ties that people gained by watching closely over many generations. The Ecological Society of America, a group of scientists who study ecology, has a section for TEK. A botanist named Robin Wall Kimmerer helped to found it. A botanist is a scientist who studies plants.
 <!-- /hb-zoom -->
@@ -59,7 +59,7 @@ Her book *Braiding Sweetgrass* came out in 2013. It has been a New York Times be
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, no European who came here stayed to study the land and its life over many years. Europeans who crossed the ocean collected what they found here and described it in writing. Then they took that knowledge home to Europe.
+No European who came here in the 1500s stayed to study this land over many years. Europeans who crossed the ocean collected what they found here and described it in writing. Then they took that knowledge home to Europe.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Thomas Hariot's report" -->
@@ -73,7 +73,7 @@ In 1588 Hariot published *A Briefe and True Report of the New Found Land of Virg
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the 1600s, English colonists in New England founded Harvard, the first college in their colonies, and printed their first almanac. A few colonists wrote careful records of what they saw in the sky and in the weather. Some of the same men who measured the sky also read it as a message from God.
+In the 1600s, English colonists in New England founded Harvard, the first college in their colonies, and printed their first almanac. A few colonists wrote careful records of what they saw in the sky and in the weather. One of them, Increase Mather, measured comets and also wrote that they were warnings from God.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A college, an almanac and a telescope" -->
@@ -87,9 +87,9 @@ John Winthrop Jr. was a governor of Connecticut. He visited London from 1661 to 
 <!-- hb-zoom level="span" label="The comet of 1680" -->
 A comet appeared in the sky over Boston in November and December of 1680. It is called the Great Comet of 1680. Thomas Brattle, who had finished his studies at Harvard in 1676, followed it with a telescope. He worked out that the comet seen in November and the comet seen in December were one comet. It had swung around the sun between the two sightings. Isaac Newton later cited these New England observations in his book the *Principia*.
 
-In 1683 Increase Mather wrote a book about comets called *Kometographia*. In it he listed comets as warnings sent by God. He also used a method called parallax to show that comets were far away in space. Parallax works by looking at an object from two different places. A near object seems to shift against the stars far more than a distant one. Mather's measurements showed that comets were distant bodies rather than vapors, a kind of gas.
+In 1683 Increase Mather wrote a book about comets called *Kometographia*. In it he listed comets as warnings sent by God. He also measured comets with a method called parallax. Parallax works by looking at an object from two different places. A near object seems to shift against the stars far more than a distant one. His measurements showed that comets were distant bodies rather than vapors, a kind of gas.
 
-In 1683 Mather also founded the Boston Philosophical Society, a group modeled on the Royal Society in London. It lasted about three years.
+That same year Mather founded the Boston Philosophical Society, a group modeled on the Royal Society in London. It lasted about three years.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-campanius-holm" name="Rev. John Campanius Holm" movie="" kind="ordinary" status="verified" -->
@@ -110,7 +110,7 @@ Today, officials of the National Oceanic and Atmospheric Administration, the US 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1700 and 1750, colonists began doing scientific work of their own. The farmer John Bartram collected and studied American plants. In 1743 Benjamin Franklin organized a society in Philadelphia to share work like his. From 1747 Benjamin Franklin ran experiments with electricity and mailed the results to London. Those letters made Franklin the first American scientist known outside the colonies.
+Colonists began doing scientific work of their own in the first half of the 1700s. The farmer John Bartram collected and studied American plants. In 1743 Benjamin Franklin organized a society in Philadelphia where such work could be shared. From 1747 he ran experiments with electricity and mailed the results to London. Those letters made Franklin the first American scientist known outside the colonies.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The American Philosophical Society, 1743" -->
@@ -128,9 +128,7 @@ The botanist John Bartram first suggested the idea in 1739. Franklin set the soc
 
 Benjamin Franklin was the first American to be known in other countries as a scientist. From 1747 to 1751 he ran experiments with electricity in Philadelphia. He reported his results in letters to Peter Collinson, a member of the Royal Society in London.
 
-Franklin thought of electricity as a single fluid. He called an object positive when it held more than its normal amount, and negative when it held less. Scientists still use his words positive and negative. He also argued that electric charge is never made or destroyed. It only moves from one object to another. Scientists call this idea the conservation of charge.
-
-Franklin proposed that lightning is electricity. He also had the idea of a metal rod connected to the ground.
+Franklin thought of electricity as a single fluid. He called an object positive when it held more than its normal amount, and negative when it held less. Scientists still use his words positive and negative. He also argued that electric charge is never made or destroyed. It only moves from one object to another. Scientists call this idea the conservation of charge. Franklin also proposed that lightning is electricity.
 
 In April 1751 his letters were published in London as a book, *Experiments and Observations on Electricity*. In 1753 members of the Royal Society gave him the Copley Medal, their highest honor. He was the first person from outside Britain to receive it.
 <!-- hb-story:end slug="benjamin-franklin-science" -->
@@ -147,6 +145,80 @@ Bartram was a farmer and a Quaker, a member of a Protestant group also called th
 
 From 1730 to 1765 he traveled to collect plants, from New York as far south as Florida. In 1739 he suggested the idea that became the American Philosophical Society. In 1765 King George III named him the King's Botanist for North America.
 
-The Swedish botanist Carl Linnaeus reportedly called Bartram "the greatest natural botanist in the world." Writers quote the line often, but it rests on other people's reports of what Linnaeus said.
+The Swedish botanist Carl Linnaeus reportedly called Bartram "the greatest natural botanist in the world." Writers quote the line often, but it comes only from other people's reports of what Linnaeus said.
 <!-- hb-story:end slug="john-bartram" -->
 <!-- hb-time:end id="1700-1750" -->
+
+<!-- hb-time:start id="1750-1800" order="05" chapter="science" label="1750 to 1800" state="full" progress="written" -->
+## 1750 to 1800
+
+<!-- hb-zoom level="era" -->
+After 1750, scientists in Europe began to build on work done in the colonies. In 1752 a test that Benjamin Franklin designed showed that lightning is electricity. In 1769 four men at Norriton timed the planet Venus as it crossed the sun, and members of the Royal Society in London reprinted their results.
+
+In his book *Notes on the State of Virginia*, Thomas Jefferson used evidence to argue with a scientist in France about the size of American animals. In that same book, Jefferson wrote that Black people were inferior to white people in body and mind, and he gave no evidence for it. Benjamin Banneker, a free Black farmer who taught himself astronomy, sent Jefferson an almanac he had calculated as proof against that claim.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The lightning test" -->
+Franklin published a plan for a test that would show whether lightning is electricity. The first people to carry it out were in France. On May 10, 1752, at Marly-la-Ville, Thomas-François Dalibard ran the test with a tall iron rod. He followed Franklin's printed plan. On May 13 Dalibard reported the test to the French Academy, a society of scholars.
+
+Franklin ran his own test in Philadelphia with a kite. Writers have long dated the kite flight to June 1752, but nobody recorded the exact day or the exact spot. Franklin first described it in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The June date comes from an account that Joseph Priestley wrote in 1767. Some historians question parts of the kite story. The tests in France and in Philadelphia showed that lightning is electricity.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Timing Venus, 1769" -->
+On June 3, 1769, the planet Venus passed across the face of the sun, as seen from Earth. This event is called a transit of Venus. Members of the American Philosophical Society chose teams of observers to time it. It was the first large, organized science project in the colonies.
+
+At Norriton, David Rittenhouse, William Smith, John Lukens and John Sellers timed Venus as it crossed the sun. Their results filled the first volume of the society's *Transactions*, its printed record of research, which came out in 1773. Members of the Royal Society in London reprinted the results.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="david-rittenhouse" name="David Rittenhouse" movie="" kind="famous" status="verified" -->
+### David Rittenhouse
+
+> **Who:** A Pennsylvania instrument maker and astronomer who taught himself both trades. One of the four men who timed Venus at Norriton in 1769.
+> **When and where:** Pennsylvania. Born 1732, died 1796.
+
+David Rittenhouse taught himself to make scientific instruments and to study the stars. He was one of the four men who timed the transit of Venus at Norriton on June 3, 1769. He was born in 1732 and died in 1796.
+
+Rittenhouse built orreries. An orrery is a machine that shows the planets moving around the sun. When its gears turn, small models of the planets move along their paths.
+
+In 1791 he followed Franklin as president of the American Philosophical Society. Later he became the first director of the United States Mint, where the country's coins are made.
+<!-- hb-story:end slug="david-rittenhouse" -->
+
+<!-- hb-zoom level="span" label="Jefferson, Buffon and the moose" -->
+A scientist in France named Buffon taught that animals and people grew "degenerate" in the Americas. By that he meant smaller and weaker. Thomas Jefferson argued against this with evidence in his book *Notes on the State of Virginia*.
+
+In the same book, in the part called Query XIV, Jefferson made a claim about Black people. He wrote: "I advance it therefore as a suspicion only, that the blacks, whether originally a distinct race, or made distinct by time and circumstances, are inferior to the whites in the endowments both of body and mind." Endowments here means natural abilities. He wrote that in reason Black people were "much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid." Euclid was an ancient Greek mathematician. Jefferson called his claim a suspicion, and he gave no evidence for it.
+
+Jefferson also used a moose as evidence against Buffon. Jefferson was the United States minister in Paris, the country's official representative to the French government. On January 7, 1786, he wrote to John Sullivan of New Hampshire, a former general and governor. He asked for "the skin, the skeleton, and the horns of the Moose."
+
+A hunting party working for Sullivan killed a moose in Vermont. Its body reached Sullivan on April 3, 1787, badly rotted. The skull and antlers could not be saved, so Sullivan sent the antlers of another animal. He wrote that they were "not the horns of this moose but may be fixed on at pleasure." That meant Jefferson could attach them however he liked.
+
+The shipment reached France in about late September 1787. Around October 1, 1787, Jefferson gave Buffon the moose's bones and skin, along with the antlers from the other animal. Jefferson wrote that the moose "convinced Mr. Buffon. He promised in his next volume to set these things right." Buffon died in April 1788 without printing a correction.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="benjamin-banneker-science" name="Benjamin Banneker" movie="" kind="famous" status="verified" -->
+### Benjamin Banneker
+
+> **Who:** A free Black tobacco farmer who taught himself mathematics and astronomy and calculated almanacs for the years 1792 through 1797.
+> **When and where:** Baltimore County, Maryland. Born November 9, 1731. Died 1806.
+
+Benjamin Banneker calculated the astronomy for six years of printed almanacs, for 1792 through 1797. He worked out where the sun, the moon and the planets would be on each day. Tables like these are called ephemerides. Banneker was a free Black tobacco farmer in Baltimore County, Maryland. He taught himself mathematics and astronomy from books and instruments that he borrowed.
+
+He was born on November 9, 1731. He correctly predicted the solar eclipse of April 14, 1789. In a solar eclipse, the moon passes between the earth and the sun and blocks some or all of the sun's light. Better-known almanac makers had calculated that eclipse differently. Banneker's prediction was the correct one.
+
+On August 19, 1791, Banneker sent Jefferson his almanac in manuscript, which means written by hand. He sent it as proof against Jefferson's claim about Black people. With it he sent a letter that challenged Jefferson about slavery. He wrote that "however variable we may be in society or religion, however diversified in situation or colour, we are all of the same family."
+
+Jefferson wrote back on August 30, 1791: "no body wishes more than I do to see such proofs as you exhibit, that nature has given to our black brethren, talents equal to those of the other colours of men." He sent the almanac on to a man named Condorcet in Paris.
+
+Banneker's first almanac, for the year 1792, went on sale in December 1791. Goddard & Angell of Baltimore printed it, and it sold in Baltimore, Philadelphia and Alexandria. An abolition society was a group that worked to end slavery. Joseph and George Ellicott, Banneker's Quaker neighbors, had made Quakers and the abolition societies of Baltimore and Philadelphia take an interest in him. The abolition societies of Pennsylvania and Maryland promoted Banneker's almanacs. Several printers published them, and they sold in the United States and in England.
+
+The 1792 almanac opened with words of support from James McHenry, a Maryland politician. He wrote: "I consider this Negro as fresh proof that the powers of the mind are disconnected with the colour of the skin." Negro was a word used then for a Black person.
+
+Banneker died in 1806. Three years later, on October 8, 1809, Jefferson wrote about him in a letter to Joel Barlow: "we know he had spherical trigonometry enough to make almanacs, but not without the suspicion of aid from Ellicot, who was his neighbor & friend, & never missed an opportunity of puffing him." Spherical trigonometry is the mathematics of angles and distances on a sphere, such as the sky. Puffing meant praising someone too much.
+<!-- hb-story:end slug="benjamin-banneker-science" -->
+
+<!-- hb-zoom level="span" label="Jefferson's fossil, 1797" -->
+On March 10, 1797, Jefferson presented a paper to the American Philosophical Society about a fossil animal named Megalonyx. The name means "giant claw." A fossil is the remains of a living thing kept in rock. Jefferson's paper was printed in 1799. Megalonyx was the first genus of fossil animal from the United States to receive a name. A genus is a group of closely related kinds of animals or plants.
+
+Caspar Wistar wrote a companion paper to Jefferson's. It was the first work of paleontology in the United States. Paleontology is the study of ancient life through fossils.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1750-1800" -->
