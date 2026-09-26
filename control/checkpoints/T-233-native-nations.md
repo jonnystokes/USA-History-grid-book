@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT (parts 1 and 2 DONE: part 1 verified by the director 2026-09-26, part 2 landed by T-233b. Part 3 to go)
+STATUS: IN-FLIGHT (all three parts landed. Part 3 by T-233c, self-reviewed. Awaiting director's prose check)
 VERIFY: python tools/project_state.py --check native-nations --stage prose
         (per part: python tools/project_state.py --punct manuscript/native-nations/<part>.md)
 BRIEF:  standard REVISION brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233c: units 8-10 landed. Running part 3 self-review.
-NEXT:   part 3 self-review (V2 Self-Review + amendment §5), then the chapter prose check.
+NOW:    T-233c done. Part 3 (units 8-10) landed and self-reviewed. Chapter prose check PASS.
+NEXT:   chapter complete. Director runs the prose check.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -93,6 +93,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - T-233c DEFECT FIXED (false statement): Standing Rock span said the pipeline ran "above [the reservation's] water supply". Bank: Lake Oahe IS the water supply. Now says the route ran under the lake, which is the water supply.
 - T-233c DEFECT FIXED (gnomic line + closing reversal): "Languages come home" opened on "The direct answer to a school that punished a language is a school that teaches in it" and closed on the war-and-classroom callback. The code-talker fact moved to the front as a plain statement; the span ends on the immersion schools.
 - T-233c NOTE: Haaland's grandparents "taken to boarding school": bank gives no actor, so the prose says the sources do not say who took them.
+- Part 3 self-review done (T-233c, V2 Self-Review + amendment §5): marker lines and record keys verified identical to pre-revision; prose about 5,400 words (baseline 4,537), average sentence 14.1 words; "members of Congress passed" openings varied; stock phrase "the sources used for this chapter" varied; document subjects checked for approved verbs (report states/records/lists/identifies, treaty states, opinion's first sentence is); hard words defined (headright, guardian, suspicious death, structural iron, rivet, civil rights, delegates, trust land, constitution, day school, code talker, runner, secure, classified, pentathlon, decathlon, professional, paratrooper, exposure, memoir, resolution, termination, proceedings, occupy, proclamation, settle, corporation, marshals, fish-in, harvestable, co-managers, upheld, compensation, interest, self-determination, gaming, compact, repatriation, subcommittee, coercive assimilation, principal chief, federally recognized, enrolled, sovereignty, disestablish, federal criminal law, pipeline, easement, wildlife refuge, solitary confinement, immersion, Indigenous, graduate school, reclamation, linguistics).
 
 ## Log
 
@@ -109,3 +110,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 8 1900-1950 (T-233c) | full v2 revision of era zoom, 6 spans, Thorpe, Hayes, Nez stories | 0 errors | file emdash=16 semicolon=7 (era 1900-1950 has 0)
 - 2026-09-26 | unit 9 1950-2000 (T-233c) | full v2 revision of era zoom, 6 spans, Mankiller, Frank, Fortunate Eagle stories | 0 errors | file emdash=10 semicolon=2 (era 1950-2000 has 0)
 - 2026-09-26 | unit 10 2000-today (T-233c) | full v2 revision of era zoom, 4 spans, Haaland, Baird stories | 0 errors | file emdash=0 semicolon=0
+- 2026-09-26 | part 3 self-review (T-233c) | opening variety, stock phrases, document verbs, definitions | 0 errors | file emdash=0 semicolon=0 | chapter --check prose: PASS

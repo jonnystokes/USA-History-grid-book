@@ -6,7 +6,7 @@
 <!-- hb-zoom level="era" -->
 In 1900 the United States census counted about 250,000 Native people. No United States census has recorded a lower number.
 
-Between 1900 and 1950, Native people founded the first national organizations that Native people ran themselves. Oil was found under Osage land in Oklahoma. In 1921 members of Congress passed a law that put many Osage adults' money under white guardians, whom judges in local courts appointed. Guardians and husbands stole the money. Between about 1920 and 1925, more than sixty Osage headright holders died in murders and suspicious deaths.
+Between 1900 and 1950, Native people founded the first national organizations that Native people ran themselves. Oil was found under Osage land in Oklahoma, and the Osage became rich. In 1921 members of Congress passed a law that put many Osage adults' money under white guardians, whom judges in local courts appointed. Guardians and husbands stole the money. Between about 1920 and 1925, more than sixty Osage headright holders died in murders and suspicious deaths.
 
 In 1924 members of Congress made every Native person born in the country a citizen. Ten years later they ended allotment, the cutting of nations' shared land into private pieces, which federal officials had carried out since 1887.
 
@@ -34,15 +34,15 @@ Kahnawake ironworkers kept building towers in Manhattan for generations. One of 
 <!-- hb-zoom level="span" label="The Osage and the Reign of Terror" -->
 In the 1920s the Osage in Oklahoma earned so much from oil that they were among the wealthiest people in the world, counted per person. White guardians and some of the men who married Osage women stole that money, and more than sixty Osage headright holders died in murders and suspicious deaths.
 
-In 1906 members of Congress passed the Osage Allotment Act. Under it, federal officials cut the Osage Nation's land into private pieces, but the Osage kept the minerals under the ground as shared property. The income from those minerals went to each member in an equal share called a headright. Then oil was found under the land, and the headrights began paying out oil money.
+Under the Osage Allotment Act, which members of Congress passed in 1906, federal officials cut the Osage Nation's land into private pieces, but the Osage kept the minerals under the ground as shared property. The income from those minerals went to each member in an equal share called a headright. Then oil was found under the land, and the headrights began paying out oil money.
 
 In 1921 members of Congress passed a guardianship law. Under it, judges in local courts appointed white guardians over the money of many Osage adults. A guardian is a person given legal control over someone else's money. An Osage person could own a headright and still not be allowed to spend what it earned. Guardians stole from the people whose money they controlled. Some of the men who married Osage women stole from their wives.
 
-From about 1920 to 1925, more than sixty Osage headright holders died in murders and in suspicious deaths. A suspicious death is one that looked like murder but was never proven to be. The sources used for this chapter do not name the killers. They call those years the Reign of Terror.
+Those deaths came between about 1920 and 1925. A suspicious death is one that looked like murder but was never proven to be. None of the sources used for this chapter names the killers. The same sources call those years the Reign of Terror.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Citizenship and the Indian New Deal" -->
-On June 2, 1924, members of Congress passed the Indian Citizenship Act. Under it, every Native person born in the United States became a citizen. Many of them still could not vote, because each state's lawmakers wrote that state's voting rules. The Library of Congress records that officials in some states kept Native people from voting until 1957.
+The Indian Citizenship Act became law on June 2, 1924. Under it, every Native person born in the United States became a citizen. Many of them still could not vote, because each state's lawmakers wrote that state's voting rules. The Library of Congress records that officials in some states kept Native people from voting until 1957.
 
 In 1928 a federal survey called the Meriam Report came out. Its full title was *The Problem of Indian Administration*. It records that under allotment, tribal land had fallen from 137 million acres to 47 million. It also records the poverty and disease Native people lived with after that loss.
 
@@ -125,7 +125,7 @@ Native people pushed that change through, one case at a time. The Menominee, who
 <!-- hb-zoom level="span" label="Termination and relocation" -->
 On August 1, 1953, members of Congress passed House Concurrent Resolution 108. A resolution is a formal statement of policy that members of Congress vote on. In this one they declared that the United States should end its recognition of Native nations, along with the federal services that came with it. The policy's name was termination. Termination means the government ending its recognition of a nation. With recognition, the nation also lost its standing to deal with the United States as a nation.
 
-Between 1953 and 1970, members of Congress ran about sixty termination proceedings, the formal legal steps that ended a nation's recognition. Those proceedings affected more than a hundred tribes and bands. More than 3 million acres of land stopped being held in trust, which meant the United States no longer held that land on the nations' behalf.
+Between 1953 and 1970, members of Congress ran about sixty termination proceedings, the formal legal steps that ended a nation's recognition. Those proceedings covered more than a hundred tribes and bands. More than 3 million acres of land stopped being held in trust, which meant the United States no longer held that land on the nations' behalf.
 
 The Menominee of Wisconsin ran a profitable timber business. Members of Congress passed the Menominee termination act in 1954. When it took effect in 1961, the Menominee Nation fell into poverty. Menominee people organized a movement called DRUMS, with Ada Deer among its leaders. They kept pushing until members of Congress reversed the termination. The Menominee Restoration Act became law on December 22, 1973.
 
@@ -135,7 +135,7 @@ Many of them lived in poverty in the cities. They also built permanent Native co
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Red Power" -->
-In July 1968, in Minneapolis, George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement, known as AIM. Its members began with street patrols against police abuse, in a city where relocation had brought many Native people.
+In July 1968, in Minneapolis, George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement, known as AIM. Its members began with street patrols against police abuse. Many Native people had moved to Minneapolis under relocation.
 
 On November 20, 1969, a group calling itself Indians of All Tribes landed on Alcatraz Island in San Francisco Bay. They occupied the closed federal prison there, which means they moved in and held it. Richard Oakes, who was Mohawk, was among the leaders. In their proclamation, a public statement, they offered to buy the island for "$24 in glass beads and red cloth." They held it for nineteen months, until June 11, 1971.
 
@@ -143,7 +143,7 @@ While they held the island, President Nixon ended termination as federal policy.
 
 On December 18, 1971, the Alaska Native Claims Settlement Act became law. Under it, Alaska Native land claims were settled for 44 million acres and $962.5 million. To settle a claim is to end it by agreement. The land and money went to twelve regional corporations, later thirteen, and to more than 200 village corporations, instead of to Alaska Native nations. A corporation is a business owned by shareholders, and Alaska Natives became the shareholders.
 
-In 1973 about 200 Oglala Lakota and AIM members occupied the village of Wounded Knee. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals and FBI agents. Federal marshals are officers who carry out the orders of the national courts. The occupiers were protesting against the tribal chairman at Pine Ridge and against the treaties that United States officials had broken. Two of the occupiers were killed. The sources used for this chapter do not say who killed them.
+In 1973 about 200 Oglala Lakota and AIM members occupied the village of Wounded Knee. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals and FBI agents. Federal marshals are officers who carry out the orders of the national courts. The occupiers were protesting against the tribal chairman at Pine Ridge and against the treaties that United States officials had broken. Two of the occupiers were killed. The sources for this chapter do not identify who killed them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The fish-ins and the Boldt decision" -->
@@ -165,9 +165,9 @@ The Lakota have refused the money. It is held in a federal account, and with the
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Self-determination in statute" -->
-In January 1975 President Ford signed the Indian Self-Determination and Education Assistance Act. Self-determination means a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because the schools were the main issue in the argument.
+President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975. Self-determination means a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because the schools were the main issue in the argument.
 
-Members of Congress passed the Indian Child Welfare Act in 1978. For decades before it, workers at state agencies and adoption agencies had been taking a large share of Native children from their families and placing them in non-Native homes. In the act, members of Congress set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts authority over the cases.
+For decades before 1978, workers at state agencies and adoption agencies took a large share of Native children from their families. They placed the children in non-Native homes. In 1978 members of Congress passed the Indian Child Welfare Act. In it they set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts authority over the cases.
 
 The Indian Gaming Regulatory Act became law on October 17, 1988. Gaming means gambling businesses, such as casinos. The act states the legal rules for gaming run by tribes. It lists three classes of games. It requires compacts, which are formal agreements that a nation and a state negotiate. It provides for a National Indian Gaming Commission to oversee tribal gaming. Gaming income varies enormously from nation to nation. For some nations gaming became a large source of income, and for many others it brings in little or nothing.
 
@@ -175,11 +175,11 @@ On November 16, 1990, members of Congress passed the Native American Graves Prot
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Nations take the schools back" -->
-In 1968 the Navajo Nation founded a college of its own at Tsaile, Arizona. It was called Navajo Community College, and today it is Diné College. It was the first college in the country controlled by a Native nation. Native nations have founded dozens of tribal colleges since.
+The Navajo Nation founded a college of its own at Tsaile, Arizona, in 1968. It was called Navajo Community College, and today it is Diné College. It was the first college in the country controlled by a Native nation. Native nations have founded dozens of tribal colleges since.
 
 In November 1969 the senators on a Senate subcommittee on Indian education published their report. A subcommittee is a small group of senators assigned to one subject. The report's title is *Indian Education: A National Tragedy, A National Challenge*. It is known as the Kennedy Report, because Senator Robert F. Kennedy led the work at first and Senator Edward Kennedy finished it.
 
-The report states that federal policy had been "coercive assimilation" with "disastrous effects." Coercive assimilation means forcing a group of people to give up their own language and ways of life. The report recommends that Native people run Native schools.
+The report states that federal policy had been "coercive assimilation" with "disastrous effects." Coercive assimilation means forcing a group of people to give up their own language and ways of life. Its authors called for Native people to run Native schools.
 
 Boarding-school enrollment peaked at about 60,000 children in 1973. After that it fell, as nations took the schools over under the 1975 law or closed them. A few boarding schools are still open. Tribes or the federal Bureau of Indian Education run them. People who had been children at the schools began publishing accounts of what had happened to them there.
 <!-- /hb-zoom -->
@@ -245,7 +245,7 @@ On September 21, 2004, the National Museum of the American Indian opened on the 
 <!-- hb-zoom level="span" label="Sovereignty in court and in office" -->
 Sovereignty is the right of a nation to govern itself. When United States officials forced the Muscogee (Creek) Nation to move to Oklahoma, they promised it a reservation there. On July 9, 2020, the justices of the Supreme Court decided *McGirt v. Oklahoma*, a case about whether that reservation still existed. Lawyers for Oklahoma argued that it had ended long ago. Five of the nine justices held that members of Congress had never disestablished it, meaning they had never formally ended it. Four justices disagreed.
 
-Under the ruling, about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land for the purposes of federal criminal law, the national laws about crimes. Justice Neil Gorsuch wrote the opinion. Its first sentence reads: "On the far end of the Trail of Tears was a promise." In later rulings, judges applied the same reasoning to the reservations of the other nations that United States officials had forced out of the Southeast.
+Under the ruling, about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land for the purposes of federal criminal law, the national laws about crimes. Justice Neil Gorsuch wrote the opinion. Its first sentence is: "On the far end of the Trail of Tears was a promise." In later rulings, judges applied the same reasoning to the reservations of the other nations that United States officials had forced out of the Southeast.
 
 On June 15, 2023, in *Haaland v. Brackeen*, seven of the nine justices upheld the Indian Child Welfare Act, which means they kept it in force. The people challenging the act had claimed that it broke the Constitution. Two justices disagreed with the ruling.
 
@@ -255,7 +255,7 @@ In 2018 Deb Haaland of Laguna Pueblo and Sharice Davids, who is Ho-Chunk, became
 <!-- hb-zoom level="span" label="Standing Rock and land back" -->
 In 2016 the Standing Rock Sioux Tribe opposed the Dakota Access Pipeline, a long pipe built to carry oil. Its route ran under Lake Oahe on the Missouri River, just upstream of the reservation. The lake is the reservation's water supply.
 
-From April 2016, people set up camps at Oceti Sakowin. Young people from Standing Rock carried the tribe's message on foot. They ran a 500-mile relay to the Army Corps of Engineers office in Omaha, and then a 2,000-mile run to Washington, D.C. Thousands of people from hundreds of nations came to the camps. News reports at the time called it the largest gathering of Native nations in more than a century.
+From April 2016, people set up camps at Oceti Sakowin. Young people from Standing Rock carried the tribe's message on foot. They ran a 500-mile relay to the Army Corps of Engineers office in Omaha, and then a 2,000-mile run to Washington, D.C. Thousands of people from hundreds of nations came to the camps. News reports at the time called the camps the largest gathering of Native nations in more than a century.
 
 On December 4, 2016, officials of the Army Corps halted the easement. An easement is the legal permission the pipeline needed to cross under the lake. That same week, more than 2,000 United States military veterans arrived to stand with the camps. Officials of the next presidential administration approved the easement in early 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
 
@@ -277,7 +277,7 @@ Army officials have been digging up children buried in the cemetery at the Carli
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Languages come home" -->
-Boarding-school staff punished children for speaking Native languages. Soldiers used two of those languages, Choctaw and Navajo, to send messages the enemy could not read in two world wars. Today Native nations run schools that teach children in their own languages.
+Boarding-school staff punished children for speaking Native languages. In the two world wars, soldiers used two of those languages, Choctaw and Navajo, to send messages the enemy could not read. Today Native nations run schools that teach children in their own languages.
 
 In Hawaii, lawmakers banned teaching in Hawaiian in a law dating from 1896. In 1984 the first Pūnana Leo immersion preschool opened at Kekaha on Kaua'i. In an immersion school, teachers give every lesson in the language itself, so children learn arithmetic and reading in Hawaiian instead of learning Hawaiian as one subject. The Pūnana Leo schools were the first Indigenous-language immersion preschools in the United States. Indigenous means belonging to the people who lived in a place first.
 
@@ -298,7 +298,7 @@ Deb Haaland is a citizen of Laguna Pueblo. She describes herself as a 35th-gener
 
 On March 15, 2021, members of the Senate voted to confirm her as Secretary of the Interior. She was the first Native American to run a cabinet department. Earlier officials of that department had run the federal boarding schools.
 
-By her own account, her grandparents were taken to boarding school as children. The sources used for this chapter do not say who took them. In June 2021 she ordered officials of her department to investigate the department's own record and count what its officials had done. They published the final count on July 30, 2024, while she was still the secretary.
+By her own account, her grandparents were taken to boarding school as children. The research for this chapter does not name who took them. In June 2021 she ordered officials of her department to investigate the department's own record and count what its officials had done. They published the final count on July 30, 2024, while she was still the secretary.
 <!-- hb-story:end slug="deb-haaland-native-nations" -->
 
 <!-- hb-story:start slug="jessie-little-doe-baird" name="Jessie Little Doe Baird" movie="We Still Live Here: As Nutayunean (2011)" kind="ordinary" status="verified" -->
