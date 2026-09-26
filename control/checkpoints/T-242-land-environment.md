@@ -15,15 +15,15 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242b writing part 1, era 1750-1800.
-NEXT:   T-242b: write part 1 (eras 1-5)
+NOW:    T-242b landed (part1 eras 1-5 written, 3,584 words, 2 stories).
+NEXT:   T-242c: write part 2 (eras 6-7)
 
 ## Units
 
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | in-flight | |
+| 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
@@ -46,11 +46,21 @@ NEXT:   T-242b: write part 1 (eras 1-5)
 - Era 09 wolves "first deliberate return of a top predator": unsupported.
 - Era 08 pigeon "first time Americans watched a species ... go to zero on a known day": unsupported.
 - Era 10 "Warren County question answered once, by one neighborhood": framing only.
+- (T-242b) Era 01 "wilderness ... not recognizing the work": framing, not in the bank.
+- (T-242b) Era 01 Calusa watercourts "shell-walled": the bank says only engineered live-fish pens.
+- (T-242b) Era 02 horses "back on the continent from 1493": the bank has only Columbus's second voyage, 1493 (a Caribbean voyage, so "on the continent" is also wrong). Weeds: not in the bank.
+- (T-242b) Era 03 beaver trade "moving inland as each region emptied" and "dams fail, ponds drain, wet meadows dry": not in the bank. Livestock conflict "the treaties kept circling back to": not in the bank.
+- (T-242b) Era 04 "Surveyors marked the King's trees": the bank gives no actor for the Broad Arrow. "Whales for lamp oil": not in the bank.
+- (T-242b) Era 05 "paying war debts with the one thing it had plenty of": not in the bank. "Ignoring rivers, hills": not in the bank.
 
 ## BLOCKING GAPS
+- (T-242b) Era 02, span "Forest over lost farms": the bank (Koch et al. 2019) gives "epidemics, war, and famine" after 1492 but not who carried the diseases or fought the wars. Prose states the deaths and the study's figures and names no actor.
+- (T-242b) Era 04, span "Worn-out tobacco fields": the bank does not say whose land the planters cleared as they moved up the Rappahannock and Potomac, or who did the clearing (planters only). Prose says "new ground" and names no nation.
+- (T-242b) Era 03, Miantonomi story: the bank says he was executed after capture by the Mohegans with Connecticut's approval, but not who killed him or how. Prose: "Mohegan men captured Miantonomi and executed him ... Leaders of the Connecticut colony approved."
 
 ## Log
 - 2026-09-26 T-242b part1 before-1500 written: ~700 words file total, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1500s written: file ~1,250 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1600s written (story miantonomi): file ~1,900 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1700-1750 written: file ~2,400 words, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-242b part1 1750-1800 written (story ebenezer-mudgett); self-review run. Part1 total 3,584 words, validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.

@@ -24,7 +24,7 @@ For thousands of years, Native people in what is now the eastern United States b
 
 In 2019, researchers at Penn State, a university in Pennsylvania, published a study in the journal *Annals of Forest Science*. They found that Native burning did more than the climate to decide which trees grew in the eastern forests. Climate is the usual weather of a place over many years. Even small groups of people burned large areas, over and over.
 
-European colonists did not take this burning seriously. Much later, officials of the US Forest Service set out to put out every forest fire. The Penn State researchers call the end of burning after about 1940 "an ecologically transformative event in all forests." Ecology is the study of how living things depend on each other and on the land. By that phrase the researchers mean that stopping the fires changed the plants and animals of every forest.
+European colonists did not take this burning seriously. Much later, officials of the US Forest Service set out to put out every forest fire. The Penn State researchers call the total stopping of fires after about 1940 "an ecologically transformative event in all forests." Ecology is the study of how living things depend on each other and on the land. By that phrase the researchers mean that stopping the fires changed the plants and animals of every forest.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three crops in one field" -->
@@ -34,7 +34,7 @@ Growing the three crops together kept the soil in good condition. A field plante
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Beavers, bison and fish pens" -->
-Beavers changed whole watersheds. A watershed is all the land that drains into one stream or river. Beaver dams held back water in ponds. The ponds slowed floods, and the wet ground around them became wet meadows. Estimates of how many beavers lived in North America before the fur trade run from 60 million to 400 million. The fur trade was the buying and selling of animal skins, and it began after Europeans arrived. Nobody counted the beavers, so these numbers are only estimates.
+Beavers changed whole watersheds. A watershed is all the land that drains into one stream or river. Beaver dams held back water in ponds. The ponds slowed floods, and the wet ground around them became wet meadows. Estimates of how many beavers lived in North America before the fur trade run from 60 million to 400 million. The fur trade was the buying and selling of animal skins, and it began after Europeans arrived. Nobody counted the beavers.
 
 Bison lived on the Plains, the wide grasslands in the middle of the continent. About 30 million bison lived there in the early 1800s. Estimates for the years before Europeans came are less certain.
 
@@ -52,7 +52,7 @@ After 1492, epidemics, war and famine killed most of the Native people of the Am
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pigs, horses and cattle" -->
-Hernando de Soto landed near Tampa Bay, in what is now Florida, in May 1539. He brought about 600 men and a herd of pigs. Chronicles, the written histories of his expedition, give the first herd as 13 pigs. By the time de Soto died in 1542, the herd had grown to about 700, not counting the pigs the men ate, gave away or lost. Pigs that escaped became the ancestors of the feral hogs of the Southeast. Feral hogs are farm pigs, and their young, living wild.
+Hernando de Soto landed near Tampa Bay, in what is now Florida, in May 1539. He brought about 600 men and a herd of pigs. An expedition is a journey made by a group for a purpose. Chronicles, the written histories of de Soto's expedition, give the first herd as 13 pigs. By the time de Soto died in 1542, the herd had grown to about 700, not counting the pigs the men ate, gave away or lost. Pigs that escaped became the ancestors of the feral hogs of the Southeast. Feral hogs are pigs from farm stock that live in the wild.
 
 Horses and cattle came with the Spanish. Columbus brought horses on his second voyage, in 1493. Spanish colonists brought horses and cattle to their colony in New Mexico in 1598.
 <!-- /hb-zoom -->
@@ -130,3 +130,58 @@ A tobacco field in colonial Virginia gave good crops for only three or four year
 New Englanders first hunted right whales, a kind of whale, from the beaches. On Nantucket, an island off Massachusetts, people tell a story that deep-sea whaling began there in 1712. In the story, wind blew Christopher Hussey's boat out to sea, and the men aboard killed a sperm whale. Obed Macy first wrote the story down in his history of Nantucket in 1835, more than 120 years later. It may be a legend. Historians at the Nantucket Historical Association call 1712 the traditional date. Whatever the first year was, by the middle of the 1700s Nantucket whalers were hunting sperm whales far out in the ocean.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
+
+<!-- hb-time:start id="1750-1800" order="05" chapter="land-environment" label="1750 to 1800" state="full" progress="written" -->
+## 1750 to 1800
+
+<!-- hb-zoom level="era" -->
+In 1785 members of Congress ordered the land north and west of the Ohio River measured into a grid of squares, so that US officials could sell it. The Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations lived on that land. US commissioners claimed most of it through a treaty signed under threat in January 1785. Surveyors measured it under army guard. From 1790 to 1794, US generals led armies against the nations, who had joined together to stop settlement. After the US Army defeated them, leaders of eleven nations signed a treaty in 1795 that gave up most of Ohio.
+
+Before independence, the king's officials had claimed New England's biggest white pines. In 1772, men in Weare, New Hampshire, beat a sheriff who came to make a mill owner pay for cutting them. After independence, settlers crossed the Appalachian Mountains and cleared the forest for farms.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="ebenezer-mudgett" name="Ebenezer Mudgett" movie="" kind="ordinary" status="verified" -->
+### Ebenezer Mudgett
+
+> **Who:** A sawmill owner in Weare, New Hampshire, fined for cutting the king's white pines, who led the Pine Tree Riot.
+> **When and where:** South Weare, New Hampshire, April 13 and 14, 1772.
+
+Ebenezer Mudgett owned a sawmill in Weare, New Hampshire. He had been fined for cutting the king's white pines, the trees kept by law for the masts of the Royal Navy.
+
+On April 13, 1772, Sheriff Benjamin Whiting rode into South Weare with a warrant to arrest Mudgett. A warrant is a paper from a court that allows an arrest. Mudgett told him he would pay in the morning. At dawn on April 14, Mudgett came back with 20 to 30 men who had blackened their faces with soot, the black powder that smoke leaves behind. They beat the sheriff and his deputy with rods and drove them out of town. The fight became known as the Pine Tree Riot.
+
+The rioters were later fined 20 shillings, a small fine. A shilling was a British coin. After the riot, officials mostly stopped enforcing the law that kept the pines for the navy. Some historians count the riot as a forerunner of the Boston Tea Party, a protest in December 1773. A forerunner is an earlier event of the same kind. Nobody has shown that the riot led to the Tea Party.
+<!-- hb-story:end slug="ebenezer-mudgett" -->
+
+<!-- hb-zoom level="span" label="The grid, 1785" -->
+On May 20, 1785, members of the Confederation Congress passed the Land Ordinance. The Confederation Congress was the national government of the United States before the Constitution. An ordinance is a law. This one specified how the public land, the land the national government claimed, would be sold. Under it, surveyors had to survey that land before anyone could buy it. To survey land means to measure it and map it.
+
+The surveyors divided the land into townships, which were squares six miles long on each side. They cut each township into 36 sections. A section was one square mile, which is 640 acres. The sections were numbered, and members of Congress set aside section 16 in every township to support public schools.
+
+After changes to the system in 1796, surveyors carried the grid across the continent to the Pacific Ocean. People in airplanes over the Midwest can still see its checkerboard pattern on the ground.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Whose land the grid covered" -->
+In 1785 the land north and west of the Ohio River was the home of the Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations. George W. Knepper wrote a history of these lands, *The Official Ohio Lands Book*, for Ohio's Auditor of State, an official of the state government. He writes that in the view of Congress, "Indian claims to that land had to be cleared."
+
+A commissioner is an official sent to do a certain job. A treaty is a written agreement between nations. In January 1785, four months before the Land Ordinance passed, US commissioners met representatives of several nations at Fort McIntosh. Under the treaty the commissioners made there, most of the Native people of Ohio were confined to a reserve between the Cuyahoga and Maumee rivers. A reserve is an area set aside for a nation to live on. The rest of Ohio would go to American settlers.
+
+Knepper writes that the Shawnee in particular "refused to abide by a treaty negotiated under duress by minor tribal chiefs who lacked authority to speak for their people." To abide by means to obey. Under duress means under threat or force.
+
+On September 30, 1785, Thomas Hutchins began the first survey of this land for the national government. His title was Geographer of the United States. A geographer is a person who studies and maps the land. He and his crew worked in eastern Ohio, in an area called the Seven Ranges. They ran a line 42 miles west from Pennsylvania, called the Geographer's Line. Then they cut the land into ranges, which are long strips, and into townships and sections. They kept section 16 for schools. The surveyors worked out of Fort McIntosh, guarded by its troops. They measured the land for sale while the nations who lived on it still rejected the treaty.
+
+In 1786, Knepper writes, US commissioners "coerced" the Shawnee into another treaty at Fort Finney. Coerced means forced.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The war for Ohio and the Treaty of Greenville" -->
+The nations of the region joined in a confederacy, a union of nations, to stop American settlement. In 1790 Major General Josiah Harmar led a US army against them. Warriors led by Little Turtle, a Miami war chief also known as Meshekinoquah, defeated Harmar's army.
+
+In 1791 Major General Arthur St. Clair led another army against the confederacy. St. Clair was the governor of the Northwest Territory, the US name for the land north and west of the Ohio River. The confederacy's warriors defeated his army at the place later called Fort Recovery. Knepper calls it "the worst defeat ever inflicted upon the U.S. Army by Indian warriors."
+
+In 1794 Major General Anthony Wayne led an army that defeated the confederacy at the Battle of Fallen Timbers. On August 3, 1795, leaders of eleven northwestern nations signed the Treaty of Greenville. In it they ceded 16,930,417 acres to the United States. To cede land means to give it up by treaty. Under the treaty, the nations kept only the northwest quarter of Ohio and the lands beyond it, behind a boundary called the Greenville Treaty Line.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Clearing after independence" -->
+After independence, the king's claim on the white pines no longer held in the United States. Settlers crossed the Appalachian Mountains, some of them into the Northwest Territory, and cut down the forest to make farms.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1750-1800" -->
