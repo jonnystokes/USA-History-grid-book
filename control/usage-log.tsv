@@ -129,3 +129,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-240b	write-prose	general-purpose	[CLOUD] science part1 (5 eras)	?	?	?	183222	31	533509	3250	completed	2 blocking gaps collected
 2026-09-26	T-240c	write-prose	general-purpose	[CLOUD] science part2 (2 eras)	?	?	?	160469	27	423889	3450	completed	6 blocking gaps collected
 2026-09-26	T-240d	write-prose	general-purpose	[CLOUD] science part3 (3 eras)	?	?	?	216801	31	762214	8800	completed	chapter PASS prose; 10 blocking gaps
+2026-09-26	T-240e	research+fix	general-purpose	[CLOUD] science blocking gaps (bank + 3 parts)	?	?	?	264127	127	1065812	?	completed	17 closed, 4 partly

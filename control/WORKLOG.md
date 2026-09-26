@@ -2179,4 +2179,21 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-240-science.md, section "BLOCKING GAPS"
 VERIFY: science still PASSES research and prose. Each gap is marked closed or genuinely-unknown
         in the checkpoint.
+RESULT: DONE. 264,127 tokens, 127 tool uses, 18 min. Prose and research both PASS.
+        Manuscript 15,888 -> 17,340w. Bank 14,989w.
+        21 gap entries: 17 closed and 4 partly closed, with the rest recorded GENUINELY UNKNOWN
+        and the sources checked. Still unknown: who pulled Ebb Cade's teeth (ACHRE itself could not
+        find out), who injected Stevens and Allen, who dug up the Philadelphia bodies (the Penn
+        2021 report shows Morton got at least 14 himself), named proslavery users of Query XIV
+        (Jefferson enslaving 600+ people is now in the prose), Hrdlička's other collectors, and
+        who enslaved Alfred, Drana and Fassena.
+        CORRECTIONS: Cade's injector is disputed (Howland against Dwight Clark), and the prose gives
+        both. Simeon Shaw flew WITH his mother (ACHRE), where AHF said he was separated from her.
+        PARKED: APS dates the first Transactions 1771, and the bank says 1773.
+T-240 COMPLETE: science, 5 agents, about 1.01M tokens.
+
+### 2026-09-26 | [CLOUD] T-241a | elements: pre-write bank check
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-241-elements.md
+VERIFY: elements --stage research still PASSES.
 RESULT:

@@ -213,4 +213,9 @@ will be worded differently, which is exactly why a search will not find it.
   claims were left out under DECISIONS #13 (listed in `control/checkpoints/T-237-immigration.md`).
   **Question for Jon:** `jewish-refugees-1654` is an hb-story about a group, with only Jacob
   Barsimson named. Does it stand, or should it become hb-zoom prose?
+- **science (from T-240b-e, 2026-09-26).** The APS's first Transactions: APS says 1771, the bank
+  says 1773, and the prose was left as it was. Part 1 carries a few identity glosses from general
+  knowledge, not the bank (Newton's first name, "Swedish botanist" and similar), which are small
+  breaches of DECISIONS #13. About 59 outline claims were left out across the three parts
+  (listed in the checkpoint).
 
