@@ -132,3 +132,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-240e	research+fix	general-purpose	[CLOUD] science blocking gaps (bank + 3 parts)	?	?	?	264127	127	1065812	?	completed	17 closed, 4 partly
 2026-09-26	T-241a	research	general-purpose	[CLOUD] elements pre-write bank check	?	?	?	205622	92	800854	?	completed	14 patches
 2026-09-26	T-241b	write-prose	general-purpose	[CLOUD] elements part1 (5 eras)	?	?	?	163118	31	428349	2802	completed	3 blocking gaps
+2026-09-26	T-241c	write-prose	general-purpose	[CLOUD] elements part2 (2 eras)	?	?	?	156158	25	304113	2357	completed	4 blocking gaps

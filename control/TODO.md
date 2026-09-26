@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-241c in flight:** writing `elements` part 2 (eras 6-7). Part 1 is done. The per-chapter pattern is now:
+**T-241d in flight:** writing `elements` part 3 (eras 8-10). Parts 1 and 2 are done. T-241e (gaps) follows. The per-chapter pattern is now:
 check the bank, write 3 parts, then close the collected gaps.
 **science PASSES prose and research** (T-240 done, 5 agents, about 1.0M tokens).
 

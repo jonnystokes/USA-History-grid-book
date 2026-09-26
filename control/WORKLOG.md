@@ -2229,4 +2229,18 @@ RESULT: DONE. 163,118 tokens, 31 tool uses, 7 min. MEASURED: validator 0 · --pu
 ### 2026-09-26 | [CLOUD] T-241c | Write elements PART 2 (eras 6-7)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-241-elements.md (unit 3)
+RESULT: DONE. 156,158 tokens, 25 tool uses, 5 min. MEASURED: validator 0 · --punct 0/0 · 2/2 written ·
+        1 story verified (the Halls). 2,357 words.
+        Covers Georgia gold on Cherokee land (the Gold Lottery), Stuart's 1842 Copper Treaty with
+        the Ojibwe, the Ontonagon Boulder (taken, and the 1991 request Smithsonian officials
+        refused), gold-field mercury, the Danbury hatters, the Black Hills (1877, the 1980 ruling,
+        the $2 billion the Sioux refused). Anaconda arsenic dates from 1902 and moves to part 3.
+        DEFECTS FIXED: 2 false firsts, and institutions as actors.
+        BLOCKING GAPS (4, collected): the actor for the 1838 Cherokee removal, the Danbury shop
+        owners, named people poisoned by gold-field mercury, who drafted the 1876 agreement.
+
+### 2026-09-26 | [CLOUD] T-241d | Write elements PART 3 (eras 8-10), the last part
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-241-elements.md (unit 4)
+VERIFY: elements --stage prose SHOULD PASS.
 RESULT:
