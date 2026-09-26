@@ -18,7 +18,7 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243b landed 2026-09-26 (part1, eras 1-5, 3,414 prose words, validator clean, punct 0/0).
+NOW:    T-243c writing part2 era 1800-1850 (file manuscript/economy/part2-1800s.md may be half-written; check its hb-time sections).
 NEXT:   T-243c: write part 2 (eras 6-7)
 
 ## Units
@@ -27,7 +27,7 @@ NEXT:   T-243c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | todo | |
+| 3 | part2 eras 6-7 | in progress (T-243c) | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
