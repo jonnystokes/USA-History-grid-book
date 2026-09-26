@@ -14,11 +14,11 @@ Editor's in-development note — not part of the final book; the parser strips i
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Between 1900 and 1950, builders in New York put up the tallest buildings in the world. In the same years, officials wrote the first rules covering a whole American city that said what could be built where. New York's officials adopted those rules in 1916. They divided the city into districts and set a formula for how far a tall building had to step back from the street as it rose.
+In 1916, New York's officials adopted the first rules for a whole American city on what could be built where. They divided the city into districts and set a formula for how far a tall building had to step back from the street as it rose. Between 1929 and 1931, builders in New York put up the tallest buildings in the world.
 
 Between 1935 and 1940, staff at a federal agency, the Home Owners' Loan Corporation, graded the neighborhoods of 239 cities from A to D. Each grade stated how safe the staff judged it was to lend money there. When Black families lived in a neighborhood, the staff almost always graded it D and colored it red on the map. Lenders used those grades for decades.
 
-Millions of people moved into these cities in these decades. Some were immigrants from other countries, and many were Black families leaving the South. White property owners had already written clauses into their deeds that forbade selling or renting to Black buyers. Judges enforced those clauses, so Black families could find homes in only a few districts. Landlords there charged them more for less room.
+Millions of people moved into these cities in these decades. Some were immigrants from other countries, and many were Black families leaving the South. White property owners had already written clauses into their deeds that forbade selling or renting to Black buyers. Judges enforced those clauses, so Black families could find homes in only a few districts. Landlords there charged them more rent for each square foot than white families paid.
 
 From 1942, workers for the Manhattan Project built whole cities and left them off every published map. The Manhattan Project was the Army's secret program to build an atomic bomb. One of its cities, Oak Ridge in Tennessee, went up on land where about 1,000 families had lived and farmed. In October 1942 the U.S. Army Corps of Engineers took that land and made the families leave.
 <!-- /hb-zoom -->
@@ -32,13 +32,13 @@ Missouri lay downstream on the Mississippi, and people there did not want Chicag
 
 The authors of one economic history estimate that the reversal cut the number of deaths in Chicago by about 4 percent in 1900. That is about 985 people who would otherwise have died that year.
 
-San Francisco's water came from a valley inside Yosemite National Park. During the earthquake and fire of 1906, there was not enough water in San Francisco to put out the fires. City officials then planned to dam the Hetch Hetchy Valley in Yosemite and pipe its water to the city. Damming the valley meant flooding it. Conservationists, people who work to protect wild land, fought to stop the dam.
+San Francisco's officials got their city's water by damming a valley inside Yosemite National Park. During the earthquake and fire of 1906, there was not enough water in San Francisco to put out the fires. City officials then planned to dam the Hetch Hetchy Valley in Yosemite and pipe its water to the city. Damming the valley meant flooding it. Conservationists, people who work to protect wild land, fought to stop the dam.
 
 On December 19, 1913, President Woodrow Wilson signed the Raker Act. Under the Act, San Francisco's city government could build the dam. The members of Congress who passed the Act wrote into it that nobody could make a private profit from that water and power. Workers finished the O'Shaughnessy Dam in 1923. By 1934 the full system was carrying water to San Francisco.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Zoning: rules for what may be built where" -->
-Zoning means dividing a city into districts and setting rules for what may be built in each one: how tall a building may be, how close it may stand to the street, and what it may be used for. Before 1916, no American city had zoning rules that covered the whole city. Anyone who owned a lot could build almost anything on it, to any height, right out to the sidewalk.
+Zoning means dividing a city into districts and setting rules for what may be built in each one. The rules state how tall a building may be, how close it may stand to the street, and what it may be used for. Before 1916, no American city had zoning rules that covered the whole city. Anyone who owned a lot could build almost anything on it, to any height, right out to the sidewalk.
 
 On July 25, 1916, New York's officials adopted the first citywide zoning resolution in the country. A resolution is a formal rule that officials vote to adopt.
 
@@ -71,15 +71,15 @@ The Chrysler Building's architect, Van Alen, was racing the builders of 40 Wall 
 
 The Empire State Building opened on May 1, 1931. It had 102 stories and stood 1,250 feet to the roof, taller than both. Its builders put it up in 410 days, for about $41 million. President Hoover turned on its lights by pressing a button in Washington.
 
-The building opened during the Depression, the years of the 1930s when many businesses failed and many people lost their work. Too few businesses rented its offices, and for years the building stood about half empty.
+The building opened during the Depression, the years of the 1930s when businesses failed and people lost their jobs. Too few businesses rented its offices, and for years the building stood about half empty.
 
-Mohawk ironworkers from Kahnawake and Akwesasne, two Mohawk communities, worked on the steel of the Empire State and Chrysler buildings. Ironworkers put together the steel frames of bridges and tall buildings. They had done the same work on the bridges and buildings of the generation before. Families in those two communities have passed the trade down ever since.
+Ironworkers put together the steel frames of bridges and tall buildings. Mohawk ironworkers from Kahnawake and Akwesasne, two Mohawk communities, worked on the steel of the Empire State and Chrysler buildings. Mohawk ironworkers had done the same work on the bridges and buildings of the generation before. Families in those two communities have passed the trade down ever since.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where Great Migration families could live" -->
 The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 500 percent, and New York's roughly doubled.
 
-Black families who arrived could not live wherever they chose. White property owners had already written rules to keep them out of neighborhoods in Chicago and across the country. These rules were called restrictive covenants. A restrictive covenant is a clause, or section, written into the deed of a house. The deed is the legal paper that records who owns the house. The covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey the clause too. Through the 1920s, white owners in Chicago and across the country signed covenants into their deeds, block by block.
+Black families who arrived could not live wherever they chose. White property owners had already written rules to keep them out of neighborhoods. These rules were called restrictive covenants. A restrictive covenant is a clause, or section, written into the deed of a house. The deed is the legal paper that records who owns the house. The covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey the clause too. Through the 1920s, white owners in Chicago and across the country signed covenants into their deeds, block by block.
 
 Judges enforced the covenants, which means they ordered people to obey them. Because of the covenants and the judges who enforced them, Black families could rent or buy homes in only a few districts. In Chicago that was a strip of the South Side that white Chicagoans called the Black Belt. Its own residents named it Bronzeville. In New York it was Harlem. The number of people who needed rooms in those districts kept rising. In 1948, in the case *Shelley v. Kraemer*, the justices of the Supreme Court ruled that courts could no longer enforce the covenants.
 
@@ -87,7 +87,7 @@ Landlords in the crowded districts split their flats, or apartments, into smalle
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The maps with red lines" -->
-The Home Owners' Loan Corporation was a federal agency set up in 1933, during the Depression. Its staff refinanced mortgages. A mortgage is a loan to buy a house. To refinance a mortgage, the agency's staff took over a home loan that the owner could no longer pay and rewrote it on easier terms. Between 1935 and 1940, the agency's staff also made maps of 239 cities, called "Residential Security" maps.
+In 1933, during the Depression, federal officials set up an agency called the Home Owners' Loan Corporation. Its staff refinanced mortgages. A mortgage is a loan to buy a house. To refinance a mortgage, the agency's staff took over a home loan that the owner could no longer pay and rewrote it on easier terms. Between 1935 and 1940, the agency's staff also made maps of 239 cities, called "Residential Security" maps.
 
 The staff went through each city neighborhood by neighborhood. They gave each neighborhood a grade for how safe they judged it was to lend money on the houses there. A was the best grade, shaded green on the map, followed by B in blue and C in yellow. D was the worst grade. The maps described D neighborhoods as "hazardous," and the staff shaded them red. The word redlining comes from these red areas. To redline a neighborhood is to draw a line around it on a map and then refuse to lend money for houses inside that line.
 
@@ -95,13 +95,15 @@ The staff based each grade on who lived in the neighborhood. The written notes o
 
 In a study published in 2018, researchers at the National Community Reinvestment Coalition compared the old maps with present-day data. They found that about 74 percent of the neighborhoods graded red are low-to-moderate income today, which means the families there earn less than the typical family in their area. About 64 percent are majority-minority, which means most of the people living there are not white. Researchers at the University of Richmond scanned the maps for their Mapping Inequality project and put them online. Anyone can look up what the appraisers wrote about a street.
 
-In the same years, crews paid with federal money laid pipes and built schools in these cities, while lenders refused loans in the red-graded blocks. From 1935 to 1943, crews worked for the Works Progress Administration (WPA), a federal program that hired people to build public works. They laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste. They also laid about 19,700 miles of water mains, the large pipes that bring clean water to a city. They built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports. They built or improved about 651,000 miles of road. Each of these totals differs from one source to another, so each one here is approximate.
+In the same years, crews paid with federal money laid pipes and built schools in these cities, while lenders refused loans in the red-graded blocks. From 1935 to 1943, crews worked for the Works Progress Administration (WPA), a federal program that hired people to build public works. They laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains, the large pipes that bring clean water to a city. WPA crews also built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports. On the roads, they built or improved about 651,000 miles. Each of these totals differs from one source to another, so each one here is approximate.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Oak Ridge: a secret city on taken farmland" -->
 In October 1942, the U.S. Army Corps of Engineers took about 59,000 acres in eastern Tennessee for the Manhattan Project. About 1,000 families lived on that land. Some farmed it, and others lived in its small crossroads communities: Wheat, Elza, Scarboro (also spelled Scarborough) and Robertsville, with New Bethel and New Hope also named. Many of the families had farmed the same ground for generations. Accounts of how many people lived there differ. The Tennessee Encyclopedia states roughly 4,000 people, and other accounts state more than 3,000.
 
-To take the land, the Corps of Engineers filed a paper called a declaration of taking, under eminent domain. Eminent domain is the power of a government to take private property whether or not the owner wants to sell, at a price the government sets. Under a declaration of taking, the Army could take the land right away and settle the price later. The Army paid an average of $46.86 an acre. Residents were told they had to leave, sometimes only by notices nailed to their front fence posts. The sources do not say who put up the notices. Families who had lived there for generations got a few weeks to go, and within a year all the families were gone. Most families accepted the price the government set. A few sued in court over what their land had been valued at. About an eighth of Roane County's land and about a seventh of Anderson County's land went into the site.
+To take the land, the Corps of Engineers filed a paper called a declaration of taking, under eminent domain. Eminent domain is the power of a government to take private property whether or not the owner wants to sell, at a price the government sets. Under a declaration of taking, the Army could take the land right away and settle the price later. The Army paid an average of $46.86 an acre.
+
+Residents were told they had to leave, sometimes only by notices nailed to their front fence posts. The sources do not say who put up the notices. Families who had lived there for generations got a few weeks to go, and within a year all the families were gone. Most families accepted the price the government set. A few sued in court over what their land had been valued at. About an eighth of Roane County's land and about a seventh of Anderson County's land went into the site.
 
 From 1942, workers built a city for the Army on that ground. The Army called the site the Clinton Engineer Works, and the city built there is Oak Ridge. The plans were for about 13,000 people. By 1945 about 75,000 lived there, which for a short time made it the fifth-largest city in Tennessee.
 
@@ -122,7 +124,7 @@ At nineteen, Colleen worked as a leak detector at the K-25 plant. Her employer w
 
 She learned what the plant had been separating only after American forces dropped an atomic bomb on Hiroshima, in Japan.
 
-She married a man everyone called Blackie Black and stayed in Oak Ridge for the rest of her life. In 2005 she gave an oral history, a recorded interview about her life, to the Atomic Heritage Foundation's Voices of the Manhattan Project. The K-25 Virtual Museum includes her account. She is one of the central people in Denise Kiernan's 2013 book *The Girls of Atomic City*, and she appeared on television programs including NBC Nightly News and the History Channel.
+She married a man everyone called Blackie Black and stayed in Oak Ridge for the rest of her life. In 2005 she gave an oral history, a recorded interview about her life, to the Atomic Heritage Foundation's Voices of the Manhattan Project. The K-25 Virtual Museum includes her account. She is one of the central people in Denise Kiernan's 2013 book *The Girls of Atomic City*. She also appeared on television programs, including NBC Nightly News and the History Channel.
 <!-- hb-story:end slug="colleen-black" -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -130,11 +132,11 @@ She married a man everyone called Blackie Black and stayed in Oak Ridge for the 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-Between 1950 and 2000, families and businesses moved out of the centers of older American cities to new suburbs at their edges. St. Louis lost about 60 percent of its people, and Detroit lost nearly half. Cities in the hot South and West that had been small in 1950 grew into some of the largest in the country.
+St. Louis lost about 60 percent of its people between 1950 and 2000, and Detroit lost nearly half. Families and businesses moved out of the centers of older American cities to new suburbs at their edges. Cities in the hot South and West that had been small in 1950 grew into some of the largest in the country.
 
 At the edge of every metropolitan area, which is a city together with its suburbs, builders put up the same kind of neighborhood. It was a subdivision, a tract of land divided into lots for single-family houses, and people could reach it only by car. White families bought those houses with mortgages that federal officials insured. Lenders refused the same kind of mortgage to families inside the red lines.
 
-In the old centers, officials cleared whole neighborhoods and cut freeways through others. Under the Housing Act of 1949, city officials labeled neighborhoods blighted and took the property by law. They had the buildings torn down and sold the cleared land to developers. Under that housing law, officials moved at least 300,000 families out of their homes. Federal officials also paid for new freeways with money from a highway law of 1956. The engineers who drew the routes ran many of those freeways through the neighborhoods where Black and poor people lived.
+In the old centers, officials cleared whole neighborhoods and cut freeways through others. Under the Housing Act of 1949, city officials labeled neighborhoods blighted and took the property by law. They had the buildings torn down, sold the cleared land to developers, and moved at least 300,000 families out of their homes. Federal officials also paid for new freeways with money from a highway law of 1956. The engineers who drew the routes ran many of those freeways through the neighborhoods where Black and poor people lived.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Urban renewal: clearing neighborhoods for developers" -->
@@ -185,7 +187,7 @@ Most of the people who left were white. When Black families moved onto a block, 
 <!-- hb-story:start slug="jane-jacobs-robert-moses" name="Jane Jacobs and Robert Moses" movie="Citizen Jane: Battle for the City (2016)" kind="famous" status="verified" -->
 ### Jane Jacobs and Robert Moses
 
-> **Who:** Robert Moses, who built roads, bridges and parks across New York for decades without ever being elected to anything, and Jane Jacobs, the writer who helped defeat three projects and whose book planners still study.
+> **Who:** Robert Moses, who built roads, bridges and parks across New York for decades without ever winning an election, and Jane Jacobs, a writer who helped defeat three of the projects planned for the city.
 > **When and where:** New York City, 1950s to 1968.
 > **Movie:** *Citizen Jane: Battle for the City* (2016), a documentary directed by Matt Tyrnauer, 92 minutes.
 
@@ -214,9 +216,7 @@ Stokes became mayor of a city that was losing jobs and people. In the 1970s and 
 <!-- hb-story:end slug="carl-stokes" -->
 
 <!-- hb-zoom level="span" label="Growth in the Sun Belt" -->
-While Detroit and St. Louis lost people, cities in the Sun Belt, the warm states of the South and the West, grew.
-
-Phoenix, Arizona, had about 106,818 people in 1950 and 1,321,045 in 2000. Its metropolitan area went from about 323,000 people to about 3,014,000 in the same fifty years. The city also grew in area. It covered about 17 square miles in 1950, more than 475 square miles by the 2000s, and about 518 square miles now. City officials added that land by annexation. Annexation means that city officials move the city's legal boundary out to take in neighboring land. Houston, Texas, went from 596,163 people in 1950 to 1,953,631 in 2000, and by 1990 it was the fourth-largest city in the country.
+While Detroit and St. Louis lost people, cities in the Sun Belt, the warm states of the South and the West, gained them. Phoenix, Arizona, had about 106,818 people in 1950 and 1,321,045 in 2000. Its metropolitan area went from about 323,000 people to about 3,014,000 in the same fifty years. The city also grew in area. It covered about 17 square miles in 1950, more than 475 square miles by the 2000s, and about 518 square miles now. City officials added that land by annexation. Annexation means that city officials move the city's legal boundary out to take in neighboring land. Houston, Texas, went from 596,163 people in 1950 to 1,953,631 in 2000, and by 1990 it was the fourth-largest city in the country.
 
 Air conditioners cooled the air inside homes and offices, so people in Phoenix and Houston could live and work indoors through the hot summers. Land at the edge of these cities was cheap. City officials annexed the land where the new subdivisions were going up, so separate suburbs did not form around the cities.
 
@@ -230,13 +230,13 @@ Builders laid out these cities for cars from the start. They did not have to cut
 <!-- hb-zoom level="era" -->
 In the 2000s, people moved back into the downtowns of some big American cities and kept leaving others. During the coronavirus pandemic, from 2020, working from home became normal. Employers stopped renting space in the office towers that those downtowns had been built around, and by 2024 about a fifth of American office space stood empty.
 
-Rents and prices have risen in the neighborhoods that buyers and lenders have returned to, and some of the people who lived there can no longer afford to stay. Owners and city officials are deciding what to do with more than 900 million square feet of empty office space. City officials are also working on hotter pavement and on flooded streets, which these cities were not laid out to handle.
+Rents and prices have risen in the neighborhoods that buyers and lenders have returned to, and some of the people who lived there can no longer afford to stay. Owners and city officials are deciding what to do with more than 900 million square feet of empty office space. City officials are also changing streets and roofs to deal with more heat on the pavement and more water in the streets than these cities were laid out to handle.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Downtown living and empty offices" -->
 Between 2000 and 2010, the number of people living in big-city downtowns grew by 10 percent or more, according to census counts. Young workers, and people whose children had grown up, moved into city centers that had been losing people since 1950.
 
-During the coronavirus pandemic of 2020, employers closed their offices and their workers worked from home. Working from home then became normal. Employers who had rented office floors stopped renewing their leases, the contracts for renting the space. By 2024 about 20 percent of American office space stood empty. Figures for that year run from about 19.6 to 20.1 percent. That was the highest share in thirty years, and it came to more than 900 million square feet of empty floor. In downtown Manhattan the share was about 23 percent. The source of these figures is Moody's Analytics, a research company, as reported by Axios and ABC News in January 2024.
+During the coronavirus pandemic of 2020, employers closed their offices and their staff worked from home. Working from home then became normal. Employers who had rented office floors stopped renewing their leases, the contracts for renting the space. By 2024 about 20 percent of American office space stood empty. Figures for that year run from about 19.6 to 20.1 percent. That was the highest share in thirty years, and it came to more than 900 million square feet of empty floor. In downtown Manhattan the share was about 23 percent. The source of these figures is Moody's Analytics, a research company, as reported by Axios and ABC News in January 2024.
 
 Building owners and city officials began turning empty office towers into apartments. In 2024, builders had plans under way to make more than 55,300 apartments out of former office buildings. That was a record, and more than four times the number in 2021. The Washington, D.C., area led, with 5,820 apartments planned. In 2025, builders had finished, or were working on, 11.8 million square feet of former office space as apartments, the highest figure on record. The source of the 2024 figures is the research firm RentCafe, as reported in Time in January 2024. The sources of the 2025 figure are industry reports from CBRE and Brevitas. None of these figures are government statistics.
 <!-- /hb-zoom -->
@@ -255,11 +255,13 @@ Washington, D.C., is one documented case. In 1970 the city was 71 percent Black,
 > **Who:** A co-founder of Ben's Chili Bowl, a diner on U Street in Washington, D.C., who has worked behind its counter for almost seventy years while the neighborhood around it changed.
 > **When and where:** 1213 U Street NW, Washington, D.C., from August 22, 1958.
 
-Virginia Ali, born Virginia Rollins, came from Chance, Virginia. Her husband, Mahaboob Ali, who went by Ben, had come from Trinidad. On August 22, 1958, the two of them opened a diner at 1213 U Street NW with a bank loan of $5,000.
+Virginia Rollins came from Chance, Virginia. Her husband, Mahaboob Ali, who went by Ben, had come from Trinidad. On August 22, 1958, the two of them opened a diner at 1213 U Street NW with a bank loan of $5,000.
 
 People then called U Street "Black Broadway." Black owners ran theaters, restaurants, doctors' offices and law offices along it.
 
-During the riots of 1968, buildings along the street burned. According to the shop's own history, the Alis kept the Bowl open through the curfew, an order to stay off the streets at night, and fed police officers and activists. The 1970s and 1980s were the neighborhood's drug years, and people and businesses left the street. From 1986 to 1991, crews digging the Metro, Washington's subway, tore up U Street. From the 1990s, buyers and lenders returned. Developers built condominiums, apartments that each owner buys, and newcomers moved in. By then most of the Black-owned businesses on the block were gone. The land under the Alis' shop is now some of the most expensive in Washington.
+During the riots of 1968, buildings along the street burned. According to the shop's own history, the Alis kept the Bowl open through the curfew, an order to stay off the streets at night, and fed police officers and activists.
+
+The 1970s and 1980s were the neighborhood's drug years, and people and businesses left the street. From 1986 to 1991, crews digging the Metro, Washington's subway, tore up U Street. From the 1990s, buyers and lenders returned. Developers built condominiums, apartments that each owner buys, and newcomers moved in. By then most of the Black-owned businesses on the block were gone. The land under the Alis' shop is now some of the most expensive in Washington.
 
 Ben's is still open, and Virginia Ali, in her nineties, is still one of the people who run it. In interviews on the record, she and her family state that the diner is one of the last places left from the neighborhood that used to be there.
 <!-- hb-story:end slug="virginia-ali" -->
@@ -267,7 +269,9 @@ Ben's is still open, and Virginia Ali, in her nineties, is still one of the peop
 <!-- hb-zoom level="span" label="Building for heat and water" -->
 A city is hotter than the land around it because of what it is built from. Pavement, roofs and walls absorb sunlight and hold its heat. A city also has less soil and fewer leaves than the land around it to cool the air. According to the Environmental Protection Agency (EPA), daytime air in a city is 1 to 6 degrees Fahrenheit warmer than in the areas around it. At night the air can be up to 22 degrees warmer. A roof or road in the sun can be 50 to 90 degrees hotter than the air above it. City officials now write rules about pale roofs, street trees and shade, because the materials a city is built from make it hotter.
 
-In Miami Beach, Florida, streets flood on clear days with no storm, when the tide is at its highest. The sea is now high enough at high tide to come up through the storm drains. In the fall of 2014, crews began raising streets, including West Avenue and Sunset Harbour, and putting in pumps to push the water back out. In 1858, crews in Chicago had raised buildings to new, higher streets because the ground there was too low to drain. Reports from 2016 and 2017 record twelve pump stations along the west side of South Beach. Early reports stated a cost of about $400 million. Later reports stated about $600 million, after the work was expanded. The highest tides of the year are called King Tides in Miami Beach. During the King Tides after the work, the raised and pumped blocks stayed mostly dry.
+In Miami Beach, Florida, streets flood on clear days with no storm, when the tide is at its highest. The sea is now high enough at high tide to come up through the storm drains. In the fall of 2014, crews began raising streets, including West Avenue and Sunset Harbour, and putting in pumps to push the water back out. In 1858, crews in Chicago had raised buildings to new, higher streets because the ground there was too low to drain.
+
+Reports from 2016 and 2017 record twelve pump stations along the west side of South Beach. Early reports stated a cost of about $400 million. Later reports stated about $600 million, after the work was expanded. The highest tides of the year are called King Tides in Miami Beach. During the King Tides after the work, the raised and pumped blocks stayed mostly dry.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The tallest buildings now stand in other countries" -->

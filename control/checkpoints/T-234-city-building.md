@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT
+STATUS: DONE (agent side). Director runs the prose check.
 VERIFY: python tools/project_state.py --check city-building --stage prose
         (per part: python tools/project_state.py --punct manuscript/city-building/<part>.md)
 BRIEF:  standard REVISION brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234c landed units 8-10. Running the whole-file self-review on part 3.
-NEXT:   whole-file self-review of part 3, then the chapter prose check.
+NOW:    T-234c finished part 3 (units 8-10 landed, whole-file self-review done, --punct 0/0, chapter prose check PASS).
+NEXT:   chapter complete. Director runs the prose check.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -39,7 +39,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 7 | part2 era 1850-1900 | landed | v2 revision, T-234b, plus whole-file self-review |
 | 8 | part3 era 1900-1950 | landed | v2 revision, T-234c |
 | 9 | part3 era 1950-2000 | landed | v2 revision, T-234c |
-| 10 | part3 era 2000-today | landed | v2 revision, T-234c (whole-file self-review next) |
+| 10 | part3 era 2000-today | landed | v2 revision, T-234c, plus whole-file self-review |
 
 <!-- state: todo | working | landed | skipped (say why) -->
 
@@ -115,6 +115,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2000-today: closing lines cut or recast: "So the arguments about American cities now are these" plus three fragments (metadiscourse, triad), now three statements of fact; "Where it lands is not random" (personification, denial frame); "From behind the counter she has seen the rest of it"; "the block's reason for existing"; "That is Chicago's answer of 1858 done again with different machines: when the ground is too low, lift the ground" (gnomic close, its fact moved into the Miami paragraph); "Nothing since has been close"; "The race ... is still being run. It is being run in Asia and the Gulf" (moved to the front of the span as a plain statement). Labels revised: "Downtowns refill, then empty, then change jobs" now "Downtown living and empty offices"; "Gentrification, and who it moves out" now "Gentrification, and who can no longer afford to stay"; "The tallest buildings moved abroad" now "The tallest buildings now stand in other countries".
 - 2000-today: definitions not from the bank: double-digit (10 percent or more), lease, close-in, curfew, Metro (Washington's subway), condominium, topped out, Western Hemisphere, Moody's Analytics as "a research company", RentCafe as "research firm".
 - 2000-today: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: young workers and people whose children had grown moved downtown; employers stopped renewing leases; the change "sharpest" in Shaw, U Street, Columbia Heights; Black Broadway's theaters, restaurants, doctors' and law offices; buildings burned in 1968; people and businesses left the street in the drug years; condominiums and most Black-owned businesses gone; the land under the shop among the most expensive in Washington; "one of the last" places (prose had "anchors"); less soil and fewer leaves to cool the air; city rules on pale roofs, trees and shade; the sea coming up through the drains; the 1,776 height "chosen for the year 1776"; Mohawk ironworkers "topped out" 1WTC (bank: "on its steel"); the contest "began in the 1880s".
+- part 3 whole-file self-review: era openings no longer share part 2's "Between X and Y, builders..." shape (era 08 now opens on 1916 zoning, era 09 on the St. Louis and Detroit losses). Two story openings shared "born X" (Colleen Black, Virginia Ali); Virginia Ali's reverted to "Virginia Rollins came from". HOLC span no longer opens "X was a..." right after the Great Migration span's "X was the...". WPA "They laid... They also laid... They built... They built" anaphora merged. Long paragraphs split (Oak Ridge removals, U Street, Miami Beach). Kitchenette rent in the era summary anchored (per square foot).
 
 ## Log
 
@@ -130,3 +131,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 8 1900-1950 | era revised to v2 (T-234c) | 0 errors | era clean (file still has later-era marks: emdash=30 semicolon=9)
 - 2026-09-26 | 9 1950-2000 | era revised to v2 (T-234c) | 0 errors | era clean (file still has era-10 marks: emdash=13 semicolon=1)
 - 2026-09-26 | 10 2000-today | era revised to v2 (T-234c) | 0 errors | emdash=0 semicolon=0
+- 2026-09-26 | part 3 whole-file self-review (T-234c) | 0 errors | emdash=0 semicolon=0 | chapter --check prose: PASS
