@@ -89,3 +89,25 @@ Many of them served five to seven years under indentures at the Saugus ironworks
 Chemistry is the science of what substances are made of and how they change. In Europe in the 1600s, chemists began to separate their work from alchemy. Robert Boyle published his book *The Sceptical Chymist* in 1661. Every element discovered in this century was found in Europe. One was phosphorus, found in the city of Hamburg in 1669.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="elements" label="1700 to 1750" state="thin" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+By about 1750, colonists were shipping raw iron from their own furnaces to Britain. Ironworks had spread through New England, Pennsylvania, Maryland, Virginia and New Jersey. The owners of many ironworks forced enslaved people to do much of the labor. Nobody discovered an element anywhere in the Americas in these years, and element science still happened only in Europe.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Enslaved and indentured ironworkers" -->
+Enslaved people were held as property and forced to work without pay. The Baltimore Iron Works in Maryland opened with 89 workers, and 42 of them were enslaved. The Mount Clare Museum House states these numbers.
+
+Principio Furnace in Maryland began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The Iron Act of 1750" -->
+Parliament was the lawmaking body of Great Britain. In 1750 its members passed the Iron Act. They wrote it to encourage colonists to keep making raw iron and sending it to Britain. Raw iron meant pig iron and bar iron, which is iron hammered into bars. The act also stated that colonists could not build new mills to make finished ironware, meaning iron goods ready for use. The members of Parliament wanted that business kept in Britain.
+
+Colonists ignored the ban. After 1750 they built more than sixty new ironworks, about twenty of them in Pennsylvania. By the American Revolution, the colonies made more iron than England and Wales. Historians commonly rank them third in the world.
+
+Colonists used other elements every day. They made gunshot and pewter dishes with lead. They made kettles and buttons of copper and of brass, a metal made partly of copper. Silver and gold arrived in the colonies as Spanish coins.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1700-1750" -->
