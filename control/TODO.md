@@ -16,12 +16,9 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
-**Waiting on Jon (not blocking):**
-- A ruling on the Acoma assault account (AUDIT-QUEUE, the "Acoma, 1598" entry).
-- **Needed before the Phase 2 writers start:** should writers take facts only from the bank,
-  not from the outline? (AUDIT-QUEUE, the "Proposal for Jon" entry.)
-
-Jon chose **Option B**, docs cleaned first (done 2026-09-26). The queue is below.
+**Jon ruled 2026-09-26:** (1) writers take facts only from the research bank (DECISIONS #13,
+now in the writing brief). (2) The Acoma assault account goes into native-nations part 1
+(DECISIONS #14), queued as T-236 after T-235b.
 
 ## DONE this session
 
@@ -64,6 +61,8 @@ choose:**
    apply v2 before 27 new part files are written under it. The revision is a full v2
    read-and-repair, not a punctuation swap.
 1. **T-233 war eras 5-10.** It is half done, so finish it.
+1b. **T-236:** a small fix agent adds the Acoma assault account to native-nations part 1,
+   attributed to the All Pueblo Council of Governors, from the bank. The prose check must still pass.
 2. **Write prose for the 9 chapters that already pass `--stage research`.** These go in
    three part files each (eras 1-5, 6-7, 8-10), like the two finished chapters, at one agent
    per part: `land-environment` · `immigration` · `science` · `elements` · `economy` ·

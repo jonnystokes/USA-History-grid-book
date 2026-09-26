@@ -24,6 +24,8 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 12 | Where does film live? | **Neither art nor big-business.** New chapter **`storytelling-evolution`** — Jon: early filmed drama "looks like a recording of a play on a stage", so the through line is acting, from storytelling through theatre, film, video games and AI performance |
 | — | `sports-play` | **Stays as chapter 36**, remit widened to what children and adults do to entertain themselves and how it changed — outdoor play through to phones and gaming. The ADHD question is a contested research area to handle with named studies and real numbers, never asserted |
 | — | Documentary vs dramatization | Proposed rule stands: a documentary may be named freely; a dramatization only when the text says so in words, and never as evidence for a fact |
+| 13 | (2026-09-26) Where do writers take facts from? | **The research bank only.** Every fact in the prose must be in `research/research-<slug>.md`. If the outline states something the bank does not, the writer does not write it and lists it in the report. Ruled after the city-building v2 revision found about 78 prose claims its bank lacked |
+| 14 | (2026-09-26) The Pueblos' account of the assault on an Acoma woman, 1598 | **It goes in.** It is stated as the All Pueblo Council of Governors' account, attributed to them, in `native-nations` part 1 |
 
 ## Consequences already applied
 

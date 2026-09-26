@@ -163,7 +163,7 @@ will be worded differently, which is exactly why a search will not find it.
 - **Control documents still contain em dashes and semicolons.** CLAUDE.md, the amendment and
   the new cloud files are clean. RESUME.md, AGENT-BRIEF.md, ROADMAP.md and the policy's
   remaining semicolons are not. Writers read them, so a cleanup pass is cheap and useful.
-- **Acoma, 1598 (from T-233a, 2026-09-26).** The All Pueblo Council of Governors' account says
+- **RULED: IT GOES IN (Jon, 2026-09-26, DECISIONS #14). Queued as task T-236.** Acoma, 1598 (from T-233a, 2026-09-26). The All Pueblo Council of Governors' account says
   Zaldívar's soldiers "assaulted an Acoma woman" (bank, Acoma section). The bank leaves whether
   and how the book states this to the director. The revised part 1 does not include it. Jon to
   rule under `hard-subjects-policy.md`. The Pueblos' own statement is a named source.
@@ -196,7 +196,7 @@ will be worded differently, which is exactly why a search will not find it.
   about 78 across the chapter. See the city-building bank-gap item above. Also, Anderson's age:
   "eight in 1958" and "approaching 83 in 2022" cannot both be true. The bank says they agree.
   The prose states both, attributed to Sahan Journal. Resolve it from the source.
-- **Proposal for Jon (2026-09-26): writers take facts from the bank, not the outline.** The
+- **RULED YES by Jon, 2026-09-26 (DECISIONS #13). Now in the writing brief and CLAUDE.md.** Writers take facts from the bank, not the outline. The
   city-building gap came from prose written off the outline's inline notes. A number probe
   (`tools/bank_coverage.py`) cannot detect it, because the missing claims are qualitative. The
   prevention is one brief line: "Every fact in your prose must be in the research bank. When

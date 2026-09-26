@@ -33,6 +33,9 @@ contain the detail. Read them when they apply.
   reader does not know this history and cannot reconstruct what you left out. Anything
   softened becomes what the reader believes happened. `outlines/native-nations.md:183` is
   the floor.
+- **Facts come from the research bank.** Every fact in the prose must be in
+  `research/research-<slug>.md`. When the outline states something the bank does not, leave it
+  out and list it in your report (Jon, 2026-09-26).
 - **Never invent a name.** When an account names a person, name the person. When a
   documented account names no one, tell it unnamed, in `hb-zoom` prose. `hb-story` blocks
   are for named people only. No composites.

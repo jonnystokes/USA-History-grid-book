@@ -176,6 +176,11 @@ Every prose agent gets, verbatim:
 > `control/grid-markers.md` §7b · `control/VIEWER-CONTRACT.md` §2 · your own
 > `outlines/<slug>.md` and `research/research-<slug>.md`.
 >
+> **Take every fact from the research bank, not the outline** (Jon, 2026-09-26). Every fact
+> in your prose must be in `research/research-<slug>.md`. The outline is a plan of what to
+> cover. When the outline states something the bank does not contain, do not write it. List
+> it in your report. When a gap leaves a section thin, write the thin section.
+>
 > **If your outline or research bank contains a defect (softening, a false comparison, a
 > manufactured dispute, personification, a fact that contradicts itself), fix it in your
 > prose and NAME IT in your report. Do not stop to repair the source file.** That is
