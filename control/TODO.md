@@ -11,7 +11,9 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-243e in flight:** closing economy's 19 blocking gaps. **economy PASSES prose** (T-243d done).
+**T-243e2 in flight:** closing economy's 19 blocking gaps (T-243e was killed before its first commit).
+**HOLD AFTER THIS TASK (Jon, 2026-09-26):** the $100 gift is used up and Jon's own funding now pays.
+Dispatch nothing further until Jon says so.
 Written and passing: native-nations, city-building, immigration, science, elements, land-environment.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

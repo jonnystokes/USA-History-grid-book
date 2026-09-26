@@ -2435,4 +2435,14 @@ RESULT: *** PASS. economy passes prose (11 stories verified, 13,293w). ***
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-243-economy.md, "BLOCKING GAPS"
 VERIFY: economy still PASSES research and prose.
+RESULT: KILLED by the usage limit before its first commit. Measured afterwards: no commits, clean
+        tree, 0 bank patches, 0 gaps marked. economy still PASSES prose and research.
+        Re-dispatched from the start as T-243e2.
+NOTE (Jon, 2026-09-26): the $100 cloud gift is used up, and Jon's own funding now pays. Jon said
+        to finish this task and then HOLD. No further dispatches until Jon says so.
+
+### 2026-09-26 | [CLOUD] T-243e2 | economy: close the 19 BLOCKING GAPS (re-dispatch of T-243e)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md, "BLOCKING GAPS"
+VERIFY: economy still PASSES research and prose.
 RESULT:
