@@ -28,6 +28,7 @@ NEXT:   bank check.
 ## Gaps found and filled (unit 1)
 - Era 8 radium: USRC/Radium Dial officials (von Sochocky, Roeder, Barker, Kelly), dial-painter counts (250 / 3,000+ / ~4,000), named dead (Maggia, Leman, Maillefer), settlement terms confirmed (NIST), Donohue dates pinned (won Apr 5 1938, died Jul 27 1938, appeals Oct 1938), Byers/FTC actors (Bailey, Dec 19 1931 order). Closes both parked AUDIT ITEM claims. Corrects 'his death pushed the government to act' (the FTC order came first).
 - Eras 8-10 uranium on Navajo land (new): VCA 1943, 30M tons 1944-86 (EPA), AEC sole buyer, ~10,000 workers ~1/4 Navajo, no ventilation or warning, 1951 AEC/PHS meeting, Hueper silenced, PHS study (Holaday, Archer) did not inform miners, death counts with counters, Harris Charley, Church Rock 1979 (UNC; both figure sets), RECA 1990 and 2025 reauthorization, 523 vs 1,032 mines dated, 2005 Dine ban.
+- Eras 8-10 lead (new): TEL/Ethyl (Midgley, Kettering, GM, Standard Oil, DuPont), worker deaths with three counts (Kovarik 7+10+2; 5 at Bayway; NIOSH 15), Oct 30 1924 demo, May 1925 PHS hearing (Cumming, Howard, Henderson, Hamilton, Kehoe), painters 1925-27, 1960s child encephalopathy deaths; Patterson, Needleman, 1971/1978 paint rules, 1972-96 gasoline phase-out (Browner, -70%); Flint 2014-2023 (Earley/Snyder, Hanna-Attisha 2.4->4.9%, Legionnaires 90 cases, 10 or 12 dead, charges and 2023 end, $626.25M).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
