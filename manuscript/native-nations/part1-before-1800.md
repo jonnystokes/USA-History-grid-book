@@ -50,56 +50,58 @@ Few records of single persons survive from these centuries. Most of what survive
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s ships from Europe began to reach these coasts. Only a few Native nations met a European in this century. Far more of them met what the Europeans brought.
+In the 1500s ships from Europe began to reach these coasts. The people of only a few Native nations met a European in this century. Many more caught diseases that the Europeans carried.
 
-Diseases carried by the Europeans moved ahead of the expeditions and behind them. They killed large shares of whole communities, and often they arrived before any European did. This is sometimes called the Great Dying.
+The diseases spread ahead of the Spanish expeditions and behind them, so a town could lose much of its population before any European arrived there. They killed large shares of whole communities. Some writers call these deaths the Great Dying.
 
-No one can give a single death toll, because no one knows the starting number. If about 1 million people lived north of Mexico, one set of numbers follows. If about 18 million did, a completely different set follows. What can be counted is the far end of the fall: in 1900 the United States census counted about 250,000 Native people.
+No one can give a single death toll, because no one knows how many people lived here at the start. Estimates for North America north of Mexico run from about 1 million to about 18 million. A death toll worked out from the low estimate and one worked out from the high estimate differ by millions of people. A later count records how far the numbers had fallen. In 1900, United States census takers counted about 250,000 Native people.
 
-The other half of the century is what the nations did. They did not dissolve. They took in refugees from broken towns, joined with neighbors, and built new nations out of what was left.
+The nations that survived took in refugees from other towns and joined with their neighbors. Out of what was left, their people built new nations.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The entradas" -->
-The Spanish called their armed expeditions into the north entradas. Two of them crossed Native country in this century.
+Spanish leaders called their armed expeditions into the north entradas. Two of them crossed Native country in this century.
 
-Hernando de Soto sailed from Havana in May 1539 and landed in Florida with more than 620 men and 220 horses. For four years the expedition cut through the Southeast, through the Mississippian chiefdoms — groups of towns under a single ruler. De Soto's men used violence against the nations whose country they crossed, forced people into labor, and brought disease with them. De Soto died of a fever in the spring of 1542. The survivors reached Mexico on September 10, 1543.
+Hernando de Soto sailed from Havana in May 1539 and landed in Florida with more than 620 men and 220 horses. For four years his men marched through the Southeast. They crossed the lands of the Mississippian chiefdoms. A chiefdom is a group of towns under a single ruler. De Soto's men attacked the nations whose country they crossed, and they forced people to work for the expedition. They also carried disease with them. De Soto died of a fever in the spring of 1542. The survivors of his expedition reached Mexico on September 10, 1543.
 
-They were the first Europeans to see those chiefdoms, and nearly the last. In the decades after the expedition, the chiefdoms broke apart. Over the century that followed, the survivors regrouped, took in refugees, and formed the new nations and confederacies of the Southeast.
+De Soto's men were the first Europeans to see those chiefdoms. Almost no Europeans saw them afterward, because the chiefdoms broke apart in the decades after the expedition. Over the century that followed, the survivors regrouped and took in refugees. They formed the new nations and confederacies of the Southeast.
 
-Francisco Vázquez de Coronado crossed the Southwest and the southern Plains between 1540 and 1542.
+Francisco Vázquez de Coronado led an entrada across the Southwest and the southern Plains between 1540 and 1542.
 
-The Spanish also brought back an animal that had lived in North America and died out thousands of years earlier. Christopher Columbus carried horses on his second voyage in 1493, and Spanish colonists brought more to the mainland through the 1500s — with Coronado in 1540, and to the New Mexico colony founded in 1598. What the nations did with the horse comes in the next century.
+The Spanish also brought horses back to North America. Horses had lived here long before, but they had died out thousands of years earlier. Christopher Columbus carried horses on his second voyage, in 1493. Spanish colonists brought more to the mainland through the 1500s. Coronado's expedition brought horses in 1540, and Juan de Onate's colonists brought them to New Mexico in 1598.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="paquiquineo" name="Paquiquineo (Don Luís)" movie="" kind="ordinary" status="verified" -->
 ### Paquiquineo (Don Luís)
 
-> **Who:** A young man from the Chesapeake Bay country who was carried off on a Spanish ship, met the king of Spain, and spent nine years getting home.
-> **When and where:** Taken in 1561; back on the James River in September 1570.
+> **Who:** A young man from the Chesapeake Bay country who left on a Spanish ship, met the king of Spain, and spent nine years getting home. The records do not say whether he went willingly.
+> **When and where:** Left the Chesapeake in 1561. Landed back on the James River in September 1570.
 
-In 1561 a Spanish ship carried a young man away from the Chesapeake Bay country. The Spanish records do not settle whether he went willingly or was taken. His name was Paquiquineo.
+In 1561 a young man named Paquiquineo left the Chesapeake Bay country on a Spanish ship. The Spanish records do not settle whether he went willingly or was taken.
 
-He was brought before King Philip II in Spain. He was baptized in Mexico City and given the name of the viceroy there, Don Luís de Velasco. It took him nine years to get back to the Chesapeake, and he came back inside a Spanish expedition: in September 1570 he landed on the James River as guide and translator for a small Jesuit mission led by Father Juan Bautista de Segura.
+He appeared before King Philip II in Spain. In Mexico City he was baptized, which means he went through the Christian ceremony that makes a person a member of the church. He was given the name of the viceroy there, Don Luís de Velasco. A viceroy governed a Spanish colony for the king.
 
-In February 1571 he led the attack that killed the missionaries. An altar boy was spared.
+Paquiquineo spent nine years trying to get back to the Chesapeake. He came back inside a Spanish expedition. In September 1570 he landed on the James River as guide and translator for a small Jesuit mission. A mission was a group of Catholic priests and helpers sent to turn people to Christianity, and Jesuits are one order of Catholic priests. Father Juan Bautista de Segura led this one.
 
-Spain gave up on the Chesapeake after that. The English landed at Jamestown 36 years later, in a country whose people had already dealt with a mission and ended it.
+In February 1571 Paquiquineo led an attack on the mission, and the attackers killed the missionaries. They spared an altar boy.
+
+The Spanish gave up on the Chesapeake after that. The people of that country had already ended one European mission when English colonists landed at Jamestown 36 years later, in 1607.
 <!-- hb-story:end slug="paquiquineo" -->
 
 <!-- hb-zoom level="span" label="Acoma, 1598 and 1599" -->
-In 1598 Spain planted a colony in New Mexico under Juan de Onate. Acoma Pueblo stands on a mesa, a hill with a flat top and steep sides. Its people had already made the formal submission to Spain that Onate demanded, an act of obedience.
+In 1598 Juan de Onate led Spanish colonists north from Mexico and founded a colony in New Mexico. Acoma Pueblo stands on a mesa, a hill with a flat top and steep sides. Before any fighting, Onate had gathered the Acoma elders for a ceremony of submission. In that ceremony, called an act of obedience, the elders promised to obey the king of Spain, as Onate demanded.
 
-In December 1598 a Spanish party under Juan de Zaldivar came to the mesa and demanded food. The Acoma killed him and eleven to fourteen of his men. The sources differ on the number.
+In December 1598 Onate's nephew Juan de Zaldivar came to the mesa with a party of soldiers and demanded food. The Acoma killed him and eleven to fourteen of his men. The sources differ on the number.
 
-Onate opened a formal inquiry on December 28 and had his friars declare that a war against Acoma would be just. In January 1599 about seventy soldiers under Vicente de Zaldivar climbed the mesa, took the town, and burned it.
+On December 28 Onate opened a formal inquiry. He asked the Franciscan friars with him whether a war against Acoma would be just, and they answered that he "possessed both the authority and sufficient cause." In January 1599 Juan's brother, Vicente de Zaldivar, led about seventy soldiers up the mesa. They took the town and burned much of it.
 
-Nobody counted the dead. The only account by someone who was there is a poem published in 1610 by Gaspar de Villagra, who rode with the expedition. Historians reading the same records give very different numbers: about 300, about 600, 600 to 800, about 800 — the figure the All Pueblo Council of Governors uses today — and about 1,500, which is the National Park Service's figure. There is no agreement, and the range is the honest answer.
+Nobody counted the dead. The only account by someone who was there is a poem published in 1610 by Gaspar de Villagra, who rode with the expedition. Historians and other writers who read the same records give numbers from about 300 to about 1,500. Their estimates include about 300, about 600, 600 to 800, and about 800. The All Pueblo Council of Governors, a council of the leaders of the Pueblo nations, uses the figure of about 800 today. The National Park Service gives about 1,500.
 
-The survivors were tried at Santo Domingo, and Onate passed sentence on February 12, 1599. Men over twenty-five were to have one foot cut off and to serve the Spanish for twenty years. Males from twelve to twenty-five, and females over twelve, were sentenced to twenty years of service. Children under twelve were taken from their parents. About seventy girls under twelve were sent down the road to Mexico, to convents there; the National Park Service's account says that in all probability none of them ever came home. Two Hopi men held at Acoma each had a right hand cut off and were released to carry word of what had happened.
+Onate put the Acoma survivors on trial at Santo Domingo Pueblo, though some sources place the trial at San Juan Pueblo. He passed sentence on February 12, 1599. He sentenced men over twenty-five to have one foot cut off and to be forced to work for the Spanish without pay for twenty years. He sentenced males from twelve to twenty-five, and females over twelve, to the same twenty years of forced work. Onate ordered children under twelve taken from their parents and handed to the friars. About seventy girls under twelve were sent south along the road to Mexico, to convents there. The sources do not name the men who took them. The National Park Service's account says that in all probability none of them ever came home. The All Pueblo Council of Governors counts sixty children taken to Mexico, and it also says none returned. Onate sentenced two Hopi men held at Acoma to have their right hands cut off. Then he had them released to carry word of what had happened.
 
-The sentence is in the record. Whether the cutting of feet was carried out is disputed: the historian Marc Simmons first wrote that it was and later doubted it, and the historian John Kessell doubts it as well, noting that the records never mention a one-footed Acoma man.
+Onate's sentence is in the written record. Whether anyone carried out the cutting of feet is disputed. Acoma people have passed down their own account since 1599: Onate had the right feet of 24 captive men cut off. The New York Times reported that account in 1998. The historian Marc Simmons first wrote that the feet were cut off, and later he doubted it. The historian John Kessell doubts it as well. He notes that the records never mention a one-footed Acoma man.
 
-Onate was later arraigned on thirty charges and convicted on twelve, among them using excessive force against Acoma. He was banished from New Mexico for life, exiled from Mexico City, and fined.
+Years later, Spanish officials charged Onate with thirty crimes. The judges found him guilty of twelve, among them using more force against Acoma than the law allowed. They banished him from New Mexico for life, barred him from Mexico City for four years, and fined him. One source gives the Mexico City term as five years.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
