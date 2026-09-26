@@ -228,59 +228,55 @@ Builders laid out these cities for cars from the start. They did not have to cut
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-In the 2000s people moved back into the centers of some American cities and kept leaving others. Then, during the coronavirus pandemic from 2020, working from home became ordinary, and the office towers those centers had been built around did not fill up again.
+In the 2000s, people moved back into the downtowns of some big American cities and kept leaving others. During the coronavirus pandemic, from 2020, working from home became normal. Employers stopped renting space in the office towers that those downtowns had been built around, and by 2024 about a fifth of American office space stood empty.
 
-So the arguments about American cities now are these. Who can still afford to live in the neighborhoods that buyers and lenders have come back to. What to do with tens of millions of square feet of office space nobody is renting. And how to build for more heat on the pavement and more water in the streets than these cities were laid out to take.
+Rents and prices have risen in the neighborhoods that buyers and lenders have returned to, and some of the people who lived there can no longer afford to stay. Owners and city officials are deciding what to do with more than 900 million square feet of empty office space. City officials are also working on hotter pavement and on flooded streets, which these cities were not laid out to handle.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Downtowns refill, then empty, then change jobs" -->
-Between 2000 and 2010 the population of big-city downtowns grew by double-digit percentages, according to census counts. Young workers and people whose children had grown up moved into the centers that had been emptying since 1950.
+<!-- hb-zoom level="span" label="Downtown living and empty offices" -->
+Between 2000 and 2010, the number of people living in big-city downtowns grew by 10 percent or more, according to census counts. Young workers, and people whose children had grown up, moved into city centers that had been losing people since 1950.
 
-Then came 2020. Offices closed during the pandemic, working from home became normal, and employers who had been renting floors stopped renewing their leases. By 2024 the share of American office space sitting empty had reached about 20 percent — figures for that year run between about 19.6 and 20.1 percent — which was the highest in thirty years, and amounted to more than 900 million square feet of unused floor. In downtown Manhattan the figure was about 23 percent. Those numbers come from Moody's Analytics, reported in the press in January 2024.
+During the coronavirus pandemic of 2020, employers closed their offices and their workers worked from home. Working from home then became normal. Employers who had rented office floors stopped renewing their leases, the contracts for renting the space. By 2024 about 20 percent of American office space stood empty. Figures for that year run from about 19.6 to 20.1 percent. That was the highest share in thirty years, and it came to more than 900 million square feet of empty floor. In downtown Manhattan the share was about 23 percent. The source of these figures is Moody's Analytics, a research company, as reported by Axios and ABC News in January 2024.
 
-What owners and city governments began doing with the empty towers was turning them into places to live. In 2024 more than 55,300 apartments were in the pipeline to be carved out of former office buildings — more than four times the 2021 figure — with the Washington, D.C. area leading at 5,820 units. In 2025, 11.8 million square feet of office space was completed or under construction as apartments, the highest figure on record. These come from industry research firms and were reported as news, not published as government statistics.
+Building owners and city officials began turning empty office towers into apartments. In 2024, builders had plans under way to make more than 55,300 apartments out of former office buildings. That was a record, and more than four times the number in 2021. The Washington, D.C., area led, with 5,820 apartments planned. In 2025, builders had finished, or were working on, 11.8 million square feet of former office space as apartments, the highest figure on record. The source of the 2024 figures is the research firm RentCafe, as reported in Time in January 2024. The sources of the 2025 figure are industry reports from CBRE and Brevitas. None of these figures are government statistics.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Gentrification, and who it moves out" -->
-Gentrification is what happens when buyers and lenders come back to a neighborhood they had stayed out of for years: houses are renovated, rents and prices rise, and the people who lived there through the years of no investment can no longer pay to stay.
+<!-- hb-zoom level="span" label="Gentrification, and who can no longer afford to stay" -->
+Gentrification is the change that follows when buyers and lenders return to a neighborhood they had avoided for years. New owners fix up the houses, and landlords and sellers raise rents and prices. The people who lived there through the years without investment can then no longer afford to stay.
 
-Where it lands is not random. The neighborhoods that appraisers marked red in the 1930s got no lending for decades, so their houses stayed cheap while the rest of the city got more expensive. When buyers came back looking for the least expensive land close to the center of a city, that is exactly where they found it.
+Buyers and lenders have returned to close-in neighborhoods, the ones near downtown, that appraisers had marked red in the 1930s. The work of the National Community Reinvestment Coalition and the Mapping Inequality project documents that pattern. Lenders refused loans in those neighborhoods for decades, so their houses stayed cheap while the rest of the city got more expensive. Buyers looking for the least expensive land close to the center of a city found it in those neighborhoods.
 
-Washington, D.C. is the best-documented case. In 1970 the city was 71 percent Black; people called it Chocolate City. By 2011 the Black share of the population had fallen below half, to 49.2 percent, for the first time in about fifty years. Those are census figures. The neighborhoods where the change was sharpest — Shaw, U Street, Columbia Heights — are close-in neighborhoods that had been redlined.
+Washington, D.C., is one documented case. In 1970 the city was 71 percent Black, and people called it Chocolate City. By 2011 the Black share of the population had fallen below half, to 49.2 percent, for the first time in about fifty years. Those are census figures. The change was sharpest in Shaw, U Street and Columbia Heights, close-in neighborhoods that appraisers had redlined.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="virginia-ali" name="Virginia Ali" movie="" kind="ordinary" status="verified" -->
 ### Virginia Ali
 
-> **Who:** A co-founder of Ben's Chili Bowl, who has watched one block of one American city change from behind the same counter for almost seventy years.
+> **Who:** A co-founder of Ben's Chili Bowl, a diner on U Street in Washington, D.C., who has worked behind its counter for almost seventy years while the neighborhood around it changed.
 > **When and where:** 1213 U Street NW, Washington, D.C., from August 22, 1958.
 
-Virginia Rollins came from Chance, Virginia. Her husband, Mahaboob Ali, who went by Ben, had come from Trinidad. On August 22, 1958 the two of them opened a diner at 1213 U Street NW with a bank loan of $5,000.
+Virginia Ali, born Virginia Rollins, came from Chance, Virginia. Her husband, Mahaboob Ali, who went by Ben, had come from Trinidad. On August 22, 1958, the two of them opened a diner at 1213 U Street NW with a bank loan of $5,000.
 
-U Street then was called Black Broadway: Black-owned theaters, restaurants, doctors' offices, and law offices along one corridor.
+People then called U Street "Black Broadway." Black owners ran theaters, restaurants, doctors' offices and law offices along it.
 
-From behind the counter she has seen the rest of it. The corridor burned in the riots of 1968, and the Bowl stayed open through the curfew, feeding police officers and activists. The drug years of the 1970s and 1980s emptied the street. Crews digging the Metro tore U Street up from 1986 to 1991. Then the money came back, and the condominiums, and the newcomers, and most of the Black-owned businesses that had been the block's reason for existing were gone. The land under her shop is now some of the most expensive in Washington.
+During the riots of 1968, buildings along the street burned. According to the shop's own history, the Alis kept the Bowl open through the curfew, an order to stay off the streets at night, and fed police officers and activists. The 1970s and 1980s were the neighborhood's drug years, and people and businesses left the street. From 1986 to 1991, crews digging the Metro, Washington's subway, tore up U Street. From the 1990s, buyers and lenders returned. Developers built condominiums, apartments that each owner buys, and newcomers moved in. By then most of the Black-owned businesses on the block were gone. The land under the Alis' shop is now some of the most expensive in Washington.
 
-Ben's is still there, and Virginia Ali still co-runs it in her nineties. She and her family say plainly, in interviews they have given on the record, that the diner is one of the last anchors left of the neighborhood that used to be there.
+Ben's is still open, and Virginia Ali, in her nineties, is still one of the people who run it. In interviews on the record, she and her family state that the diner is one of the last places left from the neighborhood that used to be there.
 <!-- hb-story:end slug="virginia-ali" -->
 
 <!-- hb-zoom level="span" label="Building for heat and water" -->
-A city is hotter than the country around it because of what it is made of. Pavement, roofs, and walls absorb sunlight and hold the heat, and there is less soil and less leaf to give it back off. The Environmental Protection Agency's figures: daytime air in a city runs 1 to 6 degrees Fahrenheit warmer than in the land outside it, air at night can run up to 22 degrees warmer, and a sun-exposed roof or road surface can be 50 to 90 degrees hotter than the air above it. That is why city governments now write rules about pale roofs, street trees, and shade: what a city is built out of is what makes it hot to stand in.
+A city is hotter than the land around it because of what it is built from. Pavement, roofs and walls absorb sunlight and hold its heat. A city also has less soil and fewer leaves than the land around it to cool the air. According to the Environmental Protection Agency (EPA), daytime air in a city is 1 to 6 degrees Fahrenheit warmer than in the areas around it. At night the air can be up to 22 degrees warmer. A roof or road in the sun can be 50 to 90 degrees hotter than the air above it. City officials now write rules about pale roofs, street trees and shade, because the materials a city is built from make it hotter.
 
-In Miami Beach the problem is water. Streets there flood on clear days, at the top of the tide, with no storm involved, because the sea is now high enough to come up through the drains. In the fall of 2014 crews began raising the streets themselves — West Avenue, Sunset Harbour, and others — and installing pumps to push water back out. Twelve pump stations were in place along the west side of South Beach by the time reporters counted in 2016 and 2017. The cost was first reported at about $400 million and grew to about $600 million as the work extended. When the year's highest tides came in afterward — locally they are called the King Tides — the raised and pumped blocks stayed largely dry.
-
-That is Chicago's answer of 1858 done again with different machines: when the ground is too low, lift the ground.
+In Miami Beach, Florida, streets flood on clear days with no storm, when the tide is at its highest. The sea is now high enough at high tide to come up through the storm drains. In the fall of 2014, crews began raising streets, including West Avenue and Sunset Harbour, and putting in pumps to push the water back out. In 1858, crews in Chicago had raised buildings to new, higher streets because the ground there was too low to drain. Reports from 2016 and 2017 record twelve pump stations along the west side of South Beach. Early reports stated a cost of about $400 million. Later reports stated about $600 million, after the work was expanded. The highest tides of the year are called King Tides in Miami Beach. During the King Tides after the work, the raised and pumped blocks stayed mostly dry.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The tallest buildings moved abroad" -->
-Chicago's Sears Tower, finished in 1974, was the last building in the United States to be the tallest in the world.
+<!-- hb-zoom level="span" label="The tallest buildings now stand in other countries" -->
+The contest to put up the tallest building in the world began in Chicago and New York in the 1880s. Since 1998, the tallest building in the world has stood in Asia or in the countries around the Persian Gulf.
 
-It lost the title in an argument about measurement. In April 1996 the council that rules on these heights decided that an architectural spire counts as part of a building's height. Under that rule the Petronas Towers in Kuala Lumpur, Malaysia, measured 1,483 feet to the tops of their spires and took the title in 1998 — even though the Sears Tower's roof, and its highest floor that people actually used, were higher.
+Chicago's Sears Tower, finished in 1974, was the last building in the United States to be the tallest in the world. It lost that title because of a rule about how to measure height. In April 1996, members of the Council on Tall Buildings and Urban Habitat ruled that a spire designed as part of a building counts toward its height. Under that rule, the Petronas Towers in Kuala Lumpur, Malaysia, measured 1,483 feet to the tops of their spires. In 1998 they became the tallest buildings in the world. The Sears Tower's roof and its highest floor that people used were both higher than those of the Petronas Towers.
 
-Nothing since has been close. The Burj Khalifa in Dubai, finished in 2010, stands 2,717 feet — 828 meters — which is more than 900 feet taller than the tallest building in the United States.
+The Burj Khalifa in Dubai, finished in 2010, stands 2,717 feet (828 meters). That is more than 900 feet taller than the tallest building in the United States.
 
-One World Trade Center opened in New York in 2014 at 1,776 feet, a height chosen for the year 1776. Its height was settled by the same spire rule, affirmed in November 2013. It is the tallest building in the Western Hemisphere, and Mohawk ironworkers topped out its steel, as Mohawk ironworkers had done on the towers of the 1930s and the bridges before those.
-
-The race that started in Chicago and New York in the 1880s is still being run. It is being run in Asia and the Gulf.
+One World Trade Center opened in New York in 2014 at 1,776 feet, a height chosen for the year 1776. In November 2013, members of the Council on Tall Buildings and Urban Habitat ruled that its spire counts toward that height. It is the tallest building in the Western Hemisphere, the half of the world that holds North and South America. Mohawk ironworkers topped out its steel, which means they set its highest steel beams. Mohawk ironworkers had done the same on the towers of the 1930s and on the bridges before them.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

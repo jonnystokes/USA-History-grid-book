@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234c landed units 8-9 (eras 1900-1950, 1950-2000). Working on unit 10 (era 2000-today).
-NEXT:   part 3, era 2000-today, then whole-file self-review.
+NOW:    T-234c landed units 8-10. Running the whole-file self-review on part 3.
+NEXT:   whole-file self-review of part 3, then the chapter prose check.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -39,7 +39,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 7 | part2 era 1850-1900 | landed | v2 revision, T-234b, plus whole-file self-review |
 | 8 | part3 era 1900-1950 | landed | v2 revision, T-234c |
 | 9 | part3 era 1950-2000 | landed | v2 revision, T-234c |
-| 10 | part3 era 2000-today | todo | |
+| 10 | part3 era 2000-today | landed | v2 revision, T-234c (whole-file self-review next) |
 
 <!-- state: todo | working | landed | skipped (say why) -->
 
@@ -69,6 +69,9 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1950-2000, bank "Urban renewal": sources named for the figures (Brent Cebul, Boston Review 2020, and the Digital Scholarship Lab's "Renewing Inequality" project).
 - 1950-2000, bank "Jacobs vs. Moses": Jacobs led (bank "chaired") the Joint Committee to Stop the Lower Manhattan Expressway; the riot charges were later reduced; Caro's Pulitzer dated 1975 (prose implied 1974).
 - 1950-2000, bank "Rondo": the four moved buildings stand on the University of Minnesota's St. Paul campus (prose had "a University of Minnesota campus").
+- 2000-today, bank "Downtown revival": vacancy figures attributed to Moody's Analytics as reported by Axios and ABC News (prose had "reported in the press"); conversion figures to RentCafe via Time (January 2024) and to CBRE and Brevitas reports (prose had "industry research firms"). The 55,300 figure called a record (bank).
+- 2000-today, bank "Gentrification": the redline-to-gentrification pattern attributed to the NCRC and Mapping Inequality work (bank's mechanism note). The Bowl open through the curfew attributed to the shop's own history (bank).
+- 2000-today, bank "Tallest buildings": the 1996 and 2013 height rulings attributed to the Council on Tall Buildings and Urban Habitat (prose had "the council that rules on these heights" and an agentless "settled").
 
 ## Decisions and known gaps
 
@@ -107,6 +110,11 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1950-2000: closing lines cut or recast: "The money to buy a house was there in one place and not in the other, because people wrote rules that put it there"; "the range is what the sources support"; "The argument is not settled" (now "Historians have not settled that argument"); "they were the plan" (em-dash pivot); "The people running cities still do both things" (moved up into the Jacobs paragraph, kept as a claim). Labels revised: "Urban renewal, and what the word covered" now "Urban renewal: clearing neighborhoods for developers"; "Sprawl, and the emptying middle" now "Sprawl, and the people who left the old centers"; "The Sun Belt boom" now "Growth in the Sun Belt".
 - 1950-2000: definitions not from the bank, glossed from the plain meaning of the term: metropolitan area, subdivision, insured mortgage, underwriting rules, expressway, inciting to riot, public housing, annexation (reworded), State Law Librarian.
 - 1950-2000: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: the engineers' "two reasons" for routing freeways through Black and poor neighborhoods; the Title I write-down (federal officials paid the difference); blockbusting; FHA-insured suburban mortgages and underwriting refusals (bank has FHA only as a flag line, "standard scholarship", Rothstein 2017); "builders at the edge of every metropolitan area" copied Levittown; the mass-production description; Jacobs "had no training in planning" and the content of her argument; planning schools teaching her book; "most people who know Moses's name learned it from that book"; city officials today doing both kinds of work; Rondo Days' purpose; businesses on the proposed land bridge; "oil slick and floating trash" on the Cuyahoga; Stokes's demand as a call for the water-pollution laws; "dozens" of Black mayors in the 1970s and 1980s; separate suburbs not forming around annexing cities; Sun Belt cities laid out for cars with no older walking city.
+- 2000-today: MINIMIZATION fixed. The era summary said "tens of millions of square feet of office space nobody is renting"; the span (and bank) give more than 900 million. Summary now gives 900 million.
+- 2000-today: "Washington, D.C. is the best-documented case" (superlative, bank: "documented case") now "one documented case".
+- 2000-today: closing lines cut or recast: "So the arguments about American cities now are these" plus three fragments (metadiscourse, triad), now three statements of fact; "Where it lands is not random" (personification, denial frame); "From behind the counter she has seen the rest of it"; "the block's reason for existing"; "That is Chicago's answer of 1858 done again with different machines: when the ground is too low, lift the ground" (gnomic close, its fact moved into the Miami paragraph); "Nothing since has been close"; "The race ... is still being run. It is being run in Asia and the Gulf" (moved to the front of the span as a plain statement). Labels revised: "Downtowns refill, then empty, then change jobs" now "Downtown living and empty offices"; "Gentrification, and who it moves out" now "Gentrification, and who can no longer afford to stay"; "The tallest buildings moved abroad" now "The tallest buildings now stand in other countries".
+- 2000-today: definitions not from the bank: double-digit (10 percent or more), lease, close-in, curfew, Metro (Washington's subway), condominium, topped out, Western Hemisphere, Moody's Analytics as "a research company", RentCafe as "research firm".
+- 2000-today: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: young workers and people whose children had grown moved downtown; employers stopped renewing leases; the change "sharpest" in Shaw, U Street, Columbia Heights; Black Broadway's theaters, restaurants, doctors' and law offices; buildings burned in 1968; people and businesses left the street in the drug years; condominiums and most Black-owned businesses gone; the land under the shop among the most expensive in Washington; "one of the last" places (prose had "anchors"); less soil and fewer leaves to cool the air; city rules on pale roofs, trees and shade; the sea coming up through the drains; the 1,776 height "chosen for the year 1776"; Mohawk ironworkers "topped out" 1WTC (bank: "on its steel"); the contest "began in the 1880s".
 
 ## Log
 
@@ -121,3 +129,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 7 1850-1900 + whole-file self-review | revised to v2 (T-234b) | 0 errors | emdash=0 semicolon=0
 - 2026-09-26 | 8 1900-1950 | era revised to v2 (T-234c) | 0 errors | era clean (file still has later-era marks: emdash=30 semicolon=9)
 - 2026-09-26 | 9 1950-2000 | era revised to v2 (T-234c) | 0 errors | era clean (file still has era-10 marks: emdash=13 semicolon=1)
+- 2026-09-26 | 10 2000-today | era revised to v2 (T-234c) | 0 errors | emdash=0 semicolon=0
