@@ -2124,4 +2124,21 @@ RESULT: DONE. 17 PATCH blocks. science research PASS. Bank 5,879 -> 10,798w (out
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-240-science.md (unit 2)
 VERIFY: part1 validates (--part), --punct 0/0, 5 eras written, stories verified.
+RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 5/5 written · 6 stories verified. About 3,250
+        words (reported).
+        STORIES: Kimmerer, Holm, Franklin, Bartram, Rittenhouse, Banneker.
+        DEFECTS FIXED: the bank's sweeping "European science barely exists". The kite's location
+        contradiction. The bank's evaluative "condescending" (the reply is quoted instead). The
+        unsupported "Rittenhouse led". The personified "APS organized" and "France ran".
+        OUTLINE CLAIMS LEFT OUT: about 20.
+        BLOCKING GAPS (held for one end-of-chapter patch): Jefferson's race claim has no context
+        in the bank (that he enslaved people, and how such claims defended slavery). Why the 1769
+        transit was timed. Not blocking: no nation named for Cahokia or Chaco.
+DIRECTOR: blocking gaps are now COLLECTED per chapter and closed by ONE patch-and-update agent
+        after the last part. That is cheaper than one after each part.
+
+### 2026-09-26 | [CLOUD] T-240c | Write science PART 2 (eras 6-7)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-240-science.md (unit 3)
+VERIFY: part2 validates (--part), --punct 0/0, both eras written, stories verified.
 RESULT:
