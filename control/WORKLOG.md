@@ -2214,4 +2214,19 @@ DIRECTOR: the writing brief now lives in control/briefs/WRITER.md.
 ### 2026-09-26 | [CLOUD] T-241b | Write elements PART 1 (eras 1-5)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-241-elements.md (unit 2)
+RESULT: DONE. 163,118 tokens, 31 tool uses, 7 min. MEASURED: validator 0 · --punct 0/0 · 5/5 written ·
+        2 stories verified (Priestley, Conrad Reed). 2,802 words.
+        Covers Lake Superior copper (at least 9,500 years ago), the trade in turquoise and obsidian,
+        Falling Creek and 1622, Saugus with about 400 Scottish prisoners forced to work, enslaved
+        workers at the Baltimore Iron Works, Principio and Catoctin (the 2023 DNA study), the
+        Iron Act, the Coinage Act.
+        DEFECTS FIXED: the outline's false "first". "Colonists built" had hidden the enslaved
+        labor. "Parliament's act banned" (personified).
+        BLOCKING GAPS (3, collected): the cause of the 1622 attack, who captured and shipped the
+        Scots and held their indentures, the owners of the three Maryland works and the treatment
+        of the enslaved workers there.
+
+### 2026-09-26 | [CLOUD] T-241c | Write elements PART 2 (eras 6-7)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-241-elements.md (unit 3)
 RESULT:
