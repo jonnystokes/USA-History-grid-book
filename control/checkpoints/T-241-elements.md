@@ -27,6 +27,7 @@ NEXT:   bank check.
 
 ## Gaps found and filled (unit 1)
 - Era 8 radium: USRC/Radium Dial officials (von Sochocky, Roeder, Barker, Kelly), dial-painter counts (250 / 3,000+ / ~4,000), named dead (Maggia, Leman, Maillefer), settlement terms confirmed (NIST), Donohue dates pinned (won Apr 5 1938, died Jul 27 1938, appeals Oct 1938), Byers/FTC actors (Bailey, Dec 19 1931 order). Closes both parked AUDIT ITEM claims. Corrects 'his death pushed the government to act' (the FTC order came first).
+- Eras 8-10 uranium on Navajo land (new): VCA 1943, 30M tons 1944-86 (EPA), AEC sole buyer, ~10,000 workers ~1/4 Navajo, no ventilation or warning, 1951 AEC/PHS meeting, Hueper silenced, PHS study (Holaday, Archer) did not inform miners, death counts with counters, Harris Charley, Church Rock 1979 (UNC; both figure sets), RECA 1990 and 2025 reauthorization, 523 vs 1,032 mines dated, 2005 Dine ban.
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
