@@ -18,7 +18,7 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243b writing part 1 (manuscript/economy/part1-before-1800.md), era 1600s (before-1500, 1500s landed).
+NOW:    T-243b writing part 1 (manuscript/economy/part1-before-1800.md), era 1700-1750 (before-1500, 1500s, 1600s landed).
 NEXT:   T-243b: write part 1 (eras 1-5)
 
 ## Units
@@ -61,3 +61,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243a: bank check landed. 7 PATCH blocks (eras 2, 3, 4, 6, 7, 8, 10). `--check economy --stage research` PASS (bank 12,346 words).
 - 2026-09-26 T-243b: before-1500 written (~290 prose words). validate --part 0 errors. --punct emdash=0 semicolon=0.
 - 2026-09-26 T-243b: 1500s written (~330 prose words). validate --part 0 errors. --punct emdash=0 semicolon=0. Cartier 1534 written as 'one of the earliest recorded trades of furs', not a first.
+- 2026-09-26 T-243b: 1600s written (~1,250 prose words, story john-rolfe-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. Triangle-trade span moved to 1700-1750 per the bank's dating note (Rhode Island's voyages are 1700s). Manhattan purchase left out (bank names no seller).
