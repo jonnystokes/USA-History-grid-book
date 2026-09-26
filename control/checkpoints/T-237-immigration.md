@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a DONE (part 1, eras 1-5). T-237b IN PROGRESS: unit 6 (1800-1850) landed. Writing part2 era 1850-1900 (unit 7).
-NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s.md, same layout as part1).
+NOW:    T-237a DONE (part 1, eras 1-5). T-237b DONE (part 2, eras 6-7): self-reviewed, 0 validator errors, emdash=0 semicolon=0, 6 stories.
+NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s-and-today.md, same layout as part1/part2).
 
 ## Units
 
@@ -25,7 +25,7 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 | 4 | part1 era 1700-1750 | landed | 4 spans + story zenger |
 | 5 | part1 era 1750-1800 | landed | 3 spans + stories hamilton, toussaint |
 | 6 | part2 era 1800-1850 | landed | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
-| 7 | part2 era 1850-1900 | working | |
+| 7 | part2 era 1850-1900 | landed | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -44,13 +44,23 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 - [T-237b, 1800-1850] Irish "grew through the 1840s" (outline line 96): bank gives no decade for anti-Irish feeling. Left out.
 - [T-237b] Kennedy "on a farm" (outline line 100), Bridget "made the same crossing", "leaving Bridget a widow with four young children", "youngest son's grandson", JFK "president in 1961": bank has none of these (bank: five children, line Patrick > P.J. > Joseph P. > JFK). Left out.
 - [T-237b] Jette Bruns "a doctor sold on the promise of cheap land", letters "recording frontier sickness, grief, work, and the long strangeness of a new country" (outline line 104). Not in bank. Left out.
-- [T-237b] Germans "pushed by ... for a few thousand" is in bank. Outline's "Ports: New York chiefly" kept as bank's "chief port".
+- [T-237b, 1850-1900] Schurz "near Cologne" kept (bank Key line has it). Wong Kim Ark "the exclusion laws applied to him, said the government, because his parents were Chinese" and "Held aboard ship while his lawyers filed suit, he took the fight to the Supreme Court" (outline line 126): bank has neither the government's reason nor the detention nor who appealed. Prose: officials refused him landing, a court issued habeas corpus Oct 2 1895, the case reached the Supreme Court. "He took the fight" dropped (the case was US v. Wong, the government appealed per its name).
+- [T-237b] Berlin "only memory", "family of a poor cantor", "singing for pennies on the Lower East Side", "the country's most successful songwriter", "the unofficial anthem written by an immigrant" (outline line 130). Not in bank. Left out. Bank: "remembered image", songs list, 1918 draft, Kate Smith 1938.
+- [T-237b] Annie Moore "For a century" kept as bank's "century-long mix-up". Outline's Emma Lazarus and Statue lines all in bank.
+- [T-237b] Castle Garden "the federal station" / Ellis "replacing Castle Garden" in bank. Outline's "German arrivals peaked" (bank: "1854 was an early peak") written as numbers only.
 
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
 - [T-237b, 1800-1850] SOFTENING / GIST GAP (bank s6): the Irish famine is given only as "a potato blight caused mass starvation". The bank has no human actors (landlords, evictions, British government food policy). Prose states the bank's facts only. Audit should add the documented human causes to the bank.
 - [T-237b, 1800-1850] REIFICATION (bank s6 and outline): "Anti-Irish and anti-Catholic feeling grew". Prose: "Some Americans turned against the Irish newcomers and against Catholics". Bank gives no acts, places, numbers or dates (no Philadelphia 1844 riots, no Ursuline convent burning). Audit gap: nativist riots are absent from the bank, so the prose cannot state them.
 - [T-237b, 1800-1850] PERSONIFICATION (outline line 96): "the Act signed March 2, 1807" as actor ("Legal arrival ... ended under the Act"). Prose: "President Thomas Jefferson signed a law that banned ...". Smuggling agentless in bank ("smuggling continued"): prose "Smugglers kept bringing in captives".
+- [T-237b, 1850-1900] SELF-CONTRADICTION (bank s7 Castle Garden): "New York took over from the federal side amid corruption complaints; the federal government then took charge". The first clause contradicts the rest. Prose: state and city officials ran Castle Garden 1855-1890, there were complaints of corruption, federal officials then took charge and opened Ellis Island. Audit should fix the bank sentence.
+- [T-237b, 1850-1900] PERSONIFICATION (bank s7 Schurz): "when Prussia crushed them". Prose: "When Prussian forces crushed them".
+- [T-237b, 1850-1900] PERSONIFICATION (bank s7 Page Act): "It barred ... most Chinese women". Prose: "Under it, ... could not come in" and "In practice, most Chinese women could not get in under the Page Act". Also "Central Pacific Railroad hired" -> "managers of the Central Pacific Railroad hired". "The Know-Nothing party swept Massachusetts" -> "Know-Nothing candidates won almost every race". "Split over slavery" -> "the party's members split".
+- [T-237b, 1850-1900] AUDIT GAPS (hard subjects, bank has nothing): no anti-Chinese violence at all (no Los Angeles 1871, no Rock Springs 1885, no expulsions), no nativist riots, no causes for the ~1,200 Chinese railroad deaths, no attackers or casualty numbers for the 1881 pogroms, no killers named for Alexander II, no actor for the fire Berlin remembered, no names of the officials who refused Wong Kim Ark. Prose states each absence plainly ("The sources for this chapter do not record ..."). Brief asked for anti-Chinese violence and nativist riots under the hard-subjects policy. They cannot be written until the bank holds them.
+- [T-237b, 1850-1900] ACTOR INFERRED: bank "May Laws of 1882 that restricted" has no issuer. Prose "Russian officials issued rules called the May Laws". Audit should confirm the issuer in the bank.
+- [T-237b, 1850-1900] Clotilda kept to one short span per the Scope ruling (slavery-freedom leads). Kossola not told.
+- [T-237b] Glosses (1850-1900, general knowledge, definitions only): nationality, ethnicity, Prussia = a kingdom in what is now Germany, Secretary of the Interior = a department head who advises the president, Gold Rush, contract laborer, "coolie" = insulting word, prostitution, pretext, exclusion, repeal, assassinated, pogrom (bank's own gloss), Pale of Settlement, dedicated, pedestal, refuge, depot, corruption, genealogist, tenement, writ of habeas corpus, Fourteenth Amendment = an addition to the Constitution.
 - [T-237b] Glosses (1800-1850, general knowledge, definitions only): importation, democratic government, professionals, Westphalia = a region of Germany, Jefferson City = capital of Missouri, boardinghouse, capitol, potato blight = plant disease, famine, Catholics = church led by the pope in Rome, cooper = barrel maker, cholera (disease from dirty water or food, heavy diarrhea, death within days).
 
 - Glosses from general knowledge, not in the bank (word definitions only, no historical claim): "Norse" = sailors from northern Europe; Newfoundland "in what is now Canada"; land bridge = dry ground joining Asia to North America.
@@ -77,7 +87,9 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
-- 2026-09-26 | 6 1800-1850 (T-237b) | ~1,000 prose | 0 errors (--part), 2 stories | emdash=0 semicolon=0
+- 2026-09-26 | part2 self-review done (T-237b) | 2,470 prose words, avg sentence 13.2 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
+- 2026-09-26 | 7 1850-1900 (T-237b) | ~1,670 prose | 0 errors (--part), 6 stories total | emdash=0 semicolon=0
+- 2026-09-26 | 6 1800-1850 (T-237b) | ~800 prose | 0 errors (--part), 2 stories | emdash=0 semicolon=0
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | part1 self-review done | 3,180 prose words, avg sentence 13.1 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
