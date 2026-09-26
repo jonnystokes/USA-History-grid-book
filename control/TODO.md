@@ -11,7 +11,9 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-237b in flight:** writing `immigration` part 2 (eras 6-7). Part 1 is done and verified.
+**T-238 in flight:** patching the immigration research bank with the hard subjects it lacked
+(anti-Chinese massacres, nativist riots, the famine's causes, pogroms, and pre-checks for
+eras 8-10). Then T-237b2 revises part 2 and T-237c writes part 3. Parts 1 and 2 are written.
 T-236 is done (the Acoma account is in, and native-nations still PASSES). war PASSES research.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

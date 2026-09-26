@@ -1994,4 +1994,27 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-237-immigration.md (units 6-7)
 VERIFY: part2-1800s.md validates (--part) with 0 errors, --punct 0/0, both eras written, every
         story verified.
+RESULT: LANDED, BUT CONTENT GAP. 177,684 tokens, 26 tool uses, 7.6 min. MEASURED: validator 0
+        errors · --punct 0/0 · 6 stories verified · 2,470 words (reported).
+        STORIES: Jette Bruns, Patrick Kennedy and Bridget Murphy, Carl Schurz, Annie Moore, Irving
+        Berlin, Wong Kim Ark.
+        OUTLINE CLAIMS LEFT OUT: about 15. PERSONIFICATIONS FIXED: 6. A self-contradictory Castle
+        Garden sentence in the bank was fixed in the prose.
+        RULE SLIP: the writer supplied "Russian officials" as the issuers of the May Laws, which
+        the bank does not give. That breaks DECISIONS #13 in a small way. Parked.
+        THE PROBLEM: the bank has NOTHING on anti-Chinese violence or the nativist riots, no human
+        causes for the Irish famine, no pogrom attackers or death counts, and no causes for the
+        railroad deaths. The prose says "the sources for this chapter do not record why they
+        died." That is honest under #13. For this reader it is also softening by omission.
+        A bank can pass the research gate and still lack the hard parts of its subject.
+        RESPONSE: T-238 patches the immigration bank on exactly these gaps (and pre-checks eras
+        8-10). T-237b2 then revises part 2 from the patched bank. The writing brief now makes a
+        hard-subject or central-cause gap BLOCKING: patch the bank, then write.
+
+### 2026-09-26 | [CLOUD] T-238 | PATCH the immigration bank: hard-subject gaps, eras 6-10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-238-immigration-bank.md (9 units, listed there)
+VERIFY: immigration --stage research still PASSES. Each unit landed as a new bank subsection
+        with named actors and sources.
+NEXT AFTER: T-237b2 revises part 2 from the patched bank. Then T-237c writes part 3.
 RESULT:

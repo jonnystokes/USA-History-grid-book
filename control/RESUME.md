@@ -180,6 +180,11 @@ Every prose agent gets, verbatim:
 > in your prose must be in `research/research-<slug>.md`. The outline is a plan of what to
 > cover. When the outline states something the bank does not contain, do not write it. List
 > it in your report. When a gap leaves a section thin, write the thin section.
+> **Exception: a gap on a hard subject or a central cause is BLOCKING** (added 2026-09-26 after
+> T-237b). Examples: the bank names a massacre, riot, famine, expulsion or epidemic but not who
+> did it, what was done, or why. Do not write "the sources do not record" in its place.
+> Write the rest of the era, list the gap under "BLOCKING GAPS" in your checkpoint, and report
+> it. The director patches the bank and then has the passage written.
 >
 > **If your outline or research bank contains a defect (softening, a false comparison, a
 > manufactured dispute, personification, a fact that contradicts itself), fix it in your
