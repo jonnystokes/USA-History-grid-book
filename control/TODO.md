@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-242b in flight:** writing `land-environment` part 1 (eras 1-5). The bank check is done (13 patches, Bears Ears current).
+**T-242c in flight:** writing `land-environment` part 2 (eras 6-7). Part 1 is done.
 **elements PASSES prose and research** (T-241 done). Written chapters: native-nations,
 city-building, immigration, science, elements.
 

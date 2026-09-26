@@ -2292,4 +2292,19 @@ RESULT: DONE. 13 PATCH sections. Research PASS. Bank 6,342 -> 14,053w.
 ### 2026-09-26 | [CLOUD] T-242b | Write land-environment PART 1 (eras 1-5)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 2)
+RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 5/5 written · 2 stories verified (Miantonomi,
+        Ebenezer Mudgett) · 3,584 words.
+        Covers Native land management (fire, the Three Sisters, beaver watersheds, bison, the Calusa
+        watercourts), with no "wilderness/empty/virgin/untouched". De Soto's animals and European
+        earthworms. The Koch 2019 reforestation estimate (labeled as one study). Land as property.
+        The king's pines. The 1785 grid and the taking in order (Fort McIntosh under duress,
+        Hutchins under army guard, Harmar, St. Clair, Fallen Timbers, Greenville 16,930,417 acres).
+        DEFECTS FIXED: the outline had horses back "from 1493", but that voyage went to the
+        Caribbean. The bank's "Hussey's boat killed a whale" (now the men aboard). Personification.
+        BLOCKING GAPS (3, collected): who carried the 1500s epidemics and fought the wars, whose land
+        the tobacco planters cleared, who killed Miantonomi and how.
+
+### 2026-09-26 | [CLOUD] T-242c | Write land-environment PART 2 (eras 6-7)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 3)
 RESULT:
