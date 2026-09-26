@@ -12,15 +12,15 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a dispatched. Part 1 not yet created.
-NEXT:   create manuscript/immigration/part1-before-1800.md and write era before-1500.
+NOW:    T-237a writing part1 era 1500s.
+NEXT:   write part1 era 1500s (append to manuscript/immigration/part1-before-1800.md).
 
 ## Units
 
 | # | unit | state | landed (commit / note) |
 |---|------|-------|------------------------|
-| 1 | part1 era before-1500 (thin) | todo | |
-| 2 | part1 era 1500s (thin) | todo | |
+| 1 | part1 era before-1500 (thin) | landed | file created, era written |
+| 2 | part1 era 1500s (thin) | working | |
 | 3 | part1 era 1600s | todo | |
 | 4 | part1 era 1700-1750 | todo | |
 | 5 | part1 era 1750-1800 | todo | |
@@ -36,6 +36,9 @@ NEXT:   create manuscript/immigration/part1-before-1800.md and write era before-
 
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
+- Glosses from general knowledge, not in the bank (word definitions only, no historical claim): "Norse" = sailors from northern Europe; Newfoundland "in what is now Canada"; land bridge = dry ground joining Asia to North America.
+
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
