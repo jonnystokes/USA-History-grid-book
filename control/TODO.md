@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-243a in flight:** pre-write bank check for `economy`.
+**T-243b in flight:** writing `economy` part 1 (eras 1-5). The bank check is done (7 patches).
 Written and passing: native-nations, city-building, immigration, science, elements, land-environment.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

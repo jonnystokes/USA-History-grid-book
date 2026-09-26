@@ -2368,4 +2368,21 @@ T-242 COMPLETE: land-environment, 6 agents (one killed and salvaged).
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-243-economy.md
 VERIFY: economy --stage research still PASSES.
+RESULT: DONE. 7 PATCH blocks. Research PASS. Bank 6,398 -> 12,332w.
+        FILLED: indentured servants (numbers, terms, headright, deaths, the switch to enslaved
+        Africans). About 50,000 British convicts sold 1718-75. Rhode Island's slave trade (the Browns'
+        Sally). Slavery as $3B of capital and who profited (named banks, bond sellers, JPMorgan
+        predecessors, insurers, the Lehmans, Lowell). The Panic of 1819, and who paid in 1837.
+        Sharecropping, Bailey v. Alabama, Alabama convict leasing (companies and deaths), 1873 and
+        1893 job losses. Black unemployment, the Social Security exclusions (both accounts), AAA
+        evictions. 2008 foreclosures and wealth loss by group.
+        FALSE FIRST: the 1534 Cartier fur trade (1524 in Maine came first). "Lowest ever" for 1944
+        should read "lowest in official records".
+        PERISHABLE, dated Aug 2026 / Q2 2026: unemployment 4.1%, CPI 3.4%, GDP, the jobs mix, Fed
+        wealth shares (top 10% 68.9%, bottom half 2.3%), with a correction note for the revised
+        older Fed figures.
+
+### 2026-09-26 | [CLOUD] T-243b | Write economy PART 1 (eras 1-5)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md (unit 2)
 RESULT:
