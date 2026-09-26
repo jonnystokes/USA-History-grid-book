@@ -455,22 +455,77 @@ Local banks made the loans, and many would not lend to Black veterans. In 1947 *
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="war" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="war" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-The country keeps a huge standing military in peacetime for the first time, and fights two long wars it does not declare.
+After 1950 the United States kept millions of people under arms in peacetime and fought two long wars in Asia without a declaration of war from Congress. In Korea, from 1950 to 1953, 36,574 Americans died. In Vietnam, 58,220 Americans died, most of them between 1965 and 1973. Both counts are the Defense Department's.
+
+Presidents sent drafted men to both wars. The draft ended in 1973, and after that everyone who served had signed up. In 1991 about 697,000 American troops went to war against Iraq. The fighting lasted from January 17 to February 28, and 383 Americans died.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the Cold War, Korea, and Vietnam" -->
-The Cold War and nuclear standoff; the hydrogen bomb — Ivy Mike, November 1, 1952; Korea; Vietnam, the draft, and the lottery; the end of the draft and the all-volunteer force, 1973 [VERIFY]; the Gulf War, 1991; the VA and the treatment of veterans; women's expanding roles.
+<!-- hb-zoom level="span" label="Korea, 1950 to 1953" -->
+North Korean troops invaded South Korea on June 25, 1950, and American troops went to fight for the South. In November 1950 about 120,000 Chinese soldiers surrounded about 30,000 American and allied troops at the Chosin Reservoir in North Korea. The temperature fell to 20 degrees below zero. The troops fought their way out to the sea by December 13. Of about 8,000 Marines in the fighting, 836 were killed.
+
+In the last week of July 1950, American soldiers of the 7th Cavalry Regiment fired on South Korean refugees at a railroad bridge near the village of No Gun Ri. Survivors say about 400 people died. Korean officials have confirmed at least 163 dead or missing. In 2001 an Army investigation said it could not count the dead and found no order to shoot. A historian later found a letter from the US ambassador, dated July 25, 1950. It said refugees who kept coming toward American lines after warning shots "will be shot." President Bill Clinton said in 2001 that "things were done which should not have been done."
+
+The armistice, an agreement to stop fighting, was signed on July 27, 1953. By then nearly every unit in the armed forces mixed Black and white soldiers.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="vietnam-soldier" name="(target) a Vietnam soldier" movie="" kind="ordinary" status="target" -->
-### (target) a Vietnam soldier
-Drafted, sent, and came home to a divided country (documented).
-<!-- hb-story:end slug="vietnam-soldier" -->
-<!-- hb-story:start slug="draft-resister" name="(target) a draft resister" movie="" kind="ordinary" status="target" -->
-### (target) a draft resister
-Refused the draft (documented).
-<!-- hb-story:end slug="draft-resister" -->
+<!-- hb-zoom level="span" label="The hydrogen bomb" -->
+On November 1, 1952, American scientists set off the first hydrogen bomb, a new kind of nuclear weapon, at Enewetak Atoll in the Pacific. The blast destroyed an island.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Vietnam and the draft" -->
+Marines landed at Da Nang, South Vietnam, on March 8, 1965. By April 1969 about 543,000 American troops were in Vietnam. The deadliest year was 1968, when 16,899 Americans died there. The last combat troops left on March 29, 1973. Counts of the men drafted in the Vietnam years run from about 1.8 million to 2.2 million.
+
+Until 1969 draft boards called the oldest eligible men first. On December 1, 1969, Selective Service officials held a lottery instead. They put 366 birthdays in blue plastic capsules and drew them one at a time. The first date drawn was September 14, so men born on that day were called first. That year the draft reached number 195.
+
+The last draft call came on December 7, 1972, and the law allowing the draft ran out on June 30, 1973. Since then the armed forces have taken only volunteers. Since July 1980 young men have had to register for the draft again, but nobody has been drafted.
+
+The Vietnam Veterans Memorial in Washington lists 58,281 names. Maya Lin designed it, and it opened in 1982.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="ron-kovic" name="Ron Kovic" movie="Born on the Fourth of July (1989)" kind="ordinary" status="verified" -->
+### Ron Kovic
+> **Who:** A Marine sergeant from Long Island, paralyzed by a bullet in Vietnam, who came home and spoke against the war.
+> **When and where:** Born July 4, 1946. Grew up in Massapequa, New York. Wounded in Vietnam on January 20, 1968.
+> **Movie:** *Born on the Fourth of July* (1989), directed by Oliver Stone, based on Kovic's memoir.
+
+Kovic volunteered for the Marines, and then volunteered for a second tour in Vietnam. On January 20, 1968, he was shot in the right foot. Then a second bullet went through his right shoulder. It collapsed one lung and cut into his spinal cord, the bundle of nerves inside the backbone that carries messages between the brain and the body. From the middle of his chest down he could no longer move or feel anything. In the hospital at Da Nang, doctors told him he would never walk again.
+
+He spent months in the Veterans Administration hospital in the Bronx, New York. It had too few staff and old equipment, and patients called it "the Bronx Zoo." In 1969 he gave his first speech against the war. At a protest at President Richard Nixon's campaign office in Los Angeles in 1972, he was thrown out of his wheelchair and arrested. The account used here does not say who threw him. His book *Born on the Fourth of July* came out in 1976.
+<!-- hb-story:end slug="ron-kovic" -->
+<!-- hb-story:start slug="muhammad-ali-war" name="Muhammad Ali" movie="" kind="famous" status="verified" -->
+### Muhammad Ali
+> **Who:** The heavyweight boxing champion, who refused to be drafted and won his case in the Supreme Court.
+> **When and where:** Refused induction in Houston, Texas, April 28, 1967. Supreme Court decision, June 28, 1971.
+
+Ali was a minister of the Nation of Islam. He asked his draft board to list him as a conscientious objector, a person whose religion forbids fighting in any war. The board said no, and so did the appeal board. On April 28, 1967, he went to the army office in Houston and would not step forward when an officer called his name. Boxing officials took away his heavyweight title that day.
+
+On June 20, 1967, a federal court convicted him of refusing the draft and sentenced him to five years in prison and a $10,000 fine. His lawyers appealed. He was not allowed to box for more than three years. On June 28, 1971, all eight justices who heard the case overturned his conviction. They ruled that the appeal board had never given a reason for turning him down.
+<!-- hb-story:end slug="muhammad-ali-war" -->
+<!-- hb-zoom level="span" label="My Lai, March 16, 1968" -->
+On March 16, 1968, American soldiers of Charlie Company, 1st Battalion, 20th Infantry, killed the unarmed people of My Lai, a village in South Vietnam. The Army counted 347 dead. A memorial in the village lists 504 names, from babies of one year to a person of 82. The soldiers shot villagers in an irrigation ditch and in the open. Officers above them hid what happened for more than a year.
+
+An Army board led by General William Peers named 30 men who knew about the killings. Army lawyers charged 14 of them. A court-martial, a military court, convicted one of them, Lieutenant William Calley, on March 29, 1971, of murdering 22 people. He was sentenced to life in prison. President Richard Nixon moved him to house arrest three days later, and he was let out on parole in 1974.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="hugh-thompson" name="Hugh Thompson Jr." movie="" kind="famous" status="verified" -->
+### Hugh Thompson Jr.
+> **Who:** An Army helicopter pilot who landed between American soldiers and Vietnamese villagers at My Lai to stop the killing.
+> **When and where:** Born Atlanta, Georgia, April 15, 1943. My Lai, South Vietnam, March 16, 1968. Died Pineville, Louisiana, January 6, 2006.
+
+Thompson flew a small scout helicopter with two crewmen, Glenn Andreotta and Lawrence Colburn. Over My Lai that morning he dropped green smoke next to wounded villagers as a signal that they needed help. He came back and found them dead. He watched Captain Ernest Medina shoot a wounded young woman. He saw an irrigation ditch full of bodies and radioed, "There's something wrong here."
+
+He landed. Lieutenant Calley told him to mind his own business. Then Thompson saw soldiers chasing about ten villagers, some of them children, toward a shelter. He set his helicopter down between the soldiers and the villagers. He told Colburn and Andreotta to fire their machine guns at the soldiers if the soldiers shot at him or the villagers. He talked 11 people out of the shelter, and two other pilots flew them to safety. Andreotta climbed into a ditch of about 100 bodies and pulled out a living boy, Do Ba. Thompson flew him to a hospital and reported the killings. Medina then told his men to stop.
+
+Andreotta was killed in combat three weeks later. In 1969 a congressman who led the House Armed Services Committee, Mendel Rivers, said Thompson was the one who should be punished, for threatening American soldiers. Thompson got death threats. In March 1998 the Army gave all three men the Soldier's Medal, Andreotta after his death. It is the Army's highest award for bravery outside combat with an enemy. That year Thompson and Colburn went back to My Lai and met people they had saved.
+<!-- hb-story:end slug="hugh-thompson" -->
+<!-- hb-zoom level="span" label="Women and gay service members" -->
+A law signed on June 12, 1948, made women permanent members of the armed forces. It limited them to 2 percent of the forces and kept them out of combat units. Congress removed the limit in 1967. In July 1976, 119 women entered the Military Academy at West Point, and 62 of them graduated in 1980.
+
+Under a 1993 law called "Don't Ask, Don't Tell," gay, lesbian and bisexual service members could serve only if they kept it secret. Commanders discharged more than 13,000 of them under it before it ended in 2011.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Gulf War, 1991" -->
+About 100,000 Iraqi soldiers invaded Kuwait on August 2, 1990. American and allied pilots began bombing Iraq on January 17, 1991. The ground attack began on February 24 and lasted 100 hours. President George H. W. Bush declared a cease-fire on February 28. About 697,000 American troops went to the region, and 383 died, 148 of them in battle.
+
+At least one in four came home sick. In 2008 a committee of scientists advising the Department of Veterans Affairs found that 175,000 to 210,000 Gulf War veterans had an illness with memory problems, headaches, pain all over the body, and stomach trouble. Doctors had found no treatment, and few of the sick veterans had gotten better. The committee linked the illness to pills the soldiers took to protect them from nerve gas, and to pesticides, the chemicals used to kill insects.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
 <!-- hb-time:start id="2000-today" order="10" chapter="war" label="2000 to Today" state="full" progress="seed" -->

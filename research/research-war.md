@@ -1521,3 +1521,220 @@ History Project guide, https://guides.loc.gov/navajo-code-talkers/profiles/chest
   History Project.
 - Isaac Woodard (1946) was not researched here. Audit-queue candidate, with `rights-movements`.
 - Oil and the pipelines stay in `energy`. The home-front economy stays in `economy`.
+
+## 9. 1950 TO 2000
+
+### 9.0 Shape of the era, and the official numbers (CRS Table 1)
+- **Korean War, 1950-1953:** 5,720,000 served. **36,574 deaths: 33,739 battle, 2,835 other.**
+  103,284 wounded. CRS note m: "Worldwide military deaths during the Korean War totaled 54,246."
+  (The 54,246 counts deaths anywhere in the world in those years. Do not use it as the war's toll.)
+- **Vietnam, 1964-1973:** 8,744,000 served (August 5, 1964 to January 27, 1973). **58,220 deaths:
+  47,434 battle, 10,786 other.** Wounded: 153,303 who needed hospital care and 150,341 who did not.
+  Deaths are counted from November 1, 1955 to May 15, 1975.
+- **Persian Gulf War, 1990-1991:** 2,225,000 served in the period. **383 deaths: 148 battle, 235
+  other.** 467 wounded.
+- National Archives, from the Defense Casualty Analysis System file: **58,220** Vietnam dead, and
+  **1968 was the deadliest year, with 16,899** (https://www.archives.gov/research/military/vietnam-war/casualty-statistics).
+- **The Wall.** The Vietnam Veterans Memorial carries **58,281 names** after its 2025 update, with no
+  names added in 2025 (Vietnam Veterans Memorial Fund, "2025 Name Additions and Status Changes,"
+  https://www.vvmf.org/News/2025-Name-Additions-and-Status-Changes-on-the-Vietnam-Veterans-Memorial/ ,
+  via search summary: the page returned 403). It was dedicated November 13, 1982, with 57,939 names;
+  designed by Maya Lin (same summary). The Wall's number is higher than DoD's 58,220 because it
+  includes deaths the Defense Department file counts differently. State both with their sources.
+
+### 9.1 Korea, 1950-1953
+- North Korean troops invaded South Korea **June 25, 1950**. Armistice **July 27, 1953**. (Search
+  summaries of the National Museum of the Marine Corps timeline,
+  https://www.usmcmuseum.com/uploads/6/0/3/6/60364049/koreanwarworkshopresources.pdf .)
+- **Chosin Reservoir, November 27 to December 13, 1950.** National Museum of the Marine Corps
+  (https://www.usmcmuseum.com/uploads/6/0/3/6/60364049/4_chosin.pdf): about 30,000 UN troops
+  surrounded by about 120,000 Chinese troops, in "temperatures of 20 degrees below zero." "Over 7,000
+  UN and 50,000 Chinese casualties." Of 8,000 Marines actively involved, **836 killed**. Survivors
+  called "The Frozen Chosen." Other summaries give temperatures to 40 below and large frostbite
+  numbers; those were not verified, so the outline uses "20 degrees below zero" only and no frostbite
+  count.
+- **No Gun Ri, July 26-29, 1950.** US soldiers of the **7th Cavalry Regiment** fired on South Korean
+  refugees gathered at and under a railroad bridge near the village of No Gun Ri.
+  - The **Army's own review (January 11, 2001)**: the 1st and 2nd Battalions, 7th Cavalry, were there
+    July 26-29. The Korean county office's (Yongdong) claim: **248 South Korean civilians killed,
+    injured, or missing.** The Army team was "unable to determine the number of Korean civilians who
+    were killed or injured" and found "U.S. commanders did not issue oral or written orders to shoot
+    and kill Korean civilians." (U.S. Department of the Army, No Gun Ri Review Report, Executive
+    Summary, https://en.wikisource.org/wiki/U.S._Department_of_the_Army_No_Gun_Ri_Review_Report/Executive_Summary)
+  - **DISPUTE.** Korean survivors estimated about **400 killed**; Korean authorities verified at
+    least **163 dead or missing**. In 2006 the historian **Sahr Conway-Lanz** found a letter of **July
+    25, 1950** from US Ambassador John Muccio describing a US-South Korean decision: "If refugees do
+    appear from north of U.S. lines they will receive warning shots, and if they then persist in
+    advancing they will be shot." The Army's 2001 report did not disclose it. (CBS News/AP, April 14,
+    2007, https://www.cbsnews.com/news/report-korean-war-era-massacre-was-policy/)
+  - The AP story that broke it ran September 29, 1999 and won the 2000 Pulitzer Prize for
+    investigative reporting (search summaries). **President Clinton, January 2001:** "Things were
+    done which should not have been done. Innocent people died and others were wounded." He
+    expressed regret and did not apologize. (UPI, January 12, 2001,
+    https://www.upi.com/Archives/2001/01/12/Clinton-US-regret-is-No-Gun-Ri-apology/5084979275600/)
+- **Integration** (parked `rights-movements` line): nearly all units integrated by about 1953.
+
+### 9.2 The hydrogen bomb (parked from `elements`)
+- **Ivy Mike, November 1, 1952, Enewetak Atoll**: the first hydrogen bomb test; it destroyed an
+  island (parked elements line, Science History Institute). The outline gives the date and place
+  only. Testing on Pacific islanders and on US troops ("atomic veterans") was not researched in this
+  pass. Audit-queue candidate.
+
+### 9.3 Vietnam and the draft
+- **Timeline** (search summaries: army.mil Vietnam War commemoration, https://www.army.mil/vietnamwar/history.html ;
+  HISTORY timeline, https://www.history.com/articles/vietnam-war-timeline): Marines landed at **Da
+  Nang March 8, 1965**; US troops peaked at **about 543,000 in April 1969**; the last US combat troops
+  left **March 29, 1973**; Saigon fell **April 30, 1975**. Cease-fire January 27, 1973 (CRS note n).
+- **The lottery.** Selective Service, "The Vietnam Lotteries" (sss.gov page, copy at
+  https://jaclynhughes.wordpress.com/wp-content/uploads/2014/08/the-vietnam-draft.pdf , original URL
+  https://www.sss.gov/About/History-And-Records/lotter1 ): **December 1, 1969**, the first lottery
+  since 1942, for men born 1944-1950. **366 blue plastic capsules** with birth dates. Congressman
+  Alexander Pirnie drew the first: **September 14**, which became number 1. Before this the rule was
+  "draft the oldest man first." Highest number called for 1970: **195.**
+- **[VERIFY] RESOLVED: the end of the draft.** Same Selective Service page: **"The last draft call was
+  on December 7, 1972, and the authority to induct expired on June 30, 1973."** Registration was
+  suspended April 1, 1975 and **resumed in July 1980** for men born in 1960 and later. So the seed's
+  "end of the draft and the all-volunteer force, 1973" is correct, with the exact dates above.
+- **How many were drafted. DISPUTE, weak sources.** Search summaries give **1,857,304 inducted
+  August 1964 to February 1973** (attributed to Selective Service induction statistics) and **about
+  2.2 million** in other summaries. The sss.gov induction page returned 404. The outline says "about
+  1.8 million to 2.2 million, depending on the count."
+- **My Lai, March 16, 1968.** Soldiers of **Charlie Company, 1st Battalion, 20th Infantry**, under
+  Captain Ernest Medina, killed unarmed villagers in My Lai 4, Quang Ngai Province. **The US Army's
+  count was 347 dead. A Vietnamese memorial at the site lists 504 names, ages 1 to 82.** (HISTORY via
+  search summary; state both.) The Army's inquiry under **Lieutenant General William Peers** named 30
+  people who knew; **14 were charged; all but Lieutenant William Calley were acquitted or had charges
+  dropped.** **Calley was convicted March 29, 1971** at Fort Benning of the premeditated murder of
+  **22** civilians. Life sentence, cut to 20 years and then 10. President Nixon ordered him to house
+  arrest three days after the verdict. **Paroled 1974.** (HISTORY, "Lt. William Calley found guilty of
+  My Lai murders," updated May 28, 2025,
+  https://www.history.com/this-day-in-history/march-29/calley-found-guilty-of-my-lai-murders)
+  The Warrant Officer Historical Foundation profile (below) says soldiers "tortured and killed several
+  hundred unarmed Vietnamese civilians, mutilating their bodies after they had been murdered." Rape
+  at My Lai is widely reported but was not verified from a source read in this pass, so the outline
+  does not state it. Audit-queue candidate: the Peers report's findings on rape. The outline gives the
+  counts and what Thompson saw. The profile says commanders "throughout the American chain of command were successful in
+  covering up" the massacre until news broke publicly in late 1969.
+
+### 9.4 STORY — Hugh Thompson Jr. (famous; new slot) — verified
+Source unless marked: Warrant Officer Historical Foundation, "The Forgotten Hero of My Lai: The Hugh
+Thompson Story," https://warrantofficerhistory.org/PDF/Forgotten_Hero_of_My_Lai-WO_Hugh_Thompson.pdf
+(this profile follows the standard published accounts closely; the dialogue in it comes from
+Thompson's later testimony and interviews).
+- **Born April 15, 1943, Atlanta, Georgia.** Navy Seabees 1961-1964. Ran a funeral home. Army 1966,
+  helicopter training. In Vietnam from December 1967, 123rd Aviation Battalion, Americal Division.
+  Flew an **OH-23 Raven** scout helicopter with **Specialist Glenn Andreotta** (crew chief) and
+  **Specialist Lawrence Colburn** (gunner).
+- **March 16, 1968.** Marked wounded villagers with green smoke. Came back to find them dead. Watched
+  **Captain Medina shoot a wounded young woman** he had marked. Saw an **irrigation ditch filled with
+  dozens of bodies** and radioed: "There's a ditch full of bodies that we saw. There's something wrong
+  here." Landed. Sergeant David Mitchell said the only way to help the people in the ditch was to put
+  them out of their misery. Calley told him to mind his own business. After Thompson took off,
+  Andreotta reported Mitchell was shooting the people in the ditch.
+- Saw about ten civilians, including children, running for a bunker with 2nd Platoon soldiers
+  following. **Landed between them.** Told Colburn and Andreotta to fire their M60 machine guns on
+  the Americans if they opened fire on him or the villagers. Got **11 Vietnamese** out of the bunker
+  and had two gunship pilots (Dan Millians and Brian Livingstone) fly them out. Then **Andreotta waded
+  into a ditch of about 100 bodies and pulled out a living boy, Do Ba**, whom Thompson flew to the
+  South Vietnamese army hospital at Quang Ngai. Thompson reported the killings at about 11 a.m.; Medina
+  then ordered the company to stop.
+- **Glenn Andreotta was killed in combat three weeks later** (April 1968).
+- Afterward: officers covered it up. Thompson's Distinguished Flying Cross citation made up a story
+  about a child "caught in intense crossfire," and he threw it away. Shot down; broke his back. In
+  late 1969, at a closed hearing, House Armed Services Committee chairman **Mendel Rivers** said
+  Thompson was the only soldier at My Lai who should be punished, for turning his guns on American
+  troops, and tried to have him court-martialed. Thompson got death threats and hate mail.
+- **March 6, 1998, thirty years later: the Soldier's Medal** (the Army's highest award for bravery
+  not involving contact with the enemy) to Thompson, Colburn, and Andreotta (after his death). Thompson
+  and Colburn went back to My Lai in 1998 and met survivors. **Died January 6, 2006**, VA Medical Center,
+  Pineville, Louisiana, of cancer, age 62. (The exact 1998 day is from the "exactly thirty years"
+  wording: March 16 would be thirty years exactly. **DISPUTE on the day:** summaries say March 6,
+  1998; the profile says "exactly thirty years after." The outline says "in March 1998.")
+- Movie: none about him (documentaries on My Lai exist; not verified here). `movie=""`.
+- Slug `hugh-thompson` unique (checked).
+
+### 9.5 STORY — Ron Kovic (fills the "(target) a Vietnam soldier" slot; ordinary) — verified
+- **Born July 4, 1946**, grew up in Massapequa, Long Island, New York. Enlisted in the Marines;
+  volunteered for a second tour in Vietnam. (Tim Gilmer, *New Mobility*, June 1, 2003,
+  https://newmobility.com/ron-kovic-reborn/ ; birth year from "56 in 2003" and the July 4 birthday.)
+- **January 20, 1968:** shot first in the right foot, then through the right shoulder; the bullet
+  collapsed a lung and hit his spinal cord. **Paralyzed from the middle of the chest down** (a T4-6
+  spinal cord injury, New Mobility). (Wound sequence: search summaries of Kovic's own accounts,
+  including his essay "In the Presence of My Enemy," HNN/Truthdig, January 20, 2011,
+  https://www.hnn.us/article/ron-kovic-in-the-presence-of-my-enemy-a-reflection , in which he writes
+  that in Da Nang he was told "I will never walk again.")
+- **Bronx VA hospital:** months of recovery; patients called it "the Bronx Zoo"; "understaffed,
+  outdated" and "sometimes-abusive conditions" (New Mobility).
+- First antiwar speech 1969, Levittown; **1972: thrown from his wheelchair and arrested** at Nixon
+  campaign headquarters in Los Angeles; spoke at the 1976 Democratic convention (New Mobility).
+- **Memoir *Born on the Fourth of July* (1976). Film *Born on the Fourth of July* (1989), directed by
+  Oliver Stone**, with Tom Cruise as Kovic; Kovic co-wrote the screenplay (New Mobility). The film is
+  about him. `movie="Born on the Fourth of July (1989)"`.
+- The slot asked for a man "drafted, sent, and came home to a divided country." Kovic volunteered.
+  The draft is carried in the span and by Ali. Slug `ron-kovic` unique (checked).
+
+### 9.6 STORY — Muhammad Ali (fills the "(target) a draft resister" slot; famous) — verified. Slug `muhammad-ali-war`
+`sports-play` has `muhammad-ali` (candidate) for the boxing. War's slice is the draft case only.
+- **April 28, 1967, Houston:** at his induction he refused to step forward when his name was called.
+  An officer warned him it was a felony punishable by five years in prison and a $10,000 fine.
+  (**DISPUTE:** three refusals in the Supreme Court-case summaries, four in HISTORY. Outline does not
+  count them.) Boxing officials stripped him of the heavyweight title the same day. (HISTORY,
+  https://www.history.com/this-day-in-history/april-28/muhammad-ali-refuses-army-induction ;
+  Sports Illustrated, April 28, 2020, https://www.si.com/boxing/2020/04/28/this-day-sports-history-muhammad-ali-refuses-induction-army-stripped-title ,
+  via search summary)
+- He had asked his draft board to classify him as a **conscientious objector** (a person whose
+  religion or conscience forbids fighting in war) as a minister of the Nation of Islam. The board and
+  the appeal board refused.
+- **June 20, 1967:** convicted of draft evasion, **five years and $10,000** (HISTORY). He did not box
+  for **more than three years**.
+- **Clay v. United States, 403 U.S. 698, June 28, 1971: 8-0** (Justice Thurgood Marshall did not
+  take part). The justices overturned the conviction because the appeal board gave no reasons for
+  rejecting his claim and the Justice Department later admitted two of its three reasons were wrong.
+  (Opinion, Library of Congress US Reports PDF,
+  https://tile.loc.gov/storage-services/service/ll/usrep/usrep403/usrep403698/usrep403698.pdf ;
+  Justia, https://supreme.justia.com/cases/federal/us/403/698/ ; via search summary)
+- Movie: *Ali* (2001) is a feature film about him; `sports-play` may use it. Not verified here, so
+  `movie=""` in this chapter.
+
+### 9.7 Women and gay service members, 1948-1999
+- **Women's Armed Services Integration Act, June 12, 1948:** women became permanent regular members
+  of the forces, capped at **2 percent** of personnel and kept out of combat units and combat
+  aircraft. The cap was removed in **1967** (Public Law 90-160). **July 7, 1976: 119 women entered
+  West Point; 62 graduated in May 1980.** (army.mil, "Forty years have passed since the first women
+  graduated from West Point," https://www.army.mil/article-amp/235994/forty_years_have_passed_since_the_first_women_graduated_from_west_point_in_the_class_of_1980 ,
+  via search summary; NHHC WASIA page, same summary.)
+- **"Don't Ask, Don't Tell,"** signed November 30, 1993, in effect **February 28, 1994 to September 20,
+  2011**: gay, lesbian and bisexual service members could serve only if they kept it secret. **More
+  than 13,000** were discharged under it (EBSCO Research Starters, via search summary; about 13,650 in
+  another summary). Repeal signed December 22, 2010 (HISTORY,
+  https://www.history.com/this-day-in-history/september-20/dont-ask-dont-tell-repealed). Era 10 gives
+  the repeal.
+
+### 9.8 The Gulf War, 1990-1991
+- Desert Shield August 2, 1990 to January 16, 1991. **Desert Storm from January 17, 1991.** Ground
+  campaign stopped with a cease-fire after **100 hours**. **About 697,000** US troops deployed.
+  (VA Public Health, https://www.publichealth.va.gov/PUBLICHEALTH/exposures/gulfwar/basics.asp ;
+  search summaries.) Deaths: CRS Table 1 above (383).
+- **Dates** (U.S. State Dept. Office of the Historian, "The Gulf War, 1991,"
+  https://history.state.gov/milestones/1989-1992/gulf-war ; HISTORY; NHHC exhibit page, via search
+  summary): about **100,000 Iraqi troops invaded Kuwait August 2, 1990**; air campaign **January 17,
+  1991**; ground offensive **February 24**; President George H. W. Bush declared a **cease-fire
+  February 28, 1991**.
+- **Gulf War illness.** VA's Research Advisory Committee on Gulf War Veterans' Illnesses, report of
+  **November 2008** (https://www.va.gov/rac-gwvi/docs/committee_documents/gwiandhealthofgwveterans_rac-gwvireport_2008.pdf):
+  "affects at least one fourth of the 697,000 U.S. veterans," **175,000 to 210,000** people. Symptoms:
+  "persistent memory and concentration problems, chronic headaches, widespread pain,
+  gastrointestinal problems." "No effective treatments have been identified" and "few veterans have
+  recovered over time." The committee found two exposures "causally associated": **pyridostigmine
+  bromide (PB) pills**, given to protect troops from nerve gas, and **pesticides**. It found the
+  illness was not caused by combat stress. **This is the committee's finding.** Other scientific
+  panels (Institute of Medicine) weighed the evidence differently; the outline names the committee as
+  the source. Another VA-committee summary (2014 update) gives 175,000 to 250,000.
+
+### 9.9 Left out of era 9, and why
+- Agent Orange, the Tet Offensive's battles, POWs, and Kent State were not researched in this pass.
+  Kent State and the antiwar movement belong to `rights-movements`; the war on television to
+  `news-communication`. Audit-queue candidates: Agent Orange and the veterans' fight for care.
+- Atomic testing on Pacific islanders and on US soldiers: not researched.
+- Grenada (1983), Panama (1989), Somalia (1993) and the Balkans: CRS Table 2 lists them; not written
+  into the outline.
