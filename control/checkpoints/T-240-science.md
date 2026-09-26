@@ -48,3 +48,4 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 - 2026-09-26 T-240a: bank check landed. 17 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
 - 2026-09-26 T-240b: era before-1500 written (about 700 words). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1500s written (about 150 words, thin). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
+- 2026-09-26 T-240b: era 1600s written (about 600 words, thin). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.

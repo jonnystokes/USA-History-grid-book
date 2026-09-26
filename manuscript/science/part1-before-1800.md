@@ -68,3 +68,40 @@ Thomas Hariot was an English mathematician. In 1585 and 1586 he went with the En
 In 1588 Hariot published *A Briefe and True Report of the New Found Land of Virginia*. It was the first book in English about North America written by someone who had been there. In 1590 the book came out again in an edition by the publisher de Bry, with drawings by John White.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
+
+<!-- hb-time:start id="1600s" order="03" chapter="science" label="The 1600s" state="thin" progress="written" -->
+## The 1600s
+
+<!-- hb-zoom level="era" -->
+In the 1600s, English colonists in New England founded Harvard, the first college in their colonies, and printed their first almanac. A few colonists wrote careful records of what they saw in the sky and in the weather. Some of the same men who measured the sky also read it as a message from God.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="A college, an almanac and a telescope" -->
+In 1636 members of the Massachusetts Bay General Court, the lawmaking body of the colony, voted to found a college. It was the first college in the English colonies. In 1639 it was named Harvard, after John Harvard, who left it money when he died.
+
+That same year a mariner named William Pierce worked out *An Almanack for New England for the Year 1639*. A mariner is a sailor. An almanac is a yearly booklet with a calendar and tables of the sun and moon. Stephen Daye printed it at Cambridge, in Massachusetts. It was one of the first two things printed on the first printing press in the colonies. For the next two hundred years, ordinary families learned about astronomy from almanacs.
+
+John Winthrop Jr. was a governor of Connecticut. He visited London from 1661 to 1663. While he was there, members of the Royal Society, a group of scientists in London, elected him a fellow, which is a full member. He was one of the first colonists to join. In about 1672 he gave Harvard his telescope, which was 3.5 feet long. It was the college's first scientific instrument.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The comet of 1680" -->
+A comet appeared in the sky over Boston in November and December of 1680. It is called the Great Comet of 1680. Thomas Brattle, who had finished his studies at Harvard in 1676, followed it with a telescope. He worked out that the comet seen in November and the comet seen in December were one comet. It had swung around the sun between the two sightings. Isaac Newton later cited these New England observations in his book the *Principia*.
+
+In 1683 Increase Mather wrote a book about comets called *Kometographia*. In it he listed comets as warnings sent by God. He also used a method called parallax to show that comets were far away in space. Parallax works by looking at an object from two different places. A near object seems to shift against the stars far more than a distant one. Mather's measurements showed that comets were distant bodies rather than vapors, a kind of gas.
+
+In 1683 Mather also founded the Boston Philosophical Society, a group modeled on the Royal Society in London. It lasted about three years.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="john-campanius-holm" name="Rev. John Campanius Holm" movie="" kind="ordinary" status="verified" -->
+### Rev. John Campanius Holm
+
+> **Who:** A chaplain in the colony of New Sweden who kept the first known weather record in what is now the United States.
+> **When and where:** Near what is now Wilmington, Delaware, 1644 and 1645.
+
+John Campanius Holm kept the first known record of the weather in what is now the United States. He wrote down the weather twice a day through 1644 and 1645. He did it with no instruments.
+
+Holm was a chaplain, a minister who serves a group of people away from home. He served the colony of New Sweden, near what is now Wilmington, Delaware. His record was systematic, which means he made it the same way on a fixed plan, day after day.
+
+Today, officials of the National Oceanic and Atmospheric Administration, the US government's weather and ocean agency, give the John Campanius Holm Award. It goes to volunteers who take weather readings. Up to 25 people receive it each year.
+<!-- hb-story:end slug="john-campanius-holm" -->
+<!-- hb-time:end id="1600s" -->
