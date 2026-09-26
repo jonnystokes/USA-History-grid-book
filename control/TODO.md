@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-240a in flight:** pre-write bank check for `science` (the new step). Then 3 writers.
+**T-240b in flight:** writing `science` part 1 (eras 1-5). The pre-write bank check (T-240a) is done: 17 patches, research PASS.
 **immigration PASSES prose and research** (T-237, T-238, T-239 done). Only the tung-trinh story waits on Jon.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

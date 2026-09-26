@@ -2107,4 +2107,21 @@ write once. The brief is in RESUME.md, "Standard PRE-WRITE BANK CHECK brief".
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-240-science.md
 VERIFY: science --stage research still PASSES. The patch sections are listed in the checkpoint.
+RESULT: DONE. 17 PATCH blocks. science research PASS. Bank 5,879 -> 10,798w (outline 4,832w).
+        FILLED: remains taken for race science (Morton, the Army Medical Museum, Hrdlička,
+        NAGPRA, apologies, the 2025 count still held). Eugenics as science (Davenport, Laughlin,
+        the ERO 1910-1939). Human radiation experiments (18 plutonium injections, 5 patients
+        named, Trinity fallout, ACHRE, the apology, payments). Henrietta Lacks (1951, 2013,
+        2023). Jefferson's race claims and replies. Agassiz's daguerreotypes (7 named, the
+        settlement). Watson's statements. Named jobs for Mitchell and Goddard. Genome cost.
+        PLACED ELSEWHERE: sterilizations (rights-movements), IQ tests (education), Laughlin's
+        testimony (immigration), the NAGPRA campaign (native-nations), the bombs on Japan (war).
+        UNKNOWABLE: illness and death counts from Trinity. NOT FOUND: a "hundreds of dollars"
+        genome cost, and support for the outline's "within a generation" Darwin claim. Writers
+        leave both out.
+
+### 2026-09-26 | [CLOUD] T-240b | Write science PART 1 (eras 1-5)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-240-science.md (unit 2)
+VERIFY: part1 validates (--part), --punct 0/0, 5 eras written, stories verified.
 RESULT:
