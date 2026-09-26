@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a all five eras landed. Running whole-file self-review.
-NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before-1800.md).
+NOW:    T-237a DONE. Part 1 (eras 1-5) written, self-reviewed, 0 validator errors, emdash=0 semicolon=0. 6 stories.
+NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s.md, same layout as part1).
 
 ## Units
 
@@ -69,6 +69,7 @@ NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before
 <!-- date-time | unit | words | validator | --punct -->
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
+- 2026-09-26 | part1 self-review done | 3,180 prose words, avg sentence 13.1 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
 - 2026-09-26 | 5 1750-1800 | ~900 prose | 0 errors (--part), 6 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 4 1700-1750 | ~800 prose | 0 errors (--part), 4 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 3 1600s | ~1,450 prose | 0 errors (--part), 3 stories | emdash=0 semicolon=0

@@ -46,9 +46,9 @@ In 1587 English settlers landed on Roanoke Island, off the coast of what is now 
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the 1600s people from Europe began coming to stay. Some came so that they could worship in their own way. Others came for land, for trade, or to grow tobacco. Most English people who went to Virginia and Maryland paid for the voyage with years of their own labor.
+People from Europe began coming to stay in the 1600s. Some came so that they could worship in their own way. Others came for land, for trade, or to grow tobacco. Most English people who went to Virginia and Maryland paid for the voyage with years of their own labor.
 
-Every one of these colonies was built on land where Native people already lived. The newcomers settled along the Atlantic coast.
+The colonists built every one of their settlements on land where Native people already lived. They settled along the Atlantic coast.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Jamestown and indentured servitude" -->
@@ -94,7 +94,7 @@ Anne Hutchinson crossed the Atlantic to follow her minister. Three years after s
 
 She was born in 1591 in Alford, England. In the fall of 1634 she sailed on the *Griffin* with her husband, William, and their children. About 200 passengers were on board. The Hutchinsons were following their minister, John Cotton, to Boston.
 
-In November 1637 she was tried in Massachusetts and banished. The sources used here do not name her judges. In 1638 she moved to Portsmouth, Rhode Island. Later she moved again, into territory the Dutch claimed. In 1643 fighters of the Siwanoy, a Native nation, attacked there and killed her and several of her children. The sources used here do not give the reason for the attack.
+In November 1637 she was tried in Massachusetts and banished. Her judges are not named in the sources. In 1638 she moved to Portsmouth, Rhode Island. Later she moved again, into territory the Dutch claimed. In 1643 fighters of the Siwanoy, a Native nation, attacked there and killed her and several of her children. The sources give no reason for the attack.
 <!-- hb-story:end slug="anne-hutchinson-immigration" -->
 
 <!-- hb-zoom level="span" label="The Dutch and the Swedes" -->
@@ -125,9 +125,9 @@ In 1685 King Louis XIV of France revoked the Edict of Nantes, the law that had l
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-After 1700, large numbers of newcomers who were not English came to the colonies. Germans and Scots-Irish came by the thousands, and small Jewish communities grew in port towns. Many other arrivals came bound to work. They included indentured servants, British convicts sold as laborers, and enslaved Africans brought against their will.
+In the first half of the 1700s the colonists still lived in a thin strip along the Atlantic coast. The land farther inland was still Native land.
 
-The colonists still lived in a thin strip along the Atlantic coast. The land farther inland was still Native land.
+Large numbers of newcomers who were not English came in these years. About 200,000 Scots-Irish came between 1710 and 1775, along with thousands of Germans, and small Jewish communities grew in port towns. Many other arrivals came bound to work. They included indentured servants, British convicts sold as laborers, and enslaved Africans brought against their will.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Germans and Scots-Irish" -->
@@ -162,7 +162,7 @@ Convicts made up roughly a quarter of the people who emigrated from Britain in t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Forced arrival through Charleston" -->
-The number of enslaved Africans brought to the mainland colonies rose sharply in these years. Rice planters in the South Carolina Lowcountry, the low coastal land, bought large numbers of West and Central Africans. Some planters chose Africans who already knew how to grow rice. Charleston, South Carolina, was the main mainland port where enslaved Africans arrived. Arriving Africans were held first at a quarantine station on Sullivan's Island, at the mouth of Charleston's harbor. Quarantine means keeping new arrivals apart so that any disease they carry does not spread. The sources used here do not name the people who held them there.
+The number of enslaved Africans brought to the mainland colonies rose sharply in these years. Rice planters in the South Carolina Lowcountry, the low coastal land, bought large numbers of West and Central Africans. Some planters chose Africans who already knew how to grow rice. Charleston, South Carolina, was the main mainland port where enslaved Africans arrived. They were held first at a quarantine station on Sullivan's Island, at the mouth of Charleston's harbor. Quarantine means keeping new arrivals apart so that any disease they carry does not spread. Who held them there is not recorded in the sources.
 
 Across the whole slave trade, slave traders put about 12.5 million Africans on ships, and about 10.7 million lived through the crossing. Fewer than 4 percent of them were brought to mainland North America. About 305,000 came straight from Africa, and close to 388,000 came in all, counting those brought by way of the Caribbean.
 <!-- /hb-zoom -->
@@ -192,7 +192,7 @@ He sailed in late 1772 or early 1773. Accounts differ on the date. He studied at
 <!-- hb-story:end slug="alexander-hamilton-immigration" -->
 
 <!-- hb-zoom level="span" label="The Revolution and the Loyalists" -->
-Fewer people crossed the Atlantic to settle while the Revolutionary War went on, from 1775 to 1783. The shipping of British convicts to the colonies ended in 1775. During and after the war, tens of thousands of Loyalists left the country, many of them for Canada. Loyalists were colonists who sided with the British king against the Revolution.
+The Revolutionary War lasted from 1775 to 1783. During those years fewer immigrants crossed the Atlantic. The shipping of British convicts to the colonies ended in 1775. During and after the war, tens of thousands of Loyalists left the country, many of them for Canada. Loyalists were colonists who sided with the British king against the Revolution.
 
 After the peace of 1783, the western border of the United States reached the Mississippi River. The Spanish and French governments claimed the land beyond the river. Most of the land away from the Atlantic coast was still Native land.
 <!-- /hb-zoom -->
@@ -215,7 +215,7 @@ Pierre Toussaint did not choose to come to New York. He was born enslaved in abo
 
 In New York he trained under a hairdresser and became one of the city's leading hairdressers. Marie Elisabeth Bérard, of the family that enslaved him, lost her husband, and Toussaint supported her. He was still enslaved at the time.
 
-He was freed on July 2, 1807. By the birth year of about 1766 he was about 41, but one account gives his age as 45. He took the surname Toussaint. He paid to care for orphans, to nurse the sick during outbreaks of plague, and to start early Catholic charities in New York. In 1811 he married Juliette Noel.
+He was freed on July 2, 1807. By the birth year of about 1766 he was about 41, but one account gives his age as 45. He took the surname Toussaint. He used his money to care for orphans, to pay for nursing the sick during outbreaks of plague, and to fund early Catholic charities in New York. In 1811 he married Juliette Noel.
 
 Toussaint died on June 30, 1853. In 1990 his remains were moved to the crypt of St. Patrick's Cathedral in New York, a burial room beneath the church. In 1996 Pope John Paul II declared him Venerable, a title the Catholic Church gives to a person it is studying as a possible saint.
 <!-- hb-story:end slug="pierre-toussaint" -->
