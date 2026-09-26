@@ -2449,3 +2449,14 @@ RESULT: Director error: T-243e had done nothing, so there was nothing to finish,
 
 ### 2026-09-26 | [CLOUD] CLEAN STOP (Jon: funding)
 Nothing in flight. Next task when work resumes: T-243e (economy's 19 blocking gaps, not started).
+
+### 2026-09-26 | [CLOUD] Open questions settled (Jon: "use the recommendation") | director edit
+Applied by the director directly (small exact edits, no sub-agent, to save Jon's funding).
+DECISIONS #15: the Tung Trinh / Bolinao 52 story is added to immigration part 3 (1950-2000), from
+  the bank only. The cannibalism is stated once, in plain words, and defined. The bank does not
+  give Tung Trinh's gender, so no pronoun is used (the director caught and removed one "She").
+DECISIONS #16: jewish-refugees-1654 was converted from an hb-story to an hb-zoom span in part 1,
+  with its text unchanged apart from the story-card records.
+MEASURED: PASS immigration / prose, 20 stories verified, 16,174w, emdash=0 semicolon=0,
+  validator 0 errors on both edited parts. Slug tung-trinh is unique.
+STOPPED again after this, per Jon.

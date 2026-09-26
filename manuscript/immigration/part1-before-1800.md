@@ -103,16 +103,11 @@ Dutch colonists settled New Netherland in the 1620s. Its capital was New Amsterd
 In 1664 four English warships arrived at New Amsterdam. The Dutch governor, Peter Stuyvesant, surrendered without a fight, and the papers of surrender were signed in late August 1664. The English renamed the colony New York, after the Duke of York.
 <!-- /hb-zoom -->
 
-<!-- hb-story:start slug="jewish-refugees-1654" name="The first Jewish refugees (1654)" movie="" kind="ordinary" status="verified" -->
-### The first Jewish refugees (1654)
-
-> **Who:** 23 Jewish refugees from Recife, Brazil, the first Jewish group to arrive at New Amsterdam, and Jacob Barsimson, who arrived earlier the same year.
-> **When and where:** New Amsterdam, 1654.
-
+<!-- hb-zoom level="span" label="The first Jewish refugees, 1654" -->
 In 1654, 23 Jewish refugees landed at New Amsterdam on a ship called the *Ste. Catherine*. A refugee is a person who flees home to escape danger. They came from Recife, in Brazil. The Dutch had held that part of Brazil, and the refugees left after Portuguese forces took it back. Another Jewish man, Jacob Barsimson, had arrived earlier that year.
 
 Governor Peter Stuyvesant tried to expel the refugees, which means to force them out of the colony. Officials of the Dutch West India Company, who had power over the governor, overruled him.
-<!-- hb-story:end slug="jewish-refugees-1654" -->
+<!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Catholics, Quakers and Huguenots" -->
 Other groups also crossed the ocean for their religion. Catholics settled in Maryland from 1634. Quakers, members of a Protestant group also called the Society of Friends, settled in Pennsylvania under William Penn from 1681.

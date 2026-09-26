@@ -26,6 +26,8 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | — | Documentary vs dramatization | Proposed rule stands: a documentary may be named freely; a dramatization only when the text says so in words, and never as evidence for a fact |
 | 13 | (2026-09-26) Where do writers take facts from? | **The research bank only.** Every fact in the prose must be in `research/research-<slug>.md`. If the outline states something the bank does not, the writer does not write it and lists it in the report. Ruled after the city-building v2 revision found about 78 prose claims its bank lacked |
 | 14 | (2026-09-26) The Pueblos' account of the assault on an Acoma woman, 1598 | **It goes in.** It is stated as the All Pueblo Council of Governors' account, attributed to them, in `native-nations` part 1 |
+| 15 | (2026-09-26) The Bolinao 52 (Tung Trinh): state the cannibalism during the drift? | **Yes, as recommended.** One plain sourced sentence, defined, stated once, no detail beyond the bank. The old "keep it out" note predated the no-softening ruling and is overruled. Done in `immigration` part 3 |
+| 16 | (2026-09-26) Group story `jewish-refugees-1654` (only Jacob Barsimson named) | **As recommended: it becomes era prose,** not an hb-story. Story cards stay for named people. Done in `immigration` part 1 (span "The first Jewish refugees, 1654") |
 
 ## Consequences already applied
 

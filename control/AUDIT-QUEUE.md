@@ -218,4 +218,9 @@ will be worded differently, which is exactly why a search will not find it.
   knowledge, not the bank (Newton's first name, "Swedish botanist" and similar), which are small
   breaches of DECISIONS #13. About 59 outline claims were left out across the three parts
   (listed in the checkpoint).
+- **Rulings 15 and 16 applied (2026-09-26).** Two source files are now out of date and should be
+  corrected in the audit phase. `outlines/immigration.md` still says the Tung Trinh cannibalism
+  is "kept out of the prose", and `research/research-immigration.md` (about line 484) says
+  "deliberately omitted". Both are overruled by DECISIONS #15. The outline still lists
+  `jewish-refugees-1654` as an hb-story, but the prose now tells it as a span (DECISIONS #16).
 

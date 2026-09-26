@@ -25,12 +25,10 @@ then research for the remaining chapters (ROADMAP Phase 1).
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
-**Question for Jon (holds one story):** should the Bolinao 52 / Tung Trinh story state the
-cannibalism during the drift? The old outline note says to omit it. That note predates the
-no-softening ruling. Recommendation: yes, one plain sourced sentence.
-
-**Question for Jon (not blocking):** does the group story `jewish-refugees-1654` (only Jacob
-Barsimson named) stand under the named-people rule? (AUDIT-QUEUE)
+**Jon ruled 2026-09-26 (end of session): open questions settled by the recommendations.**
+DECISIONS #15: the Bolinao 52 cannibalism is stated, and the Tung Trinh story is written.
+DECISIONS #16: jewish-refugees-1654 is now era prose. Both are applied in immigration, which
+still PASSES. No questions are open for Jon.
 
 **Jon ruled 2026-09-26:** (1) writers take facts only from the research bank (DECISIONS #13,
 now in the writing brief). (2) The Acoma assault account goes into native-nations part 1

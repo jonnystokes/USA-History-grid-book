@@ -212,6 +212,22 @@ In June 1982 officials of the UN refugee agency and of the Thai government start
 From 1975 to 1997, US officials accepted 402,382 Vietnamese refugees from camps in Southeast Asia and Hong Kong, more than any other country. Nearly 281,000 of them came from 1981 to 1990. About 500,000 more Vietnamese came to the United States by 1994 through the Orderly Departure Program, a legal way to leave Vietnam without the boat trip.
 <!-- /hb-zoom -->
 
+<!-- hb-story:start slug="tung-trinh" name="Tung Trinh" movie="Bolinao 52 (2008)" kind="ordinary" status="verified" -->
+### Tung Trinh
+
+> **Who:** One of 52 survivors of a refugee boat from Vietnam that drifted at sea for 37 days in 1988.
+> **When and where:** Left Vietnam by boat in 1988. Brought ashore at Bolinao, in the Philippines. Later settled in Orange County, California.
+> **Movie:** *Bolinao 52* (2008), a documentary directed by Duc Nguyen. It won two regional Emmy awards in 2009.
+
+In 1988 Tung Trinh was one of 110 people on a small boat that left Vietnam. The boat's engine stopped working, and the boat drifted at sea for 37 days.
+
+More than 20 ships passed the boat during those days without helping. One of them was the USS Dubuque, a ship of the United States Navy.
+
+Of the 110 people on board, 58 died. During the drift, some of the people on the boat ate human flesh. Eating human flesh is called cannibalism. The sources do not say more about it.
+
+Filipino fishermen found the boat and brought the 52 survivors to Bolinao, in the Philippines. Tung Trinh later came to the United States and settled in Orange County, California.
+<!-- hb-story:end slug="tung-trinh" -->
+
 <!-- hb-story:start slug="sergey-brin" name="Sergey Brin" movie="" kind="famous" status="verified" -->
 ### Sergey Brin
 
