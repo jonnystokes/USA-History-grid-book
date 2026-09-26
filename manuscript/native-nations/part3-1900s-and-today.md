@@ -117,107 +117,113 @@ He wrote about what happened to him in *Code Talker*, a memoir published in 2011
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-In 1953 the federal government set out to end its recognition of Native nations altogether. Twenty-two years later it was signing laws that handed those same nations control of their own schools, clinics, and police.
+Members of Congress declared in 1953 that the United States should end its recognition of Native nations. Twenty-two years later, in 1975, President Ford signed a law under which those same nations could take control of their own schools, clinics and police.
 
-Nothing about that turn happened on its own. It was forced, case by case, by Native people: a terminated nation that organized until Congress restored it, fishermen who kept fishing until a court had to read their treaties, students who took an island and held it for nineteen months, and nations that carried hundred-year-old treaties into federal court and won.
+Native people pushed that change through, one case at a time. The Menominee, whose nation members of Congress had terminated, organized until members of Congress restored it. Fishermen in the Northwest kept fishing until a federal judge ruled on their 1850s treaties. A group called Indians of All Tribes took Alcatraz Island and held it for nineteen months. The Lakota carried their 1868 treaty into federal court, and in 1980 the Supreme Court's justices ruled that the taking of the Black Hills had broken it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Termination and relocation" -->
-On August 1, 1953, Congress passed House Concurrent Resolution 108. It declared that the United States should end its recognition of Native nations and the services that came with it. The policy was called termination: the government ending its recognition of a nation, and with it the nation's standing to deal with the United States as a nation.
+On August 1, 1953, members of Congress passed House Concurrent Resolution 108. A resolution is a formal statement of policy that members of Congress vote on. In this one they declared that the United States should end its recognition of Native nations, along with the federal services that came with it. The policy's name was termination. Termination means the government ending its recognition of a nation. With recognition, the nation also lost its standing to deal with the United States as a nation.
 
-Between 1953 and 1970 Congress ran about sixty termination proceedings affecting more than a hundred tribes and bands, and more than 3 million acres of land left trust protection.
+Between 1953 and 1970, members of Congress ran about sixty termination proceedings, the formal legal steps that ended a nation's recognition. Those proceedings affected more than a hundred tribes and bands. More than 3 million acres of land stopped being held in trust, which meant the United States no longer held that land on the nations' behalf.
 
-The Menominee of Wisconsin ran a profitable timber business. Congress passed their termination act in 1954 and it took effect in 1961, and the nation was pushed into poverty. Menominee people organized a movement called DRUMS, with Ada Deer among its leaders, and pushed until Congress reversed itself. The Menominee Restoration Act was signed on December 22, 1973.
+The Menominee of Wisconsin ran a profitable timber business. Members of Congress passed the Menominee termination act in 1954. When it took effect in 1961, the Menominee Nation fell into poverty. Menominee people organized a movement called DRUMS, with Ada Deer among its leaders. They kept pushing until members of Congress reversed the termination. The Menominee Restoration Act became law on December 22, 1973.
 
-At the same time the Bureau of Indian Affairs was moving Native people off reservations and into cities. The program began around 1948 to 1952 and was backed by the Indian Relocation Act of 1956. It offered a one-way ticket, help finding a room and a job, and a short period of support. About 30,000 people went in the 1950s, and more than 100,000 by the time the program ended in the 1970s. Poverty followed many of them. So did something the program did not intend: permanent Native communities in Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, and Denver — the cities where the next movement started.
+In the same years, officials of the Bureau of Indian Affairs moved Native people off reservations and into cities. The Bureau of Indian Affairs is the federal agency in charge of Indian affairs. Its officials began this relocation program between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act of 1956. People who signed up got a one-way ticket, help finding a room and a job, and a short period of support. About 30,000 people moved in the 1950s, and more than 100,000 had moved by the time the program ended in the 1970s.
+
+Many of them lived in poverty in the cities. They also built permanent Native communities in Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, and Denver. The officials who ran relocation had not planned for those communities. The next Native movement started in those cities.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Red Power" -->
-In July 1968, in Minneapolis, George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement. It began as patrols watching the police in the city that relocation had filled with Native people.
+In July 1968, in Minneapolis, George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement, known as AIM. Its members began with street patrols against police abuse, in a city where relocation had brought many Native people.
 
-On November 20, 1969, a group calling itself Indians of All Tribes landed on Alcatraz Island in San Francisco Bay and occupied the closed federal prison there. Richard Oakes, Mohawk, was among the leaders. Their proclamation offered to buy the island for "$24 in glass beads and red cloth." They held it for nineteen months, until June 11, 1971.
+On November 20, 1969, a group calling itself Indians of All Tribes landed on Alcatraz Island in San Francisco Bay. They occupied the closed federal prison there, which means they moved in and held it. Richard Oakes, who was Mohawk, was among the leaders. In their proclamation, a public statement, they offered to buy the island for "$24 in glass beads and red cloth." They held it for nineteen months, until June 11, 1971.
 
-Federal policy moved while they held it. President Nixon ended termination as policy. On December 15, 1970, he signed the law returning Blue Lake and its 48,000 sacred acres to Taos Pueblo. On December 18, 1971, the Alaska Native Claims Settlement Act settled Alaska Native land claims with 44 million acres and $962.5 million — paid not to nations but to twelve regional corporations, later thirteen, and more than 200 village corporations, with Alaska Natives as the shareholders.
+While they held the island, President Nixon ended termination as federal policy. On December 15, 1970, he signed the law that returned Blue Lake and 48,000 acres of sacred land to Taos Pueblo.
 
-In 1973 the movement went to Wounded Knee. From February 27 to May 8 — seventy-one days — about 200 Oglala Lakota and AIM members held the village against federal marshals and the FBI, protesting the tribal chairman at Pine Ridge and the treaties the United States had broken. Two of the occupiers were killed. They had chosen that village because of what was done there in 1890.
+On December 18, 1971, the Alaska Native Claims Settlement Act became law. Under it, Alaska Native land claims were settled for 44 million acres and $962.5 million. To settle a claim is to end it by agreement. The land and money went to twelve regional corporations, later thirteen, and to more than 200 village corporations, instead of to Alaska Native nations. A corporation is a business owned by shareholders, and Alaska Natives became the shareholders.
+
+In 1973 about 200 Oglala Lakota and AIM members occupied the village of Wounded Knee. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals and FBI agents. Federal marshals are officers who carry out the orders of the national courts. The occupiers were protesting against the tribal chairman at Pine Ridge and against the treaties that United States officials had broken. Two of the occupiers were killed. The sources used for this chapter do not say who killed them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The fish-ins and the Boldt decision" -->
-When the Northwest nations signed treaties in the 1850s they gave up land and kept the right to fish. A century later Washington State was arresting them for fishing.
+In the 1850s the Northwest nations signed treaties with the United States. In them the nations gave up land and kept the right to fish. A century later, Washington State officers were arresting them for fishing.
 
-Through the 1960s and into the 1970s the Nisqually, the Puyallup, and other nations held fish-ins. They fished in the open, in front of the state's officers, and let themselves be arrested, to force the treaties into a courtroom. Frank's Landing on the Nisqually River was the center of it.
+Through the 1960s and into the 1970s, the Nisqually, the Puyallup and other nations held fish-ins. At a fish-in, people fished in the open, in front of the state's officers, and let themselves be arrested. They did it to force the treaties into a courtroom. Frank's Landing on the Nisqually River was the center of the fish-ins.
 
-It worked. On February 12, 1974, in *United States v. Washington*, Judge George Boldt ruled that the treaties meant what they said. The tribes were entitled to half the harvestable salmon, and they were co-managers of the fishery — governments running it alongside the state rather than people asking the state for permission. The Supreme Court affirmed the ruling in 1979.
+The treaties reached federal court in *United States v. Washington*. On February 12, 1974, Judge George Boldt ruled that the treaty rights still stood. Under them, the tribes had a right to half the harvestable salmon, the salmon that could be caught each year. He also ruled that the tribes were co-managers of the fishery. That means tribal governments run the fishery together with the state, instead of asking the state for permission to fish. The justices of the Supreme Court upheld the ruling in 1979, which means they let it stand.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Black Hills" -->
-The mountain in South Dakota that Americans call Mount Rushmore is Tunkasila Sakpe, the Six Grandfathers, to the Lakota. The Fort Laramie treaty of 1868 guaranteed the Black Hills to the Lakota. Gold was found there in 1874, and the United States took the hills anyway.
+In the Fort Laramie treaty of 1868, United States officials guaranteed the Black Hills of South Dakota to the Lakota. In 1874 an Army expedition led by George Custer announced that it had found gold there. United States officials ignored the treaty and took the hills.
 
-In 1980, in *United States v. Sioux Nation*, the Supreme Court held that the taking had violated the treaty and awarded compensation.
+One mountain in the Black Hills is Tunkasila Sakpe, the Six Grandfathers, to the Lakota. Americans call it Mount Rushmore.
 
-The Lakota have not taken the money. It sits in a federal account, now more than a billion dollars with the interest. Their position is that the Black Hills were never for sale.
+In 1980, in *United States v. Sioux Nation*, the justices of the Supreme Court held that the taking had broken the treaty. They awarded the Lakota compensation, which is money paid to make up for a loss.
+
+The Lakota have refused the money. It is held in a federal account, and with the interest it has earned it is now more than a billion dollars. The Lakota position is that the Black Hills were never for sale.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Self-determination in statute" -->
-In January 1975 President Ford signed the Indian Self-Determination and Education Assistance Act. It let a nation contract with the federal government to run federal programs itself: its own schools, its own clinics, its own police. Education is in the title because the schools were the heart of the argument.
+In January 1975 President Ford signed the Indian Self-Determination and Education Assistance Act. Self-determination means a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because the schools were the main issue in the argument.
 
-The Indian Child Welfare Act followed in 1978. For decades, state agencies and adoption workers had been taking Native children from their families and placing them in non-Native homes. In it Congress set federal standards for those cases and gave tribal courts authority over them.
+Members of Congress passed the Indian Child Welfare Act in 1978. For decades before it, workers at state agencies and adoption agencies had been taking a large share of Native children from their families and placing them in non-Native homes. In the act, members of Congress set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts authority over the cases.
 
-The Indian Gaming Regulatory Act, passed October 17, 1988, set the legal frame for tribal gaming: three classes of games, compacts negotiated between a nation and a state, and a National Indian Gaming Commission to oversee it. For some nations gaming became a large source of income. For many others it is small, or nothing at all, and the difference between nations is enormous.
+The Indian Gaming Regulatory Act became law on October 17, 1988. Gaming means gambling businesses, such as casinos. The act states the legal rules for gaming run by tribes. It lists three classes of games. It requires compacts, which are formal agreements that a nation and a state negotiate. It provides for a National Indian Gaming Commission to oversee tribal gaming. Gaming income varies enormously from nation to nation. For some nations gaming became a large source of income, and for many others it brings in little or nothing.
 
-On November 16, 1990, Congress passed NAGPRA, the Native American Graves Protection and Repatriation Act. Native human remains and sacred objects held in museums and federal collections belong to the nations and families they came from, and must be returned. Repatriation means sending them home.
+On November 16, 1990, members of Congress passed the Native American Graves Protection and Repatriation Act, known as NAGPRA. Under it, Native human remains and sacred objects held in museums and federal collections belong to the nations and families they came from. The act requires the people holding them to send them back. Repatriation means sending them home.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Nations take the schools back" -->
-In 1968 the Navajo Nation founded a college of its own at Tsaile, Arizona: Navajo Community College, today Diné College. It was the first college in the country controlled by a Native nation, and dozens of tribal colleges have been founded since.
+In 1968 the Navajo Nation founded a college of its own at Tsaile, Arizona. It was called Navajo Community College, and today it is Diné College. It was the first college in the country controlled by a Native nation. Native nations have founded dozens of tribal colleges since.
 
-In November 1969 a Senate subcommittee published its report on Indian education under the title *Indian Education: A National Tragedy — A National Challenge*. It found that federal policy had been "coercive assimilation" with "disastrous effects," and it recommended that Native people run Native schools.
+In November 1969 the senators on a Senate subcommittee on Indian education published their report. A subcommittee is a small group of senators assigned to one subject. The report's title is *Indian Education: A National Tragedy, A National Challenge*. It is known as the Kennedy Report, because Senator Robert F. Kennedy led the work at first and Senator Edward Kennedy finished it.
 
-Boarding-school enrollment peaked at about 60,000 children in 1973. Then it fell, as nations took the schools over under the 1975 law or closed them. A few boarding schools still operate, run by tribes or by the Bureau of Indian Education.
+The report states that federal policy had been "coercive assimilation" with "disastrous effects." Coercive assimilation means forcing a group of people to give up their own language and ways of life. The report recommends that Native people run Native schools.
 
-Survivors began publishing what had happened to them.
+Boarding-school enrollment peaked at about 60,000 children in 1973. After that it fell, as nations took the schools over under the 1975 law or closed them. A few boarding schools are still open. Tribes or the federal Bureau of Indian Education run them. People who had been children at the schools began publishing accounts of what had happened to them there.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="wilma-mankiller" name="Wilma Mankiller" movie="Mankiller (2017)" kind="famous" status="verified" -->
 ### Wilma Mankiller
 
 > **Who:** the first woman elected Principal Chief of the Cherokee Nation.
-> **When and where:** Cherokee Nation, Oklahoma; chief from December 14, 1985 to August 14, 1995.
+> **When and where:** Cherokee Nation, Oklahoma. She was chief from December 14, 1985 to August 14, 1995.
 > **Movie:** *Mankiller* (2017)
 
-Wilma Mankiller was a child when her family was moved from Oklahoma to San Francisco under the relocation program. She was in the Bay Area in 1969 when Indians of All Tribes took Alcatraz, and the occupation drew her into the movement.
+Wilma Mankiller was a child when her family moved from Oklahoma to San Francisco under the relocation program. In 1969 she was living in the Bay Area when Indians of All Tribes took Alcatraz. She joined the movement during the occupation.
 
-She went home to Oklahoma and worked on community projects, running water lines into communities that had none and building health clinics, with the people who lived there doing the work.
+She went home to Oklahoma and worked on community projects. The projects ran water lines into communities that had none and built health clinics, and the people who lived there did the work.
 
-She became Principal Chief of the Cherokee Nation on December 14, 1985, when Ross Swimmer left the office. She was elected in her own right in 1987 and re-elected in 1991 with 83 percent of the vote. She led a nation of about 140,000 citizens until August 14, 1995. She received the Presidential Medal of Freedom in 1998 and died on April 6, 2010.
+On December 14, 1985, when Ross Swimmer left the office, she became Principal Chief of the Cherokee Nation. The principal chief is the head of the Cherokee Nation's government. Cherokee voters elected her in her own right in 1987 and re-elected her in 1991 with 83 percent of the vote. Until August 14, 1995, she led a nation of about 140,000 citizens. In 1998 she received the Presidential Medal of Freedom. Mankiller died on April 6, 2010.
 <!-- hb-story:end slug="wilma-mankiller" -->
 
 <!-- hb-story:start slug="billy-frank-jr-native-nations" name="Billy Frank Jr." movie="" kind="ordinary" status="verified" -->
 ### Billy Frank Jr.
 
-> **Who:** Nisqually fisherman, arrested more than fifty times for fishing under his nation's treaty.
-> **When and where:** Frank's Landing on the Nisqually River, Washington; first arrested at fourteen.
+> **Who:** Nisqually fisherman. Washington State officers arrested him more than fifty times for fishing under his nation's treaty.
+> **When and where:** Frank's Landing on the Nisqually River, Washington. He was first arrested at fourteen.
 
-Billy Frank Jr. was arrested for the first time at fourteen, for fishing the Nisqually River. He was arrested more than fifty times in all.
+Billy Frank Jr. was fourteen the first time officers arrested him for fishing the Nisqually River. In all, he was arrested more than fifty times.
 
-His nation's treaty said the Nisqually kept the right to fish. Washington State said its own fishing laws applied to him anyway. He kept fishing, and he brought other people to Frank's Landing to fish with him.
+His nation's treaty states that the Nisqually kept the right to fish. Washington State officials held that the state's fishing laws applied to him anyway. He kept fishing, and he brought other people to Frank's Landing to fish with him.
 
-The fish-ins ended in the Boldt decision of 1974. Frank spent the decades after it chairing the Northwest Indian Fisheries Commission, the body through which the treaty tribes co-manage the salmon.
+The fish-ins ended in the Boldt decision of 1974. For decades after it, Frank chaired the Northwest Indian Fisheries Commission, the group through which the treaty tribes co-manage the salmon.
 
-He died in May 2014 and received the Presidential Medal of Freedom in 2015. Washington State is placing his statue in the United States Capitol; the installation is scheduled for 2026.
+He died in May 2014, and in 2015 he received the Presidential Medal of Freedom after his death. Washington State officials are placing his statue in the United States Capitol. The installation is scheduled for 2026.
 <!-- hb-story:end slug="billy-frank-jr-native-nations" -->
 
 <!-- hb-story:start slug="adam-fortunate-eagle" name="Adam Fortunate Eagle" movie="" kind="ordinary" status="verified" -->
 ### Adam Fortunate Eagle
 
-> **Who:** Ojibwe artist and writer; a Pipestone boarding-school student who became a lead organizer of the Alcatraz occupation.
-> **When and where:** Pipestone Indian Boarding School, Minnesota, 1935 to 1945; San Francisco Bay, 1969 to 1971.
+> **Who:** Ojibwe artist and writer. He was a Pipestone boarding-school student who became a lead organizer of the Alcatraz occupation.
+> **When and where:** Pipestone Indian Boarding School, Minnesota, 1935 to 1945. San Francisco Bay, 1969 to 1971.
 
-Adam Fortunate Eagle spent ten years at the Pipestone Indian Boarding School in Minnesota, from 1935 to 1945. Those were the Collier years, when some schools were changing. Three decades later he was one of the lead organizers of the occupation of Alcatraz.
+Adam Fortunate Eagle spent ten years at the Pipestone Indian Boarding School in Minnesota, from 1935 to 1945. In those years John Collier was Commissioner of Indian Affairs, and federal officials were changing some of the schools. Three decades later, Fortunate Eagle was one of the lead organizers of the occupation of Alcatraz.
 
-In 2010 he published his account of the school, *Pipestone: My Life in an Indian Boarding School*. He calls his school days there "a little bit of heaven." In the same book he sets out what the system was built to do to Native children.
+In 2010 he published his account of the school, *Pipestone: My Life in an Indian Boarding School*. In it he calls his school days there "a little bit of heaven." In the same book he describes what federal officials built the boarding-school system to do to Native children.
 
-Chester Nez had his mouth washed with soap at Fort Defiance. Zitkala-Ša published what her school did to her in 1900. Fortunate Eagle wrote his book in 2010. All three accounts are first-hand, and they do not agree with one another.
+Two other first-hand accounts in this chapter differ from his. Staff at the Fort Defiance school washed Chester Nez's mouth out with soap for speaking Navajo. In 1900 Zitkala-Ša published essays about her own school that sharply criticized it.
 <!-- hb-story:end slug="adam-fortunate-eagle" -->
 <!-- hb-time:end id="1950-2000" -->
 

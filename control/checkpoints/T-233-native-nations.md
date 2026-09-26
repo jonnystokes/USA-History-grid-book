@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233c: unit 8 (era 1900-1950) landed. Working on unit 9 (era 1950-2000).
-NEXT:   part 3, era 1950-2000, then 2000-today, then part 3 self-review.
+NOW:    T-233c: units 8-9 landed. Working on unit 10 (era 2000-today).
+NEXT:   part 3, era 2000-today, then part 3 self-review.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -37,8 +37,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 6 | part2 era 1800-1850 | landed | commit T-233b 1800-1850 |
 | 7 | part2 era 1850-1900 | landed | commit T-233b 1850-1900 |
 | 8 | part3 era 1900-1950 | landed | commit T-233c 1900-1950 |
-| 9 | part3 era 1950-2000 | working | |
-| 10 | part3 era 2000-today | todo | |
+| 9 | part3 era 1950-2000 | landed | commit T-233c 1950-2000 |
+| 10 | part3 era 2000-today | working | |
 
 <!-- state: todo | working | landed | skipped (say why) -->
 
@@ -56,6 +56,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1800-1850 (T-233b): Tenskwatawa was known as "the Prophet", hence Prophetstown (bank §6 Tecumseh); the 1811 fight named as the Battle of Tippecanoe and the burning dated November 8 (bank §6); Library of Congress lists Sequoyah's birth as 1770 with a question mark (bank §6 Cherokee renaissance); the Seminole war named as the Second Seminole War (bank §6 Seminole).
 - 1850-1900 (T-233b): the Long Walk named (bank §7 wars); Sand Creek Massacre National Historic Site (bank §7, NPS source); Britannica entry titled "Wounded Knee Massacre" (bank §7); soldier crossfire attributed to Britannica and History.com (bank §7); Nez Perce distance "up to about 1,700 miles" in some accounts (bank §7 After and Disputes 5); Pratt's line misquoted as "kill the Indian, save the man", recorded words printed in the conference's official report (bank §7 schools); punishments tied to speaking one's language, and survivor accounts as a second source (bank §7 On arrival); outing system in summers and school terms (bank §7); burial sites "marked and unmarked" (bank §7 Scale); Meriam Report dated 1928 (bank §7 Half-day labor); Zitkala-Sa named as a student who turned the schooling against the policy (bank §7 other half); Wovoka from the Walker Lake country of Nevada (bank §7 Wounded Knee).
 - 1900-1950 (T-233c): Osage Allotment Act named for "a law of 1906" (bank §8 Osage); Collier's term 1933-1945 (bank §8 Citizenship); Meriam Report full title *The Problem of Indian Administration* (bank §8); *High Steel* directed by Don Owen, used to repair "the Film Board made" (bank Parked, Kahnawake line); half-day labor tied to school staff, and Nez's punishment tied to Fort Defiance staff (bank §7 On arrival / §8, policy §6b usage).
+- 1950-2000 (T-233c): Custer's 1874 expedition announced gold, and officials ignored the 1868 treaty (bank §7 wars, line "1874") -> Black Hills span; Lakota "refused" the money (bank Parked, Mount Rushmore line); Wounded Knee 1890 toll, between 250 and 300 Lakota killed by the 7th Cavalry (bank §7, already in part 2) -> 1973 occupation now says why the village was chosen; AIM patrols were "against police abuse" (bank §9); ICWA standards meant to keep Native children with Native families, and "a large share" of children removed (bank §9); Kennedy Report named, begun under Robert F. Kennedy and finished under Edward Kennedy (bank §9).
 
 ## Decisions and known gaps
 
@@ -83,6 +84,11 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - T-233c DEFECT FIXED (false statement): era 1900-1950 zoom said "in both [wars] the United States sent orders in Native languages". Per the file's own span, Choctaw soldiers began it in 1918 and Marine officers recruited Navajo in 1942. Zoom now names both.
 - T-233c DEFECT FIXED (agentless harm): Osage killers now stated as unnamed by the sources (bank names none). The 1930s taking of children now states the sources do not say who took them. Chester Nez punished by Fort Defiance staff (policy §6b wording).
 - T-233c DEFECT FIXED (suspense): Chester Nez span ended on "the Marine Corps came looking for him", a line built to land. Now states that recruiters signed him up to build a code out of Navajo.
+- T-233c DEFECT FIXED (unsupported claim): era 1950-2000 zoom called the Alcatraz occupiers "students". The bank names only Indians of All Tribes. Now says so.
+- T-233c DEFECT FIXED (minimization): ICWA span dropped the bank's "a large share" of Native children removed, and the standards' purpose. Both restored. AIM patrols now say "against police abuse" (bank) instead of "watching the police".
+- T-233c DEFECT FIXED (overstated win): era zoom said nations "carried treaties into federal court and won" without saying what the Lakota won. Now says the justices ruled the taking broke the treaty (compensation, not land, in the span).
+- T-233c NOTE: Wounded Knee 1973: bank says two occupiers "died"; the file said "were killed". Kept "killed" (no fact removed) and added that the sources used do not say who killed them. Director may check.
+- T-233c RULE CONFLICT SETTLED: the Kennedy Report title contains an em dash (*Indian Education: A National Tragedy [dash] A National Challenge*). Zero em dashes vs exact title. Settled by keeping every word and replacing the dash with a comma, as T-233a did for the Seneca semicolon.
 
 ## Log
 
@@ -97,3 +103,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 7 1850-1900 (T-233b) | full v2 revision of both era zooms, 5 spans, Sitting Bull, Chief Joseph, Winnemucca, Zitkala-Sa stories | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | part 2 self-review (T-233b) | agent verbs, source verbs, definitions, sentence length, story first/last lines | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | unit 8 1900-1950 (T-233c) | full v2 revision of era zoom, 6 spans, Thorpe, Hayes, Nez stories | 0 errors | file emdash=16 semicolon=7 (era 1900-1950 has 0)
+- 2026-09-26 | unit 9 1950-2000 (T-233c) | full v2 revision of era zoom, 6 spans, Mankiller, Frank, Fortunate Eagle stories | 0 errors | file emdash=10 semicolon=2 (era 1950-2000 has 0)
