@@ -108,3 +108,25 @@ Historians accept what Miantonomi said as believable. The exact wording is Garde
 In 1643 Mohegan men captured Miantonomi and executed him, which means they put him to death. Leaders of the Connecticut colony approved his killing.
 <!-- hb-story:end slug="miantonomi" -->
 <!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="land-environment" label="1700 to 1750" state="thin" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+Tobacco planters in colonial Virginia wore out the soil of a field in three or four years. Then they cleared new ground farther up the rivers and moved on. In New England, the largest white pines belonged by law to the Royal Navy, which is Britain's navy, for the masts of its ships. By the middle of the 1700s, whalers from the island of Nantucket were sailing far out into the ocean to hunt sperm whales.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The king's pines" -->
+The tallest white pines in New England were the right size for the masts of warships. A mast is the tall pole that holds up a ship's sails. A charter is a written grant from the king that sets up a colony's government. Under the Massachusetts Bay charter of 1691, white pines 24 inches across or more were kept for the masts of the Royal Navy.
+
+Under the White Pine Act of 1722, cutting any white pine more than 12 inches across without a license was against the law in New Hampshire and nearby colonies. A license is written permission. The king's trees carried a mark called the Broad Arrow, which was three slashes cut with a hatchet. Royal officials enforced these laws loosely until the 1760s.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Worn-out tobacco fields" -->
+A tobacco field in colonial Virginia gave good crops for only three or four years. After that, planters cleared new ground and let the old field grow over with scrub, which is brush and small trees. The land around Jamestown wore out early. Planters moved up the rivers and reached the Rappahannock and the Potomac by about 1650. They kept moving up the rivers all through the 1700s. Because new land was cheap, planters kept wearing out one field after another.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Whaling from Nantucket" -->
+New Englanders first hunted right whales, a kind of whale, from the beaches. On Nantucket, an island off Massachusetts, people tell a story that deep-sea whaling began there in 1712. In the story, wind blew Christopher Hussey's boat out to sea, and the men aboard killed a sperm whale. Obed Macy first wrote the story down in his history of Nantucket in 1835, more than 120 years later. It may be a legend. Historians at the Nantucket Historical Association call 1712 the traditional date. Whatever the first year was, by the middle of the 1700s Nantucket whalers were hunting sperm whales far out in the ocean.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1700-1750" -->

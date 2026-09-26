@@ -15,7 +15,7 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242b writing part 1, era 1700-1750.
+NOW:    T-242b writing part 1, era 1750-1800.
 NEXT:   T-242b: write part 1 (eras 1-5)
 
 ## Units
@@ -53,3 +53,4 @@ NEXT:   T-242b: write part 1 (eras 1-5)
 - 2026-09-26 T-242b part1 before-1500 written: ~700 words file total, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1500s written: file ~1,250 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1600s written (story miantonomi): file ~1,900 words, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-242b part1 1700-1750 written: file ~2,400 words, validator 0 errors, --punct emdash=0 semicolon=0.
