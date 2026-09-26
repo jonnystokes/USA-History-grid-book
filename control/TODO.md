@@ -11,12 +11,16 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-237b2 in flight:** revising immigration part 2 from the patched bank. T-238 (done) patched the bank with the hard subjects it lacked
+**T-237c in flight:** writing immigration part 3 (eras 8-10). Part 2 was revised from the patched bank (T-237b2 done). T-238 (done) patched the bank with the hard subjects it lacked
 (anti-Chinese massacres, nativist riots, the famine's causes, pogroms, and pre-checks for
 eras 8-10). Then T-237b2 revises part 2 and T-237c writes part 3. Parts 1 and 2 are written.
 T-236 is done (the Acoma account is in, and native-nations still PASSES). war PASSES research.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
+
+**Question for Jon (holds one story):** should the Bolinao 52 / Tung Trinh story state the
+cannibalism during the drift? The old outline note says to omit it. That note predates the
+no-softening ruling. Recommendation: yes, one plain sourced sentence.
 
 **Question for Jon (not blocking):** does the group story `jewish-refugees-1654` (only Jacob
 Barsimson named) stand under the named-people rule? (AUDIT-QUEUE)

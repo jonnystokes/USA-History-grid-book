@@ -2043,4 +2043,23 @@ CHECKPOINT: control/checkpoints/T-237-immigration.md (units 6-7, revision pass)
 VERIFY: part 2 validates, --punct 0/0, no "sources ... do not record" sentence left where the
         bank now has the fact. The famine, the riots, anti-Chinese violence, the railroad deaths
         and the pogroms are stated with named actors.
+RESULT: DONE. 171,337 tokens, 28 tool uses, 6.4 min. Two commits.
+        MEASURED: validator 0 errors · --punct 0/0 · era and story markers identical · 6 stories
+        verified · prose 2,808 -> 5,296 words (reported).
+        ADDED: a span on the 1834 and 1844 mobs (attackers, counts, acquittals and a pardon). The
+        famine span now covers exports, Russell, Trevelyan, the quarter-acre rule, evictions and
+        1-1.5 million dead. Bloody Monday. The railroad span covers pay, the 1867 strike, the
+        causes of death and the 50-1,200 range. A span on anti-Chinese attacks 1871-1887 with
+        each court outcome. The pogroms with attackers and counts. The May Laws are credited to
+        Ignatiev and Alexander III, which replaces the unsupported "Russian officials".
+        ONE "do not record" KEPT: the cause of the Berlin family's house fire (genuinely unknown,
+        minor). The other genuine unknowns are stated once each.
+
+### 2026-09-26 | [CLOUD] T-237c | Write immigration PART 3 (eras 8-10), the last part
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-237-immigration.md (units 8-10)
+VERIFY: python tools/project_state.py --check immigration --stage prose SHOULD PASS.
+HELD: the Tung Trinh / Bolinao 52 story is NOT written until Jon rules on the cannibalism
+      omission. The writer leaves it out and lists it under BLOCKING GAPS. A small follow-up adds
+      it after the ruling.
 RESULT:
