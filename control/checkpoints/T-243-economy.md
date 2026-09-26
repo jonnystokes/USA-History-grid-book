@@ -18,15 +18,15 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243b writing part 1 (manuscript/economy/part1-before-1800.md), era 1750-1800 (eras 1-4 landed).
-NEXT:   T-243b: write part 1 (eras 1-5)
+NOW:    T-243b landed 2026-09-26 (part1, eras 1-5, 3,414 prose words, validator clean, punct 0/0).
+NEXT:   T-243c: write part 2 (eras 6-7)
 
 ## Units
 
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | in-flight | |
+| 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
@@ -55,7 +55,17 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 1950-2000: Dickey's coalition "commissioned a study that said a modernized, worker-community-owned mill could run" (not in bank).
 - 2000-today: Neufeldt's "bakery over an hour away" (bank says three low-wage jobs only). Wealth figures now superseded by Q2 2026 (see era 10 patch).
 
+- (T-243b, part 1, also left out:) Before 1500: "hunting, fishing, and gathering" as livelihoods and "farming towns" in general (bank has Cahokia's corn only); specialists as "toolmakers, builders, traders". 1600s: Rolfe's seed "milder than the local plant"; "within a generation tobacco paid for the colony"; Virginia "nearly starved"; the Pocahontas marriage; New England "fish, timber, and ships" in the 1600s. 1700-1750: "Farming was most colonists' living"; Pinckney "near Charleston", "1739-1744", and "the profit went to planter families like hers". 1750-1800: Hamilton as "the first Secretary of the Treasury" and "New York and Philadelphia, 1789-1795"; "the argument ran through the next two centuries"; farmers "attacked tax collectors"; militia "marched west". First names Thomas Jefferson, James Madison and George Washington (bank gives surnames only; prose uses surnames).
+
 ## BLOCKING GAPS
+
+- (T-243b) 1500s, Verrazzano 1524 span: the bank says "European ships" had already taken Native people from the Maine coast to sell as slaves. It names no nation, captain, ship or date. Prose says "Crews of earlier European ships".
+- (T-243b) 1600s, headright span: the 50 acres per servant were Native land. The bank names no nation (Powhatan or other) and does not say how the land was taken. Land erasure risk.
+- (T-243b) 1600s, beaver skins span: the Schaghen letter's "purchase of Manhattan" is left out because the bank names no seller and no price. The Native trappers and nations who supplied the 7,246 skins are not named.
+- (T-243b) 1700-1750, rice span: enslaved children "died at especially high rates" has no number and no cause in the bank.
+- (T-243b) 1700-1750, convict span: no cause of the ship deaths (385 of 3,599) in the bank.
+- (T-243b) 1750-1800, Sally span: cause of the 109 deaths (apart from the 8 the crew shot) not in the bank.
+- (T-243b) 1750-1800, whiskey span: "about 150 arrests, 20 leaders taken" has no actor in the bank. Prose keeps the passive.
 
 ## Log
 - 2026-09-26 T-243a: bank check landed. 7 PATCH blocks (eras 2, 3, 4, 6, 7, 8, 10). `--check economy --stage research` PASS (bank 12,346 words).
@@ -63,3 +73,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243b: 1500s written (~330 prose words). validate --part 0 errors. --punct emdash=0 semicolon=0. Cartier 1534 written as 'one of the earliest recorded trades of furs', not a first.
 - 2026-09-26 T-243b: 1600s written (~1,250 prose words, story john-rolfe-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. Triangle-trade span moved to 1700-1750 per the bank's dating note (Rhode Island's voyages are 1700s). Manhattan purchase left out (bank names no seller).
 - 2026-09-26 T-243b: 1700-1750 written (~1,200 prose words, story eliza-lucas-pinckney-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. The Sally (1764-65) and Newport distilleries (1764) placed in 1750-1800 for chronology.
+- 2026-09-26 T-243b: 1750-1800 written (story alexander-hamilton-economy). Self-review run. Part 1 total 3,414 prose words, 246 sentences, mean 13.9 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Unit 2 landed.
