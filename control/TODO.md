@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-241a in flight:** pre-write bank check for `elements`. The per-chapter pattern is now:
+**T-241b in flight:** writing `elements` part 1 (eras 1-5). The bank check (T-241a) is done. The per-chapter pattern is now:
 check the bank, write 3 parts, then close the collected gaps.
 **science PASSES prose and research** (T-240 done, 5 agents, about 1.0M tokens).
 

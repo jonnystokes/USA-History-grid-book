@@ -157,6 +157,11 @@ and nothing else.
 
 ### Standard WRITING brief (Phase 2)
 
+**Since 2026-09-26 the full current brief is the file `control/briefs/WRITER.md`**, and the
+dispatch names the task, chapter, part, eras and checkpoint. The text below is the original
+brief, kept for reference.
+
+
 Every prose agent gets, verbatim:
 
 > Read these before writing a word, in this order:

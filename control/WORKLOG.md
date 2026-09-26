@@ -2196,4 +2196,22 @@ T-240 COMPLETE: science, 5 agents, about 1.01M tokens.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-241-elements.md
 VERIFY: elements --stage research still PASSES.
+RESULT: DONE. 205,622 tokens, 92 tool uses, 13 min. 14 PATCH blocks. Research PASS. Bank
+        10,417 -> 16,639w.
+        FILLED: the Radium Girls' company officials (von Sochocky, Roeder, Kelly) and named dead.
+        NIST settlement terms and Donohue dates pinned, which closes 2 parked audit items. Uranium
+        on Navajo land (AEC sole buyer, no warnings, Church Rock 1979, RECA 1990/2025). Lead
+        (leaded-gas death counts x3, the bans, Flint 2014-2023). Mercury (Danbury hatters, the
+        gold fields). Arsenic (Anaconda). Land taken (Cherokee gold, the 1842 Copper Treaty, the
+        Black Hills). Forced and enslaved iron labor (Saugus, Maryland). An order error: the FTC
+        acted before Byers died.
+        FALSE FIRSTS CAUGHT: "nation's first mineral rush" (Georgia 1829 came earlier). The
+        Phelps "first" is ORNL's claim. "First American industry that made a metal" is unsourced.
+        UNKNOWABLE: the full Navajo death count, the supervisor who taught lip-pointing, the
+        Church Rock dam official.
+DIRECTOR: the writing brief now lives in control/briefs/WRITER.md.
+
+### 2026-09-26 | [CLOUD] T-241b | Write elements PART 1 (eras 1-5)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-241-elements.md (unit 2)
 RESULT:
