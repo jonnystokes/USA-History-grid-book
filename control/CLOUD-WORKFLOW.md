@@ -98,8 +98,12 @@ Write it for that stranger.
 - On return, run the verify check. Then close the WORKLOG entry, set the checkpoint's
   `STATUS:` to `DONE` or `PARTIAL`, update `control/TODO.md`, add the usage-log row, and
   commit and push.
-- Do not commit while an agent is running. Only one agent runs at a time, so the agent owns
-  the working tree until it returns.
+- While an agent is running, the director may commit and push **its own files, by name**
+  (`control/TODO.md`, `DECISIONS.md`, and so on). The agent and the director share one local
+  repository, so their commits land one after another with no push race. The director never
+  uses `git add -A` while an agent runs, and never touches the agent's files. (Corrected
+  2026-09-26. The old rule was "never commit while an agent runs", and it left the director's
+  edits unsaved.)
 
 Checkpoints are useful on Jon's PC too. `AGENT-BRIEF.md` now asks for one in both
 environments. Only the git push is cloud-only.
