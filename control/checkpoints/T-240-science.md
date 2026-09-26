@@ -11,7 +11,7 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240a dispatched.
+NOW:    T-240a in progress (bank patches landing).
 NEXT:   bank check units.
 
 ## Units
@@ -24,6 +24,7 @@ NEXT:   bank check units.
 | 4 | part3 eras 8-10 | todo | |
 
 ## Gaps found and filled (unit 1)
+- Human remains taken for study: Morton skulls (era 6), Army Medical Museum Native skulls (era 7), Hrdlicka/Smithsonian (era 8), NMAI Act + NAGPRA (era 9), Penn 2021 / Smithsonian 2023 apologies, ProPublica Jan 2025 count, 2024 NAGPRA rule (era 10).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
