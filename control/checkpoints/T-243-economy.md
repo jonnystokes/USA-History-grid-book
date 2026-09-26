@@ -18,8 +18,8 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243c writing part2 era 1850-1900 (1800-1850 landed; the 1850-1900 section may be half-written or absent).
-NEXT:   T-243c: write part 2 (eras 6-7)
+NOW:    T-243c landed 2026-09-26 (part2, eras 6-7, about 4,350 prose words, validator clean, punct 0/0).
+NEXT:   T-243d: write part 3 (eras 8-10)
 
 ## Units
 
@@ -27,7 +27,7 @@ NEXT:   T-243c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | in progress (T-243c) | |
+| 3 | part2 eras 6-7 | landed | 2026-09-26 |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
@@ -58,6 +58,7 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - (T-243b, part 1, also left out:) Before 1500: "hunting, fishing, and gathering" as livelihoods and "farming towns" in general (bank has Cahokia's corn only); specialists as "toolmakers, builders, traders". 1600s: Rolfe's seed "milder than the local plant"; "within a generation tobacco paid for the colony"; Virginia "nearly starved"; the Pocahontas marriage; New England "fish, timber, and ships" in the 1600s. 1700-1750: "Farming was most colonists' living"; Pinckney "near Charleston", "1739-1744", and "the profit went to planter families like hers". 1750-1800: Hamilton as "the first Secretary of the Treasury" and "New York and Philadelphia, 1789-1795"; "the argument ran through the next two centuries"; farmers "attacked tax collectors"; militia "marched west". First names Thomas Jefferson, James Madison and George Washington (bank gives surnames only; prose uses surnames).
 
 - (T-243c, part 2, left out:) 1800-1850: Hone "a carpenter's son", "nearly every day for 23 years", "in the spring of 1837" (bank gives the quote undated), "one of the fullest firsthand records"; mill wages as "money entering households that had rarely handled it"; "most miners found little" (bank: merchants made steadier money than most miners).
+- (T-243c, part 2, left out:) 1850-1900: the transcontinental railroad entirely (neither its 1869 completion nor the trip time is in this bank); Coxey's jobs program "did not exist until the 1930s"; "farmers paid whatever the one railroad in town charged"; Carnegie "left Scotland broke", "made steel cheap" (the bank gives the rail price fall but does not credit his mills), "one of the richest men alive"; Rockefeller "the bookkeeper"; Hall's first names (bank gives "Hall's 1886 process"); how Homestead claims were made (living on and farming the land). Unverified 392,897 Black sharecroppers (1930) not used.
 
 ## BLOCKING GAPS
 
@@ -70,6 +71,11 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - (T-243b) 1750-1800, whiskey span: "about 150 arrests, 20 leaders taken" has no actor in the bank. Prose keeps the passive.
 - (T-243c) 1800-1850, Panic of 1819 span: 1,808 jailed for debt in Philadelphia and 3,500 in Boston. The bank names no actor (which courts, at whose suit). Prose keeps the passive "were jailed".
 - (T-243c) 1800-1850, Panic of 1837 span: the bank says "Courts seized debtors' property". Prose says "Judges ordered the property of debtors taken". No judge, court or state is named.
+- (T-243c) 1850-1900, Homestead Act span: 270 million acres "became private farms". The bank names no Native nation whose land it was and does not say how it was taken. Land erasure risk (T-243a placed it with `native-nations` / `land-environment`).
+- (T-243c) 1850-1900, Bailey span: "Bailey was fined 30 dollars and sentenced to 136 days of hard labor". The bank names no judge or court.
+- (T-243c) 1850-1900, convict leasing span: in 1924 "a prisoner died after being lowered into a vat of boiling water". The bank names neither the prisoner nor who lowered him, nor the place. The causes of the mine deaths (233, 181, 90 per 1,000, 25% in 1873) are not in the bank.
+- (T-243c) 1850-1900, Coxey span: "Coxey was arrested". The bank does not say who arrested him.
+- (T-243c) Carnegie story: "Ten men died in the battle at Homestead on July 6, 1892". The bank does not say who fought whom or who killed them (the story belongs to `work-workers`).
 
 ## Log
 - 2026-09-26 T-243a: bank check landed. 7 PATCH blocks (eras 2, 3, 4, 6, 7, 8, 10). `--check economy --stage research` PASS (bank 12,346 words).
@@ -79,3 +85,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243b: 1700-1750 written (~1,200 prose words, story eliza-lucas-pinckney-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. The Sally (1764-65) and Newport distilleries (1764) placed in 1750-1800 for chronology.
 - 2026-09-26 T-243b: 1750-1800 written (story alexander-hamilton-economy). Self-review run. Part 1 total 3,414 prose words, 246 sentences, mean 13.9 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Unit 2 landed.
 - 2026-09-26 T-243c: 1800-1850 written (~2,000 prose words, 7 spans, story philip-hone-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. Keweenaw copper (parked era-6 section) placed here.
+- 2026-09-26 T-243c: 1850-1900 written (8 spans, stories andrew-carnegie-economy, john-d-rockefeller-economy). Self-review run. Part 2 total about 4,350 prose words, 315 sentences, mean 13.8 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Bank defect fixed in prose: the patch says Southern states "then" leased prisoners after the 13th Amendment, but also dates Alabama's lease from 1846. Prose says officials leased prisoners "under that exception" and keeps 1846. Unit 3 landed.
