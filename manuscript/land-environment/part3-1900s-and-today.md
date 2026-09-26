@@ -251,3 +251,115 @@ On February 11, 1994, President Bill Clinton signed Executive Order 12898. In it
 Starting in January 1995, gray wolves brought from Canada were released in Yellowstone National Park. By the end of 1996, 31 wolves had been moved there. Park managers had killed the park's last wolf pack in 1926. With wolves back in the park, elk changed how they behaved, and the willows and stream banks changed too. Yellowstone became the standard example of a top predator changing the land around it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
+
+<!-- hb-time:start id="2000-today" order="10" chapter="land-environment" label="2000 to Today" state="full" progress="written" -->
+## 2000 to Today
+
+<!-- hb-zoom level="era" -->
+The year 2024 was the warmest ever measured, both for the whole world and for the lower 48 states. Heat and drought dried forests left full of fuel by a century of putting out every fire. In 2020, fires burned about 4.2 million acres of California. Lake Mead and Lake Powell, two reservoirs on the Colorado River, fell to record lows in 2021 and 2022. Fire managers now set fires on purpose again, and Yurok people teach cultural fire to government fire crews.
+
+In Louisiana, Shell's managers agreed in 2002 to pay to move the families of Old Diamond, a neighborhood beside a Shell chemical plant. In 2023 federal lawyers sued the owner of a plant near an elementary school in LaPlace, and in 2025 they dropped the suit. Bald eagles, bison and wolves have come back in large numbers. On July 13, 2026, President Donald Trump cut Bears Ears National Monument, in Utah, by about 91 percent. As of September 26, 2026, the land he removed was open to mining claims, and lawsuits against the cut were waiting in federal court.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The warmest year" -->
+In January 2025, scientists at NOAA, the federal agency that tracks weather and climate, reported that 2024 was the warmest year on record for the planet. The world averaged 1.29 degrees Celsius above the average for the 20th century, the years 1901 to 2000. Scientists at NASA and other groups agreed. The lower 48 states averaged 55.5 degrees Fahrenheit in 2024, which was 3.5 degrees above their 20th-century average. Seventeen states set records.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Fire comes back bigger" -->
+After a century of putting out every fire, the woods held heavy loads of fuel, the dead wood and brush that burns. Heat and drought dried that fuel out.
+
+On November 8, 2018, the Camp Fire killed 85 people in California and destroyed nearly all of the town of Paradise. About 19,000 buildings burned. The encyclopedia *Britannica* and a timeline by the National Institute of Standards and Technology, a federal science agency, give these figures. The Camp Fire was the deadliest wildfire in the United States in a century.
+
+In 2020, fires burned about 4.2 million to 4.3 million acres of California, about 4 percent of the state. By the count of CAL FIRE, California's fire agency, that was the most in modern records. One fire, called the August Complex, passed 1 million acres. It became known as the first "gigafire" in the state's modern history, meaning a fire that burned more than a million acres.
+
+Fire managers at government agencies now set fires on purpose to burn off fuel. These planned fires are called prescribed burns, and prescribed burning is official policy again.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="margo-robbins" name="Margo Robbins" movie="" kind="ordinary" status="verified" -->
+### Margo Robbins
+
+> **Who:** A member of the Yurok Tribe who helped found the Cultural Fire Management Council, to bring traditional burning back to Yurok land.
+> **When and where:** The Klamath River country of northern California. The first community burn was in 2012, and the council formed in 2013.
+
+Margo Robbins, a member of the Yurok Tribe, wanted hazel for weaving baskets. When hazel is burned, it sends up new shoots that grow straight, and weavers need straight shoots. Her first goal was to weave baskets to carry her grandchildren.
+
+Robbins and others held their first community burn on Yurok land along the Klamath River in 2012. In 2013 they formed the Cultural Fire Management Council. Cultural fire means burning done by Native people to care for the land. In 1850 California lawmakers had made setting the prairie on fire a crime. After the council's burns, deer came back to the burned ground at Weitchpec. Council members now run training exchanges, called TREX, that teach cultural burning to fire crews.
+<!-- hb-story:end slug="margo-robbins" -->
+
+<!-- hb-zoom level="span" label="The shrinking river" -->
+From 2000 to 2021, the Southwest had its driest 22 years in at least 1,200 years. Scientists from UCLA and Columbia University found this by studying tree rings, which show how much a tree grew each year. In February 2022 they published their study in the journal *Nature Climate Change*. They blamed about 42 percent of the drought's severity on climate change caused by people.
+
+About 40 million people depend on the Colorado River for water, and so does much of the country's winter vegetable crop. Lake Mead and Lake Powell, two reservoirs on the river, fell to record lows in 2021 and 2022, news reports stated. By the middle of 2022, Lake Mead was about a quarter full.
+
+In May 2023, officials of Arizona, California and Nevada agreed to cut their use of the river by at least 3 million acre-feet through the end of 2026. An acre-foot is enough water to cover one acre of land one foot deep. The cut is about a tenth of the water those three states are allowed to take. Federal officials agreed to pay the states for the water they gave up. News reports that cited the federal Bureau of Reclamation gave these figures.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Cancer Alley" -->
+The stretch of Louisiana between Baton Rouge and New Orleans holds a long line of chemical plants. A 2007 report by the United Church of Christ calls this strip "so-called 'cancer alley,' the chemical manufacturing corridor between Baton Rouge and New Orleans." A corridor is a long, narrow strip of land. The towns of Norco and LaPlace are both in it.
+
+The same report counted who lived near commercial hazardous waste sites across the country in 2000, using census figures. In neighborhoods with such sites, 56 percent of the people were people of color. Elsewhere, 30 percent were. The poverty rate was 18 percent near the sites and 12 percent elsewhere. Forty of the 44 states with such sites showed the same gap.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="margie-richard" name="Margie Richard" movie="" kind="ordinary" status="verified" -->
+### Margie Richard
+
+> **Who:** A schoolteacher from the Old Diamond neighborhood of Norco, Louisiana, who led her neighbors' campaign to make Shell pay to move them away from its plant.
+> **When and where:** Norco, Louisiana. The campaign ended in 2002. She won the Goldman Environmental Prize in April 2004.
+
+Four generations of Margie Richard's family lived in the Old Diamond neighborhood of Norco, Louisiana. Their home stood 25 feet from the fence of a Shell Chemical plant. Shell had bought land in Diamond and built the plant there in the early 1950s. The neighborhood sat between the chemical plant and a Shell refinery, a plant that turns crude oil into fuels.
+
+In 1973 gas leaked from a Shell pipeline. A spark from a lawnmower set it on fire. The fire burned Leroy Jones, age 16, to death while he was cutting grass. It also burned to death Helen Washington, who was resting on her porch. In 1988 an explosion at the Shell refinery killed seven workers and damaged homes in Diamond.
+
+In a 2004 interview with *Grist* magazine, Richard remembered: "The elder people were always coughing ... black soot falling on the grass, on our houses." She also said: "My sister died at a very early age from a rare bacterial disease."
+
+Richard led the neighborhood's campaign for about 13 years. Residents tested their own air with buckets built to catch air samples. They took their case to Shell's shareholder meetings, where the company's owners gather, and to Shell in the Netherlands. In 2002 Shell's managers agreed to pay to move every Old Diamond family that wanted to leave. They also agreed to cut the plant's emissions, the pollution it sends into the air, by 30 percent, and to put $5 million into a community fund. Shell paid at least $80,000 for each house and $50,000 for each trailer, about $30 million in all.
+
+In April 2004 Richard became the first African American to win the Goldman Environmental Prize.
+<!-- hb-story:end slug="margie-richard" -->
+
+<!-- hb-zoom level="span" label="The plant by the school" -->
+From 2023 to 2025, federal lawyers first sued and then dropped their suit against a plant in LaPlace, Louisiana, that released a chemical likely to cause cancer into the air near an elementary school.
+
+The plant is in St. John the Baptist Parish. A parish in Louisiana is like a county in other states. The company DuPont built the plant to make neoprene, a kind of man-made rubber. The Japanese company Denka bought it about 2015, according to AP news reporting in 2025. To make neoprene, the plant used a chemical called chloroprene, and it released chloroprene into the air.
+
+In 2010 EPA scientists found that chloroprene is "likely to be carcinogenic to humans." Carcinogenic means causing cancer. They also found that children breathing it build up a lifetime risk of cancer faster than adults do.
+
+In 2023, more than 300 children went to the 5th Ward Elementary School, about 450 feet from the plant. The EPA's recommended long-term level for chloroprene is 0.2 micrograms in each cubic meter of air. A microgram is one millionth of a gram. In their 2023 lawsuit, federal lawyers reported the averages at the five air monitors closest to the plant. The lowest was "more than four times" the recommended level. The highest was "more than 14 times" that level. In March 2025, AP reported that the community around the plant is about 59 percent Black. AP also reported that the plant's air pollution posed the highest cancer risk from any single source to a mostly Black population in the country.
+
+On February 28, 2023, lawyers for the US Justice Department, acting for the EPA under President Biden, sued Denka under the Clean Air Act. They asked the court to force deep cuts in the plant's chloroprene pollution. A trial was set for April 2025. On March 7, 2025, under President Trump, Justice Department lawyers dropped the suit. Their press release stated that dropping it carried out the president's order called "Ending Radical and Wasteful Government DEI Programs and Preferencing." DEI stands for diversity, equity and inclusion.
+
+On May 13, 2025, Denka's managers announced that the LaPlace plant would stop making chloroprene "for an indefinite period," meaning with no end date. They named losses of more than $100 million, rising costs, falling production and trouble finding workers. Trade magazines also named the pollution rules as a reason. The plant was not making chloroprene as of May 2025.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Plastic in the rain" -->
+More than 1,000 tons of tiny plastic pieces fall each year on protected land in the western United States. Janice Brahney, a scientist at Utah State University, and her team found this in a study published in the journal *Science* on June 12, 2020. The pieces are called microplastic, which means bits of plastic too small to see easily. They fall with rain and with dust. The team sampled 11 parks and other protected areas. Each year's total weighs as much as more than 120 million plastic bottles. Most of the pieces were tiny fibers from clothing.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Comebacks" -->
+Bald eagles, bison and wolves have come back in large numbers since they nearly disappeared. In the 2020s, the U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles. In 1963 there had been 417.
+
+About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. Recent counts by the U.S. Fish and Wildlife Service and the National Bison Association put about 420,000 bison in commercial herds, which are raised for sale. About 20,500 Plains bison live in herds kept for conservation.
+
+Recent counts put about 500 wolves in the Greater Yellowstone area and more than 1,600 in the northern Rockies. State and tribal counts of wolves differ. People are still fighting in court over whether wolves should stay on the endangered list.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Land given back" -->
+In December 2020, members of Congress passed a law returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge on the Flathead Reservation. It was taken from the reservation in 1908. The tribes took over full management of the range in 2022.
+
+In 2018, Park Service officials in Yosemite agreed to share the care of Wahhoga, the site of the valley's last Native village, for 30 years. They share it with the American Indian Council of Mariposa County. In the winter of 2025, a roundhouse, a round building for gatherings, was finished there.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Bears Ears" -->
+Since 2016, three presidents have created, cut, restored and cut again Bears Ears National Monument in Utah. As of September 26, 2026, most of the land was out of the monument and open to mining claims, and no court had ruled on the latest cut.
+
+On December 28, 2016, President Obama created the monument, with 1.35 million acres. Five tribes had proposed it: the Hopi Tribe, the Navajo Nation, the Ute Mountain Ute Tribe, the Ute Indian Tribe and the Pueblo of Zuni. In December 2017, President Donald Trump cut it by about 85 percent, to about 201,876 acres. On October 8, 2021, President Biden restored it. In June 2022, the five tribes signed an agreement with the Bureau of Land Management and the Forest Service to manage the monument together.
+
+On July 13, 2026, Trump signed a proclamation that cut Bears Ears to 121,096 acres, a cut of about 91 percent. About 1.24 million acres left the monument. What is left is two pieces, Shash Jáa, about 106,816 acres, and Indian Creek, about 14,279 acres. The proclamation lists minerals in the removed land: silver, copper, uranium, vanadium and zinc. The same day, Trump cut Grand Staircase-Escalante National Monument from about 1.87 million acres to about 181,500 acres. The *Moab Sun News* reported these figures on July 18, 2026.
+
+The July proclamation also ended the Bears Ears Commission. Elected representatives of the five tribes sat on it, and they had managed the monument with federal officials under the 2022 agreement. The *Moab Sun News* reported that an advisory committee took its place, with tribes holding 5 of about 15 seats. The tribes say Interior Department officials promised in writing in June 2025 to consult the commission before any change to the boundaries, and that no one consulted it before July 13. Their statement said: "Our Tribes were not informed of or asked about this decision, and that's unacceptable."
+
+Under the proclamation, the removed land opened on September 11, 2026, to new mining claims, mineral leasing, grazing and timber cutting. A mining claim is a legal claim to the right to mine minerals on public land. Mineral leasing means renting out the right to take minerals from the ground. By noon on September 11, 16 claims had been recorded in San Juan County. By September 23, a conservation group called SUWA counted 23 claims in the removed Bears Ears land. Kimmerle Mining had filed 20 of them, and George W. Schultz had filed 3. Kimmerle Mining had tried to file 7 claims on July 14, before the land opened. Kyle Kimmerle, of Kimmerle Mining, had been a plaintiff, a person who brings a lawsuit, in one of the suits against Biden's 2021 restoration.
+
+On September 2, 2026, three sets of plaintiffs went to the U.S. District Court for the District of Columbia, a federal court in Washington. Eight groups, among them Utah Diné Bikéyah, Archaeology Southwest and the National Trust for Historic Preservation, asked the court to reopen their 2017 case and add a complaint against the July 13 proclamation. Two more coalitions, one led by the groups NRDC and SUWA and one led by The Wilderness Society, asked to renew their own 2017 cases. They argue that the Antiquities Act of 1906 lets a president create a monument and does not let a president undo one. Utah's members of Congress called the cuts "a return to an appropriate application of the Antiquities Act." The tribes' own 2017 case, *Hopi Tribe v. Trump*, is still waiting in the same court. As of September 26, 2026, no court had ruled on the 2026 cuts, and no judge had ordered them stopped.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="2000-today" -->
