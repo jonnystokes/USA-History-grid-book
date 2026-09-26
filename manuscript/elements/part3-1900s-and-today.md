@@ -175,3 +175,117 @@ In 1951, Seaborg shared the Nobel Prize in Chemistry with Edwin McMillan for the
 In 1997 the element 106 was named seaborgium, after him. Seaborg could receive a letter with an address written only in element names: Seaborgium, Lawrencium, Berkelium, Californium, Americium. That stood for Seaborg, at the Lawrence laboratory, in the city of Berkeley, in California, in America.
 <!-- hb-story:end slug="glenn-seaborg" -->
 <!-- hb-time:end id="1900-1950" -->
+
+<!-- hb-time:start id="1950-2000" order="09" chapter="elements" label="1950 to 2000" state="full" progress="written" -->
+## 1950 to 2000
+
+<!-- hb-zoom level="era" -->
+From 1950 to 1974, teams at Berkeley and other American labs made or claimed elements 98 through 106. Scientists at Dubna, a lab in the Soviet Union, claimed several of the same elements. The two sides argued for decades over who had found them first. In 1992 and 1993, an international panel gave some credit to Berkeley, some to Dubna, and split the rest.
+
+In the same years, uranium mining on Navajo land reached its peak. Miners breathed radioactive gas in mines with no fresh air blown in, and hundreds died of lung disease and cancer. Scientists also proved that lead in gasoline and paint was harming children. Between 1971 and 1996, federal officials limited and then banned lead in house paint and in gasoline for cars.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Elements from Berkeley and from a bomb test" -->
+Early in 1950, Kenneth Street Jr., Stanley G. Thompson, Albert Ghiorso and Glenn Seaborg made element 98 at Berkeley. They struck curium with helium particles. They announced the element on March 17, 1950, and named it californium, for the state and its university.
+
+Elements 99 and 100 turned up in the dust of a hydrogen bomb test called Ivy Mike, at Enewetak Atoll in the Pacific Ocean, on November 1, 1952. Drone planes with no one aboard flew through the mushroom cloud, carrying filter papers to catch the dust. Workers then shipped tons of coral from the blast site to Berkeley. In the dust and coral, Ghiorso and teams from Berkeley, Argonne and Los Alamos found two new elements. In the blast, uranium atoms had soaked up huge numbers of neutrons. A neutron is one of the tiny particles in the center of an atom.
+
+Government officials classified the discoveries, which means they kept them secret. The scientists published them on August 1, 1955, with the names einsteinium and fermium. By then both of the men they honored had died. Enrico Fermi died in November 1954, and Einstein died in April 1955. Neither man was told that an element would carry his name.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Seventeen atoms, one at a time" -->
+In 1955 a Berkeley team made element 101 from about a billion atoms of einsteinium. That was all the einsteinium that existed. The team was Ghiorso, Bernard G. Harvey, Gregory R. Choppin, Thompson and Seaborg. They struck the einsteinium with particles, and the new atoms flew off onto a gold foil. Ghiorso had worked out this way of catching atoms. The team dissolved the foil and rushed it through the chemistry.
+
+They made 17 atoms of element 101 in all. It was the first element identified one atom at a time. In the scientists' own telling, Ghiorso wired the detector to the building's fire alarm, so the bell rang for each new atom. He forgot to disconnect it, and the alarm later emptied the building late at night.
+
+The team named element 101 mendelevium, for Dmitri Mendeleev, the Russian who made the periodic table. That was during the Cold War, the long contest between the United States and the Soviet Union. Seaborg asked the United States government for approval before he used a Russian's name. A French chemist later told Ghiorso that the name did more for American and Soviet relations than most diplomacy. Diplomacy is the work of officials who handle dealings between countries.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The fight over elements 102 to 106" -->
+Scientists in three countries worked on element 102. In 1957 a team in Stockholm, Sweden, claimed it and named it nobelium, for Alfred Nobel. The Swedish team then took back its claim. Berkeley scientists claimed the element in 1958. Scientists at Dubna did the experiments of 1966 that proved it.
+
+The International Union of Pure and Applied Chemistry (IUPAC) is the world organization of chemists that approves element names. A joint panel of chemists and physicists, called the Transfermium Working Group, studied who had found what. Its report came out in 1992 and 1993. The panel's members credited Dubna with element 102. IUPAC's officials kept the Swedish name nobelium anyway, because scientists had used it for more than 30 years.
+
+Ghiorso, Torbjørn Sikkeland, Almon E. Larsh and Robert M. Latimer made element 103 at Berkeley in 1961. Dubna scientists did important work on it from 1965 to 1967. The Working Group split the credit between the two labs. The element kept the name lawrencium, for Ernest Lawrence.
+
+Dubna scientists claimed element 104 in 1964, and Berkeley scientists claimed it in 1969. For element 105, the Dubna claim came in 1968 and the Berkeley claim in 1970. Each side gave the elements its own names and argued for them in science journals for decades. The Working Group's members split the credit for both. They credited Berkeley alone with element 106, made there in 1974.
+
+In 1994 IUPAC's officials proposed a rule against naming elements for living people. The rule would have blocked the Berkeley name, seaborgium. In 1997 they approved the final names. Element 104 became rutherfordium, for the scientist Ernest Rutherford. Element 105 became dubnium, for the town of Dubna. Element 106 became seaborgium. Glenn Seaborg was the first person to see an element named for him while he was alive. He kept a periodic table with seaborgium on it until he died in 1999.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="albert-ghiorso" name="Albert Ghiorso" movie="" kind="famous" status="verified" -->
+### Albert Ghiorso
+
+> **Who:** The builder of instruments who helped discover more elements than anyone else in history, without ever earning a doctorate.
+> **When and where:** Berkeley, California, from 1944 to 1974, with work into the 1990s. He died in 2010.
+
+Albert Ghiorso helped discover 12 elements, americium through seaborgium, numbers 95 to 106. Guinness World Records lists that as the most elements discovered or co-discovered by one person. He never earned a doctorate, the highest university degree.
+
+Ghiorso built the tools the element hunters needed, among them the detectors. He worked out the method of catching new atoms on a foil, which his team used to find mendelevium in 1955. He also ran the HILAC, a machine at Berkeley that sped up particles to make new elements. In the stories his colleagues told, he wired the mendelevium counter to a fire alarm. Another of their stories has him driving fresh, radioactive samples across the lab in a Volkswagen car.
+<!-- hb-story:end slug="albert-ghiorso" -->
+
+<!-- hb-story:start slug="darleane-hoffman-elements" name="Darleane Hoffman" movie="" kind="famous" status="verified" -->
+### Darleane Hoffman
+
+> **Who:** A nuclear chemist who proved that plutonium, an element people had made in labs, also occurs in nature.
+> **When and where:** Los Alamos, New Mexico, from 1953, and Berkeley, California, from 1984. She died in 2025, at the age of 98.
+
+Darleane C. Hoffman was a nuclear chemist, a chemist who studies atoms that break apart and give off radiation. She began work at Los Alamos in 1953. In 1971 she found traces of plutonium-244 in ancient rock from the Mountain Pass mine in California. Plutonium had been known only as an element made in labs. Her find showed that tiny amounts of it also occur naturally on Earth.
+
+Hoffman showed that atoms of fermium-257 could split in two on their own. She was the first woman to lead a science division at Los Alamos. From 1984 she led work at Berkeley on the chemistry of the heaviest elements, studying them one atom at a time.
+
+She won the National Medal of Science in 1997. In 2000 she won the Priestley Medal of the American Chemical Society, named for Joseph Priestley. She was the second woman ever to receive it. She died in 2025, at the age of 98.
+<!-- hb-story:end slug="darleane-hoffman-elements" -->
+
+<!-- hb-zoom level="span" label="Elements at home" -->
+Home smoke detectors of the ionization type hold a speck of americium-241, about a third of a millionth of a gram. The americium gives off alpha particles inside a small chamber. The particles let a tiny electric current run through the air in the chamber. Smoke that drifts in disturbs the current, and the alarm goes off.
+
+Silicon is an element that was discovered in Sweden in 1824. Computer chips are made of it, and Silicon Valley takes its name from the element in the chips made there.
+
+By 1996 the federal helium program owed $1.4 billion. That year the members of Congress passed the Helium Privatization Act and ordered the Federal Helium Reserve sold.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Uranium miners on Navajo land" -->
+The Atomic Energy Commission (AEC) was the federal agency in charge of atomic energy. For years its officials were the only buyers of uranium in the United States. The EPA states that the AEC was the only buyer until 1966 and kept buying ore until 1970. Doug Brugge and Rob Goble, writing in the *American Journal of Public Health* in 2002, say the government was the only buyer from World War II until 1971.
+
+About 10,000 people worked in uranium mining in all, and about a quarter of them were Navajo. The mining peaked in the middle of the 1950s, with about 750 mines working. The companies named in the records include the Vanadium Corporation of America, Kerr-McGee, the United Nuclear Corporation and Hydro Resources Inc.
+
+When uranium atoms break apart, they turn into radon, a radioactive gas. Radon atoms then break apart into radioactive specks called radon daughters. Miners breathed them in. Brugge and Goble explain that the daughters stay in the lungs next to delicate cells and hit those cells with strong doses of radiation. The harm named in the records is lung cancer and lung fibrosis. Lung fibrosis is scarring that makes the lungs stiff, so that breathing gets harder.
+
+Navajo miners report that no one told them about the dangers of uranium mining. They were given no protective equipment. The mines had no ventilation, the fans and shafts that blow fresh air in and push radon out. Scientists already knew about the danger from uranium mines in Europe. Brugge and Goble found that few protections reached American miners before 1962, and they came slowly after that.
+
+Staff of the AEC and of the Public Health Service met on January 25, 1951. The staff at that meeting believed the radon in the mines was at levels that would cause cancer. Wilhelm Hueper, a government cancer researcher, warned about radon. According to Brugge and Goble, he was forbidden to speak in public and forbidden to travel west of the Mississippi River.
+
+From 1950, Public Health Service workers led by Duncan Holaday and Victor Archer followed the miners to measure their cancer risk. The study tracked 3,415 miners, and 779 of them were Native American. Brugge and Goble found that the study did not tell the miners about the risks it was studying. At first the researchers left the minority miners, Native Americans among them, out of the results. The researchers said they wanted "a homogeneous population," which means a group of people who are all alike. A 2014 article in the journal *Environmental Health Perspectives* states that the researchers agreed with the mining companies not to tell the miners about the danger. They took that deal as the only way to get into the mines.
+
+Nobody has a full count of the Navajo miners who died. Linda M. Richards, a historian, wrote in 2013 that by the early 1980s, "hundreds of Indian miners had died from lung diseases and cancers." Brugge and Goble cite a study from 2000 that found 94 deaths from lung cancer among Navajo people from 1969 to 1993. Of those 94, 63 had been uranium miners.
+
+Harris Charley was a Navajo uranium miner. His records show he breathed 1,192 "working level months" of radon, a unit that measures how much radon a miner breathed over time. He died of lung fibrosis in 1986. His son, Perry H. Charley, became an environmental scientist. Perry Charley worked with Stewart Udall, a former Secretary of the Interior, to investigate the miners' illnesses. In 1996 he helped start the Uranium Education Program at Diné College. Diné is the Navajo people's own name for themselves. Navajo organizers, among them Harry Tome, Perry Charley and Phil Harrison, pushed for help for the miners from the 1960s on.
+
+On October 5, 1990, the members of Congress passed the Radiation Exposure Compensation Act. President George H. W. Bush signed it on October 15, 1990. Under it, the government pays money to uranium workers made sick by radiation on the job.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The spill at Church Rock" -->
+On July 16, 1979, an earthen dam broke near Church Rock, New Mexico. The United Nuclear Corporation owned the dam, which held waste from its uranium mill. A mill is a plant that takes uranium out of the crushed rock. Tailings are the ground-up rock left behind after the uranium is taken out.
+
+The sources give different amounts for the spill. Richards gives 1,000 tons of radioactive tailings and 93 million gallons of acid, radioactive water. Other accounts give 1,100 tons and 94 million gallons. The waste ran at least 80 miles down the Rio Puerco, a river that flows past the homes of about 1,700 Navajo people.
+
+A curie is a unit that measures radioactivity. The Church Rock spill released 46 curies of radiation. The accident at the Three Mile Island nuclear power plant, four months earlier, released 13. The U.S. Geological Survey called Church Rock "the largest accidental radioactive release in the United States." Officials declared no emergency and ordered no one to leave.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Lead: the proof and the bans" -->
+In the 1960s, thousands of American children each year went to the hospital with lead encephalopathy, and about one in four of them died. Encephalopathy means swelling and damage of the brain. A 2007 review in the journal *Environmental Health Perspectives* reports those numbers. Lead harms a child's growing brain. It lowers intelligence and causes trouble with reading, paying attention and behavior. The review states that no safe level of lead is known.
+
+Clair Patterson, a geochemist at Caltech, measured lead in the air at about 1,000 times its natural level. A geochemist is a scientist who studies the chemistry of rocks and the Earth. In a paper in 1965, Patterson called Kehoe's "safe level" idea "an ill-defined opinion unsupported by any evidence." In the 1970s, Herbert Needleman, a children's doctor in Pittsburgh, measured the lead in the baby teeth of about 2,500 schoolchildren. Children with more lead in their teeth did worse in school. Scientists paid by the lead industry attacked his work. His findings were later upheld.
+
+In 1971 the members of Congress passed the Lead-Based Paint Poisoning Prevention Act. Under that law, homes built or repaired with federal money could have only limited amounts of lead paint. In 1972 the limit for lead in paint was set at 0.5 percent. In 1978 officials of the U.S. Consumer Product Safety Commission banned lead paint in all homes. From then on, house paint could hold no more than 0.06 percent lead. Homes built before 1978 are still likely to have some lead paint.
+
+EPA officials began a rule to cut the lead in gasoline in 1972 and 1973. Gas stations began selling unleaded gasoline, and car makers built cars for it, in 1975 and 1976. The Clean Air Act's ban on leaded gasoline for cars and trucks took effect on January 1, 1996. On January 29, 1996, EPA Administrator Carol M. Browner announced the last step of the 25-year phase-out. She said the amount of lead in children's blood had fallen 70 percent.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Poisoned ground put on the cleanup list" -->
+The Superfund program is the federal program for cleaning up the country's most dangerous waste sites. The National Priorities List is the list of sites chosen for that cleanup. In 1983 EPA officials put both the Anaconda smelter site in Montana and the Church Rock mill on the list.
+
+At Anaconda, nearly 100 years of smelting had left arsenic, cadmium, copper, lead and zinc over more than 200 square miles. EPA lists Atlantic Richfield as the company responsible for the cleanup.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1950-2000" -->

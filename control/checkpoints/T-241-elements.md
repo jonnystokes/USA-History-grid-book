@@ -12,7 +12,7 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241d in flight: era 1900-1950 written, writing era 1950-2000.
+NOW:    T-241d in flight: eras 1900-1950 and 1950-2000 written, writing era 2000-today.
 NEXT:   T-241d: write part 3 (eras 8-10)
 
 ## Units
@@ -65,4 +65,5 @@ NEXT:   T-241d: write part 3 (eras 8-10)
 - 2026-09-26 T-241b: era 1750-1800 written, self-review run. part1 total 2,802 words, 2 stories (joseph-priestley, conrad-reed). validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.
 - 2026-09-26 T-241c: era 1800-1850 written (file ~875 words). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241c: era 1850-1900 written, self-review run. part2 total 2,357 words, 1 story (charles-martin-hall-julia-brainerd-hall). validator 0 errors, --punct emdash=0 semicolon=0. Unit 3 landed.
-- 2026-09-26 T-241d: era 1900-1950 written (file ~5,000 words). validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-241d: era 1900-1950 written (file ~4,180 words). validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-241d: era 1950-2000 written (file ~6,900 words). validator 0 errors, --punct emdash=0 semicolon=0.
