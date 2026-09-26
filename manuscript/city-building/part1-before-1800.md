@@ -64,47 +64,43 @@ St. Augustine's Plaza de la Constitucion was laid out under those 1573 ordinance
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-The first English and Dutch towns on this coast were small, wooden, and improvised: a fort, a wall, a huddle of houses by the water. In some of them the streets formed one house at a time, with nobody deciding anything in advance. At the end of the century one man had the opposite done: a plan drawn on paper before a single street existed on the ground. American town-builders copied it for the next two hundred years.
+The first English and Dutch colonists on this coast built small wooden towns. Each began as a fort, a wall or a few houses by the water, put up without a plan drawn ahead of time. In some of these towns, such as Boston, the streets formed one house at a time, and nobody decided in advance where they would go. In 1682 William Penn had his surveyor draw the whole of Philadelphia on paper before a single street existed on the ground. American town-builders copied that grid plan for the next two hundred years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fort towns, walls, and watchmen" -->
-Jamestown began in 1607 as a three-sided fort on the James River in Virginia. It was a defensive work, not a town. In the 1620s the surveyor William Claiborne laid out a settlement east of the fort called New Towne, with rows of houses instead of a stockade. A surveyor is the person who measures the ground and marks out where the streets and the lots will go.
+Jamestown began in 1607 as a three-sided fort on the James River in Virginia, and the English colonists built it for defense. A surveyor is a person who measures the ground and marks out where the streets and the lots will go. In the 1620s the surveyor William Claiborne laid out a settlement east of the fort called New Towne. It had rows of houses instead of a stockade, a wall of upright logs like the one around the fort.
 
-Santa Fe was founded about 1610 by Governor Pedro de Peralta, and it was planned around a central plaza in the Spanish pattern. The Palace of the Governors, on that plaza, has been in continuous use as a public building longer than any other in the United States.
+Governor Pedro de Peralta founded Santa Fe about 1610 and planned it around a central plaza, in the Spanish pattern. The Palace of the Governors stands on that plaza. People have used it as a public building without a break for longer than any other building in the United States.
 
-English colonists founded Boston in 1630, and nobody planned it at all. Colonists put their houses up near the waterfront, and the gaps left between the houses became the streets, bending around what was already on the ground: the hills of the Trimountain, the brooks, and the marshes. A well-known explanation says Boston's crooked streets follow old cow paths. That explanation is a legend, and it can be traced to a line Ralph Waldo Emerson wrote in 1860.
+English colonists founded Boston in 1630 without any plan. They put their houses up near the waterfront, and the gaps left between the houses became the streets. Those streets bend around the hills of the Trimountain, the brooks and the marshes that were already on the ground. According to a well-known story, Boston's crooked streets follow old cow paths. The story is a legend. Writers who have checked it, among them a writer for Boston Magazine in 2018, trace it to a line Ralph Waldo Emerson wrote in 1860.
 
-Boston's houses were wooden and close together. In 1631 Boston's leaders set a night watch: men who walked the streets after dark. That watch is where the Boston Police Department began.
+Boston's houses were wooden and stood close together. In 1631 Boston's leaders set up a night watch, a group of men who walked the streets after dark. The Boston Police Department's own history lists that watch as the start of the city's police.
 
-Africans held as property by the Dutch West India Company dug the trench for the wall that gave Wall Street its name. It ran clear across the top of New Amsterdam, on the southern tip of Manhattan, from the East River to the North River. They stood the timbers up in that trench and packed dirt and stones around each one. Soldiers, other servants of the Company, and the townsmen worked on it alongside them: the men who ordered the wall required every one of them to turn out and excused nobody. What they built was a plank wall about five or six feet high, river to river.
+Wall Street in New York City runs along the line of a wall that is long gone. Africans held as property by the Dutch West India Company dug the trench for that wall in 1653. The wall ran across the northern edge of New Amsterdam, the Dutch town on the southern tip of Manhattan. It stretched from the East River to the North River, which is now called the Hudson. The workers stood timbers up in the trench and packed dirt and stones around each one. Soldiers, other servants of the Company and the townsmen worked beside them, because the men who ordered the wall required every one of them to turn out and excused nobody. The finished wall was made of planks and stood about five or six feet high, from river to river.
 
-Petrus Stuyvesant, the Dutch director general, and the town court ordered it on March 13, 1653, because they had heard the English in New England were preparing to attack. The cost was reckoned at 3,166 guilders, raised from named townsmen. Officials reported the wall standing on July 28, 1653.
+Petrus Stuyvesant and the town court ordered the wall on March 13, 1653. Stuyvesant was the director general, the man who governed the Dutch colony of New Netherland for the Company. He and the court had heard that the English in New England were preparing to attack. The members of the court put the cost at 3,166 guilders, the Dutch money of the time. Townsmen paid that money in, and the court's minutes, its written record of each meeting, name every man who paid. Officials reported the wall finished on July 28, 1653.
 
-Some of the Africans who did that work had what the Dutch called half-freedom. Eleven of the Company's enslaved men, among them Paulo d'Angola, Simon Congo and Anthony Portuguese, had asked to be let go after eighteen or nineteen years of work, and on February 25, 1644 the director and council of New Netherland granted it to them and their wives, on conditions. They could hold land and go to court. But their children, born and unborn, stayed the property of the Dutch West India Company, they owed the Company a payment every year that Dutch colonists did not owe, and they had to come back and work for the Company whenever they were called.
+A Columbia University history project called MAAP names three of the men who dug the trench: Paulo d'Angola, Simon Congo and Anthony Portuguese. All three had what the Dutch called half-freedom. They were among eleven enslaved men of the Company who had asked to be let go after eighteen or nineteen years of work. On February 25, 1644, the director and council of New Netherland granted half-freedom to the eleven men and their wives, on conditions. Under half-freedom the eleven could hold land and go to court. But their children, "at present born or yet to be born," stayed the property of the Dutch West India Company. Each of the eleven owed the Company a payment every year that Dutch colonists did not owe, and each had to come back and work for the Company whenever its officials called.
 
-The wall is long gone. The street that ran along it is Wall Street.
-
-On August 12, 1658, the Dutch authorities in New Amsterdam put a rattle watch on the streets: paid night patrolmen carrying wooden rattles, noisemakers that clack loudly when spun, to raise the alarm. It was among the first paid public police forces in America.
+On August 12, 1658, Dutch officials in New Amsterdam put a rattle watch on the streets. Its members were paid night patrolmen. They carried wooden rattles, noisemakers that clack loudly when spun, to raise the alarm. The rattle watch was among the first paid public police forces in America.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Penn's plan" -->
-In 1682 William Penn appointed Thomas Holme his surveyor-general and had him lay out Philadelphia before the settlers arrived. Holme drew the grid in December 1682. His map, "A Portraiture of the City of Philadelphia," was published in 1683, and it was an advertisement as much as a working drawing: Penn wanted people to come.
-
-Nobody decided Boston's streets. Somebody decided Philadelphia's, drew them, and had them measured onto the ground before the settlers came.
+In 1682 William Penn made Thomas Holme his surveyor-general, the chief surveyor of his colony of Pennsylvania. Penn had Holme lay out Philadelphia before the English settlers arrived. Holme drew the grid in December 1682 and had it measured onto the ground. His map, "A Portraiture of the City of Philadelphia," was printed in 1683. Penn used the map to guide the work, and he also used it to advertise the town, because he wanted people to come and live there.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="william-penn" name="William Penn" movie="Penn of Pennsylvania (1941)" kind="famous" status="verified" -->
 ### William Penn
 
 > **Who:** The Quaker founder of Pennsylvania, who had Philadelphia planned on paper before it existed on the ground.
-> **When and where:** The grid laid out by his surveyor-general Thomas Holme in December 1682; Holme's map published in 1683.
-> **Movie:** *Penn of Pennsylvania* (1941), released in the United States as *The Courageous Mr. Penn* (1942). It is a life of Penn, not a film about the city plan.
+> **When and where:** The grid laid out by his surveyor-general Thomas Holme in December 1682, and Holme's map published in 1683.
+> **Movie:** *Penn of Pennsylvania* (1941), released in the United States as *The Courageous Mr. Penn* (1942). The film describes Penn's whole life and does not show the city plan.
 
-Penn wrote down what he wanted: "a greene Country Towne which will never be burnt, and always be wholesome." Not burnt, and not sick. That is what he was asking his surveyor to lay out.
+Penn wrote down the kind of town he wanted: "a greene Country Towne which will never be burnt, and always be wholesome." He wrote those words in his instructions for laying out the town. Wholesome meant healthy to live in.
 
-Holme drew a straight grid on the land between the Delaware and the Schuylkill rivers. Two wide main streets crossed it, Broad and High — High Street is now Market Street. The streets were made wide partly as a lesson from the fire that burned London in 1666 — wide enough to keep a fire from crossing from one row of houses to the next. Where the two main streets crossed, Holme put a large central square, and he put one smaller public square in each of the four quarters of the town.
+Holme drew a straight grid on the land between the Delaware and the Schuylkill rivers. Two wide main streets crossed it, Broad Street and High Street. High Street is now called Market Street. Holme drew the streets wide partly as a lesson from the fire that burned London in 1666. He made them wide enough to keep a fire from crossing from one row of houses to the next. Where the two main streets crossed, Holme placed a large central square, with one smaller public square in each of the four quarters of the town.
 
-All five are still there. The four quarter squares are now Logan, Franklin, Washington, and Rittenhouse. Philadelphia's City Hall stands on the center square.
+All five squares are still there. The four quarter squares are now Logan, Franklin, Washington and Rittenhouse squares, and Philadelphia's City Hall stands on the center square.
 <!-- hb-story:end slug="william-penn" -->
 <!-- hb-time:end id="1600s" -->
 
