@@ -64,7 +64,7 @@ European earthworms crossed the ocean hidden in ballast soil. Ballast is heavy m
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Forest over lost farms" -->
-After 1492, epidemics, war and famine killed most of the Native people of the Americas. An epidemic is a disease that spreads quickly to many people. A famine is a lack of food so great that people starve.
+After 1492, epidemics, war and famine killed most of the Native people of the Americas. An epidemic is a disease that spreads quickly to many people. A famine is a lack of food so great that people starve. European settlers brought the diseases, and so did enslaved Africans whom Europeans had carried across the ocean. The diseases included smallpox, measles and influenza, and Native people had never been exposed to any of them before. European conquerors made war on Native nations and enslaved Native people. Famine followed when too few people were well enough to farm.
 
 In 2019, a team of researchers at University College London, in England, published an estimate of what those deaths did to the land. They estimated that the Native population of the Americas fell from about 60 million to about 6 million within roughly a hundred years. Other scholars dispute the starting number. For North America north of Mexico alone, estimates run from 1 million to 18 million.
 
@@ -105,7 +105,7 @@ His words survive only in the writing of Lion Gardener, an English soldier. Gard
 
 Historians accept what Miantonomi said as believable. The exact wording is Gardener's, written by an Englishman years later.
 
-In 1643 Mohegan men captured Miantonomi and executed him, which means they put him to death. Leaders of the Connecticut colony approved his killing.
+In 1643 Uncas, the sachem of the Mohegan nation, captured Miantonomi and took him to Hartford. That September, the commissioners of the United Colonies of New England met in Boston. They were English officials from the Massachusetts Bay, Plymouth, Connecticut and New Haven colonies. They sentenced Miantonomi to death and handed him back to Uncas to carry out the sentence. Mohegan men took him to the place near present-day Norwich, Connecticut, where he had been captured. There Wawequa, the brother of Uncas, killed him with a hatchet blow to the head. By the account of the historian Neal Salisbury, several Englishmen went along to make sure the killing was carried out.
 <!-- hb-story:end slug="miantonomi" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -124,6 +124,8 @@ Under the White Pine Act of 1722, cutting any white pine more than 12 inches acr
 
 <!-- hb-zoom level="span" label="Worn-out tobacco fields" -->
 A tobacco field in colonial Virginia gave good crops for only three or four years. After that, planters cleared new ground and let the old field grow over with scrub, which is brush and small trees. The land around Jamestown wore out early. Planters moved up the rivers and reached the Rappahannock and the Potomac by about 1650. They kept moving up the rivers all through the 1700s. Because new land was cheap, planters kept wearing out one field after another.
+
+The new land along the Rappahannock River was the homeland of the Rappahannock Tribe. The tribe's own history states that English settlement there began illegally in the 1640s. Rappahannock leaders sold their first land to the English in 1651. They spent more than ten years in county courts trying to get paid for that sale and others, and they never received full payment. By the late 1660s, settlers and armed bands of settlers had forced the Rappahannock to move inland. In 1683 Virginia colonists removed the tribe by force to a place called Portobago Indian Town. Planters used indentured servants and enslaved Africans to work the tobacco fields. An indentured servant worked for a master for a set number of years to pay for the trip to America.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whaling from Nantucket" -->
