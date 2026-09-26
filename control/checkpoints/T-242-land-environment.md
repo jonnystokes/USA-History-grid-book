@@ -15,7 +15,7 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242b landed (part1 eras 1-5 written, 3,584 words, 2 stories).
+NOW:    T-242c writing part2, era 07 (1850-1900).
 NEXT:   T-242c: write part 2 (eras 6-7)
 
 ## Units
@@ -24,7 +24,7 @@ NEXT:   T-242c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | todo | |
+| 3 | part2 eras 6-7 | in-flight | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
@@ -64,3 +64,4 @@ NEXT:   T-242c: write part 2 (eras 6-7)
 - 2026-09-26 T-242b part1 1600s written (story miantonomi): file ~1,900 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1700-1750 written: file ~2,400 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1750-1800 written (story ebenezer-mudgett); self-review run. Part1 total 3,584 words, validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.
+- 2026-09-26 T-242c part2 1800-1850 written (stories john-james-audubon, henry-david-thoreau): file ~1,050 words, validator 0 errors, --punct emdash=0 semicolon=0.
