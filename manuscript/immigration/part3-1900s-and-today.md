@@ -82,7 +82,7 @@ The Emergency Quota Act of 1921 set the first number limits on immigration. The 
 
 The Immigration Act of 1924 cut the numbers much further. It is also called the Johnson-Reed Act, after the two lawmakers behind it. Representative Albert Johnson of Washington State was chairman of the House committee on immigration. David Reed was a senator from Pennsylvania. President Calvin Coolidge signed the law on May 26, 1924.
 
-Under the 1924 law, each country's quota was 2 percent of the people born there who lived in the United States in 1890. Lawmakers picked 1890 because it came before the large wave from southern and eastern Europe. Italy's yearly quota fell from more than 42,000 to fewer than 6,000. The law also shut out anyone "ineligible for citizenship," meaning anyone the law did not allow to become a citizen. Under that rule, almost no one from Asia could come in.
+Under the 1924 law, each country's quota was 2 percent of the people born there who lived in the United States in 1890. Lawmakers picked 1890 because it came before the large wave from southern and eastern Europe. Italy's yearly quota fell from more than 42,000 to fewer than 6,000. Lawmakers also shut out anyone "ineligible for citizenship," meaning anyone who could not become a citizen under US law. Under that rule, almost no one from Asia could come in.
 
 The total was capped at about 165,000 people a year. Under the 1921 law it had been about 355,000. About 86 of every 100 quota places went to northern and western Europe. About 9 went to southern and eastern Europe. With those limits, the great wave of immigration ended.
 
@@ -132,7 +132,7 @@ In 1948 members of Congress passed the Displaced Persons Act. It was the first r
 <!-- hb-zoom level="era" -->
 In 1954 federal officers rounded up Mexicans and Mexican Americans and sent them to Mexico. Many of the people they sent were US citizens. In 1965 members of Congress ended the quota system that had favored northern and western Europe since the 1920s. After that, the main sources of immigration shifted to Asia, Latin America, Africa and the Caribbean.
 
-Refugees came from Cuba after 1959 and from Vietnam, Laos and Cambodia after 1975. Figures from the United Nations refugee agency put the number of Vietnamese who died at sea while escaping by boat at 200,000 or more. In 1986 about 2.7 million people who had lived in the country for years without legal permission got legal status.
+Refugees came from Cuba after 1959 and from Vietnam, Laos and Cambodia after 1975. Figures from the United Nations refugee agency put the number of Vietnamese who died at sea while escaping by boat at 200,000 or more. About 2.7 million people who had lived in the country for years without legal permission got legal status under a 1986 law.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The braceros and Operation Wetback, 1954" -->
@@ -146,7 +146,7 @@ Border Patrol officers ran the roundups like military operations, and newspapers
 
 Seven deportees jumped from the *Mercurio*. The *Handbook of Texas* says a mutiny followed, meaning the people on board rose up against the crew. Other accounts say the seven drowned. After protests in Mexico, officials stopped sending people by ship.
 
-The historian Mae M. Ngai reports that 88 deported workers died of sunstroke after a roundup in July 1955, in heat of 112 degrees. Sunstroke is an illness in which the body gets so hot that it can no longer cool itself. A labor official told Ngai that more would have died without help from the Red Cross. Other deportees died of disease and other causes while officers held them. The sources checked for this chapter give no full count of the dead. None of them records any official being charged for the deaths.
+The historian Mae M. Ngai reports that 88 deported workers died of sunstroke after a roundup in July 1955, in heat of 112 degrees. Sunstroke is an illness in which the body gets so hot that it can no longer cool itself. A labor official told Ngai that more would have died without help from the Red Cross. Other deportees died of disease and other causes while officers held them. No one has made a full count of the dead. The sources for this chapter record no official charged for the deaths.
 
 INS officials claimed that as many as 1,300,000 people had left. That count included people who, officials said, had fled out of fear. An INS report gave nearly 1.1 million people caught. One encyclopedia explains that most of those people had been caught before the operation began, because the year the report counted ended on June 30, 1954. The real number of arrests was far lower. In the San Antonio district, officers caught slightly more than 80,000 people. In Texas in July 1954, officers held 42,000 people, and more than 63,000 left on their own. The historian Kelly Lytle Hernández puts the true number deported at "likely closer to 300,000." Many of the people deported were US citizens of Mexican descent. No one knows how many.
 <!-- /hb-zoom -->
@@ -221,3 +221,93 @@ On November 6, 1986, the Immigration Reform and Control Act was signed into law.
 Under IRCA, for the first time, employers who knowingly hired workers without legal permission could be punished. These punishments are called employer sanctions. After 1986 the number of people living in the country without legal permission grew again.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
+
+<!-- hb-time:start id="2000-today" order="10" chapter="immigration" label="2000 to Today" state="full" progress="written" -->
+## 2000 to Today
+
+<!-- hb-zoom level="era" -->
+About 47.8 million people living in the United States in 2023 had been born in another country, by the Census Bureau's count. That was 14.3 percent of the population, the highest share since 1910. More of them came from Mexico than from any other country.
+
+The US Border Patrol counted 895 migrant deaths along the border with Mexico in the year ending September 2022, the most on record. In April 2018 Attorney General Jeff Sessions announced a "zero tolerance" policy, and Border Patrol agents then took thousands of children from their parents. In January 2026 immigration officers held more than 71,000 people in detention, the most ever, according to a report by two human rights groups. The figures in this section are current to September 2026 and will change.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Who comes now" -->
+In 2023 the Census Bureau's American Community Survey counted about 47.8 million foreign-born people in the United States. Foreign-born means born in another country. They made up 14.3 percent of everyone living here. That was the highest share since 1910, when it was 14.7 percent. The highest share ever recorded was 14.8 percent, in 1890. The lowest was 4.7 percent, in 1970.
+
+Researchers at the Pew Research Center counted where the immigrants living here in 2023 were born. About 11 million came from Mexico, 22 of every 100 immigrants. India came next with 3.2 million, then China with 3 million, the Philippines with 2.1 million and Cuba with 1.7 million. About 52 of every 100 immigrants were born in Latin America, and 27 of every 100 in Asia. The Pew researchers found that immigration from Mexico has slowed since about 2007.
+
+In earlier centuries, slave traders brought Africans here by force. Today Africans and Caribbean people come by choice. Researchers at the Migration Policy Institute found that immigrants from Africa south of the Sahara Desert roughly tripled in number from 2000 to about 2.5 million in 2024. Communities of people born in Jamaica, Haiti, the Dominican Republic and other Caribbean countries also grew.
+
+Researchers at Pew and at the Department of Homeland Security estimate how many people live in the country without legal permission. Their estimates reached about 12 million in 2007, then fell to about 11 million, and rose again in the 2020s. The estimates are uncertain.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Homeland Security and DACA" -->
+After the attacks of September 11, 2001, members of Congress passed the Homeland Security Act of 2002. With it, lawmakers created the Department of Homeland Security (DHS), which began work in 2003. The old INS was broken up. Its immigration work went to three new DHS agencies: US Citizenship and Immigration Services (USCIS), Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). ICE officers arrest and hold immigrants inside the country. CBP officers, including the Border Patrol, work at the borders.
+
+On June 15, 2012, DHS officials started DACA, short for Deferred Action for Childhood Arrivals. Under DACA, some people who were brought to the country as children can apply to have their removal from the country deferred, or put off, and to work legally. Opponents have challenged DACA in court again and again.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Deaths at the border" -->
+Every year hundreds of migrants die trying to cross from Mexico into the United States. Border Patrol officials count these deaths by the federal budget year, which runs from October to September. Their count was 281 in 2018, 300 in 2019, 254 in 2020, 568 in 2021 and 895 in 2022. The 2022 count is the highest on record. For 2023, auditors at the Government Accountability Office, which checks federal agencies for Congress, counted 704 deaths and more than 5,800 rescues in a report of April 2025. This chapter includes no Border Patrol count for 2024 or 2025, because none was found.
+
+The Border Patrol's counts are too low. In 2022 the government's own auditors found that Border Patrol officials had not collected complete records of migrant deaths. They had left out deaths found by sheriffs, medical examiners and other agencies. The auditors later reported that Border Patrol officials had made the changes they asked for.
+
+People die of heat and thirst in the desert. They drown in the Rio Grande. Some die during or after chases by Border Patrol agents, and some die in custody, meaning while officers are holding them. Investigators inside CBP counted 171 deaths in the 2022 budget year in which CBP officers were involved "in some way." Of those people, 52 died in CBP custody.
+
+The International Organization for Migration (IOM), a United Nations agency, keeps a second count. Its researchers recorded 686 deaths and disappearances on the US-Mexico border in 2022, and they called it "the world's deadliest migration land route." Of those people, 307 died crossing the Sonoran and Chihuahuan deserts, most of them from heat. The IOM researchers say their figures are the lowest possible counts, because Texas county coroners and Mexican search teams do not report every death to them.
+
+For 2025, IOM researchers counted 409 migrant deaths in all of North and South America, the lowest count since 2014. They linked the drop to fewer people trying to cross the US-Mexico border and the Darién, a jungle between Colombia and Panama. In February 2026 they said the 2025 figures would not be final until the middle of 2026.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Children taken from their parents, 2018" -->
+On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy. The Attorney General is the head of the Justice Department. Sessions told federal prosecutors along the southwest border to charge with a crime every adult whom DHS officers sent to them for crossing the border illegally. That included parents who came with their children. Officers sent the parents to criminal custody, and Border Patrol agents took their children away from them.
+
+On May 7, 2018, Sessions said in a speech, "If you are smuggling a child, then we will prosecute you and that child will be separated from you as required by law." In 2017, under a trial program in El Paso, Texas, officials had already separated about 280 families.
+
+Michael Horowitz, the Justice Department's inspector general, later investigated. An inspector general is an official who checks the work of a government department. In January 2021 he reported that Sessions "and a small number of other DOJ officials understood at the time the zero tolerance policy was issued in April 2018 that DHS would change its long-standing practice" and separate families. He found that the Attorney General's office "was a driving force" in that change. He also wrote that the department's "single-minded focus on increasing immigration prosecutions came at the expense of careful and appropriate consideration of the impact of child separations."
+
+Officials deported hundreds of parents without their children before a court ordered the families put back together in June 2018. Counts of the children differ, because each measures something different. A federal task force counted 3,924 children taken from their parents between January 20, 2017, and January 20, 2021. In February 2023 the task force said that more than 600 had been reunited by then. It said that 998 were still separated and that the true number still apart was "likely greater than 1,000."
+
+On December 11, 2023, a federal court approved a settlement in a lawsuit brought by the American Civil Liberties Union, called *Ms. L. v. ICE*. A settlement is an agreement that ends a lawsuit. It covers an estimated 4,500 to 5,000 children and their parents. By March 20, 2024, the task force had confirmed 1,120 separated children as part of that group. No source gives a final number of children returned to their parents. No official has been charged for the separations, as far as the sources for this chapter show.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Arrests, detention and deportation, 2025 and 2026" -->
+Donald Trump took office as president on January 20, 2025. The figures in this span describe the time since then. Detention means holding people in locked centers while officials decide whether to deport them.
+
+In January 2026 ICE officers held more than 71,000 people in detention, a record. Human Rights Watch and Physicians for Human Rights gave that figure in a report of June 25, 2026. ABC News reported on July 21, 2026, that ICE officers held 65,765 people, citing figures ICE had posted.
+
+The same report counted 52 people who died in ICE custody from January 20, 2025, to June 4, 2026. Thirty-nine of them died in the first year. Of those 39, seven were apparent suicides, meaning they appeared to have killed themselves, and five died of injuries. The others died of strokes, heart failure, long-term illness and failure to breathe. The death rate reached about 8.4 for every 10,000 people held, which the report describes as "nearly four times" the rate under the previous president.
+
+Removal is the government's word for deportation. ABC News reported that ICE had posted 356,389 removals in the 2026 budget year through about July 21, 2026. For the 2025 budget year, the immigration researcher Austin Kocher counted about 329,018 ICE removals. On January 20, 2026, DHS officials claimed "more than 675,000 deportations" and "an estimated 2.2 million self-deportations" in the year since January 20, 2025. Self-deportation means leaving the country on one's own out of fear of arrest. Kocher notes that DHS officials have not published how they count these numbers. He found that ICE's own removals made up only about 54 percent of an earlier DHS claim of 605,000. In that same year, by the DHS count, officers caught 90,084 people along the southwest border.
+
+Federal immigration officers shot and killed at least four people from January 2025 to late January 2026, PBS NewsHour reported. One was Silverio Villegas González, a citizen of Mexico, shot in Chicago on September 12, 2025. ICE officer Jonathan Ross shot Renée Nicole Good, a US citizen, in Minneapolis on January 7, 2026. CBP officers shot Alex Pretti in Minneapolis on January 24, 2026. As of that report, no officer had been charged.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="giannis-antetokounmpo" name="Giannis Antetokounmpo" movie="Rise (2022)" kind="famous" status="verified" -->
+### Giannis Antetokounmpo
+
+> **Who:** A basketball player born in Greece to Nigerian parents. He grew up a citizen of no country and came to the United States when an NBA team picked him in 2013.
+> **When and where:** Born December 6, 1994, in Athens, Greece. Came to the United States in 2013, at 18, to play for the Milwaukee Bucks.
+> **Movie:** *Rise* (2022), a Disney+ drama about the Antetokounmpo family, made with the family. It is a dramatization, not a documentary.
+
+Giannis Antetokounmpo grew up stateless, meaning no country counted him as its citizen. In 2013, at the age of 18, he came to the United States to play basketball for the Milwaukee Bucks.
+
+He was born in Athens on December 6, 1994. His parents, Charles and Veronica Antetokounmpo, were immigrants from Nigeria with no legal status in Greece. Under Greek law, a child does not become a citizen just by being born in Greece. As boys, Giannis and his brothers sold goods on the street.
+
+Greek officials made him a citizen in 2013. A few weeks later, in June 2013, the Bucks' managers picked him 15th in the NBA draft, the yearly event in which teams choose new players. He was named the league's Most Valuable Player in 2019 and in 2020. In 2021 he won the NBA championship with the Bucks and was named the most valuable player of the finals. His parents and brothers joined him in the United States.
+<!-- hb-story:end slug="giannis-antetokounmpo" -->
+
+<!-- hb-story:start slug="lost-boys-of-sudan" name="Peter Dut and Santino Chuor, Lost Boys of Sudan" movie="Lost Boys of Sudan (2003)" kind="ordinary" status="verified" -->
+### Peter Dut and Santino Chuor, Lost Boys of Sudan
+
+> **Who:** Two Dinka teenagers who lost their parents in Sudan's civil war and lived for years in a refugee camp in Kenya. They were among the "Lost Boys" resettled in the United States.
+> **When and where:** From Sudan. Kakuma refugee camp, Kenya. Houston, Texas, in their first year in the United States, during the resettlement that began in 2001.
+> **Movie:** *Lost Boys of Sudan* (2003), a documentary that follows these two young men. Megan Mylan and Jon Shenk made it. It was nominated for an Emmy and won the Truer Than Fiction Award at the Independent Spirit Awards.
+
+Peter Nyarol Dut and Santino Majok Chuor were two of about 4,000 young refugees from Sudan who were resettled in the United States starting in 2001. They were called the "Lost Boys of Sudan."
+
+They were Dinka, a people of southern Sudan. Both boys lost their parents in Sudan's civil war, a war between groups inside one country. They survived a long walk out of Sudan and then spent years in Kakuma, a refugee camp in Kenya.
+
+The documentary follows their first year in the United States, which began in Houston. After a time, Peter left Houston for Kansas to go to high school.
+<!-- hb-story:end slug="lost-boys-of-sudan" -->
+<!-- hb-time:end id="2000-today" -->

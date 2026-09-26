@@ -1,6 +1,6 @@
 # CHECKPOINT T-237 | immigration | prose (Phase 2, first new chapter) | 10 eras, 3 part files
 
-STATUS: IN-FLIGHT
+STATUS: WRITTEN (prose check PASS 2026-09-26). One story held: tung-trinh.
 VERIFY: python tools/project_state.py --check immigration --stage prose
         (per part: node tools/validate_grid.js <file> --part · python tools/project_state.py --punct <file>)
 BRIEF:  standard WRITING brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237c: part 3 eras 1900-1950 and 1950-2000 landed (units 8, 9). Next era 2000-today.
-NEXT:   part 3, era 2000-today (unit 10).
+NOW:    T-237c DONE: part 3 eras 1900-1950, 1950-2000, 2000-today written. 0 validator errors, emdash=0 semicolon=0, 8 stories. Chapter prose check PASS (10/10 eras, 20 stories).
+NEXT:   add the tung-trinh story after Jon's ruling, then the director runs the prose check.
 
 ## Units
 
@@ -28,7 +28,7 @@ NEXT:   part 3, era 2000-today (unit 10).
 | 7 | part2 era 1850-1900 | landed (revised T-237b2) | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
 | 8 | part3 era 1900-1950 | landed | file created. 6 spans (Ellis/melting pot, Angel Island, quotas, eugenics, Mexican Repatriation + braceros, St. Louis + DP Act) + stories frank-capra, doukenie-bacos, lee-puey-you |
 | 9 | part3 era 1950-2000 | landed | 5 spans (braceros + Operation Wetback, 1965 law, Cubans/Mariel + Refugee Act, Southeast Asian refugees and boat deaths, IRCA) + stories antonio-garcia-bracero, reinaldo-arenas, sergey-brin. tung-trinh HELD |
-| 10 | part3 era 2000-today | todo | |
+| 10 | part3 era 2000-today | landed | 5 spans (who comes now, DHS + DACA, border deaths, 2018 separations, enforcement 2025-26) + stories giannis-antetokounmpo, lost-boys-of-sudan |
 
 ## Outline claims NOT in the bank (left out, per DECISIONS #13)
 
@@ -59,8 +59,16 @@ NEXT:   part 3, era 2000-today (unit 10).
 - [T-237c] Brin "faced ... discrimination" kept only as the bank's "blocked and harassed professionally".
 - [T-237c] Hart-Celler "rebuilt the system on family ties and skills" kept. Outline names no signer and neither does the bank (no LBJ, no Reagan for IRCA). Prose names no signer.
 
+- [T-237c, 2000-today] Outline era line "the argument over immigration becomes one of the country's loudest" (interpretation). Left out.
+- [T-237c] Giannis "selling sunglasses and watches" (bank: "sold goods"), "led Milwaukee to the 2021 championship" (bank: champion and Finals MVP). Written as bank.
+- [T-237c] Lost Boys "a walk of hundreds of miles", "jobs, night classes, loneliness, and small footholds", "Santino in Houston", "to chase a high-school diploma", "In 2001 they were among" (bank: "resettled ... beginning 2001"). Left out or written as bank.
+- [T-237c] "Donald Trump took office as president on January 20, 2025": taken from the bank's DHS release ("record-breaking year under President Trump", counting from January 20, 2025). Director may want this line checked against the bank wording.
+
 ## BLOCKING GAPS
 
+- [T-237c, 2000-today] LOST BOYS: bank says only "orphaned in Sudan's civil war". It does not say who killed their parents or drove them out (which forces, which years). Prose: "lost their parents in Sudan's civil war".
+- [T-237c, 2000-today] SILVERIO VILLEGAS GONZALEZ: bank names him among at least four people shot and killed by federal immigration officers, but not the agency or officer who shot him. Prose: "Federal immigration officers shot and killed at least four people ... One was Silverio Villegas Gonzalez".
+- [T-237c, 2000-today] 2018 SEPARATIONS: bank names Sessions and the DOJ side (Horowitz) but no DHS official who ordered or carried out the separations (DHS Secretary, CBP leadership), and does not name the president in 2018. Prose names Sessions, Horowitz, "Border Patrol agents", "DHS officers".
 - [T-237c, 1950-2000] tung-trinh story held for Jon's ruling. Slug `tung-trinh` not written. Boat people covered in hb-zoom prose without that account.
 - [T-237c, 1950-2000] PIRATES UNNAMED: bank gives the 1981 UNHCR piracy figures (349 boats attacked, 228 women abducted, 881 dead or missing) and "pirates robbed and raped ... murdered some" but not who the pirates were (from where, which fishing fleets). Prose says "pirates". Bank needs the attackers' identity.
 - [T-237c, 1950-2000] OPERATION WETBACK 1955 SUNSTROKE DEATHS: bank gives 88 deaths "after a roundup in 112-degree heat" (Ngai, via a search summary) but not what officers did to the men (where they were left, by whom). Prose states the bank fact only. Also the *Mercurio* seven: jumped, then mutiny (Handbook) vs drowned (other summaries). Both stated.
@@ -112,9 +120,15 @@ NEXT:   part 3, era 2000-today (unit 10).
 - [T-237c, 1950-2000] PERSONIFICATION (bank): "Mexican public outcry ended the boat removals" -> "After protests in Mexico, officials stopped sending people by ship". "The INS planned it with the Mexican government" -> "INS officials planned it with officials of the Mexican government". Refugee Act "created a permanent system" -> "lawmakers created". Orderly Departure Program "brought about 500,000" -> "About 500,000 more Vietnamese came ... through the program". "The US took 402,382" -> "US officials accepted".
 - [T-237c] Glosses (1950-2000, general knowledge, definitions only): slur, Rio Grande = river along Texas-Mexico border, commissioner, mutiny, sunstroke, Western Hemisphere, gay, persecuted, AIDS, Saigon = capital of South Vietnam taken by North Vietnam's army 1975 at the end of the Vietnam War, Hmong = a people from the mountains of Laos, rape, Soviet Union = communist country ruled by one party, NASA = US space agency, employer sanctions (bank).
 
+- [T-237c, 2000-today] OUTLINE OMISSION: outline era 2000-today has no border deaths, no 2018 separations, no 2025-26 enforcement. Written from the T-238 patch with dated figures and named sources (CBP, GAO, IOM, CBP OPR, DOJ OIG Horowitz, FRTF, ACLU settlement, HRW/PHR, ABC News, Kocher, DHS claims attributed as claims, PBS NewsHour).
+- [T-237c, 2000-today] PERSONIFICATION (bank): "DACA established by the Department of Homeland Security" -> "DHS officials started DACA". "Immigration duties moved from the old INS" -> "Its immigration work went to three new DHS agencies". GAO/IOM/Pew/MPI as actors -> "auditors at", "researchers at". "The government deported hundreds of parents" -> "Officials deported". "A 2017 pilot program had separated about 280 families" -> "under a trial program ... officials had already separated".
+- [T-237c] Glosses (2000-today, general knowledge, definitions only): foreign-born, Sahara Desert, ICE/CBP roles (one line), deferred, budget year (bank: October to September), custody, Darien = jungle between Colombia and Panama, Attorney General = head of the Justice Department, inspector general, settlement, detention, removal, self-deportation, stateless, NBA draft, Dinka = a people of southern Sudan, civil war.
+
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | part3 self-review done (T-237c) | 5,790 prose words, avg sentence 13.8 | 0 errors (--part), 8 stories | emdash=0 semicolon=0 | chapter prose check PASS (10/10 eras, 20 stories, 15,288w)
+- 2026-09-26 | 10 2000-today (T-237c) | ~1,800 prose, 5 spans, 2 stories | 0 errors (--part), 8 stories | emdash=0 semicolon=0
 - 2026-09-26 | 9 1950-2000 (T-237c) | ~2,000 prose, 5 spans, 3 stories (tung-trinh held) | 0 errors (--part), 6 stories | emdash=0 semicolon=0
 - 2026-09-26 | 8 1900-1950 (T-237c) | ~2,300 prose, 6 spans, 3 stories | 0 errors (--part), 3 stories | emdash=0 semicolon=0
 - 2026-09-26 | 7 1850-1900 revised from patched bank (T-237b2) | Bloody Monday in Know-Nothing span, railroad pay/strike/deaths (50 to 1,200, no record), new span Attacks on Chinese immigrants 1871-1887, pogroms/May Laws (Ignatiev, Alexander III). Part now 5,300 words (was 2,808) | 0 errors (--part) | emdash=0 semicolon=0
