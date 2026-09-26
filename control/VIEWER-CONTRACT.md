@@ -123,7 +123,7 @@ book note; after `hb-chapter` but outside an era → chapter note (accumulates);
 
 ---
 
-## 2 · Writing rules — the do/don't checklist
+## 2 · Writing rules: the do/don't checklist
 
 ### Markers
 - DO put every marker alone on its own line as a single-line `<!-- … -->` comment.
@@ -131,15 +131,15 @@ book note; after `hb-chapter` but outside an era → chapter note (accumulates);
 - DO double-quote every attribute value. DON'T use single quotes.
 - DON'T put `"` or `-->` inside an attribute value.
 - DO write `hb-time:start`/`hb-time:end` and `hb-story:start`/`hb-story:end`.
-  DON'T write a bare `<!-- hb-time … -->` — it silently *closes*.
+  DON'T write a bare `<!-- hb-time … -->`. It silently *closes*.
 - DO write `<!-- hb-zoom … -->` … `<!-- /hb-zoom -->` and `<!-- hb-note -->` … `<!-- /hb-note -->`.
-- DON'T invent new `hb-*` marker names — they are silently deleted.
+- DON'T invent new `hb-*` marker names. They are silently deleted.
 
 ### Structure
 - DO give every chapter all ten canonical eras, exactly once each.
-- DON'T repeat an era id inside one chapter or across part files — the second silently
+- DON'T repeat an era id inside one chapter or across part files. The second silently
   overwrites the first, with no error.
-- DO keep every zoom/story block **inside** an `hb-time` section; blocks outside one are
+- DO keep every zoom/story block **inside** an `hb-time` section. Blocks outside one are
   silently discarded.
 - DO close every zoom and story block explicitly, and close the last one before EOF.
 - DO keep chapter `id` zero-padded to two digits.
@@ -149,27 +149,27 @@ book note; after `hb-chapter` but outside an era → chapter note (accumulates);
 ### Content inside blocks
 Supported by `mdBlock` / `inline`:
 - Paragraphs, separated by blank lines. **Single newlines are joined with a space.**
-- `**bold**` — no `*` may appear inside.
+- `**bold**`. No `*` may appear inside.
 - `*italic*`.
 - `[text](https://…)` links and bare `http(s)://…` autolinks.
-- `> **Key:** value` records; continuation lines `> more` append to the previous value.
+- `> **Key:** value` records. Continuation lines `> more` append to the previous value.
   A key matching `/movie|film/i` gets the `.film` (indigo) class.
   **Records render only inside `hb-story` blocks.**
 - **Bullet lists (v2):** `- item` or `* item` → `<ul class="md-list">`, one `<li>` per line.
   A bullet run ends at a blank line, a paragraph line, or a `>` record.
 - **`[VERIFY…]` tags (v2):** rendered as `<span class="vtag">` ochre badges. Fine in
-  outline mode; **must still be gone from finished prose** — the badge is a review aid,
+  outline mode. **They must be gone from finished prose.** The badge is a review aid,
   not book content.
 
-Not supported — do not write these:
+Not supported. Do not write these:
 - `#`–`######` headings inside blocks (silently discarded).
-- Nested lists (the inner level flattens — indentation is stripped by `l=raw.trim()`).
+- Nested lists (the inner level flattens, because indentation is stripped by `l=raw.trim()`).
 - Numbered lists (`1. item` renders as a literal paragraph).
 - Tables (render as one literal run-on line).
 - Fenced or indented code blocks.
 - Images (render as a stray `!` plus a link).
 - Raw HTML of any kind (escaped, shown literally).
-- **Multi-line** comments inside blocks (they leak as visible text; single-line ones are
+- **Multi-line** comments inside blocks (they leak as visible text. Single-line ones are
   dropped safely in v2).
 
 ---

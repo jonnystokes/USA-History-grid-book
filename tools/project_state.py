@@ -10,6 +10,7 @@ Usage:
     python tools/project_state.py <slug>          # one chapter, verbose
     python tools/project_state.py --check <slug> --stage research
     python tools/project_state.py --json          # machine-readable
+    python tools/project_state.py --punct <file>  # em dashes / semicolons left (style v2)
 
 --check exits 0 only if the chapter genuinely meets the definition of done for
 that stage. That exit code is the ONLY acceptable proof a task is complete.
@@ -319,6 +320,27 @@ def all_slugs():
 
 def main():
     args = sys.argv[1:]
+    if "--punct" in args:
+        # Per-file em dash / semicolon finder for writers (style guide v2). Lists every
+        # reader-facing line that still holds one, with its line number.
+        path = args[args.index("--punct") + 1]
+        with open(path, encoding="utf-8") as f:
+            text = f.read()
+        dash, semi = punctuation(text)
+        print("%s: emdash=%d semicolon=%d" % (path, dash, semi))
+        in_note = False
+        for no, line in enumerate(text.split("\n"), 1):
+            m = RE_MARK.match(line)
+            if m:
+                if m.group(2) == "hb-note":
+                    in_note = not m.group(1)
+                continue
+            if in_note or line.strip().startswith("<!--"):
+                continue
+            clean = RE_ENTITY.sub("", line)
+            if "\u2014" in clean or ";" in clean:
+                print("  %5d: %s" % (no, line.strip()[:110]))
+        return 0 if dash == semi == 0 else 1
     if "--check" in args:
         i = args.index("--check")
         slug = args[i + 1]

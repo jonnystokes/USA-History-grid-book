@@ -92,16 +92,16 @@ A section moves wide → close and may pull back out and in again. Blocks are a 
 
 Reusing an `era` or `span` block after a story = the narrator pulling back out before the next story (the intended weave). Comments do not nest; keep blocks flat and let `level` carry depth.
 
-## 7b. Parser-compatibility rules (the shipped viewer enforces these — full list in `VIEWER-COMPAT.md`)
+## 7b. Parser-compatibility rules (the shipped viewer enforces these. Full list in `VIEWER-COMPAT.md`)
 - Every `hb-*` marker sits **alone on its own line**, as a **single-line** comment. Attributes double-quoted, no `"` in values.
 - **All ten eras present in every chapter**, including `state="empty"` ones. `chapter="…"` = the chapter **slug**.
 - **Story slugs are globally unique across the whole book.** Same person in several chapters → suffix each with the chapter slug (`benjamin-franklin-technology`, `benjamin-franklin-money`).
 - Chapter `id` stays zero-padded two digits (it is the sort key).
 - Inside blocks: paragraphs, `**bold**`, `*italic*`, links, `> **Key:** value` records, and `- ` / `* ` bullets only (bullets need viewer **v2**). **No headings-as-content, no tables, no code blocks, no images, no nested or numbered lists, no HTML, and never a comment inside a block.**
-- ⚠ **`> **Key:** value` records render only inside `hb-story`.** Put one in an `hb-zoom` and it is parsed and thrown away — it appears nowhere, with no error.
-- ⚠ **An unclosed `hb-zoom` or `hb-story` is never reported** by the viewer or the validator; its content is silently lost. Close every block, and close the last one before end of file.
+- ⚠ **`> **Key:** value` records render only inside `hb-story`.** Put one in an `hb-zoom` and it is parsed and thrown away. It appears nowhere, with no error.
+- ⚠ **An unclosed `hb-zoom` or `hb-story` is never reported** by the viewer or the validator. Its content is silently lost. Close every block, and close the last one before end of file.
 
-## 8. hb-story — a featured person (zoom level 3)
+## 8. hb-story: a featured person (zoom level 3)
 
 ```html
 <!-- hb-story:start slug="annie-moore" name="Annie Moore" movie="" kind="famous" status="verified" -->

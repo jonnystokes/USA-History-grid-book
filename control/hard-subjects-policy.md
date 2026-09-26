@@ -28,7 +28,7 @@ not about toughness.
 ## 2. The seven forbidden moves
 
 Each one produces a passage in which no single word is a lie and the whole is false. All seven are
-forbidden. Each **after** is real text from this book at the file and line named; each **before** is a constructed contrast, not something the book says.
+forbidden. Each **after** is real text from this book at the file and line named. Each **before** is a constructed contrast, not something the book says.
 
 **1 · Euphemism:** a mild word standing in for the act.
 - Before: "Students who broke the rules were disciplined."
@@ -95,7 +95,7 @@ kept their languages in secret, and made the friendships that seeded the next ce
 
 **Where the record shows no such close, do not supply one.** An invented act of
 survival, resistance or repair is still an invented fact, and ruling C outranks this
-pattern. Some events end in nothing but the harm; end there and let it stand.
+pattern. Some events end in nothing but the harm. End there and let it stand.
 
 A chapter that tells Native children's deaths at this depth while flinching from lynching or
 Tuskegee is not being kind. It is being inconsistent about whose suffering gets stated plainly.
@@ -146,7 +146,7 @@ reach for horror. One plain sentence of what was done is stronger than a paragra
 adjectives, and it is the only version the reader will trust.
 
 **Where the record does not say which method was used, say that it does not say.** Never
-guess a procedure. An unknown method stated as unknown is honest; an invented one is the
+guess a procedure. An unknown method stated as unknown is honest. An invented one is the
 worst failure in this project.
 
 ## 4. The naming rule: never invent a name
@@ -198,11 +198,11 @@ State it once, at full accuracy, and move on. Do not repeat the harm for effect 
 | Chapter | Ruling |
 |---|---|
 | `native-nations` | Line 183 is the book's standard. Floor, not ceiling. Every ruling below follows from it. |
-| `crime-justice` | **Name one lynching victim and say what was done.** Every other chapter carries real named people; a statistics-only chapter would be the one place the book turns a person into a number. The campaign against lynching stays `rights-movements`'. |
+| `crime-justice` | **Name one lynching victim and say what was done.** Every other chapter carries real named people. A statistics-only chapter would be the one place the book turns a person into a number. The campaign against lynching stays `rights-movements`'. |
 | `health` | **The Tuskegee study gives the documented bodily course of untreated syphilis**, from the sources. Precedent: the Radium Girls (`elements.md:140`), the same kind of harm, people used as material. |
-| `education` | **A named beaten child if a source supports one; otherwise stay at the documented implements-and-rules level.** Do not invent a representative child. An honest implements-level telling beats a composite. |
+| `education` | **A named beaten child if a source supports one. Otherwise stay at the documented implements-and-rules level.** Do not invent a representative child. An honest implements-level telling beats a composite. |
 | `drugs-alcohol` | **Named living survivors only from already-published, on-the-record accounts.** Never approach anyone, never use a private story. Unnamed or aggregate otherwise. |
-| `war` | **Go to individual scale:** the single soldier's wound and death, not only unit-and-number. The book already does this for civilians killed by soldiers (`native-nations.md:171`, `:186`); holding `war` at abstraction would make soldiers the only people it will not look at directly. |
+| `war` | **Go to individual scale:** the single soldier's wound and death, not only unit-and-number. The book already does this for civilians killed by soldiers (`native-nations.md:171`, `:186`). Holding `war` at abstraction would make soldiers the only people it will not look at directly. |
 
 ---
 
