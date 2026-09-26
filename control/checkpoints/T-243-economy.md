@@ -18,7 +18,7 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243c landed 2026-09-26 (part2, eras 6-7, about 4,350 prose words, validator clean, punct 0/0).
+NOW:    T-243d in flight: part3 1900-1950 landed, writing 1950-2000.
 NEXT:   T-243d: write part 3 (eras 8-10)
 
 ## Units
@@ -28,7 +28,7 @@ NEXT:   T-243d: write part 3 (eras 8-10)
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | todo | |
+| 4 | part3 eras 8-10 | in-flight | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -86,3 +86,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243b: 1750-1800 written (story alexander-hamilton-economy). Self-review run. Part 1 total 3,414 prose words, 246 sentences, mean 13.9 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Unit 2 landed.
 - 2026-09-26 T-243c: 1800-1850 written (~2,000 prose words, 7 spans, story philip-hone-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. Keweenaw copper (parked era-6 section) placed here.
 - 2026-09-26 T-243c: 1850-1900 written (8 spans, stories andrew-carnegie-economy, john-d-rockefeller-economy). Self-review run. Part 2 total about 4,350 prose words, 315 sentences, mean 13.8 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Bank defect fixed in prose: the patch says Southern states "then" leased prisoners after the 13th Amendment, but also dates Alabama's lease from 1846. Prose says officials leased prisoners "under that exception" and keeps 1846. Unit 3 landed.
+- 2026-09-26 T-243d: 1900-1950 written (~2,300 prose words, 7 spans, stories henry-ford-economy, benjamin-roth-economy, frances-perkins-economy). validate --part 0 errors. --punct emdash=0 semicolon=0.
