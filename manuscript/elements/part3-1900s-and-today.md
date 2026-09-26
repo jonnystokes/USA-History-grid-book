@@ -16,13 +16,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 In 1937, people made an element for the first time, using material from a machine at Berkeley, California. By the end of 1949, teams working in the United States had made or found seven more elements. They were astatine, neptunium, plutonium, curium, americium, promethium and berkelium.
 
-In the same fifty years, the elements Americans dug up and used poisoned many of the people who worked with them. Women who painted watch dials swallowed radium and died of it. Workers who made a lead additive for gasoline died of lead poisoning. Arsenic from a copper smelter in Montana killed farm animals. From 1941, Navajo and other Native miners dug uranium without being warned of its dangers.
+In the same fifty years, the elements Americans dug up and used poisoned people who worked with them. Women who painted watch dials swallowed radium and died of it. Workers who made a lead additive for gasoline died of lead poisoning. Arsenic from a copper smelter in Montana killed farm animals. From 1941, Navajo and other Native miners dug uranium. Navajo miners later reported that no one had told them of its dangers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The well that would not burn" -->
 Helium is an element, a gas that does not burn. In May 1903, a drilling company struck a roaring gas well on William Greenwell's farm near Dexter, Kansas. The people of Dexter planned a celebration. They pushed a burning bale of hay toward the gas to light a giant flame, and the gas put the fire out. Local people made fun of it as "wind gas."
 
-Erasmus Haworth, a Kansas geologist, carried samples of the gas to the University of Kansas. There the chemists Hamilton P. Cady and David F. McFarland tested it. On December 7, 1905, they showed that the gas was 1.84 percent helium. Scientists had thought helium was very rare on Earth. Cady and McFarland found large amounts of it in the natural gas under the Great Plains.
+Erasmus Haworth, a Kansas geologist, carried samples of the gas to the University of Kansas. There the chemists Hamilton P. Cady and David F. McFarland tested it. On December 7, 1905, they showed that the gas was 1.84 percent helium. Scientists had thought helium was rare on Earth. Cady and McFarland found large amounts of it in the natural gas under the Great Plains.
 
 Airships flew in World War I, and helium became valuable to armies because it does not burn. In 1925 the members of Congress passed the Helium Act. Under it, federal workers began producing helium and storing it underground in the Bush Dome of the Cliffside gas field, near Amarillo, Texas. That store became the Federal Helium Reserve. For decades it held nearly all of the world's supply of helium.
 
@@ -65,7 +65,7 @@ In Illinois, supervisors at Radium Dial told the women the paint was safe, and e
 
 The lawyer Leonard J. Grossman took Catherine Donohue's case for no pay. The case went before the Illinois Industrial Commission, a state board that decided claims by workers hurt on the job. During the hearing she learned that her illness would kill her, and she collapsed. The hearing moved to her home. On April 5, 1938, the commissioners ruled that her work at Radium Dial had made her sick. They awarded her $277 a year for life. In July 1938 they threw out the company's appeal and added $730.
 
-Catherine Donohue died on July 27, 1938, at the age of 35. Grossman said hers was the eleventh death among women who had done that work at the plant. Northern Public Radio later counted fifteen Ottawa workers dead of radium. Radium Dial's lawyers appealed all the way to the United States Supreme Court and lost, and the case ended in October 1938. Because Radium Dial had left Illinois, the Ottawa women together collected only $10,000.
+Catherine Donohue died on July 27, 1938, at the age of 35. According to NPR Illinois, she weighed less than 60 pounds when she died. Grossman said hers was the eleventh death among women who had done that work at the plant. Northern Public Radio later counted fifteen Ottawa workers dead of radium. Radium Dial's lawyers appealed all the way to the United States Supreme Court and lost, and the case ended in October 1938. Because Radium Dial had left Illinois, the Ottawa women together collected only $10,000.
 
 Joseph Kelly lost his post as Radium Dial's president in 1934. He opened a new dial company, Luminous Processes, a few blocks away and hired many of the same workers. That plant ran until 1976. That year, officials of the Nuclear Regulatory Commission, a federal agency, found radiation there 1,666 times the allowed level.
 <!-- hb-story:end slug="radium-girls-elements" -->
@@ -115,7 +115,7 @@ The Environmental Protection Agency (EPA) is the federal agency that protects th
 <!-- hb-zoom level="span" label="A false first, and the machine at Berkeley" -->
 In 1931 the physicist Fred Allison of Alabama Polytechnic, now Auburn University, announced two new elements. He called element 85 "alabamine" and element 87 "virginium." He said he had found them with his "magneto-optical" machine. Scientists at other labs tried his method and could not get the same results. They showed that the signals Allison saw came from his equipment, not from any element. His claims were dropped. A Berkeley team made the real element 85 in 1940.
 
-Ernest Lawrence built his first cyclotron at Berkeley, California, in 1930 and 1931. A cyclotron is a machine that whirls tiny charged particles in a spiral until they move very fast. When the fast particles hit a target, they can turn atoms of one element into atoms of another. Lawrence and his teams built bigger cyclotrons through the 1930s. With these machines, Berkeley's Radiation Laboratory became the source of most of the new elements made in the United States.
+Ernest Lawrence built his first cyclotron at Berkeley, California, in 1930 and 1931. A cyclotron is a machine that whirls tiny charged particles in a spiral up to high speed. When the fast particles hit a target, they can turn atoms of one element into atoms of another. With his machines, Berkeley's Radiation Laboratory became the source of most of the new elements made in the United States.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="ernest-lawrence-elements" name="Ernest Lawrence" movie="" kind="famous" status="verified" -->
@@ -124,11 +124,11 @@ Ernest Lawrence built his first cyclotron at Berkeley, California, in 1930 and 1
 > **Who:** The physicist who invented the cyclotron, the machine behind most of the elements discovered in the United States.
 > **When and where:** Berkeley, California, from the 1930s to the 1950s. He won the Nobel Prize in Physics in 1939 and died in 1958.
 
-Ernest O. Lawrence built his first cyclotron at Berkeley in 1930 and 1931. His teams then built larger ones. The 60-inch cyclotron of 1939 had a magnet that weighed 220 tons. The Radiation Laboratory at Berkeley became an independent laboratory in 1936.
+After his first cyclotron of 1930 and 1931, Ernest O. Lawrence and his teams built larger ones. The 60-inch cyclotron of 1939 had a magnet that weighed 220 tons. The Radiation Laboratory at Berkeley became an independent laboratory in 1936.
 
 Lawrence won the Nobel Prize in Physics in 1939. The Nobel Prize is an international award given each year for work in science and other fields.
 
-Lawrence's machines made the material for several new elements. A metal sheet from his 37-inch cyclotron held the first technetium. His 60-inch cyclotron made astatine in 1940, and it made the ingredients for plutonium. Lawrence died in 1958. Element 103, lawrencium, carries his name.
+Lawrence's machines made the material for several new elements. A metal sheet from his 37-inch cyclotron held the technetium that Segrè and Perrier found. Teams used his 60-inch cyclotron to make astatine and plutonium in 1940. Lawrence died in 1958. Element 103, lawrencium, carries his name.
 <!-- hb-story:end slug="ernest-lawrence-elements" -->
 
 <!-- hb-zoom level="span" label="Elements made by people" -->
@@ -172,7 +172,7 @@ Glenn T. Seaborg led the team that made plutonium in December 1940 and proved it
 
 In 1951, Seaborg shared the Nobel Prize in Chemistry with Edwin McMillan for their work on the elements heavier than uranium. From 1961 to 1971, he was chairman of the Atomic Energy Commission, the federal agency in charge of atomic energy.
 
-In 1997 the element 106 was named seaborgium, after him. Seaborg could receive a letter with an address written only in element names: Seaborgium, Lawrencium, Berkelium, Californium, Americium. That stood for Seaborg, at the Lawrence laboratory, in the city of Berkeley, in California, in America.
+In 1997 element 106 was named seaborgium, after him. Seaborg could receive a letter with an address written only in element names: Seaborgium, Lawrencium, Berkelium, Californium, Americium. That stood for Seaborg, at the Lawrence laboratory, in the city of Berkeley, in California, in America.
 <!-- hb-story:end slug="glenn-seaborg" -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -180,9 +180,9 @@ In 1997 the element 106 was named seaborgium, after him. Seaborg could receive a
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-From 1950 to 1974, teams at Berkeley and other American labs made or claimed elements 98 through 106. Scientists at Dubna, a lab in the Soviet Union, claimed several of the same elements. The two sides argued for decades over who had found them first. In 1992 and 1993, an international panel gave some credit to Berkeley, some to Dubna, and split the rest.
+Scientists at Berkeley and other American labs made or claimed elements 98 through 106 from 1950 to 1974. Scientists at Dubna, a lab in the Soviet Union, claimed several of the same elements. The two sides argued for decades over who had found them first. In 1992 and 1993, an international panel gave some credit to Berkeley, some to Dubna, and split the rest.
 
-In the same years, uranium mining on Navajo land reached its peak. Miners breathed radioactive gas in mines with no fresh air blown in, and hundreds died of lung disease and cancer. Scientists also proved that lead in gasoline and paint was harming children. Between 1971 and 1996, federal officials limited and then banned lead in house paint and in gasoline for cars.
+In the same years, uranium mining on Navajo land reached its peak. Miners breathed radioactive gas in mines with no fresh air blown in, and hundreds died of lung disease and cancer. Scientists also showed that lead was harming children's brains. Between 1971 and 1996, federal officials limited and then banned lead in house paint and in gasoline for cars.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Elements from Berkeley and from a bomb test" -->
@@ -202,15 +202,15 @@ The team named element 101 mendelevium, for Dmitri Mendeleev, the Russian who ma
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The fight over elements 102 to 106" -->
-Scientists in three countries worked on element 102. In 1957 a team in Stockholm, Sweden, claimed it and named it nobelium, for Alfred Nobel. The Swedish team then took back its claim. Berkeley scientists claimed the element in 1958. Scientists at Dubna did the experiments of 1966 that proved it.
+Scientists in three countries worked on element 102. In 1957 a team in Stockholm, Sweden, claimed it and named it nobelium, for Alfred Nobel. The Swedish team then took back its claim. Berkeley scientists claimed the element in 1958. Scientists at Dubna did experiments on it in 1966.
 
-The International Union of Pure and Applied Chemistry (IUPAC) is the world organization of chemists that approves element names. A joint panel of chemists and physicists, called the Transfermium Working Group, studied who had found what. Its report came out in 1992 and 1993. The panel's members credited Dubna with element 102. IUPAC's officials kept the Swedish name nobelium anyway, because scientists had used it for more than 30 years.
+The International Union of Pure and Applied Chemistry (IUPAC) is the world organization of chemists that approves element names. A joint panel of chemists and physicists, called the Transfermium Working Group, studied who had found what. Transfermium means the elements after fermium, element 100. Its report came out in 1992 and 1993. The panel's members credited Dubna with element 102. IUPAC's officials kept the Swedish name nobelium anyway, because scientists had used it for more than 30 years.
 
-Ghiorso, Torbjørn Sikkeland, Almon E. Larsh and Robert M. Latimer made element 103 at Berkeley in 1961. Dubna scientists did important work on it from 1965 to 1967. The Working Group split the credit between the two labs. The element kept the name lawrencium, for Ernest Lawrence.
+Ghiorso, Torbjørn Sikkeland, Almon E. Larsh and Robert M. Latimer made element 103 at Berkeley in 1961. Dubna scientists did important work on it from 1965 to 1967. The Working Group's members split the credit between the two labs. The element kept the name lawrencium, for Ernest Lawrence.
 
 Dubna scientists claimed element 104 in 1964, and Berkeley scientists claimed it in 1969. For element 105, the Dubna claim came in 1968 and the Berkeley claim in 1970. Each side gave the elements its own names and argued for them in science journals for decades. The Working Group's members split the credit for both. They credited Berkeley alone with element 106, made there in 1974.
 
-In 1994 IUPAC's officials proposed a rule against naming elements for living people. The rule would have blocked the Berkeley name, seaborgium. In 1997 they approved the final names. Element 104 became rutherfordium, for the scientist Ernest Rutherford. Element 105 became dubnium, for the town of Dubna. Element 106 became seaborgium. Glenn Seaborg was the first person to see an element named for him while he was alive. He kept a periodic table with seaborgium on it until he died in 1999.
+In 1994 IUPAC's officials proposed a rule against naming elements for living people. The rule would have blocked the Berkeley name, seaborgium. In 1997 they approved the final names. Element 104 was named rutherfordium, after the scientist Ernest Rutherford, and element 105 dubnium, after the town of Dubna. Element 106 became seaborgium. Glenn Seaborg was the first person to see an element named for him while he was alive. He kept a periodic table with seaborgium on it until he died in 1999.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="albert-ghiorso" name="Albert Ghiorso" movie="" kind="famous" status="verified" -->
@@ -234,7 +234,7 @@ Darleane C. Hoffman was a nuclear chemist, a chemist who studies atoms that brea
 
 Hoffman showed that atoms of fermium-257 could split in two on their own. She was the first woman to lead a science division at Los Alamos. From 1984 she led work at Berkeley on the chemistry of the heaviest elements, studying them one atom at a time.
 
-She won the National Medal of Science in 1997. In 2000 she won the Priestley Medal of the American Chemical Society, named for Joseph Priestley. She was the second woman ever to receive it. She died in 2025, at the age of 98.
+She won the National Medal of Science in 1997. In 2000 she won the Priestley Medal of the American Chemical Society, named for Joseph Priestley. She was the second woman ever to receive it.
 <!-- hb-story:end slug="darleane-hoffman-elements" -->
 
 <!-- hb-zoom level="span" label="Elements at home" -->
@@ -246,17 +246,17 @@ By 1996 the federal helium program owed $1.4 billion. That year the members of C
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Uranium miners on Navajo land" -->
-The Atomic Energy Commission (AEC) was the federal agency in charge of atomic energy. For years its officials were the only buyers of uranium in the United States. The EPA states that the AEC was the only buyer until 1966 and kept buying ore until 1970. Doug Brugge and Rob Goble, writing in the *American Journal of Public Health* in 2002, say the government was the only buyer from World War II until 1971.
+The Atomic Energy Commission (AEC) was the federal agency in charge of atomic energy. The EPA states that the AEC was the only buyer until 1966 and kept buying ore until 1970. Doug Brugge and Rob Goble, writing in the *American Journal of Public Health* in 2002, say the government was the only buyer from World War II until 1971.
 
 About 10,000 people worked in uranium mining in all, and about a quarter of them were Navajo. The mining peaked in the middle of the 1950s, with about 750 mines working. The companies named in the records include the Vanadium Corporation of America, Kerr-McGee, the United Nuclear Corporation and Hydro Resources Inc.
 
 When uranium atoms break apart, they turn into radon, a radioactive gas. Radon atoms then break apart into radioactive specks called radon daughters. Miners breathed them in. Brugge and Goble explain that the daughters stay in the lungs next to delicate cells and hit those cells with strong doses of radiation. The harm named in the records is lung cancer and lung fibrosis. Lung fibrosis is scarring that makes the lungs stiff, so that breathing gets harder.
 
-Navajo miners report that no one told them about the dangers of uranium mining. They were given no protective equipment. The mines had no ventilation, the fans and shafts that blow fresh air in and push radon out. Scientists already knew about the danger from uranium mines in Europe. Brugge and Goble found that few protections reached American miners before 1962, and they came slowly after that.
+Navajo miners report that no one told them about the dangers of uranium mining, and that they got no protective equipment. The mines had no ventilation, the fans and shafts that blow fresh air in and push radon out. Scientists already knew about the danger from uranium mines in Europe. Brugge and Goble found that few protections reached American miners before 1962, and they came slowly after that.
 
 Staff of the AEC and of the Public Health Service met on January 25, 1951. The staff at that meeting believed the radon in the mines was at levels that would cause cancer. Wilhelm Hueper, a government cancer researcher, warned about radon. According to Brugge and Goble, he was forbidden to speak in public and forbidden to travel west of the Mississippi River.
 
-From 1950, Public Health Service workers led by Duncan Holaday and Victor Archer followed the miners to measure their cancer risk. The study tracked 3,415 miners, and 779 of them were Native American. Brugge and Goble found that the study did not tell the miners about the risks it was studying. At first the researchers left the minority miners, Native Americans among them, out of the results. The researchers said they wanted "a homogeneous population," which means a group of people who are all alike. A 2014 article in the journal *Environmental Health Perspectives* states that the researchers agreed with the mining companies not to tell the miners about the danger. They took that deal as the only way to get into the mines.
+From 1950, Public Health Service workers led by Duncan Holaday and Victor Archer followed the miners to measure their cancer risk. The researchers tracked 3,415 miners, and 779 of them were Native American. Brugge and Goble found that the researchers did not tell the miners about the risks they were studying. At first the researchers left the minority miners, Native Americans among them, out of the results. The researchers said they wanted "a homogeneous population," which means a group of people who are all alike. A 2014 article in the journal *Environmental Health Perspectives* states that the researchers agreed with the mining companies not to tell the miners about the danger. They took that deal as the only way to get into the mines.
 
 Nobody has a full count of the Navajo miners who died. Linda M. Richards, a historian, wrote in 2013 that by the early 1980s, "hundreds of Indian miners had died from lung diseases and cancers." Brugge and Goble cite a study from 2000 that found 94 deaths from lung cancer among Navajo people from 1969 to 1993. Of those 94, 63 had been uranium miners.
 
@@ -289,3 +289,78 @@ The Superfund program is the federal program for cleaning up the country's most 
 At Anaconda, nearly 100 years of smelting had left arsenic, cadmium, copper, lead and zinc over more than 200 square miles. EPA lists Atlantic Richfield as the company responsible for the cleanup.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
+
+<!-- hb-time:start id="2000-today" order="10" chapter="elements" label="2000 to Today" state="full" progress="written" -->
+## 2000 to Today
+
+<!-- hb-zoom level="era" -->
+Joint Russian and American teams made elements 114 through 118 between 1998 and 2010. The atoms formed at Dubna, in Russia. American labs sent scientists, detectors and, for element 117, the only target material in the world that would work. In 2015 and 2016, IUPAC's officials recognized the last four elements of the seventh row of the periodic table and gave them names.
+
+The harm from earlier mining and poisoning was still being counted and cleaned up. As of June 2026, the EPA counts 523 abandoned uranium mines on the Navajo Nation. From 2014 to 2015, the water in Flint, Michigan, carried lead from old pipes to the city's people.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Finishing the seventh row" -->
+Scientists at the Joint Institute for Nuclear Research in Dubna, Russia, worked with scientists from Lawrence Livermore National Laboratory in California. For elements 115 and 117, scientists from Oak Ridge National Laboratory and Vanderbilt University joined them. The first atom of element 114 formed at Dubna in December 1998. Element 116 followed in 2000.
+
+In May 2012, IUPAC's officials named element 114 flerovium, for Russia's Flerov Laboratory. They named element 116 livermorium, for the Livermore laboratory and the city of Livermore, California.
+
+On December 30, 2015, IUPAC's officials recognized elements 113, 115, 117 and 118. That filled the seventh row of the periodic table. The names came on November 28, 2016. Scientists at RIKEN, a research institute in Japan, made element 113, the first element discovered in Asia, and it became nihonium. Element 115 was named moscovium, for the region around Moscow, and element 117 tennessine, for Tennessee.
+
+Element 118 became oganesson, for Yuri Oganessian, the Dubna physicist who led the hunt for these heavy elements. It was only the second element named for a living person, after seaborgium. His colleagues asked him to leave the conference call before they voted on the name. IUPAC's records credit these elements to the teams that worked together, not to any one country.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Tennessine and the berkelium target" -->
+To make element 117, the Dubna team needed a target made of berkelium-249. The only place that could make it was a research reactor at Oak Ridge National Laboratory. The berkelium spent 250 days in the reactor. Oak Ridge chemists then spent 90 days working on it. They ended up with 22 milligrams. A milligram is one thousandth of a gram.
+
+The berkelium was shipped in June 2009. Russian customs officials twice rejected the paperwork, so the package crossed the Atlantic Ocean five times. At Dubna, scientists fired a beam of calcium-48 atoms at the target for six months. They made six atoms of element 117. The team published the discovery in April 2010.
+
+The partnership began when Joe Hamilton of Vanderbilt University introduced Jim Roberto of Oak Ridge to Yuri Oganessian.
+
+Tennessee became the second American state named on the periodic table, after California. The atoms of tennessine formed in Russia. Promethium, found at Oak Ridge in 1945, is still the only element discovered in Tennessee.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="clarice-phelps" name="Clarice Phelps" movie="" kind="famous" status="verified" -->
+### Clarice Phelps
+
+> **Who:** A nuclear chemist at Oak Ridge National Laboratory and a U.S. Navy veteran. Her laboratory's staff profile describes her as the first Black woman involved in the discovery of an element.
+> **When and where:** Oak Ridge National Laboratory, Tennessee, from 2009. Her berkelium work began in 2010, and the laboratory recognized her in 2019.
+
+Clarice Phelps served in the U.S. Navy and graduated from Tennessee State University. She joined Oak Ridge National Laboratory in 2009. Her first job there was as a nuclear operations technician.
+
+From 2010 she worked in the laboratory's Nuclear Security and Isotope Technology Division. There she was part of a team that helped purify berkelium-249. To purify a substance means to remove everything else from it. Scientists used that berkelium to confirm the discovery of element 117. The berkelium for the first run at Dubna had shipped in June 2009, before she began this work.
+
+A 2019 news release from Oak Ridge National Laboratory described her as "the first African American woman to be involved with the discovery of an element, tennessine." That first is her laboratory's claim. IUPAC's officials credited Oak Ridge as a laboratory, not its scientists one by one. Also in 2019, she was named to the Periodic Table of Younger Chemists, a project of IUPAC and the International Younger Chemists Network.
+<!-- hb-story:end slug="clarice-phelps" -->
+
+<!-- hb-zoom level="span" label="Toward element 120, and the end of federal helium" -->
+In 2024 the Heavy Element Group at Berkeley Lab made two atoms of livermorium in a new way. They fired a beam of titanium-50 at plutonium-244 in the lab's 88-Inch Cyclotron. Berkeley Lab's news center reported the result on July 23, 2024. The test showed that the method could work for element 120. Element 120 would start the eighth row of the periodic table, and it would be the heaviest atom ever made. The Berkeley team began runs to make it in 2025, firing titanium-50 at californium-249. As of August 2026, no one had announced a discovery.
+
+Federal officials sold the Federal Helium System to Messer, a company that sells industrial gases. The system included the reserve, the Cliffside gas field and a pipeline 423 miles long. The sale was completed in June 2024. Messer's accepted bids, opened in January 2024, totaled $423.35 million. In 2024 the Bureau of Land Management, a federal agency, stated that the sale sent about $460 million to the U.S. Treasury. Helium is still scarce. Hospitals need it for MRI machines, which take pictures of the inside of the body. Rocket makers and computer chip makers use it too.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Uranium on Navajo land today" -->
+Elsie Mae Begay, a Navajo woman, lost two sons to rare cancers. Her family's hogan, a traditional Navajo house, was radioactive. In 2001 the hogan was taken apart. Linda Richards reported her story in 2013.
+
+In 2005 the members of the Navajo Nation Council passed the Diné Natural Resources Protection Act. Under it, uranium mining is banned on Navajo land.
+
+The counts of old mines differ. As of June 2026, the EPA counts 523 abandoned uranium mines on the Navajo Nation. EPA has funds to study and clean up 230 of them, and it lists 46 as priority mines. As of June 2026, EPA's agreements and settlements over the mines are worth more than $1.7 billion. They include a 2015 settlement with the Tronox company in bankruptcy court. In 2013, Richards counted at least 1,032 abandoned mine sites on Navajo land. She also counted 38 water sources with more radioactive elements than health limits allow. An EPA page updated in September 2026 states that EPA has added the Lukachukai Mountains Mining District to the Superfund list.
+
+By March 2001, about 3,975 uranium workers had applied for payments under the Radiation Exposure Compensation Act, according to Brugge and Goble. The law lapsed for a time. The members of Congress renewed it as part of the One Big Beautiful Bill Act, which became law on July 4, 2025. According to the Department of Justice in September 2026, workers must file claims by December 31, 2027. A uranium worker who qualifies receives $100,000, paid once.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Lead in the water of Flint" -->
+Flint, Michigan, is a majority-Black city. In April 2014, managers appointed by Michigan Governor Rick Snyder switched Flint's water supply. Flint had been getting Detroit's water, drawn from Lake Huron. The new supply came from the Flint River. An emergency manager is an official appointed by the state to run a city in place of its elected leaders. The switch happened while Darnell Earley was Flint's emergency manager. The Centers for Disease Control and Prevention (CDC), the federal health agency, states that the river water had no corrosion control. Corrosion control is a treatment that keeps water from eating into pipes.
+
+Detroit's water carried a chemical called orthophosphate, which protects pipes from corrosion. The Flint River water had none, and it was high in chloride, a salt. The river water ate into the city's old pipes. Between 10 and 80 percent of Flint's service lines were made of lead, according to an estimate published in 2016 in the *American Journal of Public Health*. Service lines are the pipes that carry water from the main line under the street into each house. Lead was in the water for about 18 months, NPR, a national radio network, reported in 2023.
+
+Mona Hanna-Attisha was a children's doctor at Hurley Medical Center in Flint. She and her colleagues compared blood tests of 1,473 children in Flint with 2,202 outside the city. Their study was published in 2016. Among Flint children under 5, the share with high lead in their blood rose from 2.4 percent in 2013 to 4.9 percent in 2015. In the parts of the city with the most lead in the water, it rose from 4.0 to 10.6 percent. Children absorb 40 to 50 percent of the lead they swallow in water. Adults absorb 3 to 10 percent. Babies who drank formula mixed with tap water were at the highest risk.
+
+Miguel Del Toral, an EPA official, warned Michigan's Department of Environmental Quality about high lead in Flint's water in February 2015, according to news reports. In September 2015, Hanna-Attisha and her colleagues at Hurley Medical Center told pregnant women and children to stop drinking the water. Flint was connected again to a regional water system in 2015. A federal emergency was declared in January 2016.
+
+Legionnaires' disease is a lung infection, a kind of pneumonia, caused by bacteria that grow in poorly treated water. From June 2014 to October 2015, Genesee County, where Flint is, had 90 cases. State health officials counted 10 dead in one report and 12 in another. In 2018, NPR linked the outbreak to low chlorine in Flint's water. Chlorine is a chemical that kills germs in drinking water. The PBS program *Frontline* found more deaths from pneumonia that the official count missed. The official count is disputed.
+
+In 2016 and 2017, prosecutors charged Earley, the emergency manager Gerald Ambrose, the state health director Nick Lyon and the state's chief medical executive Eden Wells. In January 2021, prosecutors charged Snyder with willful neglect of duty, which means knowingly failing to do his job. They charged eight other officials at the same time. In 2022 the justices of the Michigan Supreme Court ruled that the one-judge grand jury used to charge them broke the state constitution. A one-judge grand jury is a single judge who decides alone whether to charge someone with a crime. The cases ended on October 31, 2023, with no one convicted.
+
+Flint's people sued. On November 10, 2021, U.S. District Judge Judith Levy approved a settlement of $626.25 million for more than 90,000 Flint residents and businesses.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="2000-today" -->

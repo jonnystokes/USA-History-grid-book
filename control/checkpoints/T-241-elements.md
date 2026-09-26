@@ -12,8 +12,8 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241d in flight: eras 1900-1950 and 1950-2000 written, writing era 2000-today.
-NEXT:   T-241d: write part 3 (eras 8-10)
+NOW:    T-241d landed (part3 eras 8-10 written, validator clean, --punct 0/0, --check elements --stage prose PASS).
+NEXT:   T-241e: close the collected BLOCKING GAPS (bank patch + prose update)
 
 ## Units
 
@@ -22,7 +22,7 @@ NEXT:   T-241d: write part 3 (eras 8-10)
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | in-flight | |
+| 4 | part3 eras 8-10 | landed | 2026-09-26 |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -47,6 +47,12 @@ NEXT:   T-241d: write part 3 (eras 8-10)
 - (T-241c) era 1800-1850 outline zoom "the first big one was copper, not gold" and span "The nation's first mineral rush was Michigan copper": false firsts (Georgia 1829-30 came earlier). Prose uses the bank's safe wording "the nation's first great copper rush". "96 percent of U.S. copper by 1849" left out (unconfirmed).
 - (T-241c) era 1850-1900 outline zoom "the first great American element story was not a discovery but a process": "first" not in the bank, dropped. "pays off in 1955" left for part 3.
 - (T-241c) Bank items left out on purpose: Gold Lottery "133,000 people / 35,000 lots" (bank says confirm), Dahlonega Mint $6 million (mining money, economy), Lewis Cass 1820 visit (bank gives no identity for Cass). Anaconda/Washoe arsenic starts 1902 and Danbury's 1913 compensation law is 1913, so both belong to part 3 (era 8).
+- (T-241d) era 1900-1950 outline "why it glows": the bank gives no mechanism for radium paint's glow. Left out.
+- (T-241d) era 1900-1950 outline Byers "his death pushed the government to act": written in the bank's corrected order (FTC order Dec 19 1931 after his testimony, death 1932). The "jaw came off" headline and FTC attorney Winn's jaw report (journalism-grade) left out.
+- (T-241d) era 1900-1950 outline Grace Mary Coryell "a pointed name from inside the bomb project": left out (bank says "reportedly", and the dispatch limits the bomb to one sentence). Outline's Lawrence "glass, sealing wax, bronze, palm-sized" left to `technology`.
+- (T-241d) era 1950-2000 outline zoom "made new elements almost faster than anyone could name them": unanchored, not written. Ivy Mike "vaporized an island" left to `war`.
+- (T-241d) era 2000-today outline Phelps "tennessine target work 2008-09" and "first Black woman to help discover": written with ORNL's wording and the 2010 confirmation dates. "recognition 2016-19" written as 2019 (the only bank date). Periodic Table of Younger Chemists element (einsteinium) and ORNL's "61 people" left out (search summaries).
+- (T-241d) Bank items left out as unconfirmed: NYC Board of Health TEL ban (Oct 30 1924), "loony gas" and the Bayway symptoms, Kettering as GM Chemical president, Anaconda "20 tons of arsenic a day", Judge Clark's USRC stock, the June 2024 RECA lapse date (prose says only "lapsed for a time"). Needleman's study written as "in the 1970s" (bank: 1974 vs 1979).
 
 ## BLOCKING GAPS
 - (T-241b) era 1600s, Falling Creek span: the bank gives the 1622 Powhatan attack and the 27 killed but no cause (why Opechancanough directed the attacks, whose land the works stood on). Prose states the attack without a cause.
@@ -56,6 +62,15 @@ NEXT:   T-241d: write part 3 (eras 8-10)
 - (T-241c) era 1850-1900, Danbury hatters: the bank names no hat-shop owners and does not say who required the mercury process or how many hatters were poisoned before 1900. Prose names the hatters as poisoned and the mercury as the cause, with no employer named.
 - (T-241c) era 1850-1900, gold-field mercury: the bank gives pounds released and 2005 fish warnings but records no people poisoned by it. Prose states the release and the warnings only.
 - (T-241c) era 1850-1900, Black Hills: the bank does not say who wrote or presented the 1876 agreement to the Sioux. Prose gives the 10 percent signing and Congress's 1877 act.
+- (T-241d) era 1900-1950, Radium Girls: the bank names no person who taught or ordered lip-pointing at the U.S. Radium Corporation, and does not name the Radium Dial supervisors in Ottawa. Prose ties the practice to Arthur Roeder's presidency (1921 to after 1926) only.
+- (T-241d) era 1900-1950, tetraethyl lead: the bank names no manager at Bayway, Deepwater or Dayton and does not say what work or conditions killed the workers or what the poisoning did to them there (symptoms marked "confirm"). Prose gives the three death counts and the NIOSH heavy-dose list.
+- (T-241d) era 1900-1950, Danbury: still no hat-shop owner named and no count of hatters poisoned beyond Hamilton's 43 of 100.
+- (T-241d) era 1900-1950 and 1950-2000, Anaconda arsenic: the bank names no Anaconda official (who ran the smelter, who chose to buy out farmers and take smoke easements) and gives no count of people harmed. Prose names the company, the 1909 court and Atlantic Richfield only.
+- (T-241d) era 1950-2000, uranium: the bank does not say who was responsible for miner safety (the companies or the AEC), who chose not to ventilate the mines or warn the miners, or who silenced Wilhelm Hueper. It names Holaday and Archer as study leaders but not who made the agreement with the companies not to tell the miners. No complete death count. Prose states each of these as the bank does, with passives only where the bank has no actor.
+- (T-241d) era 1950-2000, Church Rock: no United Nuclear Corporation official named for the dam, and the officials who declared no emergency and ordered no evacuation are unnamed.
+- (T-241d) era 1950-2000, lead: the 1960s child encephalopathy deaths have no source of exposure and no actor in the bank. Prose states the count only.
+- (T-241d) era 2000-today, uranium: the bank does not say what made the Begay hogan radioactive, who took it apart, or tie her sons' cancers to the mines. Prose states the bank's facts only.
+- (T-241d) era 2000-today, Flint: the bank does not name who at Michigan's DEQ received Del Toral's February 2015 warning or what they did, or who declared the January 2016 federal emergency. Earley's role and the 2016-17 charges are journalism-grade (news timelines).
 
 ## Log
 - 2026-09-26 T-241a: 14 PATCH blocks appended across eras 3-10 (radium, uranium/Navajo, lead x3, mercury, arsenic, land taken for gold/copper/Black Hills, Saugus Scots, enslaved ironworkers, firsts). Sources: PMC, NIST, EPA, DOJ, CDC/NIOSH, USGS, NPS, Georgia Archives, KBIC, SHI, AJPH, NPR Illinois/WNIJ. Left out: Speculator Mine 1917, gold-rush killings (placed elsewhere). Check: PASS elements / research (bank 16639w).
@@ -67,3 +82,4 @@ NEXT:   T-241d: write part 3 (eras 8-10)
 - 2026-09-26 T-241c: era 1850-1900 written, self-review run. part2 total 2,357 words, 1 story (charles-martin-hall-julia-brainerd-hall). validator 0 errors, --punct emdash=0 semicolon=0. Unit 3 landed.
 - 2026-09-26 T-241d: era 1900-1950 written (file ~4,180 words). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241d: era 1950-2000 written (file ~6,900 words). validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-241d: era 2000-today written, self-review run. part3 total 8,750 words, 7 stories (radium-girls-elements, ernest-lawrence-elements, emilio-segre-elements, glenn-seaborg, albert-ghiorso, darleane-hoffman-elements, clarice-phelps). validator 0 errors, --punct emdash=0 semicolon=0. --check elements --stage prose: PASS (10/10 eras written, 10 stories verified, validator 0 errors). Unit 4 landed.
