@@ -11,8 +11,8 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240c in flight (part 2, eras 6-7, manuscript/science/part2-1800s.md). Era 06 written.
-NEXT:   T-240c: write part 2 (eras 6-7)
+NOW:    T-240c landed (part 2, eras 6-7, manuscript/science/part2-1800s.md).
+NEXT:   T-240d: write part 3 (eras 8-10)
 
 ## Units
 
@@ -20,7 +20,7 @@ NEXT:   T-240c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | in-flight | |
+| 3 | part2 eras 6-7 | landed | 2026-09-26 |
 | 4 | part3 eras 8-10 | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -50,10 +50,22 @@ NEXT:   T-240c: write part 2 (eras 6-7)
   - era 05: the purpose of the 1769 transit ("the measurement nations wanted for the distance to the sun"); Rittenhouse "led" the Norriton team (bank lists him as one of four); "era's finest American instruments"; Marly rod "drew sparks from a storm cloud"; "colonial science treated as equal work for the first time"; "fossil claws" (bank: a fossil named Megalonyx); Buffon as "Europe's leading naturalist"; societies "printed his almanacs as walking proof" (bank: promoted them, printers published them).
 - T-240b identity glosses from general knowledge, not the bank (for audit): Isaac Newton's first name; Carl Linnaeus's first name and "Swedish botanist"; Euclid "an ancient Greek mathematician"; Walter Raleigh's first name; 145 m converted to about 475 feet.
 
+- T-240c (part 2) left these outline claims out because the bank does not contain them (13):
+  - era 06: Silliman "collected" the Weston meteorite (bank: documented and analyzed it, with James Kingsley); Henry's magnets "made the telegraph possible"; Henry's dates 1797-1878; Henry "leading American physicist"; Maury "Navy lieutenant"; Maury "traded charts for" logs (bank: collected standardized logs); "cut weeks off voyages" (bank: cut sailing times); Mitchell "first American woman astronomer by profession".
+  - era 07: "working biologists went with the evidence within a generation"; Hatch "$15,000" per state (workspace only); Gibbs's dates 1839-1903; Michelson's "light-splitting instrument"; Fleming's end date 1911.
+- T-240c identity and definition glosses from general knowledge, not the bank (for audit): first names Michael Faraday, James K. Polk (President), Charles Darwin, Edward Morley, James Clerk Maxwell ("Scottish physicist"); Albany "New York"; Crania Americana = Latin "American skulls"; Confederacy defined (Southern states that broke away and fought the US in the Civil War); definitions of self-induction, electromagnet, inductance, meteorite, comet, daguerreotype, plantation (and that its workers in South Carolina were enslaved), land-grant (federal land given to states), thermodynamics, equilibrium, heterogeneous, null result, "computer" as a job, photographic plate (glass), nebula, variable star, nova, time capsule; Vassar "a college for women"; 0.05 percent restated as about 1 part in 2,000 (arithmetic).
+
 ## BLOCKING GAPS
 - T-240b era 05 (central cause): the bank never says WHY observers timed the 1769 transit of Venus. The span states the event, the team and the Transactions without its purpose.
 - T-240b era 05 (hard subject, why): the bank gives Jefferson's Query XIV race claim with actor and words, but nothing on its context: that Jefferson enslaved people, or how such claims were used to defend slavery. Written without it.
 - T-240b era 01 (not blocking, noted): the bank does not name the nations who built Woodhenge at Cahokia or the Sun Dagger at Chaco. Prose says "the people of Cahokia" and names no nation for Chaco.
+- T-240c era 06 (hard subject, who): the bank says Morton's work "was used" to argue for racial hierarchy and to defend slavery, but names nobody who used it. Prose says "Defenders of slavery used his rankings" with no names.
+- T-240c era 06 (hard subject, who): the bank names no one who dug up the Cuban burial ground of enslaved Africans (50+ skulls) or took the dozen skulls from the Philadelphia potter's field. Prose says only "some of his collectors robbed graves" (Penn Expedition) and states the sources of the skulls.
+- T-240c era 07 (hard subject, who): the Dakota man of May 1864 "was killed near an Army outpost" (Redman). The bank does not say who killed him or how. Written in the passive.
+- T-240c era 07 (hard subject, who): the Army Medical Museum patch gives the methods (graves, battlefields, whole cemeteries) with no named diggers beyond Otis (collected and measured) and Muller (sent one man's remains). Prose says "collectors".
+- T-240c era 07 (central cause): the bank never states what Darwin's theory is (evolution, natural selection, common descent). Prose says only that Darwin argued species were not each created separately, the contrast the bank gives.
+- T-240c era 07 (hard subject, who/why): the bank does not say who stripped and posed the seven people beyond Agassiz commissioning and Zealy photographing, nor who enslaved them. Prose: "On Agassiz's order, Zealy photographed them stripped."
+- T-240c era 06 (not blocking): the bank does not say why Maury joined the Confederacy, or what the Confederacy fought for. Prose defines the Confederacy only.
 
 ## Log
 - 2026-09-26 T-240a: bank check landed. 17 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
@@ -63,3 +75,5 @@ NEXT:   T-240c: write part 2 (eras 6-7)
 - 2026-09-26 T-240b: era 1700-1750 written (about 750 words). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1750-1800 written (about 1,500 words). Part 1 total about 3,250 words, 6 stories. Validator --part: 0 errors. --punct: emdash=0 semicolon=0. Unit 2 landed.
 - 2026-09-26 T-240c: era 1800-1850 written (about 1,650 words, 3 stories: james-smithson, joseph-henry, maria-mitchell). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
+- 2026-09-26 T-240c: era 1850-1900 written (about 1,800 words, 3 stories: josiah-willard-gibbs, albert-michelson, williamina-fleming). Part 2 total about 3,500 words, 6 stories. Validator --part: 0 errors. --punct: emdash=0 semicolon=0. Unit 3 landed.
+- T-240c defects in the sources, fixed in prose only: bank's Penn quote "not above robbing graves" (litotes, softening) written as "robbed graves"; bank's undated "settled in the 2020s" replaced by the patch dates; bank's agentless "was used to defend slavery" and "forced Yale to pay" and outline's "Congress argued" / "Europe understood" given human actors; outline's gnomic "Science's authority can be misused; this era proves it" and antithesis "public service, not a private hobby" dropped.
