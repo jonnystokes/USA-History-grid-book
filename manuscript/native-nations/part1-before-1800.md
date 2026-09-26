@@ -16,7 +16,7 @@ Editor's in-development note — not part of the final book; the parser strips i
 <!-- hb-zoom level="era" -->
 Before 1500 there were hundreds of nations in the land that is now the United States. A nation is a group of people who govern themselves. The people of each nation chose their leaders, made their laws, and decided together about land, trade and war. They farmed, fished and built towns. They traded across the whole continent, made agreements with other nations, and fought wars against them. Across all these nations, people spoke hundreds of different languages.
 
-Nobody knows how many people lived here before 1500. Scholars have used different methods and reached very different answers. In 1976 Douglas Ubelaker put the number for the continental United States at about 1.85 million. In 1983 Henry Dobyns put it at about 18 million for all of North America north of Mexico. Textbooks published between 1988 and 1990 gave numbers from 1 million to 12 million. No number is settled. Anyone who gives a single figure has taken one side of a dispute that scholars have not resolved.
+Nobody knows how many people lived here before 1500. Scholars have used different methods and reached different answers. In 1976 Douglas Ubelaker put the number for the continental United States at about 1.85 million. In 1983 Henry Dobyns put it at about 18 million for all of North America north of Mexico. Textbooks published between 1988 and 1990 gave numbers from 1 million to 12 million. No number is settled. Anyone who gives a single figure has taken one side of a dispute that scholars have not resolved.
 
 People had lived on this land for thousands of years before any ship came from Europe. In that time some of them built cities and later left them. Some nations broke apart, and their people formed new nations out of the pieces. Nations went to war with one another and made peace again.
 <!-- /hb-zoom -->
@@ -28,7 +28,7 @@ In what is now New Mexico, Ancestral Puebloan people built large stone buildings
 
 The Calusa of southwest Florida built a kingdom without farming. Fish and shellfish fed about 20,000 people. Their capital, Calos, stood on mounds of shell at Mound Key. The Calusa built shell walls in shallow water to make pens called watercourts, and they kept live fish in the pens until they needed them. Scientists have dated the watercourts to between 1300 and 1400. The Calusa collected tribute, which means regular payments in goods, from other groups. Those groups lived along the coast from south of Tampa Bay down to the Florida Keys.
 
-Traders carried turquoise, seashells, copper and obsidian hundreds of miles from nation to nation. Obsidian is a black glass formed by volcanoes, and it can be chipped to a very sharp edge. Native trails crossed the continent, and later newcomers traveled along them.
+Traders carried turquoise, seashells, copper and obsidian hundreds of miles from nation to nation. Obsidian is a black glass formed by volcanoes, and it can be chipped to a sharp edge. Native trails crossed the continent, and later newcomers traveled along them.
 
 Over several centuries the ancestors of the Navajo (Diné) and the Apache moved south toward the Southwest. They came from what is now western Canada and eastern Alaska. Scholars disagree about when they arrived. Some date the arrival to the 1200s, and others put it in the 1400s or as late as about 1525.
 <!-- /hb-zoom -->
@@ -56,7 +56,7 @@ The diseases spread ahead of the Spanish expeditions and behind them, so a town 
 
 No one can give a single death toll, because no one knows how many people lived here at the start. Estimates for North America north of Mexico run from about 1 million to about 18 million. A death toll worked out from the low estimate and one worked out from the high estimate differ by millions of people. A later count records how far the numbers had fallen. In 1900, United States census takers counted about 250,000 Native people.
 
-The nations that survived took in refugees from other towns and joined with their neighbors. Out of what was left, their people built new nations.
+The nations that survived took in refugees, people who had fled their own towns, and joined with their neighbors. Out of what was left, their people built new nations.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The entradas" -->
@@ -93,15 +93,17 @@ In 1598 Juan de Onate led Spanish colonists north from Mexico and founded a colo
 
 In December 1598 Onate's nephew Juan de Zaldivar came to the mesa with a party of soldiers and demanded food. The Acoma killed him and eleven to fourteen of his men. The sources differ on the number.
 
-On December 28 Onate opened a formal inquiry. He asked the Franciscan friars with him whether a war against Acoma would be just, and they answered that he "possessed both the authority and sufficient cause." In January 1599 Juan's brother, Vicente de Zaldivar, led about seventy soldiers up the mesa. They took the town and burned much of it.
+On December 28 Onate opened a formal inquiry and questioned the survivors of Zaldivar's party. He asked the Franciscan friars with him whether a war against Acoma would be just. Friars are Catholic religious brothers, and the Franciscans are one order of them. The friars answered that he "possessed both the authority and sufficient cause." In January 1599 Juan's brother, Vicente de Zaldivar, led about seventy soldiers up the mesa. They took the town and burned much of it.
 
 Nobody counted the dead. The only account by someone who was there is a poem published in 1610 by Gaspar de Villagra, who rode with the expedition. Historians and other writers who read the same records give numbers from about 300 to about 1,500. Their estimates include about 300, about 600, 600 to 800, and about 800. The All Pueblo Council of Governors, a council of the leaders of the Pueblo nations, uses the figure of about 800 today. The National Park Service gives about 1,500.
 
-Onate put the Acoma survivors on trial at Santo Domingo Pueblo, though some sources place the trial at San Juan Pueblo. He passed sentence on February 12, 1599. He sentenced men over twenty-five to have one foot cut off and to be forced to work for the Spanish without pay for twenty years. He sentenced males from twelve to twenty-five, and females over twelve, to the same twenty years of forced work. Onate ordered children under twelve taken from their parents and handed to the friars. About seventy girls under twelve were sent south along the road to Mexico, to convents there. The sources do not name the men who took them. The National Park Service's account says that in all probability none of them ever came home. The All Pueblo Council of Governors counts sixty children taken to Mexico, and it also says none returned. Onate sentenced two Hopi men held at Acoma to have their right hands cut off. Then he had them released to carry word of what had happened.
+Onate put the Acoma survivors on trial at Santo Domingo Pueblo, though some sources place the trial at San Juan Pueblo. He passed sentence on February 12, 1599. He sentenced men over twenty-five to have one foot cut off and to be forced to work for the Spanish without pay for twenty years. He sentenced males from twelve to twenty-five, and females over twelve, to the same twenty years of forced work. Onate sentenced two Hopi men held at Acoma to have their right hands cut off. Then he had them released to carry word of what had happened.
+
+Onate ordered children under twelve taken from their parents and handed to the friars. About seventy girls under twelve were sent south along the road to Mexico, to convents there. The sources do not name the men who took them. A convent is a house where Catholic nuns live. The National Park Service's account says that in all probability none of them ever came home. The All Pueblo Council of Governors counts sixty children taken to Mexico, and it also says none returned.
 
 Onate's sentence is in the written record. Whether anyone carried out the cutting of feet is disputed. Acoma people have passed down their own account since 1599: Onate had the right feet of 24 captive men cut off. The New York Times reported that account in 1998. The historian Marc Simmons first wrote that the feet were cut off, and later he doubted it. The historian John Kessell doubts it as well. He notes that the records never mention a one-footed Acoma man.
 
-Years later, Spanish officials charged Onate with thirty crimes. The judges found him guilty of twelve, among them using more force against Acoma than the law allowed. They banished him from New Mexico for life, barred him from Mexico City for four years, and fined him. One source gives the Mexico City term as five years.
+Years later, Spanish officials charged Onate with thirty crimes. The judges found him guilty of twelve, among them using more force against Acoma than the law allowed. They banished him from New Mexico for life, which means they ordered him never to return. They also barred him from Mexico City for four years and fined him. One source gives the Mexico City term as five years.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -109,7 +111,7 @@ Years later, Spanish officials charged Onate with thirty crimes. The judges foun
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-Through the 1600s Native nations still held nearly the whole continent. The European settlements were a thin strip along the coast. The settlers depended on Native food and Native trade, and they stayed only with Native permission. Native leaders chose which newcomers to deal with, from among the Dutch, the French, the English and the Spanish, and they played those newcomers against one another.
+Native nations still held nearly the whole continent through the 1600s. The European settlements were a thin strip along the coast. The settlers depended on Native food and Native trade, and they stayed only with Native permission. Native leaders chose which newcomers to deal with, from among the Dutch, the French, the English and the Spanish, and they played those newcomers against one another.
 
 Early in the century, nations made alliances with the newcomers on Native terms and recorded them in the Native way, on wampum belts. Once the colonists no longer needed Native permission to stay, wars began between colonists and the coastal nations. In the Southwest in 1680, the Pueblo nations rose together and drove the Spanish off their land. They kept the Spanish out for twelve years.
 <!-- /hb-zoom -->
@@ -121,7 +123,7 @@ English colonists founded Jamestown inside Tsenacommacah in 1607. In the colony'
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Wampum diplomacy and the Covenant Chain" -->
-Haudenosaunee diplomats used wampum to record agreements. Beads cut from shell were strung and woven into belts, and the pattern of each belt stood for the terms of an agreement. Speakers kept the words of the agreement in memory and recited them aloud. The belt served as the record of what had been agreed.
+Haudenosaunee diplomats, the people who spoke for their nations with other nations, used wampum to record agreements. Beads cut from shell were strung and woven into belts, and the pattern of each belt stood for the terms of an agreement. Speakers kept the words of the agreement in memory and recited them aloud. The belt served as the record of what had been agreed.
 
 The Two Row Wampum, Guswenta, records the Haudenosaunee account of their first agreement with the Dutch. It has two purple rows of beads on a white background. The rows stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613. A paper document with the same date also exists, and scholars argue about whether it is genuine. The wampum belt is the Haudenosaunee's own record of the agreement.
 
@@ -131,9 +133,9 @@ The Haudenosaunee alliance with the English colonies had a different name, the C
 <!-- hb-zoom level="span" label="The coastal wars" -->
 In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. Before dawn on May 26, 1637, an English-led force surrounded the Pequot town at Mystic, which was protected by walls, and set it on fire. In under an hour they killed hundreds of people, most of them elders, women and children.
 
-In the Treaty of Hartford of 1638, the victors declared that the Pequot nation no longer existed. They made it illegal to use the name Pequot. Under the treaty, Pequot survivors were handed over to the victors or sold into slavery. The sources do not name who sold them. The Mashantucket Pequot Tribal Nation is in Connecticut today.
+A treaty is a formal written agreement between nations. In the Treaty of Hartford of 1638, the victors declared that the Pequot nation no longer existed. They made it illegal to use the name Pequot. Under the treaty, Pequot survivors were handed over to the victors or sold into slavery. The sources do not name who sold them. The Mashantucket Pequot Tribal Nation is in Connecticut today.
 
-In 1675, nearly forty years after the Pequot War, Metacom built a coalition of nations against the New England colonies. Metacom was the Wampanoag sachem, and a sachem is the leader of a nation. His coalition fought the colonists from 1675 to 1676. About 9,000 people died, and estimates put Native deaths at roughly half of all the Native people in New England. For the size of the population, histories of the war often call it the bloodiest war in American history.
+In 1675, nearly forty years after the Pequot War, Metacom built a coalition of nations against the New England colonies. A coalition is a group that agrees to act together. Metacom was the Wampanoag sachem, and a sachem is the leader of a nation. His coalition fought the colonists from 1675 to 1676. About 9,000 people died, and estimates put Native deaths at roughly half of all the Native people in New England. For the size of the population, histories of the war often call it the bloodiest war in American history.
 
 Inland, from the middle to the late 1600s, Haudenosaunee warriors fought the Beaver Wars against nations to the west and north. They fought for control of the fur trade, the trade in animal furs with Europeans. The wars changed which nations held which lands across the eastern interior.
 <!-- /hb-zoom -->
@@ -154,9 +156,9 @@ Metacom's wife and his nine-year-old son were sold into slavery. The records do 
 <!-- hb-zoom level="span" label="The Pueblo Revolt" -->
 The Pueblo nations along the Rio Grande had lived under Spanish rule since Juan de Onate founded the New Mexico colony in 1598.
 
-On August 10, 1680, the people of many separate towns rose against the Spanish on the same day. The towns spoke several different languages. Pueblo fighters besieged Santa Fe, which means they surrounded the town and cut it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
+On August 10, 1680, the people of many separate towns rose against the Spanish on the same day. They spoke several different languages. Pueblo fighters besieged Santa Fe, which means they surrounded the town and cut it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
 
-The Pueblos governed themselves for the next twelve years. In those years they lived through drought, raids and famine, which is a long shortage of food. Diego de Vargas began the Spanish reconquest in 1692, and Pueblo fighters kept up armed resistance for years after that. Historians commonly call the Pueblo Revolt the most successful uprising by Native people against a European colonial power in North America.
+The Pueblos governed themselves for the next twelve years. In those years they lived through drought, raids and famine, which is a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Historians commonly call the Pueblo Revolt the most successful uprising by Native people against a European colonial power in North America.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="pope" name="Po'pay (Popé)" movie="" kind="famous" status="verified" -->
@@ -187,7 +189,7 @@ By either account, Plains nations had horses by the 1700s, and horses changed ho
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the first half of the 1700s, French and British leaders both wanted control of North America. Neither side could take it without Native help. Leaders of the nations between them bargained with both sides and asked a high price for joining either one. They also went on making their own agreements with other nations.
+Leaders in France and Britain both wanted control of North America in the first half of the 1700s. Neither side could take it without Native help. Leaders of the nations between them bargained with both sides and asked a high price for joining either one. They also went on making their own agreements with other nations.
 
 In these years the Haudenosaunee Confederacy took in the Tuscarora, a whole nation that had lost its homeland. On the southern Plains, the Comanche built the strongest power in the region on horses and trade.
 
@@ -195,7 +197,7 @@ Records of much of this diplomacy survive in print. The speeches Native diplomat
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Neutrality as strategy" -->
-On August 4, 1701, about 1,300 delegates from more than thirty nations met at Montreal. There they made peace with the leaders of New France, the French colony in what is now Canada. As part of the same peace, the Haudenosaunee promised to stay neutral. That meant they would fight for neither France nor Britain.
+On August 4, 1701, about 1,300 delegates from more than thirty nations met at Montreal. Delegates are people sent to speak for a group. There they made peace with the leaders of New France, the French colony in what is now Canada. As part of the same peace, the Haudenosaunee promised to stay neutral. That meant they would fight for neither France nor Britain.
 
 For half a century, Haudenosaunee leaders used their neutrality to bargain with both sides. French and British officials each had to win their favor, because neither could count on Haudenosaunee help.
 <!-- /hb-zoom -->
@@ -228,7 +230,7 @@ Canasatego spoke for the Haudenosaunee Confederacy. In council he told colonial 
 
 At Lancaster he advised the colonies to unite, as his own nations had done centuries earlier: "We heartily recommend Union and a good Agreement between you our Brethren... you, as well as we, will become the stronger."
 
-He gave that speech on July 4, 1744, thirty-two years before leaders of those same colonies declared them one country, also on July 4. Benjamin Franklin printed the minutes of the council, including the speech.
+He gave that speech on July 4, 1744, thirty-two years before leaders of those same colonies declared them one country, also on July 4. Benjamin Franklin printed the minutes of the council, the written record of what was said there, including the speech.
 <!-- hb-story:end slug="canasatego" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -242,9 +244,9 @@ British forces beat the French in 1763. After that, only one European empire was
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pontiac and the Line" -->
-France and Britain both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. When France lost, the nations no longer had a second empire to balance against Britain.
+French and British commanders both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. When the French lost, the nations no longer had a second empire to balance against Britain.
 
-In 1763 a loose confederation of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
+In 1763 a loose confederacy of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
 
 British officials answered by drawing a line. They issued the Royal Proclamation on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists resented the line and crossed it anyway. The Proclamation stated in writing that the land beyond the mountains was not Britain's to hand out. Later treaty law was built on that rule.
 <!-- /hb-zoom -->
@@ -260,7 +262,7 @@ In 1790 Seneca chiefs spoke to Washington directly. "When your army entered the 
 <!-- hb-zoom level="span" label="The treaty system begins" -->
 On September 17, 1778, at Fort Pitt, United States officials signed their country's first treaty with a Native nation. The Lenape leaders White Eyes, John Kill Buck Jr. and Pipe signed for their nation. The English called the Lenape the Delaware. In the treaty, the American officials recognized Lenape sovereignty, which means the right of a nation to govern itself. They also asked for safe passage for American troops. The negotiators raised the idea of a Native fourteenth state, which would join the thirteen and send its own representatives to Congress. No one in Congress ever acted on that idea.
 
-In all, United States officials and Native leaders made 374 treaties that were formally approved, or ratified. The last of them date from the 1860s. The National Archives holds all 374, and its archivists have put every one online. A treaty is an agreement that only nations can make with each other. Each of those 374 treaties records United States officials dealing with a Native nation as a nation.
+In all, United States officials and Native leaders made 374 treaties that were formally approved, or ratified. The last of them date from the 1860s. The National Archives holds all 374, and its archivists have put every one online. Only nations make treaties with each other. Each of those 374 treaties records United States officials dealing with a Native nation as a nation.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Northwest Confederacy" -->
@@ -268,7 +270,7 @@ North of the Ohio River, the nations built a confederacy to hold the river as th
 
 On November 4, 1791, about a thousand confederacy fighters met the army of General Arthur St. Clair, which also had about a thousand men, and destroyed it. They killed more than 650 U.S. soldiers and wounded more than 270. The casualty rate, which counts the killed and the wounded together, was about 97 percent. No battle in the history of the U.S. Army has had a higher rate. Native casualties were roughly 100. It is still the largest defeat Native forces have ever given a United States army. It was larger than the Battle of the Little Bighorn, fought 85 years later. After the defeat, members of Congress held the first investigation by Congress in the country's history.
 
-In 1794 Anthony Wayne led a larger army, a legion of 3,300 men, against the confederacy. On August 20, 1794, at Fallen Timbers, near where Toledo, Ohio, stands today, Wayne's legion defeated the confederacy. At Greenville, on August 3, 1795, the confederacy's leaders signed a treaty and gave up most of Ohio and part of Indiana.
+In 1794 Anthony Wayne led a legion, an army unit of 3,300 men, against the confederacy. On August 20, 1794, at Fallen Timbers, near where Toledo, Ohio, stands today, Wayne's legion defeated the confederacy. At Greenville, on August 3, 1795, the confederacy's leaders signed a treaty and gave up most of Ohio and part of Indiana.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="little-turtle" name="Little Turtle (Mishikinaakwa)" movie="" kind="famous" status="verified" -->

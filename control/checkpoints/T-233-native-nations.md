@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233a: units 1-5 landed. Whole-file self-review of part 1 in progress.
-NEXT:   part 1 whole-file self-review, then part 2, era 1800-1850.
+NOW:    T-233a done. Part 1 (units 1-5) landed and self-reviewed. Parts 2 and 3 not started.
+NEXT:   part 2, era 1800-1850.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -65,6 +65,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - DEFECT FIXED (false statement): the 1700-1750 era zoom called the Comanche a "confederacy" ("Confederacies grew... Another built the strongest power on the southern Plains"). The bank never calls the Comanche a confederacy. Prose now names the Haudenosaunee and the Comanche separately.
 - DEFECT FIXED (self-contradiction): the 1750-1800 era zoom said "When the fighting ended, the United States began making treaties", but the span dates the first treaty to September 1778, during the war. Zoom now says "During the war, in 1778".
 - RULE CONFLICT SETTLED: the 1790 Seneca quotation contains a semicolon ("Town-destroyer; and to this day"). Zero semicolons (V2) vs quoting exactly. Settled by quoting the words unchanged in two parts with "they said" between them, so no word changes and no semicolon remains.
+- Whole-file self-review (V2 Self-Review + amendment §5) done on part 1: hard words defined at first use (friar, convent, treaty, coalition, delegates, diplomats, refugees, minutes, legion, banished); era openings varied so the five eras no longer all open on a date phrase; marker lines, record keys and hb-note verified byte-identical to the pre-revision file. File words 4,962 -> 5,750 (whole file incl. markers).
 - NOT FIXED, for the director: bank Acoma §1 records the Pueblos' account that Zaldivar's soldiers assaulted (per the Rio Grande Sun, raped) an Acoma woman. The bank says the director decides how the book states it. The prose still gives only the demand for food. Park in AUDIT-QUEUE.
 - DEFECT FIXED (self-contradiction): Cahokia was said to be lived in "to about 1400" and its people "gone by about 1350". Bank §1 gives both (occupied ~700-1400, dispersed by ~1350). Prose now says the people had scattered by about 1350 and nobody lived there by about 1400.
 
@@ -76,3 +77,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 3 1600s | full v2 revision of both era zooms, 4 spans, Metacom and Po'pay stories | 0 errors | file emdash=10 semicolon=3 (era 1600s has 0)
 - 2026-09-26 | unit 4 1700-1750 | full v2 revision of era zoom, 4 spans, Canasatego story | 0 errors | file emdash=6 semicolon=1 (era 1700-1750 has 0)
 - 2026-09-26 | unit 5 1750-1800 | full v2 revision of era zoom, 4 spans, Little Turtle story | 0 errors | file emdash=0 semicolon=0
+- 2026-09-26 | part 1 self-review | definitions, era-opening variety, institution-subject pass | 0 errors | file emdash=0 semicolon=0
