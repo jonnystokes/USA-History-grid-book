@@ -192,4 +192,8 @@ will be worded differently, which is exactly why a search will not find it.
   Other items from part 2: the bank names no Native nation at Rochester, Chicago, San Francisco
   or the land-run lands, and no one who took them. The bank calls marasmus "severe
   malnutrition" and the prose says "starvation" (both kept).
+- **city-building part 3 (from T-234c, 2026-09-26).** About 55 more claims are not in the bank,
+  about 78 across the chapter. See the city-building bank-gap item above. Also, Anderson's age:
+  "eight in 1958" and "approaching 83 in 2022" cannot both be true. The bank says they agree.
+  The prose states both, attributed to Sahan Journal. Resolve it from the source.
 

@@ -1885,4 +1885,20 @@ CHECKPOINT: control/checkpoints/T-234-city-building.md (units 8-10)
 VERIFY: python tools/project_state.py --check city-building --stage prose SHOULD PASS once this
         last part lands.
 BASELINE: 5,720 prose words, 48 em dashes, 12 semicolons. This is the largest part.
-RESULT:
+RESULT: *** PASS. city-building passes prose under style guide v2. Both previously written
+        chapters now meet the new standard. ***
+        PASS  city-building / prose
+          measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14)
+          ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16080w files=3 validator_errors=0
+        Part 3 prose words 5,720 -> 6,849. Markers identical apart from 11 revised labels.
+        BEYOND STYLE: Oak Ridge LAND ERASURE was still present ("empty ridgeland", "Secret cities
+        from nothing"). It now carries the bank's removals: about 1,000 families, the named
+        communities, and the 1942 taking. The 300,000-family figure applied to urban renewal
+        only, but the prose had put it on the freeways too. "Downtowns lost more than half" is
+        now Detroit's 48.6%. "Tens of millions" of empty office square feet understated 900
+        million. Superlatives were removed.
+        UNSETTLED: Anderson's age ("eight in 1958" against "approaching 83 in 2022"). Both are
+        stated and attributed to Sahan Journal. The bank wrongly says they agree.
+        FINDING: about 55 more claims are not in the bank, about 78 across the chapter. They are
+        listed in the checkpoint.
+T-234 COMPLETE: 3 agents, 528,000 tokens in all, about 30 minutes.
