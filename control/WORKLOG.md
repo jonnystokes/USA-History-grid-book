@@ -2141,4 +2141,23 @@ DIRECTOR: blocking gaps are now COLLECTED per chapter and closed by ONE patch-an
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-240-science.md (unit 3)
 VERIFY: part2 validates (--part), --punct 0/0, both eras written, stories verified.
+RESULT: DONE. 160,469 tokens, 27 tool uses, 7 min. MEASURED: validator 0 · --punct 0/0 · 2/2 written
+        · 6 stories verified · about 3,450 words (reported).
+        SPANS: Silliman, Henry and Faraday, Morton's 867 skulls (sources, method, the Gould/Lewis
+        dispute, Penn's 2021 apology), Maury (joined the Confederacy), Gray against Agassiz,
+        Agassiz and Zealy's daguerreotypes (all seven people named, Lanier's suit, the Mar 11,
+        2026 unveiling), Army Medical Museum skull collecting (Circular No. 2), Morrill and
+        Hatch, Mitchell's 1878 eclipse.
+        STORIES: Smithson, Henry, Mitchell, Gibbs, Michelson, Fleming.
+        DEFECT FIXED: the bank's "not above robbing graves" softened the act. The prose now says
+        "robbed graves". Four personifications were fixed. The outline's gnomic line and
+        antithesis were dropped. Outline claims left out: 13.
+        BLOCKING GAPS (6, collected): who used Morton's work to defend slavery, the grave-robbers,
+        who killed the Dakota man, what Darwin's theory is, who stripped the seven people for the
+        daguerreotypes, and who enslaved them.
+
+### 2026-09-26 | [CLOUD] T-240d | Write science PART 3 (eras 8-10), the last part
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-240-science.md (unit 4)
+VERIFY: science --stage prose SHOULD PASS. Then T-240e closes the collected blocking gaps.
 RESULT:
