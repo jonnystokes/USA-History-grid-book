@@ -120,3 +120,50 @@ Other groups also crossed the ocean for their religion. Catholics settled in Mar
 In 1685 King Louis XIV of France revoked the Edict of Nantes, the law that had let French Protestants worship in France. Revoked means he canceled it. Huguenots fled France. Most went to other countries in Europe. By 1700 only about 1,500 to 2,000 had reached the American colonies. They settled in places such as New York, Massachusetts, and Charleston, South Carolina.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="immigration" label="1700 to 1750" state="full" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+After 1700, large numbers of newcomers who were not English came to the colonies. Germans and Scots-Irish came by the thousands, and small Jewish communities grew in port towns. Many other arrivals came bound to work. They included indentured servants, British convicts sold as laborers, and enslaved Africans brought against their will.
+
+The colonists still lived in a thin strip along the Atlantic coast. The land farther inland was still Native land.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Germans and Scots-Irish" -->
+German newcomers came from the Rhineland, including the Palatinate, and from southwest Germany. The Palatinate is a region along the Rhine River. People left to escape war, taxes and failed crops, and they came for cheap land. About 2,100 of these Palatines reached New York in 1709 and 1710.
+
+A larger number of Germans went to Pennsylvania, mostly between about 1725 and 1775. By 1749 about 12,000 German speakers had come to Pennsylvania. By the time of the Revolution, Germans made up about one-third of the people in that colony. The name Pennsylvania Dutch comes from *Deutsch*, the German word for German.
+
+The Scots-Irish were Presbyterians, members of a Protestant church, from Ulster in the north of Ireland. Their ancestors were Scots who had settled in Ulster. Between 1710 and 1775 about 200,000 of them came to the land that later became the United States. They left to escape high rents and limits on their religion. Most landed in Pennsylvania. Many then moved south along the Appalachian backcountry, the land in and near the Appalachian Mountains, far from the coast. That backcountry was Native land.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="john-peter-zenger-immigration" name="John Peter Zenger" movie="" kind="famous" status="verified" -->
+### John Peter Zenger
+
+> **Who:** A boy from the German Palatinate who reached New York at 13, after his father died on the crossing, and trained as a printer.
+> **When and where:** Arrived in New York in June 1710. Died there July 28, 1746.
+
+John Peter Zenger reached New York in June 1710, at the age of 13. His father, Nicolaus, had died on the voyage.
+
+John Peter was born in 1697 in Rumbach, in the Palatinate. In late 1709 his family joined the Palatine migration and traveled first to England. They sailed for New York in April 1710. John Peter landed with his widowed mother, Johanna, and his two siblings. In 1711 he began work as an apprentice to the New York printer William Bradford. An apprentice is a young worker who learns a trade by working for a master for several years.
+
+In 1735 Zenger was found not guilty of seditious libel, the crime of publishing words that attack the government. He died on July 28, 1746.
+<!-- hb-story:end slug="john-peter-zenger-immigration" -->
+
+<!-- hb-zoom level="span" label="Jewish communities" -->
+Most of the Jews in the colonies were Sephardic Jews, whose families had come from Spain and Portugal. After the first group landed at New Amsterdam in 1654, Jewish communities formed at Newport, Rhode Island, and at Charleston, New York and Savannah, Georgia. On July 11, 1733, 42 Jews landed at Savannah.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Convicts sent as bound labor" -->
+Under a British law of 1718, the Transportation Act, about 50,000 convicts, people found guilty of crimes, were shipped from Britain to the American colonies. Some counts put the number as high as 60,000. In the colonies the convicts were sold as bound laborers, most of them for seven years. The sources do not say who shipped and sold them. The shipping went on until 1775.
+
+Convicts made up roughly a quarter of the people who emigrated from Britain in the 1700s. To emigrate means to leave your own country to live in another. Indentured servants also kept coming alongside the convicts.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Forced arrival through Charleston" -->
+The number of enslaved Africans brought to the mainland colonies rose sharply in these years. Rice planters in the South Carolina Lowcountry, the low coastal land, bought large numbers of West and Central Africans. Some planters chose Africans who already knew how to grow rice. Charleston, South Carolina, was the main mainland port where enslaved Africans arrived. Arriving Africans were held first at a quarantine station on Sullivan's Island, at the mouth of Charleston's harbor. Quarantine means keeping new arrivals apart so that any disease they carry does not spread. The sources used here do not name the people who held them there.
+
+Across the whole slave trade, slave traders put about 12.5 million Africans on ships, and about 10.7 million lived through the crossing. Fewer than 4 percent of them were brought to mainland North America. About 305,000 came straight from Africa, and close to 388,000 came in all, counting those brought by way of the Caribbean.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1700-1750" -->

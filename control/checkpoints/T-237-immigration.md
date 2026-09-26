@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a writing part1 era 1700-1750.
-NEXT:   write part1 era 1700-1750 (append to manuscript/immigration/part1-before-1800.md).
+NOW:    T-237a writing part1 era 1750-1800.
+NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before-1800.md).
 
 ## Units
 
@@ -22,8 +22,8 @@ NEXT:   write part1 era 1700-1750 (append to manuscript/immigration/part1-before
 | 1 | part1 era before-1500 (thin) | landed | file created, era written |
 | 2 | part1 era 1500s (thin) | landed | era written |
 | 3 | part1 era 1600s | landed | 6 spans + stories frethorne, hutchinson, jewish-refugees-1654 |
-| 4 | part1 era 1700-1750 | working | |
-| 5 | part1 era 1750-1800 | todo | |
+| 4 | part1 era 1700-1750 | landed | 4 spans + story zenger |
+| 5 | part1 era 1750-1800 | working | |
 | 6 | part2 era 1800-1850 | todo | |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
@@ -37,6 +37,7 @@ NEXT:   write part1 era 1700-1750 (append to manuscript/immigration/part1-before
 - "small and often in danger" (St. Augustine, outline 1500s span, line 30). Bank does not say it. Left out of 1500s span.
 - Hutchinson "to worship as they believed" and "on trial ... for her religious meetings" (outline line 44). Bank gives only "following minister John Cotton to Boston" and "tried November 1637 and banished". Left out.
 - Frethorne "bound to Martin's Hundred plantation" (outline line 48): bank says only "at Martin's Hundred". Written as "worked at a place called Martin's Hundred".
+- Zenger "the poor refugee boy" and "1735 acquittal began press freedom in America" (outline line 66). Bank gives only the 1735 seditious-libel acquittal. Left out.
 
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
@@ -50,6 +51,10 @@ NEXT:   write part1 era 1700-1750 (append to manuscript/immigration/part1-before
 - 1619 captors unnamed in bank: prose says "Captors whom the sources do not name".
 - Glosses (1600s, general knowledge, not bank): loblollie = thin porridge; privateer; Puritans = English Protestants who disagreed with how the Church of England was run; Archbishop of Canterbury = head of the Church of England; Quakers = Society of Friends; Edict of Nantes = law that had let French Protestants worship in France; West Indies.
 - Jamestown: bank says only "conflict with the Powhatan". Prose says the Powhatan people already lived on the land around Jamestown (land-erasure rule).
+- PERSONIFICATION (bank s4): "South Carolina Lowcountry rice economy ... imported" Africans. Prose names rice planters as buyers. Sullivan's Island: bank uses agentless "were held"; prose says the sources used here do not name who held them.
+- Convict transport: "Britain shipped" (outline line 62) is personification. Prose: "Under a British law of 1718 ... convicts were shipped" plus "The sources do not say who shipped and sold them."
+- ADDED from bank (not in outline): 1700-1750 forced-arrival span (Charleston, Sullivan's Island, SlaveVoyages scale figures). Kept short per slavery-freedom lead.
+- Glosses (1700-1750): Palatinate = region along the Rhine; Presbyterians; backcountry; apprentice; seditious libel; emigrate; quarantine; Lowcountry.
 - Glosses (1500s): continental US = states other than Alaska and Hawaii; feast day; missionary.
 
 ## Log
@@ -57,4 +62,5 @@ NEXT:   write part1 era 1700-1750 (append to manuscript/immigration/part1-before
 <!-- date-time | unit | words | validator | --punct -->
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
+- 2026-09-26 | 4 1700-1750 | ~800 prose | 0 errors (--part), 4 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 3 1600s | ~1,450 prose | 0 errors (--part), 3 stories | emdash=0 semicolon=0
