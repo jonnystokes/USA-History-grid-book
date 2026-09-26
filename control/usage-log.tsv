@@ -126,3 +126,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-237c	write-prose	general-purpose	[CLOUD] immigration part3 (3 eras)	?	?	?	209287	35	614520	?	completed	chapter PASS prose
 2026-09-26	T-239	research+fix	general-purpose	[CLOUD] immigration who-did-it gaps (bank + part 3)	?	?	?	192529	87	771530	?	completed	both PASS
 2026-09-26	T-240a	research	general-purpose	[CLOUD] science pre-write bank check	?	?	?	184447	82	665413	?	completed	17 patches
+2026-09-26	T-240b	write-prose	general-purpose	[CLOUD] science part1 (5 eras)	?	?	?	183222	31	533509	3250	completed	2 blocking gaps collected
