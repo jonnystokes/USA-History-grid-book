@@ -11,7 +11,7 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240b landed (part 1, eras 1-5, manuscript/science/part1-before-1800.md).
+NOW:    T-240c in flight (part 2, eras 6-7, manuscript/science/part2-1800s.md). Era 06 written.
 NEXT:   T-240c: write part 2 (eras 6-7)
 
 ## Units
@@ -20,7 +20,7 @@ NEXT:   T-240c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | todo | |
+| 3 | part2 eras 6-7 | in-flight | |
 | 4 | part3 eras 8-10 | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -62,3 +62,4 @@ NEXT:   T-240c: write part 2 (eras 6-7)
 - 2026-09-26 T-240b: era 1600s written (about 600 words, thin). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1700-1750 written (about 750 words). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240b: era 1750-1800 written (about 1,500 words). Part 1 total about 3,250 words, 6 stories. Validator --part: 0 errors. --punct: emdash=0 semicolon=0. Unit 2 landed.
+- 2026-09-26 T-240c: era 1800-1850 written (about 1,650 words, 3 stories: james-smithson, joseph-henry, maria-mitchell). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
