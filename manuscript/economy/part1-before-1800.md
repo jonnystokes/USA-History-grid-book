@@ -24,8 +24,24 @@ The people of Cahokia controlled the making and trading of hoe blades. A hoe is 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Shell, copper and obsidian" -->
-People carried whelk shells north from the coast of the Gulf of Mexico. A whelk is a large sea snail. Copper reached the river towns from the land around Lake Superior. At Cahokia, workers made shell beads in large numbers, and families on small farms made them as well.
+People carried whelk shells north from the coast of the Gulf of Mexico. A whelk is a large sea snail. Traders also moved copper from the land around Lake Superior. At Cahokia, workers made shell beads in large numbers, and families on small farms made them as well.
 
 In the West, people traded obsidian across their own networks of trails. Obsidian is a natural glass that forms in volcanoes.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
+
+<!-- hb-time:start id="1500s" order="02" chapter="economy" label="The 1500s" state="thin" progress="written" -->
+## The 1500s
+
+<!-- hb-zoom level="era" -->
+In the 1500s, the kings and queens of Spain, France and England paid for voyages to this coast to find gold and silver. In the land that became the United States, their explorers found none. The Spanish silver came from mines in Mexico and South America. The European businesses that lasted here were fishing and trading with Native people for furs. Almost no Europeans settled here yet, so there was no colonial economy.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Fish, furs and a rope from a cliff" -->
+European fishing crews worked the cod waters off the northeast coast all through the 1500s. They dried their catch on shore. The one Spanish town of the century, St. Augustine in Florida, began in 1565 as a military post. Money from the Spanish king's treasury paid for it. It was not set up to make a profit.
+
+In 1524 the crew of Giovanni da Verrazzano's ship met Abenaki people on the coast of what is now Maine. The Abenaki would not let the crew come ashore. Instead they traded from the top of a cliff, lowering baskets of goods to the ship on a rope. Crews of earlier European ships had already taken Native people from the Maine coast to sell as slaves. That is why the Abenaki kept this crew off the land. Verrazzano called the place "the land of bad people." The records do not say whether the baskets held furs.
+
+In July 1534, at Chaleur Bay, north of Maine in what is now Canada, Mi'kmaq traders held up beaver furs on sticks to the crew of Jacques Cartier. They traded the furs for knives and other iron goods. Cartier wrote the trade down in his own account of the voyage. It is one of the earliest recorded trades of furs between Europeans and Native people on this coast. The fur trade reached the land that became the United States in the next century.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1500s" -->
