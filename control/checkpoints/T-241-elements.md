@@ -12,7 +12,7 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241b landed (part1 eras 1-5 written, validator clean, --punct 0/0).
+NOW:    T-241c writing part2 era 1850-1900 (era 1800-1850 committed).
 NEXT:   T-241c: write part 2 (eras 6-7)
 
 ## Units
@@ -21,7 +21,7 @@ NEXT:   T-241c: write part 2 (eras 6-7)
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | todo | |
+| 3 | part2 eras 6-7 | in-flight | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
@@ -56,3 +56,4 @@ NEXT:   T-241c: write part 2 (eras 6-7)
 - 2026-09-26 T-241b: eras 1500s and 1600s written (file ~1,600 words). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241b: era 1700-1750 written (file ~1,950 words). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241b: era 1750-1800 written, self-review run. part1 total 2,802 words, 2 stories (joseph-priestley, conrad-reed). validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.
+- 2026-09-26 T-241c: era 1800-1850 written (file ~875 words). validator 0 errors, --punct emdash=0 semicolon=0.
