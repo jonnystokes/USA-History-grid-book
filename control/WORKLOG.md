@@ -2415,4 +2415,24 @@ RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 2/2 written · 3 stories v
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-243-economy.md (unit 4)
 VERIFY: economy --stage prose SHOULD PASS.
+RESULT: *** PASS. economy passes prose (11 stories verified, 13,293w). ***
+        Part 3 is about 4,950 words. It covers the crash, the Depression, the Bonus Army, Black
+        unemployment, the New Deal, the Social Security exclusions (both accounts: Dubin names Byrd,
+        Witte and Smith, DeWitt names Morgenthau), the AAA evictions and purge, 1944's 1.2% ("lowest
+        in the official records"), the postwar boom, stagflation, Youngstown, the farm crisis,
+        2008 by group, the Countrywide and Wells Fargo settlements, and figures dated to 2026.
+        Stories: Ford, Benjamin Roth, Frances Perkins, Gerald Dickey, Ed Neufeldt.
+        DEFECTS FIXED: GDP 104 -> 56B against "output down 30%" is now explained. A contradictory
+        museum "20 percent" was dropped. "Sixfold" became the bank's "600 percent". The Fed shares
+        use the revised Q2 2026 figures. The outline's "police shots" named a shooter the bank does
+        not support. Personification and a closing reversal were removed. Outline claims left
+        out: about 30.
+        BLOCKING GAPS (5 more, 19 in total): Hushka and Carlson's shooters, the planters' actions
+        against the STFU, the Youngstown decision-maker, the Carter/EDA official, 2008's named
+        executives and regulators. -> T-243e.
+
+### 2026-09-26 | [CLOUD] T-243e | economy: close the 19 collected BLOCKING GAPS
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md, "BLOCKING GAPS"
+VERIFY: economy still PASSES research and prose.
 RESULT:

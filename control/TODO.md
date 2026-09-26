@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-243d in flight:** writing `economy` part 3 (eras 8-10). Parts 1 and 2 are done.
+**T-243e in flight:** closing economy's 19 blocking gaps. **economy PASSES prose** (T-243d done).
 Written and passing: native-nations, city-building, immigration, science, elements, land-environment.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
