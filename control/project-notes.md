@@ -27,7 +27,7 @@ Working notes for the book. Not part of the book itself.
 - Use simple, common words. Avoid words a young or new reader would have to look up (for example, "vice"). Keep an eye on longer words like "recreation."
 
 ## Writing rules
-Follow the full guide in `control/writing-style-guide.md`. That file is the authority for prose.
+Follow the Writing Style Guide, Version 2 (`control/general-writing-style-guide.md`), and the book's amendment (`control/writing-style-guide.md`). Together they are the authority for prose.
 
 Core reminders (see the full guide for detail and examples):
 - No personification. Non-living things (nations, economies, documents, ideas) do not act, want, or feel. Name the people who act.

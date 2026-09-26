@@ -22,12 +22,12 @@ on the machine.
 | Thing | LOCAL (Jon's PC) | CLOUD (this file) |
 |---|---|---|
 | Project root | `C:/Users/jon/Projects/History-Book-Project-claude` | `/home/user/USA-History-grid-book` (a fresh clone from GitHub) |
-| General style guide | `C:\Users\jon\Projects\writing-style-guide.md` | `control/general-writing-style-guide.md`, **a copy Jon adds to the repo**. If it is missing, no prose may be written or judged. |
+| General style guide | Version 1 at `C:\Users\jon\Projects\writing-style-guide.md`, **superseded 2026-09-26** | **Both environments:** `control/general-writing-style-guide.md` (Version 2, an absolute requirement) |
 | What survives an interruption | Everything on disk | **Only what is committed and pushed to GitHub.** The container is deleted after inactivity. |
 | Dead agents' transcripts | `~/.claude/projects/...` for ~30 days | Same path, but **only while this container lives.** A new session gets a new container and none of the old transcripts. |
 | Salvage | `salvage_agent.py`, `resume_drill.py` | Work in the same container. After a container change, **the checkpoint file (§3) is the salvage.** |
 | Interruption message | Jon's automation sends it | Jon types "continue" when the window resets (or a `send_later` check-in fires, §6) |
-| Usage percentages | Jon reads them off the UI | Not visible to the agent. Log tokens, tool uses and minutes; mark the % column `?`. |
+| Usage percentages | Jon reads them off the UI | Not visible to the agent. Log tokens, tool uses and minutes, and mark the % column `?`. |
 | GitHub | n/a | GitHub MCP tools only. There is no `gh` CLI. |
 | Branch | whatever Jon uses | **`claude/gifted-volta-lfl54k`**. Never push to `main`. Jon merges when he brings the work home. |
 | Python | `python` | `python` and `python3` both work (3.x). Node 22 is on PATH. Chromium for Playwright is at `/opt/pw-browsers`. |
@@ -102,7 +102,7 @@ Write it for that stranger.
   the working tree until it returns.
 
 Checkpoints are useful on Jon's PC too. `AGENT-BRIEF.md` now asks for one in both
-environments; only the git push is cloud-only.
+environments. Only the git push is cloud-only.
 
 ---
 
@@ -115,8 +115,8 @@ environments; only the git push is cloud-only.
      (`progress=` flags and `[VERIFY]` counts, via grep). Tell the new agent the unit may be
      half-written.
    - Dispatch a fresh agent with the **same brief plus one line**: *"This task was
-     interrupted. Read `control/checkpoints/T-<nnn>-<slug>.md` first; resume from its NEXT
-     line; do not redo units marked landed; re-use its Sources in hand."*
+     interrupted. Read `control/checkpoints/T-<nnn>-<slug>.md` first. Resume from its NEXT
+     line. Do not redo units marked landed. Re-use its Sources in hand."*
    - If this container still holds the dead agent's transcript
      (`python tools/salvage_agent.py --list`), salvage it as RESUME.md says. That is a bonus,
      not the plan.
@@ -130,12 +130,13 @@ environments; only the git push is cloud-only.
 > **Cloud environment.** You are running on Anthropic's servers in a container that can be
 > deleted without warning. Only what you commit and push survives. Your checkpoint file is
 > `control/checkpoints/T-<nnn>-<slug>.md`. Read it first, keep it current, and commit and
-> push after EVERY unit as it describes (branch `claude/gifted-volta-lfl54k`; `git add`
-> named paths only; never push to main). A successor who has only your checkpoint and the
+> push after EVERY unit as it describes (branch `claude/gifted-volta-lfl54k`, `git add`
+> with named paths only, never a push to main). A successor who has only your checkpoint and the
 > files must be able to carry on without redoing your work.
-> The general style guide is `control/general-writing-style-guide.md`. Wherever a document
-> says `C:\Users\jon\Projects\writing-style-guide.md`, read that file instead.
-> britannica.com is blocked here; cite another source.
+> The general style guide is `control/general-writing-style-guide.md` (Version 2). If an
+> older document mentions `C:\Users\jon\Projects\writing-style-guide.md`, read Version 2
+> instead. That older file is superseded.
+> britannica.com is blocked here. Cite another source.
 
 Dispatch with the `Agent` tool, `subagent_type: general-purpose`, in the background, one at a
 time. Agents cannot spawn further agents here (spawn depth 1).
@@ -157,9 +158,9 @@ time. Agents cannot spawn further agents here (spawn depth 1).
 
 1. On GitHub, merge `claude/gifted-volta-lfl54k` into `main`, or pull the branch locally.
 2. `python tools/env_check.py` reports LOCAL, and RESUME.md applies again unchanged.
-3. The cloud-only files do no harm locally: this file, `control/checkpoints/`,
-   `control/TODO.md` and `control/general-writing-style-guide.md`. If the repo copy of the
-   general guide has been edited, reconcile it with the `C:\Users\jon\Projects` original.
+3. The cloud-only file (this one) does no harm locally. `control/checkpoints/`,
+   `control/TODO.md` and `control/general-writing-style-guide.md` (style guide Version 2)
+   apply in both environments.
 4. The WORKLOG entries made in the cloud are marked `[CLOUD]`. Their agent IDs point at
    transcripts that were never on the PC, so salvage will not find them. Their checkpoints
    hold what salvage would have given you.

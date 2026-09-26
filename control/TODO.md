@@ -11,13 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**Waiting on Jon**: the go-ahead on the plan below, and two setup items:
-
-- [ ] **Jon: add the general style guide to the repo** as
-      `control/general-writing-style-guide.md`. It is a copy of
-      `C:\Users\jon\Projects\writing-style-guide.md`. Every writing brief requires it, and it
-      has never been in the repo. Until it is there, no prose is written or judged.
-- [ ] **Jon: choose the order** (research first or writing first, below).
+**Waiting on Jon**: the go-ahead on the plan below and the choice of order.
 
 ## DONE this session
 
@@ -28,10 +22,15 @@ Last updated: 2026-09-26 (CLOUD, session 1)
       point to it through the environment switch.
 - [x] Checkpoint protocol written: `control/checkpoints/`. Every agent commits and pushes
       after every unit.
-- [x] T-232 (war eras 1-6) closed as PARTIAL from measurement. Eras 1-4 landed; eras 5-6 did
-      not start.
-
----
+- [x] T-232 (war eras 1-6) closed as PARTIAL from measurement. Eras 1-4 landed, and eras 5-6
+      did not start.
+- [x] **Writing Style Guide Version 2 installed** as `control/general-writing-style-guide.md`.
+      It is binding in both environments and supersedes v1. CLAUDE.md, the amendment, the
+      policy, AGENT-BRIEF, RESUME's briefs and the ROADMAP now cite it by rule heading. The
+      prose gate now fails a chapter on any em dash or semicolon.
+- [x] Measured result: **both finished chapters now FAIL `--stage prose`.** native-nations
+      has 74 em dashes and 40 semicolons. city-building has 83 em dashes and 23 semicolons.
+      They were written under v1.
 
 ## THE QUEUE (once Jon approves)
 
@@ -50,6 +49,10 @@ choose:**
 6. Only then, Phase 2 writing.
 
 ### Option B: writing first, for the chapters that are ready (recommended)
+0. **v2 revision of the two finished chapters** (`native-nations`, `city-building`), at one
+   agent per part file, six in all. This gets them back to PASS. It also tests how agents
+   apply v2 before 27 new part files are written under it. The revision is a full v2
+   read-and-repair, not a punctuation swap.
 1. **T-233 war eras 5-10.** It is half done, so finish it.
 2. **Write prose for the 9 chapters that already pass `--stage research`.** These go in
    three part files each (eras 1-5, 6-7, 8-10), like the two finished chapters, at one agent

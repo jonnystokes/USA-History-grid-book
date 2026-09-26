@@ -13,7 +13,7 @@ Editor's in-development note — not part of the final book; stripped by our bui
      Same markers as the outline; only the contents and three attributes change:
        mode="prose"  ·  every hb-time progress="written"  ·  every hb-story status="verified"
 
-     WRITE: plain-language prose paragraphs for ages 8-15, per control/writing-style-guide.md
+     WRITE: plain-language prose paragraphs for ages 8-15, per control/general-writing-style-guide.md (v2) and control/writing-style-guide.md, with zero em dashes and zero semicolons
        (BINDING) and control/hard-subjects-policy.md (BINDING). Read both before writing.
      NO PERSONIFICATION (style guide 1.1): a law, act, treaty, school, agency, company or
        nation cannot do anything. Name the people who acted. This is the rule most often

@@ -106,8 +106,10 @@ Gate: `python tools/project_state.py --check <slug> --stage prose`
 `progress` flags and could never pass for any chapter.)
 
 **Every writing agent reads, before writing a word:**
-- `control/writing-style-guide.md` — **BINDING**, and now the main instrument. §0 (reader and
-  reading level), §1.11 (the AI cadence), §2.6 (the teaching point), §4 (self-audit).
+- `control/general-writing-style-guide.md`, the Writing Style Guide, Version 2. **BINDING**
+  (Jon, 2026-09-26: an absolute requirement), and the main instrument. Read all of it.
+- `control/writing-style-guide.md`, **BINDING**: the book's amendment (reader, subject,
+  policy, audit additions).
 - `control/hard-subjects-policy.md` — **BINDING**. No softening; never invent a name.
 - `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2.
 - Its own `outlines/<slug>.md` and `research/research-<slug>.md`.
@@ -178,9 +180,10 @@ cannot see: the 25 silent failures in `VIEWER-CONTRACT.md` §3 — records stran
 attributes out of sync with their blockquote lines. Ends with the whole book open in
 `viewer/viewer.html` (v2), looked at.
 
-**3b — Language.** Read every chapter against `writing-style-guide.md`. The AI cadence
-(§1.11), forced rhythm (§1.12), register mixing (§1.13), oversized words (§0.2, §1.14),
-personification (§1.1), and the teaching-point test (§2.6) — what is this teaching, and how
+**3b — Language.** Read every chapter against the Writing Style Guide, Version 2
+(`general-writing-style-guide.md`) and the book's amendment (`writing-style-guide.md`).
+Check "The AI Cadence", "Forced Rhythm and Sound Patterning", "Register Breaks", "Oversized
+Words and Nominalization", "Personification and Anthropomorphism", and "The Teaching Point" — what is this teaching, and how
 fast does it get there? Plus the thing only a full read can judge: **one voice across 37
 chapters written by dozens of agents.**
 

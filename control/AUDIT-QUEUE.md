@@ -141,3 +141,24 @@ will be worded differently, which is exactly why a search will not find it.
 7. **Inverted agency.** An institution named as the actor, the people who did the work arriving
    as a subordinate clause, and nobody named as having compelled them. Ask: **who actually did
    this, and who made them?**
+
+---
+
+## Added 2026-09-26: Writing Style Guide Version 2
+
+- **The two finished chapters were written under v1 and fail v2.** The prose gate now counts
+  em dashes and semicolons. `native-nations` has 74 em dashes and 40 semicolons. `city-building`
+  has 83 em dashes and 23 semicolons. Punctuation is only the part a machine can count. A
+  full v2 read (root metaphors, reification, patient-verb agreement, modal ambiguity, repeated
+  units, the dry side) has not been done. The TODO proposes doing it now as Phase 2 work,
+  because the gate fails without it.
+- **The outlines contain about 2,872 em dashes.** Writers must not copy the punctuation. No
+  outline is being repunctuated, because outlines are working files and the prose gate
+  guards the book.
+- **The "after" examples in `hard-subjects-policy.md` §2 are v1-era text.** They include em
+  dashes, semicolons, "the Colfax Massacre ... killed" and "an 1891 law let the government".
+  A note now tells writers to copy their completeness and not their construction. Rewriting
+  them needs the sources, so it waits for the audit.
+- **Control documents still contain em dashes and semicolons.** CLAUDE.md, the amendment and
+  the new cloud files are clean. RESUME.md, AGENT-BRIEF.md, ROADMAP.md and the policy's
+  remaining semicolons are not. Writers read them, so a cleanup pass is cheap and useful.

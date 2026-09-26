@@ -1,23 +1,44 @@
-# Writing Style Guide — US History Book
+# Writing Style Guide: US History Book (the book's amendment)
 
 ## Required reading first
 
-**You must read `C:\Users\jon\Projects\writing-style-guide.md` in full before you
-write or judge a sentence of this book.** (In the CLOUD environment, read the repo copy
-`control/general-writing-style-guide.md`. See `control/CLOUD-WORKFLOW.md`.)
-**It is required, not optional, and it is not summarised here.**
+**You must read `control/general-writing-style-guide.md` (Writing Style Guide, Version 2)
+in full before you write or judge a sentence of this book.** It is required, and this file
+does not summarise it. Jon adopted Version 2 on 2026-09-26 as an absolute requirement, in
+both environments. It replaces Version 1 (`C:\Users\jon\Projects\writing-style-guide.md`).
 
-That file holds the prose rules and their repairs: personification and the
-pathetic fallacy, reification, passives with a missing or false agent, the AI
-cadence, register breaks, rhetorical decoration, gnomic declaratives, hedges,
-analogies, evaluative adjectives, unanchored comparatives, staged scenes, word
-size, information density, and the self-audit to run before reporting. Every
-rule there ends with a numbered fix list, so the repair is stated as clearly as
-the fault.
+Version 2 contains the prose rules and their repairs. Its rules are grouped by defect under
+headings and carry no section numbers, so cite a rule by its heading, for example "The AI
+Cadence" or "Passives with a Missing or False Agent". Every rule states the defect and the
+repair.
 
-This file holds only what is specific to this book: the reader, the subject, and
-the policy. **Where the two disagree, this file wins on the reader, the subject
-and the policy; the general file wins on prose mechanics.**
+This file contains only what is specific to this book: the reader, the subject, and the
+policy. **Where the two files disagree, this file governs the reader, the subject and the
+policy. Version 2 governs prose mechanics.**
+
+### Version 2 rules with a fixed meaning in this book
+
+- **Zero em dashes and zero semicolons** in anything a reader of the book will see: the
+  prose, the headings and the story blocks. `python tools/project_state.py --check <slug>
+  --stage prose` counts both characters and fails the chapter on a single one. The outlines
+  and research banks contain thousands of em dashes. A writer must not copy that punctuation
+  into the prose.
+- **Passives.** Version 2 allows a passive when the actor is unknown or does not matter to
+  the reader ("the bridge was built in 1893"). In this book, `hard-subjects-policy.md` adds
+  a condition. When someone was harmed, killed, moved, taken, or punished, the actor always
+  matters. Name the actor. When the sources do not name one, write that the records do not
+  say who did it.
+- **Repeated units.** A grid of 37 chapters by 10 eras, plus story blocks, is a set of
+  repeated units. Version 2's rule "Repeated units must not share a shape" (under "Writing
+  the Reader Will Act On") applies to every era cell and every story block. Read the first
+  sentences of a chapter's ten eras together, then their last sentences. If they sound
+  alike, rewrite them.
+- **Rhetorical questions.** Version 2 allows a question as a section opener when the next
+  sentence answers it, and never in two consecutive sections. That limit applies here. A
+  question anywhere else is a defect.
+- **Mode.** This book is narrative and analytical history. Version 2's instructional
+  requirements (imperatives, one action per step) do not apply to its prose. Its root
+  metaphors do apply wherever the prose refers to the book itself.
 
 Also binding, and also not summarised here: `control/hard-subjects-policy.md`.
 
@@ -32,7 +53,7 @@ This section outranks anything in either file that conflicts with it.
 Ages 8 to 15. They do not know this history. They cannot tell when you have left
 something out, so anything you soften becomes what they believe happened. That is
 why `control/hard-subjects-policy.md` is binding, and why it is not in tension
-with writing plainly. Hard facts, plain words. Those go together; they are not a
+with writing plainly. Hard facts and plain words go together. They are not a
 trade.
 
 They are reading to **learn something**, not to admire the prose. Every sentence
@@ -43,18 +64,18 @@ that makes them work harder without teaching them more is a sentence that failed
 Aim at a competent 11-year-old and the 8-year-old will follow most of it while
 the 15-year-old is not insulted. Concretely:
 
-- **Sentences average 12–18 words.** Some short, a few longer. A 40-word sentence
-  needs a reason.
+- **Sentences average 12–18 words.** The information sets each sentence's length, so
+  lengths vary (Version 2, "The Reader"). A 40-word sentence needs a reason.
 - **One idea per sentence.** Two clauses maximum. If you need three, use two
   sentences.
 - **Paragraphs of 3–6 sentences.**
 - **Prefer the shorter word every time it means the same thing.** Not "utilize"
-  but "use"; not "subsequently" but "then" or "later"; not "in the vicinity of"
-  but "near"; not "demonstrate" but "show"; not "sufficient" but "enough"; not
-  "numerous" but "many"; not "commenced" but "began"; not "residence" but "home";
-  not "obtain" but "get"; not "purchase" but "buy"; not "construct" but "build";
-  not "approximately" but "about"; not "prior to" but "before".
-- **Active voice by default.** "Congress passed the law" is not a fix — that is
+  but "use". Other pairs: "subsequently" becomes "then" or "later", "in the vicinity
+  of" becomes "near", "demonstrate" becomes "show", "sufficient" becomes "enough",
+  "numerous" becomes "many", "commenced" becomes "began", "residence" becomes "home",
+  "obtain" becomes "get", "purchase" becomes "buy", "construct" becomes "build",
+  "approximately" becomes "about", and "prior to" becomes "before".
+- **Active voice by default.** "Congress passed the law" is not a fix. That is
   personification. "The men in Congress voted the law through" is a fix.
 
 ### 1.3 Hard words you must keep
@@ -65,10 +86,11 @@ proper names of things. **Keep them and define them on first use, in the same
 sentence or the next one, in plain words.**
 
 **Weak:** "The commissioners authorized a declaration of taking."
-**Strong:** "The Army filed a paper called a declaration of taking. It let the
-government take the land right away and argue about the price afterwards."
+**Strong:** "Army lawyers filed a paper called a declaration of taking. Under it,
+federal officials could take the land right away and argue about the price later."
 
-The definition is not a digression. It is the sentence doing its job.
+Put the definition in the same sentence as the term or in the next one. The reader cannot go
+on without it.
 
 ### 1.4 What a reader this age cannot do
 
@@ -93,8 +115,8 @@ company, city, colony, nation, agency, department or movement cannot want,
 decide, seek, struggle or demand. Name the people.
 
 - **Weak:** "The economy struggled to recover from the panic."
-  **Strong:** "Banks called in loans. Businesses closed. Unemployment reached
-  fifteen percent in the industrial cities."
+  **Strong:** "Bank officers called in loans. Owners who could not repay closed
+  their shops, and in the industrial cities fifteen percent of workers lost their jobs."
 - **Weak:** "The Constitution believed in limited government."
   **Strong:** "The framers designed the Constitution to limit federal authority."
 - **Weak:** "The factory system demanded a new kind of worker."
@@ -119,7 +141,7 @@ present used for drama.
   for the right to run their own church. People were already living there."
 
 A chapter about 1550 is written in the same voice as a chapter about 2020. The
-subject changes; the voice does not.
+subject changes. The voice stays the same.
 
 **Analogies.** Comparisons between periods are allowed and carry information:
 "the Panic of 1893 resembled the Panic of 1873 in its banking structure but
@@ -175,8 +197,9 @@ more than about twenty-five words, move the point to the front.**
 - **Weak:** "In the spring of 1889, thousands of people gathered at a line drawn
   across the prairie. Wagons stretched to the horizon. At noon a gun fired. What
   followed would build a city in a single day."
-- **Strong:** "On April 22, 1889, the United States opened about 1.9 million
-  acres to settlers, on land it had taken from Native nations. About 50,000
+- **Strong:** "On April 22, 1889, President Benjamin Harrison opened about 1.9
+  million acres to settlers by proclamation. US officials had taken the land from
+  Native nations. About 50,000
   people raced in at noon. By nightfall Guthrie was a town of about 10,000."
 
 Withholding a fact to create suspense is a form of softening.
@@ -185,17 +208,17 @@ Withholding a fact to create suspense is a form of softening.
 
 ## 5. Audit Additions
 
-Run the general guide's Section 4 audit first. Then these three, which are
+Run Version 2's "Self-Review Before Reporting" first. Then these three, which are
 specific to this book:
 
 1. **Find every institution that is the subject of a verb.** Law, act, treaty,
    school, company, city, colony, nation, agency, department, movement. Each is a
    personification defect unless the verb is something it can literally do: a
-   company can *own*; it cannot *decide* or *want*.
+   company can *own*. It cannot *decide* or *want*.
 2. **Read for softening, do not search for it.** A search finds the string and
    misses the move. It will never find "the land was open for the taking", which
-   is the same erasure as "empty prairie". You can recognise these when you read;
-   a pattern match cannot.
+   is the same erasure as "empty prairie". You can recognise these when you read.
+   A pattern match cannot.
 3. **Find every hard word you kept** and check it is defined in plain words at
    first use, including the clinical ones governed by `hard-subjects-policy.md`
    §3b.

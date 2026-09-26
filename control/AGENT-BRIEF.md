@@ -67,7 +67,7 @@ The container can be deleted, and only what is pushed survives.
 
 **A grid.** 37 subject chapters (the perspectives) × 10 fixed time sections (the eras). The finished product is a program where a reader scrolls **down through time** and **left and right through perspectives**. You are producing the story data for one column of that grid.
 
-Read first: **`control/hard-subjects-policy.md` (BINDING — no softening, never invent a name, and the clinical-word rule)** · **`control/writing-style-guide.md` (BINDING — §1.1 personification is the rule most often broken, including while repairing a passive)** · `control/chapter-registry.md` (your chapter's angle and its neighbours) · `control/project-notes.md` (rules) · `control/grid-markers.md` (structure) · your chapter's seed file in `outlines/`.
+Read first: **`control/hard-subjects-policy.md` (BINDING — no softening, never invent a name, and the clinical-word rule)** · **`control/general-writing-style-guide.md` (Writing Style Guide Version 2, BINDING, read in full)** · **`control/writing-style-guide.md` (this book's amendment, BINDING. Personification is the rule most often broken, including while repairing a passive)** · `control/chapter-registry.md` (your chapter's angle and its neighbours) · `control/project-notes.md` (rules) · `control/grid-markers.md` (structure) · your chapter's seed file in `outlines/`.
 
 ## 2. The ten eras — every chapter, always in this order
 
@@ -130,9 +130,9 @@ Native continuity **past 1900** (easily dropped once "the frontier closes" — d
 
 ## 9. Voice — THE STYLE GUIDE BINDS THE OUTLINE TOO (tightened 2026-08-08 after violations)
 
-Read `control/writing-style-guide.md` and apply it to **every sentence you write in the outline**, not just future prose. Bullets may be terse; but any era-zoom or span text you write as sentences IS miniature book prose and follows the guide in full. Specifically banned (all found in real outline violations):
+Read `control/general-writing-style-guide.md` (Version 2) and `control/writing-style-guide.md` (the book's amendment), and apply them to **every sentence you write in the outline**, not just future prose. Bullets may be terse; but any era-zoom or span text you write as sentences IS miniature book prose and follows the guide in full. Specifically banned (all found in real outline violations):
 - **Teaser sentences that withhold the facts** — "it took two tries — one ended in an attack" forces the reader to hunt for what attack. Say it: "The Powhatan destroyed the first ironworks in the attacks of 1622."
-- **Em-dash rhetorical pivots and balanced-clause flourishes** ("one ended in X, one ran for Y"). Plain declarative sentences instead. Use em dashes sparingly, for interruption of sense, never for drama.
+- **Em dashes and semicolons, in any sentence written as book prose.** Style guide Version 2 (2026-09-26) forbids both characters outright. Use a period, a comma, a colon or parentheses. Balanced-clause flourishes ("one ended in X, one ran for Y") are also banned. Use plain declarative sentences instead. Terse bullets and bank citations are working notes and are exempt.
 - Personification, metaphor, "poetic" cadence, evaluative adjectives, hedges, staged scenes, self-commentary — all per the guide.
 The test for every era-zoom line: **could it drop into the finished book unchanged?** If not, rewrite it plainly. Flag anything hard to say plainly for an 8–15 reader and suggest the plain wording.
 

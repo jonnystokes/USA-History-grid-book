@@ -1746,3 +1746,28 @@ writing-style-guide.md gained the environment switch. Nothing local was removed.
 BLOCKER: the general style guide (C:\Users\jon\Projects\writing-style-guide.md) is not in the
 repo. Jon is to add it as control/general-writing-style-guide.md.
 WAITING: Jon's go-ahead on the plan in control/TODO.md.
+
+### 2026-09-26 | [CLOUD] WRITING STYLE GUIDE VERSION 2 ADOPTED
+Jon's instruction: Version 2 is an absolute requirement. It is installed at
+control/general-writing-style-guide.md and binds both environments. The v1 file on Jon's PC is
+superseded. The v2 header was changed from "not yet approved" to "the live guide".
+POINTERS UPDATED: CLAUDE.md (rewritten to follow v2), control/writing-style-guide.md
+(the amendment gained a "Version 2 rules with a fixed meaning in this book" section. Three of
+its Strong examples broke v2 and were fixed), hard-subjects-policy.md §5, §6b and §7 (rules now
+cited by heading, a new check 9 for punctuation, a warning on the v1-era "after" examples),
+AGENT-BRIEF.md §1 and §9, RESUME.md's research and writing briefs and its prose bar,
+ROADMAP.md, CLOUD-WORKFLOW.md, project-notes.md, templates/chapter-template.md,
+tools/env_check.py.
+GATE CHANGED: project_state.py's prose bar now requires 0 em dashes (U+2014) and 0 semicolons
+in reader-facing manuscript text. Marker lines, hb-note blocks and HTML entities are excluded.
+MEASURED AFTER THE CHANGE: native-nations prose FAIL (emdash=74 semicolon=40). city-building
+prose FAIL (emdash=83 semicolon=23). Everything else in both chapters still meets the bar.
+CONFLICTS RESOLVED IN THE AMENDMENT, FOR JON TO CONFIRM:
+  (1) Passives. v2 allows one when the actor is unknown or does not matter. The book adds that
+      when someone was harmed, the actor always matters: name the actor, or state that the
+      records do not say.
+  (2) Rhetorical questions. CLAUDE.md banned them outright. v2 allows one as a section opener
+      answered by the next sentence. v2 governs mechanics, so v2's limit now applies.
+  (3) Sentence length. The amendment's 12-18-word average stands. v2's "vary length by
+      information" is added to it.
+PARKED: AUDIT-QUEUE "Added 2026-09-26".

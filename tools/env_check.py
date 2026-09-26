@@ -39,12 +39,12 @@ def main():
     print(f"project root: {root}")
     if name == "CLOUD":
         print("FOLLOW: control/CLOUD-WORKFLOW.md  (then control/TODO.md, then the WORKLOG tail)")
-        guide = os.path.join(root, "control", "general-writing-style-guide.md")
-        print(f"general style guide: control/general-writing-style-guide.md "
-              f"{'(present)' if os.path.exists(guide) else '(MISSING - writing is blocked until Jon adds it)'}")
     else:
         print("FOLLOW: control/RESUME.md  (the local workflow, unchanged)")
-        print(r"general style guide: C:\Users\jon\Projects\writing-style-guide.md")
+    # Both environments: style guide Version 2 lives in the repo (Jon, 2026-09-26).
+    guide = os.path.join(root, "control", "general-writing-style-guide.md")
+    print(f"general style guide (v2): control/general-writing-style-guide.md "
+          f"{'(present)' if os.path.exists(guide) else '(MISSING - no prose may be written or judged)'}")
     return 0
 
 

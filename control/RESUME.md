@@ -70,7 +70,7 @@ printed count, which is the reliable path.
 |---|---|---|
 | Research a chapter | `research` | 10/10 eras researched · 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · 0 `[VERIFY]` tags · validator 0 errors on the outline |
 | Patch a gapped chapter | `patch` | 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · validator 0 errors on the outline |
-| Write prose | `prose` | **measured from `manuscript/<slug>/*.md`:** 10/10 eras `progress="written"` · every manuscript story `verified` · 0 `[VERIFY]` tags · ≥ 3,000 words · validator 0 errors on every part (with `--part` when there is more than one) |
+| Write prose | `prose` | **measured from `manuscript/<slug>/*.md`:** 10/10 eras `progress="written"` · every manuscript story `verified` · 0 `[VERIFY]` tags · 0 em dashes and 0 semicolons (style guide v2, added 2026-09-26) · ≥ 3,000 words · validator 0 errors on every part (with `--part` when there is more than one) |
 
 These bars live in `tools/project_state.py` (`DONE`). Change them there, never by
 arguing with them in prose.
@@ -114,11 +114,13 @@ more; a writer that finds a defect in its own source fixes it in the prose, name
 report, and the director parks it in `control/AUDIT-QUEUE.md` for Phase 3. Full plan in
 `control/ROADMAP.md`.
 
-This means **`control/writing-style-guide.md` is the main quality instrument**, not a
-reference. It gained §0 (the reader and the reading level), §1.11–1.14 (the AI cadence, sound
-patterning, register mixing, oversized words), §2.6 (know what you are teaching and get to it)
-and §4 (the self-audit every writer runs before reporting). A writing agent that has not read
-those has not been briefed.
+This means **the style guides are the main quality instrument**, not a reference. Since
+2026-09-26 there are two: **`control/general-writing-style-guide.md`** (the Writing Style
+Guide, Version 2, which Jon made an absolute requirement) and **`control/writing-style-guide.md`**
+(this book's amendment: the reader, the subject, the policy). Version 2's rules have headings
+and no numbers. The ones a writer needs most are "The Reader", "The AI Cadence", "The
+Teaching Point", "Forbidden Punctuation" (zero em dashes, zero semicolons) and "Self-Review
+Before Reporting". A writing agent that has not read both files in full has not been briefed.
 
 ### Standard sub-agent brief
 
@@ -130,8 +132,9 @@ Every research/patch agent gets, verbatim:
 > clean.** If an error survives to the end, fix it or say in your report what it is and
 > why you left it — the thing to avoid is shipping one unexamined.
 > Read `control/AGENT-BRIEF.md`, `control/hard-subjects-policy.md` (BINDING),
-> `control/writing-style-guide.md` (BINDING — §1.1 personification is the rule most often
-> broken), `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2 before
+> `control/general-writing-style-guide.md` (Writing Style Guide Version 2, BINDING, read in
+> full), `control/writing-style-guide.md` (the book's amendment, BINDING. Personification is
+> the rule most often broken), `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2 before
 > writing anything. You are producing
 > `outlines/<slug>.md` and `research/research-<slug>.md` for ONE chapter.
 > Your work is judged by `python tools/project_state.py --check <slug> --stage <stage>`.
@@ -157,13 +160,19 @@ and nothing else.
 Every prose agent gets, verbatim:
 
 > Read these before writing a word, in this order:
-> `control/writing-style-guide.md` — **BINDING, and the main instrument of this phase.**
-> §0 is who your reader is and at what reading level. §1.11 names the AI cadence you are
-> most likely to produce and least likely to notice — assume you will produce it unless you
-> are working against it. §2.6 is the positive standard: know what you are teaching and get
-> to it. **§4 is a self-audit you must actually run before you report.**
-> `control/hard-subjects-policy.md` — **BINDING.** No softening of any kind; never invent a
-> name; define clinical words in plain language at first use.
+> `control/general-writing-style-guide.md`, the Writing Style Guide, Version 2. **BINDING,
+> an absolute requirement, and the main instrument of this phase. Read all of it.** "The
+> Reader" states who you are writing for. "The AI Cadence" names the patterns you are most
+> likely to produce and least likely to notice. Assume you will produce them, and work
+> against them. "The Teaching Point" is the positive standard: know what you are teaching and
+> state it first. "Forbidden Punctuation" allows zero em dashes and zero semicolons, and the
+> prose gate counts both. **"Self-Review Before Reporting" is a review you must actually run,
+> repairing every defect it finds, before you report.**
+> `control/writing-style-guide.md`, **BINDING**: this book's amendment. It covers the reader
+> (age 11, sentences averaging 12 to 18 words), the subject, the policy, and its own audit
+> additions in §5.
+> `control/hard-subjects-policy.md`, **BINDING.** No softening of any kind. Never invent a
+> name. Define clinical words in plain language at first use.
 > `control/grid-markers.md` §7b · `control/VIEWER-CONTRACT.md` §2 · your own
 > `outlines/<slug>.md` and `research/research-<slug>.md`.
 >

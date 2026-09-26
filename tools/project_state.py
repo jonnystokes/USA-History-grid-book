@@ -50,6 +50,34 @@ def prose_words(text):
     return n
 
 
+RE_ENTITY = re.compile(r'&#?\w+;')
+
+
+def punctuation(text):
+    """Em dashes (U+2014) and semicolons (U+003B) in reader-facing text.
+
+    Added 2026-09-26 with writing style guide v2, which forbids both and requires every
+    draft to return zero matches for each. Counts every line a reader can see: prose,
+    headings and story blockquotes. Skips marker lines, hb-note blocks (editor notes)
+    and HTML entities such as &amp;.
+    """
+    dash = semi = 0
+    in_note = False
+    for line in text.split("\n"):
+        m = RE_MARK.match(line)
+        if m:
+            slash, name, se, tail = m.groups()
+            if name == "hb-note":
+                in_note = not slash
+            continue
+        if in_note or line.strip().startswith("<!--"):
+            continue
+        clean = RE_ENTITY.sub("", line)
+        dash += clean.count("\u2014")
+        semi += clean.count(";")
+    return dash, semi
+
+
 def scan_file(path):
     """Parse one grid file. Returns a dict of measured facts."""
     with open(path, encoding="utf-8") as f:
@@ -161,7 +189,12 @@ def chapter_state(slug):
     # how finished. city-building had 10/10 written eras, 14 verified stories, 13,768
     # words and a clean validator, and still measured FAIL / stage=WRITING.
     ms_eras, ms_status, ms_verify = {}, [], 0
+    ms_dash = ms_semi = 0
     for x in ms_files:
+        with open(os.path.join(ms_dir, x), encoding="utf-8") as f:
+            a, b = punctuation(f.read())
+        ms_dash += a
+        ms_semi += b
         mi = scan_file(os.path.join(ms_dir, x))
         ms_eras.update(mi["eras"])          # merged across parts: one chapter, ten eras
         ms_status += [s["status"] for s in mi["stories"]]
@@ -196,6 +229,8 @@ def chapter_state(slug):
         "ms_stories": len(ms_status),
         "ms_verified": ms_status.count("verified"),
         "ms_verify_tags": ms_verify,
+        "ms_emdash": ms_dash,
+        "ms_semicolon": ms_semi,
         "dup_slugs": sorted({s["slug"] for s in info["stories"]
                              if [x["slug"] for x in info["stories"]].count(s["slug"]) > 1 and s["slug"]}),
         "empty_story_slugs": sum(1 for s in info["stories"] if not s["slug"]),
@@ -268,9 +303,11 @@ DONE = {
                    and d["ms_stories"] > 0
                    and d["ms_verified"] == d["ms_stories"]
                    and d["ms_verify_tags"] == 0
+                   and d["ms_emdash"] == 0 and d["ms_semicolon"] == 0
                    and d["manuscript_words"] >= 3000),
         "manuscript 10/10 eras progress=written | every manuscript story verified | "
-        "0 [VERIFY] tags in the manuscript | >= 3000 words"),
+        "0 [VERIFY] tags in the manuscript | 0 em dashes and 0 semicolons (style guide v2) | "
+        ">= 3000 words"),
 }
 
 
@@ -313,10 +350,11 @@ def main():
         print("  bar: %s | validator 0 errors" % bar)
         if stage == "prose":
             print("  measured: stage=%s ms_eras=%d/10 written=%d/10 ms_stories=%d "
-                  "(verified %d) ms_verify_tags=%d manuscript=%dw files=%d "
-                  "validator_errors=%s"
+                  "(verified %d) ms_verify_tags=%d emdash=%d semicolon=%d manuscript=%dw "
+                  "files=%d validator_errors=%s"
                   % (d["stage"], d["ms_eras_present"], d["ms_progress_written"],
                      d["ms_stories"], d["ms_verified"], d["ms_verify_tags"],
+                     d["ms_emdash"], d["ms_semicolon"],
                      d["manuscript_words"], len(d["manuscript_files"]), errs))
             if d["ms_eras_missing"]:
                 print("  manuscript missing eras: %s" % ", ".join(d["ms_eras_missing"]))
