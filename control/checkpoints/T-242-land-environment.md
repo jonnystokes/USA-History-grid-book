@@ -15,8 +15,11 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242c writing part2, era 07 (1850-1900).
-NEXT:   T-242c: write part 2 (eras 6-7)
+NOW:    T-242c was KILLED by the usage limit after writing era 07 in one append. The text validated
+        clean (0/0 punct) and the director committed it. The era's self-review, outline-claims list
+        and blocking gaps were NOT done.
+NEXT:   T-242c2: run the Version 2 self-review on part 2 (era 07 especially), record era 07's
+        outline claims and blocking gaps, mark unit 3 landed.
 
 ## Units
 

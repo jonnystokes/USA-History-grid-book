@@ -2307,4 +2307,13 @@ RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 5/5 written · 2 stories v
 ### 2026-09-26 | [CLOUD] T-242c | Write land-environment PART 2 (eras 6-7)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 3)
+RESULT: KILLED by the usage limit (session limit, reset 13:20 UTC). Jon's continue message arrived.
+        SALVAGE (this container survived, so the transcript was readable): era 06 was committed
+        (40dd051). Era 07 was written in ONE append (event 37), validated with 0 errors and 0/0
+        punct, and then the agent died before its self-review and commit. The director committed
+        the landed text. -> T-242c2 does a short continuation: self-review, record gaps, close.
+
+### 2026-09-26 | [CLOUD] T-242c2 | Continue T-242c: self-review land-environment part 2, record gaps
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 3)
 RESULT:
