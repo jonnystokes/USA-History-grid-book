@@ -1771,3 +1771,23 @@ CONFLICTS RESOLVED IN THE AMENDMENT, FOR JON TO CONFIRM:
   (3) Sentence length. The amendment's 12-18-word average stands. v2's "vary length by
       information" is added to it.
 PARKED: AUDIT-QUEUE "Added 2026-09-26".
+
+### 2026-09-26 | [CLOUD] DOCS CLEANED, OPTION B CHOSEN
+Jon chose Option B (writing first, for the chapters that are ready) and asked for the docs to be
+cleaned first. Em dashes and semicolons were removed from RESUME, AGENT-BRIEF, ROADMAP, README,
+the policy (its quoted v1-era examples are kept as cited), grid-markers §7b and
+VIEWER-CONTRACT §2. Added project_state.py --punct <file>, and a standard REVISION brief in
+RESUME.md.
+QUEUE: T-233 native-nations v2 revision (3 agents) -> T-234 city-building v2 revision
+(3 agents) -> T-235 war eras 5-10 -> prose for the 9 chapters that pass research.
+
+### 2026-09-26 | [CLOUD] T-233a | Revise native-nations PART 1 (eras 1-5) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-233-native-nations.md
+VERIFY: python tools/project_state.py --punct manuscript/native-nations/part1-before-1800.md
+        must print 0/0. The validator (--part) must be clean. The chapter check FAILs until
+        parts 2 and 3 are done.
+BASELINE: 4,592 prose words, 28 em dashes, 9 semicolons.
+EXPECT: the first test of how an agent applies v2. Watch for word loss (lossy summarization)
+        and for the punctuation-swap shortcut.
+RESULT:

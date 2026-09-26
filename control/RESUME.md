@@ -196,6 +196,46 @@ Every prose agent gets, verbatim:
 
 ---
 
+### Standard REVISION brief (added 2026-09-26, for prose written before style guide v2)
+
+Every agent revising an existing manuscript part to Version 2 gets, verbatim, with the part
+file, eras and checkpoint filled in:
+
+> You are revising ONE finished part file of this book so that it meets the Writing Style
+> Guide, Version 2. The file is `manuscript/<slug>/<part>.md` (eras <list>).
+> Read these in full before you change a word, in this order:
+> `control/general-writing-style-guide.md` (Version 2, BINDING, an absolute requirement),
+> `control/writing-style-guide.md` (the book's amendment, BINDING, including its section
+> "Version 2 rules with a fixed meaning in this book"), `control/hard-subjects-policy.md`
+> (BINDING), `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2.
+>
+> **This is a full Version 2 read and repair of every sentence. It is not a punctuation
+> swap.** Replacing each em dash with a comma leaves the pivot, the triad and the closing
+> reversal in place. Read each sentence against Version 2 and apply the stated repair.
+>
+> **Keep every fact.** No fact, number, name, date, source or uncertainty may leave the file.
+> Lossy summarization and gist extraction are forbidden (`hard-subjects-policy.md` §2), and
+> revision is exactly when they happen. When a repair needs a fact the file does not state
+> (for example, the name of the people who acted, to repair a personification), take it from
+> `research/research-<slug>.md` only. If the bank does not have it, write that the record
+> does not say. Never add a fact from memory.
+>
+> **Keep the structure.** Leave every marker line, era id, story slug, `status=`,
+> `progress="written"`, `movie=` attribute and `> **Key:** value` record key exactly as it is.
+> Leave `hb-note` blocks alone. Work one era at a time. After each era, validate with
+> `node tools/validate_grid.js <file> --part`, update the checkpoint, and save your work.
+> `python tools/project_state.py --punct <file>` lists every em dash and semicolon left. It
+> must print zero for both before you report.
+>
+> Run Version 2's "Self-Review Before Reporting" and the amendment's §5 on the whole file.
+> Repair every defect it finds, and re-read each repaired sentence against its rule.
+> If the file itself contains a defect beyond style (softening, a false comparison, a fact
+> that contradicts itself), fix it in the prose and NAME IT in your report.
+> Report in under 200 words. Give the kinds of defect you repaired, with rough counts, and
+> any fact you took from the bank. Name any rule conflict you settled and how you settled it,
+> and anything you could not fix.
+> Paste the output of `--punct <file>` and of the validator as your last lines.
+
 ## After every sub-agent: log its usage
 
 Append one row to `control/usage-log.tsv`. The notification gives you

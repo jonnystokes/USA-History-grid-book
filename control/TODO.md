@@ -11,7 +11,10 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**Waiting on Jon**: the go-ahead on the plan below and the choice of order.
+**T-233a in flight:** v2 revision of `native-nations` part 1 (eras 1-5). Checkpoint:
+`control/checkpoints/T-233-native-nations.md`.
+
+Jon chose **Option B**, docs cleaned first (done 2026-09-26). The queue is below.
 
 ## DONE this session
 
@@ -32,7 +35,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
       has 74 em dashes and 40 semicolons. city-building has 83 em dashes and 23 semicolons.
       They were written under v1.
 
-## THE QUEUE (once Jon approves)
+## THE QUEUE (Option B approved 2026-09-26)
 
 The phase order in ROADMAP.md is research everything, then write everything. **Jon to
 choose:**
