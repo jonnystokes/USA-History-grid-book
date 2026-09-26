@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237c: part 3 era 1900-1950 landed (unit 8). Next era 1950-2000.
-NEXT:   part 3, era 1950-2000 (unit 9), then 2000-today (unit 10).
+NOW:    T-237c: part 3 eras 1900-1950 and 1950-2000 landed (units 8, 9). Next era 2000-today.
+NEXT:   part 3, era 2000-today (unit 10).
 
 ## Units
 
@@ -27,7 +27,7 @@ NEXT:   part 3, era 1950-2000 (unit 9), then 2000-today (unit 10).
 | 6 | part2 era 1800-1850 | landed (revised T-237b2) | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
 | 7 | part2 era 1850-1900 | landed (revised T-237b2) | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
 | 8 | part3 era 1900-1950 | landed | file created. 6 spans (Ellis/melting pot, Angel Island, quotas, eugenics, Mexican Repatriation + braceros, St. Louis + DP Act) + stories frank-capra, doukenie-bacos, lee-puey-you |
-| 9 | part3 era 1950-2000 | todo | |
+| 9 | part3 era 1950-2000 | landed | 5 spans (braceros + Operation Wetback, 1965 law, Cubans/Mariel + Refugee Act, Southeast Asian refugees and boat deaths, IRCA) + stories antonio-garcia-bracero, reinaldo-arenas, sergey-brin. tung-trinh HELD |
 | 10 | part3 era 2000-today | todo | |
 
 ## Outline claims NOT in the bank (left out, per DECISIONS #13)
@@ -54,6 +54,18 @@ NEXT:   part 3, era 1950-2000 (unit 9), then 2000-today (unit 10).
 - [T-237c] Lee Puey You "settled in San Francisco" kept (bank). Outline "after the exclusion law's repeal" kept via bank line 171 (repealed 1943). Outline "interrogation ... 200 to 1,000 questions" style range (bank patch: "exact source not confirmed") left out.
 - [T-237c] Outline era line "stay shut through the years people most needed to get out" is interpretation, not bank fact. Left out.
 
+- [T-237c, 1950-2000] García "left school after fourth grade to work" ("to work" not in bank), "crowded contracting centers" ("crowded" not in bank), "labor invited in but not asked to stay" (interpretation). Left out.
+- [T-237c] Arenas "books were banned at home", "finishing his life story while sick with AIDS" (outline line 172). Not in bank. Left out. Bank: autobiography published 1992, English 1993.
+- [T-237c] Brin "faced ... discrimination" kept only as the bank's "blocked and harassed professionally".
+- [T-237c] Hart-Celler "rebuilt the system on family ties and skills" kept. Outline names no signer and neither does the bank (no LBJ, no Reagan for IRCA). Prose names no signer.
+
+## BLOCKING GAPS
+
+- [T-237c, 1950-2000] tung-trinh story held for Jon's ruling. Slug `tung-trinh` not written. Boat people covered in hb-zoom prose without that account.
+- [T-237c, 1950-2000] PIRATES UNNAMED: bank gives the 1981 UNHCR piracy figures (349 boats attacked, 228 women abducted, 881 dead or missing) and "pirates robbed and raped ... murdered some" but not who the pirates were (from where, which fishing fleets). Prose says "pirates". Bank needs the attackers' identity.
+- [T-237c, 1950-2000] OPERATION WETBACK 1955 SUNSTROKE DEATHS: bank gives 88 deaths "after a roundup in 112-degree heat" (Ngai, via a search summary) but not what officers did to the men (where they were left, by whom). Prose states the bank fact only. Also the *Mercurio* seven: jumped, then mutiny (Handbook) vs drowned (other summaries). Both stated.
+- [T-237c, 1950-2000] ARENAS: bank says "persecuted and imprisoned by the Cuban government" with no named officials, dates, prison, or what was done to him in prison. Prose: "Cuban government officials".
+- [T-237c, 1950-2000] BRIN (minor): "blocked and harassed professionally" with no actor. Prose keeps an agentless passive ("his parents were held back in their careers and harassed because they were Jews").
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
 - [T-237b, 1800-1850] SOFTENING / GIST GAP (bank s6): the Irish famine is given only as "a potato blight caused mass starvation". The bank has no human actors (landlords, evictions, British government food policy). Prose states the bank's facts only. Audit should add the documented human causes to the bank.
@@ -95,9 +107,15 @@ NEXT:   part 3, era 1950-2000 (unit 9), then 2000-today (unit 10).
 - [T-237c, 1900-1950] Bank self-inconsistency (Angel Island Board of Special Inquiry): listed as "two inspectors, a stenographer and a translator" then "two of the three board members had to agree". Prose names the four roles and leaves out the voting rule.
 - [T-237c] Glosses (1900-1950, general knowledge, definitions only): quota, melting pot, steerage, Sicily belongs to Italy, Thrace = region divided among Greece, Turkey, Bulgaria, Piraeus = port city of Athens, underage, detainee, dormitory, trachoma (bank), genitals, stenographer, deport, war bride, census, homogeneity (bank), feeblemindedness etc. = old words, sterilization (bank), Hitler "later ruled Germany", Mexican Revolution = a war in Mexico, repatriation, Great Depression, relief, bracero = Spanish for a man who works with his arms, refugee, Holocaust = murder of Jews and others by the Nazis, displaced persons.
 
+- [T-237c, 1950-2000] OUTLINE OMISSION (softening by absence): outline era 1950-2000 has no Operation Wetback and no boat-people deaths. Written from the T-238 patch: Brownell, Eisenhower, Swing, the slur explained, ships to Veracruz, the *Mercurio*, 88 sunstroke deaths, the disputed counts (1.3 million claim vs about 300,000), citizens deported.
+- [T-237c, 1950-2000] OUTLINE PLAN TO SOFTEN (tung-trinh block note "tell it as danger, survival, and rescue", cannibalism kept out): block held per brief, not written.
+- [T-237c, 1950-2000] PERSONIFICATION (bank): "Mexican public outcry ended the boat removals" -> "After protests in Mexico, officials stopped sending people by ship". "The INS planned it with the Mexican government" -> "INS officials planned it with officials of the Mexican government". Refugee Act "created a permanent system" -> "lawmakers created". Orderly Departure Program "brought about 500,000" -> "About 500,000 more Vietnamese came ... through the program". "The US took 402,382" -> "US officials accepted".
+- [T-237c] Glosses (1950-2000, general knowledge, definitions only): slur, Rio Grande = river along Texas-Mexico border, commissioner, mutiny, sunstroke, Western Hemisphere, gay, persecuted, AIDS, Saigon = capital of South Vietnam taken by North Vietnam's army 1975 at the end of the Vietnam War, Hmong = a people from the mountains of Laos, rape, Soviet Union = communist country ruled by one party, NASA = US space agency, employer sanctions (bank).
+
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 9 1950-2000 (T-237c) | ~2,000 prose, 5 spans, 3 stories (tung-trinh held) | 0 errors (--part), 6 stories | emdash=0 semicolon=0
 - 2026-09-26 | 8 1900-1950 (T-237c) | ~2,300 prose, 6 spans, 3 stories | 0 errors (--part), 3 stories | emdash=0 semicolon=0
 - 2026-09-26 | 7 1850-1900 revised from patched bank (T-237b2) | Bloody Monday in Know-Nothing span, railroad pay/strike/deaths (50 to 1,200, no record), new span Attacks on Chinese immigrants 1871-1887, pogroms/May Laws (Ignatiev, Alexander III). Part now 5,300 words (was 2,808) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 revised from patched bank (T-237b2) | new span Mobs against Catholics 1834/1844, famine span rebuilt (exports, Russell, Trevelyan, quarter-acre, evictions, 1-1.5M range, coffin ships) | 0 errors (--part) | emdash=0 semicolon=0
