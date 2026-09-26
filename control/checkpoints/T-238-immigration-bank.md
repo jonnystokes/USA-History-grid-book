@@ -9,7 +9,7 @@ WHY:    T-237b found that the bank lacks the hard parts of its subject. Under DE
         (facts from the bank only), the prose could only say "the sources do not record". This
         task fills the bank so the prose can state what happened.
 
-NOW:    unit 7 (era 8: Angel Island, 1924 eugenics, Repatriation, St. Louis).
+NOW:    unit 8 (era 9: Operation Wetback 1954, other gaps).
 NEXT:   unit 1.
 
 ## Units: the gaps to fill (each with named actors, what was done, numbers with uncertainty, sources)
@@ -22,11 +22,12 @@ NEXT:   unit 1.
 | 4 | era 7: what killed Chinese railroad workers on the Central Pacific (explosions, avalanches, cold) and the evidence and uncertainty behind the ~1,200 figure | landed | 2026-09-26, era 7 PATCH section + correction note |
 | 5 | era 7: the pogroms of 1881-84 and the May Laws of 1882: who attacked, who issued the laws, deaths | landed | 2026-09-26, era 7 PATCH section |
 | 6 | era 7: Louisville's 1855 "Bloody Monday" and Know-Nothing violence, if sources support it | landed | 2026-09-26, era 7 PATCH section + boundary note on era 6 Know-Nothing section |
-| 7 | era 8 (1900-1950) PRE-CHECK: read the bank's era 8 against the outline. Fill hard-subject gaps: Angel Island detention conditions, the 1924 Act's quota basis and its eugenics arguments (named people), Mexican Repatriation in the 1930s (who deported whom, how many, how many were US citizens), the St. Louis in 1939 | working | |
-| 8 | era 9 (1950-2000) PRE-CHECK: Operation Wetback 1954 (who ordered it, numbers, deaths), and any other hard-subject gap against the outline | todo | |
+| 7 | era 8 (1900-1950) PRE-CHECK: read the bank's era 8 against the outline. Fill hard-subject gaps: Angel Island detention conditions, the 1924 Act's quota basis and its eugenics arguments (named people), Mexican Repatriation in the 1930s (who deported whom, how many, how many were US citizens), the St. Louis in 1939 | landed | 2026-09-26, era 8 PATCH section |
+| 8 | era 9 (1950-2000) PRE-CHECK: Operation Wetback 1954 (who ordered it, numbers, deaths), and any other hard-subject gap against the outline | working | |
 | 9 | era 10 (2000-today) PRE-CHECK: deaths at the border (counts with source years), the 2018 family separations (who ordered it, how many children), and enforcement figures current to 2026 with source dates | todo | |
 
 ## Sources in hand
+- Unit 7: nps.gov angel-island (conditions, 250k Chinese, 1940 fire); aiisf.org/vault/keepers (medical exam, board); en.wikipedia Angel_Island (18% rejected, 22 months); history.state.gov immigration-act; millercenter.org Coolidge quote; eugenicsarchive.org themes/10 (Laughlin, 86%/9%); embryo.asu.edu Laughlin + Madison Grant; leginfo.ca.gov SB 670 chaptered (2M / 1.2M US-born / 400k CA); calmigration.org deportation-to-repatriation (Doak, Visel, 1M, 60% citizens, La Placita); maldef 2012 LA County apology; encyclopedia.ushmm.org voyage-of-the-st-louis.
 - Unit 6: history.ky.gov/markers/bloody-monday-and-american-know-nothing-party (marker #2205: at least 22 dead); en.wikipedia Bloody_Monday (19-22 vs >100; Quinn's Row; 5 indicted 0 convicted); muse.jhu.edu/article/887641 "Myths of Bloody Monday" UNREAD (access challenge); cathedral and hmdb pages 403.
 - Unit 5: encyclopedia.com pogroms-pre-soviet-russia (John Klier: ~250 pogroms, ~50 dead half rioters, >1,000 punished, no central planning); en.wikipedia Pogroms_in_the_Russian_Empire (40 Jews 1881; 25+25; clemency); cojs.org may-3-1882 (May Laws text, Ignatiev). YIVO pages need JavaScript (did not render).
 - Unit 4: discussion.cprr.net/2007/01/dead-chinese.html (Reporter 1,200 bones vs Union 50, both 30 Jun 1870; 100-150 estimate); pbs.org tcrr-tunneling-sierra-nevada (avalanche Camp 4, 44 storms); guides.loc.gov sierra-strike (pay, strike, Crocker cut food); chineserailroadworkers.stanford.edu/?p=331 and stanfordmag.org (workforce 10-15k). cprr.org museum pages 503.
@@ -43,3 +44,4 @@ NEXT:   unit 1.
 - 2026-09-26 unit 4 landed: 1,200 is a guess from one 1870 newspaper; 50 in another; correction note added.
 - 2026-09-26 unit 5 landed: pogroms/May Laws; punishment disputed (Klier vs Wikipedia), 'hundreds raped' unsourced flagged.
 - 2026-09-26 unit 6 landed: Louisville 1855. Flag: 'Myths of Bloody Monday' article unread; boundary note on Know-Nothings placed in era 6.
+- 2026-09-26 unit 7 landed: Angel Island conditions, 1924 eugenics (Laughlin, Grant, Johnson), Repatriation 500k-2M with citizen share, St. Louis confirmed. Japanese American incarceration placed with rights-movements/war.
