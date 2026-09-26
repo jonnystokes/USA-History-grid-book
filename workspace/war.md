@@ -20,9 +20,9 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 
 ## Famous names check (must appear — completeness first)
 - [ ] King Philip's War
-- [ ] the French and Indian War
-- [ ] the Revolution (Lexington, Saratoga, Valley Forge, Yorktown)
-- [ ] George Washington
+- [x] the French and Indian War (era 5: Braddock, Fort William Henry, Quebec)
+- [x] the Revolution (Lexington, Saratoga, Valley Forge, Yorktown) (era 5)
+- [x] George Washington (era 5 story, verified)
 - [ ] the War of 1812 and Fort McHenry
 - [ ] the Mexican-American War
 - [ ] the Civil War, Grant and Lee, Gettysburg
@@ -37,8 +37,9 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [ ] Afghanistan and Iraq
 
 ## Featured people to firm up (target/candidate)
-- **candidate** — George Washington (1750–1800) · Ulysses S. Grant and Robert E. Lee (1850–1900).
-- **target** — a captive from a captivity narrative (1700–1750) · a Continental Army private (1750–1800) · a Mexican War soldier (1800–1850) · a U.S. Colored Troops soldier and a Buffalo Soldier (1850–1900) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
+- **verified 2026-09-26 (T-235a)** — George Washington, Joseph Plumb Martin (replaces the Continental private target), Deborah Sampson (1750–1800).
+- **candidate** — Ulysses S. Grant and Robert E. Lee (1850–1900).
+- **target** — a captive from a captivity narrative (1700–1750) · a Mexican War soldier (1800–1850) · a U.S. Colored Troops soldier and a Buffalo Soldier (1850–1900) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*

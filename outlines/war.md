@@ -148,22 +148,71 @@ At Montreal on August 4, 1701, about 1,300 delegates from more than 30 Native na
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
-<!-- hb-time:start id="1750-1800" order="05" chapter="war" label="1750 to 1800" state="full" progress="seed" -->
+<!-- hb-time:start id="1750-1800" order="05" chapter="war" label="1750 to 1800" state="full" progress="researched" -->
 ## 1750 to 1800
 <!-- hb-zoom level="era" -->
-Two wars in one generation: one that removes France from the continent, and one that creates a country.
+Soldiers from these colonies fought three wars in these fifty years. The French and Indian War ran from 1754 to 1763, and at the peace French diplomats signed Canada over to Britain. The Revolution ran from 1775 to 1783 and ended with the thirteen colonies independent. From 1785 to 1795 US soldiers fought a confederacy of Native nations north of the Ohio River.
+
+In all three wars, sickness killed more soldiers than enemy fire did. The American Battlefield Trust counts about 6,800 Americans killed in battle in the Revolution. At least 17,000 more died of disease, and 8,000 to 12,000 of those were prisoners of war when they died.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the French and Indian War and the Revolution" -->
-The French and Indian War; the Revolution — Lexington and Concord, Saratoga, Valley Forge, Yorktown; the Continental Army built from militia; Black soldiers on both sides (**`slavery-freedom` leads on their freedom claims**); Native nations choosing sides.
+<!-- hb-zoom level="span" label="The French and Indian War, 1754 to 1763" -->
+In 1754 French soldiers forced a young Virginia colonel, George Washington, to surrender at Fort Necessity in western Pennsylvania. The next summer the British general Edward Braddock marched about 1,450 men toward the French fort where Pittsburgh stands now. On July 9, 1755, French soldiers and Native fighters caught his column in the woods near the Monongahela River. They killed 456 of Braddock's men and wounded 422. The French side lost 23 dead. Braddock was shot, and he died on the night of July 13.
+
+At Fort William Henry, on Lake George in New York, Colonel George Munro surrendered to the French general Montcalm on August 9, 1757. The terms let his men march away with their muskets but no ammunition. The next day Native fighters allied with Montcalm killed and scalped sick and wounded men left in the fort. Scalping means cutting the skin and hair off the top of a person's head. Then they attacked the column on the road. Counts of the dead run up to about 185 men, women and children. Early reports said 1,500, and historians agree that number was far too high. Montcalm got 500 captives released, and the Native fighters kept about 200 more.
+
+British soldiers took Quebec after a battle outside the city on September 13, 1759. The fighting lasted about twenty minutes. The British general James Wolfe was shot and died on the field. Montcalm was hit by a musket ball below the ribs and died the next morning.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="george-washington-war" name="George Washington" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="The Revolution, from Lexington to Yorktown" -->
+The shooting started at Lexington, Massachusetts, at about 5 in the morning on April 19, 1775. British soldiers killed eight militiamen on the town green and wounded ten. The fighting went on all day along 16 miles of road back to Boston. By night 73 British soldiers and 49 militiamen were dead.
+
+On June 17, 1775, British soldiers attacked the colonists' earth walls on Breed's Hill, in the fight named for nearby Bunker Hill. They charged three times in two hours. On the third charge they climbed the walls and fought with bayonets, the blades fixed to the ends of their muskets. The colonists had run out of powder and fell back. British casualties, meaning the killed and wounded together, came to 1,054. The colonists lost about 450.
+
+That June, delegates to the Continental Congress chose Washington to command the new Continental Army. About 231,000 men served in it over the war, but never more than 48,000 at one time. About 7,000 of them were Black. `slavery-freedom` leads on what the war meant for their freedom.
+
+At Saratoga, New York, on October 17, 1777, the British general John Burgoyne surrendered 5,895 British and German soldiers to General Horatio Gates. At Yorktown, Virginia, about 17,000 American and French soldiers under Washington and the French general Rochambeau surrounded the British general Charles Cornwallis, while a French fleet held the sea. About 8,000 British soldiers surrendered there on October 19, 1781.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox, Valley Forge and the prison ships" -->
+Smallpox killed about one in three people who caught it. On February 6, 1777, Washington ordered his whole army inoculated. To inoculate a soldier, a doctor cut open a sore on a person sick with smallpox and pushed the same blade under the healthy soldier's skin. The soldier then had a milder case and could not catch smallpox again.
+
+More than 12,000 soldiers, with about 400 women and children, marched into winter camp at Valley Forge, Pennsylvania, on December 19, 1777. They built about 1,500 log huts, each 14 feet by 16. Four days later Washington wrote to Congress that 2,898 men could not be sent on duty because they had no shoes and almost no clothes. By June 1778 nearly 2,000 people in the camp had died. Most died of influenza, typhus, typhoid or dysentery, and two-thirds of those deaths came in March, April and May. Typhus is a fever spread by body lice. Typhoid and dysentery spread through dirty water and food. Dysentery is an infection of the gut that causes bloody diarrhea, and a person can lose so much water that they die.
+
+British officers kept captured American soldiers and sailors on old ships anchored off Brooklyn, New York. One ship, the *Jersey*, held about 1,200 prisoners at a time. The prisoners died of smallpox and of hunger. One survivor listed their food as sour, moldy bread, rotten meat, and biscuits full of weevils, which are small beetles. Another wrote that every morning a boat from each ship took the dead ashore, and the bodies were tumbled together into one hole dug on the hill. The records quoted by the Park Service do not say who dug it. The National Park Service counts more than 11,500 dead on the ships and in the prisons around New York. The American Battlefield Trust counts 8,000 to 12,000 American deaths among all prisoners in the war, so the two counts do not agree.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="george-washington-war" name="George Washington" movie="Washington (History, 2020)" kind="famous" status="verified" -->
 ### George Washington
-Commanded the Continental Army and kept it together.
+> **Who:** A Virginia officer in the French and Indian War who then commanded the Continental Army for the whole of the Revolution.
+> **When and where:** Fort Necessity, 1754. The Monongahela, July 9, 1755. Commander in chief from June 1775. Resigned at Annapolis, Maryland, December 23, 1783.
+> **Movie:** *Washington* (History channel, 2020), a three-part documentary about him with acted scenes.
+
+Washington lost his first two fights. French soldiers made him surrender at Fort Necessity in 1754. A year later he rode with Braddock as a volunteer aide. He wrote to his brother afterward that four bullets went through his coat and two horses were shot from under him.
+
+As commander he ordered the whole army inoculated against smallpox in February 1777, when a third of the people who caught it died. From Valley Forge he reported to Congress that almost 2,900 of his men had no shoes. At Yorktown in October 1781 he and Rochambeau took the surrender of about 8,000 British soldiers. On December 23, 1783, he handed his commission back to Congress at Annapolis, and the next day he set out for his home at Mount Vernon.
 <!-- hb-story:end slug="george-washington-war" -->
-<!-- hb-story:start slug="continental-army-private" name="(target) a Continental Army private" movie="" kind="ordinary" status="target" -->
-### (target) a Continental Army private
-Served for years, then applied for a pension and told his story — pension applications are an outstanding ordinary-life source.
-<!-- hb-story:end slug="continental-army-private" -->
+<!-- hb-story:start slug="joseph-plumb-martin" name="Joseph Plumb Martin" movie="" kind="ordinary" status="verified" -->
+### Joseph Plumb Martin
+> **Who:** A Connecticut boy who joined the army at 15, served as a private and then a sergeant until the war ended, and wrote down what it was like.
+> **When and where:** Born Becket, Massachusetts, November 21, 1760. In the army from June 1776 to 1783. Died Prospect, Maine, May 2, 1850, aged 89.
+
+Martin fought on Long Island in August 1776, then at White Plains, Germantown and Monmouth. At Valley Forge he went out with parties hunting for food for the army. He made himself shoes from a piece of raw cowhide. His other choice, he wrote, was to go barefoot like hundreds of other men, whose trail could be followed by the blood from their feet on the frozen ground. The National Park Service points out that his words do not make clear whether he saw the bleeding feet himself or was repeating a story people told after the war.
+
+At Yorktown he was a sergeant in the sappers and miners, the soldiers who dug the trenches that let the American and French guns close in on Cornwallis. He was in the attack on Redoubt No. 10, a small British earth fort. After the war he farmed in Maine, lost a fight over his land with the former general Henry Knox, and had almost nothing. In 1818 federal officials approved a pension of $96 a year for him. In 1830, at 70, he published his memoir. It was reprinted in 1962 as *Private Yankee Doodle*, and historians use it as one of the best records of what ordinary soldiers lived through.
+<!-- hb-story:end slug="joseph-plumb-martin" -->
+<!-- hb-story:start slug="deborah-sampson-war" name="Deborah Sampson" movie="" kind="ordinary" status="verified" -->
+### Deborah Sampson
+> **Who:** A Massachusetts woman who enlisted as a man named Robert Shurtleff, fought in the light infantry, was wounded, and later won a soldier's pension.
+> **When and where:** Born Plympton, Massachusetts, December 17, 1760. Enlisted May 1782. Discharged October 1783. Died 1827.
+
+At 10 she was bound out as an indentured servant to a farmer's family in Middleborough. An indentured servant was a worker who owed a family a set number of years of unpaid work. In May 1782, at 21, she enlisted in the 4th Massachusetts Regiment as Robert Shurtleff. She served 17 months in a light infantry company based near West Point, New York.
+
+She was wounded in a fight with Loyalists, colonists who fought for the British king. Every source agrees she was wounded in combat. Where the ball hit her, and exactly when, is not settled. The story that she cut a musket ball out of her own thigh, so that no army surgeon would find she was a woman, comes from a biography printed in 1797. Historians have found that book full of invented detail. The historian Alfred F. Young found accounts that put the wound in her shoulder or chest.
+
+A doctor treating her for a fever in Philadelphia found out she was a woman. General Henry Knox gave her an honorable discharge in October 1783. She married Benjamin Gannett of Sharon, Massachusetts, in 1785 and had three children. In 1804 Paul Revere visited her farm and wrote to her congressman in support of her claim. She went on the federal pension list in 1805.
+<!-- hb-story:end slug="deborah-sampson-war" -->
+<!-- hb-zoom level="span" label="St. Clair and Fallen Timbers, 1791 to 1794" -->
+In 1791 General Arthur St. Clair led about 2,000 men north from the Ohio River. They were a mix of militia, six-month volunteers and regular soldiers, and many left or were sent home on the way. About 1,400 were left on November 3. The next day, on the Wabash River, more than 1,000 fighters under the Miami leader Little Turtle attacked their camp. More than 900 of St. Clair's soldiers, and the women and children traveling with the army, were killed or wounded. That is the U.S. Army's own count, and other counts split the dead and wounded differently. Most were left where they fell.
+
+Members of Congress ran their first special investigation ever into what went wrong, and they cleared St. Clair. President Washington then put General Anthony Wayne in charge of a new, drilled force called the Legion of the United States. Wayne's soldiers beat the Native confederacy at Fallen Timbers, in what is now Ohio, on August 20, 1794, in less than an hour and a half. `native-nations` tells the confederacy's side.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
 
 <!-- hb-time:start id="1800-1850" order="06" chapter="war" label="1800 to 1850" state="full" progress="seed" -->

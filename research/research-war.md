@@ -580,3 +580,225 @@ https://americancenturies.org/lookitup/williams-eunice-kanenstenhawi/ unless mar
   worked for half a century. Sourced in `research/research-native-nations.md` and
   `research/research-america-world.md`. **A war chapter mentions it in one clause: the biggest
   military power in the northeast chose not to fight, and both empires had to plan around that.**
+
+---
+---
+
+# PART B — ERAS 5–7, RESEARCHED 2026-09-26 (task T-235a)
+
+Research agent for eras `1750-1800` · `1800-1850` · `1850-1900`. Eras 1-4 above are T-232's and are
+unchanged. Every line below carries its URL. Disputes are stated, not resolved.
+britannica.com is blocked in this environment, so nothing below rests on it. The two parked
+`native-nations` lines that cite Britannica (St. Clair, Little Bighorn) were re-sourced here.
+
+## 5. 1750 TO 1800
+
+### 5.0 Shape of the era
+Three wars: the French and Indian War (1754-1763), the Revolution (1775-1783), and the
+Northwest Indian War (1785-1795, military side only; `native-nations` leads the nations' side).
+In all of them **disease killed more soldiers than bullets did** (see 5.3). `america-world` owns
+the treaties (Paris 1763, Paris 1783) and the French alliance.
+
+### 5.1 The French and Indian War — the fighting
+- **Fort Necessity, 1754:** young Colonel George Washington was forced to surrender and go back to
+  Virginia under a promise that he and his men would not return to the region for a year.
+  (NPS, "The Braddock Campaign," https://www.nps.gov/articles/braddock-campaign.htm ; search
+  summary. The outline gives the year only, 1754.)
+- **Braddock's defeat (Battle of the Monongahela), 9 July 1755.** Maj. Gen. Edward Braddock's army
+  approached Fort Duquesne (modern Pittsburgh). **Of 1,459 men, 977 were killed or wounded,
+  including 63 officers. British losses 456 killed and 422 wounded. French losses 23 killed and 20
+  wounded.** Braddock was badly wounded and **died on the night of 13 July 1755.**
+  (American Battlefield Trust, "The Battle of the Monongahela, July 9, 1755,"
+  https://www.battlefields.org/learn/articles/battle-monongahela-july-9-1755)
+  - The two ABT-derived totals do not add the same way (977 vs 456+422=878); ABT's own framing
+    elsewhere is "nearly 900 killed, wounded, captured, or missing." **Write "about 900 of the
+    roughly 1,450 men" or give 456 killed and 422 wounded; do not write 977 as "killed".**
+- **Washington at the Monongahela, in his own words** (letter to his brother John Augustine
+  Washington, 18 July 1755): "I had 4 Bullets through my Coat, and two Horses shot under" him.
+  (Founders Online, National Archives, https://founders.archives.gov/documents/Washington/02-01-02-0169)
+- **Fort William Henry, 3-9 August 1757.** Montcalm with about 8,000 (6,000 French regulars and
+  militia, nearly 2,000 Native fighters) against Lt. Col. George Munro. Munro surrendered on terms:
+  his men could march out with their muskets but no ammunition. **On 10 August, as the column left,
+  Montcalm's Native allies killed and scalped the sick and wounded left in the fort and attacked the
+  column.** "Montcalm secured the release of five hundred British captives, but the Indians kept
+  another two hundred." (ABT, https://www.battlefields.org/learn/french-indian-war/battles/siege-fort-william-henry)
+  - **Death count is disputed:** ABT says estimates "widely varied." Other accounts: about 185 men,
+    women and children; early reports said up to 1,500, but it is unlikely more than 200 were
+    killed. (HistoryNet, "Fort William Henry, 1757: A Fate Worse Than Surrender,"
+    https://historynet.com/fort-william-henry-1757-a-fate-worse-than-surrender/ — journalism,
+    label it.) **Write: "the dead are counted anywhere from several dozen to about 185; early
+    reports of 1,500 were far too high."**
+- **Quebec, 13 September 1759 (Plains of Abraham):** about twenty minutes of fighting. Both
+  commanders were mortally wounded. Wolfe died on the field. Montcalm, hit by a musket ball below
+  the ribs, died the next morning. (The Canadian Encyclopedia, "Battle of the Plains of Abraham,"
+  https://www.thecanadianencyclopedia.ca/en/article/battle-of-the-plains-of-abraham ; via search
+  summary.)
+- Treaty of Paris, 1763, ended the war: **`america-world` tells it.**
+
+### 5.2 The Revolution — the battles
+- **19 April 1775, Lexington and Concord.** At Lexington Green about 5 a.m., "eight militia were
+  killed and ten wounded." Over the whole day about 1,700 British regulars and more than 4,000
+  militia fought along 16 miles of road. **British: 73 killed, 174 wounded, 26 missing. Colonial:
+  49 killed, 41 wounded, 5 missing.** (NPS Minute Man NHP, "April 19, 1775,"
+  https://www.nps.gov/mima/learn/historyculture/april-19-1775.htm)
+- **17 June 1775, Bunker Hill (fought on Breed's Hill).** Two hours of fighting. **British
+  casualties 1,054. Colonial losses an estimated 450.** On the third British assault "British
+  soldiers and Marines mounted the walls" and "engaged with bayonets in a bloody melee inside the
+  redoubt"; the colonists, out of ammunition, retreated. (NPS, "The Battle of Bunker Hill,"
+  https://www.nps.gov/articles/000/the-battle-of-bunker-hill.htm)
+- **Washington's command:** chosen commander in chief in 1775 (commission dated 15 June 1775);
+  resigned it to Congress at Annapolis on **23 December 1783** and left for Mount Vernon the next
+  day. (Mount Vernon, "Resignation of Military Commission,"
+  https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/resignation-of-military-commission ;
+  search summary. The same summary gives an appointment date of "May 9, 1775", which is wrong on
+  its face; the Continental Congress elected him on 15 June 1775, the date on the commission. Use
+  "June 1775".)
+- **Saratoga, surrender 17 October 1777:** "5,895 British and Hessian troops surrendered their
+  arms" to Gen. Horatio Gates. (NPS, "Saratoga Surrender Site,"
+  https://www.nps.gov/places/saratoga-surrender-site.htm)
+- **Yorktown, 19 October 1781:** about 17,000 American and French troops under Washington and
+  Rochambeau surrounded Yorktown, with de Grasse's French fleet offshore. Cornwallis asked for terms
+  on 17 October; **about 8,000 men surrendered on 19 October.** Cornwallis stayed away, citing
+  illness; Gen. Charles O'Hara led the British troops out. (Library of Congress, "Today in History
+  - October 19," https://www.loc.gov/item/today-in-history/october-19/)
+  - ABT's FAQ gives "over 8,000" surrendered; its date line reads "October 10", an error; use 19
+    October (LOC).
+
+### 5.3 How American soldiers died in the Revolution — the numbers
+- **About 6,800 Americans killed in action. At least 17,000 more died of disease, including about
+  8,000-12,000 who died as prisoners of war.** About 231,000 men served in the Continental Army,
+  never more than 48,000 at once. **About 7,000 African Americans served on the Continental side.**
+  (ABT, "American Revolution Facts," https://www.battlefields.org/learn/articles/american-revolution-faqs)
+- **Prison ships (dispute with ABT's POW figure):** the NPS gives **"more than 11,500 who died on the
+  prison ships"** in and around New York, from shortly after 1776. HMS *Jersey* held about 1,200
+  Americans. "Smallpox, malnutrition, and neglect killed thousands." A survivor's account quoted by
+  NPS: "Every morning a large boat from each of the hospital ships went loaded with dead bodies,
+  which were all tumbled together into a hole dug for the purpose, on the hill where the national
+  navy-yard now is." Food: "Biscuits, eaten by weavels, through and through; bread sour, and often
+  covered with mould; meat, discolored and putrified by age." (NPS, "The Prison Ship Martyrs,"
+  https://www.nps.gov/articles/000/prison-ship-martyrs.htm) The Prison Ship Martyrs' Monument in
+  Fort Greene Park, Brooklyn, dedicated 14 November 1908, has a crypt holding remains of a small
+  fraction of the dead. (search summary of NPS/Wikipedia; date only.)
+  **The NPS figure (11,500, ships and other prisons around New York) is higher than ABT's range for
+  all POW deaths (8,000-12,000). State both. The British officers who ran the ships are the actors;
+  the records used here do not name the ship commanders.** NPS's page calls the *Jersey* a
+  "240-gun" ship, a figure no warship of the period carried. Do not use the gun count.
+- **Smallpox and inoculation.** Smallpox killed about one in three people who caught it. On
+  **6 February 1777**, at Morristown, Washington ordered the whole army inoculated. Method: "A
+  physician lanced one of the infected patient's pustules with a knife or scalpel and then inserted
+  the infected blade under the skin of a healthy person." The inoculated soldier got a milder case
+  and was then immune. (ABT, "Washington Inoculates an Army,"
+  https://www.battlefields.org/learn/articles/washington-inoculates-army) **Define inoculation this
+  way in plain words at first use.**
+- **Valley Forge, 19 December 1777 to 19 June 1778.** "More than 12,000 soldiers and 400 women and
+  children" marched in on 19 December 1777. **"Nearly 2,000 people" died, mostly of "influenza,
+  typhus, typhoid, and dysentery,"** and two-thirds of them in March, April and May. About 1,500 log
+  huts, 14 by 16 feet. (NPS Valley Forge, "Valley Forge History and Significance,"
+  https://www.nps.gov/vafo/learn/historyculture/valley-forge-history-and-significance.htm)
+  - **Dysentery**, for the prose: an infection of the gut, spread by dirty water and food, that
+    causes bloody diarrhea; a person loses so much water they can die of it. (Standard definition;
+    plain-words gloss, not a sourced claim about any one soldier.)
+  - **Typhus / typhoid**, plain-word glosses used in the outline: typhus is a fever spread by body
+    lice; typhoid spreads through dirty water and food. (Standard medical definitions, e.g. CDC
+    typhus page https://www.cdc.gov/typhus/ and typhoid page https://www.cdc.gov/typhoid-fever/ .)
+  - **Scalping**, gloss: cutting the skin and hair off the top of a person's head.
+  - **Washington to Henry Laurens, 23 December 1777:** "no less than 2898 Men now in Camp unfit for
+    duty, because they are barefoot and otherwise naked." (Founders Online,
+    https://founders.archives.gov/documents/Washington/03-12-02-0628) The NPS page puts a 2,898
+    figure in "early March"; the primary letter is dated 23 December. **Use the letter's date.**
+
+### 5.4 STORY — George Washington (famous) — status verified
+- Fort Necessity surrender 1754 (NPS, 5.1). Volunteer aide to Braddock, 9 July 1755: four bullets
+  through his coat, two horses shot under him (his letter, 5.1).
+- Commander in chief from June 1775; smallpox order 6 February 1777 (ABT, 5.3); Valley Forge
+  letter of 23 December 1777 (5.3); Yorktown 19 October 1781 (LOC, 5.2); resigned his commission at
+  Annapolis 23 December 1783 (Mount Vernon, 5.2).
+- Slug `george-washington-war` (other chapter uses `george-washington-government-politics`; unique).
+- **Movie:** *Washington* (History channel, 2020), three-part documentary series with dramatised
+  scenes, executive produced by Doris Kearns Goodwin, narrated by Jeff Daniels; premiered
+  16 February 2020. **About the person.** (https://en.wikipedia.org/wiki/Washington_(miniseries) ;
+  TheWrap trailer report https://www.thewrap.com/george-washington-miniseries-trailer-history-channel-video/)
+
+### 5.5 STORY — Joseph Plumb Martin (ordinary) — replaces the "(target) a Continental Army private" slot — status verified
+- **Born 21 November 1760, Becket, Massachusetts**; raised mostly by grandparents in Connecticut.
+  (NPS, "Joseph Plumb Martin," https://www.nps.gov/people/joseph-plumb-martin.htm)
+- **Joined in June 1776, aged 15**, Connecticut State Troops; then 8th Connecticut Regiment
+  (1777-1781). Saw Long Island (August 1776), Harlem Heights, White Plains, Germantown (October
+  1777), the siege of Fort Mifflin, Monmouth (June 1778). (ABT, "Joseph Plumb Martin: Voice of the
+  Common American Soldier," https://www.battlefields.org/learn/articles/joseph-plumb-martin)
+- **Valley Forge:** survived the encampment and went out with foraging parties to find food for the
+  army (NPS). His memoir on the march in: he made himself moccasins from raw cowhide; the other
+  choice was to go barefoot "as hundreds of my companions had to, till they might be tracked by
+  their blood upon the rough frozen ground." **NPS caution: "due to the ambiguity of this passage,
+  we do not know whether Martin personally saw his comrades' feet bleeding, or if he related a
+  popular postwar narrative."** (NPS, "Tracked by Their Blood Upon the Rough Frozen Ground,"
+  https://www.nps.gov/articles/000/valley-forge-footwear-3.htm) **Write it with the caution.**
+- **Yorktown:** by then a sergeant in the Corps of Sappers and Miners; he "dug trenches and works
+  that allowed the Continental Army and French troops to besiege Cornwallis" (NPS) and took part in
+  the assault on British Redoubt No. 10 (ABT).
+- **After:** married Lucy Clewley (1794, ABT), settled in Prospect, Maine, five children (NPS);
+  farmed; lost a land dispute with Henry Knox (ABT). **Pension approved 1818, $96 a year; he was
+  destitute when it was granted** (ABT).
+- **Memoir** published **1830, when he was 70**: *A Narrative of Some of the Adventures, Dangers and
+  Sufferings of a Revolutionary Soldier*; republished **1962 as *Private Yankee Doodle*** (ABT, NPS).
+  **Died 2 May 1850, Prospect, Maine, aged 89** (NPS).
+- Movie: none found. `movie=""`.
+
+### 5.6 STORY — Deborah Sampson (ordinary) — status verified, with the wound DISPUTE recorded
+- **Born 17 December 1760, Plympton, Massachusetts.** At 10 bound out as an indentured servant to
+  Deacon Benjamin Thomas, a Middleborough farmer. (National Women's History Museum,
+  https://www.womenshistory.org/education-resources/biographies/deborah-sampson)
+- **Enlistment:** first tried early in 1782 at Middleborough as "Timothy Thayer"; enlisted again in
+  May 1782 as **Robert Shurtleff** (spellings vary: Shurtliff, Shirtliff). (Paul Revere House,
+  https://www.paulreverehouse.org/quitting-the-male-habit-paul-revere-and-deborah-sampsons-appeal-for-a-military-pension/)
+  Mustered **23 May 1782 at Worcester** (Massachusetts Historical Society, "Deborah Sampson,
+  soldier in disguise," https://www.masshist.org/object-of-the-month/objects/deborah-sampson-soldier-in-disguise-2005-03-01).
+  **4th Massachusetts Regiment, Capt. George Webb's light infantry company**, West Point (NWHM).
+- **Served 17 months; wounded (MHS: "wounded twice").**
+- **THE WOUND — DISPUTE.** NWHM: a sword gash to the forehead and a shot in the left thigh; she took
+  the bullet out herself. Paul Revere House: wounded in a skirmish with a Loyalist raiding party
+  and "dug a bullet out of her leg rather than risk going to the camp surgeon" (dates it 1783). The
+  thigh-and-penknife story traces to Herman Mann's 1797 biography *The Female Review*, which
+  historians regard as heavily embellished; historian **Alfred F. Young** found accounts placing
+  the wound in the shoulder or breast. **Settled: she was wounded in combat. Not settled: where on
+  her body, the exact date, or whether she cut the ball out herself.** (Summary of Mann/Young
+  scholarship via search; New England Historical Society,
+  https://newenglandhistoricalsociety.com/deborah-sampson-revolutionary-war-heroine-in-disguise/ —
+  label as secondary.) **The outline says exactly this.**
+- **Discovered** when a doctor treated her for a fever, near fatal, in Philadelphia (MHS).
+  **Honorably discharged October 1783** by Gen. Henry Knox (MHS; NWHM gives 23 October, Paul
+  Revere House 25 October; write "October 1783").
+- Married Benjamin Gannett of Sharon, **7 April 1785**; three children (NWHM, MHS).
+- **Paul Revere** visited her at Sharon and wrote to Congressman William Eustis on
+  **20 February 1804**: he had expected "a tall, Masculine female" and found "a small, effeminate,
+  and conversable Woman." (Paul Revere House; MHS letter record https://www.masshist.org/database/326)
+- **Federal pension list 1805**; general service pension 1821 (MHS). In 1806 she wrote to Revere
+  asking to borrow ten dollars (Paul Revere House). **Died 1827** (Paul Revere House; NWHM). Her
+  widower was granted compensation by Congress in 1837 but died before it reached him (NWHM, Paul
+  Revere House).
+- Massachusetts made her official state heroine in 1982 (MHS).
+- Movie: none found. `movie=""`. Slug `deborah-sampson-war` (unique; checked).
+
+### 5.7 The Northwest Indian War — military side (re-sourced from the parked native-nations lines)
+- **St. Clair's defeat, 4 November 1791**, on the Wabash. St. Clair began the campaign with 2,000
+  soldiers (half the 4,000 planned), a mix of militia, six-month volunteers and regulars; about
+  1,400 were left by 3 November. Little Turtle led "over 1,000 warriors of the native confederacy."
+  **"Over 900 Soldiers and their women and children, were killed or wounded"**, most left behind.
+  St. Clair faced **"the nation's first Congressional Special Committee investigation"** and was
+  cleared. Washington then gave Anthony Wayne a new, drilled force, the **Legion of the United
+  States**, which beat the confederacy at **Fallen Timbers on 20 August 1794** in under an hour and
+  a half. (U.S. Army, "St. Clair's Campaign of 1791,"
+  https://www.army.mil/article/65594/st_clairs_campaign_of_1791_a_defeat_in_the_wilderness_that_helped_forge_todays_u_s_army)
+  - The parked line's "over 650 killed, 270+ wounded" rests on Britannica (blocked). Other counts:
+    637 soldiers killed, 263 wounded, plus most of about 200 camp followers killed (search summary,
+    secondary). **Use the Army's "over 900 killed or wounded, soldiers and their women and
+    children" and say the exact split is counted differently.**
+  - Blue Jacket (Shawnee) and Buckongahelas (Lenape) also led; `native-nations` names them.
+- **The regular army's founding:** the Legion is the root of today's regular Army structure (Army
+  article title: "a defeat ... that helped forge today's U.S. Army").
+
+### 5.8 Also in this era, left to neighbours
+- Black soldiers on both sides and their freedom claims: **`slavery-freedom` leads.** War gives
+  ABT's 7,000 figure in one clause.
+- Native nations choosing sides in the Revolution (Haudenosaunee split, Sullivan's 1779 campaign):
+  `native-nations` leads. Not researched here; left out of the outline rather than stated unsourced.
