@@ -121,3 +121,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-236	fix	general-purpose	[CLOUD] add Acoma account to native-nations part1	?	?	?	89852	8	49003	?	completed	prose still PASS
 2026-09-26	T-237a	write-prose	general-purpose	[CLOUD] immigration part1 (5 eras)	?	?	?	191803	32	514689	3573	completed	first Phase 2 part under v2 + bank-only; 10 outline claims left out
 2026-09-26	T-237b	write-prose	general-purpose	[CLOUD] immigration part2 (2 eras)	?	?	?	177684	26	457630	2470	completed	bank gaps on hard subjects found
+2026-09-26	T-238	research	general-purpose	[CLOUD] immigration bank patch, hard-subject gaps eras 6-10	?	?	?	212928	133	1029108	?	completed	9 units; bank -> 17351w
