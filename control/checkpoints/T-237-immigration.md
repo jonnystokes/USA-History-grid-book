@@ -12,8 +12,8 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a DONE (part 1, eras 1-5). T-237b DONE (part 2, eras 6-7). T-237b2 DONE: part 2 revised from the T-238 patched bank, self-reviewed, 0 validator errors, emdash=0 semicolon=0, 6 stories.
-NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s-and-today.md, same layout as part1/part2).
+NOW:    T-237c: part 3 era 1900-1950 landed (unit 8). Next era 1950-2000.
+NEXT:   part 3, era 1950-2000 (unit 9), then 2000-today (unit 10).
 
 ## Units
 
@@ -26,7 +26,7 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 | 5 | part1 era 1750-1800 | landed | 3 spans + stories hamilton, toussaint |
 | 6 | part2 era 1800-1850 | landed (revised T-237b2) | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
 | 7 | part2 era 1850-1900 | landed (revised T-237b2) | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
-| 8 | part3 era 1900-1950 | todo | |
+| 8 | part3 era 1900-1950 | landed | file created. 6 spans (Ellis/melting pot, Angel Island, quotas, eugenics, Mexican Repatriation + braceros, St. Louis + DP Act) + stories frank-capra, doukenie-bacos, lee-puey-you |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
 
@@ -48,6 +48,11 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 - [T-237b] Berlin "only memory", "family of a poor cantor", "singing for pennies on the Lower East Side", "the country's most successful songwriter", "the unofficial anthem written by an immigrant" (outline line 130). Not in bank. Left out. Bank: "remembered image", songs list, 1918 draft, Kate Smith 1938.
 - [T-237b] Annie Moore "For a century" kept as bank's "century-long mix-up". Outline's Emma Lazarus and Statue lines all in bank.
 - [T-237b] Castle Garden "the federal station" / Ellis "replacing Castle Garden" in bank. Outline's "German arrivals peaked" (bank: "1854 was an early peak") written as numbers only.
+
+- [T-237c, 1900-1950] Capra "when he was six", "cheapest steerage berths" kept only as steerage, "one of Hollywood's most honored directors" (outline line 140). Bank gives birth May 18, 1897 and 1903 crossing, no age, no ranking. Left out ("as a young boy").
+- [T-237c] Bacos "a teenager determined to leave", "heard older girls whisper she might be sent back", "She was admitted", "one of nearly 2,000 recorded immigrant voices" (outline line 144). Not in bank. Left out. Prose does not state her admission (bank implies it only through the 1991 Ellis Island interview).
+- [T-237c] Lee Puey You "settled in San Francisco" kept (bank). Outline "after the exclusion law's repeal" kept via bank line 171 (repealed 1943). Outline "interrogation ... 200 to 1,000 questions" style range (bank patch: "exact source not confirmed") left out.
+- [T-237c] Outline era line "stay shut through the years people most needed to get out" is interpretation, not bank fact. Left out.
 
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
@@ -84,9 +89,16 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 - Glosses (1750-1800): naturalization, Loyalists, orphan, unrest, free people of color, crypt, Venerable ("a title the Catholic Church gives to a person it is studying as a possible saint").
 - Glosses (1500s): continental US = states other than Alaska and Hawaii; feast day; missionary.
 
+- [T-237c, 1900-1950] OUTLINE SOFTENING/MINIMIZATION: outline gives Mexican Repatriation as "roughly 500,000 pressured or forced out, many U.S. citizens". Bank patch: range 500,000 to 2 million, about 60 percent US-born citizens. Prose gives the range and "most were US citizens", names Doak, Hoover, Visel, the county welfare officers, the stretcher removals, property sold, La Placita.
+- [T-237c, 1900-1950] OUTLINE AGENTLESS: "the great wave ended", "gates shut", St. Louis "refused by Cuba, the United States, and Canada" (nations as actors). Prose names Johnson, Reed, Coolidge, Laredo Bru, Roosevelt, the State Department reply, Canadian officials. Passenger destinations written with passengers as subject, not "Britain took".
+- [T-237c, 1900-1950] OUTLINE HELD BACK THE EUGENICS ARGUMENT: outline has no Laughlin, Grant or Coolidge "America must be kept American". Written from the patch. Sterilization kept to one sentence with its definition (health / rights-movements lead). Bank gives no surgical method beyond "surgery"; prose says surgery only.
+- [T-237c, 1900-1950] Bank self-inconsistency (Angel Island Board of Special Inquiry): listed as "two inspectors, a stenographer and a translator" then "two of the three board members had to agree". Prose names the four roles and leaves out the voting rule.
+- [T-237c] Glosses (1900-1950, general knowledge, definitions only): quota, melting pot, steerage, Sicily belongs to Italy, Thrace = region divided among Greece, Turkey, Bulgaria, Piraeus = port city of Athens, underage, detainee, dormitory, trachoma (bank), genitals, stenographer, deport, war bride, census, homogeneity (bank), feeblemindedness etc. = old words, sterilization (bank), Hitler "later ruled Germany", Mexican Revolution = a war in Mexico, repatriation, Great Depression, relief, bracero = Spanish for a man who works with his arms, refugee, Holocaust = murder of Jews and others by the Nazis, displaced persons.
+
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 8 1900-1950 (T-237c) | ~2,300 prose, 6 spans, 3 stories | 0 errors (--part), 3 stories | emdash=0 semicolon=0
 - 2026-09-26 | 7 1850-1900 revised from patched bank (T-237b2) | Bloody Monday in Know-Nothing span, railroad pay/strike/deaths (50 to 1,200, no record), new span Attacks on Chinese immigrants 1871-1887, pogroms/May Laws (Ignatiev, Alexander III). Part now 5,300 words (was 2,808) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 revised from patched bank (T-237b2) | new span Mobs against Catholics 1834/1844, famine span rebuilt (exports, Russell, Trevelyan, quarter-acre, evictions, 1-1.5M range, coffin ships) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | part2 self-review done (T-237b) | 2,470 prose words, avg sentence 13.2 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
