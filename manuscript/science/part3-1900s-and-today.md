@@ -14,9 +14,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Between 1900 and 1950, American scientists measured the universe and split the atom. Edwin Hubble showed in 1929 that the galaxies are moving apart. On December 2, 1942, Enrico Fermi's team in Chicago ran the first controlled nuclear chain reaction. Some of the leading physicists in American labs had come from Europe. Enrico Fermi and Emilio Segrè made their homes in America after Italy's ruler, Benito Mussolini, passed laws against Jews in 1938.
+Between 1900 and 1950, American scientists measured the universe and split the atom. Edwin Hubble showed in 1929 that the galaxies are moving apart. On December 2, 1942, Enrico Fermi's team in Chicago ran the first controlled nuclear chain reaction. Some of the leading physicists in American labs had come from Europe. Fermi and Emilio Segrè made their homes in America after Italy's ruler, Benito Mussolini, passed laws against Jews in 1938.
 
-In the same years, some American scientists used people as research material without asking them. From 1910 to 1939, the staff of the Eugenics Record Office in New York collected family records to claim that poverty and behavior are inherited. At the Smithsonian, Aleš Hrdlička collected human brains and bones to rank the races. From 1945 to 1947, doctors working on the atomic bomb injected 18 hospital patients with plutonium to learn where it goes in the human body.
+In the same years, some American scientists used people as research material without asking them. From 1910 to 1939, the staff of the Eugenics Record Office in New York collected family records to claim that poverty and behavior are inherited. At the Smithsonian, Aleš Hrdlička collected human brains and bones to rank the races. From 1945 to 1947, doctors working for the Manhattan Project, the secret program that built the atomic bomb, injected 18 hospital patients with plutonium to learn where it goes in the human body.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The charge of an electron and the place of a gene" -->
@@ -45,7 +45,7 @@ The count has run every winter since 1900. It is one of the longest-running citi
 <!-- hb-story:start slug="robert-goddard" name="Robert Goddard" movie="" kind="famous" status="verified" -->
 ### Robert Goddard
 
-> **Who:** A physics teacher at Clark University who built and flew the first rocket that burned liquid fuel. The editors of the New York Times mocked his rocket science in 1920 and corrected themselves in 1969.
+> **Who:** A physics teacher at Clark University who built and flew the first rocket that burned liquid fuel. The New York Times mocked his rocket science in an editorial in 1920 and printed a correction in 1969.
 > **When and where:** Worcester and Auburn, Massachusetts. The first flight was on March 16, 1926.
 
 On March 16, 1926, Robert Goddard launched the first rocket that ran on liquid fuel. It took off from a farm field in Auburn, Massachusetts. It rose 41 feet, flew for 2.5 seconds and came down 184 feet away.
@@ -60,7 +60,7 @@ On July 17, 1969, the three Apollo 11 astronauts were on their way to the Moon. 
 <!-- hb-story:end slug="robert-goddard" -->
 
 <!-- hb-zoom level="span" label="Henrietta Leavitt's rule for measuring space" -->
-Henrietta Swan Leavitt found a way to measure how far away stars are. She was a computer at the Harvard College Observatory, paid 30 cents an hour. She had been deaf since an illness in her twenties.
+Henrietta Swan Leavitt found a way to measure how far away stars are. She was a computer at the Harvard College Observatory, a person hired to do calculations and measurements. She was paid 30 cents an hour. She had been deaf since an illness in her twenties.
 
 Leavitt studied a kind of variable star called a Cepheid. A Cepheid grows brighter and dimmer over and over, in a steady rhythm. In 1912 she published a paper on 25 Cepheids in the Small Magellanic Cloud, a patch of stars in the southern sky. She showed that the time a Cepheid takes for one blink tells how bright it truly is.
 
@@ -87,7 +87,7 @@ For his 1929 paper, published in March, Hubble used measurements of the galaxies
 <!-- hb-zoom level="span" label="Aleš Hrdlička's brain collection" -->
 Aleš Hrdlička collected human brains and bones for the Smithsonian to try to prove that the races differ in their bodies. From 1903 into the early 1940s he ran the physical anthropology division of the Smithsonian's National Museum of Natural History in Washington. Physical anthropology is the study of human bodies and bones. Hrdlička believed that white people were superior to other races. Scientists have since shown his theories about the races' bodies to be false.
 
-The Washington Post, a newspaper, published an investigation of his collecting in August 2023. The numbers below come from it. In 1903 Hrdlička began what he himself called the "racial brain collection." The museum holds at least 255 brains, and Hrdlička or people working at his direction collected most of them.
+The Washington Post, a newspaper, published an investigation of his collecting in August 2023. The numbers below come from it. In 1903 Hrdlička began what he himself called the "racial brain collection." In 2023 the museum held at least 255 brains, and Hrdlička or people working at his direction collected most of them.
 
 Collectors took most of the remains without the consent of the dead people or their families. Consent means agreeing to something after being told what it is. Many of these people had died in hospitals, were poor, or had no relatives nearby to claim and bury them. Collectors also dug up burial grounds. Hrdlička and a small team dug up the remains of about 1,000 people in Alaska and shipped them to the Smithsonian.
 
@@ -155,7 +155,7 @@ Between April 1945 and July 1947, doctors working for the Manhattan Project inje
 
 Once plutonium is in the blood, it collects in the bones, the liver and the spleen, an organ that cleans the blood. There it keeps giving off radiation that kills cells. When a person breathes it in, it scars the lungs and can cause cancer.
 
-The doctors wanted to know where plutonium goes in a human body and how fast the body gets rid of it in urine. Workers on the bomb could take some in by accident. The doctors wanted a way to judge how much a worker had taken in. The men who led the program were Wright Langham of Los Alamos, Joseph Hamilton of the University of California in San Francisco and Berkeley, Hymer Friedell of Oak Ridge, and Stafford Warren, the head of the project's medical section.
+The doctors wanted to know where plutonium goes in a human body and how fast the body gets rid of it in urine. Workers on the bomb could take some in by accident. The doctors wanted a way to judge how much a worker had taken in. Four men led the program. They were Wright Langham of Los Alamos, Joseph Hamilton of the University of California in San Francisco and Berkeley, Hymer Friedell of Oak Ridge, and Stafford Warren, the head of the project's medical section.
 
 The doctors injected one patient at Oak Ridge, three in Chicago, 11 in Rochester, New York, and three at the University of California hospital in San Francisco. Doctors in the program also injected six people with uranium, five with polonium and at least one with americium, which are also radioactive metals. In all they injected about 30 civilians, people who were not in the armed forces.
 
@@ -206,7 +206,7 @@ Other scientists respected her as an expert on chromosomes. For decades, though,
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-Between 1950 and 2000, scientists worked out the shape of DNA, the molecule that carries genes, and showed that the continents move. In 1951 cells were cut from the tumor of Henrietta Lacks, a Black woman with cancer in Baltimore, without her knowledge. Scientists grew her cells for decades and used them to study polio, cancer and the AIDS virus.
+In 1951 cells were cut from the tumor of Henrietta Lacks, a Black woman with cancer in Baltimore, without her knowledge. Scientists grew her cells for decades and used them to study polio, cancer and the AIDS virus. In 1953 James Watson and Francis Crick worked out the shape of DNA, the molecule that carries genes. By about 1970 most geologists, the scientists who study the Earth's rocks, agreed that the continents move.
 
 In 1993 a reporter named Eileen Welsome made the plutonium injections of the 1940s public. A federal committee then counted nearly 4,000 radiation experiments on people, and in 1995 President Bill Clinton apologized. Under laws passed in 1989 and 1990, museums had to begin returning the Native American dead that scientists had collected.
 <!-- /hb-zoom -->
@@ -232,7 +232,7 @@ They depended on the work of Rosalind Franklin at King's College London. Frankli
 
 Franklin died in 1958, at 37. In 1962 the Nobel Prize went to Watson, Crick and Wilkins. Nobel rules do not allow a prize to go to a person who has died.
 
-Watson later spoke about Black people's intelligence in racist terms. In 2007 the *Sunday Times Magazine* of London quoted him saying he was "inherently gloomy about the prospect of Africa" because "all our social policies are based on the fact that their intelligence is the same as ours." In the same sentence he went on: "where all the testing says not really." The trustees of Cold Spring Harbor Laboratory in New York, the people who govern it, removed him from all his management jobs there. They also ended his post as the lab's chancellor, one of its top leaders.
+Watson later made racist statements about the intelligence of people in Africa. In 2007 the *Sunday Times Magazine* of London quoted him saying he was "inherently gloomy about the prospect of Africa" because "all our social policies are based on the fact that their intelligence is the same as ours." In the same sentence he went on: "where all the testing says not really." The trustees of Cold Spring Harbor Laboratory in New York, the people who govern it, removed him from all his management jobs there. They also ended his post as the lab's chancellor, one of its top leaders.
 
 In a PBS film shown on January 2, 2019, *American Masters: Decoding Watson*, he was asked whether his views had changed. He said, "No, not at all." The laboratory's leaders called his views "reprehensible, unsupported by science." Reprehensible means deserving strong blame. They took away his honorary titles. The Eugenics Record Office had run at Cold Spring Harbor from 1910 to 1939.
 <!-- /hb-zoom -->
@@ -240,7 +240,7 @@ In a PBS film shown on January 2, 2019, *American Masters: Decoding Watson*, he 
 <!-- hb-zoom level="span" label="The floor of the ocean, and moving continents" -->
 By about 1970, most geologists agreed that the continents move. Geologists are scientists who study the Earth and its rocks. The idea that the continents move is called plate tectonics. The Earth's outer shell is broken into huge pieces, called plates, that slowly shift.
 
-Marie Tharp's maps of the ocean floor recorded some of the key evidence. In 1957 Tharp and Bruce Heezen published a map of the floor of the Atlantic Ocean, the *Physiographic Diagram of the Atlantic Ocean*. In 1962 Harry Hess published a paper called "History of Ocean Basins." In it he proposed seafloor spreading, the idea that new ocean floor forms along the undersea mountain ranges and spreads outward. About ten years of evidence followed. In 1977 Tharp and Heezen published a painted map of the ocean floor of the whole world.
+Marie Tharp's maps of the ocean floor recorded evidence for it. In 1957 Tharp and Bruce Heezen published a map of the floor of the Atlantic Ocean, the *Physiographic Diagram of the Atlantic Ocean*. In 1962 Harry Hess published a paper called "History of Ocean Basins." In it he proposed seafloor spreading, the idea that new ocean floor forms along the undersea mountain ranges and spreads outward. Over the next ten years, other scientists gathered more evidence. In 1977 Tharp and Heezen published a painted map of the ocean floor of the whole world.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="marie-tharp" name="Marie Tharp" movie="" kind="famous" status="verified" -->
@@ -351,3 +351,110 @@ On October 3, 1995, at the White House, Clinton said: "the United States of Amer
 In November 1996 O'Leary announced payments of $4.8 million to the families of 12 people injected in the 1940s. Eleven had been injected with plutonium and one with uranium. Each family was to receive $400,000. Eleven of the 12 had died. One woman was still alive, living in upstate New York.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
+
+<!-- hb-time:start id="2000-today" order="10" chapter="science" label="2000 to Today" state="full" progress="written" -->
+## 2000 to Today
+
+<!-- hb-zoom level="era" -->
+Scientists finished reading the human genome in 2003 and found the Higgs boson in 2012. In 2015 they detected gravitational waves for the first time. The biggest experiments now have thousands of scientists from many countries. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012.
+
+Some of the people who were used for science, and their families, have also won apologies, rules and payments. In 2013 the Lacks family reached an agreement on how scientists may use the genome of Henrietta Lacks's cells. In 2023 the head of the Smithsonian apologized for how its collectors gathered human remains. In July 2025 people who lived downwind of the Trinity test became able to claim federal payments.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The genome, finished twice" -->
+In June 2000 scientists announced a working draft of the human genome. In April 2003 the International Human Genome Sequencing Consortium, the teams of scientists doing the work, announced that the genome was essentially complete. They had read about 92 percent of it, with fewer than 400 gaps left. They timed the announcement to the 50th anniversary of the 1953 paper on the shape of DNA.
+
+On March 31, 2022, another group of scientists, the Telomere-to-Telomere consortium, published the first complete human genome with no gaps.
+
+The National Human Genome Research Institute, the government's genome research agency, has published what the work cost. The Human Genome Project cost the United States about $2.7 billion. That money paid for mapping and for building new tools, not only for reading one genome. In 2006, reading one person's genome to a high-quality draft cost about $14 million. By the middle of 2015 it cost just over $4,000, and by late 2015 it cost less than $1,500.
+
+James Watson, one of the two men who worked out the shape of DNA in 1953, died in November 2025. He was 97.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The Higgs boson, and the collider Congress cancelled" -->
+On July 4, 2012, scientists at CERN, the European physics laboratory in Geneva, Switzerland, announced that they had found the Higgs boson. The Higgs boson is a particle tied to how other particles get their mass. Mass is the amount of matter in an object. Two experiments found it, called ATLAS and CMS. Both used the Large Hadron Collider, a machine that smashes tiny particles together at very high speed. According to the US Department of Energy, about 1,700 American scientists worked on these experiments through two American labs, Fermilab and Brookhaven.
+
+American physicists had begun building a collider of their own, the Superconducting Super Collider, near Waxahachie, Texas. It was planned as a ring 54 miles around. In October 1993 members of Congress cancelled it. By then $2 billion had been spent and more than 14 miles of tunnel had been dug. The machine that found the Higgs boson was built in Europe instead.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="monica-dunford" name="Monica Dunford" movie="Particle Fever (2013)" kind="ordinary" status="verified" -->
+### Monica Dunford
+
+> **Who:** An American physicist who worked on the ATLAS experiment at CERN. She was one of six physicists a film crew followed through the search for the Higgs boson.
+> **When and where:** CERN, in Geneva, Switzerland, up to the Higgs announcement on July 4, 2012.
+> **Movie:** *Particle Fever* (2013)
+
+Monica Dunford is an American experimental physicist, a scientist who runs experiments and measurements. At the time of the Higgs search she was a postdoc on the ATLAS experiment at CERN. A postdoc is a scientist who has just finished a PhD and does research for a few years before taking a permanent job.
+
+About 3,000 people worked on ATLAS. The documentary film *Particle Fever* (2013) follows six physicists, Dunford among them, from the start-up of the Large Hadron Collider to the announcement of the Higgs boson on July 4, 2012. Mark Levinson directed the film, and the physicist David Kaplan produced it. The film records Dunford's working days as one scientist among the 3,000 on a single experiment.
+<!-- hb-story:end slug="monica-dunford" -->
+
+<!-- hb-story:start slug="jennifer-doudna" name="Jennifer Doudna" movie="Human Nature (2019)" kind="famous" status="verified" -->
+### Jennifer Doudna
+
+> **Who:** A biochemist at the University of California, Berkeley, who with Emmanuelle Charpentier made CRISPR-Cas9 into a tool for cutting DNA at a chosen spot.
+> **When and where:** UC Berkeley. The key paper came out on June 28, 2012.
+> **Movie:** *Human Nature* (2019)
+
+On June 28, 2012, Jennifer Doudna and Emmanuelle Charpentier published a paper in the journal *Science* about CRISPR-Cas9. CRISPR-Cas9 is a tool that scientists can program to cut DNA at a spot they choose. Cutting DNA at a chosen spot lets scientists change genes. A biochemist is a scientist who studies the chemistry inside living things.
+
+In 2020 Doudna and Charpentier won the Nobel Prize in Chemistry. It was the first science Nobel Prize shared by two women with nobody else.
+
+*Human Nature* (2019) is a documentary film about CRISPR. Doudna is one of the main people interviewed in it.
+<!-- hb-story:end slug="jennifer-doudna" -->
+
+<!-- hb-story:start slug="rainer-weiss" name="Rainer Weiss" movie="" kind="famous" status="verified" -->
+### Rainer Weiss
+
+> **Who:** An MIT physicist, who came to America as a child refugee from Nazi Germany, and who worked out the design of the detectors that first picked up gravitational waves.
+> **When and where:** MIT, and the LIGO detectors at Hanford, Washington, and Livingston, Louisiana. The detection came on September 14, 2015.
+
+On September 14, 2015, the two LIGO detectors picked up gravitational waves for the first time. Gravitational waves are ripples in space and time. These came from two black holes that crashed into each other 1.3 billion light-years away. A black hole is a place in space where gravity is so strong that not even light can get out. Rainer Weiss worked out the design of the detectors in 1972.
+
+Weiss was born in Berlin in 1932. His family fled the Nazis through Prague and reached New York in January 1939. He became a professor at MIT, the Massachusetts Institute of Technology.
+
+His design is called a laser interferometer. It uses laser beams to measure very small changes in distance. The LIGO detectors were paid for by the National Science Foundation, the government agency that pays for science research. LIGO scientists announced the discovery on February 11, 2016, a century after Einstein predicted the waves. In 2017 Weiss shared the Nobel Prize in Physics with Barry Barish and Kip Thorne.
+<!-- hb-story:end slug="rainer-weiss" -->
+
+<!-- hb-zoom level="span" label="The Webb telescope" -->
+The James Webb Space Telescope was launched on December 25, 2021. According to NASA, its first science images were released on July 11 and 12, 2022. Scientists using the telescope have found galaxies from the first few hundred million years of the universe, earlier than any galaxies found before.
+
+In 2022 scientists using the telescope made the first clear detection of carbon dioxide in the air of a planet around another star. The planet is called WASP-39b. A planet that circles a star other than our Sun is called an exoplanet.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Computers that predict the shapes of proteins" -->
+In 2020 scientists at DeepMind, a British lab, showed that their program AlphaFold2 could predict the shape of a protein well enough for practical use. A protein is a molecule that does work inside living cells, and its shape sets what it can do. AlphaFold2 is an example of artificial intelligence, or AI: computer software that learns patterns from huge amounts of data. According to the European Molecular Biology Laboratory, free public databases held more than 200 million predicted protein shapes by 2026.
+
+In 2024 the Nobel Prize in Chemistry was split in two. Half went to David Baker, an American at the University of Washington, for using computers to design new proteins. The other half went to Demis Hassabis and John Jumper of DeepMind in Britain. News reports in the 2020s describe scientists in many fields starting to use AI tools in their labs.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Heavy elements, made by many countries" -->
+Scientists from several countries now work together to make the heaviest elements. Teams from Dubna in Russia and from Lawrence Livermore and Oak Ridge in the United States have worked on the same experiments. Joint panels of two international science unions, IUPAC and IUPAP, judge who made each new element. In 2015 the panels recognized new element discoveries.
+
+In 2024 scientists at Berkeley made livermorium, element 116, by firing a beam of titanium at a target. With that result, the Berkeley team prepared to try for element 120. The physicists are looking for what they call the "island of stability," a group of superheavy elements that they predict would last longer before breaking apart.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The Lacks family and the HeLa genome" -->
+In March 2013 European researchers published the genome of the HeLa cells. They did it without the consent of Henrietta Lacks's family. Between April and July 2013, Francis Collins, the director of the National Institutes of Health, met with members of the Lacks family three times.
+
+On August 7, 2013, NIH officials announced the NIH-Lacks Family Agreement. Under it, scientists must apply to NIH to use the full genome data of HeLa cells. A working group that includes members of the Lacks family reviews the requests.
+
+In 2021 the Lacks estate sued Thermo Fisher Scientific, a company that sold about a dozen products made with HeLa cells. An estate is the property a dead person leaves behind, managed for the heirs. The lawyers Ben Crump and Chris Seeger represented the estate. The lawsuit stated that the company "made staggering profits by using the HeLa cell line." It added that this happened "all while Ms. Lacks' Estate and family haven't seen a dime."
+
+According to news reports in STAT and Smithsonian Magazine, the two sides announced a settlement on August 1, 2023. That day would have been Henrietta Lacks's 103rd birthday. They kept the terms of the settlement secret.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Apologies, and the dead still held" -->
+In August 2023 Lonnie G. Bunch III, the Secretary, or head, of the Smithsonian, apologized for how the institution had collected many of its human remains. He spoke after the Washington Post published its investigation of Aleš Hrdlička's collecting. In 2022 remains of Black Philadelphians from Samuel Morton's skull collection were buried again in Philadelphia, according to the University of Pennsylvania's student newspaper.
+
+ProPublica, a news organization, counted the Native American remains still held, using federal NAGPRA reports. As of January 6, 2025, about 650 institutions had reported holding more than 210,000 Native American remains. They had not yet made 90,831 of them, or 42 percent, available for return. The largest holders were the Ohio History Connection with 7,936, the Illinois State Museum with 5,801, Harvard University with 5,431, the University of California, Berkeley with 4,794, and Indiana University with 4,503. The Smithsonian is not on that list, because it reports under the 1989 law instead of NAGPRA. Another publication, Retrospect Journal, reported in March 2025 a different count, made in September 2024: 126,299 of 216,804 remains returned.
+
+On January 12, 2024, a revised NAGPRA rule took effect. Officials of the Interior Department had announced it on December 6, 2023. Under the rule, museums and federal agencies must get the free, prior and informed consent of direct descendants, Native nations or Native Hawaiian organizations. They need it before they display human remains or sacred and cultural objects, let others see them, or do research on them. Free, prior and informed consent means a yes given freely and beforehand, by people who have been told everything about the request. In January 2024, according to The Art Newspaper, staff at the Field Museum in Chicago covered display cases in two of its halls.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Payment for the Trinity downwinders, 2025" -->
+Downwinders are people who lived where the wind carried fallout from nuclear bomb tests. Members of Congress passed the Radiation Exposure Compensation Act in 1990. Compensation means payment for harm. The law included people who lived downwind of the Nevada Test Site, where the United States tested nuclear bombs from 1951 to 1957. It did not include the Trinity downwinders in New Mexico.
+
+Tina Cordova of the Tularosa Basin Downwinders Consortium led the campaign to add them. In July 2025, 80 years after the Trinity test, President Donald Trump signed a budget bill that added New Mexico's downwinders to the law. The bill also added uranium workers who entered the industry after 1971. Each person who qualifies can receive $100,000 in one payment. According to KUNM, a New Mexico public radio station, New Mexicans can apply until December 31, 2027.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="2000-today" -->
