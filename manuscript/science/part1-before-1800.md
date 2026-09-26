@@ -54,3 +54,17 @@ She earned a PhD in botany, the highest degree a university gives, at the Univer
 Her book *Braiding Sweetgrass* came out in 2013. It has been a New York Times bestseller since February 2020. In 2022 she was named a MacArthur Fellow, an award from the MacArthur Foundation.
 <!-- hb-story:end slug="robin-wall-kimmerer" -->
 <!-- hb-time:end id="before-1500" -->
+
+<!-- hb-time:start id="1500s" order="02" chapter="science" label="The 1500s" state="thin" progress="written" -->
+## The 1500s
+
+<!-- hb-zoom level="era" -->
+In the 1500s, no European who came here stayed to study the land and its life over many years. Europeans who crossed the ocean collected what they found here and described it in writing. Then they took that knowledge home to Europe.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Thomas Hariot's report" -->
+Thomas Hariot was an English mathematician. In 1585 and 1586 he went with the English expedition that Walter Raleigh sent to Roanoke. There he recorded the plants, the animals and the foods he found. He also wrote about the Algonquian people who lived there.
+
+In 1588 Hariot published *A Briefe and True Report of the New Found Land of Virginia*. It was the first book in English about North America written by someone who had been there. In 1590 the book came out again in an edition by the publisher de Bry, with drawings by John White.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1500s" -->
