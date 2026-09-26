@@ -12,7 +12,7 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a DONE (part 1, eras 1-5). T-237b DONE (part 2, eras 6-7): self-reviewed, 0 validator errors, emdash=0 semicolon=0, 6 stories.
+NOW:    T-237a DONE (part 1, eras 1-5). T-237b DONE (part 2, eras 6-7). T-237b2 DONE: part 2 revised from the T-238 patched bank, self-reviewed, 0 validator errors, emdash=0 semicolon=0, 6 stories.
 NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s-and-today.md, same layout as part1/part2).
 
 ## Units
@@ -24,8 +24,8 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 | 3 | part1 era 1600s | landed | 6 spans + stories frethorne, hutchinson, jewish-refugees-1654 |
 | 4 | part1 era 1700-1750 | landed | 4 spans + story zenger |
 | 5 | part1 era 1750-1800 | landed | 3 spans + stories hamilton, toussaint |
-| 6 | part2 era 1800-1850 | landed | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
-| 7 | part2 era 1850-1900 | landed | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
+| 6 | part2 era 1800-1850 | landed (revised T-237b2) | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
+| 7 | part2 era 1850-1900 | landed (revised T-237b2) | 7 spans + stories carl-schurz, annie-moore, irving-berlin, wong-kim-ark |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -87,6 +87,7 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 7 1850-1900 revised from patched bank (T-237b2) | Bloody Monday in Know-Nothing span, railroad pay/strike/deaths (50 to 1,200, no record), new span Attacks on Chinese immigrants 1871-1887, pogroms/May Laws (Ignatiev, Alexander III). Part now 5,300 words (was 2,808) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 revised from patched bank (T-237b2) | new span Mobs against Catholics 1834/1844, famine span rebuilt (exports, Russell, Trevelyan, quarter-acre, evictions, 1-1.5M range, coffin ships) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | part2 self-review done (T-237b) | 2,470 prose words, avg sentence 13.2 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
 - 2026-09-26 | 7 1850-1900 (T-237b) | ~1,670 prose | 0 errors (--part), 6 stories total | emdash=0 semicolon=0
