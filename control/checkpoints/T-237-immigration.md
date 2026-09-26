@@ -87,6 +87,7 @@ NEXT:   part 3, era 1900-1950 (T-237c: create manuscript/immigration/part3-1900s
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 6 1800-1850 revised from patched bank (T-237b2) | new span Mobs against Catholics 1834/1844, famine span rebuilt (exports, Russell, Trevelyan, quarter-acre, evictions, 1-1.5M range, coffin ships) | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | part2 self-review done (T-237b) | 2,470 prose words, avg sentence 13.2 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
 - 2026-09-26 | 7 1850-1900 (T-237b) | ~1,670 prose | 0 errors (--part), 6 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 (T-237b) | ~800 prose | 0 errors (--part), 2 stories | emdash=0 semicolon=0
