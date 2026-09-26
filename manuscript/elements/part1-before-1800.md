@@ -68,7 +68,9 @@ English colonists built ironworks in Virginia and Massachusetts in the 1600s. Po
 <!-- hb-zoom level="span" label="Falling Creek, 1619 to 1622" -->
 An ironworks is a place where workers make iron out of ore. Ore is rock that contains a metal. In 1619, English colonists began building an ironworks for the Virginia Company on Falling Creek, near present-day Richmond. By March 1622 the furnace was ready to make iron, or close to it.
 
-Opechancanough was a Powhatan leader. In 1622 he directed attacks on many parts of the English colony. On March 22, 1622, Powhatan fighters destroyed the ironworks at Falling Creek and killed twenty-seven people there. The colonists never managed to rebuild the works.
+Opechancanough was a Powhatan leader. English settlements had been spreading up the James River onto Powhatan land. From 1618, Virginia Company officials gave land to new colonists, who planted it in tobacco. By 1620 colonists were taking the land they wanted without asking or paying, according to the historian Betty Wood. Company officials, George Thorpe most of all, also pressed the Powhatan to send their children to be raised and taught among the English.
+
+Opechancanough planned attacks on many parts of the colony to drive the English out for good. On March 22, 1622, Powhatan fighters destroyed the ironworks at Falling Creek and killed twenty-seven people there. The colonists never managed to rebuild the works.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hammersmith at Saugus" -->
@@ -80,7 +82,7 @@ The ore was bog iron. Workers collected it from swamps and ponds. The works ran 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Scottish prisoners at Saugus" -->
-Scottish prisoners of war did forced labor at Saugus. These Scottish soldiers became prisoners at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. Their captors shipped about 400 of them across the ocean to New England. The prisoners had no choice about going or about the work.
+Scottish prisoners of war did forced labor at Saugus. These Scottish soldiers became prisoners at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. At Dunbar, English soldiers led by Oliver Cromwell captured them. England was then governed by a group of men called the Council of State. In November 1650 the members of the council ordered 150 Dunbar prisoners handed over to agents of John Becx and Joshua Foote. Becx and Foote were two of the main investors in the Company of Undertakers, which owned the Saugus works. The prisoners sailed from England on a ship called the *Unity* and reached Boston in December 1650. The records do not show how many died on the voyage. The company's managers kept 62 of them for its ironworks and sent 36 of those to Saugus. About 400 prisoners from the two battles reached New England in all, according to the National Park Service. The prisoners had no choice about going or about the work.
 
 Many of them served five to seven years under indentures at the Saugus ironworks. An indenture was a contract that bound a person to work for a master for a set number of years. The National Park Service gives the term at Saugus as seven years. There, most of the Scots cut wood, made charcoal or did heavy work that needed no special skill. The charcoal makers were called colliers. Other prisoners served in hard and dangerous jobs elsewhere in Massachusetts and in New Hampshire and Maine.
 <!-- /hb-zoom -->
@@ -98,9 +100,11 @@ By about 1750, colonists were shipping raw iron from their own furnaces to Brita
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved and indentured ironworkers" -->
-Owners held enslaved people as property and forced them to work without pay. The Baltimore Iron Works in Maryland opened with 89 workers, and 42 of them were enslaved. The Mount Clare Museum House states these numbers.
+Owners held enslaved people as property and forced them to work without pay. Five Maryland planters founded the Baltimore Iron Works in 1731. They were Dr. Charles Carroll, his cousins Charles and Daniel Carroll, Daniel Dulany and Benjamin Tasker. The partners put up money and supplied enslaved workers. The works opened with 89 workers, and 42 of them were enslaved. The Mount Clare Museum House states these numbers.
 
-Principio Furnace in Maryland began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs.
+Workers at the Baltimore furnace hauled cartloads of charcoal, oyster shells and iron ore to its top in 12-hour shifts. The furnace ran day and night, six or seven days a week. Many of the workers were enslaved people. Others were convicts from Britain. The owners did not give the workers enough food, the museum states. Some enslaved and convict workers ran away, and others worked slowly or carelessly on purpose.
+
+British investors set up the Principio Company in Maryland in 1719. Its Principio Furnace began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs. The company fed its enslaved and indentured workers mostly corn and salt pork. Some of them tried to escape, and a Maryland survey of the company's records calls such attempts "not uncommon."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Iron Act of 1750" -->
@@ -126,9 +130,11 @@ A mint is a place where workers make coins. The United States Mint was set up un
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved ironworkers in Maryland" -->
-An advertisement for the Baltimore Iron Works in 1785 listed more than 200 enslaved Black people there, according to the Mount Clare Museum House. Their owners made them work without pay.
+In 1785 a newspaper advertisement offered one-fifth of the Baltimore Iron Works for sale. That share had belonged to Daniel Dulany, one of the first partners, who had sided with Britain in the Revolution. The advertisement listed more than 200 enslaved Black people at the works, according to the Mount Clare Museum House. Their owners made them work without pay.
 
-Catoctin Furnace, in Maryland, was built in the 1770s. Hundreds of enslaved and free African Americans worked at the furnace and in the owners' households. The Baltimore Beat, a newspaper, reported that at least 270 enslaved people worked at Catoctin in the 1700s. The furnace had a cemetery for its African American workers, with burials from 1774 to 1850. After 1850 the owners hired paid workers, most of them white.
+Four brothers, Thomas, James, Baker and Roger Johnson, built Catoctin Furnace in Maryland. It was making iron by 1776. Thomas Johnson later became the first governor of the state of Maryland. The Catoctin Furnace Historical Society states that a Johnson owner of the furnace enslaved more than 80 people. It does not say which brother. The records name some of the men, among them Collier Sam, Waggoner's Henry and Harvey.
+
+At least 271 enslaved people and an unknown number of free African Americans worked at Catoctin, according to a 2023 study in the journal *Science*. They mined ore, made charcoal, worked the forge, filled the furnace, drove wagons and cut wood. Others worked in the owners' houses and fields. The furnace had a cemetery for its African American workers, with burials from 1774. Between about 1825 and 1850, the owners switched to paid workers, most of them white.
 
 On August 4, 2023, a team led by David Reich of Harvard Medical School published a study in the journal *Science*. The team worked with the Smithsonian and the company 23andMe. They studied the DNA of 27 people buried in the Catoctin cemetery. DNA is the material inside the body's cells that parents pass down to their children. The team linked the 27 people to nearly 42,000 living relatives.
 <!-- /hb-zoom -->
