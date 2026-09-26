@@ -2398,4 +2398,21 @@ RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 5/5 written · 3 stories v
 ### 2026-09-26 | [CLOUD] T-243c | Write economy PART 2 (eras 6-7)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-243-economy.md (unit 3)
+RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 2/2 written · 3 stories verified (Philip Hone,
+        Carnegie, Rockefeller) · about 4,350 words.
+        Covers slavery as about $3B of capital, and who profited by name (planters' banks, Baring
+        Brothers, Prime Ward and King, Hope and Co., JPMorgan Chase's 2005 report, New York Life,
+        Aetna, the Lehmans, Lowell's Boston Associates). The panics of 1819, 1837, 1857, 1873 and
+        1893 (Tompkins Square, Coxey). Sharecropping, Bailey v. Alabama, Alabama convict leasing
+        (wardens, companies, state revenue, deaths).
+        BANK DEFECT fixed in prose: the patch implies leasing began after the 13th Amendment, but it
+        also dates Alabama's lease to 1846. Outline claims left out: about 14.
+        BLOCKING GAPS (7 more, 14 in total): the Homestead land's Native owners, the 1819 debt
+        jailings, the 1837 seizures, Bailey's sentencing court, the 1924 boiling-vat death,
+        Coxey's arrest, the Homestead deaths.
+
+### 2026-09-26 | [CLOUD] T-243d | Write economy PART 3 (eras 8-10), the last part
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md (unit 4)
+VERIFY: economy --stage prose SHOULD PASS.
 RESULT:
