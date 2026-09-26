@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234b landed unit 6 (part 2 era 1800-1850). Working on unit 7 (era 1850-1900).
-NEXT:   part 2, era 1850-1900.
+NOW:    T-234b finished part 2 (units 6-7 landed, whole-file self-review done, --punct 0/0). Part 3 not started.
+NEXT:   part 3, era 1900-1950.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -36,7 +36,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 4 | part1 era 1700-1750 | landed | v2 revision, T-234a |
 | 5 | part1 era 1750-1800 | landed | v2 revision, T-234a, plus whole-file self-review |
 | 6 | part2 era 1800-1850 | landed | v2 revision, T-234b |
-| 7 | part2 era 1850-1900 | working | T-234b |
+| 7 | part2 era 1850-1900 | landed | v2 revision, T-234b, plus whole-file self-review |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -56,6 +56,10 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1750-1800, bank "Banneker": Silvio Bedini, the NPS and the Library of Congress named as the historians crediting Banneker with the boundary astronomy.
 - 1750-1800, bank "Philadelphia's waterworks": 20,000 "fled" (prose had "left").
 - 1800-1850, bank "Rochester": 1830 census figure 9,269 (prose had "about 9,200"). 12,630 dated to 1834, "the charter year" (prose had "mid-1830s"), now "By 1834, the year Rochester became a city". The prose's "fifteen years" became "more than eight times as many as in 1820" (1820 to 1834 is fourteen years, so "fifteen" was wrong).
+- 1850-1900, bank "Raising Chicago": the 1860 Lake Street raisers are a "consortium of engineers including George Pullman" (prose had "contractors"). Now "engineers".
+- 1850-1900, bank "Tenements": the 1901 law also "outlawed the dumbbell" and required courtyards (prose had only "real light, real air, indoor toilets, fire protection"). Now stated.
+- 1850-1900, bank "Mohawk ironworkers": the NMAI exhibition's towers (Empire State, Chrysler, George Washington Bridge, World Trade Center) replace "runs forward through the towers of the next century".
+- 1850-1900, bank "White City": "seeded the City Beautiful movement", now "Planners in the next era built on that idea in what they called the City Beautiful movement".
 - 1800-1850, bank "San Francisco": growth placed "during the California Gold Rush" (bank: Gold Rush references, "migration leads the rush").
 
 ## Decisions and known gaps
@@ -74,6 +78,11 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1800-1850: LAND ERASURE fixed. Era summary said San Francisco had been "a stretch of empty coast"; the bank has about 200 people there in 1846. Now "a small coastal settlement". The bank names no Native nation at Rochester, Chicago, San Francisco or Manhattan, so the prose cannot name them. Gap for AUDIT-QUEUE.
 - 1800-1850: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: Chicago settled where "a short river met Lake Michigan"; cholera's bodily course (definition); "no piped water", wells beside privies; Randel's marker "at every corner of every future crossing"; Strong could "turn a tap" and "almost nobody in an American city" could bathe at home before; wheat in / flour out by canal.
 - 1800-1850: "The men governing New York" decided on the Croton water: the bank names no official, so the prose says "New York's leaders" and names Jervis as the only person the records give. Strong's quotation split at its em dash with no word changed. Strong's closing lines ("That is the whole change in one household...") cut as a closing reversal; their facts (41 miles, parade) stand in the span. "While the water came nearer his part of town" became "while the water was still on its way" (the quotation itself says it was flowing towards the city).
+- 1850-1900: marasmus. Bank word is "severe malnutrition"; prose said "starvation". Kept both: "severe malnutrition, a form of starvation". Recorded here as a word-strength difference.
+- 1850-1900: Riis "then the city's police commissioner" implied Roosevelt held the post in 1890. The bank gives no year, so now "as New York City's police commissioner". Riis book spurred the "first significant" (now "first major") tenement laws, while the span calls the 1879 Act the first tenement rules: both kept, the tension is for AUDIT-QUEUE. The bank does not support "first" for the 1879 Act.
+- 1850-1900: LAND RUN. "The ground thrown open that day was Native land, taken from the nations who held it" (agentless, "thrown open"). The bank does not name the nations or the people who took the land, so the prose now says the research does not identify them. Gap for AUDIT-QUEUE. Seneca Village: the bank names no official who took the land. Prose says so.
+- 1850-1900: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: sewers "had no pumps"; "several feet" of fill; customers buying while the floor rose; Otis stood on the platform; top floors cheapest before elevators, dearest after; White City "built to last one season", "millions of visitors", the idea visitors took away; tenement landlords housed "most" of the arriving poor and "for decades" no law required anything; Riis worked nights, cellars at a few cents; owner sealed 97 Orchard (bank passive); Joseph Moore an Irish immigrant (bank says Bridget); all of the Olmsted body except the 1858 win and 1893 site plan (farmer, journalist, never designed a park, landscape architecture profession, Prospect Park, Emerald Necklace, dozens of places, the made-countryside argument, cities expected parks after him); Guthrie "surveying, laying out lots"; colonial towns "took years".
+- 1850-1900: closing lines cut or recast: "What he had demonstrated was..." (Riis, moved to the front), "The Moores are the ones the records let us name" (false: other residents are named), "Central Park exists... Both of those are the record" (facts folded into the taking), "Cities in the Northeast were raised in part by..." (moved to the front). Labels revised: "Chicago lifts itself out of the mud" (city as actor), "Central Park, and what stood there first" (Seneca Village was not first), "Out: streetcars stretch the city" (vehicles as actor). "lift the entire downtown into the air" became raising the downtown buildings to the new street level (precision).
 - 1700-1750: "London ... hundreds of thousands" and "volunteer fire companies ... for the next hundred years" are in the outline/prose, not in the bank. Kept, flagged for AUDIT-QUEUE.
 
 ## Log
@@ -86,3 +95,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 4 1700-1750 | era revised to v2 | 0 errors | era clean
 - 2026-09-26 | 5 1750-1800 + whole-file self-review | revised to v2 | 0 errors | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 | era revised to v2 (T-234b) | 0 errors | era clean (file still has era-07 marks: emdash=16 semicolon=6)
+- 2026-09-26 | 7 1850-1900 + whole-file self-review | revised to v2 (T-234b) | 0 errors | emdash=0 semicolon=0
