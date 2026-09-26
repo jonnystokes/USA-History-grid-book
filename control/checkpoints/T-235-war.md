@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT (units 1-3 landed and verified by the director. T-235b owns units 4-6)
+STATUS: ALL UNITS LANDED (T-235a units 1-3, T-235b units 4-6). Research check PASS.
 VERIFY: python tools/project_state.py --check war --stage research
 BRIEF:  standard research brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5).
         The LAST agent also gets the progress-flag line.
@@ -17,8 +17,8 @@ STATE AT START (2026-09-26): eras 1-4 progress="researched"; eras 5-10 progress=
 RULINGS THAT BIND THIS CHAPTER: hard-subjects-policy.md §6, war row: "Go to individual scale:
         the single soldier's wound and death, not only unit-and-number."
 
-NOW:    T-235b working unit 6 (era 2000-today). Units 4-5 landed.
-NEXT:   era 2000-today, then flags + workspace + final check
+NOW:    T-235b finished units 4-6. All ten eras progress="researched"; 19 stories all verified; 0 [VERIFY]; validator 0 errors.
+NEXT:   chapter complete. Director runs the research check.
 
 ## Units
 
@@ -29,7 +29,7 @@ NEXT:   era 2000-today, then flags + workspace + final check
 | 3 | era 07 1850-1900 | landed | 6 spans + 4 verified stories (amos-humiston, grant-lee, christian-fleetwood, cathay-williams); bank §7 |
 | 4 | era 08 1900-1950 | landed | 7 spans + 4 verified stories (henry-gunther, benjamin-o-davis-jr, daniel-inouye, chester-nez-war); wwii-gi target replaced; bank §8 |
 | 5 | era 09 1950-2000 | landed | 7 spans + 3 verified stories (ron-kovic, muhammad-ali-war, hugh-thompson); [VERIFY] 1973 resolved; bank §9 |
-| 6 | era 10 2000-today | working | |
+| 6 | era 10 2000-today | landed | 6 spans + 2 verified stories (pat-tillman, tammy-duckworth); post-9-11-veteran target filled; bank §10 |
 
 <!-- state: todo | working | landed | skipped (say why) -->
 
@@ -60,6 +60,8 @@ Era 8 (T-235b, all cited in bank §8): CRS Table 1 (WWI/WWII totals); Kramer New
 
 Era 9 (bank §9): CRS Table 1 (Korea, Vietnam, Gulf); archives.gov vietnam-war casualty-statistics (1968: 16,899); VVMF 2025 names (via search, 403); usmcmuseum.com 4_chosin.pdf; wikisource Army No Gun Ri Review Executive_Summary; cbsnews report-korean-war-era-massacre-was-policy (Muccio letter); upi 2001 Clinton regret; SSS Vietnam lotteries page (copy at jaclynhughes.wordpress.com PDF; sss.gov URL 404s); history.com Calley March 29; warrantofficerhistory.org Thompson PDF; newmobility.com ron-kovic-reborn; hnn.us Kovic essay; history.com Ali April 28; justia/LOC Clay v. US; army.mil 235994 West Point women; history.com DADT repeal; history.state.gov gulf-war; va.gov RAC-GWVI 2008 report PDF.
 
+Era 10 (bank §10): CRS tables 9-24 (OEF/OFS/OIF/OND as of July 16, 2020); justice.gov Abbey Gate (2025); militarytimes/NPR last plane and last convoy (via search); cbsnews Taguba excerpts 2004; brookings Venezuela Jan 2026; aljazeera Mar 10 2026 Iran war; washingtonpost Sep 22 2026 (via search, 403); health.mil DOD TBI Worldwide Numbers (as of June 8, 2026); news.va.gov 145131 (2023 suicide data); pewresearch 2011 + 2023; defenseone 2015 women combat; scotusblog May 2025; whitehouse.gov EO 14347; pattillmanfoundation.org; govinfo CHRG-110hhrg42898 (Tillman hearing April 24, 2007); nbcnews wbna19984732 (AP 2007 autopsy); popsci Duckworth memoir excerpt; veteranstories.kennesaw.edu Duckworth.
+
 ## Decisions and known gaps
 
 <!-- Facts left out rather than hedged. Disputes recorded. Anything a successor must not undo. -->
@@ -70,6 +72,7 @@ Era 9 (bank §9): CRS Table 1 (Korea, Vietnam, Gulf); archives.gov vietnam-war c
 - Hand-offs to T-235b are in workspace/war.md ("Hand-offs from T-235a").
 - Era 8 disputes: WWI flu deaths 45,000 (army.mil) vs 24,664 hospital-admitted (Holmes); Gunther birth day June 5 or 6 (not given); Bonus Army size 10,000-20,000+ veterans vs ~43,000 with families; Liscome Bay dead (used 'about three-fourths'); D-Day 4,436/2,519 (foundation, current) vs 4,414/2,501; Hiroshima/Nagasaki RERF 90,000-166,000 / 60,000-80,000 vs USSBS lower; Tuskegee 'never lost a bomber' is false (Haulman: 27). Era 8 left out: an ordinary WWII draftee (wwii-gi slot replaced by Inouye; audit-queue candidate); Isaac Woodard; oil (energy).
 - Era 9 disputes: No Gun Ri dead (Army could not count; Yongdong 248 killed/injured/missing; survivors ~400; verified 163) and the Muccio letter vs the Army's no-order finding; My Lai 347 (Army) vs 504 (memorial); Vietnam draftees 1.8-2.2 million; Wall 58,281 vs DoD 58,220; Ali refused 3 or 4 times (not counted); Soldier's Medal day (outline says March 1998); Gulf War illness cause is the RAC 2008 committee's finding. Era 9 left out: Agent Orange, Tet, POWs, atomic testing on islanders/troops, rape at My Lai (not verified from a source read), Grenada/Panama/Somalia.
+- Era 10 disputes: Abbey Gate Afghan dead ~160 (DOJ 2025) vs ~170; Abu Ghraib convictions 9 vs 11 (outline gives none); Afghanistan US dead computed from CRS 2020 + 13 (outline 'more than 2,400'); 2026 Iran war figures are live. Era 10 left out: drones, Guantanamo/CIA (other chapters), an ordinary post-9/11 veteran, repeated deployments (unsourced), transgender policy before 2025.
 - Era 5 left out: Native nations choosing sides in the Revolution, Sullivan 1779 (native-nations leads; not researched); treaties (america-world).
 
 ## Log
@@ -80,3 +83,4 @@ Era 9 (bank §9): CRS Table 1 (Korea, Vietnam, Gulf); archives.gov vietnam-war c
 2026-09-26 | unit 2 era 1800-1850 | outline era 6 researched, bank §6 (+ CRS Revolution dispute added to §5) | validator 0 errors
 2026-09-26 | unit 4 era 1900-1950 | outline era 8 researched, bank §8 (PART C) | validator 0 errors
 2026-09-26 | unit 5 era 1950-2000 | outline era 9 researched, bank §9 | validator 0 errors
+2026-09-26 | unit 6 era 2000-today | outline era 10 researched, bank §10, workspace checklist + hand-offs | validator 0 errors, research check PASS

@@ -1738,3 +1738,159 @@ Thompson's later testimony and interviews).
 - Atomic testing on Pacific islanders and on US soldiers: not researched.
 - Grenada (1983), Panama (1989), Somalia (1993) and the Balkans: CRS Table 2 lists them; not written
   into the outline.
+
+## 10. 2000 TO TODAY (current to September 26, 2026; every figure carries its year)
+
+### 10.0 The official numbers, and their dates
+From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
+- **Operation Enduring Freedom (Afghanistan and other countries), began October 7, 2001, ended
+  December 31, 2014:** **2,349 deaths** (1,845 hostile, 504 nonhostile). **20,149 wounded in action.**
+- **Operation Freedom's Sentinel (Afghanistan from January 1, 2015):** **93 deaths** to July 2020
+  (64 hostile). 570 wounded.
+- **Operation Iraqi Freedom, March 19, 2003 to August 31, 2010:** **4,418 deaths** (3,481 hostile, 937
+  nonhostile, **222 of them self-inflicted**). **31,994 wounded in action.** Killed in action 2,675;
+  died of wounds 799.
+- **Operation New Dawn (Iraq, September 1, 2010 to December 2011):** **74 deaths.** 298 wounded.
+- **Operation Inherent Resolve (against ISIS, Iraq and Syria, from 2014):** 96 deaths to July 2020.
+- **Afghanistan total, computed:** 2,349 + 93 = 2,442 by July 2020, plus the 13 killed at Abbey Gate
+  on August 26, 2021 and any others after July 2020. The outline says **"more than 2,400."** (DCAS's
+  live site is a JavaScript app that could not be read from here.)
+- **Iraq total, computed:** 4,418 + 74 = **4,492** (2003-2011). Outline: "about 4,500."
+- **Wounded in action, computed:** 20,149 + 570 + 31,994 + 298 = **53,011** (Afghanistan and Iraq,
+  to July 2020). Outline: "more than 53,000."
+- **Gulf War, a small inconsistency inside CRS:** Table 1 gives 383 deaths (148 battle); Table 8 gives
+  382 in-theater (147 hostile). Era 9 uses Table 1.
+
+### 10.1 The wars
+- **Afghanistan:** OEF began **October 7, 2001** (CRS). The last US military plane left Kabul at
+  **11:59 p.m. on August 30, 2021**; Major General Chris Donahue was the last soldier to board.
+  (Military Times, August 31, 2021, https://www.militarytimes.com/news/2021/08/31/last-soldier-out-of-afghanistan-was-this-former-delta-force-2-star/ ;
+  NPR, August 30, 2021; via search summary.) `america-world` leads on September 11 and on the
+  decisions to go to war.
+- **Abbey Gate, August 26, 2021.** An ISIS-K suicide bomber set off a bomb worn on his body in the
+  crowd at Abbey Gate, Kabul airport, during the evacuation. **13 US service members killed** (11
+  Marines, one Navy corpsman, one Army soldier), **45 wounded.** **Afghan dead: DISPUTE, "approximately
+  160 civilians" (US Justice Department, March 5, 2025) or about 170 (other reports).** On March 2,
+  2025, US officials arrested Mohammad Sharifullah, accused of helping plan it. (DOJ,
+  https://www.justice.gov/opa/pr/united-states-arrests-isis-k-attack-planner-role-killing-us-military-service-members-abbey ;
+  White House, "Fifth Anniversary of the Attack at Abbey Gate," August 2026, via search summary.)
+- **Iraq:** OIF began **March 19, 2003** (CRS; March 20 in Iraq). The last convoy of about 500 US
+  troops crossed into Kuwait on **December 18, 2011** (NPR, December 18, 2011,
+  https://www.npr.org/2011/12/18/143914052/time-to-heal-as-u-s-troops-leave-iraq , via search summary).
+- **Abu Ghraib.** Army Major General **Antonio Taguba**'s report (May 2004) found that from October to
+  December 2003, military police at the Abu Ghraib prison near Baghdad committed "sadistic, blatant,
+  and wanton criminal abuses." Listed acts include: "Punching, slapping, and kicking detainees;
+  jumping on their naked feet"; keeping them naked "for several days at a time"; forcing them into
+  sexual positions to be photographed; "Using military working dogs (without muzzles) to intimidate
+  and frighten detainees, and in at least one case biting and severely injuring a detainee"; pouring
+  the liquid from broken chemical lights on them; "Threatening detainees with a charged 9mm pistol";
+  attaching wires to a detainee to fake electric torture. (CBS News, "Report excerpts," May 5, 2004,
+  https://www.cbsnews.com/news/iraqi-pow-abuse-report-excerpts-05-05-2004) CBS *60 Minutes II* showed
+  the photographs **April 28, 2004** (TIME timeline, via search summary). **Specialist Charles Graner
+  got 10 years; Private First Class Lynndie England got 3 years** (September 2005). Search summaries
+  say **nine** soldiers were convicted or pleaded guilty, others say eleven. **DISPUTE on the count;
+  outline says "Army courts convicted Graner, England and other low-ranking soldiers."** No officer
+  above them was convicted of the abuse (search summaries; not verified name-by-name, so the outline
+  does not say it).
+- **2026.** On **January 3, 2026**, US special operations forces took Venezuela's president Nicolás
+  Maduro and his wife out of Caracas; it went ahead without prior approval from Congress (Brookings,
+  January 5, 2026, https://www.brookings.edu/articles/making-sense-of-the-us-military-operation-in-venezuela/).
+  **A war with Iran began February 28, 2026**, with US and Israeli bombing; by **March 10, 2026**
+  about 140 US service members had been wounded and 7 killed by Iranian attacks, plus one death from
+  illness (Al Jazeera, March 10, 2026,
+  https://aljazeera.com/news/2026/3/10/around-140-us-service-members-wounded-in-iran-war-pentagon-says).
+  **The Pentagon's disclosed death total was 19 as of September 22, 2026** (Washington Post, September
+  22, 2026, https://www.washingtonpost.com/politics/2026/09/22/pentagon-adds-one-death-tally-troop-fatalities-amid-iran-war/ ,
+  via search summary; page returned 403). US strikes on southern Iran began again **September 1,
+  2026** (search summary). **These are fast-moving: re-check every figure before prose is written.**
+  The outline gives only the start dates and the September 2026 death count, with dates.
+
+### 10.2 Wounds, the brain, and suicide
+- **Traumatic brain injury (TBI):** damage to the brain from a blow or a blast. Defense Department
+  count, **2000 through the end of 2025: 535,544 service members diagnosed**, of whom **442,538
+  (about 83 percent) were mild**, mostly concussions. Many happen in training and daily life, not in
+  combat. (Military Health System, "DOD TBI Worldwide Numbers," as of June 8, 2026,
+  https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Traumatic-Brain-Injury-Center-of-Excellence/DOD-TBI-Worldwide-Numbers)
+- **Veteran suicide:** **6,398 veterans died by suicide in 2023, an average of 17.5 a day**, 44 fewer
+  than in 2022. (VA, 2025 National Veteran Suicide Prevention Annual Report, released 2025,
+  https://news.va.gov/145131/va-veteran-suicide-prevention-report-2023-data/ , via search summary.)
+- **Who serves.** In the ten years after 9/11, **about 0.5 percent** of Americans were on active duty at
+  any one time; at the height of WWII it was nearly 9 percent (Pew Research Center, October 5-6, 2011,
+  https://www.pewresearch.org/short-reads/2011/10/06/war-and-sacrifice-in-the-post-911-era-the-military-civilian-gap/).
+  **In 2023, about 18 million living veterans, about 6 percent of adults** (Pew, November 8, 2023,
+  https://www.pewresearch.org/short-reads/2023/11/08/the-changing-face-of-americas-veteran-population/).
+  Both via search summary.
+
+### 10.3 Who may serve
+- **"Don't Ask, Don't Tell" repealed:** signed December 22, 2010, in effect **September 20, 2011**
+  (HISTORY, above in 9.7).
+- **All combat jobs opened to women: December 3, 2015**, Defense Secretary **Ashton Carter**: "There
+  will be no exceptions." About **220,000** positions, roughly 10 percent, had been closed to women.
+  (Defense One, December 2015, https://www.defenseone.com/business/2015/12/carter-open-all-women/124172/ ,
+  via search summary.)
+- **Transgender service members:** on **May 6, 2025** the Supreme Court let President Trump's ban on
+  transgender people serving take effect while lawsuits go on; three justices dissented; no reasons
+  given. (SCOTUSblog, May 2025, https://www.scotusblog.com/2025/05/supreme-court-allows-trump-to-ban-transgender-people-from-military/ ;
+  Air Force Times, May 6, 2025; via search summary.) Earlier changes (2016, 2019, 2021) were not
+  researched; the outline gives only the 2025 ruling.
+- **"Department of War":** Executive Order 14347, **September 5, 2025**, "Restoring the United States
+  Department of War," lets officials use "Department of War" and "Secretary of War" as secondary
+  titles. The legal name set by Congress is unchanged. (White House,
+  https://www.whitehouse.gov/presidential-actions/2025/09/restoring-the-united-states-department-of-war/ ,
+  via search summary.)
+- **Wounded Knee medals** (hand-off, sourced in bank 7.9): review ordered in 2024 by Defense Secretary
+  Lloyd Austin; on September 25-26, 2025 Defense Secretary Pete Hegseth announced the 20 soldiers
+  would keep their Medals of Honor; the Remove the Stain Act would take them back (reintroduced May
+  2025).
+
+### 10.4 STORY — Pat Tillman (famous; individual-scale death) — verified. Slug `pat-tillman`
+- Arizona State University; safety for the **Arizona Cardinals**; after September 11, 2001 he **left
+  a $3.6 million contract** and **enlisted in 2002 with his brother Kevin**; **75th Ranger Regiment**;
+  tours in Iraq and Afghanistan. (Pat Tillman Foundation, https://pattillmanfoundation.org/pat-tillman/)
+- **April 22, 2004, eastern Afghanistan.** Killed by soldiers of his own platoon (House Committee on
+  Oversight and Government Reform chairman Henry Waxman's opening statement). **Three bullets hit his
+  forehead, so close together that Army medical examiners judged he was shot with an M-16 from about
+  10 yards.** The examiner said "the medical evidence did not match up with the scenario as
+  described" and was rebuffed when he tried to get a criminal investigation. (AP via NBC News, July
+  26, 2007, https://www.nbcnews.com/id/wbna19984732) An Afghan soldier with him was also killed, and two
+  other soldiers were wounded (Kevin Tillman's testimony).
+- **Sworn statement of the soldier next to him** (read by Kevin Tillman): they yelled "Cease fire.
+  Friendlies." Tillman threw a smoke grenade. When firing began again, Tillman called out "Cease
+  fire. Friendlies. I am Pat, F'ing, Tillman, damn it," "over and over again until he stopped."
+  (Outline paraphrases without the curse.)
+- **The cover-up.** The family was told he was shot by the enemy. He was awarded the **Silver Star**
+  with a citation describing a fight with the enemy. **His uniform, equipment and notebook were
+  destroyed**; the autopsy was not done by the rules; a field-hospital report was falsified (Kevin
+  Tillman's testimony, which the outline attributes to him). **On May 29, 2004, five weeks later,
+  General Kensinger announced he "probably died of fratricide"** (killing by one's own side).
+  (House Committee on Oversight and Government Reform, hearing "Misleading Information from the
+  Battlefield," **April 24, 2007**, https://www.govinfo.gov/content/pkg/CHRG-110hhrg42898/html/CHRG-110hhrg42898.htm)
+- Kevin Tillman's words for the Army's account: "utter fiction."
+- Movie: *The Tillman Story* (2010) is a documentary about him (not verified in this pass, so
+  `movie=""`). Slug `pat-tillman` unique (checked).
+
+### 10.5 STORY — Tammy Duckworth (fills the "(target) a post-9/11 veteran" slot) — verified. Slug `tammy-duckworth`
+- Born in Bangkok, Thailand. (Kennesaw State University Veteran Stories,
+  https://veteranstories.kennesaw.edu/items/show/16 , which gives the year as "1986," an evident typo
+  since she was commissioned in 1992. **The outline gives no birth year.**) Army ROTC 1990,
+  commissioned 1992, learned to fly helicopters. Illinois Army National Guard. Deployed to Iraq in 2004
+  as a UH-60 Black Hawk pilot.
+- **November 12, 2004** (place in Iraq not verified here; the outline gives none): a **rocket-propelled grenade** (a small rocket fired from a
+  tube carried on the shoulder) hit the Black Hawk's chin bubble. In her own words (memoir *Every Day
+  Is a Gift*, 2021, excerpt in Popular Science, April 2021,
+  https://www.popsci.com/story/technology/tammy-duckworth-every-day-is-a-gift-excerpt/): "The explosion
+  vaporized my right leg. It blew my left leg up into the bottom of the instrument panel," and it
+  "tore through my right arm." **Pilot Dan Milberg** landed the helicopter; **co-pilot Matt Backues**
+  dragged her across the ground. She lost both legs and partial use of her right arm. Purple Heart;
+  recovered at Walter Reed Army Medical Center. (Date: search summaries and Kennesaw.)
+- Assistant Secretary of Veterans Affairs 2009-2011; US Representative from Illinois 2013-2017; US
+  Senator from 2017; in 2018 the first senator to give birth while in office (Kennesaw).
+- The seed slot asked for "repeated deployments." Duckworth deployed once to Iraq. Repeated
+  deployments were not sourced in this pass and are not in the outline (audit-queue candidate). Movie: none. `movie=""`.
+
+### 10.6 Left out of era 10, and why
+- Drones and remote warfare: not researched in this pass (audit-queue candidate).
+- Guantánamo, and the CIA's interrogation program, belong to `crime-justice` / `america-world`.
+- An ordinary (not famous) post-9/11 veteran with an on-the-record account: not found to verification
+  in this pass. Both era-10 stories are famous people.
+- The Iran war of 2026 and the Venezuela operation: only dates and one sourced count are used.

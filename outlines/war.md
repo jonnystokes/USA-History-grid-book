@@ -354,9 +354,9 @@ On February 4, 1899, fighting broke out between US soldiers and Aguinaldo's Fili
 <!-- hb-time:start id="1900-1950" order="08" chapter="war" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-The United States fought two world wars in this half century. In World War I, from 1917 to 1918, about 4.7 million Americans served and 116,516 died. More of them died of disease and accidents than in battle. In World War II, from 1941 to 1945, more than 16 million Americans served and 405,399 died. It was the first American war in which battle killed more soldiers than disease did. These are the Defense Department's counts.
+American soldiers, sailors and airmen fought in two world wars in this half century. In World War I, from 1917 to 1918, about 4.7 million Americans served and 116,516 died. More of them died of disease and accidents than in battle. In World War II, from 1941 to 1945, more than 16 million Americans served and 405,399 died. It was the first American war in which battle killed more soldiers than disease did. These are the Defense Department's counts.
 
-Both wars were fought mostly by drafted men. The draft is a law that makes men sign up and serve when the government calls them. Black soldiers served in separate units under mostly white officers until 1948. In 1945 American airmen dropped the first two atomic bombs used in war, on two cities in Japan.
+Both wars were fought mostly by drafted men. The draft is a system, set by law, in which men must sign up and serve when officials call them. Black soldiers served in separate units under mostly white officers until 1948. In 1945 American airmen dropped the first two atomic bombs used in war, on two cities in Japan.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The Philippines, 1900 to 1902: the water cure" -->
 During the war in the Philippines, American soldiers tortured Filipino prisoners with what they called the water cure. Soldiers held a man down and poured water into his mouth and nose until his stomach swelled. Then they pressed or stood on his stomach to force the water out, and started again.
@@ -366,7 +366,7 @@ On November 27, 1900, in the town of Igbaras, soldiers did this to the town's ma
 On the island of Samar in late 1901, General Jacob Smith ordered his officers to kill and burn. He said boys of ten were old enough to fight. Smith was reprimanded and made to retire. The historian Paul Kramer writes that nobody can know how many prisoners were tortured.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="World War I, 1917 and 1918" -->
-Congress passed the Selective Service Act on May 18, 1917, six weeks after the United States entered the war. About 24 million men registered, and 2.8 million of them were drafted. Another 2 million volunteered.
+Members of Congress passed the Selective Service Act, the law for the draft, on May 18, 1917. About 24 million men registered, and 2.8 million of them were drafted. Another 2 million volunteered.
 
 The largest American battle of the war was the Meuse-Argonne, in northern France, from September 26 to November 11, 1918. More than a million American soldiers fought in it, and more than 26,000 were killed. The American Battle Monuments Commission counts 26,277 dead, more than in any other battle in the country's history.
 
@@ -386,16 +386,16 @@ Early on November 11, 1918, German and Allied leaders signed the armistice, the 
 The army gave him back his sergeant's rank and awarded him the Distinguished Service Cross. His body came home in 1923, and he is buried in Most Holy Redeemer Cemetery in Baltimore.
 <!-- hb-story:end slug="henry-gunther" -->
 <!-- hb-zoom level="span" label="The Bonus Army, 1932" -->
-In 1924 Congress promised World War I veterans a bonus, but set the payment date for 1945. In 1932, during the Great Depression, thousands of veterans came to Washington and camped there to ask for the money early. Counts of the veterans run from about 10,000 to more than 20,000. With their wives and children, one count reaches about 43,000 people.
+In 1924 members of Congress voted World War I veterans a bonus, but set the payment date for 1945. In 1932, during the Great Depression, thousands of veterans came to Washington and camped there to ask for the money early. Counts of the veterans run from about 10,000 to more than 20,000. With their wives and children, one count reaches about 43,000 people.
 
 On July 28, 1932, police clearing the camps shot two veterans, William Hushka and Eric Carlson, and both died. Hushka was a butcher from Lithuania who had become a citizen while serving in the army. He was buried at Arlington National Cemetery.
 
-The same day President Herbert Hoover ordered the army to clear the camps. General Douglas MacArthur sent cavalry, infantry and six tanks. Soldiers drove the veterans out with tear gas and bayonets, and the camps burned. Congress voted to pay the bonus in 1936, over President Franklin Roosevelt's veto.
+The same day President Herbert Hoover ordered the army to clear the camps. General Douglas MacArthur sent cavalry, infantry and six tanks. Soldiers drove the veterans out with tear gas and bayonets, and the camps burned. Members of Congress voted to pay the bonus in 1936, over President Franklin Roosevelt's veto.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="World War II, 1941 to 1945" -->
 Japanese Navy pilots attacked the US Navy base at Pearl Harbor, Hawaii, on December 7, 1941. They killed 2,403 Americans, counting the missing: 2,008 sailors, 109 Marines, 218 soldiers and 68 civilians. A Japanese bomb hit the battleship *Arizona*, and she exploded and sank. Of her crew, 1,177 died. More than 900 of them are still inside the sunken ship.
 
-On the battleship *West Virginia* that morning, Doris Miller was a mess attendant, a sailor who cooked and served food. It was one of the few jobs the Navy let Black sailors do. Miller carried his dying captain to shelter and then fired a machine gun he had never been trained to use. Admiral Chester Nimitz gave him the Navy Cross in May 1942. On November 24, 1943, a Japanese submarine torpedoed his ship, the *Liscome Bay*. The torpedo set off the bombs stored below deck, and the ship sank in about 23 minutes. About three of every four men aboard died, Miller among them. His body was never found.
+On the battleship *West Virginia* that morning, Doris Miller was a mess attendant, a sailor who cooked and served food. It was one of the few jobs Navy leaders let Black sailors do. Miller carried his dying captain to shelter and then fired a machine gun he had never been trained to use. Admiral Chester Nimitz gave him the Navy Cross in May 1942. On November 24, 1943, a Japanese submarine torpedoed his ship, the *Liscome Bay*. The torpedo set off the bombs stored below deck, and the ship sank in about 23 minutes. About three of every four men aboard died, Miller among them. His body was never found.
 
 On June 6, 1944, called D-Day, American, British and Canadian soldiers landed on the beaches of Normandy in France. The National D-Day Memorial Foundation has found the names of 4,436 Allied soldiers killed that day, and 2,519 of them were American. On the Pacific island of Iwo Jima, from February 19 to March 26, 1945, 6,821 Americans were killed and 19,217 were wounded. Of about 21,000 Japanese defenders, Marines captured 216. The rest were killed.
 
@@ -406,7 +406,7 @@ Black soldiers, sailors and airmen served in separate units. Army instructors tr
 
 After Japan's attack, Army leaders refused to let Japanese Americans enlist. In 1943 they changed the rule. In Hawaii, where officials did not lock up Japanese Americans in large numbers, more than 10,000 volunteered. On the mainland, federal officials had locked up Japanese American families in camps (`rights-movements` tells about the camps). From the camps, 1,208 men volunteered, fewer than 6 of every 100 who could. About 14,000 men served in the all-Japanese American 442nd Regimental Combat Team. They received 9,486 Purple Hearts, the medal for soldiers wounded or killed in battle.
 
-More than 375 Navajo Marines sent messages in a code built from the Navajo language. In it, a fighter plane was a "hummingbird" and a submarine was an "iron fish." Japanese code breakers never broke it. At Iwo Jima six Navajo code talkers sent more than 800 messages without an error. The code stayed secret until 1968.
+More than 375 Navajo Marines sent messages in a code built from the Navajo language. In it, a fighter plane was a "hummingbird" and a submarine was an "iron fish." Japanese code breakers never broke it. At Iwo Jima six Navajo code talkers sent more than 800 messages without an error. Military officials kept the code secret until 1968.
 
 On July 26, 1948, President Harry Truman signed an order requiring equal treatment for everyone in the armed forces, whatever their race. Nearly every unit was mixed by about 1953.
 <!-- /hb-zoom -->
@@ -417,7 +417,7 @@ On July 26, 1948, President Harry Truman signed an order requiring equal treatme
 
 His father, Benjamin O. Davis Sr., was one of only two Black officers in the Army. The son entered West Point in 1932. For four years his white classmates spoke to him only when their duties required it. He never had a roommate, and he ate his meals in silence. He finished 35th of 276 in the class of 1936.
 
-He wanted to fly, but the Army had no Black flying units, so it made him an infantry officer. When Army leaders opened pilot training for Black men at Tuskegee, he trained there and earned his wings in March 1942. He led the 99th Fighter Squadron and then the 332nd Fighter Group in combat. Years later a historian asked him whether it was true that the group never lost a bomber. Davis said he questioned it himself. In 1998 President Bill Clinton made him a four-star general.
+He wanted to fly, but the Army had no Black flying units, so his commanders made him an infantry officer. When Army leaders opened pilot training for Black men at Tuskegee, he trained there and earned his wings in March 1942. He led the 99th Fighter Squadron and then the 332nd Fighter Group in combat. Years later a historian asked him whether it was true that the group never lost a bomber. Davis said he questioned it himself. In 1998 President Bill Clinton made him a four-star general.
 <!-- hb-story:end slug="benjamin-o-davis-jr" -->
 <!-- hb-story:start slug="daniel-inouye" name="Daniel Inouye" movie="" kind="famous" status="verified" -->
 ### Daniel Inouye
@@ -451,16 +451,16 @@ The Radiation Effects Research Foundation, run by Japan and the United States, e
 <!-- hb-zoom level="span" label="The G.I. Bill" -->
 President Franklin Roosevelt signed the G.I. Bill on June 22, 1944. It paid for veterans' schooling and backed their loans for homes, farms and businesses. By 1956, 7.8 million of the 16 million World War II veterans had used it for school or job training. The Veterans Administration backed nearly 2.4 million home loans by 1952.
 
-Local banks made the loans, and many would not lend to Black veterans. In 1947 *Ebony* magazine checked 3,229 of these home loans in 13 Mississippi cities. Two went to Black veterans.
+Local bank officers made the loans, and many would not lend to Black veterans. In 1947 *Ebony* magazine checked 3,229 of these home loans in 13 Mississippi cities. Two went to Black veterans.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="war" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-After 1950 the United States kept millions of people under arms in peacetime and fought two long wars in Asia without a declaration of war from Congress. In Korea, from 1950 to 1953, 36,574 Americans died. In Vietnam, 58,220 Americans died, most of them between 1965 and 1973. Both counts are the Defense Department's.
+Presidents after 1950 kept millions of Americans in uniform even in peacetime. They sent American forces into two long wars in Asia without a declaration of war from Congress. In Korea, from 1950 to 1953, 36,574 Americans died. In Vietnam, 58,220 Americans died, most of them between 1965 and 1973. Both counts are the Defense Department's.
 
-Presidents sent drafted men to both wars. The draft ended in 1973, and after that everyone who served had signed up. In 1991 about 697,000 American troops went to war against Iraq. The fighting lasted from January 17 to February 28, and 383 Americans died.
+Drafted men fought in both wars. The draft ended in 1973, and after that everyone who served had volunteered. In 1991 about 697,000 American troops went to war against Iraq. The fighting lasted from January 17 to February 28, and 383 Americans died.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Korea, 1950 to 1953" -->
 North Korean troops invaded South Korea on June 25, 1950, and American troops went to fight for the South. In November 1950 about 120,000 Chinese soldiers surrounded about 30,000 American and allied troops at the Chosin Reservoir in North Korea. The temperature fell to 20 degrees below zero. The troops fought their way out to the sea by December 13. Of about 8,000 Marines in the fighting, 836 were killed.
@@ -501,7 +501,7 @@ Ali was a minister of the Nation of Islam. He asked his draft board to list him 
 On June 20, 1967, a federal court convicted him of refusing the draft and sentenced him to five years in prison and a $10,000 fine. His lawyers appealed. He was not allowed to box for more than three years. On June 28, 1971, all eight justices who heard the case overturned his conviction. They ruled that the appeal board had never given a reason for turning him down.
 <!-- hb-story:end slug="muhammad-ali-war" -->
 <!-- hb-zoom level="span" label="My Lai, March 16, 1968" -->
-On March 16, 1968, American soldiers of Charlie Company, 1st Battalion, 20th Infantry, killed the unarmed people of My Lai, a village in South Vietnam. The Army counted 347 dead. A memorial in the village lists 504 names, from babies of one year to a person of 82. The soldiers shot villagers in an irrigation ditch and in the open. Officers above them hid what happened for more than a year.
+On March 16, 1968, American soldiers of Charlie Company, 1st Battalion, 20th Infantry, killed the unarmed people of My Lai, a village in South Vietnam. Army investigators counted 347 dead. A memorial in the village lists 504 names, from babies of one year to a person of 82. The soldiers shot villagers in an irrigation ditch and in the open. Officers above them hid what happened for more than a year.
 
 An Army board led by General William Peers named 30 men who knew about the killings. Army lawyers charged 14 of them. A court-martial, a military court, convicted one of them, Lieutenant William Calley, on March 29, 1971, of murdering 22 people. He was sentenced to life in prison. President Richard Nixon moved him to house arrest three days later, and he was let out on parole in 1974.
 <!-- /hb-zoom -->
@@ -514,10 +514,10 @@ Thompson flew a small scout helicopter with two crewmen, Glenn Andreotta and Law
 
 He landed. Lieutenant Calley told him to mind his own business. Then Thompson saw soldiers chasing about ten villagers, some of them children, toward a shelter. He set his helicopter down between the soldiers and the villagers. He told Colburn and Andreotta to fire their machine guns at the soldiers if the soldiers shot at him or the villagers. He talked 11 people out of the shelter, and two other pilots flew them to safety. Andreotta climbed into a ditch of about 100 bodies and pulled out a living boy, Do Ba. Thompson flew him to a hospital and reported the killings. Medina then told his men to stop.
 
-Andreotta was killed in combat three weeks later. In 1969 a congressman who led the House Armed Services Committee, Mendel Rivers, said Thompson was the one who should be punished, for threatening American soldiers. Thompson got death threats. In March 1998 the Army gave all three men the Soldier's Medal, Andreotta after his death. It is the Army's highest award for bravery outside combat with an enemy. That year Thompson and Colburn went back to My Lai and met people they had saved.
+Andreotta was killed in combat three weeks later. In 1969 a congressman who led the House Armed Services Committee, Mendel Rivers, said Thompson was the one who should be punished, for threatening American soldiers. Thompson got death threats. In March 1998 Army leaders gave all three men the Soldier's Medal, Andreotta after his death. It is the Army's highest award for bravery outside combat with an enemy. That year Thompson and Colburn went back to My Lai and met people they had saved.
 <!-- hb-story:end slug="hugh-thompson" -->
 <!-- hb-zoom level="span" label="Women and gay service members" -->
-A law signed on June 12, 1948, made women permanent members of the armed forces. It limited them to 2 percent of the forces and kept them out of combat units. Congress removed the limit in 1967. In July 1976, 119 women entered the Military Academy at West Point, and 62 of them graduated in 1980.
+Under a law signed on June 12, 1948, women could serve as permanent members of the armed forces. Under the same law, women could make up no more than 2 percent of the forces and could not serve in combat units. Members of Congress removed the cap in 1967. In July 1976, 119 women entered the Military Academy at West Point, and 62 of them graduated in 1980.
 
 Under a 1993 law called "Don't Ask, Don't Tell," gay, lesbian and bisexual service members could serve only if they kept it secret. Commanders discharged more than 13,000 of them under it before it ended in 2011.
 <!-- /hb-zoom -->
@@ -528,16 +528,54 @@ At least one in four came home sick. In 2008 a committee of scientists advising 
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="war" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="war" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-Twenty years of war fought by a small volunteer force while most Americans watched from a distance — the civilian–military gap.
+After the attacks of September 11, 2001, American forces fought in Afghanistan for almost 20 years and in Iraq for almost 9. Everyone who fought had volunteered. In the ten years after 9/11, about one American in 200 was on active duty at any one time, the Pew Research Center found in 2011. In World War II it had been nearly one in 11.
+
+Defense Department counts, most of them from 2020, give more than 2,400 American service members dead in the Afghanistan war and about 4,500 in the Iraq war. More than 53,000 were wounded in action in the two wars together. This section is current to September 2026.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Afghanistan, Iraq, and the volunteer force" -->
-Afghanistan, 2001–2021, and Iraq from 2003; drones and remote warfare; repeated deployments; wounded veterans and traumatic brain injury; the end of "don't ask, don't tell" and of the ban on women in combat roles; who serves and where they come from. Current through 2026; state the cutoff.
+<!-- hb-zoom level="span" label="Afghanistan and Iraq, 2001 to 2021" -->
+American bombing of Afghanistan began on October 7, 2001, less than a month after the September 11 attacks (`america-world` tells why). The invasion of Iraq began on March 19, 2003. The last American convoy left Iraq on December 18, 2011.
+
+The last American plane left Kabul, Afghanistan's capital, at 11:59 p.m. on August 30, 2021. Four days earlier, a bomber from the group ISIS-K set off explosives he was wearing in a crowd at Abbey Gate, an entrance to the Kabul airport. He killed 13 American service members: 11 Marines, a Navy medic and an Army soldier. The US Justice Department counts about 160 Afghan civilians killed, and other reports say about 170.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="post-9-11-veteran" name="(target) a post-9/11 veteran" movie="" kind="ordinary" status="target" -->
-### (target) a post-9/11 veteran
-Served repeated deployments in a volunteer force; a documented, on-the-record account.
-<!-- hb-story:end slug="post-9-11-veteran" -->
+<!-- hb-zoom level="span" label="Abu Ghraib, 2003 and 2004" -->
+From October to December 2003, American military police guarding prisoners at Abu Ghraib prison near Baghdad abused them. Army General Antonio Taguba investigated. His report lists guards punching, slapping and kicking prisoners, jumping on their bare feet, keeping them naked for days, and forcing them into sexual poses to photograph them. Guards used dogs without muzzles to frighten prisoners, and a dog badly bit at least one. Guards also threatened prisoners with a loaded pistol.
+
+CBS television showed the guards' photographs on April 28, 2004. Army courts convicted Specialist Charles Graner, who was sentenced to 10 years in prison, Private First Class Lynndie England, sentenced to 3 years, and other low-ranking soldiers.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="pat-tillman" name="Pat Tillman" movie="" kind="famous" status="verified" -->
+### Pat Tillman
+> **Who:** A professional football player who left the Arizona Cardinals to join the Army Rangers and was killed by soldiers of his own platoon.
+> **When and where:** Enlisted 2002. 75th Ranger Regiment. Killed in eastern Afghanistan, April 22, 2004. A House committee held a hearing on his death on April 24, 2007.
+
+After September 11, 2001, Tillman turned down a $3.6 million contract with the Arizona Cardinals. In 2002 he and his brother Kevin enlisted in the Army together, and both became Rangers. He served tours in Iraq and Afghanistan.
+
+On April 22, 2004, after a short ambush, soldiers in a vehicle from his own platoon fired on the hillside where his group was. The soldier beside him said later that they yelled "Cease fire. Friendlies." Tillman threw a smoke grenade, and the shooting stopped. Then it started again. Tillman was hit, and he called out "Cease fire" and his own name over and over until he stopped. Three bullets struck his forehead. Army medical examiners judged that he was shot with an M-16 rifle from about 10 yards. An Afghan soldier with them was killed too.
+
+Army officers told his family and the public that enemy fighters had killed him. Army commanders awarded him the Silver Star for a battle with the enemy. Kevin Tillman told Congress that Pat's uniform, equipment and notebook were destroyed. The records used here do not say who destroyed them. On May 29, 2004, five weeks after the shooting, an Army general announced that Tillman had "probably" been killed by his own side.
+<!-- hb-story:end slug="pat-tillman" -->
+<!-- hb-zoom level="span" label="Wounds that do not show, and the cost at home" -->
+A traumatic brain injury is damage to the brain from a blow or a blast. From 2000 through 2025, military doctors diagnosed 535,544 service members with one, according to a 2026 Defense Department count. About 83 percent were mild, mostly concussions, and many happened in training or daily life, not in combat.
+
+In 2023, 6,398 veterans died by suicide, an average of 17.5 a day, according to a 2025 report by the Department of Veterans Affairs. In 2023 about 18 million Americans were veterans, about 6 of every 100 adults, the Pew Research Center found.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="tammy-duckworth" name="Tammy Duckworth" movie="" kind="famous" status="verified" -->
+### Tammy Duckworth
+> **Who:** An Army helicopter pilot who lost both legs when her Black Hawk was hit in Iraq, and later a US senator.
+> **When and where:** Born Bangkok, Thailand. Illinois Army National Guard. Wounded in Iraq, November 12, 2004.
+
+Duckworth became an Army officer in 1992 and learned to fly helicopters. In 2004 she went to Iraq with the Illinois Army National Guard as a Black Hawk pilot. On November 12, 2004, a rocket-propelled grenade, a small rocket fired from a tube on a fighter's shoulder, hit the front of her helicopter. In her memoir she wrote, "The explosion vaporized my right leg. It blew my left leg up into the bottom of the instrument panel." It also tore through her right arm.
+
+The pilot, Dan Milberg, landed the helicopter. The other pilot, Matt Backues, dragged her away from it. She lost both legs and part of the use of her right arm, and she spent months recovering at Walter Reed Army Medical Center. She later ran veterans' programs as an assistant secretary of Veterans Affairs from 2009 to 2011. Illinois voters elected her to the US House in 2012 and to the Senate in 2016. In 2018 she became the first senator to give birth while in office.
+<!-- hb-story:end slug="tammy-duckworth" -->
+<!-- hb-zoom level="span" label="Who may serve" -->
+On September 20, 2011, "Don't Ask, Don't Tell" ended, and gay, lesbian and bisexual service members could serve openly. On December 3, 2015, Defense Secretary Ashton Carter opened every combat job to women. About 220,000 jobs, roughly one in ten, had been closed to them. On May 6, 2025, the Supreme Court let President Donald Trump's ban on transgender service members take effect while lawsuits continued.
+
+In 2024 Defense Secretary Lloyd Austin ordered a review of the 20 Medals of Honor given for the killings at Wounded Knee in 1890. In September 2025 Defense Secretary Pete Hegseth announced that the soldiers would keep them. On September 5, 2025, President Trump signed an order letting officials call the Defense Department the "Department of War." Its legal name, set by Congress, did not change.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="2026, to the time of writing" -->
+On January 3, 2026, American special operations forces took Venezuela's president, Nicolás Maduro, and his wife out of Caracas. Members of Congress had not voted to approve the raid beforehand. On February 28, 2026, American and Israeli planes began bombing Iran, and Iranian forces fired missiles and drones back. By September 22, 2026, the Pentagon had reported 19 American service members dead in the Iran war. The fighting was still going on when this section was written in September 2026.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

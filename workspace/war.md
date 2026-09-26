@@ -28,18 +28,21 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [x] the Civil War, Grant and Lee, Gettysburg (era 7)
 - [x] the U.S. Colored Troops (era 7: Fort Pillow, Christian Fleetwood)
 - [x] the Spanish-American War (era 7)
-- [ ] World War I
-- [ ] World War II and D-Day
-- [ ] the atomic bomb
-- [ ] Korea
-- [ ] Vietnam
-- [ ] the Gulf War
-- [ ] Afghanistan and Iraq
+- [x] World War I (era 8: draft, Meuse-Argonne, flu, Choctaw code talkers, Henry Gunther)
+- [x] World War II and D-Day (era 8: Pearl Harbor, Doris Miller, D-Day, Iwo Jima, segregated forces)
+- [x] the atomic bomb (era 8)
+- [x] Korea (era 9: Chosin, No Gun Ri)
+- [x] Vietnam (era 9: lottery, end of draft, My Lai, Kovic, Ali, Thompson)
+- [x] the Gulf War (era 9, with Gulf War illness)
+- [x] Afghanistan and Iraq (era 10: Abbey Gate, Abu Ghraib, Tillman, Duckworth)
 
 ## Featured people to firm up (target/candidate)
 - **verified 2026-09-26 (T-235a)** — George Washington, Joseph Plumb Martin (replaces the Continental private target), Deborah Sampson (1750–1800). John Riley of the San Patricios (1800–1850, replaces the Mexican War soldier target).
 - **verified 2026-09-26 (T-235a), 1850–1900:** Grant and Lee; Amos Humiston (new, individual-scale death); Christian Fleetwood (fills the USCT target); Cathay Williams (fills the Buffalo Soldier target).
-- **target** — a captive from a captivity narrative (1700–1750) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
+- **verified 2026-09-26 (T-235b), 1900-1950:** Henry Gunther (new, ordinary, individual-scale death); Benjamin O. Davis Jr. (fills Tuskegee airman); Daniel Inouye (replaces the WWII GI target, see bank 8.8); Chester Nez as `chester-nez-war` (fills Navajo code talker; native-nations has its own slug).
+- **verified 2026-09-26 (T-235b), 1950-2000:** Ron Kovic (fills Vietnam soldier; Movie *Born on the Fourth of July*, 1989); Muhammad Ali as `muhammad-ali-war` (fills draft resister; sports-play has `muhammad-ali`); Hugh Thompson Jr. (new).
+- **verified 2026-09-26 (T-235b), 2000-Today:** Pat Tillman (new, individual-scale death); Tammy Duckworth (fills post-9/11 veteran).
+- No target or candidate stories remain in the chapter.
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -47,7 +50,7 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [ ] King Philip's War as one of the deadliest wars per person in American history — 1600s
 - [ ] Queen Anne's War and King George's War dates — 1700–1750
 - [ ] the siege of Louisbourg, 1745 — 1700–1750
-- [ ] the end of the draft and the all-volunteer force, 1973 — 1950–2000
+- [x] the end of the draft and the all-volunteer force, 1973 — 1950–2000 (RESOLVED by T-235b: last draft call December 7, 1972; induction authority expired June 30, 1973; Selective Service; bank 9.3)
 
 ## Threads present
 *From the brief's checklist — only what genuinely applies:* class (who serves) · region · rural · disability (wounded veterans; the VA) · territories (Puerto Rican, Filipino, Guamanian, and Samoan service) · language (code talkers; non-English-speaking units) · Native continuity past 1900 · LGBTQ (exclusion, then service) · children and the elderly
@@ -69,3 +72,12 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - The Civil War is the biggest single overlap in the book (`war`, `slavery-freedom`, `government-politics`, `health`). This seed gives the fighting here and emancipation there. Confirm before research.
 - *Oppenheimer* (2023) is a real film and this chapter's natural Movie line if the Manhattan Project gets a featured person — the elements bank flagged but did not adopt it.
 - How graphic can casualty and combat detail be for 8–15 readers? The brief says do not filter out hard truth; the director should set the line.
+
+## Hand-offs and audit-queue candidates from T-235b (eras 8-10)
+- Not repaired, per the three-phase rule. Candidates for `control/AUDIT-QUEUE.md`:
+  - an ordinary (not famous) WWII draftee and an ordinary post-9/11 veteran, from the Library of Congress Veterans History Project;
+  - rape at My Lai (Peers report) not verified from a source read; Agent Orange; atomic testing on Pacific islanders and on US troops; drones; repeated deployments;
+  - the 2026 Iran war and Venezuela figures are fast-moving: re-check before prose;
+  - the chapter hb-note (T-232's) and eras 1-4 prose still contain em dashes and semicolons (T-235a flagged this too).
+- Cross-chapter: `sports-play` has `muhammad-ali` as a candidate; bank 9.6 has the draft-case sources. `native-nations` has `chester-nez-native-nations`; war's Nez story tells combat and the wound only. No files were written outside this chapter.
+
