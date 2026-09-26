@@ -2273,4 +2273,23 @@ T-241 COMPLETE: elements, 5 agents.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md
 VERIFY: land-environment --stage research still PASSES.
+RESULT: DONE. 13 PATCH sections. Research PASS. Bank 6,342 -> 14,053w.
+        FILLED: the 1785 grid on land taken by Fort McIntosh (under duress, surveyors under army
+        guard), Fallen Timbers and Greenville. The bison killing in the words of Sherman, Sheridan,
+        Dodge, Delano and Miles, Grant's 1874 pocket veto, army ammunition. The Mariposa Battalion
+        at Yosemite (1851) and the Yellowstone removals. The taking in numbers (railroad grants,
+        Homestead, Morrill, Dawes). California's 1850 law against prairie fires. Glacier and the
+        Blackfeet (Starvation Winter, the 1895 sale). The Yellowstone wolves. Love Canal, Warren
+        County, Norco, Yosemite's last village (burned 1969), GAO 1983, UCC 1987, EO 12898. Denka
+        in Cancer Alley, 2023-25.
+        FALSE FIRSTS: the wolves as "first deliberate return", the pigeon as "first species seen go
+        to zero on a known day".
+        BEARS EARS current to 2026-09-26: the cut lands opened to mining on Sept 11, claims have
+        been filed, and supporters sued in D.C. federal court on Sept 2. No ruling yet.
+        UNVERIFIED: the source of Sheridan's 1875 "medal" speech (one source, labeled). The
+        shooter of Tenaya's son is never named.
+
+### 2026-09-26 | [CLOUD] T-242b | Write land-environment PART 1 (eras 1-5)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 2)
 RESULT:
