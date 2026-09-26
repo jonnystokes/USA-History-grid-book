@@ -17,7 +17,7 @@ STATE AT START (2026-09-26): eras 1-4 progress="researched"; eras 5-10 progress=
 RULINGS THAT BIND THIS CHAPTER: hard-subjects-policy.md §6, war row: "Go to individual scale:
         the single soldier's wound and death, not only unit-and-number."
 
-NOW:    T-235a finished units 1-3. Eras 5-7 progress="researched", 0 target/candidate, 0 [VERIFY] in them.
+NOW:    T-235b working unit 4 (era 1900-1950). Units 1-3 landed by T-235a.
 NEXT:   era 1900-1950
 
 ## Units
@@ -27,7 +27,7 @@ NEXT:   era 1900-1950
 | 1 | era 05 1750-1800 | landed | 4 spans + 3 verified stories (washington, joseph-plumb-martin, deborah-sampson-war); bank §5 |
 | 2 | era 06 1800-1850 | landed | 3 spans + 1 verified story (john-riley-san-patricios); bank §6 |
 | 3 | era 07 1850-1900 | landed | 6 spans + 4 verified stories (amos-humiston, grant-lee, christian-fleetwood, cathay-williams); bank §7 |
-| 4 | era 08 1900-1950 | todo | |
+| 4 | era 08 1900-1950 | working | |
 | 5 | era 09 1950-2000 | todo | |
 | 6 | era 10 2000-today | todo | |
 
