@@ -146,7 +146,9 @@ Border Patrol officers ran the roundups like military operations, and newspapers
 
 Seven deportees jumped from the *Mercurio*. The *Handbook of Texas* says a mutiny followed, meaning the people on board rose up against the crew. Other accounts say the seven drowned. After protests in Mexico, officials stopped sending people by ship.
 
-The historian Mae M. Ngai reports that 88 deported workers died of sunstroke after a roundup in July 1955, in heat of 112 degrees. Sunstroke is an illness in which the body gets so hot that it can no longer cool itself. A labor official told Ngai that more would have died without help from the Red Cross. Other deportees died of disease and other causes while officers held them. No one has made a full count of the dead. The sources for this chapter record no official charged for the deaths.
+The historian Mae M. Ngai reports that officers rounded up workers in heat of 112 degrees in July 1955. Afterward, 88 of the deported workers died of sunstroke. They were braceros, Mexican farm workers hired under contract. Sunstroke is an illness in which the body gets so hot that it can no longer cool itself. A labor official told Ngai that more would have died without help from the Red Cross.
+
+Ngai also quotes a Mexican labor leader. He reported that deportees were carried into Mexico on trucks "like cows" and unloaded in the desert, fifteen miles down the highway from the border. US immigration officials also left deportees in Mexicali, a Mexican border city where the summer heat averages 108 degrees. The sources checked for this chapter do not say whether the 88 were left in the desert. They do not name the officers who ran that roundup or drove the trucks. Other deportees died of disease and other causes while officers held them. No one has made a full count of the dead. The sources for this chapter record no official charged for the deaths.
 
 INS officials claimed that as many as 1,300,000 people had left. That count included people who, officials said, had fled out of fear. An INS report gave nearly 1.1 million people caught. One encyclopedia explains that most of those people had been caught before the operation began, because the year the report counted ended on June 30, 1954. The real number of arrests was far lower. In the San Antonio district, officers caught slightly more than 80,000 people. In Texas in July 1954, officers held 42,000 people, and more than 63,000 left on their own. The historian Kelly Lytle Hernández puts the true number deported at "likely closer to 300,000." Many of the people deported were US citizens of Mexican descent. No one knows how many.
 <!-- /hb-zoom -->
@@ -187,7 +189,11 @@ About a month before the boatlift began, members of Congress passed the Refugee 
 
 Reinaldo Arenas was a novelist whom Cuban government officials put in prison for his writing and for being gay. Gay means loving people of the same sex. In May 1980 he left Cuba through the port of Mariel. He was one of about 125,000 Cubans in the boatlift.
 
-He was born on July 16, 1943, near Holguín, in Cuba. The officials who jailed him also persecuted him, which means they punished him again and again for who he was and what he wrote. In the United States he lived and wrote in New York. He wrote the story of his own life, called *Before Night Falls*. It was published in 1992, and in English in 1993.
+He was born on July 16, 1943, near Holguín, in Cuba. Cuban officials persecuted him, which means they punished him again and again for who he was and what he wrote. In 1973, according to records at Princeton University Library, officials charged him with "ideological deviation." That means holding ideas that Cuba's rulers banned. The second charge was publishing his books in other countries without permission. Other accounts give 1974 and a different charge.
+
+Arenas escaped from prison and tried to leave Cuba by floating away on a tire inner tube. Cuban officers caught him and locked him in El Morro, an old fort in Havana used as a prison. Officers of State Security, the political police of Fidel Castro's government, moved him to their headquarters, called Villa Marista. There they forced him to sign a paper saying he was sorry for being gay and for his books. He was released in 1976. The sources checked do not name any of the officers who held him.
+
+In the United States he lived and wrote in New York. He wrote the story of his own life, called *Before Night Falls*. It was published in 1992, and in English in 1993.
 
 He became sick with AIDS, a disease caused by a virus that destroys the body's defenses against other illnesses. On December 7, 1990, at the age of 47, he killed himself.
 <!-- hb-story:end slug="reinaldo-arenas" -->
@@ -197,7 +203,11 @@ In 1975 Saigon, the capital of South Vietnam, fell to North Vietnam's army at th
 
 Storms, hunger, disease and pirates killed many of them at sea. Figures from the United Nations refugee agency put the dead at 200,000 to 400,000. The journalist Barry Wain estimated 30,000 dead by 1981. No one knows the exact number.
 
+The pirates were Thai fishermen in the Gulf of Thailand, according to a UN refugee official in 1986 and a later study. The historian Robert C. McCabe writes that some fishermen turned to piracy after commercial fishing had cut the catch in their villages. No source checked for this chapter names a single pirate.
+
 Pirates robbed the refugees and raped them. Rape means forcing a person into sex. The pirates murdered some refugees and set others adrift. In 1981 alone, 452 boats reached Thailand with 15,479 refugees, as the UN refugee agency counted them. Pirates had attacked 349 of those boats, on average three times each. The pirates carried off 228 women, and 881 people were dead or missing.
+
+In June 1982 officials of the UN refugee agency and of the Thai government started a program against the pirates. Twelve countries paid for it, and the United States gave $1.2 million of the $3.67 million. By October 1987, 96 suspects had been arrested, though the sources checked do not name the officers who arrested them. Judges gave sentences of two to fifty years in prison, and one pirate was sentenced to death in December 1986.
 
 From 1975 to 1997, US officials accepted 402,382 Vietnamese refugees from camps in Southeast Asia and Hong Kong, more than any other country. Nearly 281,000 of them came from 1981 to 1990. About 500,000 more Vietnamese came to the United States by 1994 through the Orderly Departure Program, a legal way to leave Vietnam without the boat trip.
 <!-- /hb-zoom -->
@@ -262,6 +272,8 @@ For 2025, IOM researchers counted 409 migrant deaths in all of North and South A
 <!-- hb-zoom level="span" label="Children taken from their parents, 2018" -->
 On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy. The Attorney General is the head of the Justice Department. Sessions told federal prosecutors along the southwest border to charge with a crime every adult whom DHS officers sent to them for crossing the border illegally. That included parents who came with their children. Officers sent the parents to criminal custody, and Border Patrol agents took their children away from them.
 
+Inside DHS, three agency heads proposed charging those parents in a memo dated April 23, 2018. They were Kevin K. McAleenan, the head of CBP, Thomas Homan, the acting head of ICE, and L. Francis Cissna, the head of USCIS. They recommended sending every adult who crossed illegally to be charged, "including those initially arriving or apprehended with minors." Minors are children. Sessions urged Kirstjen Nielsen, the Secretary of Homeland Security, to make the change. She was the head of DHS, and she approved the plan on May 4, 2018. Border Patrol leaders told their commanders along the Mexican border to begin on May 5. McAleenan left out parents with children under five who were crossing illegally for the first time. Agents asked a federal refugee office to take each child, and ICE officers held the parents. In a later court case, government lawyers wrote that there was "no prescribed specific course of action for reunification." That means no one had set a plan for putting the families back together.
+
 On May 7, 2018, Sessions said in a speech, "If you are smuggling a child, then we will prosecute you and that child will be separated from you as required by law." In 2017, under a trial program in El Paso, Texas, officials had already separated about 280 families.
 
 Michael Horowitz, the Justice Department's inspector general, later investigated. An inspector general is an official who checks the work of a government department. In January 2021 he reported that Sessions "and a small number of other DOJ officials understood at the time the zero tolerance policy was issued in April 2018 that DHS would change its long-standing practice" and separate families. He found that the Attorney General's office "was a driving force" in that change. He also wrote that the department's "single-minded focus on increasing immigration prosecutions came at the expense of careful and appropriate consideration of the impact of child separations."
@@ -272,7 +284,7 @@ On December 11, 2023, a federal court approved a settlement in a lawsuit brought
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Arrests, detention and deportation, 2025 and 2026" -->
-Donald Trump took office as president on January 20, 2025. The figures in this span describe the time since then. Detention means holding people in locked centers while officials decide whether to deport them.
+Chief Justice John G. Roberts Jr. swore in Donald Trump as president on January 20, 2025, in the Rotunda of the US Capitol. The figures in this span describe the time since then. Detention means holding people in locked centers while officials decide whether to deport them.
 
 In January 2026 ICE officers held more than 71,000 people in detention, a record. Human Rights Watch and Physicians for Human Rights gave that figure in a report of June 25, 2026. ABC News reported on July 21, 2026, that ICE officers held 65,765 people, citing figures ICE had posted.
 
@@ -280,7 +292,9 @@ The same report counted 52 people who died in ICE custody from January 20, 2025,
 
 Removal is the government's word for deportation. ABC News reported that ICE had posted 356,389 removals in the 2026 budget year through about July 21, 2026. For the 2025 budget year, the immigration researcher Austin Kocher counted about 329,018 ICE removals. On January 20, 2026, DHS officials claimed "more than 675,000 deportations" and "an estimated 2.2 million self-deportations" in the year since January 20, 2025. Self-deportation means leaving the country on one's own out of fear of arrest. Kocher notes that DHS officials have not published how they count these numbers. He found that ICE's own removals made up only about 54 percent of an earlier DHS claim of 605,000. In that same year, by the DHS count, officers caught 90,084 people along the southwest border.
 
-Federal immigration officers shot and killed at least four people from January 2025 to late January 2026, PBS NewsHour reported. One was Silverio Villegas González, a citizen of Mexico, shot in Chicago on September 12, 2025. ICE officer Jonathan Ross shot Renée Nicole Good, a US citizen, in Minneapolis on January 7, 2026. CBP officers shot Alex Pretti in Minneapolis on January 24, 2026. As of that report, no officer had been charged.
+Federal immigration officers shot and killed at least four people from January 2025 to late January 2026, PBS NewsHour reported. One was Silverio Villegas González, a citizen of Mexico. On September 12, 2025, ICE officers stopped his car in Franklin Park, a suburb of Chicago. He had just dropped his children at school. One officer shot him in the neck, and he died. ICE officer Jonathan Ross shot Renée Nicole Good, a US citizen, in Minneapolis on January 7, 2026. CBP officers shot Alex Pretti in Minneapolis on January 24, 2026. As of that report, no officer had been charged.
+
+DHS officials said that Villegas González drove his car at officers and dragged one of them. In body-camera video, an agent called the injuries "nothing major." Federal officials have not released the name of the officer who shot him, and federal prosecutors declined to charge that officer. In spring 2026, at the request of the Franklin Park police, investigators of the Illinois State Police opened their own case. It was still open in September 2026, the Chicago Sun-Times and WBEZ reported.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="giannis-antetokounmpo" name="Giannis Antetokounmpo" movie="Rise (2022)" kind="famous" status="verified" -->
@@ -300,13 +314,13 @@ Greek officials made him a citizen in 2013. A few weeks later, in June 2013, the
 <!-- hb-story:start slug="lost-boys-of-sudan" name="Peter Dut and Santino Chuor, Lost Boys of Sudan" movie="Lost Boys of Sudan (2003)" kind="ordinary" status="verified" -->
 ### Peter Dut and Santino Chuor, Lost Boys of Sudan
 
-> **Who:** Two Dinka teenagers who lost their parents in Sudan's civil war and lived for years in a refugee camp in Kenya. They were among the "Lost Boys" resettled in the United States.
+> **Who:** Two Dinka teenagers whose parents were killed when government forces attacked their villages in Sudan's civil war. They lived for years in a refugee camp in Kenya. They were among the "Lost Boys" resettled in the United States.
 > **When and where:** From Sudan. Kakuma refugee camp, Kenya. Houston, Texas, in their first year in the United States, during the resettlement that began in 2001.
 > **Movie:** *Lost Boys of Sudan* (2003), a documentary that follows these two young men. Megan Mylan and Jon Shenk made it. It was nominated for an Emmy and won the Truer Than Fiction Award at the Independent Spirit Awards.
 
 Peter Nyarol Dut and Santino Majok Chuor were two of about 4,000 young refugees from Sudan who were resettled in the United States starting in 2001. They were called the "Lost Boys of Sudan."
 
-They were Dinka, a people of southern Sudan. Both boys lost their parents in Sudan's civil war, a war between groups inside one country. They survived a long walk out of Sudan and then spent years in Kakuma, a refugee camp in Kenya.
+They were Dinka, a people of southern Sudan. Sudan's civil war was a war inside one country, between the government in the north and rebels in the south. Military forces of the central government attacked the boys' villages, destroyed them and killed their families, according to the notes for the PBS film about them. Those notes do not state which soldiers or fighters killed each boy's parents. Researchers at Human Rights Watch report that in these years Sudan's rulers gave modern weapons to militias called the muraheleen. The militia fighters burned Dinka villages, stole cattle and food, and carried off women and children as slaves. The two boys survived a long walk out of Sudan and then spent years in Kakuma, a refugee camp in Kenya.
 
 The documentary follows their first year in the United States, which began in Houston. After a time, Peter left Houston for Kansas to go to high school.
 <!-- hb-story:end slug="lost-boys-of-sudan" -->
