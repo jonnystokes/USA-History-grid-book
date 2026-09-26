@@ -12,7 +12,7 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241b writing part1, era 1500s.
+NOW:    T-241b writing part1, era 1700-1750.
 NEXT:   T-241b: write part 1 (eras 1-5)
 
 ## Units
@@ -49,3 +49,4 @@ NEXT:   T-241b: write part 1 (eras 1-5)
 ## Log
 - 2026-09-26 T-241a: 14 PATCH blocks appended across eras 3-10 (radium, uranium/Navajo, lead x3, mercury, arsenic, land taken for gold/copper/Black Hills, Saugus Scots, enslaved ironworkers, firsts). Sources: PMC, NIST, EPA, DOJ, CDC/NIOSH, USGS, NPS, Georgia Archives, KBIC, SHI, AJPH, NPR Illinois/WNIJ. Left out: Speculator Mine 1917, gold-rush killings (placed elsewhere). Check: PASS elements / research (bank 16639w).
 - 2026-09-26 T-241b: era before-1500 written (~780 words in file). validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-241b: eras 1500s and 1600s written (file ~1,600 words). validator 0 errors, --punct emdash=0 semicolon=0.

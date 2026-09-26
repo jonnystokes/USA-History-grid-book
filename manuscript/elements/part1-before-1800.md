@@ -43,3 +43,49 @@ People in some regions made ornaments of gold and silver. People also used red a
 People gathered salt and traded it. Salt is a compound of two elements, sodium and chlorine. They made tools of flint and chert, two hard stones. Both are made of compounds that contain the element silicon.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
+
+<!-- hb-time:start id="1500s" order="02" chapter="elements" label="The 1500s" state="thin" progress="written" -->
+## The 1500s
+
+<!-- hb-zoom level="era" -->
+In the 1500s, Spanish expeditions came looking for gold and silver. They found neither in the lands that later became the United States. The land was still Native land from coast to coast. People here worked the same copper, gold and meteorite iron as before, and the few Spanish outposts brought in metal of their own.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Gold hunts that found nothing" -->
+An expedition is a long journey made by a group of people for a purpose. Hernando de Soto led a Spanish expedition across the Southeast from 1539 to 1543. Francisco Vázquez de Coronado led another across the Southwest from 1540 to 1542. Both men were following stories of cities full of gold. Neither found gold or silver in the future United States.
+
+In the same century, Spaniards found large amounts of silver in Mexico and South America. Nobody here or anywhere else yet studied elements. In Europe, the modern idea of an element had not been written down. People there who studied what things are made of still worked by alchemy, the older practice that came before chemistry.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1500s" -->
+
+<!-- hb-time:start id="1600s" order="03" chapter="elements" label="The 1600s" state="full" progress="written" -->
+## The 1600s
+
+<!-- hb-zoom level="era" -->
+English colonists built ironworks in Virginia and Massachusetts in the 1600s. Powhatan fighters destroyed the Virginia works in 1622. The Massachusetts works at Saugus ran from 1646 until about 1670, and Scottish prisoners of war were forced to work there. Iron was already old knowledge. People in Europe, Asia and Africa had been smelting it for thousands of years.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Falling Creek, 1619 to 1622" -->
+An ironworks is a place where workers make iron out of ore. Ore is rock that contains a metal. In 1619, English colonists began building an ironworks for the Virginia Company on Falling Creek, near present-day Richmond. By March 1622 the furnace was ready to make iron, or close to it.
+
+Opechancanough was a Powhatan leader. In 1622 he directed attacks on many parts of the English colony. On March 22, 1622, Powhatan fighters destroyed the ironworks at Falling Creek and killed twenty-seven people there. The colonists never managed to rebuild the works.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Hammersmith at Saugus" -->
+In 1646 Richard Leader began building an ironworks on the Saugus River near Boston. He worked for the Company of Undertakers of the Iron Works in New England. In the 1600s, an undertaker meant a person who took on a business project. People called the works Hammersmith. Its blast furnace was running by the next year.
+
+Hammersmith was the first integrated ironworks in North America. Integrated means that every stage of the work happened on one site. In the blast furnace, workers melted iron out of the ore. The iron that came out was called pig iron. At the forge, workers hammered pig iron into wrought iron. In the rolling and slitting mill, rollers pressed the iron flat and blades cut it into strips. The strips were the raw material for nails, tools and horseshoes. Seven waterwheels powered the machines.
+
+The ore was bog iron. Workers collected it from swamps and ponds. The works ran until about 1668 to 1670. The site is now Saugus Iron Works National Historic Site.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Scottish prisoners at Saugus" -->
+Much of the work at Saugus was forced labor. Scottish soldiers became prisoners of war at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. Their captors shipped about 400 of them across the ocean to New England. The prisoners had no choice about going or about the work.
+
+Many of them served five to seven years under indentures at the Saugus ironworks. An indenture was a contract that bound a person to work for a master for a set number of years. The National Park Service gives the term at Saugus as seven years. There, most of the Scots cut wood, made charcoal or did heavy work that needed no special skill. The charcoal makers were called colliers. Other prisoners served in hard and dangerous jobs elsewhere in Massachusetts and in New Hampshire and Maine.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Meanwhile in Europe" -->
+Chemistry is the science of what substances are made of and how they change. In Europe in the 1600s, chemists began to separate their work from alchemy. Robert Boyle published his book *The Sceptical Chymist* in 1661. Every element discovered in this century was found in Europe. One was phosphorus, found in the city of Hamburg in 1669.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1600s" -->
