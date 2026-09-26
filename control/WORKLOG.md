@@ -2243,4 +2243,20 @@ RESULT: DONE. 156,158 tokens, 25 tool uses, 5 min. MEASURED: validator 0 · --pu
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-241-elements.md (unit 4)
 VERIFY: elements --stage prose SHOULD PASS.
+RESULT: *** PASS. elements passes prose. ***
+        248,910 tokens, 35 tool uses, 12.6 min.
+        PASS  elements / prose | ms_eras=10/10 written=10/10 ms_stories=10 (verified 10)
+        emdash=0 semicolon=0 manuscript=12908w files=3 validator_errors=0
+        Part 3 is about 8,750 words with 7 stories. It covers the Radium Girls, lead, Danbury,
+        Anaconda, Navajo uranium, Church Rock, RECA, Flint, and US element discoveries (Seaborg,
+        Ghiorso, Hoffman, Phelps).
+        DEFECTS FIXED: Phelps's "first" (now her lab's own words), the order of Byers's death
+        against the FTC order, the radium "like calcium" simile, institutions as actors.
+        BLOCKING GAPS for the chapter: 16 (3 + 4 + 9). -> T-241e.
+DIRECTOR: the gap-closing brief now lives in control/briefs/GAPS.md.
+
+### 2026-09-26 | [CLOUD] T-241e | elements: close the 16 collected BLOCKING GAPS
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-241-elements.md, "BLOCKING GAPS"
+VERIFY: elements still PASSES research and prose.
 RESULT:
