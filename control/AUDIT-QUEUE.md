@@ -171,4 +171,9 @@ will be worded differently, which is exactly why a search will not find it.
   parties (Samuel Worcester and the State of Georgia) or who acted in the case. Part 2 was
   written without them. Research item: add a sourced line to the bank, then the prose can
   name them.
+- **Wounded Knee 1973 deaths (from T-233c, 2026-09-26).** The native-nations bank (line ~232)
+  says two occupiers "died". The prose says they were "killed", and that the sources do not
+  identify who killed them. "Died" would soften it. "Killed" goes beyond the bank's wording.
+  Research item: source who the two men were and how they died, then make the bank and the
+  prose agree.
 

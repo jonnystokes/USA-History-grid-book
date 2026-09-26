@@ -11,11 +11,13 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-233c in flight:** v2 revision of `native-nations` part 3 (eras 8-10), the last part.
-Parts 1 and 2 are done and verified. Checkpoint: `control/checkpoints/T-233-native-nations.md`.
+**T-234a in flight:** v2 revision of `city-building` part 1 (eras 1-5). Checkpoint:
+`control/checkpoints/T-234-city-building.md`.
 
-**Waiting on Jon (not blocking):** a ruling on the Acoma assault account (AUDIT-QUEUE, last
-entry).
+**native-nations PASSES `--stage prose` under v2** (T-233, done 2026-09-26).
+
+**Waiting on Jon (not blocking):** a ruling on the Acoma assault account (AUDIT-QUEUE, the
+"Acoma, 1598" entry).
 
 Jon chose **Option B**, docs cleaned first (done 2026-09-26). The queue is below.
 

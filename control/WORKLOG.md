@@ -1830,4 +1830,26 @@ CHECKPOINT: control/checkpoints/T-233-native-nations.md (units 8-10)
 VERIFY: python tools/project_state.py --check native-nations --stage prose SHOULD PASS once
         this part lands, because it is the last part.
 BASELINE: 4,537 prose words, 19 em dashes, 13 semicolons.
+RESULT: *** PASS. native-nations is the FIRST CHAPTER FINISHED UNDER STYLE GUIDE V2. ***
+        209,014 tokens, 32 tool uses, 12 min. Four commits.
+        PASS  native-nations / prose
+          measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21)
+          ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15624w files=3 validator_errors=0
+        Part 3 prose words 4,537 -> 5,755. Markers and record keys identical. The chapter went
+        from 12,826 to 15,624 words across the three parts.
+        BEYOND STYLE: orders in Native languages were credited to "the United States", although
+        Choctaw soldiers began the practice in 1918. The Alcatraz occupiers were called
+        "students", which the bank does not support. ICWA's "a large share" of children taken
+        had been dropped. The pipeline was placed "above" the water supply, but the lake is the
+        water supply.
+        PARKED: the 1973 Wounded Knee deaths. The bank says "died", and the prose says "killed",
+        by people the sources do not identify.
+T-233 COMPLETE: 3 agents, 616,470 tokens in all, about 37 minutes.
+
+### 2026-09-26 | [CLOUD] T-234a | Revise city-building PART 1 (eras 1-5) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-234-city-building.md (units 1-5)
+VERIFY: --punct manuscript/city-building/part1-before-1800.md prints 0/0. The validator
+        (--part) must be clean.
+BASELINE: 3,810 prose words, 12 em dashes, 5 semicolons.
 RESULT:
