@@ -9,15 +9,15 @@ WHY:    T-237b found that the bank lacks the hard parts of its subject. Under DE
         (facts from the bank only), the prose could only say "the sources do not record". This
         task fills the bank so the prose can state what happened.
 
-NOW:    dispatched.
+NOW:    unit 2 (Irish famine human causes).
 NEXT:   unit 1.
 
 ## Units: the gaps to fill (each with named actors, what was done, numbers with uncertainty, sources)
 
 | # | unit | state | landed |
 |---|------|-------|--------|
-| 1 | era 6 (1800-1850): nativist violence. The 1844 Philadelphia riots and other anti-Catholic/anti-immigrant riots: who attacked whom, what was done, deaths, and who was punished if anyone | todo | |
-| 2 | era 6: the Irish famine's human causes as historians state them (British government policy, food exports, evictions, landlords), with the death and emigration counts and their ranges | todo | |
+| 1 | era 6 (1800-1850): nativist violence. The 1844 Philadelphia riots and other anti-Catholic/anti-immigrant riots: who attacked whom, what was done, deaths, and who was punished if anyone | landed | 2026-09-26, era 6 PATCH section |
+| 2 | era 6: the Irish famine's human causes as historians state them (British government policy, food exports, evictions, landlords), with the death and emigration counts and their ranges | working | |
 | 3 | era 7 (1850-1900): anti-Chinese violence in the US: the 1871 Los Angeles massacre, the 1885 Rock Springs massacre, the 1885-86 expulsions (Tacoma, Seattle, Eureka). Who did it, deaths, and whether anyone was punished | todo | |
 | 4 | era 7: what killed Chinese railroad workers on the Central Pacific (explosions, avalanches, cold) and the evidence and uncertainty behind the ~1,200 figure | todo | |
 | 5 | era 7: the pogroms of 1881-84 and the May Laws of 1882: who attacked, who issued the laws, deaths | todo | |
@@ -27,7 +27,9 @@ NEXT:   unit 1.
 | 9 | era 10 (2000-today) PRE-CHECK: deaths at the border (counts with source years), the 2018 family separations (who ordered it, how many children), and enforcement figures current to 2026 with source dates | todo | |
 
 ## Sources in hand
+- Unit 1: philadelphiaencyclopedia.org/essays/nativist-riots-of-1844/ (May/July narrative, names, Southwark deaths); philadelphiaencyclopedia.org/essays/grand-juries/ (19 indicted, handful convicted); exhibits.library.villanova.edu/chaos-in-the-streets-the-philadelphia-riots-of-1844/aftermath (grand jury blamed Catholics); ebsco.com/research-starters/history/philadelphia-nativist-riots (20 dead/100 wounded May; 2 soldiers+12 rioters July); en.wikipedia.org/wiki/Philadelphia_nativist_riots (14 dead May, 15 July, 30 homes, $45k award); en.wikipedia.org/wiki/Ursuline_Convent_riots (13 arrested, 12 acquitted, 1 pardoned; $10k refused); freelibrary blog 403.
 
 ## Decisions and known gaps
 
 ## Log
+- 2026-09-26 unit 1 landed: Ursuline 1834 + Philadelphia 1844, era 6. Convictions count exact number unknown in sources checked.
