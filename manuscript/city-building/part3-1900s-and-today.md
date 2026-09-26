@@ -130,97 +130,97 @@ She married a man everyone called Blackie Black and stayed in Oak Ridge for the 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-In the second half of the century the American city turned inside out. Money, people, and jobs moved out to the edge, and what was left in the middle was cleared and cut through.
+Between 1950 and 2000, families and businesses moved out of the centers of older American cities to new suburbs at their edges. St. Louis lost about 60 percent of its people, and Detroit lost nearly half. Cities in the hot South and West that had been small in 1950 grew into some of the largest in the country.
 
-Most of the cutting was done under two federal laws. Under the Housing Act of 1949, city officials condemned neighborhoods they had labeled blighted, had them demolished, and handed the cleared land to developers. Under the highway act of 1956, engineers ran freeways straight through cities, and inside cities they ran them, again and again, through the neighborhoods where Black and poor people lived. Under those two programs, officials moved at least 300,000 families out of their homes.
+At the edge of every metropolitan area, which is a city together with its suburbs, builders put up the same kind of neighborhood. It was a subdivision, a tract of land divided into lots for single-family houses, and people could reach it only by car. White families bought those houses with mortgages that federal officials insured. Lenders refused the same kind of mortgage to families inside the red lines.
 
-At the same time builders were repeating one pattern at the edge of every metropolitan area — separate subdivisions of single-family houses, reachable only by car — and the mortgages that let white families buy into it were the same mortgages that lenders refused inside the red lines.
-
-Some old downtowns lost more than half their people. While those cities emptied, cities in the hot South and West that had been small in 1950 became some of the largest in the country.
+In the old centers, officials cleared whole neighborhoods and cut freeways through others. Under the Housing Act of 1949, city officials labeled neighborhoods blighted and took the property by law. They had the buildings torn down and sold the cleared land to developers. Under that housing law, officials moved at least 300,000 families out of their homes. Federal officials also paid for new freeways with money from a highway law of 1956. The engineers who drew the routes ran many of those freeways through the neighborhoods where Black and poor people lived.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Urban renewal, and what the word covered" -->
-In 1949 Congress passed a housing act. Under its Title I, federal officials offered money to city governments for what the law called urban redevelopment and what people came to call urban renewal. It worked like this. City officials designated an area as blighted — a legal label meaning run-down enough to justify getting rid of it. They then took the property inside that area by eminent domain, which is the power of a government to take private property whether the owner wants to sell or not, paying a price the government sets. Crews demolished what stood there. The cleared ground went to private developers, and the federal government paid most of the difference between what the land cost to clear and what the developer paid for it.
+<!-- hb-zoom level="span" label="Urban renewal: clearing neighborhoods for developers" -->
+In 1949, members of Congress voted for the Housing Act of 1949. Under Title I, one section of that law, federal officials offered money to city governments for a program the law identifies as "urban redevelopment." People later called it urban renewal.
 
-The program ran from 1949 to 1974, in more than 400 cities and more than 1,200 projects. Crews demolished about 2,000 neighborhoods. Officials moved at least 300,000 families out of their homes. That is a documented floor, not a total. Counted as individuals rather than as families, researchers put the figure at perhaps 1.2 million people. Black Americans were about 13 percent of the country's population in 1960 and at least 55 percent of the people displaced.
+City officials first labeled an area blighted. Blighted was a legal label for an area that officials judged run-down enough to tear down. The officials then took the property in that area by eminent domain, the government power to take private property at a price the government sets. Crews tore down the buildings. City officials sold the cleared land to private developers. Federal officials paid most of the difference between what the land had cost to take and clear and what the developer paid for it.
+
+Officials ran the program from 1949 to 1974, in more than 400 cities and on more than 1,200 projects. Crews tore down about 2,000 neighborhoods. Officials moved at least 300,000 families out of their homes. That figure is the lowest count the records support. Counting people instead of families, researchers estimate about 1.2 million. Black Americans were about 13 percent of the country's population in 1960, and they were at least 55 percent of the people forced out. The sources for these figures are Brent Cebul's 2020 article in the Boston Review and the Digital Scholarship Lab's "Renewing Inequality" project.
 
 In a filmed interview in San Francisco in 1963, James Baldwin said that urban renewal "means Negro removal."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Highways through neighborhoods" -->
-On June 29, 1956 President Eisenhower signed the Federal-Aid Highway Act, which authorized about $25 to $26 billion for a system of 41,000 miles of freeway.
+On June 29, 1956, President Eisenhower signed the Federal-Aid Highway Act. The Act provided about $25 to $26 billion for a system of 41,000 miles of freeway.
 
-A freeway has to go somewhere, and the engineers who drew the routes had two reasons to run them through Black and poor neighborhoods. Land there was cheaper to buy or condemn. And the people who lived there had less ability to stop them.
+The engineers who drew the routes ran many of the freeways through Black and poor neighborhoods, for two reasons. Land there cost less to buy or to take by eminent domain. The people who lived there also had less power to stop the engineers than people in richer neighborhoods had.
 
-Rondo, in St. Paul, Minnesota, is the case with the fullest record. About 80 percent of St. Paul's Black residents lived in that neighborhood. Between 1956 and 1968, crews building Interstate 94 cut a trench through the middle of it. The counts differ by source: the Minnesota Historical Society's guides put the loss at about 600 families; ReConnect Rondo and the reporting in Sahan Journal put it at about 700 homes and 300 businesses, and record that Rondo's population fell by 61 percent. Both are on the record; the range is what the sources support. One in eight of St. Paul's Black residents lost a home to Interstate 94.
+Rondo, a neighborhood in St. Paul, Minnesota, is one well-documented case. About 80 percent of St. Paul's Black residents lived there. Between 1956 and 1968, crews building Interstate 94 cut a trench through the middle of the neighborhood. The sources used here do not name the officials who chose the route.
+
+Sources give different counts of what Rondo lost. Guides from the Minnesota Historical Society state about 600 families. ReConnect Rondo and reporting in Sahan Journal state about 700 homes and 300 businesses, and they record that Rondo lost 61 percent of its residents. One in eight of St. Paul's Black residents lost a home to the building of Interstate 94.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="marvin-roger-anderson" name="Marvin Roger Anderson" movie="" kind="ordinary" status="verified" -->
 ### Marvin Roger Anderson
 
-> **Who:** A boy who watched road crews cut a freeway through his neighborhood, and who has spent his later years working to build something back over the top of it.
-> **When and where:** Rondo, St. Paul, Minnesota; the news came in 1958, when he was eight.
+> **Who:** A boy who watched road crews cut a freeway through his neighborhood, and who has spent his later years working to build a land bridge over it.
+> **When and where:** Rondo, St. Paul, Minnesota. His family learned of the freeway in 1958.
 
-Marvin Roger Anderson's father had built two-story apartment buildings in Rondo in 1948. When Interstate 94 came through, crews jacked the buildings up onto flatbed trucks and hauled them away; four of his father's are still standing on a University of Minnesota campus, on other ground.
+Marvin Roger Anderson's father built two-story apartment buildings in Rondo in 1948. When crews built Interstate 94 through Rondo, they lifted his father's buildings onto flatbed trucks with jacks and hauled them away. Four of those buildings still stand, on other ground, on the University of Minnesota's St. Paul campus.
 
-Anderson became the State Law Librarian of Minnesota. In 1983 he and Floyd Smaller founded Rondo Days, a yearly festival held so that a neighborhood the road crews had removed would not also be forgotten.
+Anderson became the State Law Librarian of Minnesota, the librarian in charge of the state's law library. In 1983 he and Floyd Smaller founded Rondo Days, a yearly festival. They held it so that people would remember the neighborhood the road crews had removed.
 
-He now leads ReConnect Rondo, whose proposal is to build a lid over the freeway trench — a land bridge of about 21 acres carrying housing and businesses on top, on the line where Rondo's blocks used to run. Concept studies put the housing at somewhere between 350 and 1,400 units.
+He now leads ReConnect Rondo. Its members propose to build a lid over the freeway trench. The lid would be a land bridge of about 21 acres, with housing and businesses on top, along the line where Rondo's blocks used to run. Early design studies for the land bridge list between 350 and 1,400 homes.
 
-His account is in the *Voices of Rondo* oral-history collection and in press interviews, including a profile in Sahan Journal in March 2022, when he was approaching 83.
+The *Voices of Rondo* oral-history collection records his account, and so do press interviews. A Sahan Journal profile from March 2022 states that he was eight when his family got the news in 1958, and that he was approaching 83 in 2022. Those two ages do not match, and the sources used here do not settle which one is right.
 <!-- hb-story:end slug="marvin-roger-anderson" -->
 
-<!-- hb-zoom level="span" label="Sprawl, and the emptying middle" -->
-Levittown, on Long Island in New York, opened in 1947. The builders put up more than 17,000 houses there by 1951, mass-produced — the same house repeated, each crew doing one task down the line — and sold them at $7,990. In the early years the people selling them sold to white buyers only.
+<!-- hb-zoom level="span" label="Sprawl, and the people who left the old centers" -->
+Levittown, on Long Island in New York, opened in 1947. By 1951 its builders had put up more than 17,000 houses there. They mass-produced the houses, building the same house over and over, with each crew doing one task and then moving on to the next house. The houses sold at first for $7,990. In the early years the sellers sold only to white buyers.
 
-Builders copied the pattern at the edge of every metropolitan area for the next fifty years: subdivisions of separate single-family houses, with nothing but houses in them, so that a shop, a school, or a job meant a drive. The word for the result is sprawl.
+For the next fifty years, builders at the edge of every metropolitan area copied the pattern. They built subdivisions with nothing but houses in them, so people had to drive to reach a shop, a school or a job. This way of building is called sprawl.
 
-Meanwhile the middles of the older cities emptied. Detroit went from 1,849,568 people in 1950 to 951,270 in 2000. St. Louis went from 856,796 to 348,189 — a fall of roughly 60 percent, and it kept falling after that, to about 300,000 by 2020.
+In the same fifty years, the older cities lost people. Detroit had 1,849,568 people in 1950 and 951,270 in 2000. St. Louis had 856,796 in 1950 and 348,189 in 2000, a fall of roughly 60 percent. St. Louis kept losing people after that, down to about 300,000 by 2020.
 
-The people leaving were mostly white, and the moves were pushed and pulled at once. Real-estate agents pushed white owners to sell as Black families moved onto a block; the practice was called blockbusting. On the other side, the federal government insured mortgages on the new houses at the edge — the loans a buyer needed — and the officials applying those same underwriting rules withheld them from the neighborhoods being left behind, the ones the red lines had been drawn around. The money to buy a house was there in one place and not in the other, because people wrote rules that put it there.
+Most of the people who left were white. When Black families moved onto a block, real-estate agents pressed the white owners there to sell. The practice was called blockbusting. At the same time, federal officials insured mortgages on the new houses at the edge. To insure a mortgage, the government promised to repay the lender if the buyer could not. Officials used underwriting rules to decide who could get an insured loan. Under those rules, they refused to insure mortgages in the neighborhoods people were leaving, the neighborhoods inside the red lines.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="jane-jacobs-robert-moses" name="Jane Jacobs and Robert Moses" movie="Citizen Jane: Battle for the City (2016)" kind="famous" status="verified" -->
 ### Jane Jacobs and Robert Moses
 
-> **Who:** The builder who cleared and rebuilt New York for decades without ever being elected to anything, and the writer who beat three of his projects and changed what planners were taught.
+> **Who:** Robert Moses, who built roads, bridges and parks across New York for decades without ever being elected to anything, and Jane Jacobs, the writer who helped defeat three projects and whose book planners still study.
 > **When and where:** New York City, 1950s to 1968.
 > **Movie:** *Citizen Jane: Battle for the City* (2016), a documentary directed by Matt Tyrnauer, 92 minutes.
 
-Robert Moses held as many as twelve appointed posts at the same time — parks commissioner, head of the Triborough Bridge and Tunnel Authority, and others — and no voter ever put him in any of them. From those posts he built 13 bridges, 2 tunnels, 658 playgrounds, 17 state parks, and hundreds of miles of parkway and expressway. For the Cross-Bronx Expressway, crews cut a path through built-up blocks of the Bronx, and thousands of families lost their homes.
+Robert Moses held as many as twelve appointed posts at the same time, including parks commissioner and head of the Triborough Bridge and Tunnel Authority. Officials gave him every one of those posts, and he never won an election to any of them. From those posts he directed the building of 13 bridges, 2 tunnels, 658 playgrounds, 17 state parks, and hundreds of miles of parkways and expressways, which are wide roads for fast traffic. To build the Cross-Bronx Expressway, Moses's crews cut a path through crowded blocks of the Bronx and forced thousands of families out of their homes.
 
-Jane Jacobs lived in Greenwich Village, wrote about cities, and had no training in planning. Her book *The Death and Life of Great American Cities*, published in 1961, argued that the dense, mixed, crowded old neighborhoods being condemned as failures were in fact cities working: streets with shops and homes and people on them at all hours are watched by the people using them, which is what makes them safe.
+Jane Jacobs lived in Greenwich Village in New York and wrote about cities. She had no training in planning. In 1961 she published *The Death and Life of Great American Cities*. In it she argued that officials were wrong to condemn crowded old neighborhoods as failures. On a street with both homes and shops, people are out at all hours. Jacobs argued that such streets are safe because the people using them watch them. Teachers in planning schools have taught her book ever since. City officials today do both kinds of work: some clear land and build big projects, and others preserve and repair old neighborhoods block by block.
 
-She and her neighbors won three fights. They stopped the road planned through Washington Square Park in 1958. They beat the attempt in 1961 and 1962 to designate their own West Village a slum and clear it under urban renewal. And they killed the Lower Manhattan Expressway, a ten-lane elevated road that would have crossed what is now SoHo and Little Italy; Jacobs was arrested at a public hearing in April 1968 on charges that included inciting to riot, and the road was formally taken off the city's map in 1969. She moved to Toronto in 1968.
+Jacobs and her neighbors defeated three projects. In 1958 they stopped a road planned through Washington Square Park. In 1961 and 1962 they beat city officials' attempt to label their own West Village a slum and clear it under urban renewal. The third was the Lower Manhattan Expressway, a road ten lanes wide, raised above the street, planned across what is now SoHo and Little Italy. Jacobs led the Joint Committee to Stop the Lower Manhattan Expressway. Police arrested her at a public hearing in April 1968. The charges included inciting to riot, which means urging a crowd to violence, and they were later reduced. Jacobs moved to Toronto in 1968. In 1969 the expressway was formally taken off the city's map.
 
-Robert Caro published *The Power Broker* in 1974 and won a Pulitzer Prize for it, and most people who know Moses's name now know it from that book, as a warning. More recent historians have argued that parts of his record — the parks and swimming pools in particular — deserve more credit than that. The argument is not settled.
-
-Teachers in planning schools have taught her book ever since. The people running cities still do both things: clear and build big, and preserve and repair block by block.
+Robert Caro's book about Moses, *The Power Broker*, came out in 1974 and won a Pulitzer Prize in 1975. Most people who know Moses's name learned it from that book, which presents his career as a warning. Some more recent historians argue that parts of his record, especially his parks and swimming pools, deserve more credit than Caro gives them. Historians have not settled that argument.
 <!-- hb-story:end slug="jane-jacobs-robert-moses" -->
 
 <!-- hb-story:start slug="carl-stokes" name="Carl Stokes" movie="" kind="famous" status="verified" -->
 ### Carl Stokes
 
-> **Who:** The first Black mayor of a major American city, elected while the clearances and the freeways were going through.
-> **When and where:** Cleveland, Ohio; elected November 7, 1967; in office from January 1, 1968 to 1971.
+> **Who:** The first Black mayor of a major American city, elected in the years when officials were clearing neighborhoods and building freeways through cities.
+> **When and where:** Cleveland, Ohio. Elected on November 7, 1967, and mayor from January 1, 1968, to 1971.
 
-Carl Stokes was the grandson of a man who had been enslaved. His mother was widowed, and she raised him in the Outhwaite public housing estate in Cleveland.
+Carl Stokes was the grandson of a man who had been enslaved. His mother was a widow, and she raised him in the Outhwaite public housing in Cleveland. Public housing is apartments owned by a government and rented to families with low incomes.
 
-On November 7, 1967 he was elected mayor of Cleveland with about 50.5 percent of the vote, defeating Seth Taft. Cleveland was then one of the ten largest cities in the country — 876,050 people in the 1960 census, eighth in the nation — which is what made him the first Black mayor of a major American city. Richard Hatcher won the same office in Gary, Indiana, on the same night, in a much smaller city. Stokes was re-elected in 1969 and served until 1971.
+On November 7, 1967, Cleveland's voters elected Stokes mayor. He won about 50.5 percent of the vote and defeated Seth Taft. The 1960 census had counted 876,050 people in Cleveland, the eighth-largest city in the country. Because Cleveland was one of the ten largest cities, Stokes counts as the first Black mayor of a major American city. On the same day, voters in Gary, Indiana, a much smaller city, elected Richard Hatcher their mayor. Stokes was re-elected in 1969 and served until 1971.
 
-He had campaigned on housing, on neighborhoods that had been left without investment, and on the city's pollution. On June 22, 1969 an oil slick and debris on the Cuyahoga River caught fire and burned for about twenty minutes. It was at least the thirteenth fire on that river since 1868 — a working river that the owners of the factories along its banks had used as a drain for a century. The next day Stokes held a press conference standing on the riverbank and demanded that the state and federal governments act, which helped push the water-pollution laws that followed.
+He had campaigned on housing, on bringing money into neighborhoods that had gone without it, and on the city's pollution. On June 22, 1969, an oil slick and floating trash on the Cuyahoga River caught fire and burned for about twenty minutes. It was at least the thirteenth fire on that river since 1868. For a century, the owners of the factories along its banks had used the river as a drain for their waste. The next day Stokes held a press conference on the riverbank and demanded that state and federal officials act. In the next few years, members of Congress passed laws against water pollution. Stokes's demand was one of the calls for those laws.
 
-He won city hall in a city that was losing jobs and people at the same time. In the 1970s and 1980s voters elected dozens of Black mayors in the cities white residents had been leaving, and taking their tax payments with them.
+Stokes became mayor of a city that was losing jobs and people. In the 1970s and 1980s, voters elected dozens of Black mayors in cities that white residents had been leaving. The white residents who left stopped paying taxes to those cities.
 <!-- hb-story:end slug="carl-stokes" -->
 
-<!-- hb-zoom level="span" label="The Sun Belt boom" -->
-While Detroit and St. Louis emptied, builders were putting up a different kind of city in the South and the West.
+<!-- hb-zoom level="span" label="Growth in the Sun Belt" -->
+While Detroit and St. Louis lost people, cities in the Sun Belt, the warm states of the South and the West, grew.
 
-Phoenix, Arizona had about 106,818 people in 1950 and 1,321,045 in 2000. Its metropolitan area went from about 323,000 to about 3,014,000 in the same fifty years. The city also got physically bigger: it covered about 17 square miles in 1950 and more than 475 by the 2000s, now about 518. That growth in area came from annexation, which is a city government adding neighboring land to its own legal boundaries. Houston, Texas went from 596,163 people to 1,953,631 and was the fourth-largest city in the country by 1990.
+Phoenix, Arizona, had about 106,818 people in 1950 and 1,321,045 in 2000. Its metropolitan area went from about 323,000 people to about 3,014,000 in the same fifty years. The city also grew in area. It covered about 17 square miles in 1950, more than 475 square miles by the 2000s, and about 518 square miles now. City officials added that land by annexation. Annexation means that city officials move the city's legal boundary out to take in neighboring land. Houston, Texas, went from 596,163 people in 1950 to 1,953,631 in 2000, and by 1990 it was the fourth-largest city in the country.
 
-Three things made it possible. Air conditioning made summers in Phoenix and Houston livable indoors year round. Land at the edge was cheap. And city governments annexed the ground the new subdivisions were going onto instead of letting separate suburbs form around them.
+Air conditioners cooled the air inside homes and offices, so people in Phoenix and Houston could live and work indoors through the hot summers. Land at the edge of these cities was cheap. City officials annexed the land where the new subdivisions were going up, so separate suburbs did not form around the cities.
 
-These cities were laid out for cars from the start. There was no older walking city underneath them to work around, so the freeway and the subdivision were not something driven through an existing place — they were the plan.
+Builders laid out these cities for cars from the start. They did not have to cut freeways through an older city built for walking, so the freeways and subdivisions were part of the first plan.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 

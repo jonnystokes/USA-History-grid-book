@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234c landed unit 8 (era 1900-1950). Working on unit 9 (era 1950-2000).
-NEXT:   part 3, era 1950-2000, then 2000-today, then whole-file self-review.
+NOW:    T-234c landed units 8-9 (eras 1900-1950, 1950-2000). Working on unit 10 (era 2000-today).
+NEXT:   part 3, era 2000-today, then whole-file self-review.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -38,7 +38,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 6 | part2 era 1800-1850 | landed | v2 revision, T-234b |
 | 7 | part2 era 1850-1900 | landed | v2 revision, T-234b, plus whole-file self-review |
 | 8 | part3 era 1900-1950 | landed | v2 revision, T-234c |
-| 9 | part3 era 1950-2000 | todo | |
+| 9 | part3 era 1950-2000 | landed | v2 revision, T-234c |
 | 10 | part3 era 2000-today | todo | |
 
 <!-- state: todo | working | landed | skipped (say why) -->
@@ -66,6 +66,9 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1900-1950, bank "The race to the sky": the official Chrysler height credited to the Council on Tall Buildings and Urban Habitat (CTBUH). Mohawk crews' towers named as the Empire State and Chrysler buildings (NMAI "Booming Out"). Empire State "half empty" (bank "half-empty") replaces "much of it stood empty".
 - 1900-1950, bank "Burnham": "much of" the lakefront's openness traces to the plan (prose said the whole open lakefront did, stronger than the bank).
 - 1900-1950, bank "Oak Ridge / Colleen Black": trailer camp (prose had "the government's instant housing"); TV appearances on NBC Nightly News and the History Channel replace the unsourced superlative "one of the most recorded voices".
+- 1950-2000, bank "Urban renewal": sources named for the figures (Brent Cebul, Boston Review 2020, and the Digital Scholarship Lab's "Renewing Inequality" project).
+- 1950-2000, bank "Jacobs vs. Moses": Jacobs led (bank "chaired") the Joint Committee to Stop the Lower Manhattan Expressway; the riot charges were later reduced; Caro's Pulitzer dated 1975 (prose implied 1974).
+- 1950-2000, bank "Rondo": the four moved buildings stand on the University of Minnesota's St. Paul campus (prose had "a University of Minnesota campus").
 
 ## Decisions and known gaps
 
@@ -96,6 +99,14 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1900-1950: closing lines cut: "What the city got was a water supply it had not had before" (restated), "The building was the argument made visible, not the trigger" (now "Supporters of the resolution used the building as their best-known example", bank "poster child"), "and they did" (zoning), "The plans themselves are the record" (Burnham), "The lines outlived the agency" (redlining).
 - 1900-1950: definitions not from the bank, glossed from the plain meaning of the term: the Depression ("the years of the 1930s when many businesses failed and many people lost their work"), low-to-moderate income, majority-minority, conservationists, hotplate, asbestos ("a mineral fiber"), contractor, weld, ironworker, water mains, storm lines. "American forces dropped an atomic bomb on Hiroshima, in Japan" replaces the agentless "the bomb was dropped on Hiroshima": the actor is from general knowledge, not the bank.
 - 1900-1950: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: immigrants among the arrivals; "Anyone who owned a lot could build almost anything"; Equitable's shadow over "whole blocks"; Jason Barr named (bank names only "Building the Skyline"); "nearly every American city" adopted zoning (bank: "spread nationwide"); zoning used to exclude by race or income (bank has it only as a flag line); people in other cities expecting a plan after 1909; Van Alen "did not want them to know"; Mohawk trade "passed down ever since"; each later owner bound by a covenant; "block by block"; lenders across the country used the HOLC grades "for decades" (bank credits FHA underwriting, not lenders using HOLC maps); well-built houses on quiet streets graded red; "cement and asbestos" panels (bank: "cemesto"); shops at Oak Ridge; "almost none" of the residents told; helium mechanism, "miles of pipe", workers not allowed to ask, the plant "separating" (Colleen Black).
+- 1950-2000: FALSE ATTRIBUTION fixed. The era summary put "at least 300,000 families" on both programs (urban renewal and highways). The bank gives that floor for urban renewal only. Now attached to the 1949 housing law alone.
+- 1950-2000: FALSE FIGURE fixed. "Some old downtowns lost more than half their people": the figures are for whole cities, and Detroit fell 48.6 percent (1,849,568 to 951,270), not more than half. Now "St. Louis lost about 60 percent of its people, and Detroit lost nearly half".
+- 1950-2000: SELF-CONTRADICTION found, not settled. Marvin Roger Anderson was "eight" when the news came in 1958 and "approaching 83" in March 2022 (born about 1939). The two cannot both be true. The bank note claims they compute, and they do not. The prose now states both, attributed to Sahan Journal, and says the sources do not settle which is right. The record line now reads "His family learned of the freeway in 1958", with no age. For AUDIT-QUEUE.
+- 1950-2000: Stokes story said Hatcher "won the same office" in Gary. He won Gary's mayoralty, not Cleveland's. Fixed. "Same night" now "same day" (bank).
+- 1950-2000: Rondo "the case with the fullest record" (a superlative the bank does not make, bank: "documented case") now "one well-documented case". The Rondo route: the bank names no official who chose it, and the prose says so.
+- 1950-2000: closing lines cut or recast: "The money to buy a house was there in one place and not in the other, because people wrote rules that put it there"; "the range is what the sources support"; "The argument is not settled" (now "Historians have not settled that argument"); "they were the plan" (em-dash pivot); "The people running cities still do both things" (moved up into the Jacobs paragraph, kept as a claim). Labels revised: "Urban renewal, and what the word covered" now "Urban renewal: clearing neighborhoods for developers"; "Sprawl, and the emptying middle" now "Sprawl, and the people who left the old centers"; "The Sun Belt boom" now "Growth in the Sun Belt".
+- 1950-2000: definitions not from the bank, glossed from the plain meaning of the term: metropolitan area, subdivision, insured mortgage, underwriting rules, expressway, inciting to riot, public housing, annexation (reworded), State Law Librarian.
+- 1950-2000: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: the engineers' "two reasons" for routing freeways through Black and poor neighborhoods; the Title I write-down (federal officials paid the difference); blockbusting; FHA-insured suburban mortgages and underwriting refusals (bank has FHA only as a flag line, "standard scholarship", Rothstein 2017); "builders at the edge of every metropolitan area" copied Levittown; the mass-production description; Jacobs "had no training in planning" and the content of her argument; planning schools teaching her book; "most people who know Moses's name learned it from that book"; city officials today doing both kinds of work; Rondo Days' purpose; businesses on the proposed land bridge; "oil slick and floating trash" on the Cuyahoga; Stokes's demand as a call for the water-pollution laws; "dozens" of Black mayors in the 1970s and 1980s; separate suburbs not forming around annexing cities; Sun Belt cities laid out for cars with no older walking city.
 
 ## Log
 
@@ -109,3 +120,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 6 1800-1850 | era revised to v2 (T-234b) | 0 errors | era clean (file still has era-07 marks: emdash=16 semicolon=6)
 - 2026-09-26 | 7 1850-1900 + whole-file self-review | revised to v2 (T-234b) | 0 errors | emdash=0 semicolon=0
 - 2026-09-26 | 8 1900-1950 | era revised to v2 (T-234c) | 0 errors | era clean (file still has later-era marks: emdash=30 semicolon=9)
+- 2026-09-26 | 9 1950-2000 | era revised to v2 (T-234c) | 0 errors | era clean (file still has era-10 marks: emdash=13 semicolon=1)
