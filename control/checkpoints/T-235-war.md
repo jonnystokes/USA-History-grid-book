@@ -17,16 +17,16 @@ STATE AT START (2026-09-26): eras 1-4 progress="researched"; eras 5-10 progress=
 RULINGS THAT BIND THIS CHAPTER: hard-subjects-policy.md §6, war row: "Go to individual scale:
         the single soldier's wound and death, not only unit-and-number."
 
-NOW:    T-235a working unit 2 (era 1800-1850). Plan: War of 1812, Seminole wars (military side), Mexican War; story John Riley (San Patricios) for the Mexican War slot.
-NEXT:   era 1800-1850, then 1850-1900.
+NOW:    T-235a working unit 3 (era 1850-1900). Plan: Civil War (battles, draft, wounds/amputation, disease, prisons), USCT (Fort Pillow; story Christian Fleetwood), Amos Humiston (Gettysburg), Grant and Lee, army in the West (Buffalo Soldiers; Cathay Williams), Wounded Knee military side, 1898 and Philippines start.
+NEXT:   era 1850-1900.
 
 ## Units
 
 | # | unit | state | landed (commit / note) |
 |---|------|-------|------------------------|
 | 1 | era 05 1750-1800 | landed | 4 spans + 3 verified stories (washington, joseph-plumb-martin, deborah-sampson-war); bank §5 |
-| 2 | era 06 1800-1850 | working | |
-| 3 | era 07 1850-1900 | todo | |
+| 2 | era 06 1800-1850 | landed | 3 spans + 1 verified story (john-riley-san-patricios); bank §6 |
+| 3 | era 07 1850-1900 | working | |
 | 4 | era 08 1900-1950 | todo | |
 | 5 | era 09 1950-2000 | todo | |
 | 6 | era 10 2000-today | todo | |
@@ -51,15 +51,19 @@ Era 5 (all cited inline in research-war.md §5):
 - https://founders.archives.gov/documents/Washington/03-12-02-0628 : 2,898 barefoot
 - https://www.nps.gov/people/joseph-plumb-martin.htm , https://www.battlefields.org/learn/articles/joseph-plumb-martin , https://www.nps.gov/articles/000/valley-forge-footwear-3.htm : Martin
 - https://www.womenshistory.org/education-resources/biographies/deborah-sampson , https://www.masshist.org/object-of-the-month/objects/deborah-sampson-soldier-in-disguise-2005-03-01 , https://www.paulreverehouse.org/quitting-the-male-habit-paul-revere-and-deborah-sampsons-appeal-for-a-military-pension/ : Sampson
+- https://sgp.fas.org/crs/natsec/RL32492.pdf : CRS RL32492 (2020), DoD official table of deaths for every war 1775-1991 incl. WWI, WWII, Korea, Vietnam, Gulf. USE THIS FOR ERAS 8-10 TOO. (congress.gov page returns 403; the fas.org PDF works; read it with python pypdf after `sys.modules['cryptography']=None`.)
+Era 6 (cited in bank §6): house.gov 1812 vote; nps.gov/stsp invasion-of-washington; NPS TwHP Fort McHenry article; battlefields.org new-orleans; dos.fl.gov seminole-wars; senate.gov declarations-of-war/mexico; archives.gov treaty-of-guadalupe-hidalgo; nps.gov/articles/mexican-war-medicine.htm; tshaonline san-patricio-battalion; nps.gov/places/the-san-patricio-brigade.htm; NPS harney-re-examined-part-iv; americanheritage.com tragic-story-san-patricio-battalion; smithsonianmag San Patricios.
 - https://www.army.mil/article/65594/st_clairs_campaign_of_1791_a_defeat_in_the_wilderness_that_helped_forge_todays_u_s_army : St. Clair, Fallen Timbers
 
 ## Decisions and known gaps
 
 <!-- Facts left out rather than hedged. Disputes recorded. Anything a successor must not undo. -->
 - Era 5 disputes recorded in bank: Fort William Henry death toll; prison-ship dead (NPS 11,500 vs ABT 8,000-12,000 POW); Sampson's wound (thigh/penknife from Mann 1797 vs Young's shoulder/breast); Martin's bleeding-feet line (NPS: may be postwar story); St. Clair split of killed/wounded.
+- Era 6 disputes: New Orleans British dead 285 (ABT) to ~700; Dade survivors 1 (FL DOS) to 2-3; Riley's brand (one cheek or both; upside-down re-brand from a 1955 American Heritage account). War of 1812 disease deaths: no government figure, the circulating 15,000 was not used. Riley's death date not established, not supplied.
 - Era 5 left out: Native nations choosing sides in the Revolution, Sullivan 1779 (native-nations leads; not researched); treaties (america-world).
 
 ## Log
 
 <!-- One line per save: date-time | unit | what landed | validator result -->
 2026-09-26 | unit 1 era 1750-1800 | outline era 5 researched, bank §5, workspace checklist | validator 0 errors
+2026-09-26 | unit 2 era 1800-1850 | outline era 6 researched, bank §6 (+ CRS Revolution dispute added to §5) | validator 0 errors

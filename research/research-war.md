@@ -669,6 +669,13 @@ the treaties (Paris 1763, Paris 1783) and the French alliance.
   8,000-12,000 who died as prisoners of war.** About 231,000 men served in the Continental Army,
   never more than 48,000 at once. **About 7,000 African Americans served on the Continental side.**
   (ABT, "American Revolution Facts," https://www.battlefields.org/learn/articles/american-revolution-faqs)
+- **DISPUTE, battle deaths:** the Defense Department's official table (Defense Casualty Analysis
+  System, reproduced in Congressional Research Service report RL32492, "American War and Military
+  Operations Casualties: Lists and Statistics," updated 29 July 2020, Table 1,
+  https://sgp.fas.org/crs/natsec/RL32492.pdf) lists **4,435 Revolutionary War battle deaths** (Army
+  4,044, Navy 342, Marines 49) and **6,188 wounded**, with no count of other deaths; its note says
+  "Data prior to World War I are based on incomplete records in many cases" and gives the number
+  serving as an estimated 184,000 to 250,000. ABT's 6,800 is a historians' estimate. **State both.**
 - **Prison ships (dispute with ABT's POW figure):** the NPS gives **"more than 11,500 who died on the
   prison ships"** in and around New York, from shortly after 1776. HMS *Jersey* held about 1,200
   Americans. "Smallpox, malnutrition, and neglect killed thousands." A survivor's account quoted by
@@ -802,3 +809,141 @@ the treaties (Paris 1763, Paris 1783) and the French alliance.
   ABT's 7,000 figure in one clause.
 - Native nations choosing sides in the Revolution (Haudenosaunee split, Sullivan's 1779 campaign):
   `native-nations` leads. Not researched here; left out of the outline rather than stated unsourced.
+
+## 6. 1800 TO 1850
+
+### 6.0 Shape of the era, and the official numbers
+- **West Point:** President Thomas Jefferson signed the law setting up the U.S. Military Academy on
+  **16 March 1802**, part of the Military Peace Establishment Act. (USMA, "Brief History of West
+  Point," https://www.westpoint.edu/about/history-of-west-point/brief-history-of-west-point ; search
+  summary.)
+- **Official death counts (DCAS, via CRS RL32492 Table 1, https://sgp.fas.org/crs/natsec/RL32492.pdf):**
+  - **War of 1812 (1812-1815):** 286,730 serving; **2,260 battle deaths** (Army 1,950, Navy 265,
+    Marines 45); **4,505 wounded**; no figure for other deaths. Source note: "As reported by the
+    Commissioner of Pensions in the annual report for FY1903."
+  - **Mexican War (1846-1848):** **78,718 serving; 13,283 total deaths; 1,733 battle deaths; 11,550
+    other deaths; 4,152 wounded.** So about 7 of every 8 American dead died of something other than
+    enemy fire.
+  - Estimates of about 15,000 total American deaths in the War of 1812 circulate (e.g.
+    https://www.shmoop.com/study-guides/war-1812/statistics.html), but no government or academic
+    source for that figure was found. **Not used.**
+
+### 6.1 The War of 1812
+- **Declaration:** House voted 79-49 (4 June 1812), Senate 19-13 (17 June); **Madison signed on 18
+  June 1812**. The closest votes for any US declaration of war. (House History, Art & Archives,
+  https://history.house.gov/Records-and-Research/Listing/lfp_012/ ; National Archives,
+  https://www.archives.gov/legislative/resources/education/1812 ; search summary.)
+- **Washington burned, 24-25 August 1814.** After the American defeat at Bladensburg, Maryland,
+  Maj. Gen. Robert Ross and Rear Adm. Sir George Cockburn led British troops into the city. They
+  burned the Capitol, the President's House, the Treasury, the Southwest Executive Building and three
+  private rope walks. Madison and residents fled. Margaret Bayard Smith: "The spectators stood in
+  awful silence, the city was light and the heavens redden'd with the blaze." (NPS Star-Spangled
+  Banner NHT, "Invasion of Washington, D.C.,"
+  https://home.nps.gov/stsp/learn/historyculture/invasion-of-washington-dc.htm)
+  - ABT article (https://www.battlefields.org/learn/articles/burning-washington-dc) adds that the
+    British called it retaliation for the American burning of York (Toronto) on 27 April 1813, and
+    that a gunpowder accident killed about 30 British soldiers. Search summary only; **not used.**
+- **Fort McHenry, 13-14 September 1814.** British warships bombarded the fort for 25 hours from
+  6 a.m. on 13 September, firing between 1,500 and 1,800 shells. **Four killed and 24 wounded in the
+  fort.** Maj. George Armistead commanded. Francis Scott Key, held on an American truce ship,
+  watched and wrote the verses that became "The Star-Spangled Banner." (NPS Teaching with Historic
+  Places, "'The Rockets' Red Glare': Francis Scott Key and the Bombardment of Fort McHenry,"
+  https://www.nps.gov/articles/-the-rockets-red-glare-francis-scott-key-and-the-bombardment-of-fort-mchenry-teaching-with-historic-places.htm ;
+  ABT map page https://www.battlefields.org/learn/maps/bombardment-fort-mchenry-sep-13-14-1814 ,
+  which lists total estimated casualties of 29 American and 28 British.)
+- **Treaty of Ghent signed 24 December 1814**; official news did not reach New Orleans until March
+  1815. (search summary, New Orleans Historical / NPS Jean Lafitte; `america-world` owns the treaty.)
+- **New Orleans, 8 January 1815.** Andrew Jackson v. Edward Pakenham. Jackson's force: Tennessee and
+  Kentucky frontiersmen, Louisiana militia, New Orleans businessmen, Free Men of Color, Choctaw,
+  Jean Lafitte and his privateers, sailors, marines and US troops. **"Of the 3,000 men under Gibbs
+  and Keane, 2,000 become casualties in less than 30 minutes."** Pakenham rode forward to rally his
+  men, was hit by an American volley, and died of his wounds. **US 71 casualties (13 killed, 39
+  wounded, 19 missing/captured). British 2,034 (285 killed, 1,265 wounded, 484 missing/captured).**
+  (ABT, "New Orleans," https://www.battlefields.org/learn/war-1812/battles/new-orleans)
+  - Other counts give British "more than 2,500 (about 700 dead)" (New Orleans Historical,
+    https://neworleanshistorical.org/items/show/508 ; search summary). **The British dead are
+    counted from 285 to about 700. Say so.**
+
+### 6.2 The Second Seminole War, 1835-1842 — military side (`native-nations` leads)
+- **Dade, 28 December 1835:** "180 Seminole warriors led by Micanopy, Alligator and Jumper attacked"
+  Maj. Francis Dade's detachment marching from Fort Brooke toward Fort King. "Only one man of that
+  army detachment survived." (Florida Department of State, "The Seminole Wars,"
+  https://dos.fl.gov/florida-facts/florida-history/seminole-history/the-seminole-wars/)
+  - **DISPUTE:** other accounts give about 110 soldiers, 108 killed, and two or three survivors
+    (Wikipedia "Dade battle," secondary, via search). **Write "one to three survivors".**
+- **The war "left more than 1,500 soldiers and uncounted American civilians dead"; "The United
+  States spent more than $20 million fighting the Seminoles."** (Florida Dept. of State, same.)
+  Most of the 1,500 soldiers died of disease (Military.com, 30 Dec 2025,
+  https://www.military.com/daily-news/investigations-and-features/2025/12/30/seminole-warriors-fought-us-military-stalemate-florida-swamps-during-americas-deadliest-war-against.html ;
+  journalism, via search summary).
+- Osceola "was captured and imprisoned when he met with U.S. troops who had called for a truce and
+  claimed to want to talk peace"; died in prison 1838. (Florida Dept. of State.) `native-nations`
+  already has his story (seized 21 October 1837).
+
+### 6.3 The Mexican War, 1846-1848
+- **Start:** the Thornton Affair, 25-26 April 1846, in the borderland both countries claimed.
+  Polk's message of 11 May said Mexico "has invaded our territory and shed American blood upon the
+  American soil." **House 174-14 (11 May), Senate 40-2 (12 May), Polk signed 13 May 1846.**
+  (U.S. Senate, "Declarations of War: Mexico,"
+  https://www.senate.gov/about/powers-procedures/declarations-of-war/mexico.htm ; search summary.
+  The Senate summary words the quote "upon America's soil"; the message's text reads "upon the
+  American soil.")
+- **Battles:** Monterrey (September 1846), Buena Vista (February 1847), Cerro Gordo (April 1847),
+  Churubusco (20 August 1847). (Smithsonian Magazine, "During the Mexican-American War,
+  Irish-Americans Fought for Mexico in the 'Saint Patrick's Battalion',"
+  https://www.smithsonianmag.com/history/mexican-american-war-irish-immigrants-deserted-us-army-fight-against-america-180971713/)
+  Mexico City fell in **September 1847.** (National Archives, "Treaty of Guadalupe Hidalgo,"
+  https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo)
+- **Treaty of Guadalupe Hidalgo, 2 February 1848: Mexico ceded 55 percent of its territory, more
+  than 525,000 square miles; the US paid $15 million.** (National Archives, same.) `america-world`
+  owns the treaty; one clause here.
+- **Disease:** "Of the total casualties the U.S. military suffered during the war, only a small
+  percentage came as a result of enemy fire." Dysentery, yellow fever ("the dreaded vomito"),
+  malaria. Surgeons "had to resort to amputation" for shattered limbs. **"Anesthetics were used for
+  the first time in a combat situation during the war in the spring of 1847."** (NPS, "Mexican War
+  Medicine," https://www.nps.gov/articles/mexican-war-medicine.htm)
+- **Mexican dead:** "Historians estimate that 25,000 Mexican soldiers died" (Smarthistory,
+  https://smarthistory.org/seeing-america-2/mexican-american-war/ ; via search). Mexican civilian
+  deaths: number unknown (American History Central, secondary). **Write "about 25,000, an estimate;
+  civilian deaths were never counted."**
+
+### 6.4 STORY — John Riley and the San Patricios (replaces the "(target) a Mexican War soldier" slot) — verified
+- **Who:** Irish-born sergeant, formerly of **Company K, 5th U.S. Infantry**, who had drilled West
+  Point cadets in artillery (Smithsonian; American Heritage). **Crossed the Rio Grande to the Mexican
+  side in spring 1846, before the formal declaration of war** (Smithsonian). Organised and led the
+  **San Patricio Battalion** in the Mexican army: organised as one company in November 1846; by
+  1 July 1847 two battalions of 100 men each (TSHA Handbook of Texas, "San Patricio Battalion,"
+  https://www.tshaonline.org/handbook/entries/san-patricio-battalion). Fought at Monterrey, Buena
+  Vista, Cerro Gordo, Churubusco (Smithsonian; TSHA).
+- **Why men deserted (NPS):** "anti-Catholic bigotry and brutal discipline"; some objected to the war;
+  some were escaped slaves and free Black men who saw Mexico, which had outlawed slavery, as freer;
+  Mexico offered land grants to foreigners. Officers "quite often forced them to attend Protestant
+  services" (Smithsonian). (NPS, "The San Patricio Brigade," https://www.nps.gov/places/the-san-patricio-brigade.htm)
+- **Churubusco, 20 August 1847:** about 75-80 San Patricios captured (Smithsonian "an estimated 75";
+  NPS "80 ... surrendered"). **72 tried as deserters in two mass courts-martial, 3 and 6 days after
+  capture, without legal counsel and with no transcript** (NPS, both pages, incl. "Harney
+  Re-examined Part IV,"
+  https://www.nps.gov/articles/000/harney-re-examined-part-iv-harney-and-the-hanging-of-the-san-patricio-brigade.htm).
+  **50 sentenced to death and hanged** (NPS; TSHA). Hangings at San Angel on 10 September and at
+  Mixcoac on 13 September 1847 (TSHA). **On 13 September Col. William Harney hanged 30 men and "left
+  the corpses of the 30 hanged men to decay on the gallows"** (NPS Harney article). The 13 September
+  group were hanged within sight of Chapultepec as the US flag went up over the castle (American
+  Heritage, June 1955, https://www.americanheritage.com/tragic-story-san-patricio-battalion ; search
+  summaries of several secondary sources agree).
+- **Riley's punishment:** because he deserted before war was declared, he could not be hanged.
+  **"He received fifty lashes and the letter 'D' branded on his cheek"** (TSHA). American Heritage
+  (1955): the brand was made with a **red-hot iron**, "a 'D' for deserter on the cheek bone,
+  according to regulations 'near the eye but without jeopardizing the sight'"; it says the first D
+  was burned in upside down and a second brand put on. Some summaries say both cheeks and 59 lashes.
+  **Settled: fifty lashes, a D burned into his face with a hot iron. Not settled: one cheek or two,
+  the upside-down second brand.** He was then held in a cell until the war ended (search summaries).
+  - **Branding, plain words:** a metal letter heated red-hot in a fire and pressed into the skin; it
+    burns the skin and leaves a scar in the shape of the letter for life.
+  - **Lashes / flogging, plain words:** blows with a whip on the bare back; each lash cuts the skin.
+    (The records used here do not say what kind of whip was used.)
+- **After:** Riley stayed with the Mexican army; "concrete evidence of Riley's whereabouts peter out
+  several years after the war's end" (Smithsonian). **Death date not established. Do not supply
+  one.**
+- **Movie:** *One Man's Hero* (1999), dir. Lance Hool, Tom Berenger as Riley. A feature film about
+  him (https://en.wikipedia.org/wiki/One_Man's_Hero). A dramatization, not a documentary.
+- Slug `john-riley-san-patricios` (checked unique).

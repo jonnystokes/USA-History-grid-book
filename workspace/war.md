@@ -23,8 +23,8 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [x] the French and Indian War (era 5: Braddock, Fort William Henry, Quebec)
 - [x] the Revolution (Lexington, Saratoga, Valley Forge, Yorktown) (era 5)
 - [x] George Washington (era 5 story, verified)
-- [ ] the War of 1812 and Fort McHenry
-- [ ] the Mexican-American War
+- [x] the War of 1812 and Fort McHenry (era 6)
+- [x] the Mexican-American War (era 6)
 - [ ] the Civil War, Grant and Lee, Gettysburg
 - [ ] the U.S. Colored Troops
 - [ ] the Spanish-American War
@@ -37,9 +37,9 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [ ] Afghanistan and Iraq
 
 ## Featured people to firm up (target/candidate)
-- **verified 2026-09-26 (T-235a)** — George Washington, Joseph Plumb Martin (replaces the Continental private target), Deborah Sampson (1750–1800).
+- **verified 2026-09-26 (T-235a)** — George Washington, Joseph Plumb Martin (replaces the Continental private target), Deborah Sampson (1750–1800). John Riley of the San Patricios (1800–1850, replaces the Mexican War soldier target).
 - **candidate** — Ulysses S. Grant and Robert E. Lee (1850–1900).
-- **target** — a captive from a captivity narrative (1700–1750) · a Mexican War soldier (1800–1850) · a U.S. Colored Troops soldier and a Buffalo Soldier (1850–1900) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
+- **target** — a captive from a captivity narrative (1700–1750) · a U.S. Colored Troops soldier and a Buffalo Soldier (1850–1900) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*

@@ -153,7 +153,7 @@ At Montreal on August 4, 1701, about 1,300 delegates from more than 30 Native na
 <!-- hb-zoom level="era" -->
 Soldiers from these colonies fought three wars in these fifty years. The French and Indian War ran from 1754 to 1763, and at the peace French diplomats signed Canada over to Britain. The Revolution ran from 1775 to 1783 and ended with the thirteen colonies independent. From 1785 to 1795 US soldiers fought a confederacy of Native nations north of the Ohio River.
 
-In all three wars, sickness killed more soldiers than enemy fire did. The American Battlefield Trust counts about 6,800 Americans killed in battle in the Revolution. At least 17,000 more died of disease, and 8,000 to 12,000 of those were prisoners of war when they died.
+In all three wars, sickness killed more soldiers than enemy fire did. The American Battlefield Trust counts about 6,800 Americans killed in battle in the Revolution. At least 17,000 more died of disease, and 8,000 to 12,000 of those were prisoners of war when they died. The Defense Department's official list counts only 4,435 American battle deaths, and its own note says the records from before 1917 are often incomplete.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The French and Indian War, 1754 to 1763" -->
 In 1754 French soldiers forced a young Virginia colonel, George Washington, to surrender at Fort Necessity in western Pennsylvania. The next summer the British general Edward Braddock marched about 1,450 men toward the French fort where Pittsburgh stands now. On July 9, 1755, French soldiers and Native fighters caught his column in the woods near the Monongahela River. They killed 456 of Braddock's men and wounded 422. The French side lost 23 dead. Braddock was shot, and he died on the night of July 13.
@@ -215,18 +215,48 @@ Members of Congress ran their first special investigation ever into what went wr
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="war" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="war" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-The young country fights Britain again, then fights Mexico and takes a third of a continent.
+On March 16, 1802, President Thomas Jefferson signed the law that set up the U.S. Military Academy at West Point, New York, a school to train army officers. US soldiers fought Britain from 1812 to 1815. They fought Native nations that would not leave their land, including the Seminole in Florida from 1835 to 1842. From 1846 to 1848 they fought Mexico and marched into its capital.
+
+In the Mexican War, sickness killed far more soldiers than enemy fire did. By the Defense Department's count, 1,733 American soldiers were killed in battle and 11,550 died of other causes, most of them of disease.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the War of 1812 and the Mexican-American War" -->
-The War of 1812 — the burning of Washington, Fort McHenry, New Orleans; the Seminole Wars; the Mexican-American War, 1846–48, and the Treaty of Guadalupe Hidalgo; West Point and a professional officer corps.
+<!-- hb-zoom level="span" label="The War of 1812" -->
+President James Madison signed the declaration of war against Britain on June 18, 1812. The House had voted 79 to 49 and the Senate 19 to 13, the closest votes for any declaration of war in US history.
+
+On August 24, 1814, British soldiers beat American militia at Bladensburg, Maryland, and marched into Washington that evening. Major General Robert Ross and Rear Admiral George Cockburn had their men set fire to the Capitol, the President's House and the Treasury. President Madison and many people in the city had already fled.
+
+Three weeks later British warships fired between 1,500 and 1,800 shells at Fort McHenry, which guarded the harbor at Baltimore. The shelling lasted 25 hours, starting at 6 in the morning on September 13. British shells killed four men in the fort and wounded 24, and the fort did not surrender. Francis Scott Key, held on an American ship in the harbor, watched the attack and wrote the verses that became "The Star-Spangled Banner."
+
+American and British diplomats signed a peace treaty at Ghent, in present-day Belgium, on December 24, 1814. The news did not reach New Orleans until March. On January 8, 1815, British soldiers attacked General Andrew Jackson's lines outside New Orleans. Jackson's force included riflemen from Tennessee and Kentucky, Louisiana militia, free Black soldiers, Choctaw fighters and the smuggler Jean Lafitte's men. Of 3,000 British soldiers in the main attack, about 2,000 were killed, wounded or captured in less than 30 minutes. The British general, Edward Pakenham, rode forward to rally them, was hit by American fire, and died of his wounds. Counts of the British dead run from 285 to about 700. Jackson's side lost 13 killed.
+
+For the whole war, the Defense Department counts 2,260 Americans killed in battle and 4,505 wounded. It gives no count of the soldiers who died of disease.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="mexican-war-soldier" name="(target) a Mexican War soldier" movie="" kind="ordinary" status="target" -->
-### (target) a Mexican War soldier
-Soldier diaries from the Mexican War are plentiful.
-<!-- hb-story:end slug="mexican-war-soldier" -->
+<!-- hb-zoom level="span" label="The Second Seminole War, 1835 to 1842" -->
+US soldiers fought for seven years to force the Seminole out of Florida and west to Indian Territory, now Oklahoma. On December 28, 1835, about 180 Seminole fighters led by Micanopy, Alligator and Jumper attacked Major Francis Dade's column on the road from Fort Brooke to Fort King. They killed Dade and almost all of his men. The Florida Department of State says one soldier survived, and other accounts count two or three.
+
+In 1837 US officers seized the Seminole leader Osceola after calling him to peace talks under a flag of truce, and he died in prison in 1838. By 1842 more than 1,500 US soldiers had died in the war, most of them of disease, and Congress had paid more than $20 million for it. `native-nations` tells the Seminole side.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Mexican War, 1846 to 1848" -->
+On April 25, 1846, Mexican soldiers attacked a US cavalry patrol in land north of the Rio Grande that both countries claimed. President James K. Polk told Congress that Mexico had "shed American blood upon the American soil." The House voted for war 174 to 14 and the Senate 40 to 2, and Polk signed the declaration on May 13, 1846.
+
+US soldiers won at Monterrey in September 1846 and at Buena Vista in February 1847. General Winfield Scott landed an army on the coast at Veracruz and fought his way inland, and American soldiers took Mexico City in September 1847. Surgeons in this war cut off arms and legs shattered by bullets and cannonballs. This is called amputation. In the spring of 1847, army surgeons used anesthetic, a drug that puts the patient to sleep so they feel no pain, in battle for the first time.
+
+On February 2, 1848, Mexican officials signed the Treaty of Guadalupe Hidalgo. Under its terms, 55 percent of Mexico's land, more than 525,000 square miles, became part of the United States, and the US government paid Mexico $15 million. About 78,700 Americans served in the war and 13,283 died. Historians estimate that about 25,000 Mexican soldiers died. Nobody counted the Mexican civilians who were killed. `america-world` tells the treaty.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="john-riley-san-patricios" name="John Riley" movie="One Man's Hero (1999)" kind="ordinary" status="verified" -->
+### John Riley
+> **Who:** An Irish-born US Army sergeant who crossed to the Mexican side before the war began and led a unit of deserters, the San Patricios, against the US Army.
+> **When and where:** Company K, 5th U.S. Infantry. Crossed the Rio Grande in the spring of 1846. Captured at Churubusco, near Mexico City, August 20, 1847.
+> **Movie:** *One Man's Hero* (1999), a feature film about him with Tom Berenger as Riley. It is a drama, not a documentary.
+
+Riley had trained West Point cadets to fire cannon. In the spring of 1846, before Congress declared war, he crossed the Rio Grande and joined the Mexican army. He organized other deserters into the San Patricio Battalion, named for Saint Patrick. Most were Irish and German Catholic immigrants. The National Park Service lists their reasons as anti-Catholic abuse and brutal discipline from American officers, objections to the war, and land that Mexico offered to foreigners. Some were escaped slaves and free Black men who saw Mexico, which had banned slavery, as freer than the United States.
+
+The San Patricios fought at Monterrey, Buena Vista, Cerro Gordo and Churubusco. At Churubusco on August 20, 1847, US soldiers captured about 80 of them. Army officers tried 72 as deserters in two mass courts-martial, held 3 and 6 days after the capture. The men had no lawyers, and nobody wrote down what was said. Fifty were hanged. On September 13, 1847, Colonel William Harney hanged 30 of them within sight of Chapultepec Castle as the US flag went up over it. He left their bodies hanging on the gallows.
+
+Riley had deserted before the war was declared, so the court could not sentence him to hang. Instead he was flogged with fifty lashes, blows from a whip on his bare back that cut the skin. Then he was branded. A metal letter D, for deserter, was heated red-hot and pressed into the skin of his face, below the eye. It burned a scar in the shape of the letter that he carried for life. Some accounts say it was done to both cheeks, and one says the first D went on upside down and a second D was burned on the right way up. The records used here do not name the men who held the whip and the iron. Riley stayed in the Mexican army after the war. Records of where he went stop a few years later, and the date of his death is not known.
+<!-- hb-story:end slug="john-riley-san-patricios" -->
 <!-- hb-time:end id="1800-1850" -->
 
 <!-- hb-time:start id="1850-1900" order="07" chapter="war" label="1850 to 1900" state="full" progress="seed" -->
