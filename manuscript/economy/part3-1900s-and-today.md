@@ -130,3 +130,70 @@ During the Second World War, factory owners hired workers to make war goods, and
 Workers in American factories built 299,230 military aircraft from January 1940 to August 1945. Real GDP counts output with the changes in prices taken out. It rose about 72 percent from 1940 to 1945. By 1945 the United States made about half of all the manufactured goods in the world.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
+
+<!-- hb-time:start id="1950-2000" order="09" chapter="economy" label="1950 to 2000" state="full" progress="written" -->
+## 1950 to 2000
+
+<!-- hb-zoom level="era" -->
+Between 1947 and 1973, the income of the typical American family roughly doubled, even after counting the rise in prices. Families who were poor, in the middle and rich all gained. In the 1970s prices and unemployment rose at the same time. Factory jobs peaked at 19.6 million in June 1979. After that, more and more Americans worked in service jobs, in places such as stores, offices, hospitals and schools. In the Mahoning Valley around Youngstown, Ohio, about 50,000 jobs in steel and related work ended within about five years of 1977. In the 1980s about 300,000 farms could not repay their loans. From March 1991 to March 2001, output and jobs grew for 120 months in a row.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The postwar boom" -->
+For about twenty-five years after the Second World War, pay rose for families at every level of income. Between 1947 and 1973, the median family income roughly doubled, counted with the rise in prices taken out. The median is the middle one. Half of all families earned more than the median family, and half earned less. A general rise in prices is called inflation. Inflation means each dollar buys less than before.
+
+The economists Claudia Goldin and Robert Margo studied the gap between high wages and low wages. They found that the gap narrowed sharply in the 1940s and stayed narrow into the 1970s. They named this the Great Compression. To compress means to squeeze together.
+
+Under the G.I. Bill, the federal government paid for schooling and backed home loans for veterans of the Second World War. By July 1956, when the first version ended, 7.8 million of the 16 million veterans had used its money for education or job training. From 1944 to 1952, officials of the VA, the federal agency for veterans, backed about 2.4 million home loans. Backing a loan means promising to repay the lender if the borrower cannot.
+
+In the Employment Act of 1946, members of Congress made "maximum employment, production, and purchasing power" a stated duty of the federal government. Under the same act they created the Council of Economic Advisers. The ideas behind the act came from the British economist John Maynard Keynes. Keynes argued that government spending could fight slumps, the times when business falls off. Members of Congress took a promise of full employment out of the bill before they passed it.
+
+On April 26, 1956, Malcom McLean's ship *Ideal X* carried 58 large steel shipping boxes, called containers, from Port Newark to Houston. By the economist Marc Levinson's calculation, loading loose cargo onto a ship by hand cost about 5.86 dollars a ton in 1956. Loading it in containers cost about 16 cents a ton.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Stagflation in the 1970s" -->
+In the 1970s prices and unemployment rose together. Most economists had thought this could not happen. The mix of inflation and a stagnant economy, one that is not growing, was called stagflation.
+
+After an oil embargo in 1973, the price of oil roughly quadrupled in six months. An embargo is a ban on trade. Consumer prices, the prices of the things people buy for daily life, rose about 11 percent in 1974. Unemployment reached 9.0 percent in May 1975.
+
+Prices rose more than 13 percent a year in 1979 and 1980. In November and December 1982, unemployment reached 10.8 percent. That was the highest rate since the Great Depression.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Factory jobs fall" -->
+Manufacturing, the making of goods in factories, gave work to a shrinking share of Americans after 1950. In 1955, 30.6 of every 100 jobs outside farming were in manufacturing. By 2005 about 11 of every 100 were, and by the 2020s about 8. The number of factory jobs peaked at 19.6 million in June 1979. By the 2000s, more than 80 of every 100 jobs outside farming were in service industries.
+
+On September 19, 1977, the managers of Youngstown Sheet and Tube announced that they would close the company's Campbell Works steel mill in Youngstown, Ohio. About 5,000 jobs ended at once. The day became known as Black Monday. Within about five years, about 50,000 jobs in steel and related work ended in the Mahoning Valley around Youngstown. These numbers come from later news reports.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="gerald-dickey-economy" name="Gerald Dickey" movie="" kind="ordinary" status="verified" -->
+### Gerald Dickey
+
+> **Who:** A Youngstown steelworker who proposed that the workers and the town buy their closed mill and reopen it.
+> **When and where:** Youngstown, Ohio, 1977 to 1979.
+
+After the Campbell Works closed, Gerald Dickey proposed that the steelworkers and the people of Youngstown buy the mill and reopen it. From 1976 to 1979 he was the recording secretary of Local 1462 of the United Steelworkers union. A local is a union's branch in one place. A recording secretary keeps the written record of its meetings.
+
+Church leaders led the Ecumenical Coalition of the Mahoning Valley, which took up Dickey's plan. Ecumenical means bringing together people of different churches.
+
+The plan needed about 100 million dollars in federal loan guarantees. A loan guarantee is a promise that the government will repay a loan if the borrowers cannot. Officials in President Carter's government first signaled that they supported the guarantees. In 1979 officials of the Economic Development Administration, a federal agency, turned the guarantees down. The mill stayed closed. Accounts differ a little on the order in which officials first supported and then refused the plan. All of them agree that officials refused it and that the mill stayed closed.
+
+Dickey and the coalition spread the idea of workers owning their own workplaces through the labor movement.
+<!-- hb-story:end slug="gerald-dickey-economy" -->
+
+<!-- hb-zoom level="span" label="The farm crisis of the 1980s" -->
+In the 1980s about 300,000 farms defaulted, which means their owners could not repay their loans. About 300 farm banks failed.
+
+In the 1970s farmers sold more crops abroad, planted more of their land and borrowed at low rates of interest. Interest is the extra money a borrower pays a lender for a loan. Then Federal Reserve officials under Volcker raised interest rates, a grain embargo in 1980 cut sales abroad, and exports fell. Farmers had borrowed against the value of their land. In parts of the Midwest, farmland lost up to 60 percent of its value from 1981 to 1986. Farm debt reached about 215 billion dollars by 1984, double the debt of 1978.
+
+On September 22, 1985, Willie Nelson, John Mellencamp and Neil Young played the first Farm Aid concert, at Memorial Stadium in Champaign, Illinois. About 80,000 people came. The concert raised more than 7 million dollars.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The 1980s and 1990s" -->
+Income tax rates on the highest incomes fell in the 1980s. Under the Economic Recovery Tax Act of 1981, President Reagan's tax cut, the top income-tax rate fell from 70 percent to 50 percent. Under the Tax Reform Act of 1986, it fell to 28 percent. The top rate is the tax on each dollar of income above a high level.
+
+Inflation fell from 13.5 percent in 1980 to between 3 and 4 percent by the middle of the 1980s. The national debt roughly tripled during the 1980s. The national debt is the total that the federal government owes on money it has borrowed.
+
+From March 1991 to March 2001, output and jobs grew for 120 months in a row. A stretch of growth like this is called an expansion. It was the longest expansion on record until then, according to the National Bureau of Economic Research, the group of economists that dates the country's booms and downturns. Unemployment fell to 3.9 percent in the fall of 2000. In the government's budget years of 1998 through 2001, federal tax money coming in was more than federal spending. A year like that is called a budget surplus.
+
+The NASDAQ is an index, a single number built from the stock prices of many companies, including many technology companies. It rose about 600 percent from 1995 to March 2000.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1950-2000" -->

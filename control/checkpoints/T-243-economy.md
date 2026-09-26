@@ -18,7 +18,7 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243d in flight: part3 1900-1950 landed, writing 1950-2000.
+NOW:    T-243d in flight: part3 1950-2000 landed, writing 2000-today.
 NEXT:   T-243d: write part 3 (eras 8-10)
 
 ## Units
@@ -87,3 +87,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243c: 1800-1850 written (~2,000 prose words, 7 spans, story philip-hone-economy). validate --part 0 errors. --punct emdash=0 semicolon=0. Keweenaw copper (parked era-6 section) placed here.
 - 2026-09-26 T-243c: 1850-1900 written (8 spans, stories andrew-carnegie-economy, john-d-rockefeller-economy). Self-review run. Part 2 total about 4,350 prose words, 315 sentences, mean 13.8 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Bank defect fixed in prose: the patch says Southern states "then" leased prisoners after the 13th Amendment, but also dates Alabama's lease from 1846. Prose says officials leased prisoners "under that exception" and keeps 1846. Unit 3 landed.
 - 2026-09-26 T-243d: 1900-1950 written (~2,300 prose words, 7 spans, stories henry-ford-economy, benjamin-roth-economy, frances-perkins-economy). validate --part 0 errors. --punct emdash=0 semicolon=0.
+- 2026-09-26 T-243d: 1950-2000 written (~1,500 prose words, 5 spans, story gerald-dickey-economy). validate --part 0 errors. --punct emdash=0 semicolon=0.
