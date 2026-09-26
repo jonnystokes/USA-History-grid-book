@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234b finished part 2 (units 6-7 landed, whole-file self-review done, --punct 0/0). Part 3 not started.
-NEXT:   part 3, era 1900-1950.
+NOW:    T-234c landed unit 8 (era 1900-1950). Working on unit 9 (era 1950-2000).
+NEXT:   part 3, era 1950-2000, then 2000-today, then whole-file self-review.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -37,7 +37,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 5 | part1 era 1750-1800 | landed | v2 revision, T-234a, plus whole-file self-review |
 | 6 | part2 era 1800-1850 | landed | v2 revision, T-234b |
 | 7 | part2 era 1850-1900 | landed | v2 revision, T-234b, plus whole-file self-review |
-| 8 | part3 era 1900-1950 | todo | |
+| 8 | part3 era 1900-1950 | landed | v2 revision, T-234c |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
 
@@ -61,6 +61,11 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1850-1900, bank "Mohawk ironworkers": the NMAI exhibition's towers (Empire State, Chrysler, George Washington Bridge, World Trade Center) replace "runs forward through the towers of the next century".
 - 1850-1900, bank "White City": "seeded the City Beautiful movement", now "Planners in the next era built on that idea in what they called the City Beautiful movement".
 - 1800-1850, bank "San Francisco": growth placed "during the California Gold Rush" (bank: Gold Rush references, "migration leads the rush").
+- 1900-1950, bank "Oak Ridge and the secret cities": the removals now stated in full (about 1,000 families; Wheat, Elza, Scarboro/Scarborough, Robertsville, New Bethel, New Hope; 3,000 to 4,000 people as a range, Tennessee Encyclopedia named; October 1942, Army Corps of Engineers, declaration of taking under eminent domain, about 59,000 acres at $46.86 an acre; notices nailed to fence posts; a few weeks; gone within a year; most accepted, a few sued; an eighth of Roane County, a seventh of Anderson County). Eminent domain is now defined here at first use.
+- 1900-1950, bank "Chicago River reversal": the Sanitary District of Chicago named as the body whose engineers did the reversal (prose had "The engineers' answer").
+- 1900-1950, bank "The race to the sky": the official Chrysler height credited to the Council on Tall Buildings and Urban Habitat (CTBUH). Mohawk crews' towers named as the Empire State and Chrysler buildings (NMAI "Booming Out"). Empire State "half empty" (bank "half-empty") replaces "much of it stood empty".
+- 1900-1950, bank "Burnham": "much of" the lakefront's openness traces to the plan (prose said the whole open lakefront did, stronger than the bank).
+- 1900-1950, bank "Oak Ridge / Colleen Black": trailer camp (prose had "the government's instant housing"); TV appearances on NBC Nightly News and the History Channel replace the unsourced superlative "one of the most recorded voices".
 
 ## Decisions and known gaps
 
@@ -84,6 +89,13 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1850-1900: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: sewers "had no pumps"; "several feet" of fill; customers buying while the floor rose; Otis stood on the platform; top floors cheapest before elevators, dearest after; White City "built to last one season", "millions of visitors", the idea visitors took away; tenement landlords housed "most" of the arriving poor and "for decades" no law required anything; Riis worked nights, cellars at a few cents; owner sealed 97 Orchard (bank passive); Joseph Moore an Irish immigrant (bank says Bridget); all of the Olmsted body except the 1858 win and 1893 site plan (farmer, journalist, never designed a park, landscape architecture profession, Prospect Park, Emerald Necklace, dozens of places, the made-countryside argument, cities expected parks after him); Guthrie "surveying, laying out lots"; colonial towns "took years".
 - 1850-1900: closing lines cut or recast: "What he had demonstrated was..." (Riis, moved to the front), "The Moores are the ones the records let us name" (false: other residents are named), "Central Park exists... Both of those are the record" (facts folded into the taking), "Cities in the Northeast were raised in part by..." (moved to the front). Labels revised: "Chicago lifts itself out of the mud" (city as actor), "Central Park, and what stood there first" (Seneca Village was not first), "Out: streetcars stretch the city" (vehicles as actor). "lift the entire downtown into the air" became raising the downtown buildings to the new street level (precision).
 - 1700-1750: "London ... hundreds of thousands" and "volunteer fire companies ... for the next hundred years" are in the outline/prose, not in the bank. Kept, flagged for AUDIT-QUEUE.
+- 1900-1950: LAND ERASURE FIXED (bank flag 16). The prose still read "on empty ridgeland" and the era summary "on empty ground"; the span label read "Secret cities from nothing". All three now state the removals (label: "Oak Ridge: a secret city on taken farmland"). The bank names no removals at Los Alamos or Hanford/Richland, so the prose says nothing about who was on that land. Gap for AUDIT-QUEUE (land-erasure watch).
+- 1900-1950: the Oak Ridge eviction notices are a bank passive with no actor. Prose says the sources do not say who put them up.
+- 1900-1950: era summary said the covenant-bound "arrivals", immigrants included, were packed into a few districts. The covenants in the bank bar Black buyers (sometimes Jewish or Asian). Now the summary says Black families. Precision fix.
+- 1900-1950: labels revised: "The river turned around" (river as actor) now "Drinking water for Chicago and San Francisco"; "Zoning" em dash to colon; "The race to the sky" now "The contest for the tallest building"; "Where the Great Migration settled" (migration as actor) now "Where Great Migration families could live".
+- 1900-1950: closing lines cut: "What the city got was a water supply it had not had before" (restated), "The building was the argument made visible, not the trigger" (now "Supporters of the resolution used the building as their best-known example", bank "poster child"), "and they did" (zoning), "The plans themselves are the record" (Burnham), "The lines outlived the agency" (redlining).
+- 1900-1950: definitions not from the bank, glossed from the plain meaning of the term: the Depression ("the years of the 1930s when many businesses failed and many people lost their work"), low-to-moderate income, majority-minority, conservationists, hotplate, asbestos ("a mineral fiber"), contractor, weld, ironworker, water mains, storm lines. "American forces dropped an atomic bomb on Hiroshima, in Japan" replaces the agentless "the bomb was dropped on Hiroshima": the actor is from general knowledge, not the bank.
+- 1900-1950: claims in the prose NOT in the bank, kept and flagged for AUDIT-QUEUE: immigrants among the arrivals; "Anyone who owned a lot could build almost anything"; Equitable's shadow over "whole blocks"; Jason Barr named (bank names only "Building the Skyline"); "nearly every American city" adopted zoning (bank: "spread nationwide"); zoning used to exclude by race or income (bank has it only as a flag line); people in other cities expecting a plan after 1909; Van Alen "did not want them to know"; Mohawk trade "passed down ever since"; each later owner bound by a covenant; "block by block"; lenders across the country used the HOLC grades "for decades" (bank credits FHA underwriting, not lenders using HOLC maps); well-built houses on quiet streets graded red; "cement and asbestos" panels (bank: "cemesto"); shops at Oak Ridge; "almost none" of the residents told; helium mechanism, "miles of pipe", workers not allowed to ask, the plant "separating" (Colleen Black).
 
 ## Log
 
@@ -96,3 +108,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 5 1750-1800 + whole-file self-review | revised to v2 | 0 errors | emdash=0 semicolon=0
 - 2026-09-26 | 6 1800-1850 | era revised to v2 (T-234b) | 0 errors | era clean (file still has era-07 marks: emdash=16 semicolon=6)
 - 2026-09-26 | 7 1850-1900 + whole-file self-review | revised to v2 (T-234b) | 0 errors | emdash=0 semicolon=0
+- 2026-09-26 | 8 1900-1950 | era revised to v2 (T-234c) | 0 errors | era clean (file still has later-era marks: emdash=30 semicolon=9)
