@@ -2160,4 +2160,23 @@ RESULT: DONE. 160,469 tokens, 27 tool uses, 7 min. MEASURED: validator 0 · --pu
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-240-science.md (unit 4)
 VERIFY: science --stage prose SHOULD PASS. Then T-240e closes the collected blocking gaps.
+RESULT: *** PASS. science passes prose. ***
+        PASS  science / prose
+          measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=25 (verified 25)
+          ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15888w files=3 validator_errors=0
+        Part 3 is about 8,800 words, with 13 stories. Outline claims left out: 26. Defects
+        fixed: institutions as actors, "billions to hundreds", "the universe got bigger". Two
+        quotes containing em dashes were split with no word changed.
+        BLOCKING GAPS for the chapter: about 18, listed in the checkpoint (who pulled Cade's
+        teeth, Shaw, Allen's amputation, who decided against evacuating Trinity, who cut Lacks's
+        cells, the Fernald, prisoner and Vanderbilt experiments, what Nazi eugenics was, why
+        CO2 matters, plus the part 1 and part 2 gaps).
+        RULE SLIP for audit: T-240b wrote identity glosses from general knowledge (Newton's first
+        name, "Swedish botanist" and similar). These are small breaches of DECISIONS #13.
+
+### 2026-09-26 | [CLOUD] T-240e | science: close the collected BLOCKING GAPS (bank + all 3 parts)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-240-science.md, section "BLOCKING GAPS"
+VERIFY: science still PASSES research and prose. Each gap is marked closed or genuinely-unknown
+        in the checkpoint.
 RESULT:

@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-240d in flight:** writing `science` part 3 (eras 8-10). Parts 1 and 2 are done. T-240e (the gap patch) follows. The pre-write bank check (T-240a) is done: 17 patches, research PASS.
+**T-240e in flight:** closing science's collected blocking gaps (bank + prose). **science PASSES prose** (T-240d done). The pre-write bank check (T-240a) is done: 17 patches, research PASS.
 **immigration PASSES prose and research** (T-237, T-238, T-239 done). Only the tung-trinh story waits on Jon.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
