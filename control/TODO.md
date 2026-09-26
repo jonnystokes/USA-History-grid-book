@@ -11,8 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-242e in flight:** closing land-environment's 13 blocking gaps. **land-environment PASSES prose**
-(T-242d done).
+**T-243a in flight:** pre-write bank check for `economy`.
+Written and passing: native-nations, city-building, immigration, science, elements, land-environment.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 

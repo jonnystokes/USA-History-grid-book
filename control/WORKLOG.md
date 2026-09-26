@@ -2354,4 +2354,18 @@ RESULT: *** PASS. land-environment passes prose (15 stories verified, 15,639w). 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md, "BLOCKING GAPS"
 VERIFY: land-environment still PASSES research and prose.
+RESULT: DONE. 293,624 tokens, 155 tool uses, 19 min. Prose and research PASS. Manuscript 16,865w,
+        bank 17,687w.
+        13 gaps: 12 closed (7 in full, 5 in part). GENUINELY UNKNOWN with sources listed: To Tu Ya's
+        uncle, the Tukudika removal force and numbers, the Glacier bacon suppliers and officials,
+        who ordered the 1969 Yosemite eviction (the park historian says no record exists), the
+        Cuyahoga oil's owner, the Love Canal home builders.
+        CORRECTIONS: Miantonomi's death was ordered by the United Colonies commissioners, not by
+        Connecticut alone. John Young was the Blackfeet agent from 1876, not 1879.
+T-242 COMPLETE: land-environment, 6 agents (one killed and salvaged).
+
+### 2026-09-26 | [CLOUD] T-243a | economy: pre-write bank check
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md
+VERIFY: economy --stage research still PASSES.
 RESULT:

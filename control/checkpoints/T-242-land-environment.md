@@ -1,6 +1,6 @@
 # CHECKPOINT T-242 | land-environment | pre-write bank check, prose in 3 parts, gap close
 
-STATUS: IN-FLIGHT
+STATUS: DONE (2026-09-26. Prose and research PASS.)
 VERIFY: step a: --check land-environment --stage research still PASSES. Steps b-d:
         --check land-environment --stage prose.
 PLAN:   T-242a bank check · T-242b part 1 (eras 1-5) · T-242c part 2 (eras 6-7) ·

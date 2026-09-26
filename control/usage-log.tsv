@@ -140,3 +140,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-242c	write-prose	general-purpose	[CLOUD] land-environment part2 (KILLED by usage limit)	?	?	?	?	?	?	?	killed	era 6 committed, era 7 written half
 2026-09-26	T-242c2	write-prose	general-purpose	[CLOUD] land-environment part2 continuation	?	?	?	152221	19	315659	?	completed	completed the half-written era
 2026-09-26	T-242d	write-prose	general-purpose	[CLOUD] land-environment part3 (3 eras)	?	?	?	?	?	?	5300	completed	chapter PASS prose; 8 blocking gaps
+2026-09-26	T-242e	research+fix	general-purpose	[CLOUD] land-environment blocking gaps	?	?	?	293624	155	1157474	?	completed	12 of 13 closed
