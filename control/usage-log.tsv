@@ -125,3 +125,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-237b2	revise	general-purpose	[CLOUD] immigration part2 revised from patched bank	?	?	?	171337	28	384330	5296	completed	hard subjects now stated
 2026-09-26	T-237c	write-prose	general-purpose	[CLOUD] immigration part3 (3 eras)	?	?	?	209287	35	614520	?	completed	chapter PASS prose
 2026-09-26	T-239	research+fix	general-purpose	[CLOUD] immigration who-did-it gaps (bank + part 3)	?	?	?	192529	87	771530	?	completed	both PASS
+2026-09-26	T-240a	research	general-purpose	[CLOUD] science pre-write bank check	?	?	?	184447	82	665413	?	completed	17 patches
