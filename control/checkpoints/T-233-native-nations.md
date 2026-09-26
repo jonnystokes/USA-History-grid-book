@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT (part 1 DONE and verified by the director 2026-09-26. T-233b working on part 2. Part 3 to go)
+STATUS: IN-FLIGHT (parts 1 and 2 DONE: part 1 verified by the director 2026-09-26, part 2 landed by T-233b. Part 3 to go)
 VERIFY: python tools/project_state.py --check native-nations --stage prose
         (per part: python tools/project_state.py --punct manuscript/native-nations/<part>.md)
 BRIEF:  standard REVISION brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233b: unit 6 landed. Working on unit 7 (part 2, era 1850-1900).
-NEXT:   part 2, era 1850-1900.
+NOW:    T-233b done. Part 2 (units 6-7) landed and self-reviewed. Part 3 not started.
+NEXT:   part 3, era 1900-1950.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -35,7 +35,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 4 | part1 era 1700-1750 | landed | commit T-233a 1700-1750 |
 | 5 | part1 era 1750-1800 | landed | commit T-233a 1750-1800 |
 | 6 | part2 era 1800-1850 | landed | commit T-233b 1800-1850 |
-| 7 | part2 era 1850-1900 | working | T-233b |
+| 7 | part2 era 1850-1900 | landed | commit T-233b 1850-1900 |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -54,6 +54,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1750-1800: Washington's Haudenosaunee name Conotocaurius (bank §5 Revolution); the Seneca address dated 1790 (bank §5); "ratified" defined as formally approved.
 - Canasatego named as the 1744 speaker (already in the file's 1700-1750 era; bank §4) -> Great Law span.
 - 1800-1850 (T-233b): Tenskwatawa was known as "the Prophet", hence Prophetstown (bank §6 Tecumseh); the 1811 fight named as the Battle of Tippecanoe and the burning dated November 8 (bank §6); Library of Congress lists Sequoyah's birth as 1770 with a question mark (bank §6 Cherokee renaissance); the Seminole war named as the Second Seminole War (bank §6 Seminole).
+- 1850-1900 (T-233b): the Long Walk named (bank §7 wars); Sand Creek Massacre National Historic Site (bank §7, NPS source); Britannica entry titled "Wounded Knee Massacre" (bank §7); soldier crossfire attributed to Britannica and History.com (bank §7); Nez Perce distance "up to about 1,700 miles" in some accounts (bank §7 After and Disputes 5); Pratt's line misquoted as "kill the Indian, save the man", recorded words printed in the conference's official report (bank §7 schools); punishments tied to speaking one's language, and survivor accounts as a second source (bank §7 On arrival); outing system in summers and school terms (bank §7); burial sites "marked and unmarked" (bank §7 Scale); Meriam Report dated 1928 (bank §7 Half-day labor); Zitkala-Sa named as a student who turned the schooling against the policy (bank §7 other half); Wovoka from the Walker Lake country of Nevada (bank §7 Wounded Knee).
 
 ## Decisions and known gaps
 
@@ -71,6 +72,13 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - DEFECT FIXED (self-contradiction): Cahokia was said to be lived in "to about 1400" and its people "gone by about 1350". Bank §1 gives both (occupied ~700-1400, dispersed by ~1350). Prose now says the people had scattered by about 1350 and nobody lived there by about 1400.
 - T-233b DEFECT FIXED (suspense + false framing): the 1800-1850 era zoom withheld the law's name until its last paragraph ("the United States answered both of them with the same law") and framed the Removal Act as the answer to Tecumseh's confederacy, though the file's own span shows that confederacy ended in war in 1811-1813. Zoom now states up front that both ways failed and gives each outcome.
 - T-233b NOTE (not changed): the Removal span says Cherokee leaders took their fight with Georgia to the courts, then cites Worcester v. Georgia. The bank does not name the parties to Worcester. The prose no longer implies the Cherokee Nation was the party in that case, but a successor must not add the party from memory.
+- T-233b DEFECT FIXED (self-contradiction): the 1850-1900 era zoom said "beginning in 1879 the government built a system of boarding schools", while the schools span dates the federal schools 1819-1969. Zoom now says Pratt opened the first federal boarding school built far from the reservations in 1879 and officials used it as the model.
+- T-233b DEFECT FIXED (minimization): Chief Joseph story said only "some accounts give a longer distance". Now gives the bank's upper figure, about 1,700 miles.
+- T-233b DEFECT FIXED (imprecise word / softening): Sand Creek and Wounded Knee were told without the word massacre. Added the NPS site name and the Britannica entry title, with "massacre" defined.
+- T-233b DEFECT FIXED (evaluative/meta): era zoom opened "These fifty years are the hardest in this chapter" and closed on "how to keep a people alive" (banned phrase). Replaced with the facts and three dated examples of leaders' choices.
+- T-233b RULE DECISION: where the bank names no actor for a harm (the Mankato hanging, Crazy Horse's killing, who took Zitkala-Sa, who promised and who overruled Joseph's return), the prose states that the sources do not identify them, following T-233a. The group-name rule from T-233a (a people may act, an institution may not) is kept. Sources and reports take only approved verbs (states, lists, records, identifies).
+- T-233b NOTE: the final era zoom's closing clause "the number the next century starts from" was cut as a closing line. Part 3 era 1900-1950 must open from the 1900 low point itself if it wants that link.
+- Part 2 self-review done (V2 Self-Review + amendment §5): marker lines and record keys verified identical to pre-revision; prose words 3,670 -> about 4,500; average sentence about 14 words; hard words defined at first use (confederacy, void, syllabary, constitution, abolished, sovereignty, flag of truce, condemned, federal, recognized, reservation, military commission, interpreter, reprieved, mass execution, massacre, cavalry, bayonet, agency, allotment, surplus, rider, rations, annuities, Commissioner, Indian agent, solitary confinement, autobiography, copyright, uprising, disarming, band, carbine).
 
 ## Log
 
@@ -82,3 +90,5 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 5 1750-1800 | full v2 revision of era zoom, 4 spans, Little Turtle story | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | part 1 self-review | definitions, era-opening variety, institution-subject pass | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | unit 6 1800-1850 (T-233b) | full v2 revision of era zoom, 4 spans, Tecumseh, Sequoyah, Neugin, Osceola stories | 0 errors | file emdash=21 semicolon=11 (era 1800-1850 has 0)
+- 2026-09-26 | unit 7 1850-1900 (T-233b) | full v2 revision of both era zooms, 5 spans, Sitting Bull, Chief Joseph, Winnemucca, Zitkala-Sa stories | 0 errors | file emdash=0 semicolon=0
+- 2026-09-26 | part 2 self-review (T-233b) | agent verbs, source verbs, definitions, sentence length, story first/last lines | 0 errors | file emdash=0 semicolon=0
