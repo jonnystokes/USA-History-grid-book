@@ -123,3 +123,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-237b	write-prose	general-purpose	[CLOUD] immigration part2 (2 eras)	?	?	?	177684	26	457630	2470	completed	bank gaps on hard subjects found
 2026-09-26	T-238	research	general-purpose	[CLOUD] immigration bank patch, hard-subject gaps eras 6-10	?	?	?	212928	133	1029108	?	completed	9 units; bank -> 17351w
 2026-09-26	T-237b2	revise	general-purpose	[CLOUD] immigration part2 revised from patched bank	?	?	?	171337	28	384330	5296	completed	hard subjects now stated
+2026-09-26	T-237c	write-prose	general-purpose	[CLOUD] immigration part3 (3 eras)	?	?	?	209287	35	614520	?	completed	chapter PASS prose

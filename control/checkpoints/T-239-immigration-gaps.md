@@ -1,0 +1,20 @@
+# CHECKPOINT T-239 | immigration | bank patch + part 3 update | the small "who did it" gaps
+
+STATUS: IN-FLIGHT
+VERIFY: python tools/project_state.py --check immigration --stage prose must still PASS, and
+        --check immigration --stage research must still PASS.
+FILES:  research/research-immigration.md (append) · manuscript/immigration/part3-1900s-and-today.md
+
+## Units
+
+| # | gap (from T-237c) | state | landed |
+|---|------|-------|--------|
+| 1 | Boat-people piracy: who the pirates were, as sources identify them | todo | |
+| 2 | Operation Wetback, 1955: the 88 sunstroke deaths. How they died (where deportees were left, the conditions) | todo | |
+| 3 | Reinaldo Arenas: who jailed him (named officials or the named body) | todo | |
+| 4 | Lost Boys of Sudan: who killed their parents and burned their villages, as sources state it | todo | |
+| 5 | Villegas González: the officer who shot him, or the agency and the outcome | todo | |
+| 6 | 2018 family separations: the DHS officials who carried out the policy (named) | todo | |
+| 7 | A primary source for "Donald Trump became president on January 20, 2025" | todo | |
+
+## Log

@@ -2062,4 +2062,26 @@ VERIFY: python tools/project_state.py --check immigration --stage prose SHOULD P
 HELD: the Tung Trinh / Bolinao 52 story is NOT written until Jon rules on the cannibalism
       omission. The writer leaves it out and lists it under BLOCKING GAPS. A small follow-up adds
       it after the ruling.
+RESULT: *** PASS. immigration is the FIRST NEW CHAPTER written under v2 + the bank-only rule. ***
+        209,287 tokens, 35 tool uses, 10 min.
+        PASS  immigration / prose
+          measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20)
+          ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15288w files=3 validator_errors=0
+        STORIES (part 3): Frank Capra, Doukenie Bacos, Lee Puey You, Antonio Garcia (bracero),
+        Reinaldo Arenas, Sergey Brin, Giannis Antetokounmpo, the Lost Boys of Sudan. The
+        tung-trinh story is HELD for Jon.
+        DEFECTS FIXED: the outline's plans for eras 9 and 10 omitted Operation Wetback, the
+        boat deaths and the separations. The outline minimized the Repatriation. The bank
+        personified. The bank's Angel Island board contradicts itself.
+        BLOCKING GAPS (small, "who did it"): the pirates, the mechanism of the 88 sunstroke deaths
+        in 1955, Arenas's jailers, the killers of the Lost Boys' parents, the officer who shot
+        Villegas González, the DHS official for the 2018 separations. -> T-239.
+        CHECK: "Donald Trump president from January 20, 2025" rests on a DHS press-release title.
+        The fact is correct. The bank needs a primary source for it.
+T-237 COMPLETE: immigration written in 5 agents plus 1 bank patch (T-238).
+
+### 2026-09-26 | [CLOUD] T-239 | immigration: fill the small "who did it" gaps (bank + part 3)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-239-immigration-gaps.md
+VERIFY: immigration still PASSES both research and prose.
 RESULT:
