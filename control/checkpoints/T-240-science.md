@@ -11,7 +11,7 @@ SUBJECT NOTES for the bank check: science's own hard subjects include research d
         Project's human costs and radiation experiments on people). The bank check decides what
         belongs to science and what belongs to `health` (medicine) or `war`, using the registry.
 
-NOW:    T-240c landed (part 2, eras 6-7, manuscript/science/part2-1800s.md).
+NOW:    T-240d in progress (part 3, eras 8-10, manuscript/science/part3-1900s-and-today.md).
 NEXT:   T-240d: write part 3 (eras 8-10)
 
 ## Units
@@ -21,7 +21,7 @@ NEXT:   T-240d: write part 3 (eras 8-10)
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | todo | |
+| 4 | part3 eras 8-10 | in progress | |
 
 ## Gaps found and filled (unit 1)
 - Human remains taken for study: Morton skulls (era 6), Army Medical Museum Native skulls (era 7), Hrdlicka/Smithsonian (era 8), NMAI Act + NAGPRA (era 9), Penn 2021 / Smithsonian 2023 apologies, ProPublica Jan 2025 count, 2024 NAGPRA rule (era 10).
@@ -77,3 +77,4 @@ NEXT:   T-240d: write part 3 (eras 8-10)
 - 2026-09-26 T-240c: era 1800-1850 written (about 1,650 words, 3 stories: james-smithson, joseph-henry, maria-mitchell). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
 - 2026-09-26 T-240c: era 1850-1900 written (about 1,800 words, 3 stories: josiah-willard-gibbs, albert-michelson, williamina-fleming). Part 2 total about 3,500 words, 6 stories. Validator --part: 0 errors. --punct: emdash=0 semicolon=0. Unit 3 landed.
 - T-240c defects in the sources, fixed in prose only: bank's Penn quote "not above robbing graves" (litotes, softening) written as "robbed graves"; bank's undated "settled in the 2020s" replaced by the patch dates; bank's agentless "was used to defend slavery" and "forced Yale to pay" and outline's "Congress argued" / "Europe understood" given human actors; outline's gnomic "Science's authority can be misused; this era proves it" and antithesis "public service, not a private hobby" dropped.
+- 2026-09-26 T-240d: era 1900-1950 written (about 3,850 words, 6 stories: frank-chapman-bird-count, robert-goddard, edwin-hubble, albert-einstein-science, emilio-segre-science, barbara-mcclintock). Validator --part: 0 errors. --punct: emdash=0 semicolon=0.
