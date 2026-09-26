@@ -105,8 +105,9 @@ every founding sentence in that chapter for who was already on the ground.
   what the operation was, what it did to the person, and by what method, and say so if the
   record does not give the method. Research is queued in `workspace/native-nations.md`.
   `native-nations` prose is already written, so this is an insertion into a finished chapter.
-- **Oñate / Acoma death toll and sentences** — explicitly **not** verified. Do not write it
-  until it is resolved.
+- **Oñate / Acoma death toll and sentences: RESOLVED.** The native-nations bank verified the
+  Acoma section on 2026-09-07, with the death-toll spread and the sentences attributed to named
+  sources. This entry was stale until 2026-09-26. T-233a wrote from that verified section.
 - **~140 per-chapter open questions** in the `workspace/<slug>.md` files under "Open questions
   for the director". These were always meant to be answered in each chapter's turn.
 
@@ -162,3 +163,8 @@ will be worded differently, which is exactly why a search will not find it.
 - **Control documents still contain em dashes and semicolons.** CLAUDE.md, the amendment and
   the new cloud files are clean. RESUME.md, AGENT-BRIEF.md, ROADMAP.md and the policy's
   remaining semicolons are not. Writers read them, so a cleanup pass is cheap and useful.
+- **Acoma, 1598 (from T-233a, 2026-09-26).** The All Pueblo Council of Governors' account says
+  Zaldívar's soldiers "assaulted an Acoma woman" (bank, Acoma section). The bank leaves whether
+  and how the book states this to the director. The revised part 1 does not include it. Jon to
+  rule under `hard-subjects-policy.md`. The Pueblos' own statement is a named source.
+

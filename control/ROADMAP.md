@@ -128,7 +128,7 @@ Gate: `python tools/project_state.py --check <slug> --stage prose`
   farm-labor figures (FY2024) · element 120 (no discovery as of 2026) · nuclear restarts and
   SMRs · gig-work litigation (Pew data is Aug 2021) · federal privacy law status ·
   Confederate monument removals · wolf delisting · Oñate/Acoma death toll and sentences
-  (explicitly **not** verified, so do not write it until resolved).
+  (RESOLVED: verified in `research/research-native-nations.md` on 2026-09-07).
 
 **Order:** the researched-and-clean chapters first, then the patched ones, then the newly
 researched. `native-nations` and `city-building` are done and set the house voice.

@@ -110,3 +110,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 # There is NO clean fix-type row yet, and no research or write-prose row measured
 # under the bracketing rule above. Do not size anything off this table until each
 # category has at least two clean rows.
+2026-09-26	T-233a	revise-v2	general-purpose	[CLOUD] native-nations part1 v2 revision (5 eras, 4592w)	?	?	?	214939	53	749681	5352	completed	first v2 revision; words +17%; 6 commits; punct 0/0

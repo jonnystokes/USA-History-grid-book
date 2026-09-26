@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT
+STATUS: IN-FLIGHT (part 1 DONE and verified by the director 2026-09-26. Parts 2 and 3 to go)
 VERIFY: python tools/project_state.py --check native-nations --stage prose
         (per part: python tools/project_state.py --punct manuscript/native-nations/<part>.md)
 BRIEF:  standard REVISION brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)

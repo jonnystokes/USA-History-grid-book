@@ -1790,4 +1790,25 @@ VERIFY: python tools/project_state.py --punct manuscript/native-nations/part1-be
 BASELINE: 4,592 prose words, 28 em dashes, 9 semicolons.
 EXPECT: the first test of how an agent applies v2. Watch for word loss (lossy summarization)
         and for the punctuation-swap shortcut.
+RESULT: DONE (part 1). 214,939 tokens, 53 tool uses, 12.5 min. Six commits, one per era plus
+        a whole-file review.
+        MEASURED: --punct emdash=0 semicolon=0 · validator (--part) 0 errors · every marker line
+        and record key identical to the pre-revision file · prose words 4,592 -> 5,352 (+17%),
+        so no sign of lost facts. The words went up because hard words were defined and named
+        actors were added.
+        REPORTED: about 40 personifications and agentless passives repaired, about 25 cadence
+        moves, about 20 hard words defined, 3 hedges attributed, 1 withheld fact moved to the
+        front. BEYOND STYLE: 3 self-contradictions fixed (Cahokia end dates, Paquiquineo record,
+        treaty timing). The Comanche were wrongly called a confederacy. The Acoma dispute was
+        told from one side. Bank facts were added and are listed in the checkpoint.
+        Director check: the Acoma section is VERIFIED in the bank (2026-09-07). The ROADMAP and
+        AUDIT-QUEUE "do not write" flag was stale and is now marked resolved.
+        PARKED: the Pueblos' account of an assault on an Acoma woman needs a ruling from Jon.
+
+### 2026-09-26 | [CLOUD] T-233b | Revise native-nations PART 2 (eras 6-7) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-233-native-nations.md (units 6-7)
+VERIFY: python tools/project_state.py --punct manuscript/native-nations/part2-1800s.md must print
+        0/0. The validator (--part) must be clean.
+BASELINE: 3,697 prose words, 27 em dashes, 18 semicolons.
 RESULT:
