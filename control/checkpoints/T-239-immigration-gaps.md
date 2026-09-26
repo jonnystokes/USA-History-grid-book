@@ -15,6 +15,6 @@ FILES:  research/research-immigration.md (append) · manuscript/immigration/part
 | 4 | Lost Boys of Sudan: who killed their parents and burned their villages, as sources state it | done | bank era 10 PATCH T-239 |
 | 5 | Villegas González: the officer who shot him, or the agency and the outcome | done | bank era 10 PATCH T-239 |
 | 6 | 2018 family separations: the DHS officials who carried out the policy (named) | done | bank era 10 PATCH T-239 |
-| 7 | A primary source for "Donald Trump became president on January 20, 2025" | todo | |
+| 7 | A primary source for "Donald Trump became president on January 20, 2025" | done | bank era 10 PATCH T-239 |
 
 ## Log
