@@ -25,6 +25,8 @@ From 1901 to 1909, President Theodore Roosevelt put about 230 million acres unde
 On March 14, 1903, Roosevelt made Pelican Island, in Florida, the first federal bird reservation. It became the first piece of what is now the National Wildlife Refuge System. In 1905 the U.S. Forest Service was set up to run the national forests. Gifford Pinchot was its first chief.
 
 On June 8, 1906, Roosevelt signed the Antiquities Act. Under it, a president could protect land by proclamation, which is an official announcement. Land protected this way is called a national monument. On September 24, 1906, Roosevelt made Devils Tower the first national monument.
+
+A U.S. Forest Service article states that many national forests were made from the ancestral lands of Native nations, the lands their ancestors lived on, and that some still overlap tribal lands. A Park Service web page states that Devils Tower is sacred to dozens of Native nations, including the Arapaho, Cheyenne, Crow, Kiowa, Lakota and Shoshone. The Lakota name for it is Mato Tipila, which means Bear Lodge.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="theodore-roosevelt-land-environment" name="Theodore Roosevelt" movie="The Roosevelts: An Intimate History (2014)" kind="famous" status="verified" -->
@@ -44,11 +46,13 @@ In 1870 US Army troops attacked Heavy Runner's camp of Piikani people on the Mar
 
 Early storms held up supplies in the winter of 1883 and 1884. In December a wagonload of bacon reached the Blackfeet agency near Browning. The Montana Historical Society's textbook describes it as "so old it was contaminated with maggots." Maggots are the young of flies, and they feed on rotting meat. The textbook gives 600 Blackfeet dead of starvation, about one in four of the tribe. Other accounts give counts from 500 to 800. The Assiniboine, another nation, lost about 300 people. The textbook calls it the Starvation Winter.
 
+The sources do not say who sent the spoiled bacon. John Young had been the Indian agent for the Blackfeet since December 1876. An Indian agent was the US official in charge of a reservation. In 1881 Young went to Washington and got $15,000 put back into the reservation's budget. He protested against shrinking supplies and more cuts to the agency's budget. No one acted on his protests, and in September 1883 he resigned. The records do not name the officials who ignored him. The new agent, R. A. Allen, did not arrive until the middle of March 1884.
+
 The same textbook states: "After Starvation Winter, the tribes sold the only resource they had left: land." In 1895 the Blackfeet sold a strip of about 800,000 acres for $1.5 million. Prospectors, people who search for gold and other metals, hoped the strip held gold. Many Blackfeet say the tribe offered the land as a 99-year lease, which is a rental, and never sold it. They also say that because of a surveying mistake, the United States got another 45,000 acres. Under the agreement, the Blackfeet kept the right to hunt, fish, cut wood and gather plants on the land.
 
 At the talks, Little Dog told the US commissioners, the officials sent to buy the land, that the Blackfeet "did not ask the government to come and buy their land." White Calf, a Piikani chief, said: "Chief Mountain is my head. Now my head is cut off."
 
-Prospectors found no gold. In 1897 the strip became a forest reserve. On May 11, 1910, members of Congress made most of it Glacier National Park. After that, the Blackfeet's rights on the land "essentially vanished," in the words of the National Parks Conservation Association, a group that campaigns for the parks. In 1932 a judge of a US District Court ruled that the Blackfeet had no right to hunt in the park. In 1973 a judge ruled that Blackfeet people could enter the park without paying the entrance fee.
+Prospectors found no gold. In 1897 the strip became a forest reserve. On May 11, 1910, members of Congress made most of it Glacier National Park. After that, the Blackfeet's rights on the land "essentially vanished," in the words of the National Parks Conservation Association, a group that campaigns for the parks. By 1912 a park ranger had arrested a Blackfeet tribal member for hunting in the park. The sources do not name the ranger or the hunter. Judges ruled that the Blackfeet's rights in the park's mountains were obsolete, which means no longer in force. A 2019 High Country News report states that only the right to gather plants remained. In 1932 a judge of a US District Court ruled that the Blackfeet had no right to hunt in the park. In 1973 a judge ruled that Blackfeet people could enter the park without paying the entrance fee.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hetch Hetchy" -->
@@ -134,7 +138,9 @@ In 1944 Forest Service officials worked with the Ad Council, an advertising grou
 > **When and where:** He lived from 1887 to 1948. He worked in New Mexico in the 1920s and later in Wisconsin.
 > **Movie:** *Green Fire: Aldo Leopold and a Land Ethic for Our Time* (2011)
 
-Aldo Leopold began as a forester for the U.S. Forest Service. In 1924 he got the Gila Wilderness, in New Mexico, set aside. Sources call it the first area in the world officially given the label "wilderness area."
+Aldo Leopold began as a forester for the U.S. Forest Service. In 1924 he got the Gila Wilderness, in New Mexico, set aside. Sources call it the first area in the world officially given the label "wilderness area." Frank C. W. Pooler, the Forest Service official in charge of the region, approved Leopold's plan on June 3, 1924. It covered about 755,000 acres. Under the plan the area had no roads, cabins or other buildings, and people could still hunt, fish and graze livestock there.
+
+The Gila had been a homeland of the Chiricahua and Warm Springs Apache. Before Leopold came to New Mexico, US Army soldiers, federal officials and white settlers had forced many Apache people onto reservations. Army soldiers imprisoned Chiricahua and Warm Springs Apache people for defending their land. Of the thousands who had lived in the Gila, only a few hundred survived. US officials later sent the survivors to Fort Sill, Oklahoma, more than 500 miles away.
 
 Leopold later taught at the University of Wisconsin. He bought a worn-out farm in Wisconsin and rebuilt its soil and its woods. On April 21, 1948, he had a heart attack and died while helping to fight a grass fire on a neighbor's land.
 
@@ -168,21 +174,23 @@ People in the chemical industry attacked her. Carson answered them with evidence
 <!-- hb-story:end slug="rachel-carson" -->
 
 <!-- hb-zoom level="span" label="Yosemite's last village" -->
-In 1969 Park Service officials evicted the last Native families who lived in Yosemite Valley. To evict means to force people out of their homes. Their cabins were destroyed.
+In 1969 Park Service officials evicted the last Native families who lived in Yosemite Valley. To evict means to force people out of their homes. Park Service officials destroyed their cabins.
 
-In the 1920s, Ahwahneechee and Paiute families lived in a village in the valley and worked in the park. The Ahwahneechee are also called the Southern Sierra Miwok. Native workers helped build the Ahwahnee Hotel, which was finished in 1927. In 1933 the Park Service built cabins at a new site, called Wahhoga, for families who had been moved out of the old village. The families paid rent, and they paid for their power and water.
+In the 1920s, Ahwahneechee and Paiute families lived in a village in the valley and worked in the park. The Ahwahneechee are also called the Southern Sierra Miwok. Native workers helped build the Ahwahnee Hotel, which was finished in 1927. In 1933 Park Service workers built cabins at a new site, called Wahhoga, for families that park officials had moved out of the old village. Charles Goff Thomson was Yosemite's superintendent, the official in charge of the park, from 1929 to 1937. A history published by Brigham Young University states that Thomson wanted to use the new village to control the Native people in the park. The families paid rent, and they paid for their power and water.
 
 In 1953 Park Service officials made a housing rule. Under it, only permanent government workers could live in the village. As each home fell empty, the officials destroyed it. In 1969 they evicted the families who were still there.
 
-Deborah Tucker's parents lived in the village. She told the National Parks Conservation Association: "The Park Service came and burned the cabins out." Some later magazine accounts say the empty cabins were burned in a firefighting training exercise. A Park Service web page states that a Native home near Camp 4 "was razed in the 1960s when the last Indian village was removed from Yosemite Valley." Razed means torn down completely. Jay Johnson, the last Native park worker who lived in the valley, retired and left in 1996.
+Deborah Tucker's parents lived in the village. She told the National Parks Conservation Association: "The Park Service came and burned the cabins out." Some later magazine accounts say the empty cabins were burned in a firefighting training exercise. A Park Service web page states that a Native home near Camp 4 "was razed in the 1960s when the last Indian village was removed from Yosemite Valley." Razed means torn down completely. Jay Johnson, the last Native park worker who lived in the valley, retired and left in 1996. Erin Davenport, a Yosemite park historian, told the National Parks Conservation Association that park historians have found no record of the reason for the 1969 demolition. No source names the official who ordered it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The river that burned" -->
 On June 22, 1969, oil and trash floating on the Cuyahoga River in Cleveland, Ohio, caught fire. The fire burned for about 20 to 30 minutes before it was brought under control. It was at least the 13th fire on the river since 1868. A fire in 1912 killed five men. A fire in 1952 did $1.3 million in damage.
 
+The river ran past steel mills and other factories. A 2019 Smithsonian magazine article names American Ship Building, the Sherwin-Williams Paint Company, Republic Steel and Standard Oil as the Cleveland companies whose growth left the river polluted. The 1969 fire started in oil and trash caught under two railroad bridges near the Republic Steel mill. A flare thrown from a passing train most likely lit it. Investigators from Cleveland's Bureau of Industrial Wastes looked into the fire, and none of the sources names the company whose oil burned.
+
 On August 1, 1969, *Time* magazine showed the burning river to readers across the country. Carl Stokes was Cleveland's mayor and the first Black mayor of a major US city. The day after the fire, he held a news conference at the river and called on the state and federal governments to act.
 
-Five months before the fire, in January 1969, an oil spill blackened the beaches at Santa Barbara, California.
+Five months before the fire, on January 28, 1969, an oil well blew out under Platform A, a Union Oil Company drilling platform about 6 miles off Santa Barbara, California. A blowout is an uncontrolled burst of oil and gas up a well. Officials of the U.S. Geological Survey, the federal agency that approved offshore drilling, had excused Union Oil from a federal safety rule. The rule required more steel pipe lining the well. Federal and state investigators found that the extra pipe would have prevented the blowout. The oil blackened the beaches at Santa Barbara.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Earth Day and the new laws" -->
@@ -198,7 +206,9 @@ From the 1940s into the 1950s, workers for Hooker Chemical buried more than 20,0
 
 The canal, called Love Canal, covered 15 acres. Hooker Chemical and Plastics Corporation began using it in 1942. Sources give the amount and the years a little differently. One figure is about 21,000 tons from 1942 to 1953. A chronology kept by the University at Buffalo states "over 20,000 tons of toxic chemicals" from 1942 to 1952. Investigators later found more than 200 chemical compounds there. The chronology lists 200 tons of dioxin. Dioxin is a group of chemicals that cause cancer and harm babies before they are born.
 
-In 1953 Hooker sold the covered canal to the Niagara Falls Board of Education for $1. Hooker's officials wrote into the deed "a disclaimer of responsibility for future damages due to the presence of buried chemicals." A deed is the paper that passes ownership of land to a new owner. A disclaimer is a statement that refuses blame. A school, the 99th Street School, and about 100 homes were built on and beside the canal.
+In a 1994 decision, federal judge John T. Curtin wrote that Hiram Young, Hooker's works manager, was responsible for the company's waste disposal. The court record does not say who first decided to use the canal as a dump. In 1946 Ansley Wilcox, Hooker's lawyer, visited the dump and saw children carrying what looked like swimsuits. He warned Hooker's president, E. R. Bartlett, that the company was "running a real hazard," and he suggested guards or a fence. Hooker's executives talked about his ideas, but they never built the fence. City of Niagara Falls workers also dumped the city's own waste in the canal until 1953.
+
+In 1953 Hooker sold the covered canal to the Niagara Falls Board of Education for $1. Hooker's officials wrote into the deed "a disclaimer of responsibility for future damages due to the presence of buried chemicals." A deed is the paper that passes ownership of land to a new owner. A disclaimer is a statement that refuses blame. In 1954 the members of the Board of Education had a public elementary school, the 99th Street School, built on the middle third of the canal. That January their architect, Charles Thiele, wrote that the builders had dug into two pits of chemical waste, some of it in 55-gallon drums. He wrote that it was "poor policy to attempt to build over this soil." Building of homes on 97th and 99th Streets, beside the canal, began in 1954. By the spring of 1978, 99 homes had backyards that touched the canal. No source names the companies that built the homes.
 
 By the 1970s, chemicals were coming up into yards and basements. On October 3, 1976, chemicals from the buried waste were reported "seeping into basements of homes." In November 1976, testers found 15 chemicals, including three toxic chlorinated hydrocarbons, a kind of chemical that contains chlorine. Families in the neighborhood counted miscarriages, birth defects and illness. A miscarriage is the death of an unborn baby before it can live outside its mother's body. A birth defect is a problem in a baby's body that is there when the baby is born. Dr. Beverly Paigen, a scientist, found a "high rate of birth defects and miscarriages among Love Canal families."
 
@@ -338,13 +348,13 @@ More than 1,000 tons of tiny plastic pieces fall each year on protected land in 
 <!-- hb-zoom level="span" label="Comebacks" -->
 Bald eagles, bison and wolves have come back in large numbers since they nearly disappeared. In the 2020s, the U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles. In 1963 there had been 417.
 
-About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. Recent counts by the U.S. Fish and Wildlife Service and the National Bison Association put about 420,000 bison in commercial herds, which are raised for sale. About 20,500 Plains bison live in herds kept for conservation.
+About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. A count in 2008 found about 20,500 Plains bison in 61 herds kept for conservation. It also found about 400,000 bison in commercial herds, which are raised for sale. A U.S. Fish and Wildlife Service web page now lists about 420,000 bison in commercial herds.
 
-Recent counts put about 500 wolves in the Greater Yellowstone area and more than 1,600 in the northern Rockies. State and tribal counts of wolves differ. People are still fighting in court over whether wolves should stay on the endangered list.
+At the end of 2022, state wildlife officials estimated 2,797 wolves in seven western states. At the end of 2024, Park Service biologists counted 108 wolves living mainly in Yellowstone National Park. People are still fighting in court over whether wolves should stay on the endangered list.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Land given back" -->
-In December 2020, members of Congress passed a law returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge on the Flathead Reservation. It was taken from the reservation in 1908. The tribes took over full management of the range in 2022.
+In December 2020, members of Congress passed a law returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge on the Flathead Reservation. On May 23, 1908, President Theodore Roosevelt signed a law. Under it, federal officials could spend money to buy land in the middle of the reservation for a bison range. The tribes objected strongly. Federal officials took the land anyway and paid about $1.56 an acre. The Fifth Amendment to the Constitution requires fair payment when the government takes private property for public use. In 1971 judges of the U.S. Court of Claims ruled that the price had been below the land's fair value, so the taking broke the Fifth Amendment. They awarded the tribes about $231,548. The tribes took over full management of the range in 2022.
 
 In 2018, Park Service officials in Yosemite agreed to share the care of Wahhoga, the site of the valley's last Native village, for 30 years. They share it with the American Indian Council of Mariposa County. In the winter of 2025, a roundhouse, a round building for gatherings, was finished there.
 <!-- /hb-zoom -->
