@@ -9,7 +9,7 @@ FILES:  research/research-immigration.md (append) · manuscript/immigration/part
 
 | # | gap (from T-237c) | state | landed |
 |---|------|-------|--------|
-| 1 | Boat-people piracy: who the pirates were, as sources identify them | todo | |
+| 1 | Boat-people piracy: who the pirates were, as sources identify them | done | bank era 9 PATCH T-239 |
 | 2 | Operation Wetback, 1955: the 88 sunstroke deaths. How they died (where deportees were left, the conditions) | todo | |
 | 3 | Reinaldo Arenas: who jailed him (named officials or the named body) | todo | |
 | 4 | Lost Boys of Sudan: who killed their parents and burned their villages, as sources state it | todo | |
