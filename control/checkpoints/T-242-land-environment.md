@@ -15,7 +15,7 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242d unit 4, era 09 (1950-2000) of manuscript/land-environment/part3-1900s-and-today.md. Check the
+NOW:    T-242d unit 4, era 10 (2000-today) of manuscript/land-environment/part3-1900s-and-today.md. Check the
         file for a half-written era before resuming.
 NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose check.
 
@@ -75,4 +75,5 @@ NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose 
 - 2026-09-26 T-242c part2 1800-1850 written (stories john-james-audubon, henry-david-thoreau): file ~1,050 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242c part2 1850-1900 appended (killed by the usage limit before its self-review). Era 07 held only the land-taking, 1850 fire law and Yosemite spans.
 - 2026-09-26 T-242c2 self-review of part 2. Added era 07 spans on the hide hunters, the officers, the officials in Washington (Grant's 1874 pocket veto, the disputed Sheridan speech), the pigeon nestings, Yellowstone and the Tukudika (Norris 1879, Ward v. Race Horse), and the forest reserves, plus stories frank-mayer and john-muir, all from the bank. Defects fixed: the era summary stated bison, pigeon and Yellowstone facts that no span told. "It [the Yosemite Grant] set aside" and "Lincoln's government gave it" were personification. "Grant made Yellowstone" is now "signed the act". "Passed out of the nations' hands" is now "the nations lost". To Tu Ya's agentless "destroyed" now names the battalion's men. Era 06 repeated the 60-80 percent sentence in its era summary. "Later parks removed" is now Yellowstone's superintendent in 1879. Nothing was removed as unsupported. Part 2 has 5,017 words, validator 0 errors, --punct emdash=0 semicolon=0. Unit 3 landed.
-- 2026-09-26 T-242d part3 1900-1950 written (stories theodore-roosevelt-land-environment, gifford-pinchot, press-clay-southworth, caroline-henderson, aldo-leopold): file ~3,100 words, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-242d part3 1900-1950 written (stories theodore-roosevelt-land-environment, gifford-pinchot, press-clay-southworth, caroline-henderson, aldo-leopold): file ~2,800 words, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-242d part3 1950-2000 written (stories rachel-carson, lois-gibbs): file 5351 words, validator 0 errors, --punct emdash=0 semicolon=0.
