@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-235a in flight:** research on `war` eras 5-7. T-235b (eras 8-10) follows. Checkpoint:
+**T-235b in flight:** research on `war` eras 8-10, the last slice. Eras 1-7 are done. Checkpoint:
 `control/checkpoints/T-235-war.md`.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

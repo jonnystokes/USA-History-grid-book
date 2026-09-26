@@ -1915,4 +1915,23 @@ CHECKPOINT: control/checkpoints/T-235-war.md (units 1-3)
 VERIFY: eras 5-7 end with progress="researched", 0 target, 0 candidate and 0 [VERIFY] in
         those eras. The chapter FAILs until eras 8-10 are done (T-235b).
 EXPECT: about 6 stories. The policy's war ruling is individual scale.
+RESULT: DONE (eras 5-7). Three commits. Measured per era: 1750-1800, 1800-1850 and 1850-1900
+        are progress="researched", with 0 target, 0 candidate and 0 [VERIFY]. Chapter: stories
+        16 (v10 c0 t6), 1 [VERIFY], bank 14,157w vs outline 9,523w, validator 0 errors. All the
+        remaining targets and the tag are in eras 8-10.
+        STORIES: Washington; Joseph Plumb Martin (replaces the private target); Deborah
+        Sampson; John Riley of the San Patricios (lashing and branding told in full); Grant and
+        Lee (including Lee having Wesley Norris whipped); Amos Humiston; Christian Fleetwood
+        (USCT); Cathay Williams (Buffalo Soldiers).
+        DISPUTES RECORDED: Civil War dead (620,000 vs 750,000), Revolution battle deaths,
+        prison-ship dead, Sampson's wound, Fort Pillow's Black dead, Riley's brand.
+        LEFT OUT RATHER THAN HEDGED: the 1863 draft, Humiston's wound, and Riley's and
+        Williams's death dates.
+
+### 2026-09-26 | [CLOUD] T-235b | Research war ERAS 8-10 - LAST SLICE
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-235-war.md (units 4-6)
+VERIFY: python tools/project_state.py --check war --stage research SHOULD PASS.
+EXPECT: 6 targets and 1 [VERIFY]. Hand-offs from T-235a are in workspace/war.md. This is the
+        last agent on the chapter, so it also audits every era's progress= flag.
 RESULT:

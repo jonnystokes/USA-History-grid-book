@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT
+STATUS: IN-FLIGHT (units 1-3 landed and verified by the director. T-235b owns units 4-6)
 VERIFY: python tools/project_state.py --check war --stage research
 BRIEF:  standard research brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5).
         The LAST agent also gets the progress-flag line.
