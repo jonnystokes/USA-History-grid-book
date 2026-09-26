@@ -196,4 +196,11 @@ will be worded differently, which is exactly why a search will not find it.
   about 78 across the chapter. See the city-building bank-gap item above. Also, Anderson's age:
   "eight in 1958" and "approaching 83 in 2022" cannot both be true. The bank says they agree.
   The prose states both, attributed to Sahan Journal. Resolve it from the source.
+- **Proposal for Jon (2026-09-26): writers take facts from the bank, not the outline.** The
+  city-building gap came from prose written off the outline's inline notes. A number probe
+  (`tools/bank_coverage.py`) cannot detect it, because the missing claims are qualitative. The
+  prevention is one brief line: "Every fact in your prose must be in the research bank. When
+  the outline states something the bank does not, do not write it. List it in your report."
+  That may make some chapters thinner. It also makes every sentence traceable. Awaiting
+  Jon's ruling before the Phase 2 writing agents start.
 

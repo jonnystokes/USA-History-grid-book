@@ -115,4 +115,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-233c	revise-v2	general-purpose	[CLOUD] native-nations part3 v2 revision (3 eras, 4537w)	?	?	?	209014	32	714570	5755	completed	chapter PASS prose under v2
 2026-09-26	T-234a	revise-v2	general-purpose	[CLOUD] city-building part1 v2 revision (5 eras, 3810w)	?	?	?	177452	36	525091	4375	completed	words +15%; punct 0/0
 2026-09-26	T-234b	revise-v2	general-purpose	[CLOUD] city-building part2 v2 revision (2 eras, 4238w)	?	?	?	174022	23	586790	4856	completed	words +15%; ~20 claims not in bank found
-2026-09-26	T-234c	revise-v2	general-purpose	[CLOUD] city-building part3 v2 revision (3 eras, 5720w)	?	?	?	?	?	?	6849	completed	chapter PASS prose under v2; ~55 claims not in bank
+2026-09-26	T-234c	revise-v2	general-purpose	[CLOUD] city-building part3 v2 revision (3 eras, 5720w)	?	?	?	225995	34	816499	6849	completed	chapter PASS prose under v2; ~55 claims not in bank
