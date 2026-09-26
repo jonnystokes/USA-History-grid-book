@@ -236,49 +236,49 @@ He gave that speech on July 4, 1744, thirty-two years before leaders of those sa
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-After 1750 the wars between European empires were fought on Native land, and then a new country began taking that land for itself.
+After 1750, French and British forces fought their wars on Native land. Then the leaders and settlers of a new country, the United States, began taking that land for themselves.
 
-Britain beat France in 1763, and the play-off system broke: with one empire left in the east instead of two, no nation could sell its friendship to a rival any more. Thirteen years later the colonies went to war with Britain, and that war split the Haudenosaunee Confederacy for the first time in its history. When the fighting ended, the United States began making treaties with Native nations. It also sent an army into the Ohio Country, and a Native confederacy there handed that army the worst defeat it would ever take from Native forces.
+British forces beat the French in 1763. After that, only one European empire was left in the east. Native nations could no longer play two empires against each other and sell their friendship to the rival. Thirteen years later the colonists went to war with Britain. The Haudenosaunee nations took different sides in that war, and their Confederacy split for the first time in its history. During the war, in 1778, United States officials signed their first treaty with a Native nation. In 1791 a Native confederacy in the Ohio Country destroyed a United States army. It is still the largest defeat Native forces have ever given a United States army.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pontiac and the Line" -->
-In the French and Indian War, from 1754 to 1763, both sides needed Native allies. France lost, and the counterweight was gone.
+France and Britain both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. When France lost, the nations no longer had a second empire to balance against Britain.
 
-In 1763 a loose confederation of nations from the Great Lakes, the Illinois Country, and the Ohio Country, under the Odawa leader Pontiac, took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763. The fighting went on until 1766.
+In 1763 a loose confederation of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
 
-Britain answered with a line. The Royal Proclamation of October 7, 1763 forbade colonists to settle west of the Appalachian Mountains and reserved the land beyond to the nations. Colonists crossed it anyway, and the colonies resented it. But the Line put in writing that the country beyond the mountains was not Britain's to hand out, and later treaty law was built on that.
+British officials answered by drawing a line. They issued the Royal Proclamation on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists resented the line and crossed it anyway. The Proclamation stated in writing that the land beyond the mountains was not Britain's to hand out. Later treaty law was built on that rule.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Revolution splits the Haudenosaunee" -->
-The Great Law had held the Five Nations, and then the Six, together for centuries. The American Revolution broke that unity. The Oneida and the Tuscarora sided with the Americans. The Mohawk, the Seneca, the Cayuga, and the Onondaga fought with the British, many of them under the Mohawk leader Joseph Brant, Thayendanegea. At Oriskany, on August 6, 1777, Haudenosaunee men fought Haudenosaunee men.
+Under the Great Law, the Five Nations, and then the Six, had stayed united for centuries. In the American Revolution they split. The Oneida and the Tuscarora sided with the Americans. The Mohawk, the Seneca, the Cayuga and the Onondaga fought with the British, many of them under the Mohawk leader Joseph Brant, whose own name was Thayendanegea. At the Battle of Oriskany, on August 6, 1777, Haudenosaunee men fought on both sides.
 
-In 1779 George Washington ordered an expedition into their country, with written instructions calling for "the total destruction and devastation of their settlements." From July 31 to October 15, General John Sullivan's army burned more than forty Seneca and Cayuga towns and the crops in their fields. Thousands of people fled to the British at Fort Niagara, and many of them starved or froze there that winter.
+In 1779 George Washington ordered an expedition into Seneca and Cayuga country. In his written orders, Washington directed "the total destruction and devastation of their settlements." From July 31 to October 15, General John Sullivan's soldiers burned more than forty Seneca and Cayuga towns and the crops in their fields. Thousands of people fled to the British at Fort Niagara. That winter many of them starved or froze to death there.
 
-Eleven years later, Seneca chiefs told Washington directly: "When your army entered the country of the Six Nations, we called you the Town-destroyer; and to this day, when that name is heard, our women look behind them and turn pale." The name was not new. Haudenosaunee speakers had given it to Washington in 1753, and to his great-grandfather before him.
+In 1790 Seneca chiefs spoke to Washington directly. "When your army entered the country of the Six Nations, we called you the Town-destroyer," they said, "and to this day, when that name is heard, our women look behind them and turn pale." Haudenosaunee speakers had given Washington that name, Conotocaurius, in 1753. They had given it to his great-grandfather before him.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The treaty system begins" -->
-On September 17, 1778, at Fort Pitt, the United States signed its first treaty with a Native nation. The Lenape — the English called them the Delaware — signed through White Eyes, John Kill Buck Jr., and Pipe. In it the United States recognized Lenape sovereignty, which means the right of a nation to govern itself, and asked for safe passage for American troops. The negotiators also raised the idea of a Native fourteenth state, with representation in Congress. Congress never acted on that.
+On September 17, 1778, at Fort Pitt, United States officials signed their country's first treaty with a Native nation. The Lenape leaders White Eyes, John Kill Buck Jr. and Pipe signed for their nation. The English called the Lenape the Delaware. In the treaty, the American officials recognized Lenape sovereignty, which means the right of a nation to govern itself. They also asked for safe passage for American troops. The negotiators raised the idea of a Native fourteenth state, which would join the thirteen and send its own representatives to Congress. No one in Congress ever acted on that idea.
 
-In all, the United States and Native nations made 374 ratified treaties, the last of them in the 1860s. The National Archives holds them and has put every one online. A treaty is an agreement between nations, and only nations make treaties. Every one of those 374 documents is the United States dealing with a Native nation as a nation.
+In all, United States officials and Native leaders made 374 treaties that were formally approved, or ratified. The last of them date from the 1860s. The National Archives holds all 374, and its archivists have put every one online. A treaty is an agreement that only nations can make with each other. Each of those 374 treaties records United States officials dealing with a Native nation as a nation.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Northwest Confederacy" -->
-North of the Ohio River the nations built a confederacy to hold the river as a boundary. Its leaders included Little Turtle of the Miami, Blue Jacket of the Shawnee, and Buckongahelas of the Lenape.
+North of the Ohio River, the nations built a confederacy to hold the river as their boundary. Its leaders included Little Turtle of the Miami, Blue Jacket of the Shawnee and Buckongahelas of the Lenape.
 
-On November 4, 1791, about a thousand of their fighters met the army of General Arthur St. Clair, about a thousand men, and destroyed it. More than 650 U.S. soldiers were killed and more than 270 wounded. The casualty rate — killed and wounded together — was about 97 percent, the highest of any battle in the history of the U.S. Army. Native losses were roughly 100. It is still the largest defeat a United States army has ever taken from Native forces, larger than the Little Bighorn, which came 85 years later. Congress responded by opening the first congressional investigation in the country's history.
+On November 4, 1791, about a thousand confederacy fighters met the army of General Arthur St. Clair, which also had about a thousand men, and destroyed it. They killed more than 650 U.S. soldiers and wounded more than 270. The casualty rate, which counts the killed and the wounded together, was about 97 percent. No battle in the history of the U.S. Army has had a higher rate. Native casualties were roughly 100. It is still the largest defeat Native forces have ever given a United States army. It was larger than the Battle of the Little Bighorn, fought 85 years later. After the defeat, members of Congress held the first investigation by Congress in the country's history.
 
-The United States came back with a bigger army. On August 20, 1794, at Fallen Timbers, near where Toledo, Ohio, stands today, Anthony Wayne's legion of 3,300 men defeated the confederacy. At Greenville, on August 3, 1795, the confederacy gave up most of Ohio and part of Indiana.
+In 1794 Anthony Wayne led a larger army, a legion of 3,300 men, against the confederacy. On August 20, 1794, at Fallen Timbers, near where Toledo, Ohio, stands today, Wayne's legion defeated the confederacy. At Greenville, on August 3, 1795, the confederacy's leaders signed a treaty and gave up most of Ohio and part of Indiana.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="little-turtle" name="Little Turtle (Mishikinaakwa)" movie="" kind="famous" status="verified" -->
 ### Little Turtle (Mishikinaakwa)
 
 > **Who:** Miami war leader who co-led the confederacy that destroyed St. Clair's army in 1791, then judged the war unwinnable and argued for peace.
-> **When and where:** The Wabash and Maumee country — present-day Indiana and Ohio — in the 1780s and 1790s.
+> **When and where:** The Wabash and Maumee country, in present-day Indiana and Ohio, in the 1780s and 1790s.
 
-Little Turtle was one of the leaders of the confederacy that beat St. Clair on November 4, 1791. It is the largest victory Native forces have ever won over a United States army.
+Little Turtle was one of the leaders of the confederacy that beat St. Clair on November 4, 1791. That battle is the largest victory Native forces have ever won over a United States army.
 
-Three years later the same confederacy lost at Fallen Timbers. Little Turtle judged that the war could not be won. He signed the Treaty of Greenville on August 3, 1795, giving up most of Ohio, and spent his last years arguing against further war with the United States.
+Three years later the same confederacy lost at Fallen Timbers. Little Turtle judged that the war could not be won. On August 3, 1795, he signed the Treaty of Greenville, in which the confederacy's leaders gave up most of Ohio. He spent his last years arguing against more war with the United States.
 <!-- hb-story:end slug="little-turtle" -->
 <!-- hb-time:end id="1750-1800" -->

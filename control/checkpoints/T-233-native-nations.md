@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233a working on part 1. Units 1-4 landed. Unit 5 (era 1750-1800) next.
-NEXT:   part 1, era 1750-1800.
+NOW:    T-233a: units 1-5 landed. Whole-file self-review of part 1 in progress.
+NEXT:   part 1 whole-file self-review, then part 2, era 1800-1850.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -33,7 +33,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 2 | part1 era 1500s | landed | commit T-233a 1500s |
 | 3 | part1 era 1600s | landed | commit T-233a 1600s |
 | 4 | part1 era 1700-1750 | landed | commit T-233a 1700-1750 |
-| 5 | part1 era 1750-1800 | todo | |
+| 5 | part1 era 1750-1800 | landed | commit T-233a 1750-1800 |
 | 6 | part2 era 1800-1850 | todo | |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
@@ -51,6 +51,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1500s (bank §2 and Acoma section): Paquiquineo "appeared before" Philip II and spent nine years "trying to get home" (bank §2 featured person); Onate's colonists brought horses to New Mexico in 1598 (bank §2 horse). Acoma: Juan de Zaldivar was Onate's nephew and Vicente his brother (Acoma §1); Onate gathered the Acoma elders for the ceremony of submission (Acoma §1); the friars' answer quoted, "possessed both the authority and sufficient cause" (Acoma §1, Carlson citing Simmons); the town burned "much of it" (Acoma §1, NPS); trial location disputed, Santo Domingo vs San Juan Pueblo (Acoma §3); children under 12 handed to the friars (Acoma §3, Carlson); APCG count of sixty children, none returned (Acoma §3); Acoma oral account of the right feet of 24 men, NYT 1998 (Acoma §0/§3); Mexico City exile four years, one source five (Acoma §5); Onate's sentence on the two Hopi men stated as a sentence (Acoma §3 table).
 - 1600s: each TRIBE (not town) under its own weroance (bank §3 Tsenacommacah; the prose said "town", corrected to the bank). Covenant Chain made official by Haudenosaunee leaders and Governor Andros (bank §3). "Victors" as the parties of the Treaty of Hartford (bank §3, "handed survivors to the victors"). Metacom's captives sold "to pay the war's costs" -> named as colonial officials, an inference from that purpose (bank §3). Pueblo Revolt "most successful" label attributed to historians (bank §3 sources). Beaver Wars fought "west and north" (bank §3).
 - 1700-1750: Haudenosaunee neutrality "used for half a century to bargain with both sides" (bank §4 Play-off). "Slave raids" as a cause of the Tuscarora War, raiders unnamed (bank §4).
+- 1750-1800: Washington's Haudenosaunee name Conotocaurius (bank §5 Revolution); the Seneca address dated 1790 (bank §5); "ratified" defined as formally approved.
 - Canasatego named as the 1744 speaker (already in the file's 1700-1750 era; bank §4) -> Great Law span.
 
 ## Decisions and known gaps
@@ -62,6 +63,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - DEFECT FIXED (one-sided dispute): the Acoma paragraph gave only the historians who doubt the feet were cut off. Added Acoma's own account (right feet of 24 men, reported by the NYT 1998) from the bank. Also added the trial-location dispute and the APCG count of sixty children, which the prose had resolved silently.
 - DEFECT FIXED (suspense): the 1500s horse paragraph withheld the word "horse" for a sentence. Now named first.
 - DEFECT FIXED (false statement): the 1700-1750 era zoom called the Comanche a "confederacy" ("Confederacies grew... Another built the strongest power on the southern Plains"). The bank never calls the Comanche a confederacy. Prose now names the Haudenosaunee and the Comanche separately.
+- DEFECT FIXED (self-contradiction): the 1750-1800 era zoom said "When the fighting ended, the United States began making treaties", but the span dates the first treaty to September 1778, during the war. Zoom now says "During the war, in 1778".
+- RULE CONFLICT SETTLED: the 1790 Seneca quotation contains a semicolon ("Town-destroyer; and to this day"). Zero semicolons (V2) vs quoting exactly. Settled by quoting the words unchanged in two parts with "they said" between them, so no word changes and no semicolon remains.
 - NOT FIXED, for the director: bank Acoma §1 records the Pueblos' account that Zaldivar's soldiers assaulted (per the Rio Grande Sun, raped) an Acoma woman. The bank says the director decides how the book states it. The prose still gives only the demand for food. Park in AUDIT-QUEUE.
 - DEFECT FIXED (self-contradiction): Cahokia was said to be lived in "to about 1400" and its people "gone by about 1350". Bank §1 gives both (occupied ~700-1400, dispersed by ~1350). Prose now says the people had scattered by about 1350 and nobody lived there by about 1400.
 
@@ -72,3 +75,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 2 1500s | full v2 revision of era zoom, entradas, Paquiquineo story, Acoma span | 0 errors | file emdash=18 semicolon=6 (era 1500s has 0)
 - 2026-09-26 | unit 3 1600s | full v2 revision of both era zooms, 4 spans, Metacom and Po'pay stories | 0 errors | file emdash=10 semicolon=3 (era 1600s has 0)
 - 2026-09-26 | unit 4 1700-1750 | full v2 revision of era zoom, 4 spans, Canasatego story | 0 errors | file emdash=6 semicolon=1 (era 1700-1750 has 0)
+- 2026-09-26 | unit 5 1750-1800 | full v2 revision of era zoom, 4 spans, Little Turtle story | 0 errors | file emdash=0 semicolon=0
