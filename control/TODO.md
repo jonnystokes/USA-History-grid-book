@@ -11,10 +11,13 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-237a in flight:** writing `immigration` part 1 (eras 1-5), the first Phase 2 chapter.
+**T-237b in flight:** writing `immigration` part 2 (eras 6-7). Part 1 is done and verified.
 T-236 is done (the Acoma account is in, and native-nations still PASSES). war PASSES research.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
+
+**Question for Jon (not blocking):** does the group story `jewish-refugees-1654` (only Jacob
+Barsimson named) stand under the named-people rule? (AUDIT-QUEUE)
 
 **Jon ruled 2026-09-26:** (1) writers take facts only from the research bank (DECISIONS #13,
 now in the writing brief). (2) The Acoma assault account goes into native-nations part 1

@@ -1975,4 +1975,23 @@ VERIFY: part file validates (--part) with 0 errors, --punct 0/0, eras 1-5 progre
         every story verified. The chapter check FAILs until parts 2 and 3 exist.
 EXPECT: the first chapter written under v2 plus the bank-only rule (#13). Watch the
         "outline claims not in the bank" list. Its length shows how far outline and bank diverge.
+RESULT: DONE (part 1). Five commits. MEASURED: validator (--part) 0 errors · --punct 0/0 ·
+        5/5 eras progress="written" · 6 stories, all verified · slugs unique · 3,573 prose words.
+        Average sentence 13.1 words (reported).
+        STORIES: Richard Frethorne, Anne Hutchinson, jewish-refugees-1654, John Peter Zenger,
+        Alexander Hamilton, Toussaint.
+        OUTLINE CLAIMS LEFT OUT (bank lacks them): 10. Much less drift than city-building had.
+        DEFECTS FIXED IN PROSE: 5 personifications carried from the outline ("the colony put
+        her on trial", "Portugal retook", "the Company overruled", "Britain shipped", "rice
+        economy imported"). Two chronology slips.
+        FOR JON: jewish-refugees-1654 is a group story in which only Jacob Barsimson is named.
+        Does it stand under the named-people rule?
+        BANK GAPS: no nation named for the land under St. Augustine, Plymouth or New Amsterdam.
+        The bank does not say who fought the Haitian Revolution.
+
+### 2026-09-26 | [CLOUD] T-237b | Write immigration PART 2 (eras 6-7)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-237-immigration.md (units 6-7)
+VERIFY: part2-1800s.md validates (--part) with 0 errors, --punct 0/0, both eras written, every
+        story verified.
 RESULT:

@@ -207,4 +207,10 @@ will be worded differently, which is exactly why a search will not find it.
   Orange, drones, and ordinary WWII and post-9/11 veterans (see `workspace/war.md`).
   PERISHABLE: the 2026 Venezuela operation and Iran war figures. One of them came from a search
   summary (the Washington Post page returned 403). Re-verify before prose.
+- **immigration part 1 (from T-237a, 2026-09-26).** The bank names no Native nation for the land
+  under St. Augustine, Plymouth or New Amsterdam, and does not say who fought the Haitian
+  Revolution. A few word definitions ("loblollie", "Venerable") are not in the bank. Ten outline
+  claims were left out under DECISIONS #13 (listed in `control/checkpoints/T-237-immigration.md`).
+  **Question for Jon:** `jewish-refugees-1654` is an hb-story about a group, with only Jacob
+  Barsimson named. Does it stand, or should it become hb-zoom prose?
 
