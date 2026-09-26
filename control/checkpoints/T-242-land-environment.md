@@ -15,11 +15,9 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242c was KILLED by the usage limit after writing era 07 in one append. The text validated
-        clean (0/0 punct) and the director committed it. The era's self-review, outline-claims list
-        and blocking gaps were NOT done.
-NEXT:   T-242c2: run the Version 2 self-review on part 2 (era 07 especially), record era 07's
-        outline claims and blocking gaps, mark unit 3 landed.
+NOW:    T-242c2 finished unit 3. It ran the Version 2 self-review and amendment §5 on part 2, and wrote era 07's
+        missing spans and stories, which T-242c never wrote.
+NEXT:   T-242d: write part 3 (eras 8-10)
 
 ## Units
 
@@ -27,7 +25,7 @@ NEXT:   T-242c2: run the Version 2 self-review on part 2 (era 07 especially), re
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
-| 3 | part2 eras 6-7 | in-flight | |
+| 3 | part2 eras 6-7 | landed | 2026-09-26 |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
@@ -55,10 +53,17 @@ NEXT:   T-242c2: run the Version 2 self-review on part 2 (era 07 especially), re
 - (T-242b) Era 03 beaver trade "moving inland as each region emptied" and "dams fail, ponds drain, wet meadows dry": not in the bank. Livestock conflict "the treaties kept circling back to": not in the bank.
 - (T-242b) Era 04 "Surveyors marked the King's trees": the bank gives no actor for the Broad Arrow. "Whales for lamp oil": not in the bank.
 - (T-242b) Era 05 "paying war debts with the one thing it had plenty of": not in the bank. "Ignoring rivers, hills": not in the bank.
+- (T-242c2) Era 06: "mill and factory dams" (bank: dams, mill machinery), "the forest was being spent like money", "shad runs that had fed towns every spring", Audubon "his pigeon plate is one of the few windows", Thoreau's *Walden* "made the case that a life could be measured..." and "later conservationists from Muir onward read him first": not in the bank.
+- (T-242c2) Era 07 bison: "a good team killed dozens a day", "the herds fed the Plains nations' independence" (bank: fed the nations), "an ecosystem's keystone shot out from under it" and the grassland: not in the bank.
+- (T-242c2) Era 07 Muir: "the loudest American voice for keeping wild land wild", "helped make Yosemite a national park (1890)", "worth beyond board-feet and acre-prices": not in the bank. Hetch Hetchy is era 08.
+- (T-242c2) Era 07 Sierra Club "citizens organized to defend land in courts and Congress" and "the first conservation club with lawyers": not in the bank. Marsh's book "helped produce" the 1891 act: the bank says only "influenced".
+- (T-242c2) Era 07 Mayer "the southern Plains": not in the bank (prose says "the Plains"). "The invention of protection as public policy" and "first forest reserves": framing only.
 
 ## BLOCKING GAPS
 - (T-242b) Era 02, span "Forest over lost farms": the bank (Koch et al. 2019) gives "epidemics, war, and famine" after 1492 but not who carried the diseases or fought the wars. Prose states the deaths and the study's figures and names no actor.
 - (T-242b) Era 04, span "Worn-out tobacco fields": the bank does not say whose land the planters cleared as they moved up the Rappahannock and Potomac, or who did the clearing (planters only). Prose says "new ground" and names no nation.
+- (T-242c2) Era 07, span "Yosemite and the Ahwahneechee": the NPS says To Tu Ya saw "the murder of her uncle" in the 1851 raid but not who killed him or how. The prose says she saw battalion men destroy her home and saw her uncle murdered during the raid.
+- (T-242c2) Era 07, span "Yellowstone and the Tukudika": the NPS says the Tukudika "were forcibly removed", but the bank gives only the Shoshone party sent by the Fort Washakie agent (1879). It does not name that agent or say what force was used or how many people were removed.
 - (T-242b) Era 03, Miantonomi story: the bank says he was executed after capture by the Mohegans with Connecticut's approval, but not who killed him or how. Prose: "Mohegan men captured Miantonomi and executed him ... Leaders of the Connecticut colony approved."
 
 ## Log
@@ -68,3 +73,5 @@ NEXT:   T-242c2: run the Version 2 self-review on part 2 (era 07 especially), re
 - 2026-09-26 T-242b part1 1700-1750 written: file ~2,400 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242b part1 1750-1800 written (story ebenezer-mudgett); self-review run. Part1 total 3,584 words, validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.
 - 2026-09-26 T-242c part2 1800-1850 written (stories john-james-audubon, henry-david-thoreau): file ~1,050 words, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-242c part2 1850-1900 appended (killed by the usage limit before its self-review). Era 07 held only the land-taking, 1850 fire law and Yosemite spans.
+- 2026-09-26 T-242c2 self-review of part 2. Added era 07 spans on the hide hunters, the officers, the officials in Washington (Grant's 1874 pocket veto, the disputed Sheridan speech), the pigeon nestings, Yellowstone and the Tukudika (Norris 1879, Ward v. Race Horse), and the forest reserves, plus stories frank-mayer and john-muir, all from the bank. Defects fixed: the era summary stated bison, pigeon and Yellowstone facts that no span told. "It [the Yosemite Grant] set aside" and "Lincoln's government gave it" were personification. "Grant made Yellowstone" is now "signed the act". "Passed out of the nations' hands" is now "the nations lost". To Tu Ya's agentless "destroyed" now names the battalion's men. Era 06 repeated the 60-80 percent sentence in its era summary. "Later parks removed" is now Yellowstone's superintendent in 1879. Nothing was removed as unsupported. Part 2 has 5,017 words, validator 0 errors, --punct emdash=0 semicolon=0. Unit 3 landed.
