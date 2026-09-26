@@ -2442,7 +2442,10 @@ NOTE (Jon, 2026-09-26): the $100 cloud gift is used up, and Jon's own funding no
         to finish this task and then HOLD. No further dispatches until Jon says so.
 
 ### 2026-09-26 | [CLOUD] T-243e2 | economy: close the 19 BLOCKING GAPS (re-dispatch of T-243e)
-STATUS: IN-FLIGHT
-CHECKPOINT: control/checkpoints/T-243-economy.md, "BLOCKING GAPS"
-VERIFY: economy still PASSES research and prose.
-RESULT:
+STATUS: CANCELLED. Jon stopped it at once. Nothing landed.
+RESULT: Director error: T-243e had done nothing, so there was nothing to finish, and it should
+        have gone to the queue rather than being re-run. Moved to TODO as not started.
+        economy PASSES prose and research as it stands.
+
+### 2026-09-26 | [CLOUD] CLEAN STOP (Jon: funding)
+Nothing in flight. Next task when work resumes: T-243e (economy's 19 blocking gaps, not started).

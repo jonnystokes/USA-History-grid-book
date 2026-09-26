@@ -11,10 +11,17 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-243e2 in flight:** closing economy's 19 blocking gaps (T-243e was killed before its first commit).
-**HOLD AFTER THIS TASK (Jon, 2026-09-26):** the $100 gift is used up and Jon's own funding now pays.
-Dispatch nothing further until Jon says so.
-Written and passing: native-nations, city-building, immigration, science, elements, land-environment.
+**STOPPED (Jon, 2026-09-26).** The $100 gift is used up, and work waits for Jon's funding.
+Nothing is in flight. Do not dispatch anything until Jon says to resume.
+
+**Next task when work resumes: T-243e, NOT STARTED.** Close economy's 19 blocking gaps (brief
+`control/briefs/GAPS.md`, checkpoint `control/checkpoints/T-243-economy.md`). economy already
+PASSES prose and research, so this improves it and is not required for the gate.
+
+Written and passing: native-nations, city-building, immigration, science, elements,
+land-environment, economy. war PASSES research (prose not yet written).
+Queue after T-243e: government-politics, war prose, religion, education, rights-movements,
+then research for the remaining chapters (ROADMAP Phase 1).
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
