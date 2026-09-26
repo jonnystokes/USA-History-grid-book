@@ -187,48 +187,48 @@ By either account, Plains nations had horses by the 1700s, and horses changed ho
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-For the first half of the 1700s, two European empires wanted North America — France and Britain — and neither could take it without Native help. That gave the nations between them room to work. They bargained with both empires, joined neither cheaply, and went on making their own agreements with each other.
+In the first half of the 1700s, French and British leaders both wanted control of North America. Neither side could take it without Native help. Leaders of the nations between them bargained with both sides and asked a high price for joining either one. They also went on making their own agreements with other nations.
 
-Confederacies grew in these years. One of them took in an entire nation that had lost its homeland. Another built the strongest power on the southern Plains out of horses and trade.
+In these years the Haudenosaunee Confederacy took in the Tuscarora, a whole nation that had lost its homeland. On the southern Plains, the Comanche built the strongest power in the region on horses and trade.
 
-A great deal of this is on paper, because the colonies wrote the councils down and printed them. The speeches Native diplomats made in these years are among the best-documented Native words of the whole century.
+Records of much of this diplomacy survive in print. The speeches Native diplomats made in these years are among the best-recorded Native words of the century.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Neutrality as strategy" -->
-On August 4, 1701, about 1,300 delegates from more than thirty nations met at Montreal and concluded a peace with New France. In the same settlement the Haudenosaunee committed to neutrality: they would not fight for France, and they would not fight for Britain.
+On August 4, 1701, about 1,300 delegates from more than thirty nations met at Montreal. There they made peace with the leaders of New France, the French colony in what is now Canada. As part of the same peace, the Haudenosaunee promised to stay neutral. That meant they would fight for neither France nor Britain.
 
-Neutrality was not sitting still. It was a position the Confederacy worked for half a century. Both empires had to court them, and neither could count on them.
+For half a century, Haudenosaunee leaders used their neutrality to bargain with both sides. French and British officials each had to win their favor, because neither could count on Haudenosaunee help.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Tuscarora move north" -->
-In North Carolina, colonists founded New Bern in 1710 on Tuscarora land, and raiders were carrying Tuscarora people off to be sold as slaves. On September 22, 1711, the Tuscarora struck back in a coordinated attack, and the war ran until 1713. South Carolina sent forces, with Native allies of their own, and defeated them.
+In 1710 colonists founded the town of New Bern, North Carolina, on Tuscarora land. Slave raiders, whom the sources do not name, were also capturing Tuscarora people to sell them as slaves. On September 22, 1711, Tuscarora fighters struck back in attacks they had planned together. The war lasted until 1713. South Carolina colonial forces, with Native allies of their own, defeated the Tuscarora.
 
-About 1,500 Tuscarora survivors then walked north, roughly 500 miles, and asked the Five Nations to sponsor them. The Oneida took them in. In 1722 the Tuscarora became the sixth nation of the Haudenosaunee Confederacy. A nation that had lost its homeland was adopted whole by a confederacy 500 miles away, and the Confederacy has been the Six Nations ever since.
+About 1,500 Tuscarora survivors then walked north, roughly 500 miles. They asked the Five Nations of the Haudenosaunee to sponsor them, which meant to speak for them and accept them. The Oneida took them in. In 1722 the whole Tuscarora nation became the sixth nation of the Haudenosaunee Confederacy. Since then the Confederacy has had six member nations, and it is also known as the Six Nations.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Comanche power" -->
-The Comanche moved onto the southern Plains in the early 1700s and became the dominant power there. Comanchería, the country they controlled, eventually covered about 240,000 square miles.
+The Comanche moved onto the southern Plains in the early 1700s and became the most powerful nation there. Comanchería, the country they controlled, later covered about 240,000 square miles.
 
-Their power was built on horses. They bred them, trained them, and traded them, and they controlled the trade that carried horses from the southern Plains to the northern. In the 1740s they traded bison robes and horses to French traders for guns — better guns than the Spanish were selling. Horses, trade, raiding, and diplomacy worked together: this was an economy and a foreign policy, not only a way of fighting.
+The Comanche built their power on horses. They bred, trained and traded horses, and they controlled the horse trade from the southern Plains to the northern Plains. In the 1740s they traded bison robes and horses to French traders for guns. The French guns were better than the ones the Spanish sold. Comanche leaders used horses, trade, raiding and diplomacy together to run their economy, to deal with other nations, and to fight wars.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Treaty councils" -->
-A treaty council was working diplomacy, and it ran by its own rules. Speakers rose in turn and answered one another. Agreements were confirmed with wampum. The colonies brought clerks, and what was said in council got written down and printed.
+A treaty council was a meeting where Native leaders and colonial officials bargained and made agreements. Speakers followed set rules. They rose in turn and answered one another, and both sides confirmed agreements with wampum. Colonial officials brought clerks, who wrote down what was said in council, and colonial printers published it.
 
-At Lancaster, Pennsylvania, in June and July of 1744, colonial officials bought out Haudenosaunee claims to the Shenandoah Valley. Then, on July 4, 1744, the Onondaga speaker Canasatego closed the council by giving the colonies some advice of his own.
+At Lancaster, Pennsylvania, in June and July of 1744, colonial officials paid the Haudenosaunee to give up their claims to the Shenandoah Valley. On July 4, 1744, the Onondaga speaker Canasatego closed the council by advising the colonies to unite.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="canasatego" name="Canasatego" movie="" kind="famous" status="verified" -->
 ### Canasatego
 
-> **Who:** Onondaga leader and the Haudenosaunee's speaker at the great treaty councils; his printed speeches are among the best-documented Native diplomacy of the century.
-> **When and where:** Lancaster, Pennsylvania, June and July 1744; the union speech on July 4, 1744.
+> **Who:** Onondaga leader and the Haudenosaunee's speaker at treaty councils. His printed speeches are among the best-documented Native diplomacy of the century.
+> **When and where:** Lancaster, Pennsylvania, June and July 1744. He gave the union speech on July 4, 1744.
 
-Canasatego spoke for the Haudenosaunee Confederacy. He carried what the Confederacy had decided and said it to the colonies in council.
+Canasatego spoke for the Haudenosaunee Confederacy. In council he told colonial officials what the Confederacy's chiefs had decided.
 
-At Lancaster he told the colonies to do what his own nations had done centuries earlier: "We heartily recommend Union and a good Agreement between you our Brethren... you, as well as we, will become the stronger."
+At Lancaster he advised the colonies to unite, as his own nations had done centuries earlier: "We heartily recommend Union and a good Agreement between you our Brethren... you, as well as we, will become the stronger."
 
-Benjamin Franklin printed the minutes of the council, including the speech. The date on it was July 4, 1744 — thirty-two years before those same colonies declared themselves one country on another July 4.
+He gave that speech on July 4, 1744, thirty-two years before leaders of those same colonies declared them one country, also on July 4. Benjamin Franklin printed the minutes of the council, including the speech.
 <!-- hb-story:end slug="canasatego" -->
 <!-- hb-time:end id="1700-1750" -->
 
