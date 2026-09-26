@@ -1956,4 +1956,23 @@ T-235 COMPLETE: war research took 3 agents in all (T-232, T-235a, T-235b).
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-236-native-nations-acoma.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose must still PASS.
+RESULT: DONE. 89,852 tokens, 8 tool uses, under 1 min. Commit cc046c7. native-nations prose PASS.
+        ADDED (part 1, era 1500s, before Zaldívar's killing): the All Pueblo Council of
+        Governors' October 2023 statement, quoted exactly, that the soldiers "had demanded food
+        and supplies, assaulted an Acoma woman, and forced allegiance to the Spanish crown."
+        "Assaulted" is defined as "attacked her". The text states that the Council's statement
+        gives no more detail.
+
+### 2026-09-26 | [CLOUD] PHASE 2 WRITING BEGINS: immigration first
+Order for the ready chapters, smallest outline first so the brief is tested cheaply:
+immigration, science, elements, land-environment, economy, government-politics, war, religion,
+education, rights-movements. The last four are very large and will need more than three parts.
+
+### 2026-09-26 | [CLOUD] T-237a | Write immigration PART 1 (eras 1-5)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-237-immigration.md (units 1-5)
+VERIFY: part file validates (--part) with 0 errors, --punct 0/0, eras 1-5 progress="written",
+        every story verified. The chapter check FAILs until parts 2 and 3 exist.
+EXPECT: the first chapter written under v2 plus the bank-only rule (#13). Watch the
+        "outline claims not in the bank" list. Its length shows how far outline and bank diverge.
 RESULT:

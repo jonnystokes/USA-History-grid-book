@@ -11,8 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-236 in flight:** adding the Acoma account to native-nations part 1 (DECISIONS #14). **war PASSES research** (T-235 done). Checkpoint:
-`control/checkpoints/T-235-war.md`.
+**T-237a in flight:** writing `immigration` part 1 (eras 1-5), the first Phase 2 chapter.
+T-236 is done (the Acoma account is in, and native-nations still PASSES). war PASSES research.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 

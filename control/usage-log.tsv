@@ -118,3 +118,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-234c	revise-v2	general-purpose	[CLOUD] city-building part3 v2 revision (3 eras, 5720w)	?	?	?	225995	34	816499	6849	completed	chapter PASS prose under v2; ~55 claims not in bank
 2026-09-26	T-235a	research	general-purpose	[CLOUD] war eras 5-7 research	?	?	?	314502	156	1410535	?	completed	eras 5-7 clean; bank 7006->14157w
 2026-09-26	T-235b	research	general-purpose	[CLOUD] war eras 8-10 research, last slice	?	?	?	359764	185	1597789	?	completed	chapter PASS research; bank 22314w
+2026-09-26	T-236	fix	general-purpose	[CLOUD] add Acoma account to native-nations part1	?	?	?	89852	8	49003	?	completed	prose still PASS

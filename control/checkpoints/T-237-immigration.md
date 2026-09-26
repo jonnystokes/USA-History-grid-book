@@ -1,0 +1,41 @@
+# CHECKPOINT T-237 | immigration | prose (Phase 2, first new chapter) | 10 eras, 3 part files
+
+STATUS: IN-FLIGHT
+VERIFY: python tools/project_state.py --check immigration --stage prose
+        (per part: node tools/validate_grid.js <file> --part · python tools/project_state.py --punct <file>)
+BRIEF:  standard WRITING brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
+SOURCES (read-only): outlines/immigration.md (the plan) · research/research-immigration.md (THE ONLY
+        source of facts, DECISIONS #13) · workspace/immigration.md
+MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2 chapters.
+        Copy their file layout: an hb-chapter line with mode="prose" part="2" file="partN", an
+        hb-note naming the file's eras, then the hb-time sections.
+PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
+        T-237c = part3-1900s-and-today.md (eras 8-10).
+
+NOW:    T-237a dispatched. Part 1 not yet created.
+NEXT:   create manuscript/immigration/part1-before-1800.md and write era before-1500.
+
+## Units
+
+| # | unit | state | landed (commit / note) |
+|---|------|-------|------------------------|
+| 1 | part1 era before-1500 (thin) | todo | |
+| 2 | part1 era 1500s (thin) | todo | |
+| 3 | part1 era 1600s | todo | |
+| 4 | part1 era 1700-1750 | todo | |
+| 5 | part1 era 1750-1800 | todo | |
+| 6 | part2 era 1800-1850 | todo | |
+| 7 | part2 era 1850-1900 | todo | |
+| 8 | part3 era 1900-1950 | todo | |
+| 9 | part3 era 1950-2000 | todo | |
+| 10 | part3 era 2000-today | todo | |
+
+## Outline claims NOT in the bank (left out, per DECISIONS #13)
+
+<!-- The claim, the outline line, and where it would have gone. -->
+
+## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
+
+## Log
+
+<!-- date-time | unit | words | validator | --punct -->
