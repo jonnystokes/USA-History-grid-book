@@ -12,7 +12,7 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a writing part1 era 1750-1800.
+NOW:    T-237a all five eras landed. Running whole-file self-review.
 NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before-1800.md).
 
 ## Units
@@ -23,7 +23,7 @@ NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before
 | 2 | part1 era 1500s (thin) | landed | era written |
 | 3 | part1 era 1600s | landed | 6 spans + stories frethorne, hutchinson, jewish-refugees-1654 |
 | 4 | part1 era 1700-1750 | landed | 4 spans + story zenger |
-| 5 | part1 era 1750-1800 | working | |
+| 5 | part1 era 1750-1800 | landed | 3 spans + stories hamilton, toussaint |
 | 6 | part2 era 1800-1850 | todo | |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
@@ -37,6 +37,8 @@ NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before
 - "small and often in danger" (St. Augustine, outline 1500s span, line 30). Bank does not say it. Left out of 1500s span.
 - Hutchinson "to worship as they believed" and "on trial ... for her religious meetings" (outline line 44). Bank gives only "following minister John Cotton to Boston" and "tried November 1637 and banished". Left out.
 - Frethorne "bound to Martin's Hundred plantation" (outline line 48): bank says only "at Martin's Hundred". Written as "worked at a place called Martin's Hundred".
+- Hamilton "the first Secretary of the Treasury" (outline line 82). Bank says only "his Treasury work". Prose: "worked for the new national government at the Treasury".
+- Toussaint "quietly", "for years", "the city's first Catholic charities" (outline line 86). Bank: "early Catholic charities". Left out / written as bank.
 - Zenger "the poor refugee boy" and "1735 acquittal began press freedom in America" (outline line 66). Bank gives only the 1735 seditious-libel acquittal. Left out.
 
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
@@ -55,6 +57,11 @@ NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before
 - Convict transport: "Britain shipped" (outline line 62) is personification. Prose: "Under a British law of 1718 ... convicts were shipped" plus "The sources do not say who shipped and sold them."
 - ADDED from bank (not in outline): 1700-1750 forced-arrival span (Charleston, Sullivan's Island, SlaveVoyages scale figures). Kept short per slavery-freedom lead.
 - Glosses (1700-1750): Palatinate = region along the Rhine; Presbyterians; backcountry; apprentice; seditious libel; emigrate; quarantine; Lowcountry.
+- CHRONOLOGY (outline line 86): Toussaint's 1787 arrival called "part of the refugee stream from Saint-Domingue". The revolution began 1791 (bank). Prose says the Berards fled unrest four years before the revolution began.
+- SOFTENING GAP (bank s5): bank never says who fought the Haitian Revolution (enslaved people rising against enslavers). Prose says only "a revolution began". Audit should add it to the bank.
+- Personification repaired from bank s5: "War slowed immigration" and the 1808 clause "a twenty-year protection for the trade". Prose: "Fewer people crossed ..." and "slave traders could legally bring captives ... for twenty more years".
+- ADDED from bank (not in outline): 1787 Constitution 1808 clause, 1783 border and Native land line, Charming Sally 1791.
+- Glosses (1750-1800): naturalization, Loyalists, orphan, unrest, free people of color, crypt, Venerable ("a title the Catholic Church gives to a person it is studying as a possible saint").
 - Glosses (1500s): continental US = states other than Alaska and Hawaii; feast day; missionary.
 
 ## Log
@@ -62,5 +69,6 @@ NEXT:   write part1 era 1750-1800 (append to manuscript/immigration/part1-before
 <!-- date-time | unit | words | validator | --punct -->
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
+- 2026-09-26 | 5 1750-1800 | ~900 prose | 0 errors (--part), 6 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 4 1700-1750 | ~800 prose | 0 errors (--part), 4 stories total | emdash=0 semicolon=0
 - 2026-09-26 | 3 1600s | ~1,450 prose | 0 errors (--part), 3 stories | emdash=0 semicolon=0

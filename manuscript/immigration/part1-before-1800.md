@@ -167,3 +167,62 @@ The number of enslaved Africans brought to the mainland colonies rose sharply in
 Across the whole slave trade, slave traders put about 12.5 million Africans on ships, and about 10.7 million lived through the crossing. Fewer than 4 percent of them were brought to mainland North America. About 305,000 came straight from Africa, and close to 388,000 came in all, counting those brought by way of the Caribbean.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
+
+<!-- hb-time:start id="1750-1800" order="05" chapter="immigration" label="1750 to 1800" state="full" progress="written" -->
+## 1750 to 1800
+
+<!-- hb-zoom level="era" -->
+Fewer people crossed the Atlantic to settle during the American Revolution. After the war, members of Congress passed the first federal law on who could become a citizen, and they limited it to free white people. In the 1790s thousands of refugees arrived from a revolution in the Caribbean.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="alexander-hamilton-immigration" name="Alexander Hamilton" movie="Hamilton (2020)" kind="famous" status="verified" -->
+### Alexander Hamilton
+
+> **Who:** An orphaned clerk from the Caribbean whose writing about a hurricane led men on St. Croix to pay for his schooling in North America. He came as a teenager and stayed.
+> **When and where:** Born on Nevis. Sailed from St. Croix in late 1772 or early 1773. King's College, New York.
+> **Movie:** *Hamilton* (2020), the filmed Broadway stage musical with its original cast, released on Disney+ on July 3, 2020. It is a dramatization, not a documentary.
+
+Alexander Hamilton came to North America from the Caribbean as a teenager, to go to school. Men on the island of St. Croix paid for it.
+
+He was born on the Caribbean island of Nevis on January 11. The year is disputed. Some sources give 1755, and others give 1757. He was an orphan, which means both of his parents had died, and he worked as a clerk on St. Croix.
+
+On August 31, 1772, a hurricane struck St. Croix. Hamilton wrote a letter describing the storm, dated September 6, 1772. A newspaper called the *Royal Danish American Gazette* printed it on October 3. After reading it, men on the island raised money to send him to school in North America.
+
+He sailed in late 1772 or early 1773. Accounts differ on the date. He studied at King's College in New York, and he stayed. Later he worked for the new national government at the Treasury, the department that handles the government's money.
+<!-- hb-story:end slug="alexander-hamilton-immigration" -->
+
+<!-- hb-zoom level="span" label="The Revolution and the Loyalists" -->
+Fewer people crossed the Atlantic to settle while the Revolutionary War went on, from 1775 to 1783. The shipping of British convicts to the colonies ended in 1775. During and after the war, tens of thousands of Loyalists left the country, many of them for Canada. Loyalists were colonists who sided with the British king against the Revolution.
+
+After the peace of 1783, the western border of the United States reached the Mississippi River. The Spanish and French governments claimed the land beyond the river. Most of the land away from the Atlantic coast was still Native land.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The Naturalization Act of 1790" -->
+In 1787 the men who wrote the Constitution barred Congress from ending the importation of enslaved people before 1808. Under that clause, slave traders could legally bring captives into the country for twenty more years.
+
+In 1790 members of Congress passed the Naturalization Act. Naturalization is the legal process by which a person born in another country becomes a citizen. The act was the first federal law on who could become a citizen. It allowed naturalization only for "a free white person" of "good character." The person had to have lived in the United States for two years, including at least one year in the state where they applied. The person also had to swear loyalty to the Constitution. Children born abroad to citizens were included as citizens.
+
+Under this law, an immigrant who was enslaved or was not white could not become a citizen. Members of Congress did not fully remove the limit to white people until 1952, 162 years later.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="pierre-toussaint" name="Pierre Toussaint" movie="" kind="ordinary" status="verified" -->
+### Pierre Toussaint
+
+> **Who:** A man born enslaved in Saint-Domingue and brought to New York by the family that enslaved him. He became a leading hairdresser and was freed in 1807.
+> **When and where:** Brought to New York in 1787. Freed July 2, 1807. Died in New York, June 30, 1853.
+
+Pierre Toussaint did not choose to come to New York. He was born enslaved in about 1766 in Saint-Domingue, a French colony in the Caribbean. In 1787 the Bérard family, who enslaved him, brought him to New York as they fled unrest in the colony. Unrest means fighting and disorder. They came four years before the revolution in Saint-Domingue began.
+
+In New York he trained under a hairdresser and became one of the city's leading hairdressers. Marie Elisabeth Bérard, of the family that enslaved him, lost her husband, and Toussaint supported her. He was still enslaved at the time.
+
+He was freed on July 2, 1807. By the birth year of about 1766 he was about 41, but one account gives his age as 45. He took the surname Toussaint. He paid to care for orphans, to nurse the sick during outbreaks of plague, and to start early Catholic charities in New York. In 1811 he married Juliette Noel.
+
+Toussaint died on June 30, 1853. In 1990 his remains were moved to the crypt of St. Patrick's Cathedral in New York, a burial room beneath the church. In 1996 Pope John Paul II declared him Venerable, a title the Catholic Church gives to a person it is studying as a possible saint.
+<!-- hb-story:end slug="pierre-toussaint" -->
+
+<!-- hb-zoom level="span" label="Refugees from Saint-Domingue" -->
+In 1791 a revolution began in Saint-Domingue, the French sugar colony that later became the country of Haiti. Refugees fled to cities in the United States. They included white planters and free people of color, meaning people of African or mixed descent who were not enslaved. They also included enslaved people, whom their owners brought with them.
+
+In 1791 a ship called the *Charming Sally* carried 15 refugees to Philadelphia. By 1794 more than 3,000 refugees had come to that city. Nearly 20,000 refugees from Saint-Domingue came to the United States across the 1790s and the 1800s.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1750-1800" -->
