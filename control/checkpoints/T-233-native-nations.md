@@ -4,7 +4,7 @@
      everything else current, and commits and pushes after every unit. Write it for a
      stranger who has only this file and the repo. -->
 
-STATUS: IN-FLIGHT (part 1 DONE and verified by the director 2026-09-26. Parts 2 and 3 to go)
+STATUS: IN-FLIGHT (part 1 DONE and verified by the director 2026-09-26. T-233b working on part 2. Part 3 to go)
 VERIFY: python tools/project_state.py --check native-nations --stage prose
         (per part: python tools/project_state.py --punct manuscript/native-nations/<part>.md)
 BRIEF:  standard REVISION brief (control/RESUME.md) + cloud lines (control/CLOUD-WORKFLOW.md §5)
@@ -12,7 +12,7 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233a done. Part 1 (units 1-5) landed and self-reviewed. Parts 2 and 3 not started.
+NOW:    T-233b working on unit 6 (part 2, era 1800-1850). Part 1 landed (T-233a).
 NEXT:   part 2, era 1800-1850.
 
 ## Baseline before revision (measured 2026-09-26)
@@ -34,7 +34,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 3 | part1 era 1600s | landed | commit T-233a 1600s |
 | 4 | part1 era 1700-1750 | landed | commit T-233a 1700-1750 |
 | 5 | part1 era 1750-1800 | landed | commit T-233a 1750-1800 |
-| 6 | part2 era 1800-1850 | todo | |
+| 6 | part2 era 1800-1850 | working | T-233b |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
