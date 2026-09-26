@@ -1852,4 +1852,19 @@ CHECKPOINT: control/checkpoints/T-234-city-building.md (units 1-5)
 VERIFY: --punct manuscript/city-building/part1-before-1800.md prints 0/0. The validator
         (--part) must be clean.
 BASELINE: 3,810 prose words, 12 em dashes, 5 semicolons.
+RESULT: DONE (part 1). 177,452 tokens, 36 tool uses, 9 min. Five commits.
+        MEASURED: --punct 0/0 · validator (--part) 0 errors · markers and record keys identical ·
+        prose words 3,810 -> 4,375 (+15%).
+        BEYOND STYLE: "Congress passed" the Residence Act on July 16, 1790, but the bank says
+        Washington signed it that day. Chaco's "those two dates" came before the 1140s date
+        had appeared. An unsourced "workmen" (L'Enfant's reburial) was removed.
+        PARKED: 3 unsourced claims, the unnamed nations on the 1600s town sites, and the span
+        label "Fire, the city killer". The brief now allows revising label= text.
+
+### 2026-09-26 | [CLOUD] T-234b | Revise city-building PART 2 (eras 6-7) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-234-city-building.md (units 6-7)
+VERIFY: --punct manuscript/city-building/part2-1800s.md prints 0/0. The validator (--part) must
+        be clean.
+BASELINE: 4,238 prose words, 23 em dashes, 6 semicolons.
 RESULT:

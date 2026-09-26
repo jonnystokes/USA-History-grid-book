@@ -222,6 +222,9 @@ file, eras and checkpoint filled in:
 >
 > **Keep the structure.** Leave every marker line, era id, story slug, `status=`,
 > `progress="written"`, `movie=` attribute and `> **Key:** value` record key exactly as it is.
+> The one exception is the `label="..."` text on an `hb-zoom` span. The reader sees that text
+> as a heading, so revise it to meet Version 2 when it breaks a rule (added 2026-09-26, after
+> T-234a could not repair "Fire, the city killer"). Change nothing else on a marker line.
 > Leave `hb-note` blocks alone. Work one era at a time. After each era, validate with
 > `node tools/validate_grid.js <file> --part`, update the checkpoint, and save your work.
 > `python tools/project_state.py --punct <file>` lists every em dash and semicolon left. It

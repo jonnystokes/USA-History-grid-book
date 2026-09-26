@@ -176,4 +176,10 @@ will be worded differently, which is exactly why a search will not find it.
   identify who killed them. "Died" would soften it. "Killed" goes beyond the bank's wording.
   Research item: source who the two men were and how they died, then make the bank and the
   prose agree.
+- **city-building part 1 (from T-234a, 2026-09-26).**
+  - Three claims in the prose are not in the bank: "copied for two hundred years", "London,
+    hundreds of thousands" and "fire companies for a hundred years". Source them or cut them.
+  - The bank does not name the Native nations on the sites of the 1600s towns. Research item.
+  - The span label "Fire, the city killer" personifies fire. The agent could not edit marker
+    lines. The revision brief now allows `label=` edits. This label is a one-line fix.
 
