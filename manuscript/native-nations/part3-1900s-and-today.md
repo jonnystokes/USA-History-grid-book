@@ -4,96 +4,112 @@
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-In 1900 the United States census counted about 250,000 Native people. It is the lowest figure the census ever recorded.
+In 1900 the United States census counted about 250,000 Native people. No United States census has recorded a lower number.
 
-In the fifty years that followed, Native people founded the first national organizations run by Native people themselves. Oil made the Osage Nation rich, and in 1921 Congress passed a law that put many Osage adults' money under white guardians appointed by local courts. Guardians and husbands stole it, and between about 1920 and 1925 more than sixty Osage headright holders died in murders and suspicious deaths. Congress made every Native person born in the country a citizen in 1924, and ten years later it reversed the land policy the government had run since 1887. Native men fought in two world wars, and in both of them the United States sent orders in Native languages because no enemy could read them.
+Between 1900 and 1950, Native people founded the first national organizations that Native people ran themselves. Oil was found under Osage land in Oklahoma. In 1921 members of Congress passed a law that put many Osage adults' money under white guardians, whom judges in local courts appointed. Guardians and husbands stole the money. Between about 1920 and 1925, more than sixty Osage headright holders died in murders and suspicious deaths.
 
-The boarding schools ran through all of it.
+In 1924 members of Congress made every Native person born in the country a citizen. Ten years later they ended allotment, the cutting of nations' shared land into private pieces, which federal officials had carried out since 1887.
+
+Native men fought for the United States in both world wars. In 1918 Choctaw soldiers passed orders in Choctaw, and German soldiers tapping the telephone lines could not read them. From 1942 Navajo Marines sent messages in a code built from Navajo, and no enemy ever broke it.
+
+Through all fifty years, federal boarding schools stayed open, and the number of children in them kept growing.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Organizing" -->
-On October 12, 1911, in Columbus, Ohio, a group of Native doctors, lawyers, writers, and teachers founded the Society of American Indians. It was the first national Native rights organization built and run by Native people. Its leaders included Dr. Charles Eastman, Santee Dakota, and Dr. Carlos Montezuma, Yavapai-Apache. Zitkala-Ša edited its journal. Many of them had been through the boarding schools, and they used the schools' English to argue against the policy the schools were built to carry out. The Society lasted from 1911 to 1923.
+On October 12, 1911, a group of Native doctors, lawyers, writers and teachers met in Columbus, Ohio, and founded the Society of American Indians. It was the first national Native rights organization that Native people built and ran themselves. Its leaders included Dr. Charles Eastman, who was Santee Dakota, and Dr. Carlos Montezuma, who was Yavapai-Apache. Zitkala-Ša edited its journal.
 
-In Alaska, twelve men and one woman founded the Alaska Native Brotherhood at Sitka in 1912 to win citizenship for Alaska Natives. The Alaska Native Sisterhood followed in 1915. For the next half-century they were the only civil rights organizations Alaska Natives had.
+Many of the members had gone through the boarding schools. They used the English they learned there to argue against the federal policy of taking children to those schools. The Society lasted from 1911 to 1923.
 
-On November 16, 1944, eighty delegates from more than fifty tribes and associations met in Denver and founded the National Congress of American Indians. It is still the main body through which Native nations act together.
+In 1912 twelve men and one woman founded the Alaska Native Brotherhood at Sitka. They wanted citizenship for Alaska Natives. The Alaska Native Sisterhood began in 1915. For the next fifty years, these two groups were the only civil rights organizations Alaska Natives had. Civil rights are the rights every citizen has to equal treatment under the law.
+
+On November 16, 1944, eighty delegates from more than fifty tribes and associations met in Denver. Delegates are people chosen to speak for a group. At that meeting they founded the National Congress of American Indians. It is still the main organization that Native nations use to act together.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="High steel" -->
-Kahnawake Mohawk men had been working structural iron since the 1880s. Their crews were on the riveting gangs that put up the Empire State Building in 1930 and 1931, and Kahnawake ironworkers went on building towers in Manhattan for generations. One of them, Harold McComber, is the subject of *High Steel*, a National Film Board of Canada documentary made in 1965.
+Mohawk men from Kahnawake had worked on structural iron since the 1880s. Structural iron is the metal frame that holds up a bridge or a tall building. In 1930 and 1931, Kahnawake crews worked on the riveting gangs that put up the Empire State Building in New York. A riveting gang joined the steel beams together with hot metal pins called rivets.
+
+Kahnawake ironworkers kept building towers in Manhattan for generations. One of them, Harold McComber, is the subject of *High Steel*. Don Owen directed that documentary film for the National Film Board of Canada in 1965.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Osage and the Reign of Terror" -->
-The Osage Nation's land in Oklahoma was cut into individual parcels under a law of 1906, but the law kept one thing whole. The nation held the minerals under the ground in common and paid the income out to its members in equal shares called headrights. Then oil came in underneath. By the 1920s the Osage were among the wealthiest people, per person, in the world.
+In the 1920s the Osage in Oklahoma earned so much from oil that they were among the wealthiest people in the world, counted per person. White guardians and some of the men who married Osage women stole that money, and more than sixty Osage headright holders died in murders and suspicious deaths.
 
-In 1921 Congress passed a law that put many Osage adults' money under white guardians appointed by local courts. An Osage person could own a headright and not be allowed to spend what it earned. Guardians stole from the people whose money they held, and so did some of the men who married Osage women.
+In 1906 members of Congress passed the Osage Allotment Act. Under it, federal officials cut the Osage Nation's land into private pieces, but the Osage kept the minerals under the ground as shared property. The income from those minerals went to each member in an equal share called a headright. Then oil was found under the land, and the headrights began paying out oil money.
 
-From about 1920 to 1925, more than sixty Osage headright holders died in murders and in suspicious deaths. Those years are called the Reign of Terror.
+In 1921 members of Congress passed a guardianship law. Under it, judges in local courts appointed white guardians over the money of many Osage adults. A guardian is a person given legal control over someone else's money. An Osage person could own a headright and still not be allowed to spend what it earned. Guardians stole from the people whose money they controlled. Some of the men who married Osage women stole from their wives.
+
+From about 1920 to 1925, more than sixty Osage headright holders died in murders and in suspicious deaths. A suspicious death is one that looked like murder but was never proven to be. The sources used for this chapter do not name the killers. They call those years the Reign of Terror.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Citizenship and the Indian New Deal" -->
-On June 2, 1924, Congress passed the Indian Citizenship Act. It made every Native person born in the United States a citizen. Citizenship did not bring the vote with it, because who could vote was set by each state, and by the Library of Congress's account some states barred Native people from voting until 1957.
+On June 2, 1924, members of Congress passed the Indian Citizenship Act. Under it, every Native person born in the United States became a citizen. Many of them still could not vote, because each state's lawmakers wrote that state's voting rules. The Library of Congress records that officials in some states kept Native people from voting until 1957.
 
-In 1928 a federal survey called the Meriam Report was published. It counted tribal land down from 137 million acres to 47 million under allotment, and it documented the poverty and disease that followed. It documented the schools as well, including the half-day system: children spent half of every school day doing the unpaid work that kept the institutions running.
+In 1928 a federal survey called the Meriam Report came out. Its full title was *The Problem of Indian Administration*. It records that under allotment, tribal land had fallen from 137 million acres to 47 million. It also records the poverty and disease Native people lived with after that loss.
 
-On June 18, 1934, Congress passed the Indian Reorganization Act, written under Commissioner of Indian Affairs John Collier. It ended allotment. It extended the protections on land held in trust, put money toward buying land back, and let nations write constitutions and charter their own governments. After forty-seven years of policy aimed at breaking nations up into individuals, the federal government began treating them as nations again.
+The Meriam Report documents the schools as well, including the half-day system. Under that system, school staff made children spend half of every school day on unpaid work. That work kept the schools running.
+
+On June 18, 1934, members of Congress passed the Indian Reorganization Act. It was written while John Collier was Commissioner of Indian Affairs, the federal official in charge of dealings with Native nations. Collier held that job from 1933 to 1945. Under the act, allotment stopped, and the protections on land held in trust were extended. Land held in trust is land the United States holds on behalf of a Native nation or person.
+
+The act also set aside money to buy land back. Nations could now write constitutions, which are written sets of a government's basic laws, and set up their own governments. For forty-seven years, since 1887, federal officials had used allotment to break nations up into single landowners. After 1934 they began dealing with the nations as nations again.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The schools continue" -->
-The boarding schools did not stop in 1900. The federal count of the system runs to 1969, and enrollment kept climbing for decades; it reached its peak, about 60,000 children, in 1973.
+Federal boarding schools kept running after 1900. The federal count of the system runs to 1969. Enrollment, the number of children in the schools, kept climbing for decades and reached its peak of about 60,000 children in 1973.
 
-Under Collier in the 1930s the government shifted toward day schools, allowed some teaching in Native languages, and closed some boarding schools. Tens of thousands of children were still taken from home every year.
+In the 1930s Collier and the officials under him moved toward day schools, where children went home at night. They allowed some teaching in Native languages, and they closed some boarding schools. Tens of thousands of children were still taken from home every year. The sources used for this chapter do not say who took them in these years.
 
-One of them was a Navajo boy named Chester Nez. At the Fort Defiance boarding school his mouth was washed with soap for speaking Navajo. In 1942 the Marine Corps came looking for him.
+Chester Nez, a Navajo boy, was one of those children. Staff at the Fort Defiance boarding school washed his mouth out with soap for speaking Navajo. In 1942 Marine Corps recruiters signed him up to build a military code out of that same language.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The code talkers" -->
-The first code talkers were Choctaw. In the Meuse-Argonne fighting in France in the autumn of 1918, German intelligence was tapping American telephone lines and capturing about one runner in four. Choctaw soldiers of the 36th Division began passing orders in Choctaw. The first secure messages went out on October 26, 1918. Where the language had no word for a piece of equipment, the men made one: a machine gun became "little gun shoot fast."
+Code talkers were Native soldiers who sent military messages in their own languages, so that the enemy could not understand them. The first code talkers were Choctaw.
 
-In the Second World War the Marine Corps did the same thing with Navajo, on a much larger scale. Twenty-nine Navajo recruits arrived in San Diego on May 5, 1942 and built the code. Between 350 and 420 Navajo served as code talkers, in all six Marine divisions in the Pacific; the sources differ on the total. At Iwo Jima the 5th Division's signal officer, Major Howard Connor, said: "Were it not for the Navajos, the Marines would never have taken Iwo Jima."
+In the autumn of 1918, American soldiers were fighting in the Meuse-Argonne campaign in France. German soldiers were tapping American telephone lines. They were also capturing about one in four runners, the soldiers who carried messages on foot. Choctaw soldiers of the 36th Division began passing orders in Choctaw. They sent the first secure messages, ones the Germans could not read, on October 26, 1918. When Choctaw had no word for a piece of equipment, the men made one up. A machine gun became "little gun shoot fast."
 
-The code was never broken. It stayed classified until 1968, so for twenty-three years the men who made it could not tell anyone what they had done. On July 26, 2001, the original twenty-nine received the Congressional Gold Medal, and the code talkers who followed them received silver.
+In the Second World War, Marine Corps officers had Navajo speakers do the same work. Twenty-nine Navajo recruits arrived in San Diego on May 5, 1942, and built the code. Between 350 and 420 Navajo served as code talkers, in all six Marine divisions in the Pacific. The sources differ on the total. At Iwo Jima, Major Howard Connor was the 5th Division's signal officer, in charge of its messages. He said: "Were it not for the Navajos, the Marines would never have taken Iwo Jima."
+
+No enemy ever broke the code. It stayed classified, meaning officially secret, until 1968. For twenty-three years after the war, the men who made it could not tell anyone what they had done. On July 26, 2001, the original twenty-nine received the Congressional Gold Medal, and the code talkers who came after them received silver medals.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="jim-thorpe-native-nations" name="Jim Thorpe" movie="Jim Thorpe – All-American (1951)" kind="famous" status="verified" -->
 ### Jim Thorpe
 
 > **Who:** Sac and Fox athlete and Carlisle student, the first Native American to win an Olympic gold medal.
-> **When and where:** Stockholm, July 1912; the medals taken in 1913 and given back in full in 2022.
+> **When and where:** Stockholm, July 1912. Olympic officials took his medals in 1913, and they were given back in full in 2022.
 > **Movie:** *Jim Thorpe – All-American* (1951)
 
-Jim Thorpe was a citizen of the Sac and Fox Nation and a student at the Carlisle Indian Industrial School, where he was named a football All-American twice.
+Jim Thorpe was a citizen of the Sac and Fox Nation. He was a student at the Carlisle Indian Industrial School, where he was twice named a football All-American.
 
-At the Stockholm Olympics in 1912 he won the pentathlon on July 7 and the decathlon on July 15. His decathlon score stood as the world record until 1927.
+At the Stockholm Olympics in 1912, he won the pentathlon on July 7 and the decathlon on July 15. The pentathlon is a contest of five track and field events, and the decathlon is a contest of ten. His decathlon score stood as the world record until 1927.
 
-In 1913 the Olympic authorities took both medals back, because Thorpe had been paid two dollars a game to play minor-league baseball in the summers, which made him a professional under the rules of the time. The International Olympic Committee restored him as co-champion in 1982. On July 15, 2022 — 110 years to the day after the decathlon — it restored him as the sole champion of both events.
+In 1913 Olympic officials took both medals back. Thorpe had been paid two dollars a game to play minor-league baseball in the summers. Under the Olympic rules of the time, that made him a professional, an athlete paid to play. Officials of the International Olympic Committee restored him as co-champion in 1982. On July 15, 2022, 110 years to the day after his decathlon win, they restored him as the sole champion of both events.
 <!-- hb-story:end slug="jim-thorpe-native-nations" -->
 
 <!-- hb-story:start slug="ira-hayes" name="Ira Hayes" movie="The Outsider (1961)" kind="famous" status="verified" -->
 ### Ira Hayes
 
 > **Who:** Akimel O'odham (Pima) Marine from the Gila River community in Arizona, one of the six men who raised the second flag on Mount Suribachi.
-> **When and where:** Iwo Jima, February 23, 1945; died in Arizona, January 24, 1955.
-> **Movie:** *The Outsider* (1961); he is also played by Adam Beach in *Flags of Our Fathers* (2006)
+> **When and where:** Iwo Jima, February 23, 1945. He died in Arizona on January 24, 1955.
+> **Movie:** *The Outsider* (1961). Adam Beach also plays him in *Flags of Our Fathers* (2006).
 
-Ira Hayes was a Marine paratrooper from the Gila River Indian Community in Arizona. On February 23, 1945, on Iwo Jima, he was one of the six men who raised the second American flag on Mount Suribachi. A photograph of that flag-raising was printed across the country.
+Ira Hayes was a Marine paratrooper, a soldier trained to jump from planes by parachute. He came from the Gila River Indian Community in Arizona. On February 23, 1945, on Iwo Jima, he was one of the six men who raised the second American flag on Mount Suribachi. Newspapers across the country printed a photograph of that flag-raising.
 
-He was brought home to a fame he had not asked for, and he was paraded and toasted. The country celebrated the photograph and did little for the man.
+Hayes came home to a fame he had not asked for. People paraded him and toasted him. Americans celebrated the photograph and did little for Hayes himself.
 
-On January 24, 1955, at the Gila River community, Ira Hayes died of exposure after a night of drinking. He was 32.
+On January 24, 1955, at the Gila River community, Ira Hayes died of exposure after a night of drinking. Dying of exposure means dying from being left out in the cold or in other harsh weather without shelter. He was 32.
 <!-- hb-story:end slug="ira-hayes" -->
 
 <!-- hb-story:start slug="chester-nez-native-nations" name="Chester Nez" movie="" kind="ordinary" status="verified" -->
 ### Chester Nez
 
-> **Who:** Navajo Marine, one of the twenty-nine who built the code — and a boarding-school student punished for speaking the language the code was made from.
-> **When and where:** the Fort Defiance boarding school, Arizona, then the Pacific, 1942 to 1945; died June 4, 2014.
+> **Who:** Navajo Marine, one of the twenty-nine who built the code. As a boarding-school student, he was punished for speaking the language the code was made from.
+> **When and where:** the Fort Defiance boarding school, Arizona, then the Pacific, 1942 to 1945. He died June 4, 2014.
 
-At the Fort Defiance boarding school, Chester Nez's mouth was washed with soap for speaking Navajo.
+When Chester Nez spoke Navajo at the Fort Defiance boarding school, staff washed his mouth out with soap.
 
-In 1942 the Marine Corps sent recruiters to the Navajo Nation looking for young men who spoke Navajo fluently. Nez was one of the twenty-nine who went to San Diego and built the code out of the language.
+In 1942 Marine Corps officers sent recruiters to the Navajo Nation to find young men who spoke Navajo fluently. Nez was one of the twenty-nine who went to San Diego and built the code out of the language.
 
-He wrote what happened to him. *Code Talker*, published in 2011 with Judith Schiess Avila, is the only memoir by one of the original twenty-nine. He was the last of them. He died on June 4, 2014.
+He wrote about what happened to him in *Code Talker*, a memoir published in 2011 with Judith Schiess Avila. A memoir is a book about the writer's own life. It is the only memoir by one of the original twenty-nine. Nez outlived the other twenty-eight and died on June 4, 2014.
 <!-- hb-story:end slug="chester-nez-native-nations" -->
 <!-- hb-time:end id="1900-1950" -->
 

@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233b done. Part 2 (units 6-7) landed and self-reviewed. Part 3 not started.
-NEXT:   part 3, era 1900-1950.
+NOW:    T-233c: unit 8 (era 1900-1950) landed. Working on unit 9 (era 1950-2000).
+NEXT:   part 3, era 1950-2000, then 2000-today, then part 3 self-review.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -36,8 +36,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 5 | part1 era 1750-1800 | landed | commit T-233a 1750-1800 |
 | 6 | part2 era 1800-1850 | landed | commit T-233b 1800-1850 |
 | 7 | part2 era 1850-1900 | landed | commit T-233b 1850-1900 |
-| 8 | part3 era 1900-1950 | todo | |
-| 9 | part3 era 1950-2000 | todo | |
+| 8 | part3 era 1900-1950 | landed | commit T-233c 1900-1950 |
+| 9 | part3 era 1950-2000 | working | |
 | 10 | part3 era 2000-today | todo | |
 
 <!-- state: todo | working | landed | skipped (say why) -->
@@ -55,6 +55,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - Canasatego named as the 1744 speaker (already in the file's 1700-1750 era; bank §4) -> Great Law span.
 - 1800-1850 (T-233b): Tenskwatawa was known as "the Prophet", hence Prophetstown (bank §6 Tecumseh); the 1811 fight named as the Battle of Tippecanoe and the burning dated November 8 (bank §6); Library of Congress lists Sequoyah's birth as 1770 with a question mark (bank §6 Cherokee renaissance); the Seminole war named as the Second Seminole War (bank §6 Seminole).
 - 1850-1900 (T-233b): the Long Walk named (bank §7 wars); Sand Creek Massacre National Historic Site (bank §7, NPS source); Britannica entry titled "Wounded Knee Massacre" (bank §7); soldier crossfire attributed to Britannica and History.com (bank §7); Nez Perce distance "up to about 1,700 miles" in some accounts (bank §7 After and Disputes 5); Pratt's line misquoted as "kill the Indian, save the man", recorded words printed in the conference's official report (bank §7 schools); punishments tied to speaking one's language, and survivor accounts as a second source (bank §7 On arrival); outing system in summers and school terms (bank §7); burial sites "marked and unmarked" (bank §7 Scale); Meriam Report dated 1928 (bank §7 Half-day labor); Zitkala-Sa named as a student who turned the schooling against the policy (bank §7 other half); Wovoka from the Walker Lake country of Nevada (bank §7 Wounded Knee).
+- 1900-1950 (T-233c): Osage Allotment Act named for "a law of 1906" (bank §8 Osage); Collier's term 1933-1945 (bank §8 Citizenship); Meriam Report full title *The Problem of Indian Administration* (bank §8); *High Steel* directed by Don Owen, used to repair "the Film Board made" (bank Parked, Kahnawake line); half-day labor tied to school staff, and Nez's punishment tied to Fort Defiance staff (bank §7 On arrival / §8, policy §6b usage).
 
 ## Decisions and known gaps
 
@@ -79,6 +80,9 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - T-233b RULE DECISION: where the bank names no actor for a harm (the Mankato hanging, Crazy Horse's killing, who took Zitkala-Sa, who promised and who overruled Joseph's return), the prose states that the sources do not identify them, following T-233a. The group-name rule from T-233a (a people may act, an institution may not) is kept. Sources and reports take only approved verbs (states, lists, records, identifies).
 - T-233b NOTE: the final era zoom's closing clause "the number the next century starts from" was cut as a closing line. Part 3 era 1900-1950 must open from the 1900 low point itself if it wants that link.
 - Part 2 self-review done (V2 Self-Review + amendment §5): marker lines and record keys verified identical to pre-revision; prose words 3,670 -> about 4,500; average sentence about 14 words; hard words defined at first use (confederacy, void, syllabary, constitution, abolished, sovereignty, flag of truce, condemned, federal, recognized, reservation, military commission, interpreter, reprieved, mass execution, massacre, cavalry, bayonet, agency, allotment, surplus, rider, rations, annuities, Commissioner, Indian agent, solitary confinement, autobiography, copyright, uprising, disarming, band, carbine).
+- T-233c DEFECT FIXED (false statement): era 1900-1950 zoom said "in both [wars] the United States sent orders in Native languages". Per the file's own span, Choctaw soldiers began it in 1918 and Marine officers recruited Navajo in 1942. Zoom now names both.
+- T-233c DEFECT FIXED (agentless harm): Osage killers now stated as unnamed by the sources (bank names none). The 1930s taking of children now states the sources do not say who took them. Chester Nez punished by Fort Defiance staff (policy §6b wording).
+- T-233c DEFECT FIXED (suspense): Chester Nez span ended on "the Marine Corps came looking for him", a line built to land. Now states that recruiters signed him up to build a code out of Navajo.
 
 ## Log
 
@@ -92,3 +96,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 6 1800-1850 (T-233b) | full v2 revision of era zoom, 4 spans, Tecumseh, Sequoyah, Neugin, Osceola stories | 0 errors | file emdash=21 semicolon=11 (era 1800-1850 has 0)
 - 2026-09-26 | unit 7 1850-1900 (T-233b) | full v2 revision of both era zooms, 5 spans, Sitting Bull, Chief Joseph, Winnemucca, Zitkala-Sa stories | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | part 2 self-review (T-233b) | agent verbs, source verbs, definitions, sentence length, story first/last lines | 0 errors | file emdash=0 semicolon=0
+- 2026-09-26 | unit 8 1900-1950 (T-233c) | full v2 revision of era zoom, 6 spans, Thorpe, Hayes, Nez stories | 0 errors | file emdash=16 semicolon=7 (era 1900-1950 has 0)
