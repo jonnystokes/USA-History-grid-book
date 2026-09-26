@@ -11,7 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-242c in flight:** writing `land-environment` part 2 (eras 6-7). Part 1 is done.
+**T-242d in flight:** writing `land-environment` part 3 (eras 8-10). Parts 1 and 2 are done. Part 2
+survived a usage-limit kill through salvage and a continuation (T-242c2).
 **elements PASSES prose and research** (T-241 done). Written chapters: native-nations,
 city-building, immigration, science, elements.
 

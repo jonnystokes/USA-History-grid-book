@@ -124,7 +124,11 @@ environments. Only the git push is cloud-only.
    - If this container still holds the dead agent's transcript
      (`python tools/salvage_agent.py --list`), salvage it as RESUME.md says. That is a bonus,
      not the plan.
-4. Keep the same T-number for the continuation, suffixed `b`, `c`, and so on (T-233b), so
+4. **A file that validates is not a finished file** (learned 2026-09-26, T-242c). A killed agent
+   can leave an era that parses cleanly and is half-written: a summary promising sections that
+   were never added. Never close a unit from the validator alone after a kill. The continuation
+   agent checks the last era against the outline's plan and completes it.
+5. Keep the same T-number for the continuation, suffixed `b`, `c`, and so on (T-233b), so
    the ledger shows one task done in several goes.
 
 ---

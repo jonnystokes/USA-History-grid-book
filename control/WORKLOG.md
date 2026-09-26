@@ -2316,4 +2316,22 @@ RESULT: KILLED by the usage limit (session limit, reset 13:20 UTC). Jon's contin
 ### 2026-09-26 | [CLOUD] T-242c2 | Continue T-242c: self-review land-environment part 2, record gaps
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 3)
+RESULT: DONE. 152,221 tokens, 19 tool uses, 5 min. MEASURED: validator 0 · --punct 0/0 · 4 stories
+        verified · slugs unique.
+        FINDING: the salvaged era was NOT complete, although it validated clean. It had 3 spans,
+        and its summary stated bison, pigeon and Yellowstone facts that no span told. The
+        continuation added spans from the bank (hide hunters, the officers' words, Delano, Grant's
+        1874 pocket veto, Sheridan labelled single-source, the pigeon nestings, Yellowstone and the
+        Tukudika, the forest reserves) and the frank-mayer and john-muir stories. It fixed 3
+        personifications and 2 agentless passives.
+        Outline claims left out: 11. BLOCKING GAPS: who killed To Tu Ya's uncle, and what force
+        removed the Tukudika.
+LESSON (now in CLOUD-WORKFLOW §4): a file that validates is not a finished file. After a
+        kill, always send a continuation agent to check the era against its outline plan. Never
+        close the unit from the validator alone.
+
+### 2026-09-26 | [CLOUD] T-242d | Write land-environment PART 3 (eras 8-10), the last part
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md (unit 4)
+VERIFY: land-environment --stage prose SHOULD PASS.
 RESULT:

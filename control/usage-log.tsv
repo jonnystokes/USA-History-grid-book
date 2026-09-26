@@ -137,3 +137,5 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-241e	research+fix	general-purpose	[CLOUD] elements blocking gaps	?	?	?	385986	149	1209412	?	completed	9 closed, 3 partly, 4 unknown
 2026-09-26	T-242a	research	general-purpose	[CLOUD] land-environment pre-write bank check	?	?	?	?	?	?	?	completed	13 patches
 2026-09-26	T-242b	write-prose	general-purpose	[CLOUD] land-environment part1 (5 eras)	?	?	?	?	?	?	3584	completed	3 blocking gaps
+2026-09-26	T-242c	write-prose	general-purpose	[CLOUD] land-environment part2 (KILLED by usage limit)	?	?	?	?	?	?	?	killed	era 6 committed, era 7 written half
+2026-09-26	T-242c2	write-prose	general-purpose	[CLOUD] land-environment part2 continuation	?	?	?	152221	19	315659	?	completed	completed the half-written era
