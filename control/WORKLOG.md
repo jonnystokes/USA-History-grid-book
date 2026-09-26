@@ -2385,4 +2385,17 @@ RESULT: DONE. 7 PATCH blocks. Research PASS. Bank 6,398 -> 12,332w.
 ### 2026-09-26 | [CLOUD] T-243b | Write economy PART 1 (eras 1-5)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-243-economy.md (unit 2)
+RESULT: DONE. MEASURED: validator 0 · --punct 0/0 · 5/5 written · 3 stories verified (Rolfe, Eliza Lucas
+        Pinckney, Hamilton) · 3,414 words, average sentence 13.9 words.
+        DEFECTS FIXED: Cartier's "first" became "one of the earliest". The New England slave trade
+        was moved from the 1600s to the 1700s per the bank. The Manhattan purchase had no named
+        seller, so it was left out (land erasure). Personification fixed. The Pinckney story now
+        credits the Caribbean dye-makers and the enslaved workers. The unsourced "first Secretary"
+        title was dropped. Outline claims left out: 17.
+        BLOCKING GAPS (7, collected): who took Native people from Maine before 1524, whose land the
+        headright acres were, the causes of death on the Sally and the convict ships, and others.
+
+### 2026-09-26 | [CLOUD] T-243c | Write economy PART 2 (eras 6-7)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md (unit 3)
 RESULT:
