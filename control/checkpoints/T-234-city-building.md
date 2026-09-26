@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234a working on part 1, unit 5 (era 1750-1800).
-NEXT:   part 1, era 1750-1800.
+NOW:    T-234a finished part 1 (units 1-5 landed, whole-file self-review done, --punct 0/0). Part 2 not started.
+NEXT:   part 2, era 1800-1850.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -34,7 +34,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 2 | part1 era 1500s | landed | v2 revision, T-234a |
 | 3 | part1 era 1600s | landed | v2 revision, T-234a |
 | 4 | part1 era 1700-1750 | landed | v2 revision, T-234a |
-| 5 | part1 era 1750-1800 | working | |
+| 5 | part1 era 1750-1800 | landed | v2 revision, T-234a, plus whole-file self-review |
 | 6 | part2 era 1800-1850 | todo | |
 | 7 | part2 era 1850-1900 | todo | |
 | 8 | part3 era 1900-1950 | todo | |
@@ -51,6 +51,10 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1600s, bank "Fort towns" (MAAP/Columbia): Paulo d'Angola, Simon Congo and Anthony Portuguese are named as men who DUG the 1653 trench. The prose had named them only as 1644 half-freedom grantees and implied the link. Now stated.
 - 1600s, bank "Fort towns": the 1644 grant's words "at present born or yet to be born", now quoted for the children. "North River" glossed as the Hudson (MAAP: "to the Hudson River"). Wall "reported complete" (bank) replaces "reported standing".
 - 1600s, bank "Fort towns": Boston cow-path legend source named as Boston Magazine, 2018. Boston PD history pages as source for the watch as the start of the police.
+- 1750-1800, bank "The land the capital was built on": Residence Act SIGNED July 16, 1790 (prose had "Congress passed" on that date, an institution-as-actor and a date error). Washington "rode" the country. Nameroughquena (west bank of the Potomac, opposite Theodore Roosevelt Island) and a third unnamed town on a northwest bluff, added to the three Native towns. The 245 figure attributed to the Smithsonian NMAAHC (whose site was part of Young's plantation), 260 to Histories of the National Mall (George Mason Univ.).
+- 1750-1800, bank "L'Enfant": the Residence Act let the President appoint three commissioners (used to define "commissioners").
+- 1750-1800, bank "Banneker": Silvio Bedini, the NPS and the Library of Congress named as the historians crediting Banneker with the boundary astronomy.
+- 1750-1800, bank "Philadelphia's waterworks": 20,000 "fled" (prose had "left").
 
 ## Decisions and known gaps
 
@@ -64,6 +68,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1600s: the bank has nothing on which Native nations lived on the sites of Jamestown, Boston, New Amsterdam or Philadelphia, so the prose cannot name them. "Before the settlers arrived" now reads "before the English settlers arrived" so it does not imply empty land. Gap for AUDIT-QUEUE (land-erasure watch).
 - 1600s: Wall paragraphs reordered so the workers stay the subject and the name of Wall Street comes first. Closing lines "The wall is long gone..." and "Nobody decided Boston's streets. Somebody decided Philadelphia's..." (antithesis, closing reversal) removed, their facts moved into earlier sentences.
 - 1700-1750: span label "Fire, the city killer" personifies fire, but marker lines are frozen by the brief. Left as is, flagged for AUDIT-QUEUE.
+- 1750-1800: era summary and span no longer withhold names ("a French-born engineer ... a free Black farmer" now L'Enfant, Ellicott, Banneker). "Washington looks like no other American city" cut as an unsourced superlative; the two-street-system fact kept. "workmen moved his body" became a passive: the bank says only "reinterred", with no actor. Closing moral "The idea lasted..." cut, and its fact kept as a plain sentence. Native deaths "in wars": the NPS page does not say who fought, and the prose says so. Tobacco "inspection house" glossed from the term itself, not from the bank.
 - 1700-1750: "London ... hundreds of thousands" and "volunteer fire companies ... for the next hundred years" are in the outline/prose, not in the bank. Kept, flagged for AUDIT-QUEUE.
 
 ## Log
@@ -74,3 +79,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | 2 1500s | era revised to v2 | 0 errors | era clean
 - 2026-09-26 | 3 1600s | era revised to v2 | 0 errors | era clean
 - 2026-09-26 | 4 1700-1750 | era revised to v2 | 0 errors | era clean
+- 2026-09-26 | 5 1750-1800 + whole-file self-review | revised to v2 | 0 errors | emdash=0 semicolon=0

@@ -22,13 +22,15 @@ The people who built these places kept no written records. So the name of no sin
 <!-- hb-zoom level="span" label="Cahokia, a city laid out on purpose" -->
 Near where St. Louis, Missouri, stands today, people built up the city of Cahokia quickly from about 1050. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. London had about as many people at the same date. Some estimates put as many as 50,000 people in the wider settlement around the center. Scholars have not settled those larger figures.
 
-The people of Cahokia laid their city out on purpose. At its center they raised Monks Mound, the largest prehistoric earthen structure in the Americas. Prehistoric means built before anyone living here kept written records. The mound holds about 814,000 cubic yards of earth. People carried all of it and packed it down by hand, and they raised the mound in stages. It has four flat terraces, or wide steps, and its top stands about 100 feet high. Its base covers roughly 14 acres. UNESCO is the United Nations body that keeps the World Heritage list of historic sites. Its listing for Cahokia records fourteen separate building stages in the mound.
+The people of Cahokia laid their city out on purpose. At its center they raised Monks Mound, the largest prehistoric earthen structure in the Americas. Prehistoric means built before anyone living here kept written records. The mound holds about 814,000 cubic yards of earth. People carried all of it and packed it down by hand, and they raised the mound in stages.
 
-At the foot of the mound lay the Grand Plaza, about 50 acres of open ground. People leveled it on purpose and filled it in by hand so that it was flat. They gathered there and played chunkey, a game played with a rolling stone disk.
+It has four flat terraces, or wide steps, and its top stands about 100 feet high. Its base covers roughly 14 acres. UNESCO is the United Nations body that keeps the World Heritage list of historic sites. Its listing for Cahokia records fourteen separate building stages in the mound.
+
+The Grand Plaza, about 50 acres of open ground, lay at the foot of the mound. People leveled it on purpose and filled it in by hand so that it was flat. They gathered there and played chunkey, a game played with a rolling stone disk.
 
 West of Monks Mound the builders set up a circle of tall red cedar posts. They built five of these circles, one after another, and each new circle took the place of the last. The posts line up with the points on the horizon where the sun rises at the solstices and the equinoxes. The solstices are the longest day and the shortest day of the year. The equinoxes are the two days between them when day and night are equal in length. So the posts worked as a calendar, and the builders set them into the plan of the city.
 
-Around the central part of the city ran a palisade, a wall of upright logs about two miles long. People began it around 1100 and rebuilt it three times over about two hundred years. Each rebuilding took between 15,000 and 20,000 logs of oak and hickory, each roughly a foot thick and twenty feet tall. People cut, hauled and stood up every one of those logs.
+A palisade, a wall of upright logs about two miles long, ran around the central part of the city. People began it around 1100 and rebuilt it three times over about two hundred years. Each rebuilding took between 15,000 and 20,000 logs of oak and hickory, each roughly a foot thick and twenty feet tall. People cut, hauled and stood up every one of those logs.
 
 By about 1350 the people of Cahokia had scattered and left the city.
 <!-- /hb-zoom -->
@@ -48,13 +50,15 @@ People began leaving Chaco in the 1140s. That date marks the start of the leavin
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In 1565 the Spaniard Pedro Menendez de Aviles founded St. Augustine on the Florida coast, at a Timucua village. It is the only town Europeans founded on this land in the 1500s that still stands. Eight years later the king of Spain issued written orders that set out how Spanish officials must lay out every new town. The records from these years do not describe the life of any single town-builder in enough detail to tell as a story.
+In 1565 the Spaniard Pedro Menendez de Aviles founded St. Augustine on the Florida coast, at a Timucua village. It is the only town Europeans founded on this land in the 1500s that still stands. Eight years later the king of Spain issued written orders that stated how Spanish officials must lay out every new town. The records from these years do not describe the life of any single town-builder in enough detail to tell as a story.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="St. Augustine and the Laws of the Indies" -->
 In September 1565 Pedro Menendez de Aviles founded St. Augustine on the coast of Florida. He placed it on the site of Seloy, a village of the Timucua people. People have lived in St. Augustine without a break ever since. It is the oldest city founded by Europeans in the continental United States where that is true.
 
-In 1573 King Philip II of Spain issued a set of ordinances called the Laws of the Indies. An ordinance is a written order with the force of law. These ordinances stated exactly how the men who founded Spanish towns had to lay them out. Each town began with a central plaza, which is a public square of open ground with the town built around it. Its sides had to face north, south, east and west. The plaza had to be one and a half times as long as it was wide. The streets ran out from it in a grid, a pattern of straight streets that cross each other at right angles, like the lines on a sheet of graph paper. The founders had to set aside certain lots for the church and for the government buildings. Writers on the history of town planning count these among the first standard town-planning rules written anywhere in the world. A standard rule is one that sets the same pattern for every town, wherever Spanish officials founded one.
+In 1573 King Philip II of Spain issued a set of ordinances called the Laws of the Indies. An ordinance is a written order with the force of law. These ordinances stated exactly how the men who founded Spanish towns had to lay them out.
+
+Each town began with a central plaza, which is a public square of open ground with the town built around it. The plaza's sides had to face north, south, east and west, and it had to be one and a half times as long as it was wide. The streets ran out from it in a grid, a pattern of straight streets that cross each other at right angles, like the lines on a sheet of graph paper. The founders had to set aside certain lots for the church and for the government buildings. Writers on the history of town planning count these among the first standard town-planning rules written anywhere in the world. A standard rule is one that sets the same pattern for every town, wherever Spanish officials founded one.
 
 St. Augustine's Plaza de la Constitucion was laid out under those 1573 ordinances, after the town already existed. Government buildings and the church faced onto it, and traders began holding a market there in 1598. It is the oldest public square in the country. Across what is now the Southwest, Spanish town-builders went on laying out towns in the same plaza-and-grid pattern.
 <!-- /hb-zoom -->
@@ -98,7 +102,7 @@ In 1682 William Penn made Thomas Holme his surveyor-general, the chief surveyor 
 
 Penn wrote down the kind of town he wanted: "a greene Country Towne which will never be burnt, and always be wholesome." He wrote those words in his instructions for laying out the town. Wholesome meant healthy to live in.
 
-Holme drew a straight grid on the land between the Delaware and the Schuylkill rivers. Two wide main streets crossed it, Broad Street and High Street. High Street is now called Market Street. Holme drew the streets wide partly as a lesson from the fire that burned London in 1666. He made them wide enough to keep a fire from crossing from one row of houses to the next. Where the two main streets crossed, Holme placed a large central square, with one smaller public square in each of the four quarters of the town.
+Holme drew a straight grid on the land between the Delaware and the Schuylkill rivers. Two wide main streets crossed it, Broad Street and High Street. High Street is now called Market Street. Holme drew the streets wide, partly as a lesson from the fire that burned London in 1666. He made them wide enough to keep a fire from crossing from one row of houses to the next row. Where the two main streets crossed, Holme placed a large central square, with one smaller public square in each of the four quarters of the town.
 
 All five squares are still there. The four quarter squares are now Logan, Franklin, Washington and Rittenhouse squares, and Philadelphia's City Hall stands on the center square.
 <!-- hb-story:end slug="william-penn" -->
@@ -108,7 +112,7 @@ All five squares are still there. The four quarter squares are now Logan, Frankl
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the first half of the 1700s the colonial ports grew into small cities, and the people in them began to face the problems of city life, starting with fire.
+The colonial ports grew into small cities in the first half of the 1700s, and the people in them began to face the problems of city life, starting with fire.
 
 Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston. Some sources date the Charleston count to 1760 rather than 1750, so "about 8,000" is as close as the record allows. These four were the biggest towns in the colonies. London at the same date had hundreds of thousands of people.
 
@@ -141,23 +145,25 @@ Men in other towns set up volunteer fire companies on the same plan. For the nex
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-The men running a brand-new country decided to build themselves a capital city, and to have the whole of it drawn on paper before it was built. The ground they chose was not empty. Native towns had stood on it. Two tobacco ports were standing on it when they chose it. The rest of it was farmland, and the people working that farmland were enslaved.
+In 1790 and 1791 the members of Congress and President George Washington chose ground on the Potomac River for the capital city of the new country. They wanted the whole city drawn on paper before anyone built it. Three Native towns had once stood on that ground. When Washington chose the site, people lived there in two tobacco ports, and enslaved people worked the farmland around them.
 
-In the same years, after yellow fever killed about one Philadelphian in every ten, workers in Philadelphia dug and laid the first public water supply in the country driven by steam.
+In 1793 yellow fever killed about one person in every ten in Philadelphia. After the fever came back in 1798, workers in Philadelphia dug and laid the first public water supply in the country driven by steam.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The ground the capital was built on" -->
-On July 16, 1790 Congress passed the Residence Act. In it the members put the capital somewhere on the Potomac River, in a space no bigger than ten miles square, and left it to President George Washington to say exactly where. He went and looked at the country himself, chose the ground at and beside Georgetown, and told Congress on January 24, 1791.
+On July 16, 1790, President George Washington signed the Residence Act, a law the members of Congress had passed. In it they placed the capital somewhere on the Potomac River, inside a square no bigger than ten miles on each side. They left it to Washington to say exactly where. He rode out and looked at the country himself and chose the ground at and beside Georgetown. He told Congress his choice on January 24, 1791.
 
-Three Native towns had stood inside that square of land. The largest was Nacotchtank, on the southeast side of the Anacostia River; the river's name comes from theirs. The first European known to have reached that stretch of the Potomac was Captain John Smith, in 1608. The National Park Service states what followed: within forty years of that contact, the number of Native people living in the region was about a quarter of what it had been. They died of diseases Europeans brought and in wars. Others joined nations to the north, south and west.
+Three Native towns had stood inside that square of land. The largest was Nacotchtank, on the southeast side of the Anacostia River, and the river's name comes from the town's name. A second town, Nameroughquena, stood on the west bank of the Potomac, across from today's Theodore Roosevelt Island. The third stood on a bluff in the northwest part of today's city, and the record does not give its name.
 
-Two towns were standing there when Washington chose the site, and both are still there. The Virginia assembly established Alexandria in 1749, and the county surveyor, John West, laid out its first sixty acres around Hugh West's tobacco warehouse on the bluffs above the river. The Maryland assembly authorized Georgetown in 1751 and bought sixty acres for it from George Gordon and George Beall for £280; it had a tobacco inspection house, and it grew into a tobacco port. Both stood inside the ten-mile square. Jones Point, where the boundary survey began, is at Alexandria.
+In 1608 Captain John Smith reached that stretch of the Potomac, the first European known to have done so. A National Park Service history of the Native peoples of Washington states what followed. Within forty years of that first contact, only about a quarter as many Native people lived in the region as before 1608. People had died of diseases that Europeans brought and in wars, and the Park Service page does not say who fought those wars. Others had moved away and joined nations to the north, south and west.
 
-The rest was farms, and the main crop was tobacco. Five men owned the ground where the National Mall is now: Daniel Carroll of Duddington, David Burnes, Notley Young, Benjamin Oden, and Samuel Davidson. They held people in slavery, and enslaved men and women raised the tobacco, the corn, the wheat and the cattle on that land. Notley Young's tobacco plantation ran to 800 acres. The census of 1790 counted 245 people enslaved on it. Another account of the same plantation says 260. Young's land went to the new government in 1791. All five men were paid for their ground, and they are still called the Original Proprietors.
+Two towns stood inside the square when Washington chose it, and both are still there. In 1749 Virginia's colonial lawmakers voted to create the town of Alexandria. The county surveyor, John West, laid out its first sixty acres around Hugh West's tobacco warehouse, on the bluffs above the river. In 1751 Maryland's colonial lawmakers approved the town of Georgetown. They paid George Gordon and George Beall £280 for sixty acres for it. The site already had a tobacco inspection house, a building where tobacco was checked before it was shipped, and Georgetown grew into a tobacco port. Jones Point, where the survey of the district's boundary began, is at Alexandria.
 
-Two jobs had to be done before anything could be built. Somebody had to survey the boundary — measure the ground and mark exactly where the district's corners and edges lay. And somebody had to draw the city that would go inside it.
+The rest of the land was farms, and the main crop was tobacco. Five men owned the ground where the National Mall is now: Daniel Carroll of Duddington, David Burnes, Notley Young, Benjamin Oden and Samuel Davidson. All five held people in slavery. Enslaved men and women raised tobacco, corn, wheat and cattle on that land.
 
-The city plan came from a French-born engineer who was dismissed the year after he drew it. The boundary astronomy was done by a free Black farmer from Maryland, working under the surveyor who ran the job.
+Notley Young's tobacco plantation covered 800 acres. The Smithsonian's National Museum of African American History and Culture stands on part of that plantation. The museum gives the number of people enslaved there as 245, from the census of 1790. The Histories of the National Mall project at George Mason University gives 260. Federal officials bought Young's land in 1791. All five men were paid for their ground, and they are still called the Original Proprietors, which means the first owners.
+
+Before anyone could build the city, two jobs had to be done. A crew had to survey the boundary, which means measuring the ground and marking exactly where the district's corners and edges lay. Someone also had to draw the plan of the city that would go inside it. Andrew Ellicott ran the boundary survey. Benjamin Banneker, a free Black farmer from Maryland, did the astronomy for it, working under Ellicott. Pierre L'Enfant, an engineer born in France, drew the city plan in 1791, and Washington dismissed him the next year.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="pierre-lenfant" name="Pierre L'Enfant" movie="" kind="famous" status="verified" -->
@@ -166,13 +172,13 @@ The city plan came from a French-born engineer who was dismissed the year after 
 > **Who:** The French-born engineer who designed the plan of Washington, D.C., and was dismissed before it was built.
 > **When and where:** The federal district, 1791 to February 1792.
 
-In 1791 Pierre Charles L'Enfant drew the plan of the capital. He laid a street grid down and then cut grand diagonal avenues across it, meeting at circles and squares. That is why Washington looks like no other American city: two street systems on top of each other, one square and one slanting.
+In 1791 Pierre Charles L'Enfant drew the plan of the capital. He laid down a street grid and then drew diagonal avenues across it that meet at circles and squares. So Washington has two street systems laid over each other, one square and one slanting.
 
-Then he lost the job. The commissioners appointed over him asked for his original drawing so an engraver could cut it into a printing plate and copies could be printed. L'Enfant refused to hand it over. He would not take direction from the commissioners either. In February 1792 George Washington dismissed him for insubordination, which means refusing to obey the men set above him.
+Under the Residence Act, Washington appointed three commissioners to oversee the new city, and L'Enfant worked under them. The commissioners asked for his original drawing so that an engraver could cut it into a printing plate and print copies. L'Enfant refused to hand it over, and he would not take direction from the commissioners in other matters either. In February 1792 George Washington dismissed him for insubordination, which means refusing to obey the people in charge of you.
 
-Andrew Ellicott, working with his brother Benjamin, reconstructed the plan from what he knew of it, and changed parts of it: he straightened Massachusetts Avenue and took out some of the squares. The engraving Thackara and Vallance made from that version, in March 1792, was the plan that circulated widely, and it is the plan the city was built from.
+Andrew Ellicott, with help from his brother Benjamin, rebuilt the plan from what he knew of it. He also changed parts of it, straightening Massachusetts Avenue and taking out some of the squares. The engravers Thackara and Vallance made an engraving of Ellicott's version in March 1792. Copies of their engraving were the first plan of the city that many people saw, and builders laid out the city from it. So the city was built roughly to L'Enfant's design.
 
-L'Enfant died poor in 1825. In 1909 workmen moved his body to Arlington National Cemetery, on the hillside above the city that was built roughly to his design.
+L'Enfant died poor in 1825. In 1909 his body was moved and buried again at Arlington National Cemetery, on a hillside above the city.
 <!-- hb-story:end slug="pierre-lenfant" -->
 
 <!-- hb-story:start slug="benjamin-banneker" name="Benjamin Banneker" movie="" kind="famous" status="verified" -->
@@ -181,24 +187,24 @@ L'Enfant died poor in 1825. In 1909 workmen moved his body to Arlington National
 > **Who:** A free Black tobacco farmer and self-taught astronomer who made the observations that fixed the starting corner of the federal district.
 > **When and where:** The survey's base camp at Jones Point, Virginia, February to April 1791.
 
-George Ellicott recommended Banneker, and Major Andrew Ellicott hired him as scientific assistant on the survey of the ten-mile square. Banneker was nearly sixty, farmed tobacco, and had taught himself astronomy.
+George Ellicott recommended Banneker, and Major Andrew Ellicott hired him as scientific assistant on the survey of the ten-mile square. Banneker was nearly sixty. He farmed tobacco, and he had taught himself astronomy, the science of the stars and planets.
 
-His work was the night work. Fixing a position on the earth by astronomy means watching particular stars cross a particular point in the sky, recording the moment exactly, and calculating from that. Banneker made those observations and did those calculations. He also kept the regulator clock — the precision clock every one of those timings was measured against — running true. The work fixed the district's south corner at Jones Point. He was paid $2 a day, which was an ordinary day's pay for an assistant. Andrew Ellicott was paid $5.
+Banneker worked at night. To find a position on the earth by astronomy, an observer watches particular stars cross a particular point in the sky and records the exact moment. The observer then calculates the position from those times. Banneker made those observations and did those calculations. He also kept the regulator clock running true. A regulator clock is a very exact clock, and every one of those timings was measured against it. Banneker used his observations and calculations to fix the district's south corner at Jones Point. He was paid $2 a day, an ordinary day's pay for an assistant. Andrew Ellicott was paid $5.
 
-Banneker left the survey in the spring of 1791, before the full forty miles of boundary had been run. He was in poor health. The next year he published his first almanac.
+Banneker left the survey in the spring of 1791, before the crew had run the full forty miles of the boundary. He was in poor health. The next year he published his first almanac, a book printed once a year with a calendar and tables of the sun, moon and stars.
 
-There is a popular story that after L'Enfant was dismissed, Banneker reproduced the whole plan of Washington from memory. It is a legend, and the dates rule it out: Banneker had left the project about ten months before the dismissal, and it was Andrew Ellicott who reconstructed the plan. What the National Park Service and the historians who have worked through the records credit Banneker with is the boundary astronomy — the observations that put the corner of the capital where it is.
+According to a popular story, Banneker redrew the whole plan of Washington from memory after L'Enfant was dismissed. The story is a legend. Banneker had left the project about ten months before L'Enfant was dismissed, and Andrew Ellicott rebuilt the plan. The historian Silvio Bedini and writers for the National Park Service and the Library of Congress have worked through the records. They credit Banneker with the astronomy for the boundary survey, the observations used to set the corner of the capital where it is.
 <!-- hb-story:end slug="benjamin-banneker" -->
 
 <!-- hb-zoom level="span" label="Water after the fevers" -->
-Yellow fever is a disease people catch from the bite of a mosquito carrying the virus. Most people who get it have fever, chills, headache and vomiting, and then recover. In about one case in seven the fever eases and then comes back worse. In that stage the virus destroys cells in the liver, and as the liver fails the skin and the whites of the eyes turn yellow, which is what the disease is named for. Bleeding starts — from the mouth, the nose and the eyes, and into the stomach, where blood mixes with stomach acid and comes back up black. People at the time called that the black vomit. The kidneys fail as well. Of the people who reach that stage, between 30 and 60 percent die.
+Yellow fever is a disease caused by a virus. People catch it from the bite of a mosquito that carries the virus. Most people who get it have fever, chills, headache and vomiting, and then they recover.
 
-In Philadelphia it killed about 5,000 people between August 1 and November 9, 1793. About 50,000 people lived in the city, so it killed roughly one of every ten of them. About 20,000 more left the city, among them the officials of the new federal government.
+In about one case in seven, the fever eases and then comes back worse. In that stage the virus destroys cells in the liver. As the liver fails, the skin and the whites of the eyes turn yellow, and that color gives the disease its name. The person bleeds from the mouth, the nose and the eyes, and into the stomach. In the stomach the blood mixes with stomach acid and comes back up black. People at the time called it the black vomit. The kidneys fail as well. Of the people who reach that stage, between 30 and 60 percent die.
 
-It came back in 1798. After that, the men governing the city decided Philadelphia had to bring in clean water and push it through the streets.
+Yellow fever killed about 5,000 people in Philadelphia between August 1 and November 9, 1793. About 50,000 people lived in the city, so the fever killed roughly one of every ten of them. About 20,000 other people fled the city, among them the officials of the new federal government.
 
-They hired Benjamin Henry Latrobe, an engineer and architect. Work on the Centre Square Water Works began in 1799. Workers erected the engine from February 1800. On January 21, 1801, its steam pumps started pushing water out of the Schuylkill River and into the city. Philadelphia was the first American city with a public water supply driven by steam.
+The fever came back in 1798. After that, the men governing the city decided to bring clean water into Philadelphia and carry it through the streets. They hired Benjamin Henry Latrobe, an engineer and architect. Workers began building the Centre Square Water Works in 1799. Nicholas J. Roosevelt built its engines and pumps under a contract worth $33,000. The steam engine went up from February 1800. On January 21, 1801, the steam pumps started pushing water out of the Schuylkill River and into the city. Philadelphia was the first American city with a public water supply driven by steam.
 
-Nicholas J. Roosevelt built the engines and pumps under contract for $33,000. The Centre Square works did not last long; a larger set of works at Fairmount replaced it in 1815. The idea lasted. The men who governed a city could decide to supply its water themselves, raise the money, and dig.
+The men governing Philadelphia had raised the money for the works and had them built, so the city's own leaders supplied its water. Centre Square ran for only fourteen years. In 1815 a larger set of works at Fairmount replaced it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
