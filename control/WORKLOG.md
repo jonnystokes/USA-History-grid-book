@@ -2017,4 +2017,30 @@ CHECKPOINT: control/checkpoints/T-238-immigration-bank.md (9 units, listed there
 VERIFY: immigration --stage research still PASSES. Each unit landed as a new bank subsection
         with named actors and sources.
 NEXT AFTER: T-237b2 revises part 2 from the patched bank. Then T-237c writes part 3.
+RESULT: DONE. 9 patch subsections appended, each pushed. immigration research still PASSES.
+        Bank 17,351w.
+        NOW IN THE BANK: Ursuline convent 1834 (13 arrested, 12 acquitted, 1 convicted and
+        pardoned). Philadelphia 1844 (19 indicted, "only a handful" convicted). The famine's human
+        causes (food exports per Kinealy, Russell refused to ban them, Trevelyan in his own words,
+        the quarter-acre clause, 250,000 to 500,000+ evicted, 1 to 1.5 million dead). LA 1871, Rock
+        Springs, Eureka, Tacoma, Seattle and Hells Canyon 1887 (almost no one punished). The
+        railroad "1,200" is one 1870 newspaper's guess, another reported about 50, and the causes
+        were avalanches and explosions. Pogroms 40-50 dead. Louisville 1855 (at least 22 dead, 5
+        indicted, none convicted). Angel Island. Laughlin, Grant and Johnson behind the 1924 Act.
+        Mexican Repatriation (500,000 to 2 million, about 60% US citizens). Operation Wetback (INS
+        claimed 1.3 million, a historian estimates about 300,000, 88 heat deaths). The 2018
+        separations (Sessions, 3,924 children). Border deaths 2018-2023. Enforcement figures to
+        July 2026.
+        CORRECTIONS NOTED IN THE BANK: famine "blight caused", railroad "~1,200 died", Know-Nothings
+        belong in era 7.
+        FLAG FOR JON: the Tung Trinh (Bolinao 52) block, dated 2026-07-23 and so older than the
+        no-softening ruling, says the cannibalism during the drift is "deliberately omitted from
+        the kids' prose". That is a sanitization decision.
+
+### 2026-09-26 | [CLOUD] T-237b2 | Revise immigration PART 2 from the patched bank
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-237-immigration.md (units 6-7, revision pass)
+VERIFY: part 2 validates, --punct 0/0, no "sources ... do not record" sentence left where the
+        bank now has the fact. The famine, the riots, anti-Chinese violence, the railroad deaths
+        and the pogroms are stated with named actors.
 RESULT:

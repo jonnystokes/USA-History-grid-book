@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-238 in flight:** patching the immigration research bank with the hard subjects it lacked
+**T-237b2 in flight:** revising immigration part 2 from the patched bank. T-238 (done) patched the bank with the hard subjects it lacked
 (anti-Chinese massacres, nativist riots, the famine's causes, pogroms, and pre-checks for
 eras 8-10). Then T-237b2 revises part 2 and T-237c writes part 3. Parts 1 and 2 are written.
 T-236 is done (the Acoma account is in, and native-nations still PASSES). war PASSES research.
