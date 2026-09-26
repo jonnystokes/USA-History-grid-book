@@ -1902,3 +1902,17 @@ RESULT: *** PASS. city-building passes prose under style guide v2. Both previous
         FINDING: about 55 more claims are not in the bank, about 78 across the chapter. They are
         listed in the checkpoint.
 T-234 COMPLETE: 3 agents, 528,000 tokens in all, about 30 minutes.
+
+### 2026-09-26 | [CLOUD] OPTION B STEP 0 COMPLETE, NUMBER PROBE ADDED
+native-nations and city-building both PASS prose under style guide v2 (T-233, T-234). Six
+agents, about 1.14M tokens. Added tools/bank_coverage.py (report only). Its first result: it
+detects thin banks but not the qualitative unsourced claims city-building had. A proposal
+that writers take facts only from the bank is in AUDIT-QUEUE, awaiting Jon.
+
+### 2026-09-26 | [CLOUD] T-235a | Research war ERAS 5-7 (1750-1800, 1800-1850, 1850-1900)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-235-war.md (units 1-3)
+VERIFY: eras 5-7 end with progress="researched", 0 target, 0 candidate and 0 [VERIFY] in
+        those eras. The chapter FAILs until eras 8-10 are done (T-235b).
+EXPECT: about 6 stories. The policy's war ruling is individual scale.
+RESULT:

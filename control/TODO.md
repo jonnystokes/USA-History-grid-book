@@ -11,13 +11,15 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-234c in flight:** v2 revision of `city-building` part 3 (eras 8-10), the last part. Parts 1 and 2 are done and verified. Checkpoint:
-`control/checkpoints/T-234-city-building.md`.
+**T-235a in flight:** research on `war` eras 5-7. T-235b (eras 8-10) follows. Checkpoint:
+`control/checkpoints/T-235-war.md`.
 
-**native-nations PASSES `--stage prose` under v2** (T-233, done 2026-09-26).
+**Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
-**Waiting on Jon (not blocking):** a ruling on the Acoma assault account (AUDIT-QUEUE, the
-"Acoma, 1598" entry).
+**Waiting on Jon (not blocking):**
+- A ruling on the Acoma assault account (AUDIT-QUEUE, the "Acoma, 1598" entry).
+- **Needed before the Phase 2 writers start:** should writers take facts only from the bank,
+  not from the outline? (AUDIT-QUEUE, the "Proposal for Jon" entry.)
 
 Jon chose **Option B**, docs cleaned first (done 2026-09-26). The queue is below.
 
