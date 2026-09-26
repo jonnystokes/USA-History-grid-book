@@ -12,7 +12,7 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a DONE. Part 1 (eras 1-5) written, self-reviewed, 0 validator errors, emdash=0 semicolon=0. 6 stories.
+NOW:    T-237a DONE (part 1, eras 1-5). T-237b IN PROGRESS: unit 6 (1800-1850) landed. Writing part2 era 1850-1900 (unit 7).
 NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s.md, same layout as part1).
 
 ## Units
@@ -24,8 +24,8 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 | 3 | part1 era 1600s | landed | 6 spans + stories frethorne, hutchinson, jewish-refugees-1654 |
 | 4 | part1 era 1700-1750 | landed | 4 spans + story zenger |
 | 5 | part1 era 1750-1800 | landed | 3 spans + stories hamilton, toussaint |
-| 6 | part2 era 1800-1850 | todo | |
-| 7 | part2 era 1850-1900 | todo | |
+| 6 | part2 era 1800-1850 | landed | file created. 3 spans + stories jette-bruns, patrick-kennedy-bridget-murphy |
+| 7 | part2 era 1850-1900 | working | |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -41,7 +41,17 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 - Toussaint "quietly", "for years", "the city's first Catholic charities" (outline line 86). Bank: "early Catholic charities". Left out / written as bank.
 - Zenger "the poor refugee boy" and "1735 acquittal began press freedom in America" (outline line 66). Bank gives only the 1735 seditious-libel acquittal. Left out.
 
+- [T-237b, 1800-1850] Irish "grew through the 1840s" (outline line 96): bank gives no decade for anti-Irish feeling. Left out.
+- [T-237b] Kennedy "on a farm" (outline line 100), Bridget "made the same crossing", "leaving Bridget a widow with four young children", "youngest son's grandson", JFK "president in 1961": bank has none of these (bank: five children, line Patrick > P.J. > Joseph P. > JFK). Left out.
+- [T-237b] Jette Bruns "a doctor sold on the promise of cheap land", letters "recording frontier sickness, grief, work, and the long strangeness of a new country" (outline line 104). Not in bank. Left out.
+- [T-237b] Germans "pushed by ... for a few thousand" is in bank. Outline's "Ports: New York chiefly" kept as bank's "chief port".
+
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
+
+- [T-237b, 1800-1850] SOFTENING / GIST GAP (bank s6): the Irish famine is given only as "a potato blight caused mass starvation". The bank has no human actors (landlords, evictions, British government food policy). Prose states the bank's facts only. Audit should add the documented human causes to the bank.
+- [T-237b, 1800-1850] REIFICATION (bank s6 and outline): "Anti-Irish and anti-Catholic feeling grew". Prose: "Some Americans turned against the Irish newcomers and against Catholics". Bank gives no acts, places, numbers or dates (no Philadelphia 1844 riots, no Ursuline convent burning). Audit gap: nativist riots are absent from the bank, so the prose cannot state them.
+- [T-237b, 1800-1850] PERSONIFICATION (outline line 96): "the Act signed March 2, 1807" as actor ("Legal arrival ... ended under the Act"). Prose: "President Thomas Jefferson signed a law that banned ...". Smuggling agentless in bank ("smuggling continued"): prose "Smugglers kept bringing in captives".
+- [T-237b] Glosses (1800-1850, general knowledge, definitions only): importation, democratic government, professionals, Westphalia = a region of Germany, Jefferson City = capital of Missouri, boardinghouse, capitol, potato blight = plant disease, famine, Catholics = church led by the pope in Rome, cooper = barrel maker, cholera (disease from dirty water or food, heavy diarrhea, death within days).
 
 - Glosses from general knowledge, not in the bank (word definitions only, no historical claim): "Norse" = sailors from northern Europe; Newfoundland "in what is now Canada"; land bridge = dry ground joining Asia to North America.
 - LAND ERASURE GAP (bank): bank section 2 does not name the Native nation on whose land Menendez built St. Augustine, and section 3 names only the Powhatan for the 1600s colonies (no Wampanoag for Plymouth, no nation for Massachusetts Bay, New Amsterdam, Maryland or Pennsylvania). Prose states "on Native land" from the bank's general lines. Audit should add the nations to the bank.
@@ -67,6 +77,7 @@ NEXT:   part 2, era 1800-1850 (T-237b: create manuscript/immigration/part2-1800s
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
+- 2026-09-26 | 6 1800-1850 (T-237b) | ~1,000 prose | 0 errors (--part), 2 stories | emdash=0 semicolon=0
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
 - 2026-09-26 | part1 self-review done | 3,180 prose words, avg sentence 13.1 | 0 errors (--part), 6 stories | emdash=0 semicolon=0
