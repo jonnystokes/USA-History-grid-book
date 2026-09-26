@@ -203,4 +203,8 @@ will be worded differently, which is exactly why a search will not find it.
   the outline states something the bank does not, do not write it. List it in your report."
   That may make some chapters thinner. It also makes every sentence traceable. Awaiting
   Jon's ruling before the Phase 2 writing agents start.
+- **war (from T-235b, 2026-09-26).** Topics left out rather than hedged: rape at My Lai, Agent
+  Orange, drones, and ordinary WWII and post-9/11 veterans (see `workspace/war.md`).
+  PERISHABLE: the 2026 Venezuela operation and Iran war figures. One of them came from a search
+  summary (the Washington Post page returned 403). Re-verify before prose.
 

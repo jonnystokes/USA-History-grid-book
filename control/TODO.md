@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-235b in flight:** research on `war` eras 8-10, the last slice. Eras 1-7 are done. Checkpoint:
+**T-236 in flight:** adding the Acoma account to native-nations part 1 (DECISIONS #14). **war PASSES research** (T-235 done). Checkpoint:
 `control/checkpoints/T-235-war.md`.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.

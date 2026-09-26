@@ -1934,4 +1934,26 @@ CHECKPOINT: control/checkpoints/T-235-war.md (units 4-6)
 VERIFY: python tools/project_state.py --check war --stage research SHOULD PASS.
 EXPECT: 6 targets and 1 [VERIFY]. Hand-offs from T-235a are in workspace/war.md. This is the
         last agent on the chapter, so it also audits every era's progress= flag.
+RESULT: *** PASS. war is researched. ***
+        359,764 tokens, 185 tool uses, 27 min.
+        PASS  war / research | stage=RESEARCHED eras=10/10 stories=19 (v19 c0 t0) verify_tags=0
+        bank=22314w outline=14377w validator_errors=0
+        STORIES: Henry Gunther, Benjamin O. Davis Jr., Daniel Inouye (fills the WWII GI slot. He
+        was a volunteer, not a draftee, and says so), Chester Nez, Ron Kovic, Muhammad Ali, Hugh
+        Thompson Jr., Pat Tillman, Tammy Duckworth. New slugs checked unique.
+        RESOLVED: the 1973 [VERIFY]. The last draft call was Dec 7, 1972, and the draft authority
+        expired June 30, 1973.
+        DISPUTES RECORDED: WWI flu deaths, No Gun Ri, My Lai (347 or 504), Hiroshima and
+        Nagasaki, the Tuskegee "never lost a bomber" claim (false), the Abbey Gate Afghan dead.
+        LEFT OUT RATHER THAN HEDGED: rape at My Lai, Agent Orange, drones, ordinary WWII and
+        post-9/11 veterans (workspace/war.md lists these as audit candidates).
+        PERISHABLE: the 2026 Venezuela operation and Iran war are current to September 2026. One
+        Iran figure came from a search summary because the Washington Post page returned 403.
+        Re-check this material before prose.
+T-235 COMPLETE: war research took 3 agents in all (T-232, T-235a, T-235b).
+
+### 2026-09-26 | [CLOUD] T-236 | Add the Pueblos' Acoma account to native-nations part 1 (DECISIONS #14)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-236-native-nations-acoma.md
+VERIFY: python tools/project_state.py --check native-nations --stage prose must still PASS.
 RESULT:
