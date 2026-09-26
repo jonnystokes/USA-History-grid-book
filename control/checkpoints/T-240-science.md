@@ -26,6 +26,7 @@ NEXT:   bank check units.
 ## Gaps found and filled (unit 1)
 - Human remains taken for study: Morton skulls (era 6), Army Medical Museum Native skulls (era 7), Hrdlicka/Smithsonian (era 8), NMAI Act + NAGPRA (era 9), Penn 2021 / Smithsonian 2023 apologies, ProPublica Jan 2025 count, 2024 NAGPRA rule (era 10).
 - Eugenics as science: Davenport, Laughlin, Harriman money, ERO Cold Spring Harbor 1910-1939 (era 8). Sterilizations stay rights-movements; IQ tests stay education; immigration testimony stays immigration.
+- Human radiation experiments: 18 plutonium injections 1945-47 with five named patients, program leaders, Trinity fallout and Warren's memo (era 8); Welsome, ACHRE, Clinton apology, 1996 payments (era 9); RECA 2025 (era 10).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
