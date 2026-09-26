@@ -1,5 +1,12 @@
 # RESUME — read this first, every session, no exceptions
 
+> **ENVIRONMENT SWITCH (added 2026-09-26).** Run `python tools/env_check.py` first.
+> **LOCAL** (Jon's PC): this file applies exactly as written.
+> **CLOUD** (Anthropic's servers, Claude Code on the web): read `control/CLOUD-WORKFLOW.md`
+> first. It overrides this file only where the machine differs: paths, the general style
+> guide's location, git persistence, and checkpoint files in place of transcript salvage.
+> Everything else here still binds. The live plan is `control/TODO.md` in both environments.
+
 You are continuing a long project that **will** be interrupted: a 5-hour or weekly
 usage window closes, or your context compacts and you lose the thread mid-task.
 This file exists so that costs you minutes, not a day's work.

@@ -32,6 +32,14 @@ final report, and their work was kept.
 So: **write a file within your first few turns and keep appending to it.** A partial
 outline on disk beats a perfect plan in your head. Do not save the writing for last.
 
+**Keep a checkpoint (added 2026-09-26, both environments).** If the director gives you a
+checkpoint file (`control/checkpoints/T-<nnn>-<slug>.md`), read it first and keep it current.
+Work one unit (one era) at a time. After each unit, record in the checkpoint what landed, the
+sources you used, what you left out and why, and what comes next. A new agent that has only
+that file and the repo must be able to carry on without redoing your work. **In the CLOUD
+environment, also commit and push after every unit** (see `control/CLOUD-WORKFLOW.md` §3).
+The container can be deleted, and only what is pushed survives.
+
 ### Two rulings from Jon (2026-09-06) that outrank your instincts
 
 - **No language softening, ever.** Euphemism, minimization, downplaying, semantic

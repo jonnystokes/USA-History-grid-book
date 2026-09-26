@@ -1,6 +1,11 @@
 # History Book Project — instructions for any AI working here
 
-**Read `control/RESUME.md` first.** It is short and tells you how to find the real state.
+## Which environment? Check first: `python tools/env_check.py`
+
+- **CLOUD** (Anthropic's servers; `CLAUDE_CODE_REMOTE=true`): read **`control/CLOUD-WORKFLOW.md`**
+  first, then `control/TODO.md`. RESUME.md still applies wherever CLOUD-WORKFLOW does not
+  override it. Only what is committed and pushed survives here.
+- **LOCAL** (Jon's PC): **read `control/RESUME.md` first.** It is short and tells you how to find the real state.
 
 A 37-chapter plain-language US history book for ages 8–15, written as a grid (37
 subjects × 10 fixed eras) in an HTML-comment marker format a viewer parses.
@@ -10,8 +15,8 @@ in the files it points to; read those when they apply.
 
 ## The writing — three BINDING files, read in this order
 
-1. **`C:\Users\jon\Projects\writing-style-guide.md`** — the general prose rules and their
-   repairs. **Required in full before you write or judge a sentence.** Section numbers in the
+1. **`C:\Users\jon\Projects\writing-style-guide.md`** (LOCAL) or **`control/general-writing-style-guide.md`**
+   (CLOUD, the repo copy) — the general prose rules and their repairs. **Required in full before you write or judge a sentence.** Section numbers in the
    bullets below refer to it.
 2. **`control/writing-style-guide.md`** — this book's amendment: the reader, the subject, the
    order. It wins over the general file on the reader, the subject and the policy; the general

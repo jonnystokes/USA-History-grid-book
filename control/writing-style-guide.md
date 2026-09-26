@@ -3,8 +3,9 @@
 ## Required reading first
 
 **You must read `C:\Users\jon\Projects\writing-style-guide.md` in full before you
-write or judge a sentence of this book. It is required, not optional, and it is
-not summarised here.**
+write or judge a sentence of this book.** (In the CLOUD environment, read the repo copy
+`control/general-writing-style-guide.md`. See `control/CLOUD-WORKFLOW.md`.)
+**It is required, not optional, and it is not summarised here.**
 
 That file holds the prose rules and their repairs: personification and the
 pathetic fallacy, reification, passives with a missing or false agent, the AI

@@ -1726,3 +1726,23 @@ EXPECT: SHAPED DIFFERENTLY from Batch A. Only 4 [VERIFY] chapter-wide, but 13 st
         Planned split: 1-6 (4 stories), 7-8 (6 stories), 9-10 (3 stories). Stories are the
         cost driver, not tags.
 RESULT:
+        [Closed 2026-09-26 in the CLOUD from measurement. The agent never reported and its
+        transcript stayed on Jon's PC.]
+        PARTIAL. Eras 1-4 landed and eras 5-6 did not start. Measured:
+        check FAIL, stage=PARTIAL, stories 14 (v2 c2 t10), [VERIFY] 1, bank 7,006w vs outline
+        4,293w, validator 0 errors. Era flags: before-1500, 1500s, 1600s and 1700-1750 are
+        "researched". Eras 5-10 are still "seed". The bank holds sections 1-4 (Crow Creek, Norris
+        Farms, Mabila, Tiguex, Fort Caroline, Pequot, King Philip's War, Deerfield, and the
+        John and Eunice Williams stories). Eras 1-3 carry no story; the bank's "story slot"
+        sections say why. The remaining work is eras 5-10 and goes to T-233.
+
+### 2026-09-26 | [CLOUD] PROJECT MOVED TO ANTHROPIC'S SERVERS
+Jon uploaded the repo to GitHub (jonnystokes/USA-History-grid-book) to use a $100 cloud-usage
+gift in Claude Code on the web. Branch: claude/gifted-volta-lfl54k. Never push to main.
+SETUP: tools/env_check.py reports CLOUD or LOCAL. control/CLOUD-WORKFLOW.md holds the cloud
+rules. control/TODO.md is the live plan. control/checkpoints/ holds per-task resume files, and
+agents commit and push after every unit. CLAUDE.md, RESUME.md, README.md, AGENT-BRIEF.md and
+writing-style-guide.md gained the environment switch. Nothing local was removed.
+BLOCKER: the general style guide (C:\Users\jon\Projects\writing-style-guide.md) is not in the
+repo. Jon is to add it as control/general-writing-style-guide.md.
+WAITING: Jon's go-ahead on the plan in control/TODO.md.
