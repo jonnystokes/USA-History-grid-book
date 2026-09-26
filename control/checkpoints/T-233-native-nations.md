@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233c: units 8-9 landed. Working on unit 10 (era 2000-today).
-NEXT:   part 3, era 2000-today, then part 3 self-review.
+NOW:    T-233c: units 8-10 landed. Running part 3 self-review.
+NEXT:   part 3 self-review (V2 Self-Review + amendment §5), then the chapter prose check.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -38,7 +38,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 7 | part2 era 1850-1900 | landed | commit T-233b 1850-1900 |
 | 8 | part3 era 1900-1950 | landed | commit T-233c 1900-1950 |
 | 9 | part3 era 1950-2000 | landed | commit T-233c 1950-2000 |
-| 10 | part3 era 2000-today | working | |
+| 10 | part3 era 2000-today | landed | commit T-233c 2000-today |
 
 <!-- state: todo | working | landed | skipped (say why) -->
 
@@ -57,6 +57,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1850-1900 (T-233b): the Long Walk named (bank §7 wars); Sand Creek Massacre National Historic Site (bank §7, NPS source); Britannica entry titled "Wounded Knee Massacre" (bank §7); soldier crossfire attributed to Britannica and History.com (bank §7); Nez Perce distance "up to about 1,700 miles" in some accounts (bank §7 After and Disputes 5); Pratt's line misquoted as "kill the Indian, save the man", recorded words printed in the conference's official report (bank §7 schools); punishments tied to speaking one's language, and survivor accounts as a second source (bank §7 On arrival); outing system in summers and school terms (bank §7); burial sites "marked and unmarked" (bank §7 Scale); Meriam Report dated 1928 (bank §7 Half-day labor); Zitkala-Sa named as a student who turned the schooling against the policy (bank §7 other half); Wovoka from the Walker Lake country of Nevada (bank §7 Wounded Knee).
 - 1900-1950 (T-233c): Osage Allotment Act named for "a law of 1906" (bank §8 Osage); Collier's term 1933-1945 (bank §8 Citizenship); Meriam Report full title *The Problem of Indian Administration* (bank §8); *High Steel* directed by Don Owen, used to repair "the Film Board made" (bank Parked, Kahnawake line); half-day labor tied to school staff, and Nez's punishment tied to Fort Defiance staff (bank §7 On arrival / §8, policy §6b usage).
 - 1950-2000 (T-233c): Custer's 1874 expedition announced gold, and officials ignored the 1868 treaty (bank §7 wars, line "1874") -> Black Hills span; Lakota "refused" the money (bank Parked, Mount Rushmore line); Wounded Knee 1890 toll, between 250 and 300 Lakota killed by the 7th Cavalry (bank §7, already in part 2) -> 1973 occupation now says why the village was chosen; AIM patrols were "against police abuse" (bank §9); ICWA standards meant to keep Native children with Native families, and "a large share" of children removed (bank §9); Kennedy Report named, begun under Robert F. Kennedy and finished under Edward Kennedy (bank §9).
+- 2000-today (T-233c): Carlisle cemetery returns attributed to Army officials digging up and returning children (bank §10, "the Army has been disinterring"); burial sites at 53 schools "marked and unmarked" (bank §10 Vol. 1); Pūnana Leo dates attributed to ʻAha Pūnana Leo's official history (bank §10, "attribute the arc"). All source years in the era kept (2004, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025, 1984, 1986, 1987, 1993, 1663, 2010, 1908).
 
 ## Decisions and known gaps
 
@@ -89,6 +90,9 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - T-233c DEFECT FIXED (overstated win): era zoom said nations "carried treaties into federal court and won" without saying what the Lakota won. Now says the justices ruled the taking broke the treaty (compensation, not land, in the span).
 - T-233c NOTE: Wounded Knee 1973: bank says two occupiers "died"; the file said "were killed". Kept "killed" (no fact removed) and added that the sources used do not say who killed them. Director may check.
 - T-233c RULE CONFLICT SETTLED: the Kennedy Report title contains an em dash (*Indian Education: A National Tragedy [dash] A National Challenge*). Zero em dashes vs exact title. Settled by keeping every word and replacing the dash with a comma, as T-233a did for the Seneca semicolon.
+- T-233c DEFECT FIXED (false statement): Standing Rock span said the pipeline ran "above [the reservation's] water supply". Bank: Lake Oahe IS the water supply. Now says the route ran under the lake, which is the water supply.
+- T-233c DEFECT FIXED (gnomic line + closing reversal): "Languages come home" opened on "The direct answer to a school that punished a language is a school that teaches in it" and closed on the war-and-classroom callback. The code-talker fact moved to the front as a plain statement; the span ends on the immersion schools.
+- T-233c NOTE: Haaland's grandparents "taken to boarding school": bank gives no actor, so the prose says the sources do not say who took them.
 
 ## Log
 
@@ -104,3 +108,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | part 2 self-review (T-233b) | agent verbs, source verbs, definitions, sentence length, story first/last lines | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | unit 8 1900-1950 (T-233c) | full v2 revision of era zoom, 6 spans, Thorpe, Hayes, Nez stories | 0 errors | file emdash=16 semicolon=7 (era 1900-1950 has 0)
 - 2026-09-26 | unit 9 1950-2000 (T-233c) | full v2 revision of era zoom, 6 spans, Mankiller, Frank, Fortunate Eagle stories | 0 errors | file emdash=10 semicolon=2 (era 1950-2000 has 0)
+- 2026-09-26 | unit 10 2000-today (T-233c) | full v2 revision of era zoom, 4 spans, Haaland, Baird stories | 0 errors | file emdash=0 semicolon=0

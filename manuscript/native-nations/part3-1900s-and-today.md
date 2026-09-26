@@ -231,70 +231,74 @@ Two other first-hand accounts in this chapter differ from his. Staff at the Fort
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-There are 574 federally recognized Native nations in the United States. Each one is a government. It makes law, runs courts and police, schools and clinics, and businesses, and deals with the United States nation to nation. Alongside them are nations recognized by their states, nations still working to win federal recognition, more than 200 Alaska Native villages with their own corporations, and Native Hawaiians, who have no federally recognized government of their own.
+There are 574 federally recognized Native nations in the United States. Federally recognized means that United States officials deal with the nation as a government. Each of these nations has its own government, whose leaders make laws and run courts, police, schools, clinics and businesses. They deal with the United States nation to nation.
 
-In the 2020 census, 9.7 million people identified as American Indian or Alaska Native, alone or together with another group — 2.9 percent of the country. In 1900 the count was about 250,000.
+There are also nations recognized by their states, and nations still working to win federal recognition. More than 200 Alaska Native villages have their own corporations. Native Hawaiians have no federally recognized government of their own.
 
-The Navajo Nation's land covers more than 27,000 square miles across Arizona, New Mexico, and Utah, the largest reservation in the country. The Cherokee Nation passed 450,000 enrolled citizens in 2023, and some counts in 2024 and 2025 put it above 475,000.
+In the 2020 census, 9.7 million people identified as American Indian or Alaska Native, alone or together with another group. That was 2.9 percent of the people in the country. In 1900 the census had counted about 250,000.
 
-On September 21, 2004, the National Museum of the American Indian opened on the National Mall in Washington. About 25,000 Native people from across the hemisphere walked in the opening procession.
+The Navajo Nation's land covers more than 27,000 square miles across Arizona, New Mexico and Utah. It is the largest reservation in the country. The Cherokee Nation passed 450,000 enrolled citizens, people officially listed as members, in 2023. Some counts in 2024 and 2025 put it above 475,000.
+
+On September 21, 2004, the National Museum of the American Indian opened on the National Mall in Washington. About 25,000 Native people from across North and South America walked in the opening procession.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Sovereignty in court and in office" -->
-On July 9, 2020, the Supreme Court decided *McGirt v. Oklahoma*. The question was whether the reservation the United States promised the Muscogee (Creek) Nation when it removed the nation to Oklahoma still existed. Oklahoma argued that it had ceased to exist long ago. The Court held, 5 to 4, that Congress had never disestablished it — never formally taken it back — and that for the purposes of federal criminal law about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land. Justice Neil Gorsuch wrote the opinion. It opens: "On the far end of the Trail of Tears was a promise." Later rulings extended the same reasoning to the reservations of the other removed nations of the Southeast.
+Sovereignty is the right of a nation to govern itself. When United States officials forced the Muscogee (Creek) Nation to move to Oklahoma, they promised it a reservation there. On July 9, 2020, the justices of the Supreme Court decided *McGirt v. Oklahoma*, a case about whether that reservation still existed. Lawyers for Oklahoma argued that it had ended long ago. Five of the nine justices held that members of Congress had never disestablished it, meaning they had never formally ended it. Four justices disagreed.
 
-On June 15, 2023, in *Haaland v. Brackeen*, the Court upheld the Indian Child Welfare Act against a constitutional challenge, 7 to 2.
+Under the ruling, about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land for the purposes of federal criminal law, the national laws about crimes. Justice Neil Gorsuch wrote the opinion. Its first sentence reads: "On the far end of the Trail of Tears was a promise." In later rulings, judges applied the same reasoning to the reservations of the other nations that United States officials had forced out of the Southeast.
 
-In 2018 Deb Haaland of Laguna Pueblo and Sharice Davids, Ho-Chunk, became the first Native American women elected to Congress. On March 15, 2021, the Senate confirmed Haaland as Secretary of the Interior — the first Native American to hold a cabinet office, and the head of the department that had run the boarding schools.
+On June 15, 2023, in *Haaland v. Brackeen*, seven of the nine justices upheld the Indian Child Welfare Act, which means they kept it in force. The people challenging the act had claimed that it broke the Constitution. Two justices disagreed with the ruling.
+
+In 2018 Deb Haaland of Laguna Pueblo and Sharice Davids, who is Ho-Chunk, became the first Native American women elected to Congress. On March 15, 2021, members of the Senate voted to confirm Haaland as Secretary of the Interior. She was the first Native American to hold a cabinet office, the job of heading one of the main federal departments. Earlier officials of her department had run the boarding schools.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Standing Rock and land back" -->
-In 2016 the Standing Rock Sioux Tribe opposed the Dakota Access Pipeline, which was to run under Lake Oahe on the Missouri River, just upstream of the reservation and above its water supply.
+In 2016 the Standing Rock Sioux Tribe opposed the Dakota Access Pipeline, a long pipe built to carry oil. Its route ran under Lake Oahe on the Missouri River, just upstream of the reservation. The lake is the reservation's water supply.
 
-Young people from Standing Rock carried the message on foot: a relay of 500 miles to the Army Corps of Engineers office in Omaha, and then a run of 2,000 miles to Washington, D.C. Camps grew at Oceti Sakowin from April 2016. Thousands of people from hundreds of nations came, in what the coverage at the time called the largest gathering of Native nations in more than a century. In the first week of December 2016 more than 2,000 United States military veterans arrived to stand with the camps.
+From April 2016, people set up camps at Oceti Sakowin. Young people from Standing Rock carried the tribe's message on foot. They ran a 500-mile relay to the Army Corps of Engineers office in Omaha, and then a 2,000-mile run to Washington, D.C. Thousands of people from hundreds of nations came to the camps. News reports at the time called it the largest gathering of Native nations in more than a century.
 
-On December 4, 2016, the Army Corps halted the easement — the permission the pipeline needed to cross under the lake. The next administration approved it in early 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
+On December 4, 2016, officials of the Army Corps halted the easement. An easement is the legal permission the pipeline needed to cross under the lake. That same week, more than 2,000 United States military veterans arrived to stand with the camps. Officials of the next presidential administration approved the easement in early 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
 
-Land also went back. The National Bison Range in Montana — 18,800 acres taken out of the Flathead Reservation in 1908 for a federal wildlife refuge — was restored to the Confederated Salish and Kootenai Tribes by law in December 2020, and the tribes took over its management in 2022.
+Some land has gone back to Native nations. In 1908 federal officials took 18,800 acres out of the Flathead Reservation in Montana for the National Bison Range, a federal wildlife refuge. A wildlife refuge is land set aside to protect wild animals. In December 2020 members of Congress passed a law restoring the range to the Confederated Salish and Kootenai Tribes, and the tribes took over its management in 2022.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The boarding-school reckoning" -->
-In June 2021 Secretary Haaland ordered the Department of the Interior to investigate the boarding schools the department itself had run.
+In June 2021 Secretary Haaland ordered officials of the Department of the Interior to investigate the boarding schools that earlier officials of the same department had run.
 
-The first volume of the report, published in May 2022, identified 408 federal schools and burial sites at 53 of them. The final volume, published July 30, 2024, counted 417 federal Indian boarding schools in 37 states and territories, operating from 1819 to 1969, and 1,025 further institutions with similar aims that fell outside the four criteria the investigation used.
+The first volume of their report came out in May 2022. It identifies 408 federal schools, and marked and unmarked burial sites at 53 of them. The final volume came out on July 30, 2024. It lists 417 federal Indian boarding schools in 37 states or places that were then territories, open from 1819 to 1969. It also lists 1,025 other institutions, places run with similar aims, that fell outside the four standards the investigators used to decide which schools to count.
 
-The investigation documented what was done to the children who were taken. Their hair was cut. Their clothes were replaced with uniforms. They were given English names, and they were forbidden to speak the languages they had grown up speaking. The punishments recorded for speaking them include beatings, solitary confinement, food withheld, and mouths washed with soap.
+The report records what school staff did to the children. Staff cut the children's hair, replaced their clothes with uniforms, and gave them English names. They forbade the children to speak the languages they had grown up speaking. The punishments the report records for speaking those languages include beatings, solitary confinement, withholding food, and washing children's mouths out with soap. Solitary confinement means being locked up alone.
 
-At least 973 children died at the schools. There are at least 74 burial sites at 65 schools. The report states that the real number of deaths is higher than the number it was able to document.
+At least 973 children died at the schools. The investigators found at least 74 burial sites at 65 schools. The report states that the real number of deaths is higher than the number the investigators could document.
 
-On October 25, 2024, at the Gila River Indian Community in Arizona — Ira Hayes's home community — President Biden apologized on behalf of the United States for the boarding-school system. It was the first formal presidential apology for it. He called the system "a sin on our soul."
+On October 25, 2024, President Biden apologized on behalf of the United States for the boarding-school system. He spoke at the Gila River Indian Community in Arizona, which was Ira Hayes's home community. It was the first formal presidential apology for the system. He called the system "a sin on our soul."
 
-The children are being brought home. In 2017 the Army returned Little Chief and Horse from the cemetery at the Carlisle Barracks to the Northern Arapaho; when Little Plume's grave was opened it held two other children instead, and he was found and returned the following year. In July 2021 nine Rosebud Sioux children went home to South Dakota, escorted by Rosebud young people.
+Army officials have been digging up children buried in the cemetery at the Carlisle Barracks and returning them to their nations. In 2017 they returned Little Chief and Horse to the Northern Arapaho. When they opened Little Plume's grave, it held two other children. They found Little Plume and returned him the next year. In July 2021 nine Rosebud Sioux children went home to South Dakota, and Rosebud young people escorted them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Languages come home" -->
-The direct answer to a school that punished a language is a school that teaches in it.
+Boarding-school staff punished children for speaking Native languages. Soldiers used two of those languages, Choctaw and Navajo, to send messages the enemy could not read in two world wars. Today Native nations run schools that teach children in their own languages.
 
-In Hawaii, a law dating from 1896 barred teaching in Hawaiian. In 1984 the first Pūnana Leo immersion preschool opened at Kekaha on Kaua'i — the first Indigenous-language immersion preschools in the United States. An immersion school is one where the lessons themselves are given in the language, so children learn arithmetic and reading in Hawaiian rather than learning Hawaiian as a subject. The ban on teaching in Hawaiian was lifted in 1986, the first public immersion classes opened in 1987, and Hawaiian-medium education now runs from preschool through graduate school.
+In Hawaii, lawmakers banned teaching in Hawaiian in a law dating from 1896. In 1984 the first Pūnana Leo immersion preschool opened at Kekaha on Kaua'i. In an immersion school, teachers give every lesson in the language itself, so children learn arithmetic and reading in Hawaiian instead of learning Hawaiian as one subject. The Pūnana Leo schools were the first Indigenous-language immersion preschools in the United States. Indigenous means belonging to the people who lived in a place first.
 
-Wôpanâak, the Wampanoag language of Massachusetts, had no living speakers after the middle of the 1800s. In 1993 Jessie Little Doe Baird co-founded the Wôpanâak Language Reclamation Project and began rebuilding the language out of documents written in it. It is the first American language with no living speakers to be brought back into living use, and Wampanoag children are being taught it now.
+The ban on teaching in Hawaiian was lifted in 1986, and the first public immersion classes opened in 1987. Students can now be taught in Hawaiian from preschool through graduate school, the university study that comes after a first degree. ʻAha Pūnana Leo's official history records these dates.
 
-Cherokee, Lakota, Diné, and many other nations run immersion schools of their own.
+Wôpanâak, the Wampanoag language of Massachusetts, had no living speakers after the middle of the 1800s. In 1993 Jessie Little Doe Baird co-founded the Wôpanâak Language Reclamation Project, and she began rebuilding the language from documents written in it. Reclamation means taking something back. Wôpanâak is the first American language with no living speakers to come back into living use, and Wampanoag children now learn it.
 
-The languages the boarding schools punished children for speaking helped win a world war, and they are now taught to children on purpose.
+Cherokee, Lakota, Diné and many other nations run immersion schools of their own.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="deb-haaland-native-nations" name="Deb Haaland" movie="" kind="famous" status="verified" -->
 ### Deb Haaland
 
-> **Who:** Laguna Pueblo; one of the first two Native American women elected to Congress, and the first Native American cabinet secretary.
+> **Who:** Laguna Pueblo. She was one of the first two Native American women elected to Congress, and the first Native American cabinet secretary.
 > **When and where:** New Mexico and Washington, D.C., 2018 to 2025.
 
-Deb Haaland is a citizen of Laguna Pueblo and describes herself as a 35th-generation New Mexican. In 2018 she and Sharice Davids became the first Native American women elected to Congress.
+Deb Haaland is a citizen of Laguna Pueblo. She describes herself as a 35th-generation New Mexican. In 2018 she and Sharice Davids became the first Native American women elected to Congress.
 
-On March 15, 2021, the Senate confirmed her as Secretary of the Interior. She was the first Native American to run a cabinet department, and the department she ran was the one that had run the boarding schools.
+On March 15, 2021, members of the Senate voted to confirm her as Secretary of the Interior. She was the first Native American to run a cabinet department. Earlier officials of that department had run the federal boarding schools.
 
-By her own account, her grandparents were taken to boarding school as children. In June 2021 she ordered the department to investigate its own record and count what it had done. The count was published on July 30, 2024, while she was still the secretary.
+By her own account, her grandparents were taken to boarding school as children. The sources used for this chapter do not say who took them. In June 2021 she ordered officials of her department to investigate the department's own record and count what its officials had done. They published the final count on July 30, 2024, while she was still the secretary.
 <!-- hb-story:end slug="deb-haaland-native-nations" -->
 
 <!-- hb-story:start slug="jessie-little-doe-baird" name="Jessie Little Doe Baird" movie="We Still Live Here: As Nutayunean (2011)" kind="ordinary" status="verified" -->
@@ -306,9 +310,9 @@ By her own account, her grandparents were taken to boarding school as children. 
 
 By her own account, the work began with a dream in which she heard Wôpanâak spoken.
 
-The language had no living speakers after the middle of the 1800s, but it was not gone. It had been written down, and among the documents was a Bible printed in Wôpanâak in 1663 by missionaries who wanted to convert the Wampanoag. Baird used their record to undo what came after it.
+The language had no living speakers after the middle of the 1800s. Written records of it survived. Among them was a Bible printed in Wôpanâak in 1663 by missionaries who wanted to convert the Wampanoag to Christianity. Baird used that Bible and the other documents to rebuild the language.
 
-She co-founded the Wôpanâak Language Reclamation Project in 1993 and went to the Massachusetts Institute of Technology, where she earned a degree in linguistics. She raised her daughter speaking Wôpanâak. She received a MacArthur Fellowship in 2010.
+She co-founded the Wôpanâak Language Reclamation Project in 1993. She went to the Massachusetts Institute of Technology and earned a degree in linguistics, the study of how languages work. She raised her daughter speaking Wôpanâak. In 2010 she received a MacArthur Fellowship, an award from the MacArthur Foundation.
 
 Wampanoag children are learning the language now, in their own school.
 <!-- hb-story:end slug="jessie-little-doe-baird" -->
