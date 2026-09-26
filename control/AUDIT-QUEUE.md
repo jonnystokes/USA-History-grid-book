@@ -167,4 +167,8 @@ will be worded differently, which is exactly why a search will not find it.
   Zaldívar's soldiers "assaulted an Acoma woman" (bank, Acoma section). The bank leaves whether
   and how the book states this to the director. The revised part 1 does not include it. Jon to
   rule under `hard-subjects-policy.md`. The Pueblos' own statement is a named source.
+- **Worcester v. Georgia (from T-233b, 2026-09-26).** The native-nations bank does not name the
+  parties (Samuel Worcester and the State of Georgia) or who acted in the case. Part 2 was
+  written without them. Research item: add a sourced line to the bank, then the prose can
+  name them.
 

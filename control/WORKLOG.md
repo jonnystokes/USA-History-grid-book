@@ -1811,4 +1811,23 @@ CHECKPOINT: control/checkpoints/T-233-native-nations.md (units 6-7)
 VERIFY: python tools/project_state.py --punct manuscript/native-nations/part2-1800s.md must print
         0/0. The validator (--part) must be clean.
 BASELINE: 3,697 prose words, 27 em dashes, 18 semicolons.
+RESULT: DONE (part 2). 192,517 tokens, 30 tool uses, 11.5 min. Three commits.
+        MEASURED: --punct 0/0 · validator (--part) 0 errors · markers and record keys identical ·
+        prose words 3,697 -> 4,517 (+22%).
+        REPORTED: about 40 institutions made to act, now naming people. About 15 agentless
+        passives, where "the sources do not identify who" is now stated where the bank names
+        no one (the Mankato hanging, Crazy Horse's killing, Zitkala-Ša, Joseph's promise). About
+        12 cadence moves. About 30 hard words defined. BEYOND STYLE: the Removal Act was framed
+        as an answer to Tecumseh's confederacy, which had ended by 1813. The school system was
+        dated 1879 in one place, although federal schools date from 1819. Joseph's route was
+        cut short (now up to about 1,700 miles, per the bank). "Massacre" was missing for Sand
+        Creek and Wounded Knee.
+        PARKED: the bank does not name the parties in Worcester v. Georgia.
+
+### 2026-09-26 | [CLOUD] T-233c | Revise native-nations PART 3 (eras 8-10) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-233-native-nations.md (units 8-10)
+VERIFY: python tools/project_state.py --check native-nations --stage prose SHOULD PASS once
+        this part lands, because it is the last part.
+BASELINE: 4,537 prose words, 19 em dashes, 13 semicolons.
 RESULT:

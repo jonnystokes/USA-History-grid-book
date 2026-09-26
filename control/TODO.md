@@ -11,9 +11,8 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-233b in flight:** v2 revision of `native-nations` part 2 (eras 6-7). Part 1 is done and
-verified (0/0 punctuation, validator clean, words +17%). Checkpoint:
-`control/checkpoints/T-233-native-nations.md`.
+**T-233c in flight:** v2 revision of `native-nations` part 3 (eras 8-10), the last part.
+Parts 1 and 2 are done and verified. Checkpoint: `control/checkpoints/T-233-native-nations.md`.
 
 **Waiting on Jon (not blocking):** a ruling on the Acoma assault account (AUDIT-QUEUE, last
 entry).
