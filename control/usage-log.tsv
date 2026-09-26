@@ -134,3 +134,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-241b	write-prose	general-purpose	[CLOUD] elements part1 (5 eras)	?	?	?	163118	31	428349	2802	completed	3 blocking gaps
 2026-09-26	T-241c	write-prose	general-purpose	[CLOUD] elements part2 (2 eras)	?	?	?	156158	25	304113	2357	completed	4 blocking gaps
 2026-09-26	T-241d	write-prose	general-purpose	[CLOUD] elements part3 (3 eras)	?	?	?	248910	35	755984	8750	completed	chapter PASS prose; 9 blocking gaps
+2026-09-26	T-241e	research+fix	general-purpose	[CLOUD] elements blocking gaps	?	?	?	?	?	?	?	completed	9 closed, 3 partly, 4 unknown

@@ -2259,4 +2259,18 @@ DIRECTOR: the gap-closing brief now lives in control/briefs/GAPS.md.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-241-elements.md, "BLOCKING GAPS"
 VERIFY: elements still PASSES research and prose.
+RESULT: DONE. Prose and research PASS. Manuscript 12,908 -> 14,738w. Bank 22,017w. 7 PATCH blocks.
+        16 gaps: 9 closed, 3 partly closed, 4 GENUINELY UNKNOWN with sources listed (Danbury owners
+        in eras 7 and 8, named gold-field mercury victims, the Anaconda officials and count).
+        CORRECTIONS: Catoctin "at least 270" is now 271 (from the Science paper itself). The
+        Maryland figures are confirmed from Mount Clare. The Hueper line is sharpened from ACHRE.
+        Earley's Flint role now rests on the 2016 Task Force report. The Legionnaires' count has a
+        second official figure (87 cases, 10 deaths, Jan 13, 2016). Governor Bruce King's Church
+        Rock role is journalism-grade and attributed to news accounts in the prose.
+T-241 COMPLETE: elements, 5 agents.
+
+### 2026-09-26 | [CLOUD] T-242a | land-environment: pre-write bank check (incl. Bears Ears refresh)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-242-land-environment.md
+VERIFY: land-environment --stage research still PASSES.
 RESULT:

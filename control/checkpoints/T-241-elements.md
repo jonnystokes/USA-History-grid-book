@@ -1,6 +1,6 @@
 # CHECKPOINT T-241 | elements | pre-write bank check, prose in 3 parts, gap close
 
-STATUS: IN-FLIGHT
+STATUS: DONE (2026-09-26. Prose and research PASS.)
 VERIFY: step a: --check elements --stage research still PASSES. Steps b-d:
         --check elements --stage prose.
 PLAN:   T-241a = pre-write bank check. T-241b = part 1 (eras 1-5). T-241c = part 2 (eras 6-7).

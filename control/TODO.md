@@ -11,9 +11,9 @@ Last updated: 2026-09-26 (CLOUD, session 1)
 
 ## NOW
 
-**T-241e in flight:** closing elements' 16 blocking gaps. **elements PASSES prose** (T-241d done). The per-chapter pattern is now:
-check the bank, write 3 parts, then close the collected gaps.
-**science PASSES prose and research** (T-240 done, 5 agents, about 1.0M tokens).
+**T-242a in flight:** pre-write bank check for `land-environment` (including a Bears Ears refresh).
+**elements PASSES prose and research** (T-241 done). Written chapters: native-nations,
+city-building, immigration, science, elements.
 
 **Step 0 done:** native-nations and city-building both PASS `--stage prose` under v2.
 
