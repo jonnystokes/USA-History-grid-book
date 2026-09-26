@@ -45,4 +45,4 @@ NEXT:   T-240b: write part 1 (eras 1-5)
 ## BLOCKING GAPS
 
 ## Log
-- 2026-09-26 T-240a: bank check landed. 11 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
+- 2026-09-26 T-240a: bank check landed. 17 PATCH blocks were appended to research-science.md. Placed elsewhere: sterilizations (rights-movements), IQ tests (education), Laughlin's testimony (immigration), NAGPRA campaign (native-nations), bombs on Japan (war).
