@@ -9,7 +9,7 @@ WHY:    T-237b found that the bank lacks the hard parts of its subject. Under DE
         (facts from the bank only), the prose could only say "the sources do not record". This
         task fills the bank so the prose can state what happened.
 
-NOW:    unit 8 (era 9: Operation Wetback 1954, other gaps).
+NOW:    unit 9 (era 10: border deaths, 2018 family separation, enforcement to 2026).
 NEXT:   unit 1.
 
 ## Units: the gaps to fill (each with named actors, what was done, numbers with uncertainty, sources)
@@ -23,10 +23,11 @@ NEXT:   unit 1.
 | 5 | era 7: the pogroms of 1881-84 and the May Laws of 1882: who attacked, who issued the laws, deaths | landed | 2026-09-26, era 7 PATCH section |
 | 6 | era 7: Louisville's 1855 "Bloody Monday" and Know-Nothing violence, if sources support it | landed | 2026-09-26, era 7 PATCH section + boundary note on era 6 Know-Nothing section |
 | 7 | era 8 (1900-1950) PRE-CHECK: read the bank's era 8 against the outline. Fill hard-subject gaps: Angel Island detention conditions, the 1924 Act's quota basis and its eugenics arguments (named people), Mexican Repatriation in the 1930s (who deported whom, how many, how many were US citizens), the St. Louis in 1939 | landed | 2026-09-26, era 8 PATCH section |
-| 8 | era 9 (1950-2000) PRE-CHECK: Operation Wetback 1954 (who ordered it, numbers, deaths), and any other hard-subject gap against the outline | working | |
-| 9 | era 10 (2000-today) PRE-CHECK: deaths at the border (counts with source years), the 2018 family separations (who ordered it, how many children), and enforcement figures current to 2026 with source dates | todo | |
+| 8 | era 9 (1950-2000) PRE-CHECK: Operation Wetback 1954 (who ordered it, numbers, deaths), and any other hard-subject gap against the outline | landed | 2026-09-26, era 9 PATCH section |
+| 9 | era 10 (2000-today) PRE-CHECK: deaths at the border (counts with source years), the 2018 family separations (who ordered it, how many children), and enforcement figures current to 2026 with source dates | working | |
 
 ## Sources in hand
+- Unit 8: tshaonline.org handbook operation-wetback (Swing, 4,800 first day, Mercurio 7, 1.3M claim, 80k San Antonio); immigrationhistory.org operation-wetback (Brownell, June 9 1954, 1.1M, citizens deported); history.com operation-wetback (Hernández ~300k); Ngai 88 deaths via New Republic 2016 search summary; en.wikipedia Vietnamese_boat_people (UNHCR 1981 piracy stats, 200-250k, 402,382 to US); ebsco Indo-Chinese boat people. UNHCR and NPR pages refused.
 - Unit 7: nps.gov angel-island (conditions, 250k Chinese, 1940 fire); aiisf.org/vault/keepers (medical exam, board); en.wikipedia Angel_Island (18% rejected, 22 months); history.state.gov immigration-act; millercenter.org Coolidge quote; eugenicsarchive.org themes/10 (Laughlin, 86%/9%); embryo.asu.edu Laughlin + Madison Grant; leginfo.ca.gov SB 670 chaptered (2M / 1.2M US-born / 400k CA); calmigration.org deportation-to-repatriation (Doak, Visel, 1M, 60% citizens, La Placita); maldef 2012 LA County apology; encyclopedia.ushmm.org voyage-of-the-st-louis.
 - Unit 6: history.ky.gov/markers/bloody-monday-and-american-know-nothing-party (marker #2205: at least 22 dead); en.wikipedia Bloody_Monday (19-22 vs >100; Quinn's Row; 5 indicted 0 convicted); muse.jhu.edu/article/887641 "Myths of Bloody Monday" UNREAD (access challenge); cathedral and hmdb pages 403.
 - Unit 5: encyclopedia.com pogroms-pre-soviet-russia (John Klier: ~250 pogroms, ~50 dead half rioters, >1,000 punished, no central planning); en.wikipedia Pogroms_in_the_Russian_Empire (40 Jews 1881; 25+25; clemency); cojs.org may-3-1882 (May Laws text, Ignatiev). YIVO pages need JavaScript (did not render).
@@ -45,3 +46,4 @@ NEXT:   unit 1.
 - 2026-09-26 unit 5 landed: pogroms/May Laws; punishment disputed (Klier vs Wikipedia), 'hundreds raped' unsourced flagged.
 - 2026-09-26 unit 6 landed: Louisville 1855. Flag: 'Myths of Bloody Monday' article unread; boundary note on Know-Nothings placed in era 6.
 - 2026-09-26 unit 7 landed: Angel Island conditions, 1924 eugenics (Laughlin, Grant, Johnson), Repatriation 500k-2M with citizen share, St. Louis confirmed. Japanese American incarceration placed with rights-movements/war.
+- 2026-09-26 unit 8 landed: Operation Wetback, boat people deaths. Haitian interdiction not added (not in outline). Flag: outline Tung Trinh 'kept out of prose' note.
