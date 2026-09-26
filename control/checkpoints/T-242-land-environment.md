@@ -15,9 +15,9 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242c2 finished unit 3. It ran the Version 2 self-review and amendment §5 on part 2, and wrote era 07's
-        missing spans and stories, which T-242c never wrote.
-NEXT:   T-242d: write part 3 (eras 8-10)
+NOW:    T-242d unit 4, era 08 (1900-1950) of manuscript/land-environment/part3-1900s-and-today.md. Check the
+        file for a half-written era before resuming.
+NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose check.
 
 ## Units
 
@@ -26,7 +26,7 @@ NEXT:   T-242d: write part 3 (eras 8-10)
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | todo | |
+| 4 | part3 eras 8-10 | in progress (T-242d) | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
