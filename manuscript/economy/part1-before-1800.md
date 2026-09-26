@@ -100,3 +100,60 @@ In 1626, one ship of the Dutch West India Company, the *Arms of Amsterdam*, carr
 English leaders ran colonial trade on an idea called mercantilism. Under mercantilism, English leaders held that colonies existed to make the home country richer. Colonists were to send raw goods, such as tobacco, to England and buy English finished goods back. Members of England's Parliament wrote this idea into laws called the Navigation Acts. The act of 1651 required colonial trade to travel in English or colonial ships. The act of 1660 listed "enumerated goods," which colonists could ship only to England or to other English colonies. The list included tobacco, sugar, cotton, indigo and ginger.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="economy" label="1700 to 1750" state="full" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+By 1774, free colonists earned more on average than the people of England. The economic historians Peter Lindert and Jeffrey Williamson published that finding in 2016. They also found that income among free colonists was spread more evenly than in any other place they could measure at that time. Much of the colonies' wealth, most of all in the South, came from the work of enslaved people who were paid nothing. From 1718, British judges also sent about 50,000 convicts across the ocean to be sold as laborers.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="What the colonies sold" -->
+Tobacco came from the Chesapeake colonies, wheat and flour from the middle colonies, and fish, rum and ships from New England. In the Lowcountry of South Carolina, the low land along the coast, enslaved workers grew rice and indigo and prepared them for sale.
+
+Timber cost little in the colonies, so colonial shipbuilders could build ships for less than builders in England. By the Revolution, about one-third of the British merchant fleet had been built in America. A merchant fleet is all the ships that carry a country's goods for trade.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Rice, and the people who knew how to grow it" -->
+The rice fields of the South Carolina Lowcountry were built and worked by enslaved Africans. Rice was the Lowcountry's main cash crop from the early 1700s. From about 1708, enslaved Africans were a majority of the people in South Carolina. By 1740 they were about two out of every three.
+
+Nic Butler of the Charleston County Public Library writes that enslaved people "moved earth on a massive scale" to build the rice fields. By the 1720s, Carolina planters were asking slave traders for Africans from the region called the Rice Coast. The planters wanted them because people from there already knew how to grow rice.
+
+The wealth from rice, Butler writes, "remained concentrated in the hands of a small minority of white planters." Historians at the College of Charleston record that enslaved children in the Lowcountry died at especially high rates. The number of enslaved people there did not grow through births until the 1760s.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="eliza-lucas-pinckney-economy" name="Eliza Lucas Pinckney" movie="" kind="famous" status="verified" -->
+### Eliza Lucas Pinckney
+
+> **Who:** A young woman who ran her father's three South Carolina plantations from the age of 16 and grew the colony's first successful indigo dye crop.
+> **When and where:** South Carolina, 1744 to the 1750s.
+
+Eliza Lucas grew the first successful crop of indigo dye in South Carolina, in 1744. Indigo is a plant used to make blue dye. She later married and became Eliza Lucas Pinckney.
+
+From the age of 16, she ran her father's three plantations. Her 1744 crop made 17 pounds of dye, and she shared the seed with neighboring planters. South Carolina's indigo exports grew from about 5,000 pounds in 1745 and 1746 to about 130,000 pounds by 1748. By the middle of the 1750s, planters there shipped more than a million pounds a year. Indigo became the colony's second biggest export after rice. By the Revolution, it made up more than a third of the value of the colony's exports.
+
+Other people did the work of making the dye. Her father sent skilled dye-makers from the Caribbean, and enslaved workers did the processing. Their knowledge and their labor were part of her success.
+<!-- hb-story:end slug="eliza-lucas-pinckney-economy" -->
+
+<!-- hb-zoom level="span" label="Convicts sold at the dock, 1718 to 1775" -->
+From 1718 to 1775, about 50,000 people convicted of crimes in Britain were shipped to the North American colonies and sold there as laborers. In 1718 members of Parliament passed the Transportation Act. Under it, British judges could send a person convicted of a lesser felony, a serious crime, to the colonies for seven years instead of hanging them. For worse crimes, judges could send a person for fourteen years. The convicts were about one in four of all the people who moved from Britain to colonial America in those years.
+
+Most convicts went to Maryland and Virginia. There, merchants sold them at the dock as bound laborers, people who had to work for whoever bought them until their term ended. In the records of four Maryland counties, about 82 of every 100 convicts were men and 18 were women. On two ships of 1721 and 1724, most convicts were between 20 and 29 years old, and about half were laborers with no trade.
+
+British government officials paid a London merchant named Jonathan Forward £3 for each convict he carried, and later £5. The pound, written £, was British money. A Maryland firm, Stevenson, Randolph and Cheston, sold convicts in Maryland from 1767 to 1775. The firm's own sales books record that most men sold for £11 to £14 and most women for £9 to £10. The planters who bought them got years of work without paying wages.
+
+Convicts died on the crossing. On 38 voyages from London between 1718 and 1736, the ships carried 3,599 convicts, and 385 of them died. That is about 11 of every 100. The historian A. Roger Ekirch points out that some of these voyages list no deaths at all. If those blanks are gaps in the clerks' records, the true count was about 15 of every 100. On 12 voyages from Bristol in the 1770s, 23 of 990 convicts died.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Rhode Island's slave ships" -->
+Merchants in Rhode Island sent out at least 1,000 slaving voyages in the century before 1807, the year the slave trade became illegal under United States law. Their ships carried more than 100,000 Africans into slavery. About 60 of every 100 slaving voyages that left North America sailed from Rhode Island, and in some years more than 90 of every 100 did. These numbers come from a 2006 report by Brown University called *Slavery and Justice*.
+
+The ships ran a loop around the Atlantic Ocean. Colonists turned molasses from the Caribbean into rum. Captains carried the rum and other goods to West Africa and traded them for captive people. Crews then carried the captives across the ocean, on the crossing called the Middle Passage, to be sold in the Caribbean and on the mainland. The ships brought sugar and molasses back north. The merchants who sent out these ships made their money by buying and selling human beings.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="London's rules tighten" -->
+In 1733 members of Parliament passed the Molasses Act. Under it, colonists had to pay a duty, a tax on goods brought in, of sixpence a gallon on molasses from islands that did not belong to Britain. Many colonists dodged the duty by smuggling, which means bringing goods in secretly.
+
+In 1750 members of Parliament passed the Iron Act. Under it, raw iron from the colonies could enter Britain with no duty. The act forbade colonists to build new steel furnaces, rolling and slitting mills or plating forges. Those were the works that turned raw iron into finished goods. Colonists built them anyway.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1700-1750" -->
