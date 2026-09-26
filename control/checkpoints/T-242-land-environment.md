@@ -15,9 +15,8 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242d unit 4, self-review of part 3 (all three eras written) of manuscript/land-environment/part3-1900s-and-today.md. Check the
-        file for a half-written era before resuming.
-NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose check.
+NOW:    T-242e unit 5, closing BLOCKING GAPS (13). Each gap is marked below as it closes.
+NEXT:   T-242e: research each open gap, patch the bank, update the part file, mark the gap.
 
 ## Units
 
@@ -27,7 +26,7 @@ NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose 
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
 | 4 | part3 eras 8-10 | landed | 2026-09-26 |
-| 5 | close BLOCKING GAPS (bank + prose) | todo | |
+| 5 | close BLOCKING GAPS (bank + prose) | in progress (T-242e) | |
 
 ## Gaps found and filled (unit 1)
 - Era 05: whose land the 1785 grid sat on. Fort McIntosh 1785 (under duress), Hutchins's Seven Ranges survey under army guard, Harmar/St. Clair/Wayne, Greenville 1795 (16.9M acres). Ohio Auditor's *Ohio Lands Book*.
