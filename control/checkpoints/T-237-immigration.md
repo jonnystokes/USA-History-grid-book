@@ -12,16 +12,16 @@ MODEL:  manuscript/native-nations/ and manuscript/city-building/ are finished v2
 PLAN:   T-237a = part1-before-1800.md (eras 1-5), T-237b = part2-1800s.md (eras 6-7),
         T-237c = part3-1900s-and-today.md (eras 8-10).
 
-NOW:    T-237a writing part1 era 1500s.
-NEXT:   write part1 era 1500s (append to manuscript/immigration/part1-before-1800.md).
+NOW:    T-237a writing part1 era 1600s.
+NEXT:   write part1 era 1600s (append to manuscript/immigration/part1-before-1800.md).
 
 ## Units
 
 | # | unit | state | landed (commit / note) |
 |---|------|-------|------------------------|
 | 1 | part1 era before-1500 (thin) | landed | file created, era written |
-| 2 | part1 era 1500s (thin) | working | |
-| 3 | part1 era 1600s | todo | |
+| 2 | part1 era 1500s (thin) | landed | era written |
+| 3 | part1 era 1600s | working | |
 | 4 | part1 era 1700-1750 | todo | |
 | 5 | part1 era 1750-1800 | todo | |
 | 6 | part2 era 1800-1850 | todo | |
@@ -34,11 +34,16 @@ NEXT:   write part1 era 1500s (append to manuscript/immigration/part1-before-180
 
 <!-- The claim, the outline line, and where it would have gone. -->
 
+- "small and often in danger" (St. Augustine, outline 1500s span, line 30). Bank does not say it. Left out of 1500s span.
+
 ## Defects in the outline or bank, fixed in the prose (go to AUDIT-QUEUE)
 
 - Glosses from general knowledge, not in the bank (word definitions only, no historical claim): "Norse" = sailors from northern Europe; Newfoundland "in what is now Canada"; land bridge = dry ground joining Asia to North America.
+- LAND ERASURE GAP (bank): bank section 2 does not name the Native nation on whose land Menendez built St. Augustine, and section 3 names only the Powhatan for the 1600s colonies (no Wampanoag for Plymouth, no nation for Massachusetts Bay, New Amsterdam, Maryland or Pennsylvania). Prose states "on Native land" from the bank's general lines. Audit should add the nations to the bank.
+- Glosses (1500s): continental US = states other than Alaska and Hawaii; feast day; missionary.
 
 ## Log
 
 <!-- date-time | unit | words | validator | --punct -->
 - 2026-09-26 | 1 before-1500 | ~230 prose | 0 errors (--part) | emdash=0 semicolon=0
+- 2026-09-26 | 2 1500s | ~380 prose | 0 errors (--part) | emdash=0 semicolon=0
