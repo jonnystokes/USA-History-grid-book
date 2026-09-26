@@ -18,8 +18,8 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243d in flight: part3 1950-2000 landed, writing 2000-today.
-NEXT:   T-243d: write part 3 (eras 8-10)
+NOW:    T-243d landed 2026-09-26 (part3, eras 8-10, about 4,950 prose words, validator clean, punct 0/0, --check economy --stage prose PASS).
+NEXT:   T-243e: close the collected BLOCKING GAPS
 
 ## Units
 
@@ -28,7 +28,7 @@ NEXT:   T-243d: write part 3 (eras 8-10)
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | in-flight | |
+| 4 | part3 eras 8-10 | landed | 2026-09-26 |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -60,6 +60,10 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - (T-243c, part 2, left out:) 1800-1850: Hone "a carpenter's son", "nearly every day for 23 years", "in the spring of 1837" (bank gives the quote undated), "one of the fullest firsthand records"; mill wages as "money entering households that had rarely handled it"; "most miners found little" (bank: merchants made steadier money than most miners).
 - (T-243c, part 2, left out:) 1850-1900: the transcontinental railroad entirely (neither its 1869 completion nor the trip time is in this bank); Coxey's jobs program "did not exist until the 1930s"; "farmers paid whatever the one railroad in town charged"; Carnegie "left Scotland broke", "made steel cheap" (the bank gives the rail price fall but does not credit his mills), "one of the richest men alive"; Rockefeller "the bookkeeper"; Hall's first names (bank gives "Hall's 1886 process"); how Homestead claims were made (living on and farming the land). Unverified 392,897 Black sharecroppers (1930) not used.
 
+- (T-243d, part 3, left out:) 1900-1950: 1920s families buying cars and radios "on installment payments"; the Depression as "the hardest times in the country's history"; Ford's union fight "with violence into the 1930s" (bank: "fought unions for decades"); "Michigan" for Highland Park; Hoovervilles "named for the president"; "police shots killed" Hushka and Carlson (bank: "shots killed", no shooter); Roth "not a rich man", "into the 1940s", "one of the clearest ... records"; Perkins's plan "paid for by workers and employers", "went to Congress in January 1935" (bank: report to FDR January 15, 1935), "that Roosevelt created"; Social Security "funded by payroll taxes"; CCC "planting and building"; AAA "while people stood in breadlines" and "the contradiction produced food-relief programs"; "lowest ever recorded" (written as "lowest in the official records"). The CCC's full name (bank gives only "CCC"). The NMAAHC line "Black unemployment was nearly 20 percent higher than ... white" left out: it conflicts with the bank's own 50% vs 25% figures.
+- (T-243d) 1950-2000: "near-free shipping later moved much manufacturing overseas"; the name "Rust Belt" (bank never uses or defines it; span labelled "Factory jobs fall"); factory jobs "fell for forty years"; services "four in five by the century's end" (bank: above 80% "by the 2000s"); Dickey's coalition "commissioned a study"; "the idea of worker ownership it spread did not [fail]" (closing reversal); "the argument over them continues"; NASDAQ "sixfold" (bank: up about 600%, used); who imposed the 1973 oil embargo and the 1980 grain embargo (bank does not say).
+- (T-243d) 2000-today: "much of what they buy is made overseas"; "a growing share of work runs through apps"; "the worst downturn since the 1930s"; Neufeldt's bakery; Obama's "first trip as president" (bank: first trip promoting the stimulus); Countrywide's "at least 200,000" borrowers (bank marks it search-excerpt only, unverified); the outline's Q4 2024 wealth shares (67%, 2.5%), superseded by the bank's Q2 2026 correction; the topic film *Inside Job* (not used).
+
 ## BLOCKING GAPS
 
 - (T-243b) 1500s, Verrazzano 1524 span: the bank says "European ships" had already taken Native people from the Maine coast to sell as slaves. It names no nation, captain, ship or date. Prose says "Crews of earlier European ships".
@@ -76,6 +80,11 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - (T-243c) 1850-1900, convict leasing span: in 1924 "a prisoner died after being lowered into a vat of boiling water". The bank names neither the prisoner nor who lowered him, nor the place. The causes of the mine deaths (233, 181, 90 per 1,000, 25% in 1873) are not in the bank.
 - (T-243c) 1850-1900, Coxey span: "Coxey was arrested". The bank does not say who arrested him.
 - (T-243c) Carnegie story: "Ten men died in the battle at Homestead on July 6, 1892". The bank does not say who fought whom or who killed them (the story belongs to `work-workers`).
+- (T-243d) 1900-1950, Bonus Army span: the bank says "shots killed veterans William Hushka and Eric Carlson" while police cleared buildings. It does not say who fired. Prose keeps the passive "were shot dead".
+- (T-243d) 1900-1950, AAA span: the Southern Tenant Farmers' Union "was subjected to violent repression by planters". The bank gives no act, no victim, no place and no planter's name. Prose says "Planters put down the union with violence", which is a category noun until the acts are sourced.
+- (T-243d) 1950-2000, Youngstown span: the bank names the company (Youngstown Sheet and Tube) but no owner or executive who decided the Campbell Works closing. Prose says "the managers of Youngstown Sheet and Tube".
+- (T-243d) Dickey story: no official in President Carter's government or the Economic Development Administration is named for the support and the 1979 refusal.
+- (T-243d) 2000-today, 2008 spans: the bank names no bank executive, loan officer or regulator. Lending acts sit with the firms (Countrywide, Wells Fargo, Lehman Brothers), and "Treasury officials" paid out TARP. The dispatch asked for named executives and regulators. Only Tom Perez (Justice Department) is named.
 
 ## Log
 - 2026-09-26 T-243a: bank check landed. 7 PATCH blocks (eras 2, 3, 4, 6, 7, 8, 10). `--check economy --stage research` PASS (bank 12,346 words).
@@ -88,3 +97,4 @@ All appended to `research/research-economy.md` as `### PATCH 2026-09-26 (T-243a)
 - 2026-09-26 T-243c: 1850-1900 written (8 spans, stories andrew-carnegie-economy, john-d-rockefeller-economy). Self-review run. Part 2 total about 4,350 prose words, 315 sentences, mean 13.8 words. validate --part 0 errors, 3 stories. --punct emdash=0 semicolon=0. Bank defect fixed in prose: the patch says Southern states "then" leased prisoners after the 13th Amendment, but also dates Alabama's lease from 1846. Prose says officials leased prisoners "under that exception" and keeps 1846. Unit 3 landed.
 - 2026-09-26 T-243d: 1900-1950 written (~2,300 prose words, 7 spans, stories henry-ford-economy, benjamin-roth-economy, frances-perkins-economy). validate --part 0 errors. --punct emdash=0 semicolon=0.
 - 2026-09-26 T-243d: 1950-2000 written (~1,500 prose words, 5 spans, story gerald-dickey-economy). validate --part 0 errors. --punct emdash=0 semicolon=0.
+- 2026-09-26 T-243d: 2000-today written (~2,100 prose words, 7 spans, story ed-neufeldt-economy). Self-review run. Part 3 total about 4,950 prose words, 350 sentences, mean 14.2 words. validate --part 0 errors, 5 stories. --punct emdash=0 semicolon=0. --check economy --stage prose PASS (13,293 words, 11 stories verified). Unit 4 landed.
