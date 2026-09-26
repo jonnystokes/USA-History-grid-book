@@ -109,54 +109,54 @@ Years later, Spanish officials charged Onate with thirty crimes. The judges foun
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-Through the 1600s Native nations still held nearly the whole continent. The European settlements were a fringe along the edge of the sea, and they lived on Native food, Native trade, and Native permission. Nations decided which newcomers to deal with — Dutch, French, English, Spanish — and set them against one another.
+Through the 1600s Native nations still held nearly the whole continent. The European settlements were a thin strip along the coast. The settlers depended on Native food and Native trade, and they stayed only with Native permission. Native leaders chose which newcomers to deal with, from among the Dutch, the French, the English and the Spanish, and they played those newcomers against one another.
 
-Seen from the nations' side, the century has a shape. First came agreements: alliances made on Native terms and recorded in the Native way. Then came war, once the newcomers stopped needing permission. And in the Southwest, one rising pushed a European empire off Native land and kept it off for twelve years.
+Early in the century, nations made alliances with the newcomers on Native terms and recorded them in the Native way, on wampum belts. Once the colonists no longer needed Native permission to stay, wars began between colonists and the coastal nations. In the Southwest in 1680, the Pueblo nations rose together and drove the Spanish off their land. They kept the Spanish out for twelve years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Tsenacommacah" -->
-In eastern Virginia, Wahunsenacawh inherited six tribes and built them into a state of more than thirty. The English called him "the Powhatan." His own title was mamanatowick — the paramount chief, the chief that other chiefs answer to. About 15,000 people lived in his country, spread across some 10,000 square miles between the James River and the Potomac. Each town had its own leader, called a weroance, and each weroance passed tribute upward to Wahunsenacawh. The country was called Tsenacommacah.
+In eastern Virginia, Wahunsenacawh inherited six tribes and built them into a state of more than thirty. His country was called Tsenacommacah. The English called him "the Powhatan." His own title was mamanatowick, or paramount chief. A paramount chief is a chief whom other chiefs answer to. About 15,000 people lived in his country, spread across some 10,000 square miles between the James River and the Potomac. Each tribe had its own leader, called a weroance, and each weroance paid tribute to Wahunsenacawh.
 
-The English planted Jamestown inside it in 1607. For its first years the colony stayed alive by dealing with Wahunsenacawh as what he was: the power in that land.
+English colonists founded Jamestown inside Tsenacommacah in 1607. In the colony's first years, the colonists stayed alive by dealing with Wahunsenacawh as the ruler of that land.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Wampum diplomacy and the Covenant Chain" -->
-Haudenosaunee diplomacy ran on wampum. Beads cut from shell were strung and woven into belts, and the pattern of a belt held the terms of an agreement. The agreement itself was kept in memory and recited aloud. The belt was the record.
+Haudenosaunee diplomats used wampum to record agreements. Beads cut from shell were strung and woven into belts, and the pattern of each belt stood for the terms of an agreement. Speakers kept the words of the agreement in memory and recited them aloud. The belt served as the record of what had been agreed.
 
-The Two Row Wampum, Guswenta, holds the Haudenosaunee record of their first agreement with the Dutch. Two purple rows run down a white field: two vessels traveling the same river side by side, neither one steering the other. Haudenosaunee tradition dates it to 1613. There is also a paper document with that date on it, and scholars argue about whether it is genuine. The wampum is the Haudenosaunee's own record, and that is how it is held.
+The Two Row Wampum, Guswenta, records the Haudenosaunee account of their first agreement with the Dutch. It has two purple rows of beads on a white background. The rows stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613. A paper document with the same date also exists, and scholars argue about whether it is genuine. The wampum belt is the Haudenosaunee's own record of the agreement.
 
-With the English the alliance took a different name: the Covenant Chain. The first surviving record of the Silver Covenant Chain comes from Albany in 1677, where it was formalized with the New York governor Edmund Andros. Silver tarnishes, and a silver chain has to be polished to stay bright. That was the point of the image. The alliance had to be renewed, council after council, with speeches and wampum — and it was renewed, for generations.
+The Haudenosaunee alliance with the English colonies had a different name, the Covenant Chain. The oldest surviving record of the Silver Covenant Chain dates from 1677. That year Haudenosaunee leaders and the New York governor, Edmund Andros, made the alliance official at Albany. Silver tarnishes, which means it turns dark over time, so a silver chain has to be polished to stay bright. The silver chain stood for an alliance that both sides had to renew again and again. They renewed it for generations, at council after council, with speeches and wampum.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The coastal wars" -->
-In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. Before dawn on May 26, 1637, an English-led force surrounded the fortified Pequot town at Mystic and set it on fire. They killed hundreds of people, most of them elders, women, and children, in under an hour.
+In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. Before dawn on May 26, 1637, an English-led force surrounded the Pequot town at Mystic, which was protected by walls, and set it on fire. In under an hour they killed hundreds of people, most of them elders, women and children.
 
-The Treaty of Hartford in 1638 declared that the Pequot nation no longer existed. It made the name itself illegal to use. Survivors were handed over to the victors or sold into slavery. The Mashantucket Pequot Tribal Nation is in Connecticut today.
+In the Treaty of Hartford of 1638, the victors declared that the Pequot nation no longer existed. They made it illegal to use the name Pequot. Under the treaty, Pequot survivors were handed over to the victors or sold into slavery. The sources do not name who sold them. The Mashantucket Pequot Tribal Nation is in Connecticut today.
 
-Nearly forty years later the fighting was much larger. Metacom, the Wampanoag sachem — a sachem is the leader of a nation — built a coalition of nations against the New England colonies and fought them from 1675 to 1676. About 9,000 people died. For the size of the population, it is often called the bloodiest war in American history; estimates put Native deaths at roughly half of all the Native people in New England.
+In 1675, nearly forty years after the Pequot War, Metacom built a coalition of nations against the New England colonies. Metacom was the Wampanoag sachem, and a sachem is the leader of a nation. His coalition fought the colonists from 1675 to 1676. About 9,000 people died, and estimates put Native deaths at roughly half of all the Native people in New England. For the size of the population, histories of the war often call it the bloodiest war in American history.
 
-Inland, the Haudenosaunee fought the Beaver Wars over the fur trade through the middle and later part of the century, and remade the map of the eastern interior in the process.
+Inland, from the middle to the late 1600s, Haudenosaunee warriors fought the Beaver Wars against nations to the west and north. They fought for control of the fur trade, the trade in animal furs with Europeans. The wars changed which nations held which lands across the eastern interior.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="metacom-native-nations" name="Metacom (King Philip)" movie="" kind="famous" status="verified" -->
 ### Metacom (King Philip)
 
 > **Who:** Wampanoag sachem, son of Massasoit, who led the coalition war of 1675 and 1676 against the New England colonies. The English called him King Philip.
-> **When and where:** Southern New England; killed at Mount Hope, August 12, 1676.
+> **When and where:** Southern New England. Killed at Mount Hope, August 12, 1676.
 
-Metacom was the son of Massasoit, the Wampanoag leader who had made the arrangement with the Plymouth colonists in 1621. In 1675 Metacom led a coalition of nations to war against the New England colonies.
+Metacom was the son of Massasoit, the Wampanoag leader who had made an arrangement with the Plymouth colonists in 1621. In 1675 Metacom led a coalition of nations to war against the New England colonies.
 
 On August 12, 1676, at Mount Hope, a Native man serving with the colonial forces shot him dead.
 
-His wife and his nine-year-old son were sold into slavery. Most sources say they were sent to Bermuda; others say elsewhere in the West Indies. His head was put on display at Plymouth. Hundreds of other captives were sold into slavery to pay what the war had cost the colonies.
+Metacom's wife and his nine-year-old son were sold into slavery. The records do not say who sold them. Most sources say the two were sent to Bermuda, and others say they went elsewhere in the West Indies. At Plymouth, colonists put Metacom's head on display. Colonial officials sold hundreds of other captives into slavery to pay what the war had cost the colonies.
 <!-- hb-story:end slug="metacom-native-nations" -->
 
 <!-- hb-zoom level="span" label="The Pueblo Revolt" -->
-The Pueblo nations along the Rio Grande had lived under Spanish rule since the New Mexico colony was founded in 1598.
+The Pueblo nations along the Rio Grande had lived under Spanish rule since Juan de Onate founded the New Mexico colony in 1598.
 
-On August 10, 1680, they rose together. They were many separate towns speaking several different languages, and they moved on the same day. They besieged Santa Fe and took it, and they drove the Spanish out of New Mexico. In the rising, 401 settlers and 21 Franciscan friars were killed. Most of the Spanish were allowed to leave, and they went south.
+On August 10, 1680, the people of many separate towns rose against the Spanish on the same day. The towns spoke several different languages. Pueblo fighters besieged Santa Fe, which means they surrounded the town and cut it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
 
-The Pueblos governed themselves for the next twelve years, through drought, famine, and raids. Diego de Vargas began the Spanish reconquest in 1692, and armed resistance went on for years after that. The Pueblo Revolt is commonly called the most successful Indigenous uprising against a European colonial power in North America.
+The Pueblos governed themselves for the next twelve years. In those years they lived through drought, raids and famine, which is a long shortage of food. Diego de Vargas began the Spanish reconquest in 1692, and Pueblo fighters kept up armed resistance for years after that. Historians commonly call the Pueblo Revolt the most successful uprising by Native people against a European colonial power in North America.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="pope" name="Po'pay (Popé)" movie="" kind="famous" status="verified" -->
@@ -165,21 +165,21 @@ The Pueblos governed themselves for the next twelve years, through drought, fami
 > **Who:** A Tewa religious leader from Ohkay Owingeh who organized the 1680 rising across dozens of towns and several languages.
 > **When and where:** New Mexico, August 1680.
 
-Po'pay had to get dozens of towns to act on a single day. The towns did not all speak the same language, and there was no way to send a message faster than a person could run.
+Po'pay had to get dozens of towns to act on a single day. The towns did not all speak the same language, and nobody had a way to send a message faster than a person could run.
 
-By Pueblo accounts, runners carried knotted cords from town to town, counting down the days until the day itself.
+Pueblo accounts say that runners carried knotted cords from town to town. The knots on each cord marked the days left until the rising.
 
-It worked. On August 10, 1680, the towns rose together, and Spain was out of New Mexico for twelve years.
+On August 10, 1680, the towns rose together as planned. Pueblo fighters drove the Spanish out of New Mexico, and the Spanish stayed out for twelve years.
 
-A statue of Po'pay stands in the United States Capitol, one of the two figures New Mexico sends to Statuary Hall.
+A statue of Po'pay stands in the United States Capitol. It is one of the two statues that represent New Mexico in Statuary Hall.
 <!-- hb-story:end slug="pope" -->
 
 <!-- hb-zoom level="era" -->
-Something else came out of 1680. When the Spanish left New Mexico, they left their horses behind — perhaps 1,500 or more passed into Native hands at once, the largest single transfer of horses on the continent. The traditional account says the horse spread west and north from there along Native trade routes, to the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone, and the nations of the northern Plains.
+When the Spanish left New Mexico in 1680, they left their horses behind. An estimated 1,500 or more horses passed into Native hands at once, the largest single transfer of horses on the continent. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
 
-That account is now in question. In 2023 a study in the journal *Science*, led by William Taylor and written with Lakota, Comanche, Pawnee, and other Native scholars, radiocarbon-dated horse remains from Wyoming, Kansas, and New Mexico. Those horses had been ridden, bridled, and fed on corn, and they were there by the early 1600s — decades before the revolt. That matches what Native oral histories had said all along. The timing is unsettled, and both accounts belong in the record.
+In 2023 a team led by William Taylor published a study in the journal *Science* that questions this account. Lakota, Comanche, Pawnee and other Native scholars worked on the study with him. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, and the amount left shows how old a bone is. The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, which are straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, which are accounts passed down by telling, had said the same thing. Scholars have not settled the timing.
 
-Either way, by the 1700s the horse had transformed life on the Plains.
+By either account, Plains nations had horses by the 1700s, and horses changed how people lived on the Plains.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
