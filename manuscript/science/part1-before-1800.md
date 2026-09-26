@@ -20,7 +20,7 @@ People built some of their knowledge of the sky into structures of wood and ston
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Woodhenge at Cahokia" -->
-The place where the sun comes up moves along the horizon over the course of a year. The people of Cahokia, in what is now Illinois, tracked that movement with circles of tall wooden posts. The circles are known today as Woodhenge.
+The place where the sun comes up moves along the horizon over the course of a year. The people of Cahokia, in what is now Illinois, tracked that movement with circles of tall wooden posts. The circles are known today as Woodhenge. Nations such as the Chickasaw and the Osage descend from the people who lived at Cahokia.
 
 They built five of these circles, one after another, between about the years 900 and 1100. Each circle had between 24 and 72 posts. The largest was up to 145 meters across, which is about 475 feet. The posts marked the points where the sun rose at different times of the year.
 
@@ -28,7 +28,7 @@ Among them were the sunrise points on the solstices and the equinoxes. The solst
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Sun Dagger at Chaco Canyon" -->
-In Chaco Canyon, in what is now New Mexico, three slabs of sandstone lean against a cliff near the top of Fajada Butte. A butte is a steep hill with a flat top. Two spirals are carved into the rock there. A carving in rock like this is called a petroglyph.
+Chaco Canyon, in what is now New Mexico, was a center for the ancestral Pueblo people from 850 to 1250. Their descendants include the Hopi, the Pueblo peoples of New Mexico and the Navajo Nation. In the canyon, three slabs of sandstone lean against a cliff near the top of Fajada Butte. A butte is a steep hill with a flat top. Two spirals are carved into the rock there. A carving in rock like this is called a petroglyph.
 
 Sunlight passes the edges of the slabs and falls on the spirals as thin blades of light, called daggers. The daggers land on the spirals in set places at the solstices and the equinoxes. Researchers in a group called the Solstice Project argue that the spirals also mark a cycle of the moon. Over 18.6 years, the points where the moon rises and sets swing out to their widest and back again. Other researchers who study ancient astronomy still debate that claim.
 
@@ -165,7 +165,7 @@ Franklin ran his own test in Philadelphia with a kite. Writers have long dated t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Timing Venus, 1769" -->
-On June 3, 1769, the planet Venus passed across the face of the sun, as seen from Earth. This event is called a transit of Venus. Members of the American Philosophical Society chose teams of observers to time it. It was the first large, organized science project in the colonies.
+On June 3, 1769, the planet Venus passed across the face of the sun, as seen from Earth. This event is called a transit of Venus. Members of the American Philosophical Society chose teams of observers to time it. Astronomers in many parts of the world timed the same transit. They planned to use the times to work out the distance from Earth to the sun. The society's timing of the transit was the first large, organized science project in the colonies.
 
 At Norriton, David Rittenhouse, William Smith, John Lukens and John Sellers timed Venus as it crossed the sun. Their results filled the first volume of the society's *Transactions*, its printed record of research, which came out in 1773. Members of the Royal Society in London reprinted the results.
 <!-- /hb-zoom -->
@@ -186,7 +186,7 @@ In 1791 he followed Franklin as president of the American Philosophical Society.
 <!-- hb-zoom level="span" label="Jefferson, Buffon and the moose" -->
 A scientist in France named Buffon taught that animals and people grew "degenerate" in the Americas. By that he meant smaller and weaker. Thomas Jefferson argued against this with evidence in his book *Notes on the State of Virginia*.
 
-In the same book, in the part called Query XIV, Jefferson made a claim about Black people. He wrote: "I advance it therefore as a suspicion only, that the blacks, whether originally a distinct race, or made distinct by time and circumstances, are inferior to the whites in the endowments both of body and mind." Endowments here means natural abilities. He wrote that in reason Black people were "much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid." Euclid was an ancient Greek mathematician. Jefferson called his claim a suspicion, and he gave no evidence for it.
+In the same book, in the part called Query XIV, Jefferson made a claim about Black people. He wrote: "I advance it therefore as a suspicion only, that the blacks, whether originally a distinct race, or made distinct by time and circumstances, are inferior to the whites in the endowments both of body and mind." Endowments here means natural abilities. He wrote that in reason Black people were "much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid." Euclid was an ancient Greek mathematician. Jefferson called his claim a suspicion, and he gave no evidence for it. Jefferson himself enslaved more than 600 people during his life.
 
 Jefferson also used a moose as evidence against Buffon. Jefferson was the United States minister in Paris, the country's official representative to the French government. On January 7, 1786, he wrote to John Sullivan of New Hampshire, a former general and governor. He asked for "the skin, the skeleton, and the horns of the Moose."
 
