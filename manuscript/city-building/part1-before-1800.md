@@ -14,33 +14,33 @@ Editor's in-development note — not part of the final book; the parser strips i
 ## Before 1500
 
 <!-- hb-zoom level="era" -->
-There were planned cities on this land centuries before any European saw it. A planned city is one where people decided in advance where things would go — this open square here, this wall there, this mound at the center — and then built it that way. The largest of them stood beside the Mississippi River. In the Southwest, people cut and stacked stone into towns, and some of the towns they built then are lived in today.
+People built planned cities on this land centuries before any European saw it. In a planned city, people decide ahead of time where each open square, wall and mound will go, and then they build it that way. The largest of these cities stood beside the Mississippi River. In the Southwest, people cut and stacked stone to build towns, and people still live in some of the towns built in those years.
 
-Nobody's name survives from these places. No builder, no surveyor, no ruler. What survives is the work itself: the mounds, the walls, the rooms, the roads. The builders are known by what they built, and by nothing else.
+The people who built these places kept no written records. So the name of no single builder, planner or ruler survives. Archaeologists know them only from the mounds, walls, rooms and roads they left.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cahokia, a city laid out on purpose" -->
-Near where St. Louis, Missouri, stands today, people began building Cahokia quickly from about 1050. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. That was about the size of London at the same date. Some estimates for the wider settlement around the center run higher, up to about 50,000, and those larger figures are not settled.
+Near where St. Louis, Missouri, stands today, people built up the city of Cahokia quickly from about 1050. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. London had about as many people at the same date. Some estimates put as many as 50,000 people in the wider settlement around the center. Scholars have not settled those larger figures.
 
-The city was arranged, not accidental. At its heart stood Monks Mound, the largest prehistoric earthen structure in the Americas — prehistoric meaning built before anyone living here kept written records. It holds about 814,000 cubic yards of earth, all of it carried and packed by hand, raised in stages, with four flat terraces climbing to about 100 feet. Its base covers roughly 14 acres. UNESCO, the United Nations body that keeps the World Heritage list of historic sites, counts fourteen separate building stages in it.
+The people of Cahokia laid their city out on purpose. At its center they raised Monks Mound, the largest prehistoric earthen structure in the Americas. Prehistoric means built before anyone living here kept written records. The mound holds about 814,000 cubic yards of earth. People carried all of it and packed it down by hand, and they raised the mound in stages. It has four flat terraces, or wide steps, and its top stands about 100 feet high. Its base covers roughly 14 acres. UNESCO is the United Nations body that keeps the World Heritage list of historic sites. Its listing for Cahokia records fourteen separate building stages in the mound.
 
-At the foot of the mound lay the Grand Plaza, about 50 acres of ground deliberately leveled and filled in by hand so that it was flat. People gathered there and played chunkey there, a game played with a rolling stone disk.
+At the foot of the mound lay the Grand Plaza, about 50 acres of open ground. People leveled it on purpose and filled it in by hand so that it was flat. They gathered there and played chunkey, a game played with a rolling stone disk.
 
-West of Monks Mound stood a circle of tall red cedar posts. There were five of these circles in succession, each replacing the last. The posts line up with the point on the horizon where the sun rises at the solstices and the equinoxes — the longest day, the shortest day, and the two days in between when day and night are equal. That is a working calendar, and it was built into the plan of the city.
+West of Monks Mound the builders set up a circle of tall red cedar posts. They built five of these circles, one after another, and each new circle took the place of the last. The posts line up with the points on the horizon where the sun rises at the solstices and the equinoxes. The solstices are the longest day and the shortest day of the year. The equinoxes are the two days between them when day and night are equal in length. So the posts worked as a calendar, and the builders set them into the plan of the city.
 
-Around the central precinct ran a palisade, a wall of upright logs about two miles long. People began it around 1100 and rebuilt it three times over about two hundred years. Each build took between 15,000 and 20,000 logs of oak and hickory, each roughly a foot thick and twenty feet tall. People cut every one of those logs, hauled it, and stood it upright.
+Around the central part of the city ran a palisade, a wall of upright logs about two miles long. People began it around 1100 and rebuilt it three times over about two hundred years. Each rebuilding took between 15,000 and 20,000 logs of oak and hickory, each roughly a foot thick and twenty feet tall. People cut, hauled and stood up every one of those logs.
 
-By about 1350 the people had gone.
+By about 1350 the people of Cahokia had scattered and left the city.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Stone towns of the Southwest" -->
-In what is now northwestern New Mexico, Ancestral Puebloan people built Chaco Canyon into the center of their world. They built with shaped stone, and they went on putting up and using the canyon's great houses for roughly 280 years, from about 900 to about 1180. One of those buildings, Pueblo Bonito, had more than 650 rooms in it.
+In what is now northwestern New Mexico, Chaco Canyon was the center of the Ancestral Puebloan world. Ancestral Puebloan people are the ancestors of the people who live in the pueblo towns of the Southwest today. At Chaco they built great houses, which are large buildings of shaped stone. They went on building and using the great houses for roughly 280 years, from about 900 to about 1180. One of them, Pueblo Bonito, had more than 650 rooms.
 
-They also built roads. Chacoan roads were engineered, which means people laid them out and built them, rather than a track being worn into the ground by feet over many years. They run straight for miles across the Four Corners country and average about 30 feet wide. They connected outlying communities to the canyon.
+The people of Chaco also built roads. The roads were engineered, which means people laid out each route and built it on purpose. The roads run straight for miles across the Four Corners country, where Colorado, Utah, Arizona and New Mexico meet. They average about 30 feet wide, and they connected outlying communities to the canyon.
 
-In southwestern Colorado, at Mesa Verde, people built into the hollows under cliff overhangs. Cliff Palace is the largest of those cliff dwellings: 150 rooms and 23 kivas, built between 1190 and 1280. A kiva is a round room, usually sunk into the ground, used for ceremonies and for meeting. More than 100 people lived at Cliff Palace.
+In southwestern Colorado, at Mesa Verde, people built rooms into the hollows under overhanging cliffs. Cliff Palace is the largest of those cliff dwellings. It has 150 rooms and 23 kivas, and people built it between 1190 and 1280. A kiva is a round room, usually sunk into the ground, used for ceremonies and for meetings. More than 100 people lived at Cliff Palace.
 
-Those two dates measure different things. The 1140s is when people began leaving Chaco; building and living in the canyon trailed off through the decades after that, to about 1180. People had left Mesa Verde by the 1280s. They did not stop living in towns. They regathered into the pueblo towns along the Rio Grande, and those towns are still there. Town-living in the Southwest has never stopped.
+People began leaving Chaco in the 1140s. That date marks the start of the leaving, and the years 900 to 1180 mark the whole time the great houses were built and used. Building and living in the canyon dwindled over the next decades and ended about 1180. People had left Mesa Verde by the 1280s. The people who left both places gathered again in the pueblo towns along the Rio Grande. Those towns are still there, and people in the Southwest have lived in towns without a break ever since.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 

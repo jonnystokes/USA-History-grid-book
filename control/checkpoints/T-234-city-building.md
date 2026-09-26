@@ -13,8 +13,8 @@ FILES:  manuscript/city-building/part1-before-1800.md · part2-1800s.md · part3
 PLAN:   one agent per part file. T-234a = part 1, T-234b = part 2, T-234c = part 3.
 MODEL:  native-nations (T-233) is the finished v2 example. Its three parts show the voice.
 
-NOW:    T-234a dispatched on part 1. Unit 1 (era before-1500) not started.
-NEXT:   part 1, era before-1500.
+NOW:    T-234a working on part 1, unit 2 (era 1500s).
+NEXT:   part 1, era 1500s.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -30,8 +30,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 
 | # | unit | state | landed (commit / note) |
 |---|------|-------|------------------------|
-| 1 | part1 era before-1500 | todo | |
-| 2 | part1 era 1500s | todo | |
+| 1 | part1 era before-1500 | landed | v2 revision, T-234a |
+| 2 | part1 era 1500s | working | |
 | 3 | part1 era 1600s | todo | |
 | 4 | part1 era 1700-1750 | todo | |
 | 5 | part1 era 1750-1800 | todo | |
@@ -47,11 +47,18 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 
 <!-- Fact, bank section, and the sentence it went into. -->
 
+- (none taken for era before-1500)
+
 ## Decisions and known gaps
 
 <!-- Rule conflicts settled, and how. Defects beyond style found and fixed (these go to
      AUDIT-QUEUE). Anything a successor must not undo. -->
 
+- before-1500: the Chaco paragraph said "Those two dates measure different things" before the 1140s date had appeared (information-order defect, reads as a contradiction). Fixed: each date now says what it measures. Keep "prehistoric" on Monks Mound (bank flag 14).
+- before-1500: "Four Corners country" defined as where Colorado, Utah, Arizona and New Mexico meet. This is a plain-geography definition, not from the bank.
+
 ## Log
 
 <!-- One line per save: date-time | unit | what landed | validator result | --punct result -->
+
+- 2026-09-26 | 1 before-1500 | era revised to v2 | 0 errors | era clean (file still has later-era marks)
