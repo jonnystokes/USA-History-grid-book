@@ -182,4 +182,14 @@ will be worded differently, which is exactly why a search will not find it.
   - The bank does not name the Native nations on the sites of the 1600s towns. Research item.
   - The span label "Fire, the city killer" personifies fire. The agent could not edit marker
     lines. The revision brief now allows `label=` edits. This label is a one-line fix.
+- **city-building: the bank is thinner than the prose (from T-234b, 2026-09-26).** About 23
+  claims in parts 1 and 2 are not in `research/research-city-building.md`, including most of
+  the Olmsted story (an `hb-story` marked verified). Each one is listed in the "Decisions and
+  known gaps" section of `control/checkpoints/T-234-city-building.md`. The earlier writer
+  took them from the outline's inline notes. This needs a research patch: source each claim
+  into the bank, or cut it from the prose. It also argues for checking whether other
+  chapters' outlines carry claims their banks lack before those chapters are written.
+  Other items from part 2: the bank names no Native nation at Rochester, Chicago, San Francisco
+  or the land-run lands, and no one who took them. The bank calls marasmus "severe
+  malnutrition" and the prose says "starvation" (both kept).
 

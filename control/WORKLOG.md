@@ -1867,4 +1867,22 @@ CHECKPOINT: control/checkpoints/T-234-city-building.md (units 6-7)
 VERIFY: --punct manuscript/city-building/part2-1800s.md prints 0/0. The validator (--part) must
         be clean.
 BASELINE: 4,238 prose words, 23 em dashes, 6 semicolons.
+RESULT: DONE (part 2). 174,022 tokens, 23 tool uses, 10 min. Two commits.
+        MEASURED: --punct 0/0 · validator (--part) 0 errors · markers and record keys identical
+        apart from 3 revised span labels (now allowed) · prose words 4,238 -> 4,856 (+15%).
+        BEYOND STYLE: two LAND ERASURES. San Francisco was "a stretch of empty coast", but the
+        bank has about 200 people there in 1846. At the land run, the ground was "thrown open"
+        with no one named. The bank names neither the nation nor the takers, and the prose now
+        says so. Rochester's "fifteen years" was fourteen. "About 9,200" is now 9,269. An
+        implied 1890 date for Roosevelt as police commissioner was removed.
+        FINDING: about 20 claims in part 2 (and 3 in part 1) are NOT in the bank, including
+        most of the Olmsted story. The prose was written partly from the outline's inline notes.
+        The checkpoint lists them all. PARKED as one research-patch item.
+
+### 2026-09-26 | [CLOUD] T-234c | Revise city-building PART 3 (eras 8-10) to style guide v2
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-234-city-building.md (units 8-10)
+VERIFY: python tools/project_state.py --check city-building --stage prose SHOULD PASS once this
+        last part lands.
+BASELINE: 5,720 prose words, 48 em dashes, 12 semicolons. This is the largest part.
 RESULT:
