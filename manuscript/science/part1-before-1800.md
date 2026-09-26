@@ -105,3 +105,48 @@ Holm was a chaplain, a minister who serves a group of people away from home. He 
 Today, officials of the National Oceanic and Atmospheric Administration, the US government's weather and ocean agency, give the John Campanius Holm Award. It goes to volunteers who take weather readings. Up to 25 people receive it each year.
 <!-- hb-story:end slug="john-campanius-holm" -->
 <!-- hb-time:end id="1600s" -->
+
+<!-- hb-time:start id="1700-1750" order="04" chapter="science" label="1700 to 1750" state="full" progress="written" -->
+## 1700 to 1750
+
+<!-- hb-zoom level="era" -->
+Between 1700 and 1750, colonists began doing scientific work of their own. The farmer John Bartram collected and studied American plants. In 1743 Benjamin Franklin organized a society in Philadelphia to share work like his. From 1747 Benjamin Franklin ran experiments with electricity and mailed the results to London. Those letters made Franklin the first American scientist known outside the colonies.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The American Philosophical Society, 1743" -->
+In 1743 Benjamin Franklin organized the American Philosophical Society in Philadelphia. It is the oldest learned society in the United States. A learned society is a group of people who meet to share and discuss what they have found out.
+
+The botanist John Bartram first suggested the idea in 1739. Franklin set the society up with a pamphlet, a short printed booklet, in 1743. He called it *A Proposal for Promoting Useful Knowledge among the British Plantations in America*. In that title, the word plantations means colonies. The society grew out of Franklin's own club, the Junto. Franklin set it up as an American answer to the Royal Society in London.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="benjamin-franklin-science" name="Benjamin Franklin" movie="Benjamin Franklin (2022)" kind="famous" status="verified" -->
+### Benjamin Franklin
+
+> **Who:** A Philadelphia man whose experiments with electricity made him the first American scientist known in other countries.
+> **When and where:** Philadelphia, experiments from 1747 to 1751.
+> **Movie:** *Benjamin Franklin* (2022), a two-part documentary by Ken Burns, shown on PBS. It is about Franklin's life.
+
+Benjamin Franklin was the first American to be known in other countries as a scientist. From 1747 to 1751 he ran experiments with electricity in Philadelphia. He reported his results in letters to Peter Collinson, a member of the Royal Society in London.
+
+Franklin thought of electricity as a single fluid. He called an object positive when it held more than its normal amount, and negative when it held less. Scientists still use his words positive and negative. He also argued that electric charge is never made or destroyed. It only moves from one object to another. Scientists call this idea the conservation of charge.
+
+Franklin proposed that lightning is electricity. He also had the idea of a metal rod connected to the ground.
+
+In April 1751 his letters were published in London as a book, *Experiments and Observations on Electricity*. In 1753 members of the Royal Society gave him the Copley Medal, their highest honor. He was the first person from outside Britain to receive it.
+<!-- hb-story:end slug="benjamin-franklin-science" -->
+
+<!-- hb-story:start slug="john-bartram" name="John Bartram" movie="" kind="famous" status="verified" -->
+### John Bartram
+
+> **Who:** A Quaker farmer who studied plants, built the oldest surviving botanic garden in America, and first suggested the American Philosophical Society.
+> **When and where:** Kingsessing, on the Schuylkill River. Lived 1699 to 1777.
+
+John Bartram and his sons introduced more than 200 American plants to science. That means scientists first learned of those plants through the Bartrams.
+
+Bartram was a farmer and a Quaker, a member of a Protestant group also called the Society of Friends. He lived from 1699 to 1777. In 1728 he bought a farm of 102 acres on the Schuylkill River, at a place called Kingsessing. There he built a botanic garden, a garden where plants are grown so they can be studied. It is the oldest botanic garden in America that survives today.
+
+From 1730 to 1765 he traveled to collect plants, from New York as far south as Florida. In 1739 he suggested the idea that became the American Philosophical Society. In 1765 King George III named him the King's Botanist for North America.
+
+The Swedish botanist Carl Linnaeus reportedly called Bartram "the greatest natural botanist in the world." Writers quote the line often, but it rests on other people's reports of what Linnaeus said.
+<!-- hb-story:end slug="john-bartram" -->
+<!-- hb-time:end id="1700-1750" -->
