@@ -25,9 +25,9 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 - [x] George Washington (era 5 story, verified)
 - [x] the War of 1812 and Fort McHenry (era 6)
 - [x] the Mexican-American War (era 6)
-- [ ] the Civil War, Grant and Lee, Gettysburg
-- [ ] the U.S. Colored Troops
-- [ ] the Spanish-American War
+- [x] the Civil War, Grant and Lee, Gettysburg (era 7)
+- [x] the U.S. Colored Troops (era 7: Fort Pillow, Christian Fleetwood)
+- [x] the Spanish-American War (era 7)
 - [ ] World War I
 - [ ] World War II and D-Day
 - [ ] the atomic bomb
@@ -38,8 +38,8 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 
 ## Featured people to firm up (target/candidate)
 - **verified 2026-09-26 (T-235a)** — George Washington, Joseph Plumb Martin (replaces the Continental private target), Deborah Sampson (1750–1800). John Riley of the San Patricios (1800–1850, replaces the Mexican War soldier target).
-- **candidate** — Ulysses S. Grant and Robert E. Lee (1850–1900).
-- **target** — a captive from a captivity narrative (1700–1750) · a U.S. Colored Troops soldier and a Buffalo Soldier (1850–1900) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
+- **verified 2026-09-26 (T-235a), 1850–1900:** Grant and Lee; Amos Humiston (new, individual-scale death); Christian Fleetwood (fills the USCT target); Cathay Williams (fills the Buffalo Soldier target).
+- **target** — a captive from a captivity narrative (1700–1750) · a WWII GI, a Navajo code talker, and a Tuskegee airman [famous] (1900–1950) · a Vietnam soldier and a draft resister (1950–2000) · a post-9/11 veteran (2000–Today).
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -58,6 +58,12 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
 
 ## Cross-chapter parking log
 - *Oppenheimer* (2023) is a real film and this chapter's natural Movie line if the Manhattan Project gets a featured person — the `elements` bank flagged but did not adopt it. Not yet attached to a story.
+
+## Hand-offs from T-235a to the eras 8-10 agent (T-235b)
+- Era 8: the Philippine-American War's "water cure" torture, 1900-1902 (Senate testimony 1902). Sources seen, not verified: TIME https://time.com/3653711/torture-report-history-philippines/ ; Kramer, APJJF https://apjjf.org/paul-a-kramer/2685/article . Era 7 already gives the war's start and its death totals (State Dept. historian); do not repeat the totals.
+- Era 10: the 2024-2025 review of the 20 Wounded Knee Medals of Honor (Hegseth kept them, 25-26 Sep 2025; Remove the Stain Act). Sourced in bank §7.9.
+- All eras: CRS RL32492 (https://sgp.fas.org/crs/natsec/RL32492.pdf) gives the official DoD death tables for WWI, WWII, Korea, Vietnam and the Gulf War.
+- Audit queue candidates (not repaired, per the three-phase rule): eras 1-4 prose contains em dashes and semicolons (T-232's, untouched); the parked native-nations lines at the top of the bank cite Britannica (St. Clair and Little Bighorn are re-sourced in §5.7 and §7.9); the draft (1863 Enrollment Act) is not yet in the chapter.
 
 ## Open questions for the director
 - The Civil War is the biggest single overlap in the book (`war`, `slavery-freedom`, `government-politics`, `health`). This seed gives the fighting here and emancipation there. Confirm before research.

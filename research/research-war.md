@@ -947,3 +947,259 @@ the treaties (Paris 1763, Paris 1783) and the French alliance.
 - **Movie:** *One Man's Hero* (1999), dir. Lance Hool, Tom Berenger as Riley. A feature film about
   him (https://en.wikipedia.org/wiki/One_Man's_Hero). A dramatization, not a documentary.
 - Slug `john-riley-san-patricios` (checked unique).
+
+## 7. 1850 TO 1900
+
+### 7.0 The Civil War death toll — DISPUTE, state the range
+- **Traditional figure: about 620,000 dead.** ABT, "Civil War Casualties,"
+  https://www.battlefields.org/learn/articles/civil-war-casualties : "an estimated 620,000 men";
+  "For every three soldiers killed in battle, five more died of disease"; casualty defined as "a
+  military person lost through death, wounds, injury, sickness, internment, capture, or through
+  being missing in action"; about 1.5 million casualties reported. ABT notes some put the number as
+  high as 850,000 and does not adopt it.
+- **Census-based estimate: about 750,000, range 650,000 to 850,000.** J. David Hacker, "A
+  Census-Based Count of the Civil War Dead," *Civil War History*, December 2011; method compares
+  male vs female survival between the 1860 and 1870 censuses against 1850-60 and 1870-80.
+  (Binghamton University news, https://discovere.binghamton.edu/news/civilwar-3826.html ; PubMed
+  https://pubmed.ncbi.nlm.nih.gov/22512048/)
+- **Official Union figures (DCAS via CRS RL32492 Table 1, https://sgp.fas.org/crs/natsec/RL32492.pdf):**
+  2,213,363 served; **364,511 deaths: 140,414 battle deaths, 224,097 other deaths**; 281,881
+  wounded. Note e: "Authoritative statistics for the Confederate forces are not available";
+  estimates of Confederates serving 600,000 to 1,500,000; the Provost Marshal General's final report
+  gave **133,821 Confederate deaths (74,524 battle, 59,297 other), "based upon incomplete
+  returns"**; **"an estimated 26,000 to 31,000 Confederate personnel died in Union prisons."**
+
+### 7.1 Battles
+- **Fort Sumter, 12-13 April 1861:** Confederate batteries opened fire at 4:30 a.m. on 12 April;
+  over the next 34 hours 50 Confederate guns and mortars fired more than 4,000 rounds; Maj. Robert
+  Anderson surrendered at 2:30 p.m. on 13 April. (NPS Civil War battle detail SC001,
+  https://www.nps.gov/civilwar/search-battles-detail.htm?battleCode=SC001 ; ABT
+  https://www.battlefields.org/learn/civil-war/battles/fort-sumter ; search summary.)
+- **Antietam, 17 September 1862:** "23,000 soldiers were killed, wounded or missing after twelve
+  hours" of fighting; the bloodiest single day. (NPS Antietam, https://home.nps.gov/anti ; search summary)
+- **Gettysburg, 1-3 July 1863** (Meade v. Lee): **Union 23,049 (3,155 killed, 14,529 wounded, 5,365
+  missing/captured); Confederate 28,063 (3,903 killed, 18,735 wounded, 5,425 missing/captured);
+  total 51,112.** Pickett's Charge, 3 July: about 12,500 Confederates attacked Cemetery Ridge;
+  "casualties approaching 60 percent." (ABT, https://www.battlefields.org/learn/civil-war/battles/gettysburg)
+- **Vicksburg, 4 July 1863:** after a 46-day siege about 29,000 Confederates under Pemberton marched
+  out, stacked their rifles and surrendered to Grant. (NPS Vicksburg, "Surrender (July 4),"
+  https://www.nps.gov/vick/learn/historyculture/vicksurrender.htm ; ABT Grant bio for "46 days")
+- **Appomattox, 9 April 1865:** Grant and Lee met in Wilmer McLean's parlor for about an hour and a
+  half. Terms: Lee's men gave up military arms and property and signed paroles "not to take up arms
+  against the Government of the United States"; officers kept side arms, private horses and
+  belongings; all could go home. About 28,000 (28,231-28,251 in different counts) paroled.
+  (NPS Appomattox, "The Surrender Meeting,"
+  https://home.nps.gov/apco/learn/historyculture/the-surrender-meeting.htm ; search summary.)
+
+### 7.2 Wounds, amputation, disease
+- **Minié ball:** a soft lead conical bullet that often flattened on impact; "Minnie balls splintered
+  bones, damaged muscle, and drove dirt, clothing, and other debris into the wounds."
+- **"Three out of four surgeries (or close to 60,000 operations) were amputations."** Procedure:
+  anesthesia with **chloroform or ether**; a tourniquet to cut bleeding; scalpel for the skin, a
+  long "Catlin" knife for the muscle, **a bone saw** for the bone; arteries tied off; stump bandaged.
+  Amputations within 48 hours had better survival than later ones; infection, blood loss and poor
+  food killed those operated on later. (ABT, "Amputations and the Civil War,"
+  https://www.battlefields.org/learn/articles/amputations-and-civil-war)
+  - Death rate for major limb amputation about 28 percent (search summary of National Museum of
+    Civil War Medicine / NCpedia, https://www.ncpedia.org/history/cw-1900/amputations ; secondary).
+    **Not used in the outline.**
+  - **Amputation, plain words:** a surgeon cut off an arm or leg, sawing through the bone, because the
+    bullet had smashed it past repair. Chloroform or ether put the soldier to sleep first.
+- **Disease:** ABT's 3 battle : 5 disease. Union official 140,414 battle : 224,097 other (CRS).
+  Measles swept new camps: Lee wrote in August 1861, "The soldiers everywhere are sick. The measles
+  are prevalent throughout the whole army." (Essential Civil War Curriculum, Dr. Bonnie Brice
+  Dorwart, "Disease in the Civil War,"
+  https://www.essentialcivilwarcurriculum.com/disease-in-the-civil-war.html) Typhoid: 79,462 cases
+  in the Medical and Surgical History (same source).
+  - A widely cited figure of about 45,000 Union deaths from diarrhea and dysentery (Medical and
+    Surgical History of the War of the Rebellion) was seen only in secondary summaries; **not used.**
+
+### 7.3 Prisons
+- **Andersonville (Camp Sumter), Georgia:** built early 1864; enlarged in late June 1864 to 26.5
+  acres; built for 10,000, held **more than 33,000 in August 1864**; **more than 45,000 Union soldiers
+  held over 14 months, almost 13,000 died** of "disease, poor sanitation, malnutrition, overcrowding,
+  or exposure to the elements." A "deadline" about 19 feet inside the wall: "guards had orders to
+  shoot any prisoner who crossed" it. One stream, Stockade Branch, was the only water for most
+  prisoners. **Capt. Henry Wirz**, the commandant, was tried by a military tribunal and **hanged in
+  Washington on 10 November 1865**, "the only person executed for war crimes during the Civil War."
+  (ABT, "Andersonville," https://www.battlefields.org/learn/articles/andersonville-prison)
+- **Union prisons:** 26,000-31,000 Confederates died in them (CRS note e, above). Name no Union prison
+  without a source; none researched here.
+
+### 7.4 The draft
+- Not researched in this pass. The seed did not list it for this era, and `government-politics`
+  and `crime-justice` touch the 1863 New York draft riots. **Left out of the outline rather than
+  stated unsourced.** Flag for the audit phase: war's "draft" thread starts properly in 1863
+  (Enrollment Act) and a later pass could add one sourced sentence.
+
+### 7.5 U.S. Colored Troops — the fighting (`slavery-freedom` leads on freedom and on the 180,000 figure)
+- **Fort Pillow, Tennessee, 12 April 1864.** Garrison: **295 white men of the 13th Tennessee Cavalry
+  (Bradford's battalion) and 262 USCT** (6th U.S. Colored Heavy Artillery, Battery D of the 2nd U.S.
+  Colored Light Artillery). **Nathan Bedford Forrest with about 1,500 men.** Deaths on the day or
+  from wounds: **182 USCT, 64 of the 13th Tennessee, 13 Confederates**; about **70 percent of the
+  USCT** died against **about 20 percent of the white Union soldiers.** Congressional inquiry found
+  "Confederates continued to shoot unarmed men." **Pvt. George Shaw (USCT)** testified a Confederate
+  shot him after he surrendered, saying "Damn you. You are fighting against your master," and threw
+  him in the river; Shaw saw three teenage boys who had escaped slavery shot: "They begged them as
+  long as they could, but they shot them right in the forehead." (Smithsonian Magazine, "At Fort
+  Pillow, Confederates Massacred Black Soldiers After They Surrendered,"
+  https://www.smithsonianmag.com/history/at-fort-pillow-confederates-massacred-black-soldiers-after-they-surrendered-180981952/)
+  Witness: "They killed all the men after they surrendered, until orders were given to stop; they
+  killed all they came to, white and black, after they had surrendered." The congressional report
+  called it "a scene of cruelty and murder without parallel in civilized warfare." "Remember Fort
+  Pillow" became a battle cry of Black soldiers in 1864. (ABT, "Remember Fort Pillow,"
+  https://www.battlefields.org/visit/heritage-sites/remember-fort-pillow)
+  - **DISPUTE:** other accounts give nearly 200 or about 300 Black soldiers killed. **Use
+    Smithsonian's day-of-battle-and-wounds count and say others run to about 300.**
+
+### 7.6 STORY — Christian Fleetwood (fills the "(target) a U.S. Colored Troops soldier" slot) — verified
+- **Born 21 July 1840, Baltimore, to free parents; died 28 September 1914.** Graduated Ashmun
+  Institute, Oxford, Pennsylvania, 1860; co-founded the *Lyceum Observer*, an early Black newspaper
+  in the South. **Enlisted August 1863, 4th U.S. Colored Infantry; made sergeant major at once**
+  because of his education. **29 September 1864, Chaffin's Farm / New Market Heights**, outside
+  Richmond: when two color bearers were shot down he took the US flag and carried it forward.
+  **Medal of Honor 6 April 1865**: "He seized the colors, after 2 color bearers had been shot down,
+  and bore them nobly through the fight." One of **14 USCT soldiers given the Medal of Honor for New
+  Market Heights.** All the officers of his regiment petitioned **Secretary of War Edwin Stanton** to
+  commission him an officer; **Stanton declined.** Discharged 4 May 1866. Later: Freedmen's Bank and
+  War Department clerk in Washington; organized a DC National Guard battalion as major; helped found
+  the Colored High School Cadet Corps (1888). His medal is at the Smithsonian's National Museum of
+  American History. (ABT, "Christian Fleetwood," https://www.battlefields.org/learn/biographies/christian-fleetwood)
+- **His diary, 29 September 1864:** "Charged with the 6th at daylight and got used up…saved colors."
+  (National Humanities Center transcription of the diary, Library of Congress Fleetwood Papers,
+  https://nationalhumanitiescenter.org/pds/maai/identity/text7/fleetwooddiary.pdf ; via search summary)
+  The same search summary reports the regiment's color guard was cut down; the ABT page says two
+  color bearers. **Use two.**
+- Movie: none about him. *Glory* (1989) is about the 54th Massachusetts, not him. `movie=""`.
+- Distinct from `slavery-freedom`'s William Harvey Carney (54th Massachusetts, a state regiment). No
+  collision.
+
+### 7.7 STORY — Amos Humiston (individual-scale death; ordinary) — verified
+All from Mark H. Dunkelman (historian of the 154th New York), "Amos Humiston: Union Soldier Who Died
+at the Battle of Gettysburg," HistoryNet,
+https://historynet.com/amos-humiston-union-soldier-who-died-at-the-battle-of-gettysburg/ , unless marked.
+- **Born 26 April 1830, Owego, Tioga County, New York.** Apprenticed to a harness maker; sailed on the
+  whaler *Harrison*, December 1850 to May 1854. **Married Philinda Smith, 4 July 1854.** Children
+  Franklin (8), Alice (6), Frederick (4) at his death. Lived at Portville, New York (search summaries).
+- **Enlisted 26 July 1862; mustered in as corporal, Company C, 154th New York Infantry, 24 September
+  1862; sergeant 25 January 1863. Killed 1 July 1863 at Gettysburg.**
+- **Found dead near the corner of Stratton and York Streets in Gettysburg "clutching the only clue to
+  his identity: an ambrotype of his three small children."** (An ambrotype is an early photograph
+  made on a sheet of glass.) Buried as unknown.
+- **Dr. John Francis Bourns** got the picture and had hundreds of copies made. The *Philadelphia
+  Inquirer* ran the story on **19 October 1863** under the headline **"Whose Father Was He?"**
+  Philinda saw the picture and he was **identified in November 1863.**
+- Without the picture, "Humiston's tombstone in the Soldiers National Cemetery would have read
+  'Unknown'"; 979 soldiers in that cemetery were never identified. (Gettysburg Compiler, Gettysburg
+  College, https://gettysburgcompiler.org/2011/06/02/the-children-of-the-battlefield-the-picture-t/)
+- **The wound that killed him is not recorded in these sources. Do not describe one.**
+- After: James Gowdy Clark's song "The Children of the Battlefield"; the **National Orphans'
+  Homestead** opened in Gettysburg in **October 1866** with thirty orphans including his three
+  children. Its matron **Rosa J. Carmichael was convicted in 1876 of aggravated assault on an
+  orphan**; the home closed by the end of 1877 after a Grand Army of the Republic investigation.
+  (`education` or `home-family` might want this; it is parked here only.)
+- **Monument dedicated 1993** on North Stratton Street, "the only monument to an individual enlisted
+  man standing today on the battlefield of Gettysburg."
+- Movie: none. `movie=""`. Slug `amos-humiston` (unique).
+
+### 7.8 STORY — Ulysses S. Grant and Robert E. Lee (famous) — verified
+- **Grant:** born **27 April 1822, Point Pleasant, Ohio** (born Hiram Ulysses; name changed by a
+  clerical error at West Point); West Point 1843, 21st of 39; Mexican War captain, two citations for
+  gallantry; **resigned 1854** "to avoid dismissal," after heavy drinking at remote posts; **Fort
+  Donelson, February 1862**: "No terms except an unconditional and immediate surrender can be
+  accepted" (NPS, "Grant at Fort Donelson," https://www.nps.gov/articles/000/grant-at-fort-donelson.htm ;
+  search summary); Shiloh; **Vicksburg 4 July 1863 after 46 days**; **March 1864 lieutenant general
+  and general-in-chief**; **died 23 July 1885**, finishing his *Personal Memoirs* days before, dying
+  of cancer. (ABT, "Ulysses S. Grant," https://www.battlefields.org/learn/biographies/ulysses-s-grant)
+- **Lee:** born **19 January 1807, Stratford Hall, Virginia**; West Point 1829, **second in his
+  class**; Mexican War on Scott's staff, three brevets; **1859 put down John Brown's raid at Harpers
+  Ferry**; declined Lincoln's offer of command in April 1861; resigned 20 April 1861 after Virginia
+  seceded (NPS Arlington House, https://www.nps.gov/arho/learn/historyculture/lee-s-resignation.htm );
+  command of the Army of Northern Virginia **June 1862**; Antietam, Fredericksburg, Chancellorsville,
+  Gettysburg; **ordered Pickett's Charge, 3 July 1863**; surrendered **9 April 1865**; president of
+  Washington College; **died 12 October 1870, Lexington, Virginia.** (ABT, "Robert E. Lee,"
+  https://www.battlefields.org/learn/biographies/robert-e-lee)
+- **Lee as an enslaver** (one sentence belongs in his story; `slavery-freedom` leads): after his
+  father-in-law George Washington Parke Custis died in 1857, "Lee assumed command of 189 enslaved
+  people" on the Arlington, White House and Romancoke estates. **Wesley Norris**, who escaped in 1859
+  with his sister and a cousin and was caught, said in an 1866 account that they got fifty lashes
+  each (his sister twenty), laid on by county constable Dick Williams while Lee watched, and that
+  "Gen. Lee then ordered the overseer to thoroughly wash our backs with brine." Lee filed the deed
+  freeing them on **29 December 1862**, as Custis's will required within five years. (American Civil
+  War Museum, "Myths & Misunderstandings: Lee as a slaveholder,"
+  https://acwm.org/blog/myths-misunderstandings-lee-slaveholder/)
+  - **Brine**, plain words: very salty water; poured on whip cuts it causes intense pain.
+- **Movie:** *Grant* (History channel, 2020), three-part documentary series with dramatised scenes,
+  based on Ron Chernow's 2017 biography; premiered 25 May 2020. About Grant, not Lee.
+  (https://en.wikipedia.org/wiki/Grant_(miniseries) ; https://www.imdb.com/title/tt8690814/)
+
+### 7.9 The army in the West (`native-nations` leads on what happened to the nations)
+- **Buffalo Soldiers:** in 1866 Congress created six Black regiments, later consolidated into four:
+  the **9th and 10th Cavalry and the 24th and 25th Infantry** (the 38th and 41st became the 25th in
+  1869; the 39th and 40th the 24th, April 1869). (search summary, NMAAHC / Wikipedia.) The Army
+  stationed them "west of the Mississippi River." (National Museum of the U.S. Army,
+  https://www.thenmusa.org/articles/buffalo-soldiers-2/)
+  - **DISPUTE, Medals of Honor in the Indian Wars:** NMUSA says 17; NMAAHC (via search) 18; another
+    count 23. **Write "between 17 and 23, depending on the count."**
+- **STORY — Cathay Williams (fills the "(target) a Buffalo Soldier" slot) — verified.** Born into
+  slavery in Independence, Missouri. Freed by Union soldiers and taken as "contraband" by Col.
+  William Plummer Benton's 8th Indiana Infantry, where she worked as a laundress (and cook); present
+  at Pea Ridge and in the Shenandoah Valley. **Enlisted as "William Cathay" at St. Louis, November
+  1866 (15 November per several accounts), 38th U.S. Infantry**; papers gave her age as 22, "black
+  eyes, black hair, black complexion, is 5 feet 9 inches high." **Caught smallpox soon after
+  enlisting**, recovered, rejoined at Fort Riley, Kansas; then Fort Harker (cholera there); marched
+  to Forts Union, Cummings and Bayard in New Mexico, **about 1,000 miles on foot in two years.** In
+  1868 a post surgeon found she was a woman; **discharged with a surgeon's certificate of disability,
+  14 October 1868.** Her own account to the *St. Louis Daily Times* (published 1876): "I played
+  sick... The post surgeon found out I was a woman." **1891: applied for an invalid pension** after
+  eighteen months in hospital in Trinidad, Colorado, with toes missing; **the Pension Bureau denied
+  it**, although her discharge papers recorded illness. **Death date not established. Do not supply
+  one.** (National Endowment for the Humanities, *Humanities* magazine, Jan/Feb 2012, "Incognito in
+  the Infantry," https://www.neh.gov/humanities/2012/januaryfebruary/statement/incognito-in-the-infantry)
+  - Smallpox, plain words: a virus that covers the body in pus-filled sores and kills about one in
+    three people who catch it (ABT figure, §5.3).
+  - Movie: none. `movie=""`. Slug `cathay-williams` (unique).
+- **Little Bighorn, 25-26 June 1876:** the five companies under Custer's own command were all killed;
+  **268 US dead** in all, including scouts, and 55 badly wounded. (History.com, "How Many Were Killed
+  at the Battle of the Little Bighorn?," https://www.history.com/articles/battle-little-bighorn-deaths ;
+  journalism, via search summary.) Replaces the parked Britannica line.
+- **Wounded Knee, 29 December 1890.** 7th Cavalry under **Col. James W. Forsyth**; **four Hotchkiss
+  guns** (rapid-firing cannon) on a bluff over the camp. Soldiers were disarming the Lakota; a rifle
+  belonging to **Black Coyote**, a deaf man, went off: "By some accounts, he fired first. By others, a
+  soldier tried to grab his gun and it went off." **Between 250 and 300 Lakota killed, almost half of
+  them women and children. At least 25 soldiers died, "many likely fallen to friendly fire."**
+  (Smithsonian Magazine, 29 Dec 2024,
+  https://www.smithsonianmag.com/smart-news/on-this-day-in-1890-the-us-army-killed-nearly-300-lakota-people-in-the-wounded-knee-massacre-180985745/)
+  **20 soldiers of the 7th Cavalry received the Medal of Honor**; some citations name actions to
+  "dislodge Sioux Indians" hiding in a ravine. (Military Times, 26 Sep 2025,
+  https://www.militarytimes.com/news/pentagon-congress/2025/09/26/hegseth-says-wounded-knee-soldiers-will-keep-their-medals-of-honor/)
+  - **HAND-OFF to era 10 (T-235b):** Defense Secretary Lloyd Austin ordered a review of those medals in
+    2024 after a 2022 defense-bill recommendation; on 25-26 September 2025 Defense Secretary Pete
+    Hegseth announced the 20 would keep them. The Remove the Stain Act (introduced 2019, reintroduced
+    2021 and May 2025) would rescind them. (Military Times, same; congress.gov S.1915, 119th
+    Congress.) That event belongs to 2000-Today by the boundary rule.
+  - Hotchkiss gun, plain words: a small cannon on wheels that fired exploding shells one after another.
+
+### 7.10 1898 and the Philippines (`america-world` leads on empire and the territories)
+- **USS *Maine*** exploded in Havana harbor on **15 February 1898**; **266 of the 354 men aboard
+  died.** The 1898 Naval Court of Inquiry blamed a mine; Adm. Hyman Rickover's 1976 study concluded a
+  coal-bunker fire most likely set off a magazine. **The cause is still disputed.** (NHHC, "Report of
+  the Naval Court of Inquiry,"
+  https://www.history.navy.mil/research/publications/documentary-histories/united-states-navy-s/destruction-of-the-m/report-of-the-naval-0.html ;
+  USNI Naval History, Aug 1998, https://www.usni.org/magazines/naval-history-magazine/1998/august/stuff-bicentennial-debate ;
+  via search summary.)
+- **Spanish-American War official deaths (CRS RL32492 Table 1):** 306,760 serving; **2,446 deaths:
+  385 battle, 2,061 other**; 1,662 wounded. Hostilities ceased 13 August 1898.
+- **10th Cavalry** in Cuba: at Las Guasimas, 24 June 1898, and in the assault on San Juan and Kettle
+  Hills, **1 July 1898**, with about 20 percent casualties; five 10th Cavalry men got the Medal of
+  Honor for the Cuba campaign. (NMUSA, above.)
+- **Philippine-American War:** fighting began **4 February 1899**; Roosevelt declared it over on
+  **4 July 1902** (fighting went on in places). **Over 4,200 American and over 20,000 Filipino
+  combatants died; "as many as 200,000 Filipino civilians died from violence, famine, and disease."**
+  (U.S. Dept. of State, Office of the Historian, "The Philippine-American War, 1899-1902,"
+  https://history.state.gov/milestones/1899-1913/war)
+  - **HAND-OFF to era 8 (T-235b):** the "water cure" torture of Filipino prisoners by US soldiers,
+    described in 1902 Senate committee testimony ("placing the barrel of a rifle in the prisoner's
+    mouth and forcing him to swallow water until he could hold no more"), falls in 1900-1902.
+    Sources seen: TIME, https://time.com/3653711/torture-report-history-philippines/ ; Paul A.
+    Kramer, Asia-Pacific Journal, https://apjjf.org/paul-a-kramer/2685/article . Not verified here.

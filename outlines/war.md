@@ -251,7 +251,7 @@ On February 2, 1848, Mexican officials signed the Treaty of Guadalupe Hidalgo. U
 > **When and where:** Company K, 5th U.S. Infantry. Crossed the Rio Grande in the spring of 1846. Captured at Churubusco, near Mexico City, August 20, 1847.
 > **Movie:** *One Man's Hero* (1999), a feature film about him with Tom Berenger as Riley. It is a drama, not a documentary.
 
-Riley had trained West Point cadets to fire cannon. In the spring of 1846, before Congress declared war, he crossed the Rio Grande and joined the Mexican army. He organized other deserters into the San Patricio Battalion, named for Saint Patrick. Most were Irish and German Catholic immigrants. The National Park Service lists their reasons as anti-Catholic abuse and brutal discipline from American officers, objections to the war, and land that Mexico offered to foreigners. Some were escaped slaves and free Black men who saw Mexico, which had banned slavery, as freer than the United States.
+Riley had trained West Point cadets to fire cannon. In the spring of 1846, before Congress declared war, he crossed the Rio Grande and joined the Mexican army. He organized other deserters into the San Patricio Battalion, named for Saint Patrick. Most were Irish and German Catholic immigrants. The National Park Service lists their reasons as "anti-Catholic bigotry and brutal discipline" from American officers, objections to the war, and grants of land that Mexican officials offered to foreigners. Some were escaped slaves and free Black men who saw Mexico, which had banned slavery, as freer than the United States.
 
 The San Patricios fought at Monterrey, Buena Vista, Cerro Gordo and Churubusco. At Churubusco on August 20, 1847, US soldiers captured about 80 of them. Army officers tried 72 as deserters in two mass courts-martial, held 3 and 6 days after the capture. The men had no lawyers, and nobody wrote down what was said. Fifty were hanged. On September 13, 1847, Colonel William Harney hanged 30 of them within sight of Chapultepec Castle as the US flag went up over it. He left their bodies hanging on the gallows.
 
@@ -259,26 +259,96 @@ Riley had deserted before the war was declared, so the court could not sentence 
 <!-- hb-story:end slug="john-riley-san-patricios" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="war" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="war" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-The Civil War kills more Americans than any other war, and the army that wins it is then sent west.
+The Civil War, from 1861 to 1865, killed more American soldiers than any other war the country has fought. The old count is about 620,000 dead. In 2011 the historian J. David Hacker used census records to estimate about 750,000, and he put the real number anywhere from 650,000 to 850,000. Disease killed more of them than bullets did. The American Battlefield Trust counts five deaths from disease for every three in battle.
+
+After 1865 US soldiers fought the Plains nations in the West until 1890. In 1898 American soldiers and sailors fought Spain in Cuba and the Philippines. In February 1899 they began a new war in the Philippines against the Filipino army of Emilio Aguinaldo.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the Civil War, the Indian Wars, and 1898" -->
-Secession and the Civil War, 1861–65 — the armies, the generals, the technology, the field hospitals, and the roughly 620,000–750,000 dead (the range is disputed; state it); about 180,000 Black soldiers in the U.S. Colored Troops (**`slavery-freedom` leads on what that meant**); the Indian Wars and the reservation campaigns; the Spanish-American War, 1898, and the Philippine-American War that followed.
+<!-- hb-zoom level="span" label="The Civil War battles, 1861 to 1865" -->
+Confederate gunners opened fire on Fort Sumter, in the harbor at Charleston, South Carolina, at 4:30 in the morning on April 12, 1861. Over 34 hours they fired more than 4,000 rounds, and Major Robert Anderson surrendered the fort the next afternoon.
+
+A casualty is any soldier an army loses: killed, wounded, captured or missing. At Antietam Creek in Maryland on September 17, 1862, the two armies had about 23,000 casualties in twelve hours of fighting. It was the bloodiest single day of the Civil War. At Gettysburg, Pennsylvania, from July 1 to 3, 1863, the Union army under George Meade and the Confederate army under Robert E. Lee had about 51,000 casualties between them. That is more American casualties than in the Revolution and the War of 1812 put together. On the last day Lee sent about 12,500 men across open fields against the Union center, the attack called Pickett's Charge, and close to 60 percent of them were killed, wounded or captured. On July 4, 1863, about 29,000 Confederate soldiers at Vicksburg, Mississippi, surrendered to Ulysses S. Grant after a 46-day siege.
+
+Union records list 140,414 Union soldiers killed in battle and 224,097 dead of other causes. Nobody kept complete Confederate records. An army report finished in 1866 counted 133,821 Confederate dead from the returns it had, and the Defense Department notes that those returns were incomplete.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="grant-lee" name="Ulysses S. Grant and Robert E. Lee" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Wounds, amputation and disease" -->
+Both armies fired the minié ball, a soft lead bullet shaped like a cone. It often flattened when it hit. It splintered bone, tore muscle, and drove dirt and bits of cloth into the wound. A surgeon could not mend an arm or leg smashed that way, so he cut it off. This operation is called amputation. Three of every four operations in the war were amputations, close to 60,000 in all.
+
+The surgeon first put the soldier to sleep with chloroform or ether. He tied a tight band called a tourniquet around the arm or leg to slow the bleeding. He cut through the skin with a scalpel and through the muscle with a long knife, then sawed through the bone. He tied off the blood vessels and bandaged the stump. Soldiers who had the operation within two days had a better chance of living. Later than that, more of them died of infection and blood loss.
+
+Measles spread through the new camps in 1861, and in August Lee wrote that "the soldiers everywhere are sick." Army doctors recorded 79,462 cases of typhoid in the Union army alone.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Andersonville and the prison camps" -->
+Confederate officers opened a prison camp at Andersonville, Georgia, early in 1864. It was an open stockade of 26.5 acres, built for 10,000 men, and in August 1864 it held more than 33,000. One stream was the only water for most of them. About 19 feet inside the wall ran a line called the deadline, and guards had orders to shoot any prisoner who crossed it. In 14 months more than 45,000 Union soldiers were held there, and almost 13,000 of them died of disease, hunger, filth, crowding, and exposure to heat and cold.
+
+A military court found the camp's commander, Captain Henry Wirz, guilty of war crimes, and army officers hanged him in Washington on November 10, 1865. He was the only man executed for war crimes in the Civil War. Between 26,000 and 31,000 Confederate soldiers died in Union prison camps.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="amos-humiston" name="Amos Humiston" movie="" kind="ordinary" status="verified" -->
+### Amos Humiston
+> **Who:** A sergeant in the 154th New York Infantry, killed at Gettysburg, who was identified only because of a photograph of his three children found in his hand.
+> **When and where:** Born Owego, New York, April 26, 1830. Killed at Gettysburg, Pennsylvania, July 1, 1863. Identified in November 1863.
+
+Humiston had been a harness maker's apprentice and then a sailor on a whaling ship. He married Philinda Smith in 1854, and they had three children, Franklin, Alice and Frederick. He enlisted in July 1862 and was a sergeant by January 1863.
+
+He was killed on the first day at Gettysburg, and the records do not say how. His body was found near the corner of Stratton and York Streets in the town. He had nothing on him to show who he was except a small photograph on glass, called an ambrotype, of three young children. He was buried as an unknown soldier.
+
+A doctor named John Francis Bourns had hundreds of copies of the photograph made. On October 19, 1863, the *Philadelphia Inquirer* printed the story under the headline "Whose Father Was He?" In November Philinda Humiston saw a copy and knew her children. Without the photograph his grave in the Soldiers' National Cemetery would read "Unknown," like 979 others there. His three children were among the first thirty to live at an orphans' home that opened in Gettysburg in 1866. A monument to him stands on North Stratton Street. It was put up in 1993, and it is the only monument to a single enlisted soldier, meaning one who was not an officer, on the battlefield.
+<!-- hb-story:end slug="amos-humiston" -->
+<!-- hb-story:start slug="grant-lee" name="Ulysses S. Grant and Robert E. Lee" movie="Grant (History, 2020)" kind="famous" status="verified" -->
 ### Ulysses S. Grant and Robert E. Lee
-The commanding generals of the Civil War.
+> **Who:** The two commanding generals. Lee led the Confederate Army of Northern Virginia from June 1862. Grant led all the Union armies from March 1864.
+> **When and where:** Lee born Stratford Hall, Virginia, January 19, 1807, died Lexington, Virginia, October 12, 1870. Grant born Point Pleasant, Ohio, April 27, 1822, died July 23, 1885. They met at Appomattox Court House, Virginia, on April 9, 1865.
+> **Movie:** *Grant* (History channel, 2020), a three-part documentary about Grant with acted scenes.
+
+Both men went to West Point and fought in the Mexican War. Lee finished second in the class of 1829. Grant finished 21st of 39 in 1843, and he resigned from the army in 1854 to avoid being dismissed after heavy drinking at lonely western posts.
+
+In 1859 Lee commanded the soldiers who put down John Brown's raid at Harpers Ferry. From 1857 Lee also controlled 189 enslaved people on his dead father-in-law's estates. Three of them ran away in 1859. Men whom the sources used here do not name caught them and brought them back. One of them, Wesley Norris, said later that a county constable whipped the two men fifty times each and Norris's sister twenty times while Lee watched. Norris said Lee then told the overseer to wash their backs with brine, which is very salty water poured into the cuts. Lee signed the paper freeing them on December 29, 1862, because his father-in-law's will required it. Lee resigned from the US Army on April 20, 1861, after Virginia left the Union. He ordered Pickett's Charge at Gettysburg.
+
+Grant took Fort Donelson in February 1862 after telling its commander he would accept "no terms except an unconditional and immediate surrender." He took Vicksburg on July 4, 1863, and in March 1864 President Lincoln put him in command of every Union army. On April 9, 1865, Lee surrendered to Grant in Wilmer McLean's parlor at Appomattox Court House. Grant's terms let Lee's soldiers go home once they signed a promise not to fight the United States again, and the officers kept their pistols, swords and horses. About 28,000 Confederate soldiers signed. Grant finished writing his memoirs a few days before he died of cancer in 1885.
 <!-- hb-story:end slug="grant-lee" -->
-<!-- hb-story:start slug="usct-soldier-war" name="(target) a U.S. Colored Troops soldier" movie="" kind="ordinary" status="target" -->
-### (target) a U.S. Colored Troops soldier
-One of about 180,000 Black soldiers in Union uniform (shared with `slavery-freedom` — check angles do not collide).
-<!-- hb-story:end slug="usct-soldier-war" -->
-<!-- hb-story:start slug="buffalo-soldier" name="(target) a Buffalo Soldier" movie="" kind="ordinary" status="target" -->
-### (target) a Buffalo Soldier
-Black cavalryman sent to fight in the West.
-<!-- hb-story:end slug="buffalo-soldier" -->
+<!-- hb-zoom level="span" label="Black soldiers and Fort Pillow" -->
+Black men who joined the Union army served in regiments called the U.S. Colored Troops. `slavery-freedom` gives their numbers and what their service meant for freedom.
+
+On April 12, 1864, the Confederate general Nathan Bedford Forrest attacked Fort Pillow in Tennessee with about 1,500 men. The fort held 262 Black artillery soldiers and 295 white Tennessee cavalrymen. Forrest's men took the fort and kept shooting soldiers who had surrendered. A witness told congressional investigators, "They killed all the men after they surrendered, until orders were given to stop." Private George Shaw, a Black soldier, testified that a Confederate shot him after he surrendered, told him "You are fighting against your master," and threw him into the river. Shaw lived. He saw three teenage boys who had escaped slavery shot in the forehead while they begged for their lives.
+
+Of the Black soldiers, 182 died that day or later of their wounds, about 70 percent of them. About 20 percent of the white soldiers died. Other counts put the Black dead near 300. After Fort Pillow, Black soldiers went into battle shouting "Remember Fort Pillow."
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="christian-fleetwood" name="Christian Fleetwood" movie="" kind="ordinary" status="verified" -->
+### Christian Fleetwood
+> **Who:** A free-born Black man from Baltimore who carried his regiment's flag through the attack at New Market Heights and received the Medal of Honor.
+> **When and where:** Born Baltimore, Maryland, July 21, 1840. Enlisted in the 4th U.S. Colored Infantry, August 1863. New Market Heights, outside Richmond, Virginia, September 29, 1864. Died September 28, 1914.
+
+Fleetwood's parents were free, and he graduated from the Ashmun Institute in Oxford, Pennsylvania, in 1860. He helped start the *Lyceum Observer*, one of the first Black newspapers in the South. When he enlisted in August 1863, his officers made him sergeant major, the regiment's senior sergeant, because he was so well educated.
+
+On September 29, 1864, his regiment charged the Confederate earthworks at New Market Heights. Two soldiers carrying the flag were shot down. Fleetwood picked it up and carried it forward under fire. In his diary that day he wrote that the regiment "got used up" and that he "saved colors." He was one of 14 soldiers of the Colored Troops who received the Medal of Honor for that battle. Every officer in his regiment asked Secretary of War Edwin Stanton to make Fleetwood an officer, and Stanton refused. After the war Fleetwood worked as a clerk in the War Department in Washington and commanded a battalion of the DC National Guard as a major.
+<!-- hb-story:end slug="christian-fleetwood" -->
+<!-- hb-zoom level="span" label="The army in the West, 1866 to 1890" -->
+In 1866 Congress created six regiments of Black soldiers, later merged into four: the 9th and 10th Cavalry and the 24th and 25th Infantry. They became known as the Buffalo Soldiers, and army commanders posted them west of the Mississippi. Counts of how many received the Medal of Honor in the wars against the Plains nations run from 17 to 23.
+
+On June 25 and 26, 1876, Lakota and Cheyenne fighters killed Lieutenant Colonel George Armstrong Custer and every man in the five companies under his own command, beside the Little Bighorn River in Montana. The 7th Cavalry lost 268 dead in the two days.
+
+On December 29, 1890, soldiers of the 7th Cavalry under Colonel James Forsyth surrounded a Lakota camp at Wounded Knee Creek in South Dakota and began taking away the Lakota's guns. They had four Hotchkiss guns, small cannon that fired exploding shells one after another, set on a bluff above the camp. A rifle belonging to Black Coyote, a deaf man, went off. Some accounts say he fired it, and others say it went off when a soldier grabbed it. Soldiers of the 7th Cavalry then killed between 250 and 300 Lakota, and almost half of the dead were women and children. At least 25 soldiers died, and Smithsonian magazine reports that many of them were likely hit by other soldiers' bullets. Twenty soldiers of the 7th Cavalry received the Medal of Honor for that day. `native-nations` tells the Lakota side.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="cathay-williams" name="Cathay Williams" movie="" kind="ordinary" status="verified" -->
+### Cathay Williams
+> **Who:** A woman born into slavery who enlisted as William Cathay and served two years with a Black infantry regiment in the West.
+> **When and where:** Born Independence, Missouri. Enlisted at St. Louis, November 1866. 38th U.S. Infantry, in Kansas and New Mexico. Discharged October 14, 1868. Applied for a pension in 1891 and was refused.
+
+Williams was born enslaved. During the Civil War, Union soldiers of the 8th Indiana Infantry freed her and put her to work washing clothes for the regiment. She followed it to the battle of Pea Ridge in Arkansas and to Virginia's Shenandoah Valley. In November 1866 she enlisted at St. Louis as William Cathay. Her papers gave her age as 22 and her height as 5 feet 9 inches. She was sent to the 38th Infantry, one of the new Black regiments.
+
+She caught smallpox soon after enlisting. Smallpox is a virus that covers the body in sores full of pus, and it killed about one in three people who caught it. She recovered, and over two years she marched about a thousand miles with her company, from Fort Riley in Kansas to Fort Bayard in New Mexico. In 1868 a post surgeon found out she was a woman. She was discharged on October 14 with a certificate of disability, a paper saying she was not fit to serve. She told a St. Louis newspaper in 1876, "I played sick... The post surgeon found out I was a woman."
+
+In 1891 she asked for a pension as a disabled veteran. She had spent eighteen months in a hospital in Trinidad, Colorado, and had lost some of her toes. Officials at the Pension Bureau turned her down. The date of her death is not known.
+<!-- hb-story:end slug="cathay-williams" -->
+<!-- hb-zoom level="span" label="1898, Cuba and the Philippines" -->
+On February 15, 1898, the battleship *Maine* blew up in the harbor at Havana, Cuba, and 266 of the 354 men aboard died. A navy court of inquiry blamed a mine in March 1898. In 1976 Admiral Hyman Rickover's study found that a fire in a coal bin most likely set off the shells stored next to it. The cause is still argued over.
+
+The Black soldiers of the 10th Cavalry fought at Las Guasimas, Cuba, on June 24, 1898, and in the attack on San Juan and Kettle Hills on July 1. About one in five of them was killed or wounded in that attack. The fighting with Spain stopped on August 13, 1898. The Defense Department counts 385 Americans killed in battle in that war and 2,061 dead of other causes.
+
+On February 4, 1899, fighting broke out between US soldiers and Aguinaldo's Filipino army. US soldiers captured Aguinaldo in 1901, and President Theodore Roosevelt declared the war over on July 4, 1902. The State Department's historians count more than 4,200 American soldiers and more than 20,000 Filipino soldiers dead. As many as 200,000 Filipino civilians died of violence, hunger and disease. `america-world` tells how the United States came to rule the Philippines.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
 <!-- hb-time:start id="1900-1950" order="08" chapter="war" label="1900 to 1950" state="full" progress="seed" -->
