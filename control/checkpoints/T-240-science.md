@@ -28,6 +28,9 @@ NEXT:   bank check units.
 - Eugenics as science: Davenport, Laughlin, Harriman money, ERO Cold Spring Harbor 1910-1939 (era 8). Sterilizations stay rights-movements; IQ tests stay education; immigration testimony stays immigration.
 - Human radiation experiments: 18 plutonium injections 1945-47 with five named patients, program leaders, Trinity fallout and Warren's memo (era 8); Welsome, ACHRE, Clinton apology, 1996 payments (era 9); RECA 2025 (era 10).
 - Henrietta Lacks / HeLa: cells taken without consent 1951, Jones and Gey named (era 9); NIH-Lacks agreement Aug 7 2013, Thermo Fisher settlement Aug 1 2023 (era 10). Placed in science; health may share.
+- Banneker/Jefferson: Query XIV race claim, Jefferson's 1791 reply and 1809 Barlow letter, abolition societies + McHenry endorsement (outline claim), moose 1787 with correction (antlers were another animal's) (era 5).
+- Agassiz daguerreotypes: Zealy, seven named people, Lanier suit 2019, settlement May 28 2025, IAAM display Mar 11 2026 (era 7; corrects undated 'settled in the 2020s').
+- Watson: 2007 and 2019 statements quoted, CSHL actions, death Nov 2025 (era 9).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
