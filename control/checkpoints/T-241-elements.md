@@ -12,14 +12,14 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241a dispatched.
-NEXT:   bank check.
+NOW:    T-241a landed (research check PASS).
+NEXT:   T-241b: write part 1 (eras 1-5)
 
 ## Units
 
 | # | unit | state | landed |
 |---|------|-------|--------|
-| 1 | pre-write bank check (bank only) | in progress | |
+| 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | todo | |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
@@ -34,9 +34,17 @@ NEXT:   bank check.
 - Era 6 land taken: Georgia gold on Cherokee land (4,000 miners 1830; Dec 24 1831 act; 1832 Gold Lottery, Georgia Archives); 1842 La Pointe 'Copper Treaty' (Robert Stuart; KBIC treaty text).
 - Era 7: Black Hills gold (Custer 1874, Grant 1875, 1877 act, US v. Sioux Nation 1980, $106M refused, ~$2B in 2022); California gold-mining mercury (USGS); Danbury hatters' mercury begins.
 - Era 8: Danbury (Hamilton 1922, 43 of 100; Dec 1 1941 ban, Gov. Hurley); Anaconda arsenic (Bliss 1909, Superfund 1983). Placed elsewhere: Speculator Mine 1917, gold-rush killings, weapons, mining money.
+- Firsts and actors: Keweenaw 'nation's first mineral rush' conflicts with the bank's own 1829 Georgia rush (correction note, safe wording given; '96 percent' unconfirmed); Washington Monument cap actors (Col. Thomas Lincoln Casey, Frishmuth); Clarice Phelps corrected (ORNL: joined 2009, Bk-249 work from 2010 was for the CONFIRMATION of 117; 'first' is ORNL's claim).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
+- era 3 zoom 'The first American industry that made a metal was iron': no source in the bank says this; write what the sources say (Falling Creek the first try, Saugus the first integrated ironworks in North America, NPS).
+- era 6 'the nation's first mineral rush' and '96 percent of U.S. copper by 1849': see bank correction note; do not use as a national first.
+- era 8 Eben Byers 'his death pushed the government to act': wrong order; FTC order Dec 19 1931 came before his 1932 death.
+- era 10 Phelps 'tennessine target work 2008-09' and 'first Black woman to help discover': see bank correction; use ORNL's wording.
+- era 8 Radium Girls 'the radium settled in their bones like calcium' is a simile; bank now gives the plain mechanism.
+- All other outline 'firsts' checked against the bank and sourced: coppersmiths ('among the first'), Saugus, Reed gold, Frishmuth casting, technetium, neptunium, mendelevium atom-by-atom, seaborgium, oganesson, nihonium, promethium-in-Tennessee, Hoffman.
 
 ## BLOCKING GAPS
 
 ## Log
+- 2026-09-26 T-241a: 14 PATCH blocks appended across eras 3-10 (radium, uranium/Navajo, lead x3, mercury, arsenic, land taken for gold/copper/Black Hills, Saugus Scots, enslaved ironworkers, firsts). Sources: PMC, NIST, EPA, DOJ, CDC/NIOSH, USGS, NPS, Georgia Archives, KBIC, SHI, AJPH, NPR Illinois/WNIJ. Left out: Speculator Mine 1917, gold-rush killings (placed elsewhere). Check: PASS elements / research (bank 16639w).
