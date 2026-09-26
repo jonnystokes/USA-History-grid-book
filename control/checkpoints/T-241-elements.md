@@ -19,13 +19,14 @@ NEXT:   bank check.
 
 | # | unit | state | landed |
 |---|------|-------|--------|
-| 1 | pre-write bank check (bank only) | todo | |
+| 1 | pre-write bank check (bank only) | in progress | |
 | 2 | part1 eras 1-5 | todo | |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
+- Era 8 radium: USRC/Radium Dial officials (von Sochocky, Roeder, Barker, Kelly), dial-painter counts (250 / 3,000+ / ~4,000), named dead (Maggia, Leman, Maillefer), settlement terms confirmed (NIST), Donohue dates pinned (won Apr 5 1938, died Jul 27 1938, appeals Oct 1938), Byers/FTC actors (Bailey, Dec 19 1931 order). Closes both parked AUDIT ITEM claims. Corrects 'his death pushed the government to act' (the FTC order came first).
 
 ## Outline claims NOT in the bank (writers, per DECISIONS #13)
 
