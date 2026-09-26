@@ -17,14 +17,14 @@ STATE AT START (2026-09-26): eras 1-4 progress="researched"; eras 5-10 progress=
 RULINGS THAT BIND THIS CHAPTER: hard-subjects-policy.md §6, war row: "Go to individual scale:
         the single soldier's wound and death, not only unit-and-number."
 
-NOW:    T-235a dispatched. Unit 1 (era 1750-1800) not started.
+NOW:    T-235a working unit 1 (era 1750-1800). Plan: FIW, Revolution, Northwest war; stories Washington, Joseph Plumb Martin, Deborah Sampson.
 NEXT:   era 1750-1800.
 
 ## Units
 
 | # | unit | state | landed (commit / note) |
 |---|------|-------|------------------------|
-| 1 | era 05 1750-1800 | todo | |
+| 1 | era 05 1750-1800 | working | |
 | 2 | era 06 1800-1850 | todo | |
 | 3 | era 07 1850-1900 | todo | |
 | 4 | era 08 1900-1950 | todo | |
