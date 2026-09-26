@@ -26,7 +26,7 @@ NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose 
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
 | 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | landed | 2026-09-26 |
-| 4 | part3 eras 8-10 | in progress (T-242d) | |
+| 4 | part3 eras 8-10 | landed | 2026-09-26 |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
 
 ## Gaps found and filled (unit 1)
@@ -59,7 +59,19 @@ NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose 
 - (T-242c2) Era 07 Sierra Club "citizens organized to defend land in courts and Congress" and "the first conservation club with lawyers": not in the bank. Marsh's book "helped produce" the 1891 act: the bank says only "influenced".
 - (T-242c2) Era 07 Mayer "the southern Plains": not in the bank (prose says "the Plains"). "The invention of protection as public policy" and "first forest reserves": framing only.
 
+- (T-242d) Era 08 TR story: "slipped his handlers", "a hunter who watched species vanishing", "national inheritance", "ahead of Congress's wishes". Pinchot: "cut, graze, and dam", "American land policy has argued their argument ever since". Southworth: "a strange bird eating corn", "nobody in the family recognized it until a neighbor did". Henderson: "fields drifted like snow, wheat dead, neighbors leaving one by one", "kitchen table". Leopold: "changing his mind about predators". CCC "terraced eroding farmland" (bank: erosion work). Not in the bank.
+- (T-242d) Era 09: "ordinary people, more than experts, forced the building" and "nearly its whole environmental legal system" (framing). Carson: "a spring without birdsong ... the price of convenience", "much of the coming decade's law trace to her book". Santa Barbara "well blowout" (bank: oil spill). Love Canal "hundreds of homes" (bank: about 100). Gibbs: "went door to door with a health survey", "no political experience", "out-organized the state". Warren County "returns, with a victory, in the last era" (framing). What NEPA, the Clean Air Act and the Clean Water Act require: not in the bank, so the prose gives names and dates only.
+- (T-242d) Era 10: "the river is not refilling", "Plastic is now weather", "extinction stopped being the automatic ending", "Protection ... is a decision each government can remake", Robbins "taught back to the people who banned it" and "baskets that carry Yurok babies": not in the bank or framing. Bears Ears "first-of-its-kind" co-management: in the bank with no source, left out. Wilderness Act of 1964: not in the bank, not used. Flint: not used.
+
 ## BLOCKING GAPS
+- (T-242d) Era 08, span "Roosevelt's acres": the bank does not say who lived on or hunted the ~230M acres Roosevelt protected (national forests, Pelican Island, Devils Tower), or what happened to them. Prose names no people there.
+- (T-242d) Era 08, span "Glacier and the Blackfeet": the NPCA says the Blackfeet's reserved rights "essentially vanished" after 1910, but the bank does not say who stopped them hunting, fishing or cutting wood, or how. Also who was responsible for the rotten supplies of 1883-84 (the agent "John Young" is marker-via-search only, not used).
+- (T-242d) Era 08, Aldo Leopold story: the bank does not say whose land the Gila Wilderness (1924) was, who was kept out, or what the designation required.
+- (T-242d) Era 09, span "Yosemite's last village": the bank does not say who moved families from the old village to Wahhoga (1933), and names no official who ordered the 1969 eviction. How the cabins were destroyed is disputed (Tucker: Park Service burned them. Secondary: fire-training burn. NPS: "razed"). Prose states all three.
+- (T-242d) Era 09, span "The river that burned": the bank does not say who put the oil and trash in the Cuyahoga, or who caused the January 1969 Santa Barbara spill.
+- (T-242d) Era 09, span "Love Canal": the bank does not say who built the 99th Street School and ~100 homes on the canal, or which Hooker officials ordered the dumping. Prose names the company only ("workers for Hooker Chemical").
+- (T-242d) Era 10, span "Land given back": the bank says the 18,800-acre Bison Range was "taken" from the Flathead Reservation in 1908, but not by whom or how. Prose uses a passive.
+- (T-242d) Era 10, span "Comebacks": the bison (~420,000 / ~20,500) and wolf (~500 / 1,600+) counts carry no year in the bank. The 2000-today rule needs a year. Prose says "recent counts".
 - (T-242b) Era 02, span "Forest over lost farms": the bank (Koch et al. 2019) gives "epidemics, war, and famine" after 1492 but not who carried the diseases or fought the wars. Prose states the deaths and the study's figures and names no actor.
 - (T-242b) Era 04, span "Worn-out tobacco fields": the bank does not say whose land the planters cleared as they moved up the Rappahannock and Potomac, or who did the clearing (planters only). Prose says "new ground" and names no nation.
 - (T-242c2) Era 07, span "Yosemite and the Ahwahneechee": the NPS says To Tu Ya saw "the murder of her uncle" in the 1851 raid but not who killed him or how. The prose says she saw battalion men destroy her home and saw her uncle murdered during the raid.
@@ -78,3 +90,4 @@ NEXT:   T-242d: finish part 3 (eras 08, 09, 10), then self-review and the prose 
 - 2026-09-26 T-242d part3 1900-1950 written (stories theodore-roosevelt-land-environment, gifford-pinchot, press-clay-southworth, caroline-henderson, aldo-leopold): file ~2,800 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242d part3 1950-2000 written (stories rachel-carson, lois-gibbs): file 5351 words, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-242d part3 2000-today written (stories margo-robbins, margie-richard): file 8106 words, validator 0 errors, --punct emdash=0 semicolon=0. Self-review next.
+- 2026-09-26 T-242d self-review of part 3 (Version 2 + amendment §5). Repairs: personified agencies, documents and companies (Forest Service, Ad Council, SCS, NPS, EPA, UCC report, AP, Moab Sun News, SUWA, the proclamation, a court case 'waiting'), repeated 'From X to Y' span openings, a triad-free era 09 summary, an unsourced 'mostly in Black neighborhoods' sentence removed. Part 3 has 8190 words, validator 0 errors, --punct emdash=0 semicolon=0. Prose check PASS (10/10 eras, 15 stories, 15,623 words). Unit 4 landed.
