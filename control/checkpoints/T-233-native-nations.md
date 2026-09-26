@@ -12,8 +12,8 @@ FILES:  manuscript/native-nations/part1-before-1800.md · part2-1800s.md · part
         (read-only sources: outlines/native-nations.md · research/research-native-nations.md)
 PLAN:   one agent per part file. T-233a = part 1, T-233b = part 2, T-233c = part 3.
 
-NOW:    T-233b working on unit 6 (part 2, era 1800-1850). Part 1 landed (T-233a).
-NEXT:   part 2, era 1800-1850.
+NOW:    T-233b: unit 6 landed. Working on unit 7 (part 2, era 1850-1900).
+NEXT:   part 2, era 1850-1900.
 
 ## Baseline before revision (measured 2026-09-26)
 
@@ -34,8 +34,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 | 3 | part1 era 1600s | landed | commit T-233a 1600s |
 | 4 | part1 era 1700-1750 | landed | commit T-233a 1700-1750 |
 | 5 | part1 era 1750-1800 | landed | commit T-233a 1750-1800 |
-| 6 | part2 era 1800-1850 | working | T-233b |
-| 7 | part2 era 1850-1900 | todo | |
+| 6 | part2 era 1800-1850 | landed | commit T-233b 1800-1850 |
+| 7 | part2 era 1850-1900 | working | T-233b |
 | 8 | part3 era 1900-1950 | todo | |
 | 9 | part3 era 1950-2000 | todo | |
 | 10 | part3 era 2000-today | todo | |
@@ -53,6 +53,7 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 1700-1750: Haudenosaunee neutrality "used for half a century to bargain with both sides" (bank §4 Play-off). "Slave raids" as a cause of the Tuscarora War, raiders unnamed (bank §4).
 - 1750-1800: Washington's Haudenosaunee name Conotocaurius (bank §5 Revolution); the Seneca address dated 1790 (bank §5); "ratified" defined as formally approved.
 - Canasatego named as the 1744 speaker (already in the file's 1700-1750 era; bank §4) -> Great Law span.
+- 1800-1850 (T-233b): Tenskwatawa was known as "the Prophet", hence Prophetstown (bank §6 Tecumseh); the 1811 fight named as the Battle of Tippecanoe and the burning dated November 8 (bank §6); Library of Congress lists Sequoyah's birth as 1770 with a question mark (bank §6 Cherokee renaissance); the Seminole war named as the Second Seminole War (bank §6 Seminole).
 
 ## Decisions and known gaps
 
@@ -68,6 +69,8 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - Whole-file self-review (V2 Self-Review + amendment §5) done on part 1: hard words defined at first use (friar, convent, treaty, coalition, delegates, diplomats, refugees, minutes, legion, banished); era openings varied so the five eras no longer all open on a date phrase; marker lines, record keys and hb-note verified byte-identical to the pre-revision file. File words 4,962 -> 5,750 (whole file incl. markers).
 - NOT FIXED, for the director: bank Acoma §1 records the Pueblos' account that Zaldivar's soldiers assaulted (per the Rio Grande Sun, raped) an Acoma woman. The bank says the director decides how the book states it. The prose still gives only the demand for food. Park in AUDIT-QUEUE.
 - DEFECT FIXED (self-contradiction): Cahokia was said to be lived in "to about 1400" and its people "gone by about 1350". Bank §1 gives both (occupied ~700-1400, dispersed by ~1350). Prose now says the people had scattered by about 1350 and nobody lived there by about 1400.
+- T-233b DEFECT FIXED (suspense + false framing): the 1800-1850 era zoom withheld the law's name until its last paragraph ("the United States answered both of them with the same law") and framed the Removal Act as the answer to Tecumseh's confederacy, though the file's own span shows that confederacy ended in war in 1811-1813. Zoom now states up front that both ways failed and gives each outcome.
+- T-233b NOTE (not changed): the Removal span says Cherokee leaders took their fight with Georgia to the courts, then cites Worcester v. Georgia. The bank does not name the parties to Worcester. The prose no longer implies the Cherokee Nation was the party in that case, but a successor must not add the party from memory.
 
 ## Log
 
@@ -78,3 +81,4 @@ A large drop in words after revision is a warning sign of lost facts. The direct
 - 2026-09-26 | unit 4 1700-1750 | full v2 revision of era zoom, 4 spans, Canasatego story | 0 errors | file emdash=6 semicolon=1 (era 1700-1750 has 0)
 - 2026-09-26 | unit 5 1750-1800 | full v2 revision of era zoom, 4 spans, Little Turtle story | 0 errors | file emdash=0 semicolon=0
 - 2026-09-26 | part 1 self-review | definitions, era-opening variety, institution-subject pass | 0 errors | file emdash=0 semicolon=0
+- 2026-09-26 | unit 6 1800-1850 (T-233b) | full v2 revision of era zoom, 4 spans, Tecumseh, Sequoyah, Neugin, Osceola stories | 0 errors | file emdash=21 semicolon=11 (era 1800-1850 has 0)
