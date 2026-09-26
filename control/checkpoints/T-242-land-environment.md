@@ -15,7 +15,7 @@ SUBJECT NOTES for the bank check: the chapter's through-line is "a managed conti
         and environmental racism. PERISHABLE: Bears Ears (the July 2026 reduction and any
         litigation since). Re-verify it as current to September 2026.
 
-NOW:    T-242a landed (bank check done, research check PASS).
+NOW:    T-242b writing part 1, era 1500s.
 NEXT:   T-242b: write part 1 (eras 1-5)
 
 ## Units
@@ -23,7 +23,7 @@ NEXT:   T-242b: write part 1 (eras 1-5)
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | todo | |
+| 2 | part1 eras 1-5 | in-flight | |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
@@ -50,3 +50,4 @@ NEXT:   T-242b: write part 1 (eras 1-5)
 ## BLOCKING GAPS
 
 ## Log
+- 2026-09-26 T-242b part1 before-1500 written: ~700 words file total, validator 0 errors, --punct emdash=0 semicolon=0.
