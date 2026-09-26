@@ -12,15 +12,15 @@ SUBJECT NOTES for the bank check: elements' hard subjects are the people harmed 
         for mines. Weapons use belongs to `war` and mining money to `economy`.
         The chapter's own rule: "No false firsts."
 
-NOW:    T-241b writing part1, era 1750-1800.
-NEXT:   T-241b: write part 1 (eras 1-5)
+NOW:    T-241b landed (part1 eras 1-5 written, validator clean, --punct 0/0).
+NEXT:   T-241c: write part 2 (eras 6-7)
 
 ## Units
 
 | # | unit | state | landed |
 |---|------|-------|--------|
 | 1 | pre-write bank check (bank only) | landed | 2026-09-26 |
-| 2 | part1 eras 1-5 | in progress | |
+| 2 | part1 eras 1-5 | landed | 2026-09-26 |
 | 3 | part2 eras 6-7 | todo | |
 | 4 | part3 eras 8-10 | todo | |
 | 5 | close BLOCKING GAPS (bank + prose) | todo | |
@@ -42,12 +42,17 @@ NEXT:   T-241b: write part 1 (eras 1-5)
 - era 8 Eben Byers 'his death pushed the government to act': wrong order; FTC order Dec 19 1931 came before his 1932 death.
 - era 10 Phelps 'tennessine target work 2008-09' and 'first Black woman to help discover': see bank correction; use ORNL's wording.
 - era 8 Radium Girls 'the radium settled in their bones like calcium' is a simile; bank now gives the plain mechanism.
+- (T-241b) era 1600s zoom 'The first American industry that made a metal was iron' left out as instructed. Era 1500s 'Europe was still in the age of alchemy' kept only as the bank words it. Era 1750-1800 outline gives Lavoisier no first name and the bank gives none, so none written.
 - All other outline 'firsts' checked against the bank and sourced: coppersmiths ('among the first'), Saugus, Reed gold, Frishmuth casting, technetium, neptunium, mendelevium atom-by-atom, seaborgium, oganesson, nihonium, promethium-in-Tennessee, Hoffman.
 
 ## BLOCKING GAPS
+- (T-241b) era 1600s, Falling Creek span: the bank gives the 1622 Powhatan attack and the 27 killed but no cause (why Opechancanough directed the attacks, whose land the works stood on). Prose states the attack without a cause.
+- (T-241b) era 1600s, Scottish prisoners span: the bank does not say who captured the Scots at Dunbar and Worcester, who shipped them, or who held their indentures at Saugus. Prose says "their captors".
+- (T-241b) eras 1700-1750 and 1750-1800, enslaved ironworkers spans: the bank names no owner of the Baltimore Iron Works, Principio or Catoctin, and records nothing of the work done or the treatment of enslaved workers beyond forced unpaid labor. Baltimore 89/42 and 1785 "more than 200", Principio and Catoctin "at least 270" are search-grade or journalism-grade and need a primary.
 
 ## Log
 - 2026-09-26 T-241a: 14 PATCH blocks appended across eras 3-10 (radium, uranium/Navajo, lead x3, mercury, arsenic, land taken for gold/copper/Black Hills, Saugus Scots, enslaved ironworkers, firsts). Sources: PMC, NIST, EPA, DOJ, CDC/NIOSH, USGS, NPS, Georgia Archives, KBIC, SHI, AJPH, NPR Illinois/WNIJ. Left out: Speculator Mine 1917, gold-rush killings (placed elsewhere). Check: PASS elements / research (bank 16639w).
 - 2026-09-26 T-241b: era before-1500 written (~780 words in file). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241b: eras 1500s and 1600s written (file ~1,600 words). validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-26 T-241b: era 1700-1750 written (file ~1,950 words). validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-26 T-241b: era 1750-1800 written, self-review run. part1 total 2,802 words, 2 stories (joseph-priestley, conrad-reed). validator 0 errors, --punct emdash=0 semicolon=0. Unit 2 landed.

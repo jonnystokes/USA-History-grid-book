@@ -38,7 +38,7 @@ That means people had carried or traded the metal several hundred miles before a
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Gold, silver, ochre, salt and stone" -->
-People in some regions made ornaments of gold and silver. People also used red and yellow ochre, a colored earth, to make paint. The color of ochre comes from iron oxides. An iron oxide is a compound of iron and oxygen. A compound is a substance made of two or more elements joined together.
+In some regions, metalworkers made ornaments of gold and silver. Red and yellow ochre, a colored earth, went into paint. The color of ochre comes from iron oxides. An iron oxide is a compound of iron and oxygen. A compound is a substance made of two or more elements joined together.
 
 People gathered salt and traded it. Salt is a compound of two elements, sodium and chlorine. They made tools of flint and chert, two hard stones. Both are made of compounds that contain the element silicon.
 <!-- /hb-zoom -->
@@ -62,7 +62,7 @@ In the same century, Spaniards found large amounts of silver in Mexico and South
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-English colonists built ironworks in Virginia and Massachusetts in the 1600s. Powhatan fighters destroyed the Virginia works in 1622. The Massachusetts works at Saugus ran from 1646 until about 1670, and Scottish prisoners of war were forced to work there. Iron was already old knowledge. People in Europe, Asia and Africa had been smelting it for thousands of years.
+English colonists built ironworks in Virginia and Massachusetts in the 1600s. Powhatan fighters destroyed the Virginia works in 1622. The Massachusetts works at Saugus ran from 1646 until about 1670, and Scottish prisoners of war did forced labor there. People in Europe, Asia and Africa had already been smelting iron for thousands of years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Falling Creek, 1619 to 1622" -->
@@ -74,13 +74,13 @@ Opechancanough was a Powhatan leader. In 1622 he directed attacks on many parts 
 <!-- hb-zoom level="span" label="Hammersmith at Saugus" -->
 In 1646 Richard Leader began building an ironworks on the Saugus River near Boston. He worked for the Company of Undertakers of the Iron Works in New England. In the 1600s, an undertaker meant a person who took on a business project. People called the works Hammersmith. Its blast furnace was running by the next year.
 
-Hammersmith was the first integrated ironworks in North America. Integrated means that every stage of the work happened on one site. In the blast furnace, workers melted iron out of the ore. The iron that came out was called pig iron. At the forge, workers hammered pig iron into wrought iron. In the rolling and slitting mill, rollers pressed the iron flat and blades cut it into strips. The strips were the raw material for nails, tools and horseshoes. Seven waterwheels powered the machines.
+Hammersmith was the first integrated ironworks in North America. Integrated means that every stage of the work happened on one site. Workers melted iron out of the ore in the blast furnace, and the iron that came out was called pig iron. At the forge they hammered pig iron into wrought iron. The rolling and slitting mill had rollers that pressed the iron flat and blades that cut it into strips. The strips were the raw material for nails, tools and horseshoes. Seven waterwheels powered the machines.
 
 The ore was bog iron. Workers collected it from swamps and ponds. The works ran until about 1668 to 1670. The site is now Saugus Iron Works National Historic Site.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Scottish prisoners at Saugus" -->
-Much of the work at Saugus was forced labor. Scottish soldiers became prisoners of war at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. Their captors shipped about 400 of them across the ocean to New England. The prisoners had no choice about going or about the work.
+Scottish prisoners of war did forced labor at Saugus. These Scottish soldiers became prisoners at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. Their captors shipped about 400 of them across the ocean to New England. The prisoners had no choice about going or about the work.
 
 Many of them served five to seven years under indentures at the Saugus ironworks. An indenture was a contract that bound a person to work for a master for a set number of years. The National Park Service gives the term at Saugus as seven years. There, most of the Scots cut wood, made charcoal or did heavy work that needed no special skill. The charcoal makers were called colliers. Other prisoners served in hard and dangerous jobs elsewhere in Massachusetts and in New Hampshire and Maine.
 <!-- /hb-zoom -->
@@ -98,7 +98,7 @@ By about 1750, colonists were shipping raw iron from their own furnaces to Brita
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved and indentured ironworkers" -->
-Enslaved people were held as property and forced to work without pay. The Baltimore Iron Works in Maryland opened with 89 workers, and 42 of them were enslaved. The Mount Clare Museum House states these numbers.
+Owners held enslaved people as property and forced them to work without pay. The Baltimore Iron Works in Maryland opened with 89 workers, and 42 of them were enslaved. The Mount Clare Museum House states these numbers.
 
 Principio Furnace in Maryland began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs.
 <!-- /hb-zoom -->
@@ -111,3 +111,55 @@ Colonists ignored the ban. After 1750 they built more than sixty new ironworks, 
 Colonists used other elements every day. They made gunshot and pewter dishes with lead. They made kettles and buttons of copper and of brass, a metal made partly of copper. Silver and gold arrived in the colonies as Spanish coins.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
+
+<!-- hb-time:start id="1750-1800" order="05" chapter="elements" label="1750 to 1800" state="full" progress="written" -->
+## 1750 to 1800
+
+<!-- hb-zoom level="era" -->
+Chemistry became a science in Europe between 1750 and 1800. Chemists there, among them Carl Wilhelm Scheele and Lavoisier, worked out what an element is and found new ones. Nobody in the United States discovered an element in these years. Americans used elements in their coins and dug ores out of the ground.
+
+Joseph Priestley isolated oxygen in England in 1774 and moved to Pennsylvania twenty years later. In Maryland, owners of iron furnaces held hundreds of Black people in slavery. In North Carolina in 1799, a 12-year-old boy found the first gold in the United States that an expert confirmed was real.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Three elements in every pocket" -->
+A mint is a place where workers make coins. The United States Mint was set up under the Coinage Act, a law dated April 2, 1792. Under the act, the new country's coins were made of three elements. Gold went into coins called eagles, silver into dollars and smaller coins, and copper into cents.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Enslaved ironworkers in Maryland" -->
+An advertisement for the Baltimore Iron Works in 1785 listed more than 200 enslaved Black people there, according to the Mount Clare Museum House. Their owners made them work without pay.
+
+Catoctin Furnace, in Maryland, was built in the 1770s. Hundreds of enslaved and free African Americans worked at the furnace and in the owners' households. The Baltimore Beat, a newspaper, reported that at least 270 enslaved people worked at Catoctin in the 1700s. The furnace had a cemetery for its African American workers, with burials from 1774 to 1850. After 1850 the owners hired paid workers, most of them white.
+
+On August 4, 2023, a team led by David Reich of Harvard Medical School published a study in the journal *Science*. The team worked with the Smithsonian and the company 23andMe. They studied the DNA of 27 people buried in the Catoctin cemetery. DNA is the material inside the body's cells that parents pass down to their children. The team linked the 27 people to nearly 42,000 living relatives.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="joseph-priestley" name="Joseph Priestley" movie="" kind="famous" status="verified" -->
+### Joseph Priestley
+
+> **Who:** The English chemist credited with discovering oxygen, who spent his last ten years as an immigrant in Pennsylvania.
+> **When and where:** Isolated oxygen on August 1, 1774, in England. Moved to America in 1794. Lived in Northumberland, Pennsylvania, until his death on February 6, 1804.
+
+On August 1, 1774, Joseph Priestley heated a substance called mercuric oxide with a burning lens. Mercuric oxide is a compound of the element mercury and oxygen. A burning lens is a glass lens that bends sunlight to one hot point. Priestley isolated a gas from the mercuric oxide, which means he collected it apart from everything else. The gas was later named oxygen.
+
+Carl Wilhelm Scheele, in Sweden, had found the same gas earlier than Priestley did. Scheele published his work later. Lavoisier gave oxygen its name. Priestley made his discovery in England, twenty years before he moved to America.
+
+Priestley invented carbonated water in Leeds in 1767. Carbonated water is water with bubbles of gas in it. In 1770 he gave rubber its English name, because he found it was good for rubbing out pencil marks.
+
+Priestley was also a minister, and people in Birmingham, England, targeted him for his views. In 1791 a mob there burned his home and his laboratory. In 1794 he left England for Pennsylvania. He settled in Northumberland, where his house was finished in 1798. There he built what was then the best chemistry laboratory in the United States. In it he identified the gas carbon monoxide. He turned down a job as a professor at the University of Pennsylvania. He died in Northumberland in 1804.
+
+American chemists met at his house in 1874, one hundred years after he isolated oxygen. That meeting was a step toward the founding of the American Chemical Society in 1876. The house is now a National Historic Landmark.
+<!-- hb-story:end slug="joseph-priestley" -->
+
+<!-- hb-story:start slug="conrad-reed" name="Conrad Reed" movie="" kind="ordinary" status="verified" -->
+### Conrad Reed
+
+> **Who:** A 12-year-old farm boy who found the first authenticated gold in the United States.
+> **When and where:** 1799, Little Meadow Creek, Cabarrus County, North Carolina.
+
+In 1799 Conrad Reed pulled a heavy yellow rock out of Little Meadow Creek. The creek ran through the farm of his father, John Reed, in Cabarrus County, North Carolina. The rock was a gold nugget that weighed 17 pounds. A nugget is a lump of metal found in the ground.
+
+The family did not know the rock was gold. They used it to hold a door open for about three years. In 1802 a jeweler identified it as gold. The jeweler bought it from John Reed for $3.50, about a week's wages. It was worth about $3,600.
+
+Conrad's find was the first authenticated gold discovery in the United States. Authenticated means that an expert checked it and showed it was real. The find set off the first gold mining in the United States.
+<!-- hb-story:end slug="conrad-reed" -->
+<!-- hb-time:end id="1750-1800" -->
