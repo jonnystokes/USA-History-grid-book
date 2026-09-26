@@ -41,3 +41,33 @@ Bison lived on the Plains, the wide grasslands in the middle of the continent. A
 In what is now southwest Florida, the Calusa people built watercourts between 1300 and 1400. Watercourts were pens in the water that held live fish until people needed them for food.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
+
+<!-- hb-time:start id="1500s" order="02" chapter="land-environment" label="The 1500s" state="thin" progress="written" -->
+## The 1500s
+
+<!-- hb-zoom level="era" -->
+Ships from Europe brought pigs, horses, cattle and earthworms to the Americas. Pigs that escaped from Hernando de Soto's expedition went wild in the Southeast. European earthworms moved into northern forests that had no worms before.
+
+After 1492, epidemics, war and famine killed most of the Native people of the Americas. Forest grew back over the farmland of the people who died.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Pigs, horses and cattle" -->
+Hernando de Soto landed near Tampa Bay, in what is now Florida, in May 1539. He brought about 600 men and a herd of pigs. Chronicles, the written histories of his expedition, give the first herd as 13 pigs. By the time de Soto died in 1542, the herd had grown to about 700, not counting the pigs the men ate, gave away or lost. Pigs that escaped became the ancestors of the feral hogs of the Southeast. Feral hogs are farm pigs, and their young, living wild.
+
+Horses and cattle came with the Spanish. Columbus brought horses on his second voyage, in 1493. Spanish colonists brought horses and cattle to their colony in New Mexico in 1598.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Earthworms" -->
+Before Europeans came, the forests of northern North America had no earthworms. Glaciers, thick sheets of ice that once covered the north, had scraped the ground bare of them. For roughly the last 12,000 years, the forests that grew back after the ice stood on a thick, soft layer of fallen leaves called duff. Native wildflowers and young trees grew in the duff.
+
+European earthworms crossed the ocean hidden in ballast soil. Ballast is heavy material carried low in a ship to keep it steady. Worms also came in the soil around the roots of plants brought from Europe. Later they spread west with wagons, horses and farms. Where European worms move into a northern forest, they eat the duff that the wildflowers and young trees need.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Forest over lost farms" -->
+After 1492, epidemics, war and famine killed most of the Native people of the Americas. An epidemic is a disease that spreads quickly to many people. A famine is a lack of food so great that people starve.
+
+In 2019, a team of researchers at University College London, in England, published an estimate of what those deaths did to the land. They estimated that the Native population of the Americas fell from about 60 million to about 6 million within roughly a hundred years. Other scholars dispute the starting number. For North America north of Mexico alone, estimates run from 1 million to 18 million.
+
+The team estimated that about 55.8 million hectares of farmland grew back into forest after its farmers died. A hectare is a square of land 100 meters long on each side. The new trees took carbon dioxide, a gas that traps heat, out of the air. By the team's estimate, the carbon dioxide in the air fell by 7 to 10 parts in every million parts of air. They estimated that this cooled the whole planet by about 0.15 degrees Celsius. These figures come from one study.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1500s" -->
