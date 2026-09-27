@@ -2922,3 +2922,8 @@ NOTE (Jon, 47%): burst of 3 more beside T-263b (messaged to switch to TO PARK): 
 ### 2026-09-27 | [LOCAL] Burst of 4 done; TO PARK filed (director, script)
 T-263b, T-264b, T-265b, T-266b all landed (eras 6-8; chapters PARTIAL until eras 9-10). Parked items filed into 12 banks, all validate 0.
 Jon (69%): burst of two next: T-263c health 9-10 + T-265c crime-justice 9-10.
+
+### 2026-09-27 | [LOCAL] T-263c | health: full research eras 9-10, completes the chapter [BURST of 2] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-263-health.md
+VERIFY: python tools/project_state.py --check health --stage research
