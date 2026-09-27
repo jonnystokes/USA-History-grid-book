@@ -3,7 +3,7 @@
 # Chapter 26: Health, Disease, and Medicine
 
 <!-- hb-note -->
-**Status:** SEED — awaiting deep research · *(agent changes to: RESEARCHED <date>)*
+**Status:** PARTIAL. Eras 01-05 RESEARCHED 2026-09-27 (T-263a, T-263r). Eras 06-10 still seed (T-263b). *(agent changes to: RESEARCHED <date>)*
 **Angle:** Illness and healing — epidemics, doctors, hospitals, medical advances, **and public health as policy**.
 **Keep out:** general science (`science`); sudden calamities (`disasters`)
 **Workspace:** `workspace/health.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -64,53 +64,196 @@ Shared with: exploration and native-nations (de Soto's march, the violence at Ma
 <!-- hb-story:end slug="thomas-harriot" -->
 <!-- hb-time:end id="1500s" -->
 
-<!-- hb-time:start id="1600s" order="03" chapter="health" label="The 1600s" state="full" progress="seed" -->
+<!-- hb-time:start id="1600s" order="03" chapter="health" label="The 1600s" state="full" progress="researched" -->
 ## The 1600s
 <!-- hb-zoom level="era" -->
-Colonists brought their diseases with them and had almost no medicine to answer them.
+Epidemics killed Native people along the Atlantic coast in the 1600s, sometimes years before colonists settled beside them. The English colonists also died in large numbers in their first years, from disease and hunger. The people who treated the sick in the colonies included a self-taught weaver, a minister, company surgeons and appointed midwives. Yellow fever reached Boston in 1693, carried from Africa by mosquitoes on the ships of the slave trade.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Colonial epidemics and folk medicine" -->
-Smallpox epidemics in the colonies; the Starving Time and malnutrition; folk medicine, midwives, and household remedies; almost no trained doctors.
+<!-- hb-zoom level="span" label="An epidemic on the New England coast, 1616 to 1619" -->
+- From 1616 to 1619 a disease killed Native people along about 200 miles of the New England coast, from southern Massachusetts to Cape Cod. The European fishermen and traders nearby did not catch it, as far as the records show (Marr and Cathey, 2010).
+- Nobody counted the dead. Scholars estimate that between one third and nine tenths of the people in the area died. Before the epidemic the Wampanoag Nation numbered about 21,000 to 24,000 people, and the Patuxet town about 2,000.
+- In 1674 Daniel Gookin wrote down what Native people told him about the sick: "the bodies all over were exceedingly yellow," before they died and after. Modern writers also describe fever, headache and nosebleeds.
+- Nobody knows what the disease was. Scholars have proposed yellow fever, smallpox, plague, typhus, and several others. In 2010 two researchers proposed leptospirosis. Leptospirosis is an infection by bacteria that rats carry in their urine. They suggested rats from European ships spread it into the water and soil. They called their idea a proposal for others to test, not an answer.
+- When the Plymouth colonists arrived in 1620, the Patuxet town was empty. William Bradford wrote that the living had not been able to bury the dead, and that skulls and bones still lay above ground where houses had stood. Squanto (Tisquantum), who helped the colonists, was one of the few Patuxet survivors.
+Shared with: native-nations (the Wampanoag, Squanto's life, and the alliance with Plymouth).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="colonial-midwife" name="(target) a colonial midwife" movie="" kind="ordinary" status="target" -->
-### (target) a colonial midwife
-Research target — midwives appear in colonial diaries and court records.
-<!-- hb-story:end slug="colonial-midwife" -->
+<!-- hb-zoom level="span" label="Jamestown, 1607" -->
+- In 1607, 104 English men and boys built a fort at Jamestown, in the land of the Paspahegh, one of the nations led by the Powhatan paramount chief. By the end of September, half of them were dead, most of them from sickness.
+- George Percy, one of the colonists, wrote down each death with its date and cause. John Asbie died of the "bloudie Flixe" on 6 August. A flux was the old word for diarrhea, and a bloody flux was diarrhea with blood in it. Percy also listed "Swellings" and "Burning Fevers," and deaths from wounds in fighting.
+- Percy blamed hunger most of all. Each day five men shared one small can of barley boiled in water. They drank from the river, which was salty at high tide and "full of slime and filth" at low tide. At the worst, three or four men died in a night.
+- Native people of the area, whom Percy called "our mortall enemies," then brought bread, corn, fish and meat to the fort, and the survivors recovered. Percy did not name the leaders who sent the food.
+- Historians have since pointed to the river. At Jamestown the water was part salt and part fresh, and the colonists' waste stayed in it instead of washing away. Tree rings show that a drought lasted seven years, from 1606 to 1612, so the colonists were short of food and clean water.
+- In the winter of 1609 to 1610, only about 60 of about 240 colonists in the fort survived. That winter is called the Starving Time.
+Shared with: disasters and food-farming (the Starving Time, lead) · native-nations (the Powhatan side).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Plymouth's first winter, 1620 and 1621" -->
+- In two or three months of the first winter, half of the roughly 100 Mayflower passengers died. Governor William Bradford blamed the cold, the lack of houses, and scurvy and other diseases from the long voyage. Scurvy is a disease caused by too little vitamin C. The gums swell and bleed, teeth loosen, and the person grows too weak to work.
+- At the worst, only six or seven people were well enough to care for everyone else. They cut wood, made fires, cooked, made beds and washed the sick people's clothes. William Brewster and Myles Standish were two of them.
+Shared with: migration and religion (the Pilgrims' voyage and church).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox on the Connecticut River, 1634" -->
+- In the winter of 1633 to 1634 a disease struck about 1,000 Native people in a fort on the upper Connecticut River. More than 950 of them died, Bradford wrote. Many lay unburied because no one was left to bury them. Bradford did not name the nation or the disease.
+- That spring, smallpox struck the Native people living near Plymouth's trading house on the Connecticut River. Smallpox is a disease caused by a virus that spread between people face to face. It caused a fever and a rash that turned into blisters and then scabs. About 3 in 10 people who caught it died, and many survivors had scars for life, most of all on their faces.
+- Bradford described the sick lying on hard mats. The blisters broke and ran, and the skin stuck to the mats, so when a person turned, the skin of a whole side came off. So many were sick that no one could make a fire, fetch water or bury the dead. Some crawled on their hands and knees to get water and died on the way.
+- The English at the trading house brought the sick wood, water and food, and buried the dead. None of them caught the disease. Very few of the Native people survived. Their chief sachem (leader) died, with almost all of his family. Bradford did not write down his name.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Midwives and surgeons in New Amsterdam" -->
+- The Dutch West India Company ran New Netherland, with its town of New Amsterdam on Manhattan, in the homeland of the Munsee Lenape. Company officials appointed and paid the town's midwives. A midwife is a woman who helps other women give birth. In 1638 the midwife Lysbert Dircksen lived in a house built for her with public money.
+- The Company also sent surgeons. Hans Kierstede arrived in 1638 and worked in the town for nearly 30 years. A rule of 1652 barred ships' barbers from treating wounds on shore without permission. A rule of 1657 required surgeons to report how each wounded person had been hurt.
+- In 1658 the Company surgeon Jacob Hendrichsen Varvanger asked for a place to care for sick patients. The colony's council agreed. They made Hilletje Wilbruch the matron, the woman in charge, and paid her 100 florins a year. A historian writing in 1957 called it the first hospital in the Dutch colony.
+Shared with: city-building and immigration (New Amsterdam itself) · native-nations (the Lenape).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox advice and yellow fever, 1677 to 1693" -->
+- After smallpox spread through Boston in 1676 and 1677, Thomas Thacher, a minister at the Old South Church, wrote a guide for families. It was printed in 1677 or 1678 on a single large sheet called a broadside. A Harvard medical library calls it the first medical writing published in the English colonies.
+- Thacher told families to keep the sick person from heavy bedclothes, hot rooms and strong hot drinks. He told them to give weak beer, thin cornmeal porridge and boiled apples. He warned that bloody or black urine and diarrhea after the rash appeared were signs the person would likely die.
+- Yellow fever came from Africa. Its virus and the mosquito that spreads it, Aedes aegypti, crossed the Atlantic aboard the ships of the slave trade (Bryant and others, 2007). In 1693 Boston became the first English colony town in North America with a yellow fever epidemic. That June a fleet of English warships arrived in Boston, and the first Boston death from the fever came on 25 June. No record gives the number of dead. Charleston and Philadelphia had yellow fever soon after.
+Shared with: slavery-freedom (the slave trade itself).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox along the slave-raiding paths, 1696 to 1700" -->
+- In 1696 smallpox broke out in Virginia and spread south and west along the trading paths. It reached the Tunica people on the lower Mississippi River in Louisiana by 1699. It came back in waves until 1715.
+- It traveled with Native slave raiders and the captives they took. Scholars estimate that some Native nations lost more than 60 of every 100 people.
+- A South Carolina colonist wrote that smallpox had killed so many Native people that there was "little Reason to believe they will be Capable of doing any Harm to us for severall Years to Come."
+Shared with: native-nations (the nations and the slave raids) · slavery-freedom (the trade in Native captives).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="samuel-fuller" name="Samuel Fuller" movie="" kind="ordinary" status="verified" -->
+### Samuel Fuller
+> **Who:** A wool weaver with no known medical training who came on the Mayflower and became the physician for Plymouth and its neighbors. · **When and where:** Plymouth, Salem and Charlestown in Massachusetts, 1620 to 1633.
+- Baptized in 1580 in Norfolk, England. He lived in Leiden, in the Netherlands, among the Pilgrims, and worked making woolen cloth. His brother Edward and Edward's wife died in Plymouth's first winter.
+- In 1629 settlers at Salem fell sick with scurvy and a fever that had spread on their ships. Their leader, John Endicott, asked Governor Bradford to send Fuller, because he had cured people "by letting blood and other means."
+- Letting blood, or bloodletting, meant cutting open a vein, usually in the arm, and letting blood run out into a bowl. Doctors of the time believed it balanced the fluids of the body. It does not cure scurvy or fever, and it left sick people weaker. In 1630 Fuller let blood from about 20 newly arrived colonists at Charlestown.
+- In 1633 a fever killed more than 20 men, women and children at Plymouth, and many Native people nearby. Fuller treated the sick, and then he died of the same fever, sometime between August and late September 1633. Nathaniel Morton later wrote that he "was their surgeon and physician, and did much good in his place."
+<!-- hb-story:end slug="samuel-fuller" -->
+<!-- hb-story:start slug="tryntje-jonas" name="Tryntje Jonas" movie="" kind="ordinary" status="verified" -->
+### Tryntje Jonas
+> **Who:** A midwife from Amsterdam who served as an official midwife of New Amsterdam. · **When and where:** New Amsterdam (now New York City), from 1630 to the mid-1640s.
+- She came from Amsterdam. Her daughter Anneke Jans arrived in New Netherland in 1630.
+- By 1644 she was the town's official midwife, appointed and paid by the Dutch West India Company, and she had her own house on Pearl Street.
+- On 7 July 1644 she gave a sworn statement to the colony's secretary. She had been called to help Hillegont Joris give birth. During the birth Hillegont Joris first named "Jan, the pilot" as the father of the child, and afterward named Laurens Cornelisz. The secretary copied the statement into the colony's record book, where it survives.
+- After she died, her daughter Anneke Jans collected the pay the Company still owed her for her work.
+<!-- hb-story:end slug="tryntje-jonas" -->
 <!-- hb-time:end id="1600s" -->
 
-<!-- hb-time:start id="1700-1750" order="04" chapter="health" label="1700 to 1750" state="full" progress="seed" -->
+<!-- hb-time:start id="1700-1750" order="04" chapter="health" label="1700 to 1750" state="full" progress="researched" -->
 ## 1700 to 1750
 <!-- hb-zoom level="era" -->
-A public argument over the first real preventive treatment, and an enslaved man is at the center of it.
+Between 1700 and 1750, colonists in Boston and Charleston began protecting people against smallpox by inoculation, a method an enslaved African man described to his enslaver. Inoculation meant giving a healthy person a small, deliberate case of smallpox so they could not catch it again. Epidemics still killed thousands. Diphtheria killed about 5,000 people in New England, most of them children, and smallpox killed about half of the Cherokee Nation.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The 1721 smallpox inoculation controversy" -->
-The Boston smallpox inoculation controversy, 1721 — Cotton Mather learned the practice from Onesimus, an enslaved West African man, and Zabdiel Boylston tried it against fierce opposition; the first American medical writing.
+<!-- hb-zoom level="span" label="Smallpox and inoculation in Boston, 1721" -->
+- On 22 April 1721 the ship Seahorse arrived in Boston from Barbados with sailors sick with smallpox. Boston had about 10,600 people. Close to 5,800 of them caught smallpox that year, and 844 died. Records give 5,759 cases or "almost 5800."
+- The minister Cotton Mather urged Boston's doctors to try inoculation. He had first heard of it from Onesimus, a man he enslaved. The doctor took pus from a smallpox sore, dried it, and rubbed or scratched it into a cut in a healthy person's skin.
+- Zabdiel Boylston was the first Boston doctor to try it. On 26 June 1721 he inoculated his six-year-old son Thomas, a 36-year-old man named Jack whom he enslaved, and Jack's two-and-a-half-year-old son, Jackey. All three got sick and recovered. Boylston's record does not say whether Jack agreed.
+- By the end of the epidemic about 287 people in Boston had been inoculated, and 6 of them died. Among people who caught smallpox the ordinary way, about 14 or 15 in every 100 died.
+- The physician William Douglass led the attack on inoculation in print, and James Franklin's newspaper, the New-England Courant, joined in. The town's selectmen, its elected officials, ordered Boylston to stop. He started again two days later. Someone threw a bomb through a window of Mather's house, with a note that ended "I will inoculate you with this, with a pox on you!" Boylston stayed on his farm for fear of being attacked.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The throat distemper, 1735 to 1740" -->
+- In May 1735 a disease began among children in Kingston, New Hampshire, and spread along the coast into Maine and Massachusetts. People called it the throat distemper. Doctors today identify it as diphtheria, an infection by bacteria.
+- The bacteria killed the tissue of the throat and nose. The dead tissue formed a thick coating across the throat until the child could not breathe.
+- About 5,000 people in New England died of it by 1740, more than three quarters of them children, according to the historian Ernest Caulfield. In the town of Hampton Falls, New Hampshire, 210 people had died by July 1736, and 160 of them were under ten.
+- In Ipswich, Massachusetts, Mark and Hephzibah Howe lost eight children in November 1736: Abijah, 1, Mark, 2, Aaron, 5, Mary, 7, Lucy, 9, Moses, 11, Love, 12, and Hannah, 13. The treatments printed in the Boston Gazette were bloodletting, borax or honey on the throat, and herb drinks.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox among the Cherokee and Catawba, 1738 and 1739" -->
+- Smallpox struck the Cherokee towns in the southern Appalachian Mountains in 1738 and 1739. Between 7,000 and 10,000 Cherokee people died, about half of the nation. About half of the Catawba Nation died too.
+- How it reached them is disputed. The trader James Adair wrote in 1775 that it came on slave ships from West Africa into Charleston. Other accounts say traders brought it, or Cherokee warriors carried it home after fighting beside the British against the Spanish in Florida.
+- Cherokee healers treated the sick in sweat houses and then plunged them into icy streams. The shock killed many of them. Adair wrote that some survivors, scarred by the disease, killed themselves.
+- In Charleston the physician James Kilpatrick inoculated 800 to 1,000 people during the same epidemic. Eight of them died.
+Shared with: native-nations (the Cherokee and Catawba nations).
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="onesimus" name="Onesimus" movie="" kind="ordinary" status="verified" -->
 ### Onesimus
-Enslaved man who described inoculation and changed American medicine.
+> **Who:** An enslaved African man whose account of inoculation led to its first use in Boston. · **When and where:** Boston, enslaved by Cotton Mather from 1706 to 1716.
+- In December 1706 members of Cotton Mather's North Church congregation gave Onesimus to Mather as a gift. Mather gave him the name Onesimus, after an enslaved man in the Bible. His own name is not recorded. He was probably Coromantee, from the Akan peoples of the Gold Coast, now Ghana.
+- In 1716 Mather wrote to the Royal Society in London that he had asked Onesimus whether he had ever had smallpox. Onesimus answered "both, Yes, and No." He had "undergone an Operation, which had given him something of the Small-Pox, and would forever preserve him from it." He showed Mather the scar on his arm.
+- Mather wrote down Onesimus's method in Onesimus's own words: people "take Juice of Small-Pox" and "Cut the Skin, and put in a drop." Mather said he heard it from Onesimus months before he read of the same method in European reports.
+- Onesimus married and had two children. Both died before they were ten, his son Onesimulus in 1714 and his daughter Katy of tuberculosis.
+- In 1716 Onesimus paid money toward buying another enslaved man, Obadiah, to take his place. Mather then released him, on conditions: Onesimus still had to do household work, such as shoveling snow and chopping wood, when Mather called for it, and he had to repay five pounds Mather said he had stolen. Few records of his life after 1716 survive.
 <!-- hb-story:end slug="onesimus" -->
 <!-- hb-story:start slug="zabdiel-boylston" name="Zabdiel Boylston" movie="" kind="famous" status="verified" -->
 ### Zabdiel Boylston
-Boston physician who tried inoculation against fierce opposition in 1721.
+> **Who:** The first Boston doctor to try inoculation, in 1721. · **When and where:** Boston, 1721 and 1722. Born 1679, died 1766.
+- He inoculated his first three patients on 26 June 1721: his son Thomas, about 6, and two people he enslaved, Jack, 36, and Jack's son Jackey, two and a half. He wrote down how each one's illness went. Thomas and Jack each had about "an hundred" blisters of pus. On the ninth day he gave them a medicine to make them vomit. All three recovered.
+- He went on to inoculate between 242 and 248 people, by different counts. Six of them died.
+- The town's selectmen ordered him to stop, and he started again two days later. He stayed on his farm because people threatened to attack him.
+- He sailed to London, where he was made a member of the Royal Society, a group of leading scientists. In 1726 he published his records of every patient in a book, An Historical Account of the Small-Pox Inoculated in New England.
 <!-- hb-story:end slug="zabdiel-boylston" -->
+<!-- hb-story:start slug="elizabeth-phillips" name="Elizabeth Phillips" movie="" kind="ordinary" status="verified" -->
+### Elizabeth Phillips
+> **Who:** A licensed midwife from London who delivered babies in Boston for over forty years. · **When and where:** Boston and Charlestown, Massachusetts, 1719 to 1761.
+- She was born in Westminster, in London, about 1685. In 1718 the Bishop of London gave her a license to work as a midwife, a woman who helps other women give birth.
+- She came to Boston in 1719 and worked there until she died in 1761.
+- Her gravestone in the Phipps Street Burying Ground in Charlestown says she "brought into this world above 3000 Children."
+<!-- hb-story:end slug="elizabeth-phillips" -->
 <!-- hb-time:end id="1700-1750" -->
 
-<!-- hb-time:start id="1750-1800" order="05" chapter="health" label="1750 to 1800" state="full" progress="seed" -->
+<!-- hb-time:start id="1750-1800" order="05" chapter="health" label="1750 to 1800" state="full" progress="researched" -->
 ## 1750 to 1800
 <!-- hb-zoom level="era" -->
-The first hospitals and medical schools open, and a city loses a tenth of its people in one summer.
+Philadelphia doctors opened a hospital for the sick poor in 1752 and the colonies' first medical school in 1765. Smallpox spread through the colonies and the Native nations during two wars, and in 1763 the British commander at Fort Pitt and a trader tried to spread it on purpose. In 1793 yellow fever killed about 4,000 to 5,000 people in Philadelphia, about one in ten. In 1798 Congress passed and President John Adams signed a law that paid for sailors' medical care out of their wages.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="First hospitals and the 1793 yellow fever" -->
-Pennsylvania Hospital [VERIFY 1751]; the first medical school [VERIFY 1765]; the Philadelphia yellow-fever epidemic of 1793 and the Free African Society's members who nursed the sick when others fled.
+<!-- hb-zoom level="span" label="Doctor Caesar's cure, 1749 and 1750" -->
+- White South Carolinians feared that the enslaved people who cooked their food would poison them. A 1740 colony law made poisoning a crime punished by death.
+- Caesar, a man enslaved by John Norman near the Edisto River, treated people for poisoning and rattlesnake bite. In November 1749 the members of the colony's Commons House voted to buy his freedom in exchange for his cure. They paid Norman 500 pounds and promised Caesar 100 pounds a year for life.
+- The South Carolina Gazette printed Caesar's cure in May 1750. It was made by boiling plantain roots, horehound and goldenrod, with rum, sugar, tobacco and lye made from wood ash.
+- In 1751 the same lawmakers passed a law that barred enslaved healers, "commonly called doctors," from giving anyone medicine without white permission.
+- Caesar died in early 1754, about 77 years old. His wife Lilly and daughter Hannah were still enslaved by John Norman.
+Shared with: slavery-freedom (slave law in South Carolina).
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Pennsylvania Hospital and the first medical school" -->
+- On 11 May 1751 Dr. Thomas Bond and Benjamin Franklin founded Pennsylvania Hospital in Philadelphia, to care for "the poor, sick and insane." Franklin's petition said that people who had lost their reason could be "contained and confined" there. The first patients came on 6 February 1752 to a temporary house on Market Street (one source says 1753). The permanent building opened in 1756, with rooms for mentally ill patients in the basement.
+- Two older places in the colonies also housed people in need: Philadelphia's almshouse, a home for the poor founded in 1732, and a New York workhouse of 1736 that later became Bellevue Hospital. The Dutch had opened a hospital in New Amsterdam in 1658.
+- In 1765 Dr. John Morgan founded the colonies' first medical school, at the College of Philadelphia, now the University of Pennsylvania. Students learned at the bedsides of the hospital's patients.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox as a weapon at Fort Pitt, 1763" -->
+- In 1763 Delaware (Lenape), Shawnee and Mingo warriors surrounded Fort Pitt, a British fort where Pittsburgh stands now, during the war led by the Ottawa leader Pontiac. Smallpox had broken out among the soldiers inside.
+- On 24 June 1763 the fort's commander, Captain Simeon Ecuyer, and the trader William Trent met two Delaware men, Turtle's Heart and Mamaltee. They gave them two blankets and a handkerchief taken from the fort's smallpox hospital. Trent wrote in his journal, "I hope it will have the desired effect." Ecuyer signed the bill that charged the army for the blankets.
+- In July, General Jeffery Amherst, the British commander in North America, wrote to Colonel Henry Bouquet: "Could it not be contrived to send the Small Pox among those disaffected tribes of Indians?" Bouquet answered that he would "try to inocculate the Indians by means of Blankets."
+- Smallpox did spread among the Native nations fighting the British in 1763 and 1764. A man named Gershom Hicks reported that about 100 people died of it. No record can show whether the blankets caused it. A month after the meeting, Turtle's Heart and Mamaltee had not caught it.
+Shared with: native-nations and war (Pontiac's War).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox in the Revolution, 1775 to 1782" -->
+- In 1775 Virginia's royal governor, Lord Dunmore, promised freedom to people enslaved by rebels if they joined his army. In the spring and summer of 1776 smallpox and other fevers spread through his camps. About 500 Black soldiers of his Ethiopian Regiment died on Gwynn's Island in Chesapeake Bay, with about 150 white soldiers.
+- On 6 February 1777 General George Washington ordered every soldier in the Continental Army inoculated. He wrote that if smallpox spread through the army, "we should have more to dread from it, than from the Sword of the Enemy." Dr. William Shippen ran the inoculations in secret, in winter, at Morristown, New Jersey, and in Philadelphia, so the British would not find out.
+Shared with: war (the fighting) · slavery-freedom (Dunmore's promise of freedom).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Doctors' Riot, New York, 1788" -->
+- To learn anatomy, medical students cut open dead bodies. This is called dissection. In New York, students dug up corpses from the Negroes Burial Ground and from the paupers' graveyard.
+- In February 1788 free and enslaved Black New Yorkers asked the city's Common Council to stop "young gentlemen in this city who call themselves students of the physic" from digging up "bodies of our deceased friends and relatives." The council members did nothing.
+- In April 1788 boys outside New York Hospital saw a human arm from the dissecting room. Crowds attacked the hospital. Later about 5,000 people gathered at the city jail. As many as 20 people were killed, among them at least 3 rioters and 3 militiamen.
+- In 1789 New York lawmakers banned grave robbing. The same law let judges order the bodies of executed murderers, arsonists and burglars to be dissected.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Yellow fever in Philadelphia, 1793" -->
+- From August to November 1793 yellow fever killed 4,041 people in Philadelphia, by the count of the publisher Mathew Carey. Other counts run to about 5,000, roughly one person in ten. About 20,000 people left the city.
+- Yellow fever is a disease caused by a virus that the Aedes aegypti mosquito carries from person to person. Nobody in 1793 knew that. Scientists proved it in the early 1900s.
+- Dr. Benjamin Rush treated patients by bleeding them heavily and giving them purges. A purge was a medicine that emptied the bowels. His contained calomel, a compound of mercury. Losing that much blood could send a weak patient into shock. A French doctor, Jean Devèze, used milder treatment at the Bush Hill hospital.
+- Rush believed Black people could not catch yellow fever, and a notice in the newspapers asked "the people of colour" to nurse the sick. Black Philadelphians did nurse the sick and bury the dead, and many caught the fever. Black burials in the city rose from 67 in 1792 to 305 in 1793.
+- Mayor Matthew Clarkson issued a proclamation about the epidemic on 10 September 1793. From 14 September a committee of 26 citizens worked with him to run the city's response.
+Shared with: city-building (the waterworks built after the epidemics) · religion (Jones and Allen's churches).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Medical care for sailors, 1798" -->
+- On 16 July 1798 President John Adams signed the Act for the Relief of Sick and Disabled Seamen, which Congress had passed. Federal officials took 20 cents a month out of every merchant sailor's pay to pay for sailors' medical care. The first marine hospital was set up on Castle Island in Boston Harbor. This program later became the United States Public Health Service.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="doctor-caesar" name="Caesar" movie="" kind="ordinary" status="verified" -->
+### Caesar
+> **Who:** An enslaved healer whose cure for poison bought his freedom from South Carolina's lawmakers. · **When and where:** St. Paul's Parish, South Carolina, near the Edisto River. Freed in 1750, died in 1754.
+- He was enslaved by John Norman of Beach Hill and was known for curing people of poisoning and rattlesnake bite.
+- In November 1749 the Commons House of Assembly voted to pay Norman 500 pounds for Caesar's freedom, in exchange for his cure. The law was made final on 31 May 1750. The lawmakers also promised Caesar 100 pounds a year for life, and he received his first payment in 1751.
+- His cure was printed in the South Carolina Gazette in May 1750.
+- He died in early 1754, about 77 years old. His wife Lilly and daughter Hannah were never freed by the lawmakers, and they remained enslaved by John Norman. When he died, Caesar owned an enslaved woman himself.
+<!-- hb-story:end slug="doctor-caesar" -->
 <!-- hb-story:start slug="benjamin-rush" name="Benjamin Rush" movie="" kind="famous" status="verified" -->
 ### Benjamin Rush
-Philadelphia doctor at the center of the 1793 yellow-fever epidemic.
+> **Who:** Philadelphia's best-known doctor during the 1793 yellow fever epidemic, and a signer of the Declaration of Independence. · **When and where:** Philadelphia, 1793. He worked at Pennsylvania Hospital from 1783 to 1813.
+- During the 1793 epidemic he bled patients heavily and gave them purges made with mercury. Other doctors, such as Jean Devèze at the Bush Hill hospital, used milder treatment.
+- He kept his house open day and night for the sick, Absalom Jones and Richard Allen wrote. When so many doctors were sick or dead that he could not reach every patient, he taught Jones and Allen which medicines to give and when to bleed a patient.
+- He believed Black people could not catch yellow fever, and he said so in the newspapers. That belief was wrong. Black Philadelphians caught the fever and died of it while they nursed the sick.
+- At Pennsylvania Hospital he moved mentally ill patients out of the basement and into rooms with windows.
 <!-- hb-story:end slug="benjamin-rush" -->
 <!-- hb-story:start slug="jones-and-allen" name="Absalom Jones and Richard Allen" movie="" kind="famous" status="verified" -->
 ### Absalom Jones and Richard Allen
-Organized nursing during the 1793 yellow-fever epidemic (their church work belongs to `religion`).
+> **Who:** Two Black Philadelphians who organized Black volunteers to nurse the sick and bury the dead. · **When and where:** Philadelphia, September to November 1793. Their account was printed in 1794.
+- In early September 1793 a notice in the papers asked "the people of colour" to help the sick, with the promise that they could not catch the fever. Jones, Allen and a few others met and decided to go.
+- They carried away and buried the dead, and they hired five men to help, two of them Allen's brothers. Taught by Rush, they bled more than 800 people. They buried several hundred poor people and strangers and asked no pay for it.
+- The fever killed Black Philadelphians too: 305 Black people were buried in 1793, against 67 the year before. Some Black nurses who fell sick were put out of the houses where they worked. One died in a stable.
+- Mathew Carey wrote that Black nurses had overcharged and stolen from the sick. In 1794 Jones and Allen printed their own account to answer him. They named Mary Scott, a Black nurse who refused to take more than her wage.
 <!-- hb-story:end slug="jones-and-allen" -->
 <!-- hb-time:end id="1750-1800" -->
 

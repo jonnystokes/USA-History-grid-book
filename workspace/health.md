@@ -20,10 +20,10 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 
 ## Famous names check (must appear — completeness first)
 
-- [ ] the Great Dying
-- [ ] smallpox inoculation, 1721, and Onesimus
-- [ ] the 1793 yellow-fever epidemic
-- [ ] Benjamin Rush
+- [x] the Great Dying (eras 01-03: population range, Roanoke, 1616-19, 1634, 1696-1715)
+- [x] smallpox inoculation, 1721, and Onesimus (era 04)
+- [x] the 1793 yellow-fever epidemic (era 05)
+- [x] Benjamin Rush (era 05)
 - [ ] ether anesthesia
 - [ ] Elizabeth Blackwell
 - [ ] germ theory
@@ -38,8 +38,8 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 
-- [ ] Pennsylvania Hospital, 1751 — 1750–1800
-- [ ] the first medical school, 1765 — 1750–1800
+- [x] Pennsylvania Hospital, 1751 (cleared T-263r: founded 11 May 1751, first patients 6 Feb 1752 or 1753, sources disagree)
+- [x] the first medical school, 1765 (cleared T-263r: College of Philadelphia, John Morgan, Mütter Museum)
 - [ ] Elizabeth Blackwell, 1849 — 1800–1850
 - [ ] the FDA and drug regulation, 1938 — 1900–1950
 - [ ] Medicare and Medicaid, 1965 — 1950–2000
@@ -57,6 +57,11 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 - **target (find and verify):** a colonial midwife (1600s); a Civil War nurse (1850–1900); a 1918 flu nurse or survivor and a Tuskegee study participant (1900–1950); a polio survivor and an AIDS activist or patient (1950–2000); a COVID-19 nurse or patient (2000–today).
 
 ## Cross-chapter parking log
+- T-263r (2026-09-27): nothing filed in other banks (burst rule). Items listed under TO PARK in control/checkpoints/T-263-health.md for the director.
+
+## Story slots, eras 01-05 (T-263r, 2026-09-27)
+- verified and bank-sourced: thomas-harriot (02), samuel-fuller, tryntje-jonas (03), onesimus, zabdiel-boylston, elizabeth-phillips (04), doctor-caesar, benjamin-rush, jones-and-allen (05). Target colonial-midwife resolved as tryntje-jonas. Era 01 has no story: no named person exists.
+- Additional famous names covered: Thomas Harriot, Cabeza de Vaca (shared with exploration), Squanto (plague detail only), Cotton Mather, Washington's 1777 inoculation order, Amherst and Bouquet (Fort Pitt), Franklin and Bond (Pennsylvania Hospital), John Adams (1798 act).
 
 ## Open questions for the director
 - The Tuskegee syphilis study and the 1918 flu are both hard subjects for 8–15 readers. The brief says do not filter; the director should set the wording line.

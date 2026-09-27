@@ -1,13 +1,16 @@
 # CHECKPOINT T-263 | health | full | T-263a: eras 1-5
 
-STATUS: PARTIAL (killed by usage limit; continuation queued)
+STATUS: T-263r landed (director verified: FAIL  health / research)
 VERIFY: python tools/project_state.py --check health --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/health.md · research/research-health.md · workspace/health.md
 
-NOW:    T-263a Unit 1: era 03 1600s (research, then outline + bank)
-NEXT:   T-263a: Unit 1.
+NOW:    T-263r finished (Unit 3 final run). No unit in progress.
+NEXT:   T-263b: full research of eras 06-10 (1800-1850 to 2000-today), one era at a time, then the bank check for 06-10.
+        Insert bank era sections ABOVE the line '<!-- END OF ERA SECTIONS 01-05 (T-263a, T-263r) -->' (rename it when done).
+        Seed items waiting: Elizabeth Blackwell [VERIFY 1849], FDA 1938, Medicare 1965, Tuskegee (DECISIONS #3), J. Marion Sims 1845-49 (define each procedure, policy 3b), the parked material at the bottom of the bank.
+        Do not change eras 01-05. Then run project_state --check health --stage research.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -27,9 +30,9 @@ FAIL  health / research
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | todo | |
-| 2 | bank check, eras 1-5 | todo | |
-| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | todo | |
+| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | 01-02 T-263a, 03-05 T-263r. 9 verified stories, colonial-midwife target resolved as tryntje-jonas |
+| 2 | bank check, eras 1-5 | done | T-263r: 4 SEARCHED NOT FOUND, 5 PATCHes (Jamestown causes, 1696-1715 smallpox, 1693 yellow fever carrier, Jack and Jackey consent, 1750-1800 actor/count notes) |
+| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | done | validator 0 errors. research check FAILS as expected until eras 06-10 are done |
 
 ## SUBJECT NOTES (from the director)
 
@@ -46,6 +49,17 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+
+- `native-nations`, era 1750-1800: Fort Pitt smallpox attempt, 24 June 1763 (Ecuyer and Trent gave Turtle's Heart and Mamaltee two blankets and a handkerchief from the smallpox hospital; Amherst's and Bouquet's July letters; effect unknowable per Fenn). Full sourced text: research/research-health.md, era 05, "Smallpox as a weapon at Fort Pitt". Not in their outline as of 2026-09-27.
+- `native-nations`, era 1700-1750: Cherokee and Catawba smallpox 1738-39, 7,000-10,000 Cherokee dead (NCpedia), carriers disputed. Health era 04 bank.
+- `native-nations` and `slavery-freedom`, era 1600s: Great Southeastern Smallpox Epidemic 1696-1715 spread by Indian slave raiders along trading paths (Wikipedia "Mississippian shatter zone", Kelton). Health era 03 PATCH.
+- `slavery-freedom`, era 1750-1800: Doctor Caesar freed by the South Carolina Commons House (vote Nov 1749, ratified 31 May 1750, £500 to John Norman, £100 a year), his wife Lilly and daughter Hannah left enslaved, and the 1751 law barring enslaved "doctors" from giving medicine (Butler 2021, CCPL). Health era 05 bank.
+- `slavery-freedom` and `war`, era 1750-1800: disease in Dunmore's Ethiopian Regiment, about 500 Black soldiers dead on Gwynn's Island 1776 (Encyclopedia Virginia, Lawler 2025). Health era 05 bank.
+- `war`, era 1750-1800: Washington's order of 6 February 1777 to inoculate the Continental Army (American Battlefield Trust). Health era 05 bank.
+- `city-building` or `crime-justice`, era 1750-1800: the Doctors' Riot, New York, April 1788, the Black New Yorkers' February 1788 petition about the Negroes Burial Ground, up to 20 dead, and the 1789 anatomy law (Lovejoy 2014, Smithsonian). Health era 05 bank.
+- `slavery-freedom`, era 1700-1750: Onesimus's 1716 release terms (Obadiah bought as his replacement, continued unpaid work). Health era 04 bank.
 
 ## SALVAGE 2026-09-27 (T-263a killed by the usage limit, 12:50 reset)
 
@@ -201,14 +215,24 @@ Pages the killed agent fetched (139; re-read the useful ones rather than searchi
 - Era 01: Martin & Goodman 2002 (WJM, PMC1071659: diseases present/absent, Dickson Mounds anemia); Vagene 2022 (TB after 900 CE); Barquera 2025 Nature (treponemes American origin); Newson 1993 British Academy PDF (crowd-disease thresholds, 1492 population table).
 - Era 02: Hodge 1907 Spanish Explorers (Gutenberg 42841: Cabeza de Vaca, Smith transl.; Gentleman of Elvas); Hariot 1588 (Gutenberg 4247); Encyclopedia Virginia primary doc + entry; Mires 1994 abstract (influenza, probable).
 
+- Era 03: Bradford (Gutenberg 69871, Paget ed.); Marr & Cathey 2010 (CDC EID); Percy (Virtual Jamestown); EV Jamestown (Wolfe 2020); Blanton (Virtual Jamestown essay); Amerman 1957 (Holland Society); NYHM 1644 (Mapping Early New York); Countway + NLM (Thacher); CDC smallpox; PBS yellow fever; Bryant 2007; Salem Witch Museum 2020; Wikipedia Paspahegh, Samuel Fuller, Mississippian shatter zone.
+- Era 04: MHS Feb 2021; Wikipedia 1721 outbreak and Onesimus; Paul Revere House 2020; Mass Moments (Boylston 1726 quoted); La Rue 2019 (Elizabeth Phillips); NEHS and Historic Ipswich (throat distemper, Caulfield); NCpedia Cherokee; Wikipedia 1738-39 epidemic.
+- Era 05: Butler 2021 (CCPL, Caesar); Wikipedia and Mutter 2021 (Pennsylvania Hospital, 1765 school); Trent journal and d'Errico (UMass); Wikipedia Siege of Fort Pitt; ABT (Washington 1777); EV Ethiopian Regiment (Lawler 2025); Lovejoy 2014 (Doctors' Riot); Jones & Allen 1794 (Internet Archive, NLM copy, full text); O'Malley 2020; Mutter 2025 (Rush); NLM PHS (1798 act).
+
 ## Gaps researched
+- T-263r bank check: de Soto as carrier and Cofitachequi origin (SEARCHED NOT FOUND, era 02); carriers of 1616-19 and 1634 (NOT FOUND, era 03); Jamestown causes (PATCH); 1693 fleet (PATCH); 1696-1715 epidemic (PATCH, added to outline); Mather bomb thrower (NOT FOUND); Jack and Jackey consent (PATCH); 1750-1800 actor and count notes (PATCH).
 
 ## OPEN (should be rare)
 
 ## Outline claims left out
+- Seed 'almost no trained doctors' (1600s): no count found. Seed 'the first American medical writing' (1721): Thacher 1677/8 is older. Bridget Fuller as midwife (genealogy pages only). Boston 1677-78 death count. Fenn's 130,658 (search summary only). Rush's exact doses (search summary only). Caesar as 'first' Black medical author (search summary only).
 
 ## Decisions and defects fixed
 
 ## Log
 - 2026-09-27 era 01 before-1500 DONE: outline rewritten (state thin, progress researched, no story: no named person exists), bank section '## 01' added above the parked material. Validator 0 errors.
 - 2026-09-27 era 02 1500s DONE: 3 spans (Texas coast 1528-29, Cofitachequi 1540, Roanoke 1585-86) + story thomas-harriot (verified, bank-sourced). Seed span 'The Great Dying' replaced. Web search hit a session limit mid-era: de Soto-as-carrier and Cofitachequi disease origin left unsearched (see bank NOT FOUND note). Validator 0 errors.
+- 2026-09-27 T-263r measured on start: eras 01-02 researched and banked; era 03 outline still seed and no era 03 bank section, so T-263a had written nothing for era 03.
+- 2026-09-27 era 03 1600s DONE (T-263r): 6 spans (New England coast 1616-19, Jamestown 1607, Plymouth 1620-21, smallpox on the Connecticut River 1634, New Amsterdam midwives/surgeons/hospital, Thacher's broadside and yellow fever 1693) + stories samuel-fuller and tryntje-jonas (both verified, bank-sourced). Target colonial-midwife replaced by tryntje-jonas. Bank '## 03' added. Validator 0 errors. Sources: Bradford (Gutenberg 69871), Marr & Cathey 2010 (CDC EID), Percy (Virtual Jamestown), EV Jamestown, Amerman 1957 (Holland Society), NYHM 1644 declaration, Countway + NLM Thacher, CDC smallpox, PBS yellow fever timeline, Bryant 2007. Left out: Bridget Fuller as midwife (genealogy pages only, conflicting dates); Boston 1677-78 death count (no opened source); 'almost no trained doctors' (no count found).
+- 2026-09-27 era 04 1700-1750 DONE (T-263r): 3 spans (Boston 1721 inoculation, throat distemper 1735-40, Cherokee/Catawba smallpox 1738-39 + Charleston inoculation) + stories onesimus, zabdiel-boylston (both rewritten from seed, verified, bank-sourced), elizabeth-phillips (new, ordinary, verified). Bank '## 04' added. Validator 0 errors. Seed claim 'first American medical writing' dropped (Thacher 1677/8 is older). Doctor Caesar (vote 1749, freed and printed 1750) held for era 05.
+- 2026-09-27 era 05 1750-1800 DONE (T-263r): 7 spans (Doctor Caesar 1749-50, Pennsylvania Hospital 1751 + medical school 1765, Fort Pitt smallpox 1763, smallpox in the Revolution incl. Dunmore's regiment + Washington's 1777 order, Doctors' Riot 1788, yellow fever 1793, 1798 seamen's act) + stories doctor-caesar (new), benjamin-rush and jones-and-allen (rewritten from seed, verified). [VERIFY 1751] and [VERIFY 1765] cleared. Bank '## 05' added; bank end marker renamed '<!-- END OF ERA SECTIONS 01-05 (T-263a, T-263r) -->'. Validator 0 errors. Left out: Martha Ballard (home-family tells her); Fenn's 130,658 (search summary only); Rush's exact doses (search summary only); how basement patients were kept (no source).

@@ -2844,9 +2844,11 @@ native-nations, rights-movements, science, slavery-freedom, war); each checkpoin
 Back to ONE AT A TIME (DECISIONS #25). Next: T-263r health.
 
 ### 2026-09-27 | [LOCAL] T-263r | health: continue full research eras 1-5 (from era 3) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+RESULT: LANDED. FAIL  health / research. measured: stage=PARTIAL eras=10/10 stories=18 (v12 c0 t6) verify_tags=3 bank=13062w outline=6615w manuscript=0w validator_errors=0
+        313713 tokens, 140 tool uses, 24.4 min (opus). Eras 1-5 researched (era 3 from scratch). Stories: Samuel Fuller, Tryntje Jonas, Onesimus, Zabdiel Boylston, Elizabeth Phillips, Doctor Caesar, Benjamin Rush, Absalom Jones and Richard Allen. Epidemics 1616-1738, Fort Pitt blankets 1763 (actors named), Jack and Jackey, Doctors' Riot 1788. 4 searched-not-found, 2 firsts dropped. Era 1 has no story (allowed: no named person). Chapter FAIL expected until eras 6-10. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-264r | disasters: continue full research eras 1-5 [BURST of 5] | model opus
 STATUS: IN-FLIGHT
