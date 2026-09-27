@@ -2854,9 +2854,11 @@ CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
 
 ### 2026-09-27 | [LOCAL] T-265r | crime-justice: continue full research eras 1-5 [BURST of 5] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+RESULT: LANDED. FAIL  crime-justice / research. measured: stage=PARTIAL eras=10/10 stories=10 (v6 c0 t4) verify_tags=2 bank=11791w outline=5607w manuscript=0w validator_errors=0
+        323848 tokens, 110 tool uses, 14.0 min (opus). Eras 1-5 researched and bank-checked (era 3 finished). Stories: Philip Ratcliffe 1631, Rebecca Nurse, Quack and Cuffee 1741, Patrick Lyon 1798. Punishments defined with method (policy 3b), slave patrols, Virginia 1723 act, convict transport, debt jail, Boston Massacre trials, Conestoga 1763 (20 named, no prosecution), Walnut Street 1790. Chapter FAIL is expected: remaining gaps are eras 6-10 (T-265b). TO PARK 3 (burst).
 
 ### 2026-09-27 | [LOCAL] T-266r | drugs-alcohol: continue full research eras 1-5 [BURST of 5] | model opus
 STATUS: IN-FLIGHT
