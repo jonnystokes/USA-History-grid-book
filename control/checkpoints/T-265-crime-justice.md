@@ -1,12 +1,12 @@
 # CHECKPOINT T-265 | crime-justice | full | T-265a: eras 1-5
 
-STATUS: IN-FLIGHT
+STATUS: PARTIAL (killed by usage limit; continuation queued)
 VERIFY: python tools/project_state.py --check crime-justice --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/crime-justice.md · research/research-crime-justice.md · workspace/crime-justice.md
 
-NOW:    (agent sets this)
+NOW:    T-265a Unit 1, era 3 (1600s): bank partly written. Outline era 3 still seed. To do: Ratcliffe 1631, watch, punishments definitions, Sassamon trial 1675, 1669 act, Oñate 1614, wheel definition.
 NEXT:   T-265a: Unit 1.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
@@ -47,7 +47,189 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
 
+## SALVAGE 2026-09-27 (T-265a killed by the usage limit, 12:50 reset)
+
+Landed on disk (measured with git diff, committed by the director): see the Log and the
+bank's T-265a PATCH headings. The agent's last NOW line was:
+  T-265a Unit 1, era 3 (1600s): bank partly written. Outline era 3 still seed. To do: Ratcliffe 1631, watch, punishments definitions, Sassamon trial 1675, 1669 act, Oñate 1614, wheel definition.
+**Treat that unit as possibly half-written:** check it against the outline's plan and
+finish it before starting the next. Do not redo earlier units or PATCHes already in the bank.
+Web search hit a quota during the batch; if search fails, use WebFetch or curl.
+
+Pages the killed agent fetched (165; re-read the useful ones rather than searching again):
+- https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/Anti-Lynching-Legislation/
+- https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Essays/Temporary-Farewell/A-Generation-Lost/
+- https://www.nps.gov/articles/illinois-1908-springfield-race-riot-archaeological-site.htm
+- https://www.nysed.gov/sites/default/files/programs/indigenous-education/unit-the-great-law-of-peace.pdf
+- https://web.pdx.edu/~caskeym/iroquois_web/html/greatlaw.html
+- https://en.wikipedia.org/wiki/Condolence_ceremony
+- https://en.wikipedia.org/wiki/Great_Law_of_Peace
+- https://stephendunifer.substack.com/p/the-tree-and-the-eagle-how-the-haudenosaunee
+- https://en.wikipedia.org/wiki/Hiawatha
+- https://en.wikipedia.org/wiki/Tadodaho
+- https://www.wampumbear.com/W_15%20Condolence%20Strands.html
+- https://ipjournal.wordpress.com/2009/12/16/atonement-among-the-haudenosaunee/
+- https://m.facebook.com/TheCherokeeNation/photos/on-this-day-in-1810-cherokee-nation-abrogated-its-previous-blood-law-prior-to-th/898392353619877/
+- https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1360&context=nmlr
+- https://teachtnhistory.org/file/23%20Cherokee%20Society.pdf
+- https://digitalcommons.law.ou.edu/cgi/viewcontent.cgi?article=1561&context=ailr
+- https://teachinghistory.org/best-practices/examples-of-historical-thinking/23417
+- https://en.wikipedia.org/wiki/Ghigau
+- https://www.encyclopedia.com/history/news-wires-white-papers-and-books/native-american-law-blood-revenge
+- https://muse.jhu.edu/article/216
+- https://digitalcommons.law.ou.edu/cgi/viewcontent.cgi?article=1440&context=ailr
+- https://en.wikipedia.org/wiki/Blood_Law
+- https://www.tngenweb.org/cessions/cherokee-law.html
+- https://en.wikipedia.org/wiki/Attakullakulla
+- https://enslaved.org/fullStory/16-23-126902/
+- https://www.americanindianmagazine.org/story/demand-blood-cherokee-war-1776
+- https://en.wikipedia.org/wiki/Hanging_Maw
+- http://thejamesscrolls.blogspot.com/2013/10/chota-city-of-refuge-birthplace-of.html
+- https://en.wikipedia.org/wiki/Tagwadihi
+- https://en.wikipedia.org/wiki/Chota_(Cherokee_town
+- https://en.wikipedia.org/wiki/Raven_of_Chota
+- https://www.tennesseeencyclopedia.net/entries/cherokees/
+- http://eoa.auburn.edu/article/h-1553
+- https://encyclopediaofalabama.org/article/green-corn-ceremony/
+- https://turkeycreeknp.com/tag/green-corn-festival/
+- https://www.britannica.com/topic/Muscogee-people
+- https://www.britannica.com/topic/Busk-festival
+- https://en.wikipedia.org/wiki/Green_Corn_Ceremony
+- https://piquashawneeblog.wordpress.com/2017/09/12/piqua-shawnee-green-corn-ceremony/
+- https://en.wikipedia.org/wiki/Murder_Creek_(Alabama
+- https://nativeamericannetroots.net/diary/951
+- https://en.wikipedia.org/wiki/Cherokee
+- https://journals.wichita.edu/index.php/ff/article/download/224/216/302
+- https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-removal/
+- https://www.wcu.edu/library/DigitalCollections/CherokeePhoenix/Vol1/no49/indian-clans-page-2-column-5a.html
+- https://kids.kiddle.co/Cherokee_clans
+- https://www.ebay.com/itm/406418674256
+- https://www.goodminds.com/products/0919645224
+- https://www.loc.gov/item/16027201/
+- https://catalog.hathitrust.org/Record/011203493
+- https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1525/aa.1916.18.3.02a00150
+- https://books.google.com/books/about/The_Constitution_of_the_Five_Nations_Or.html?id=LzkTAAAAYAAJ
+- https://archive.org/details/constitutionoffi00park
+- https://www.amazon.com/constitution-Five-nations-Arthur-Parker/dp/9353972256
+- https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=ha011203493
+- https://catalogplus.libraryweb.org/?section=resource&resourceid=10077888&currentIndex=0&view=fullDetailsDetailsTab
+- https://web.pdx.edu/~caskeym/iroquois_web/html/greatlaw.html:
+- https://www.nps.gov/foma/learn/historyculture/the-massacre.htm
+- https://www.hmdb.org/m.asp?m=127496
+- https://www.visitstaugustine.com/history/resource/fort-matanzas-national-parks-handbook
+- https://www.historyisnowmagazine.com/blog/2023/10/7/the-1565-massacre-at-matanzas-inlet-florida
+- https://fcit.usf.edu/florida/docs/f/frenchcol2.htm
+- https://www.pbs.org/wnet/secrets/blog/city-born-storm-shipwreck-slaughter/
+- https://en.wikipedia.org/wiki/Jean_Ribault
+- https://en.wikipedia.org/wiki/Massacre_at_Matanzas_Inlet
+- https://en.wikipedia.org/wiki/Ren%C3%A9_Goulaine_de_Laudonni%C3%A8re
+- https://en.wikipedia.org/wiki/Fort_Caroline
+- https://en.wikipedia.org/wiki/Alcalde_mayor
+- https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/colonial-administration-spanish
+- https://en.wikipedia.org/wiki/Alberto_Maynez
+- https://www.britannica.com/topic/alcalde
+- https://en.wikipedia.org/wiki/Alcalde
+- https://mytext.cnm.edu/lesson/building-a-royal-colony/
+- https://www.tshaonline.org/handbook/entries/alcalde
+- https://en.wikipedia.org/wiki/Alcalde_Mayor
+- https://open.uapress.arizona.edu/read/northern-new-spain-a-research-guide/section/d972097b-7255-4487-afe7-3140f71195eb
+- https://www.news-bulletin.com/opinion/court-report-from-alcalde-to-magistrate/336105
+- https://salem.lib.virginia.edu/people/nurse.html
+- https://www.ebsco.com/research-starters/history/rebecca-nurse
+- https://historyofmassachusetts.org/the-trial-of-rebecca-nurse/
+- https://salemwitchmuseum.com/locations/rebecca-nurse-homestead/
+- https://salem.lib.virginia.edu/minis/nurse1.html
+- https://salem.lib.virginia.edu/n94.html
+- https://newenglandhistoricalsociety.com/rebecca-nurse-homestead-homage-to-a-victim-of-the-salem-witch-trials/
+- https://www.pattiwigington.com/july-19-1692-rebecca-nurse/
+- https://en.wikipedia.org/wiki/Rebecca_Nurse
+- https://historycollection.com/rebecca-nurse-salem-witch-trials-homestead-history/
+- https://salem.lib.virginia.edu/$u
+- https://en.wikipedia.org/wiki/Giles_Corey
+- https://www.masshist.org/beehiveblog/2021/09/giles-corey-pressed-to-death/
+- https://en.wikipedia.org/wiki/Bridget_Bishop
+- https://en.wikipedia.org/wiki/List_of_people_of_the_Salem_witch_trials
+- https://salem.lib.virginia.edu/people/gilescorey.html
+- https://en.wikipedia.org/wiki/George_Corwin
+- https://en.wikipedia.org/wiki/Martha_Corey
+- https://historycollection.com/giles-corey-more-weight-pressed-to-death-salem-witch-trials/
+- https://famous-trials.com/salem/2041-sal-bcor
+- https://www.ancient-origins.net/history-famous-people/salem-witch-trial-002231
+- https://www.britannica.com/event/Salem-witch-trials
+- https://www.salem.org/salem-witch-trials/
+- https://salemwitchmuseum.com/locations/salem-courthouse-in-1692-site-of/
+- https://www.history.com/articles/salem-witch-trials-justice-legal-legacy
+- https://www.encyclopedia.com/places/united-states-and-canada/us-political-geography/salem-witchcraft-trials-mass-ct-oyer-terminer-1692-1693
+- https://www.lib.uchicago.edu/collex/exhibits/salem-witch-trials-legal-resources/
+- https://en.wikipedia.org/wiki/Nathaniel_Saltonstall
+- https://newenglandhistoricalsociety.com/rules-massachusetts-court-of-oyer-and-terminer/
+- https://www.britannica.com/event/Salem-witch-trials/The-trials
+- https://law.rwu.edu/library/blog/salem-witch-trials
+- https://www.pem.org/blog/behind-the-scenes-of-the-salem-witch-trials-reckoning-and-reclaiming
+- https://salem.lib.virginia.edu/n173.html
+- https://salemwitchmuseum.com/my-account/history-education/
+- http://www.onenewengland.com/article.php?id=282
+- https://en.wikipedia.org/wiki/Salem_witch_trials
+- https://www.witchesmassbay.com/research/timeline-for-salem-witch-hunts/
+- https://en.wikipedia.org/wiki/Elizabeth_Proctor
+- https://streetsofsalem.com/2022/10/18/revenues-and-reparations-in-the-witch-city/
+- https://www.smithsonianmag.com/history/a-brief-history-of-the-salem-witch-trials-175162489/
+- https://www.neh.gov/article/records-salem-witch-trials
+- https://en.wikipedia.org/wiki/Dorothy_Good
+- https://salemwitchmuseum.com/2024/01/17/the-untold-story-of-dorothy-good-salems-youngest-accused-witch/
+- https://historycamp.org/rachel-christ-doane-the-untold-story-of-dorothy-good/
+- https://historicipswich.net/2026/02/22/four-year-old-dorothy-good-is-jailed-for-witchcraft-march-24-1692/
+- https://salemwitchmuseum.com/wp-content/uploads/2024/01/The-Untold-Story-of-Dorothy-Good.pdf
+- https://en.wikipedia.org/wiki/Sarah_Good
+- https://en.wikipedia.org/wiki/Timeline_of_the_Salem_witch_trials
+- https://witchcitywalkingtours.com/dorothy-dorcas-good-arrested-on-charges-of-witchcraft/
+- https://encyclopediavirginia.org/entries/lawes-divine-morall-and-martiall-etc-1612/
+- https://encyclopediavirginia.org/entries/lawes-divine-morall-and-martiall/
+- https://encyclopediavirginia.org/entries/dale-sir-thomas-d-1619/
+- https://en.wikipedia.org/wiki/Dale%27s_Code
+- https://research.colonialwilliamsburg.org/foundation/journal/summer11/death.cfm
+- https://encyclopediavirginia.org/primary-documents/the-summarie-of-the-marshall-lawes-1612/
+- https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/lawes-divine
+- https://en.wikipedia.org/wiki/Dale's_Code
+- https://encyclopediavirginia.org/444hpr-6b6c53136e287d2/
+- https://encyclopediavirginia.org/primary-documents/articles-laws-and-orders-divine-politic-and-martial-for-the-colony-of-virginia-1612/
+- https://law.jrank.org/pages/12308/Lawes-Divine-Foreshadowing-Lawes.html
+- https://research.colonialwilliamsburg.org/Foundation/journal/Winter07/A%20Trewe%20Relation.pdf
+- https://www.virtualjamestown.org/exist/cocoon/jamestown/fha/J1063
+- https://www.bambuspowertraining.dewww.ouramericanrevolution.org/Foundation/journal/Winter07/jamestown.cfm
+- https://research.colonialwilliamsburg.org/Foundation/journal/Winter07/jamestownDiary.cfm
+- https://encyclopediavirginia.org/primary-documents/revenge-upon-the-indians-an-excerpt-from-a-trewe-relacyon-of-the-procedeings-and-ocurrentes-of-momente-which-have-hapned-in-virginia-by-george-percy/
+- https://books.google.com/books/about/George_Percy_s_Trewe_Relacyon.html?id=TdqOswEACAAJ
+- https://www.proquest.com/openview/454f6ed050ad6733a945ae3b1a8ed365/1?pq-origsite=gscholar&cbl=41452
+- http://www.eaglefeather.org/series/Native%20American%20Series/Excerpts%20American%20Holocaust.pdf
+- https://books.google.com/books/about/A_Trewe_Relacyon_of_the_Proceedings_and.html?id=hjM1twAACAAJ
+- https://www.researchgate.net/publication/249988507_Savagery_in_JamestownGeorge_Percy's_'Trewe_Relacyon'_A_Primary_Source_for_the_Jamestown_Settlement_A_New_World_England's_First_View_of_America_Writings_with_Other_Narratives_of_Roanoke_Jamestown_and_t
+- https://html.duckduckgo.com/html/?q=Philip+Ratcliffe+1631+ears+cut+off+Massachusetts
+- https://en.wikipedia.org/wiki/Philip_Ratcliff
+- https://en.wikipedia.org/w/api.php?'+urllib.parse.urlencode({'action':'query','list':'search','srsearch':q,'format':'json','srlimit':8}
+- https://archive.org/advancedsearch.php?q=title%3A%28records+governor+company+massachusetts+bay%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=volume&rows=20&output=json
+- https://archive.org/download/recordsofgoverno01mass/recordsofgoverno01mass_djvu.txt
+- https://archive.org/advancedsearch.php?q=title%3A%28records+colony+new+plymouth%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=volume&rows=30&output=json
+- https://archive.org/download/recordsofcolonyo05newp/recordsofcolonyo05newp_djvu.txt
+- https://www.nps.gov/articles/000/the-unexpected-start-to-metacom-s-war-investigating-the-archeological-remains-of-swansea-at-nockum-hill.htm
+- https://connecticuthistory.org/americas-most-devastating-conflict-king-philips-war/
+- https://www.nps.gov/rowi/learn/historyculture/philipswar.htm
+- https://www.brown.edu/news/2017-02-15/enslavement
+- https://slaveryandjusticereport.brown.edu/sections/slavery-the-slave-trade-and-brown/
+- https://encyclopediavirginia.org/primary-documents/an-act-about-the-casuall-killing-of-slaves-1669/
+- https://archive.org/advancedsearch.php?q=title%3A%28statutes+at+large+virginia%29+AND+creator%3A%28hening%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=volume&rows=30&output=json
+- https://archive.org/download/statutesatlargeb${v}virg/statutesatlargeb${v}virg_djvu.txt
+- https://archive.org/details/recordsofgoverno01mass
+- https://archive.org/details/recordsofcolonyo05newp
+- https://archive.org/details/statutesatlargeb02virg:
+
 ## Sources in hand
+
+- Cherokee Phoenix 18 Feb 1829 'Indian Clans' (WCU transcription): Cherokee clan-revenge rules, primary. 
+- Parker, Constitution of the Five Nations (1916, NYSM Bull. 184) via web.pdx.edu transcription: Great Law arts. 20, 74 (expulsion).
+- NYSED Great Law of Peace unit PDF: Hiawatha condolence tradition.
+- Encyclopedia of Alabama, Green Corn Ceremony (Bowne): crimes except murder forgiven.
+- Encyclopedia.com 'Native American Law: Blood Revenge': compensation in wampum/furs/goods.
 
 ## Gaps researched
 
@@ -58,3 +240,7 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 ## Decisions and defects fixed
 
 ## Log
+
+- 2026-09-27 era 1 (before-1500) DONE: outline rewritten (3 spans: Cherokee law of blood, Haudenosaunee condolence and Great Law, Green Corn forgiveness), state full->thin (no documented person, rules only), progress=researched. Bank: '## Era 1' section + one SEARCHED, NOT FOUND (no named person). Validator 0 errors.
+- 2026-09-27 era 2 (1500s) DONE: thin, researched. Span: the Acoma trial 1599 (justice angle, Oñate as judge), sources from native-nations bank Acoma section. Matanzas left to war/america-world. Validator 0 errors.
+- 2026-09-27 era 3 bank PARTIAL: Jamestown Lawes + Percy, Salem counts, Corey, Rebecca Nurse (SWP 94), Dorothy Good. WebSearch hit a session limit mid-era.

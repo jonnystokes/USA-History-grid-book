@@ -12,23 +12,36 @@
 Editor's in-development note — not part of the final book; the parser strips it.
 <!-- /hb-note -->
 
-<!-- hb-time:start id="before-1500" order="01" chapter="crime-justice" label="Before 1500" state="full" progress="seed" -->
+<!-- hb-time:start id="before-1500" order="01" chapter="crime-justice" label="Before 1500" state="thin" progress="researched" -->
 ## Before 1500
 <!-- hb-zoom level="era" -->
-Justice among Native nations generally aimed at repair rather than punishment: making the injured family whole.
+No nation here had police, prisons or written laws before 1500. When someone killed or stole, the families and clans of the two people settled it. In many nations the dead person's relatives could take a life in return, or accept wampum (strings of shell beads), furs or other goods instead. The nations kept their rules in memory and in ceremony. Everything known about those rules comes from their own oral traditions and from accounts written down after 1600, so no one can say exactly how any of them worked in a given year before 1500.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Restitution and banishment" -->
-Restitution; clan responsibility for a member's acts; councils hearing disputes; banishment as a serious penalty.
+<!-- hb-zoom level="span" label="The Cherokee law of blood" -->
+Among the Cherokee, a killing was a matter between two clans. A clan was a large family group traced through the mother, and there were seven of them. The Cherokee Nation's own newspaper, the *Cherokee Phoenix*, set down the old rules in 1829. The whole nation "had nothing to do with murder." The dead person's clan had the duty to take a life in return. If the killer ran away, his brother or nearest relative could be killed in his place. Any killing counted as murder, even an accident. In a council about twenty years before 1829, Cherokee leaders ended clan revenge and made murder a crime against the nation.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Condolence and the Great Law" -->
+The Haudenosaunee are five nations in what is now New York: the Mohawk, Oneida, Onondaga, Cayuga and Seneca. Their tradition says the five nations were once locked in killings and revenge. A man named Hiawatha, whose daughters had been murdered, strung shells into wampum and used them to speak words of comfort instead of calling for revenge. Those words of condolence became part of their Great Law of Peace. The Great Law was spoken aloud for generations and first printed in English in 1916. In that version, a chief who committed murder lost his title and was sent out of the five nations' land for good. An outsider adopted into a nation who did wrong got a warning first. A second offense meant being driven out.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Forgiveness at the Green Corn" -->
+The Muscogee (Creek) and other nations of the Southeast held a Green Corn Ceremony each midsummer, when the first corn ripened. People fasted, then relit a sacred fire in the town square. At that time the towns forgave every crime except murder. Traders and travelers wrote down the ceremony in the 1700s.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
-<!-- hb-time:start id="1500s" order="02" chapter="crime-justice" label="The 1500s" state="thin" progress="seed" -->
+<!-- hb-time:start id="1500s" order="02" chapter="crime-justice" label="The 1500s" state="thin" progress="researched" -->
 ## The 1500s
 <!-- hb-zoom level="era" -->
-A thin era: colonial law here is military and religious, applied in a few small outposts.
+European law reached this land in the 1500s only at a few Spanish outposts, St. Augustine in Florida from 1565 and New Mexico from 1598. There were no sheriffs, jails or juries. In a Spanish colony the same officials governed the settlers, commanded the soldiers and judged the cases. A local official called an alcalde heard most crimes, and a person could appeal to the governor. Everywhere else, the Native nations kept their own laws.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Military and mission justice" -->
-Spanish military justice in Florida and New Mexico; punishment of Native people under mission rule.
+<!-- hb-zoom level="span" label="The Acoma trial, 1599" -->
+In February 1599 Juan de Oñate, the governor of New Mexico, put about 500 Acoma people on trial. His soldiers had attacked and burned their town, Acoma Pueblo, the month before, after Acoma men killed eleven or twelve Spanish soldiers. Oñate had ordered the attack, and Oñate was also the judge. He named a Spanish officer to defend the prisoners. Acoma witnesses said many of them had been working in their fields during the first fight.
+- The sentence: every man over 25 was to have one foot cut off and to serve twenty years. Serving meant working for Spanish colonists with no pay and no right to leave.
+- Boys from 12 to 25 and women and girls over 12 were to serve twenty years.
+- Children under 12 were taken from their families and given to Catholic priests. About 60 or 70 Acoma girls were sent to convents in Mexico. As far as any record shows, none came home.
+- Two Hopi men had their right hands cut off and were sent home to tell their people.
+- Reporters and the Acoma people's own history give 24 as the number of men whose feet were cut. Two historians who studied the Spanish papers, Marc Simmons and John Kessell, say the record does not show whether the cutting was carried out. The record gives the order. It does not say how it was done.
+- Oñate himself was tried in Mexico City years later (see the 1600s).
+Shared with: `native-nations` (lead: the attack, the dead and Acoma's memory) · `work-workers` (the twenty years of forced labor).
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
