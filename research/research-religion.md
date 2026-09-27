@@ -250,6 +250,85 @@ later agent does not undo this:
   Christian. Do not supply a motive.
 - **Slug:** `dona-maria-melendez` — checked against all 1,234 story slugs in `outlines/`; unique.
 
+
+### PATCH 2026-09-27 (T-260a): what the Spanish did after the 1597 Guale killings (actor, acts, count)
+
+The outline's 1597 cell stops at "The Spanish abandoned the northern missions until 1604." That leaves
+the Spanish response out, and the response has a named actor and documented acts. All from the
+leading study, which the bank already cites for the uprising (§2d): J. Michael Francis and Kathleen
+M. Kole, *Murder and Martyrdom in Spanish Florida: Don Juan and the Guale Uprising of 1597*,
+Anthropological Papers of the American Museum of Natural History no. 95 (2011), full text
+https://digitallibrary.amnh.org/server/api/core/bitstreams/de77818d-bf79-47e2-ae2c-fa3c18e6f281/content
+(downloaded and read as text 2026-09-27; its own "Timeline," pp. 6-7, and chapter 3, pp. 45-47).
+
+- **Who acted:** Gonzalo Méndez de Canzo, governor of Florida, who had taken office at St Augustine
+  on 2 June 1597. He led the expedition himself, with Sergeant Major Alonso Díaz under him.
+- **What the Spanish did, dated (the study's timeline):**
+  - 27 October 1597: Méndez reached Ospo; some people there shot arrows at his party; "He burns the
+    village and its storehouses."
+  - 2 November 1597: "Méndez burns the village of Sapala and its storehouses."
+  - 4 November 1597: "Méndez orders all the houses at Tolomato burned."
+  - 6 November 1597: at Asao and Talaje, "Díaz burns and destroys all of the bohíos and
+    storehouses." (A *bohío* is a house.) When Díaz entered Asao he found "the storehouses filled
+    with maize and other goods."
+  - The study's narrative: "unable to secure a single captive, the governor ordered his men to burn
+    the buildings still standing in each village and destroy all the maize fields and other crops."
+    The expedition lasted about ten days in Guale country (the study's Table 5 is titled
+    "Gonzalo Méndez de Canzo's 1597 Punitive Expedition to Guale"), and Méndez was back in St
+    Augustine on 16 November 1597.
+- **No count of Guale dead from the 1597 expedition** appears in the study's timeline or narrative:
+  the governor's own complaint was that he could not capture anyone. Do not write that Guale people
+  were killed on this expedition, and do not write that none were. Say the record describes burning,
+  not a count of dead.
+- **The one execution.** In July 1598 Méndez came back from negotiations at Tolomato with seven
+  young Guale captives ("seven young Guale boys," in the study's words), among them **Lucas**, son
+  of the cacique of Tupiqui, don Felipe. On 27 July 1598 Lucas "is interrogated again, this time under
+  threat of torture" and confessed to being present when Fray Blas Rodríguez was killed. He was
+  sentenced to death on 28 July, and **hanged at St Augustine on 29 July 1598**, "the only Indian
+  officially charged and punished for participating in the uprising." The other six captives were
+  "distributed as personal servants among Spanish officials." Only two of the seven witnesses named
+  don Juanillo at all, and neither said he alone ordered the killings.
+- **The five friars killed** (study, timeline and chapter lists): Pedro de Corpa (Tolomato), Blas
+  Rodríguez (Tupiqui), Miguel de Auñón and the lay brother Antonio de Badajoz (Guale), and Francisco
+  de Beráscola (Asao) (the study's Map 1 places each at his mission). The study counts Badajoz among
+  the five although he was a lay brother, not a priest. A sixth, **Francisco de Ávila** (Talapo), was held captive and released in 1598. He refused to
+  testify and left Florida for Cuba.
+- **After 1598.** The study says most scholars have written that the governor kept burning villages
+  and fields until the Guale retreated inland, and it questions that account: from early 1600 into
+  1601 Méndez negotiated separate peace accords with Guale chiefs. Record both. On 23 February
+  1598 Méndez reported that 22 caciques had come to St Augustine to pledge loyalty.
+- **Why this matters for the cell:** it names the actor for the harm done to the Guale, gives what
+  was burned, and gives the one death sentence, with the torture threat under which the confession
+  was taken. The five friars' deaths are already in the cell. The Spanish acts must sit beside them.
+
+### PATCH 2026-09-27 (T-260a): Matanzas, 1565, French Protestants killed for refusing to give up their faith (pointer, not a retelling)
+
+The religious killing of the 1500s on this land is told in full in `war` (`outlines/war.md:55-60`,
+`research/research-war.md` §2.4, sourced to NPS Fort Matanzas,
+https://www.nps.gov/foma/learn/historyculture/the_massacre.htm ). In that telling: Pedro Menéndez
+de Avilés told about 127 shipwrecked French Huguenots (French Protestants) who had surrendered to give
+up their Protestant faith; 111 were killed; about two weeks later Jean Ribault and his men
+surrendered, refused the same demand, and 134 were killed. **`war` leads. This chapter may name it in
+one sentence as the first killing over religion between Europeans in what became the United States,
+with the numbers `war` gives, and hand off.** Do not retell it here.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260a): why did the Tocobaga kill Luis Cáncer in 1549, and how did he die?
+Sources checked: Florida Historical Society, "Luis Cancer de Barbastro Killed near Tampa Bay"
+(https://myfloridahistory.org/date-in-history/june-26-1549/luis-cancer-de-barbastro-killed-near-tampa-bay ):
+he "went ashore to greet a group of Indians and was soon killed," no reason given. *Catholic
+Encyclopedia* (1908), "Luis Cancer de Barbastro" (https://www.newadvent.org/cathen/03244b.htm ):
+their interpreter, a Christian Native woman it calls "Magdalen," "betrayed them," and "the three
+priests were killed by the Indians." That source is a church encyclopedia written for a Catholic
+readership and names no cause beyond the interpreter. Secondary retellings (Wikipedia) add that the
+Narváez (1528) and Soto (1539) expeditions had fought the Tocobaga and their neighbours and that
+Magdalena had been captured by Soto's men in 1539. No institutional source reached here states that
+those earlier attacks were the Tocobaga's reason. The two sources that were reached disagree on
+the number killed with him (the FHS names only Cáncer. The *Catholic Encyclopedia* says three priests).
+How the prose can say it: "The Tocobaga left no account of why they killed him. Spanish soldiers under
+Pánfilo de Narváez and Hernando de Soto had already come through their country." (The second sentence
+is safe only in that neutral form, as a dated fact, not as a stated cause. Check `exploration` for the
+Narváez and Soto dates before using it.)
+
 ---
 
 
@@ -425,6 +504,9 @@ and the Middle Tennessee State University First Amendment Encyclopedia
     only the aggregate "four Quakers between 1659 and 1661." **Do not print his name or that date
     until a later agent sources it.** The outline states four, names the three that are sourced, and
     says the fourth is not named here.
+    **CORRECTION NOTE 2026-09-27 (T-260a): now sourced. William Leddra, hanged 14 March 1661, from
+    the title page of Bishop's *New England Judged, Second Part* (1667); and the reprieve year is 1659.
+    See the PATCH on the Quakers at the end of era 3.**
 - **Dyer's own path.** She first got into trouble with Massachusetts for supporting Anne Hutchinson,
   and she and her family were forced to move to Rhode Island in 1638. She became a Quaker in England
   in the 1650s, came back to New England, and was arrested and banished three times for spreading
@@ -607,6 +689,241 @@ transcriptions of the trial record).
   worship as they chose put a woman out of it for worshipping as she chose, and then put her out of
   the congregation as well.
 - **Movie:** none found. `movie=""`.
+
+
+### PATCH 2026-09-27 (T-260a): the Quakers in Massachusetts: the punishments by name, the governor who passed sentence, and the fourth person hanged
+
+The outline says "Massachusetts treated them much the same way" and names three of four hanged. That
+sentence hides the acts. This patch gives the acts, the actor, the dates, and the fourth name.
+
+**Sources.** (1) Douglas O. Linder, University of Missouri-Kansas City School of Law, *Famous Trials*,
+"The Life, Trials, and Execution of Mary Dyer: A Chronology,"
+https://famous-trials.com/dyer/2488-the-life-trials-and-execution-of-mary-dyer-a-chronology , and "An
+Account," https://famous-trials.com/dyer/2489-the-life-trials-and-execution-of-mary-dyer-an-account
+(both fetched 2026-09-27). (2) George Bishop, *New England Judged, Not by Man's, but the Spirit of the
+Lord* (London, 1661), the Quaker record of these sufferings, full text at
+https://archive.org/details/newenglandjudged00bish (djvu text downloaded 2026-09-27). **Bishop was a
+Quaker writing against the Massachusetts magistrates.** His facts (names, dates, the court's own order,
+which he prints) are usable. His judgements ("bloody," "barbarous") are his, and must not enter the
+prose as the book's. (3) Bishop, *New England Judged. The Second Part* (London, 1667), archive.org
+catalogue record https://archive.org/details/newenglandjudged00bish_1 , whose title page is quoted below.
+
+- **The laws, in order (Linder chronology):** 14 October 1656, "The General Court enacts the first of
+  what will be a series of increasingly draconian anti-Quaker laws." Fall 1657: "The new law authorizes
+  the cutting of one ear off for a first offense, the second ear cut off for a second offense, as well
+  as whipping." (Linder's "Account": for men, one ear for the first return and the second ear for the
+  second. "Whippings were the authorized punishment for female Quakers." A third offence was to be
+  punished by having "their tongues bored through with a hot iron.") 19 October 1658: "banishment upon
+  pain of death." (The bank's §3g already has the October 1658 capital law from Mass Moments. Linder
+  gives the day, 19 October.)
+- **The governor.** **John Endecott**, governor of Massachusetts Bay, passed the death sentences on
+  William Robinson, Marmaduke Stephenson and Mary Dyer in October 1659 and on Dyer again in May 1660,
+  telling them they would "be hanged until you are dead" (Linder, "Account"). In spring 1657 William
+  Dyer got his wife out of the Boston jail by confronting Endecott, on condition she never return
+  (Linder chronology).
+- **Three men who lost their right ears, 16 September 1658 (Bishop, 1661).** **Christopher Holder,
+  John Copeland and John Rous** were sentenced on "the Tenth of the Seventh Month" 1658 (the seventh
+  month in the English calendar of the time is September) to have "each of you [your] Right Ear cut off
+  by the Hangman." On the sixteenth of that month the Marshal's deputy came to the prison with a group
+  of men, shut the door, and had the right ear of each of the three cut off, in private rather than in
+  public. Bishop records their words afterwards: "They that do it Ignorantly, We desire the Lord from
+  our hearts to forgive them." Linder's chronology records Holder's arrest in Boston on 3 June 1658 and
+  says that in 1658 "three of her Quaker friends each had an ear cut off," which fits. **Date caution:**
+  a search summary gives 17 July 1658 for Holder's and Copeland's ears. Bishop, the earliest source,
+  gives 16 September 1658 for all three. Use September 1658.
+  **Plain words for the cell:** an officer of the colony cut off each man's right ear with a knife as
+  the punishment the law set for a Quaker who came back.
+- **Two children ordered sold (Bishop, 1661, printing the General Court's order and signed by its
+  secretary, Edward Rawson).** **Daniel and Provided Southwick**, son and daughter of the Salem Quakers
+  Lawrence and Cassandra Southwick, were fined ten pounds by the courts at Salem and Ipswich for not
+  attending the town's church meetings. They had no property to pay it. The General Court resolved that
+  the county treasurers were "fully Impowered to sell the said Persons to any of the English Nation, as
+  Virginia or Barbados, to Answer the said Fines." Edmond Batter, the county treasurer, looked for a
+  ship's master to carry them to Barbados for sale. The master refused ("will ye offer to make Slaves of
+  so harmless Creatures?"), and Batter sent them home. Bishop dates the parents' banishment sentence 11
+  May 1659. **The sale was ordered and never carried out.** The prose must say both. The title page of
+  Bishop's 1661 book lists "orders of sale for bond-men, and bond-women" among the punishments.
+- **Robinson and Stephenson hanged, 27 October 1659 (Linder chronology).** "Robinson and Stevenson are
+  hanged. As Mary stands on a ladder awaiting her execution, the reprieve is announced." Linder dates
+  Endecott's agreement to the reprieve 26 October 1659. **This settles the year conflict in §3g toward
+  1659:** Linder and the New-York Historical Society (per `research-rights-movements.md`) both give 27
+  October 1659. Mass Moments' "fall 1658" is the outlier. Writers may now give the year 1659.
+- **Mary Dyer hanged, 1 June 1660** (already firm in §3g; Linder agrees).
+- **The fourth person: William Leddra, hanged on Boston Common, 14 March 1661.** The title page of
+  Bishop's second part (London, 1667) reads: "beginning with the sufferings of William Ledra, whom they
+  murthered, and hung upon a tree at Boston, the 14th of the first month, 1660/1. barely for being such
+  a one as is called a Quaker." In the English calendar of the time the year began on 25 March, so "the
+  first month, 1660/1" is March 1661 in today's reckoning. (Archive.org catalogue record, above.) A
+  search summary (Christianity.com and others) also gives 14 March 1661. One other search summary gives
+  24 March. Use 14 March 1661, from the 1667 title page. **§3g's "do not print his name" is lifted:
+  the name and date are now sourced to a primary title page.** The spelling varies: Leddra, Ledra.
+- **The king's order.** Linder: 9 September 1661, "King Charles issues a royal mandate ordering the
+  General Court to stop imposing punishments on Quakers." (§3g's "Charles II ordered the executions
+  stopped in 1661" agrees.)
+
+### PATCH 2026-09-27 (T-260a): the man branded "S.S." in 1630 was almost certainly Alexander Leighton
+
+The outline (from LOC) says "In 1630 one man was sentenced to prison for life, had his property taken,
+his nose slit, one ear cut off, and his forehead branded." LOC does not name him. The 1630 sentence
+matches **Alexander Leighton** (about 1568-1649), a Scottish Presbyterian minister and physician. The
+*Dictionary of National Biography* (1885-1900), "Leighton, Alexander,"
+https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Leighton,_Alexander_(1568-1649) :
+the Court of Star Chamber sentenced him in June 1630, for a book attacking the bishops (*An Appeal to
+the Parliament, or Sion's Plea against the Prelacy*, printed 1628), "to pay 10,000l., to be degraded
+from holy orders, to be then brought to the pillory at Westminster and whipped, to have one of his ears
+cut off, one side of his nose slit, and his face branded with S.S., for sower of sedition." He escaped
+the night before, was recaptured in Bedfordshire, and "on 26 Nov. the first part of his sentence was
+inflicted." The Long Parliament released him in 1640, cancelled the fine and voted him £6,000. EBSCO
+Research Starters (search summary only) names Archbishop William Laud as the man behind the
+prosecution **(unconfirmed: search summary only)**.
+**Use:** the identification is by matching the sentence. LOC does not print his name. A writer may
+write "a Scottish minister named Alexander Leighton" only with this bank line in hand. If in doubt,
+keep LOC's unnamed wording. Note the DNB says "face," LOC "forehead."
+
+### PATCH 2026-09-27 (T-260a): New Mexico, 1656 to 1675: who ordered the kivas raided, and how many of the 47 were killed
+
+Two institutional sources, both fetched with curl 2026-09-27:
+(1) Dennis Zotigh, National Museum of the American Indian, "In 1680, Pueblo Natives in the Southwest
+Launched the First Successful, Although Short-Lived, American Revolution," *Smithsonian Magazine*
+(NMAI blog), 2 September 2026,
+https://www.smithsonianmag.com/blogs/national-museum-american-indian/2026/09/02/pueblo-natives-southwest-launched-first-successful-shortlived-american-revolution/ .
+(2) Will Hansen and Analú María López, Newberry Library, "Tewa Tales of Suspense!,"
+https://www.newberry.org/blog/tewa-tales-of-suspense .
+
+- **The friar who ordered the kivas entered.** Zotigh: "From 1656 to 1665, Franciscan missionary leader
+  **Alonso de Posada** forbid traditional ceremonies by the Pueblo people and ordered the Spanish
+  missionaries to invade the sacred Pueblo kivas (dwellings of spiritual worship), burn their masks and
+  confiscate or destroy their sacred objects."
+- **The governor who ordered the 1675 arrests: Juan Francisco Treviño.** Zotigh: "In 1675 Juan
+  Francisco Treviño, Spanish governor of Santa Fe de Nuevo México, ordered the arrest of 47 medicine
+  men for practicing sorcery. **Four were sentenced to death by hanging; in the end, three were hanged
+  and one committed suicide.** The remaining spiritual leaders were humiliated and publicly whipped
+  before being sent to prison." Newberry agrees word for word on the count ("three of those sentences
+  were carried out, while the fourth prisoner committed suicide").
+- **How the rest got out.** Newberry: "When news of this reached the Pueblo leaders, they sent forces
+  to Santa Fe, where their medicine men were being held as prisoners. Because a large number of Spanish
+  soldiers were away, Governor Treviño was forced to comply with the Pueblo demand for the release of
+  the prisoners. Among those released was Po'Pay." Zotigh: "The Spanish complied."
+- **The friars' own punishments.** Newberry: accusations that missionaries whipped Native people who
+  did not take part in Christian services "were almost certainly true: investigations conducted in New
+  Mexico between 1620 and 1680 mentioned many cases of missionaries severely punishing Native
+  Americans."
+- **1680 count (Zotigh):** "approximately 400 people were killed, including 21 of the 33 Spanish
+  priests in Nuevo México." (`war` gives 401 settlers and 21 friars. `native-nations` leads.)
+- **This replaces the outline's "Some of the forty-seven were executed"** with a count and names the
+  governor, and replaces "the Spanish colonists wanted Pueblo religion gone" with the named friar who
+  ordered it.
+
+### PATCH 2026-09-27 (T-260a): Virginia, 1667: a law that baptism does not free an enslaved person (religion used to defend slavery)
+
+Absent from the whole book as of 2026-09-27 (checked `outlines/` and `research/`). It belongs to this
+chapter's angle: the colony's lawmakers used the question of baptism to protect slavery.
+
+- **The act, September 1667 session of the Virginia General Assembly**, "An act declaring that
+  baptisme of slaves doth not exempt them from bondage." Full text: "WHEREAS some doubts have risen
+  whether children that are slaves by birth, and by the charity and piety of their owners made
+  pertakers of the blessed sacrament of baptisme, should by vertue of their baptisme be made ffree;
+  It is enacted and declared by this grand assembly, and the authority thereof, that the conferring of
+  baptisme doth not alter the condition of the person as to his bondage or ffreedome; that diverse
+  masters, ffreed from this doubt, may more carefully endeavour the propagation of christianity by
+  permitting children, though slaves, or those of greater growth if capable to be admitted to that
+  sacrament." (Encyclopedia Virginia, "An act declaring that baptisme of slaves doth not exempt them
+  from bondage (1667)," https://encyclopediavirginia.org/entries/an-act-declaring-that-baptisme-of-slaves-doth-not-exempt-them-from-bondage-1667/ ,
+  citing Hening, *Statutes at Large* 2:260.)
+- **Plain words for the cell:** some people had argued that a Christian could not be held as a slave.
+  The men of Virginia's assembly settled it the other way in 1667: being baptised did not make an
+  enslaved person free. The act's own stated reason was that enslavers would then be more willing to
+  have enslaved people baptised.
+- **Actors:** the members of the Virginia General Assembly, September 1667. The source names no
+  individual members.
+- **Links forward:** Whitefield's 1740 letter (§4c) answers the same enslavers' worry. Era 6 (§6f)
+  carries religion under slavery.
+- **Shared with `slavery-freedom`** (the law of slavery). Offer it there (TO PARK in the checkpoint).
+
+### PATCH 2026-09-27 (T-260a): Deer Island, 1675 to 1676: Christian Native people from the praying towns confined on an island
+
+The praying towns are in §3b (Eliot, eleven hundred "Praying Indians," fourteen towns) and `education`
+holds them as schools. What was done to their people in King Philip's War is not in the book
+(`native-nations` has the war and its dead, not Deer Island, checked 2026-09-27).
+
+- **Primary account: Daniel Gookin**, a Massachusetts magistrate put in charge of the colony's
+  dealings with the praying Indians, *An Historical Account of the Doings and Sufferings of the
+  Christian Indians in New England, in the Years 1675, 1676, 1677*, printed in *Archaeologia
+  Americana* vol. 2 (American Antiquarian Society, 1836), 423ff., full text
+  https://archive.org/details/archaeologiaamer0000unse (djvu text read 2026-09-27), pp. 473-474, 485.
+- **Who ordered it:** the Massachusetts General Court passed "an order ... forthwith to remove them
+  from their place unto Deer Island," after getting the consent of Samuel Shrimpton of Boston, who held
+  the island, "with this prohibition, that they should not cut down any growing wood." Captain Thomas
+  Prentiss and a party of horsemen brought the Natick people down to the Charles River. Gookin calls
+  what led to the order a "contrivance against the Natick Indians," built on "false informations
+  presented at the same time to the General Court, to stir them up to a sharp procedure against those
+  Indians."
+- **How many, and when:** "about two hundred souls of all sorts" from Natick. "About midnight ... the
+  30th of October, 1675, those poor creatures were shipped in three vessels and carried away to Deer
+  Island." John Eliot met them at the landing and prayed with them. They feared "they should never
+  return more to their habitations, but be transported out of the country." By late December 1675
+  they "were (a little before) increased to be about five hundred souls, by addition of the Punkapog
+  Indians, sent thither upon as little cause as the Naticks were."
+- **Conditions (Gookin, late December 1675):** "they lived chiefly upon clams and shell-fish, that they
+  digged out of the sand, at low water; the Island was bleak and cold, their wigwams poor and mean,
+  their clothes few and thin." (p. 485)
+- **Deaths:** Gookin, in the passages read here, gives no count of deaths on the island. (His line
+  "sundry of them died by sickness" is about the Wamesit people who fled, not Deer Island. Do not
+  move it.) Later secondary accounts say about half died, or "more than half"
+  **(unconfirmed: search summary only)**. The Episcopal bishops of Massachusetts and Western
+  Massachusetts wrote on 16 June 2025 that Deer Island was "the internment site where hundreds of Native
+  people from the 'praying towns' died from exposure and starvation in the winter of 1675-1676"
+  (Episcopal Diocese of Massachusetts, "Commemorating the 350th Anniversary of the Expulsion of Native
+  People to Deer Island," https://www.diomass.org/sites/diomass/files/documents/Preparation%20for%20the%20Sacred%20Journey%20to%20Deer%20Island_0.pdf ,
+  read 2026-09-27). **Write "hundreds died" with that attribution, or say no count survives. Do not
+  write "half."**
+- **Gookin's own framing** is that the island preserved them "from the fury of the people." Record it
+  as his view. It is not a reason to soften the account.
+- **Era 10 link:** the bishops' pilgrimage to Deer Island on 13 October 2025, and their call for a "Day
+  of Remembrance and Lamentation" on 12 October 2025, is dated era-10 material for a later agent.
+- **Shared with `native-nations`** (the war and its dead). TO PARK there (checkpoint).
+
+### PATCH 2026-09-27 (T-260a): whose land the religious colonies were built on
+
+The brief requires the nation named wherever newcomers settle. For this era's colonies:
+- **Boston (Massachusetts Bay, 1630).** The West End Museum, "An Early History of the Shawmut
+  Peninsula," https://thewestendmuseum.org/history/era/new-fields/an-early-history-of-the-shawmut-peninsula/
+  (fetched 2026-09-27): the peninsula "was known in the Algonquian language as 'Mushauwomuk' ('the boat
+  landing place')," in the country of the Massachusett. An epidemic "raged through the region's
+  population between 1616 and 1618; of the approximately 100,000 people, all but 25,000 people were
+  killed." (The museum calls it "believed to have been Hepatitis B." Other accounts name other
+  diseases. Do not name the disease in prose.) John Winthrop's company of about 1,000 arrived in 1630.
+  "Chickataubut agreed to a treaty in 1633 with Winthrop, ceding his rights to the Shawmut Peninsula."
+- **Providence (1636).** Narragansett land, settled with Narragansett permission, the 1638 deed signed
+  by Canonicus and Miantonomi (§3k, already in the outline).
+- **St Mary's City, Maryland (1634).** Maryland State Archives, St. Mary's County chronology,
+  https://msa.maryland.gov/msa/mdmanual/36loc/sm/chron/html/smchron.html : the Calvert party landed 25
+  March 1634, "later purchased land from Yaocomaco tribe, and built 'Fort at St. Mary's City.'" The
+  colony's Catholic worship began on Yaocomaco land. What was paid and what the Yaocomaco understood
+  by the sale are not in this source.
+- **Pennsylvania (1681-1682).** Michael Goode, "Native American-Pennsylvania Relations, 1681-1753,"
+  *Encyclopedia of Greater Philadelphia*,
+  https://philadelphiaencyclopedia.org/essays/native-american-pennsylvania-relations-1681-1753/ : the
+  Lenape (Delaware) lived "on both sides of the Delaware River" when Penn got his charter. "Beginning in
+  1682, the Lenapes ceded lands on the west bank of the Delaware to Penn in exchange for cloth, guns,
+  powder, alcohol, and other trade goods." (The 1737 Walking Purchase, which took "over a thousand
+  square miles" and forced the Lenape leader Nutimus and his people to move, is era 4 and is Penn's
+  sons' deal, not a religious act. `native-nations` leads.)
+- **Nombre de Dios and the Florida missions (era 2):** Timucua and Guale towns, already named in the cell.
+
+### PATCH 2026-09-27 (T-260a): pointers, not retellings (Hutchinson's death; Salem)
+
+- **Why Anne Hutchinson was killed in 1643.** `research/research-rights-movements.md` (patched
+  2026-09-27) carries Britannica's statement that the Dutch governor Willem Kieft's "harsh policies"
+  inflamed the conflict called Kieft's War, and the New York Almanack's account of Kieft's men killing
+  "at least eighty and perhaps up to one hundred and twenty" Munsee people on the night of 25 February
+  1643. The story block's "killed there in a Siwanoy attack" should add one sentence from that bank:
+  the attack came during a war that the Dutch governor's soldiers had begun that February. Britannica
+  (https://www.britannica.com/biography/Anne-Hutchinson , fetched by curl 2026-09-27) gives her death
+  as "August or September 1643, Pelham Bay, New York."
+- **Salem, 1692.** `crime-justice` holds the witch trials (still a seed line with a [VERIFY] on the
+  count as of 2026-09-27). This chapter has not researched the ministers' part (Increase and Cotton
+  Mather), and asserts nothing about it.
 
 ---
 

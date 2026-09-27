@@ -1,12 +1,12 @@
 # CHECKPOINT T-260 | religion | bankcheck | T-260a: eras 1-5
 
-STATUS: IN-FLIGHT
+STATUS: PARTIAL (killed by usage limit; continuation queued)
 VERIFY: python tools/project_state.py --check religion --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/religion.md · research/research-religion.md · workspace/religion.md
 
-NOW:    (agent sets this)
+NOW:    T-260a Unit 1: bank check eras 1-5 (reading slices, 2026-09-27)
 NEXT:   T-260a: Unit 1.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
@@ -46,6 +46,336 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+- `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.
+- `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
+- `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
+
+## SALVAGE 2026-09-27 (T-260a killed by the usage limit, 12:50 reset)
+
+Landed on disk (measured with git diff, committed by the director): see the Log and the
+bank's T-260a PATCH headings. The agent's last NOW line was:
+  T-260a Unit 1: bank check eras 1-5 (reading slices, 2026-09-27)
+**Treat that unit as possibly half-written:** check it against the outline's plan and
+finish it before starting the next. Do not redo earlier units or PATCHes already in the bank.
+Web search hit a quota during the batch; if search fails, use WebFetch or curl.
+
+Pages the killed agent fetched (316; re-read the useful ones rather than searching again):
+- https://www.nps.gov/chcu/learn/historyculture/index.htm
+- https://whc.unesco.org/en/list/198/
+- https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm
+- https://cahokiamounds.org/measuringcahokia/
+- https://www.nps.gov/hocu/learn/historyculture/index.htm
+- https://www.nps.gov/hocu/learn/historyculture/hopewell-mound-group.htm
+- https://www.nps.gov/parkhistory/online_books/hocu/adhi/adhi1c.htm
+- https://whc.unesco.org/en/list/1689/
+- https://www.floridamuseum.ufl.edu/staugustine/timeline/the-church-and-the-missions/
+- https://www.georgiaencyclopedia.org/articles/arts-culture/spanish-missions/
+- https://www.floridamuseum.ufl.edu/histarch/research/st-augustine/menendez/nombre-de-dios/
+- https://myfloridahistory.org/date-in-history/june-26-1549/luis-cancer-de-barbastro-killed-near-tampa-bay
+- https://www.nps.gov/articles/salinas.htm
+- https://www.nps.gov/subjects/travelspanishmissions/san-gabriel-del-yunque-ouinge-and-san-miguel.htm
+- https://home.nps.gov/subjects/travelspanishmissions/san-jose-de-los-jemez-mission-and-giusewa-pueblo-site.htm
+- https://digitalcommons.usf.edu/books/65/
+- https://digitallibrary.amnh.org/handle/2246/6123
+- https://www.nps.gov/casa/learn/historyculture/women.htm
+- https://www.nps.gov/foma/learn/historyculture/women.htm
+- https://www.loc.gov/exhibits/religion/rel01.html
+- https://www.nps.gov/rowi/learn/historyculture/rowi-timeline.htm
+- https://www.paulreverehouse.org/that-old-deluder-satan-puritan-emphasis-on-compulsory-education/
+- https://firstamendment.mtsu.edu/article/old-deluder-satan-act-of-1647/
+- https://hunap.harvard.edu/history
+- https://guides.library.harvard.edu/hua/earlycurriculum
+- https://pastispresent.org/2024/fellowsfinds/to-which-is-added-the-history-structure-and-conservation-of-new-england-primers-at-the-american-antiquarian-society/
+- https://msa.maryland.gov/msa/speccol/sc2200/sc2221/000025/html/intro.html
+- https://msa.maryland.gov/msa/speccol/sc2200/sc2221/000025/html/transactrel1.html
+- https://msa.maryland.gov/msa/speccol/sc2200/sc2221/000025/html/transactrel3.html
+- https://msa.maryland.gov/msa/stagser/s1259/121/7989/html/tolerga.html
+- https://www.loc.gov/exhibits/religion/rel01-2.html
+- https://www.massmoments.org/moment-details/quakers-outlawed-in-plymouth/submoment/quaker-mary-dyer-is-taken-to-the-gallows.html
+- https://www.loc.gov/item/07032951/
+- https://aoc.gov/art/national-statuary-hall-collection/popay
+- https://indianpueblo.org/pueblo-revolt/
+- https://www.nps.gov/parkhistory/online_books/kcc/chap5e.htm
+- https://www.nps.gov/people/roger-williams.htm
+- https://www.nps.gov/rowi/learn/historyculture/index.htm
+- https://www.loc.gov/exhibits/religion/rel02.html
+- https://princetoniana.princeton.edu/history/early-years
+- https://pr.princeton.edu/history/companion/log_college.html
+- https://princetoniana.princeton.edu/history/early-years/log-college
+- https://slavery.princeton.edu/stories/founding-trustees
+- https://library.brown.edu/exhibits/archive/education/founding.html
+- https://ucmweb.rutgers.edu/250/our-history.htm
+- https://president.dartmouth.edu/people/eleazar-wheelock
+- https://www.library.dartmouth.edu/digital/digital-collections/dartmouth-college-charter
+- https://www.georgiaencyclopedia.org/articles/history-archaeology/george-whitefield-1714-1770/
+- https://pennandslaveryproject.archives.upenn.edu/2025/07/10/george-whitefield/
+- http://edwards.yale.edu/research/about-edwards/biography
+- http://edwards.yale.edu/research/major-works/faithful-narrative
+- https://connecticuthistory.org/jonathan-edwards-delivers-famous-sermon/
+- https://www.gutenberg.org/cache/epub/34632/pg34632.txt
+- https://ysrp.yale.edu/jonathan-edwards
+- http://edwards.yale.edu/node/1041
+- https://encyclopediavirginia.org/entries/virginia-statute-for-establishing-religious-freedom-1786/
+- https://www.loc.gov/exhibits/religion/rel05.html
+- https://www.johnwittejr.com/uploads/5/4/6/6/54662393/a67.pdf
+- https://www.loc.gov/exhibits/religion/rel06.html
+- https://malegislature.gov/Laws/Constitution
+- https://rediscovering-black-history.blogs.archives.gov/2021/06/09/richard-allen/
+- https://archive.org/details/lifeexperiencego1880alle
+- https://sites.miamioh.edu/empire/files/2025/11/1786-Allen-Life-Experience-and-Gospel-Labors.pdf
+- https://philadelphiaencyclopedia.org/essays/mother-bethel-ame-church-congregation-and-community-2/
+- https://www.georgiaencyclopedia.org/articles/arts-culture/first-african-baptist-church/
+- https://www.georgiaencyclopedia.org/articles/arts-culture/andrew-bryan-1737-1812/
+- https://www.georgiahistory.com/ghmi_marker_updated/andrew-bryan/
+- https://www.loc.gov/item/ga0018/
+- https://tile.loc.gov/storage-services/master/pnp/habshaer/ga/ga0000/ga0018/data/ga0018data.pdf
+- https://www.georgiaencyclopedia.org/articles/arts-culture/springfield-baptist-church/
+- https://archives.delaware.gov/delaware-historical-markers/absalom-jones/
+- https://exhibits.episcopalarchives.org/s/church-awakens/page/jones
+- https://www.academia.edu/3006381/Murder_and_Martyrdom_in_Spanish_Florida_Don_Juan_and_the_Guale_Uprising_of_1597_With_J_Michael_Francis_
+- https://digitallibrary.amnh.org/server/api/core/bitstreams/de77818d-bf79-47e2-ae2c-fa3c18e6f281/content
+- https://www.facingsouth.org/1984/11/gualean-revolt-1597-anti-colonialism-old-south
+- https://www.academia.edu/figures/1383720/figure-9-map-names-and-approximate-locations-of-the-guale
+- https://military-history.fandom.com/wiki/Gonzalo_M%C3%A9ndez_de_Can%C3%A7o
+- https://en.wikipedia.org/wiki/Pedro_de_Ibarra
+- https://en.wikipedia.org/wiki/Gonzalo_M%C3%A9ndez_de_Can%C3%A7o
+- https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_Arg%C3%BCelles
+- https://www.executedtoday.com/2017/07/29/1598-lucas-waterboarded-guale/
+- https://www.nps.gov/foma/learn/historyculture/the_massacre.htm
+- https://www.tandfonline.com/doi/pdf/10.1080/10609164.2026.2629185
+- https://en.wikipedia.org/wiki/Luis_C%C3%A1ncer
+- https://en.wikipedia.org/wiki/Tocobaga_tribe
+- https://aleteia.org/2022/08/31/fray-luis-de-cancer-the-proto-martyr-of-florida/
+- https://en.wikipedia.org/wiki/Tocobaga
+- https://en.wikipedia.org/wiki/Martyrs_of_La_Florida
+- https://www.newadvent.org/cathen/03244b.htm
+- https://martyrsoflafloridamissions.org/martyrs-additional-information
+- https://www.britannica.com/biography/Mary-Dyer
+- https://mises.org/mises-daily/last-american-martyr
+- https://www.awesomestories.com/media/user/54a8d498a4.pdf
+- https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16267
+- https://famous-trials.com/dyer/2473-mary-dyer-the-quaker-martyr-by-horatio-rogers
+- https://www.christianity.com/church/church-history/timeline/1601-1700/william-leddra-executed-for-quakerism-11630133.html
+- https://en.wikipedia.org/wiki/Wenlock_Christison
+- https://en.wikipedia.org/wiki/List_of_people_executed_in_Massachusetts
+- https://www.lewrockwell.com/2007/03/murray-n-rothbard/the-last-american-martyr/
+- https://youthquakenow.com/statue-of-mary-dyer/
+- https://famous-trials.com/dyer
+- https://famous-trials.com/dyer/2488-the-life-trials-and-execution-of-mary-dyer-a-chronology
+- https://famous-trials.com/dyer/2489-the-life-trials-and-execution-of-mary-dyer-an-account
+- http://gerard-tondu.blogspot.com/2016/01/1658-rampage-against-quakers.html
+- https://en.wikipedia.org/wiki/Christopher_Holder
+- https://spartacus-educational.com/Mary_Dyer.htm
+- https://spartacus-educational.com/REquakers.htm
+- https://en.wikipedia.org/wiki/Boston_martyrs
+- https://en.wikipedia.org/wiki/Richard_Scott_(settler
+- https://en.wikipedia.org/wiki/Humphrey_Norton
+- https://en.wikipedia.org/wiki/Katherine_Marbury_Scott
+- https://www.freedomsentinel.org/articles/some-scraps-of-new-england-history-the-american-sentinel-7-38-pp-300-301/
+- https://listverse.com/2018/05/19/10-horrifying-ways-americas-puritans-persecuted-the-quakers/
+- https://en.wikipedia.org/wiki/History_of_the_Quakers
+- https://imagesofoldhawaii.com/religious-society-of-friends-the-quakers/
+- http://gerard-tondu.blogspot.com/2016/02/1661-massachusetts-in-sights-of-charles.html
+- https://archive.org/advancedsearch.php?q=title%3A%28New+England+Judged%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=20&output=json
+- https://archive.org/metadata/newenglandjudged00bish/files
+- https://archive.org/download/newenglandjudged00bish/newenglandjudged00bish_djvu.txt
+- https://en.wikipedia.org/wiki/1630
+- https://www.ebsco.com/research-starters/biography/alexander-leighton/
+- https://en.wikipedia.org/wiki/1630_in_literature
+- https://en.wikipedia.org/wiki/1630s_in_England
+- https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Leighton,_Alexander_(1568-1649
+- https://en.wikipedia.org/wiki/Alexander_Leighton
+- https://www.captivefaith.org/uncategorized/cruel-literary-criticism-in-17th-c-england/
+- http://sites.rootsmagic.com/EDC1/individual.php?p=69226
+- https://www.fairviewbaptistchurch.ca/alexander-leighton/
+- https://www.geni.com/people/Dr-Alexander-Leighton/6000000000390648336
+- https://theclio.com/entry/44108
+- http://secure.nativepartnership.org/site/PageServer?pagename=PWNA_Native_History_pueblorevolts
+- https://www.legendsofamerica.com/na-pueblorevolt/
+- https://www.thecollector.com/pueblo-revolt-native-uprising/
+- https://www.newberry.org/blog/tewa-tales-of-suspense
+- https://www.americanhistorycentral.com/entries/pueblo-revolt/
+- https://www.smithsonianmag.com/blogs/national-museum-american-indian/2026/09/02/pueblo-natives-southwest-launched-first-successful-shortlived-american-revolution/
+- https://en.wikipedia.org/wiki/Pueblo_Revolt
+- https://en.wikipedia.org/wiki/Po%27pay
+- https://www.aaanativearts.com/pueblo-revolt
+- https://encyclopediavirginia.org/entries/an-act-declaring-that-baptisme-of-slaves-doth-not-exempt-them-from-bondage-1667/
+- https://www.worldhistory.org/Anne_Hutchinson/
+- https://goodwingenealogy.fandom.com/wiki/Anne_Hutchinson_(dissident
+- https://familypedia.fandom.com/wiki/Anne_Marbury_(1591-1643
+- https://en.wikipedia.org/wiki/Susanna_Cole
+- https://www.britannica.com/biography/Anne-Hutchinson
+- https://en.wikipedia.org/wiki/Anne_Hutchinson
+- https://en.wikipedia.org/wiki/Wampage
+- https://en.wikipedia.org/wiki/Pound_Ridge_massacre
+- https://en.wikipedia.org/wiki/Kieft%27s_War
+- https://worldhistoryedu.com/anne-hutchinson-the-puritan-spiritual-advisor-and-religious-reformer/
+- https://www.britannica.co
+- https://www.newyorkalmanack.com/2022/07/kiefts-war-mass-murder-on-manhattan/
+- https://theclio.com/entry/24479
+- https://apps.mht.maryland.gov/synthesis/pdf/18ST1-13.pdf
+- https://www.hsmcdigshistory.org/wp-content/uploads/2020/10/st-marys-city-student-guide.pdf
+- https://en.wikipedia.org/wiki/Yaocomico
+- https://en.wikipedia.org/wiki/St._Mary's_City,_Maryland
+- https://en.wikipedia.org/wiki/St._Mary%27s_City,_Maryland
+- https://www.visitstmarysmd.com/about/history/
+- https://msa.maryland.gov/msa/mdmanual/36loc/sm/chron/html/smchron.html
+- https://en.wikipedia.org/wiki/Leonardtown,_Maryland
+- https://libguides.pratt.edu/c.php?g=1088684&p=9380209
+- https://libguides.messiah.edu/history/indigenous
+- https://philadelphiaencyclopedia.org/essays/native-american-pennsylvania-relations-1681-1753/
+- https://whyy.org/articles/we-just-want-to-be-welcomed-back-the-lenape-seek-a-return-home/
+- https://philadelphiaencyclopedia.org/essays/treaty-of-shackamaxon-2/
+- https://collaborativehistory.gse.upenn.edu/stories/original-people-and-their-land-lenape-pre-history-18th-century
+- https://penntreatymuseum.org/history-2/peace-treaty/
+- https://penntreatymuseum.org/
+- http://www.penntreatymuseum.org/treaty.php
+- https://en.wikipedia.org/wiki/Pennsbury_Manor
+- https://thewestendmuseum.org/history/era/new-fields/an-early-history-of-the-shawmut-peninsula/
+- http://gerard-tondu.blogspot.com/2014/11/1630-puritans-found-boston.html
+- https://x.com/amazingmap/status/2039707159231934730
+- https://en.wikipedia.org/wiki/History_of_Boston
+- https://www.boston-discovery-guide.com/puritan-history.html
+- https://www.city-data.com/us-cities/The-Northeast/Boston-History.html
+- https://friendsofthepublicgarden.org/wp-content/uploads/2024/09/Native-Crown-Settler_-The-story-of-the-founding-of-Boston-1.pdf
+- https://bostonspice.com/pages/the-shawmut-peninsula
+- https://heartfelthistory.com/the-naming-of-boston/
+- https://postalmuseum.si.edu/exhibition/indians-at-the-post-office-murals-evangelization/john-eliot-speaks-to-the-natick-indians
+- https://www.bostonharborislands.org/deer-island/
+- https://en.wikipedia.org/wiki/Deer_Island_(Massachusetts
+- https://boshw.us/sign/boston-harbor-islands/
+- https://historicbostons.org/blog-1/deer
+- https://www.diomass.org/sites/diomass/files/documents/Preparation%20for%20the%20Sacred%20Journey%20to%20Deer%20Island_0.pdf
+- https://www.millermicro.com/NPI-Bostonia.html
+- https://en.wikipedia.org/wiki/Praying_town
+- https://en.wikipedia.org/wiki/Praying_Indian
+- https://archive.org/advancedsearch.php?q=title%3A%28doings+sufferings+christian+indians%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=10&output=json
+- https://archive.org/advancedsearch.php?q=Gookin+AND+%28Christian+Indians%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=15&output=json
+- https://archive.org/advancedsearch.php?q=title%3A%28Archaeologia+Americana%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=volume&fl%5B%5D=year&rows=30&output=json
+- https://archive.org/metadata/archaeologiaamer2183amer/files
+- https://archive.org/download/archaeologiaamer2183amer/$f
+- https://archive.org/download/$id/${id}_djvu.txt
+- https://archive.org/details/newenglandjudged00bish
+- https://archive.org/details/newenglandjudged00bish_1
+- https://archive.org/details/archaeologiaamer0000unse
+- https://www.britannica.com/topic/Apalachee
+- https://www.missionsanluis.org/history/
+- https://www.missionsanluis.org/about/history/
+- https://www.floridamuseum.ufl.edu/histarch/research/florida/mission-san-luis/
+- https://www.floridamuseum.ufl.edu/staugustine/timeline/the-english-menace-african-resistance/
+- https://www.missionsanluis.org/timeline/
+- https://www.missionsanluis.org/
+- https://www.missionsanluis.org/$p/
+- https://www.missionsanluis.org/learn/history/
+- https://html.duckduckgo.com/html/?q=1704+Apalachee+missions+destroyed+James+Moore
+- https://www.bing.com/search?q=1704+Apalachee+missions+James+Moore+site%3Anps.gov
+- http://www.w3.org/TR/html4/loose.dtd
+- https://duckduckgo.com/
+- https://en.wikipedia.org/w/api.php?action=query&prop=extlinks&ellimit=500&format=json&redirects=1&titles=
+- https://archive.org/details/laboringinfields00mila
+- https://archive.org/details/southernfrontier0000cran
+- https://archive.org/details/indianslavetrade00gall
+- https://archive.org/details/governorshipofsp0000tepa
+- https://archive.org/details/anglospanishriva0000wrig
+- https://archive.org/details/historysouthcar00mccrgoog
+- https://archive.org/details/historysouthcar00mccrgoog/page/n352
+- https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Apalachee+massacre&library=OLBP
+- https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Apalachee+massacre
+- https://ftl.toolforge.org/cgi-bin/ftl?st=wp&su=Apalachee+massacre&library=0CHOOSE0
+- https://books.google.com/books?id=_rcFu4KjwVAC&q=%22Queen+Anne's+War%22+Carolina&pg=PA42
+- https://hdl.handle.net/2027%2Fmdp.39015051125113
+- https://archive.org/download/historysouthcar00mccrgoog/historysouthcar00mccrgoog_djvu.txt
+- https://www.loc.gov/exhibits/religion/$p.html
+- https://www.loc.gov/exhibits/religion/{p}.html'],capture_output=True
+- https://ohiohistorycentral.org/w/Gnadenhutten_Massacre
+- http://www.trumpetintheland.com/
+- http://www.oac.state.oh.us/
+- http://www.oocities.org/southbeach/cove/8286/harrison.html
+- http://www.ohiohistorycentral.org/w/Gnadenhutten
+- http://traveltusc.com/files/gene/gnaden.pdf
+- https://web.archive.org/web/20130121011231/http://traveltusc.com/files/gene/gnaden.pdf
+- https://archive.org/details/atlantic23bostuoft/page/94
+- https://npgallery.nps.gov/NRHP
+- https://journals.psu.edu/wph/article/download/60205/60154
+- https://patch.com/pennsylvania/bethlehem/guest-minister-reminds-moravians-of-pacifist-roots
+- https://ohiomemory.ohiohistory.org/archives/2686
+- https://www.timesreporter.com/news/20170312/event-marks-massacre-of-moravian-delaware-indians-in-gnaden
+- https://thebargainhunter.com/news/features/gnadenhutten-remembrance-day-observed-in-the-village
+- http://freepages.genealogy.rootsweb.com/~henryhowesbook/tuscarawas.html
+- https://www.ottawaherald.com/news/20200306/munsee-tribe-remembers-historic-massacre
+- https://thebargainhunter.com/news/features/day-of-remembrance-highlights-moravian-delaware-perspective
+- https://ohiomemory.org/digital/collection/p267401coll34/id/9305/
+- https://ohiomemory.org/digital/collection/p267401coll34/id/9296/
+- https://books.google.com/books?id=23upEv7zzkUC&dq=The+Succession+of+Head+Chiefs+and+the+Delaware+Culture+of+Consent&pg=PA31
+- https://id.loc.gov/authorities/sh95001558
+- https://ohiohistorycentral.org/w/Gnadenhutten
+- https://journals.psu.edu/
+- https://journals.psu.edu/wph/article/download/60205/60154',headers={'User-Agent':'Mozilla/5.0'}
+- http://freepages.genealogy
+- http://ohp.parks.ca.gov/default.asp?page_id=21478
+- https://web.archive.org/web/20050711080146/http://ohp.parks.ca.gov/default.asp?page_id=21478
+- https://www.academia.edu/28752601
+- https://web.archive.org/web/20180427234836/http://www.academia.edu/28752601/With_and_Without_an_Empire_Financing_for_California_Missions_Before_and_After_1810
+- https://web.archive.org/web/20161013055315/http://picturethis.museumca.org/timeline/early-california-pre-1769-1840s/russian-presence/info
+- http://cogweb.ucla.edu/Chumash/McWilliams.html
+- https://web.archive.org/web/20151011183332/http://cogweb.ucla.edu/Chumash/McWilliams.html
+- https://www.academia.edu/36043657
+- https://web.archive.org/web/20180427234836/http://www.academia.edu/36043657/Beyond_Slavery_The_Institutional_Status_of_Mission_Indians
+- https://web.archive.org/web/20170525082647/http://cogweb.ucla.edu/Chumash/McWilliams.html
+- https://muse.jhu.edu/article/224684
+- https://pubmed.ncbi.nlm.nih.gov/19256092
+- https://web.archive.org/web/20090828124501/http://www.cnga.org/
+- http://www.santabarbaraca.gov/gov/depts/parksrec/parks/features/views/missionhistorical.asp
+- https://web.archive.org/web/20170905094801/http://www.santabarbaraca.gov/gov/depts/parksrec/parks/features/views/missionhistorical.asp
+- https://web.archive.org/web/20150924070713/http://www.history.com/this-day-in-history/drake-claims-california-for-england
+- https://web.archive.org/web/20160325183051/https://www.nytimes.com/books/first/k/kelsey-drake.html
+- https://archive.org/details/beringrussiandis0000fros
+- https://web.archive.org/web/20151222090906/https://www.commonwealmagazine.org/hungry-souls
+- https://lacounty.gov/government/about-la-county/history/
+- https://web.archive.org/web/20150222084903/http://www.californiamissionstudies.com/Publications/Boletin_Contents.html
+- https://archive.org/details/landsofpromisede00rose
+- https://archive.org/details/northcarolinahis1937nort
+- https://www.loc.gov/collections/california-first-person-narratives/articles-and-essays/early-california-history/mexican-california/
+- https://newsroom.ucla.edu/stories/revealing-the-history-of-genocide-against-californias-native-americans
+- https://archive.org/details/csth_00002
+- https://web.archive.org/web/20150927024347/http://www.catholic-sf.org/ns.php?newsid=22&id=63691
+- https://web.archive.org/web/20131017085109/http://www.serraclubofbethlehem.org/serra-4.htm
+- https://web.archive.org/web/20150622154642/http://www.serra.org/
+- https://trove.nla.gov.au/people/1081869
+- https://web.archive.org/web/20170111061450/http://www.winepros.org/wine101/history.htm
+- https://archive.org/details/intoweststoryofi00nuge
+- https://archive.org/details/junperoserrail00dene
+- https://web.archive.org/web/20150927110714/http://www.missionscalifornia.com/gallery/gal_interior-father-serras-church.html
+- https://web.archive.org/web/20191127055954/https://www.sbmal.org/
+- https://web.archive.org/web/20120419092943/http://common-place.org/vol-05/no-02/hackel/index.shtml
+- https://web.archive.org/web/20131102021448/http://www.mchsmuseum.com/carmelmission.html
+- https://web.archive.org/web/20161110043854/http://www.montereyherald.com/article/NF/20150401/NEWS/150409963
+- https://web.archive.org/web/20170927000128/https://www.ncronline.org/blogs/faith-and-justice/junipero-serra-saint-or-not
+- https://web.archive.org/web/20170324185823/http://www.californiafrontier.net/who-was-junipero-serra/
+- https://archive.org/details/nativeamericanen0000prit
+- https://web.archive.org/web/20180404134734/http://www.mallorcadiario.com/la-vida-de-fray-junipero-serra-en-una-pelicula-de-animacion
+- https://web.archive.org/web/20140628170236/http://newadvent.org/cathen/13730b.htm
+- https://web.archive.org/web/20180908164915/https://calendar.pacific.edu/event/the_apostle_of_california_father_junipero_serra
+- https://calendar.pacific.edu/event/the_apostle_of_california_father_junipero_serra
+- http://faith.nd.edu/s/1210/faith/interior.aspx?sid=1210&gid=609&calcid=53508&calpgid=61&pgid=15332
+- https://scholarcommons.scu.edu/history/58/
+- https://web.archive.org/web/20200620052048/http://nativenewsonline.net/currents/american-indian-movement-chapter-allies-to-rally-serra-canonization-on-easter-sunday/
+- https://web.archive.org/web/20150206175248/http://www.scanzspac.org/about/index.cfm?loadref=39
+- https://web.archive.org/web/20200616084610/http://missionsanantonio.net/history
+- http://infodome.sdsu.edu/research/guides/calindians/calinddictmp.shtml#m
+- https://web.archive.org/web/20140814200319/https://www.spotlight29.com/about-us/tribal-history.php
+- http://ccdl.libraries.claremont.edu/cdm/landingpage/collection/bba
+- http://ccdl.libraries.claremont.edu/cdm/landingpage/collection/mir
+- http://digital.library.okstate.edu/kappler/Vol1/HTML_files/SES0383.html
+- https://web.archive.org/web/20100726214650/http://infodome.sdsu.edu/research/guides/calindians/calinddictmp.shtml#m
+- https://catalog.archives.gov/id/10644208
+- https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp026-001.pdf
+- https://www.academia.edu/8928897
+- https://web.archive.org/web/20120419092943/http://common-place.org/vol-05/no-02/hackel/index.shtml','https://web.archive.org/web/20050711080146/http://ohp.parks.ca.gov/default.asp?page_id=21478']:
+- https://web.archive.org/web/20050711080146/http://ohp.parks.ca.gov:80/default.asp?page_id=21478
+- https://web.archive.org/web/2012/http://common-place.org/vol-05/no-02/hackel/index-{n}.shtml
+- https://web.archive.org/web/20120419092943/http://common-place.org/vol-05/no-02/hackel/index.shtml',headers={'User-Agent':'Mozilla/5.0'}
+- https://archive.org/advancedsearch.php?q=$q&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=12&output=json
 
 ## Sources in hand
 
@@ -58,3 +388,6 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 ## Decisions and defects fixed
 
 ## Log
+- 2026-09-27 T-260a: era 1 checked, no gap needing research (no harms; land n/a; outline claims all in bank §1b-1d).
+- 2026-09-27 T-260a: era 2 landed in bank (end of ERA 2): PATCH Guale 1597 Spanish reprisal (Méndez de Canzo burned Ospo, Sapala, Tolomato, Asao, Talaje; Lucas hanged 29 Jul 1598 after torture threat; 5 friars named); PATCH pointer to `war` for Matanzas 1565; SEARCHED NOT FOUND on why Tocobaga killed Cáncer. Source: Francis & Kole 2011 AMNH full text (PDF downloaded, read with pypdf).
+- 2026-09-27 T-260a: era 3 landed in bank (end of ERA 3), 7 PATCH headings: Quaker punishments (ear law 1657, Holder/Copeland/Rous right ears 16 Sep 1658, Southwick children ordered sold, Endecott, Robinson+Stephenson 27 Oct 1659, Leddra 14 Mar 1661); Leighton = the 1630 branded man; Posada 1656-65 and Treviño 1675 (3 hanged, 1 suicide, rest whipped); Virginia 1667 baptism act; Deer Island 1675-76 (Gookin); land (Massachusett, Narragansett, Yaocomaco, Lenape); pointers (Hutchinson/Kieft to rights-movements bank; Salem to crime-justice). Correction note added in §3g.
