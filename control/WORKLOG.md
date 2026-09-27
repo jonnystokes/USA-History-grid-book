@@ -2862,3 +2862,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+
+### 2026-09-27 | [LOCAL] T-259b | war: bank check eras 6-10 [BURST of 5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-259-war.md
+VERIFY: python tools/project_state.py --check war --stage research
