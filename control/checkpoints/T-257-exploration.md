@@ -1,13 +1,13 @@
 # CHECKPOINT T-257 | exploration | full | T-257: eras 1-10
 
-STATUS: PARTIAL (killed by usage limit; continuation queued)
+STATUS: T-257r landed (director verified: PASS  exploration / research)
 VERIFY: python tools/project_state.py --check exploration --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/exploration.md · research/research-exploration.md · workspace/exploration.md
 
-NOW:    Unit 1, era 06 (1800-1850), the big one: L&C, Sacagawea, York, Pike, Colter, Glass, Jedediah Smith, Bridger, Fremont, Wilkes. 5 candidates here.
-NEXT:   T-257: Unit 1.
+NOW:    done. All ten eras progress=researched (checked against real state).
+NEXT:   director: commit, file TO PARK items.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -27,9 +27,9 @@ FAIL  exploration / research
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | research eras 1-10, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | todo | |
-| 2 | bank check, eras 1-10 | todo | |
-| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | todo | |
+| 1 | research eras 1-10, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | eras 01-05 T-257, 06-10 T-257r; all 10 progress=researched; 0 candidates |
+| 2 | bank check, eras 1-10 | done | PATCHes for Fort Caroline/Matanzas and Onate (era 02); bank-check summary appended at end of bank |
+| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | done | validator 0 errors; research check PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -46,6 +46,13 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+- `slavery-freedom`, era 06: York. Clark whipped him ("gave him a Severe trouncing") and jailed him ("Caleboos") in July 1809; refused his freedom, wanted him hired to a "Severe Master"; freed "sometime after 1815" (NPS https://www.nps.gov/people/york.htm); Wikipedia "York (explorer)" citing Clark's letters (ed. Holmberg 2002). Full text: research-exploration.md ## 06, York.
+- `native-nations`, era 06: Fremont's Sacramento River massacre, 5 Apr 1846 (Wintu; 120-175 per expedition members, 600-700 plus 200+ in the water per Tustin; Carson: "a perfect butchery"); Klamath Lake massacre 12 May 1846 (Dokdokwas, at least 14 killed); Wikipedia "Sacramento River massacre", "Klamath Lake massacre". Full text: research-exploration.md ## 06, Fremont.
+- `war`, era 06: Arikara fight 2 June 1823 (12 or 13 of Ashley's men killed) and Leavenworth's August 1823 attack (230 soldiers, 750 Lakota/Yankton, ~50 trappers; Missouri Fur Co. men burned a town); Wikipedia "Arikara War". Arikara dead: SEARCHED, NOT FOUND.
+- `america-world` / `war`, era 06: Wilkes at Fiji 1840: Solevu and Tye burned 12 July; Malolo 24-25 July, 74-104 Fijians killed, two villages burned on Wilkes's order ("spare only the women and the children"); Vendovi taken to New York, skull displayed; Drummond's Island 1841 (12 killed, two villages burned); Upolu shelled Feb 1841. Wikipedia "United States Exploring Expedition", "Battle of Malolo".
+- `native-nations` / `science`, era 07: Peary took the Cape York meteorite (1894) from the Inughuit who used it for tools; brought six Inuit to the American Museum of Natural History, Sept 1897; four died of TB by 1898; museum staged a fake burial for Minik and displayed his father Qisuk's skeleton. Wikipedia "Robert Peary", "Minik Wallace".
+- `native-nations` / `war`, era 07: Jim Beckwourth was Chivington's scout before Sand Creek (29 Nov 1864, 70-163 Cheyenne killed per Wikipedia "James Beckwourth"); the Cheyenne then banned him from trading.
+- `rights-movements`, eras 08-09: credit-denied dates: Henson Explorers Club life member 1937 (first African American), medal 1944, Arlington 1988, Hubbard Medal 2000; Katherine Johnson "Colored Computers" office, Glenn's demand 1962, Medal of Freedom 2015; Sally Ride first astronaut known to be LGBTQ (obituary 2012).
 
 ## SALVAGE 2026-09-27 (T-257 killed by the usage limit, 12:50 reset)
 
@@ -176,6 +183,7 @@ Pages the killed agent fetched (117; re-read the useful ones rather than searchi
 - https://en.wikipedia.org/wiki/Sacagawea
 
 ## Sources in hand
+- Era 06: Wikipedia (API plaintext) L&C Expedition, Sacagawea, York (explorer), Zebulon Pike, John Colter, Hugh Glass, Jedediah Smith, Jim Bridger, John C. Fremont, US Exploring Expedition, Charles Wilkes, Battle of Malolo, Louisiana Purchase, William Henry Ashley, Rocky Mountain Rendezvous, Sacramento River massacre, Klamath Lake massacre, Arikara War, Henry Schoolcraft, Etienne Provost; NPS York page; NPS Two Medicine Fight Site; lewis-clark.org 27 Jul 1806 journal (WebFetch); History Colorado 'Among the Eternal Snows'.
 - Era 03-05: LOC Juet journal pdf (Hudson 1609 killings, count 10-12); Wikipedia Hudson, Marquette, Jolliet, La Salle, Bering, Chirikov, Verendrye journey, Portola expedition, James Cook, Daniel Boone, Cumberland Gap, Robert Gray; Canadian Encyclopedia Champlain; MedlinePlus scurvy.
 - NPS White Sands footprints; Kirch 2011 eVols abstract (Hawaii AD 1000-1200); Smithsonian Mag 1021 Norse date; Wikipedia L'Anse aux Meadows, Columbus, Voyages of Columbus, Cabot, Ponce de Leon, Verrazzano, Narvaez expedition, Esteban de Dorantes, Coronado; Verrazzano letter (NHC pdf); Canadian Encyclopedia Cartier; Florida Museum St. Augustine timeline; NPS Coronado NM. Britannica = HTTP 403 always.
 
@@ -188,5 +196,11 @@ Pages the killed agent fetched (117; re-read the useful ones rather than searchi
 ## Decisions and defects fixed
 
 ## Log
+- 2026-09-27 (T-257r) Unit 2 bank check DONE and Unit 3 final: validator 0 errors, --stage research PASS (35 stories, v35 c0 t0, bank 23.7k words vs outline 11.1k). All 10 progress flags researched and match content. hb-note status updated, em dashes/semicolons 0 in outline.
+- 2026-09-27 (T-257r) era 10 DONE. Perishable refreshed to 2026-09-27: ISS continuous since 2 Nov 2000 (to 2030), Curiosity & Perseverance active, Ingenuity ended 18 Jan 2024 after 72 flights, Voyager 1 LECP off 17 Apr 2026 (2 instruments left, ~15.9 bn miles, 1 light-day Nov 2026), Seabed 2030 28.7% (IHO 28 Apr 2026). New: Columbia 2003 (7 named, Linda Ham cancelled imagery request); Artemis II 1-10 Apr 2026 new story artemis-ii-crew (252,756 miles record, heat-shield objection). Correction: Cameron is Canadian. Legacy sections removed from bank; 'Chapter notes' kept at end.
+- 2026-09-27 (T-257r) era 09 DONE. Sputnik 4 Oct 1957, NASA 29 Jul/1 Oct 1958, Shepard 15-min suborbital (Gagarin first), Kennedy 25 May 1961, Glenn 3 orbits, Apollo 1 fire (autopsy: carbon monoxide cardiac arrest), 12 moonwalkers, Challenger (7 named, O-rings, managers ignored warnings). Walsh: fish sighting now doubted (correction). Johnson: segregated 'Colored Computers', Glenn demanded her check, Medal of Freedom 2015. Ride: LGBTQ, both inquiry boards. Bluford 1983. Earle 1979 JIM suit 1,250 ft. Ballard: 1977 vents, Navy submarine condition, Titanic 1985. Ballard candidate verified.
+- 2026-09-27 (T-257r) era 08 DONE. Henson/Peary: 4 Inuit named (Ootah, Egingwah, Seegloo, Ooqueah), 19 Inuit in sledge parties, Herbert 1989 30-60 miles short, Cook rival claim, Henson honours 1937/1944/1988. Byrd: 1926 disputed (diary 1996), 1929 flight 28-29 Nov with Balchen/June/McKinley, 1934 CO poisoning, movie With Byrd at the South Pole (1930). Lindbergh 33h30m, Alcock & Brown 1919 correction. Earhart 1932 and 1937 details. Bingham: Arteaga, Lizarraga 1902 charcoal, 40,000 objects, Yale returns 2012. Andrews: 13 July 1923 egg nests, Oviraptor 1995. Candidates Byrd/Bingham/Andrews verified. Added to era 07: Peary took Cape York meteorite 1894 and brought 6 Inuit to NY 1897, 4 died, Minik's father's skeleton displayed (bank PATCH under ## 07).
+- 2026-09-27 (T-257r) era 07 DONE (bank ## 07, outline progress=researched, validator clean). Beckwourth: corrected payment story (Marysville fires, not 'could not sue'), dropped unsourced 'first published mountain-man story', added Sand Creek scout role; era placement 1850 confirmed (clears workspace VERIFY). Powell: Shiloh arm, 10 men, Separation Canyon disappearance (Shivwits vs Mormon accounts, SEARCHED NOT FOUND), movie Ten Who Dared (1960). Surveys: King 1867, Hayden 1871 + Yellowstone 1 Mar 1872 + Tukudika removal (from land-environment bank), Wheeler orders to assess Indians and pick fort sites, USGS 1879. Alaska 1867 ($7.2M, ~58,000 Native people by Seward's count), Henry Allen 1885. New: Jeannette 1879-81 (20 of 33 died), Greely 1881-84 (6 of 25 survived, Pvt Charles B. Henry executed). 1890 census quote via Turner/AHA. Klondike correction (Canada). Legacy '1800s' heading removed from bank. Territories legacy heading still in bank (lines carried into ## 07).
+- 2026-09-27 (T-257r) era 06 DONE (bank ## 06 + outline, progress=researched, validator 0 errors). All 5 candidates verified (Pike, Jedediah Smith, Bridger, Fremont, Wilkes). Hard subjects added: Louisiana Purchase = right to take land by treaty or conquest; Two Medicine fight (Reubin Field stabbed one, Lewis shot one, NPS 2-3 killed); Sacagawea captured 1800 and non-consensual marriage; York whipped and jailed 1809, freed after 1815; Arikara fight 1823 (12-13 killed) and Leavenworth attack; Smith: Mojave 1827 killed 10, Umpqua 1828 killed 15, rope on Umpqua man's neck; Fremont: Sacramento River massacre 5 Apr 1846 (120-175 by his men, 800+ by Tustin), Klamath Lake 12 May 1846 (at least 14), 1848-49 winter 10 dead; Wilkes: Malolo 74-104 Fijians killed, flogging court-martial. Corrections: Bridger/Provost Great Salt Lake; Fremont 'one of the first' at Tahoe; South Pass Robert Stuart 1812; Pike wrong about Cass Lake (Ozaawindib/Schoolcraft 1832); Pikes Peak first recorded climb Edwin James 14 July 1820, Ute name Tava-kaavi. 2 SEARCHED, NOT FOUND. Wikipedia API rate-limits (HTTP 429): helper scratchpad/t257/wp.py, sleep between calls. Legacy '1800s' section still in bank (holds era 07 lines); Wilkes legacy heading removed.
 - 2026-09-27 eras 03-05 DONE (bank + outline, progress=researched). Corrections: La Salle not 'full length'; Hudson set adrift with son + 7; Bering death cause contested (1991 exhumation: heart failure); Portola: Ortega's scouts saw SF Bay. New: Juet journal killings; Champlain killed 2 Haudenosaunee 1609; La Verendrye plate 1743 (era 04 span); Gray 1792 Columbia + killings (20 Chinook at Grays Harbor); Boone: James Boone killed 1773, Sam killed 1775, Sycamore Shoals; Cook killed a man at Kauai, 17 Hawaiians killed 1779. WebSearch hit a session limit at ~11:20; using direct fetch (scratchpad/t257/f.py) for the rest.
 - 2026-09-27 eras 01-02 DONE: bank rebuilt with era headings (## 01 ·, ## 02 ·), legacy lines kept and sourced, corrections added (Norse stay length, Ponce 'first' and death, Columbus belief, St. Augustine 1566 = Timucua flaming arrows per Florida Museum). New hard subjects: Columbus 1495 slave shipment, tribute, Bobadilla report; Verrazzano boy kidnap (his own letter); Cartier kidnap of Donnacona; Coronado Hawikuh, Turk garroted, Cardenas convicted; de Soto carried from war bank. Outline eras 01-02 rewritten, progress=researched. Legacy eras 03-10 sit at the bottom of the bank under 'LEGACY SECTIONS'. Helper scripts in scratchpad/t257/ (f.py fetch+grep, rep.py era replace).

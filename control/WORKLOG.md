@@ -2832,6 +2832,8 @@ RESULT: DONE. PASS  religion / research. measured: stage=RESEARCHED eras=10/10 s
         255032 tokens, 75 tool uses, 10.8 min (opus). Eras 4-5 done (1-3 had landed): Apalachee 1704 (Moore; counts hundreds to 4,300+), John Ury 1741, Stockbridge land, California missions from 1769 (no chapter had them: 85,840 baptisms vs 59,538 deaths, flogging defined), Kumeyaay 1775, Toypurina 1785, Gnadenhutten, Andrew Bryan's congregation whipped. 3 searched-not-found. TO PARK 5 (burst).
 
 ### 2026-09-27 | [LOCAL] T-257r | exploration: continue full research, from era 6 [BURST of 2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-257-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage research
+RESULT: DONE. PASS  exploration / research. measured: stage=RESEARCHED eras=10/10 stories=35 (v35 c0 t0) verify_tags=0 bank=24308w outline=11139w manuscript=0w validator_errors=0
+        462837 tokens, 150 tool uses, 29.4 min (opus). Eras 06-10 researched (06 from scratch), bank check all eras. All 9 candidates verified (35 stories). York, Sacagawea, Fremont's massacres, Beckwourth and Sand Creek, Henson with the four Inuit men, Minik, Columbia. ~15 unsupported firsts corrected. 3 searched-not-found. TO PARK 7 (burst).

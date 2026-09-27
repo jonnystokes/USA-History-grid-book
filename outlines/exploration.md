@@ -3,13 +3,13 @@
 # Chapter 01: Exploration and Discovery
 
 <!-- hb-note -->
-**Status:** SEED — awaiting deep research · *(agent changes to: RESEARCHED <date>)*
-**Angle:** The journeys into the unknown — who first went and found the way: land, sea, poles, deep ocean, space.
-**Keep out:** the crowds who followed (`migration`); arrival from abroad (`immigration`)
+**Status:** RESEARCHED 2026-09-27 (T-257, T-257r)
+**Angle:** The journeys into the unknown: who first went and found the way: land, sea, poles, deep ocean, space.
+**Keep out:** the crowds who followed (`migration`), arrival from abroad (`immigration`)
 **Workspace:** `workspace/exploration.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
 **Research bank:** `research/research-exploration.md`
-**Reference material:** `research/research-exploration.md` (verified bank — **research largely done**) · `_reference/outlines-v1/ch01-exploration-outline.md` (deep v1 outline) · `_reference/manuscript-v1/ch01-exploration/` parts 1–3 (**finished prose, ~9,047 words** — the house-voice example). This chapter is the most complete in the book; the research agent's job is to check, not to rebuild.
-Editor's in-development note — not part of the final book; the parser strips it.
+**Reference material:** `research/research-exploration.md` (verified bank: **research largely done**) · `_reference/outlines-v1/ch01-exploration-outline.md` (deep v1 outline) · `_reference/manuscript-v1/ch01-exploration/` parts 1–3 (**finished prose, ~9,047 words**: the house-voice example). This chapter is the most complete in the book, the research agent's job is to check, not to rebuild.
+Editor's in-development note: not part of the final book, the parser strips it.
 <!-- /hb-note -->
 
 <!-- hb-time:start id="before-1500" order="01" chapter="exploration" label="Before 1500" state="full" progress="researched" -->
@@ -56,7 +56,7 @@ In the 1500s European sailors mapped the Atlantic and Gulf coasts, and a few Spa
 - Shared with: `war` (Mabila and the Tiguex War, lead on the fighting) · `native-nations` (what the entradas did to the nations) · `food-farming` (de Soto's pigs and the seized corn).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="St. Augustine, 1565" -->
-Pedro Menendez de Aviles and about 800 colonists settled at the Timucua town of Seloy in September 1565 and used Seloy's council house as their first fort. Within months the Timucua were attacking the Spaniards to drive them away. In 1566 Timucua warriors shot flaming arrows at the fort, and the Spaniards moved across the bay to Anastasia Island. The town's growth belongs to `city-building`.
+Pedro Menendez de Aviles and about 800 colonists settled at the Timucua town of Seloy in September 1565 and used Seloy's council house as their first fort. Within months the Timucua were attacking the Spaniards to drive them away. In 1566 Timucua warriors shot flaming arrows at the fort, and the Spaniards moved across the bay to Anastasia Island. The town's growth belongs to `city-building`. That same September Menendez's men destroyed the French settlement at Fort Caroline and killed the Frenchmen who surrendered at Matanzas Inlet, which `war` and `america-world` tell in full.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="christopher-columbus" name="Christopher Columbus" movie="1492: Conquest of Paradise (1992)" kind="famous" status="verified" -->
 ### Christopher Columbus
@@ -159,162 +159,351 @@ The 1783 peace treaty with Britain set the new United States' western border at 
 <!-- hb-story:end slug="daniel-boone" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="exploration" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="exploration" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-The Louisiana Purchase of 1803 doubles the country, and the U.S. government's maps of it are nearly blank — though Native nations lived across all of it and knew it well.
+On 30 April 1803 American diplomats in Paris agreed to pay France $15 million for Louisiana, about 828,000 square miles west of the Mississippi River. The purchase nearly doubled the size of the United States. France controlled only a small part of that land. Native nations lived on almost all of it, so the United States had really bought the right to take it from them by treaty or by war. In the next fifty years Army officers, fur trappers and a Navy squadron crossed and mapped country that American maps had left blank. Native guides showed them the way in many places, and some of these explorers killed the people whose land they crossed.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Mountain men, the sea expedition, and gold" -->
-Mountain men, recruited from Ashley's 1822 newspaper advertisement, trap beaver and in the process find the passes and trails later travelers used; they meet each year at the rendezvous. Exploring also goes to sea with Wilkes's U.S. Exploring Expedition, 1838–1842 (six ships, about 350 men, Pacific islands, the Northwest coast, and the recognition of Antarctica as a continent; the specimens help start the Smithsonian). Gold found in 1848 sends searchers over country no U.S. map had covered.
+<!-- hb-zoom level="span" label="Trappers and the fur trade, 1807 to 1840" -->
+- In 1822 William Ashley and Andrew Henry put an advertisement in a St. Louis newspaper for one hundred "enterprising young men" to go up the Missouri River and trap beaver. They paid $200 a year. The men who answered became known as Ashley's Hundred.
+- On 2 June 1823 Arikara men attacked Ashley's party at their towns on the Missouri, in present-day South Dakota. They killed 12 or 13 of his men (the two counts in the records). In August the Army officer Henry Leavenworth led about 230 soldiers, 750 Lakota and Yankton warriors and 50 trappers against the Arikara towns and fired cannon at them. The fighting belongs to `war`.
+- From 1825 to 1840 trappers met every summer at a "rendezvous" in the mountains of present-day Wyoming, Utah or Idaho to sell furs and buy supplies. Native families came to trade too.
+- In 1824 two groups of trappers reached the Great Salt Lake at about the same time: Jim Bridger's party and a French-Canadian trader, Etienne Provost. The Shoshone and Ute already lived around the lake.
+- In 1832 an Ojibwe guide named Ozaawindib led the Indian agent Henry Rowe Schoolcraft to the real source of the Mississippi River. The Ojibwe called it Elk Lake, and Schoolcraft renamed it Lake Itasca.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="lewis-and-clark" name="Meriwether Lewis and William Clark" movie="" kind="famous" status="verified" -->
+<!-- hb-zoom level="span" label="The first recorded climb of Pikes Peak, 1820" -->
+On 14 July 1820 a 22-year-old naturalist, Edwin James, and two other men from Major Stephen Long's Army expedition reached the top of the mountain now called Pikes Peak. It is the first recorded climb to its top. The Ute call the mountain Tava-kaavi, and their tradition says their ancestors climbed it first. Long's report called the high plains a "Great American Desert."
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="lewis-and-clark" name="Meriwether Lewis and William Clark" movie="The Far Horizons (1955)" kind="famous" status="verified" -->
 ### Meriwether Lewis and William Clark
-1804–1806 — about four dozen people, roughly 8,000 miles from St. Louis to the Pacific and back; Jefferson's orders; the winter at Fort Mandan where Charbonneau and Sacagawea were hired and Jean Baptiste was born; no easy water route; Fort Clatsop in 1805; the winter-camp vote that included York and Sacagawea; one death from illness (Floyd) and one deadly clash on the return.
+> **Who:** two Army officers sent by President Thomas Jefferson to cross the Louisiana Purchase to the Pacific. · **When and where:** May 1804 to September 1806, from near St. Louis up the Missouri River, over the Rocky Mountains and down the Columbia River to the Pacific coast of Oregon.
+> **Movie:** The Far Horizons (1955)
+- Jefferson ordered them to find "the most direct & practicable water communication across this continent for the purpose of commerce." They were also to tell the nations they met that their land now belonged to the United States. They handed out silver peace medals with Jefferson's face on them.
+- As many as 45 people left Camp Dubois, Illinois, on 14 May 1804. They included officers, soldiers, volunteers and York, a man Clark held as a slave.
+- Sergeant Charles Floyd died on 20 August 1804, probably of appendicitis. He was the only member of the party to die.
+- On 25 September 1804 Lakota chiefs, among them Black Buffalo, demanded gifts before the boats could pass. Lewis ordered his men to aim their guns and Clark drew his sword. Black Buffalo ordered his warriors back, and nobody was hurt.
+- The party spent the winter of 1804 to 1805 at Fort Mandan, beside the Mandan and Hidatsa towns in present-day North Dakota. There the captains hired the trader Toussaint Charbonneau and Sacagawea.
+- They crossed the Continental Divide at Lemhi Pass and the Bitterroot Mountains at Lolo Pass. There was no water route across the continent. A Native trail linked the Missouri to the Columbia.
+- They first saw the Pacific on 7 November 1805. On 24 November Clark wrote down every member's choice for a winter camp, including York's and Sacagawea's. They built Fort Clatsop near present-day Astoria, Oregon.
+- On the way home, at dawn on 27 July 1806, Blackfeet men in Lewis's camp on the Two Medicine River took the party's guns and tried to drive off its horses. Reubin Field stabbed one man to death, and Lewis shot another in the belly. The National Park Service says two or three Blackfeet were killed. Lewis left a peace medal around a dead man's neck "that they might be informed who we were."
+- They reached St. Louis on 23 September 1806. They had met more than 70 Native nations and drawn about 140 maps.
+- Every man except York received double pay and 320 acres of land.
+- Shared with: `native-nations` (the nations they met, and the land claims that followed) · `science` (the plants and animals they recorded) · `slavery-freedom` (York).
 <!-- hb-story:end slug="lewis-and-clark" -->
 <!-- hb-story:start slug="sacagawea" name="Sacagawea" movie="" kind="famous" status="verified" -->
 ### Sacagawea
-A young Shoshone woman who interpreted and guided while carrying an infant the whole way; her brother Cameahwait supplied horses.
+> **Who:** a Lemhi Shoshone woman who interpreted for Lewis and Clark while carrying her baby son. · **When and where:** 1805 to 1806, from Fort Mandan in North Dakota to the Pacific and back.
+- She was born about 1788 near present-day Salmon, Idaho. In 1800, when she was about 12, Hidatsa raiders captured her and other children. The raid killed four Shoshone men, four women and several boys.
+- At about 13 she was made the wife of Toussaint Charbonneau, a French-Canadian trader, without her consent. Accounts say he bought her from the Hidatsa or won her gambling.
+- Her son, Jean Baptiste, was born at Fort Mandan on 11 February 1805. She carried him on the whole journey.
+- In August 1805 the party met a Shoshone band whose leader, Cameahwait, turned out to be her brother. She interpreted, and the Shoshone traded horses to the party for the mountain crossing.
+- Historians say she was mainly an interpreter, not the expedition's guide. On the way home, in July 1806, she did show Clark the pass now called Bozeman Pass in Montana.
+- A fur-post clerk recorded that "the wife of Charbonneau" died of a fever on 20 December 1812, at a fort in present-day South Dakota. Most historians accept that record. Shoshone and Hidatsa accounts disagree with it.
 <!-- hb-story:end slug="sacagawea" -->
 <!-- hb-story:start slug="york" name="York" movie="" kind="ordinary" status="verified" -->
 ### York
-Clark's enslaved companion on the whole journey; voted at Fort Clatsop.
+> **Who:** a Black man held as a slave by William Clark, and the only enslaved member of the Lewis and Clark expedition. · **When and where:** 1804 to about 1815, the journey to the Pacific, then Kentucky and Missouri.
+- He was born into slavery in Virginia. Clark inherited him in 1799 under his father's will. York had a wife near Louisville, Kentucky, who was held by a different owner.
+- On the journey he hunted with a gun, which enslaved men were rarely allowed to carry. His choice was written down with everyone else's on 24 November 1805.
+- Afterward every other man got double pay and 320 acres. York got nothing and was still Clark's slave.
+- York asked for his freedom, and asked to be hired out or sold near his wife. Clark refused. He wrote that York had "Such a notion about freedom and his emence Services." In 1809 Clark whipped York and had him put in jail.
+- Clark hired him out as a wagon driver in Louisville. The National Park Service says York was freed sometime after 1815. Nobody knows for certain when or how he died.
+- In 2001 President Bill Clinton named York an honorary sergeant in the US Army.
+- Shared with: `slavery-freedom` (lead on York as an enslaved man) · `rights-movements` (credit denied).
 <!-- hb-story:end slug="york" -->
+<!-- hb-story:start slug="zebulon-pike" name="Zebulon Pike" movie="" kind="famous" status="verified" -->
+### Zebulon Pike
+> **Who:** a US Army lieutenant sent to explore the northern and southern edges of the Louisiana Purchase. · **When and where:** 1805 to 1807, Minnesota, then Colorado, New Mexico and northern Mexico.
+- In 1805 he went up the Mississippi. At the mouth of the Minnesota River he bought land from the Dakota for a future Army fort. He named Cass Lake as the river's source, and he was wrong.
+- In November 1806 his men tried to climb the peak later named for him. They turned back in waist-deep snow after almost two days without food.
+- On 26 February 1807 Spanish soldiers arrested Pike and some of his men inside Spanish New Mexico. They took them to Santa Fe and then to Chihuahua, Mexico, and took his papers. They released him at the Louisiana border on 1 July 1807.
+- Historians still argue whether he was an explorer or a spy for his commander, General James Wilkinson.
+- He was killed on 27 April 1813 in the War of 1812, when retreating British soldiers blew up a gunpowder store at York (now Toronto).
+<!-- hb-story:end slug="zebulon-pike" -->
 <!-- hb-story:start slug="john-colter" name="John Colter" movie="" kind="famous" status="verified" -->
 ### John Colter
-Left the expedition in 1806 to trap, saw the Yellowstone thermal country about 1807–08, and escaped a Blackfeet capture on foot.
+> **Who:** a Lewis and Clark soldier who stayed in the mountains to trap. · **When and where:** 1806 to 1810, Montana and Wyoming.
+- Lewis and Clark let him leave the expedition early, on 13 August 1806, to go trapping.
+- In October 1807 the trader Manuel Lisa sent him alone to find the Crow and ask them to trade. That winter he walked more than 500 miles through the country that is now Yellowstone and Grand Teton national parks. He was the first known person of European descent to see it. People who heard his reports of boiling springs laughed and called the place "Colter's Hell."
+- In 1808 or 1809 several hundred Blackfeet men caught Colter and his partner John Potts on the Jefferson River in Montana. They killed Potts with arrows after Potts shot one of them. They stripped Colter naked and told him to run.
+- Colter ran about five miles to the Madison River, killed the one man who caught up with him, and hid in a beaver lodge. Then he walked for eleven days to a trading fort. The story comes from Colter's own telling.
+- He died in 1812 or 1813. Sources disagree on the date.
 <!-- hb-story:end slug="john-colter" -->
 <!-- hb-story:start slug="hugh-glass" name="Hugh Glass" movie="The Revenant (2015)" kind="famous" status="verified" -->
 ### Hugh Glass
+> **Who:** a fur trapper who survived a grizzly bear attack after his companions left him for dead. · **When and where:** 1823, northwestern South Dakota.
 > **Movie:** The Revenant (2015)
-1823 grizzly mauling, left behind, crawled and walked about 200 miles to Fort Kiowa.
+- In 1823 he joined Ashley's company and was shot in the leg in the Arikara attack of 2 June.
+- That summer, near the forks of the Grand River, he surprised a mother grizzly with two cubs. She tore the flesh from his lower body and legs and cut open his neck. His leg was broken and the ribs on his back showed through the cuts.
+- Andrew Henry left two men with him to wait for him to die and bury him: John Fitzgerald and a man written down as "Bridges," possibly Jim Bridger. They took his rifle and knife and reported him dead.
+- Glass set his own leg and crawled and walked about 200 miles to Fort Kiowa on the Missouri River. It took him six weeks. He let maggots eat the dead flesh in his wounds so they would not rot.
+- The story was first printed in 1825 in a magazine, and historians dispute parts of it.
+- Arikara warriors killed him and two other trappers on the Yellowstone River in 1833.
 <!-- hb-story:end slug="hugh-glass" -->
-<!-- hb-story:start slug="zebulon-pike" name="Zebulon Pike" movie="" kind="famous" status="candidate" -->
-### Zebulon Pike
-1806–07, sighted the peak that carries his name, failed to climb it, was arrested and released by the Spanish.
-<!-- hb-story:end slug="zebulon-pike" -->
-<!-- hb-story:start slug="jedediah-smith" name="Jedediah Smith" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="jedediah-smith" name="Jedediah Smith" movie="" kind="famous" status="verified" -->
 ### Jedediah Smith
-1824, rediscovered South Pass with Crow help; mauled by a grizzly and sewn back together; killed in 1831 on the Santa Fe Trail.
+> **Who:** a fur trapper from New York who led the first known American parties over land to California and Oregon. · **When and where:** 1823 to 1831, the Rocky Mountains, California and Oregon.
+- In autumn 1823 a grizzly took his head in its mouth and tore off his scalp and one ear. His friend Jim Clyman sewed them back on, with Smith telling him how.
+- In 1824 Crow people drew a map in sand and on a buffalo hide to show his men the way to South Pass in Wyoming. The low pass later carried the Oregon Trail. A trader, Robert Stuart, had crossed it in 1812, but that crossing was kept secret.
+- In 1826 two men who had fled the Spanish missions guided his party across the Mojave Desert. On 27 November 1826 they reached Mission San Gabriel, the first US citizens known to reach California over land. The Mexican governor arrested Smith as a suspected spy.
+- In August 1827 Mojave men attacked his party at the Colorado River and killed ten of his men. They took two French-Canadian women captive. The Mojave had been attacked by other trappers from Taos in New Mexico.
+- In July 1828 on the Umpqua River in Oregon, Smith put a rope around an Umpqua man's neck over a stolen axe. Three days later Umpqua men attacked his camp while he was away and killed 15 of his men.
+- On 27 May 1831 Comanche men killed him near the Cimarron River in Kansas while he was looking for water. His body was never found.
 <!-- hb-story:end slug="jedediah-smith" -->
-<!-- hb-story:start slug="jim-bridger" name="Jim Bridger" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="jim-bridger" name="Jim Bridger" movie="" kind="famous" status="verified" -->
 ### Jim Bridger
-1824, first white man to see the Great Salt Lake; Fort Bridger 1843.
+> **Who:** a trapper and guide from Virginia who never learned to read or write and spent 45 years in the western mountains. · **When and where:** 1823 to 1868, Wyoming, Utah and Montana.
+- He was orphaned at 13 and joined Ashley's trappers in 1823, at 19.
+- In the fall of 1824 he floated down the Bear River in a boat made of buffalo hide and reached the Great Salt Lake. He and the trader Etienne Provost were the first two non-Native men known to reach it, at about the same time.
+- In 1843 he and Louis Vasquez built Fort Bridger on the Oregon Trail in Wyoming, where travelers bought supplies. In 1850 he found Bridger Pass, later used by the stagecoach, the Pony Express and the railroad.
+- He may have been the "Bridges" who left Hugh Glass in 1823. He denied it.
 <!-- hb-story:end slug="jim-bridger" -->
-<!-- hb-story:start slug="john-c-fremont" name="John C. Frémont" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="john-c-fremont" name="John C. Frémont" movie="" kind="famous" status="verified" -->
 ### John C. Frémont
-Army mapmaker, surveys of 1842–46 with Kit Carson, reports written with Jessie Benton Frémont that Congress printed by the thousand.
+> **Who:** an Army mapmaker called "the Pathfinder," whose reports and maps guided thousands of travelers west. · **When and where:** 1842 to 1849, the Oregon Trail, the Great Basin, the Sierra Nevada, California and Oregon.
+- His father-in-law, Senator Thomas Hart Benton, got him the money for his expeditions. Kit Carson guided him. He and his wife, Jessie Benton Frémont, wrote the reports together.
+- In 1842 he led 25 men up the Platte River to South Pass. In 1843 and 1844 he went to the Columbia River, then crossed the Sierra Nevada in winter. He was one of the first Americans to see Lake Tahoe. He showed that no river drains the Great Basin to the sea.
+- The Senate and the House each printed 10,000 copies of his second report. His maps, printed in 1846, showed the whole Oregon Trail.
+- On 5 April 1846 Frémont's armed party of about 76 men attacked a Wintu camp on the Sacramento River near present-day Redding, California. Most of the people there were women and children. His men fired rifle volleys, charged with swords and pistols, and shot people swimming in the river. Frémont's own men counted 120 to 175 dead. One eyewitness put it at 800 or more. Kit Carson called it "a perfect butchery." None of Frémont's men were hurt.
+- His men then shot Native people on sight as they rode north. After Klamath men killed three of his party at night, Carson led an attack on the Klamath village of Dokdokwas on 12 May 1846 and killed at least 14 people. The village may have had nothing to do with the first attack. Nobody was ever charged for either killing.
+- In the winter of 1848 to 1849 he tried to find a railroad route through the San Juan Mountains of Colorado. Ten of his men died of cold and hunger, and at least one body was partly eaten.
+- Shared with: `native-nations` (the killing of California's Native people) · `war` (Frémont in the war with Mexico).
 <!-- hb-story:end slug="john-c-fremont" -->
-<!-- hb-story:start slug="charles-wilkes" name="Charles Wilkes" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="charles-wilkes" name="Charles Wilkes" movie="" kind="famous" status="verified" -->
 ### Charles Wilkes
-The U.S. Exploring Expedition of 1838–1842, if told as a person — the sea journey above.
+> **Who:** a US Navy lieutenant who led the country's first large exploring voyage around the world. · **When and where:** August 1838 to June 1842, the Pacific islands, Antarctica and the Pacific Northwest.
+- He left Virginia on 18 August 1838 with six ships and nearly 350 men, among them naturalists, botanists and a language expert.
+- In January and February 1840 his ships charted about 1,500 miles of the coast of Antarctica. Wilkes wrote that they had "discovered the Antarctic Continent." That coast is now called Wilkes Land.
+- In Fiji in July 1840 one of his officers held a chief's son hostage while bargaining for food on Malolo Island. When the young man escaped, fighting began, and Fijians killed two Americans, one of them Wilkes's nephew. Wilkes landed about 70 men and ordered them to kill the men, burn the villages and spare the women and children. They burned two villages. Between 74 and 104 Fijians were killed.
+- In 1841 his ships mapped Puget Sound and the Columbia River. One ship, the *Peacock*, was wrecked on the Columbia River bar.
+- The expedition came home on 10 June 1842. It had lost two ships and 28 men. It brought back more than 60,000 plant and bird specimens, which helped start the Smithsonian's collections.
+- A Navy court tried Wilkes and found him guilty of illegally punishing his sailors. Among his punishments was flogging, which means beating a man's bare back with a whip.
 <!-- hb-story:end slug="charles-wilkes" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="exploration" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="exploration" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-The country now reaches both oceans, but the West is still thinly mapped by newcomers. In 1890 the Census reports no continuous frontier line left, and the era of land exploration closes; the next unknowns are the poles, the sky, and the deep ocean.
+By 1850 the United States reached the Pacific, and in 1867 it bought Alaska from Russia. After the Civil War, Congress paid four survey teams to measure and map the western lands in detail. Their orders included mapping rivers, finding minerals and choosing sites for Army posts. Native nations still lived across most of the country the surveyors mapped. In 1890 the superintendent of the census wrote that there could "hardly be said to be a frontier line" left between settled and unsettled land. American explorers were already sailing toward the North Pole, and two of those voyages ended with most of their men dead.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The great surveys and 1898" -->
-Four great surveys follow the Civil War — King, Hayden, Wheeler, and Powell. Hayden's 1871 Yellowstone party carried William Henry Jackson's photographs and Thomas Moran's paintings back east, and Yellowstone became a national park in 1872. Alaska bought from Russia in 1867 and mapped in earnest during the gold rushes of the late 1890s. In 1898 Puerto Rico, Guam, and the Philippines come under U.S. control and Hawaii is annexed; surveying and mapping follow (**territories thread**).
+<!-- hb-zoom level="span" label="The Great Surveys of the West, 1867 to 1879" -->
+- In 1867 the geologist Clarence King began the survey of the land along the 40th parallel, from eastern California to Wyoming. In 1872 his team found and exposed a fake diamond field in Colorado.
+- In 1871 Ferdinand Hayden led 32 men into the Yellowstone country with the photographer William Henry Jackson and the painter Thomas Moran. Their pictures and Hayden's report helped persuade Congress to make Yellowstone a public park. President Ulysses S. Grant signed the law on 1 March 1872. A band of Mountain Shoshone, the Tukudika, had lived there for thousands of years, and US officials later forced them onto reservations. The park itself belongs to `land-environment`.
+- From 1872 to 1879 Army Lieutenant George Wheeler mapped the land west of the 100th meridian. His orders told him to count the Native people there, learn how they lived and pick sites for new Army posts.
+- In 1879 Congress ended the separate surveys and put their work into a new US Geological Survey. King was its first director.
+- Shared with: `land-environment` (Yellowstone and the removals, lead) · `science` (the survey science).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="john-wesley-powell" name="John Wesley Powell" movie="" kind="famous" status="verified" -->
-### John Wesley Powell
-A one-armed Civil War veteran who ran the Colorado River through the Grand Canyon in 1869 and later led the USGS (**disability thread**).
-<!-- hb-story:end slug="john-wesley-powell" -->
+<!-- hb-zoom level="span" label="Alaska, 1867 to 1885" -->
+- On 30 March 1867 Secretary of State William Seward and a Russian diplomat signed a treaty selling Alaska to the United States for $7.2 million, about 2 cents an acre. Most Americans approved, and some opponents called it "Seward's Folly." Seward's own figures counted about 58,000 Native people in Alaska. Nobody asked them.
+- In 1885 Army Lieutenant Henry Allen and two soldiers went up the Copper River with a prospector, John Bremner. People at the Native village of Taral showed them how to build skin boats. They crossed the Alaska Range and went down the Tanana River, about 1,500 miles in all. They ate rotten meat when their food ran out, and two men got scurvy, a disease caused by a lack of vitamin C.
+- Shared with: `america-world` (Alaska as a territory, lead).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Toward the North Pole, 1879 to 1884" -->
+- In 1879 Navy Lieutenant George De Long sailed the *Jeannette* north through the Bering Strait with 33 men, looking for an open sea at the pole. Ice held the ship for nearly two years and crushed it on 13 June 1881. The men dragged their boats across the ice to Siberia. One boat and its eight men were lost in a storm. De Long's own party starved to death in the Lena River delta. Twenty of the 33 men died, De Long among them.
+- In 1881 Army Lieutenant Adolphus Greely took 25 men to Ellesmere Island, in Canada's far north, to record the weather. Two Greenland Inuit dog drivers, Jens Edward and Thorlip Frederik Christiansen, went with them. Supply ships failed to reach them two years in a row. When rescuers arrived on 22 June 1884, seven men were alive, and six lived to go home. On Greely's order one man, Private Charles B. Henry, was put to death for stealing food again and again. Doctors later found flesh cut from the body of one of the dead officers.
+- In 1894 the Navy officer Robert Peary took the Cape York meteorite from northern Greenland, where Inuit people had used its iron to make tools. In September 1897 he brought six Inuit to New York, promising they could go home within a year. The American Museum of Natural History kept them in its basement, and 20,000 people paid to look at them. All six caught tuberculosis, a lung disease, and four died. One was a boy's father, Qisuk. The museum staged a fake burial for the boy, Minik, and put his father's skeleton on display.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="1898: islands in two oceans" -->
+On 7 July 1898 President William McKinley signed the resolution by which Congress annexed Hawaii. Queen Liliuokalani protested it. On 10 December 1898, after the war with Spain, Spanish and American diplomats signed a treaty that gave Puerto Rico, Guam and the Philippines to the United States. The United States paid Spain $20 million for the Philippines. These new territories belong to `america-world`.
+<!-- /hb-zoom -->
 <!-- hb-story:start slug="jim-beckwourth" name="Jim Beckwourth" movie="" kind="famous" status="verified" -->
 ### Jim Beckwourth
-A Black mountain man born enslaved and later freed, a Crow war leader, who found the Sierra pass that bears his name in 1850; the town that promised him payment reneged, and as a Black man he could not sue; his was the first published mountain-man life story.
+> **Who:** a Black fur trapper, born into slavery, who lived with the Crow and found a low pass through the Sierra Nevada. · **When and where:** 1824 to 1866, the Rocky Mountains, California and Colorado.
+- He was born in Virginia in 1798 or 1800. His father, a white planter, held his mother as a slave. His father freed him by court papers filed between 1824 and 1826.
+- He joined Ashley's fur company in 1824. For eight or nine years he lived with a Crow band, which named him "Bull's Robe." He married a chief's daughter and became a Crow war leader.
+- In 1850 he found the pass now named for him, the lowest crossing of the Sierra Nevada in California. In 1851 he improved an old Native path over it into a trail to Marysville, California. It saved gold seekers about 150 miles.
+- The town's merchants had promised to pay him for the trail. When he came to collect in 1851, two fires had burned Marysville and its leaders did not pay. In 1996 Marysville named its largest park after him.
+- He told his life story to a writer, Thomas Bonner, who published it in 1856 and never paid him his share.
+- In 1864 he was a scout for Colonel John Chivington. On 29 November 1864 Chivington's soldiers killed between 70 and 163 Cheyenne people at Sand Creek, Colorado, in a camp flying an American flag. After that the Cheyenne refused to trade with Beckwourth.
+- Shared with: `native-nations` and `war` (Sand Creek) · `rights-movements` (credit denied).
 <!-- hb-story:end slug="jim-beckwourth" -->
+<!-- hb-story:start slug="john-wesley-powell" name="John Wesley Powell" movie="Ten Who Dared (1960)" kind="famous" status="verified" -->
+### John Wesley Powell
+> **Who:** a Civil War officer who had lost an arm and who led the first recorded boat journey through the whole Grand Canyon. · **When and where:** May to August 1869, the Green and Colorado rivers in Wyoming, Utah and Arizona.
+> **Movie:** Ten Who Dared (1960)
+- At the Battle of Shiloh in 1862 a bullet hit his right arm, and he lost the arm below the elbow. The nerve endings hurt him for the rest of his life. He went back to fight at Vicksburg.
+- On 24 May 1869 he and nine other men set out from Green River, Wyoming, in four wooden boats. They wrecked one boat and lost supplies at a rapid they named Disaster Falls.
+- On 28 August three men, Oramel Howland, his brother Seneca and William Dunn, climbed out of the canyon because they feared the rapids ahead. They were never seen again. Shivwits Paiute men later told Powell's interpreter they had killed the three by mistake. Some historians think Mormon settlers killed them. No one knows for certain.
+- Powell and five men reached a Mormon settlement in Nevada on 30 August 1869, after almost 930 miles and 98 days. They were the first white men recorded passing through the whole canyon. Paiute and other Native people had lived along it long before.
+- From 1881 to 1894 he led the US Geological Survey.
+- Shared with: `land-environment` (his warnings about water in the dry West).
+<!-- hb-story:end slug="john-wesley-powell" -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="exploration" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="exploration" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-The continental map is filled in. Explorers turn to the poles, the sky, and far continents.
+From 1900 to 1950 most American explorers worked far from home. They went to the North and South poles, across the oceans by airplane, and to other continents. Several of their biggest claims are still argued over. Historians dispute whether Robert Peary's party reached the North Pole in 1909 and whether Richard Byrd flew over it in 1926. The people who already lived in the places these explorers went, from the Inuit of Greenland to the farmers near Machu Picchu in Peru, guided them and did much of the work.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Poles and record flights" -->
-Polar claims and disputes; long-distance flight records that were journeys into the unknown as much as transport.
+<!-- hb-zoom level="span" label="Flights across the Atlantic and the Pacific, 1927 to 1937" -->
+- On 20 and 21 May 1927 Charles Lindbergh, an airmail pilot, flew alone and without stopping from New York to Paris in a single-engine plane, the *Spirit of St. Louis*. The flight took 33 hours and 30 minutes and covered about 3,600 miles. It won him a $25,000 prize offered for the first nonstop flight between the two cities.
+- Aircraft and air routes belong to `transportation`.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="matthew-henson" name="Matthew Henson (with Robert Peary)" movie="" kind="famous" status="verified" -->
 ### Matthew Henson (with Robert Peary)
-The 1909 North Pole claim, in which Henson was central and long denied public credit; Robert Peary led the expedition.
+> **Who:** a Black sailor and explorer from Maryland who was Robert Peary's navigator and dog-sled driver on seven Arctic voyages. · **When and where:** 1887 to 1909, northern Greenland and the Arctic Ocean.
+- Henson was born in Maryland in 1866. His family moved to Washington, D.C., to escape Ku Klux Klan attacks. At 12 he went to sea as a cabin boy, and a ship's captain taught him to read and write.
+- In 1887 he met Peary, a Navy officer, in a Washington clothing store, and Peary hired him. They went to the Arctic together seven times over nearly 23 years.
+- Henson learned the Inuit language. The Inuit called him Mahri-Pahluk. He was the only member of the expedition who was not Inuit to master their way of driving and training dog teams.
+- In 1909 nineteen Inuit men helped carry supplies across the sea ice. On 6 April 1909 Peary said his party had reached the North Pole. The last group was six men: Peary, Henson and four Inuit men named Ootah, Egingwah, Seegloo and Ooqueah. Peary was riding on a sled by then, and Henson went ahead as scout.
+- In 1989 the explorer Wally Herbert studied Peary's records and concluded the party may have stopped 30 to 60 miles short of the pole. Another American, Frederick Cook, claimed he had got there in 1908. Neither claim is settled.
+- Peary was made a rear admiral in 1911. Henson's honours came decades later. In 1937 he became the first African American life member of the Explorers Club, and in 1944 he received a medal for the expedition. He died in 1955. In 1988 he and his wife were reburied at Arlington National Cemetery.
+- Shared with: `rights-movements` (credit denied).
 <!-- hb-story:end slug="matthew-henson" -->
-<!-- hb-story:start slug="richard-byrd" name="Richard Byrd" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="richard-byrd" name="Richard Byrd" movie="With Byrd at the South Pole (1930)" kind="famous" status="verified" -->
 ### Richard Byrd
-First flight over the South Pole in 1929, five Antarctic expeditions, and a disputed 1926 North Pole flight claim.
+> **Who:** a US Navy pilot and navigator who led flights and expeditions to both poles. · **When and where:** 1926 to 1935, the Arctic and Antarctica.
+> **Movie:** With Byrd at the South Pole (1930)
+- On 9 May 1926 Byrd and the pilot Floyd Bennett flew toward the North Pole. Congress gave both men the Medal of Honor for reaching it. Most researchers now think his plane could not have carried enough fuel to fly as far as he said. His diary, made public in 1996, has erased navigation readings that differ from his official report.
+- He built a base camp called Little America on the Ross Ice Shelf in Antarctica. On 28 and 29 November 1929 Byrd, the pilot Bernt Balchen, the radio operator Harold June and the photographer Ashley McKinley flew to the South Pole and back in 18 hours and 41 minutes. They threw supplies out of the plane so it could climb high enough to reach the high, flat ice of the Antarctic Plateau.
+- In 1934 Byrd spent five months alone in a small weather hut in Antarctica. Fumes from a badly vented stove gave him carbon monoxide poisoning, which stops the blood from carrying oxygen. He nearly died before men from the base camp reached him.
 <!-- hb-story:end slug="richard-byrd" -->
 <!-- hb-story:start slug="charles-lindbergh" name="Charles Lindbergh" movie="" kind="famous" status="verified" -->
 ### Charles Lindbergh
-1927, first solo nonstop Atlantic flight, New York to Paris, 33-plus hours.
+> **Who:** an airmail pilot who made the first solo nonstop flight across the Atlantic. · **When and where:** 20 to 21 May 1927, from Garden City, New York, to Paris, France.
+- A company in San Diego built his plane, the *Spirit of St. Louis*, with extra fuel tanks for the long flight.
+- He took off from Roosevelt Field on Long Island and landed at Le Bourget airfield outside Paris 33 hours and 30 minutes later.
+- He won the $25,000 Orteig Prize. Two British fliers, John Alcock and Arthur Brown, had flown nonstop from Newfoundland to Ireland in June 1919, but Lindbergh was the first to do it alone.
 <!-- hb-story:end slug="charles-lindbergh" -->
 <!-- hb-story:start slug="amelia-earhart" name="Amelia Earhart" movie="Amelia (2009)" kind="famous" status="verified" -->
 ### Amelia Earhart
+> **Who:** the first woman to fly alone and nonstop across the Atlantic. · **When and where:** 1932, Newfoundland to Northern Ireland, and 1937, the central Pacific Ocean.
 > **Movie:** Amelia (2009)
-1932, first woman to fly the Atlantic solo nonstop; lost over the Pacific on a world flight in 1937.
+- On 20 May 1932, aged 34, she took off alone from Harbour Grace, Newfoundland. After almost 15 hours of strong winds, ice and engine trouble, she landed in a field in Northern Ireland.
+- In 1937 she set out with the navigator Fred Noonan to fly about 29,000 miles around the world near the equator.
+- On 2 July 1937 they left New Guinea for Howland Island, a tiny island in the Pacific. A Coast Guard ship waiting there heard her radio calls clearly, but she could not hear the ship, and its equipment could not find her direction.
+- Earhart and Noonan were never found. She was declared dead in January 1939.
 <!-- hb-story:end slug="amelia-earhart" -->
-<!-- hb-story:start slug="hiram-bingham" name="Hiram Bingham" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="hiram-bingham" name="Hiram Bingham" movie="" kind="famous" status="verified" -->
 ### Hiram Bingham
-1911 publicity for Machu Picchu, which local people already knew and a local guide led him to.
+> **Who:** a Yale history teacher, not a trained archaeologist, who made the Inca site of Machu Picchu famous. · **When and where:** 1911 to 1915, the Andes Mountains of Peru.
+- On 24 July 1911 a local man, Melchor Arteaga, led Bingham up to Machu Picchu. A few families living nearby already knew the ruins. Peruvian explorers had been there in 1901 and 1902, and one of them, Agustin Lizarraga, had written his name and "1902" in charcoal on a wall. Bingham found the writing.
+- Bingham believed he had found the Incas' last capital. He was wrong. The last capital was Vilcabamba, which he also visited without recognising it.
+- He dug up about 40,000 objects, among them mummies, bones and pottery, and shipped them to Yale University. Peru said the objects had only been lent. Yale began sending them back in 2012.
 <!-- hb-story:end slug="hiram-bingham" -->
-<!-- hb-story:start slug="roy-chapman-andrews" name="Roy Chapman Andrews" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="roy-chapman-andrews" name="Roy Chapman Andrews" movie="" kind="famous" status="verified" -->
 ### Roy Chapman Andrews
-Gobi expeditions of the 1920s and the first widely recognized dinosaur eggs. (Bingham and Andrews are often named as inspirations for the Indiana Jones character in *Raiders of the Lost Ark*, 1981 — an inspiration note, not a film about them.)
+> **Who:** a Wisconsin naturalist who started as a janitor at the American Museum of Natural History and later ran it. · **When and where:** 1922 to 1930, the Gobi Desert of Mongolia.
+- From 1922 to 1928 he led museum expeditions by car into Mongolia to look for the earliest human remains. They found none.
+- On 13 July 1923 his party found nests of fossil dinosaur eggs, the first nests of dinosaur eggs known to science. Scientists first thought the eggs came from *Protoceratops*. In 1995 they showed the eggs belonged to a meat-eating dinosaur, *Oviraptor*.
+- In 1928 Chinese officials seized the expedition's finds. They were later returned.
 <!-- hb-story:end slug="roy-chapman-andrews" -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="exploration" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="exploration" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-The surface of the earth is largely mapped. What is left unknown is the deep ocean and space.
+After 1950 the places nobody had seen were the deepest parts of the ocean and space. On 4 October 1957 the Soviet Union launched Sputnik, the first satellite to orbit the Earth. The United States set up NASA, its space agency, in 1958. The two countries raced to send people into space and then to the Moon. Between 1969 and 1972 twelve American men walked on the Moon. The race also killed astronauts, three in a fire on the launch pad in 1967 and seven in the Challenger explosion in 1986. In the oceans, Americans reached the deepest point on Earth in 1960 and found living things around hot springs on the sea floor in 1977.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The space race and the deep ocean" -->
-Sputnik in 1957; NASA created in 1958; Shepard the first American in space in 1961 and Glenn the first American in orbit in 1962; Kennedy's Moon goal; Apollo landings through 1972 and none since; the shuttle era opens crews to women and to Black astronauts.
+<!-- hb-zoom level="span" label="Into space, 1961 to 1972" -->
+- On 5 May 1961 Alan Shepard became the first American in space, on a 15-minute flight that went up and came back down without circling the Earth. Three weeks earlier the Soviet cosmonaut Yuri Gagarin had orbited the Earth.
+- On 25 May 1961 President John F. Kennedy asked Congress to land a man on the Moon "before this decade is out." At its peak the Apollo program employed 400,000 people, and it cost $25.4 billion.
+- On 20 February 1962 John Glenn circled the Earth three times in 4 hours and 55 minutes, the first American to orbit it.
+- On 27 January 1967 a fire broke out inside the Apollo 1 capsule during a test on the launch pad. It killed Gus Grissom, Ed White and Roger Chaffee. An electrical spark set nylon alight in a cabin full of pure oxygen, and the hatch could not be opened against the pressure inside. The fire melted their suits and air hoses, and carbon monoxide gas stopped their hearts.
+- In December 1968 the Apollo 8 crew became the first people to orbit the Moon. Six Apollo crews landed on the Moon between July 1969 and December 1972. Nobody has been back since.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Challenger explosion, 1986" -->
+On 28 January 1986 the space shuttle Challenger broke apart 73 seconds after launch and all seven people on board died: Dick Scobee, Michael Smith, Ellison Onizuka, Judith Resnik, Ronald McNair, Gregory Jarvis and a schoolteacher, Christa McAuliffe. Rubber rings sealing a joint in one of the booster rockets failed, because the record cold that morning had made them stiff. Engineers had warned about launching in the cold, and NASA managers ignored the warnings. Tests since 1977 had shown the flaw in the seals. Several of the crew probably lived through the breakup, until their cabin hit the ocean. Many schoolchildren watched the launch live because a teacher was on board.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="don-walsh" name="Don Walsh" movie="" kind="famous" status="verified" -->
 ### Don Walsh
-With Jacques Piccard, took the *Trieste* to the Challenger Deep in 1960 (about 35,800 feet) and saw a fish there.
+> **Who:** a US Navy lieutenant who, with the Swiss scientist Jacques Piccard, made the first dive to the deepest point in the ocean. · **When and where:** 23 January 1960, the Challenger Deep in the Mariana Trench, near Guam in the Pacific.
+- They went down in the *Trieste*, a deep-diving craft called a bathyscaphe, which could dive without a cable to a ship. Piccard's father had designed it, and the US Navy had bought it.
+- The dive down took 4 hours and 47 minutes. Past 30,000 feet an outer window cracked and shook the whole craft.
+- They reached the bottom at about 35,800 feet, nearly seven miles down, and stayed twenty minutes in a cabin at 45 degrees F.
+- They reported seeing a flatfish. Scientists now doubt it, because fish are not known to live below about 27,000 feet, and Walsh later said they could have been mistaken.
 <!-- hb-story:end slug="don-walsh" -->
 <!-- hb-story:start slug="apollo-11-crew" name="Apollo 11 crew" movie="First Man (2018)" kind="famous" status="verified" -->
 ### Apollo 11 crew
+> **Who:** Neil Armstrong, Buzz Aldrin and Michael Collins, the crew of the first spacecraft to land people on the Moon. · **When and where:** 16 to 24 July 1969, from Florida to the Moon's Sea of Tranquility and back to the Pacific Ocean.
 > **Movie:** First Man (2018)
-20 July 1969, Armstrong and Aldrin on the Moon while Collins orbited, watched by roughly 600 million people.
+- A Saturn V rocket launched them from Kennedy Space Center in Florida on 16 July 1969.
+- On 20 July Armstrong and Aldrin landed the lunar module *Eagle* while Collins stayed in orbit in *Columbia*. About six hours later Armstrong stepped onto the Moon, and Aldrin followed him 19 minutes after that.
+- They gathered 47.5 pounds of rock and soil and spent about 21 hours on the Moon.
+- About 600 million people, one in five people on Earth, watched Armstrong's first steps live on television.
+- They splashed down safely in the Pacific on 24 July 1969.
 <!-- hb-story:end slug="apollo-11-crew" -->
 <!-- hb-story:start slug="apollo-13-crew" name="Apollo 13 crew" movie="Apollo 13 (1995)" kind="famous" status="verified" -->
 ### Apollo 13 crew
+> **Who:** Jim Lovell, Jack Swigert and Fred Haise, a Moon-landing crew whose spacecraft was crippled by an explosion. · **When and where:** 11 to 17 April 1970, between the Earth and the Moon.
 > **Movie:** Apollo 13 (1995)
-The 1970 tank explosion, no landing, and a crew brought home.
+- Two days after launch, damaged wiring inside an oxygen tank caught fire when the crew stirred the tank, and it exploded. The main spacecraft lost its oxygen and most of its electric power.
+- The landing was cancelled. The three men moved into the small lunar module, *Aquarius*, and used it as a lifeboat. It was cold and wet, and they ran short of drinking water.
+- The air filled with carbon dioxide from their breathing. The crew and engineers on the ground worked out a way to make the command module's filters fit the lunar module.
+- They swung around the Moon and splashed down safely in the South Pacific on 17 April 1970.
 <!-- hb-story:end slug="apollo-13-crew" -->
 <!-- hb-story:start slug="katherine-johnson" name="Katherine Johnson" movie="Hidden Figures (2016)" kind="famous" status="verified" -->
 ### Katherine Johnson
+> **Who:** a Black mathematician from West Virginia who calculated the flight paths of the first American spaceflights. · **When and where:** from 1953, the Langley laboratory in Hampton, Virginia.
 > **Movie:** Hidden Figures (2016)
-The NASA mathematician whose trajectory work carried Glenn and others, uncredited in public for decades.
+- She was born in 1918. Her county had no high school for Black students, so her family sent her to one on a college campus. She started there at ten.
+- In 1953 she was hired as a "computer," a person who did calculations by hand, at the Langley laboratory of NASA's forerunner. Virginia's segregation laws made the Black women computers work, eat and use restrooms apart from white workers. Their office had a sign reading "Colored Computers."
+- She worked out the path and launch time for Alan Shepard's flight in 1961.
+- In 1962, when NASA first used electronic computers to plan John Glenn's orbit, Glenn asked for her by name. He refused to fly until she had checked the machine's numbers.
+- President Barack Obama gave her the Presidential Medal of Freedom in 2015, when she was 97. She died in 2020 at 101.
+- Shared with: `science` (her mathematics) · `rights-movements` (credit denied).
 <!-- hb-story:end slug="katherine-johnson" -->
 <!-- hb-story:start slug="sally-ride-mae-jemison" name="Sally Ride and Mae Jemison" movie="" kind="famous" status="verified" -->
 ### Sally Ride and Mae Jemison
-1983, Sally Ride the first American woman in space; 1992, Mae Jemison the first African American woman in space.
+> **Who:** the first American woman in space and the first African American woman in space. · **When and where:** 1983 and 1992, aboard the space shuttles *Challenger* and *Endeavour*.
+- Sally Ride, a physicist from California, flew on *Challenger* on 18 June 1983. She was the first American woman in space and, at 32, the youngest American astronaut to fly. She was the third woman to go into space.
+- Ride served on the panel that investigated the *Challenger* explosion in 1986 and on the one that investigated the loss of *Columbia* in 2003. She was the only person to serve on both.
+- When she died in 2012, her obituary named Tam O'Shaughnessy as her partner of 27 years. She had kept the relationship private. She is the first astronaut known to have been LGBTQ (lesbian, gay, bisexual, transgender or queer).
+- Guion Bluford became the first African American in space in August 1983.
+- Mae Jemison, born in Alabama in 1956 and raised in Chicago, studied chemical engineering and became a doctor. She worked for the Peace Corps in Liberia and Sierra Leone. On 12 September 1992 she flew on *Endeavour*, the first African American woman in space.
 <!-- hb-story:end slug="sally-ride-mae-jemison" -->
 <!-- hb-story:start slug="sylvia-earle" name="Sylvia Earle" movie="Mission Blue (2014)" kind="famous" status="verified" -->
 ### Sylvia Earle
+> **Who:** a marine biologist from New Jersey who set a deep-diving record and led the first all-woman team to live underwater. · **When and where:** 1970 to 1992, the Virgin Islands and the waters off Hawaii.
 > **Movie:** Mission Blue (2014)
-A 1979 untethered walk about 1,250 feet down off Hawaii in a metal suit.
+- In 1969 the Tektite project, which let scientists live in an underwater lab, turned her down, although she had spent more than 1,000 hours diving for research.
+- In 1970 she led the first all-woman team of aquanauts, who lived in an underwater lab 50 feet down off the Virgin Islands.
+- In 1979 she walked on the sea floor off Oahu, Hawaii, 1,250 feet down, in a hard diving suit with no line to the surface. No woman has beaten that depth record.
+- From 1990 to 1992 she was the first woman to be chief scientist of NOAA, the US government's ocean and weather agency.
 <!-- hb-story:end slug="sylvia-earle" -->
-<!-- hb-story:start slug="robert-ballard" name="Robert Ballard" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="robert-ballard" name="Robert Ballard" movie="" kind="famous" status="verified" -->
 ### Robert Ballard
-Found the *Titanic* wreck in 1985 using robots. (No film about him; *Titanic* (1997) is about the ship — movie line left blank on purpose.)
+> **Who:** a Navy oceanographer and sea-floor geologist from Kansas. · **When and where:** 1977 to 1989, the Pacific floor near the Galapagos Islands and the North Atlantic.
+- In 1977 he dove in the small submarine *Alvin* on an expedition that found hot springs on the sea floor near the Galapagos Islands. Animals lived around them, feeding on chemicals from the springs instead of on anything that needed sunlight. The scientists had brought no biologists, because they expected to find no life.
+- In 1982 he asked the Navy to pay for a search for the *Titanic* with *Argo*, a camera robot towed behind a ship. The Navy agreed if he first used it to look secretly at the wrecks of two Navy nuclear submarines, the *Thresher* and the *Scorpion*, that sank in the 1960s.
+- After that work, in 1985, he and a French team found the *Titanic* on the floor of the North Atlantic. In 1989 he found the German battleship *Bismarck*.
 <!-- hb-story:end slug="robert-ballard" -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="exploration" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="exploration" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-The land is mapped from satellites and a phone shows streets worldwide. The frontiers left are space and the deep ocean, and robots do much of the going.
+Since 2000 most American exploring has been done by robots, steered from Earth. Rovers drive across Mars, and probes have flown past Pluto and out of the solar system. People have lived on the International Space Station without a break since 2 November 2000. The deep ocean floor is still mostly unmapped: by April 2026 only 28.7 percent of it had been measured to modern standards. In April 2026 four astronauts flew around the Moon, the first people to go there since 1972.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Robots to Mars and the deep sea" -->
-Mars rovers — Curiosity in 2012, Perseverance with the Ingenuity helicopter in 2021. New Horizons past Pluto in 2015 and Arrokoth in 2019. Voyager 1 and 2, launched 1977, now in interstellar space. The James Webb Space Telescope launched in 2021 and returning light from early galaxies. Seabed 2030's effort to map the entire ocean floor — parts of Mars are mapped in finer detail than parts of the deep seafloor.
+<!-- hb-zoom level="span" label="The loss of Columbia, 2003" -->
+On 1 February 2003 the space shuttle Columbia broke apart over Texas and Louisiana as it came back into the atmosphere, and all seven astronauts died: Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark and Ilan Ramon, the first astronaut from Israel. At launch a piece of foam from the fuel tank had hit the left wing and damaged its heat shield. Engineers asked for pictures of the wing while the shuttle was in orbit. Linda Ham, who chaired the mission's management team, cancelled the request.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Robots to Mars and beyond" -->
+- The rover Curiosity landed in Gale crater on Mars on 6 August 2012. It was still working in September 2026.
+- The rover Perseverance landed in Jezero Crater, an old river delta, on 18 February 2021. It drills rock samples and stores them for a later mission to bring back. In July 2024 it found a rock with a possible chemical sign of ancient life.
+- Perseverance carried a small helicopter, Ingenuity, the first aircraft to fly on another planet. It was built for five flights and made 72 before its rotor blades broke on 18 January 2024.
+- New Horizons, launched in 2006, flew 7,800 miles above Pluto on 14 July 2015, the first spacecraft to visit it. On 1 January 2019 it passed a small icy world called Arrokoth, about 4 billion miles from the Sun.
+- Voyager 1, launched in 1977, crossed into interstellar space on 25 August 2012, and Voyager 2 followed on 5 November 2018. Voyager 1 is the farthest object people have made, about 15.9 billion miles away. Its plutonium power supply loses about 4 watts a year, so in April 2026 engineers switched off another of its instruments. Two still work.
+- The James Webb Space Telescope, launched on 25 December 2021, is built to see light from as far back as about 180 million years after the universe began, when the first stars and galaxies were forming.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Mapping the sea floor" -->
+An international project called Seabed 2030 is trying to map the whole ocean floor. In April 2026 it reported that 28.7 percent had been mapped to modern standards, with almost five million square kilometres added in the past year.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="james-cameron" name="James Cameron" movie="" kind="famous" status="verified" -->
 ### James Cameron
-2012 solo dive to the Challenger Deep, the third person ever that deep and the first alone.
+> **Who:** a Canadian film director who dove alone to the deepest point in the ocean. · **When and where:** 26 March 2012, the Challenger Deep in the Mariana Trench, western Pacific.
+- He piloted a one-person submarine, the *Deepsea Challenger*, built in Australia with the National Geographic Society.
+- It took him 2 hours and 37 minutes to reach the bottom, about twice as fast as the *Trieste* in 1960. The deepest reading was 35,787 feet.
+- He was the first person to dive there alone and the first to spend real time on the bottom, about three hours. Problems with the hydraulic system made it hard to use the sampling equipment.
+- He was only the third person ever to reach the Challenger Deep, 52 years after Don Walsh and Jacques Piccard.
 <!-- hb-story:end slug="james-cameron" -->
+<!-- hb-story:start slug="artemis-ii-crew" name="Artemis II crew" movie="" kind="famous" status="verified" -->
+### Artemis II crew
+> **Who:** Reid Wiseman, Victor Glover and Christina Koch of NASA and Jeremy Hansen of Canada, the first people to travel to the Moon since 1972. · **When and where:** 1 to 10 April 2026, from Florida around the Moon and back to the Pacific off San Diego.
+- They flew in the Orion spacecraft on its first flight with a crew. They circled around the Moon but did not land.
+- At their farthest they were 252,756 miles from Earth. That broke the record of 248,655 miles set by the Apollo 13 crew in 1970.
+- Koch became the first woman, Glover the first Black man and Hansen the first Canadian to travel that far from Earth.
+- After the uncrewed test flight in 2022, NASA engineers found that Orion's heat shield had worn away more than expected on the way back through the atmosphere. NASA kept the same shield and changed the path of re-entry. Some outside experts objected.
+- They splashed down safely on 10 April 2026.
+<!-- hb-story:end slug="artemis-ii-crew" -->
 <!-- hb-time:end id="2000-today" -->
