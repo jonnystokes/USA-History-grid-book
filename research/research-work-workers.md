@@ -258,3 +258,7 @@ Full text with sources is in `research/research-energy.md` (PATCH entries under 
 - Ludlow, April 20, 1914: at least 19 dead, 13 of them women and children in a pit (Colorado Encyclopedia, Jonathan H. Rees). The strike, the union and the Rockefeller Plan are yours.
 - Farmington 1968 (78 dead) and the 1969 Coal Mine Health and Safety Act (MSHA). Black lung: more than 76,000 deaths since 1968 (Department of Labor via Smithsonian Magazine, 2017).
 - Upper Big Branch, April 5, 2010: 29 dead; Blankenship sentenced to one year (MSHA; NPR).
+
+## Parked from `transportation` (2026-09-27, T-248): a named app driver, 2000-today (for your `gig-driver` target)
+- **Barbara Ann Berwick**, Uber driver in San Francisco, about July 23/25 to September 18, 2014. California Labor Commissioner hearing officer Stephanie Barrett ruled June 3, 2015 (Case No. 11-46739 EK) that she was Uber's employee and ordered $4,152.20 (6,468 miles at $0.56, $256 tolls, $274.12 interest). Wage claim for 470.70 hours dismissed. Uber appealed June 16, 2015. Full sourcing in `research/research-transportation.md`, era 10 PATCH (T-248). Transportation uses her as its story (slug `barbara-berwick`), angle: the car and its costs. Your angle would need its own suffixed slug.
+- Also there: Prop 22 (2020) results, finance and the 2024 ruling; the Massachusetts $175M settlement (June 27, 2024); named Prop 22 plaintiffs Hector Castellanos, Joseph Delgado, Saori Okawa, Michael Robinson.

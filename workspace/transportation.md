@@ -61,7 +61,7 @@ Research pass completed 2026-08-08; all ten eras `progress="researched"`.
 ## Featured people (final)
 - **verified famous** — John Fitch (1750–1800) · Robert Fulton (1800–1850) · DeWitt Clinton (1800–1850) · Cornelius Vanderbilt (1850–1900) · Mark Twain-as-pilot (1850–1900; movie: Mark Twain, 2001) · Frank Sprague (1850–1900) · the Wright brothers (1900–1950; transport angle) · Dwight Eisenhower (1950–2000) · Malcom McLean (1950–2000)
 - **verified ordinary** — Edward Converse, ferry keeper (1600s) · Sarah Kemble Knight (1700–1750; road angle; home-family owns her households angle) · James Garfield, canal boy (1800–1850) · Hung Wah (1850–1900; his name stands for thousands — say so) · Jack Knight, airmail pilot (1900–1950) · the porters of Miles of Smiles (1900–1950; movie IS the documentation, 1982) · Barbara "Dusty" Roads (1950–2000; movie: Fly With Me, 2024)
-- **target** — a ride-hail driver (2000–today; pick a named, documented interview at writing time)
+- **verified ordinary, added 2026-09-27 (T-248)** — Barbara Ann Berwick (2000–today; replaces the ride-hail target; source: CA Labor Commissioner decision 11-46739 EK, June 3, 2015) · Moses Grandy (1800–1850; enslaved canal boatman, eyewitness to the Dismal Swamp canal diggers; *Narrative*, 1843, DocSouth) · Irene Morgan (1900–1950; Greyhound seat, July 16, 1944, *Morgan v. Virginia* 1946; Encyclopedia Virginia)
 
 ## [VERIFY] queue
 *All cleared 2026-08-08 — details and sources in the bank:*
@@ -96,3 +96,9 @@ class (hoggees, brakemen, porters, gig drivers) · region (South: Natchez Trace,
 5. **The porters' story is a collective block** (the eight porters + Rosina Tucker of the 1982 film) rather than one name — the film is the documentation. If you want a single named porter, C.L. Dellums is the best-documented individual, but he pulls the block toward the union story that belongs to `work-workers`.
 6. **Ride-hail driver stays a target** — plenty of journalism profiles exist; none was locked in to avoid resting a story on one unverified interview. Choose at writing time.
 7. **Disability/transit (ADA 1990)** — not in the outline; flagged in Threads. Add one span line in era 9 at prose time if you want the thread carried here rather than only in `rights-movements`.
+
+## T-248 bank check (2026-09-27): parking log and SEARCHED, NOT FOUND
+- Parked to `research/research-work-workers.md`: Barbara Ann Berwick (for their `gig-driver` target), Prop 22 and the Massachusetts settlement.
+- SEARCHED, NOT FOUND (bank, with how-to-say-it lines): Uber's appeal outcome in Berwick · enslaved men's share of Virginia colonial road crews · who broke stone on the Lancaster Turnpike.
+- Outline corrections made from the bank check: "roughly 1,200 died" (Central Pacific) became a range with no count · Fulton's "every major river" replaced by sourced New Orleans voyage and arrivals · Erie 1819 "1,000 died" never used: the record is about 1,000 sick.
+- Shared events added: Erie Canal land (native-nations) · Southern railroads' enslaved workers (slavery-freedom) · Plessy, Wells, Morgan, Freedom Rides (rights-movements leads) · highway displacement (city-building leads; Montgomery I-85 case here) · Key Bridge and Potomac crashes (disasters may also carry).

@@ -122,7 +122,7 @@ is your last one, and it must be clean.** `python tools/project_state.py --punct
 print zero for both. A quotation keeps its words exactly. If one contains a semicolon or an em
 dash, split it at that point with no word changed. The chapter's LAST writer also runs
 `python tools/project_state.py --check <slug> --stage prose`. No git: the director commits
-after you finish.
+after you finish. Install nothing (no pip or npm).
 
 ## Report
 

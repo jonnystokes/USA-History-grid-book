@@ -70,7 +70,8 @@ gaps a writer would hit, and stop when they are covered.
 Work one era at a time. After each era, write it to the files and validate with
 `node tools/validate_grid.js outlines/<slug>.md`. Errors mid-write are normal. The last run
 must be clean. Update the checkpoint: what landed, sources in hand (URL and what it settled),
-what you left out and why, and NEXT. No git.
+what you left out and why, and NEXT. No git. Install nothing (no pip or npm): `pypdf` is
+already available for reading PDFs.
 
 The LAST agent on a chapter also checks that every era's `progress=` flag matches its real
 state. A single era left at `progress="seed"` fails the chapter check on its own.

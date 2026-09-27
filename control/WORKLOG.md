@@ -2551,7 +2551,20 @@ RESULT: DONE. PASS energy / patch and / research. stories 11 (v11 c0 t0), bank 5
 USAGE END (T-247b): 9% (Jon). 3% -> 9% (includes director close and T-248 prep, marked +).
 
 ### 2026-09-27 | [LOCAL] T-248 | transportation: patch (1 target) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-248-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage patch (and --stage research)
 USAGE AT START: 9% (Jon).
+RESULT: DONE. PASS transportation / patch and / research. stories 17 -> 19 (v19 c0 t0), bank 4,764 -> 13,064w,
+        outline 4,511 -> 6,684w, validator 0. 424,869 tokens, 194 tool uses, 25.0 min (opus).
+        Stories: Barbara Ann Berwick (Uber, 2015 Labor Commissioner decision read in full), NEW Moses Grandy
+        (enslaved canal-boat captain, 1843 memoir), NEW Irene Morgan (1944 arrest, 1946 ruling). All 16 older
+        verified stories checked against the bank; 5 patched. Bank check: land (Seloy, Post Road paths, Great
+        Warriors Path, Haudenosaunee, transcontinental nations), Erie pay and 1819 malaria (1,000 SICK, not dead),
+        Dismal Swamp diggers, 85 of 113 Southern railroads built by enslaved workers, CP deaths "50 to 1,200, no
+        count" (outline's "roughly 1,200 died" rewritten), land grants ~130M acres, crew death rates, Wells,
+        Plessy, Freedom Rides (Connor's 15 minutes), 475,000 households displaced by highways, Engelhardt's I-85
+        route (356 homes), car deaths 1913-2025, Grand Canyon 1956, Key Bridge 2024, Potomac 2025.
+        "Firsts" fixed: Sprague (first successful), Fulton ("every major river" too broad).
+        SEARCHED NOT FOUND: 3. Parked to work-workers (validates 0).
+        ISSUE: the agent pip-installed pypdf unasked. Reported to Jon. briefs/README now says install nothing.

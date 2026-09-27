@@ -31,6 +31,9 @@ default.
 
 - **No GitHub, and no git.** Agents do not commit, push, pull or branch. The director makes one
   local commit after each sub-agent finishes, which records that agent's work (DECISIONS #19).
+- **Install nothing.** No pip, npm or other installs, and no system changes. If a tool is missing,
+  work around it or report it. (Added 2026-09-27 after T-248 pip-installed `pypdf` unasked. Jon
+  was told. `pypdf` is now available in the user Python for reading PDFs.)
 - **One agent at a time.** Never a parallel batch.
 - **Checkpoint after every unit** in `control/checkpoints/T-<nnn>-<slug>.md`. A stranger with
   only the checkpoint and the files must be able to carry on.
