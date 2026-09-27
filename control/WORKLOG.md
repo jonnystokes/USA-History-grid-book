@@ -2847,3 +2847,8 @@ Back to ONE AT A TIME (DECISIONS #25). Next: T-263r health.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+
+### 2026-09-27 | [LOCAL] T-264r | disasters: continue full research eras 1-5 [BURST of 5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-264-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage research
