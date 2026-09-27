@@ -2909,3 +2909,4 @@ VERIFY: python tools/project_state.py --check crime-justice --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+NOTE (Jon, 47%): burst of 3 more beside T-263b (messaged to switch to TO PARK): T-264b, T-265b, T-266b (eras 6-8 each).
