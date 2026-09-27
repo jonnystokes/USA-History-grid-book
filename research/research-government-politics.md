@@ -239,6 +239,104 @@ Everything below was fetched on **2026-09-09** unless a different date is given.
 - Blocked or unusable on this run: pressbooks.pub (403), jyfmuseums.org (403). The MTSU First
   Amendment Encyclopedia page loads but does not carry the statutory text.
 
+### PATCH 2026-09-27 (T-258): Era 3, who could vote in Virginia, 1619 to 1699
+
+The outline says only that the vote was not limited to landowners until 1670. The full run, from
+Encyclopedia Virginia, "Elections in Colonial Virginia"
+(https://encyclopediavirginia.org/entries/elections-in-colonial-virginia/), fetched 2026-09-27:
+
+- **1619:** who could vote for the first burgesses is not on record.
+- **1646:** all freemen, meaning men who were not enslaved and not indentured servants, could choose burgesses.
+- **1655:** only "housekeepers" (heads of households) could vote. **1656:** relaxed, all freemen again.
+- **1670:** only "ffreeholders and housekeepers" could vote. (The House of Burgesses entry words it as
+  "limited the right to vote for burgesses to adult men who owned land":
+  https://encyclopediavirginia.org/entries/house-of-burgesses/.) **Actor:** the General Assembly
+  (the burgesses and the governor's council).
+- **1676:** during Bacon's Rebellion the vote was opened to all freemen for a year. **1677:** the
+  restriction was put back after the rebellion collapsed.
+- **1684:** tenants holding land for life could also vote, in any county where they held land.
+- **1699:** the Assembly shut out women and anyone under twenty-one by statute.
+- Candidates gave voters food and drink ("treats") before and after the vote. The law restricted
+  treating during election week, and candidates got round it through other people.
+- Same source: the Encyclopedia Virginia House of Burgesses entry calls the 1619 body "the first of
+  its kind in English North America." **That is the source for the outline's "first elected assembly
+  in English America."**
+
+### PATCH 2026-09-27 (T-258): Era 3, Massachusetts Bay limits the vote to church members, 1631
+
+- In **May 1631** the General Court of the Massachusetts Bay Company admitted **116** men as freemen
+  (voters), and ruled that from then on **only church members** could become freemen.
+  (Encyclopedia.com, "Massachusetts Bay Colony",
+  https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/massachusetts-bay-colony,
+  fetched 2026-09-27, states the 1631 church-member rule. The figure of 116 is from a search-result
+  summary of Wikipedia's "Freeman (Thirteen Colonies)" page: **116 (unconfirmed: search summary only)**.)
+- Becoming a church member meant describing one's own conversion before the congregation and being
+  accepted, so the rule shut out most men in the colony. Women could not vote at all.
+- The **1691 charter** replaced the church test with a property test: male property owners, not only
+  church members, could elect representatives. (Encyclopedia.com, same page.)
+- **Actor:** the officers of the Massachusetts Bay Company sitting as the General Court. The source names no
+  individual officers for this vote.
+
+### PATCH 2026-09-27 (T-258): Era 3, the Mayflower Compact (the outline names it, the bank did not source it)
+
+- Signed **11 November 1620** (the old-style date the Pilgrims used), aboard the *Mayflower* at anchor
+  off **Cape Cod**, in what is now Provincetown Harbor. **41 men** signed.
+  (Plimoth Patuxet Museums, "Mayflower and Mayflower Compact",
+  https://plimoth.org/for-students/homework-help/mayflower-and-mayflower-compact, fetched 2026-09-27)
+- **Who did not sign:** women, children, and servants, apart from three hired men and two servants, and
+  one freeman. (Plimoth Patuxet, same page.)
+- **Why:** the passengers had permission (a patent) to settle near the Hudson River, in the Virginia
+  Company's territory. They landed in New England instead, outside that permission, and wrote the
+  compact to keep order and set up a government until a new patent came. (Plimoth Patuxet, same page.)
+- Key words of the text: the signers "covenant & combine our selves together into a Civill body
+  politick" and promise to make and obey "just & equall lawes." The original document is lost. Three
+  slightly different seventeenth-century versions survive. (World History Encyclopedia and Wikipedia via
+  search summary: **(unconfirmed: search summary only)** for the "three versions" point.)
+- **Correction note for the outline's wording.** Outline era 3 says "In Massachusetts the men aboard
+  the *Mayflower* signed an agreement in November 1620." The ship was off Cape Cod, in what is now
+  Massachusetts, and the colony they founded was **Plymouth**, a separate colony from Massachusetts Bay
+  until 1691. The writer should say "off Cape Cod" and "Plymouth colony".
+
+### PATCH 2026-09-27 (T-258): Era 3, whose land (the brief's land check)
+
+- **Jamestown, 1607:** the English built on an island in the territory of the **Paspahegh**, one of the
+  twenty-eight to thirty-two groups, each with its own chief, that paid tribute to **Powhatan**, the
+  paramount chief of **Tsenacomoco** (about 15,000 people, the anthropologist Helen C. Rountree's
+  estimate, over about 6,000 square miles). The English were "squatting on tribal land (as they did at
+  Jamestown) without asking permission beforehand." So the 1619 assembly met on Paspahegh land.
+  (Encyclopedia Virginia, "Tsenacomoco (Powhatan Paramount Chiefdom)",
+  https://encyclopediavirginia.org/entries/tsenacomoco-powhatan-paramount-chiefdom/, fetched 2026-09-27)
+- **Plymouth, 1620:** the Pilgrims settled where a Wampanoag community (Patuxet) had lived until
+  "a sickness had killed most of them." (Plimoth Patuxet page above.)
+- `native-nations` owns what happened to these nations. This chapter names whose land the first
+  assemblies sat on.
+
+### PATCH 2026-09-27 (T-258): Era 3, the Spanish crown puts its own governor on trial, 1614 (moved here from era 2)
+
+**Correction to the era-2 parking note in this bank.** The trial of Juan de Oñate took place in
+**1614**, which puts it in **era 3 (the 1600s)**, not era 2.
+
+- Tried in **Mexico City**. The crown brought **30 charges**. He was **convicted on 12**, among them
+  using excessive force against Acoma, ordering his captains to kill two deserters, and lying to the
+  viceroys and the king about the wealth of the land. Acquitted on 18.
+  (Rebecca Carlson, "Don Juan de Oñate's Prosecution for 'Crimes and Excesses' in the Provinces of New
+  Mexico, 1614", Western Oregon University senior thesis, 2008,
+  https://wou.edu/history/files/2015/08/RebeccaCarlsonThesis.pdf, fetched 2026-09-27, citing Hammond
+  and Rey's documentary edition. A student thesis: use for the list, prefer PBS for the headline facts.)
+- **Sentence:** banished from New Mexico for life. Exiled from Mexico City: **five years** (PBS POV,
+  "The Last Conquistador: Background", https://archive.pov.org/lastconquistador/background/, fetched
+  2026-09-27) or **four years** (Carlson thesis). **Sources disagree: give both or say "for several
+  years."** Fined **6,000 Castilian ducats** (Carlson thesis). He later lived in Spain (search summary
+  only).
+- **The Acoma sentences Oñate ordered in 1599**, per PBS: men of fighting age sentenced to have a foot
+  cut off, followed by twenty years of forced servitude. Others sentenced to have their hands cut off.
+  PBS reports about 200 Acoma survivors out of a population of nearly 2,000. `native-nations` owns
+  this. The bank's existing note that historians dispute how far the amputations were carried out
+  stands.
+- **How the prose can say it:** "In 1614 royal judges in Mexico City convicted Oñate on 12 of 30
+  charges, including the force he used at Acoma. They banished him from New Mexico for life and
+  fined him."
+
 ## Era 4 — 1700 to 1750
 
 ### Crown v. John Peter Zenger — [VERIFY] cleared, and one inherited claim corrected
@@ -316,6 +414,48 @@ A colonial jury refused to convict a printer the governor wanted convicted, and 
 make them. That is jury power, not press law. The law it was decided under stayed the same for
 another seventy years. `news-communication` tells the newspaper; `immigration` tells Zenger's
 arrival; **this chapter owns the courtroom and the law.**
+
+### PATCH 2026-09-27 (T-258): Era 4, Virginia takes the vote from free Black and Native men, 1723
+
+The era-4 outline says colonial assemblies held power and juries could refuse to convict. It says
+nothing about who was allowed to vote for those assemblies. This is the era's clearest exclusion by law.
+
+- **May 1723:** the Virginia General Assembly passed "An Act directing the trial of Slaves, committing
+  capital crimes; and for the more effectual punishing conspiracies and insurrections of them; and for
+  the better government of Negros, Mulattos, and Indians, bond or free." One clause: "no free negro,
+  mullatto, or indian whatsoever, shall hereafter have any vote at the election of burgesses, or any
+  other election whatsoever."
+  (Encyclopedia Virginia, "Elections in Colonial Virginia",
+  https://encyclopediavirginia.org/entries/elections-in-colonial-virginia/ ; the Act itself is
+  transcribed at Encyclopedia Virginia's primary-documents page for the 1723 act; both fetched or
+  surfaced 2026-09-27)
+- **Actors:** the burgesses of the General Assembly who passed it, and Lieutenant Governor **William
+  Gooch**, who defended it to London.
+- **A London lawyer objected.** **Richard West**, legal counsel to the Board of Trade, wrote on
+  **10 January 1724**: "I cannot see why one Freeman should be used worse than another meerly upon
+  account of his complexion."
+- **Gooch's answer, 18 May 1736:** he said free Black people had been suspected of helping "a
+  Conspiracy discovered amongst the Negros" before the 1723 session, and that the law was meant "to
+  make the free-Negros sensible that a distinction ought to be made between their offspring and the
+  Descendants of an Englishman."
+  (Encyclopedia Virginia, "Denying Free Blacks the Right to Vote (1724, 1735)",
+  https://encyclopediavirginia.org/entries/denying-free-blacks-the-right-to-vote-1724-1735/, fetched
+  2026-09-27)
+- **The sources record no change after West's objection.** Gooch was still defending the law in 1736.
+  No source read gives a repeal date. Do not state when, or whether, it ended in the colonial period.
+- **1736:** Virginia set a land test. A voter had to have owned **100 acres of unimproved land, or 25
+  acres with a house on it**, for at least a year. (Encyclopedia Virginia, "Elections in Colonial
+  Virginia".)
+- **How the prose can say it:** "In 1723 the men of Virginia's assembly passed a law that no free
+  Black man and no Native man could vote in any election. A lawyer in London wrote that he could not
+  see why one free man should be treated worse than another because of his skin. The burgesses kept the law."
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-258): when Virginia's 1723 ban on free Black and Native voters was repealed, if it was in the colonial period
+Sources checked: Encyclopedia Virginia, "Elections in Colonial Virginia" (states the 1723 rule, gives no
+end date); Encyclopedia Virginia, "Denying Free Blacks the Right to Vote (1724, 1735)" (West's objection
+and Gooch's defence, no end date); search results for the 1723 act (Virginia Places, League of Women
+Voters timeline, Library of Virginia blog), none of which gives a colonial-era repeal.
+How the prose can say it: "The ban was still in force when Gooch defended it in 1736." Do not add an end date.
 
 ## Era 5 — 1750 to 1800
 
@@ -417,6 +557,152 @@ arrival; **this chapter owns the courtroom and the law.**
   **`slavery-freedom` leads on this; Ona Judge is that chapter's story (slug `ona-judge`). Her
   escape is not retold here.**
 
+### PATCH 2026-09-27 (T-258): Era 5, the outline's founding-document claims, now sourced
+
+The era-5 outline span "Declaration, Constitution, and Bill of Rights" names the Declaration, the
+Articles and "their failure", the Convention and its compromises, and ratification. Before this patch
+the bank sourced only the Bill of Rights, Madison and Washington. Facts below, all fetched 2026-09-27.
+
+- **Declaration of Independence.** 2 July 1776: the Continental Congress adopted the Lee Resolution for
+  independence. 4 July 1776: it adopted the Declaration. Drafted by the Committee of Five (Thomas
+  Jefferson, John Adams, Benjamin Franklin, Robert R. Livingston, Roger Sherman), with Jefferson as the
+  main writer. Signing of the engrossed parchment began 2 August 1776. 56 delegates signed in the end.
+  Livingston never signed. (National Archives, Milestone Documents, "Declaration of Independence",
+  https://www.archives.gov/milestone-documents/declaration-of-independence)
+- **Articles of Confederation.** Adopted by Congress 15 November 1777. In force from 1 March 1781, when
+  Maryland, the last state, ratified. Each state had one vote in Congress whatever its size. Congress
+  could not tax, could not regulate trade between states, and any amendment needed every state to agree.
+  (National Archives, "Articles of Confederation",
+  https://www.archives.gov/milestone-documents/articles-of-confederation)
+  **For the outline's word "failure":** the writer should state these missing powers instead of the
+  evaluative word.
+- **Constitutional Convention.** Philadelphia, 25 May to 17 September 1787 (called for 14 May, no
+  quorum until 25 May). About 55 delegates attended. 39 signed. Rhode Island sent no one. The
+  Connecticut Compromise gave each state two senators and set House seats by population.
+  (National Archives, "Constitution Q&A", https://www.archives.gov/founding-docs/constitution-q-and-a)
+- **Ratification.** New Hampshire was the ninth state, **21 June 1788**, which put the Constitution in
+  force among the ratifying states. The new government began **4 March 1789**. North Carolina and Rhode
+  Island ratified only after Washington's inauguration. Rhode Island was last, **29 May 1790, by 34
+  votes to 32**, after its legislature had rejected 11 attempts at ratification between September 1787
+  and January 1790. (National Archives Q&A above ; National Archives *Prologue* blog, "'Rogue Island':
+  The last state to ratify the Constitution", 18 May 2015,
+  https://prologue.blogs.archives.gov/2015/05/18/rogue-island-the-last-state-to-ratify-the-constitution/)
+
+### PATCH 2026-09-27 (T-258): Era 5, the Constitution's other slavery clauses, as law
+
+The outline covers the three-fifths clause. Two more clauses protected slavery, and the writer needs
+their text. (National Archives, Constitution transcript,
+https://www.archives.gov/founding-docs/constitution-transcript, fetched 2026-09-27)
+
+- **Article I, Section 9, Clause 1 (the slave-trade clause):** "The Migration or Importation of such
+  Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the
+  Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on
+  such Importation, not exceeding ten dollars for each Person." Plain meaning: Congress could not ban
+  bringing enslaved Africans into the country before 1808.
+- **Article V** forbade any amendment before 1808 from touching that clause.
+- **Article IV, Section 2, Clause 3 (the fugitive slave clause):** "No Person held to Service or Labour
+  in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or
+  Regulation therein, be discharged from such Service or Labour, but shall be delivered up on Claim of
+  the Party to whom such Service or Labour may be due." Plain meaning: a person who escaped slavery into
+  a free state was still to be handed back.
+- **Article I, Section 2, Clause 1 (who votes):** "Electors in each State shall have the Qualifications
+  requisite for Electors of the most numerous Branch of the State Legislature." Plain meaning: the
+  Constitution set no national rule on who could vote. Each state decided.
+- `slavery-freedom` tells what these clauses did to people. The text as law is this chapter's.
+
+### PATCH 2026-09-27 (T-258): Era 5, the Fugitive Slave Act of 1793
+
+A law that took liberty, with named signers. `slavery-freedom` leads on the people it was used against.
+
+- Title: "An Act respecting fugitives from justice, and persons escaping from the service of their
+  masters." **Approved by President George Washington, 12 February 1793.**
+  (Text as printed from the *Annals of Congress*, 2nd Congress, 2nd Session, pp. 1414-15, at
+  ushistory.org, "Fugitive Slave Act of 1793",
+  https://ushistory.org/historic-places/presidentshouse/history/slaveact1793 ; same transcript at
+  George Washington's Mount Vernon,
+  https://www.mountvernon.org/education/primary-source-collections/primary-source-collections/article/fugitive-slave-act-of-1793 ;
+  both fetched 2026-09-27)
+- **Section 3:** the slaveholder, "his agent or attorney," could "seize or arrest" the person, take
+  them before any federal circuit or district judge, or any county, city or town magistrate, and on
+  "oral testimony or affidavit" get a certificate that was "sufficient warrant for removing" the person.
+  **The Act provides no jury** and says nothing of the seized person giving evidence.
+- **Section 4:** anyone who obstructed the seizure, rescued the person, or hid them after notice
+  forfeited **$500** to the claimant.
+- **The vote:** the House passed it **48 to 7** on 4 February 1793, with 14 not voting
+  **(unconfirmed: search summary only; Wikipedia summary)**.
+- **How the prose can say it:** "In 1793 the members of Congress voted for a law that let a slaveholder or his agent
+  seize a person in a free state and take them before a single judge or magistrate. There was no jury.
+  George Washington signed it on 12 February 1793."
+
+### PATCH 2026-09-27 (T-258): Era 5, who could vote after independence: New Jersey, 1776 to 1797
+
+- New Jersey's **1776 constitution**: "All inhabitants of this colony of full age, who are worth fifty
+  pounds proclamation money clear estate in the same, and have resided within the county ... twelve
+  months immediately preceding the election, shall be entitled to vote." No word about sex or race, so
+  unmarried women and free Black people who met the property test could vote. In 1806 fifty pounds was
+  worth about three horses or eight cows.
+  (Museum of the American Revolution, *When Women Lost the Vote*, "The Promise of 1776 for Women",
+  https://www.amrevmuseum.org/virtualexhibits/when-women-lost-the-vote-a-revolutionary-story/pages/how-did-women-gain-the-vote-the-promise-of-1776-for-women,
+  fetched 2026-09-27 by curl)
+- **1790** election law (18 November 1790): "no person shall be entitled to vote in any other township or
+  precinct, than that in which **he or she** doth actually reside." **1797** law extended this to all 13
+  counties and dropped the words "clear estate," which made it easier for wives and widows to qualify.
+  (Same exhibit, "New Jersey's Revolutionary Decade",
+  https://www.amrevmuseum.org/virtualexhibits/when-women-lost-the-vote-a-revolutionary-story/pages/how-did-the-vote-expand-new-jersey-s-revolutionary-decade)
+- **1798:** a new law let only white male taxpayers vote for town officers. Property owners of any race
+  or sex still voted for county, state and federal offices. (Same page.)
+- **Of the state constitutions written 1776 to 1790, ten** defined voters as "male" or "freemen"
+  (Georgia until 1789, Maryland, Massachusetts, New Hampshire, New York, North Carolina, Pennsylvania,
+  South Carolina, Vermont, Virginia). **Five** had no sex qualification in their election law
+  (Connecticut, Delaware, Georgia after 1789, New Jersey, Rhode Island). (Museum of the American
+  Revolution, first page above.)
+- The 1807 law that ended this is in the era-6 patch.
+
+### PATCH 2026-09-27 (T-258): Era 5, the Sedition Act of 1798 and the jailing of Matthew Lyon
+
+Government using a law to jail its critics, with named actors. Not in the outline or bank before this.
+
+- **The four acts of 1798**, signed by **President John Adams**: Naturalization Act (18 June), Alien Act
+  (25 June), Alien Enemies Act (6 July), Sedition Act (14 July). The Sedition Act made it a crime to
+  write or publish "any false, scandalous and malicious writing" against the government. Penalty: a
+  fine up to **$2,000** and prison up to **two years**. It expired **3 March 1801**. "The only
+  journalists prosecuted under the Sedition Act were editors of Democratic-Republican newspapers."
+  (National Archives, Milestone Documents, "Alien and Sedition Acts",
+  https://www.archives.gov/milestone-documents/alien-and-sedition-acts, fetched 2026-09-27)
+- **How many:** "more than two dozen people, mostly opposition publishers, were convicted" (National
+  Constitution Center blog, "A Look Back: Sedition, Free Speech and the President",
+  https://constitutioncenter.org/blog/a-look-back-sedition-free-speech-and-the-president). The Federal
+  Judicial Center history gives no single total. Say "more than two dozen convicted, by the National
+  Constitution Center's count."
+- **Matthew Lyon**, Republican congressman from Vermont, born in Ireland. All from the Federal Judicial
+  Center, Bruce A. Ragsdale, *The Sedition Act Trials* (2005),
+  https://www.fjc.gov/sites/default/files/trials/seditionacts.pdf, fetched 2026-09-27:
+  - **5 October 1798:** a federal grand jury in Vermont indicted him on three counts. **6 October:**
+    a deputy marshal arrested him at Fairhaven. **9 October:** tried at Rutland before Supreme Court
+    Justice **William Paterson**, with District Judge **Samuel Hitchcock**. The prosecutor was U.S.
+    District Attorney **Charles Marsh**. Lyon defended himself.
+  - The charges: a letter in which he wrote of seeing public welfare "swallowed up in a continual grasp
+    for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice," and
+    reading aloud at campaign rallies a letter by the poet Joel Barlow blaming Adams and the Senate for
+    the crisis with France.
+  - Paterson told the jury its job had "nothing whatever to do with the constitutionality or
+    unconstitutionality of the sedition law." The jury convicted within an hour. Sentence: **four
+    months in prison, a $1,000 fine, and $60.96 costs.**
+  - He was held in the jail at **Vergennes** and released **9 February 1799**. While in jail he was
+    **re-elected to the House.**
+  - **Date disagreement:** the National Constitution Center blog dates the case "October 1799." The
+    Federal Judicial Center's chronology gives **October 1798**. Use 1798.
+  - Further figures (from search summaries only, not in the FJC text read): the jail cell was 16 by 12
+    feet, and he won re-election 4,576 votes to 2,444; on 22 February 1799 a House vote to expel him
+    failed, 49 to 45. **(unconfirmed: search summary only)** for all three.
+- **James Callender** was sentenced by Justice **Samuel Chase** to nine months and a $400 fine.
+  **Jefferson**, as president, pardoned him. Chase's conduct in the Callender trial was one of the
+  grounds for the House impeaching Chase in 1804. The Senate acquitted him. (FJC, same PDF.)
+- **How the prose can say it:** "In October 1798 a federal jury in Vermont convicted Congressman
+  Matthew Lyon of sedition for writing and reading aloud criticism of President John Adams. Justice
+  William Paterson sentenced him to four months in jail and a $1,000 fine. Voters re-elected Lyon while
+  he was in the jail at Vergennes."
+
 ## Era 6 — 1800 to 1850
 
 ### John Marshall — inherited `verified` tag, now actually sourced
@@ -497,6 +783,128 @@ opposition.** All three are here.
   what Pennsylvania did and when, and leave the ranking out.
 - `education` leads on what the schools were like. **This chapter owns the tax and the fight over
   paying it.**
+
+### PATCH 2026-09-27 (T-258): Era 6, the Indian Removal Act vote count, a source disagreement
+
+The bank and the outline give the House vote as **102 to 97**, and the bank asked the prose writer to
+re-check it against the National Park Service. Checked 2026-09-27:
+
+- **U.S. House of Representatives, Office of the Historian**, "Indian Removal Act of 1830": the House
+  passed it "in a vote of 102 to 97" on **26 May 1830**. Northern members were "almost universally
+  opposed," southern members for it. (https://history.house.gov/HistoricalHighlight/Detail/36507230462)
+- **National Park Service**, "Preludes to the Trail of Tears": House **101 to 97**, Senate **28 to 19**,
+  signed **28 May 1830**. (https://www.nps.gov/articles/000/preludes-trail-of-tears.htm)
+- Other secondary sources give 103 to 97 **(unconfirmed: search summary only)**.
+- **Ruling for the writer:** use the House's own figure, **102 to 97 on 26 May 1830**, and do not
+  present it as uncontested if the count matters to the sentence. The Senate figure, 28 to 19, is not
+  in dispute. The source for "Jackson signed it on 28 May 1830" is the NPS page.
+
+### PATCH 2026-09-27 (T-258): Era 6, *Worcester v. Georgia*, the case facts
+
+- **Samuel A. Worcester**, a Christian missionary, was convicted in a Georgia court for living on
+  Cherokee Nation land without a permit, and sentenced to **four years of hard labour in the Georgia
+  penitentiary**. (NPS, "Preludes to the Trail of Tears", above.)
+- The Georgia statute required any white person living in Cherokee territory after **1 March 1831** to
+  hold a licence from the governor and to swear an oath to support Georgia's constitution and laws.
+- Decided **January Term 1832**, opinion by **Chief Justice John Marshall**: "The act of the state of
+  Georgia, under which the plaintiff in error was prosecuted, is consequently void, and the judgment a
+  nullity." (Cornell LII, 31 U.S. 515, https://www.law.cornell.edu/supremecourt/text/31/515)
+- The bank's existing entry (Jackson's "fell still born" letter, from the Federal Judicial Center)
+  covers the ruling not being carried out. When and how Worcester got out of prison was not checked
+  on this pass. Do not give a release date.
+
+### PATCH 2026-09-27 (T-258): Era 6, *Marbury v. Madison*: the day of decision
+
+- The National Archives Milestone Documents page ("Marbury v. Madison (1803)",
+  https://www.archives.gov/milestone-documents/marbury-v-madison, fetched 2026-09-27) gives the year and
+  quotes Marshall: "A Law repugnant to the Constitution is void." It gives **no day**. Cornell gives
+  "February Term, 1803". **Keep "February 1803"** as the bank already says.
+
+### PATCH 2026-09-27 (T-258): Era 6, the Louisiana Purchase's constitutional question, and whose land
+
+- Treaty signed **30 April 1803**. The United States bought **828,000 square miles** west of the
+  Mississippi from France for **$15 million**, about 4 cents an acre. Negotiators: **Robert Livingston**
+  and **James Monroe**, authorised to pay up to $10 million for New Orleans and the Floridas only.
+  (National Archives, Milestone Documents, "Louisiana Purchase Treaty (1803)",
+  https://www.archives.gov/milestone-documents/louisiana-purchase-treaty, fetched 2026-09-27 by curl)
+- **The constitutional question.** The National Archives page: Jefferson "was generally a strict
+  interpreter of the Constitution who wondered if the U.S. Government (and especially the President)
+  was authorized to acquire new territory." He went ahead anyway. In a letter to **Wilson Cary
+  Nicholas** in 1803 he wrote: "Our peculiar security is in possession of a written Constitution. Let
+  us not make it a blank paper by construction," and that he would rather ask "an enlargement of power
+  from the nation" than assume it. He added that if his friends thought differently, "certainly I shall
+  acquiesce with satisfaction." (Bill of Rights Institute, "Handout B: Jefferson's Views on the
+  Louisiana Purchase", which prints the letter,
+  https://billofrightsinstitute.org/activities/handout-b-jeffersons-views-on-the-louisiana-purchase/,
+  fetched 2026-09-27.) The day of the letter was not confirmed on this pass. A search summary says he
+  drafted a two-paragraph amendment in July 1803 and his Cabinet told him it was not needed
+  **(unconfirmed: search summary only)**.
+- **Whose land.** Article VI of the treaty: "The United States promise to execute Such treaties and
+  articles as may have been agreed between Spain and the tribes and nations of Indians." The National
+  Archives page states the land "was populated with thousands of American Indians across dozens of
+  tribes" and that the purchase "ignored the potential impact on Native Americans." France sold its
+  claim. The nations living there were not parties to the sale. `native-nations` owns what followed.
+
+### PATCH 2026-09-27 (T-258): Era 6, who gained the vote and who lost it, 1807 to 1838
+
+The outline says "the expansion of the vote to white men who owned no property." The same state
+conventions that dropped property tests for white men took the vote away from Black men and from women.
+That is the other half of the fact, and it has named actors and numbers.
+
+- **New Jersey, 1807.** The legislature passed an election law that made all **white male
+  taxpayers** eligible and shut out everyone else. It ended voting by women and by free people of
+  colour, who had voted under the 1776 constitution since the property test used "all inhabitants."
+  The law "claimed to simply seek a 'uniform practice'." The Museum of the American Revolution's
+  exhibit ties it to a disputed 1807 election over where to put a county courthouse, and to the gradual
+  abolition act of 1804.
+  (Museum of the American Revolution, *When Women Lost the Vote*, "The Backlash",
+  https://www.amrevmuseum.org/virtualexhibits/when-women-lost-the-vote-a-revolutionary-story/pages/how-did-women-lose-the-vote-the-backlash,
+  fetched 2026-09-27 by curl.) A search summary adds that women were reported to have cast nearly a
+  quarter of the votes in one 1802 election **(unconfirmed: search summary only)**. New Jersey's 1844
+  constitution then wrote "white male citizens" into the constitution itself (search summary only).
+- **New York, 1821.** The constitutional convention dropped the property test for white men and
+  required "m[e]n of colour" to "be seized and possessed of a freehold estate of the value of two
+  hundred and fifty dollars, over and above all debts and incumbrances charged thereon." **In 1825 only
+  298 of nearly 6,000 free adult Black New Yorkers met that test.** White men still had to meet a
+  tax, militia, firefighting or road-work condition, and an 1826 amendment removed that for white men
+  only. (Peter J. Galie, "The 1821 Constitutional Convention and the Constitutionalizing of Racial
+  Discrimination in New York," *Albany Law Review* vol. 87.4,
+  https://www.albanylawreview.org/article/127457-the-1821-constitutional-convention-and-the-constitutionalizing-of-racial-discrimination-in-new-york.pdf,
+  fetched 2026-09-27 ; New York State Archives, "Constitutions and Constitutional Conventions": the 1821
+  constitution "removed property qualifications for white male voters, yet expanded property
+  qualifications for African Americans",
+  https://www.archives.nysed.gov/research/constitutions-and-constitional-conventions.) The 1826 date
+  comes from a search summary; the Galie text confirms the white-male conditions.
+- **North Carolina, 1835.** The constitutional convention disfranchised "free blacks who had been
+  previously allowed to vote." Voting for the state senate still required owning land. Women could not
+  vote. (NCpedia, "Convention of 1835", https://www.ncpedia.org/government/convention-1835, fetched
+  2026-09-27.) The convention vote on the clause, **66 to 61**, comes only from a search summary
+  **(unconfirmed: search summary only)**.
+- **Pennsylvania, 1838.** In **January 1838** the constitutional convention inserted "white" before
+  "freemen" in the voting article. **Robert Purvis** wrote the protest, *Appeal of Forty Thousand
+  Citizens, Threatened with Disfranchisement*, and read it on **14 March 1838** at the First African
+  Presbyterian Church in Philadelphia. The voters ratified the new constitution on **9 October 1838**,
+  **113,971 to 112,759**. Black Pennsylvanians did not vote again until the Fifteenth Amendment in
+  **1870**. (Encyclopedia of Greater Philadelphia, "Appeal of Forty Thousand Citizens",
+  https://philadelphiaencyclopedia.org/essays/appeal-of-forty-thousand-citizens/, fetched 2026-09-27)
+- **Tennessee, 1834:** the convention inserted "white" into the franchise clause, taking the vote
+  from free Black men who had had it under the 1796 constitution **(unconfirmed: search summary only)**.
+- `rights-movements` owns the campaigns to win the vote back. The laws and the conventions that wrote
+  them are this chapter's.
+- **How the prose can say it:** "In 1821 the delegates who rewrote New York's constitution let white
+  men vote without owning land. In the same document they required a Black man to own $250 worth of
+  property. Four years later, 298 Black men in the whole state could meet that test."
+
+### PATCH 2026-09-27 (T-258): Era 6, party conventions: the first one
+
+- The **Anti-Masonic Party** held a national convention in **Baltimore in September 1831** and nominated
+  **William Wirt** for president. Britannica: it was "the first political party to hold a national
+  nominating convention, and the first to offer the electorate a platform of party principles." Wirt
+  carried only **Vermont (seven electoral votes)** in 1832.
+  (Britannica, "Anti-Masonic Movement", https://www.britannica.com/event/Anti-Masonic-Movement,
+  fetched 2026-09-27 by curl.) Search summaries give the dates **26 to 28 September 1831** and **111
+  delegates from 13 states** **(unconfirmed: search summary only)**.
+- The **Democrats** held their first national convention in **1832** (search summary only).
 
 ## Era 7 — 1850 to 1900
 
@@ -637,6 +1045,162 @@ https://history.house.gov/People/Listing/R/RAINEY,-Joseph-Hayne-(R000016)/
   population because of their race, different questions might have arisen."
 - **The fact worth telling a young reader:** Harlan is the justice who dissented alone in *Plessy v.
   Ferguson* three years earlier. Here he wrote the opinion the other way. **Do not smooth this over.**
+
+### PATCH 2026-09-27 (T-258): Era 7, the outline's rulings and amendments, as law
+
+The era-7 outline span names *Dred Scott*, the 14th and 15th Amendments, the end of Reconstruction in
+1877 and *Plessy*. Before this patch the bank sourced none of them in this file. All fetched 2026-09-27.
+
+- ***Dred Scott v. Sandford*, decided 6 March 1857**, opinion by **Chief Justice Roger B. Taney**.
+  Holding: "a negro of the African race, whose ancestors were brought to this country and sold as
+  slaves, is not a 'citizen' within the meaning of the Constitution of the United States," so Scott
+  could not sue in federal court. And Congress could not ban slavery in the federal territories.
+  (National Archives, Milestone Documents, "Dred Scott v. Sandford (1857)",
+  https://www.archives.gov/milestone-documents/dred-scott-v-sandford.) The vote was **7 to 2**, and
+  Taney also wrote that Black people "had no rights which the white man was bound to respect"
+  (both in `research/research-slavery-freedom.md`, sourced there to the National Archives).
+- **14th Amendment.** Congress approved it **13 June 1866**. It became part of the Constitution
+  **9 July 1868**. Citizenship: "All persons born or naturalized in the United States." No state may
+  "deny to any person within its jurisdiction the equal protection of the laws." Section 2 cut a
+  state's seats in Congress if it denied the vote to **male** citizens over 21, the first time the word
+  "male" entered the Constitution's text on voting. (National Archives, "14th Amendment",
+  https://www.archives.gov/milestone-documents/14th-amendment.) **The "first time 'male'" point is
+  this agent's reading of the text, not a sourced claim. Do not print it unless a source is found.**
+- **15th Amendment.** Passed by Congress **26 February 1869**, ratified **3 February 1870**. "The right
+  of citizens of the United States to vote shall not be denied or abridged by the United States or by
+  any State on account of race, color, or previous condition of servitude." The National Archives
+  page: Black Americans voted and held office in many Southern states through the 1880s. From the
+  early 1890s states used literacy tests, grandfather clauses and other devices to stop them, for more
+  than fifty years, until the Voting Rights Act of 1965.
+  (https://www.archives.gov/milestone-documents/15th-amendment)
+- ***Plessy v. Ferguson*, decided 18 May 1896, 7 to 1**, Justice Brewer not taking part. Majority by
+  **Justice Henry Billings Brown**: "We consider the underlying fallacy of the plaintiff's argument to
+  consist in the assumption that the enforced separation of the two races stamps the colored race with
+  a badge of inferiority." **Justice John Marshall Harlan**, dissenting: "Our constitution is
+  color-blind, and neither knows nor tolerates classes among citizens." The Louisiana law required
+  separate coaches or partitioned cars, with a **$25 fine or 20 days in jail** for breaking it.
+  (National Archives, "Plessy v. Ferguson (1896)",
+  https://www.archives.gov/milestone-documents/plessy-v-ferguson)
+  `rights-movements` has Homer Plessy and the committee that brought the case.
+
+### PATCH 2026-09-27 (T-258): Era 7, *Minor v. Happersett*, October Term 1874: the Court says citizenship does not carry the vote
+
+- **Virginia Minor**, a white, native-born citizen of Missouri, tried to register to vote in **St.
+  Louis in October 1872**. The registrar, **Reese Happersett**, refused because she was not a "male
+  citizen." She sued, arguing the 14th Amendment made voting a right of every citizen.
+- The Supreme Court, unanimous, **October Term 1874**, opinion delivered by the Chief Justice (the page
+  fetched does not name him): "the Constitution of the United States does not
+  confer the right of suffrage upon any one." States could limit the vote to men.
+  (Cornell LII, 88 U.S. 162, https://www.law.cornell.edu/supremecourt/text/88/162, fetched 2026-09-27.)
+  **On the year:** `research/research-rights-movements.md` notes Cornell dates it to the October 1874
+  term and that it is usually cited a year later. Give the term, or say "in the mid-1870s", and do not
+  pick a year silently.
+- This is the ruling that left women's voting to the states until 1920. `rights-movements` owns the
+  campaign. The ruling as law is this chapter's.
+
+### PATCH 2026-09-27 (T-258): Era 7, the disputed election of 1876 and the end of Reconstruction
+
+- **18 January 1877:** Senator **George Edmunds** of Vermont proposed a bill for an Electoral
+  Commission to settle the disputed 1876 count between **Rutherford B. Hayes** (Republican) and
+  **Samuel J. Tilden** (Democrat). Fifteen members: five representatives, five senators, five Supreme
+  Court justices.
+- **25 January 1877:** Representative **Joseph H. Rainey** of South Carolina opposed it, warning it
+  could lead to "the election of a President by one man rather than by a majority of the people of the
+  United States." The bill passed anyway. **The commission voted 8 to 7, along party lines, to give
+  every contested electoral vote to Hayes.**
+  (U.S. House, Office of the Historian, "Joseph H. Rainey of South Carolina Opposed the 1877 Electoral
+  Commission", https://history.house.gov/Historical-Highlights/1851-1900/1877_January_25_Rainey/,
+  fetched 2026-09-27.) **This links to the `joseph-rainey` story block, which does not yet mention it.**
+- The contested states were **Florida, Louisiana, South Carolina and Oregon**. The commission was
+  created **29 January 1877**, held its first public hearing **1 February 1877**, and Congress declared
+  Hayes the winner on **2 March 1877**, two days before the term began **(unconfirmed: search summary
+  only; Senate and Library of Congress pages)**.
+- **24 April 1877:** on Hayes's orders, federal troops withdrew from the Louisiana state house, "the
+  last federally defended state house in the South." (Equal Justice Initiative, *A History of Racial
+  Injustice* calendar, 24 April, https://calendar.eji.org/racial-injustice/apr/24, fetched
+  2026-09-27.) The South Carolina withdrawal on **10 April 1877** is from a search summary only.
+- **How the prose can say it:** "Five senators, five representatives and five Supreme Court justices
+  decided the 1876 election. They voted 8 to 7, Republicans against Democrats, to give Hayes every
+  disputed vote. In April 1877 President Hayes ordered the last federal troops out of the Louisiana
+  state house."
+
+### PATCH 2026-09-27 (T-258): Era 7, how the South took the vote back: Mississippi 1890, *Williams* 1898, Louisiana 1898
+
+Who could vote and who was kept from voting, by what laws and whom. `slavery-freedom` tells this as
+slavery's successor. This chapter needs the laws, the conventions and the Court.
+
+- **Mississippi, 1890.** Senator **J. Z. George** led the constitutional convention. Its franchise
+  committee, which included the one Black delegate, **Isaiah Montgomery**, "agreed that their charge was
+  disfranchisement." Because the 15th Amendment forbade barring voters by race, the delegates added
+  requirements instead: a **$2 annual poll tax** (a tax a man had to pay before he could vote), a
+  residence rule of two years in the state and one in the county, an oath that the voter had not
+  committed certain crimes "which the committee deemed more likely to have been committed by African
+  Americans," state-printed ballots that required reading, and an **"understanding clause"**: a man who
+  could not read could be read a section of the constitution and allowed to vote if he could explain
+  it, which left the choice to the registrar. The delegates put the constitution into effect by
+  proclamation, **without a vote of the people.** (Mississippi Encyclopedia, "Mississippi
+  Constitutional Convention of 1890",
+  https://mississippiencyclopedia.org/entries/mississippi-constitutional-convention-of-1890/, fetched
+  2026-09-27 by curl.)
+- **Effect:** by 1892, **138,400 Black and 52,000 white** Mississippians removed from the voter rolls
+  **(unconfirmed: search summary only; attributed to Mississippi Encyclopedia's "Constitution of 1890"
+  entry, not opened)**.
+- ***Williams v. Mississippi*, 170 U.S. 213, decided 25 April 1898, unanimous**, opinion by **Justice
+  Joseph McKenna**. Williams, a Black man convicted of murder, argued that jurors were drawn from the voter
+  rolls and the 1890 constitution kept Black men off those rolls, so few or none could sit on his jury. The Court: the provisions
+  "do not on their face discriminate between the races, and it has not been shown that their actual
+  administration was evil; only that evil was possible under them." (Cornell LII,
+  https://www.law.cornell.edu/supremecourt/text/170/213 ; Mississippi Encyclopedia, above.) His first
+  name was not in the pages fetched: **write "Williams".** Mississippi Encyclopedia: the 1890 constitution's voting rules stood
+  "until the Twenty-Fourth Amendment of 1964."
+- **Louisiana, 1898.** The convention enacted the constitution **without a vote of the people**. It set
+  a **$1 annual poll tax** (receipts for two past years required), a literacy test given by parish
+  registrars with no fixed standard, a **$300 property test**, and a **grandfather clause**: a man could
+  register if his father or grandfather had been a voter in **1867**, when formerly enslaved people could
+  not vote in Louisiana. Thomas Semmes, chair of the Judiciary committee: "We met here to establish the
+  supremacy of the white race, and the white race constitutes the Democratic Party of this State."
+  **Registered Black voters: 130,344 in 1897, 12,902 in 1898, 5,320 in 1900, 598 in 1922.**
+  (64 Parishes, "Louisiana Constitution of 1898", https://64parishes.org/entry/louisiana-constitution-of-1898,
+  fetched 2026-09-27)
+  **Figures disagree:** `research/research-slavery-freedom.md` gives 130,344 in 1896 and **1,342 by
+  1904** (sourced there to EJI and the same 64 Parishes entry). Give the 64 Parishes year-by-year
+  figures and say where the counts come from.
+- **How the prose can say it:** "In 1890 the delegates who wrote Mississippi's new constitution set out
+  to stop Black men from voting without naming race. They added a $2 poll tax and a test that let the
+  registrar decide who understood the constitution. In 1898 the Supreme Court justices upheld it.
+  None of them dissented."
+
+### PATCH 2026-09-27 (T-258): Era 7, Tammany Hall's Tweed Ring: a corruption case with named officials
+
+The outline names "big-city political machines like Tammany Hall." The bank's machine material is
+Plunkitt in era 8. The era-7 case with named officials, counts and a conviction:
+
+- **William M. Tweed** held city and state offices at once: New York State senator **1867 to 1871**,
+  chair of the state Senate's finance committee, and **Grand Sachem of Tammany Hall** from **1868**.
+- **How the ring took the money:** inflated bills to the city, printing and stationery companies they
+  controlled that overcharged for supplies, and cost overruns on public works. The new **county
+  courthouse**, "expected to cost half a million dollars, wound up costing the city's taxpayers
+  approximately $13 million."
+- **How much:** "Modern historians estimate the ring stole between $30 million and $200 million."
+  Another figure: an aldermen's committee in **1877** put it at **$25 million to $45 million**
+  **(unconfirmed: search summary only)**. Give the range and say whose.
+- **Who exposed it:** the cartoonist **Thomas Nast** in *Harper's Weekly* from **1869**, and in **1871**
+  *The New York Times*, which printed evidence from inside the city's accounts.
+- **Punishment:** convicted in late **1873** and sentenced to **twelve years**, later reduced. Search
+  summaries give **204 of 220 counts**, a **$12,750** fine, the sentence cut to one year, an escape on
+  **4 December 1875** to Cuba and Spain, and return in **November 1876** **(unconfirmed: search summary
+  only)**. He **died in Ludlow Street jail on 12 April 1878**.
+  (EBSCO Research Starters, "William M. Tweed",
+  https://www.ebsco.com/research-starters/history/william-m-tweed, fetched 2026-09-27)
+- `crime-justice` may also tell the prosecution. This chapter's angle: how a machine ran a city's money.
+
+### OPEN 2026-09-27 (T-258): the date and vote of South Carolina's secession ordinance, not yet sourced in this bank
+Not a settled "not found": the web-search quota ran out mid-check. Pages tried: U.S. Senate "Senate
+Responds to Secession" minute page, NPS and National Archives secession pages, South Carolina
+Encyclopedia "Secession crisis" and "Secession convention" entries. None returned the date in a form
+this agent could read. The commonly printed date (20 December 1860) is **not confirmed here**. The
+next agent or the writer should source it (the South Carolina Department of Archives and History or
+the National Archives ordinance text) before using a day.
 
 ## Era 8 — 1900 to 1950
 
@@ -1597,6 +2161,23 @@ governments; Mississippian chiefdoms.
   Ocmulgee Mounds, Mississippian Culture —
   https://www.nps.gov/ocmu/learn/historyculture/mississippian-culture.htm)
 
+### PATCH 2026-09-27 (T-258): Era 1, correction note on the congressional resolution about the Great Law
+
+- The bank above reports the NMAI guide's statement that in **1987 the U.S. Senate** passed a special
+  resolution acknowledging the Great Law's influence. **The resolution that passed both houses is
+  H. Con. Res. 331, 100th Congress, in 1988.** It was sponsored by Representative **Morris Udall**, with
+  Representatives Campbell and Lagomarsino, reported by the House Committee on Interior and Insular
+  Affairs (H. Rept. 100-1031), passed by the House under suspension of the rules, and agreed to by the
+  Senate. Its title: "to acknowledge the contribution of the Iroquois Confederacy of Nations to the
+  development of the U.S. Constitution" and to reaffirm the government-to-government relationship
+  between Indian tribes and the United States. (GovInfo, *History of Bills*, vol. 134 (1988),
+  https://www.govinfo.gov/content/pkg/HOB-1988/html/HOB-1988-hconres331.htm, fetched 2026-09-27;
+  printed at 102 Stat. 4932.) Congress.gov gives the final agreement date as **21 October 1988**
+  **(unconfirmed: search summary only)**.
+- A 1987 Senate resolution may be what the NMAI guide means. It was not checked on this pass. **If
+  the book uses this at all, write "In 1988 members of both houses of Congress voted for a resolution..."** and keep
+  the bank's warning that historians disagree about how much the Constitution took from the Great Law.
+
 ### Era 2 — The 1500s (state = thin, and it should stay thin)
 
 The outline cell claims: the first European government here answers to a king across an ocean; Spanish
@@ -1637,6 +2218,12 @@ governors, the Laws of the Indies, and church authority in Florida and New Mexic
   record; the execution of it is not settled.** If a future agent adds this to era 2, say exactly that.
 
 ---
+
+### PATCH 2026-09-27 (T-258): Era 2, correction note on the Oñate trial parked above
+
+The trial of Juan de Oñate took place in **1614**, so it belongs to **era 3**, not era 2. It is now
+written up, with sources, under "PATCH 2026-09-27 (T-258): Era 3, the Spanish crown puts its own
+governor on trial, 1614". Era 2 keeps only what Oñate did as governor from 1598.
 
 ## Sources used — eras 9 and 10 and the era 1-2 backfill (all fetched 10 September 2026)
 
