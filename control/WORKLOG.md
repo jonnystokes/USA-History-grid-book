@@ -2815,3 +2815,8 @@ CHECKPOINT: control/checkpoints/T-258-government-politics.md (read SALVAGE first
 VERIFY: python tools/project_state.py --check government-politics --stage research
 RESULT: DONE. PASS  government-politics / research. measured: stage=RESEARCHED eras=10/10 stories=14 (v14 c0 t0) verify_tags=0 bank=29973w outline=11283w manuscript=0w validator_errors=0
         202475 tokens, 104 tool uses, 11.7 min (opus). Eras 8-10 bank check done (Guinn, Breedlove, Allwright, Teapot Dome, Box 13, VRA counts, Moss verdict, Jan 2025 pardons, Menendez, felony disenfranchisement 2024); era 7 secession closed. ~12 unconfirmed tags. Parked 5 items to crime-justice.
+
+### 2026-09-27 | [LOCAL] T-262r | rights-movements: continue bank check eras 1-6 (era 6 left) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-262-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage research
