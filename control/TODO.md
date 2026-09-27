@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-264r disasters (continue full research eras 1-5 [BURST of 5])
+NOW-RUNNING: T-265r crime-justice (continue full research eras 1-5 [BURST of 5])
 **Ten-agent batch hit the usage limit: 2 done (education 1-5, war 1-5), 8 partial and committed.**
 NOW (Jon, 46%): after T-262r, a BURST OF TWO (T-260r religion + T-257r exploration), then ONE AT A TIME: T-258r gov-politics, T-262r rights, T-260r religion, T-257r exploration,
 T-263r health, T-264r disasters, T-265r crime-justice, T-266r drugs-alcohol. Then file all TO PARK items. Then
