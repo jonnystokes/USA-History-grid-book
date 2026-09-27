@@ -2927,3 +2927,8 @@ Jon (69%): burst of two next: T-263c health 9-10 + T-265c crime-justice 9-10.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+
+### 2026-09-27 | [LOCAL] T-265c | crime-justice: full research eras 9-10, completes the chapter [BURST of 2] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-265-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage research
