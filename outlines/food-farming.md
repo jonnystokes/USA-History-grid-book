@@ -48,6 +48,10 @@ English colonists arrived not knowing how to feed themselves here. Native crops 
 <!-- hb-zoom level="span" label="Corn saves the colonies" -->
 Jamestown's Starving Time, winter 1609–10: with Powhatan food trade cut off, about 500 colonists fell to roughly 61 by spring — they ate horses, dogs, rats, leather, and there is evidence some ate the dead. Corn — bought, seized, and finally grown — kept the colony alive. At Plymouth, the colonists' first corn harvest in autumn 1621 is why there was a second year.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Corn taken" -->
+- November 1620, Cape Cod: a Mayflower exploring party dug up about ten bushels of seed corn and a bag of beans that Nauset families had buried for the next spring. They also opened graves and carried off grave goods. In 1621 they promised the owners payment, and Edward Winslow wrote that the owners had been given "full content."
+- August 10, 1610: George Percy led English soldiers against the Paspahegh town near Jamestown. They burned the houses, cut down the cornfields and killed between 15 and 75 people. They threw the leader's two children overboard and shot them in the water. After 1622, colonial militia marched against Powhatan towns and cornfields nearly every summer for ten years.
+<!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Tobacco instead of dinner" -->
 John Rolfe's tobacco (first successful crop 1612) paid so well that Virginia planters grew it instead of food, and the colony's own assembly had to force balance — the 1629–30 inspection law capped each family at 2,000 tobacco plants per member, partly so corn would still get planted. The first cash crop, and the first time American farming chased money instead of meals. (The money is `economy`'s; the labor system is `slavery-freedom`'s.)
 <!-- /hb-zoom -->
@@ -77,10 +81,14 @@ Pennsylvania, New York, and New Jersey grew wheat past their own needs and shipp
 > **Who:** teenager left running three South Carolina plantations, who made indigo an American crop. · **When and where:** Wappoo plantation near Charleston; experiments from 1739, first successful dye crop 1744.
 Her father was posted to Antigua and left her, at about sixteen, managing three plantations. She experimented with indigo seed for years — helped by an indigo maker brought from the Caribbean and by the enslaved workers who did the tending — and in 1744 produced the colony's first successful indigo dye, then shared seed with her neighbors. Exports went from about 5,000 pounds in 1745–46 to 130,000 pounds by 1748. Indigo is a dye, not a dinner — but it shows what colonial farming was: land, weather, borrowed knowledge, and unfree hands.
 <!-- hb-story:end slug="eliza-lucas-pinckney" -->
-<!-- hb-story:start slug="lowcountry-rice-grower" name="(target) a Lowcountry rice grower" movie="" kind="ordinary" status="target" -->
-### (target) a Lowcountry rice grower
-Enslaved rice growers from this era are real but rarely named in surviving records. Honest options: tell the documented skills collectively (fanner baskets, heel-and-toe sowing, tidal-field engineering) rather than invent a person, or draw a named later figure from Lowcountry records if the writer finds one. Do not fabricate.
-<!-- hb-story:end slug="lowcountry-rice-grower" -->
+<!-- hb-zoom level="span" label="The rice workers, unnamed in the records" -->
+Planters' records list the enslaved rice workers by first name, age and price, and say almost nothing else about them. No single rice grower from these years can be followed as a person. What the records show about all of them:
+- Each worker had a set daily task, often a quarter acre to plant, hoe or flood. A worker who finished the task had the rest of the day.
+- The work was done in direct sun, standing in water and mud, among mosquitoes, snakes and alligators. Workers dug the banks and canals. The earth they moved across the Lowcountry is about the same volume as the great pyramids of Egypt put together.
+- Rice exports grew from about 269,000 pounds a year (1698 to 1702) to more than 30 million pounds a year (1738 to 1742).
+- More enslaved people died in the Lowcountry than were born there until the 1760s. Planters kept buying captives. Ships landed more than 1,000 Africans a year at Charles Town by 1720 and more than 3,000 a year by 1770.
+- The first rice lands along the Ashley, Cooper and Stono rivers belonged to the Kiawah, Etiwan and Stono people. English colonists sold Kussoe and Stono people who fought back into slavery in the Caribbean (1671, 1674). In 1684 the leaders of eight nations signed away their land claims.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
 <!-- hb-time:start id="1750-1800" order="05" chapter="food-farming" label="1750 to 1800" state="full" progress="researched" -->
@@ -90,16 +98,24 @@ At the first census in 1790, about nine in ten working Americans farmed. The new
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The farm as an idea" -->
 Jefferson in *Notes on the State of Virginia* (printed 1785): "Those who labour in the earth are the chosen people of God, if ever he had a chosen people." The belief that family farms make free citizens steered American land law for the next century. Backcountry farmers, meanwhile, turned surplus corn into whiskey because a jug travels where a wagon of corn cannot (`drugs-alcohol` leads on whiskey as money and the 1794 rebellion). Farm tables stayed corn, pork, and cider.
+- Jefferson enslaved more than 600 people in his adult life. At Monticello each enslaved worker got a weekly ration of a peck (about 8 quarts) of cornmeal, a half-pound of pork or pickled beef, and four salted fish. The ration was not enough to live on. Enslaved families grew gardens and raised chickens in the evenings and on Sundays, and sold eggs and vegetables to Jefferson's household.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="amelia-simmons" name="Amelia Simmons" movie="" kind="famous" status="verified" -->
 ### Amelia Simmons
 > **Who:** author of *American Cookery* (Hartford, 1796) — the first cookbook written by an American for American kitchens. · **When and where:** Connecticut, 1796.
 On her title page she calls herself only "an American orphan." Nothing else about her life is known — say so plainly; it is part of the story that an unknown working woman wrote a founding American book. What the book did is well documented: the first printed recipes using American cornmeal — johnnycake, Indian slapjack, Indian pudding — and the first printed use of pearlash, a wood-ash salt that makes dough rise, the ancestor of baking powder. English cookbooks had ignored corn; hers cooked like America ate.
 <!-- hb-story:end slug="amelia-simmons" -->
-<!-- hb-story:start slug="farm-household-daybook" name="(target) a documented farm household" movie="" kind="ordinary" status="target" -->
-### (target) a documented farm household
-Farm daybooks and account books are the documentation for this era's eating — what a family grew, butchered, traded, and put by, season by season. No single household verified yet; find one daybook (New England or Pennsylvania archives are rich in them) and tell one year of food from it.
-<!-- hb-story:end slug="farm-household-daybook" -->
+<!-- hb-story:start slug="matthew-patten" name="Matthew Patten" movie="" kind="ordinary" status="verified" -->
+### Matthew Patten
+> **Who:** a New Hampshire farmer, carpenter and judge whose day book records what his family grew, caught and ate. · **When and where:** Bedford, New Hampshire, on the Merrimack River. His surviving diary runs from 1754 to 1788.
+Patten was born in Ireland in 1719 and came to the colonies at nine. He headed each little booklet of his diary "A Day Book continued." His entries for 1767 show one farm family's food year:
+- January: he butchered the family's hogs. Neighbors paid him for surveying in bushels of corn, and he took the corn and rye to a mill to be ground. He bought tea and sugar.
+- March: he opened the pit where the potatoes had been buried for the winter. They were "sound and good."
+- April and May: the family sowed peas, then planted potatoes, corn, barley, hemp and flax, and spread manure from the barn on the corn and potato field.
+- May and June: he helped haul a net across the Merrimack and took home 60 shad as his share in one night. He fished at Amoskeag Falls and sent home 354 fish. The Pennacook name for the falls meant roughly "good fishing place," and Pennacook people had netted fish there long before Bedford existed.
+- Summer: salmon of 6 to 19 pounds, split with two neighbors. In August he reaped his rye ("40 Stooks in all this year") and mowed 205 cocks of hay.
+Patten died in 1795 in one of the town's fields. He had carried dinner to the men who were mowing.
+<!-- hb-story:end slug="matthew-patten" -->
 <!-- hb-time:end id="1750-1800" -->
 
 <!-- hb-time:start id="1800-1850" order="06" chapter="food-farming" label="1800 to 1850" state="full" progress="researched" -->
@@ -119,7 +135,7 @@ Cotton spread across the Deep South and crowded out food crops; plantations ofte
 <!-- hb-story:start slug="frederic-tudor" name="Frederic Tudor" movie="" kind="famous" status="verified" -->
 ### Frederic Tudor
 > **Who:** the Boston "Ice King" — built a business selling New England pond ice around the world. · **When and where:** Boston; first cargo to Martinique 1806, ice to Calcutta 1833.
-Boston laughed when he loaded a ship with frozen pond water in 1806 and sailed it to the Caribbean. He kept at it for decades, working out sawdust insulation and ice houses, until in 1833 he landed 180 tons of New England ice in Calcutta, India — still frozen. Ice made the icebox an American kitchen fixture and let fresh food travel; when refrigerated railcars arrive in the next era, they are Tudor's idea on wheels.
+In 1806 he sent a ship of pond ice to Martinique. A Boston newspaper hoped it would not prove "a slippery speculation." Much of the ice melted, and he lost about $4,500. He kept at it for decades, working out sawdust packing and ice houses. In 1833 his ship *Tuscany* carried 180 tons of ice from Boston to Calcutta, India, a four-month voyage. About 100 tons were still ice when it arrived. Ice made the icebox an American kitchen fixture and let fresh food travel; when refrigerated railcars arrive in the next era, they are Tudor's idea on wheels.
 <!-- hb-story:end slug="frederic-tudor" -->
 <!-- hb-time:end id="1800-1850" -->
 
@@ -162,9 +178,14 @@ In 1920 there were 246,000 tractors on U.S. farms — and about 26 million horse
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Dust, pigs, and stamps: the New Deal on the farm" -->
 On the plowed-up southern Plains, drought from 1931 killed the wheat and the soil blew (the soil is `land-environment`'s telling; the exodus `migration`'s) — farm families lived on gardens, canned goods, government commodities, and jackrabbits. The Agricultural Adjustment Act (May 1933) paid farmers to grow less so prices would rise: about 10 million acres of growing cotton plowed under, about 6 million pigs bought and killed — while people stood in breadlines. Public anger at that contradiction pushed surplus food to relief families and produced the first Food Stamp Program (Rochester, New York, May 16, 1939). Paying farmers became permanent policy (`economy` leads on the money).
+- The AAA cotton checks went to landowners. Sharecroppers got about 11 percent of the money, and many landowners evicted their sharecroppers to keep the whole check.
+- Pellagra, a disease caused by a diet of mostly cornmeal, molasses and dried pork, struck about 3 million Americans between 1900 and 1940 and killed about 100,000. Poor Southern farm and mill families suffered most. Its signs were skin rashes, diarrhea, confusion, and death. In 1915 Dr. Joseph Goldberger fed prisoners at a Mississippi prison farm that diet in exchange for pardons, and about half of the eleven men got sick. During World War II, federal and state lawmakers required bakers to add niacin, the missing vitamin, to bread.
+- No official count of Dust Bowl deaths exists. In Kansas alone, dozens of people died of dust pneumonia in 1935.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Victory gardens, ration books, school lunch" -->
 World War II put food on a war footing: sugar rationed from May 1942, coffee that November, meat, cheese, and fats from March 1943 — every person, babies included, carried a ration book of points. Americans answered with about 20 million victory gardens growing about 40 percent of the country's fresh vegetables by 1943–44. Frozen food had already reached stores (Birdseye's first retail case, Springfield, Massachusetts, March 6, 1930; the first supermarket, 1930, is `marketplace`'s story). After the war — pushed partly by how many draftees had been rejected as underfed — Truman signed the National School Lunch Act (June 4, 1946). Territories thread: on annexed Hawaii, sugar plantations ruled and James Dole's Hawaiian Pineapple Company (1901) canned fruit for mainland tables (the workers' arrivals are `immigration`'s; the islands' politics `america-world`'s).
+- In spring 1942, after President Roosevelt signed Executive Order 9066, Army officers under General John L. DeWitt removed Japanese American families from the West Coast. They had farmed about 200,000 acres on 6,000 farms in California, and California Farm Bureau officials said they grew 40 percent of the state's vegetables. More than 1,000 of those farms passed to new operators in March 1942 alone.
+- From 1942 the U.S. government brought Mexican farmworkers, called braceros, in on contracts. Officials withheld 10 percent of their pay from 1942 to 1946, and most never got it back.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="upton-sinclair-food-farming" name="Upton Sinclair" movie="" kind="famous" status="verified" -->
 ### Upton Sinclair
@@ -179,12 +200,13 @@ Cotton had drained Southern soil. Carver taught crop rotation — peanuts, cowpe
 <!-- hb-story:start slug="cecile-steele" name="Cecile Steele" movie="" kind="ordinary" status="verified" -->
 ### Cecile Steele
 > **Who:** Delaware farm wife whose mis-shipped chick order started the commercial chicken industry. · **When and where:** Ocean View, Delaware, 1923.
-She ordered 50 chicks; the hatchery shipped 500. She raised them indoors through the winter and sold them at 16 weeks for 62 cents a pound — and the profit was so good she ordered 1,000 on purpose the next year, 10,000 by 1926. By 1928 some 500 Delmarva farms were raising "broilers." Chicken had been a Sunday luxury; the industry that grew from her accident made it the cheapest meat on the American plate.
+She ordered 50 chicks; the hatchery shipped 500. She raised them indoors through the winter and sold them at 16 weeks for 62 cents a pound — and the profit was so good she ordered 1,000 on purpose the next year, 10,000 by 1926. By 1928 some 500 Delmarva farms were raising "broilers." In 1965 Americans ate about 32 pounds of chicken per person a year. In 2025 they ate about 103 pounds, more than beef (59) or pork (49).
 <!-- hb-story:end slug="cecile-steele" -->
-<!-- hb-story:start slug="ration-book-household" name="(target) a ration-book or victory-garden household" movie="" kind="ordinary" status="target" -->
-### (target) a ration-book or victory-garden household
-A documented WWII household food story — points spent, garden rows, sugar saved for a birthday cake. Leads: National WWII Museum oral histories; Library of Congress folklife collections; Smithsonian victory-garden materials. Left as a target rather than half-verified.
-<!-- hb-story:end slug="ration-book-household" -->
+<!-- hb-story:start slug="adelaide-wisdom-benjamin" name="Adelaide Wisdom Benjamin" movie="" kind="ordinary" status="verified" -->
+### Adelaide Wisdom Benjamin
+> **Who:** a New Orleans girl whose family grew a victory garden and lived on ration stamps. She told her story in a 2013 oral history for the National WWII Museum. · **When and where:** New Orleans, Louisiana, and El Paso, Texas, 1941 to 1945. She was born in 1932.
+Her father joined the Marines and was sent to El Paso as a recruiter, and the family went with him. At the store they could buy sugar, butter and some vegetables only with the right ration stamps. Beef and lamb were hard to find. Each person's sugar allotment was about 8 ounces a week. The family grew a victory garden in both cities. "We grew mirlitons, and string beans and tomatoes in our backyard," she said. (A mirliton is a pale green squash.) The New Orleans garden grew well. The El Paso garden, in drier country, did not. She gave 10 cents of her 25-cent weekly allowance to war savings stamps. When Germany surrendered, she spent her own money on a chocolate soda, a comic book and bubble gum.
+<!-- hb-story:end slug="adelaide-wisdom-benjamin" -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="food-farming" label="1950 to 2000" state="full" progress="researched" -->
@@ -197,6 +219,7 @@ The McDonald brothers rebuilt their San Bernardino stand in 1948 as the "Speedee
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Industrial agriculture, and the people in the rows" -->
 Fertilizer, pesticides, irrigation, and hybrid seed pushed yields up era-long; chicken and hogs moved indoors; the Green Revolution carried the same package abroad (see Borlaug below), fed hundreds of millions, and hooked farming on chemicals — both true. The hands that picked the cheap produce organized: Cesar Chavez, Dolores Huerta, and the farmworkers' movement are `work-workers`' story (their slug chavez-huerta); this chapter keeps one sentence at the table's edge.
+- In 1920 Black farmers ran more than 900,000 farms, about 15 percent of the country's farms. Black land ownership fell by nearly 90 percent between 1910 and 1997. In *Pigford v. Glickman*, Black farmers showed that USDA officials had denied and delayed their loans because of their race from 1983 to 1997. A federal judge approved a settlement on April 14, 1999. Under it, about $1.06 billion went to 15,645 farmers. A second settlement in 2010 added $1.25 billion.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The 1980s farm crisis" -->
 After the 1970s export boom came the reckoning: Midwest farmland lost up to 60 percent of its value in the early-to-mid 1980s, farm debt hit about $215 billion by 1984, roughly 300,000 farms defaulted and about 300 rural banks failed. On September 22, 1985, Willie Nelson, John Mellencamp, and Neil Young played Farm Aid to 80,000 people in Champaign, Illinois, raising over $7 million — a concert that has run ever since. The finance is `economy`'s; the lost family tables are ours (see the Jordans below).
@@ -235,12 +258,16 @@ Americans now argue about food the way earlier Americans argued about land: what
 - Adult obesity reached 41.9 percent (2017–March 2020, CDC), easing to 40.3 percent by 2021–23; diet-linked illness is a leading health burden (`health` leads on the medicine).
 - Food deserts, defined: USDA maps low-income areas more than 1 mile from a supermarket in cities or 10 miles in the country — about 19 million people (about 6 percent) by the 2019 count; the number depends on the yardstick used, so state the measure.
 - The other direction: farmers' markets grew from 1,755 (1994) to 8,771 (2019); farm-to-table went mainstream; food banks became permanent infrastructure. The COVID year 2020 showed the system's edges — closed packing plants, dumped milk, mile-long food-bank lines.
+- Hunger counted: in 2024, 13.7 percent of U.S. households did not always have enough food, nearly 48 million people, over 14 million of them children. That was the last year of the count. In September 2025 USDA officials ended the annual count, which had run since 1995.
+- On July 4, 2025, President Trump signed the One Big Beautiful Bill Act. Under it, federal spending on SNAP (food stamps) falls by about $186 billion over ten years, by the Congressional Budget Office's estimate.
+- In 2024 USDA officials paid about $2 billion to more than 43,000 farmers who had faced discrimination in its farm lending.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="GMO arguments and new foods" -->
 Over 90 percent of U.S. corn, soybeans, and cotton are genetically engineered. Both truths, stated plainly: the National Academies' 2016 review of about 1,000 studies found no substantiated evidence that approved GE foods harm health — and public argument continued anyway, hard enough that from January 2022 federal law requires "bioengineered" labels. Newer arguments arrived on schedule: plant-based burgers (Impossible 2016; Beyond's 2019 stock debut), the first U.S.-approved lab-grown chicken (June 2023), and vertical farms that boomed on investment and then stumbled (pioneer AeroFarms hit bankruptcy in June 2023, then restructured) — tell the stumble, not just the promise.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Who picks the food" -->
-Most hired crop workers are foreign-born. The H-2A seasonal visa grew from about 48,000 certified jobs (2005) to about 385,000 (2024) — roughly 15 percent of crop-farm employment, over 90 percent of the workers from Mexico. The organizing is `work-workers`'; the fields are ours (see Benitez below).
+Most hired crop workers are foreign-born. The H-2A seasonal visa grew from about 48,000 certified jobs (2005) to nearly 400,000 (2025) — roughly 15 percent of crop-farm employment, over 90 percent of the workers from Mexico. The organizing is `work-workers`'; the fields are ours (see Benitez below).
+- Crop workers died of heat at about 20 times the rate of all U.S. workers (1992 to 2006, 68 deaths). Federal law lets children as young as 12 work on farms outside school hours with a parent's consent, younger than in other jobs.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The first farmers, still farming" -->
 Native food sovereignty is a working movement, not a memory: tribal bison herds, seed banks rebuilding old corn and bean varieties, manoomin harvests defended in court and on the water, Native chefs rebuilding Indigenous cuisine. The circle back to the chapter's first page — the Three Sisters are still being planted, on purpose (`native-nations` leads on sovereignty as sovereignty).

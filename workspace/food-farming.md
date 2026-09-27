@@ -4,7 +4,7 @@ The editor's working file for this chapter — the layer between research, outli
 
 Companion files: outline `outlines/food-farming.md` · research bank `research/research-food-farming.md`.
 
-**Status: RESEARCHED 2026-08-07.** All ten eras researched; seed [VERIFY] queue cleared; famous names all placed; parks logged below.
+**Status: RESEARCHED 2026-08-07; patched and bank-checked 2026-09-27 (T-251).** All three target slots resolved (two filled, one removed honestly); bank check PATCHes added in every era from 1500s to 2000-today. See the bank's PATCH and SEARCHED, NOT FOUND entries.
 
 ---
 
@@ -68,8 +68,8 @@ Companion files: outline `outlines/food-farming.md` · research bank `research/r
 *Remaining open (for the writer, not blockers):*
 - [ ] Carver peanut bulletin first-issue year: 1916 vs 1917 printings — bank states "1916, reprinted"; fine as written.
 - [ ] Sinclair "heart/stomach" quote's exact first printing (commonly cited to Cosmopolitan, Oct 1906) — bank labels it "published later in 1906."
-- [ ] 1750–1800 farm daybook household — target story to find in archives.
-- [ ] WWII ration-book/victory-garden household — target story; leads listed in outline.
+- [x] 1750–1800 farm daybook household — FILLED 2026-09-27: Matthew Patten, Bedford NH, day book year 1767 (slug matthew-patten).
+- [x] WWII ration-book/victory-garden household — FILLED 2026-09-27: Adelaide Wisdom Benjamin, National WWII Museum oral history 2013 (slug adelaide-wisdom-benjamin).
 
 ## Threads present
 *From the brief's checklist — what genuinely applies:* class and poverty (hunger, breadlines, food stamps, food deserts) · region (**central** — Lowcountry, Plains, Midwest, California, New England) · rural (**central**) · Native continuity past 1900 (**strong** — manoomin, food sovereignty, Gather-era stories) · territories (Hawaii sugar/pineapple, Dole 1901) · children and the elderly (school lunch, Edible Schoolyard) · language (foodways words: hominy, succotash-family terms, "cookey"/"slaw" via Simmons) · disability (not forced — no verified food-specific material found)
@@ -82,7 +82,8 @@ Companion files: outline `outlines/food-farming.md` · research bank `research/r
 ## Story roster (final)
 - **Famous:** Squanto (squanto-food-farming, movie 1994 fictionalized — flagged), Eliza Lucas Pinckney, Amelia Simmons, Frederic Tudor, Charles Goodnight, Upton Sinclair (upton-sinclair-food-farming), George Washington Carver (george-washington-carver-food-farming, movie 2018), Norman Borlaug (movie 2020), Ray Kroc (movie The Founder 2016), Alice Waters (movie 2003).
 - **Ordinary:** Uriah & Mattie Oblinger (LOC letters), Cecile Steele, Russel & Mary Jane Jordan (movie Troublesome Creek 1995), Nephi Craig (movie Gather 2020), Lucas Benitez (movie Food Chains 2014).
-- **Targets left honestly open:** Lowcountry rice grower (recommend collective telling), 1750–1800 daybook household, WWII ration-book household.
+- **Added 2026-09-27 (T-251):** Matthew Patten (ordinary, 1750–1800), Adelaide Wisdom Benjamin (ordinary, 1900–1950).
+- **Removed 2026-09-27:** `lowcountry-rice-grower` target. No named 1700–1750 rice grower is documented beyond a line in a list (SEARCHED, NOT FOUND in bank era 04). Collective telling now in the span "The rice workers, unnamed in the records."
 - **Slug notes:** grep 2026-08-07 found NO existing squanto/carver/sinclair/kroc/borlaug/waters/simmons story slugs anywhere; suffixed the three most likely to be claimed by other chapters (Squanto, Carver, Sinclair). Caroline Henderson (Dust Bowl letters) belongs to `land-environment` — deliberately NOT reused here.
 
 ## Cross-chapter parking log
@@ -102,3 +103,17 @@ Companion files: outline `outlines/food-farming.md` · research bank `research/r
 4. **Fast food split confirmed as seeded:** the food and the founding story here; the selling/advertising in `marketplace`; corporate power in `big-business`.
 5. **The COVID-2020 food line** rests on labeled general journalism (packing-plant closures, food-bank lines). Fine for outline; the prose writer should pick one or two sourced specifics.
 6. **H-2A/farm-labor numbers** will age; bank notes FY2024 figures. Revisit at write time (cutoff 2026).
+
+## Bank check 2026-09-27 (T-251): what was added, by era
+- 1500s: De Soto's army lived on Apalachee stored corn at Anhaica (1539–40).
+- 1600s: Cornhill seed corn and grave-opening (Nov 1620, Mourt's Relation) and the 1621 repayment; Percy's 1610 Paspahegh raid (cornfields cut, children killed); 1622–32 corn destruction; Winslow's "manner of the Indians" fish-manure quote (bears on the Squanto dispute).
+- 1700–1750: rice export figures, task system (quarter acre), work conditions, Africans landed per year, Black majority 1708, Kiawah/Etiwan/Stono land and the 1684 cession; Pinckney's 20 enslaved workers (search summary).
+- 1750–1800: Patten's 1767 food year; Pennacook fishing at Amoskeag; Jefferson's 600+ enslaved and the Monticello weekly ration.
+- 1800–1850: Tudor corrected (180 tons shipped, about 100 arrived); Potawatomi cession before Deere's plow; cotton land from the removed nations.
+- 1850–1900: Homestead land was Native land; bison 30 million to under 1,000; Fillmore County nation SEARCHED, NOT FOUND; sharecropping terms.
+- 1900–1950: Adelaide Wisdom Benjamin; NPS ration figures; pellagra (3 million cases, 100,000 deaths, Rankin 1915); Dust Bowl deaths (no official count); AAA money to landowners and evictions; Japanese American farms 1942; braceros; chicken per-capita figures.
+- 1950–2000: pesticides and farmworkers (carried); Black land loss and Pigford I/II with dated figures.
+- 2000–today: hunger counts 2023 and 2024, the end of the USDA count (Sept 2025); SNAP cut (July 4, 2025); IRA discrimination payments (July 31, 2024); H-2A FY2025; crop-worker heat deaths; child farm-labor law; cultivated-meat bans.
+
+## Cross-chapter items for the director to park (parallel run: not written to other files)
+See `control/checkpoints/T-251-food-farming.md`, section TO PARK.

@@ -2612,9 +2612,18 @@ as it finishes, and launches nothing further until Jon returns.
 USAGE AT START: 27% (Jon), for all five together.
 
 ### 2026-09-27 | [LOCAL] T-251 | food-farming: patch (3 targets) + bank check | model opus | PARALLEL
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-251-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage patch (and --stage research)
+RESULT: DONE. PASS food-farming / patch and / research. stories 18 -> 17 (v17 c0 t0), bank 6,845 -> 13,721w,
+        outline 4,895 -> 6,104w, validator 0. 335,753 tokens, 142 tool uses, 18.1 min (opus, parallel).
+        Stories: Matthew Patten (1767 farm diary), Adelaide Wisdom Benjamin (WWII victory garden, National WWII
+        Museum oral history). Lowcountry rice-grower slot removed (no named 1700-1750 grower: SEARCHED NOT FOUND),
+        told as a group span. Bank check: Nauset seed corn 1620, Powhatan cornfields burned, Monticello rations,
+        rice task system and land, pellagra and the 1915 prison experiment, no official Dust Bowl death count, AAA,
+        1942 Japanese American farms, braceros, Pigford, pesticides, heat deaths, child farm labor, 2024-25 hunger,
+        SNAP cut, H-2A. Corrections: Tudor's ice (180 tons shipped, ~100 arrived); "cheapest meat" unsourced.
+        SEARCHED NOT FOUND: 2. TO PARK: 6 items (filed after the parallel run).
 
 ### 2026-09-27 | [LOCAL] T-252 | money: patch (2 targets) + bank check | model opus | PARALLEL
 STATUS: IN-FLIGHT
