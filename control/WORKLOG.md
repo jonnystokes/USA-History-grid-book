@@ -2891,9 +2891,11 @@ T-266b drugs-alcohol 6-10, then the 7 seeds: news-communication, art, music, sto
 styles, sports-play, holidays.
 
 ### 2026-09-27 | [LOCAL] T-263b | health: full research eras 6-8 (T-263c does 9-10) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+RESULT: LANDED. FAIL  health / research. measured: stage=PARTIAL eras=10/10 stories=21 (v18 c0 t3) verify_tags=1 bank=23853w outline=12121w manuscript=0w validator_errors=0
+        390530 tokens, 175 tool uses, 26.1 min (opus). Eras 6-8 researched + bank check. Stories: Anarcha, Elizabeth Blackwell, Clara Barton, Hannah Ropes, Susan La Flesche Picotte, Josie Mabel Brown, Charles Pollard, Clara Maass. Sims (fistula and method defined), 1837 smallpox, freed people's smallpox, Tuskegee course of disease (CDC, Brandt 1978; DECISIONS #3), Guatemala (83 deaths). 2 searched-not-found. Chapter FAIL until eras 9-10 (T-263c). TO PARK 7.
 
 ### 2026-09-27 | [LOCAL] T-264b | disasters: full research eras 6-8 [BURST of 3+1] | model opus
 STATUS: IN-FLIGHT

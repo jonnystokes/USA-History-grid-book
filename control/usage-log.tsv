@@ -181,3 +181,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-264r	research	general-purpose/opus	[LOCAL] disasters: Eras 4-5 done (1-3 had landed) + bank check. Cascadia 1700, 1715 fleet hurricane	?	?	?	303149	114	1040263	?	completed	FAIL  disasters / research
 2026-09-27	T-259b	research	general-purpose/opus	[LOCAL] war: Eras 6-10 bank check: 24 PATCHes (draft exemptions, Creek War, Bad Axe, Sand Cre	?	?	?	430744	188	1401174	?	completed	PASS  war / research
 2026-09-27	T-266r	research	general-purpose/opus	[LOCAL] drugs-alcohol: Era 4 from scratch, era 5, bank check (1-3 had landed). Molasses Act, Boston tav	?	?	?	293054	100	1441890	?	completed	FAIL  drugs-alcohol / research
+2026-09-27	T-263b	research	general-purpose/opus	[LOCAL] health: Eras 6-8 researched + bank check. Stories: Anarcha, Elizabeth Blackwell, Clara B	?	?	?	390530	175	1565483	?	completed	FAIL  health / research

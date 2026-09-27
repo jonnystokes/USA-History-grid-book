@@ -3,7 +3,7 @@
 # Chapter 26: Health, Disease, and Medicine
 
 <!-- hb-note -->
-**Status:** PARTIAL. Eras 01-05 RESEARCHED 2026-09-27 (T-263a, T-263r). Eras 06-10 still seed (T-263b). *(agent changes to: RESEARCHED <date>)*
+**Status:** PARTIAL. Eras 01-05 RESEARCHED 2026-09-27 (T-263a, T-263r). Eras 06-08 RESEARCHED 2026-09-27 (T-263b). Eras 09-10 still seed (T-263c). *(agent changes to: RESEARCHED <date>)*
 **Angle:** Illness and healing — epidemics, doctors, hospitals, medical advances, **and public health as policy**.
 **Keep out:** general science (`science`); sudden calamities (`disasters`)
 **Workspace:** `workspace/health.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -257,54 +257,239 @@ Shared with: city-building (the waterworks built after the epidemics) · religio
 <!-- hb-story:end slug="jones-and-allen" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="health" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="health" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-Cholera arrives in the growing cities, and surgery becomes survivable.
+In 1800 a Cambridge, Massachusetts doctor gave the first recorded vaccinations in the United States. They protected people against smallpox. In 1837 smallpox killed about nine in ten Mandan people on the upper Missouri River, after federal officials had left them out of a vaccination program. Cholera, a disease spread in dirty water, killed thousands in the growing cities in 1832 and 1849. In 1846 a Boston dentist showed surgeons that ether could keep a patient from feeling an operation. From 1845 to 1849 an Alabama doctor, J. Marion Sims, practiced a new operation on enslaved women without anything to stop the pain. In 1849 Elizabeth Blackwell became the first woman in the United States to earn a medical degree.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Cholera, ether, and the first women doctors" -->
-Cholera epidemics of the 1830s and 1840s and what cities did about water; ether anesthesia, 1846; heroic medicine — bleeding and purging — still standard; the first women admitted to medical schools [VERIFY Elizabeth Blackwell, 1849].
+<!-- hb-zoom level="span" label="Vaccination arrives, 1800 and 1802" -->
+- To vaccinate a person, a doctor scratched matter from cowpox, a mild disease of cows, into the skin. It protected the person against smallpox. The older method, inoculation, used matter from a smallpox sore and could kill.
+- On 8 July 1800 Dr. Benjamin Waterhouse of Cambridge, Massachusetts vaccinated his young son Daniel Oliver and a servant, Samuel Carter, with cowpox matter sent from England. Then he vaccinated three more of his children and a second servant, Kesiah Flag.
+- Waterhouse sent vaccine to other doctors and to President Thomas Jefferson.
+- On 16 August 1802 Waterhouse and six other doctors vaccinated nineteen boys in Boston. That fall they exposed the boys to smallpox. Afterward the members of the town's Board of Health reported that cowpox was "a complete preventive."
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox on the upper Missouri, 1832 and 1837" -->
+- On 5 May 1832 President Andrew Jackson signed a law, passed by Congress, that set aside $12,000 to vaccinate Native people. Secretary of War Lewis Cass ran the program. By February 1833 agents and doctors had vaccinated more than 17,000 people.
+- Cass left the Mandan, Hidatsa and Arikara nations on the upper Missouri River out of the program.
+- On 18 June 1837 the American Fur Company's steamboat *St. Peters* stopped at Fort Clark, beside the Mandan villages in what is now North Dakota. The fort's trader, Francis Chardon, learned from the captain that people on board had smallpox. The crew unloaded goods and loaded furs in less than a day, and the boat went on upriver. The historian R. G. Robertson blames the captain, Bernard Pratte Jr., for refusing to keep the sick passengers apart from other people.
+- Smallpox is a virus that covers the body in sores full of pus. In July Chardon wrote that the Mandan "die so fast that it is impossible" to keep count. About 2,000 Mandan lived in the villages in the spring. By October only 23 to 138 were alive. The counts differ. The Arikara lost about two of every three people. The Hidatsa lost many, and no count survives in the records used here.
+- The Mandan leader Four Bears caught smallpox. Before he died he said, as Chardon recorded it, "I have loved the Whites ... and how have they repaid it! With ingratitude!"
+Shared with: native-nations (the nations after the epidemic) · home-family (Buffalo Bird Woman's family).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Cholera in the river cities, 1832 and 1849" -->
+- Cholera is an infection of the gut caused by a germ in dirty water or food. It causes diarrhea that can start two hours after a person swallows the germ. The body loses so much water and salt that the person can die. Cholera first reached the United States in 1832. It killed about 3,500 people in New York that year.
+- In 1849 cholera came up the Mississippi River from New Orleans on steamboats. St. Louis had no sewers. Most people drank from shallow wells dug near outhouses, and pigs ate the garbage in the streets.
+- Doctors did not know what caused cholera. They blamed night air, bad food and alcohol. They told people to stop eating vegetables, then meat. They lit fires at night to clean the air, and some bled their patients.
+- In June 1849 more than 60 people a day died in St. Louis, and in early July more than 100. On 27 June the city's leaders gave a Committee of Public Health $50,000. Its members stopped steamboats at a quarantine station on an island in the river, where a health officer checked the passengers. Workers drained standing water, and city officials banned hogs from the city.
+- Counts made in 1849 give 4,557 cholera deaths in St. Louis that year. Many deaths were never reported, so the real number was higher. About 7 in 10 of the dead were Irish and German immigrants.
+- In 1854 researchers showed that cholera spreads in dirty water.
+Shared with: city-building (New York's water and the Croton aqueduct) · work-workers (Duffy's Cut, 1832).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Ether, 1842 and 1846" -->
+- Anesthesia means using a drug so that a patient does not feel pain during an operation. Before it, surgeons worked as fast as they could, because a long operation could send a patient into shock.
+- On 30 March 1842 Dr. Crawford Long of Jefferson, Georgia cut a tumor from the neck of James Venable while Venable breathed ether. Long did not publish what he had done until 1849.
+- On 16 October 1846, at Massachusetts General Hospital in Boston, the dentist William T. G. Morton gave ether to Edward Gilbert Abbott, a young house painter. Dr. John Collins Warren cut a tumor from Abbott's neck. Abbott said afterward that he had felt no pain.
+Shared with: war (ether and chloroform in Civil War amputations).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="J. Marion Sims's operations on enslaved women, 1845 to 1849" -->
+- A vesicovaginal fistula is a hole torn through the wall between the bladder and the vagina. A long, blocked childbirth crushes the tissue and makes the hole. Afterward urine runs out of the woman's body all the time. Her skin becomes sore and infected, and she smells of urine. Some women also had a hole into the bowel, so stool leaked too.
+- Dr. J. Marion Sims of Montgomery, Alabama wanted to find an operation that closed the hole. From 1845 to 1849 he practiced it on enslaved Black women and girls. White slaveholders sent them to him. The owners paid for their clothes and taxes, and Sims fed and housed them in a small hospital behind his office.
+- He named three of the women, Anarcha, Betsey and Lucy. One count gives twelve women and girls in all, some as young as 13. Sims wrote that he promised to operate only with "the full consent of the patients." An enslaved woman had no power to refuse.
+- Sims gave the women nothing to stop the pain during any of the operations. Ether was shown in Boston in 1846, halfway through these years, and Sims still did not use it. He wrote that the operation was "not painful enough to justify the trouble." Many white doctors then believed, wrongly, that Black people felt less pain. After the operations he often gave the women opium, a drug that dulls pain and brings sleep.
+- Each woman knelt on her knees and elbows while Sims worked. Other doctors came to watch. Lucy, about 18, was operated on for about an hour with about twelve doctors watching. Sims left a sponge inside her bladder, and she nearly died of an infection of the blood. He wrote, "Lucy's agony was extreme."
+- In 1849, on about the thirtieth operation on Anarcha, Sims closed the hole. He sewed it shut with silver wire, which caused fewer infections than silk thread, and drained the urine from her bladder while it healed. He published the method in 1852.
+- In April 2018 New York City officials voted to take his statue down from Central Park.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="anarcha" name="Anarcha" movie="" kind="ordinary" status="verified" -->
+### Anarcha
+> **Who:** An enslaved young woman on whom J. Marion Sims operated about thirty times, with no pain relief, to work out his fistula surgery. · **When and where:** Montgomery, Alabama, 1845 to 1849.
+- Her labour was long and blocked. It tore holes from her vagina into her bladder and into her rectum, so urine and stool leaked from her body all the time. Sources give her age as 17 when she gave birth. One estimate gives 13 when Sims first treated her.
+- Her owner sent her to Sims. She lived in his small hospital in Montgomery for about four years.
+- Sims operated on her about 30 times without any drug to stop the pain, while she knelt on her knees and elbows.
+- In 1849 the operation closed the hole into her bladder. Sims published the method in 1852. The records do not show what happened to Anarcha after that.
+<!-- hb-story:end slug="anarcha" -->
 <!-- hb-story:start slug="elizabeth-blackwell" name="Elizabeth Blackwell" movie="" kind="famous" status="verified" -->
 ### Elizabeth Blackwell
-First woman to earn a medical degree in the United States.
+> **Who:** The first woman to earn a medical degree in the United States. · **When and where:** Geneva, New York, 1847 to 1849, then New York City. Born in Bristol, England, in 1821, died in Hastings, England, in 1910.
+- About 29 medical schools turned her down. In 1847 the men studying at Geneva Medical College in New York voted to let her in. Accounts say they thought the question was a joke.
+- On 23 January 1849 she graduated first in her class.
+- In 1849, working at a hospital for mothers and babies in Paris, she caught an eye infection from a baby she was treating. She lost the sight of that eye and gave up her plan to be a surgeon.
+- In 1857 she opened the New York Infirmary for Indigent Women and Children with her sister Dr. Emily Blackwell and Dr. Marie Zakrzewska. In 1868 she added a medical college for women beside it.
 <!-- hb-story:end slug="elizabeth-blackwell" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="health" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="health" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-Doctors learn that germs cause disease, and cities learn that clean water saves more lives than doctors do.
+In the Civil War, disease killed more soldiers than bullets did. From 1862 to 1868 smallpox killed more than 60,000 people who had just been freed from slavery. New York's new health board ordered filth cleared from the streets, but yellow fever still killed about 20,000 people along the Mississippi River in 1878. Most American doctors did not yet believe that germs cause infection. In 1881 President James Garfield's doctors probed his bullet wound with unwashed fingers, and he died of infection. By 1900 women were training as nurses and doctors, among them the first Black woman to earn a nursing license and the first Native American woman to earn a medical degree.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Germ theory, nursing, and sanitation" -->
-Germ theory and antiseptic surgery; nursing as a trained profession after the Civil War; the Civil War's field hospitals; public sanitation, water filtration, and milk inspection; medical licensing.
+<!-- hb-zoom level="span" label="Disease in the Civil War armies, 1861 to 1865" -->
+- Between about 620,000 and 850,000 soldiers died in the Civil War. The count is disputed. For every three soldiers killed in battle, about five died of disease.
+- The diseases that killed them included diarrhea and dysentery, which are infections of the gut, and typhoid fever, pneumonia, measles and malaria.
+- Soldiers dug latrine trenches too shallow and did not cover them with dirt. One army surgeon found a camp's latrine uphill of "the stream, from which all water in the camp is obtained."
+- Clara Barton brought a wagon of bandages to the battlefield at Antietam, Maryland, on 17 September 1862. Hannah Ropes ran the nurses at a Washington hospital until typhoid killed her in January 1863.
+Shared with: war (amputation, wounds and the prison camps).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smallpox among freed people, 1862 to 1868" -->
+- People who escaped slavery during the war came to Union army camps, called contraband camps. The camps were crowded and dirty, and many people in them lacked food, clothing and shelter.
+- Smallpox broke out in Washington, D.C. in 1862 and spread to nearby Alexandria, Virginia.
+- Doctors already knew how to stop smallpox. They could vaccinate people and keep the sick apart from the healthy. Army and Freedmen's Bureau officials put sick freed people in tents made of old, ripped army tarps, with infested blankets. White soldiers were treated in hospitals.
+- The historian Jim Downs counts more than 60,000 freed people dead of smallpox. Women and children died at higher rates than men.
+- Harriet Jacobs, who had escaped slavery herself, came to Alexandria to open a school and worked against the epidemic.
+Shared with: slavery-freedom (emancipation and the contraband camps).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Health boards and yellow fever, 1866 to 1879" -->
+- In February 1866 New York City leaders set up a Metropolitan Board of Health. By April its officers had given 7,000 orders to clear away piled horse manure, dead animals and heaps of garbage. Cholera killed 1,137 New Yorkers in 1866, a smaller share of the city than in 1832 or 1849.
+- In 1878 yellow fever spread up the Mississippi River from New Orleans. Along the river about 120,000 people caught it and about 20,000 died.
+- In Memphis, Tennessee about 25,000 of the city's 47,000 people fled. More than 5,000 people died in the city. Annie Cook turned her house into a hospital, nursed the sick, and died of the fever.
+- In 1879 members of Congress set up a National Board of Health. Nobody yet knew that a mosquito spreads yellow fever.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Germs and the death of President Garfield, 1881" -->
+- Germs are living things too small to see, and many of them cause disease. The English surgeon Joseph Lister urged doctors to kill germs on their hands and tools to stop wounds from getting infected. Most American doctors thought this was too much trouble.
+- On 2 July 1881 Charles Guiteau shot President James Garfield at a railroad station in Washington, D.C.
+- Doctors pushed their unwashed fingers and unwashed metal probes into the wound to search for the bullet. Dr. Willard Bliss, who took charge, probed the wound several times a day and never cleaned his hands first.
+- Garfield died on 19 September 1881. Doctors who examined his body found both lungs infected and his body full of pus. Historians now think he would probably have lived if his doctors had kept the wound clean.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Women become nurses and doctors" -->
+- The New England Hospital for Women and Children in Boston had only women doctors. It ran a 16-month nursing course. Of 42 students who began in 1878, four finished in 1879. One of them, Mary Eliza Mahoney, became the first Black woman in the United States to earn a professional nursing license. In 1908 she helped found the National Association of Colored Graduate Nurses.
+- In 1889 Susan La Flesche, of the Omaha Nation, became the first Native American woman to earn a medical degree.
+Shared with: rights-movements (Rebecca Lee Crumpler and women's entry to the professions).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Typhoid in the army camps, 1898" -->
+- During the war with Spain in 1898, soldiers in army camps in the United States caught typhoid, an infection spread by food and water that has touched human waste. Army doctors counted 20,738 cases and 1,590 deaths. Typhoid caused 87 of every 100 deaths from disease in the army.
+- Major Walter Reed and two other army doctors studied the camps. They found that the disease spread mostly from man to man, and some by flies.
+Shared with: war (the war with Spain).
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="clara-barton-health" name="Clara Barton" movie="" kind="famous" status="verified" -->
 ### Clara Barton
-Battlefield nurse who founded the American Red Cross.
+> **Who:** A Patent Office clerk who took supplies to Civil War battlefields and later founded the American Red Cross. · **When and where:** Antietam, Maryland, 17 September 1862. Born in North Oxford, Massachusetts, on 25 December 1821.
+- She had spent a year collecting bandages and supplies. At Antietam she gave water to wounded men, cooked for them at a farmhouse, and brought lanterns so surgeons could keep operating after dark.
+- As she bent to give a soldier a drink, a bullet passed through her sleeve and killed him. She wrote that it cut "through his chest from shoulder to shoulder."
+- A surgeon there, Dr. James Dunn, called her "the angel of the battlefield."
+- On 21 May 1881 she and others formed the American Red Cross in Washington, D.C. She was its president until 1904.
 <!-- hb-story:end slug="clara-barton-health" -->
-<!-- hb-story:start slug="civil-war-nurse" name="(target) a Civil War nurse" movie="" kind="ordinary" status="target" -->
-### (target) a Civil War nurse
-Kept a diary of what a field hospital was actually like (many did).
-<!-- hb-story:end slug="civil-war-nurse" -->
+<!-- hb-story:start slug="hannah-ropes" name="Hannah Ropes" movie="" kind="ordinary" status="verified" -->
+### Hannah Ropes
+> **Who:** The head nurse of a Civil War hospital in Washington, who reported a thief on her staff to the Secretary of War and died of typhoid caught at work. · **When and where:** Union Hotel Hospital, Georgetown, Washington, D.C., 1862 to 1863. Born in New Gloucester, Maine, in 1809.
+- Her son Edward was a Union soldier. In 1862, at 53, she volunteered as a nurse. She became matron, the woman in charge of the nurses, at a hotel turned into a hospital for 300 to 400 patients.
+- The writer Louisa May Alcott nursed under her from December 1862. Alcott wrote in her diary that she had never seen "a more perfect pestilence-box than this house."
+- Ropes found that the hospital steward, the man in charge of supplies, was stealing supplies meant for the wounded. The chief surgeon ignored her. She went to the Secretary of War, Edwin Stanton, and both men were arrested.
+- She caught typhoid in late December 1862 and died on 20 January 1863. Alcott caught the fever in the same outbreak and survived. Ropes's diary and letters were printed in 1980.
+<!-- hb-story:end slug="hannah-ropes" -->
+<!-- hb-story:start slug="susan-la-flesche-picotte" name="Susan La Flesche Picotte" movie="" kind="famous" status="verified" -->
+### Susan La Flesche Picotte
+> **Who:** An Omaha woman who became the first Native American woman to earn a medical degree and went home to doctor her own nation. · **When and where:** Omaha Reservation, Nebraska. Born 1865, graduated 1889, died 1915.
+- As a child she watched a sick Native woman die because the local white doctor would not treat her.
+- She finished the three-year course at the Woman's Medical College of Pennsylvania in two years and graduated first in her class in 1889.
+- Back on the reservation she cared for more than 1,300 people spread over 450 square miles.
+- In 1913 she opened a hospital at Walthill, Nebraska, on the reservation. She died in 1915.
+<!-- hb-story:end slug="susan-la-flesche-picotte" -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="health" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="health" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-The century when infectious disease stops being the main way Americans die — but not before the worst epidemic in the country's history.
+In 1900 army doctors proved that a mosquito spreads yellow fever. In 1918 an influenza epidemic killed about 675,000 people in the United States. In 1932 doctors of the United States Public Health Service began watching 399 Black men in Alabama with syphilis and did not treat them, for 40 years. In 1937 a medicine made with a poison killed more than 100 people. The next year a new law required drug makers to prove a drug safe before they sold it. From 1942 doctors had penicillin, the first antibiotic made in large amounts, which kills many kinds of bacteria. From 1946 to 1948 Public Health Service doctors exposed 1,308 people in Guatemala to syphilis and gonorrhea on purpose.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The 1918 flu, antibiotics, and Tuskegee" -->
-The 1918 influenza pandemic; antibiotics; vitamins and nutrition; X-rays; the growth of hospitals and health insurance; the Tuskegee syphilis study begun in 1932 (**tell it plainly**); radium poisoning and the radiation-safety limits it produced; the FDA and drug regulation [VERIFY 1938].
+<!-- hb-zoom level="span" label="Proving the mosquito, 1900 and 1901" -->
+- In 1900 an army board led by Major Walter Reed studied yellow fever near Havana, Cuba. Dr. Jesse Lazear, a member of the board, let mosquitoes feed on yellow fever patients. A mosquito that had fed on a patient at least 12 days earlier passed the disease on.
+- Lazear caught yellow fever, probably from a mosquito bite, and died on 25 September 1900.
+- In November 1900 the board tested two buildings. Volunteers who slept in bedding soiled by yellow fever patients stayed well. Volunteers bitten by the mosquitoes caught the disease, and all of them recovered. The volunteers signed contracts that named the danger, and they were paid.
+- After workers killed the mosquitoes in Havana, yellow fever there nearly stopped.
+- Clara Maass, a nurse from East Orange, New Jersey, let infected mosquitoes bite her in Havana in 1901. The second time, in August, she died of yellow fever. She was 25. Army leaders broke up the yellow fever commission soon after.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="1918-flu-nurse-or-survivor" name="(target) a 1918 flu nurse or survivor" movie="" kind="ordinary" status="target" -->
-### (target) a 1918 flu nurse or survivor
-Research target — a documented nurse or survivor of the 1918 influenza pandemic.
-<!-- hb-story:end slug="1918-flu-nurse-or-survivor" -->
-<!-- hb-story:start slug="tuskegee-study-participant" name="(target) a Tuskegee study participant" movie="" kind="ordinary" status="target" -->
-### (target) a Tuskegee study participant
-Denied treatment for decades so doctors could watch a disease (documented by name).
-<!-- hb-story:end slug="tuskegee-study-participant" -->
+<!-- hb-zoom level="span" label="Mary Mallon, held on an island" -->
+- Mary Mallon was a cook in New York who carried typhoid germs in her body without being sick. Health officials counted 47 people infected through her cooking and 3 deaths.
+- New York health officials held her on North Brother Island in the East River from 1907 for more than two years. She wrote in 1909 that they kept her "a prisoner without being sick nor needing medical treatment."
+- Officials took her to the island again in 1915. She stayed there until she died in 1938. She became known as "Typhoid Mary."
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fewer medical schools, 1910" -->
+- In 1910 Abraham Flexner published a survey of the country's 148 medical schools for the Carnegie Foundation. He called several of them "beyond repair." In the years after, the number of medical schools fell to 66.
+- Seven medical schools trained Black doctors. Only two were left: Howard University in Washington, D.C. and Meharry Medical College in Nashville, Tennessee.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Polio in New York, 1916" -->
+- Polio is a disease caused by a virus that can attack the nerves of the spine and leave a person unable to move their arms, legs or breathing muscles. This is called paralysis.
+- In the summer of 1916 polio spread through New York City. Most of the sick were babies and small children. Fewer than 1 in 10 of the city's cases were in children older than five. Across the country there were more than 27,000 cases and more than 6,000 deaths. Counts for New York City alone run from about 2,000 to about 6,000 deaths.
+- Dr. Haven Emerson, the city's health commissioner, led the response. Newspapers printed the names and addresses of the sick every day. Health workers put signs on their houses and kept their families inside. A family that could not give the sick child a separate room and toilet had to send the child to a hospital. Police stood at the railroads, roads and rivers to turn back families trying to leave the city. Some New Yorkers blamed Italian immigrants for the disease and beat them in the streets.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The 1918 influenza" -->
+- Influenza is a virus that infects the nose, throat and lungs. In 1918 a new kind of influenza spread around the world. About 500 million people caught it, and at least 50 million died. About 675,000 died in the United States. Many of the dead were healthy adults between 20 and 40. There was no vaccine and no antibiotic.
+- The sick had high fevers and heavy nosebleeds. Many died of pneumonia, when their lungs filled with fluid.
+- In Philadelphia the city's health director, Dr. Wilmer Krusen, let a parade go ahead on 28 September 1918, with about 200,000 people on Broad Street. He said in public that the flu was not a threat. Within three days every bed in the city's 31 hospitals was full. City officials closed schools, churches and theaters on 3 October. More than 12,000 people in Philadelphia died within weeks.
+- In 1918 the flu reached Brevig Mission, an Alaska Native village. Within five days 72 of the 80 villagers were dead. Miners from Nome thawed the frozen ground with steam to dig one grave for all of them.
+Shared with: war (the flu in army camps and troopships) · disasters (the emergency).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Radium in the body, 1917 to 1932" -->
+- Radium is a radioactive metal. The body treats it like calcium and builds it into the bones. There it keeps giving off radiation from the inside.
+- Women who painted watch dials with glowing radium paint at a factory in Orange, New Jersey, from 1917 shaped their brushes with their lips. The radium destroyed their bone marrow, so their bodies could not make enough blood. Their jaw bones died and broke apart. Some grew bone cancers. In 1924 a dentist, Theodor Blum, called the damage "radium jaw."
+- William Bailey sold Radithor, radium dissolved in water, as a medicine. Eben Byers, a Pittsburgh businessman, drank about 1,400 bottles from 1927 to 1930. By 1931 an investigator found that the bone in his body was falling apart and holes were forming in his skull. He died on 31 March 1932.
+Shared with: rights-movements and work-workers (the dial painters' lawsuit) · elements (radium).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Native health, 1928" -->
+- In 1928 a team of investigators led by Lewis Meriam reported on the lives of Native people on reservations and in government schools. They wrote that "the health of the Indians as compared with that of the general population is bad." Both the death rate and the death rate of babies were high.
+- They found tuberculosis, a disease caused by a germ that destroys the lungs, "extremely prevalent." They found that trachoma, an eye disease that "produces blindness," was "a major problem."
+- In the government boarding schools the children's food was "deficient in quantity, quality, and variety," and "the medical service rendered the boarding school children is not up to a reasonable standard."
+Shared with: native-nations (the boarding schools and the Meriam Report) · education.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Tuskegee study, 1932 to 1972" -->
+- Syphilis is a disease caused by a germ passed during sex, or from a mother to her unborn baby. Untreated, it goes through stages. First comes a painless sore. Weeks later come a rash and a fever. Then the germ can hide in the body for years with no signs. After 10 to 30 years it can damage the heart and the large blood vessels, the brain and the nerves. It can cause blindness and dementia, the loss of memory and reason, and it can kill. A baby born with it can die.
+- In 1932 Dr. Taliaferro Clark of the United States Public Health Service began a study of untreated syphilis in Black men in Macon County, Alabama, near the town of Tuskegee. Dr. Raymond Vonderlehr ran it. Most of the men were poor farmers who rented land or worked it for a share of the crop. The doctors picked 399 men who had syphilis and 201 who did not. They did not plan to cure the infected men. After the first six months the doctors gave them no real treatment at all.
+- The doctors told the men they had "bad blood" and were being treated for it. They never told them the name of the disease or asked for their consent. The men got free exams, hot meals on exam days, rides, and a promise that their burials would be paid for, in return for letting doctors cut open their bodies after death. Nurse Eunice Rivers gave them aspirin and tonic that did nothing for syphilis.
+- The doctors also gave the men spinal taps. In a spinal tap a doctor pushes a needle between the bones of the lower back and draws out fluid from around the spinal cord. It is painful and can have side effects. The doctors' letter to the men called it their "Last Chance For Special Free Treatment."
+- The doctors kept treatment away from the men. They gave local doctors lists of the men's names and asked them not to treat them. In 1941 Army officers drafted some of the men and ordered them treated. Public Health Service officers gave the draft board a list of 256 names to leave untreated, and the board members agreed. By the 1940s penicillin cured syphilis. The study doctors did not give it to the men.
+- The doctors printed what they saw. In 1936 they reported that the infected men had much more heart and blood vessel disease. About ten years later nearly twice as many infected men as uninfected men had died, and the doctors figured the disease had cut the men's lives by about a fifth. In 1955 they reported that more than 30 of every 100 infected men whose bodies they examined had died because syphilis destroyed their heart and blood vessels or their brain and spinal cord.
+- By the time a reporter exposed the study in 1972, 28 of the men had died of syphilis and 100 more of problems it caused. Forty of their wives had caught it, and 19 of their children were born with it.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="A poison sold as medicine, and a new law, 1937 and 1938" -->
+- In 1937 the S. E. Massengill Company of Bristol, Tennessee sold Elixir Sulfanilamide, a liquid medicine for strep throat. Its chemist, Harold Watkins, mixed the drug into diethylene glycol, a chemical used in antifreeze. It is a poison. No law required the company to test the medicine for safety before selling it.
+- In September and October 1937 it killed more than 100 people in 15 states, many of them children. It shut down their kidneys. They stopped passing urine and had severe stomach pain, vomiting and seizures before they died. The owner, Dr. Samuel Massengill, said, "I do not feel that there was any responsibility on our part." Watkins killed himself.
+- On 25 June 1938 President Franklin Roosevelt signed the Federal Food, Drug, and Cosmetic Act, which Congress had passed. Under it, a company had to show officials of the Food and Drug Administration that a new drug was safe before it could sell it.
+Shared with: food-farming and drugs-alcohol (the 1906 Pure Food and Drug Act).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Penicillin, 1942" -->
+- Penicillin is a drug made from a mold. It kills many kinds of bacteria, the germs that cause infections such as blood poisoning, pneumonia and syphilis.
+- In March 1942 Anne Miller of New Haven, Connecticut had a fever of 103 or higher for weeks, from an infection of the blood after a miscarriage. Her doctors got 5.5 grams of penicillin, half of all the penicillin in the United States. She got her first dose on 14 March. By the next morning her fever was gone. She was the first patient in the United States whose life was saved by penicillin.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Exposed on purpose in Guatemala, 1946 to 1948" -->
+- From 1946 to 1948 doctors of the United States Public Health Service, led by Dr. John Cutler, gave people in Guatemala syphilis, gonorrhea and chancroid on purpose, or tried to. All three are diseases passed during sex. The doctors did not ask the people's consent.
+- They exposed 1,308 people to these diseases: prisoners, soldiers and patients in the national mental hospital, aged from 10 to 72. The records show some treatment for 678 of them. For tests they took blood or spinal fluid from 5,128 people, among them children in orphanages and schools and people with leprosy.
+- The doctors infected sex workers and sent them to the prisoners. They also rubbed pus from sick men onto people's genitals and injected germs into their spinal fluid. The money came from the Public Health Service and the National Institutes of Health, and Guatemalan officials helped.
+- Dr. Cutler's records note 83 deaths while the experiments went on. The records do not show how many of those deaths the experiments caused. The doctors never published their results, and the public learned of the experiments in 2010.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Federal money for hospitals, 1946" -->
+- On 13 August 1946 the Hospital Survey and Construction Act became law. People call it the Hill-Burton Act after its sponsors, Senators Lister Hill of Alabama and Harold Burton of Ohio. Congress gave $3.7 billion under it from 1947 to 1971, and states and towns added $9.1 billion, to build hospitals.
+- Under the law, hospitals built with the money could keep Black and white patients apart, as long as the separate care was called equal. Judges struck the rule down in 1963.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Other harm doctors saw in these years" -->
+- Pellagra, from a diet of little but cornmeal, molasses and dried pork, killed about 100,000 Americans between 1900 and 1940, most of them poor Southerners.
+- From 1930 to 1932 men dug the Hawks Nest tunnel in West Virginia through rock full of silica with no masks and no dust control. Breathing the dust scarred their lungs, a disease called silicosis. Death counts run from 476 to close to 1,000.
+- In Puerto Rico, under a 1937 law, members of a government board ordered 97 women sterilized by force. Sterilized means the woman can never become pregnant again. Doctors cut or tied the tubes that carry eggs to the womb, or removed the womb. Many thousands more women had the operation under pressure.
+Shared with: food-farming (pellagra) · work-workers (Hawks Nest) · america-world (Puerto Rico's Law 116) · rights-movements (eugenics and Carrie Buck).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="josie-mabel-brown" name="Josie Mabel Brown" movie="" kind="ordinary" status="verified" -->
+### Josie Mabel Brown
+> **Who:** A Navy nurse from Missouri who worked the influenza wards at Great Lakes, Illinois, and described them in an interview at the age of about 100. · **When and where:** Great Lakes Naval Training Station, Illinois, fall 1918 to 1919. Born on a Missouri farm in 1886.
+- She finished nurse training in 1917 and was called to the Navy. In the fall of 1918 she was ordered to Great Lakes, where at the worst of the epidemic 6,000 of the 173,000 men were in the hospitals.
+- On her first ward one man lay dying on the bed, one lay on the floor, and another waited on a stretcher for the bed. The nurses wrapped the dead in sheets with a tag on one big toe. The ambulance brought four sick men and took away four dead ones.
+- The nurses had no time to take temperatures. Patients had nosebleeds so strong that "the blood would just shoot across the room." Some had air leak from torn lungs into their bodies, and she could feel bubbles under the skin of their arms.
+- She worked 16 hours a day until just before Christmas 1918. In March 1919 she caught a fever of 104 or 105 herself and recovered. She told her story to her niece in 1986 and died at 104.
+<!-- hb-story:end slug="josie-mabel-brown" -->
+<!-- hb-story:start slug="charles-pollard" name="Charles Pollard" movie="" kind="ordinary" status="verified" -->
+### Charles Pollard
+> **Who:** An Alabama farmer who was kept in the Tuskegee study for 40 years without being told he had syphilis, and who then brought the lawsuit for the men. · **When and where:** near Tuskegee, Macon County, Alabama, 1932 to 1972.
+- He farmed 66 acres he had inherited, about three miles from Tuskegee. His father was the son of two enslaved people.
+- In 1932 men from the study told him he could get a free physical exam at a one-room school the next afternoon. "So I went on over and they told me I had bad blood," he said. "And that's what they've been telling me ever since."
+- For 40 years doctors came around "from time to time and check me over." In July 1972, at 66, he learned that he had had syphilis all that time.
+- He went to a Tuskegee lawyer, Fred Gray. Their lawsuit, Pollard v. United States, ended in a settlement of $10 million for the men and their families. In 1997 he was one of the survivors at the White House when President Bill Clinton apologized.
+<!-- hb-story:end slug="charles-pollard" -->
+<!-- hb-story:start slug="clara-maass" name="Clara Maass" movie="" kind="ordinary" status="verified" -->
+### Clara Maass
+> **Who:** A New Jersey nurse who died after letting infected mosquitoes bite her in a yellow fever experiment. · **When and where:** Havana, Cuba, 1901. Born in East Orange, New Jersey, in 1876.
+- She came from a poor German immigrant family and started nurse training at 17. By 21 she was head nurse at the Newark German Hospital.
+- She nursed soldiers in the 1898 war with Spain and then in the Philippines.
+- In Havana in March 1901 she let infected mosquitoes bite her. The offer was $100, and $200 for anyone who caught the fever. She had a mild case and got well.
+- She volunteered again in August 1901, caught yellow fever, and died at 25. Army leaders broke up the yellow fever commission soon after.
+<!-- hb-story:end slug="clara-maass" -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="health" label="1950 to 2000" state="full" progress="seed" -->

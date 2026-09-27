@@ -24,14 +24,16 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 - [x] smallpox inoculation, 1721, and Onesimus (era 04)
 - [x] the 1793 yellow-fever epidemic (era 05)
 - [x] Benjamin Rush (era 05)
-- [ ] ether anesthesia
-- [ ] Elizabeth Blackwell
-- [ ] germ theory
-- [ ] Clara Barton
-- [ ] the 1918 flu
-- [ ] antibiotics
-- [ ] the Tuskegee syphilis study
-- [ ] Jonas Salk and polio
+- [x] ether anesthesia (era 06: Long 1842, Morton and Warren 1846)
+- [x] Elizabeth Blackwell (era 06 story)
+- [x] germ theory (era 07: Lister, Garfield 1881)
+- [x] Clara Barton (era 07 story)
+- [x] the 1918 flu (era 08: Philadelphia, Brevig Mission, Josie Mabel Brown)
+- [x] antibiotics (era 08: penicillin 1942, Anne Miller)
+- [x] the Tuskegee syphilis study (era 08 span + Charles Pollard; 1972 exposure and after are era 09)
+- [x] J. Marion Sims and Anarcha, Betsey and Lucy (era 06)
+- [x] Walter Reed and yellow fever (era 08), Typhoid Mary (era 08)
+- [ ] Jonas Salk and polio (1916 epidemic in era 08; Salk is era 09)
 - [ ] HIV/AIDS
 - [ ] COVID-19
 
@@ -40,8 +42,8 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 
 - [x] Pennsylvania Hospital, 1751 (cleared T-263r: founded 11 May 1751, first patients 6 Feb 1752 or 1753, sources disagree)
 - [x] the first medical school, 1765 (cleared T-263r: College of Philadelphia, John Morgan, Mütter Museum)
-- [ ] Elizabeth Blackwell, 1849 — 1800–1850
-- [ ] the FDA and drug regulation, 1938 — 1900–1950
+- [x] Elizabeth Blackwell, 1849 (cleared T-263b: 23 January 1849, HWS)
+- [x] the FDA and drug regulation, 1938 (cleared T-263b: FD&C Act signed 25 June 1938, FDA)
 - [ ] Medicare and Medicaid, 1965 — 1950–2000
 
 ## Threads present
@@ -67,3 +69,22 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 - The Tuskegee syphilis study and the 1918 flu are both hard subjects for 8–15 readers. The brief says do not filter; the director should set the wording line.
 - Boundary with `disasters`: this seed keeps slow epidemics here and sudden calamities there, but COVID-19 sits across both.
 - Public health as policy (quarantine, vaccination requirements, water treatment) — a recurring thread here, or shared with `government-politics`?
+
+## Story slots, eras 06-08 (T-263b, 2026-09-27)
+- verified and bank-sourced: anarcha (new, ordinary), elizabeth-blackwell (06); clara-barton-health, hannah-ropes (new, resolves target civil-war-nurse), susan-la-flesche-picotte (new) (07); josie-mabel-brown (resolves target 1918-flu-nurse-or-survivor), charles-pollard (resolves target tuskegee-study-participant), clara-maass (new) (08).
+- Additional names covered: Benjamin Waterhouse, Lewis Cass, Francis Chardon, Four Bears, Crawford Long, William Morton, John Collins Warren, Mary Eliza Mahoney, Harriet Jacobs, Annie Cook, Garfield and Dr. Willard Bliss, Walter Reed, Jesse Lazear, Mary Mallon, Abraham Flexner, Haven Emerson, Wilmer Krusen, Eben Byers, Taliaferro Clark, Raymond Vonderlehr, Eunice Rivers, Harold Watkins and Samuel Massengill, Anne Miller, John Cutler.
+
+## Shared events added, eras 06-08 (T-263b)
+| Event | Our angle | Shared with |
+|---|---|---|
+| 1837 upper-Missouri smallpox | lead: the disease, the 1832 vaccine exclusion, the counts | native-nations (the nations after), home-family (Buffalo Bird Woman) |
+| Civil War disease | the diseases and camps, nurses | war (lead: wounds, amputation, prisons) |
+| Freedpeople smallpox 1862-68 | lead | slavery-freedom (emancipation) |
+| 1898 camp typhoid | lead (not in war outline) | war |
+| Radium poisoning | the body: bone, marrow, jaw, Byers | rights-movements, work-workers, elements |
+| Puerto Rico Law 116 | method (policy 3b) only | america-world (lead) |
+| Pellagra, Hawks Nest | one line each | food-farming, work-workers (lead) |
+| Meriam Report 1928 | health findings | native-nations, education |
+
+## Cross-chapter parking log (T-263b)
+- Coordinator rule mid-T-263b: nothing filed in other banks. Items listed under TO PARK in control/checkpoints/T-263-health.md.
