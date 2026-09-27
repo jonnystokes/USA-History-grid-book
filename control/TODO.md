@@ -11,8 +11,10 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**TEN-AGENT BATCH IN FLIGHT (T-257..T-266a).** Verify and commit each as it finishes, file TO PARK after all ten,
-then back to ONE AT A TIME (Jon).
+**Ten-agent batch hit the usage limit: 2 done (education 1-5, war 1-5), 8 partial and committed.**
+NOW: continuations ONE AT A TIME: T-258r gov-politics, T-262r rights, T-260r religion, T-257r exploration,
+T-263r health, T-264r disasters, T-265r crime-justice, T-266r drugs-alcohol. Then file all TO PARK items. Then
+the second halves (war 6-10, religion 6-10, education 6-10, rights 7-10, seeds 6-10) and the other 7 seeds.
 Tulsa 1921: rights-movements leads, crime-justice the justice angle (DECISIONS #23).
 **AUTONOMOUS (Jon, 2026-09-27): non-stop, one agent at a time** (DECISIONS #24).
 

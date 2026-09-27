@@ -2733,51 +2733,83 @@ T-266a drugs-alcohol (full research, eras 1-5). Ten distinct chapters, so no two
 USAGE AT START: 0% (Jon: window reset). Each agent writes only its own chapter; TO PARK filed after.
 
 ### 2026-09-27 | [LOCAL] T-257 | exploration: full, eras 1-10 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-257-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. FAIL  exploration / research. Stopped at: Unit 1, era 06 (1800-1850), the big one: L&C, Sacagawea, York, Pike, Colter, Glass, Jedediah Smith, Bridger, Fremont, Wilkes. 5 candidates here.
+        Salvage: 117 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-258 | government-politics: bankcheck, eras 1-10 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-258-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. PASS  government-politics / research. Stopped at: Unit 1 in progress: eras 1-7 written to bank; now eras 8-10 (web search quota hit at 12:50 reset; using WebFetch/curl)
+        Salvage: 370 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-259a | war: bankcheck, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-259-war.md
 VERIFY: python tools/project_state.py --check war --stage research
+RESULT: DONE. PASS  war / research. (finished before the limit; its final report was lost to the kill)
 
 ### 2026-09-27 | [LOCAL] T-260a | religion: bankcheck, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. PASS  religion / research. Stopped at: T-260a Unit 1: bank check eras 1-5 (reading slices, 2026-09-27)
+        Salvage: 316 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-261a | education: bankcheck, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+RESULT: DONE. PASS  education / research. (reported normally)
 
 ### 2026-09-27 | [LOCAL] T-262a | rights-movements: bankcheck, eras 1-6 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. PASS  rights-movements / research. Stopped at: T-262a Unit 1: eras 2-5 patched in the bank. Working era 6 (abolitionist mobs 1835-38, Maria Stewart, Crandall opponents, Seneca Falls backlash, ASD 1
+        Salvage: 303 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-263a | health: full, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. FAIL  health / research. Stopped at: T-263a Unit 1: era 03 1600s (research, then outline + bank)
+        Salvage: 139 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-264a | disasters: full, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. FAIL  disasters / research. Stopped at: T-264a Unit 1, era 04 (1700-1750): Cascadia 1700, Boston 1711, 1715 Spanish fleet hurricane, Charleston 1740 fire, NY 1741 fires (blame; slavery-freed
+        Salvage: 133 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-265a | crime-justice: full, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. FAIL  crime-justice / research. Stopped at: T-265a Unit 1, era 3 (1600s): bank partly written. Outline era 3 still seed. To do: Ratcliffe 1631, watch, punishments definitions, Sassamon trial 167
+        Salvage: 165 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
 
 ### 2026-09-27 | [LOCAL] T-266a | drugs-alcohol: full, eras 1-5 | model opus | BATCH10
-STATUS: IN-FLIGHT
+STATUS: PARTIAL
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+RESULT: KILLED by the usage limit (12:50 reset). Work landed and committed as partial. FAIL  drugs-alcohol / research. Stopped at: T-266a Unit 1, era 04 1700-1750 (research in progress)
+        Salvage: 219 fetched URLs + stop point written into the checkpoint. Continuation queued (one at a time).
+
+### 2026-09-27 | [LOCAL] RECOVERY after the ten-agent batch hit the usage limit (automated reset message)
+Drill run. MEASURED: 2 of 10 finished (T-261a education, T-259a war; war's report was lost to the kill but
+its checkpoint and check show DONE). 8 killed partway with about 2,900 lines on disk, all outlines validate 0.
+Each chapter committed separately (partial ones as PARTIAL). Salvage: each partial checkpoint now has a
+SALVAGE section (stop point, "treat that unit as possibly half-written", fetched URLs).
+LESSON: ten Opus agents at once used the whole 5-hour window before any but two could finish, and they also
+exhausted the web-search quota. Five at once fitted (27% -> 60%). Ten does not.
+CONTINUATIONS, one at a time (Jon): T-258r, T-262r, T-260r, T-257r, T-263r, T-264r, T-265r, T-266r.
+
+### 2026-09-27 | [LOCAL] T-258r | government-politics: continue the bank check (eras 8-10 left) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-258-government-politics.md (read SALVAGE first)
+VERIFY: python tools/project_state.py --check government-politics --stage research

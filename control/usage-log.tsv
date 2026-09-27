@@ -170,3 +170,5 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-251..255	research-batch	general-purpose/opus x5	[LOCAL] parallel batch of five patch tasks (whole-batch reading)	27	60	33+	1788572	853	6555286	?	completed	five agents at once; ~6.6% each incl. director filing
 2026-09-27	T-256a	research	general-purpose/opus	[LOCAL] big-business bank write-up + check, eras 1-7	60	?	?	434879	151	1198090	?	completed	bank 409->14209w; gate already PASS; 2-3 searched-not-found
 2026-09-27	T-256b	research	general-purpose/opus	[LOCAL] big-business bank write-up + check, eras 8-10, final	60	?	?	410462	209	1566376	?	completed	PASS patch+research; bank 14209->25538w; window reset to 0 mid-run (Jon)
+2026-09-27	T-261a	research	general-purpose/opus	[LOCAL] education bank check eras 1-5 [BATCH10]	0	?	?	259783	98	743534	?	completed	research PASS; bank +5647w
+2026-09-27	BATCH10	research-batch	general-purpose/opus x10	[LOCAL] ten agents at once; window 0 -> 100% (limit hit ~12:50)	0	100	100	?	~1100	?	?	killed	2 of 10 finished (education, war); 8 killed partway with work on disk; web search quota also exhausted
