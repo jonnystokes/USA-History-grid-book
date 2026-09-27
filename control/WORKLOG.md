@@ -2626,9 +2626,19 @@ RESULT: DONE. PASS food-farming / patch and / research. stories 18 -> 17 (v17 c0
         SEARCHED NOT FOUND: 2. TO PARK: 6 items (filed after the parallel run).
 
 ### 2026-09-27 | [LOCAL] T-252 | money: patch (2 targets) + bank check | model opus | PARALLEL
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-252-money.md
 VERIFY: python tools/project_state.py --check money --stage patch (and --stage research)
+RESULT: DONE. PASS money / patch and / research. stories 12 (all verified), bank 7,545 -> 14,572w, outline
+        5,394 -> 7,377w, validator 0. 333,501 tokens, 164 tool uses, 22.0 min (opus, parallel).
+        Stories: no named wildcat shopkeeper or 1970s household found (both SEARCHED NOT FOUND); slots replaced by
+        Alpheus Felch (Michigan bank commissioner 1838-39, nails and glass under the coins) and Bruce Bent and
+        Henry Brown (first money market fund; "broke the buck" 2008). Bank check: SC loans on enslaved people,
+        Owen Sullivan hanged 1756, Louisiana notes on enslaved people, 1807 Treaty of Detroit land, Freedman's Bank
+        (~61,000 depositors, 62% repaid, ~31,000 got nothing), 1930-33 losses $1.34B, Maggie Walker, Jesse Binga,
+        Greenwood's $1.8M denied claims, S&L crisis, 489 failures 2008-13, 2023 runs, FTX, GENIUS Act.
+        "First" fixed: Walker = first Black woman to found a US bank. SEARCHED NOT FOUND: 4. TO PARK: 5 items.
+        FLAG FOR JON: the agent reports no chapter tells the 1921 Tulsa massacre (only money's bank loss angle).
 
 ### 2026-09-27 | [LOCAL] T-253 | marketplace: patch (3 targets, bank < outline) + bank check | model opus | PARALLEL
 STATUS: IN-FLIGHT
