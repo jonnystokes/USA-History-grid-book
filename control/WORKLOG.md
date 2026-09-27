@@ -2548,3 +2548,10 @@ RESULT: DONE. PASS energy / patch and / research. stories 11 (v11 c0 t0), bank 5
         Garrison), TMI, pointers to Osage/Navajo/Dakota Access banks, EIA 2025-26 (2018: US passed Russia, not
         Saudi Arabia). Parked to work-workers and disasters (both validate 0).
         WRITER brief: ignore BOOK-OUTLINE.md in the slug-uniqueness grep (compiled copy).
+USAGE END (T-247b): 9% (Jon). 3% -> 9% (includes director close and T-248 prep, marked +).
+
+### 2026-09-27 | [LOCAL] T-248 | transportation: patch (1 target) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-248-transportation.md
+VERIFY: python tools/project_state.py --check transportation --stage patch (and --stage research)
+USAGE AT START: 9% (Jon).
