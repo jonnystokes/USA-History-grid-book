@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-256a `big-business` eras 1-7 IN FLIGHT.** Then T-256b (eras 8-10), T-257 exploration (a/b), T-258 onward.
+**T-256b `big-business` eras 8-10 IN FLIGHT** (T-256a done), T-257 exploration (a/b), T-258 onward.
 Tulsa 1921: rights-movements leads, crime-justice the justice angle (DECISIONS #23).
 **AUTONOMOUS (Jon, 2026-09-27): non-stop, one agent at a time** (DECISIONS #24).
 

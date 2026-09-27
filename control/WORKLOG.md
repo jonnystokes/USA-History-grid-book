@@ -2697,7 +2697,20 @@ OPEN FOR JON: the 1921 Tulsa massacre is told by no chapter. Parked to crime-jus
 Parallel batch usage: 27% -> 60% for all five (logged). Tulsa ruling recorded (DECISIONS #23).
 
 ### 2026-09-27 | [LOCAL] T-256a | big-business: bank write-up + checks, eras 1-7 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-256-big-business.md (units 1-3)
 VERIFY: eras 1-7 of the bank written (the gate passes only after T-256b)
 USAGE AT START: 60% (Jon).
+RESULT: DONE. Units 1-3 landed. big-business already PASSES patch (bank 409 -> 14,209w vs outline 7,228w,
+        v14 c0 t0, 0 VERIFY, validator 0). 434,879 tokens, 151 tool uses, 20.0 min (opus).
+        Franklin Tarbell verified (Ida Tarbell's 1939 memoir, 1905 obituary); outline corrected (partner's suicide
+        ~1892, home mortgaged 1893). Other outline corrections: lottery ban by James I, Sylla-Wright corporation
+        counts, Lowell 1826, Biddle comparisons removed (SEARCHED NOT FOUND). PATCHes: Royal African Company
+        (186,748 carried, 16,077 died, branding defined), Hancock and Apthorp's 1755 Acadian transports, Homestead
+        dead by name, Seneca land at Big Tree, American Tobacco 1890. Workspace lists a Debs story the outline
+        lacks (left for the writers). T-256b still needed: eras 8-10 stories have no bank behind them yet.
+
+### 2026-09-27 | [LOCAL] T-256b | big-business: bank write-up + checks, eras 8-10, final | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-256-big-business.md (units 4-6)
+VERIFY: python tools/project_state.py --check big-business --stage patch (and --stage research)
