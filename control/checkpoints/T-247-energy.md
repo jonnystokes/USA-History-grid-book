@@ -6,8 +6,10 @@ BRIEF:  control/briefs/RESEARCH.md, MODE patch
 MODEL:  opus
 FILES:  outlines/energy.md · research/research-energy.md · workspace/energy.md
 
-NOW:    (agent sets this)
-NEXT:   Unit 1.
+NOW:    (continuation agent sets this)
+NEXT:   T-247b: Unit 1 continues. Chadbourne is DONE in the bank (PATCH era 03) but the outline story
+        is still status="candidate": flip it after checking the PATCH. Then the collier/furnace target,
+        using the pages below, then the other three slots.
 
 ## Measured before dispatch (2026-09-27)
 
@@ -58,6 +60,66 @@ protests (Dakota Access) with dated facts.
 Perishable: every 2000-today figure (energy mix, renewables share, prices, nuclear restarts and
 small modular reactors, EV numbers). Date each figure and refresh to 2026 where a newer official
 figure exists (EIA is the default source).
+
+## SALVAGE 2026-09-27 (first agent killed when Jon's app restarted)
+
+Landed (measured with git diff): one bank PATCH under era 03, "William Chadbourne confirmed, and
+whose land the mills stood on" (Old Berwick Historical Society, James Wall's 1652 deposition,
+Abenaki land). The outline was NOT changed: `william-chadbourne` is still `candidate`.
+Stopped at: researching the collier or furnace worker (Hopewell Furnace, Catoctin Furnace).
+Nothing from those pages was written. Do not redo the Chadbourne research.
+
+Pages the killed agent fetched (re-read the useful ones rather than searching again):
+- https://catoctinfurnace.org/history/
+- https://www.sciencehistory.org/stories/magazine/o
+- https://bioethicsarchive.georgetown.edu/achre/final/chap12_2.html
+- https://semspub.epa.gov/work/06/1000720.pdf
+- https://www.wikitree.com/wiki/Chadbourne-4
+- https://freepages.rootsweb.com/~dearle/genealogy/CHADBOURNE.html
+- https://en.wikipedia.org/wiki/Great_Works_River
+- https://www.findagrave.com/memorial/46651181/william-chadbourne
+- http://freepages.rootsweb.com/~mainegenie/genealogy/SPENCER.htm
+- https://www.oldberwick.org/history-articles/trades-occupations/timeline-of-the-great-works-mills.html
+- https://www.oldberwick.org/history-articles/trades-occupations/great-works.html
+- http://www.brazoriaroots.com/p8422.htm
+- http://chadbourne.org/Genealogy.html
+- http://freepages.rootsweb.com/~mainegenie/genealogy/CDBRN.htm
+- https://en.wikipedia.org/wiki/South_Berwick,_Maine
+- https://accessgenealogy.com/new-hampshire/new-hampshire-indian-tribes.htm
+- https://www.oldberwick.org/history-articles/people/17th-century/south-berwicks-first-people.html
+- https://micummcintireclanassociation.org/native-americans-in-maine-mcintire-settlement/
+- https://en.wikipedia.org/wiki/Berwick,_Maine
+- https://www.berwickmaine.gov/community/berwick_historical_society/native_americans.php
+- http://mynewenglandancestors.blogspot.com/2016/08/they-came-to-stay.html
+- https://www.trashpaddler.com/2015/05/to-newichawannock-and-falls.html
+- https://www.nps.gov/sair/learn/news/landscapes-of-indenture.htm
+- https://www.nps.gov/articles/000/scottish-prisoners-at-the-iron-works.htm
+- https://www.virtualjamestown.org/phatmass.html
+- https://www.dhr.virginia.gov/historic-registers/020-0063/
+- https://www.nps.gov/articles/settlejames.htm
+- https://www.durham.ac.uk/departments/academic/archaeology/research/archaeology-research-projects/scottish-soldiers/
+- https://spows.org/battle-of-dunbar/battle-of-dunbar-prisoners-of-war/
+- https://www.mountclare.org/historic-site/industry/baltimore-iron-works
+- http://www.heritage.umd.edu/chrsweb/associatedprojects/chidesterreport/chapter%20v.htm
+- https://news.maryland.gov/dnr/2026/02/28/historic-african-american-cemetery-of-enslaved-catoctin-furnace-workers-becomes-part-of-cunningham-falls-state-park/
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC10958645/
+- https://npgallery.nps.gov/Areas/HOFU/Content/data/HOFU_books_BrianSchmult.pdf
+- http://home.nps.gov/articles/hopewell-furnace-a-pennsylvania-iron-making-plantation-teaching-with-historic-places.htm
+- https://www.nps.gov/articles/hopewell-furnace-a-pennsylvania-iron-making-plantation-teaching-with-historic-places.htm
+- https://www.nps.gov/parkhistory/online_books/hofu/adhi.pdf
+- https://www.nationalparkstraveler.org/2015/06/art-making-charcoal-hopewell-furnace-national-historic-site26699
+- https://www.bctv.org/2017/04/03/friends-of-hopewell-furnace-to-demonstrate-access-to-hopewell-furnace-account-books-ccc-records/
+- https://www.nps.gov/hofu/learn/historyculture/charcoal-making.htm
+- https://www.nps.gov/hofu/learn/historyculture/collections.htm
+- https://npgallery.nps.gov/HOFU/About
+- https://dnr.maryland.gov/publiclands/pages/western/cunninghamfalls/catoctin-furnace.aspx
+- https://www.hmdb.org/m.asp?m=104641
+- https://decorativeartstrust.org/rock-ford-article/
+- http://www.heritage.umd.edu/chrsweb/associatedprojects/chidesterreport/Chapter%20VII.htm
+- https://en.wikipedia.org/wiki/History_of_the_iron_and_steel_industry_in_the_United_States
+- https://en.wikipedia.org/wiki/Richard_Snowden_(ironmaster
+- https://encyclopediavirginia.org/entries/runaway-slaves-and-servants-in-colonial-virginia/
+- https://paparksandforests.org/black-history-charcoal-and-state-lands/
 
 ## Sources in hand
 

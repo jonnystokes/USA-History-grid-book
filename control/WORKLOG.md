@@ -2523,7 +2523,17 @@ RESULT: DONE (2026-09-27). PASS technology / patch and / research. stories 23 (v
 USAGE END: not captured (the 5-hour window reset before a reading).
 
 ### 2026-09-27 | [LOCAL] T-247 | energy: patch (2 candidates, 3 targets) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: KILLED (continued as T-247b)
 CHECKPOINT: control/checkpoints/T-247-energy.md
 VERIFY: python tools/project_state.py --check energy --stage patch (and --stage research)
 USAGE AT START: 0% (Jon: fresh 5-hour window). This reading is clean: brackets director prep + the agent.
+RESULT: KILLED when Jon's app restarted (not a usage limit). Measured: 1 bank PATCH landed (William Chadbourne,
+        era 03); outline unchanged; energy still FAIL patch. Usage 0% -> 3% (includes director prep).
+        Salvage: --brief digest was 179 words, so no sonnet salvage reader; the ~50 fetched URLs and the stop
+        point went into the checkpoint's SALVAGE section. Continued as T-247b.
+
+### 2026-09-27 | [LOCAL] T-247b | energy: continuation of T-247 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-247-energy.md (read SALVAGE first)
+VERIFY: python tools/project_state.py --check energy --stage patch (and --stage research)
+USAGE AT START: 3% (Jon).
