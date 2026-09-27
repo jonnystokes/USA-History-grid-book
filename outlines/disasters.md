@@ -13,37 +13,94 @@
 Editor's in-development note — not part of the final book; the parser strips it.
 <!-- /hb-note -->
 
-<!-- hb-time:start id="before-1500" order="01" chapter="disasters" label="Before 1500" state="thin" progress="seed" -->
+<!-- hb-time:start id="before-1500" order="01" chapter="disasters" label="Before 1500" state="thin" progress="researched" -->
 ## Before 1500
 <!-- hb-zoom level="era" -->
-Floods, droughts, earthquakes, and storms are older than any record here, and Native nations carried memory of them and planned around them.
+Volcanoes, earthquakes and long droughts struck this land thousands of years before anyone wrote them down. The people who lived through them were Native nations. What is known comes from three kinds of evidence: ash buried in the ground, the growth rings of old trees, and stories the nations kept and retold.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Drought and remembered quakes" -->
-Drought as a factor in the dispersal of Chaco and Cahokia; flood-aware settlement; oral traditions that record real events, including a Pacific Northwest earthquake and tsunami [VERIFY the 1700 Cascadia event — it falls in the 1700–1750 era by date].
+<!-- hb-zoom level="span" label="Two volcanoes" -->
+About 7,700 years ago, Mount Mazama in present-day southern Oregon erupted and fell in on itself. The eruption was more than forty times as powerful as Mount St. Helens in 1980. The hole it left filled with rain and snowmelt and became Crater Lake. People had lived in the region for thousands of years by then. In 1938 the archaeologist Luther Cressman found dozens of their woven sandals under a layer of Mazama ash in Fort Rock Cave in Lake County, Oregon. Radiocarbon tests later dated the sandals to about 9,100 to 10,500 years ago, so the families who wore them lived there long before the eruption. The Klamath Tribes, who have lived in the Klamath Basin for about 13,000 years, tell the eruption as a battle between Llao, chief of the Below World, and Skell, chief of the Above World. In the story, Skell drove Llao back into the mountain, and the mountain fell in.
+
+Around the year 1085, Sunset Crater erupted near present-day Flagstaff, Arizona. Its ash reached places 12 to 15 miles away. Nothing grows well in ash deeper than about 6 to 8 inches, so the Sinagua farmers who lived closest to the volcano left their fields and moved. Farther out, a thin layer of ash worked as a mulch, a covering that keeps soil from drying out, and crops grew better.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Droughts that lasted decades" -->
+A drought is a long stretch with too little rain for crops. Tree rings show that the land around the Colorado Plateau had too little rain from about 1130 to 1180. From 1140 to 1162 there were 23 dry years in a row, the longest run in the North American tree-ring record. Builders at Chaco Canyon in present-day New Mexico stopped putting up their great stone houses by about 1130, and the Chaco towns broke up in the following decades (the towns themselves belong to `native-nations`).
+
+A second drought lasted from 1276 to 1299. By about 1300 the Pueblo people of the Mesa Verde region in present-day Colorado had moved south, to the Rio Grande valley, Zuni, Acoma and the Hopi mesas, where rain came more reliably. Archaeologists at the Crow Canyon Archaeological Center count the drought as one cause among several. They think it caused food shortages in a region crowded with people, and that the shortages led to fighting.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Earthquakes on the northwest coast" -->
+Off the coast of present-day Washington, Oregon and northern California, one plate of the earth's crust slides under another along a fault called the Cascadia Subduction Zone. Scientists have found signs of 19 great earthquakes on it in the last 10,000 years. The most recent struck in January 1700 (see 1700 to 1750).
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
-<!-- hb-time:start id="1500s" order="02" chapter="disasters" label="The 1500s" state="thin" progress="seed" -->
+<!-- hb-time:start id="1500s" order="02" chapter="disasters" label="The 1500s" state="thin" progress="researched" -->
 ## The 1500s
 <!-- hb-zoom level="era" -->
-For newcomers, the first American disasters were at sea and in the first winters.
+The first disasters written down in this land happened to Spanish expeditions and colonies in the 1500s. Hurricanes sank their ships and droughts ruined the corn crops they expected to buy or take from Native towns. The same droughts struck the Native nations first, and the records of them come from tree rings and from the Spaniards' letters.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Wrecked fleets and burned outposts" -->
-Hurricanes wrecking Spanish fleets; shipwrecks along the coasts; the destruction of St. Augustine in 1566.
+<!-- hb-zoom level="span" label="A hurricane ends a colony, 1559" -->
+On August 15, 1559, Tristán de Luna y Arellano sailed into Pensacola Bay in present-day Florida with about 1,500 people on 11 ships from Veracruz, Mexico. They were 500 soldiers, about 200 Aztec warriors and craftsmen, servants, enslaved Africans, and some wives and children. The bay's Native name was Ochuse. For five weeks the colonists unloaded people and tools and began a town on a bluff, but they left most of their food on the ships, where they thought it was safer.
+
+On the night of September 19 to 20, 1559, a hurricane came into the bay. It sank six ships and threw a seventh onto the land. Nearly all the colony's food went to the bottom of the bay. The people who drowned were mostly the sailors and passengers still on board. No record gives their number.
+
+After the storm the colonists' main problem was food. In February 1560 most of them walked north to Nanipacana, a Native town on the Alabama River in present-day central Alabama. Its people left before the Spaniards arrived and destroyed their stored food as they went. Many colonists died of hunger and in fights with Native people. Relief ships from Mexico came every five to seven months. Others were shipped back to Mexico. By September 1560 only 362 people were left at the bay. The last Spanish soldiers left it in August 1561.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-shipwreck-survivor" name="(target) a 1500s shipwreck survivor" movie="" kind="ordinary" status="target" -->
-### (target) a 1500s shipwreck survivor
-Survivors' accounts exist, including Cabeza de Vaca's.
-<!-- hb-story:end slug="target-shipwreck-survivor" -->
+<!-- hb-story:start slug="tristan-de-luna-disasters" name="Tristán de Luna y Arellano" movie="" kind="famous" status="verified" -->
+### Tristán de Luna y Arellano
+> **Who:** a Spanish noble and soldier who had marched with Coronado, then led the largest Spanish attempt so far to settle the Southeast. · **When and where:** Pensacola Bay, Florida, and the Alabama River, 1559 to 1561.
+- The viceroy of New Spain gave him command of about 1,500 people and 11 ships. They landed at Pensacola Bay on August 15, 1559.
+- The hurricane of September 19 to 20, 1559 sank or grounded seven of his ships with the food still aboard. Three ships survived.
+- He moved most of his people inland to the town of Nanipacana from February to June 1560 and sent 200 men north to the Coosa chiefdom in present-day Georgia to look for food.
+- When he ordered 100 soldiers and 50 servants to march inland again on short rations in 1560, his whole army refused.
+- In April 1561 his replacement, Ángel de Villafañe, arrived, dismissed him and took most of the remaining settlers away. Luna died in New Spain (Mexico) on September 16, 1573.
+<!-- hb-story:end slug="tristan-de-luna-disasters" -->
+<!-- hb-zoom level="span" label="The droughts behind the Lost Colony" -->
+Tree rings from old bald cypress trees in Virginia and North Carolina record dry years. From 1562 to 1571 the Chesapeake Bay region had a long drought. In September 1570 a Spanish Jesuit priest there, Father Juan Batista de Segura, wrote that the land had gone six years with too little corn and wild fruit, with hunger and death among its people.
+
+From 1587 to 1589 came the driest three years in 800 years of the tree-ring record. Those were the years the English colonists on Roanoke Island disappeared (their story belongs to `migration` and `exploration`). The Croatan people, allies of the English, had poor crops in 1587. That year some Roanoke colonists shot at a group of Croatan who had come looking for food, because they mistook them for enemies. The researchers who read the tree rings count the drought as one of several causes of the colony's end.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="St. Augustine burns and floods" -->
+St. Augustine, the Spanish town founded in 1565 in Timucua land, was destroyed again and again. Timucua warriors shot flaming arrows at the fort in 1566 to drive the Spaniards out. On April 1, 1566 the fort was half burned and all its supplies were lost. In 1586 the English privateer Francis Drake and his men burned the whole town and fort. In March 1599 a fire swept through the wooden and thatch-roofed town. In September 1599 a hurricane flooded the buildings that had not yet been repaired.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Shared with other chapters" -->
+- The 1565 hurricane that wrecked Jean Ribault's French fleet, and the killing of the survivors at Matanzas: `war` leads.
+- The Narváez expedition's wreck on the Texas coast in November 1528, and Cabeza de Vaca's survival: `exploration` leads (story `cabeza-de-vaca-estevanico`).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
-<!-- hb-time:start id="1600s" order="03" chapter="disasters" label="The 1600s" state="full" progress="seed" -->
+<!-- hb-time:start id="1600s" order="03" chapter="disasters" label="The 1600s" state="full" progress="researched" -->
 ## The 1600s
 <!-- hb-zoom level="era" -->
-Colonies were fragile enough that a bad season was a catastrophe.
+English colonies on the Atlantic coast were small in the 1600s, and one storm or dry summer could kill a large share of the people in them. The colonists built their towns of wood with thatched roofs and wooden chimneys, so fires spread fast from house to house. Their governors and ministers wrote down the storms, fires and earthquakes, and those records are the first detailed accounts of disasters in this land.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Starving Time and town fires" -->
-The Starving Time at Jamestown, 1609–10; hurricanes; town fires in wooden settlements; early fire regulations (buckets, ladders, chimney rules).
+<!-- hb-zoom level="span" label="Jamestown: drought, a hurricane and the Starving Time" -->
+English colonists landed at Jamestown in April 1607, inside Tsenacomoco, the land of the Powhatan paramount chiefdom. Tree rings show that they arrived during the driest seven years in 770 years, from 1606 to 1612. Corn crops failed for the Powhatan as well as the English. Of the 104 colonists who landed in 1607, only 38 were alive a year later. Malnutrition, which means the body does not get enough food, was a leading cause of death. The drinking water from the lower James River was also salty and foul in the dry years.
+
+On June 2, 1609, the Virginia Company sent nine ships and about 600 people to rescue the colony. On July 24, 1609, a hurricane struck the fleet near Bermuda. It drove the flagship, the *Sea Venture*, away from the others. The ship reached Bermuda leaking badly. All 150 people aboard got ashore and saved many supplies before it sank. They included the colony's new governor, Sir Thomas Gates. The other eight ships reached Jamestown in August with sick passengers, and much of their food had been thrown overboard in the storm.
+
+The winter of 1609 to 1610 became the Starving Time. Powhatan's people had stopped trading food and surrounded the fort. About 500 colonists were alive at the start of the winter, and about 60 were alive in May 1610. Some survivors dug up and ate the bodies of dead colonists and of Native people they had killed. The *Sea Venture* castaways built two small boats on Bermuda and reached Jamestown on May 24, 1610. Of about 6,000 people the Virginia Company sent to Jamestown between 1607 and 1625, about 4,800 died.
+- Shared with: `food-farming` (the Starving Time as a food story, lead) · `native-nations` (the Powhatan side) · `big-business` (the Virginia Company).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Great Colonial Hurricane, August 1635" -->
+On August 15, 1635 (August 25 by today's calendar), a hurricane struck New England. William Bradford, governor of Plymouth Colony, wrote that no one living there, "either English or Indeans, ever saw" a storm like it. The sea rose more than 20 feet above normal south of Plymouth, and Bradford wrote that many Native people climbed into trees to escape the water. The wind blew down houses and "many hundered thowsands of trees." The same storm wrecked the *Angel Gabriel*, a ship full of English settlers, at Pemaquid in present-day Maine.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="anthony-thacher" name="Anthony Thacher" movie="" kind="ordinary" status="verified" -->
+### Anthony Thacher
+> **Who:** an English colonist who survived the wreck of a small boat in the hurricane of 1635 and wrote down what happened in a letter to his brother Peter. · **When and where:** off Cape Ann, Massachusetts Bay Colony, August 15, 1635.
+- On August 11, 1635, Thacher, his cousin the minister John Avery, their families, a man named William Elliot and four sailors left Ipswich on a small boat called a pinnace, bound for Marblehead. His letter counts 23 people on board: 11 in Avery's family and 7 in his own.
+- Before daylight on August 15 the hurricane dragged the anchor, split the old sails and drove the pinnace onto the rocks of a small island off Cape Ann.
+- Thacher saw his children drown. He named them in the letter: his oldest daughter Mary, his daughter Edith holding his baby son Peter, and his son William.
+- A wave threw Thacher into the sea. After about a quarter of an hour in the water he crawled ashore. His wife was carried to the shore on a piece of the deck. They were the only two of the 23 who lived.
+- On the island he found a knapsack with a flint and dry gunpowder, a drowned goat, two cheeses and his son William's coat. He lit a fire and they stayed alive until a boat picked them up the following Monday. He found the body of Avery's oldest daughter on the shore, and she was buried on the island.
+- He named the island "Thatchers Woe" and the rock "Avery's Fall." On September 3, 1635, the Massachusetts General Court voted him 40 marks toward his losses, and in March 1637 it granted him the island, which is still called Thacher Island.
+<!-- hb-story:end slug="anthony-thacher" -->
+<!-- hb-zoom level="span" label="An earthquake, 1638" -->
+About June 1, 1638, an earthquake shook New England. Bradford wrote that it came first as a rumbling like far-off thunder. Dishes fell from shelves, and people outside could not stand without holding on to posts. Native people felt it inland, and ships along the coast shook. Bradford wrote that the shaking looked like a sign of God's displeasure, and that the summers after it were cold and wet, so much corn never ripened.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Boston burns, and the town buys a fire engine" -->
+Boston's first large fire, on January 14, 1653, destroyed many buildings and killed three children. The town then hired the owner of a water engine to bring it to fires. The town also bought six long ladders, iron hooks and fire buckets, and it required every property owner to keep a ladder and a swab pole, a long pole with a mop on the end.
+
+On November 27, 1676, a fire in Boston's North End destroyed 45 buildings, among them the North Meeting House and the home of its minister, Increase Mather. In 1678 the town brought a fire engine from England, hired men to run it, and made a law that roofs be slate or tile and walls be brick. According to the Boston Public Library, those hired men were the first paid fire department in the colonies. Large fires burned parts of Boston again in 1679, 1682 and 1691.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
