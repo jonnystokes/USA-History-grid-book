@@ -533,3 +533,21 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `slavery-freedom` (2026-09-27, T-255)
 Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
 - **native-nations, era 10 (2000-today):** Grand Teton National Park confirmed in July 2026 that a sign documenting a U.S. Army massacre of 170 Blackfeet Nation women and children will not go back up, after the First Circuit on July 2, 2026 paused Judge Angel Kelley's June 12, 2026 order to restore removed park exhibits. (Travelers Today, Patricia Graham, July 18, 2026, journalism. The massacre itself is not verified here; native-nations should source it.)
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `native-nations`, era 06: Fremont's Sacramento River massacre, 5 Apr 1846 (Wintu; 120-175 per expedition members, 600-700 plus 200+ in the water per Tustin; Carson: "a perfect butchery"); Klamath Lake massacre 12 May 1846 (Dokdokwas, at least 14 killed); Wikipedia "Sacramento River massacre", "Klamath Lake massacre". Full text: research-exploration.md ## 06, Fremont.
+- `native-nations` / `science`, era 07: Peary took the Cape York meteorite (1894) from the Inughuit who used it for tools; brought six Inuit to the American Museum of Natural History, Sept 1897; four died of TB by 1898; museum staged a fake burial for Minik and displayed his father Qisuk's skeleton. Wikipedia "Robert Peary", "Minik Wallace".
+- `native-nations` / `war`, era 07: Jim Beckwourth was Chivington's scout before Sand Creek (29 Nov 1864, 70-163 Cheyenne killed per Wikipedia "James Beckwourth"); the Cheyenne then banned him from trading.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `native-nations`, era 4: Apalachee 1704 (Moore, 50 English + 1,000 Creek, 13 of 14 missions destroyed, captives about 1,400 by DAH, Moore's own claim 4,300+). Religion bank PATCH end of ERA 4. No chapter had it.
+- `native-nations`, era 5: the California missions and the 1775 Kumeyaay, 1781 Quechan and 1785 Toypurina revolts, all sourced to the 2023 NRHP MPDF in the religion bank, end of ERA 5. `native-nations` may want the revolts as resistance. Religion keeps the missions as a religious project.
+- `native-nations`, era 4-5: Stockbridge Mohican land, 23,000 acres to 1,200 by 1774, forced out 1783 (tribal timeline). Religion bank end of ERA 4.
+- `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **native-nations, era 1600s: Deer Island, 1675-76.** No outline in the book tells it. Sourced text is in `research/research-education.md` era 3, "PATCH 2026-09-27 (T-261a): what happened to the people of the praying towns in 1675 (Deer Island)": order 13 Oct 1675 by Massachusetts authorities, Natick people ferried 30 Oct 1675, about 500 to 1,100 interned, mostly women and children (NPS, https://www.nps.gov/places/deer-island.htm), more than half died over the winter (historicbostons.org), survivors released May 1676, an unknown number sold into slavery in the West Indies or Tangier (NPS).
+- **native-nations, eras 1500s-1700-1750: the Timucua.** 200,000 in the 1500s to about 2,000 by the 1650s, epidemics, Carolina slave raids, all survivors taken to Cuba after 1763, last died 1767 (Matthew Holt Jennings, Dictionary of American History, https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/timucua). Also the 1572 Spanish hanging of Paquiquineo's people (Encyclopedia Virginia). Copy from the education bank era 2 patch.

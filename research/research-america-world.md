@@ -1559,3 +1559,7 @@ chapters' files, to avoid colliding with the parallel agent):
 - `science` / `elements` — Castle Bravo, March 1, 1954, 15 megatons, 2.5× predicted yield.
 - `immigration` — the *St. Louis* passengers' fates; we carry only the decision to refuse.
 - `health` — the 1902 cholera epidemic in the Philippines, more than 200,000 dead.
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `america-world` / `war`, era 06: Wilkes at Fiji 1840: Solevu and Tye burned 12 July; Malolo 24-25 July, 74-104 Fijians killed, two villages burned on Wilkes's order ("spare only the women and the children"); Vendovi taken to New York, skull displayed; Drummond's Island 1841 (12 killed, two villages burned); Upolu shelled Feb 1841. Wikipedia "United States Exploring Expedition", "Battle of Malolo".

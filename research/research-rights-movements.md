@@ -3135,3 +3135,7 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `slavery-freedom` (2026-09-27, T-255)
 Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
 - **rights-movements, era 7 (1850-1900), LGBTQ thread:** Frances Thompson, who testified to Congress in 1866 that she and Lucy Smith were raped by seven white men (three police officers) in the Memphis massacre, was arrested in Memphis in 1876 for wearing women's clothing, forcibly examined by doctors, declared male and sentenced to the chain gang. (Wikipedia "Frances Thompson"; cross-check before use.)
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `rights-movements`, eras 08-09: credit-denied dates: Henson Explorers Club life member 1937 (first African American), medal 1944, Arlington 1988, Hubbard Medal 2000; Katherine Johnson "Colored Computers" office, Glenn's demand 1962, Medal of Freedom 2015; Sally Ride first astronaut known to be LGBTQ (obituary 2012).

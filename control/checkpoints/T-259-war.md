@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 - None required. Shared-angle notes left in the war bank itself: Desire captives and Frank/Parthena (slavery-freedom), Deer Island (native-nations), Fort Pitt blankets (native-nations tells Pontiac's War). The director may copy a pointer line to research-slavery-freedom.md (era 3: the Desire, 1637-38, 17 Pequot captives traded for enslaved Africans, NPS "The DESIRE and the Beginnings of the Massachusetts Slave Trade") and to research-native-nations.md (era 3: Deer Island internment 1675-76, NPS "Deer Island").
 
 ## Sources in hand

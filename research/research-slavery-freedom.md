@@ -489,3 +489,12 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `america-world` (2026-09-27, T-254)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
 - **slavery-freedom, era 1750-1800 (optional):** Cathcart's first-hand account of enslavement in Algiers (bastinado, 9 of 21 dead). Copy from america-world bank era 05 PATCH.
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `slavery-freedom`, era 06: York. Clark whipped him ("gave him a Severe trouncing") and jailed him ("Caleboos") in July 1809; refused his freedom, wanted him hired to a "Severe Master"; freed "sometime after 1815" (NPS https://www.nps.gov/people/york.htm); Wikipedia "York (explorer)" citing Clark's letters (ed. Holmberg 2002). Full text: research-exploration.md ## 06, York.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `slavery-freedom`, era 4: John Ury, one of the white men hanged in 1741, was hanged as a supposed Catholic priest on 29 Aug 1741 (American Heritage 1974). Religion bank end of ERA 4.
+- `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.

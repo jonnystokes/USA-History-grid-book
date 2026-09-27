@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 - `slavery-freedom`, era 06: York. Clark whipped him ("gave him a Severe trouncing") and jailed him ("Caleboos") in July 1809; refused his freedom, wanted him hired to a "Severe Master"; freed "sometime after 1815" (NPS https://www.nps.gov/people/york.htm); Wikipedia "York (explorer)" citing Clark's letters (ed. Holmberg 2002). Full text: research-exploration.md ## 06, York.
 - `native-nations`, era 06: Fremont's Sacramento River massacre, 5 Apr 1846 (Wintu; 120-175 per expedition members, 600-700 plus 200+ in the water per Tustin; Carson: "a perfect butchery"); Klamath Lake massacre 12 May 1846 (Dokdokwas, at least 14 killed); Wikipedia "Sacramento River massacre", "Klamath Lake massacre". Full text: research-exploration.md ## 06, Fremont.
 - `war`, era 06: Arikara fight 2 June 1823 (12 or 13 of Ashley's men killed) and Leavenworth's August 1823 attack (230 soldiers, 750 Lakota/Yankton, ~50 trappers; Missouri Fur Co. men burned a town); Wikipedia "Arikara War". Arikara dead: SEARCHED, NOT FOUND.

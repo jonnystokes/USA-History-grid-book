@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - **native-nations, era 1600s: Deer Island, 1675-76.** No outline in the book tells it. Sourced text is in `research/research-education.md` era 3, "PATCH 2026-09-27 (T-261a): what happened to the people of the praying towns in 1675 (Deer Island)": order 13 Oct 1675 by Massachusetts authorities, Natick people ferried 30 Oct 1675, about 500 to 1,100 interned, mostly women and children (NPS, https://www.nps.gov/places/deer-island.htm), more than half died over the winter (historicbostons.org), survivors released May 1676, an unknown number sold into slavery in the West Indies or Tangier (NPS).
 - **native-nations, eras 1500s-1700-1750: the Timucua.** 200,000 in the 1500s to about 2,000 by the 1650s, epidemics, Carolina slave raids, all survivors taken to Cuba after 1763, last died 1767 (Matthew Holt Jennings, Dictionary of American History, https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/timucua). Also the 1572 Spanish hanging of Paquiquineo's people (Encyclopedia Virginia). Copy from the education bank era 2 patch.

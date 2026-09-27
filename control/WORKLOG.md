@@ -2837,3 +2837,8 @@ CHECKPOINT: control/checkpoints/T-257-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage research
 RESULT: DONE. PASS  exploration / research. measured: stage=RESEARCHED eras=10/10 stories=35 (v35 c0 t0) verify_tags=0 bank=24308w outline=11139w manuscript=0w validator_errors=0
         462837 tokens, 150 tool uses, 29.4 min (opus). Eras 06-10 researched (06 from scratch), bank check all eras. All 9 candidates verified (35 stories). York, Sacagawea, Fremont's massacres, Beckwourth and Sand Creek, Henson with the four Inuit men, Minik, Columbia. ~15 unsupported firsts corrected. 3 searched-not-found. TO PARK 7 (burst).
+
+### 2026-09-27 | [LOCAL] Burst-of-two done; TO PARK filed (director, script)
+18 items from T-257, T-259, T-260 and T-261 checkpoints filed verbatim into 7 banks (america-world, crime-justice,
+native-nations, rights-movements, science, slavery-freedom, war); each checkpoint's TO PARK header marked FILED.
+Back to ONE AT A TIME (DECISIONS #25). Next: T-263r health.

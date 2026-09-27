@@ -2378,3 +2378,17 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
 - **war, era 1500s:** Menéndez's own letter to Philip II, 15 Oct 1565 (trans. Eugene Lyon), https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/ : 132 throats cut at Fort Caroline plus 10 next day; "I had their hands tied behind them and put them to the knife"; 16 spared (12 Breton seamen, 4 craftsmen). war's bank 2.4 has the NPS counts but may lack the letter. Copy from america-world bank era 02 PATCH.
 - **war, era 1900-1950:** the water cure at Igbaras (Kramer, New Yorker, author's PDF) and Waller's shooting of eleven guides. Copy from america-world bank era 08 PATCH "the water cure".
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `war`, era 06: Arikara fight 2 June 1823 (12 or 13 of Ashley's men killed) and Leavenworth's August 1823 attack (230 soldiers, 750 Lakota/Yankton, ~50 trappers; Missouri Fur Co. men burned a town); Wikipedia "Arikara War". Arikara dead: SEARCHED, NOT FOUND.
+- `america-world` / `war`, era 06: Wilkes at Fiji 1840: Solevu and Tye burned 12 July; Malolo 24-25 July, 74-104 Fijians killed, two villages burned on Wilkes's order ("spare only the women and the children"); Vendovi taken to New York, skull displayed; Drummond's Island 1841 (12 killed, two villages burned); Upolu shelled Feb 1841. Wikipedia "United States Exploring Expedition", "Battle of Malolo".
+- `native-nations` / `war`, era 07: Jim Beckwourth was Chivington's scout before Sand Creek (29 Nov 1864, 70-163 Cheyenne killed per Wikipedia "James Beckwourth"); the Cheyenne then banned him from trading.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+- None required. Shared-angle notes left in the war bank itself: Desire captives and Frank/Parthena (slavery-freedom), Deer Island (native-nations), Fort Pitt blankets (native-nations tells Pontiac's War). The director may copy a pointer line to research-slavery-freedom.md (era 3: the Desire, 1637-38, 17 Pequot captives traded for enslaved Africans, NPS "The DESIRE and the Beginnings of the Massachusetts Slave Trade") and to research-native-nations.md (era 3: Deer Island internment 1675-76, NPS "Deer Island").
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `war`, era 5: second source for its Gnadenhutten PATCH (T-259a asked for one): Eric Sterner, Journal of the American Revolution, Feb 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/ : Williamson, 100-200 militia, "sixteen or eighteen" refused, 62 adults and 34 children killed with a mallet, then scalped. Details in religion bank end of ERA 5.

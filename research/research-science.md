@@ -264,3 +264,7 @@ Library of Congress (exhibitions, Maury papers, Tharp blog) · Smithsonian Insti
 - 2026-08-08 — parked from technology research: transistor dates (moved to era 8 by boundary rule — Dec 16, 1947).
 - 2026-08-08 — full chapter research pass: all ten eras researched; every outline claim above web-verified with source named; outline rewritten to `progress="researched"`; workspace updated; parks distributed (slavery-freedom: Agassiz daguerreotypes · war: Einstein–Szilard letter · health: Casgevy 2023 · food-farming: Hatch Act 1887 · disasters: Smithsonian weather network → storm warning lineage).
 - Open disputes carried honestly: Franklin kite details · Photo 51 timing (late Jan vs Feb 1953) · Michelson 1879 printed values (299,864 vs 299,910) · McClintock "ignored" narrative (nuanced) · Chaco lunar-standstill claims (argued) · Viking life results (unresolved) · Sun Dagger slabs shifted 1989 (no longer functions as recorded).
+
+## Parked from `exploration` (2026-09-27, T-257)
+Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
+- `native-nations` / `science`, era 07: Peary took the Cape York meteorite (1894) from the Inughuit who used it for tools; brought six Inuit to the American Museum of Natural History, Sept 1897; four died of TB by 1898; museum staged a fake burial for Minik and displayed his father Qisuk's skeleton. Wikipedia "Robert Peary", "Minik Wallace".

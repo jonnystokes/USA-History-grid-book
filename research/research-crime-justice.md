@@ -455,3 +455,7 @@ settled. No Acoma person was asked to testify at his trial in any source read (n
   About 1,500 people (NPR, search summary only). (govinfo DCPD-202500112, primary.)
 - **Era 10, felony disenfranchisement 2024**: about 4 million people (1.7 percent of voting-age
   population), 1 in 22 Black adults. The Sentencing Project, *Locked Out 2024*, 10 October 2024.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
