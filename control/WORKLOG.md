@@ -2870,8 +2870,10 @@ CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 
 ### 2026-09-27 | [LOCAL] T-259b | war: bank check eras 6-10 [BURST of 5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-259-war.md
 VERIFY: python tools/project_state.py --check war --stage research
+RESULT: DONE. PASS  war / research. measured: stage=RESEARCHED eras=10/10 stories=19 (v19 c0 t0) verify_tags=0 bank=38551w outline=14377w manuscript=0w validator_errors=0
+        430744 tokens, 188 tool uses, 23.4 min (opus). Eras 6-10 bank check: 24 PATCHes (draft exemptions, Creek War, Bad Axe, Sand Creek/Bear River/Marias, Union prison camps, Houston 1917, Port Chicago, Bataan, Tokyo firebombing, Korean and Vietnamese dead, POWs, Agent Orange, Castle Bravo, Haditha, Kabul 2021). My Lai corrected from the Peers report (175 to 400+, rape). New story candidates in the bank: Silas Soule, the Hofer brothers, Isaac Woodard. Two outline lines out of date (flagged). Bank 29,251 -> 38,551w. 1 searched-not-found. TO PARK listed.
 NOTE (Jon, 20% usage): BURST OF 5 = T-263r health (already running; messaged to switch to TO PARK) + T-264r, T-265r,
 T-266r, T-259b. Then back to one at a time.

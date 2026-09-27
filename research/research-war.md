@@ -1427,6 +1427,185 @@ Washington wrote to Howe in January 1777 to protest. Prisoners kept dying on the
   him (https://en.wikipedia.org/wiki/One_Man's_Hero). A dramatization, not a documentary.
 - Slug `john-riley-san-patricios` (checked unique).
 
+### PATCH 2026-09-27 (T-259b): why the War of 1812 was fought
+- On 1 June 1812 President James Madison sent Congress his war message. It listed three
+  grievances against Britain: **impressment** (Royal Navy officers stopping American ships and
+  taking off sailors they said were British subjects, to serve in the Royal Navy), the British
+  Orders in Council that blockaded neutral trade, and British officials' encouragement of Native
+  nations' attacks on the western frontier. (U.S. Capitol Visitor Center, "President James
+  Madison's war message, June 1, 1812,"
+  https://www.visitthecapitol.gov/artifact/president-james-madisons-war-message-june-1-1812 ,
+  via search summary; Founders Online text of the message,
+  https://founders.archives.gov/documents/Madison/03-04-02-0460 .) `america-world` owns the
+  diplomacy. One clause here tells the reader why soldiers went.
+- **Impressment, plain words:** officers of one navy seizing sailors from another country's ships
+  and forcing them to serve on their warships.
+
+### PATCH 2026-09-27 (T-259b): the Creek War, 1813-1814 (the War of 1812's southern war), named actors, counts and land
+Source unless marked: Encyclopedia of Alabama (Alabama Humanities Alliance / Auburn University),
+"Battle of Horseshoe Bend," https://encyclopediaofalabama.org/article/battle-of-horseshoe-bend/
+(read directly 2026-09-27).
+- **Whose land:** the Creek (Muskogee) towns of west-central Georgia and east-central Alabama.
+  The war began as a civil war between Creeks friendly to the United States and a faction of the
+  Upper Towns called the Red Sticks.
+- **27 July 1813, Burnt Corn Creek:** Mississippi Territorial Militia ambushed Red Sticks
+  returning from Pensacola with Spanish ammunition. **30 August 1813, Fort Mims**, a stockade north
+  of Mobile: Red Sticks killed **250** Creek and American settlers.
+- The governor of Tennessee (the page does not name him) appointed
+  **Andrew Jackson** to lead Tennessee militia into Creek country.
+- **Horseshoe Bend, 27 March 1814,** on the Tallapoosa River in present Tallapoosa County,
+  Alabama. Jackson's army (Tennessee militia, US regulars, Cherokee and Lower Creek allies;
+  NPS gives **3,300 men**, https://www.nps.gov/hobe/index.htm via search summary) attacked
+  **Chief Menawa**'s Red Sticks (NPS: about **1,000**) in their fortified town, Tohopeka.
+  **More than 800 Red Stick warriors were killed: 557 counted on the battlefield and an estimated
+  300 shot in the river** as they tried to swim away. "Coffee's men shot them before they reached
+  the opposite bank" (the page says "Coffee's men" and gives no first name). **Jackson's side: 49 killed, 154
+  wounded.** About **350 Upper Creek women and children** were taken prisoner by the Cherokee and
+  Lower Creek warriors. Menawa was wounded seven times, lay among the dead until night, and
+  escaped by canoe. He was forced to Indian Territory in 1836.
+- **Treaty of Fort Jackson, 1814:** the Creeks ceded land to the United States. **DISPUTE on the
+  acreage:** "more than 21 million acres" (Encyclopedia of Alabama) or "23,000,000 acres" (NPS
+  Horseshoe Bend, via search summary). State both. `native-nations` leads on the treaty and the
+  land. War's slice: Jackson, the battle, the dead.
+
+### PATCH 2026-09-27 (T-259b): Osceola's capture, who ordered it, and the cost of the Second Seminole War
+- **General Thomas Jesup** ordered the seizure. In October 1837 Osceola was taken prisoner "while
+  negotiating under a white flag of truce near St. Augustine." There was "public outcry at the
+  dishonorable ploy employed by Jesup." He was held at Fort Marion (St. Augustine) under Captain
+  Pitcairn Morrison, 4th US Infantry, then moved with **237** of his people to Fort Moultrie,
+  South Carolina, where he **died a prisoner on 30 January 1838.** (NPS, "Osceola,"
+  https://www.nps.gov/people/osceola.htm , read directly 2026-09-27.)
+- The officer who carried out the seizure on 21 October 1837 was General Joseph Hernandez, and 81
+  followers were taken with Osceola (Wikipedia "Osceola," tertiary, via search summary)
+  **(unconfirmed: search summary only)**.
+- **The cost, per NPS (same page): "For every four Seminoles deported, the US Army killed one
+  Seminole, lost three US Army soldiers, and spent $32,000."** This is the only Seminole-death
+  ratio found. No count of Seminole dead for the whole war was found. Pair it with bank 6.2's
+  "more than 1,500 soldiers."
+- The Seminole took in people who escaped slavery in Georgia, South Carolina and Florida, "which
+  drew the attention and hostility of American slaveholders and the US Army" (NPS, same).
+
+### PATCH 2026-09-27 (T-259b): the Black Hawk War, 1832, and the killings at Bad Axe
+- **Why:** in April 1832 the Sauk leader Black Hawk led about 1,000 Sauk, Meskwaki (Fox) and
+  Kickapoo people back across the Mississippi into Illinois, to land the United States said the
+  Sauk and Fox had ceded in the 1804 Treaty of St. Louis, which Black Hawk rejected. About 7,000
+  US troops and militia were raised against them. (Britannica, "Black Hawk War," read via curl
+  2026-09-27, summary panel; Britannica marks that panel as AI-assembled from its articles, so
+  treat it as tertiary.)
+- **Bad Axe, 1-2 August 1832,** on the east bank of the Mississippi a few miles below the Bad Axe
+  River, near present Victory, Wisconsin. The band, perhaps 500 men, women and children, tried to
+  cross the river. On 1 August the army steamboat ***Warrior*** (Captain Throckmorton) fired on
+  them. On 2 August about 1,300 regulars and militia under **Brigadier General Henry Atkinson**
+  (with the militia generals the page calls Dodge and Henry) attacked the people left on the east
+  bank. "A number of them were drowned, and some shot before they could reach the opposite
+  shore." (Michigan Technological University, Military History of the Upper Great Lakes, "Battle
+  of Bad Axe," https://ss.sites.mtu.edu/mhugl/2015/10/11/battle-of-bad-axe-the-bad-axe-massacre/ ,
+  read 2026-09-27.) Wisconsin Historical Society marker (1955): "Driven into the water by their
+  pursuers, the Indians - warriors, old people, women and children - were shot down or drowned as
+  they tried to escape." (HMdb, https://www.hmdb.org/m.asp?m=23630 , via search summary.)
+- **Counts. DISPUTE, state the range and whose count:** Illinois Governor Thomas Ford (a later
+  writer, not a witness) "estimated the Indian loss at 150 killed and as many drowned in the
+  river, and fifty prisoners" (MTU, above). "Only seventy of the four hundred" reached the west
+  bank, and those were "captured or killed by the Sioux," the Dakota, who had sided with the
+  United States (MTU). Wikipedia gives at least 150 killed and 75 captured, and **5 US killed and 19
+  wounded** (tertiary, via search summary). Britannica's summary: 450 to 600 Native people and
+  about 70 US soldiers and settlers died in the whole war.
+- **Who:** Atkinson commanded. No source read names the men who fired on the people in the
+  water. **Abraham Lincoln** served in the Illinois militia in this war (Britannica's page title
+  and key people). Use only if needed.
+- `native-nations` leads on the Sauk and Meskwaki side and the land taken after. Black Hawk
+  surrendered on 27 August 1832 (Britannica summary).
+
+### PATCH 2026-09-27 (T-259b): the army and Cherokee removal, 1838 (pointer; `native-nations` leads)
+- In 1838 President Martin Van Buren sent **General Winfield Scott** with about **7,000
+  soldiers** to carry out Cherokee removal. Soldiers forced about 16,000 Cherokee into stockades,
+  at bayonet point, while men looted their homes. More than 5,000 Cherokee died as a result of
+  the removal, by historians' estimates. (HISTORY, "Trail of Tears," journalism,
+  https://www.history.com/articles/trail-of-tears , via search summary; Smithsonian NMAI "Forced
+  Cherokee Removal," https://americanindian.si.edu/nk360/removal-cherokee/forced-removal.html ,
+  page would not render) **(unconfirmed: search summary only).** Check `research-native-nations.md`
+  before writing a number. War's slice is one sentence: soldiers under Scott did the rounding up.
+
+### PATCH 2026-09-27 (T-259b): the Mexican War, why it started, whose land, and US soldiers' killings of Mexican civilians
+- **Why (the cause the writers need):** the United States annexed Texas in 1845. Mexico claimed
+  the land between the Nueces River and the Rio Grande. **President James K. Polk "goaded Mexico
+  into war in 1846 by sending troops into a disputed boundary zone between the two nations"**
+  (Colorado Encyclopedia, "Treaty of Guadalupe Hidalgo,"
+  https://coloradoencyclopedia.org/article/treaty-guadalupe-hidalgo , read 2026-09-27). "Mexico
+  contended that Thornton's troops had been the invaders since Mexico claimed the territory
+  between the Rio Grande and Nueces rivers" (ABT, below).
+- **The first fight, 25 April 1846, Rancho de Carricitos:** Captain **Seth Thornton**'s dragoons,
+  sent by General Zachary Taylor twenty miles upriver from Fort Texas, were surrounded by
+  Brigadier General **Anastasio Torrejon**'s force and surrendered. ABT counts about 60 US
+  soldiers engaged and **17 US casualties**, 1,600 Mexican soldiers and none lost. (American
+  Battlefield Trust, "Rancho Carricitos," https://www.battlefields.org/learn/battles/rancho-carricitos ,
+  read 2026-09-27.) Wikipedia gives an 80-man force and 14 killed, 6 wounded, 59 captured
+  (tertiary, via search summary). **State "about 60 to 80 dragoons, 11 to 16 killed" only after a
+  second check; the safe line is "Mexican soldiers killed or captured Thornton's patrol."**
+- **A US officer's judgment, in his own words:** Ulysses S. Grant, who fought in the war, wrote
+  in his *Personal Memoirs* (1885), chapter 3: "I was bitterly opposed to the measure, and to this
+  day regard the war, which resulted, as one of the most unjust ever waged by a stronger against a
+  weaker nation." (Project Gutenberg #4367, https://www.gutenberg.org/cache/epub/4367/pg4367.txt ,
+  read 2026-09-27.) The same passage says Texas settlers "introduced slavery into the state almost
+  from the start, though the constitution of Mexico did not ... sanction that institution."
+- **Veracruz, 9-29 March 1847:** General Winfield Scott's guns fired **more than 6,700 shells**
+  into the city over four days. The city surrendered on 29 March. **About 100 Mexican civilians,
+  80 Mexican soldiers and 13 Americans died**, one popular-history count; "actual casualties
+  numbered fewer than 200." (HistoryNet, "What We Learned: from the Battle of Veracruz," *Military
+  History*, June 2007, https://historynet.com/learned-battle-veracruz-june-2007/ , read
+  2026-09-27; journalism, label it.) Other counts run higher. No second count was checked.
+- **Agua Nueva, near Saltillo, early 1847:** after rancheros dragged **Private Samuel Colquitt**
+  of the Arkansas mounted volunteers to death, soldiers of **Captain C. C. Danley's Pulaski County
+  company and the Sevier County company** "found the civilians believed to be guilty and shot
+  between seventeen and thirty." **General Zachary Taylor** "was infuriated by the atrocity and
+  threatened to send the two companies back to the Rio Grande to perform hard labor," but did
+  not, because Santa Anna's army arrived. (Encyclopedia of Arkansas, "Mexican War,"
+  https://encyclopediaofarkansas.net/entries/mexican-war-4206/ , read 2026-09-27.) A witness
+  account of a cave full of dead and dying Mexicans, with women and children begging for mercy, is
+  quoted in search summaries of the same event (**unconfirmed: search summary only**; do not
+  quote it).
+- **Huamantla, October 1847:** after the battle there, American soldiers "broke into houses and
+  shops, took whatever they wanted, raped the women, and killed the men" (Emerging Civil War blog,
+  https://emergingcivilwar.com/2017/10/09/mexican-american-war-170th-battle-of-huamantla/ , via
+  search summary) **(unconfirmed: search summary only)**. No count or named officer found.
+- **Whose land (the cession):** the 525,000 square miles became Arizona, California, Nevada,
+  New Mexico, Utah and much of Colorado. Mexican citizens living there became US citizens under the
+  treaty. **Comanche, Apache and Ute** people controlled much of Mexico's northern lands in the
+  1840s (Colorado Encyclopedia, above). Name other nations there only from
+  `research-native-nations.md`. `native-nations` and `america-world` lead.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259b): how many Mexican civilians did US soldiers kill in the whole war?
+Sources checked: bank 6.3 (American History Central: never counted); Encyclopedia of Arkansas
+(Agua Nueva, 17 to 30); HistoryNet (Veracruz, about 100); search summaries on Huamantla (no count);
+Smarthistory (soldiers only).
+How the prose can say it: "Nobody counted the Mexican civilians who were killed in the war. At
+Agua Nueva, American volunteers shot between 17 and 30 of them in one day."
+
+### PATCH 2026-09-27 (T-259b): parked from `exploration` (T-257), the Army's first war on the Plains and the Navy in Fiji
+Filed here from the exploration bank (T-257 PATCH on Ashley and on Wilkes). Sources as given.
+- **The Arikara War, 1823.** Whose land: the Arikara towns on the Missouri River in present South
+  Dakota. On 2 June 1823 Arikara men attacked William Ashley's trading party on the beach below
+  their towns. Counts differ: 12 of about 40 men killed, or 13 killed and 10 wounded (Wikipedia
+  "Jedediah Smith" and "William Henry Ashley," tertiary). **Colonel Henry Leavenworth** led the
+  6th US Infantry, about 230 soldiers, with fur hunters and about 750 Lakota and Yankton allies,
+  and attacked the towns on 9-10 August 1823, with cannon. After a peace was signed the Arikara
+  left their towns at night. On 15 August, as the soldiers left, two men of Joshua Pilcher's
+  Missouri Fur Company set the empty towns on fire. Leavenworth afterward said "The blood of our
+  countrymen has been honorably avenged." Popular history calls it the first clash between the US
+  Army and a Plains nation. (Richard J. Stachurski, "The Arikara War: Avenging Americans,"
+  HistoryNet, 2019, https://historynet.com/the-arikara-war-avenging-americans/ , read 2026-09-27,
+  journalism.) **Arikara dead: SEARCHED, NOT FOUND (exploration T-257r).** A search summary says
+  about 50 Arikara lay dead after 9 August and that the leader Grey Eyes was killed
+  (**unconfirmed: search summary only**). Prose: "No reliable count of the Arikara dead survives."
+- **The US Navy in Fiji, 1840** (`america-world` leads). Navy Lieutenant **Charles Wilkes**,
+  commanding the US Exploring Expedition, had the villages of Solevu and Tye burned on 12 July
+  1840. On 24 July at Malolo, Fijians killed Lieutenant Joseph Underwood and Midshipman Wilkes
+  Henry, Wilkes's nephew, after a hostage escaped. On 25 July **Wilkes landed about 70 men and
+  ordered them to kill the men, burn the villages and "spare only the women and the children."**
+  His men burned Sualib and Arro. **Between 74 and 104 Fijians were killed.** (Wikipedia "Battle
+  of Malolo" and "United States Exploring Expedition," tertiary, as filed by exploration; no
+  second source found in one search, 2026-09-27.) Use only with the tertiary label.
+
 ## 7. 1850 TO 1900
 
 ### 7.0 The Civil War death toll — DISPUTE, state the range
@@ -1682,6 +1861,163 @@ https://historynet.com/amos-humiston-union-soldier-who-died-at-the-battle-of-get
     mouth and forcing him to swallow water until he could hold no more"), falls in 1900-1902.
     Sources seen: TIME, https://time.com/3653711/torture-report-history-philippines/ ; Paul A.
     Kramer, Asia-Pacific Journal, https://apjjf.org/paul-a-kramer/2685/article . Not verified here.
+
+### PATCH 2026-09-27 (T-259b): the Civil War draft, both sides, and who did not have to go (fills bank 7.4)
+- **Confederate draft first.** The Confederate Congress passed the first Conscription Act on
+  **16 April 1862**: all white men aged 18 to 35 could be drafted. The **Twenty-Slave Law**, passed
+  by the Confederate Congress on **11 October 1862**, exempted a man who held **twenty or more
+  enslaved people**. Drafted soldiers called it a "rich man's war." The Congress later amended it
+  to narrow the exemption. (Encyclopedia Virginia, Virginia Humanities, "Twenty-Slave Law," by
+  Susanna Michele Lee, https://encyclopediavirginia.org/entries/twenty-slave-law/ , read
+  2026-09-27.) A drafted Confederate could at first hire a substitute. That was abolished on 28
+  December 1863 (search summary of the same entry and others) **(unconfirmed: search summary
+  only)**.
+- **Union draft.** Congress passed the **Enrollment Act on 3 March 1863**. Provost marshals ran
+  the draft wherever volunteers did not fill a district's quota. The army held the first of four
+  drafts in July 1863. A drafted man could get an exemption (for example, as the only support of a
+  widow, aging parents or motherless children), **hire a substitute, or pay a $300 "commutation"
+  fee** and go home. Substitutes were often 18- or 19-year-olds too young to be drafted, and
+  immigrants not yet citizens. People called it "a rich man's war and a poor man's fight."
+  **More than 20 percent of the men drafted did not report**, and fled west or hid. (Bill of
+  Rights Institute, "The Draft and the Draft Riots of 1863,"
+  https://billofrightsinstitute.org/essays/the-draft-and-the-draft-riots-of-1863/ , read
+  2026-09-27.) In 1863 $300 "could take the average person an entire year to earn" (New-York
+  Historical Society, below).
+- **How many actually served because of the Union draft:** of 168,649 men the draft produced,
+  **117,986 were substitutes**, leaving **50,663** drafted men who served in person (Wikipedia,
+  "Enrollment Act," tertiary, via search summary) **(unconfirmed: search summary only)**. The
+  Provost Marshal General was **James Barnet Fry**, under Secretary of War Edwin Stanton (same).
+- **New York City, 13-16 July 1863.** The draft began in the city on Saturday 11 July. From
+  Monday 13 July to Thursday 16 July mobs looted, attacked police, soldiers and Black New Yorkers,
+  and burned homes and businesses. **The mob set fire to the Colored Orphan Asylum on Fifth
+  Avenue with more than two hundred children inside. All of the children got out.** Rioters stole
+  the children's beds and belongings, and the mob kept the firemen of Engine Company 18 from
+  putting out the fire. **The official death toll was 119**, and many historians think more
+  died. **Union soldiers were brought in from Gettysburg to stop it.** (New-York Historical
+  Society, "What Happened During the New York City Draft Riots?," 10 July 2018,
+  https://www.nyhistory.org/blogs/new-york-city-draft-riots , read 2026-09-27.) Named victim:
+  **William Jones**, a Black cartman, was beaten, hanged from a lamppost on Clarkson Street on the
+  evening of 13 July, and his body burned; eleven Black men are confirmed by name as lynched in the
+  four days (CUNY "African-American Victims of the 1863 Draft Riots,"
+  https://macleod2.commons.gc.cuny.edu/william-jones/ , quoting an 1863 police report, via search
+  summary) **(unconfirmed: search summary only)**. `crime-justice`, `government-politics` and
+  `slavery-freedom` may also tell the riots. War's slice: the draft law, the $300, and the soldiers
+  sent from Gettysburg. Say "the mob," or name rioters only from a source.
+- **Lynched, plain words:** killed by a mob, without any trial. State how (here: beaten and hanged).
+
+### PATCH 2026-09-27 (T-259b): why the prison camps filled, and the Union's deadliest camps
+- **Why exchanges stopped.** Under the Dix-Hill Cartel of 22 July 1862 captured soldiers were
+  exchanged. In December 1862 **Confederate President Jefferson Davis** proclaimed that captured
+  Black soldiers and their white officers would not be exchanged. **President Abraham Lincoln
+  suspended the cartel in the summer of 1863** (General Orders 252, 30 July 1863, per search
+  summary) because the Confederacy refused to exchange Black soldiers. Large exchanges stopped by
+  August 1863. Grant's August 1864 letter against exchanges is often blamed, but the exchanges had
+  already stopped before he took command of all the armies. (NPS Andersonville NHS, "Myth: Grant
+  Stopped the Prisoner Exchange,"
+  https://www.nps.gov/ande/learn/historyculture/grant-and-the-prisoner-exchange.htm , read
+  2026-09-27.)
+- **Elmira ("Hellmira"), New York, July 1864 to 1865.** Built for 8,000 to 10,000, it held about
+  9,600 within a month. Barracks had no insulation for the winter, and tents ran out in the
+  summer. **Close to 3,000 Confederate prisoners died, a death rate near 25 percent.** ABT blames
+  the Commissary General of Prisoners, **Colonel William Hoffman**. (American Battlefield Trust,
+  "Civil War Prison Camps," https://www.battlefields.org/learn/articles/civil-war-prison-camps ,
+  read 2026-09-27.) Other counts: 2,970 of 12,100 died (Wikipedia, tertiary, search summary).
+  Hoffman had clothing burned if it was not Confederate gray (search summary only, **unconfirmed**).
+- **Camp Douglas, Chicago,** "the Andersonville of the North": 18,000 Confederates held by the
+  war's end. The US Sanitary Commission reported standing water, foul latrines ("sinks") and
+  "rotten bones." Commandants cut rations for personal profit (ABT, same). **Point Lookout,
+  Maryland:** more than 52,000 prisoners passed through, over 20,000 at once at its peak, and
+  upwards of 4,000 died (ABT, same).
+- About 400,000 men were imprisoned by the war's end, in more than 150 prisons (ABT, same).
+
+### PATCH 2026-09-27 (T-259b): Sand Creek, 29 November 1864, the soldiers' side: who ordered it, who refused, what happened to them
+`native-nations` tells the Cheyenne and Arapaho side (its bank, era 7: about 675 volunteer
+troops, Black Kettle's camp under a US flag and a white flag, about 230 killed, mostly women,
+children and elders). War's slice:
+- **Who ordered it:** **Colonel John Chivington**, commander of the Military District of
+  Colorado. He marched from Fort Lyon on the night of 28 November with his troops (the 3rd Colorado
+  Cavalry and part of the 1st Colorado), after leaving squads at ranches along the Arkansas River
+  "to prevent word of his movements reaching the Cheyenne and Arapaho." His report claimed the
+  Cheyenne fired first and raised no white flag. (NPS, "John Chivington,"
+  https://www.nps.gov/people/john-chivington.htm , read 2026-09-27.)
+- **Who refused:** **Captain Silas Soule** (Company D, 1st Colorado) and **Lieutenant Joseph
+  Cramer** (Company K) would not let their men fire. Soule to his mother: "I was present at a
+  Massacre of three hundred Indians mostly women and children... It was a horrable scene and I
+  would not let my Company fire." Soule to Major Edward Wynkoop: "I refused to fire and swore that
+  none but a coward would." He described the soldiers as "a perfect mob" and wrote: "I tell you
+  Ned it was hard to see little children on their knees have their brains beat out by men
+  professing to be civilized." Soldiers took scalps and body parts from the dead. Cramer told
+  Chivington he "thought it murder to jump them friendly Indians," and Chivington answered, "Damn
+  any man or men who are in sympathy with them." (Billy J. Stratton, "Remembering
+  the US soldiers who refused orders to murder Native Americans at Sand Creek," *The Conversation*,
+  21 November 2016, https://theconversation.com/remembering-the-us-soldiers-who-refused-orders-to-murder-native-americans-at-sand-creek-68211 ,
+  read 2026-09-27; the letters are in the Denver Public Library Western History Collections.)
+- **What happened after:** Soule's and Cramer's letters led to an Army commission and two
+  congressional inquiries. The Joint Committee on the Conduct of the War wrote that Chivington "deliberately planned and
+  executed a foul and dastardly massacre" (NPS, above). Chivington resigned from the army and was
+  never tried (NPS: "he resigned from the army over his role"). **No officer or soldier was
+  punished** (The Conversation). **Soule was shot dead on a Denver street on 23 April 1865, about
+  two months after he testified against Chivington. Nobody was ever brought to justice for it**
+  (The Conversation). The investigations ended the career of Territorial Governor **John Evans**,
+  who had issued two proclamations calling for violence against Plains people and organized the
+  3rd Colorado Cavalry (The Conversation).
+- **Death count DISPUTE:** about 230 (native-nations bank, NPS); "some 200" (The Conversation);
+  Soule's letter said three hundred. Chivington's own report claimed far more fighters killed. State
+  the range and whose count each is.
+- **Story candidate (not added to the outline in this bank check):** Silas Soule, a named officer
+  who refused an order to fire on civilians, with his own letters. No other chapter's outline tells
+  him (grep of `outlines/`, 2026-09-27). Director's call whether war gets an `hb-story` slot.
+
+### PATCH 2026-09-27 (T-259b): Bear River, 29 January 1863, and the Marias, 23 January 1870 (military side; `native-nations` leads)
+- **Bear River, near present Preston, Idaho.** Colonel **Patrick Edward Connor** led the 3rd
+  California Volunteer Infantry (with cavalry) against a Northwestern Shoshone winter camp. He
+  carried warrants for three leaders and "announced that he had no intention of taking
+  prisoners." The soldiers attacked in the early morning and "started firing without saying a
+  word." People jumped into the freezing river. Survivor Anzee Chee hid under the riverbank with
+  other women and drowned her own crying baby so the soldiers would not find them. Yeager
+  Timbimboo, 12, son of Chief Sagwitch, lived by playing dead. **Estimated 250 to 500 Shoshone
+  killed.** Connor "received a promotion to brigadier general for his actions." (Richard
+  Schiffman, "This 1863 Massacre Was the Deadliest Slaughter of Native Americans in U.S.
+  History," *Smithsonian Magazine*, 28 July 2026,
+  https://www.smithsonianmag.com/history/this-1863-massacre-was-the-deadliest-slaughter-of-native-americans-in-us-history-now-the-shoshone-are-restoring-the-site-of-the-attack-180989200/ ,
+  read 2026-09-27.) Other counts: 250 to 493 (Wikipedia, search summary). Smithsonian says it "is
+  often described as" the worst attack and its toll "is believed to be higher" than Sand Creek or
+  Wounded Knee. **Write it with that attribution, not as a flat superlative.**
+- **Marias River, Montana, 23 January 1870.** Major **Eugene Baker**, 2nd US Cavalry, sent to
+  punish Mountain Chief's band, found a camp at daybreak. His scout **Joe Kipp** told him it was
+  **Heavy Runner's** peaceful Piikani (Piegan Blackfeet) band. Baker reportedly answered, "That
+  makes no difference, one band or another of them; they are all Piegans and we will attack them,"
+  and ordered a sergeant to shoot Kipp if he warned the camp. Soldiers had reported Baker drinking
+  heavily. **By the best estimate the soldiers killed 37 men, 90 women and 50 children**
+  (the Army's count was 173). They knocked down lodges with people inside and set them on fire, and
+  burned the band's winter food. Baker took about 140 women and children prisoner, then, finding
+  smallpox among them, left them without food or shelter. **Neither Baker nor his men faced a
+  court-martial or any discipline.** (HISTORY, "Soldiers massacre sleeping camp of Native
+  Americans," updated 27 May 2025,
+  https://www.history.com/this-day-in-history/january-23/soldiers-massacre-the-wrong-camp-of-indians ,
+  read 2026-09-27, journalism.) Land-environment's bank has "more than 200" (NPCA). **DISPUTE: 173
+  (Army) to more than 200.**
+- **Dakota War, 1862:** the military commission trials and the hanging of 38 Dakota men at Mankato
+  on 26 December 1862 are told in `native-nations` (outline line 176). War adds nothing new.
+
+### PATCH 2026-09-27 (T-259b): 1898, disease in the camps, and who fired first in the Philippines
+- **Typhoid, 1898.** In the army's camps in the United States there were **20,738 cases of
+  typhoid and 1,590 deaths**. "Typhoid fever accounted for 87% of all deaths attributable to
+  disease." Combat: 1,691 casualties, 260 of them fatal. The War Department's typhoid board
+  (Major Walter Reed, with Majors Victor Vaughan and Edward Shakespeare, appointed 18 August 1898)
+  found the disease spread mostly by direct contact between men, some by flies. ("Bullets and bacilli," *Journal of Clinical Investigation*, https://www.jci.org/articles/view/24100 ,
+  read 2026-09-27; board dates from University of Virginia Historical Collections exhibit,
+  https://exhibits.hsl.virginia.edu/typhoid/creation/index.html , via search summary.) The
+  260 combat deaths differ from CRS's 385 battle deaths (bank 7.10): different definitions. State
+  CRS's official count in prose.
+- **Typhoid, plain words:** an infection from bacteria in food or water tainted with human waste.
+  It causes high fever, stomach pain and exhaustion, and can kill. (Standard medical definition,
+  not from the pages above.)
+- **First shot in the Philippines, 4 February 1899:** **Private William Walter Grayson**, Company
+  D, 1st Nebraska Volunteer Infantry, on sentry in Santa Mesa, Manila, fired the shot counted as the
+  first of the war (Nebraska State Historical Society, "William Walter Grayson [RG1039.AM],"
+  https://history.nebraska.gov/collection_section/william-walter-grayson-rg1039-am/ , via search
+  summary; US War Memorials marker page, same). Born England 9 April 1876, died San Francisco 20 March 1941.
 
 ---
 ---
@@ -2001,6 +2337,163 @@ History Project guide, https://guides.loc.gov/navajo-code-talkers/profiles/chest
 - Isaac Woodard (1946) was not researched here. Audit-queue candidate, with `rights-movements`.
 - Oil and the pipelines stay in `energy`. The home-front economy stays in `economy`.
 
+### NOTE 2026-09-27 (T-259b): the parked `america-world` water-cure item is already in this bank
+The director's parked line (end of bank) asks war to copy the Igbaras water cure and Waller's
+shooting of eleven guides from the america-world bank. Bank 8.1 above already holds both, from the
+same source (Kramer, *New Yorker*, 2008, author's PDF): Ealdama, Glenn, Riley's Senate testimony of
+14 April 1902, the $50 fine, Smith's "howling wilderness" order and Waller's eleven guides. Nothing
+further to copy. Filed.
+
+### PATCH 2026-09-27 (T-259b): the World War II draft, the numbers
+- **Selective Training and Service Act, signed by President Franklin Roosevelt on 16 September
+  1940:** all men aged 21 to 45 had to register. It was **the first peacetime draft in US
+  history.** Men chosen had to serve at least a year, and after Pearl Harbor for the length of the
+  war. **By 1945, 50 million men aged 18 to 45 had registered and 10 million had been inducted.**
+  (National WWII Museum, "Research Starters: The Draft and World War II,"
+  https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/draft-and-wwii ,
+  read 2026-09-27.) First registration 16 October 1940 and first inductees 18 November 1940 (search
+  summaries) **(unconfirmed: search summary only)**.
+- So: about 10 million of the roughly 16.1 million who served (CRS, bank 8.0) were drafted. This
+  supports the outline's "fought mostly by drafted men" for WWII. For WWI the bank has 2.8 million
+  drafted and 2 million volunteers (8.2).
+
+### PATCH 2026-09-27 (T-259b): conscientious objectors in both world wars, and what was done to four Hutterite men
+- **World War II:** about **43,000** men registered as conscientious objectors. Usually a man had
+  to belong to a peace church (Quakers, Mennonites, Church of the Brethren); personal belief was
+  not enough. **About 25,000** served in the forces without weapons, most as medics. **About
+  12,000** did unpaid "work of national importance" in Civilian Public Service camps (about 150
+  camps, 1941-1947). **About 6,000 refused to cooperate with the draft and went to prison, more
+  than 4,400 of them Jehovah's Witnesses.** Some CPS men volunteered as test subjects, including a
+  starvation study of 36 men from November 1944. (National WWII Museum, "Alternative Service:
+  Conscientious Objectors and Civilian Public Service in World War II,"
+  https://www.nationalww2museum.org/war/articles/conscientious-objectors-civilian-public-service ,
+  read 2026-09-27.)
+- **World War I: the Hofer brothers.** Three brothers, **David, Joseph and Michael Hofer**, and
+  Joseph's brother-in-law **Jacob Wipf**, Hutterites (a Christian pacifist community) from Rockport
+  Colony, South Dakota, were drafted in 1918. They refused to put on uniforms or work under military
+  orders. A court-martial at Camp Lewis sentenced them to **20 years**. On 25 July 1918 they were
+  sent, chained in pairs, to the military prison on **Alcatraz**. There guards put them in the
+  basement solitary cells ("the hole"), cold and wet. At first they got half a glass of water a
+  day and no food. Guards **chained them standing to the cell bars, hands crossed, drawn up so only
+  their toes touched the floor** ("high cuffing"). Guards reportedly beat them with knotted lashes.
+  After five days their arms were too swollen to put on their jackets. On 19 November 1918, after
+  the armistice, they were moved in chains to Fort Leavenworth, Kansas. **Joseph died on 29
+  November and Michael on 2 December 1918.** Officials had Joseph's body dressed in the military
+  uniform he had refused. The prison surgeon listed pneumonia (the influenza then in the prison).
+  The Hutterite church's chronicle says they "died in prison as a result of cruel mistreatment by
+  the United States military." On 6 December 1918 Secretary of War **Newton Baker** ordered an end
+  to chaining prisoners to cell bars. (Duane Stoltzfus, Goshen College, "The Martyrs of Alcatraz,"
+  *Plough*, 28 July 2014, https://www.plough.com/en/topics/faith/anabaptists/the-martyrs-of-alcatraz ,
+  read 2026-09-27; author of *Pacifists in Chains*, 2013.) Mitchell Republic, 27 February 2024,
+  https://www.mitchellrepublic.com/news/the-vault/refusal-of-world-war-i-military-service-led-to-hutterite-brothers-deaths-at-fort-leavenworth ,
+  confirms Joseph and Michael died at Fort Leavenworth. **CORRECTION to a secondary source:** the
+  World War I Centennial Commission page says "Joseph and David died." David survived. Use Joseph
+  and Michael.
+- **High cuffing, plain words:** chaining a prisoner's wrists high to bars so that he must stand on
+  his toes, for hours, which strains the arms and shoulders until they swell.
+- **Story candidate:** the Hofer brothers are a documented, named case for the "draft and who was
+  exempt" subject. No outline tells them (grep of `outlines/`, 2026-09-27). `religion` may also want
+  them (see TO PARK).
+
+### PATCH 2026-09-27 (T-259b): Houston, 23 August 1917, and the hanging of nineteen Black soldiers
+Source: US Department of Veterans Affairs, National Cemetery Administration, "Houston Riot of
+1917," https://www.cem.va.gov/VLM/Remembrance/Houston-Riot-1917.asp (read 2026-09-27).
+- The Army sent the **3rd Battalion, 24th Infantry**, 654 Black soldiers, to guard the building of
+  Camp Logan outside Houston in July 1917. Local people taunted them with racial slurs daily.
+- **23 August 1917:** Houston police arrested a Black soldier who had questioned the arrest of a
+  Black woman. When **Corporal Charles Baltimore** asked about it, police beat him, shot at him and
+  held him. A false report of his death spread in camp. About **150** soldiers took rifles and
+  marched into Houston. **About 20 people died**: civilians, policemen, National Guardsmen, and
+  soldiers of the 24th shot by accident by their own comrades.
+- **Courts-martial:** 118 men charged. Only eight were found not guilty. Three courts-martial met at
+  Fort Sam Houston between 1 November 1917 and 26 March 1918. **The first 13 condemned men were
+  hanged at sunrise on 11 December 1917, in secret, within a day of sentencing, without notice to
+  the War Department.** After protests, the War Department (General Orders No. 7) required review
+  of every death sentence before execution. The later trials gave 16 more death sentences, and
+  President Woodrow Wilson commuted ten. **Nineteen soldiers were hanged in all.** Most of the rest
+  got life in prison. "Only Black soldiers were condemned."
+- **2023:** the Army found the trials unfair ("these Soldiers were wrongly treated because of
+  their race and were not given fair trials"). The Secretary of the Army set aside all the
+  convictions and changed the records to honorable discharges. VA gave the executed men new
+  headstones.
+
+### PATCH 2026-09-27 (T-259b): Port Chicago, 17 July 1944, and the mutiny trial
+- At the Port Chicago Naval Magazine in California, two ships being loaded with ammunition blew up
+  and **killed 320 men, 202 of them Black sailors.** Navy officers assigned Black sailors the
+  dangerous loading work "without adequate training or equipment." Afterward **258 sailors refused
+  to go back to loading under the same conditions. Fifty were convicted of mutiny.** (NPS, Port
+  Chicago Naval Magazine National Memorial, history page,
+  https://www.nps.gov/poch/learn/historyculture/index.htm , read 2026-09-27.)
+- Each of the 50 was sentenced to a dishonorable discharge and **15 years at hard labor**. Reviews
+  later cut the terms to 17 to 29 months. (USNI *Naval History*, October 2024, and Western National
+  Parks Association, via search summary) **(unconfirmed: search summary only)**. Thurgood Marshall
+  of the NAACP worked on their appeal (NPS).
+- **17 July 2024:** Secretary of the Navy **Carlos Del Toro** exonerated the 50 and the others
+  punished (NPS says "the Port Chicago 50, along with the 208 men who initially refused to work").
+  President Clinton pardoned one of them, **Freddie Meeks**, in 1999 (NPS).
+- `disasters` may tell the explosion. War's slice: who was assigned the work, the refusal, the
+  trial.
+
+### PATCH 2026-09-27 (T-259b): Isaac Woodard, 12 February 1946, a veteran blinded on the day of his discharge
+Source: South Carolina Encyclopedia, "Woodard, Isaac, beating of,"
+https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026-09-27).
+- **Sergeant Isaac Woodard**, of Winnsboro, South Carolina, was discharged on 12 February 1946 after
+  four years in the Army. On the bus home from Camp Gordon, Georgia, he argued with the driver after
+  asking for a rest stop. At Batesburg, South Carolina, the driver had police take him off the bus.
+  **Police Chief Lynwood Shull** and **Officer Elliot Long** beat him. Shull later said, "I hit him
+  across the front of the head." Woodard said the officers beat him with blackjacks (short clubs)
+  and **tried to gouge out his eyes.** A local court fined him $50. At the VA hospital in Aiken
+  doctors found bleeding in both eyeballs and a ruptured cornea (the clear front of the eye) in the
+  right eye. **He was blind for the rest of his life.**
+- The Justice Department charged Shull with violating Woodard's civil rights. **An all-white
+  federal jury in Columbia found him not guilty in November 1946, after thirty minutes.**
+- Walter White of the NAACP took the case to President Truman. The link to Truman's civil rights
+  committee and his 1948 order is stated in search summaries (Zinn Education Project, EJI) **(unconfirmed:
+  search summary only)**. The SC Encyclopedia does not make that link. Use it only with a second
+  source.
+- Story candidate, or one span sentence, for the veterans thread. No outline tells him (grep,
+  2026-09-27). `rights-movements` may claim him.
+
+### PATCH 2026-09-27 (T-259b): prisoners of the Japanese, Bataan, April 1942
+- On **9 April 1942** Major General **Edward King Jr.** surrendered about **75,000** American and
+  Filipino troops on the Bataan Peninsula, Philippines. Japanese soldiers marched them about 65
+  miles from Mariveles to San Fernando, in groups of about 100, about five days a group. Guards
+  starved and beat the marchers and **bayoneted men too weak to walk.** One American prisoner told
+  of a guard cutting off a prisoner's wrist to get his ring, then bayoneting him in the stomach.
+  **The Department of Veterans Affairs estimates 650 American and 16,500 Filipino soldiers were
+  killed during and after the march.** Other researchers count more, including Filipino civilians
+  who tried to help. **Lieutenant General Homma Masaharu**, the Japanese commander, was tried by an
+  American military tribunal and shot on 3 April 1946. (HISTORY, "Bataan Death March," updated 8
+  May 2026, https://www.history.com/articles/bataan-death-march , read 2026-09-27, journalism.)
+  HISTORY's wording "75,000 American troops" means American and Filipino troops together.
+- **DISPUTE on deaths:** Wikipedia (tertiary, search summary) gives 5,000 to 18,000 Filipino and 500
+  to 650 American deaths on the march, and about 26,000 Filipino and 1,500 American deaths later at
+  Camp O'Donnell. State the VA estimate and say others run higher.
+- The Philippines was a US colony then (National WWII Museum, "Battle of Bataan,"
+  https://www.nationalww2museum.org/war/topics/battle-bataan-death-march ). `america-world` carries
+  the territory.
+
+### PATCH 2026-09-27 (T-259b): the firebombing of Tokyo, 9-10 March 1945 (civilians killed by US bombing)
+- Major General **Curtis LeMay**, commanding the XXI Bomber Command, changed from high-altitude
+  daylight bombing to low-level night attacks with incendiary bombs, bombs made to start fires.
+  On the night of 9-10 March 1945 (Operation MEETINGHOUSE), **279 B-29s dropped more than 1,665
+  tons of incendiary bombs, filled with napalm, a jellied gasoline that sticks and burns,** on
+  Tokyo's wooden neighborhoods. The fires joined into a firestorm, reported at 1,800 degrees in
+  places, that used up the oxygen. People suffocated or burned to death. **Sixteen square miles
+  burned. Over 1,000,000 people lost their homes. "The estimated 110,000 fatalities."** About 90
+  American airmen were missing and 14 B-29s were lost. LeMay and his commander, General **Hap
+  Arnold**, called it a success. (Seth Paridon, National WWII Museum, "Hellfire on Earth: Operation
+  MEETINGHOUSE," 8 March 2020,
+  https://www.nationalww2museum.org/war/articles/hellfire-earth-operation-meetinghouse , read
+  2026-09-27.)
+- **DISPUTE on deaths:** "at least 80,000 ... likely more than 100,000" (Britannica summary, via
+  search) against the Museum's "estimated 110,000." State "between 80,000 and more than 100,000,
+  most of them civilians"; the Museum's single figure is 110,000.
+- Many more Japanese cities were firebombed after Tokyo; no count of all of them was checked here.
+- **Napalm, plain words:** gasoline thickened into a jelly. It sticks to whatever it lands on,
+  including skin, and keeps burning. (Standard definition; the Museum names napalm but does not
+  define it.)
+
 ## 9. 1950 TO 2000
 
 ### 9.0 Shape of the era, and the official numbers (CRS Table 1)
@@ -2218,6 +2711,150 @@ Thompson's later testimony and interviews).
 - Grenada (1983), Panama (1989), Somalia (1993) and the Balkans: CRS Table 2 lists them; not written
   into the outline.
 
+### PATCH 2026-09-27 (T-259b): the other side's dead in Korea, Vietnam and the Gulf War (each war's dead, with whose count)
+- **Korea:** "at least 2.5 million persons lost their lives" in the war; "over 1 million combat
+  casualties, and at least that many civilian deaths"; "millions of Korean soldiers and civilians
+  on both sides, hundreds of thousands of Chinese soldiers." (Britannica, "Korean War," by Allan R.
+  Millett, read via curl 2026-09-27; the last two quotes are from the page's question panel.) No
+  single official count exists. Write "at least 2.5 million people," and say most were Korean.
+- **Vietnam: DISPUTE, state every figure and whose it is.**
+  - Vietnam's government, 3 April 1995 (first figures it published): **1.1 million North
+    Vietnamese and Viet Cong fighters dead**, 600,000 wounded, over 21 years; **nearly 2 million
+    civilians killed in the North and South.** Earlier Western estimates of communist military dead
+    were about 666,000. (Associated Press, Hanoi, in *The Ledger-Star*, 4 April 1995,
+    https://scholar.lib.vt.edu/VA-news/VA-Pilot/issues/1995/vp950404/04040331.htm , read
+    2026-09-27.)
+  - **South Vietnamese soldiers:** 223,748 (same AP report); "between 200,000 and 250,000" (US
+    military estimate, per Britannica, "How many people died in the Vietnam War?,"
+    https://www.britannica.com/question/How-many-people-died-in-the-Vietnam-War , read 2026-09-27).
+  - Allies of South Vietnam: South Korea more than 4,000 dead, Australia more than 500, Thailand
+    about 350, New Zealand about three dozen (Britannica, same).
+  - Deaths in Cambodia and Laos from the war, including US bombing, were not researched. Leave out.
+- **Gulf War, 1991 (Iraqi dead):** no official US count exists. Project on Defense Alternatives
+  (Carl Conetta, 2003) estimates **20,000 to 26,000 Iraqi soldiers** and **about 3,500 Iraqi
+  civilians** (3,664, from Beth Osborne Daponte's study, built on Human Rights Watch's 2,500 to
+  3,000) killed in the war itself. (https://www.comw.org/pda/0310rm8ap2.html , read 2026-09-27.)
+  An unofficial US estimate of 75,000 to 105,000 Iraqi soldiers and a Columbia study adding 14,000
+  postwar disease deaths are search-summary only **(unconfirmed: search summary only)**. State
+  "between about 20,000 and more than 26,000 Iraqi soldiers, by one careful estimate, and about
+  3,500 civilians."
+
+### PATCH 2026-09-27 (T-259b): American prisoners of war in Korea and Vietnam
+- **Korea:** "An astonishing 38 percent of U.S. prisoners died in captivity." Most surviving
+  prisoners were released in August 1953. (Korean War Legacy Foundation, "The POW Experience,"
+  https://koreanwarlegacy.org/chapters/the-pow-experience/ , read 2026-09-27.) The total captured,
+  **7,140**, is from search summaries only **(unconfirmed: search summary only)**. A National
+  Archives series lists records for 4,714 Army POWs (https://aad.archives.gov/aad/series-description.jsp?s=488 ).
+  Write "more than a third of the Americans captured died in the prison camps."
+- **Vietnam:** in **Operation Homecoming, 12 February to about 4 April 1973**, 54 C-141 flights
+  brought **591** American prisoners home from North Vietnam, under the Paris Peace Accords of 27
+  January 1973. (DVIDS, "Operation Homecoming for Vietnam POWs Marks 40 Years," 11 February 2013,
+  https://www.dvidshub.net/news/508914/operation-homecoming-vietnam-pows-marks-40-years , read
+  2026-09-27.) The historian Andrew Lipps, quoted there, writes of "mental and physical torture";
+  many were held in Hoa Lo prison in Hanoi, which prisoners called the "Hanoi Hilton." The
+  specific torture methods were not checked in a source. Do not describe them without one.
+
+### PATCH 2026-09-27 (T-259b): the Vietnam draft, who was deferred, who resisted, and the pardon
+- **Deferments:** full-time college students got a **2-S student deferment** and could not be made
+  to serve while in school. Search summaries say this favored wealthier, better-educated men until
+  the 1969 lottery and later reforms **(unconfirmed: search summary only)**; confirm before
+  writing the class claim.
+- **Resisters:** **209,517 men were accused of draft offenses; fewer than 9,000 were convicted.**
+  The Selective Service later reported 206,000 people "delinquent" during the war. In 1972 there
+  were more conscientious objectors than men drafted. Some men fled to Canada. (University of
+  Washington, Antiwar and Radical History Project, "Draft Resistance in the Vietnam Era,"
+  https://depts.washington.edu/antiwar/vietnam_draft.shtml , read 2026-09-27.) Search summaries
+  add that 8,750 were convicted and 3,250 jailed, and that about 360,000 more were never formally
+  accused **(unconfirmed: search summary only)**.
+- **The pardon:** on **21 January 1977**, his first full day in office, President **Jimmy Carter**
+  signed **Proclamation 4483**, an unconditional pardon for men who had broken the draft law in the
+  Vietnam War. It did not cover deserters (men who left the military after joining). (Search
+  summaries of HISTORY and the Justice Department pardon page,
+  https://www.history.com/this-day-in-history/january-21/president-carter-pardons-draft-dodgers )
+  **(unconfirmed: search summary only)** for the deserter clause.
+- Muhammad Ali (bank 9.6) is the named resister already in the outline.
+
+### PATCH 2026-09-27 (T-259b): My Lai, what the Army's own inquiry found (resolves the 9.3 "rape" audit item)
+Source: *The My Lai Massacre and Its Cover-up: Beyond the Reach of Law? The Peers Commission
+Report* (Free Press, 1976), full text at the Internet Archive,
+https://archive.org/stream/mylaimassacreits0000unit/mylaimassacreits0000unit_djvu.txt (downloaded
+and searched 2026-09-27). It reprints Lieutenant General William Peers's report (1970).
+- **Count:** "The precise number of Vietnamese killed was at least 175 and may exceed 400" (Peers,
+  ch. 12). Charlie Company "had killed at least 175-200 Vietnamese men, women, and children," of
+  whom "only 3 or 4 were confirmed as Viet Cong." **So the counts run: at least 175 (Peers
+  inquiry), 347 (the Army count used in bank 9.3), 504 (the memorial at the site).** A Vietnamese
+  notice cited in the report said 502. State all with whose each is.
+- **Finding 8 (Peers, ch. 12):** "A part of the crimes visited on the inhabitants of Son My Village
+  included individual and group acts of murder, rape, sodomy, maiming, and assault on noncombatants
+  and the mistreatment and killing of detainees." They also killed livestock, destroyed crops,
+  closed wells and burned homes.
+- **What soldiers did, from the report:** in Binh Tay, soldiers of the 2nd Platoon rounded up about 10
+  to 20 women and children, made them squat in a circle, fired M-79 grenade rounds into them, then
+  killed the wounded with rifles. The report says the platoon "continued the pattern of burning,
+  killings, and rapes which it had followed in My Lai (4)." At about 9:00 to 9:15 a.m. soldiers of
+  the 1st Platoon shot down the 60 to 70 villagers they had herded into the ditch. "Witnesses from the platoon have testified to observing at least one
+  gang-rape of a young Vietnamese girl, an act of sodomy, and several other rape/killings." The
+  report found that one platoon leader "knew that a number of his men habitually raped Vietnamese
+  women in villages during operations" and on 16 March "observed, did not prevent, and failed to
+  report several rapes." In the nearby hamlet of My Khe (4), soldiers of another company (Bravo)
+  killed 90 people, and a survivor, Mrs. Bay, said two soldiers raped her. Only Calley was convicted of anything
+  (bank 9.3), and of murder. No one was convicted of rape.
+- **Cover-up:** "At every command level within the Americal Division, actions were taken, both
+  wittingly and unwittingly, which effectively suppressed information concerning the war crimes."
+- **Rape, plain words for this book's reader:** forcing someone into sex by violence or threat.
+  **Sodomy** here means a sexual assault of another kind; the prose need not use the word. Say
+  "soldiers raped women and girls," and do not add detail the report does not give.
+- **CORRECTION to bank 9.3:** 9.3 says "Rape at My Lai ... was not verified from a source read in
+  this pass, so the outline does not state it." It is now verified from the Peers report itself.
+  The outline's My Lai span omits it. That is a writer gap (see checkpoint "Outline claims").
+
+### PATCH 2026-09-27 (T-259b): the hydrogen bomb tests, the island that vanished and the people under the fallout
+- **Ivy Mike, 1 November 1952:** the first US fusion bomb was set off on **Elugelab Island** in
+  Enewetak Atoll, Marshall Islands. It released **10.4 megatons**, over 450 times the Nagasaki bomb,
+  and **"obliterated Elugelab, leaving an underwater crater 6,240 ft. wide and 164 ft. deep."**
+  (Atomic Archive / AJ Software, "'Mike' Device is Tested,"
+  https://www.atomicarchive.com/history/hydrogen-bomb/page-13.html , read 2026-09-27.) This names
+  the island the outline's "destroyed an island" refers to.
+- **Castle Bravo, 1 March 1954, Bikini Atoll:** **15 megatons**, 1,000 times Hiroshima and nearly
+  three times what its designers expected. A 100-mile-wide cloud dropped radioactive fallout on
+  Marshall Islanders, US service members and the crew of the Japanese fishing boat *Lucky Dragon*.
+  **More than 230 people** were evacuated from Rongelap, Rongerik and Utirik, including 28 US
+  military personnel on Rongerik. On **Rongelap**, about 110 miles away, "the fallout looked like
+  snow; children played with the irradiated flakes." Rongelap became uninhabitable. **23 Japanese
+  fishermen** were sickened and one died. A physicist, Theodore Taylor, said later, "obviously we
+  didn't irradiate the natives on purpose. Obviously, we didn't know what the hell we were doing."
+  The AEC ran "Project 4.1," a study of the exposed people. (National Security Archive, "Castle
+  BRAVO at 70: The Worst Nuclear Test in U.S. History," ed. William Burr, 29 February 2024,
+  https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2024-02-29/castle-bravo-70-worst-nuclear-test-us-history ,
+  read 2026-09-27.) Rongelap's 64 people got the highest doses and suffered skin burns, hair loss
+  and blood changes (search summaries of PubMed and others) **(unconfirmed: search summary only)**.
+- **Whose land:** the Marshallese of Enewetak, Bikini, Rongelap, Rongerik and Utirik (a US-run UN
+  trust territory then, per the NSA page). `elements`, `health` and `america-world` may share this.
+  War's slice: the weapons tests and who was under the cloud.
+- **Fallout, plain words:** radioactive dust and ash that falls back to the ground after a nuclear
+  blast. It burns skin it lands on and damages the body from inside when it is breathed or eaten.
+
+### PATCH 2026-09-27 (T-259b): Agent Orange
+- US forces sprayed plant-killing chemicals over South Vietnam in **Operation Ranch Hand, 1962 to
+  1971**: about **19 million gallons**, about 11 million of them Agent Orange (search summaries of
+  the National Academies' *Veterans and Agent Orange* and others)
+  **(unconfirmed: search summary only)**. Agent Orange was contaminated with **dioxin (TCDD)**.
+- **The VA today presumes these are caused by Agent Orange exposure** (so a veteran need not prove
+  it): cancers (bladder cancer, chronic B-cell leukemia, Hodgkin's disease, multiple myeloma,
+  non-Hodgkin's lymphoma, prostate cancer, respiratory cancers including lung cancer, some soft
+  tissue sarcomas) and other illnesses (AL amyloidosis, chloracne, type 2 diabetes, high blood
+  pressure, hypothyroidism, ischemic heart disease, MGUS, parkinsonism, Parkinson's disease, early
+  peripheral neuropathy). The 2022 PACT Act added high blood pressure and MGUS. (VA, "Agent Orange
+  exposure and disability compensation,"
+  https://www.va.gov/disability/eligibility/hazardous-materials-exposure/agent-orange/ , read
+  2026-09-27.)
+- Vietnam's 1995 figures claimed about 50,000 children born with birth defects "allegedly because
+  of" Agent Orange (AP 1995, above). This is Vietnam's claim. Scientists still dispute the health
+  effects in Vietnam (Science, AAAS, search summary). State it as a claim, with whose it is, or
+  leave it out.
+- The date the VA first accepted claims (the Agent Orange Act of 1991) is search-summary only
+  **(unconfirmed)**.
+
 ## 10. 2000 TO TODAY (current to September 26, 2026; every figure carries its year)
 
 ### 10.0 The official numbers, and their dates
@@ -2373,6 +3010,117 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
 - An ordinary (not famous) post-9/11 veteran with an on-the-record account: not found to verification
   in this pass. Both era-10 stories are famous people.
 - The Iran war of 2026 and the Venezuela operation: only dates and one sourced count are used.
+
+### PATCH 2026-09-27 (T-259b): the other side's dead in the post-9/11 wars (re-checked 27 September 2026)
+- **Costs of War, Brown University (read directly 2026-09-27,
+  https://costsofwar.watson.brown.edu/costs/human ):** "An estimated over 940,000 people were
+  killed by direct post-9/11 war violence in Iraq, Afghanistan, Syria, Yemen, and Pakistan between
+  2001-2023. Of these, more than 432,000 were civilians." "An estimated 3.6-3.8 million people died
+  indirectly," for a total of "at least 4.5-4.7 million and counting." Unchanged since
+  america-world's T-254 check the same day. **The era's zoom gives only American dead. The writer
+  should add this count, with the project's name and years.**
+- **Iraq civilian dead are disputed:** document-based counts are much lower than household-survey
+  estimates (a 2006 *Lancet* survey estimated about 600,000 violent deaths and US and Iraqi officials
+  disputed it). See america-world's bank, era 10, for the sources. State the dispute.
+
+### PATCH 2026-09-27 (T-259b): American service members who killed civilians, and what happened to them
+- **Haditha, Iraq, 19 November 2005.** A roadside bomb killed **Lance Corporal Miguel Terrazas**, 20,
+  of the 3rd Battalion, 1st Marines. Marines of **Staff Sergeant Frank Wuterich**'s squad then shot
+  five unarmed Iraqi men who had been ordered out of a car. Wuterich told his men to "shoot first
+  and ask questions later." They broke into houses with grenades and rifle fire. **In about 45
+  minutes they killed 24 Iraqi men, women and children**, among them an old man in a wheelchair.
+  No weapons were found. Eight Marines were charged. Charges against six were dropped and one was
+  acquitted. In January 2012 Wuterich pleaded guilty to one count of negligent dereliction of duty.
+  The judge sentenced him to 90 days, a cut in pay and demotion to private, but under the plea deal
+  **he served no time.** (CNN, "Marine in Haditha, Iraq, killings gets demotion, pay cut," 24
+  January 2012, https://www.cnn.com/2012/01/24/justice/california-iraq-trial/index.html ; NPR,
+  "In Iraqi Killings Case, Marine Takes Plea Deal," 23 January 2012,
+  https://www.npr.org/2012/01/23/145656656/in-iraqi-killings-case-marine-takes-plea-deal ; both
+  read 2026-09-27, journalism.)
+- **Kandahar, Afghanistan, 11 March 2012.** Army **Staff Sergeant Robert Bales** left his base at
+  night and killed **16** unarmed Afghan civilians and wounded six in family compounds in the
+  villages of Alkozai and Najiban. Seventeen of the 22 victims were women or children, almost all
+  shot in the head, and eleven of the dead were from one family. He pleaded guilty and was sentenced
+  on 23 August 2013 to **life in prison without parole**. (RFE/RL, 23 August 2013, via
+  GlobalSecurity.org, https://www.globalsecurity.org/military/library/news/2013/08/mil-130823-rferl01.htm ,
+  read 2026-09-27; nine of the dead were children and the life-without-parole verdict are from
+  search summaries of Wikipedia, **unconfirmed: search summary only**.)
+- **Kabul, 29 August 2021.** Three days after the Abbey Gate
+  bombing, a US drone fired a missile at a car that officers believed carried an ISIS-K bomb. It was
+  aid worker **Zemari Ahmadi** (CBS spells it Zemerai), 43, of Nutrition and Education
+  International, at his family's home. **The strike killed ten civilians, seven of them children**:
+  Ahmadi, three of his sons (Zamir 20, Faisal 16, Farzad 10), his cousin Naser, and the children
+  Arwin 7, Benyamin 6, Malika 3, Somaya 3 and Hayat 2 (names and ages from search summaries of
+  Wikipedia, **unconfirmed: search summary only**). General **Mark Milley** first called it a
+  "righteous strike." On 17 September 2021 General **Frank McKenzie**, head of Central Command,
+  called it "a tragic mistake." (CBS News, 17 September 2021,
+  https://www.cbsnews.com/news/afghanistan-drone-strike-mistake-civilians-killed-pentagon/ , read
+  2026-09-27.) On 13 December 2021 Defense Secretary **Lloyd Austin** decided that **no one would be
+  punished** (NPR, 13 December 2021,
+  https://www.npr.org/2021/12/13/1063880137/no-punishment-troops-afghanistan-kabul-strike-civilians ,
+  via search summary; Washington Times and Air Force Times, same day, same summary). An Air Force
+  inspector general's review found no misconduct or negligence (search summary).
+- Abu Ghraib (outline) and My Lai (era 9) are the other cases. The outline's era-10 zoom does not
+  yet mention any of these three. A writer gap (see checkpoint).
+
+### PATCH 2026-09-27 (T-259b): perishable figures re-checked to 27 September 2026
+- **Iran war dead (outline: 19 by 22 September 2026). CONFIRMED and extended.** The Pentagon's
+  public database (DCAS) showed **19** US deaths on 22 September 2026 after it added a female Army
+  officer who died of a medical emergency on a flight to the Middle East. More than **820** had been
+  wounded. **Five US officials told the *Washington Post* that at least 22 service members had died
+  in the Middle East since the war began on 28 February 2026, and a sixth said 23**; not all of the
+  undisclosed deaths were from the fighting. (Tara Copp and others, *Washington Post*, 22 September
+  2026, reprinted in the Spokesman-Review,
+  https://www.spokesman.com/stories/2026/sep/22/another-us-service-member-dies-amid-iran-war-penta/ ,
+  read 2026-09-27.) **State: 19 by the Pentagon's public count, at least 22 by officials who spoke
+  to the Washington Post.**
+- **The Iran war's course (search summaries only, unconfirmed):** an April 2026 ceasefire and a
+  June 2026 memorandum of understanding collapsed, the memorandum expired in August, and US
+  airstrikes on southern Iran resumed on 1 September 2026 (Wikipedia "September 2026 United States
+  strikes on Iran"; CRS R48887, https://www.congress.gov/crs-product/R48887 ). The outline's "still
+  going on in September 2026" stands.
+- **Boat strikes, September 2025 to September 2026 (NEW, not in the outline).** From 2 September
+  2025 the US military struck boats in the Caribbean Sea and eastern Pacific that the Trump
+  administration said carried drugs. By 19 September 2026 the strikes had killed **at least 231
+  people in 69 strikes**. "The military did not provide evidence that the vessel was ferrying
+  drugs." (Associated Press, via NBC News, 19 September 2026,
+  https://www.nbcnews.com/politics/trump-administration/us-military-says-killed-four-strike-alleged-drug-smuggling-boat-caribb-rcna598749 ,
+  read 2026-09-27; Stars and Stripes, 10 September 2026, "at least 230 after more than 70
+  strikes.") The ACLU is suing for the families of two Trinidadian men, **Chad Joseph** and **Rishi
+  Samaroo**, killed in a strike on 14 October 2025, and says they were fishermen and farmhands
+  (ACLU press page, read 2026-09-27, advocacy, label it). This connects to the January 2026
+  Venezuela raid already in the outline.
+- **Veteran suicide.** 6,398 in 2023, 17.5 a day, still the latest year. **DISPUTE on the report's
+  date:** bank 10.2 says VA's report was "released 2025"; DAV says VA "released its National
+  Veteran Suicide Prevention Report in February 2026, analyzing data through 2023." It adds that
+  **61 percent of the veterans who died by suicide in 2023 had not received VA health care in their
+  last year.** (DAV, "Veteran suicide report released," 4 June 2026,
+  https://www.dav.org/learn-more/news/2026/veteran-suicide-report-released/ , read 2026-09-27.)
+  Prose: "a report by the Department of Veterans Affairs" without a year, or "released in early
+  2026."
+- **Transgender service members. UPDATE, the outline is out of date.** After the Supreme Court let
+  the ban take effect on 6 May 2025, the US Court of Appeals for the DC Circuit ruled **2 to 1 on 1
+  June 2026 in *Talbott v. United States*** that the Pentagon's ban was likely unconstitutional and
+  blocked the discharge of the plaintiffs. On 30 June / 1 July 2026 the district court certified a
+  class, extending that protection to all transgender troops then serving, about 4,240 people by
+  one advocacy group's count. New enlistment is still barred. **On 28 August 2026 the Justice
+  Department asked the Supreme Court to lift the injunction.** (Military Times, 15 July 2026,
+  https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/ ;
+  Gender Justice League, "Trans Lawsuit Tracker: September 2026 Update," 14 September 2026,
+  https://genderjusticeleague.org/trans-lawsuit-tracker-september-2026-update/ , advocacy, label
+  it; both read 2026-09-27.)
+- **"Department of War." UPDATE.** The House passed the fiscal 2027 defense bill, which would make
+  "Department of War" the legal name, by **216 to 212 on 22 July 2026** (AP via Federal News
+  Network, https://federalnewsnetwork.com/congress/2026/07/house-votes-to-adopt-department-of-war-renaming-in-annual-defense-bill/ ,
+  read 2026-09-27). The Senate Armed Services Committee approved the rename in its version in June
+  2026 (Military Times, 11 June 2026, search summary). **No final law was found as of 27 September
+  2026. The outline's "Its legal name, set by Congress, did not change" still holds; add "Members of
+  the House voted in July 2026 to change it."** Re-check before prose.
+- **Wounded Knee medals:** no change found in 2026. The Remove the Stain Act (S.1915, 119th
+  Congress) is still only a bill (congress.gov, search summary).
+- **Costs of War:** unchanged (above).
+- **TBI (health.mil, as of 8 June 2026)** and **Pew veterans (2023)**: not re-fetched; the TBI page
+  is dated June 2026, which is current.
 
 ## Parked from `america-world` (2026-09-27, T-254)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.

@@ -179,3 +179,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-265r	research	general-purpose/opus	[LOCAL] crime-justice: Eras 1-5 researched and bank-checked (era 3 finished). Stories: Philip Ratcliffe	?	?	?	323848	110	837646	?	completed	FAIL  crime-justice / research
 2026-09-27	T-263r	research	general-purpose/opus	[LOCAL] health: Eras 1-5 researched (era 3 from scratch). Stories: Samuel Fuller, Tryntje Jonas,	?	?	?	313713	140	1465712	?	completed	FAIL  health / research
 2026-09-27	T-264r	research	general-purpose/opus	[LOCAL] disasters: Eras 4-5 done (1-3 had landed) + bank check. Cascadia 1700, 1715 fleet hurricane	?	?	?	303149	114	1040263	?	completed	FAIL  disasters / research
+2026-09-27	T-259b	research	general-purpose/opus	[LOCAL] war: Eras 6-10 bank check: 24 PATCHes (draft exemptions, Creek War, Bad Axe, Sand Cre	?	?	?	430744	188	1401174	?	completed	PASS  war / research

@@ -81,3 +81,21 @@ Companion files: outline `outlines/war.md` · research bank `research/research-w
   - the chapter hb-note (T-232's) and eras 1-4 prose still contain em dashes and semicolons (T-235a flagged this too).
 - Cross-chapter: `sports-play` has `muhammad-ali` as a candidate; bank 9.6 has the draft-case sources. `native-nations` has `chester-nez-native-nations`; war's Nez story tells combat and the wound only. No files were written outside this chapter.
 
+## T-259b bank check, eras 6-10 (2026-09-27)
+Every item below is a PATCH or SEARCHED, NOT FOUND block in the bank under its era. The outline
+was not edited (bankcheck mode). Resolved from the T-235b list: rape at My Lai (Peers report full
+text, era 9), Agent Orange (VA presumptive list), atomic testing on Pacific islanders (Castle Bravo,
+National Security Archive), the 1863 draft (era 7).
+- **Story candidates for the director** (named, documented, not told in any outline): Captain
+  Silas Soule, who refused to fire at Sand Creek and was murdered after testifying (era 7); the Hofer
+  brothers, Hutterite conscientious objectors chained at Alcatraz, two dead at Fort Leavenworth
+  (era 8); Sergeant Isaac Woodard, blinded by a police chief on his discharge day (era 8).
+- **Shared-event additions:** Creek War, Bad Axe, Sand Creek, Bear River, Marias (war = who ordered
+  and who fired; `native-nations` leads) · NYC draft riots (war = the draft law and the troops;
+  `crime-justice`/`government-politics`) · Port Chicago (war = assignment, refusal, trial;
+  `disasters` the explosion) · Houston 1917, Woodard (war = military justice and veterans;
+  `rights-movements`) · Castle Bravo (war = the tests; `elements`/`health`/`america-world`) · boat
+  strikes 2025-26 and the Iran war (war = the strikes and the dead; `america-world` the policy).
+- **Parking:** listed under TO PARK in `control/checkpoints/T-259-war.md` for the director to file.
+  No other chapter's files were written.
+
