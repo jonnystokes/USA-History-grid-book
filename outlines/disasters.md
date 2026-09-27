@@ -3,7 +3,7 @@
 # Chapter 27: Disasters and Rescue
 
 <!-- hb-note -->
-**Status:** SEED — awaiting deep research · *(agent changes to: RESEARCHED <date>)*
+**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-264a, T-264r). Eras 6 to 10 still SEED, awaiting T-264b.
 **Angle:** Sudden calamities and the response — fires, floods, storms, quakes, wrecks, industrial accidents, and the reforms after.
 **Keep out:** slow epidemics (`health`); war (`war`)
 **Workspace:** `workspace/disasters.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -26,7 +26,7 @@ Around the year 1085, Sunset Crater erupted near present-day Flagstaff, Arizona.
 <!-- hb-zoom level="span" label="Droughts that lasted decades" -->
 A drought is a long stretch with too little rain for crops. Tree rings show that the land around the Colorado Plateau had too little rain from about 1130 to 1180. From 1140 to 1162 there were 23 dry years in a row, the longest run in the North American tree-ring record. Builders at Chaco Canyon in present-day New Mexico stopped putting up their great stone houses by about 1130, and the Chaco towns broke up in the following decades (the towns themselves belong to `native-nations`).
 
-A second drought lasted from 1276 to 1299. By about 1300 the Pueblo people of the Mesa Verde region in present-day Colorado had moved south, to the Rio Grande valley, Zuni, Acoma and the Hopi mesas, where rain came more reliably. Archaeologists at the Crow Canyon Archaeological Center count the drought as one cause among several. They think it caused food shortages in a region crowded with people, and that the shortages led to fighting.
+A second drought lasted from 1276 to 1299. By about 1300 the Pueblo people of the Mesa Verde region in present-day Colorado had moved south, to the Rio Grande valley, Zuni, Acoma and the Hopi mesas, where rain came more reliably. Archaeologists at the Crow Canyon Archaeological Center count the drought as one cause among several. They think it caused food shortages in a region crowded with people, and that the shortages led to fighting. Around 1280, attackers killed at least 41 people at Castle Rock Pueblo and at least 8 at Sand Canyon Pueblo, both in the Mesa Verde region. No evidence shows who the attackers were.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Earthquakes on the northwest coast" -->
 Off the coast of present-day Washington, Oregon and northern California, one plate of the earth's crust slides under another along a fault called the Cascadia Subduction Zone. Scientists have found signs of 19 great earthquakes on it in the last 10,000 years. The most recent struck in January 1700 (see 1700 to 1750).
@@ -57,7 +57,7 @@ After the storm the colonists' main problem was food. In February 1560 most of t
 <!-- hb-zoom level="span" label="The droughts behind the Lost Colony" -->
 Tree rings from old bald cypress trees in Virginia and North Carolina record dry years. From 1562 to 1571 the Chesapeake Bay region had a long drought. In September 1570 a Spanish Jesuit priest there, Father Juan Batista de Segura, wrote that the land had gone six years with too little corn and wild fruit, with hunger and death among its people.
 
-From 1587 to 1589 came the driest three years in 800 years of the tree-ring record. Those were the years the English colonists on Roanoke Island disappeared (their story belongs to `migration` and `exploration`). The Croatan people, allies of the English, had poor crops in 1587. That year some Roanoke colonists shot at a group of Croatan who had come looking for food, because they mistook them for enemies. The researchers who read the tree rings count the drought as one of several causes of the colony's end.
+From 1587 to 1589 came the driest three years in 800 years of the tree-ring record. Those were the years the English colonists on Roanoke Island disappeared (their story belongs to `migration` and `exploration`). The Croatan people, allies of the English, had poor crops in 1587. On August 8, 1587, Governor John White led a dawn attack on a nearby town whose people had killed a colonist. The people there were Croatan who had come to gather the corn left in the empty town. White's men killed one of them and wounded many before they saw their mistake. The researchers who read the tree rings count the drought as one of several causes of the colony's end.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="St. Augustine burns and floods" -->
 St. Augustine, the Spanish town founded in 1565 in Timucua land, was destroyed again and again. Timucua warriors shot flaming arrows at the fort in 1566 to drive the Spaniards out. On April 1, 1566 the fort was half burned and all its supplies were lost. In 1586 the English privateer Francis Drake and his men burned the whole town and fort. In March 1599 a fire swept through the wooden and thatch-roofed town. In September 1599 a hurricane flooded the buildings that had not yet been repaired.
@@ -104,28 +104,86 @@ On November 27, 1676, a fire in Boston's North End destroyed 45 buildings, among
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
-<!-- hb-time:start id="1700-1750" order="04" chapter="disasters" label="1700 to 1750" state="full" progress="seed" -->
+<!-- hb-time:start id="1700-1750" order="04" chapter="disasters" label="1700 to 1750" state="full" progress="researched" -->
 ## 1700 to 1750
 <!-- hb-zoom level="era" -->
-Towns burn, storms come, and communities start organizing the first firefighting on purpose.
+Between 1700 and 1750, fires burned large parts of Boston and Charleston. In 1722 about two-thirds of Boston's nearly 3,000 houses were built of wood, so a fire that started in one building could spread across a whole neighborhood in a night. Townspeople began to organize against fire, with fire wardens and volunteer fire companies. In New York, officials blamed a string of fires in 1741 on enslaved people and put at least 30 people to death. On the coasts, an earthquake struck the Pacific Northwest in 1700, and a hurricane wrecked a Spanish fleet off Florida in 1715.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Cascadia quake and the first fire companies" -->
-Town fires; the 1700 Cascadia earthquake and tsunami, recorded in Native oral history and in Japanese tide records [VERIFY]; volunteer fire companies from 1736 [VERIFY Franklin's Union Fire Company].
+<!-- hb-zoom level="span" label="The Cascadia earthquake, January 1700" -->
+At about 9 p.m. on January 26, 1700, the Cascadia fault broke along about 620 miles of the Pacific coast, from Vancouver Island in present-day Canada to northern California. Scientists put its size at about magnitude 9. Magnitude is a number that measures an earthquake's strength, and very few earthquakes anywhere in the world have been this strong. The coast dropped, and salt water flooded forests of red cedar and killed the trees. Their dead trunks, called ghost forests, still stand in Washington and Oregon.
+
+The earthquake also set off a tsunami, a series of huge waves that cross the ocean. It reached Japan the next day. At Miyako the water destroyed 13 houses, and a fire after it burned 20 more. Near Nakaminato the waves drove a rice ship onto rocks, and two sailors died. In 1996 scientists used these Japanese records to fix the day and hour of the earthquake.
+
+No one counted the dead on the American coast. The Native nations there had no written records then, and their accounts say whole villages were lost. The Makah of present-day Washington tell of a great earthquake at night. The Quileute tell of a flood that carried canoes far inland. In 1933 Annie Miner Peterson, a Coos woman from Oregon, told a language scholar what her grandfather had seen: an old woman who had been caught in a tree by the "raised water" as a girl. She fell while climbing down and broke her back. Scientists date her account to between 1690 and 1805. Archaeologists have found Native villages on the Washington and Oregon coasts that sank, flooded and were left empty after 1700.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="benjamin-franklin-fire-company-disasters" name="Benjamin Franklin" movie="" kind="famous" status="candidate" -->
-### Benjamin Franklin
-The fire company (the city angle belongs to `city-building`).
-<!-- hb-story:end slug="benjamin-franklin-fire-company-disasters" -->
+<!-- hb-zoom level="span" label="A hurricane sinks the Spanish treasure fleet, 1715" -->
+On July 24, 1715, twelve ships left Havana, Cuba, for Spain. Eleven were Spanish ships carrying silver and gold from Spain's colonies in the Americas. Early on July 31 a hurricane drove all eleven onto the reefs of Florida's east coast, between present-day Fort Pierce and Vero Beach. The captain of the twelfth ship, the French *Grifon*, had sailed farther from shore, and his ship escaped. About 2,500 people were aboard the fleet. NOAA and the 1715 Fleet Society count about 1,000 dead. Spanish records from Cuba give about 1,500. The fleet's commander, Juan Esteban de Ubilla, was among the dead.
+
+The survivors camped on the beach in the land of the Ais people, who lived along the coast from Cape Canaveral to the Indian River. On August 6 Admiral Francisco Salmón sent the pilot Nicolás de India and 18 men in an open boat to Havana for help. They reached it 11 days later, and ships came back with food, soldiers and tools for salvage, which means bringing up goods from a wreck. By late October the salvagers had raised more than 5 million pieces of eight, the silver coins of Spain. English ship captains came for the silver too. One of them, a Captain Barrett, took an enslaved man named Ned Grant to the wrecks to work as a diver. In the winter of 1715 to 1716 the English pirates Henry Jennings and John Wills attacked the Spanish salvage camp and carried off part of the silver.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Boston and Charleston burn" -->
+On the evening of October 2, 1711, Mary Morse was working with oakum, old rope fiber used to seal the seams of ships, in a small house off Cornhill in Boston. A flame set it alight. By 2 a.m. the fire had burned about 100 buildings, among them the Town House, where the colony's government met, and the town's oldest meeting house. It left 110 families homeless. Four sailors climbed the meeting house steeple to save its bell and died when the roof fell in. Others died going too close to the fire, or in the gunpowder blasts set off to blow up houses in its path. The full count of the dead is not known. Members of Boston's churches raised 700 pounds for the families who lost their homes. Within months town officials appointed 12 fire wardens to take charge at fires.
+
+On September 3, 1700, a hurricane struck Charleston, South Carolina. It sank the Scottish ship *Rising Sun* at anchor outside the harbor, and about 100 people aboard drowned. On November 18, 1740, a fire broke out in Charleston at 2 in the afternoon. In less than a day it destroyed more than 300 houses and shops and several wharves. Sailors from British navy ships pulled down and blew up houses to stop it. The records that survive do not say whether anyone died. Lieutenant Governor William Bull ordered every townsman, "by themselves and slaves," to fight the fire, and he put the militia under arms to stop looting.
+
+Help after the Charleston fire went mostly to the rich. Officials in London promised 20,000 pounds for the people "most affected." They paid it out by the size of each person's losses, so most of it went to wealthy merchants. Poorer people depended on gifts that the vestry, the governing board of St. Philip's Church, handed out. Mary Bedon, an innkeeper with three children, and Catharine Joor, a shopkeeper, both lost their places in the fire and opened again in rented houses. By February 1741 both needed aid from the St. Philip's vestry to get through the winter.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="New York, 1741: fires and blame" -->
+In March and April 1741, about 13 fires broke out in lower Manhattan. The first, in March, burned the governor's house and its chapel inside Fort George. New York officials said enslaved Black people and poor white people had plotted to burn the city. Judges James De Lancey, Daniel Horsmanden and Frederick Philipse tried about 200 people. Officials burned 13 Black men alive at the stake and hanged 17 Black men and 4 white people, so the sources count between 30 and 34 people put to death. They shipped between 70 and 84 more to be sold into slavery in the Caribbean. The trials and the people put to death are told in `slavery-freedom`.
+- Shared with: `slavery-freedom` (the trials and executions, lead).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="An earthquake in New England, 1727" -->
+At about 10:40 on the night of October 29, 1727, an earthquake shook New England. It was strongest at Newbury, Massachusetts, where it knocked down stone walls and the tops of almost all the chimneys. Some solid ground turned to mud, and some marshes dried up. People felt it from Maine to the Delaware River, and smaller shocks went on for months. The sources that survive record no deaths. In Boston the minister Cotton Mather heard "a horrid rumbling like the noise of many coaches." New England's ministers preached that God had sent the earthquake to show his anger at sin, and towns such as Medford, Massachusetts held a day of fasting.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The first fire companies" -->
+In Boston, groups of neighbors formed mutual fire societies. Each member promised to help save the houses of the other members. On December 7, 1736, Benjamin Franklin and about 25 other men in Philadelphia signed the articles of the Union Fire Company. Each member kept six leather buckets and two linen bags for carrying goods out of burning houses, and each promised to come to every fire in the town, not only to members' houses.
+- Shared with: `city-building` (lead: the fire company as city-building, and Benjamin Franklin's story).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
-<!-- hb-time:start id="1750-1800" order="05" chapter="disasters" label="1750 to 1800" state="thin" progress="seed" -->
+<!-- hb-time:start id="1750-1800" order="05" chapter="disasters" label="1750 to 1800" state="full" progress="researched" -->
 ## 1750 to 1800
 <!-- hb-zoom level="era" -->
-Disasters begin to produce organized relief instead of only private charity.
+From 1750 to 1800, disasters began to bring help from far away. After fires in Boston and Charleston, colonial lawmakers voted public money for the families who lost their homes, and other colonies sent gifts. Philadelphians started a fire insurance company in 1752. During the Revolutionary War, hurricanes sank Spanish warships and troop ships on the Gulf Coast, and a fire burned a large part of British-held New York.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Great Hurricane and fire insurance" -->
-The Great Hurricane of 1780 in the Caribbean and its effects [VERIFY the U.S. connection]; early fire insurance companies; city fire companies spreading.
+<!-- hb-zoom level="span" label="A hurricane and an earthquake, 1752 and 1755" -->
+On the morning of September 15, 1752, a hurricane pushed the sea more than 10 feet above high tide in Charleston, South Carolina. The water covered the whole town. People climbed to the upper floors of their houses, and nearly every ship in the harbor was thrown onto land. About 500 buildings were destroyed. No one kept an exact count of the dead. Many people drowned, and others died when houses fell apart around them.
+
+At about 4:30 in the morning on November 18, 1755, an earthquake shook New England. Its center was in the ocean about 25 miles off Cape Ann, Massachusetts. In Boston the shaking lasted more than a minute. It threw down about 100 chimneys, damaged up to 1,500 more and tilted church steeples. No deaths were recorded in the Boston area. Ministers published at least 27 sermons, poems and accounts about it. The Boston minister Thomas Prince wrote that the lightning rods on Boston's buildings had drawn electricity into the ground and made the shaking worse. John Winthrop, a professor at Harvard College, answered in lectures that heat and gases deep in the earth had caused the earthquake.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Boston burns, and other colonies send help, 1760" -->
+At about 2 a.m. on March 20, 1760, a fire started in a house on Cornhill in Boston. The cause was never found. The fire burned 349 buildings, 174 of them homes, and left more than 1,000 people homeless. No one was killed. The Massachusetts legislature, the colony's elected lawmakers, voted 3,000 pounds for the families. The lawmakers of Pennsylvania and New York voted to send money too, and people in Nova Scotia and London sent gifts. Massachusetts lawmakers then required any new building more than 7 feet high to be made of brick or slate.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fire insurance" -->
+In 1752 Benjamin Franklin and other Philadelphians organized the Philadelphia Contributionship. Fire insurance means that many owners each pay a small amount into a shared fund, and the fund pays any owner whose house burns. The company's inspectors looked at each house before insuring it and set the price by how likely it was to burn. Insured houses carried a sign showing four clasped hands. Its directors required owners to remove trees near their houses, because the trees got in the way of firefighters. Owners who wanted to keep their trees started a rival company, the Mutual Assurance Company, known as the Green Tree.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fires in wartime: New York, 1776, and Charleston, 1778" -->
+British troops under General William Howe took New York City in September 1776. On the night of September 20, a fire broke out near the southern tip of Manhattan. Dry weather and strong wind spread it north and west. By morning it had burned between 400 and 1,000 buildings, between one tenth and one quarter of the city, including Trinity Church. British commanders blamed rebel arsonists, people who set fires on purpose. British soldiers and sailors killed a few men they suspected of setting the fire, on the spot and without a trial. The records do not give their names or an exact number. British officers questioned more than 200 suspects and charged no one. Historians still disagree about the cause. Barnet Schecter found that no accusation of arson holds up. Benjamin Carp argued in 2023 that rebels most likely set the fire on purpose.
+
+In Charleston a fire began in a bakery at 4 a.m. on January 15, 1778. By noon it had destroyed more than 250 houses and killed six people, Black and white. The next day South Carolina's General Assembly voted 20,000 pounds to help the people who had lost their homes.
+- Shared with: `war` (the British occupation of New York).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Hurricanes and the war on the Gulf Coast, 1779 and 1780" -->
+In 1779 Spain joined the war against Britain. Bernardo de Gálvez, the Spanish governor of Louisiana, gathered ships at New Orleans to attack the British fort at Baton Rouge on the Mississippi River. On August 18, 1779, a hurricane sank them in less than three hours, and Gálvez had to delay his attack. On October 20, 1780, another hurricane struck a Spanish fleet of 64 ships carrying Gálvez and 4,000 soldiers from Havana to attack British Pensacola in Florida. About 2,000 of the soldiers died, and the attack was called off.
+
+A different storm that month, the Great Hurricane of 1780, crossed the islands of the Caribbean, among them Puerto Rico. About 22,000 people died on the islands. It is the deadliest Atlantic hurricane on record.
+- Shared with: `war` (the Gulf Coast campaign and the siege of Pensacola, 1781).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="New Orleans burns twice, 1788 and 1794" -->
+New Orleans was a Spanish town in 1788. On March 21 of that year, Good Friday, the Christian holy day before Easter, a fire started at about 1:30 in the afternoon in the house of Vicente José Núñez, the army treasurer. Church bells were the town's fire alarm, but the priests refused to let them ring on Good Friday. The fire burned 856 of the town's 1,100 buildings. Governor Esteban Miró set up tents for the homeless. On December 8, 1794, another fire burned 212 more buildings. Spanish officials then required new buildings to have thick brick walls, and the town was rebuilt in brick with courtyards and iron balconies.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Charleston, 1796" -->
+On the afternoon of June 13, 1796, a fire started in Lodge Alley in Charleston and burned until nearly dawn. It cleared more than 250 lots of buildings and burned out at least 300 families. A committee of church and town leaders handed out money that other townspeople gave, by what each family needed. The fire reached the roof of St. Philip's Church, and an enslaved man named Will climbed up and saved it.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="will-st-philips-church" name="Will" movie="" kind="ordinary" status="verified" -->
+### Will
+> **Who:** an enslaved man in Charleston who put out the fire on the roof of St. Philip's Church, and whom the church's leaders then bought and freed. · **When and where:** Charleston, South Carolina, June to September 1796.
+- Will was enslaved by Charles Lining, a member of the vestry, the board that ran St. Philip's Church.
+- During the fire of June 13 to 14, 1796, he climbed to the top of the church's bell tower and tore off the burning wooden roof shingles. The writer Charles Fraser said in 1854 that he did it "at the risk of his life."
+- On August 14, 1796, the vestry voted to reward him by making him free.
+- The next month the vestry paid Charles Lining $707.14 for him. They then freed him with a deed of manumission, a legal paper that ended his enslavement.
+- The vestry's records give only his first name. A later church history calls the man who saved the church a Black boatman.
+<!-- hb-story:end slug="will-st-philips-church" -->
 <!-- hb-time:end id="1750-1800" -->
 
 <!-- hb-time:start id="1800-1850" order="06" chapter="disasters" label="1800 to 1850" state="full" progress="seed" -->

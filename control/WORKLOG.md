@@ -2851,9 +2851,11 @@ RESULT: LANDED. FAIL  health / research. measured: stage=PARTIAL eras=10/10 stor
         313713 tokens, 140 tool uses, 24.4 min (opus). Eras 1-5 researched (era 3 from scratch). Stories: Samuel Fuller, Tryntje Jonas, Onesimus, Zabdiel Boylston, Elizabeth Phillips, Doctor Caesar, Benjamin Rush, Absalom Jones and Richard Allen. Epidemics 1616-1738, Fort Pitt blankets 1763 (actors named), Jack and Jackey, Doctors' Riot 1788. 4 searched-not-found, 2 firsts dropped. Era 1 has no story (allowed: no named person). Chapter FAIL expected until eras 6-10. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-264r | disasters: continue full research eras 1-5 [BURST of 5] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+RESULT: LANDED. FAIL  disasters / research. measured: stage=PARTIAL eras=10/10 stories=12 (v4 c0 t8) verify_tags=5 bank=13121w outline=5234w manuscript=0w validator_errors=0
+        303149 tokens, 114 tool uses, 17.3 min (opus). Eras 4-5 done (1-3 had landed) + bank check. Cascadia 1700, 1715 fleet hurricane (1,000 or 1,500), Boston 1711, Charleston 1700/1740 (relief to the wealthy), 1727 quake; era 5 now full; new story Will (freed 1796 after saving St. Philip's). Franklin candidate removed (city-building tells him). Castle Rock and Croatan corrections. 6 searched-not-found. Chapter FAIL expected until eras 6-10. TO PARK 2.
 
 ### 2026-09-27 | [LOCAL] T-265r | crime-justice: continue full research eras 1-5 [BURST of 5] | model opus
 STATUS: LANDED

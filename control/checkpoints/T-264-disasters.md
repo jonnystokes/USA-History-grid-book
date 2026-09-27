@@ -1,13 +1,13 @@
 # CHECKPOINT T-264 | disasters | full | T-264a: eras 1-5
 
-STATUS: PARTIAL (killed by usage limit; continuation queued)
+STATUS: T-264r landed (director verified: FAIL  disasters / research)
 VERIFY: python tools/project_state.py --check disasters --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/disasters.md · research/research-disasters.md · workspace/disasters.md
 
-NOW:    T-264a Unit 1, era 04 (1700-1750): Cascadia 1700, Boston 1711, 1715 Spanish fleet hurricane, Charleston 1740 fire, NY 1741 fires (blame; slavery-freedom leads), Franklin/fire companies
-NEXT:   T-264a: Unit 1 era 02, then eras 03-05, then Unit 2 bank check.
+NOW:    T-264r finished (eras 1-5 complete). Nothing in progress.
+NEXT:   T-264b: research eras 06-10 (1800-1850 to 2000-today) in full, then the bank check for eras 6-10. Clear 5 [VERIFY] tags and 8 target stories there. Set the hb-note Status line to RESEARCHED when done. Do not touch eras 1-5.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -27,9 +27,9 @@ FAIL  disasters / research
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | todo | |
-| 2 | bank check, eras 1-5 | todo | |
-| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | todo | |
+| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | eras 01-03 T-264a, 04-05 T-264r. 0 [VERIFY], 0 target, 0 candidate in eras 1-5 |
+| 2 | bank check, eras 1-5 | done | T-264r PATCHes: Castle Rock 1280 violence (attackers unknown), 1587 Croatan shooting (John White, 1 killed, many wounded), St. Augustine 1566 fire cause (not found), 1638 quake modern date, land note eras 04-05. Outline eras 01 and 02 sentences updated to match |
+| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | done | validator 0 errors. research check FAIL as expected: stage=PARTIAL, t8 and verify_tags=5 all in eras 6-10 |
 
 ## SUBJECT NOTES (from the director)
 
@@ -46,6 +46,9 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+
+- `city-building`, era 04: Boston's Board of Fire Wards, 12 men, appointed months after the October 2-3, 1711 fire (Boston Public Library, "Great Fires of Boston" guide, https://guides.bpl.org/bostonfires). Charleston's elected "firemasters", whose orders at a fire had the force of law (Halsey Map Preservation Society, "1740 (November 18) Fire", http://www.halseymap.com/flash/window.asp?HMID=37).
+- `slavery-freedom`, era 04: date dispute for the first 1741 fire. Its bank says Fort George burned March 8, 1741. Wikipedia, "New York Conspiracy of 1741", says March 18, 1741, and counts 13 fires in March and April.
 
 ## SALVAGE 2026-09-27 (T-264a killed by the usage limit, 12:50 reset)
 
@@ -193,6 +196,14 @@ Pages the killed agent fetched (133; re-read the useful ones rather than searchi
 
 ## Sources in hand
 
+- PNSN 1700 Cascadia page; Ludwin et al. 2005 SRL PDF (OHSU copy): Cascadia date, ghost forests, Native accounts (Coos, Oregon coast).
+- NOAA AOML hurricane blog (1715 fleet, 2015; Solano's hurricane, 2015); 1715fleetsociety.com/history; Dawson 2019 IRSH (Ned Grant).
+- halseymap.com window.asp?HMID=27, 37, 50, 30, 46 (Charleston 1700, 1740, 1752, 1778, 1796): full text opens with a script (WebFetch fails). HMID=46 holds Will's story from the vestry minutes.
+- guides.bpl.org/bostonfires; Wikipedia pages on the Boston fires of 1711 and 1760, NY 1741 and 1776, New Orleans 1788, Great Hurricane of 1780, Philadelphia Contributionship.
+- aki.bc.edu/quakes_historical.htm (Weston Observatory: 1638, 1727, 1755); masshist.org Cape Ann 1755; nationalhumanitiescenter.org godlightningrods.pdf (Prince and Winthrop).
+- Carp, Yale Press blog 2024 and Procknow's JAR review 2023 (NY 1776 cause dispute).
+- 64parishes.org Hurricanes in Louisiana (1722, 1779, 1780).
+
 ## Gaps researched
 
 ## OPEN (should be rare)
@@ -201,8 +212,19 @@ Pages the killed agent fetched (133; re-read the useful ones rather than searchi
 
 ## Decisions and defects fixed
 
+- Franklin candidate removed from era 04 (city-building tells him as a verified story). New verified story era 05: `will-st-philips-church`.
+- Era 05 state thin -> full: the sources document many disasters in 1750-1800.
+- Era 02 outline sentence on the 1587 shooting rewritten to name John White and the count (bank-check gap). Era 01 outline gained one sentence on Castle Rock (at least 41 killed, attackers unknown).
+- Ludwin et al. 2005 prints "age 73 in 1913" for Annie Miner Peterson. Corrected to 1933 (Wikipedia: born 1860, recorded by Jacobs 1933-34). Noted in the bank.
+- Eras 1-5 contain no em dash and no semicolon in book prose. The hb-note and eras 6-10 seed text still carry them (T-264b).
+
 ## Log
 
 - 2026-09-27 era 01 DONE (outline progress=researched, state=thin, no story; bank "## 01" section). Mazama/Crater Lake + Klamath Llao-Skell account; Sunset Crater 1085 (NPS); 1130-1180 megadrought and Chaco; 1276-1299 Great Drought and Mesa Verde (Crow Canyon); Cascadia 19 quakes/10,000 yr (PNSN). CORRECTION found: Fort Rock sandals (9,100-10,500 yr old) predate the Mazama eruption; outline says so. Bank helper (scratchpad/T264/ only: the shared scratchpad root is also used by other batch agents, one overwrote my ins.py there) insert new era text before the `<!-- ERA-INSERT-POINT -->` line in the bank (above the "Parked from" sections).
 - 2026-09-27 era 02 DONE (researched, thin). Story `tristan-de-luna-disasters` VERIFIED (Worth 2017 PDF, Worth fleet page, Worth 2021 blog, UWF news). Replaces seed target `target-shipwreck-survivor` (Cabeza de Vaca is exploration's verified story). Spans: Luna hurricane 1559; Stahle 1998 droughts 1562-71 (Segura letter) and 1587-89 (Roanoke, Croatan shooting); St. Augustine 1566/1586/1599 fire+hurricane. SEARCHED NOT FOUND: Luna hurricane death toll.
 - 2026-09-27 era 03 DONE (researched, full). NEW story `anthony-thacher` (ordinary) VERIFIED from his own 1635 letter (Boyer transcription PDF) + colonial records. Spans: Jamestown drought (Stahle), Sea Venture hurricane (Encyclopedia Virginia), Starving Time numbers (shared, food-farming leads); 1635 hurricane (Bradford via Gutenberg); 1638 quake (Bradford); Boston fires 1653/1676 + 1678 engine (BPL guide). CORRECTION: Wikipedia's 'Bradford: drowned seventeen Indians' is not in Bradford's text. HARNESS NOTE: WebSearch/WebFetch hit a session limit mid-era 03; research continues with scratchpad/T264/get.py (urllib + browser UA) and the Wikipedia search API. DuckDuckGo html returned a bot challenge after 3 queries (not bypassed).
+- 2026-09-27 T-264r: measured on start. Eras 01-03 researched in outline and bank. Era 04 had NOTHING on disk (outline still seed, no bank section), so T-264a died before writing it.
+- 2026-09-27 era 04 DONE (researched, full). Spans: Cascadia 1700 (PNSN, Ludwin et al. 2005 PDF, Wikipedia; Annie Miner Peterson's Coos account, Ludwin's "1913" corrected to 1933); 1715 treasure fleet (NOAA AOML, 1715 Fleet Society, Wikipedia; death counts 1,000 and 1,500 both recorded; Ned Grant, enslaved diver, Dawson 2019); Boston 1711 (BPL guide, Wikipedia: Mary Morse, four sailors); Charleston 1700 hurricane and 1740 fire (Halsey Map pages citing Mulcahy 1998: relief went mostly to the wealthy, Mary Bedon and Catharine Joor needed parish aid); NY 1741 from the slavery-freedom bank; 1727 quake (Weston Observatory, NEHS); fire companies. Franklin candidate story REMOVED: city-building already tells him as verified story `benjamin-franklin-fire-company-city-building`. The Union Fire Company stays in span prose. SEARCHED NOT FOUND: Cascadia death toll, Charleston 1740 deaths. Helper scripts in this session's scratchpad T264r/ (get.py fetch, ins.py insert era, ck.py checkpoint).
+- 2026-09-27 era 05 DONE (researched, state changed thin -> full: the sources hold many documented disasters). NEW story `will-st-philips-church` (ordinary) VERIFIED: Halsey Map page citing St. Philip's vestry minutes (freed August 14, 1796, $707.14 paid to Charles Lining), corroborated unnamed by a St. Philip's history page; ghost-tour name "Boney" recorded as a dispute. Spans: Charleston 1752 hurricane (Halsey); Cape Ann 1755 quake (MHS, Weston, NHC PDF with Prince's lightning-rod postscript and Winthrop); Boston 1760 and relief from other colonies (BPL, Wikipedia); fire insurance 1752 (Wikipedia Philadelphia Contributionship); NY 1776 fire (Wikipedia, Carp 2023 on Yale blog, Procknow JAR review: cause disputed, suspects killed on the spot); Charleston 1778 (Halsey); Gulf hurricanes 1779 and 1780 (64 Parishes, NOAA AOML) and the Great Hurricane of 1780 incl. Puerto Rico (Wikipedia): seed [VERIFY] resolved; New Orleans fires 1788 and 1794 (Wikipedia). SEARCHED NOT FOUND: NY 1776 deaths and names of suspects killed. 1752 Charleston death count recorded as not counted.
+- 2026-09-27 Unit 2 bank check eras 01-05 DONE (patches listed in the unit table). Workspace updated: shared events, VERIFY queue (Cascadia and 1780 cleared), thin eras, featured people, parking log.
+- 2026-09-27 Unit 3 DONE. validate_grid: 0 errors. project_state --stage research: FAIL (expected), stage=PARTIAL eras=10/10 stories=12 (v4 c0 t8) verify_tags=5 bank=13121w outline=5234w; all targets and VERIFY tags are in eras 6-10.
