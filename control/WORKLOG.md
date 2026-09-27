@@ -2932,3 +2932,4 @@ VERIFY: python tools/project_state.py --check health --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+NOTE (Jon, 80%): PAUSE after T-263c and T-265c finish. No new dispatches until Jon says.
