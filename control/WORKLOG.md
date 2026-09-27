@@ -2894,3 +2894,8 @@ styles, sports-play, holidays.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+
+### 2026-09-27 | [LOCAL] T-264b | disasters: full research eras 6-8 [BURST of 3+1] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-264-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage research
