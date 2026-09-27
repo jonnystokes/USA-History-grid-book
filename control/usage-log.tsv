@@ -18,6 +18,14 @@
 #                 cost of the agent is SMALLER than the number shown. Do not treat starred
 #                 rows as comparable to clean ones when looking for patterns.
 #   ?           = not captured at all. Blank by design, not an error.
+#
+# FROM 2026-09-26 (local, branch feature/local-cloud-code-homebrew):
+#   agent_type records the model too: general-purpose/opus or general-purpose/sonnet.
+#   Every row gets subagent_tokens, tool_uses and duration_ms from the completion notice.
+#   Kinds added: research (now includes the bank check), write-prose (2 writers a chapter, own
+#   gap research), check (sonnet checker), check-calibration (opus twin of a checker run),
+#   fix (opus fixer), gaps (round 2), salvage-read (sonnet).
+#   The cloud rows above (2026-09-26, [CLOUD]) are the baseline this run is compared against.
 date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subagent_tokens	tool_uses	duration_ms	output_words	outcome	notes
 2026-09-07	T-200	prose-part	general-purpose	city-building part1 (5 eras)	68	81	13	157398	51	488833	2814	completed	first measured delta; wrote incrementally (25 writes)
 2026-09-06	T-100	prose-part	general-purpose	native-nations part1 (5 eras)	?	?	?	185632	41	791137	4080	completed	the voice-setter; single terminal write

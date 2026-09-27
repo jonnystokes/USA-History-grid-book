@@ -1,394 +1,141 @@
-# RESUME: read this first, every session, no exceptions
+# RESUME: read this first, every session
 
-> **ENVIRONMENT SWITCH (added 2026-09-26).** Run `python tools/env_check.py` first.
-> **LOCAL** (Jon's PC): this file applies exactly as written.
-> **CLOUD** (Anthropic's servers, Claude Code on the web): read `control/CLOUD-WORKFLOW.md`
-> first. It overrides this file only where the machine differs: paths, the general style
-> guide's location, git persistence, and checkpoint files in place of transcript salvage.
-> Everything else here still binds. The live plan is `control/TODO.md` in both environments.
+This project **will** be interrupted: a usage window closes, or context compacts mid-task.
+This file makes that cost minutes, not a day. **The rule: never trust a written claim about
+state. Measure it.** STATUS.md was once four weeks stale, and every session that read it
+inherited the error.
 
-You are continuing a long project that **will** be interrupted: a 5-hour or weekly
-usage window closes, or your context compacts and you lose the thread mid-task.
-This file exists so that costs you minutes, not a day's work.
-
-**The rule that makes it work: never trust a written claim about state. Measure it.**
-STATUS.md was once four weeks stale and wrong in both directions, and every session
-that read it inherited the error. Prose describes intent. Only the files are true.
+Trimmed 2026-09-26. The full earlier version, with its history and the old brief texts, is
+at `control/archive/RESUME-before-2026-09-26-trim.md`. The cloud workflow is archived in
+`control/archive/cloud/` (read its README before any online session, and ask Jon).
 
 ---
 
-## The first 60 seconds of any session
-
-Run this. It reads no chapter content and costs almost nothing:
+## The first minute of any session
 
 ```bash
-cd C:/Users/jon/Projects/History-Book-Project-claude && python tools/project_state.py
+python tools/env_check.py          # LOCAL is expected. CLOUD: stop and read control/archive/cloud/README.md
+python tools/project_state.py      # the real stage of all 37 chapters, measured
+tail -60 control/WORKLOG.md        # the last entry
 ```
 
-That prints the real stage of all 37 chapters, measured from the files. Then read
-the **last entry** of `control/WORKLOG.md`, the append-only ledger of what was
-being attempted when the session ended.
+Then read `control/TODO.md` (the live plan and the next step).
 
-If the last entry is `STATUS: IN-FLIGHT`, a task was interrupted. Run the verify
-command written in that entry:
+If the last WORKLOG entry is `STATUS: IN-FLIGHT`, run the VERIFY command in it:
 
-```bash
-python tools/project_state.py --check <slug> --stage <research|patch|prose>
-```
-
-- **exit 0 / PASS:** the work landed before the interruption. Close the entry
-  (`STATUS: DONE`) and move on. Do not redo it.
-- **exit 1 / FAIL:** the work did not land, or landed partially. The printed
-  "measured:" line tells you exactly how far it got. Redo that one task.
-
-That is the whole recovery procedure. It works after a compaction, after a
-window reset, and for a brand-new session with no memory of this project at all.
-
----
-
-## Why the verify command is the only proof
-
-A sub-agent reporting "I completed the research for `war`" is a claim. Four
-chapters in this book carry stories tagged `status="verified"` whose own text
-still says `[VERIFY]`. That claim was false, and no validator could catch it.
-`project_state.py --check` is not a claim. It re-derives the answer from disk and
-exits non-zero if the bar is not met.
-
-So: **a task is done when its check passes. Not when an agent says so, not when
-the ledger says so.** If the two disagree, the check wins and the ledger is wrong.
-
-`node tools/validate_grid.js` now exits with its error count (fixed 2026-09-06), but
-it never runs the renderer, so a clean run is necessary and not sufficient. See
-`control/VIEWER-CONTRACT.md` §3. `project_state.py --check` runs it and reads the
-printed count, which is the reliable path.
-
----
+- **PASS:** the work landed before the interruption. Close the entry. Do not redo it.
+- **FAIL:** the "measured:" line says how far it got. Read the task's checkpoint, then follow
+  "When an agent dies" below.
 
 ## The definitions of done
 
 | Stage | `--stage` | Bar |
 |---|---|---|
-| Research a chapter | `research` | 10/10 eras researched · 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · 0 `[VERIFY]` tags · validator 0 errors on the outline |
-| Patch a gapped chapter | `patch` | 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · validator 0 errors on the outline |
-| Write prose | `prose` | **measured from `manuscript/<slug>/*.md`:** 10/10 eras `progress="written"` · every manuscript story `verified` · 0 `[VERIFY]` tags · 0 em dashes and 0 semicolons (style guide v2, added 2026-09-26) · ≥ 3,000 words · validator 0 errors on every part (with `--part` when there is more than one) |
+| Research | `research` | 10/10 eras researched · 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · 0 `[VERIFY]` · validator 0 errors on the outline |
+| Patch | `patch` | 0 `target` · 0 `candidate` · no verified-but-unsourced story · bank ≥ outline words · validator 0 errors |
+| Prose | `prose` | from `manuscript/<slug>/*.md`: 10/10 eras `written` · every story `verified` · 0 `[VERIFY]` · 0 em dashes · 0 semicolons · ≥ 3,000 words · validator 0 errors on every part |
 
-These bars live in `tools/project_state.py` (`DONE`). Change them there, never by
-arguing with them in prose.
+The bars live in `tools/project_state.py` (`DONE`). Change them there, never by arguing with
+them in prose. **A task is done when its check passes,** not when an agent or the ledger says so.
+A clean `validate_grid.js` run is necessary and not sufficient (`VIEWER-CONTRACT.md` §3).
 
-**The prose bar was broken until 2026-09-07 and had never once passed.** It derived the stage
-from `progress=` flags read out of `outlines/<slug>.md`, where they correctly say `researched`
-and never say `written`, and it validated the outline instead of the manuscript. Two finished
-chapters measured as FAIL. If a gate has never returned PASS for anything, suspect the gate.
+## The plan: eight steps, in order (Jon, 2026-09-26, DECISIONS #17)
 
----
+1. **Research** every chapter, feature complete. The bank check is part of it.
+2. **Write** every chapter, feature complete. Writers research their own small gaps.
+3. **Audit** the whole book: sonnet checkers read, report findings, and edit nothing.
+4. **Research round 2:** only the gaps that writing and auditing found.
+5. **Writing round 2:** opus fixers apply the audit findings and fill those gaps.
+6. **Audit** again, to confirm.
+7. **Polish.**
+8. **Done.**
 
-## How work is dispatched (context discipline)
+No step starts until the one before it is finished for the whole book. Detail and the chapter
+order are in `control/ROADMAP.md`.
 
-The director (you) **never reads chapter content**. That is what burns context
-and what compaction then destroys. One chapter is one sub-agent. The director:
+## How work is dispatched
 
-1. picks the next chapter from the ROADMAP order,
-2. appends an `IN-FLIGHT` entry to `control/WORKLOG.md` **before** dispatching,
-3. dispatches one sub-agent with the standard brief (below),
-4. on return, ignores the agent's prose and runs the check,
-5. closes the ledger entry with the measured result.
+The director (you) **never reads chapter content.** That burns context, and compaction then
+destroys it. For each task:
 
-Steps 2 and 5 are what survive the interruption. Step 4 is what keeps the book
-honest. Never skip either because a task seemed small.
+1. Pick the next task from `control/TODO.md`.
+2. Create its checkpoint from `control/checkpoints/_TEMPLATE.md`, and append an `IN-FLIGHT`
+   entry to `control/WORKLOG.md` **before** dispatching.
+3. Dispatch **one** sub-agent (`general-purpose`, in the background) with the brief from
+   `control/briefs/` and **the model the policy names** (`control/briefs/README.md`): opus for
+   research, writing and fixing, sonnet for checking and salvage reading. Always set `model`.
+4. On return, ignore the agent's prose and **run the check.**
+5. Close the WORKLOG entry with the measured result, add the usage-log row, update TODO.
+6. **Make one local commit** of that agent's work (DECISIONS #19), by named paths, with the
+   stats in the message:
+   `T-<nnn> <slug>: <what landed> [<model>, <tokens> tokens, <tool uses> tools, <minutes> min]`
+   **No push, pull or any GitHub step unless Jon asks.**
+7. Next task.
 
-**Batch size: ONE agent at a time.** Jon's instruction, 2026-09-07. Parallel batches burn
-a tight usage window faster and make recovery harder. After an interruption there is one
-agent to check on and resume, not five. Dispatch one, verify it with the check command,
-close its ledger entry, then dispatch the next.
+**One agent at a time,** always (Jon, 2026-09-07). **Size each task to fit a window:** an agent
+that spends its budget reading dies with nothing written. Use `python tools/slice_bank.py <slug>
+--eras <a-b> --summary` to see how many words a task must read. As a rule of thumb, split a
+task when its outline and bank slice pass about 25,000 words.
 
-**Size the task to fit a window.** `america-world` was attempted twice as a single agent
-and both attempts were killed having written nothing. They spent their whole budget
-reading. Split in half, both halves landed first try. For a from-scratch chapter, halve it:
-eras 1-5 and 6-10, each writing to its own staging file, and assemble them yourself.
+**Autonomous mode** (Jon, 2026-09-08): once Jon says to run, dispatch, verify, close and
+dispatch the next without stopping to ask, reporting after each agent. Stop when Jon says
+"pause" or "stop", and when a phase ends.
 
-### The three phases (restructured 2026-09-07)
+## The usage log
 
-**Research everything → write everything → audit everything.** In that order. Auditing is
-**not** interleaved. There are no verification agents and no fix agents between chapters any
-more. A writer that finds a defect in its own source fixes it in the prose, names it in its
-report, and the director parks it in `control/AUDIT-QUEUE.md` for Phase 3. Full plan in
-`control/ROADMAP.md`.
+After every sub-agent, append a row to `control/usage-log.tsv`. The completion notice gives
+`subagent_tokens`, `tool_uses` and `duration_ms`. Put the model in the `agent_type` column
+(`general-purpose/opus`). Jon reads usage percentages off the UI when he is present. Log `?`
+when he is not. The header of the file explains the markers. **Every row gets its tokens.**
+Sizing decisions rest on them.
 
-This means **the style guides are the main quality instrument**, not a reference. Since
-2026-09-26 there are two: **`control/general-writing-style-guide.md`** (the Writing Style
-Guide, Version 2, which Jon made an absolute requirement) and **`control/writing-style-guide.md`**
-(this book's amendment: the reader, the subject, the policy). Version 2's rules have headings
-and no numbers. The ones a writer needs most are "The Reader", "The AI Cadence", "The
-Teaching Point", "Forbidden Punctuation" (zero em dashes, zero semicolons) and "Self-Review
-Before Reporting". A writing agent that has not read both files in full has not been briefed.
+## When an interruption is reported: run the drill first
 
-### Standard sub-agent brief
-
-Every research/patch agent gets, verbatim:
-
-> Validate with `node tools/validate_grid.js <file>`. Add `--part` when the file is
-> one part of a multi-file chapter. **Errors mid-write are normal** (an unfinished file
-> genuinely has open blocks). **The run that counts is your last one, and it must be
-> clean.** If an error survives to the end, fix it or say in your report what it is and
-> why you left it. The thing to avoid is shipping one unexamined.
-> Read `control/AGENT-BRIEF.md`, `control/hard-subjects-policy.md` (BINDING),
-> `control/general-writing-style-guide.md` (Writing Style Guide Version 2, BINDING, read in
-> full), `control/writing-style-guide.md` (the book's amendment, BINDING. Personification is
-> the rule most often broken), `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2 before
-> writing anything. You are producing
-> `outlines/<slug>.md` and `research/research-<slug>.md` for ONE chapter.
-> Your work is judged by `python tools/project_state.py --check <slug> --stage <stage>`.
-> Run it yourself before you report, and paste its output as your last line.
-> Do not mark a story `status="verified"` unless the research bank sources it.
-> A false tag is worse than an honest `target`.
-> Check file sizes before reading. Never read `viewer/*.html` whole (line 89 is a
-> 373 KB base64 image).
-
-**The LAST agent on a chapter gets one extra line**, added 2026-09-09 after it blocked a
-check by itself:
-
-> Before you report, check that EVERY era's `progress=` flag matches its real state. Agents
-> clear the `[VERIFY]` tags and verify the stories and forget the era's own flag. A single
-> era left at `progress="seed"` will fail the chapter check on its own, no matter how
-> finished the content is. Fix the flag. Do not touch another era's content.
-
-Agents report **under 200 words plus the check output**. The director reads that
-and nothing else.
-
-### Standard WRITING brief (Phase 2)
-
-**Since 2026-09-26 the full current brief is the file `control/briefs/WRITER.md`**, and the
-dispatch names the task, chapter, part, eras and checkpoint. The text below is the original
-brief, kept for reference.
-
-
-Every prose agent gets, verbatim:
-
-> Read these before writing a word, in this order:
-> `control/general-writing-style-guide.md`, the Writing Style Guide, Version 2. **BINDING,
-> an absolute requirement, and the main instrument of this phase. Read all of it.** "The
-> Reader" states who you are writing for. "The AI Cadence" names the patterns you are most
-> likely to produce and least likely to notice. Assume you will produce them, and work
-> against them. "The Teaching Point" is the positive standard: know what you are teaching and
-> state it first. "Forbidden Punctuation" allows zero em dashes and zero semicolons, and the
-> prose gate counts both. **"Self-Review Before Reporting" is a review you must actually run,
-> repairing every defect it finds, before you report.**
-> `control/writing-style-guide.md`, **BINDING**: this book's amendment. It covers the reader
-> (age 11, sentences averaging 12 to 18 words), the subject, the policy, and its own audit
-> additions in §5.
-> `control/hard-subjects-policy.md`, **BINDING.** No softening of any kind. Never invent a
-> name. Define clinical words in plain language at first use.
-> `control/grid-markers.md` §7b · `control/VIEWER-CONTRACT.md` §2 · your own
-> `outlines/<slug>.md` and `research/research-<slug>.md`.
->
-> **Take every fact from the research bank, not the outline** (Jon, 2026-09-26). Every fact
-> in your prose must be in `research/research-<slug>.md`. The outline is a plan of what to
-> cover. When the outline states something the bank does not contain, do not write it. List
-> it in your report. When a gap leaves a section thin, write the thin section.
-> **Exception: a gap on a hard subject or a central cause is BLOCKING** (added 2026-09-26 after
-> T-237b). Examples: the bank names a massacre, riot, famine, expulsion or epidemic but not who
-> did it, what was done, or why. Do not write "the sources do not record" in its place.
-> Write the rest of the era, list the gap under "BLOCKING GAPS" in your checkpoint, and report
-> it. The director patches the bank and then has the passage written.
->
-> **If your outline or research bank contains a defect (softening, a false comparison, a
-> manufactured dispute, personification, a fact that contradicts itself), fix it in your
-> prose and NAME IT in your report. Do not stop to repair the source file.** That is
-> audit-phase work and it is not yours. This has happened repeatedly and it is expected:
-> `city-building`'s outline described land taken from Native nations as "empty prairie", and
-> the writer overrode it unprompted. Do that.
->
-> Write incrementally: create the file early and append, so an interruption leaves partial
-> output rather than nothing.
-> Validate with `node tools/validate_grid.js <file>`, adding `--part` when the file is one
-> part of a multi-file chapter. **Errors mid-write are normal.** An unfinished file genuinely
-> has open blocks. **The run that counts is your last one, and it must be clean.** If an error
-> survives, fix it or say what it is and why you left it.
-> Your work is judged by `python tools/project_state.py --check <slug> --stage prose`. Run it
-> yourself and paste its output as your last line.
-> Check file sizes before reading. Never read `viewer/*.html` whole (line 89 is a 373 KB
-> base64 image).
-
----
-
-### Standard PRE-WRITE BANK CHECK brief (added 2026-09-26, runs before every chapter's writers)
-
-One research agent per chapter, before the first writing agent. It appends to the bank only. It
-does not touch the outline or the manuscript. Its brief names the chapter and says:
-
-> Compare `research/research-<slug>.md` against `outlines/<slug>.md` and against the chapter's
-> subject as `control/chapter-registry.md` defines it. Find: (1) hard subjects the chapter must
-> cover that the bank does not (violence, deaths, expulsions, experiments on people,
-> exploitation, and who did them), (2) events in the bank with no named actor, cause or count,
-> (3) outline claims the writers will need that the bank lacks. Research each one and APPEND it
-> to the bank under its era as "### PATCH <date> (T-nnn): <topic>", with an inline source per
-> fact, named actors, and numbers with their ranges. Where a gap is genuinely unknowable, record
-> which sources you checked. The research check must still PASS.
-
-Writers then write once. Gaps they still find follow the BLOCKING rule in the writing brief.
-
-### Standard REVISION brief (added 2026-09-26, for prose written before style guide v2)
-
-Every agent revising an existing manuscript part to Version 2 gets, verbatim, with the part
-file, eras and checkpoint filled in:
-
-> You are revising ONE finished part file of this book so that it meets the Writing Style
-> Guide, Version 2. The file is `manuscript/<slug>/<part>.md` (eras <list>).
-> Read these in full before you change a word, in this order:
-> `control/general-writing-style-guide.md` (Version 2, BINDING, an absolute requirement),
-> `control/writing-style-guide.md` (the book's amendment, BINDING, including its section
-> "Version 2 rules with a fixed meaning in this book"), `control/hard-subjects-policy.md`
-> (BINDING), `control/grid-markers.md` §7b and `control/VIEWER-CONTRACT.md` §2.
->
-> **This is a full Version 2 read and repair of every sentence. It is not a punctuation
-> swap.** Replacing each em dash with a comma leaves the pivot, the triad and the closing
-> reversal in place. Read each sentence against Version 2 and apply the stated repair.
->
-> **Keep every fact.** No fact, number, name, date, source or uncertainty may leave the file.
-> Lossy summarization and gist extraction are forbidden (`hard-subjects-policy.md` §2), and
-> revision is exactly when they happen. When a repair needs a fact the file does not state
-> (for example, the name of the people who acted, to repair a personification), take it from
-> `research/research-<slug>.md` only. If the bank does not have it, write that the record
-> does not say. Never add a fact from memory.
->
-> **Keep the structure.** Leave every marker line, era id, story slug, `status=`,
-> `progress="written"`, `movie=` attribute and `> **Key:** value` record key exactly as it is.
-> The one exception is the `label="..."` text on an `hb-zoom` span. The reader sees that text
-> as a heading, so revise it to meet Version 2 when it breaks a rule (added 2026-09-26, after
-> T-234a could not repair "Fire, the city killer"). Change nothing else on a marker line.
-> Leave `hb-note` blocks alone. Work one era at a time. After each era, validate with
-> `node tools/validate_grid.js <file> --part`, update the checkpoint, and save your work.
-> `python tools/project_state.py --punct <file>` lists every em dash and semicolon left. It
-> must print zero for both before you report.
->
-> Run Version 2's "Self-Review Before Reporting" and the amendment's §5 on the whole file.
-> Repair every defect it finds, and re-read each repaired sentence against its rule.
-> If the file itself contains a defect beyond style (softening, a false comparison, a fact
-> that contradicts itself), fix it in the prose and NAME IT in your report.
-> Report in under 200 words. Give the kinds of defect you repaired, with rough counts, and
-> any fact you took from the bank. Name any rule conflict you settled and how you settled it,
-> and anything you could not fix.
-> Paste the output of `--punct <file>` and of the validator as your last lines.
-
-## After every sub-agent: log its usage
-
-Append one row to `control/usage-log.tsv`. The notification gives you
-`subagent_tokens`, `tool_uses` and `duration_ms`. Jon reads the usage percentages off
-the UI and tells you them (agents cannot see those). Over time this shows which KINDS
-of sub-agent task cost how much of a window, so tasks can be sized to fit one.
-
-**Two rules, both learned the hard way (2026-09-07):**
-
-1. **Categorise every row** in the `kind` column: `research`, `write-prose`, `verify`, `fix`,
-   `audit`, `tooling`. Cost correlates with the kind of work, not with a book-wide average.
-   Four `verify` runs came in at 9–14% each. The one `fix` run looked completely different.
-2. **A clean reading brackets the agent and nothing else.** If the director did work between
-   the two percentage readings (sweeps, ledger writes, reading code, asking Jon a question),
-   the row measures that stretch, not the agent. Mark it `+` and do not size anything off it.
-
-Markers: no marker = trustworthy · `~` approximate, treat as an upper bound · `+` contaminated
-by director work, the agent's share is lower · `?` not captured.
-
-**Do not use the log for sizing until each category has at least two clean rows.** As of
-2026-09-07 there are four clean `verify` rows and nothing else. An early "12,000 tokens per
-1% of a window" rule was derived from those four and was falsified by the first `fix` run.
-
-## When an interruption is reported: RUN THE DRILL FIRST
+Jon's automation sends: *"I hit my usage limit while you were working, but it has reset now.
+Please continue from where you left off."* That means a window closed while an agent ran.
 
 ```bash
-python tools/resume_drill.py
+python tools/resume_drill.py       # what landed, which transcripts died, a draft continuation brief
 ```
 
-One command. It measures what actually landed on disk, lists every sub-agent
-transcript and flags which ones died mid-task, states which resume routes exist on
-this build, and prints a ready-to-paste continuation brief for the most recent dead
-agent. **Run it before deciding anything.** Three times in this project an agent
-reported as "failed" had already written its files.
+Three times in this project an agent reported as failed had already written its files.
 
-## When a sub-agent dies: SALVAGE BEFORE YOU RE-DISPATCH
+## When an agent dies: salvage before you re-dispatch
 
-**A dead agent's research is not lost.** Its full transcript, including every page
-it fetched, survives on disk at
+Its full transcript, every page it fetched, survives for about 30 days at
 `~/.claude/projects/<key>/<sessionId>/subagents/agent-<agentId>.jsonl`.
 
 ```bash
-python tools/salvage_agent.py --list              # every transcript, newest first
-python tools/salvage_agent.py <agentId> -o out.md # digest it, hand to a fresh agent
+python tools/salvage_agent.py --list                 # every transcript, newest first
+python tools/salvage_agent.py <agentId> --tail       # its last actions
+python tools/salvage_agent.py <agentId> -o out.md    # a digest
 ```
 
-Two `america-world` agents were written off as a "total loss" and re-run twice.
-Their transcripts held 103 and 99 web fetches across 623 and 740 URLs, from congress.gov,
-loc.gov, archives.gov. All of it recoverable. **Never re-run a research agent from
-zero without salvaging the dead one first.** Transcripts expire in ~30 days.
+Then judge:
+- **Barely started** (still reading, nothing written): dispatch a fresh agent, same brief.
+- **Partway through writing:** dispatch a **sonnet** reader with `control/briefs/SALVAGE.md` on
+  the digest. It writes a measured SALVAGE section into the checkpoint. Then dispatch an opus
+  continuation agent with the same brief plus: *"This task was interrupted. Read the
+  checkpoint's SALVAGE section first and resume from its NEXT line. Do not redo landed units."*
+  Keep the T-number and add a suffix (T-243e2).
+- **Finished writing, never reported:** run the check.
 
-Full findings: `control/AGENT-MECHANICS.md`.
-
-## AUTONOMOUS MODE: in force from 2026-09-08
-
-**The "stop after every sub-agent and wait for continue" protocol is DECOMMISSIONED.**
-Jon's instruction: *"Do one agent at a time, one after the other, till done, doing the
-research phase. Don't stop communicating with me till then."*
-
-So: dispatch, verify with the check, close the ledger entry, dispatch the next. **Do not stop
-to ask.** Keep reporting after each agent so there is a trail to read. One agent at a time
-still holds. Never run a parallel batch.
-
-Jon may be asleep. **Usage percentages will not be captured.** Log those rows with `?` and do
-not treat their absence as a problem.
-
-### The automated interruption message
-
-Jon has an automation that sends, verbatim:
-
-> *I hit my usage limit while you were working, but it has reset now. Please continue from
-> where you left off.*
-
-**That message means a window closed while a sub-agent was running.** It is not a new task.
-When it arrives:
-
-1. `python tools/resume_drill.py` measures what landed on disk, lists transcripts, flags
-   which died mid-task. **Run it before deciding anything.**
-2. `python tools/salvage_agent.py <agentId> --tail` and `--wrote` on the dead agent show its last
-   tool calls and its thinking. This is what tells you WHERE it stopped.
-3. **Judge, do not automate the judgement.** Three cases:
-   - **Barely started** (still reading, no writes) → dispatch a fresh agent, same brief.
-   - **Partway through writing** → digest its transcript and hand the digest to a new agent as
-     a continuation brief, so it resumes instead of restarting. `salvage_agent.py <id> -o
-     out.md` produces the digest. Decide yourself how much of it to pass on.
-   - **Finished writing but never reported** → run the check. Three times in this project an
-     agent reported as failed had already written its files.
-4. Then carry on down the queue.
-
-**A killed agent's work is never lost.** Its full transcript, every page it fetched, survives
-at `~/.claude/projects/<key>/<sessionId>/subagents/agent-<agentId>.jsonl` for ~30 days. Two
-`america-world` agents were written off as a total loss and re-run twice. Their transcripts
-held 103 and 99 web fetches the whole time. **Never re-run a research agent from zero without
-salvaging the dead one first.**
+**A file that validates is not a finished file.** A killed agent can leave an era that parses
+and is half-written (T-242c). **Never re-run a research agent from zero without salvaging the
+dead one first.** Two `america-world` agents were written off while their transcripts held 103
+and 99 web fetches. Mechanics: `control/AGENT-MECHANICS.md`.
 
 ## When Jon says "pause"
 
-**Stop what you are doing and wait.** No new dispatches, no new actions. Say what state
-things are in.
+Stop and wait. No new dispatches. Say what state things are in. **Leave running agents alone**
+(Jon, 2026-09-07). An agent killed just before its write loses the output worth keeping.
 
-**Leave running sub-agents alone** (Jon, 2026-09-07). Let them finish or die with the
-window. There is no way to message them anyway, and `TaskStop` only kills. An agent
-killed just before its write loses exactly the output worth keeping. Their transcripts
-survive regardless and are salvageable.
+## When a window is about to close, or context is about to compact
 
-## When a window is about to close
-
-You usually get warning. Spend it on the ledger, not on one more chapter:
-
-1. Append or update the `IN-FLIGHT` entries for anything running.
-2. Write one line per in-flight task saying what the *next* action is.
-3. Do not start a new sub-agent you cannot verify before the window ends.
-
-## When context is about to compact
-
-Same thing, plus: the ledger and `project_state.py` are the memory. Anything you
-know that is not in a file is about to be lost, so put it in a file. A fact worth
-keeping goes in `control/`. A decision by Jon goes in the relevant `workspace/<slug>.md`
-and in the ledger.
+Spend the time on the ledger, not one more task: update the `IN-FLIGHT` entries and the
+checkpoints with the next action, update TODO, and do not start an agent you cannot verify.
+Anything you know that is not in a file is about to be lost. Decisions by Jon go into
+`control/DECISIONS.md`, the relevant `workspace/<slug>.md`, and the ledger.
 
 ---
 
@@ -397,13 +144,17 @@ and in the ledger.
 | Need | File |
 |---|---|
 | Real state, measured | `python tools/project_state.py` |
-| What was in flight | `control/WORKLOG.md` (tail) |
+| The live plan and next step | `control/TODO.md` |
+| What was in flight, what happened | `control/WORKLOG.md` (read the tail only, it is large) |
 | The plan and its order | `control/ROADMAP.md` |
-| Per-chapter narrative notes | `control/STATUS.md` (descriptive only. Numbers there may be stale) |
+| The briefs and the model policy | `control/briefs/README.md` |
+| One chapter's eras only | `python tools/slice_bank.py <slug> --eras <a-b>` |
+| The writing rules (binding) | `control/general-writing-style-guide.md` (v2), `control/writing-style-guide.md`, `control/hard-subjects-policy.md` |
 | How research is done | `control/AGENT-BRIEF.md` |
-| **Tone rules (binding)** | `control/hard-subjects-policy.md` (no softening, never invent a name) |
-| Jon's twelve rulings | `control/DECISIONS.md` |
-| The file format | `control/grid-markers.md` |
-| What the viewer really does | `control/VIEWER-CONTRACT.md` |
-| Prose skeleton | `templates/chapter-template.md` |
-| Jon's open decisions | `workspace/<slug>.md`, "Open questions for the director" |
+| Jon's rulings | `control/DECISIONS.md` |
+| Known defects waiting for the audit | `control/AUDIT-QUEUE.md` |
+| Checker calibration | `control/audit/CHECKER-CALIBRATION.md` |
+| The file format and the viewer | `control/grid-markers.md`, `control/VIEWER-CONTRACT.md` |
+| Sub-agent mechanics and salvage | `control/AGENT-MECHANICS.md` |
+| Per-chapter notes and open questions | `workspace/<slug>.md` |
+| Archived: cloud workflow, old RESUME | `control/archive/` |

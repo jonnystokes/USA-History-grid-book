@@ -10,6 +10,10 @@ the real state run `python tools/project_state.py` — it measures every chapter
 from the files. Where the two disagree, the script is right. Start any session
 with `control/RESUME.md`.
 
+⚠ **2026-09-26: the plan is now eight steps** (research, write, audit, research round 2,
+writing round 2, audit, polish, done). See `control/ROADMAP.md` and `control/TODO.md`. The
+note below describes the 2026-09-07 plan it replaced.
+
 ⚠ **The plan in this file is superseded (2026-09-07).** The project now runs in three
 phases — **research everything → write everything → audit everything** — with no auditing
 interleaved between chapters. `control/ROADMAP.md` is the plan; this file is narrative

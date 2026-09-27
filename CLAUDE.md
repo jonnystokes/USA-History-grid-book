@@ -2,11 +2,11 @@
 
 ## Which environment? Check first: `python tools/env_check.py`
 
-- **CLOUD** (Anthropic's servers, where `CLAUDE_CODE_REMOTE=true`): read
-  **`control/CLOUD-WORKFLOW.md`** first, then `control/TODO.md`. RESUME.md still applies
-  wherever CLOUD-WORKFLOW does not override it. Only what is committed and pushed survives here.
-- **LOCAL** (Jon's PC): **read `control/RESUME.md` first.** It is short and tells you how to
-  find the real state.
+- **LOCAL** (Jon's PC, where the project runs now): **read `control/RESUME.md` first.** It is
+  short and tells you how to find the real state. Then `control/TODO.md`.
+- **CLOUD** (Anthropic's servers, where `CLAUDE_CODE_REMOTE=true`): the cloud workflow is
+  **archived** in `control/archive/cloud/` (2026-09-26). Read its README and ask Jon before
+  doing any work.
 
 This project is a 37-chapter, plain-language US history book for readers aged 8 to 15. It is
 written as a grid of 37 subjects by 10 fixed eras, in an HTML-comment marker format that a
@@ -34,8 +34,10 @@ contain the detail. Read them when they apply.
   softened becomes what the reader believes happened. `outlines/native-nations.md:183` is
   the floor.
 - **Facts come from the research bank.** Every fact in the prose must be in
-  `research/research-<slug>.md`. When the outline states something the bank does not, leave it
-  out and list it in your report (Jon, 2026-09-26).
+  `research/research-<slug>.md`. When the outline states something the bank does not, a
+  writer may look it up with a few searches, add it to the bank as a PATCH, and then write it.
+  If nothing is found, record `SEARCHED, NOT FOUND` in the bank and say plainly what the
+  records do not say (DECISIONS #13, #21, `control/briefs/WRITER.md`).
 - **Never invent a name.** When an account names a person, name the person. When a
   documented account names no one, tell it unnamed, in `hb-zoom` prose. `hb-story` blocks
   are for named people only. No composites.
@@ -70,11 +72,16 @@ contain the detail. Read them when they apply.
 
 ## The work: full rules in `control/RESUME.md` and `control/AGENT-MECHANICS.md`
 
-**The project runs in three phases, in order: research everything, then write everything,
-then audit everything.** Auditing is not interleaved. If you find a defect in your own
-outline or research bank, **fix it in your prose, name it in your report, and leave the
-source file alone.** The director parks the defect in `control/AUDIT-QUEUE.md` for the audit
-phase.
+**The project runs in eight steps, strictly in order** (DECISIONS #17): research, write,
+audit the whole book, research round 2, writing round 2, audit, polish, done. Auditing is not
+interleaved. If you find a defect in your own outline or research bank, **fix it in your
+prose, name it in your report, and leave the source file alone.** The director parks the
+defect in `control/AUDIT-QUEUE.md` for the audit.
+
+**Briefs and models:** every sub-agent gets a brief from `control/briefs/` and an explicit
+model (`control/briefs/README.md`): **opus** for research, writing and fixing, **sonnet** for
+reading and checking. **No GitHub** unless Jon asks. The director makes one local commit after
+each sub-agent. **Never shrink the book** (DECISIONS #20).
 
 1. **Measure, never trust.** `python tools/project_state.py` reports the real state. Prose
    documents go stale. STATUS.md was once four weeks out of date, and every session
@@ -85,8 +92,7 @@ phase.
    Close it afterwards with the pasted check output.
 4. **Run one sub-agent at a time.** The director never reads chapter content.
 5. **Keep a checkpoint.** Every task has `control/checkpoints/T-<nnn>-<slug>.md`. The agent
-   updates it after every unit, so a new agent can resume the task. In the CLOUD, the agent
-   also commits and pushes after every unit.
+   updates it after every unit, so a new agent can resume the task.
 6. **When an agent dies, salvage before re-dispatching.** Read its checkpoint, and run
    `python tools/salvage_agent.py --list` while the transcript is still on this machine.
 7. **Make agents write early and often.** An agent killed before its first write leaves

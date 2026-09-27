@@ -5,8 +5,9 @@
     python tools/env_check.py --name   # prints just CLOUD or LOCAL
 
 CLOUD = Claude Code on the web (Anthropic's servers, an ephemeral Linux container,
-        repo cloned from GitHub). Follow control/CLOUD-WORKFLOW.md.
-LOCAL = Jon's Windows PC (C:/Users/jon/Projects/...). Follow control/RESUME.md as written.
+        repo cloned from GitHub). The cloud workflow is ARCHIVED (2026-09-26) in
+        control/archive/cloud/. Read its README.md and ask Jon before working.
+LOCAL = Jon's Windows PC (C:/Users/jon/Projects/...). Follow control/RESUME.md.
 
 Detection, strongest signal first:
   1. CLAUDE_CODE_REMOTE=true            (set by the cloud harness)
@@ -38,9 +39,9 @@ def main():
     print(f"ENVIRONMENT: {name}   ({why})")
     print(f"project root: {root}")
     if name == "CLOUD":
-        print("FOLLOW: control/CLOUD-WORKFLOW.md  (then control/TODO.md, then the WORKLOG tail)")
+        print("CLOUD WORKFLOW IS ARCHIVED: read control/archive/cloud/README.md and ask Jon before any work.")
     else:
-        print("FOLLOW: control/RESUME.md  (the local workflow, unchanged)")
+        print("FOLLOW: control/RESUME.md  (then control/TODO.md, then the WORKLOG tail)")
     # Both environments: style guide Version 2 lives in the repo (Jon, 2026-09-26).
     guide = os.path.join(root, "control", "general-writing-style-guide.md")
     print(f"general style guide (v2): control/general-writing-style-guide.md "

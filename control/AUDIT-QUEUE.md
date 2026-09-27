@@ -1,5 +1,11 @@
 # AUDIT QUEUE — defects parked for Phase 3
 
+> **2026-09-26:** the plan is now eight steps (`control/ROADMAP.md`). "Phase 3" below means
+> **step 3, the audit**. This file's items join the sonnet checkers' findings, and the opus
+> fixer applies them in step 5. Gaps that need new research go to step 4
+> (`control/briefs/GAPS.md`). Writers' own gap research is recorded in the banks as PATCH and
+> `SEARCHED, NOT FOUND` entries, not here.
+
 **Created 2026-09-07** when the project moved to three phases (research → write → audit).
 Auditing no longer happens between chapters. This file is where a known defect waits so that
 Phase 3 finds it instead of losing it.

@@ -2460,3 +2460,19 @@ DECISIONS #16: jewish-refugees-1654 was converted from an hb-story to an hb-zoom
 MEASURED: PASS immigration / prose, 20 stories verified, 16,174w, emdash=0 semicolon=0,
   validator 0 errors on both edited parts. Slug tung-trinh is unique.
 STOPPED again after this, per Jon.
+
+### 2026-09-26 | [LOCAL] T-244-prep | Process rebuilt for local work (director, no sub-agent)
+STATUS: DONE
+BRANCH: feature/local-cloud-code-homebrew (from main at e965921), for comparing efficiency with the cloud run.
+RULINGS (Jon): DECISIONS #17 eight steps in strict order; #18 opus writes/researches/fixes, sonnet
+  checks; #19 no GitHub, one local commit per sub-agent; #20 never shrink the book; #21 writers
+  research their own gaps; #22 first three sonnet checks repeated with opus to calibrate.
+DONE: cloud workflow archived to control/archive/cloud/ (not deleted). Briefs rebuilt in
+  control/briefs/: RESEARCH (bank check merged in, SEARCHED NOT FOUND records), WRITER (2 per
+  chapter, own gap research, slice tool), CHECKER, FIXER, GAPS (round 2), SALVAGE (sonnet), README
+  (model policy). tools/slice_bank.py built and tested on all 37 banks. RESUME trimmed (old copy
+  archived). ROADMAP, TODO, CLAUDE.md, README, AGENT-BRIEF, STATUS, AUDIT-QUEUE, usage-log header,
+  checkpoint template updated. control/audit/CHECKER-CALIBRATION.md created.
+MEASURED: project_state unchanged (7 WRITTEN, 5 RESEARCHED, 13 RESEARCHED*, 11 SEED, 1 PARTIAL).
+  economy --stage prose still PASS.
+NEXT: wait for Jon's go. Then T-244 migration patch (TODO step 1a).
