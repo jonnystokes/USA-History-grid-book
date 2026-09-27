@@ -2898,9 +2898,11 @@ RESULT: LANDED. FAIL  health / research. measured: stage=PARTIAL eras=10/10 stor
         390530 tokens, 175 tool uses, 26.1 min (opus). Eras 6-8 researched + bank check. Stories: Anarcha, Elizabeth Blackwell, Clara Barton, Hannah Ropes, Susan La Flesche Picotte, Josie Mabel Brown, Charles Pollard, Clara Maass. Sims (fistula and method defined), 1837 smallpox, freed people's smallpox, Tuskegee course of disease (CDC, Brandt 1978; DECISIONS #3), Guatemala (83 deaths). 2 searched-not-found. Chapter FAIL until eras 9-10 (T-263c). TO PARK 7.
 
 ### 2026-09-27 | [LOCAL] T-264b | disasters: full research eras 6-8 [BURST of 3+1] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+RESULT: LANDED. FAIL  disasters / research. measured: stage=PARTIAL eras=10/10 stories=12 (v9 c0 t3) verify_tags=2 bank=26647w outline=11307w manuscript=0w validator_errors=0
+        500877 tokens, 179 tool uses, 26.4 min (opus). Eras 6-8 + bank check. Stories: Rebecca Lamar (Pulaski 1838), Victor Heiser (Johnstown), Isaac Cline (Galveston, warning claim disputed), Hugh Kwong Liang (1906, segregated camp), Kate Alterman (Triangle trial), Clara Barton sourced. Blame and neglect: Sultana, Johnstown, Galveston forced burials, 1927 flood camps, Okeechobee coffins, St. Francis Dam. 8 searched-not-found. Chapter FAIL until eras 9-10. TO PARK 3+.
 
 ### 2026-09-27 | [LOCAL] T-265b | crime-justice: full research eras 6-8 [BURST of 3+1] | model opus
 STATUS: LANDED

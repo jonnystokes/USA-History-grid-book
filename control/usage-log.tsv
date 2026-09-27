@@ -184,3 +184,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-263b	research	general-purpose/opus	[LOCAL] health: Eras 6-8 researched + bank check. Stories: Anarcha, Elizabeth Blackwell, Clara B	?	?	?	390530	175	1565483	?	completed	FAIL  health / research
 2026-09-27	T-266b	research	general-purpose/opus	[LOCAL] drugs-alcohol: Eras 6-8 + bank check. Stories: John B. Gough, John Tackett Goolrick (morphine a	?	?	?	393808	133	1086814	?	completed	FAIL  drugs-alcohol / research
 2026-09-27	T-265b	research	general-purpose/opus	[LOCAL] crime-justice: Eras 6-8 + bank check. Stories: Charles Williams (Eastern State no. 1), Henry Sm	?	?	?	350673	158	1259913	?	completed	FAIL  crime-justice / research
+2026-09-27	T-264b	research	general-purpose/opus	[LOCAL] disasters: Eras 6-8 + bank check. Stories: Rebecca Lamar (Pulaski 1838), Victor Heiser (Joh	?	?	?	500877	179	1582427	?	completed	FAIL  disasters / research

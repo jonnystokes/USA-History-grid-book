@@ -3,14 +3,14 @@
 # Chapter 27: Disasters and Rescue
 
 <!-- hb-note -->
-**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-264a, T-264r). Eras 6 to 10 still SEED, awaiting T-264b.
-**Angle:** Sudden calamities and the response — fires, floods, storms, quakes, wrecks, industrial accidents, and the reforms after.
-**Keep out:** slow epidemics (`health`); war (`war`)
+**Status:** eras 1 to 8 RESEARCHED 2026-09-27 (T-264a, T-264r, T-264b). Eras 9 and 10 still SEED, awaiting T-264c.
+**Angle:** Sudden calamities and the response: fires, floods, storms, quakes, wrecks, industrial accidents, and the reforms after.
+**Keep out:** slow epidemics (`health`), war (`war`)
 **Workspace:** `workspace/disasters.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
 **Research bank:** `research/research-disasters.md`
-**Reference material:** `_reference/book-outline-v1.md` §19 Disasters and Rescue (ten-era seed) · `research/research-elements.md` (the Hindenburg burned hydrogen because of the 1927 U.S. helium export ban — the element story stays in `elements`).
-**Date error fixed from v1:** the **Galveston hurricane (1900)** was listed under 1850–1900; under the boundary rule it belongs in **1900–1950**.
-Editor's in-development note — not part of the final book; the parser strips it.
+**Reference material:** `_reference/book-outline-v1.md` §19 Disasters and Rescue (ten-era seed) · `research/research-elements.md` (the Hindenburg burned hydrogen because of the 1927 U.S. helium export ban. The element story stays in `elements`).
+**Date error fixed from v1:** the **Galveston hurricane (1900)** was listed under 1850–1900. Under the boundary rule it belongs in **1900–1950**.
+Editor's in-development note, not part of the final book. The parser strips it.
 <!-- /hb-note -->
 
 <!-- hb-time:start id="before-1500" order="01" chapter="disasters" label="Before 1500" state="thin" progress="researched" -->
@@ -186,58 +186,198 @@ On the afternoon of June 13, 1796, a fire started in Lodge Alley in Charleston a
 <!-- hb-story:end slug="will-st-philips-church" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="disasters" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="disasters" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-New machines bring new ways to die suddenly, and the country gets its first federal safety law because of them.
+From 1800 to 1850, steam engines gave Americans a new way to die suddenly. Steamboat boilers exploded on rivers and at sea, and steamboats burned on the Great Lakes. In 1838 members of Congress passed the first federal law to inspect steamboats. Earthquakes, city fires and a tornado also killed hundreds of people. After the New Madrid earthquakes of 1811 and 1812, members of Congress voted land to the people whose farms were ruined.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="New Madrid and the Steamboat Acts" -->
-The New Madrid earthquakes, 1811–12, which rang church bells hundreds of miles away; steamboat boiler explosions and the Steamboat Acts [VERIFY 1838/1852]; city fires; the loss of ships on the Great Lakes.
+<!-- hb-zoom level="span" label="The New Madrid earthquakes, 1811 and 1812" -->
+Three great earthquakes shook the middle Mississippi Valley in the winter of 1811 to 1812. The first struck northeast Arkansas at about 2:15 in the morning on December 16, 1811. The others came on January 23 and February 7, 1812. Scientists at the U.S. Geological Survey estimate their size at about magnitude 7.3 to 7.5. The seismologist Susan Hough has argued for about 7.0. The quakes are named for New Madrid, Missouri, the only sizable town near their center. They threw down log cabins and chimneys as far away as Cincinnati and St. Louis. The first quake woke people in New York City, Washington, D.C., and Charleston, South Carolina. Many books say the shaking rang church bells in Boston, but Boston's newspapers of the time never reported it.
+
+On the Mississippi River, banks and islands fell into the water, and waves sank boats or threw them onto shore. For a short time the river ran backward. Land sank near the St. Francis River in Arkansas. In Tennessee, sinking ground dammed Reelfoot Creek and made Reelfoot Lake. Reports of the time counted fewer than 100 deaths on land. No one counted the dead on the river or in the Native towns of the region. Cherokee families who had already moved west from their homelands farmed along the St. Francis River. The earthquakes ruined their land, and they left their farms and cattle and moved west again.
+
+Missouri's territorial governor, William Clark, and two other leaders asked Congress for help in 1814. On February 17, 1815, members of Congress passed a law that let owners of ruined land claim the same amount of public land somewhere else, up to 640 acres. It was one of the country's earliest disaster relief laws. Speculators, people who buy things cheaply to sell them later for a profit, heard about the law first. They hurried to New Madrid and bought the ruined land from owners who had not yet heard of it, at low prices. Most Missourians believed the speculators got most of the benefit.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-steamboat-explosion-survivor" name="(target) a steamboat-explosion survivor" movie="" kind="ordinary" status="target" -->
-### (target) a steamboat-explosion survivor
-Documented in newspapers and inquest records.
-<!-- hb-story:end slug="target-steamboat-explosion-survivor" -->
+<!-- hb-zoom level="span" label="Steamboat boilers explode, and a federal safety law, 1838" -->
+A steamboat's boiler is a large metal tank where a fire turns water into steam to drive the engine. If the steam pressure grows too high, or the water runs low and cold water is let in on hot metal, the boiler can burst. On April 25, 1838, all four boilers of the steamboat *Moselle* burst at once as it pulled away from a landing just east of Cincinnati. The captain and owner, Isaac Perin, had kept the boilers at full steam during the stop. Many witnesses said he was racing another boat. The explosion killed Perin and many of the 280 or more people on board. A committee of Cincinnati citizens, appointed the next day, counted about 150 dead. Later accounts give 160.
+
+On July 7, 1838, members of Congress passed a law "to provide better security of the lives of passengers" on steamboats. Under it, federal judges named engineers as inspectors, who checked each boat's hull and boilers and issued certificates. Owners paid 5 dollars for each inspection, repeated every 6 or 12 months. No federal officer enforced the law. Only a person who sued in court could. Boiler explosions, fires and collisions went on.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Pulaski, June 1838" -->
+The steamship *Pulaski* carried passengers between Savannah, Georgia, and Baltimore. At about 11 p.m. on June 14, 1838, about 40 miles off the coast of North Carolina, its starboard boiler exploded. The ship broke in two and sank in about 45 minutes. About 128 people died and 59 were saved. An inquiry at the end of 1838 found that the engineers had run the boilers wrongly. A survivor's account names the cause: the second engineer let the water boil away in the boiler and then let in cold water on the hot metal. Enslaved people traveled on the ship as servants of the white passengers. The passenger list names some of them only by first name, and others only as "servant."
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="rebecca-lamar" name="Rebecca Lamar" movie="" kind="ordinary" status="verified" -->
+### Rebecca Lamar
+> **Who:** a survivor of the *Pulaski* explosion who drifted for five days on a floating piece of the wreck and later wrote down what happened. · **When and where:** off the coast of North Carolina, June 14 to 19, 1838.
+- Rebecca Lamar was traveling north with her brother, the Savannah banker Gazaway Bugg Lamar, his wife Jane, their children and two nieces. Her brother owned shares in the ship.
+- The explosion woke her in her cabin. The door was jammed, and she began to climb out through the small window above it.
+- Her brother got her and a niece into a small boat. Moments later she was thrown into the sea. She pulled herself onto a floating piece of the deck.
+- The people on that piece of wreck had almost no food or water. She tore her dress into squares, wet them and put them on the children's heads against the sun. On the second day her brother and five other men took a small boat to row for help. They reached the beach 40 miles above Wilmington, North Carolina.
+- Several people on the wreck died of thirst, heat and exhaustion, or were washed off by waves in a storm. Her nephew Thomas died in her lap.
+- On the following Tuesday the schooner *Henry Cameron*, under Captain Eli Davis, found them. The *Pulaski*'s sailing master, Captain Pearson, was already on board, rescued from another piece of the wreck. He asked Davis three times to search for more survivors.
+- Her brother's wife, five of their six children and a niece died. Her brother and his son Charles, 14, lived. In 1858 Charles Lamar led a group of investors who paid for the ship *Wanderer* to bring captive Africans to Georgia, which federal law had banned since 1808. About 409 of them survived the voyage. He was tried and not convicted.
+- Rebecca Lamar later married Hugh McLeod. She wrote her account without planning to publish it. The *Georgia Historical Quarterly* later printed it.
+<!-- hb-story:end slug="rebecca-lamar" -->
+<!-- hb-zoom level="span" label="Fire, wind and water: New York 1835, Natchez 1840, Lake Erie 1841" -->
+On the night of December 16, 1835, a gas pipe burst in a warehouse in lower Manhattan, and a coal stove lit the gas. The temperature was about 17 degrees below zero. The rivers were frozen, and firefighters had to cut holes in the ice to reach water, which then froze in their hoses. The fire burned 17 city blocks and between 530 and 700 buildings in New York's business district. Two people died. Around 3 a.m., U.S. Marines and sailors brought gunpowder from the Brooklyn Navy Yard and blew up buildings in the fire's path to stop it. The damage came to about 20 million dollars, and 23 of New York's 26 fire insurance companies went out of business.
+
+At about 1 p.m. on May 7, 1840, a tornado moved up the Mississippi River and struck Natchez, Mississippi, and Vidalia, Louisiana, across the river. It threw 116 of the 120 flatboats at the Natchez landing into the river. Flatboats were large, flat-bottomed boats that carried farm goods and people downriver. At least 317 people died, 269 of them on the river and 48 on land. It is the second deadliest tornado in the country's history. The count of 317 leaves out enslaved people killed on plantations in Louisiana. A Natchez newspaper reported hundreds killed there, and no one made an exact count. Slaveholders sent enslaved men to clear the ruins and pull out the bodies.
+
+On the evening of August 9, 1841, the steamboat *Erie* left Buffalo, New York, for Chicago with about 340 people on board. A group of painters had left cans of turpentine and varnish on the deck near the boiler's hot air pipe. At about 8 p.m. the turpentine exploded. The fire spread over the freshly painted boat in minutes. The crew of another steamboat, the *DeWitt Clinton*, arrived at 10 p.m. and pulled survivors from the lake. Fewer than 100 people were saved. Later counts put the dead at about 254.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="disasters" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="disasters" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-The worst decades yet for fire and flood — and the country begins to build organizations whose job is to show up afterward.
+The country's deadliest shipwreck, its deadliest wildfire and its deadliest dam failure all happened between 1850 and 1900. Each killed more than 1,000 people. After the *Sultana* and Johnstown disasters, survivors and investigators blamed named men, and no court punished any of them. In these same years Americans built groups whose work was to help after a disaster. Army officers began to send out weather reports in 1870, and Clara Barton founded the American Red Cross in 1881.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Peshtigo, Chicago, Johnstown, and the Red Cross" -->
-The Peshtigo fire and the Chicago fire, both October 8, 1871 — Peshtigo killed far more people and is far less remembered; the Johnstown Flood, 1889, and the private dam that failed; the founding of the American Red Cross, 1881 [VERIFY]; mine disasters.
+<!-- hb-zoom level="span" label="A new steamboat law, 1852, and the Sultana, 1865" -->
+Steamboat explosions and fires went on after the law of 1838. Members of Congress passed a stronger law, the Steamboat Act, on August 30, 1852. Under it, officials of the Treasury Department enforced the rules through supervising inspectors. Inspectors had to test every boiler with water pressure. Owners had to fit each boiler with a safety valve, a part that lets out steam before the pressure gets too high. Pilots and engineers had to earn a license.
+
+The worst shipwreck in the country's history happened on the Mississippi River just after the Civil War ended. The steamboat *Sultana* was built to carry 376 passengers. At Vicksburg, Mississippi, in April 1865, Union Army officers loaded it with about 2,000 Union soldiers. Most had just been freed from Confederate prison camps at Cahaba, Alabama, and Andersonville, Georgia. Army officials paid boat owners for each soldier carried. Captain Reuben Hatch, the Army's chief quartermaster (supply officer) at Vicksburg, offered the *Sultana*'s captain, J. Cass Mason, a full load in return for a secret payment. Captain George Williams, the officer in charge of loading, put every man from the camp on board. A boiler had been leaking, and Mason had it patched instead of fully repaired, to keep the job.
+
+At about 2 a.m. on April 27, 1865, about seven miles north of Memphis, the boilers exploded, and the boat burned. Counts of the dead range from about 1,100 to 1,547, and most were soldiers. General William Hoffman, who investigated for the Army, counted 1,238 in May 1865. Officials of the Customs Service, which kept records of ships, counted 1,547. Crews of other steamboats and U.S. Navy ships pulled survivors from the river. People on the Arkansas shore tied logs into a raft and took men off the burning boat. Some of the rescuers were Confederate soldiers who had been fighting Union troops weeks before. Frederic Speed, an Army captain, was convicted of overloading the boat, but the Army's top lawyer overturned the verdict because Speed had not put anyone on board. No one else was punished. Hatch refused three orders to testify.
+- Shared with: `war` (the prison camps and the end of the war).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fire on October 8, 1871: Chicago and Peshtigo" -->
+On the evening of October 8, 1871, a fire started in or near a barn behind the home of Catherine O'Leary's family in Chicago. The cause is not known. The city was built mostly of wood, and a strong wind blew. The fire burned until October 10. It burned about 17,500 buildings over more than 3 square miles and left about 100,000 people homeless. Searchers found 120 bodies. The coroner, the official who looks into deaths, said the real number could not be counted, and estimates run to about 300. A newspaper reporter, Michael Ahern, wrote that Catherine O'Leary's cow had kicked over a lantern. Many people believed it. She was a poor Irish Catholic immigrant, and many Americans then distrusted Irish Catholics. In 1893 Ahern admitted he had made the story up. In 1997 the members of the Chicago City Council voted to clear her.
+
+The same night, a far deadlier fire burned in the forests of northeastern Wisconsin and Michigan's Upper Peninsula. People clearing land for farms and railroads set small fires, and after a long drought a strong wind joined them into one huge fire. It burned about 1.2 million acres and destroyed Peshtigo, Wisconsin, a town of about 1,700 people, and 16 other towns. People jumped into the Peshtigo River to escape the flames. Some drowned, and others died of cold in the water. The fire burned the town's records, so no one knows the exact count of the dead. Estimates run from 1,200 to 2,400. In 1873 a report to the Wisconsin Legislature listed 1,182 names. More than 350 bodies were buried in one grave because no one was left to name them. It is the deadliest wildfire in the country's recorded history. Peshtigo stood on forest land the Menominee Nation had given up to the United States in the Treaty of the Cedars of 1836, which opened the land to logging.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Weather warnings, 1870 to 1890" -->
+Under a law President Ulysses S. Grant signed on February 9, 1870, soldiers of the Army's Signal Service collected weather reports by telegraph and warned of storms on the Great Lakes and the coasts. On January 12, 1888, a blizzard struck the northern Great Plains without warning. The morning had been warm, and many children walked to school without coats. About 235 people died by the most used count, many of them children walking home. Other estimates run much higher. In Plainview, Nebraska, the teacher Loie May Royce tried to lead three students to her home less than 90 yards away. They lost their way, and the three children froze to death. Near Ord, Nebraska, the teacher Minnie Freeman, 19, tied her students together with twine and led them to a farmhouse about half a mile away. All of them lived. In March 1888 a blizzard in the Northeast killed about 400 people, and the Signal Service had forecast fair weather. In 1890 members of Congress moved forecasting from the Army to a new civilian Weather Bureau.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Red Cross, 1881, and an earthquake in Charleston, 1886" -->
+Clara Barton and a group of supporters founded the American Red Cross in Washington, D.C., on May 21, 1881. In September 1881 they sent money, clothes and furniture to people burned out by forest fires in Michigan's Thumb, which killed 282 people. It was the Red Cross's first disaster relief. At about 9:50 p.m. on August 31, 1886, an earthquake of about magnitude 7 shook Charleston, South Carolina. It killed 60 people and damaged about 2,000 buildings. Brick buildings were damaged far more often than wooden ones.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Johnstown Flood, May 31, 1889" -->
+The dam that broke belonged to a private club of rich Pittsburgh men, and the changes they made left it weaker. The South Fork Dam held back a lake 14 miles up the valley from Johnstown, Pennsylvania. Henry Clay Frick led a group of Pittsburgh businessmen who bought the lake for the South Fork Fishing and Hunting Club. Workers they hired lowered the top of the dam to make room for a road. They put a screen across the spillway, the channel that lets extra water out, to keep the fish in. The pipes at the bottom of the dam, which could let water out, were gone, and the club never replaced them. In 1891 a committee of the American Society of Civil Engineers reported that the dam would have failed anyway. A study published in 2016 found that the club's changes cut the amount of water the dam could safely let out by half.
+
+After days of heavy rain, the dam broke in the afternoon of May 31, 1889. That day the club's president, Elias Unger, had warnings sent to Johnstown by telegraph, but no one passed them to the town's leaders. There had been many false alarms before. The water rushed down the valley carrying houses, trees and railroad cars. The railroad engineer John Hess drove his engine backward toward East Conemaugh with the whistle blowing the whole way, and many people who heard it reached high ground. At the Stone Bridge in Johnstown, wreckage piled up and caught fire, and at least 80 people died there. The count of the dead was 2,209. Years later one man counted as dead came back alive, which made it 2,208. Ninety-nine whole families died, 396 of the dead were children, and 777 of the dead were never identified.
+
+Survivors sued the club. Two of its members, the lawyers Philander Knox and James Hay Reed, defended it and argued the flood was an "act of God," a natural event no person could be blamed for. The survivors lost, and no one ever paid them for their losses. Some club members, including Frick, gave money to the relief work. Clara Barton arrived with Red Cross workers on June 5.
+- Shared with: `big-business` (the club's owners and the courts).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="victor-heiser" name="Victor Heiser" movie="" kind="ordinary" status="verified" -->
+### Victor Heiser
+> **Who:** a 16-year-old who rode the Johnstown Flood on a barn roof and lost both his parents, and later became a doctor. · **When and where:** Johnstown, Pennsylvania, May 31, 1889.
+- As the river rose, his father sent him to the barn to untie the horses. He heard a roar and saw his parents at a window of the house. His father waved at him to climb onto the barn roof.
+- He saw his house "crushed like an eggshell." He noted the time: 4:20 p.m.
+- The barn floated away with him on its roof. When it was about to hit a neighbor's house, he jumped to the neighbor's house. It began to fall, and he fell back onto the barn roof. He was carried to the Stone Bridge.
+- He spent the night in a house with 19 other people. The next day he tried to help people trapped in the burning wreckage at the bridge.
+- For two weeks he looked at the bodies carried to the morgues. He found his mother, Mathilde Heiser. His father, George, was never identified.
+- He studied at Jefferson Medical College and worked around the world against leprosy, cholera and malaria. He told his story in his book *An American Doctor's Odyssey* (1936). He died in 1972.
+<!-- hb-story:end slug="victor-heiser" -->
+<!-- hb-zoom level="span" label="The Sea Islands hurricane, August 27, 1893" -->
+A hurricane came ashore near Savannah, Georgia, on August 27, 1893, and drove the sea over the low Sea Islands of Georgia and South Carolina. Between 1,000 and 2,000 people died, most of them drowned. Most people on the islands were Black, and most of them owned their land. On St. Helena Island about 6,000 Black people lived, and most of their houses stood less than 2 feet above the ground. Red Cross workers arrived on October 1 and ran a relief effort for 10 months. The historian Caroline Grego and others found that South Carolina politicians and newspapers pushed the Red Cross to send supplies to white farmers instead of Black islanders. The Democratic Party leaders who ran the state government worked against Black islanders' efforts to earn a living again.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="clara-barton-disasters" name="Clara Barton" movie="" kind="famous" status="verified" -->
 ### Clara Barton
-Founded the American Red Cross and ran relief at Johnstown.
+> **Who:** founder of the American Red Cross, who led its relief work after fires, floods and hurricanes. · **When and where:** Michigan, 1881, Johnstown, Pennsylvania, 1889, the South Carolina Sea Islands, 1893, and Galveston, Texas, 1900.
+- She founded the American Red Cross on May 21, 1881, at age 59. Its first disaster relief went to the Michigan forest fires that September.
+- She reached Johnstown on June 5, 1889, five days after the flood, at age 67, with about 50 Red Cross workers from Washington, D.C. They stayed five months.
+- Her workers built "Red Cross hotels," large wooden buildings where families who had lost their homes could sleep and eat for free. Red Cross workers gave out supplies worth $211,000 and helped about 25,000 people.
+- She quarreled with the leaders of the Philadelphia Red Cross, who ran a separate hospital in Johnstown, and the two groups stopped working together.
+- In 1893 she led relief for about 30,000 people left homeless by the Sea Islands hurricane, most of them Black.
+- Her last relief work was after the Galveston hurricane of September 1900. She resigned as president of the Red Cross on May 14, 1904, after growing criticism of how she ran it.
+- Her house in Glen Echo, Maryland, was built partly from lumber of the Red Cross buildings at Johnstown.
 <!-- hb-story:end slug="clara-barton-disasters" -->
-<!-- hb-story:start slug="target-johnstown-survivor" name="(target) a Johnstown survivor" movie="" kind="ordinary" status="target" -->
-### (target) a Johnstown survivor
-Lived through a wall of water released by a private dam.
-<!-- hb-story:end slug="target-johnstown-survivor" -->
+<!-- hb-zoom level="span" label="Shared with other chapters" -->
+- Mine fires and explosions: the Avondale mine fire in Pennsylvania on September 6, 1869 killed 110 people, among them five boys and two men who went down to rescue the miners. `energy` and `work-workers` tell it.
+- Clara Barton at Antietam in 1862: `health` tells it (story `clara-barton-health`).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="disasters" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="disasters" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-The half-century of the most famous American disasters, and of the safety rules written in their aftermath.
+The deadliest disaster in the country's history came first in this era: the Galveston hurricane of September 1900 killed between 6,000 and 12,000 people. Over the next 50 years, hurricanes, floods, an earthquake, fires and explosions each killed hundreds or thousands more. Many deaths came from choices people made: locked exit doors, overloaded ships, weak dams and unmarked gas. After most of these disasters, lawmakers wrote new safety rules. In Galveston in 1900, along the Mississippi in 1927 and in Florida in 1928, white officials and armed guards forced Black survivors to work, gave help to white survivors first, or buried Black victims in unmarked mass graves.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Galveston, San Francisco, Triangle, and the Hindenburg" -->
-**The Galveston hurricane, September 1900** — the deadliest natural disaster in U.S. history, and the seawall and grade raising afterward [moved here from 1850–1900; v1 had the era wrong]; the San Francisco earthquake and fire, 1906; the *Titanic*, 1912, and the lifeboat rules that followed; the Triangle Shirtwaist fire, 1911; the Dust Bowl storms; the Hindenburg, 1937; the Texas City explosion, 1947 [VERIFY].
+<!-- hb-zoom level="span" label="Galveston, September 8, 1900" -->
+Galveston, Texas, was a port city of about 38,000 people on a low island in the Gulf of Mexico. On September 8, 1900, a hurricane pushed the sea over the whole island. The water reached 15.7 feet at its highest. Between 6,000 and 8,000 people died in the city. Estimates for the whole island and the nearby coast run from 10,000 to 12,000. It is the deadliest natural disaster in the country's history. The *Galveston News* published a list of 4,263 dead, and many bodies were never named. The storm destroyed about 3,600 homes.
+
+Men were forced at gunpoint to gather the dead. Workers loaded bodies on barges, weighted them with rocks and dropped them into the Gulf, but many washed back to shore. After that the dead were burned in fires on the beach, which burned into November. The writer Elizabeth Blasius found that members of the volunteer militia, armed citizens organized as a local guard, forced Black workers at gunpoint to bury the dead. Black people made up about one fifth of the city.
+
+Clara Barton, 78, arrived with Red Cross workers on September 17. A Central Relief Committee led by Mayor Walter C. Jones and the city's bankers and merchants ran the relief and paid for 483 new houses. Afterward, workers built a seawall 17 feet high and pumped sand under the city to raise the ground as much as 17 feet. Workers lifted more than 2,000 buildings on jacks first.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-galveston-survivor" name="(target) a Galveston survivor" movie="" kind="ordinary" status="target" -->
-### (target) a Galveston survivor
-Survived the deadliest natural disaster in U.S. history (documented accounts exist).
-<!-- hb-story:end slug="target-galveston-survivor" -->
-<!-- hb-story:start slug="target-sf-earthquake-survivor" name="(target) a San Francisco earthquake survivor" movie="" kind="ordinary" status="target" -->
-### (target) a San Francisco earthquake survivor
-Lived through the 1906 quake and the fire after.
-<!-- hb-story:end slug="target-sf-earthquake-survivor" -->
-<!-- hb-story:start slug="target-triangle-shirtwaist-survivor" name="(target) a Triangle Shirtwaist survivor" movie="" kind="ordinary" status="target" -->
-### (target) a Triangle Shirtwaist survivor
-Escaped a fire behind locked doors.
-<!-- hb-story:end slug="target-triangle-shirtwaist-survivor" -->
+<!-- hb-story:start slug="isaac-cline" name="Isaac Cline" movie="" kind="ordinary" status="verified" -->
+### Isaac Cline
+> **Who:** the U.S. Weather Bureau's chief weather forecaster in Galveston, who lost his wife in the 1900 hurricane. · **When and where:** Galveston, Texas, September 8, 1900.
+- Isaac Cline ran the Weather Bureau office in Galveston from 1889. His brother Joseph worked with him.
+- In 1891 he wrote in the *Galveston Daily News* that the idea of a hurricane doing serious harm to Galveston was "a crazy idea." Some residents had asked for a seawall, and his article helped stop it.
+- On September 8, 1900, when the tide rose far above normal, he raised the hurricane warning flags without waiting for approval from Washington.
+- In his autobiography he wrote that he rode along the beach warning people. No eyewitness reported seeing him do it. The writer Erik Larson argued that he warned no one before the office's official warning.
+- The storm destroyed his house. His wife, Cora, who was pregnant, died. He saved his youngest daughter, Esther, who was 6. Joseph saved his other daughters, Allie May, 12, and Rosemary, 11.
+- In 1901 he moved to New Orleans and spent years studying how hurricanes move. He retired in 1935 and died in 1955.
+<!-- hb-story:end slug="isaac-cline" -->
+<!-- hb-zoom level="span" label="San Francisco, April 18, 1906" -->
+At 5:12 a.m. on April 18, 1906, an earthquake of about magnitude 7.9 on the San Andreas Fault shook San Francisco for about 42 seconds. Broken gas pipes started more than 30 fires. The fires burned for three days. Firefighters and soldiers used dynamite to blow up buildings in the fire's path, and some of the blasts started new fires. Between 80 and 95 percent of the destruction came from the fires. More than 80 percent of the city was destroyed, and between 227,000 and 300,000 people lost their homes.
+
+The first counts of the dead ran from 375 to more than 500. Hundreds of deaths in Chinatown were never recorded. In 2005 the members of the city's Board of Supervisors voted to accept more than 3,000 as the official count, based on the research of the city historian Gladys Hansen. Mayor Eugene Schmitz ordered soldiers and police to "kill any and all persons found engaged in Looting." The records do not say how many people they killed. There were also reports that soldiers themselves looted.
+
+About 15,000 Chinese people lived in Chinatown, and they lost nearly everything. City officials wanted to move Chinatown out of the center of the city. Army officers put the Chinese survivors in separate camps and moved them farther and farther away. The plan to move Chinatown failed, and Chinese residents rebuilt it in the same place.
+- Shared with: `immigration` (Chinese exclusion and the records burned in the fire) · `city-building` (the rebuilt city).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="hugh-kwong-liang" name="Hugh Kwong Liang" movie="" kind="ordinary" status="verified" -->
+### Hugh Kwong Liang
+> **Who:** a 15-year-old in San Francisco's Chinatown who lived through the 1906 earthquake and fire and was sent to a segregated camp. · **When and where:** San Francisco, April 1906.
+- He was 15. He is one of the few Chinese survivors whose own account of the earthquake has survived.
+- He woke to see "pieces of plaster falling down like water." As he ran into Washington Street, the building across from his home fell down.
+- As the fire spread, city officials directing the survivors told him and his family to go to the open ground of the Presidio, the Army post by the Golden Gate. He remembered: "I turned away from my dear old Chinatown for the last time."
+- Army officers moved the Chinese survivors to a cold, windy corner of the Presidio near Fort Point, apart from everyone else.
+<!-- hb-story:end slug="hugh-kwong-liang" -->
+<!-- hb-zoom level="span" label="The Triangle fire, March 25, 1911" -->
+Just before quitting time on March 25, 1911, a fire started on the eighth floor of the Triangle Waist Company, a clothing factory on the top three floors of the Asch Building in New York City. Most of the workers were young immigrant women. The fire killed 146 workers. On the ninth floor, the door to the Washington Place stairs was locked. Workers testified that the owners, Max Blanck and Isaac Harris, kept it locked so workers could not leave with stolen blouses. The only fire escape collapsed. Many workers jumped from the windows and died on the sidewalk. Law students at New York University put ladders across to the roof of the building and saved workers who had climbed there from the tenth floor.
+
+Blanck and Harris were tried for manslaughter, the crime of killing a person without meaning to, by carelessness. A jury found them not guilty on December 27, 1911. One juror said he believed the door was locked, but the jury could not be sure the owners knew it. In 1914, 23 families who had sued the building's owner settled for an average of 75 dollars for each life. New York lawmakers created a Factory Investigating Commission and passed new factory safety laws.
+- Shared with: `work-workers` (**lead**: the workers, the unions and the safety laws, story `rose-freedman`).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="kate-alterman" name="Kate Alterman" movie="" kind="ordinary" status="verified" -->
+### Kate Alterman
+> **Who:** a sewing-machine worker who escaped the Triangle fire and told the jury how her friend Margaret Schwartz died at the locked door. · **When and where:** New York City, March 25, 1911, and the trial in December 1911.
+- She had come from Philadelphia, where she lived for nine years, and had worked at the Triangle factory for four months.
+- When the fire reached the ninth floor, she and her friend Margaret Schwartz ran to the Washington Place door. The manager's brother tried it and could not open it. Kate pulled the handle "in and out, all ways," and it would not open. Margaret tried next.
+- Smoke covered them. Kate saw Margaret kneel at the door, and saw her dress and hair begin to burn. Margaret screamed, "Open the door! Fire! I am lost, there is fire!"
+- Kate turned her fur coat inside out, put it over her head, covered her head with dresses and ran out through the Greene Street door, which was burning.
+- At the trial, the owners' lawyer, Max Steuer, made her tell her story again and again. Because she used almost the same words each time, he suggested to the jury that she had memorized it. She answered that she told it the same way "because he asked me the very same story over and over."
+<!-- hb-story:end slug="kate-alterman" -->
+<!-- hb-zoom level="span" label="Ships: the Titanic, 1912, and the Eastland, 1915" -->
+The British liner *Titanic* hit an iceberg and sank in the North Atlantic on April 15, 1912, on its way to New York. More than 1,500 people died. The ship did not carry enough lifeboats for everyone on board, though it met British rules. Senator William Alden Smith of Michigan led a U.S. Senate investigation that began in New York on April 19. The senators on his committee blamed the captain's "indifference to danger" and the British officials who wrote the lifeboat rules. They recommended enough lifeboats for everyone on board and radio operators on duty day and night. In March 1915 members of Congress passed the Seamen's Act, which required more lifeboats on American ships.
+
+On July 24, 1915, the Great Lakes passenger ship *Eastland* rolled onto its side while tied to a dock in the Chicago River. It was carrying about 2,500 workers of the Western Electric Company and their families to a company picnic. The ship had long been known to be top-heavy, and its owners had added lifeboats under the new law. The river there was only 20 feet deep, but 844 people died. Many were immigrants from Czech lands, Poland, Norway and other countries. A grand jury charged six officers of the steamship company, the captain and the engineer. A federal judge refused to send them to Illinois for trial, saying there was "barely a scintilla of proof," so they never stood trial there.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Mississippi flood of 1927 and the Okeechobee hurricane of 1928" -->
+In the spring of 1927 the Mississippi River broke through its levees, the earth walls along its banks, in at least 145 places. Water covered 27,000 square miles, up to 30 feet deep. About 500 people died, and about 637,000 had to leave their homes. On April 29 a group of New Orleans bankers had 30 tons of dynamite set off at the levee at Caernarvon, Louisiana, to protect their city. The water flooded St. Bernard and Plaquemines parishes. Other levees upstream broke on their own, so the blast was not needed, and the New Orleans businessmen never paid the people whose homes they flooded.
+
+About 325,000 people lived in Red Cross camps, and 69 percent of them were Black. Near Greenville, Mississippi, more than 13,000 people were left for days on top of the levee without food or clean water. Local white leaders ran many of the camps. Supplies and boats went to white people first, and Black people got what was left. Black people got supplies only if they named a white employer, were forced to work and were not allowed to leave. Herbert Hoover, the Secretary of Commerce, led the federal relief. A group of Black leaders headed by Robert Moton reported on the camps, and Hoover kept their reports out of the newspapers. After the flood, members of Congress passed the Flood Control Act of 1928, and Army engineers built the world's longest system of levees.
+
+Early on September 17, 1928, a hurricane that had already killed 312 people in Puerto Rico came ashore near West Palm Beach, Florida. The wind pushed the water of Lake Okeechobee over the low dike at its south end, and floods up to 20 feet deep covered the farm towns of Belle Glade, Pahokee, Chosen and South Bay. At least 2,500 people died in the United States. For many years the official count was the Red Cross's 1,836. About three quarters of the dead were migrant farm workers, most of them Black. Officials saved the few coffins for white victims, who were buried with a service in a grave at Woodlawn Cemetery in West Palm Beach. The bodies of Black victims were burned or thrown into mass graves, and 1,600 were buried in one grave at Port Mayaca. Robert Hazard of West Palm Beach started a group to win recognition for the Black victims. The city got the West Palm Beach grave site back in 2000, and a state marker was put up there in 2003.
+- Shared with: `migration` (the Great Migration north after 1927) · `rights-movements`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Dams, gas and dust: 1928 to 1937" -->
+Just before midnight on March 12, 1928, the St. Francis Dam in northern Los Angeles County collapsed, two years after it was built. William Mulholland, the city's chief water engineer, had inspected a new leak that morning and judged it safe. The flood killed at least 431 people as it ran 54 miles to the ocean, among them 84 workers of the Southern California Edison company at a construction camp by the river. A coroner's jury found in April 1928 that the collapse came from "an error in engineering judgment" by Mulholland's Bureau of Water Works and Supply. The jurors found no crime and said a great dam should never be left "to the sole judgment of one man." The failure ended Mulholland's career.
+
+On April 14, 1935, a wall of dust from the plowed-up southern Great Plains struck the Oklahoma and Texas panhandles with winds up to 60 miles an hour. For a time the darkness was so complete that people could not see their own hands. The day is called Black Sunday. The next day, an Associated Press reporter, Robert Geiger, used the words "dust bowl" in a news story.
+
+At 3:17 p.m. on March 18, 1937, a school building in New London, Texas, exploded. To save money, the school board had plumbers tap into a pipe of waste gas from a nearby oil company, the Parade Gasoline Company. Natural gas has no smell, and it leaked unnoticed into the space under the building. A spark from an electric sander in a shop class set it off. About 500 students and 40 teachers were in the building. About 298 died by the Texas State Historical Association's count, and other counts run from 294 to more than 400. Most of the dead were children. Courts found no one legally responsible. Texas lawmakers then required gas companies to add a chemical with a strong smell to natural gas, so people can smell a leak.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Hindenburg, 1937, and the Cocoanut Grove, 1942" -->
+On May 6, 1937, the German airship *Hindenburg* caught fire as it came in to land at the Naval Air Station at Lakehurst, New Jersey. It was filled with hydrogen, a gas that burns easily. Of the 97 people on board, 35 died, and one man working on the ground, Allen Hagaman, died too. Newsreel cameras filmed the fire, and the radio reporter Herbert Morrison recorded what he saw. The cause of the spark has never been settled. Travel by giant passenger airship ended after the fire.
+
+On November 28, 1942, a fire spread through the Cocoanut Grove nightclub in Boston. More than 1,000 people were inside a club rated for 460. The owner, Barnett Welansky, had locked exit doors and hidden others behind curtains. The main door was a revolving door, and people piled up behind it. Other doors opened inward, and the crowd pressed them shut. Fire officials later said that at least 300 lives could have been saved if the doors had swung outward. The fire killed 492 people. Welansky was convicted of manslaughter and spent nearly four years in prison. New laws banned flammable decorations and locked exits, and required exits other than revolving doors.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Explosions at the docks: Port Chicago, 1944, and Texas City, 1947" -->
+On July 17, 1944, two ships being loaded with ammunition blew up at the Port Chicago Naval Magazine in California. The explosion killed 320 men, 202 of them Black sailors, whom Navy officers had assigned to load the ships without proper training.
+
+On the morning of April 16, 1947, a fire broke out in the cargo of the French ship *Grandcamp* at the docks of Texas City, Texas. The ship carried about 2,300 tons of ammonium nitrate, a fertilizer that can explode. The captain ordered his crew not to use water, so the cargo would not be spoiled, and a crowd gathered on the shore to watch the orange smoke. At 9:12 a.m. the ship exploded. The blast set off fires and explosions in chemical plants and oil tanks, and a second ship, the *High Flyer*, exploded early the next morning. At least 581 people died, among them 26 or more of the town's volunteer firefighters. The monument in Texas City lists 576 known dead, 63 of them buried without names. More than 8,000 survivors sued the federal government, under a new law that let people sue it for carelessness. The justices of the Supreme Court ruled against them, 4 to 3, in 1953. In 1955 members of Congress voted to pay the claims, and 1,394 awards were paid.
+- Shared with: `war` (**lead** on Port Chicago: the refusal and the mutiny trial) · `rights-movements`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Shared with other chapters" -->
+- Mine and work disasters: the Monongah mine explosions in West Virginia (December 6, 1907, 362 dead by the official count, more than 500 by later estimates) and the Hawks Nest tunnel (1930 to 1932, between 109 and about 1,000 dead of silicosis by different counts) are told in `energy` and `work-workers`.
+- The Quebec Bridge collapse in Canada (August 29, 1907, 75 or 76 workers killed, 33 of them Mohawk ironworkers from Kahnawake): `landmarks`.
+- The Big Burn wildfire of 1910 in the Northern Rockies: `land-environment`.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="disasters" label="1950 to 2000" state="full" progress="seed" -->
