@@ -2571,7 +2571,17 @@ RESULT: DONE. PASS transportation / patch and / research. stories 17 -> 19 (v19 
 USAGE END (T-248): 16% (Jon). 9% -> 16% (includes director close and T-249 prep, marked +).
 
 ### 2026-09-27 | [LOCAL] T-249 | landmarks: patch (2 targets) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-249-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage patch (and --stage research)
 USAGE AT START: 16% (Jon).
+RESULT: DONE. PASS landmarks / patch and / research. stories 17 (v17 c0 t0), bank 5,060 -> 12,261w, outline
+        4,653 -> 5,726w, validator 0. 294,099 tokens, 153 tool uses, 18.0 min (opus).
+        Stories: Glenna Wallace (Eastern Shawnee chief, Octagon Earthworks, retired Sept 2026), John Collins
+        ("Juan Calens", English prisoner, Castillo mason 19+ years; NPS 1942 and 1993). Older stories checked, gaps
+        sourced. Bank check: Capitol payrolls (385 payments of $60/yr to owners incl. Thornton, Hoban), Black Hills
+        actors (Custer 1874, 1876 ration cutoff, 1877 Act), Castillo forced Guale/Timucua/Apalache labor, St. Louis
+        mounds destroyed (1869, 1904), Brooklyn Bridge 21/27/up to 40 dead, Quebec Bridge 75-76 (33 Kahnawake),
+        Taft and Moton, EJI memorial, SPLC 2025 (2,086 standing, 415 removed), Pike reinstalled Oct 2025.
+        SEARCHED NOT FOUND: 4. Unsourced outline claims flagged in the bank: 4. The agent also removed an outline
+        line that spoke about the book itself ("the book does not invent people"): a fourth-wall break.

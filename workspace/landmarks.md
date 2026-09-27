@@ -106,6 +106,13 @@ Companion files: outline `outlines/landmarks.md` · research bank `research/rese
 - `research/research-work-workers.md` — Hine's *Men at Work*; ESB death count; Golden Gate net/Halfway to Hell Club; Hoover CO dispute; Kahnawake ironworkers as a trade.
 - `research/research-disasters.md` — Golden Gate scaffold collapse Feb 17, 1937 (10 dead); Quebec Bridge collapse 1907 (33 Kahnawake men).
 
+## T-249 patch (2026-09-27)
+- Story slots filled: `glenna-wallace` (era 1, Octagon Earthworks) and `john-collins-castillo` (era 3, English prisoner mason, NPS Manucy 1942 and Handbook 149). Both verified in the bank.
+- Disputes added: Wallace's golf-course visit 2007 (Smithsonian magazine) vs 2009 (Wikipedia); Hopewell span A.D. 1-400 vs 200 BCE-500 CE; Castillo finish 1695 (NPS 1993) vs 1696 (NPS 1942); Native wage 1 real = 12.5 cents (1942) vs 20 cents (1993); Brooklyn Bridge deaths 21 / 27 / up to 40; Quebec Bridge dead 75 vs 76; Freedom Monument 43 vs 50 feet.
+- Outline claims flagged unsourced in the bank (writers drop or reword): Monticello "half-built for most of his life"; Bartholdi "lived to see the statue lit"; Borglum at Stone Mountain "1915"; Lincoln Memorial "speech vetted" (really: Taft told Moton to cut 500 words).
+- Not added (outside angle or natural feature): Devils Tower/Bear Lodge (a natural formation, not a built structure).
+- Nothing parked in other banks this pass. Cross-references only: `native-nations` (Black Hills actors now also here), `crime-justice` (lynching victims), `slavery-freedom` (1687 freedom seekers, Fort Mose).
+
 ## Open questions for the director
 1. **Monument-removal depth:** the outline states the removals plainly with labeled counts (SPLC 168 in 2020; Richmond Lee 2021) and points the "what are monuments for" argument at the `how-we-know` afterword. Right balance, or should this chapter carry more of the argument itself?
 2. **Ellis/Angel Island**: treated as buildings-and-rescue only (1965/1990/1997/2009), per the keep-out. Confirm `immigration` doesn't also want the restoration story.

@@ -25,12 +25,19 @@ The oldest built landmarks in the country are Native, and some are enormous. Cen
 <!-- hb-zoom level="span" label="Stone buildings of the Southwest" -->
 - Chaco Canyon great houses (New Mexico, c. 850–1150): Pueblo Bonito rose four stories and held some 600–650 rooms.
 - Mesa Verde's Cliff Palace (Colorado, c. 1190–1280): about 150 rooms and 23 kivas built under a cliff overhang.
-- No individual builder's name survives from any of these places; the book does not invent people.
+- No individual builder's name survives from any of these places. Their descendants include the Hopi, the Zuni and the Pueblos of New Mexico. The National Park Service lists 26 tribes with ties to Mesa Verde.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="tribal-preservation-officer" name="(target) a tribal preservation officer at a mound or great-house site" movie="" kind="ordinary" status="target" -->
-### (target) a tribal preservation officer
-Research target — the honest Zoom 3 for this era is a documented modern descendant or tribal historic preservation officer who cares for one of these sites today (Native continuity to the present).
-<!-- hb-story:end slug="tribal-preservation-officer" -->
+<!-- hb-zoom level="span" label="The Hopewell earthworks of Ohio" -->
+- Between about A.D. 1 and 400, people in southern Ohio built huge walls of earth in circles, squares and octagons. Archaeologists call them the Hopewell culture. That is not the name of any nation. Sources give the span as about A.D. 1 to 400 (Smithsonian) or 200 BCE to 500 CE (WVXU).
+- The Octagon Earthworks in Newark is a large circle joined to an eight-sided wall of earth, enclosing nearly 70 acres. Moonrise lines up with its walls on a cycle of 18.6 years.
+- In 1910 the Moundbuilders Country Club began leasing the Octagon for a golf course. The Ohio Historical Society (now the Ohio History Connection) bought the land in 1933 and kept renting it to the club.
+- On September 19, 2023, the UNESCO World Heritage Committee added eight Hopewell sites, the Octagon among them, to the World Heritage List. Shared with: `native-nations` (the Shawnee removal) · `religion` (what the earthworks were for).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="glenna-wallace" name="Glenna Wallace" movie="" kind="ordinary" status="verified" -->
+### Glenna Wallace
+> **Who:** chief of the Eastern Shawnee Tribe of Oklahoma from 2006 to 2026, the first woman to hold the job. · **When and where:** the Octagon Earthworks, Newark, Ohio, from the late 2000s to 2025.
+The Eastern Shawnee once lived in western Ohio. In 1830 members of Congress passed the Indian Removal Act. The next year Eastern Shawnee leaders signed away their Ohio land for land in Indian Territory, now Oklahoma. According to the Ohio History Connection, the people were forced to walk west, and more than 15 percent of them died on the way. In the late 2000s Glenna Wallace, a college teacher who had become her tribe's chief, visited the Octagon Earthworks. A golfer there shouted at her, "Out of the way! You don't belong here!" She set out to get the golf course off the earthworks and to win World Heritage status for them. In 2022 the Ohio Supreme Court ruled 5 to 1 that the Ohio History Connection could end the club's lease. The golf course closed at the end of 2024, and the Octagon opened to the public on January 1, 2025. Wallace gave the main speech in Riyadh, Saudi Arabia, when UNESCO listed the earthworks in 2023.
+<!-- hb-story:end slug="glenna-wallace" -->
 <!-- hb-time:end id="before-1500" -->
 
 <!-- hb-time:start id="1500s" order="02" chapter="landmarks" label="The 1500s" state="thin" progress="researched" -->
@@ -56,10 +63,16 @@ Castillo de San Marcos, St. Augustine — begun October 1672, finished 1695; the
 - Old Ship Meetinghouse, Hingham, Massachusetts, 1681: the only surviving 17th-century Puritan meetinghouse, and the oldest church building in continuous use in the U.S. Its timber roof frame looked to the congregation like a ship's hull turned upside down.
 - The Palace of the Governors in Santa Fe (c. 1610) is `city-building`'s story.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="castillo-builder" name="(target) a laborer who built the Castillo" movie="" kind="ordinary" status="target" -->
-### (target) a laborer who built the Castillo
-Research target — Spanish records document the Castillo's 23-year workforce (Spanish, conscripted, and Native workers) collectively; a documented named individual has not yet been verified.
-<!-- hb-story:end slug="castillo-builder" -->
+<!-- hb-zoom level="span" label="Who cut the stone" -->
+- Spanish officials drafted Guale, Timucua and Apalache men from their towns to quarry and haul the stone. Some walked about 200 miles to St. Augustine. The historian of the fort for the National Park Service wrote that many "served unwillingly." Officials held men past their terms, and one chief worked on the fort for more than three years without once going home. They were paid 1 real a day plus corn. The histories written from the payrolls do not give these men's names.
+- Governors also used convicts, a few Spanish laborers, and enslaved Black men owned by the Spanish king. Eighteen of these royal slaves joined the work in 1687. That year eleven people escaped slavery in Carolina and reached St. Augustine: eight men, two women and a nursing baby. Governor Diego Quiroga gave them shelter and hired the men as paid workers on the fort.
+- Governor Manuel de Cendoya broke ground on October 2, 1672, after English pirates raided the town in 1668 and killed more than 50 Spaniards. The fort cost close to 100,000 pesos by 1696.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="john-collins-castillo" name="John Collins" movie="" kind="ordinary" status="verified" -->
+### John Collins
+> **Who:** an English prisoner who burned lime and quarried stone for the Castillo de San Marcos. · **When and where:** St. Augustine, Florida, from 1670 for 19 years or more.
+In 1670 John Collins came from the new English colony at Charleston, Carolina, to carry a message to a Spanish mission near the Savannah River. The Spanish seized him and sent him to St. Augustine as a prisoner. Collins was a mason, and Governor Manuel de Cendoya put him to work on the new stone fort. The Spanish payroll wrote his name as Juan Calens. He could burn more oyster shells into lime in a week than Spanish workers could in two. Lime was the main part of the mortar that held the coquina blocks together. As a prisoner he was paid 8 reales a day, not the 20 a master worker earned. Collins rose from master of the lime kilns to master of the quarry. Later he ran the boats, the food stores and the convict workers, and he became the pilot who guided ships between St. Augustine and Charleston. The Spanish king recognized his work after 19 or more years at the fort.
+<!-- hb-story:end slug="john-collins-castillo" -->
 <!-- hb-time:end id="1600s" -->
 
 <!-- hb-time:start id="1700-1750" order="04" chapter="landmarks" label="1700 to 1750" state="full" progress="researched" -->
@@ -155,6 +168,10 @@ France gave the statue; America had to build the pedestal. Bartholdi's completed
 > **Who:** French sculptor of the Statue of Liberty. · **When and where:** Paris workshops, 1870s–1884; New York Harbor, dedicated October 28, 1886.
 Bartholdi spent over 15 years on one statue: sketching the harbor figure by 1870, scaling plaster models up stage by stage, shipping the finished statue to New York in 350 pieces packed in 214 crates. He toured America selling the idea, put the torch arm in a Philadelphia fairground and the head at a Paris fair, and lived to see the statue lit in the harbor.
 <!-- hb-story:end slug="frederic-auguste-bartholdi" -->
+<!-- hb-zoom level="span" label="Mounds leveled for fill" -->
+- St. Louis was called the Mound City because it was built among about 40 Native mounds, made between A.D. 600 and 1300. Builders dug most of them away for dirt. The largest, Big Mound, was gone by 1869, and its earth went to the North Missouri Railroad for track beds. Workers found 32 burials inside it. Before the 1904 World's Fair, 16 more mounds in Forest Park were destroyed.
+- One mound is left in the city, Sugarloaf Mound. Someone built a house on top of it in 1928. The Osage Nation bought part of it in 2009, tore the house down in 2017, and got the rest back in 2025. Shared with: `city-building` (St. Louis) · `native-nations`.
+<!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="What else the era built" -->
 Biltmore House, Asheville (1889–1895): George W. Vanderbilt's 250-room house, about 179,000 square feet — still the largest privately owned house in the country. The first steel-frame tall office buildings rose in Chicago from 1885 — as a change in how cities grew, they are `city-building`'s story. Yellowstone became the first national park in 1872 — parks as land policy are `land-environment`'s.
 <!-- /hb-zoom -->
@@ -254,5 +271,10 @@ The Martin Luther King, Jr. Memorial was dedicated October 16, 2011 — the firs
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Monuments coming down — ongoing history" -->
 After the Charleston church murders (2015), the deadly Charlottesville rally held around a Lee statue (2017), and the George Floyd protests (2020), hundreds of Confederate monuments were removed — the Southern Poverty Law Center (an advocacy group's count, labeled as such) tallied at least 168 Confederate symbols removed in 2020 alone; Richmond's giant Robert E. Lee statue came down September 8, 2021 (news accounts: Washington Post, AP). Hundreds still stand, and the argument continues — what monuments are for is the `how-we-know` afterword's question. Also in these years: the Gateway Arch grounds became Gateway Arch National Park (2018), and Angel Island's poem-carved barracks — National Historic Landmark since 1997 — finished restoration in 2009.
+- Members of the United Daughters of the Confederacy put up hundreds of these statues at courthouses and other public places. The Southern Poverty Law Center (SPLC), an advocacy group, found two waves of Confederate dedications: one starting about 1900, while Southern states passed segregation laws, and one from the early 1950s through the 1960s, during the civil rights movement. In April 2025 the SPLC counted 2,086 Confederate memorials still standing in public places, 685 of them monuments, and 415 removed, moved or renamed since 2015.
+- Some came back. In October 2025 National Park Service workers put the statue of the Confederate general Albert Pike back up in Washington. Protesters had pulled it down and set it on fire in June 2020. In August 2025 Defense Secretary Pete Hegseth announced that the Confederate Memorial at Arlington National Cemetery, removed in December 2023, would return in 2027 after about $10 million of repairs.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Memorials to lynching and slavery" -->
+The National Memorial for Peace and Justice opened in Montgomery, Alabama, on April 26, 2018. Lawyer Bryan Stevenson and his Equal Justice Initiative built it. Lynching is a killing by a mob, without a trial. The memorial holds 805 steel blocks, one for each county where the group documented a lynching, hanging from above. The group counted almost 4,400 Black people lynched from 1877 to 1950. In 2024 the same group opened the Freedom Monument Sculpture Park nearby. Its monument lists 122,000 family names that formerly enslaved people recorded in the 1870 census. Shared with: `crime-justice` (the lynchings) · `slavery-freedom`.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

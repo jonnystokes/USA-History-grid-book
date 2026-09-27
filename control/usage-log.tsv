@@ -160,3 +160,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-247	research	general-purpose/opus	[LOCAL] energy patch + bank check (KILLED: Jon app restart)	0	3	3+	?	?	?	?	killed	landed 1 bank PATCH (Chadbourne); ~50 URLs salvaged into checkpoint
 2026-09-27	T-247b	research	general-purpose/opus	[LOCAL] energy patch + bank check (continuation after app restart)	3	9	6+	318226	162	1086831	?	completed	PASS patch+research; bank +6079w; parked to work-workers+disasters
 2026-09-27	T-248	research	general-purpose/opus	[LOCAL] transportation patch (1 target) + bank check + verified-story audit	9	16	7+	424869	194	1501808	?	completed	PASS patch+research; bank +8300w; 2 new stories; 3 searched-not-found; pip-installed pypdf unasked
+2026-09-27	T-249	research	general-purpose/opus	[LOCAL] landmarks patch (2 targets) + bank check + verified-story audit	16	?	?	294099	153	1077393	?	completed	PASS patch+research; bank +7201w; 4 searched-not-found
