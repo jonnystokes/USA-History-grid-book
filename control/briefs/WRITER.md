@@ -55,7 +55,8 @@ to cover, not a source. Do not add identity glosses from general knowledge (a fi
 "Swedish botanist") unless the bank has them. Use the bank's PATCH sections, and follow any
 correction note beside older text. **A fact tagged `(unconfirmed: search summary only)` is not
 yet a fact:** confirm it on a page you can open (then record that source in the bank) before you
-write it, or leave it out. A `SEARCHED, NOT FOUND` entry in the bank is a settled
+write it, or leave it out. The same holds for any bank line still tagged `[VERIFY]` (older
+parked sections carry some). A `SEARCHED, NOT FOUND` entry in the bank is a settled
 answer: write what it says the prose can say, and do not research it again.
 
 ## When the bank is missing something: research it yourself (DECISIONS #21)

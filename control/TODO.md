@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-246 `technology` IN FLIGHT.** Stop when it finishes (Jon measures usage per agent).
+**T-246 done, stopped for Jon's usage reading.** Nothing in flight. Next: T-247 `energy`.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
@@ -33,7 +33,7 @@ Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each t
 ### 1a. Patch the RESEARCHED* chapters (mode `patch`)
 - [x] T-244 `migration` (PASS research, 241k tokens, 11 min)
 - [x] T-245 `home-family` (PASS research, 333k tokens, 21 min)
-- [ ] T-246 `technology`
+- [x] T-246 `technology` (PASS research, 315k tokens, 16 min)
 - [ ] T-247 `energy`
 - [ ] T-248 `transportation`
 - [ ] T-249 `landmarks`

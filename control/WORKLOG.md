@@ -2507,7 +2507,16 @@ RESULT: DONE. PASS home-family / patch and / research. stories 16 (v16 c0 t0), b
         SEARCHED NOT FOUND: 2. Unconfirmed (search summary only) tags: 8. Not done: frontier-cabin nations.
 
 ### 2026-09-26 | [LOCAL] T-246 | technology: patch (1 candidate, 3 targets) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-246-technology.md
 VERIFY: python tools/project_state.py --check technology --stage patch (and --stage research)
 USAGE AT START: 14% (Jon). T-245 read 7% -> 14% (includes director work, marked +).
+RESULT: DONE (2026-09-27). PASS technology / patch and / research. stories 23 (v23 c0 t0), bank 5,783 -> 12,098w,
+        outline 3,597 -> 5,360w, validator 0. 315,496 tokens, 146 tool uses, 16.0 min (opus).
+        Stories: Wayne Valliere (Ojibwe canoe builder), Joseph Jenks (Saugus, 1646 patent), Lee Felsenstein, Karla
+        Ortiz (AI, 2023 Senate testimony). Bank check: Falling Creek workers and 27 dead, "first ironworks" dispute
+        recorded, Baltimore Iron Works enslaved workers (Anthony), gin credit/injuries/profit/removals, Slater's
+        child workers, Jo Anderson and the reaper, Ned and the 1858 patent ruling, 1913 industrial deaths,
+        Robert Williams' false face-recognition arrest, Pew 2025-26 and Aug 2026 AI job-cut figures.
+        SEARCHED NOT FOUND: 1 (Andersen v. Stability AI verdict; trial date disputed). Nothing parked elsewhere.
+        4 [VERIFY] tags left in an old parked bank section -> WRITER brief now says [VERIFY] bank lines are not facts.

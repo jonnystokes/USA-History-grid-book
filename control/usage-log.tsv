@@ -156,3 +156,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-243e	research+fix	general-purpose	[CLOUD] economy blocking gaps (KILLED before first commit)	?	?	?	?	?	?	?	killed	nothing landed
 2026-09-26	T-244	research	general-purpose/opus	[LOCAL] migration patch (1 target) + bank check, eras 1-10	?	?	?	240774	107	679255	?	completed	first local agent; PASS patch+research; bank +4618w; 2 searched-not-found
 2026-09-26	T-245	research	general-purpose/opus	[LOCAL] home-family patch (2 cand, 4 targets, kitchen thread) + bank check	7	14	7+	332647	153	1276728	?	completed	PASS patch+research; bank +6656w; parked to technology+energy; 2 searched-not-found; 8 unconfirmed tags
+2026-09-27	T-246	research	general-purpose/opus	[LOCAL] technology patch (1 cand, 3 targets) + bank check	14	?	?	315496	146	961675	?	completed	PASS patch+research; bank +6315w; 1 searched-not-found

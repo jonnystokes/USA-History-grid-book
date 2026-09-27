@@ -46,8 +46,8 @@ Also featured famous: Samuel Slater, Lewis Latimer, Granville T. Woods, Ernest L
 ## Featured people (final)
 - **famous, verified:** Franklin · Whitney · Slater · Morse · McCormick & Deere · Bell · Edison · Latimer · Woods · Tesla · Wrights · Ford · Lawrence · Hopper · Jobs & Wozniak · Cooper.
 - **ordinary, verified:** Emma Nutt (first woman telephone operator, 1878) · the six ENIAC programmers (1945–46; Movie: The Computers (2014)) · Limor Fried (Adafruit, 2005–).
-- **ordinary, candidate:** Lee Felsenstein (Homebrew moderator; firm up from CHM oral history).
-- **targets (open):** a present-day traditional-technique practitioner (before 1500) · a named Saugus ironworker (1600s) · a worker whose job the smartphone/AI changed (2000–today).
+- **ordinary, verified (T-246, 2026-09-26):** Wayne Valliere (Ojibwe birchbark canoe builder, NEA 2020; before 1500 slot) · Joseph Jenks (Saugus blacksmith, 1646 machine patent; 1600s) · Lee Felsenstein (Homebrew moderator, Community Memory, Sol-20, Osborne 1) · Karla Ortiz (illustrator, 2023 Senate testimony on AI; 2000-today).
+- **targets:** none open.
 
 ## [VERIFY] queue
 **Cleared 2026-08-08.** Resolutions (details + sources in the bank):
