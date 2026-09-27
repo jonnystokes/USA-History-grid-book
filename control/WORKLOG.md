@@ -2857,3 +2857,8 @@ VERIFY: python tools/project_state.py --check disasters --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+
+### 2026-09-27 | [LOCAL] T-266r | drugs-alcohol: continue full research eras 1-5 [BURST of 5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
