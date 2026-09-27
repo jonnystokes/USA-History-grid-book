@@ -3,7 +3,7 @@
 # Chapter 26: Health, Disease, and Medicine
 
 <!-- hb-note -->
-**Status:** PARTIAL. Eras 01-05 RESEARCHED 2026-09-27 (T-263a, T-263r). Eras 06-08 RESEARCHED 2026-09-27 (T-263b). Eras 09-10 still seed (T-263c). *(agent changes to: RESEARCHED <date>)*
+**Status:** RESEARCHED 2026-09-27. Eras 01-05 T-263a and T-263r, eras 06-08 T-263b, eras 09-10 T-263c. Era 01 has no story block: no named person exists in the record.
 **Angle:** Illness and healing — epidemics, doctors, hospitals, medical advances, **and public health as policy**.
 **Keep out:** general science (`science`); sudden calamities (`disasters`)
 **Workspace:** `workspace/health.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -492,38 +492,186 @@ Shared with: food-farming (pellagra) · work-workers (Hawks Nest) · america-wor
 <!-- hb-story:end slug="clara-maass" -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="health" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="health" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Vaccines, transplants, and scans change what medicine can do, and paying for it becomes a permanent political argument.
+Polio paralysed more than 21,000 Americans in 1952, most of them children. A vaccine tested on about 1.8 million children was announced in 1955, and the last polio case caught inside the United States came in 1979. In 1965 President Lyndon Johnson signed Medicare, health insurance for people 65 and older, and Medicaid, for people with little money. Reporters exposed the Tuskegee study in 1972, and federal health officials ended it that November. In the 1970s doctors in federally paid clinics and in the Indian Health Service sterilized poor Black and Native women and girls without their real consent. In 1981 doctors reported the first cases of AIDS. By the end of 2000, 448,060 Americans had died of it.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Polio, Medicare, and AIDS" -->
-The polio vaccine, 1955, and the mass trials that tested it; Medicare and Medicaid, 1965 [VERIFY]; heart surgery and cancer treatment; technetium-99m imaging; HIV/AIDS from 1981 and the response to it; the Indian Health Service (**Native continuity past 1900**).
+<!-- hb-zoom level="span" label="The polio vaccine, 1952 to 1979" -->
+- Polio is caused by a virus. Fewer than 1 in 100 children who catch it are paralysed, but in 1952 doctors in the United States reported more than 21,000 paralysed people. When polio paralyses the muscles used for breathing, the person needs a machine to breathe. The iron lung was a metal tube about seven feet long. The patient lay inside with only the head outside, and bellows changed the air pressure to pull air into the lungs.
+- Jonas Salk of the University of Pittsburgh made a vaccine from polio virus that had been killed. Money for his work came from the National Foundation for Infantile Paralysis, a charity that raised it in dimes and dollars.
+- Dr. Thomas Francis Jr. of the University of Michigan ran the test in 1954. About 1.8 million children in the United States, Canada and Finland took part. From 26 April to 10 July 1954, more than 443,000 children got at least one shot of vaccine and more than 210,000 got a placebo, a shot with no medicine in it. Neither the child nor the nurse knew which one it was. The children were called Polio Pioneers, and their parents signed permission forms.
+- On 12 April 1955 Francis announced in Ann Arbor that the vaccine was 80 to 90 percent effective. Federal officials licensed it the same year. Asked who owned the patent, Salk said, "Could you patent the sun?"
+- That April, Cutter Laboratories in California made 120,000 doses that still held live virus. About 40,000 children got a mild form of polio. Fifty-six were paralysed and five died. The children then passed the virus on, and 113 more people were paralysed and 5 more died. At a hearing in June 1955, members of Congress blamed the federal laboratory that was supposed to check the vaccine.
+- Albert Sabin's vaccine, taken by mouth, was licensed from 1961 to 1963. The last case of polio caught inside the United States was in 1979.
+- Between 15 and 40 years after they got sick, 25 to 40 of every 100 people paralysed by polio as children get new muscle pain and new weakness. This is called post-polio syndrome.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Indian Health Service, 1954 to 1976" -->
+- In 1954 President Dwight Eisenhower signed the Indian Health Transfer Act. Under it, the Public Health Service took over health care for Native people from the Bureau of Indian Affairs, inside a new Indian Health Service. Health care for Alaska Natives moved over in 1955, and Indian Health Service staff led the work against tuberculosis.
+- A 1954 report for the Interior Department by Dr. Thomas Parran found that Alaska Natives suffered "sickness, crippling conditions and premature deaths to a degree exceeded in very few parts of the world."
+- Under a 1959 law, Public Health Service workers could bring clean water and sewers to reservations. Tribes helped choose and build them.
+- In 1976 President Gerald Ford signed the Indian Health Care Improvement Act. Under it, the Indian Health Service could bill Medicare and Medicaid.
+Shared with: native-nations (the nations and their government).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="New operations and new pictures of the body, 1954 to 1963" -->
+- On 23 December 1954 Dr. Joseph Murray moved a healthy kidney from Ronald Herrick into his identical twin brother Richard at a Boston hospital. Richard was dying of kidney disease. The body attacks an organ from almost anyone else. Because the twins were identical, Richard's body accepted it. He lived eight more years, married and had two children.
+- In 1958 scientists at Brookhaven National Laboratory in New York built the first machine to make technetium-99m, a radioactive chemical. A doctor injects a tiny amount. It gives off rays that a camera outside the body picks up, to make pictures of bones, the heart and other organs. Doctors first reported scans with it in 1963. Today doctors around the world use it in tens of millions of scans a year.
+Shared with: elements (technetium).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fallout on Rongelap, 1954" -->
+- On 1 March 1954 United States scientists set off a hydrogen bomb called Castle Bravo at Bikini Atoll in the Marshall Islands. It was nearly three times as strong as they expected. Fallout, radioactive dust and ash, came down on Rongelap, about 110 miles away. It looked like snow, and children played in it. Officials moved more than 230 people off Rongelap, Rongerik and Utirik. Twenty-three Japanese fishermen on the boat *Lucky Dragon* got sick, and one died. The Rongelap and Utirik people were moved about 72 hours after the blast. Radioactive iodine from the fallout collected in their thyroid glands, which sit in the neck. In the years after, doctors found more thyroid lumps and thyroid cancers among them. Atomic Energy Commission doctors studied the exposed people for decades.
+Shared with: america-world (the trust territory) · war (the tests) · elements.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Radiation tested on people, 1944 to 1974" -->
+- In 1994 President Bill Clinton appointed a committee to investigate radiation experiments paid for by the federal government. Its 1995 report counted nearly 4,000 such experiments from 1944 to 1974. They included doctors injecting plutonium into hospital patients who did not know, and experiments on children and prisoners.
+- The committee wrote that in the 1940s and 1950s it was common for doctors to use patients in research "without their awareness or consent." In some studies on children, the radioactive doses raised the children's lifetime risk of thyroid cancer.
+- Miners who dug uranium underground for nuclear weapons breathed radon, a radioactive gas that comes off uranium ore. At least several hundred of them died of lung cancer. The committee found that federal officials neither required the mines to be ventilated nor properly warned the miners. A 1990 law pays some of the miners and their families.
+Shared with: energy (the uranium miners, many of them Navajo) · war (the weapons).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Thalidomide, 1960 to 1962" -->
+- In 1960 the drug company Richardson-Merrell applied to the Food and Drug Administration to sell thalidomide, a sleeping pill also given to pregnant women for morning sickness. Officials in more than 20 other countries had already approved it. Dr. Frances Kelsey, a new FDA reviewer, refused to approve it because the company's evidence was weak. She kept asking for more for more than a year.
+- In November 1961 doctors in Europe linked thalidomide to babies born with arms and legs that were very short or missing. Around the world more than 10,000 babies were born damaged by it, and about 40 of every 100 died at birth or soon after.
+- Richardson-Merrell staff had already given more than 2.5 million tablets to more than 1,000 American doctors to "test." Nearly 20,000 patients took them, several hundred of them pregnant. At least 17 American babies were born with thalidomide damage. Company officials withdrew the application in March 1962.
+- In October 1962 members of Congress passed the Kefauver-Harris Amendments with no votes against. Drug makers now had to prove a drug worked, report its harms to the FDA, and ask people's consent before testing drugs on them.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smoking and asbestos, 1954 to 1998" -->
+- In January 1954 the big tobacco companies paid for an advertisement in more than 400 newspapers that disputed the studies linking cigarettes to lung cancer. In 1957 Surgeon General Leroy Burney said the evidence showed smoking caused lung cancer.
+- On 11 January 1964 Surgeon General Luther Terry released a report by ten experts who had read more than 7,000 studies. Smokers died at a rate 70 percent higher than non-smokers. The average smoker was 9 to 10 times as likely to get lung cancer, and a heavy smoker at least 20 times. Smoking was the main cause of chronic bronchitis and was linked to emphysema and heart disease.
+- Lung cancer grows in the cells that line the air passages of the lungs. It causes a cough that does not go away, trouble breathing and coughing up blood. In emphysema the thin walls between the lungs' tiny air sacs break down, so the person cannot get enough air. Smoking causes about 9 of every 10 lung cancers in men and 8 of every 10 in women.
+- Under a 1965 law, every pack had to carry a health warning. Cigarette ads were banned from television and radio from 1970. On 14 April 1994 the heads of seven tobacco companies told Congress under oath that nicotine is not addictive. Under a 1998 settlement, four tobacco companies must pay 46 states at least $206 billion over 25 years toward the cost of treating smokers.
+- Asbestos is a mineral that splits into thin fibres. Builders used it to fireproof and insulate. Its fibres, breathed in, stay in the lungs and scar them. They cause lung cancer and mesothelioma, a cancer of the thin lining of the chest and belly. The sickness often starts 10 to 40 years after the worker breathed the dust. Shipyard workers, insulation workers, miners and firefighters breathed the most. Johns-Manville, the biggest asbestos maker, went bankrupt in 1982 while facing thousands of lawsuits from sick workers.
+- Today the CDC counts more than 480,000 deaths a year in the United States from smoking and from breathing other people's smoke. That is nearly 1 of every 5 deaths.
+Shared with: big-business (what the companies knew and said) · drugs-alcohol (tobacco as a drug) · work-workers (asbestos on the job).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Medicare and Medicaid, 1965 and 1966" -->
+- In 1950 only 1 of every 8 Americans over 65 had health insurance, and two-thirds of them earned less than $1,000 a year.
+- On 30 July 1965 President Lyndon Johnson signed Medicare and Medicaid into law at the Truman Library in Independence, Missouri, next to former President Harry Truman. Truman had asked Congress for national health insurance 20 years earlier. Medicare is health insurance for people 65 and older. Medicaid is health insurance for people with little money, paid for by the states and the federal government. Nearly 20 million people signed up for Medicare in its first three years.
+- Many hospitals in the South still kept Black and white patients apart. In 1963 judges of a federal appeals court ruled in Simkins v. Moses H. Cone Memorial Hospital that hospitals built with Hill-Burton money could not do this. In 1964 the justices of the Supreme Court declined to hear an appeal.
+- The Civil Rights Act of 1964 barred federal money for any place that treated people differently by race. Before Medicare began paying on 1 July 1966, almost 1,000 federal workers volunteered to inspect about 6,000 hospitals. They checked beds, waiting rooms, lunch rooms and hiring. Local Klan members chased inspectors on the roads. Some inspectors were jailed on false charges, bullets were fired at their rental cars, and crosses were burned on the lawns of at least two. The records do not name who fired or who burned the crosses. By 1 July, hospitals holding 97 of every 100 hospital beds in the country had met the rule.
+Shared with: government-politics (the law) · rights-movements (desegregation).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Hepatitis experiments at Willowbrook, 1956 to 1971" -->
+- Willowbrook State School on Staten Island, New York, was a state home for children with intellectual disabilities. It was built for 4,000 children and held 6,000 by 1965.
+- From 1956 to 1971 Dr. Saul Krugman of New York University and Dr. Robert McCollum of Yale studied hepatitis there. Hepatitis is a disease that inflames the liver. In one study they fed 60 healthy children live hepatitis virus taken from other people's stool. The children's skin and eyes turned yellow, their livers swelled, and they vomited and would not eat. Every one of them became ill, some badly. Parents signed permission letters. Critics said the letters played down that the children would be infected on purpose, and at times the only beds open at the crowded school were in the study ward.
+- In 1972 the television reporter Geraldo Rivera filmed the school's crowded wards and filthy bathrooms, and staff who beat and sexually abused the residents. That March, parents of 5,000 residents sued the State of New York. The last children left Willowbrook in 1987.
+Shared with: rights-movements (disability rights).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Tuskegee study ends, 1972 to 1997" -->
+- In 1966 Peter Buxtun, a Public Health Service worker in San Francisco, wrote to his bosses that the Tuskegee study was wrong. CDC officials, who by then ran it, answered that it should go on until every man had died and been autopsied. At a review in 1969 they decided again to keep it going.
+- Buxtun gave the story to Jean Heller of the Associated Press. It ran in the Washington Star on 25 July 1972 and on the front page of the New York Times the next day. In October a government panel advised stopping the study, and in November 1972 Dr. Merlin DuVal, the Assistant Secretary for Health, ordered it ended. By then 74 of the men were still alive.
+- In 1973 Senator Edward Kennedy held hearings, and federal officials began paying for the survivors' medical care. Their wives, widows and children were added in 1975. The lawyer Fred Gray sued for the men, and in 1974 federal officials settled the case out of court for $10 million.
+- In 1974 members of Congress passed the National Research Act. Since then a study on people that uses federal money must be approved by a review board, and every person in it must first be told what will be done and its risks, and agree. This is called informed consent.
+- On 16 May 1997 President Bill Clinton apologized at the White House to five of the survivors. "What the United States government did was shameful, and I am sorry," he said.
+Shared with: rights-movements.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Sterilized without consent, the 1960s and 1970s" -->
+- To sterilize a person is to operate so that they can never have a baby. In a tubal ligation, the surgeon cuts or ties the two tubes that carry eggs from the ovaries to the womb. In a hysterectomy, the surgeon cuts out the womb.
+- In June 1973 in Montgomery, Alabama, nurses from a family planning clinic paid with federal money told Minnie Relf that her daughters would get birth control shots. She could not read, and she signed the form with an X. Surgeons tied the tubes of both girls, who were 12 and 14.
+- Lawyers for the Relfs sued. A federal court found that 100,000 to 150,000 poor people a year were being sterilized in programs paid for by the federal government. Some doctors told women on welfare that they would lose their benefits unless they agreed. The judge barred both practices.
+- In 1976 investigators of the General Accounting Office, which checks federal spending, found that Indian Health Service doctors had sterilized 3,406 Native women in four of their 12 regions from 1973 to 1976. The National Library of Medicine describes these as done without the women's permission. Thirty-six of the women were under 21, although a court had barred sterilizing women that young. In 1974 Dr. Connie Pinkerton-Uri, who is Choctaw and Cherokee, had found that 1 in 4 Native women had been sterilized without consent.
+- In Puerto Rico about 1 in 3 women of child-bearing age had been sterilized by 1968. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pressured by employers.
+Shared with: rights-movements (Fannie Lou Hamer, 1961) · native-nations · america-world (Puerto Rico).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="AIDS, 1981 to 2000" -->
+- On 5 June 1981 CDC doctors reported a rare pneumonia in five young gay men in Los Angeles, two of whom had died. The disease was later named AIDS. It is caused by HIV, a virus that destroys the white blood cells that fight infection. As they die, other infections and cancers kill the person. HIV passes through blood and sex, not through touch.
+- In 1985 more Americans were diagnosed with AIDS than in all earlier years together. Most people died about 15 months after diagnosis. Of the people with hemophilia who were given clotting medicine made from donated blood between 1979 and 1984, nearly 9 in 10 caught HIV, hepatitis C or both.
+- In March 1987 the writer Larry Kramer started ACT UP in New York to push for faster treatment. That month the FDA approved AZT, the first drug for AIDS. On 11 October 1988 more than 1,000 ACT UP members shut down FDA offices in Maryland, and police made 176 arrests. Eight days later the FDA announced rules to approve drugs faster.
+- In 1994 AIDS was the leading cause of death for Americans aged 25 to 44. From 1996 doctors gave several drugs together, and in the next year AIDS deaths fell by 47 percent. By the end of 2000, 774,467 Americans had been diagnosed with AIDS and 448,060 of them had died.
+Shared with: rights-movements (gay rights) · drugs-alcohol (needles).
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="jonas-salk" name="Jonas Salk" movie="" kind="famous" status="verified" -->
 ### Jonas Salk
-Developed the polio vaccine and did not patent it.
+> **Who:** The doctor who made the first polio vaccine and did not patent it. · **When and where:** University of Pittsburgh, 1947 to 1955. Born in New York City in 1914.
+- He started work at the University of Pittsburgh School of Medicine in 1947. In 1952 he made a vaccine from polio virus killed so that it could not cause the disease.
+- His teacher, Thomas Francis Jr., ran the 1954 test on about 1.8 million children. Salk did not want some children to get a dummy shot, because it could not protect them. He gave way, because only that kind of test could prove the vaccine worked.
+- On 12 April 1955 Francis announced that the vaccine was 80 to 90 percent effective. On television Edward R. Murrow asked Salk who owned the patent. He answered, "Could you patent the sun?" The charity that paid for the work and the university had already judged the method probably could not be patented.
+- He died in La Jolla, California, in 1995.
 <!-- hb-story:end slug="jonas-salk" -->
-<!-- hb-story:start slug="polio-survivor" name="(target) a polio survivor" movie="" kind="ordinary" status="target" -->
-### (target) a polio survivor
-Lived with a disease a vaccine then ended (many documented accounts exist).
-<!-- hb-story:end slug="polio-survivor" -->
-<!-- hb-story:start slug="aids-activist-or-patient" name="(target) an AIDS activist or patient" movie="" kind="ordinary" status="target" -->
-### (target) an AIDS activist or patient
-Research target — a documented AIDS activist or patient from the 1980s–90s response.
-<!-- hb-story:end slug="aids-activist-or-patient" -->
+<!-- hb-story:start slug="paul-alexander" name="Paul Alexander" movie="" kind="ordinary" status="verified" -->
+### Paul Alexander
+> **Who:** A Dallas boy paralysed by polio at six who lived in an iron lung for more than 70 years and became a lawyer. · **When and where:** Dallas, Texas, 1952 to 2024. Born in Dallas on 30 January 1946.
+- In 1952, during a polio outbreak in Dallas, he got sick at age 6. Within days he could not move below his neck or breathe on his own. Doctors saved him by cutting an opening in his neck into his windpipe, and put him in an iron lung.
+- From 1954 he taught himself to breathe outside the machine for hours by swallowing air into his lungs. Every night he went back in.
+- He held a stick in his mouth to turn pages, paint and later type. He studied at Southern Methodist University and the University of Texas, earned a law degree in 1984, and worked as a lawyer in Dallas. He wrote a book about his life, *Three Minutes for a Dog*, in 2020.
+- "I've never thought of myself as a cripple," he said in 2017. "I'm Paul Alexander, human being." Guinness World Records named him the longest-living iron lung patient. He died in Dallas on 11 March 2024, at 78.
+<!-- hb-story:end slug="paul-alexander" -->
+<!-- hb-story:start slug="henrietta-lacks" name="Henrietta Lacks" movie="The Immortal Life of Henrietta Lacks (2017, HBO)" kind="famous" status="verified" -->
+### Henrietta Lacks
+> **Who:** A Black woman whose cancer cells doctors took without asking her. Her cells became the first human cells to keep growing in a laboratory. · **When and where:** Johns Hopkins Hospital, Baltimore, 1951. Born Loretta Pleasant in Roanoke, Virginia, on 1 August 1920.
+- She grew up in Clover, Virginia, in a log cabin that had been slave quarters on a plantation her white great-grandfather had owned.
+- In January 1951 she went to Johns Hopkins with a lump in her womb. Doctors found cancer of the cervix, the opening of the womb. While treating her with radium, doctors cut two samples from her cervix without her permission or knowledge. No rule then required doctors to ask.
+- Dr. George Gey grew the cells. They kept dividing, and he named them HeLa. By 1954 Jonas Salk's team used HeLa cells in its polio vaccine work.
+- She died on 4 October 1951, at 31, after the cancer spread through her body. Her family did not learn about the cells until 1975. In 2023 her family settled a lawsuit against a company that had made money from HeLa cells.
+<!-- hb-story:end slug="henrietta-lacks" -->
+<!-- hb-story:start slug="relf-sisters" name="Minnie Lee and Mary Alice Relf" movie="" kind="ordinary" status="verified" -->
+### Minnie Lee and Mary Alice Relf
+> **Who:** Two Black sisters in Alabama whom a federally paid clinic had surgically sterilized as children, without their mother knowing what she had signed. · **When and where:** Montgomery, Alabama, June 1973.
+- Their parents, Lonnie and Minnie Relf, could not read or write. The family lived in public housing that the local Community Action agency had found for them in 1971. Both girls had intellectual disabilities.
+- In June 1973 workers from the agency's family planning clinic told Minnie Relf her daughters would get birth control shots. At the hospital she signed a form with an X. Surgeons cut or tied the girls' tubes that carry eggs to the womb. They were 12 and 14. Sources disagree on which sister was older.
+- Their father saw the scars when they came home. The same day, a nurse asked their 17-year-old sister Katie to be sterilized. She locked herself in her room.
+- Lawyers from the Southern Poverty Law Center sued for the family. The judge barred federal money for sterilizing people against their will. The case led to the rule that doctors must get informed consent before sterilizing anyone.
+<!-- hb-story:end slug="relf-sisters" -->
+<!-- hb-story:start slug="ryan-white" name="Ryan White" movie="The Ryan White Story (1989, ABC TV film)" kind="famous" status="verified" -->
+### Ryan White
+> **Who:** An Indiana teenager who caught HIV from his hemophilia medicine and was barred from school, then spoke across the country about AIDS. · **When and where:** Kokomo and Cicero, Indiana, 1984 to 1990. Born in Kokomo on 6 December 1971.
+- He had hemophilia, so his blood did not clot. He took a medicine made from blood donated by many people. Some of it carried HIV. On 17 December 1984, at 13, doctors told him he had AIDS and gave him six months to live.
+- In 1985 the head of his school district, James O. Smith, refused to let him back into Western Middle School. 117 parents and 50 teachers signed a petition against him. State and CDC health officials said he was no danger to anyone.
+- When he went back for one day in February 1986, 151 of the school's 360 students stayed home. School staff made him use throwaway forks and spoons and a separate bathroom. Someone fired a bullet through his family's front window. The family moved to Cicero, where students at Hamilton Heights High School shook his hand on his first day.
+- He spoke to a presidential commission in 1988. He died on 8 April 1990, at 18. That August, members of Congress passed the Ryan White CARE Act, which pays for care for people with HIV.
+<!-- hb-story:end slug="ryan-white" -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="health" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="health" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-Medicine gets more precise and more expensive at once, and a pandemic tests everything the chapter has described.
+COVID-19 killed 1,245,791 people in the United States from 2020 to September 2026, by the CDC's early count. Overdoses of opioids and other drugs killed more than 100,000 Americans a year at their worst, in 2022 and 2023. Life expectancy, the average age a newborn would reach at that year's death rates, fell from 78.8 years in 2019 to 76.4 in 2021 and was back to 79.0 in 2024. In 2010 President Barack Obama signed the Affordable Care Act. In 2025 the Census Bureau counted 26.7 million people with no health insurance all year. Doctors can now edit the genes of a patient's own cells to treat sickle cell disease. All counts here are the latest published by September 2026.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Genomic medicine, opioids, and COVID-19" -->
-Genomic medicine after the 2003 genome; the opioid crisis; COVID-19 from 2020 — the disease, the vaccines, and the public-health fights; mental health care; rural hospital closures. Current through 2026; state the cutoff.
+<!-- hb-zoom level="span" label="Reading and editing genes, 2003 to 2023" -->
+- A genome is the full set of DNA instructions in a person's cells. Scientists of the Human Genome Project, begun in 1990, finished the first reading of the human genome in April 2003.
+- Sickle cell disease bends red blood cells into a curved sickle shape. The bent cells block small blood vessels and carry less oxygen. That causes attacks of severe pain and can disable or kill. About 100,000 people in the United States have it, most of them African Americans.
+- On 8 December 2023 the FDA approved Casgevy, the first treatment made with the gene-editing tool called CRISPR. Doctors take some of the patient's blood-making cells and edit their DNA. Then the patient gets strong chemotherapy, drugs that kill the remaining cells in the bone marrow. Doctors put the edited cells back in a single drip into a vein.
+Shared with: science (the genome project and CRISPR).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="covid-19-nurse-or-patient" name="(target) a COVID-19 nurse or patient" movie="" kind="ordinary" status="target" -->
-### (target) a COVID-19 nurse or patient
-Worked a hospital ward through the pandemic — a documented, on-the-record account.
-<!-- hb-story:end slug="covid-19-nurse-or-patient" -->
+<!-- hb-zoom level="span" label="The Affordable Care Act and the uninsured, 2010 to 2026" -->
+- In 2010 the Census Bureau counted 49.9 million people with no health insurance, 16.3 percent of the population.
+- On 23 March 2010 President Obama signed the Patient Protection and Affordable Care Act. Members of the House had passed it 219 to 212. Most of its parts started in January 2014. Many states opened Medicaid to more low-income adults, and people could buy insurance on new marketplaces. By 2016 about 20 to 24 million more people had insurance, and the share without it had fallen by about half.
+- In 2025, 26.7 million people, 7.9 percent, had no insurance for the whole year. The Census Bureau reported this on 15 September 2026. It changed its survey questions in 2013, so the 2010 and 2025 counts are close but not exact matches.
+- On 4 July 2025 President Donald Trump signed a budget law that cuts federal spending on Medicaid. From 2027 many adults on Medicaid must show 80 hours a month of work or similar activities, or an exemption, to keep it. The Congressional Budget Office, which estimates the cost of laws for Congress, projected that 10 million more people would have no insurance in 2034 because of the law.
+- Extra federal help with marketplace premiums ended after 2025. In 2026 sign-ups fell by more than a million, to 23.1 million, and the average monthly payment rose from $113 to $178.
+- Since 2005, 197 rural hospitals have closed or stopped taking patients overnight, by the count of the Sheps Center at the University of North Carolina in December 2025.
+Shared with: government-politics (the laws) · economy.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="COVID-19, 2020 to 2026" -->
+- COVID-19 is an illness caused by a coronavirus. It spreads when an infected person breathes out droplets and tiny particles that carry the virus. It causes fever, cough, shortness of breath and loss of taste or smell. In severe cases people struggle to breathe, feel pain in the chest, become confused, and their lips or skin turn gray or blue.
+- The CDC reported the first case in the United States on 20 January 2020. On 11 March 2020 the World Health Organization declared a pandemic, a disease spreading around the world.
+- The FDA allowed the first vaccine on 11 December 2020. Recorded deaths passed 500,000 on 21 February 2021 and 1 million on 12 May 2022. The federal health emergency ended in May 2023.
+- The CDC's early count, as of 24 September 2026, is 1,245,791 COVID-19 deaths from 2020 to 19 September 2026. The worst year was 2021, with 463,267. In 2025 there were 20,682.
+- Life expectancy for Native Americans fell furthest. For American Indian and Alaska Native people it fell from 71.8 years in 2019 to 65.2 in 2021. COVID-19, accidents and liver disease caused most of the drop.
+Shared with: disasters (the emergency) · economy (the shutdown) · work-workers (workers on the job).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Opioids and overdose deaths, 1999 to 2026" -->
+- Opioids are strong painkillers such as oxycodone, heroin and fentanyl. Too much slows a person's breathing until it stops. Fentanyl is 50 to 100 times stronger than morphine. A drug called naloxone reverses an overdose if someone gives it quickly.
+- The CDC describes three waves of deaths. The first came from pain pills, after doctors wrote many more opioid prescriptions in the 1990s. The second came from heroin, from 2010. The third came from fentanyl made illegally, from 2013. From 1999 to 2023 about 806,000 Americans died of opioid overdoses.
+- In 2007 Purdue Pharma, the maker of the pain pill OxyContin, pleaded guilty to misleading the public about how addictive it was and paid $600 million. The company pleaded guilty to federal crimes again in 2020.
+- From 29 March 2023 people could buy naloxone nasal spray in stores without a prescription.
+- Overdose deaths from all drugs peaked at about 112,000 in the 12 months ending August 2023. The CDC's early count for the 12 months ending April 2026 is about 67,000, and about 42,000 of those deaths involved opioids.
+Shared with: drugs-alcohol (lead: the drugs and the law) · big-business (Purdue Pharma).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Smoking, measles and vaccines, 2006 to 2026" -->
+- On 17 August 2006 U.S. District Judge Gladys Kessler ruled that the big tobacco companies had "defrauded the American people by lying for decades about the health risks of smoking and their marketing to children." Smoking and breathing other people's smoke still kill more than 480,000 Americans a year, by the CDC's count.
+- Measles is a virus that spreads through the air. The United States had ended its continuous spread by 2000. In 2025 there were 2,289 confirmed cases and 3 deaths, most among people who had not been vaccinated. In 2026, by 24 September, the CDC had counted 3,659 cases and 1 death.
+- On 9 June 2025 Robert F. Kennedy Jr., the Secretary of Health and Human Services, removed all 17 members of the panel of experts that advises the CDC on vaccines. He said it had become "little more than a rubber stamp for any vaccine." The American Medical Association said the move "upends a transparent process that has saved countless lives."
+Shared with: big-business (the tobacco ruling) · drugs-alcohol (tobacco).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The last of the Tuskegee men" -->
+- The last man from the Tuskegee study died in January 2004, and the last widow in the benefit program died in 2009. Some of the men's children still receive medical care through the program.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="sandra-lindsay" name="Sandra Lindsay" movie="" kind="ordinary" status="verified" -->
+### Sandra Lindsay
+> **Who:** A nurse who led the intensive care nurses at a Queens hospital through the pandemic and was the first American outside a trial to get a COVID-19 vaccine. · **When and where:** Long Island Jewish Medical Center, Queens, New York, 2020 and 2021. She grew up in Jamaica.
+- She directed the nurses who cared for the sickest COVID-19 patients at Long Island Jewish Medical Center.
+- In the same months her aunt died, and she could not be with her mother. Her grandson was born early in March 2020 and spent about four and a half months in a hospital unit for newborns. She could not sleep or focus, and she began to meditate.
+- She had questions about the vaccine at first. She read the studies and listened to experts. On Monday, 14 December 2020, she got the first shot given in the United States outside a trial. "We needed a more powerful tool," she said.
+- On 2 July 2021 President Joe Biden gave her the Outstanding Citizen By Choice award, for immigrants who became citizens. Her hospital scrubs and ID badge went to the Smithsonian's National Museum of American History.
+<!-- hb-story:end slug="sandra-lindsay" -->
 <!-- hb-time:end id="2000-today" -->

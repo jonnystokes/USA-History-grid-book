@@ -33,9 +33,9 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 - [x] the Tuskegee syphilis study (era 08 span + Charles Pollard; 1972 exposure and after are era 09)
 - [x] J. Marion Sims and Anarcha, Betsey and Lucy (era 06)
 - [x] Walter Reed and yellow fever (era 08), Typhoid Mary (era 08)
-- [ ] Jonas Salk and polio (1916 epidemic in era 08; Salk is era 09)
-- [ ] HIV/AIDS
-- [ ] COVID-19
+- [x] Jonas Salk and polio (1916 epidemic in era 08; Salk, the 1954 trial, Cutter, Sabin in era 09)
+- [x] HIV/AIDS (era 09: 1981 MMWR, ACT UP, AZT, Ryan White, 448,060 dead by 2000)
+- [x] COVID-19 (era 10: timeline, 1,245,791 dead as of 24 Sep 2026, Sandra Lindsay)
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -44,7 +44,7 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 - [x] the first medical school, 1765 (cleared T-263r: College of Philadelphia, John Morgan, Mütter Museum)
 - [x] Elizabeth Blackwell, 1849 (cleared T-263b: 23 January 1849, HWS)
 - [x] the FDA and drug regulation, 1938 (cleared T-263b: FD&C Act signed 25 June 1938, FDA)
-- [ ] Medicare and Medicaid, 1965 — 1950–2000
+- [x] Medicare and Medicaid, 1965 (cleared T-263c: signed 30 July 1965 at the Truman Library, NARA)
 
 ## Threads present
 *From the brief's checklist — only what genuinely applies:* class and poverty (**central**) · region · rural (who has a doctor) · disability · children and the elderly (**central**) · language · Native continuity past 1900 (Indian Health Service) · territories
@@ -88,3 +88,27 @@ Companion files: outline `outlines/health.md` · research bank `research/researc
 
 ## Cross-chapter parking log (T-263b)
 - Coordinator rule mid-T-263b: nothing filed in other banks. Items listed under TO PARK in control/checkpoints/T-263-health.md.
+
+## Story slots, eras 09-10 (T-263c, 2026-09-27)
+- verified and bank-sourced: jonas-salk (rewritten), paul-alexander (new, ordinary, resolves target polio-survivor), henrietta-lacks (new, famous, film HBO 2017), relf-sisters (new, ordinary), ryan-white (new, famous, resolves target aids-activist-or-patient, ABC TV film 1989) (09); sandra-lindsay (new, ordinary, resolves target covid-19-nurse-or-patient) (10).
+- Era 01 has no story: no named person exists in the record. Allowed.
+- Additional famous names covered: Thomas Francis Jr., Albert Sabin, Frances Kelsey, Luther Terry, Joseph Murray, Lyndon Johnson and Harry Truman (Medicare), Saul Krugman, Geraldo Rivera, Peter Buxtun, Jean Heller, Merlin DuVal, Fred Gray, Bill Clinton (apology), Larry Kramer, Barack Obama (ACA), Gladys Kessler, Robert F. Kennedy Jr. (ACIP 2025).
+
+## Shared events added, eras 09-10 (T-263c)
+| Event | Our angle | Shared with |
+|---|---|---|
+| Castle Bravo and Rongelap 1954 | the bodies: fallout, thyroid | america-world, war, elements |
+| Tobacco 1954-2006 | the disease and the counts | big-business (what the companies knew), drugs-alcohol |
+| Asbestos | the disease | big-business (Johns-Manville), work-workers |
+| Medicare 1965 and hospital desegregation 1966 | lead | government-politics, rights-movements |
+| Willowbrook | the hepatitis experiments | rights-movements (disability) |
+| Sterilization 1970s (Relf, IHS, Puerto Rico) | method and counts | rights-movements (Hamer), native-nations, america-world |
+| Radiation experiments 1944-74, uranium miners | the disease and the experiments | energy (the miners), war |
+| AIDS | lead | rights-movements, drugs-alcohol |
+| Opioids | deaths, naloxone, treatment | drugs-alcohol (lead), big-business (Purdue) |
+| COVID-19 | lead | disasters, economy, work-workers |
+| ACA and the uninsured | coverage counts | government-politics, economy |
+
+## Cross-chapter parking log (T-263c)
+- Burst rule: nothing filed in other banks. Items listed under "TO PARK (T-263c)" in control/checkpoints/T-263-health.md.
+

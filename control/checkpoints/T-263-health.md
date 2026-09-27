@@ -1,17 +1,17 @@
 # CHECKPOINT T-263 | health | full | T-263a: eras 1-5
 
-STATUS: T-263b landed (director verified: FAIL  health / research)
+STATUS: T-263c landed (director verified: PASS  health / research)
 VERIFY: python tools/project_state.py --check health --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/health.md · research/research-health.md · workspace/health.md
 
-NOW:    T-263b finished (Unit 8 final run). No unit in progress.
-NEXT:   T-263c: full research of eras 09 (1950-2000) and 10 (2000-today), one era at a time, then the bank check for 09-10, then the chapter-wide progress= check.
+NOW:    T-263c finished (Unit 12 final run). No unit in progress.
+NEXT:   Director: commit, then file TO PARK (T-263c). Chapter is RESEARCHED. (Old NEXT for T-263c, done: full research of eras 09 (1950-2000) and 10 (2000-today), one era at a time, then the bank check for 09-10, then the chapter-wide progress= check.
         Insert bank era sections ABOVE the line '<!-- END OF ERA SECTIONS 01-08 (T-263a, T-263r, T-263b) -->' (rename it when done).
         Seed items waiting: Medicare/Medicaid 1965 [VERIFY], Salk 1955, targets polio-survivor, aids-activist-or-patient, covid-19-nurse-or-patient, Indian Health Service (1955 transfer to PHS).
         Carry-overs from T-263b: the Tuskegee exposure (AP story July 1972 per CDC; Wooten NYT follow-up 27 July 1972; McGill says NYT 16 Nov 1972 = conflict to settle), end Nov 1972, Pollard v. United States and the $10M settlement (1973 per Wikipedia, 1974 per CDC), Clinton apology 16 May 1997 (APP opened, quotes in bank era 08), last participant died Jan 2004. Hill-Burton clause struck down 1963 (Simkins). Parked for era 09: tobacco and asbestos bodily course (big-business park), Agent Orange, Castle Bravo, technetium-99m, Puerto Rico sterilization 1960s-70s. Era 10: Casgevy 2023.
-        Do not change eras 01-08. Then run project_state --check health --stage research.
+        Do not change eras 01-08. Then run project_state --check health --stage research.)
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -47,6 +47,15 @@ FAIL  health / research
 
 Overlap map (T-263b, measured in outlines/): rights-movements tells Dorothea Dix (story), Rebecca Lee Crumpler, Carrie Buck and eugenics, force-feeding. education tells Carrie Buck. war tells Civil War amputation, camp typhoid count, 1918 flu in the army. city-building tells NY cholera 1832, Croton, Chicago River. food-farming tells pellagra and Goldberger's 1915 prison experiment, 1906 Pure Food Act. drugs-alcohol and marketplace tell patent medicines. work-workers tells Radium Girls' fight, Hawks Nest, Duffy's Cut. home-family tells 1837 smallpox through Buffalo Bird Woman. america-world tells Puerto Rico Law 116. slavery-freedom tells Susie King Taylor.
 
+### T-263c units (eras 9-10; last agent on this chapter)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 9 | era 09 1950-2000: outline + bank, clear [VERIFY] Medicare 1965, targets polio-survivor + aids-activist-or-patient, Tuskegee 1972 on | done | 12 spans + stories jonas-salk (rewritten), paul-alexander (resolves polio-survivor), henrietta-lacks, relf-sisters, ryan-white (resolves aids-activist-or-patient). [VERIFY] Medicare cleared (NARA). Tuskegee carry-overs settled |
+| 10 | era 10 2000-today: outline + bank, target covid-19-nurse-or-patient, every figure dated and refreshed to 2026 | done | 6 spans + story sandra-lindsay (resolves covid-19-nurse-or-patient). COVID 1,245,791 (CDC, as of 24 Sep 2026), overdoses 66,937 (12 mo to Apr 2026), life expectancy 79.0 (2024), uninsured 26.7M/7.9% (2025, Census 15 Sep 2026) |
+| 11 | bank check eras 9-10 | done | PATCHes: Willowbrook consent, DuVal ended Tuskegee (Heller 1972 PDF), Rongelap thyroid (PMC9588433), ACHRE radiation experiments + uranium miners, 2026 marketplace tax credits (KFF). 2 SEARCHED NOT FOUND (Relf/IHS surgeons unnamed, Relf ages). Bank-check notes for 09 and 10 |
+| 12 | final: progress= flags all eras, validator, research check, hb-note status | done | all 10 eras progress=researched, validator 0 errors, 0 em dashes and 0 semicolons in the outline body, hb-note status RESEARCHED. PASS |
+
 ## SUBJECT NOTES (from the director)
 
 Registry: Health, Disease, and Medicine: Illness and healing — epidemics, doctors, hospitals, medical advances, **and public health as policy**. Not: general science (`science`); sudden calamities (`disasters`)
@@ -60,6 +69,16 @@ hb-zoom prose, and the hb-story block is removed). Search `outlines/` and `manus
 other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
+
+## TO PARK (T-263c)
+- `energy` and `native-nations`, era 1950-2000: ACHRE 1995 on uranium miners: "at least several hundred miners died of lung cancer" from radon, and federal officials did not require ventilation or warn the miners. Source: ACHRE Executive Summary, https://ehss.energy.gov/OHRE/roadmap/achre/summary.html. Health bank era 09 PATCH "government radiation experiments on people".
+- `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.
+- `rights-movements`, era 1950-2000: Medicare's 1966 hospital desegregation: almost 1,000 federal volunteer inspectors, 97 percent of acute beds certified by 1 July 1966, inspectors jailed, shot at, crosses burned; W. Montague Cobb the only medical professional at the signing (Smith 2016, PRRAC). Simkins v. Cone, 4th Cir. 1963, cert. denied 1964. Health bank era 09.
+- `rights-movements` and `native-nations`, era 1950-2000: the Relf sisters (June 1973, SPLC) and the 1976 GAO finding of 3,406 IHS sterilizations (NLM 543, NARA 2022), Norma Jean Serena (NARA 2022). rights-movements says federal money paid for sterilizations in the 1970s but names no one. Health bank era 09.
+- `rights-movements`, era 1950-2000: Willowbrook (hepatitis experiments 1956-71, Rivera 1972, 5,000-resident suit 17 March 1972). Health bank era 09.
+- `drugs-alcohol`, era 2000-today: CDC overdose figures pulled 2026-09-27 (peak 112,418 12 months to Aug 2023, 66,937 12 months to Apr 2026, opioid 41,755, synthetic opioids 35,115), CDC's three waves (806,000 opioid deaths 1999-2023), OTC naloxone 29 March 2023. Health bank era 10.
+- `government-politics` and `economy`, era 2000-today: uninsured 26.7 million (7.9 percent) in 2025 (Census, 15 Sep 2026), 4 July 2025 budget law work requirements from 1 Jan 2027 and CBO's 10 million more uninsured in 2034, marketplace tax credits ended after 2025 (KFF). Health bank era 10.
+- `disasters`, era 2000-today: COVID-19 deaths 1,245,791 through 19 Sep 2026 (CDC NCHS provisional, data as of 24 Sep 2026). Health bank era 10.
 
 ## PARKED EARLIER (FILED by the director, 2026-09-27)
 
@@ -269,3 +288,10 @@ Pages the killed agent fetched (139; re-read the useful ones rather than searchi
 - COORDINATOR RULE (mid-T-263b, 2026-09-27): burst started. Write ONLY health files and this checkpoint. Cross-chapter material goes under TO PARK. Nothing had been parked in other banks before the rule.
 - 2026-09-27 bank check 06-08 DONE (T-263b): PATCHes and SEARCHED NOT FOUND entries under each era (see unit 7). Outline gained spans on polio 1916, Meriam 1928, Hill-Burton 1946; Guatemala span corrected to the Presidential Commission's counts (1,308 exposed, 678 treated, 5,128 tested, 83 deaths noted, relation unclear); 1837 captain and count range added; personification pass on eras 06-08. Bank end marker renamed to 01-08.
 - 2026-09-27 T-263b final check: FAIL  health / research | measured: stage=PARTIAL eras=10/10 stories=21 (v18 c0 t3) verify_tags=1 bank=23853w outline=12121w validator_errors=0 | eras with no story: before-1500 (T-263a: no named person exists). The 3 targets and 1 [VERIFY] are all in eras 09-10 (T-263c).
+- 2026-09-27 era 09 1950-2000 DONE (T-263c): 12 spans (polio vaccine incl. Cutter, IHS 1954-76, kidney transplant + Tc-99m, Rongelap 1954, thalidomide + Kelsey, smoking + asbestos with bodily course, Medicare/Medicaid + hospital desegregation (Simkins 1963/64), Willowbrook hepatitis 1956-71, Tuskegee 1966-1997, sterilization 1970s (Relf, IHS 3,406, Puerto Rico), AIDS 1981-2000) + 5 stories (jonas-salk rewritten, paul-alexander, henrietta-lacks, relf-sisters, ryan-white). Bank '## 09' added, end marker renamed 01-09. Validator 0 errors. Tuskegee: story broke Washington Star 25 July 1972 (AP, Jean Heller), NYT 26 July. McGill's 16 Nov 1972 is the end date. Suit 1973, settlement 1974 (CDC). Simkins: 4th Cir. 1963, cert. denied 1964. Sources: CDC Pinkbook, CBS/HealthDay 2014, NPR 2024 via WESA, NLM Native Voices, FDA Kelsey, NLM 1964 report, MedlinePlus, NCI asbestos, NARA Medicare, Smith 2016 (PRRAC), SPLC Relf, NARA 2022, HIV.gov, MMWR 2001, Wikipedia (Salk, Francis, Cutter, Lacks, Murray, Tc-99m, Kelsey, thalidomide, Willowbrook, Tuskegee, Relf, White). Left out: measles vaccine 1963, CT/MRI, Bhopal (outside US), ACHRE radiation experiments (not reopened), Willowbrook consent method (search summary only).
+- 2026-09-27 era 10 2000-today DONE (T-263c): 6 spans (genome 2003 + Casgevy 2023, ACA 2010 + uninsured + 2025 budget law + rural hospitals, COVID-19 with bodily course + counts + AIAN life expectancy, opioids three waves + Purdue + naloxone + counts, Kessler 2006 + measles 2025-26 + ACIP June 2025, Tuskegee 2004/2009) + story sandra-lindsay. Bank '## 10' added, end marker renamed 01-10. Validator 0 errors. Figures pulled live from data.cdc.gov (r8kw-7aab COVID, xkb8-kh2a overdoses) on 2026-09-27. Left out: 988 line (no figures on opened page), Flint (other chapters), Navajo COVID toll, Medicaid unwinding, ACA tax-credit expiry, post-June-2025 vaccine schedule changes (not opened).
+- 2026-09-27 bank check 09-10 DONE (T-263c): see unit 11. Outline gained span "Radiation tested on people, 1944 to 1974", DuVal in the Tuskegee span, Willowbrook consent, Rongelap thyroid, 2026 marketplace line.
+- 2026-09-27 T-263c final: all ten progress= flags are "researched" and match the bank (each era has a bank section 01-10). hb-note status set to RESEARCHED. Era 01 has no story: no named person exists in the record (allowed).
+  PASS  health / research
+    bar: 10/10 eras researched | 0 target | 0 candidate | no suspect verified | bank >= outline words | 0 [VERIFY] tags | validator 0 errors
+

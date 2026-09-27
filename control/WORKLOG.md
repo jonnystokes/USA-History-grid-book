@@ -2924,9 +2924,11 @@ T-263b, T-264b, T-265b, T-266b all landed (eras 6-8; chapters PARTIAL until eras
 Jon (69%): burst of two next: T-263c health 9-10 + T-265c crime-justice 9-10.
 
 ### 2026-09-27 | [LOCAL] T-263c | health: full research eras 9-10, completes the chapter [BURST of 2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
+RESULT: DONE. PASS  health / research. measured: stage=RESEARCHED eras=10/10 stories=23 (v23 c0 t0) verify_tags=0 bank=33926w outline=17200w manuscript=0w validator_errors=0
+        406002 tokens, 157 tool uses, 23.1 min (opus). Eras 9-10, chapter COMPLETE. Stories: Salk, Paul Alexander, Henrietta Lacks, the Relf sisters, Ryan White, Sandra Lindsay. Tuskegee end settled (Washington Star 25 Jul 1972; DuVal; suit 1973, settled 1974). COVID deaths 1,245,791 (19 Sep 2026), overdoses 66,937 (12 mo to Apr 2026), life expectancy 79.0 (2024), uninsured 26.7M (2025). Sterilization defined; surgeons unnamed in sources. 2 searched-not-found. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-265c | crime-justice: full research eras 9-10, completes the chapter [BURST of 2] | model opus
 STATUS: DONE
