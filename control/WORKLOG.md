@@ -2929,7 +2929,9 @@ CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
 
 ### 2026-09-27 | [LOCAL] T-265c | crime-justice: full research eras 9-10, completes the chapter [BURST of 2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+RESULT: DONE. PASS  crime-justice / research. measured: stage=RESEARCHED eras=10/10 stories=13 (v13 c0 t0) verify_tags=0 bank=28147w outline=15260w manuscript=0w validator_errors=0
+        370245 tokens, 134 tool uses, 21.9 min (opus). Eras 9-10, chapter COMPLETE. Stories: Emmett Till, Clarence Earl Gideon, Kemba Smith, the Exonerated Five. Mapp, Miranda, Gault; death penalty 1972/1976 and yearly counts to 2026, 202-203 exonerations, Stinney; Attica; drug laws and who wrote them; BJS prison counts by race to 2023; Rodney King, Diallo, six killings 2014-2023 incl. George Floyd with outcomes; FBI 2025. 2 searched-not-found. TO PARK 6.
 NOTE (Jon, 80%): PAUSE after T-263c and T-265c finish. No new dispatches until Jon says.

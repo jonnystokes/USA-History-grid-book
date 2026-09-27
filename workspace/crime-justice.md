@@ -48,10 +48,21 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 | Convict leasing after the Civil War | **lead (as punishment)** — prisoners rented out as labor | `slavery-freedom` (**lead** — freedom's broken promises) · `work-workers` (forced labor) |
 | The War on Drugs and mass incarceration | **lead** — sentencing, prisons, and policing | `drugs-alcohol` (the drugs themselves) · `rights-movements` (the campaigns against it) |
 | Rodney King, 1991, and police reform debates | **lead** — policing and accountability | `rights-movements` (the protest movement) · `news-communication` (the video and the coverage) |
-| September 11, 2001 | domestic security and surveillance afterward | `america-world` (**lead** — the attacks and the response abroad) · `disasters` (the rescue) |
+| September 11, 2001 | not told (Patriot Act researched in WP only, left out) | `america-world` (**lead** — the attacks and the response abroad) · `disasters` (the rescue) |
+| Emmett Till, 1955 | **lead** (story: the killing, trial, acquittal, DOJ closings) | `rights-movements` (the 2022 Antilynching Act and the movement) |
+| Gideon, Mapp, Miranda, Gault, Terry, 1961-1968 | the police station and courtroom (Gideon story) | `government-politics` (the rulings as law) |
+| Furman/Gregg and executions, 1972-2026 | **lead** | none |
+| Attica, 1971 | **lead** | none |
+| Wounded Knee, 1973 | the marshals and the Banks-Means trial | `native-nations` (**lead**) |
+| Drug laws 1973-1994, Fair Sentencing 2010, First Step 2018 | the sentences and prisons (Kemba Smith story) | `drugs-alcohol` (the drugs) · `government-politics` (the laws) |
+| Police killings 2014-2023 (Brown, Garner, Rice, Taylor, Floyd, Nichols) | **lead** on the court outcomes | `rights-movements` (**lead** on protests; Chauvin's admitted facts) |
+| Central Park case 1989-2002 | **lead** (story exonerated-five) | none |
+| McGirt 2020, Castro-Huerta 2022 | criminal jurisdiction | `native-nations` (**lead**) |
+| Trump NY conviction 2024, Menendez 2024, J6 pardons 2025 | the crimes and sentences | `government-politics` (**lead**) |
+| Tulsa survivors 2020-2026 | the lawsuit and city fund | `rights-movements` (**lead**) |
 
 ## Famous names check (must appear — completeness first)
-- [x] the Salem witch trials · [x] the penitentiary (Walnut Street, 1790) · [x] the first city police departments · [x] the Pinkertons · [x] Jesse James (the 1875 raid; the outlaw legend itself not told) · [x] lynching (McIntosh, Smith, Jones, Johnson) · [x] convict leasing · [x] Al Capone · [x] J. Edgar Hoover and the FBI · [x] Tulsa 1921 (justice angle) · [x] Scottsboro · [ ] *Miranda* · [ ] the War on Drugs · [ ] mass incarceration · [ ] DNA exonerations
+- [x] the Salem witch trials · [x] the penitentiary (Walnut Street, 1790) · [x] the first city police departments · [x] the Pinkertons · [x] Jesse James (the 1875 raid; the outlaw legend itself not told) · [x] lynching (McIntosh, Smith, Jones, Johnson) · [x] convict leasing · [x] Al Capone · [x] J. Edgar Hoover and the FBI · [x] Tulsa 1921 (justice angle) · [x] Scottsboro · [x] *Miranda* · [x] Gideon · [x] Emmett Till · [x] Attica · [x] the War on Drugs · [x] mass incarceration · [x] Rodney King · [x] DNA exonerations (Bloodsworth, Exonerated Five) · [x] George Floyd (court outcomes) · [x] the death penalty's pause and return
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -59,7 +70,7 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 - [x] Salem count: 19 hanged, 1 pressed, at least 5 died in jail (Britannica). CLEARED T-265a/r.
 - [x] Walnut Street, April 1790 law (Anderson, Encyclopedia of Greater Philadelphia; Shapiro, HLR 2019). CLEARED T-265r.
 - [x] First modern police: Boston 1838 day police (TIME/Potter attribution), New York 23 May 1845 (size disputed, 800 vs 1,200 authorized). CLEARED T-265b.
-- [ ] *Miranda v. Arizona*, 1966 — 1950–2000 span.
+- [x] *Miranda v. Arizona*, 13 June 1966, 5-4 (WP). CLEARED T-265c.
 
 ## Threads present
 *Only what genuinely applies:* class and poverty (**central**) · region · rural · children (juvenile justice) · the elderly · disability (mental illness and jail) · language · Native continuity past 1900 (tribal courts and jurisdiction)
@@ -69,16 +80,18 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 - **The 1500s**: thin (Spanish outposts; the Acoma trial). T-265a.
 - 1600s, 1700-1750, 1750-1800: full, researched (T-265a/T-265r).
 - 1800-1850, 1850-1900, 1900-1950: full, researched (T-265b).
+- 1950-2000, 2000-today: full, researched (T-265c). Era 10 figures current to September 2026.
 
 ## Featured people to firm up (target / candidate)
 *This chapter's featured people are almost all `target` slots — every era from 1600 on wants a documented individual the researcher must name.*
 - **filled 2026-09-27 (T-265r):** philip-ratcliffe and rebecca-nurse (1600s, replacing the Salem defendant slot); quack-and-cuffee (1700-1750, replacing the court-day defendant slot, SEARCHED NOT FOUND recorded); patrick-lyon (1750-1800, replacing the penitentiary-inmate slot).
 - **filled 2026-09-27 (T-265b):** charles-williams (1800-1850, new); henry-smith (1850-1900, replaces the lynching-victim target); ed-johnson (1900-1950, replaces the beat-officer/wrongful-conviction target). allan-pinkerton and eliot-ness-al-capone re-sourced (PBS, FBI, TIME).
-- **target (eras 9-10, T-265c):** a person sentenced under a mandatory minimum (1950–2000); a person freed by DNA evidence (2000–Today).
+- **filled 2026-09-27 (T-265c):** emmett-till, clarence-earl-gideon, kemba-smith (1950-2000; kemba-smith replaces the mandatory-minimum target); exonerated-five (2000-today, replaces the DNA target). Kirk Bloodsworth told in an era 9 span.
 
 
 ## Cross-chapter parking log
 *(Burst rule: parks are listed in the checkpoint's TO PARK section for the director to file.)*
+- 2026-09-27 T-265c: see the checkpoint TO PARK (T-265c) list.
 - 2026-09-27 T-265b: see the checkpoint TO PARK (T-265b) list: rights-movements (Tulsa DOJ 2025), native-nations (Mankato, Osage counts), immigration (LA 1871, Rock Springs), slavery-freedom (James Knox), drugs-alcohol (Ness/Capone), work-workers (Haymarket trial).
 - 2026-09-27 T-265r: `native-nations` era 5, Conestoga killings 1763. `war` era 3, defect: Plymouth 1675 was two hanged and one shot, not three hanged. `religion` bank note: "with a knife" is a paraphrase not in Bishop.
 

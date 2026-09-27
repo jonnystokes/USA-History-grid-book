@@ -1117,3 +1117,516 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `immigration` and `crime-justice`, 1850-1900: Portland Rum Riot 2 June 1855, Neal Dow ordered militia to fire, John Robbins (22, Deer Isle) killed, 7 wounded (NEHS, Wikipedia). Bank era 07.
 - `crime-justice`, 1900-1950: Samuel R. Caldwell and Moses Baca, first arrests under the 1937 Marihuana Tax Act, Judge J. Foster Symes; Hamm (The Conversation 2026) on Prohibition agents: 89 killed by own count, ~1,000 per AAPA, 752 fired, Sen. Frank Greene shot 1924. Bank era 08.
+
+## Era 9: 1950 to 2000 (T-265c, 2026-09-27)
+
+Sources fetched 2026-09-27. "WP" means an English Wikipedia article read in full through the
+Wikipedia API (plain-text extract); each WP article cites the primary and secondary sources for
+the points used. Where a primary or government source was opened, it is named first.
+
+### Emmett Till, 1955: the killing and the trial (justice angle; story)
+
+- **US Department of Justice, Civil Rights Division, "Emmett Till - Notice to Close File"**
+  (https://www.justice.gov/crt/case-document/emmett-till-notice-close-file-0, opened; announced
+  6 December 2021): Till, 14, from Chicago, visited relatives near Money, Mississippi. On
+  **24 August 1955** he went into Bryant's Grocery & Meat Market and "whistled at" Carolyn Bryant
+  as she left. Four days later "Roy Bryant, his half-brother J.W. Milam, and at least one other
+  person" took him by force from his relatives' home. Three days after that his "brutally beaten
+  body was found" in the Tallahatchie River "weighed down with a 75-pound cotton gin fan." Bryant
+  and Milam were tried for murder before "an all-white jury, which quickly acquitted them."
+  After the acquittals both men "confessed to kidnapping and murdering Till" to journalist William
+  Bradford Huie, published in *Look* in **January 1956**. Milam's words there, as the DOJ quotes
+  them, contain a racial slur (the DOJ prints it as "n[racial slur]"). The FBI reopened the case
+  in 2004. In **February 2007** a Mississippi grand jury did not indict Carolyn Bryant (later
+  Bryant-Donham). After Timothy Tyson (2017) said she had recanted, the DOJ concluded it "cannot
+  prosecute Bryant-Donham or any other subjects for any federal offense."
+- **Fan weight:** DOJ says 75 pounds. WP "Emmett Till" (citing Huie) says the men took a
+  "70-pound" fan. Two figures; use "about 70 to 75 pounds" or the DOJ figure with attribution.
+- **WP "Emmett Till"** (fetched 2026-09-27): taken between 2:00 and 3:30 a.m. on **28 August 1955**
+  from the house of his great-uncle **Mose Wright**, 64. Milam carried a pistol and a flashlight.
+  Body: "shot above the right ear, an eye was dislodged from the socket, there was evidence that
+  he had been beaten on the back and hips, and his body was weighted by a fan blade fastened around
+  his neck with barbed wire." Identified by his father's silver ring. His mother, **Mamie Till
+  Bradley** (later Till-Mobley), held an open-casket funeral in Chicago so people could see what had
+  been done. **Trial:** Tallahatchie County Courthouse, Sumner, September 1955, five days. Mose Wright
+  stood in court and pointed to Milam. Women and Black people were kept off the jury. On
+  **23 September 1955** the all-white, all-male jury acquitted both men after **67 minutes**. One
+  juror: "If we hadn't stopped to drink pop, it wouldn't have taken that long." In **November 1955**
+  a grand jury refused to indict them for kidnapping, though they had admitted taking him. *Look*
+  paid them **between $3,600 and $4,000** (WP gives both). Double jeopardy (the rule that a person
+  cannot be tried twice for the same crime after an acquittal) protected them. **25 July 2023:**
+  President Biden proclaimed the Emmett Till and Mamie Till-Mobley National Monument. Carolyn Bryant
+  Donham died 25 April 2023.
+- **Films:** *Till* (2022, feature film about Mamie Till-Mobley; WP "Emmett Till" lists it). Documentary: *The Murder of Emmett Till* (PBS *American Experience*,
+  2003; WP). *Eyes on the Prize* (1987) opens with the case.
+- **Emmett Till Antilynching Act (2022)** is told by `rights-movements` era 10. Do not repeat it.
+
+### The rights of the accused: *Mapp* (1961), *Gideon* (1963), *Miranda* (1966), *Gault* (1967), *Terry* (1968)
+
+- **Mapp v. Ohio, 367 U.S. 643** (WP "Mapp v. Ohio"): on **23 May 1957** Cleveland police forced
+  the door of **Dollree Mapp**'s home, waved a paper they called a warrant (it was never produced in
+  court), searched without one and found books they called obscene. She was sentenced to one to
+  seven years. On **19 June 1961** the Court ruled **6 to 3** that evidence police get by an illegal
+  search cannot be used in a state trial (the "exclusionary rule").
+- **Clarence Earl Gideon** (WP "Clarence Earl Gideon", "Gideon v. Wainwright"): born 30 August 1910,
+  Hannibal, Missouri. On **3 June 1961** someone broke into the Bay Harbor Pool Room in Panama City,
+  Florida, and took coins from the jukebox and cigarette machine, beer, wine and soda. A witness,
+  **Henry Cook**, 22, said he saw Gideon leave with his pockets full of coins. Gideon could not pay a
+  lawyer. Judge **Robert McCrary Jr.** refused to appoint one, because Florida gave free lawyers
+  only in death-penalty cases. Gideon defended himself, was convicted **4 August 1961**, and was
+  sentenced to **five years**. From Florida State Prison at Raiford he wrote a petition to the US
+  Supreme Court **in pencil**. The Court assigned **Abe Fortas**. On **18 March 1963** the Court
+  ruled **9 to 0** (opinion by Justice **Hugo Black**) that a state must give a lawyer to a person
+  charged with a felony who cannot pay. Retrial **5 August 1963**: local lawyer **W. Fred Turner**
+  showed Cook had lied about his own record. The jury acquitted Gideon after **one hour**. He died
+  18 January 1972. **Film:** *Gideon's Trumpet* (1980, TV film, Henry Fonda as Gideon; from Anthony
+  Lewis's 1964 book).
+- **Miranda v. Arizona** (WP "Miranda v. Arizona", "Ernesto Miranda"). Clears the checkpoint
+  **[VERIFY] Miranda 1966**: decided **13 June 1966**, **5 to 4**, opinion by Chief Justice **Earl
+  Warren**. Arrested **13 March 1963** by Phoenix officers **Carroll Cooley** and **Wilfred Young**,
+  Miranda confessed after **two hours** of questioning to the kidnapping and rape of an
+  18-year-old woman ten days earlier. No one told him he could stay silent or have a lawyer. What
+  it changed in police work: "police departments throughout the U.S. started to issue Miranda
+  warning cards for their officers to recite." Warren pointed to the FBI, which already warned
+  suspects. Arizona retried Miranda without the confession and convicted him again on **1 March
+  1967** (20 to 30 years). Paroled 1972. Stabbed to death in a Phoenix bar **31 January 1976**, aged
+  34. *Dickerson v. United States* (2000) upheld *Miranda* against a 1968 law that tried to undo it.
+  `government-politics` era 9 tells the ruling itself. Our slice is the police station.
+- **In re Gault, 387 U.S. 1 (1967)** (WP "In re Gault"): in **June 1964** the Gila County, Arizona,
+  sheriff took **Gerald Gault**, 15, into custody without telling his parents, after a neighbor,
+  **Ora Cook**, complained of an obscene phone call. Judge **Robert McGhee** sent him to the State
+  Industrial School "for the period of his minority," which meant until he turned 21 (about six
+  years). An adult could have been fined for the same act. In **1967** the Court ruled **8 to 1** (Justice **Abe Fortas**)
+  that children in juvenile court have the right to notice of the charges, to a lawyer, to confront
+  witnesses and to stay silent. Children thread; follows the 1899 juvenile court (era 7).
+- **Terry v. Ohio, 392 U.S. 1** (WP "Terry v. Ohio"): **31 October 1963**, Cleveland detective
+  **Martin McFadden** stopped and patted down **John W. Terry** and found a gun. On **10 June 1968**
+  the Court ruled **8 to 1** that police may stop and "frisk" (pat the outside of the clothes for
+  weapons) a person they reasonably suspect is armed and about to commit a crime, even without
+  grounds to arrest. This is the "stop and frisk."
+
+### The death penalty: the last executions, *Furman* (1972), *Gregg* (1976), and the return
+
+- **WP "Furman v. Georgia"**: decided **29 June 1972** (408 U.S. 238), 5 to 4. "There were over 600
+  inmates on death row when Furman was decided." Justice **Potter Stewart**: "These death
+  sentences are cruel and unusual in the same way that being struck by lightning is cruel and
+  unusual." In the next four years **35 states** and the federal government wrote new death
+  penalty laws.
+- **WP "Gregg v. Georgia"**: decided **2 July 1976**. **Gary Gilmore** (WP "Gary Gilmore") murdered
+  gas station worker **Max Jensen**, 25, on 19 July 1976 and motel manager **Bennie Bushnell**, 26,
+  the next night, in Orem and Provo, Utah. He asked to be executed. A Utah firing squad (five
+  shooters, one with a blank per prison officials) shot him at **8:07 a.m. on 17 January 1977** at
+  the Utah State Prison. First execution after *Gregg*.
+- **DPIC Fact Sheet**, "Facts About the Death Penalty," updated **18 September 2026**
+  (https://deathpenaltyinfo.org/documents/FactSheet.pdf, downloaded and read). Executions by year,
+  1976 to 2026: 1976 **0**, 1977 **1**, 1978 0, 1979 2, 1980 0, 1981 1, 1982 2, 1983 5, 1984 21,
+  1985 18, 1986 18, 1987 25, 1988 11, 1989 16, 1990 23, 1991 14, 1992 31, 1993 38, 1994 31, 1995 56,
+  1996 45, 1997 74, 1998 68, **1999 98 (the highest)**, 2000 85, 2001 66, 2002 71, 2003 65, 2004 59,
+  2005 60, 2006 53, 2007 42, 2008 37, 2009 52, 2010 46, 2011 43, 2012 43, 2013 39, 2014 35, 2015 28,
+  2016 20, 2017 23, 2018 25, 2019 22, 2020 17, 2021 11, 2022 18, 2023 24, 2024 25, **2025 47**,
+  **2026 so far 27**. Total **1,681** executions since 1977. New death sentences peaked at **325 in
+  1986**. Methods since 1977: lethal injection 1,490, electrocution 163, gas 19, firing squad 6,
+  hanging 3. "Across all executions since 1976, 76% of victims in the underlying crimes were white."
+  (Year list read from the chart labels in the order printed. The sum of the list matches the
+  1,681 total.)
+- **Definitions for the clinical-word rule (policy 3b), from the same sheet and WP:** lethal
+  injection means drugs put into a vein to stop the breathing and the heart (method: a drug
+  injection through a tube in the arm). Electrocution: see era 7 Kemmler PATCH. Firing squad:
+  several shooters fire rifles at the heart (Gilmore). The first US execution by lethal injection
+  was **Charles Brooks Jr., Texas, 7 December 1982** (unconfirmed: from memory of standard
+  accounts, NOT sourced here; do not use unless a later agent sources it).
+
+### Attica, 9-13 September 1971
+
+- **WP "Attica Prison riot"**: on **9 September 1971** about **1,281** of about **2,200** men held in
+  the Attica Correctional Facility, New York, took over the prison and held **42** staff hostage.
+  Officer **William Quinn** was beaten and died. The men had presented demands in July about food,
+  mail, medical care and parole. Governor **Nelson Rockefeller** refused to go to the prison. At
+  **9:46 a.m. on 13 September** tear gas was dropped into the yard and state troopers, deputies and
+  guards fired into the smoke, with shotguns loaded with buckshot among the weapons. Deaths:
+  **43** in all (33 prisoners, 10 officers and employees), counting the whole four days. At least
+  **39** were killed in the retaking (29 prisoners and 10 hostages). Medical examiners found all but
+  one officer and three prisoners were killed by police and guards' gunfire. Rockefeller and
+  officials first said prisoners had cut the hostages' throats. Examiners found the hostages died
+  of gunshot wounds from the officers. Survivors were tortured afterwards (pages of the Meyer
+  Report released in 2015 describe torture, burning and sexual abuse by prison authorities).
+  **Charges:** **62 prisoners** were indicted (1,289 counts). **One** state trooper was indicted, for
+  reckless endangerment. In December 1976 Governor **Hugh Carey** pardoned the prisoners who had
+  pleaded guilty and dropped discipline against 20 officers. Settlements: **$8 million** to
+  prisoners and families in **2000**, **$12 million** to employees and families in **2005**.
+- **Films (WP):** *Ghosts of Attica* (Icarus Films, 2019 per WP) and *Betrayal at Attica* (HBO Max, 1 August 2021).
+
+### Wounded Knee, 1973: the marshals and the trial (`native-nations` leads the occupation)
+
+- **WP "Wounded Knee Occupation"** (fetched 2026-09-27): from **27 February 1973**, 71 days. US
+  Marshals, FBI agents and other agencies surrounded the village with armored personnel carriers
+  and automatic weapons. US Marshal **Lloyd Grimm** was shot and paralyzed from the waist down.
+  **Frank Clearwater** (Eastern Cherokee) was shot in the head on **17 April** and died **25 April**.
+  **Lawrence "Buddy" Lamont** (Oglala) was killed by a federal sniper's bullet on **26 April**.
+  **Trial:** after eight and a half months, US District Judge **Fred Nichol** dismissed the charges
+  against AIM leaders **Dennis Banks** and **Russell Means** in **1974**: "the misconduct by the
+  government in this case is so aggravated that a dismissal must be entered in the interests of
+  justice." Parked from native-nations (2026-08-07) cites the US Marshals Service's own history.
+
+### The War on Drugs: who wrote the laws
+
+- **Nixon, 17 June 1971:** called drug abuse "public enemy number one" (standard quotation;
+  unconfirmed: not opened here. `drugs-alcohol` leads the War on Drugs).
+- **New York, 1973 (WP "Rockefeller Drug Laws"):** Governor **Nelson Rockefeller**'s laws set **15
+  years to life** for selling two ounces or possessing four ounces of heroin, cocaine or cannabis.
+  New York removed the mandatory minimums in April 2009.
+- **Anti-Drug Abuse Act of 1986 (WP):** after basketball player **Len Bias** died of cocaine on
+  **19 June 1986**, House Speaker **Tip O'Neill** had Democratic leaders write the bill. The
+  Republican Senate passed its own. President **Ronald Reagan** signed it **27 October 1986**. It set
+  a **5-year** mandatory minimum for **5 grams of crack** and the same for **500 grams of powder**
+  cocaine: the **100 to 1** ratio. A mandatory minimum is a shortest sentence written into the law,
+  which a judge cannot go below. Average federal drug time rose from 22 to 33 months (WP).
+- **US Sentencing Commission, *Report to the Congress: Cocaine and Federal Sentencing Policy*, May
+  2007** (PDF downloaded and read, Table 2-1): Black people were **91.4%** of federal crack
+  offenders in **1992**, 84.7% in 2000, 81.8% in 2006. White people were 3.2%, 5.6%, 8.8%. Same
+  report, citing NIDA director Nora Volkow: among people admitted to treatment for crack in 2004,
+  **53% were Black and 38% white**. (So most people treated for crack were not all Black, but most
+  people federally sentenced for it were.)
+- **1994: Violent Crime Control and Law Enforcement Act** (WP): largest crime bill in US history.
+  Sponsored in the House by Rep. **Jack Brooks** (Texas). Senate version drafted by Senator **Joe
+  Biden** (Delaware), chairman of the Judiciary Committee. Signed by President **Bill Clinton** in
+  1994. Money for **100,000** new police officers and **$9.7 billion** for prisons. Created **60** new
+  federal death-penalty offenses. Included a federal "three strikes" rule and ended Pell Grants
+  (college money) for people in prison. A majority of the Congressional Black Caucus voted for it.
+  The COPS office it set up has given about **$30 billion** for community policing (WP).
+
+### Kemba Smith (mandatory-minimum story; replaces target-mandatory-minimum-person)
+
+- **Sources:** NAACP Legal Defense Fund, "Kemba Smith: Black Women and Mass Incarceration"
+  (naacpldf.org, opened); Encyclopedia.com "Smith, Kemba" (opened); William J. Clinton Presidential
+  Library finding aid "Kemba Smith" (clintonlibrary.gov, opened); WP "Kemba Smith Pradia."
+- Born **28 August 1971**, Richmond area, Virginia. At Hampton University she met **Peter Hall**, who
+  ran a crack cocaine ring (WP: "$4 million"). He beat her (LDF: she "was a victim of domestic
+  violence"). She turned herself in on **1 September 1994** (Encyclopedia.com). She pleaded guilty
+  to conspiracy to distribute cocaine, lying to federal agents and conspiracy to launder money.
+  LDF: "Although Ms. Smith Pradia never sold or used drugs, federal prosecutors charged her with
+  conspiracy to distribute cocaine." Judge **Richard B. Kellam** (Encyclopedia.com) sentenced her to
+  **24 years and 6 months** in federal prison. Federal prison has no parole (LDF: "without
+  possibility of parole"). Clinton Library: "a first time non-violent drug offender."
+- **Date of sentence: sources differ.** Clinton Library and WP say **1994** (WP says "April 1994,"
+  which is before she surrendered). A search summary of TheGrio says **1995** (unconfirmed: search
+  summary only). Say "in the mid-1990s" or state both.
+- **Pregnancy: sources differ.** LDF says she was "seven months pregnant at sentencing."
+  Encyclopedia.com says "While she was awaiting sentencing, she gave birth to a son," quoting her:
+  "I had two days with him before giving him to my parents." WP says the son was born December
+  1994. Do not state which.
+- President **Clinton** commuted her sentence on **22 December 2000** (Clinton Library) after about
+  **six and a half years** (WP, Encyclopedia.com say six, LDF "nearly 7"). President **Biden**
+  pardoned her on **19 January 2025** (WP, LDF). Film: *Kemba* (2024, BET+; WP).
+
+### The prison count, 1950 to 2000 (BJS)
+
+- **BJS, *Prisoners 1925-81*** (NCJ 85861, December 1982, PDF read): sentenced prisoners in state and
+  federal prisons: **1950 166,123** (109 per 100,000), 1961 220,149 (rate peaked at 119), 1968
+  187,914 (lowest rate since the late 1920s), **1972 196,092**, 1975 240,593, **1980 329,821**.
+  "In 1974 began a dramatic rise."
+- **BJS, *Prisoners in 1990*** (PDF read): yearend totals 1980 329,821, 1985 502,507, 1986 544,972,
+  1988 631,669, **1990 771,243** ("a record high"), up 134% since 1980.
+- **BJS, *Prisoners in 2000*** (NCJ 188207, August 2001, PDF read): **1,381,892** state and federal
+  prisoners at yearend 2000. Rate **478** per 100,000, up from **292 in 1990**. Counting jails and
+  other places, **2,071,686** people locked up. At yearend 2000 Black inmates were about **46%** of
+  sentenced prisoners, white 36%, Hispanic 16%. **9.7%** of Black non-Hispanic men aged 25 to 29
+  were in prison, against 2.9% of Hispanic and about 1.1% of white men that age.
+
+### Crime rose and fell
+
+- **Pew Research Center, "What we know about the increase in U.S. murders in 2020," 27 October 2021**
+  (opened): the 1991 homicide rate was **10 per 100,000** people. (Era 10 section has the 2020 rise
+  and the 2025 low.)
+
+### Rodney King, 1991, and the 1992 verdict
+
+- **WP "Rodney King", "1992 Los Angeles riots"**: early **3 March 1991**, after a car chase, LAPD
+  officers **Laurence Powell**, **Timothy Wind**, **Theodore Briseno** and Sergeant **Stacey Koon**
+  shocked King with a Taser and beat him with batons while other officers watched. Police Chief
+  **Daryl Gates**: officers struck him "between fifty-three and fifty-six times." He had a broken
+  facial bone, a broken right ankle, bruises and cuts. **George Holliday** filmed it from his
+  apartment. The trial was moved to **Simi Valley** (Ventura County). On **29 April 1992** a jury
+  of ten white jurors, one biracial man, one Latino and one Asian American (WP; twelve plus one listed as printed) acquitted all four of assault and three of excessive force
+  (hung on Powell). **Deaths in the unrest that followed, 29 April to 3 May:** WP gives **63** in
+  one section (9 shot by police, 1 by the National Guard) and **55** in another (11 by police or the
+  Guard). More than **12,000** arrests. **Federal trial 1993:** Koon and Powell convicted of
+  violating King's civil rights, sentenced to **30 months**. Wind and Briseno acquitted. King won
+  **$3.8 million** from the city. The **Christopher Commission** (April 1991, attorney Warren
+  Christopher) investigated the LAPD.
+
+### Amadou Diallo, 1999
+
+- **WP "Shooting of Amadou Diallo"**: **4 February 1999**, the Bronx. Four plainclothes NYPD officers
+  of the Street Crime Unit, **Sean Carroll, Richard Murphy, Edward McMellon and Kenneth Boss**, fired
+  **41** shots at Diallo, 23, an unarmed immigrant from Guinea, and hit him **19** times. He had taken
+  out his wallet. They were charged with second-degree murder, the trial was moved to Albany, and a
+  jury acquitted all four on **25 February 2000**. The city paid his family **$3 million** in 2004.
+
+### Kirk Bloodsworth, the first DNA exoneration from death row, 1993
+
+- **WP "Kirk Bloodsworth"; Innocence Project, "Five Facts About DNA Testing and Wrongful
+  Convictions in 2026," 29 April 2026** (opened): "the first person on death row to be exonerated by
+  DNA testing in the U.S." Convicted in **1985** of the **1984** rape and murder of **Dawn Hamilton**,
+  9, in Rosedale, Maryland, on the word of five eyewitnesses. Sentenced to death. DNA testing of
+  semen found in a paper bag in the judge's chambers excluded him. Freed **1993** after more than
+  **nine years** and pardoned by Governor **William Donald Schaefer**. In **2003** a database match
+  identified **Kimberly Shay Ruffner**, who had been held one floor below
+  him. Ruffner pleaded guilty in 2004. Documentary: *Bloodsworth: An Innocent Man* (2015).
+- The **Innocence Project** was founded in **1992** by Barry Scheck and Peter Neufeld at Cardozo Law
+  School (WP "Innocence Project").
+
+### The Central Park case, 1989-1990 (the arrest and conviction; the exoneration is era 10)
+
+- **WP "Central Park jogger case"**: **19 April 1989**, **Trisha Meili** was attacked and raped while
+  running in Central Park. Police questioned five teenagers for at least seven hours before
+  videotaping statements: **Antron McCray** (15), **Kevin Richardson** (14), **Yusef Salaam** (15),
+  **Raymond Santana** (14) and **Korey Wise** (16). Four confessed on video and took it back within
+  weeks, saying they had been lied to and pressured. DNA found at the scene matched none of them.
+  All five were convicted in 1990. Judge **Thomas Galligan** gave the younger four 5 to 10 years.
+  Wise was tried as an adult. **1 May 1989:** Donald Trump bought full-page ads in four city
+  newspapers calling for the death penalty (the ad named no defendant). Released: Santana 1995,
+  McCray 1996, Salaam and Richardson 1997, Wise August 2002.
+
+### PATCH 2026-09-27 (T-265c): lethal injection defined (policy 3b)
+- **DPIC, "Lethal Injection"** (deathpenaltyinfo.org/executions/methods-of-execution/lethal-injection,
+  opened): "The first lethal injection execution occurred in Texas on December 7, 1982." Most
+  three-drug protocols use "an anesthetic or sedative, followed by a drug to paralyze the prisoner,
+  and finally a drug to stop the heart." One- and two-drug protocols "use an overdose of an
+  anesthetic or sedative, such as pentobarbital." (The prisoner's name, Charles Brooks Jr., is not
+  on the page as fetched. The note above about Brooks stays unconfirmed.)
+
+## Era 10: 2000 to today (T-265c, 2026-09-27; figures current to 27 September 2026)
+
+"WP" = English Wikipedia article read in full through the API on 2026-09-27. Government and
+research PDFs named were downloaded and read.
+
+### The prison count: peak and fall (BJS, refreshed to the latest release)
+
+- **BJS, *Prisoners in 2010*** (PDF read): total state and federal prisoners at yearend: 2000
+  1,391,261 (revised from 1,381,892 in the 2001 report; both are BJS figures), 2005 1,527,929,
+  2008 1,609,759, **2009 1,617,970 (the highest yearend count in the table)**, 2010 1,612,395.
+  "The overall U.S. prison population declined in 2010 for the first time since 1972."
+  Imprisonment rate "peaked at 506 per 100,000 in 2007." At yearend 2010 Black non-Hispanic men
+  were imprisoned at **3,074 per 100,000**, "nearly 7 times" white non-Hispanic men (**459**).
+- **BJS, *Prisoners in 2023 - Statistical Tables*** (NCJ 310197, released **30 September 2025**, the
+  latest BJS national prison report as of 27 September 2026; no *Prisoners in 2024* release was
+  found): **1,254,200** people in state or federal prisons at yearend 2023, up 2% from 2022
+  (1,230,100). Sentenced prisoners (more than 1 year) 2013 1,520,403, 2019 1,379,786, **2020
+  1,185,733**, 2021 1,165,736, 2023 1,210,308. Imprisonment rate **360** per 100,000 in 2023, down
+  **25%** from 479 in 2013. Rates per 100,000 residents of each group, 2023: **white 190, Black
+  929**, Hispanic 429, American Indian/Alaska Native 809, Asian 70. In 2013 Black 1,348 and white
+  237. Of sentenced prisoners at yearend 2023: **33% Black, 31% white, 23% Hispanic**, 2% American
+  Indian or Alaska Native, 1% Asian/NHPI. (929 / 190 = about 4.9 times.)
+- **BJS, *Jails Report Series: 2024 Preliminary Data Release*** (December 2025, web report opened):
+  "At midyear 2024, local jails held 657,500 persons in custody, similar to the year before
+  (664,200)."
+- **Federal prisons:** 155,972 at yearend 2023, 154,093 at yearend 2024 (BJS First Step Act
+  statistics 2025, unconfirmed: search summary only).
+
+### Sentencing changes after 2000
+
+- **Fair Sentencing Act of 2010** (WP): written by Senator **Dick Durbin** (D-Illinois), cosponsored by
+  **Patrick Leahy** and **Jeff Sessions**. Signed by President **Barack Obama** on **3 August 2010**.
+  Cut the crack-to-powder ratio from **100:1 to 18:1** (28 grams of crack now triggers the 5-year
+  minimum) and ended the 5-year minimum for simple possession of crack.
+- **First Step Act** (WP): House passed the final bill **358 to 36** on **20 December 2018**. Signed by
+  President **Donald Trump** on **21 December 2018** (Public Law 115-391). Made the 2010 crack change
+  apply to people already sentenced. In its first year more than **3,000** federal prisoners were
+  released under changed good-time rules and more than **2,000** got shorter sentences under the
+  crack change (WP).
+- **New York** removed the Rockefeller mandatory minimums in **April 2009** (WP "Rockefeller Drug
+  Laws").
+
+### Wrongful convictions and DNA
+
+- **National Registry of Exonerations, *2025 Annual Report*, 6 April 2026** (PDF read): **3,767**
+  exonerations recorded in the US from 1989 through the end of 2025, and **3,792** as of 6 April
+  2026. **97** exonerations in 2025. People exonerated in 2025 lost an average of **14.2 years** in
+  prison (1,373 years in total). **59 of the 97** (61%) were Black. Official misconduct in at least 70.
+  Payments to exonerees since 1989 exceed **$5.5 billion**. An exoneration is a court or governor
+  clearing a person of a crime after conviction because new evidence shows they did not do it.
+- **Innocence Project, 29 April 2026** (opened): "DNA testing has contributed to over 600
+  exonerations since 1989." A search summary gives **614** DNA exonerations per the National
+  Registry (unconfirmed: search summary only).
+- **The Exonerated Five (Central Park case), freed by DNA, 2002** (WP "Central Park jogger case"):
+  In 2001 **Matias Reyes**, a serial rapist serving a life term, met **Korey Wise** at Auburn
+  prison. In **2002** Reyes told officials he alone had raped Trisha Meili, and **DNA confirmed**
+  the semen was his. District Attorney **Robert Morgenthau**'s office investigated and recommended
+  vacating the convictions. Justice **Charles J. Tejada** vacated all five men's convictions on
+  **19 December 2002**. All had finished their sentences. Wise, tried as an adult, was released in August 2002 (served
+  about 13 years, 1989-2002). In the 2014 settlement each of four men got about $7.1 million and
+  Wise $12.2 million, "because he had served six additional years" (WP). Reyes was not charged because the five-year time limit
+  had passed. **Dispute:** a panel appointed by Police Commissioner **Raymond Kelly** (the Armstrong
+  Report, January 2003) accepted the DNA result but said the five had "most likely" also taken part
+  in the attack. The court and the DA did not accept that. **2014:** the city paid the five **$41
+  million** to settle their lawsuit. **Films (WP):** *The Central Park Five* (documentary by Ken Burns, Sarah Burns
+  and David McMahon, premiered May 2012) and *When They See Us* (Netflix miniseries, 31 May 2019,
+  co-written and directed by Ava DuVernay).
+- **Steven Lopez**'s separate convictions were vacated in July 2022 (WP).
+
+### The death penalty after 2000 (DPIC Fact Sheet, updated 18 September 2026)
+
+- Executions per year fell from **85 in 2000** to **11 in 2021**, then rose to **47 in 2025**
+  (Florida carried out 19 of the 47, per DPIC's 2025 year-end report, search summary; the fact
+  sheet table shows Florida 140 total, 15 in 2026). **27** executions in 2026 as of 18 September.
+  **23** new death sentences in 2025. Death row **2,024** people on 1 October 2025. **23** states have no
+  death penalty. **Exonerations from death row since 1973: at least 203** (text of the fact sheet)
+  or **202** (its state table total). Two figures in one document.
+- *Roper v. Simmons* (2005) ended the death penalty for crimes committed under 18. *Atkins v.
+  Virginia* (2002) ended it for people with intellectual disabilities (DPIC Fact Sheet).
+- **George Stinney Jr.** (WP "George Stinney"): a 14-year-old Black boy in Alcolu, South Carolina,
+  accused of killing two white girls, Betty June Binnicker, 11, and Mary Emma Thames, 8, on 22 March
+  1944. Tried, convicted and sentenced in one day in April 1944. The all-white jury deliberated less
+  than ten minutes. Electrocuted **16 June 1944**. Governor **Olin D. Johnston** refused clemency.
+  On **16 December 2014** Circuit Judge **Carmen Mullen** vacated the conviction: he had no real
+  defense, his Sixth Amendment rights were violated and his confession was likely coerced.
+  (Vacated for an unfair trial. The court did not name another killer.)
+
+### Crime: the 2020 rise and the 2025 low
+
+- **Pew Research Center, 27 October 2021** (opened): FBI data showed **21,570** murders in 2020, up
+  **29%** from 16,669 in 2019, "the largest single-year increase in more than a century." The 2020
+  rate was 7.8 per 100,000, 22% below 1991 (10).
+- **FBI, "FBI Releases 2025 Reported Crimes in the Nation Statistics," 14 August 2026**, and **FBI
+  story, "Violent Crime Falls at Historic Rate," 24 August 2026** (both opened with curl): the
+  violent crime rate fell **9.3%** from 2024 to 2025, "the largest year-to-year decline in violent
+  crime rates since FBI estimations began in 1936." Murder fell an estimated **18.1%**. The 2025
+  murder rate, **4.1 per 100,000**, "is tied with 1955 and 1956 for the lowest murder rate." Violent
+  crime rate **327.6** per 100,000 in 2025, down from 362.9 in 2024. Robbery down 18.5%, rape 7.6%,
+  aggravated assault 7.2%, property crime 12.4%. Agencies covering **96.2%** of the population
+  reported.
+
+### Police killings: the counts and named cases with official outcomes
+
+- **No full official count.** The best-known count is by an advocacy group. **Campaign Zero,
+  *Mapping Police Violence 2025 Year-end Report*** (February 2026, PDF read): police killed at
+  least **1,383** people in 2024 and **1,314** in 2025, the first decrease in six years. Per 100,000
+  people in 2025: Black 0.75, white 0.29 (**2.6 times**), American Indian/Alaska Native 0.86.
+- **Body cameras: BJS, *Local Police Departments: Policies and Procedures, 2020*** (NCJ 307405,
+  November 2023, PDF read): "In 2020, 62% of local police departments used body-worn cameras, a
+  43% increase from 2016." 79% of local officers worked in departments using them. All departments
+  serving 1 million or more people used them. About 29% of departments allowed neck restraints only
+  in limited cases.
+- **Michael Brown, Ferguson, Missouri** (WP "Killing of Michael Brown"; DOJ Ferguson report in the
+  parked section above): shot by officer **Darren Wilson** on **9 August 2014**. A St. Louis County
+  grand jury did not indict him (announced **24 November 2014** by prosecutor Robert McCulloch). The
+  DOJ in March 2015 did not charge him. In July 2020 county prosecutor **Wesley Bell** reviewed the
+  case and did not charge him.
+- **Eric Garner, Staten Island, 17 July 2014** (WP): Officer **Daniel Pantaleo** put him in a
+  chokehold, which NYPD rules banned. Garner said "I can't breathe" **11 times**. The medical
+  examiner ruled it a homicide. A Richmond County grand jury did not indict him (December 2014. WP gives
+  4 December in its summary and 3 December in its DOJ section). Attorney General **William Barr**
+  declined federal charges **16 July 2019**. Commissioner **James O'Neill** fired Pantaleo **19 August
+  2019**.
+- **Tamir Rice, Cleveland, 22 November 2014** (WP): 12 years old, holding a toy airsoft gun. The
+  911 caller twice said the gun was "probably fake" and the person "probably a juvenile"; the
+  dispatcher did not pass this on. Officer **Timothy Loehmann** shot him almost at once on arriving.
+  Grand jury declined to indict, **28 December 2015**. Loehmann was fired **30 May 2017** for lying on
+  his job application.
+- **Breonna Taylor, Louisville, 13 March 2020** (WP): officers forced entry on a drug warrant; her
+  boyfriend **Kenneth Walker** fired once, hitting officer **Jonathan Mattingly**. Officers fired **32**
+  rounds. **Myles Cosgrove** fired the shot that killed her. Grand jury did not indict Mattingly or
+  Cosgrove. **Brett Hankison**, whose shots hit no one, was convicted in federal court **1 November
+  2024** of using excessive force and sentenced **21 July 2025** to **2 3/4 years** (33 months). Former
+  detective **Kelly Goodlett** pleaded guilty on 23 August 2022 to helping falsify the warrant.
+  City paid **$12 million**.
+- **George Floyd, Minneapolis, 25 May 2020** (WP "Murder of George Floyd"; closes the gap parked by
+  rights-movements, from journalism-based WP; mncourts.gov still not opened): officer **Derek
+  Chauvin** knelt on his neck for over nine minutes. **20 April 2021:** a Hennepin County jury
+  convicted Chauvin of second-degree unintentional murder, third-degree murder and second-degree
+  manslaughter. **25 June 2021:** Judge **Peter Cahill** sentenced him to **22 1/2 years**, above the
+  12 1/2-year guideline, after finding "particular cruelty." **15 December 2021:** federal guilty plea
+  (see parked item). **7 July 2022:** Judge **Paul Magnuson** sentenced him federally to **21 years**
+  (252 months), to run at the same time as the state term. The other three officers: **Thomas Lane**
+  (federal 2 1/2 years, state plea to aiding and abetting manslaughter, 3 years), **J. Alexander
+  Kueng** (federal 3 years, state plea, 3 1/2 years), **Tou Thao** (federal 3 1/2 years, state guilty
+  finding by the judge). Released: Lane August 2024, Kueng January 2025, Thao November 2025 (WP).
+  Minneapolis paid Floyd's family **$27 million** (12 March 2021).
+- **Tyre Nichols, Memphis, 7 January 2023** (WP): five Memphis officers of the SCORPION unit,
+  **Tadarrius Bean, Demetrius Haley, Emmitt Martin III, Desmond Mills Jr. and Justin Smith**, pulled
+  him from his car, pepper-sprayed and tased him, then caught him near his mother's house and
+  punched, kicked and hit him with a baton. He died **10 January** of blunt force injuries to the
+  head. Mills and Martin pleaded guilty. **Federal jury, 3 October 2024:** Haley guilty on all counts
+  (the jury found his acts caused injury, not death), Bean and Smith guilty only of witness
+  tampering. **State jury, 7 May 2025:** acquitted Bean, Haley and Smith of all state charges,
+  including second-degree murder. **28 August 2025:** Judge **Sheryl Lipman** ordered a new federal
+  trial for the three because of possible bias by the first judge. No new trial result found as of
+  September 2026 (a search summary of Action News 5, 7 April 2026, says the Sixth Circuit dismissed
+  appeals by four officers, unconfirmed: search summary only).
+
+### Crimes by officials
+
+- **Donald Trump, New York, 2024** (WP "Prosecution of Donald Trump in New York"): a Manhattan grand
+  jury indicted him on 34 felony counts of falsifying business records to hide a hush-money payment
+  to Stormy Daniels (30 March 2023). A jury convicted him on all counts on **30 May 2024**, the first
+  US president convicted of a felony. Judge **Juan Merchan** sentenced him on **10 January 2025** to an
+  unconditional discharge (no jail, fine or probation). His appeal was pending in September 2026.
+- **Senator Bob Menendez** and **Proclamation 10887**: parked from `government-politics` (see the
+  parked section at the top of this bank; full text in `research/research-government-politics.md`).
+- **Felony disenfranchisement:** about **4 million** people (1.7% of voting-age people), **1 in 22**
+  Black adults, could not vote in 2024 because of a felony conviction (The Sentencing Project,
+  *Locked Out 2024*, via the government-politics park).
+
+### Native nations and criminal law: *McGirt* (2020) and *Castro-Huerta* (2022)
+
+- **McGirt v. Oklahoma, 591 U.S. 894** (WP): decided **9 July 2020**, **5 to 4**, opinion by Justice
+  **Neil Gorsuch**. The Muscogee (Creek) reservation set aside by Congress in the 1800s was never
+  ended, so Oklahoma has no power to prosecute Native people for major crimes there. Federal and
+  tribal courts take those cases. Oklahoma's appeals court then applied the same reasoning to other
+  nations, so almost all of eastern Oklahoma is Indian country for criminal law. **Jimcy McGirt**, a
+  Seminole citizen, had been convicted in state court of sexually abusing his wife's granddaughter.
+  A federal jury convicted him in November 2020. Gorsuch's opening line: "On the far end of the
+  Trail of Tears was a promise" (parked from native-nations).
+- **Oklahoma v. Castro-Huerta** (WP): in **2022** the Court ruled that states may also prosecute
+  non-Native people for crimes against Native victims in Indian country.
+
+### Tulsa, 1921: the survivors and the city, to 2026 (continues era 8)
+
+- **Viola Ford Fletcher** (WP "Viola Fletcher"): born **10 May 1914**, age 7 in 1921. Testified to
+  Congress **19 May 2021**. Died **24 November 2025**, aged **111**.
+- **Lessie Benningfield Randle**: born **10 November 1914** (KOLUMN Magazine, "The Last Witness of
+  Greenwood," 9 May 2026, opened). Alive as of May 2026 and the last known living survivor.
+- **The survivors' lawsuit:** filed 2020 against the city, county and state bodies. Dismissed by
+  Tulsa County Judge **Caroline Wall** in **July 2023** (WP Fletcher). The Oklahoma Supreme Court
+  upheld the dismissal on **12 June 2024**, 8 to 1 (search summaries of NonDoc, CNN, PBS; KOLUMN
+  confirms "June 2024").
+- **City of Tulsa, 1 June 2025** (cityoftulsa.org press release, opened): Mayor **Monroe Nichols**
+  presented the "Road to Repair" and the **Greenwood Trust**, a private charitable trust with a goal
+  of **$105 million** in assets by **1 June 2026**: $24 million housing, $60 million buildings and
+  blight, $21 million legacy fund (land, scholarships, small-business grants). KOLUMN: the plan "did
+  not include direct cash payments to the last known survivors."
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-265c): whether the Greenwood Trust reached $105 million by 1 June 2026
+Sources checked: City of Tulsa Greenwood Trust page and 1 June 2025 release (goal only); search
+results from News On 6, KRMG, Tulsa World, The Hill, Reuters (all describe the goal or the new
+director, Alaina Beverly, and none gives an amount raised); KOLUMN May 2026 (describes the plan).
+How the prose can say it: "The mayor set a goal of $105 million by June 2026. No total raised had
+been published by September 2026."
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-265c): a BJS national prison count for yearend 2024 or 2025
+Sources checked: BJS publications list (latest national report *Prisoners in 2023*, 30 September
+2025); BJS preliminary prison release URL for 2024 (404); search results (only jail 2024 and
+federal 2024 counts). How the prose can say it: "The latest national count, for the end of 2023,
+found about 1.25 million people in state and federal prisons."
+
+### PATCH 2026-09-27 (T-265c, bank check): people executed who may have been innocent
+- **DPIC, "Executed But Possibly Innocent"** (deathpenaltyinfo.org/policy-issues/policy/innocence/executed-but-possibly-innocent,
+  opened): **21** people executed since 1976 listed with strong evidence of possible innocence, from
+  Carlos DeLuna (Texas, 1989) to Marcellus Williams (Missouri, 2024); others include Cameron Todd
+  Willingham (Texas, 2004) and Troy Davis (Georgia, 2011). "Courts do not generally entertain claims
+  of innocence when the defendant is dead." The page records no court or governor declaring any of
+  the 21 innocent. The only executed person in this bank whose conviction a court later threw out is
+  **George Stinney Jr.** (executed 1944, vacated 2014), and that ruling was about an unfair trial.
+- DPIC's list is an advocacy group's judgment, not a court finding. Say whose list it is.
+
+### PATCH 2026-09-27 (T-265c, bank check): Korey Wise's charges and sentence
+- WP "Central Park jogger case": Wise, 16, was **acquitted of rape and attempted murder** and convicted
+  of sexual abuse, assault and riot. Tried and sentenced as an adult, **5 to 15 years** in adult
+  prison. The four younger defendants got 5 to 10 years in youth custody (Judge Thomas Galligan).
+
+### PATCH 2026-09-27 (T-265c, bank check): the 2009 peak is the highest count on record
+- BJS *Prisoners in 2010* table 1 (2000-2010) peaks at **1,617,970** (yearend 2009). BJS *Prisoners
+  in 2023* table 3 shows sentenced counts falling every year from 2013 (1,520,403) to 2021, and the
+  total at yearend 2023 was 1,254,200. BJS *Prisoners 1925-81* and *Prisoners in 1990* show every
+  earlier year lower. So 2009 is the highest yearend count in the BJS series (1925 on).
