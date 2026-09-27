@@ -164,3 +164,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-250	research	general-purpose/opus	[LOCAL] work-workers patch (2 targets, 10 parked sections) + bank check	22	27	5+	341392	154	1079090	?	completed	PASS patch+research; bank +8443w; 3 searched-not-found
 2026-09-27	T-251	research	general-purpose/opus	[LOCAL] food-farming patch (3 targets) + bank check [PARALLEL x5]	27	?	?	335753	142	1087489	?	completed	PASS patch+research; bank +6876w; 2 searched-not-found; parallel batch start 27%
 2026-09-27	T-255	research	general-purpose/opus	[LOCAL] slavery-freedom patch (1 cand, 1 target) + bank check [PARALLEL x5]	27	?	?	353955	151	1230724	?	completed	PASS patch+research; bank +7377w; 3 searched-not-found
+2026-09-27	T-254	research	general-purpose/opus	[LOCAL] america-world patch (2 candidates) + bank check [PARALLEL x5]	27	?	?	338734	162	1239416	?	completed	PASS patch+research; bank +6614w; 1 searched-not-found

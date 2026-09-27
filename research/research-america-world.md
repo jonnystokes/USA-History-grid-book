@@ -121,6 +121,35 @@ and NPS Fort Matanzas history page
 - **Hard-subjects note:** say "killed" and "executed" and give the numbers. Do not write
   "clashed," "conflict," "eliminated the French presence," or "Spain secured Florida."
 
+### PATCH 2026-09-27 (T-254): Menéndez's own account of the killings, and whose land it was
+
+- **Primary source:** Pedro Menéndez de Avilés, letter to King Philip II, **15 October
+  1565**, trans. Eugene Lyon, *Spanish Borderlands Sourcebooks* (read directly at Early
+  Visions of Florida, an online teaching anthology of early Florida texts,
+  https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/).
+  - **Fort Caroline, 20 September 1565 (his count):** "without the death of a single
+    man [of his] ... we won the fort ... One hundred thirty-two men had their throats cut
+    and, the next day, ten more who were taken prisoner in the woods." So **132 killed at
+    the fort plus 10 caught the next day** in Menéndez's own count. This matches
+    History.com's 132 and adds the 10. NPS gives no number. Keep the dispute note: other
+    accounts differ.
+  - **Matanzas Inlet (the first group):** the Frenchmen "surrendered their arms to me. And
+    I had their hands tied behind them and put them to the knife." ("Put to the knife"
+    means stabbed to death.) Spared: **sixteen**, "twelve were Breton seamen" and four
+    craftsmen, "carpenters and caulkers ... people of whom I have need."
+  - **His stated reason:** he believed that "to punish them in this way would be serving
+    God Our Lord, and Your Majesty," because they were Protestants spreading "their evil
+    sect" and he had come "to plant the Gospel in these parts."
+  - **Who acted:** Menéndez gave the order and his soldiers did the killing (his letter).
+    NPS (The Massacre page, read directly) notes King Philip II was "incensed" at the French
+    settlement but gives no evidence of a royal order to kill; a Wikipedia summary says
+    "under orders from King Philip II" **(unconfirmed: search summary only)**. Write that
+    Menéndez ordered it.
+- **Whose land:** the NPS page records that Menéndez "learned from Timucuan Indians that a
+  group of white men were on the beach." Fort Caroline and St. Augustine stood in the
+  homeland of **Timucua**-speaking peoples (NPS, same page, names them as present). Neither
+  France nor Spain asked them.
+
 ### 2.3 No `hb-story` in this era
 
 Named people exist (Menéndez, Ribault, Laudonnière) but they are Spanish and French officers
@@ -180,6 +209,21 @@ they were allowed to buy and sell.
   `economy` (the sugar and spice trade). Our angle: the town changed countries by treaty.
 - **Note on Suriname and Run:** the sugar came from enslaved labor. `slavery-freedom` leads.
 
+### PATCH 2026-09-27 (T-254): whose land New Netherland was
+
+- Pratt Institute Libraries, *Lenape Peoples' History* research guide (university library,
+  read directly, https://libguides.pratt.edu/c.php?g=1088684&p=9380209): the **Lenape**
+  "originally lived on lands that now encompass New York City, parts of Long Island and the
+  Hudson Valley, New Jersey, northeastern Delaware, and eastern Pennsylvania"; their
+  homeland is called **Lenapehoking**. The Dutch claimed they "purchased" Mannahatta in
+  1626 for 60 guilders' worth of trade goods, and likely misread what the Lenape meant by
+  the exchange. "by 1700 the Lenape population was reduced by 85%," from diseases the
+  colonists brought.
+- So in 1664, 1667 and 1674, when English and Dutch diplomats traded New Netherland back
+  and forth, the land was Lenape land (and Mohican and Haudenosaunee land farther up the
+  Hudson, which this bank has not separately sourced). No Lenape were party to Breda or
+  Westminster (the treaties are between the two crowns; see 3.3 sources).
+
 ### 3.4 No `hb-story` in this era — and why
 
 Named colonial officials exist, but every one of them was an officer of a European
@@ -235,6 +279,21 @@ Europeans and not Americans.
     Our slice is only this: he was a diplomat, and the treaty he argued for was between
     nations.
 
+### PATCH 2026-09-27 (T-254): Kondiaronk story facts not yet in the bank
+
+- Pointe-à-Callière museum, *Kondiaronk, broker of the Great Peace of Montréal* (read
+  directly, https://pacmusee.qc.ca/en/stories-of-montreal/article/kondiaronk-broker-of-the-great-peace-of-montreal/):
+  born **around 1649**; the museum calls him a **Huron chief** (the bank above says
+  Tionontati, Petun/Wendat; the Tionontati were a Wendat-related people, so "Huron-Wendat"
+  covers both); the French nicknamed him **"the Rat"** for the ruses he used in
+  negotiations; weakened by fever in an epidemic, he spoke at the council on **1 August
+  1701**, was taken to the **Hôtel-Dieu**, and died hours later; his funeral was held on
+  **3 August 1701 at Notre-Dame** in Montréal, with the governor of Montréal, French staff
+  officers, war chiefs and clergy in the cortege, and he was **buried at Notre-Dame**.
+  (The museum calls it "Notre Dame Cathedral." The present Notre-Dame Basilica was built
+  later on a neighbouring site, so write "Montréal's Notre-Dame church" rather than
+  "cathedral".) Death date 1 or 2 August 1701 stays a stated dispute.
+
 ### 4.3 The Treaty of Utrecht, 11 April 1713 — a war ends and a slave-trading contract is a prize
 
 - The **Treaty of Utrecht** was concluded **11 April 1713** at Utrecht in the Netherlands,
@@ -278,6 +337,21 @@ Europeans and not Americans.
   undid it.
 - **Caution:** the "harbingers of American discontent" framing is an interpretation, not a
   fact. Do not write that Louisbourg caused the Revolution.
+
+### PATCH 2026-09-27 (T-254): Louisbourg, how many New Englanders died
+
+- HistoryNet, "King George's War: Siege of Louisbourg" (magazine journalism, label it; read
+  directly, https://historynet.com/king-georges-war-siege-of-louisbourg/): during the siege
+  the New Englanders lost **about 100 men to enemy fire and about 30 to illness**. In the
+  winter occupation that followed they **buried 561 of their number between the end of
+  November 1745 and the middle of February 1746**, from disease in the ruined, filthy
+  fortress. Pepperrell recorded **about 1,200 men lost** in all.
+- A second count, seen only in a search summary of Wikipedia, gives "100 killed and
+  wounded" and "900 dead of disease" for New England, and 130 killed and wounded plus 300
+  dead of disease for the French **(unconfirmed: search summary only)**.
+- **How the prose can say it:** about 130 men died during the siege and at least 561 more
+  died of disease in the fortress the following winter, before Britain handed it back.
+  Name the count (Pepperrell's total, about 1,200) as his.
 
 ### 4.5 Optional, lower priority (verified enough to mention, not to lean on)
 
@@ -415,6 +489,29 @@ Europeans and not Americans.
 - Britain also did not withdraw from the northwestern posts as promised — which is why the
   Jay Treaty had to address it eleven years later (see 5.6).
 
+### PATCH 2026-09-27 (T-254): the 1783 treaty and the Native nations (clears unverified item 11)
+
+- The Canadian Encyclopedia, *Treaty of Paris 1783* (read directly,
+  https://www.thecanadianencyclopedia.ca/en/article/treaty-of-paris-1783):
+  "Indigenous peoples were not invited to the Paris negotiations." "Britain gave the United
+  States the valuable lands it had reserved for Indigenous peoples. These lands were
+  reserved in the Royal Proclamation of 1763." "This ignored numerous treaties made with
+  Indigenous peoples."
+- National Humanities Center, *America in Class*, "America and the Six Nations" (read
+  directly, https://americainclass.org/america-and-the-six-nations/): "the Six Nations were
+  ignored in the Treaty of Paris of 1783," though they lived in the territory negotiated
+  and had fought on both sides. At **Fort Stanwix in 1784** American negotiators,
+  "supported by a strong military presence, dealt with the Iroquois as a conquered
+  nation," taking "huge sections of land from the Six Nations."
+- **Land (whose it was):** the Six Nations of the Haudenosaunee (Mohawk, Oneida, Onondaga,
+  Cayuga, Seneca, Tuscarora) in what is now New York and Pennsylvania, the Seneca holding
+  the western part (NHC). The nations of the Ohio country and the South also lived inside
+  the line; this bank has no directly read source listing them, so the prose should name
+  the Six Nations and say "and many other nations" rather than list more. `native-nations`
+  leads on what followed.
+- Joseph Brant's reported words that Britain "sold the Indians to Congress" appear only in
+  a search summary **(unconfirmed: search summary only)**. Do not quote.
+
 ### 5.5 The first American ministers abroad
 
 - **John Adams** was the first United States minister to Great Britain. He was **presented to
@@ -496,6 +593,75 @@ men were **enslaved**; that is the word the sources use.
   the Atlantic trade, not on Americans enslaved in North Africa) · `war` (the Barbary Wars
   of 1801–05 and 1815, which fall in era 6).
 
+### PATCH 2026-09-27 (T-254): Cathcart, from his own account (resolves the candidate)
+
+Primary source: James Leander Cathcart, *The Captives: Eleven Years a Prisoner in Algiers*,
+compiled by his daughter J. B. Newkirk (La Porte, Ind.: Herald Print, 1899), full text at
+the Internet Archive, https://archive.org/details/captives00cathrich (text file
+https://archive.org/download/captives00cathrich/captives00cathrich_djvu.txt). Read directly.
+Second source: Dartmouth Libraries Archives & Manuscripts agent record (read directly,
+https://archives-manuscripts.dartmouth.edu/agents/people/7507). The LOC finding aid PDF and
+LOC catalog page both return a Cloudflare challenge / HTTP 403 to automated readers, so
+they were not read; the two sources above cover every fact below.
+
+- **Birth year settled: 1 June 1767.** Cathcart writes "I was born at the same place June 1,
+  1767," the place being Mount Murragh, County Westmeath, Ireland (*The Captives*, ancestry
+  page). Dartmouth gives 1 June 1767 to 6 October 1843. The 1765 figure comes only from a
+  genealogy page and is contradicted by his own statement. **Use 1767.** Died 6 October 1843
+  (Dartmouth).
+- **Before Algiers:** came to America as a boy (Dartmouth: at age eight); midshipman on the
+  frigate *Confederacy* under Capt. Seth Harding; captured by the British and held on
+  prison ships at New York until he escaped with a fellow prisoner (*The Captives*,
+  preface; Dartmouth gives the capture as 1782).
+- **The capture:** the schooner *Maria* of Boston was taken 25 July 1785, three miles
+  southeast of Cape St. Vincent, Portugal, by an Algerian xebec (a sailing warship) of 14
+  guns, and reached Algiers on 4 August 1785. The *Dauphin* of Philadelphia was taken by
+  the Algerian admiral's ship on 30 July (his narrative) or 2 August (his list) 1785 and
+  reached Algiers 12 August (*The Captives*, ch. 1 and appendix list).
+  - Cathcart's reason for the timing: Spain had just made peace with Algiers (30 June 1785)
+    and the British consul, **Charles Logie**, told the Algerians they could take any ship
+    without a certain British pass (*The Captives*, ch. 1). This is Cathcart's account.
+- **CORRECTION NOTE to the bank line above ("Cathcart and twenty other sailors were
+  enslaved"):** the *Maria* had a crew of **six**. Cathcart: "They were twenty-one in number
+  and we were only six." The **21** is the total of Americans taken in 1785 from **both**
+  ships: 6 from the *Maria* and 15 from the *Dauphin* (his appendix list names all 21).
+- **What the captors did:** they drove the six into a boat, took their hats, handkerchiefs
+  and shoes, and on the voyage shut the captives (42 men) every night in the sail room in
+  the hold; the water was so foul "we were, literally, obliged to strain through our teeth"
+  (*The Captives*, ch. 1).
+- **Work and punishment in Algiers (his account):** Dey **Muhammad** (Mahomed Bashaw)
+  chose some captives for his palace and garden; others went to the slave prisons (bagnios)
+  and to hard labor at the marine (the harbor works). Men at hard labor got one suit of
+  clothes worth about a dollar and a half and two coarse blankets meant to last the whole
+  captivity. About four months in, the Dey's chamberlains had four men throw Cathcart down,
+  tie his arms and legs, and beat the soles of his feet with sticks, **28 blows**, which
+  cost him four toenails. **Bastinado** (define it at first use) = beating the soles of the
+  bare feet with a stick while the person is held down. He records that all fourteen
+  garden slaves got the same, "old men of sixty and children of ten years of age" included,
+  and describes the standard method: the man thrown face down, his ankles tied into cord
+  loops on a 6-to-8-foot pole held up by two men, a guard sitting on his shoulders
+  (*The Captives*, ch. 2 and ch. on the marine). He was later moved from the Bagnio Belique
+  to the Bagnio Galera and "put to hardest labor" (ch. 7 heading).
+- **His rise, step by step (ch. 7 headings):** coffee server to the Vikilharche (the
+  minister of the marine), then clerk of the marine, then clerk of the Bagnio Galera, and
+  at last **chief Christian clerk to the Dey** (preface: "Christian clerk to the Dey of
+  Algiers, being the medium to approach the Dey when the Ambassadors could not gain an
+  audience").
+- **The toll on the 21 taken in 1785 (his appendix list):** **9 died** in captivity (most
+  of plague, one "in the mad house" in 1793, the *Dauphin*'s Captain Zacheus Coffin of
+  consumption in 1787) and **12 returned home at different times**, some redeemed by
+  family or friends before 1796, the rest in the general redemption of 1796.
+- **CORRECTION NOTE to the bank line "sailed to Philadelphia in 1796 with twelve surviving
+  members of the original crew":** Cathcart's own list says the twelve survivors went home
+  "at different times." He **left Algiers on 8 May 1796 carrying dispatches**, and came
+  "at his own expense" to pick out the goods promised to the Dey under the treaty
+  (*The Captives*, preface and ch. 19). Do not write that he brought the twelve home.
+- **After:** married Jane B. Woodside in Philadelphia on 5 June 1798; sailed from
+  Philadelphia in January 1799 as consul for Tunis and Tripoli (*The Captives*, ch. 19);
+  consul-general at Cádiz 1807 to 1817 (Dartmouth).
+- **Movie:** none found. `movie=""` stands.
+- **Status: promote `james-leander-cathcart` to verified.**
+
 ### 5.7 The 1790s — staying out of Europe's war
 
 - **8 April 1793:** **Edmond-Charles Genêt**, the new French minister, landed at
@@ -560,6 +726,20 @@ men were **enslaved**; that is the word the sources use.
     writing it.**
 
 ---
+
+### PATCH 2026-09-27 (T-254): the XYZ Affair and the Convention of 1800
+
+- Office of the Historian, *The XYZ Affair and the Quasi-War with France, 1798-1800* (read
+  directly, https://history.state.gov/milestones/1784-1800/xyz): the French agents
+  demanded a low-interest loan to France, that the United States take on American merchants'
+  claims against France, and "a substantial bribe to Talleyrand." **The page gives no dollar
+  figures** (unverified item 3 stays open: do not print $250,000 or a loan amount). Envoys
+  Gerry, Pinckney, Marshall and agents Hubbard (W), Hottinguer (X), Bellamy (Y), Hauteval
+  (Z) confirmed. The Quasi-War was "a limited, undeclared war" in the Caribbean. The
+  Convention of 1800 (Treaty of Mortefontaine) **ended the 1778 Treaty of Alliance**, the page
+  calls the 1778 treaty "the only formal treaty of alliance of the United States"; the Senate
+  ratified it on **December 18, 1801**. The page gives **no signing date**; unverified item
+  2 stays open.
 
 ## Sources used (eras 1–5)
 
@@ -693,6 +873,29 @@ men were **enslaved**; that is the word the sources use.
 - **Zoom-3 candidate — John Quincy Adams (verified as diplomat).** Secretary of State 1817–1825; negotiated the Adams–Onís Treaty (1819) that took Florida from Spain; wrote the Monroe Doctrine. ([Office of the Historian — Biographies of the Secretaries of State: John Quincy Adams](https://history.state.gov/departmenthistory/people/adams-john-quincy); [State Department Diplomacy Center](https://diplomacy.state.gov/encyclopedia/john-quincy-adams-secretary-of-state-and-president/).) `government-politics` owns his presidency; ours is the Secretary of State. **Movie: none verified — leave the line out.**
 - **Shared with:** `war` (the fighting of the Mexican-American War) · `migration` and `native-nations` (who lived on the purchased and conquered land) · `government-politics` (the presidency, the Senate votes).
 
+### PATCH 2026-09-27 (T-254): the people in the land taken from Mexico
+
+- History Colorado (state historical society, read directly via curl,
+  https://www.historycolorado.org/press-release/2015/02/02/167-years-ago-us-and-mexico-signed-treaty-guadalupe-hidalgo):
+  the ceded land became all or part of Colorado, New Mexico, California, Arizona, Nevada,
+  Utah and Wyoming. "**Nearly 80,000 Mexican citizens** lived in this area, and the Treaty
+  of Guadalupe Hidalgo promised to protect them. However, Congress refused to ratify or
+  weakened parts of the treaty that guaranteed the property and civil rights of former
+  Mexican citizens." Communal land grants in northern New Mexico and southern Colorado
+  were broken up in the late 1800s.
+- A SAGE encyclopedia entry gives about **100,000** (search summary only,
+  **unconfirmed: search summary only**). **Write "between about 80,000 and 100,000,
+  depending on the count."** This settles the bank's earlier "~100,000 Mexicans" item as
+  a range.
+- Britannica, *Mexican Cession (1848)* (read directly via curl,
+  https://www.britannica.com/event/Mexican-Cession): the Senate "specifically struck out
+  Article X." A law of **1851** required Mexican landholders in California to prove their
+  deeds before the US government, and "lengthy legal proceedings coupled with illegal land
+  seizures" cost many their land or put them in debt. New citizens "were often victims of
+  violence and discrimination." The treaty also pledged to protect them "from attacks by
+  Native peoples," the only mention of the Native nations who also lived across the ceded
+  land. The bank has no directly read source listing those nations. `native-nations` leads.
+
 ### Casualty note for the writer (era 06)
 
 The Mexican-American War's American death toll is usually given as about **13,000**, the great majority from disease rather than combat; Mexican military and civilian death estimates are far less firmly counted. **This bank did not verify a specific figure — do not state one as verified.** Either leave the number out or mark it `[VERIFY]` for the prose pass. `war` leads on casualties.
@@ -727,6 +930,45 @@ The Mexican-American War's American death toll is usually given as about **13,00
 - **Zoom-3 — Queen Liliʻuokalani (verified, required name).** Last monarch of the Hawaiian Kingdom, deposed January 17, 1893, imprisoned in ʻIolani Palace after a failed counter-revolt in January 1895, composer of "Aloha ʻOe." **Movie: no documentary verified in this pass — leave the Movie line out rather than guess.**
 - **Boundary:** `native-nations` owns Native Hawaiians as a people; **we own the kingdom's overthrow and the territorial status.** `food-farming` and `big-business` own sugar and the Big Five.
 
+### PATCH 2026-09-27 (T-254): Liliʻuokalani's trial and imprisonment, 1895
+
+- ʻIolani Palace, *Queen's Imprisonment* (read directly,
+  https://www.iolanipalace.org/history/queens-imprisonment/): after an unsuccessful attempt
+  by Hawaiian royalists to restore her in 1895, she was arrested, **put on trial before a
+  military tribunal in her own throne room**, convicted, fined, and sentenced to **five
+  years in prison at hard labor**. The sentence was reduced to **imprisonment in an upstairs
+  bedroom of the Palace for nearly eight months**.
+- ʻIolani Palace, *Imprisonment Room* (read directly,
+  https://www.iolanipalace.org/sacred-palace/the-palace/imprisonment-room/): she was
+  **denied visitors except for one lady companion**. Her days: prayers, reading, music
+  composition, crochet and quilting.
+- **Who acted, 1887 to 1895** (U.S. House of Representatives, History, Art & Archives,
+  *Exclusion and Empire: Hawaii*, read directly,
+  https://history.house.gov/Exhibitions-and-Publications/APA/Historical-Essays/Exclusion-and-Empire/Hawaii/):
+  - **June 30, 1887:** "an organization of haole [white, non-Native] lawyers and sugar
+    planters, accompanied by an armed militia and led by attorneys **Sanford B. Dole and
+    Lorrin Thurston**, forced King Kalakaua to sign a new constitution" (the "Bayonet
+    Constitution").
+  - **1893:** the Annexation Club, including **Lorrin Thurston**, contacted US Minister
+    **John L. Stevens** to gauge American support. The committee began its move on
+    **January 15, 1893**, with American military backing. **Sanford Dole accepted the
+    presidency of the provisional government.** Cleveland's new minister, **Albert S.
+    Willis**, apologized for "the reprehensible conduct of the American minister and the
+    unauthorized presence on land of a military force."
+  - **July 4, 1894:** the provisional government declared itself the Republic of Hawaii.
+  - **January 1895:** royalists including **Robert Wilcox** and **Prince Kūhiō** plotted a
+    counterrevolution; within 36 hours the rebels were caught and jailed.
+  - **Annexation vote:** the House passed Newlands's resolution on June 15, 1898 (the page
+    as summarised gives 290 to 91; a search summary of the 2001-2009 State Department
+    page gives **209 to 91**. Record both. Which is right is
+    **unconfirmed**. Write "passed the House" without the count unless settled); the Senate approved it July 6, McKinley signed July 7.
+    Hawaiian Organic Act signed April 30, 1900.
+- So the men who tried the Queen in 1895 were officers of the **Republic of Hawaii**, which
+  Dole headed (House History as above). The palace pages do not name the tribunal members. The charge, **misprision of treason** (knowing of a plot against the
+  government and not reporting it), and the **$5,000 fine**, plus the January 1895 rising
+  led by **Robert Wilcox and Samuel Nowlein**: **(unconfirmed: search summary only)**,
+  from summaries of imagesofoldhawaii.com and wheninyourstate.com.
+
 ### 1898: Puerto Rico, Guam, and the Philippines
 
 - The battleship **USS *Maine* exploded in Havana harbor on February 15, 1898**; the United States declared war on Spain in April 1898.
@@ -740,6 +982,71 @@ The Mexican-American War's American death toll is usually given as about **13,00
 - **Casualties — state the range and the disagreement.** About **4,200 American** and about **20,000 Filipino combatant** deaths. **Filipino civilian deaths are estimated at more than 200,000 (Britannica), and other estimates run from 250,000 up to 1,000,000**; the Philippine-American War Centennial Initiative puts civilian deaths at 510,000, excluding a further ~100,000 in the Moro campaigns that continued to 1913. Much of the civilian death toll came from famine and from the cholera epidemic of 1902, which itself killed more than 200,000 and was made worse by the war's disruption. ([Britannica](https://www.britannica.com/event/Philippine-American-War); [New World Encyclopedia — Philippine-American War](https://www.newworldencyclopedia.org/entry/Philippine-American_War) — labeled encyclopedia.) **Never give one number as the number.**
 - The war's later years (1901–1902) belong to era 08 by date; see below.
 - **Zoom-3 candidate — Emilio Aguinaldo** — declared Philippine independence June 12, 1898, led the republic and then the war against the United States, captured 1901. **Status: `candidate`.** This bank verified only the June 12, 1898 declaration and his leadership from Britannica; his capture date and later life were not separately verified in this pass. `war` leads on the fighting.
+
+### PATCH 2026-09-27 (T-254): Emilio Aguinaldo, sourced (resolves the candidate)
+
+Sources read directly: Encyclopaedia Britannica, "Emilio Aguinaldo"
+(https://www.britannica.com/biography/Emilio-Aguinaldo, read via curl because WebFetch got a
+403); Office of the Historian, "The Philippine-American War, 1899-1902"
+(https://history.state.gov/milestones/1899-1913/war); Army Historical Foundation, "A
+Desperate Undertaking: Funston Captures Aguinaldo"
+(https://armyhistory.org/a-desperate-undertaking-funston-captures-aguinaldo/, a nonprofit
+army-history magazine, label it).
+
+- **Born** March 22 or 23, 1869 (Britannica gives both), near Cavite, Luzon. **Died**
+  February 6, 1964, Quezon City (Britannica). Of Chinese and Tagalog parentage. Left school
+  early to help his mother run the family farm.
+- **1896:** mayor of Cavite Viejo (now Kawit) and local leader of the **Katipunan**, a secret
+  revolutionary society fighting Spanish rule (Britannica).
+- **December 1897:** signed the **Pact of Biak-na-Bato** with the Spanish governor general.
+  He agreed to leave the Philippines in exchange for a payment from Spain and a promise of
+  reforms (Britannica, which gives no sum). Went to Hong Kong, then Singapore.
+- **1898:** arranged with officials of the American consulates and of Commodore **George
+  Dewey** to return and help the United States against Spain. **Returned May 19, 1898.**
+  Filipinos declared independence from Spain on **June 12, 1898**, and set up a provisional
+  republic with Aguinaldo at its head. A revolutionary assembly ratified independence in
+  September 1898 (Britannica).
+- **Treaty of Paris, December 10, 1898:** Spain ceded the Philippines, Puerto Rico and Guam
+  to the United States (Britannica).
+- **January 23, 1899:** the Malolos Constitution was proclaimed and Aguinaldo was elected
+  president of the Philippine Republic (Britannica).
+- **February 4, 1899:** fighting began around Manila. Aguinaldo issued a proclamation of
+  war against the United States. His government moved north. From **November 1899** the
+  Filipino forces fought as guerrillas (Britannica).
+- **What US forces did in the war (Office of the Historian, direct quote):** "U.S. forces at
+  times burned villages, implemented civilian reconcentration policies, and employed
+  torture on suspected guerrillas." Deaths: over 4,200 American and over 20,000 Filipino
+  combatants, and "As many as 200,000 Filipino civilians died from violence, famine, and
+  disease" (Office of the Historian). (Compare the wider civilian range already in this bank.)
+- **Capture, March 23, 1901, at Palanan, northern Luzon**, in an operation led by
+  Brig. Gen. **Frederick Funston** (Britannica). How it worked (Army Historical Foundation):
+  Macabebe scouts, Filipinos who served the US Army, dressed as rebel soldiers. Funston and
+  a few other American officers went along pretending to be their prisoners. Forged letters
+  told Aguinaldo that reinforcements were bringing American prisoners to Palanan. The party
+  left by gunboat on the evening of March 6, 1901, and marched from Casiguran from March 14.
+  At Palanan the Macabebes opened fire on Aguinaldo's guards, **killing two** and
+  scattering the rest, and seized him.
+  - Search summaries also carry "81 Macabebes" and a forged signature of the rebel
+    commander Urbano Lacuna (americanheritage.com / armyhistory.org search snippets)
+    **(unconfirmed: search summary only)**. One low-quality summary said "without any
+    bloodshed," which the Army Historical Foundation contradicts. Use "two guards killed."
+- **After capture:** took an oath of allegiance to the United States and got a US
+  government pension (Britannica). **April 19, 1901:** issued a proclamation calling on
+  the fighters to lay down their arms and accept American rule (Army Historical Foundation).
+  The war went on without him: Roosevelt declared it over July 4, 1902 (bank, era 08).
+- **Later life (Britannica):** ran for president of the Philippine Commonwealth in 1935 and
+  lost badly (to Manuel Quezon; Britannica says only "decisively beaten"). During the
+  Japanese occupation from December 1941 the Japanese used him for anti-American speeches
+  and articles, and in early 1942 he broadcast an appeal to Gen. Douglas MacArthur on
+  Corregidor to surrender. US forces arrested him after retaking Manila in 1945. He and
+  others accused of collaboration were held for some months and released by presidential
+  amnesty. In 1950 President Elpidio Quirino named him to the Council of State.
+- **Movie:** *Heneral Luna* (2015) and *Goyo: The Boy General* (2018) are Filipino films
+  in which Aguinaldo is a character, not films about him. Not verified in this pass.
+  **Leave `movie=""`.**
+- **Status: promote `emilio-aguinaldo-america-world` to verified.** `war` leads on the
+  fighting and names him in a zoom only (outlines/war.md:350). No other chapter has a story
+  block for him.
 
 ### American Samoa, 1899–1900
 
@@ -779,6 +1086,45 @@ The Mexican-American War's American death toll is usually given as about **13,00
 - Also documented in the war and in Senate hearings: the **"water cure,"** in which American soldiers forced water into a prisoner's stomach to make him talk. Name it; do not describe beyond what a source states.
 - **President Theodore Roosevelt declared the war over on July 4, 1902**; fighting in the Moro provinces continued to 1913.
 
+### PATCH 2026-09-27 (T-254): the water cure, sourced, with the men who did it
+
+Source read directly: Paul A. Kramer (historian, Vanderbilt University), "The Water Cure,"
+*The New Yorker* (the PDF on the author's site does not print the issue date), author's PDF at
+https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Paul-Kramer_New-Yorker.pdf
+
+- **What it was (define at first use).** At Igbaras, in the Philippines, on **November
+  27, 1900**, US soldiers tied up **Tobeniano Ealdama**, the town's presidente (mayor), and
+  forced water into him. His throat was "held so he could not prevent swallowing the
+  water, so that he had to allow the water to run into his stomach." Then the water was
+  "forced out of him by pressing a foot on his stomach or else with [the soldiers'] hands."
+  (Sgt. Charles S. Riley's testimony, as quoted by Kramer.) The aim was to make him talk.
+- **Who did it:** a "water detail" of five or six soldiers, supervised by a contract
+  surgeon and **Captain Edwin F. Glenn**, an army judge advocate (lawyer). After a second
+  round in front of the town's convent, Ealdama said he was a captain in the insurgency.
+  That night Glenn ordered the town, **400 to 500 houses**, burned to the ground.
+- **How it came out:** Senator **George Frisbie Hoar** asked for an investigation.
+  Senator **Henry Cabot Lodge** kept it inside his own Committee on the Philippines, which
+  began hearings at the end of January 1902. On **April 14, 1902**, **Charles S. Riley**, a
+  former sergeant in the 26th Volunteer Infantry, testified to what he saw. Another member
+  of his unit confirmed it.
+- **What happened to Glenn:** Secretary of War **Elihu Root** ordered a court-martial. It
+  was moved from San Francisco to Catbalogan in the Philippines, away from the witnesses.
+  Glenn was found guilty and sentenced to **a one-month suspension and a fifty-dollar
+  fine**. He retired in 1919 as a brigadier general. Ealdama, "twice tortured by Glenn's
+  forces," was himself serving a prison sentence as a "war traitor."
+- **President Theodore Roosevelt**, in a private letter, called it "the old Filipino method
+  of mild torture, the water cure," wrote that "nobody was seriously damaged," and also
+  wrote "torture is not a thing that we can tolerate."
+- **Samar, the same year (Kramer):** Marine Major **Littleton Waller** ordered **eleven
+  Filipino guides and carriers** shot without trial. At his court-martial Waller said he
+  was under General Jacob Smith's orders, and he was acquitted. Smith, court-martialed that
+  spring, was found guilty of "conduct to the prejudice of good order and military
+  discipline," reprimanded, and made to retire early. (This matches and adds to the bank's
+  Samar entry.)
+- **Correction note:** the bank line above says the water cure was forced into "a
+  prisoner's stomach." Kramer's source shows the victim at Igbaras was the town's elected
+  head, not a captured fighter. Name him.
+
 ### The Panama Canal
 
 - The United States backed Panama's separation from Colombia in 1903. The **Hay–Bunau-Varilla Treaty was signed on November 18, 1903** — **signed on Panama's behalf by Philippe-Jean Bunau-Varilla, a Frenchman.** It gave the United States, **in perpetuity**, a strip **10 miles wide** across the isthmus. Panama received **$10,000,000 outright and $250,000 a year beginning nine years later**. ([Britannica — Hay–Bunau-Varilla Treaty](https://www.britannica.com/event/Hay-Bunau-Varilla-Treaty); [Theodore Roosevelt Center — Panama Canal Treaty](https://www.theodorerooseveltcenter.org/encyclopedia/foreign-affairs/panama-canal-treaty/); [treaty text](https://iilj.org/wp-content/uploads/2016/08/Panama-Canal-Treaty-of-1903.pdf).)
@@ -814,6 +1160,146 @@ The Mexican-American War's American death toll is usually given as about **13,00
 
 ---
 
+### PATCH 2026-09-27 (T-254): the occupations, who ordered them, and the dead
+
+**Haiti, 1915-1934.**
+- Office of the Historian, *U.S. Invasion and Occupation of Haiti, 1915-34* (read directly,
+  https://history.state.gov/milestones/1914-1920/haiti): "President Wilson sent the U.S.
+  Marines into Haiti" in 1915, after the killing of Haitian President Jean Vilbrun
+  Guillaume Sam in July 1915. Under the 1915 treaty "The United States gained complete
+  control over Haitian finances, and the right to intervene in Haiti whenever the U.S.
+  Government deemed necessary," and created a Haitian Gendarmerie commanded by Marines.
+  US officials forced the election of **Philippe Sudré Dartiguenave** (August 1915). When
+  Haiti's legislature resisted a new constitution allowing foreigners to own land, it was
+  dissolved (the page gives no name for who dissolved it; Marine officer **Smedley Butler**
+  is named in a Wikipedia search summary **(unconfirmed: search summary only)**). In
+  December 1914 US Marines had removed $500,000 from Haiti's National Bank to New York. A
+  peasant revolt of 1919-1920 answered forced labor, press censorship and racial
+  segregation. Withdrawal: 1934, under Franklin D. Roosevelt's Good Neighbor Policy.
+- Congressional Research Service, *The U.S. Occupation of Haiti, 1915-1934*, report 94-459
+  (read directly, https://www.everycrsreport.com/reports/94-459.html): "The
+  counterinsurgency effort resulted in the deaths, by some estimates, of **over 2,000
+  cacos**" (the cacos were the Haitian guerrilla fighters). US forces lost "10 killed and
+  26 wounded (with 172 other casualties)." Roads and bridges were built partly by "a
+  highly unpopular system of forced labor or corvée." Complaints of brutality led Congress
+  to hold hearings on Haiti and the Dominican Republic in 1922. **Les Cayes, 1929:** a
+  Marine detachment sent from Port-au-Prince met protesters and "at least 12 Haitians"
+  died. Wilson's administration began the occupation. Roosevelt authorized withdrawal in
+  1934.
+- A US military inquiry of the time put cacos killed at **3,250** (search summaries of
+  Wikipedia and TheCollector **(unconfirmed: search summary only)**). **Write the range:
+  "more than 2,000, and a US military count of the time said 3,250."** No count of other
+  Haitian civilians killed was found.
+
+**Dominican Republic, 1916-1924.**
+- Library of Congress Country Studies, *Dominican Republic: Occupation by the United
+  States, 1916-24* (read directly, https://countrystudies.us/dominican-republic/10.htm):
+  Marines landed in May 1916 and US forces proclaimed a military government in November
+  1916. From 1917 to 1921 US forces fought a guerrilla movement in the east called the
+  **gavilleros**, with "determined (often brutal) counterinsurgent methods." Control
+  returned to Dominicans with President **Horacio Vásquez**'s inauguration on **July 13,
+  1924**. The occupation began under **President Wilson** (search summary of the 2001-2009
+  State Department page: "The Wilson administration's long-term solution entailed American
+  control of Dominican financial affairs," page itself did not load).
+- Casualties: Marines 144 killed; Dominican casualties "1,137 killed or wounded"
+  **(unconfirmed: search summary only)**. Gavillero leader **Ramón Natera** (search
+  summary only). **How the prose can say it:** "By one US count, 1,137 Dominicans were
+  killed or wounded," flagged as a single count, or omit the number.
+
+**Nicaragua, 1912-1933.**
+- Britannica, *Nicaragua: Foreign intervention* (read directly via curl,
+  https://www.britannica.com/place/Nicaragua/Foreign-intervention): in 1909 US officials
+  encouraged a Conservative revolt against President José Santos Zelaya and landed marines
+  at Bluefields. "U.S. Marines intervened in 1912" on behalf of President **Adolfo Díaz**
+  (the president who sent them was **Taft**, search summary only). A 100-man Marine guard
+  stayed at the US embassy until 1925. The **Bryan-Chamorro Treaty** (signed 1914, ratified
+  1916) gave the US exclusive canal rights in Nicaragua and the right to naval bases. In
+  1927 Díaz was "reinforced ... by 2,000 U.S. Marines." **Augusto César Sandino** "fought
+  on as long as the Marines remained." The Marines left when Sacasa took office (January
+  1933). The US-trained National Guard was commanded by **Anastasio Somoza García**. "In
+  1934 high-ranking officers led by Somoza met and agreed to the assassination of Sandino."
+  Somoza became president on January 1, 1937 and ruled about two decades.
+- Britannica, *César Augusto Sandino* (read directly via curl,
+  https://www.britannica.com/biography/Cesar-Augusto-Sandino): born 1893, killed
+  **February 23, 1934**. He was invited to meet Somoza for "an apparent peace conference
+  but was abducted and murdered instead by National Guardsmen." Anti-American feeling over
+  the hunt for him "was partly responsible" for Roosevelt's Good Neighbor Policy.
+- Almost 4,000 Marines in Nicaragua at the 1928 peak. Secretary of State **Henry Stimson**
+  ordered the last Marines out by January 1, 1933 (search summary only).
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-254): How many Nicaraguans did US Marines kill, 1912-1933?
+Sources checked: Britannica *Nicaragua: Foreign intervention* and *Sandino* (no count).
+Search summaries of Sons of Liberty Museum, Warfare History Network and Wikipedia (no
+Nicaraguan death total). How the prose can say it: "No reliable count exists of the
+Nicaraguans killed in the fighting with the Marines."
+
+### PATCH 2026-09-27 (T-254): Ponce, who gave the orders
+
+- Zinn Education Project, *March 21, 1937: Ponce Massacre* (education nonprofit, label it;
+  read directly, https://www.zinnedproject.org/news/tdih/ponce-massacre/): the Insular
+  Police "was under the direct military command of the U.S.-appointed governor of Puerto
+  Rico, **General Blanton Winship**." "The bloodshed began when the Insular Police fired on
+  the marchers." The police "shot and killed 19 Puerto Ricans and wounded over 200 others"
+  (the page also gives a later account of 21 dead and 150 wounded). A human rights
+  commission found "all had been gunned down by police."
+- Search summary of Wikipedia **(unconfirmed: search summary only)**: 17 civilians, one
+  policeman and one National Guardsman killed. None of the civilians was armed and most
+  were shot in the back. Police chief **Colonel Orbeta** massed police units in
+  Ponce, including machine gunners. Winship ordered the police to stop the march. The Hays
+  Commission, led by the ACLU lawyer **Arthur Garfield Hays**, called it a massacre.
+- **Who acted:** Insular Police officers fired, under Governor Winship, who had been
+  appointed by President Franklin D. Roosevelt (FDR appointment: search summary only).
+
+### PATCH 2026-09-27 (T-254): sterilization of Puerto Rican women ("la operación")
+
+- **Define it at first use (policy 3b).** Sterilization means an operation after which a
+  woman can never become pregnant again. In Puerto Rico the usual method was **tubal
+  ligation**, called *la operación*: a doctor cuts or ties the two tubes that carry eggs
+  from the ovaries to the womb. Some women had a **hysterectomy**, removal of the womb.
+  (Methods named by Díaz, HNN, and DIG, both below.)
+- History News Network, Jaquira Díaz (Puerto Rican author of *Ordinary Girls*; read
+  directly, https://www.historynewsnetwork.org/article/us-neglect-of-puerto-rico-is-in-the-news-but-the-m):
+  "In 1937, under **Blanton Winship**, the U.S.-appointed governor, **Law 116** came into
+  force, creating the Puerto Rican Eugenics Board and subsidizing the sterilization of
+  Puerto Ricans." "From 1937 to 1960, when Law 116 was repealed, the Puerto Rican Eugenics
+  Board directly forced **97 sterilizations** by means of tubal ligation or hysterectomy,
+  but many thousands of other women were effectively coerced into the same procedures."
+  Women were "led to believe that sterilization was reversible, or told that they would
+  not be employed unless they had been sterilized," and some pregnant women "were turned
+  away unless they agreed to be sterilized after giving birth." The 1982 Fertility and
+  Family Planning Assessment (*Population Today*) found **41 percent of married women** in
+  Puerto Rico sterilized.
+- DIG: A History Podcast (historians' podcast, label it; read directly,
+  https://digpodcast.org/2019/05/12/choice-sterilization-and-eugenics-in-twentieth-century-puerto-rico/):
+  by **1968 one-third** of Puerto Rican women of childbearing age were sterilized, and
+  **37.4 percent in 1976**. The New Deal's Puerto Rico Reconstruction Administration funded
+  sterilization work. **Clarence Gamble** (Procter and Gamble heir and eugenicist) set up
+  clinics in Puerto Rico. Employers favored hiring sterilized women. Scholars cited: Laura
+  Briggs, *Reproducing Empire* (2002), and Iris López, *Matters of Choice* (2008). Dr. Helen
+  Rodríguez-Trías: "Women make choices based on alternatives, and there haven't been many
+  alternatives in Puerto Rico."
+- A 1965 survey finding about one-third of mothers aged 20 to 49 sterilized: search
+  summary only **(unconfirmed: search summary only)**. Use "about one in three by 1968"
+  (DIG) instead.
+- **The evidence on consent is mixed. Say so.** Some women chose it because it was the
+  only birth control offered to them. Others were told it could be undone, or were
+  pressured by employers and hospitals. `health` may also tell this. Our angle: officials
+  of a US-appointed government passed and ran the 1937 law.
+
+### PATCH 2026-09-27 (T-254): NATO and the Marshall Plan, checked
+
+- Office of the Historian, *North Atlantic Treaty Organization (NATO), 1949* (read directly,
+  https://history.state.gov/milestones/1945-1952/nato): "NATO was the first peacetime
+  military alliance the United States entered into **outside of the Western Hemisphere**."
+  Twelve founding members. **CORRECTION NOTE:** the bank line above says "the first
+  permanent military alliance the United States ever joined in peacetime." That drops the
+  qualifier. Use the Office of the Historian wording.
+- Office of the Historian, *Marshall Plan, 1948* (read directly,
+  https://history.state.gov/milestones/1945-1952/marshall-plan): Congress passed the
+  Economic Cooperation Act in March 1948 and approved funding "that would eventually rise
+  to **over $12 billion**." **The $13.3 billion figure above stays unconfirmed.** Write
+  "more than $12 billion."
+
 ## ERA 09 — 1950 to 2000
 
 ### Containment and the Cold War as policy
@@ -823,6 +1309,91 @@ The Mexican-American War's American death toll is usually given as about **13,00
 - **The Cuban Missile Crisis, October 1962.**
 - **The Berlin Wall opened November 9, 1989; the Soviet Union dissolved December 26, 1991.**
 - **Zoom-3 — Lillian Carter (verified).** Nurse from Plains, Georgia; **joined the Peace Corps at 68 and served in India from 1966 to 1968**, working at the **Godrej Colony about 30 miles from Mumbai**, and turning 70 in Vikhroli. She told the recruiter she wanted to go "where it's warm, people have dark skins and need a nurse's service." Her son Jimmy Carter became president after she came home; she died in 1983, and the Peace Corps' **Lillian Carter Award** for volunteers who serve at 50 or older was created in 1986. ([Peace Corps — Lillian Carter Award](https://www.peacecorps.gov/about-the-agency/media-center/news/president-carter-announces-peace-corps-2011-lillian-carter-award/); [Peace Corps blog — Lillian Carter Award ceremony](https://www.peacecorps.gov/connect/blog/lillian-carter-award-ceremony-celebrates-extraordinary-older-volunteers/); [Wikipedia — Lillian Gordy Carter](https://en.wikipedia.org/wiki/Lillian_Gordy_Carter) — labeled.) **Movie: *Miss Lillian: More Than a President's Mother* (2021), a documentary/docudrama directed by Vivian Winther — verified as a real film about her.** ([IMDb](https://www.imdb.com/title/tt13356638/); [MUBI](https://mubi.com/en/us/films/miss-lillian-more-than-a-president-s-mother).) She replaces the outline's "(target) a Peace Corps volunteer" with a real name. **Threads: the elderly.**
+
+### PATCH 2026-09-27 (T-254): the governments US officials helped overthrow (Iran 1953, Guatemala 1954, Chile 1973)
+
+The bank had none of these. Each is told here only as foreign policy. `war` does not cover
+them.
+
+**Iran, August 19, 1953.**
+- National Security Archive (George Washington University), *CIA Confirms Role in 1953
+  Iran Coup*, Electronic Briefing Book 435 (read directly,
+  https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/): a CIA internal history, released in 2013,
+  states the agency "planned and helped implement the coup." It overthrew Iran's elected
+  Prime Minister **Mohammad Mosaddegh** (also spelled Mosaddeq) on **August 19, 1953**. The
+  operation, TPAJAX, was a joint US and British plan (Britain's MI6). **Kermit Roosevelt**,
+  chief of the CIA's Near East operations division, managed it on the ground. **Donald N.
+  Wilber** was its lead planner. General **Fazlollah Zahedi** replaced Mosaddegh and the
+  Shah's power was restored. Mosaddegh had nationalized Iran's oil industry, which British
+  interests had controlled (the briefing book's context; it does not give a single stated
+  motive).
+- Council on Foreign Relations, *The 1953 Overthrow of Iranian Prime Minister Mohammad
+  Mosaddeq* (think-tank explainer, label it; read directly,
+  https://www.cfr.org/articles/the-1953-overthrow-of-iranian-prime-minister-mohammad-mosaddeq):
+  "Eisenhower in June approved a clandestine Anglo-U.S. effort to overthrow Mosaddeq."
+  CIA Director **Allen Dulles** "oversaw the planning." The operation paid "journalists,
+  mullahs, and politicians to attack him as corrupt and power hungry." Kermit Roosevelt,
+  "a grandson of President Theodore Roosevelt, ran Operation Ajax on the ground." After the
+  coup the Shah "had Mosaddeq convicted of treason and sentenced to three years in prison,
+  followed by life under house arrest." One adviser was executed, and so were "more than
+  dozen military officers and student leaders allied with his government." The page gives
+  no count of people killed in the coup itself.
+- A search summary adds that Eisenhower attended none of the planning meetings and left no
+  documents tying him to it **(unconfirmed: search summary only)**.
+
+**Guatemala, June 1954.**
+- National Security Archive, *CIA and Assassinations: The Guatemala 1954 Documents*,
+  Electronic Briefing Book 4 (read directly, https://nsarchive2.gwu.edu/NSAEBB/NSAEBB4/):
+  **President Eisenhower authorized** the CIA operation **PBSUCCESS** in **August 1953**
+  (an earlier plan, PBFORTUNE, was authorized by Truman in 1952). The CIA used
+  "psychological warfare and political action" and "subversion," and planned the killing
+  of Guatemalan officials: a 19-page CIA manual, "A Study of Assassination," and lists of
+  targets, one with 58 names (all names blacked out in the released papers). Elected
+  President **Jacobo Árbenz Guzmán** resigned on **June 27, 1954**. Afterward, "Between
+  1954 and 1990, human rights groups estimate, the repressive operatives of successive
+  military regimes murdered more than 100,000 civilians." (Whose count: human rights
+  groups, as reported by the Archive.)
+- EBSCO Research Starters, *United Fruit Company Instigates a Coup in Guatemala*
+  (reference work, read directly,
+  https://www.ebsco.com/research-starters/history/united-fruit-company-instigates-coup-guatemala):
+  Árbenz introduced **Decree 900**, a land reform, on **June 27, 1952**. About 1.5 million
+  acres went to 100,000 families, and owners were paid more than $8 million in all. For
+  United Fruit's land Guatemala offered **$2.99 an acre** (the value the company itself had
+  declared for taxes: search summary of Wikipedia, **unconfirmed: search summary only**); "The State Department demanded
+  millions of dollars more, asking for **$75 an acre**." Secretary of State **John Foster
+  Dulles** and CIA Director **Allen Dulles** were invested in United Fruit (EBSCO's
+  wording: "the Dulles brothers"). On **June 18, 1954** a rebel force under **Carlos
+  Castillo Armas** invaded from Honduras after planes harassed the capital. On June 27,
+  1954 Árbenz announced his resignation on the radio. Castillo Armas became president, land
+  went back to the companies, and "labor unions were disbanded."
+- United Fruit land taken: 234,000 acres (search summary of Wikipedia **(unconfirmed:
+  search summary only)**).
+
+**Chile, 1970 to September 11, 1973.**
+- National Security Archive, *Chile and the United States: Declassified Documents*,
+  Electronic Briefing Book 8 (read directly,
+  https://nsarchive2.gwu.edu/NSAEBB/NSAEBB8/nsaebb8i.htm): CIA Director **Richard Helms**'s
+  handwritten notes of a meeting with **President Richard Nixon** on **September 15, 1970**
+  record the order to stop Salvador Allende, elected president that month, including
+  "make the economy scream" and "$10,000,000 available, more if necessary." The CIA ran
+  "Track II," a "firm and continuing policy that Allende be overthrown by a coup." It gave
+  weapons to plotters who planned to kidnap Chile's army commander, **General René
+  Schneider**, who was killed on **October 22, 1970** by a different group of plotters. On
+  **September 11, 1973** General **Augusto Pinochet** led the military coup that overthrew
+  **Salvador Allende**. A US military attaché called the coup "close to perfect."
+- Henry Kissinger (national security adviser from 1969) is widely named as directing the
+  policy with Nixon; that detail was not in the page as read. **Name Nixon and Helms from
+  this source. Name Kissinger only after a readable source is found.**
+- **The dead under Pinochet, 1973 to 1990.** Amnesty International, *Chile: 40 years on
+  from Pinochet's coup, impunity must end*, September 2013 (read directly,
+  https://www.amnesty.org/en/latest/news/2013/09/chile-years-pinochet-s-coup-impunity-must-end/):
+  "The total number of people officially recognized as disappeared in Chile or killed
+  between 1973 and 1990 stands at **3,216**" and survivors of political imprisonment
+  and/or torture at **38,254** (Chile's official commissions, as Amnesty reports them). An
+  earlier official count found 2,296 killed for political reasons, including almost a
+  thousand enforced disappearances. **The US helped bring about the coup. Pinochet's
+  forces did the killing.** Keep both facts, and keep who did what.
+- How Allende died on September 11, 1973 was not researched in this pass. Do not state it.
 
 ### Two territories become states, 1959
 
@@ -884,6 +1455,42 @@ The Mexican-American War's American death toll is usually given as about **13,00
 - **Guam's own status fight.** A Guam plebiscite limited to "Native Inhabitants of Guam" was struck down in federal court (*Davis v. Guam*, Ninth Circuit, 2019) as a race-based voting restriction, leaving Guam without a way to hold the decolonization vote it wants. *(`[VERIFY]` before printing — not separately sourced in this pass.)*
 
 ---
+
+### PATCH 2026-09-27 (T-254): perishable figures refreshed to September 2026
+
+- **Post-9/11 war deaths, checked 2026-09-27.** Costs of War, Brown University (read
+  directly, https://costsofwar.watson.brown.edu/costs/human): "over 940,000 people were
+  killed by direct post-9/11 war violence," of whom "more than 432,000 were civilians."
+  "An estimated 3.6-3.8 million people died indirectly." Total "at least 4.5-4.7 million
+  and counting." Iraq, Afghanistan, Syria, Yemen, Pakistan, 2001 to 2023. **No newer
+  figure published as of this check.** Add the civilian figure to the outline.
+- **Guantánamo, checked 2026-09-27.** Close Guantánamo (Andy Worthington, journalist and
+  campaigner, label it; read directly via curl, https://www.closeguantanamo.org/Prisoners,
+  last updated January 8, 2025): **779** prisoners held since the prison opened on
+  **January 11, 2002**, and **15 men still held**, including the five 9/11 co-accused. A
+  search summary of the Center for Constitutional Rights says 15 remained in January 2026,
+  with 9 in the military commissions and 6 uncharged, 3 of them cleared for release
+  **(unconfirmed: search summary only)**. **Write "15 men were still held in January
+  2025" (confirmed), and "the count was still 15 in early 2026" only with that flag.**
+- **Puerto Rico's oversight board, 2025 to 2026.** CBS News, August 2025 (journalism;
+  read directly, https://www.cbsnews.com/news/trump-fires-5-members-of-puerto-ricos-financial-oversight-board/):
+  on **August 5, 2025** President Trump fired five members of the board created by PROMESA
+  in 2016: chairman **Arthur J. González**, Cameron McKenzie, Betty A. Rosa, Juan A.
+  Sabater and Luis A. Ubiñas. PROMESA's text says "the President may remove any member of
+  the Oversight Board only for cause." Democracy Defenders Fund (advocacy group, label it;
+  read directly, September 1, 2026,
+  https://www.democracydefendersfund.org/news/federal-judge-permanently-blocks-trumps-unlawful-federal-oversight-and-management-board-firings/):
+  Judge **María Antongiorgi-Jordán** of the US District Court for Puerto Rico reinstated
+  González, **Andrew G. Biggs** and Rosa by preliminary injunction on **October 3, 2025**,
+  and in 2026 made it permanent, calling the firings "plainly contrary to law." (Biggs is
+  named among the fired in the lawsuit but not in the CBS list of five. The sources differ
+  on the list. State that the President fired several members, and three of them won
+  their jobs back in court.) The Justice Department signaled it might try other ways to
+  remove them (search summary of Bond Buyer, **unconfirmed: search summary only**).
+- **The people of the territories are still under the Insular Cases** as of September
+  2026. No Supreme Court decision since *Vaello Madero* (2022) has overturned them (no
+  such case found in this check). Puerto Rico's status vote of November 5, 2024 remains
+  the latest.
 
 ## Sources used (era 06–10 half)
 

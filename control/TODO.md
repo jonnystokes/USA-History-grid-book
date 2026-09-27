@@ -41,7 +41,7 @@ Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each t
 - [x] T-251 `food-farming` (PASS research, 336k tokens, 18 min, parallel)
 - [ ] T-252 `money`
 - [ ] T-253 `marketplace`
-- [ ] T-254 `america-world`
+- [x] T-254 `america-world` (PASS research, 339k tokens, 21 min, parallel)
 - [x] T-255 `slavery-freedom` (PASS research, 354k tokens, 21 min, parallel)
 - [ ] T-256 `big-business` (bank write-up from the outline's inline sources)
 

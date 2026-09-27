@@ -89,3 +89,14 @@ death (1 or 2 Aug 1701).
 **A trap worth remembering:** history.state.gov's phrasing invites the error that Spain
 entered the war in 1779 as *America's* ally. It was **France's** ally. Flagged by the
 eras 1-5 researcher.
+
+
+## Patch and bank check, 2026-09-27 (T-254)
+
+- **Stories:** `james-leander-cathcart` verified from his own memoir, *The Captives* (1899, Internet Archive full text). His own list corrected two bank lines: the *Maria* had 6 crew (21 Americans came from two ships), and the 12 survivors went home at different times, not with him. Birth year settled at 1 June 1767 (his own words). `emilio-aguinaldo-america-world` verified (Britannica, Office of the Historian, Army Historical Foundation).
+- **Bank check gaps filled (PATCH sections in the bank):** Menéndez's own letter on Fort Caroline and Matanzas (132 + 10 throats cut, hands tied, Timucua land) · Lenape land under New Netherland · Kondiaronk details · Louisbourg dead (about 130 + 561, Pepperrell's 1,200) · 1783 treaty and the Six Nations · XYZ (no dollar figures) · Mexican cession people (80,000 to 100,000) · Hawaii 1887 to 1895 actors (Thurston, Dole, Stevens, Willis) and the Queen's trial · water cure (Glenn, Ealdama, Igbaras) · Haiti, Dominican Republic, Nicaragua occupations with presidents and counts · Ponce under Winship · Law 116 sterilizations, defined · NATO wording corrected · Marshall Plan over $12 billion · Iran 1953, Guatemala 1954, Chile 1973 with named actors and the Pinochet toll · perishables refreshed (Costs of War, Guantánamo, the 2025 oversight-board firings and the 2026 injunction).
+- **SEARCHED, NOT FOUND:** Nicaraguans killed by Marines, 1912 to 1933.
+- **Still open (in bank, flagged):** XYZ bribe amounts, Convention of 1800 signing date, House vote on the Newlands Resolution (209 or 290 to 91), how Allende died, Kissinger's role (no readable source yet), a readable source for Dominican casualty counts.
+- **Famous names check:** all fourteen on the checklist above are present in the outline.
+- **Parking:** none written to other chapters (parallel run). Items for other chapters are in `control/checkpoints/T-254-america-world.md` under TO PARK.
+- **For the writer:** several older era zooms still carry personification ("It stayed out of two world wars", "It also decided, in court") and a triad in era 01. The prose pass must repair them.

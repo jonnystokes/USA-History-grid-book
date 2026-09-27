@@ -2636,9 +2636,19 @@ CHECKPOINT: control/checkpoints/T-253-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage patch (and --stage research)
 
 ### 2026-09-27 | [LOCAL] T-254 | america-world: patch (2 candidates) + bank check | model opus | PARALLEL
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-254-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage patch (and --stage research)
+RESULT: DONE. PASS america-world / patch and / research. stories 13 (v13 c0 t0), bank 15,486 -> 22,100w,
+        outline 8,931 -> 10,534w, validator 0. 338,734 tokens, 162 tool uses, 20.7 min (opus, parallel).
+        Stories: Cathcart verified from his memoir The Captives (1899), which corrected two bank lines (the Maria
+        had 6 crew; the survivors went home at different times; notes beside the old lines). Aguinaldo verified
+        (Office of the Historian, Army Historical Foundation). Bank check: Menendez's letter on Fort Caroline and
+        Matanzas, Timucua and Lenape land, Louisbourg dead, 1783 and the Six Nations, 80,000-100,000 Mexicans in the
+        1848 cession, Hawaii actors (Thurston, Dole, Stevens) and the Queen's trial, the water cure at Igbaras
+        (Capt. Edwin Glenn), Haiti, DR and Nicaragua occupations, Ponce (Gov. Winship), Law 116 sterilizations
+        (defined, method stated), Iran 1953, Guatemala 1954, Chile 1973. NATO "first" corrected.
+        SEARCHED NOT FOUND: 1. TO PARK: items for health, war, slavery-freedom. Agent hit the heredoc bug.
 
 ### 2026-09-27 | [LOCAL] T-255 | slavery-freedom: patch (1 candidate, 1 target) + bank check | model opus | PARALLEL
 STATUS: DONE
