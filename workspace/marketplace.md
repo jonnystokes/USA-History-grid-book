@@ -123,3 +123,22 @@ Nothing new needed a fresh bank this pass; every strong find belonged to an exis
 4. **James Guild quotes.** The journal exists in print but the online scan is image-only, so no quotes or earnings figures are used. If the printed volume can be obtained, the peddler story gets much stronger.
 5. **Native commerce after 1900** is a genuine gap in this chapter (reservation traders, tribal enterprises, artisans selling to tourists). Worth a targeted pass if the thread matters at book level.
 6. **Mall numbers.** No government count of malls exists. The outline gives a disputed range from commercial research. Confirm that is acceptable, or drop the count and keep only the store-closure figures.
+
+---
+
+## Update 2026-09-27 (T-253, patch + bank check)
+
+**Story slots now:** all 17 verified. The three targets were filled:
+- 1600s: `john-stewart-marketplace` (John Stewart, Springfield blacksmith, a Scottish prisoner of war sold into servitude, from John Pynchon's account books, Colonial Society of Massachusetts vol. 61). Slug carries the chapter suffix because `technology`'s bank lists a "John Stewart" among the Scots at Saugus.
+- 1900-1950: `emilia-lundberg` (Emilia Ruth Palmquist Lundberg, Jersey City, from her son Donald's 2008 Rutgers oral history; Rutgers requires permission to quote, so paraphrase only). Chosen to differ from `food-farming`'s ration-book household.
+- 2000-today: `renica-turner` (Amazon delivery driver for Battle Tested Strategies, NPR, July 20, 2023).
+
+**New spans:** A market where people were sold (1700-1750) · A killing at a shop door, 1770 (1750-1800) · People sold at auction: Savannah, 1859 (1850-1900) · The company store (1900-1950) · The last step: heat in the delivery truck (2000-today).
+
+**Outline claims removed or corrected because no source supported them:** Ward's "country storekeepers said the goods would be junk" (replaced by the *Chicago Tribune*'s 1873 "Grangers, Beware!" charge and retraction) · Wanamaker's "most stores bought a few lines" · Sears "not the goods but the writing" and "promised more than a careful man would" · Gruen's "library, school, post office" (replaced by MNopedia's list) · Saunders "none of them lasted" (replaced with the Sole Owner stores and Keedoozle) · Bezos "waiting a week felt broken" · Guild "knocking on doors, being refused, sleeping where he could" (replaced with what the journal's first pages say) · "more than five dollars in six" in stores (now more than four in five, at 17.1 percent online).
+
+**New disputes recorded:** Ward's guarantee 1874 or 1875 · Sears resigned 1908 or 1909, age 22 or 23 in 1886 · Weeping Time 429 to 436 people · Seider aged 10 and a half or 11 · Coresight 2024 closures 7,325 or 8,825 (revised) · Company-store prices (Fishback's small markups vs. miners' memory of debt).
+
+**Punctuation:** a mechanical pass on 2026-09-27 removed every em dash and semicolon from the outline outside the `hb-note` block (citation lists now use commas).
+
+**Cross-chapter parking:** this was a parallel run, so nothing was written into other chapters' banks. The items for the director to file are listed under "TO PARK" in `control/checkpoints/T-253-marketplace.md`.

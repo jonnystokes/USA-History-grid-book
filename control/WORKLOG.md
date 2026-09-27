@@ -2641,9 +2641,19 @@ RESULT: DONE. PASS money / patch and / research. stories 12 (all verified), bank
         FLAG FOR JON: the agent reports no chapter tells the 1921 Tulsa massacre (only money's bank loss angle).
 
 ### 2026-09-27 | [LOCAL] T-253 | marketplace: patch (3 targets, bank < outline) + bank check | model opus | PARALLEL
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-253-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage patch (and --stage research)
+RESULT: DONE. PASS marketplace / patch and / research. stories 17 (v17 c0 t0), bank 7,596 -> 15,720w, outline
+        8,373 -> 10,386w, validator 0. 425,629 tokens, 234 tool uses, 27.9 min (opus, parallel).
+        Stories: John Stewart (Dunbar prisoner, Springfield blacksmith, Pynchon ledgers), Emilia Lundberg (ration
+        books, son's 2008 Rutgers oral history, paraphrased: quoting needs permission), Renica Turner (Amazon contract
+        driver, NPR 2023; settlement approved May 2026). No clash with food-farming's Adelaide Wisdom Benjamin.
+        Bank check: Wall Street slave market 1711-62, Christopher Seider shot 1770, the Weeping Time 1859, company
+        stores and scrip, Franklin's Gazette ads (277 ads, 308+ people), Winslow's morphine syrup, 1974 ECOA,
+        payday loans, driver heat deaths. 6 unsourced outline claims removed or replaced.
+        SEARCHED NOT FOUND: 3. TO PARK: 10 items.
+PARALLEL RUN COMPLETE: all five PASS research. Next: file the five checkpoints' TO PARK items.
 
 ### 2026-09-27 | [LOCAL] T-254 | america-world: patch (2 candidates) + bank check | model opus | PARALLEL
 STATUS: DONE
