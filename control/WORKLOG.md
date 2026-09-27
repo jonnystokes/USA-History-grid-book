@@ -2692,3 +2692,12 @@ STATUS: DONE
 note skipped. No outline touched. Re-measured: nothing regressed (native-nations and economy still PASS
 prose). Book now: RESEARCHED 17, RESEARCHED* 1 (big-business), PARTIAL 1, SEED 11, WRITTEN 7.
 OPEN FOR JON: the 1921 Tulsa massacre is told by no chapter. Parked to crime-justice and rights-movements.
+
+### 2026-09-27 | [LOCAL] AUTONOMOUS MODE from here (Jon: "Non-Stop ... one sub agent at a time"; DECISIONS #24)
+Parallel batch usage: 27% -> 60% for all five (logged). Tulsa ruling recorded (DECISIONS #23).
+
+### 2026-09-27 | [LOCAL] T-256a | big-business: bank write-up + checks, eras 1-7 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-256-big-business.md (units 1-3)
+VERIFY: eras 1-7 of the bank written (the gate passes only after T-256b)
+USAGE AT START: 60% (Jon).

@@ -11,10 +11,9 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**Parallel run T-251..T-255 DONE (all five PASS), parked items filed.** Nothing in flight. Waiting for Jon
-(at church). Next: T-256 `big-business` (split a/b), T-257 `exploration` (split a/b), T-258 `government-politics`.
-**Open for Jon:** which chapter leads the 1921 Tulsa massacre (crime-justice or rights-movements)? No chapter
-tells it yet.
+**T-256a `big-business` eras 1-7 IN FLIGHT.** Then T-256b (eras 8-10), T-257 exploration (a/b), T-258 onward.
+Tulsa 1921: rights-movements leads, crime-justice the justice angle (DECISIONS #23).
+**AUTONOMOUS (Jon, 2026-09-27): non-stop, one agent at a time** (DECISIONS #24).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
