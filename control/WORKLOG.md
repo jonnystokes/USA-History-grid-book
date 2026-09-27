@@ -2842,3 +2842,8 @@ RESULT: DONE. PASS  exploration / research. measured: stage=RESEARCHED eras=10/1
 18 items from T-257, T-259, T-260 and T-261 checkpoints filed verbatim into 7 banks (america-world, crime-justice,
 native-nations, rights-movements, science, slavery-freedom, war); each checkpoint's TO PARK header marked FILED.
 Back to ONE AT A TIME (DECISIONS #25). Next: T-263r health.
+
+### 2026-09-27 | [LOCAL] T-263r | health: continue full research eras 1-5 (from era 3) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-263-health.md
+VERIFY: python tools/project_state.py --check health --stage research
