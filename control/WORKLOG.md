@@ -2505,3 +2505,9 @@ RESULT: DONE. PASS home-family / patch and / research. stories 16 (v16 c0 t0), b
         technology, heating fuel and electricity to energy (both still validate 0). 1901 tenement-law claim
         corrected. Land, HOLC/FHA, Myers mob, Countrywide actors added. Perishables refreshed to 2025-26.
         SEARCHED NOT FOUND: 2. Unconfirmed (search summary only) tags: 8. Not done: frontier-cabin nations.
+
+### 2026-09-26 | [LOCAL] T-246 | technology: patch (1 candidate, 3 targets) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-246-technology.md
+VERIFY: python tools/project_state.py --check technology --stage patch (and --stage research)
+USAGE AT START: 14% (Jon). T-245 read 7% -> 14% (includes director work, marked +).
