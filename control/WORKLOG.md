@@ -2602,3 +2602,36 @@ RESULT: DONE. PASS work-workers / patch and / research. stories 17 (v17 c0 t0), 
         servants, braceros, pesticides, heat deaths, Amazon injuries, wage theft, Martin's Hundred and Lowell land.
         Radium Girls audit item resolved (AUDIT-QUEUE note added). SEARCHED NOT FOUND: 3. Several facts tagged
         unconfirmed (search summary only). Parked to disasters and health (both validate 0).
+USAGE END (T-250): 27% (Jon). 22% -> 27% (includes director work, marked +).
+
+### 2026-09-27 | [LOCAL] PARALLEL RUN (Jon: "launch five subagents at once", then away) | T-251 to T-255
+One-time exception to one-at-a-time, on Jon's explicit instruction. Each agent writes only its own
+chapter's files and checkpoint. Material for other chapters goes to its checkpoint's TO PARK
+section, and the director files it after all five finish. Director verifies and commits each agent
+as it finishes, and launches nothing further until Jon returns.
+USAGE AT START: 27% (Jon), for all five together.
+
+### 2026-09-27 | [LOCAL] T-251 | food-farming: patch (3 targets) + bank check | model opus | PARALLEL
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-251-food-farming.md
+VERIFY: python tools/project_state.py --check food-farming --stage patch (and --stage research)
+
+### 2026-09-27 | [LOCAL] T-252 | money: patch (2 targets) + bank check | model opus | PARALLEL
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-252-money.md
+VERIFY: python tools/project_state.py --check money --stage patch (and --stage research)
+
+### 2026-09-27 | [LOCAL] T-253 | marketplace: patch (3 targets, bank < outline) + bank check | model opus | PARALLEL
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-253-marketplace.md
+VERIFY: python tools/project_state.py --check marketplace --stage patch (and --stage research)
+
+### 2026-09-27 | [LOCAL] T-254 | america-world: patch (2 candidates) + bank check | model opus | PARALLEL
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-254-america-world.md
+VERIFY: python tools/project_state.py --check america-world --stage patch (and --stage research)
+
+### 2026-09-27 | [LOCAL] T-255 | slavery-freedom: patch (1 candidate, 1 target) + bank check | model opus | PARALLEL
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-255-slavery-freedom.md
+VERIFY: python tools/project_state.py --check slavery-freedom --stage patch (and --stage research)

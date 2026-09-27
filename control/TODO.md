@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-250 done, stopped for Jon's usage reading.** Nothing in flight. Next: T-251 `food-farming`.
+**PARALLEL RUN (Jon, 2026-09-27): T-251 to T-255 IN FLIGHT at once.** Verify and commit each as it finishes, file their TO PARK items after all five, launch nothing more until Jon returns.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
