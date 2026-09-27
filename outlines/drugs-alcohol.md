@@ -3,7 +3,7 @@
 # Chapter 28: Drugs and Alcohol
 
 <!-- hb-note -->
-**Status:** PARTIAL: eras 01 to 05 researched 2026-09-27 (T-266a, T-266r). Eras 06 to 10 still seed (T-266b).
+**Status:** PARTIAL: eras 01 to 08 researched 2026-09-27 (T-266a, T-266r, T-266b; bank checks for 01 to 05 and 06 to 08 done). Eras 09 and 10 still seed (T-266c).
 **Angle:** Intoxicants over time — alcohol and Prohibition, tobacco, other drugs, their use and control.
 **Keep out:** the law itself (`government-politics`); organized crime (`crime-justice`)
 **Workspace:** `workspace/drugs-alcohol.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -219,50 +219,236 @@ By 1770 colonial distillers made about 4.8 million gallons of rum a year, and sh
 <!-- hb-story:end slug="philip-vigol-drugs-alcohol" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="drugs-alcohol" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="drugs-alcohol" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-Americans drink more than at almost any other time, and the first mass movement against it begins.
+In 1830 the average American of drinking age drank 7.1 gallons of pure alcohol in a year, about three times what Americans drink today. Farmers carried whiskey into the fields, and employers gave workers a break in the morning for a drink. From 1826 ministers and reformers asked people to sign a pledge, a written promise not to drink. More than a million people signed. By 1860 drinking had fallen by half. Anyone could buy opium mixed with alcohol, called laudanum, without a doctor's order, and doctors gave it to adults and children. The Shawnee prophet Tenskwatawa told his followers to give up alcohol, and in 1802 the Miami leader Little Turtle asked members of Congress to stop the liquor traders.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Peak drinking and temperance" -->
-Consumption peaking in the 1830s [VERIFY]; the temperance movement, pledges, and temperance societies; Maine's statewide ban, 1851 [VERIFY — just outside this era]; drink and the working day.
+<!-- hb-zoom level="span" label="How much Americans drank" -->
+- In 1790 Americans of drinking age drank an average of 5.8 gallons of pure alcohol each in a year. Pure alcohol means only the alcohol inside the beer, cider, whiskey and rum. By 1830 the figure was 7.1 gallons (National Archives, *Prologue*, 2014, from the historian W. J. Rorabaugh). In 2023 it was 2.48 gallons.
+- Men, women and even children drank a "healthful dram" with breakfast. Farmers took cider, beer or whiskey into the fields. Employers stopped work in the middle of the morning so workers could drink. A doctor's first medicine was often a drink of alcohol (National Archives).
+- Between 1840 and 1860 drinking fell to about 3.5 gallons of pure alcohol a person a year (National Archives).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-temperance-pledge-signer" name="(target) a temperance pledge signer" movie="" kind="ordinary" status="target" -->
-### (target) a temperance pledge signer
-A reformed drinker who left a published account.
-<!-- hb-story:end slug="target-temperance-pledge-signer" -->
+<!-- hb-zoom level="span" label="Temperance and the pledge" -->
+- Temperance means drinking little or no alcohol. By 1808 people in Connecticut, Virginia and New York had formed temperance societies.
+- In 1825 Lyman Beecher, a Connecticut minister, began preaching against all drinking of liquor. On 13 February 1826 reformers in Boston founded the American Temperance Society. Members signed a pledge not to drink liquor such as whiskey and rum. The pledge still allowed beer, wine and alcohol taken as medicine.
+- Within five years the society had 2,220 local groups and 170,000 members. By the late 1830s it had more than 8,000 groups and more than 1,250,000 members (Wikipedia, "American Temperance Society").
+- In the late 1830s many reformers moved to total abstinence, which means no alcohol at all. Some began asking lawmakers to ban sales.
+- In 1838 Massachusetts lawmakers banned selling liquor in amounts under 15 gallons. Only rich people could buy 15 gallons at once. Lawmakers repealed the law within two years. In the 1840s lawmakers in many states let the voters in each town or county decide whether anyone could get a license to sell liquor.
+- In 1843 almost 400 people signed a petition more than 10 feet long, asking members of Congress to stop the Navy's daily ration of liquor for sailors (National Archives).
+- Shared with: `religion` (the revival preachers) · `rights-movements` (reform societies). This chapter's slice is the pledge and the drinking.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Washingtonians, 1840" -->
+- On 2 April 1840 six heavy drinkers met at Chase's Tavern on Liberty Street in Baltimore and promised each other to stop. They were William K. Mitchell, John F. Hoss, David Anderson, George Steers, James McCurley and Archibald Campbell. They named their group the Washington Temperance Society.
+- Members stayed sober by telling each other the stories of their own drinking. Then they went looking for other drunkards and told them the same stories. Estimates of how many joined run from tens of thousands to 600,000. Within a few years the group had broken apart (Wikipedia, "Washingtonian movement").
+- On 22 February 1842 Abraham Lincoln, then a lawyer, spoke to the Washingtonians of Springfield, Illinois. He said reformers should not scold drinkers: "If you would win a man to your cause, first convince him that you are his sincere friend."
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="john-b-gough-drugs-alcohol" name="John B. Gough" movie="" kind="ordinary" status="verified" -->
+### John B. Gough
+> **Who:** an English-born bookbinder whose drinking cost him his work and his family, and who signed the temperance pledge and spent his life asking others to sign it. · **When and where:** New York, Newburyport and Worcester, Massachusetts, 1829 to 1845.
+- He was born in Sandgate, England, in 1817. At 12 he was sent alone to America. He arrived in New York in August 1829 and later learned bookbinding in New York City.
+- After his mother died he began drinking heavily. He lost jobs and sang comic songs in cheap theatres for money.
+- Once, when he stopped drinking suddenly, he had delirium tremens. This is an illness of heavy drinkers who stop at once. The body shakes, and the person sees and feels things that are not there. Gough wrote that he saw "millions of monstrous spiders" and faces on the walls.
+- When his wife fell sick, the women nursing her sent him for two quarts of rum. He drank it. Ten days later his wife and their newborn baby died, and he was drunk. He wrote that the whole town learned "that my wife and child were lying dead, and that I was drunk!"
+- In late October 1842 in Worcester, Massachusetts, a stranger touched his shoulder and asked, "Why do you not sign the pledge?" The man was Joel Stratton, a waiter at the temperance hotel. The next evening Gough told his story at the Worcester town hall and signed the pledge with a shaking hand.
+- Five months later he drank again, then signed the pledge a second time.
+- He wrote that between May 1843 and January 1845 he travelled more than 12,000 miles and gave 605 talks. At those talks 31,760 people signed the pledge (Gough, *An Autobiography*, 1845).
+<!-- hb-story:end slug="john-b-gough-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Whiskey and enslaved people at Christmas" -->
+- In the 1830s Frederick Douglass was enslaved in Maryland. In his 1845 book he wrote that slaveholders gave enslaved people the days between Christmas and New Year's off, and wanted them to spend those days drunk.
+- "It was deemed a disgrace not to get drunk at Christmas," he wrote. Slaveholders made bets on "who can drink the most whisky without getting drunk," and in that way got many people to drink far too much.
+- Douglass said the slaveholders did this to keep enslaved people from rising up in armed revolt. After a week drunk, he wrote, many felt "we had almost as well be slaves to man as to rum."
+- Shared with: `slavery-freedom` (Douglass's life). This chapter's slice is the whiskey.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Liquor and Native nations" -->
+- Little Turtle (Michikinikwa), a leader of the Miami, asked members of Congress to stop traders from selling liquor to his people. In 1802 Congress members gave the president power to stop the sale of liquor to Native nations. War Department officials then banned traders from bringing liquor onto Native land, but they did little to enforce the ban (Federal Judicial Center).
+- Traders kept selling because they made more money on liquor than on other goods. They added water to it so they had more to sell (historian Peter C. Mancall).
+- The Shawnee prophet Tenskwatawa and a Delaware woman named Beate told their followers to give up alcohol. Pawnee leaders limited drinking in their towns (Mancall).
+- In 1827 leaders of the Mohican-Stockbridge people wrote to Congress. They said one reason they agreed to move from New York to what is now Wisconsin was to "flee from" liquor in their community (National Archives). The land in Wisconsin was Menominee land.
+- In 1834 members of Congress made it a crime, with a fine of up to $300, to bring liquor onto Native land.
+- Shared with: `native-nations` (the land and the moves west). This chapter's slice is the liquor.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Opium sold as medicine" -->
+- Laudanum was opium dissolved in alcohol. Opium is a drug made from the juice of the poppy plant. It stops pain and brings sleep, and a person who takes it every day comes to need it. Anyone could buy laudanum without a doctor's order until the early 1900s.
+- Doctors gave laudanum for colds, heart disease and pain, to adults and children. Nurses fed it to babies with a spoon. Doctors gave laudanum and alcohol to patients having surgery, and helpers held the patients down during the cutting (Wikipedia, "Laudanum").
+- In 1804 the German pharmacist Friedrich Sertürner took a stronger drug, morphine, out of opium. In 1817 he tested it on himself and three boys, and all four nearly died. A German drug company began selling morphine in 1827 (Wikipedia, "Morphine").
+- Shared with: `health` (medicine). This chapter's slice is the drug.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Chewing tobacco" -->
+- Many American men chewed tobacco and spat the juice. The English writer Charles Dickens visited in 1842. He wrote that in American courtrooms "the judge has his spittoon, the crier his, the witness his, and the prisoner his." A spittoon is a bowl for spitting into.
+- In hospitals, signs asked medical students to spit their tobacco juice into boxes and not onto the stairs (Dickens, *American Notes*, 1842).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="drugs-alcohol" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="drugs-alcohol" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-Anything could go in a bottle and be sold as medicine, and the saloon becomes the target of an organized national campaign.
+In 1851 lawmakers in Maine banned the sale of liquor, and by 1855 twelve more states had passed bans. In Portland in 1855, soldiers fired on a crowd at the mayor's order and killed a young sailor. Civil War surgeons gave soldiers opium pills and morphine shots, and thousands of veterans came home addicted. Drugstores sold medicines with opium, morphine, cocaine and alcohol in them, and the labels did not have to say so. In 1875 San Francisco's leaders banned opium dens, and in 1887 members of Congress barred Chinese people from bringing opium into the country. Women marched into saloons to pray and in 1874 founded the Woman's Christian Temperance Union. In 1880 Kansas voters wrote a ban on liquor into their state constitution.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Patent medicines and the saloon fight" -->
-Patent medicines containing opium, morphine, and cocaine, sold without labels; cocaine in early soft drinks [VERIFY]; morphine addiction after the Civil War; the saloon; the Woman's Christian Temperance Union and the Anti-Saloon League.
+<!-- hb-zoom level="span" label="The Maine Law and the Portland Rum Riot" -->
+- On 2 June 1851 lawmakers in Maine banned the sale of all alcoholic drinks except for medicine and for use in factories. Neal Dow, the mayor of Portland, helped write the law. By 1855 lawmakers in twelve more states had passed bans. Judges struck some of them down, and lawmakers passed them again.
+- Dow had ordered raids on saloons for years, many of them run by Irish immigrants. He gave speeches about "rum-swilling foreigners." In 1850 about one in nine people in Portland was an Irish immigrant (New England Historical Society).
+- In 1855 Dow, mayor again, had the city buy $1,600 of liquor for doctors and druggists and stored it at City Hall. The law required a city committee to make the purchase, and no committee had been named.
+- On 2 June 1855 three men got a warrant from a judge to search City Hall. The police would not let them in. By evening between 1,000 and 3,000 people, most of them Irish, stood outside and threw stones at the door.
+- Dow called out the militia and ordered the soldiers to fire. John Robbins, a 22-year-old sailor from Deer Isle, Maine, broke a hole in the door of the liquor room, and the soldiers shot and killed him. He was to be married the next day. The soldiers kept firing as the crowd ran and wounded seven more people. The records opened do not name the soldiers or their officers.
+- A jury found Dow not guilty of buying the liquor improperly. Voters turned him out of office, and in 1856 Maine lawmakers repealed the ban.
+- Shared with: `immigration` (the Irish in New England) · `crime-justice` (the riot). This chapter's slice is the liquor ban.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="carry-nation" name="Carry Nation" movie="" kind="famous" status="candidate" -->
-### Carry Nation
-Temperance campaigner who smashed saloon bars with a hatchet [VERIFY the spelling of her name and the dates].
-<!-- hb-story:end slug="carry-nation" -->
-<!-- hb-story:start slug="target-patent-medicine-buyer" name="(target) a patent-medicine buyer" movie="" kind="ordinary" status="target" -->
-### (target) a patent-medicine buyer
-Took a "tonic" that turned out to be opium.
-<!-- hb-story:end slug="target-patent-medicine-buyer" -->
+<!-- hb-zoom level="span" label="The Civil War: whiskey, taxes and morphine" -->
+- Army officers gave soldiers whiskey. In 1862 members of Congress taxed liquor and tobacco to pay for the war. That September Navy officials ended the daily ration of liquor to sailors.
+- Surgeons gave morphine shots and opium pills to soldiers with gunshot wounds and cut-off limbs. They also gave opium for diarrhea, which spread through the army camps.
+- Morphine and opium stop pain. A person who takes them for weeks comes to need them, and without them the body gets sick. Thousands of veterans went home addicted, and they called it "opium slavery." Many people thought an addicted man was weak and deserved punishment. Many addicted veterans could not get care, and many died of accidental overdoses (historian Jonathan S. Jones, Virginia Museum of History and Culture). No one counted how many veterans were addicted.
+- A claim that 400,000 veterans had a "soldier's disease" from morphine does not hold up. The phrase first appears in print in 1915.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="john-tackett-goolrick-drugs-alcohol" name="John Tackett Goolrick" movie="" kind="ordinary" status="verified" -->
+### John Tackett Goolrick
+> **Who:** a Confederate artillery soldier who became addicted to morphine after a wound and lived with the addiction for about 30 years, recorded in his family's letters. · **When and where:** Petersburg and Richmond, Virginia, 1864, and Fredericksburg, Virginia, 1865 to 1925.
+- He served in the Fredericksburg Artillery in Robert E. Lee's army and supported the Confederacy's fight to keep slavery. He stayed until the surrender at Appomattox in April 1865.
+- In August 1864, at the siege of Petersburg, a bullet hit him in the left leg. He was taken to Chimborazo, a large army hospital in Richmond. The historian Jonathan S. Jones, who read the family's letters, writes that surgeons there apparently gave him morphine for the pain. There or in the years after, he became addicted.
+- After the war he worked as a lawyer in Fredericksburg with his wife, Frances Bernard Goolrick. He took more and more morphine. In 1896 he broke down and could no longer work, and the family ran short of money.
+- Frances told him to stop taking morphine or she would divorce him. In a letter to her brother on 5 February 1896 she wrote, "I can bear neither for myself or the children, this life any longer."
+- His brother wrote that sending him to a state hospital for the mentally ill would be "commented upon and asked about" in the newspapers. So the family took him to the brother's farmhouse outside Fredericksburg. They locked him in a room, and paid nurses kept him there for several weeks while he went through withdrawal, the sickness that comes when the body stops getting a drug it depends on.
+- He got well and went home. The family's letters show he went back to morphine more than once before he died in 1925 (Jones, from the Goolrick Family Papers).
+<!-- hb-story:end slug="john-tackett-goolrick-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Opium, cocaine and alcohol in the medicine bottle" -->
+- Makers of patent medicines did not have to list what was in them. Many contained opium, morphine, cocaine or alcohol, and some contained mercury and lead (National Institute on Drug Abuse, 2012).
+- Mrs. Winslow's Soothing Syrup, sold from 1849 for teething babies, held about 65 milligrams of morphine in each ounce. One teaspoon held enough to kill a young child. Nobody counted the children who died after taking it (`marketplace` tells the selling).
+- Lydia E. Pinkham's Vegetable Compound, sold from the 1870s to women, was 18 to 20 percent alcohol. The label said the alcohol was there only to keep the medicine from spoiling. Women who had signed temperance pledges took it.
+- Most people addicted to opium medicines were not opium smokers. Surveys in the late 1800s found that two out of three people addicted to laudanum or morphine were women. Many were middle-class or rich women who had begun taking morphine for an illness (historian David T. Courtwright).
+- Cocaine came to America in 1884 as a medicine. Doctors used it to numb the eye for surgery. Soon doctors and druggists were addicted to it. In 1887 Oregon lawmakers were the first in any state to ban cocaine. Lawmakers in Montana, Colorado, Illinois and Massachusetts followed by 1898 (George Fisher, Stanford Law School).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="john-stith-pemberton-drugs-alcohol" name="John Stith Pemberton" movie="" kind="famous" status="verified" -->
+### John Stith Pemberton
+> **Who:** a Georgia druggist, addicted to morphine after a war wound, who invented Coca-Cola and put cocaine in it. · **When and where:** Columbus and Atlanta, Georgia, 1865 to 1888.
+- He was born in 1831 and earned a medical degree in 1850. He ran a drugstore in Columbus, Georgia.
+- In April 1865 he fought for the Confederacy at the Battle of Columbus and took a sword cut to the chest. Doctors gave him morphine for the pain, and he became addicted.
+- From 1866 he tried to make a painkiller without morphine. By 1885 he was selling a wine mixed with coca, the plant that cocaine comes from.
+- In 1886 a ban on liquor took effect in Atlanta and Fulton County. Pemberton made a version of his drink without wine and called it Coca-Cola. Jacob's Pharmacy in Atlanta first sold it on 8 May 1886 for five cents a glass. He sold it as a medicine and said it cured headaches and morphine addiction.
+- The first Coca-Cola had cocaine in it from coca leaves. Coca-Cola's makers stopped using fresh coca leaves in 1903 and took out the last traces of cocaine by 1929 (National Institute on Drug Abuse).
+- Pemberton was still addicted and poor when he sold his rights to the drink in 1888. He died that August. His son Charles, who was addicted to opium, was found unconscious with opium beside him in June 1894 and died ten days later, aged 40.
+<!-- hb-story:end slug="john-stith-pemberton-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Opium laws and Chinese immigrants" -->
+- Chinese immigrants came to California in the Gold Rush, and some brought the habit of smoking opium. Opium dens, rooms where people paid to lie down and smoke it, opened in San Francisco's Chinatown in the 1850s.
+- In 1875 San Francisco's Board of Supervisors made it a crime to keep or visit an opium den. The *San Francisco Chronicle* reported that they acted after learning that Chinese owners were running dens for white customers. The police chief, Phillip Crowley, said, "All we can do" is "keep them from opening places where whites might resort to smoke." His officers mostly left alone the dens that sold only to Chinese people (Fisher).
+- Historians disagree about the reason for the 1875 law. George Fisher says the supervisors wanted to protect white young people. Other writers say the law grew out of hatred of the Chinese.
+- In 1887 Idaho lawmakers punished "every white person" who kept or used an opium den. That same year members of Congress banned any "subject of the Emperor of China" from bringing opium into the United States. That federal law named Chinese people as the ones barred. By 1896 lawmakers in 22 states had banned opium dens.
+- In 1883 Irish members of a Catholic church in New York spread a false story that Chinese men were luring girls of 11 and 12 into opium dens. Newspapers across the country printed it before the story was shown to be false about a week later.
+- Shared with: `immigration` (Chinese exclusion, lead) · `crime-justice` (policing). This chapter's slice is the opium laws.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Praying in the saloons: the WCTU" -->
+- A saloon was a bar, mostly for men, that sold drinks by the glass. On 23 December 1873 in Hillsboro, Ohio, Eliza Jane Thompson heard the lecturer Diocletian Lewis speak against drink. She then led groups of women into saloons, where they sang hymns and prayed until the owners closed. Women in 22 other states copied them.
+- In Anoka, Minnesota, a saloon keeper and his wife poured cold water from an upstairs window onto the women praying on the sidewalk.
+- In November 1874 women met in Cleveland and founded the Woman's Christian Temperance Union (WCTU). Frances Willard led it from 1879 until she died in 1898. She argued that women needed the vote to protect their homes from men who drank and beat their families.
+- In 1880 WCTU leaders set up a department for Black members, and Frances Watkins Harper, a Black lecturer, ran it in the North from 1883. Willard let the southern branches keep their own rules on race. In 1893 the journalist Ida B. Wells said Willard had stayed silent about lynching. Wells quoted Willard saying after a trip south, "The colored race multiplies like the locusts of Egypt," and "the grog shop is its center of power." Willard denied the charge and later spoke against lynching.
+- In 1893 Rev. Howard Hyde Russell founded the Anti-Saloon League in Oberlin, Ohio. Its leaders cared how lawmakers voted, not whether they drank.
+- Shared with: `rights-movements` (Wells and the vote, lead). This chapter's slice is the fight against the saloon.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Kansas goes dry, 1880" -->
+- In 1878 Kansas voters elected John St. John, who wanted to ban liquor, as governor. Lawmakers wrote a ban on making and selling liquor into the state constitution, and voters approved it in November 1880. Kansas was the first state to put a ban in its constitution (Kansas Historical Society).
+- The ban began on 1 May 1881. In 1883 Topeka, the capital, still had 43 illegal bars. Their owners stayed open by paying a fine of $100 each month. Kansas kept the ban until voters ended it in 1948.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Liquor laws and Native nations" -->
+- In 1895 members of Congress made it a crime, punished by one month to five years in prison, to sell or give alcohol to anyone in Indian Territory, now Oklahoma. In 1897 they set at least 60 days in prison, with no upper limit, for giving alcohol to Native people who held land under the Dawes Act.
+- By 1900 about one in every 20 people in federal prisons had been convicted of selling or giving alcohol to Native people (Federal Judicial Center).
+- The Paiute prophet Wovoka told followers of the Ghost Dance not to drink (Mancall). On the Comanche reservation in Oklahoma, Quanah Parker led peyote ceremonies and argued for the right to use peyote in worship.
+- Shared with: `native-nations` (the reservations and the Dawes Act, lead) · `religion` (the peyote church).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Cures and cigarettes" -->
+- In 1879 Dr. Leslie Keeley opened a clinic in Dwight, Illinois, that treated heavy drinkers with shots of what he called "bichloride of gold," four times a day. Other patients got the medicine by mail. By 1900 more than 300,000 people had taken the Keeley Cure. Other doctors criticized the cure.
+- Before 1880 a skilled worker could roll about four cigarettes a minute by hand. In 1880 James Albert Bonsack of Virginia built a machine that rolled about 200 a minute. James Buchanan Duke rented Bonsack machines in 1884 or 1885 (sources differ). By 1890 he sold 40 percent of the cigarettes in the country, and that year he joined his four biggest rivals into the American Tobacco Company.
+- Shared with: `big-business` (Duke's company, lead) · `health` (what smoking does).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="drugs-alcohol" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="drugs-alcohol" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-The country writes a ban on drink into the Constitution, discovers what that does, and takes it back out thirteen years later.
+From 1920 to 1933 it was against federal law to make, sell or carry alcoholic drinks anywhere in the United States. People kept drinking in hidden bars and made liquor at home. Federal agents made about half a million arrests a year, and Treasury officials had poison added to factory alcohol that bootleggers stole and sold as drink. Thousands of drinkers died. Before the ban, in 1906, members of Congress made drug makers list opium, morphine and alcohol on their labels, and in 1914 they required everyone who sold opium or cocaine to register and keep records. Treasury officials then prosecuted doctors who gave addicts their drug. In 1937 members of Congress taxed marijuana, and the day after the tax began, police in Denver arrested the first two men charged under it. Cigarettes went from a rare habit in 1900 to an everyday one, and General John Pershing asked for "tobacco as much as bullets" for his soldiers in World War I.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Labels, Prohibition, and cigarettes" -->
-The Pure Food and Drug Act, 1906, forcing labels; the Harrison Narcotics Act, 1914 [VERIFY]; Prohibition, 1920–33 — speakeasies, home stills, bootlegging, and the enforcement that could not keep up; repeal in 1933 and the state-by-state patchwork after it; cigarettes becoming a mass habit, helped by the wars.
+<!-- hb-story:start slug="carry-nation-drugs-alcohol" name="Carry Nation" movie="" kind="famous" status="verified" -->
+### Carry Nation
+> **Who:** a Kansas woman who broke up saloons with rocks and a hatchet to force officials to enforce the state's ban on liquor. · **When and where:** Kiowa, Wichita and Topeka, Kansas, 1900 to 1901, and on tour until 1911.
+- She was born Carrie Moore in Kentucky in 1846. Official records spell her name Carrie. She later spelled it Carry and said it meant "Carry A. Nation for Prohibition" (Kansas Historical Society, Wikipedia).
+- In 1867 she married Charles Gloyd, a doctor who drank heavily. They separated before their daughter was born in 1868, and Gloyd died of alcoholism in 1869.
+- Kansas had banned liquor since 1881, but saloons stayed open. In Medicine Lodge she started a branch of the WCTU and sang hymns outside saloons for about five years.
+- On 7 June 1900 she walked into Dobson's Saloon in Kiowa, Kansas, carrying rocks. She said, "Men, I have come to save you from a drunkard's fate," and smashed the bottles. She smashed two more saloons in Kiowa.
+- In Wichita she wrecked another saloon and spent two weeks in jail. After that she used a hatchet. In Topeka in February 1901 she met the governor and spoke to the state legislature.
+- She was arrested more than 30 times between 1900 and 1910. She paid her fines by selling small pins shaped like hatchets. In 1901 she opened a home in Kansas City, Missouri, for the wives and children of men who drank. She died in 1911.
+<!-- hb-story:end slug="carry-nation-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Labels on the bottle, 1906" -->
+- In 1905 the reporter Samuel Hopkins Adams wrote 11 articles for *Collier's* magazine about patent medicines. He wrote that Americans would spend about $75 million that year on medicines full of alcohol and opium. By official tests Hostetter's Bitters was 44 percent alcohol. He called the opium syrups sold for babies medicines "which stunt or kill helpless infants."
+- On 30 June 1906 President Theodore Roosevelt signed the Pure Food and Drug Act. Drug makers now had to print on the label whether the medicine held alcohol, morphine, opium, cannabis or six other drugs. The law did not ban the drugs. Chemists led by Harvey W. Wiley at the Department of Agriculture checked the labels.
+- After the law, the makers of Mrs. Winslow's Soothing Syrup took out the morphine. Fewer people became addicted through medicine after 1906 (historian David T. Courtwright).
+- Shared with: `health` (the law and the medicines, lead) · `marketplace` (the selling). This chapter's slice is the drugs in the bottle.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-prohibition-agent-or-speakeasy-operator" name="(target) a Prohibition agent or speakeasy operator" movie="" kind="ordinary" status="target" -->
-### (target) a Prohibition agent or speakeasy operator
-Worked one side of a law nobody could enforce.
-<!-- hb-story:end slug="target-prohibition-agent-or-speakeasy-operator" -->
+<!-- hb-zoom level="span" label="The Harrison Act, 1914: doctors and addicts" -->
+- Before the law, officials and newspapers blamed drugs on Black and Chinese people. In 1903 a panel called the Committee on the Acquirement of the Drug Habit wrote, "If the Chinaman cannot get along without his dope we can get along without him." Hamilton Wright, the first federal opium commissioner, told members of Congress that cocaine led Black men to attack white women. A 1914 *New York Times* headline called Black cocaine users "a New Southern Menace." Historians disagree about how much these claims shaped the laws (George Fisher, Stanford Law School).
+- On 17 December 1914 President Woodrow Wilson signed the Harrison Narcotics Act. Everyone who sold or handed out opium or cocaine drugs, including doctors and druggists, had to register, pay a small tax and keep records.
+- Treasury officials read the law to mean that a doctor could not give an addict regular doses. They prosecuted doctors who did. On 3 March 1919 five Supreme Court justices agreed, in the case of Dr. Webb, who had written more than 80 morphine prescriptions a week.
+- Leaders in 35 cities and towns then opened clinics that sold morphine cheaply to addicts. Treasury officials closed every one of them. The last, in Shreveport, Louisiana, closed on 10 February 1923. After that an addict could buy drugs only from dealers.
+- In 1935 the Public Health Service opened a "narcotic farm" in Lexington, Kentucky, a hospital with locked gates where judges could send addicts. One doctor called it "more like a prison than a hospital and more like a hospital than a prison." Studies found that 90 percent or more of the people released soon went back to drugs (Courtwright).
+- Shared with: `crime-justice` (the prosecutions) · `health` (treatment).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Prohibition: the law and the people who wrote it" -->
+- Wayne Wheeler of the Anti-Saloon League led the campaign for a national ban. Members of Congress voted for the Eighteenth Amendment in December 1917, and the 36th state approved it on 16 January 1919. It banned making, selling and carrying alcoholic drinks. It did not ban owning or drinking them.
+- Wheeler drafted the Volstead Act, the law that set the rules for the ban. Andrew Volstead of Minnesota, chairman of the House Judiciary Committee, steered it through. On 28 October 1919 members of Congress passed it over President Wilson's veto. The ban began on 17 January 1920.
+- Families could still make up to 200 gallons of wine and cider a year at home. Doctors wrote about 11 million prescriptions a year for "medicinal" whiskey. In 1931 investigators caught 1,000 doctors and 400 druggists selling signed prescription forms to bootleggers, and 25 of them were charged.
+- A speakeasy was a hidden, illegal bar. By the end of the 1920s New York City had about 30,000 of them (Deborah Blum, science writer). Officials in Maryland and New York refused to enforce the federal ban.
+- Shared with: `government-politics` (the amendments, lead) · `crime-justice` (gangs and bootlegging, lead). This chapter's slice is the drinking and the ban.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="izzy-einstein-drugs-alcohol" name="Izzy Einstein" movie="Izzy and Moe (1985)" kind="ordinary" status="verified" -->
+### Izzy Einstein
+> **Who:** a Jewish immigrant and former postal clerk who became the best-known federal Prohibition agent, arresting people in disguise. · **When and where:** New York City and other cities, 1920 to 1925.
+- He was born in 1880 in Austria-Hungary and came to America around 1901. He spoke Yiddish, Hungarian, Polish and German. He could not support his family on a postal clerk's pay.
+- In 1920, with no police training, he joined the new Prohibition service. He brought in his friend Moe Smith, who owned a cigar store.
+- They wore more than 100 disguises, among them a gravedigger, an iceman and an opera singer, and they usually carried no guns. Sometimes Einstein told a doorman he was a Prohibition agent. The doorman laughed and let him in.
+- One Sunday, with reporters following them, they made 71 raids in about 12 hours.
+- Together they made 4,932 arrests, and 95 percent of the people they arrested were convicted. Thousands of bartenders and speakeasy owners went to jail because of their work (Wikipedia, National Archives).
+- In November 1925 his bosses let them both go in a reorganization, after newspapers had made them famous. Einstein sold insurance and wrote a book, *Prohibition Agent No. 1*, in 1932. He died in 1938.
+<!-- hb-story:end slug="izzy-einstein-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Prohibition agents: who enforced the ban" -->
+- In 1930 the government had 1,450 front-line Prohibition agents. From 1921 to 1930 they made more than half a million arrests a year and seized more than 45,000 cars (historian Richard F. Hamm).
+- Many agents got their jobs through politicians. When the government made them pass a test, 60 percent failed. Between 1920 and 1926, 752 Prohibition officials were fired, most for drunkenness or taking bribes. Mabel Walker Willebrandt, the Assistant Attorney General in charge of Prohibition cases from 1921 to 1929, said the agents were "as devoid of honesty and integrity" as the lawbreakers.
+- By their own count, Prohibition agents killed 89 people. The Association Against the Prohibition Amendment, a group working to end the ban, counted about 1,000 people killed in enforcing it. In 1924 an agent shooting at a bootlegger's car near the Capitol hit Senator Frank L. Greene of Vermont in the head. Greene never got back full use of one arm.
+- One of the first agents to kill a suspected bootlegger had joined under a false name. He had killed a man when he was 14 and was given his badge while still in prison (author Daniel Okrent).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Poisoned alcohol and jake leg" -->
+- Factory alcohol, used for fuel and cleaning, had chemicals added to make it undrinkable. Bootleggers stole it and paid chemists to take the chemicals out. In 1926 and 1927 Treasury officials under President Calvin Coolidge ordered makers to add much more methyl alcohol, also called wood alcohol, up to 10 percent. Methyl alcohol can blind and kill a person who drinks it. TIME magazine reported in January 1927 that three ordinary drinks of the new mix could cause blindness.
+- On Christmas Eve and Christmas Day 1926, more than 60 people came to Bellevue Hospital in New York sick from poisoned liquor, and eight died. In the next two days 23 more died in the city (Blum).
+- Counts differ. Deborah Blum gives 400 dead in New York City in 1926 and 700 in 1927, and "at least 10,000" across the country by 1933, by some estimates. Another count gives 585 dead in New York City in 1926 and more than 5,000 nationwide.
+- Charles Norris, New York City's chief medical examiner, said the government knew the poison did not stop drinking, and "must be charged with the moral responsibility for the deaths." Seymour Lowman, the Assistant Secretary of the Treasury in charge of Prohibition, said drinkers were "dying off fast from poison 'hooch'" and that if the result was a sober America, "a good job will have been done." Wayne Wheeler called anyone who drank it "a deliberate suicide."
+- In 1930 thousands of people who drank Jamaica ginger, a medicine that was 70 to 80 percent alcohol, lost the use of their hands and feet. Harry Gross and Max Reisman of a Boston company had added a chemical called TOCP to their Jamaica ginger to save money. TOCP destroys nerves in the spinal cord. Victims walked with their toes flopping down, and people called it "jake leg." For most the damage was permanent.
+- Estimates of the victims run from 30,000 to 50,000. Most were poor, and many were immigrants. A court fined Gross and Reisman $1,000 each and gave them jail sentences that they did not have to serve.
+- Shared with: `health` (the poisonings and paralysis) · `music` (the "jake leg" blues songs).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="How much people drank, and repeal" -->
+- Economists who measured deaths and arrests found that drinking fell at first to about 30 percent of what it had been before the ban. Over the next several years it rose again to about 60 to 70 percent. Deaths from cirrhosis, liver damage from heavy drinking, fell by nearly two-thirds. Historians still disagree about how much the ban cut drinking.
+- Pauline Sabin, a New York Republican leader, first backed the ban because she thought it would protect her two sons. By 1929 she said children were growing up without respect for the law. In May 1929 in Chicago she founded the Women's Organization for National Prohibition Reform to end the ban.
+- On 22 March 1933 President Franklin Roosevelt signed a law allowing weak beer and wine. On 5 December 1933 Utah's convention became the 36th state to approve the Twenty-first Amendment, which ended national Prohibition.
+- After 1933 states and towns made their own rules on when, where and to whom alcohol could be sold. Kansas kept its state ban until 1948.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Marijuana and the 1937 tax" -->
+- Harry J. Anslinger ran the Federal Bureau of Narcotics from 1930 to 1962. He said, "The best cure for addiction? Never let it happen." His articles against marijuana often carried racist stories that tied the drug to Black and Mexican people (Wikipedia, Courtwright).
+- He told Congress about Victor Licata, who killed his family with an axe in Florida in 1933, as a marijuana crime. Licata had a severe mental illness that doctors had found when he was young.
+- Anslinger wrote the Marihuana Tax Act. President Franklin Roosevelt signed it on 2 August 1937, and it took effect on 1 October. Selling marijuana without a $1-an-ounce federal tax stamp became a crime.
+- On 2 October 1937 federal narcotics agents and Denver police arrested Samuel R. Caldwell, a 57-year-old laborer, for selling marijuana, and Moses Baca, 26, for having it. The tax stamps had not yet been issued. Judge J. Foster Symes sentenced Caldwell to four years of hard labor at Leavenworth prison and Baca to 18 months. Symes said that under marijuana's influence "men become beasts."
+- Shared with: `crime-justice` (the arrests and sentences, lead). This chapter's slice is the drug and the law.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Alcoholics Anonymous, 1935" -->
+- In 1935 in Akron, Ohio, two heavy drinkers, Bill Wilson and Dr. Bob Smith, met through a Christian group. Together they started Alcoholics Anonymous, where drinkers help each other stop drinking. In 1939 they published its Twelve Steps in a book members call the Big Book.
+- AA members meet and tell each other about their drinking. Wilson and Smith had never heard of the Washingtonians of 1840, who had tried the same thing.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Cigarettes become an everyday habit" -->
+- In 1900 Americans smoked an average of 54 cigarettes a year each. By 1963 the figure was 4,345 (Centers for Disease Control and Prevention).
+- In World War I General John Pershing, commander of the American army in France, said the army needed "tobacco as much as bullets." The Red Cross, the Salvation Army, the YMCA and newspapers ran "tobacco funds" to send cigarettes to soldiers (University of Alabama, Center for the Study of Tobacco and Society).
+- In the 1940s Ernst Wynder and other scientists began studies linking cigarettes to lung cancer.
+- Shared with: `health` (the diseases, lead) · `big-business` (the tobacco companies) · `war` (soldiers).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Liquor laws and Native nations" -->
+- In 1910 members of Congress made it a crime to bring alcohol onto Pueblo land in New Mexico, as a condition of New Mexico becoming a state. Federal liquor bans on Native land stayed in force through this whole period (Federal Judicial Center).
+- In 1918 peyote users in Oklahoma organized the Native American Church, whose members take peyote as a sacrament in worship.
+- Shared with: `native-nations` (lead) · `religion` (the church).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="drugs-alcohol" label="1950 to 2000" state="full" progress="seed" -->
