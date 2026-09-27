@@ -11,7 +11,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-256b `big-business` eras 8-10 IN FLIGHT** (T-256a done), T-257 exploration (a/b), T-258 onward.
+**TEN-AGENT BATCH IN FLIGHT (T-257..T-266a).** Verify and commit each as it finishes, file TO PARK after all ten,
+then back to ONE AT A TIME (Jon).
 Tulsa 1921: rights-movements leads, crime-justice the justice angle (DECISIONS #23).
 **AUTONOMOUS (Jon, 2026-09-27): non-stop, one agent at a time** (DECISIONS #24).
 

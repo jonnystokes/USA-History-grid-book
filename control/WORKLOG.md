@@ -2728,3 +2728,56 @@ batch), then return to one at a time. Checkpoints for the batch prepared: T-257 
 T-258 government-politics (bank check, all eras), T-259a war 1-5, T-260a religion 1-5, T-261a education 1-5,
 T-262a rights-movements 1-6 (bank checks), T-263a health, T-264a disasters, T-265a crime-justice,
 T-266a drugs-alcohol (full research, eras 1-5). Ten distinct chapters, so no two agents share a file.
+
+### 2026-09-27 | [LOCAL] TEN-AGENT BATCH (Jon: launch 10 at once, then back to one at a time) | T-257 to T-266a
+USAGE AT START: 0% (Jon: window reset). Each agent writes only its own chapter; TO PARK filed after.
+
+### 2026-09-27 | [LOCAL] T-257 | exploration: full, eras 1-10 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-257-exploration.md
+VERIFY: python tools/project_state.py --check exploration --stage research
+
+### 2026-09-27 | [LOCAL] T-258 | government-politics: bankcheck, eras 1-10 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-258-government-politics.md
+VERIFY: python tools/project_state.py --check government-politics --stage research
+
+### 2026-09-27 | [LOCAL] T-259a | war: bankcheck, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-259-war.md
+VERIFY: python tools/project_state.py --check war --stage research
+
+### 2026-09-27 | [LOCAL] T-260a | religion: bankcheck, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-260-religion.md
+VERIFY: python tools/project_state.py --check religion --stage research
+
+### 2026-09-27 | [LOCAL] T-261a | education: bankcheck, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-261-education.md
+VERIFY: python tools/project_state.py --check education --stage research
+
+### 2026-09-27 | [LOCAL] T-262a | rights-movements: bankcheck, eras 1-6 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-262-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage research
+
+### 2026-09-27 | [LOCAL] T-263a | health: full, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-263-health.md
+VERIFY: python tools/project_state.py --check health --stage research
+
+### 2026-09-27 | [LOCAL] T-264a | disasters: full, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-264-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage research
+
+### 2026-09-27 | [LOCAL] T-265a | crime-justice: full, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-265-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage research
+
+### 2026-09-27 | [LOCAL] T-266a | drugs-alcohol: full, eras 1-5 | model opus | BATCH10
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
