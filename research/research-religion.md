@@ -1146,6 +1146,131 @@ for the Yale & Slavery Research Project ( https://ysrp.yale.edu/jonathan-edwards
 - **Do not move era 5's Black congregations back into this era.** George Liele, David George, Andrew
   Bryan, Richard Allen and Absalom Jones are all after 1750 and are handled in era 5.
 
+### PATCH 2026-09-27 (T-260r): Apalachee, 1704: Carolina's raid destroys the Florida missions and enslaves the Christian Apalachee (actor, acts, counts)
+
+Religion's angle: the Spanish Franciscan missions of era 2-3 (this bank, §2 and §3) end here, and
+the people killed and enslaved were baptised Catholic mission towns. `war` holds Queen Anne's War.
+`native-nations` has no entry on this raid (grep, 2026-09-27). Sources disagree sharply on the
+counts, so every figure below carries its owner.
+
+- **Who ordered it and who led it.** The Carolina assembly approved the plan on 7 September 1703,
+  asking the former governor **James Moore** to go "to the Assistance of the Cowetaws and other our
+  friendly Indians, and to attacque the Appalaches." Moore promised the colony it would pay nothing,
+  because the costs would be recovered "by the taking of loot and slaves." (Wikipedia, "Apalachee
+  massacre," https://en.wikipedia.org/wiki/Apalachee_massacre , tertiary, fetched by curl
+  2026-09-27, citing Hoffman and Covington 1972.)
+- **The force.** Moore led "fifty Englishmen and one thousand Creek Indians." (Dictionary of American
+  History, "Apalachee Massacre," Encyclopedia.com,
+  https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/apalachee-massacre ,
+  fetched by curl 2026-09-27. Tallahassee Magazine gives the same 50 English and 1,000 Creeks.)
+  Creek = Muscogee.
+- **Missions destroyed.** "Moore's troops pillaged and destroyed all but one of the fourteen
+  Franciscan mission settlements and captured about fourteen hundred Christian Indians." (Dictionary
+  of American History, as above.) Wikipedia says the only two major missions left standing were San
+  Luis and San Lorenzo de Ivitachuco, and that Ivitachuco's leader bought it off with "his church's
+  gold ornaments and a train of supplies." Moore did not name the places he destroyed.
+- **The fight at Ayubale, 25 January 1704.** A friar, Father **Angel de Miranda**, held the church
+  compound of La Concepción de Ayubale with 26 men for about nine hours and surrendered with them
+  and 58 women and children when their arrows ran out. A relief force of about 400 Apalachee and 30
+  Spanish cavalry under Captain **Juan Ruíz de Mexía** was beaten there. "More than 200 Apalachees
+  were killed or captured." (Wikipedia, as above.) **Conflict inside that one page:** it reports one
+  Spanish account that Miranda was "summarily executed," and then says Moore released Miranda and
+  Mexía to seek a ransom. Do not state Miranda's fate.
+- **How people were killed.** Tallahassee Magazine (Jay Steere and Jason Dehart, "A Spanish
+  Mission's Brutal Past," 20 July 2012, https://www.tallahasseemagazine.com/a-spanish-missions-brutal-past/ ,
+  WebFetch 2026-09-27, citing John Hann, *The Apalachee Indians and Mission San Luis*, and the
+  archaeologist Rochelle Marrinan): at Ayubale "one friar was burned alive and beheaded while two
+  natives were tortured and burned at the stake." At the Patale mission on 23 June 1704 (a later
+  raid the same year) Father **Manuel de Mendoza** was killed ("shot, tortured and killed" in some
+  accounts) and the church burned. Victims were tied to the Stations of the Cross, "tortured by
+  cutting them with knives and pushing burning sticks into the wounds," and burned. The Spanish who
+  came back to Ayubale afterwards buried the Christian dead, "many of whom they reported as
+  exhibiting evidence of torture" (Wikipedia, as above). **The sources name the raiding force, not
+  the individual men who tortured and burned.** Prose: "The records name the army and its
+  commander, not the men who lit the fires."
+- **The counts, every one with its owner:**
+  - Moore's own report: he killed more than **1,100** men, women and children, "removed into exile"
+    **300**, and "captured as slaves" more than **4,300**, mostly women and children. (Wikipedia,
+    as above, citing the report. The commander's own count, made to justify a raid paid for in
+    slaves.)
+  - Dictionary of American History: about **1,400** Christian Indians captured.
+  - South Carolina Encyclopedia: in raids of 1703-1704 "hundreds of captured Indians were sold into
+    slavery." ("Moore, James, Sr.," https://www.scencyclopedia.org/sce/entries/moore-james-sr/ ,
+    fetched by curl 2026-09-27.)
+  - The historian John Hann: between Moore's raids and the Creek raids that followed, **2,000**
+    Indians went into exile and "an unknown number were enslaved." (Wikipedia, as above.)
+  - Population before: the 14 Apalachee mission communities held about **8,000** people in 1680.
+    (Wikipedia, as above.)
+  - **Prose:** "Moore claimed more than 4,000 captives. Other counts run from hundreds to about
+    1,400." Never one number alone.
+- **Not simple.** Wikipedia records that many Apalachee, unhappy with forced labour for the Spanish
+  (hauling goods about 100 miles to St. Augustine), left with Moore by choice, and that he said most
+  of seven villages joined him. The Spanish forbade mission Indians to own muskets. Both halves go
+  in if the raid goes in.
+- **Whose land:** the Apalachee Province, roughly present-day Tallahassee and the Florida Panhandle
+  into southwestern Georgia.
+
+### PATCH 2026-09-27 (T-260r): New York, 1741: John Ury hanged as a supposed Catholic priest (an attack on Catholics)
+
+`slavery-freedom` (PATCH T-255, 2026-09-27) tells the 1741 "conspiracy" trials and their counts.
+This is only the religious part, which no chapter tells.
+
+- **The law before it:** "In 1700 the New York assembly passed a law that threatened life
+  imprisonment for any Catholic priest who came to New York." (Author's name not captured from the
+  page. American Heritage, "Terror in New York, 1741," vol. 25, issue 4, June 1974,
+  https://www.americanheritage.com/terror-new-york-1741 , fetched by curl 2026-09-27.)
+- **Why a priest was hunted.** Georgia's governor **James Oglethorpe** wrote to New York's lieutenant
+  governor that "the Spaniards had employed emissaries to burn all the magazines and considerable
+  towns in English North America" and that "many priests were employed, under pretended appellations
+  of physicians, dancing masters, and such like occupations." New York's authorities launched "a hunt
+  for undercover priests" and arrested a schoolteacher, **John Ury**, who knew Latin and said he was a
+  clergyman of the Church of England. (American Heritage, as above.)
+- **Who accused him.** **Mary Burton**, the rewarded witness of the earlier trials, who "had said
+  nothing about Ury in her previous testimony," now named him as the plot's leader and said he had
+  "performed Catholic rites for all the plotters at Hughson's tavern." Two more witnesses backed her:
+  **William Kane**, a soldier Burton had accused who cooperated to save himself, and **Sarah
+  Hughson**, brought from the condemned cell. (American Heritage.)
+- **Who prosecuted.** Attorney General **Richard Bradley** (the page gives "Attorney General
+  Bradley") opened with an attack on the "murderous ... popish religion" that held it "not only
+  lawful but meritorious to kill and destroy all that differ in opinion from them," and read
+  Oglethorpe's letter to the jury. Ury had no lawyer. (American Heritage. First name Richard
+  (unconfirmed: search summary only); the article prints the surname only.)
+- **The verdict.** His witnesses said he was no Catholic priest and placed him elsewhere on the
+  nights in question. "The jury convicted Ury after consulting less than fifteen minutes." He was
+  **hanged on 29 August 1741**, after a speech affirming his innocence and forgiving his
+  prosecutors, "the last man executed as a result of the presumed conspiracy." (American Heritage.)
+- Wikipedia ("John Ury") calls him a Non-juring Anglican priest falsely accused of being a Catholic
+  priest (unconfirmed: search summary only).
+- **Prose:** the Catholic priest the court hanged was, on the evidence of his own witnesses, not a
+  Catholic priest. The 1700 law shows the fear came first.
+
+### PATCH 2026-09-27 (T-260r): whose land, era 4 (Stockbridge; Bethesda)
+
+- **Stockbridge, Massachusetts, Edwards's mission from 1751,** was a Mohican town. The
+  Stockbridge-Munsee Band of Mohicans' own timeline: 1734, the council of the Mohican leaders
+  **Konkapot and Umpachenee** debated moving to the mission (23,000 acres); 1736-39, "A town of 6
+  square miles is given to Tribe," and **John Sergeant** built the Mission House; 1749, the tribe's
+  population in Stockbridge was **218**; **1774, "Tribe's land in Stockbridge is reduced to 1,200
+  acres from original 23,000"**; 1783, the tribe was "forced from Stockbridge lands" and moved to New
+  Stockbridge, New York, in 1784. (Stockbridge-Munsee Band of Mohicans, "An Abbreviated Timeline of
+  Cultural History,"
+  https://mohican-nsn.gov/wp-content/uploads/2025/07/Tribal-History-Timeline_Mohican.Com_.pdf ,
+  PDF read with pypdf 2026-09-27.) The timeline does not name which settlers took the land. The
+  Trustees of Reservations (search summary only, unconfirmed: search summary only) say English
+  townspeople "increasingly circumvented" the charter's guarantee of Mohican land during Edwards's
+  years there. Pairs with the Edwards Center statement already in §4d that he was "an agent in
+  depriving Native Americans of their lands."
+- **Bethesda / Savannah:** Georgia's 1733 settlement was on Yamacraw land. Not researched in this
+  pass; `city-building` or `native-nations` would hold it. The Whitefield block does not need it.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260r): who were the English men and Creek men who tortured and burned the Apalachee in 1704?
+Sources checked: Dictionary of American History (names Moore and Mexía only); South Carolina
+Encyclopedia, "Moore, James, Sr." (names Moore only); Wikipedia, "Apalachee massacre" (names Moore,
+Miranda, Mexía and the historians Boyd and Hann; no killer by name); Tallahassee Magazine 2012 (names
+the friar Manuel de Mendoza as a victim; no perpetrator by name).
+How the prose can say it: "Moore commanded the raid. The records do not name the men who tortured
+and burned the prisoners."
+
 ---
 
 ## ERA 5 — 1750 to 1800 (`state="full"`)
@@ -1354,6 +1479,20 @@ disestablishment ended up, and the sentence must make the later date clear.
   number of lashes, and neither names who ordered it.** Say so; do not supply a number. NGE also records
   that news of Bryan praying for the man who had beaten him "touched some whites and secured many Black
   converts."
+  **CORRECTION NOTE 2026-09-27 (T-260r): a number and named officials ARE in a primary source.** Jonathan
+  Clarke's letter from Savannah, 19 July 1790, printed in *The Baptist Annual Register* 1790-93 and
+  reprinted in "Letters Showing the Rise and Progress of the Early Negro Churches of Georgia and the
+  West Indies," *Journal of Negro History* 1, no. 1 (January 1916), Project Gutenberg #13642,
+  https://www.gutenberg.org/cache/epub/13642/pg13642.txt (read 2026-09-27): white Savannahians
+  interrupted the worship, "taking numbers of them before magistrates--they were imprisoned and
+  whipped." Bryan's congregation "were twice imprisoned, and about fifty were severely whipped,
+  particularly Andrew, who was cut and bled abundantly." He told them he "rejoiced not only to be
+  whipped, but would freely suffer death for the cause of Jesus Christ." The chief justice **Henry
+  Osborne**, **James Habersham** and **David Montague** examined them and released them. **George
+  Walton** said such treatment "would be condemned even among barbarians." Osborne then let them
+  worship "between sunrising and sun set." The letter does not name who swung the whip or who ordered
+  it. Prose: "White men of Savannah hauled them before the magistrates. About fifty were whipped."
+  Neither this letter nor the other sources give the number of lashes.
 - **The one date all sources agree on: 20 January 1788**, in a barn at **Brampton plantation**, when the
   white minister **Abraham Marshall** and the Black minister **Jesse Peter** baptised more than forty of
   Bryan's followers, constituted them a church, and ordained Bryan. The Georgia Historical Society
@@ -1379,6 +1518,12 @@ disestablishment ended up, and the sentence must make the later date clear.
 - **NGE also gives membership growth figures (575 in 1788, 850 in 1802, 2,795 in 1831). 575 members in
   the same year 45 people were baptised looks wrong. They are NOT used in the outline.** An audit pass
   should check them against the source before anyone quotes them.
+  **CORRECTION NOTE 2026-09-27 (T-260r): the 575 figure is explained, not wrong.** Clarke's 1790
+  letter (as above): Bryan counted "TWO HUNDRED AND TWENTY-FIVE" in full communion and "about THREE
+  HUNDRED AND FIFTY" converted followers, "many of whom have not permission" from their owners "to be
+  baptized," making "about five hundred and seventy-five." So 575 is followers, not baptized members.
+  Liele's own letter in the same collection says Bryan had "TWO HUNDRED MEMBERS, in full fellowship"
+  and certificates from owners for a hundred more.
 - **The Silver Bluff church.** Around **1773** a travelling preacher named **Wait Palmer** organised a
   church among the people enslaved on **George Galphin's Silver Bluff plantation, South Carolina**,
   twelve miles below Augusta on the Savannah River. **David George** and **Jesse Peter** were among its
@@ -1413,6 +1558,210 @@ disestablishment ended up, and the sentence must make the later date clear.
 - **Died 1818.** (Episcopal Archives; Delaware Public Archives.) Both give only the year; **write
   the year.**
 - **Movie: none verified. Leave `movie=""`.**
+
+
+### PATCH 2026-09-27 (T-260r): California, 1769 to 1800: the Franciscan missions, what was done in them, and whose land they were on
+
+**No chapter in the book covers the California missions** (grep of outlines/ and research/ for
+Serra, Kumeyaay, Toypurina, 2026-09-27; `exploration` has the 1769 Portolá march only and hands the
+missions to `religion` and `native-nations`). This is the largest hard-subject gap in era 5. The
+mission system is a religious project run by a religious order, so it belongs here.
+
+**Main source for everything below unless another is named:** Naomi Scher (principal investigator),
+Far Western Anthropological Research Group, for the California State Office of Historic
+Preservation, *Native Americans and the California Mission System, 1769-1848*, National Register of
+Historic Places Multiple Property Documentation Form, January 2023, revised May 2023, prepared with
+a Tribal Advisory Committee of 48 representatives from 19 California Tribes,
+https://ohp.parks.ca.gov/pages/1054/files/CA_Multiple_Native%20Americans%20and%20CA%20Mission%20System%20MPDF.pdf
+(218-page PDF, read with pypdf 2026-09-27). Cited below as "MPDF" with its Section E page number.
+
+- **Why Spain came, and who ran it.** Spain moved into Alta California in 1769 because of Russian and
+  English threats to the Pacific coast. New Spain was short of money, so "Franciscan missionaries
+  provided an inexpensive way to claim California through occupancy." It was "a joint military and
+  missionary effort, with the missionaries entrusted with religious conversion to Catholicism and the
+  complete social transformation of local Indigenous Peoples." (MPDF E7-E8.) **Father Junípero
+  Serra** was the "Franciscan founder of the California mission system" and came in 1769 after
+  seventeen years as a missionary in Mexico with his friend Father **Francisco Palóu** (MPDF E68).
+  Serra, born 1713 in Petra, Mallorca, founded Mission San Carlos Borromeo at Monterey in 1770 and
+  lived there until his death in 1784. (Steven W. Hackel, "The Competing Legacies of Junípero Serra,"
+  *Common-place* 5, no. 2 (2005), https://web.archive.org/web/2012/http://common-place.org/vol-05/no-02/hackel/index.shtml ,
+  fetched by curl 2026-09-27.)
+- **The founding dates inside era 5** (MPDF Table 2, E54): San Diego de Alcalá 1769; San Carlos
+  Borromeo 1770; San Antonio de Padua and San Gabriel 1771; San Luis Obispo 1772; San Juan
+  Capistrano and San Francisco de Asís 1776; Santa Clara 1777; San Buenaventura 1782 (nine by
+  Serra's death in 1784); Santa Bárbara 1786; La Purísima 1787; Santa Cruz and Soledad 1791; San
+  José, San Juan Bautista, San Miguel and San Fernando 1797; San Luis Rey 1798. **Eighteen missions by
+  1800.** Twenty-one in all were founded between 1769 and 1823 (MPDF E52). The 1769 Native
+  population of California is estimated at **310,000** (MPDF Table 2).
+- **Whose land, mission by mission** (MPDF Table 3, E56, "each of the twenty-one missions was founded
+  in the homelands of people with distinct governments and languages"): San Diego, Kumeyaay (village
+  Nipawaii); San Luis Rey, Payómkawichum (Luiseño); San Juan Capistrano, Acjachemen (Juaneño);
+  San Gabriel, Tongva (Gabrielino), village Sibapet; San Fernando, Tataviam; San Buenaventura, Santa
+  Bárbara and La Purísima, Chumash; San Luis Obispo, Northern Chumash; San Miguel and San Antonio,
+  Salinan; Soledad, Esselen; San Carlos Borromeo, Rumsen Ohlone; San Juan Bautista, Mutsun Ohlone;
+  Santa Cruz, Awaswas Ohlone; Santa Clara, Tamien Ohlone; San José, Chochenyo Ohlone; San Francisco
+  de Asís, Ramaytush Ohlone (Yelamu).
+- **How people were brought in.** Serra's writings show "a conscious plan to focus first on
+  baptizing young Indians," expecting the children to learn Spanish and interpret for their parents
+  (MPDF E71, citing Beebe and Senkewicz 2015). A tribal historian, Edward Ketchum, told the committee
+  that once a child was baptized the child was the "property" of the church (MPDF, Native Voices).
+  Scholars describe persuasion before about 1790-1800 and "use of force increasing after that point"
+  (MPDF E70, citing Cook and Madley). Native testimony is "unequivocally clear ... that force was a
+  very real factor in many Native baptisms" (MPDF E70). "When Native people continued to resist
+  missionization, the missionaries turned to the military who captured runaways and unbaptized
+  individuals" (MPDF E70).
+- **What was done to people inside (named actors: the missionaries, the soldiers, and the Native
+  officials the missionaries used).** "Violence was an integral part of the Franciscan missionary
+  approach, and corporal punishment was used to control the behavior of Native people to keep them
+  from leaving the missions or to force them to return." "Missionaries often used soldiers or Indian
+  alcaldes (elected officials) to deliver punishments, but would also directly participate." (MPDF
+  E81.) "Soldiers policed the countryside between and around the missions imposing corporal
+  punishment" (E81). Punished acts: running away, stealing, fighting, drunkenness, "concubinage" and
+  other disobedience (E81).
+  - **Flogging, defined (policy §3b).** Flogging is beating a person with a whip or lash across the
+    bare back or body, which cuts and bruises the skin. At the missions it was "probably the most
+    common" form of violence. Because some Franciscans, "including Father Serra," whipped themselves
+    as a religious practice, flogging seemed to them a reasonable punishment (MPDF E82, citing Beebe
+    and Senkewicz 2015). It was done in the open with public humiliation (E82).
+  - **The other punishments, named:** the stocks "for days at a time," hobbling (tying the legs so a
+    person could only shuffle) while still working, beating with a cudgel (a heavy club),
+    imprisonment and hard labour, and for "conspiracy, murder, and armed rebellion" sometimes
+    execution (MPDF E82, citing Cook 1976 and Hackel 2005).
+  - **Rape by soldiers**, with cases at Soledad, San Luis Obispo, San Diego and San Gabriel (E82,
+    citing Chávez-García 2004). Priests and civil authorities "struggled with" it. Dates of the
+    individual cases are not given on that page, so do not place them in a year.
+- **Serra's own words on whipping (secondary sources, label them).** A 31 July 1775 letter from Serra
+  to the military commander **Fernando de Rivera y Moncada** asked that four men who had run from
+  Mission Carmel be whipped "two or three" times, and offered to send shackles: "If your Lordship
+  does not have shackles, with your permission they may be sent from here." (Elias Castillo, quoted
+  in "Debunking the Mission 'Myth'," *Washington Square*, San José State University, 12 December
+  2014, https://blogs.sjsu.edu/wsq/2014/12/12/debunking-the-mission-myth/ , fetched by curl
+  2026-09-27. Castillo is a journalist and an advocate against the missions. His citation is to
+  Serra's collected *Writings*, ed. Tibesar.) In a letter of 7 January 1780 to Governor **Felipe de
+  Neve**, Serra wrote: "That the spiritual fathers should punish their sons, the Indians, by blows
+  appears to be as old as the conquest of these kingdoms" (unconfirmed: search summary only).
+- **The count, 1769 to 1834 (runs past 1800, say so in prose).** The Early California Population
+  Project (Steven Hackel and the Huntington Library) records **85,840 baptisms and 59,538 deaths of
+  Native people** at the 21 missions, 1769-1834, with death records missing for Soledad and San Luis
+  Rey (MPDF E84). Other databases give ~101,000 baptisms and ~71,000 deaths (ECPP counting non-Natives
+  too, to 1850) and 95,493 baptisms and 56,776 deaths (California Mission Database, to 1922) (MPDF
+  E148-149). Causes named: "forced relocation, harsh labor demands, cultural suppression, poor living
+  conditions, physical violence, and introduced diseases" (MPDF E8). Santa Inés had the lowest
+  survivorship, six percent (E84, era 6).
+- **Era 6 material seen, for the eras 6-10 agent, not written up here:** Father Andrés Quintana
+  killed at Santa Cruz in 1812 after beating two men "nearly to death with a metal tipped whip";
+  Fathers Olbes and Zalvidea punishing women for infertility and stillbirth; the 1824 Chumash revolt;
+  secularization 1833-34; Estanislao 1828-29 (MPDF E81-82, E131-132, Table 2).
+
+### PATCH 2026-09-27 (T-260r): the Kumeyaay revolt at Mission San Diego, 1775 (actors, cause, count, both sides' sources)
+
+- **The date.** The MPDF gives "November 5, 1775, shortly after midnight" (E130). Father **Vicente
+  Fuster**, who was there, wrote to Serra that it began "On the fifth day of this present month of
+  November, about one o'clock at night." (Fuster to Serra, 1775, excerpted by the Smithsonian's
+  National Museum of the American Indian, Native Knowledge 360, "The 1775 Kumeyaay Revolt and
+  Destruction of Mission San Diego," Source A,
+  https://americanindian.si.edu/nk360/california-missions/assets/documents/Missions-SourceExplorer-SourceA.pdf ,
+  read with pypdf 2026-09-27, from Beebe and Senkewicz, *Lands of Promise and Despair*.) Palóu's 1787
+  life of Serra says the attackers reached the river valley "on the night of the 4th of November."
+  (*Francisco Palóu's Life and Apostolic Labors of the Venerable Father Junípero Serra*, trans. C.
+  Scott Williams, 1913, ch. XL, https://archive.org/details/franciscopalous03jamegoog , djvu text.)
+  **Prose: "on the night of 4 to 5 November 1775."**
+- **Who.** Kumeyaay warriors from **fifteen of the twenty-five** closest villages, all southern
+  Kumeyaay (Tipai), linked by marriage and kinship (MPDF E131, citing Richard Carrico 1997). The
+  military estimated **600 to 1,000** people took part (MPDF E130). Fuster: "more than six hundred."
+  Palóu: "More than a thousand."
+- **Why (their grievances, as the records show them).** Only 100 people had been baptized from 1769
+  to the end of 1774. Then the Franciscans pushed hard: complaints were mounting over "rape of Native
+  women by soldiers (reported by Father Jayme), with at least one victim also murdered, the
+  destruction of certain village lands by cattle, threats against food supplies, and disease" (MPDF
+  E130, citing Carrico). NMAI: causes included "the Spanish destruction of Native food sources, abuse
+  of Native women, and encroachment on Native land." Palóu gives the missionaries' view: two baptized
+  men spread word that the Fathers meant to force everyone to become Christians, "stating as proof of
+  the same the fact that sixty had been baptized in one day" (3 October 1775). **The rebels' own
+  words were not recorded** (MPDF E131).
+- **What was done.** The attackers burned the mission and pillaged the church, and killed three
+  people: Father **Luis Jayme**, shot with an arrow and then beaten to death (MPDF E130); Palóu says
+  they stripped him and hacked him with wooden swords and arrows, and that his face and body were
+  beaten until only his hands were untouched. They also killed a carpenter and a blacksmith from
+  Mexico. The soldiers and survivors gathered in a small building that had served as a barracks
+  (Palóu). (MPDF; NMAI; Palóu.)
+- **What the Spanish did after.** "Violent military retaliation ensued as soldiers roved through
+  regional villages, entered in force, and singled out people they considered leaders of the attack."
+  (MPDF E130-131.) The page does not give a number punished or killed. The mission was rebuilt.
+- **Jayme is the Franciscans' martyr; the Kumeyaay are the people defending their land.** Both are in
+  the sources and both go in.
+
+### PATCH 2026-09-27 (T-260r): Toypurina, 1785 (a named Native religious leader; possible story for this chapter)
+
+- In October 1785 people at Mission San Gabriel and up to eight Tongva villages planned an attack,
+  but the guard was warned and **twenty-one** rebels were arrested before it began. The plan began with
+  **Nicolás José**, a baptized Tongva man from Sibapet, likely a mission alcalde, who had lost a son
+  and two wives. He asked **Toypurina**, "an influential unbaptized woman from Japchivit with status in
+  the local community (often called a shaman or religious/spiritual leader)," to call in the other
+  village captains. **Temejasaquichí**, leader of Juvit, carried her message into the mission. (MPDF
+  E131, citing Hackel 2003.)
+- **Their reasons, in their own testimony:** Nicolás José complained that the ban on dancing kept him
+  from performing mourning ceremonies. Toypurina said she was angry with the Spanish settlers and with
+  the Indians who had moved to the mission on her land. (MPDF E132, citing Hackel 2003:655.)
+- **What was done to them.** Nicolás José and Toypurina were exiled. Temejasaquichí and **Alijivit**
+  (leader of Jajamovit) were freed with a warning, but by then all had spent **two and a half years in
+  jail**. (MPDF E132.)
+- **Story status:** she is named in the records and no chapter tells her (grep, 2026-09-27). A writer
+  may open a story block `toypurina` (slug unused) from these facts only. Her later life is not in this
+  source. Her birth year is not in this source. Do not supply either.
+
+### PATCH 2026-09-27 (T-260r): Gnadenhutten, 8 March 1782: Christian Lenape killed at prayer (religion's angle, second source for `war`)
+
+`war` holds the full event (PATCH T-259a, sourced to Wikipedia and asking for a second source). This
+is the second source, and the religious facts.
+- The victims were Lenape (Delaware) and Mohican converts of the **Moravian** church, living in
+  mission villages in the Tuscarawas Valley, Ohio, who would not fight for either side. Militia under
+  **Colonel David Williamson** (between 100 and 200 men) held them, falsely accused them of taking
+  their goods in raids, and voted to kill them. "Only sixteen or eighteen stepped forward" when
+  Williamson asked those "inclined to mercy" to stand apart. "Realizing their peril, the Moravians
+  began to pray and sing hymns." The militiamen killed them by "braining the bound Moravians with a
+  mallet in the houses in which they had been imprisoned, taking turns as each militiaman wearied.
+  Then, they scalped their victims." **About 96 killed: 62 adults and 34 children.** Two boys
+  escaped, one named Thomas, who survived being scalped. (Eric Sterner, "Moravians in the Middle:
+  The Gnadenhutten Massacre," *Journal of the American Revolution*, February 2018,
+  https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/ , WebFetch
+  2026-09-27.) Matches `war`'s count of 96.
+- **Prose:** the dead were Christian converts and were praying when they were killed. Say what the
+  men did and who led them. Do not tell the whole event; point to `war`.
+
+### PATCH 2026-09-27 (T-260r): outline "first" claims in era 5 checked against sources
+
+- **Richard Allen's story header says he "built the first Black denomination in the United States."
+  NOT SUPPORTED by an opened authoritative source.** Yale Divinity School's AME page says Bethel's
+  formal organization "made it the first independent Black institution in the United States" and that
+  in 1816 Allen invited delegates from "fifteen other Black Methodist churches" to Mother Bethel, where
+  they formed the AME Church and made Allen its first bishop
+  (https://divinity.yale.edu/programs/certificates-denominational-focus/african-methodist-episcopal ,
+  fetched by curl 2026-09-27). The words "first independent Black denomination" appear only in search
+  summaries of popular sites (unconfirmed: search summary only). The National Archives page and the
+  Encyclopedia of Greater Philadelphia (fetched 2026-09-27) do not call it the first. **Writer: say "a
+  new denomination, the African Methodist Episcopal Church," and drop "first."**
+- **Allen, "first Black man ordained a Methodist minister," 1799:** in the bank already (§5d, Encyclopedia
+  of Greater Philadelphia). Kept.
+- **Absalom Jones, first priest of African descent in the United States:** in the bank (§5e, Episcopal
+  Archives). The National Archives page also calls him "the first African American ordained priest"
+  (fetched 2026-09-27). Kept.
+- **Liele's congregation, "the first Black Baptist congregation in the South"** (bank heading §5e2): the
+  outline prose does not use "first." Clarke's 1790 letter (Journal of Negro History 1916, as above)
+  quotes Joseph Cook that Liele planted "the first Baptist Church in Savannah." Keep any "first" to that.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260r): what did the Kumeyaay fighters of 1775 say about why they attacked?
+Sources checked: MPDF E130-131 (says "the rebels' exact motivations were not recorded" and lists the
+grievances from Spanish records); NMAI Source A (Fuster's letter, the Spanish side); Palóu 1787 ch. XL
+(blames the devil and two "apostates"); search results for Carrico 1997 (not opened).
+How the prose can say it: "The attackers left no account of their own. The Spanish records list what
+the Kumeyaay had been complaining about."
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260r): how many Kumeyaay did the soldiers kill or punish after the 1775 revolt?
+Sources checked: MPDF E130-131 (retaliation described, no number); NMAI Source A (no number); Palóu
+ch. XL-XLIII (read ch. XL; no count of Kumeyaay dead).
+How the prose can say it: "Soldiers went through the villages and punished the men they blamed. The
+records give no number."
 
 ---
 

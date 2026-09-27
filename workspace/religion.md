@@ -47,6 +47,8 @@ Companion files: outline `outlines/religion.md` · research bank `research/resea
 - **STRONG SUGGESTION for 1900–1950: Nicholas Black Elk.** Oglala Lakota holy man, at Wounded Knee, baptised Catholic 1904, catechist for decades, sainthood cause opened 2017. `research/research-native-nations.md:317` lists him as still open there, so the slug is free and this chapter has the better angle. Facts and NPS source in `research/research-religion.md` §7e.
 - **SLOT REPLACED:** the era-7 `target` `freedpeoples-minister` is retired and replaced by **`garrison-frazier`** (`verified`). Reason in the bank, §7f: the best-documented freedpeople's-minister record in the era is the minutes of the 12 January 1865 Savannah meeting, which give twenty men's ages, birthplaces, how each became free, their churches and congregation sizes, plus Frazier's own words.
 
+- **2026-09-27 (T-260r) bank check, eras 4-5: gaps the outline does not yet cover, all now sourced in the bank.** Era 4: the 1704 Apalachee raid that ended the Florida missions; John Ury hanged in New York in 1741 as a supposed Catholic priest; Stockbridge's Mohican land. Era 5: **the California missions from 1769 (no chapter in the book covers them)**, the 1775 Kumeyaay revolt, Toypurina in 1785, Gnadenhutten 1782, and a number (about fifty) for the Savannah whippings. **Possible new story for 1750-1800: Toypurina** (`toypurina`, slug unused), a Tongva religious leader in the records. The writer decides. The Richard Allen header's "first Black denomination" is unsupported: bank PATCH at the end of ERA 5.
+
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 

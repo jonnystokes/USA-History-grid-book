@@ -1,13 +1,13 @@
 # CHECKPOINT T-260 | religion | bankcheck | T-260a: eras 1-5
 
-STATUS: PARTIAL (killed by usage limit; continuation queued)
+STATUS: T-260r landed (director verified: PASS  religion / research)
 VERIFY: python tools/project_state.py --check religion --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/religion.md · research/research-religion.md · workspace/religion.md
 
-NOW:    T-260a Unit 1: bank check eras 1-5 (reading slices, 2026-09-27)
-NEXT:   T-260a: Unit 1.
+NOW:    T-260r finished eras 1-5 (2026-09-27)
+NEXT:   Eras 6-10 agent: run the brief's bank check on eras 6-10 (`python tools/slice_bank.py religion --eras 6-10`). Start with the California missions after 1800 (the MPDF source in the ERA 5 PATCH already has Quintana 1812, Olbes and Zalvidea, the 1824 Chumash revolt, Estanislao 1828-29, secularization 1833-34), then the checkpoint's hard subjects (Mormons and the 1838 order, attacks on Catholics and Jews, Native religions and the 1978 Act, boarding schools, clergy abuse figures dated to 2026). Last agent checks every era's progress= flag.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -27,9 +27,9 @@ PASS  religion / research
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | bank check, eras 1-5 (the brief's five Find items, era by era) | todo | |
-| 2 | check each verified story in eras 1-5 has its key facts in the bank | todo | |
-| 3 | final for your eras: validator, research check | todo | |
+| 1 | bank check, eras 1-5 (the brief's five Find items, era by era) | done | eras 1-3 T-260a; eras 4-5 T-260r (see Log) |
+| 2 | check each verified story in eras 1-5 has its key facts in the bank | done | all 7 have bank sections (§2e, 3k, 3l, 4c, 4d, 5d, 5e); Allen 'first Black denomination' unsupported, PATCH end of ERA 5 |
+| 3 | final for your eras: validator, research check | done | validator 0 errors; --stage research PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -46,6 +46,11 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+- `war`, era 5: second source for its Gnadenhutten PATCH (T-259a asked for one): Eric Sterner, Journal of the American Revolution, Feb 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/ : Williamson, 100-200 militia, "sixteen or eighteen" refused, 62 adults and 34 children killed with a mallet, then scalped. Details in religion bank end of ERA 5.
+- `native-nations`, era 4: Apalachee 1704 (Moore, 50 English + 1,000 Creek, 13 of 14 missions destroyed, captives about 1,400 by DAH, Moore's own claim 4,300+). Religion bank PATCH end of ERA 4. No chapter had it.
+- `native-nations`, era 5: the California missions and the 1775 Kumeyaay, 1781 Quechan and 1785 Toypurina revolts, all sourced to the 2023 NRHP MPDF in the religion bank, end of ERA 5. `native-nations` may want the revolts as resistance. Religion keeps the missions as a religious project.
+- `native-nations`, era 4-5: Stockbridge Mohican land, 23,000 acres to 1,200 by 1774, forced out 1783 (tribal timeline). Religion bank end of ERA 4.
+- `slavery-freedom`, era 4: John Ury, one of the white men hanged in 1741, was hanged as a supposed Catholic priest on 29 Aug 1741 (American Heritage 1974). Religion bank end of ERA 4.
 - `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.
 - `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
@@ -378,6 +383,10 @@ Pages the killed agent fetched (316; re-read the useful ones rather than searchi
 - https://archive.org/advancedsearch.php?q=$q&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=12&output=json
 
 ## Sources in hand
+- California OHP / NRHP MPDF "Native Americans and the California Mission System, 1769-1848" (2023), https://ohp.parks.ca.gov/pages/1054/files/CA_Multiple_Native%20Americans%20and%20CA%20Mission%20System%20MPDF.pdf : whole mission period, eras 5-6 (punishments, ECPP counts, revolts, Table 2 dates, Table 3 homelands).
+- NMAI Native Knowledge 360, Source A (Fuster's 1775 letter). Palóu 1913 trans., archive.org franciscopalous03jamegoog.
+- Journal of Negro History 1 (1916), Gutenberg #13642: Clarke 1790 letter on Bryan (about fifty whipped; named magistrates); Liele letters.
+- American Heritage June 1974 "Terror in New York, 1741" (Ury). Dictionary of American History and SC Encyclopedia (Moore); Tallahassee Magazine 2012 (Apalachee torture). Stockbridge-Munsee tribal timeline PDF. JAR 2018 Sterner (Gnadenhutten).
 
 ## Gaps researched
 
@@ -391,3 +400,7 @@ Pages the killed agent fetched (316; re-read the useful ones rather than searchi
 - 2026-09-27 T-260a: era 1 checked, no gap needing research (no harms; land n/a; outline claims all in bank §1b-1d).
 - 2026-09-27 T-260a: era 2 landed in bank (end of ERA 2): PATCH Guale 1597 Spanish reprisal (Méndez de Canzo burned Ospo, Sapala, Tolomato, Asao, Talaje; Lucas hanged 29 Jul 1598 after torture threat; 5 friars named); PATCH pointer to `war` for Matanzas 1565; SEARCHED NOT FOUND on why Tocobaga killed Cáncer. Source: Francis & Kole 2011 AMNH full text (PDF downloaded, read with pypdf).
 - 2026-09-27 T-260a: era 3 landed in bank (end of ERA 3), 7 PATCH headings: Quaker punishments (ear law 1657, Holder/Copeland/Rous right ears 16 Sep 1658, Southwick children ordered sold, Endecott, Robinson+Stephenson 27 Oct 1659, Leddra 14 Mar 1661); Leighton = the 1630 branded man; Posada 1656-65 and Treviño 1675 (3 hanged, 1 suicide, rest whipped); Virginia 1667 baptism act; Deer Island 1675-76 (Gookin); land (Massachusett, Narragansett, Yaocomaco, Lenape); pointers (Hutchinson/Kieft to rights-movements bank; Salem to crime-justice). Correction note added in §3g.
+- 2026-09-27 T-260r: salvage measured. Eras 1-3 complete in bank (last T-260a heading at end of ERA 3, intact). ERA 4 and 5 had nothing from T-260a.
+- 2026-09-27 T-260r: era 4 landed (end of ERA 4): PATCH Apalachee 1704 (Moore, 50 English + 1,000 Creek, 13 of 14 missions, counts 1,400 / 'hundreds' / Moore's own 4,300+ with owners, torture described); PATCH John Ury hanged 29 Aug 1741 as a supposed priest, NY 1700 anti-priest law; PATCH land (Stockbridge 23,000 to 1,200 acres by 1774, tribal timeline); SEARCHED NOT FOUND on the individual perpetrators at Ayubale.
+- 2026-09-27 T-260r: era 5 landed (end of ERA 5): PATCH California missions 1769-1800 (MPDF: founding dates, homelands, coercion, flogging defined, stocks, Serra letters labelled, ECPP 85,840 baptisms / 59,538 deaths 1769-1834); PATCH Kumeyaay revolt 1775 (date 4-5 Nov, 600-1,000, 15 of 25 villages, grievances, Jayme, retaliation); PATCH Toypurina 1785 (story candidate); PATCH Gnadenhutten (Sterner); PATCH era-5 'firsts'; 2 SEARCHED NOT FOUND (Kumeyaay own words; retaliation count); 2 CORRECTION NOTEs in §5e2 (about fifty whipped, named magistrates; 575 = followers). Workspace note added.
+- 2026-09-27 T-260r: Units 2-3 done. validator 0 errors. PASS religion / research (bank=48179w).

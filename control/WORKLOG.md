@@ -2825,9 +2825,11 @@ RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras
 NOTE (Jon, during T-262r, usage 46%): after T-262r, burst of two, then one at a time. DECISIONS #25 (burst mode only on Jon's word).
 
 ### 2026-09-27 | [LOCAL] T-260r | religion: continue bank check eras 1-5 [BURST of 2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+RESULT: DONE. PASS  religion / research. measured: stage=RESEARCHED eras=10/10 stories=18 (v18 c0 t0) verify_tags=0 bank=48179w outline=22144w manuscript=0w validator_errors=0
+        255032 tokens, 75 tool uses, 10.8 min (opus). Eras 4-5 done (1-3 had landed): Apalachee 1704 (Moore; counts hundreds to 4,300+), John Ury 1741, Stockbridge land, California missions from 1769 (no chapter had them: 85,840 baptisms vs 59,538 deaths, flogging defined), Kumeyaay 1775, Toypurina 1785, Gnadenhutten, Andrew Bryan's congregation whipped. 3 searched-not-found. TO PARK 5 (burst).
 
 ### 2026-09-27 | [LOCAL] T-257r | exploration: continue full research, from era 6 [BURST of 2] | model opus
 STATUS: IN-FLIGHT
