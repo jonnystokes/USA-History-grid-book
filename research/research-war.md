@@ -171,6 +171,49 @@ Site 39BF11, on the Missouri River in south-central South Dakota; an ancestral A
   are underrepresented in the grave and may have been taken away alive) is discussed in the
   literature but was **not confirmed to a source here** — left out.
 
+### PATCH 2026-09-27 (T-259a): Crow Creek, from the osteologist's own study
+- **P. Willey's 1982 doctoral dissertation** (Patrick S. Willey, *Osteology of the Crow Creek
+  Massacre*, PhD, University of Tennessee, 1982, https://trace.tennessee.edu/utk_graddiss/4035/ ,
+  abstract opened 2026-09-27) says: "At least 486 Arikara were buried, that number probably
+  constituting roughly 60 percent of the village inhabitants." The dead "were mutilated, exposed
+  above ground, then buried in the fortification ditch." "Scalping, skull fractures, evulsions, and
+  decapitations are common." "Many bones show indications of chewing, snapping, and splintering."
+- **SHARE OF THE TOWN, DISPUTE:** Bamforth (1.2 above) calls the 486 "essentially the town's
+  entire population". Willey, who studied the bones, estimates **roughly 60 percent** of the
+  village. State both. The outline's "essentially the whole town" is Bamforth's phrase and needs
+  the Willey figure beside it.
+- **Captives, now sourced:** "There are fewer young adult females and old adult males present in
+  the sample than expected. ... the raiders taking captives seems a most likely explanation for the
+  missing young women." (Willey 1982 abstract.) This settles the caution in 1.6: the captive
+  reading is Willey's own, stated as the most likely explanation, not as a certainty.
+- The 1.3 CAUTION figures (a quarter with neck-vertebra cuts, 40 percent skull fractures) are still
+  not confirmed: the abstract says skull fractures are "common" and gives no percentage. Keep them
+  out.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259a): who attacked Crow Creek, and why?
+Sources checked: Willey 1982 dissertation abstract (above) calls them only "the raiders" and finds
+the dead were Arikara with "no morphologically alien skulls in the sample". Willey and Emerson 1993,
+*Plains Anthropologist* 38(145) (publisher page 403 to automated fetch, search summary only): no
+attacker named. Bamforth, *Encyclopedia of the Great Plains* (1.2): gives the cause as
+"competition for food, probably due to local overpopulation and climatic deterioration", names no
+attackers. Wikipedia "Crow Creek massacre" (search summary): no attackers named.
+How the prose can say it: "The bones cannot tell us who the attackers were. The archaeologists who
+studied them think the attackers carried off young women as captives, because fewer young women
+are in the grave than a whole town would have had."
+
+### PATCH 2026-09-27 (T-259a): Norris Farms 36, the share of adults killed
+- George R. Milner, Eve Anderson and Virginia G. Smith, "Warfare in Late Prehistoric West-Central
+  Illinois," *American Antiquity* 56 (1991), pp. 581-603, abstract opened 2026-09-27 at
+  https://www.cambridge.org/core/journals/american-antiquity/article/abs/warfare-in-late-prehistoric-westcentral-illinois/ED5B123BEE05FA2B0FC0103A9BB38536 :
+  a cemetery of **264 burials dating to about A.D. 1300**. "Chronic warfare caused a heavy loss of
+  life (**at least one-third of all adult deaths**) and contributed to considerable hardship."
+- So two figures describe the same cemetery and both are true: at least 43 of all 264 people, 16 in
+  every 100 (1.4 above), and at least one in three of the **adults**. The difference is the
+  denominator (children are in the 264). A writer who uses one must say which group it counts.
+- Who the attackers were: Milner and colleagues describe "intergroup conflict" within "a broader
+  pattern of volatile Precontact-era social relationships" and, in the abstract, name no enemy
+  group. **Not found; the prose says the records in the bones do not show who the attackers were.**
+
 ---
 
 ## 2. THE 1500s
@@ -281,6 +324,121 @@ best-documented named individuals of 1500s North America are already used by oth
 (`native-nations` has Paquiquineo; `city-building` and `slavery-freedom` use Pedro Menendez de Aviles
 and Francisco Menendez respectively for other purposes). This chapter tells the 1500s as `hb-zoom`
 prose and takes its first named story in 1700-1750. **Do not invent one to fill the slot.**
+
+### PATCH 2026-09-27 (T-259a): Arenal, from the expedition's own chronicler, and who ordered it
+The 2.3 NOT ADOPTED note asked for a citation to the Castaneda narrative. Here it is, read in full
+at the passages: Pedro de Castaneda de Najera, *Relacion de la jornada de Cibola* (written about
+1560s, Lenox copy of 1596), English translation by George Parker Winship, *The Coronado Expedition,
+1540-1542*, Fourteenth Annual Report of the Bureau of Ethnology, 1892-93, Part 1 (GPO, 1896),
+pp. 495-497, Project Gutenberg #50448, https://www.gutenberg.org/files/50448/50448-h/50448-h.htm
+(opened 2026-09-27). Castaneda was a soldier on the expedition, so this is an eyewitness-era
+Spanish account, one-sided like the others.
+- **What set it off (Castaneda, pp. 495-496):** Coronado demanded "about three hundred or more
+  pieces of cloth" from the twelve Tiguex villages in winter. The men sent to collect "did not give
+  the natives a chance to consult about it", so "these people could do nothing except take off their
+  own cloaks and give them". Soldiers who did not like a cloak they were given took a better one off
+  any Tiguex man they saw wearing one.
+- **The assault on the woman:** a Spanish soldier rode to a village about a league away, sent a
+  Tiguex man down to hold his horse, went up into the house, and "had violated, or tried to violate,
+  his wife". The husband and the town's leaders complained to Coronado. At a line-up the husband
+  could not pick out the man but identified the horse. The owner denied it and "he went off without
+  getting any satisfaction", meaning the husband got no justice. **Castaneda deliberately withholds
+  the soldier's name: "one whom I will not name, out of regard for him."** So the name is not in
+  the record (see SEARCHED, NOT FOUND below).
+- **The next day** Tiguex men killed a Native horse guard serving the army and drove off many of
+  the army's horses and seven of Coronado's mules. That is the start of the fighting.
+- **Arenal and the stakes (Castaneda, pp. 496-497):** Coronado ordered **Don Garcia Lopez de
+  Cardenas** to surround the village "where the affair with the Indian woman occurred". After a day
+  and a night, the Spanish and their Native allies from New Spain "smoked them out from the
+  cellars", and the defenders asked for peace by making the sign of the cross. Two Spaniards on the
+  roof, Pablo de Melgosa and Diego Lopez, made the same sign back and the men "put down their arms
+  and received pardon". They were taken to Cardenas's tent. Castaneda: "As he had been ordered by
+  the general not to take them alive, but to make an example of them so that the other natives
+  would fear the Spaniards, **he ordered 200 stakes to be prepared at once to burn them alive**."
+  When the prisoners "saw that the Spaniards were binding them and beginning to roast them, about a
+  hundred men who were in the tent began to struggle and defend themselves". Spanish foot soldiers
+  and horsemen killed them: "not a man of them remained alive", except a few who hid and escaped
+  that night.
+- **So the method is now sourced:** men who had surrendered under a promise of pardon were tied
+  to stakes and burned alive, on Cardenas's order, which he gave under Coronado's order to take no
+  prisoners alive (Castaneda's account). The about 100 who fought back were killed by lance and
+  horsemen. **Count:** Castaneda gives no exact number burned. 200 is the number of stakes he says
+  were ordered, not a count of dead. Write it that way. The earlier bank line "dozens" (New Mexico
+  State Historian, 2.3) stays beside it.
+- **Cardenas's own version and his trial:** University of New Mexico, "A Most Splendid Company"
+  (Richard and Shirley Cushing Flint's database of the expedition's members), "don Garcia Lopez de
+  Cardenas," https://coronado.unm.edu/node/7815 (opened 2026-09-27): in his defence Cardenas said
+  "some soldiers without his order lanced some Indians in a tent". The royal prosecutor (fiscal)
+  accused him of killings, forced sexual assault, setting dogs on Native people, and seizing food
+  and clothing. **The Council of the Indies found the case proven in 1549, and confirmed the guilty
+  finding on review in 1551.** First sentence: 30 months' service at Oran (in North Africa) and 800
+  ducats. Reduced on appeal to 12 months' service on the Navarre frontier, 200 ducats, and 10 years
+  banned from the Indies. He served his time at Velez-Malaga, not Navarre. (Search summary adds
+  that he was the only expedition member convicted: unconfirmed: search summary only.)
+- **Land:** the Tiguex villages were Tiwa-speaking towns along the Rio Grande around present-day
+  Albuquerque and Bernalillo. Texas State Historical Association, *Handbook of Texas*, "Tigua
+  Indians," https://www.tshaonline.org/handbook/entries/tigua-indians (opened 2026-09-27): "At the
+  time of first contact by the Coronado expedition the Tiguas were situated in thirteen or more
+  villages", and Tiwa is still spoken at Isleta, Sandia, Taos and Picuris. Castaneda says twelve
+  villages. **CORRECTION, do not copy:** the NPS Coronado page (2.3) says the Tiguex are "now known
+  as the Tewa" and lists Tewa pueblos (Ohkay Owingeh, San Ildefonso and others). Tewa is a
+  different language from Tiwa. TSHA and Castaneda's name for the province both point to Tiwa.
+  Write "Tiwa-speaking Pueblo towns" and name Sandia and Isleta as descendant pueblos
+  (Sandia/Isleta as "Southern Tiwa": unconfirmed: search summary only, Wikipedia "Tiwa Pueblo
+  peoples" and Legends of America).
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259a): which Spanish soldier assaulted the Tiguex woman?
+Sources checked: Castaneda's narrative (Winship 1896, p. 495), which says "one whom I will not
+name, out of regard for him". NPS "The Tiguex War" (no name). New Mexico Office of the State
+Historian, "Coofor and Juan Aleman" (no name). UNM "A Most Splendid Company" Cardenas entry (lists
+the charge of forced sexual assault against Cardenas's men, no name for this soldier). Some modern
+writers identify him from later trial testimony, but no page opened here names him.
+How the prose can say it: "The Spanish chronicler who wrote it down knew the soldier's name and
+chose not to write it. The husband got no justice."
+
+### PATCH 2026-09-27 (T-259a): de Soto's treatment of the people he marched through, and who came back
+- NPS, "Florida: DeSoto National Memorial," https://www.nps.gov/articles/desoto.htm (opened
+  2026-09-27): de Soto's men were "terrorizing native towns that did not cooperate by **throwing
+  natives to the dogs, burning them alive, enslaving and raping them, and cutting off their noses
+  and hands**." People who cooperated "became servants who helped feed the Spaniards and guide
+  them". De Soto lost "half of his soldiers". **Error on that page, do not copy:** it says he died in
+  1543. He died 21 May 1542 (NPS "Hernando De Soto," 2.1, and NCpedia below).
+- **Throwing people to the dogs** means the Spanish set their war dogs, trained attack dogs, on a
+  captive to bite and tear the person, often to death. (Plain-word gloss of the NPS phrase. The NPS
+  page gives no count and no named victim.)
+- NCpedia, "De Soto Expedition" (fetched 2026-09-27): de Soto landed in May 1539 near Tampa Bay
+  "with about 600 men, a few hundred horses, packs of dogs, and a large herd of pigs". "Typically,
+  as they moved on, de Soto's army enslaved men and women from American Indian tribes along as
+  servants or aides." In June 1543 the survivors went down the Mississippi in seven boats and
+  reached the Gulf six weeks later "with **311 surviving Spaniards and an unknown number of
+  enslaved people** from various American Indian tribes." A second NCpedia page: the expedition
+  was "confiscating food supplies and enslaving people from Native tribes."
+  (https://www.ncpedia.org/de-soto-expedition ; NCpedia text also used by ANCHOR,
+  https://www.ncanchor.org/anchor/de-soto-expedition)
+- **So the count:** about 600 to 620 men set out (NCpedia, NPS 2.1). 311 came back. The number of
+  Native people enslaved and carried along, and the number who died as carriers, is not recorded.
+  Landfall at Panuco, Mexico, 10 September 1543 (unconfirmed: search summary only).
+
+### PATCH 2026-09-27 (T-259a): Mabila, the arm cut off, and who lived at Fort Caroline
+- The Encyclopedia of Alabama line in 2.2 (a Mabila man's arm cut off by a Spanish officer) names
+  no officer. Not re-searched further. The prose can say "a Spanish officer" and that the
+  encyclopedia names no one.
+- **Land at Fort Caroline and Matanzas:** NPS, "Florida: Fort Caroline National Memorial,"
+  https://www.nps.gov/articles/ftcaroline.htm (opened 2026-09-27): "Timucuans had lived in the area
+  and throughout northern Florida for at least 1,000 years before the arrival of the French and
+  Spanish in the 1500s." Both the French fort and Spanish St. Augustine stood on Timucua land.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259a): is the Tiguex War "the first war between Europeans and Native people inside what is now the United States"?
+Sources checked: NPS "The Tiguex War" (read in full 2026-09-27: the word "first" does not appear).
+New Mexico Office of the State Historian (2.3, no such claim). Castaneda (Winship 1896, no such
+claim). **The bank's own dates contradict it:** de Soto's army fought the town of Mabila on 18
+October 1540 (2.2), and the Tiguex fighting began in the winter of 1540-41 (2.3), after Mabila. De
+Soto's men had also been fighting since 1539 (2.1, NPS). **The outline's "first war" sentence is
+unsupported and must not go into the prose.** The heading of 2.2 ("the largest battle of the
+century in North America") is also unsourced as a superlative. Write "one of the largest" only if
+a source is found, or drop the superlative.
+How the prose can say it: "Coronado's expedition fought the Tiguex towns on the Rio Grande in the
+winter of 1540 to 1541, the same year de Soto's army burned Mabila far to the east."
 
 ---
 
@@ -417,6 +575,101 @@ The seed gives this era no story and none is added. The two best-documented name
 **Candidate if a later agent wants one: Robin Cassacinamon**, the Pequot leader who brought
 survivors back to 500 acres in 1651 and to a reservation at Mashantucket in 1666, sourced above.
 Check first that `native-nations` has not taken him.
+
+### PATCH 2026-09-27 (T-259a): Opechancanough's death, 1646, the named actors
+- Encyclopedia Virginia, "Opechancanough (d. 1646)," https://encyclopediavirginia.org/entries/opechancanough-d-1646/
+  (opened 2026-09-27): Virginia governor **Sir William Berkeley** led the expedition that captured
+  Opechancanough at his fort on the Pamunkey River and took him to Jamestown, where he was kept in a
+  cell. "Within two weeks of his arrival, **one of the English guards shot Opechancanough dead**."
+  "There is no record of where or how he was buried." The guard is not named in this source.
+- The same entry gives the reason for the 1622 attack as Opechancanough's judgment that raiding
+  "would not halt the English colony's continued expansion", meaning the English kept taking more
+  Powhatan land. **Land:** the plantations along the James River stood on the land of the Powhatan
+  paramount chiefdom (Tsenacomoco), sourced in `research/research-native-nations.md`.
+- The 1646 treaty was made by his successor **Necotowance** (same entry).
+
+### PATCH 2026-09-27 (T-259a): the Pequot War, why it started and what was done to the captives
+Source for the causes and the fighting: Mashantucket Pequot Museum and Research Center, "Battlefields
+of the Pequot War," "The Pequot War," https://pequotwar.org/about/ (opened 2026-09-27; a National Park
+Service American Battlefield Protection Program project run by the Pequot museum).
+- **Causes, in order:** "Trader John Stone and his crew in the Connecticut River were murdered by the
+  Pequot in the summer of 1634." "The murder of trader John Oldham by the Manisses Indians of Block
+  Island in July, 1636 resulted in a military response by the English." In August 1636 Massachusetts
+  Bay sent **90 soldiers under John Endecott** (spelled Endicott there). They burned the Block Island
+  villages, then sailed to Pequot country and burned a Pequot village. (The Manisses of Block
+  Island were not Pequot. The English answer to Oldham's death fell on the Pequot as well.)
+- **23 April 1637, Wethersfield, Connecticut:** Pequot fighters "killed nine men and women and
+  captured two girls."
+- **Mystic, the commanders:** "Captain John Mason of Windsor was given command of the Connecticut
+  forces", with **Captain John Underhill** leading Massachusetts Bay soldiers. English losses: "two
+  dead and twenty wounded", half of the English force that went inside the fort. Pequot dead: "In
+  one hour, more than 400 Pequot men, women and children were killed." (Bank 3.3 gives 400 to 700.
+  The museum's own figure is "more than 400". State the range and whose it is.)
+- **After Mystic:** in July 1637, at a swamp near present-day Fairfield, Connecticut, the English
+  fought surviving Pequot for about 24 hours, hand to hand through the night, and "approximately
+  60-80 Pequot warriors broke through". **Sassacus** fled west and "was killed immediately" by
+  Mohawk (Mahican/Mohawk in the museum's wording) fighters near present-day Dover Plains, New York,
+  in late July 1637. Some captive women were executed after the English argued over who should get
+  them, and captives were "sold into slavery either in the Caribbean or New England colonies."
+- **The first shipment, named people and dates:** NPS, "The DESIRE and the Beginnings of the
+  Massachusetts Slave Trade," https://home.nps.gov/articles/000/beginnings-of-ma-slave-trade.htm
+  (opened 2026-09-27), quoting Governor **John Winthrop's** journal. 13 July 1637: "We sent fifteen
+  of the boys and two women to Bermuda, by Mr. Peirce; but he, missing it, carried them to
+  Providence Isle." 26 February 1638: "Mr. Peirce, in the Salem ship, the *Desire*, returned from the
+  West Indies after seven months ... and brought some cotton, and tobacco, and negroes, etc." So
+  Massachusetts officials under Winthrop sent 17 Pequot captives, 15 boys and 2 women, away as
+  slaves on the ship *Desire* under **William Peirce**, and Peirce brought enslaved Africans back.
+  **Shared with `slavery-freedom`** (their angle: the start of the Massachusetts slave trade). War's
+  angle: this is what the winners did with prisoners of war. Check `slavery-freedom` before telling
+  the African half.
+
+### PATCH 2026-09-27 (T-259a): King Philip's War, the cause, the dead, and Deer Island
+- **The hangings that started it (bank 3.4 says "executed three Wampanoag men" with no cause).**
+  Colonial Society of Massachusetts, *The Correspondence of John Cotton Junior* (Publications vol.
+  79), chapter "Three: King Philip's War 1675-1676," https://www.colonialsociety.org/node/1864
+  (opened 2026-09-27): "In January 1675, the body of a Christian Indian named **John Sassamon** was
+  discovered under the ice of Assowampsett Pond, in modern-day Lakeville. Only days before, Sassamon
+  had reportedly informed Gov. Josiah Winslow of an impending attack by Philip's men." Plymouth
+  tried three Wampanoag men for his murder on 1 June 1675 before an all-English jury, with "a
+  six-man panel of Natives to advise and (ultimately) concur". "Two of the convicted were hanged on
+  8 June; the third, who received a temporary reprieve, was shot a month later." **CORRECTION to
+  3.4 and the outline:** the outline's "after Plymouth Colony hanged three Wampanoag men" should be
+  "hanged two and later shot the third" (Colonial Society). The three men's names are not in this
+  source. (Search summary names them as Tobias, his son Wampapaquan, and Mattashunannamo:
+  unconfirmed: search summary only.)
+- **Great Swamp, the English side:** the same source quotes James Oliver, an English officer, in a
+  letter of 14 January 1676: "we lost that are now dead about 68 & had 150 wounded", "by the best
+  Intelligence we killed 300 fighting men", "we burnt above 500 houses". (NPS, 3.4, counts 300
+  Native men and almost 400 women and children killed. Oliver counts only the fighting men.)
+- **Captives sold, a named buyer:** the same chapter quotes a colonial record: "that day wee sold
+  Capt Davenport 47 Indians young & old for 80 pd in mony" (80 pounds for 47 people).
+- **The whole war's dead, with whose count:** HistoryNet (journalism, label it), "Blood and
+  Betrayal: King Philip's War," https://historynet.com/blood-and-betrayal-king-philips-war/ (opened
+  2026-09-27): "The figures are inexact, but out of a total New England population of 80,000,
+  counting both Indians and English colonists, **some 9,000 were killed, more than 10 percent**."
+  "Two-thirds of the dead were Indians, many of whom died of starvation." Native fighters "attacked
+  52 of New England's 90 towns, pillaging 25 of those and burning 17 to the ground." Other figures
+  in circulation: 800 to 1,000 English colonists and over 3,000 Native people dead, at least 1,000
+  Native people sold into slavery (unconfirmed: search summary only, History.com and others).
+  **Write "about 9,000 people killed out of about 80,000 in New England, by one estimate, and about
+  two in three of the dead were Native people." Name it as an estimate.**
+- **Deer Island, the war's internment camp.** NPS, "Deer Island," https://www.nps.gov/places/deer-island.htm
+  (opened 2026-09-27): "Those interned numbered about 500 to 1,100 people and began with members of
+  the Nipmuc Nation from what is today South Natick." "Women and children made up the majority."
+  "Due to starvation, freezing temperatures and lack of shelter, very few survived internment."
+  "Colonists released survivors in May 1676." "An unknown number of victims were smuggled off the
+  island and sold as enslaved people in the West Indies or Tangier." Mass Humanities, "King Philip's
+  War and the Cultural Landscape of Boston," https://masshumanities.org/ph_king-philips-war-and-the-cultural-landscape-of-boston/
+  (opened 2026-09-27): "roughly half of some 900 internees died of starvation and exposure", and
+  "About 45 Indians were publicly executed on Boston Common." **These were Christian Native people
+  allied with the English**, moved by Massachusetts Bay colonists to an island in Boston Harbor in
+  the winter of 1675-76 because colonists did not trust them. **Counts differ: "very few survived"
+  (NPS) against "roughly half" died (Mass Humanities). State both.** Who ordered it: the
+  Massachusetts Bay government (its General Court and council) in October 1675 (unconfirmed:
+  search summary only; neither opened page names the body or the date). The prose can say
+  "Massachusetts Bay's leaders" and give the month as autumn 1675.
+  **Shared with `native-nations`** (their angle: the Nipmuc and the praying towns). War's angle:
+  the colony locked up its own Native allies as a war measure, and most of them died.
 
 ---
 
@@ -580,6 +833,109 @@ https://americancenturies.org/lookitup/williams-eunice-kanenstenhawi/ unless mar
   worked for half a century. Sourced in `research/research-native-nations.md` and
   `research/research-america-world.md`. **A war chapter mentions it in one clause: the biggest
   military power in the northeast chose not to fight, and both empires had to plan around that.**
+
+### PATCH 2026-09-27 (T-259a): Deerfield, the commander's name and what was done to the captives
+- **The French commander (bank 4.2 and the outline say only "a French lieutenant"):** Jean-Baptiste
+  **Hertel de Rouville** (1668-1722), "the Canadian-born lieutenant in the troupes de la marine who
+  led the expedition against Deerfield", born at Trois-Rivieres, son of the officer Joseph-Francois
+  Hertel de la Fresniere. (PVMA, Raid on Deerfield site, "Hertel de Rouville,"
+  https://deerfieldraid1704.org/popups/people/Hertel.html , opened 2026-09-27. That site warns its
+  person narratives contain "invented, yet plausible, scenarios"; take only the name, dates and
+  rank from it, which match Wikipedia "Raid on Deerfield" in search summary.) The troupes de la
+  marine were the full-time soldiers France kept in its colonies.
+- **Deerfield's dead, a third count:** Wikipedia "Raid on Deerfield" gives 54 settlers killed
+  (unconfirmed: search summary only). With PVMA's 48 and the Library of Congress's 57, the range
+  is 48 to 57. Keep the outline's two named counts.
+- **Primary source for the killings, John Williams's own book:** *The Redeemed Captive Returning to
+  Zion* (first printed Boston, 1707), reprint text on the Internet Archive,
+  https://archive.org/stream/redeemedcaptive00willrich/redeemedcaptive00willrich_djvu.txt (opened
+  2026-09-27). What he wrote, in order:
+  - **In his house, before dawn:** the attackers who came in "were all of them Indians and Macquas"
+    (Macquas meaning Kanien'kehaka, Mohawk). Some of them took "two of my children, and murder[ed]
+    them, as also a negro woman", carrying them to the door to kill them. So two Williams children
+    and an enslaved Black woman of the household were killed at the house. Williams names none of
+    the three in this passage. (Their names are in PVMA's household records, not opened this pass:
+    OPEN for T-259b or the writer, see checkpoint.)
+  - **His wife, Eunice Mather Williams, on the march:** crossing "a small river", "she fell down, and
+    was plunged over head and ears in the water; after which she traveled not far; for at the foot
+    of this mountain, the cruel and blood thirsty savage, who took her, **slew her with his hatchet,
+    at one stroke**". So the man who had taken her captive killed her with one blow of a hatchet
+    after she fell in the icy river and could not keep up. Williams does not name him. (The words
+    "cruel and blood thirsty savage" are Williams's, and the prose must not adopt them. Quote them
+    only as his words, or give the act plainly.)
+  - **Others killed on the march:** "They killed this day two women, who were so faint they could not
+    travel." **Mary Brooks**, "a pious young woman", told Williams that her falls on the ice had
+    caused "a miscarriage this night, so that I am not able to travel far. I know they will kill me
+    to-day". A miscarriage means she lost the baby she was carrying. Williams: "Accordingly she was
+    killed that day." Her killer is not named.
+  - **Footnote in this reprint:** "The attacking party consisted, according to French accounts, of 50
+    Canadians and 200 Abenaki and Caughnawaga Indians." (Caughnawaga is the old spelling of
+    Kahnawake.) Matches PVMA's 47 and 200.
+- **What this adds for the war chapter:** the killers of the people on the march were the captors
+  who owned each captive, Abenaki and Kanien'kehaka men whose names Williams did not record. The
+  French commander Hertel de Rouville led the raid. The record gives no count of how many captives
+  died on the march in total. PVMA: "Many captives were unable to keep up and perished along the
+  way" (PVMA essay, 4.2, opened 2026-09-27). The Library of Congress figure that only about half of
+  the more than 100 captives came back (4.2) covers deaths, adoptions and people who stayed.
+- **Why the Native fighters joined, their own reason:** PVMA's essay: the Abenaki, Kanien'kehaka
+  and Wendat were "determined to keep their homelands safe from English expansion and maintain
+  their traditional sovereignty" (opened 2026-09-27).
+
+### PATCH 2026-09-27 (T-259a): the Yamasee War, named actors and the full count (CORRECTS the 4.5 NOT ADOPTED note)
+Source, read in full at the entry: South Carolina Encyclopedia, "Yamassee War,"
+https://www.scencyclopedia.org/sce/entries/yamassee-war/ (opened 2026-09-27 with curl).
+- **The debt, with a number:** traders "overextended credit to tribes such as the Yamassees, hoping
+  to force land concessions from them when they could not pay". The debt "eventually required at
+  least two years' labor from every adult male Yamassee." The Yamasee had also been "raiding
+  Florida tribes, such as the Apalachees, and trading those they kidnapped as slaves to Carolina
+  merchants." White settlers were moving onto Yamasee land.
+- **The named men killed first:** on 14 April 1715 **William Bray, Samuel Warner, and Thomas
+  Nairne** (the colony's Indian agent since the Board of Indian Commissioners was set up in 1707)
+  met Yamasee leaders at **Pocotaligo Town**, southwest of Charleston, to head off the violence. On
+  Good Friday, 15 April 1715, the Yamasee "immediately killed Bray and Warner. **Nairne died after
+  several days of ritual torture.**" The entry does not say what the torture was. The prose must
+  say it does not say, and must not guess a method.
+- **Traders killed across the South:** Creek, Choctaw, Apalachee, Saraw, Santee and Waccamaw men
+  "also executed their traders, ninety percent of whom were killed by June 1715."
+- **The count, two figures, both true:** "Initial Yamassee attacks along plantations near Port Royal
+  killed one hundred colonists." Over the whole war, "**Approximately four hundred settlers had
+  been killed**", and colonists were driven from half the farmed land in the colony. Property
+  damage came to 236,000 pounds sterling. **CORRECTION to 4.5:** its NOT ADOPTED note ("Do not write
+  400") is wrong. The South Carolina Encyclopedia gives about 100 for the first attacks and about
+  400 for the war. The outline's "About 100 settlers were killed that year" should become "about
+  100 in the first attacks and about 400 over the whole war (South Carolina Encyclopedia)." The
+  entry gives no count of Yamasee or other Native dead.
+- **Who defended the colony:** Governor **Charles Craven** called up every white man "and even armed
+  black slaves". About 300 planter families escaped by ship. The Yamasee were beaten at Port Royal
+  and at the Salkehatchie River and driven south of the Savannah River.
+- **How it ended:** in 1716 Carolina officials persuaded the Lower Cherokee to fight the Creek,
+  "launching a deadly war between these two groups that continued for the next forty years". The
+  worst was over by April 1716, and officials ended the war by 1718.
+- **Land:** the Yamasee lived along the Savannah River and the Port Royal area of what is now South
+  Carolina, on land the colony's traders were trying to get from them through debt (same entry).
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259a): what was done to Thomas Nairne, and how many Yamasee died?
+Sources checked: South Carolina Encyclopedia "Yamassee War" (read in full: "several days of ritual
+torture", no method, no Native death count). NCpedia "Yamassee War" and SCIWAY (bank 4.5: no method,
+no Native count). Further searching was cut off by a tool limit this session, so this entry is
+provisional. A later agent may try William Ramsey, *The Yamasee War* (2008), or Steven Oatis, *A
+Colonial Complex* (2004), for both questions.
+How the prose can say it: "Yamasee men held Nairne for several days and tortured him to death. The
+records used here do not say how. No one counted the Yamasee dead."
+
+### PATCH 2026-09-27 (T-259a): the names of the three killed in the Williams house
+- PVMA, Raid on Deerfield site, "John Williams," https://deerfieldraid1704.org/popups/people/JohnWilliams.html
+  (opened 2026-09-27 with curl), right after quoting Williams's "two of my children ... as also a
+  Negro woman": "The Williamses' **six-week-old daughter, Jerusha**; their **six-year-old son,
+  John**; and their slave **Parthena** were killed." Taken captive: Samuel (14), Esther (13),
+  Stephen (10), Eunice (7), Warham (4), John and Eunice Williams, and **Parthena's husband Frank**.
+  Town records say Williams bought Frank and Parthena and that he married them in 1703 (same page).
+  The site's notice about "invented, yet plausible, scenarios" applies to scenes. These names and
+  ages come from town and family records and match Williams's own count of two children and one
+  Black woman. Frank's later fate: a search summary says a Kanien'kehaka man killed him on the march
+  (unconfirmed: search summary only).
+- **Shared with `slavery-freedom`:** Frank and Parthena were enslaved by the Deerfield minister.
+  War's angle: they were among the raid's dead and captives.
 
 ---
 ---
@@ -809,6 +1165,129 @@ the treaties (Paris 1763, Paris 1783) and the French alliance.
   ABT's 7,000 figure in one clause.
 - Native nations choosing sides in the Revolution (Haudenosaunee split, Sullivan's 1779 campaign):
   `native-nations` leads. Not researched here; left out of the outline rather than stated unsourced.
+
+### PATCH 2026-09-27 (T-259a): who ran the New York prisons, and the Sugar House
+(The bank's 5.3 note says "the records used here do not name the ship commanders". The NPS page
+does name the officers responsible for the land prisons and the admiral Washington protested to.)
+NPS, "The Prison Ship Martyrs," https://www.nps.gov/articles/000/prison-ship-martyrs.htm (opened
+2026-09-27 with curl, read at the passages):
+- **Admiral Richard Howe**, commander of the British fleet at New York, was the officer Washington
+  wrote to. In January 1777 the Continental Congress's Executive Committee asked Washington to
+  press Howe about "the Ill usage our prisoners suffer onboard the Prison Ships in New York."
+  Washington to Howe: "Those who have lately been sent out, give the most shocking Accounts of their
+  barbarous Usage, which their miserable emaciated Countenances confirm." (Emaciated means so thin
+  from hunger that the bones show.) NPS: his letters said the prisoners' "lack of food, clothing,
+  medical care, and basic shelter" broke the accepted customs of war, and by 1781 he said captured
+  seamen were treated much worse than soldiers held on land.
+- **The land prisons:** "The two most infamous were the Sugar House and the Provost." The Sugar
+  House, a five-storey sugar warehouse on Liberty Street near Broadway, "housed more than 4,500
+  American prisoners", including men taken at Fort Washington on Manhattan: "Of the fort's 3,000
+  soldiers, 2,837 were made prisoners, including both black and white Americans." Major Henry
+  Bedinger, a prisoner: "crowded into sugar houses and jails without blankets or covering; had very
+  little given to them to eat, and that little of the very worst quality."
+- **The Provost prison** was "run with a similar brutality by British Captain **William
+  Cunningham**, who came to be known as 'Bloody Billy Cunningham.'" Prisoners were packed so tight
+  that at night they "could change position only by all turning over at once". Prisoner John Fell's
+  notes: "Not allowed to fetch good water", "People in jail very sickly and not allowed a doctor".
+- **Hospital ships:** a *Jersey* survivor quoted by NPS: "so soon as any of the prisoners complained
+  of being sick, they were sent on board of one of them, and I verily believe that not one out of a
+  hundred ever returned or recovered."
+- **A third death figure:** Wikipedia, "HMS Jersey (1736)" (tertiary, label it, opened 2026-09-27):
+  "Approximately 11,000 Americans died aboard prison ships during the course of the war". The
+  British abandoned and burned the *Jersey* when they left New York at the end of 1783. So: NPS
+  more than 11,500 (ships and New York prisons), Wikipedia about 11,000 (ships), ABT 8,000 to
+  12,000 (all prisoners of war). State whose count each is.
+- The officer in direct charge of the prison ships (the commissary of naval prisoners) is not named
+  on the NPS page. Not searched further (web search tool limit this session).
+
+### PATCH 2026-09-27 (T-259a): Fort Pitt, 1763, smallpox blankets, the named officers and their words
+Source: Wikipedia, "Siege of Fort Pitt," https://en.wikipedia.org/wiki/Siege_of_Fort_Pitt (tertiary,
+label it, opened 2026-09-27), which quotes the primary texts: William Trent's journal (published
+*Mississippi Valley Historical Review*, 1924) and the Amherst-Bouquet letters (*Papers of Col.
+Henry Bouquet*, ed. Stevens and Kent, ser. 21634, p. 161). A second opened source was not reachable
+this session (web search tool limit). **Belongs to this chapter** (a weapon and an order in a war):
+Pontiac's War, 1763. `native-nations` tells Pontiac's War from the nations' side.
+- **The siege:** Shawnee, western Delaware (Lenape), Mingo and Seneca fighters attacked Fort Pitt
+  (present-day Pittsburgh) on 22 June 1763. Commanders inside: Captain **Simeon Ecuyer**, with the
+  trader and militia captain **William Trent**. The Native side's leader named: **Guyasuta**.
+- **24 June 1763, the blankets:** two Delaware men, one named Turtleheart, came to the fort to warn
+  the garrison to leave. Trent's journal: "Out of our regard to them we gave them two Blankets and
+  an Handkerchief out of the Small Pox Hospital. I hope it will have the desired effect." A smallpox
+  hospital had been set up at the fort that spring for sick soldiers. So officers at the fort
+  deliberately handed Delaware messengers blankets and a handkerchief from the smallpox ward,
+  hoping to give them the disease.
+- **July 1763, the commander in chief's orders, in postscripts:** General **Jeffery Amherst**, British
+  commander in North America, to Colonel **Henry Bouquet**, 8 July: "Could it not be contrived to
+  Send the Small Pox among those Disaffected Tribes of Indians?" Bouquet, 13 July: "I will try to
+  inocculate the Indians by means of Blankets that may fall in their hands, taking care however not
+  to get the disease myself." Amherst, 16 July: "You will Do well to try to Innoculate the Indians by
+  means of Blanketts, as well as to try Every other method that can serve to Extirpate this
+  Execreble Race." (Extirpate means wipe out completely.) Amherst also told Bouquet to take no
+  Native prisoners and proposed hunting people down with dogs.
+- **Order of events matters:** Trent and Ecuyer's men gave the blankets on 24 June, two weeks
+  **before** Amherst first suggested it. The fort's officers acted on their own.
+- **Did it work? DISPUTE, state it:** smallpox did spread among the Ohio nations in 1763-64, but the
+  Wikipedia article reports that historians question whether the blankets caused it, because the
+  disease was already in the area that spring, and later research found smallpox spreads mainly
+  through breathing, not through cloth. Write: "They meant to spread the disease. Whether the
+  blankets actually did is not known."
+
+### PATCH 2026-09-27 (T-259a): Gnadenhutten, 8 March 1782, killing of Christian Lenape by Pennsylvania militia
+Source: Wikipedia, "Gnadenhutten massacre," https://en.wikipedia.org/wiki/Gnadenhutten_massacre
+(tertiary, label it, opened 2026-09-27; it cites Obadiah Holmes Jr.'s account and the Moravian
+missionary records). A second source did not open this session: Ohio History Central gave no
+response and the web search tool was at its limit. **Re-verify the counts against a second source
+before the prose stage.** No other chapter has it (grep of outlines/ and research/, 2026-09-27).
+- **Who and where:** about 160 Pennsylvania militiamen under **Lieutenant Colonel David Williamson**
+  marched on the Moravian mission towns in the Tuscarawas Valley (present-day Ohio). The people
+  there were Lenape (Delaware) and Mohican Christians of the Moravian church, who refused to fight
+  for either side. More than 150 of them had been allowed back to their old villages in February
+  1782 to harvest the corn they had left.
+- **What was done:** the militiamen promised to take them to Fort Pitt for protection, collected
+  their weapons, accused them of raiding, held a vote, and voted to kill them (a minority of 18
+  militiamen refused). The prisoners spent the night praying and singing hymns. On the morning of
+  8 March 1782 the militiamen took them into two buildings, one for the men and one for the women
+  and children, tied them, struck them on the head with a mallet, and scalped them. **28 men, 29
+  women and 39 children were killed, 96 people.** Two boys survived, one of them scalped. One
+  militiaman, **Nathan Rollins**, killed 19 of them himself, according to a fellow militiaman,
+  **Obadiah Holmes Jr.**, who opposed the killing. The militiamen burned the buildings with the
+  bodies inside, burned the other Moravian towns, and carried off plunder that needed 80 horses.
+- **Why, in the militia's terms:** they blamed the Moravian Lenape for raids on Pennsylvania
+  settlements. The victims denied it. (Wikipedia calls the charges false.)
+- **Punishment:** none is recorded in this source. (Search summary elsewhere: no one was ever
+  prosecuted. unconfirmed: search summary only.)
+- The missionary **John Heckewelder** later gathered the bones and buried them in a mound at the
+  village site, which is on the National Register of Historic Places.
+- **Clinical word for the prose:** scalping is already glossed in 5.1 (the skin and hair cut off
+  the top of the head). Here it was done to people who had been stunned, and it killed them.
+
+### PATCH 2026-09-27 (T-259a): the draft in the Revolution, and who did not have to go
+Sources: Wikipedia, "Conscription in the United States," https://en.wikipedia.org/wiki/Conscription_in_the_United_States ;
+Wikipedia, "Conscientious objection in the United States,"
+https://en.wikipedia.org/wiki/Conscientious_objection_in_the_United_States (both tertiary, label
+them, opened 2026-09-27; several lines carry "citation needed" and must be re-verified).
+- Colonial militia laws, and then state laws, "required able-bodied non-enslaved males to enroll in
+  the militia" and to serve for short periods. Enslaved men were left out of the militia by law.
+  Colonies drafted militiamen for particular campaigns.
+- **1778:** the Continental Congress recommended that the states draft men from their militias for
+  one year in the Continental Army. It was applied unevenly and did not fill the ranks. The central
+  government itself had no power to draft. The states drafted, and a drafted man could hire a paid
+  substitute.
+- **Exemptions varied by state.** Pennsylvania made conscientious objectors (people whose religion
+  forbade fighting, chiefly Quakers) who would not join the volunteer companies called Associations
+  pay a fine roughly equal to the time they would have spent drilling. Quakers who refused to pay
+  had their property taken.
+- For the 1636 Massachusetts militia order, exemptions are not in the bank. Not searched (tool
+  limit). A later agent can check the National Guard or Army history pages.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-259a): which British officer commanded the prison ship *Jersey* or the prison-ship fleet?
+Sources checked: NPS "The Prison Ship Martyrs" (names Admiral Howe as the commander Washington
+protested to, and Captain William Cunningham for the Provost, names no ship commander). Wikipedia
+"HMS Jersey (1736)" (no commissary named in the passages read). Search was cut off by a tool limit,
+so this entry is provisional. David Sproat, often named as commissary of naval prisoners, was not
+confirmed on any opened page.
+How the prose can say it: "British naval officers under Admiral Richard Howe ran the ships.
+Washington wrote to Howe in January 1777 to protest. Prisoners kept dying on the ships until the war ended in 1783."
 
 ## 6. 1800 TO 1850
 
