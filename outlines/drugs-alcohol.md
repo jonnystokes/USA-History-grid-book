@@ -3,7 +3,7 @@
 # Chapter 28: Drugs and Alcohol
 
 <!-- hb-note -->
-**Status:** SEED — awaiting deep research · *(agent changes to: RESEARCHED <date>)*
+**Status:** PARTIAL: eras 01 to 05 researched 2026-09-27 (T-266a, T-266r). Eras 06 to 10 still seed (T-266b).
 **Angle:** Intoxicants over time — alcohol and Prohibition, tobacco, other drugs, their use and control.
 **Keep out:** the law itself (`government-politics`); organized crime (`crime-justice`)
 **Workspace:** `workspace/drugs-alcohol.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -112,28 +112,111 @@ English and Dutch colonists in the 1600s drank beer, cider and wine every day, a
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
-<!-- hb-time:start id="1700-1750" order="04" chapter="drugs-alcohol" label="1700 to 1750" state="full" progress="seed" -->
+<!-- hb-time:start id="1700-1750" order="04" chapter="drugs-alcohol" label="1700 to 1750" state="full" progress="researched" -->
 ## 1700 to 1750
 <!-- hb-zoom level="era" -->
-The tavern is the town's meeting hall, courtroom, post office, and newsroom.
+Between 1700 and 1750 rum was the colonists' favorite strong drink, and it was cheap. In Philadelphia in 1740 a gallon of rum made in the colonies cost 1 shilling 8 pence. People drank in taverns, and they also met, heard the news and did public business there. Colony leaders controlled drinking with tavern licenses and election rules. Georgia's leaders banned strong liquor for seven years, from 1735 to 1742. Traders kept selling rum to Native nations, and a Yamacraw leader asked Georgia's founders to stop it. Nobody counted how much colonists drank in these years. The first estimates come from the 1770s.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Rum, taverns, and politics" -->
-Rum consumption per person at levels far above today's [VERIFY the figures — commonly cited and worth checking]; taverns as political spaces; drink as part of elections and militia musters.
+<!-- hb-zoom level="span" label="Rum, molasses and tobacco" -->
+- Colonial distillers made rum from molasses shipped in from the sugar plantations of the Caribbean. Enslaved Africans did the work on those plantations. Some molasses came in legally and some was smuggled (Ed Crews, *Colonial Williamsburg Journal*, 2007).
+- 1740, Philadelphia: a gallon of colonial rum cost 1 shilling 8 pence, and a gallon of better Caribbean rum cost 2 shillings 5 pence.
+- 1733: members of the British Parliament passed the Molasses Act, a tax of sixpence a gallon on molasses from the French islands. Large sugar planters in the British islands had pushed for it. Colonial merchants smuggled French molasses anyway. The tax should have brought in 25,000 pounds a year, and British officials collected 259 pounds in 1735 (Mount Vernon, "Rum").
+- Slave traders used rum to buy people. Distillers made extra-strong rum for it, so ships could carry more. Captains added water when they reached Africa and traded the rum for captive people (Crews).
+- Virginia's planters grew 29 million pounds of tobacco in 1709, the colony's largest crop ever. By 1700 enslaved Africans outnumbered white servants on the tobacco farms (Encyclopedia Virginia).
+- Shared with: `economy` (the Molasses Act and the trade) · `slavery-freedom` (the people bought with rum) · `food-farming` (tobacco as a crop). This chapter's slice is the rum and the smoking.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The tavern as the town's meeting place" -->
+- In Boston, Francis Holmes kept the Bunch of Grapes from 1712. One traveller called it the best punch house in the town. On 30 July 1733 Henry Price, a Boston tailor, organized a grand lodge of Freemasons there (Samuel Adams Drake, *Old Boston Taverns*, 1886).
+- Luke Vardy kept the Royal Exchange tavern. After the town-house burned in the winter of 1747, the members of the colony's legislature finished their meetings at Vardy's.
+- In July 1728 two young men quarrelled at Vardy's over cards or wine. They fought with swords on the Common, and one of them killed the other, a man named Woodbridge. Friends put the killer on a ship that sailed at once. Drake does not give the killer's name.
+- In 1745, during a war with France, posted notices told sailors to sign on for a raiding ship at the Widow Gray's Crown Tavern. Women kept several Boston taverns, often after a husband died.
+- Shared with: `government-politics` (the legislature). This chapter's slice is the drinking place.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Drinks for voters" -->
+- In Virginia, only white men who owned land could vote, and each one said his choice out loud in front of the crowd. Voters expected the men running for office to give them liquor and food (Encyclopedia Virginia, "Elections in Colonial Virginia").
+- A Virginia law of 1705 limited this. Candidates could give drinks before the sheriff read out the notice of an election and after the voting. The weeks between were meant to be "dry." Some candidates got around the rule by having a friend, a servant or a wife hand out the drinks.
+- Shared with: `government-politics` (who could vote). This chapter's slice is the liquor.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Georgia bans rum, 1735 to 1742" -->
+- In February 1733 James Oglethorpe's colonists settled on Yamacraw Bluff, now Savannah. Tomochichi, the leader of a Yamacraw town of about 200 Creek and Yamasee people, gave them the land.
+- Tomochichi saw more of his people drinking. In 1734 he asked Oglethorpe and the Trustees, the board of men in London who ran Georgia, to ban the sale of rum (Georgia Encyclopedia).
+- The Trustees banned rum and brandy in 1735, and King George II and his council approved the law. The law stated that these liquors were "hurtful and pernicious to Man's Body." The Trustees named an officer to enforce it and set fines that grew with each offense. Taverns could sell beer and wine with a license.
+- Colonists protested. Merchants said they needed rum to trade for timber and other goods with the British islands in the Caribbean. On 29 September 1742 the Trustees ended the ban. Oglethorpe disagreed with that decision.
+- South Carolina traders kept carrying rum up the Savannah River into Native towns while the ban lasted (Wikipedia, "Trustee Georgia").
+- Shared with: `native-nations` (Tomochichi and the Creek) · `government-politics` (the Trustees' rule). This chapter's slice is the ban and why it failed.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="alexander-hamilton-physician-drugs-alcohol" name="Dr. Alexander Hamilton" movie="" kind="ordinary" status="verified" -->
+### Dr. Alexander Hamilton
+> **Who:** a Scottish-born doctor from Annapolis, Maryland, who kept a diary of the taverns and drinking clubs he saw on a long ride north (not the Alexander Hamilton of the Treasury). · **When and where:** Maryland to York, Maine, and back, 30 May to 27 September 1744.
+- Born near Edinburgh in 1712, he came to Maryland in 1738 and worked as a doctor in Annapolis. He was sick in 1743 and rode 1,624 miles to get well (Albert Bushnell Hart, editor of his diary, 1907).
+- 31 May 1744, at Tradaway's inn in Maryland: he found "a drunken Club" leaving, the men sitting crooked on their horses.
+- 5 June 1744, at an inn near Philadelphia: the landlady did all the work because the landlord was drunk. Hamilton wrote that the liquor had taken away "the use of his tongue," and the man sat without moving in a corner, smoking his pipe.
+- 15 June 1744, in New York, he ate with the Hungarian Club at Todd's tavern. The men drank "bumpers," glasses filled to the brim and drunk off at once, at each round. Hamilton drank only three and went home at ten "pretty well flushed." He wrote that some members were "very fond of making a stranger drunk."
+- In Boston he drank punch and smoked tobacco with a club of doctors at the Sun Tavern. In 1745 he started his own club in Annapolis, the Tuesday Club. He died on 11 May 1756.
+<!-- hb-story:end slug="alexander-hamilton-physician-drugs-alcohol" -->
 <!-- hb-time:end id="1700-1750" -->
 
-<!-- hb-time:start id="1750-1800" order="05" chapter="drugs-alcohol" label="1750 to 1800" state="full" progress="seed" -->
+<!-- hb-time:start id="1750-1800" order="05" chapter="drugs-alcohol" label="1750 to 1800" state="full" progress="researched" -->
 ## 1750 to 1800
 <!-- hb-zoom level="era" -->
-Whiskey becomes the drink of the backcountry, a form of money — and the cause of the first test of federal taxing power.
+By 1770 colonial distillers made about 4.8 million gallons of rum a year, and ship captains carried rum to Africa to buy captive people. After the Revolution, Americans switched from rum to whiskey made from their own corn and rye. In 1791 members of Congress voted a tax on whiskey. In 1794 armed men in western Pennsylvania burned a tax inspector's house, and President George Washington sent nearly 13,000 militiamen against them. In 1785 the Philadelphia doctor Benjamin Rush argued that heavy drinking was a disease. Native leaders asked colonists to stop the liquor trade, and in 1799 the Seneca prophet Handsome Lake stopped drinking and preached against it.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Whiskey as money, and the Rebellion" -->
-Corn distilled into whiskey because a jug travels and a wagon of corn does not; the whiskey excise and the Whiskey Rebellion, 1794.
+<!-- hb-zoom level="span" label="How much people drank" -->
+- Nobody measured drinking before the 1770s. One historian estimates that a grown man in the 1770s drank up to three pints of rum a week (Ed Crews, *Colonial Williamsburg Journal*, 2007). Another estimate gives 3.7 gallons of rum a year for each colonist by the time of the Revolution (Mount Vernon, "Rum").
+- In 1790, by government figures, the average American over 15 drank 34 gallons of beer and cider, 5 gallons of liquor and 1 gallon of wine in a year (Crews).
+- In 2023 Americans aged 14 and older drank an average of 2.48 gallons of pure alcohol each, from all drinks together. That is about 529 drinks a year (National Institute on Alcohol Abuse and Alcoholism, Surveillance Report #122).
+- People believed alcohol was good for the body. They took whiskey for stomach pain and hot brandy punch for cholera. Women in labor were given a drink of liquor for the pain (Crews).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-whiskey-rebellion-farmer" name="(target) a Whiskey Rebellion farmer" movie="" kind="ordinary" status="target" -->
-### (target) a Whiskey Rebellion farmer
-Distilled his corn and refused the tax on it (participants are documented in court records).
-<!-- hb-story:end slug="target-whiskey-rebellion-farmer" -->
+<!-- hb-zoom level="span" label="Rum and the slave trade" -->
+- By 1764 Rhode Island had about 30 rum distilleries, 22 of them in Newport. Rhode Island merchants traded the rum on the coast of West Africa for captive people. Rhode Islanders made at least 1,000 slaving voyages and carried more than 100,000 Africans into slavery in the century before 1807 (Brown University, *Slavery and Justice*, 2006).
+- In 1764 the Brown brothers of Providence sent the ship *Sally* to Africa with 17,274 gallons of rum to trade. Captain Esek Hopkins bought 196 people, and at least 109 of them died.
+- In 1764 members of the British Parliament cut the tax on foreign molasses to threepence a gallon in the Sugar Act. Under the act, the navy kept half of any smuggled goods its ships seized (Mount Vernon, "Rum").
+- During the Revolution, British warships made molasses hard to get. Scotch-Irish farmers in Pennsylvania, Maryland, western Virginia and western North Carolina made whiskey from rye and corn instead. Before 1800 Kentucky distillers were shipping barrels of whiskey down the rivers to New Orleans (Crews).
+- Shared with: `economy` (the *Sally* and the trade, lead) · `slavery-freedom` (the captives). This chapter's slice is the rum.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="George Washington's rum and whiskey" -->
+- In 1758 George Washington ran for the Virginia House of Burgesses in Frederick County. He gave voters 28 gallons of rum, 50 gallons of rum punch and 82 gallons of wine, beer and cider, and he won (Mount Vernon, "Rum").
+- In June 1779, as commander of the Continental Army, he asked the army's supply officer for "a pretty good stock of rum" for soldiers on work duty. Like many people then, he believed liquor kept tired men awake.
+- At Mount Vernon he gave the people he enslaved a ration of liquor for a day's work. He accused his overseer, James Butler, of handing out 36 pints of rum. Butler said he had given "no more than a pint of rum & a pound of Meat to each man."
+- In 1797 his farm manager, James Anderson, talked him into building a whiskey distillery. It made 600 gallons that year and almost 11,000 gallons in 1799, one of the largest outputs in the country. John Anderson ran it with an assistant and six enslaved men: Hanson, Peter, Nat, Daniel, James and Timothy (Mount Vernon, "Ten Facts About the Distillery"). Washington died in December 1799.
+- Shared with: `slavery-freedom` (the enslaved workers) · `government-politics` (elections). This chapter's slice is the drink.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Native leaders against the liquor trade" -->
+- In 1754 Hagler, a leader of the Catawba in the Carolina piedmont, told North Carolina officials, "You Rot Your grain in Tubs, out of which you take and make Strong Spirits." He and other Native leaders asked the colonists to stop the liquor trade, which brought violence to their towns (historian Peter C. Mancall).
+- In 1764 Sir William Johnson, the British official in charge of Indian affairs in the northern colonies, wrote to his superiors that "the Trade will never be so extensive" without rum. He wanted the rum trade to go on.
+- After the Revolution, traders carried liquor farther west. They added water to it so they had more to sell.
+- In 1779 U.S. troops burned Haudenosaunee (Iroquois) villages in New York, and after the war the Haudenosaunee lost most of their land in New York and Pennsylvania. Many drank heavily, including the Seneca leader Handsome Lake. In 1799, sick from years of drinking, he had visions and stopped drinking. He then preached against drunkenness. His teaching became the Longhouse Religion, which Haudenosaunee people still practice (Wikipedia, "Handsome Lake").
+- Shared with: `native-nations` (the land and the war) · `religion` (the Longhouse Religion). This chapter's slice is the fight against liquor.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="benjamin-rush-drugs-alcohol" name="Benjamin Rush" movie="" kind="famous" status="verified" -->
+### Benjamin Rush
+> **Who:** a Philadelphia doctor who signed the Declaration of Independence and wrote that heavy drinking was a disease. · **When and where:** Philadelphia, 1785 to 1790.
+- Before Rush, most Americans thought a drunk person simply lacked the will to stop (Crews).
+- In 1785 he published *An Inquiry into the Effects of Ardent Spirits Upon the Human Body and Mind*. Ardent spirits meant strong liquor such as rum, gin and whiskey. Some sources date the first printing to 1784.
+- He wrote that drinking starts as a free choice and becomes a need: "From habit it takes place from necessity." He said the only cure was to stop drinking completely. His advice was "Taste not, handle not."
+- A 1790 edition added a chart he called "A Moral and Physical Thermometer." Water and milk were at the top. Punch led down to "idleness, sickness and debt." Gin, brandy and rum drunk every day led to "murder, madness" and the gallows (Smithsonian, 2015).
+- Few people changed their habits at the time. The historian Mark Lender says that today's idea of addiction "can generally be traced back to Benjamin Rush."
+<!-- hb-story:end slug="benjamin-rush-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Whiskey as money, and the Whiskey Rebellion" -->
+- The farmers of western Pennsylvania worked land that the Shawnee, Delaware and Mingo had used until Six Nations leaders signed it over to Britain in 1768. They turned their grain into whiskey because roads over the mountains were bad and grain spoiled. Whiskey kept and was easier to carry (Mount Vernon, "Whiskey Rebellion"). Coins were scarce on the frontier, so people used whiskey as money and paid workers in it.
+- In 1791 Treasury Secretary Alexander Hamilton asked for a tax on whiskey made in the United States to pay the war debt, and members of Congress voted it through. A big distiller could pay a yearly fee per still that came to as little as 6 cents a gallon. A farmer with a small still paid about 9 cents (Wikipedia, "Whiskey Rebellion"). The law set the rate at 7 cents a gallon for American spirits (economy research).
+- On 6 September 1791 a gang in disguise tarred and feathered Robert Johnson, a new tax collector, in Washington County, Pennsylvania. Tarring and feathering meant covering a person's skin with tar and then sticking feathers to it. The accounts do not describe Johnson's injuries. Another gang whipped, tarred and feathered the man sent to serve court papers on Johnson's attackers.
+- On 16 July 1794 about 30 militiamen surrounded Bower Hill, the house of the tax inspector John Neville. Neville shot and killed one of them, Oliver Miller. Enslaved people on Neville's land helped him hold the house.
+- On 17 July between 400 and 600 men came back under Major James McFarlane. After an hour of shooting McFarlane called a stop. A shot from the house killed him, and the records do not say who fired it. The men burned the house and the slave quarters.
+- Washington called up 12,950 militiamen from four states. He rode with them as far as Bedford, Pennsylvania, then went back to Philadelphia and left Henry Lee, the governor of Virginia, in command. The rebels scattered without a battle.
+- On the night of 13 November 1794 soldiers under Lee broke into houses and pulled suspects and witnesses from their beds. They drove the prisoners barefoot in their nightclothes over muddy roads and streams and held them in animal pens and cellars with no floors. At least one prisoner died. People there called it "the Dreadful Night." About 150 men were arrested.
+- On Christmas Day 1794 the soldiers marched 20 prisoners down Broad Street in Philadelphia while crowds jeered. Ten were tried for treason and two were convicted. Members of Congress repealed the whiskey tax in 1802.
+- Shared with: `government-politics` (federal power and the trials) · `economy` (the war debt). This chapter's slice is whiskey as money and the tax on it.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="philip-vigol-drugs-alcohol" name="Philip Vigol" movie="" kind="ordinary" status="verified" -->
+### Philip Vigol
+> **Who:** a western Pennsylvania man, one of the first two Americans convicted of treason against the United States, for attacking whiskey-tax officers. · **When and where:** Westmoreland and Fayette counties, Pennsylvania, 1794, and Philadelphia, 1795.
+- His name is also spelled Wigle, Weigel and Wigal. The court report spells it Vigol.
+- He rode with an armed party, with guns and drums, to the house of Reigan, a tax officer in Westmoreland County. They made Reigan give up his papers and swear never to collect the tax again (*United States v. Vigol*, 1795).
+- The same party went to the house of Wells, the tax officer in Fayette County, swearing to destroy Wells and his house. Wells had hidden. They searched the house and burned it with everything in it, including the tax records. Then they found Wells, locked him up and made him swear to quit.
+- In 1795 a federal jury in Philadelphia found him guilty of treason, and he was sentenced to hang. Justice William Paterson told the jury that fear excused a crime only when a person's life was in real danger at that moment.
+- President Washington pardoned him and John Mitchell, the other man convicted, in November 1795. One source gives the date as 2 November, another as 14 November. In his yearly message to Congress Washington wrote, "The misled have abandoned their errors."
+<!-- hb-story:end slug="philip-vigol-drugs-alcohol" -->
 <!-- hb-time:end id="1750-1800" -->
 
 <!-- hb-time:start id="1800-1850" order="06" chapter="drugs-alcohol" label="1800 to 1850" state="full" progress="seed" -->

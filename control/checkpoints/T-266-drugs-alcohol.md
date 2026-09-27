@@ -1,13 +1,13 @@
 # CHECKPOINT T-266 | drugs-alcohol | full | T-266a: eras 1-5
 
-STATUS: PARTIAL (killed by usage limit; continuation queued)
+STATUS: T-266r landed (director verified: FAIL  drugs-alcohol / research)
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/drugs-alcohol.md · research/research-drugs-alcohol.md · workspace/drugs-alcohol.md
 
-NOW:    T-266a Unit 1, era 04 1700-1750 (research in progress)
-NEXT:   T-266a: Unit 1.
+NOW:    (idle) T-266r finished eras 01-05 and the bank check for them.
+NEXT:   T-266b: research eras 06-10 (outline + bank, one era at a time), clear their [VERIFY] and targets, then the bank check for 06-10, then the final check. Do not redo eras 01-05. Read '## BANK CHECK, eras 01 to 05' at the end of the bank first. Useful carry-overs: Mancall (Trade and Intercourse Act 1802, Handsome Lake/Tenskwatawa/Beate temperance, 20th-c. figures), Crews (Kentucky whiskey, early 1800s), Rush's Inquiry (Rutgers PDF is a scan, no text layer), NIAAA #122 for era 10 per-capita (2.48 gal, 2023), Wikipedia Whiskey Rebellion (Kentucky: 175+ distillers convicted in six years after 1794, and repeal 1802 = era 06).
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -27,9 +27,9 @@ FAIL  drugs-alcohol / research
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | todo | |
-| 2 | bank check, eras 1-5 | todo | |
-| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | todo | |
+| 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | 01-03 T-266a; 04-05 T-266r (era 04 had nothing on disk when T-266a died) |
+| 2 | bank check, eras 1-5 | done | T-266r: '## BANK CHECK, eras 01 to 05' in bank, 3 PATCH + 2 SEARCHED NOT FOUND |
+| 3 | final for your eras: validator, research check (the chapter passes only after its second half) | done for 01-05 | validator 0 errors; research check FAILS until eras 06-10 (expected) |
 
 ## SUBJECT NOTES (from the director)
 
@@ -46,6 +46,12 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `religion`, 1750-1800: Handsome Lake (Seneca), visions of 1799, stopped drinking, preached against drunkenness, Code of Handsome Lake / Longhouse Religion still practiced (Wikipedia "Handsome Lake"). Bank era 05, "Native nations and the liquor trade, 1750 to 1800".
+- `native-nations`, 1700-1750: Tomochichi (Yamacraw) asked Oglethorpe and the Trustees in 1734 to forbid the sale of rum (Georgia Encyclopedia exhibition "Wrestling Temptation"). Bank era 04, "Georgia bans rum, 1735 to 1742". Also 1750-1800: Hagler (Catawba) 1754 quote. Bank era 05.
+- `government-politics` and `crime-justice`, 1750-1800: United States v. Vigol, 2 Dall. 346 (1795), facts of the case, Justice Paterson's charge on duress; the "Dreadful Night" raids of 13 Nov 1794 under Henry Lee (captives barefoot in nightclothes, held in floorless animal pens, at least one died); 20 prisoners paraded in Philadelphia 25 Dec 1794; pardons Nov 1795 (2 Nov or 14 Nov). Bank era 05, Whiskey Rebellion and Vigol sections, plus BANK CHECK PATCH on Lee.
+- `slavery-freedom`, 1750-1800: six enslaved distillers at Mount Vernon (Hanson, Peter, Nat, Daniel, James, Timothy), 1797-99; Washington's liquor ration to enslaved workers and the overseer James Butler; enslaved people helping defend Neville's Bower Hill and the burning of its slave quarters 17 July 1794. Bank era 05.
+- `government-politics`, 1700-1750: Virginia's 1705 election law and the "dry" weeks; Boston's General Court meeting at Vardy's tavern after the 1747 town-house fire. Bank era 04.
 
 ## SALVAGE 2026-09-27 (T-266a killed by the usage limit, 12:50 reset)
 
@@ -287,13 +293,24 @@ Pages the killed agent fetched (219; re-read the useful ones rather than searchi
 - Europe PMC REST: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=...&resultType=core&format=json gives abstracts when PubMed/PNAS block.
 - Abbott 1996 PDF: https://coloradosph.cuanschutz.edu/docs/librariesprovider205/journal_files/vol7/7_2_1996_1_abbott.pdf (alcohol before contact, firewater origins).
 
+- Mount Vernon Digital Encyclopedia pages 403 to WebFetch/curl: use Wayback. 'Rum' http://web.archive.org/web/20260701181455/https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/rum ; 'Whiskey Rebellion' http://web.archive.org/web/20260905224218/... ; 'House of Burgesses' http://web.archive.org/web/20260910031734/... ; 'Ten Facts About the Distillery' http://web.archive.org/web/20260708182809/https://www.mountvernon.org/the-estate-gardens/distillery/ten-facts-about-the-distillery
+- Wikipedia: fetch raw wikitext with curl -A "HistoryBookResearch/1.0" "https://en.wikipedia.org/w/index.php?title=<Page>&action=raw" (the HTML page came back empty once).
+- U.S. Reports PDFs from LOC work with curl: https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002346/usrep002346.pdf (Justia 403s).
+- Hamilton's Itinerarium (1907 LOC text) PDF: http://nc-chap.org/resources/archives/1744_alexander_hamilton.pdf (pypdf extracts text).
+- NIAAA Surveillance Report #122 (2023 data, newest per-capita): https://www.niaaa.nih.gov/publications/surveillance-reports/surveillance122
+- Encyclopedia of Greater Philadelphia 'Whiskey Rebellion Trials' (WebFetch works, curl timed out).
+
 ## Gaps researched
+- Era 04 per-person drinking: SEARCHED NOT FOUND. Era 05: who shot McFarlane (SNF). Bank check: named rum traders (SNF), Native deaths count (SNF), Dreadful Night commander (PATCH: Henry Lee), western Pennsylvania land (PATCH).
 
 ## OPEN (should be rare)
 
 ## Outline claims left out
+- Georgia's 1735 act as 'the first prohibition in America' (historical marker only). Bunch of Grapes 'first grand lodge of Masons' (Drake only). 391 voters in Washington's 1758 election (no source opened). Enslaved distillers' ages (search summary only). Wells's first name Benjamin (search summary only). Vigol as a farmer or German-born (not confirmed).
 
 ## Decisions and defects fixed
+- T-266r: seed era 05 target farmer 'distilled his corn and refused the tax' -> Philip Vigol, told as the court report states (attacked two excise officers, burned Wells's house). Seed era 05 'first test of federal taxing power' dropped as unsourced framing. Washington 'rode west with' the militia corrected: only to Bedford/Fort Cumberland, then Henry Lee commanded.
+- T-266r: era 03 (T-266a) puts Virginia's 1709 tobacco figure in the 1600s; left unchanged (finished era), flagged in the bank check for the writer.
 - Seed 1600s 'everyone drinks, including children, because the water is not trusted': softened to what Crews supports (belief alcohol was healthy, European habit, some bad water, Percy). Children-drinking claim dropped (no opened source).
 - Seed target tavern keeper -> Samuel Cole (Drake). Added Robert Coles (red D, 1634) as a second ordinary story.
 - Seed 1500s claim 'alcohol used deliberately in trade with Native nations' is wrong for the 1500s: Mancall dates the real trade from ~1650. Removed from era 02, SEARCHED NOT FOUND recorded, moved to era 03.
@@ -302,3 +319,5 @@ Pages the killed agent fetched (219; re-read the useful ones rather than searchi
 - 2026-09-27 era 01 DONE: outline era 01 rewritten (3 spans, state thin, progress researched, no story: thin era with no named person). Bank section '## 01 · Before 1500' appended under '# THE BANK: T-266a'. Sources: Duke 2022 Nature Hum Behav (Wishbone tobacco), Brownstein 2020 (WA pipe), keepitsacred.itcmi.org (traditional tobacco), Crown 2012/2009/2015 PNAS (Black Drink, cacao), El-Seedi 2005 (Shumla peyote), Robinson 2020 PNAS (datura), Abbott 1996 AIANMHR PDF (alcohol before contact: Southwest only). Abstracts opened through the Europe PMC REST API (PubMed shows a captcha). [VERIFY] 'fermented drinks in the Southwest' cleared.
 - 2026-09-27 era 02 DONE: outline era 02 rewritten (2 spans + story thomas-hariot-drugs-alcohol, verified: Encyclopedia Virginia + DocSouth text of the Briefe and True Report + NPS Wingina). Bank '## 02 · The 1500s' appended with 1 SEARCHED NOT FOUND (Spanish alcohol gifts). 'First recorded smoking death' claim for Hariot rejected (popular sources only).
 - 2026-09-27 era 03 DONE: outline era 03 rewritten (4 spans + stories samuel-cole-drugs-alcohol, robert-coles-drugs-alcohol, both verified), target-tavern-keeper removed. Bank '## 03 · The 1600s' appended. Hudson/Juet 1609 drinking episode used (exploration tells the killings only).
+- 2026-09-27 era 04 DONE (T-266r): measured first: T-266a had written NOTHING for era 04 (outline still seed, no bank section). Outline era 04 rewritten (4 spans + story alexander-hamilton-physician-drugs-alcohol, verified from the 1907 LOC text of his Itinerarium). Bank '## 04 · 1700 to 1750' appended, 1 SEARCHED NOT FOUND (per-person drinking 1700-1750). Seed [VERIFY] on per-person rum figures resolved: no figure before the 1770s. Sources: Crews (Wayback), Mount Vernon 'Rum' and 'House of Burgesses' (Wayback), Wikipedia Molasses Act / Trustee Georgia / Tomochichi / Alexander Hamilton (Maryland doctor), Georgia Encyclopedia exhibition + 'Prohibition in Georgia', HMdb 133125, Encyclopedia Virginia 'Elections in Colonial Virginia', Drake (Gutenberg 42999). Validator 0 errors.
+- 2026-09-27 era 05 DONE (T-266r): outline era 05 rewritten (5 spans + stories benjamin-rush-drugs-alcohol and philip-vigol-drugs-alcohol, both verified). target-whiskey-rebellion-farmer removed: resolved as Philip Vigol from the court report United States v. Vigol, 2 Dall. 346 (LOC U.S. Reports PDF). The seed said the farmer 'distilled his corn and refused the tax': not supported for Vigol (court report says he attacked two excise officers), outline says what the report says. Bank '## 05 · 1750 to 1800' appended with 1 SEARCHED NOT FOUND (who shot McFarlane). Sources: Crews, Mount Vernon Rum / Whiskey Rebellion / Ten Facts About the Distillery (Wayback), Mancall, NIAAA Surveillance Report #122, Wikipedia Whiskey Rebellion (wikitext) and Handsome Lake, Encyclopedia of Greater Philadelphia 'Whiskey Rebellion Trials', Smithsonian 2015 (Rush thermometer), economy bank (Brown report). hb-note Status line set to PARTIAL. Validator 0 errors.

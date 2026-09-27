@@ -2865,9 +2865,11 @@ RESULT: LANDED. FAIL  crime-justice / research. measured: stage=PARTIAL eras=10/
         323848 tokens, 110 tool uses, 14.0 min (opus). Eras 1-5 researched and bank-checked (era 3 finished). Stories: Philip Ratcliffe 1631, Rebecca Nurse, Quack and Cuffee 1741, Patrick Lyon 1798. Punishments defined with method (policy 3b), slave patrols, Virginia 1723 act, convict transport, debt jail, Boston Massacre trials, Conestoga 1763 (20 named, no prosecution), Walnut Street 1790. Chapter FAIL is expected: remaining gaps are eras 6-10 (T-265b). TO PARK 3 (burst).
 
 ### 2026-09-27 | [LOCAL] T-266r | drugs-alcohol: continue full research eras 1-5 [BURST of 5] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+RESULT: LANDED. FAIL  drugs-alcohol / research. measured: stage=PARTIAL eras=10/10 stories=13 (v6 c1 t6) verify_tags=9 bank=11488w outline=5649w manuscript=0w validator_errors=0
+        293054 tokens, 100 tool uses, 24.0 min (opus). Era 4 from scratch, era 5, bank check (1-3 had landed). Molasses Act, Boston taverns, Virginia 1705 treating law, Georgia rum ban and Tomochichi, Hamilton's 1744 tavern diary; drinking estimates 1770s/1790 vs NIAAA 2023, Rhode Island rum and the Sally, enslaved distillers, Hagler, Handsome Lake, Whiskey Rebellion. Stories: Hamilton, Rush, Philip Vigol. 4 searched-not-found. Background process stopped by director. Chapter FAIL expected until eras 6-10. TO PARK 5.
 
 ### 2026-09-27 | [LOCAL] T-259b | war: bank check eras 6-10 [BURST of 5] | model opus
 STATUS: DONE
