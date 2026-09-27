@@ -56,7 +56,8 @@ is wrong, add a correction note beside it.
 
     ### SEARCHED, NOT FOUND <date> (<TASK>): <the exact question>
     Sources checked: <each source, and what it does say>.
-    How the prose can say it: <for example, "The records do not name the men who fired.">
+    How the prose can say it: <in a history book's voice, for example "No surviving record
+    names the men who fired." Never a sentence about the book, research or searching.>
 
 Writers treat these as settled. Give a question a few good searches (roughly four or five,
 across the source types AGENT-BRIEF §3 prefers). Stop there when nothing turns up. Aim at the

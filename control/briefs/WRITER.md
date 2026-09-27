@@ -77,11 +77,18 @@ without adding fiction. Look them up yourself rather than leaving them for later
        ### SEARCHED, NOT FOUND <date> (<TASK>): <the exact question>
        Sources checked: <each, and what it does say>.
 
-   Then write the passage from what IS known and say plainly what the records do not say
-   ("The records do not name the men who fired."). That is the honest, less specific version.
-   It is not softening. **Softening** is hiding or blurring what is known. That means a passive
-   with no actor and no admission that the actor is unknown, a vaguer word for the harm, or a
-   smaller number. It is forbidden. Being less specific about what nobody recorded is allowed.
+   Then write the passage anyway, as well as the known facts allow, and invent nothing. Where
+   a detail is unknown, write the way a history book does, from the side of the historical
+   record: "No surviving record names the men who fired." "Historians do not know how many
+   died. Estimates run from 40 to 90." "Who gave the order is not known." That is the honest,
+   less specific version, and it is not softening. **Softening** is blurring what IS known: a
+   vaguer word for the harm, a smaller number, or a passive that hides a known actor. It is
+   still forbidden.
+   **Never break the fourth wall** (Jon, 2026-09-26). The book never mentions itself, this
+   project, research, searching, sources checked, agents, writers or drafts. Never write "in
+   researching this", "while writing this chapter", "we could not find", "this book" or "our
+   sources". The reader sees history, not the making of the book. The search itself belongs
+   only in the bank and the checkpoint.
 4. **Keep it proportionate.** You are a writer who checks facts, not a research agent. If a
    question would take more than a few searches, record it as not found and move on.
 

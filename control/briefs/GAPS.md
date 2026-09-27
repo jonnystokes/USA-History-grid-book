@@ -29,7 +29,8 @@ the checkpoint's list of items, which names the era and passage for each.
    sentences meet Version 2 in full: zero em dashes and semicolons, people as actors, clinical
    words defined. Keep every marker line, slug, status and record key exactly as it is. A gap is
    closed by the missing fact, not by a new paragraph of background. When the fact was not
-   found, say plainly what the records do not say.
+   found, write it as a history book would ("No surviving record names..."). Never mention
+   the book, research, searching or agents in the prose.
 5. **Mark** the item in the checkpoint as `CLOSED (<TASK>)` or `SEARCHED, NOT FOUND`.
 
 ## Checks and saving

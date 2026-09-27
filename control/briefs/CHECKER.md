@@ -88,7 +88,11 @@ share a shape, report it.
 one idea. Report every hard word that is not defined in plain words at first use. Report a long
 word where a shorter one means the same. For each paragraph, try to finish "This teaches the
 reader that ____." If you cannot, report the paragraph under "The Teaching Point". Report any
-paragraph that withholds its main fact until late, for suspense.
+paragraph that withholds its main fact until late, for suspense. Report every **fourth-wall
+break** (BLOCKING): any sentence that mentions the book itself, this chapter, research,
+searching, sources checked, writers, agents or drafts ("this book", "we could not find",
+"while researching"). An unknown fact is stated from the side of the historical record
+("No surviving record names...").
 
 **Pass 6: structure and punctuation.** Report any em dash (U+2014) or semicolon, including
 inside a heading or a `label="..."`. Report records (`> **Key:** value` lines) outside an

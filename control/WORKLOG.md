@@ -2476,3 +2476,9 @@ DONE: cloud workflow archived to control/archive/cloud/ (not deleted). Briefs re
 MEASURED: project_state unchanged (7 WRITTEN, 5 RESEARCHED, 13 RESEARCHED*, 11 SEED, 1 PARTIAL).
   economy --stage prose still PASS.
 NEXT: wait for Jon's go. Then T-244 migration patch (TODO step 1a).
+
+### 2026-09-26 | [LOCAL] T-244 | migration: patch (1 target story) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-244-migration.md
+VERIFY: python tools/project_state.py --check migration --stage patch (and --stage research)
+NOTE: first agent under the rebuilt local briefs (RESEARCH.md). Brief fourth-wall rule added first.
