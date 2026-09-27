@@ -2817,7 +2817,9 @@ RESULT: DONE. PASS  government-politics / research. measured: stage=RESEARCHED e
         202475 tokens, 104 tool uses, 11.7 min (opus). Eras 8-10 bank check done (Guinn, Breedlove, Allwright, Teapot Dome, Box 13, VRA counts, Moss verdict, Jan 2025 pardons, Menendez, felony disenfranchisement 2024); era 7 secession closed. ~12 unconfirmed tags. Parked 5 items to crime-justice.
 
 ### 2026-09-27 | [LOCAL] T-262r | rights-movements: continue bank check eras 1-6 (era 6 left) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
+RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras=10/10 stories=25 (v25 c0 t0) verify_tags=0 bank=62860w outline=32606w manuscript=0w validator_errors=0
+        183493 tokens, 89 tool uses, 9.5 min (opus). Era 6 written from scratch (the first agent saved none): Boston mob 1835, Lovejoy 1837, Pennsylvania Hall 1838, Maria Stewart, Crandall's opponents (Judson), women's removal petitions, gag rule, Seneca Falls (James Mott chaired day 2), deaf-school grants, Cayuga land. 2 searched-not-found. Parked Lovejoy to news-communication.
 NOTE (Jon, during T-262r, usage 46%): after T-262r, burst of two, then one at a time. DECISIONS #25 (burst mode only on Jon's word).

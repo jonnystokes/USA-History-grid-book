@@ -1,13 +1,13 @@
 # CHECKPOINT T-262 | rights-movements | bankcheck | T-262a: eras 1-6
 
-STATUS: IN PROGRESS (T-262r continuation, 2026-09-27)
+STATUS: T-262r landed (director verified: PASS  rights-movements / research)
 VERIFY: python tools/project_state.py --check rights-movements --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/rights-movements.md · research/research-rights-movements.md · workspace/rights-movements.md
 
-NOW:    T-262r Unit 2: checking each verified story in eras 1-6 against the bank.
-NEXT:   T-262r: finish Unit 1 era 6, check era 1, then Units 2 and 3.
+NOW:    idle. T-262r finished eras 1-6.
+NEXT:   Eras 7-10 bank check (next agents, `python tools/slice_bank.py rights-movements --eras 7-10`, about 70,000 words: split it). Era 8 leads the Tulsa Race Massacre (DECISIONS #23, facts already parked in the bank). Carry-overs for you: Douglass's North Star editorial of 28 July 1848 is unconfirmed (search summary only) if era 7 wants it; the 1860 New York act on wives' wages is still unchecked; Clarke 1873 and the Akron speech versions per the 2026-09-09 HANDOFF. Outline eras 1-6 still carry em dashes or semicolons INSIDE primary-source quotations (Hutchinson excommunication charge, the Adams letters, the Declaration of Sentiments line on colleges). Writers must render them without the characters; they were not altered in the outline.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -28,8 +28,8 @@ PASS  rights-movements / research
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
 | 1 | bank check, eras 1-6 (the brief's five Find items, era by era) | done | eras 2-5 T-262a, era 6 + era 1 T-262r |
-| 2 | check each verified story in eras 1-6 has its key facts in the bank | todo | |
-| 3 | final for your eras: validator, research check | todo | |
+| 2 | check each verified story in eras 1-6 has its key facts in the bank | done | 6 stories; Adams (1840 publication, Braintree), Grimke (SC Encyclopedia), Dix outline line trimmed, Grimke 'rooms of women' line removed |
+| 3 | final for your eras: validator, research check | done | validator 0 errors; --stage research PASS, bank 62,860w |
 
 ## SUBJECT NOTES (from the director)
 
@@ -377,3 +377,4 @@ Pages the killed agent fetched (303; re-read the useful ones rather than searchi
 - 2026-09-27 T-262a: era 5 PATCH (PAS founding from HSP finding aid: Dinah Nevil case 1773-1781, 16 of 24 Quakers, meetings stopped Nov 1775, Harrison bought her 1781, 1787 revival Franklin; NJ voting: MoAR 163 named women voters on 9 poll lists, Eoff/McDonald/Boylan/VanDike/Caesar Trent; Lewis Rutgers LR 2011: 1802 'married women voted' complaint, 1807 Essex courthouse fraud 279%; DISPUTE on which party women helped (NPS vs NJ Historical Commission); Cuffe brothers 1780 petition full text + signers; Judith Sargent Murray 1790).
 - 2026-09-27 T-262r: era 6 PATCH (bank had no era-6 PATCH from T-262a). Mobs: Boston 21 Oct 1835 (5,000 men / 45 women, Chapman quote, Lyman, Garrison roped, no names, no prosecutions), Lovejoy 7 Nov 1837 (3 presses smashed, 5 bullets, acquittal), Pennsylvania Hall 17 May 1838 ($40,000, 10-15k crowd, 200-300 attackers, Swift, Watmough, none convicted, $27,942.27 damages 1847). Maria W. Stewart 1832-33. Crandall: Andrew T. Judson named + quotes, Ann Eliza Hammond vagrancy/whipping threat, window-count CONFLICT (90+ vs 5), no one charged. Petitions: Beecher circular 31 Dec 1829, 1,500+ women, Steubenville 1830, Benton ridicule, gag rule 1836-44 (Patton 1837 renewal), Brookline 14 Feb 1838 with Grimkes first signers, House Historian confirms Angelina first woman before a legislature. Seneca Falls: James Mott chaired (settles NOT CLAIMED), Herald ridicule, withdrawals SEARCHED NOT FOUND for count; Cayuga land. ASD: $5,000 Oct 1816 (conflict with 1819), 23,000 acres 1819 via Henry Clay (resolves Alabama Territory flag), whose land SEARCHED NOT FOUND. Oberlin land. OUTLINE era 6: new span 'the people who attacked the organizers'; ASD paragraph corrected; Seneca Falls backlash + James Mott; Crandall: Judson, Hammond, window conflict. Em dashes/semicolons removed from non-quote outline prose eras 1-6 (quotes left: lines ~117, 191, 195, 264 carry em dashes or semicolons inside primary-source quotations; writers must handle). Validator: 0 errors.
 - 2026-09-27 T-262r: era 1 checked. Bank adequate (no harm events, land stated). Outline: removed a self-reference ('this book does not invent people'), replaced an unsourced superlative ('power no country in Europe gave women'). Era 6 prose: removed two 'this chapter' self-references. Parked Lovejoy to news-communication. Unit 1 done.
+- 2026-09-27 T-262r: Unit 2 done (bank PATCHes: Abigail Adams letters private until 1840; Grimke/Dix checks). Unit 3: validator 0 errors, PASS rights-movements / research (bank=62860w outline=32606w, stories 25 v25).

@@ -69,3 +69,6 @@ open `target` slot (`local-reporter`) — citizen recording is your angle, not t
   said **"you don't videotape me!"** and **"nobody videotapes me,"** took a family's phone, and
   deleted the video; and a **November 2014 federal consent order** forbidding Ferguson officers from
   interfering with people lawfully recording police.
+
+## Parked from `rights-movements` (2026-09-27, T-262r)
+**Era 6 (1800 to 1850): an editor killed for what he printed.** Elijah Parish Lovejoy, Presbyterian minister and editor of the *St. Louis Observer*, moved to Alton, Illinois for safety. Mobs there smashed three of his printing presses, and he was killed on 7 November 1837 defending a fourth. (St. Louis Walk of Fame, "Elijah Lovejoy," http://stlouiswalkoffame.org/inductee/elijah-lovejoy/ .) From Wikipedia, "Elijah Parish Lovejoy," not confirmed on a second page: five bullets, aged 34, attackers tried from 19 January 1838 and acquitted, shooter never named. In April 1836 in St. Louis a white mob burned Francis McIntosh, a free Black man, to death, and Judge Luke Lawless refused to convict anyone and blamed abolitionists. `rights-movements` era 6 carries Lovejoy as one of the attacks on abolitionists. This chapter's angle is freedom of the press.

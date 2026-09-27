@@ -14,7 +14,7 @@ Editor's in-development note — not part of the final book; the parser strips i
 ## Before 1500
 
 <!-- hb-zoom level="era" -->
-There were no rights movements in this land yet. A movement means people organizing together to change a rule that governs them, and nobody here was doing that. What existed instead was hundreds of nations, each with its own arrangement of who decided what. In some of them women held political power that no country in Europe gave women.
+There were no rights movements in this land yet. A movement means people organizing together to change a rule that governs them, and nobody here was doing that. What existed instead was hundreds of nations, each with its own arrangement of who decided what. In some of them women held formal political power, including the power to choose leaders and remove them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="the clan mothers of the Haudenosaunee" -->
@@ -32,7 +32,7 @@ When the five nations agreed the Great Law of Peace that set this up is not sett
 <!-- hb-zoom level="span" label="what can be known, and what cannot" -->
 Hundreds of nations lived here and they did not all do this, so there is no single Native pattern to report. Nearly everything written down about how these nations governed themselves was written later, by Europeans. The nations' own records are wampum belts and spoken account, and the Onondaga still keep theirs.
 
-That is why this section names nobody. No individual person's claim to a right survives from before 1500 in this land, and this book does not invent people to fill a gap.
+That is why no single person can be named here. No individual person's claim to a right survives from before 1500 in this land.
 <!-- /hb-zoom -->
 
 <!-- hb-time:end id="before-1500" -->
@@ -66,7 +66,7 @@ One more thing has to be said about Las Casas, because leaving it out would make
 English law came to the colonies carrying a rule that took away a married woman's legal existence. There was still no movement in this century. People argued back one at a time and were punished by name for it: Anne Hutchinson was tried and banished from Massachusetts in November 1637, and Mary Dyer was hanged on Boston Common in 1660 for being a Quaker. The nearest thing to organizing came in 1688, when four men in Pennsylvania signed one paper against slaveholding and sent it up through their church meetings.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="coverture — what marriage did to a woman in law" -->
+<!-- hb-zoom level="span" label="coverture: what marriage did to a woman in law" -->
 The rule was called coverture. A married woman was covered by her husband in law, and the legal name for her was a *feme covert*, a covered woman. She had no separate legal existence.
 
 That meant she did not own property, including property she had brought into the marriage herself. Any wages she earned belonged to her husband. She could not sign a contract, could not be sued, and could not bring a case in court in her own name.
@@ -116,7 +116,7 @@ Winthrop gave the sentence: "Mrs. Hutchinson, the sentence of the court you hear
 
 In March 1638 the church at Boston tried her a second time and put her out of the congregation. Its charge said she had "rather been a Husband than a Wife and a preacher than a Hearer; and a Magistrate than a Subject."
 
-She left in the spring of 1638 for Aquidneck Island, in what became Rhode Island. After her husband died she moved in 1642 onto Dutch land on Long Island Sound. She and several of her children were killed there in 1643 in a Siwanoy attack; one daughter lived. Her crossing is told in `immigration`; her theology in `religion`.
+She left in the spring of 1638 for Aquidneck Island, in what became Rhode Island. After her husband died she moved in 1642 onto Dutch land on Long Island Sound. She and several of her children were killed there in 1643 in a Siwanoy attack. One daughter lived. Her crossing is told in `immigration`, and her theology in `religion`.
 <!-- hb-story:end slug="anne-hutchinson-rights-movements" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -184,7 +184,7 @@ In 1798 the community stopped asking and built its own. The African School met i
 <!-- hb-story:start slug="abigail-adams" name="Abigail Adams" movie="John Adams (2008 HBO miniseries)" kind="famous" status="verified" -->
 ### Abigail Adams
 > **Who:** Wrote to her husband while he was helping write a new country's laws, and told him to remember the ladies · **When and where:** Braintree, Massachusetts, letters of 31 March, 14 April and 7 May 1776
-> **Movie:** John Adams (2008 HBO miniseries) — about John and the family; she is a lead character, not the subject.
+> **Movie:** John Adams (2008 HBO miniseries), about John and the family. She is a lead character, not the subject.
 
 John Adams was at the Continental Congress in Philadelphia in the spring of 1776. Abigail Adams was at home in Braintree running the farm. They wrote to each other constantly, and the letters survive at the Massachusetts Historical Society.
 
@@ -226,9 +226,9 @@ New York passed its own married women's property act in 1848, a few months befor
 <!-- hb-zoom level="span" label="deaf pupils in one place, and what that made" -->
 The American School for the Deaf opened at Hartford, Connecticut on 15 April 1817, in Bennett's City Hotel, with seven full-time pupils. Thomas Hopkins Gallaudet founded it with Laurent Clerc, a deaf French teacher he brought back from Paris, backed by Dr. Mason Fitch Cogswell, whose deaf daughter Alice was one of the first pupils. Teaching was in sign language.
 
-Connecticut's General Assembly voted the school an annual grant in 1819, the first state money for a school in America, and Congress gave it a grant of land in 1820, the first federal money for special education.
+Public money came quickly. In October 1816, before the school opened, the Connecticut legislature voted it $5,000, the first public money in America for teaching disabled people. In 1819 Congress gave it 23,000 acres of public land in Alabama, and the school sold the land to pay its costs. It was the first federal money for special education.
 
-`education` leads on it as a school. It sits in this chapter for what a school does that a family cannot. Deaf children who had been the only deaf person in their town were brought together in one building and taught in a shared language. That is where a signing community in America begins, and the disability campaigns later in this chapter are run by people who had schools like this one behind them.
+`education` leads on it as a school. What matters here is what a school does that a family cannot. Deaf children who had been the only deaf person in their town were brought together in one building and taught in a shared language. That is where a signing community in America begins, and the disability campaigns of later years were run by people who had schools like this one behind them.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="getting girls into school" -->
 Getting girls taught the same subjects as boys is one of the first organized demands of this era. Girls' schools existed, but most of them taught manners, drawing and music.
@@ -245,13 +245,28 @@ College was a separate question. Oberlin in Ohio is where that changed, and it c
 <!-- hb-zoom level="span" label="children shut out because they were Black" -->
 Free Black families paid town taxes and their children were kept out of the town schools those taxes paid for. In Boston the families had already stopped asking and built their own school, in 1798, in Primus Hall's house. In 1808 it moved into the basement of the African Meeting House. In the mid-1830s it moved again, into the Abiel Smith School, which became the one school where nearly all of Boston's Black pupils were sent.
 
-In the late 1840s William Cooper Nell and others organized boycotts of the Smith School and petition drives against it, and Benjamin Roberts sued the city of Boston to get his five-year-old daughter Sarah into the school nearest their house. `education` tells the Roberts case; the campaign around it is ours.
+In the late 1840s William Cooper Nell and others organized boycotts of the Smith School and petition drives against it, and Benjamin Roberts sued the city of Boston to get his five-year-old daughter Sarah into the school nearest their house. `education` tells the Roberts case. The campaign around it is ours.
 
 Shutting children out was not the worst of it. In Canterbury, Connecticut, a white teacher took Black pupils. The state legislature passed a law to stop her, and the town wrecked her school.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the people who attacked the organizers" -->
+Organizing in this era was dangerous, and the danger came from white neighbours, ministers, lawmakers and mobs.
+
+Women started by writing petitions. In December 1829 Catharine Beecher wrote a circular telling women they had a right to be heard by Congress about the plan to force the Cherokee and other nations off their land. More than 1,500 women signed petitions against it. Senator Thomas Hart Benton of Missouri mocked them in public. He told "these ladies" to "sit down on the way side, and wait for the coming of the conquerors." Congress passed the Indian Removal Act in 1830. `native-nations` tells what was done to the nations.
+
+Then the petitions turned to slavery. In 1836 the House of Representatives made a rule that every antislavery petition was set aside unread. It was called the gag rule, and it lasted until 1844. In February 1838 women in Brookline, Massachusetts signed a petition calling it "an assumption of authority, at once dangerous and destructive" to government by the people. The first two names on it were Sarah and Angelina Grimké.
+
+Maria W. Stewart was a free Black woman from Hartford, Connecticut, orphaned at five. In September 1832 she spoke at Franklin Hall in Boston to an audience of men and women. She is one of the first American women on record to speak in public. Audiences turned on her, partly because she was a woman speaking to men and partly because she told Black men off for drinking. She gave up speaking in Boston a year later. In her last speech there she asked, "What if I am a woman," and said it was no use trying to be useful in that city.
+
+On 21 October 1835 the Boston Female Anti-Slavery Society met at its room on Washington Street. About 5,000 men gathered outside. One of the women, Deborah Weston, called it "the day when 5,000 men mobbed 45 women." When the mayor, Theodore Lyman, told them to leave, Maria Weston Chapman said, "If this is the last bulwark of freedom, we may as well die here as anywhere." The mob caught William Lloyd Garrison, put a rope on him and dragged him through the streets. The mayor locked him in the city jail overnight to keep him alive. No record found names a man in that mob.
+
+On 7 November 1837 a mob in Alton, Illinois shot and killed Elijah Lovejoy, a minister who printed an antislavery newspaper. Mobs there had already smashed three of his printing presses. He was defending the fourth. The men tried for the attack were found not guilty.
+
+On 17 May 1838 a mob in Philadelphia burned down Pennsylvania Hall, three days after it opened. Antislavery groups had built it for about $40,000, and a national convention of antislavery women was meeting there that week. Between 10,000 and 15,000 people watched and 200 to 300 did the burning. The mayor, John Swift, did little to stop them. Dozens of men were arrested and none was convicted.
+<!-- /hb-zoom -->
 <!-- hb-story:start slug="stanton-mott" name="Elizabeth Cady Stanton and Lucretia Mott" movie="" kind="famous" status="verified" -->
 ### Elizabeth Cady Stanton and Lucretia Mott
-> **Who:** Two women who were shut out of an antislavery meeting in London and called a convention of their own eight years later · **When and where:** London 1840; Waterloo and Seneca Falls, New York, July 1848
+> **Who:** Two women who were shut out of an antislavery meeting in London and called a convention of their own eight years later · **When and where:** London 1840, then Waterloo and Seneca Falls, New York, July 1848
 
 Lucretia Mott was born on Nantucket, Massachusetts in 1793 and raised a Quaker. She helped found the Philadelphia Female Anti-Slavery Society in 1833. Elizabeth Cady Stanton was born at Johnstown, New York on 12 November 1815.
 
@@ -259,19 +274,21 @@ They met in London in 1840, at the World Anti-Slavery Convention. Women had been
 
 It took eight years. Stanton moved to Seneca Falls in 1847 and wrote later about what pushed her: "The general discontent I felt with women's portion as wife, mother, housekeeper ... impressed me with a strange feeling that some active measures should be taken."
 
-On 9 July 1848, five women at a tea in Waterloo, New York decided to do it — Stanton, Mott, Mary Ann M'Clintock, Martha Coffin Wright and Jane Hunt. They put a notice in the local paper calling people to "a Convention to discuss the social, civil and religious rights and condition of woman." That gave them ten days.
+On 9 July 1848, five women at a tea in Waterloo, New York decided to do it. They were Stanton, Mott, Mary Ann M'Clintock, Martha Coffin Wright and Jane Hunt. They put a notice in the local paper calling people to "a Convention to discuss the social, civil and religious rights and condition of woman." That gave them ten days.
 
 The convention met on 19 and 20 July 1848 at the Wesleyan Chapel in Seneca Falls, three miles from Waterloo. More than 300 people came. Stanton wrote a Declaration of Sentiments with the M'Clintock family, built on the Declaration of Independence, and read it out. It listed what men had done to women, item by item. "He has never permitted her to exercise her inalienable right to the elective franchise." "He has taken from her all right in property, even to the wages she earns." On schools: "He has denied her the facilities for obtaining a thorough education — all colleges being closed against her."
 
 The line about property and wages is coverture, the rule from the 1600s. It was still in force.
 
 One hundred people signed the declaration, 68 women and 32 men. Eleven of the resolutions passed with nobody against. The one demanding the vote was fought over and passed only narrowly, after Frederick Douglass stood up and argued for it. From that vote to the constitutional amendment that gave American women the vote is seventy-two years.
+
+The first day was for women only. Men joined on the second day, and Lucretia Mott's husband James chaired it. Newspapers mocked the whole thing. James Gordon Bennett printed the entire declaration in his *New York Herald* to make fun of it. Some of the signers later took their names off. The records do not say how many.
 <!-- hb-story:end slug="stanton-mott" -->
 <!-- hb-story:start slug="dorothea-dix" name="Dorothea Dix" movie="" kind="famous" status="verified" -->
 ### Dorothea Dix
-> **Who:** Went and looked inside every jail and poorhouse in a state, wrote down what was being done to mentally ill people, and read it out to the legislature · **When and where:** Massachusetts, 1841 to 1843; born 1802, died 1887
+> **Who:** Went and looked inside every jail and poorhouse in a state, wrote down what was being done to mentally ill people, and read it out to the legislature · **When and where:** Massachusetts, 1841 to 1843. Born 1802, died 1887
 
-On 28 March 1841 Dorothea Dix went to the East Cambridge jail in Massachusetts to teach a Sunday school class. She found mentally ill women shut in with convicted criminals, in what the record calls a bare, foul-smelling, unheated jail room. Mentally ill in that century meant a person whose mind worked in a way their family or their town could not manage. There was almost nowhere for them to go, so towns put them in jails and poorhouses, or families kept them at home and locked them up.
+On 28 March 1841 Dorothea Dix went to the East Cambridge jail in Massachusetts to teach a Sunday school class. She found mentally ill women shut in with convicted criminals, in what the record calls a bare, foul-smelling, unheated jail room. Mentally ill in that century meant a person whose mind worked in a way their family or their town could not manage. Towns kept them in jails, poorhouses and houses of correction.
 
 The jail officials denied her account, and then improved the women's conditions.
 
@@ -283,15 +300,15 @@ Her notes named the places. She found a woman in a cage at Lincoln. At Medford o
 
 Publishers reprinted the memorial as a pamphlet and newspapers printed extracts, and it caused an uproar. The legislature voted the money to enlarge the state hospital at Worcester. In 1843 there were 13 mental hospitals in the United States. By 1880 there were 123, and Dix had a direct hand in founding 32 of them.
 
-Her method is why she is in this chapter and not only in `health`: go and look, write down exactly what you see, publish it, and hand lawmakers a count they cannot argue with. Later campaigners in this chapter use the same method.
+Her method matters as much as what she found. Go and look, write down exactly what you see, publish it, and hand lawmakers a count they cannot argue with. Later campaigners used the same method. `health` tells the story of the hospitals.
 <!-- hb-story:end slug="dorothea-dix" -->
 <!-- hb-story:start slug="grimke-sisters" name="Sarah and Angelina Grimké" movie="" kind="famous" status="verified" -->
 ### Sarah and Angelina Grimké
-> **Who:** Two sisters from a slaveholding family who went north, spoke against slavery in public, and were attacked by the clergy for speaking at all · **When and where:** South Carolina, then Philadelphia and New England; the speaking tour 1837 to 1838
+> **Who:** Two sisters from a slaveholding family who went north, spoke against slavery in public, and were attacked by the clergy for speaking at all · **When and where:** South Carolina, then Philadelphia and New England. The speaking tour was 1837 to 1838
 
 Their father was a wealthy South Carolina slaveholder. Both sisters left the South, became Quakers, and went to work for the American Anti-Slavery Society, the first women the society hired as agents.
 
-At first they spoke to rooms of women. Then they spoke at Poughkeepsie, New York to an audience of men and women together, which almost no American woman had done. In 23 weeks across 1837 and 1838 they spoke at 88 meetings or more in 67 towns, to more than 40,000 people face to face.
+At Poughkeepsie, New York they spoke to an audience of men and women together, which almost no American woman had done. Maria W. Stewart had done it in Boston in 1832. In 23 weeks across 1837 and 1838 they spoke at 88 meetings or more in 67 towns, to more than 40,000 people face to face.
 
 In July 1837 the Congregational ministers of Massachusetts answered them. Their Pastoral Letter, read out from pulpits across the state, said the sisters threatened "the female character with wide spread and permanent injury," and objected to "females to bear an obtrusive and ostentatious part in measures of reform." The ministers did not argue that the sisters were wrong about slavery. They objected to women speaking at all.
 
@@ -315,7 +332,7 @@ On 24 May 1833 the Connecticut General Assembly passed what people called the Bl
 
 Crandall was arrested on 27 June 1833 and spent a night in jail. Her first trial ended with a jury that could not agree. At the second, in October 1833, Judge David Daggett told the jury that Black Americans were not citizens, so the constitutional protection her lawyers were arguing for did not apply to her pupils. She was convicted. On 26 July 1834 the Connecticut Supreme Court threw the conviction out on a technical point. That left the Black Law standing.
 
-The town went after the school the whole time. Shopkeepers would not sell to it. Pupils walking outside were pelted with stones and eggs. In January 1834 someone tried to set the building on fire. On the night of 9 September 1834 a mob broke more than ninety windows and went through the house carrying weapons while Crandall and her pupils were inside. She closed the school the next morning.
+The man leading the campaign was Andrew T. Judson, a lawyer and politician who lived next door to the school and prosecuted Crandall. He told the minister Samuel J. May, "we mean there shall not be such a school set up anywhere in our State." The town went after the school the whole time. The school's opponents turned the state's vagrancy law on Ann Eliza Hammond, a sixteen-year-old pupil from Providence who arrived in April 1833. Its punishment was whipping "on the naked body not exceeding ten stripes," meaning up to ten lashes. Crandall paid so it was not carried out. Shopkeepers would not sell to it. Pupils walking outside were pelted with stones and eggs. In January 1834 someone tried to set the building on fire. On the night of 9 September 1834 armed men attacked the house while Crandall and her pupils were inside and smashed the windows. One account counts more than ninety windows broken, another five large ones on the ground floor. No one was ever charged. She closed the school the next morning.
 
 Crandall married a Baptist minister named Calvin Philleo and moved west, to Illinois and then Kansas. Connecticut voted her a pension of $400 a year four years before she died there in 1890, aged 87. Sarah Harris became an abolitionist and a conductor on the Underground Railroad, helping people escape slavery. In 1877 she travelled to Kansas to visit Crandall, and the two of them went on writing to each other about their old pupils.
 <!-- hb-story:end slug="prudence-crandall" -->
