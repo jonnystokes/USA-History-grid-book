@@ -2828,3 +2828,8 @@ NOTE (Jon, during T-262r, usage 46%): after T-262r, burst of two, then one at a 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+
+### 2026-09-27 | [LOCAL] T-257r | exploration: continue full research, from era 6 [BURST of 2] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-257-exploration.md
+VERIFY: python tools/project_state.py --check exploration --stage research
