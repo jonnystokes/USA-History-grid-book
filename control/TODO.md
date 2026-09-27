@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-247 `energy` IN FLIGHT.** Stop when it finishes (Jon measures usage per agent).
+**T-247 done, stopped for Jon's usage reading.** Nothing in flight. Next: T-248 `transportation`.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
@@ -34,7 +34,7 @@ Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each t
 - [x] T-244 `migration` (PASS research, 241k tokens, 11 min)
 - [x] T-245 `home-family` (PASS research, 333k tokens, 21 min)
 - [x] T-246 `technology` (PASS research, 315k tokens, 16 min)
-- [ ] T-247 `energy`
+- [x] T-247 `energy` (PASS research; killed once by an app restart, finished as T-247b, 318k tokens, 18 min)
 - [ ] T-248 `transportation`
 - [ ] T-249 `landmarks`
 - [ ] T-250 `work-workers`

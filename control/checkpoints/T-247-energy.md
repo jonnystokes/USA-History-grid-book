@@ -1,12 +1,12 @@
 # CHECKPOINT T-247 | energy | patch + bank check | eras 1-10
 
-STATUS: IN-FLIGHT
+STATUS: DONE (director verified: patch PASS, research PASS, after T-247b)
 VERIFY: python tools/project_state.py --check energy --stage patch   (and --stage research)
 BRIEF:  control/briefs/RESEARCH.md, MODE patch
 MODEL:  opus
 FILES:  outlines/energy.md · research/research-energy.md · workspace/energy.md
 
-NOW:    (continuation agent sets this)
+NOW:    done
 NEXT:   T-247b: Unit 1 continues. Chadbourne is DONE in the bank (PATCH era 03) but the outline story
         is still status="candidate": flip it after checking the PATCH. Then the collier/furnace target,
         using the pages below, then the other three slots.
@@ -36,10 +36,10 @@ what serves this chapter. Two of them are marked "kept verbatim": leave their te
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | the two candidates and the three targets | todo | |
-| 2 | bank check, eras 1-5 | todo | |
-| 3 | bank check, eras 6-10 | todo | |
-| 4 | final: flags, validator, both checks | todo | |
+| 1 | the two candidates and the three targets | done | chadbourne, pearl-yates verified; collier -> era04 SNF + lafayette-houck (era07); david-falconer (era09); cristian-pavon-pineda (era10) |
+| 2 | bank check, eras 1-5 | done | Onate land (era02), Baltimore/Hopewell/Catoctin labor (04-05) |
+| 3 | bank check, eras 6-10 | done | Avondale, Monongah, Ludlow, coal totals, TVA/Grand Coulee, Osage ptr, TMI cause, Farmington+black lung, Garrison, uranium/Church Rock ptr, UBB, Dakota Access ptr, 2025 EIA refresh |
+| 4 | final: flags, validator, both checks | done | 10/10 researched, validator 0 errors |
 
 ## SUBJECT NOTES (from the director)
 
@@ -122,13 +122,29 @@ Pages the killed agent fetched (re-read the useful ones rather than searching ag
 - https://paparksandforests.org/black-history-charcoal-and-state-lands/
 
 ## Sources in hand
+- OBHS Great Works + timeline (Chadbourne) · NPS Hopewell: charcoal-making, charcoal, prominent-families, African Americans at Hopewell, TwHP lesson, Cuff Dix · CFHS Catoctin history · PMC10958645 (Catoctin Science paper) · Mount Clare (Baltimore Iron Works)
+- UNC SOHP catalog D-0044 (Pearl Yates) · HISTORY.com Blakemore 2018
+- Yale Energy History Falconer gallery · NARA Flickr 412-DA-5686 · NBC26 2022
+- Texas Tribune, CBS, Al Dia, Patch (Pineda)
+- MSHA coal fatalities table + disasters fact sheet + 1969 Act page + UBB page · Clio + WV Mine Wars Museum (Monongah) · EARTH Magazine (Avondale) · Colorado Encyclopedia (Ludlow) · Smithsonian Mag 2017 (black lung) · NPR 2016 (Blankenship)
+- Facing South 1995 (TVA removals) · HistoryLink 7577 (Kettle Falls) · Cultural Survival 2010 + ND Studies (Garrison) · Allegheny Front (Kinzua) · NPS San Gabriel del Yunque · WNA (TMI)
+- EIA electricity-in-the-US, TIE 67144, 67844, 67724 · Canary Media July 2026 (Palisades)
 
 ## Gaps researched
 
 ## OPEN (should be rare)
 
 ## Outline claims left out
+- Outline's older em dashes (73) and semicolons (95) untouched: audit/polish work, not patch.
+- "Oregon first with odd-even" kept only as Falconer's caption claim.
 
 ## Decisions and defects fixed
+- Collier story moved from era 04 to era 07 (Lafayette Houck); era 04 has no named collier (SNF).
+- Pearl Yates occupation corrected to teacher (UNC catalog).
+- Pineda cause of death: carbon monoxide (autopsy), not hypothermia.
+- 2018 crude: US overtook Russia (EIA), outline had "passed Saudi Arabia": fixed.
+- Hopewell cords: two NPS figures (5,000-6,000 and 6,000-7,000): outline now 5,000-7,000.
 
 ## Log
+- T-247b 2026-09-27: william-chadbourne -> verified (outline rewritten from the T-247 PATCH, whose land added). Collier target: no named collier 1700-1750 exists in the sources -> era 04 story block REMOVED, SEARCHED NOT FOUND in bank era 04, Baltimore Iron Works enslaved charcoal hauling added (era 04 PATCH + span). Era 05 PATCH: charcoal method, Hopewell cords correction (5,000-7,000), Mark Bird enslaved 18 (1780), Collier Sam at Catoctin, Cuff Dix (parked note). Era 07 PATCH + new span + new story `lafayette-houck` (verified, NPS; birth-year dispute recorded). Validator 0 errors.
+- T-247b: pearl-yates -> verified from UNC catalog D-0044 (May 29, 1984, Bonnie Bishop; Haywood County; she was a TEACHER, HISTORY.com said farmer's wife: correction in bank). Gas-line target -> `david-falconer` (EPA DOCUMERICA photographer, NARA captions via Yale Energy History) + SEARCHED NOT FOUND for a contemporaneously quoted named driver. 2021 target -> `cristian-pavon-pineda` (Conroe, died Feb 16 2021; autopsy = carbon monoxide, not hypothermia; $100M suit vs ERCOT/Entergy; outcome not found).

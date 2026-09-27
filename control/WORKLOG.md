@@ -2533,7 +2533,18 @@ RESULT: KILLED when Jon's app restarted (not a usage limit). Measured: 1 bank PA
         point went into the checkpoint's SALVAGE section. Continued as T-247b.
 
 ### 2026-09-27 | [LOCAL] T-247b | energy: continuation of T-247 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-247-energy.md (read SALVAGE first)
 VERIFY: python tools/project_state.py --check energy --stage patch (and --stage research)
 USAGE AT START: 3% (Jon).
+RESULT: DONE. PASS energy / patch and / research. stories 11 (v11 c0 t0), bank 5,078 -> 11,157w, outline
+        4,187 -> 6,615w, validator 0. 318,226 tokens, 162 tool uses, 18.1 min (opus).
+        Stories: William Chadbourne (verified from the landed PATCH), Pearl Yates (UNC record corrects HISTORY.com:
+        a teacher, not a farmer's wife), Lafayette Houck (collier, era 07; the 1700-1750 collier slot removed as
+        SEARCHED NOT FOUND, Collier Sam named in era 05 text), David Falconer (EPA photographer, 1973-74 gas lines),
+        Cristian Pavon Pineda (2021 Texas freeze; carbon monoxide per autopsy). Bank check: Tewa land, enslaved and
+        convict furnace labor, Avondale, Monongah (362 official, 500+), ~105,000 miners killed 1900-2025 (agent's
+        sum of MSHA yearly figures), Ludlow, black lung, Upper Big Branch, dam removals (TVA, Grand Coulee,
+        Garrison), TMI, pointers to Osage/Navajo/Dakota Access banks, EIA 2025-26 (2018: US passed Russia, not
+        Saudi Arabia). Parked to work-workers and disasters (both validate 0).
+        WRITER brief: ignore BOOK-OUTLINE.md in the slug-uniqueness grep (compiled copy).

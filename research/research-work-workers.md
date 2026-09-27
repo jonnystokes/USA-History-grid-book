@@ -249,3 +249,12 @@ seen before. Mechanism: "Radium, which is in the same alkaline earth family as c
 taken up in the hydroxy apatite of growing bones and teeth"; results were "aplastic anemia,
 necrosis of the jaw, and osteosarcomas"; autopsies found **99 percent of the radioactivity in the
 skeleton**; measured body burdens ran **1 to 180 micrograms**. (PMC10046820.)
+
+## Parked from `energy` (2026-09-27, T-247b): coal miners' deaths and the Ludlow strike
+Full text with sources is in `research/research-energy.md` (PATCH entries under eras 05, 07, 08, 09, 10). Pointers:
+- Colliers and woodcutters: NPS Hopewell Furnace pages (about 20 colliers in the 1830s, each tending 8 or 9 pits, living in huts beside them; Lafayette Houck, 1846 to 1939, collier). Mark Bird enslaved 18 people at Hopewell in 1780. Cuff Dix, enslaved hammerman at Birdsboro Forge, escaped in 1774, 1775 and 1776 (NPS, "Pennsylvania: Cuff Dix, 1775-1776").
+- Avondale fire, September 6, 1869: 110 dead, five boys among them (EARTH Magazine, 2018).
+- Monongah, December 6, 1907: 362 official, over 500 by later estimates (MSHA; West Virginia Mine Wars Museum; Clio).
+- Ludlow, April 20, 1914: at least 19 dead, 13 of them women and children in a pit (Colorado Encyclopedia, Jonathan H. Rees). The strike, the union and the Rockefeller Plan are yours.
+- Farmington 1968 (78 dead) and the 1969 Coal Mine Health and Safety Act (MSHA). Black lung: more than 76,000 deaths since 1968 (Department of Labor via Smithsonian Magazine, 2017).
+- Upper Big Branch, April 5, 2010: 29 dead; Blankenship sentenced to one year (MSHA; NPR).

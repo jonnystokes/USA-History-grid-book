@@ -92,3 +92,11 @@ Companion files: outline `outlines/energy.md` · research bank `research/researc
 3. **The Tennessee farmer's "next greatest thing" quote is unattributed by name in the record (1930, via Nye).** Kept as "a Tennessee farmer" — confirm you're comfortable featuring an unnamed quote that prominently.
 4. **Insull story approved?** Brief said "if warranted." I judged it warranted (the man who built the utility business model + the fall that fed regulation). Cut to a span line if you disagree.
 5. Fracking/strip-mining damage boundary confirmed as seed assumed: fuel and output here, damage in `land-environment`. Same for nuclear: power here, weapons `war`, element science `elements`.
+
+## T-247 / T-247b update (2026-09-27)
+- Stories now: all 11 verified. Removed `target-collier-or-furnace-worker` (no named collier 1700-1750 exists: SEARCHED, NOT FOUND in bank era 04), `target-1973-gas-line-account`, `target-lineworker-or-solar-installer`. Added `lafayette-houck` (era 07), `david-falconer` (era 09), `cristian-pavon-pineda` (era 10).
+- Pearl Yates: UNC catalog says high school English teacher in Haywood County, not a farmer's wife (HISTORY.com). Bank has the correction.
+- Open question 1 (Navajo uranium) settled for this chapter: a span in era 09 points to the `elements` bank, which holds the sourced account.
+- New spans: era 04 Baltimore Iron Works; era 05 charcoal making and who did it; era 07 Avondale, charcoal's end; era 08 coal deaths (Monongah, Ludlow), TVA and Grand Coulee removals, Osage; era 09 uranium, Garrison Dam, black lung, TMI cause; era 10 Upper Big Branch, Dakota Access, 2025 figures.
+- Parked: work-workers (coal deaths, Ludlow, colliers, Cuff Dix), disasters (Pineda, mine disasters).
+- Not done (for the audit): the outline's older text still carries about 73 em dashes and 95 semicolons from before style guide Version 2. New text added in T-247b has none.

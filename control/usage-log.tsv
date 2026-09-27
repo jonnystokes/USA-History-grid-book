@@ -158,3 +158,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-245	research	general-purpose/opus	[LOCAL] home-family patch (2 cand, 4 targets, kitchen thread) + bank check	7	14	7+	332647	153	1276728	?	completed	PASS patch+research; bank +6656w; parked to technology+energy; 2 searched-not-found; 8 unconfirmed tags
 2026-09-27	T-246	research	general-purpose/opus	[LOCAL] technology patch (1 cand, 3 targets) + bank check	14	?	?	315496	146	961675	?	completed	PASS patch+research; bank +6315w; 1 searched-not-found
 2026-09-27	T-247	research	general-purpose/opus	[LOCAL] energy patch + bank check (KILLED: Jon app restart)	0	3	3+	?	?	?	?	killed	landed 1 bank PATCH (Chadbourne); ~50 URLs salvaged into checkpoint
+2026-09-27	T-247b	research	general-purpose/opus	[LOCAL] energy patch + bank check (continuation after app restart)	3	?	?	318226	162	1086831	?	completed	PASS patch+research; bank +6079w; parked to work-workers+disasters

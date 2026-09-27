@@ -46,7 +46,8 @@ the outline, then the hb-time sections with `progress="written"` and each era's 
 the outline. Carry each story from the outline as an `hb-story` with the same slug, name and
 `status="verified"`, with its `> **Key:** value` records, **but only when the bank sources it.**
 Every story slug must be unique across the book: `grep -rl 'slug="<slug>"' outlines/ manuscript/`
-shows only this chapter's files.
+shows only this chapter's files. Ignore hits in `outlines/BOOK-OUTLINE.md`: it is a compiled copy
+of every outline, rebuilt at the polish step.
 
 ## Facts come from the research bank only (DECISIONS #13)
 
