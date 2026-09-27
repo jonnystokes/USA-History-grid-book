@@ -23,6 +23,26 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 | Seider shooting and Richardson trial, 1770 | the trial | `marketplace` (**lead**, the shop protest) |
 | Boston Massacre trials, 1770 | **lead** | `slavery-freedom` (Attucks) · `war` / `government-politics` |
 | Bill of Rights, 1791 | the accused's rights | `government-politics` (**lead**) |
+| Francis McIntosh lynching, St. Louis, 1836 | **lead** (the judge and the grand jury) | `rights-movements` (Lovejoy) |
+| Eastern State and Auburn, 1820s-1840s | **lead** | none |
+| Nat Turner's revolt, 1831 | the court (oyer and terminer, 53 cases) | `slavery-freedom` (**lead**) |
+| Cherokee regulators, 1808, and 1810 law | the police and the end of clan revenge | `native-nations` (**lead**, Cherokee government) |
+| Dakota trials and Mankato hanging, 1862 | the trials | `native-nations` (**lead**) |
+| NYC draft riots, 1863 | police and the killing of William Jones | `war` (**lead**, the draft) · `immigration` |
+| Pinkertons and the James farm raid, 1875 | **lead** (story) | `big-business` / `work-workers` (Homestead) |
+| Henry Smith, Paris, Texas, 1893 | **lead** (story, DECISIONS #2) | `rights-movements` (Wells's campaign) |
+| LA 1871 and Rock Springs 1885 | the trials and lack of them | `immigration` (**lead**, Chinese immigrants) |
+| Haymarket trial, 1886-1887 | the trial and pardons | `work-workers` (**lead**) |
+| Lexow Committee and TR, 1894-1897 | **lead** | `city-building` (Riis) · `government-politics` (Tammany) |
+| Kemmler, electric chair, 1890 | **lead** | none |
+| Juvenile court, Chicago, 1899 | **lead** | `rights-movements` (Hull House) |
+| Ed Johnson and *US v. Shipp*, 1906-1909 | **lead** (story) | none |
+| Tulsa Race Massacre, 1921 | the justice angle (grand jury, Gustafson, DOJ 2025) | `rights-movements` (**lead**, DECISIONS #23) · `money` (claims) |
+| Osage murders, 1921-1929 | the investigation and trials | `native-nations` (**lead**) · `energy` |
+| FBI 1908-1935, fingerprints, lab | **lead** | none |
+| Brown v. Mississippi, 1936; Wickersham 1931 | **lead** | none |
+| Scottsboro, 1931-1937 | the trials and rulings | `rights-movements` (campaign) |
+| Convict leasing end, James Knox 1924, 1928 | the punishment | `slavery-freedom` (**lead**) |
 | Prohibition | **lead (crime angle)** — bootlegging, gangs, and the police response | `drugs-alcohol` (**lead** — drinking and its control) · `government-politics` (the amendments) |
 | The Salem witch trials, 1692 | **lead** — accusation, court, and execution as a justice failure | `religion` (belief and the church's role) |
 | Convict leasing after the Civil War | **lead (as punishment)** — prisoners rented out as labor | `slavery-freedom` (**lead** — freedom's broken promises) · `work-workers` (forced labor) |
@@ -31,14 +51,14 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 | September 11, 2001 | domestic security and surveillance afterward | `america-world` (**lead** — the attacks and the response abroad) · `disasters` (the rescue) |
 
 ## Famous names check (must appear — completeness first)
-- [x] the Salem witch trials · [x] the penitentiary (Walnut Street, 1790) · [ ] the first city police departments · [ ] the Pinkertons · [ ] Jesse James and the outlaw legend · [ ] lynching · [ ] convict leasing · [ ] Al Capone · [ ] J. Edgar Hoover and the FBI · [ ] *Miranda* · [ ] the War on Drugs · [ ] mass incarceration · [ ] DNA exonerations
+- [x] the Salem witch trials · [x] the penitentiary (Walnut Street, 1790) · [x] the first city police departments · [x] the Pinkertons · [x] Jesse James (the 1875 raid; the outlaw legend itself not told) · [x] lynching (McIntosh, Smith, Jones, Johnson) · [x] convict leasing · [x] Al Capone · [x] J. Edgar Hoover and the FBI · [x] Tulsa 1921 (justice angle) · [x] Scottsboro · [ ] *Miranda* · [ ] the War on Drugs · [ ] mass incarceration · [ ] DNA exonerations
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 
 - [x] Salem count: 19 hanged, 1 pressed, at least 5 died in jail (Britannica). CLEARED T-265a/r.
 - [x] Walnut Street, April 1790 law (Anderson, Encyclopedia of Greater Philadelphia; Shapiro, HLR 2019). CLEARED T-265r.
-- [ ] First modern police departments: Boston 1838, New York 1845 — 1800–1850 span.
+- [x] First modern police: Boston 1838 day police (TIME/Potter attribution), New York 23 May 1845 (size disputed, 800 vs 1,200 authorized). CLEARED T-265b.
 - [ ] *Miranda v. Arizona*, 1966 — 1950–2000 span.
 
 ## Threads present
@@ -48,15 +68,18 @@ Companion files: outline `outlines/crime-justice.md` · research bank `research/
 - **Before 1500**: thin (rules known only from later records; no named person). T-265a.
 - **The 1500s**: thin (Spanish outposts; the Acoma trial). T-265a.
 - 1600s, 1700-1750, 1750-1800: full, researched (T-265a/T-265r).
+- 1800-1850, 1850-1900, 1900-1950: full, researched (T-265b).
 
 ## Featured people to firm up (target / candidate)
 *This chapter's featured people are almost all `target` slots — every era from 1600 on wants a documented individual the researcher must name.*
 - **filled 2026-09-27 (T-265r):** philip-ratcliffe and rebecca-nurse (1600s, replacing the Salem defendant slot); quack-and-cuffee (1700-1750, replacing the court-day defendant slot, SEARCHED NOT FOUND recorded); patrick-lyon (1750-1800, replacing the penitentiary-inmate slot).
-- **target (unnamed slots, eras 6-10, T-265b):** a lynching victim (1850–1900); a beat officer or wrongful-conviction victim (1900–1950); a person sentenced under a mandatory minimum (1950–2000); a person freed by DNA evidence (2000–Today).
-- **verified named:** Allan Pinkerton (1850–1900); Eliot Ness and Al Capone (1900–1950).
+- **filled 2026-09-27 (T-265b):** charles-williams (1800-1850, new); henry-smith (1850-1900, replaces the lynching-victim target); ed-johnson (1900-1950, replaces the beat-officer/wrongful-conviction target). allan-pinkerton and eliot-ness-al-capone re-sourced (PBS, FBI, TIME).
+- **target (eras 9-10, T-265c):** a person sentenced under a mandatory minimum (1950–2000); a person freed by DNA evidence (2000–Today).
+
 
 ## Cross-chapter parking log
 *(Burst rule: parks are listed in the checkpoint's TO PARK section for the director to file.)*
+- 2026-09-27 T-265b: see the checkpoint TO PARK (T-265b) list: rights-movements (Tulsa DOJ 2025), native-nations (Mankato, Osage counts), immigration (LA 1871, Rock Springs), slavery-freedom (James Knox), drugs-alcohol (Ness/Capone), work-workers (Haymarket trial).
 - 2026-09-27 T-265r: `native-nations` era 5, Conestoga killings 1763. `war` era 3, defect: Plymouth 1675 was two hanged and one shot, not three hanged. `religion` bank note: "with a knife" is a paraphrase not in Bishop.
 
 ## Open questions for the director

@@ -2903,9 +2903,11 @@ CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
 
 ### 2026-09-27 | [LOCAL] T-265b | crime-justice: full research eras 6-8 [BURST of 3+1] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-265-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage research
+RESULT: LANDED. FAIL  crime-justice / research. measured: stage=PARTIAL eras=10/10 stories=11 (v9 c0 t2) verify_tags=1 bank=21418w outline=10973w manuscript=0w validator_errors=0
+        350673 tokens, 158 tool uses, 21.0 min (opus). Eras 6-8 + bank check. Stories: Charles Williams (Eastern State no. 1), Henry Smith (burned at Paris TX 1893, no arrest; DECISIONS #2), Pinkerton, Ed Johnson (1906; conviction set aside 2000), Ness and Capone. Tulsa from the justice angle (DECISIONS #23: ~70 indicted mostly Black, only Chief Gustafson convicted, 2001 report, DOJ Jan 2025 review). McIntosh 1836, Dakota trials 1862, LA 1871, Rock Springs 1885, Haymarket, Lexow, Brown v. Mississippi, Scottsboro, Osage investigation, end of convict leasing. 2 searched-not-found. Chapter FAIL until eras 9-10. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-266b | drugs-alcohol: full research eras 6-8 [BURST of 3+1] | model opus
 STATUS: LANDED

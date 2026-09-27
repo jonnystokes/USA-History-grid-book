@@ -1,13 +1,14 @@
 # CHECKPOINT T-265 | crime-justice | full | T-265a: eras 1-5
 
-STATUS: T-265r landed (director verified: FAIL  crime-justice / research)
+STATUS: T-265b landed (director verified: FAIL  crime-justice / research)
 VERIFY: python tools/project_state.py --check crime-justice --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/crime-justice.md · research/research-crime-justice.md · workspace/crime-justice.md
 
-NOW:    T-265r finished 2026-09-27. Eras 1-5 researched and bank-checked.
-NEXT:   T-265b: eras 6-10 (seed). Open items there: 4 targets (lynching victim, beat officer/wrongful conviction, mandatory minimum, DNA exoneree), [VERIFY] Boston 1838 / NY 1845 and Miranda 1966, Pinkerton and Ness/Capone stories are marked verified but are unsourced one-liners (re-source them), parked Tulsa/Osage/McGirt/Dakota trials/Chauvin gaps. Eras 1-5 must not be changed.
+NOW:    T-265b finished 2026-09-27. Eras 6-8 researched and bank-checked.
+NEXT:   T-265c: eras 9-10 (1950-2000, 2000-today), still seed. Open: target-mandatory-minimum-person, target-dna-exonerated-person, [VERIFY] Miranda 1966; parked Wounded Knee 1973 marshals, McGirt 2020, Menendez, Proclamation 10887, felony disenfranchisement, Box 13 (1948 is era 8 but belongs to government-politics, not used), rights-movements era-10 policing park at the top of the bank. Tulsa era-10 follow-ups (survivors Viola Fletcher and Lessie Randle, the lawsuit, city actions) must be refreshed to 2026. Do not change eras 1-8. Then set every progress flag and run the research check.
+NEXT (old, for T-265b; now scoped to eras 6-8, T-265c does 9-10):   T-265b: eras 6-10 (seed). Open items there: 4 targets (lynching victim, beat officer/wrongful conviction, mandatory minimum, DNA exoneree), [VERIFY] Boston 1838 / NY 1845 and Miranda 1966, Pinkerton and Ness/Capone stories are marked verified but are unsourced one-liners (re-source them), parked Tulsa/Osage/McGirt/Dakota trials/Chauvin gaps. Eras 1-5 must not be changed.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -31,6 +32,17 @@ FAIL  crime-justice / research
 | 2 | bank check, eras 1-5 | done | PATCHes: Corwin/Corey age dispute, land (Naumkeag), 'almost no prisons', Conestoga names |
 | 3 | final for your eras: validator, research check (the chapter passes only after its second half) | done | validator 0 errors; research check FAIL on eras 6-10 only |
 
+### T-265b units (eras 6-8, burst of 3, 2026-09-27)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 4 | era 06 (1800-1850): police 1838/1845 [VERIFY], Auburn vs Pennsylvania prisons, Eastern State prisoner no. 1, Francis McIntosh lynching 1836, private executions, Michigan abolition, Cherokee Light Horse | done | bank "## Era 6" (sources: boston.gov, TIME/Potter, Wikipedia NYPD history, CultureNow, Wikipedia Auburn system + Eastern State, easternstate.org, Smithsonian, Brox/Public Domain Review, DPIC, Michigan Public, Wikipedia + UMSL + St. Louis Magazine on McIntosh, Lincoln Lyceum at abrahamlincolnonline, Library of Virginia on Turner, Cherokee Phoenix 1828 laws). Outline: 6 spans + story charles-williams (verified). [VERIFY] police cleared (NY size disputed 800 vs 1,200 recorded). Left out: NY "800" and Turner court totals are search-summary only (used with "by one count"/"accounts give"). |
+| 5 | era 07 (1850-1900): SF vigilance, Dakota trials (justice angle), draft riots, Pinkertons (re-source) and the James farm, convict leasing numbers, lynching victim target (DECISIONS #2), Chinese mob killings, Haymarket trial, Lexow/TR | done | bank "## Era 7" (Wikipedia SF vigilance; war-bank draft riots + Village Preservation for William Jones; MNHS Trials & Hanging; PBS AmEx Pinkerton; Wells Red Record (Gutenberg 14977) + BlackPast (Terry Anne Scott) + Red River Historian + Wikipedia for Henry Smith; EJI 2017; LAPL 1871; WyoHistory Rock Springs; PBS Haymarket; Encyclopedia.com + Wikipedia Lexow; Curtin EoA convict lease). Outline: 8 spans, stories allan-pinkerton (re-sourced, verified) and henry-smith (verified, replaces target-lynching-victim). SEARCHED NOT FOUND: draft-riot trials count. |
+| 6 | era 08 (1900-1950): Ed Johnson and US v. Shipp (wrongful-conviction target), Tulsa 1921 justice angle (DECISIONS #23), Osage investigation, Prohibition/Capone/Ness (re-source), FBI/Hoover, crime lab, third degree and Brown v. Mississippi, Scottsboro | done | bank "## Era 8" (US v. Shipp 214 U.S. 386 at Cornell LII, DPIC memorial page, Wikipedia; DOJ Civil Rights Division Tulsa review Jan 2025, PDF read in full, + Ellsworth OHS; FBI Osage case page + OHS Osage entry; FBI brief history + gangster era pages; FBI Capone page; TIME Untouchables; Wikipedia Ness; OJP abstract of Wickersham Report No. 11; Brown v. Mississippi 297 U.S. 278 at Cornell LII; Salter EoA Scottsboro; City of Birmingham on James Knox). Outline: 7 spans, stories ed-johnson (verified, replaces target-beat-officer-or-wrongful-conviction) and eliot-ness-al-capone (re-sourced, movie The Untouchables 1987). |
+| 7 | bank check eras 6-8, validator, project_state | done | PATCHes: Kemmler electric chair 1890 (3b definition, volts disputed 700 vs 1,000), Chicago juvenile court 1899 (children thread), Tulsa/Osage land; SEARCHED NOT FOUND: Dr. A. C. Jackson's killer. Era 7 outline got 2 spans for them. Firsts all attributed (Boston 1838 TIME/Potter; PA 1834 DPIC; Michigan 1846 Michigan Public; juvenile court WBEZ; Shipp only criminal trial DPIC/Wikipedia; Alabama last state Birmingham/Curtin). Validator 0 errors; eras 6-8 have 0 em dashes, 0 semicolons. project_state FAIL only on eras 9-10 (t2, VERIFY 1). |
+
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+
 ## SUBJECT NOTES (from the director)
 
 Registry: Crime, Police, and Justice: Crime, who enforced the law, and how punishment changed. Not: lawmaking (`government-politics`); rights campaigns (`rights-movements`)
@@ -51,6 +63,17 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 - `war` (and `native-nations` if it says the same), era 1600s, DEFECT for AUDIT-QUEUE: `outlines/war.md` says Plymouth "hanged three Wampanoag men" in June 1675. The Plymouth court record (Shurtleff, *Records of the Colony of New Plymouth*, vol. 5, pp. 167-168, archive.org/details/recordsofcolonyo05newp) says Tobias and Mattashunannamo were hanged 8 June 1675 and Wampapaquan was reprieved a month and "afterwards shott to death within the said month." The record does not name their nation. Full text: `research/research-crime-justice.md` era 3.
 - `religion`, era 1600s, bank note: its T-260 PATCH on Holder, Copeland and Rous gives "Plain words ... cut off each man's right ear with a knife." Bishop (1661) as quoted there says only "cut off by the Hangman." "With a knife" is a paraphrase; the method is not in the quoted source.
+
+## TO PARK (T-265b, 2026-09-27, for the director to file)
+
+- `rights-movements`, era 1900-1950 (lead on Tulsa, DECISIONS #23): the US DOJ Civil Rights Division review of January 2025 (PDF https://www.justice.gov/crt/media/1383756/dl): "as many as 10,000 white Tulsans," police deputized "hundreds of white residents, many of whom had been advocating for a lynching and had been drinking," 35 city blocks, "as many as 300" dead, Guard held only Black residents in camps, Dr. A. C. Jackson shot while surrendering. Full sourced text: `research/research-crime-justice.md` era 8, "Tulsa, 31 May to 1 June 1921". Their outline does not tell Tulsa yet (grep 2026-09-27).
+- `native-nations`, era 1850-1900: Mankato details from MNHS "The Trials & Hanging": commission set up 28 Sept 1862; 392 tried, 303 condemned, 16 to prison; bodies dug up by doctors before morning; Wasicuŋ, hanged by mistake, had been acquitted; Wikipedia: a year later the judge advocate general found Sibley lacked authority. Crime-justice bank era 7.
+- `native-nations` / `energy`, era 1900-1950: Osage death counts disagree: about 24 (OHS "Osage Murders"), at least two dozen (FBI), more than 60 (their own note). Their outlines say "more than 60"; add the range. Crime-justice bank era 8.
+- `immigration`, era 1850-1900: LA 24 Oct 1871 (LAPL: 18 dead, 25 indicted, 10 tried, 8 convicted, overturned) and Rock Springs 2 Sept 1885 (WyoHistory: 28 killed, no charges, ~$150,000 paid by Congress). No outline tells either (grep). Crime-justice bank era 7.
+- `slavery-freedom`, era 1900-1950: James Knox, Flat Top mine, 1924, whipped with a steel wire and put in hot water, death first called suicide (City of Birmingham); Alabama ended leasing 30 June 1928. Crime-justice bank era 8.
+- `drugs-alcohol`, era 1900-1950: for their "(target) a Prohibition agent" slot, Eliot Ness is told here as a story (eliot-ness-al-capone). Use a different person there. FBI Capone dates in crime-justice bank era 8.
+- `work-workers`, era 1850-1900: Haymarket trial facts (PBS AmEx): 7 police killed, 8 tried, 4 hanged 11 Nov 1887, Lingg suicide, Altgeld pardon June 1893. Crime-justice bank era 7.
+- `rights-movements`, era 1800-1850: Elijah Lovejoy attacked Judge Lawless's charge after the McIntosh lynching (1836) and was killed by a mob at Alton, Nov 1837. Crime-justice bank era 6.
 
 ## SALVAGE 2026-09-27 (T-265a killed by the usage limit, 12:50 reset)
 
@@ -257,3 +280,4 @@ Pages the killed agent fetched (165; re-read the useful ones rather than searchi
 - 2026-09-27 T-265r era 4 (1700-1750) DONE: bank Era 4 section (county court, debt imprisonment, convict transportation, SC slave patrols, Virginia 1723 trial act primary text, 1741 trials from Horsmanden's journal). Outline: 5 spans + story quack-and-cuffee (ordinary, verified) replacing target-court-day-defendant (SEARCHED, NOT FOUND recorded for a county-court defendant). progress=researched. Validator 0 errors, 0 em dashes, 0 semicolons in era 4.
 - 2026-09-27 T-265r era 5 (1750-1800) DONE: bank Era 5 section (Sullivan and Seider from parked items, Boston Massacre trials from NPS, Conestoga 1763 from Goode and Franklin's Narrative primary, Pennsylvania 1786 wheelbarrow law and Ann Warder's diary, Walnut Street 1790 from Anderson and Shapiro HLR 2019, Patrick Lyon from Carpenters' Company and Wikipedia, Bill of Rights from National Archives). [VERIFY] Walnut Street 1790 cleared. Outline: 6 spans + story patrick-lyon (ordinary, verified) replacing target-early-penitentiary-inmate. progress=researched. Validator 0 errors, eras 1-5 have 0 em dashes and 0 semicolons.
 - 2026-09-27 T-265r Unit 2 bank check eras 1-5 DONE (see table). Unit 3: validator 0 errors. project_state: FAIL stage=PARTIAL stories=10 (v6 c0 t4) verify_tags=2 bank=11791w outline=5607w. Remaining targets and VERIFY tags are all in eras 6-10.
+- 2026-09-27 T-265b eras 6, 7, 8 DONE and bank check DONE (see T-265b units table). Stories added: charles-williams, henry-smith, ed-johnson; re-sourced allan-pinkerton, eliot-ness-al-capone. project_state: FAIL stage=PARTIAL stories=11 (v9 c0 t2) verify_tags=1 bank=21418w outline=10973w (before the bank-check spans). Remaining gaps all in eras 9-10.
