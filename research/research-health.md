@@ -55,3 +55,9 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `america-world` (2026-09-27, T-254)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
 - **health, era 1900-1950 and 1950-2000:** the Puerto Rico Law 116 sterilization material. Copy the bank section "PATCH 2026-09-27 (T-254): sterilization of Puerto Rican women (\"la operación\")" from research/research-america-world.md (sources: HNN / Jaquira Díaz; DIG podcast with Briggs and López cited). Health owns the medicine and clinics; america-world keeps the US-appointed-government angle.
+
+## Parked from `big-business` (2026-09-27, T-256b)
+Full sourced text is in `research/research-big-business.md`, era 09 "PATCH ... companies that knew their product harmed people" and era 10 "fraud and harm".
+- **1950-2000:** "A Frank Statement to Cigarette Smokers", 4 January 1954, in more than 400 newspapers, designed by Hill & Knowlton to dispute the studies linking smoking to lung cancer (Wikipedia). Brown & Williamson counsel Addison Yeaman's memo of 17 July 1963 (PBS FRONTLINE). Seven tobacco company heads testified on 14 April 1994 that nicotine is not addictive (hearing transcript, UCSF). Master Settlement Agreement, 23 November 1998, 46 states, at least $206 billion over 25 years. Bhopal, 3 December 1984, at least 3,800 dead (Broughton 2005). Johns-Manville bankruptcy, August 1982 (Manville Trust).
+- **2000-today:** Judge Gladys Kessler's ruling of 17 August 2006 that the tobacco companies violated civil racketeering law.
+- **Not in any bank as of this date:** the bodily course and death counts of smoking-caused disease and of asbestos disease. Those are yours.

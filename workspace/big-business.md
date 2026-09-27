@@ -48,6 +48,7 @@ Companion files: outline `outlines/big-business.md` · research bank `research/r
 
 ## Cross-chapter parking log
 *(none recorded in the seed)*
+- 2026-09-27 T-256b: parked to `research-drugs-alcohol.md` (Purdue Pharma, company side) and `research-health.md` (tobacco industry 1954-2006, Bhopal, Johns-Manville). Both under "Parked from `big-business` (2026-09-27, T-256b)".
 
 ## Open questions for the director
 - The merge of the old Ch12 (Corporation Sizes) and Ch13 (Corporate and Political Conflicts) is done in this seed. Confirm the combined shape before research.

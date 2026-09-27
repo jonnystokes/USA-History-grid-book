@@ -2711,9 +2711,18 @@ RESULT: DONE. Units 1-3 landed. big-business already PASSES patch (bank 409 -> 1
         lacks (left for the writers). T-256b still needed: eras 8-10 stories have no bank behind them yet.
 
 ### 2026-09-27 | [LOCAL] T-256b | big-business: bank write-up + checks, eras 8-10, final | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-256-big-business.md (units 4-6)
 VERIFY: python tools/project_state.py --check big-business --stage patch (and --stage research)
+RESULT: DONE. PASS big-business / patch and / research. stories 14 (v14 c0 t0), bank 14,209 -> 25,538w, outline
+        7,228 -> 8,669w, validator 0. 410,462 tokens, 209 tool uses, 26.1 min (opus).
+        Eras 8-10 written up with CORRECTION notes: Taft's suits 75-99 (not 90), Standard Oil into 34, AT&T kept $34B,
+        Walmart ~2.5x GM's peak, super PAC figures (Brennan Center), U.S. Steel "first billion" only by stock issued.
+        Two self-referencing sentences removed. Added: La Follette committee, tobacco 1954-2006, Johns-Manville,
+        GM and Nader, Bhopal, Enron, Purdue Pharma, tech antitrust cases (Amazon trial 29 Mar 2027). SEARCHED NOT
+        FOUND: 1. Parked to drugs-alcohol and health (both validate 0).
+        The agent ended with a background process still open. The director stopped it (TaskStop) after its files
+        landed, so it could not write into health or drugs-alcohol during the ten-agent batch.
 NOTE (Jon, while T-256b runs): the 5-hour window reset to 0%. After T-256b, launch TEN agents at once (one
 batch), then return to one at a time. Checkpoints for the batch prepared: T-257 exploration (full, all eras),
 T-258 government-politics (bank check, all eras), T-259a war 1-5, T-260a religion 1-5, T-261a education 1-5,

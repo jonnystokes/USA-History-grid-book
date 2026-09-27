@@ -17,3 +17,7 @@
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `health` and `drugs-alcohol`, 1850-1900: Mrs. Winslow's Soothing Syrup, from 1849 (Jeremiah Curtis, Benjamin A. Perkins), ~65 mg morphine per fl oz, AMA 1911 "baby killer," morphine removed after 1906 law, sold to 1930s (Canadian Museum of Health Care, July 28, 2017). SEARCHED NOT FOUND: death count.
+
+## Parked from `big-business` (2026-09-27, T-256b)
+Full sourced text is in `research/research-big-business.md`, era 10, "PATCH 2026-09-27 (T-256b): fraud and harm at the largest companies".
+- **2000-today (and 1950-2000 for OxyContin's launch):** Purdue Pharma pleaded guilty in May 2007 to misleading the public about OxyContin's addiction risk and paid $600 million; its president Michael Friedman, top lawyer Howard R. Udell and former chief medical officer Paul D. Goldenheim pleaded guilty as individuals to misbranding and paid $34.5 million (Wikipedia, "Purdue Pharma"). On 24 November 2020 the company pleaded guilty to three federal felonies (conspiracy to defraud the United States, two counts of conspiracy to violate anti-kickback law); no Sackler was charged (same). On 16 June 2025, 55 attorneys general joined a $7.4 billion settlement with Purdue and the Sackler family (New York Attorney General press release). `big-business` tells the company side; the overdoses and the people are yours.
