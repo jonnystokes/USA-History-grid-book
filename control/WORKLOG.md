@@ -2867,3 +2867,5 @@ VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-259-war.md
 VERIFY: python tools/project_state.py --check war --stage research
+NOTE (Jon, 20% usage): BURST OF 5 = T-263r health (already running; messaged to switch to TO PARK) + T-264r, T-265r,
+T-266r, T-259b. Then back to one at a time.
