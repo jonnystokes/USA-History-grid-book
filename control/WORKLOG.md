@@ -2588,7 +2588,17 @@ RESULT: DONE. PASS landmarks / patch and / research. stories 17 (v17 c0 t0), ban
 USAGE END (T-249): 22% (Jon). 16% -> 22% (includes director close and T-250 prep, marked +).
 
 ### 2026-09-27 | [LOCAL] T-250 | work-workers: patch (2 targets, 10 parked sections) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-250-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage patch (and --stage research)
 USAGE AT START: 22% (Jon).
+RESULT: DONE. PASS work-workers / patch and / research. stories 17 (v17 c0 t0), bank 8,486 -> 16,929w, outline
+        4,123 -> 6,280w, validator 0. 341,392 tokens, 154 tool uses, 18.0 min (opus).
+        Stories: Frank Lumpkin (Wisconsin Steel, 1980; $17M of $40M won), Raef Lawson (Grubhub; 2023 ruling,
+        $24.75M settlement 2026). Avoided Dickey, Neufeldt (economy) and Berwick (transportation).
+        Ten parked sections folded into eras 06-10. Bank check: 1877 strike, Haymarket, Pullman, Homestead,
+        Lattimer, Lawrence, Ludlow, Memorial Day 1937, Duffy's Cut, Monongah, Hawks Nest (109 to ~1,000),
+        Upper Big Branch, child labor 1890-1910 and Hammer v. Dagenhart, 2023 meatpacking children, runaway
+        servants, braceros, pesticides, heat deaths, Amazon injuries, wage theft, Martin's Hundred and Lowell land.
+        Radium Girls audit item resolved (AUDIT-QUEUE note added). SEARCHED NOT FOUND: 3. Several facts tagged
+        unconfirmed (search summary only). Parked to disasters and health (both validate 0).

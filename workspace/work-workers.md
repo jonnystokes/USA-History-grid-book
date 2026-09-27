@@ -30,6 +30,11 @@ Companion files: outline `outlines/work-workers.md` · research bank `research/r
 | Memphis sanitation strike, 1968 | the job, Cole and Walker's deaths, the strike | `rights-movements` (the campaign and Dr. King, lead on King — parked there) |
 | Chavez, Huerta, Itliong / UFW | the strike, the boycott, the union | `food-farming` (farm labor in the food system) · `rights-movements` (as a movement) |
 | Plant closings / offshoring | the laid-off worker | `big-business` (corporate decisions) · `economy` (the macro shift) |
+| Ludlow 1914, Monongah 1907, Avondale 1869, Upper Big Branch 2010 | the miners' job, strike and deaths | `energy` (the coal, lead on the fuel) · `disasters` |
+| Hawks Nest tunnel 1930-32 | the tunnel workers and the disputed count | `disasters` · `health` (silicosis) · `energy` |
+| Bracero program 1942-64 | the work, the DDT, the 10 percent withheld | `immigration` (Antonio Garcia, lead on arrival) |
+| Wisconsin Steel closing 1980 | Frank Lumpkin, the laid-off workers | `economy` (Rust Belt, told through Gerald Dickey) |
+| App-driver classification | Raef Lawson, pay and employee status | `transportation` (Barbara Ann Berwick, the car and its costs) |
 | Mohawk high-steel workers | the trade (Native continuity past 1900) | `landmarks` (the structures; their slug `mohawk-high-steel-worker`) |
 
 ## Famous names check (must appear — completeness first)
@@ -50,7 +55,7 @@ Companion files: outline `outlines/work-workers.md` · research bank `research/r
 
 ## Featured people — final roster
 *Verified:* Richard Frethorne (1600s, ordinary) · Benjamin Franklin (1700–1750, famous; Benjamin Franklin (2022)) · Harriet Hanson Robinson (1800–1850, ordinary) · Samuel Gompers (1850–1900, famous) · Eugene V. Debs (1850–1900, famous; American Socialist (2017)) · Jennie Curtis (1850–1900, ordinary) · Mother Jones (1900–1950, famous) · Rose Rosenfeld Freedman (1900–1950, ordinary) · Frances Perkins (1900–1950, famous; Summoned (2020)) · Addie Card (1900–1950, ordinary) · Grace Fryer (1900–1950, ordinary; Radium Girls (2018) — drama about the case, not a biography) · Naomi Parker Fraley (1900–1950, ordinary) · A. Philip Randolph (1900–1950, famous; 10,000 Black Men Named George (2002) + For Jobs and Freedom (1996 doc)) · Chavez & Huerta (1950–2000, famous; Cesar Chavez (2014) · Dolores (2017)) · Chris Smalls (2000–today, ordinary, journalism-labeled; Union (2024)).
-*Targets remaining:* a laid-off steel/auto worker (1950–2000; leads: Youngstown 1977 oral histories, Terkel's *Working* 1974, *Roger & Me* 1989) · a documented app driver (2000–today; label the journalism when chosen).
+*Targets filled 2026-09-27 (T-250):* Frank Lumpkin (`frank-lumpkin`, 1950-2000, ordinary; Wisconsin Steel closing 1980; chosen because `economy` tells Gerald Dickey and Ed Neufeldt) · Raef Lawson (`raef-lawson`, 2000-today, ordinary; Grubhub driver, court record; chosen because `transportation` tells Barbara Ann Berwick). No targets remain.
 
 ## [VERIFY] queue — all cleared 2026-08-07
 - [x] Philadelphia printers' strike 1786 — **verified**: first *authenticated* strike, $6/week won, first strike fund; 1768 NY tailors dispute stated (DOL chronology; ExplorePAhistory).
@@ -70,7 +75,8 @@ class and poverty (**central**) · children (**central** — doffers, breaker bo
 - **The 1500s — thin.** Only forced work to report; hand the enslavement itself to `slavery-freedom`.
 - **1750–1800 — thin at story zoom.** The printers (1786) and cordwainers (1794) carry it; no verified individual worker account found. Franklin sits in era 04 by the boundary rule (apprenticeship 1718–1723).
 
-## Cross-chapter parking log (all filed 2026-08-07)
+## Cross-chapter parking log (filed 2026-08-07; additions 2026-09-27)
+- 2026-09-27 (T-250): `research/research-disasters.md` and `research/research-health.md`: Hawks Nest tunnel pointer (e-WV, Cherniack).
 - `research/research-holidays.md` (created) — Labor Day: first parade Sept 5, 1882 NYC; federal holiday signed June 28, 1894, during Pullman.
 - `research/research-rights-movements.md` — Memphis sanitation strike 1968 (their King angle) · Clara Lemlich / Uprising of the 20,000 (women organizing).
 - `research/research-transportation.md` — the June 25, 1867 Chinese Central Pacific strike (adds the strike to their existing labor-force material).

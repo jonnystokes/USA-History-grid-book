@@ -230,3 +230,13 @@ will be worded differently, which is exactly why a search will not find it.
   "deliberately omitted". Both are overruled by DECISIONS #15. The outline still lists
   `jewish-refugees-1654` as an hb-story, but the prose now tells it as a span (DECISIONS #16).
 
+
+---
+
+## Notes added during step 1 (2026-09-27)
+
+- **Radium Girls audit item** (parked in `research/research-elements.md` as "AUDIT ITEM parked from
+  `rights-movements` era 8"): T-250 resolved it in `research/research-work-workers.md` era 08
+  PATCH from the National Archives (1928 settlement: $10,000, some sources $15,000; $600 annuity;
+  medical costs; June 8, 1928. Donohue dates corrected). The audit should carry the corrected
+  facts into `elements` and `rights-movements` wherever they differ.

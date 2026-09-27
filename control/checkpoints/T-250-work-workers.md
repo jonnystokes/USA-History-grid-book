@@ -1,13 +1,13 @@
 # CHECKPOINT T-250 | work-workers | patch + bank check | eras 1-10
 
-STATUS: IN-FLIGHT
+STATUS: DONE (director verified: patch PASS, research PASS)
 VERIFY: python tools/project_state.py --check work-workers --stage patch   (and --stage research)
 BRIEF:  control/briefs/RESEARCH.md, MODE patch
 MODEL:  opus
 FILES:  outlines/work-workers.md · research/research-work-workers.md · workspace/work-workers.md
 
-NOW:    (agent sets this)
-NEXT:   Unit 1.
+NOW:    finished
+NEXT:   director: commit. Later audit: see OPEN.
 
 ## Measured before dispatch (2026-09-27)
 
@@ -33,11 +33,11 @@ hb-story block is removed). Keep slugs unique across the book.
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 1 | the two target stories | todo | |
-| 2 | fold in the parked sections that serve this chapter (ten are listed at the end of the bank) | todo | |
-| 3 | bank check, eras 1-5 | todo | |
-| 4 | bank check, eras 6-10 | todo | |
-| 5 | final: flags, validator, both checks | todo | |
+| 1 | the two target stories | done | `frank-lumpkin` (era 09, Wisconsin Steel 1980) and `raef-lawson` (era 10, Grubhub) written, verified, bank PATCHes under eras 09 and 10. --stage patch PASS. |
+| 2 | fold in the parked sections that serve this chapter (ten are listed at the end of the bank) | done | pointer PATCHes eras 06-10, outline span bullets added |
+| 3 | bank check, eras 1-5 | done | 02 Acoma pointer, 03 servants/runaways/Martin's Hundred land |
+| 4 | bank check, eras 6-10 | done | see Log; perishables refreshed |
+| 5 | final: flags, validator, both checks | done | all progress=researched, validator 0, patch PASS, research PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -63,13 +63,24 @@ figures). Date each figure and refresh to 2026 where a newer official figure exi
 default source).
 
 ## Sources in hand
+- Ninth Circuit, Lawson v. Grubhub, 13 F.4th 908 (2021) PDF, cdn.ca9.uscourts.gov: Lawson's hours, blocks, termination, procedural history.
+- govinfo.gov USCOURTS-cand-3_15-cv-05128-18 (Dkt. 449, March 13, 2026): 2023 ABC ruling, $24.75M settlement terms.
+- Gizmodo March 31, 2023 ($65.11); Courthouse News July 30, 2026 (final approval, 60,000 drivers, $10,000 award).
+- Chicago History Museum finding aid (CARLI): Lumpkin 1916-2010, closed March 28 1980, $14.5M 1988. CPL blog 2025: 3,300 workers, bounced checks, $17M of $40M. People's World obituary 2010 (partisan, labeled). Chicago History Museum blog 2024 (600 dead by 1987).
 
 ## Gaps researched
 
 ## OPEN (should be rare)
+- Several facts carry (unconfirmed: search summary only): 1877 national toll ~100, Hammer 5-4 vote and sons' names, Lawrence LoPizzo details, UFW pesticide contract dates, minimum-wage 2009 date (no DOL page opened), Amazon's response. Audit may confirm.
+- Hawks Nest: company count 109 is search-summary only.
 
 ## Outline claims left out
 
 ## Decisions and defects fixed
+- Radium Girls AUDIT ITEM (from rights-movements) resolved: National Archives blog confirms $10,000 (some sources $15,000), $600 annuity, medical costs, Settlement Agreement June 8, 1928. Donohue: collapse Feb 10 1938, award April 5, appeal thrown out July 6, died July 27, final victory Oct 1938.
+- Era 10 union figure updated to 2025 (10.0%, 14.7M); OSHA line updated to CFOI 2024 (5,070). Era 10 self-referential 'current through 2026' lines removed.
 
 ## Log
+- 2026-09-27 Bank PATCHes now in eras 02, 03, 06, 07, 08, 09, 10 (unit 2 folds + units 3/4 bank check). Perishables refreshed: BLS union 2025 (10.0%, 14.7M), CFOI 2024 (5,070), heat rule status, Starbucks/ALU 2026. Next: outline spans for the new material, then unit 5.
+- 2026-09-27 Units 2+4 merged by era: era 07 and era 08 PATCHes written to bank (parked items folded; 1877 strike, Haymarket/Pullman actors, Lattimer, child-labor numbers; Lawrence, Keating-Owen/Hammer, Hawks Nest, Memorial Day 1937, braceros 10%, Radium audit item RESOLVED via National Archives). Next: eras 09, 10, then 01-06, then outline spans.
+- 2026-09-27 Unit 1 done. Barbara Berwick not reused (transportation's). Dickey/Neufeldt avoided (economy's).
