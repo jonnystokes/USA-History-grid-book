@@ -3139,3 +3139,8 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `exploration` (2026-09-27, T-257)
 Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
 - `rights-movements`, eras 08-09: credit-denied dates: Henson Explorers Club life member 1937 (first African American), medal 1944, Arlington 1988, Hubbard Medal 2000; Katherine Johnson "Colored Computers" office, Glenn's demand 1962, Medal of Freedom 2015; Sally Ride first astronaut known to be LGBTQ (obituary 2012).
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `rights-movements`, era 8: Houston 1917 (19 Black soldiers hanged, convictions set aside 2023; VA NCA); Port Chicago (320 dead, 202 Black sailors, 50 convicted, exonerated 17 Jul 2024; NPS); Isaac Woodard (SC Encyclopedia). PATCHes of those names.

@@ -57,10 +57,10 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (T-259a: none required; FILED 2026-09-27)
 - None required. Shared-angle notes left in the war bank itself: Desire captives and Frank/Parthena (slavery-freedom), Deer Island (native-nations), Fort Pitt blankets (native-nations tells Pontiac's War). The director may copy a pointer line to research-slavery-freedom.md (era 3: the Desire, 1637-38, 17 Pequot captives traded for enslaved Africans, NPS "The DESIRE and the Beginnings of the Massachusetts Slave Trade") and to research-native-nations.md (era 3: Deer Island internment 1675-76, NPS "Deer Island").
 
-## TO PARK (T-259b, eras 6-10; NOT yet filed, for the director)
+## TO PARK (FILED by the director, 2026-09-27)
 Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
 - `native-nations`, era 6: Creek War, Horseshoe Bend (800+ Red Sticks killed, 557 counted + ~300 shot in the river; Treaty of Fort Jackson 21M vs 23M acres; Encyclopedia of Alabama). Bad Axe 1-2 Aug 1832 (MTU; Ford: 150 killed + as many drowned; Sioux killed survivors). NPS Osceola: Jesup ordered the truce-flag seizure; "for every four Seminoles deported, the US Army killed one Seminole." PATCHes "Creek War", "Osceola's capture", "Black Hawk War".
 - `native-nations`, era 7: Sand Creek soldiers' side (Soule/Cramer letters, Soule murdered 23 Apr 1865, Joint Committee quote; The Conversation, NPS "John Chivington"); Bear River 29 Jan 1863, 250-500 Shoshone, Connor promoted (Smithsonian, 28 Jul 2026); Marias 23 Jan 1870, Baker, 37 men/90 women/50 children by best estimate vs Army 173 (HISTORY). PATCHes "Sand Creek" and "Bear River ... Marias".

@@ -498,3 +498,20 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
 - `slavery-freedom`, era 4: John Ury, one of the white men hanged in 1741, was hanged as a supposed Catholic priest on 29 Aug 1741 (American Heritage 1974). Religion bank end of ERA 4.
 - `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+- `native-nations` and `slavery-freedom`, era 1600s: Great Southeastern Smallpox Epidemic 1696-1715 spread by Indian slave raiders along trading paths (Wikipedia "Mississippian shatter zone", Kelton). Health era 03 PATCH.
+- `slavery-freedom`, era 1750-1800: Doctor Caesar freed by the South Carolina Commons House (vote Nov 1749, ratified 31 May 1750, £500 to John Norman, £100 a year), his wife Lilly and daughter Hannah left enslaved, and the 1751 law barring enslaved "doctors" from giving medicine (Butler 2021, CCPL). Health era 05 bank.
+- `slavery-freedom` and `war`, era 1750-1800: disease in Dunmore's Ethiopian Regiment, about 500 Black soldiers dead on Gwynn's Island 1776 (Encyclopedia Virginia, Lawler 2025). Health era 05 bank.
+- `slavery-freedom`, era 1700-1750: Onesimus's 1716 release terms (Obadiah bought as his replacement, continued unpaid work). Health era 04 bank.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+- `slavery-freedom`, era 04: date dispute for the first 1741 fire. Its bank says Fort George burned March 8, 1741. Wikipedia, "New York Conspiracy of 1741", says March 18, 1741, and counts 13 fires in March and April.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `slavery-freedom`, 1750-1800: six enslaved distillers at Mount Vernon (Hanson, Peter, Nat, Daniel, James, Timothy), 1797-99; Washington's liquor ration to enslaved workers and the overseer James Butler; enslaved people helping defend Neville's Bower Hill and the burning of its slave quarters 17 July 1794. Bank era 05.

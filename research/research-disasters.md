@@ -329,3 +329,8 @@ Web-verified 2026-08-08, sourcing in `research/research-landmarks.md`. `landmark
 
 ## Parked from `work-workers` (2026-09-27, T-250): Hawks Nest tunnel, 1930 to 1932
 - Union Carbide's tunnel near Gauley Bridge, West Virginia, dug largely 1930 to 1932 by contractor Rinehart and Dennis of Charlottesville, Virginia, through high-grade silica sandstone with no dust control and no breathing protection. Almost 5,000 workers, a majority of them migrant Black men from the South. Death counts: 109 (Union Carbide's own reports, unconfirmed: search summary only), 476 (U.S. House hearings, 1936), "as many as 764" (Martin Cherniack, 1986), "close to 1,000" (NIOSH, 2002). 538 lawsuits settled out of court for $200,000, awards $30 to $1,600. (Martin G. Cherniack, "Hawks Nest Tunnel Disaster," e-WV: The West Virginia Encyclopedia, opened 2026-09-27.) `work-workers` tells the job and the count. Your angle: the event (`disasters`) or silicosis as disease (`health`). Full text in `research/research-work-workers.md`, era 08 PATCH.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `disasters`, era 8: Port Chicago explosion 17 Jul 1944, 320 killed (NPS).

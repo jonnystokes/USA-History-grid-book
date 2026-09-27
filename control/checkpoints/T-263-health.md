@@ -48,7 +48,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 
 RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
 

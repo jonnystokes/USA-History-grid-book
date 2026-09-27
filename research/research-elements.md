@@ -511,3 +511,8 @@ seen before. Mechanism: "Radium, which is in the same alkaline earth family as c
 taken up in the hydroxy apatite of growing bones and teeth"; results were "aplastic anemia,
 necrosis of the jaw, and osteosarcomas"; autopsies found **99 percent of the radioactivity in the
 skeleton**; measured body burdens ran **1 to 180 micrograms**. (PMC10046820.)
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).

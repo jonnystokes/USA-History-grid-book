@@ -871,3 +871,18 @@ unconfirmed: search summary only. `marketplace` tells the shooting. This chapter
 ## Parked from `religion` (2026-09-27, T-260)
 Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `crime-justice` / `government-politics`, era 7: NYC draft riots, 119 official dead, Colored Orphan Asylum burned (NYHS); William Jones lynched (CUNY project, unconfirmed). PATCH "the Civil War draft".
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+- `city-building` or `crime-justice`, era 1750-1800: the Doctors' Riot, New York, April 1788, the Black New Yorkers' February 1788 petition about the Negroes Burial Ground, up to 20 dead, and the 1789 anatomy law (Lovejoy 2014, Smithsonian). Health era 05 bank.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `government-politics` and `crime-justice`, 1750-1800: United States v. Vigol, 2 Dall. 346 (1795), facts of the case, Justice Paterson's charge on duress; the "Dreadful Night" raids of 13 Nov 1794 under Henry Lee (captives barefoot in nightclothes, held in floorless animal pens, at least one died); 20 prisoners paraded in Philadelphia 25 Dec 1794; pardons Nov 1795 (2 Nov or 14 Nov). Bank era 05, Whiskey Rebellion and Vigol sections, plus BANK CHECK PATCH on Lee.

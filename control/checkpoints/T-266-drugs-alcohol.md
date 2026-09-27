@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `religion`, 1750-1800: Handsome Lake (Seneca), visions of 1799, stopped drinking, preached against drunkenness, Code of Handsome Lake / Longhouse Religion still practiced (Wikipedia "Handsome Lake"). Bank era 05, "Native nations and the liquor trade, 1750 to 1800".
 - `native-nations`, 1700-1750: Tomochichi (Yamacraw) asked Oglethorpe and the Trustees in 1734 to forbid the sale of rum (Georgia Encyclopedia exhibition "Wrestling Temptation"). Bank era 04, "Georgia bans rum, 1735 to 1742". Also 1750-1800: Hagler (Catawba) 1754 quote. Bank era 05.

@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - `native-nations`, era 1750-1800: the Conestoga killings of 14 and 27 December 1763 (Paxton men; 20 dead; names from Franklin's 1764 *Narrative*; no one prosecuted). Not told anywhere in the outlines. Full sourced text: `research/research-crime-justice.md` era 5, "The Conestoga killings" and the Franklin PATCH. native-nations should lead the people and Pontiac's War.
 

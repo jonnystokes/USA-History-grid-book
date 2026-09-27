@@ -3140,3 +3140,13 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `religion` (2026-09-27, T-260)
 Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
 - `war`, era 5: second source for its Gnadenhutten PATCH (T-259a asked for one): Eric Sterner, Journal of the American Revolution, Feb 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/ : Williamson, 100-200 militia, "sixteen or eighteen" refused, 62 adults and 34 children killed with a mallet, then scalped. Details in religion bank end of ERA 5.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+- `slavery-freedom` and `war`, era 1750-1800: disease in Dunmore's Ethiopian Regiment, about 500 Black soldiers dead on Gwynn's Island 1776 (Encyclopedia Virginia, Lawler 2025). Health era 05 bank.
+- `war`, era 1750-1800: Washington's order of 6 February 1777 to inoculate the Continental Army (American Battlefield Trust). Health era 05 bank.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `war` (and `native-nations` if it says the same), era 1600s, DEFECT for AUDIT-QUEUE: `outlines/war.md` says Plymouth "hanged three Wampanoag men" in June 1675. The Plymouth court record (Shurtleff, *Records of the Colony of New Plymouth*, vol. 5, pp. 167-168, archive.org/details/recordsofcolonyo05newp) says Tobias and Mattashunannamo were hanged 8 June 1675 and Wampapaquan was reprieved a month and "afterwards shott to death within the said month." The record does not name their nation. Full text: `research/research-crime-justice.md` era 3.

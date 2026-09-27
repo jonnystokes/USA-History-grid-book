@@ -333,3 +333,12 @@ Ch3 covers *the movement* (from where, to where, numbers, how they traveled); ho
 Not your lead, but the DOJ's 2015 Ferguson report is a rare federal document describing how a small
 American city actually paid for itself, and `city-building` may want it. Full quotations are in
 `research/research-crime-justice.md` under the same date.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+- `city-building` or `crime-justice`, era 1750-1800: the Doctors' Riot, New York, April 1788, the Black New Yorkers' February 1788 petition about the Negroes Burial Ground, up to 20 dead, and the 1789 anatomy law (Lovejoy 2014, Smithsonian). Health era 05 bank.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+- `city-building`, era 04: Boston's Board of Fire Wards, 12 men, appointed months after the October 2-3, 1711 fire (Boston Public Library, "Great Fires of Boston" guide, https://guides.bpl.org/bostonfires). Charleston's elected "firemasters", whose orders at a fire had the force of law (Halsey Map Preservation Society, "1740 (November 18) Fire", http://www.halseymap.com/flash/window.asp?HMID=37).

@@ -2622,3 +2622,14 @@ Source: Cornell LII, 383 U.S. 663 — https://www.law.cornell.edu/supremecourt/t
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `government-politics` and `crime-justice`, 1750-1800: Christopher Seider shot Feb 22, 1770 by customs informer Ebenezer Richardson at Theophilus Lillie's shop; Richardson convicted of murder Apr 21, 1770, judges delayed sentence (Colonial Society of Mass., Hutchinson correspondence vol. 3; "Trial of Ebenezer Richardson").
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `crime-justice` / `government-politics`, era 7: NYC draft riots, 119 official dead, Colored Orphan Asylum burned (NYHS); William Jones lynched (CUNY project, unconfirmed). PATCH "the Civil War draft".
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `government-politics` and `crime-justice`, 1750-1800: United States v. Vigol, 2 Dall. 346 (1795), facts of the case, Justice Paterson's charge on duress; the "Dreadful Night" raids of 13 Nov 1794 under Henry Lee (captives barefoot in nightclothes, held in floorless animal pens, at least one died); 20 prisoners paraded in Philadelphia 25 Dec 1794; pardons Nov 1795 (2 Nov or 14 Nov). Bank era 05, Whiskey Rebellion and Vigol sections, plus BANK CHECK PATCH on Lee.
+- `government-politics`, 1700-1750: Virginia's 1705 election law and the "dry" weeks; Boston's General Court meeting at Vardy's tavern after the 1747 town-house fire. Bank era 04.

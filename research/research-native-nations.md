@@ -551,3 +551,26 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
 - **native-nations, era 1600s: Deer Island, 1675-76.** No outline in the book tells it. Sourced text is in `research/research-education.md` era 3, "PATCH 2026-09-27 (T-261a): what happened to the people of the praying towns in 1675 (Deer Island)": order 13 Oct 1675 by Massachusetts authorities, Natick people ferried 30 Oct 1675, about 500 to 1,100 interned, mostly women and children (NPS, https://www.nps.gov/places/deer-island.htm), more than half died over the winter (historicbostons.org), survivors released May 1676, an unknown number sold into slavery in the West Indies or Tangier (NPS).
 - **native-nations, eras 1500s-1700-1750: the Timucua.** 200,000 in the 1500s to about 2,000 by the 1650s, epidemics, Carolina slave raids, all survivors taken to Cuba after 1763, last died 1767 (Matthew Holt Jennings, Dictionary of American History, https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/timucua). Also the 1572 Spanish hanging of Paquiquineo's people (Encyclopedia Virginia). Copy from the education bank era 2 patch.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `native-nations`, era 6: Creek War, Horseshoe Bend (800+ Red Sticks killed, 557 counted + ~300 shot in the river; Treaty of Fort Jackson 21M vs 23M acres; Encyclopedia of Alabama). Bad Axe 1-2 Aug 1832 (MTU; Ford: 150 killed + as many drowned; Sioux killed survivors). NPS Osceola: Jesup ordered the truce-flag seizure; "for every four Seminoles deported, the US Army killed one Seminole." PATCHes "Creek War", "Osceola's capture", "Black Hawk War".
+- `native-nations`, era 7: Sand Creek soldiers' side (Soule/Cramer letters, Soule murdered 23 Apr 1865, Joint Committee quote; The Conversation, NPS "John Chivington"); Bear River 29 Jan 1863, 250-500 Shoshone, Connor promoted (Smithsonian, 28 Jul 2026); Marias 23 Jan 1870, Baker, 37 men/90 women/50 children by best estimate vs Army 173 (HISTORY). PATCHes "Sand Creek" and "Bear River ... Marias".
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
+- `native-nations`, era 1750-1800: Fort Pitt smallpox attempt, 24 June 1763 (Ecuyer and Trent gave Turtle's Heart and Mamaltee two blankets and a handkerchief from the smallpox hospital; Amherst's and Bouquet's July letters; effect unknowable per Fenn). Full sourced text: research/research-health.md, era 05, "Smallpox as a weapon at Fort Pitt". Not in their outline as of 2026-09-27.
+- `native-nations`, era 1700-1750: Cherokee and Catawba smallpox 1738-39, 7,000-10,000 Cherokee dead (NCpedia), carriers disputed. Health era 04 bank.
+- `native-nations` and `slavery-freedom`, era 1600s: Great Southeastern Smallpox Epidemic 1696-1715 spread by Indian slave raiders along trading paths (Wikipedia "Mississippian shatter zone", Kelton). Health era 03 PATCH.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `native-nations`, era 1750-1800: the Conestoga killings of 14 and 27 December 1763 (Paxton men; 20 dead; names from Franklin's 1764 *Narrative*; no one prosecuted). Not told anywhere in the outlines. Full sourced text: `research/research-crime-justice.md` era 5, "The Conestoga killings" and the Franklin PATCH. native-nations should lead the people and Pontiac's War.
+- `war` (and `native-nations` if it says the same), era 1600s, DEFECT for AUDIT-QUEUE: `outlines/war.md` says Plymouth "hanged three Wampanoag men" in June 1675. The Plymouth court record (Shurtleff, *Records of the Colony of New Plymouth*, vol. 5, pp. 167-168, archive.org/details/recordsofcolonyo05newp) says Tobias and Mattashunannamo were hanged 8 June 1675 and Wampapaquan was reprieved a month and "afterwards shott to death within the said month." The record does not name their nation. Full text: `research/research-crime-justice.md` era 3.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `native-nations`, 1700-1750: Tomochichi (Yamacraw) asked Oglethorpe and the Trustees in 1734 to forbid the sale of rum (Georgia Encyclopedia exhibition "Wrestling Temptation"). Bank era 04, "Georgia bans rum, 1735 to 1742". Also 1750-1800: Hagler (Catawba) 1754 quote. Bank era 05.

@@ -3898,3 +3898,17 @@ Interior's *Federal Indian Boarding School Initiative Investigative Report, Volu
 - **The Ghost Dance as a religious movement:** Wovoka, a Northern Paiute man from the Walker Lake country of Nevada, had a vision during the solar eclipse of **January 1, 1889** — ethical living, peace, and a round dance that would reunite the living with the dead and restore the world. The religion spread across the Plains reservations in 1889–90; fear of it (stoked by agents and newspapers) led to Sitting Bull's killing (Dec 15, 1890) and the Wounded Knee massacre (Dec 29, 1890). `native-nations` leads on the events; religion can treat the belief itself — a revitalization religion born in catastrophe. (Sources: Britannica "Wovoka"; EBSCO "The Messiah Letter"; PBS American Experience "The Lakota Ghost Dance.")
 - **The Pueblo Revolt (August 10, 1680) as a revolt against forced conversion:** led by a religious leader (Po'pay, Tewa, Ohkay Owingeh) after decades of suppression of Pueblo ceremony; 21 Franciscan friars were killed and mission churches burned across the province; Spain was out for 12 years. Religion's angle: missions and forced conversion in the Southwest; `native-nations` leads on the revolt as politics. (Sources: Britannica "Pueblo Rebellion"; EBSCO; Indian Pueblo Cultural Center.)
 - **Boarding schools and the churches:** many federal Indian boarding schools were run or supported by religious institutions (stated in the coverage of the 2024 federal report and the presidential apology — e.g., Washington Post/CBS, Oct 25, 2024). When this chapter is worked, verify the denominational breakdown from DOI Investigative Report Vol. 2 directly. Ruling 7: religion covers religious instruction in schools; native-nations leads on the boarding-school system.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `religion`, era 8: the Hofer brothers (Hutterite COs; Joseph d. 29 Nov, Michael d. 2 Dec 1918 after Alcatraz "high cuffing"; Stoltzfus, Plough 2014). PATCH "conscientious objectors in both world wars".
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `religion`, era 1600s, bank note: its T-260 PATCH on Holder, Copeland and Rous gives "Plain words ... cut off each man's right ear with a knife." Bishop (1661) as quoted there says only "cut off by the Hangman." "With a knife" is a paraphrase; the method is not in the quoted source.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
+- `religion`, 1750-1800: Handsome Lake (Seneca), visions of 1799, stopped drinking, preached against drunkenness, Code of Handsome Lake / Longhouse Religion still practiced (Wikipedia "Handsome Lake"). Bank era 05, "Native nations and the liquor trade, 1750 to 1800".

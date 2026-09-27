@@ -1563,3 +1563,10 @@ chapters' files, to avoid colliding with the parallel agent):
 ## Parked from `exploration` (2026-09-27, T-257)
 Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
 - `america-world` / `war`, era 06: Wilkes at Fiji 1840: Solevu and Tye burned 12 July; Malolo 24-25 July, 74-104 Fijians killed, two villages burned on Wilkes's order ("spare only the women and the children"); Vendovi taken to New York, skull displayed; Drummond's Island 1841 (12 killed, two villages burned); Upolu shelled Feb 1841. Wikipedia "United States Exploring Expedition", "Battle of Malolo".
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).
+- `america-world`, era 10: boat strikes Sept 2025-Sept 2026, at least 231 killed in 69 strikes by 19 Sep 2026 (AP via NBC). Iran war: 19 public DCAS deaths vs at least 22 per officials (WaPo 22 Sep 2026).
+- `america-world`, era 6: Grant's "one of the most unjust" quote (Memoirs ch. 3, Gutenberg #4367); Polk sent troops into the disputed zone (Colorado Encyclopedia).

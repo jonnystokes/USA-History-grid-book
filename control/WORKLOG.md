@@ -2879,3 +2879,13 @@ RESULT: DONE. PASS  war / research. measured: stage=RESEARCHED eras=10/10 storie
         430744 tokens, 188 tool uses, 23.4 min (opus). Eras 6-10 bank check: 24 PATCHes (draft exemptions, Creek War, Bad Axe, Sand Creek/Bear River/Marias, Union prison camps, Houston 1917, Port Chicago, Bataan, Tokyo firebombing, Korean and Vietnamese dead, POWs, Agent Orange, Castle Bravo, Haditha, Kabul 2021). My Lai corrected from the Peers report (175 to 400+, rape). New story candidates in the bank: Silas Soule, the Hofer brothers, Isaac Woodard. Two outline lines out of date (flagged). Bank 29,251 -> 38,551w. 1 searched-not-found. TO PARK listed.
 NOTE (Jon, 20% usage): BURST OF 5 = T-263r health (already running; messaged to switch to TO PARK) + T-264r, T-265r,
 T-266r, T-259b. Then back to one at a time.
+
+### 2026-09-27 | [LOCAL] Burst of 5 done; TO PARK filed (director, script)
+All five landed: T-259b war (PASS, war complete), T-263r health, T-264r disasters, T-265r crime-justice,
+T-266r drugs-alcohol (eras 1-5 each; chapters FAIL until eras 6-10, as expected). T-266r ended with a
+background process open: stopped by the director before filing. 28 parked items filed into 12 banks.
+Back to ONE AT A TIME (DECISIONS #25).
+NEXT (one at a time): T-260b religion 6-10 (split), T-261b education 6-10 (split x3), T-262b rights 7-10
+(split x3), T-263b health 6-10, T-264b disasters 6-10, T-265b crime-justice 6-10 (Tulsa justice angle),
+T-266b drugs-alcohol 6-10, then the 7 seeds: news-communication, art, music, storytelling-evolution,
+styles, sports-play, holidays.

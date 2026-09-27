@@ -360,3 +360,9 @@ Full sourced text is in `research/research-big-business.md`, era 09 "PATCH ... c
 - **1950-2000:** "A Frank Statement to Cigarette Smokers", 4 January 1954, in more than 400 newspapers, designed by Hill & Knowlton to dispute the studies linking smoking to lung cancer (Wikipedia). Brown & Williamson counsel Addison Yeaman's memo of 17 July 1963 (PBS FRONTLINE). Seven tobacco company heads testified on 14 April 1994 that nicotine is not addictive (hearing transcript, UCSF). Master Settlement Agreement, 23 November 1998, 46 states, at least $206 billion over 25 years. Bhopal, 3 December 1984, at least 3,800 dead (Broughton 2005). Johns-Manville bankruptcy, August 1982 (Manville Trust).
 - **2000-today:** Judge Gladys Kessler's ruling of 17 August 2006 that the tobacco companies violated civil racketeering law.
 - **Not in any bank as of this date:** the bodily course and death counts of smoking-caused disease and of asbestos disease. Those are yours.
+
+## Parked from `war` (2026-09-27, T-259)
+Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
+Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
+- `health`, era 7: 1898 typhoid, 20,738 cases and 1,590 deaths in US camps, 87% of disease deaths (JCI). Era 9: Agent Orange VA presumptive list (va.gov).
+- `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).
