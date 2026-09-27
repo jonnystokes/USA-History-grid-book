@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-248 done, stopped for Jon's usage reading.** Nothing in flight. Next: T-249 `landmarks`.
+**T-249 `landmarks` IN FLIGHT.** Stop when it finishes (Jon measures usage per agent).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 

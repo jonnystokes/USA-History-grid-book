@@ -2568,3 +2568,10 @@ RESULT: DONE. PASS transportation / patch and / research. stories 17 -> 19 (v19 
         "Firsts" fixed: Sprague (first successful), Fulton ("every major river" too broad).
         SEARCHED NOT FOUND: 3. Parked to work-workers (validates 0).
         ISSUE: the agent pip-installed pypdf unasked. Reported to Jon. briefs/README now says install nothing.
+USAGE END (T-248): 16% (Jon). 9% -> 16% (includes director close and T-249 prep, marked +).
+
+### 2026-09-27 | [LOCAL] T-249 | landmarks: patch (2 targets) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-249-landmarks.md
+VERIFY: python tools/project_state.py --check landmarks --stage patch (and --stage research)
+USAGE AT START: 16% (Jon).
