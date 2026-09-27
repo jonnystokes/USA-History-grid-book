@@ -2714,3 +2714,8 @@ RESULT: DONE. Units 1-3 landed. big-business already PASSES patch (bank 409 -> 1
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-256-big-business.md (units 4-6)
 VERIFY: python tools/project_state.py --check big-business --stage patch (and --stage research)
+NOTE (Jon, while T-256b runs): the 5-hour window reset to 0%. After T-256b, launch TEN agents at once (one
+batch), then return to one at a time. Checkpoints for the batch prepared: T-257 exploration (full, all eras),
+T-258 government-politics (bank check, all eras), T-259a war 1-5, T-260a religion 1-5, T-261a education 1-5,
+T-262a rights-movements 1-6 (bank checks), T-263a health, T-264a disasters, T-265a crime-justice,
+T-266a drugs-alcohol (full research, eras 1-5). Ten distinct chapters, so no two agents share a file.
