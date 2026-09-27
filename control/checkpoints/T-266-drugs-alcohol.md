@@ -1,12 +1,12 @@
 # CHECKPOINT T-266 | drugs-alcohol | full | T-266a: eras 1-5
 
-STATUS: IN-FLIGHT
+STATUS: PARTIAL (killed by usage limit; continuation queued)
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/drugs-alcohol.md · research/research-drugs-alcohol.md · workspace/drugs-alcohol.md
 
-NOW:    (agent sets this)
+NOW:    T-266a Unit 1, era 04 1700-1750 (research in progress)
 NEXT:   T-266a: Unit 1.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
@@ -47,7 +47,245 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 
 ## TO PARK (for the director to file after the batch)
 
+## SALVAGE 2026-09-27 (T-266a killed by the usage limit, 12:50 reset)
+
+Landed on disk (measured with git diff, committed by the director): see the Log and the
+bank's T-266a PATCH headings. The agent's last NOW line was:
+  T-266a Unit 1, era 04 1700-1750 (research in progress)
+**Treat that unit as possibly half-written:** check it against the outline's plan and
+finish it before starting the next. Do not redo earlier units or PATCHes already in the bank.
+Web search hit a quota during the batch; if search fails, use WebFetch or curl.
+
+Pages the killed agent fetched (219; re-read the useful ones rather than searching again):
+- https://www.si.edu/object/eighteenth-century-horn-book:nmah_1320130
+- https://www.frauncestavernmuseum.org/the-role-of-hornbooks-in-early-american-education
+- https://www.whitehousehistory.org/enslaved-labor-and-the-construction-of-the-u-s-
+- https://www.pnas.org/doi/10.1073/pnas.1208404109
+- https://www.researchgate.net/publication/230624033_Ritual_Black_Drink_Consumption_at_Cahokia
+- https://www.sci.news/archaeology/article00512.html
+- https://www.pnas.org/doi/pdf/10.1073/pnas.1208404109
+- https://www.pnas.org/doi/10.1073/pnas.1511799112
+- https://pages.vassar.edu/realarchaeology/2023/11/11/ritualistic-caffeine-consumption-in-cahokia-and-beyond/
+- https://www.sciencedaily.com/releases/2012/08/120806151240.htm
+- https://pubmed.ncbi.nlm.nih.gov/22869743/
+- https://experts.illinois.edu/en/publications/ritual-black-drink-consumption-at-cahokia
+- https://www.sciencedirect.com/science/article/abs/pii/S0378874105002990
+- https://www.academia.edu/17155674/Prehistoric_peyote_use_alkaloid_analysis_and_radiocarbon_dating_of_archaeological_specimens_of_Lophophora_from_Texas
+- https://www.texasbeyondhistory.net/st-plains/nature/images/peyote.html
+- https://pubmed.ncbi.nlm.nih.gov/15990261/
+- https://www.researchgate.net/publication/7754322_Prehistoric_peyote_use_Alkaloid_analysis_and_radiocarbon_dating_of_archaeological_specimens_of_Lophophora_from_Texas
+- https://www.sciencedirect.com/science/article/pii/S0305440305002451
+- https://www.desertfishes.org/cuatroc/literature/pdf/Terry_2006_Lower_pecos_Coahuila_peyote_radiocarbon.pdf
+- https://www.researchgate.net/publication/222578108_Lower_Pecos_and_Coahuila_Peyote_New_Radiocarbon_Dates
+- https://sacredcacti.com/blog/archaic/
+- https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:$q&resultType=core&format=json
+- https://www.ebi.ac.uk/europepmc/webservices/rest/search?
+- http://www.todayifoundout.com/index.php/2013/11/native-americans-introduced-alcohol-europeans/
+- https://en.wikipedia.org/wiki/Tiswin
+- https://beer-studies.com/en/world-history/Birth-of-brewing/Combined-fermented_beverages/North-america-protohistory
+- https://scienceinsights.org/did-native-americans-make-alcohol-before-colonization/
+- https://coloradosph.cuanschutz.edu/docs/librariesprovider205/journal_files/vol7/7_2_1996_1_abbott.pdf
+- https://cyalcohol.com/article/did-native-americans-brew-alcoholic-beverages
+- https://cyalcohol.com/article/did-the-native-americans-have-alcohol-before-coloniziation
+- https://cyalcohol.com/article/is-there-any-native-american-alcohol
+- https://grokipedia.com/page/Tiswin
+- https://keepitsacred.itcmi.org/tobacco-and-tradition/traditional-tobacco-use/
+- https://www.scientificamerican.com/article/the-fight-to-keep-tobacco-sacred/
+- https://www.dukeunctts.com/post/the-history-and-significance-of-sacred-tobacco-for-american-indians
+- https://truthinitiative.org/difference-between-commercial-tobacco-and-sacred-tobacco
+- https://whyy.org/segments/keep-it-sacred-smoking-indigenous-people-tradition-and-conflict/
+- https://en.wikipedia.org/wiki/Nicotiana_rustica
+- https://en.wikipedia.org/wiki/Nicotiana_quadrivalvis
+- https://keepitsacred.itcmi.org/tobacco-and-tradition/traditional-v-commercial/
+- https://camohitadatiya.com/understanding-indigenous-tobacco-products/
+- https://encyclopediavirginia.org/entries/virginia-company-of-london/
+- https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=...&resultType=core&format=json
+- https://docsouth.unc.edu/nc/hariot/hariot.html
+- https://www.famousscientists.org/thomas-harriot/
+- https://thonyc.wordpress.com/2013/07/05/he-didnt-published-and-so-he-perished-historically/
+- https://mathshistory.st-andrews.ac.uk/Biographies/Harriot/
+- https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/harriot-or-harlot-thomas
+- https://encyclopediavirginia.org/entries/hariot-thomas-ca-1560-1621/
+- https://kidskonnect.com/people/thomas-harriot/
+- https://en.wikipedia.org/wiki/Thomas_Harriot
+- https://handwiki.org/wiki/Biography:Thomas_Harriot
+- https://www.swiftpapers.com/biographies/Thomas-Harriot-34216.html
+- https://jaykravetz.substack.com/p/september-8-1565-the-founding-of
+- https://www.allmysons.com/florida/jacksonville/pedro-menendez-de-avile-and-the-first-thanksgiving-in-st-augustine-florida.aspx
+- https://www.claytodayonline.com/stories/la-florida-and-north-americas-first-thanksgiving-in-1565,168086
+- https://www.thejaxsonmag.com/article/the-first-thanksgivings-on-the-first-coast/
+- https://jaxhistory.org/timucua_first_thanksgiving/
+- https://en.wikipedia.org/wiki/Spanish_Florida
+- https://floridapolitics.com/archives/312194-first-thanksgiving-was-on-floridas-first-coast/
+- https://www.globenewswire.com/news-release/2026/07/28/3334393/0/en/America-Marks-250th-St-Augustine-Celebrates-461-Years.html
+- https://youshouldgotoo.com/americas-first-thanksgiving-fls-history-st-augustine/
+- https://link.springer.com/article/10.1007/BF03373438
+- https://www.floridamuseum.ufl.edu/staugustine/timeline/colonization-and-conflict/
+- https://www.semanticscholar.org/paper/Spanish-Olive-Jar-and-other-shipping-containers-of-Worth/f3ec51fc08102a8264e419c0c3c130807cc55e7c
+- https://www.tandfonline.com/doi/abs/10.1080/0734578X.2023.2240600
+- https://www.floridamuseum.ufl.edu/typeceramics/spanish/type/olive-jar-early-style/
+- https://en.wikipedia.org/wiki/Olive_jar
+- https://www.floridamuseum.ufl.edu/histarch/ceramic-types/bibliography/
+- https://www.floridamuseum.ufl.edu/histarch/research/st-augustine/downtown/
+- https://floridamuseum.ufl.edu/100-years/object/spanish-olive-jar
+- https://www.britannica.com/biography/Jean-Nicot
+- https://www.gutenberg.org/files/56083/56083-h/56083-h.htm
+- https://nerd.wwnorton.com/ebooks/epub/america13/EPUB/content/1.1.5-chapter01.xhtml
+- https://blogs.loc.gov/law/2013/10/1680-the-pueblo-revolt/
+- https://www.thestoryoftexas.com/campfire-stories/conquistadors/
+- https://www.nps.gov/subjects/travelspanishmissions/spanish-missions-in-the-united-states-cultural-and-historical-significance.htm
+- https://www.ebsco.com/research-starters/history/coronados-southwest-expedition
+- https://npshistory.com/publications/coro/hrp-research.pdf
+- https://nps.gov/parkhistory/online_books/explorers/intro3.htm
+- https://mitpressbookstore.mit.edu/book/9780813011707
+- https://thisdayinwinehistory.com/pre-colonial-wine/
+- https://repository.lib.fsu.edu/islandora/object/fsu:175945/datastream/PDF/download
+- https://drinkingfolk.com/indigenous-american-alcohol/
+- https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/indians-and-alcohol
+- https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1102&context=tor
+- https://en.wikipedia.org/wiki/History_of_American_wine
+- https://www.nps.gov/fora/learn/historyculture/the-algonquians.htm
+- https://www.ncpedia.org/biography/pemisapan
+- https://www.nps.gov/people/wingina.htm
+- https://en.wikipedia.org/wiki/Wingina
+- https://encyclopediavirginia.org/entries/roanoke-colonies-the/
+- https://www.ncalgonquians.com/tribalhistory.html
+- https://grokipedia.com/page/Fort_Raleigh_National_Historic_Site
+- https://grokipedia.com/page/Wingina
+- https://grokipedia.com/page/Roanoke_people
+- https://www.nps.gov/people/granganimeo.htm
+- https://en.wikipedia.org/wiki/Robert_Coles_(settler
+- https://brookstonbeerbulletin.com/drunkards-cloak/
+- http://freepages.rootsweb.com/~bbunce77/genealogy/ColeChart.html
+- https://gloversmith.blogspot.com/2013/05/the-scarlet-letter-of-immigrant-robert.html
+- https://www.wikitree.com/wiki/Coles-49
+- https://www.genealogybank.com/blog/searching-sources-for-hawthornes-the-scarlet-letter.html
+- https://gw.geneanet.org/janrobison?lang=en&n=coles&oc=1&p=robert
+- http://longislandgenealogy.com/Surname_Pages/coles.htm
+- https://peoplepill.com/people/robert-coles-2
+- https://www.geni.com/people/Robert-Coles-Sr/6000000002430497103
+- https://archive.org/details/historyofroxbury00elli_0
+- https://www.worldcat.org/title/1329204936
+- https://archive.org/details/staterhodeislan03fielgoog
+- https://archive.org/details/historyofwarwick00full|publisher=Angell
+- https://archive.org/details/homelotsofearlys00hopk
+- https://books.google.com/books?id=L3k_AQAAMAAJ
+- https://babel.hathitrust.org/cgi/pt?id=hvd.ah4r7a&seq=28&q1=cole
+- https://books.google.com/books?id=bX_bWsf-GrMC&dq=%22robert+coles%22+%22massachusetts+bay%22&pg=PA319
+- https://www.google.com/books/edition/The_Macdonough_Hackstaff_Ancestry/Giw3AAAAMAAJ?hl=en&gbpv=1&dq=%22Robert+coles%22.+Whitman+1655&pg=PA452&printsec=frontcover
+- https://books.google.com/books?id=Ras0AQAAMAAJ
+- https://books.google.com/books?id=3W5GAAAAQBAJ&dq=robert+coles+fined+massachusetts+bay&pg=PA21
+- https://archive.org/details/winthropwoman0000seto
+- https://archive.org/details/historyfirstchu02thwigoog
+- https://books.google.com/books?id=sl9AAAAAYAAJ
+- https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/399836364/chap1-5190560.pdf
+- https://archive.org/details/sim_college-english_1952-05_13_8/page/424
+- https://www.nytimes.com/1985/04/23/nyregion/robert-coles-li-historian-and-ex-chief-of-planetarium.html
+- https://provlibdigital.org/islandora/object/islandora:4597/view_mods_as_marcxml
+- https://www.uwyo.edu/numimage/currency.htm
+- https://www.glencovelibrary.org/local-history/history-of-glen-cove/
+- http://www.glencoveheritage.com/legacy_site/coleshomestead.pdf
+- https://www.winthropsociety.com/doc_freemen.php
+- https://web.archive.org/web/20180806055108/https://www.winthropsociety.com/doc_freemen.php
+- https://www.ri.gov/
+- https://encyclopediavirginia.org/primary-documents/proceedings-of-the-virginia-assembly-1619/
+- https://oll.libertyfund.org/pages/1619-laws-enacted-by-the-first-general-assembly-of-virginia
+- https://wisc.pb.unizin.org/ls261/chapter/ch-2-2-laws-of-the-first-general-assembly-of-virginia-1619/
+- https://teachingamericanhistory.org/document/laws-enacted-by-the-first-general-assembly-of-virginia/
+- https://websites.uta.edu/hunnicut/reading-list/readings-u-s-legal-constitutional-history/laws-enacted-by-the-first-general-assembly-of-virginia/
+- https://drjimsebt.com/2020/04/09/laws-of-conduct-and-business-in-1619-virginia-colony/
+- https://www.jyfmuseums.org/learn/teacher-resources-programs/classroom-resources/teaching-with-primary-sources/primary-source-john-pory-proceedings-from-the-1619-general-assembly
+- https://en.wikipedia.org/wiki/General_Court_of_Virginia_(colonial
+- https://encyclopediavirginia.org/primary-documents/the-general-assembly-convenes-1619/
+- https://en.wikipedia.org/wiki/Robert_Stacy
+- https://themorningnews.org/article/treacherie-and-the-chiefe-men-of-the-countrey
+- https://www.schenectadyhistory.org/resources/mvgw/history/011.html
+- https://cuny.manifoldapp.org/read/a-history-of-new-york-from-the-beginning-of-the-world-to-the-end-of-the-dutch-dynasty/section/60166e8c-0280-46a6-a7e8-4a7ce0dd727b
+- https://www.trashpaddler.com/2017/09/in-half-moons-wake.html
+- https://www.nysl.nysed.gov/teacherguides/hmvalley/journals
+- http://thediaryjunction.blogspot.com/2009/09/very-good-harbour.html
+- https://extapps.dec.ny.gov/docs/remediation_hudson_pdf/hrlpex1609.pdf
+- https://archive.org/details/juetsjournalvoya00juet
+- https://en.wikipedia.org/wiki/John_Colman
+- https://www.sec.state.ma.us/divisions/archives/collections/mass-archives-collection.htm
+- https://oll.libertyfund.org/pages/1647-laws-and-liberties-of-massachusetts
+- https://www.colonialsociety.org/publications/3705/anno-domini-1637
+- https://wisc.pb.unizin.org/ls261/chapter/ch-2-4-the-laws-and-liberties-of-massachusetts-part-2-topics-e-s/
+- https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/general-court-colonial
+- https://docs.rwu.edu/cgi/viewcontent.cgi?article=1799&context=rwu_LR
+- https://en.wikipedia.org/wiki/Thomas_Savage_(major
+- https://www.colonialsociety.org/node/309
+- https://en.wikipedia.org/wiki/John_Winslow_(1597%E2%80%931674
+- https://en.wikisource.org/wiki/Laws_and_ordinances_of_New_Netherland,_1638-1674/1644
+- https://books.google.com/books?id=PnYDAAAAQAAJ
+- https://www.gutenberg.org/files/13811/13811-h/13811-h.htm
+- https://iarchives.nysed.gov/xtf/view?docId=tei%2FA1809%2FNYSA_A1809-78_V04_p036.xml
+- https://en.wikisource.org/wiki/Laws_and_ordinances_of_New_Netherland,_1638-1674/1642
+- https://san.beck.org/11-5-Colonies1643-64.html
+- https://iarchives.nysed.gov/xtf/view?docId=tei%2FA1875%2FNYSA_A1875-78_V16_pt1_0091.xml
+- https://en.wikipedia.org/wiki/Kieft's_War
+- https://iarchives.nysed.gov/xtf/view?docId=ead/findingaids/A1875.xml
+- https://en.wikisource.org/wiki/Laws_and_ordinances_of_New_Netherland,_1638-1674/$y
+- https://www.inspiringtravel.co.uk/caribbean/barbados/travel-guides/explore-history-of-rum-in-barbados-the-birthplace-of-rum
+- https://en.wikipedia.org/wiki/Rum
+- https://mcphedranbadside.com/kill-devil-into-rumbullion/
+- https://bar-vademecum.eu/rum-and-kill-devil-a-new-etymology-part-2-etymology-so-far/
+- https://rumauthority.com/rum-history
+- https://www.gotrum.com/the-rum-university/rum-in-history/whats-in-a-name/
+- https://zariahwebster.wordpress.com/home-3/
+- https://grokipedia.com/page/Rum
+- https://oboe.com/learn/the-world-of-rum-ss63zs/origins-of-rum-0
+- https://sk.sagepub.com/ency/edvol/embed/the-sage-encyclopedia-of-alcohol-social-cultural-and-historical-perspectives/chpt/rum
+- https://www.masterofmalt.com/rum/country/american-rum/
+- http://vipauk.org/enter/poi/nw/nw08.html
+- https://www.thespiritsbusiness.com/2014/11/top-10-moments-in-rum-history-2/2/
+- https://distilleryway.com/articles/history-rum
+- https://whistlingandy.com/blogs/the-blog/rum-americas-first-spirit-an-often-overlooked-history
+- https://www.mainlandrum.com/
+- https://royalrumsociety.com/history-1700s
+- https://rumgeography.com/rum-guide-to-massachusetts/
+- https://en.wikipedia.org/wiki/List_of_rum_brands
+- https://en.wikipedia.org/wiki/Foursquare_Rum_Distillery
+- https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/rum-trade
+- https://m.facebook.com/FolanFamilyDental/photos/the-first-tavern-in-america-coles-innthe-first-tavern-in-the-colonies-was-opened/975617795861504/
+- https://cupola.gettysburg.edu/ghj/vol1/iss1/7/
+- https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1026&context=ghj
+- https://www.gutenberg.org/files/42999/42999-h/42999-h.htm
+- https://brookstonbeerbulletin.com/the-first-tavern-in-america/
+- https://www.bostonmagazine.com/news/2016/03/03/first-bar-in-america/
+- https://en.wikipedia.org/wiki/Samuel_Cole_(settler
+- https://www.bucketlistbars.com/news-articles/108-the-first-bar-in-america
+- https://en.wikipedia.org/wiki/Timeline_of_Boston
+- https://www.inquirer.com/history/founding-fathers-drinking-american-revolution-rum-punch-philadelphia-20260522.html
+- https://leslefts.blogspot.com/2014/07/later-water-myths-early-america.html
+- https://research.colonialwilliamsburg.org/Foundation/journal/Holiday07/drink.cfm
+- https://www.smithsonianmag.com/history/founding-fathers-july-4th-result-both-american-revolution-and-food-revolution-180969538/
+- https://americanhistory.si.edu/blog/2012/12/what-was-in-colonial-cups-besides-tea-cider-water-milk-and-whiskey.html
+- https://ushistoryscene.com/article/american-drinking/
+- https://www.varsitytutors.com/earlyamerica/early-america-review/volume-6/alcohol-in-the-american-colonies
+- https://pommelcyder.wordpress.com/2015/06/22/part-ii-drinking-in-colonial-america-stay-away-from-the-water-right/
+- https://atlasobscura.com/articles/first-american-brewers
+- http://archive.org/wayback/available?url=research.colonialwilliamsburg.org/Foundation/journal/Holiday07/drink.cfm
+- http://archive.org/wayback/available?url=americanhistory.si.edu/blog/2012/12/what-was-in-colonial-cups-besides-tea-cider-water-milk-and-whiskey.html
+- http://web.archive.org/web/20251007000412/https://research.colonialwilliamsburg.org/Foundation/journal/Holiday07/drink.cfm
+- https://www.gutenberg.org/ebooks/search/?query=counterblaste
+- https://www.gutenberg.org/cache/epub/17008/pg17008.txt
+- https://encyclopediavirginia.org/entries/tobacco-in-colonial-virginia/
+- https://www.georgiaencyclopedia.org/articles/history-archaeology/prohibition-in-georgia/
+- https://en.wikipedia.org/wiki/The_Alcoholic_Republic
+- https://en.wikipedia.org/wiki/Molasses_Act
+- https://slaveryandjusticereport.brown.edu/sections/slavery-the-slave-trade-and-brown/
+- https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/house-of-burgesses
+
 ## Sources in hand
+- Crews, 'Drinking in Colonial America', Colonial Williamsburg Journal Holiday 2007: live page 403s, use Wayback http://web.archive.org/web/20251007000412/https://research.colonialwilliamsburg.org/Foundation/journal/Holiday07/drink.cfm (1790 per-capita figures, 140 rum distilleries 1770, 4.8M gal, Rush 1785, Mount Vernon distillery 1797-99, Oglethorpe rum ban: for eras 04-05).
+- Laws and Ordinances of New Netherland on Wikisource (per-year pages).
+- Drake, Old Boston Taverns, Gutenberg #42999 (Boston taverns incl. 1700s: Green Dragon etc.).
+- Laws and Liberties of Massachusetts, UW Pressbooks ch 3.4.
+- Mancall, 'Indians and Alcohol', Dictionary of American History, Encyclopedia.com (fetch with curl + browser UA): alcohol trade begins ~1650; rum/brandy in fur trade; colony laws; Hagler 1754 quote; Sir William Johnson 1764; Trade and Intercourse Act 1802; ~7 shots/day 1770 estimate. Useful for eras 03-06.
+- Britannica works with curl + browser UA (WebFetch gets 403).
+- Europe PMC REST: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=...&resultType=core&format=json gives abstracts when PubMed/PNAS block.
+- Abbott 1996 PDF: https://coloradosph.cuanschutz.edu/docs/librariesprovider205/journal_files/vol7/7_2_1996_1_abbott.pdf (alcohol before contact, firewater origins).
 
 ## Gaps researched
 
@@ -56,5 +294,11 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 ## Outline claims left out
 
 ## Decisions and defects fixed
+- Seed 1600s 'everyone drinks, including children, because the water is not trusted': softened to what Crews supports (belief alcohol was healthy, European habit, some bad water, Percy). Children-drinking claim dropped (no opened source).
+- Seed target tavern keeper -> Samuel Cole (Drake). Added Robert Coles (red D, 1634) as a second ordinary story.
+- Seed 1500s claim 'alcohol used deliberately in trade with Native nations' is wrong for the 1500s: Mancall dates the real trade from ~1650. Removed from era 02, SEARCHED NOT FOUND recorded, moved to era 03.
 
 ## Log
+- 2026-09-27 era 01 DONE: outline era 01 rewritten (3 spans, state thin, progress researched, no story: thin era with no named person). Bank section '## 01 · Before 1500' appended under '# THE BANK: T-266a'. Sources: Duke 2022 Nature Hum Behav (Wishbone tobacco), Brownstein 2020 (WA pipe), keepitsacred.itcmi.org (traditional tobacco), Crown 2012/2009/2015 PNAS (Black Drink, cacao), El-Seedi 2005 (Shumla peyote), Robinson 2020 PNAS (datura), Abbott 1996 AIANMHR PDF (alcohol before contact: Southwest only). Abstracts opened through the Europe PMC REST API (PubMed shows a captcha). [VERIFY] 'fermented drinks in the Southwest' cleared.
+- 2026-09-27 era 02 DONE: outline era 02 rewritten (2 spans + story thomas-hariot-drugs-alcohol, verified: Encyclopedia Virginia + DocSouth text of the Briefe and True Report + NPS Wingina). Bank '## 02 · The 1500s' appended with 1 SEARCHED NOT FOUND (Spanish alcohol gifts). 'First recorded smoking death' claim for Hariot rejected (popular sources only).
+- 2026-09-27 era 03 DONE: outline era 03 rewritten (4 spans + stories samuel-cole-drugs-alcohol, robert-coles-drugs-alcohol, both verified), target-tavern-keeper removed. Bank '## 03 · The 1600s' appended. Hudson/Juet 1609 drinking episode used (exploration tells the killings only).
