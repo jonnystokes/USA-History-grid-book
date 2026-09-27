@@ -172,3 +172,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-256b	research	general-purpose/opus	[LOCAL] big-business bank write-up + check, eras 8-10, final	60	?	?	410462	209	1566376	?	completed	PASS patch+research; bank 14209->25538w; window reset to 0 mid-run (Jon)
 2026-09-27	T-261a	research	general-purpose/opus	[LOCAL] education bank check eras 1-5 [BATCH10]	0	?	?	259783	98	743534	?	completed	research PASS; bank +5647w
 2026-09-27	BATCH10	research-batch	general-purpose/opus x10	[LOCAL] ten agents at once; window 0 -> 100% (limit hit ~12:50)	0	100	100	?	~1100	?	?	killed	2 of 10 finished (education, war); 8 killed partway with work on disk; web search quota also exhausted
+2026-09-27	T-258r	research	general-purpose/opus	[LOCAL] government-politics: Eras 8-10 bank check done (Guinn, Breedlove, Allwright, Teapot Dome, Box 13, VRA	?	?	?	202475	104	702723	?	completed	PASS  government-politics / research

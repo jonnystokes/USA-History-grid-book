@@ -906,6 +906,12 @@ That is the other half of the fact, and it has named actors and numbers.
   delegates from 13 states** **(unconfirmed: search summary only)**.
 - The **Democrats** held their first national convention in **1832** (search summary only).
 
+### PATCH 2026-09-27 (T-258r): Era 6, the `andrew-jackson-gov` story header's term dates
+
+- "Andrew Jackson was the seventh President of the United States from 1829 to 1837."
+  (White House archive, https://obamawhitehouse.archives.gov/1600/presidents/andrewjackson ,
+  fetched 2026-09-27.) The story header's "1829 to 1837" is now sourced.
+
 ## Era 7 — 1850 to 1900
 
 ### Abraham Lincoln — inherited `verified` tag, now actually sourced (angle: the Constitution in a war)
@@ -1202,6 +1208,28 @@ this agent could read. The commonly printed date (20 December 1860) is **not con
 next agent or the writer should source it (the South Carolina Department of Archives and History or
 the National Archives ordinance text) before using a day.
 
+### PATCH 2026-09-27 (T-258r): Era 7, the OPEN item above, now closed: South Carolina's secession ordinance
+
+- **20 December 1860**, in **Charleston**: the delegates of the South Carolina convention signed the
+  Ordinance of Secession on the stage of the **South Carolina Institute Hall** (afterwards called
+  Secession Hall), and "when 169 of his colleagues had followed suit, the first state had officially
+  seceded from the Union." (American Battlefield Trust, "Page from the Past,"
+  https://www.battlefields.org/learn/articles/page-past-1 , fetched 2026-09-27. The page times the
+  first signature at 1:15 p.m.)
+- **The vote was 169 to 0.** The convention first met in **Columbia** and moved to Charleston
+  because of a smallpox scare. (Search summary of worldhistory.org, the Longwood University
+  Civil War 150 broadside and civilwarmonths.com, **unconfirmed: search summary only**. The
+  summaries disagree on the time: one gives the vote at 1:07 p.m. and the evening signing
+  ceremony at Institute Hall. Give the day, not the hour.)
+- **Why, in the convention's own words.** On **24 December 1860** the convention adopted its
+  *Declaration of the Immediate Causes Which Induce and Justify the Secession of South Carolina*.
+  It names slavery: "An increasing hostility on the part of the non-slaveholding States to the
+  institution of slavery, has led to a disregard of their obligations," and it complains that the
+  Northern states had united to elect a man "whose opinions and purposes are hostile to slavery."
+  (Avalon Project, Yale Law School, https://avalon.law.yale.edu/19th_century/csa_scarsec.asp ,
+  fetched 2026-09-27.) **Actor:** the convention delegates. Write "the delegates voted," not "South
+  Carolina decided."
+
 ## Era 8 — 1900 to 1950
 
 ### The 16th and 17th Amendments, 1913 — [VERIFY] cleared
@@ -1338,6 +1366,129 @@ not used anywhere else in the book.**
   returned HTTP 503 on this run.)
 - **`crime-justice` owns machine corruption as crime. This chapter owns the machine as a way of
   doing politics, and as a job.**
+
+### PATCH 2026-09-27 (T-258r): Era 8, the 18th and 21st Amendments, dates from the text
+
+The outline names Prohibition (18th, 1919) and repeal (21st, 1933) with no sourced dates.
+Source for every line: National Archives transcript of Amendments 11-27,
+https://www.archives.gov/founding-docs/amendments-11-27 (fetched 2026-09-27).
+- **18th Amendment:** passed by Congress **18 December 1917**, ratified **16 January 1919**.
+  Section 1 banned "the manufacture, sale, or transportation of intoxicating liquors" for beverage
+  purposes, starting **one year after ratification** (so the ban began in January 1920). Section 2
+  gave "Congress and the several States" concurrent power to enforce it. Ratified by state
+  **legislatures**.
+- **21st Amendment:** passed by Congress **20 February 1933**, ratified **5 December 1933**.
+  Section 1: "The eighteenth article of amendment to the Constitution of the United States is
+  hereby repealed." Section 3 required ratification "by conventions in the several States", not
+  legislatures. **The 21st is the only amendment that repeals another one, and the only one sent
+  to state conventions** (the text shows the convention method. The "only" claims are the plain
+  reading of the full amendments list on the same page, 27 amendments, no other repeal and no
+  other convention clause).
+- Actor note for writers: Congress proposed both. The Archives page names no individual sponsor.
+  The enforcing statute (the Volstead Act, 1919) was not re-sourced on this run: the NARA
+  milestone page for the 18th returned HTTP 404 and constitution.congress.gov returned 403.
+
+### PATCH 2026-09-27 (T-258r): Era 8, who was kept from voting 1900 to 1950, by what rule and whom (hard subject)
+
+The bank had the 19th Amendment and Native voting (parked above) but no ruling on the rules the
+Southern states used against Black voters in this era. Three rulings, each naming the people:
+- ***Guinn v. United States*, 238 U.S. 347, decided 21 June 1915**, opinion by **Chief Justice
+  Edward White**. Oklahoma's constitution (the suffrage amendment of 1910) required a literacy test
+  of voters, but exempted anyone who was entitled to vote "on January 1st, 1866, or at any time
+  prior thereto" and any "lineal descendant of such person." Before 1866 almost no Black man could
+  vote, so the exemption covered white men and left the test for Black men. The defendants were
+  two Oklahoma **election officers, Frank Guinn and J. J. Beal**, prosecuted by the United States
+  for keeping Black citizens from voting under it. The Court held the 1866 clause void under the
+  Fifteenth Amendment. (https://www.law.cornell.edu/supremecourt/text/238/347)
+- ***Breedlove v. Suttles*, 302 U.S. 277, decided 6 December 1937, unanimous, Justice Pierce
+  Butler.** Georgia charged a **poll tax of $1 a year** and let no one vote who had not paid it.
+  Exempt: people under 21 or over 60, the blind, and women who did not register to vote. **Nolan
+  Breedlove** sued the tax collector **T. Earl Suttles**. The Court upheld the tax: "the equal
+  protection clause does not require absolute equality." (https://www.law.cornell.edu/supremecourt/text/302/277)
+  Poll taxes in federal elections ended only with the **24th Amendment** (passed by Congress
+  **27 August 1962**, ratified **23 January 1964**, https://www.archives.gov/founding-docs/amendments-11-27).
+- ***Smith v. Allwright*, 321 U.S. 649, decided 3 April 1944**, opinion by **Justice Stanley
+  Reed**, **Justice Owen Roberts dissenting**. The **Texas Democratic Party** resolved on **24 May
+  1932** that "all white citizens of the State of Texas who are qualified to vote ... shall be
+  eligible to membership in the Democratic party." In a one-party state, the Democratic primary
+  was the election that counted. **Lonnie Smith**, a Black voter in precinct 48 of **Harris County,
+  Texas**, sued **Allwright** (the fetched page gives only the surname) and the other election
+  judges of his precinct, who refused him a ballot. The Court held that the party was acting for the state, so the white primary broke the
+  Fifteenth Amendment, and it overruled ***Grovey v. Townsend*, 295 U.S. 45 (1935)**, which had
+  upheld the same rule nine years earlier. (https://www.law.cornell.edu/supremecourt/text/321/649)
+  **Write "an election judge named Allwright." No first name is sourced.**
+- How it fits: `rights-movements` tells the people who fought these rules. The rules, the cases
+  and the officials who enforced them are this chapter's.
+
+### PATCH 2026-09-27 (T-258r): Era 8, Teapot Dome, a corruption case with named officials
+
+The subject notes ask for corruption cases with named officials. The bank had Tweed (era 7) and
+Plunkitt, and nothing federal in era 8.
+- **Albert B. Fall**, Secretary of the Interior under **President Warren G. Harding**, persuaded
+  Harding to move the Navy's oil reserves to the Interior Department
+  (https://www.wyohistory.org/encyclopedia/teapot-dome-scandal). **Edwin Denby**, Secretary of the
+  Navy, carried out the transfer (https://en.wikipedia.org/wiki/Teapot_Dome_scandal).
+- Fall then leased the **Teapot Dome** reserve in **Wyoming** to **Harry F. Sinclair** of Mammoth
+  Oil, and the **Elk Hills** reserve in **California** to **Edward Doheny** of Pan-American
+  Petroleum. Doheny gave Fall **a $100,000 interest-free "loan"**. Sinclair gave him **about
+  $300,000 in government bonds and cash**.
+  (https://www.history.com/this-day-in-history/october-25/cabinet-member-guilty-in-teapot-dome-scandal)
+- **The investigation:** the Senate Public Lands Committee opened it in **October 1923** (history.com).
+  **Senator John B. Kendrick** of Wyoming moved for it (wyohistory.org), and **Senator Thomas J.
+  Walsh** of Montana, a junior minority member, led it for about two years and found Doheny's
+  $100,000 (Wikipedia). In **1927** the Supreme Court ruled the leases had been corruptly obtained
+  (Wikipedia).
+- **Outcome:** **25 October 1929**, Fall was found guilty of accepting a bribe from Doheny.
+  Sentence: **one year in prison and a $100,000 fine** (history.com). He was **the first person
+  convicted of a crime committed while a cabinet member** (history.com, wyohistory.org). Figures to
+  keep straight: he served **just over nine months** and **never paid the fine** (search summary of
+  todayinconservation.com and history.com, **unconfirmed: search summary only** for the nine months
+  and the unpaid fine). **Doheny was acquitted** of paying the bribe that Fall was convicted of
+  taking (Wikipedia, wyohistory.org). **Sinclair went to jail, and the sources disagree on the
+  term:** wyohistory.org says a **9-month** term "not for bribery but for contempt of Congress" and
+  related jury-surveillance charges. Wikipedia says he served **six months** for jury tampering.
+  Write "several months" or give both.
+- Owner: `crime-justice` owns the crime. This chapter owns it as the case where the Senate
+  investigated a cabinet officer and sent him to prison.
+
+### PATCH 2026-09-27 (T-258r): Era 8, radio and television in campaigns (the outline's last clause)
+
+- **1940:** the Republican National Convention in **Philadelphia** was the first televised,
+  carried by the Philco station **W3XE** (search summary of broadcastpioneers.com and ushistory.org,
+  **unconfirmed: search summary only**). Few Americans owned a set.
+- **1948:** both parties met in Philadelphia and the networks covered them. The National
+  Constitution Center gives "as many as **10 million** East Coast viewers," five shared
+  fixed-position cameras, and about **70 million** viewers by 1952. On **12 July 1948** the Democratic
+  convention adopted a civil rights plank after **Hubert Humphrey**'s speech, and two Southern
+  delegations walked out on live television. On **17 July** Southern delegates met in **Birmingham,
+  Alabama**, formed the **States' Rights Democratic Party (the Dixiecrats)**, nominated **Strom
+  Thurmond**, then governor of South Carolina, on a platform stating "We stand for the segregation
+  of the races," and won **four states and 39 electoral votes**.
+  (https://constitutioncenter.org/blog/phillys-conventions-civil-rights-tv-heat-dominate-1948-meetings)
+- **1952** (era 9): "Eisenhower Answers America," the first spot-advertising campaign by a
+  presidential candidate, forty spots filmed in one day in a Manhattan studio (search summary of
+  wisconsinhistory.org and livingroomcandidate.org, **unconfirmed: search summary only**).
+- Radio: the FDR Library page on the fireside chats returned HTTP 404. Not re-sourced here.
+
+### PATCH 2026-09-27 (T-258r): Era 8, the school district and the property tax, with numbers
+
+The outline says the district "settles into place" and the property tax "becomes the way American
+schools are paid for," and calls this a "decision." Source: National Center for Education
+Statistics, *120 Years of American Education: A Statistical Portrait* (1993),
+https://nces.ed.gov/pubs93/93442.pdf, Tables 20 and 21.
+- **Local money** (the table's column is "Local (including intermediate)") paid **79.8 percent** of
+  public school revenue in 1899-1900, **83.2 percent** in 1919-20, **82.7 percent** in 1929-30,
+  **68.0 percent** in 1939-40 and **57.3 percent** in 1949-50. **State** money rose from **16.5
+  percent** (1919-20) to **39.8 percent** (1949-50). **Federal** money was **2.9 percent** in 1949-50.
+- **Number of public school districts:** **119,001** (1937-38), **117,108** (1939-40), **101,382**
+  (1945-46), **83,718** (1949-50), **40,520** (1959-60), **17,995** (1970-71). The districts were
+  being merged away fast in exactly this era.
+- **Correction note for the writer:** (1) The NCES table counts "local" money and does not split out
+  the property tax. That local money came mostly from property taxes is widely stated, but no page
+  fetched on this run gives the property-tax share, so do not print a property-tax percentage.
+  (2) There was **no single "decision."** The pattern is thousands of districts each taxing local
+  property, with the local share highest around 1920 and already falling by 1950 as states paid
+  more. Write it as a pattern with the numbers above, not as one choice someone made.
 
 ---
 
@@ -1752,6 +1903,63 @@ vote-counter: how a bill actually gets through a Senate that does not want to pa
   Deadrich Loney** beside him. Sourced in full above.
 - **Movie:** none verified for this chapter's use. Do not claim one.
 
+### PATCH 2026-09-27 (T-258r): Era 9, how Johnson's 87-vote margin was made: Box 13, 1948 (named actors, count)
+
+The `lyndon-b-johnson` story says he won by 87 votes and was called "Landslide Lyndon." A reader
+will ask how. The bank had no answer. Sources: Steve Vladeck, "Justice Black and the 1948 Texas
+Democratic Senate Primary," https://www.stevevladeck.com/p/101-justice-black-and-the-1948-texas ,
+and Wikipedia, "Box 13 scandal," https://en.wikipedia.org/wiki/Box_13_scandal (both fetched
+2026-09-27).
+- **The race:** the 1948 Democratic runoff for the U.S. Senate in Texas, **Lyndon Johnson against
+  Coke Stevenson**. On runoff night Johnson appeared to have lost (Vladeck).
+- **The late votes:** **six days after the polls closed**, **202 more votes** were reported from
+  **Precinct 13 of Jim Wells County**, **200 for Johnson and 2 for Stevenson** (Wikipedia, Vladeck).
+  The local election judge changed the tally-sheet total **from 765 to 965** (Vladeck).
+- **Why people called them fraudulent** (Wikipedia): the added names were in alphabetical order,
+  in the same ink and the same handwriting. Some people listed said they had not voted that day.
+  The last voter recorded before the added names said nobody had been in line behind him.
+- **Who:** the Precinct 13 election judge was **Luis Salas**. In **1977** Salas told the Associated
+  Press reporter **James Mangan** that the South Texas political boss **George B. Parr** had ordered
+  about 200 votes added to Box 13, and that he watched the names of people who had not voted
+  being added to the tally sheet (Wikipedia, citing Mangan's taped interviews, which Mangan's family
+  gave to the LBJ Presidential Library in 2023). **This is Salas's account, given 29 years later. No
+  court ever ruled that the votes were forged.** Write it as "the election judge later said."
+- **Certification and the courts** (Vladeck): the state Democratic executive committee certified
+  Johnson **29 votes to 28**. Federal judge **T. Whitfield Davidson** then issued an injunction
+  blocking the certification. Supreme Court **Justice Hugo Black**, acting alone as circuit justice,
+  ruled orally on **Tuesday 28 September 1948** and in writing on **29 September**, and Johnson's name
+  went on the ballot. **Final margin: 87 votes out of 988,295** (Wikipedia) or "nearly 1 million"
+  (Vladeck).
+- **Owner and angle:** this chapter. It is a corruption case with named officials and a count, and
+  it sits inside a verified story. The historian **Robert Caro** argued in 1990 that Johnson stole
+  the election (Wikipedia). Johnson was never charged.
+
+### PATCH 2026-09-27 (T-258r): Era 9, the Voting Rights Act's first effect, a count
+
+- "By the end of 1965, a quarter of a million new Black voters had been registered, one-third by
+  federal examiners." "By the end of 1966, only four out of 13 southern states had fewer than 50
+  percent of African Americans registered to vote." The same page names the trigger as "the attack
+  by white state troopers on peaceful marchers in Selma, Alabama." (National Archives,
+  https://www.archives.gov/milestone-documents/voting-rights-act , fetched 2026-09-27.)
+  `rights-movements` tells Selma, the troopers and the people who were beaten.
+
+### PATCH 2026-09-27 (T-258r): Era 9, Title IX and the 1975 disability law as statutes (outline names both, bank had neither)
+
+Both are already sourced in `research/research-education.md` (sections 9i and "The Education for
+All Handicapped Children Act, 1975"). Copied here as law, with those sources:
+- **Title IX:** **Public Law 92-318**, the Education Amendments of 1972, signed **23 June 1972**.
+  "No person in the United States shall, on the basis of sex, be excluded from participation in, be
+  denied the benefits of, or be subjected to discrimination under any education program or activity
+  receiving Federal financial assistance." (20 U.S.C. 1681(a). Text re-checked 2026-09-27 at
+  https://www.dol.gov/agencies/oasam/centers-offices/civil-rights-center/statutes/title-ix .)
+  Renamed the Patsy Takemoto Mink Equal Opportunity in Education Act in 2002 (education bank).
+- **Education for All Handicapped Children Act, Public Law 94-142**, signed by **President Gerald
+  Ford on 29 November 1975**. It guaranteed a free, appropriate public education to every child
+  with a disability. The Department of Education: "In 1970, U.S. schools educated only one in five
+  children with disabilities," and Congress was concerned about "the more than 1 million children
+  with disabilities excluded entirely from the education system." (https://sites.ed.gov/idea/IDEA-History ,
+  as quoted in the education bank. The page returned HTTP 403 on 2026-09-27.)
+
 ---
 
 ## Era 10 — 2000 to Today
@@ -2102,6 +2310,123 @@ USCOURTS-dcd-1_21-cv-03354:
 only what the records say: what was said, who investigated, what they found, what a court decided.
 Do not say why anyone did anything. The facts are enough and the rule is the same as everywhere else
 in this book.
+
+### PATCH 2026-09-27 (T-258r): Era 10, the `shaye-moss` story: the dollar figure, the settlement and the pardon (perishable, refreshed)
+
+The bank above (10 September 2026) could not confirm the jury's figure from a government record.
+Now sourced from news reports, which carry the figure consistently:
+- **15 December 2023:** an eight-person jury in federal court in Washington awarded Ruby Freeman
+  and Shaye Moss **$148,169,000**: **$16,171,000** to Freeman and **$16,998,000** to Moss for
+  defamation, **$20 million** to each for intentional infliction of emotional distress, and
+  **$75 million** in punitive damages in total. (Breakdown: search summary of CBS News, PBS and
+  NBC, **unconfirmed: search summary only**. The **date and the $148 million total** are confirmed
+  on the PBS page, https://www.pbs.org/newshour/amp/politics/jury-awards-148-million-in-damages-to-georgia-election-workers-over-rudy-giulianis-2020-vote-lies ,
+  fetched 2026-09-27, which says deliberations took "about 10 hours.")
+- The judge reduced the award to about **$146 million** (NBC News,
+  https://www.nbcnews.com/politics/politics-news/rudy-giuliani-judgment-defamation-case-former-georgia-election-workers-rcna193581 ,
+  fetched 2026-09-27).
+- **January 2025:** in a separate enforcement case in New York, **U.S. District Judge Lewis Liman**
+  found Giuliani in contempt for failing to give information about his assets. Giuliani and the two
+  women settled in **January 2025** (Giuliani announced it on **16 January**, search summary only).
+  The terms were not made public. Giuliani said he kept his Manhattan apartment and his Palm Beach
+  condominium and promised not to defame them again (search summary of NBC and the plaintiffs'
+  law firm Willkie, **unconfirmed: search summary only**). A court filing showed the judgment
+  **satisfied on Friday 21 February 2025** (NBC News, fetched).
+- **7 November 2025:** President Trump signed a proclamation pardoning **Rudolph Giuliani**, **Mark
+  Meadows**, **Sidney Powell**, **John Eastman**, **Jeffrey Clark** and the Republicans who acted as
+  "fake electors" in 2020, among others. The pardon attorney **Ed Martin** posted it on **9 November**
+  (a Sunday) and it was reported on 10 November. The proclamation says it does not apply to Trump.
+  **A presidential pardon covers federal crimes only**, and none of those named had been charged
+  with a federal crime over the 2020 election. State charges were still pending against several of
+  them when it was issued. (PBS NewsHour / Associated Press,
+  https://www.pbs.org/newshour/amp/politics/trump-pardons-rudy-giuliani-and-others-who-backed-efforts-to-overturn-2020-election-official-says ,
+  fetched 2026-09-27. The proclamation's date, 7 November, is from the search summary of NPR,
+  **unconfirmed: search summary only**.) **A pardon does not touch a civil judgment** such as the
+  defamation award, and by then it had already been paid. Do not tell the reader the pardon undid it.
+- **Writer's use:** the story can now give the amount (write "$148 million, later reduced to about
+  $146 million") and say Giuliani settled and paid in early 2025. Date every figure.
+
+### PATCH 2026-09-27 (T-258r): Era 10, what happened to the people charged over 6 January 2021 (perishable, primary source)
+
+The outline tells the attack and the counts. The bank had nothing after 2022.
+- **Proclamation 10887, signed 20 January 2025** by **President Donald Trump**, the day he took
+  office. It **commuted to time served** the sentences of fourteen named people, members of the Oath
+  Keepers and Proud Boys, among them **Stewart Rhodes, Kelly Meggs, Ethan Nordean, Joseph Biggs,
+  Zachary Rehl and Dominic Pezzola**. It granted "a full, complete and unconditional pardon to all
+  other individuals convicted of offenses related to events that occurred at or near the United
+  States Capitol on January 6, 2021," ordered everyone still held in prison released immediately,
+  and directed the Attorney General to seek dismissal of all pending indictments.
+  (Daily Compilation of Presidential Documents DCPD-202500112,
+  https://www.govinfo.gov/content/pkg/DCPD-202500112/pdf/DCPD-202500112.pdf , fetched 2026-09-27.)
+- **How many:** the proclamation gives no number. News reports say **about 1,500** people were
+  pardoned (NPR headline "Trump pardons some 1,500 Jan. 6 rioters, commutes 14 sentences," 20
+  January 2025, search result title and summary only, **unconfirmed: search summary only**). The
+  pardons covered convictions from trespassing to assaulting police (same, search summary).
+- The GAO counts already in the bank (about 140 officers assaulted) describe the people these
+  pardons covered. Write both facts plainly, with dates. Do not add a judgment.
+
+### PATCH 2026-09-27 (T-258r): Era 10, a federal corruption case with named officials: Senator Bob Menendez
+
+The subject notes ask for corruption cases with named officials in every era. Era 10 had none.
+Source: Wikipedia, "Bob Menendez," https://en.wikipedia.org/wiki/Bob_Menendez (fetched
+2026-09-27), which cites ABC, CNN, the New York Times and PBS for each point below. Sentencing
+also in the search summary of CNN, the New Jersey Monitor and Bloomberg Law.
+- **22 September 2023:** federal prosecutors in Manhattan charged **Senator Robert "Bob"
+  Menendez** of New Jersey (Democrat), his wife **Nadine Menendez** and others. Agents had found
+  **$480,000 in cash** and more than **$100,000 in gold bars** in the Menendez home.
+- **16 July 2024:** a jury convicted him **on all counts**, including acting as a foreign agent of
+  **Egypt**. He was the first member of Congress convicted of acting as a foreign agent (search
+  summary of CNN, **unconfirmed: search summary only**). He resigned from the Senate in **August
+  2024**.
+- **29 January 2025:** sentenced to **11 years in prison**. Two businessmen convicted with him got
+  **Fred Daibes, 7 years and a $1.75 million fine**, and **Wael Hana, more than 8 years and a $1.3
+  million fine** (search summary of CNN and others, **unconfirmed: search summary only**). He
+  reported to prison in **June 2025** and was held at **FCI Allenwood Low**, Pennsylvania, as of
+  July 2025 (Wikipedia). Nadine Menendez was convicted on all counts at her own trial in 2025
+  (Wikipedia).
+- Owner: `crime-justice` owns the crime. This chapter may use it in one or two sentences as the
+  era's example of a sitting senator convicted of taking bribes.
+
+### PATCH 2026-09-27 (T-258r): Era 10, who does not get a vote: people with felony convictions (hard subject, dated count)
+
+The outline's span "Who does not get a vote" covers the District of Columbia and the territories
+only. The largest group of adult citizens who cannot vote is people with felony convictions.
+- **2024:** about **4 million** Americans could not vote because of a felony conviction, **1.7
+  percent** of the voting-age population, down **31 percent** from **5.9 million** in 2016. **1 in 22**
+  Black Americans of voting age (**4.5 percent**) could not vote, more than three times the rate
+  for everyone else (**1.3 percent**). Highest state rates: **Tennessee 7.68 percent, Florida 6.13
+  percent (over 961,000 people), Alabama 5.95 percent.** About **72 percent** of the people counted
+  were not in prison: they were on probation or parole or had finished their sentences. **Maine
+  and Vermont** (and the District of Columbia and Puerto Rico) let people vote from prison.
+  (The Sentencing Project, *Locked Out 2024: Four Million Denied Voting Rights Due to a Felony
+  Conviction*, 10 October 2024, by Christopher Uggen, Ryan Larson, Sarah Shannon, Robert Stewart
+  and Molly Hauf,
+  https://www.sentencingproject.org/reports/locked-out-2024-four-million-denied-voting-rights-due-to-a-felony-conviction/ ,
+  fetched 2026-09-27.) **These are the Sentencing Project's estimates, not a government count.
+  Say whose count it is.** State legislatures and state constitutions set these rules, so they
+  differ state by state. `crime-justice` may tell the history. The count as a limit on the vote is
+  this chapter's.
+
+### PATCH 2026-09-27 (T-258r): Era 10, perishable facts re-checked on 27 September 2026
+
+- **Impeachment.** No president has been convicted by the Senate. In the 119th Congress
+  Representative **Al Green** of Texas forced three House votes on articles of impeachment against
+  President Trump, and the House voted to table (set aside) each one: **H.Res. 537, 24 June 2025,
+  344 to 79**; **H.Res. 939, 11 December 2025, 237 to 140** with 47 voting present; **H.Res. 1486,
+  15 September 2026, 232 to 147** with 47 voting present. Trump has not been impeached a third time.
+  (Tallies from the advocacy tracker https://www.impeachtrumpagain.org/tracker , fetched
+  2026-09-27. congress.gov and the House Clerk's vote pages returned 403 or would not render.
+  **Treat the tallies as single-source.** The Dec 2025 tally also appears in a search summary of
+  freespeechforpeople.org.) The outline's "No president has ever been convicted" stands.
+- **Voting Rights Act after *Callais*.** As of **15 September 2026** Congress had passed no
+  replacement coverage formula and no new Section 2 standard. That day both houses introduced
+  resolutions naming September 2026 "National Voting Rights Month" (H.Res. 1542, S.Res. 854),
+  and the Senate text pointed to the **John R. Lewis Voting Rights Advancement Act of 2025 (S. 2523,
+  H.R. 14)** as pending legislation. (govinfo.gov bill-status records, search summary only,
+  **unconfirmed: search summary only**.) The parked line "STILL OPEN AS OF 9 SEPTEMBER 2026" is
+  still true on 15 September 2026.
+- The outline's era sentence "written from records available on 10 September 2026" should be
+  updated by the writer to the latest date it relies on.
 
 ---
 

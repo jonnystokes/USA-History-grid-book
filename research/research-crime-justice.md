@@ -431,3 +431,27 @@ Banished from New Mexico for life, exiled from Mexico City for four years (Carls
 Historical Society; PBS POV says five), fined 6,000 ducats. Whether he was later pardoned is not
 settled. No Acoma person was asked to testify at his trial in any source read (native-nations bank:
 "Nobody at Acoma was asked, and nothing was returned").
+
+## Parked from `government-politics` (2026-09-27, T-258r)
+
+`government-politics` owns these as law and politics. The crime side is yours. Full sourcing is in
+`research/research-government-politics.md` under the T-258r PATCH headings named below.
+- **Era 8, Teapot Dome** ("Era 8, Teapot Dome"): Interior Secretary **Albert B. Fall** leased the
+  Teapot Dome (Wyoming) and Elk Hills (California) naval oil reserves to **Harry F. Sinclair** and
+  **Edward Doheny**. Doheny gave him a $100,000 interest-free "loan", Sinclair about $300,000 in bonds
+  and cash. Fall was convicted **25 October 1929**, sentenced to one year and a $100,000 fine, the
+  first person convicted of a crime committed as a cabinet member. Doheny was acquitted. Sinclair
+  was jailed for contempt of Congress and jury tampering (six months per Wikipedia, nine per
+  wyohistory.org). (history.com This Day in History; wyohistory.org; Wikipedia.)
+- **Era 9, Box 13, 1948** ("Era 9, how Johnson's 87-vote margin was made"): 202 late votes added to
+  Precinct 13, Jim Wells County, Texas, six days after the runoff, 200 for Lyndon Johnson. Election
+  judge **Luis Salas** said in 1977 that **George B. Parr** ordered them added. No court ruled the votes
+  forged. (stevevladeck.com; Wikipedia "Box 13 scandal".)
+- **Era 10, Senator Bob Menendez** ("Era 10, a federal corruption case"): convicted on all counts
+  **16 July 2024** (bribery, acting as a foreign agent of Egypt), resigned August 2024, sentenced to
+  **11 years** on **29 January 2025**. $480,000 cash and over $100,000 in gold bars found at his home.
+- **Era 10, Proclamation 10887, 20 January 2025**: pardoned all people convicted over 6 January 2021
+  except fourteen Oath Keepers and Proud Boys, whose sentences were commuted to time served.
+  About 1,500 people (NPR, search summary only). (govinfo DCPD-202500112, primary.)
+- **Era 10, felony disenfranchisement 2024**: about 4 million people (1.7 percent of voting-age
+  population), 1 in 22 Black adults. The Sentencing Project, *Locked Out 2024*, 10 October 2024.
