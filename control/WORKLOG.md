@@ -2520,3 +2520,10 @@ RESULT: DONE (2026-09-27). PASS technology / patch and / research. stories 23 (v
         Robert Williams' false face-recognition arrest, Pew 2025-26 and Aug 2026 AI job-cut figures.
         SEARCHED NOT FOUND: 1 (Andersen v. Stability AI verdict; trial date disputed). Nothing parked elsewhere.
         4 [VERIFY] tags left in an old parked bank section -> WRITER brief now says [VERIFY] bank lines are not facts.
+USAGE END: not captured (the 5-hour window reset before a reading).
+
+### 2026-09-27 | [LOCAL] T-247 | energy: patch (2 candidates, 3 targets) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-247-energy.md
+VERIFY: python tools/project_state.py --check energy --stage patch (and --stage research)
+USAGE AT START: 0% (Jon: fresh 5-hour window). This reading is clean: brackets director prep + the agent.
