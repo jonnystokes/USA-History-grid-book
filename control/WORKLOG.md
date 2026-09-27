@@ -2890,7 +2890,7 @@ NEXT (one at a time): T-260b religion 6-10 (split), T-261b education 6-10 (split
 T-266b drugs-alcohol 6-10, then the 7 seeds: news-communication, art, music, storytelling-evolution,
 styles, sports-play, holidays.
 
-### 2026-09-27 | [LOCAL] T-263b | health: full research eras 6-10 (completes the chapter) | model opus
+### 2026-09-27 | [LOCAL] T-263b | health: full research eras 6-8 (T-263c does 9-10) | model opus
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-263-health.md
 VERIFY: python tools/project_state.py --check health --stage research
