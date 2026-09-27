@@ -42,7 +42,7 @@ Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each t
 - [ ] T-252 `money`
 - [ ] T-253 `marketplace`
 - [ ] T-254 `america-world`
-- [ ] T-255 `slavery-freedom`
+- [x] T-255 `slavery-freedom` (PASS research, 354k tokens, 21 min, parallel)
 - [ ] T-256 `big-business` (bank write-up from the outline's inline sources)
 
 The kitchen thread spans home-family, technology and energy. Brief T-245 to settle it once and

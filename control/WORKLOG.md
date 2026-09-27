@@ -2641,6 +2641,16 @@ CHECKPOINT: control/checkpoints/T-254-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage patch (and --stage research)
 
 ### 2026-09-27 | [LOCAL] T-255 | slavery-freedom: patch (1 candidate, 1 target) + bank check | model opus | PARALLEL
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-255-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage patch (and --stage research)
+RESULT: DONE. PASS slavery-freedom / patch and / research. stories 24 (v24 c0 t0), bank 10,697 -> 18,074w,
+        outline 6,355 -> 8,414w, validator 0. 353,955 tokens, 151 tool uses, 20.5 min (opus, parallel).
+        Stories: Milla Granson verified from Haviland 1881 ("about 200" corrected to her word "hundreds"); target
+        replaced by Joycelyn Davis (Africatown, descendant of Charlie Lewis; Smithsonian 2022, NatGeo 2019,
+        Descendant 2022). All ten era-zoom lines rewritten (no em dash, no semicolon, actors named). Bank check:
+        Middle Passage 13-19% deaths, Equiano, flogging and branding defined with method (1712 SC code, Douglass,
+        Ricks ad), NY 1712 and 1741, German Coast 1811, Hemings, Jacobs, Celia, Peter ("The Scourged Back"),
+        Memphis and New Orleans 1866, Colfax and Cruikshank, convict leasing, peonage, Choctaw and Chickasaw land.
+        SEARCHED NOT FOUND: 3. Perishables: H.R. 40, Evanston, CA SB 518, Maryland override, park exhibits 2025-26.
+        TO PARK: 3 items.

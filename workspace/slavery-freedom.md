@@ -53,13 +53,13 @@ Companion files: outline `outlines/slavery-freedom.md` (all ten eras `progress="
 ## Featured people — final status
 - **Verified famous:** Estevanico (`estevanico-slavery-freedom`) · Elizabeth Freeman · Phillis Wheatley (`-slavery-freedom`) · Tubman (*Harriet* 2019) · Douglass (`-slavery-freedom`, *Becoming Frederick Douglass* 2022) · Nat Turner (*The Birth of a Nation* 2016) · Sojourner Truth (`-slavery-freedom`) · Solomon Northup (*12 Years a Slave* 2013) · Sengbe Pieh (*Amistad* 1997) · Dred and Harriet Scott · Robert Smalls · Revels and Bruce · Alex Haley (*Roots* 1977, adaptation caveat).
 - **Verified ordinary (the seed's targets, now named):** John Punch (legal-hinge person) · Francisco Menéndez (Fort Mose settler) · Ona Judge (runaway-ad person, 1796 ad + her own interviews) · William Harvey Carney (documented Black soldier; 54th Mass. — a state regiment; USCT number kept in the span) · Susie King Taylor (Freedmen's-school teacher) · Thornton Copeland (Information-Wanted ad writer, Last Seen item 918) · Fountain Hughes (recorded-voice narrator, LOC 1949) · Mélisande Short-Colomb (descendant/genealogy slot, GU272).
-- **Candidate:** Milla Granson (midnight school — single main primary source, Haviland 1881; carried with that honesty).
-- **Target (1 left):** an Africatown descendant (era 10) — named candidates from *Descendant* (2022) coverage: Joycelyn Davis, Emmett Lewis (journalism; verify + consent framing before naming in prose).
+- **Verified 2026-09-27 (T-255):** Milla Granson (Haviland 1881 read at the passage; one primary source, named in prose).
+- **Verified 2026-09-27 (T-255):** Joycelyn Davis (era 10, slug joycelyn-davis), descendant of Clotilda survivors Charlie and Maggie Lewis, on-the-record interviews (Smithsonian 2022, National Geographic 2019), appears in *Descendant* (2022). Replaces the africatown-descendant target.
 - **Movie lines verified real:** Harriet (2019) · Becoming Frederick Douglass (2022, doc) · The Birth of a Nation (2016) · 12 Years a Slave (2013) · Amistad (1997) · Descendant (2022, doc) · Roots (1977, adaptation). *Glory* (1989) mentioned in Carney's text as topic film only — no Movie line.
 
 ## [VERIFY] queue
 **All seed-era VERIFY items cleared 2026-08-07** (see bank's Coverage/status log for findings): 1600s anti-literacy (finding: no 1600s statute; first SC 1740, writing only) · Punch · Johnson v. Parker/Casor · post-1831 anti-literacy wave with penalties · learning methods (pit schools UNVERIFIED — dropped) · Douglass's *Narrative* chs. 6–7 · Taylor/St. Simons 1862 · freedpeople self-funding · AMA · Bureau counts (2,600+/~150,000 by 1870, scope caveat) · Fisk/Howard/~25 by 1872 · Memphis 1866 burnings · Reconstruction constitutions → first statewide public school systems (confirmed, Yale LJ).
-- [ ] (prose stage) name and verify one Africatown descendant with consent framing.
+- [x] Africatown descendant named and verified: Joycelyn Davis (T-255).
 
 ## Boundary-rule placements (ruling 3, applied)
 - 1808 import ban: the clause is era 5 (1787); the ban taking effect (Jan 1, 1808) opens era 6.
@@ -84,3 +84,14 @@ class · region (the South, and the North's role — gradual abolition's slownes
 3. **Fountain Hughes** fills the "WPA narrator" slot with an actual voice recording (LOC 1949) rather than a 1936–38 WPA transcript narrator — swap available if a strictly-WPA transcript person is preferred.
 4. Slavery inside the Five Tribes and the Freedmen: told here in eras 7 and 10 with `native-nations` leading on sovereignty — confirm the split.
 5. The seed's "plantations changing how they tell their own story" line was dropped — no sourced item in the bank; restore only with a verified example.
+
+
+## T-255 bank check (2026-09-27): what was added, for the writers
+- **New hard-subject material in the bank (dated PATCH blocks):** Middle Passage death rate (13 to 19 percent, LDHI) and Equiano's first-person account; Rhode Island's ships; who wrote the codes; flogging and branding defined with method (policy 3b); South Carolina's 1712 runaway punishments; the Micajah Ricks branding ad (1838); New York 1712 and 1741; Stono's suppression; Sally Hemings; the 1811 German Coast uprising; Franklin and Armfield; cotton land ceded by the Choctaw and Chickasaw; Harriet Jacobs; Celia (1855, search summaries only, open a page before writing); Peter, "The Scourged Back"; Memphis 1866 actors and Frances Thompson; New Orleans 1866; Colfax actors and *Cruikshank*; Alabama convict leasing; peonage cases; reparations updated to September 2026; the 2025-2026 fight over national park exhibits.
+- **Outline:** all ten era-zoom lines rewritten with no em dashes or semicolons. New bullets added under the existing spans, one new span in era 4 (New York, 1712 and 1741) and one in era 10 (the parks fight).
+- **Corrections:** Granson taught "hundreds" (Haviland), not "about 200". Carney's route to freedom is disputed (NPS). Short-Colomb's "Here I Am" is a play she wrote.
+- **Famous names now also present:** Sally Hemings, Harriet Jacobs, Charles Deslondes, Celia, the "Scourged Back" photograph.
+- **Open questions for the director:** (1) era 7 is now very long; the bullets are working notes and writers will choose. (2) Sally Hemings is told in a span, not a story block. Promote if wanted (sources: Encyclopedia Virginia). (3) Harriet Jacobs could be a story block in era 6 (DocSouth biography sourced). (4) The older outline span bullets still carry em dashes and semicolons as working notes. Writers must not copy them.
+
+## Cross-chapter parking log (T-255)
+- Parallel run: nothing written into other chapters' files. Items for other chapters are listed under TO PARK in `control/checkpoints/T-255-slavery-freedom.md`.
