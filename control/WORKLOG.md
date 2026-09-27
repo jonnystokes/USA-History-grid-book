@@ -2937,3 +2937,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage research
 RESULT: DONE. PASS  crime-justice / research. measured: stage=RESEARCHED eras=10/10 stories=13 (v13 c0 t0) verify_tags=0 bank=28147w outline=15260w manuscript=0w validator_errors=0
         370245 tokens, 134 tool uses, 21.9 min (opus). Eras 9-10, chapter COMPLETE. Stories: Emmett Till, Clarence Earl Gideon, Kemba Smith, the Exonerated Five. Mapp, Miranda, Gault; death penalty 1972/1976 and yearly counts to 2026, 202-203 exonerations, Stinney; Attica; drug laws and who wrote them; BJS prison counts by race to 2023; Rodney King, Diallo, six killings 2014-2023 incl. George Floyd with outcomes; FBI 2025. 2 searched-not-found. TO PARK 6.
 NOTE (Jon, 80%): PAUSE after T-263c and T-265c finish. No new dispatches until Jon says.
+
+### 2026-09-27 | [LOCAL] PAUSED (Jon, 80%)
+T-263c health and T-265c crime-justice done: both chapters now PASS research. Parked items filed into 10 banks
+(all validate 0; finished chapters still PASS prose). Measured: RESEARCHED 21, WRITTEN 7, PARTIAL 2 (disasters,
+drugs-alcohol), SEED 7. Nothing in flight. Queue in control/TODO.md.

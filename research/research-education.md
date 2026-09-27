@@ -3207,3 +3207,10 @@ student counts as disabled for a school's purposes.
 Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
 (STATUS for the director: three items below.)
 - `education`, era 08 (pointer): New London, Texas, school explosion, March 18, 1937, about 298 dead of 500 students and 40 teachers (TSHA Handbook), 294 (Wikipedia body). Full entry in research/research-disasters.md era 08. No education outline mentions it (grep 2026-09-27).
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+- `education` (children thread, optional), era 1950-2000: *In re Gault* (1967, Gerald Gault, 15) is told here in a span. Crime-justice bank era 9.
+  
+  Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.

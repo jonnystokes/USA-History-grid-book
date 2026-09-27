@@ -1570,3 +1570,7 @@ Full sourced text is in `research/research-war.md` under the T-259b PATCH named.
 - `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).
 - `america-world`, era 10: boat strikes Sept 2025-Sept 2026, at least 231 killed in 69 strikes by 19 Sep 2026 (AP via NBC). Iran war: 19 public DCAS deaths vs at least 22 per officials (WaPo 22 Sep 2026).
 - `america-world`, era 6: Grant's "one of the most unjust" quote (Memoirs ch. 3, Gutenberg #4367); Polk sent troops into the disputed zone (Colorado Encyclopedia).
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.

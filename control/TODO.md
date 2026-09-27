@@ -11,12 +11,17 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**Ten-agent batch hit the usage limit: 2 done (education 1-5, war 1-5), 8 partial and committed.**
-NOW (Jon, 46%): after T-262r, a BURST OF TWO (T-260r religion + T-257r exploration), then ONE AT A TIME: T-258r gov-politics, T-262r rights, T-260r religion, T-257r exploration,
-T-263r health, T-264r disasters, T-265r crime-justice, T-266r drugs-alcohol. Then file all TO PARK items. Then
-the second halves (war 6-10, religion 6-10, education 6-10, rights 7-10, seeds 6-10) and the other 7 seeds.
-Tulsa 1921: rights-movements leads, crime-justice the justice angle (DECISIONS #23).
-**AUTONOMOUS (Jon, 2026-09-27): non-stop, one agent at a time** (DECISIONS #24).
+**PAUSED (Jon, at 80% of the 5-hour window).** Nothing in flight. Do not dispatch until Jon says.
+
+Step 1 (research) measured 2026-09-27: RESEARCHED 21 + WRITTEN 7 = 28 of 37 chapters pass research.
+Still to do, one at a time unless Jon calls a burst (DECISIONS #25):
+- **disasters** eras 9-10 (T-264c) and **drugs-alcohol** eras 9-10 (T-266c): both chapters PARTIAL, last pieces.
+- **religion** eras 6-10 bank check (T-260b, split: 6-7, 8-10). Chapter already passes.
+- **education** eras 6-10 bank check (T-261b, split x3: 6-7, 8, 9-10). Chapter already passes.
+- **rights-movements** eras 7-10 bank check (T-262b, split x3; era 8 LEADS Tulsa 1921, DECISIONS #23). Passes.
+- **7 seeds, full research** (2-3 agents each): news-communication, art, music, storytelling-evolution,
+  styles, sports-play, holidays.
+Then STEP 2 (writing). T-243e economy gaps wait for step 4.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 

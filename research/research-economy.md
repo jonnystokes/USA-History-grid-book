@@ -264,3 +264,7 @@ Labor/institutional: United Steelworkers worker-ownership history; Ohio History 
 ## Parked from `money` (2026-09-27, T-252)
 Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-252 PATCH named in each item.
 - -> `economy`, era 1950-2000: S&L crisis (Fed History: RTC closed 747 S&Ls, $407B assets, up to $124B taxpayer cost). Money bank era 9 patch. Era 2000-today: SVB/Signature/First Republic 2023 (FDIC). Money bank era 10 patch.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `government-politics` and `economy`, era 2000-today: uninsured 26.7 million (7.9 percent) in 2025 (Census, 15 Sep 2026), 4 July 2025 budget law work requirements from 1 Jan 2027 and CBO's 10 million more uninsured in 2034, marketplace tax credits ended after 2025 (KFF). Health bank era 10.

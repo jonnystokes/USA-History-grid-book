@@ -602,3 +602,12 @@ How the prose can say it: "In the 1910s young men in the immigrant neighborhoods
 ## Parked from `crime-justice` (2026-09-27, T-265)
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 - `drugs-alcohol`, era 1900-1950: for their "(target) a Prohibition agent" slot, Eliot Ness is told here as a story (eliot-ness-al-capone). Use a different person there. FBI Capone dates in crime-justice bank era 8.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `drugs-alcohol`, era 2000-today: CDC overdose figures pulled 2026-09-27 (peak 112,418 12 months to Aug 2023, 66,937 12 months to Apr 2026, opioid 41,755, synthetic opioids 35,115), CDC's three waves (806,000 opioid deaths 1999-2023), OTC naloxone 29 March 2023. Health bank era 10.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+- `drugs-alcohol`, era 1950-2000: USSC 2007 report Table 2-1 (Black share of federal crack offenders 91.4% in 1992; crack treatment admissions 2004 53% Black, 38% white); Anti-Drug Abuse Act 1986 (Len Bias 19 June 1986, O'Neill, Reagan signed 27 Oct 1986, 5 g vs 500 g); Rockefeller laws 1973. Kemba Smith is told here as a story: use a different person. Crime-justice bank era 9.

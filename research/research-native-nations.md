@@ -590,3 +590,13 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `native-nations`, 1850-1900: FJC: 1895 and 1897 federal liquor laws, by 1900 ~5% of federal prisoners were Native-liquor offenders. Bank era 07.
 - `native-nations`, 1800-1850: Little Turtle (Michikinikwa, Miami) urged the 1802 liquor provision (Federal Judicial Center "Native Prohibition"); 1827 Mohican-Stockbridge letter to Congress, moved to Wisconsin partly to "flee from" liquor (NARA Prologue 2014). Bank era 06.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `energy` and `native-nations`, era 1950-2000: ACHRE 1995 on uranium miners: "at least several hundred miners died of lung cancer" from radon, and federal officials did not require ventilation or warn the miners. Source: ACHRE Executive Summary, https://ehss.energy.gov/OHRE/roadmap/achre/summary.html. Health bank era 09 PATCH "government radiation experiments on people".
+- `rights-movements` and `native-nations`, era 1950-2000: the Relf sisters (June 1973, SPLC) and the 1976 GAO finding of 3,406 IHS sterilizations (NLM 543, NARA 2022), Norma Jean Serena (NARA 2022). rights-movements says federal money paid for sterilizations in the 1970s but names no one. Health bank era 09.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+- `native-nations`, era 1950-2000: Wounded Knee 1973: Marshal Lloyd Grimm paralyzed; Frank Clearwater (Eastern Cherokee) shot 17 April, died 25 April; Buddy Lamont (Oglala) killed by a federal sniper 26 April; Judge Fred Nichol dismissed the Banks-Means case in 1974 for government misconduct (WP). Era 2000-today: McGirt (9 July 2020, 5-4) and Castro-Huerta (2022). Crime-justice bank eras 9-10.

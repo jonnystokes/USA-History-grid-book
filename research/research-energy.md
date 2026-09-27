@@ -248,3 +248,7 @@ U.S. Energy Information Administration (Today in Energy series; Monthly Energy R
 ## Parked from `crime-justice` (2026-09-27, T-265)
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 - `native-nations` / `energy`, era 1900-1950: Osage death counts disagree: about 24 (OHS "Osage Murders"), at least two dozen (FBI), more than 60 (their own note). Their outlines say "more than 60"; add the range. Crime-justice bank era 8.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `energy` and `native-nations`, era 1950-2000: ACHRE 1995 on uranium miners: "at least several hundred miners died of lung cancer" from radon, and federal officials did not require ventilation or warn the miners. Source: ACHRE Executive Summary, https://ehss.energy.gov/OHRE/roadmap/achre/summary.html. Health bank era 09 PATCH "government radiation experiments on people".

@@ -622,3 +622,7 @@ Web-verified 2026-08-08, sourcing in `research/research-landmarks.md`. `landmark
 Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
 Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
 - `disasters`, era 8: Port Chicago explosion 17 Jul 1944, 320 killed (NPS).
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `disasters`, era 2000-today: COVID-19 deaths 1,245,791 through 19 Sep 2026 (CDC NCHS provisional, data as of 24 Sep 2026). Health bank era 10.

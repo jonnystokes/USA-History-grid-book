@@ -3163,3 +3163,15 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `rights-movements`, 1850-1900: Ida B. Wells vs Frances Willard 1893, Willard's 'locusts of Egypt' quote as reported by Wells (Wikipedia 'Frances Willard'). Bank era 07.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `rights-movements`, era 1950-2000: Medicare's 1966 hospital desegregation: almost 1,000 federal volunteer inspectors, 97 percent of acute beds certified by 1 July 1966, inspectors jailed, shot at, crosses burned; W. Montague Cobb the only medical professional at the signing (Smith 2016, PRRAC). Simkins v. Cone, 4th Cir. 1963, cert. denied 1964. Health bank era 09.
+- `rights-movements` and `native-nations`, era 1950-2000: the Relf sisters (June 1973, SPLC) and the 1976 GAO finding of 3,406 IHS sterilizations (NLM 543, NARA 2022), Norma Jean Serena (NARA 2022). rights-movements says federal money paid for sterilizations in the 1970s but names no one. Health bank era 09.
+- `rights-movements`, era 1950-2000: Willowbrook (hepatitis experiments 1956-71, Rivera 1972, 5,000-resident suit 17 March 1972). Health bank era 09.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+- `rights-movements`, era 1950-2000: Emmett Till's kidnapping, murder and the 1955 trial are told here as story `emmett-till` (DOJ close-file notice 2021; WP). Their outline names Till only for the 2022 Act. Do not tell the killing twice. Crime-justice bank era 9.
+- `rights-movements`, era 2000-today: closes their parked gap on Chauvin's state case: convicted 20 April 2021, sentenced 25 June 2021 to 22.5 years (Judge Cahill); federal 21 years (252 months) 7 July 2022 (Judge Magnuson); Lane, Kueng, Thao sentences and releases. Source is WP "Murder of George Floyd" (mncourts.gov still unopened). Also Breonna Taylor (Hankison 33 months, 21 July 2025) and Tyre Nichols (state acquittal 7 May 2025, new federal trial ordered 28 Aug 2025). Crime-justice bank era 10.

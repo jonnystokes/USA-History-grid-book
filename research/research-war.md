@@ -3154,3 +3154,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `health` (2026-09-27, T-263)
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `war`, era 1900-1950: Josie Mabel Brown's Navy oral history of Great Lakes 1918 (173,000 men, 6,000 in hospital). Clara Maass (contract nurse 1898 and in the Philippines). Health era 08 bank.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.

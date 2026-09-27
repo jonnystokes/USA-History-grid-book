@@ -2637,3 +2637,12 @@ All sourced text is in `research/research-drugs-alcohol.md` under the heading na
 ## Parked from `health` (2026-09-27, T-263)
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `rights-movements` or `government-politics`, era 1900-1950: Hill-Burton's separate-but-equal clause (13 Aug 1946, $3.7B federal, struck down 1963). Health era 08 PATCH.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `government-politics` and `economy`, era 2000-today: uninsured 26.7 million (7.9 percent) in 2025 (Census, 15 Sep 2026), 4 July 2025 budget law work requirements from 1 Jan 2027 and CBO's 10 million more uninsured in 2034, marketplace tax credits ended after 2025 (KFF). Health bank era 10.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+- `government-politics`, era 2000-today: Trump's New York conviction (34 counts, 30 May 2024; unconditional discharge 10 Jan 2025; appeal pending Sept 2026; removal denied by Judge Hellerstein 28 Aug 2026) from WP "Prosecution of Donald Trump in New York". Their outline tells 6 January but not this. Crime-justice bank era 10.
