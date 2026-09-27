@@ -2585,3 +2585,10 @@ RESULT: DONE. PASS landmarks / patch and / research. stories 17 (v17 c0 t0), ban
         Taft and Moton, EJI memorial, SPLC 2025 (2,086 standing, 415 removed), Pike reinstalled Oct 2025.
         SEARCHED NOT FOUND: 4. Unsourced outline claims flagged in the bank: 4. The agent also removed an outline
         line that spoke about the book itself ("the book does not invent people"): a fourth-wall break.
+USAGE END (T-249): 22% (Jon). 16% -> 22% (includes director close and T-250 prep, marked +).
+
+### 2026-09-27 | [LOCAL] T-250 | work-workers: patch (2 targets, 10 parked sections) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-250-work-workers.md
+VERIFY: python tools/project_state.py --check work-workers --stage patch (and --stage research)
+USAGE AT START: 22% (Jon).
