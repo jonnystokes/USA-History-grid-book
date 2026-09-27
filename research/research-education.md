@@ -3202,3 +3202,8 @@ regard to the ameliorative effects of mitigating measures"** — medication, pro
 and cochlear implants, mobility devices, oxygen equipment, assistive technology — with **ordinary
 eyeglasses and contact lenses expressly excluded from that list.** That is what governs whether a
 student counts as disabled for a school's purposes.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: three items below.)
+- `education`, era 08 (pointer): New London, Texas, school explosion, March 18, 1937, about 298 dead of 500 students and 40 teachers (TSHA Handbook), 294 (Wikipedia body). Full entry in research/research-disasters.md era 08. No education outline mentions it (grep 2026-09-27).

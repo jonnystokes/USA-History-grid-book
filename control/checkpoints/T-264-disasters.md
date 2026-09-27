@@ -19,7 +19,7 @@ NEXT:   T-264c: research eras 09 and 10 (1950-2000, 2000-today) in full, then th
 | 7 | bank check eras 6-8 | done | PATCHes per era (actors, counts, land, firsts): New Madrid land (Cherokee/Osage), Pulaski engineer and enslaved passengers (SNF), Natchez uncounted enslaved (SNF), Peshtigo on Menominee land ceded 1836 (Treaty of the Cedars; outline sentence added), Chicago Relief and Aid Society rules (SNF), St. Francis coroner's jury verdict (outline sentence added), Okeechobee coffin officials (SNF), Galveston/1927/Eastland unnamed actors. Institution-as-actor sentences repaired in outline eras 6-8 |
 | 8 | final: validator, research check, NEXT for T-264c | done | validator 0 errors. research FAIL as expected: stage=PARTIAL, t3 and verify_tags=2 all in eras 9-10 |
 
-## TO PARK (T-264b, for the director to file after the batch)
+## TO PARK (FILED by the director, 2026-09-27)
 
 (STATUS for the director: three items below.)
 
@@ -65,7 +65,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 - `city-building`, era 04: Boston's Board of Fire Wards, 12 men, appointed months after the October 2-3, 1711 fire (Boston Public Library, "Great Fires of Boston" guide, https://guides.bpl.org/bostonfires). Charleston's elected "firemasters", whose orders at a fire had the force of law (Halsey Map Preservation Society, "1740 (November 18) Fire", http://www.halseymap.com/flash/window.asp?HMID=37).
 - `slavery-freedom`, era 04: date dispute for the first 1741 fire. Its bank says Fort George burned March 8, 1741. Wikipedia, "New York Conspiracy of 1741", says March 18, 1741, and counts 13 fires in March and April.

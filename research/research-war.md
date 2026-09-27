@@ -3150,3 +3150,7 @@ RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY 
 ## Parked from `crime-justice` (2026-09-27, T-265)
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 - `war` (and `native-nations` if it says the same), era 1600s, DEFECT for AUDIT-QUEUE: `outlines/war.md` says Plymouth "hanged three Wampanoag men" in June 1675. The Plymouth court record (Shurtleff, *Records of the Colony of New Plymouth*, vol. 5, pp. 167-168, archive.org/details/recordsofcolonyo05newp) says Tobias and Mattashunannamo were hanged 8 June 1675 and Wampapaquan was reprieved a month and "afterwards shott to death within the said month." The record does not name their nation. Full text: `research/research-crime-justice.md` era 3.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `war`, era 1900-1950: Josie Mabel Brown's Navy oral history of Great Lakes 1918 (173,000 men, 6,000 in hospital). Clara Maass (contract nurse 1898 and in the Philippines). Health era 08 bank.

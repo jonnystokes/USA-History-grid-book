@@ -2918,3 +2918,7 @@ VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 RESULT: LANDED. FAIL  drugs-alcohol / research. measured: stage=PARTIAL eras=10/10 stories=14 (v11 c0 t3) verify_tags=4 bank=22819w outline=11624w manuscript=0w validator_errors=0
         393808 tokens, 133 tool uses, 18.1 min (opus). Eras 6-8 + bank check. Stories: John B. Gough, John Tackett Goolrick (morphine after a war wound), Pemberton, Carry Nation (moved to era 8), Izzy Einstein. Portland Rum Riot 1855 (Neal Dow ordered the shooting), opium laws and the Chinese, Harrison Act, poisoned industrial alcohol (Lowman, Wheeler), jake leg, enforcement deaths (89 or ~1,000), first marijuana arrests. 6 VERIFY cleared, 5 searched-not-found. Chapter FAIL until eras 9-10. TO PARK: 7 chapters.
 NOTE (Jon, 47%): burst of 3 more beside T-263b (messaged to switch to TO PARK): T-264b, T-265b, T-266b (eras 6-8 each).
+
+### 2026-09-27 | [LOCAL] Burst of 4 done; TO PARK filed (director, script)
+T-263b, T-264b, T-265b, T-266b all landed (eras 6-8; chapters PARTIAL until eras 9-10). Parked items filed into 12 banks, all validate 0.
+Jon (69%): burst of two next: T-263c health 9-10 + T-265c crime-justice 9-10.

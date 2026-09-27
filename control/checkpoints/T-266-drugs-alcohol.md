@@ -55,7 +55,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `religion`, 1750-1800: Handsome Lake (Seneca), visions of 1799, stopped drinking, preached against drunkenness, Code of Handsome Lake / Longhouse Religion still practiced (Wikipedia "Handsome Lake"). Bank era 05, "Native nations and the liquor trade, 1750 to 1800".
 - `native-nations`, 1700-1750: Tomochichi (Yamacraw) asked Oglethorpe and the Trustees in 1734 to forbid the sale of rum (Georgia Encyclopedia exhibition "Wrestling Temptation"). Bank era 04, "Georgia bans rum, 1735 to 1742". Also 1750-1800: Hagler (Catawba) 1754 quote. Bank era 05.
@@ -63,7 +63,7 @@ All sourced text is in `research/research-drugs-alcohol.md` under the heading na
 - `slavery-freedom`, 1750-1800: six enslaved distillers at Mount Vernon (Hanson, Peter, Nat, Daniel, James, Timothy), 1797-99; Washington's liquor ration to enslaved workers and the overseer James Butler; enslaved people helping defend Neville's Bower Hill and the burning of its slave quarters 17 July 1794. Bank era 05.
 - `government-politics`, 1700-1750: Virginia's 1705 election law and the "dry" weeks; Boston's General Court meeting at Vardy's tavern after the 1747 town-house fire. Bank era 04.
 
-## TO PARK (T-266b, not yet filed)
+## TO PARK (FILED by the director, 2026-09-27)
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `slavery-freedom`, 1800-1850: Frederick Douglass, *Narrative* (1845) ch. 10, slaveholders got enslaved people drunk at Christmas, bets on who could drink most whisky, "keeping down the spirit of insurrection" (Gutenberg #23). Bank era 06.
 - `immigration`, 1850-1900: opium laws and the Chinese (SF 1875 ordinance, Chief Crowley quote, Idaho 1887 'every white person', federal act 23 Feb 1887 barring 'any subject of the Emperor of China' from importing opium, 1883 New York hoax), Fisher/Stanford 2014 + Cornell LII 21 USC 191. Bank era 07.

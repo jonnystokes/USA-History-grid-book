@@ -61,7 +61,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY health files and this checkpoint. Cross-chapter material is listed here, not filed.
 
@@ -74,7 +74,7 @@ RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY 
 - `city-building` or `crime-justice`, era 1750-1800: the Doctors' Riot, New York, April 1788, the Black New Yorkers' February 1788 petition about the Negroes Burial Ground, up to 20 dead, and the 1789 anatomy law (Lovejoy 2014, Smithsonian). Health era 05 bank.
 - `slavery-freedom`, era 1700-1750: Onesimus's 1716 release terms (Obadiah bought as his replacement, continued unpaid work). Health era 04 bank.
 
-## TO PARK (T-263b, 2026-09-27, burst rule: NOT filed, for the director)
+## TO PARK (FILED by the director, 2026-09-27)
 - `native-nations`, era 1800-1850: the Indian Vaccination Act of 5 May 1832 ($12,000, Lewis Cass, more than 17,000 vaccinated by 1 Feb 1833, Mandan/Hidatsa/Arikara excluded) and the 1837 epidemic counts (Mandan about 2,000 to 23-138, Arikara two-thirds, Blackfoot two-thirds, Assiniboine half, Crow one-third, Pawnee one-quarter, more than 17,000 dead along the Missouri; captain Bernard Pratte Jr.). Full text: research/research-health.md era 06 and its PATCH.
 - `slavery-freedom`, era 1800-1850: J. Marion Sims's operations on enslaved women, Montgomery 1845-49 (Anarcha, Betsey, Lucy, 12 women and girls in one count, no anesthesia, the owners' arrangement). Health era 06 bank. slavery-freedom's outline does not mention Sims.
 - `slavery-freedom`, era 1850-1900: smallpox among freed people 1862-68, more than 60,000 dead (Jim Downs, NMCWM 2017), the contraband-camp tents. Health era 07 bank.

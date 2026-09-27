@@ -3144,3 +3144,22 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
 Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
 - `rights-movements`, era 8: Houston 1917 (19 Black soldiers hanged, convictions set aside 2023; VA NCA); Port Chicago (320 dead, 202 Black sailors, 50 convicted, exonerated 17 Jul 2024; NPS); Isaac Woodard (SC Encyclopedia). PATCHes of those names.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `rights-movements` or `government-politics`, era 1900-1950: Hill-Burton's separate-but-equal clause (13 Aug 1946, $3.7B federal, struck down 1963). Health era 08 PATCH.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: three items below.)
+- `crime-justice` / `rights-movements`, era 08: during the 1927 Mississippi flood a Black man (unnamed in source) was shot and killed by a white police officer when he refused to unload a relief boat at gunpoint, and near Helena, Arkansas, Owen Flemming was lynched after he killed a plantation overseer who tried to force him to rescue the owner's mules. Robert Moton's Colored Advisory Commission reports were kept out of the press at Hoover's request. (Wikipedia, 'Great Mississippi Flood of 1927', citing Barry, Rising Tide, opened 2026-09-27.)
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `rights-movements`, era 1900-1950 (lead on Tulsa, DECISIONS #23): the US DOJ Civil Rights Division review of January 2025 (PDF https://www.justice.gov/crt/media/1383756/dl): "as many as 10,000 white Tulsans," police deputized "hundreds of white residents, many of whom had been advocating for a lynching and had been drinking," 35 city blocks, "as many as 300" dead, Guard held only Black residents in camps, Dr. A. C. Jackson shot while surrendering. Full sourced text: `research/research-crime-justice.md` era 8, "Tulsa, 31 May to 1 June 1921". Their outline does not tell Tulsa yet (grep 2026-09-27).
+- `rights-movements`, era 1800-1850: Elijah Lovejoy attacked Judge Lawless's charge after the McIntosh lynching (1836) and was killed by a mob at Alton, Nov 1837. Crime-justice bank era 6.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `rights-movements`, 1850-1900: Ida B. Wells vs Frances Willard 1893, Willard's 'locusts of Egypt' quote as reported by Wells (Wikipedia 'Frances Willard'). Bank era 07.

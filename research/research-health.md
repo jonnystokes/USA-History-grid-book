@@ -683,3 +683,8 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
 - `health`, era 7: 1898 typhoid, 20,738 cases and 1,590 deaths in US camps, 87% of disease deaths (JCI). Era 9: Agent Orange VA presumptive list (va.gov).
 - `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `health`, 1900-1950: poisoned industrial alcohol 1926-33 (Blum via HNN, TIME 2015: Lowman and Wheeler quotes, Norris), jake leg 1930 (Harry Gross, Max Reisman, 30,000-50,000). Bank era 08.

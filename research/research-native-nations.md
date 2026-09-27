@@ -574,3 +574,19 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `native-nations`, 1700-1750: Tomochichi (Yamacraw) asked Oglethorpe and the Trustees in 1734 to forbid the sale of rum (Georgia Encyclopedia exhibition "Wrestling Temptation"). Bank era 04, "Georgia bans rum, 1735 to 1742". Also 1750-1800: Hagler (Catawba) 1754 quote. Bank era 05.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `native-nations`, era 1800-1850: the Indian Vaccination Act of 5 May 1832 ($12,000, Lewis Cass, more than 17,000 vaccinated by 1 Feb 1833, Mandan/Hidatsa/Arikara excluded) and the 1837 epidemic counts (Mandan about 2,000 to 23-138, Arikara two-thirds, Blackfoot two-thirds, Assiniboine half, Crow one-third, Pawnee one-quarter, more than 17,000 dead along the Missouri; captain Bernard Pratte Jr.). Full text: research/research-health.md era 06 and its PATCH.
+- `native-nations`, era 1900-1950: Brevig Mission 1918 (72 of 80 villagers dead in five days, Rozell 2020) and the Meriam Report's health findings (quotes). Health era 08 bank and PATCH.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `native-nations`, era 1850-1900: Mankato details from MNHS "The Trials & Hanging": commission set up 28 Sept 1862; 392 tried, 303 condemned, 16 to prison; bodies dug up by doctors before morning; Wasicuŋ, hanged by mistake, had been acquitted; Wikipedia: a year later the judge advocate general found Sibley lacked authority. Crime-justice bank era 7.
+- `native-nations` / `energy`, era 1900-1950: Osage death counts disagree: about 24 (OHS "Osage Murders"), at least two dozen (FBI), more than 60 (their own note). Their outlines say "more than 60"; add the range. Crime-justice bank era 8.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `native-nations`, 1850-1900: FJC: 1895 and 1897 federal liquor laws, by 1900 ~5% of federal prisoners were Native-liquor offenders. Bank era 07.
+- `native-nations`, 1800-1850: Little Turtle (Michikinikwa, Miami) urged the 1802 liquor provision (Federal Judicial Center "Native Prohibition"); 1827 Mohican-Stockbridge letter to Congress, moved to Wisconsin partly to "flee from" liquor (NARA Prologue 2014). Bank era 06.

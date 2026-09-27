@@ -547,3 +547,17 @@ The eleven-plus open story targets in the outline were filled with real, documen
 - Outline rewritten to grid format, all ten eras `progress="researched"`, 21 story blocks, all `status="verified"`; `node tools/validate_grid.js` — 0 errors alone and 0 errors in the rebuilt `BOOK-OUTLINE.md` (35 chapters, 477 stories).
 - All eleven-plus ruling-8 targets filled; no composites; every Movie line verified real (and labeled dramatization vs documentary).
 - Cross-chapter parks made this session: Wong Kim Ark → `government-politics`, `rights-movements`; Irving Berlin → `music`, Frank Capra → `storytelling-evolution` (split 2026-09-06); Antonio García / bracero archive → `work-workers`; Giannis Antetokounmpo → `sports-play`; Reinaldo Arenas → `rights-movements` (LGBTQ thread).
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `immigration`, era 1900-1950: Italian immigrants blamed and beaten in the 1916 New York polio epidemic (Williams 2020, Wikipedia). Health era 08 PATCH.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `immigration`, era 1850-1900: LA 24 Oct 1871 (LAPL: 18 dead, 25 indicted, 10 tried, 8 convicted, overturned) and Rock Springs 2 Sept 1885 (WyoHistory: 28 killed, no charges, ~$150,000 paid by Congress). No outline tells either (grep). Crime-justice bank era 7.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `immigration`, 1850-1900: opium laws and the Chinese (SF 1875 ordinance, Chief Crowley quote, Idaho 1887 'every white person', federal act 23 Feb 1887 barring 'any subject of the Emperor of China' from importing opium, 1883 New York hoax), Fisher/Stanford 2014 + Cornell LII 21 USC 191. Bank era 07.
+- `immigration` and `crime-justice`, 1850-1900: Portland Rum Riot 2 June 1855, Neal Dow ordered militia to fire, John Robbins (22, Deer Isle) killed, 7 wounded (NEHS, Wikipedia). Bank era 07.

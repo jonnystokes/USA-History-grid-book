@@ -57,14 +57,14 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 - `native-nations`, era 1750-1800: the Conestoga killings of 14 and 27 December 1763 (Paxton men; 20 dead; names from Franklin's 1764 *Narrative*; no one prosecuted). Not told anywhere in the outlines. Full sourced text: `research/research-crime-justice.md` era 5, "The Conestoga killings" and the Franklin PATCH. native-nations should lead the people and Pontiac's War.
 
 - `war` (and `native-nations` if it says the same), era 1600s, DEFECT for AUDIT-QUEUE: `outlines/war.md` says Plymouth "hanged three Wampanoag men" in June 1675. The Plymouth court record (Shurtleff, *Records of the Colony of New Plymouth*, vol. 5, pp. 167-168, archive.org/details/recordsofcolonyo05newp) says Tobias and Mattashunannamo were hanged 8 June 1675 and Wampapaquan was reprieved a month and "afterwards shott to death within the said month." The record does not name their nation. Full text: `research/research-crime-justice.md` era 3.
 - `religion`, era 1600s, bank note: its T-260 PATCH on Holder, Copeland and Rous gives "Plain words ... cut off each man's right ear with a knife." Bishop (1661) as quoted there says only "cut off by the Hangman." "With a knife" is a paraphrase; the method is not in the quoted source.
 
-## TO PARK (T-265b, 2026-09-27, for the director to file)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - `rights-movements`, era 1900-1950 (lead on Tulsa, DECISIONS #23): the US DOJ Civil Rights Division review of January 2025 (PDF https://www.justice.gov/crt/media/1383756/dl): "as many as 10,000 white Tulsans," police deputized "hundreds of white residents, many of whom had been advocating for a lynching and had been drinking," 35 city blocks, "as many as 300" dead, Guard held only Black residents in camps, Dr. A. C. Jackson shot while surrendering. Full sourced text: `research/research-crime-justice.md` era 8, "Tulsa, 31 May to 1 June 1921". Their outline does not tell Tulsa yet (grep 2026-09-27).
 - `native-nations`, era 1850-1900: Mankato details from MNHS "The Trials & Hanging": commission set up 28 Sept 1862; 392 tried, 303 condemned, 16 to prison; bodies dug up by doctors before morning; Wasicuŋ, hanged by mistake, had been acquitted; Wikipedia: a year later the judge advocate general found Sibley lacked authority. Crime-justice bank era 7.

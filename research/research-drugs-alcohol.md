@@ -598,3 +598,7 @@ How the prose can say it: "In the 1910s young men in the immigrant neighborhoods
 - Disputed claim left out: the Civil War "soldier's disease" of 400,000 addicts (the outline says the claim does not hold up and why).
 - Perishable: era 06's "today" comparison uses NIAAA 2.48 gallons (2023 data), checked by T-266r as newest on 2026-09-27. AA's "nearly two million members" (2021) is in the bank only, for T-266c to refresh. No other present-day figures in eras 06 to 08.
 - Boundary rule: Carry Nation moved from era 07 to era 08 (first smashing 7 June 1900). Maine's 1851 law moved from era 06 to era 07.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `drugs-alcohol`, era 1900-1950: for their "(target) a Prohibition agent" slot, Eliot Ness is told here as a story (eliot-ness-al-capone). Use a different person there. FBI Capone dates in crime-justice bank era 8.

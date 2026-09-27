@@ -417,3 +417,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `work-workers`, 1900-1950: company stores and scrip (e-WV "Scrip" by Lou Athey: 1891 and 1925 WV laws, 10-30% discounts; EH.net "The Company Town": Coal Commission 1922, 4.2% / 7% markups, Fishback).
 - `work-workers`, 2000-today: Renica Turner / Battle Tested Strategies union (Apr 2023, 84 drivers, Teamsters Local 396), Amazon ended contract Jun 2023, NLRB settlement (two weeks' pay, ~$250,000) approved by ALJ G. Rebekah Ramirez late May 2026 (NPR Jul 20, 2023; FreightWaves Apr 22 and Jun 3, 2026). Heat: Esteban Chavez Jr. (Jun 25, 2022, medical examiner: sudden cardiac dysfunction), José Cruz Rodriguez (Waco, Aug 2021, OSHA: heat illness), 40+ UPS drivers hospitalized since 2015, UPS-Teamsters AC deal for vans bought after Jan 1, 2024 (NPR). Senate HELP majority report Dec 16, 2024 (Amazon 30%+ more injuries than industry in 2023).
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `work-workers`, era 1850-1900: Haymarket trial facts (PBS AmEx): 7 police killed, 8 tried, 4 hanged 11 Nov 1887, Lingg suicide, Altgeld pardon June 1893. Crime-justice bank era 7.

@@ -1106,3 +1106,14 @@ RULE (coordinator, 2026-09-27, mid-T-263r): a burst started. T-263r writes ONLY 
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `government-politics` and `crime-justice`, 1750-1800: United States v. Vigol, 2 Dall. 346 (1795), facts of the case, Justice Paterson's charge on duress; the "Dreadful Night" raids of 13 Nov 1794 under Henry Lee (captives barefoot in nightclothes, held in floorless animal pens, at least one died); 20 prisoners paraded in Philadelphia 25 Dec 1794; pardons Nov 1795 (2 Nov or 14 Nov). Bank era 05, Whiskey Rebellion and Vigol sections, plus BANK CHECK PATCH on Lee.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: three items below.)
+- `crime-justice` / `rights-movements`, era 08: during the 1927 Mississippi flood a Black man (unnamed in source) was shot and killed by a white police officer when he refused to unload a relief boat at gunpoint, and near Helena, Arkansas, Owen Flemming was lynched after he killed a plantation overseer who tried to force him to rescue the owner's mules. Robert Moton's Colored Advisory Commission reports were kept out of the press at Hoover's request. (Wikipedia, 'Great Mississippi Flood of 1927', citing Barry, Rising Tide, opened 2026-09-27.)
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `immigration` and `crime-justice`, 1850-1900: Portland Rum Riot 2 June 1855, Neal Dow ordered militia to fire, John Robbins (22, Deer Isle) killed, 7 wounded (NEHS, Wikipedia). Bank era 07.
+- `crime-justice`, 1900-1950: Samuel R. Caldwell and Moses Baca, first arrests under the 1937 Marihuana Tax Act, Judge J. Foster Symes; Hamm (The Conversation 2026) on Prohibition agents: 89 killed by own count, ~1,000 per AAPA, 752 fired, Sen. Frank Greene shot 1924. Bank era 08.

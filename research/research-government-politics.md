@@ -2633,3 +2633,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `government-politics` and `crime-justice`, 1750-1800: United States v. Vigol, 2 Dall. 346 (1795), facts of the case, Justice Paterson's charge on duress; the "Dreadful Night" raids of 13 Nov 1794 under Henry Lee (captives barefoot in nightclothes, held in floorless animal pens, at least one died); 20 prisoners paraded in Philadelphia 25 Dec 1794; pardons Nov 1795 (2 Nov or 14 Nov). Bank era 05, Whiskey Rebellion and Vigol sections, plus BANK CHECK PATCH on Lee.
 - `government-politics`, 1700-1750: Virginia's 1705 election law and the "dry" weeks; Boston's General Court meeting at Vardy's tavern after the 1747 town-house fire. Bank era 04.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `rights-movements` or `government-politics`, era 1900-1950: Hill-Burton's separate-but-equal clause (13 Aug 1946, $3.7B federal, struck down 1963). Health era 08 PATCH.

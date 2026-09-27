@@ -515,3 +515,22 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `slavery-freedom`, 1750-1800: six enslaved distillers at Mount Vernon (Hanson, Peter, Nat, Daniel, James, Timothy), 1797-99; Washington's liquor ration to enslaved workers and the overseer James Butler; enslaved people helping defend Neville's Bower Hill and the burning of its slave quarters 17 July 1794. Bank era 05.
+
+## Parked from `health` (2026-09-27, T-263)
+Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
+- `slavery-freedom`, era 1800-1850: J. Marion Sims's operations on enslaved women, Montgomery 1845-49 (Anarcha, Betsey, Lucy, 12 women and girls in one count, no anesthesia, the owners' arrangement). Health era 06 bank. slavery-freedom's outline does not mention Sims.
+- `slavery-freedom`, era 1850-1900: smallpox among freed people 1862-68, more than 60,000 dead (Jim Downs, NMCWM 2017), the contraband-camp tents. Health era 07 bank.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: three items below.)
+- `slavery-freedom`, era 07: Charles A. L. Lamar, who survived the Pulaski explosion at 14 (1838), led the investors who paid for the Wanderer, which landed about 409 surviving captive Africans (of 487 bought at the Congo River) at Jekyll Island, Georgia, on November 29, 1858. Importation banned since 1808. Six trials 1859-60, no conviction. (Wikipedia, 'Charles Augustus Lafayette Lamar', opened 2026-09-27.) No outline or bank in the book mentions the Wanderer (grep 2026-09-27).
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `slavery-freedom`, era 1900-1950: James Knox, Flat Top mine, 1924, whipped with a steel wire and put in hot water, death first called suicide (City of Birmingham); Alabama ended leasing 30 June 1928. Crime-justice bank era 8.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
+- `slavery-freedom`, 1800-1850: Frederick Douglass, *Narrative* (1845) ch. 10, slaveholders got enslaved people drunk at Christmas, bets on who could drink most whisky, "keeping down the spirit of insurrection" (Gutenberg #23). Bank era 06.

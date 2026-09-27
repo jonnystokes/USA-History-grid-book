@@ -244,3 +244,7 @@ U.S. Energy Information Administration (Today in Energy series; Monthly Energy R
 ## Parked from `home-family` (2026-09-26, T-245): how homes were heated and lit, by census count
 - 1940 Census: over half of US housing units heated mainly with coal and another quarter with wood. Coal fell steadily after 1940. Natural gas grew, and electric heat grew from 1960 (James D. Lutz, Lawrence Berkeley National Laboratory, "Lest We Forget, a Short History of Housing in the United States", ACEEE Summer Study 2004, from Census data).
 - Households with electricity: 8 percent in 1890, 94 percent in 1950. Dwellings with electric lights in 1940: 83 percent (Emanuela Cardia, NBER Summer Institute paper, July 2008, from Census data). home-family keeps the kitchen and washday. The fuels and the wires are yours.
+
+## Parked from `crime-justice` (2026-09-27, T-265)
+Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
+- `native-nations` / `energy`, era 1900-1950: Osage death counts disagree: about 24 (OHS "Osage Murders"), at least two dozen (FBI), more than 60 (their own note). Their outlines say "more than 60"; add the range. Crime-justice bank era 8.
