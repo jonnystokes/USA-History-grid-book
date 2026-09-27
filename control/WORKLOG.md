@@ -2899,3 +2899,8 @@ VERIFY: python tools/project_state.py --check health --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+
+### 2026-09-27 | [LOCAL] T-265b | crime-justice: full research eras 6-8 [BURST of 3+1] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-265-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage research
