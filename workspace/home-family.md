@@ -55,7 +55,7 @@ Companion files: outline `outlines/home-family.md` · research bank `research/re
 - [x] first modern homeschooling accounts — VERIFIED: Holt's Growing Without Schooling newsletter Aug 1977 (period reader letters = the documentation); Moore's Home Grown Kids 1981
 - [x] the two homeschooling reasons — VERIFIED: secular school-reform root (Holt) and religious root (Moore) (CRHE; johnholtgws.com)
 - [x] 2020 connectivity figures — VERIFIED with source years: Pew 2020 (35% of <$30k households with kids lacked broadband vs 6% of $75k+; 59% of lower-income parents expected obstacles, April 2020)
-- [ ] how much of the post-2020 homeschooling increase stayed — STILL OPEN (not yet settled in sources; outline says so plainly; education also tracking)
+- [x] how much of the post-2020 homeschooling increase stayed — PARTLY SETTLED 2026-09-26 (T-245): NCES 2023 survey, 5.2% of children 5-17 learned at home in 2022-23 (3.4% homeschooled + 2.5% full-time virtual, overlapping) vs 3.7% in 2018-19. Different question from the 2020 Pulse survey, so no exact like-for-like trend.
 - [ ] school district in real-estate advertising, how early explicit — NOT VERIFIED; claim DROPPED from outline (kept only "which house decides which school" implicitly via rights/education chapters). Revisit if a source appears.
 
 ## Threads present
@@ -65,7 +65,13 @@ class and poverty (tenements, kitchenettes, homelessness) · region (Plains sod 
 - **The 1500s** — thin and said so; but it now carries a real documented household (Camacho, 1580) via the St. Augustine parish-record world.
 - **Before 1500** — rich in house types; no named individuals survive from the era itself; Buffalo Bird Woman used as a labeled later window (director question below).
 
-## Story roster (final)
+## Story roster (T-245, 2026-09-26): 16 verified, 0 candidate, 0 target
+- Buffalo Bird Woman moved Before 1500 -> 1800-1850 (her documented lodge is the 1840s). Before 1500 now has no story (allowed).
+- `levittown-family` now named Theodore and Patricia Bladykas (Newsday caption).
+- New: `clyde-ross-home-family` (era 09, journalism: Coates 2014) · `colfax-family-homeschool` (era 09, Harvard Crimson 1989) · `solon-familia-foreclosure` (era 10, NPR 2010) · `munoz-family-2020` (era 10, NPR 2020; only the father named, children are minors).
+- Retired slugs: `mortgage-denied-family`, `early-homeschooling-family`, `foreclosure-family`, `school-at-home-household`.
+
+## Story roster (2026-08-07, superseded)
 - **Verified (10):** Camacho household (1580) · Mary Ring (1600s) · Sarah Kemble Knight (1704) · Abigail Adams (household angle; movie: John Adams 2008, about the family) · Martha Ballard (movie: A Midwife's Tale 1997 — about her) · Catharine Beecher · Nathalie Gumpertz · Rachel Calof · Baldizzi family · Daisy & William Myers (movie: Crisis in Levittown 1957 — filmed as it happened)
 - **Candidates (2):** Buffalo Bird Woman (era placement question) · Bladykas move-in (first names unconfirmed — firm with Levittown Historical Society/Newsday archive)
 - **Targets (4):** mortgage-denied family · early homeschooling family (GWS letters) · foreclosure family (journalism, labeled) · 2020 school-at-home household (journalism, labeled)
@@ -85,8 +91,12 @@ class and poverty (tenements, kitchenettes, homelessness) · region (Plains sod 
 - `research/research-marketplace.md` — Sears Modern Homes as mail-order retail (1908–1940; ~70–75k, est. to 100k; 447 designs).
 - `research/research-styles.md` (created) — Mary Ring's 1633 inventory as a lead for their `probate-inventory-colonist` target (textiles/clothing listed item by item; Plymouth Colony Archive transcription).
 
+## Cross-chapter parking log (2026-09-26, T-245)
+- `research/research-technology.md` — refrigerator share of households 1930/1940/1950 (Cardia, NBER 2008, Census data).
+- `research/research-energy.md` — 1940 heating fuels (Lutz, LBNL 2004) and household electricity 1890/1940/1950 (Cardia).
+
 ## Open questions for the director
-1. **Buffalo Bird Woman in Before 1500:** her testimony (recorded 1906–18, about 19th-century life) is the best documented window into earth-lodge household life, but the person is out-of-era. Keep her there with the honest label, move her material to a span, or hand the story to `native-nations` and keep only the house types?
+1. RESOLVED 2026-09-26 (T-245): moved to 1800-1850 as a verified story. **Buffalo Bird Woman in Before 1500:** her testimony (recorded 1906–18, about 19th-century life) is the best documented window into earth-lodge household life, but the person is out-of-era. Keep her there with the honest label, move her material to a span, or hand the story to `native-nations` and keep only the house types?
 2. **Myers family placement:** taken here as the family-inside-the-house story (with the 1957 film); `rights-movements` gets the campaign angle (parked). Confirm this split holds when rights-movements is researched.
 3. **`abigail-adams` slug in rights-movements** should be suffixed to match convention when that chapter is worked (their file, not ours to edit).
 4. Seed asked whether Beecher + Levitt is enough famous-name coverage — the answer this pass: Beecher, Abigail Adams, Levitt (in-span), Cowan (in-span), plus the famous *things* (log cabin, Levittown, the mortgage, the teenager). Confirm that satisfies the completeness rule for this chapter.

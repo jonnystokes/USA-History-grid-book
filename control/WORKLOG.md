@@ -2493,7 +2493,15 @@ RESULT: DONE. PASS migration / patch and / research. stories 15 (v15 c0 t0), ban
         Weak points the agent flagged in the bank: 3 facts seen only in search-result summaries.
 
 ### 2026-09-26 | [LOCAL] T-245 | home-family: patch (2 candidates, 4 targets, kitchen thread) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-245-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage patch (and --stage research)
 USAGE AT START: 7% of the 5-hour window (Jon, 2026-09-26; includes T-244 and director work).
+RESULT: DONE. PASS home-family / patch and / research. stories 16 (v16 c0 t0), bank 5,703 -> 12,359w, outline
+        3,887 -> 5,460w, validator 0. 332,647 tokens, 153 tool uses, 21.3 min (opus).
+        Stories: Buffalo Bird Woman (moved to 1800-1850), Theodore and Patricia Bladykas (Levittown 1947), Clyde
+        Ross, the Colfax homeschool family, Pierre Solon and Katty Familia (foreclosure), the Munoz family (2020).
+        Kitchen thread sourced; the "petticoat fire" hazard is a myth and was dropped. Parked: fridge figures to
+        technology, heating fuel and electricity to energy (both still validate 0). 1901 tenement-law claim
+        corrected. Land, HOLC/FHA, Myers mob, Countrywide actors added. Perishables refreshed to 2025-26.
+        SEARCHED NOT FOUND: 2. Unconfirmed (search summary only) tags: 8. Not done: frontier-cabin nations.

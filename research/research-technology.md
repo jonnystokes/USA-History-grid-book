@@ -144,3 +144,6 @@ Ch27 tells the element discoveries; the machines as machines belong here. Facts 
 - **Percy Spencer / the microwave oven** — 1945 magnetron + melted chocolate bar; patent; Radarange 1946-47; Amana home model 1967. Spencer's own story is strong (little formal schooling → 300+ patents). [VERIFY all]
 - Albert Marsh's nichrome heating element (1905) — made electric ranges practical. [VERIFY]
 - Pop-up toaster (1926), crock-pot (1971), Teflon (Plunkett 1938 accident at DuPont — the chemistry; pans 1961). [VERIFY]
+
+## Parked from `home-family` (2026-09-26, T-245): refrigerators in homes, by census count
+- Share of US households with a modern (mechanical) refrigerator: 14 percent in 1930, 44 percent in 1940, 80 percent in 1950 (Emanuela Cardia, "Household Technology: Was it the Engine of Liberation?", NBER Summer Institute paper, July 2008, from 1930-1950 Census data). By 1950 a majority of households had stoves, electric irons, vacuum cleaners, refrigerators and washing machines (Cardia). home-family tells what these did to the household's work. The machines as inventions are yours.

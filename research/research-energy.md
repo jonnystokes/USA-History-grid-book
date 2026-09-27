@@ -136,3 +136,7 @@ U.S. Energy Information Administration (Today in Energy series; Monthly Energy R
 - Town gas for cooking (late 1800s city kitchens) → natural gas conversions. [VERIFY]
 - **Propane/LP gas**: Walter O. Snelling (Bureau of Mines, ~1910-12) — gas cooking beyond the mains; rural America's bottled-gas kitchens; the propane grill. [VERIFY]
 - Electric cooking as grid demand (ranges among the first big home loads). [VERIFY]
+
+## Parked from `home-family` (2026-09-26, T-245): how homes were heated and lit, by census count
+- 1940 Census: over half of US housing units heated mainly with coal and another quarter with wood. Coal fell steadily after 1940. Natural gas grew, and electric heat grew from 1960 (James D. Lutz, Lawrence Berkeley National Laboratory, "Lest We Forget, a Short History of Housing in the United States", ACEEE Summer Study 2004, from Census data).
+- Households with electricity: 8 percent in 1890, 94 percent in 1950. Dwellings with electric lights in 1940: 83 percent (Emanuela Cardia, NBER Summer Institute paper, July 2008, from Census data). home-family keeps the kitchen and washday. The fuels and the wires are yours.
