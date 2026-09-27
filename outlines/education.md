@@ -21,50 +21,52 @@ Children learned by watching, doing, and listening. Teaching was a family and co
 <!-- hb-zoom level="span" label="Learning by watching and doing" -->
 Stories carried law, history, and geography. Children learned skills by working beside the people who had them, and learning followed the seasons and the work that had to be done.
 
-Nobody north of Mexico wrote anything down, because no writing system was in use there yet. The first one made for a language spoken in this land was the Cherokee syllabary, and that was 1821 — three hundred years later. So everything a people needed to keep had to be kept in memory, and people were trained to keep it.
+Nobody north of Mexico wrote anything down, because no writing system was in use there yet. The first one made for a language spoken in this land was the Cherokee syllabary, and that was in 1821, more than three hundred years after 1500. So everything a people needed to keep had to be kept in memory, and people were trained to keep it.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Memory as the storage system: wampum" -->
-The Haudenosaunee — five nations in what is now upstate New York — recorded agreements and law in wampum, belts and strings of shell beads. The Onondaga Nation, which still keeps the belts, describes how it works: the speaker puts the words of the agreement into the wampum as the belt is woven, and every speaker after that uses the belt to remember the agreement and what has happened since. The Onondaga call the belts their living history.
+The Haudenosaunee, five nations in what is now upstate New York, recorded agreements and law in wampum, belts and strings of shell beads. The Onondaga Nation, which still keeps the belts, describes how it works: the speaker puts the words of the agreement into the wampum as the belt is woven, and every speaker after that uses the belt to remember the agreement and what has happened since. The Onondaga call the belts their living history.
 
 A person had to be taught to read a belt and recite what was in it. That was the training, and it was as exact a job as any schoolteacher's.
 
-When the Great Law of Peace that founded the confederacy was agreed is not settled. Haudenosaunee tradition places it between about 1000 and 1400; scholars working from written records have usually said about 1450; some argue for the late 1100s. Nobody can prove which is right.
+When the Great Law of Peace that founded the confederacy was agreed is not settled. Haudenosaunee tradition places it between about 1000 and 1400. Scholars working from written records have usually said about 1450. Some argue for the late 1100s. Nobody can prove which is right.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Who is missing from this section, and why" -->
-No pupil or teacher in this land before 1500 is known by name. That is not a gap this book fills in. Where a record names nobody, this chapter names nobody.
+<!-- hb-zoom level="span" label="No names survive" -->
+No pupil or teacher in this land before 1500 is known by name, because nobody here kept written records.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
 <!-- hb-time:start id="1500s" order="02" chapter="education" label="The 1500s" state="thin" progress="researched" -->
 ## The 1500s
 <!-- hb-zoom level="era" -->
-There were no schools in this land in the sense the rest of this chapter means. The only European teaching was religious instruction attached to Spanish missions, and its purpose was to make Catholics, not readers. Native teaching went on as it had.
+No schoolhouses stood in this land yet. The only European teaching was religious instruction attached to Spanish missions, and its purpose was to make Catholics, not readers. Native teaching went on as it had.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Mission teaching in Florida" -->
-Spanish priests began trying to convert Native people in Florida within a few years of 1565, when Pedro Menéndez de Avilés founded St. Augustine. By the 1580s Franciscan friars had missions across Florida. One of the largest, San Juan del Puerto on Fort George Island, was set up sometime in the 1570s; the Park Service can only date it to the decade.
+Spanish priests began trying to convert Native people in Florida within a few years of 1565, when Pedro Menéndez de Avilés founded St. Augustine. By the 1580s Franciscan friars had missions across Florida. One of the largest, San Juan del Puerto on Fort George Island, was set up sometime in the 1570s. The Park Service can only date it to the decade.
 
-What the friars taught at a mission was Catholic doctrine, European customs, farming, and reading and writing — in Spanish and in Timucua, the local language.
+What the friars taught at a mission was Catholic doctrine, European customs, farming, and reading and writing, in Spanish and in Timucua, the local language.
 
-The claim that it worked comes from the man doing the teaching. Father Francisco Pareja wrote that many Timucua men and women had learned to read in less than six months and were writing letters to each other in their own language. That is a friar reporting his own success, and the chapter should say so while repeating it.
+The claim that it worked comes from the man doing the teaching. Father Francisco Pareja wrote that many Timucua men and women had learned to read in less than six months and were writing letters to each other in their own language. That is a friar's report of his own success.
 
-Pareja also wrote the language down — three catechisms, a confession book, and a grammar. Those books were printed in the next century, and they are now the only record of the Timucua language there is. Nobody speaks it.
+Pareja also wrote the language down in three catechisms, a confession book, and a grammar. Those books were printed in the next century, and they are now the only record of the Timucua language there is. Nobody speaks it. Most Timucua people died of diseases the Spanish brought or were taken in slave raids from Carolina, and Spanish officials shipped the last of them to Cuba in 1763.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="New Mexico, at the very end of the era" -->
 Juan de Oñate's expedition reached the upper Rio Grande in 1598. Franciscan missions and their teaching in New Mexico start from that year, with two years of the century left.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="paquiquineo-don-luis" name="Paquiquineo (Don Luís de Velasco)" movie="" kind="ordinary" status="verified" -->
 ### Paquiquineo (Don Luís de Velasco)
-> **Who:** A young man from the Chesapeake, taught by Spanish priests for nine years and returned home as a missionary's guide · **When and where:** 1561 to 1571 — the Chesapeake, Spain, Mexico, and back
+> **Who:** A young man from the Chesapeake, taught by Spanish priests for nine years and returned home as a missionary's guide · **When and where:** 1561 to 1572, the Chesapeake, Spain, Mexico, and back
 
-He was about seventeen when he left North America on a Spanish ship in late June 1561. Historians still argue over whether he went willingly or was taken; the record does not settle it, and this book will not pretend it does.
+He was about seventeen when he left North America on a Spanish ship in late June 1561. Historians still argue over whether he went willingly or was taken. The record does not settle it.
 
 He reached Seville on September 9, 1561, was in Madrid by the end of October, and met King Philip II. He sailed from Cádiz in late May 1562 and reached Mexico on August 10. He fell badly ill there and was baptized in Mexico City that year while, in the words of the record, on the brink of death. He took the name of the viceroy of New Spain: Don Luís de Velasco.
 
-From 1566 to 1570 he studied in Seville with the Jesuits. What he was taught in those four years is not written down anywhere that survives. This book does not guess at it.
+From 1566 to 1570 he studied in Seville with the Jesuits. What he was taught in those four years is not written down anywhere that survives.
 
 In September 1570 he landed on the James River with a party of Jesuits under Father Juan Bautista de Segura, brought along as their guide and interpreter. He went back to his own family instead. On February 4, 1571 he killed three of the priests, then went to the mission and killed Father Segura and the others. One person was left alive: the altar boy, Alonso de Olmos.
 
-He is the only person in this era whose schooling by Europeans in this land is documented by name. Mission records from the 1500s that name an individual pupil could not be found, so this chapter names none.
+In August 1572 Pedro Menéndez de Avilés, the Spanish governor of Florida, sent soldiers to the James River. They captured some of Paquiquineo's people in a fight and hanged several of them from the ship's yardarms for the killings. The Powhatan people handed Alonso de Olmos back. Paquiquineo was not found, and no European record mentions him again.
+
+He is the only person in this era whose schooling by Europeans in this land is documented by name. No surviving mission record from the 1500s names an individual pupil.
 <!-- hb-story:end slug="paquiquineo-don-luis" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -83,7 +85,7 @@ A small child usually began with a woman teaching in her own kitchen. This was t
 
 A child's first reading tool was a hornbook. It was not a book. It was a wooden paddle about the shape of a table-tennis bat, with one printed sheet tacked to it and a sheet of transparent animal horn laid over the top so the paper would not wear through. A leather thong through the handle let a child hang it from a belt. The sheet carried a cross, the alphabet in large and small letters, the vowels and their pairings with consonants, and the Lord's Prayer. The Smithsonian holds one made in the 1700s.
 
-Boston Latin School opened on 23 April 1635 and is still open, which makes it the oldest school in the country. Ten days before it opened the townsmen of Boston met and agreed to ask Philemon Pormort to teach. The town record says he "shall be intreated to become scholemaster for the teaching and nourtering of children with us." The first classes met in Pormort's own house. The boys learned Latin and Greek.
+Boston Latin School opened on 23 April 1635 and is still open. It is the oldest public school in the country. Collegiate School in New York, started by Dutch colonists, dates itself to 1628, when the minister Jonas Michaelius began teaching in Manhattan, so the two schools disagree about which is oldest of all. Boston stood on the Shawmut peninsula, in the land of the Massachusett nation. Ten days before it opened the townsmen of Boston met and agreed to ask Philemon Pormort to teach. The town record says he "shall be intreated to become scholemaster for the teaching and nourtering of children with us." The first classes met in Pormort's own house. The boys learned Latin and Greek.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The New England Primer" -->
 The printer Benjamin Harris made *The New England Primer* for colonial buyers somewhere between 1687 and 1690. That is as close as the American Antiquarian Society will date it, because the only evidence is booksellers' advertisements. The printing records are gone, and no copy printed before 1727 survives anywhere. The book taught reading, spelling, and morals in the same lessons, with a woodcut picture for each letter of the alphabet. Children were told to learn its sentences by heart, and reciting them was the point as much as reading them.
@@ -91,16 +93,20 @@ The printer Benjamin Harris made *The New England Primer* for colonial buyers so
 <!-- hb-zoom level="span" label="Discipline [R7 discipline]" -->
 The rod was a real object. Ezekiel Cheever kept a bundle of birch rods beside his desk at the Boston Latin School for thirty-eight years, in a room with poor light and a smoky fireplace.
 
-People usually say "spare the rod and spoil the child" comes from the Bible. Proverbs 13:24 says that whoever spares the rod hates their children, and the words "spoil the child" are not in it. The oldest English version is far older than the King James Bible. Ælfric of Eynsham, an English monk who lived about 950 to 1010, wrote in a homily: "He who spareth his rod hateth his child; and he who loveth it, teacheth it soundly." The Wycliffe Bible of 1382 carries the verse in Middle English. John Skelton wrote about sparing the rod of correction around 1529. The wording people use now is Samuel Butler's, from his comic poem *Hudibras*: "Then spare the Rod, and spill the Child," where "spill" later became "spoil." *Hudibras* came out in three parts, and sources give 1662, 1663, and 1664 for the part with that line.
+One of his pupils wrote down what it was like. John Barnard was born in Boston in 1681 and started at Cheever's school at seven, in 1689. Cheever told him in front of the class that because he played too much, he would be beaten whenever a classmate did not know his lesson. Then, in Barnard's words, "our master beat me" each time one boy failed, "and that for several days." Barnard wrote that he was "often beaten for my play." Cheever also beat him for two or three days running because he could not turn Aesop's fables into Latin verse, until Barnard told him he had tried his hardest and Cheever stopped setting it. Barnard does not say what Cheever hit him with. He wrote this down as an old man, in the 1760s.
+
+People usually say "spare the rod and spoil the child" comes from the Bible. Proverbs 13:24 says that whoever spares the rod hates their children, and the words "spoil the child" are not in it. The oldest English version is far older than the King James Bible. Ælfric of Eynsham, an English monk who lived about 950 to 1010, wrote in a homily that "He who spareth his rod hateth his child," and that the one who loves the child "teacheth it soundly." The Wycliffe Bible of 1382 carries the verse in Middle English. John Skelton wrote about sparing the rod of correction around 1529. The wording people use now is Samuel Butler's, from his comic poem *Hudibras*: "Then spare the Rod, and spill the Child," where "spill" later became "spoil." *Hudibras* came out in three parts, and sources give 1662, 1663, and 1664 for the part with that line.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Native children and the first schools built for them" -->
-John Eliot and a group of Native leaders founded Natick in 1651, the first of more than a dozen "praying towns" in Massachusetts. Waban and Cutshamekin of the Massachusett and John Speen of the Nipmuc worked on it with him. The town put up a meetinghouse with a school inside it, and a Massachusett man named Monequassun taught there. Eliot printed schoolbooks in the Massachusett language — a catechism in 1653 and an *Indian Primer* in 1669 — and every one of them taught Christian doctrine in the same lesson as reading. Reading and conversion were the same lesson here.
+John Eliot and a group of Native leaders founded Natick in 1651, the first of more than a dozen "praying towns" in Massachusetts. Waban and Cutshamekin of the Massachusett and John Speen of the Nipmuc worked on it with him. The town put up a meetinghouse with a school inside it, and a Massachusett man named Monequassun taught there. Eliot printed schoolbooks in the Massachusett language, a catechism in 1653 and an *Indian Primer* in 1669, and every one of them taught Christian doctrine in the same lesson as reading. Reading and conversion were the same lesson here.
 
-The men who wrote Harvard's 1650 charter put into it a promise to pay for "the education of the English and Indian youth of this Country." A building called the Indian College stood in Harvard Yard from 1655; sources disagree on whether it came down in 1695 or 1698. The printing press kept inside it produced the first Bible published in North America, in the Algonquian language, in 1663. Only a handful of Native students ever went there, and Harvard's own account says what became of them. Caleb Cheeshahteaumuck graduated in 1665. His classmate Joel Iacoomes drowned in a shipwreck days before the ceremony, two more died of disease part-way through, and one left to go to sea.
+In 1675 war broke out between the English colonists and several Native nations led by Metacom, whom the English called King Philip. On 13 October 1675 the men governing the Massachusetts colony ordered the Christian Native people of the praying towns moved to Deer Island in Boston Harbor, starting with Natick. The National Park Service counts about 500 to 1,100 people held there over the winter, most of them women and children, with little food and no proper shelter. More than half of them died, by one historical society's estimate. The colonists let the survivors go in May 1676. An unknown number were taken off the island and sold into slavery in the West Indies or in Tangier, in North Africa. No record reached here says what became of Monequassun, the Natick schoolmaster. Descendants hold a remembrance on Deer Island every year.
+
+The men who wrote Harvard's 1650 charter put into it a promise to pay for "the education of the English and Indian youth of this Country." A building called the Indian College stood in Harvard Yard from 1655. Sources disagree on whether it came down in 1695 or 1698. The printing press kept inside it produced the first Bible published in North America, in the Algonquian language, in 1663. Only a handful of Native students ever went there, and Harvard's own account says what became of them. Caleb Cheeshahteaumuck graduated in 1665. His classmate Joel Iacoomes drowned in a shipwreck days before the ceremony, two more died of disease part-way through, and one left to go to sea.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="ezekiel-cheever" name="Ezekiel Cheever" movie="" kind="ordinary" status="verified" -->
 ### Ezekiel Cheever
-> **Who:** A schoolmaster who taught Latin and Greek for seventy years, the last thirty-eight at the Boston Latin School · **When and where:** Born London 1615, died Boston 21 August 1708 — New Haven, Charlestown, and Boston
+> **Who:** A schoolmaster who taught Latin and Greek for seventy years, the last thirty-eight at the Boston Latin School · **When and where:** Born London 1615, died Boston 21 August 1708. New Haven, Charlestown, and Boston
 
 He taught longer than anyone else in the history of this country: seventy years without a break. He ran the schools at New Haven from 1638, taught at Charlestown from 1661, and on 29 December 1670 the town of Boston asked him to head the Boston Latin School. He was ninety-three and still teaching when he died.
 
@@ -116,9 +122,9 @@ His Latin grammar, *A Short Introduction to the Latin Tongue*, was printed in Bo
 
 He came from the Wampanoag community on Martha's Vineyard and took his degree at Harvard in 1665.
 
-One piece of his own writing survives: a short letter in Latin addressed to the English donors who paid for the Indian College, beginning "Honoratissimi benefactores" — most honoured benefactors. It is often described as the earliest surviving writing by a Native person on this continent.
+One piece of his own writing survives: a short letter in Latin addressed to the English donors who paid for the Indian College, beginning "Honoratissimi benefactores," which means "most honoured benefactors." It is often described as the earliest surviving writing by a Native person on this continent.
 
-He died in 1666, within a year of graduating, of what people then called consumption. Accounts of his death give the cause as tuberculosis, a lung disease; one of them says he died at Watertown. He was about twenty.
+He died in 1666, within a year of graduating, of what people then called consumption. Accounts of his death give the cause as tuberculosis, a lung disease. One of them says he died at Watertown. He was about twenty.
 
 He is the only one of the Indian College's students who finished. His classmate Joel Iacoomes drowned days before the ceremony, two others died of disease part-way through, and one left to become a sailor.
 <!-- hb-story:end slug="caleb-cheeshahteaumuck" -->
@@ -134,7 +140,7 @@ The members of the South Carolina assembly passed "An Act for the Better Orderin
 
 The wording is exact. Teaching a slave to write was the offence. Teaching a slave to read was not. Historians usually explain it this way: a person who could write could forge a pass and travel with it. The fine fell on the teacher rather than the pupil. This is the first law in these colonies to make teaching someone a crime.
 
-Three years later, in 1743, Commissary Alexander Garden opened a school in Charleston for Black pupils, and put two young Black men named Harry and Andrew in charge of it. The Society for the Propagation of the Gospel had paid to train them as teachers. It ran in the evenings for people who worked in the day, and it lasted until 1763, when one of the two had died and the men who ran the Society judged the other unfit. Some accounts say the Society bought Harry and Andrew as slaves in order to train them; others say only that it paid for their training. The record this book reached does not settle it.
+Three years later, in 1743, Commissary Alexander Garden opened a school in Charleston for Black pupils, and put two young Black men named Harry and Andrew in charge of it. The Society for the Propagation of the Gospel had paid to train them as teachers. It ran in the evenings for people who worked in the day, and it lasted until 1763, when one of the two had died and the men who ran the Society judged the other unfit. The historian Carter G. Woodson wrote in 1915 that the Society bought Harry and Andrew as slaves in order to train them as teachers. The schoolhouse opened in 1743 or 1744, depending on the account, with about sixty pupils.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Charity schools and who paid for them" -->
 The charity schools were run from London by church societies. King William III gave the Society for the Propagation of the Gospel in Foreign Parts its charter on 16 June 1701, after Thomas Bray and others pressed for it. Its members subscribed money to send priests and schoolteachers to the colonies, and more than three hundred of them crossed the Atlantic during the 1700s. A separate group, the Associates of Dr. Bray, started in 1724 and set up schools of its own.
@@ -142,19 +148,22 @@ The charity schools were run from London by church societies. King William III g
 These were not free town schools. A society in London paid the teacher, and the men who ran it paid because they wanted pupils who could read the catechism and the Bible.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="How many people could read" -->
-Nobody surveyed literacy in the colonies. Historians count signatures on wills and deeds instead: a person who could write signed a name, and a person who could not made a mark. It is the best evidence there is, and it undercounts readers, because plenty of children — girls especially — were taught to read and never taught to write.
+Nobody surveyed literacy in the colonies. Historians count signatures on wills and deeds instead: a person who could write signed a name, and a person who could not made a mark. It is the best evidence there is, and it undercounts readers, because many children, girls especially, were taught to read and never taught to write.
 
 By that count, about 60 percent of white men in New England could sign between 1650 and 1670, 85 percent between 1758 and 1762, and 90 percent by the 1790s. Women's figures rose later and faster: 27 percent of those born between 1650 and 1669, 41 percent of those born in the next twenty years, then 76 percent of those born between 1710 and 1729. Literacy ran higher in New England and the middle colonies than in the South, and higher in towns than in the country.
 
 In Virginia, as many as 5 percent of enslaved people may have been able to read by 1775. The check on that figure comes from an ugly source: of about a thousand advertisements placed in the *Virginia Gazette* between 1736 and 1776 by enslavers hunting people who had run away, fifty-five described the person as literate.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The academy is proposed [R7 academies]" -->
-Benjamin Franklin published *Proposals Relating to the Education of Youth in Pensilvania* in October 1749. He argued for a school that taught in English rather than in Latin and Greek, and that taught geography, natural history, drawing, accounting, and modern languages alongside the old subjects. The school itself opened in 1751, which puts it in the next section.
+Benjamin Franklin published *Proposals Relating to the Education of Youth in Pensilvania* in October 1749. He argued for a school that taught in English rather than in Latin and Greek, and that taught geography, natural history, drawing, accounting, and modern languages alongside the old subjects. The school itself opened in 1751.
 
 The first Protestant boarding school for girls in this land had already opened. In May 1742 Countess Benigna von Zinzendorf started classes for twenty-five girls at Germantown, near Philadelphia. The school moved to Bethlehem, Pennsylvania in 1745 and settled there in 1748.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The school day, and what is not known about it [R7 one-room school day]" -->
-The familiar picture of the one-room school — the stove, the slates, the recitation bench, the teacher boarding with each family in turn — is documented for the 1800s. It is not documented for these fifty years, and this book will not move it backwards to fill the gap. What is documented for 1700 to 1750 is thinner: a town appointed one man to teach, the parents or the master paid his wages, and children of every age sat in the same room because there was only one teacher for them.
+The familiar picture of the one-room school, with the stove, the slates, the recitation bench and the teacher boarding with each family in turn, is documented for the 1800s. It is not documented for these fifty years. What is documented for 1700 to 1750 is thinner: a town appointed one man to teach, the parents or the master paid his wages, and children of every age sat in the same room because there was only one teacher for them.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Indian school at William & Mary" -->
+The men who founded the College of William & Mary in Virginia in 1693 wrote into its charter a duty to teach Native boys the Christian religion. Money from the estate of the scientist Robert Boyle paid for it. When Governor Francis Nicholson could not persuade Native families to send their sons, two traders, Robert Hicks and John Evans, bought or otherwise got four captive boys, described as "captives from the Catawba Nation," around 1702, and those four were the first pupils. Their names are not in the published record. The college finished a building for the school, the Brafferton, in 1723, and enslaved workers built it. More than 125 Native students from at least 26 nations lived and studied there between 1723 and 1776. They learned reading, writing, arithmetic and the Church of England's prayers. How many of them died at the school is not recorded in any source found. The college itself bought a tobacco plantation in 1718 and seventeen enslaved people to work it, for £476.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="christopher-dock" name="Christopher Dock" movie="" kind="ordinary" status="verified" -->
 ### Christopher Dock
@@ -162,7 +171,7 @@ The familiar picture of the one-room school — the stove, the slates, the recit
 
 He came to Pennsylvania somewhere between 1710 and 1714 and opened a school at Skippack no later than 1718. He taught for ten years, then farmed for about ten more, then went back to teaching in 1738 and taught for the last thirty-three years of his life, running two schools on alternate days.
 
-On 8 August 1750 he finished a manuscript called *Schul-Ordnung*, which means school management. He did not want it printed while he was alive. Christopher Saur printed it anyway in 1769, with a second edition in 1770; some sources give 1770 for the first edition. It is the first book about how to teach written in this country, and it was still being reprinted in the 1900s.
+On 8 August 1750 he finished a manuscript called *Schul-Ordnung*, which means school management. He did not want it printed while he was alive. Christopher Saur printed it anyway in 1769, with a second edition in 1770. Some sources give 1770 for the first edition. It is the first book about how to teach written in this country, and it was still being reprinted in the 1900s.
 
 What he wrote down is mostly about how he handled children, and he sorted them by what worked on each one. A child who wanted praise got praise. A child who wanted money got a penny for studying hard. A child who wanted sweets got a sugar pretzel for learning a lesson well. The ones who were not moved by a penny or a cake, he threatened with a whipping. He also put a yoke on a boy who swore, and made children sit alone.
 
@@ -187,14 +196,14 @@ Girls are not in the plan. Neither are enslaved children. Members put the bill t
 <!-- hb-zoom level="span" label="Who pays: the Land Ordinance of 1785" -->
 The men in Congress passed the Land Ordinance on 20 May 1785. Surveyors were to cut the western land into townships six miles square, each divided into thirty-six numbered sections. Its words: "There shall be reserved the lot N 16, of every township, for the maintenance of public schools, within the said township."
 
-That section was not to be sold to a settler. The rent or sale money from it paid for a school. This is where the first public money for American schools came from, and it is worth being plain about what the land was: land taken from Native nations, sold to settlers, with a share of the proceeds set aside to teach the settlers' children.
+That section was not to be sold to a settler. The rent or sale money from it paid for a school. This is where the first public money for American schools came from, and it is worth being plain about what the land was: land taken from Native nations, sold to settlers, with a share of the proceeds set aside to teach the settlers' children. The first land surveyed under the Ordinance was in eastern Ohio. In January 1785, at Fort McIntosh, US commissioners had signed a treaty with Wyandot, Lenape, Ojibwe and Odawa men that pushed most Ohio nations into a reserve farther west. The Shawnee and other nations refused to accept it. The Ohio historian George Knepper writes that the treaty was made under pressure by minor chiefs who had no authority to speak for their people.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The academies, and the first schools for girls [R7 academies]" -->
-Franklin's Academy and Charity School of Philadelphia opened in 1751 and was chartered in 1753. Samuel Phillips founded Phillips Academy at Andover, Massachusetts on 25 April 1778; it opened five days later, and Paul Revere cut its seal. John and Elizabeth Phillips signed the act of incorporation for Phillips Exeter in New Hampshire on 3 April 1781, and that school opened on 1 May 1783 with one teacher and fifty-six students.
+Franklin's Academy and Charity School of Philadelphia opened in 1751 and was chartered in 1753. Samuel Phillips founded Phillips Academy at Andover, Massachusetts on 25 April 1778. It opened five days later, and Paul Revere cut its seal. John and Elizabeth Phillips signed the act of incorporation for Phillips Exeter in New Hampshire on 3 April 1781, and that school opened on 1 May 1783 with one teacher and fifty-six students.
 
 John Poor founded the Young Ladies' Academy of Philadelphia on 4 June 1787, and it was chartered on 7 January 1792. Its pupils were taught reading, writing, English grammar, mathematics, geography, rhetoric, composition, chemistry, and natural philosophy.
 
-Sarah Pierce, born in 1767, opened the Litchfield Female Academy in Connecticut in 1792. Over about thirty years more than two thousand girls attended, from seventeen states and territories and from Canada and the West Indies; the local historical society has identified 1,848 of them by name. More than eight in ten came from out of town and boarded with Litchfield families. They studied history, geography, arithmetic, and composition, and later Latin, logic, rhetoric, and natural philosophy, and girls who finished the whole course were given diplomas.
+Sarah Pierce, born in 1767, opened the Litchfield Female Academy in Connecticut in 1792. Over about thirty years more than two thousand girls attended, from seventeen states and territories and from Canada and the West Indies. The local historical society has identified 1,848 of them by name. More than eight in ten came from out of town and boarded with Litchfield families. They studied history, geography, arithmetic, and composition, and later Latin, logic, rhetoric, and natural philosophy, and girls who finished the whole course were given diplomas.
 
 The argument used to justify these schools was about their pupils' future sons. Mothers did the early moral and intellectual training of children, so the reasoning went, and the new country depended on it. Pierce herself thought girls and boys were equally able. She did not argue that women should enter the men's colleges or the professions.
 <!-- /hb-zoom -->
@@ -214,6 +223,12 @@ Teaching in this era was not yet a career with a training or a salary scale. Noa
 
 Career teachers existed too. Ezekiel Cheever taught for seventy years and Christopher Dock for more than forty. Nobody counted teachers in the 1700s, so how common either pattern was is not known.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Moor's school, Samson Occom, and Dartmouth" -->
+Eleazar Wheelock, a Connecticut minister, opened Moor's Indian Charity School at Lebanon, Connecticut in 1754 for Native students, and took girls from 1761. Students complained that he made the Native students do more manual labor than was fair. In 1769 the Oneida took all their children out of the school. The Dartmouth scholars who edit Wheelock's papers think the physical punishment there was possibly the reason. Samson Occom, a Mohegan minister who had studied with Wheelock, toured England and Scotland from 1766 to 1768 and raised £12,026 for the school. Wheelock used the money to start Dartmouth College in New Hampshire, chartered in 1769 to teach "youth of the Indian tribes" and English students. Only two Native students went with him. About 75 Native students enrolled at Dartmouth before 1972. Occom never set foot on its campus. Dartmouth's own researchers have found papers showing that Wheelock enslaved at least seventeen people.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="A second colony bans teaching enslaved people to write" -->
+The members of Georgia's colonial assembly copied South Carolina's rule in 1755 and made it a crime to teach an enslaved person to write. They passed another slave law in 1770. Sources disagree on whether that law also banned teaching enslaved people to read, or whether that ban waited until 1829.
+<!-- /hb-zoom -->
 <!-- hb-story:start slug="ann-wager" name="Ann Wager" movie="" kind="ordinary" status="verified" -->
 ### Ann Wager
 > **Who:** The only teacher the Williamsburg Bray School ever had, hired to teach Black children to read and to teach them that slavery was right · **When and where:** Williamsburg, Virginia, 1760 to 1774
@@ -226,11 +241,11 @@ The men who ran the charity in London wanted the children taught that being ensl
 
 She died on 20 August 1774 and the school closed.
 
-No pupil of hers is named here. The records hold 86 of their names, and researchers at William & Mary are working on them, but this book will not print a name it has not read in a source.
+The school's reports from 1762, 1765 and 1769 name more than eighty of her pupils. One of them, on the 1765 list, was a boy named Isaac Bee. In the summer of 1774, at eighteen or nineteen, he ran away from Lewis Burwell, the man who claimed to own him. Burwell's advertisement in the *Virginia Gazette* warned that Isaac Bee could read and might "easily get some One to forge a Pass for him." Researchers at William & Mary matched the runaway to the pupil. The advertisement does not say whether he was caught.
 <!-- hb-story:end slug="ann-wager" -->
 <!-- hb-story:start slug="noah-webster" name="Noah Webster" movie="" kind="famous" status="verified" -->
 ### Noah Webster
-> **Who:** A schoolteacher who wrote the spelling book most American children learned from, and later the dictionary · **When and where:** Born West Hartford, Connecticut, 16 October 1758; died New Haven, 28 May 1843
+> **Who:** A schoolteacher who wrote the spelling book most American children learned from, and later the dictionary · **When and where:** Born West Hartford, Connecticut, 16 October 1758. Died New Haven, 28 May 1843
 
 He graduated from Yale in 1778 and taught school in Glastonbury, Hartford, and West Hartford, then at Goshen, New York from 1782. He thought the new country needed its own schoolbooks and one settled way of spelling to hold it together.
 
@@ -238,7 +253,7 @@ In 1783 he published the first part of *A Grammatical Institute of the English L
 
 Estimates of how many copies it sold run from about 60 million over its first hundred years to nearly 100 million between 1783 and the early 1900s. Nobody kept a proper count, so both figures are estimates. It stayed in use in American homes and schools from 1783 into the early 1900s.
 
-His *American Dictionary of the English Language*, with 70,000 entries, came out in 1828 and belongs to the next section of this chapter.
+His *American Dictionary of the English Language*, with 70,000 entries, came out in 1828.
 <!-- hb-story:end slug="noah-webster" -->
 <!-- hb-time:end id="1750-1800" -->
 

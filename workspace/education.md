@@ -300,3 +300,9 @@ through the closures, with **Denilson Garibo**, a student director on the Oaklan
 District board, as its central figure. A real film about a real named student, and it would fill this
 slot too. If a later agent wants a student rather than a teacher here, that is the lead. Details in
 bank §10j.
+
+## T-261a bank check, eras 1-5 (2026-09-27)
+
+- Bank patches (all marked `PATCH 2026-09-27 (T-261a)`): Mi'kmaq writing challenge (era 1) · Seloy's town, 1572 hangings, Timucua fate (era 2) · John Barnard beaten by Cheever, Collegiate 1628 dispute, Deer Island 1675-76, Harvard at least 79 enslaved, W&M 1693 and Nottoway (era 3) · Brafferton captive pupils, Harry and Andrew bought (Woodson 1915), Ursulines 1727, Lenape land (era 4) · Isaac Bee, Georgia 1755 ban, Fort McIntosh land, Moor's school, Occom and Dartmouth, story check (era 5).
+- Outline edits in eras 1-5: new spans (Brafferton, Moor's/Dartmouth, Georgia), Barnard in Discipline, Deer Island after Natick, Isaac Bee closes Ann Wager, 1572 added to Paquiquineo, Boston Latin "oldest" corrected, em dashes, semicolons and self-references removed from eras 1-5.
+- Open for writers: Webster "60 million" is unsourced (drop or re-verify). Parked for native-nations in the checkpoint TO PARK list: Deer Island, Timucua.
