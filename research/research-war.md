@@ -1894,3 +1894,8 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
 - An ordinary (not famous) post-9/11 veteran with an on-the-record account: not found to verification
   in this pass. Both era-10 stories are famous people.
 - The Iran war of 2026 and the Venezuela operation: only dates and one sourced count are used.
+
+## Parked from `america-world` (2026-09-27, T-254)
+Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
+- **war, era 1500s:** Menéndez's own letter to Philip II, 15 Oct 1565 (trans. Eugene Lyon), https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/ : 132 throats cut at Fort Caroline plus 10 next day; "I had their hands tied behind them and put them to the knife"; 16 spared (12 Breton seamen, 4 craftsmen). war's bank 2.4 has the NPS counts but may lack the letter. Copy from america-world bank era 02 PATCH.
+- **war, era 1900-1950:** the water cure at Igbaras (Kramer, New Yorker, author's PDF) and Waller's shooting of eleven guides. Copy from america-world bank era 08 PATCH "the water cure".

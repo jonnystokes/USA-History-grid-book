@@ -312,3 +312,9 @@ Added 2026-09-27 (T-252): Ann Arbor District Library ("Old Wild Cat Times") · D
 - 2026-08-08 (money agent): full bank written; all ten eras researched and sourced; outline rewritten to `progress="researched"`; workspace updated; parks logged (native-nations: wampum legal-tender dates; marketplace: credit-cards-at-the-counter facts; government-politics: Bank War politics pointers).
 - Open: 1970s-inflation household story (target — needs a documented named household); wildcat-note shopkeeper story (target — Dillistin's bibliography and merchant daybooks are the likeliest route).
 - 2026-09-27 (T-252, patch + bank check): both target story slots filled with verified people (Alpheus Felch, era 6; Bruce Bent and Henry Brown, era 9), each with a SEARCHED, NOT FOUND record for the original slot idea. Story facts checked (Jackson, Bryan, Hanyecz patched). Bank check added: SC chattel mortgages (era 4); Owen Sullivan (era 5); planters' banks mechanism and Treaty of Detroit land (era 6); Freedman's Savings Bank and 1873/1893 bank counts (era 7); FDIC 1930-33 depositor losses, Maggie Walker, Jesse Binga, Greenwood's denied claims (era 8); S&L crisis (era 9); 2008-13 bank failures, 2023 runs, FTX, GENIUS Act, perishables refreshed to Sept 2026 (era 10). 4 SEARCHED, NOT FOUND records.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `rights-movements` and `money`, 1950-2000: Equal Credit Opportunity Act Oct 1974 (sex, marital status), amended Mar 1976 (race, color, religion, national origin, age, public assistance) (CFPB blog).
+- `money`, 2000-today: CFPB Apr 24, 2013 payday study (391% APR on $15 per $100, 199 days in debt median).

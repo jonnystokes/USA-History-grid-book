@@ -109,3 +109,13 @@ yours to use.**
   **"National Association for the Advancement of Colored People, Thirty Years of Lynching in the
   United States 1889-1918 (April 1919)."** **The figure of 3,224 people lynched is still
   unconfirmed** — loc.gov still returns 403.
+
+## Parked from `money` (2026-09-27, T-252)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-252 PATCH named in each item.
+- -> `crime-justice` (or `rights-movements`), era 1900-1950: the Tulsa massacre is not told anywhere in the book's outlines (only McGirt mentions Tulsa). Sourced text in research/research-money.md era 8, "Black-owned banks built and lost, and Greenwood's destroyed wealth" (Ellsworth, Oklahoma Historical Society: May 31 to June 1, 1921, white mob incl. men deputized by Tulsa police and National Guard units, 1,000+ homes and businesses destroyed, 50 to 300 dead, no white person imprisoned, all-white grand jury blamed Black Tulsans; Brookings 2021: $1.8M claims, all but one denied). Director should decide the lead chapter.
+- -> `crime-justice`, era 1750-1800: Owen Sullivan, counterfeiter hanged in New York May 10, 1756 (money bank era 5 patch; ear-cropping and C-branding unconfirmed).
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `government-politics` and `crime-justice`, 1750-1800: Christopher Seider shot Feb 22, 1770 by customs informer Ebenezer Richardson at Theophilus Lillie's shop; Richardson convicted of murder Apr 21, 1770, judges delayed sentence (Colonial Society of Mass., Hutchinson correspondence vol. 3; "Trial of Ebenezer Richardson").

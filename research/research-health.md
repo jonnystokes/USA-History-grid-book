@@ -42,3 +42,16 @@ Ch27 tells the elements' stories; what radiation does to bodies, and how element
 
 ## Parked from `work-workers` (2026-09-27, T-250): Hawks Nest tunnel, 1930 to 1932
 - Union Carbide's tunnel near Gauley Bridge, West Virginia, dug largely 1930 to 1932 by contractor Rinehart and Dennis of Charlottesville, Virginia, through high-grade silica sandstone with no dust control and no breathing protection. Almost 5,000 workers, a majority of them migrant Black men from the South. Death counts: 109 (Union Carbide's own reports, unconfirmed: search summary only), 476 (U.S. House hearings, 1936), "as many as 764" (Martin Cherniack, 1986), "close to 1,000" (NIOSH, 2002). 538 lawsuits settled out of court for $200,000, awards $30 to $1,600. (Martin G. Cherniack, "Hawks Nest Tunnel Disaster," e-WV: The West Virginia Encyclopedia, opened 2026-09-27.) `work-workers` tells the job and the count. Your angle: the event (`disasters`) or silicosis as disease (`health`). Full text in `research/research-work-workers.md`, era 08 PATCH.
+
+## Parked from `food-farming` (2026-09-27, T-251)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-251 PATCH named in each item.
+- `health`, era 1900-1950: pellagra. Science History Institute, "Joseph Goldberger's Filth Parties" (opened): 1900 to 1940, about 3 million US cases and 100,000 deaths; diet of cornmeal, molasses, dried pork; niacin identified 1937; WWII laws required niacin in bread. Rankin State Prison Farm, Mississippi, 1915: 11 prisoner volunteers fed a corn-based diet for pardons from Gov. Earl L. Brewer; 5 (Wikipedia) or 6 (Mississippi Encyclopedia, search summary) developed pellagra. Full text in research/research-food-farming.md era 08 PATCH.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `health` and `drugs-alcohol`, 1850-1900: Mrs. Winslow's Soothing Syrup, from 1849 (Jeremiah Curtis, Benjamin A. Perkins), ~65 mg morphine per fl oz, AMA 1911 "baby killer," morphine removed after 1906 law, sold to 1930s (Canadian Museum of Health Care, July 28, 2017). SEARCHED NOT FOUND: death count.
+
+## Parked from `america-world` (2026-09-27, T-254)
+Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
+- **health, era 1900-1950 and 1950-2000:** the Puerto Rico Law 116 sterilization material. Copy the bank section "PATCH 2026-09-27 (T-254): sterilization of Puerto Rican women (\"la operación\")" from research/research-america-world.md (sources: HNN / Jaquira Díaz; DIG podcast with Briggs and López cited). Health owns the medicine and clinics; america-world keeps the US-appointed-government angle.

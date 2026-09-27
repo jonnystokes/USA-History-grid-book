@@ -410,3 +410,8 @@ Researched for the 35-chapter outline (`outlines/migration.md`). Every fact belo
 - Placement fix: Acadian expulsion (1755) moved from the seed's 1700–1750 slot to 1750–1800.
 - Disputes carried honestly: Acadian death toll (near 5,000 vs. up to half); handcart deaths (67–77 Willie / 103–150 Martin / ~200–250 older combined counts); María out-migration (130,000 census vs. higher alternative-data estimates); plus the earlier flags (horse timing, Athabascan dates, Cahokia, Trail of Tears toll, Dust Bowl counts).
 - Still open: a named, verified individual for era 10 (Katrina oral histories are a likely source — none verified yet; do not invent).
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `slavery-freedom` and `migration`, 1850-1900: the Weeping Time, Mar 2-3, 1859, Ten Broeck Race Course, Savannah; seller Pierce Mease Butler (gambling debts); broker Joseph Bryan; 429-436 people; $303,850; reporter Mortimer Thomson (NPS guge-weeping-time-2020; Southern Spaces, Feb 18, 2010).

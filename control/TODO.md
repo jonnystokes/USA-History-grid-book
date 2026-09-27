@@ -11,7 +11,10 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**PARALLEL RUN (Jon, 2026-09-27): T-251 to T-255 IN FLIGHT at once.** Verify and commit each as it finishes, file their TO PARK items after all five, launch nothing more until Jon returns.
+**Parallel run T-251..T-255 DONE (all five PASS), parked items filed.** Nothing in flight. Waiting for Jon
+(at church). Next: T-256 `big-business` (split a/b), T-257 `exploration` (split a/b), T-258 `government-politics`.
+**Open for Jon:** which chapter leads the 1921 Tulsa massacre (crime-justice or rights-movements)? No chapter
+tells it yet.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 

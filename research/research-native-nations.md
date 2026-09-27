@@ -520,3 +520,16 @@ https://text-message.blogs.archives.gov/2019/11/12/the-war-after-the-war-the-ame
 - **Utah was the last state to allow it, in 1957.**
 - **Not established:** whether Frank Harrison and Miguel Trujillo were military veterans, which is
   the usual framing. The fetched page does not say so.
+
+## Parked from `food-farming` (2026-09-27, T-251)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-251 PATCH named in each item.
+- `native-nations`, eras 1500s and 1600s: Anhaica occupation Oct 1539 to Mar 1540 (Florida Division of Historical Resources); Cornhill seed corn and grave-opening, Nov 1620, and the Nauset repayment (Mourt's Relation, Gutenberg #66359, with line quotes in our bank); Kiawah/Etiwan/Stono and the 1684 cession (CCPL "First People of the South Carolina Lowcountry").
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `native-nations`, before-1500 / 1950-2000: Celilo flooded Mar 10, 1957, 10 a.m. order, 4.5 hours, Wyam and S'kin villages, $26.8M settlement for Warm Springs, Yakama, Umatilla, Nez Perce, ~$3,700 per member (HistoryLink 10010).
+
+## Parked from `slavery-freedom` (2026-09-27, T-255)
+Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
+- **native-nations, era 10 (2000-today):** Grand Teton National Park confirmed in July 2026 that a sign documenting a U.S. Army massacre of 170 Blackfeet Nation women and children will not go back up, after the First Circuit on July 2, 2026 paused Judge Angel Kelley's June 12, 2026 order to restore removed park exhibits. (Travelers Today, Patricia Graham, July 18, 2026, journalism. The massacre itself is not verified here; native-nations should source it.)

@@ -236,3 +236,7 @@ National Park Service (Castillo, Boston Light, San Miguel, Independence NHP, Was
 
 ## Parked from `marketplace` research (2026-08-08) — the Woolworth Building
 - Completed **1913** in New York, **792 feet**, then the tallest building in the world. Frank W. Woolworth paid the **$13.5 million** cost **personally, in cash**, out of a fortune built selling goods at five and ten cents. (Library of Congress, *This Month in Business History*: "Woolworth's Five and Dime"; Woolworth Building histories.) `marketplace` uses the cash payment as a measure of the chain's scale; the building itself is yours.
+
+## Parked from `slavery-freedom` (2026-09-27, T-255)
+Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
+- **landmarks, era 10:** the President's House site in Philadelphia: officials removed its slavery displays in January 2026; Judge Cynthia M. Rufe ordered them restored on February 16, 2026 (City of Philadelphia v. Burgum); the government appealed and the Third Circuit later upheld the administration's authority to replace the exhibit. (The Daily Pennsylvanian, February 2026; Travelers Today, July 18, 2026.)

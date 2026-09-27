@@ -2684,3 +2684,11 @@ RESULT: DONE. PASS slavery-freedom / patch and / research. stories 24 (v24 c0 t0
         Memphis and New Orleans 1866, Colfax and Cruikshank, convict leasing, peonage, Choctaw and Chickasaw land.
         SEARCHED NOT FOUND: 3. Perishables: H.R. 40, Evanston, CA SB 518, Maryland override, park exhibits 2025-26.
         TO PARK: 3 items.
+
+### 2026-09-27 | [LOCAL] Parallel-run TO PARK items filed (director, script)
+STATUS: DONE
+27 items from the T-251..T-255 checkpoints filed verbatim into 13 banks, one "## Parked from `<source>`
+(2026-09-27, T-nnn)" section per source and target; items naming two chapters went to both; 1 coordination
+note skipped. No outline touched. Re-measured: nothing regressed (native-nations and economy still PASS
+prose). Book now: RESEARCHED 17, RESEARCHED* 1 (big-business), PARTIAL 1, SEED 11, WRITTEN 7.
+OPEN FOR JON: the 1921 Tulsa massacre is told by no chapter. Parked to crime-justice and rights-movements.

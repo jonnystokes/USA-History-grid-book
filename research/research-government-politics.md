@@ -1705,3 +1705,8 @@ annual poll tax not exceeding $1.50 on every resident of the State 21 years of a
 paying it was a condition of voting. Held: a state breaks the Equal Protection Clause when it makes
 "the affluence of the voter or payment of any fee an electoral standard."
 Source: Cornell LII, 383 U.S. 663 — https://www.law.cornell.edu/supremecourt/text/383/663
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `government-politics` and `crime-justice`, 1750-1800: Christopher Seider shot Feb 22, 1770 by customs informer Ebenezer Richardson at Theophilus Lillie's shop; Richardson convicted of murder Apr 21, 1770, judges delayed sentence (Colonial Society of Mass., Hutchinson correspondence vol. 3; "Trial of Ebenezer Richardson").

@@ -403,3 +403,17 @@ Full text with sources is in `research/research-energy.md` (PATCH entries under 
 ## Parked from `transportation` (2026-09-27, T-248): a named app driver, 2000-today (for your `gig-driver` target)
 - **Barbara Ann Berwick**, Uber driver in San Francisco, about July 23/25 to September 18, 2014. California Labor Commissioner hearing officer Stephanie Barrett ruled June 3, 2015 (Case No. 11-46739 EK) that she was Uber's employee and ordered $4,152.20 (6,468 miles at $0.56, $256 tolls, $274.12 interest). Wage claim for 470.70 hours dismissed. Uber appealed June 16, 2015. Full sourcing in `research/research-transportation.md`, era 10 PATCH (T-248). Transportation uses her as its story (slug `barbara-berwick`), angle: the car and its costs. Your angle would need its own suffixed slug.
 - Also there: Prop 22 (2020) results, finance and the 2024 ruling; the Massachusetts $175M settlement (June 27, 2024); named Prop 22 plaintiffs Hector Castellanos, Joseph Delgado, Saori Okawa, Michael Robinson.
+
+## Parked from `food-farming` (2026-09-27, T-251)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-251 PATCH named in each item.
+- `work-workers`, era 2000-today: CDC MMWR 57(24), June 20, 2008: 68 crop workers died of heat 1992-2006; rate 0.39 per 100,000 vs 0.02 for all civilian workers; unnamed 56-year-old H-2A tobacco worker, North Carolina, July 2005, body temperature 108 F. And 29 U.S.C. 213(c)(1) (Cornell LII): farm child-labor exemptions (under 12 on parent's farm; 12-13 with parental consent; 14+ outside school hours).
+
+## Parked from `money` (2026-09-27, T-252)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-252 PATCH named in each item.
+- -> `rights-movements` or `work-workers`, era 1900-1950: Maggie Lena Walker (St. Luke Penny Savings Bank, 1903) and Jesse Binga (Binga State Bank, bombings) if they want them. Money bank era 8 patch.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `work-workers`, 1900-1950: company stores and scrip (e-WV "Scrip" by Lou Athey: 1891 and 1925 WV laws, 10-30% discounts; EH.net "The Company Town": Coal Commission 1922, 4.2% / 7% markups, Fishback).
+- `work-workers`, 2000-today: Renica Turner / Battle Tested Strategies union (Apr 2023, 84 drivers, Teamsters Local 396), Amazon ended contract Jun 2023, NLRB settlement (two weeks' pay, ~$250,000) approved by ALJ G. Rebekah Ramirez late May 2026 (NPR Jul 20, 2023; FreightWaves Apr 22 and Jun 3, 2026). Heat: Esteban Chavez Jr. (Jun 25, 2022, medical examiner: sudden cardiac dysfunction), José Cruz Rodriguez (Waco, Aug 2021, OSHA: heat illness), 40+ UPS drivers hospitalized since 2015, UPS-Teamsters AC deal for vans bought after Jan 1, 2024 (NPR). Senate HELP majority report Dec 16, 2024 (Amazon 30%+ more injuries than industry in 2023).

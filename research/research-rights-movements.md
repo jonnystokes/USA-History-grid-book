@@ -2995,3 +2995,21 @@ history) · `research-news-communication.md` (Darnella Frazier and the right to 
   by the later round the "test or device" being looked for was broader than a literacy test.
   **The outline therefore says "a test to decide who could vote," names both dates, and does not
   claim that the 1972 round used a literacy test.**
+
+## Parked from `food-farming` (2026-09-27, T-251)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-251 PATCH named in each item.
+- `rights-movements`, era 1900-1950: Japanese American farms. San Francisco News, March 4 and 9, 1942 (sfmuseum.org/hist9/harvest.html): FSA's Lawrence Hewes said 6,000 farms, about 200,000 acres registered; more than 1,000 farms (50,000 acres) transferred in March 1942; California Farm Bureau: 40 percent of state vegetables.
+
+## Parked from `money` (2026-09-27, T-252)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-252 PATCH named in each item.
+- -> `crime-justice` (or `rights-movements`), era 1900-1950: the Tulsa massacre is not told anywhere in the book's outlines (only McGirt mentions Tulsa). Sourced text in research/research-money.md era 8, "Black-owned banks built and lost, and Greenwood's destroyed wealth" (Ellsworth, Oklahoma Historical Society: May 31 to June 1, 1921, white mob incl. men deputized by Tulsa police and National Guard units, 1,000+ homes and businesses destroyed, 50 to 300 dead, no white person imprisoned, all-white grand jury blamed Black Tulsans; Brookings 2021: $1.8M claims, all but one denied). Director should decide the lead chapter.
+- -> `rights-movements` or `work-workers`, era 1900-1950: Maggie Lena Walker (St. Luke Penny Savings Bank, 1903) and Jesse Binga (Binga State Bank, bombings) if they want them. Money bank era 8 patch.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `rights-movements` and `money`, 1950-2000: Equal Credit Opportunity Act Oct 1974 (sex, marital status), amended Mar 1976 (race, color, religion, national origin, age, public assistance) (CFPB blog).
+
+## Parked from `slavery-freedom` (2026-09-27, T-255)
+Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
+- **rights-movements, era 7 (1850-1900), LGBTQ thread:** Frances Thompson, who testified to Congress in 1866 that she and Lucy Smith were raped by seven white men (three police officers) in the Memphis massacre, was arrested in Memphis in 1876 for wearing women's clothing, forcibly examined by doctors, declared male and sentenced to the chain gang. (Wikipedia "Frances Thompson"; cross-check before use.)

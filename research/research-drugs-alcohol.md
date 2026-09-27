@@ -12,3 +12,8 @@
 
 ## Parked from `marketplace` research (2026-08-08) — alcohol in patent medicine
 - **Lydia E. Pinkham's Vegetable Compound** (sold from the mid-1870s) was **18 to 20 percent alcohol by volume**, depending on the source; the label described the alcohol as "used solely as a solvent and preservative." Critics noted that women who had signed temperance pledges took it as a pick-me-up. (Smithsonian NMAH object records; Britannica; New England Historical Society.) `marketplace` leads the advertising; `health` leads the medicine and the 1906 law; the alcohol question is yours.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `health` and `drugs-alcohol`, 1850-1900: Mrs. Winslow's Soothing Syrup, from 1849 (Jeremiah Curtis, Benjamin A. Perkins), ~65 mg morphine per fl oz, AMA 1911 "baby killer," morphine removed after 1906 law, sold to 1930s (Canadian Museum of Health Care, July 28, 2017). SEARCHED NOT FOUND: death count.

@@ -470,3 +470,22 @@ Science's era 07 tells this as "science's authority misused"; the people photogr
 ## Parked from `economy` (2026-08-08) — enslaved people counted as capital
 ### 6. 1800 to 1850 / 7. 1850 to 1900 (1860 figure)
 - **By 1860, enslavers' valuation of the four million people they held was at least $3 billion — more than all the capital invested in railroads and factories in the United States combined.** Teaching sources add: about three times the value of U.S. manufacturing or railroads taken alone, seven times the net worth of all banks. (Lowcountry Digital History Initiative, "North American Context"; NMAAHC Searchable Museum, "A Nation Bound by Slavery"; Measuring Worth, "Measuring the Value of a Slave.") `economy` uses one sentence of this in its King Cotton span; the full telling — people as property, priced and mortgaged — is yours.
+
+## Parked from `food-farming` (2026-09-27, T-251)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-251 PATCH named in each item.
+- `slavery-freedom`, eras 1700-1750 and 1750-1800: the Monticello weekly ration (Sawyer and Bowen, DAACS 2012, citing Stanton 2000: peck of cornmeal, half-pound pork or pickled beef, four salted fish); rice exports 268,602 lb/yr (1698-1702) to 30 million+ (1738-42) (SC Encyclopedia "Rice"); task normally a quarter acre (SC Encyclopedia "Slave Labor"); Africans landed at Charles Town 300/yr (1710), 1,000+/yr (1720), 3,000+/yr (1770) (LDHI "Africans in Carolina"). Also the SEARCHED, NOT FOUND on a named 1700-1750 rice grower, so they do not repeat the search.
+
+## Parked from `money` (2026-09-27, T-252)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-252 PATCH named in each item.
+- -> `slavery-freedom`, era 1850-1900: Freedman's Bank detail (Prologue 1997: ~70,000 depositors, 37 branches, $57M total deposits, Douglass's $10,000, 62 percent repaid 1875-83, ~31,000 never collected, M816/M817 records). Money bank era 7 patch.
+
+## Parked from `marketplace` (2026-09-27, T-253)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
+Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
+- `slavery-freedom`, 1700-1750: Wall Street slave market, New York Common Council law of Nov 30, 1711, used to 1762; ~750 of ~5,000 New Yorkers enslaved in 1700 (WNYC, Apr 14, 2015). Bank PATCH "the market where people were sold".
+- `slavery-freedom`, 1700-1750: Franklin's *Pennsylvania Gazette* printed at least 277 ads offering at least 308 enslaved people; the printer was middleman (Adam Smyth, *Smithsonian Magazine*, June 2024).
+- `slavery-freedom` and `migration`, 1850-1900: the Weeping Time, Mar 2-3, 1859, Ten Broeck Race Course, Savannah; seller Pierce Mease Butler (gambling debts); broker Joseph Bryan; 429-436 people; $303,850; reporter Mortimer Thomson (NPS guge-weeping-time-2020; Southern Spaces, Feb 18, 2010).
+
+## Parked from `america-world` (2026-09-27, T-254)
+Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.
+- **slavery-freedom, era 1750-1800 (optional):** Cathcart's first-hand account of enslavement in Algiers (bastinado, 9 of 21 dead). Copy from america-world bank era 05 PATCH.
