@@ -2823,3 +2823,8 @@ VERIFY: python tools/project_state.py --check rights-movements --stage research
 RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras=10/10 stories=25 (v25 c0 t0) verify_tags=0 bank=62860w outline=32606w manuscript=0w validator_errors=0
         183493 tokens, 89 tool uses, 9.5 min (opus). Era 6 written from scratch (the first agent saved none): Boston mob 1835, Lovejoy 1837, Pennsylvania Hall 1838, Maria Stewart, Crandall's opponents (Judson), women's removal petitions, gag rule, Seneca Falls (James Mott chaired day 2), deaf-school grants, Cayuga land. 2 searched-not-found. Parked Lovejoy to news-communication.
 NOTE (Jon, during T-262r, usage 46%): after T-262r, burst of two, then one at a time. DECISIONS #25 (burst mode only on Jon's word).
+
+### 2026-09-27 | [LOCAL] T-260r | religion: continue bank check eras 1-5 [BURST of 2] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-260-religion.md
+VERIFY: python tools/project_state.py --check religion --stage research
