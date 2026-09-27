@@ -49,7 +49,9 @@ For each gap, research it and APPEND it under the right era:
     ### PATCH <date> (<TASK>): <topic>
 
 with an inline source per fact, named actors, and numbers with their ranges and whose count
-each is. Where sources disagree, record every figure. Do not rewrite existing bank text. If it
+each is. Where sources disagree, record every figure. **A fact you saw only in a search-result
+summary** (the page itself would not open, for example a 403) gets the tag
+`(unconfirmed: search summary only)` beside it. Look for a second source you can open first. Do not rewrite existing bank text. If it
 is wrong, add a correction note beside it.
 
 **When a question cannot be answered, record the search, so no writer asks it again:**

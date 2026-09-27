@@ -2491,3 +2491,9 @@ RESULT: DONE. PASS migration / patch and / research. stories 15 (v15 c0 t0), ban
         Chicago 1919, the 1936 bum blockade (Chief James E. Davis), EO 9066 movement facts (rights-movements
         leads), Gretna bridge, Houston, Census Vintage 2025. SEARCHED NOT FOUND: 2.
         Weak points the agent flagged in the bank: 3 facts seen only in search-result summaries.
+
+### 2026-09-26 | [LOCAL] T-245 | home-family: patch (2 candidates, 4 targets, kitchen thread) + bank check | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-245-home-family.md
+VERIFY: python tools/project_state.py --check home-family --stage patch (and --stage research)
+USAGE AT START: 7% of the 5-hour window (Jon, 2026-09-26; includes T-244 and director work).

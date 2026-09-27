@@ -53,7 +53,9 @@ shows only this chapter's files.
 Every fact in your prose must be in `research/research-<slug>.md`. The outline is a plan of what
 to cover, not a source. Do not add identity glosses from general knowledge (a first name,
 "Swedish botanist") unless the bank has them. Use the bank's PATCH sections, and follow any
-correction note beside older text. A `SEARCHED, NOT FOUND` entry in the bank is a settled
+correction note beside older text. **A fact tagged `(unconfirmed: search summary only)` is not
+yet a fact:** confirm it on a page you can open (then record that source in the bank) before you
+write it, or leave it out. A `SEARCHED, NOT FOUND` entry in the bank is a settled
 answer: write what it says the prose can say, and do not research it again.
 
 ## When the bank is missing something: research it yourself (DECISIONS #21)
@@ -68,7 +70,8 @@ without adding fiction. Look them up yourself rather than leaving them for later
      chapter better. Claims that would take real digging, or that add little, you leave out and
      list in the checkpoint under "Outline claims left out".
 2. **Bank first, then prose.** Append what you find to the bank under its era as
-   `### PATCH <date> (<TASK>): <topic>`, with an inline source per fact. Prefer government,
+   `### PATCH <date> (<TASK>): <topic>`, with an inline source per fact. A fact you saw only in
+   a search-result summary is tagged `(unconfirmed: search summary only)` and not written. Prefer government,
    court, museum, university and archive sources (`control/AGENT-BRIEF.md` §3). Then write the
    sentence from the bank. Never write a fact that is not in the bank, even one you just read.
 3. **A few searches per question, then stop.** Give each question about four or five good

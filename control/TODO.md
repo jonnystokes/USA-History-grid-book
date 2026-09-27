@@ -11,8 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**T-244 done, stopped for Jon's review** (he asked to stop after the first agent). Nothing is in
-flight. Next: T-245 `home-family`.
+**T-245 `home-family` IN FLIGHT.** Stop when it finishes (Jon measures usage per agent).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
