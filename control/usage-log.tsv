@@ -154,3 +154,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-26	T-243c	write-prose	general-purpose	[CLOUD] economy part2 (2 eras)	?	?	?	?	?	?	4350	completed	7 blocking gaps
 2026-09-26	T-243d	write-prose	general-purpose	[CLOUD] economy part3 (3 eras)	?	?	?	?	?	?	4950	completed	chapter PASS prose
 2026-09-26	T-243e	research+fix	general-purpose	[CLOUD] economy blocking gaps (KILLED before first commit)	?	?	?	?	?	?	?	killed	nothing landed
+2026-09-26	T-244	research	general-purpose/opus	[LOCAL] migration patch (1 target) + bank check, eras 1-10	?	?	?	240774	107	679255	?	completed	first local agent; PASS patch+research; bank +4618w; 2 searched-not-found

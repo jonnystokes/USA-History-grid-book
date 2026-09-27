@@ -2478,7 +2478,16 @@ MEASURED: project_state unchanged (7 WRITTEN, 5 RESEARCHED, 13 RESEARCHED*, 11 S
 NEXT: wait for Jon's go. Then T-244 migration patch (TODO step 1a).
 
 ### 2026-09-26 | [LOCAL] T-244 | migration: patch (1 target story) + bank check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-244-migration.md
 VERIFY: python tools/project_state.py --check migration --stage patch (and --stage research)
 NOTE: first agent under the rebuilt local briefs (RESEARCH.md). Brief fourth-wall rule added first.
+RESULT: DONE. PASS migration / patch and / research. stories 15 (v15 c0 t0), bank 9,871 -> 14,489w, outline 3,685w,
+        validator 0. 240,774 tokens, 107 tool uses, 11.3 min (opus).
+        Target filled: kimberly-rivers-roberts (Katrina, 2005; Trouble the Water, 2008).
+        Bank check: PATCHes for Onate "first" (now "first overland"), Hartford, Tuscarora War, Shenandoah,
+        Acadian expulsion, Kentucky, Cherokee removal (Scott; 1,000 to 8,000+), Choctaw/Creek/Chickasaw,
+        Franklin & Armfield, Long Walk, Madley's California figures, Great Migration push and obstruction,
+        Chicago 1919, the 1936 bum blockade (Chief James E. Davis), EO 9066 movement facts (rights-movements
+        leads), Gretna bridge, Houston, Census Vintage 2025. SEARCHED NOT FOUND: 2.
+        Weak points the agent flagged in the bank: 3 facts seen only in search-result summaries.

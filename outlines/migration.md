@@ -35,7 +35,7 @@ Juan de Oñate leaves Santa Bárbara in northern New Spain in January 1598 with 
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="juan-de-onate" name="Juan de Oñate" movie="" kind="famous" status="verified" -->
 ### Juan de Oñate
-Led the 1598 colony column up the Camino Real — about 400 men, 83 wagons and carts, 7,000 head of livestock, from Santa Bárbara to Ohkay Owingeh. The first documented settler-colony migration inside the future United States. His soldiers' 1599 attack on Acoma Pueblo goes with the nations' story (`native-nations`); this chapter says it plainly in one sentence and hands off.
+Led the 1598 colony column up the Camino Real — about 400 men, 83 wagons and carts, 7,000 head of livestock, from Santa Bárbara to Ohkay Owingeh. The first documented overland settler colony to move into the future United States. (Luna's 1559 Pensacola colony and St. Augustine in 1565 came earlier, by sea.) His soldiers' 1599 attack on Acoma Pueblo goes with the nations' story (`native-nations`); this chapter says it plainly in one sentence and hands off.
 <!-- hb-story:end slug="juan-de-onate" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -160,7 +160,7 @@ The two largest internal movements of the century begin: Black Americans out of 
 About 6 million people, roughly 1910–1970; the first wave to 1940 heads to Northern and Midwestern cities, mostly by train. City Black populations 1910–20: Chicago up 148 percent, Detroit up 611 percent, Philadelphia up 500 percent, New York roughly doubled. The South held about 90 percent of Black Americans in 1900 and under 55 percent by 1970. Shared with: `city-building` (where they settled) · `rights-movements` (what drove them out and met them) · `work-workers` (the jobs).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The Dust Bowl move" -->
-Drought and windstorms strip the southern Plains in the 1930s; more than 250,000 people go to California about 1935–40 (Oklahoma's net out-migration about 440,000 — a different measure; state both), many on US Route 66. "Okies" met hostility, including the 1936 Los Angeles police "bum blockade" at the state line. Shared with: `land-environment` (the soil) · `disasters` (the storms) · `food-farming` (farm collapse) · `transportation` (Route 66 as a road).
+Drought and windstorms strip the southern Plains in the 1930s; more than 250,000 people go to California about 1935–40 (Oklahoma's net out-migration about 440,000 — a different measure; state both), many on US Route 66. "Okies" met hostility, including the 1936 "bum blockade." Los Angeles Police Chief James E. Davis sent 136 officers to 16 crossings on the state line from February 3 to early April 1936 to turn back poor migrants. Davis claimed about 11,000 turned away, and historians think the number was lower. Shared with: `land-environment` (the soil) · `disasters` (the storms) · `food-farming` (farm collapse) · `transportation` (Route 66 as a road).
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="ida-mae-brandon-gladney" name="Ida Mae Brandon Gladney" movie="" kind="ordinary" status="verified" -->
 ### Ida Mae Brandon Gladney
@@ -199,13 +199,23 @@ A surgeon who left Louisiana in 1953 and drove west across the desert to Califor
 The Sun Belt pull sharpens, the highest-cost metros lose people to the rest of the country, and two hurricanes move whole populations.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The Sun Belt and remote-work moves" -->
-The South gained about 2.7 million net domestic migrants from 2020 to 2024, with Texas and Florida leading (each up about 500,000 from other states in 2023–24). From 2020 to 2022 California lost about 343,000 and New York about 300,000 to other states; the biggest out-migration metros were New York, Los Angeles, San Francisco, and Chicago. Remote work after 2020 let some people move by cost and space rather than job location. The New Great Migration continued: metro Atlanta's Black population grew about five-fold from 1970 to 2020, ranking second nationally by 2010, and Atlanta was the top destination for young Black adult movers from 2000 to 2018.
+The South gained about 2.7 million net domestic migrants from 2020 to 2024. Florida's net gain from other states fell from about 311,000 (2022) to about 184,000 (2023) and about 23,000 (July 2024 to June 2025). In that last year North Carolina (about 84,000), Texas (about 67,000) and South Carolina (about 67,000) gained the most, and 9 of the 15 biggest gainers were Southern states (Census Vintage 2025, released January 2026). From 2020 to 2022 California lost about 343,000 and New York about 300,000 to other states; the biggest out-migration metros were New York, Los Angeles, San Francisco, and Chicago. Remote work after 2020 let some people move by cost and space rather than job location. The New Great Migration continued: metro Atlanta's Black population grew about five-fold from 1970 to 2020, ranking second nationally by 2010, and Atlanta was the top destination for young Black adult movers from 2000 to 2018.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Storm moves: Katrina and María" -->
-Hurricane Katrina, 2005: the storm and levee failures displaced more than 1 million people from the New Orleans metro and Gulf Coast; up to 600,000 households were still displaced a month later. New Orleans fell from 484,674 people (2000 census) to about 230,000 (2006) and stood near 363,000 in 2024 — many never came back. Shared with: `disasters` (lead — the storm, the levees, the rescue). Hurricane María, September 2017: about 130,000 people — almost 4 percent of Puerto Rico — left for the mainland within a year (Census estimate; other data sources give higher counts — state that the number depends on the data used), about a third of 2018's movers going to Florida. Puerto Ricans are U.S. citizens; this is internal migration. Shared with: `america-world` (the territories thread) · `disasters` (the storm).
+Hurricane Katrina, 2005: the storm and levee failures displaced more than 1 million people from the New Orleans metro and Gulf Coast; up to 600,000 households were still displaced a month later. New Orleans fell from 484,674 people (2000 census) to about 230,000 (2006) and stood near 363,000 in 2024 and about 362,000 in July 2025. Many never came back. About 250,000 evacuees reached Houston, and about 150,000 were still there a year later. On September 1, 2005, Gretna police, bridge police and Jefferson Parish deputies turned people walking out of New Orleans back at gunpoint on the Mississippi River bridge, on orders Gretna Police Chief Arthur Lawson and the parish sheriff's office agreed on. Shared with: `disasters` (lead — the storm, the levees, the rescue). Hurricane María, September 2017: about 130,000 people — almost 4 percent of Puerto Rico — left for the mainland within a year (Census estimate; other data sources give higher counts — state that the number depends on the data used), about a third of 2018's movers going to Florida. Puerto Ricans are U.S. citizens; this is internal migration. Shared with: `america-world` (the territories thread) · `disasters` (the storm).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="recent-mover" name="(target) a documented recent mover" movie="" kind="ordinary" status="target" -->
-### (target) a documented recent mover
-No verified individual yet; do not invent one. Likeliest sources: on-the-record Katrina displacement oral histories (a family that settled in Houston or Atlanta), or a named, interviewed remote-work mover from Census-linked journalism.
-<!-- hb-story:end slug="recent-mover" -->
+<!-- hb-story:start slug="kimberly-rivers-roberts" name="Kimberly Rivers Roberts" movie="Trouble the Water (2008)" kind="ordinary" status="verified" -->
+### Kimberly Rivers Roberts
+> **Movie:** Trouble the Water (2008), a documentary about Kimberly and Scott Roberts, directed by Tia Lessin and Carl Deal and built on her own video.
+
+> **Who:** A 24-year-old from the Lower Ninth Ward of New Orleans who filmed the Katrina flood from inside it, with her husband Scott Roberts.
+
+> **When and where:** New Orleans, August 2005, then Alexandria, Louisiana, then Memphis, Tennessee, then home to New Orleans.
+- Someone had stolen the couple's car, so they could not leave before the storm. On August 28, 2005, Kimberly began filming with a camcorder she had bought for $20.
+- The water rose and they climbed into the attic with neighbors. Police told them by phone they would not come yet. A neighbor floated people out on a punching bag.
+- At a nearly empty Navy base, people at the gate held the group at gunpoint and turned them away. The film shows it, and the Navy denies it happened. The film does not name the people with the guns.
+- Her grandmother died in a hospital that was never emptied. Her uncle was later found dead in his home.
+- They went to a Red Cross shelter in Alexandria, Louisiana, then an uncle's trailer, then Memphis, where a cousin lived. FEMA, the federal office for disaster help, promised them a check. It did not come.
+- A newspaper interview says they spent six months in Memphis and could not find work without high school diplomas. They went back to New Orleans, gutted flooded houses for pay, and Kimberly started a record label.
+<!-- hb-story:end slug="kimberly-rivers-roberts" -->
 <!-- hb-time:end id="2000-today" -->

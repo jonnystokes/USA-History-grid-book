@@ -11,8 +11,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**Waiting for Jon to say go.** Nothing is in flight. The process was rebuilt for local work
-on 2026-09-26 (DECISIONS #17 to #22). The next task is the first of step 1a below.
+**T-244 done, stopped for Jon's review** (he asked to stop after the first agent). Nothing is in
+flight. Next: T-245 `home-family`.
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
@@ -32,7 +32,7 @@ Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each t
 `python tools/slice_bank.py <slug> --eras <a-b> --summary` before dispatch.
 
 ### 1a. Patch the RESEARCHED* chapters (mode `patch`)
-- [ ] T-244 `migration`
+- [x] T-244 `migration` (PASS research, 241k tokens, 11 min)
 - [ ] T-245 `home-family`
 - [ ] T-246 `technology`
 - [ ] T-247 `energy`

@@ -58,11 +58,11 @@ Companion files: outline `outlines/migration.md` · research bank `research/rese
 
 ## Thin eras (honest)
 - **Before 1500** and **1700–1750**: real history, no documented named individual travelers — zoom 3 stays empty on purpose (the 1500s and 1600s now HAVE stories: Oñate 1598, Hooker 1636).
-- **2000–Today**: strong numbers, no verified person yet — target slot stays open; do not invent.
+- **2000-Today**: story filled 2026-09-26 (Kimberly Rivers Roberts).
 
 ## Story slots (all in-era `hb-story` blocks in the outline)
 - **verified (13):** Juan de Oñate (1500s) · Thomas Hooker (1600s) · Joseph Broussard (1750–1800) · Rebecca Neugin, Charles Ball, Brigham Young (1800–1850) · Amelia Stewart Knight, Levi Savage, Pap Singleton, Laura Ingalls Wilder (1850–1900) · Ida Mae Brandon Gladney, George Swanson Starling, Florence Owens Thompson (1900–1950) · Robert Joseph Pershing Foster (1950–2000)
-- **target (1):** a documented recent mover (2000–today) — likeliest: an on-the-record Katrina-displacement oral history, or a named remote-work mover from Census-linked journalism.
+- **target (0):** filled 2026-09-26 (T-244) by Kimberly Rivers Roberts (2000-today, verified), Katrina displacement to Memphis and back, film *Trouble the Water* (2008). Slug `kimberly-rivers-roberts`.
 - **Verified movies:** *17 Miracles* (2011) — Levi Savage / Willie company; *Little House on the Prairie* (NBC series, 1974–1983) — Ingalls. Topic docs (not person-movies, kept out of Movie lines): *We Shall Remain: Trail of Tears* (2009); *The Dust Bowl* (Ken Burns, 2012).
 - **Slug notes:** `rebecca-neugin-migration` (native-nations has `rebecca-neugin-native-nations`); `charles-ball-migration` (reserved suffix — `slavery-freedom` may want him for the system angle later). All other slugs grep-checked unique 2026-08-07.
 
