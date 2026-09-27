@@ -36,6 +36,7 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 22 | (2026-09-26, local) Is a sonnet checker good enough? | **Test it.** The first three sonnet checker runs are repeated with an opus checker on the same file and brief. The opus fixer's verdicts show what each missed, and the checker brief is improved until sonnet matches opus. Record: `control/audit/CHECKER-CALIBRATION.md` |
 | 23 | (2026-09-27) Who tells the 1921 Tulsa Race Massacre? (no chapter did) | **As recommended: `rights-movements` leads** (an attack on a Black community's success, and its aftermath shaped the movement). **`crime-justice` tells it from the justice angle** (no one was ever convicted). Facts parked in both banks on 2026-09-27 |
 | 24 | (2026-09-27) Autonomous mode | **Non-stop, one sub-agent at a time**, until Jon says otherwise. Interruptions are expected: follow RESUME's drill and salvage on the automated reset message |
+| 25 | (2026-09-27) Burst mode | **One agent at a time is the normal way. "Burst mode" (several agents at once) runs only when Jon says so, for the size he names, and ends when he says.** Burst agents write only their own chapter and list material for other chapters under TO PARK. Lesson: ten at once used the whole window and left 8 of 10 needing a continuation (each repays the full reading cost), which wastes more than it saves. Five fitted (27% to 60%) |
 
 ## Consequences already applied
 

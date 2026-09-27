@@ -2820,3 +2820,4 @@ RESULT: DONE. PASS  government-politics / research. measured: stage=RESEARCHED e
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
+NOTE (Jon, during T-262r, usage 46%): after T-262r, burst of two, then one at a time. DECISIONS #25 (burst mode only on Jon's word).
