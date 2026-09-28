@@ -3198,9 +3198,11 @@ RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10
         329262 tokens, 160 tool uses, 21.2 min (opus). Eras 6-7 + bank check. Stories: Tom Molineaux, Lucy Larcom, Moses Fleetwood Walker ('first' qualified by William Edward White 1879), Isaac Murphy (earnings; the house his widow lost). Knickerbocker rules 1845, who invented the Doubleday myth, the color line (1867, Anson, the 14 Jul 1887 vote 6-4), Cato 1839, McCoy killed 1842, Von Gammon 1897 and 8 football deaths, Boston sand gardens, child labor counts. 6 searched-not-found. Austin Curtis death date to AUDIT-QUEUE. Chapter FAIL until eras 8-10.
 
 ### 2026-09-27 | [LOCAL] T-269c | storytelling-evolution: full research eras 8-9 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL eras=10/10 stories=27 (v25 c0 t2) verify_tags=10 bank=30310w outline=16884w manuscript=0w validator_errors=0
+        457309 tokens, 119 tool uses, 20.0 min (opus). Eras 8-9 + bank check. 11 verified: Chaplin, Micheaux, Anna May Wong, Hattie McDaniel, Bert Williams (new), Lilian St. Cyr/Red Wing (new), Lucille Ball, Lee Grant, Lorraine Hansberry, Sidney Poitier, Rita Moreno (new). 8 seed corrections (Great Train Robbery, Florence Lawrence, Production Code wording, Wilson quote disputed, Star Wars, VHS, three-camera, McDaniel's table in three accounts). 3 searched-not-found. Chapter FAIL until era 10. TO PARK for 8 chapters.
 
 ### 2026-09-27 | [LOCAL] T-272c | styles: full research eras 9-10, completes the chapter [BURST] | model opus
 STATUS: IN-FLIGHT
