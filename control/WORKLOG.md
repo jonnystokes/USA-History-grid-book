@@ -3089,3 +3089,4 @@ RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 st
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
+NOTE (Jon): two more beside T-273c (messaged to switch to TO PARK): T-267a art 1-5, T-268a music 1-5.
