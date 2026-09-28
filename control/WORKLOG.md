@@ -2942,3 +2942,10 @@ NOTE (Jon, 80%): PAUSE after T-263c and T-265c finish. No new dispatches until J
 T-263c health and T-265c crime-justice done: both chapters now PASS research. Parked items filed into 10 banks
 (all validate 0; finished chapters still PASS prose). Measured: RESEARCHED 21, WRITTEN 7, PARTIAL 2 (disasters,
 drugs-alcohol), SEED 7. Nothing in flight. Queue in control/TODO.md.
+
+### 2026-09-27 | [LOCAL] RESUMED (Jon): burst of 5
+
+### 2026-09-27 | [LOCAL] T-264c | disasters: full research eras 9-10, completes the chapter [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-264-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage research

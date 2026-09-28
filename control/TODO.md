@@ -11,7 +11,9 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**PAUSED (Jon, at 80% of the 5-hour window).** Nothing in flight. Do not dispatch until Jon says.
+NOW-RUNNING: T-264c disasters (full research eras 9-10, completes the chapter [BURST5])
+**RESUMED (Jon): BURST OF 5** = T-264c disasters 9-10, T-266c drugs-alcohol 9-10, T-260b religion 6-8,
+T-261b education 6-7, T-262b rights-movements 7. Then back to one at a time.
 
 Step 1 (research) measured 2026-09-27: RESEARCHED 21 + WRITTEN 7 = 28 of 37 chapters pass research.
 Still to do, one at a time unless Jon calls a burst (DECISIONS #25):
