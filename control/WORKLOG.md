@@ -3139,3 +3139,8 @@ CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
 RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stories=25 (v10 c14 t1) verify_tags=75 bank=18047w outline=13561w manuscript=0w validator_errors=0
         383539 tokens, 151 tool uses, 20.8 min (opus). Eras 6-7 + bank check; Quinones story added to era 3. Verified: Stephen Foster, Francis Johnson, Ella Sheppard, Sousa, Scott Joplin. Douglass on what the songs meant (the 1836 Canaan hymn), Tubman's hymn signals, Drinking Gourd map claim recorded as disputed, Congo Square, blackface minstrelsy, the banjo's move, Fisk totals ($20,000-$150,000, dated), 1883 rules against Native dances, Carlisle band, first Native recordings 1890. 3 searched-not-found. Chapter FAIL until eras 8-10 (75 VERIFY, 14 candidates).
+
+### 2026-09-27 | [LOCAL] T-268c | music: full research eras 8-9 (T-268d does era 10) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-268-music.md
+VERIFY: python tools/project_state.py --check music --stage research
