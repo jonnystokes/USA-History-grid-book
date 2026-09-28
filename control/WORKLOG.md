@@ -3084,3 +3084,8 @@ CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
 RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 stories=8 (v6 c0 t2) verify_tags=3 bank=18333w outline=11312w manuscript=0w validator_errors=0
         402103 tokens, 152 tool uses, 20.0 min (opus). Eras 6-8 + bank check. Stories: Sarah Josepha Hale (rebuilt from sources), Jack Yates (Emancipation Park 1872), Anna Jarvis. Christmas under slavery and hiring day, NY 5 July 1827 parade, Albany's 1811 Pinkster ban, Juneteenth and Texas 1868 (379 killed), Norfolk 1866, Decoration Day origins unresolved, New Orleans 1891 (eleven named), Armistice Day, 1939-41 Thanksgiving fight. Corrections: Labor Day 28 Jun 1894, Columbus Day first 1934, Mother's Day law, Alabama 1836 rejected. 4 searched-not-found. Parked to immigration and crime-justice. Chapter FAIL until eras 9-10.
+
+### 2026-09-27 | [LOCAL] T-273c | holidays: full research eras 9-10, completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-273-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage research
