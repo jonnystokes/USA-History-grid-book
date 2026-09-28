@@ -2964,3 +2964,8 @@ VERIFY: python tools/project_state.py --check religion --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+
+### 2026-09-27 | [LOCAL] T-262b | rights-movements: bank check era 7 [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-262-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage research
