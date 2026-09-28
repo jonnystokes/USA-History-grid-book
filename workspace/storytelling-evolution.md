@@ -66,35 +66,12 @@ Companion files: outline `outlines/storytelling-evolution.md` (308 lines, seed, 
 
 *Every unverified date/claim carried into the outline, by era, with the outline line number. 60 items. The research agent clears these; nothing moves off `status="target"` until it does.*
 
-**before-1500** — the bracket at line 31 is editorial, not a verify: it records that this era carries **no** `hb-story` under the naming rule, and must not be filled with a representative figure.
-- [ ] each masked tradition named, and how far back the physical evidence runs (22)
-- [ ] which nations restrict telling to winter, from published statements by the nations themselves rather than ethnographers only (25)
-- [ ] the size of the Cahokia plaza and the seating-capacity claims for the great kivas (28)
-
-**1500s**
-- [ ] all Acoma figures and the date range of the attack (41)
-- [ ] the 1598 date usually given for the first New Mexico performance, and the continuity of the modern *Los moros y los cristianos* performances (44)
-- [ ] Farfan's rank, the Villagra account describing the performance, and what happened to him afterwards (49)
-
-**1600s**
-- [ ] the New England meetinghouse attendance laws and the sermon length (56)
-- [ ] the *Ye Bare and Ye Cubb* complainant's name and the exact wording of the court order (59)
-- [ ] the claim that banned ceremonies were performed openly after 1680 (62)
-- [ ] William Darby's occupation, the trial date, and whether any other record of him exists (67)
-
-**1700–1750**
-- [ ] the Williamsburg playhouse date — sources give 1716 to 1718 — and the Pennsylvania acts against stage plays (77)
-- [ ] Franklin's thirty-thousand figure and its context in the autobiography, and the Whitefield-acted-in-school-plays claim (80)
-- [ ] earliest documented Pinkster and Negro Election Day dates, and where the accounts come from (83)
-- [ ] Levingston's build date, his contract terms with the actors, what he did before, and how the venture ended (88)
-
-**1750–1800**
-- [ ] the Hallam company's size, the opening date and play, and the Jamaica years (98)
-- [ ] the *Prince of Parthia*, Warren and *Contrast* dates, and the claim that Jonathan was the first stage Yankee (101)
-- [ ] the wording of the 1774 Continental Association article, the 1778 resolution, and the Valley Forge *Cato* (104)
-- [ ] Hallam the Younger's birth year, his age in 1752, the Jamaica years, and his death date (109)
-- [ ] authorship of *The Group*, published anonymously, and the publication dates (114)
-- [ ] Nancy Hallam's relationship to the Hallam family, the Peale painting's date, and the newspaper notice (119)
+**Eras 1 to 5: queue CLEARED by T-269a (2026-09-28).** Every item below was resolved in `research/research-storytelling-evolution.md` (sections ERA 01 to ERA 05 and BANK CHECK). Resolutions in brief:
+- before-1500: masks sourced (katsina imagery from about 1300 to 1350, Nunalleq Yup'ik masks before 1650, Haudenosaunee 1995 policy); Tlingit/Haida transformation masks REMOVED (no pre-1500 evidence); winter-only telling sourced to an Ojibwe speaker (MPR 2024); Tlingit at.óow (Sealaska); Cahokia plaza 40, 47 or about 50 acres (all recorded); Casa Rinconada 63 ft (no seat count exists: SEARCHED, NOT FOUND).
+- 1500s: Farfán play sourced (Simmons); Manso people made to act in it; Acoma figures now a range from the native-nations bank; Los Moros y Cristianos 1598 at San Juan (Simmons 2016); Florida mission plays SEARCHED, NOT FOUND and removed.
+- 1600s: Ye Bare court record transcribed (Nov 16 1665, Dec 18 1665, Jan 17 1665/6; complainant Edward Martin); the "court watched the play" claim removed (record does not say); Darby's occupation SEARCHED, NOT FOUND; 1680 restoration of ceremonies sourced (Zotigh, NMAI); attendance laws and sermon length dropped (unsourced); 1690 Harvard *Gustavus Vasa* added.
+- 1700–1750: Williamsburg contract 1716 (July 11 or Nov 19), first play 1718, foreclosure 1723, town hall 1745; Pennsylvania acts (search summary only); Franklin's thirty thousand read from the *Autobiography*; Whitefield's play-acting from his *Journals*; Pinkster 1737 and Hercules 1749; Aston and the Charleston 1735 season added.
+- 1750–1800: Hallam opening Sept 15 (or 5), 1752; company size SEARCHED, NOT FOUND; Prince of Parthia Apr 24 1767; Contrast Apr 16 1787; Article 8 text (Avalon); Oct 12 and 16 1778 resolutions; Valley Forge Cato May 4 or 11 1778; Hallam Jr. c.1740 to Nov 1 1808; Warren's five plays (NWHM); Nancy Hallam niece of Sarah Hallam Douglass, Peale 1771, *Maryland Gazette* Sept 6 1770.
 
 **1800–1850**
 - [ ] the Chapman floating-theatre dates, and published examples of the mixed programmes (129)
@@ -166,10 +143,10 @@ Companion files: outline `outlines/storytelling-evolution.md` (308 lines, seed, 
 **All 22 are `status="target"`. There is no `candidate` and no `verified` in this chapter, and there must not be until `research/research-storytelling-evolution.md` exists and sources them.**
 
 - **before-1500** — none, by design (see thin eras above). Do not add one.
-- **1500s** — Marcos Farfan de los Godos (`ordinary`).
-- **1600s** — William Darby (`ordinary`).
-- **1700–1750** — William Levingston (`ordinary`).
-- **1750–1800** — Lewis Hallam the Younger · Mercy Otis Warren · Nancy Hallam (`ordinary`).
+- **1500s** — Marcos Farfán de los Godos (`ordinary`, VERIFIED 2026-09-28).
+- **1600s** — William Darby (`ordinary`, VERIFIED).
+- **1700–1750** — William Levingston (`ordinary`, VERIFIED) · Anthony Aston (`ordinary`, NEW and VERIFIED, slug `anthony-aston`).
+- **1750–1800** — Lewis Hallam the Younger · Mercy Otis Warren · Nancy Hallam (`ordinary`), all VERIFIED.
 - **1800–1850** — William Alexander Brown · Ira Aldridge · Edwin Forrest.
 - **1850–1900** — Edwin Booth · Charlotte Cushman · Billy Kersands.
 - **1900–1950** — Charlie Chaplin · Oscar Micheaux · Anna May Wong · Hattie McDaniel.
@@ -242,3 +219,5 @@ an overclaimed strike participation). Remaining, needing research:
   chapter twice states Latino actors were caricatured and cast out of parts.
 - **STYLE:** six instructions-to-the-writer sit inside rendered prose. Every one is a
   sentence the reader would see. Move them here or cut them at prose time.
+
+**T-269a additions (2026-09-28):** items for other chapters are listed under "TO PARK" in `control/checkpoints/T-269-storytelling-evolution.md` for the director to file (burst rule: no agent edits another chapter's files).

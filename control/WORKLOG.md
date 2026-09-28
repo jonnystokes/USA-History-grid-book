@@ -3149,9 +3149,11 @@ RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stori
 NOTE (Jon asked for a burst of 6): only 3 safe tasks exist beside the running music agent (the last 3 seed chapters), so 4 run (DECISIONS #25 amended rule). Music messaged to switch to TO PARK.
 
 ### 2026-09-27 | [LOCAL] T-269a | storytelling-evolution: full research eras 1-5 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL eras=10/10 stories=23 (v7 c0 t16) verify_tags=46 bank=9528w outline=10388w manuscript=0w validator_errors=0
+        381744 tokens, 197 tool uses, 22.6 min (opus). Eras 1-5 researched + bank check. 7 stories verified incl. Farfan's 1598 play (Manso people pressed into the cast), the Accomack Ye Bare and Ye Cubb court orders (court-watched claim dropped), Anthony Aston (new), Levingston and the indentured Staggs. Acoma range 300-1,500; kiva raids and mask burnings named to Posada, 1675 hangings to Trevino. 4 unsourced claims left out, 10 searched-not-found. Chapter FAIL until eras 6-10 (16 targets, 46 VERIFY). TO PARK 6. Agent briefly wrote to harness-issues.md outside its file list and repaired it.
 
 ### 2026-09-27 | [LOCAL] T-271a | sports-play: full research eras 1-5 [BURST] | model opus
 STATUS: IN-FLIGHT
