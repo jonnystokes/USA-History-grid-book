@@ -3182,9 +3182,11 @@ CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
 
 ### 2026-09-27 | [LOCAL] T-269b | storytelling-evolution: full research eras 6-7 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL eras=10/10 stories=24 (v14 c0 t10) verify_tags=31 bank=18352w outline=13012w manuscript=0w validator_errors=0
+        382990 tokens, 118 tool uses, 16.4 min (opus). Eras 6-7 + bank check. Stories: William Alexander Brown and the African Theatre, Ira Aldridge, Edwin Forrest, William Henry Lane (new; Barnum billed him as John Diamond), Edwin Booth, Charlotte Cushman, Billy Kersands (own words via Tom Fletcher 1954). Astor Place (judge, sheriff, General Sandford; 18 to 31 dead), Wild West (Lakota wages, four named deaths, 1890 hiring ban, 23 Ghost Dance prisoners released to Cody), Tom shows in blackface, vaudeville, first films. 4 unsupported claims removed, 3 searched-not-found. Chapter FAIL until eras 8-10. TO PARK six chapters.
 
 ### 2026-09-27 | [LOCAL] T-271b | sports-play: full research eras 6-7 [BURST] | model opus
 STATUS: IN-FLIGHT

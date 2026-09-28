@@ -73,23 +73,9 @@ Companion files: outline `outlines/storytelling-evolution.md` (308 lines, seed, 
 - 1700–1750: Williamsburg contract 1716 (July 11 or Nov 19), first play 1718, foreclosure 1723, town hall 1745; Pennsylvania acts (search summary only); Franklin's thirty thousand read from the *Autobiography*; Whitefield's play-acting from his *Journals*; Pinkster 1737 and Hercules 1749; Aston and the Charleston 1735 season added.
 - 1750–1800: Hallam opening Sept 15 (or 5), 1752; company size SEARCHED, NOT FOUND; Prince of Parthia Apr 24 1767; Contrast Apr 16 1787; Article 8 text (Avalon); Oct 12 and 16 1778 resolutions; Valley Forge Cato May 4 or 11 1778; Hallam Jr. c.1740 to Nov 1 1808; Warren's five plays (NWHM); Nancy Hallam niece of Sarah Hallam Douglass, Peale 1771, *Maryland Gazette* Sept 6 1770.
 
-**1800–1850**
-- [ ] the Chapman floating-theatre dates, and published examples of the mixed programmes (129)
-- [ ] the Rice date — sources place it between 1828 and 1832 — the Virginia Minstrels date and venue, and the path from the act's name to the laws (132) — **coordinate with `music`, which carries the same claims**
-- [ ] the Astor Place death counts (published range 22 to about 30), the militia order, and the injured figure (135)
-- [ ] Brown's name (William Alexander vs William Henry), the Sep 21, 1821 opening, the seat count, and who ordered the 1823 closure (140)
-- [ ] Aldridge's birth and death years (sources give 1865 and 1867), the 1824 departure, the honours, and whether he played white roles in makeup (145)
-- [ ] Forrest's prize competitions for American plays, his role in the 1849 campaign, and the divorce trial (150)
-
-**1850–1900**
-- [ ] the 1852 Aiken date, the run length, the most-performed-play claim, and examples of the blackface casting (160)
-- [ ] the line Booth waited for, the 1968 reopening of Ford's Theatre, and the government's takeover (163)
-- [ ] the Pastor date, the Keith and Albee circuit dates, and the blacking-up requirement, with named sources (166)
-- [ ] Sitting Bull's wage and season, the proportion of Native performers, and published statements by the performers themselves (169)
-- [ ] the Black Maria date, the 1894 and 1896 dates, and the stage origin of *The Kiss* (172)
-- [ ] Edwin Booth's hundred-night *Hamlet*, his 1866 return date, the Robert Lincoln rescue, and the theatre's failure (177)
-- [ ] Cushman's voice loss, the London Romeo opposite her sister, the Rome circle, and the farewell tours (182)
-- [ ] Kersands's dates, earnings, routines, and **any first-hand statement by him** (187)
+**Eras 6 and 7: queue CLEARED by T-269b (2026-09-28).** Resolved in the bank (ERA 06, ERA 07, BANK CHECK eras 06 and 07):
+- 1800–1850: Chapman Floating Theatre 1831 (Britannica), towed from 1836, Ludlow 1816 (e-WV), mixed programme (Yale Historical Review); Rice 1828 to 1832 and the Jim Crow path (Jim Crow Museum; wording matched to `music`); Astor Place dead 18/23 (*Smithsonian*), 25 (NY Almanack), 22 to 31 (Cliff), order chain Talmadge, the sheriff (name SEARCHED, NOT FOUND), Sandford; the seed's "first time the militia fired" removed; Brown's name stated both ways, opening Sept 17, 21 or 24, 1821, 300 seats, police arrest of the actors (date SEARCHED, NOT FOUND), last playbill June 1823 (no named official closed it); Aldridge born 1807 (the 1804/05 alternative not found, dropped), died Aug 7, 1867, left 1824, greasepaint and wig for white roles, honours; Forrest's prizes (*Metamora* 1829), Edinburgh hiss 1846, divorce 1850 to 1852 (organizers of the riot per sources: Rynders and Buntline, not Forrest). NEW story William Henry Lane (Master Juba).
+- 1850–1900: Aiken Troy Sept 27, 1852, 300 performances in New York, companies into 1927 and a 1933 revival, Germon and Rice blacked up (Moody 1955; the "most performed play" claim replaced by "a quarter million performances by 1902"); Booth's line and the laugh (Britannica, LincolnConspirators), 1866 purchase, Stanton's order, 1893 collapse, 1968 reopening (fords.org); Pastor 1881, Keith 1883 continuous show, Keith and Albee 1885 (the one booking office is 1906, era 08); no formal black-up rule found, Kersands stated as the documented case; Sitting Bull June 6, 1885, $50 a week, four months (contract, 2026 sale reports); Lakota wages $25 a month, deaths on tour, 1890 permit ban, 23 Fort Sheridan prisoners, No Neck's and Short Bull's own words (Maddra 2002); Black Maria from Dec 1892, parlour April 14, 1894, Vitascope April 23, 1896, *The Kiss* from *The Widow Jones*; Booth's hundred-night *Hamlet*, January 1866 return (the "threats" dropped), Robert Lincoln's own 1909 letter, bankruptcy 1874, 1879 shooting; Cushman's voice, London Romeo 1845 and 1854-55, Rome, cancer 1869, farewells; Kersands's pay, Callender, his own words via Tom Fletcher.
 
 **1900–1950**
 - [ ] *The Great Train Robbery* running time, the nickelodeon dates, and the Florence Lawrence account (197)
@@ -147,15 +133,15 @@ Companion files: outline `outlines/storytelling-evolution.md` (308 lines, seed, 
 - **1600s** — William Darby (`ordinary`, VERIFIED).
 - **1700–1750** — William Levingston (`ordinary`, VERIFIED) · Anthony Aston (`ordinary`, NEW and VERIFIED, slug `anthony-aston`).
 - **1750–1800** — Lewis Hallam the Younger · Mercy Otis Warren · Nancy Hallam (`ordinary`), all VERIFIED.
-- **1800–1850** — William Alexander Brown · Ira Aldridge · Edwin Forrest.
-- **1850–1900** — Edwin Booth · Charlotte Cushman · Billy Kersands.
+- **1800–1850** — William Alexander Brown · Ira Aldridge · William Henry Lane (NEW, slug `william-henry-lane`) · Edwin Forrest, all VERIFIED (T-269b).
+- **1850–1900** — Edwin Booth (movie *Prince of Players*, 1955) · Charlotte Cushman · Billy Kersands, all VERIFIED (T-269b).
 - **1900–1950** — Charlie Chaplin · Oscar Micheaux · Anna May Wong · Hattie McDaniel.
 - **1950–2000** — Lucille Ball · Lee Grant · Lorraine Hansberry · Sidney Poitier.
 - **2000–today** — Andy Serkis · Ashley Johnson.
 
-**Names carried with a source disagreement the research must state rather than settle:** Brown (William Alexander vs William Henry) · Aldridge (death 1865 vs 1867) · McDaniel (where the table stood at the 1940 ceremony) · Rice (1828–1832) · Astor Place (22 to about 30 dead) · the Williamsburg playhouse (1716–1718).
+**Names carried with a source disagreement the research must state rather than settle:** Brown (William Alexander vs William Henry) · Aldridge (death 1867 settled; no birth-year dispute found) · McDaniel (where the table stood at the 1940 ceremony) · Rice (1828–1832) · Astor Place (22 to about 30 dead) · the Williamsburg playhouse (1716–1718).
 
-**Unnamed material that must stay in `hb-zoom` prose and never become an `hb-story`:** the Lakota performers in the Wild West shows whose own statements have not yet been found · the background actors scanned for a day's pay in 2023, whose accounts are on the record but not all named (the outline already instructs this at line 296) · the Federal Theatre's Negro Unit companies · the Black performers required to black up on the vaudeville circuits.
+**Unnamed material that must stay in `hb-zoom` prose and never become an `hb-story`:** the Lakota performers in the Wild West shows other than those named in the bank (No Neck, Short Bull, Kicking Bear, Chief Hawick, Featherman, Wounds One Another, Surrounded by the Enemy) · the background actors scanned for a day's pay in 2023, whose accounts are on the record but not all named (the outline already instructs this at line 296) · the Federal Theatre's Negro Unit companies · the Black performers required to black up on the vaudeville circuits.
 
 ## Cross-chapter parking log
 *Material this chapter hands to another chapter, and where it was parked.*
@@ -182,7 +168,7 @@ Companion files: outline `outlines/storytelling-evolution.md` (308 lines, seed, 
 3. **The Broadway musical.** Absent from this chapter and from `music`. It is the American stage form a young reader is most likely to have heard of. This chapter (as performance) or `music` (as songs), or split — and if split, on what line?
 4. **Minstrelsy is told twice, by design.** The show is here, the songs are in `music`. Both drafts currently carry the same Rice date, the same 1843 Virginia Minstrels date, and the same Jim Crow naming path, each with its own `[VERIFY]`. The grid intends the same event from two angles, but not the same sentences: agree one wording for the shared facts before either chapter goes to research.
 5. **Bert Williams and Paul Robeson** are absent. Both are central to this subject. Add them, or record a reason not to.
-6. **Billy Kersands.** The outline commits to asking what performers in his position said about the work *in their own recorded words rather than in ours* (line 187). If the research finds no first-hand statement, does the story stand on the documented record alone, or does he give way to a performer whose own words survive?
+6. **Billy Kersands.** RESOLVED by T-269b (2026-09-28): a statement in his own words survives through Tom Fletcher (1954), quoted by Mel Watkins; the story stands, verified. Original question: The outline commits to asking what performers in his position said about the work *in their own recorded words rather than in ours* (line 187). If the research finds no first-hand statement, does the story stand on the documented record alone, or does he give way to a performer whose own words survive?
 7. **Sacheen Littlefeather.** The outline states both the 1973 statement and her sisters' 2022 statement that the family was not Native, and says both belong in the account. Confirm before research — it is exactly the kind of pairing that gets quietly dropped under compression.
 8. **Confirm `before-1500` stays `state="full"` with no story.** A full cell with no story card is unusual in the grid and reads like an error to anyone who has not read the naming rule. It is correct; it needs to be knowingly correct.
 9. **The currency line.** The 2000–today era block says the chapter is current through 2026 and instructs the prose to say so. Is that the convention for every chapter, or only where a live dispute — here, the replica strikes — makes the cut-off matter?

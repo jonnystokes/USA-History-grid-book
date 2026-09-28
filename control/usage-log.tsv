@@ -216,3 +216,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-269a	research	general-purpose/opus	[LOCAL] storytelling-evolution: Eras 1-5 researched + bank check. 7 stories verified incl. Farfan's 1598 play (M	?	?	?	381744	197	1357126	?	completed	FAIL  storytelling-evolution / research
 2026-09-27	T-271a	research	general-purpose/opus	[LOCAL] sports-play: Eras 1-5 researched + bank check. Chunkey at Cahokia, stickball and lacrosse, di	?	?	?	450316	246	1717605	?	completed	FAIL  sports-play / research
 2026-09-27	T-268d	research	general-purpose/opus	[LOCAL] music: Era 10, chapter COMPLETE. Dolly Parton's death confirmed beyond the Burchett sta	?	?	?	386872	132	1096843	?	completed	PASS  music / research
+2026-09-27	T-269b	research	general-purpose/opus	[LOCAL] storytelling-evolution: Eras 6-7 + bank check. Stories: William Alexander Brown and the African Theatre,	?	?	?	382990	118	982821	?	completed	FAIL  storytelling-evolution / research
