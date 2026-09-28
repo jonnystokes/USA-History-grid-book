@@ -3159,9 +3159,11 @@ CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
 
 ### 2026-09-27 | [LOCAL] T-272a | styles: full research eras 1-5 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
+RESULT: LANDED. FAIL  styles / research. measured: stage=PARTIAL eras=10/10 stories=11 (v5 c2 t4) verify_tags=4 bank=8250w outline=5978w manuscript=0w validator_errors=0
+        330357 tokens, 156 tool uses, 20.5 min (opus). Eras 1-5 researched + bank check. Stories: Hannah Lyman (fined 1676 for silk), Mary Ring's inventory, Jack (1745 runaway ad), Charity Clarke (1769), Washington's 1789 suit. Massachusetts clothing laws 1634-82, the 1740 Negro Act clothing clause verbatim, indigo and enslaved dye-makers, the 1786 tignon order, Cofitachequi pearls 1540, New Mexico blanket tribute, Plymouth and Northampton land. 8 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-268d | music: full research era 10 incl. Dolly Parton, completes the chapter [BURST] | model opus
 STATUS: IN-FLIGHT

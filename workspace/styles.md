@@ -19,8 +19,8 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 | Youth fashion after 1955 | **lead** — hippie, disco, punk, streetwear | `music` (the music it came with) |
 
 ## Famous names check (must appear — completeness first)
-- [ ] homespun and the boycotts
-- [ ] the Federal style
+- [x] homespun and the boycotts (era 05, T-272a)
+- [x] the Federal style (era 05, T-272a)
 - [ ] Victorian dress
 - [ ] the home sewing machine
 - [ ] Levi Strauss and blue jeans
@@ -35,12 +35,13 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 
 ## Featured people to firm up (target/candidate)
 - **candidate** — Levi Strauss and Jacob Davis (1850–1900) · Wallace Carothers (1900–1950).
-- **target** — a colonist whose probate inventory lists their clothes (1600s) · a home dressmaker (1850–1900) · a dressmaker or department-store buyer (1900–1950) · a mid-century designer (1950–2000, famous) · a garment worker or resale seller (2000–Today).
+- **verified (T-272a, eras 01-05)** — Hannah Lyman (1600s, slug hannah-lyman-1676) · Mary Ring (1600s, slug mary-ring-styles, replaced the probate-inventory target) · Jack (1700-1750, slug jack-gambia-1745) · Charity Clarke (1750-1800) · George Washington (1750-1800, slug george-washington-styles).
+- **target** — a home dressmaker (1850–1900) · a dressmaker or department-store buyer (1900–1950) · a mid-century designer (1950–2000, famous) · a garment worker or resale seller (2000–Today).
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 
-- [ ] sumptuary laws telling people what their rank allowed them to wear — 1600s
+- [x] sumptuary laws telling people what their rank allowed them to wear — 1600s (cleared T-272a: Massachusetts 1634/1651, Virginia 1619)
 - [ ] ready-made clothing first made for sailors and enslaved workers — 1800–1850
 - [ ] the Levi Strauss and Jacob Davis patent, 1873 — 1850–1900
 - [ ] Bakelite from 1907 — 1900–1950
@@ -50,13 +51,14 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 *From the brief's checklist — only what genuinely applies:* class (**central** — what your clothes said about you) · region · rural · language · children and the elderly · LGBTQ · Native continuity past 1900 (Native design, and its appropriation)
 
 ## Thin eras (honest)
-- **The 1500s** and **1700–1750** are thin on documented individuals; inventories and portraits carry them.
+- **The 1500s** and **1700–1750**: set to state=full by T-272a (Cofitachequi, St. Augustine, churro sheep, cochineal. Wigs, the 1740 clothing clause, indigo, Jack). The 1500s has no hb-story: no named person fits (Lady of Cofitachequi unnamed).
 - **Before 1500** is strong on materials and colors, empty of names (marked `full` for content).
 
 ## Cross-chapter parking log
-- None recorded yet.
+- T-272a (burst): material for other chapters listed under TO PARK in control/checkpoints/T-272-styles.md, for the director to file.
 
 ## Open questions for the director
 - The absorbed "Materials and Colors" half sits awkwardly beside clothing. Should each era carry an explicit "what things were made of" beat, or should materials be folded into the fashion narrative?
 - Wallace Carothers's story includes his suicide — v1 named him as the nylon candidate. How much is tellable for 8–15 readers?
+- (T-272a) Eras 01-05 carry materials and colors inside each era (feathers, cotton, copper, shell, ochre, quill dyes, pearls, churro wool, cochineal, indigo, mahogany noted as a gap), not as a separate beat.
 - Native design and its appropriation (headdresses, patterns, "Southwestern" style) — this chapter or `native-nations`?
