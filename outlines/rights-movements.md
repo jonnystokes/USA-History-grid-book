@@ -621,7 +621,7 @@ On 13 April 1885 Mamie and her brother Frank were the first two pupils at the ne
 <!-- hb-time:start id="1900-1950" order="08" chapter="rights-movements" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Women won the vote in these fifty years. In the same fifty years state governments had about 62,000 people operated on so that they could never have children, and the federal government locked up about 120,000 Japanese Americans without charging one of them with a crime. Both of those were legal, and the Supreme Court said so in 1927 and again in 1944.
+Women won the vote in these fifty years. In 1921 white Tulsans burned Greenwood, the Black district of Tulsa, Oklahoma, and killed as many as 300 of its people, and no white person went to prison for it. In the same fifty years state governments had about 62,000 people operated on so that they could never have children, and the federal government locked up about 120,000 Japanese Americans without charging one of them with a crime. Both of those were legal, and the Supreme Court said so in 1927 and again in 1944.
 
 This is also the era when the methods people still use were worked out. Charles Hamilton Houston planned a run of court cases twenty years ahead. Alice Paul put a picket line outside the White House gates. Disabled people who had been refused jobs sat down in a relief office and would not leave. A. Philip Randolph told two presidents he was bringing a march to Washington, and got what he wanted both times without holding it. The famous marches of the 1960s used ideas that were already old.
 <!-- /hb-zoom -->
@@ -632,7 +632,16 @@ The mob lynched two men, Scott Burton and William Donegan. Neither of them had t
 
 Springfield was Abraham Lincoln's home town.
 
-That is what produced the National Association for the Advancement of Colored People. It was founded on 12 February 1909, Lincoln's hundredth birthday. Among the people who signed the call for the founding conference were W. E. B. Du Bois, Mary Church Terrell, and Ida B. Wells-Barnett, whose own story is in this chapter's 1850 to 1900 section. Mary White Ovington did much of the early work. It was an organization of Black and white members together, and its plan was to fight in courts and in Congress rather than in the street.
+A group of Black and white reformers answered the riot by starting the National Association for the Advancement of Colored People. It was founded on 12 February 1909, Lincoln's hundredth birthday. Among the people who signed the call for the founding conference were W. E. B. Du Bois, Mary Church Terrell, and Ida B. Wells-Barnett, the journalist who had exposed lynching in the 1890s. Mary White Ovington did much of the early work. It was an organization of Black and white members together, and its plan was to fight in courts and in Congress rather than in the street.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="1919: attacks in 25 cities, and a court win out of Elaine" -->
+In 1919 white mobs attacked Black people in 25 major American cities. It is called the Red Summer. The Equal Justice Initiative says white mobs and police singled out Black veterans home from the First World War.
+
+In Chicago on 27 July 1919 a 17-year-old Black boy, Eugene Williams, was swimming off a raft near the 29th Street beach. A 24-year-old white man, George Stauber, threw stones at the Black boys, and Eugene Williams drowned. A police officer, Daniel Callahan, refused to arrest Stauber. White gangs and neighborhood "athletic clubs" went into Black streets, and the fighting went on for eight days. Thirty-eight people were killed, 23 Black and 15 white, and about 537 were hurt. Two thirds of the people hurt were Black, and two thirds of the 138 people charged afterwards were Black too.
+
+In Elaine, Arkansas, Black sharecroppers had joined a union, the Progressive Farmers and Household Union of America, led by Robert Lee Hill. Sharecroppers farmed a white owner's land for a share of the cotton, and the union wanted a fair price for theirs. On the night of 30 September 1919 about 100 of them met in a church at Hoop Spur. Men in a car outside and the union's armed guards shot at each other, and a white security officer, W. A. Adkins, was killed. Between 500 and 1,000 armed white men came to Elaine from the nearby Arkansas counties and from Mississippi. A white witness, H. F. Smiddy, swore in 1921 that "several hundred of them" began "to hunt negroes" and shoot them. Governor Charles Brough sent more than 500 soldiers from Camp Pike, who arrived on 2 October, and there are accounts of soldiers killing Black people too. Four brothers, David, Gibson, Lewis and Leroy Johnston, were killed on 2 October on their way home from a hunting trip. The Encyclopedia of Arkansas says the Black dead "ranged into the hundreds," and the National Archives says more than 100. The army colonel in charge, Isaac Jenks, reported only two. Five white people died.
+
+Phillips County officials charged 122 Black people, and by 5 November twelve of them had been sentenced to death. Walter White of the NAACP went to Arkansas to find out what had happened. A Black lawyer from Little Rock, Scipio Africanus Jones, defended the twelve. On 19 February 1923 the Supreme Court ruled in *Moore v. Dempsey* that the trials had been unfair. Justice Oliver Wendell Holmes wrote that one trial "lasted about three-quarters of an hour and in less than five minutes the jury brought in a verdict of guilty," with an angry crowd outside the courthouse. Witnesses had said they were whipped until they testified. The last of the twelve went free in January 1925.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="thirty years of bills that never became law" -->
 What the NAACP wanted most from Congress was a federal law against lynching. It did not get one in this era, and it did not get one in the whole twentieth century.
@@ -641,11 +650,11 @@ The first federal anti-lynching bill was introduced on 20 January 1900 by Repres
 
 Representative Leonidas Dyer of Missouri introduced his on 8 April 1918. It was written "to protect citizens of the United States against lynching in default of protection by the States." It would have let federal courts try lynch mobs for murder, fined the county where a lynching happened, and jailed any sheriff or jailer who handed a prisoner over to a mob or failed to stop one. It also said nobody who had been in a mob could sit on the jury.
 
-The NAACP put its weight behind it. It published a report called *Thirty Years of Lynching in the United States, 1889-1919*, and sent James Weldon Johnson to Washington to work on members of Congress. Johnson wrote afterwards: "I tramped the corridors of the Capitol and the two office buildings so constantly that toward the end, I could, I think, have been able to find my way about blindfolded."
+NAACP leaders worked for it. In April 1919 they published a report called *Thirty Years of Lynching in the United States, 1889-1918*, and sent James Weldon Johnson to Washington to work on members of Congress. Johnson wrote afterwards: "I tramped the corridors of the Capitol and the two office buildings so constantly that toward the end, I could, I think, have been able to find my way about blindfolded."
 
-On 26 January 1922 the House of Representatives passed it, with several hundred Black spectators packed into the public gallery watching. The Senate never voted on it at all. Southern senators talked it out and threatened to keep talking, and Republican senators let it drop.
+The report counted 3,224 people killed by lynch mobs from 1889 to 1918. Of them, 2,522 were Black, and 50 of the Black victims were women. On 26 January 1922 the House of Representatives passed the bill, 230 votes to 119, with several hundred Black spectators packed into the public gallery watching. The Senate never voted on it at all. Southern senators talked it out and threatened to keep talking, and Republican senators let it drop.
 
-Congress passed no federal anti-lynching law in this era, or in the next one. **`crime-justice` covers killing outside the law; this chapter has the campaign against it.**
+Congress passed no federal anti-lynching law in this era, or in the next one. **`crime-justice` covers killing outside the law. `rights-movements` has the campaign against it.**
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the last seven years of the suffrage fight" -->
 On 3 March 1913, the day before Woodrow Wilson was sworn in as president, women marched down Pennsylvania Avenue in Washington. Alice Paul and Lucy Burns had organized it, on the same route the inauguration parade would use the next day. At least 250,000 people came to watch.
@@ -654,7 +663,7 @@ The crowd came off the pavements and blocked the road. Marchers were spat on and
 
 More than forty Black women marched in it. Ida B. Wells-Barnett had come with the Illinois delegation, and as the march was forming she was asked to go to the back instead. She refused and walked away. She waited on the side of the avenue until Illinois came past, and stepped in with two white women, Belle Squire and Virginia Brooks, one on each side of her.
 
-From 10 January 1917, women stood at the White House gates six days a week, holding banners. They were the first people ever to picket the White House. Two of the banners read "Mr. President, What Will You Do for Woman Suffrage?" and "How Long Must Women Wait for Liberty?" Reporters called them the Silent Sentinels.
+From 10 January 1917, women stood at the White House gates six days a week, holding banners. The National Park Service says Alice Paul invented picketing the White House. Two of the banners read "Mr. President, What Will You Do for Woman Suffrage?" and "How Long, Mr President, Must Women Wait For Liberty?" Reporters called them the Silent Sentinels.
 
 Then the arrests began, on a charge of obstructing traffic. In November 1917 forty-one women were arrested on it, and the sentences ran from six days to six months.
 <!-- /hb-zoom -->
@@ -672,26 +681,92 @@ The House passed it on 21 May 1919 and the Senate on 4 June 1919. Tennessee was 
 
 That is seventy-two years after Seneca Falls, and it did not give every woman the vote. It said states could not use sex as the reason for refusing. States in the South were already refusing Black men the vote using poll taxes, literacy tests and threats, and they used exactly the same methods on Black women from 1920 onward. The National Archives puts it plainly: many women could not vote "long into the 20th century because of discriminatory state voting laws." The law that finally went after those methods is the Voting Rights Act of 1965, and that belongs to the next era. **`government-politics` tells the amendment as law.**
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Tulsa, 1 June 1921: white Tulsans burn Greenwood" -->
+On 1 June 1921 thousands of armed white Tulsans went into Greenwood, the Black district of Tulsa, Oklahoma, and burned it down. They killed as many as 300 people. The historian Scott Ellsworth gives a range of 50 to 300. The US Department of Justice wrote in 2025 that the dead numbered "as many as 300 Tulsans, perhaps even more." Bodies were thrown in the Arkansas River and buried in unmarked graves, so nobody knows the real count.
+
+About 10,000 Black people lived in Greenwood. It had two newspapers, more than a dozen churches, a library, hotels, four drug stores and the Dreamland Theater, which Loula Williams owned. Greenwood's people spent their money there because many white stores in Tulsa would not serve them, and others made them wait or insulted them. City laws kept Black families out of white blocks unless they worked as servants there. All of Tulsa stood on land in the Muscogee (Creek) Nation's reservation.
+
+The night before, a white crowd had gathered at the courthouse to lynch a 19-year-old Black prisoner, and armed Black men went there to stop it. Shooting broke out. Tulsa police then swore in hundreds of white men as deputies. A little after 5 in the morning a whistle blew, and white men who had been put into companies overnight went into Greenwood from three railroad stations. The 2001 state commission put their number at about 10,000.
+
+They went from house to house. Men broke in, took what they wanted, piled bedding and furniture in the middle of a room, poured kerosene on it and lit it. White women came with shopping bags and took clothes and jewelry. The attackers burned more than 1,200 houses, a dozen churches, five hotels, 31 restaurants, eight doctors' offices and the library. They shot people who ran and people who gave up. Four white men tied a blind man who had lost both legs to the back of a car and dragged him through the streets until he died. Most survivors could not name the men who did these things.
+
+Some Black men fought back. A group fired from the bell tower of the new Mount Zion Baptist Church until National Guard soldiers turned a machine gun on it. J. B. Stradford shot from the second floor of his hotel and gave up when the attackers promised not to burn it. They burned it.
+
+Tulsa's own National Guard soldiers had put themselves under the police chief's command the night before. They went into Greenwood and rounded up Black men, as their own reports admit, and the Justice Department found that capturing Black men was their main job. While they did, other white men burned the empty homes. Airplanes flew over Greenwood, and the men in them watched where Black residents ran and told the police. Many survivors said men in the planes also dropped firebombs or shot at people, and the Justice Department calls that part "hotly disputed." **`crime-justice` tells the courthouse, the deputies, the grand jury and the 2025 federal review. `rights-movements` has Greenwood and its people.**
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the camps and the passes" -->
+Police, deputies and guardsmen arrested Black people all over Tulsa, whether or not they had done anything. Guard patrols also arrested Black servants in the servants' rooms of white homes. They held them under armed guard in three places: Convention Hall, McNulty Park (a baseball park) and the stalls at the fairgrounds. Between 4,000 and 6,000 people were held at once. No white person was held.
+
+To leave, a Black person needed a card, and a white person had to vouch for it. People who worked for white families got green cards. Others got red cards that were good for one day. Anyone found without a card was taken back. By 7 June officials had handed out 7,500 of these tags, and the rule lasted at least a month. People who lived under it said they were treated "as though they [were] dogs."
+
+The day after the burning, the National Guard commander ordered every able-bodied Black man in the camps to work. The men cleared the ruins and buried the dead. The Red Cross paid them up to 25 cents an hour, and a meal cost 20 cents.
+
+Most of Greenwood's people had no home left. Thousands lived through the winter of 1921 to 1922 in Red Cross tents, many of them with no floor, and many stayed in the tents for more than a year.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="building Greenwood again, against the city" -->
+On 7 June 1921 Tulsa's city commissioners passed a fire rule covering most of Greenwood. Every new building there had to be brick, concrete or steel and at least two stories high, which few burned-out families could pay for. The first newspaper story about the rule said the land would "never again be a [N]egro quarter." In 2025 the Justice Department found that the men who wrote the rule meant to drive Black people out.
+
+B. C. Franklin, a Black lawyer who had watched the burning, set up his office in a tent on Archer Street with two partners, I. H. Spears and T. O. Chappelle. They took the rule to court, and in September 1921 they won an order that stopped it for good. Police had already arrested people for trying to rebuild.
+
+Franklin's office also filed about $4 million in claims against the city and the insurance companies. The companies refused to pay, because their policies did not cover damage done in a "riot." In 1926 the Oklahoma Supreme Court ruled that nobody could sue them over it. Lawsuits against the city, Mayor T. D. Evans and the police were all thrown out.
+
+Greenwood's people rebuilt with their own money. By the 1940s the district had 242 Black-owned businesses. From the 1950s city officials took land along its edges for highways, and the roads finished in the 1970s run along Greenwood's south and east sides. **`money` tells the claims and the insurance clause.**
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the survivors ask to be paid, 1997 to 2026" -->
+In 1997 Oklahoma's lawmakers set up a commission to study the massacre. Its report, in February 2001, asked the state to pay the survivors and their descendants. On 1 June 2001 the lawmakers passed a law for scholarships and a memorial. It paid the survivors nothing. Survivors and descendants sued in 2003, and federal judges ruled that they had waited too long.
+
+The last three known survivors kept asking. Viola Fletcher, her brother Hughes Van Ellis and Lessie Benningfield Randle sued the city, the county, its sheriff and the state's military department in 2020. On 19 May 2021 they spoke to a committee of Congress. On 1 June 2021 President Joe Biden met them and spoke in Greenwood, the first president in office to go there about the massacre. "It wasn't a riot, it was a massacre," he said. On 12 June 2024 Oklahoma's Supreme Court ended their lawsuit, eight votes to one. The justices wrote that the harm left behind could "only be resolved by policymakers, not the courts."
+
+Hughes Van Ellis died on 9 October 2023, aged 102. Viola Fletcher died on 24 November 2025, aged 111. Lessie Benningfield Randle, born on 10 November 1914, was the last known survivor in 2026, and she had never been paid.
+
+In 2018 Tulsa's mayor, G. T. Bynum, started a search for the unmarked graves. By September 2026 the team had dug up the remains of 55 people in Oaklawn Cemetery. They have named two victims of the massacre: C. L. Daniel in July 2024 and James Goings in June 2025. Both men had served in the Army in the First World War.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="viola-fletcher" name="Viola Fletcher" movie="" kind="ordinary" status="verified" -->
+### Viola Fletcher
+> **Who:** A girl of seven who ran from Greenwood in 1921, never went back to school, and at 107 asked Congress for justice · **When and where:** Tulsa, Oklahoma, 1921, and Washington, D.C., 2021
+
+Viola Ford was born on 10 May 1914, the daughter of Lucinda Ellis and John Wesley Ford of Tulsa. She grew up in Greenwood with her parents and five brothers and sisters. "My family had a beautiful home," she said later. "We had great neighbors and I had friends to play with. I felt safe."
+
+On the night of 31 May 1921 she went to bed at home. Her family woke her and told her they had to leave. "I will never forget the violence of the white mob when we left our house," she said. She remembered businesses burning and airplanes flying overhead. By the afternoon of 1 June white Tulsans had burned most of Greenwood.
+
+Her family left Tulsa. She never went to school past the fourth grade. In the Second World War she worked in the shipyards in California. For most of her life she worked as a maid for white families, and she never earned much.
+
+In 2020, at 106, she joined her brother Hughes Van Ellis and Lessie Benningfield Randle in suing the city of Tulsa and others for what was taken in 1921. On 19 May 2021 she came to Washington for the first time in her life and spoke to a committee of Congress. "I live through the Massacre every day," she told them. "I am 107 years old and have never seen justice." She asked them to "open the courtroom doors to us."
+
+Oklahoma's Supreme Court ended the lawsuit in June 2024. In 2023 she and her grandson Ike Howard published a book about her life, *Don't Let Them Bury My Story*. She died on 24 November 2025, aged 111.
+<!-- hb-story:end slug="viola-fletcher" -->
 <!-- hb-zoom level="span" label="citizens who still could not vote" -->
 Congress voted to make American Indians citizens on 2 June 1924, and President Calvin Coolidge signed it. Being a citizen and being allowed to vote turned out to be two different things, because each state wrote its own rules about who could put a name on the register.
 
 Arizona had a rule barring anyone who was an "idiot, insane person, person non compos mentis, or under guardianship." In 1928 the Arizona Supreme Court decided that a Native person living on a reservation was a ward of the federal government, and so fell under that rule. New Mexico's constitution had a different phrase in it, "Indians not taxed," and state officials argued that people living on reservations paid no state taxes and so could not vote.
 
-Both fell in the same year. On 15 July 1948, in *Harrison v. Laveen*, the Arizona Supreme Court threw out its own 1928 decision; Justice Levi Udall wrote that living on a reservation was not a reason to keep a qualified voter off the rolls. In August 1948, in *Miguel Trujillo v. Garley*, a federal district court in New Mexico ruled the "Indians not taxed" clause unconstitutional. Utah was the last state to let Native people vote, in 1957.
+Both fell in the same year. On 15 July 1948, in *Harrison v. Laveen*, the Arizona Supreme Court threw out its own 1928 decision. Justice Levi Udall wrote that living on a reservation was not a reason to keep a qualified voter off the rolls. In August 1948, in *Miguel Trujillo v. Garley*, a federal district court in New Mexico ruled the "Indians not taxed" clause unconstitutional. Utah was the last state to let Native people vote, in 1957.
 
 That is thirty-three years between the citizenship law and the last state giving way. **`native-nations` leads on the nations themselves.**
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="a society in Chicago, 1924" -->
+On 10 December 1924 Henry Gerber started the Society for Human Rights in Chicago. It is the first known organization in the United States set up to defend the rights of gay people, the National Park Service says. Gay means a man who loves men or a woman who loves women. Gerber was a German-born Army veteran who worked for the Post Office. He got a charter from the State of Illinois by describing the members as people "abused and hindered in the legal pursuit of happiness," and he printed two issues of a newsletter called *Friendship and Freedom*.
+
+In 1925 Chicago police arrested Gerber and other members without a warrant. They took his typewriter, his writings and his diaries, and gave back only the typewriter. The Post Office fired him "for conduct unbecoming a postal employee," and the society ended. His house in Chicago became a National Historic Landmark in 2015.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="sent to Mexico, 1929 to 1936" -->
+In the Depression, federal, state and county officials pushed hundreds of thousands of people of Mexican ancestry out of the United States, and many of them were American citizens. Counts run from about 500,000 to about 2 million. The State of California found in 2005 that about 1.2 million of the 2 million it counted had been born in the United States, which made them citizens.
+
+The US Secretary of Labor, William N. Doak, under President Herbert Hoover, ran a national campaign that blamed Mexicans for taking jobs. In Los Angeles, Charles P. Visel of the city's unemployment committee planned the publicity. On 26 February 1931 immigration agents closed the exits of La Placita park in Los Angeles with about 400 people inside. Los Angeles County welfare officers told families their relief money would stop unless they took free train tickets to Mexico, and the first county train left on 23 March 1931. Hospital staff carried patients on stretchers to trucks for the border. Local officials sold the property families left behind.
+
+On 7 October 2005 California's governor signed a law in which the state apologized "for the fundamental violations of their basic civil liberties and constitutional rights." Los Angeles County's supervisors apologized in 2012. No apology has come from the federal government. **`immigration` tells the Mexican arrivals before and after.**
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the movement that wanted certain people never to be born" -->
 Eugenics was the belief that a country should choose which of its people were allowed to have children and stop the rest from having any. The idea came out of animal breeding, and its supporters applied it to human beings. It was a respectable opinion at the time. Universities taught it and state legislatures wrote it into law.
 
-Harry H. Laughlin of the Eugenics Record Office wrote a model sterilization law and sent it out for states to copy. To sterilize a person is to operate on their body so that they can never have a child, and it cannot be undone. The United States Holocaust Memorial Museum says that "in part due to Laughlin's efforts, dozens of American states enacted laws that forced certain people to be sterilized against their will," and that "more than 62,000 sterilizations had been performed in the United States by the 1960s." About six in ten of the people operated on were women. In 1927 the Supreme Court said the states could do it, in Carrie Buck's case, which is below.
+Harry H. Laughlin of the Eugenics Record Office wrote a model sterilization law and sent it out for states to copy. To sterilize a person is to operate on their body so that they can never have a child, and it cannot be undone. The United States Holocaust Memorial Museum says that "in part due to Laughlin's efforts, dozens of American states enacted laws that forced certain people to be sterilized against their will," and that "more than 62,000 sterilizations had been performed in the United States by the 1960s." About six in ten of the people operated on were women. In 1927 the Supreme Court said the states could do it, in the case of a young Virginia woman named Carrie Buck.
 
 In 1933 Nazi Germany passed a law of its own, the Law for the Prevention of Offspring with Hereditary Diseases, and the Holocaust Museum says it was "based in part on the practice of forced sterilization in the US." About 400,000 people were sterilized in Nazi Germany under it. In 1936 the University of Heidelberg gave Harry Laughlin an honorary degree for his work. He wrote back on 28 May 1936 that "To me this honor will be doubly valued because it will come from a nation which for many centuries nurtured the human seed-stock which later founded my own country."
 
-The American laws came first. The German law came second, and its authors had read the American ones.
+
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="120,000 people, no charges, no trials" -->
-President Franklin D. Roosevelt signed Executive Order 9066 on 19 February 1942. It let the army order people out of any area it chose, and the army used it on people of Japanese ancestry living on the west coast. More than 120,000 people were removed from their homes. Two out of every three of them were American citizens. Not one of them was charged with a crime, and not one of them had a trial.
+President Franklin D. Roosevelt signed Executive Order 9066 on 19 February 1942. It let army commanders order people out of any area they chose. Lieutenant General John L. DeWitt, who commanded the army on the west coast, used it on people of Japanese ancestry. He gave them as little as 48 hours' notice to leave their homes, and in March 1942 Congress made it a crime to disobey his orders. More than 120,000 people were removed from their homes. The federal courts count two out of every three of them as American citizens. The National Archives counts nearly 70,000 citizens out of about 122,000. Not one of them was charged with a crime, and not one of them had a trial.
 
 They were held first in assembly centers, one of which was Tanforan Racetrack near San Francisco, and then in ten camps built inland.
 
@@ -712,27 +787,27 @@ On the same day the Court handed down a fourth ruling, and this one the governme
 
 While the case was going, the War Relocation Authority offered to let her out of the camp straight away if she would drop it. She refused and stayed inside, because walking out would have ended the case for everybody else. She was moved from the Sacramento Assembly Center to Tule Lake and then to Topaz, and she was still behind the fence when the Court ruled.
 
-Justice William O. Douglas wrote that "Mitsuye Endo should be given her liberty," and that the government "has no authority to subject citizens who are concededly loyal to its leave procedure." The west coast exclusion was lifted within weeks. She moved to Chicago in May 1945, worked as a secretary for the Mayor's Committee on Race Relations, married Kenneth Tsutsumi, raised three children, and died on 14 April 2006. She is the only one of the four who won.
+Justice William O. Douglas wrote that "Mitsuye Endo should be given her liberty," and that the government "has no authority to subject citizens who are concededly loyal to its leave procedure." The army had announced the day before that the west coast exclusion would end on 2 January 1945. She moved to Chicago in May 1945, worked as a secretary for the Mayor's Committee on Race Relations, married Kenneth Tsutsumi, raised three children, and died on 14 April 2006. She is the only one of the four who won.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the long campaign to open the schoolhouse" -->
 Charles Hamilton Houston had a plan. He was born in Washington, D.C. on 3 September 1895, was the first Black editor of the *Harvard Law Review*, became dean of Howard University Law School in 1929, and then became the first special counsel of the NAACP. His idea was to start at the top: "start with the law schools and higher education, and integrate schools from the top down." A state that had built no law school for Black students had to admit them to the one it had, or build a second one. Either answer cost the state something. Thurgood Marshall was his student at Howard.
 
 Donald Gaines Murray applied to the University of Maryland School of Law on 24 January 1935 and was turned down because he was Black. Houston, Marshall and a Baltimore lawyer named Nicholas Gosnell took the case. Judge Eugene O'Dunne ordered the university's president, Raymond A. Pearson, to admit him, and the Maryland Court of Appeals agreed on 15 January 1936. Murray graduated in 1938.
 
-The next case reached the Supreme Court. It is Lloyd Gaines's, and his story is below.
+The next case, Lloyd Gaines's, reached the Supreme Court in 1938.
 
 Ada Lois Sipuel applied to the University of Oklahoma College of Law on 14 January 1946. The president, George Lynn Cross, told her there was no academic reason to refuse her and refused her anyway, because state law would not let Black and white students sit in the same room. Marshall took her case. The Supreme Court decided it on 12 January 1948. Oklahoma's answer was to set up a separate law school for her in five days, in rooms at the State Capitol. She was admitted to the University of Oklahoma on 18 June 1949, three years and five months after she applied, and graduated in August 1952.
 
-The campaign finished in the elementary classroom, and that happened after 1950. **`education` tells what changed inside the schools; `government-politics` tells the rulings as law.**
+The campaign finished in the elementary classroom, and that happened after 1950. **`education` tells what changed inside the schools. `government-politics` tells the rulings as law.**
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="two California towns, fifteen years apart" -->
 On 5 January 1931 the principal of Lemon Grove Grammar School near San Diego, Jerome T. Green, stood in the doorway and let every child in except the Mexican American ones. He told them to go to a separate two-room building instead. The school had 169 pupils: 87 counted as European American, about 75 Mexican American, and 7 Japanese American.
 
 The parents formed a committee, the Comité de Vecinos de Lemon Grove, kept their children away from the separate building, and hired two lawyers, Fred Noon and A. C. Brinkley. They sued in the name of one of the pupils, Roberto Alvarez. On 30 March 1931 Judge Claude Chambers of the San Diego County Superior Court ordered the district to admit the children "on a basis of equality with other children of said school district, and without separation or segregation in a separate school because of race or nationality." Separating "all the Mexicans in one group," he said, "can only be done by infringing the laws of the State of California." It is the first school desegregation case won in the United States.
 
-Fifteen years later five families in Orange County — Mendez, Guzman, Palomino, Estrada and Ramirez — sued four school districts. Their lawyer was David C. Marcus, who had already won a case against San Bernardino in 1944 over segregated pools and parks. Judge Paul J. McCormick ruled for the families on 18 February 1946 and wrote that "a paramount requisite in the American system of public education is social equality."
+Fifteen years later five families in Orange County (the Mendez, Guzman, Palomino, Estrada and Ramirez families) sued four school districts. Their lawyer was David C. Marcus, who had already won a case against San Bernardino in 1944 over segregated pools and parks. Judge Paul J. McCormick ruled for the families on 18 February 1946 and wrote that "a paramount requisite in the American system of public education is social equality."
 
-When the districts appealed, the case stopped being five families' case. Friend-of-the-court briefs came in from the NAACP, written by Thurgood Marshall, Robert L. Carter and Loren Miller; from the Japanese American Citizens League; from the League of United Latin American Citizens; from the American Jewish Congress; and from the American Civil Liberties Union. The Ninth Circuit ruled for the families on 14 April 1947. In June 1947 Governor Earl Warren signed the Anderson Bill and California became the first state to strike school segregation out of its own laws. Warren became Chief Justice in 1953. Marshall used the same argument in 1954, and Warren wrote the ruling.
+When the districts appealed, the case stopped being five families' case. Five groups sent friend-of-the-court briefs, which are arguments from people who are not part of a case. They were the NAACP (its brief written by Thurgood Marshall, Robert L. Carter and Loren Miller), the Japanese American Citizens League, the League of United Latin American Citizens, the American Jewish Congress and the American Civil Liberties Union. The Ninth Circuit ruled for the families on 14 April 1947. In June 1947 Governor Earl Warren signed the Anderson Bill and California became the first state to strike school segregation out of its own laws. Warren became Chief Justice in 1953. Marshall used the same argument in 1954, and Warren wrote the ruling.
 
 The farm the Mendez family were working belonged to Seima Munemitsu and his family, who were locked up at the Poston camp in Arizona from May 1942 to September 1945. **`education` tells the Mendez children's side of this and what separate meant inside the school.**
 <!-- /hb-zoom -->
@@ -741,22 +816,27 @@ A school did not need a law to refuse a disabled child, because no law said it h
 
 The ruling everyone leaned on was decided in Massachusetts on 4 January 1893. A boy named John A. Watson had been put out of the Cambridge public schools in 1885. The school committee's own record said he was excluded "because he was too weak-minded to derive profit from instruction," and that he was "troublesome to other children, making uncouth noises, pinching others." The court said the committee's decision was final and no court could review it. That was still the rule through the whole of this era. **`education` carries the 1919 Wisconsin case of Merritt Beattie, expelled for how his face and voice moved.**
 
-Parents started organizing about it in the 1930s. In 1933 parents in Cleveland founded the Cuyahoga County Council for the Retarded Child — the county's own records describe a grassroots group led by parents "founded to assist children of the region who had been excluded from their public schools." It is the earliest of the American parent groups, and their children were still not in school. Nobody has left the founders' names in the county's own history, so this book does not give them.
+Parents started organizing about it in the 1930s. In 1933 parents in Cleveland founded the Cuyahoga County Council for the Retarded Child. The county's own records describe a group led by parents and "founded to assist children of the region who had been excluded from their public schools." Their children were still not in school.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="a sit-in, twenty years before the lunch counters" -->
 In 1935 the New York City Home Relief Bureau stamped disabled people's job applications "PH" for "physically handicapped." The stamp meant unemployable, and it kept them out of the Works Progress Administration jobs the government was handing out in the Depression. About 300 people, most of them living with the effects of polio or cerebral palsy, formed the League of the Physically Handicapped.
 
 Six of them sat down in the Home Relief Bureau office in May 1935 after the director refused to see them, and would not leave. Others picketed outside. Later they sat in at the WPA headquarters. One of them said afterwards: "What started it was finding out that jobs were available, that the government was handing out jobs ... everybody was getting jobs ... those of us who were militant just refused to accept the fact that we were the only people who were looked upon as not worthy, not capable of work."
 
-By 1936 about 1,500 jobs had been made in New York City for disabled people. The league broke up by 1938. That is a sit-in for jobs, twenty-five years before the lunch counter sit-ins, and almost nobody has heard of it.
+By 1936 about 1,500 jobs had been made in New York City for disabled people. The league broke up by 1938. It was a sit-in for jobs, twenty-five years before the lunch counter sit-ins.
 
 In the same year Congress wrote the Social Security Act, and it defined disability as "inability to engage in substantial gainful work." So the law that paid a disabled person also said that a disabled person could not work.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="a soldier blinded on his way home, 1946" -->
+On 12 February 1946 Sergeant Isaac Woodard left the Army after four years and got on a bus home to South Carolina. After he argued with the driver, police at Batesburg took him off the bus. Police Chief Lynwood Shull and Officer Elliot Long beat him with short clubs called blackjacks, and he said they pushed their clubs into his eyes. Doctors found both of his eyeballs bleeding inside. He was blind for the rest of his life. An all-white federal jury took thirty minutes to find Shull not guilty.
+
+Walter White of the NAACP led a group to see President Harry Truman on 19 September 1946 and told him what had been done to Woodard. "My God! I had no idea that it was as terrible as that! We've got to do something!" Truman said. On 5 December 1946 he signed an order setting up the President's Committee on Civil Rights to study how Black Americans were treated and what the government should do. **`war` tells the Black soldiers of both world wars, including the Houston courts-martial of 1917 and Port Chicago in 1944.**
+<!-- /hb-zoom -->
 <!-- hb-story:start slug="alice-paul" name="Alice Paul" movie="" kind="famous" status="verified" -->
 ### Alice Paul
-> **Who:** The organizer who put a picket line outside the White House and went to prison six times for it · **When and where:** born Mount Laurel, New Jersey, 11 January 1885; Washington, D.C., 1913 to 1920
+> **Who:** The organizer who put a picket line outside the White House and went to prison six times for it · **When and where:** born Mount Laurel, New Jersey, 11 January 1885, and Washington, D.C., 1913 to 1920
 
-She was born on 11 January 1885 at Mount Laurel, New Jersey, into a Quaker family. One of her English ancestors had died in prison for being a Quaker. She took a degree at Swarthmore in 1905, a master's in 1907, and a doctorate in economics from the University of Pennsylvania in 1912. She studied in London and Birmingham as well, and while she was in England she joined Emmeline Pankhurst's campaign for the vote and was arrested for it.
+She was born on 11 January 1885 at Mount Laurel, New Jersey, into a Quaker family. She took a degree at Swarthmore in 1905, a master's in 1907, and a doctorate in economics from the University of Pennsylvania in 1912. She studied in London and Birmingham as well, and while she was in England she joined Emmeline Pankhurst's campaign for the vote and was arrested for it.
 
 She came home and went to work on the American campaign the same way. She was made chairman of the Congressional Committee of the National American Woman Suffrage Association in 1913, then founded the Congressional Union, then the National Woman's Party in 1916.
 
@@ -764,7 +844,7 @@ Her method was to make the president uncomfortable in public and then keep doing
 
 In October 1917 she was arrested for picketing and sentenced to seven months for obstructing traffic. On her way out of the courtroom she told reporters: "We are being imprisoned, not because we obstructed traffic, but because we pointed out to the President the fact that he was obstructing the cause of democracy at home, while Americans were fighting for it abroad."
 
-She went on hunger strike in the District jail. The prison doctor, Dr Gannon, fed her by force through a tube three times a day for three weeks. Then they moved her out of the jail and into the psychopathic ward — the part of the hospital for people about to be committed to an asylum. A nurse was ordered to check on her every hour all night by shining an electric light into her face, and a workman was sent to nail boards across her window from outside. Two doctors' signatures were all it took to have a person sent to St. Elizabeth's Asylum. She wrote afterwards: "No trial, no counsel, no protest from the outside world!"
+She went on hunger strike in the District jail. The prison doctor, Dr Gannon, fed her by force through a tube three times a day for three weeks. Then they moved her out of the jail and into the psychopathic ward, the part of the hospital for people about to be committed to an asylum. A nurse was ordered to check on her every hour all night by shining an electric light into her face, and a workman was sent to nail boards across her window from outside. Two doctors' signatures were all it took to have a person sent to St. Elizabeth's Asylum. She wrote afterwards: "No trial, no counsel, no protest from the outside world!"
 
 It did not work. The psychiatrist sent to examine her, Dr William A. White, reported instead that "I felt myself in the presence of an unusually gifted personality," and praised the "most admirable, coherent, logical and forceful way" in which she argued her case. A lawyer named Dudley Field Malone forced his way in and got her out of the ward, and the boards came off her window. After five weeks of a seven-month sentence, the government let every suffrage prisoner go.
 
@@ -791,11 +871,11 @@ The women gave evidence in January and April 1928. The company was then granted 
 
 In Ottawa, Illinois, women who had painted dials for the Radium Dial Company fought the same fight a decade later. Catherine Wolfe Donohue died in July 1938, aged thirty-five. The last ruling in her case came that October, after her death, and her family was paid a modest sum.
 
-**`work-workers` tells what the case changed for workers' safety; `elements` tells what radium is; `health` tells the medicine.**
+**`work-workers` tells what the case changed for workers' safety. `elements` tells what radium is. `health` tells the medicine.**
 <!-- hb-story:end slug="grace-fryer" -->
 <!-- hb-story:start slug="carrie-buck" name="Carrie Buck" movie="" kind="famous" status="verified" -->
 ### Carrie Buck
-> **Who:** A young woman whose own lawyer helped the state win the right to operate on her so that she could never have a child · **When and where:** Virginia, 1924 to 1927; she died in 1983
+> **Who:** A young woman whose own lawyer helped the state win the right to operate on her so that she could never have a child · **When and where:** Virginia, 1924 to 1927. She died in 1983
 
 To sterilize a person is to operate on their body so that they can never have a child. What was done to Carrie Buck was a salpingectomy. A doctor cut a section out of each of the two tubes that carry an egg from an ovary to the womb. After that no egg can reach the womb. It is permanent, and in 1927 there was no way to undo it.
 
@@ -815,7 +895,7 @@ Carrie Buck married twice. She died on 28 January 1983 in a nursing home in Wayn
 <!-- hb-story:end slug="carrie-buck" -->
 <!-- hb-story:start slug="fred-korematsu" name="Fred Korematsu" movie="" kind="famous" status="verified" -->
 ### Fred Korematsu
-> **Who:** A welder who stayed behind when his family was taken away, lost at the Supreme Court, and had the conviction thrown out in 1983 · **When and where:** Oakland, California, 1942; San Francisco, 1983
+> **Who:** A welder who stayed behind when his family was taken away, lost at the Supreme Court, and had the conviction thrown out in 1983 · **When and where:** Oakland, California, 1942, and San Francisco, 1983
 
 He was born in Oakland, California on 30 January 1919 and named Toyosaburo. A teacher told him Fred would be easier, so he used Fred. His father Kakusaburo had come to the United States in 1905 and his mother Kotsui came through Angel Island in 1914. He had three brothers, and the family ran the Stonehurst Flower Nursery in East Oakland.
 
@@ -841,7 +921,7 @@ He received the Presidential Medal of Freedom in 1998 and died at Larkspur, Cali
 ### A. Philip Randolph
 > **Who:** The organizer who got two presidents to sign orders by threatening a march and then not holding it · **When and where:** New York and Washington, 1941 and 1948
 
-He was born on 15 April 1889 at Crescent City, Florida. In 1925 he founded the Brotherhood of Sleeping Car Porters, the first Black labor union in the United States, and got it accepted into the American Federation of Labor. **`work-workers` tells that part.**
+He was born on 15 April 1889 at Crescent City, Florida. In 1925 he founded the Brotherhood of Sleeping Car Porters, and in 1935 it became the first union of Black workers admitted to the American Federation of Labor. **`work-workers` tells that part.**
 
 In 1941 the country was building weapons and hiring fast, and Black workers were being turned away from the factory gates. Randolph had a plan for that. With Bayard Rustin he began organizing a march on Washington against discrimination in the defense industries.
 
@@ -859,7 +939,7 @@ Fifteen years later he did hold the march. He was the principal organizer of the
 <!-- hb-story:end slug="a-philip-randolph-rights-movements" -->
 <!-- hb-story:start slug="lloyd-gaines" name="Lloyd Gaines" movie="" kind="ordinary" status="verified" -->
 ### Lloyd Gaines
-> **Who:** A history graduate who wanted to study law in his own state, won the first school case the NAACP took to the Supreme Court, and then disappeared · **When and where:** Missouri, 1935 to 1938; Chicago, March 1939
+> **Who:** A history graduate who wanted to study law in his own state, won the first school case the NAACP took to the Supreme Court, and then disappeared · **When and where:** Missouri, 1935 to 1938, and Chicago, March 1939
 
 He was born in 1911 at Water Valley, Mississippi. His father, Henry Richard Gaines, was a tenant farmer who had been a teacher. His mother was Callie Gaines. There were eleven children.
 

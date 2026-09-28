@@ -1,13 +1,13 @@
 # CHECKPOINT T-262 | rights-movements | bankcheck | T-262a: eras 1-6
 
-STATUS: T-262b landed (director verified: PASS  rights-movements / research)
+STATUS: T-262c landed (director verified: PASS  rights-movements / research)
 VERIFY: python tools/project_state.py --check rights-movements --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/rights-movements.md · research/research-rights-movements.md · workspace/rights-movements.md
 
-NOW:    idle. T-262b finished era 7.
-NEXT:   Era 8 bank check (next agent: `python tools/slice_bank.py rights-movements --eras 8`). Era 8 LEADS the Tulsa Race Massacre (DECISIONS #23): facts parked at the end of the bank from money (T-252) and crime-justice (T-265, DOJ January 2025 review); research it fully and give it a span. Also parked for era 8: Houston 1917, Port Chicago, Isaac Woodard (war T-259), 1927 flood killings (disasters), Hill-Burton (health), Japanese American farms (food-farming), Maggie Walker and Jesse Binga (money). Handed forward from era 7: Ida B. Wells's death date (NPS 25 March vs NWHM 15 March 1931), the NAACP 3,224 lynched 1889-1918 figure (search summary only), Anthony's death and the 19th Amendment, the Comstock Act into Sanger, Chinese exclusion 1902 and 1943, Plessy's sixty years. Era 7 outline still carries semicolons or em dashes ONLY inside quotations (Douglass 1869, Anthony's sentencing exchange) and in the book title *Sex in Education; or, ...*: writers must render them without the characters.
+NOW:    idle. T-262c finished era 8.
+NEXT:   NEXT:   Era 9 bank check (next agent: `python tools/slice_bank.py rights-movements --eras 9`). Handed forward from era 8: Japanese American redress is sourced in era 8's PATCH (CWRIC 31 Jul 1980, 750+ witnesses 1981, Personal Justice Denied Feb 1983, Civil Liberties Act 10 Aug 1988, $20,000, first checks 1 Oct 1990 vs 9 Oct 1990, 82,219 paid unconfirmed): era 9 tells it, cite that PATCH; Hill-Burton's separate-but-equal clause and Simkins v. Cone 1963 (health bank era 8/9); Medicare 1966 hospital desegregation, the Relf sisters and the 1976 GAO IHS sterilizations, Willowbrook (parked from health at end of bank); Emmett Till is crime-justice's story, do not retell the killing; Stonewall 1969 still has no span (workspace open question); Truman's committee report To Secure These Rights (1947, era 8) and the Woodard span point forward to EO 9981 and 1950s campaigns; the Equal Credit Opportunity Act 1974/1976 (parked from marketplace); Scottsboro defense campaign unresearched (crime-justice has the trials). Era 8 prose is clean of em dashes and semicolons. Houston 1917 and Port Chicago were left with war.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -38,6 +38,15 @@ PASS  rights-movements / research
 | 4 | bank check era 7 (Find 1 hard subjects, 2 actor/cause/count, 3 firsts, 4 perishable, 5 land) | done | 11 PATCHes + 2 SEARCHED NOT FOUND in bank era 7 (T-262b headings) |
 | 5 | verified era-7 stories: key facts in the bank (Truth, Anthony, Wells, Winnemucca, Tape) | done | all five sourced; added Wells exile quote (Red Record), Truth streetcar case, Winnemucca/Hayes/Schurz |
 | 6 | final era 7: outline prose (em dashes, semicolons, self-references), validator, research check, NEXT | done | validator 0 errors; PASS research; bank 69,945w, outline 34,259w |
+
+## Units, T-262c (era 8, 1900-1950)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 7 | Tulsa 1921 lead (DECISIONS #23): bank PATCHes + new outline span | done | bank PATCH 'the Tulsa Race Massacre...' + STORY source viola-fletcher (era 8, before # ERA 9). Outline: era-zoom sentence, 4 spans (the burning, camps and passes, rebuilding vs city, survivors 1997-2026) + new verified story `viola-fletcher`. Sources: DOJ 2025 PDF (full text via pypdf), OHS Ellsworth, HRW 2020, Fletcher's congress.gov testimony, State Court Report, ABC 2021, City of Tulsa 12 Jul 2024, News 9 25 Sep 2026, News On 6 18 Jun 2025, NBC 2024/2025, NPR 2023, GRG (Randle). Validator 0 errors. |
+| 8 | bank check era 8 (Find 1-5: suffrage/Occoquan, NAACP/Dyer, Red Summer, incarceration + 1988, Repatriation, Mendez, parked items) | done | 9 PATCHes + 1 SNF in bank (T-262c headings): NAACP report title corrected to 1889-1918 and 3,224 VERIFIED (archive.org text); Dyer 230-119 (Sat Eve Post); Red Summer/Chicago/Elaine/Moore v. Dempsey; Mexican Repatriation (SB 670 fetched); incarceration DeWitt, count dispute 122,000/70,000 citizens, PP21 17 Dec 1944, redress 1980-1990; Silent Sentinels checked on NPS (banner wording corrected); Sargent 1878 + Senate votes; Anthony d. 13 Mar 1906; Wells d. 25 Mar 1931 settled; Sanger; Magnuson 1943; Woodard to EO 9808 (Truman Library Inst.); Gerber 1924; firsts (BSCP narrowed, Cuyahoga 'earliest' removed); parked items decided. Outline: 4 new spans (1919 Red Summer/Elaine, Gerber 1924, Repatriation, Woodard 1946), DeWitt + count dispute + exclusion date, all era-8 em dashes/semicolons removed. Validator 0 errors. |
+| 9 | verified era-8 stories: key facts in the bank (Paul, Fryer, Buck, Korematsu, Randolph, Gaines) | done | all matched; Paul's 'ancestor died in prison' removed (unsourced, contradicted); Gannon's window order sourced from Stevens; PATCH 'era-8 story checks' |
+| 10 | final era 8: outline prose check, validator, research check, NEXT for era 9 | done | era 8: 0 em dashes, 0 semicolons, self-references removed; validator 0 errors; --stage research PASS |
 
 ## SUBJECT NOTES (from the director)
 

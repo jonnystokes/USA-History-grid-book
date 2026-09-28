@@ -3162,3 +3162,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `religion` (2026-09-27, T-260)
 Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
 - `war`, era 8: religion bank now carries a pointer PATCH to war's Hofer text; director decides which chapter gets the story block.
+
+
+## Parked from `rights-movements` (2026-09-27, T-262c)
+- Era 1900-1950: `rights-movements` now tells Isaac Woodard in one span, with the link to Truman (Walter White's delegation 19 Sept 1946, EO 9808 on 5 Dec 1946, sourced to the Truman Library Institute, which closes your "unconfirmed" note). Houston 1917 and Port Chicago 1944 are left with `war`: no chapter's outline tells either yet.

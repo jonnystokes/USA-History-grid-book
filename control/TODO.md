@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-262c rights-movements (bank check era 8 (LEADS Tulsa 1921))
 **Burst of 5 done. Back to ONE AT A TIME.** 30 of 37 chapters pass research (23 researched + 7 written).
 Still to do in step 1:
 - **religion** eras 9-10 bank check (T-260c). **education** era 8 (T-261c), era 9 (T-261d), era 10 (T-261e).
