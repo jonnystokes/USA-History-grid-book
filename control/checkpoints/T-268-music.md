@@ -6,7 +6,7 @@ BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/music.md · research/research-music.md · workspace/music.md
 
-NOW:    T-268b finished (2026-09-28)
+NOW:    T-268c unit 8 (research era 08) IN PROGRESS (2026-09-28)
 NEXT:   T-268c: research era 08 (1900-1950) one unit at a time, then eras 9-10 (may be split), then the bank check for them, then confirm every era's progress flag and run --check. Start from the SEED text in outlines/music.md eras 8-10 and `python tools/slice_bank.py music --eras 8-10`. Carry forward: (1) Sousa's 1906 'canned music' testimony (his story is in era 07; a span in era 08 can quote it); (2) Dennison Wheelock's 'Suite Aboriginal', Carnegie Hall, March 1900 (search summary only); (3) W. C. Handy at Tutwiler about 1903, Ma Rainey, Charles Peabody 1903 (first written blues accounts); (4) Mary Sheakley's Tlingit clan song, about 1900 (Thornton et al. 2019); (5) Judge Jackson's Colored Sacred Harp (1934); (6) Ernest Hogan's The Oyster Man (1907); (7) the T-268a items still open: 20th-century Native songs recorded and sold without right (eras 8-9, park strong ones to native-nations), Dargan's Lining Out the Word (Dr. Watts hymns), Dolly Parton the flagship (eras 9-10); (8) workspace famous-names gaps (Mahalia Jackson, Leadbelly and the Lomax recordings, Irving Berlin, Charley Pride, Hawaiian music). Remaining after T-268b: 75 [VERIFY], 14 candidates, 1 target, all in eras 8-10.
 
 ## BURST (Jon, 2026-09-27): burst of three (holidays, art, music)
@@ -39,6 +39,14 @@ for those eras. T-268b does eras 6-10 later (it may be split further).
 | 5 | research era 06 (1800-1850): outline + bank, clear [VERIFY], resolve targets/candidates | done | progress=researched, 0 [VERIFY]; Foster and Francis Johnson verified; spans: singers' meanings (Douglass, Tubman, Drinking Gourd dispute), Congo Square, minstrelsy, banjo/Sweeney, church songs/shape notes, Hutchinsons |
 | 6 | research era 07 (1850-1900): same | done | bank section Era 07 written (Fisk, Sheppard, Slave Songs/Higginson, war songs/bands, Lind, Sousa, Joplin/Hogan, G. W. Johnson, Native: 1883 rules, Carlisle band, Fewkes 1890; blues SNF); outline next |
 | 7 | bank check eras 6-7, validator, research check, NEXT for the era-8 agent | done | PATCH 2026-09-28 (T-268b) section in bank; Congo Square SNF; validator 0 errors; check FAIL only on eras 8-10 |
+
+## Units, T-268c (eras 8-9)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 8 | research era 08 (1900-1950): outline + bank, clear [VERIFY], resolve every candidate | in progress | |
+| 9 | research era 09 (1950-2000): same; move the Dolly Parton block to era 10 for T-268d | todo | |
+| 10 | bank check eras 8-9, validator, research check, NEXT for T-268d | todo | |
 
 ## SUBJECT NOTES (from the director)
 

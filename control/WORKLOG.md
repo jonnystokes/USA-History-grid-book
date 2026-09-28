@@ -3144,3 +3144,4 @@ RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stori
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+NOTE (Jon asked for a burst of 6): only 3 safe tasks exist beside the running music agent (the last 3 seed chapters), so 4 run (DECISIONS #25 amended rule). Music messaged to switch to TO PARK.
