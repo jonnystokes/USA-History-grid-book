@@ -200,3 +200,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-273a	research	general-purpose/opus	[LOCAL] holidays: Eras 1-5 researched + bank check. Native ceremonial calendars (Haudenosaunee Tha	?	?	?	374030	218	1743372	?	completed	FAIL  holidays / research
 2026-09-27	T-262e	research	general-purpose/opus	[LOCAL] rights-movements: Era 10 bank check; rights-movements checks COMPLETE. Standing Rock (Dalrymple, K	?	?	?	319973	119	945594	?	completed	PASS  rights-movements / research
 2026-09-27	T-261d	research	general-purpose/opus	[LOCAL] education: Era 9 bank check: 9 PATCHes. Prince Edward (Wall, Crawford, Fitzpatrick; Almond'	?	?	?	253287	87	738412	?	completed	PASS  education / research
+2026-09-27	T-261e	research	general-purpose/opus	[LOCAL] education: Era 10 bank check; education checks COMPLETE. School shootings (federal count 20	?	?	?	295513	131	927239	?	completed	PASS  education / research

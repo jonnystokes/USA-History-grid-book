@@ -1676,3 +1676,7 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 9,
 Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `crime-justice`, era 5: James Rivington's press wrecked by Isaac Sears and New Haven Sons of Liberty, November 1775 (Adelman, Gotham Center).
+
+## Parked from `education` (2026-09-28, T-261e)
+
+- **Era 2000-today, pointer: prosecutions after school shootings.** Full sourced text is in `research/research-education.md` era 10, "PATCH 2026-09-28 (T-261e): shootings at school, 2000-2026". Scot Peterson, Parkland school deputy, acquitted of felony child neglect 29 June 2023 (AP via WFSU). Uvalde: former school officer Adrian Gonzales acquitted of 29 counts of child abandonment and endangerment 21 January 2026 (AP in the Texas Tribune); former school police chief Pete Arredondo's trial not yet held (set for 22 February 2027 per KSAT, search summary only). Apalachee High School, Georgia (4 Sept 2024): Colt Gray sentenced to life without parole 27 July 2026; his father Colin Gray convicted 3 March 2026 of second-degree murder and involuntary manslaughter (Georgia Public Broadcasting) and sentenced to 15 years 30 July 2026 (ABC News). `education` tells the shootings as schooling; the trials are yours if wanted.

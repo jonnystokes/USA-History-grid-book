@@ -3058,6 +3058,8 @@ RESULT: DONE. PASS  education / research. measured: stage=RESEARCHED eras=10/10 
         253287 tokens, 87 tool uses, 12.3 min (opus). Era 9 bank check: 9 PATCHes. Prince Edward (Wall, Crawford, Fitzpatrick; Almond's 1958 closings), Little Rock's closed year, New Orleans 1960 (Davis, Perez), Ole Miss 1962 (Guihard, Gunter; 75-300+ injured) as a new span, South Boston High (Phyllis Ellison), Hernandez v. Driscoll 1957, boarding schools after 1950 (Ronald and Willie B. Yazzie, 1968), ICWA 1978, paddling counts 1976-2000. 2 firsts removed. 2 searched-not-found. Pointers parked in rights-movements.
 
 ### 2026-09-27 | [LOCAL] T-261e | education: bank check era 10, last agent on the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+RESULT: DONE. PASS  education / research. measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=80695w outline=32417w manuscript=0w validator_errors=0
+        295513 tokens, 131 tool uses, 15.5 min (opus). Era 10 bank check; education checks COMPLETE. School shootings (federal count 2021-22; Sandy Hook, Parkland, Uvalde from official reports incl. the 77 minutes and Arredondo; 2026 trials; Apalachee 2024), boarding-school reports and 2024 apology, book removals (PEN, ALA, EdWeek), Education Department 2025-26 (4,133 to 2,183 staff, Supreme Court order), NAEP 2022 and Sept 2025, corporal punishment 2021-22 newest national count, teacher pay 2024-25. 4 new spans. Pointer parked in crime-justice.
