@@ -3028,6 +3028,8 @@ RESULT: LANDED. FAIL  news-communication / research. measured: stage=PARTIAL era
         452183 tokens, 225 tool uses, 29.0 min (opus). Eras 1-5 researched + bank check. 10 stories verified: Manteo, Benjamin Harris, Catua and Omtua, Anna Zenger, Elizabeth Timothy, Franklin, Isaac Bissell (not Israel), Paine, Mary Katharine Goddard, Matthew Lyon. John Peter Zenger story removed (told elsewhere; span prose here). 1673 post rider, Zenger verdict corrected, Common Sense counts, Sedition Act prosecutions, runaway and sale ads, Roanoke land. 5 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 11.
 
 ### 2026-09-27 | [LOCAL] T-273a | holidays: full research eras 1-5 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
+RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 stories=8 (v4 c1 t3) verify_tags=9 bank=8887w outline=6090w manuscript=0w validator_errors=0
+        374030 tokens, 218 tool uses, 29.1 min (opus). Eras 1-5 researched + bank check. Native ceremonial calendars (Haudenosaunee Thanksgiving Address, Wampanoag, Green Corn per Bartram 1791, Hopi Soyal, First Salmon, Makahiki), St. Augustine and Onate thanksgivings with Matanzas, Plymouth 1621, the 1637 Pequot War thanksgivings, 1659 Christmas law, Pope's Night, Pinkster, Black governors, 1777 Fourth, Christmas for the enslaved. Stories: Bradford, Henry Wight, John Anderson. 4 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 7.

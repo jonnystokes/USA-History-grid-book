@@ -15,14 +15,20 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 | Juneteenth as a federal holiday, 2021 | **lead** — how the country marks it now | `slavery-freedom` (**lead** — what is being remembered) |
 | Christmas | **lead** — from banned to central | `religion` (the faith) · `marketplace` (the shopping season) |
 | The Fourth of July | **lead** — the celebration and its rituals | `government-politics` (the Declaration) · `slavery-freedom` (Douglass's 1852 speech about it) |
+| The 1637 Pequot War thanksgivings | the thanksgiving days and the Newell claim | `war` (Mystic) · `native-nations` (the Pequot) |
+| Matanzas, 1565 | the two thanksgiving services beside it | `war` (the killings, the count) |
+| Pueblo ceremonies banned, 1656 to 1675 | the ceremonial calendar | `religion` (lead) · `native-nations` (the Revolt) |
+| Pope's Night | lead | `government-politics` (Stamp Act crowds) |
+| Pinkster and Black election days | lead, as festivals | `storytelling-evolution` (as performance) · `slavery-freedom` |
+| Oñate's thanksgiving, 1598 | the thanksgiving | `storytelling-evolution` (the play) |
 | Labor Day, 1894 | **lead** — the holiday and why it was created that year | `work-workers` (the strike behind it) · `government-politics` (the law) |
 | Martin Luther King Jr. Day | **lead** — a holiday that took years of campaigning | `rights-movements` (the movement and the campaign for the day) |
 
 ## Famous names check (must appear — completeness first)
 
-- [ ] the 1621 harvest gathering
-- [ ] the Puritan ban on Christmas
-- [ ] the first Fourth of July
+- [x] the 1621 harvest gathering (T-273a)
+- [x] the Puritan ban on Christmas (T-273a)
+- [x] the first Fourth of July (T-273a)
 - [ ] Sarah Josepha Hale
 - [ ] Lincoln's Thanksgiving proclamation
 - [ ] Memorial Day's origins
@@ -36,9 +42,9 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 
-- [ ] the 1621 harvest gathering numbers (~90 Wampanoag men) — 1600s
-- [ ] the Massachusetts ban on celebrating Christmas, 1659 — 1600s
-- [ ] the first Fourth of July celebration, 1777 — 1750–1800
+- [x] the 1621 harvest gathering numbers: Winslow says "some ninetie men" (cleared T-273a) — 1600s
+- [x] the Massachusetts ban on celebrating Christmas, 1659 — 1600s
+- [x] the first Fourth of July celebration, 1777 (cleared T-273a, Pennsylvania Evening Post via Mount Vernon) — 1750–1800
 - [ ] Clement Moore's poem, 1823 — 1800–1850
 - [ ] Frederick Douglass's 1852 speech (date falls in the next era) — 1800–1850
 - [ ] Memorial Day's competing origin claims (state them) — 1850–1900
@@ -52,15 +58,18 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 *From the brief's checklist — only what genuinely applies:* region · rural · class · language · children (**central**) · the elderly · Native continuity past 1900 · territories · LGBTQ (Pride as a public observance)
 
 ## Thin eras (honest)
+- T-273a result: The 1500s and 1700 to 1750 are `thin`. Before 1500 is `full` with no named story (no documented named person).
 - **The 1500s** and **1700–1750** are thin: saints' days, musters, and Pope's Day. Short and concrete.
 - **Before 1500** is rich in ceremony and empty of named people.
 
 ## Story slots to firm up (for the researcher)
 *Featured people are in-era `hb-story` blocks in the outline. These still need firming.*
 - **verified:** Sarah Josepha Hale (placed once, in 1800–1850; her 1863 outcome sits in the 1850–1900 era-zoom); Anna Jarvis (1900–1950, carries a [VERIFY] on the 1914 detail).
-- **target (find and verify):** a keeper of a continuing ceremony (before 1500); an early Fourth of July organizer (1750–1800); an early Juneteenth celebrant (1850–1900); a King holiday campaigner (1950–2000); an organizer of a first Juneteenth or Indigenous Peoples' Day observance (2000–today).
+- **T-273a:** before-1500 target removed (no named pre-1500 person). 1750-1800 target filled by Henry Wight (Bristol, 1785), plus a new story, John Anderson (Hartford Black governor, 1776).
+- **target (find and verify):** an early Juneteenth celebrant (1850–1900); a King holiday campaigner (1950–2000); an organizer of a first Juneteenth or Indigenous Peoples' Day observance (2000–today).
 
 ## Cross-chapter parking log
+- 2026-09-27 (T-273a, burst): nothing written into other chapters' files. Items listed under TO PARK in control/checkpoints/T-273-holidays.md for the director.
 
 ## Open questions for the director
 - The Thanksgiving myth is assigned to the `how-we-know` Afterword. How much does this chapter say, and how much does it hand over? (Editor note carried from the 1600s Zoom 3: the schoolbook "first Thanksgiving" is a later construction; this chapter states the documented facts.)

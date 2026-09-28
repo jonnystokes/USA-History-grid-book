@@ -197,3 +197,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-260c	research	general-purpose/opus	[LOCAL] religion: Eras 9-10 bank check; religion's checks COMPLETE. Smith and Black (peyote), Lyng	?	?	?	284961	110	871748	?	completed	PASS  religion / research
 2026-09-27	T-262d	research	general-purpose/opus	[LOCAL] rights-movements: Era 9 bank check. Killers named with outcomes: De La Beckwith (1994), Neshoba (7	?	?	?	306900	117	1009335	?	completed	PASS  rights-movements / research
 2026-09-27	T-270a	research	general-purpose/opus	[LOCAL] news-communication: Eras 1-5 researched + bank check. 10 stories verified: Manteo, Benjamin Harris, 	?	?	?	452183	225	1739740	?	completed	FAIL  news-communication / research
+2026-09-27	T-273a	research	general-purpose/opus	[LOCAL] holidays: Eras 1-5 researched + bank check. Native ceremonial calendars (Haudenosaunee Tha	?	?	?	374030	218	1743372	?	completed	FAIL  holidays / research
