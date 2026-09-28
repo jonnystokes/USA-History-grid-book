@@ -11,9 +11,10 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-270b news-communication (full research eras 6-8 (T-270c does 9-10))
 **ONE AT A TIME (resumed 2026-09-28).** 30 of 37 chapters pass research.
 Still to do in step 1:
-- **education** era 9 (T-261d), era 10 (T-261e). **rights-movements** era 10 DONE (T-262e). Both chapters pass.
+- education and rights-movements: checks COMPLETE (T-261e, T-262e).
 - **news-communication** eras 6-10 (T-270b, maybe split) and **holidays** eras 6-10 (T-273b): chapters PARTIAL.
 - **5 seeds, full research:** art (T-267), music (T-268), storytelling-evolution (T-269), sports-play (T-271),
   styles (T-272). 2-3 agents each.
