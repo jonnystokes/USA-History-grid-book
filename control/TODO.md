@@ -18,6 +18,9 @@ Left in step 1:
 - **storytelling-evolution** (T-269a/b/c, full), **sports-play** (T-271a/b, full), **styles** (T-272a/b, full).
 Then STEP 2 (writing).
 
+**Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he denies
+it; no court outcome found. The agent kept it out of the outline and flagged it in the bank. Tell the book or leave it out?
+
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
 - Eight steps, strictly in order: research, write, audit, research round 2, writing round 2,
