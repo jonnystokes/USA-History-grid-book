@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-267c art (full research eras 8-9; T-267d does era 10)
 **ONE AT A TIME.** 32 of 37 chapters pass research (25 researched + 7 written).
 Left in step 1:
 - **art** eras 6-10 (T-267b; 83 [VERIFY], 19 candidates there: split 6-7 and 8-10).

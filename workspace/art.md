@@ -317,3 +317,28 @@ Handed out of this chapter, already written into the outline as cross-references
 **Cross-chapter parking log (T-267b):** written under "## Parked from `art` (2026-09-28, T-267b)" in `research/research-native-nations.md` (Fort Marion dead, Osceola's head, Four Bears robes), `research/research-slavery-freedom.md` (Audubon's slaveholding, Dave), `research/research-education.md` (Fort Marion dead, PAFA women's access, Edmonia Lewis at Oberlin).
 
 **For T-267c (eras 08-10):** perishable items in the bank check (MFA Boston's return of Drake works, 2025; the National Audubon Society's 2023 name vote; Fort Marion headstones); the Tanner "M. Tanner" quote stays unused unless a primary source turns up; the open questions above for 1900 onward (Savage, Lange, Martinez, NAGPRA, Maya Lin and the rest) are untouched.
+
+
+## T-267c research pass, eras 08-09 (2026-09-28)
+
+**[VERIFY] queue, eras 08-09: cleared.** Every tag in 1900-1950 and 1950-2000 is gone from the outline. Each item was sourced into `research/research-art.md` (sections "Era 08", "Era 08 additions", "Era 09", "Bank check, eras 08-09") or removed with a note there. Items for 2000-today stay open for T-267d.
+
+**Corrections made against the seed:**
+- Florence Owens Thompson was not flatly "Cherokee": both parents claimed Cherokee descent, and her mother told the Dawes Commission her own parents were white. Her 1978 words quoted. Lange's "sold the tires" account and her son's denial both given.
+- "Lange's photograph became the best-known American photograph of the decade": cut (no counter).
+- The Harp: title, height, plaster finish and the bulldozing restored (verifier's note). No one named as ordering it: SEARCHED, NOT FOUND.
+- The Armory Show "first" claim cut. Attendance given (75,000 New York; nearly 300,000 on tour).
+- Chicano Park: takeover April 22, 1970; murals from March 23, 1973 (verifier's note settled).
+- "Artists who were kept out of galleries painted on walls instead": replaced by named protests (Whitney, Ringgold) and murals (Wall of Respect, Chicano Park).
+- The Ashcan painters cut (no source opened).
+- The CIA and Abstract Expressionism stated as the sources show it: former CIA officials' own words (Saunders 1995), the Congress for Cultural Freedom, and the historians who dispute its weight (Kimmelman 1994, McComas).
+
+**Famous names, eras 08-09, present and sourced:** the Armory Show, Stieglitz, Aaron Douglas, James Van Der Zee, Langston Hughes, Zora Neale Hurston, Augusta Savage, the WPA and post office murals, Dorothea Lange, Georgia O'Keeffe, Grant Wood, Edward Hopper, Norman Rockwell (Four Freedoms; The Problem We All Live With), Jacob Lawrence, Maria Martinez, Steinbeck; Pollock, Krasner, de Kooning, Rothko, Warhol, Lichtenstein, Rauschenberg, Faith Ringgold, Judy Chicago, Maya Lin (pointer to `landmarks`), Gordon Parks, Robert Frank, Ellison, Baldwin, Hansberry, Angelou, Toni Morrison, Basquiat, Haring. Gaps-list names now in: Rockwell, Steinbeck, Basquiat, Haring, Wilder (books only). Still absent: Ansel Adams (named only in Lange's story), Calder, Grandma Moses, Whistler, Fitzgerald, Hemingway, Dr. Seuss, Sendak, comics (open question 1).
+
+**Stories (eras 08-09), all verified:** `georgia-okeeffe` (movie *Georgia O'Keeffe*, 1977), `dorothea-lange` (*Dorothea Lange: Grab a Hunk of Lightning*, 2014), `jacob-lawrence`, `augusta-savage` (*Searching for Augusta Savage*, 2024), `zora-neale-hurston` (*Zora Neale Hurston: Jump at the Sun*, 2008), `maria-martinez` (*Maria Martinez: Indian Pottery of San Ildefonso*, 1972), `jackson-pollock` (*Pollock*, 2000, feature film), `andy-warhol` (*Andy Warhol: A Documentary Film*, 2006), `gordon-parks` (*Half Past Autumn*, 2000), `faith-ringgold`, `toni-morrison` (*Toni Morrison: The Pieces I Am*, 2019).
+
+**Open questions settled here:** 4 (Lange 1942): `rights-movements` leads the camps; this chapter tells the photographs and their suppression. 5 (Rushmore): no sculpture beat; Borglum appears only as an Armory Show organizer, with a pointer to `landmarks`. 7 (Savage 1923): told with her own words from the *New York World*.
+
+**Cross-chapter parking log (T-267c):** written under "## Parked from `art` (2026-09-28, T-267c)" in `research/research-crime-justice.md` (Michael Stewart 1983, Henry Dumas 1968, Kern County ban, Cincinnati trial), `research/research-health.md` (AIDS Quilt, funerals refused, Mapplethorpe, Haring), `research/research-native-nations.md` (Angel De Cora, Lottie Stamper, Dunn's Studio, IACB 1935, Oscar Howe, IACA penalties, NAGPRA signing).
+
+**For T-267d (era 10):** the Wilder medal renaming (June 23, 2018) is sourced in the bank's era 08 section and belongs in era 10; AIDS Quilt count to re-check; O'Keeffe 2014 and Warhol 2022 auction records; Chicano Park National Historic Landmark (Dec. 23, 2016); The Dinner Party at the Brooklyn Museum; the era 10 NAGPRA span repeats "passed in 1990" (era 09 now carries the 1990 law).

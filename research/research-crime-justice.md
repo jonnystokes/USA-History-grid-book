@@ -1694,3 +1694,10 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `crime-justice`, era 1900-1950: 19 June 1939, Fort Worth, a white mob of about 500 drove the Flake family (Opal Lee, aged 12) from 940 East Annie Street and burned the house; police present did not stop it (Lee to ABC News, 23 Mar 2024; NWHM; Wikipedia "Opal Lee"). No names, no arrests found.
+
+
+## Parked from `art` (2026-09-28, T-267c)
+
+- Era 09. Michael Stewart, 25, a Black graffiti artist, was arrested by New York City Transit Police officers at the First Avenue station on September 15, 1983, for writing graffiti. He went into a coma in custody and died September 28, 1983, after 13 days. The medical examiner Elliot M. Gross gave cardiac arrest, a finding disputed. Six officers were tried for criminally negligent homicide, assault and perjury and acquitted by an all-white jury on November 24, 1985. A civil suit against eleven officers and the MTA settled for $1.7 million (Wikipedia "Death of Michael Stewart"). The painter Jean-Michel Basquiat made *Defacement (The Death of Michael Stewart)* in response (same). The officers' names were not collected. Art bank: research-art.md era 09.
+- Era 09. Henry Dumas, a poet and novelist, "had been shot to death by a transit officer in the New York City Subway" in 1968. Toni Morrison later published his work (Wikipedia "Toni Morrison"). Officer and circumstances not researched.
+- Era 08. Kern County, California, August 1939: the Board of Supervisors voted 4 to 1 to ban *The Grapes of Wrath* from county libraries and schools; Clell Pruett burned a copy for a photographer at Bill Camp's request; restored January 1941 (NPR/KVPR 2008; Wikipedia "Gretchen Knief Schenk"). Cincinnati, 1990: the Contemporary Arts Center and its director Dennis Barrie were tried for obscenity over Robert Mapplethorpe's photographs and acquitted October 5, 1990 (Wikipedia "The Perfect Moment"). Art bank era 08 and 09.

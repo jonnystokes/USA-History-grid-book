@@ -978,3 +978,8 @@ All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T
 Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `health`, era 4: 1721 Boston smallpox, the bomb thrown into Cotton Mather's house on 14 November 1721 with its note, about 6,000 cases and 844 deaths (Crawford, PMC3865953); Boylston's 248 inoculated, 98 percent survival against 85 percent (Mass Moments).
+
+
+## Parked from `art` (2026-09-28, T-267c)
+
+- Era 09. AIDS Memorial Quilt: each panel three by six feet, about the size of a grave. "At that time many people who died of AIDS-related causes did not receive funerals, due to both the social stigma of AIDS felt by surviving family members and the outright refusal by many funeral homes and cemeteries to handle the deceased's remains" (Wikipedia "NAMES Project AIDS Memorial Quilt"). First display October 11, 1987, 1,920 panels; October 1996 last full display, about 1.2 million visitors; now nearly 50,000 panels for more than 110,000 people (National AIDS Memorial, read 2026-09-28). Robert Mapplethorpe died of AIDS complications March 9, 1989. Keith Haring was diagnosed with AIDS in 1988 and died February 16, 1990. Art bank era 09.

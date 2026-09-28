@@ -3,11 +3,11 @@
 # Chapter 32: Art
 
 <!-- hb-note -->
-**Status:** eras 01-05 RESEARCHED 2026-09-28 (T-267a). Eras 06-07 RESEARCHED 2026-09-28 (T-267b). Eras 08-10 still SEED, for T-267c.
+**Status:** eras 01-05 RESEARCHED 2026-09-28 (T-267a). Eras 06-07 RESEARCHED 2026-09-28 (T-267b). Eras 08-09 RESEARCHED 2026-09-28 (T-267c). Era 10 still SEED, for T-267d.
 **Angle:** The made objects and the people who made them — painting, sculpture, pottery and weaving, photography, and writing.
 **Keep out:** music of every kind (`music` — split off by Jon's ruling, 2026-09-06) · film, television, and theater, including Hollywood, the studio system, and Walt Disney (`storytelling-evolution`, being built in parallel — this chapter hands all of it over and keeps none of it) · fashion, hair, and home design (`styles`) · the camera and the printing press as machines (`technology`) · monuments and memorials as places (`landmarks`)
 **Workspace:** `workspace/art.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
-**Research bank:** `research/research-art.md`, created 2026-09-28. Eras 01-07 sourced there, with bank checks. Stories in eras 01-07 are `verified` only where the bank sources them. Eras 08-10 are not yet sourced.
+**Research bank:** `research/research-art.md`, created 2026-09-28. Eras 01-09 sourced there, with bank checks. Stories in eras 01-09 are `verified` only where the bank sources them. Era 10 is not yet sourced.
 **Reference material:** `_reference/retired-art-music-2026-09-06/art-music-outline.md` (the seed this was split out of, retired by the director) · `_reference/retired-art-music-2026-09-06/research-art-music.md` (covers both halves) · `_reference/book-outline-v1.md` §22 Art.
 Editor's in-development note — not part of the final book; the parser strips it.
 <!-- /hb-note -->
@@ -402,106 +402,207 @@ From 1850 to 1900, photographers showed Americans the bodies of dead soldiers an
 <!-- hb-story:end slug="mark-twain-art" -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="art" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="art" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Painters stopped agreeing about what a picture was supposed to look like. Photographers argued that a photograph was art. For eight years the federal government paid artists and writers a wage to work. And for about a decade a few streets in Harlem held more Black painters, sculptors, and writers working together than anywhere else in the country.
+From 1900 to 1950, American painters, photographers and writers argued over what art should look like and who was allowed to make it. About 75,000 people came to see modern European paintings at the Armory Show in New York in 1913. In Harlem in the 1920s and 1930s, Black painters, sculptors, photographers and writers worked side by side. From 1935 to 1943 federal officials paid thousands of artists a weekly wage, and Black artists in New York had to organize before project officials would hire them. Government photographers recorded hungry farm families in the 1930s. In 1942 one of them photographed Japanese American families whom soldiers and federal officials were forcing into camps, and officials kept most of those pictures out of public view.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Armory Show, 1913" -->
-A New York exhibition in 1913 showed modern European painting to a large American audience for the first time [VERIFY the attendance figure and the newspaper reaction]. The Ashcan painters, including Robert Henri and George Bellows, painted street life and boxing matches. Alfred Stieglitz ran a gallery and a magazine arguing that photography was art [VERIFY dates].
+<!-- hb-zoom level="span" label="The Armory Show, 1913, and photographs as art" -->
+- The International Exhibition of Modern Art ran from February 17 to March 15, 1913, in the 69th Regiment Armory on Lexington Avenue in New York. Its catalog listed 1,090 works by 306 artists, and several hundred more were added during the show. About 75,000 people came in New York, and nearly 300,000 saw it by the end of its tour to Chicago and Boston (EBSCO. Wikipedia gives about 1,300 works).
+- Marcel Duchamp's *Nude Descending a Staircase* drew the most jokes. The critic Julian Street called it "an explosion in a shingle factory." Theodore Roosevelt said it looked like the Navajo rug in his bathroom. The sculptor Gutzon Borglum, one of the show's early organizers, called it "a staircase descending a nude" (Wikipedia, EBSCO). `landmarks` tells Borglum's later work at Mount Rushmore.
+- In Chicago, on April 16, 1913, students of the School of the Art Institute held a mock trial of Henri Matisse. They charged him with "pictorial arson" and "criminal misuse of line," then burned copies they had painted of three of his pictures, including *Blue Nude*. School officials had told them not to (Art Institute of Chicago archive, citing the *Chicago Daily Tribune*).
+- The photographer Alfred Stieglitz argued that a photograph could be art as fully as a painting. From 1903 to 1917 he published a magazine of photographs called *Camera Work*. From 1905 to 1917 he ran a gallery at 291 Fifth Avenue in New York, known as 291, where he showed photographs beside modern paintings (Wikipedia).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="The Harlem Renaissance" -->
-Aaron Douglas's murals; Langston Hughes and the poets; Zora Neale Hurston's novels and folklore collecting; James Van Der Zee's studio portraits of Harlem [VERIFY]. Augusta Savage taught, and the large sculpture she made for the 1939 World's Fair was destroyed after the fair closed because there was no money to cast it in bronze or to store it [VERIFY]. `migration` leads on the Great Migration that brought people north; `rights-movements` on what the work meant politically; `music` on the jazz.
+- Aaron Douglas, a painter from Topeka, Kansas, stopped in Harlem in 1925 on his way to Paris and stayed. He drew covers and pictures for Black magazines and books. In 1934 he painted *Aspects of Negro Life*, four large murals, for the 135th Street branch of the New York Public Library. They show Africa, slavery, the lynching and segregation that followed the Civil War, and the move north (Wikipedia).
+- James Van Der Zee opened a portrait studio on West 125th Street in 1916. Until about 1945 he made portraits of Black New Yorkers. He photographed the 369th Infantry Regiment's parade home from World War I in 1919, and the leader Marcus Garvey (Wikipedia).
+- Langston Hughes published his first book of poems, *The Weary Blues*, in 1926 (Wikipedia).
+- `migration` leads on the Great Migration that brought many of these artists north. `rights-movements` takes what the work meant politically. `music` takes the jazz.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Art paid for by the government, 1935 to 1943" -->
-The Works Progress Administration's Federal Art Project put artists on a payroll [VERIFY how many, and the weekly wage in dollars]. The Federal Writers' Project sent interviewers to record more than 2,300 people who had been enslaved [VERIFY the count; `slavery-freedom` leads on the narratives themselves and on the problems with how they were taken]. Post office murals were painted in hundreds of towns and many are still hanging [VERIFY the count].
+<!-- hb-zoom level="span" label="Art paid for by the government, 1934 to 1943" -->
+- The Works Progress Administration's Federal Art Project ran from August 1935 to June 1943, directed by Holger Cahill. Most of its artists had to prove they were poor enough to get government relief. They earned about $23.50 a week and had to turn in a finished work every few weeks. The project employed more than 5,000 artists at its peak in 1936 (Britannica. Wikipedia says about 10,000 artists and craft workers). They made about 400,000 paintings, murals, prints and posters and opened more than 100 community art centers (Wikipedia).
+- The project's rules forbade discrimination, but Black artists were routinely denied work on it. The sources do not name the officials who turned them away. In 1935 Augusta Savage, Charles Alston, Aaron Douglas and others started the Harlem Artists Guild. Alston called it "a pressure group to get more black artists on the federal projects." Alston became the project's first Black supervisor (Wikipedia, Black Art in America).
+- In 1936 Alston, Vertis Hayes and Georgette Seabrooke designed murals for Harlem Hospital. Hospital supervisors rejected the designs because they showed too much "Negro subject matter." Members of the Guild and the Artists Union wrote to Mayor Fiorello La Guardia and President Franklin Roosevelt, and the murals were painted as designed (Black Art in America).
+- Edward Bruce ran a second federal program, in the Treasury Department, from 1934 to 1943. His staff held contests with the artists' names hidden. The winners painted about 1,400 murals in post offices in more than 1,300 towns. Officials told them to paint local American scenes and to stay away from controversy. In Safford, Arizona, local residents demanded a change in a mural's subject because they were "still resentful about Apache raids" (Wikipedia).
+- The Federal Writers' Project hired writers too. From 1936 to 1938 its interviewers recorded more than 2,300 people who had been enslaved. `slavery-freedom` leads on those interviews and on the problems with how they were taken.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Depression photographed" -->
-Farm Security Administration photographers were paid to photograph rural poverty. Dorothea Lange's 1936 photograph of a mother in a California pea-pickers' camp became the best-known American photograph of the decade. The woman in it was Florence Owens Thompson, Cherokee, and she was not publicly named for about forty years; she said afterward that she received nothing for it and had not wanted it used [VERIFY her words, the dates, and the family's account].
+<!-- hb-zoom level="span" label="Photographs of hunger, and photographs of the camps" -->
+- Officials of the federal Resettlement Administration, later the Farm Security Administration, paid photographers to record poor farm families. In March 1936 Dorothea Lange stopped at a pea-pickers' camp at Nipomo, California. Freezing rain had destroyed the crop, and 2,500 to 3,500 people were camped there with no work. She made seven pictures of a mother and her children (Wikipedia).
+- Lange wrote that the mother told her the family had been living on frozen vegetables and on birds the children killed, and had sold the car's tires to buy food. The mother's son Troy Owens later said the family never sold any tires. The two accounts do not agree.
+- The mother was Florence Owens Thompson, born in Indian Territory in 1903 to parents who claimed Cherokee descent. No one printed her name until 1978, when the reporter Emmett Corrigan of the *Modesto Bee* found her. She told him: "I wish she hadn't taken my picture. I can't get a penny out of it. She didn't ask my name. She said she wouldn't sell the pictures. She said she'd send me a copy. She never did." When she was dying in 1983, her children asked for help with her medical bills, and more than 2,000 letters with donations came in (Wikipedia). `migration` tells her family's journey (slug `florence-owens-thompson`).
+- In 1942 officials of the War Relocation Authority hired Lange to photograph soldiers and federal officials forcing Japanese American families from their homes and into camps. She made more than 800 photographs. Officials told her not to photograph the fences, the watch towers or the armed guards at Manzanar. Army officers judged her pictures critical of the camps and held them for the rest of the war. No published account names the officers who gave the order. The pictures were then placed in the National Archives, where few people saw them (National Coalition Against Censorship. Densho Encyclopedia says the War Relocation Authority kept most of them from public view). In 2006 the historians Linda Gordon and Gary Okihiro published a selection in the book *Impounded*. `rights-movements` leads on the camps themselves.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="American modernism and regionalism" -->
-Georgia O'Keeffe; Edward Hopper; Grant Wood's *American Gothic*, 1930 [VERIFY]. Jacob Lawrence painted the *Migration Series*, sixty panels, in 1940 and 1941, while in his early twenties [VERIFY his age and the panel count].
+<!-- hb-zoom level="span" label="Painters of the 1930s and 1940s" -->
+- Grant Wood painted *American Gothic* in 1930. His models were his sister, Nan Wood Graham, and the family dentist, Byron McKeeby, standing before a house in Eldon, Iowa. It won $300 and a bronze medal at the Art Institute of Chicago. Some Iowans were angry, saying it made them look like "pinched, grim-faced, puritanical Bible-thumpers" (Wikipedia).
+- The Art Institute of Chicago bought Edward Hopper's *Nighthawks*, a picture of four people in an all-night diner, for $3,000 in May 1942 (Wikipedia).
+- In February and March 1943 the editors of the *Saturday Evening Post* printed Norman Rockwell's four paintings called the *Four Freedoms*. About 1.2 million people saw the paintings on a 16-city tour that sold $132 million in war bonds (Wikipedia).
+- Georgia O'Keeffe painted flowers close up in New York and, from 1929, the hills and bones of New Mexico (see her story below).
+- Jacob Lawrence painted the 60 panels of his *Migration Series* in 1940 and 1941, when he was 22 and 23 (see his story below).
+- In 1946 J. LeRoy Davidson, an art historian at the State Department, bought 79 modern American paintings for just under $50,000 and sent them to tour abroad as *Advancing American Art*. Members of Congress attacked the paintings, and President Harry Truman said, "If that's art, then I'm a Hottentot." By the end of April 1947 members of Congress had stopped the tour, cut off the State Department's art program and abolished Davidson's job. In 1948 the government sold the paintings by sealed bid, and three state universities in Alabama, Oklahoma and Georgia bought most of them (*Stedelijk Studies*, *The Independent*). "Hottentot" was a European insult for the Khoekhoe people of southern Africa.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Native artists after 1900" -->
-Maria Martinez and Julian Martinez at San Ildefonso Pueblo worked out the black-on-black pottery finish and taught it to others in the pueblo [VERIFY the dates and how the money was shared]. The painting studio at the Santa Fe Indian School opened in 1932 and set rules about what students were allowed to paint and in what style [VERIFY those rules — they are the honest part of the story].
+<!-- hb-zoom level="span" label="Native artists, the boarding schools, and the Studio" -->
+- Angel De Cora, a Ho-Chunk painter from Nebraska, was taken to a boarding school at Hampton, Virginia, as a child. She later said a strange white man asked her through an interpreter if she wanted a ride on a train, and at the end of the ride she was at Hampton. She did not see her mother for three years. As an adult she taught art at the Carlisle Indian School in Pennsylvania (Wikipedia).
+- Zitkala-Ša, a Yankton Dakota writer, published three essays about her childhood and her boarding school in the *Atlantic Monthly* in 1900, and the book *American Indian Stories* in 1921. `education` tells what the school staff did to her.
+- In 1932 a white teacher, Dorothy Dunn, opened a painting studio at the Santa Fe Indian School, a federal boarding school in New Mexico. She did not teach perspective, drawing from life or color theory. She taught one way of painting: flat shapes with dark outlines, showing dances, ceremonies and old stories. She believed it was the only true style for Native painters (Wikipedia).
+- Her former students disagreed about her. The Chiricahua Apache sculptor Allan Houser said, "she trained us all the same way... Her style lacked originality and creativity." Geronima Cruz Montoya of Ohkay Owingeh said Dunn "made us realize how important our own Indian ways were, because we had been made to feel ashamed of them." Montoya ran the Studio after Dunn left in 1937, until it closed in 1962 (Wikipedia).
+- In 1935 members of Congress voted to create the Indian Arts and Crafts Board inside the Interior Department to widen the market for Native-made art (Wikipedia).
+- In 1940 Lottie Queen Stamper, a basketry teacher of the Eastern Band of Cherokee Indians in North Carolina, found a photograph of Cherokee double-weave baskets that a colonial governor had taken to London in 1725. A double-weave basket is two baskets woven one inside the other. She spent two and a half days working out the pattern from the photograph, wove a copy from 500 cane splints, and taught it to her students. She called it "the happiest day of my life" (*Garland Magazine*).
+- At San Ildefonso Pueblo, Maria and Julian Martinez made black-on-black pottery from 1918 (see her story below).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="georgia-okeeffe" name="Georgia O'Keeffe" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="A book banned and burned, 1939" -->
+- John Steinbeck's *The Grapes of Wrath*, a novel about a family of Oklahoma farmers driven to California, came out on April 14, 1939. It was the best-selling book of that year (Wikipedia, citing *The New York Times*).
+- In August 1939 the Kern County Board of Supervisors in California voted 4 to 1 to take it out of the county's libraries and schools. One supervisor called it a "libel and lie." Bill Camp, who led a group of large landowners, had one of his workers, Clell Pruett, burn a copy in a trash can for a newspaper photographer. Pruett had not read it. The county librarian, Gretchen Knief, wrote to the supervisors: "Ideas don't die because a book is forbidden reading." The ban lasted a year and a half (NPR, on Rick Wartzman's history *Obscene in the Extreme*).
+- Laura Ingalls Wilder's Little House books came out from 1932 to 1943. `migration` tells the real family's moves.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="georgia-okeeffe" name="Georgia O'Keeffe" movie="Georgia O'Keeffe (1977)" kind="famous" status="verified" -->
 ### Georgia O'Keeffe
-> **Who:** Painter of flowers, bones, and the New Mexico landscape. · **When and where:** Wisconsin, Texas, New York, Abiquiu, 1887 to 1986 [VERIFY].
+> **Who:** Painter of flowers, bones and the hills of New Mexico. · **When and where:** born November 15, 1887, on a dairy farm at Sun Prairie, Wisconsin. Texas, New York, and New Mexico from 1929. Died in Santa Fe on March 6, 1986. · **Movie:** *Georgia O'Keeffe* (1977), a documentary by Perry Miller Adato for public television, about her.
+
+- In April 1916 Alfred Stieglitz showed ten of her drawings at his gallery, 291. That fall she became head of the art department at a teachers' college in Canyon, Texas. She married Stieglitz in 1924 (Wikipedia).
+- From 1929 she spent summers painting in New Mexico. She bought an old adobe house at Abiquiu in 1945 and moved there for good in 1949, three years after Stieglitz died (Wikipedia).
+- By 1972 macular degeneration, an eye disease that destroys the center of a person's sight, had left her only her side vision. She stopped painting in oils without help that year and later worked in clay with an assistant (Wikipedia).
 <!-- hb-story:end slug="georgia-okeeffe" -->
-<!-- hb-story:start slug="dorothea-lange" name="Dorothea Lange" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="dorothea-lange" name="Dorothea Lange" movie="Dorothea Lange: Grab a Hunk of Lightning (2014)" kind="famous" status="verified" -->
 ### Dorothea Lange
-> **Who:** Photographer employed by the federal government. · **When and where:** California and the West in the 1930s; the Japanese American incarceration camps in 1942 [VERIFY].
+> **Who:** Photographer paid by the federal government to record poor families in the 1930s and the Japanese American incarceration in 1942. · **When and where:** born Dorothea Nutzhorn on May 26, 1895, in Hoboken, New Jersey. San Francisco from 1918. California and the West. Died October 11, 1965. · **Movie:** *Dorothea Lange: Grab a Hunk of Lightning* (PBS *American Masters*, 2014), about her.
 
-Research target: the 1942 photographs she made of the incarceration, which the Army impounded and did not release for decades [VERIFY; check whether `rights-movements` or `migration` leads on the camps before writing them here].
+- As a child she had polio, a disease of the nerves, and it left her with a limp for the rest of her life (Densho Encyclopedia).
+- In March 1936 she photographed Florence Owens Thompson and her children at Nipomo, California. Lange did not ask the woman's name. Thompson said later that Lange promised not to sell the pictures (Wikipedia).
+- In 1942 she photographed Japanese American families leaving their homes, the horse stalls turned into barracks at the Tanforan racetrack in San Bruno, and the Manzanar camp. Officials of the War Relocation Authority let her go on July 30, 1942. Army officers and Authority officials kept most of her more than 800 photographs out of public view (Densho, National Coalition Against Censorship).
+- On November 12, 1943, she wrote to the photographer Ansel Adams: "I fear the intolerance and prejudice is constantly growing" (Densho).
 <!-- hb-story:end slug="dorothea-lange" -->
-<!-- hb-story:start slug="jacob-lawrence" name="Jacob Lawrence" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="jacob-lawrence" name="Jacob Lawrence" movie="" kind="famous" status="verified" -->
 ### Jacob Lawrence
-> **Who:** Painter of the *Migration Series*. · **When and where:** New Jersey, Harlem, Seattle, 1917 to 2000 [VERIFY].
+> **Who:** Painter of the *Migration Series*. · **When and where:** born September 7, 1917, in Atlantic City, New Jersey. Philadelphia, Harlem from age 13, and Seattle. Died in Seattle on June 9, 2000.
+
+- After his parents divorced in 1924, he and his brother and sister lived with foster families in Philadelphia. At 13 he joined his mother in Harlem and took after-school art classes. Charles Alston taught him. Augusta Savage got him a scholarship and a paid place on the WPA art project (Wikipedia).
+- Before he was 23 he painted picture series on the lives of Toussaint L'Ouverture, Frederick Douglass and Harriet Tubman (Phillips Collection).
+- For *The Migration Series* he read about the Great Migration and wrote a caption for each panel first. Then he painted all 60 panels at once, one color at a time, so they would match. Each panel is 12 by 18 inches (Phillips Collection, Wikipedia).
+- The editors of *Fortune* magazine printed panels from the series in November 1941. The Phillips Collection in Washington bought the odd-numbered panels and the Museum of Modern Art in New York the even-numbered ones (Wikipedia).
 <!-- hb-story:end slug="jacob-lawrence" -->
-<!-- hb-story:start slug="augusta-savage" name="Augusta Savage" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="augusta-savage" name="Augusta Savage" movie="Searching for Augusta Savage (2024)" kind="famous" status="verified" -->
 ### Augusta Savage
-> **Who:** Sculptor and teacher in Harlem. · **When and where:** Florida, Harlem, Paris, 1892 to 1962 [VERIFY].
+> **Who:** Sculptor and art teacher in Harlem. · **When and where:** born Augusta Christine Fells on February 29, 1892, in Green Cove Springs, Florida. Harlem from the 1920s. A farm at Saugerties, New York, from about 1940. Died in New York City on March 27, 1962. · **Movie:** *Searching for Augusta Savage* (PBS *American Masters* short, 2024), about her.
 
-Research targets: the 1923 French scholarship withdrawn after the selection committee learned she was Black, and what was said at the time [VERIFY the account and quote the record]; the school she ran and who studied there; the destruction of the 1939 World's Fair sculpture.
+- Her father, a Methodist minister, beat her for making clay figures, which he believed were sinful (Wikipedia).
+- In 1923 she was accepted for a summer art school at Fontainebleau, France. The American committee that chose the students took her place away when it learned she was Black. She told the *New York World*: "My brother was good enough to be ... [in a] regiment that saw service in France during the war, but it seems his sister is not good enough to be a guest of the country for which he fought" (Encyclopedia.com). One committee member, the sculptor Hermon MacNeil, then taught her himself (Wikipedia).
+- In 1934 she opened a school in a basement on West 143rd Street. Jacob Lawrence, Gwendolyn Knight and Norman Lewis studied with her. In 1935 she helped start the Harlem Artists Guild. In 1937 she became the first director of the Harlem Community Art Center, where 70,592 children and adults took classes in its first sixteen months (Wikipedia, Living New Deal).
+- The organizers of the 1939 New York World's Fair hired her to make a sculpture. She made *Lift Every Voice and Sing*, a harp 16 feet tall whose strings are twelve Black singers. Fair officials renamed it *The Harp*. It was made of plaster. When the fair closed in 1940 she had no money to cast it in bronze or to move and store it, and it was destroyed with the fair's other temporary works. The records do not say who gave the order. Small metal souvenir copies survive (Wikipedia).
 <!-- hb-story:end slug="augusta-savage" -->
-<!-- hb-story:start slug="zora-neale-hurston" name="Zora Neale Hurston" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="zora-neale-hurston" name="Zora Neale Hurston" movie="Zora Neale Hurston: Jump at the Sun (2008)" kind="famous" status="verified" -->
 ### Zora Neale Hurston
-> **Who:** Novelist and folklorist. · **When and where:** Florida, Harlem, Haiti, 1891 to 1960 [VERIFY].
+> **Who:** Novelist and folklorist, a person who collects the stories, songs and sayings people pass along by word of mouth. · **When and where:** born January 7, 1891, in Notasulga, Alabama. Grew up in Eatonville, Florida. Harlem, Haiti and Jamaica. Died in Fort Pierce, Florida, on January 28, 1960. · **Movie:** *Zora Neale Hurston: Jump at the Sun* (PBS *American Masters*, 2008), about her.
 
-She interviewed Kossola, also called Cudjo Lewis, in 1927; `slavery-freedom` leads on that interview. This chapter takes her books and the folklore collecting, and the fact that she died with her books out of print and was buried in an unmarked grave [VERIFY both].
+- Eatonville, founded in 1887, was the first town in the country incorporated by Black Americans, according to the official Hurston website (zoranealehurston.com).
+- She collected Black folktales in Florida for *Mules and Men* (1935) and wrote *Their Eyes Were Watching God* (1937). In 1938 and 1939 she collected stories and songs in Florida for the Federal Writers' Project. In 1927 she interviewed Kossola, also called Cudjo Lewis, one of the last survivors of the Africans brought to the United States illegally on a slave ship in 1860. `slavery-freedom` tells that interview.
+- The most she was ever paid in royalties for one book was $943.75 (zoranealehurston.com).
+- After a stroke she entered the St. Lucie County Welfare Home in October 1959, and she died there. Her neighbors in Fort Pierce collected money for her funeral, but not enough for a headstone. A man hired to clean her house began burning her papers, and a friend, the deputy Patrick DuVal, put out the fire. Her grave in a segregated cemetery had no marker until August 1973, when the novelist Alice Walker placed one (zoranealehurston.com, Wikipedia, University of Florida).
 <!-- hb-story:end slug="zora-neale-hurston" -->
-<!-- hb-story:start slug="maria-martinez" name="Maria Martinez" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="maria-martinez" name="Maria Martinez" movie="Maria Martinez: Indian Pottery of San Ildefonso (1972)" kind="famous" status="verified" -->
 ### Maria Martinez
-> **Who:** Potter at San Ildefonso Pueblo, New Mexico. · **When and where:** San Ildefonso, about 1887 to 1980 [VERIFY her birth year — sources give it differently].
+> **Who:** Potter at San Ildefonso Pueblo, a Tewa town in New Mexico. · **When and where:** born Maria Poveka Montoya at San Ildefonso, probably in 1887 (sources give 1886 or 1887). Died there on July 20, 1980. · **Movie:** *Maria Martinez: Indian Pottery of San Ildefonso* (1972), a short film of her and her son Popovi Da making pottery.
+
+- Her aunt Nicolasa taught her to make pots by hand. Between 1907 and 1909 the archaeologist Edgar Lee Hewett asked her to copy old pots dug up near the pueblo. She shaped the pots and her husband, Julian Martinez, painted them (Wikipedia, U.S. State Department).
+- The black color comes from the fire. The potters smother the burning fuel with dried manure, and the smoke turns the clay black. In 1918 Julian finished the first pot with a dull black design on a shining black surface. Potters at nearby Santa Clara Pueblo had made polished black pots since the 1600s (Wikipedia, State Department).
+- Pottery was women's work at San Ildefonso, so at first she signed only her own name, "Marie." From 1925 until Julian died in 1943 the pots were signed "Marie + Julian." Later she signed with her daughter-in-law Santana and her son Popovi Da (Wikipedia).
+- In 1932 officials at the Santa Fe Indian School asked her to teach. She said no: "I come and I work and they can watch ... nobody teaches" (Wikipedia).
 <!-- hb-story:end slug="maria-martinez" -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="art" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="art" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-After 1945 the buyers, the galleries, and the arguments about painting were in New York rather than Paris. Paintings got very large and stopped showing recognizable things; then they went back to showing soup cans and comic panels. Artists who were kept out of galleries painted on walls instead.
+From 1950 to 2000, New York painters made pictures that showed no objects at all, and officers of the CIA secretly paid to send some of those paintings to Europe. In the 1960s other artists painted soup cans and comic strips, and prices climbed: a painting Robert Rauschenberg sold for $900 went for $85,000 at auction in 1973. Black and Chicano artists painted murals on neighborhood walls and bridge pillars, and women and Black artists protested at museums that left them out. In 1987 families and friends laid 1,920 quilt panels on the National Mall for people who had died of AIDS. In 1989 and 1990 members of Congress fought over whether public money should pay for art they called offensive. In 1990 members of Congress passed laws to protect Native artists' work and to return Native remains and objects taken from graves.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Abstract Expressionism" -->
-Jackson Pollock laid canvas on the floor and poured and flung paint onto it [VERIFY when he began and what he called the method]. Lee Krasner, Willem de Kooning, Mark Rothko. Find who first said the center of the art world had moved to New York, and when [VERIFY].
+<!-- hb-zoom level="span" label="Abstract Expressionism, and the CIA" -->
+- Jackson Pollock laid his canvas on the floor and dripped and poured paint onto it, mostly from 1947 to 1950. Lee Krasner, Willem de Kooning, Mark Rothko and Robert Motherwell were other painters in New York whose pictures showed no recognizable things. Critics called this Abstract Expressionism (Wikipedia).
+- In 1948 the critic Clement Greenberg wrote that "the main premises of Western art have at last migrated to the United States" (*Partisan Review*, as quoted by later writers).
+- In 1995 the historian Frances Stonor Saunders reported in the British newspaper *The Independent* that officers of the Central Intelligence Agency (CIA), the government's spy agency, had helped promote this painting abroad during the Cold War. A former CIA officer, Donald Jameson, told her that he and other officers saw that such free, wild painting "made Socialist Realism look even more stylised and more rigid," Socialist Realism being the official art of the Soviet Union. The money went "at two or three removes" through the Congress for Cultural Freedom, a group CIA officers set up in 1950, which paid for touring shows such as "The New American Painting" in European cities in 1958 and 1959. The painters did not know.
+- Historians disagree about how much this mattered. The art historian Jennifer McComas writes that the claims hold "some truth" but that some writers made factual errors and picked only the exhibitions that fit their argument (*Stedelijk Studies*). No source gives a dollar figure for the painting shows.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Pop Art and the price of a painting" -->
-Andy Warhol printed the same image over and over and called his studio a factory [VERIFY dates]. Roy Lichtenstein painted enlarged comic panels. Give real auction figures with dates and the works they were paid for, rather than saying prices rose [VERIFY].
+<!-- hb-zoom level="span" label="Pop Art, and the price of a painting" -->
+- Roy Lichtenstein painted comic-strip scenes in oil. *Look Mickey* (1961), four feet tall, is now in the National Gallery of Art in Washington (Wikipedia).
+- Andy Warhol showed 32 paintings of Campbell's soup cans in Los Angeles in July 1962. The dealer Irving Blum bought all 32 for $1,000, paid $100 a month. In 1970 one of Warhol's soup-can paintings sold at auction for $60,000, then a record for a living American artist (Wikipedia).
+- On October 18, 1973, the taxi-fleet owner Robert Scull sold 50 works from his collection at auction in New York for about $2.2 million. Rauschenberg had sold his painting *Thaw* to Scull for $900, and that night it sold for $85,000. The artist received nothing from the resale. Rauschenberg shoved Scull and said he had been working hard so that Scull could make that profit (*Village Voice*, *The Art Newspaper*).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Art made as protest" -->
-The Black Arts Movement of the 1960s. The Chicano mural movement, including the murals painted on the bridge pillars at Chicano Park in San Diego from 1970 [VERIFY]. Faith Ringgold's story quilts. Judy Chicago's *The Dinner Party*, 1979, and the argument over it [VERIFY]. The AIDS Memorial Quilt was first shown on the National Mall in October 1987; give the number of panels then and the number now, and say what each panel is [VERIFY both figures]. The 1989 and 1990 fights in Congress over public money for art, and what was actually at issue [VERIFY].
+<!-- hb-zoom level="span" label="Walls, bridges and museums: art made as protest" -->
+- In 1967 fourteen artists of the Organization of Black American Culture, including William Walker, painted the *Wall of Respect* on an empty tavern at 43rd Street and Langley Avenue in Chicago. It showed Nat Turner, Harriet Tubman, W. E. B. Du Bois, Malcolm X, Muhammad Ali, Aretha Franklin and others. In the next eight years artists painted more than 1,500 murals across the country. After a fire in 1971 the building was torn down, and the mural with it. The records do not say who ordered the demolition (Wikipedia).
+- Faith Ringgold and other artists protested at the Whitney Museum of American Art in New York because its big show of modern art left out women and Black artists. After more protests she was arrested on November 13, 1970 (see her story below).
+- In San Diego, highway builders cut the Mexican American neighborhood of Barrio Logan in two with Interstate 5 in 1963 and with the ramps of the Coronado Bridge in 1969. City officials promised a park under the bridge and did not build it. On April 22, 1970, a student, Mario Solis, saw bulldozers there preparing a parking lot for a Highway Patrol station. Residents took over the land until the city agreed to the park. On March 23, 1973, the artist Victor Ochoa brought 300 brushes, and nearly 300 people spent the weekend painting murals on the bridge pillars. The artists paid for the paint and supplies themselves (Wikipedia).
+- In 1979 Judy Chicago finished *The Dinner Party*, a triangular table set with 39 hand-painted plates for 39 women from history and legend, among them Sacajawea, Sojourner Truth and Susan B. Anthony. The critic Hilton Kramer called it "failed art." The writer Alice Walker objected that the one Black woman at the table, Sojourner Truth, was shown differently from the white women. It is now at the Brooklyn Museum (Wikipedia).
+- On September 15, 1983, New York City Transit Police officers arrested Michael Stewart, a 25-year-old Black artist, for writing graffiti in a subway station. He fell into a coma in their custody and died 13 days later. An all-white jury acquitted six officers in 1985. The painter Jean-Michel Basquiat, who had started out writing graffiti himself, painted *Defacement (The Death of Michael Stewart)* (Wikipedia). `crime-justice` leads on the death.
+- Keith Haring drew in white chalk on the black paper covering empty advertising frames in New York subway stations in the early 1980s (Wikipedia).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Native and Asian American artists" -->
-Fritz Scholder and T. C. Cannon painted Native subjects in ways that were argued about inside Native art circles; state both sides of that argument rather than one [VERIFY]. The Indian Arts and Crafts Act of 1990 made it illegal to sell work as Native-made when it was not [VERIFY the penalties]. Maya Lin won the competition for the Vietnam Veterans Memorial in 1981 with an anonymous entry, one of 1,421, and she was twenty-one [VERIFY every number; `landmarks` leads on the memorial as a place and on what was said about her afterward].
+<!-- hb-zoom level="span" label="The AIDS Memorial Quilt, 1987" -->
+- In 1985 Cleve Jones, a San Francisco activist, learned that more than 1,000 people in his city had died of AIDS. He made the first quilt panel for his friend Marvin Feldman, and in June 1987 he and others formed the NAMES Project (National AIDS Memorial).
+- Each panel is three feet by six feet, about the size of a grave. Families and friends sewed one panel for each person who died. Many of the dead had no funeral, because their families were ashamed or because funeral homes and cemeteries refused to take their bodies (Wikipedia).
+- On October 11, 1987, volunteers laid 1,920 panels on the National Mall in Washington and read all 1,920 names aloud. About half a million people came that weekend. In October 1996 the whole quilt covered the Mall one last time. As of 2026 it has nearly 50,000 panels for more than 110,000 people and weighs 54 tons (National AIDS Memorial). `health` leads on the disease.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Fights over public money for art, 1989 and 1990" -->
+- The National Endowment for the Arts (NEA) is a federal agency. Its staff and expert panels hand out grants to artists and museums. In 1989 Senators Jesse Helms and Al D'Amato attacked a $15,000 award, paid partly with NEA money, to the photographer Andres Serrano. His 1987 photograph showed a small plastic crucifix in a glass of his own urine. Serrano received death threats (Wikipedia).
+- In June 1989 Christina Orr-Cahall, director of the Corcoran Gallery of Art in Washington, cancelled a show of Robert Mapplethorpe's photographs, some of them sexual, because she feared members of Congress would cut the NEA's money. Mapplethorpe had died of AIDS that March. Helms then proposed barring NEA money from "obscene" art, and for a time artists who took grants had to sign a promise not to make it (Wikipedia).
+- In 1990 police in Cincinnati sent 400 visitors out of the Contemporary Arts Center and videotaped the Mapplethorpe photographs. Prosecutors charged the museum and its director, Dennis Barrie, with obscenity. It was the first time a museum in the country was put on trial for art it showed. A jury found them not guilty on October 5, 1990 (Wikipedia).
+- In June 1990 the NEA chairman, John Frohnmayer, turned down grants to four performance artists, Karen Finley, Tim Miller, John Fleck and Holly Hughes, after expert panels had approved them. The four won in court in 1993. In 1998 the justices of the Supreme Court ruled in favor of the NEA's way of choosing grants (Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Native artists and Native objects" -->
+- In 1958 the judges of the Philbrook Museum's Indian art show in Tulsa rejected a painting by Oscar Howe, a Yanktonai Dakota painter, as "a fine painting, but not Indian." Howe wrote back: "Are we to be herded like a bunch of sheep, with no right for individualism, dictated as the Indian has always been" (Smithsonian Magazine).
+- The Institute of American Indian Arts opened in Santa Fe in 1962. From 1967 Fritz Scholder, a Luiseño painter who taught there, painted Native people with beer cans, American flags and cats. People have argued about these paintings ever since, Native artists among them. The Cherokee painter Roy Boney Jr. said of *Indian with Beer Can* (1969): "While some might find the image offensive or even ugly, it definitely was not a maiden on the river or a warrior on horseback, and I liked that" (Wikipedia, Denver Art Museum).
+- T. C. Cannon, a Kiowa and Caddo painter, studied at the Institute, served as a paratrooper in Vietnam in 1967 and 1968, and died in 1978 at 31 (Wikipedia).
+- In 1990 members of Congress passed the Indian Arts and Crafts Act. A person who sells work as Native-made when it is not can be fined up to $250,000 or jailed for five years for a first offense, and a business can be fined up to $1,000,000 (Indian Arts and Crafts Board).
+- On November 16, 1990, President George H. W. Bush signed the Native American Graves Protection and Repatriation Act, called NAGPRA. Museums and agencies that take federal money must return Native human remains, grave goods and sacred objects to descendants and nations. `native-nations` leads. The 2024 rules belong to the next era.
+- In 1992 the artist Fred Wilson rearranged the collection of the Maryland Historical Society in Baltimore for a show called *Mining the Museum*. He put iron slave shackles in a case of fine silver. Reporters for several newspapers wrote that a whipping post he showed had been used on enslaved people. The post had been used at the Baltimore City jail on men convicted of beating their wives (Wikipedia).
+- In 1981 Maya Lin, a 21-year-old student, won the contest for the Vietnam Veterans Memorial over 1,421 other entries, all judged by number without names. `landmarks` tells her story (slug `maya-lin`).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Photographs and books" -->
-Robert Frank's *The Americans* was published in France in 1958 and in the United States in 1959 [VERIFY]. Gordon Parks photographed for Life magazine [VERIFY his years there]. Ralph Ellison's *Invisible Man*, 1952; James Baldwin; Toni Morrison, who won the Nobel Prize in Literature in 1993 [VERIFY]; Maya Angelou.
+- Robert Frank, a photographer from Switzerland, drove across the country on a fellowship he won in 1955. A sheriff in the South told him he had "an hour to leave town." His book *The Americans* came out in Paris in 1958 and in New York in 1959. A reviewer for *Popular Photography* called his pictures "meaningless blur, grain, muddy exposures, drunken horizons and general sloppiness" (Wikipedia).
+- Norman Rockwell painted six-year-old Ruby Bridges walking into her New Orleans school on November 14, 1960, between four federal marshals, past a wall with a racial slur and a smashed tomato. The editors of *Look* magazine printed *The Problem We All Live With* on January 14, 1964 (Wikipedia). `education` tells Ruby Bridges's story.
+- Ralph Ellison's *Invisible Man* (1952) won the National Book Award in 1953. James Baldwin published *Go Tell It on the Mountain* in 1953. Lorraine Hansberry's play *A Raisin in the Sun* opened on Broadway on March 11, 1959. Maya Angelou published *I Know Why the Caged Bird Sings* in 1969 (Wikipedia). `storytelling-evolution` takes Hansberry's play on stage.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="jackson-pollock" name="Jackson Pollock" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="jackson-pollock" name="Jackson Pollock" movie="Pollock (2000)" kind="famous" status="verified" -->
 ### Jackson Pollock
-> **Who:** Painter. · **When and where:** Wyoming, New York, Long Island, 1912 to 1956 [VERIFY].
+> **Who:** Painter who dripped and poured paint onto canvas laid on the floor. · **When and where:** born January 28, 1912, in Cody, Wyoming. New York City, then Springs, on Long Island. Died there on August 11, 1956. · **Movie:** *Pollock* (2000), a feature film directed by and starring Ed Harris, about him.
+
+- He married the painter Lee Krasner in 1945 (Wikipedia).
+- In 1947 he explained his method: "I prefer to tack the unstretched canvas to the hard wall or the floor.... On the floor I am more at ease. I feel nearer, more a part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting." He compared it to the sand paintings made by Native painters in the West (*Possibilities*, winter 1947-48).
+- On August 8, 1949, the editors of *Life* magazine asked in a headline: "Jackson Pollock: Is he the greatest living painter in the United States?" (Wikipedia).
+- On August 11, 1956, he drove his car while drunk and crashed less than a mile from his home. He was killed, and so was his passenger Edith Metzger. A second passenger, Ruth Kligman, survived (Wikipedia).
 <!-- hb-story:end slug="jackson-pollock" -->
-<!-- hb-story:start slug="andy-warhol" name="Andy Warhol" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="andy-warhol" name="Andy Warhol" movie="Andy Warhol: A Documentary Film (2006)" kind="famous" status="verified" -->
 ### Andy Warhol
-> **Who:** Printmaker and painter; ran a studio called the Factory. · **When and where:** Pittsburgh and New York, 1928 to 1987 [VERIFY].
+> **Who:** Painter and printmaker who copied soup cans, money and movie stars. His studio was called the Factory. · **When and where:** born Andrew Warhola Jr. on August 6, 1928, in Pittsburgh. New York. Died in New York on February 22, 1987. · **Movie:** *Andy Warhol: A Documentary Film* (2006), by Ric Burns for PBS, about him.
 
-His films belong to `storytelling-evolution`, not here.
+- His parents were working-class Rusyn immigrants from what is now Slovakia. His father worked in a coal mine (Wikipedia).
+- He started as a commercial artist in New York, drawing for advertisements, before he showed paintings in galleries (Wikipedia).
+- He printed pictures with silkscreens, a stencil method that lets an artist print the same image again and again. He made his *Marilyn Diptych* that way in 1962 (Wikipedia).
+- On June 3, 1968, the writer Valerie Solanas walked into the Factory and shot him and the critic Mario Amaya. Warhol was in the hospital for nearly two months (Wikipedia).
+- His films belong to `storytelling-evolution`.
 <!-- hb-story:end slug="andy-warhol" -->
-<!-- hb-story:start slug="gordon-parks" name="Gordon Parks" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="gordon-parks" name="Gordon Parks" movie="Half Past Autumn: The Life and Works of Gordon Parks (2000)" kind="famous" status="verified" -->
 ### Gordon Parks
-> **Who:** Photographer; described as the first Black photographer on the Life magazine staff [VERIFY]. · **When and where:** Kansas, Washington, New York, 1912 to 2006 [VERIFY].
+> **Who:** Photographer, the first Black staff photographer at *Life* magazine. · **When and where:** born November 30, 1912, in Fort Scott, Kansas. Washington, D.C., from 1942. New York. Died in New York on March 7, 2006. · **Movie:** *Half Past Autumn: The Life and Works of Gordon Parks* (HBO, 2000), about him.
 
-Keep this block on the photographs, including the 1942 Washington portrait he titled *American Gothic* [VERIFY]. His films go to `storytelling-evolution`.
+- He was the youngest of 15 children and went to a segregated elementary school. He bought his first camera at a pawnshop and taught himself to use it (Wikipedia, Gordon Parks Foundation).
+- In 1942 he won a Rosenwald fellowship and went to work for the Farm Security Administration in Washington. He met racism again and again in the restaurants and shops of the segregated capital. He then photographed Ella Watson, a Black woman who cleaned the agency's building, holding a broom in front of an American flag, and titled it *American Gothic, Washington, D.C.* His boss, Roy Stryker, said the picture was an indictment of America that could get all his photographers fired (Wikipedia).
+- In 1948 he published a photo essay on a young Harlem gang leader, and *Life*'s editors hired him to the staff. He worked for the magazine until 1972, photographing poverty, segregation, fashion, Malcolm X and Muhammad Ali (Gordon Parks Foundation, Wikipedia).
+- His films belong to `storytelling-evolution`.
 <!-- hb-story:end slug="gordon-parks" -->
-<!-- hb-story:start slug="faith-ringgold" name="Faith Ringgold" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="faith-ringgold" name="Faith Ringgold" movie="" kind="famous" status="verified" -->
 ### Faith Ringgold
-> **Who:** Painter and quilt maker; also wrote children's books. · **When and where:** Harlem and New Jersey, 1930 to 2024 [VERIFY].
-<!-- hb-story:end slug="faith-ringgold" -->
-<!-- hb-story:start slug="toni-morrison" name="Toni Morrison" movie="" kind="famous" status="candidate" -->
-### Toni Morrison
-> **Who:** Novelist and editor. · **When and where:** Ohio, New York, Princeton, 1931 to 2019 [VERIFY].
+> **Who:** Painter and quilt maker who also wrote and illustrated children's books. · **When and where:** born Faith Willi Jones on October 8, 1930, in Harlem. New York City. Died in Englewood, New Jersey, on April 13, 2024.
 
-Research target: the years she worked as an editor publishing other Black writers before her own novels sold [VERIFY which books she acquired].
+- She taught art in New York City public schools (Wikipedia).
+- In 1967 she painted *The Flag Is Bleeding* and *Die* in a series called *The American People* (Wikipedia).
+- With the critic Lucy Lippard and the artist Poppy Johnson she protested at the Whitney Museum, demanding that half the artists in its shows be women. Its show had no Black artists at all, not even Jacob Lawrence, whose work the museum owned. She was arrested on November 13, 1970 (Wikipedia).
+- From the 1980s she painted stories on quilts. *Tar Beach 2* (1990) tells of Cassie Louise Lightfoot, an eight-year-old girl who dreams of flying over her Harlem apartment building (Wikipedia).
+<!-- hb-story:end slug="faith-ringgold" -->
+<!-- hb-story:start slug="toni-morrison" name="Toni Morrison" movie="Toni Morrison: The Pieces I Am (2019)" kind="famous" status="verified" -->
+### Toni Morrison
+> **Who:** Novelist and book editor. · **When and where:** born Chloe Ardelia Wofford on February 18, 1931, in Lorain, Ohio. Syracuse and New York City. Died in the Bronx on August 5, 2019. · **Movie:** *Toni Morrison: The Pieces I Am* (2019), directed by Timothy Greenfield-Sanders, about her.
+
+- In 1965 she began working as an editor for a textbook company owned by Random House in Syracuse, New York. Two years later she moved to Random House in New York City, where she was the first Black woman senior editor in its fiction department (Wikipedia).
+- As an editor she published books by the novelist Gayl Jones, whose writing she discovered, the writer Toni Cade Bambara, the activist Angela Davis and the boxer Muhammad Ali. She put together *The Black Book* (1974), a collection of pictures and papers about Black life from slavery to the 1920s (Wikipedia).
+- Her first novel, *The Bluest Eye*, came out in 1970. While working on *The Black Book* she found the story of Margaret Garner, an enslaved woman who escaped and, when slave catchers caught up with her, killed her two-year-old daughter rather than let slave catchers take her back. That story became the novel *Beloved* (1987), which won the Pulitzer Prize (Wikipedia).
+- In 1993 she won the Nobel Prize in Literature (Wikipedia).
 <!-- hb-story:end slug="toni-morrison" -->
 <!-- hb-time:end id="1950-2000" -->
 
