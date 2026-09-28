@@ -3169,3 +3169,8 @@ RESULT: LANDED. FAIL  styles / research. measured: stage=PARTIAL eras=10/10 stor
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+
+### 2026-09-27 | [LOCAL] T-272b | styles: full research eras 6-8 [BURST] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-272-styles.md
+VERIFY: python tools/project_state.py --check styles --stage research
