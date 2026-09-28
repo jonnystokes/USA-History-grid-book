@@ -1,13 +1,13 @@
 # CHECKPOINT T-266 | drugs-alcohol | full | T-266a: eras 1-5 | T-266b: eras 6-8 | T-266c: eras 9-10
 
-STATUS: T-266b landed (director verified: FAIL  drugs-alcohol / research)
+STATUS: T-266c landed (director verified: PASS  drugs-alcohol / research)
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/drugs-alcohol.md · research/research-drugs-alcohol.md · workspace/drugs-alcohol.md
 
-NOW:    (idle) T-266b finished eras 06-08 and the bank check for them.
-NEXT:   T-266c: research eras 09-10 (outline + bank, one era at a time), clear their 4 [VERIFY] and 3 targets, bank check for 09-10, then set every progress= and the hb-note Status to RESEARCHED and run the final check. Do not redo eras 01-08. Read '## BANK CHECK, eras 06 to 08' at the end of the bank first. Carry-overs: Courtwright 1992 (NCBI NBK234755 via Wayback) covers narcotic policy to 1990 incl. Anslinger to 1962, Lexington to the 1960s; CDC MMWR 1999 tobacco (4,345 per capita 1963, 1964 Surgeon General report); FJC 'Native Prohibition' (1953 repeal era 09); Hamm/The Conversation 2026; NIAAA #122; big-business parked Purdue Pharma (era 10); AA 2021 membership (refresh); heroin 1924 ban SEARCHED NOT FOUND (look again); 'jake leg' and poisoned alcohol done in era 08.
+NOW:    (idle) T-266c finished eras 09-10, the bank check for them, and the chapter's final checks.
+NEXT:   Director: verify with the research check (PASS at T-266c end), commit, file the TO PARK (T-266c) items. Chapter is RESEARCHED; next step is writing.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -40,6 +40,26 @@ FAIL  drugs-alcohol / research
 | B3 | era 08 1900-1950: outline + bank, target-prohibition-agent-or-speakeasy-operator, Carry Nation | done | target -> Izzy Einstein (verified, movie Izzy and Moe 1985); Carry Nation verified here |
 | B4 | bank check, eras 6-8 | done | '## BANK CHECK, eras 06 to 08': 2 PATCH (land, named actors) + 1 SEARCHED NOT FOUND (heroin 1898-1924); era 08 has 2 more SNF (poison-order signer, agents killed) |
 | B5 | validator + research check, set NEXT for T-266c | done | validator 0 errors; research check FAILS only on eras 09-10 (3 targets, 4 [VERIFY]) as expected |
+
+## Units, T-266c (eras 9-10)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| C1 | era 09 1950-2000: outline + bank, clear [VERIFY], resolve target-person-in-recovery-late and target-tobacco-whistleblower | done | outline era 09 rewritten (8 spans + stories jeffrey-wigand-drugs-alcohol (The Insider 1999) and betty-ford-drugs-alcohol, both verified); both targets removed; [VERIFY] 1964 report and 1984 drinking age cleared. Bank '## 09 · 1950 to 2000' under '# THE BANK: T-266c' + 1 SNF (1990s overdose counts). Validator 0 errors |
+| C2 | era 10 2000-today: outline + bank, clear [VERIFY], resolve target-person-in-recovery-or-bereaved-family, refresh every figure to 2026 | done | outline era 10 rewritten (7 spans + story nan-goldin-drugs-alcohol, verified from her Artforum 2018 essay, movie All the Beauty and the Bloodshed 2022); target removed; [VERIFY] cannabis 2012 cleared. Bank '## 10 · 2000 to Today' + 1 SNF (named ordinary bereaved family for a story) |
+| C3 | bank check, eras 9-10 | done | '## BANK CHECK, eras 09 to 10': 1 PATCH (Clarence Busch, the driver who killed Cari Lightner, UPI 1985; outline now names him) + 2 SNF (EVALI liquid makers; cause of highest Native overdose rate) + firsts and perishables list |
+| C4 | final: every era's progress= flag, hb-note Status, validator, research check | done | all 10 eras progress=researched; hb-note Status RESEARCHED; validator 0 errors; research check PASS |
+
+## TO PARK (T-266c)
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
+- `big-business`, 1950-2000: OxyContin approval, Curtis Wright IV's label and move to Purdue, "less than one percent," 670,000 to 6.2 million prescriptions 1997-2002, Richard Sackler president 1999 (Wikipedia "Purdue Pharma"). Bank era 09.
+- `big-business` and `crime-justice`, 2000-today: Purdue sentenced 28 Apr 2026 by Judge Madeline Cox Arleo, $5.5 billion, $225 million collected, "Your government failed you," Ed Bisch and Alexis Pleus (CNBC/Reuters 29 Apr 2026); Purdue shut down 1 May 2026, Knoa Pharma, Sackler payment schedule (NY AG 1 May 2026); AlixPartners $10.7 billion; Harrington v. Purdue 27 Jun 2024; national settlements (distributors $21B, J&J $5B, Teva, Allergan, CVS, Walgreens, Walmart). Refreshes big-business's 2025 end point. Bank era 10.
+- `crime-justice`, 2000-today: fentanyl makers (Sinaloa and Jalisco New Generation cartels, chemicals from Chinese companies, fake pills), CRS IF10400 Aug 2025. Bank era 10.
+- `health`, 2000-today: EVALI 2,807 hospitalized or dead, 68 deaths, vitamin E acetate (CDC); Surgeon General alcohol-cancer advisory 3 Jan 2025 (100,000 cancers, 20,000 deaths); Dietary Guidelines 7 Jan 2026 dropped the 1-and-2-drink limits; overdose final 2024 79,384 and 2024 rates by race (Data Brief 549, Jan 2026: AI/AN 51.6). Bank era 10.
+- `native-nations`, 1950-2000: Public Law 277, 15 Aug 1953 (67 Stat. 586), ended federal Indian liquor laws outside Indian country and gave tribes local option by ordinance. Bank era 09.
+- `government-politics`, 1950-2000 and 2000-today: Nixon's 17 June 1971 remarks (UCSB transcript, $155M new, over $350M total, Jaffe); National Minimum Drinking Age Act 17 Jul 1984 (Lautenberg); EO 14370 (18 Dec 2025) and the 28 Apr 2026 Schedule III order for state-licensed medical marijuana, DEA hearing from 29 Jun 2026 (Federal Register). Banks eras 09-10.
+- `crime-justice`, 1950-2000: Clarence Busch, who killed Cari Lightner 3 May 1980, 2-year sentence, paroled after 9 months (UPI 1985). Bank check 09-10 PATCH.
 
 ## SUBJECT NOTES (from the director)
 
@@ -336,7 +356,22 @@ Pages the killed agent fetched (219; re-read the useful ones rather than searchi
 - Seed target tavern keeper -> Samuel Cole (Drake). Added Robert Coles (red D, 1634) as a second ordinary story.
 - Seed 1500s claim 'alcohol used deliberately in trade with Native nations' is wrong for the 1500s: Mancall dates the real trade from ~1650. Removed from era 02, SEARCHED NOT FOUND recorded, moved to era 03.
 
+## Sources in hand (T-266c)
+- NIAAA #122 PDF (Table 1, 1850-2023): https://www.niaaa.nih.gov/sites/default/files/surveillance-report122.Per-Capita-Consumption.pdf (curl + pypdf).
+- CDC NCHS Data Briefs 356, 428, 522, 549 (htm pages open with WebFetch). CDC VSRR provisional via research-health.md (T-263 pulled 2026-09-27).
+- UCSB American Presidency Project (Nixon 17 June 1971). Ford Library Betty Ford biography. MADD 'our-history'. UPI 1985 archive (Busch). CSM 1995 and PBS Frontline timeline (Wigand).
+- CNBC 2026 Purdue sentence (curl + browser UA; NPR timed out). NY AG 1 May 2026. National Opioid Settlement executive summary. CRS IF10400 PDF (congress.gov curl works; HTML 403). Federal Register API (https://www.federalregister.gov/api/v1/documents/<num>.json) works where the site redirects.
+- Artforum Jan 2018 Goldin essay (curl + browser UA; WebFetch redirects). The Art Newspaper 2018, 2021. NCSL medical cannabis page (updated 2 Sep 2026). Gallup 2025 and 2026. CDC FastStats smoking. FDA NYTS 2025 and Tobacco 21. CDC archive EVALI and NYTS 2019. NIDA MTF Dec 2025. CDC alcohol facts. NPR 2025 Murthy (curl). The Hill Jan 2026 (curl).
+- Blocked: vanityfair.com, dea.gov (403), getsmartaboutdrugs PDF (HTML), metmuseum.org (429).
+
+## Outline claims left out (T-266c)
+- Harper's Ehrlichman quote is in the outline only with the dispute. Robins Vietnam heroin follow-up study (not opened). Buprenorphine X-waiver end 2023 (SAMHSA page 404). EVALI makers and the cause of the Native overdose rate (SEARCHED, NOT FOUND). 1990s overdose counts (SNF). High school e-cig 7.1 percent (search summary only).
+
 ## Log
+- 2026-09-27 C1 era 09 DONE (T-266c): see Units table. Validator 0 errors.
+- 2026-09-27 C2 era 10 DONE (T-266c): see Units table. Validator 0 errors.
+- 2026-09-27 C3 bank check 09-10 DONE (T-266c). Workspace updated (shared events, famous names, verify queue, featured people, parking log).
+- 2026-09-27 C4 final DONE (T-266c): all ten progress flags researched; research check: PASS drugs-alcohol / research (stage=RESEARCHED eras=10/10 stories=14 (v14 c0 t0) verify_tags=0 bank=29862w outline=14971w validator_errors=0).
 - 2026-09-27 era 01 DONE: outline era 01 rewritten (3 spans, state thin, progress researched, no story: thin era with no named person). Bank section '## 01 · Before 1500' appended under '# THE BANK: T-266a'. Sources: Duke 2022 Nature Hum Behav (Wishbone tobacco), Brownstein 2020 (WA pipe), keepitsacred.itcmi.org (traditional tobacco), Crown 2012/2009/2015 PNAS (Black Drink, cacao), El-Seedi 2005 (Shumla peyote), Robinson 2020 PNAS (datura), Abbott 1996 AIANMHR PDF (alcohol before contact: Southwest only). Abstracts opened through the Europe PMC REST API (PubMed shows a captcha). [VERIFY] 'fermented drinks in the Southwest' cleared.
 - 2026-09-27 era 02 DONE: outline era 02 rewritten (2 spans + story thomas-hariot-drugs-alcohol, verified: Encyclopedia Virginia + DocSouth text of the Briefe and True Report + NPS Wingina). Bank '## 02 · The 1500s' appended with 1 SEARCHED NOT FOUND (Spanish alcohol gifts). 'First recorded smoking death' claim for Hariot rejected (popular sources only).
 - 2026-09-27 era 03 DONE: outline era 03 rewritten (4 spans + stories samuel-cole-drugs-alcohol, robert-coles-drugs-alcohol, both verified), target-tavern-keeper removed. Bank '## 03 · The 1600s' appended. Hudson/Juet 1609 drinking episode used (exploration tells the killings only).

@@ -2951,9 +2951,11 @@ CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
 
 ### 2026-09-27 | [LOCAL] T-266c | drugs-alcohol: full research eras 9-10, completes the chapter [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+RESULT: DONE. PASS  drugs-alcohol / research. measured: stage=RESEARCHED eras=10/10 stories=14 (v14 c0 t0) verify_tags=0 bank=29862w outline=14971w manuscript=0w validator_errors=0
+        354068 tokens, 142 tool uses, 18.4 min (opus). Eras 9-10, chapter COMPLETE. Nixon 1971 and its funding, LSD, crack and the 1986 law, MADD (Clarence Busch named), drinking age 21, 1953 end of the federal liquor ban on Native land, OxyContin 1996; overdoses by year to Apr 2026, fentanyl, Purdue and the Sacklers (Apr 2026 sentence, May 2026 shutdown), settlements, 24 legal-marijuana states and the Apr 2026 rescheduling, vaping. Stories: Jeffrey Wigand, Betty Ford, Nan Goldin. 4 searched-not-found. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-260b | religion: bank check eras 6-8 [BURST5] | model opus
 STATUS: DONE

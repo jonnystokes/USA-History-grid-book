@@ -3,7 +3,7 @@
 # Chapter 28: Drugs and Alcohol
 
 <!-- hb-note -->
-**Status:** PARTIAL: eras 01 to 08 researched 2026-09-27 (T-266a, T-266r, T-266b; bank checks for 01 to 05 and 06 to 08 done). Eras 09 and 10 still seed (T-266c).
+**Status:** RESEARCHED: all ten eras researched 2026-09-27 (T-266a, T-266r, T-266b, T-266c; bank checks for eras 01 to 05, 06 to 08 and 09 to 10 done). Present-day figures checked 2026-09-27.
 **Angle:** Intoxicants over time — alcohol and Prohibition, tobacco, other drugs, their use and control.
 **Keep out:** the law itself (`government-politics`); organized crime (`crime-justice`)
 **Workspace:** `workspace/drugs-alcohol.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -451,34 +451,129 @@ From 1920 to 1933 it was against federal law to make, sell or carry alcoholic dr
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="drugs-alcohol" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="drugs-alcohol" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Cigarettes are proved deadly, drugs become a political issue, and the drinking age goes up.
+In 1965, 42 of every 100 American adults smoked cigarettes. By 1997 the number was 25. Scientists had shown in the 1950s that smoking causes lung cancer, and in 1996 a fired tobacco scientist told a national TV audience that his company changed its tobacco to strengthen the effect of nicotine. Drinking rose to its highest level since Prohibition in 1981 and then fell. On 17 June 1971 President Richard Nixon called drug abuse "public enemy number one," and reporters named his program the war on drugs. In 1986 members of Congress and President Ronald Reagan added $1.7 billion to the fight against drugs and set the same prison term for 5 grams of crack cocaine as for 500 grams of powder cocaine. A mother whose daughter was killed by a drunk driver started Mothers Against Drunk Driving in 1980, and by 1988 every state had set the drinking age at 21. In 1996 a company owned by the Sackler family began selling a strong painkiller called OxyContin.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The smoking report, the War on Drugs, and MADD" -->
-The 1964 Surgeon General's report on smoking [VERIFY] and the long fight over tobacco advertising and warning labels; marijuana in the 1960s; the War on Drugs from the 1970s; crack cocaine in the 1980s and the sentencing disparity; the drinking age raised to 21 [VERIFY 1984]; Mothers Against Drunk Driving.
+<!-- hb-zoom level="span" label="How much people drank and smoked" -->
+- In 1950 Americans aged 15 and over drank an average of 2.04 gallons of pure alcohol each a year. It rose to 2.76 gallons in 1981, the highest since Prohibition, and fell to 2.15 gallons by 1995 (National Institute on Alcohol Abuse and Alcoholism). These figures come from sales, not from asking people what they drank.
+- Between 1974 and 1981, 68 to 71 of every 100 adults told Gallup pollsters that they drank alcohol.
+- Cigarettes reached their peak in 1963, at 4,345 a year for every adult. By 1998 the figure was 2,261 (Centers for Disease Control and Prevention). The CDC counted about 430,000 deaths a year from tobacco in the late 1990s, one of every five deaths in the country.
+- In the 1940s and 1950s Ernst Wynder and other scientists linked cigarettes to lung cancer. In 1964 a committee of experts for the Surgeon General, the nation's top public health doctor, concluded that smoking causes lung cancer. From 1971 cigarette ads were banned from radio and television.
+- Shared with: `health` (the 1964 report, the diseases and the 1998 settlement, lead) · `big-business` (the tobacco companies and the 1994 hearing).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-person-in-recovery-late" name="(target) a person in recovery" movie="" kind="ordinary" status="target" -->
-### (target) a person in recovery
-A documented account from this era.
-<!-- hb-story:end slug="target-person-in-recovery-late" -->
-<!-- hb-story:start slug="target-tobacco-whistleblower" name="(target) a tobacco company whistleblower" movie="" kind="ordinary" status="target" -->
-### (target) a tobacco company whistleblower
-[VERIFY] a documented insider who exposed the industry.
-<!-- hb-story:end slug="target-tobacco-whistleblower" -->
+<!-- hb-story:start slug="jeffrey-wigand-drugs-alcohol" name="Jeffrey Wigand" movie="The Insider (1999)" kind="famous" status="verified" -->
+### Jeffrey Wigand
+> **Who:** a scientist who ran research at a tobacco company and then told the public that the company changed its tobacco to strengthen the effect of nicotine. · **When and where:** Brown & Williamson Tobacco, Louisville, Kentucky, 1989 to 1996.
+- He was born in New York City in 1942 and trained as a biochemist, a scientist who studies the chemistry of living things. In January 1989 he became vice president for research at Brown & Williamson Tobacco.
+- Company officers fired him on 24 March 1993. In September 1993 the company sued him and cut off his health insurance. He signed an agreement not to talk about his work.
+- In late November 1995, under a judge's order, he gave sworn testimony in Pascagoula, Mississippi, for the state's lawsuit against the tobacco companies. Company lawyers got a Kentucky court order against him and sued him for "theft, fraud, breach of contract." CBS lawyers stopped *60 Minutes* from showing an interview with him that November.
+- On 4 February 1996 *60 Minutes* showed the interview. Wigand said the company added chemicals such as ammonia to its tobacco to increase the effect of nicotine, the drug in tobacco that makes people addicted. He said he got anonymous death threats.
+- The company hired investigators who wrote a 500-page report attacking him. Reporters checked it and found many of its charges were false or minor.
+- He taught high school science in Louisville and was named Kentucky's Teacher of the Year for 1996. The movie *The Insider* (1999), with Russell Crowe as Wigand, tells his story.
+<!-- hb-story:end slug="jeffrey-wigand-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Nixon declares the war on drugs, 1970 and 1971" -->
+- On 27 October 1970 Nixon signed a law that sorted drugs into five lists called schedules. Lawmakers put marijuana and heroin on Schedule I, the list for drugs with a high risk of abuse and no accepted medical use. The same law made having a small amount of a drug a lesser crime, with at most one year in jail for a first offense.
+- In May 1971 two members of Congress, Morgan Murphy and Robert Steele, came back from Vietnam and reported that 10 to 15 of every 100 American soldiers there might be addicted to heroin.
+- On 17 June 1971 Nixon said, "America's public enemy number one in the United States is drug abuse." He asked for "over $350 million" a year to fight drugs. The federal drug budget had been $81 million in 1969. While Nixon was president, about 70 of every 100 federal drug dollars went to treatment and prevention.
+- In 2016 a writer, Dan Baum, published notes of a 1994 interview with John Ehrlichman, one of Nixon's top advisers. Baum's notes quote Ehrlichman saying the administration linked "hippies with marijuana and blacks with heroin" to "disrupt those communities." Ehrlichman had died in 1999, and his children and other Nixon officials said the quote was false.
+- In 1973 Governor Nelson Rockefeller of New York signed laws giving 15 years to life in prison for selling small amounts of heroin, cocaine or marijuana.
+- Shared with: `crime-justice` (arrests, sentences and prisons, lead) · `government-politics` (the laws).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="LSD and marijuana" -->
+- LSD is a drug that makes people see and hear things that are not there. It was legal in the early 1960s. At Harvard University the psychologist Timothy Leary gave drugs that cause such visions to people in experiments. Harvard officials stopped paying him in 1963 after he missed his classes. Nixon later called him "the most dangerous man in America."
+- In 1973 Oregon lawmakers made having a small amount of marijuana punishable by a fine instead of jail. In November 1996 California voters approved Proposition 215, 56 percent to 44 percent. It made California the first state to allow marijuana as a medicine.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Crack cocaine and the 1986 law" -->
+- In the early 1980s Nancy Reagan, the president's wife, began a campaign telling children to "Just Say No" to drugs. Later studies found it made little or no difference in how many young people used drugs.
+- Crack is cocaine that dealers cooked with water and baking soda into small rocks that can be smoked. Smoked crack reaches the brain in 6 to 8 seconds, and the high lasts 5 to 15 minutes. Around 1984 a dose cost as little as $2.50 in some cities. Hospital emergencies from cocaine more than doubled in one year, from 26,300 in 1985 to 55,200 in 1986.
+- After the basketball player Len Bias died from cocaine on 19 June 1986, Democratic leaders in the House wrote a new drug law, and Reagan signed it on 27 October 1986. It set five years in federal prison for 5 grams of crack, the same as for 500 grams of powder cocaine. In 1992, 91 of every 100 people sentenced in federal court for crack were Black. In 2004, 53 of every 100 people who entered treatment for crack were Black and 38 were white (US Sentencing Commission).
+- By 2000 the federal government spent $18.4 billion a year on drugs. Nearly half went to police and prosecutors, and one-sixth went to treatment.
+- Shared with: `crime-justice` (the sentences and the Kemba Smith story, lead).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Drunk driving and the drinking age of 21" -->
+- On 3 May 1980 Clarence Busch, driving drunk, hit and killed 13-year-old Cari Lightner as she walked to a church festival in Fair Oaks, California. He drove away and left her body at the scene. He had a long record of drunk-driving arrests. A judge gave him two years for involuntary manslaughter, and he was paroled after nine months in prison (UPI, 1985). Her mother, Candy Lightner, started Mothers Against Drunk Driving (MADD) that year. MADD counted nearly 25,000 people killed in alcohol-related crashes in 1980, half of all traffic deaths.
+- Between 1970 and 1975, lawmakers in 29 states lowered the drinking age to 18, 19 or 20, after the voting age became 18. Senator Frank Lautenberg of New Jersey wrote a law to raise it again, and Reagan signed it on 17 July 1984. States that let people under 21 buy alcohol lost part of their federal highway money. By 1988 every state had a drinking age of 21.
+- Researchers disagree about how many lives the age of 21 has saved. Some studies found fewer crash deaths among young drivers. Others found that the effect faded after a year or two.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="betty-ford-drugs-alcohol" name="Betty Ford" movie="" kind="famous" status="verified" -->
+### Betty Ford
+> **Who:** the wife of President Gerald Ford, who told the country she was addicted to pills and alcohol and then founded a treatment center. · **When and where:** Long Beach and Rancho Mirage, California, 1978 to 1982.
+- In 1964 a pinched nerve in her neck put her in the hospital for two weeks. Doctors gave her painkillers and the calming drug Valium. At times she took as many as 20 pills a day, and she also drank.
+- On 1 April 1978, after the Fords had left the White House, her family and doctors met her together and asked her to get treatment. This kind of meeting is called an intervention.
+- She checked into the Long Beach Naval Hospital on 11 April 1978. A family spokesman read her statement to reporters: "I have found I am not only addicted to the medication I have been taking for my arthritis, but also to alcohol."
+- She later wrote, "I liked alcohol, it made me feel warm. And I loved pills. They took away my tension and my pain."
+- In 1982 she and her friend Leonard Firestone founded the Betty Ford Center in Rancho Mirage, California, to treat people addicted to alcohol and other drugs. She led its board until 2005 and died in 2011 (Ford Presidential Library).
+<!-- hb-story:end slug="betty-ford-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Native nations and the end of the federal ban, 1953" -->
+- On 15 August 1953 members of Congress passed a law "to eliminate certain discriminatory legislation against Indians." Federal law no longer barred Native people from buying alcohol off their nations' land. On their own land, each nation's government could decide whether to allow it (Federal Judicial Center). Some nations kept their bans.
+- Shared with: `native-nations` (lead).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="OxyContin goes on sale, 1996" -->
+- Opioids are strong painkillers made from the opium poppy or from chemicals that act the same way. Too much slows breathing until it stops.
+- In 1952 three doctors, the brothers Arthur, Mortimer and Raymond Sackler, bought a small drug company called Purdue Frederick. Purdue Pharma, as their company was later named, began selling OxyContin in 1996. OxyContin is a pill of oxycodone, an opioid, made to release slowly over 12 hours.
+- Curtis Wright, the Food and Drug Administration doctor who reviewed OxyContin, approved a label saying the slow release was "believed to reduce" the risk of abuse. A year later he left his job and went to work for Purdue.
+- Purdue managers trained their salespeople to tell doctors that fewer than 1 in 100 patients would become addicted. Richard Sackler, Raymond's son, ran the sales and marketing and became company president in 1999. Prescriptions for pain not caused by cancer rose from about 670,000 in 1997 to about 6.2 million in 2002.
+- Shared with: `big-business` (the company, lead) · `health`.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="drugs-alcohol" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="drugs-alcohol" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-Two directions at once: a legal cannabis industry, and an overdose crisis that kills more Americans than car crashes.
+From 1999 to 2023 about 806,000 Americans died of opioid overdoses, by the count of the Centers for Disease Control and Prevention (CDC). The deaths came first from pain pills such as OxyContin, then from heroin, and after 2013 from fentanyl made in secret labs. Overdoses of all drugs killed 107,941 people in 2022, the worst year. By the CDC's early count, the yearly total had fallen to about 67,000 by April 2026. In 2026 a federal judge sentenced Purdue Pharma, the maker of OxyContin, and the company shut down. No member of the Sackler family who owned it was ever charged with a crime. Over the same years voters and lawmakers in 24 states made marijuana legal for adults. In 2026, 54 of every 100 adults told Gallup pollsters that they drink, the lowest share since Gallup began asking in 1939. In 2025, 9 of every 100 adults smoked cigarettes, down from 42 in 1965. All counts here are the newest published by September 2026.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The opioid crisis and legal cannabis" -->
-The opioid crisis — prescription painkillers, then heroin, then fentanyl; overdose deaths; treatment and naloxone; cannabis legalization state by state from 2012 [VERIFY]; vaping and teenagers; falling teen drinking and smoking. Current through 2026; state the cutoff.
+<!-- hb-zoom level="span" label="Overdose deaths, 1999 to 2026" -->
+- In 1999 about 6 of every 100,000 Americans died of a drug overdose. By 2022 the figure was about 33 of every 100,000 (CDC).
+- Deaths from all drugs, by year: 70,237 in 2017, 91,799 in 2020, 107,941 in 2022, 105,007 in 2023 and 79,384 in 2024. In 2023, 79,358 of the deaths involved opioids.
+- The CDC's early count for the 12 months ending April 2026 is 66,937. About 42,000 of those deaths involved opioids. The CDC says early counts are often incomplete.
+- In 2024 American Indian and Alaska Native people died of overdoses at the highest rate of any group, 51.6 of every 100,000. The rate was 33.8 for Black Americans and 24.7 for white Americans. People aged 35 to 44 died at the highest rate of any age group.
+- Shared with: `health` (the deaths, treatment and naloxone, lead) · `native-nations`.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="target-person-in-recovery-or-bereaved-family" name="(target) a person in recovery, or a family who lost someone" movie="" kind="ordinary" status="target" -->
-### (target) a person in recovery, or a family who lost someone
-Survived the opioid crisis and can say so on the record.
-<!-- hb-story:end slug="target-person-in-recovery-or-bereaved-family" -->
+<!-- hb-zoom level="span" label="Fentanyl" -->
+- Fentanyl is an opioid made in a lab. It is 50 to 100 times stronger than morphine. An overdose slows a person's breathing until it stops. A drug called naloxone, sprayed into the nose, can bring the person back if someone gives it fast enough. On 29 March 2023 Food and Drug Administration officials approved a naloxone spray for sale without a prescription.
+- Deaths from fentanyl and similar drugs rose from about 1 of every 100,000 Americans in 2013 to about 23 in 2022. In 2024 the rate fell to 14.
+- Since about 2019 most illegal fentanyl sold in the United States has come from Mexico. Members of two Mexican crime groups, the Sinaloa Cartel and the Jalisco New Generation Cartel, make it in secret labs. They buy most of the chemicals they need from companies in China. They press fentanyl into fake pills made to look like real medicine (Congressional Research Service, 2025).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Purdue Pharma and the Sacklers in court" -->
+- In May 2007 Purdue Pharma pleaded guilty to lying about how addictive OxyContin was. The company admitted that it had sold OxyContin as less addictive and less likely to be abused than other painkillers. It paid $600 million. Its president, its top lawyer and its former chief doctor pleaded guilty as individuals.
+- In September 2019 Purdue went bankrupt. An audit found that members of the Sackler family had taken $10.7 billion out of the company after the lawsuits began. In November 2020 Purdue pleaded guilty to three federal crimes, including paying doctors to prescribe its pills.
+- On 28 April 2026 Judge Madeline Cox Arleo in Newark, New Jersey, sentenced the company to $5.5 billion in fines and penalties. More than 40 people harmed by the crisis spoke in court, and more than 200 sent letters. Ed Bisch, whose son Eddie died of an overdose in 2001, said, "Punishment by a fine means 'legal for a price.'" Alexis Pleus said her son Jeff was first prescribed OxyContin for a football injury before he died of an overdose.
+- Arleo said she could not send anyone to prison because Justice Department lawyers had charged only the company. She told the families, "Your government failed you."
+- On 1 May 2026 Purdue shut down. A new company owned by a charity took over. Under a $7.4 billion settlement the Sacklers must pay $2.9 billion by 2029, and none of them may sell opioids in the United States. The family has always said it did nothing wrong.
+- Between 2021 and 2022 three companies that ship drugs to pharmacies, McKesson, Cardinal Health and AmerisourceBergen, and the drug maker Johnson and Johnson agreed to pay up to $26 billion. The CVS, Walgreens and Walmart pharmacy chains agreed to pay billions more. At least 85 of every 100 dollars that goes to states and towns must be spent on the overdose crisis.
+- Shared with: `big-business` (the company and the settlement, lead) · `crime-justice`.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="nan-goldin-drugs-alcohol" name="Nan Goldin" movie="All the Beauty and the Bloodshed (2022)" kind="famous" status="verified" -->
+### Nan Goldin
+> **Who:** a photographer who became addicted to OxyContin after surgery, overdosed on fentanyl, recovered, and led protests against the Sackler family. · **When and where:** Berlin and New York, the 2010s to 2021.
+- She was born in Washington, D.C., in 1953 and became one of the best-known American photographers.
+- A doctor in Berlin prescribed OxyContin after surgery on her wrist. She wrote that she took it as directed and "got addicted overnight." She went from three pills a day to eighteen.
+- When doctors stopped prescribing it, she bought pills from a dealer in New York. When her money ran out she bought street drugs. She wrote, "I ended up snorting fentanyl and I overdosed."
+- She waited a year to seek treatment because she feared withdrawal, the sickness that comes when an addicted person stops taking the drug. Then she spent two and a half months in a treatment hospital.
+- In January 2018 she told her story in the magazine *Artforum* and started a group called P.A.I.N., Prescription Addiction Intervention Now. On 10 March 2018 she and other members threw empty pill bottles into the pool at the Sackler Wing of the Metropolitan Museum of Art in New York and lay on the floor chanting, "Sacklers lie, people die."
+- In 2019 two London museums, the National Portrait Gallery and the Tate, stopped taking Sackler gifts. On 9 December 2021 the Metropolitan Museum took the Sackler name off seven of its galleries. The documentary *All the Beauty and the Bloodshed* (2022), by Laura Poitras, tells her story.
+<!-- hb-story:end slug="nan-goldin-drugs-alcohol" -->
+<!-- hb-zoom level="span" label="Marijuana becomes legal in 24 states" -->
+- On 6 November 2012 voters in Colorado and Washington became the first to make marijuana legal for adults. Washington's law took effect first, on 6 December 2012. In 2018 Vermont's legislature became the first to pass such a law without a public vote.
+- As of September 2026, 24 states and the District of Columbia allow adults to use marijuana, and 41 states allow it as medicine (National Conference of State Legislatures). The 24 states are Alaska, Arizona, California, Colorado, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, Ohio, Oregon, Rhode Island, Vermont, Virginia and Washington.
+- Under federal law marijuana stayed on Schedule I, the list for the most tightly banned drugs. On 18 December 2025 President Donald Trump ordered officials to speed up moving it to Schedule III, a list of drugs allowed as medicine with a prescription. On 28 April 2026 the Acting Attorney General moved medical marijuana sold under state licenses to Schedule III. All other marijuana is still on Schedule I while the Drug Enforcement Administration holds hearings.
+- In 2010 President Barack Obama signed a law cutting the difference between crack and powder cocaine sentences from 100 to 1 to 18 to 1.
+- Shared with: `government-politics` (the laws) · `crime-justice` (sentences).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Vaping and smoking" -->
+- An e-cigarette heats a liquid, usually with nicotine, into a mist that the user breathes in. This is called vaping. In 2019, 27.5 of every 100 high school students vaped.
+- In 2019 and early 2020, 2,807 people were hospitalized or killed by a lung injury from vaping, and 68 of them died. CDC scientists linked most cases to vitamin E acetate, an oily chemical added to illegal marijuana vaping liquids.
+- On 20 December 2019 President Trump signed a law raising the age to buy any tobacco product, including e-cigarettes, from 18 to 21.
+- In 2025, 5.2 of every 100 middle and high school students vaped (Food and Drug Administration). About 9 of every 100 adults smoked cigarettes, down from 42 in 1965 (CDC). Smoking still kills more than 480,000 Americans a year, by the CDC's count.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Drinking today" -->
+- In 2023 Americans aged 14 and over drank an average of 2.48 gallons of pure alcohol each, below the 1981 peak of 2.76 (National Institute on Alcohol Abuse and Alcoholism). Americans now drink more liquor and less beer than in 2000.
+- In July 2026, 54 of every 100 adults told Gallup pollsters that they drink, the lowest share since Gallup began asking in 1939. In 2023 the figure was 62.
+- The CDC counts about 178,000 deaths a year from drinking too much, from 2020 and 2021 data. On 3 January 2025 Surgeon General Vivek Murthy reported that alcohol causes about 100,000 cancers and 20,000 cancer deaths a year in the United States. He asked Congress to put a cancer warning on alcohol labels.
+- In January 2026 federal health officials removed the advice to drink no more than one drink a day for women and two for men. The new advice says only, "Consume less alcohol for better health."
+- In 2025, 41 of every 100 high school seniors said they had drunk alcohol in the past year (Monitoring the Future survey). Alcoholics Anonymous counts more than two million members in more than 123,000 groups around the world.
+- Shared with: `health` (the diseases).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->
