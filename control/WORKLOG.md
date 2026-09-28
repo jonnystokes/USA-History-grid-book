@@ -3039,3 +3039,8 @@ All five landed: T-260c (religion's checks complete), T-261c education 8, T-262d
 T-270a news-communication 1-5 and T-273a holidays 1-5 (PARTIAL until eras 6-10). Parked items filed into 12
 banks + research-storytelling-evolution.md created to hold one item; one afterword item to AUDIT-QUEUE.
 All validate 0; the 7 written chapters still PASS prose. Back to ONE AT A TIME.
+
+### 2026-09-27 | [LOCAL] T-262e | rights-movements: bank check era 10, last agent on the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-262-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage research
