@@ -3005,9 +3005,11 @@ CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
 
 ### 2026-09-27 | [LOCAL] T-261c | education: bank check era 8 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+RESULT: DONE. PASS  education / research. measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=70528w outline=30013w manuscript=0w validator_errors=0
+        214415 tokens, 79 tool uses, 9.3 min (opus). Era 8 bank check: 9 PATCHes. 1917 funding survey ($10.32 vs $2.89; county officers named), Lemon Grove 1931, Delgado v. Bastrop 1948, camp schools (Manzanar, Poston on Colorado River Indian land), 1920 attendance law, Carlisle to the War Department 1918, 1928 Senate hearing (Tilford Denver, Swanson Mowachean, principal named), Scopes textbook's race ranking, 1891 act confirmed. 2 searched-not-found. TO PARK 5.
 
 ### 2026-09-27 | [LOCAL] T-262d | rights-movements: bank check era 9 [BURST5] | model opus
 STATUS: IN-FLIGHT

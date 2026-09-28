@@ -601,7 +601,7 @@ What went with it was the school inside walking distance, and a building the fam
 <!-- hb-zoom level="span" label="Progressive education [R7 curriculum]" -->
 John Dewey argued that children learn by doing, and he ran a school for eight and a half years to test the idea. He opened it in January 1896 in a rented house on 57th Street in Chicago, with sixteen pupils and two adults in charge. At its largest it held 140 children and 23 teachers.
 
-Dewey described the classroom he was arguing against by telling a story about shopping. He had gone round the school supply stores of Chicago looking for desks and chairs that children could work at, and one dealer told him: "I am afraid we have not what you want. You want something at which the children may work; these are all for listening." Dewey printed that sentence in 1899 and built a chapter on it. The ordinary schoolroom, he wrote, had "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
+Dewey described the classroom he was arguing against by telling a story about shopping. He had gone round the school supply stores of Chicago looking for desks and chairs that children could work at, and one dealer told him: "I am afraid we have not what you want. You want something at which the children may work." The desks in his shop, the dealer said, "are all for listening." Dewey printed those words in 1899 and built a chapter on it. The ordinary schoolroom, he wrote, had "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
 
 The argument underneath was about what a school is for. Some people said the job was to turn out citizens and some said it was to turn out workers, and a school board had to pick a timetable either way. Dewey's own answer was one sentence: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
 
@@ -619,6 +619,8 @@ That paragraph is in a teacher's handbook. The words feeble-minded, moron and im
 
 The college test came from the same place. The College Entrance Examination Board gave the first Scholastic Aptitude Test on 23 June 1926, to about eight thousand candidates. Carl Brigham of Princeton headed the committee that built it, and five of its nine sections were copied word for word from a test Brigham had already made at Princeton out of Army Alpha. Brigham had used the army results in a 1923 book to argue for a ranking of races by intelligence. He changed his mind within a few years and said so in print.
 
+High school pupils read the same ideas in their science books. The biology book Tennessee approved for its schools was George William Hunter's *A Civic Biology*, first printed in 1914. It named five races and called "the civilized white inhabitants of Europe and America" "the highest type of all." Of families it called feeble-minded and criminal, it said: "If such people were lower animals, we would probably kill them off to prevent them from spreading." The book told pupils that the answer was to keep such people apart in asylums and to stop them from marrying. In 1925 a Tennessee teacher, John Scopes, was found guilty and fined $100 for teaching evolution from this book. The pages on race and on breeding were not part of the case. `religion` and `government-politics` tell the trial.
+
 Textbooks were fought over too. The United Daughters of the Confederacy created an officer in 1908 to check school histories for anything it called unjust to the South. In 1919 its historian-general, Mildred Rutherford, published *A Measuring Rod to Test Text Books*, a checklist for judging them. The books it approved told children that enslaved people had been faithful to the people who owned them, and that the Civil War was caused by states' rights rather than by slavery. By the end of the 1930s many states were buying textbooks for every child, so one approved list put one version of the past into every classroom at once. The `how-we-know` Afterword picks this up.
 <!-- /hb-zoom -->
 
@@ -629,7 +631,7 @@ To sterilize someone is to operate on their body so that they can never have a c
 
 Carrie Buck was born in Charlottesville, Virginia on 2 July 1906. Her school records show normal progress every year. She was taken out of school before she finished sixth grade, by the foster family she lived with, to do their housework. At seventeen she became pregnant, and the National Archives says the pregnancy was later reported to be the result of rape, allegedly by a relative of that foster family. The family then had her committed. A court called her epileptic and feebleminded on 23 January 1924, and in June she was sent to the Virginia State Colony for Epileptics and Feeble-Minded.
 
-Virginia's legislators had passed a sterilization law that March. Carrie Buck was chosen as the case that would test it. On 2 May 1927 the Supreme Court ruled for Virginia, eight votes to one; Justice Butler dissented and wrote nothing. Justice Oliver Wendell Holmes Jr wrote for the rest: "It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Three generations of imbeciles are enough."
+Virginia's legislators had passed a sterilization law that March. Carrie Buck was chosen as the case that would test it. On 2 May 1927 the Supreme Court ruled for Virginia, eight votes to one. Justice Butler dissented and wrote nothing. Justice Oliver Wendell Holmes Jr wrote for the rest: "It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Three generations of imbeciles are enough."
 
 Dr John Bell, who ran the Colony and whose name is on the case, operated on 19 October 1927. Carrie Buck was twenty-one.
 
@@ -641,9 +643,13 @@ About 8,300 people were sterilized in Virginia between 1927 and 1972, and the la
 <!-- hb-zoom level="span" label="Separate schools, and what separate meant" -->
 The schools set aside for Black children were paid for at a lower rate than the white schools in the same county, and the amounts are on record. In Lowndes County, Alabama in 1909, white schools received $20 for each pupil and Black schools received 67 cents. In Edgecombe County, North Carolina the county paid for janitors, electricity, water and transport at the white schools and none of those at the Black ones.
 
+A federal survey published in 1917 measured the whole South. It divided what the Southern states paid their teachers by the number of children aged six to fourteen. That came to $10.32 for each white child and $2.89 for each Black child. The survey also said who made the split. Each state sent its counties school money counted on every child, Black and white, and the county officers then decided how much of it went to the Black schools. In counties where at least three people in four were Black, the officers spent $22.22 on each white child and $1.78 on each Black child. The Black schools were also open for fewer months. In Alabama, Florida, Louisiana, North Carolina and South Carolina the Black public schools averaged less than five months a year.
+
 Families built schools where the state would not. Julius Rosenwald, part-owner of Sears, Roebuck, met Booker T. Washington in 1912 and began paying part of the cost of school buildings for Black children. More than 5,000 schoolhouses, teachers' homes and workshops went up in fifteen states between 1913 and 1932, and over 600,000 children passed through them. Rosenwald's money never covered the whole cost. Black families had to raise a matching share, and they did it with fish fries and bake sales, and by giving timber and their own labor. The buildings were designed around daylight because they had no electricity, which is why photographs of them show banks of windows set close together.
 
 Each state decided who counted as separate. Martha Lum was nine years old when the staff at the Rosedale consolidated high school in Bolivar County, Mississippi sent her home. She was Chinese, and the state constitution kept the white schools for white children. Her father took the case to the Supreme Court. On 21 November 1927 the court ruled for Mississippi, and no justice dissented.
+
+Mexican American children were sent to separate schools as well. In Lemon Grove, California on 5 January 1931, the principal, Jerome T. Green, stood in the school doorway and sent the Mexican American pupils to a separate two-room building. Their parents kept the children home and sued, and at the end of March a San Diego County judge, Claude Chambers, ordered the children let back in. In Texas in 1948, Minerva Delgado and twenty other Mexican American parents sued the Bastrop school district and three others. Judge Ben H. Rice ordered the separation ended by September 1949. His ruling still let a school put children in a separate first-grade class if a test found that their English was weak.
 
 More children were in school by the end of the era and the gap narrowed. In 1900, 53.6 of every hundred white five- to nineteen-year-olds were enrolled, against 31.1 of every hundred children the census counted as Black and other races. By 1950 it was 79.3 against 74.8. The gap closed while the schools stayed separate and stayed unequally paid for.
 
@@ -655,15 +661,21 @@ The federal Indian boarding schools were at their largest in this era, and the p
 
 The Indian Office's own count for 1926 was 69,892 Indian children in some kind of school. Just under two-fifths of them, 27,361, were in boarding schools. Of the children in government schools, more than four in five were boarders. There were nineteen boarding schools off the reservations and fifty-nine on them.
 
+Parents could be made to send their children. A law Congress passed in 1920 let the Secretary of the Interior "make and enforce" rules to secure the "regular attendance" of Indian children at federal schools or public schools.
+
 In February 1928 a survey team led by Lewis Meriam handed its report to the Secretary of the Interior. It says: "The survey staff finds itself obliged to say frankly and unequivocally that the provisions for the care of the Indian children in boarding schools are grossly inadequate."
 
-The schools were trying to feed each child on eleven cents a day, and the report calls the food "deficient in quantity, quality, and variety." The Indian Service's own standard was a quart of milk a day per child, and the report says the schools almost never reached it. At the school at Fort Defiance, Arizona for children with trachoma, "milk is not part of the normal diet." Trachoma is an eye infection; repeated infection scars the inside of the eyelid until the lashes turn in and scrape the eye, and it blinds people if it is not treated. The other great killer in the schools was tuberculosis, a lung disease that had no cure at the time. Dormitories were "crowded materially beyond their capacities," and "the supply of soap and towels has been inadequate."
+The schools were trying to feed each child on eleven cents a day, and the report calls the food "deficient in quantity, quality, and variety." The Indian Service's own standard was a quart of milk a day per child, and the report says the schools almost never reached it. At the school at Fort Defiance, Arizona for children with trachoma, "milk is not part of the normal diet." Trachoma is an eye infection. Repeated infection scars the inside of the eyelid until the lashes turn in and scrape the eye, and it blinds people if it is not treated. The other great killer in the schools was tuberculosis, a lung disease that had no cure at the time. Dormitories were "crowded materially beyond their capacities," and "the supply of soap and towels has been inadequate."
 
 The children paid for the schools with their work. "The boarding schools are frankly supported in part by the labor of the students. Those above the fourth grade ordinarily work for half a day and go to school for half a day." The report asked whether "much of the work of Indian children in boarding schools would not be prohibited in many states by the child labor laws, notably the work in the machine laundries." Of the discipline it said that it "is restrictive rather than developmental."
 
 It also said the policy itself was wrong. Taking children, "even very young children, as completely as possible away from their home and family life," went against everything then known about how children grow. And: "Indian parents nearly everywhere ask to have their children during the early years, and they are right."
 
-Carlisle had closed in 1918, and the 279 children still there were moved to other federal boarding schools. Officials read the Meriam Report in 1928 and the boarding schools kept running. Across the whole system, from 1819 to 1969, there were 417 federal Indian boarding schools in 37 states and territories, and federal records account for nearly a thousand Native children dead at them. The report that gives that number says the true figure is higher.
+In November 1928 a committee of senators heard what those conditions meant at one school, the Uintah Boarding School at Whiterocks, Utah, on the Ute reservation. In late October 1927 an eleven-year-old pupil, Tilford Denver, was climbing the rope of the school swing. The swing had been broken for a long time and had never been fastened down. The frame fell, a bar struck his head, and he died within the hour. The agency doctor, George Hamilton, agreed under questioning that officials of the reservation were to blame, because the swing had never been secured. Swanson Mowachean, an orphan who had come to the school at about ten, touched a bare live wire there and was badly hurt. His relatives wrote to the Commissioner of Indian Affairs that the superintendent, H. M. Tidwell, would not send him to the hospital. Tidwell let him go back to the hospital later that February. The doctor testified that it was too late, and Swanson died on 6 March 1928.
+
+Fred Bruce, a Chippewa man hired to keep order among the boys, testified that the principal, George N. Shafer, told him to whip them. Bruce said he refused and was fired about six months after he started. A parent, Eugene Perank, told the senators through an interpreter that children had told him they were thrown down and whipped with a stick, and that he had taken his own children out of the school. The children who were whipped are not named in the record, and the federal count of deaths at the schools covers the whole life of the system without a total for these years alone.
+
+Carlisle had closed in 1918, when the War Department took the grounds back for an army hospital. The 279 children still there were moved to other federal boarding schools. Officials read the Meriam Report in 1928 and the boarding schools kept running. Across the whole system, from 1819 to 1969, there were 417 federal Indian boarding schools in 37 states and territories, and federal records account for nearly a thousand Native children dead at them. The report that gives that number says the true figure is higher.
 
 `native-nations` leads on what the boarding schools did to the nations. This chapter's part is the school itself.
 <!-- /hb-zoom -->
@@ -693,7 +705,7 @@ In 1922 a majority of Oregon voters tried to close every private and church scho
 
 The Ku Klux Klan put the measure on the ballot through a front organization, the Scottish Rite Masons. It required every child aged eight to sixteen to attend the public school in their own district, and made it a crime for a parent not to send them. It passed on 7 November 1922 by 11,821 votes out of 219,191 cast.
 
-Two schools sued. One was the Society of the Sisters of the Holy Names of Jesus and Mary, which ran Catholic schools. The other was Hill Military Academy, which was not religious at all. On 1 June 1925, in *Pierce v. Society of Sisters*, the court struck the law down before it could take effect: "The child is not the mere creature of the state; those who nurture him and direct his destiny have the right, coupled with the high duty, to recognize and prepare him for additional obligations."
+Two schools sued. One was the Society of the Sisters of the Holy Names of Jesus and Mary, which ran Catholic schools. The other was Hill Military Academy, which was not religious at all. On 1 June 1925, in *Pierce v. Society of Sisters*, the court struck the law down before it could take effect. The justices wrote: "The child is not the mere creature of the state." The parents and others who raise a child, they went on, "have the right, coupled with the high duty, to recognize and prepare him for additional obligations."
 
 `government-politics` carries it as law.
 <!-- /hb-zoom -->
@@ -711,13 +723,23 @@ All three cities ran the same machinery: an approved instrument, a named adult a
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Teaching [R7 teaching as a job]" -->
-Teacher training changed shape. A normal school offered one or two years after high school; a teachers' college gave a four-year degree. Eighty-eight normal schools turned into teachers' colleges between 1911 and 1930, and by the 1950s the older name had gone.
+Teacher training changed shape. A normal school offered one or two years after high school. A teachers' college gave a four-year degree. Eighty-eight normal schools turned into teachers' colleges between 1911 and 1930, and by the 1950s the older name had gone.
 
 Most teachers were women, and in most of the country a woman had to choose between the job and marriage. School boards were surveyed about this from 1928. That year 61 percent of them said they would not hire a married woman as a teacher, and 52 percent said they would not keep a teacher who married. By 1942 it was 87 percent and 70 percent.
 
 Boards dropped the rule during the Second World War, when they ran out of men. Men teaching in public schools fell from 195,000 in 1939-40 to 127,000 in 1943-44, and boards that had refused married women for twenty years needed them. By 1951 only 18 percent still refused to hire a married woman and 10 percent to keep one.
 
 Pay rose and stayed low. Average pay for a school's teaching staff was $325 a year in 1899-1900, $1,420 in 1929-30 and $3,010 in 1949-50. Measured against prices, the real value roughly trebled over the fifty years. The number of pupils per teacher fell from about 37 to about 28.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="School inside the camps" -->
+In 1942, after President Franklin Roosevelt signed Executive Order 9066, the federal government held about 120,000 Japanese Americans in camps without trial. More than 30,000 of them went to school behind the fence. The War Relocation Authority, the federal agency that ran the camps, ran the schools as well.
+
+At Manzanar in California, more than 2,300 children arrived from over 200 schools, and there was no plan for teaching them. The first classes met in barracks and recreation halls that had no furniture, textbooks or supplies. At Poston in Arizona, the incarcerated people made about 750,000 adobe bricks and built their own school buildings. Poston's elementary classes averaged 48 pupils to one teacher. Of the 100 teachers hired to come there, 70 arrived, and 55 were still there by that December.
+
+Poston was built on the Colorado River Indian Reservation. Its pupils included the four Munemitsu children, who had gone to school in Westminster, California until 1942. While they were held at Poston, the Mendez family was working the Munemitsu farm, and the Westminster school was turning the Mendez children away.
+
+Shared with: `war` and `rights-movements`.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The G.I. Bill" -->
@@ -732,7 +754,7 @@ Black college enrollment rose sharply all the same. Medgar Evers volunteered for
 
 <!-- hb-story:start slug="john-dewey" name="John Dewey" movie="" kind="famous" status="verified" -->
 ### John Dewey
-> **Who:** Argued that children learn by doing, and ran a school for eight and a half years to test it · **When and where:** Born Burlington, Vermont, 20 October 1859; died New York City, 1 June 1952
+> **Who:** Argued that children learn by doing, and ran a school for eight and a half years to test it · **When and where:** Born Burlington, Vermont, 20 October 1859. Died New York City, 1 June 1952
 
 He graduated from the University of Vermont in June 1879 and went straight to work as assistant principal of Oil City High School in Pennsylvania, teaching classics, science and algebra. He was nineteen. He did that for two years before he did any philosophy at all.
 
@@ -747,7 +769,7 @@ On 5 April 1904 his wife Alice resigned as principal of the school and he resign
 
 <!-- hb-story:start slug="mamie-garvin-fields" name="Mamie Garvin Fields" movie="" kind="ordinary" status="verified" -->
 ### Mamie Garvin Fields
-> **Who:** Started teaching in a one-room school at twenty and taught for thirty-five years · **When and where:** Born Charleston, South Carolina, 1888; died 1987
+> **Who:** Started teaching in a one-room school at twenty and taught for thirty-five years · **When and where:** Born Charleston, South Carolina, 1888. Died 1987
 
 She went to the Robert Gould Shaw Memorial School in Charleston, then won a church scholarship to the high school department of Claflin College in Orangeburg and stayed on there for college.
 
@@ -762,13 +784,13 @@ In 1978, when she was ninety, her granddaughter Karen sat down and recorded her 
 
 <!-- hb-story:start slug="sylvia-mendez" name="Sylvia Mendez" movie="" kind="ordinary" status="verified" -->
 ### Sylvia Mendez
-> **Who:** Turned away from a California school at eight; the case her father brought ended school segregation in the state · **When and where:** Westminster, California, 1944 to 1947
+> **Who:** Turned away from a California school at eight. The case her father brought ended school segregation in the state · **When and where:** Westminster, California, 1944 to 1947
 
 In 1944 her family moved from Santa Ana to a farm in Westminster, California. They leased it from the Munemitsus, a Japanese American family the government had forced into a camp.
 
 Her aunt took Sylvia, her two brothers and her Vidaurri cousins to enroll at the Seventeenth Street School. The staff took the cousins, who had lighter skin and a surname that did not sound Spanish, and turned away the Mendez children. Her aunt's answer was written down: "My kids, they will not go to your school, if those of my brother cannot go, mine will not go!" Sylvia was eight.
 
-The school the Mendez children were sent to instead was Hoover School. Children there were taught embroidery, cooking and farm work in place of mathematics and science. That is what separate meant in Orange County. The Mexican school did not teach the same subjects in a poorer building; it taught different subjects, aimed at different work.
+The school the Mendez children were sent to instead was Hoover School. Children there were taught embroidery, cooking and farm work in place of mathematics and science. That is what separate meant in Orange County. The Mexican school did not teach the same subjects in a poorer building. It taught different subjects, aimed at different work.
 
 Her father Gonzalo Mendez sued, along with four other fathers: William Guzman, Frank Palomino, Thomas Estrada and Lorenzo Ramirez. Their lawyer, David Marcus, brought the case against four Orange County school districts on behalf of about 5,000 children. After a six-day trial, Judge Paul J. McCormick ruled for the families on 18 February 1946. The Ninth Circuit Court of Appeals agreed on 14 April 1947.
 

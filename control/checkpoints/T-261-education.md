@@ -1,13 +1,13 @@
 # CHECKPOINT T-261 | education | bankcheck | T-261a: eras 1-5
 
-STATUS: T-261b landed (director verified: PASS  education / research)
+STATUS: T-261c landed (director verified: PASS  education / research)
 VERIFY: python tools/project_state.py --check education --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/education.md · research/research-education.md · workspace/education.md
 
-NOW:    T-261b done (units 4-7). Validator 0 errors. Research check PASS, bank 66,943w, outline 30,782w.
-NEXT:   T-261c (era 8, 1900-1950): run the brief's five Find items on era 8 only (`python tools/slice_bank.py education --eras 8-8`). Eras 1-7 are finished; do not change them. Carry-forwards waiting in the bank: Tennessee's 1901 law ($50 fine or 30-60 days for teaching Black and white students together) is in the era-7 T-261b segregation patch; the Meriam Report's 'a kind of peonage' line on the outing system is in the era-7 boarding-school patch; the 2022/2024 federal report figures are there too (system totals 1819-1969, not per era); New London, Texas school explosion 1937 is parked in PART B from disasters; marriage bar in PART C-FWD. PART B's '1891 compulsory attendance act' for Native children was NOT found in either federal report: verify or drop.
+NOW:    T-261c done (units 8-10). Validator 0 errors. Research check PASS, bank 70,528w, outline 30,013w.
+NEXT:   T-261d (era 9, 1950-2000): run the brief's five Find items on era 9 only (`python tools/slice_bank.py education --eras 9-9`). Eras 1-8 are finished; do not change them. Carry-forwards: the era-9 outline still holds em dashes and semicolons (`python tools/project_state.py --punct outlines/education.md` lists them, lines ~831-1000 are era 9); boarding-school enrolment peak ~60,000 in 1973 and the Kennedy Report 1969 are in PART B; Daniel Freeman's 1902 Nebraska school-prayer case is in PART C-FWD (era 9 decides whether to use it); Buck v. Bell law on the books to April 1974 (PART D-FWD); Delgado's language-test loophole ran to Hernandez v. Driscoll 1957 (era 8 T-261c Delgado patch); Rhoads's 1930 punishment circular is unsettled (era 8 T-261c boarding patch, item 4).
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -40,6 +40,22 @@ PASS  education / research
 | 5 | bank check, era 7 (1850-1900): five Find items | done | bank era 7: Margaret Douglass 1853-54; attacks on freedpeople's schools (Alvord 5th and 9th reports, Encyclopedia of Alabama, William Luke); segregation statutes, Cumming 1899, Plessy on schools; 2022/2024 federal report figures, 1893 rations act, nine named Carlisle children; Morrill land count (HCN) |
 | 6 | each verified story in eras 6-7 has its key facts in the bank | done | all 8 blocks match their bank sections; see era-7 'stories and firsts' patch |
 | 7 | final for eras 6-7: outline punctuation, validator, research check, NEXT for era 8 | done | outline eras 6-7: new spans (Federal money to school Native children 1819; Northern schools wrecked, Noyes 1835; teacher jailed in Norfolk 1854; Separate schools by law and courts), attacks on freedpeople's schools, Morrill land count, Carlisle named dead and 2024 figures, anti-literacy penalties; 'first time in print' claim removed; CT 1819 'first' attributed; zero em dashes and semicolons in eras 6-7; validator 0 errors; research PASS |
+
+## Units, T-261c (era 8)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 8 | bank check, era 8 (1900-1950): five Find items | done | bank era 8, 9 T-261c patches: Jones 1917 federal survey ($10.32 vs $2.89; county officers divide the money; $22.22 vs $1.78); Delgado 1948 (TSHA); camp schools 1942-45 (NPS Manzanar, Poston; Munemitsu children; Poston on Colorado River Indian Reservation); attendance laws 1891 VERIFIED (Cohen 1942) and 1920 (41 Stat. 410); Carlisle to War Department 1918; Uintah 1928 Senate hearing (Tilford Denver, Swanson Mowachean named dead; Principal Shafer and whipping); Collier 1930; 2 SEARCHED NOT FOUND; Scopes textbook (Hunter's Civic Biology, eugenics passage, Gutenberg); New London pointer; firsts checked |
+| 9 | each verified story in era 8 has its key facts in the bank | done | john-dewey (§8a-8c), mamie-garvin-fields (§8p), sylvia-mendez (§8o): every fact in the blocks matches the bank |
+| 10 | final for era 8: outline punctuation, validator, research check, NEXT for era 9 | done | outline era 8: separate-schools span gains the 1917 federal survey figures and the county officers, Lemon Grove 1931 and Delgado 1948; boarding span gains the 1920 attendance law, Carlisle to the War Department, the 1928 Uintah hearing (Tilford Denver, Swanson Mowachean, Principal Shafer and whipping); testing span gains Hunter's Civic Biology and Scopes pointer; new span 'School inside the camps'; 9 semicolons cleared, 0 em dashes and 0 semicolons in era 8; validator 0 errors; research PASS |
+
+## TO PARK (T-261c)
+
+- **native-nations, era 1900-1950: Uintah Boarding School, Whiterocks, Utah, Senate hearing November 1928.** Tilford Denver, 11, killed by an unsecured swing late October 1927; Swanson Mowachean, orphan, died 6 March 1928 after Superintendent H. M. Tidwell delayed hospital care; Principal George N. Shafer told disciplinarian Fred Bruce to whip boys. Source: Salt Lake Tribune, Sheila R. McCann, 9 July 2023, quoting the Senate *Survey of Conditions of the Indians* hearings. Sourced text: `research/research-education.md` era 8, "PATCH 2026-09-27 (T-261c): the boarding schools in this era...", item 3.
+- **native-nations, era 1900-1950: Poston camp on the Colorado River Indian Reservation, run by the Office of Indian Affairs for its first year and a half** (Poston Preservation). The tribal council's objection and the 71,000 acres are search-summary only. Education bank era 8, camp-schools patch.
+- **native-nations, era 1850-1900 (note for the director): the 1891 compulsory-attendance act is real** (Act of 3 March 1891, 26 Stat. 1014; Cohen, *Handbook of Federal Indian Law*, 1942, ch. 12 §2C), plus the 1892, 1893 and 1894 acts. PART B's line can stand. Education bank era 8, boarding patch item 1.
+- **war or rights-movements, era 1900-1950: schools in the incarceration camps** (Manzanar and Poston figures, NPS; more than 30,000 pupils system-wide). Education tells it as a span; nothing to file unless those chapters want a pointer.
+- **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.
 
 ## TO PARK (FILED by the director, 2026-09-27)
 
@@ -83,6 +99,8 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 ## Decisions and defects fixed
 
 ## Log
+
+- 2026-09-27 T-261c units 8-10: era 8 bank patches (9) and outline edits (see units table). Sources: Jones, *Negro Education* vol. I, 1917 (archive.org djvu text); TSHA Handbook, Delgado v. Bastrop ISD (Allsup); NPS Manzanar Block 16, Poston lesson and "Education Behind Barbed Wire"; jrank Encyclopedia of Japanese American History (30,000 pupils); National WWII Museum (120,000 held); Cohen 1942 ch. 12 (thorpe.law.ou.edu); 25 U.S.C. 282 at govinfo; Dickinson Carlisle closure page; Salt Lake Tribune 2023 on the 1928 Uintah hearing; Trennert 1989 abstract; Gutenberg #39969 Civic Biology; Linder Famous Trials. Blocked: Densho encyclopedia and catalyst (403), tennesseeencyclopedia (404 at the guessed URL). Validator 0 errors, research PASS (bank 70,528w, outline 30,013w).
 
 - 2026-09-27 T-261b unit 7: outline eras 6-7 edited (see units table), validator 0 errors, research PASS (bank 66,943w, outline 30,782w; eras 6-7 outline 6,759w to 8,372w).
 
