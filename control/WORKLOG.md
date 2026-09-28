@@ -3003,3 +3003,8 @@ NOTE (Jon): PAUSE after T-262c finishes. No new dispatches until Jon says.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+
+### 2026-09-27 | [LOCAL] T-261c | education: bank check era 8 [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-261-education.md
+VERIFY: python tools/project_state.py --check education --stage research
