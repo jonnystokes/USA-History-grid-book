@@ -3018,3 +3018,8 @@ VERIFY: python tools/project_state.py --check rights-movements --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-270-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage research
+
+### 2026-09-27 | [LOCAL] T-273a | holidays: full research eras 1-5 [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-273-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage research
