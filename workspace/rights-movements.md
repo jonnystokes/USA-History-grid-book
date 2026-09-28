@@ -53,7 +53,7 @@ Companion files: outline `outlines/rights-movements.md` · research bank `resear
 - [x] Ruby Bridges — era 9 span prose ("New Orleans, 14 November 1960 — four girls, not one"); the **story** `ruby-bridges` belongs to `education`
 - [x] the Freedom Rides and Selma — era 9 spans, both present
 - [ ] Cesar Chavez — **NOT in this chapter.** Era 9's opening span hands the farmworkers' campaign to `work-workers`, which has `chavez-huerta`. A director's call, not an omission by accident.
-- [ ] Stonewall — **still the weakest spot in the chapter.** Era 9 gives it one clause of span prose, with no date and no name, and era 10 opens in 2003. **A later agent should give 1969 a proper span.**
+- [x] Stonewall: **CLOSED by T-262d (2026-09-27)**, era-9 span "gay Americans organize, 1953 to 1979" (EO 10450, Kameny, Stonewall 28 June 1969 with Pine, six nights, arrests, the 1970 march, Harvey Milk). Earlier note, now superseded: Era 9 gives it one clause of span prose, with no date and no name, and era 10 opens in 2003. **A later agent should give 1969 a proper span.**
 - [x] Title IX — era 9 span "Title IX, 1972 — thirty-seven words"; era 10 carries the 2026 school-sports ruling
 - [x] Judy Heumann and the ADA — era 9, story `judy-heumann`, verified; era 10 carries what happened to the ADA afterwards
 
@@ -162,3 +162,11 @@ Companion files: outline `outlines/rights-movements.md` · research bank `resear
 - ~~Sojourner Truth is placed in 1800–1850 but her best-known 1851 speech falls in 1850–1900 under the boundary rule — confirm placement.~~ **ANSWERED 2026-09-09** — story slot moved to era 7; see the rulings section above.
 - **Raised by the era-10 agent, 2026-09-09: Stonewall (1969) has no span and no date anywhere in this chapter.** Era 9 gives it one clause — "began organizing openly after a police raid in New York in 1969" — and era 10 opens in 2003. It is on the famous-names must-appear list. **This is the one real hole left in the chapter and it is in era 9, which is now marked researched.** A patch agent could give it a span without disturbing anything else.
 - **Also raised 2026-09-09: era 10 is dated material by nature.** The voting-rights and transgender-rights spans both end with "as of 9 September 2026, the day this page was checked." **Whoever writes the prose must re-check both before publication**, and the book should keep the "checked on" date visible rather than quietly refreshing the facts.
+
+## Rulings taken by the era 9 bank-check agent (T-262d), 2026-09-27
+
+- **Four new era-9 spans:** "the Chicano movement, 1954 to 1970" (Hernandez v. Texas, the East LA walkouts, the Chicano Moratorium and Deputy Thomas Wilson's killing of Ruben Salazar), "gay Americans organize, 1953 to 1979", "the women's movement and the Equal Rights Amendment, 1966 to 1982" (NOW, the ERA, Schlafly, the 1974 credit act), and "an apology and $20,000, 1980 to 1990" (Japanese American redress, from era 8's PATCH).
+- **Cesar Chavez stays with `work-workers`** (`chavez-huerta`). Era 9 names Itliong, Chavez and Huerta in one sentence with a pointer. AIM, Alcatraz and Wounded Knee stay with `native-nations`, named with dates and a pointer.
+- **Killers named in existing spans:** Beckwith (and his two 1964 hung juries), the 1967 Neshoba verdict (Price, Bowers, Killen), the Birmingham bombers and Hoover's 1968 closure, Fowler (Jimmie Lee Jackson), Cook and the Hoggles (Reeb), the Liuzzo killers and Rowe, the Winona officers' acquittal, James Earl Ray and the 1999/2000 dispute.
+- **No new story blocks.** Era 9 keeps five. Viola Liuzzo, Harvey Milk, Frank Kameny and Ruben Salazar are told in span prose. A later editor could promote Liuzzo or Kameny; neither is used elsewhere in the book (grep 2026-09-27).
+- **Health's parked items** (Relf, IHS 3,406, Willowbrook, Medicare, Simkins) stay told by `health`. Era 9's zoom names the Relf clinic and the Willowbrook suit in two sentences with a pointer.
