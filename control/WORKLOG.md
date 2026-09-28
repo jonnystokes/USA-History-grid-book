@@ -3177,9 +3177,11 @@ RESULT: DONE. PASS  music / research. measured: stage=RESEARCHED eras=10/10 stor
         386872 tokens, 132 tool uses, 18.3 min (opus). Era 10, chapter COMPLETE. Dolly Parton's death confirmed beyond the Burchett statement (NPR, CNN, Spectrum, Wikipedia: cancer, Nashville, 25 Aug 2026, age 80; announced by nephew Bryan Seaver); story fully sourced (Here I Am, 2019); $1M COVID gift worded exactly. Taylor Swift, Kendrick Lamar, Zoe Keating. Napster to streaming (court-order claim corrected), per-stream pay, MMA 2018, AI suits to Sep 2026, Las Vegas and Astroworld, Kennedy Center closure. 2 searched-not-found. TO PARK for nine chapters.
 
 ### 2026-09-27 | [LOCAL] T-272b | styles: full research eras 6-8 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
+RESULT: LANDED. FAIL  styles / research. measured: stage=PARTIAL eras=10/10 stories=13 (v11 c0 t2) verify_tags=0 bank=16654w outline=11994w manuscript=0w validator_errors=0
+        319906 tokens, 152 tool uses, 21.9 min (opus). Eras 6-8 + bank check. Stories: Douglass (issued clothing, sailor disguise), Elizabeth Keckley, Levi Strauss and Jacob Davis (patent 139,121), Madam C. J. Walker, Wallace Carothers, Ann Lowe. Negro cloth and its mills, Northup on picking, Jacobs's dress, the Bloomer, Singer and Butterick, coal-tar dyes, SF queue ordinance, Carlisle clothes and hair, the 1902 hair order, Annie Malone, Bakelite, nylon, L-85, 1943 zoot suit attacks. 3 searched-not-found. Left for round 2: Native dress 1800-50, Art Deco, New Look. Chapter FAIL until eras 9-10. TO PARK 9.
 
 ### 2026-09-27 | [LOCAL] T-269b | storytelling-evolution: full research eras 6-7 [BURST] | model opus
 STATUS: LANDED

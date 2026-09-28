@@ -197,50 +197,193 @@ From 1765 to 1776, colonists who opposed British taxes refused to buy British cl
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="styles" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="styles" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-Machines start making cloth, and for the first time people buy clothes instead of making them.
+Between 1800 and 1850, the cotton that American mills spun came from Southern plantations, where enslaved people grew and picked it. Mills in New England spun and wove that cotton into cloth. Some mills in Rhode Island and Lowell, Massachusetts, also wove a rough cheap cloth that planters bought to dress the people they enslaved. Fashionable women wore high-waisted white cotton dresses in the 1800s, then tight corsets and wider skirts held out by layers of petticoats. Men gave up knee breeches and powdered hair for long trousers and short hair. Most clothes were still sewn at home or by a tailor. The first shops that sold clothes already made stood near the docks and sold to sailors.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="factory textiles and ready-made clothing" -->
-Empire dresses and changing silhouettes; the first factory textiles from the Lowell mills; ready-made clothing beginning, first for sailors and enslaved workers [VERIFY]; natural dyes still standard.
+<!-- hb-zoom level="span" label="What fashionable people wore, 1800 to 1850" -->
+- In the 1800s the fashionable dress for women was high-waisted, with the waistline just under the bust, made of thin white cotton called muslin. White dresses were hard and costly to keep clean. Printed cottons and patterned silks were worn every day, and wool in cold weather (Harper Franklin, "1800-1809", Fashion History Timeline, Fashion Institute of Technology).
+- Men in the same years stopped powdering their hair and cut it short. Plain dark wool coats replaced the embroidered silk of the 1700s. Knee breeches were still worn, and so were long tight pants called pantaloons (Franklin, "1800-1809").
+- In the early 1830s women's sleeves puffed out wide from the shoulder, a shape called the gigot or leg-of-mutton sleeve. Skirts grew wide and women wore more and more petticoats under them, with a long corset laced tight underneath (Franklin, "1830-1839", Fashion Institute of Technology).
+- In the 1840s a fashionable woman's corset ran from her breasts to her hips, stiffened with cords and whalebone and a flat piece of steel, wood or whalebone down the front, so she could not bend at the waist. Sleeves were cut so tight that she often could not lift her arms higher than her shoulders. By the end of the decade some women wore six or seven petticoats. Men wore long frock coats, narrow trousers and bright patterned silk vests (Franklin, "1840-1849", Fashion Institute of Technology).
+- From 1830 *Godey's Lady's Book*, a Philadelphia magazine, opened each issue with a fashion plate, a picture of the latest dresses colored by hand. Its publisher, Louis Godey, said coloring the plates cost $8,000 in 1859. Sarah Josepha Hale edited it from 1837 to 1877. By 1860 it had about 150,000 subscribers (Wikipedia, "Godey's Lady's Book"). Shared with: `holidays` (lead: Sarah Josepha Hale's story) · `news-communication` (magazines).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Cotton picked in the South, woven in the North" -->
+- New England mill owners and mill workers depended on cotton grown in the South. Their demand for raw cotton pushed planters to grow more of it and to enslave more people to do the work (National Park Service, "Lowell's Southern Connection"). Charles Sumner, a senator from Massachusetts, called the tie between the planters and the New England mill owners an "unholy union ... between the cotton planters and fleshmongers of Louisiana and Mississippi and the cotton spinners and traffickers of New England" (NPS).
+- The Merrimack Company in Lowell printed calico, cotton cloth printed with colored patterns. It hired skilled printers from England. The head printer it hired in 1825 was paid more than the company's treasurer (NPS, "Products of the Mills").
+- Solomon Northup was a free Black man from New York. Kidnappers seized him in Washington in 1841 and sold him into slavery in Louisiana, where he was held until January 1853. He described cotton picking on Edwin Epps's plantation on Bayou Boeuf. Pickers had to be in the field as soon as it was light and stayed until it was too dark to see, with 10 or 15 minutes at noon to eat cold bacon. At night each picker's basket was weighed. An ordinary day's work was 200 pounds. Anyone who brought in less was whipped, a punishment Northup counted in lashes, each lash one blow of the whip on the bare body (Solomon Northup, *Twelve Years a Slave*, 1853).
+- Northup wrote that a woman named Patsey was the fastest picker on Bayou Boeuf and often picked 500 pounds a day. Epps set each picker's daily amount by what that person could pick. Northup wrote that Patsey "would surely have been beaten if she failed to produce twice as much" as the 200 pounds he was held to (Northup).
+- Shared with: `slavery-freedom` (lead: Solomon Northup's story and slavery's growth with cotton) · `work-workers` (lead: the Lowell mill workers) · `economy` (cotton as an export). This chapter has where the cotton in people's clothes came from.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Cloth made for enslaved people's clothes" -->
+- Planters called the rough fabric they bought for enslaved people's clothes "negro cloth" or "slave cloth." The names covered several coarse fabrics: osnaburg (a rough unbleached cotton or linen), linsey-woolsey (a cheap mix of wool and cotton or linen), kersey (a thick wool) and jeans (a cotton and wool twill) (Madelyn Shaw, "Slave Cloth and Clothing Slaves", *MESDA Journal*, 2012).
+- The Hazard family's woolen mill in Peace Dale, Rhode Island, made negro cloth for Southern planters. In the 1820s Isaac Peace Hazard traveled the South taking orders from plantation owners. By 1845, 17 of Rhode Island's 40 textile mills specialized in negro cloth. Lowell's mills made it too (Shaw. Rhode Island Historical Society, "Slave Cloth". NPS, "Lowell's Southern Connection").
+- Southern buyers told the Hazards what they wanted. One wrote in 1824 that the cloth "would not suit servants unless it was blue." Enslaved people showed a visitor clothes "as thin as baize, threads not beat close together, others split all to pieces" (Shaw, quoting the Hazard papers).
+- Enslavers gave out clothing on set days, once a year on some plantations and in a summer share and a winter share on others (Douglass. Shaw). On Stephen Duncan's Carlisle plantation in Mississippi in the 1850s, each man got enough cloth for three shirts, two pairs of summer pants and one pair of winter pants, plus a coat and two pairs of shoes. Each child got four short loose dresses called slips. John Potter bought 1,800 yards of cloth a year for the 400 people enslaved on his South Carolina rice plantation, about 4.5 yards each (Shaw).
+- Harriet Jacobs was enslaved in Edenton, North Carolina, in the household of Dr. James Norcom, whom her book calls Dr. Flint. She wrote: "I have a vivid recollection of the linsey-woolsey dress given me every winter by Mrs. Flint. How I hated it! It was one of the badges of slavery." Her grandmother's work paid for the rest of her clothes (Harriet Jacobs, *Incidents in the Life of a Slave Girl*, 1861. Wikipedia, "Harriet Jacobs").
+- Slave traders dressed people in new clothes before selling them. In the New Orleans slave pen of Theophilus Freeman in 1841, Northup wrote, the traders made the captives wash and the men shave, then gave each person "a new suit each, cheap, but clean." Men got a hat, coat, shirt, pants and shoes. Women got calico dresses and handkerchiefs to tie around their heads (Northup, *Twelve Years a Slave*).
+- Shared with: `slavery-freedom` (lead: slavery as a system) · `marketplace` (the plantation trade). This chapter has the cloth and who made it.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="frederick-douglass-styles" name="Frederick Douglass" movie="" kind="famous" status="verified" -->
+### Frederick Douglass
+> **Who:** a man enslaved in Maryland who described the clothes he was given as a child and escaped to freedom dressed as a sailor. · **When and where:** Talbot County and Baltimore, Maryland, 1820s to 1838.
+- Frederick Douglass was born enslaved in Talbot County, Maryland. As a child he lived on the home plantation of Colonel Edward Lloyd, where enslaved people from Lloyd's other farms came for their food and their yearly clothing (Frederick Douglass, *Narrative of the Life of Frederick Douglass*, 1845).
+- Each enslaved adult got two coarse linen shirts, one pair of linen trousers, one jacket, one pair of winter trousers "made of coarse negro cloth," one pair of stockings and one pair of shoes a year. Douglass wrote that all of it "could not have cost more than seven dollars." Children too young for the fields got only two coarse linen shirts a year. "When these failed them, they went naked until the next allowance-day" (Douglass, *Narrative*).
+- Douglass wrote that as a boy he wore "nothing on but a coarse tow linen shirt, reaching only to my knees," summer and winter, with no shoes, stockings, jacket or trousers. On the coldest nights he slept inside a corn sack on the clay floor. His feet cracked open from the frost (Douglass, *Narrative*).
+- When he was about seven or eight, his owners sent him to Baltimore. Lucretia Auld, the daughter of his old master, told him he could have a pair of trousers if he scrubbed the dirt off his skin first. He wrote: "The thought of owning a pair of trousers was great indeed!" (Douglass, *Narrative*).
+- On September 3, 1838, Douglass escaped from Baltimore by train. He wrote: "I had on a red shirt and a tarpaulin hat, and a black cravat tied in sailor fashion carelessly and loosely about my neck." He carried a friend's sailor's protection, a paper that described a free American sailor, in place of free papers (Frederick Douglass, "My Escape from Slavery", *The Century Magazine*, November 1881). A tarpaulin hat was a sailor's waterproofed hat.
+- Anna Murray, a free Black woman in Baltimore who later married him, helped. Accounts differ on the clothes. Some say she sewed the sailor's outfit. Others say she got it through her work as a laundress. She also gave him part of her savings and sold a feather bed to add to it (Wikipedia, "Anna Murray Douglass", citing *The Frederick Douglass Encyclopedia*, 2010. Search summaries of Britannica and Smithsonian say she sewed it, unconfirmed: search summary only).
+- Shared with: `slavery-freedom` (lead: his life and escape) · `art` (lead: his writing) · `music`, `holidays`, `drugs-alcohol` (their slices of his book). This chapter has what he was made to wear and what he wore to escape.
+<!-- hb-story:end slug="frederick-douglass-styles" -->
+<!-- hb-zoom level="span" label="The first ready-made clothes" -->
+- The first clothes sold ready to wear in America were sold at "slop shops" on the streets next to the wharves of Boston, New York, Philadelphia, Baltimore and smaller whaling and fishing towns in the early 1800s. Their buyers were sailors (Sofi Thanhauser, *Worn: A People's History of Clothing*, 2022, excerpt in *Literary Hub*).
+- Between 1840 and 1860 making cheap clothes for enslaved people grew into its own industry. Planters who bought ready-made clothes did not have to take enslaved women away from other work to sew them (Thanhauser).
+- Shared with: `marketplace` (lead: stores) · `work-workers` (the sewing workers).
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="styles" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="styles" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-The sewing machine and the department store put fashion within reach of ordinary people — and chemistry gives them colors nobody had seen.
+From 1850 to 1900, machines and chemistry changed what Americans wore and what colors they could buy. Isaac Singer began making sewing machines in 1851, and from 1856 his partner Edward Clark let families pay for one a few dollars a month. In 1856 an English chemistry student made the first man-made dye to be sold, a purple, from chemicals in coal tar. Chemists soon made other new colors. In 1851 a few women's rights leaders wore short skirts over trousers and were mocked for it. In 1873 a Reno tailor and a San Francisco merchant got a patent for work pants with metal rivets, the pants later called blue jeans. Other Americans used clothes and hair to push people into line. San Francisco's leaders passed a law in 1876 that let the sheriff cut off Chinese prisoners' long braids, and the staff at Carlisle Indian School in Pennsylvania cut Native children's hair and took their clothes.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the sewing machine, blue jeans, and synthetic color" -->
-Victorian dress and its layers; the Gibson Girl; the home sewing machine; blue jeans as work clothes from 1873 [VERIFY the Levi Strauss and Jacob Davis patent]; the first synthetic dye made abroad in 1856 and the bright colors that followed; steel and aluminum in everyday objects; celluloid as the first widely used plastic.
+<!-- hb-zoom level="span" label="The Bloomer costume, 1851 to 1854" -->
+- In February 1851, Elizabeth Smith Miller wore a short dress over loose trousers gathered at the ankle, sometimes called the Turkish dress, when she visited Amelia Bloomer in Seneca Falls, New York. Bloomer adopted it and printed articles and pictures of it in her newspaper, *The Lily*. Elizabeth Cady Stanton wore it too. People named it the Bloomer after her (Wikipedia, "Bloomers (clothing)". NPS, Women's Rights National Historical Park, "Amelia Bloomer").
+- Bloomer wrote that "letters came pouring in upon me by the hundreds from women all over the country" asking about the dress. The number of copies of *The Lily* sent out each month rose from 500 to 4,000, by NPS's count, or to 3,000 by another count (NPS. Wikipedia).
+- Men mocked women who wore it and called them "Amazons." Some churches refused women who wore it as members. By about 1854 Stanton and other women's rights leaders had gone back to long skirts and corsets, because they felt the mockery took attention away from their fight for the vote (Wikipedia, "Bloomers (clothing)").
+- Shared with: `rights-movements` (lead: Stanton, Bloomer and the fight for the vote). This chapter has the clothes.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="levi-strauss-jacob-davis" name="Levi Strauss and Jacob Davis" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Hoops, sewing machines and paper patterns" -->
+- In 1856 the cage crinoline came into use, a frame of steel hoops that held a skirt out wide. Before it, women wore up to seven petticoats to get the same shape (Fashion Institute of Technology, Fashion History Timeline, "1850-1859").
+- Isaac Singer began making sewing machines in 1851, using the lockstitch Elias Howe had invented. Sewing a man's frock coat took almost 17 hours by hand and 2 and a half by machine (FIT, "1850-1859").
+- A Singer machine cost about $100 or more, when a family might earn about $500 a year. In September 1856 Edward Clark, Singer's partner, began selling machines on installments, a little each month. Accounts of the terms differ: $5 a month (Peter Lyon, "Isaac Singer and His Wonderful Sewing Machine", *American Heritage*, 1958) or $5 down and $3 a month (search summaries, unconfirmed: search summary only). Clark also took in old machines of other makes as part payment (Lyon).
+- In 1863 Ebenezer Butterick and his wife, Ellen Augusta Pollard Butterick, of Sterling, Massachusetts, began selling sewing patterns cut from tissue paper in a range of standard sizes. Before that, a pattern came in one size. Family members cut and folded the first ones at home. They sold patterns for men's and boys' clothes first and added women's dresses in 1866 (Wikipedia, "Ebenezer Butterick").
+- Shared with: `technology` (lead: the sewing machine and Howe's patent) · `marketplace` (lead: installment buying). This chapter has what the machines and patterns let families make and wear.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="elizabeth-keckley" name="Elizabeth Keckley" movie="" kind="famous" status="verified" -->
+### Elizabeth Keckley
+> **Who:** a dressmaker, born enslaved, who bought her freedom with her sewing and made Mary Todd Lincoln's dresses. · **When and where:** Virginia, St. Louis and Washington, D.C., 1818 to 1868.
+- Elizabeth Keckley was born enslaved in February 1818 at Dinwiddie Court House, Virginia. Her mother, Agnes, made clothes for 82 people: 12 members of the Burwell family who enslaved them and the 70 people the Burwells enslaved. Keckley learned sewing by helping her (Wikipedia, "Elizabeth Keckley").
+- When she was 18, in Hillsboro, North Carolina, a schoolmaster named Bingham whipped her because Mrs. Burwell, in whose house she was enslaved, wanted her "stubborn pride" broken. When she asked why, he hit her with a chair and knocked her to the floor. She wrote that for four years after that a white man, whom she refused to name, forced himself on her, and that she gave birth to his son, George (Elizabeth Keckley, *Behind the Scenes, or, Thirty Years a Slave, and Four Years in the White House*, 1868).
+- In St. Louis her owners, the Garland family, lived on her sewing. She wrote: "With my needle I kept bread in the mouths of seventeen persons for two years and five months." The richest women in the city became her customers (Keckley).
+- Her owner agreed to free her and George for $1,200. One of her customers, Mrs. Le Bourgeois, collected the money from other customers as a loan. Keckley was freed on November 15, 1855, and paid back every cent from her sewing (Keckley. Wikipedia).
+- She moved to Washington in 1860 and later employed 20 seamstresses. On the Tuesday after Abraham Lincoln took office in March 1861, she went to the White House. Three other dressmakers were waiting, and Mary Todd Lincoln chose her. She wrote that she made "fifteen or sixteen dresses" for Mrs. Lincoln that spring and summer. Her customers also included Varina Davis, the wife of Jefferson Davis (Keckley. Wikipedia).
+- In August 1862 she started the Contraband Relief Association to help Black people who had escaped slavery and come to Washington. In its first year it handed out 5,150 pieces of clothing (Wikipedia).
+- She wrote *Behind the Scenes*, published in 1868. The Smithsonian holds a purple velvet gown she made for Mrs. Lincoln (Wikipedia). She died in Washington in May 1907.
+- Shared with: `slavery-freedom` (freedom bought with earnings) · `government-politics` (the Lincoln White House). This chapter has her work as a dressmaker. Filled the target "a home dressmaker".
+<!-- hb-story:end slug="elizabeth-keckley" -->
+<!-- hb-zoom level="span" label="New colors from coal tar, 1856 on" -->
+- Before 1856 every dye came from plants, insects, shellfish or minerals, like the indigo and cochineal of earlier centuries. In 1856 William Henry Perkin, an 18-year-old student in London, was trying to make quinine, a malaria drug, from chemicals found in coal tar. He made a purple dye instead and called it mauveine. It was the first man-made dye sold for use. He opened a factory near London in 1857 (Science History Institute, "William Henry Perkin").
+- By 1859 chemists had made more coal-tar colors, such as fuchsine, a deep crimson-pink (FIT, "1850-1859"). These are called aniline dyes, after aniline, one of the coal-tar chemicals used to make them.
+- Shared with: `technology` and `elements` (lead: the chemistry and the dye factories). This chapter has the colors people wore.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="levi-strauss-jacob-davis" name="Levi Strauss and Jacob Davis" movie="" kind="famous" status="verified" -->
 ### Levi Strauss and Jacob Davis
-Patented riveted work trousers that became blue jeans.
+> **Who:** a Reno tailor who put metal rivets on work pants and the San Francisco merchant who paid for the patent with him. · **When and where:** Reno, Nevada, and San Francisco, California, 1870 to 1873.
+- Jacob Davis was born Jacob Youphes in Riga, in the Russian Empire, on May 14, 1831. He came to New York in 1854 and changed his name. By 1869 he ran a tailor shop in Reno, Nevada (Wikipedia, "Jacob W. Davis").
+- A woman asked Davis to make strong work pants for her husband, a woodcutter. Davis had been using copper rivets on horse blankets. He put rivets at the corners of the pockets and the bottom of the fly, where the seams tore. Davis said in a court statement that this was in January 1871. Wikipedia dates it to December 1870 (National Archives, *Prologue* blog, "Forever in Blue Jeans ... and in Court", 2010. Wikipedia).
+- Levi Strauss was born in Buttenheim, Bavaria, on February 26, 1829. He came to the United States in 1847 and reached San Francisco in 1854, where he sold cloth and clothing wholesale as Levi Strauss & Co. (Wikipedia, "Levi Strauss"). Davis could not pay the patent fee, so in 1872 he wrote to Strauss and offered to share the patent if Strauss paid (search summaries of History.com and NARA, unconfirmed: search summary only).
+- On May 20, 1873, the U.S. Patent Office granted patent number 139,121 for an "improvement in fastening pocket-openings": "a metal rivet or eyelet at each edge of the pocket opening to prevent the ripping of the seam." Davis and Levi Strauss & Co. shared it (NARA *Prologue*. Wikipedia).
+- In January 1874 Davis and Strauss sued a company that copied the rivets. The court decided for them on February 10, 1875, and awarded $2,000 of the $20,000 they asked (NARA *Prologue*).
+- Davis ran the San Francisco factory that made the riveted pants. He died in 1908. Strauss died on September 26, 1902 (Wikipedia).
+- Shared with: `work-workers` (work clothes) · `marketplace` (the brand). This chapter has the pants.
 <!-- hb-story:end slug="levi-strauss-jacob-davis" -->
-<!-- hb-story:start slug="home-dressmaker" name="(target) a home dressmaker" movie="" kind="ordinary" status="target" -->
-### (target) a home dressmaker
-Made a family's clothes on a machine bought on installments.
-<!-- hb-story:end slug="home-dressmaker" -->
+<!-- hb-zoom level="span" label="Cutting Chinese men's braids in San Francisco, 1876 to 1879" -->
+- Chinese men in the 1800s shaved the front of the head and wore the rest of their hair in one long braid called a queue. Losing it was a disgrace, and many believed it brought "misfortune and suffering after death" (Justice Stephen Field, *Ho Ah Kow v. Nunan*, U.S. Circuit Court, California, July 7, 1879).
+- In 1873 San Francisco's Board of Supervisors passed an order to cut prisoners' hair, and Mayor William Alvord vetoed the hair-cutting part (San Francisco Sheriff's Office history, "Sheriff Matthew Nunan and the Chinese Queues").
+- In April 1876 California's lawmakers made it a crime to sleep in a room with less than 500 cubic feet of air per person. The law was used against Chinese people living in crowded boardinghouses (Federal Judicial Center, "Ho Ah Kow v. Nunan"). On June 14, 1876, the Board of Supervisors ordered that every man jailed in the county have his hair cut to one inch from the scalp. Field found that the order was "directed against the Chinese only" (*Ho Ah Kow v. Nunan*).
+- In April 1878 Ho Ah Kow was convicted under the lodging law and fined $10. He could not pay, so he was jailed for five days. Sheriff Matthew Nunan cut off his queue. Nunan and his deputies cut off other men's queues too. The records do not say how many (*Ho Ah Kow v. Nunan*. San Francisco Sheriff's Office history).
+- Ho Ah Kow sued. On July 7, 1879, Justice Field ruled that the hair order broke the Fourteenth Amendment, because it punished Chinese prisoners more harshly than others (*Ho Ah Kow v. Nunan*). Search summaries say Ho Ah Kow was awarded $10,000 (unconfirmed: search summary only).
+- Shared with: `immigration` (lead: anti-Chinese laws) · `crime-justice` (the case). This chapter has the haircut.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Uniforms and short hair at Carlisle, 1879 on" -->
+- Army officer Richard Henry Pratt opened the Carlisle Indian Industrial School in Pennsylvania in 1879. Staff cut the children's hair and took away their clothes, and dressed boys in military uniforms and girls in Victorian dresses (`education` research bank, sourced there. `education` and `native-nations` tell the school and the children's own words).
+- Carlisle's photographer, John N. Choate, photographed students when they arrived and again after they had been at the school. The school printed the pairs side by side. One pair is captioned "Tom Torlino, Navajo. As he entered the school in 1882. As he appeared three years later." The pairs set students in the clothes they arrived in beside the same students in school uniforms (Carlisle Indian School Digital Resource Center, Dickinson College, "Before and After Photographs"). In the "after" pictures boys had short hair and girls had their hair tied back (search summary of the Digital Resource Center's teaching page, unconfirmed: search summary only).
+- Shared with: `education` (lead: the school) · `native-nations` (lead: what the schools did to the nations). This chapter has the clothes and the hair.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Shirtwaists and the Gibson Girl, 1890s" -->
+- In the 1890s women wore a separate skirt and a shirtwaist, a blouse cut like a man's shirt. Women who worked in offices and stores wore it every day. Sleeves puffed out wide again, biggest around 1895. Most men wore the sack suit, a loose jacket and pants (FIT, "1890-1899").
+- About 50,000 people rode bicycles in 1885 and about 10 million in 1896, by one estimate. Some women rode in bloomers, but most wore shorter skirts (FIT, "1890-1899").
+- Charles Dana Gibson (1867 to 1944) drew for *Life*, *Collier's Weekly*, *Harper's Weekly* and other magazines. In the 1890s he drew a tall, slim young woman who played sports and went to college, called the Gibson Girl. The Library of Congress says she "set the standard for beauty, fashion, and manners" from the 1890s until World War I (Library of Congress, "The Gibson Girl's America").
+- Shared with: `art` (lead: Gibson as an illustrator). This chapter has the look.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="styles" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="styles" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Hemlines rise, plastics arrive, and the look of "modern" is invented on purpose.
+Between 1900 and 1950, new man-made materials changed what Americans wore and handled every day. Leo Baekeland made Bakelite, a hard plastic, in 1907, and chemists at the DuPont company made nylon in 1935. In the 1920s many women cut their hair short and wore shorter, looser dresses. Black women built companies that sold hair products to Black customers. Madam C. J. Walker and Annie Malone each grew rich from it, with fortunes reported at or above a million dollars. Government officials also used clothes and hair as tools of control. In 1902 the U.S. commissioner of Indian affairs told reservation officials to make Native men cut their hair. In 1942 the War Production Board limited how much cloth a dress or suit could use. In June 1943 servicemen in Los Angeles beat Mexican American young men and tore off their zoot suits, and the police arrested the young men.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="flappers, Art Deco, and made materials" -->
-Flappers and the 1920s; Art Deco; Bakelite from 1907 [VERIFY]; nylon stockings from 1939 [VERIFY]; neon signs; Technicolor film; wartime rationing shaping clothes; the postwar "New Look."
+<!-- hb-zoom level="span" label="The order to cut Native men's hair, 1902" -->
+- On January 11, 1902, William A. Jones, the U.S. commissioner of Indian affairs, sent a letter to the superintendents of the federal reservations and agencies. He wrote: "The wearing of long hair by the male population of your agency is not in keeping with the advancement they are making, or will soon be expected to make, in civilization." He called short hair "a great step in advance" (*ICT*, "Native History: The Astonishing 1902 Order to Cut Native Hair!", quoting the letter. Rebecca Onion, *Slate*, 2013, from the National Archives copy).
+- Jones wrote that "Indian costume and blanket" should be discouraged and that "Indian dances and so-called Indian feasts should be prohibited." He claimed that face paint caused most of the blindness among Native people. He told superintendents they could make men obey by holding back their rations, the food and supplies the government handed out on reservations, and their jobs. Superintendents had to report their progress by June 30, 1902 (*ICT*. *Slate*). Some accounts say the letter also suggested putting men who refused "in the guardhouse at hard labor" (search summary, unconfirmed: search summary only).
+- Charles Burton, the superintendent for the Hopi and Navajo, was reported to have used "whips, guns, and sheep shears" to enforce the order (Tisa Wenger, *We Have a Religion*, 2009, quoted by *ICT*).
+- The letter made national news and drew criticism, including in *Harper's Weekly* in February 1902. After that and after reports of rough enforcement, the Bureau of Indian Affairs told its officials to use "persuasion and example, rather than force" (*Slate*. *ICT*).
+- Shared with: `native-nations` (lead: the reservation system) · `religion` (the ban on dances). This chapter has the hair and clothing order.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="wallace-carothers" name="Wallace Carothers" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Shirtwaists, short hair and short skirts" -->
+- The shirtwaist, a blouse cut like a man's shirt, stayed the everyday top for working women in the 1900s. Young immigrant women made them in New York factories. The Triangle Waist Company made shirtwaists on the top floors of a building near Washington Square. On March 25, 1911, a fire there killed 146 workers, most of them young immigrant women (`work-workers` research bank, which tells the fire and the strikes).
+- In the 1920s many women cut their hair into a short bob. Dresses hung straight, with a low waist, in a slim shape often called the flapper look. Hemlines rose until 1926 and then began to fall. Many women gave up formal layers for lighter, looser clothes. Cheaper fabrics such as jersey and "artificial silk" let more women dress in the new styles (FIT, Fashion History Timeline, "1920-1929").
+- Shared with: `work-workers` (lead: the shirtwaist strikes and the Triangle fire) · `disasters` (the fire). This chapter has the blouse and the 1920s look.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Hair care built by Black women" -->
+- Annie Turnbo was born on August 9, 1877, in Metropolis, Illinois, to parents who had been enslaved in Kentucky. She made a hair product she called Wonderful Hair Grower and sold it door to door. In 1902 she moved to St. Louis and opened a shop. She later named her company Poro. In 1918 she opened Poro College in St. Louis, a building with a factory, a store, classrooms, a dormitory and a chapel. About 200 people worked there, and about 75,000 women trained as Poro agents. She paid nearly $40,000 in taxes in 1924 (Wikipedia, "Annie Turnbo Malone").
+- Shared with: `marketplace` (door-to-door selling) · `rights-movements` (Black women's organizations). This chapter has the hair products.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="madam-cj-walker" name="Madam C. J. Walker" movie="Two Dollars and a Dream (1987)" kind="famous" status="verified" -->
+### Madam C. J. Walker
+> **Who:** a Black businesswoman, born to formerly enslaved parents, who built a hair-care company and trained thousands of women to sell her products. · **When and where:** St. Louis, Denver and Indianapolis, 1889 to 1919.
+> **Movie:** Two Dollars and a Dream (1987)
+- Madam C. J. Walker was born Sarah Breedlove on December 23, 1867, in Delta, Louisiana. Her parents had been enslaved. She was orphaned at 7, married at 14 and moved to St. Louis in 1889, where she worked as a laundress and cook (National Women's History Museum, "Madam C. J. Walker". Wikipedia).
+- Skin disease, harsh soaps and hair products, poor food and homes without running water made her hair fall out. In 1904 she began using Annie Turnbo's hair product and became one of Turnbo's sales agents in St. Louis (Wikipedia. NWHM).
+- In July 1905 she moved to Denver and began selling her own product, "Madam Walker's Wonderful Hair Grower." She married Charles Joseph Walker in 1906 and took his name. In 1910 she moved her company to Indianapolis and built a factory there (Wikipedia. NWHM).
+- She trained women to sell her products and to do hair. By 1917 her company said it had trained nearly 20,000 women (Wikipedia). The National Women's History Museum says she employed 40,000 people.
+- She gave money to the YWCA and $5,000 to the NAACP's work against lynching (NWHM).
+- She died on May 25, 1919. Accounts of her wealth differ: between half a million and a million dollars (Wikipedia), or more than $1 million (NWHM).
+- *Two Dollars and a Dream* (1987) is a documentary about her by Stanley Nelson. The Netflix series *Self Made* (2020) is a drama based on her life (Wikipedia).
+- Shared with: `marketplace` (lead: selling) · `rights-movements` (her anti-lynching giving). This chapter has the hair care.
+<!-- hb-story:end slug="madam-cj-walker" -->
+<!-- hb-zoom level="span" label="Plastics and nylon" -->
+- In 1907 the chemist Leo Baekeland made Bakelite from two chemicals, phenol and formaldehyde, heated under pressure. It was the first plastic made entirely from chemicals rather than from plants or animals. Makers used it for jewelry, telephones, radios and billiard balls, and in cars (Science History Institute, "Leo Hendrik Baekeland"). His patent was granted on December 7, 1909 (research bank, parked from `technology`).
+- Nylon went on sale as women's stockings. DuPont sold the first 4,000 pairs to its employees' wives in Wilmington, Delaware, on October 24, 1939, and they sold out in three hours. On May 16, 1940, called Nylon Day, four million pairs went on sale in stores across the country at about $1.15 a pair and sold out in two days. Some sources give the date as May 15 (Emily Spivack, "Stocking Series, Part 1", *Smithsonian Magazine*, 2012).
+- After the United States entered World War II in December 1941, DuPont's nylon went to parachutes, tire cords, ropes and other war goods instead of stockings. When stockings came back in 1945, women lined up by the thousands. In Pittsburgh 40,000 people lined up for more than a mile for 13,000 pairs (Spivack).
+- Shared with: `technology` (lead: how plastics and nylon were made) · `elements` (the chemistry) · `war` (the parachutes).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="wallace-carothers" name="Wallace Carothers" movie="" kind="famous" status="verified" -->
 ### Wallace Carothers
-Chemist whose team made nylon.
+> **Who:** the chemist who led the DuPont team that made nylon. · **When and where:** DuPont's Experimental Station near Wilmington, Delaware, 1928 to 1937.
+- Wallace Hume Carothers was born on April 27, 1896, in Burlington, Iowa. He started work at DuPont's research station near Wilmington, Delaware, on February 6, 1928 (Wikipedia, "Wallace Carothers").
+- His laboratory made two of the most widely used man-made materials of the 1900s. In April 1930 his team made neoprene, a man-made rubber. On February 28, 1935, Gerard Berchet, working under Carothers, made the first half ounce of the nylon later used in stockings (Science History Institute, "Wallace Hume Carothers". Wikipedia).
+- Carothers had depression, an illness that brings long periods of deep sadness and makes it hard to think and work. He wrote: "I suffer from neurotic spells of diminished capacity." In the summer of 1936 he was treated in a psychiatric hospital. His sister Isobel died in January 1937 (Wikipedia).
+- On April 29, 1937, at age 41, Carothers killed himself by taking cyanide, a poison, in Philadelphia (Science History Institute. Wikipedia). DuPont announced nylon on October 27, 1938. His daughter, Jane, was born in November 1937, seven months after his death (Wikipedia).
+- Shared with: `technology` (lead: nylon as an invention, names Carothers). This chapter has his story. Movie: none found.
 <!-- hb-story:end slug="wallace-carothers" -->
-<!-- hb-story:start slug="dressmaker-or-department-store-buyer" name="(target) a dressmaker or department-store buyer" movie="" kind="ordinary" status="target" -->
-### (target) a dressmaker or department-store buyer
-A documented dressmaker or department-store buyer of the era.
-<!-- hb-story:end slug="dressmaker-or-department-store-buyer" -->
+<!-- hb-story:start slug="ann-lowe" name="Ann Lowe" movie="" kind="ordinary" status="verified" -->
+### Ann Lowe
+> **Who:** a Black dressmaker from Alabama who made gowns for the richest families in Tampa and New York while the wider public hardly knew her name. · **When and where:** Alabama, New York and Tampa, 1898 to 1950.
+- Ann Lowe was born about 1898 in Clayton, Alabama, into a family of Black dressmakers. She learned the trade from her mother and her grandmother. Her great-grandmother had been enslaved (Winterthur Museum, "Ann Lowe: American Couturier", 2023. Wikipedia, "Ann Lowe").
+- Her mother, Jane, and grandmother, Georgia, made dresses for rich families in Montgomery. Her mother died in 1914, when Ann was 16, and Ann took over the business (Wikipedia).
+- In 1917 she went to the S. T. Taylor Design School in New York. The school made her sit in a classroom by herself, apart from the white students. She was ready to graduate after six months. She then made gowns in Tampa, Florida, where she worked for the heiress Josephine Lee and opened her own dress shop in 1920 (Wikipedia. Search summaries of the Winterthur exhibition coverage, unconfirmed: search summary only, for Josephine Lee).
+- In 1928 she moved to New York with $20,000 she had saved. For years she made gowns on commission for stores such as Henri Bendel, Neiman Marcus and Saks Fifth Avenue. The dress Olivia de Havilland wore to accept her Academy Award in 1946 was credited to another dressmaker, "Sonia Rosenberg" (Wikipedia).
+- The Winterthur Museum calls her work part of "a legacy of Black women's knowledge and skills that began as enslaved labor" (Winterthur).
+- Her best-known dress, Jacqueline Bouvier's wedding gown of 1953, belongs to the next era. Filled the target "a dressmaker or department-store buyer".
+<!-- hb-story:end slug="ann-lowe" -->
+<!-- hb-zoom level="span" label="Cloth rules in World War II, 1942 to 1946" -->
+- On April 8, 1942, the War Production Board, the federal agency that controlled materials in wartime, issued General Limitation Order L-85. It set how long and how wide women's coats, dresses, suits and skirts could be. It banned hoods, capes and scarves attached to coats, belts and hems more than 2 inches wide, cuffs on long jacket sleeves and on slacks, and pleating, tucking or gathering all over a garment. Wedding gowns, maternity dresses, children's clothes, burial gowns and religious robes were exempt. The rules lasted until 1946 (Jennifer M. Mower, "Pretty and Patriotic: Women's Consumption of Apparel During World War II", PhD dissertation, Oregon State University, 2011, quoting *Women's Wear Daily*, April 8, 1942).
+- Stanley Marcus, co-owner of the Neiman-Marcus department stores, headed the board's women's and children's clothing section from December 27, 1941, and wrote the rules with people from the clothing trade. Makers and stores that broke them could be fined or jailed (Mower, citing Marcus's memoir, *Minding the Store*, 1974).
+- The same month the board limited elastic for girdles and bras. Nylon and rubber went to the military (Mower).
+- Shared with: `war` (lead: the home front) · `economy` (rationing). This chapter has the clothes.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The zoot suit attacks in Los Angeles, June 1943" -->
+- A zoot suit had high-waisted, very wide pants that narrowed at the ankle and a long coat with wide lapels. It began among Black men in Harlem. In Los Angeles in the early 1940s young Mexican American men wore it, and so did some Filipino American, Japanese American and Black young men and some Mexican American young women. The War Production Board had stopped the making of zoot suits because they used so much cloth (Stephanie Hinnershitz, "The Zoot Suit Riots and Wartime Los Angeles", National WWII Museum).
+- From June 3 to June 8, 1943, sailors, soldiers and Marines, joined by civilians, went through Mexican American neighborhoods of Los Angeles hunting young men in zoot suits. They beat them and tore off their clothes, and burned the suits in street fires. The attacks began on June 3 with about 50 sailors. By the later days thousands of servicemen had joined (Hinnershitz. Wikipedia, "Zoot Suit Riots").
+- More than 150 people were injured (Wikipedia). Los Angeles police arrested nearly 600 Mexican Americans, by the National WWII Museum's count, or more than 500 by another count. Most of them had been attacked. Police arrested far fewer servicemen. Wikipedia says no soldiers were arrested for the beatings (Hinnershitz. Wikipedia).
+- On June 8, 1943, Navy and Marine Corps commanders declared Los Angeles off limits to servicemen, and the attacks stopped (Hinnershitz. Wikipedia).
+- The Los Angeles City Council approved a resolution to make wearing a zoot suit in the city a crime. Sources disagree on whether it became law: Wikipedia says no ordinance was ever passed or signed. Other accounts say the council banned the suits with a 30-day jail term (Wikipedia. Search summaries, unconfirmed: search summary only).
+- Governor Earl Warren set up a committee to study the attacks. It reported that "most of the persons mistreated during the recent incidents in Los Angeles were either persons of Mexican descent or Negroes" and found racism a main cause (Hinnershitz. Wikipedia).
+- Shared with: `war` (the home front) · `crime-justice` (the arrests) · `rights-movements` (Mexican American civil rights). This chapter has the suit and why it was targeted.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="styles" label="1950 to 2000" state="full" progress="seed" -->
