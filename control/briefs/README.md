@@ -34,7 +34,10 @@ default.
 - **Install nothing.** No pip, npm or other installs, and no system changes. If a tool is missing,
   work around it or report it. (Added 2026-09-27 after T-248 pip-installed `pypdf` unasked. Jon
   was told. `pypdf` is now available in the user Python for reading PDFs.)
-- **One agent at a time.** Never a parallel batch.
+- **Scratch files go in your own subfolder** of the scratchpad, named after your task (for
+  example `scratchpad/T-271b/`). In a burst, agents share one scratchpad, and on 2026-09-28 one
+  agent's helper script overwrote another's.
+- **One agent at a time** unless Jon calls a burst (DECISIONS #25).
 - **Checkpoint after every unit** in `control/checkpoints/T-<nnn>-<slug>.md`. A stranger with
   only the checkpoint and the files must be able to carry on.
 - **Write early and often.** An agent killed before its first write leaves nothing.
