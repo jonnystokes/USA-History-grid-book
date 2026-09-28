@@ -48,35 +48,37 @@ Companion files: outline `outlines/music.md` · research bank `research/research
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.* **The outline carries 128 `[VERIFY]` tags and is the authoritative list** — this is the grouped index of what they are, so the research agent can plan the bank. Nothing in this chapter is sourced.
 
+**Eras 1 to 5: resolved by T-268a, 2026-09-28.** Every item below is sourced in `research/research-music.md` or recorded there as SEARCHED, NOT FOUND or as removed. The outline carries no [VERIFY] tag in eras 1 to 5.
+
 **Before 1500**
-- [ ] Each named instrument with a place and a date; the Southwest cave flutes said to be more than a thousand years old.
-- [ ] A *specific documented tradition* in which a song was owned, received, given, or inherited — not a general claim.
-- [ ] Twentieth-century cases of songs from these traditions being recorded and sold by people with no right to them (park the strong ones in `native-nations`).
+- [x] Instruments with places and dates: Broken Flute Cave flutes, 620 to 670 CE, Arizona State Museum; Hopewell panpipes, 105 at 55 sites (Turff and Carr 2005); Onondaga water drum and horn rattle (Onondaga Nation).
+- [x] A specific documented tradition of song ownership: Tlingit at.óow (NPS Glacier Bay). Onondaga ceremonial songs not for public viewing.
+- [ ] Twentieth-century cases of Native songs recorded and sold without right: moved to T-268b (eras 8-9). Removed from era 1.
 
 **The 1500s**
-- [ ] The earliest documented mission choirs — where, and in what year.
-- [ ] The documented orders banning Native ceremonies, to be quoted rather than described.
+- [x] Earliest mission choirs: SEARCHED, NOT FOUND for the 1500s. What is documented: Fort Caroline 1564, St. Augustine Te Deum 1565, Drake and the Coast Miwok 1579, Oñate 1598 (summary only).
+- [x] Orders banning ceremonies: none found in the 1500s. The documented bans (Posada 1656-1665, Treviño 1675) are placed in the 1600s.
 
 **The 1600s**
-- [ ] *Bay Psalm Book*, 1640, Cambridge — first book printed in the English colonies; which later edition first carried printed music. **[carried over from `art-music`]**
-- [ ] "Lining out" — the term and the practice.
-- [ ] The 1619 arrival in Virginia — the number and the ship (`slavery-freedom` leads).
-- [ ] What can actually be documented about music in the 1600s colonies as against inferred from later evidence.
+- [x] Bay Psalm Book 1640; ninth edition 1698 first with printed music, 13 tunes.
+- [x] Lining out: the 1644 Westminster Directory wording is quoted.
+- [x] 1619: from `slavery-freedom` bank ("20. and odd," White Lion, Point Comfort).
+- [x] What is documented about African music in the 1600s mainland: SEARCHED, NOT FOUND. Sloane's Jamaica "strum strump," 1687, is the earliest in the Americas.
 
 **1700 to 1750**
-- [ ] The earliest documented singing school and the fee per pupil.
-- [ ] Whether the singing schools as evening gathering places is documented or folklore.
-- [ ] The earliest colonial descriptions of the banjo, with sources and dates.
-- [ ] Actual runaway advertisements naming enslaved fiddlers and horn players.
-- [ ] The wording of the drum-and-horn section of the South Carolina Negro Act of 1740, to be quoted.
+- [x] Earliest singing school and fee: SEARCHED, NOT FOUND. Regular-singing movement sourced (Foote 1939, Jones 1932).
+- [x] Singing schools as gathering places: narrowed to what Sewall (1721) and Chauncey (1728) document.
+- [x] Earliest banjo descriptions: 1736 New-York Weekly Journal (OUP blog). The letter's wording is summary only.
+- [x] Runaway advertisements naming fiddlers: Tom (1745), Harry (1746, now a verified story), Tom (1746), all *Virginia Gazette* via UVA Geography of Slavery.
+- [x] Negro Act of 1740, section 36: sourced. The exact clause wording is from a search summary only, and the section and penalties are confirmed.
 
 **1750 to 1800**
-- [ ] William Billings — *The New-England Psalm-Singer* 1770, the printer, the later collections, whether he made money, and whether he died poor. **[carried over from `art-music`]**
-- [ ] Which fife-and-drum calls meant which orders.
-- [ ] The account and date for Yankee Doodle being sung at the Americans by British troops first.
-- [ ] Documented cases of free and enslaved Black musicians playing in Newport, Philadelphia, Charleston.
-- [ ] The New England Black election-day celebrations — where, when, and what the day was called.
-- [ ] Newport Gardner / Occramer Marycoo — his dates, both spellings, the lottery winnings said to have bought freedom, the singing school, the emigration. Every one is commonly repeated and unsourced.
+- [x] Billings: all seed questions answered (Stowe 2026, Wikipedia, LOC guide, Giltner).
+- [x] Fife and drum calls: American Battlefield Trust.
+- [x] Yankee Doodle mocking use: Wikipedia and Giltner (Boston 1768). Percy's column at Lexington: summary only, not used.
+- [x] Black musicians in port towns: Charleston 1766 banjo crowd (Butler, CCPL). Militia musters: SEARCHED, NOT FOUND, dropped.
+- [x] Election days: one line, `holidays` leads.
+- [x] Newport Gardner: sourced (Lowe 2023, Millar 2016, Andrews 2025). Disputes recorded.
 
 **1800 to 1850**
 - [ ] *Slave Songs of the United States*, 1867, and the pre-1867 observer descriptions.
@@ -166,10 +168,12 @@ Companion files: outline `outlines/music.md` · research bank `research/research
 - **The 1500s — `state="thin"`, and correctly so. No story block at all.** Almost no Europeans lived here, so almost no European music was being made here; what there was came with Spanish soldiers and priests at the Florida and, at the very end of the century, New Mexico missions. Native music continued everywhere else. **There is no named musician for this era and there will not be one** — do not add a target story here to make the cell match its neighbours.
 - **The 1600s — `state="thin"`. No story block at all.** Psalms, lining out, and meetinghouses with no instruments. The one honest sentence about what arrived with enslaved Africans in 1619 is worth more than a paragraph of inference; the outline explicitly asks the research agent to separate what is documented from what is inferred from later evidence, and the answer may well shrink this era further.
 - **Before 1500 — `state="full"`, and full of content but empty of names.** Rich in instruments, traditions, and song-ownership practice; no composer's name survives and none will be invented. The chapter carries this by naming a *living* singer or drum group in a continuing tradition instead. Say the "no names survive" part out loud rather than implying otherwise. **[pattern carried over from `art-music`]**
-- **1700 to 1750** is `full` but thin on names: one target story (a fiddler named in a colonial newspaper) and no candidates. That is honest — the newspaper advertisement is the record, and it is the reason any of these names survive at all.
+- **1700 to 1750** is `full`. Its story is Harry, a fiddler named in a *Virginia Gazette* notice of March 1746 (T-268a).
 - Every other era is `full` with two or more stories. The chapter is heavily weighted to 1900–1950 (six stories) and 1950–2000 (six stories), which matches where the documented record is.
 
 ## Featured people to firm up (target/candidate)
+**T-268a update, 2026-09-28:** eras 1 to 5 now hold four `verified` stories: R. Carlos Nakai (before 1500, replaces the living-singer target), Harry (1700-1750, replaces the fiddler target), William Billings and Newport Gardner (1750-1800). The notes below on the targets for those two eras are history.
+
 **0 `verified`, and that is correct** — `research/research-music.md` does not exist. Nothing may be raised above `candidate` until it does.
 
 **The flagship — Dolly Parton (1950–2000, `candidate`, `kind="famous"`).**
@@ -192,6 +196,8 @@ Jon asked specifically for Dolly Parton (d. 25 August 2026) as this chapter's fl
 
 ## Cross-chapter parking log
 *Strong material found here that belongs to another chapter, and where it was parked.*
+
+- **T-268a (2026-09-28), burst rule:** nothing was written into other chapters' files. Material for them is listed under TO PARK in `control/checkpoints/T-268-music.md` for the director to file.
 
 - **Twentieth-century recording and selling of songs from Native traditions by people with no right to them** — flagged in the Before 1500 section and explicitly parked to `native-nations`. The music chapter states the ownership practice; `native-nations` gets the cases.
 - **Zitkala-Ša** — `outlines/native-nations.md:205` describes her as a "Yankton Dakota writer, musician, and organizer" (1876–1938). Her music work is not told anywhere. If the research supports it, the music side belongs here and the boarding-school and organizing side stays in `native-nations`. **Parked as a question, not yet claimed.**

@@ -3101,6 +3101,8 @@ RESULT: LANDED. FAIL  art / research. measured: stage=PARTIAL eras=10/10 stories
         371798 tokens, 187 tool uses, 23.3 min (opus). Eras 1-5 researched + bank check; research-art.md created (10,933w). Stories: Prince Demah, Phillis Wheatley (18 attesters counted), Loara Standish, Nathan Jackson (Tlingit carver), Bradstreet, John White, Henrietta Johnston, Smibert, Peale, Gilbert Stuart. Grave diggers named (Squier and Davis, Rogan, Pocola Mining at Spiro), kiva mask burnings, Acoma church labor, the Darnall portrait's chained boy, the Royalls, Lenape portraits before the Walking Purchase. White and Smibert firsts corrected. 7 searched-not-found. Chapter FAIL until eras 6-10 (83 VERIFY, 19 candidates there). TO PARK 10.
 
 ### 2026-09-27 | [LOCAL] T-268a | music: full research eras 1-5 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stories=24 (v4 c19 t1) verify_tags=105 bank=7394w outline=9302w manuscript=0w validator_errors=0
+        352279 tokens, 180 tool uses, 23.4 min (opus). Eras 1-5 researched + bank check; research-music.md created (7,394w). Stories: R. Carlos Nakai, Harry (fiddler, 1746 runaway notice), William Billings, Newport Gardner. Broken Flute Cave, Hopewell panpipes, Tlingit clan songs, 1565 Te Deum, Coast Miwok 1579, Bay Psalm Book, New Mexico mission music and 1675 arrests, Stono drums and the 1740 Negro Act s.36, Jefferson's Banjar, Tlingit songs 1791. 4 searched-not-found. Chapter FAIL until eras 6-10. TO PARK for six chapters.
