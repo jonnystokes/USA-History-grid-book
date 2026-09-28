@@ -3191,9 +3191,11 @@ RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL
         382990 tokens, 118 tool uses, 16.4 min (opus). Eras 6-7 + bank check. Stories: William Alexander Brown and the African Theatre, Ira Aldridge, Edwin Forrest, William Henry Lane (new; Barnum billed him as John Diamond), Edwin Booth, Charlotte Cushman, Billy Kersands (own words via Tom Fletcher 1954). Astor Place (judge, sheriff, General Sandford; 18 to 31 dead), Wild West (Lakota wages, four named deaths, 1890 hiring ban, 23 Ghost Dance prisoners released to Cody), Tom shows in blackface, vaudeville, first films. 4 unsupported claims removed, 3 searched-not-found. Chapter FAIL until eras 8-10. TO PARK six chapters.
 
 ### 2026-09-27 | [LOCAL] T-271b | sports-play: full research eras 6-7 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
+RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10 stories=18 (v6 c6 t6) verify_tags=45 bank=19631w outline=10700w manuscript=0w validator_errors=0
+        329262 tokens, 160 tool uses, 21.2 min (opus). Eras 6-7 + bank check. Stories: Tom Molineaux, Lucy Larcom, Moses Fleetwood Walker ('first' qualified by William Edward White 1879), Isaac Murphy (earnings; the house his widow lost). Knickerbocker rules 1845, who invented the Doubleday myth, the color line (1867, Anson, the 14 Jul 1887 vote 6-4), Cato 1839, McCoy killed 1842, Von Gammon 1897 and 8 football deaths, Boston sand gardens, child labor counts. 6 searched-not-found. Austin Curtis death date to AUDIT-QUEUE. Chapter FAIL until eras 8-10.
 
 ### 2026-09-27 | [LOCAL] T-269c | storytelling-evolution: full research eras 8-9 [BURST] | model opus
 STATUS: IN-FLIGHT

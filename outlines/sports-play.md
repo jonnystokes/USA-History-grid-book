@@ -203,44 +203,131 @@ In 1774 the delegates to the First Continental Congress promised to discourage h
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="sports-play" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="sports-play" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-Games begin getting written rules, which is how a pastime turns into a sport. Children still play outdoors with things made at home, and buying a toy in a shop is new.
+In these years Americans began paying to watch sport. At least 60,000 people saw two horses race on Long Island in 1823, and by 1850 the biggest crowds came to trotting races and to prize fights. Prize fights were bare-knuckle boxing matches for money, and most states banned them. Clubs in Philadelphia and New York wrote down rules for ball games, and in 1845 the Knickerbocker club of New York wrote the rules that grew into baseball. Enslaved people played ball, wrestled and ran races on their few days off, and enslaved jockeys rode the horses that other men owned. Most children still made their own toys and played outdoors. In 1838 a Philadelphia firm began making toys to sell in shops.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the first written rules" -->
-The Knickerbocker baseball rules, 1845 [VERIFY]; bare-knuckle prize fighting; harness racing as the first big spectator sport; town ball and other regional versions of baseball.
+<!-- hb-zoom level="span" label="Native ball games" -->
+- About 1800 the Choctaw and the Creek both claimed the land between the Tombigbee and Black Warrior rivers in present-day Alabama. They agreed to settle the claim with a ball game near present-day Tuscaloosa. Both sides said they had won, and a battle followed "in which many were killed and wounded on both sides." The account gives no count of the dead (H. B. Cushman, 1899).
+- In 1830 Choctaw leaders signed the Treaty of Dancing Rabbit Creek, and US officials moved the Choctaw from Mississippi to Indian Territory, in present-day Oklahoma, from 1831 to 1833. The Choctaw Nation records that more than a quarter of the people moved in those years died. In 1832 a settler named Charles Dobbs took the ground in Mississippi where the Creek and Choctaw had played a ball game about 1790. He dug up the graves of the players killed in the fight after that game and took about $500 in silver coins and about $250 in silver ornaments (Cushman). Shared with: `native-nations` (the removal).
+- In 1834 the painter George Catlin watched a Choctaw ball game in Indian Territory. Several thousand people camped by the field. The two leaders had chosen the players three or four months before. Women bet knives, dresses, blankets, kettles, dogs, horses and guns on the game. The players danced by torchlight through the night. At 9 the next morning four old men threw up the ball, and six or seven hundred players ran for it. Each player carried two sticks with a small net at the end and could not touch the ball with his hands (Catlin, 1841, quoted in Culin, 1907).
+- Catlin painted Tul-lock-chísh-ko, "Drinks the Juice of the Stone," whom he called "the most distinguished ball-player of the Choctaw nation." By the rules of the game he played barefoot, in a breechcloth (a strip of cloth worn around the hips), with a tail of white horsehair (Smithsonian American Art Museum). Shared with: `art` (Catlin's travels and paintings).
+- In Hawaii, which was still an independent kingdom, the American missionary Hiram Bingham wrote in 1847 that surfing was "the favorite amusement of all classes." Surfers used boards from 3 to 14 feet long and paddled out as far as half a mile. Bingham wrote that surfing was declining because Hawaiians now wore Western clothes and had less free time, and because of "modesty, industry or religion." He wrote that the missionaries had passed no law against it (Bingham, 1847). No law against surfing appears in the records.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="toys move from the household to the workshop" -->
-Research targets:
-- The first American toy makers, what they sold, and the dates [VERIFY]
-- Where children played in towns and on farms before public playgrounds existed: streets, commons, fields, rivers [VERIFY with named accounts]
-- Traveling shows and circuses as the entertainment a whole family paid to see [VERIFY dates and ticket prices; `storytelling-evolution` leads on the stage and the acts and `marketplace` on how they were advertised — this chapter keeps who went and what they did there]
+<!-- hb-zoom level="span" label="games on the days off from slavery" -->
+- Frederick Douglass was enslaved in Maryland. In his 1845 book he wrote that the enslaved people he knew had the days from Christmas to New Year's Day off. Some made brooms and baskets or hunted. Most played ball, wrestled, ran foot-races, fiddled, danced and drank whiskey. Douglass wrote that the drinking was what "our masters" liked best (Douglass, *Narrative*, 1845). Shared with: `holidays` (why enslavers gave the days) · `drugs-alcohol` (the whiskey).
+- When Douglass taught other enslaved men to read on Sundays in St. Michael's, Maryland, two white church leaders, Wright Fairbanks and Garrison West, and other men broke up the school with sticks and stones. Douglass wrote that they "had much rather see us engaged in those degrading sports," which were wrestling, boxing and drinking (Douglass).
+- In the South, planters set up boxing matches between enslaved men and bet on them (*American Eras*, Gale).
+- Most of the people who cared for and rode racehorses in these years were enslaved, because most racing took place in the South (National Museum of Racing). An enslaved man named Cato rode the horse Wagner to victory at Louisville on 30 September 1839 for a prize of $14,000. About 10,000 people watched, and some of them bet enslaved people on the race. Cato's enslaver, John Campbell, freed him after the win, and Cato kept riding for Campbell (Notable Kentucky African Americans Database).
+- In 1846 a race card at Charleston, South Carolina, named each horse's owner, including Wade Hampton. It named no rider. Each jockey appears only by the colors he wore (South Carolina Jockey Club race card, 18 February 1846).
 <!-- /hb-zoom -->
+<!-- hb-story:start slug="tom-molineaux" name="Tom Molineaux" movie="" kind="famous" status="verified" -->
+### Tom Molineaux
+> **Who:** A boxer from Virginia who fought for the championship of England · **When and where:** Virginia, New York and England, 1784 to 1818
+- Tom Molineaux was born in Virginia in 1784. Nineteenth-century boxing writers said he was born enslaved and fought other enslaved men while planters bet on the fights. They said he won his freedom and $500 in one of these fights. Historians have found no record to prove this story (Virginia Museum of History and Culture, Wikipedia).
+- By 1809 he had gone to England. His trainer was Bill Richmond, a boxer who had been born into slavery on Staten Island, New York, in 1763 (Wikipedia). One museum says Richmond was born in Virginia (Virginia Museum of History and Culture).
+- On 18 December 1810 Molineaux fought the English champion, Tom Cribb. In the 19th round the crowd pushed into the ring and Molineaux hurt his hand. Cribb won after 35 rounds, and some said Cribb had taken longer than the 30 seconds allowed to come back to the mark. Accounts give 35 or 39 rounds (Wikipedia, Virginia Museum of History and Culture).
+- About 15,000 people watched their second fight on 28 September 1811. Cribb broke Molineaux's jaw and knocked him out in the 11th round (Wikipedia).
+- Molineaux died in Ireland on 4 August 1818, aged 34, with no money. Most accounts say he died in Galway, and one says Dublin (Wikipedia, Virginia Museum of History and Culture).
+<!-- hb-story:end slug="tom-molineaux" -->
+<!-- hb-zoom level="span" label="crowds for horses, runners and fighters" -->
+- On 27 May 1823 the northern horse American Eclipse beat the southern horse Sir Henry at the Union Course on Long Island, New York. Counts of the crowd run from 60,000 to 100,000 (National Museum of Racing, Gale). North and South raced each other in more matches like it until 1845 (Gale).
+- In 1835 a New Yorker named John Cox Stevens offered $1,000 to any man who could run ten miles in under an hour. Henry Stannard did it in 59 minutes and 49 seconds (Gale).
+- About 1845 more people came to watch trotting races, in which horses pulled a light cart, than regular horse races (Gale).
+- Prize fighting was against the law in most states, so organizers set the place of a fight at the last minute. By 1850 its crowds were as large as those at trotting races (Gale).
+- On 13 September 1842 Christopher Lilly and Thomas McCoy fought 120 rounds at Hastings, New York. McCoy, who was 21, died in the ring. A coroner's jury, the group that looks into a sudden death, found that he died "by blows and injuries received in a fight with Christopher Lilly." James "Yankee" Sullivan, who arranged the fight, was sentenced to two years in prison and let out after two months (*Signal of Liberty*, 26 September 1842. Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="written rules for ball games" -->
+- Boys and men in many towns played bat-and-ball games with local names such as town ball. On 4 July 1833 two groups of town ball players from Philadelphia met in Camden, New Jersey, and formed the Olympic club. In 1838 the club printed its rules and its list of members (Richard Hershberger, Society for American Baseball Research).
+- On 23 September 1845 the Knickerbocker Base Ball Club of New York adopted twenty written rules. Club members William Wheaton and William Tucker wrote them down. A game ended when one side scored 21 runs. Three outs ended a side's turn at bat. A fielder put a runner out by throwing the ball to a baseman instead of hitting the runner with it (John Thorn, Society for American Baseball Research. Wikipedia).
+- The members were merchants, lawyers and doctors, and they played at the Elysian Fields in Hoboken, New Jersey. In one of the first recorded games between two clubs under these rules, on 19 June 1846, the New York club beat the Knickerbockers 23 to 1 (Thorn, Wikipedia).
+- In 1905 a mining engineer named Abner Graves wrote to an Ohio newspaper that Abner Doubleday had invented baseball in Cooperstown, New York, in 1839. Graves had been 5 years old in 1839. Doubleday was then a cadet at West Point, and his 67 surviving diaries never mention baseball. A committee set up by the sporting-goods maker Albert Spalding accepted the story in 1907. No one on the committee ever met Graves or wrote to him (Victor Salvatore, *American Heritage*, 1983. Wikipedia). Baseball historians today call the Doubleday story a myth (Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="children's play and the mills" -->
+- Children in towns and on farms played outside with what they could find or make. There were no public playgrounds. Lucy Larcom grew up in Beverly, Massachusetts, in the 1820s and 1830s. She and her friends made furniture for their dolls out of burrs, played school on the doorsteps and climbed over walls onto the hill. She wrote that the neighborhood children enjoyed "a little wholesome neglect" (Larcom, *A New England Girlhood*, 1889).
+- In 1838 Francis, Field and Francis opened on North Second Street in Philadelphia. It was one of the first toy makers in the country. It sold toys brought from France and Germany and made tin toys of its own. Its toy fire engine pulled by horses is thought to be the first toy made by a factory in the United States (*Encyclopedia of Greater Philadelphia*).
+- In 1825 the city leaders of Wilmington, Delaware, banned public shows. Joshua Purdy Brown put up a canvas tent for his circus just outside the city line. After that, circuses travelled from town to town with their own tents (Janet M. Davis, *Smithsonian*). `storytelling-evolution` leads on the acts.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="lucy-larcom" name="Lucy Larcom" movie="" kind="ordinary" status="verified" -->
+### Lucy Larcom
+> **Who:** A girl who went to work in a cotton mill at 11 and later wrote about it · **When and where:** Beverly and Lowell, Massachusetts, 1824 to 1840s
+- Lucy Larcom was born in Beverly, Massachusetts, on 5 March 1824. Her father, a retired sea captain, died in 1832. In 1835 her mother moved the family to Lowell, a mill town, and ran a boarding house for women who worked in the cotton mills (National Park Service).
+- The boarding house did not earn enough. Lucy heard someone say, "The children will have to leave school and go into the mill." She was 11 (Larcom, 1889).
+- Her job was to take full bobbins off the spinning machines and put on empty ones, about every 45 minutes. At first she told her family, "It is just like play." Between changes the girls played games in a corner (Larcom).
+- In winter the working day ran from first daylight to 7:30 at night. She earned one dollar a week plus her board, and her family needed it, so she could not go on to high school. She wrote that mill work "was not, and could not be, the right sort of life for a child" (Larcom).
+- Larcom became a teacher and a poet. Her book about her childhood, *A New England Girlhood*, came out in 1889 (National Park Service).
+<!-- hb-story:end slug="lucy-larcom" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="sports-play" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="sports-play" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-Within fifty years the country invents or organizes almost all the sports it still plays. Cities begin building places for children to play, and in the same years hundreds of thousands of American children are working instead.
+Between 1869 and 1896 Harry Wright's Cincinnati Red Stockings became the first all-professional baseball team, students from Rutgers and Princeton played the first college football game, and James Naismith invented basketball. Isaac Murphy, who was born enslaved, won the Kentucky Derby three times. In 1887 the owners of the International League, a top baseball league, voted to sign no more Black players. In 1886 a Boston health group put piles of sand in chapel yards for small children to play in, and people in a few other cities opened playgrounds in the 1890s. The census of 1900 counted more than 1.75 million children under 15 at work.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="baseball, basketball, and the Olympics" -->
-Baseball becoming the national game, with the first fully professional team in 1869 [VERIFY Cincinnati Red Stockings]; the first college football game, 1869 [VERIFY]; basketball invented in 1891 [VERIFY Springfield]; the modern Olympics, 1896; the bicycle craze and what it did for women's clothing and freedom; the color line closing in professional baseball, with Black players pushed out of the organized leagues and kept out [VERIFY the dates, the last Black major-league player before the line closed, and whether the exclusion was ever written down or only agreed].
+<!-- hb-zoom level="span" label="the first professional teams and new games" -->
+- In 1869 Harry Wright put together the Cincinnati Red Stockings, the first team whose players were all openly paid. He paid ten men, including himself and his brother George. They won all 57 of their games against clubs in the national association of that time. In 1870 a Brooklyn team beat them in 11 innings while 20,000 people watched (National Baseball Hall of Fame).
+- On 6 November 1869 Rutgers beat Princeton 6 to 4 at New Brunswick, New Jersey, in the first college football game. Each side had 25 players. They kicked the ball and hit it with their hands, and about 100 people watched. The game looked more like soccer than football does today (Rutgers University).
+- In the winter of 1891 James Naismith, a teacher from Canada at a YMCA training school in Springfield, Massachusetts, was asked to find a game that a class could play indoors in winter. He wrote 13 rules. The janitor gave him two peach baskets for goals, and nine players played on each side. Accounts date the first game to 21 or 29 December 1891 (Springfield College, McGill University).
+- On 6 April 1896 James Connolly, a 27-year-old Harvard student from Boston, won the hop, skip and jump (now called the triple jump) at Athens, Greece. He was the first champion of the modern Olympic Games. He had left Harvard after a dean warned him he might not be let back in (NBC Sports).
+- In 1860 Milton Bradley sold a board game, *The Checkered Game of Life*, and buyers took more than 45,000 copies by 1861 (Wikipedia). In 1866 he printed rules for croquet, a lawn game played with mallets and wooden balls.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the color line in baseball" -->
+- In 1867 the National Association of Base Ball Players, the group that ran club baseball, voted to keep Black players and Black clubs out (Wikipedia, "Baseball color line").
+- Bud Fowler played for pay in 1878. He is the first Black professional baseball player on record (Society for American Baseball Research).
+- In 1884 Moses Fleetwood Walker and his brother Weldy Walker played for Toledo in the American Association, which was a major league. They were the first Black major-league players known to the public as Black men (Society for American Baseball Research). William Edward White, who had been born enslaved in Georgia, played one game for Providence in 1879, but he lived and was counted in the census as a white man (Society for American Baseball Research).
+- In 1887 Cap Anson, the captain of the Chicago club, said his team would not play Newark if Newark's two Black players, Walker and the pitcher George Stovey, took the field. On 14 July 1887 Newark played Chicago without them. That same day, at a meeting in Buffalo, the owners of the International League voted 6 to 4 to approve no more contracts with Black players. The owners of teams with only white players voted for the ban. The owners of teams with a Black player voted against it (Peter Mancuso, Society for American Baseball Research. Wikipedia).
+- The major-league owners never wrote a rule against Black players. They kept them out by an unwritten agreement among themselves (Wikipedia). No Black player played in the International League again until Jackie Robinson in 1946.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="moses-fleetwood-walker" name="Moses Fleetwood Walker" movie="" kind="ordinary" status="verified" -->
+### Moses Fleetwood Walker
+> **Who:** A catcher, the first major-league player known to the public as a Black man · **When and where:** Ohio, Toledo, Newark and Syracuse, 1856 to 1924
+- Moses Fleetwood Walker was born in Mount Pleasant, Ohio, on 7 October 1856. He studied at Oberlin College and at the University of Michigan (David W. Zang, Society for American Baseball Research).
+- He caught for Toledo in 1883. In an exhibition game that year Cap Anson of Chicago used a racist slur and said his team would never again play a team with Walker on it (Zang).
+- On 1 May 1884 Walker played his first major-league game for Toledo. He played 42 games and batted .263. He often caught the ball barehanded, with little padding. Toledo's pitcher Tony Mullane later said Walker "was the best catcher I ever worked with, but I disliked a Negro," and that he threw pitches without looking at Walker's signals (Zang).
+- In September 1884 Toledo's manager got a letter warning that a mob would attack if Walker played in Richmond, Virginia. The letter did not name its writers. Toledo let Walker go before the trip (Zang).
+- Walker played for Newark in 1887 and for Syracuse in 1888 and 1889, after the International League stopped approving new contracts for Black players (Zang, Wikipedia).
+- On 9 April 1891 a group of white men attacked Walker outside a saloon in Syracuse. One of them, Patrick Murray, hit him in the head with a stone. Walker stabbed Murray with a pocketknife, and Murray died. An all-white jury found Walker not guilty (Wikipedia).
+- In 1908 Walker and his brother Weldy published *Our Home Colony*, a book arguing that Black Americans should move to Africa. He died in Cleveland on 11 May 1924 (Wikipedia).
+<!-- hb-story:end slug="moses-fleetwood-walker" -->
+<!-- hb-zoom level="span" label="Black jockeys" -->
+- Oliver Lewis rode the horse Aristides to win the first Kentucky Derby on 17 May 1875. The horse's trainer, Ansel Williamson, had been born enslaved. Black jockeys won 15 of the first 28 Kentucky Derbies (National Museum of Racing).
+- In the early 1900s most Black jockeys and trainers were forced out of racing under segregation (National Museum of Racing). That account does not name the owners and officials who shut them out.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="isaac-murphy" name="Isaac Murphy" movie="" kind="famous" status="verified" -->
+### Isaac Murphy
+> **Who:** A jockey born into slavery who won the Kentucky Derby three times · **When and where:** Kentucky and the Eastern racetracks, 1861 to 1896
+- Isaac Burns Murphy was born into slavery in Clark County, Kentucky, on 6 January 1861. His father, Jerry Burns, joined the Union Army in 1864 and died that fall in an army hospital at Camp Nelson, Kentucky (Wikipedia).
+- Murphy won the Kentucky Derby in 1884, 1890 and 1891. He was the first jockey to win it three times. By his own count he won 628 of his 1,412 races (National Museum of Racing, Wikipedia).
+- At his best he earned $15,000 to $20,000 a year, when a family of four lived on about $1,200. In 1887 he and his wife, Lucy, bought a 10-room house in Lexington for $10,000 (America's Best Racing. Tour the Historic Bluegrass).
+- In 1890 he swayed in the saddle during a race at Monmouth Park, New Jersey, and fell off after the finish. The race officials said he was drunk and suspended him. Murphy said he had been drugged, and men had bet heavily against his horse (Wikipedia, America's Best Racing).
+- He died in Lexington in February 1896, aged 35. Sources give his cause of death as pneumonia or heart failure. After he died, Lucy Murphy could not pay back a $5,500 loan and lost the house in a court case. It was sold at auction in 1900 (Tour the Historic Bluegrass). The records do not show how much money he left.
+- His grave lost its marker. In 1967 his body was moved to a site near the grave of the racehorse Man o' War, and later to the Kentucky Horse Park (Wikipedia).
+<!-- hb-story:end slug="isaac-murphy" -->
+<!-- hb-zoom level="span" label="football deaths" -->
+- Football players in the 1890s wore no helmets and no padding. A New York newspaper, the *World*, counted at least eight deaths and more than 200 serious injuries in the 1897 season (Bill Carey, *The Tennessee Magazine*).
+- On 30 October 1897 Richard Von Gammon, a 17-year-old University of Georgia player, dove into a pile of players to make a tackle against Virginia in Atlanta. He died the next morning of a concussion, a brain injury from a hard blow to the head (Wikipedia, *Atlanta Journal-Constitution*).
+- Georgia's lawmakers voted to ban football at the state's colleges. Von Gammon's mother, Rosalind Burns Gammon, wrote to her representative asking that her son's death not be used against the sport. Governor William Atkinson vetoed the ban on 7 December 1897 (*Atlanta Journal-Constitution*, Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="women on bicycles" -->
+- In 1895 Frances Willard, then 53, published a book about learning to ride a bicycle. She wrote that women who rode would have to wear more sensible clothes than long, tight dresses (Willard, *A Wheel Within a Wheel*, 1895). Shared with: `rights-movements` (Willard and Ida B. Wells) · `drugs-alcohol` (Willard and the temperance union).
+- In February 1896 Susan B. Anthony told the reporter Nellie Bly that the bicycle "has done more to emancipate women than anything else in the world." Emancipate means to set free. Anthony said that bloomers, which were loose pants gathered at the ankle, or very short skirts were the right clothes for riding (*New York Sunday World*, 2 February 1896).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the first playgrounds" -->
-Research targets:
-- The Boston sand gardens, 1885, and the playground movement that followed [VERIFY the date, the founders, and how many playgrounds were built by 1900]
-- Public parks opened for play, and who was allowed to use them [VERIFY; `city-building` leads on parks as planning, this chapter on what people did in them]
-- Amusement parks and Coney Island: what a family paid and what they rode [VERIFY dates and prices]
-- Croquet, roller skating, and the other games adults and children played together [VERIFY]
+- In 1886 Dr. Marie Zakrzewska wrote to a Boston health group that children in Berlin's parks played in heaps of sand. That year the Massachusetts Emergency and Hygiene Association put three piles of sand in the yards of chapels in Boston for small children. By 1887 there were ten, and about 400 children came each day. By 1900 the group ran 21 playgrounds, 20 of them in school yards (Joseph Lee, 1902). Some later accounts date the first sand pile to 1885.
+- Donors in Philadelphia started two summer playgrounds in 1893. In 1897 a New York City committee reported that New York "has as yet not a single municipal playground." Jacob Riis was the committee's secretary (Lee). Shared with: `city-building` (Riis and the parks).
+- In 1894 the staff of Hull-House, a settlement house in Chicago, opened a playground with swings, a sandpile and benches. A policeman worked there and often captained the baseball games (Lee).
+- In 1884 LaMarcus Thompson opened a roller coaster at Coney Island in Brooklyn. A ride cost 5 cents, and the car went about 6 miles an hour (Wikipedia).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the children who had no time to play" -->
-Children worked in mills, mines, canneries, and street trades in these decades, and the hours came out of the only free time they had. Research targets: the census counts of working children aged 10 to 15, with the years they cover [VERIFY]; the length of a child's working day in a named mill [VERIFY]; what those children did with a Sunday [VERIFY]. `work-workers` leads on the labor itself and `rights-movements` on the campaign against it; this chapter's angle is the hours a child did not have.
+- The 1870 census was the first to count working children. It found more than 750,000 workers under 15, not counting children who worked on their own family's farm or in its shop. By 1900 more than 1.75 million children under 15 had jobs. After 1880 most working children aged 10 to 14 worked somewhere other than a farm (US Census Bureau).
+- In 1870 one child in eight had a job, and by 1900 more than one in five did. In 1900 about a quarter of the textile mill workers in the South were children under 16. Children in the mills worked 12-hour days, six days a week (Michael Schuman, US Bureau of Labor Statistics, 2017). `work-workers` leads on the work itself.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="early-black-professional-player" name="(target) an early Black professional player" movie="" kind="ordinary" status="target" -->
-### (target) an early Black professional player
-Early Black professional players before the color line closed are documented.
-<!-- hb-story:end slug="early-black-professional-player" -->
+<!-- hb-zoom level="span" label="Cherokee ball play, 1890" -->
+- In 1890 the researcher James Mooney watched the Eastern Cherokee ball game in North Carolina. In the fall a game took place on the reservation about every other week. For up to 28 days before a game, players did not eat rabbit or frog and did not touch a woman (Mooney, 1890, quoted in Culin, 1907).
+- Before a game an elder named Standing Water scratched each player's arms, legs, chest and back with a comb made of seven sharp splinters of turkey bone, nearly 300 cuts in all. Mooney wrote that the cuts were shallow and painful and that the players accepted them as part of the ceremony that would help them win (Mooney).
+- The records of these years show no order banning the Cherokee or Choctaw ball game (Choctaw Nation. NCpedia).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
 <!-- hb-time:start id="1900-1950" order="08" chapter="sports-play" label="1900 to 1950" state="full" progress="seed" -->

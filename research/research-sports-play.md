@@ -1,6 +1,6 @@
 # Research Bank: Chapter 36, Sports and Play (`sports-play`)
 
-Eras 1-5 researched by T-271a (2026-09-28). Eras 6-10 not yet researched (T-271b). The "Parked from" sections
+Eras 1-5 researched by T-271a (2026-09-28). Eras 6-7 researched by T-271b (2026-09-28). Eras 8-10 not yet researched. The "Parked from" sections
 further down were left by other chapters' agents and are kept as they were.
 
 Working notes. Quotations keep the spelling of the source. Where a source is a later account of an older
@@ -703,6 +703,573 @@ settlement claim there.
 
 **Perishable facts.** None in eras 01-05 besides "The Talimali Band of the Apalachee lives in Louisiana today"
 (earlyfloridalit.net editor's note, page opened 2026-09-28).
+
+## Era 06: 1800 to 1850 (T-271b, 2026-09-28)
+
+### Sources for this era
+- **Molineaux:** Virginia Museum of History & Culture, "Tom Molineaux" (virginiahistory.org/learn/tom-molineaux,
+  opened with curl); Wikipedia "Tom Molineaux" (opened); National Portrait Gallery London person page (search summary).
+- **Richmond:** Wikipedia "Bill Richmond" (opened; cites Luke G. Williams's biography).
+- **Racing:** National Museum of Racing and Hall of Fame, *The Forgotten Foundation: How Black Equestrians Helped Build
+  American Thoroughbred Racing* (learning packet PDF, racingmuseum.org, downloaded and read with pypdf); Notable Kentucky
+  African Americans Database, "Cato (slave jockey)" (nkaa.uky.edu/nkaa/items/show/2105, opened; cites J. H. Davis, *The
+  American Turf*, and Joe Drape, *Black Maestro*); Gale, "1815-1850: Sports and Recreation: Overview", *American Eras*
+  (encyclopedia.com, opened).
+- **Douglass:** Frederick Douglass, *Narrative of the Life of Frederick Douglass* (1845), Project Gutenberg 23 (opened).
+- **Baseball:** John Thorn, "New York's First Base Ball Club", SABR (opened); Wikipedia "Knickerbocker Base Ball Club of
+  New York" (opened); Richard Hershberger, "July 4, 1833: In the beginning, Olympics vs. Camden", SABR Games Project
+  (opened); Wikipedia "Doubleday myth" (opened); Victor Salvatore, "The Man Who Didn't Invent Baseball", *American
+  Heritage* 34:4 (June 1983) (opened).
+- **Boxing:** *Signal of Liberty* (Ann Arbor), 26 Sept 1842, "A Prize Fighter Killed" (aadl.org, opened); Wikipedia
+  "Yankee Sullivan" (opened).
+- **Larcom:** Lucy Larcom, *A New England Girlhood, Outlined from Memory* (1889), Project Gutenberg 2293 (opened);
+  dates from NPS "Lucy Larcom" and Wikipedia (search summary).
+- **Catlin:** George Catlin, *Letters and Notes* (London, 1841), v. 2, p. 123, quoted in Culin 1907 pp. 599-601;
+  Smithsonian American Art Museum object page "Tul-lock-chísh-ko" (opened).
+- **Choctaw removal:** Choctaw Nation, "Choctaw Removals" (Iti Fabvssa, opened); Wikipedia "Treaty of Dancing Rabbit
+  Creek" / "Choctaw Trail of Tears" (search summary).
+- **Hawaii:** Hiram Bingham, *A Residence of Twenty-One Years in the Sandwich Islands* (Hartford, 1847), pp. 136-137,
+  archive.org `residenceoftwent00bing` djvu text (opened); Peter T. Young, "Did the Missionaries Ban Surfing?", Images
+  of Old Hawaii (opened).
+- **Toys:** Amanda Sherry, "Toy Manufacturing", *Encyclopedia of Greater Philadelphia* (opened).
+- **Circus:** Janet M. Davis, "America's Big Circus Spectacular Has a Long and Cherished History", *Smithsonian* (opened;
+  also printed by Zocalo Public Square).
+
+### Native games
+- **Black Warrior River ball game, about 1800** (already in bank, era 05 section, from Cushman 1899 via Halbert): the
+  Choctaw and Creek disputed the land between the Tombigbee and Black Warrior rivers, agreed to settle it by a ball-play
+  about a mile below present Tuscaloosa, Alabama, both claimed the win, and a battle followed "in which many were killed
+  and wounded on both sides"; more battles followed that fall. Creek chief Tuskeegee, Choctaw chief Luee. **No count of
+  the dead** in the account. The Choctaw Nation confirms both 1790s-era games "broiled into actual battles".
+- **Graves dug up, 1832** (already in bank, era 05 section, from Cushman): the Noxubee ball ground (the c.1790 game)
+  was where the dead were buried with money and silver ornaments. In 1832 a settler named Charles Dobbs took the ground
+  and dug up about $500 in silver and about $250 in silver ornaments from the graves. 1832 is the year after the first
+  Choctaw removal began (see below): Dobbs took land the Choctaw had ceded in 1830.
+- **Choctaw removal (context, `native-nations` leads):** the Treaty of Dancing Rabbit Creek, signed 27 Sept 1830, ceded
+  the Choctaw lands in Mississippi and west Alabama (more than 10 million acres; "nearly 11,000,000" in another summary);
+  removal in three stages, fall 1831, 1832, 1833 (Wikipedia, search summary). Choctaw Nation: "Over a quarter of the
+  Choctaw people removed during those years passed away" (opened). About 15,000 moved and about 2,500 died (Wikipedia
+  summary) (unconfirmed: search summary only).
+- **Choctaw ball play in Indian Territory, 1834.** George Catlin attended a ball play near the Choctaw agency, "about 6
+  miles" out on a prairie where "several thousand Indians" camped. The game had been "made up" three or four months
+  before: two leaders chose players from "the whole tribe" and sent runners with decorated ball sticks to each chosen
+  player. Old men measured the ground and set two goals "about 25 feet high and 6 feet apart", 40 or 50 rods apart. The
+  women placed the bets: "knives, dresses, blankets, pots and kettles, dogs and horses, and guns", held by stakeholders
+  all night. Players danced the "ball-play dance" by torchlight every half hour through the night while the women sang.
+  Four old medicine men were the judges and threw up the ball at the firing of a gun at 9 in the morning; "some six or
+  seven hundred" players. Each player held a stick in each hand and could not touch the ball with his hands. Struggles
+  ended "sometimes in fisticuffs" (Catlin 1841, in Culin 1907 pp. 599-601). Catlin generally: "It is no uncommon
+  occurrence for six or eight hundred or a thousand of these young men to engage in a game of ball, with five or six
+  times that number of spectators, of men, women, and children".
+- **Tul-lock-chísh-ko, "Drinks the Juice of the Stone"**, painted by Catlin in 1834 at Fort Gibson, Arkansas Territory:
+  "The most distinguished ball-player of the Choctaw nation". Rule of the play: no moccasins, no dress except a breech
+  cloth, a bead belt, a "tail" of white horsehair or quills and a "mane" of dyed horsehair (SAAM, opened; Culin).
+  Shared with: `art` (Catlin the painter; art.md era 06 tells his travels).
+- **Hawaii (territories thread).** Hiram Bingham, leader of the first American Protestant mission (arrived 1820),
+  wrote in 1847 that surfing was "the favorite amusement of all classes". Boards ran from 3 feet long and 6 or 8 inches
+  wide to 14 feet long and 20 inches wide. Riders paddled out "a quarter, or half a mile", and "Formerly, this was
+  usually done on a wager." He wrote that wearing the missionaries' style of clothing cut down swimming and surfing, and
+  that people who made cloth garments had less time for amusement. His explanation of the decline: "The decline or
+  discontinuance of the use of the surf-board, as civilization advances, may be accounted for by the increase of
+  modesty, industry or religion, without supposing, as some have affected to believe, that missionaries caused
+  oppressive enactments against it" (Bingham 1847, pp. 136-137). Peter T. Young (Images of Old Hawaii) writes that the
+  missionaries had no power to ban anything, which was "the right of the King and Chiefs", and that surfing continued
+  through 1820-1863. **No law against surfing is recorded** in the sources read. Hawaii was an independent kingdom.
+
+### Enslaved people's play and enslaved athletes
+- **Douglass, Maryland, Christmas 1833** (Narrative, ch. X): "The days between Christmas and New Year's day are allowed
+  as holidays". Some made corn-brooms, mats, horse-collars and baskets, some hunted opossums, hares and coons, "But by
+  far the larger part engaged in such sports and merriments as playing ball, wrestling, running foot-races, fiddling,
+  dancing, and drinking whisky; and this latter mode of spending the time was by far the most agreeable to the feelings
+  of our masters." "It was deemed a disgrace not to get drunk at Christmas". He believed the holidays "among the most
+  effective means in the hands of the slaveholder in keeping down the spirit of insurrection." `holidays` tells the
+  safety-valve argument and `drugs-alcohol` the whiskey. This chapter keeps the games listed.
+- **Douglass, St. Michael's, Sunday school (1830s):** enslavers "had much rather see us engaged in those degrading
+  sports" ("wrestling, boxing, and drinking whisky") than learning to read. Two class leaders, Wright Fairbanks and
+  Garrison West, with others, "rushed in upon us with sticks and stones, and broke up our virtuous little Sabbath
+  school". (`education` and `religion` may hold this. Here only the enslavers' preference for the sports.)
+- **Planters' boxing matches:** "In the South planters organized and wagered on boxing matches between slaves" (Gale,
+  American Eras 1815-1850). No named match or fighter in that source.
+- **Tom Molineaux.** VMHC: "Born into enslavement on a Virginia plantation, Tom Molineaux (1784-1818) fought fellow
+  enslaved people while plantation owners wagered on the contests. After winning one of these matches against a
+  rival, Molineaux was granted his freedom and the sum of $500. By 1809, he had traveled to New York and subsequently
+  to England". **Wikipedia says the enslavement and freedom story comes from 19th-century boxing chroniclers, "cannot
+  be substantiated" and "may have been romanticised".** Record both. Born 23 March 1784 (Wikipedia).
+  - Trainer: Bill Richmond, born 5 Aug 1763 at Richmondtown, Staten Island, enslaved at birth by the Rev. Richard
+    Charlton; taken to England in 1777 by Lord Percy (Hugh Percy, later Duke of Northumberland) (Wikipedia). VMHC calls
+    Richmond "Virginia-born": **birthplace conflict**, Wikipedia (Staten Island, citing Williams) is the more specific.
+  - First fight with the English champion Tom Cribb, 18 Dec 1810: 35 rounds (Wikipedia) or "some 39 rounds" (VMHC).
+    Place: Shenington Hollow, Oxfordshire (Wikipedia). In round 19 the crowd pushed into the ring and Molineaux hurt
+    his left hand. A dispute followed over whether Cribb had come back to the line within the 30 seconds allowed
+    (Wikipedia). Pierce Egan, the English boxing writer, wrote that Molineaux "astonished everyone, not only by his
+    extraordinary power of hitting and his gigantic strength, but also by his acquaintance with the science" (VMHC).
+    Search summary (Mental Floss): racial taunts from the crowd (unconfirmed: search summary only).
+  - Rematch, 28 Sept 1811, Thistleton Gap, Rutland, about 15,000 people. "Cribb broke his jaw and finally knocked him
+    out in the 11th round" (Wikipedia, VMHC for date and round).
+  - 1814: beat William Fuller (VMHC). Died 4 Aug 1818 in Galway, Ireland, aged 34, "penniless in the bandroom of the
+    77th Regiment", of tuberculosis and drinking (Wikipedia). VMHC says he died in Dublin: **place of death disputed**.
+- **Simon and Andrew Jackson, 1810-1815:** "For five years, the enslaved jockey Simon maintains a fierce rivalry with
+  future President Andrew Jackson. Jackson's horse and jockey lose eight times and forfeit once during their nine
+  showdowns" (Forgotten Foundation packet, National Museum of Racing). Simon rode Haynie's Maria (Thoroughbred Racing
+  Commentary article, search summary) (unconfirmed: search summary only). Jackson part-owned the Clover Bottom course
+  near Nashville (search summary) (unconfirmed: search summary only). Whether Simon was freed: the packet says he
+  "earned rare freedom", with no date or source.
+- **Cato, 1839.** 30 Sept 1839, Oakland Course, Louisville: Wagner (owned by John Campbell of Maryland) beat Grey Eagle
+  (owned by Alfred Lawrence Shotwell, ridden by the white jockey Stephen Welch, 83 lb) in "the best of three four-mile
+  heats" for a purse of $14,000, with about 10,000 spectators; "bets between individuals...made in dollars and slaves."
+  Wagner's rider was Cato, enslaved by Campbell. Second heat record 7:44. "Cato, the slave jockey, was given his freedom
+  in exchange for the victories. He continued racing as a jockey for John Campbell" (NKAA, citing Davis and Drape;
+  Forgotten Foundation agrees). A search summary says other accounts have Cato buying his wife's freedom while he
+  stayed enslaved, training horses in Louisiana until Emancipation (unconfirmed: search summary only): **dispute**.
+- **Unnamed riders.** A Charleston race card for the Washington Race Course, 18 Feb 1846 (South Carolina Jockey Club,
+  reproduced in the Forgotten Foundation packet): owners named (W. M. Myers, Wade Hampton, Pressley Shrover, Mr.
+  Lowndes, N. Green, W. H. Sinkler), purse $1,000 for four-mile heats, and each rider listed only by the colors of
+  his "dress". No rider is named.
+- **Trainers:** 1834, John Henry Hammond bought an enslaved trainer and groom named George, and enslavers discussed
+  dividing ownership of him three ways. Edward Troye's painting of the horse Richard Singleton shows the jockey Lew,
+  the trainer Harry Lewis and the groom Charles, all Black men. Harry Lewis, "once enslaved, was freed and paid a
+  salary" (Forgotten Foundation packet).
+- **By 1830 every state east of the Mississippi had at least one racetrack, Virginia more than twelve** (Forgotten
+  Foundation packet).
+- **Correction note for era 05 (not changed here):** the packet reproduces the *Raleigh Minerva* obituary, dated 5
+  January 1808: "On the 10th ult. at Halifax (N.C.) AUSTIN JONES, a colored man, aged about 50 years--well known for
+  many years past, as keeper of race horses". "10th ult." means 10 December 1807. The era 05 story `austin-curtis`
+  says he died in 1809. The obituary date gives December 1807. Parked for the audit in the checkpoint.
+
+### Spectator sport: racing, running, prize fighting
+- **Eclipse and Sir Henry, 27 May 1823, Union Course, Long Island:** American Eclipse (a northern horse, aged 9) beat
+  Sir Henry (a southern horse, aged 4), the first of a series of North-South challenge matches that ran until 1845.
+  Crowd: "as many as one hundred thousand" (Gale) or "estimated at 60,000" (National Museum of Racing Hall of Fame,
+  search summary) (unconfirmed: search summary only): **crowd figures disagree**. Eclipse's rider in the second and
+  third heats was Samuel Purdy, aged 49 (Racing Hall of Fame "Samuel Purdy", search summary) (unconfirmed: search
+  summary only).
+- **Trotting:** "harness racing began to supplant thoroughbred racing as the nation's most popular spectator sport"
+  about 1845 (Gale). Lady Suffolk, a gray mare foaled 1833 on Long Island, found pulling an oyster cart, trotted the
+  first mile under 2:30 (2:29 1/2) at the Beacon Course, Hoboken, 13 Oct 1845 (Harness Museum, search summary; some
+  sources say 1843) (unconfirmed: search summary only). The seed claim "the first big spectator sport" is not
+  supported: Gale says trotting became the most popular about 1845, after thoroughbred racing.
+- **Running (pedestrianism):** in 1835 John Cox Stevens offered $1,000 to any man who could run ten miles in less than
+  an hour. Henry Stannard did it in 59 minutes 49 seconds (Gale). Date 24 April 1835 at the Union Course, crowd of
+  30,000 to 40,000 (search summaries of ANB and Wikipedia) (unconfirmed: search summary only). "Throughout the 1840s
+  footracing grew in popularity" (Gale).
+- **Prize fighting:** "Bare-knuckle prizefighting rivaled harness racing as the most popular spectator sport by 1850";
+  it "was illegal in most states, forcing organizers to schedule fights at the last minute"; in the North it was
+  "dominated by ethnic contests" between Irish Catholic immigrants and native-born Protestants (Gale).
+- **Thomas McCoy killed, 13 Sept 1842.** At Hastings, Westchester County, New York, Christopher Lilly and Thomas McCoy
+  fought 120 rounds (Vice, Medium, search summaries). The coroner's jury found "Thomas McCoy came to his death by blows
+  and injuries received in a fight with Christopher Lilly, in Westchester county." McCoy was 21 and lived at Dover and
+  Water streets, New York. The jury named eight men as principals: John McClusky, William Ford, James Sullivan, James
+  Sanford, Henry Shanfroid, Richard Fagan, John Austin and Joseph Murphy. None had been arrested when the paper printed
+  it (*Signal of Liberty*, 26 Sept 1842, opened). Cause of death: the inquest found his lungs full of fluid and blood
+  (search summary) (unconfirmed: search summary only); "more than eighty direct blows" (search summary) (unconfirmed:
+  search summary only). James "Yankee" Sullivan, who promoted the fight, was sentenced to two years in state prison and
+  released after two months on a $200 bond and a promise not to fight for two years (Wikipedia). On 22 Nov 1842
+  eighteen men including Lilly were indicted for manslaughter (search summary) (unconfirmed: search summary only).
+  What happened to Lilly: not in the sources opened.
+- **Hyer and Sullivan, 7 Feb 1849,** Still Pond Creek, Maryland (moved from Poole's Island). Tom Hyer beat Sullivan in
+  17 minutes 18 seconds and won a $10,000 purse (Wikipedia "Yankee Sullivan").
+
+### The first written rules for baseball
+- **Town ball, Philadelphia, 1833.** On 4 July 1833 two groups of Philadelphia "town ball" players met in Camden, New
+  Jersey, and joined to form one club, the Olympic. The club printed its constitution, by-laws and member list in
+  1838. Town ball was one of several local names "for a family of closely related informal games" (Hershberger, SABR).
+  The Olympics played into the late 1880s (search summary) (unconfirmed: search summary only).
+- **Knickerbocker rules, 23 Sept 1845.** The Knickerbocker Base Ball Club of New York adopted twenty rules. William
+  Rufus Wheaton and William H. Tucker, the club's by-laws committee, wrote them down, and Thorn names Wheaton as the
+  main author (Thorn, SABR; Wikipedia). Rules: bases 42 paces from home to second and from first to third; the game
+  ends at 21 "counts, or aces" (runs), with equal turns; "Three hands out, all out"; a ball hit outside first or third
+  base is foul; the fielder throws to the baseman instead of hitting the runner with the ball ("soaking" abolished);
+  the ball must be pitched, not thrown (Wikipedia, Thorn). Members were "mature men and in business", merchants,
+  lawyers and physicians (Thorn). Games at the Elysian Fields, Hoboken, New Jersey. Wheaton told the *San Francisco
+  Examiner* in 1887 that the Gotham Club had laid out "an accurate diamond" at Madison Square before 1845 (Thorn).
+- **First match under the rules:** 19 June 1846, Elysian Fields: "the Knickerbockers, lost 23 to 1 to the New Yorks
+  in four innings" (Wikipedia "Knickerbocker Base Ball Club", opened). Gale writes that the Knickerbockers won:
+  **sources disagree on the winner**. Earlier games: 6 Oct 1845 the Knickerbockers played a 3-inning game among their
+  own members, and on 22 Oct 1845 the "New York Club" beat the "Brooklyn Club" 24 to 4, with a box score printed the
+  next morning (Wikipedia). So "the first game" needs care: say "one of the first recorded games". Gale credits
+  Alexander Cartwright with organizing the club. Thorn and Wikipedia credit Wheaton and Tucker with the rules: **dispute
+  on Cartwright's role**.
+- **Nine innings, 90 feet, nine players:** a search summary put these in the 1845 rules. The Wikipedia text of the
+  rules does not contain them (the 1845 rules end the game at 21 runs and measure bases in paces). Do not write them
+  for 1845. (A later date for them was not checked: leave out.)
+- **The Doubleday story (who made it up and when).** In 1905 the sporting-goods maker Albert Spalding called for an
+  inquiry into how baseball began. Abner Graves, a 71-year-old mining engineer in Denver, wrote to the *Akron Beacon
+  Journal* (letter dated 3 April [1905]) that Abner Doubleday invented baseball at Cooperstown, New York, in 1839.
+  Graves was 5 years old in 1839 (Wikipedia "Doubleday myth"). Abraham G. Mills, a former National League president,
+  chaired Spalding's commission. The commission never met or wrote to Graves. Mills's report, dated 30 Dec 1907, said
+  baseball was "devised by Abner Doubleday at Cooperstown, N. Y. in 1839" (Salvatore; Wikipedia). Spalding wanted to
+  show the game "was invented and first played in America and owed nothing to any English predecessor" (Salvatore).
+  Doubleday was a West Point cadet from 1 Sept 1838 with leave only from 18 June to 28 Aug 1840. His 67 surviving
+  diaries never mention baseball, and none of his articles was about it (Salvatore). Wikipedia: he mentioned baseball
+  once in his letters or diaries before he died in 1893. Graves later shot and killed his wife and was committed to a
+  psychiatric hospital (Wikipedia). The Hall of Fame opened at Cooperstown on 12 June 1939, the supposed centennial
+  (Wikipedia). The report is era 08 (1907). Era 06 holds the 1839 claim and the facts that disprove it.
+
+### Children, toys and shows
+- **Lucy Larcom** (born 5 March 1824, Beverly, Massachusetts: NPS/Wikipedia summary). Her memoir, *A New England
+  Girlhood* (1889): in Beverly the children shaped burdock burrs "into chairs and cradles and sofas for our dollies",
+  played school on the doorsteps and climbed "over the wall, and to feel the freedom of the hill". "We were a
+  neighborhood of large families, and most of us enjoyed the privilege of 'a little wholesome neglect.'" Her father, a
+  retired sea captain, died in 1832 (summary). Her mother moved to Lowell in 1835 (summary) and kept a boarding house
+  for mill girls at $1.25 a week per boarder. "The children will have to leave school and go into the mill." Larcom
+  was "between eleven and twelve years old". Her job was "to change the bobbins on the spinning-frames every three
+  quarters of an hour or so, with half a dozen other little girls". At first she told her family "It is just like
+  play", and "We were not occupied more than half the time", playing games in a corner between changes. She earned
+  "one dollar a week, besides the price of my board", which the family needed, so she could not go on to high school.
+  "The working-day in winter began at the very earliest daylight, and ended at half-past seven in the evening." Of the
+  mill she wrote: "it was not, and could not be, the right sort of life for a child". Later she left "a working-day
+  thirteen hours long" (Larcom 1889). `work-workers` leads on the mill work. Here: the play she had and the hours she
+  lost.
+- **Toys:** Francis, Field and Francis, on North Second Street, Philadelphia, opened in 1838, "Philadelphia's first toy
+  manufacturer, among the first in the United States". Also called the Philadelphia Tin Toy Manufactory. It sold
+  imported French and German toys and made "what is believed to be the first manufactured toy in the United States: a
+  horse-drawn fire apparatus" (Sherry, Encyclopedia of Greater Philadelphia). Tin toys were sheet steel coated with tin,
+  soldered or tabbed and painted (search summary) (unconfirmed: search summary only). William S. Tower of South Hingham,
+  Massachusetts, organized wooden-toy makers in the 1830s-1850s (search summary) (unconfirmed: search summary only).
+  "At least 50 toy makers" by 1850 and 88 toy stores in New York City in 1844 (WorthPoint, search summary) (unconfirmed:
+  search summary only).
+- **Circus:** in 1825 Joshua Purdy Brown found that city leaders in Wilmington, Delaware, had banned public amusements,
+  and he put up a canvas "pavilion circus" just outside the city limits. Brown's canvas tent made the circus a
+  travelling show (Janet M. Davis, *Smithsonian*). Ticket prices before 1850: not found (see below).
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): What did a family pay to see a travelling circus in 1800-1850?
+Sources checked: Janet M. Davis, *Smithsonian* (Brown 1825, no prices); Britannica "J. Purdy Brown" (search summary, no
+prices); searches for 25-cent and half-price admission (nothing sourced).
+How the prose can say it: tell Brown's tent and leave out the price.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): Was harness racing "the first big spectator sport"?
+Sources checked: Gale *American Eras* 1815-1850 (thoroughbred racing drew the first huge crowds, 1823; harness racing
+began to replace it as the most popular about 1845; prize fighting rivaled it by 1850).
+How the prose can say it: "The biggest crowds of these years came to see horses race. In 1823 at least 60,000 people
+watched two horses race on Long Island."
+
+## Era 07: 1850 to 1900 (T-271b, 2026-09-28)
+
+### Sources for this era
+- **Walker:** David W. Zang, "Fleet Walker", SABR BioProject (sabr.org/bioproj/person/fleet-walker, opened); Wikipedia
+  "Moses Fleetwood Walker" (opened).
+- **Color line:** Peter Mancuso, "July 14, 1887: The color line is drawn", SABR Games Project (opened); SABR "Before
+  Jackie: Baseball's Color Line" (sabr.org/jackie75/segregation, opened); Wikipedia "Baseball color line" (opened).
+- **Murphy and Black jockeys:** Wikipedia "Isaac Burns Murphy" (opened); Terry Conway, "Isaac Murphy: The King of 19th
+  Century Jockeys", America's Best Racing (opened); Tour the Historic Bluegrass, "Murphy House Lot and Murphy Memorial
+  Garden" (opened); *The Leader* (Lexington), 16 Feb 1896, p. 1 (uky.edu African Cemetery No. 2 project, opened);
+  National Museum of Racing, *Forgotten Foundation* packet (PDF, read).
+- **Red Stockings:** National Baseball Hall of Fame, "Pro baseball began in Cincinnati in 1869" (opened).
+- **Football:** Rutgers University, "The Birthplace of College Football" (opened); Wikipedia "Richard Von Albade Gammon"
+  (opened); *Atlanta Journal-Constitution*, "118 years ago, Georgia football almost died" (opened); Bill Carey,
+  "Football Was So Brutal in the 1890s That Many Called for Its Ban", *The Tennessee Magazine*, Oct 2021 (opened with
+  curl).
+- **Basketball:** Springfield College, "Birthplace of Basketball" (opened); McGill University, "This Date in History:
+  Naismith invents basketball" (opened).
+- **Olympics:** NBC Sports, "The unusual story of the first Modern Olympic champion" (opened).
+- **Playgrounds:** Joseph Lee, *Constructive and Preventive Philanthropy* (New York, 1902), pp. 125-129 and 173,
+  archive.org `constructiveand00riisgoog` djvu text (opened).
+- **Bicycles:** Nellie Bly, "Champion of Her Sex", *New York Sunday World*, 2 Feb 1896, p. 10 (excerpt in TeachIt CT
+  PDF, opened); Frances E. Willard, *A Wheel Within a Wheel* (1895), Project Gutenberg 60356 (opened).
+- **Coney Island:** Wikipedia "Switchback Railway", "Sea Lion Park", "Steeplechase Park" (search summaries).
+- **Games at home:** Wikipedia "Milton Bradley" (opened).
+- **Child labor:** US Census Bureau, "Exploring 19th-Century Child Labor in the United States" (teacher version PDF,
+  census.gov, opened; cites *Historical Statistics of the United States*, Series D75-84); Michael Schuman, "History
+  of child labor in the United States, part 1", *Monthly Labor Review*, BLS, Jan 2017 (opened).
+- **Cherokee ball play:** James Mooney, "The Cherokee Ball Play", *American Anthropologist* 3 (1890), quoted in Culin
+  1907 pp. 574-585 (read in the djvu text). Choctaw Nation, "Stickball" (opened). NCpedia "Stickball" (opened).
+
+### Baseball: the first paid team, and the color line
+- **Cincinnati, 1869:** "the first known openly professional team". Harry Wright found "10 players to pay, including
+  himself and his brother, George". Record 57-0 against National Association clubs, 64-0 in all. In September the
+  team went to San Francisco, the first club to play on both coasts. The streak ended in 1870 when the Brooklyn
+  Atlantics won in 11 innings before 20,000 fans (Baseball Hall of Fame). Salaries from search summaries: George Wright
+  $1,400, Harry Wright $1,200 (unconfirmed: search summary only).
+- **1867 (Pythians):** the National Association of Base Ball Players upheld the Pennsylvania association's ruling and
+  "adopted a formal ban on the inclusion of black players and clubs" (Wikipedia "Baseball color line"). The Pythian
+  club of Philadelphia and its founder Octavius Catto: not opened here; no other chapter tells Catto (grep of
+  outlines, 2026-09-28). Left for era 07 as one sentence only.
+- **Bud Fowler, 1878:** "the first acknowledged African-American professional player" (SABR "Before Jackie").
+- **Moses Fleetwood Walker:** born 7 Oct 1856, Mount Pleasant, Ohio. Oberlin College (enrolled 1877), University of
+  Michigan (law, 1882). Catcher for Toledo in the American Association, then a major league, in 1884: debut 1 May 1884
+  at Louisville, 42 of 104 games, batting .263. He often caught barehanded with little protection (Zang, SABR). His
+  brother Weldy Walker also played for Toledo in 1884, the second Black major leaguer (Zang).
+  - 1883, exhibition game at Toledo: Cap Anson, captain of the Chicago club, said "We'll play this here game, but won't
+    play never no more with the nigger in" (Zang, quoting a newspaper). The slur is in the source. Plain wording for
+    the book: Anson used a racist slur and said his team would never play again against a team with Walker on it.
+  - Toledo's pitcher Tony Mullane later said he pitched without looking at Walker's signals: "He was the best catcher I
+    ever worked with, but I disliked a Negro" (Zang).
+  - Sept 1884: the Toledo manager received a letter threatening mob action if Walker played at Richmond, Virginia.
+    Toledo released Walker before the trip (Zang). The letter-writers are not named in the source read.
+  - 1887: Walker played for Newark in the International League with the pitcher George Stovey. Anson sent word that
+    "the Chicago Club would not play if Stovey and Walker, the colored men, were put at the points" (Mancuso, SABR).
+    On 14 July 1887 Newark played Chicago without them (Wikipedia; SABR says Walker was apparently injured).
+  - **The International League decision, 14 July 1887,** at a meeting in Buffalo: the owners "passed a resolution
+    instructing Secretary (C.D.) White not to approve the contract of any more colored players" (Mancuso). Vote 6 to
+    4: "the league's entirely white teams voted in favor and those with at least one black player voted in the
+    negative" (Wikipedia). SABR: "the IL drew up a written color ban". The owners who voted are not named in the
+    sources read.
+  - After 1887 the league kept two Black players whose contracts predated the vote, Frank Grant and Walker, and Walker
+    stayed most of 1889 (Wikipedia). Walker played for Syracuse in 1888-1889 (Zang).
+  - **Major leagues:** "there was no written policy at the highest level of organized baseball, the major leagues",
+    so the exclusion was called "a gentlemen's agreement, meaning a tacit understanding" (Wikipedia). No Black player
+    appeared in the International League again until Jackie Robinson with Montreal in 1946 (Wikipedia; SABR).
+  - 9 April 1891, Syracuse: a group of white men attacked Walker outside a saloon. Patrick Murray threw a stone that hit
+    Walker's head, and Walker stabbed Murray with a pocket knife. Murray died. An all-white jury found Walker not guilty
+    of second-degree murder on 3 June 1891 (Wikipedia; Zang).
+  - Sept 1898: convicted of mail robbery, a year in jail (Wikipedia). 1908: with Weldy, published *Our Home Colony*,
+    arguing that Black Americans should emigrate to Africa (Wikipedia). Ran the opera house (a theater) in Cadiz,
+    Ohio. Died of pneumonia in Cleveland, 11 May 1924, aged 67 (Wikipedia; Zang).
+  - Not told in any other chapter (grep of outlines, 2026-09-28).
+
+### Horse racing: Black jockeys and what they earned
+- **Oliver Lewis** rode Aristides to win the first Kentucky Derby, 17 May 1875. The trainer was Ansel Williamson, born
+  enslaved in 1806. "Black jockeys would go on to win 15 of the first 28 runnings of the Kentucky Derby" (Forgotten
+  Foundation packet).
+- **Isaac Burns Murphy:** "born into slavery on January 6, 1861, in Clark County, Kentucky" (Wikipedia). His father,
+  Jerry Burns, joined the Union Army on 24 June 1864 and died that fall in the hospital at Camp Nelson (Wikipedia).
+  Derby wins: Buchanan 1884, Riley 1890, Kingman 1891. First jockey to win three Derbies and the first to win two in a
+  row (packet). "According to his own calculations, Murphy won 628 of his 1,412 starts", 44 percent (Wikipedia). The
+  packet says "around 40%".
+  - **Earnings:** "reportedly earned $15,000 to $20,000 annually when the average yearly income for a family of four
+    was $1,200" (Conway). A search summary says he got $12,000 in 1887 for "first call" on his riding (unconfirmed:
+    search summary only). In 1887 he and his wife Lucy (Carr) bought a 10-room house at Nelson Avenue and Third Street,
+    Lexington, for $10,000 (Tour the Historic Bluegrass).
+  - **Weight:** he weighed about 70 lb when he began (Conway). Search summary: his riding weight was 105 lb, and he
+    starved himself for years to keep it and began to drink heavily (unconfirmed: search summary only).
+  - **1890 Monmouth:** riding the favorite Firenze in the Monmouth Handicap, he swayed in the saddle and fell off after
+    the finish. The stewards charged him with drunkenness and suspended him. He blamed sudden weight loss (Conway). He
+    said he had been drugged, and heavy betting against Firenze pointed to foul play (Wikipedia). Date: 26 Aug 1890
+    (Wikipedia) or July 1890 (search summary): **date disputed**.
+  - **Death:** February 1896 in Lexington. Wikipedia: heart failure, 16 Feb, aged 35. Conway: pneumonia, aged 36. A
+    search summary: pneumonia on 12 Feb, aged 34. *The Leader* of 16 Feb 1896 announced his funeral for 3 p.m. that
+    afternoon at his home on East Third Street, with Masonic rites at the "colored cemetery", pallbearers including the
+    trainers Scott Williams and John T. Clay, and expected it to be "one of the largest seen in Lexington for many
+    years". So he died before 16 Feb: **Wikipedia's date is likely wrong** (the funeral date is firm). Cause and age
+    disputed. He was born 6 Jan 1861, so he was 35.
+  - **What was lost:** after his death Lucy Murphy could not repay a $5,500 loan from Gus Luigart and lost the house in
+    a lawsuit. It was sold at auction in 1900 and torn down after 1934 (Tour the Historic Bluegrass). His grave was
+    in African Cemetery No. 2. It became unmarked. He was reburied at the Man o' War site in 1967 and later at the
+    Kentucky Horse Park (Wikipedia; Conway). First jockey in the Racing Hall of Fame, 1955 (packet).
+  - How much money he had at death: not found (see SEARCHED, NOT FOUND).
+- **Pushed out:** "by the early 1900s ... Racial segregation and Jim Crow laws forced most Black jockeys and trainers
+  out of the sport they had built" (packet). The mechanism (who refused licenses or mounts) is era 08: hand to the
+  era-8 agent. Jimmy Winkfield won the Derby in 1901 and 1902 (packet: breakthrough 1899): era 08.
+
+### Football: the first college game and the deaths
+- **Rutgers 6, Princeton 4, 6 Nov 1869,** New Brunswick, New Jersey. 25 players a side. Players could "bat the ball
+  with their fists or hands, in addition to their feet", could not hold or trip, and the first side to six goals won.
+  "Perhaps 100 people" watched. Captains William J. Leggett (Rutgers) and William S. Gummere (Princeton). The game
+  "more resembled today's game of soccer" (Rutgers).
+- **Deaths in the 1890s:** Richard Von Albade Gammon, University of Georgia fullback, born 4 Dec 1879, dove into a pile
+  of players to make a tackle against the University of Virginia in Atlanta on 30 Oct 1897 and lay still. He died at
+  Grady Hospital early on 31 Oct 1897, aged 17, of "a severe concussion" (Wikipedia). AJC: "concussion of the brain";
+  accounts differ on whether his head struck his own shoe or the hard ground. A concussion is an injury to the brain
+  from a hard blow to the head. The Georgia legislature passed a bill to ban football at state institutions. His
+  mother, Rosalind Burns Gammon, wrote to her representative: "It would be the greatest favor to the family of Von
+  Gammon if your influence could prevent his death from being used as an argument detrimental to the athletic
+  cause" (AJC). Governor William Y. Atkinson vetoed the bill on 7 Dec 1897 (Wikipedia; AJC).
+- "Two weeks later, the New York World reported that at least eight people died playing the sport that season, and
+  it listed more than 200 additional serious injuries" (Carey, Tennessee Magazine, 1897 season). The World called its
+  list "an encyclopedia of broken bones, torn ligaments, fractured skulls, twisted necks, ... broken ribs, ... backs
+  and chests crushed in, scalps ripped off and jaws mashed". On 30 Oct 1898 the *Knoxville Tribune* ran a full-page
+  editorial calling for a ban, with three unnamed deaths: two players' heads struck together ("convulsion of the brain
+  ensued, ending in death"), a player at the bottom of a pile whose neck was broken, and a player kicked in the head
+  by a heavy shoe who died three days later (Carey). Players wore no helmets, mouthpieces or padding (Carey).
+- 1894 Harvard-Yale game ("Hampden Park Blood Bath"), four players badly hurt, the series stopped until 1897
+  (search summary) (unconfirmed: search summary only). Yearly national death counts for 1890-1896: not found.
+  1904-1905 counts (18 and 19 deaths) are era 08.
+
+### Basketball, 1891
+- James Naismith, born 16 Nov 1861 in Ramsay Township, Ontario, McGill graduate 1887 (McGill), was a graduate student
+  and instructor at the International YMCA Training School, Springfield, Massachusetts (now Springfield College).
+  Luther Gulick told him: "Naismith, I want you to take that class and see what you can do with it", a class that
+  needed an indoor winter game. He asked the janitor for two 18-inch boxes for goals, and the janitor brought two peach
+  baskets. Thirteen rules, nine players a side (Springfield College). Date of the first game: 21 Dec 1891 (History.com,
+  search summary) or "The first formal game was played on December 29, 1891" (McGill): **dates differ**. Springfield
+  gives his age as 31. By his birth date he was 30. Immigration thread: Naismith was born in Canada.
+
+### The Olympics, 1896
+- James Brendan Connolly, 27, of Boston, a Harvard student, won the triple jump (then "hop, skip and jump") on 6 April
+  1896, the first day of the Athens Games, the first modern Olympic champion. He left Harvard against a dean's advice
+  that he might not be readmitted. He was 2nd in the high jump and 3rd in the long jump (NBC Sports). The seed's
+  "modern Olympics, 1896" is confirmed. How many Americans competed: not confirmed (search summary: Connolly sailed with
+  nine other men).
+
+### Bicycles and women
+- **Susan B. Anthony to Nellie Bly, 1896:** "Let me tell you what I think of bicycling ... I think it has done more to
+  emancipate women than anything else in the world. I stand and rejoice every time I see a woman ride by on a wheel.
+  It gives woman a feeling of freedom and self-reliance." On bloomers: they "Are the proper thing for wheeling ...
+  Safety, as well as modesty, demands bloomers or extremely short skirts" (*New York Sunday World*, 2 Feb 1896, p. 10).
+  Emancipate: set free.
+- **Frances Willard learned to ride at 53** (book 1895). As a girl in the country she had "almost no toys except such
+  as I could manufacture", made a wooden plow and an ax. A young teacher from Evanston, Miss Luther, gave her lessons.
+  Her family feared she would "break my bones". She named the bicycle Gladys and practiced three months. She wrote that
+  women who ride "must, when riding, dress more rationally" (Willard 1895). Willard is in `drugs-alcohol` (the WCTU)
+  and `rights-movements` (her 1890 statement about Black Americans and Ida B. Wells). This chapter keeps only the
+  bicycle.
+- The safety bicycle's date and sales figures of the 1890s craze: not researched (left to `technology`).
+
+### Playgrounds and parks
+- **Sand gardens, Boston.** Joseph Lee (1902): "In 1886 Dr. Marie E. Zakrzewska wrote to the chairman of the executive
+  committee of the Massachusetts emergency and hygiene association", saying that in Berlin's public parks there were
+  heaps of sand where children "rich and poor, were allowed to dig and play". That year "three piles of yellow sand were
+  placed in the yards of the Children's mission, Parmenter street chapel, and Warrenton street chapel". The next year
+  ten heaps, in tenement courts and a school yard, daily average attendance 400, special matrons hired. By summer 1900
+  the association ran 21 playgrounds, 20 in school yards, average attendance about 4,000, costing a little over $4,000,
+  of which the school committee paid $3,000 (Lee). **Date conflict:** search summaries (Zakrzewska Wikipedia, Leisure
+  Sciences 1983) say she visited Berlin and the first sand garden opened in 1885 (unconfirmed: search summary only).
+  Lee (1902, opened) says 1886. Children's favorite games in the sand gardens: "house" and "funeral" (Lee).
+- **Other cities (Lee 1902):** Philadelphia, 1893, two summer playgrounds by private donors, then 1895 the city
+  councils opened school yards, four as sand gardens, $1,000. Providence 1894. New York: a summer playground in the
+  back yard of the Nurses' Settlement, 1895. In 1897 Mayor Strong's small-parks committee (Abram S. Hewitt chairman,
+  Jacob A. Riis secretary) reported "New York has as yet not a single municipal playground". Chicago's first summer
+  playground 1897. Cleveland, Minneapolis and Denver had sand gardens by 1898.
+- **Hull-House playground, Chicago, 1894:** "The first model playground in this country, outside of the sand-garden
+  type", about 300 by 100 feet, with swings, a may-pole, a sand pile, paving blocks and benches, run by a kindergarten
+  teacher and a policeman who "usually captains one of the ball nines" (Lee). Seed claims "how many playgrounds were
+  built by 1900": no national count found. Boston's 21 in 1900 and the other cities' figures are Lee's.
+- **Central Park:** only schoolboys with a note from their principal could play ball on the meadows in the park's first
+  years (search summary of a Golden Gate Park history blog) (unconfirmed: search summary only). `city-building` leads on
+  parks.
+
+### Amusement parks and games at home
+- Coney Island, Brooklyn: LaMarcus Thompson's Switchback Railway opened 16 June 1884, about 6 miles an hour, 5 cents a
+  ride. Paul Boyton's Sea Lion Park, 1895, 16 acres, fenced with an admission charge, the first enclosed permanent
+  amusement park in North America. George C. Tilyou's Steeplechase Park, 1897, 25 cents for 25 attractions (Wikipedia
+  articles, search summaries) (unconfirmed: search summary only).
+- Milton Bradley's board game *The Checkered Game of Life*, winter 1860: buyers took more than 45,000 copies by 1861
+  (Wikipedia "Milton Bradley"). Bradley published croquet rules in 1866 (Wikipedia). Croquet was among the first games
+  that men and women played together outdoors, with chaperones (blog, search summary) (unconfirmed: search summary
+  only).
+- James Plimpton patented a four-wheel roller skate that could turn by leaning, 6 Jan 1863, and rinks spread in the
+  1860s and 1870s (search summary) (unconfirmed: search summary only).
+
+### Children who worked
+- The 1870 census was the first to count working children: more than 750,000 workers younger than 15, not counting
+  children who worked for their own families on farms or in shops. By 1900 more than 1.75 million children younger than
+  15 were employed. The number of workers aged 10 to 14 "practically doubled between 1870 and 1890 and peaked in 1900".
+  After 1880 most employed children aged 10 to 14 did not work on farms (US Census Bureau lesson, citing *Historical
+  Statistics*).
+- Schuman (BLS, 2017): 1870, 1 of every 8 children employed. By 1900 more than 1 in 5. "Between 1890 and 1910, no less
+  than 18 percent of all children ages 10-15 worked." In 1900 25,000 of the nearly 100,000 textile workers in the South
+  were children under 16. Children in mills worked "12-hour days, 6 days a week".
+- A search summary gives 1,118,356 children working for wages in 1880 (unconfirmed: search summary only).
+- `work-workers` leads on the work (its outline uses the BLS 18 percent and the 1904 Southern mill figures).
+
+### Native ball games, 1850-1900
+- **Cherokee, North Carolina, 1890.** James Mooney described the Eastern Cherokee ball game, *anetsa*. Each player used
+  two sticks just under 3 feet long, with a net of twisted squirrel skin or hemp. In the fall a game took place
+  "somewhere on the reservation at least every other week". For 7 to 28 days before a game a player could not eat
+  rabbit, frog or hot or salted food, and could not touch a woman. Before the game an old man named Standing Water
+  scratched each player with a *kanuga*, a comb of seven sharpened splinters of turkey leg bone. He pressed the teeth
+  into the skin from shoulder to elbow and elbow to wrist, 28 lines on each part of each arm and leg, plus an X on the
+  chest and back, "nearly three hundred gashes". Mooney: "None of the scratches are deep, but they are unquestionably
+  very painful" and the players took it "willingly", "as a necessary part of the ritual to secure success in the game"
+  (Mooney 1890, in Culin 1907 pp. 574-585). NCpedia: these games were North Carolina's "first large-scale spectator
+  sporting events, attracting huge crowds, including local whites, during the nineteenth century."
+- Choctaw Nation: an American anthropologist wrote in the late 1800s that in stickball "Almost everything short of
+  murder is allowable". A 1903 Choctaw-Chickasaw game ended in a brawl of 300 spectators, and afterwards the semi-annual
+  games were stopped (era 08).
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): Did Indian agents or boarding-school staff ban Native ball games or lacrosse between 1850 and 1900, and who did it?
+Sources checked: Choctaw Nation "Stickball" (no ban before 1903, then the semi-annual games stopped after a brawl);
+NCpedia "Stickball" (no ban); Culin 1907 / Mooney 1890 (no ban mentioned); Wikipedia "Indigenous North American
+stickball" and Encyclopedia of Alabama via search summary: boarding schools "discouraged or outright banned
+traditional games" and religious and government authorities discouraged Cherokee and Choctaw ballgames because of
+the betting, with no named school, agent, date or order (unconfirmed: search summary only).
+How the prose can say it: "Missionaries and US officials objected to the betting at Cherokee and Choctaw ball games.
+No order banning the games in these years has been found." (Carlisle's sports begin in era 08.)
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): How much money did Isaac Murphy leave when he died in 1896?
+Sources checked: Wikipedia; Conway (America's Best Racing); Tour the Historic Bluegrass; *The Leader* 16 Feb 1896.
+None gives his estate. What is recorded: his widow could not repay a $5,500 loan and lost the $10,000 house in a
+lawsuit, and it was auctioned in 1900.
+How the prose can say it: "The records do not show how much money Murphy had left. After he died, his widow, Lucy,
+could not pay back a $5,500 loan and lost their house."
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): How long was a child's working day in a named mill between 1850 and 1900, and what did mill children do on Sunday?
+Sources checked: BLS 2017 (12-hour days, 6 days a week, no mill named); US Census Bureau lesson (no hours); search for
+the Massachusetts Bureau of Statistics of Labor 1875 report *Factory Children* (exists, not opened). Lucy Larcom's
+Lowell mill (1835) is era 06.
+How the prose can say it: "Children in the mills worked 12-hour days, six days a week."
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271b): How many college football players died each year in the 1890s?
+Sources checked: Carey (the *New York World* count for 1897 only: at least eight dead); Wikipedia "Richard Von Albade
+Gammon" (no count); AJC (no count); search summaries (1904 and 1905 Chicago Tribune counts only).
+How the prose can say it: "A New York newspaper, the *World*, counted at least eight football deaths in the 1897
+season." Give no yearly figures for other years of the 1890s.
+
+### PATCH 2026-09-28 (T-271b): William Edward White, 1879 (era 07, checks the Walker "first")
+- "William Edward White, a former slave, had a one-game career for the National League's Providence Grays on June 21,
+  1879." He was "the mulatto son of Andrew J. White, a white man, and Hannah White, his mulatto domestic servant". He
+  went 1 for 4, stole two bases and handled 12 putouts without an error in a 5-3 win over Cleveland. In the 1880 census
+  and later he declared his race as white. "By the retroactive application of genetic rules, William Edward White is
+  the first known black man to play major-league baseball. Within his society, however, he was not." (SABR Games
+  Project, "June 21, 1879: The cameo of William Edward White", opened.) Georgia as his birthplace, and 1860 as his
+  birth year: search summary of Wikipedia and Slate (unconfirmed: search summary only).
+- Effect on the outline: the Walkers are "the first Black major-league players known to the public as Black men".
+
+## Bank check, eras 06-07 (T-271b, 2026-09-28)
+
+Run against the outline and the registry angle (how Americans and their children entertained themselves, and how it
+changed).
+
+**Hard subjects: actor, act, count, cause.**
+- Black Warrior ball game and battle, about 1800: actors are the Choctaw and Creek players and warriors, chiefs
+  Tuskeegee and Luee named; cause (land between the rivers) stated; **count of dead not in the record** (Cushman: "many
+  were killed and wounded"). Outline says the account gives no count.
+- Graves dug up, 1832: actor Charles Dobbs named; act and amounts ($500 silver, $250 ornaments) stated; cause (the
+  money buried with the dead) stated. Land: Choctaw land ceded in 1830.
+- Choctaw removal: actors "US officials" (the removal agents are not named here: `native-nations` leads); count given as
+  the Choctaw Nation's fraction ("over a quarter"); the 15,000 moved / 2,500 dead figures are search summary only and
+  are not in the outline.
+- Enslaved people's play: Douglass names the actors (the enslavers who wanted the men drunk; Wright Fairbanks and
+  Garrison West, who broke up the Sunday school with sticks and stones). Planters' boxing matches between enslaved men:
+  Gale, **no named planter or fighter**. Molineaux's enslavement is unproved (both sources recorded).
+- Enslaved jockeys: Cato's enslaver John Campbell named; bets in "dollars and slaves" stated; the Charleston race card's
+  riders are unnamed in the record itself. Conditions of enslaved jockeys (injuries, punishments): not in the sources
+  read. Simon's rivalry with Jackson is from the museum packet only.
+- Thomas McCoy's death, 1842: act (120 rounds, died in the ring), the coroner's finding, and the eight principals named;
+  Sullivan's sentence stated; what happened to Lilly not found.
+- Hawaii: no law against surfing recorded; Bingham's own explanation quoted and attributed.
+- The color line, 1867 and 1887: actors are the NABBP (members not named) and the International League owners (vote 6
+  to 4, by all-white teams against teams with a Black player; **owners not named** in the sources read); Anson named;
+  the 1884 Richmond letter-writers are unnamed in the record. The major leagues' exclusion had no written rule.
+- Walker's 1891 killing of Patrick Murray: attacker and victim named, the stone and the knife stated, the verdict and
+  the all-white jury stated.
+- Black jockeys pushed out: the museum packet names segregation and "Jim Crow laws" but **no person**. Outline states
+  the account names no one. Handed to the era-8 agent (Jimmy Winkfield, the Jockey Club licensing of the 1900s).
+- Isaac Murphy 1890: the stewards' drunkenness charge and his drugging claim both recorded; who bet against Firenze is
+  not named.
+- Football deaths: Von Gammon (concussion, defined in the outline); the *New York World* count (at least eight in 1897);
+  the Knoxville 1898 deaths unnamed. No yearly counts for 1890-1896 (SEARCHED, NOT FOUND).
+- Cherokee scratching, 1890: the act, the instrument, the method and the number of cuts stated (the clinical-word rule
+  applied: no clinical term used).
+- Child labor: counts and years given from the Census Bureau and BLS; employers not named (`work-workers` leads).
+
+**Outline claims the writers will need, and "firsts" checked.**
+- "first known openly professional team" (Cincinnati 1869): Hall of Fame wording; outline says "first team whose players
+  were all openly paid".
+- "first college football game" (1869): Rutgers' own claim and general usage; the game was soccer-like, as the outline
+  says.
+- "first champion of the modern Olympic Games" (Connolly): NBC Sports; he won the first final on the first day.
+- "first Black professional baseball player on record" (Fowler 1878): SABR wording "first acknowledged".
+- "first Black major-league players" (the Walkers 1884): **qualified** after the White PATCH above.
+- "first toy made by a factory in the United States" (Francis, Field and Francis): outline says "is thought to be",
+  matching "is believed to be" in the source.
+- "the 1870 census was the first to count working children": Census Bureau lesson.
+- "first jockey to win the Derby three times" (Murphy): museum packet.
+- Seed claims removed or changed: "harness racing as the first big spectator sport" (not supported, SEARCHED, NOT
+  FOUND in era 06); "the Boston sand gardens, 1885" (Lee 1902 says 1886; outline gives both); "how many playgrounds
+  were built by 1900" (no national count; city counts from Lee); "circuses: ticket prices" (not found); "Coney Island
+  prices" (5 cents per coaster ride kept from Wikipedia opened; Steeplechase 25 cents left in bank as search summary);
+  "croquet, roller skating" (croquet rules kept from Wikipedia; roller skating left in bank as search summary).
+
+**Land.** Black Warrior/Tombigbee (Choctaw and Creek claims, era 06); the Noxubee ground (Choctaw land ceded 1830,
+taken by Dobbs 1832); the Choctaw ball ground of 1834 was in Indian Territory after removal. The racecourses, Elysian
+Fields, Boston and Coney Island were not checked for earlier Native owners: the outline makes no settlement claim there.
+
+**Perishable facts.** None in eras 06-07.
+
+**Handed to the era-8 agent.** Black jockeys forced out in the 1900s (who did it); the 1903 Choctaw-Chickasaw game and
+the end of the semi-annual games (Choctaw Nation); 1904-1905 football death counts; the Mills Commission report of 30
+Dec 1907 (told briefly in era 06 as the end of the Doubleday story, full sources in the bank era 06).
 
 ## Parked from `native-nations` (2026-08-07) — Jim Thorpe (sports-play tells the athletic career; native-nations tells the Carlisle/nations angle; our story slug there: jim-thorpe-native-nations)
 - **Jim Thorpe (Wa-Tho-Huk), Sac and Fox Nation** — Carlisle Indian Industrial School student; two-time football All-American there.

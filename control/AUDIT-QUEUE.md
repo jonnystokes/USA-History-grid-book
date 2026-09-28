@@ -246,3 +246,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **For the `how-we-know` afterword (step 7):** from T-273a (holidays checkpoint): - `how-we-know` (Afterword, the Thanksgiving myth): Salem Gazette 28 Nov 1816 credits "our Pilgrim forefathers, who instituted this religious festival" (Jane Hampton Cook, GenealogyBank blog, 4 Dec 2020); Alexander Young 1841 note (Plimoth Patuxet); Newell claim vs Jeremy Bangs, HNN 1 Sep 2005.
 
 - **From T-267a (art checkpoint):** - AUDIT-QUEUE candidate: `research-art.md` era 04 notes that Western Carolina University's rivercane page names "Sir Francis Richardson, the first governor of the Carolina colony" as the man who took the 1725 baskets to London; search summaries name Francis Nicholson. Unresolved; outline leaves the governor unnamed.
+
+- **sports-play era 5, story `austin-curtis`:** the outline gives his death as 1809, but his newspaper obituary (found by T-271b) dates it December 1807. Check the bank and correct the story.

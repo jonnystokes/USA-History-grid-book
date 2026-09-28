@@ -78,10 +78,10 @@ Registry angle now reads: *How Americans and their children entertained themselv
 *Every unverified date/claim carried into the outline. The research agent clears these.*
 
 Sport (from the original seed):
-- [ ] the Knickerbocker baseball rules, 1845 — 1800–1850
-- [ ] the first fully professional team, 1869 (Cincinnati Red Stockings) — 1850–1900
-- [ ] the first college football game, 1869 — 1850–1900
-- [ ] basketball invented, 1891 (Springfield) — 1850–1900
+- [x] the Knickerbocker baseball rules, 1845 (T-271b: 23 Sept 1845, Wheaton and Tucker; Thorn/SABR) — 1800–1850
+- [x] the first fully professional team, 1869 (T-271b: Hall of Fame, "first known openly professional") — 1850–1900
+- [x] the first college football game, 1869 (T-271b: Rutgers 6, Princeton 4, 6 Nov 1869) — 1850–1900
+- [x] basketball invented, 1891 (T-271b: Springfield College; date 21 or 29 Dec disputed) — 1850–1900
 - [ ] the first World Series, 1903 — 1900–1950
 - [ ] women's baseball during the war — 1900–1950
 - [ ] the Super Bowl from January 1967 (the name came later) — 1950–2000
@@ -91,10 +91,10 @@ Sport (from the original seed):
 Play and entertainment (added 2026-09-06):
 - [x] Native games and toys (T-271a): Culin 1907 read in full text; chunkey (Pauketat), stickball (Choctaw Nation), Sinagua clay toys (Kamp 2001). Dated pre-1500 dolls/tops: SEARCHED, NOT FOUND — Before 1500
 - [x] toys from colonial archaeology (T-271a): Jamestown stoneware marble, mid-1600s; Mount Vernon House for Families marble (1760s-1792). Nothing dated 1700-1750 found — 1600s, 1700–1750
-- [ ] first American toy makers and dates — 1800–1850
-- [ ] the Boston sand gardens, 1885, the playground movement, and how many playgrounds by 1900 — 1850–1900
-- [ ] Coney Island and amusement-park dates and prices — 1850–1900
-- [ ] census counts of working children aged 10 to 15, with years — 1850–1900
+- [x] first American toy makers and dates (T-271b: Francis, Field and Francis, 1838) — 1800–1850
+- [x] the Boston sand gardens (T-271b: Lee 1902 says 1886, summaries say 1885; 21 in Boston by 1900; no national count) — 1850–1900
+- [x] Coney Island (T-271b: Switchback Railway 1884, 5 cents; parks 1895/1897 in bank as search summary) — 1850–1900
+- [x] census counts of working children (T-271b: 1870 over 750,000 under 15; 1900 over 1.75 million; Census Bureau, BLS) — 1850–1900
 - [ ] Boy Scouts 1910, Girl Scouts 1912, 4-H, Little League 1939, youth football — 1900–1950
 - [ ] playgrounds and pools built under 1930s federal work programs: counts and program names — 1900–1950
 - [ ] segregated pools and playgrounds, and swimming and drowning rates by race — check Jeff Wiltse, *Contested Waters* (2007) — 1900–1950
@@ -190,3 +190,20 @@ need research to state plainly and are queued here so they are not lost:
 - **Open for the director:** (a) Fithian's journal is a strong ordinary-person source for era 5; a writer may
   want a story block on Fithian himself, which this pass did not build. (b) The Noxubee account is a settler's
   record of an oral account (Cushman 1899 via Halbert via Stonie Hadjo); the prose must say so.
+
+## T-271b (2026-09-28): eras 6-7 researched
+
+- Both cells are `progress="researched"`, `state="full"`, zero [VERIFY], zero em dashes and zero semicolons.
+- **Stories:** new verified `tom-molineaux` and `lucy-larcom` (1800-1850); target `early-black-professional-player`
+  replaced by verified `moses-fleetwood-walker`; new verified `isaac-murphy` (1850-1900). None is told in another
+  chapter (grep of outlines/ and manuscript/, 2026-09-28).
+- **Shared with (eras 6-7):** `native-nations` (Choctaw removal 1830-1833) · `art` (Catlin) · `holidays` and
+  `drugs-alcohol` (Douglass's Christmas holidays) · `work-workers` (Larcom's mill work; child labor counts) ·
+  `rights-movements` and `drugs-alcohol` (Frances Willard) · `city-building` (Riis, parks) · `storytelling-evolution`
+  (the circus acts) · `technology` (the bicycle itself).
+- **Disputes the writers must carry:** Molineaux's enslavement (VMHC vs Wikipedia), his rounds (35/39) and death place
+  (Galway/Dublin); Eclipse crowd (60,000 vs 100,000); winner of the 19 June 1846 game (Wikipedia vs Gale); Cato freed or
+  not; Naismith's first game date; sand gardens 1885 vs 1886; Murphy's death date, age and cause.
+- **For the audit:** era 05 `austin-curtis` death year (1809 in the outline; the *Raleigh Minerva* obituary dates it
+  December 1807). Logged in the checkpoint TO PARK.
+

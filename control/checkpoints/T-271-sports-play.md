@@ -1,13 +1,13 @@
-# CHECKPOINT T-271 | sports-play | full | T-271a: eras 1-5
+# CHECKPOINT T-271 | sports-play | full | T-271a: eras 1-5 · T-271b: eras 6-7
 
-STATUS: T-271a landed (director verified: FAIL  sports-play / research)
+STATUS: T-271b landed (director verified: FAIL  sports-play / research)
 VERIFY: python tools/project_state.py --check sports-play --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/sports-play.md · research/research-sports-play.md · workspace/sports-play.md
 
-NOW:    T-271a finished (2026-09-28). Nothing in progress.
-NEXT:   T-271b: research eras 6-10 (1800-1850 to 2000-today), one era at a time, then the bank check for those eras. Eras 1-5 are done; do not redo them. Pick up the era-06 handoffs in Decisions and TO PARK notes below (Black Warrior game c.1800, Dobbs grave digging 1832, Janson 1807 gouging, Iroquois Nationals).
+NOW:    T-271b finished (2026-09-28). Nothing in progress.
+NEXT:   Era-8 agent: research era 08 (1900-1950), then eras 09-10 (possibly separate agents), one era at a time, then the bank check for those eras. Eras 1-7 are done; do not redo them. Era-08 handoffs (bank 'Bank check, eras 06-07', last paragraph): Black jockeys forced out in the 1900s and who did it (Winkfield, licensing); 1903 Choctaw-Chickasaw game and end of the semi-annual games; 1904-1905 football death counts; Mills Commission 1907 (sources in bank era 06); Jim Thorpe (parked section). Era 9/10: Iroquois Nationals (slug haudenosaunee-lacrosse-player free). 45 [VERIFY], 6 candidates, 6 targets remain, all in eras 8-10.
 
 ## BURST (Jon, 2026-09-27): burst (music, storytelling-evolution, sports-play, styles)
 
@@ -30,6 +30,10 @@ for those eras. T-271b does eras 6-10 later (it may be split further).
 | 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | all five eras researched; 0 VERIFY, 0 targets in eras 1-5; stories james-bullocke, austin-curtis verified |
 | 2 | bank check, eras 1-5 | done | bank section 'Bank check, eras 01-05'; Hempstead land PATCH |
 | 3 | final for your eras: validator, research check (the chapter passes only after its later eras) | done | validator 0 errors; research check FAIL only on eras 6-10 (60 VERIFY, 6 candidates, 7 targets there) |
+| 4 | T-271b: research era 06 (1800-1850): outline + bank, clear [VERIFY], era-06 handoffs | done | era 06 researched; 0 VERIFY; new verified stories tom-molineaux, lucy-larcom; handoffs (Black Warrior c.1800, Dobbs 1832) told; Janson 1807 left in bank only |
+| 5 | T-271b: research era 07 (1850-1900): outline + bank, clear [VERIFY], resolve target early-black-professional-player | done | era 07 researched; 0 VERIFY; target replaced by verified moses-fleetwood-walker; new verified isaac-murphy |
+| 6 | T-271b: bank check, eras 06-07 | done | bank section 'Bank check, eras 06-07'; William Edward White PATCH qualified the Walker 'first' |
+| 7 | T-271b: final: validator, research check, NEXT for era-8 agent | done | validator 0 errors; research check FAIL (PARTIAL: 45 VERIFY, 6 candidates, 6 targets, all in eras 8-10) |
 
 ## SUBJECT NOTES (from the director)
 
@@ -58,6 +62,21 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `crime-justice`, era 1600s: Plymouth Colony card-playing fines, 1663 (John Shilley, 20s, Sunday; Richard Berry,
   William Griffin and wife, Richard Michell and wife, 40s each) and June 1679 (six men incl. John Holbrooke and his
   servant Patricke). Records of the Colony of New Plymouth, archive.org recordsofcolonyo0304newp / 0506newp.
+
+## TO PARK (T-271b)
+- AUDIT (this chapter, era 1750-1800, story `austin-curtis`): the outline says Curtis died in 1809. The *Raleigh
+  Minerva* obituary reproduced in the National Museum of Racing's *Forgotten Foundation* packet is dated 5 January 1808
+  and reads "On the 10th ult. at Halifax (N.C.) AUSTIN JONES ... aged about 50 years", i.e. died 10 December 1807.
+  T-271b did not change era 05 (outside its eras). Full note in the bank, Era 06, "Correction note for era 05".
+
+- `rights-movements` or `education`, era 1850-1900: 1867, the National Association of Base Ball Players "adopted a
+  formal ban on the inclusion of black players and clubs" after the Pennsylvania association's ruling (Wikipedia
+  "Baseball color line"). The Pythian club and Octavius Catto are told in no chapter (grep 2026-09-28); not researched.
+- `education` or `religion`, era 1800-1850: Douglass's Sunday school at St. Michael's, Maryland, broken up by the
+  class leaders Wright Fairbanks and Garrison West "with sticks and stones" (Douglass, *Narrative*, 1845, ch. X; full
+  text in research/research-sports-play.md, Era 06).
+- `work-workers`, era 1800-1850: Lucy Larcom's Lowell mill work from age 11 in 1835 ($1 a week plus board; winter day
+  from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
 
 ## Sources in hand
 - Breen 1977 PDF: blogs.dickinson.edu/hist-117pinsker/files/2011/01/Breen-article.pdf (pypdf reads it). Stanard 1894: archive.org jstor-4241820.
@@ -93,6 +112,22 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
   documented cases are about 1790 and 1800 and both ended in fighting. Now told in era 5.
 
 ## Log
+- 2026-09-28 T-271b: era 1850-1900 DONE (researched). Bank "Era 07": Red Stockings (Hall of Fame), Rutgers 1869,
+  Naismith (Springfield College; McGill), Connolly 1896 (NBC), color line (NABBP 1867; Fowler; Walker via Zang/SABR and
+  Wikipedia; IL vote 14 July 1887, Mancuso/SABR), Oliver Lewis and Isaac Murphy (earnings, house, 1890 Monmouth,
+  death disputes, house lost 1900), Von Gammon 1897 and the New York World count, Knoxville 1898, bicycles (Bly/Anthony
+  1896; Willard 1895), sand gardens (Joseph Lee 1902: 1886 vs 1885), Hull-House 1894, Coney Island 1884, Milton Bradley,
+  child labor counts (Census Bureau; BLS 2017), Mooney 1890 Cherokee ball play. Four SEARCHED, NOT FOUND (Native game bans
+  1850-1900; Murphy's estate; a named mill day; 1890s football death counts). Unit 6 bank check written with a PATCH on
+  William Edward White (1879). Unit 7: validator 0 errors; research check FAIL, PARTIAL (eras 8-10 still seed).
+- 2026-09-28 T-271b: era 1800-1850 DONE (researched). Bank "Era 06": Black Warrior c.1800 and Dobbs 1832 (Cushman),
+  Choctaw removal context, Catlin 1834 Choctaw ball play and Tul-lock-chísh-ko (Culin; SAAM), Bingham 1847 on
+  surfing, Douglass 1845 (Christmas games; Fairbanks and West), Molineaux (VMHC vs Wikipedia disputes), Richmond,
+  Simon, Cato 1839 (NKAA), Charleston 1846 race card, Eclipse 1823 (crowd 60,000 vs 100,000), Stannard 1835,
+  McCoy killed 1842 (Signal of Liberty), Hyer-Sullivan 1849, Olympic club 1833, Knickerbocker rules 1845 (Thorn),
+  Doubleday myth (Salvatore; Wikipedia), Larcom (Gutenberg 2293), Francis Field and Francis 1838, Brown's tent 1825.
+  Two SEARCHED, NOT FOUND (circus prices; "first big spectator sport"). Stories added: tom-molineaux,
+  lucy-larcom (both verified). Janson 1807 gouging kept in the bank only (era 05 already defines gouging).
 - 2026-09-28 T-271a: era 1750-1800 DONE (researched, state changed thin -> full). Adair 1775; Noxubee c.1790
   (Cushman/Halbert); Grand River 1797; King 1779 surfing; Mount Vernon (McCoy) jockeys, Austin Curtis (new verified
   story `austin-curtis`), jockey clubs, 1793 betting law; Fithian 1773-74 (enslaved people's cockfights and Sundays,
