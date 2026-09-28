@@ -1,13 +1,13 @@
 # CHECKPOINT T-261 | education | bankcheck | T-261a: eras 1-5
 
-STATUS: DONE for T-261a's eras (director verified: PASS  education / research)
+STATUS: T-261b landed (director verified: PASS  education / research)
 VERIFY: python tools/project_state.py --check education --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/education.md · research/research-education.md · workspace/education.md
 
-NOW:    T-261a done (units 1-3). Research check PASS.
-NEXT:   T-261b: bank check eras 6-7 (then 8-10). Eras 1-5 are finished; do not change them. Web search quota ran out at the end of T-261a, so the Webster 60-million figure was not re-checked.
+NOW:    T-261b done (units 4-7). Validator 0 errors. Research check PASS, bank 66,943w, outline 30,782w.
+NEXT:   T-261c (era 8, 1900-1950): run the brief's five Find items on era 8 only (`python tools/slice_bank.py education --eras 8-8`). Eras 1-7 are finished; do not change them. Carry-forwards waiting in the bank: Tennessee's 1901 law ($50 fine or 30-60 days for teaching Black and white students together) is in the era-7 T-261b segregation patch; the Meriam Report's 'a kind of peonage' line on the outing system is in the era-7 boarding-school patch; the 2022/2024 federal report figures are there too (system totals 1819-1969, not per era); New London, Texas school explosion 1937 is parked in PART B from disasters; marriage bar in PART C-FWD. PART B's '1891 compulsory attendance act' for Native children was NOT found in either federal report: verify or drop.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -30,6 +30,26 @@ PASS  education / research
 | 1 | bank check, eras 1-5 (the brief's five Find items, era by era) | done | patches in all five eras, see Log |
 | 2 | check each verified story in eras 1-5 has its key facts in the bank | done | bank era 5 'Unit 2 check' patch. Webster 60 million unsourced |
 | 3 | final for your eras: validator, research check | done | validator 0 errors, research PASS, bank 61,765w |
+
+
+## Units, T-261b (eras 6-7)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 4 | bank check, era 6 (1800-1850): five Find items | done | bank era 6: anti-literacy penalties (Woodson 1915), Noyes Academy 1835, Civilization Fund 1819 and Choctaw Academy, firsts checked, Webster 60 million SOURCED |
+| 5 | bank check, era 7 (1850-1900): five Find items | done | bank era 7: Margaret Douglass 1853-54; attacks on freedpeople's schools (Alvord 5th and 9th reports, Encyclopedia of Alabama, William Luke); segregation statutes, Cumming 1899, Plessy on schools; 2022/2024 federal report figures, 1893 rations act, nine named Carlisle children; Morrill land count (HCN) |
+| 6 | each verified story in eras 6-7 has its key facts in the bank | done | all 8 blocks match their bank sections; see era-7 'stories and firsts' patch |
+| 7 | final for eras 6-7: outline punctuation, validator, research check, NEXT for era 8 | done | outline eras 6-7: new spans (Federal money to school Native children 1819; Northern schools wrecked, Noyes 1835; teacher jailed in Norfolk 1854; Separate schools by law and courts), attacks on freedpeople's schools, Morrill land count, Carlisle named dead and 2024 figures, anti-literacy penalties; 'first time in print' claim removed; CT 1819 'first' attributed; zero em dashes and semicolons in eras 6-7; validator 0 errors; research PASS |
+
+## TO PARK (T-261b)
+
+- **native-nations, era 1800-1850: the Civilization Fund Act (3 March 1819, $10,000 a year, repealed 1873) and the Choctaw Academy, Kentucky, 1825-1848** (Richard M. Johnson's farm, Choctaw treaty money $6,000 a year, 600+ students from 17 nations, 1840 inspection, Pitchlynn withdrew Choctaw students 1842). Sourced text: `research/research-education.md` era 6, "PATCH 2026-09-27 (T-261b): federal schooling of Native children begins in this era" (DOI report Vol I 2022 pp. 27-28; ExploreKYHistory; Penn State on Christina Snyder).
+- **native-nations, era 1850-1900: the nine Rosebud Sioux children who died at Carlisle, returned 14 July 2021, and Spotted Tail's request of 23 May 1881** (Proclamation 10870, 2024; DOI report Vol II 2024). Also the 2024 report's figures (417 schools, at least 973 deaths, 18,624 named children, 74 burial sites at 65 schools) and the Act of 3 March 1893 (rations withheld). Sourced text: education bank era 7, "PATCH 2026-09-27 (T-261b): the boarding schools, the two federal reports' figures".
+- **slavery-freedom, era 1850-1900: attacks on freedpeople's schools and teachers from Alvord's Fifth (1868) and Ninth (1870) reports** (Gladding and Abram Colby at Greensboro, Georgia; Fisk students whipped at Dresden, Tennessee, 2 Sept 1869; Slaughter Neck, Delaware, school burned; Newberry, SC) and **William Luke, lynched at Cross Plains, Alabama, 11 July 1870** (Encyclopedia of Alabama; Owen Sound Hub; six or eight dead). Education bank era 7, "PATCH ... attacks on the freedpeople's schools".
+- **crime-justice, era 1850-1900 (its planned lynching-victim story):** William Luke, as above. Education tells him in two sentences as a teacher.
+- **slavery-freedom or rights-movements, era 1850-1900: Margaret Douglass, Norfolk, jailed one month from 10 January 1854** for teaching free Black children (her own 1854 narrative, Gutenberg 70331). Education tells it as a span. Education bank era 7.
+- **rights-movements, era 1800-1850: Noyes Academy, Canaan, New Hampshire, dragged off its foundation 10 August 1835** (Colored Conventions Project; Town of Canaan). Education tells it as a span beside a pointer to `prudence-crandall`. Education bank era 6.
+- **Director, era 5 of this chapter:** Webster's "about 60 million by 1890" is now sourced (HistoryofInformation; CT Academy of Arts and Sciences) in the education bank era 6 Webster patch. The era-5 block's range can stand. Eras 1-5 were not edited.
 
 ## SUBJECT NOTES (from the director)
 
@@ -63,6 +83,12 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 ## Decisions and defects fixed
 
 ## Log
+
+- 2026-09-27 T-261b unit 7: outline eras 6-7 edited (see units table), validator 0 errors, research PASS (bank 66,943w, outline 30,782w; eras 6-7 outline 6,759w to 8,372w).
+
+- 2026-09-27 T-261b units 5-6: era 7 bank patches. Sources: Douglass narrative 1854 (Gutenberg 70331); Alvord 5th and 9th reports (archive.org djvu text); Encyclopedia of Alabama (Hebert); Owen Sound Hub; USCCR 2008 Tennessee report; LII texts of Cumming and Plessy; DOI reports Vol I 2022 and Vol II 2024 (bia.gov PDFs); Proclamation 10870 full text; High Country News 2020.
+
+- 2026-09-27 T-261b unit 4: era 6 bank patches. Sources: Woodson 1915 (Gutenberg 11089) statute footnotes; Colored Conventions Project and Town of Canaan (Noyes); DOI boarding school report Vol I 2022 (bia.gov PDF, pypdf); ExploreKYHistory and Penn State (Choctaw Academy); HistoryofInformation and CT Academy of Arts and Sciences (Webster ~60 million by 1890). Unsourced 'first time in print' claim flagged.
 
 - 2026-09-27 T-261a: era 4 patches: Brafferton Indian school (4 captive boys bought c.1702 by traders Hicks and Evans, 125+ students from 26 nations 1723-76; W&M pages); SEARCHED NOT FOUND on Brafferton deaths and boys' names; Harry and Andrew bought (Woodson 1915, Gutenberg text); Ursulines 1727 (uanola.org); Lenape land (search summary). Era 5: Isaac Bee, named Bray pupil (W&M roster 1765; Burwell ad 3 Sept 1774, Encyclopedia Virginia; AP/NBC link); Georgia 1755/1770 bans (Georgia Archives, disagreement on reading); Fort McIntosh 1785 and Shawnee rejection (Knepper, Ohio Lands Book); Moor's school, Oneida withdrawal 1769, Occom £12,026, Dartmouth charter, Wheelock enslaved 17 (Dartmouth pages). Outline eras 1-5 edited: new spans and story lines from these patches; em dashes, semicolons and self-references cleared from eras 1-5.
 

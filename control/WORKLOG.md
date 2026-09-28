@@ -2961,9 +2961,11 @@ CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
 
 ### 2026-09-27 | [LOCAL] T-261b | education: bank check eras 6-7 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+RESULT: DONE. PASS  education / research. measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=66943w outline=29106w manuscript=0w validator_errors=0
+        276031 tokens, 88 tool uses, 11.3 min (opus). Eras 6-7 bank check. State-by-state penalties for teaching enslaved people (Woodson 1915); Margaret Douglass jailed 1854 (constable, mayor, judge named); Freedmen's Bureau reports on attacks on schools; William Luke 1870; Tennessee statutes, Plessy, Cumming 1899; boarding schools from the 1819 Civilization Fund and Choctaw Academy, 2022 and 2024 federal report figures, 1893 ration act, 9 named Carlisle children; Morrill land (~10.7M acres, ~250 nations); Noyes Academy 1835; Webster 60M sourced. 3 searched-not-found. TO PARK 7.
 
 ### 2026-09-27 | [LOCAL] T-262b | rights-movements: bank check era 7 [BURST5] | model opus
 STATUS: IN-FLIGHT

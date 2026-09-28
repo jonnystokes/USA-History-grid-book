@@ -285,17 +285,17 @@ Part of a teacher's pay was board. She lived a week or two at a time in each fam
 <!-- hb-zoom level="span" label="Discipline and the rod [R7 discipline]" -->
 Hitting children was the ordinary way of running a classroom, and the implements were named in the school rules. The rattan was a thin cane cut from rattan palm, used across the hand. The ferule was two flat pieces of leather sewn together and padded, also used across the hand. Country schools kept a switch cut from a tree.
 
-Mann went to look at schools in Prussia, Saxony and Holland in 1843 and wrote the trip up in his seventh annual report. He argued for teaching reading by whole words, for schooling for blind and deaf children, and against beating children as the normal way to keep order. Thirty-one Boston schoolmasters answered him in print in 1844 with a pamphlet called *Remarks on the Seventh Annual Report of the Hon. Horace Mann*. He answered them; they answered him again. It is the first time the argument about hitting children in school is carried on in public, in print, with both sides named.
+Mann went to look at schools in Prussia, Saxony and Holland in 1843 and wrote the trip up in his seventh annual report. He argued for teaching reading by whole words, for schooling for blind and deaf children, and against beating children as the normal way to keep order. Thirty-one Boston schoolmasters answered him in print in 1844 with a pamphlet called *Remarks on the Seventh Annual Report of the Hon. Horace Mann*. He answered them, and they answered him again.
 
-The dunce cap is worth being careful about. *Dunce* comes from the name of John Duns Scotus, a philosopher who died in 1308 and who was admired in his own lifetime; later scholars turned his followers' name into an insult. The story that he or his followers wore pointed hats to funnel knowledge into the head is repeated everywhere and no evidence for it has been found. The earliest description of a dunce's cap on a schoolroom shelf that can be checked is in a novel, Charles Dickens's *The Old Curiosity Shop*, published in 1840 and 1841, and it is English.
+The dunce cap is worth being careful about. *Dunce* comes from the name of John Duns Scotus, a philosopher who died in 1308 and who was admired in his own lifetime. Later scholars turned his followers' name into an insult. The story that he or his followers wore pointed hats to funnel knowledge into the head is repeated everywhere and no evidence for it has been found. The earliest description of a dunce's cap on a schoolroom shelf that can be checked is in a novel, Charles Dickens's *The Old Curiosity Shop*, published in 1840 and 1841, and it is English.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Teaching becomes women's work [R7 teaching as a job]" -->
-A normal school was a school where the pupils were people learning to teach. The name is French, from *ecole normale*, a school that taught the norms — the rules — of teaching. The first state-funded one in the country opened at Lexington, Massachusetts on 3 July 1839. Three students turned up on the first day. Cyrus Peirce, a minister Mann had recruited from Nantucket, was the principal. There were 42 students by 1842. It is Framingham State University now.
+A normal school was a school where the pupils were people learning to teach. The name is French, from *ecole normale*, a school that taught the norms, or rules, of teaching. The first state-funded one in the country opened at Lexington, Massachusetts on 3 July 1839. Three students turned up on the first day. Cyrus Peirce, a minister Mann had recruited from Nantucket, was the principal. There were 42 students by 1842. It is Framingham State University now.
 
 Massachusetts published the entry rules: men had to be 17, women 16, and everyone had to sit an examination in spelling, geography and arithmetic. The course lasted a year and cost nothing if you promised to teach in the state's schools. So the teacher in a one-room school was often barely older than her oldest pupils.
 
-Catharine Beecher spent her life arguing that teaching was women's natural work. She opened the Hartford Female Seminary on 20 May 1823 with her sister Mary and taught geography, world history, Latin, rhetoric, philosophy and the sciences to girls; it had 100 pupils within three years. She founded the Board of National Popular Education in 1847, which trained women in Hartford and sent them to teach in the West and the South, and the American Woman's Educational Association in 1852.
+Catharine Beecher spent her life arguing that teaching was women's natural work. She opened the Hartford Female Seminary on 20 May 1823 with her sister Mary and taught geography, world history, Latin, rhetoric, philosophy and the sciences to girls. It had 100 pupils within three years. She founded the Board of National Popular Education in 1847, which trained women in Hartford and sent them to teach in the West and the South, and the American Woman's Educational Association in 1852.
 
 School officials said out loud why they wanted women. In Connecticut in 1838, with about as many men as women teaching, men were paid $14.50 a month and women $5.75, on top of board. Massachusetts that year had 2,411 men and 3,826 women teaching, at $23.10 a month for the men and $6.49 for the women. Samuel Lewis, Ohio's Superintendent of Common Schools, wrote in his 1839 report that counties hiring women "are able to do twice as much with the same money," and finished the sentence: "As the business of teaching is made more respectable, more females engage in it, and the wages are reduced."
 
@@ -303,25 +303,25 @@ Mary Elizabeth Miles graduated from the Lexington normal school in 1843, the fir
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The books children learned from [R7 curriculum and textbooks]" -->
-William Holmes McGuffey taught at Miami University in Ohio, and a Cincinnati publishing firm, Truman and Smith, paid him to make a set of readers. The First and Second Eclectic Readers came out in 1836, the Third and Fourth in 1837, the Fifth in 1844 and the Sixth in 1857. They mixed proverbs, grammar and passages from Shakespeare with lessons in patriotism, religion and good behaviour, and they sold more than 150 million copies over about a hundred years. That figure is an estimate; nobody kept one running count.
+William Holmes McGuffey taught at Miami University in Ohio, and a Cincinnati publishing firm, Truman and Smith, paid him to make a set of readers. The First and Second Eclectic Readers came out in 1836, the Third and Fourth in 1837, the Fifth in 1844 and the Sixth in 1857. They mixed proverbs, grammar and passages from Shakespeare with lessons in patriotism, religion and good behaviour, and they sold more than 150 million copies over about a hundred years. That figure is an estimate. Nobody kept one running count.
 
 Noah Webster's speller was still in every schoolroom. His *American Dictionary of the English Language* came out in 1828, with 70,000 entries giving definitions and word origins, at $20 a set.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Deaf children and blind children get schools" -->
-Thomas Hopkins Gallaudet went to Europe to learn how deaf children were taught and came back with Laurent Clerc, a deaf French teacher. With Dr. Mason Fitch Cogswell and ten other Hartford men they opened the American School for the Deaf on 15 April 1817, in a hotel building in Hartford, Connecticut. Seven pupils started, one of them Cogswell's deaf daughter Alice. Lessons were in sign language. Connecticut lawmakers voted the school a yearly grant in 1819, the first state money ever given to a school in America, and Congress gave it a land grant in the Alabama Territory in 1820.
+Thomas Hopkins Gallaudet went to Europe to learn how deaf children were taught and came back with Laurent Clerc, a deaf French teacher. With Dr. Mason Fitch Cogswell and ten other Hartford men they opened the American School for the Deaf on 15 April 1817, in a hotel building in Hartford, Connecticut. Seven pupils started, one of them Cogswell's deaf daughter Alice. Lessons were in sign language. Connecticut lawmakers voted the school a yearly grant in 1819, which the school's own history calls the first state aid to a school in America, and Congress gave it a land grant in the Alabama Territory in 1820.
 
 Boston men incorporated the first school for blind children in the country on 2 March 1829. Samuel Gridley Howe became its director in 1831 and it opened in 1832, in his father's house, with six pupils. It is Perkins School for the Blind now.
 
-Laura Bridgman was born in New Hampshire on 21 December 1829. Scarlet fever when she was two left her deaf and blind. She came to the Boston school on 12 October 1837, two months before she turned eight. Howe gave her raised letters and objects together, over and over, until after about two months she understood that the letters stood for the things. She was the first deaf and blind person in the United States to be taught. Her teacher from 1841 was Mary Swift — see below.
+Laura Bridgman was born in New Hampshire on 21 December 1829. Scarlet fever when she was two left her deaf and blind. She came to the Boston school on 12 October 1837, two months before she turned eight. Howe gave her raised letters and objects together, over and over, until after about two months she understood that the letters stood for the things. She was the first deaf and blind person in the United States to be taught. Her teacher from 1841 was Mary Swift, whose story is below.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A second school system starts [R7 parochial]" -->
 Public schools called themselves nonsectarian and read the King James Bible aloud every morning. Catholic families said that made them Protestant schools.
 
-In New York the schools were run by the Public School Society, a private body paid with state money. Bishop John Hughes took it on in June 1840 and, at the governor's suggestion, New York Catholics asked for a share of the school money for schools of their own. In April 1842 state lawmakers abolished the Society, put elected boards in its place, and banned religious instruction in public schools altogether, which was not what Hughes had asked for. Protestants still ran the elected boards. He started building a Catholic school system instead. People stoned his house.
+In New York the schools were run by the Public School Society, a private body paid with state money. Bishop John Hughes took it on in June 1840 and, at the governor's suggestion, New York Catholics asked for a share of the school money for schools of their own. In April 1842 state lawmakers abolished the Society, put elected boards in its place, and banned religious instruction in public schools altogether, which was not what Hughes had asked for. Protestants still ran the elected boards. He started building a Catholic school system instead. Someone stoned his house.
 
-In Philadelphia it ended in killings. Bishop Francis Patrick Kenrick asked the Board of Controllers of Public Schools in 1842 to let Catholic children read the Douay-Rheims Bible their church used, and objected to Catholic children being made to sing Protestant hymns. In February 1844 a school director in Kensington, Hugh Clark, suggested pausing the Bible readings until the board could write a rule both sides could live with. A rumour went round that he had thrown the Bible out of the schools. On 6 May 1844 fighting started in Kensington; a nativist named George Shiffler was shot dead, and by the end of the day a bystander was dead too and two more men were dying. On 8 May mobs burned houses, a Catholic seminary and two churches, St. Michael's and St. Augustine's. In Southwark on 5 to 7 July a crowd and the militia fought with guns; four militiamen and about a dozen others were dead by the next morning. The deaths across the two outbreaks are usually put at about twenty; the count is given episode by episode in the records and no single official total was made.
+In Philadelphia it ended in killings. Bishop Francis Patrick Kenrick asked the Board of Controllers of Public Schools in 1842 to let Catholic children read the Douay-Rheims Bible their church used, and objected to Catholic children being made to sing Protestant hymns. In February 1844 a school director in Kensington, Hugh Clark, suggested pausing the Bible readings until the board could write a rule both sides could live with. A rumour went round that he had thrown the Bible out of the schools. On 6 May 1844 fighting started in Kensington. A nativist named George Shiffler was shot dead, and by the end of the day a bystander was dead too and two more men were dying. On 8 May mobs burned houses, a Catholic seminary and two churches, St. Michael's and St. Augustine's. In Southwark on 5 to 7 July a crowd and the militia fought with guns. Four militiamen and about a dozen others were dead by the next morning. The deaths across the two outbreaks are usually put at about twenty. The count is given episode by episode in the records and no single official total was made.
 
 The first free Catholic school in the country was older than any of this. Elizabeth Ann Seton and her Sisters of Charity opened Saint Joseph's Academy and Free School at Emmitsburg, Maryland in 1810, to teach the poor girls of the parish for nothing.
 
@@ -333,18 +333,32 @@ South Carolina had banned the teaching of writing to enslaved people in 1740. In
 
 Virginia barred enslaved people from gathering at night at churches or meetinghouses on 24 January 1804. On 2 March 1819 it banned them from "any school or schools for teaching them reading or writing, either in the day or night." On 7 April 1831 it reached free Black people too: "All meetings of free negroes or mulattoes, at any school house...for teaching them reading or writing...shall be considered as an unlawful assembly."
 
-North Carolina's act of the 1830 to 1831 session says why in its own opening words: teaching enslaved people to read and write "has a tendency to excite dissatisfaction in their minds, and to produce insurrection and rebellion." Then it sets the price. A white person who taught an enslaved person to read or write was fined between $100 and $200 or jailed. A free Black person who did it was whipped — blows across the bare back with a whip or a switch, hard enough to break the skin — not more than thirty-nine and not fewer than twenty. An enslaved person who taught another enslaved person to read or write got thirty-nine lashes on the bare back.
+North Carolina's act of the 1830 to 1831 session says why in its own opening words: teaching enslaved people to read and write "has a tendency to excite dissatisfaction in their minds, and to produce insurrection and rebellion." Then it sets the price. A white person who taught an enslaved person to read or write was fined between $100 and $200 or jailed. A free Black person who did it was whipped, not more than thirty-nine times and not fewer than twenty. A whipping meant blows across the bare back with a whip or a switch, hard enough to break the skin. An enslaved person who taught another enslaved person to read or write got thirty-nine lashes on the bare back.
 
-Georgia passed such a law in 1829, Louisiana in 1830, Alabama in 1832, and South Carolina widened its old one in 1834. David Walker's *Appeal to the Coloured Citizens of the World* was published in 1829 and Nat Turner's rebellion was in August 1831, and the laws come in around them.
+Georgia passed such a law in 1829, Louisiana in 1830, Alabama in 1832, and South Carolina widened its old one in 1834. The punishments followed the same pattern everywhere. Louisiana's lawmakers set one to twelve months in prison for anyone who taught an enslaved person to read or write. Alabama's set a fine of $250 to $500. Georgia's fined a white teacher up to $500 and jailed him, and fined and whipped a Black teacher. Virginia's 1831 law let any judge break up a school for free Black people and give each person caught there up to twenty lashes. A white teacher there was fined $50 and could be jailed for two months. White teachers paid money and lost time. Black teachers, enslaved or free, were whipped. David Walker's *Appeal to the Coloured Citizens of the World* was published in 1829 and Nat Turner's rebellion was in August 1831, and the laws come in around them.
 
-People learned anyway. About 5 percent of enslaved people in Virginia could read by 1775, and that share doubled to about 10 percent in the decades before the Civil War — that is, while the bans were in force.
+People learned anyway. About 5 percent of enslaved people in Virginia could read by 1775, and that share doubled to about 10 percent in the decades before the Civil War, while the bans were in force.
 
 Shared with: `slavery-freedom` (learning to read as resistance). This chapter's part is that the teaching was the crime.
 <!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Federal money to school Native children, from 1819" -->
+The federal government started paying for Native children's schooling in these years, long before Carlisle. On 3 March 1819 Congress passed the Civilization Fund Act. It set aside $10,000 a year to hire teachers who would teach Native nations farming and teach their children "reading, writing, and arithmetic." The law's own stated aim was to introduce "the habits and arts of civilization." Much of the money went to church missionary societies, which ran schools with it. The federal government's own investigation, published in 2022, counts its boarding-school system from that year.
+
+The Choctaw Academy in Kentucky shows how such a school ran. It opened in November 1825 on the farm of Richard Mentor Johnson, a United States senator who later became Vice President. Twenty-one Choctaw boys came first. The Choctaw Nation paid for it. Under an 1825 treaty the United States owed the Choctaw $6,000 a year for schooling, and that money went to Johnson's school. The Choctaw tried to pull out and take back control of their money in 1829 and again in 1833, and failed. More than 600 students from 17 nations went there. Enslaved people did most of the farm work, building and cleaning at the school. Johnson enslaved at least sixty people. In 1840 an inspection confirmed complaints of poor living conditions, poor teaching, too little food and clothing, and forced labour. The Choctaw leader Peter Pitchlynn took every Choctaw student out in 1842. The last thirteen Chickasaw students left in 1848.
+
+`native-nations` leads on what these schools did to the nations. `religion` tells how the church money was shared out.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Schools for Black pupils in the North, and the crowds that wrecked them" -->
+Northern towns also shut Black children out, and some did it by force. In Canterbury, Connecticut in 1833, Prudence Crandall opened her school to Black girls, and Connecticut lawmakers passed a law to stop her. `rights-movements` tells that story.
+
+In Canaan, New Hampshire, Noyes Academy opened in March 1835 with 28 white students and 14 Black students. The Black students included Henry Highland Garnet and Alexander Crummell, who both became ministers. In July the town meeting voted the school a public nuisance. On 10 August 1835 men from Canaan and the towns around it hitched teams of oxen to the building with chains, pulled it off its foundation and dragged it down the road. One account counts about seventy-five men and nearly a hundred yoke of oxen. Garnet fired a shotgun from a window and the crowd drew back. The Black students were driven out of town. No record found shows that anyone was punished for it.
+<!-- /hb-zoom -->
+
 <!-- hb-story:start slug="horace-mann" name="Horace Mann" movie="" kind="famous" status="verified" -->
 ### Horace Mann
-> **Who:** The first secretary of the Massachusetts Board of Education, who spent eleven years arguing that schools should be free and paid for by taxes · **When and where:** Born Franklin, Massachusetts, 4 May 1796; died 1859
+> **Who:** The first secretary of the Massachusetts Board of Education, who spent eleven years arguing that schools should be free and paid for by taxes · **When and where:** Born Franklin, Massachusetts, 4 May 1796. Died 1859
 
 His father died when he was thirteen. He braided straw for the hat-makers of Franklin to earn money, and up to about fifteen he was never in school more than about ten weeks in a year. He learned Latin and Greek from a travelling teacher named Barrett, got into Brown University, and graduated top of his class in 1819.
 
@@ -357,7 +371,7 @@ He went to Congress in 1848 in the seat John Quincy Adams had held, spoke agains
 
 <!-- hb-story:start slug="catharine-beecher-education" name="Catharine Beecher" movie="" kind="famous" status="verified" -->
 ### Catharine Beecher
-> **Who:** Ran a girls' school, then spent thirty years persuading Americans that teaching was women's work · **When and where:** Born East Hampton, New York, 6 September 1800; died Elmira, New York, 1878
+> **Who:** Ran a girls' school, then spent thirty years persuading Americans that teaching was women's work · **When and where:** Born East Hampton, New York, 6 September 1800. Died Elmira, New York, 1878
 
 She was the eldest child of the preacher Lyman Beecher and the older sister of Harriet Beecher Stowe. The man she was engaged to, a Yale mathematics professor named Alexander Metcalf Fisher, drowned in 1822 when the ship *Albion* wrecked off the Irish coast. She never married, and went into teaching.
 
@@ -370,9 +384,9 @@ She opposed votes for women. She thought a woman's places were the home and the 
 
 <!-- hb-story:start slug="mary-swift-education" name="Mary Swift" movie="" kind="ordinary" status="verified" -->
 ### Mary Swift
-> **Who:** A seventeen-year-old in the first class of the first teacher-training school in America, who kept a journal of it · **When and where:** Born Nantucket, Massachusetts, 22 June 1822; died Cambridge, Massachusetts, 2 March 1909
+> **Who:** A seventeen-year-old in the first class of the first teacher-training school in America, who kept a journal of it · **When and where:** Born Nantucket, Massachusetts, 22 June 1822. Died Cambridge, Massachusetts, 2 March 1909
 
-She entered the new normal school at Lexington, Massachusetts in 1839, three weeks after her seventeenth birthday, and graduated with its first class on 4 April 1840. She wrote a journal through the school's first term. The principal, Cyrus Peirce, was keeping one too, and both survive; they were printed together in 1926 as *The First State Normal School in America: The Journals of Cyrus Peirce and Mary Swift*.
+She entered the new normal school at Lexington, Massachusetts in 1839, three weeks after her seventeenth birthday, and graduated with its first class on 4 April 1840. She wrote a journal through the school's first term. The principal, Cyrus Peirce, was keeping one too, and both survive. They were printed together in 1926 as *The First State Normal School in America: The Journals of Cyrus Peirce and Mary Swift*.
 
 In 1841 she took over as the teacher of Laura Bridgman at the Perkins Institution in Boston. Bridgman had been deaf and blind since she was two, and Swift talked to her by spelling words letter by letter into her hand. Swift did that job until she married Edwin Lamson in 1846.
 
@@ -397,13 +411,13 @@ Black Bostonians kept at it, and in 1855 the Massachusetts legislature outlawed 
 ## 1850 to 1900
 
 <!-- hb-zoom level="era" -->
-Four enormous things happen at once in these fifty years. States begin ordering children to attend school, starting with Massachusetts in 1852. Congress hands states public land to found colleges for farmers' and working people's children. Four million people freed from slavery build and pay for their own schools, in numbers the government counted and published. And the federal government begins taking Native children from their families and shipping them to boarding schools built to strip their languages and their names off them. More than 180 children died at the first of those schools.
+Four enormous things happen at once in these fifty years. States begin ordering children to attend school, starting with Massachusetts in 1852. Congress hands states public land to found colleges for farmers' and working people's children. Four million people freed from slavery build and pay for their own schools, in numbers the government counted and published. White men burned freedpeople's schoolhouses and whipped their teachers, and the government's own school inspector wrote it down. And the federal government begins taking Native children from their families and shipping them to boarding schools far from home, built to strip their languages and their names off them. More than 180 children died at Carlisle, the first of those schools built away from the reservations.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The law [R7 compulsory attendance]" -->
 Massachusetts went first in 1852: children aged 8 to 14, at least twelve weeks a year, six of them in a row. Thirty-two states had such a law by 1900 and every state had one by 1918, Mississippi last. How hard the early laws were actually enforced is not known.
 
-Congress passed the Morrill Act on 2 July 1862. Each state got 30,000 acres of public land for every senator and representative it had, sold the land, and used the money to found a college teaching agriculture and the mechanic arts. That land had been taken from Native nations. The second Morrill Act, in 1890, gave money instead of land, and told each state either to admit Black students to the college it already had or to build a separate one for them. Most Southern states built separate ones, and that is where a set of the historically Black colleges come from. Alcorn State University in Mississippi, founded in 1871, is the oldest public historically Black land-grant college.
+Congress passed the Morrill Act on 2 July 1862. Each state got 30,000 acres of public land for every senator and representative it had, sold the land, and used the money to found a college teaching agriculture and the mechanic arts. That land had been taken from Native nations. Two journalists, Robert Lee and Tristan Ahtone, traced it in 2020. They counted about 10.7 million acres, taken from nearly 250 tribes, bands and communities through more than 160 land cessions backed by violence. The United States paid less than $400,000 for it. The land raised $17.7 million for 52 colleges. The second Morrill Act, in 1890, gave money instead of land, and told each state either to admit Black students to the college it already had or to build a separate one for them. Most Southern states built separate ones, and that is where a set of the historically Black colleges come from. Alcorn State University in Mississippi, founded in 1871, is the oldest public historically Black land-grant college.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The schools four million freed people built" -->
@@ -411,27 +425,51 @@ The Freedmen's Bureau was set up inside the War Department in March 1865. Its in
 
 In the half year to 31 December 1869 there were 4,027 schools of all kinds, 8,907 teachers and 210,018 pupils. Alvord says plainly what his own count means: people who went to more than one kind of school are counted more than once, so the figure gives "the amount of tuition furnished, rather than the exact number of persons taught."
 
-Freed people paid for their own schooling. They "sustained wholly or in part 1,094 of the above day and night schools," and owned 554 of the buildings. The Bureau supplied 635. Adults came at night after work; 190 night students a day attended at the Howard School in Tennessee alone.
+Freed people paid for their own schooling. They "sustained wholly or in part 1,094 of the above day and night schools," and owned 554 of the buildings. The Bureau supplied 635. Adults came at night after work. At the Howard School in Tennessee alone, 190 night students came each day.
 
 Children were needed to pick the cotton, so many schools did not open until December. Alvord noted that many others ran right through the summer anyway: 1,020 schools in July 1869, 1,048 in August, 1,482 in September. Alabama kept 309 going through the hot months, North Carolina 276.
 
 They studied. In that half year, 34,320 were advanced readers, 27,471 were doing geography, 30,749 arithmetic, 39,437 writing, and 3,834 were in high and normal schools training for professions. Alvord reckoned that over the Bureau's five years about a million people had been given an elementary education, not counting the parents who learned to read from their own children at home. The Bureau stopped paying for schools in 1870.
 
+People attacked these schools and the people who taught in them, and Alvord recorded that too. His report of January 1868 says: "Teachers were proscribed and ill-treated, school-houses burned, and threats so strong that many schools could not be opened." His report of January 1870 gives names. In Georgia late in 1869, it says, bands of "armed and disguised men," which it calls "K. K. K.," were attacking people in county after county. At Greensboro, R. H. Gladding, who taught there, was driven out of town. The white man he lodged with was taken from his house at night and whipped. Abram Colby, a Black man just elected to the state legislature who had backed the school, was taken from his house and beaten "nearly to death." The report does not name the men who did it. The mayor told Gladding the town could not protect him. In Dresden, Tennessee, on the night of 2 September 1869, masked and armed men took two Fisk University students who ran a school of about fifty children into the woods, whipped them, and told them to leave or be killed. At Slaughter Neck in Delaware drunken white men burned the school. The state's attorney was given evidence against them and the governor was told. Nothing was done. Black families rebuilt the school.
+
+In July 1870 members of the Ku Klux Klan lynched William Luke at Cross Plains, Alabama. To lynch someone is to kill them without any trial. He was a preacher from Ontario, in Canada, who taught freed people for Talladega College. The Klansmen killed Black men with him. One count gives six dead in all and another gives eight. In Memphis in May 1866 white mobs burned all of the city's Black schools. `slavery-freedom` tells that attack.
+
 Shared with: `slavery-freedom` (what schooling meant to people just freed).
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="A teacher jailed in Norfolk, 1854" -->
+The Virginia law of 1831 was used. Margaret Douglass was a white woman in Norfolk. In June 1852 she and her daughter Rosa opened a school in their house for free Black children, at three dollars a quarter. Twenty-five boys and girls came, and nobody hid it.
+
+On the morning of 9 May 1853 the city constable, a man named Cherry, came to the door with a second officer. The mayor, Simon S. Stubbs, had sent them. They wrote down every child's name and every parent's name and marched the teachers and the children to the mayor's office. A grand jury charged the two women with meeting with Black children "for the purpose of instructing them to read and to write." Rosa left Virginia before the trial.
+
+The jury found Margaret Douglass guilty and set her fine at one dollar. On 10 January 1854 Judge Baker added a month in the city jail, "as an example to all others in like cases disposed to offend." She served it. Afterwards she published her own account of the case, with the court papers printed in it.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Separate schools, by law and by the courts" -->
+After the war, Southern lawmakers wrote school separation into their laws. Tennessee is one example. Its legislature passed a school law right after the war that kept Black and white children apart. Its new state constitution barred mixed schools. In 1873 it wrote the rule out in full: "white and colored persons shall not be taught in the same school, but in separate schools." In much of the North, city school boards kept Black children apart by their own rules. San Francisco's school district opened a separate school for Black children in 1854 and one for Chinese children in 1859.
+
+The courts upheld it. In 1896, in *Plessy v. Ferguson*, the United States Supreme Court called separate schools "the most common instance" of lawful separation by race. It cited the Sarah Roberts case from Boston first, and then state court cases from Ohio, Missouri, California, Louisiana, New York, Indiana and Kentucky. It also pointed out that Congress itself required separate schools in Washington, D.C.
+
+Three years later the Court let a county close a Black high school outright. The Richmond County Board of Education in Augusta, Georgia, had run the Ware High School for Black students since 1880. On 10 July 1897 the board shut it, saying the money was needed for Black primary schools. It went on paying for high schools for white students. Three Black parents, J. W. Cumming, James S. Harper and John C. Ladeveze, sued. On 18 December 1899 Justice John Marshall Harlan wrote for the Court. Stopping the white schools' money, he wrote, "would only be to take from white children educational privileges enjoyed by them, without giving to colored children additional opportunities." He wrote that schools were "a matter belonging to the respective states." The board won. `government-politics` tells the case as a ruling. This chapter's part is the school that closed.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Boarding schools: Carlisle from 1879" -->
 Richard Henry Pratt was an Army lieutenant. In 1875 the Army arrested 72 people from several nations, called them ringleaders, and shipped them to Fort Marion in Florida, and put Pratt in charge of them. There he cut the prisoners' hair, put them in military uniforms, drilled them, taught them English and hired them out as labourers. Everything he later did to children he did first to prisoners of war. Speaking in Denver in 1892 he described the aim himself: "that all the Indian there is in the race should be dead. Kill the Indian in him and save the man."
 
-In August 1879 the War Department handed the empty Carlisle Barracks in Pennsylvania to the Interior Department to be used as a school. On 6 October 1879 the first children arrived — 83 of them, 24 girls and 59 boys, from the Rosebud and Pine Ridge agencies in Dakota Territory. Some accounts give 82. The school opened formally weeks later.
+In August 1879 the War Department handed the empty Carlisle Barracks in Pennsylvania to the Interior Department to be used as a school. On 6 October 1879 the first children arrived. There were 83 of them, 24 girls and 59 boys, from the Rosebud and Pine Ridge agencies in Dakota Territory. Some accounts give 82. The school opened formally weeks later.
 
 Staff cut the children's hair, took their clothes away and put boys in military uniforms and girls in Victorian dresses, and gave each child a new English name. Luther Standing Bear, brought there in the first year, wrote afterwards: "Now, after having my hair cut . . . I felt that I was no more Indian but would be an imitation of a white man."
 
 The day began at six in the morning and ended with Taps and room inspection at nine at night. Sunday school, chapel and Bible study were compulsory. Speaking one's own language was forbidden, and staff enforced that rule by hitting children. A child who broke a rule was put in the guardhouse or sentenced to hard labour.
 
-Half the day was lessons and half was work, and the work ran the institution. Boys were put to blacksmithing, tin-smithing, wagon-making, carpentry, tailoring, shoemaking, harness-making, baking, painting, printing and farming; girls to cooking, laundry and housekeeping. The children built the printing office, the gymnasium, the hospital, the laundry and the warehouse with their own hands. Under what Carlisle called the outing system, staff sent children to live with and work for white families for part of every year, and put the children's wages into school-held accounts instead of their hands. The gymnasium was paid for out of the children's own government trust accounts.
+Half the day was lessons and half was work, and the work ran the institution. Boys were put to blacksmithing, tin-smithing, wagon-making, carpentry, tailoring, shoemaking, harness-making, baking, painting, printing and farming. Girls were put to cooking, laundry and housekeeping. The children built the printing office, the gymnasium, the hospital, the laundry and the warehouse with their own hands. Under what Carlisle called the outing system, staff sent children to live with and work for white families for part of every year, and put the children's wages into school-held accounts instead of their hands. The gymnasium was paid for out of the children's own government trust accounts.
 
-More than 180 children died at Carlisle. Many are buried in marked graves at the Carlisle Barracks cemetery. By the time the school closed in 1918 it had put 7,800 children from more than 140 nations through it; some arrived at five years old. Across the whole federal system, government records account for nearly a thousand Native children dead, and the federal report that gives that number says the real figure is higher.
+More than 180 children died at Carlisle. Many are buried in marked graves at the Carlisle Barracks cemetery. On 23 May 1881 Chief Spotted Tail and other Rosebud Sioux parents asked the government to send their dead children home. The Army did it on 14 July 2021. The nine children were Dennis Strikes First (Blue Tomahawk), Rose Long Face (Little Hawk), Lucy Take The Tail (Pretty Eagle), Warren Painter (Bear Paints Dirt), Ernest Knocks Off (White Thunder), Maud Little Girl (Swift Bear), Alvan, also called Roaster and Kills Seven Horses, Friend Hollow Horn Bear, and Dora Her Pipe (Brave Bull). The records printed with their names do not give their ages or what they died of.
+
+By the time the school closed in 1918 it had put 7,800 children from more than 140 nations through it. Some arrived at five years old. Carlisle was the first federal boarding school built away from the reservations, and more followed. A law of 3 March 1893 let the Secretary of the Interior stop the food rations of any Native family whose children had not been in school, even rations a treaty had promised.
+
+In 2024 the Department of the Interior counted 417 federal Indian boarding schools between 1819 and 1969, and at least 973 children who died in them. It named 18,624 children who went to them. It says both numbers are too low, because many records are lost.
 
 `native-nations` leads on what the boarding schools did to the nations. This chapter's part is the school itself: who ran it, what was taught, and how the day was arranged.
 <!-- /hb-zoom -->
@@ -439,7 +477,7 @@ More than 180 children died at Carlisle. Many are buried in marked graves at the
 <!-- hb-zoom level="span" label="The school day and the rod [R7 discipline]" -->
 Slates, recitation and the stove carry on. So does hitting children, and the rules that governed it were written down, which is why we can still read them.
 
-Boston's school regulations required every master to send his district committee, in writing at the close of each month, "a report of all cases in which corporal punishment has been inflicted; which report shall state the name of the pupil, the amount of punishment, and the reason for its infliction." District chairmen reported the quarterly totals and the average per teacher. The same rules restricted blows to the hand with a rattan, banned shutting a child in a closet or wardrobe, and said no girl in a grammar school could be hit without the master's approval first.
+Boston's school regulations required every master to send his district committee, in writing at the close of each month, "a report of all cases in which corporal punishment has been inflicted." Each report had to "state the name of the pupil, the amount of punishment, and the reason for its infliction." District chairmen reported the quarterly totals and the average per teacher. The same rules restricted blows to the hand with a rattan, banned shutting a child in a closet or wardrobe, and said no girl in a grammar school could be hit without the master's approval first.
 
 New Jersey banned hitting children in its public schools in 1867, the first state to do so. No other state followed for over a hundred years.
 
@@ -455,7 +493,7 @@ Normal schools spread from Massachusetts across the country: New York and Philad
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where the summer break came from [R7 school year and summer break]" -->
-Everyone says the long summer break exists so children could bring in the harvest. Historians who have read the records say that is backwards. Kenneth Gold, who wrote a history of summer schooling, points out that a farming district's year was a short winter term and a short summer term, because children were needed most in spring planting and autumn harvest — the months the school year now covers.
+Everyone says the long summer break exists so children could bring in the harvest. Historians who have read the records say that is backwards. Kenneth Gold, who wrote a history of summer schooling, points out that a farming district's year was a short winter term and a short summer term, because children were needed most in spring planting and autumn harvest. Those are the months the school year now covers.
 
 City schools ran far longer. New York City's schools were open 248 days in 1842, against about 180 today, and attendance was not compulsory, so children came when they could. Across the whole country the average school term was 132 days in 1869-70, and the average child actually attended 78 of them. By 1899-1900 the term averaged 144 days and the average child attended 99.
 
@@ -463,20 +501,20 @@ Late in the century reformers set out to make the city and country calendars mat
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Kinds of school [R7 public vs private vs parochial]" -->
-Public common schools; private academies turning into private high schools; and, from the 1880s, a national Catholic school system.
+There were public common schools, and private academies that were turning into private high schools. From the 1880s there was also a national Catholic school system.
 
-American bishops met at Baltimore from 9 November to 7 December 1884 — fourteen archbishops, sixty-one bishops or their representatives, six abbots. They declared Catholic schools an absolute necessity, obliged pastors to set them up, said they should be free where possible, and ruled that "Parents must send their children to such schools unless the bishop should judge the reason for sending them elsewhere to be sufficient."
+American bishops met at Baltimore from 9 November to 7 December 1884. Fourteen archbishops came, with sixty-one bishops or their representatives and six abbots. They declared Catholic schools an absolute necessity, obliged pastors to set them up, said they should be free where possible, and ruled that "Parents must send their children to such schools unless the bishop should judge the reason for sending them elsewhere to be sufficient."
 
-Schools were separated by race in the South by law and in much of the North by custom or by school-board rule.
+Schools were separated by race in the South by law and in much of the North by school-board rule. See the span on separate schools, above.
 
 Shared with: `religion` (the faith argument).
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="booker-t-washington" name="Booker T. Washington" movie="" kind="famous" status="verified" -->
 ### Booker T. Washington
-> **Who:** Born enslaved, taught himself to read the number on a salt barrel, and founded Tuskegee · **When and where:** Born Hale's Ford, Franklin County, Virginia, 1856; died 14 November 1915
+> **Who:** Born enslaved, taught himself to read the number on a salt barrel, and founded Tuskegee · **When and where:** Born Hale's Ford, Franklin County, Virginia, 1856. Died 14 November 1915
 
-He was born on the James Burroughs farm and lived in a one-room kitchen cabin with his mother Jane, the farm's cook, and two half-siblings. As a small boy he carried water to the field workers and carried white children's schoolbooks. Freedom came in 1865 and the family moved to Malden, West Virginia, where he packed salt, mined coal and worked as a butler. The first thing he could read was the number 18, painted on the salt barrels; it was his stepfather's crew number.
+He was born on the James Burroughs farm and lived in a one-room kitchen cabin with his mother Jane, the farm's cook, and two half-siblings. As a small boy he carried water to the field workers and carried white children's schoolbooks. Freedom came in 1865 and the family moved to Malden, West Virginia, where he packed salt, mined coal and worked as a butler. The first thing he could read was the number 18, painted on the salt barrels. It was his stepfather's crew number.
 
 At sixteen he travelled more than 500 miles to Hampton Institute in Virginia and arrived, in his own account, dirty, hungry and with fifty cents. He paid his way as the school's janitor, graduated at nineteen, went back to Malden to teach, and returned to Hampton as a teacher in 1879.
 
@@ -487,20 +525,20 @@ His argument was that Black Americans should build skills and property first and
 
 <!-- hb-story:start slug="charlotte-forten-education" name="Charlotte Forten" movie="" kind="famous" status="verified" -->
 ### Charlotte Forten
-> **Who:** The first Black graduate of Salem Normal School, and the first Black teacher in Beaufort County, South Carolina · **When and where:** Born Philadelphia, 1837; died Washington, D.C., 23 July 1914
+> **Who:** The first Black graduate of Salem Normal School, and the first Black teacher in Beaufort County, South Carolina · **When and where:** Born Philadelphia, 1837. Died Washington, D.C., 23 July 1914
 
 Philadelphia's schools would not take her, so her family had her taught at home. In 1853 she went to Salem, Massachusetts to live with the Remond family and go to school there. She graduated from Salem Normal School in 1856, the first African American to do so, having studied English literature, algebra, geometry, physical geography, hydrostatics, optics, orthography, etymology, physiology and Latin. Her principal found her a post at the Epes Grammar School, which made her the first African American teacher in Salem's public schools, teaching white children.
 
 She wrote in her journal that Salem was "the happiest of my life….I have been fortunate enough to receive the instruction of the best and kindest teachers." She also wrote: "I wonder that every colored person is not a misanthrope. Surely we have everything to make us hate mankind."
 
-In October 1862, with the Civil War on and the Sea Islands in Union hands, she sailed for St. Helena Island, South Carolina, and joined Laura Towne and Ellen Murray at the Penn School. It had opened that year with 41 pupils; by 1865 it had 436 in four buildings. She was the first Black teacher in Beaufort County and stayed until the war ended. She kept journals the whole time and published an account, "Life on the Sea Islands," in the *Atlantic Monthly* in May and June 1864.
+In October 1862, with the Civil War on and the Sea Islands in Union hands, she sailed for St. Helena Island, South Carolina, and joined Laura Towne and Ellen Murray at the Penn School. It had opened that year with 41 pupils. By 1865 it had 436 in four buildings. She was the first Black teacher in Beaufort County and stayed until the war ended. She kept journals the whole time and published an account, "Life on the Sea Islands," in the *Atlantic Monthly* in May and June 1864.
 
 Afterwards she taught in Boston and Charleston, and by 1872 in Washington, D.C., at the school that became Dunbar High School.
 <!-- hb-story:end slug="charlotte-forten-education" -->
 
 <!-- hb-story:start slug="zitkala-sa-education" name="Zitkala-Ša" movie="" kind="famous" status="verified" -->
 ### Zitkala-Ša
-> **Who:** Taken from her mother at eight to a boarding school in Indiana, she wrote down what was done there and published it · **When and where:** Born Yankton Indian Reservation, South Dakota, 22 February 1876; died Washington, D.C., 26 January 1938
+> **Who:** Taken from her mother at eight to a boarding school in Indiana, she wrote down what was done there and published it · **When and where:** Born Yankton Indian Reservation, South Dakota, 22 February 1876. Died Washington, D.C., 26 January 1938
 
 Her Dakota name means Red Bird. Her English name was Gertrude Simmons. In 1884, when she was eight, Quaker missionaries took her from the reservation to White's Indiana Manual Labor Institute at Wabash, Indiana. She stayed three years, went home, came back at fifteen and graduated in 1895.
 
@@ -517,11 +555,11 @@ She went to Earlham College, studied violin at the New England Conservatory, and
 
 We know her name because the Cambridge School Committee printed four thousand copies of its own account of what happened to her.
 
-That morning she refused to do what the master, B. W. Roberts, told her in her writing lesson, and he made her stand in front of the class. In the afternoon, while he was out of the room, an assistant teacher, Sarah M. Gray, caught her whispering and asked what she thought of whispering. Josephine said "I don't know" in a way the teacher took as defiance. Miss Gray took her and the other girl to the recitation room, hit the other girl's hand a few times with a rattan — a thin cane — and sent her back. Then she told Josephine to hold out her hand. Josephine said, "I won't be whipped."
+That morning she refused to do what the master, B. W. Roberts, told her in her writing lesson, and he made her stand in front of the class. In the afternoon, while he was out of the room, an assistant teacher, Sarah M. Gray, caught her whispering and asked what she thought of whispering. Josephine said "I don't know" in a way the teacher took as defiance. Miss Gray took her and the other girl to the recitation room, hit the other girl's hand a few times with a rattan, a thin cane, and sent her back. Then she told Josephine to hold out her hand. Josephine said, "I won't be whipped."
 
 Roberts came back and would not do it himself, saying it would be less humiliating for her to be hit by a woman. He suggested his ferule instead of the cane. The committee's report describes it: "a flexible instrument, made of two flat pieces of leather, sewed together, and filled with some soft substance." It adds that the ferule "was shown to be a common implement of punishment in schools, and to be in use in several of the other Grammar schools of the city."
 
-Josephine said again that she would not be whipped, and started screaming before anyone hit her. Miss Hodges, a third teacher, held her left hand down while Miss Gray hit her right hand. The screaming carried into the schoolroom and set the boys laughing, so Roberts ordered the boys to march to piano music — a regular two-minute exercise — and used the two minutes to come in and take her hand himself. He told her she would go on being hit until she stopped crying out. Five blows were struck while he was there. "In all, from fifteen to twenty blows were inflicted."
+Josephine said again that she would not be whipped, and started screaming before anyone hit her. Miss Hodges, a third teacher, held her left hand down while Miss Gray hit her right hand. The screaming carried into the schoolroom and set the boys laughing, so Roberts ordered the boys to march to piano music, a regular two-minute exercise, and used the two minutes to come in and take her hand himself. He told her she would go on being hit until she stopped crying out. Five blows were struck while he was there. "In all, from fifteen to twenty blows were inflicted."
 
 Her left arm and thumb carried marks from being held for four days afterwards. The report gives her age twice and differently: on one page sixteen, on another "not over thirteen."
 

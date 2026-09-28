@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-262b rights-movements (bank check era 7 [BURST5])
 **RESUMED (Jon): BURST OF 5** = T-264c disasters 9-10, T-266c drugs-alcohol 9-10, T-260b religion 6-8,
 T-261b education 6-7, T-262b rights-movements 7. Then back to one at a time.
 
