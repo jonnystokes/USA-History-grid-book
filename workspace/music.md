@@ -172,6 +172,8 @@ Companion files: outline `outlines/music.md` · research bank `research/research
 - Every other era is `full` with two or more stories. The chapter is heavily weighted to 1900–1950 (six stories) and 1950–2000 (six stories), which matches where the documented record is.
 
 ## Featured people to firm up (target/candidate)
+**T-268b update, 2026-09-28:** eras 3, 6 and 7 now hold six more `verified` stories: Fray Cristóbal de Quiñones (1600s, new), Stephen Foster and Francis Johnson (1800-1850), Ella Sheppard, John Philip Sousa and Scott Joplin (1850-1900). Remaining `target` and `candidate` stories are all in eras 8 to 10.
+
 **T-268a update, 2026-09-28:** eras 1 to 5 now hold four `verified` stories: R. Carlos Nakai (before 1500, replaces the living-singer target), Harry (1700-1750, replaces the fiddler target), William Billings and Newport Gardner (1750-1800). The notes below on the targets for those two eras are history.
 
 **0 `verified`, and that is correct** — `research/research-music.md` does not exist. Nothing may be raised above `candidate` until it does.
@@ -197,6 +199,7 @@ Jon asked specifically for Dolly Parton (d. 25 August 2026) as this chapter's fl
 ## Cross-chapter parking log
 *Strong material found here that belongs to another chapter, and where it was parked.*
 
+- **T-268b (2026-09-28):** nothing parked in other chapters' banks. Eras 6-7 point to `slavery-freedom` (Douglass, Tubman escapes), `storytelling-evolution` (the minstrel show), `religion` (camp meetings, 1883 rules, Ghost Dance), `native-nations` (Wounded Knee), `war` (the fighting), `technology` (the phonograph) instead of retelling them.
 - **T-268a (2026-09-28), burst rule:** nothing was written into other chapters' files. Material for them is listed under TO PARK in `control/checkpoints/T-268-music.md` for the director to file.
 
 - **Twentieth-century recording and selling of songs from Native traditions by people with no right to them** — flagged in the Before 1500 section and explicitly parked to `native-nations`. The music chapter states the ownership practice; `native-nations` gets the cases.

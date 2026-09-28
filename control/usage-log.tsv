@@ -210,3 +210,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-267b	research	general-purpose/opus	[LOCAL] art: Eras 6-7 + bank check. 6 candidates verified (Cole, Douglass, Homer, Edmonia Lew	?	?	?	449516	189	1483622	?	completed	FAIL  art / research
 2026-09-27	T-267c	research	general-purpose/opus	[LOCAL] art: Eras 8-9 + bank check. 11 candidates verified (O'Keeffe, Lange, Lawrence, Savage	?	?	?	488559	191	1585516	?	completed	FAIL  art / research
 2026-09-27	T-267d	research	general-purpose/opus	[LOCAL] art: Era 10, chapter COMPLETE. Stories: Kehinde Wiley, Amy Sherald, Jeffrey Gibson (V	?	?	?	339100	141	1046820	?	completed	PASS  art / research
+2026-09-27	T-268b	research	general-purpose/opus	[LOCAL] music: Eras 6-7 + bank check; Quinones story added to era 3. Verified: Stephen Foster, 	?	?	?	383539	151	1250752	?	completed	FAIL  music / research

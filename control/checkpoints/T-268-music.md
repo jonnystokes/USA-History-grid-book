@@ -1,13 +1,13 @@
 # CHECKPOINT T-268 | music | full | T-268a: eras 1-5
 
-STATUS: T-268a landed (director verified: FAIL  music / research)
+STATUS: T-268b landed (director verified: FAIL  music / research)
 VERIFY: python tools/project_state.py --check music --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/music.md · research/research-music.md · workspace/music.md
 
-NOW:    T-268a finished (2026-09-28)
-NEXT:   T-268b: research eras 6-10 (1800-1850 onward) one era at a time, then the bank check for them, then set every era's progress flag and run --check. Start from the SEED text in outlines/music.md eras 6-10. Carry these from T-268a: (1) the 20th-century cases of Native songs recorded and sold without right (removed from era 1, belongs in eras 8-9, park strong ones to native-nations); (2) Foote 1939 says Billings's tunes survived in the folk hymnody of the rural South (lead for shape notes, era 6); (3) Dargan, *Lining Out the Word* (2006), lead for Dr. Watts hymn singing in Black churches; (4) Mary Sheakley's Tlingit clan song, composed about 1900 in Glacier Bay (Thornton et al. 2019), for era 7 or 8; (5) Dolly Parton, the flagship, eras 9-10.
+NOW:    T-268b finished (2026-09-28)
+NEXT:   T-268c: research era 08 (1900-1950) one unit at a time, then eras 9-10 (may be split), then the bank check for them, then confirm every era's progress flag and run --check. Start from the SEED text in outlines/music.md eras 8-10 and `python tools/slice_bank.py music --eras 8-10`. Carry forward: (1) Sousa's 1906 'canned music' testimony (his story is in era 07; a span in era 08 can quote it); (2) Dennison Wheelock's 'Suite Aboriginal', Carnegie Hall, March 1900 (search summary only); (3) W. C. Handy at Tutwiler about 1903, Ma Rainey, Charles Peabody 1903 (first written blues accounts); (4) Mary Sheakley's Tlingit clan song, about 1900 (Thornton et al. 2019); (5) Judge Jackson's Colored Sacred Harp (1934); (6) Ernest Hogan's The Oyster Man (1907); (7) the T-268a items still open: 20th-century Native songs recorded and sold without right (eras 8-9, park strong ones to native-nations), Dargan's Lining Out the Word (Dr. Watts hymns), Dolly Parton the flagship (eras 9-10); (8) workspace famous-names gaps (Mahalia Jackson, Leadbelly and the Lomax recordings, Irving Berlin, Charley Pride, Hawaiian music). Remaining after T-268b: 75 [VERIFY], 14 candidates, 1 target, all in eras 8-10.
 
 ## BURST (Jon, 2026-09-27): burst of three (holidays, art, music)
 
@@ -30,6 +30,15 @@ for those eras. T-268b does eras 6-10 later (it may be split further).
 | 1 | research eras 1-5, one era at a time: outline + bank, clear [VERIFY], fill or honestly resolve every target and candidate in those eras | done | all 5 eras progress=researched, 0 [VERIFY] in eras 1-5, 4 stories verified (Nakai, Harry, Billings, Gardner), 2 targets replaced |
 | 2 | bank check, eras 1-5 | done | PATCH section at end of bank: harms/actors/counts, land, firsts, perishable Nakai refreshed |
 | 3 | final for your eras: validator, research check (the chapter passes only after its later eras) | done | validator 0 errors; check output in Log |
+
+## Units, T-268b (eras 6-7, plus the optional Quinones story)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 4 | Quinones story in era 03, if the bank supports every record line | done | slug fray-cristobal-de-quinones-music, verified; his span bullet moved into the story; bank entry in era 03 (Koegel re-opened, Wikipedia San Felipe) |
+| 5 | research era 06 (1800-1850): outline + bank, clear [VERIFY], resolve targets/candidates | done | progress=researched, 0 [VERIFY]; Foster and Francis Johnson verified; spans: singers' meanings (Douglass, Tubman, Drinking Gourd dispute), Congo Square, minstrelsy, banjo/Sweeney, church songs/shape notes, Hutchinsons |
+| 6 | research era 07 (1850-1900): same | done | bank section Era 07 written (Fisk, Sheppard, Slave Songs/Higginson, war songs/bands, Lind, Sousa, Joplin/Hogan, G. W. Johnson, Native: 1883 rules, Carlisle band, Fewkes 1890; blues SNF); outline next |
+| 7 | bank check eras 6-7, validator, research check, NEXT for the era-8 agent | done | PATCH 2026-09-28 (T-268b) section in bank; Congo Square SNF; validator 0 errors; check FAIL only on eras 8-10 |
 
 ## SUBJECT NOTES (from the director)
 
@@ -100,3 +109,11 @@ chapter tells him. Eras with no story are allowed, so this is optional.
     eras with no story: 1500s, 1600s
   validate_grid: music.md : 1 chapters, 24 stories, 0 errors
   All remaining targets, candidates and [VERIFY] tags are in eras 6-10 (T-268b). 1500s and 1600s have no story block on purpose (thin eras, workspace ruling); a documented option for 1600s is Fray Cristobal de Quinones (Koegel), if the director wants one.
+- 2026-09-28 T-268b unit 4 DONE: Quinones story added to era 03 (verified). Validator 0 errors, 25 stories. Arrival 1598 left out (search summary only).
+- 2026-09-28 T-268b unit 5 era 06 DONE: sources Douglass Narrative 1845 and My Bondage 1855 (docsouth), Bradford 1869 (docsouth), Bresler followthedrinkinggourd.org, Jim Crow Museum (Pilgrim), Wikipedia (Rice, Virginia Minstrels, Sweeney, Oh! Susanna, My Old Kentucky Home, Shape note, Sacred Harp, Congo Square, Hutchinsons, F. Johnson), Pitt Foster biography + Old Folks at Home page, Smithsonian (Grant 2023) on F. Johnson, New Orleans Historical, Alexandria 2018 PDF, PhillyHistory 2012, Hymnology Archive (Allen). SEARCHED NOT FOUND: named Black musician unpaid by early minstrels. Left out: town brass bands (no source opened), camp-meeting songs themselves (religion leads), Jenny Lind (era 07), Kelley 2008 article text (403; summary only), Allen hymnal 'first' (summary only), Foster lifetime $15,000 (summary only).
+- 2026-09-28 T-268b unit 6 era 07 DONE: progress=researched, 0 [VERIFY]; Ella Sheppard (movie: Jubilee Singers: Sacrifice and Glory, 2000), Sousa (movie: Stars and Stripes Forever, 1952), Joplin verified. Sources: TN Encyclopedia, TN marker (hmdb), Wikipedia (Fisk, Sheppard, Slave Songs, Battle Hymn, Dixie, Lind, Sousa, Joplin, Maple Leaf, Ragtime, Hogan, G. W. Johnson, Origins of the blues), BlackPast (Ward), Higginson 1869 (Gutenberg 6764), LOC Civil War Bands essay, VA History (Sousa), SHSMO (Joplin), CDC (syphilis), The Red Man Feb 1896 (Carlisle band), Carlisle DRC (Wheelock), LOC Revak essay (Fewkes 1890), NatGeo 2022. SNF: pre-1900 written description of the blues. Left out: Mary Sheakley (to era 8), Sousa 1906 canned music (era 8), coon-song lyrics (described, not printed), G. W. Johnson murder trial (bank only), Black minstrel troupes (storytelling-evolution leads).
+- 2026-09-28 T-268b unit 7 DONE (bank check eras 6-7). Final:
+  FAIL  music / research
+    measured: stage=PARTIAL eras=10/10 stories=25 (v10 c14 t1) verify_tags=75 bank=18047w outline=13561w manuscript=0w validator_errors=0
+    eras with no story: 1500s
+  validate_grid: music.md : 1 chapters, 25 stories, 0 errors

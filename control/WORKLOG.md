@@ -3134,6 +3134,8 @@ RESULT: DONE. PASS  art / research. measured: stage=RESEARCHED eras=10/10 storie
         339100 tokens, 141 tool uses, 17.4 min (opus). Era 10, chapter COMPLETE. Stories: Kehinde Wiley, Amy Sherald, Jeffrey Gibson (Venice 2024), Kelly McKernan. NAGPRA 2024 rule and NPS counts (29 May 2026), MFA Boston returned Dave Drake's jars Oct 2025, Rumors of War, Unmanned Drone, MONUMENTS, BLM Plaza removed Mar 2025, Beeple, AI suits to Sep 2026, 2025-26 federal arts cuts, Smithsonian orders. 4 searched-not-found. Parked to music and native-nations. OPEN FOR JON: allegations against Wiley (kept out of the outline, flagged in the bank).
 
 ### 2026-09-27 | [LOCAL] T-268b | music: full research eras 6-7 | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stories=25 (v10 c14 t1) verify_tags=75 bank=18047w outline=13561w manuscript=0w validator_errors=0
+        383539 tokens, 151 tool uses, 20.8 min (opus). Eras 6-7 + bank check; Quinones story added to era 3. Verified: Stephen Foster, Francis Johnson, Ella Sheppard, Sousa, Scott Joplin. Douglass on what the songs meant (the 1836 Canaan hymn), Tubman's hymn signals, Drinking Gourd map claim recorded as disputed, Congo Square, blackface minstrelsy, the banjo's move, Fisk totals ($20,000-$150,000, dated), 1883 rules against Native dances, Carlisle band, first Native recordings 1890. 3 searched-not-found. Chapter FAIL until eras 8-10 (75 VERIFY, 14 candidates).
