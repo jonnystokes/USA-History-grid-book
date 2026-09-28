@@ -3222,3 +3222,8 @@ RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+
+### 2026-09-27 | [LOCAL] T-271d | sports-play: full research era 10, completes the chapter and step 1 [BURST] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-271-sports-play.md
+VERIFY: python tools/project_state.py --check sports-play --stage research
