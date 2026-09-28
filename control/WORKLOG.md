@@ -2996,3 +2996,5 @@ RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras
 NOTE (Jon): PAUSE after T-262c finishes. No new dispatches until Jon says.
 
 ### 2026-09-27 | [LOCAL] PAUSED (Jon) after T-262c. Nothing in flight.
+
+### 2026-09-27 | [LOCAL] RESUMED (Jon): burst of 5, five distinct chapters
