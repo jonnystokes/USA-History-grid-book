@@ -70,7 +70,10 @@ gaps a writer would hit, and stop when they are covered.
 Work one era at a time. After each era, write it to the files and validate with
 `node tools/validate_grid.js outlines/<slug>.md`. Errors mid-write are normal. The last run
 must be clean. Update the checkpoint: what landed, sources in hand (URL and what it settled),
-what you left out and why, and NEXT. No git. Install nothing (no pip or npm): `pypdf` is
+what you left out and why, and NEXT. **Write any text longer than a few lines with the Write
+tool** (to a scratch file, then append it), never a Bash heredoc: heredocs with apostrophes fail
+here, and agents have lost time to it repeatedly. When Python prints web text, set
+`PYTHONIOENCODING=utf-8` first. No git. Install nothing (no pip or npm): `pypdf` is
 already available for reading PDFs.
 
 The LAST agent on a chapter also checks that every era's `progress=` flag matches its real
