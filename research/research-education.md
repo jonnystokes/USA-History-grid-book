@@ -3694,3 +3694,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
 Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
 - `education`, era 1950-2000: the East Los Angeles walkouts, 1-8 March 1968, about 15,000 students, seven schools, 60 percent dropout rate, Spanish bans, 13 organizers arrested 31 March, Sal Castro fired and reinstated (LOC Latinx Civil Rights guide). No outline in the book told them before this.
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `education`, era 03: Loara Standish sampler, Pilgrim Hall; needlework taught mother to daughter.

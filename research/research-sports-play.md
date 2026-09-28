@@ -52,3 +52,7 @@ No. 24-43**, 609 U.S. ___ (2026), supremecourt.gov/opinions/25pdf/24-43_2b35.pdf
   out for the women's Division I track and cross-country teams.
 - **NAMING RULE:** the record gives initials, so the book gives initials. No `hb-story` block is
   built on this, and no name is invented.
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `sports-play`, era 1950-2000: NFL moved Super Bowl XXVII (1993) from Tempe to Pasadena after Arizona voters rejected a King holiday in Nov 1990; projected $200 million loss (Pima County Public Library; PHOENIX magazine 4 Jan 2023); Arizona hosted Super Bowl XXX in 1996.

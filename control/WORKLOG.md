@@ -3106,3 +3106,8 @@ CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
 RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stories=24 (v4 c19 t1) verify_tags=105 bank=7394w outline=9302w manuscript=0w validator_errors=0
         352279 tokens, 180 tool uses, 23.4 min (opus). Eras 1-5 researched + bank check; research-music.md created (7,394w). Stories: R. Carlos Nakai, Harry (fiddler, 1746 runaway notice), William Billings, Newport Gardner. Broken Flute Cave, Hopewell panpipes, Tlingit clan songs, 1565 Te Deum, Coast Miwok 1579, Bay Psalm Book, New Mexico mission music and 1675 arrests, Stono drums and the 1740 Negro Act s.36, Jefferson's Banjar, Tlingit songs 1791. 4 searched-not-found. Chapter FAIL until eras 6-10. TO PARK for six chapters.
+
+### 2026-09-28 | [LOCAL] Burst of 3 done; TO PARK filed (director, script)
+T-273c holidays (chapter COMPLETE), T-267a art 1-5, T-268a music 1-5 (both PARTIAL). Parked items filed into 14 banks,
+all validate 0; the 7 written chapters still PASS prose. One art item to AUDIT-QUEUE. Measured: RESEARCHED 25 +
+WRITTEN 7 = 32 of 37. Left: art 6-10, music 6-10, storytelling-evolution, sports-play, styles. ONE AT A TIME.

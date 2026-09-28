@@ -420,3 +420,7 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
 (STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
 - `migration`, era 10: possible story source for Maria movers: documentary *After Maria* (2019, Nadia Hallgren, Netflix) follows Kenia Ciuro, Glenda Martes and Sheila Molina Quinones, displaced to the Bronx and left homeless when FEMA hotel aid ended (amNY, Meghan Giannotta, May 24, 2019).
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `migration`, era 06: Newport Gardner led about 30 (Millar) or about three dozen (Andrews) Black New Englanders to Liberia, sailing late December 1825 or 4 January 1826; he died there in 1826.

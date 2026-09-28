@@ -3186,3 +3186,7 @@ Full sourced text for each item is in `research/research-news-communication.md` 
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `war`, era 1500s (Matanzas): Menéndez's own letter to Philip II, 15 Oct 1565 (Early Visions of Florida, https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/): killed the French because "they spread the Lutheran sect in these provinces of Your Majesty" and settled "without permission of Your Majesty"; his counts: 132 at Fort Caroline had "their throats cut", 10 more next day, 16 spared (12 Breton seamen, 4 craftsmen), about 70 with Ribault. NPS Fort Matanzas counts: 111 then 134 killed at the inlet; 12 Oct (NPS) vs 11 Oct (Florida Museum timeline).
 - `war` / `native-nations`, era 1600s (Pequot War): Records of the Massachusetts Bay vol. 1 (archive.org recordsofgoverno01mass): 6 June 1637 court set 15 June as a thanksgiving; 1 Aug 1637 court asked for a thanksgiving "vpon the returne of the souldiers, & the souldiers to bee feasted by their townes"; autumn 1637 order: 12 Oct 1637 thanksgiving for "subdewing the Pecoits, bringing the soldiers in safety".
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `war`, era 05: Prince Demah enlisted April 1777 in Col. Thomas Crafts Jr.'s artillery regiment, Massachusetts militia (same source).

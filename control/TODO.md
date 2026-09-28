@@ -11,12 +11,11 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**ONE AT A TIME (resumed 2026-09-28).** 30 of 37 chapters pass research.
-Still to do in step 1:
-- education and rights-movements: checks COMPLETE (T-261e, T-262e).
-- **news-communication** eras 6-10 (T-270b, maybe split) and **holidays** eras 6-10 (T-273b): chapters PARTIAL.
-- **5 seeds, full research:** art (T-267), music (T-268), storytelling-evolution (T-269), sports-play (T-271),
-  styles (T-272). 2-3 agents each.
+**ONE AT A TIME.** 32 of 37 chapters pass research (25 researched + 7 written).
+Left in step 1:
+- **art** eras 6-10 (T-267b; 83 [VERIFY], 19 candidates there: split 6-7 and 8-10).
+- **music** eras 6-10 (T-268b; ~105 [VERIFY], 19 candidates; DOLLY PARTON in era 10; split 6-7 and 8-10).
+- **storytelling-evolution** (T-269a/b/c, full), **sports-play** (T-271a/b, full), **styles** (T-272a/b, full).
 Then STEP 2 (writing).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)

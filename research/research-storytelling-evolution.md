@@ -5,3 +5,7 @@ Created 2026-09-27 by the director to hold material parked by other chapters bef
 ## Parked from `holidays` (2026-09-27, T-273a)
 Full sourced text is in `research/research-holidays.md` under the T-273a PATCH named.
 - `storytelling-evolution`, era 1700-1750 (its [VERIFY] on Pinkster and Election Day dates): Pinkster oldest account New-York Weekly Journal, March 1737 (Historic Hudson Valley, https://hudsonvalley.org/article/what-is-pinkster/); Connecticut Black governor elections "possibly as early as 1749", Hercules at New London 1749, London at Hartford 1755 (Connecticut State Library blog).
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `storytelling-evolution`, era 05: Mercy Otis Warren's plays and dates per NWHM (The Adulateur 1772, Defeat 1773, The Group 1775, Blockheads 1776, The Motley Assembly 1779), all anonymous.

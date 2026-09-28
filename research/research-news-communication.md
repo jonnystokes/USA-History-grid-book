@@ -994,3 +994,7 @@ How the prose can say it: Give the 2025 count (at least 32 arrests or detentions
 - A full CPJ list of journalists killed in the US since 1992.
 - A reporter's own account of a paper closing.
 
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `news-communication`, era 03: Elizabeth Glover, widow of the Rev. Jose Glover, set up the Cambridge press under Stephen Daye; about 1,700 Bay Psalm Books at twenty pence; 11 survive (LOC exhibition).

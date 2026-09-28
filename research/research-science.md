@@ -272,3 +272,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `education` (2026-09-27, T-261)
 Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
 - **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `science`, era 01: Squier and Davis took 200+ Hopewell pipes from Mound City in 1846; Davis sold his collection to William Blackmore for $10,000 in 1864; British Museum bought it 1931 (NPS HOCU admin history ch. 6). Spiro: Pocola Mining Company 1933-35, black-powder blast (405 Magazine, La Vere).

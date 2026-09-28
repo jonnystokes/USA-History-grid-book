@@ -45,7 +45,12 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## DIRECTOR NOTE (2026-09-28)
+The 1600s may take a story: Fray Cristobal de Quinones (trained Pueblo singers, d. 1609) is sourced in the bank.
+The next music agent adds him as a verified hb-story in era 03 if the bank supports every record line and no other
+chapter tells him. Eras with no story are allowed, so this is optional.
+
+## TO PARK (FILED by the director, 2026-09-27)
 - `slavery-freedom`, era 04 (1700-1750): the 1739 "Account of the Negroe Insurrection in South Carolina" (text at latinamericanstudies.org/slavery/stono.htm): "Some Angola Negroes assembled, to the number of Twenty; and one who was called Jemmy was their Captain"; "calling out Liberty, marched on with Colours displayed, and two Drums beating"; captured men "shot on the Spot"; the account's own count "about 40 Negroes and 20 whites were killed" (differs from their bank's 25 white and 35-50 rebels). Full entry in `research/research-music.md` era 04.
 - `slavery-freedom` or `crime-justice`, eras 04-05: Virginia Gazette runaway notices with musicians, via UVA Geography of Slavery (search_ads.php?enslaved_skills=31): Harry 1746 (enslaver asked that he be whipped "as the Law directs"); Damon 1766 and Dinwiddie's 1752 proclamation for Guy and Dick, both "outlawed" (outlawry not yet defined or sourced).
 - `native-nations`, era 05: Malaspina expedition at Yakutat Bay, 1791; Tlingit sang with the Spanish sailors; Tadeo Haenke's four sheets of notation in the Museo de América, Madrid; studied by the Sealaska Heritage Institute (Sam Anderson, ExplorersWeb, 6 Oct 2022).

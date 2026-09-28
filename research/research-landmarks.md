@@ -240,3 +240,7 @@ National Park Service (Castillo, Boston Light, San Miguel, Independence NHP, Was
 ## Parked from `slavery-freedom` (2026-09-27, T-255)
 Filed by the director after the parallel run. Full sourced text is in `research/research-slavery-freedom.md` under the T-255 PATCH named in each item.
 - **landmarks, era 10:** the President's House site in Philadelphia: officials removed its slavery displays in January 2026; Judge Cynthia M. Rufe ordered them restored on February 16, 2026 (City of Philadelphia v. Burgum); the government appealed and the Third Circuit later upheld the administration's authority to replace the exhibit. (The Daily Pennsylvanian, February 2026; Travelers Today, July 18, 2026.)
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `landmarks`, era 03: San Esteban at Acoma: beam distance disputed, San Mateo Mountains 30 miles (NPS) vs Mount Taylor about 40 miles (Wikipedia); workers "enslaved" per Wikipedia only.

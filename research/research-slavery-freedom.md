@@ -554,3 +554,13 @@ Full sourced text for each item is in `research/research-news-communication.md` 
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `slavery-freedom`, era 1750-1800: Mount Vernon, most enslaved workers had four days off at Christmas, house workers did extra work (Mary V. Thompson, Mount Vernon Digital Encyclopedia); Fithian's journal 25 Dec 1773 (Gutenberg 40044) names Nelson, Tom the coachman and Dennis serving on Christmas morning.
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `slavery-freedom`, era 04: Kühn's portrait of Henry Darnall III, about 1710, Annapolis, shows an enslaved Black boy, unnamed, in a metal collar (Sartle; MCHC title "Unnamed attendant and Henry Darnall III"). The Royalls brought at least 27 enslaved Africans from Antigua to Medford in 1737 (Royall House and Slave Quarters, https://royallhouse.org/the-royalls/).
+- `slavery-freedom`, era 05: Prince Demah, bought 1769 by Henry Barnes, enslaved painter, will of March 11, 1778 as "free Negro" (Peck and Bagger, Magazine Antiques 2015). By 1776 a Maryland planter gave Scarborough and Lucy to C. W. Peale as payment for portraits; freed 1786; son Moses Williams held until about 1802 (Davis Art). Joshua Johnson bought for £25 and freed by his father George Johnson, 1782 (Maryland State Archives MSA SC 3520-13555).
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `slavery-freedom`, era 04 (1700-1750): the 1739 "Account of the Negroe Insurrection in South Carolina" (text at latinamericanstudies.org/slavery/stono.htm): "Some Angola Negroes assembled, to the number of Twenty; and one who was called Jemmy was their Captain"; "calling out Liberty, marched on with Colours displayed, and two Drums beating"; captured men "shot on the Spot"; the account's own count "about 40 Negroes and 20 whites were killed" (differs from their bank's 25 white and 35-50 rebels). Full entry in `research/research-music.md` era 04.
+- `slavery-freedom` or `crime-justice`, eras 04-05: Virginia Gazette runaway notices with musicians, via UVA Geography of Slavery (search_ads.php?enslaved_skills=31): Harry 1746 (enslaver asked that he be whipped "as the Law directs"); Damon 1766 and Dinwiddie's 1752 proclamation for Guy and Dick, both "outlawed" (outlawry not yet defined or sourced).

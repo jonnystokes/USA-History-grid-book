@@ -4872,3 +4872,11 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `religion`, era 1600s: nothing new (holidays used religion's Zotigh/Newberry material with a pointer).
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `religion`, era 03: NLM Native Voices, "AD 1661: Spain raids kivas": soldiers as well as friars raided kivas and burned katsina masks (https://www.nlm.nih.gov/nativevoices/timeline/216.html).
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `religion`, eras 02-03: John Koegel, "Music and Christianization on the Northern Frontier of New Spain" (UMN Libraries Publishing): Quiñones at San Felipe Pueblo (d. 1609, organ, trained singers), Bernardo de Marta (c.1605-1635), Figueredo at Zuni 1634, Benavides's supply lists of choir-books and shawms; 1680 revolt killed some 400 settlers including 21 Franciscans.

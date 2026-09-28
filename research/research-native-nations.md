@@ -650,3 +650,15 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 
 ## Parked from `rights-movements` (2026-09-27, T-262e)
 - Era 10 (2000-today), Standing Rock: the police response and its court outcomes, which the native-nations outline does not tell. Full sourced text: `research/research-rights-movements.md`, era 10, PATCH "Standing Rock and the Dakota Access Pipeline, 2016 to 2026". In brief: Gov. Jack Dalrymple's emergency declaration 19 Aug 2016 (InForum); the governor's "Unified Incident Command" of the Morton County Sheriff's Office (Sheriff Kyle Kirchmeier) and other agencies; 20 Nov 2016 Backwater Bridge tear gas, rubber bullets, lead-filled bean bags and fire hose (8th Cir., *Dundon v. Kirchmeier*, 3 Nov 2023, ecf.ca8.uscourts.gov/opndir/23/11/221246P.pdf); Sophia Wilansky's arm, Officer Jonathan R. Moll, suits dismissed (8th Cir., *Wilansky v. Morton County*, 24 Jun 2026, ecf.ca8.uscourts.gov/opndir/26/06/241911P.pdf); Trump memorandum 24 Jan 2017 (82 FR 8661); final EIS 19 Dec 2025 and Record of Decision granting the easement (91 FR 34227, 5 Jun 2026); tribe dropped its D.C. Circuit appeal June 2026 (EELP tracker); Greenpeace verdict $667M cut to $345M (North Dakota Monitor, 27 Feb 2026). Rights-movements tells the protest in one span and points to native-nations as lead.
+
+## Parked from `art` (2026-09-27, T-267)
+Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
+- `native-nations`, era 04: Hesselius painted the Lenape leaders Lapowinsa and Tishcohan for John Penn in 1735; both signed the 1737 Walking Purchase (Colonial Society of Massachusetts, https://www.colonialsociety.org/node/781 ; Wikipedia "Lappawinsoe"). Bank: research-art.md era 04.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `native-nations`, era 05: Malaspina expedition at Yakutat Bay, 1791; Tlingit sang with the Spanish sailors; Tadeo Haenke's four sheets of notation in the Museo de América, Madrid; studied by the Sealaska Heritage Institute (Sam Anderson, ExplorersWeb, 6 Oct 2022).
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `native-nations`, era 1950-2000 and 2000-today: National Day of Mourning from 26 Nov 1970 (Pilgrim Hall Museum; UAINE suppressed speech; Wikipedia); 27 Nov 1997 police pepper spray and 25 arrests for disorderly conduct and unlawful assembly (AP in Spokesman-Review 28 Nov 1997); 19 Oct 1998 settlement (UAINE: $100,000 Metacom Education Fund, $20,000 ACLU, $15,000 two plaques, march without permit in perpetuity). Biden Proclamation 10283 (8 Oct 2021, 86 FR 57307); Trump's 9 Oct 2025 Columbus Day proclamation with no mention of Indigenous Peoples' Day (NPR 11 Oct 2025; PBS/AP 13 Oct 2025, which also quotes Chase Iron Eyes on the Wounded Knee medals decision by Defense Secretary Hegseth).

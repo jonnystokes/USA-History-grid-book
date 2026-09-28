@@ -244,3 +244,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **For the `how-we-know` afterword (step 7):** from T-262b (rights-movements checkpoint): - `how-we-know` afterword: Marius Robinson's full 1851 text of Sojourner Truth's Akron speech is now in the bank (NPS lesson plan); Gage in the New York Independent, 23 April 1863 (NPS, Sojourner Truth Project).
 
 - **For the `how-we-know` afterword (step 7):** from T-273a (holidays checkpoint): - `how-we-know` (Afterword, the Thanksgiving myth): Salem Gazette 28 Nov 1816 credits "our Pilgrim forefathers, who instituted this religious festival" (Jane Hampton Cook, GenealogyBank blog, 4 Dec 2020); Alexander Young 1841 note (Plimoth Patuxet); Newell claim vs Jeremy Bangs, HNN 1 Sep 2005.
+
+- **From T-267a (art checkpoint):** - AUDIT-QUEUE candidate: `research-art.md` era 04 notes that Western Carolina University's rivercane page names "Sir Francis Richardson, the first governor of the Carolina colony" as the man who took the 1725 baskets to London; search summaries name Francis Nicholson. Unresolved; outline leaves the governor unnamed.
