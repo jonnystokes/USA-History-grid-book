@@ -89,3 +89,12 @@ Companion files: outline `outlines/news-communication.md` · research bank `rese
 - [VERIFY] queue for eras 6-8: empty.
 - Parked elsewhere: nothing (burst rule not in force; no other chapter's file was edited).
 - Open for round 2: Native papers after 1835, Spanish-language press after 1848, territorial presses, newsreels.
+
+## T-270c (2026-09-28), eras 9 to 10
+- Shared events and whose angle: McCarthy (government-politics); Till (crime-justice story mmett-till, here the *Jet* photographs); Selma (ights-movements, here the ABC broadcast); My Lai (war, here Hersh's reporting); Watergate (government-politics lead on the crisis, crime-justice the prosecutions, here the reporting and story woodward-and-bernstein); Darnella Frazier (ights-movements span prose, story here); ARPANET and the web (	echnology lead); TikTok and platform owners (ig-business if it wants them).
+- Famous names present: McCarthy, Murrow, Cronkite, Ellsberg, Woodward, Bernstein, Felt, Katharine Graham (bank), Hersh, Ted Turner, Limbaugh, Murdoch, Zuckerberg, Musk.
+- Famous names checklist above: Walter Cronkite and Watergate reporting now present (era 9). The unticked eras 6-8 names are present per T-270b's list.
+- [VERIFY] queue: 'Woodward and Bernstein brought down a president' cleared and rewritten (bank era 9). Queue empty.
+- Stories: walter-cronkite, woodward-and-bernstein (era 9); jeff-german (resolves target local-reporter), NEW darnella-frazier (era 10). All verified.
+- Parked elsewhere: nothing. No other chapter's file was edited.
+- Open for round 2: listed at the end of the bank under 'Bank check, eras 9 to 10'.

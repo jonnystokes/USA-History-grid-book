@@ -487,34 +487,147 @@ Shared with: `technology` (the television as a machine).
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="news-communication" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="news-communication" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Television becomes where the country finds out what happened, and for a while three networks decide what that is.
+In 1950 about 9 of every 100 American homes had a television set. By 1960, 87 of every 100 did. After 1955 editors at three networks, NBC, CBS and ABC, chose the national news that most families watched each evening. Managers of some Southern stations cut civil rights news off the air, and Black citizens in Mississippi went to court and got one station's license taken away. In 1971 and 1972 reporters printed a secret history of the Vietnam War and uncovered crimes run from the White House, and officials in Washington tried to stop them. In 1987 federal regulators ended a rule that made stations air more than one side of public questions. By 2000 cable channels showed news all day and night, and a network of computers called the internet carried news to people's screens.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the network age and Watergate" -->
-Murrow and the McCarthy broadcasts; Cronkite; civil rights and Vietnam shown in living rooms; Watergate reporting; the growth of cable and CNN, 1980; talk radio; local newspapers still profitable.
+<!-- hb-zoom level="span" label="television and the blacklist, 1950 to 1954" -->
+In June 1950 three former FBI agents who ran a company called American Business Consultants published a book called *Red Channels*. It named 151 people who worked in radio and television and claimed they had ties to communism. The owners then visited networks, advertisers and sponsors and offered, for a fee, to "clear" people they had named. To be cleared, a person usually had to give the FBI or a committee of Congress the names of others. Networks and advertisers fired people on the list. This list of people no one would hire was called the blacklist.
+In February 1950 Senator Joseph McCarthy of Wisconsin said in a speech in Wheeling, West Virginia, that 205 communists worked in the State Department. When senators asked, he could not name one. In 1954 television networks broadcast 36 days of Senate hearings on McCarthy's charges against the Army. Joseph Welch, the Army's lawyer, asked him on camera, "Have you no sense of decency, sir, at long last?" That year Edward R. Murrow showed McCarthy's methods on his CBS program *See It Now*. On 2 December 1954 the Senate voted 67 to 22 to condemn McCarthy.
+Shared with: `government-politics` (McCarthy and the Senate) · `storytelling-evolution` (the entertainment blacklist).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="walter-cronkite" name="Walter Cronkite" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="radio and television in Spanish, 1946 to 1961" -->
+Raoul A. Cortez was born in Xalapa, Mexico, in 1905 and worked as a reporter for *La Prensa*, a Spanish-language newspaper in San Antonio, Texas. In 1946 he opened KCOR, the first all-Spanish radio station owned and run by a Hispanic American. During the war, officials limited broadcasts in foreign languages, so he told them part of his purpose was to rally Mexican Americans behind the war effort. In 1955 he started KCOR-TV, the first television station made only for Spanish-speaking viewers. Few television sets could pick up its channel, so advertisers stayed away, and in 1961 he sold it. The new owners renamed it KWEX.
+Shared with: `immigration` (Mexican Americans).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the station that cut the news: WLBT, 1955 to 1971" -->
+The Lamar Life Insurance Company founded WLBT, the NBC television station in Jackson, Mississippi, in 1953. In the fall of 1955 the lawyer Thurgood Marshall appeared on an NBC program to talk about the Supreme Court's decision against segregated schools. WLBT staff cut him off and showed a sign that read "Sorry, Cable Trouble from New York." The general manager, Fred Beard, later said he did it "because the TV networks were overloading the circuits with Negro propaganda." Station staff cut away from NBC's evening news when it turned to civil rights. WLBT reporters used racial slurs on the air. The White Citizens' Council, a group that fought to keep segregation, ran a bookstore in the station's lobby. About half the people in WLBT's viewing area were Black, and station managers refused them time to answer.
+In 1963 the Reverend Everett Parker of the United Church of Christ joined Aaron Henry, head of the Mississippi NAACP, and Tougaloo College president A. D. Beittel. They collected complaints from Black viewers, though they knew they could be attacked for it. In 1964 they asked the Federal Communications Commission not to renew WLBT's license, the government permit a station needs to broadcast. The commissioners renewed it anyway. In 1966 a federal appeals court ruled that viewers had the right to take part in these cases. In 1969 the court ordered the commission to take the license away, and the owners lost their last appeal in 1971. A group of Black and white citizens then ran the station and hired some of the first Black television managers in the South.
+Shared with: `rights-movements` (Aaron Henry and the Mississippi movement).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="civil rights news on the page and on the screen, 1955 to 1965" -->
+In August 1955 Roy Bryant and J. W. Milam kidnapped 14-year-old Emmett Till in Mississippi, and he was found beaten and shot. A jury later found the two men not guilty. On 15 September 1955 *Jet*, a weekly magazine for Black readers published in Chicago, printed photographs of his body. *Jet* sold about 425,000 copies a week then. The Till issue sold out, and its publishers printed more.
+On the night of 30 September 1962 a crowd of segregationists attacked US marshals at the University of Mississippi to stop James Meredith, a Black student, from enrolling. Paul Guihard, a 30-year-old reporter for the French news agency Agence France-Presse, was covering the story. Someone shot him in the back at close range, and the bullet hit his heart. No one has ever been charged with killing him, and the Justice Department closed the case in 2011 without naming anyone.
+On 7 March 1965 Alabama state troopers and other officers attacked marchers with clubs and tear gas on the Edmund Pettus Bridge in Selma, and television cameras filmed them. The film was flown to New York. At about 9:30 that night ABC newscaster Frank Reynolds interrupted the network's showing of *Judgment at Nuremberg*, a film about Nazi war crimes, to show it. Nearly 50 million people had tuned in to the film.
+Shared with: `crime-justice` (the murder of Emmett Till, story `emmett-till`) · `rights-movements` (Selma and the Voting Rights Act) · `education` (James Meredith).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="walter-cronkite" name="Walter Cronkite" movie="Walter Cronkite: Witness to History (2006)" kind="famous" status="verified" -->
 ### Walter Cronkite
-The anchor most Americans watched for the biggest news of their lives.
+> **Who:** The CBS anchor who read the evening news to much of the country for 19 years, and who told viewers in 1968 that the Vietnam War was stuck · **When and where:** New York, 1962 to 1981
+> **Movie:** Walter Cronkite: Witness to History (2006), a PBS *American Masters* documentary about him
+
+Walter Cronkite was born in St. Joseph, Missouri, on 4 November 1916 and grew up in Houston, Texas, where he wrote for his school newspapers. In World War II he reported for the United Press news service. He flew on bombing raids over Germany and covered the D-Day landings in 1944. In 1950 Edward R. Murrow hired him for CBS.
+
+In 1962 Cronkite became the anchor of the *CBS Evening News*. Soon after, CBS executives made it 30 minutes long instead of 15, the first half-hour nightly news program on network television. He told viewers that President John F. Kennedy had been killed in 1963. He covered the Moon landing in 1969 and nearly every American spaceflight from 1961 to 1981.
+
+In 1968 he went to Vietnam after the Tet Offensive, a large attack by North Vietnamese and Viet Cong forces. On 27 February 1968 he told viewers that the war was "mired in stalemate," meaning neither side could win. President Lyndon Johnson told his staff, "If I've lost Cronkite, I've lost Middle America." Some people believed this helped Johnson decide not to run for president again that year.
+
+A 1972 poll named him "the most trusted man in America." He ended each program with "And that's the way it is." He left the anchor desk in 1981 and died in New York on 17 July 2009.
 <!-- hb-story:end slug="walter-cronkite" -->
-<!-- hb-story:start slug="woodward-and-bernstein" name="Woodward and Bernstein" movie="" kind="famous" status="candidate" -->
-### Woodward and Bernstein
-The reporters whose Watergate work brought down a president [VERIFY].
+<!-- hb-zoom level="span" label="Vietnam and the reporters, 1965 to 1971" -->
+Fewer than two dozen American reporters were in Vietnam in 1964. By 1968 about 600 journalists from many countries were there, and more than 60 journalists were killed during the war. US military officers did not censor their reports. Many reporters stayed in Saigon and got their news from daily military briefings, which they called "the five o'clock follies." Many people later blamed television for turning Americans against the war. Many experts who studied the coverage later found that most reporting supported the war until 1968, and that support at home fell most as more Americans died.
+On 16 March 1968 American soldiers of Charlie Company killed as many as 500 unarmed villagers at My Lai in South Vietnam. In 1969 a freelance reporter, Seymour Hersh, followed a tip, found Lieutenant William Calley and wrote the first public account. Hersh won a Pulitzer Prize in 1970.
+Shared with: `war` (the fighting and My Lai).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the Pentagon Papers, 1971" -->
+In 1967 Secretary of Defense Robert McNamara ordered a secret history of what American leaders had done in Vietnam since World War II. It filled 47 volumes. Daniel Ellsberg, a researcher who had worked on it, came to oppose the war and gave copies to *The New York Times*. The *Times* began printing stories about it on 13 June 1971. The papers showed that President Johnson had planned open war in 1964, a year before the public knew. They also showed that he ordered bombing of North Vietnam in 1965 although intelligence officials had judged it would not work.
+After three days, Justice Department lawyers got a court order that stopped the *Times* from printing more. An order like this, which stops something before it is published, is called prior restraint. *The Washington Post* also had the papers and fought the order too. On 30 June 1971 the Supreme Court voted 6 to 3 that the newspapers could keep printing. Prosecutors charged Ellsberg under the Espionage Act, and he faced up to 115 years in prison. Men working for President Richard Nixon broke into the office of Ellsberg's psychiatrist to look for damaging information. In 1973 the judge dismissed all charges because of this and other government wrongdoing.
+In 1972 the Supreme Court ruled in *Branzburg v. Hayes* that reporters have no constitutional right to refuse to name their sources to a grand jury, a group of citizens who decide whether someone should be charged with a crime.
+Shared with: `war` (Vietnam) · `government-politics` (the Supreme Court).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="woodward-and-bernstein" name="Bob Woodward and Carl Bernstein" movie="All the President's Men (1976)" kind="famous" status="verified" -->
+### Bob Woodward and Carl Bernstein
+> **Who:** Two young *Washington Post* reporters who showed that a burglary in 1972 was tied to President Nixon's White House · **When and where:** Washington, D.C., 1972 to 1974
+> **Movie:** All the President's Men (1976), about their reporting, with Robert Redford as Woodward
+
+Early on 17 June 1972 police arrested five men inside the office of the Democratic National Committee in the Watergate building in Washington. One of them was the security chief of President Nixon's re-election committee. Bob Woodward, born in Illinois in 1943, had covered minor crimes for the *Post* for nine months. Carl Bernstein covered politics in Virginia. They wrote about the arrests the next morning with a third reporter, Alfred E. Lewis.
+
+Nixon's press secretary called it a "third-rate burglary attempt," and most early news stories said the White House had nothing to do with it. Woodward and Bernstein kept reporting. A secret source they called "Deep Throat" gave them information. On 10 October 1972 they reported that the break-in came from "a massive campaign of political spying and sabotage" run by White House officials for Nixon's re-election. Nixon's aide Charles Colson threatened William Paley, the head of CBS, and CBS cut short a second report on the story. Nixon won re-election that November in 49 states.
+
+In 1973 the *Post* won the Pulitzer Prize for public service for the reporting. Their stories were not the only reason Nixon fell. For two weeks in May 1973 television stations showed a Senate committee's hearings live, and more than 150 PBS stations showed them in the evening. A month after the hearings began, 97 of every 100 Americans had heard of Watergate. A former aide, Alexander Butterfield, told the committee that Nixon secretly recorded conversations in the White House. In July 1974 the Supreme Court ordered Nixon to hand over the tapes to a special prosecutor. One tape showed that on 23 June 1972 he had ordered the FBI to hold back its investigation. The House Judiciary Committee voted to impeach him, and on 9 August 1974 Nixon resigned.
+
+In 2005 W. Mark Felt, who had been the second-highest official at the FBI, said that he was Deep Throat.
+Shared with: `government-politics` (the constitutional crisis) · `crime-justice` (the break-in and the prosecutions).
 <!-- hb-story:end slug="woodward-and-bernstein" -->
+<!-- hb-zoom level="span" label="reporters killed in the United States, 1976 to 1990" -->
+On 2 June 1976 Don Bolles, a 47-year-old reporter for the *Arizona Republic*, went to a Phoenix hotel to meet a man who promised information about land fraud and organized crime. The man never came. When Bolles started his car, a bomb under it exploded. Doctors cut off both his legs and one arm, and he died on 13 June. John Harvey Adamson admitted in 1977 that he had built and planted the bomb. A jury later convicted Max Dunlap of murder and conspiracy to murder in the killing, and he died in prison in 2009. Dozens of reporters from other papers and stations came to Arizona and spent five months finishing Bolles's reporting.
+Between 1981 and 1990 killers murdered five Vietnamese American journalists who ran small papers for refugees from the Vietnam War. Duong Trong Lam, 27, was shot outside his home in San Francisco in 1981. In Houston in 1982 a gunman chased Nguyen Dam Phong from his house and shot him seven times. Pham Van Tap died in a fire set in his office in Garden Grove, California, while he slept. Le Triet was shot outside his home in Virginia in 1990. The FBI suspected a group of former South Vietnamese military officers who wanted to retake Vietnam, but no one was ever arrested or charged.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="public broadcasting, the fairness rule, cable news and talk radio, 1967 to 1996" -->
+In the Public Broadcasting Act of 1967, members of Congress set up the Corporation for Public Broadcasting to hand out federal money to public television and radio stations. Its board started PBS in 1969 and NPR in 1970. PBS began broadcasting in 1970.
+Since 1949 the Federal Communications Commission had enforced the fairness doctrine. This rule said stations had to cover important public questions and air more than one side, and let people attacked on the air answer. In 1969 the Supreme Court upheld it. In June 1987 members of Congress passed a bill to make the rule a law. President Ronald Reagan vetoed it, writing that it made "Federal officials" judges of what broadcasters said. That year the commissioners, led by chairman Dennis Patrick, voted 4 to 0 to end the rule. In 1988 Rush Limbaugh began a national radio talk show with one political point of view. Within five years about 20 million people listened each week.
+On 1 June 1980 Ted Turner's company started CNN, the first channel to show news 24 hours a day. It reached viewers through cable, wires that carried many channels into homes for a monthly fee. On 7 October 1996 Rupert Murdoch's company started the Fox News Channel and put Roger Ailes, a former Republican political adviser, in charge.
+Shared with: `government-politics` · `marketplace` (advertising).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the internet, 1969 to 1996" -->
+In late 1969 researchers at the University of California, Los Angeles sent the first message over ARPANET, a computer network paid for by the Defense Department, to the Stanford Research Institute. In 1991 Tim Berners-Lee, a British scientist in Switzerland, opened the World Wide Web to the public. In 1993 a team at the University of Illinois released Mosaic, the first widely used program for viewing web pages with pictures. In February 1996 President Bill Clinton signed the Telecommunications Act. It let one company own more television stations, and many media companies merged. Part of it made it a crime to send "indecent" material to minors online, and in 1997 the Supreme Court struck that part down and ruled that the internet has the same free-speech protection as print.
+Shared with: `technology` (**lead**, the network and the machines).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="news-communication" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="news-communication" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-Everyone can publish, most local newspapers cannot survive, and algorithms decide what most people see.
+After 2000 most Americans moved to getting their news on screens. In a 2025 survey, 86 of every 100 adults got news at least sometimes from a phone, computer or tablet, and 53 of every 100 from social media sites. A few large companies run those sites, and their computer programs choose which posts each person sees. Newspapers lost most of their advertising money, and close to 3,500 of them closed between 2005 and 2025. By 2025 about 50 million Americans lived where there was little or no local news. People angry at their reporting killed journalists, and police arrested reporters and hit them at protests. In 2025 members of Congress took back the federal money for public radio and television.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the feed and the news deserts" -->
-The internet and the collapse of newspaper advertising; local news deserts; social media and the feed; misinformation and fact-checking; the news on a phone; tribal and community outlets. Current through 2026; state the cutoff.
+<!-- hb-zoom level="span" label="the news on phones and feeds, 2004 to 2025" -->
+Mark Zuckerberg and three other Harvard students started Facebook in February 2004. Three former PayPal workers started YouTube in 2005, and Google bought it in November 2006 for $1.65 billion. Twitter began in 2006. Each site shows every user a feed, a list of posts that the company's computer programs pick and put in order. A law of 1996, Section 230, says a website cannot be treated as the publisher of what its users post.
+By 2025, 91 of every 100 American adults owned a smartphone, up from 35 in 2011. In an August 2025 Pew Research Center survey, 38 of every 100 adults said they regularly got news on Facebook and 35 on YouTube. Twenty got news on Instagram, 20 on TikTok and 12 on X. Only 7 of every 100 often read news in a printed newspaper or magazine.
+Shared with: `technology` (**lead**, the phone and the network) · `marketplace` (advertising and the data collected about users).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="local-reporter" name="(target) a local reporter" movie="" kind="ordinary" status="target" -->
-### (target) a local reporter
-Covered a town until the paper closed; a documented, on-the-record account.
-<!-- hb-story:end slug="local-reporter" -->
+<!-- hb-zoom level="span" label="false news, measured, 2018" -->
+In 2018 three researchers at the Massachusetts Institute of Technology, Soroush Vosoughi, Deb Roy and Sinan Aral, published a study of news on Twitter. They followed about 126,000 stories shared by about 3 million people from 2006 to 2017. Six fact-checking groups decided which stories were true and which were false. False stories were 70 percent more likely to be shared again than true ones. A true story took about six times as long as a false one to reach 1,500 people. False stories about politics spread fastest. When the researchers took out the accounts run by computer programs, called bots, the result stayed the same. People, not bots, spread most of the false news.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="who owns the feed, 2022 to 2026" -->
+In October 2022 Elon Musk bought Twitter for $44 billion. He laid off about half its workers and cut back the work of removing harmful posts. He began selling blue check marks for $8 a month, which Twitter had given only to verified public figures. He renamed it X in 2023. In 2025 he moved X into his artificial intelligence company, and in 2026 his rocket company SpaceX bought that company. In January 2025 Zuckerberg announced that Facebook would end the fact-checking programs it had used for about ten years.
+TikTok belonged to ByteDance, a company in China. In 2024 members of Congress passed a law ordering ByteDance to sell its share of TikTok within a year or see the app banned, and the Supreme Court upheld the law in January 2025. President Donald Trump delayed the ban several times. In January 2026 a new company took over TikTok in the United States. Oracle, the investment firm Silver Lake and a fund owned by the government of the United Arab Emirates each own 15 percent of it, and ByteDance kept 19.9 percent.
+In 2025 David Ellison bought Paramount, the company that owns CBS. In 2026 his company agreed to buy Warner Bros. Discovery, which owns CNN, for $111 billion. Both deals rest on the fortune of his father, Larry Ellison, a co-founder of Oracle. In September 2026, to settle a lawsuit by 12 state attorneys general, Paramount's owners agreed to set up a board meant to keep them out of news decisions at CBS and CNN. The purchase had not been completed at the end of September 2026.
+Shared with: `big-business` (the companies) · `government-politics` (the TikTok law).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="newspapers close: the news deserts, 2005 to 2025" -->
+Newspapers had lived on advertising. American newspapers took in about $49 billion from ads in 2005 and about $10 billion in 2022 (Pew Research Center). Researchers at Northwestern University's Medill school count newspapers every year. Their 2025 report found that close to 3,500 newspapers had closed since 2005, almost 40 of every 100. More than 130 closed in the year before the report. The newspaper business lost more than three of every four of its jobs.
+A county with no local newspaper, website or station is called a news desert. In 2005 just over 150 counties had no local news source. In 2025 there were 212, and about 80 of every 100 of them were rural. Another 1,525 counties had only one, usually a weekly paper. About 50 million people lived in these counties. In 2005 there were 3,995 newspaper owners, and in 2025 just under 1,900. The *Chicago Defender*, the Black newspaper that urged Black Southerners to move north in the 1910s, stopped printing in 2019 and now publishes only online.
+Shared with: `economy` · `city-building` (rural and small-town life).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="jeff-german" name="Jeff German" movie="" kind="ordinary" status="verified" -->
+### Jeff German
+> **Who:** A Las Vegas newspaper reporter who was stabbed to death by an elected official he had written about · **When and where:** Las Vegas, Nevada, 1980s to 2022
+
+Jeff German reported on Las Vegas for four decades. He wrote about organized crime and dishonest officials, and he hosted a *Las Vegas Review-Journal* podcast about the mob called *Mobbed Up*.
+
+In 2022 German wrote about the office of Robert Telles, the elected Clark County Public Administrator. German reported that people who worked there described bullying and retaliation in the office and an "inappropriate relationship" between Telles and a staff member. Telles denied it. In June 2022 he lost his election.
+
+On 2 September 2022 Telles stabbed German to death outside German's home. Police found Telles's DNA on German's hands and fingernails. In Telles's home they found a straw hat and sneakers, cut into pieces, that the killer had worn on a security camera video. Telles was 50.
+
+A jury found Telles guilty of murder on 28 August 2024. In October 2024 Judge Michelle Leavitt added time for killing a person over 60 with a deadly weapon, so Telles must serve at least 28 years in prison before he can ask for release.
+<!-- hb-story:end slug="jeff-german" -->
+<!-- hb-zoom level="span" label="a newsroom attacked: Annapolis, 2018" -->
+On 28 June 2018 Jarrod Ramos walked into the newsroom of the *Capital Gazette* in Annapolis, Maryland, with a shotgun, smoke grenades and extra bullets. He killed five people who worked there: Gerald Fischman, Rob Hiaasen, John McNamara, Rebecca Smith and Wendi Winters. Ramos held a grudge because the paper had reported that in 2011 he admitted to harassing a woman he knew from high school. In 2021 a jury rejected his claim that he was insane, and a judge sentenced him to five life terms in prison with no chance of release.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="darnella-frazier" name="Darnella Frazier" movie="" kind="ordinary" status="verified" -->
+### Darnella Frazier
+> **Who:** A 17-year-old who recorded a Minneapolis police officer killing George Floyd, and whose video became the evidence at his trial · **When and where:** Minneapolis, Minnesota, 2020 to 2021
+
+On 25 May 2020 Darnella Frazier, who was 17, was walking with her nine-year-old cousin in Minneapolis. She saw police officer Derek Chauvin kneeling on the neck of George Floyd, a Black man, and she recorded it on her phone. Chauvin kept his knee on Floyd's neck for nine minutes and 29 seconds, and Floyd died.
+
+Her video played a large part in starting protests against police violence across the United States and around the world. At Chauvin's murder trial in 2021, prosecutors played the video again and again, and Frazier testified. The jury found Chauvin guilty of murder and manslaughter. The journalist Ann Marie Lipinski wrote, "There is no case without her."
+
+On 11 June 2021 the Pulitzer Prize Board, which gives yearly prizes for journalism, gave Frazier a special citation. It said her video showed "the crucial role of citizens in journalists' quests for truth and justice." Frazier said recording it was a "traumatic life-changing experience," and that she was proud she had done it.
+Shared with: `rights-movements` (the George Floyd protests) · `crime-justice` (the trial).
+<!-- hb-story:end slug="darnella-frazier" -->
+<!-- hb-zoom level="span" label="a small-town paper raided: Marion, Kansas, 2023" -->
+On 11 August 2023 Police Chief Gideon Cody of Marion, Kansas, led officers in a raid on the weekly *Marion County Record* and the home of its publisher, Eric Meyer. They took computers and reporters' phones. Cody said Meyer and reporter Phyllis Zorn had broken the law by checking a local business owner's driving record. Meyer's mother, Joan Meyer, 98, owned part of the paper. A police camera recorded her telling officers, "Get out of my house!" She died of a heart attack the next afternoon. Special prosecutors later found that no one at the paper had committed a crime. One of them charged Cody with felony obstruction of justice, accusing him of persuading a witness to hold back information.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="reporters arrested, hit and deported, 2017 to 2026" -->
+Since 2017 the U.S. Press Freedom Tracker, run by the Freedom of the Press Foundation, has counted attacks on journalists in the United States. By September 2026 it had recorded 1,487 assaults and 445 arrests or criminal charges. In 2020 and 2021 together it counted nearly 800 assaults. In 2025 it counted at least 32 journalists arrested or detained and about 170 assaulted, most while covering protests against deportations. On 9 June 2025 police in Los Angeles surrounded and detained at least 10 journalists at one protest. In January 2026 it counted at least nine assaults on journalists in the Minneapolis area, where federal agents were arresting immigrants. Most of those journalists were hit by pepper balls or pieces of stun grenades. On 15 January federal agents held the photographer John Abernathy on the ground.
+Mario Guevara, a Spanish-language reporter from El Salvador who covered immigration near Atlanta, was arrested on 14 June 2025 after livestreaming a protest. Federal officials argued that his filming of officers was a danger to public safety, and on 3 October 2025 they deported him to El Salvador. The Committee to Protect Journalists said it had never before recorded a reporter deported in the United States in revenge for reporting.
+In February 2025 White House officials barred Associated Press reporters from the press briefing room. In June 2024 Julian Assange, who had published secret documents about the US wars in Afghanistan and Iraq on his WikiLeaks website starting in 2010, pleaded guilty under the Espionage Act of 1917.
+Shared with: `immigration` (the deportation protests) · `government-politics`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="public broadcasting loses its federal money, 2025 to 2026" -->
+In July 2025 Republican members of Congress passed the Rescissions Act, which took back about $1.07 billion already promised to the Corporation for Public Broadcasting for 2026 and 2027. President Trump signed it. That money had gone to NPR, PBS and local public radio and television stations. In early January 2026 the corporation's board voted to close it after 58 years. Between July 2025 and May 2026 public stations cut about 550 jobs. Rural stations and stations run by Native nations had depended most on federal money and lost the most. Listeners gave more, and the number of people donating to public stations rose between 2024 and 2025.
+In 2025 Brendan Carr, chair of the Federal Communications Commission, pressed ABC to take the talk show *Jimmy Kimmel Live!* off the air after Kimmel talked about the man accused of killing the activist Charlie Kirk. In 2026 Carr opened an investigation of the talk show *The View* under the rule that stations must give political candidates equal time.
+Shared with: `government-politics`.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->
