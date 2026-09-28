@@ -3141,9 +3141,11 @@ RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stori
         383539 tokens, 151 tool uses, 20.8 min (opus). Eras 6-7 + bank check; Quinones story added to era 3. Verified: Stephen Foster, Francis Johnson, Ella Sheppard, Sousa, Scott Joplin. Douglass on what the songs meant (the 1836 Canaan hymn), Tubman's hymn signals, Drinking Gourd map claim recorded as disputed, Congo Square, blackface minstrelsy, the banjo's move, Fisk totals ($20,000-$150,000, dated), 1883 rules against Native dances, Carlisle band, first Native recordings 1890. 3 searched-not-found. Chapter FAIL until eras 8-10 (75 VERIFY, 14 candidates).
 
 ### 2026-09-27 | [LOCAL] T-268c | music: full research eras 8-9 (T-268d does era 10) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stories=27 (v23 c3 t1) verify_tags=19 bank=29721w outline=20399w manuscript=0w validator_errors=0
+        390166 tokens, 208 tool uses, 26.6 min (opus). Eras 8-9 + bank check. 13 verified: Bessie Smith, Armstrong, Maybelle Carter, Guthrie, Billie Holiday, Marian Anderson, DeFord Bailey (new), Elvis, Aretha Franklin, Dylan, DJ Kool Herc, Selena, Bernice Johnson Reagon (new). Who was paid: Thornton's $500 for Hound Dog, Crudup, the Lomax credit, Parker's 50%; DAR refusal; Strange Fruit and the 1930 Marion lynching; Anslinger and Holiday; payola; Motown; We Shall Overcome; 1985 lyrics hearing. 2 firsts cut, 3 searched-not-found. Dolly Parton block moved to era 10 for T-268d. TO PARK listed (burst).
 NOTE (Jon asked for a burst of 6): only 3 safe tasks exist beside the running music agent (the last 3 seed chapters), so 4 run (DECISIONS #25 amended rule). Music messaged to switch to TO PARK.
 
 ### 2026-09-27 | [LOCAL] T-269a | storytelling-evolution: full research eras 1-5 [BURST] | model opus

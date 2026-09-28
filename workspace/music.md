@@ -172,6 +172,8 @@ Companion files: outline `outlines/music.md` · research bank `research/research
 - Every other era is `full` with two or more stories. The chapter is heavily weighted to 1900–1950 (six stories) and 1950–2000 (six stories), which matches where the documented record is.
 
 ## Featured people to firm up (target/candidate)
+**T-268c update, 2026-09-28:** eras 8 and 9 are researched. Verified stories: Bessie Smith, Louis Armstrong, Maybelle Carter, DeFord Bailey (new, ordinary), Woody Guthrie, Billie Holiday, Marian Anderson (1900-1950); Elvis Presley, Aretha Franklin, Bernice Johnson Reagon (new, ordinary), Bob Dylan, DJ Kool Herc, Selena Quintanilla (1950-2000). The Dolly Parton block was moved, unchanged, to 2000-Today for T-268d. Famous-names gaps now filled in the outline: Mahalia Jackson, Lead Belly and the Lomax recordings, Charley Pride, Hawaiian steel guitar (Joseph Kekuku), Irving Berlin, Woodstock (moved out of the CD span label into its own line). Still not present: Charlie Parker and bebop; Copland or Bernstein. Cross-chapter material for other chapters is listed under "TO PARK (T-268c)" in the checkpoint (burst rule).
+
 **T-268b update, 2026-09-28:** eras 3, 6 and 7 now hold six more `verified` stories: Fray Cristóbal de Quiñones (1600s, new), Stephen Foster and Francis Johnson (1800-1850), Ella Sheppard, John Philip Sousa and Scott Joplin (1850-1900). Remaining `target` and `candidate` stories are all in eras 8 to 10.
 
 **T-268a update, 2026-09-28:** eras 1 to 5 now hold four `verified` stories: R. Carlos Nakai (before 1500, replaces the living-singer target), Harry (1700-1750, replaces the fiddler target), William Billings and Newport Gardner (1750-1800). The notes below on the targets for those two eras are history.

@@ -3,11 +3,11 @@
 # Chapter 33: Music
 
 <!-- hb-note -->
-**Status:** eras 1 to 5 RESEARCHED 2026-09-28 (T-268a). Eras 6 and 7 RESEARCHED 2026-09-28 (T-268b). Eras 8 to 10 still SEED, for the next agent.
+**Status:** eras 1 to 5 RESEARCHED 2026-09-28 (T-268a). Eras 6 and 7 RESEARCHED 2026-09-28 (T-268b). Eras 8 and 9 RESEARCHED 2026-09-28 (T-268c). Era 10 still SEED, for T-268d (the Dolly Parton block now sits in era 10).
 **Angle:** The music Americans made and listened to — who made it, where it came from, how it was recorded and sold, and who was paid.
 **Keep out:** painting, sculpture, photography, and writing (`art` — this chapter was split off from `art-music` by Jon's ruling, 2026-09-06) · film, television, and theater, including movie musicals and Broadway staging (`storytelling-evolution`, being built in parallel; song and score can be named here only where the music itself is the point) · the phonograph, the radio, and the streaming server as machines (`technology`) · records as a retail product and the label business (`marketplace`, `big-business`) · dance as fashion (`styles`)
 **Workspace:** `workspace/music.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
-**Research bank:** `research/research-music.md` (eras 1 to 7 written 2026-09-28). Stories in eras 8 to 10 are still `target` or `candidate`.
+**Research bank:** `research/research-music.md` (eras 1 to 9 written 2026-09-28). Stories in era 10 are still `target` or `candidate`.
 **Reference material:** `_reference/retired-art-music-2026-09-06/art-music-outline.md` (the seed this was split out of, retired by the director) · `_reference/retired-art-music-2026-09-06/research-art-music.md` (covers both halves).
 **Standing instruction for this chapter:** minstrelsy, the music made under slavery, and the record business's treatment of Black artists are all central here and all get told plainly, per Jon's ruling of 2026-09-06. No euphemism, no gist-summary, no leaving the reader to guess what happened.
 Editor's in-development note — not part of the final book; the parser strips it.
@@ -331,142 +331,249 @@ Between 1850 and 1900, soldiers on both sides of the Civil War marched and campe
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="music" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="music" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-This is the half-century when American music became the music the rest of the world listened to. Jazz, blues, country, and gospel were all recorded for the first time, radio carried them into houses for free, and the people who made the music and the people who owned the records were mostly not the same people.
+From 1900 to 1950, Black musicians in the South made the blues and jazz. Singers and fiddlers in the Southern mountains, white and Black, played the music later called country. Record companies began to record all three. The singers were usually paid a set fee for each side of a record, and the companies kept the rest of the money. In 1921 Americans spent $106 million on records. Radio brought music into homes for free from the 1920s. Owners and managers of clubs, hotels and halls kept Black people out. The owners of the Cotton Club in New York hired Black musicians and let in only white customers. Billie Holiday recorded "Strange Fruit," a song about Black people murdered by white mobs. Marian Anderson sang to about 75,000 people outdoors in Washington after white officials refused her two indoor halls.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Jazz comes up the river" -->
-New Orleans, then Chicago, New York, and Kansas City, carried north by the Great Migration [VERIFY; `migration` leads on the movement itself]. The first jazz record was made in 1917 by the Original Dixieland Jass Band, five white musicians playing a music Black New Orleans musicians had made; say that plainly [VERIFY the date and the label]. Louis Armstrong's Hot Five and Hot Seven recordings, 1925 to 1928 [VERIFY]. Duke Ellington's band played the Cotton Club in Harlem from 1927; the club hired Black performers and, for most of those years, admitted only white customers [VERIFY the dates and the policy].
+<!-- hb-zoom level="span" label="The first written accounts of the blues, 1901 to 1903" -->
+- In May and June of 1901 and 1902 Charles Peabody, a Harvard archaeologist, hired nine to fifteen Black men from Clarksdale, Mississippi, to dig into a Native mound in Coahoma County. The men sang while they dug. Peabody wrote in 1903 that bosses sometimes hired a strong singer just to keep the workers going. Their songs were about "hard luck," love and pay day. One went: "They had me arrested for murder / And I never harmed a man." Peabody did not call the songs blues (*Journal of American Folk-Lore*, 1903).
+- In about 1903, the Black bandleader W. C. Handy was waiting for a train at Tutwiler, Mississippi. A man beside him played a guitar by sliding a knife along the strings and sang "Goin' where the Southern cross' the Dog." The man's name was never written down. Handy later turned the song into "Yellow Dog Blues" (Mississippi Blues Trail marker).
+- Handy sold "The Memphis Blues" and all rights to it in 1912 for $100. He published "Saint Louis Blues" in 1914. With the Black banker Harry Pace he ran a company, Pace and Handy, that published music. He called himself the "Father of the Blues." The pianist Jelly Roll Morton said Handy had not started the music (Wikipedia, "W. C. Handy").
+- Gertrude "Ma" Rainey said that in 1902 a girl in Missouri sang her a sad song about a man who had left a woman, and she began singing it in her tent shows. Paramount Records' advertisements called her the "Mother of the Blues." Between 1923 and 1928 she made more than 100 records (Wikipedia, "Ma Rainey").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The blues on record, 1920" -->
-Mamie Smith recorded Crazy Blues in 1920, the first blues record by a Black singer, and it sold enough to prove there was a market [VERIFY the sales figure and the source, which is often repeated loosely]. Record companies then created what they called race records, sold separately to Black buyers [VERIFY the term's use and dates]. Bessie Smith; Ma Rainey; Robert Johnson's 1936 and 1937 sessions [VERIFY]. Find what these artists were actually paid per side and whether they held any rights [VERIFY].
+<!-- hb-zoom level="span" label="Records for Black buyers, and who was paid, 1920 to 1938" -->
+- On August 10, 1920, Mamie Smith, a Black singer, recorded "Crazy Blues" for the Okeh record company in New York. It was written by the Black songwriter Perry Bradford. In two months buyers paid a dollar each for 75,000 copies. It was the first big-selling blues record (Wikipedia, "Crazy Blues").
+- Record company managers then went looking for Black singers to sell to Black buyers. By 1922 Okeh's managers were calling these records "race records." In 1921 the Black businessman Harry Pace started Black Swan Records, which paid its singers fairly and printed their real names. Paramount took over Black Swan in 1924 (Wikipedia, "Race record").
+- Most singers got a set fee for each side of a record and no royalty. A royalty is a small payment for every copy sold, paid for as long as the record sells. Bessie Smith first got $125 a side from Columbia and no royalty (*Contemporary Musicians*).
+- Robert Johnson, a Black guitarist from Mississippi, recorded 29 songs in 1936 and 1937 in a hotel room in San Antonio and in Dallas. His best seller, "Terraplane Blues," sold about 10,000 copies. He died near Greenwood, Mississippi, on August 16, 1938, at 27. No record shows what killed him. In 1998 a Mississippi court ruled that his son, Claud Johnson, should get the royalties, which by then were more than $1 million (Wikipedia, "Robert Johnson").
+- In June 1949 the music magazine *Billboard* renamed its "race records" sales chart "rhythm and blues." The writer Jerry Wexler suggested the new name (Wikipedia, "Race record").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Country music on record, 1927" -->
-Ralph Peer recorded the Bristol sessions in Tennessee and Virginia in 1927 and signed the Carter Family and Jimmie Rodgers within days of each other [VERIFY the dates and the pay]. The Grand Ole Opry began as a Nashville radio show in 1925 [VERIFY its first name]. The songs were often collected from older singers and copyrighted by whoever recorded them [VERIFY documented cases].
-<!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Radio, records, and who got paid" -->
-Radio put music in the house for free from the 1920s and record sales collapsed in the Depression, then recovered [VERIFY the figures for both]. The 1942 to 1944 recording ban called by the musicians' union, over payment for records played on the air [VERIFY the dates and what was settled]. Song publishers, radio, and the fight between two licensing organizations in 1941 [VERIFY].
-<!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Gospel, folk, and songs about what was happening" -->
-Thomas A. Dorsey turned blues phrasing toward church music in Chicago in the 1930s and is called the father of gospel [VERIFY the claim's basis]. Woody Guthrie wrote This Land Is Your Land in 1940, including verses about private property and hungry people that are usually left out of the version children are taught; print those verses [VERIFY the manuscript and its date]. Billie Holiday recorded Strange Fruit in 1939, a song about the lynching of Black Americans; her own record company refused it and a small label released it [VERIFY the label and the account]. Say what the song is about in the same sentence as its title.
-<!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Marian Anderson at the Lincoln Memorial, 1939" -->
-The Daughters of the American Revolution refused to let Marian Anderson sing at Constitution Hall in Washington because she was Black. She sang on the steps of the Lincoln Memorial on Easter Sunday, April 9, 1939, to a crowd reported at about 75,000, with a national radio audience [VERIFY the crowd figure and the broadcast]. `rights-movements` may also carry this; check the registry and take the music side.
-<!-- /hb-zoom -->
-<!-- hb-story:start slug="louis-armstrong" name="Louis Armstrong" movie="" kind="famous" status="candidate" -->
-### Louis Armstrong
-> **Who:** Trumpeter and singer; changed how jazz was played and sung. · **When and where:** New Orleans, Chicago, New York, 1901 to 1971 [VERIFY his birth date, which he himself gave differently].
-
-Research targets: the Waif's Home where he learned cornet; the Hot Five and Hot Seven sessions; his 1957 statement about Little Rock and what it cost him [VERIFY the words and the consequences].
-<!-- hb-story:end slug="louis-armstrong" -->
-<!-- hb-story:start slug="bessie-smith" name="Bessie Smith" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="bessie-smith" name="Bessie Smith" movie="Bessie (2015)" kind="famous" status="verified" -->
 ### Bessie Smith
-> **Who:** Blues singer; among the highest-paid Black performers of the 1920s. · **When and where:** Chattanooga and touring, 1894 to 1937 [VERIFY].
-
-Research targets: what she earned and what her records earned for the company; the circumstances of her death in Mississippi in 1937, which have been told in several conflicting versions — state which are documented and which are not.
+> **Who:** A Black blues singer, the best-selling blues singer of the 1920s. · **When and where:** Born in Chattanooga, Tennessee, on April 15, 1894 (the 1900 census gives July 1892). Recorded in New York. Died near Clarksdale, Mississippi, on September 26, 1937. · **Movie:** *Bessie* (2015), an HBO drama film, with Queen Latifah as Smith
+- Both her parents died when she was a child. She and her brother Andrew sang and danced for coins on the streets of Chattanooga. In 1912 she joined a traveling show as a dancer. Ma Rainey sang in the same show (Wikipedia, "Bessie Smith").
+- Frank Walker of Columbia Records signed her in 1923. Her first record, "Down Hearted Blues," sold 780,000 copies in six months. Columbia paid her $125 for each usable side and no royalty. Later contracts paid $150 and then $200 a side, still with no royalty. Record companies paid white singers more and gave them royalties (*Contemporary Musicians*. American Blues Scene, 2015).
+- She recorded between 150 and 200 songs (the Library of Congress essay gives both numbers). On tour she earned up to $2,000 a week, and she traveled in her own railroad car (Library of Congress, Cary O'Dell. *Contemporary Musicians*).
+- On September 26, 1937, her car hit the back of a slow truck on Route 61 near Clarksdale, Mississippi. Her partner, Richard Morgan, was driving. Her right arm was almost torn off at the elbow. A white doctor from Memphis, Hugh Smith, stopped to help. She was taken to the G. T. Thomas Afro-American Hospital in Clarksdale. Doctors there amputated her arm, which means they cut it off, and she died that morning (Wikipedia).
+- The record producer John Hammond reported in 1937 that a white hospital had refused to treat her. Dr. Smith said the ambulance would never have taken her to a white hospital. Her biographer, Chris Albertson, found no evidence for Hammond's story (Wikipedia. *Contemporary Musicians*).
+- More than 10,000 people came to her funeral in Philadelphia. Her grave had no stone until 1970, when the singer Janis Joplin helped pay for one. In a lawsuit, the son of her husband tried to get her royalties from Columbia. The judges ruled against him because he had waited too long to sue (Library of Congress. American Blues Scene).
 <!-- hb-story:end slug="bessie-smith" -->
-<!-- hb-story:start slug="billie-holiday" name="Billie Holiday" movie="" kind="famous" status="candidate" -->
-### Billie Holiday
-> **Who:** Singer; recorded Strange Fruit in 1939. · **When and where:** Baltimore, New York, 1915 to 1959 [VERIFY].
-
-Research targets: who wrote Strange Fruit and under what name; the refusal by her label and the release by another; the venues that would not let her perform it; the federal drug prosecutions against her and her death under guard in a hospital [VERIFY the record].
-<!-- hb-story:end slug="billie-holiday" -->
-<!-- hb-story:start slug="maybelle-carter" name="Maybelle Carter" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Jazz on record, 1917 to 1931" -->
+- Jazz began among Black musicians in New Orleans in the early 1900s. The first jazz record was made in New York on February 26, 1917, by the Original Dixieland Jass Band, five white musicians from New Orleans. Victor's managers put it on sale in May 1917. By some counts it sold more than a million copies. The band's leader, Nick LaRocca, later claimed that he had invented jazz (John Edward Hasse, *Smithsonian*, 2017. Wikipedia).
+- A story says that Victor asked the Black New Orleans cornet player Freddie Keppard to record first, in 1915, and that he said no. Historians call it a legend (Hasse).
+- The Cotton Club in Harlem, New York, was run by Owney Madden, a gangster who sold illegal liquor. Madden's managers hired Black musicians and dancers and let in only white customers, except a few Black stars. Its dancers had to be light-skinned, at least 5 feet 6 inches tall and under 21. Duke Ellington's band played there from December 4, 1927, to June 30, 1931. At Ellington's request, the owners let in a few more Black customers (Wikipedia, "Cotton Club").
+- `migration` tells the Great Migration of Black families from the South to Chicago, New York and other cities, which carried jazz and blues north.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="louis-armstrong" name="Louis Armstrong" movie="Louis Armstrong's Black & Blues (2022)" kind="famous" status="verified" -->
+### Louis Armstrong
+> **Who:** A Black trumpet player and singer from New Orleans who changed how jazz was played and sung. · **When and where:** Born in New Orleans on August 4, 1901, by his baptism record. He always said July 4, 1900. Lived in Chicago and New York. Died in New York on July 6, 1971. · **Movie:** *Louis Armstrong's Black & Blues* (2022), a documentary about him
+- On New Year's Eve 1912, when he was 11, he fired his stepfather's gun into the air, loaded with a blank. Police arrested him. A judge sent him to the Colored Waif's Home, a reform home for Black boys. There a teacher, Peter Davis, taught him the cornet in the home's band (Wikipedia, "Louis Armstrong").
+- In 1922 the bandleader Joe "King" Oliver invited him to Chicago to play second cornet in his band. From November 1925 Armstrong made records for Okeh with his own groups, the Hot Five and the Hot Seven (Wikipedia).
+- On September 17, 1957, in Grand Forks, North Dakota, a reporter asked him about the fight over nine Black students entering Central High School in Little Rock, Arkansas. Armstrong said: "The way they are treating my people in the South, the government can go to hell." He called President Dwight Eisenhower "two faced" and said he had "no guts" (Ricky Riccardi, Louis Armstrong House Museum).
+- Staff at a radio station in Hattiesburg, Mississippi, threw out his records. Officials at the University of Arkansas cancelled his invitation to play a dance. The Black congressman Adam Clayton Powell said Armstrong "didn't know what he was talking about." After Eisenhower sent soldiers to protect the students, Armstrong sent him a telegram that said, "If you decide to walk into the schools with the little colored kids, take me along Daddy. God bless you" (Riccardi).
+<!-- hb-story:end slug="louis-armstrong" -->
+<!-- hb-zoom level="span" label="Country music on record: Bristol, 1927" -->
+- From July 25 to August 5, 1927, Ralph Peer of the Victor record company recorded 76 songs by 19 singers and groups in an empty hat factory in Bristol, Tennessee. Each performer got $50 in cash for each side, plus 2½ cents for each record sold. The Carter Family recorded on August 1 and 2, and Jimmie Rodgers on August 4 (Wikipedia, "Bristol sessions").
+- Peer took no salary from Victor. He kept the copyright of the songs he recorded, including very old songs that no one had written down. A copyright is the legal right to be paid when a song is printed, recorded or played. He started Southern Music Publishing in 1928 to collect that money (Wikipedia, "Ralph Peer").
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="maybelle-carter" name="Maybelle Carter" movie="The Carter Family: Will the Circle Be Unbroken (2005)" kind="famous" status="verified" -->
 ### Maybelle Carter
-> **Who:** Guitarist and singer of the Carter Family, recorded at Bristol in 1927. · **When and where:** Virginia and Nashville, 1909 to 1978 [VERIFY].
-
-Research targets: the guitar style named after her and how it worked; where the family's songs came from and who was credited for them; what the Bristol sessions paid.
+> **Who:** Guitarist and singer in the Carter Family, who changed how the guitar is played in country music. · **When and where:** Born May 10, 1909, in Nickelsville, Virginia. Recorded at Bristol, Tennessee, in 1927 at age 18. Died October 23, 1978, in Hendersonville, Tennessee. · **Movie:** *The Carter Family: Will the Circle Be Unbroken* (2005), a PBS *American Experience* documentary about the family
+- She sang with Sara Carter and A. P. Carter. At Bristol in August 1927 each of them was paid Victor's rate of $50 a side and 2½ cents a record (Wikipedia, "Bristol sessions").
+- She picked out the tune with her thumb on the low strings and brushed the chords with her fingers on the high strings. Her way made the guitar a lead instrument. People call it the "Carter scratch." She first recorded "Wildwood Flower" in 1928 (Wikipedia, "Maybelle Carter").
+- From December 1928 A. P. Carter went looking for old songs in the mountains of Virginia and Tennessee with Lesley Riddle, a Black guitarist from North Carolina. Riddle had lost his right leg at the knee in an accident at a cement plant in 1927. Carter wrote down the words while Riddle remembered the tunes and taught them to Maybelle and Sara (Wikipedia, "Lesley Riddle").
+- A. P. Carter copyrighted many of the songs they found, and Ralph Peer's company published them. No record shows that Riddle was paid or named as a writer. Maybelle said she learned guitar runs from him, including the ones in "Cannonball Blues" (Wikipedia. Search record).
+- Later she led a group with her daughters, Mother Maybelle and the Carter Sisters. From 1968 she toured with her son-in-law, Johnny Cash (Wikipedia).
 <!-- hb-story:end slug="maybelle-carter" -->
-<!-- hb-story:start slug="woody-guthrie" name="Woody Guthrie" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="The Grand Ole Opry, from 1925" -->
+- George D. Hay started a Saturday night country music show called the *WSM Barn Dance* on November 28, 1925, on a Nashville radio station owned by the National Life and Accident Insurance Company. The first player was a 77-year-old fiddler, Uncle Jimmy Thompson (Wikipedia, "Grand Ole Opry").
+- On December 10, 1927, after a program of opera music, Hay said "from now on, we will present 'The Grand Ole Opry.'" He said it after the Black harmonica player DeFord Bailey played his "Pan American Blues." From 1939 to 1956 one hour of the show went out across the country on the NBC radio network (Wikipedia. Country Music Hall of Fame).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="deford-bailey" name="DeFord Bailey" movie="DeFord Bailey: A Legend Lost (2002)" kind="ordinary" status="verified" -->
+### DeFord Bailey
+> **Who:** A Black harmonica player and the first star of the Grand Ole Opry. · **When and where:** Born December 14, 1899, in Smith County, Tennessee. Played on Nashville radio from 1926 to 1941. Died July 2, 1982. · **Movie:** *DeFord Bailey: A Legend Lost* (2002), a Nashville Public Television documentary about him
+- Polio struck him at age three. Polio is a disease caused by a virus that can damage the nerves that move the muscles. It stunted his growth and left his back bent. His family played what he called "Black hillbilly music" (Country Music Hall of Fame).
+- He played on the *WSM Barn Dance* from June 1926. His playing was the reason George D. Hay gave the show the name Grand Ole Opry in December 1927 (Country Music Hall of Fame. Wikipedia).
+- Sources disagree about his pay. One says he got a fixed $5 a show, less than the white players he toured with. The Country Music Hall of Fame says he was one of the best-paid stars on the show (Wikipedia, "DeFord Bailey". Country Music Hall of Fame).
+- On tour in the South with white stars such as Roy Acuff, Bill Monroe and Uncle Dave Macon, hotels and restaurants would not serve him because he was Black. Other players brought him food or got him into hotels by the fire escape (Wikipedia).
+- In 1941 most radio stations stopped playing songs licensed by ASCAP, a group that collected money for songwriters, after it raised its fees. Station managers at WSM told Bailey not to play his ASCAP songs, which were his most popular ones. They fired him at the end of 1941 (Country Music Hall of Fame. Wikipedia, "Broadcast Music, Inc.").
+- In 1945 Hay wrote a book about the show. He called Bailey "lazy" and wrote that he "refused to learn new tunes" (George D. Hay, *A Story of the Grand Ole Opry*, 1945). Bailey later said that Hay had treated him kindly and wrote those words to please his bosses (Saving Country Music, 2025).
+- After 1941 Bailey ran a shoeshine stand in Nashville and rented out rooms. He almost never played in public again until 1974. In 2005 he was named to the Country Music Hall of Fame (Country Music Hall of Fame).
+<!-- hb-story:end slug="deford-bailey" -->
+<!-- hb-zoom level="span" label="Radio, the Depression and two fights over pay, 1921 to 1944" -->
+- Americans spent $106 million on records in 1921. They did not spend that much again until 1945 (*Phonograph Boom*, University of Michigan Press). In the early 1930s record sales fell to about one tenth of what they had been in the 1920s. People who had lost jobs in the Great Depression stopped buying records, and radio music was free (IASA).
+- In 1939 radio station owners started their own song-licensing group, BMI, after ASCAP, the older group, announced higher fees. In 1941 almost every station and all three national networks stopped playing ASCAP songs. ASCAP had turned away most writers of blues, gospel, country and Latin music. BMI signed them, and radio played more of their songs (Wikipedia, "Broadcast Music, Inc.").
+- On August 1, 1942, James Petrillo, head of the musicians' union, told its members to stop making records. He wanted musicians paid when radio stations and jukeboxes played records instead of hiring live bands. Decca's owners agreed in September 1943 to pay a fee on every record into a union fund. The heads of Victor and Columbia agreed on November 11, 1944. Singers were allowed to keep recording with voices only, so for two years singers made records without bands (Wikipedia, "1942-1944 musicians' strike").
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Gospel, shape notes and field recordings" -->
+- Thomas A. Dorsey had played piano for Ma Rainey as "Georgia Tom." In August 1932 his wife Nettie and their newborn son died, and he wrote "Take My Hand, Precious Lord." That year he started the first Black-owned company to publish gospel music, and in 1933 a national convention of gospel choirs. He led the music at Pilgrim Baptist Church in Chicago for fifty years. He said, "I'm not ashamed of my blues. It's all the same talent" (Wikipedia, "Thomas A. Dorsey").
+- Mahalia Jackson came to Chicago from New Orleans in 1927, and Dorsey trained her. She would sing only gospel, even when managers at Decca offered to keep recording her if she sang blues. Her "Move On Up a Little Higher" (1947) sold about two million copies (Wikipedia, "Mahalia Jackson").
+- In 1934 Judge Jackson, a Black singing teacher in Ozark, Alabama, printed *The Colored Sacred Harp*, a book of 77 shape-note hymns by Black singers. Eighteen were his own. He and Bishop J. D. Walker paid to print 1,000 copies, and Jackson sold them door to door (Wikipedia, "Judge Jackson").
+- From 1933 John Lomax and his son Alan recorded Black singers in Southern prisons for the Library of Congress. John Lomax said he wanted music "not yet influenced by jazz and the radio." At Angola prison in Louisiana they recorded Huddie Ledbetter, called Lead Belly, who was serving time for stabbing a man in a fight. He was let out in 1934. A prison official wrote that his singing had nothing to do with his release (Wikipedia, "John Lomax" and "Lead Belly").
+- John Lomax then managed Lead Belly and took part of his pay. They split over money in 1935. Lomax's book of 1936 printed Lead Belly's song "Goodnight, Irene" with both men named as writers, though Lomax had recorded it, not written it. In 1950, a year after Lead Belly died, a group called the Weavers sold 2 million copies of it (Wikipedia, "Goodnight, Irene". American Blues Scene, 2014).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Native songs, Hawaiian guitar and a new songwriter" -->
+- On March 28, 1900, the Carlisle Indian School band played the "Aboriginal Suite" at Carnegie Hall in New York. Its composer and conductor, Dennison Wheelock, was an Oneida man and Carlisle's first Native bandmaster. He later became a lawyer and argued cases for Native nations before the Supreme Court (Wikipedia, "Dennison Wheelock").
+- Scientists recorded thousands of Native songs on wax cylinders. By the 1980s the Library of Congress held nearly 8,000 of these cylinders. Many held sacred songs meant only for ceremonies. One collector, Francis La Flesche, took singers from Oklahoma to Washington so that neighbors who objected could not stop him recording ceremonial songs. No record shows the singers were paid (*Cultural Survival Quarterly*). From 1907 Frances Densmore recorded songs of the Ojibwe, Sioux, Mandan, Hidatsa, Tohono O'odham, Seminole and other nations for the Smithsonian (Wikipedia, "Frances Densmore").
+- In 1889 Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played this steel guitar in theaters across the mainland United States. Congress had annexed Hawaii, making it American land, in 1898 (Wikipedia, "Joseph Kekuku". `america-world` bank).
+- Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key. His "Alexander's Ragtime Band" was a hit in 1911. He gave all the money from "God Bless America" (1938) to the Boy Scouts and Girl Scouts. He owned his own songs through his own company (Wikipedia, "Irving Berlin"). `immigration` tells his arrival.
+- In 1906 John Philip Sousa wrote that records and player pianos were becoming a "substitute for human skill, intelligence and soul." He called records "canned music" (Kat Eschner, *Smithsonian*, 2017). In 1909 Congress passed a copyright law that let anyone record a song without asking, as long as they paid the song's owner a set fee (Wikipedia, "Copyright Act of 1909").
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="woody-guthrie" name="Woody Guthrie" movie="Bound for Glory (1976)" kind="famous" status="verified" -->
 ### Woody Guthrie
-> **Who:** Songwriter of the Dust Bowl migration and the Depression. · **When and where:** Oklahoma, Texas, California, New York, 1912 to 1967 [VERIFY].
-
-Research targets: the 1940 manuscript of This Land Is Your Land and its unsung verses; the songs he wrote for federal projects and what he was paid; his years of illness with Huntington's disease. `migration` leads on the Dust Bowl move itself.
+> **Who:** A folk singer and songwriter who wrote about poor farm families, workers and migrants in the 1930s and 1940s. · **When and where:** Born July 14, 1912, in Okemah, Oklahoma. Lived in Texas, California and New York. Died October 3, 1967, in New York. · **Movie:** *Bound for Glory* (1976), a Hollywood film based loosely on his own book about his life
+- His mother, Nora, had Huntington's disease and was put in a hospital. Huntington's is a disease passed down in families. It destroys parts of the brain, causing movements a person cannot control, changes in mood, and loss of the ability to think (Wikipedia. MedlinePlus Genetics).
+- In the 1930s he joined the farm families who left the drought-stricken Great Plains for California. He sang on a Los Angeles radio station, KFVD, and in 1940 made the album *Dust Bowl Ballads* for Victor (Wikipedia). `migration` tells the Dust Bowl move itself.
+- On February 23, 1940, in a New York hotel, he wrote "This Land Is Your Land." He wrote it as an answer to Irving Berlin's "God Bless America," which he heard over and over on the radio. His first title was "God Blessed America for Me" (Wikipedia, "This Land Is Your Land").
+- His handwritten copy had two verses that were often left out later. One is about a sign that says "No Trespassing." In the other, hungry people stand in line at a relief office, a place that gave out food or money to the poor, near a church (Wikipedia).
+- In May 1941 the Bonneville Power Administration, a federal agency that sold power from dams on the Columbia River, hired him for one month for $266. His boss, Stephen Kahn, wanted three pages of songs a day for a film about the dams. Guthrie wrote 26 songs, among them "Roll On, Columbia." Kahn later said the government never got "a better investment on its money" (Robert C. Carriker, *Columbia Magazine*, 2001).
+- On his guitar he wrote "This machine kills fascists." He served in the Merchant Marine in the Second World War (Wikipedia).
+- Doctors found that he had Huntington's disease in 1952. He spent his last years in hospitals in New Jersey and New York and died at Creedmoor hospital in New York in 1967, at 55 (Wikipedia).
 <!-- hb-story:end slug="woody-guthrie" -->
-<!-- hb-story:start slug="marian-anderson" name="Marian Anderson" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Strange Fruit, 1939" -->
+- "Strange Fruit" is a song about the lynching of Black Americans. Lynching means a mob killing a person without a trial, often by hanging. The song describes Black people's bodies hanging from trees in the South, their eyes bulging and mouths twisted, and the smell of burning flesh (Wikipedia, "Strange Fruit").
+- Abel Meeropol, a white English teacher in the Bronx, wrote it under the name Lewis Allan. He wrote it after he saw a photograph of the lynching of Thomas Shipp and Abram Smith in Marion, Indiana (Wikipedia).
+- On August 7, 1930, a white mob of between 5,000 and 10,000 people broke into the jail in Marion. The mob wanted three young Black men in the jail who had been accused of killing a white man and sexually assaulting a white woman. Men in the mob beat Shipp and Smith, both 19, and hanged them. People in the crowd took pieces of their bodies home. A third prisoner, James Cameron, 16, was beaten but lived when someone in the crowd said he was innocent. The NAACP named 27 men it suspected. All-white juries found the leaders not guilty (Equal Justice Initiative).
+- Billie Holiday first sang it at Café Society in New York in 1939. She sang it last, the waiters stopped serving, and the room went dark except for a light on her face. Managers at Columbia would not record it. John Hammond, her producer there, said Southern record stores and radio stations would object. Milt Gabler of the small Commodore label recorded it on April 20, 1939. It became her best-selling record (Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="billie-holiday" name="Billie Holiday" movie="Billie (2019)" kind="famous" status="verified" -->
+### Billie Holiday
+> **Who:** A Black jazz singer who recorded "Strange Fruit," a song about lynching, in 1939. · **When and where:** Born Eleanora Fagan on April 7, 1915, in Philadelphia. Grew up in Baltimore. Sang in New York. Died July 17, 1959, in New York. · **Movie:** *Billie* (2019), a documentary about her
+- At nine she was sent to the House of the Good Shepherd, a Catholic reform school for girls in Baltimore, for missing school. As a young girl she ran errands in a brothel, a house where men paid women for sex, and scrubbed floors (Wikipedia, "Billie Holiday").
+- In 1938 she sang with Artie Shaw's white band. At the Lincoln Hotel in New York the managers made her use the service elevator because white guests complained. She left the band (Wikipedia).
+- Harry Anslinger ran the Federal Bureau of Narcotics, the government's drug police, from 1930 to 1962. On May 16, 1947, federal agents arrested Holiday for having narcotics in her New York apartment. She pleaded guilty, and a federal judge sent her to the Alderson Federal Prison Camp in West Virginia. She said: "It was called 'The United States of America versus Billie Holiday'. And that's just the way it felt" (Wikipedia. `drugs-alcohol` bank).
+- Because of the conviction, New York City officials took away her cabaret card, the license a performer needed to work in any club that sold alcohol. After that she could sing in New York only in concert halls and theaters. In January 1949 the federal agent George White arrested her again, in a San Francisco hotel (Wikipedia).
+- The writer Johann Hari wrote in 2015 that Anslinger's agents went after her from 1939 because she sang "Strange Fruit." The jazz writer Lewis Porter points out that no earlier source says this (Wikipedia).
+- In 1959 she was in Metropolitan Hospital in New York with liver and heart disease. On May 31, federal narcotics agents arrested her in her hospital bed and handcuffed her to it. Police guarded her room until a judge ordered the handcuffs taken off. She died there on July 17, 1959, at 44, with 70 cents in the bank. Her liver was scarred, a disease called cirrhosis, and her heart failed (Wikipedia. John H. Halpern and David Blistein, *TIME*, 2019).
+<!-- hb-story:end slug="billie-holiday" -->
+<!-- hb-zoom level="span" label="Marian Anderson at the Lincoln Memorial, 1939" -->
+- In January 1939 Howard University asked to rent Constitution Hall in Washington for an Easter concert by Marian Anderson, a Black singer. The hall belonged to the Daughters of the American Revolution (DAR), a women's club. Its leaders refused. Since 1932 the club had let only white performers use the hall (FDR Library. National Archives).
+- Frank Ballou, the head of Washington's public schools, also refused her the hall of Central High School, a white school. The school board backed him (Jessie Kratz, National Archives, 2022).
+- First Lady Eleanor Roosevelt quit the DAR on February 26, 1939. She wrote that its leaders had "an opportunity to lead in an enlightened way" and had "failed" (FDR Library).
+- Harold Ickes, the Secretary of the Interior, set up a free concert on the steps of the Lincoln Memorial. On Easter Sunday, April 9, 1939, Anderson sang there to more than 75,000 people, and millions more heard her on the radio. She began with "My Country, 'Tis of Thee" (Wikipedia. FDR Library). `rights-movements` tells the concert as a rights event, and `landmarks` tells the memorial.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="marian-anderson" name="Marian Anderson" movie="Marian Anderson: The Lincoln Memorial Concert (1939)" kind="famous" status="verified" -->
 ### Marian Anderson
-> **Who:** Contralto; sang at the Lincoln Memorial in 1939 after being refused a concert hall. · **When and where:** Philadelphia, Europe, Washington, 1897 to 1993 [VERIFY].
-
-Research targets: the exact refusal and who made it; the crowd and broadcast figures; her 1955 Metropolitan Opera debut and her age at it.
+> **Who:** A Black contralto, a singer with a low woman's voice, who sang at the Lincoln Memorial in 1939 and was the first Black singer at the Metropolitan Opera. · **When and where:** Born February 27, 1897, in Philadelphia. Died April 8, 1993, in Portland, Oregon. · **Movie:** *Marian Anderson: The Lincoln Memorial Concert* (1939), a short film of the concert
+- As a young woman she applied to a music school in Philadelphia. The school's officials turned her away because they took only white students (Wikipedia, "Marian Anderson").
+- She became famous singing in Europe. In Salzburg, Austria, in 1935 the conductor Arturo Toscanini told her she had "a voice heard once in a hundred years" (Wikipedia).
+- In 1939 the DAR's president, Sarah Corbin Robert, and its leaders kept her out of Constitution Hall. She sang outdoors at the Lincoln Memorial instead, on April 9, 1939 (Wikipedia. FDR Library).
+- On January 7, 1955, at 57, she became the first Black singer to perform at the Metropolitan Opera in New York. She sang Ulrica, a fortune teller, in Verdi's opera *Un ballo in maschera* (Wikipedia).
+- She sang at the March on Washington in August 1963. That year she was given the Presidential Medal of Freedom (Wikipedia).
 <!-- hb-story:end slug="marian-anderson" -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="music" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="music" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Teenagers with money became the customer the record business worked for. Rock and roll, soul, country, and hip-hop were each built by particular people in particular places, and each one was sold widest by someone other than the people who built it. By the end of the century American music was the largest single share of what the world listened to.
+Black musicians made rock and roll in the early 1950s out of rhythm and blues and gospel. White singers then sold more copies of some of their songs. Big Mama Thornton said she got one check for $500 for "Hound Dog." Record company owners, publishers and managers kept most of the money from many of these songs. In Detroit, Berry Gordy built Motown into the largest Black-owned business on *Black Enterprise* magazine's list. Civil rights marchers sang old church songs with new words, in jails and at mass meetings. In the Bronx in 1973, a teenage DJ and his sister held a party that people now name as the start of hip-hop. In 1985 senators held a hearing on song lyrics, and the heads of record companies agreed to put warning labels on some albums.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Rock and roll, and who got paid for it" -->
-Rock and roll came out of rhythm and blues played by Black musicians: Chuck Berry, Little Richard, Fats Domino, Big Mama Thornton, Sister Rosetta Tharpe [VERIFY each artist's claim and dates]. White artists recorded cover versions of Black records and outsold the originals on national charts; give at least two documented pairs with the sales figures [VERIFY]. Big Mama Thornton recorded Hound Dog in 1952 and Elvis Presley's 1956 version sold far more; find both figures and what each artist was paid [VERIFY]. Sun Records in Memphis; the payola hearings of 1959 and 1960 and what they were actually about [VERIFY].
+- Sister Rosetta Tharpe, a Black gospel singer from Arkansas, played electric guitar in church music from the late 1930s. Her "Strange Things Happening Every Day" (1944) was the first gospel record to reach the rhythm and blues sales chart, and some writers call it the first rock and roll record. Wikipedia names her as an influence on Elvis Presley, Little Richard, Chuck Berry and Johnny Cash (Wikipedia, "Sister Rosetta Tharpe").
+- Fats Domino's "The Fat Man" (1949) sold a million copies by 1951. Chuck Berry's "Maybellene" (1955) sold more than a million. When Berry first saw the record, the label named the disc jockey Alan Freed and another man as co-writers, so they got part of his writer's pay. Berry later won back full credit (Wikipedia, "Fats Domino" and "Chuck Berry").
+- White singers made cover versions, which means new recordings of songs other singers had already recorded. In 1955 Georgia Gibbs, a white singer, copied LaVern Baker's "Tweedle Dee" note for note. Baker's record reached No. 14 on the national pop chart, and Gibbs's reached No. 1. Baker tried to sue Gibbs for $250,000 and failed. She asked Congress to make copying another singer's arrangement illegal, and Representative Charles Diggs led an inquiry into "song theft" (Wikipedia, "LaVern Baker").
+- Pat Boone's 1955 cover of Fats Domino's "Ain't That a Shame" was Boone's first No. 1 record. Domino and his co-writer Dave Bartholomew still earned writers' royalties from it. Boone's cover of Little Richard's "Tutti Frutti" ranked higher on the national pop chart than Little Richard's own record (Wikipedia).
+- Little Richard said Specialty Records cut his royalty rate without telling him. In 1984 he sued the company and its owner, Art Rupe, for $112 million in unpaid royalties. They settled out of court in 1986 (Wikipedia, "Little Richard").
+- Payola is paying a disc jockey or radio station in secret to play a record. In 1959 and 1960 a House committee led by Representative Oren Harris held hearings on it. Alan Freed refused to sign a statement that he had taken no bribes, and the station WABC fired him in November 1959. He pleaded guilty to commercial bribery in 1962 and paid a $300 fine. In 1960 Congress made payola a crime punished by up to a year in jail. The older song publishers in ASCAP pushed for the hearings partly because they opposed rock and roll (Wikipedia, "Payola" and "Alan Freed").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Motown, soul, and gospel" -->
-Motown was founded in Detroit in 1959 with a small loan and became the most successful Black-owned business in the country [VERIFY the loan figure, the founding date, and the claim]. Its house band played on the hits and went uncredited for years [VERIFY]. Ray Charles, Sam Cooke, James Brown, Aretha Franklin — and the church singing all four came out of [VERIFY each]. Sam Cooke owned his own publishing and label, which was rare; find out how rare [VERIFY].
+<!-- hb-zoom level="span" label="Hound Dog: Big Mama Thornton and Elvis Presley" -->
+- Jerry Leiber and Mike Stoller, two white songwriters, wrote "Hound Dog." Willie Mae "Big Mama" Thornton, a Black blues singer from Alabama, recorded it on August 13, 1952. Don Robey's Peacock Records released it in 1953, and it was No. 1 on the rhythm and blues chart for seven weeks. Robey guessed it sold 500,000 to 750,000 copies (Wikipedia, "Hound Dog (song)").
+- Thornton said: "That song sold over two million records. I got one check for $500 and never saw another." Robey put his own name on the copyright form as a writer (Wikipedia).
+- Presley recorded "Hound Dog" for RCA on July 2, 1956. It was No. 1 on the pop chart for 11 weeks and sold about 10 million copies. He copied the version of a white Las Vegas band, Freddie Bell and the Bellboys, more than Thornton's. Leiber and Stoller got large royalties only after Presley's record (Wikipedia).
+- Thornton died poor in a Los Angeles boarding house in 1984, of heart and liver disease. She was buried in a grave shared with two other people (Wikipedia, "Big Mama Thornton").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Folk revival and protest songs" -->
-The folk revival of the late 1950s and 1960s; Bob Dylan; Joan Baez; the songs sung on marches and in jails during the civil rights movement, and where those songs came from [VERIFY; `rights-movements` leads on the marches]. The 1963 March on Washington performances [VERIFY who sang].
+<!-- hb-story:start slug="elvis-presley" name="Elvis Presley" movie="Elvis (2022)" kind="famous" status="verified" -->
+### Elvis Presley
+> **Who:** A white singer from Mississippi and Tennessee, the best-selling rock and roll singer of the 1950s. · **When and where:** Born January 8, 1935, in Tupelo, Mississippi. Moved to Memphis, Tennessee, in 1948. Died August 16, 1977, at his Memphis home, Graceland, at 42. · **Movie:** *Elvis* (2022), a Hollywood drama film about him and his manager
+- He first heard music at his family's Assembly of God church. In Memphis he listened to Black blues and rhythm and blues singers on the radio (Wikipedia, "Elvis Presley").
+- Sam Phillips owned Sun Records in Memphis. He recorded Black blues musicians such as Howlin' Wolf and B. B. King. His office manager, Marion Keisker, said he often told her: "If I could find a white man who had the Negro sound and the Negro feel, I could make a billion dollars" (Encyclopedia.com, "Sam Phillips").
+- On the night of July 5, 1954, at Sun, Presley sang "That's All Right," a blues song by the Black singer Arthur Crudup. Phillips recorded it (Wikipedia).
+- Crudup had recorded the song for RCA in 1946. He said later: "I realised I was making everybody rich, and here I was poor." A publisher backed out of a $60,000 settlement in 1968 at the last moment. In 1971 a songwriters' group got him more than $10,000 in back pay. He died in 1974 (Wikipedia, "Arthur Crudup").
+- In November 1955 Phillips and Presley's manager, Colonel Tom Parker, sold Presley's contract to RCA for $40,000 (Wikipedia).
+- Parker took 25 percent of Presley's pay. In 1967 Presley agreed to raise Parker's share to 50 percent on some of his income. In 1973 Parker sold RCA the rights to all of Presley's old records for $5.4 million, so Presley's family got no royalties on them after he died. In 1981 a lawyer appointed by a court to check Parker's work called the 50 percent share "extortionate" (Wikipedia, "Colonel Tom Parker").
+- Presley served in the Army from 1958 to 1960. Estimates of his record sales are about 500 million worldwide (Wikipedia).
+<!-- hb-story:end slug="elvis-presley" -->
+<!-- hb-zoom level="span" label="Motown, soul and gospel" -->
+- On January 12, 1959, Berry Gordy Jr., a Black songwriter in Detroit, started a record company, later called Motown, with an $800 loan from his family's savings fund. From 1960 to 1969, 79 Motown songs reached the top ten of the national pop chart (Wikipedia, "Motown").
+- In 1973 the magazine *Black Enterprise* began ranking the largest Black-owned businesses. Motown was first, with $40 million in sales, and it stayed first until 1983 (*Black Enterprise*). Gordy sold Motown in 1988 for $61 million (Wikipedia).
+- A group of Detroit studio musicians later called the Funk Brothers played on most Motown hits from 1959 to 1972. No Motown record listed their names until Marvin Gaye's *What's Going On* in 1971. Gordy fined players he caught recording for other companies (Wikipedia, "The Funk Brothers").
+- Ray Charles, blind since he was about seven, mixed gospel and blues in "I Got a Woman" (1954), and some church people objected. In 1961 he refused to play a dance in Augusta, Georgia, when he learned the audience would be split by race. The promoter sued him, and a Georgia court fined him $757. His 1959 contract with ABC-Paramount gave him ownership of his own master recordings, the original tapes that every copy is made from (Wikipedia, "Ray Charles").
+- Sam Cooke, a gospel singer from Mississippi, started his own record company and his own song-publishing company. From 1963 his own company owned his master recordings. Wikipedia counts him among the first Black artists to control his own business. A Los Angeles motel manager, Bertha Franklin, shot and killed him on December 11, 1964. A coroner's jury called it justifiable homicide, a killing the law excuses, and his family has disputed that account (Wikipedia, "Sam Cooke").
+- James Brown paid for the recording of his album *Live at the Apollo* himself in 1963. On April 5, 1968, the day after Martin Luther King Jr. was killed, he gave a free televised concert in Boston. His "Say It Loud, I'm Black and I'm Proud" came out in August 1968 (Wikipedia, "James Brown").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Country from Nashville, and the Bakersfield answer" -->
-Hank Williams; Patsy Cline; Johnny Cash and the 1968 Folsom Prison recording [VERIFY]; Loretta Lynn's songs about the lives of working women, several of which radio stations refused to play [VERIFY which and why]; Dolly Parton; the Bakersfield sound as a deliberate reaction against the Nashville studio style [VERIFY]. Country radio's treatment of women artists is measurable and should be given as numbers [VERIFY the studies and their dates].
+<!-- hb-story:start slug="aretha-franklin" name="Aretha Franklin" movie="Amazing Grace (2018)" kind="famous" status="verified" -->
+### Aretha Franklin
+> **Who:** A Black singer and pianist who recorded "Respect" in 1967. · **When and where:** Born March 25, 1942, in Memphis, Tennessee. Grew up in Detroit, Michigan. Died there August 16, 2018. · **Movie:** *Amazing Grace* (2018), a documentary film of her 1972 gospel concert in a Los Angeles church
+- Her father, the Reverend C. L. Franklin, led New Bethel Baptist Church in Detroit, and she sang there as a child. At 14 she recorded a gospel album, *Songs of Faith* (1956) (Wikipedia, "Aretha Franklin").
+- She had her first child at 12 and her second at 15 (Wikipedia).
+- She recorded for Columbia from 1960 to 1966 with few hits. The producer Jerry Wexler brought her to Atlantic Records. In January 1967 she recorded for one day at FAME Studios in Muscle Shoals, Alabama, before a fight in the studio ended the session (Wikipedia).
+- Otis Redding wrote and recorded "Respect" in 1965. In his song a man wants respect when he comes home. Franklin recorded it on February 14, 1967, in New York. She and her sister Carolyn made it a woman's demand, spelled out "R-E-S-P-E-C-T" and added new lines. It was No. 1 on the pop chart for two weeks and on the rhythm and blues chart for eight. Many women and civil rights marchers took it as their own song. Redding said it was the song "that a girl took away from me" (Wikipedia, "Respect (song)").
+- In 1970 the Black activist Angela Davis was jailed. Franklin said, "Angela Davis must go free" (Wikipedia).
+- In January 1972 she recorded the gospel album *Amazing Grace* at New Temple Missionary Baptist Church in Los Angeles. It sold more than two million copies. The film made at the same time was not shown until 2018 because the sound and the pictures could not be matched (Wikipedia. AFI).
+- In 1987 she became the first woman named to the Rock and Roll Hall of Fame (Wikipedia).
+<!-- hb-story:end slug="aretha-franklin" -->
+<!-- hb-zoom level="span" label="Songs of the civil rights movement" -->
+- "We Shall Overcome" started as a church hymn by Charles Albert Tindley, printed in 1901. In 1945 and 1946 Black tobacco workers went on strike at a cigar factory in Charleston, South Carolina, and one of them, Lucille Simmons, led the strikers in singing "We Will Overcome." Zilphia Horton of the Highlander Folk School in Tennessee learned it from her. Pete Seeger changed "will" to "shall," and Guy Carawan taught it to young civil rights workers from 1959 (Wikipedia, "We Shall Overcome").
+- On March 7, 1965, Alabama state troopers and other officers attacked about 600 marchers in Selma, Alabama, with nightsticks and tear gas (`rights-movements` bank). In a speech on March 15, President Lyndon Johnson told Congress, "And we shall overcome." In January 2018, after a court case, the owners of the company that held the song's copyright gave it up, and the song became free for anyone to use (Wikipedia). `rights-movements` tells the marches.
+- Members of SNCC, the Student Nonviolent Coordinating Committee, formed the Freedom Singers in 1962 after the protests in Albany, Georgia. They drove 50,000 miles in nine months to sing about the movement, and their first tour raised nearly $50,000 for SNCC (SNCC Digital Gateway).
+- On August 28, 1963, at the March on Washington, Mahalia Jackson, Marian Anderson, Joan Baez, Bob Dylan, Odetta, and Peter, Paul and Mary sang. During Martin Luther King Jr.'s speech, Jackson called out, "Tell them about the dream, Martin!" (Wikipedia, "March on Washington for Jobs and Freedom").
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="bernice-johnson-reagon" name="Bernice Johnson Reagon" movie="" kind="ordinary" status="verified" -->
+### Bernice Johnson Reagon
+> **Who:** A Black student in Albany, Georgia, who led singing at civil rights meetings and sang with the SNCC Freedom Singers. · **When and where:** Born October 4, 1942, in Albany, Georgia. Died July 16, 2024.
+- She joined the NAACP Youth Council in Albany before SNCC workers arrived there in the fall of 1961. Officials at Albany State College suspended her for her part in the protests (SNCC Digital Gateway).
+- At mass meetings she led the singing. She took old spirituals and changed the words to fit the protests. She said: "So instead I put in freedom and by the second line everyone was singing" (SNCC Digital Gateway).
+- In 1962 she joined the Freedom Singers, with Cordell Reagon, Rutha Mae Harris and Chuck Neblett. She married Cordell Reagon. She said of the group's songs, "There weren't soloists, there were song leaders," and called the group "a singing newspaper" (SNCC Digital Gateway).
+- In 1973 she started Sweet Honey in the Rock, a group of Black women who sing without instruments. She later worked for the Smithsonian Institution recording and studying Black American songs and stories (SNCC Digital Gateway).
+<!-- hb-story:end slug="bernice-johnson-reagon" -->
+<!-- hb-story:start slug="bob-dylan" name="Bob Dylan" movie="No Direction Home: Bob Dylan (2005)" kind="famous" status="verified" -->
+### Bob Dylan
+> **Who:** A songwriter of the folk music revival of the early 1960s and after, and winner of the Nobel Prize in Literature. · **When and where:** Born Robert Allen Zimmerman on May 24, 1941, in Duluth, Minnesota. Grew up in Hibbing, Minnesota. Moved to New York in 1961. · **Movie:** *No Direction Home: Bob Dylan* (2005), a documentary by Martin Scorsese
+- He moved to New York in January 1961, partly to meet Woody Guthrie, who was then in a mental hospital in New Jersey with Huntington's disease (Wikipedia, "Bob Dylan").
+- His 1963 album *The Freewheelin' Bob Dylan* made his name as a writer of protest songs. At the March on Washington that August he sang "Only a Pawn in Their Game" (Wikipedia).
+- At the Newport Folk Festival in 1965 he played an electric guitar with a band, and leading people in folk music reacted with anger (Wikipedia).
+- In 2016 he won the Nobel Prize in Literature "for having created new poetic expressions within the great American song tradition" (Wikipedia).
+<!-- hb-story:end slug="bob-dylan" -->
+<!-- hb-zoom level="span" label="Country music from Nashville and Bakersfield" -->
+- Hank Williams learned guitar as a boy in Alabama from a Black street musician, Rufus "Tee-Tot" Payne, who taught him for money or meals. He had 12 No. 1 country records. He was born with a defect of the spine that caused him pain all his life, and he drank and took painkillers. Grand Ole Opry managers dropped him in August 1952 for drunkenness and missed shows. His heart failed in the back seat of a car on January 1, 1953, while he was being driven to a show. He was 29 (Wikipedia, "Hank Williams").
+- Patsy Cline recorded "Crazy," by Willie Nelson, in 1961. She died in a plane crash near Camden, Tennessee, on March 5, 1963, at 30. In 1973 she became the first woman in the Country Music Hall of Fame (Wikipedia, "Patsy Cline").
+- In the late 1950s Buck Owens, Merle Haggard and other musicians in Bakersfield, California, played a loud, plain country music with electric guitars. It was a break from the Nashville records of those years, which added orchestras. Many of their listeners were children of Dust Bowl families (Wikipedia, "Bakersfield sound").
+- Johnny Cash recorded two concerts for prisoners at Folsom State Prison in California on January 13, 1968. The album ends with "Greystone Chapel," a song by a prisoner, Glen Sherley. It sold 500,000 copies by October 1968. Cash himself never served a prison sentence (Wikipedia, "At Folsom Prison").
+- Loretta Lynn's "The Pill" (1975) is about a wife tired of being pregnant who starts taking birth-control pills. Managers at some country radio stations refused to play it. It still reached No. 5 on the country chart (Wikipedia, "The Pill (song)").
+- In 1967 Charley Pride, the son of Black sharecroppers from Sledge, Mississippi, became the first Black performer on the Grand Ole Opry since DeFord Bailey left in 1941. RCA's staff sent his first records to radio stations without his photograph. He had 30 No. 1 country records and was named Entertainer of the Year by the Country Music Association in 1971 (Wikipedia, "Charley Pride").
+- Dolly Parton's life and songs are told in 2000 to Today.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Hip-hop from the Bronx, 1973 onward" -->
-A back-to-school party at 1520 Sedgwick Avenue in the Bronx on August 11, 1973, where DJ Kool Herc extended the drum breaks on two copies of the same record, is the event usually named as the start [VERIFY the date and the account, and note that origin stories like this are always partly convention]. Grandmaster Flash and Afrika Bambaataa; Rapper's Delight in 1979 as the first rap record to sell widely [VERIFY]; The Message in 1982 [VERIFY]. In the same years the South Bronx had lost thousands of housing units to fires and disinvestment; the music and the place belong in the same paragraph [VERIFY the figures; `city-building` leads].
+- On August 11, 1973, Clive Campbell, a teenage DJ called Kool Herc, played records at a party at 1520 Sedgwick Avenue in the Bronx, New York. His sister Cindy Campbell planned the party to earn money for back-to-school clothes. In 2007 city officials named the building the birthplace of hip-hop (Wikipedia, "DJ Kool Herc").
+- In the same years, fires burned much of the South Bronx. Most were arson. Landlords paid local people to set fires in their buildings so they could collect insurance money. After a study by the RAND Corporation, city officials closed 12 fire companies in the South Bronx between 1974 and 1976, when the city was nearly broke. Between 1970 and 1980, seven census tracts, small areas the census counts separately, lost more than 97 percent of their buildings to fire and abandonment. About 250,000 people lost their homes (Wikipedia, "1970s South Bronx building fires"). `city-building` tells the fires.
+- "Rapper's Delight" by the Sugarhill Gang, released on September 16, 1979, by Sylvia Robinson's Sugar Hill Records, reached No. 36 on the national pop chart. Many writers call it the first rap record sold widely. It used the music of Chic's "Good Times," and Chic's writers, Nile Rodgers and Bernard Edwards, got credit only after they threatened to sue. One of its rappers used rhymes written by Grandmaster Caz and did not credit him (Wikipedia, "Rapper's Delight").
+- "The Message" (1982), by Grandmaster Flash and the Furious Five, described poverty in the inner city. In 2002 it became the first hip-hop record added to the National Recording Registry, the Library of Congress's list of recordings chosen to be preserved (Wikipedia, "The Message").
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Television, cassettes, and compact discs" -->
-MTV began on August 1, 1981, and in its first two years played almost no Black artists; the change and who forced it is documented [VERIFY]. Cassettes and home taping; the compact disc from 1982 and 1983 and the reselling of catalogs people already owned [VERIFY dates]. Woodstock in August 1969 and the crowd figure, which is usually given as about 400,000 [VERIFY who counted]. The 1985 Senate hearing on record labeling and what came of it [VERIFY].
-<!-- /hb-zoom -->
-<!-- hb-story:start slug="dolly-parton" name="Dolly Parton" movie="" kind="famous" status="candidate" -->
-### Dolly Parton
-> **Who:** Singer and songwriter from Tennessee. · **When and where:** Tennessee; died August 25, 2026. · **Sourcing:** one source in hand — nothing below the first paragraph has been checked.
-
-**What the one source actually says.** Representative Tim Burchett of Tennessee's 2nd district issued a statement dated Tuesday, August 25, 2026, which opens: "Today, Tennessee lost one of our greatest ambassadors in Dolly Parton." The statement credits her music and her philanthropic work on education access for young Tennesseans. It gives no age, no birth date, no cause of death, and it names no songs, films, or awards. Source: [Statement on the Passing of Dolly Parton, Rep. Tim Burchett](https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton).
-
-**Everything below this line is a research target, not a fact this book has checked.** A research agent sources each item with a date and a citation, or the item comes out. Jon asked for as many of the things she did as can be verified, so the list is long on purpose [VERIFY every line].
-
-- Birth date, birthplace, parents, and the number of children in the family; the Sevier County childhood she described in interviews and in her own songs.
-- When she moved to Nashville, her first recording contract, and her first charting record.
-- The years on the Porter Wagoner television show, how that partnership began, and how it ended.
-- Her songwriting: how many songs she wrote in total, and which of the famous ones she wrote alone — Coat of Many Colors, Jolene, I Will Always Love You, 9 to 5, and others. Give the writing date and the first release date for each.
-- Whitney Houston's 1992 recording of I Will Always Love You: the sales, and what Parton received as the writer.
-- Her recording career in numbers: albums released, singles charted, number-one country singles, and the years of the first and last.
-- Awards and honors: Grammy wins and nominations with years; Country Music Association awards; the Kennedy Center Honors; the Rock and Roll Hall of Fame induction and her public response to being nominated; the Presidential Medal of Freedom — check carefully whether it was received, offered, or declined, because the record on this is specific.
-- Film and television: 9 to 5 (1980) and the theme song she wrote for it; The Best Little Whorehouse in Texas; Steel Magnolias; her television specials and made-for-television films. Verify every title and year before naming it, and route the film-and-television telling to `storytelling-evolution` rather than repeating it here.
-- Dollywood: the year it opened, where it is, who owns it, how many people it employs, and what it pays in wages — sourced figures only, no estimates.
-- The Dollywood Foundation and the Imagination Library: the year it began, how the book-mailing works, how many books have been sent, how many children are enrolled, and which countries it operates in.
-- Her 2020 gift to Vanderbilt University Medical Center and its role in the research behind a COVID-19 vaccine: verify the amount, the date, exactly what the money funded, and how the connection was reported, because this one is widely repeated in a loose form.
-- Her giving after the 2016 Gatlinburg wildfires: the fund's name, the monthly payment, the number of families, and the total.
-- Her business ownership: her publishing company, her stake in her own catalog, and what she did about the rights to her songs.
-- Her literacy and education work in Tennessee beyond the Imagination Library, which is what the Burchett statement actually points at.
-- The death itself: date, place, cause, and her age. The Burchett statement gives only the date, and only by implication. Find a primary announcement from the family or estate and at least two major obituaries before writing a single sentence about it.
-- Whether a documentary about her exists that could carry a `> **Movie:**` line. Do not name one until it is verified; the `movie` attribute on this block stays empty until then.
-<!-- hb-story:end slug="dolly-parton" -->
-<!-- hb-story:start slug="elvis-presley" name="Elvis Presley" movie="" kind="famous" status="candidate" -->
-### Elvis Presley
-> **Who:** Singer; the biggest-selling performer of rock and roll's first decade. · **When and where:** Tupelo, Memphis, 1935 to 1977 [VERIFY].
-
-Research targets: the Sun sessions and what he recorded first; the Black artists and gospel singers whose records and styles he took from, named individually [VERIFY]; his manager's contract terms; the sales figures, sourced.
-<!-- hb-story:end slug="elvis-presley" -->
-<!-- hb-story:start slug="aretha-franklin" name="Aretha Franklin" movie="" kind="famous" status="candidate" -->
-### Aretha Franklin
-> **Who:** Singer and pianist; recorded Respect in 1967. · **When and where:** Memphis, Detroit, Muscle Shoals, New York, 1942 to 2018 [VERIFY].
-
-Research targets: her father's Detroit church and what she recorded there as a teenager; the 1967 Muscle Shoals session; what Respect changed from the Otis Redding original and why that mattered; the 1972 gospel album and the film of it.
-<!-- hb-story:end slug="aretha-franklin" -->
-<!-- hb-story:start slug="bob-dylan" name="Bob Dylan" movie="" kind="famous" status="candidate" -->
-### Bob Dylan
-> **Who:** Songwriter of the folk revival and after; Nobel Prize in Literature, 2016 [VERIFY]. · **When and where:** Minnesota, New York, 1941 onward [VERIFY].
-<!-- hb-story:end slug="bob-dylan" -->
-<!-- hb-story:start slug="dj-kool-herc" name="DJ Kool Herc" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="dj-kool-herc" name="DJ Kool Herc" movie="" kind="famous" status="verified" -->
 ### DJ Kool Herc
-> **Who:** Born Clive Campbell in Jamaica; the DJ at the 1973 Bronx party usually named as hip-hop's start. · **When and where:** Kingston to the Bronx, 1967 onward [VERIFY his dates].
-
-Research targets: what he actually did with the two turntables and why it mattered; his sister Cindy Campbell's part in organizing the party, which is documented and often left out; what he earned from hip-hop afterward.
+> **Who:** Born Clive Campbell in Jamaica, the DJ at the 1973 Bronx party that people name as the start of hip-hop. · **When and where:** Born April 16, 1955, in Kingston, Jamaica. Moved to the Bronx, New York, in November 1967, at 13.
+- At parties he played funk records on two turntables. He used two copies of the same record, so when the "break," the part with only drums, ended on one, he started it again on the other. That made a short drum break last as long as he wanted. He called this the "Merry-Go-Round" (Wikipedia, "DJ Kool Herc").
+- He called the dancers who danced to the breaks "b-boys" and "b-girls" (Wikipedia).
+- His sister Cindy Campbell planned the August 11, 1973, party at 1520 Sedgwick Avenue, to raise money for back-to-school clothes (Wikipedia).
+- He was stabbed at a club called the Executive Playhouse while trying to stop a fight, and he pulled back from playing. By 1980 he had stopped working as a DJ. The records do not show what he earned from hip-hop (Wikipedia).
 <!-- hb-story:end slug="dj-kool-herc" -->
-<!-- hb-story:start slug="selena-quintanilla" name="Selena Quintanilla" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Music television, compact discs, Woodstock and the lyrics hearing" -->
+- The organizers of the Woodstock music festival, on Max Yasgur's dairy farm in Bethel, New York, from August 15 to 18, 1969, expected about 50,000 people. Estimates of the crowd run from 400,000 to more than 460,000, and no source names who counted. The fences were not finished, so the festival became free. Three people died: two from drug overdoses, and a 17-year-old who was run over by a tractor while he slept (Wikipedia, "Woodstock").
+- The MTV channel began on August 1, 1981. Its managers said it played rock, and they played few Black artists. In 1983 Walter Yetnikoff, president of CBS Records, threatened to pull all CBS videos unless MTV played Michael Jackson's "Billie Jean." MTV began playing it often in March 1983 (Wikipedia, "MTV").
+- Compact disc players went on sale in Japan on October 1, 1982, and in the United States in March 1983 (Wikipedia, "Sony CDP-101").
+- In 1985 Tipper Gore, Susan Baker and two other women in Washington started the Parents Music Resource Center to warn parents about sex, violence and drugs in songs. On September 19, 1985, the Senate Commerce Committee held a hearing. The musicians Frank Zappa, Dee Snider and John Denver spoke against labels. On November 1, 1985, the heads of the record companies agreed to put warning labels on some albums, and in 1990 they began using a standard "Parental Advisory" sticker. Managers at Walmart and some other stores would not sell albums with the sticker (Wikipedia, "Parents Music Resource Center").
+- In 1978 Congress passed the American Indian Religious Freedom Act. Its members wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned" (Public Law 95-341, from the `religion` bank). The rules against Native dances of 1883 could be used until then.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="selena-quintanilla" name="Selena Quintanilla" movie="Selena (1997)" kind="famous" status="verified" -->
 ### Selena Quintanilla
-> **Who:** Tejano singer; the best-selling Latin artist of the 1990s [VERIFY the claim]. · **When and where:** Texas, 1971 to 1995 [VERIFY].
-
-Research targets: the Texas Tejano circuit she grew up playing; her sales figures; her murder in 1995 by the manager of her fan club, stated plainly with the court record; the album released after her death and what it sold.
+> **Who:** A Mexican American singer of Tejano music, the Spanish-language music of Texas. · **When and where:** Born April 16, 1971, in Lake Jackson, Texas. Killed March 31, 1995, in Corpus Christi, Texas, at 23. · **Movie:** *Selena* (1997), a Hollywood drama film about her, with Jennifer Lopez
+- She sang with her brother and sister in their father Abraham Quintanilla Jr.'s band, Selena y Los Dinos. She learned the Spanish words of her songs by their sound, with her father's help (Wikipedia, "Selena").
+- She won the Tejano Music Award for Female Vocalist of the Year in 1987 and in each of the next nine years. In 1994 she won a Grammy Award for her album *Live!* (Wikipedia).
+- Yolanda Saldívar ran her fan club and managed her clothing stores. Saldívar had secretly taken money from the business, more than $30,000 or more than $60,000 by different counts. Selena meant to fire her (Wikipedia, "Selena" and "Murder of Selena").
+- On March 31, 1995, at a Days Inn motel in Corpus Christi, Saldívar shot Selena with a revolver as Selena tried to leave the room. Selena ran to the lobby and named Saldívar. She died at the hospital that afternoon from loss of blood. Saldívar gave herself up to police more than nine hours later (Wikipedia, "Murder of Selena").
+- Saldívar was convicted of murder and sentenced to life in prison. On March 27, 2025, members of the Texas parole board refused to let her out and set her next review for March 2030 (Texas Public Radio).
+- Between 30,000 and 40,000 people came to see her coffin. Her album *Dreaming of You* came out after her death, and she became the first Latin artist whose album entered the national album chart at No. 1 (Wikipedia).
 <!-- hb-story:end slug="selena-quintanilla" -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -504,4 +611,29 @@ Research targets: the sale of her master recordings and the terms; the re-record
 ### (target) a working musician in the streaming era
 A musician who is not famous and who has published their own figures — streaming payouts, tour costs, what a night's work pays. Interviews, union surveys, and testimony to Congress are all real sources. Use their numbers, name them, and do not average several people into one.
 <!-- hb-story:end slug="target-working-musician" -->
+<!-- hb-story:start slug="dolly-parton" name="Dolly Parton" movie="" kind="famous" status="candidate" -->
+### Dolly Parton
+> **Who:** Singer and songwriter from Tennessee. · **When and where:** Tennessee; died August 25, 2026. · **Sourcing:** one source in hand — nothing below the first paragraph has been checked.
+
+**What the one source actually says.** Representative Tim Burchett of Tennessee's 2nd district issued a statement dated Tuesday, August 25, 2026, which opens: "Today, Tennessee lost one of our greatest ambassadors in Dolly Parton." The statement credits her music and her philanthropic work on education access for young Tennesseans. It gives no age, no birth date, no cause of death, and it names no songs, films, or awards. Source: [Statement on the Passing of Dolly Parton, Rep. Tim Burchett](https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton).
+
+**Everything below this line is a research target, not a fact this book has checked.** A research agent sources each item with a date and a citation, or the item comes out. Jon asked for as many of the things she did as can be verified, so the list is long on purpose [VERIFY every line].
+
+- Birth date, birthplace, parents, and the number of children in the family; the Sevier County childhood she described in interviews and in her own songs.
+- When she moved to Nashville, her first recording contract, and her first charting record.
+- The years on the Porter Wagoner television show, how that partnership began, and how it ended.
+- Her songwriting: how many songs she wrote in total, and which of the famous ones she wrote alone — Coat of Many Colors, Jolene, I Will Always Love You, 9 to 5, and others. Give the writing date and the first release date for each.
+- Whitney Houston's 1992 recording of I Will Always Love You: the sales, and what Parton received as the writer.
+- Her recording career in numbers: albums released, singles charted, number-one country singles, and the years of the first and last.
+- Awards and honors: Grammy wins and nominations with years; Country Music Association awards; the Kennedy Center Honors; the Rock and Roll Hall of Fame induction and her public response to being nominated; the Presidential Medal of Freedom — check carefully whether it was received, offered, or declined, because the record on this is specific.
+- Film and television: 9 to 5 (1980) and the theme song she wrote for it; The Best Little Whorehouse in Texas; Steel Magnolias; her television specials and made-for-television films. Verify every title and year before naming it, and route the film-and-television telling to `storytelling-evolution` rather than repeating it here.
+- Dollywood: the year it opened, where it is, who owns it, how many people it employs, and what it pays in wages — sourced figures only, no estimates.
+- The Dollywood Foundation and the Imagination Library: the year it began, how the book-mailing works, how many books have been sent, how many children are enrolled, and which countries it operates in.
+- Her 2020 gift to Vanderbilt University Medical Center and its role in the research behind a COVID-19 vaccine: verify the amount, the date, exactly what the money funded, and how the connection was reported, because this one is widely repeated in a loose form.
+- Her giving after the 2016 Gatlinburg wildfires: the fund's name, the monthly payment, the number of families, and the total.
+- Her business ownership: her publishing company, her stake in her own catalog, and what she did about the rights to her songs.
+- Her literacy and education work in Tennessee beyond the Imagination Library, which is what the Burchett statement actually points at.
+- The death itself: date, place, cause, and her age. The Burchett statement gives only the date, and only by implication. Find a primary announcement from the family or estate and at least two major obituaries before writing a single sentence about it.
+- Whether a documentary about her exists that could carry a `> **Movie:**` line. Do not name one until it is verified; the `movie` attribute on this block stays empty until then.
+<!-- hb-story:end slug="dolly-parton" -->
 <!-- hb-time:end id="2000-today" -->

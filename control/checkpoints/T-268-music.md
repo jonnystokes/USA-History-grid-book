@@ -1,13 +1,13 @@
 # CHECKPOINT T-268 | music | full | T-268a: eras 1-5
 
-STATUS: T-268b landed (director verified: FAIL  music / research)
+STATUS: T-268c landed (director verified: FAIL  music / research)
 VERIFY: python tools/project_state.py --check music --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/music.md · research/research-music.md · workspace/music.md
 
-NOW:    T-268c unit 8 (research era 08) IN PROGRESS (2026-09-28)
-NEXT:   T-268c: research era 08 (1900-1950) one unit at a time, then eras 9-10 (may be split), then the bank check for them, then confirm every era's progress flag and run --check. Start from the SEED text in outlines/music.md eras 8-10 and `python tools/slice_bank.py music --eras 8-10`. Carry forward: (1) Sousa's 1906 'canned music' testimony (his story is in era 07; a span in era 08 can quote it); (2) Dennison Wheelock's 'Suite Aboriginal', Carnegie Hall, March 1900 (search summary only); (3) W. C. Handy at Tutwiler about 1903, Ma Rainey, Charles Peabody 1903 (first written blues accounts); (4) Mary Sheakley's Tlingit clan song, about 1900 (Thornton et al. 2019); (5) Judge Jackson's Colored Sacred Harp (1934); (6) Ernest Hogan's The Oyster Man (1907); (7) the T-268a items still open: 20th-century Native songs recorded and sold without right (eras 8-9, park strong ones to native-nations), Dargan's Lining Out the Word (Dr. Watts hymns), Dolly Parton the flagship (eras 9-10); (8) workspace famous-names gaps (Mahalia Jackson, Leadbelly and the Lomax recordings, Irving Berlin, Charley Pride, Hawaiian music). Remaining after T-268b: 75 [VERIFY], 14 candidates, 1 target, all in eras 8-10.
+NOW:    T-268c finished (2026-09-28)
+NEXT:   T-268d: research era 10 (2000-today) in outlines/music.md, then the bank check for era 10, then confirm all ten progress flags and run --check. Remaining: 19 [VERIFY] (all in era 10), 3 candidates (Taylor Swift, Kendrick Lamar, Dolly Parton), 1 target (working musician). DOLLY PARTON is the flagship: her block now sits in era 10 (moved unchanged from era 09 by T-268c); research her whole life there (birth 1946, Sevier County, Porter Wagoner, songwriting, 'I Will Always Love You', Dollywood, Imagination Library, Vanderbilt gift, catalog ownership, the death on Aug. 25, 2026 from a family/estate announcement plus two obituaries, a verified documentary for the Movie line). Rewrite the era-10 span 'Dolly Parton's death, 2026', which still says her career is seeded in 1950-2000 (era 09 now carries only a pointer line to era 10). Also for era 10: country radio and women artists as numbers (studies from 2019 on, e.g. Jada Watson); Saldivar's parole (perishable, next review March 2030); Kool Herc Rock Hall 2023; Dylan's catalog sale (2020). Burst rule may still apply: check with the director before writing other chapters' banks.
 
 ## BURST (Jon, 2026-09-27): burst of three (holidays, art, music)
 
@@ -44,9 +44,9 @@ for those eras. T-268b does eras 6-10 later (it may be split further).
 
 | # | unit | state | landed (note) |
 |---|------|-------|---------------|
-| 8 | research era 08 (1900-1950): outline + bank, clear [VERIFY], resolve every candidate | in progress | |
-| 9 | research era 09 (1950-2000): same; move the Dolly Parton block to era 10 for T-268d | todo | |
-| 10 | bank check eras 8-9, validator, research check, NEXT for T-268d | todo | |
+| 8 | research era 08 (1900-1950): outline + bank, clear [VERIFY], resolve every candidate | done | progress=researched, 0 [VERIFY]; 7 verified stories (Bessie Smith, Armstrong, Maybelle Carter, DeFord Bailey NEW, Guthrie, Holiday, Anderson); bank section 'Era 08' |
+| 9 | research era 09 (1950-2000): same; move the Dolly Parton block to era 10 for T-268d | done | progress=researched, 0 [VERIFY]; 6 verified stories (Presley, Franklin, Bernice Johnson Reagon NEW, Dylan, Kool Herc, Selena); Dolly block moved unchanged to era 10 |
+| 10 | bank check eras 8-9, validator, research check, NEXT for T-268d | done | 'PATCH 2026-09-28 (T-268c)' section at end of bank; check FAIL only on era 10 |
 
 ## SUBJECT NOTES (from the director)
 
@@ -66,6 +66,12 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 The 1600s may take a story: Fray Cristobal de Quinones (trained Pueblo singers, d. 1609) is sourced in the bank.
 The next music agent adds him as a verified hb-story in era 03 if the bank supports every record line and no other
 chapter tells him. Eras with no story are allowed, so this is optional.
+
+## TO PARK (T-268c) (for the director to file; burst rule: T-268c wrote no other chapter's files)
+- `drugs-alcohol`, era 08-09: Federal Bureau of Narcotics and Billie Holiday. Arrested May 16, 1947 (NY apartment), pleaded guilty May 27, Alderson Federal Prison Camp; lost NYC Cabaret Card; arrested Jan 22, 1949, Hotel Mark Twain, San Francisco, by George Hunter White; May 31, 1959, FBN agents arrested her in her bed at Metropolitan Hospital and handcuffed her to it, police guard until a judge ordered the cuffs off; died July 17, 1959, 44, cirrhosis/heart failure (Wikipedia "Billie Holiday"; Halpern and Blistein, TIME, Aug. 12, 2019: "Anslinger ordered agents ... to storm into her room"). Hari (2015) says the FBN targeted her from 1939 over "Strange Fruit"; Lewis Porter disputes (Wikipedia). Full entry in research/research-music.md, Era 08.
+- `crime-justice`, era 08: Marion, Indiana, August 7, 1930: white mob of 5,000-10,000 broke into the Grant County Jail; Thomas Shipp and Abram Smith, both 19, beaten and hanged; James Cameron, 16, survived, later convicted as accessory (four years), pardoned 1993; NAACP named 27 suspects, all-white juries acquitted the leaders (EJI calendar, Aug. 7).
+- `native-nations`, eras 07-08: Federal Cylinder Project (Cultural Survival Quarterly): LOC holds about 10,000 cylinders, nearly 8,000 Native; many sacred songs; Francis La Flesche took Oklahoma singers to Washington so objecting neighbors could not stop the recording. Oglala Lakota Sun Dance cylinders (Fletcher, Mar. 31, 1896; George Fire Thunder, Thunder Bear) returned to the Oglala Sioux Tribe (Indian Country Today, search summary only). Dennison Wheelock (Oneida) Aboriginal Suite, Carnegie Hall, Mar. 28, 1900 (Wikipedia).
+- `work-workers`, era 08: 1942-1944 American Federation of Musicians recording ban (Petrillo; Decca Sept. 1943, Victor/Columbia Nov. 11, 1944; per-record payments to a union fund) (Wikipedia).
 
 ## TO PARK (FILED by the director, 2026-09-27)
 - `slavery-freedom`, era 04 (1700-1750): the 1739 "Account of the Negroe Insurrection in South Carolina" (text at latinamericanstudies.org/slavery/stono.htm): "Some Angola Negroes assembled, to the number of Twenty; and one who was called Jemmy was their Captain"; "calling out Liberty, marched on with Colours displayed, and two Drums beating"; captured men "shot on the Spot"; the account's own count "about 40 Negroes and 20 whites were killed" (differs from their bank's 25 white and 35-50 rebels). Full entry in `research/research-music.md` era 04.
@@ -125,3 +131,11 @@ chapter tells him. Eras with no story are allowed, so this is optional.
     measured: stage=PARTIAL eras=10/10 stories=25 (v10 c14 t1) verify_tags=75 bank=18047w outline=13561w manuscript=0w validator_errors=0
     eras with no story: 1500s
   validate_grid: music.md : 1 chapters, 25 stories, 0 errors
+- 2026-09-28 T-268c unit 8 era 08 DONE: progress=researched, 0 [VERIFY], validator 0 errors, 26 stories. Sources: Peabody 1903 JAF (archive.org full text), MS Blues Trail marker (Tutwiler), Wikipedia (Handy, Rainey, Crazy Blues, Race record, R. Peer, Bristol sessions, M. Carter, L. Riddle, Grand Ole Opry, DeFord Bailey, BMI, 1942-44 strike, Dorsey, M. Jackson, Judge Jackson, Lead Belly, J. Lomax, Goodnight Irene, Guthrie, This Land, Strange Fruit, Meeropol, Holiday, Anderson, Cotton Club, ODJB, Armstrong, R. Johnson, Kekuku, Densmore, Wheelock, Berlin, Copyright Act 1909), CMHOF DeFord Bailey, Saving Country Music 2025, Encyclopedia.com (Contemporary Musicians), LOC NRR O'Dell essay, American Blues Scene 2014/2015, Hasse Smithsonian 2017, Eschner Smithsonian 2017, Riccardi Dippermouth (Little Rock), EJI calendar Aug 7, FDR Library, NARA Prologue (Kratz 2022), NARA American Originals, TIME 2019, Biography.com 2021, Carriker Columbia Magazine 2001, Cultural Survival Quarterly (Federal Cylinder Project), Michigan Press Phonograph Boom intro, IASA, MedlinePlus. SNF: Native song sold without right (1900-2000); Lesley Riddle pay/credit. Left out: see bank "Era 08 outline notes".
+- 2026-09-28 T-268c unit 9 era 09 DONE: progress=researched, 0 [VERIFY]. Sources: Wikipedia (Tharpe, Domino, Berry, Little Richard, Tutti Frutti, Ain't That a Shame, LaVern Baker, Cover version, Hound Dog, Big Mama Thornton, Presley, Crudup, Col. Parker, Payola, Freed, Motown, Funk Brothers, Cooke, R. Charles, J. Brown, Franklin, Respect, We Shall Overcome, March on Washington, Dylan, Hank Williams, Cline, At Folsom Prison, The Pill, Pride, Bakersfield sound, Kool Herc, Rapper's Delight, The Message, 1970s South Bronx fires, MTV, Sony CDP-101, Woodstock, PMRC, Selena, Murder of Selena), Encyclopedia.com (Sam Phillips), Black Enterprise (Motown BE100), SNCC Digital Gateway (Freedom Singers; B. J. Reagon), Texas Public Radio 2025, religion bank (AIRFA 1978), rights-movements bank (Bloody Sunday). SNF: Kool Herc's earnings. Cut: Dylan "first songwriter" Nobel; Selena "best-selling Latin artist of the 1990s"; "largest share of world listening"; cassettes.
+- 2026-09-28 T-268c unit 10 DONE: bank check PATCH (harms/actors, land, firsts, perishables, seed claims cut). Final: see report.
+  FAIL  music / research
+    measured: stage=PARTIAL eras=10/10 stories=27 (v23 c3 t1) verify_tags=19 bank=29721w outline=20399w manuscript=0w validator_errors=0
+    eras with no story: 1500s
+  validate_grid: music.md : 1 chapters, 27 stories, 0 errors
+  All remaining [VERIFY], candidates and the target are in era 10 (T-268d).
