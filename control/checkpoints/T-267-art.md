@@ -1,13 +1,13 @@
 # CHECKPOINT T-267 | art | full | T-267a: eras 1-5
 
-STATUS: T-267c landed (director verified: FAIL  art / research)
+STATUS: T-267d landed (director verified: PASS  art / research)
 VERIFY: python tools/project_state.py --check art --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/art.md · research/research-art.md · workspace/art.md
 
-NOW:    T-267c finished (2026-09-28). Eras 01-09 researched and bank-checked (01-05 T-267a, 06-07 T-267b, 08-09 T-267c).
-NEXT:   T-267d: research era 10 (2000-today) only: outline + bank, clear its 10 [VERIFY] tags, resolve Sherald and Wiley (candidates) and the platform-era target, write the cutoff sentence, then the bank check for era 10, then check every era's progress flag and run the research check (it should then PASS). Start from workspace/art.md section 'T-267c research pass' ('For T-267d'): Wilder medal renamed June 23, 2018 (sourced in bank era 08 section), AIDS Quilt count to re-check, O'Keeffe 2014 and Warhol 2022 auction records, Chicano Park NHL 2016, Dinner Party at Brooklyn; plus T-267b's perishable list (MFA Boston Drake return 2025, Audubon name vote 2023, Fort Marion headstones). Era 10's NAGPRA span repeats the 1990 law, which era 09 now carries: keep era 10 to the 2024 rule and counts.
+NOW:    T-267d finished 2026-09-28. All ten eras researched and bank-checked. Research check PASS. Eras 01-09 researched and bank-checked (01-05 T-267a, 06-07 T-267b, 08-09 T-267c).
+NEXT:   Director: commit; decide the Kehinde Wiley accusations question (bank era 10 director's note); chapter is ready for the writing step.
 
 ## BURST (Jon, 2026-09-27): burst of three (holidays, art, music)
 
@@ -48,6 +48,14 @@ for those eras. T-267b does eras 6-10 later (it may be split further).
 | c2 | research era 09 (1950-2000): outline + bank, clear [VERIFY], source or resolve Pollock, Warhol, Parks, Ringgold, Morrison; test CIA and abstract expressionism, Chicano Park, AIDS quilt, NEA 1989-90, Scholder/Cannon, IACA 1990, Maya Lin, NAGPRA 1990, Fred Wilson 1992, Hansberry | done | era 09 progress=researched, 0 [VERIFY]; 5 stories verified (Pollock, Warhol, Parks, Ringgold, Morrison), all with movies but Ringgold; spans: AbEx + CIA (Saunders 1995, Jameson, Braden; McComas on the other side), Pop + Scull sale 1973, murals (Wall of Respect, Chicano Park), Dinner Party argument, Michael Stewart 1983, AIDS Quilt (1,920 then; ~50,000 now), NEA 1989-90 (Serrano, Mapplethorpe, Corcoran, Cincinnati, NEA Four), Native (Howe 1958, Scholder both sides, Cannon, IACA 1990 penalties, NAGPRA 1990, Mining the Museum 1992, Maya Lin pointer), Frank, Rockwell 1964, writers. Era 08 additions: Advancing American Art 1946-48, Lottie Stamper 1940 |
 | c3 | bank check, eras 08-09 | done | 'Bank check, eras 08-09' section: PATCHes (The Harp, Harlem Hospital, Grapes of Wrath dates, land, firsts, perishable, removal actors) + 4 SEARCHED NOT FOUND (who ordered The Harp destroyed; which officers impounded Lange's photos; how many post office murals still hang; Scholder's Native critics in their own words); hard-subject actor list; parked to crime-justice, health, native-nations |
 | c4 | final for eras 08-09: validator, research check, NEXT for T-267d | done | validator 0 errors; research check FAIL expected (era 10 seed): verify_tags=10, c2, t1, all in era 10; personification pass done on eras 08-09 |
+
+### T-267d units (era 10, and the chapter's final checks)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| d1 | research era 10 (2000-today): outline + bank, clear 10 [VERIFY], source or resolve Sherald, Wiley, platform-era target; test NAGPRA 2024 and museum closures, monuments as art objects, murals after 2020 and BLM Plaza, Jeffrey Gibson, AI images, federal arts funding 2025-26, Kennedy Center, Smithsonian; carry Wilder 2018, Quilt count, auction records, Chicano Park NHL, Dinner Party, MFA Drake 2025, Audubon 2023, Fort Marion headstones | done | era 10 progress=researched, 0 [VERIFY] in chapter; stories kehinde-wiley (movie An Economy of Grace 2014), amy-sherald, jeffrey-gibson (new), kelly-mckernan (target resolved, ordinary) all verified; validator 0 errors |
+| d2 | bank check, era 10 | done | 'Bank check, era 10' section: PATCHes (museums that covered displays, firsts, perishable, land, hard-subject actors) + 4 SEARCHED NOT FOUND (museum count; Fort Marion headstones installed; why McKernan left the suit; which NPG officials questioned Sherald's painting); parked Kennedy Center to music, NAGPRA counts to native-nations |
+| d3 | final: every era's progress flag, validator, research check | done | all 10 eras progress=researched and matching; validator 0 errors; PASS art / research (v34 c0 t0, bank 38467w, outline 19199w) |
 
 ## SUBJECT NOTES (from the director)
 
@@ -107,3 +115,5 @@ See the bank. Main ones: Encyclopedia of Oklahoma History (Spiro); NPS HOCU admi
 - 2026-09-28 T-267c era 08 1900-1950 DONE: bank section 'Era 08' (Armory Show EBSCO/AIC archive; Savage: Fontainebleau 1923, NY World quote, school, Guild, HCAC 70,592, The Harp 1939-40; FAP: Britannica $23.50/wk, 5,000+ peak, relief rolls; Black artists 'routinely denied work', Harlem Hospital murals 1936; Treasury Section ~1,400 murals, Safford; Douglas, Van Der Zee, Hughes, Hurston ($943.75, welfare home, unmarked grave to 1973); Lawrence; Lange 1936 with Thompson's 1978 words and the tire dispute; Lange 1942 800+ photos, Army/WRA suppression, Impounded 2006; O'Keeffe; Wood; Hopper; Rockwell; De Cora; Dunn's Studio (Houser vs Montoya); IACB 1935; Martinez; Grapes of Wrath Kern County ban). Outline era 08 rewritten, progress=researched, 0 [VERIFY], 6 stories verified. Validator 0 errors.
 - 2026-09-28 T-267c era 09 1950-2000 DONE: bank section 'Era 09' plus 'Era 08 additions'. Outline era 09 rewritten, progress=researched, 0 [VERIFY], 5 stories verified. Validator 0 errors. Unsourced bits cut: Greenberg 'first' claim (quote kept as search summary), T. C. Cannon argument, Morrison's Random House end year, Whitney protest year (Wikipedia says 1968 for the committee, arrest 1970).
 - 2026-09-28 T-267c bank check eras 08-09 DONE and final: see units c3-c4. Parked under '## Parked from `art` (2026-09-28, T-267c)' in research-crime-justice.md, research-health.md, research-native-nations.md. Workspace section 'T-267c research pass' added. Validator 0 errors. Research check FAIL (era 10 seed only).
+- 2026-09-28 T-267d d1 part 1: bank section 'Era 10: 2000 to Today' written (Pew phones; Obama portraits; Wiley with Rumors of War and the 2024 accusations flagged for the director; Sherald and the July 24, 2025 NPG withdrawal; Kara Walker both sides, A Subtlety, Unmanned Drone; MONUMENTS 2025-26; BLM Plaza 2020 and its March 2025 removal; George Floyd street-art archive; NAGPRA 2024 rule, AMNH/Field/Cleveland, NPS FY2025 counts published May 29, 2026; MFA Boston Drake jars Oct 29, 2025; Jeffrey Gibson Venice 2024; auction records O'Keeffe/Kahlo/Warhol/Pollock 2026; Beeple; Thaler cert denied March 2, 2026; Andersen docket Sept 2026; Kelly McKernan (target story); self-publishing, audiobooks 2025, book-ban counts via education; Wilder 2018; Audubon 2023; NEA 2025-26, Smithsonian EO 14253, Sajet, Aug 12 2025 review, EO 14416). Next: outline era 10.
+- 2026-09-28 T-267d d1-d3 DONE: era 10 outline rewritten (0 em dashes, 0 semicolons in era 10), 4 stories verified, bank check, parking, workspace section 'T-267d research pass'. PASS art / research.

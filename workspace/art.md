@@ -342,3 +342,15 @@ Handed out of this chapter, already written into the outline as cross-references
 **Cross-chapter parking log (T-267c):** written under "## Parked from `art` (2026-09-28, T-267c)" in `research/research-crime-justice.md` (Michael Stewart 1983, Henry Dumas 1968, Kern County ban, Cincinnati trial), `research/research-health.md` (AIDS Quilt, funerals refused, Mapplethorpe, Haring), `research/research-native-nations.md` (Angel De Cora, Lottie Stamper, Dunn's Studio, IACB 1935, Oscar Howe, IACA penalties, NAGPRA signing).
 
 **For T-267d (era 10):** the Wilder medal renaming (June 23, 2018) is sourced in the bank's era 08 section and belongs in era 10; AIDS Quilt count to re-check; O'Keeffe 2014 and Warhol 2022 auction records; Chicano Park National Historic Landmark (Dec. 23, 2016); The Dinner Party at the Brooklyn Museum; the era 10 NAGPRA span repeats "passed in 1990" (era 09 now carries the 1990 law).
+
+## T-267d research pass, era 10 (2026-09-28)
+
+**[VERIFY] queue, era 10: cleared.** The chapter has 0 [VERIFY] tags. Sources in `research/research-art.md` sections "Era 10: 2000 to Today", "Era 10 additions" and "Bank check, era 10".
+
+**Stories (era 10), all verified:** `kehinde-wiley` (movie *Kehinde Wiley: An Economy of Grace*, PBS 2014), `amy-sherald`, `jeffrey-gibson` (new, Mississippi Choctaw, Venice 2024), `kelly-mckernan` (the platform-era target, resolved: an illustrator's own on-record figures on NPR, Jan. 30, 2023).
+
+**Corrections against the seed:** the Beeple price given exactly ($69,346,250, paid in Ether); "the money for art concentrated in a small number of names" cut (no measure); NAGPRA span no longer repeats the 1990 law as new; "how many museums closed exhibits" answered as SEARCHED, NOT FOUND with the named museums; Confederate monuments told only as art objects (*Rumors of War*, *Unmanned Drone*, *MONUMENTS*), `landmarks` leads the counts; book-ban counts taken from `education`'s bank with the reason the two counts differ.
+
+**Director decisions:** (1) Kehinde Wiley faces sexual assault accusations from four men (from May 2024), which he denies, with no court outcome found. Not in the outline. Decide whether his story states them. (2) Kennedy Center 2025-26 parked to `music` (performing arts).
+
+**Cross-chapter parking log (T-267d):** `research/research-music.md` (Kennedy Center 2025-26), `research/research-native-nations.md` (NAGPRA FY2024 and FY2025 counts).

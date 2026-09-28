@@ -3127,6 +3127,8 @@ RESULT: LANDED. FAIL  art / research. measured: stage=PARTIAL eras=10/10 stories
         488559 tokens, 191 tool uses, 26.4 min (opus). Eras 8-9 + bank check. 11 candidates verified (O'Keeffe, Lange, Lawrence, Savage, Hurston, Martinez, Pollock, Warhol, Parks, Ringgold, Morrison). Savage's 1923 rejection and 1940 bulldozing, WPA denials and the Harlem Artists Guild, Lange's withheld camp photographs, Dorothy Dunn's school, CIA and abstract expressionism (officers' own 1995 statements plus doubters), Chicano Park, AIDS quilt, 1989-90 NEA fights. Florence Owens Thompson corrected; Armory 'first' cut. 4 searched-not-found. Parked to crime-justice, health, native-nations. Chapter FAIL until era 10.
 
 ### 2026-09-27 | [LOCAL] T-267d | art: full research era 10, completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-267-art.md
 VERIFY: python tools/project_state.py --check art --stage research
+RESULT: DONE. PASS  art / research. measured: stage=RESEARCHED eras=10/10 stories=34 (v34 c0 t0) verify_tags=0 bank=38467w outline=19199w manuscript=0w validator_errors=0
+        339100 tokens, 141 tool uses, 17.4 min (opus). Era 10, chapter COMPLETE. Stories: Kehinde Wiley, Amy Sherald, Jeffrey Gibson (Venice 2024), Kelly McKernan. NAGPRA 2024 rule and NPS counts (29 May 2026), MFA Boston returned Dave Drake's jars Oct 2025, Rumors of War, Unmanned Drone, MONUMENTS, BLM Plaza removed Mar 2025, Beeple, AI suits to Sep 2026, 2025-26 federal arts cuts, Smithsonian orders. 4 searched-not-found. Parked to music and native-nations. OPEN FOR JON: allegations against Wiley (kept out of the outline, flagged in the bank).
