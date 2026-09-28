@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-268a music (full research eras 1-5 [BURST])
 **ONE AT A TIME (resumed 2026-09-28).** 30 of 37 chapters pass research.
 Still to do in step 1:
 - education and rights-movements: checks COMPLETE (T-261e, T-262e).

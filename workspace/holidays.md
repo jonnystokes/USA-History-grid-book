@@ -28,7 +28,12 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 | Code of Indian Offenses 1883, Burke circulars 1921 to 1923 | pointer only | `religion` (**lead**) |
 | Memorial Day Massacre, 1937 | pointer only | `work-workers` (**lead**) |
 | Christmas and New Year's Day under slavery (Douglass, Northup, Jacobs) | the holidays and hiring day | `slavery-freedom` (the people) · `drugs-alcohol` (whiskey at Christmas) |
-| Martin Luther King Jr. Day | **lead** — a holiday that took years of campaigning | `rights-movements` (the movement and the campaign for the day) |
+| Martin Luther King Jr. Day | **lead** — a holiday that took years of campaigning | `rights-movements` (the movement and the campaign for the day; King's killing) |
+| National Day of Mourning, 1970 | **lead** (Frank James story) | `native-nations` (the Wampanoag today) · `how-we-know` (the Thanksgiving myth) |
+| Kwanzaa, 1966, and Karenga's 1971 conviction | **lead** | `rights-movements` (US Organization, COINTELPRO) |
+| Stonewall 1969 and the 1970 march | the yearly march and Pride Month | `rights-movements` (**lead** on Stonewall) |
+| Juneteenth 1939 Fort Worth attack (Opal Lee) | in her story | `crime-justice` (mob violence) |
+| Columbus Day and Indigenous Peoples' Day, 1992 to 2025 | **lead** | `native-nations` · `immigration` (Italian Americans) |
 
 ## Famous names check (must appear — completeness first)
 
@@ -45,9 +50,12 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 - [x] Juneteenth, 1865 (T-273b)
 - [x] Columbus Day 1892 and 1934 (T-273b)
 - [x] Armistice Day 1919 and 1938 (T-273b)
-- [ ] Martin Luther King Jr. Day
-- [ ] Juneteenth, 2021
-- [ ] Indigenous Peoples' Day
+- [x] Martin Luther King Jr. Day (T-273c, era 9: 1968 to 1999, Arizona, Liz Byrd story)
+- [x] Juneteenth, 2021 (T-273c, era 10, Opal Lee story)
+- [x] Indigenous Peoples' Day (T-273c, Berkeley 1992 in era 9, 2021 and 2025 in era 10)
+- [x] Kwanzaa (T-273c, era 9, with Karenga's 1971 conviction)
+- [x] National Day of Mourning (T-273c, era 9, Frank James story)
+- [x] Uniform Monday Holiday Act (T-273c, era 9)
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -60,9 +68,9 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 - [x] Memorial Day's competing origin claims, stated (VA NCA, College of Charleston) — 1850–1900
 - [x] Juneteenth celebrated in Texas from 1866 (Gates) — 1850–1900
 - [x] Mother's Day, 1914: joint resolution 8 May, Proclamation 1268 of 9 May 1914, a flag day — 1900–1950
-- [ ] the Uniform Monday Holiday Act, 1968 — 1950–2000
-- [ ] MLK Day signed 1983, first observed 1986, states resisting — 1950–2000
-- [ ] Kwanzaa from 1966 — 1950–2000
+- [x] the Uniform Monday Holiday Act, 1968 (cleared T-273c: P.L. 90-363, 28 June 1968, McClory, CRS, NARA Prologue)
+- [x] MLK Day signed 2 Nov 1983, first observed 20 Jan 1986, states resisting (cleared T-273c: King Institute, CRS, Pima Library, Wikipedia)
+- [x] Kwanzaa from 1966 (cleared T-273c: BlackPast, The Root, Wikipedia)
 
 ## Threads present
 *From the brief's checklist — only what genuinely applies:* region · rural · class · language · children (**central**) · the elderly · Native continuity past 1900 · territories · LGBTQ (Pride as a public observance)
@@ -77,7 +85,7 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 - **verified:** Sarah Josepha Hale (placed once, in 1800–1850; her 1863 outcome sits in the 1850–1900 era-zoom); Anna Jarvis (1900–1950, carries a [VERIFY] on the 1914 detail).
 - **T-273a:** before-1500 target removed (no named pre-1500 person). 1750-1800 target filled by Henry Wight (Bristol, 1785), plus a new story, John Anderson (Hartford Black governor, 1776).
 - **T-273b:** Sarah Josepha Hale rewritten from a stub (it was tagged verified with no bank source) and now bank-sourced; early Juneteenth celebrant target filled by Jack Yates (`jack-yates-holidays`, Houston, Emancipation Park 1872); Anna Jarvis candidate -> verified.
-- **target (find and verify):** a King holiday campaigner (1950–2000); an organizer of a first Juneteenth or Indigenous Peoples' Day observance (2000–today).
+- **T-273c:** King holiday campaigner target filled by Liz Byrd (`liz-byrd`, Wyoming, 1990); added Frank James (Wamsutta) (`frank-james-wamsutta`, 1970); first-observance organizer target filled by Opal Lee (`opal-lee`, Fort Worth Juneteenth from 1977, living as of June 2026). No targets or candidates remain.
 
 ## Cross-chapter parking log
 - 2026-09-28 (T-273b): New Orleans lynching 1891 parked in `research/research-immigration.md` and `research/research-crime-justice.md` under "Parked from `holidays` (2026-09-28, T-273b)".

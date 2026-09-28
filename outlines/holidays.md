@@ -3,7 +3,7 @@
 # Chapter 35: Holidays
 
 <!-- hb-note -->
-**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-273a). Eras 6 to 8 RESEARCHED 2026-09-28 (T-273b). Eras 9 and 10 still SEED, for T-273c.
+**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-273a). Eras 6 to 8 RESEARCHED 2026-09-28 (T-273b). Eras 9 and 10 RESEARCHED 2026-09-28 (T-273c), facts current to that date.
 **Angle:** American holidays and celebrations: how the country marks its days and how that changed.
 **Keep out:** sports (`sports-play`). Religion itself (`religion`).
 **Workspace:** `workspace/holidays.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -383,30 +383,127 @@ From 1908 to 1941 presidents and Congress added new national days and fixed the 
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="holidays" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="holidays" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Holidays get moved to Mondays, and new ones are argued into being.
+Between 1950 and 2000 Americans argued over whose days the country should mark, and the calendar changed. In 1968 Congress moved three holidays to Mondays so that workers got more three-day weekends, and it made Columbus Day a federal holiday. Black Americans started Kwanzaa in 1966, brought Juneteenth back, and campaigned for 15 years for a holiday for Martin Luther King Jr. President Ronald Reagan signed that law in 1983. Some state governments refused the King holiday for years, and the last state named a day for King in 1999. Native people began to mark Thanksgiving as a day of mourning in 1970, and in 1992 the city of Berkeley, California, renamed Columbus Day for Indigenous peoples.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Monday holidays and new observances" -->
-The Uniform Monday Holiday Act, 1968 [VERIFY], creating three-day weekends; Martin Luther King Jr. Day signed in 1983 and first observed in 1986, with some states resisting for years [VERIFY]; the Super Bowl becoming an unofficial holiday; Kwanzaa from 1966 [VERIFY]; Columbus Day protested and renamed in some places.
+<!-- hb-zoom level="span" label="Veterans Day and the Monday holidays, 1954 to 1975" -->
+- On 1 June 1954 Congress renamed Armistice Day as Veterans Day. By then Americans had fought in the Second World War and the Korean War, and the new name honoured the veterans of every war (Congressional Research Service).
+- In 1966 Congress and President Lyndon Johnson named Waterloo, New York, the "birthplace" of Memorial Day. Other towns still claim the first one (National Cemetery Administration).
+- Representative Robert McClory, a Republican from Illinois, steered the Uniform Monday Holiday bill through the House in 1968. Business groups backed it: the US Chamber of Commerce, the National Association of Manufacturers, the National Association of Travel Organizations and the National Retail Federation. McClory said it would give families more time together and more chances to visit historic places (National Archives, *Prologue*).
+- Representative H. R. Gross of Iowa asked whether store clerks would get the days off or spend them selling. McClory answered that labor unions supported the bill (National Archives, *Prologue*).
+- President Johnson signed it on 28 June 1968, and it took effect in 1971. It moved Washington's Birthday to the third Monday in February, Memorial Day to the last Monday in May and Veterans Day to the fourth Monday in October. It made Columbus Day a federal holiday on the second Monday in October (Johnson's signing statement, American Presidency Project. Congressional Research Service).
+- McClory had also wanted to rename Washington's Birthday "Presidents' Day." He dropped the idea to win the votes of Virginia's lawmakers. No law has ever changed the federal name, although many people and stores call it Presidents' Day (National Archives, *Prologue*. Congressional Research Service).
+- Veterans' groups objected to moving Veterans Day, and 46 states kept or went back to 11 November. In 1975 Congress put Veterans Day back on 11 November (Congressional Research Service).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="king-holiday-campaigner" name="(target) a King holiday campaigner" movie="" kind="ordinary" status="target" -->
-### (target) a King holiday campaigner
-Worked for years to get a holiday recognized (documented).
-<!-- hb-story:end slug="king-holiday-campaigner" -->
+<!-- hb-zoom level="span" label="Kwanzaa, from 1966" -->
+- Maulana Karenga, a Black activist in Los Angeles, created Kwanzaa in 1966. It runs for seven days, from 26 December to 1 January. Each day honours one of seven principles he wrote in 1965, such as Umoja, the Swahili word for unity (BlackPast.org). The name comes from a Swahili phrase meaning "first fruits" (Wikipedia, "Kwanzaa").
+- Karenga said at first that Kwanzaa gave Black Americans an alternative to Christmas. In 1997 he wrote that it "was not created to give people an alternative to their own religion or religious holiday." Many families keep both (Wikipedia, "Kwanzaa").
+- In 1971 a California court convicted Karenga of felony assault and false imprisonment, which means holding people against their will. Two women from his group, Deborah Jones and Gail Davis, testified that they were stripped, whipped with an electrical cord and beaten with a baton at his home. Jones testified that a hot soldering iron was pressed against Davis's face and put in her mouth (*Los Angeles Times*, May 1971, quoted by The Root).
+- Karenga was sentenced to one to ten years and was released on parole in 1975. He has always denied the charges and calls the case political persecution by the FBI (BlackPast.org. Wikipedia, "Maulana Karenga").
+- The US Postal Service issued the first Kwanzaa stamp in 1997. Nobody has counted how many Americans celebrate Kwanzaa. A 2009 estimate ranged from 500,000 to 2 million (Wikipedia, "Kwanzaa").
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Juneteenth comes back, 1968 to 1980" -->
+- In the civil rights movement, students in Atlanta wore Juneteenth Freedom buttons. The Poor People's March on Washington ended on 19 June 1968. Marchers took the celebration home to cities such as Milwaukee and Minneapolis, which still hold large Juneteenth events (Texas State Historical Association).
+- Al Edwards, a Black state representative from Houston, wrote a bill to make Juneteenth a Texas state holiday. The Texas legislature passed it in 1979, and Governor Bill Clements signed it. Texas held its first state Juneteenth celebration in 1980 (Texas State Historical Association).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Thanksgiving as a day of mourning, from 1970" -->
+- In 1970 the state of Massachusetts held a dinner for the 350th anniversary of the Pilgrims' landing. Organizers asked Frank James, a Wampanoag leader also called Wamsutta, to speak. They read his speech first and told him it was too "inflammatory," a word meaning likely to anger people (Pilgrim Hall Museum).
+- In his speech James said that within four days of landing, the Pilgrims had dug up Wampanoag graves and taken the people's stored corn and beans. He said that "before 50 years were to pass, the Wampanoag would no longer be a free people" (his speech, printed by Pilgrim Hall Museum and United American Indians of New England).
+- James refused to read a speech that the organizers' staff had written for him. On Thanksgiving Day, 26 November 1970, he and other Native people gathered on Cole's Hill in Plymouth, above Plymouth Rock, for the first National Day of Mourning. About 500 Native people came (Pilgrim Hall Museum. Wikipedia, citing the *Cape Cod Times*).
+- The gathering has been held every Thanksgiving since, organized by United American Indians of New England. Many who come fast from the evening before (United American Indians of New England).
+- On Thanksgiving Day 1997 Plymouth police stopped the marchers from walking through the town centre. They used pepper spray on marchers and arrested 25 for disorderly conduct and unlawful assembly. The records do not name the officers (Associated Press). In 1998 the town dropped the charges. It agreed that the marchers could walk without a permit forever and paid for two plaques telling Native history (United American Indians of New England. Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="frank-james-wamsutta" name="Frank James (Wamsutta)" movie="" kind="ordinary" status="verified" -->
+### Frank James (Wamsutta)
+> **Who:** A Wampanoag leader whose speech was stopped in 1970 and who started the National Day of Mourning. · **When and where:** Massachusetts, 1970.
+- Frank James lived from 1923 to 2001. He was Aquinnah Wampanoag and led the Wampanoag Tribe of Gay Head. He took the name Wamsutta, the name of an earlier Wampanoag leader (Pilgrim Hall Museum. Wikipedia).
+- In September 1970 the Commonwealth of Massachusetts invited him to speak at its dinner for the 350th anniversary of the Pilgrims' landing (Pilgrim Hall Museum).
+- He wrote his speech from the Pilgrims' own records, including William Bradford's history and *Mourt's Relation*. It began: "I speak to you as a man, a Wampanoag Man" (Pilgrim Hall Museum. United American Indians of New England).
+- The organizers read it in advance. A state commerce official told him that "the theme of the anniversary celebration is brotherhood and anything inflammatory would have been out of place" (Wikipedia, citing WGBH).
+- They gave him a speech written by their public relations staff. He refused to read it and did not speak at the dinner (United American Indians of New England).
+- On Thanksgiving Day 1970 he spoke instead on Cole's Hill in Plymouth, beside the statue of the Wampanoag leader Massasoit. Accounts differ on whether he read the same speech or a shorter version (Pilgrim Hall Museum. Wikipedia).
+- He founded United American Indians of New England that year, and the group has held the National Day of Mourning every Thanksgiving since (Wikipedia. United American Indians of New England).
+<!-- hb-story:end slug="frank-james-wamsutta" -->
+<!-- hb-zoom level="span" label="Martin Luther King Jr. Day, 1968 to 1983" -->
+- James Earl Ray, a white man, shot and killed Martin Luther King Jr. in Memphis on 4 April 1968. Ray pleaded guilty in 1969 (US Department of Justice). `rights-movements` tells the killing. Four days later Representative John Conyers of Michigan asked Congress for a national holiday on King's birthday, 15 January. The committee did nothing with his bill (American Presidency Project. Stanford King Institute).
+- The Southern Christian Leadership Conference, the group King had led, gathered 3 million signatures on petitions in the early 1970s. In 1973 Illinois made the first state King holiday, in a bill written by state lawmaker Harold Washington (Stanford King Institute).
+- In 1979 Coretta Scott King, King's widow, spoke for the holiday before Congress. The House voted 252 to 133 in November 1979. Because of the way the vote was held, the bill needed two-thirds and failed by four or five votes, as sources differ (Congressional Research Service. Stanford King Institute).
+- In 1980 the singer Stevie Wonder released "Happy Birthday," a song asking for the holiday. His money paid for a lobbying office, and petitions reached more than 6 million signatures. On 15 January 1983 more than 100,000 people rallied at the Washington Monument (Stanford King Institute. American Presidency Project).
+- The House passed the bill 338 to 90 on 2 August 1983. In the Senate, Jesse Helms of North Carolina led the opposition. He called for the FBI's secret recordings of King to be made public and gave senators a 300-page paper claiming King had ties to communists. Other senators said another paid day off cost too much (Stanford King Institute. Wikipedia).
+- The Senate passed the bill 78 to 22 on 19 October 1983. Reagan had wanted a day of remembrance, not a paid holiday. He signed the law on 2 November 1983, and the first King holiday was kept on 20 January 1986 (Stanford King Institute. American Presidency Project).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The states that held out, 1986 to 1999" -->
+- The 1983 law gave the day off only to federal workers. Each state decided for itself. By January 1989, 44 states kept a King holiday (Stanford King Institute).
+- Some states joined King's day to a day for Confederate generals. Alabama named it for Robert E. Lee and King, and Mississippi still does. Arkansas combined King and Lee until 2017. Virginia called it Lee-Jackson-King Day (Wikipedia, "Martin Luther King Jr. Day").
+- In Arizona Governor Bruce Babbitt made the King holiday a paid state holiday by order in 1986. His successor, Evan Mecham, cancelled it in January 1987, saying Babbitt had no legal power to create it (Pima County Public Library. PHOENIX magazine).
+- Groups across the country moved their conventions out of Arizona. Stevie Wonder and other musicians refused to perform there (PHOENIX magazine).
+- In November 1990 Arizona voters turned down two ballot measures for a King holiday. The National Football League then moved the 1993 Super Bowl from Tempe to Pasadena, California. Phoenix had expected about $200 million from the game (Pima County Public Library. PHOENIX magazine).
+- In November 1992, 61 percent of Arizona voters approved Martin Luther King Jr./Civil Rights Day. Arizona is the only state whose voters approved the holiday themselves (PHOENIX magazine. Pima County Public Library).
+- New Hampshire made a "Civil Rights Day" in 1991. In June 1999 its lawmakers renamed it for King, the last state to do so (Stanford King Institute. Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="liz-byrd" name="Liz Byrd" movie="" kind="ordinary" status="verified" -->
+### Liz Byrd
+> **Who:** A Cheyenne schoolteacher and lawmaker who brought the King holiday bill to Wyoming's legislature nine times. · **When and where:** Wyoming, 1981 to 1990.
+- Harriett Elizabeth "Liz" Byrd was born on 20 April 1926. Her grandfather Charles Rhone had come to Wyoming Territory as a boy in 1876 (WyoHistory.org).
+- The University of Wyoming turned down her application, and her son believes it was because she was Black. She earned her teaching degree at West Virginia State College in 1949 (WyoHistory.org).
+- Cheyenne's school district would not hire her at first. It hired her in 1959, and she became the first fully certified full-time Black teacher in Wyoming. She taught second grade for most of 37 years (WyoHistory.org).
+- She served in the Wyoming House from 1981 to 1988. In 1989 she became the first Black member of the Wyoming Senate (WyoHistory.org).
+- She brought a bill for a Martin Luther King Jr. holiday before the legislature nine times. One Republican who voted against it, Loren Willford, said a Wyoming holiday should honour someone who had been in Wyoming, such as Chief Washakie (WyoHistory.org).
+- In 1990 the legislature passed the holiday with a longer name, "Martin Luther King, Jr./Wyoming Equality Day." Her son said she never liked the added words but took them rather than lose the bill again (WyoHistory.org). Another source gives the year as 1991 (Wikipedia).
+- She died on 27 January 2015, aged 88, and Governor Matt Mead ordered flags lowered in her honour (WyoHistory.org).
+<!-- hb-story:end slug="liz-byrd" -->
+<!-- hb-zoom level="span" label="Columbus Day renamed, and Pride marches, 1970 to 1999" -->
+- In 1977 delegates at a United Nations conference in Geneva, Switzerland, discussed replacing Columbus Day with a day for Indigenous peoples. In 1992, the 500th anniversary of Columbus's first voyage, a Bay Area group called Resistance 500 asked the city council of Berkeley, California, to act. The council renamed the day Indigenous Peoples Day (Wikipedia, "Indigenous Peoples' Day").
+- On 28 June 1970, a year after police raided the Stonewall Inn, a gay bar in New York City, several thousand people marched from Greenwich Village to Central Park. Organizers' counts ranged from 3,000 to 20,000. Craig Rodwell and three others had proposed a yearly march in 1969 (Wikipedia, "NYC Pride March"). `rights-movements` tells Stonewall.
+- Marchers repeated it every June. On 11 June 1999 President Bill Clinton proclaimed June "Gay and Lesbian Pride Month," the first presidential proclamation of it (Library of Congress).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="holidays" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="holidays" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-The calendar keeps changing: new federal holidays, renamed ones, and holidays observed differently by different communities.
+Since 2000 Congress has added one federal holiday, Juneteenth, in 2021, and presidents have disagreed about which days to honour. The last states stopped joining King's day to days for Confederate generals, although Alabama and Mississippi still honour Robert E. Lee on the same Monday. In 2021 President Joe Biden became the first president to proclaim Indigenous Peoples' Day. In 2025 President Donald Trump proclaimed only Columbus Day and issued no Juneteenth proclamation. States and cities also added days for communities that had never had one, such as Lunar New Year and Diwali. As of September 2026, Juneteenth, King's day and Columbus Day all remain federal holidays.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Juneteenth, Indigenous Peoples' Day, and Pride" -->
-Juneteenth made a federal holiday in 2021; Indigenous Peoples' Day replacing or joining Columbus Day in many places; Halloween's growth into one of the biggest spending holidays; Pride as a public observance; the National Day of Mourning at Plymouth each Thanksgiving. Current through 2026; state the cutoff.
+<!-- hb-zoom level="span" label="The end of the combined days, 2000 to 2020" -->
+- In May 2000 South Carolina's governor, Jim Hodges, signed a law giving all state workers King's day off. It was the last state to do so. Before then, state workers could choose King's day or one of three Confederate holidays (Wikipedia, "Martin Luther King Jr. Day").
+- From 1984 to 2000 Virginia kept Lee-Jackson-King Day, which honoured two Confederate generals and King on the same day. In 2000 the state split it into two days (Wikipedia, "Lee-Jackson-King Day").
+- In April 2020 Virginia's governor, Ralph Northam, signed a law ending Lee-Jackson Day and making Election Day a state holiday. Northam said the old day "commemorates a lost cause" (CNN).
+- Arkansas stopped honouring Lee on King's day in 2017. Alabama and Mississippi still honour Lee's birthday on the same Monday as King's day (Wikipedia, "Martin Luther King Jr. Day" and "Robert E. Lee Day").
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="first-observance-organizer" name="(target) an organizer of a first Juneteenth or Indigenous Peoples' Day observance" movie="" kind="ordinary" status="target" -->
-### (target) an organizer of a first Juneteenth or Indigenous Peoples' Day observance
-Research target — a documented organizer of an early public observance.
-<!-- hb-story:end slug="first-observance-organizer" -->
+<!-- hb-zoom level="span" label="Juneteenth becomes a federal holiday, 2021" -->
+- In 2020, after a Minneapolis police officer killed George Floyd, many Juneteenth gatherings called for changes in policing (Texas State Historical Association).
+- On 15 June 2021 every senator agreed to the Juneteenth National Independence Day Act. The House passed it the next day, 415 to 14. All 14 no votes came from Republicans (US House Clerk).
+- President Biden signed it on 17 June 2021. It was the first new federal holiday since King's day in 1983 (Texas State Historical Association. Congressional Research Service).
+- Each state still decides for itself. In 2025 the Congressional Research Service counted 31 states and Washington, D.C., with a permanent paid Juneteenth holiday. Alabama was the latest, in May 2025 (PolitiFact, 2026).
+- On Juneteenth 2025 President Trump signed no proclamation for the day. He wrote that there were "too many non-working holidays" (CBS News).
+- In December 2025 the National Park Service dropped Martin Luther King Jr. Day and Juneteenth from its list of free-entry days for 2026. It added 14 June, which is Flag Day and President Trump's birthday. Both days remain federal holidays (CBS News).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="opal-lee" name="Opal Lee" movie="" kind="ordinary" status="verified" -->
+### Opal Lee
+> **Who:** A retired Fort Worth teacher who organized Juneteenth celebrations for 40 years and campaigned for it to become a national holiday. · **When and where:** Fort Worth, Texas, 1939 to today.
+- Opal Flake was born in Marshall, Texas, on 7 October 1926. When she was nine her family moved to Fort Worth (National Women's History Museum).
+- In June 1939 her parents bought a house at 940 East Annie Street in Fort Worth, in a white neighbourhood. On 19 June 1939, when she was 12, a white mob of about 500 people drove the family out, dragged out their furniture and burned the house to the ground. She remembered that police officers were there and did not stop the mob. No record names anyone in the mob or shows an arrest (National Women's History Museum. ABC News. Wikipedia).
+- She became a teacher after graduating from Wiley College in 1953. When she retired in 1977 she helped found the Tarrant County Black Historical and Genealogical Society and began planning Fort Worth's Juneteenth celebrations, which she led for about 40 years (National Women's History Museum).
+- In 2016, at 89, she organized a walk from Fort Worth to Washington, D.C., to ask for a national Juneteenth holiday. Her family worried about her health, so she walked about 300 miles herself, in pieces of 2.5 miles. The 2.5 miles stand for the two and a half years it took for the news of freedom to reach Texas (National Women's History Museum).
+- Her petition for the holiday gathered 1.6 million signatures (National Women's History Museum).
+- She stood beside President Biden when he signed the Juneteenth law on 17 June 2021 (Texas State Historical Association. National Women's History Museum). On 3 May 2024 President Biden gave her the Presidential Medal of Freedom, the highest honour the government gives a civilian (KERA News).
+- In 2024 builders put up a new house for her on the same lot, and she paid $10 for the land (KERA News).
+- On Juneteenth 2026 nearly 600 people walked Opal's Walk for Freedom in Fort Worth. Her granddaughter and great-granddaughter led it while she rested, months before her 100th birthday (Fort Worth Report).
+<!-- hb-story:end slug="opal-lee" -->
+<!-- hb-zoom level="span" label="Indigenous Peoples' Day and Columbus Day, 2021 to 2026" -->
+- On 8 October 2021 President Biden proclaimed Indigenous Peoples' Day. He wrote that for generations "Federal policies systematically sought to assimilate and displace Native people and eradicate Native cultures" (Proclamation 10283, Federal Register). He also proclaimed Columbus Day each year from 2021 to 2024 (NPR).
+- In 2020 Colorado's lawmakers replaced Columbus Day with Cabrini Day (Wikipedia, "Columbus Day").
+- On 9 October 2025 President Trump proclaimed Columbus Day and did not mention Indigenous Peoples' Day. His proclamation said "Left-wing radicals toppled his statues, vandalized his monuments, tarnished his character" (NPR. PBS NewsHour).
+- In 2025 the Pew Research Center counted 30 states and three territories that recognize Columbus Day in some way, and 17 states and Washington, D.C., that honour Indigenous people on that day. Some states do both (NPR).
+- The National Day of Mourning is still held at noon on Cole's Hill in Plymouth every Thanksgiving. Only Native people speak, and many fast from the evening before. Frank James's granddaughter Kisha James helps organize it (United American Indians of New England. Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Pride Month, and new days for more communities" -->
+- President Barack Obama proclaimed Lesbian, Gay, Bisexual and Transgender Pride Month in 2009, and President Biden widened the name in 2022 (Library of Congress). In 2025 the White House said President Trump had "no plans" to proclaim Pride Month (The Hill, unconfirmed: search summary only).
+- Cinco de Mayo marks the Mexican army's defeat of French troops at Puebla, Mexico, on 5 May 1862. Latinos in California began celebrating it during the Civil War, and it is still kept more in the United States than in Mexico (UCLA, David Hayes-Bautista).
+- In September 2023 New York's governor, Kathy Hochul, signed a law closing all the state's public schools for Lunar New Year (New York Governor's Office).
+- In October 2025 California's governor, Gavin Newsom, signed a law making Diwali, the Hindu festival of lights, a state holiday from 2026. California was the third state to do so, after Pennsylvania and Connecticut (All India Radio News. Wikipedia, "Diwali").
+- Halloween is not a legal holiday, but Americans spend heavily on it. The National Retail Federation estimated a record $13.1 billion in 2025 and expected $13.5 billion in 2026, based on its surveys of shoppers (National Retail Federation).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

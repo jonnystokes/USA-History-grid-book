@@ -3086,9 +3086,11 @@ RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 st
         402103 tokens, 152 tool uses, 20.0 min (opus). Eras 6-8 + bank check. Stories: Sarah Josepha Hale (rebuilt from sources), Jack Yates (Emancipation Park 1872), Anna Jarvis. Christmas under slavery and hiring day, NY 5 July 1827 parade, Albany's 1811 Pinkster ban, Juneteenth and Texas 1868 (379 killed), Norfolk 1866, Decoration Day origins unresolved, New Orleans 1891 (eleven named), Armistice Day, 1939-41 Thanksgiving fight. Corrections: Labor Day 28 Jun 1894, Columbus Day first 1934, Mother's Day law, Alabama 1836 rejected. 4 searched-not-found. Parked to immigration and crime-justice. Chapter FAIL until eras 9-10.
 
 ### 2026-09-27 | [LOCAL] T-273c | holidays: full research eras 9-10, completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
+RESULT: DONE. PASS  holidays / research. measured: stage=RESEARCHED eras=10/10 stories=9 (v9 c0 t0) verify_tags=0 bank=25975w outline=14586w manuscript=0w validator_errors=0
+        337400 tokens, 113 tool uses, 15.2 min (opus). Eras 9-10, chapter COMPLETE. Stories: Liz Byrd (Wyoming Equality Day 1990), Frank James/Wamsutta (1970 speech, National Day of Mourning), Opal Lee (1939 mob burned her family's house). Monday Holiday Act 1968, King Day (votes, holdout states, Arizona 1990), Kwanzaa and Karenga's 1971 conviction stated, Plymouth 1997 arrests, Juneteenth counts, 2025 federal actions, 2026 fee-free days. 2 searched-not-found. TO PARK listed (burst).
 NOTE (Jon): two more beside T-273c (messaged to switch to TO PARK): T-267a art 1-5, T-268a music 1-5.
 
 ### 2026-09-27 | [LOCAL] T-267a | art: full research eras 1-5 [BURST] | model opus
