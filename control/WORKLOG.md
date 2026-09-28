@@ -3049,3 +3049,8 @@ RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras
 NOTE (Jon): PAUSE after T-262e finishes. No new dispatches until Jon says.
 
 ### 2026-09-28 | [LOCAL] RESUMED after the usage reset (Jon: "Please continue"). One at a time.
+
+### 2026-09-27 | [LOCAL] T-261d | education: bank check era 9 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-261-education.md
+VERIFY: python tools/project_state.py --check education --stage research
