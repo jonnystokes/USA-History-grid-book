@@ -2986,3 +2986,8 @@ T-261b education 6-7, T-262b rights-movements 7 bank checks landed. Parked items
 validate 0; the 7 written chapters still PASS prose). One afterword item saved to AUDIT-QUEUE.
 MEASURED: RESEARCHED 23 + WRITTEN 7 = 30 of 37 pass research. SEED 7 left.
 Back to ONE AT A TIME.
+
+### 2026-09-27 | [LOCAL] T-262c | rights-movements: bank check era 8 (LEADS Tulsa 1921) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-262-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage research
