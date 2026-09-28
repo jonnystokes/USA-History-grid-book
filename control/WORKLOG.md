@@ -3199,3 +3199,8 @@ VERIFY: python tools/project_state.py --check sports-play --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+
+### 2026-09-27 | [LOCAL] T-272c | styles: full research eras 9-10, completes the chapter [BURST] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-272-styles.md
+VERIFY: python tools/project_state.py --check styles --stage research
