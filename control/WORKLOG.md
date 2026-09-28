@@ -3176,3 +3176,8 @@ VERIFY: python tools/project_state.py --check music --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
+
+### 2026-09-27 | [LOCAL] T-269b | storytelling-evolution: full research eras 6-7 [BURST] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
+VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
