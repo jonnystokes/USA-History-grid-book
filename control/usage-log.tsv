@@ -220,3 +220,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-272b	research	general-purpose/opus	[LOCAL] styles: Eras 6-8 + bank check. Stories: Douglass (issued clothing, sailor disguise), Eli	?	?	?	319906	152	1313042	?	completed	FAIL  styles / research
 2026-09-27	T-271b	research	general-purpose/opus	[LOCAL] sports-play: Eras 6-7 + bank check. Stories: Tom Molineaux, Lucy Larcom, Moses Fleetwood Walk	?	?	?	329262	160	1272302	?	completed	FAIL  sports-play / research
 2026-09-27	T-269c	research	general-purpose/opus	[LOCAL] storytelling-evolution: Eras 8-9 + bank check. 11 verified: Chaplin, Micheaux, Anna May Wong, Hattie McD	?	?	?	457309	119	1200591	?	completed	FAIL  storytelling-evolution / research
+2026-09-27	T-272c	research	general-purpose/opus	[LOCAL] styles: Eras 9-10, chapter COMPLETE. Stories: Charles and Ray Eames, Mary Beth Tinker, R	?	?	?	357595	141	1103189	?	completed	PASS  styles / research

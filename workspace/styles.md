@@ -25,6 +25,13 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 | L-85, 1942 | **lead**, the clothes | `war` (home front) · `economy` |
 | Zoot suit attacks, June 1943 | **lead**, the suit and why it was targeted | `war` · `crime-justice` · `rights-movements` |
 | Youth fashion after 1955 | **lead** — hippie, disco, punk, streetwear | `music` (the music it came with) |
+| Tinker v. Des Moines, 1965-1969 | the armband as something worn; hair-length cases | `rights-movements` (antiwar students) · `education` (students' rights) |
+| El Monte sweatshop, 1995 | **lead** on the clothes and the stores that sold them | `work-workers` (**lead**, sweatshops) · `immigration` · `crime-justice` |
+| Air Jordans and the killing of Michael Eugene Thomas, 1989 | the shoe | `sports-play` (Jordan, Nike) · `crime-justice` (the killing) |
+| Tazreen fire 2012, Rana Plaza 2013 | the clothes and the American brands | `work-workers` (**lead**) · `disasters` · `america-world` |
+| Garment Worker Protection Act (SB 62), 2021 | who sews and for how much | `work-workers` (**lead**) |
+| CROWN Act, 2019 on | **lead** on the hair | `rights-movements` (**lead** on the laws) |
+| Textile waste | the clothes | `environment` (**lead**) |
 
 ## Famous names check (must appear — completeness first)
 - [x] homespun and the boycotts (era 05, T-272a)
@@ -41,14 +48,18 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 - [x] Frederick Douglass (era 06, clothing slice, T-272b)
 - [x] zoot suit riots (era 08, T-272b)
 - [ ] the New Look, 1947 (not researched, GAP)
-- [ ] mid-century modern
-- [ ] blue jeans as youth clothing
-- [ ] fast fashion
+- [x] mid-century modern (era 09, Charles and Ray Eames, T-272c)
+- [x] blue jeans as youth clothing (era 09, 1950s, FIT, T-272c)
+- [x] fast fashion (era 10: Tazreen, Rana Plaza, LA piece pay, textile waste, T-272c)
+- [x] Tinker v. Des Moines (era 09, story mary-beth-tinker, T-272c)
+- [x] the Afro and natural hair, CROWN Act (eras 09-10, T-272c)
+- [x] polyester (era 09, Dacron 1951, T-272c)
 
 ## Featured people to firm up (target/candidate)
 - **verified (T-272b, eras 06-08)** — Frederick Douglass (1800-1850, slug frederick-douglass-styles) · Elizabeth Keckley (1850-1900, replaced target home-dressmaker) · Levi Strauss and Jacob Davis (1850-1900) · Madam C. J. Walker (1900-1950) · Wallace Carothers (1900-1950) · Ann Lowe (1900-1950, slug ann-lowe, replaced target dressmaker-or-department-store-buyer).
 - **verified (T-272a, eras 01-05)** — Hannah Lyman (1600s, slug hannah-lyman-1676) · Mary Ring (1600s, slug mary-ring-styles, replaced the probate-inventory target) · Jack (1700-1750, slug jack-gambia-1745) · Charity Clarke (1750-1800) · George Washington (1750-1800, slug george-washington-styles).
-- **target** — a mid-century designer (1950–2000, famous) · a garment worker or resale seller (2000–Today). Note for T-272c: Ann Lowe (slug ann-lowe, era 08) made Jacqueline Bouvier's 1953 wedding gown. Do not give her a second story block.
+- **verified (T-272c, eras 09-10)** — Charles and Ray Eames (1950-2000, slug charles-ray-eames, replaced target mid-century-designer, movie Eames: The Architect and the Painter 2011) · Mary Beth Tinker (1950-2000) · Rotchana Cheunchujit (1950-2000, slug rotchana-cheunchujit-sussman, El Monte) · Francisco Tzul (2000-today, replaced target garment-worker-or-resale-seller, living, published interviews only) · Andrew Johnson (2000-today, slug andrew-johnson-wrestler). Ann Lowe's 1953 gown told as an era 09 span, no second story block.
+- **target / candidate** — none left.
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -69,6 +80,7 @@ Companion files: outline `outlines/styles.md` · research bank `research/researc
 ## Cross-chapter parking log
 - T-272a (burst): material for other chapters listed under TO PARK in control/checkpoints/T-272-styles.md, for the director to file.
 - T-272b (burst): same, under "TO PARK (T-272b)" in the checkpoint.
+- T-272c (burst): same, under "TO PARK (T-272c)" in the checkpoint.
 
 ## Open questions for the director
 - The absorbed "Materials and Colors" half sits awkwardly beside clothing. Should each era carry an explicit "what things were made of" beat, or should materials be folded into the fashion narrative?

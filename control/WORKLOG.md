@@ -3205,9 +3205,11 @@ RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL
         457309 tokens, 119 tool uses, 20.0 min (opus). Eras 8-9 + bank check. 11 verified: Chaplin, Micheaux, Anna May Wong, Hattie McDaniel, Bert Williams (new), Lilian St. Cyr/Red Wing (new), Lucille Ball, Lee Grant, Lorraine Hansberry, Sidney Poitier, Rita Moreno (new). 8 seed corrections (Great Train Robbery, Florence Lawrence, Production Code wording, Wilson quote disputed, Star Wars, VHS, three-camera, McDaniel's table in three accounts). 3 searched-not-found. Chapter FAIL until era 10. TO PARK for 8 chapters.
 
 ### 2026-09-27 | [LOCAL] T-272c | styles: full research eras 9-10, completes the chapter [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
+RESULT: DONE. PASS  styles / research. measured: stage=RESEARCHED eras=10/10 stories=16 (v16 c0 t0) verify_tags=0 bank=24824w outline=16797w manuscript=0w validator_errors=0
+        357595 tokens, 141 tool uses, 18.4 min (opus). Eras 9-10, chapter COMPLETE. Stories: Charles and Ray Eames, Mary Beth Tinker, Rotchana Cheunchujit (El Monte, 1995), Francisco Tzul (LA garment worker, published interviews only), Andrew Johnson (2018; NJ CROWN Act). Jeans, Dacron 1951, Ann Lowe's 1953 gown, school hair cases, the Afro and the 1981 braids ruling, Air Jordans; Tazreen and Rana Plaza with US brands linked, LA piece pay and California's 2021 law, CROWN Act (~30 states, no federal law), textile waste, resale, end of de minimis. 4 searched-not-found. TO PARK listed.
 
 ### 2026-09-27 | [LOCAL] T-271c | sports-play: full research eras 8-9 [BURST] | model opus
 STATUS: IN-FLIGHT
