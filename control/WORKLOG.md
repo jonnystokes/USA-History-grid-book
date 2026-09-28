@@ -3021,9 +3021,11 @@ RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras
         306900 tokens, 117 tool uses, 16.8 min (opus). Era 9 bank check. Killers named with outcomes: De La Beckwith (1994), Neshoba (7 of 18 in 1967, Killen 2005), Birmingham (Chambliss, Blanton, Cherry), Fowler (2010), Reeb's attackers acquitted, Liuzzo (3 convicted, informant Rowe), Hamer's beaters acquitted, King (Ray, 1999 civil verdict, DOJ 2000). New spans: Stonewall and gay rights 1953-79 (the open gap), women's movement and ERA, Chicano movement (Salazar), Japanese American redress. 4 corrections incl. Claudette Colvin (d. 13 Jan 2026). TO PARK listed.
 
 ### 2026-09-27 | [LOCAL] T-270a | news-communication: full research eras 1-5 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-270-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage research
+RESULT: LANDED. FAIL  news-communication / research. measured: stage=PARTIAL eras=10/10 stories=19 (v10 c8 t1) verify_tags=5 bank=12519w outline=6321w manuscript=0w validator_errors=0
+        452183 tokens, 225 tool uses, 29.0 min (opus). Eras 1-5 researched + bank check. 10 stories verified: Manteo, Benjamin Harris, Catua and Omtua, Anna Zenger, Elizabeth Timothy, Franklin, Isaac Bissell (not Israel), Paine, Mary Katharine Goddard, Matthew Lyon. John Peter Zenger story removed (told elsewhere; span prose here). 1673 post rider, Zenger verdict corrected, Common Sense counts, Sedition Act prosecutions, runaway and sale ads, Roanoke land. 5 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 11.
 
 ### 2026-09-27 | [LOCAL] T-273a | holidays: full research eras 1-5 [BURST5] | model opus
 STATUS: IN-FLIGHT
