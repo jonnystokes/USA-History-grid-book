@@ -3111,3 +3111,8 @@ RESULT: LANDED. FAIL  music / research. measured: stage=PARTIAL eras=10/10 stori
 T-273c holidays (chapter COMPLETE), T-267a art 1-5, T-268a music 1-5 (both PARTIAL). Parked items filed into 14 banks,
 all validate 0; the 7 written chapters still PASS prose. One art item to AUDIT-QUEUE. Measured: RESEARCHED 25 +
 WRITTEN 7 = 32 of 37. Left: art 6-10, music 6-10, storytelling-evolution, sports-play, styles. ONE AT A TIME.
+
+### 2026-09-27 | [LOCAL] T-267b | art: full research eras 6-7 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-267-art.md
+VERIFY: python tools/project_state.py --check art --stage research
