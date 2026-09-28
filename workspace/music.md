@@ -135,7 +135,7 @@ Companion files: outline `outlines/music.md` · research bank `research/research
 - [ ] Selena Quintanilla — the best-selling-Latin-artist-of-the-1990s claim, her dates, sales, the 1995 murder with the court record, and the posthumous album's sales.
 - [ ] **Dolly Parton — the whole entry. See "Featured people" below; the outline carries a 17-item research-target list and nothing on it is checked.**
 
-**2000 to Today**
+**2000 to Today** (T-268d, 2026-09-28: every item below is CLEARED. Sources and dates in `research/research-music.md`, "Era 10" and "PATCH 2026-09-28 (T-268d)". The Dolly Parton items above are cleared too: death confirmed by NPR, CNN, Spectrum News and Wikipedia beyond the Burchett statement.)
 - [ ] Napster 1999 and the 2001 shutdown; iPod 2001; iTunes Store 2003; Spotify US 2011; the revenue fall and recovery, from the industry's own annual reports.
 - [ ] Real per-stream numbers and who publishes them; the rights-holder-versus-performer distinction; a survey — not an assertion — that touring and merchandise are most working musicians' main income.
 - [ ] Taylor Swift — the masters sale and terms, the 2021–2023 re-recording dates and sales, the 2023–2024 tour gross from a sourced figure.
@@ -194,13 +194,14 @@ Jon asked specifically for Dolly Parton (d. 25 August 2026) as this chapter's fl
 - 1850–1900 — Scott Joplin **[carried over]** · Ella Sheppard · John Philip Sousa.
 - 1900–1950 — Louis Armstrong **[carried over]** · Bessie Smith · Billie Holiday · Maybelle Carter **[carried over, as the Bristol sessions]** · Woody Guthrie **[carried over]** · Marian Anderson.
 - 1950–2000 — **Dolly Parton (flagship)** · Elvis Presley **[carried over]** · Aretha Franklin **[carried over — `art-music` left this as an open "Ray Charles OR Aretha Franklin" choice; the split resolved it to Franklin as the story, with Charles kept as a span mention]** · Bob Dylan **[carried over]** · DJ Kool Herc **[carried over, as hip-hop]** · Selena Quintanilla.
-- 2000–Today — Taylor Swift · Kendrick Lamar.
+- 2000–Today — Taylor Swift · Kendrick Lamar. **T-268d update (2026-09-28):** era 10 researched. Verified stories: Zoë Keating (NEW, ordinary, replaces the working-musician target), Taylor Swift (*Miss Americana*, 2020), Kendrick Lamar, Dolly Parton (flagship, *Dolly Parton: Here I Am*, 2019). All 27 stories in the chapter are verified.
 
 **A carried-over claim that does NOT carry over.** `workspace/art-music.md` listed Scott Joplin and Louis Armstrong under a heading called "verified named". That heading was never sourced by a research bank, and under Jon's ruling it cannot stand. Both are `candidate` here. Do not restore the old wording.
 
 ## Cross-chapter parking log
 *Strong material found here that belongs to another chapter, and where it was parked.*
 
+- **T-268d (2026-09-28), burst rule:** nothing written into other chapters' files. Material for `crime-justice`, `disasters`, `storytelling-evolution`, `education`, `health`, `technology`, `big-business`, `government-politics` and `work-workers` is listed under TO PARK (T-268d) in the checkpoint.
 - **T-268b (2026-09-28):** nothing parked in other chapters' banks. Eras 6-7 point to `slavery-freedom` (Douglass, Tubman escapes), `storytelling-evolution` (the minstrel show), `religion` (camp meetings, 1883 rules, Ghost Dance), `native-nations` (Wounded Knee), `war` (the fighting), `technology` (the phonograph) instead of retelling them.
 - **T-268a (2026-09-28), burst rule:** nothing was written into other chapters' files. Material for them is listed under TO PARK in `control/checkpoints/T-268-music.md` for the director to file.
 

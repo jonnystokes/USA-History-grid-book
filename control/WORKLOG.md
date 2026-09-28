@@ -3170,9 +3170,11 @@ RESULT: LANDED. FAIL  styles / research. measured: stage=PARTIAL eras=10/10 stor
         330357 tokens, 156 tool uses, 20.5 min (opus). Eras 1-5 researched + bank check. Stories: Hannah Lyman (fined 1676 for silk), Mary Ring's inventory, Jack (1745 runaway ad), Charity Clarke (1769), Washington's 1789 suit. Massachusetts clothing laws 1634-82, the 1740 Negro Act clothing clause verbatim, indigo and enslaved dye-makers, the 1786 tignon order, Cofitachequi pearls 1540, New Mexico blanket tribute, Plymouth and Northampton land. 8 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-268d | music: full research era 10 incl. Dolly Parton, completes the chapter [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-268-music.md
 VERIFY: python tools/project_state.py --check music --stage research
+RESULT: DONE. PASS  music / research. measured: stage=RESEARCHED eras=10/10 stories=27 (v27 c0 t0) verify_tags=0 bank=37426w outline=22677w manuscript=0w validator_errors=0
+        386872 tokens, 132 tool uses, 18.3 min (opus). Era 10, chapter COMPLETE. Dolly Parton's death confirmed beyond the Burchett statement (NPR, CNN, Spectrum, Wikipedia: cancer, Nashville, 25 Aug 2026, age 80; announced by nephew Bryan Seaver); story fully sourced (Here I Am, 2019); $1M COVID gift worded exactly. Taylor Swift, Kendrick Lamar, Zoe Keating. Napster to streaming (court-order claim corrected), per-stream pay, MMA 2018, AI suits to Sep 2026, Las Vegas and Astroworld, Kennedy Center closure. 2 searched-not-found. TO PARK for nine chapters.
 
 ### 2026-09-27 | [LOCAL] T-272b | styles: full research eras 6-8 [BURST] | model opus
 STATUS: IN-FLIGHT

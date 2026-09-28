@@ -3,11 +3,11 @@
 # Chapter 33: Music
 
 <!-- hb-note -->
-**Status:** eras 1 to 5 RESEARCHED 2026-09-28 (T-268a). Eras 6 and 7 RESEARCHED 2026-09-28 (T-268b). Eras 8 and 9 RESEARCHED 2026-09-28 (T-268c). Era 10 still SEED, for T-268d (the Dolly Parton block now sits in era 10).
+**Status:** eras 1 to 5 RESEARCHED 2026-09-28 (T-268a). Eras 6 and 7 RESEARCHED 2026-09-28 (T-268b). Eras 8 and 9 RESEARCHED 2026-09-28 (T-268c). Era 10 RESEARCHED 2026-09-28 (T-268d). All ten eras researched.
 **Angle:** The music Americans made and listened to — who made it, where it came from, how it was recorded and sold, and who was paid.
 **Keep out:** painting, sculpture, photography, and writing (`art` — this chapter was split off from `art-music` by Jon's ruling, 2026-09-06) · film, television, and theater, including movie musicals and Broadway staging (`storytelling-evolution`, being built in parallel; song and score can be named here only where the music itself is the point) · the phonograph, the radio, and the streaming server as machines (`technology`) · records as a retail product and the label business (`marketplace`, `big-business`) · dance as fashion (`styles`)
 **Workspace:** `workspace/music.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
-**Research bank:** `research/research-music.md` (eras 1 to 9 written 2026-09-28). Stories in era 10 are still `target` or `candidate`.
+**Research bank:** `research/research-music.md` (all ten eras written 2026-09-28). Every story is `verified`.
 **Reference material:** `_reference/retired-art-music-2026-09-06/art-music-outline.md` (the seed this was split out of, retired by the director) · `_reference/retired-art-music-2026-09-06/research-art-music.md` (covers both halves).
 **Standing instruction for this chapter:** minstrelsy, the music made under slavery, and the record business's treatment of Black artists are all central here and all get told plainly, per Jon's ruling of 2026-09-06. No euphemism, no gist-summary, no leaving the reader to guess what happened.
 Editor's in-development note — not part of the final book; the parser strips it.
@@ -577,63 +577,115 @@ Black musicians made rock and roll in the early 1950s out of rhythm and blues an
 <!-- hb-story:end slug="selena-quintanilla" -->
 <!-- hb-time:end id="1950-2000" -->
 
-<!-- hb-time:start id="2000-today" order="10" chapter="music" label="2000 to Today" state="full" progress="seed" -->
+<!-- hb-time:start id="2000-today" order="10" chapter="music" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-In about twenty-five years, music went from something people bought one album at a time to something almost nobody buys at all. Recorded music now arrives through subscriptions, and most musicians earn their living from playing live instead. Hip-hop became the most-listened-to kind of music in the country. This chapter is current through 2026; say the cutoff.
+Sales of recorded music in the United States peaked in 1999, when most people bought CDs. A free program called Napster then let people copy songs from each other's computers. Sales fell in 15 of the 16 years from 2000 to 2015, and after counting rising prices, they ended about two-thirds lower. By 2025 most people paid a monthly fee to stream songs, and streaming brought in 82 cents of every dollar the record companies earned. A streaming service pays a fraction of a cent each time a song is played, and it pays the company that owns the recording, not the singer directly. Most working musicians earn more from playing live than from recordings. In 2017 Americans bought and streamed more hip-hop and R&B than any other kind of music. Dolly Parton, a songwriter from the Tennessee mountains, died on August 25, 2026, at 80. By September 2026, record companies were in court against companies whose computer programs make songs.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="File sharing, downloads, and streaming" -->
-Napster opened in 1999 and was shut down by court order in 2001 [VERIFY dates]. The iPod arrived in 2001 and the iTunes Store in 2003, selling songs one at a time [VERIFY]. Spotify launched in the United States in 2011 [VERIFY]. Recorded-music revenue fell for about fifteen years and then rose again; give the figures and the years, from the industry's own annual reports [VERIFY].
+<!-- hb-zoom level="span" label="Napster, the iPod and streaming, 1999 to 2025" -->
+- Shawn Fanning and Sean Parker started Napster in June 1999. It let people copy music files from each other's computers for free. In December 1999 record companies sued. A federal judge ordered Napster to block copyrighted songs, and Napster could not do it. It shut down in July 2001, when it had about 26.4 million users (Wikipedia, "Napster").
+- Apple showed the iPod on October 23, 2001, and its boss, Steve Jobs, said it held "1,000 songs in your pocket." The iTunes Store opened on April 28, 2003, and sold most songs for 99 cents each. By 2014 it had sold 35 billion songs (Wikipedia, "iPod" and "iTunes Store").
+- Spotify, a Swedish company, began streaming in the United States in July 2011. Streaming means playing a song over the internet without buying a copy. By March 2026 Spotify had 300 million paying subscribers around the world (Wikipedia, "Spotify").
+- The Recording Industry Association of America (RIAA), the record companies' trade group, counts what they earn. Sales peaked in 1999 at $20.9 billion, counted in 2016 dollars. They fell in 15 of the 16 years from 2000 to 2015, and in 2016 they were $7.57 billion (American Enterprise Institute, 2017, using RIAA figures). In 2016, for the first time, Americans paid more for streaming than for CDs and downloads. In 2025 the companies took in a record $11.5 billion at wholesale, the price the companies are paid, and $9.5 billion of it came from streaming (RIAA, March 16, 2026).
+- Vinyl records came back. Americans spent $1.04 billion on them in 2025 (Music Business Worldwide, citing the RIAA).
+Shared with: `technology` (the players and servers as machines) · `big-business` (the record companies) · `marketplace` (buying music)
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="What a stream pays" -->
-Per-stream payments are fractions of a cent and are paid to rights holders, not directly to performers; explain the difference plainly with real numbers and say who publishes them [VERIFY]. Touring and merchandise became the main income for most working musicians [VERIFY with a survey, not an assertion]. Taylor Swift re-recorded her early albums between 2021 and 2023 after her master recordings were sold without her; say what a master recording is [VERIFY the dates and the sale].
+- Spotify pays about 70 percent of the money it takes in to the owners of the music. About 58.5 percent goes to whoever owns the recording, usually a record company. About 12 percent goes to whoever owns the song itself, the publisher and the songwriter. The singer gets a share from the record company, under the singer's contract (Wikipedia, "Spotify").
+- Spotify pays by each recording's share of all plays, not a set price per play. In 2025 a music distributor, iMusician, put the average at $0.003 to $0.005 per play, and about $0.004 for a listener in the United States (iMusician, February 14, 2025).
+- From April 1, 2024, Spotify stopped paying anything for a recording played fewer than 1,000 times in a year. It said tens of millions of such recordings had each earned about 3 cents a month (Spotify for Artists, November 21, 2023).
+- Spotify says it paid the music business more than $11 billion in 2025. By its count, more than 1,500 artists earned over $1 million from it that year, and the artist ranked 100,000th earned about $7,300 (Spotify, "Loud & Clear," March 11, 2026).
+- In March 2021 a musicians' group, the United Musicians and Allied Workers, protested in 31 cities and asked for one cent per play (Wikipedia, "Spotify").
+- In 2018 the Music Industry Research Association surveyed 1,227 American musicians. Most earned money from playing live, and most could not live on music alone. Seventy-two percent of the women said they had faced discrimination because they were women (Nashville Scene, July 5, 2018).
+Shared with: `work-workers` (the job of a working musician) · `big-business` (the labels and Spotify)
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Hip-hop, country, and Latin music at the top" -->
-Hip-hop and R&B passed rock as the most-consumed music in the United States in 2017, by the tracking company's count [VERIFY the company and the measure]. Kendrick Lamar won the Pulitzer Prize for Music in 2018, the first winner from outside classical and jazz [VERIFY]. Latin music's share of American listening rose through the 2010s and 2020s [VERIFY figures]. Country crossed over repeatedly, and the fights over who counts as country are documented and specific [VERIFY at least one case with dates].
+<!-- hb-story:start slug="zoe-keating" name="Zoë Keating" movie="" kind="ordinary" status="verified" -->
+### Zoë Keating
+> **Who:** A cellist and composer who sells her own recordings and publishes what streaming pays her. · **When and where:** Born February 2, 1972, in Guelph, Ontario, Canada, to an English mother and an American father. Worked in San Francisco, California, and later Vermont.
+- She played cello in the band Rasputina from 2002 to 2006. Then she began recording alone, using a computer to record and repeat her own cello parts so that one player sounds like many (Wikipedia, "Zoë Keating").
+- She released her albums herself, without a record company. Her album *One Cello x 16: Natoma* reached No. 1 on the iTunes classical chart four times (Wikipedia).
+- In August 2012 she began publishing her income from sales and streaming, so other musicians could see real numbers (Music Ally, November 22, 2019).
+- In September 2019 she posted: "206,011 Spotify streams. $753. $0.003655144628199 per stream." That is about a third of a cent per play. Her distributor took no cut (Music Ally).
+- In May 2014 her husband, Jeff Rusch, was found to have stage 4 cancer. Their insurance company, Anthem, first refused to pay for his hospital stay and changed its decision after local news reported it. He died on February 19, 2015 (Wikipedia).
+<!-- hb-story:end slug="zoe-keating" -->
+<!-- hb-zoom level="span" label="Who owns a recording: masters and songs" -->
+- Every recorded song has two copyrights. One covers the song, its words and tune. The other covers the master, the first recording that every copy is made from. Whoever owns the master is paid for every copy and every stream of that recording (Wikipedia, "Taylor Swift masters dispute").
+- Record companies owned most masters. Ray Charles and Sam Cooke were among the few singers of the 1950s and 1960s who owned their own (see 1950 to 2000).
+- In December 2020 Bob Dylan sold the rights to all of his songs to Universal Music Publishing Group. The New York Times estimated the price at more than $300 million, and other reports said about $400 million (Wikipedia, "Bob Dylan").
+- Dolly Parton owned the rights to her songs all her life. Sony Music owns her recordings for RCA, and probably for Columbia, about 23 albums (Billboard, August 28, 2026). Her story is below.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Dolly Parton's death, 2026" -->
-Dolly Parton died on August 25, 2026. On that day Representative Tim Burchett of Tennessee issued a statement crediting her music and her work on education access for young Tennesseans: [Statement on the Passing of Dolly Parton](https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton). That statement is the only source this book holds so far. Her career is seeded in the 1950 to 2000 section, and everything in it still needs sourcing before a word of it is written [VERIFY].
+<!-- hb-story:start slug="taylor-swift" name="Taylor Swift" movie="Miss Americana (2020)" kind="famous" status="verified" -->
+### Taylor Swift
+> **Who:** A songwriter and singer who recorded four of her first six albums again after a music manager bought the master recordings. · **When and where:** Born December 13, 1989, in West Reading, Pennsylvania. Moved to Hendersonville, Tennessee, at 14. · **Movie:** *Miss Americana* (2020), a documentary about her
+- At 14 she signed with a Nashville music publisher as a songwriter, the youngest it had ever signed. After a show at Nashville's Bluebird Cafe on November 3, 2004, she signed with Scott Borchetta's new company, Big Machine Records. Big Machine owned the masters of her first six albums (Wikipedia, "Taylor Swift").
+- On June 30, 2019, the music manager Scooter Braun bought Big Machine for about $330 million, and with it her masters. Swift said she had tried for years to buy them and was offered them only if she signed up for six more albums (Wikipedia, "Taylor Swift masters dispute").
+- In October 2020 Braun sold the masters to Shamrock Holdings, a company owned by the family of Roy E. Disney, for a reported $405 million (Wikipedia).
+- She recorded four of the albums again, so that she would own the new masters: *Fearless* (April 9, 2021), *Red* (November 12, 2021), *Speak Now* (July 7, 2023) and *1989* (October 27, 2023). Each came out as "Taylor's Version" (Wikipedia).
+- Her Eras Tour ran from March 17, 2023, to December 8, 2024, with 149 shows. It took in $2.07 billion, more than any concert tour before it (Wikipedia, "The Eras Tour").
+- On May 30, 2025, she said she had bought all six original masters from Shamrock. The price was not made public (Wikipedia).
+<!-- hb-story:end slug="taylor-swift" -->
+<!-- hb-zoom level="span" label="The Music Modernization Act, 2018" -->
+- Members of the House passed the Music Modernization Act on April 25, 2018. Senators passed it unanimously on September 19, and President Donald Trump signed it on October 11, 2018 (Wikipedia, "Music Modernization Act").
+- It set up a nonprofit group, the Mechanical Licensing Collective, to keep a list of who owns each song and pay songwriters for streams. In 2021 the group began paying out money that had been held because no one knew whose songs had been played (Wikipedia).
+- Recordings made before February 15, 1972, had no federal copyright, so internet radio services did not have to pay for playing them. The act changed that, so the singers and musicians on those older records are paid when digital radio plays them (Wikipedia).
+Shared with: `government-politics` (the law) · `big-business` (the streaming companies)
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Hip-hop, Latin music and country radio" -->
+- In 2017 hip-hop and R&B made up 24.5 percent of all the music Americans bought or streamed, more than any other kind. Rock was second, just under 21 percent. The count was made by Nielsen Music, a company that tracks sales and streams (CNBC, January 4, 2018).
+- Kendrick Lamar won the Pulitzer Prize for Music in 2018, the first winner from outside classical music and jazz (NPR, April 16, 2018). His story is below.
+- In 2025 Latin music brought in $1 billion, 8.8 percent of the record companies' income in the United States. It was the tenth record year in a row (RIAA, 2026).
+- Jada Watson, a researcher, counts plays on country radio. Songs by women got 11 percent of airplay by 2022. Songs by Black women and other women of color got almost none in the daytime (Watson, "Redlining in Country Music 2.0," 2023).
+- Beyoncé, a Black singer from Texas, sang her country song "Daddy Lessons" at the Country Music Association Awards on November 2, 2016. Some country fans said she did not belong there, and the association deleted its online posts about her performance. Her country album *Cowboy Carter* (2024) made her the first Black woman with a No. 1 album on the country album chart. The Country Music Association did not nominate it for any award. On February 2, 2025, it won the Grammy Awards for Album of the Year and Best Country Album (Wikipedia, "Cowboy Carter").
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="kendrick-lamar" name="Kendrick Lamar" movie="" kind="famous" status="verified" -->
+### Kendrick Lamar
+> **Who:** A Black rapper and songwriter, the first musician outside classical music and jazz to win the Pulitzer Prize for Music. · **When and where:** Born June 17, 1987, in Compton, California.
+- His parents moved from the South Side of Chicago to Compton in 1984. When he was five, he saw a teenage drug dealer shot dead outside his apartment. A seventh-grade English teacher, Regis Inge, taught him poetry (Wikipedia, "Kendrick Lamar").
+- He signed with a small Los Angeles label, Top Dawg Entertainment, in 2005. His album *To Pimp a Butterfly* (2015) used jazz, funk and soul. Protesters in the Black Lives Matter movement used his songs as anthems (Wikipedia).
+- On April 16, 2018, his album *DAMN.* won the Pulitzer Prize for Music. The Pulitzer board called it "a virtuosic song collection unified by its vernacular authenticity and rhythmic dynamism." The prize was $15,000 (NPR, April 16, 2018).
+- On February 9, 2025, he performed at the Super Bowl halftime show. About 133.5 million people watched, more than any halftime show before (Wikipedia).
+- He has won 27 Grammy Awards, more than any other rapper (Wikipedia).
+<!-- /hb-story:end slug="kendrick-lamar" -->
+<!-- hb-zoom level="span" label="Deaths at music festivals, 2017 and 2021" -->
+- On October 1, 2017, more than 22,000 people were at the last night of the Route 91 Harvest country music festival in Las Vegas, Nevada. At 10:05 p.m., while the country singer Jason Aldean was playing, Stephen Paddock, 64, began firing into the crowd from his rooms on the 32nd floor of the Mandalay Bay hotel. In ten minutes he fired more than 1,000 rounds. He killed 58 people there and wounded at least 413 with gunfire, and about 867 people were hurt in all. Two wounded women died later, in 2019 and 2020, so the official count is 60 dead. Paddock shot himself. Investigators never found out why he did it (Wikipedia, "2017 Las Vegas shooting"). `crime-justice` tells the shooting.
+- On November 5, 2021, about 50,000 people came to the Astroworld Festival in Houston, Texas. When the rapper Travis Scott, who started the festival, came on stage, the crowd pushed toward him. Ten people died of compressive asphyxiation: they were squeezed so hard they could not breathe. Thousands were hurt. The youngest to die was a boy of 9 or 10 (reports differ). In June 2023 a Harris County grand jury decided not to charge Scott or five others, among them a festival manager for the concert company Live Nation (CBC News, June 2023).
+Shared with: `crime-justice` (the Las Vegas shooting) · `disasters` (the crowd crush)
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Machines that make music" -->
-Auto-tune moved from a correction tool to an instrument; find when and who first used it that way [VERIFY]. Music generated by software trained on existing recordings became usable from about 2023, and musicians and labels went to court over the training; say where those cases stood at the cutoff rather than predicting [VERIFY]. The 2008 fire at a Universal Music storage vault destroyed master recordings; the scale was only reported publicly in 2019 and the number destroyed is disputed [VERIFY and state the dispute].
+- Auto-Tune is a computer program that moves a singer's off-key notes onto the right pitch. The engineer Andy Hildebrand invented it, and his company released it on September 19, 1997. Cher used it in 1998 to make her voice sound like a machine. The rapper and singer T-Pain used it that way from his 2005 album *Rappa Ternt Sanga* on, and Kanye West used it on his 2008 album *808s & Heartbreak* (Wikipedia, "Auto-Tune").
+- On June 1, 2008, a worker at Universal Studios Hollywood used a blowtorch to heat roof shingles and left before they cooled. The fire burned a video vault. In 2019 a New York Times Magazine writer, Jody Rosen, reported that the same fire also destroyed 118,000 to 175,000 of Universal Music Group's master tapes, possibly including records by Chuck Berry, Muddy Waters and John Coltrane. Universal's managers said the report contained "numerous inaccuracies." They confirmed that the masters of one Soundgarden album burned (Wikipedia, "2008 Universal Studios fire").
+- Companies such as Suno and Udio sell computer programs that make whole songs from a typed request. In June 2024 the largest record companies sued both, saying the programs had been trained on their recordings without permission. Universal settled with Udio in October 2025, and Warner settled with Suno in November 2025. Udio and Suno agreed to build new programs trained only on licensed music. In September 2026 Universal and Sony were still suing Suno, and Suno admitted in court papers that it had downloaded audio from YouTube (Wikipedia, "Suno (platform)" and "Udio").
+- On September 1, 2026, the songwriter Jason Isbell and three other musicians sued Suno for themselves and other artists (Wikipedia, "Suno (platform)").
+- In March 2025 a federal judge, Eumi Lee, refused music publishers' request to stop the company Anthropic from using song lyrics to train its computer program while their case went on (Hollywood Reporter, March 2025).
+- By the end of September 2026, no American court had given a final ruling on whether a company may train a song-making program on recordings without permission.
+Shared with: `technology` (the programs as machines) · `big-business` (the lawsuits)
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="taylor-swift" name="Taylor Swift" movie="" kind="famous" status="candidate" -->
-### Taylor Swift
-> **Who:** Songwriter and performer; re-recorded her own catalog to own it. · **When and where:** Pennsylvania, Nashville, 1989 onward [VERIFY].
-
-Research targets: the sale of her master recordings and the terms; the re-recording project's dates and sales; the 2023 and 2024 tour's reported gross, from a sourced figure.
-<!-- hb-story:end slug="taylor-swift" -->
-<!-- hb-story:start slug="kendrick-lamar" name="Kendrick Lamar" movie="" kind="famous" status="candidate" -->
-### Kendrick Lamar
-> **Who:** Rapper; won the Pulitzer Prize for Music in 2018 [VERIFY]. · **When and where:** Compton, California, 1987 onward [VERIFY].
-<!-- hb-story:end slug="kendrick-lamar" -->
-<!-- hb-story:start slug="target-working-musician" name="(target) a working musician in the streaming era" movie="" kind="ordinary" status="target" -->
-### (target) a working musician in the streaming era
-A musician who is not famous and who has published their own figures — streaming payouts, tour costs, what a night's work pays. Interviews, union surveys, and testimony to Congress are all real sources. Use their numbers, name them, and do not average several people into one.
-<!-- hb-story:end slug="target-working-musician" -->
-<!-- hb-story:start slug="dolly-parton" name="Dolly Parton" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="The Kennedy Center, 2025 and 2026" -->
+- The Kennedy Center is a hall for music, theater and dance in Washington, D.C., named for President John F. Kennedy. The National Symphony Orchestra plays there. In February 2025 its board chose President Donald Trump as chairman. On December 18, 2025, the board voted to add his name to the building (CBS News, December 18, 2025).
+- Representative Joyce Beatty, a member of the board, sued. A federal judge, Christopher Cooper, blocked the name change. Many performers canceled their shows there, saying the center had become political, and ticket sales fell (NPR, September 15, 2026).
+- On September 15, 2026, minutes after Judge Cooper again blocked the name change, the board voted to close the building. Trump wrote that repairs would not begin unless an appeals court allowed his name (NPR). The center's director reported falling plaster and decay under the roof, and kept the building closed at least until September 30, 2026. The National Symphony Orchestra played at other halls (WTOP, September 2026).
+Shared with: `art` (parked from there) · `storytelling-evolution` (theater) · `government-politics` (the court case)
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Dolly Parton's death, August 2026" -->
+- Dolly Parton died of cancer in Nashville, Tennessee, on August 25, 2026. She was 80. Her family did not say what kind of cancer. Her nephew Bryan Seaver, her head of security for more than 20 years, announced her death, as she had asked him to years before (NPR, August 25, 2026. CNN, August 25, 2026. Wikipedia, "Dolly Parton").
+- That day, Representative Tim Burchett of Tennessee said, "Today, Tennessee lost one of our greatest ambassadors in Dolly Parton" ([Statement on the Passing of Dolly Parton](https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton)). President Trump ordered flags at federal buildings flown at half-staff for a week (Spectrum News, August 26, 2026).
+- After her death, nearly every major radio station in Tennessee held a moment of silence at the same hour and then played "I Will Always Love You." Her family held a private funeral on August 28, and asked people to give to her Imagination Library instead of sending flowers (Wikipedia. Spectrum News).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="dolly-parton" name="Dolly Parton" movie="Dolly Parton: Here I Am (2019)" kind="famous" status="verified" -->
 ### Dolly Parton
-> **Who:** Singer and songwriter from Tennessee. · **When and where:** Tennessee; died August 25, 2026. · **Sourcing:** one source in hand — nothing below the first paragraph has been checked.
-
-**What the one source actually says.** Representative Tim Burchett of Tennessee's 2nd district issued a statement dated Tuesday, August 25, 2026, which opens: "Today, Tennessee lost one of our greatest ambassadors in Dolly Parton." The statement credits her music and her philanthropic work on education access for young Tennesseans. It gives no age, no birth date, no cause of death, and it names no songs, films, or awards. Source: [Statement on the Passing of Dolly Parton, Rep. Tim Burchett](https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton).
-
-**Everything below this line is a research target, not a fact this book has checked.** A research agent sources each item with a date and a citation, or the item comes out. Jon asked for as many of the things she did as can be verified, so the list is long on purpose [VERIFY every line].
-
-- Birth date, birthplace, parents, and the number of children in the family; the Sevier County childhood she described in interviews and in her own songs.
-- When she moved to Nashville, her first recording contract, and her first charting record.
-- The years on the Porter Wagoner television show, how that partnership began, and how it ended.
-- Her songwriting: how many songs she wrote in total, and which of the famous ones she wrote alone — Coat of Many Colors, Jolene, I Will Always Love You, 9 to 5, and others. Give the writing date and the first release date for each.
-- Whitney Houston's 1992 recording of I Will Always Love You: the sales, and what Parton received as the writer.
-- Her recording career in numbers: albums released, singles charted, number-one country singles, and the years of the first and last.
-- Awards and honors: Grammy wins and nominations with years; Country Music Association awards; the Kennedy Center Honors; the Rock and Roll Hall of Fame induction and her public response to being nominated; the Presidential Medal of Freedom — check carefully whether it was received, offered, or declined, because the record on this is specific.
-- Film and television: 9 to 5 (1980) and the theme song she wrote for it; The Best Little Whorehouse in Texas; Steel Magnolias; her television specials and made-for-television films. Verify every title and year before naming it, and route the film-and-television telling to `storytelling-evolution` rather than repeating it here.
-- Dollywood: the year it opened, where it is, who owns it, how many people it employs, and what it pays in wages — sourced figures only, no estimates.
-- The Dollywood Foundation and the Imagination Library: the year it began, how the book-mailing works, how many books have been sent, how many children are enrolled, and which countries it operates in.
-- Her 2020 gift to Vanderbilt University Medical Center and its role in the research behind a COVID-19 vaccine: verify the amount, the date, exactly what the money funded, and how the connection was reported, because this one is widely repeated in a loose form.
-- Her giving after the 2016 Gatlinburg wildfires: the fund's name, the monthly payment, the number of families, and the total.
-- Her business ownership: her publishing company, her stake in her own catalog, and what she did about the rights to her songs.
-- Her literacy and education work in Tennessee beyond the Imagination Library, which is what the Burchett statement actually points at.
-- The death itself: date, place, cause, and her age. The Burchett statement gives only the date, and only by implication. Find a primary announcement from the family or estate and at least two major obituaries before writing a single sentence about it.
-- Whether a documentary about her exists that could carry a `> **Movie:**` line. Do not name one until it is verified; the `movie` attribute on this block stays empty until then.
+> **Who:** A singer and songwriter from the Great Smoky Mountains of Tennessee who wrote more than 3,000 songs, owned the rights to them, and mailed free books to children. · **When and where:** Born January 19, 1946, in a one-room cabin in Pittman Center, Sevier County, Tennessee. Moved to Nashville in 1964. Died August 25, 2026, in Nashville, at 80. · **Movie:** *Dolly Parton: Here I Am* (2019), a documentary about her
+- She was the fourth of 12 children. Her father, Robert Lee Parton, grew tobacco and could not read or write. He paid the doctor who delivered her with a sack of cornmeal. Her mother, Avie Lee Parton, sang old ballads to the children. She sang in her grandfather's church from age six (Wikipedia, "Dolly Parton").
+- By ten she sang on a Knoxville radio and television show. At 13 she made her first record and sang at the Grand Ole Opry. The day after she finished high school in 1964, she moved to Nashville (Wikipedia).
+- In 1967 Porter Wagoner hired her for his weekly television show. Their duets sold well for six years. From 1969 Wagoner owned nearly half of her song-publishing company (Wikipedia).
+- She wrote her first No. 1 song, "Joshua," alone, and it reached the top of the country chart in February 1971 (NPR. Wikipedia). "Coat of Many Colors" (1971) is about her family's poverty.
+- In 1973 she wrote "Jolene" and "I Will Always Love You" within a few days. She wrote "I Will Always Love You" as a goodbye to Wagoner when she left his show in 1974 (Wikipedia, "I Will Always Love You").
+- In 1974 Elvis Presley wanted to record "I Will Always Love You." His manager, Colonel Tom Parker, told her that the songwriter had to give Presley's side half the publishing rights. She said no. In 1992 Whitney Houston's recording of the song sold more than 24 million copies around the world. Parton said, "I made enough money to buy Graceland" (Wikipedia, "I Will Always Love You").
+- She wrote "9 to 5" for the 1980 film about three women office workers, in which she acted. It reached No. 1 on the country and pop charts in February 1981 (Wikipedia).
+- She sold more than 100 million records, had at least 25 No. 1 country songs and won 11 Grammy Awards. She turned down the Presidential Medal of Freedom three times (Wikipedia).
+- In 1986 she became a partner in a theme park in Pigeon Forge, Tennessee, and renamed it Dollywood. It has about 4,000 to 4,500 workers, the most of any employer in Sevier County. From 2022 it paid college costs for workers who chose to go (Wikipedia. CNN, August 27, 2026).
+- In 1995 she started the Imagination Library in Sevier County because her father could not read. It mails one free book a month to each child who signs up, from birth to age five. Her foundation and local partners pay for the books. By 2026 it had mailed more than 300 million books in five countries (imaginationlibrary.com. EdWeek, August 31, 2026).
+- In the spring of 2020 she gave $1 million to Vanderbilt University Medical Center for coronavirus research, in honor of her friend Dr. Naji Abumrad. A research paper on Moderna's COVID-19 vaccine listed her fund among its supporters. The US government put about $2.5 billion into that vaccine (Fortune, August 26, 2026. USA Today, November 26, 2020).
+- After wildfires burned homes near Gatlinburg, Tennessee, in November 2016, her My People Fund paid $1,000 a month for six months to more than 900 families affected by the fires, and $5,000 in the last month (Wikipedia).
+- She owned the rights to her songs all her life. Sony Music owns her recordings for RCA, and probably for Columbia. From 1995 she owned most of her new recordings on her own label (Billboard, August 28, 2026).
 <!-- hb-story:end slug="dolly-parton" -->
 <!-- hb-time:end id="2000-today" -->

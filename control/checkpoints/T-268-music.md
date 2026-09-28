@@ -1,13 +1,13 @@
-# CHECKPOINT T-268 | music | full | T-268a: eras 1-5
+# CHECKPOINT T-268 | music | full | T-268a-d: all ten eras
 
-STATUS: T-268c landed (director verified: FAIL  music / research)
+STATUS: T-268d landed (director verified: PASS  music / research)
 VERIFY: python tools/project_state.py --check music --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/music.md · research/research-music.md · workspace/music.md
 
-NOW:    T-268c finished (2026-09-28)
-NEXT:   T-268d: research era 10 (2000-today) in outlines/music.md, then the bank check for era 10, then confirm all ten progress flags and run --check. Remaining: 19 [VERIFY] (all in era 10), 3 candidates (Taylor Swift, Kendrick Lamar, Dolly Parton), 1 target (working musician). DOLLY PARTON is the flagship: her block now sits in era 10 (moved unchanged from era 09 by T-268c); research her whole life there (birth 1946, Sevier County, Porter Wagoner, songwriting, 'I Will Always Love You', Dollywood, Imagination Library, Vanderbilt gift, catalog ownership, the death on Aug. 25, 2026 from a family/estate announcement plus two obituaries, a verified documentary for the Movie line). Rewrite the era-10 span 'Dolly Parton's death, 2026', which still says her career is seeded in 1950-2000 (era 09 now carries only a pointer line to era 10). Also for era 10: country radio and women artists as numbers (studies from 2019 on, e.g. Jada Watson); Saldivar's parole (perishable, next review March 2030); Kool Herc Rock Hall 2023; Dylan's catalog sale (2020). Burst rule may still apply: check with the director before writing other chapters' banks.
+NOW:    T-268d finished (2026-09-28)
+NEXT:   Director: verify --check music --stage research, commit, and file the TO PARK (T-268d) list. The chapter is RESEARCHED: all ten eras progress=researched, 27 verified stories, 0 [VERIFY]. Perishable before prose: Kennedy Center closure (weekly), Suno lawsuits, Dolly Parton posthumous honors.
 
 ## BURST (Jon, 2026-09-27): burst of three (holidays, art, music)
 
@@ -47,6 +47,26 @@ for those eras. T-268b does eras 6-10 later (it may be split further).
 | 8 | research era 08 (1900-1950): outline + bank, clear [VERIFY], resolve every candidate | done | progress=researched, 0 [VERIFY]; 7 verified stories (Bessie Smith, Armstrong, Maybelle Carter, DeFord Bailey NEW, Guthrie, Holiday, Anderson); bank section 'Era 08' |
 | 9 | research era 09 (1950-2000): same; move the Dolly Parton block to era 10 for T-268d | done | progress=researched, 0 [VERIFY]; 6 verified stories (Presley, Franklin, Bernice Johnson Reagon NEW, Dylan, Kool Herc, Selena); Dolly block moved unchanged to era 10 |
 | 10 | bank check eras 8-9, validator, research check, NEXT for T-268d | done | 'PATCH 2026-09-28 (T-268c)' section at end of bank; check FAIL only on era 10 |
+
+## Units, T-268d (era 10, the last agent)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 11 | research era 10 (2000-today): outline + bank, clear every [VERIFY], source or resolve the 3 candidates and 1 target; Dolly Parton flagship (confirm death first) | done | progress=researched, 0 [VERIFY]; death confirmed (NPR, CNN, Spectrum, Wikipedia, Burchett); 4 verified stories: Dolly Parton (movie Here I Am 2019), Taylor Swift (Miss Americana 2020), Kendrick Lamar, Zoe Keating (NEW, replaces the working-musician target); validator 0 errors |
+| 12 | bank check, era 10 | done | 'PATCH 2026-09-28 (T-268d)' in bank: harms/actors/counts, land, firsts, perishables, seed claims corrected, candidates resolved |
+| 13 | final: all ten progress= flags, validator, --check music --stage research | done | all ten flags researched (checked by grep); validator 0 errors; PASS (see Log) |
+
+## TO PARK (T-268d) (for the director to file; burst rule: T-268d wrote no other chapter's files)
+- `crime-justice`, era 10: Route 91 Harvest festival shooting, Las Vegas, Oct. 1, 2017, 10:05-10:15 p.m.: Stephen Paddock, 64, fired more than 1,000 rounds from the 32nd floor of Mandalay Bay; 58 killed that night, official count 60 (two wounded women died 2019, 2020); at least 413 wounded by gunfire, about 867 hurt; motive never determined; bump stocks banned by DOJ Dec. 2018, ban overturned by the Supreme Court in 2024 (Wikipedia, "2017 Las Vegas shooting").
+- `crime-justice` or `disasters`, era 10: Astroworld, Houston, Nov. 5, 2021: about 50,000 attended; 10 died of compressive asphyxiation; youngest 9 or 10 (CBC says 10, ABC/GMA summaries say 9); Harris County grand jury (DA Kim Ogg) declined to indict Travis Scott and five others incl. Live Nation's Brent Silberstein after a 19-month investigation (CBC News, June 2023).
+- `disasters`, era 10: 2016 Great Smoky Mountains wildfires: Dolly Parton's My People Fund paid $1,000 a month for six months to more than 900 families, $10,000 each in total; telethon Dec. 13, 2016, about $9 million; UT professor Stacia West studied the payments (Wikipedia, "Dolly Parton"). The fires' death toll was not researched here.
+- `storytelling-evolution`, eras 09-10: Dolly Parton's screen work: 9 to 5 (1980), The Best Little Whorehouse in Texas (1982), Rhinestone (1984), Steel Magnolias (1989), Straight Talk (1992), Joyful Noise (2012); TV Dolly! (1976-77), Dolly (1987-88); Emmy for Christmas on the Square (2021); Broadway 9 to 5 (2009, Tony nomination); Dolly: A True Original Musical (2026) (Wikipedia). Kennedy Center 2025-26 (theater): see research/research-music.md, Era 10.
+- `education`, eras 09-10: Dollywood Foundation (1988), Buddy Program (1991; $500 per graduate; dropout rate 35% to 6% by the foundation's count); Imagination Library (1995; 1 book a month birth to 5; 100 millionth book to the Library of Congress Feb. 27, 2018; more than 300 million by 2026; 2024: 1 in 7 US children under 5; Indiana Gov. Mike Braun ended the 50% state match Feb. 2025) (imaginationlibrary.com; EdWeek Aug. 31, 2026; Wikipedia).
+- `health`, era 10: Parton's $1 million to Vanderbilt (spring 2020) and the NEJM acknowledgment of the Dolly Parton COVID-19 Research Fund; US agencies about $2.5 billion to Moderna (USA Today fact check, Nov. 26, 2020; Fortune, Aug. 26, 2026). Zoe Keating's husband: Anthem denied, then reversed, coverage, 2014 (Wikipedia). DJ Kool Herc uninsured, hospital deposit request, 2011 (Wikipedia via The Source).
+- `technology`, era 10: iPod Oct. 23, 2001; iTunes Store April 28, 2003; Spotify US July 2011; Auto-Tune released Sept. 19, 1997 (Andy Hildebrand); Suno v6 (Sept. 9, 2026) trained on licensed data; 2026 Suno hack showed scraped YouTube Music audio (Wikipedia pages).
+- `big-business`, era 10: Taylor Swift masters (Ithaca $330M 2019; Shamrock $405M 2020; Braun/Ithaca profit about $265M; Swift bought back May 30, 2025); Dylan catalog to UMPG Dec. 2020 (>$300M, NYT estimate); Parton catalog valuation about $220-232M, Sony owns her RCA-era masters (Billboard, Aug. 28, 2026); Live Nation-Ticketmaster (merged 2010) and Eras Tour ticketing scrutiny; RIAA v. Suno/Udio settlements.
+- `government-politics`, era 10: Music Modernization Act (House April 25, 2018; Senate unanimous Sept. 19, 2018; signed by Trump Oct. 11, 2018; Pub. L. 115-264) (Wikipedia). Kennedy Center: Beatty v. Trump; Judge Christopher Cooper; board closure vote Sept. 15, 2026; Floca filing extending closure to Sept. 30, 2026 (NPR; WTOP).
+- `work-workers`, era 10: MIRA 2018 survey of 1,227 US musicians (Alan Krueger, Princeton): 72% of women musicians reported sex discrimination, 67% sexual harassment; 63% of non-white musicians racial discrimination (Nashville Scene, July 5, 2018); income figures search summary only. UMAW protests in 31 cities, March 2021, for one cent per stream (Wikipedia, "Spotify"). Parton was a dues-paying member of the Nashville musicians' union from 1968 to 2026 (Wikipedia).
 
 ## SUBJECT NOTES (from the director)
 
@@ -139,3 +159,10 @@ chapter tells him. Eras with no story are allowed, so this is optional.
     eras with no story: 1500s
   validate_grid: music.md : 1 chapters, 27 stories, 0 errors
   All remaining [VERIFY], candidates and the target are in era 10 (T-268d).
+- 2026-09-28 T-268d unit 11 era 10 DONE: progress=researched, 0 [VERIFY], 4 verified stories (Zoe Keating NEW, Taylor Swift, Kendrick Lamar, Dolly Parton). Dolly Parton's death CONFIRMED beyond Burchett: NPR (Jewly Hight, Aug. 25, 2026: statement from her representatives, video from nephew Bryan Seaver, "died peacefully" in Nashville; publicist Marcel Pariseau via AP: "a brief battle with cancer"), CNN live (Aug. 25-26), Spectrum News (Aug. 26), Wikipedia (hospitalized Aug. 21 at Vanderbilt-Ingram; private funeral Aug. 28; Woodlawn). Cancer type stated nowhere (SNF). Other sources: Billboard (Christman, Aug. 28, 2026, catalog), imaginationlibrary.com, EdWeek, WECT, Fortune, USA Today fact check 2020, CNN Business (Dollywood), Wikipedia (Dollywood, Dollywood Foundation, I Will Always Love You, Here I Am, Napster, iPod, iTunes Store, Spotify, Taylor Swift, masters dispute, Eras Tour, Kendrick Lamar, MMA, Cowboy Carter, Auto-Tune, 2008 Universal fire, Suno, Udio, Las Vegas shooting, Zoe Keating, DJ Kool Herc, Bob Dylan), RIAA 2023 PDF, RIAA 2025 page, RIAA Latin 2025 PDF, MBW, Music Business Research 2017, AEI 2017, DMN 2021, Spotify for Artists 2023, Spotify Loud & Clear 2026, iMusician 2025, Music Ally 2019, CNBC 2018, NPR 2018 (Pulitzer), Watson Redlining 2.0 PDF, THR 2025 (Concord v. Anthropic), CBC (Astroworld), Nashville Scene 2018 (MIRA), WTOP 2026 (Kennedy Center). SNF: Dollywood wages; Parton's cancer type. Left out of the outline: MIRA income dollars (search summary only), Keating's 2012 and 2017 figures (summary only), the May 2026 Cooper quote (summary only), Parton's posthumous honors (perishable), merchandise as income (no source).
+- 2026-09-28 T-268d unit 12 DONE: PATCH 2026-09-28 (T-268d) in bank.
+- 2026-09-28 T-268d unit 13 final: all ten progress= flags researched.
+  PASS  music / research
+    bar: 10/10 eras researched | 0 target | 0 candidate | no suspect verified | bank >= outline words | 0 [VERIFY] tags | validator 0 errors
+    measured: stage=RESEARCHED eras=10/10 stories=27 (v27 c0 t0) verify_tags=0 bank=36244w outline=22677w manuscript=0w validator_errors=0
+    eras with no story: 1500s
