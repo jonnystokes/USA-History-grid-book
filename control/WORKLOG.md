@@ -3125,3 +3125,8 @@ CHECKPOINT: control/checkpoints/T-267-art.md
 VERIFY: python tools/project_state.py --check art --stage research
 RESULT: LANDED. FAIL  art / research. measured: stage=PARTIAL eras=10/10 stories=33 (v30 c2 t1) verify_tags=10 bank=31586w outline=16425w manuscript=0w validator_errors=0
         488559 tokens, 191 tool uses, 26.4 min (opus). Eras 8-9 + bank check. 11 candidates verified (O'Keeffe, Lange, Lawrence, Savage, Hurston, Martinez, Pollock, Warhol, Parks, Ringgold, Morrison). Savage's 1923 rejection and 1940 bulldozing, WPA denials and the Harlem Artists Guild, Lange's withheld camp photographs, Dorothy Dunn's school, CIA and abstract expressionism (officers' own 1995 statements plus doubters), Chicano Park, AIDS quilt, 1989-90 NEA fights. Florence Owens Thompson corrected; Armory 'first' cut. 4 searched-not-found. Parked to crime-justice, health, native-nations. Chapter FAIL until era 10.
+
+### 2026-09-27 | [LOCAL] T-267d | art: full research era 10, completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-267-art.md
+VERIFY: python tools/project_state.py --check art --stage research
