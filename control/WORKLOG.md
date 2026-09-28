@@ -3070,3 +3070,8 @@ CHECKPOINT: control/checkpoints/T-270-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage research
 RESULT: LANDED. FAIL  news-communication / research. measured: stage=PARTIAL eras=10/10 stories=22 (v19 c2 t1) verify_tags=1 bank=26459w outline=13737w manuscript=0w validator_errors=0
         478823 tokens, 187 tool uses, 27.9 min (opus). Eras 6-8 + bank check. Stories: Boudinot, Lovejoy, Douglass, Nellie Bly, Ida B. Wells, William Cooper Nell, Robert S. Abbott, Victor Berger, Murrow (Tarbell story removed: big-business tells it). Cherokee Phoenix press seized 1835, whites-only mail carrier law 1802-65, Charleston mail burning, Garrison mob, Civil War closures, Western Union, Wilmington 1898, 1917-18 mail bans and 2,000+ Espionage/Sedition cases, radio ownership, WWII censorship, camp newspapers. 6 searched-not-found. Chapter FAIL until eras 9-10.
+
+### 2026-09-27 | [LOCAL] T-270c | news-communication: full research eras 9-10, completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-270-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage research
