@@ -3162,3 +3162,8 @@ VERIFY: python tools/project_state.py --check sports-play --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-272-styles.md
 VERIFY: python tools/project_state.py --check styles --stage research
+
+### 2026-09-27 | [LOCAL] T-268d | music: full research era 10 incl. Dolly Parton, completes the chapter [BURST] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-268-music.md
+VERIFY: python tools/project_state.py --check music --stage research
