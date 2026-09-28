@@ -2946,9 +2946,11 @@ drugs-alcohol), SEED 7. Nothing in flight. Queue in control/TODO.md.
 ### 2026-09-27 | [LOCAL] RESUMED (Jon): burst of 5
 
 ### 2026-09-27 | [LOCAL] T-264c | disasters: full research eras 9-10, completes the chapter [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+RESULT: DONE. PASS  disasters / research. measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=35894w outline=16266w manuscript=0w validator_errors=0
+        407738 tokens, 129 tool uses, 23.8 min (opus). Eras 9-10, chapter COMPLETE. Stories: Melvin Windsor (Air Florida 1982), Herbert Freeman Jr. (Katrina), Jesse Vazquez (Maria). Counts with whose count: Katrina 1,392 vs 1,833, Maria 64/2,975/4,645, Helene 250, Lahaina 102, Texas Hill Country 136. 9/11 illness deaths, Maui settlement, Eaton and Palisades fires, FEMA 2026. 2 searched-not-found. TO PARK 5.
 
 ### 2026-09-27 | [LOCAL] T-266c | drugs-alcohol: full research eras 9-10, completes the chapter [BURST5] | model opus
 STATUS: DONE

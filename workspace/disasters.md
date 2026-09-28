@@ -13,7 +13,7 @@ Companion files: outline `outlines/disasters.md` · research bank `research/rese
 |-------|-----------|---------------------------|
 | Triangle Shirtwaist fire, 1911 | the fire and the rescue attempt, and the fire codes after | `work-workers` (**lead** — the workers and the safety laws) · `government-politics` (the laws) |
 | The Dust Bowl storms | the storms themselves and the emergency response | `migration` (the move, lead) · `land-environment` (the soil) · `food-farming` (the farms) |
-| Hurricane Katrina, 2005 | **lead** — the storm, the levees, and a failed response | `city-building` (New Orleans rebuilt) · `government-politics` (FEMA) · `rights-movements` (who was left behind) |
+| Hurricane Katrina, 2005 | **lead** — the storm, the levees, the dead, Danziger Bridge, story `herbert-freeman-jr` | `migration` (displacement, Gretna bridge, story `kimberly-rivers-roberts`) · `city-building` · `government-politics` (FEMA) · `rights-movements` |
 | September 11, 2001 | the rescue and the responders | `america-world` (**lead** — the attacks and the response abroad) · `landmarks` (what was built after) |
 | The Hindenburg, 1937 | **lead** — the fire and the newsreel that ended airships | `elements` (why it flew hydrogen) · `transportation` (airships as travel) |
 | Three Mile Island, 1979 | **lead** — the accident and the evacuation | `energy` (nuclear power's turn) · `science` (reactor physics) |
@@ -37,9 +37,18 @@ Companion files: outline `outlines/disasters.md` · research bank `research/rese
 | Port Chicago, 1944 | the explosion, two sentences | `war` (**lead**, mutiny trial) · `rights-movements` · `government-politics` |
 | Monongah 1907, Hawks Nest 1930-32, Avondale 1869 | pointer lines only | `energy` · `work-workers` (**lead**) |
 | Quebec Bridge, 1907 | pointer line | `landmarks` (**lead**) |
+| Alaska earthquake, 1964 | the quake, tsunami and Chenega | `native-nations` (ANCSA land) |
+| Challenger, 1986 | pointer line | `exploration` (**lead**) |
+| Santa Barbara 1969, Exxon Valdez 1989 | pointer line | `land-environment` (**lead**) |
+| Chicago heat wave, 1995 | the deaths and the city's response | `health` (heat and health) |
+| Hurricane Maria, 2017 | **lead** on the storm, blackout and the death count, story `jesse-vazquez` | `migration` (130,000 who left) · `america-world` (territories) |
+| Texas freeze, 2021 | the deaths, one span paragraph | `energy` (**lead**, story `cristian-pavon-pineda`) |
+| Camp Fire 2018, Lahaina 2023, Los Angeles 2025 | the fires, deaths, warnings and who paid | `land-environment` (why fires grew) · `energy` (utilities) |
+| Key Bridge 2024, Potomac 2025 | pointer line | `transportation` (**lead**) |
+| COVID-19 | pointer line with the CDC count | `health` (**lead**) |
 
 ## Famous names check (must appear — completeness first)
-- [x] the Starving Time (era 03, shared) · [x] the New Madrid earthquakes · [x] the Chicago and Peshtigo fires, 1871 · [x] the Johnstown Flood · [x] Clara Barton and the Red Cross · [x] the Galveston hurricane, 1900 · [x] the San Francisco earthquake, 1906 · [x] the *Titanic* · [x] the Triangle Shirtwaist fire · [x] the Hindenburg · [x] the *Sultana* · [x] the Dust Bowl (Black Sunday) · [x] the 1927 Mississippi flood · [ ] Three Mile Island · [ ] the *Challenger* · [ ] Hurricane Katrina
+- [x] the Starving Time (era 03, shared) · [x] the New Madrid earthquakes · [x] the Chicago and Peshtigo fires, 1871 · [x] the Johnstown Flood · [x] Clara Barton and the Red Cross · [x] the Galveston hurricane, 1900 · [x] the San Francisco earthquake, 1906 · [x] the *Titanic* · [x] the Triangle Shirtwaist fire · [x] the Hindenburg · [x] the *Sultana* · [x] the Dust Bowl (Black Sunday) · [x] the 1927 Mississippi flood · [x] Three Mile Island · [x] the *Challenger* (pointer, `exploration` leads) · [x] Hurricane Katrina · [x] September 11 responders · [x] Hurricane Maria · [x] Mount St. Helens · [x] Hurricane Andrew
 
 ## [VERIFY] queue
 *Every unverified date/claim carried into the outline. The research agent clears these.*
@@ -49,8 +58,8 @@ Companion files: outline `outlines/disasters.md` · research bank `research/rese
 - [x] Steamboat Acts: July 7, 1838 (era 06) and August 30, 1852 (era 07). NARA RG 41. T-264b.
 - [x] American Red Cross founded May 21, 1881 (Red Cross dates page). First disaster relief: Michigan Thumb fire, September 1881. T-264b.
 - [x] Texas City, April 16, 1947: at least 581 dead (Wikipedia), 576 known dead on the monument (TSHA). T-264b.
-- [ ] The 1964 Alaska earthquake — 1950–2000 span.
-- [ ] The founding of FEMA, 1979 — 1950–2000 span.
+- [x] The 1964 Alaska earthquake: March 27, 1964, M9.2, 131 dead (USGS, search summary) or 139 (Wikipedia); Chenega 23 of 75 (USGS 2016). T-264c.
+- [x] FEMA: April 1, 1979 (Carter, Reorganization Plan No. 3 of 1978, E.O. 12127; E.O. 12148 July 1979). T-264c.
 
 ## Threads present
 *Only what genuinely applies:* class and poverty (**who dies in a disaster**) · region · rural · disability (evacuation and access) · children and the elderly · language (warnings people cannot read) · territories (hurricanes in Puerto Rico and the Pacific) · Native continuity past 1900
@@ -67,8 +76,10 @@ Companion files: outline `outlines/disasters.md` · research bank `research/rese
 - **verified (eras 1-5):** `tristan-de-luna-disasters` (1500s), `anthony-thacher` (1600s, ordinary), `will-st-philips-church` (1750-1800, ordinary, enslaved man freed after saving St. Philip's Church, Charleston, 1796).
 - **verified named:** Clara Barton (1850–1900), now sourced in the bank (T-264b).
 - **verified (eras 6-8, T-264b):** `rebecca-lamar` (1800-1850, Pulaski survivor, her own account), `victor-heiser` (1850-1900, Johnstown), `isaac-cline` (Galveston 1900), `hugh-kwong-liang` (San Francisco 1906), `kate-alterman` (Triangle 1911, trial testimony). Targets left: eras 9-10 only (T-264c).
+- **verified (eras 9-10, T-264c):** `melvin-windsor` (1982, U.S. Park Police rescuer, Air Florida Flight 90), `herbert-freeman-jr` (Katrina 2005, son of Ethel Freeman), `jesse-vazquez` (Bayamón after Maria 2017). No targets or candidates remain in the chapter.
 
 ## Cross-chapter parking log
+- T-264c (2026-09-27, burst): nothing written into other chapters' files. Items under the checkpoint's TO PARK (T-264c).
 - T-264b (2026-09-27, burst): nothing written into other chapters' files. Items under the checkpoint's TO PARK (T-264b): `slavery-freedom` (Charles Lamar and the *Wanderer*), `crime-justice`/`rights-movements` (1927 flood killings), `education` (New London pointer).
 - T-264a/T-264r (2026-09-27, parallel batch): nothing written into other chapters' files. Items for the director are under TO PARK in `control/checkpoints/T-264-disasters.md` (city-building: Boston fire wards 1711, Charleston firemasters; slavery-freedom: March 8 vs March 18, 1741 date dispute).
 
