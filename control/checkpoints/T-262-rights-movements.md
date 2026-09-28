@@ -1,13 +1,13 @@
 # CHECKPOINT T-262 | rights-movements | bankcheck | T-262a: eras 1-6
 
-STATUS: T-262r landed (director verified: PASS  rights-movements / research)
+STATUS: T-262b landed (director verified: PASS  rights-movements / research)
 VERIFY: python tools/project_state.py --check rights-movements --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/rights-movements.md · research/research-rights-movements.md · workspace/rights-movements.md
 
-NOW:    idle. T-262r finished eras 1-6.
-NEXT:   Eras 7-10 bank check (next agents, `python tools/slice_bank.py rights-movements --eras 7-10`, about 70,000 words: split it). Era 8 leads the Tulsa Race Massacre (DECISIONS #23, facts already parked in the bank). Carry-overs for you: Douglass's North Star editorial of 28 July 1848 is unconfirmed (search summary only) if era 7 wants it; the 1860 New York act on wives' wages is still unchecked; Clarke 1873 and the Akron speech versions per the 2026-09-09 HANDOFF. Outline eras 1-6 still carry em dashes or semicolons INSIDE primary-source quotations (Hutchinson excommunication charge, the Adams letters, the Declaration of Sentiments line on colleges). Writers must render them without the characters; they were not altered in the outline.
+NOW:    idle. T-262b finished era 7.
+NEXT:   Era 8 bank check (next agent: `python tools/slice_bank.py rights-movements --eras 8`). Era 8 LEADS the Tulsa Race Massacre (DECISIONS #23): facts parked at the end of the bank from money (T-252) and crime-justice (T-265, DOJ January 2025 review); research it fully and give it a span. Also parked for era 8: Houston 1917, Port Chicago, Isaac Woodard (war T-259), 1927 flood killings (disasters), Hill-Burton (health), Japanese American farms (food-farming), Maggie Walker and Jesse Binga (money). Handed forward from era 7: Ida B. Wells's death date (NPS 25 March vs NWHM 15 March 1931), the NAACP 3,224 lynched 1889-1918 figure (search summary only), Anthony's death and the 19th Amendment, the Comstock Act into Sanger, Chinese exclusion 1902 and 1943, Plessy's sixty years. Era 7 outline still carries semicolons or em dashes ONLY inside quotations (Douglass 1869, Anthony's sentencing exchange) and in the book title *Sex in Education; or, ...*: writers must render them without the characters.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -31,6 +31,14 @@ PASS  rights-movements / research
 | 2 | check each verified story in eras 1-6 has its key facts in the bank | done | 6 stories; Adams (1840 publication, Braintree), Grimke (SC Encyclopedia), Dix outline line trimmed, Grimke 'rooms of women' line removed |
 | 3 | final for your eras: validator, research check | done | validator 0 errors; --stage research PASS, bank 62,860w |
 
+## Units, T-262b (era 7, 1850-1900)
+
+| # | unit | state | landed (note) |
+|---|------|-------|---------------|
+| 4 | bank check era 7 (Find 1 hard subjects, 2 actor/cause/count, 3 firsts, 4 perishable, 5 land) | done | 11 PATCHes + 2 SEARCHED NOT FOUND in bank era 7 (T-262b headings) |
+| 5 | verified era-7 stories: key facts in the bank (Truth, Anthony, Wells, Winnemucca, Tape) | done | all five sourced; added Wells exile quote (Red Record), Truth streetcar case, Winnemucca/Hayes/Schurz |
+| 6 | final era 7: outline prose (em dashes, semicolons, self-references), validator, research check, NEXT | done | validator 0 errors; PASS research; bank 69,945w, outline 34,259w |
+
 ## SUBJECT NOTES (from the director)
 
 Registry: Rights and Movements: **MAJOR.** Americans organizing to win rights denied them — women, civil rights, disability, LGBTQ. Not: slavery itself (`slavery-freedom`); the laws as laws (`government-politics`)
@@ -44,6 +52,17 @@ hb-zoom prose, and the hb-story block is removed). Search `outlines/` and `manus
 other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
+
+## TO PARK (T-262b)
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `slavery-freedom`, era 1850-1900: Frances Thompson's 1876 arrest (PATCH "Frances Thompson, 1866 and 1876"): 10 July 1876, Dr. Joseph Nuttall and three doctors, $50 fine, 100 days chain gang, died 1 Nov 1876 (MLK50 2024, CNN 2025). CNN gives TWO police officers among the seven men in 1866, not three as the parked note said.
+- `crime-justice` and `news-communication`, era 1850-1900: Wilmington coup, 10 Nov 1898 (PATCH "Wilmington"): Waddell, 500 to 2,000 men, Daily Record burned, 14 (coroner) to 60 (2006 state report) dead, no indictments (NCpedia, NC DNCR). No outline in the book tells it. rights-movements now tells it in era 7.
+- `native-nations`, era 1850-1900: Ponca removal actors (Congress $25,000 1876, Inspector E. C. Kemble, Agent E. A. Howard, 25 soldiers, 170 then the rest, Quapaw then former Cherokee land, Nebraska State Parks marker); Paiute removal ordered by President Hayes, one week's notice, Schurz's broken written promise, Malheur opened 1882-83, 1884 petition (House History); the allotment reformers (WNIA 1879, IRA 1882, Jackson 1881, Mohonk 1883) and Elk v. Wilkins 1884 (Cornell, 7-2).
+- `immigration` and `government-politics`, era 1850-1900: Yick Wo numbers (200 refused, 80 granted but one, 150 arrested, Sheriff Peter Hopkins); Wong Kim Ark 6-2 (Fuller and Harlan dissenting, McKenna out); Geary Act refusal (100,000 residents, 13,000 registered, Six Companies $1 each, KQED 2026); Fong Yue Ting 15 May 1893, 5-3 (Cornell).
+- `drugs-alcohol`, era 1850-1900: the Willard item they parked here is now sourced from Wells's own *A Red Record* (1895), ch. 8: Willard's New York Voice interview of 23 Oct 1890 and her WCTU address of 5 Nov 1894 (PATCH "Ida B. Wells").
+- `education`, era 1850-1900: Ward v. Flood (Jan 1874) from the decision text at BlackPast: Harriet A. Ward's petition, the Wards LOST; Smith (1871, opened fall 1875, 14 students), Wellesley (1870, opened 8 Sept 1875, 314), Bryn Mawr (opened Sept 1885) from each college's own page.
+- `news-communication`, era 1850-1900: the Free Speech editorial was printed 21 May 1892 (Wells, A Red Record); Memphis streetcar boycott and exodus 1892 (Southern Horrors).
+- `how-we-know` afterword: Marius Robinson's full 1851 text of Sojourner Truth's Akron speech is now in the bank (NPS lesson plan); Gage in the New York Independent, 23 April 1863 (NPS, Sojourner Truth Project).
 
 ## TO PARK (for the director to file after the batch)
 - FILED 2026-09-27 (T-262r): Lovejoy and McIntosh -> research-news-communication.md, era 6 (press freedom). TO PARK list was otherwise empty.
@@ -378,3 +397,5 @@ Pages the killed agent fetched (303; re-read the useful ones rather than searchi
 - 2026-09-27 T-262r: era 6 PATCH (bank had no era-6 PATCH from T-262a). Mobs: Boston 21 Oct 1835 (5,000 men / 45 women, Chapman quote, Lyman, Garrison roped, no names, no prosecutions), Lovejoy 7 Nov 1837 (3 presses smashed, 5 bullets, acquittal), Pennsylvania Hall 17 May 1838 ($40,000, 10-15k crowd, 200-300 attackers, Swift, Watmough, none convicted, $27,942.27 damages 1847). Maria W. Stewart 1832-33. Crandall: Andrew T. Judson named + quotes, Ann Eliza Hammond vagrancy/whipping threat, window-count CONFLICT (90+ vs 5), no one charged. Petitions: Beecher circular 31 Dec 1829, 1,500+ women, Steubenville 1830, Benton ridicule, gag rule 1836-44 (Patton 1837 renewal), Brookline 14 Feb 1838 with Grimkes first signers, House Historian confirms Angelina first woman before a legislature. Seneca Falls: James Mott chaired (settles NOT CLAIMED), Herald ridicule, withdrawals SEARCHED NOT FOUND for count; Cayuga land. ASD: $5,000 Oct 1816 (conflict with 1819), 23,000 acres 1819 via Henry Clay (resolves Alabama Territory flag), whose land SEARCHED NOT FOUND. Oberlin land. OUTLINE era 6: new span 'the people who attacked the organizers'; ASD paragraph corrected; Seneca Falls backlash + James Mott; Crandall: Judson, Hammond, window conflict. Em dashes/semicolons removed from non-quote outline prose eras 1-6 (quotes left: lines ~117, 191, 195, 264 carry em dashes or semicolons inside primary-source quotations; writers must handle). Validator: 0 errors.
 - 2026-09-27 T-262r: era 1 checked. Bank adequate (no harm events, land stated). Outline: removed a self-reference ('this book does not invent people'), replaced an unsourced superlative ('power no country in Europe gave women'). Era 6 prose: removed two 'this chapter' self-references. Parked Lovejoy to news-communication. Unit 1 done.
 - 2026-09-27 T-262r: Unit 2 done (bank PATCHes: Abigail Adams letters private until 1840; Grimke/Dix checks). Unit 3: validator 0 errors, PASS rights-movements / research (bank=62860w outline=32606w, stories 25 v25).
+- 2026-09-27 T-262b: Unit 4 done. Era-7 bank PATCHes: Reconstruction boundary (slavery-freedom leads to 1877); Wilmington 1898 (NCpedia, DNCR: Waddell, 500-2,000 men, 14 to 60 dead, no indictments); Frances Thompson 1876 (MLK50: 10 Jul arrest, Dr Nuttall + 3 doctors, 100 days chain gang, died 1 Nov); allotment reformers (WNIA 1879, IRA 1882, H. H. Jackson 1881, Mohonk 1883, Dawes 1887) + Elk v. Wilkins (Cornell, 7-2); Ponca actors (Kemble, Agent Howard, 25 soldiers, Quapaw/Cherokee land; 'first to sue' unsupported); Paiute (Hayes ordered, Schurz broke written promise, 1884 petition); Yick Wo numbers, Wong Kim Ark 6-2, Geary Act refusal 85% (KQED), Fong Yue Ting; Wells (no one charged, 31 arrested, exodus + streetcar boycott, 21 May 1892 editorial, Willard dispute from Red Record); Ward v. Flood from decision text (Wards lost); firsts (Chinese Exclusion 'only' reworded to Britannica; Smith/Wellesley/Bryn Mawr own pages; Mansfield, Ray); carry-overs (Robinson full text via NPS, Gage venue, 28 vs 29 May, streetcar lawsuit, NY 1860 earnings act); land (Wyoming Eastern Shoshone). SEARCHED NOT FOUND x2 (Memphis killers, Wilmington gunmen).
+- 2026-09-27 T-262b: Units 5 and 6 done. Outline era 7: new spans 'a wife's wages' (NY 1860), 'the reformers who asked for allotment', 'a city government overthrown' (Wilmington 1898), 'a witness put on the chain gang' (Frances Thompson 1876); Reconstruction violence named in one paragraph with pointer to slavery-freedom; Standing Bear 'first to sue' removed, Ponca actors and land added, Elk v. Wilkins added; Chinese Exclusion 'only time' replaced with Britannica wording; Yick Wo numbers, Wong Kim Ark 6-2, Geary Act refusal and Fong Yue Ting added; Ward v. Flood now says the Wards lost; college dates from each college; Wells: no one charged, exodus and streetcar boycott, 21 May 1892, Willard dispute, exile quote; Winnemucca: Hayes's order, Schurz's broken promise, 1884 petition; Truth streetcar arrest and win; Wyoming land (Eastern Shoshone); 'almost nobody lived in' removed (erased Native residents). All em dashes and semicolons removed from era-7 non-quote prose; self-references removed. Validator 0 errors. PASS rights-movements / research (bank 69,945w, outline 34,259w, stories 25 v25).
