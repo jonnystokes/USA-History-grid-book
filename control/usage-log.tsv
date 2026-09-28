@@ -205,3 +205,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-270c	research	general-purpose/opus	[LOCAL] news-communication: Eras 9-10, chapter COMPLETE. Stories: Cronkite, Woodward and Bernstein (the 'bro	?	?	?	357246	168	1303536	?	completed	PASS  news-communication / research
 2026-09-27	T-273b	research	general-purpose/opus	[LOCAL] holidays: Eras 6-8 + bank check. Stories: Sarah Josepha Hale (rebuilt from sources), Jack 	?	?	?	402103	152	1197771	?	completed	FAIL  holidays / research
 2026-09-27	T-273c	research	general-purpose/opus	[LOCAL] holidays: Eras 9-10, chapter COMPLETE. Stories: Liz Byrd (Wyoming Equality Day 1990), Fran	?	?	?	337400	113	910153	?	completed	PASS  holidays / research
+2026-09-27	T-267a	research	general-purpose/opus	[LOCAL] art: Eras 1-5 researched + bank check; research-art.md created (10,933w). Stories: Pr	?	?	?	371798	187	1399802	?	completed	FAIL  art / research

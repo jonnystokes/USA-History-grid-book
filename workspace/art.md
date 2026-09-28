@@ -273,3 +273,24 @@ Handed out of this chapter, already written into the outline as cross-references
 - **DETAIL LOST (line ~224)** — Augusta Savage's 1939 World's Fair sculpture has a
   title and specifics that were dropped: *Lift Every Voice and Sing*, known as *The
   Harp*, 16 feet, plaster, destroyed by bulldozer after the fair closed in autumn 1940.
+
+
+## T-267a research pass, eras 01-05 (2026-09-28)
+
+**[VERIFY] queue, eras 01-05: cleared.** Every tag in eras 01-05 is gone from the outline. Each item was sourced into `research/research-art.md` or removed with a note there ("Left out", "Outline claims left out", SEARCHED, NOT FOUND). The queue items above for Before 1500 to 1750-1800 are closed. Items for 1800-1850 onward stay open for T-267b.
+
+**Corrections made against the seed:**
+- John White's watercolors are the first English pictures of this land, not "the earliest detailed European pictures": Jacques Le Moyne drew French Florida in 1564 (drawings lost in 1565, redrawn later). Le Moyne added to the 1500s.
+- Mission decoration and missionary destruction moved from the 1500s to the 1600s (no 1500s case found).
+- Smibert: reached Newport in 1729, Boston in 1729 or 1730 (verifier's date note settled). "First studio" dropped.
+- Bradstreet's consent: Charlotte Gordon's research shows she knew and helped (NYHS, *Commonplace*).
+- Wheatley: 18 signers counted from the printed attestation. It states she "has been examined by some of the best Judges." The signers are not said to be the examiners.
+- Southeastern double-weave basketry and quillwork removed from Before 1500 (no pre-1500 source). The 1725 Cherokee baskets placed in 1700-1750.
+
+**Famous names, eras 01-05:** present and sourced: Native traditions (Ancestral Pueblo, Mimbres, Mississippian at Spiro, Etowah and Cahokia, Hopewell, Northwest Coast), John White, Le Moyne, the *Bay Psalm Book*, Anne Bradstreet, the Freake portrait, gravestone carvers (Joseph Lamson named), John Smibert, Henrietta Johnston, Phillis Wheatley, Charles Willson Peale, Gilbert Stuart, John Singleton Copley, Benjamin West, Patience Wright, Mercy Otis Warren (owed to this chapter, now in).
+
+**New stories (eras 01-05):** `nathan-jackson-art` (replaces the Before-1500 target: Tlingit carver, living, NEA 1995), `loara-standish-sampler` (ordinary), `prince-demah` (ordinary, enslaved painter). New span material: Kühn's Darnall portrait, Feke's Royall family, Hesselius's Lenape portraits and the Walking Purchase, Scarborough and Lucy given to Peale, Scipio Moorhead, Joshua Johnson, Cherokee baskets of 1725, Acoma church, Posada's mask burning.
+
+**Cross-chapter parking log (T-267a):** nothing written into other chapters' files (burst rule). The parked items are listed in `control/checkpoints/T-267-art.md` under TO PARK for the director.
+
+**For T-267b (eras 06-10):** Moses Williams's silhouettes (from 1802), Joshua Johnson's Baltimore career (to 1824), the Peale mastodon (1801, `science` leads), Mercy Otis Warren's 1805 *History*, Eva Wolfe and Lottie Queen Stamper (Cherokee double weave, 20th century, WCU sources in the bank's era 01 and 04 sections), Fred Wilson's *Mining the Museum* (1992), NAGPRA and the 2024 rule, academies and who was shut out of them.

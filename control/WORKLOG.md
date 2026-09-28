@@ -3094,9 +3094,11 @@ RESULT: DONE. PASS  holidays / research. measured: stage=RESEARCHED eras=10/10 s
 NOTE (Jon): two more beside T-273c (messaged to switch to TO PARK): T-267a art 1-5, T-268a music 1-5.
 
 ### 2026-09-27 | [LOCAL] T-267a | art: full research eras 1-5 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-267-art.md
 VERIFY: python tools/project_state.py --check art --stage research
+RESULT: LANDED. FAIL  art / research. measured: stage=PARTIAL eras=10/10 stories=30 (v10 c19 t1) verify_tags=83 bank=10933w outline=7097w manuscript=0w validator_errors=0
+        371798 tokens, 187 tool uses, 23.3 min (opus). Eras 1-5 researched + bank check; research-art.md created (10,933w). Stories: Prince Demah, Phillis Wheatley (18 attesters counted), Loara Standish, Nathan Jackson (Tlingit carver), Bradstreet, John White, Henrietta Johnston, Smibert, Peale, Gilbert Stuart. Grave diggers named (Squier and Davis, Rogan, Pocola Mining at Spiro), kiva mask burnings, Acoma church labor, the Darnall portrait's chained boy, the Royalls, Lenape portraits before the Walking Purchase. White and Smibert firsts corrected. 7 searched-not-found. Chapter FAIL until eras 6-10 (83 VERIFY, 19 candidates there). TO PARK 10.
 
 ### 2026-09-27 | [LOCAL] T-268a | music: full research eras 1-5 [BURST] | model opus
 STATUS: IN-FLIGHT
