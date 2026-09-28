@@ -22,6 +22,12 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 | Pinkster and Black election days | lead, as festivals | `storytelling-evolution` (as performance) · `slavery-freedom` |
 | Oñate's thanksgiving, 1598 | the thanksgiving | `storytelling-evolution` (the play) |
 | Labor Day, 1894 | **lead** — the holiday and why it was created that year | `work-workers` (the strike behind it) · `government-politics` (the law) |
+| Juneteenth, 1865 (era 7) | the day and its first celebrations; delays and killings as context | `slavery-freedom` (Granger's order, emancipation) |
+| Decoration Day origins, 1864 to 1868 | **lead** | `war` (the Civil War dead) |
+| New Orleans lynching, 1891 | context for the 1892 Columbus Day | `immigration`, `crime-justice` (parked there 2026-09-28) |
+| Code of Indian Offenses 1883, Burke circulars 1921 to 1923 | pointer only | `religion` (**lead**) |
+| Memorial Day Massacre, 1937 | pointer only | `work-workers` (**lead**) |
+| Christmas and New Year's Day under slavery (Douglass, Northup, Jacobs) | the holidays and hiring day | `slavery-freedom` (the people) · `drugs-alcohol` (whiskey at Christmas) |
 | Martin Luther King Jr. Day | **lead** — a holiday that took years of campaigning | `rights-movements` (the movement and the campaign for the day) |
 
 ## Famous names check (must appear — completeness first)
@@ -29,12 +35,16 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 - [x] the 1621 harvest gathering (T-273a)
 - [x] the Puritan ban on Christmas (T-273a)
 - [x] the first Fourth of July (T-273a)
-- [ ] Sarah Josepha Hale
-- [ ] Lincoln's Thanksgiving proclamation
-- [ ] Memorial Day's origins
-- [ ] Labor Day, 1894
-- [ ] Mother's Day
-- [ ] Thanksgiving fixed by law, 1941
+- [x] Sarah Josepha Hale (T-273b, story era 6)
+- [x] Lincoln's Thanksgiving proclamation (T-273b, era 7)
+- [x] Memorial Day's origins (T-273b, era 7, all claims stated)
+- [x] Labor Day, 1894 (T-273b, era 7, timing corrected)
+- [x] Mother's Day (T-273b, Anna Jarvis story era 8)
+- [x] Thanksgiving fixed by law, 1941 (T-273b, era 8)
+- [x] 'Twas the Night Before Christmas, 1823 (T-273b)
+- [x] Juneteenth, 1865 (T-273b)
+- [x] Columbus Day 1892 and 1934 (T-273b)
+- [x] Armistice Day 1919 and 1938 (T-273b)
 - [ ] Martin Luther King Jr. Day
 - [ ] Juneteenth, 2021
 - [ ] Indigenous Peoples' Day
@@ -45,11 +55,11 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 - [x] the 1621 harvest gathering numbers: Winslow says "some ninetie men" (cleared T-273a) — 1600s
 - [x] the Massachusetts ban on celebrating Christmas, 1659 — 1600s
 - [x] the first Fourth of July celebration, 1777 (cleared T-273a, Pennsylvania Evening Post via Mount Vernon) — 1750–1800
-- [ ] Clement Moore's poem, 1823 — 1800–1850
-- [ ] Frederick Douglass's 1852 speech (date falls in the next era) — 1800–1850
-- [ ] Memorial Day's competing origin claims (state them) — 1850–1900
-- [ ] Juneteenth celebrated in Texas from 1866 — 1850–1900
-- [ ] Mother's Day made official, 1914 — 1900–1950
+- [x] Clement Moore's poem, 1823 (Troy Sentinel 23 Dec 1823, authorship disputed) — 1800–1850
+- [x] Frederick Douglass's 1852 speech: placed in 1850-1900 (5 July 1852, Rochester, via Gates/PBS). `slavery-freedom` outline does not tell it.
+- [x] Memorial Day's competing origin claims, stated (VA NCA, College of Charleston) — 1850–1900
+- [x] Juneteenth celebrated in Texas from 1866 (Gates) — 1850–1900
+- [x] Mother's Day, 1914: joint resolution 8 May, Proclamation 1268 of 9 May 1914, a flag day — 1900–1950
 - [ ] the Uniform Monday Holiday Act, 1968 — 1950–2000
 - [ ] MLK Day signed 1983, first observed 1986, states resisting — 1950–2000
 - [ ] Kwanzaa from 1966 — 1950–2000
@@ -66,9 +76,11 @@ Companion files: outline `outlines/holidays.md` · research bank `research/resea
 *Featured people are in-era `hb-story` blocks in the outline. These still need firming.*
 - **verified:** Sarah Josepha Hale (placed once, in 1800–1850; her 1863 outcome sits in the 1850–1900 era-zoom); Anna Jarvis (1900–1950, carries a [VERIFY] on the 1914 detail).
 - **T-273a:** before-1500 target removed (no named pre-1500 person). 1750-1800 target filled by Henry Wight (Bristol, 1785), plus a new story, John Anderson (Hartford Black governor, 1776).
-- **target (find and verify):** an early Juneteenth celebrant (1850–1900); a King holiday campaigner (1950–2000); an organizer of a first Juneteenth or Indigenous Peoples' Day observance (2000–today).
+- **T-273b:** Sarah Josepha Hale rewritten from a stub (it was tagged verified with no bank source) and now bank-sourced; early Juneteenth celebrant target filled by Jack Yates (`jack-yates-holidays`, Houston, Emancipation Park 1872); Anna Jarvis candidate -> verified.
+- **target (find and verify):** a King holiday campaigner (1950–2000); an organizer of a first Juneteenth or Indigenous Peoples' Day observance (2000–today).
 
 ## Cross-chapter parking log
+- 2026-09-28 (T-273b): New Orleans lynching 1891 parked in `research/research-immigration.md` and `research/research-crime-justice.md` under "Parked from `holidays` (2026-09-28, T-273b)".
 - 2026-09-27 (T-273a, burst): nothing written into other chapters' files. Items listed under TO PARK in control/checkpoints/T-273-holidays.md for the director.
 
 ## Open questions for the director

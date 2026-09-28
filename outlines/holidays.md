@@ -3,7 +3,7 @@
 # Chapter 35: Holidays
 
 <!-- hb-note -->
-**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-273a). Eras 6 to 10 still SEED, for T-273b.
+**Status:** eras 1 to 5 RESEARCHED 2026-09-27 (T-273a). Eras 6 to 8 RESEARCHED 2026-09-28 (T-273b). Eras 9 and 10 still SEED, for T-273c.
 **Angle:** American holidays and celebrations: how the country marks its days and how that changed.
 **Keep out:** sports (`sports-play`). Religion itself (`religion`).
 **Workspace:** `workspace/holidays.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
@@ -209,46 +209,178 @@ Americans began celebrating their independence on its first anniversary, 4 July 
 <!-- hb-story:end slug="john-anderson-black-governor" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="holidays" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="holidays" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-Christmas softens from a rowdy street holiday into a family day, and Thanksgiving spreads state by state.
+In these years Christmas changed from a noisy street holiday into a day for families and children, and a poem printed in 1823 gave Americans their picture of St. Nicholas. Thanksgiving was still a New England day that each governor set. Sarah Josepha Hale, a magazine editor, began asking governors and presidents to make it one national day. Enslaved people in the South got a few days off at Christmas, and on New Year's Day many were hired out or sold away from their families. Free Black Americans made their own days of celebration: 1 January 1808, when bringing enslaved people from Africa became illegal, 5 July 1827 in New York, and 1 August after 1834. In 1811 Albany's city council banned Pinkster, the spring holiday of the Black people of the Hudson Valley.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Christmas domesticated, Thanksgiving spreading" -->
-Christmas becoming domestic — trees, cards, and Clement Moore's poem [VERIFY 1823]; state-by-state Thanksgiving proclamations; the Fourth of July as a political stage, including Frederick Douglass's 1852 speech asking what it meant to the enslaved [VERIFY — that date falls in the next era].
+<!-- hb-zoom level="span" label="Christmas becomes a children's day" -->
+- In the early 1800s, Christmas in American towns still meant heavy drinking, begging from door to door and rowdy parades. Wealthier families and newspaper editors worked to turn it into a quiet family day centred on children (Mass Moments).
+- On 23 December 1823 the *Troy Sentinel*, a newspaper in Troy, New York, printed a poem with no author's name, "Account of a Visit from St. Nicholas." It begins "'Twas the night before Christmas" and describes stockings hung by the chimney for St. Nicholas to fill (the newspaper page, Wikisource).
+- Clement Clarke Moore, a New York professor, was named as the author in 1837 and put the poem in his own book in 1844. The family of Henry Livingston Jr., a New York farmer and poet, says he wrote it as early as 1808. The question has never been settled (St. Nicholas Center).
+- A few years after the poem, Catharine Maria Sedgwick of Stockbridge, Massachusetts, published a story about children finding a Christmas tree with gifts around it. Shopkeepers began advertising gifts for children (Mass Moments).
+- By the 1840s several states had made Christmas a legal holiday (Mass Moments). Alabama is often called the first state, in 1836, but Alabama's state archivists searched and found no law from that year. In 1848 Alabama's lawmakers made Christmas a bank holiday, a day when payments on loans were not due (Alabama Department of Archives and History, quoted by Snopes).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Christmas and New Year's Day for enslaved people" -->
+- Enslavers in the South gave most enslaved workers a few days off at Christmas. On Edwin Epps's cotton plantation in Louisiana in the 1840s it was three days. Other enslavers gave four, five or six (Solomon Northup, *Twelve Years a Slave*, 1853).
+- Northup wrote that the planters on Bayou Boeuf took turns holding a "Christmas supper" for enslaved people from nearby plantations, and that three to five hundred came. White people came to watch them eat. Northup called Christmas "three days in the year," and the rest "days of weariness, and fear, and suffering, and unremitting labor" (Northup). `slavery-freedom` tells how Northup was kidnapped and enslaved.
+- Frederick Douglass was enslaved in Maryland. He wrote in 1845 that the days from Christmas to New Year's were holidays, and that enslavers gave them because it "would be unsafe to deprive them of it." He called the holidays "safety-valves" that let off the anger that could lead enslaved people to rebel (Douglass, *Narrative*, 1845). `drugs-alcohol` tells how enslavers used whiskey during these days.
+- In Edenton, North Carolina, enslaved men from the plantations marched through town on Christmas morning in costume, in groups Harriet Jacobs called the "Johnkannaus." They beat a drum made of a box covered in sheepskin, sang songs they had made up over the month before, and asked at every door for money or rum (Harriet Jacobs, *Incidents in the Life of a Slave Girl*, 1861).
+- In Jacobs's town, 1 January was hiring day. On that day enslavers rented enslaved people to other white men for the coming year. The next day the enslaved person had to go to the new master. A person who refused was whipped or jailed until they agreed. After the hiring, people were sold (Jacobs).
+- Jacobs wrote that on one New Year's Day she watched a mother lead her seven children to the auction block. A slave trader bought all seven children, and a man from the town bought the mother. Jacobs did not give the mother's name. On another New Year's Day, Jacobs's friend Fanny was sold at auction to pay her enslaver's debts. A buyer took Fanny, and another master far away bought her four daughters (Jacobs).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Days Black Americans chose to celebrate" -->
+- On 1 January 1808 a federal law made it illegal to bring enslaved people into the United States from other countries. That day Absalom Jones preached a thanksgiving sermon at St. Thomas's African Episcopal Church in Philadelphia. He asked Black Americans to keep 1 January every year as a day of thanks, to teach their children "the history of the sufferings of our brethren, and of their deliverance" (National Park Service). Enslavers inside the country kept buying and selling people after the law. `slavery-freedom` tells that trade.
+- On 31 March 1817 New York's lawmakers voted to end slavery in the state on 4 July 1827. On that day about 4,600 people were freed (Historical Society of the New York Courts).
+- Black New Yorkers held church services on 4 July 1827 and paraded on 5 July. A meeting in Albany led by Nathaniel Paul had voted to celebrate on the 5th, because the 4th was the day white citizens celebrated. People feared that white crowds celebrating the Fourth would attack them. In New York City, between 2,000 and 4,000 people marched behind their marshal, Samuel Hardenburgh (*Freedom's Journal*, 13 July 1827, as cited by Wikipedia, "Fifth of July (New York)").
+- On 1 August 1834 the British government ended slavery in its West Indian colonies. Black Americans in New York City held a celebration that day, and 1 August became their largest yearly freedom celebration in the North for about thirty years, with parades, picnics and speeches against American slavery (Oberlin Heritage Center. Jeffrey Kerr-Ritchie, *Rites of August First*).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Pinkster banned in Albany, 1811" -->
+- Pinkster, the spring holiday that enslaved and free Black people in the Hudson Valley had kept since the 1700s, drew large crowds to Albany, New York. White city leaders worried about so many Black people gathering. In 1811 the Albany Common Council, the city's governing board, banned the celebration (Friends of Schuyler Mansion).
+- The ban forbade selling liquor from tents on Pinkster days and gathering to dance or parade, with a fine of ten dollars or jail (search summary) (unconfirmed: search summary only).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Thanksgiving and the Fourth in the new states" -->
+- Thanksgiving in these years was a New England custom. Each governor named the day each year, and most people in other regions did not keep it (Massachusetts Historical Society).
+- In the early 1800s people in New York, Philadelphia and Richmond held balls, dinners and parades on Washington's birthday, 22 February. It was not yet an official holiday anywhere (Mount Vernon).
+- John Adams and Thomas Jefferson, two of the men who signed the Declaration of Independence, both died on 4 July 1826, fifty years to the day after it was adopted (Mount Vernon).
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="sarah-josepha-hale" name="Sarah Josepha Hale" movie="" kind="famous" status="verified" -->
 ### Sarah Josepha Hale
-Magazine editor who campaigned for decades until Thanksgiving became national.
+> **Who:** A magazine editor who asked governors and presidents for about thirty years to make Thanksgiving one national holiday. · **When and where:** Philadelphia and New England, 1827 to 1879.
+- Sarah Josepha Hale was born in Newport, New Hampshire, on 24 October 1788. Her husband, David Hale, died after nine years of marriage and left her with five children. She wrote poems and books to support them. One of her poems for children was "Mary Had a Little Lamb" (National Women's History Museum).
+- In her 1827 novel *Northwood* she described a New Hampshire Thanksgiving dinner with roast turkey at the head of the table and "the pumpkin pie" in the place of honour (Massachusetts Historical Society).
+- In 1837 she became editor of *Godey's Lady's Book*, a women's magazine read across the country. She held the job until 1877 (Plimoth Patuxet).
+- She used the magazine and her letters to ask for one Thanksgiving Day for the whole country, on the same Thursday in every state. The sources disagree on when she began: in the 1830s (Plimoth Patuxet), in 1846 (National Women's History Museum), or about 1848, since she wrote in 1863 that she had asked "for the last fifteen years."
+- She sent her articles to the governors of every state and territory. She wrote to presidents too, and the first four she wrote to said no (search summary) (unconfirmed: search summary only).
+- Some Southern leaders saw Thanksgiving as a Northern holiday. Governor Henry Wise of Virginia wrote back to her that he wanted nothing to do with "this theatrical national claptrap of Thanksgiving." He meant Northern ministers who preached against slavery on the day (Atlas Obscura, citing historian Melanie Kirkpatrick).
+- Hale supported ending slavery, and later she backed a plan to send freed Black Americans to Africa. She opposed votes for women (National Women's History Museum).
+- On 28 September 1863 she wrote to President Abraham Lincoln and asked him to proclaim the last Thursday in November as a national Thanksgiving. Five days later he did (her letter, Library of Congress, transcribed on Wikisource. Lincoln's proclamation, 3 October 1863).
+- Presidents still had to proclaim the day each year. In May 1877, at 88, her eyes were so weak that a helper wrote her letters. She asked George Washington Warren of Massachusetts to write a resolution for Congress making the last Thursday in November a legal holiday (her letter to George Washington Warren, 3 May 1877, Massachusetts Historical Society). She died in 1879.
 <!-- hb-story:end slug="sarah-josepha-hale" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="holidays" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="holidays" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-The country builds a national holiday calendar out of a war, a strike, and a magazine campaign.
+Between 1863 and 1894 the United States got its first national holidays. President Lincoln proclaimed a national Thanksgiving in 1863, and in 1870 Congress made New Year's Day, the Fourth of July, Thanksgiving and Christmas holidays for federal workers in Washington, D.C. Congress added Washington's birthday in 1879, Decoration Day in 1888 and Labor Day in 1894. Freed Black Americans made their own days. In Texas they celebrated 19 June, the day in 1865 when a Union general announced that slavery had ended there. In Charleston, South Carolina, they reburied Union prisoners of war and decorated their graves. White mobs attacked some of these celebrations. In 1891 a mob in New Orleans killed eleven Italian American men, and the next year President Benjamin Harrison proclaimed the first national Columbus Day. In 1890 the Commissioner of Indian Affairs ordered the government's Indian schools to celebrate the anniversary of the law that broke up reservation land.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Thanksgiving, Memorial Day, and Labor Day" -->
-Lincoln's 1863 Thanksgiving proclamation after Hale's campaign; Decoration Day, later Memorial Day, begun by both Black Southerners and Northern veterans' groups [VERIFY the competing origin claims and state them]; Labor Day made a federal holiday in 1894, days after the Pullman strike; Christmas becoming commercial; Juneteenth celebrated in Texas from 1866 [VERIFY].
+<!-- hb-zoom level="span" label="Thanksgiving for the whole country, 1863" -->
+- In the 1850s some Southern leaders called Thanksgiving a Northern holiday. In 1856 the Richmond *Whig*, a Virginia newspaper, wrote that the day cost working men a day's pay and led to drunkenness (Atlas Obscura).
+- On 28 September 1863 Sarah Josepha Hale wrote to President Abraham Lincoln. She asked him to proclaim the last Thursday in November as a national day of thanksgiving, because getting every state to pass a law "would require years" (her letter, Library of Congress).
+- On 3 October 1863 Lincoln did it. Secretary of State William Seward wrote the proclamation, and Lincoln signed it. It asked Americans everywhere to keep the last Thursday in November as a day of thanks and to pray for "all those who have become widows, orphans, mourners or sufferers" in the war (Lincoln's proclamation, *Collected Works*).
+- After 1863 every president proclaimed a Thanksgiving Day each year. Most chose the last Thursday in November. Andrew Johnson chose the first Thursday in December in 1865, and Ulysses S. Grant the third Thursday in November in 1869 (Congressional Research Service). In Texas, Governor Oran Roberts, who had been a Confederate officer, refused to proclaim Thanksgiving into the 1880s (Atlas Obscura).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="early-juneteenth-celebrant" name="(target) an early Juneteenth celebrant" movie="" kind="ordinary" status="target" -->
-### (target) an early Juneteenth celebrant
-Marked the day in Texas within a year or two of freedom (documented).
-<!-- hb-story:end slug="early-juneteenth-celebrant" -->
+<!-- hb-zoom level="span" label="The first federal holidays, 1870 to 1888" -->
+- On 28 June 1870 Congress made New Year's Day, the Fourth of July, Christmas Day and the president's thanksgiving day holidays for federal workers in Washington, D.C. Bankers and businessmen in the city had asked for the law. Representative Burton Cook of Illinois said it would match the holidays of the states around the District (Congressional Research Service).
+- Congress added Washington's birthday, 22 February, in January 1879, mainly so that banks would close that day (Congressional Research Service). Massachusetts had made Christmas, Washington's birthday and the Fourth of July state holidays in 1856. Irish Catholic voters in the state helped pass that law (Mass Moments).
+- Federal workers outside Washington, D.C., did not get paid holidays until a law of 6 January 1885 (Congressional Research Service).
+- In 1888 Congress made Decoration Day, 30 May, a holiday for federal workers in the District. A large number of them were Union veterans who had lost a day's pay to march in the Decoration Day ceremonies (Congressional Research Service).
+- On 3 January 1863, in the middle of the Civil War, *Harper's Weekly* printed a drawing by Thomas Nast, an immigrant from Bavaria in Germany. It showed Santa Claus giving out presents in a Union army camp, dressed in a coat of stars and striped trousers. Santa holds a toy of the Confederate president, Jefferson Davis, with a rope around its neck (Smithsonian Magazine).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Juneteenth, 1865" -->
+- On 19 June 1865, two months after the Confederate armies in Virginia surrendered, Union general Gordon Granger arrived in Galveston, Texas, with about 1,800 soldiers, according to historian Henry Louis Gates Jr. Other accounts give about 2,000 (`slavery-freedom`). He issued General Orders No. 3: "all slaves are free." The same order told freed people to stay in their homes and work for wages for their former enslavers. It said they would not be allowed to gather at army posts (General Orders No. 3, quoted by Gates and by the Texas State Historical Association).
+- About 250,000 people were enslaved in Texas. More than 150,000 of them had been brought there during the war by enslavers from other Southern states, who wanted to keep them out of reach of the Union army (Gates, citing historian Leon Litwack).
+- Many enslavers did not tell the people they held that they were free until the harvest was in. One formerly enslaved Texan remembered an enslaver who did not tell them "til a whole year after we were" (Texas slave narratives, quoted by Prairie View A&M University). In Galveston the mayor, a former Confederate, forced freed people back to work (Gates, citing historian Elizabeth Hayes Turner).
+- Susan Merritt, who had been enslaved in Texas, said that right after freedom she saw many Black people hanging from trees in the Sabine River bottom. She said white men caught them swimming across the river and shot them. She did not name them, and no record names the killers (Gates, quoting Litwack). Katie Darling kept working for her former mistress for six more years, and said the woman whipped her after the war just as before (Gates).
+- The Freedmen's Bureau, the federal office set up to help freed people, did not reach Texas until September 1865 (Gates).
+- Between 1865 and 1868 Texas had 939 recorded murders. In 379 of them, white people killed Black people. The count comes from a committee of the Texas constitutional convention of 1868 (Texas State Historical Association). Outlaw gangs and armed groups such as the Ku Klux Klan attacked freed people and Union supporters (Texas State Historical Association).
+- Freed people in Texas celebrated the day a year later, on 19 June 1866, and they called it Juneteenth (Gates). Some early celebrations were political meetings where freedmen learned about their new right to vote. In some towns, officials made Black people hold their celebrations outside the town. Black Texans raised money to buy land of their own for the day and named many of these places Emancipation Park (Texas State Historical Association).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="jack-yates-holidays" name="Jack Yates" movie="" kind="ordinary" status="verified" -->
+### Jack Yates
+> **Who:** A Baptist minister, born enslaved, who led Black Houstonians in buying land for their Juneteenth celebrations. · **When and where:** Virginia, then Houston, Texas, 1828 to 1897.
+- John Henry Yates, called Jack, was born enslaved in Gloucester County, Virginia, on 11 July 1828. His enslaver's child taught him to read, which was against the law. He married Harriet Willis, who was enslaved on a nearby farm, and they had eleven children (Texas State Historical Association).
+- About 1863 Harriet's enslaver moved to Matagorda County, Texas. Yates did not want to be separated from his wife and children, so he asked to go too (Texas State Historical Association). The Emancipation Park Conservancy says he had already gained his freedom and went back into slavery to stay with his family.
+- When freedom came in June 1865, the family moved to Houston. Yates hauled goods by day and preached at night and on Sundays. In 1866 he became the first pastor of Antioch Missionary Baptist Church, the first Black Baptist church in Houston (Texas State Historical Association).
+- In 1872 Yates, Richard Allen, Richard Brock and Elias Dibble paid $800 for ten acres in Houston for the city's Black people to hold their Juneteenth celebrations. The members of Antioch Baptist Church and Trinity Methodist Episcopal Church raised the money (Texas State Historical Association. Wikipedia, "Emancipation Park (Houston)").
+- They named it Emancipation Park. It is the oldest park in Houston. During parts of the years of legal segregation it was the only public park in the area that Black people were allowed to use (Wikipedia, "Emancipation Park (Houston)"). Juneteenth celebrations are still held there (Emancipation Park Conservancy).
+- Yates bought land for his own house in 1869 and started a school for Black children, Houston Academy, in 1885. He died on 22 December 1897 (Texas State Historical Association).
+<!-- hb-story:end slug="jack-yates-holidays" -->
+<!-- hb-zoom level="span" label="Freedom celebrations, and the attacks on them" -->
+- When the Emancipation Proclamation took effect on 1 January 1863, Frederick Douglass and other Black leaders in the North held celebrations at midnight (Gates).
+- Eleven years earlier, on 5 July 1852, Douglass had spoken in Rochester, New York. He asked, "What, to the American slave, is your 4th of July?" He answered that it showed an enslaved person "the gross injustice and cruelty to which he is the constant victim" (Douglass, quoted by Gates).
+- In April 1866 Congress passed a Civil Rights Act over President Andrew Johnson's veto. On 16 April Black residents of Norfolk, Virginia, marched to celebrate, with Black Union soldiers in uniform carrying their guns. Someone fired a shot, and a white Confederate veteran was shot and killed in the chase that followed. The records do not say who fired either shot (Library of Virginia).
+- White men then attacked Black people. They killed at least two Black people, badly wounded six, and destroyed Black people's property. The attacks went on through the night until United States Army soldiers stopped them. The records do not give the names of the dead (Library of Virginia).
+- Joseph T. Wilson, a Black Union veteran, printed his side of the story in his Norfolk newspaper, the *True Southerner*. After that issue came out, white men broke into his printing office and destroyed the press (Library of Virginia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Decoration Day: who started it" -->
+- Several towns claim to have held the first day for decorating soldiers' graves. The National Cemetery Administration, the federal office that runs the national military cemeteries, lists these claims.
+- In October 1864 three women in Boalsburg, Pennsylvania, decorated soldiers' graves (National Cemetery Administration).
+- In Charleston, South Carolina, the Confederate army had held Union prisoners of war at the Washington Race Course, a horse-racing track. At least 257 of them died there and were buried in a mass grave behind the grandstand (National Cemetery Administration). Historian Adam Domby writes that the prisoners suffered mistreatment while they were held (College of Charleston).
+- In April 1865 freed people and Black workmen dug up the bodies and reburied each man in his own grave. They built a fence and an arch that read "Martyrs of the Race Course" (College of Charleston). On 1 May 1865 freed people and Northern white allies held a ceremony there. Historian David Blight writes that as many as 10,000 people came, including 3,000 Black schoolchildren carrying flowers and singing "John Brown's Body" (College of Charleston).
+- On 25 and 26 April 1866 white women in Columbus, Mississippi, and Columbus, Georgia, held days to put flowers on the graves of Confederate and Union dead. Mary Ann Williams of the Ladies Memorial Association in Columbus, Georgia, wrote the newspaper letter that asked for the day (National Cemetery Administration). Supporters of the Confederacy kept their own separate Memorial Day in the South (College of Charleston).
+- On 5 May 1868 General John A. Logan, head of the Grand Army of the Republic, the organization of Union veterans, ordered its members to decorate the graves of Union soldiers on 30 May 1868. The first national Decoration Day was held that day at Arlington National Cemetery in Virginia, on land that had been Confederate general Robert E. Lee's estate (National Cemetery Administration).
+- Historians still disagree about which of these came first and whether the later ceremonies copied the Charleston one (College of Charleston. National Cemetery Administration). `war` tells the Civil War dead.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Labor Day, 1882 to 1894" -->
+- Union workers in New York City held the first Labor Day parade on Tuesday, 5 September 1882. The city's Central Labor Union planned it (US Department of Labor).
+- The Department of Labor says two men have been credited with the idea: Peter J. McGuire of the carpenters' union and Matthew Maguire, a machinist. It says recent research favours Maguire (US Department of Labor).
+- Oregon made Labor Day a state holiday on 21 February 1887. By 1894, 23 more states had done the same (US Department of Labor).
+- A senator introduced the bill for a national Labor Day in August 1893. The Senate passed it in June 1894 and the House on 26 June. President Grover Cleveland signed it on 28 June 1894 (US House of Representatives History). It gave federal workers the first Monday in September off (Congressional Research Service).
+- Cleveland signed it in the first days of a national railroad strike. On 26 June the American Railway Union, led by Eugene Debs, had started refusing to run trains with Pullman sleeping cars, to support Pullman factory workers who were on strike. On 3 July Cleveland sent federal soldiers to Chicago to break the strike (Wikipedia, "Pullman Strike". `work-workers`). Cleveland left no letter or statement that explains why he signed it.
+- `work-workers` tells the Pullman strike and the people killed in it.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Columbus Day, 1892, and the New Orleans lynching" -->
+- In October 1890 someone shot and killed David Hennessy, the police chief of New Orleans. Police arrested many Italian Americans, and 19 were charged. Nine were tried. The jury found six not guilty and could not agree on the other three. No solid evidence had been shown against them (Smithsonian Magazine. Wikipedia, "1891 New Orleans lynchings").
+- The next day, 14 March 1891, thousands of people gathered in the city. A lawyer, William S. Parkerson, told them to "set aside the verdict." Parkerson led an armed group into the city jail with three other men, Walter Denegre, James D. Houston and John C. Wickliffe (Wikipedia, citing historian Richard Gambino).
+- They killed eleven Italian American men. They shot and clubbed nine to death inside the jail. They hanged Emmanuele Polizzi from a lamppost and Antonio Bagnetto from a tree and shot them (Wikipedia).
+- The eleven were Antonio Bagnetto, James Caruso, Loreto Comitis, Rocco Geraci, Joseph Macheca, Antonio Marchesi, Pietro Monasterio, Emmanuele Polizzi, Frank Romero, Antonio Scaffidi and Charles Traina. Three had been found not guilty. Three had had a mistrial. Five had never been tried (Wikipedia. Smithsonian Magazine).
+- A grand jury said it could not identify the killers and charged no one. Italy's government called its ambassador home. President Benjamin Harrison's government paid $25,000 to the dead men's families (Wikipedia).
+- On 21 July 1892 Harrison proclaimed 21 October 1892, the 400th anniversary of Columbus's landing in the Americas, a national holiday. He asked schools to lead the celebrations and to fly the flag over every schoolhouse (Proclamation 335, American Presidency Project).
+- The proclamation does not mention Italy or New Orleans. Some historians say Harrison meant the holiday partly to calm Italy and Italian Americans after the lynching (Wikipedia, citing Gambino).
+- `native-nations` tells what Columbus's voyages did to the people who already lived in the Americas.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Holidays in the government boarding schools" -->
+- In the 1880s and 1890s federal officials sent Native children to government boarding schools to make them give up their nations' languages and ways (`native-nations`, `education`).
+- In 1890 Thomas J. Morgan, the Commissioner of Indian Affairs, ordered the schools to celebrate 8 February as "Franchise Day." It was the anniversary of the Dawes Act of 1887, the law that broke up reservation land into family farms. Morgan wrote that it could be the day "the Indians may strike out from tribal and reservation life." His rules also told the schools to celebrate the national holidays (search summaries of Morgan's circular) (unconfirmed: search summary only).
+- In 1883, at the request of Secretary of the Interior Henry Teller, federal officials had made the Sun Dance and other Native ceremonies "Indian offenses" on the reservations. `religion` tells those rules and the punishments.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="holidays" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="holidays" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Holidays get fixed by law, and businesses learn how to sell them.
+From 1908 to 1941 presidents and Congress added new national days and fixed the dates of old ones. Anna Jarvis's campaign made Mother's Day a national day in 1914, and she spent the rest of her life fighting the businesses that sold flowers and cards for it. After the First World War, Americans marked 11 November as Armistice Day, and in 1938 Congress made it a legal holiday dedicated to peace. From 1934 presidents proclaimed Columbus Day each October. Stores used the holidays to sell. Macy's department store began its Thanksgiving parade in 1924, and in 1939 President Franklin Roosevelt moved Thanksgiving a week earlier to give stores more shopping days before Christmas. So many people objected that Congress fixed the date by law in 1941.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Mother's Day, Veterans Day, and fixing Thanksgiving" -->
-Mother's Day made official, 1914 [VERIFY], and its founder's later campaign against its commercialization; Armistice Day, then Veterans Day; Thanksgiving fixed by law in 1941 after a two-year dispute over its date; department-store parades; Halloween becoming a children's holiday.
+<!-- hb-zoom level="span" label="Mother's Day, 1908 to 1914" -->
+- Other Americans had proposed a day for mothers before Anna Jarvis did. In 1872 Julia Ward Howe, who wrote "The Battle Hymn of the Republic," started a Mothers' Peace Day. In 1904 Frank Hering of the Fraternal Order of Eagles gave a speech calling for a national day to honour mothers (National Geographic).
+- On 8 May 1914 Congress passed a joint resolution naming the second Sunday in May as Mother's Day. The next day President Woodrow Wilson asked Americans to fly the flag that day "as a public expression of our love and reverence for the mothers of our country" (Proclamation 1268, American Presidency Project). The law did not give anyone a day off, because the day was a Sunday.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="anna-jarvis" name="Anna Jarvis" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="anna-jarvis" name="Anna Jarvis" movie="" kind="famous" status="verified" -->
 ### Anna Jarvis
-Founded Mother's Day and then fought what it became [VERIFY the 1914 detail].
+> **Who:** The woman who campaigned to create Mother's Day and then fought the businesses that made money from it. · **When and where:** West Virginia and Philadelphia, 1905 to 1948.
+- Anna Jarvis was born in Webster, West Virginia, on 1 May 1864, during the Civil War. Her mother, Ann Reeves Jarvis, ran Mothers' Day Work Clubs that nursed sick and wounded soldiers from both armies (National Park Service).
+- Her mother died in 1905. To honour her, Anna Jarvis began asking for a national day for mothers. She chose the second Sunday in May because her mother had died near that date (National Park Service. National Geographic).
+- On 10 May 1908 she sent 500 white carnations to her mother's church in Grafton, West Virginia, for the first Mother's Day service. She spoke that day at a Mother's Day gathering in the Philadelphia department store of John Wanamaker. National Geographic reports that 15,000 people came and were each given a carnation (National Park Service. National Geographic).
+- She wrote letters to business owners, politicians, ministers and newspaper editors across the country. In 1914 Congress and President Wilson made the second Sunday in May a national Mother's Day (National Park Service).
+- Florists raised the price of carnations before Mother's Day, and card companies sold printed Mother's Day cards. Jarvis wanted people to write their own letters and visit their mothers. She wrote in the 1920s that she did not want Mother's Day to become a "burdensome, wasteful, expensive gift day" (National Geographic. National Park Service).
+- In 1925, at 61, she was arrested for disturbing the peace at a convention of the American War Mothers, a group that sold carnations for Mother's Day (History Facts. WCHS-TV).
+- She filed lawsuits against businesses that used the name "Mother's Day" and spent her money on the fight (History Facts. National Geographic). In 1943 she started a petition to end the holiday. That year she was placed in the Marshall Square Sanitarium, a hospital in West Chester, Pennsylvania, where she stayed until she died. The sources do not say who placed her there. People connected with the flower and greeting-card businesses paid her bills there (Wikipedia, "Anna Jarvis", citing historian Katharine Antolini).
+- She died on 24 November 1948, at 84, with no money left. She never had children (National Park Service. National Geographic).
 <!-- hb-story:end slug="anna-jarvis" -->
+<!-- hb-zoom level="span" label="Armistice Day, 1919 and 1938" -->
+- The fighting in the First World War stopped at 11 o'clock in the morning on 11 November 1918, under an armistice, an agreement to stop fighting. In November 1919 President Wilson asked Americans to mark the first anniversary as Armistice Day, with parades, public meetings and a short stop in work at 11 a.m. (US Department of Veterans Affairs).
+- By 1926 the lawmakers of 27 states had made 11 November a holiday. That year Congress asked the president to call for flags and for ceremonies of "friendly relations with all other peoples" (US Department of Veterans Affairs).
+- On 13 May 1938 Congress made Armistice Day a legal federal holiday, "dedicated to the cause of world peace." By then all 48 states kept the day. Organizations of First World War veterans backed the law (US Department of Veterans Affairs. Congressional Research Service).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Thanksgiving, stores and the date fight" -->
+- On 27 November 1924 employees of Macy's department store in New York City marched in costume to the store with floats and animals from the Central Park Zoo. At the end, Santa Claus arrived. Macy's made the parade a yearly event (Wikipedia, "Macy's Thanksgiving Day Parade").
+- In 1939 the last Thursday in November fell on 30 November. President Franklin Roosevelt worried that a short shopping season before Christmas would slow the country's recovery from the Great Depression. He moved Thanksgiving a week earlier, to 23 November, to help stores (National Archives. Congressional Research Service).
+- The governors of 32 states followed him, and the governors of 16 states kept the last Thursday. For two years Americans kept two different Thanksgivings (National Archives).
+- In 1941 Congress set Thanksgiving by law as the fourth Thursday in November. Roosevelt signed it on 26 December 1941 (National Archives).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Columbus Day, 1905 to 1937" -->
+- Angelo Noce, an Italian immigrant in Denver, asked Colorado to honour Columbus. Colorado's governor, Jesse McDonald, proclaimed the first state Columbus Day in 1905 (Wikipedia, "Columbus Day").
+- The Knights of Columbus, a Catholic men's organization, and Generoso Pope, an Italian American leader in New York City, asked Congress for a national day. On 30 April 1934 Congress asked the president to proclaim 12 October each year as Columbus Day, with flags on government buildings. President Roosevelt did so that September, and again in 1937 (Proclamations 2101 and 2253, American Presidency Project. Wikipedia).
+- It was a day of flags and school ceremonies, and federal workers did not get the day off (Congressional Research Service). Many Italian Americans kept it as a celebration of their own heritage (Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Christmas, Memorial Day and Labor Day" -->
+- On Christmas Eve 1923 President Calvin Coolidge lit the first National Christmas Tree, a 48-foot fir from Vermont, near the White House. Washington, D.C.'s public schools had asked for it, and about 3,000 people watched (National Park Service).
+- The 1894 Labor Day law gave the day off only to federal workers. Into the 1930s unions told their members to strike if their employers made them work that day (Wikipedia, "Labor Day", citing economist Jay Zagorsky).
+- Juneteenth celebrations grew smaller in the early 1900s. Schools taught that the Emancipation Proclamation had ended slavery and did not teach Juneteenth. In the Great Depression of the 1930s many people moved to cities to find work, and employers there would not give them the day off (Boston Public Library).
+- On Memorial Day 1937 Chicago police shot and killed ten people marching in support of striking steelworkers. `work-workers` tells it.
+- Federal officials in the 1920s still used rules against Native dances and ceremonies. `religion` tells how Commissioner of Indian Affairs Charles Burke's orders of 1921 and 1923 let agents stop them.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="holidays" label="1950 to 2000" state="full" progress="seed" -->

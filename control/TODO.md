@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-273b holidays (full research eras 6-8 (T-273c does 9-10))
 **ONE AT A TIME (resumed 2026-09-28).** 30 of 37 chapters pass research.
 Still to do in step 1:
 - education and rights-movements: checks COMPLETE (T-261e, T-262e).

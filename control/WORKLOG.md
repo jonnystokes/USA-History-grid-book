@@ -3079,6 +3079,8 @@ RESULT: DONE. PASS  news-communication / research. measured: stage=RESEARCHED er
         357246 tokens, 168 tool uses, 21.7 min (opus). Eras 9-10, chapter COMPLETE. Stories: Cronkite, Woodward and Bernstein (the 'brought down a president' line corrected), Jeff German (killed 2022 by the official he reported on), Darnella Frazier. WLBT license case, Pentagon Papers, fairness doctrine 1987, cable, journalists killed (Bolles, Guihard, five Vietnamese American journalists, Capital Gazette), Medill 2025 news deserts, platform owners, MIT 2018 false-news study, Press Freedom Tracker, 2025-26 public broadcasting cuts. 4 searched-not-found.
 
 ### 2026-09-27 | [LOCAL] T-273b | holidays: full research eras 6-8 (T-273c does 9-10) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
+RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 stories=8 (v6 c0 t2) verify_tags=3 bank=18333w outline=11312w manuscript=0w validator_errors=0
+        402103 tokens, 152 tool uses, 20.0 min (opus). Eras 6-8 + bank check. Stories: Sarah Josepha Hale (rebuilt from sources), Jack Yates (Emancipation Park 1872), Anna Jarvis. Christmas under slavery and hiring day, NY 5 July 1827 parade, Albany's 1811 Pinkster ban, Juneteenth and Texas 1868 (379 killed), Norfolk 1866, Decoration Day origins unresolved, New Orleans 1891 (eleven named), Armistice Day, 1939-41 Thanksgiving fight. Corrections: Labor Day 28 Jun 1894, Columbus Day first 1934, Mother's Day law, Alabama 1836 rejected. 4 searched-not-found. Parked to immigration and crime-justice. Chapter FAIL until eras 9-10.
