@@ -11,13 +11,12 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**BURST OF 5 (Jon):** T-260c religion 9-10, T-261c education 8, T-262d rights 9, T-270a news-communication 1-5,
-T-273a holidays 1-5. Then back to one at a time. 30 of 37 chapters pass research (23 researched + 7 written).
+**Burst of 5 done. ONE AT A TIME.** 30 of 37 chapters pass research.
 Still to do in step 1:
-- **religion** eras 9-10 bank check (T-260c). **education** era 8 (T-261c), era 9 (T-261d), era 10 (T-261e).
-  **rights-movements** era 8 DONE (T-262c, Tulsa told), era 9 (T-262d), era 10 (T-262e). All pass already.
-- **7 seeds, full research** (2-3 agents each): news-communication, art, music, storytelling-evolution,
-  styles, sports-play, holidays.
+- **education** era 9 (T-261d), era 10 (T-261e). **rights-movements** era 10 (T-262e). Both chapters pass already.
+- **news-communication** eras 6-10 (T-270b, maybe split) and **holidays** eras 6-10 (T-273b): chapters PARTIAL.
+- **5 seeds, full research:** art (T-267), music (T-268), storytelling-evolution (T-269), sports-play (T-271),
+  styles (T-272). 2-3 agents each.
 Then STEP 2 (writing).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)

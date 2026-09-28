@@ -627,3 +627,23 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
 - `native-nations`, 1950-2000: Public Law 277, 15 Aug 1953 (67 Stat. 586), ended federal Indian liquor laws outside Indian country and gave tribes local option by ordinance. Bank era 09.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `native-nations`, era 9: Lyng v. Northwest Indian Cemetery Protective Assn. 1988 (Yurok, Karok, Tolowa sacred high country). Religion bank end of ERA 9.
+- `native-nations`, era 10: Oak Flat exchange completed March 2026 (about 2,400 acres, Resolution Copper, 2014 Act; KJZZ 23 Mar 2026). Religion bank end of ERA 10.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **native-nations, era 1900-1950: Uintah Boarding School, Whiterocks, Utah, Senate hearing November 1928.** Tilford Denver, 11, killed by an unsecured swing late October 1927; Swanson Mowachean, orphan, died 6 March 1928 after Superintendent H. M. Tidwell delayed hospital care; Principal George N. Shafer told disciplinarian Fred Bruce to whip boys. Source: Salt Lake Tribune, Sheila R. McCann, 9 July 2023, quoting the Senate *Survey of Conditions of the Indians* hearings. Sourced text: `research/research-education.md` era 8, "PATCH 2026-09-27 (T-261c): the boarding schools in this era...", item 3.
+- **native-nations, era 1900-1950: Poston camp on the Colorado River Indian Reservation, run by the Office of Indian Affairs for its first year and a half** (Poston Preservation). The tribal council's objection and the 71,000 acres are search-summary only. Education bank era 8, camp-schools patch.
+- **native-nations, era 1850-1900 (note for the director): the 1891 compulsory-attendance act is real** (Act of 3 March 1891, 26 Stat. 1014; Cohen, *Handbook of Federal Indian Law*, 1942, ch. 12 §2C), plus the 1892, 1893 and 1894 acts. PART B's line can stand. Education bank era 8, boarding patch item 1.
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `native-nations`, era 3: the Tesuque runners Nicolás Catua and Pedro Omtua (NMAI Zotigh 2 September 2026; IPCC): tortured and hanged; planned date 11 or 13 August; Treviño's 1675 arrests of 47 leaders, three hanged, one suicide. This chapter holds the story block `catua-and-omtua`.
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `war` / `native-nations`, era 1600s (Pequot War): Records of the Massachusetts Bay vol. 1 (archive.org recordsofgoverno01mass): 6 June 1637 court set 15 June as a thanksgiving; 1 Aug 1637 court asked for a thanksgiving "vpon the returne of the souldiers, & the souldiers to bee feasted by their townes"; autumn 1637 order: 12 Oct 1637 thanksgiving for "subdewing the Pecoits, bringing the soldiers in safety".

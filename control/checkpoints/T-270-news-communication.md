@@ -45,7 +45,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## TO PARK (FILED by the director, 2026-09-27)
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `government-politics`, era 5 (1750-1800): the Sedition Act text (Avalon: $2,000 fine, two years, truth allowed as evidence, jury decides law and fact, expiry 3 March 1801) and the count dispute (MTSU McNamara: 17 indictments and 10 convictions traditional, plus Wendell Bird's 11 prosecutions of 16 people; NCC "more than two dozen" convicted). Also: named defendants Ann Greenleaf, Anthony Haswell, Thomas Adams, William Durrell, Luther Baldwin and Brown Clark (MTSU). Their bank PATCH T-258 has Lyon but not these.
 - `government-politics`, era 5: the Stamp Act of 1765 is told in no outline. Avalon text rates and Britannica repeal 1766 are in this bank, era 5.

@@ -45,7 +45,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## TO PARK (FILED by the director, 2026-09-27)
 - `war`, era 1500s (Matanzas): Menéndez's own letter to Philip II, 15 Oct 1565 (Early Visions of Florida, https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/): killed the French because "they spread the Lutheran sect in these provinces of Your Majesty" and settled "without permission of Your Majesty"; his counts: 132 at Fort Caroline had "their throats cut", 10 more next day, 16 spared (12 Breton seamen, 4 craftsmen), about 70 with Ribault. NPS Fort Matanzas counts: 111 then 134 killed at the inlet; 12 Oct (NPS) vs 11 Oct (Florida Museum timeline).
 - `war` / `native-nations`, era 1600s (Pequot War): Records of the Massachusetts Bay vol. 1 (archive.org recordsofgoverno01mass): 6 June 1637 court set 15 June as a thanksgiving; 1 Aug 1637 court asked for a thanksgiving "vpon the returne of the souldiers, & the souldiers to bee feasted by their townes"; autumn 1637 order: 12 Oct 1637 thanksgiving for "subdewing the Pecoits, bringing the soldiers in safety".
 - `how-we-know` (Afterword, the Thanksgiving myth): Salem Gazette 28 Nov 1816 credits "our Pilgrim forefathers, who instituted this religious festival" (Jane Hampton Cook, GenealogyBank blog, 4 Dec 2020); Alexander Young 1841 note (Plimoth Patuxet); Newell claim vs Jeremy Bangs, HNN 1 Sep 2005.

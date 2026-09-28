@@ -426,3 +426,8 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
 (STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
 - `work-workers`, era 10: Impact Plastics, Erwin, Tennessee, September 27, 2024: five employees and a contractor drowned in Helene floods; TOSHA no citations (April 2025), no charges (DA Steven Finney, July 2025); survivor and families say workers were not released in time (Tennessee Lookout; AP via WLOS). Also Mayfield Consumer Products candle factory, Kentucky, December 10, 2021: eight or nine workers died, workers alleged jobs were threatened if they left (Wikipedia, needs a second source).
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `slavery-freedom` or `work-workers`, era 3: USPS Pub 100: in the South "private messengers, usually slaves, connected the huge plantations."

@@ -3033,3 +3033,9 @@ CHECKPOINT: control/checkpoints/T-273-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage research
 RESULT: LANDED. FAIL  holidays / research. measured: stage=PARTIAL eras=10/10 stories=8 (v4 c1 t3) verify_tags=9 bank=8887w outline=6090w manuscript=0w validator_errors=0
         374030 tokens, 218 tool uses, 29.1 min (opus). Eras 1-5 researched + bank check. Native ceremonial calendars (Haudenosaunee Thanksgiving Address, Wampanoag, Green Corn per Bartram 1791, Hopi Soyal, First Salmon, Makahiki), St. Augustine and Onate thanksgivings with Matanzas, Plymouth 1621, the 1637 Pequot War thanksgivings, 1659 Christmas law, Pope's Night, Pinkster, Black governors, 1777 Fourth, Christmas for the enslaved. Stories: Bradford, Henry Wight, John Anderson. 4 searched-not-found. Chapter FAIL until eras 6-10. TO PARK 7.
+
+### 2026-09-27 | [LOCAL] Burst of 5 done; TO PARK filed (director, script)
+All five landed: T-260c (religion's checks complete), T-261c education 8, T-262d rights-movements 9 (all PASS);
+T-270a news-communication 1-5 and T-273a holidays 1-5 (PARTIAL until eras 6-10). Parked items filed into 12
+banks + research-storytelling-evolution.md created to hold one item; one afterword item to AUDIT-QUEUE.
+All validate 0; the 7 written chapters still PASS prose. Back to ONE AT A TIME.

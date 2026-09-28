@@ -3538,3 +3538,16 @@ Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynchi
 Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
 - **slavery-freedom or rights-movements, era 1850-1900: Margaret Douglass, Norfolk, jailed one month from 10 January 1854** for teaching free Black children (her own 1854 narrative, Gutenberg 70331). Education tells it as a span. Education bank era 7.
 - **rights-movements, era 1800-1850: Noyes Academy, Canaan, New Hampshire, dragged off its foundation 10 August 1835** (Colored Conventions Project; Town of Canaan). Education tells it as a span beside a pointer to `prudence-crandall`. Education bank era 6.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `rights-movements`, era 9: second injured count for 16th Street (22, Wollschleger, The Conversation 2026) against its search-summary 17; and Wollschleger's about 145 attacks on Black churches 1954-1970. Religion bank end of ERA 9.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **war or rights-movements, era 1900-1950: schools in the incarceration camps** (Manzanar and Poston figures, NPS; more than 30,000 pupils system-wide). Education tells it as a span; nothing to file unless those chapters want a pointer.
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `rights-movements`, era 5: Mary Katharine Goddard removed as Baltimore postmaster in 1789; Burrell's "more travelling might be necessary than a woman could undertake"; 200-plus petitioners (Smithsonian, Trickey 2018; USPS Pub 100).

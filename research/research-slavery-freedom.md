@@ -544,3 +544,13 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `slavery-freedom`, era 1850-1900: Frances Thompson's 1876 arrest (PATCH "Frances Thompson, 1866 and 1876"): 10 July 1876, Dr. Joseph Nuttall and three doctors, $50 fine, 100 days chain gang, died 1 Nov 1876 (MLK50 2024, CNN 2025). CNN gives TWO police officers among the seven men in 1866, not three as the parked note said.
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `slavery-freedom`, era 4: Franklin's household enslaved people 1735 to 1790, seven named (Benjamin Franklin House); *Pennsylvania Gazette* slave-sale and runaway ads nearly a quarter of its ads by the 1750s (Barbour, International Printing Museum blog, 2026, single source); Elizabeth Timothy's will left eight enslaved people (SC Encyclopedia).
+- `slavery-freedom` or `work-workers`, era 3: USPS Pub 100: in the South "private messengers, usually slaves, connected the huge plantations."
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `slavery-freedom`, era 1750-1800: Mount Vernon, most enslaved workers had four days off at Christmas, house workers did extra work (Mary V. Thompson, Mount Vernon Digital Encyclopedia); Fithian's journal 25 Dec 1773 (Gutenberg 40044) names Nelson, Tom the coachman and Dennis serving on Christmas morning.

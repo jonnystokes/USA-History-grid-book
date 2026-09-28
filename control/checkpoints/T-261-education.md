@@ -49,7 +49,7 @@ PASS  education / research
 | 9 | each verified story in era 8 has its key facts in the bank | done | john-dewey (§8a-8c), mamie-garvin-fields (§8p), sylvia-mendez (§8o): every fact in the blocks matches the bank |
 | 10 | final for era 8: outline punctuation, validator, research check, NEXT for era 9 | done | outline era 8: separate-schools span gains the 1917 federal survey figures and the county officers, Lemon Grove 1931 and Delgado 1948; boarding span gains the 1920 attendance law, Carlisle to the War Department, the 1928 Uintah hearing (Tilford Denver, Swanson Mowachean, Principal Shafer and whipping); testing span gains Hunter's Civic Biology and Scopes pointer; new span 'School inside the camps'; 9 semicolons cleared, 0 em dashes and 0 semicolons in era 8; validator 0 errors; research PASS |
 
-## TO PARK (T-261c)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - **native-nations, era 1900-1950: Uintah Boarding School, Whiterocks, Utah, Senate hearing November 1928.** Tilford Denver, 11, killed by an unsecured swing late October 1927; Swanson Mowachean, orphan, died 6 March 1928 after Superintendent H. M. Tidwell delayed hospital care; Principal George N. Shafer told disciplinarian Fred Bruce to whip boys. Source: Salt Lake Tribune, Sheila R. McCann, 9 July 2023, quoting the Senate *Survey of Conditions of the Indians* hearings. Sourced text: `research/research-education.md` era 8, "PATCH 2026-09-27 (T-261c): the boarding schools in this era...", item 3.
 - **native-nations, era 1900-1950: Poston camp on the Colorado River Indian Reservation, run by the Office of Indian Affairs for its first year and a half** (Poston Preservation). The tribal council's objection and the 71,000 acres are search-summary only. Education bank era 8, camp-schools patch.
@@ -57,7 +57,7 @@ PASS  education / research
 - **war or rights-movements, era 1900-1950: schools in the incarceration camps** (Manzanar and Poston figures, NPS; more than 30,000 pupils system-wide). Education tells it as a span; nothing to file unless those chapters want a pointer.
 - **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 - **native-nations, era 1800-1850: the Civilization Fund Act (3 March 1819, $10,000 a year, repealed 1873) and the Choctaw Academy, Kentucky, 1825-1848** (Richard M. Johnson's farm, Choctaw treaty money $6,000 a year, 600+ students from 17 nations, 1840 inspection, Pitchlynn withdrew Choctaw students 1842). Sourced text: `research/research-education.md` era 6, "PATCH 2026-09-27 (T-261b): federal schooling of Native children begins in this era" (DOI report Vol I 2022 pp. 27-28; ExploreKYHistory; Penn State on Christina Snyder).
 - **native-nations, era 1850-1900: the nine Rosebud Sioux children who died at Carlisle, returned 14 July 2021, and Spotted Tail's request of 23 May 1881** (Proclamation 10870, 2024; DOI report Vol II 2024). Also the 2024 report's figures (417 schools, at least 973 deaths, 18,624 named children, 74 burial sites at 65 schools) and the Act of 3 March 1893 (rations withheld). Sourced text: education bank era 7, "PATCH 2026-09-27 (T-261b): the boarding schools, the two federal reports' figures".

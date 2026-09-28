@@ -3420,3 +3420,12 @@ Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynchi
 Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `education`, era 1850-1900: Ward v. Flood (Jan 1874) from the decision text at BlackPast: Harriet A. Ward's petition, the Wards LOST; Smith (1871, opened fall 1875, 14 students), Wellesley (1870, opened 8 Sept 1875, 314), Bryn Mawr (opened Sept 1885) from each college's own page.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `education` and `government-politics`, era 10: Mahmoud v. Taylor, 606 U.S. 522 (27 June 2025, 6-3), parents' religious opt-out from storybooks; named parents; Sotomayor dissent. And Texas Ten Commandments: Rabbi Nathan v. Alamo Heights ISD, 173 F.4th 576 (5th Cir. en banc, 21 Apr 2026, 9-8), cert petition 17 Aug 2026. Religion bank end of ERA 10.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
+- `education`, era 1950-2000: the East Los Angeles walkouts, 1-8 March 1968, about 15,000 students, seven schools, 60 percent dropout rate, Spanish bans, 13 organizers arrested 31 March, Sal Castro fired and reinstated (LOC Latinx Civil Rights guide). No outline in the book told them before this.

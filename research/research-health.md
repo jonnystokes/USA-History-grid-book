@@ -973,3 +973,8 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
 - `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
 - `health`, 2000-today: EVALI 2,807 hospitalized or dead, 68 deaths, vitamin E acetate (CDC); Surgeon General alcohol-cancer advisory 3 Jan 2025 (100,000 cancers, 20,000 deaths); Dietary Guidelines 7 Jan 2026 dropped the 1-and-2-drink limits; overdose final 2024 79,384 and 2024 rates by race (Data Brief 549, Jan 2026: AI/AN 51.6). Bank era 10.
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `health`, era 4: 1721 Boston smallpox, the bomb thrown into Cotton Mather's house on 14 November 1721 with its note, about 6,000 cases and 844 deaths (Crawford, PMC3865953); Boylston's 248 inoculated, 98 percent survival against 85 percent (Mass Moments).

@@ -3166,3 +3166,23 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 
 ## Parked from `rights-movements` (2026-09-27, T-262c)
 - Era 1900-1950: `rights-movements` now tells Isaac Woodard in one span, with the link to Truman (Walter White's delegation 19 Sept 1946, EO 9808 on 5 Dec 1946, sourced to the Truman Library Institute, which closes your "unconfirmed" note). Houston 1917 and Port Chicago 1944 are left with `war`: no chapter's outline tells either yet.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **war or rights-movements, era 1900-1950: schools in the incarceration camps** (Manzanar and Poston figures, NPS; more than 30,000 pupils system-wide). Education tells it as a span; nothing to file unless those chapters want a pointer.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
+- `war`, era 1950-2000: the Chicano Moratorium of 29 August 1970 protested Mexican American draft and casualty rates in Vietnam (LOC guide: "dying at twice the rate of any other group", LOC's own claim).
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `war`, era 5: J. L. Bell (JAR, 27 June 2024): the Lexington alarm rider was Isaac Bissell, a 26-year-old Suffield blacksmith, not "Israel"; Palmer's letter text; Silas Deane's "discredited" entry. If `war` tells the Israel Bissell ride, it should use Bell.
+- `war`, era 2: Nicolas Le Challeux's *Discours*, Dieppe 1566 (archive.org catalogue record), a survivor's printed account of Fort Caroline.
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `war`, era 1500s (Matanzas): Menéndez's own letter to Philip II, 15 Oct 1565 (Early Visions of Florida, https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/): killed the French because "they spread the Lutheran sect in these provinces of Your Majesty" and settled "without permission of Your Majesty"; his counts: 132 at Fort Caroline had "their throats cut", 10 more next day, 16 spared (12 Breton seamen, 4 craftsmen), about 70 with Ribault. NPS Fort Matanzas counts: 111 then 134 killed at the inlet; 12 Oct (NPS) vs 11 Oct (Florida Museum timeline).
+- `war` / `native-nations`, era 1600s (Pequot War): Records of the Massachusetts Bay vol. 1 (archive.org recordsofgoverno01mass): 6 June 1637 court set 15 June as a thanksgiving; 1 Aug 1637 court asked for a thanksgiving "vpon the returne of the souldiers, & the souldiers to bee feasted by their townes"; autumn 1637 order: 12 Oct 1637 thanksgiving for "subdewing the Pecoits, bringing the soldiers in safety".

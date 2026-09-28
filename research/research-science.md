@@ -268,3 +268,7 @@ Library of Congress (exhibitions, Maury papers, Tharp blog) · Smithsonian Insti
 ## Parked from `exploration` (2026-09-27, T-257)
 Filed by the director after the parallel run. Full sourced text is in `research/research-exploration.md` under the T-257 PATCH named in each item.
 - `native-nations` / `science`, era 07: Peary took the Cape York meteorite (1894) from the Inughuit who used it for tools; brought six Inuit to the American Museum of Natural History, Sept 1897; four died of TB by 1898; museum staged a fake burial for Minik and displayed his father Qisuk's skeleton. Wikipedia "Robert Peary", "Minik Wallace".
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.

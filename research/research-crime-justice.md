@@ -1661,3 +1661,18 @@ All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T
 ## Parked from `rights-movements` (2026-09-27, T-262c)
 - Era 1900-1950: `rights-movements` now leads Tulsa 1921 in four spans and the story `viola-fletcher` (Greenwood, the burning, the camps and pass cards, the fire ordinance fight, the survivors' campaign). Your span keeps Rowland, the courthouse, the grand jury, Gustafson and the 2025 DOJ review. Full sourcing: `research/research-rights-movements.md` era 8, PATCH "the Tulsa Race Massacre" (DOJ 2025 read in full).
 - Era 1900-1950: the Red Summer of 1919 is now told in `rights-movements` (Chicago: Eugene Williams, George Stauber, Officer Daniel Callahan refused to arrest him, 38 dead, 138 indicted, two thirds Black, Chicago Race Riot of 1919 Commemoration Project and Chicago History Museum. Elaine: 500 to 1,000 armed white men, Camp Pike troops, deaths "into the hundreds," 122 charged, 12 sentenced to death, *Moore v. Dempsey* 19 Feb 1923, Encyclopedia of Arkansas and Cornell LII). The killings as crime are yours if you want them. Sourcing in the rights-movements bank era 8, PATCH "the Red Summer of 1919".
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `crime-justice` or `government-politics`, era 9: Waco 1993 (House Report 104-749; Danforth interim report 21 July 2000). Religion bank PATCH T-260c end of ERA 9.
+- `crime-justice`, era 10: Sutherland Springs 2017 (Holcombe v. US: 26 killed, 22 wounded, US 60% liable); Grand Blanc 2025 (4 named dead). Religion bank end of ERA 10.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
+- `crime-justice`, era 1950-2000: the trials of the killers (PATCHes "Viola Liuzzo", "Selma. Who shot Jimmie Lee Jackson and who killed James Reeb", "Medgar Evers's killer", "Neshoba County", "the Birmingham church bombing", "Fannie Lou Hamer's jailers"): state acquittals and hung juries by all-white juries, federal civil-rights convictions (Liuzzo Dec 1965, 10 years; Neshoba 20 Oct 1967, 7 of 18, 3 to 10 years), the cold-case convictions (Beckwith 1994, Blanton 2001, Cherry 2002, Killen 2005, Fowler plea 2010), DOJ Reeb close-file 20 May 2011, Hoover's 1968 closure of the Birmingham case. Also the Salazar killing (Deputy Thomas Wilson, DA Evelle Younger declined to charge; OAC finding aid) and Dan White's manslaughter verdict (EBSCO).
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `crime-justice`, era 5: James Rivington's press wrecked by Isaac Sears and New Haven Sons of Liberty, November 1775 (Adelman, Gotham Center).

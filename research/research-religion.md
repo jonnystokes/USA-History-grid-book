@@ -4864,3 +4864,11 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the heading named.
 - `religion`, 1750-1800: Handsome Lake (Seneca), visions of 1799, stopped drinking, preached against drunkenness, Code of Handsome Lake / Longhouse Religion still practiced (Wikipedia "Handsome Lake"). Bank era 05, "Native nations and the liquor trade, 1750 to 1800".
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `religion`, era 1600s: nothing new (holidays used religion's Zotigh/Newberry material with a pointer).

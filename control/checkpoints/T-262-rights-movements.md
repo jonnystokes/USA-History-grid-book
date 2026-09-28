@@ -57,7 +57,7 @@ PASS  rights-movements / research
 | 13 | verified era-9 stories: key facts in the bank (rosa-parks-mlk, bayard-rustin, judy-heumann, fannie-lou-hamer, barbara-johns) | done | PATCH 'era-9 story checks': Parks NAACP-secretary line replaced (NPS), Colvin age at Browder corrected + death, King bombing 30 Jan 1956 (EJI) and Nixon 1 Feb (King Institute), King's killer James Earl Ray + 1999 Jowers verdict vs DOJ 2000 (justice.gov), Rustin pacifism wording (NPS) and 'own state' error, Heumann superlative removed, Hamer additions, Johns unchanged |
 | 14 | final era 9: outline prose (em dashes, semicolons, self-references), progress flags, validator, research check, NEXT for era 10 | done | era 9: 0 em dashes, 0 semicolons, self-reference removed; all 10 eras progress=researched; validator 0 errors; PASS research (bank 82,295w+, outline ~39,000w, 26 stories v26); workspace rulings added | |
 
-## TO PARK (T-262d)
+## TO PARK (FILED by the director, 2026-09-27)
 Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
 - `crime-justice`, era 1950-2000: the trials of the killers (PATCHes "Viola Liuzzo", "Selma. Who shot Jimmie Lee Jackson and who killed James Reeb", "Medgar Evers's killer", "Neshoba County", "the Birmingham church bombing", "Fannie Lou Hamer's jailers"): state acquittals and hung juries by all-white juries, federal civil-rights convictions (Liuzzo Dec 1965, 10 years; Neshoba 20 Oct 1967, 7 of 18, 3 to 10 years), the cold-case convictions (Beckwith 1994, Blanton 2001, Cherry 2002, Killen 2005, Fowler plea 2010), DOJ Reeb close-file 20 May 2011, Hoover's 1968 closure of the Birmingham case. Also the Salazar killing (Deputy Thomas Wilson, DA Evelle Younger declined to charge; OAC finding aid) and Dan White's manslaughter verdict (EBSCO).
 - `education`, era 1950-2000: the East Los Angeles walkouts, 1-8 March 1968, about 15,000 students, seven schools, 60 percent dropout rate, Spanish bans, 13 organizers arrested 31 March, Sal Castro fired and reinstated (LOC Latinx Civil Rights guide). No outline in the book told them before this.
@@ -78,7 +78,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `slavery-freedom`, era 1850-1900: Frances Thompson's 1876 arrest (PATCH "Frances Thompson, 1866 and 1876"): 10 July 1876, Dr. Joseph Nuttall and three doctors, $50 fine, 100 days chain gang, died 1 Nov 1876 (MLK50 2024, CNN 2025). CNN gives TWO police officers among the seven men in 1866, not three as the parked note said.
 - `crime-justice` and `news-communication`, era 1850-1900: Wilmington coup, 10 Nov 1898 (PATCH "Wilmington"): Waddell, 500 to 2,000 men, Daily Record burned, 14 (coroner) to 60 (2006 state report) dead, no indictments (NCpedia, NC DNCR). No outline in the book tells it. rights-movements now tells it in era 7.

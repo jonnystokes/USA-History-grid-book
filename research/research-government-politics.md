@@ -2660,3 +2660,27 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 7,
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
 - `government-politics`, 1950-2000 and 2000-today: Nixon's 17 June 1971 remarks (UCSB transcript, $155M new, over $350M total, Jaffe); National Minimum Drinking Age Act 17 Jul 1984 (Lautenberg); EO 14370 (18 Dec 2025) and the 28 Apr 2026 Schedule III order for state-licensed medical marijuana, DEA hearing from 29 Jun 2026 (Federal Register). Banks eras 09-10.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `crime-justice` or `government-politics`, era 9: Waco 1993 (House Report 104-749; Danforth interim report 21 July 2000). Religion bank PATCH T-260c end of ERA 9.
+- `education` and `government-politics`, era 10: Mahmoud v. Taylor, 606 U.S. 522 (27 June 2025, 6-3), parents' religious opt-out from storybooks; named parents; Sotomayor dissent. And Texas Ten Commandments: Rabbi Nathan v. Alamo Heights ISD, 173 F.4th 576 (5th Cir. en banc, 21 Apr 2026, 9-8), cert petition 17 Aug 2026. Religion bank end of ERA 10.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **religion / government-politics / science, era 1900-1950: Hunter's *A Civic Biology* (1914), the Scopes textbook, printed a racial ranking and a eugenics passage** ("If such people were lower animals, we would probably kill them off..."), Gutenberg #39969. Education carries it in its testing span.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 9, under the T-262d PATCH named.
+- `government-politics`, era 1950-2000: the ERA as a constitutional amendment (Senate 22 March 1972, 84-8; House 1971; seven-year clause; five rescissions; Senate Historical Office, Brennan Center); Hernandez v. Texas, 3 May 1954 (Cornell); EO 10450, 27 April 1953 (archives.gov).
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `government-politics`, era 5 (1750-1800): the Sedition Act text (Avalon: $2,000 fine, two years, truth allowed as evidence, jury decides law and fact, expiry 3 March 1801) and the count dispute (MTSU McNamara: 17 indictments and 10 convictions traditional, plus Wendell Bird's 11 prosecutions of 16 people; NCC "more than two dozen" convicted). Also: named defendants Ann Greenleaf, Anthony Haswell, Thomas Adams, William Durrell, Luther Baldwin and Brown Clark (MTSU). Their bank PATCH T-258 has Lyon but not these.
+- `government-politics`, era 5: the Stamp Act of 1765 is told in no outline. Avalon text rates and Britannica repeal 1766 are in this bank, era 5.
+
+## Parked from `holidays` (2026-09-27, T-273)
+Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
+- `government-politics`, era 1750-1800: J. L. Bell, Boston 1775 (Nov 2015): Stamp Act crowds of Aug 1765 used Pope's Night rituals; Sheriff Stephen Greenleaf detained Ebenezer Mackintosh after the 26 Aug riot against Lt. Gov. Hutchinson, then released him; Mackintosh and Henry Swift's union of 5 Nov 1765 (John Boyle's diary).

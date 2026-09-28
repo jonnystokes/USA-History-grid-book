@@ -566,3 +566,8 @@ All sourced text is in `research/research-drugs-alcohol.md` under the era headin
 Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `immigration` and `government-politics`, era 1850-1900: Yick Wo numbers (200 refused, 80 granted but one, 150 arrested, Sheriff Peter Hopkins); Wong Kim Ark 6-2 (Fuller and Harlan dissenting, McKenna out); Geary Act refusal (100,000 residents, 13,000 registered, Six Companies $1 each, KQED 2026); Fong Yue Ting 15 May 1893, 5-3 (Cornell).
+
+## Parked from `news-communication` (2026-09-27, T-270)
+Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
+Full sourced text for each item is in `research/research-news-communication.md` under the era named.
+- `immigration`, era 4: Christopher Sauer's German-language paper from 20 August 1739, sixteen European newspapers a month (Leaman, Immigrant Entrepreneurship). Correction: the "nearly 10,000" figure is his almanac's, not the paper's.
