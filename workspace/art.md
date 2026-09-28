@@ -294,3 +294,26 @@ Handed out of this chapter, already written into the outline as cross-references
 **Cross-chapter parking log (T-267a):** nothing written into other chapters' files (burst rule). The parked items are listed in `control/checkpoints/T-267-art.md` under TO PARK for the director.
 
 **For T-267b (eras 06-10):** Moses Williams's silhouettes (from 1802), Joshua Johnson's Baltimore career (to 1824), the Peale mastodon (1801, `science` leads), Mercy Otis Warren's 1805 *History*, Eva Wolfe and Lottie Queen Stamper (Cherokee double weave, 20th century, WCU sources in the bank's era 01 and 04 sections), Fred Wilson's *Mining the Museum* (1992), NAGPRA and the 2024 rule, academies and who was shut out of them.
+
+
+## T-267b research pass, eras 06-07 (2026-09-28)
+
+**[VERIFY] queue, eras 06-07: cleared.** Every tag in 1800-1850 and 1850-1900 is gone from the outline. Each item was sourced into `research/research-art.md` (sections "Era 06", "Era 07", "Bank check, eras 06-07") or removed with a note there. Items for 1900-1950 onward stay open for T-267c.
+
+**Corrections made against the seed:**
+- *The Oxbow* (1836) shows the Connecticut River at Northampton, Massachusetts, not the Hudson. Britannica's "1846" is flagged as an error.
+- "Some painted the body in advance and added the face on arrival" is a debunked myth (Heritage Museums and Gardens): unfinished portraits show the face done first.
+- Douglass's 1849 text argues that white artists' drawings exaggerated Black faces. It says nothing about photographs. His photography lectures (from December 1861) came later.
+- Tanner's "why he did not stay" quotation has no primary source. His 1909 words about teachers and Pennell's account are used instead.
+- Hawthorne moved from 1800-1850 to 1850-1900 (*The Scarlet Letter*, 1850).
+- Quilts, weathervanes, painted furniture and scrimshaw: cut, no source opened.
+
+**Famous names, eras 06-07, present and sourced:** Thomas Cole and the Hudson River School, George Catlin, the daguerreotype and Robert Cornelius, Mathew Brady, Frederick Douglass, Audubon's *Birds of America*, Irving, Cooper, Emerson, Poe, Hawthorne, Melville, Whitman, Dickinson, Stowe, Twain, Winslow Homer, Thomas Eakins, Mary Cassatt, Henry Ossawa Tanner, Augustus Saint-Gaudens, Edmonia Lewis, Alexander Gardner, Timothy O'Sullivan, Carleton Watkins, William Henry Jackson, Thomas Moran, Jacob Riis.
+
+**Stories (eras 06-07):** verified: `thomas-cole`, `frederick-douglass-art` (movie *Becoming Frederick Douglass*, 2022), `winslow-homer`, `edmonia-lewis`, `henry-ossawa-tanner`, `mark-twain-art` (movie *Mark Twain*, 2001). New: `dave-drake` (ordinary, enslaved potter and poet), `joseph-whiting-stock` (ordinary, paraplegic travelling portrait painter: **the disability thread is now present**), `howling-wolf` (ordinary, Cheyenne, Sand Creek survivor and Fort Marion ledger artist).
+
+**New span material:** Catlin's named sitters (Four Bears, Osceola) and the gallery's sale; Mohican land at Catskill; enslaved and free Black artists (Moses Williams, Joshua Johnson, Robert Douglass Jr.); academies and women's access; Brady, Gardner and the Antietam show; the moved body at Devil's Den; Watkins, Jackson and Moran with the Ahwahneechee and Tukudika; Fort Marion with the ten named dead; Duncanson; the Shaw Memorial and the names left off; the Met's Sunday closing.
+
+**Cross-chapter parking log (T-267b):** written under "## Parked from `art` (2026-09-28, T-267b)" in `research/research-native-nations.md` (Fort Marion dead, Osceola's head, Four Bears robes), `research/research-slavery-freedom.md` (Audubon's slaveholding, Dave), `research/research-education.md` (Fort Marion dead, PAFA women's access, Edmonia Lewis at Oberlin).
+
+**For T-267c (eras 08-10):** perishable items in the bank check (MFA Boston's return of Drake works, 2025; the National Audubon Society's 2023 name vote; Fort Marion headstones); the Tanner "M. Tanner" quote stays unused unless a primary source turns up; the open questions above for 1900 onward (Savage, Lange, Martinez, NAGPRA, Maya Lin and the rest) are untouched.

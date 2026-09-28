@@ -3,11 +3,11 @@
 # Chapter 32: Art
 
 <!-- hb-note -->
-**Status:** eras 01-05 RESEARCHED 2026-09-28 (T-267a). Eras 06-10 still SEED, for T-267b.
+**Status:** eras 01-05 RESEARCHED 2026-09-28 (T-267a). Eras 06-07 RESEARCHED 2026-09-28 (T-267b). Eras 08-10 still SEED, for T-267c.
 **Angle:** The made objects and the people who made them — painting, sculpture, pottery and weaving, photography, and writing.
 **Keep out:** music of every kind (`music` — split off by Jon's ruling, 2026-09-06) · film, television, and theater, including Hollywood, the studio system, and Walt Disney (`storytelling-evolution`, being built in parallel — this chapter hands all of it over and keeps none of it) · fashion, hair, and home design (`styles`) · the camera and the printing press as machines (`technology`) · monuments and memorials as places (`landmarks`)
 **Workspace:** `workspace/art.md` (shared events, famous-names checklist, verify-queue, thin eras, open questions)
-**Research bank:** `research/research-art.md`, created 2026-09-28. Eras 01-05 sourced there, with a bank check. Stories in eras 01-05 are `verified` only where the bank sources them. Eras 06-10 are not yet sourced.
+**Research bank:** `research/research-art.md`, created 2026-09-28. Eras 01-07 sourced there, with bank checks. Stories in eras 01-07 are `verified` only where the bank sources them. Eras 08-10 are not yet sourced.
 **Reference material:** `_reference/retired-art-music-2026-09-06/art-music-outline.md` (the seed this was split out of, retired by the director) · `_reference/retired-art-music-2026-09-06/research-art-music.md` (covers both halves) · `_reference/book-outline-v1.md` §22 Art.
 Editor's in-development note — not part of the final book; the parser strips it.
 <!-- /hb-note -->
@@ -220,71 +220,185 @@ From 1750 to 1800, American painters made the portraits of the men who led the R
 <!-- hb-story:end slug="gilbert-stuart" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="art" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="art" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-American painters found a subject of their own: the land. Large landscape paintings of the Hudson valley, the Catskills, and the western mountains sold to city buyers who would never stand in those places. Photography arrived in 1839, and within about ten years a portrait was something an ordinary family could pay for.
+From 1800 to 1850, American painters began to paint the land itself, and city buyers paid for big pictures of the Hudson valley and the Catskill Mountains. In the same years, federal officials moved Native nations off their land, and the painter George Catlin travelled west to paint the people of about fifty nations. Enslaved artists worked too. An enslaved potter in South Carolina named Dave cut his name and his own verses into clay after the state made it a crime to teach enslaved people to read. Photography reached America in 1839, and by the early 1850s a small photograph cost as little as 25 cents.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="The Hudson River School" -->
-Thomas Cole painted *The Oxbow* in 1836 [VERIFY]; Asher B. Durand followed him. The paintings mostly show land with no people in it. In the same decades the nations who lived on that land were being removed by federal law, and the two facts belong in the same paragraph [VERIFY; `native-nations` leads on removal, `land-environment` on the parks argument these paintings later fed].
+<!-- hb-zoom level="span" label="The Hudson River School, and whose land it painted" -->
+- The Hudson River School was a group of American landscape painters who worked from about 1825 to 1870. Thomas Cole, Thomas Doughty and Asher B. Durand led it at first. Many of them painted the Catskill Mountains, west of the Hudson River in New York (Britannica).
+- In 1825 Cole put landscapes in a New York shop window. The painter John Trumbull and the engraver and painter Asher B. Durand bought them (Britannica).
+- Cole's landscape *View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm*, called *The Oxbow*, shows the Connecticut River valley. He painted it for an exhibition in New York in April 1836. He wrote to his patron that "fancy pictures seldom sell," so he chose a real view instead (Wikipedia, citing the Metropolitan Museum of Art, which owns it). One Britannica article dates it 1846. Cole's own letter places it in 1836.
+- Cole lived and worked in Catskill, New York, from 1826. That town is on the homeland of the Mohican, who call themselves the Muh-he-conneok, "the People of the Waters That Are Never Still." The site's marker states that they were forced from there. In Cole's lifetime, about 225 Stockbridge Mohicans and 100 Munsee people moved to Wisconsin by 1831, and in 1832 to 1834 federal officials made them move again, to Lake Winnebago. Their reservation is in northeast Wisconsin today (Thomas Cole National Historic Site, Milwaukee Public Museum).
+- President Andrew Jackson signed the Indian Removal Act on May 28, 1830. Under it, federal officials forced the nations east of the Mississippi River to give up their land and move west. `native-nations` leads on removal, `migration` on the journeys, `land-environment` on the parks these paintings later helped argue for.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Painters working farm to farm" -->
-Traveling painters made portraits for a fixed fee in country towns, and some painted the body in advance and added the face on arrival [VERIFY that practice]. Ammi Phillips and Edward Hicks are documented names [VERIFY dates]. Quilts, weathervanes, painted furniture, and scrimshaw carved by whalers at sea.
+<!-- hb-zoom level="span" label="George Catlin and the people he painted" -->
+- George Catlin (1796 to 1872) was a Pennsylvania lawyer who became a painter. From 1830 to 1836 he made five trips west from St. Louis. In 1832 he travelled more than 2,000 miles up the Missouri River. He visited 48 nations by one count and fifty by another (Smithsonian magazine, Smithsonian American Art Museum).
+- In 1832, at a Mandan village in what is now North Dakota, he painted Máh-to-tóh-pa, Four Bears, a Mandan leader. Four Bears was a painter too. He painted his own battles on buffalo robes. Catlin took one robe east in 1832, and a German prince, Maximilian of Wied, took another to Germany, where it is now in the Linden Museum in Stuttgart (Smithsonian American Art Museum, Wikipedia).
+- In June 1837 the American Fur Company's steamboat *St. Peters* brought smallpox to the Mandan villages. About 2,000 Mandan lived there that spring, and 138 were alive in October, by the count in the State Historical Society of North Dakota's history. Four Bears died on July 30, 1837. `health` leads on the epidemic.
+- In January 1838 Catlin painted the Seminole leader Osceola at Fort Moultrie, South Carolina. General Thomas Jesup had ordered Osceola seized under a white flag of truce in October 1837, and he was a prisoner there. He was very sick with malaria, and Catlin and two other painters, W. M. Laning and Robert John Curtis, asked him to sit anyway. Osceola died on January 30, 1838. The army doctor, Frederick Weedon, cut off his head before burial and kept it (Charleston Museum, Smithsonian magazine, Wikipedia). `war` and `native-nations` lead on the capture.
+- Catlin charged 50 cents to see his paintings, called his Indian Gallery, in New York in 1837. He asked Congress to buy the gallery, and members of Congress turned it down. From 1839 he showed it in London, Paris and Brussels. Groups of Ojibwe and Iowa people who were touring Europe with promoters, 21 Ojibwe and 14 Iowa, performed dances and hunts beside it. In 1845 smallpox struck the Ojibwe group, and two of them died (Smithsonian magazine, Smithsonian American Art Museum).
+- In 1852 Catlin was jailed in London for debt. Congress still would not buy the gallery, even when he cut his price from $65,000 to $25,000. The Pennsylvania railroad owner Joseph Harrison paid his debts and took the gallery for $20,000. Harrison's widow gave it to the Smithsonian in 1879 (Smithsonian magazine, Smithsonian American Art Museum).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Enslaved and free Black artists" -->
+- In the Edgefield District of South Carolina, white pottery owners used the unpaid work of enslaved men, women and children. At least 76 enslaved people worked at the district's 12 potteries (Smithsonian American Art Museum, Smithsonian magazine). One of them, Dave, signed his work. His story is below.
+- Moses Williams, born about 1777 in Charles Willson Peale's household, was freed around 1802. He cut paper silhouettes, which are profile portraits, at Peale's museum in Philadelphia, using a machine that traced the sitter's profile. Peale's own children were trained to paint. Williams was not (Davis Art).
+- Joshua Johnson, born enslaved in Maryland and freed in 1782, was listed as a portrait painter in Baltimore until 1824 (Maryland State Archives).
+- Robert Douglass Jr. (1809 to 1887), a Black painter from Philadelphia, trained at the Pennsylvania Academy of the Fine Arts under the painter Thomas Sully. The academy very seldom admitted Black students. In 1834 he painted the abolitionists William Lloyd Garrison and James Forten, and he later became Philadelphia's first Black photographer (Colored Conventions Project, Library Company of Philadelphia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Painters on the road" -->
+- Painters without formal training travelled from town to town and painted portraits for less money than trained painters charged (Heritage Museums and Gardens). A story told later says they painted bodies ahead of time and added the face when they arrived. Unfinished portraits that survive show the opposite: the face done and the body not started, so the painters began with the head.
+- Ammi Phillips (1788 to 1865), from Colebrook, Connecticut, painted portraits in Connecticut, Massachusetts and New York for about fifty years. His *Girl in Red Dress with Cat and Dog*, painted in Dutchess County, New York, in the mid-1830s, was bought for the American Folk Art Museum in 1985 for one million dollars (Wikipedia).
+- Joseph Whiting Stock of Springfield, Massachusetts, painted portraits from a wheelchair for more than twenty years. His story is below.
+- Edward Hicks (1780 to 1849), a Quaker minister and sign and coach painter in Pennsylvania, painted *The Peaceable Kingdom* 62 times. Many versions show William Penn meeting Lenape leaders in the background (Wikipedia).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Photography arrives, 1839" -->
-The daguerreotype was announced in France in 1839 and was being made in American studios within months [VERIFY]. Find what a portrait cost by the 1850s and how many studios were operating [VERIFY]. Frederick Douglass sat for photographs on purpose and often, and is described as the most photographed American of the 1800s [VERIFY the count and who counted].
+- In October or November 1839 Robert Cornelius of Philadelphia took a picture of himself. It is the oldest American portrait photograph that survives (Library of Congress). `technology` leads on the camera.
+- These first photographs were daguerreotypes, pictures made directly on a silver-coated copper plate. Each one was a single picture that could not be copied.
+- The first commercial portrait studio in America opened in New York in 1840. By 1850 the city had 71 daguerreotype studios, and by 1853 it had more than all of England. Mathew Brady opened his studio at 205 Broadway in 1844. In the early 1850s a very small daguerreotype cost 25 cents, a cheap studio portrait 50 cents, and a medium portrait at Brady's $2 (Bard Graduate Center, citing the *Daguerreian Journal*. University of Virginia *American Daguerreotypes*, citing the historian Beaumont Newhall).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Writers, and what the record also holds" -->
-Washington Irving, James Fenimore Cooper, Edgar Allan Poe, Nathaniel Hawthorne, Ralph Waldo Emerson; the *Narrative of the Life of Frederick Douglass*, 1845 [VERIFY sales]. John James Audubon's *The Birds of America* was issued in parts between 1827 and 1838 [VERIFY]. Audubon also bought and sold enslaved people and wrote against abolition; that is documented and goes in the same passage as the birds [VERIFY the record and cite it].
+<!-- hb-zoom level="span" label="Writers, and Audubon's birds" -->
+- Washington Irving's "Rip Van Winkle," 1819, is set in the Catskill Mountains. James Fenimore Cooper's *The Last of the Mohicans* came out in 1826, while the Mohican people were moving to Wisconsin. Ralph Waldo Emerson published *Nature* in 1836, and Edgar Allan Poe's "The Raven" was first printed in a New York newspaper on January 29, 1845 (Wikipedia, Britannica). Mercy Otis Warren's three-volume history of the Revolution came out in 1805 (National Women's History Museum).
+- Frederick Douglass published *Narrative of the Life of Frederick Douglass, an American Slave* in Boston in 1845. It sold 4,500 copies in four months by one count and 5,000 by another, and almost 30,000 by 1860 (University of North Carolina's Documenting the American South, Wikipedia).
+- John James Audubon's *The Birds of America*, printed in England from 1827 to 1838, has 435 life-size pictures of birds (`land-environment`, which tells his story). The historian Gregory Nobles records that the Audubons held nine enslaved people in Henderson, Kentucky, in the 1810s and sold them. In early 1819 Audubon took two enslaved men down the Mississippi to New Orleans and offered the boat and the men for sale. The family bought more enslaved people in the 1820s and sold them in 1830, when Audubon went to England to print the birds. In 1834 he wrote that Britain had acted "imprudently and too precipitously" in freeing the enslaved people of its Caribbean colonies (*Audubon* magazine, 2020). The names of the people he sold are not in that record.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="thomas-cole" name="Thomas Cole" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="Academies, and who could study in them" -->
+- Charles Willson Peale, the sculptor William Rush and others founded the Pennsylvania Academy of the Fine Arts in Philadelphia in 1805. Women were let in step by step. In 1844 the directors gave women artists the statue gallery on three mornings a week. In 1860 women could take the anatomy class. Drawing from a nude model opened to women only in 1868 (Wikipedia). Black students were very seldom admitted (Colored Conventions Project).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="thomas-cole" name="Thomas Cole" movie="" kind="famous" status="verified" -->
 ### Thomas Cole
-> **Who:** Landscape painter; the Hudson River School formed around his work. · **When and where:** England to Ohio to the Catskills, 1818 to 1848 [VERIFY].
-<!-- hb-story:end slug="thomas-cole" -->
-<!-- hb-story:start slug="frederick-douglass-art" name="Frederick Douglass" movie="" kind="famous" status="candidate" -->
-### Frederick Douglass
-> **Who:** Writer and speaker who used photography deliberately. · **When and where:** Maryland, Massachusetts, Rochester, 1838 to 1895 [VERIFY].
+> **Who:** Landscape painter. The Hudson River School grew up around his work. · **When and where:** born February 1, 1801, in Lancashire, England. Came to America in 1818. Lived in Catskill, New York, from 1826. Died there on February 11, 1848.
 
-This chapter's slice is the writing and the photographs, and his argument that a photograph could not lie about what a Black American looked like the way a drawing could [VERIFY the lecture and its date]. `slavery-freedom` leads on his escape and his life; `news-communication` leads on his newspaper. Do not repeat either.
+- His family settled first in Philadelphia and then in Steubenville, Ohio. A travelling portrait painter named Stein taught him, and he studied for two years at the Pennsylvania Academy of the Fine Arts (Britannica).
+- He walked through the Northeast making pencil sketches, then painted the pictures in his studio in winter (Britannica).
+- *The Oxbow* (1836) hangs in the Metropolitan Museum of Art in New York. His five-painting series *The Course of Empire* was finished the same year.
+- His house and studio in Catskill are the Thomas Cole National Historic Site. The site states that it stands on the homeland of the Mohican.
+<!-- hb-story:end slug="thomas-cole" -->
+<!-- hb-story:start slug="dave-drake" name="Dave (David Drake)" movie="" kind="ordinary" status="verified" -->
+### Dave (David Drake)
+> **Who:** Enslaved potter and poet, who cut his name and his own verses into stoneware jars. · **When and where:** born about 1800 in South Carolina. Worked in the Edgefield District potteries from about 1818. Legally freed by the Emancipation Proclamation of 1863. Listed in the 1870 census as "David Drake, Turner." Died in the 1870s.
+
+- The first record of him, from June 13, 1818, describes "a boy about 17 years old country born" whom his enslaver Harvey Drake mortgaged, pledging him against a loan (Wikipedia). At least four men held him in his life: Harvey Drake, the Reverend John Landrum, Franklin Landrum, and from 1849 Lewis Miles, who owned the Stony Bluff pottery (Charleston Museum).
+- In 1834 South Carolina's lawmakers made it a crime to teach an enslaved person to read or write. That same year Dave cut words into his jars. A jar of 1834 reads "put every bit all between / surely this jar will hold 14" (Britannica). No one knows for sure how he learned to read. One possibility is the newspaper that his enslaver's partner, Abner Landrum, printed (Smithsonian American Art Museum).
+- On July 31, 1840, he wrote on a jar: "Dave belongs to Mr. Miles / wher the oven bakes and the pot biles" (Charleston Museum).
+- He built jars by turning the base on a wheel and adding thick coils of clay by hand. Two of his jars in the Charleston Museum each hold more than 40 gallons.
+- His family was sold away from him, and one of his legs was amputated, which means cut off. The records do not say how he lost the leg (Smithsonian magazine, Wikipedia).
+- On August 16, 1857, he wrote: "I wonder where is all my relation / Friendship to all, and every nation" (Smithsonian American Art Museum).
+- A 2006 survey counted 169 vessels made by or credited to him. More than a hundred, dated 1849 to 1864, are signed "Dave." He is the only enslaved potter in Edgefield known to have signed his own work, and he sometimes added the names of other enslaved potters, Mark, Abram and Baddler (Smithsonian magazine, Smithsonian American Art Museum).
+- After emancipation he took the name David Drake.
+<!-- hb-story:end slug="dave-drake" -->
+<!-- hb-story:start slug="joseph-whiting-stock" name="Joseph Whiting Stock" movie="" kind="ordinary" status="verified" -->
+### Joseph Whiting Stock
+> **Who:** Travelling portrait painter who could not walk, and who kept a journal of every picture he made. · **When and where:** born in Springfield, Massachusetts, on January 30, 1815. Painted in Massachusetts, Rhode Island, Connecticut and New York, 1832 to 1855. Died in Springfield in 1855, aged forty.
+
+- When he was eleven, an oxcart turned over and fell on him. It left him paralyzed from the waist down, and he could not leave his bed for eight years (Springfield Museums).
+- A doctor told him to study art to fill his time. He started lessons at seventeen and painted his sister Eliza. "I ... made so good a likeness as to induce my friends to encourage me by their patronage," he wrote in his journal (Springfield Museums).
+- In 1834 a Springfield doctor, James Swan, hired him to make anatomy drawings and built him a wheelchair. With it Stock could be lifted onto trains and travel to paint (Wikipedia, Springfield Museums).
+- His first painting trip was a month in Wilbraham, Massachusetts, in 1836. He lived with local families while he worked, and sometimes paid for his room and board with paintings (Springfield Museums).
+- His journal records more than 900 paintings and what he was paid for them. About a hundred are known today. He died of tuberculosis (Springfield Museums, Terra Foundation for American Art).
+<!-- hb-story:end slug="joseph-whiting-stock" -->
+<!-- hb-story:start slug="frederick-douglass-art" name="Frederick Douglass" movie="Becoming Frederick Douglass (2022)" kind="famous" status="verified" -->
+### Frederick Douglass
+> **Who:** Writer and speaker who escaped slavery and used his own book and his own photographs to show who he was. · **When and where:** escaped slavery in Maryland in 1838. Massachusetts, then Rochester, New York, then Washington. Photographed from soon after his escape until his death in 1895.
+
+- He published his *Narrative* in 1845.
+- In 1849 he wrote that "negroes can never have impartial portraits at the hands of white artists," because "it seems to us next to impossible for white men to take likenesses of black men, without most grossly exaggerating their distinctive features" (*The Liberator*, April 20, 1849).
+- He sat for photographs again and again. The historians John Stauffer, Zoe Trodd and Celeste-Marie Bernier counted 160 separate photographs of him, more than of any other American of the 1800s. They count 126 of Abraham Lincoln (National Park Service, Hyperallergic).
+- He said that "the great cheapness and universality of pictures must exert a powerful, though silent, influence" on how people think (quoted by the National Park Service).
+- `slavery-freedom` leads on his escape and his life, `news-communication` on his newspaper. Documentary: *Becoming Frederick Douglass* (PBS, 2022), about him.
 <!-- hb-story:end slug="frederick-douglass-art" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="art" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="art" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-Painting, sculpture, and photography all became careers a person could train for and live on. The Civil War was photographed while it happened, and magazines carried pictures into towns that had no museum.
+From 1850 to 1900, photographers showed Americans the bodies of dead soldiers and the land of the far West, and big new museums opened in the cities. Several Black and Native artists of these years worked far from home. The sculptor Edmonia Lewis said she was "practically driven to Rome" by prejudice, and the painter Henry Ossawa Tanner made his career in Paris. Plains men held as prisoners at an army fort in Florida drew their lives in account books. Cheap books reached almost every town: *Uncle Tom's Cabin* sold 300,000 copies in the United States in its first year.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Painting after the war" -->
-Winslow Homer covered the war for a magazine and then painted the sea and country life for forty years [VERIFY]. Thomas Eakins taught in Philadelphia and was dismissed from the Pennsylvania Academy in 1886 over a nude model in a class that included women [VERIFY the year and the account]. Mary Cassatt worked in Paris and showed with the Impressionists [VERIFY]. Henry Ossawa Tanner left for Paris in 1891 and afterward said why he did not stay in America [VERIFY the quotation and its source, and print what he actually said].
+<!-- hb-zoom level="span" label="Photographs of the Civil War dead" -->
+- Alexander Gardner, a Scottish photographer, ran Mathew Brady's Washington studio from 1858. In September 1862 he photographed the dead at the Battle of Antietam in Maryland, with his assistant James F. Gibson (Wikipedia). About 22,700 soldiers were killed, wounded or missing there (American Battlefield Trust). `war` leads on the battle.
+- In October 1862 Brady showed the pictures at his New York gallery under the sign "The Dead of Antietam." *The New York Times* wrote that crowds climbed the stairs to see them, and that if Brady "has not brought bodies and laid them in our door-yards and along the streets, he has done something very like it" (October 20, 1862). The newspaper gave Brady the credit.
+- Brady labelled his employees' work "Photographed by Brady." Gardner left him about November 1862 and opened his own studio in May 1863, hiring many of Brady's former staff. In 1866 his *Photographic Sketch Book of the Civil War* named each photographer, among them Timothy O'Sullivan and James F. Gibson (Wikipedia).
+- On July 6, 1863, after the Battle of Gettysburg, Gardner's team photographed a dead Confederate soldier among the rocks of Devil's Den. Gardner titled it *Home of a Rebel Sharpshooter*. In 1975 the historian William A. Frassanito showed that the same body appears in six photographs, and that the photographers had carried it to a stone wall and laid a rifle beside it. In 1998 the artist James Groves argued that the body was carried the other way, out of the wall's niche. Both agree that the photographers moved the body. The soldier's name is not known (Wikipedia, citing Frassanito and *Civil War Times*).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Sculpture" -->
-Augustus Saint-Gaudens's memorial to Robert Gould Shaw and the 54th Massachusetts was unveiled in Boston in 1897 after about fourteen years of work [VERIFY]. Edmonia Lewis, Mississauga Ojibwe and African American, worked in marble in Rome; her *The Death of Cleopatra*, shown in 1876, was lost for roughly a century and is now in the Smithsonian [VERIFY the dates and where it was found].
+<!-- hb-zoom level="span" label="Pictures of the West, and whose land they showed" -->
+- In July 1861 Carleton Watkins carried a camera that took glass plates 18 by 22 inches into Yosemite Valley in California. His photographs were shown in New York in 1862, and they helped persuade Congress to protect the valley. President Abraham Lincoln signed the Yosemite Grant on June 30, 1864 (Wikipedia, National Archives).
+- The valley was the home of the Ahwahneechee. In 1851 about 200 armed volunteers of the Mariposa Battalion, under Major James D. Savage, invaded it on the orders of California's governor, John McDougal. By 1910, the National Park Service counts, more than 90 percent of the Ahwahneechee were dead or missing. `land-environment` leads.
+- The photographer William Henry Jackson and the painter Thomas Moran went to Yellowstone with a government survey in 1871. Congress made Yellowstone a national park in 1872 and paid Moran $10,000 for his painting *The Grand Canyon of the Yellowstone* (Wikipedia). The Tukudika, a band of Mountain Shoshone, had lived there for thousands of years, and federal officials forced them onto reservations (National Park Service).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="Photography as evidence" -->
-Mathew Brady's name is on the Civil War photographs; most were taken by the men he employed, and several left him over the credit [VERIFY the names and the dispute]. Timothy O'Sullivan photographed the dead at Gettysburg; whether a body was moved for one of those pictures is documented and argued over, so state the argument rather than settling it [VERIFY]. Carleton Watkins and William Henry Jackson photographed the West for surveys and railroads [VERIFY; `land-environment` leads on the parks argument]. Jacob Riis published *How the Other Half Lives* in 1890 [VERIFY; `city-building` leads].
+<!-- hb-zoom level="span" label="Fort Marion: drawings by Plains prisoners" -->
+- After the Red River War of 1874 and 1875 on the southern Plains, army officers picked out 72 Cheyenne, Arapaho, Kiowa, Comanche and Caddo people, 71 men and one woman, and charged them with war crimes or with being "ringleaders." General Philip Sheridan ordered them sent "to an eastern fort to be held without trial for an undefined time." They went in leg irons to Fort Marion at St. Augustine, Florida, a 26-day trip. They were held there from 1875 to 1878 under Lieutenant Richard Henry Pratt (*Cowboys and Indians*, 2017. Wikipedia).
+- Pratt gave them pencils, crayons, ink, watercolors and paper. Twenty-six of the young Cheyenne, Arapaho and Kiowa men made drawings, many in lined account books called ledgers, and Pratt sold their drawings to visitors. Plains men had painted their deeds on buffalo hides. When the buffalo were almost gone, they drew on paper instead (Wikipedia, Massachusetts Historical Society). More than a thousand of the Fort Marion drawings survive in collections (*Cowboys and Indians*).
+- The artists include Making Medicine and Howling Wolf (Cheyenne), Zotom, Wohaw, Etahdleuh Doanmoe and Koba (Kiowa), and White Bear (Arapaho). In 1877 Making Medicine wrote for the young prisoners: "We have lived in this old place two years. It is old and we are young. We want Washington to give us our wives and children, our fathers and mothers."
+- Ten prisoners died at Fort Marion, by the count of the historian Amy Larner Giroux. Two group graves in the St. Augustine National Cemetery, each holding six men, had stones marked only "Six Unknown Indians." In 2023 Giroux published the ten names she found in army records: Grey Beard, Lean Bear, Big Moccasin, Starving Wolf, Spotted Elk and Heap of Birds (Cheyenne), Co-a-bo-te-ta or Sun, Mah-mante and Ih-pa-yah (Kiowa), and Nad-a-with-t (Comanche) (University of Central Florida). After release, Bear's Heart, Koba and Buffalo Meat later died of tuberculosis, a lung disease (Massachusetts Historical Society). `education` leads on Pratt and the Carlisle school he founded next.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Painters after the war" -->
+- Winslow Homer drew the war from the front for *Harper's Weekly*. From 1883 he lived at Prouts Neck, Maine, and painted the sea (Britannica).
+- Mary Cassatt, from Pennsylvania, settled in Paris in 1874. At the painter Edgar Degas's request she showed her work with the Impressionists in 1879, 1880, 1881 and 1886. Britannica calls her the only American to exhibit with them (Britannica).
+- Thomas Eakins taught at the Pennsylvania Academy of the Fine Arts from 1876 and ran its school from 1882. In 1886 the academy's directors forced him to resign after he removed the cloth covering a male model's body during a class that women students attended (Wikipedia).
+- Robert S. Duncanson (about 1821 to 1872), a free Black painter in Cincinnati, painted eight landscapes about nine feet tall on the walls of Nicholas Longworth's house around 1850 or 1851. The house is now the Taft Museum of Art. During the Civil War he left the United States and worked in Canada and Britain (Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The Shaw Memorial" -->
+- In August 1882 a Boston committee hired the sculptor Augustus Saint-Gaudens to make a memorial to Colonel Robert Gould Shaw and the 54th Massachusetts, one of the first Black regiments of the Civil War. He worked on it for 14 years. For the soldiers' faces he hired Black men he met on the street near his studio and made about 40 study heads. The Park Service found no sign that he used photographs of the real soldiers or met them (National Park Service).
+- Shaw's sister, Josephine Lowell, asked for the names of all the regiment's men killed at Fort Wagner and afterward to be carved on the base. The committee put only the white officers' names on it. The Black soldiers' names were added in the early 1980s (National Park Service).
+- The memorial was unveiled on Boston Common on May 31, 1897. Sixty-five veterans of the 54th led the parade (National Park Service). `landmarks` leads on the memorial as a place.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Museums, and who could get in" -->
+- New York's lawmakers chartered the Metropolitan Museum of Art on April 13, 1870, and it opened on February 20, 1872. Its trustees kept it closed on Sundays, the one day most working New Yorkers had free. City officials pushed them to open, and the first Sunday opening came on May 31, 1891 (EBSCO, the Met's own history).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="Writers and cheap books" -->
-Harriet Beecher Stowe's *Uncle Tom's Cabin*, 1852, and what it sold in its first year [VERIFY the figure and the source]. Mark Twain, Herman Melville, Walt Whitman. Emily Dickinson wrote roughly 1,800 poems and published almost none while she lived; the rest were found after she died in 1886 [VERIFY both numbers]. Dime novels sold by the hundred thousand [VERIFY].
+- Harriet Beecher Stowe's *Uncle Tom's Cabin* ran in parts in an antislavery newspaper, *The National Era*, from 1851 and came out as a book in 1852. It sold 10,000 copies in the United States in its first week and 300,000 in its first year (Harriet Beecher Stowe Center). `storytelling-evolution` leads on the stage versions.
+- Nathaniel Hawthorne's *The Scarlet Letter* came out in 1850, Herman Melville's *Moby-Dick* in 1851, and Walt Whitman paid to print the first *Leaves of Grass*, twelve poems, in 1855 (Wikipedia).
+- Emily Dickinson of Amherst, Massachusetts, wrote nearly 1,800 poems, and only 10 were published while she lived. After she died on May 15, 1886, her sister Lavinia found the poems. The first selection was printed in 1890 (Wikipedia).
+- In 1860 the Beadle brothers began selling paperback novels for ten cents. The first, Ann S. Stephens's *Malaeska*, sold more than 65,000 copies in a few months (Wikipedia).
+- Jacob Riis used flash powder to photograph the inside of New York tenements for *How the Other Half Lives*, 1890 (Wikipedia). `city-building` leads.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="winslow-homer" name="Winslow Homer" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="howling-wolf" name="Howling Wolf" movie="" kind="ordinary" status="verified" -->
+### Howling Wolf
+> **Who:** Southern Cheyenne man who survived the Sand Creek Massacre as a teenager and became a ledger artist while a prisoner at Fort Marion. · **When and where:** born about 1849. Colorado, Indian Territory, and St. Augustine, Florida, 1875 to 1878. Died in Oklahoma on July 5, 1927.
+
+- His Cheyenne name was Ho-na-nist-to. He belonged to Black Kettle's band.
+- On November 29, 1864, Colonel John Chivington and the First Colorado Volunteers attacked Black Kettle's camp at Sand Creek, Colorado. Howling Wolf was 15. He and his father, Eagle Head, were in the camp. Counts of the Cheyenne and Arapaho people killed range from about 70 to about 230, most of them women, children and old people (Wikipedia, and Britannica through `native-nations`). `native-nations` and `war` lead on Sand Creek.
+- In 1875 army officers sent him to Fort Marion with the other prisoners. He was made a sergeant of the prisoners' guard company. He drew his people's life and wars, and his drawings include Sand Creek (Wikipedia, Massachusetts Historical Society).
+- After his release in 1878 he wanted to stay in the East for school, but his eyesight was failing, and treatment in Boston did not help. He went home to Indian Territory. He spoke against the Dawes Act of 1887, the law that broke up reservations into small plots (Massachusetts Historical Society).
+- In 1927, driving home from a dance performance, his car was hit, and he died of his injuries (*Cowboys and Indians*).
+<!-- hb-story:end slug="howling-wolf" -->
+<!-- hb-story:start slug="winslow-homer" name="Winslow Homer" movie="" kind="famous" status="verified" -->
 ### Winslow Homer
-> **Who:** Painter and war illustrator. · **When and where:** Boston, New York, Virginia during the war, then Maine [VERIFY dates].
+> **Who:** Painter and war illustrator. · **When and where:** born in Boston on February 24, 1836. Drew the Civil War for *Harper's Weekly*. England from 1881. Prouts Neck, Maine, from 1883. Died there on September 29, 1910.
+
+- He started as an apprentice at a lithography firm, which printed pictures from drawings made on stone, then drew for magazines (Britannica).
+- At the front he drew ordinary camp life, the waiting and the chores, more than battles (Britannica).
+- He began painting in watercolor in 1873. After 1883 he painted men against the sea, in pictures such as *The Life Line* and *Fog Warning* (Britannica).
 <!-- hb-story:end slug="winslow-homer" -->
-<!-- hb-story:start slug="edmonia-lewis" name="Edmonia Lewis" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="edmonia-lewis" name="Edmonia Lewis" movie="" kind="famous" status="verified" -->
 ### Edmonia Lewis
-> **Who:** Sculptor, Mississauga Ojibwe and African American, working in marble in Rome. · **When and where:** New York state, Oberlin College, Boston, Rome, London [VERIFY dates; sources give different birth years — state the range].
+> **Who:** Sculptor, Mississauga Ojibwe and African American, who worked in marble in Rome. · **When and where:** born about July 4, 1844, near Albany, New York. She gave 1842, 1844 and 1854 on different papers. Oberlin, Ohio, from 1859. Boston. Rome from 1865 or 1866. Died in London on September 17, 1907.
 
-Research targets: what was done to her at Oberlin in 1862 and the trial that followed, told plainly and not glossed; how she paid for Rome; the century *The Death of Cleopatra* spent lost and where it turned up.
+- Her Ojibwe name was Wildfire. Her mother was Mississauga Ojibwe and African American. As a girl she sold Ojibwe baskets and beadwork to tourists at Niagara Falls with her aunts (Wikipedia, Oberlin College Libraries).
+- In the winter of 1862, at Oberlin, two white students she roomed with, Maria Miles and Christina Ennes, fell sick after she gave them spiced wine. Doctors said they had been poisoned with cantharides, a poison made from beetles. Both recovered.
+- One night, walking home alone, Lewis was dragged into a field, beaten and left for dead. The men who did it were never identified. Officials then arrested her. She could not walk, so her trial waited. Her lawyer, John Mercer Langston, the first Black lawyer in Ohio, got the case dismissed: no one had tested the young women's stomachs, so there was no proof of poison (Wikipedia, Oberlin College Libraries).
+- A year later she was accused of stealing art supplies. That case was dismissed too, but she was not allowed to register for her last term. Oberlin gave her a degree in 2022.
+- In Boston she made a bust of Robert Gould Shaw. She sold 100 plaster copies at $15 each, and the money took her to Rome. In 1878 she told *The New York Times*: "I was practically driven to Rome in order to obtain the opportunities for art culture, and to find a social atmosphere where I was not constantly reminded of my color. The land of liberty had no room for a colored sculptor."
+- Her marble *The Death of Cleopatra* was shown at the Centennial Exhibition in Philadelphia in 1876. A gambler later bought it from a Chicago saloon to mark the grave of a racehorse named Cleopatra, and it stood there for almost a century. It turned up in a salvage yard in the 1980s. The Historical Society of Forest Park, Illinois, gave it to the Smithsonian American Art Museum in 1994.
 <!-- hb-story:end slug="edmonia-lewis" -->
-<!-- hb-story:start slug="henry-ossawa-tanner" name="Henry Ossawa Tanner" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="henry-ossawa-tanner" name="Henry Ossawa Tanner" movie="" kind="famous" status="verified" -->
 ### Henry Ossawa Tanner
-> **Who:** Painter; studied under Eakins, then worked in France. · **When and where:** Pittsburgh, Philadelphia, Paris, from 1891 [VERIFY].
-<!-- hb-story:end slug="henry-ossawa-tanner" -->
-<!-- hb-story:start slug="mark-twain-art" name="Mark Twain" movie="" kind="famous" status="candidate" -->
-### Mark Twain
-> **Who:** Writer, born Samuel Clemens. · **When and where:** Missouri, the river, Nevada, Connecticut, 1835 to 1910 [VERIFY].
+> **Who:** Painter who studied under Thomas Eakins and made his career in France. · **When and where:** born in Pittsburgh on June 21, 1859. Philadelphia. Paris from 1891. Died in Paris on May 25, 1937.
 
-This chapter takes the books and how they were sold door to door. `transportation` already carries him as a river pilot under the slug `mark-twain-transportation`; do not repeat that material.
+- His father, Benjamin Tucker Tanner, was a bishop of the African Methodist Episcopal Church (Wikipedia).
+- In 1909 he wrote about looking for a painting teacher as a boy: "The question was not, would the desired teacher have a boy who knew nothing and had little money, but would he have me, or would he keep me after he found out who I was" ("The Story of an Artist's Life," *The World's Work*).
+- He studied at the Pennsylvania Academy of the Fine Arts on and off from 1879 to 1885. A fellow student, Joseph Pennell, later wrote that one night other students carried Tanner's easel into the middle of Broad Street and tied him to it, and left him there. Pennell did not name them (Will South, *Nineteenth-Century Art Worldwide*, 2009).
+- In 1891 he went to Paris to study, paid for by patrons in Atlanta who bought every painting in a show of his work. He came home sick with typhoid fever in 1893 and painted *The Banjo Lesson* in Philadelphia, then went back to Paris.
+- The French government bought his *The Resurrection of Lazarus* after it won a medal at the Paris Salon in 1897 (Wikipedia).
+<!-- hb-story:end slug="henry-ossawa-tanner" -->
+<!-- hb-story:start slug="mark-twain-art" name="Mark Twain" movie="Mark Twain (2001)" kind="famous" status="verified" -->
+### Mark Twain
+> **Who:** Writer, born Samuel Langhorne Clemens. · **When and where:** born November 30, 1835, in Florida, Missouri. Missouri, the Mississippi River, Nevada, and Connecticut. Died in Redding, Connecticut, on April 21, 1910.
+
+- His first big book, *The Innocents Abroad*, came out on July 20, 1869. It was a subscription book: salesmen went from door to door taking orders before the copies were delivered. It sold more than 70,000 copies in its first year, and it sold better than any of his other books while he lived (University of Virginia, *Mark Twain in His Times*).
+- *The Adventures of Tom Sawyer* came out in 1876. *Adventures of Huckleberry Finn* came out in the United States on February 18, 1885.
+- In 1885 the library committee in Concord, Massachusetts, removed *Huckleberry Finn* from the town library. One member called it "the veriest trash" (*Boston Transcript*, quoted in Wikipedia).
+- `transportation` tells his years as a river pilot (slug `mark-twain-transportation`). Documentary: *Mark Twain* (Ken Burns, PBS, 2001).
 <!-- hb-story:end slug="mark-twain-art" -->
 <!-- hb-time:end id="1850-1900" -->
 

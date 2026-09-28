@@ -3113,6 +3113,8 @@ all validate 0; the 7 written chapters still PASS prose. One art item to AUDIT-Q
 WRITTEN 7 = 32 of 37. Left: art 6-10, music 6-10, storytelling-evolution, sports-play, styles. ONE AT A TIME.
 
 ### 2026-09-27 | [LOCAL] T-267b | art: full research eras 6-7 | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-267-art.md
 VERIFY: python tools/project_state.py --check art --stage research
+RESULT: LANDED. FAIL  art / research. measured: stage=PARTIAL eras=10/10 stories=33 (v19 c13 t1) verify_tags=53 bank=21274w outline=11356w manuscript=0w validator_errors=0
+        449516 tokens, 189 tool uses, 24.7 min (opus). Eras 6-7 + bank check. 6 candidates verified (Cole, Douglass, Homer, Edmonia Lewis, Tanner, Twain); new stories Dave Drake (enslavers named, inscriptions), Joseph Whiting Stock (disability thread), Howling Wolf (Sand Creek survivor, Fort Marion). Catlin (Four Bears, Osceola; sold 1852), Mohican land at Catskill, Fort Marion (Sheridan's order; ten dead named), Antietam show, moved Gettysburg body, Met Sundays 1891. 4 seed corrections. 6 searched-not-found. Parked to native-nations, slavery-freedom, education. Chapter FAIL until eras 8-10.

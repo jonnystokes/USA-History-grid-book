@@ -3698,3 +3698,7 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 9,
 ## Parked from `art` (2026-09-27, T-267)
 Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
 - `education`, era 03: Loara Standish sampler, Pilgrim Hall; needlework taught mother to daughter.
+
+## Parked from `art` (2026-09-28, T-267b)
+
+- Era 07: ten Fort Marion prisoners died in Pratt's custody, 1875-1878, and were buried under "Six Unknown Indians" stones in St. Augustine; named in 2023 (UCF News, Jan 26, 2023). Twenty-six of the prisoners drew for Pratt, and he sold the drawings. Names and sources: `research-art.md`, era 07 and bank check. Also: Pennsylvania Academy of the Fine Arts opened classes to women step by step, 1844, 1860, 1868 (life class) (Wikipedia "Pennsylvania Academy of the Fine Arts"); Edmonia Lewis at Oberlin, 1862-63, beaten by unidentified men, charged and cleared, barred from her last term, degree awarded 2022 (`research-art.md`, era 07).
