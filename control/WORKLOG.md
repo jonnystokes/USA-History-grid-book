@@ -3132,3 +3132,8 @@ CHECKPOINT: control/checkpoints/T-267-art.md
 VERIFY: python tools/project_state.py --check art --stage research
 RESULT: DONE. PASS  art / research. measured: stage=RESEARCHED eras=10/10 stories=34 (v34 c0 t0) verify_tags=0 bank=38467w outline=19199w manuscript=0w validator_errors=0
         339100 tokens, 141 tool uses, 17.4 min (opus). Era 10, chapter COMPLETE. Stories: Kehinde Wiley, Amy Sherald, Jeffrey Gibson (Venice 2024), Kelly McKernan. NAGPRA 2024 rule and NPS counts (29 May 2026), MFA Boston returned Dave Drake's jars Oct 2025, Rumors of War, Unmanned Drone, MONUMENTS, BLM Plaza removed Mar 2025, Beeple, AI suits to Sep 2026, 2025-26 federal arts cuts, Smithsonian orders. 4 searched-not-found. Parked to music and native-nations. OPEN FOR JON: allegations against Wiley (kept out of the outline, flagged in the bank).
+
+### 2026-09-27 | [LOCAL] T-268b | music: full research eras 6-7 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-268-music.md
+VERIFY: python tools/project_state.py --check music --stage research
