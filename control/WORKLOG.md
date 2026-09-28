@@ -2949,3 +2949,8 @@ drugs-alcohol), SEED 7. Nothing in flight. Queue in control/TODO.md.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-264-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage research
+
+### 2026-09-27 | [LOCAL] T-266c | drugs-alcohol: full research eras 9-10, completes the chapter [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
