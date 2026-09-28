@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-262d rights-movements (bank check era 9 [BURST5])
+NOW-RUNNING: T-270a news-communication (full research eras 1-5 [BURST5])
 **BURST OF 5 (Jon):** T-260c religion 9-10, T-261c education 8, T-262d rights 9, T-270a news-communication 1-5,
 T-273a holidays 1-5. Then back to one at a time. 30 of 37 chapters pass research (23 researched + 7 written).
 Still to do in step 1:
