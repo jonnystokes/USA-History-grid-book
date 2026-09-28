@@ -3156,9 +3156,11 @@ RESULT: LANDED. FAIL  storytelling-evolution / research. measured: stage=PARTIAL
         381744 tokens, 197 tool uses, 22.6 min (opus). Eras 1-5 researched + bank check. 7 stories verified incl. Farfan's 1598 play (Manso people pressed into the cast), the Accomack Ye Bare and Ye Cubb court orders (court-watched claim dropped), Anthony Aston (new), Levingston and the indentured Staggs. Acoma range 300-1,500; kiva raids and mask burnings named to Posada, 1675 hangings to Trevino. 4 unsourced claims left out, 10 searched-not-found. Chapter FAIL until eras 6-10 (16 targets, 46 VERIFY). TO PARK 6. Agent briefly wrote to harness-issues.md outside its file list and repaired it.
 
 ### 2026-09-27 | [LOCAL] T-271a | sports-play: full research eras 1-5 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
+RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10 stories=15 (v2 c6 t7) verify_tags=60 bank=11030w outline=7167w manuscript=0w validator_errors=0
+        450316 tokens, 246 tool uses, 28.6 min (opus). Eras 1-5 researched + bank check. Chunkey at Cahokia, stickball and lacrosse, dice games, clay toys; Timucua ball game, 1598 horseback games; game laws and fines, tobacco-stakes racing, Florida's 1676 ban on the Apalachee ball game; race meetings, cricket, cockfighting, gander pulling, 1744 Base-Ball rhyme; Fithian's journal, Valley Forge games, Pittsfield 1791. Stories: James Bullocke (1674), Austin Curtis (enslaved jockey, freed 1791). 3 unsupported claims removed, 9 searched-not-found. Chapter FAIL until eras 6-10 (60 VERIFY). TO PARK: music, crime-justice.
 
 ### 2026-09-27 | [LOCAL] T-272a | styles: full research eras 1-5 [BURST] | model opus
 STATUS: LANDED

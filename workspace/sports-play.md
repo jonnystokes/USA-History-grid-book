@@ -48,7 +48,7 @@ Registry angle now reads: *How Americans and their children entertained themselv
 | Childhood obesity and physical activity | cited only as a measure of how children spend time | `health` (**lead**) |
 
 ## Famous names check (must appear — completeness first)
-- [ ] lacrosse/stickball
+- [x] lacrosse/stickball (eras 01, 05: Choctaw stickball, Haudenosaunee lacrosse, Huron 1636, Grand River 1797)
 - [ ] the Knickerbocker rules
 - [ ] the first pro baseball team
 - [ ] the invention of basketball
@@ -89,8 +89,8 @@ Sport (from the original seed):
 - [ ] legal sports betting after 2018 — 2000–Today
 
 Play and entertainment (added 2026-09-06):
-- [ ] Native games and toys: name the nations, the games, and the museum objects — check NMAI and Stewart Culin, *Games of the North American Indians* (1907) — Before 1500
-- [ ] toys and gaming pieces from colonial archaeology: name the sites and the finds — 1600s, 1700–1750
+- [x] Native games and toys (T-271a): Culin 1907 read in full text; chunkey (Pauketat), stickball (Choctaw Nation), Sinagua clay toys (Kamp 2001). Dated pre-1500 dolls/tops: SEARCHED, NOT FOUND — Before 1500
+- [x] toys from colonial archaeology (T-271a): Jamestown stoneware marble, mid-1600s; Mount Vernon House for Families marble (1760s-1792). Nothing dated 1700-1750 found — 1600s, 1700–1750
 - [ ] first American toy makers and dates — 1800–1850
 - [ ] the Boston sand gardens, 1885, the playground movement, and how many playgrounds by 1900 — 1850–1900
 - [ ] Coney Island and amusement-park dates and prices — 1850–1900
@@ -169,3 +169,24 @@ need research to state plainly and are queued here so they are not lost:
   instead of fighting" is contested and often overstated; tag and check it.
 - **GAP:** the workspace claims this chapter LEADS on "Jackie Robinson — what it took"
   and "Ali's refusal — the cost", but the outline seeds nothing behind either phrase.
+
+
+## T-271a (2026-09-28): eras 1-5 researched
+
+- All five early cells are `progress="researched"`, with zero [VERIFY] tags, zero em dashes and zero semicolons.
+  The 1750-1800 cell is now `state="full"`: the Fithian journal, Mount Vernon's racing history and the Valley
+  Forge and Pittsfield records gave it enough documented material. The 1500s stays `thin`.
+- **Stories:** `haudenosaunee-lacrosse-player` (target) removed from Before 1500: no named person can exist there,
+  and a modern team breaks the chronology. T-271b may place an Iroquois Nationals story in era 9 or 10.
+  `colonist-fined-for-playing` (target) replaced by `james-bullocke` (verified, 1674). New `austin-curtis`
+  (verified, 1770s-1809), an enslaved jockey freed in 1791.
+- **Seed claims removed as unsupported:** see the bank's "Bank check, eras 01-05".
+- **Cross-chapter parking:** listed under TO PARK in `control/checkpoints/T-271-sports-play.md` (music: Hanover
+  fiddle contest 1736 and Fithian's banjo and fiddle evenings; crime-justice: Plymouth card fines). Burst rule: no
+  other chapter's files were edited.
+- **Shared with (eras 1-5):** `holidays` (Bradford 1621 stool-ball, Christmas bans, Pinkster, Easter holidays) ·
+  `native-nations` (stickball and lacrosse as diplomacy; Apalachee missions) · `crime-justice` (Dale's laws, Plymouth
+  court) · `slavery-freedom` (the 1680 Virginia act; enslaved people's Sundays) · `music` (fiddle contests, banjo).
+- **Open for the director:** (a) Fithian's journal is a strong ordinary-person source for era 5; a writer may
+  want a story block on Fithian himself, which this pass did not build. (b) The Noxubee account is a settler's
+  record of an oral account (Cushman 1899 via Halbert via Stonie Hadjo); the prose must say so.
