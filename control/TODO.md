@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-261d education (bank check era 9)
 **ONE AT A TIME (resumed 2026-09-28).** 30 of 37 chapters pass research.
 Still to do in step 1:
 - **education** era 9 (T-261d), era 10 (T-261e). **rights-movements** era 10 DONE (T-262e). Both chapters pass.

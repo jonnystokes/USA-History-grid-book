@@ -3051,6 +3051,8 @@ NOTE (Jon): PAUSE after T-262e finishes. No new dispatches until Jon says.
 ### 2026-09-28 | [LOCAL] RESUMED after the usage reset (Jon: "Please continue"). One at a time.
 
 ### 2026-09-27 | [LOCAL] T-261d | education: bank check era 9 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-261-education.md
 VERIFY: python tools/project_state.py --check education --stage research
+RESULT: DONE. PASS  education / research. measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=75157w outline=31077w manuscript=0w validator_errors=0
+        253287 tokens, 87 tool uses, 12.3 min (opus). Era 9 bank check: 9 PATCHes. Prince Edward (Wall, Crawford, Fitzpatrick; Almond's 1958 closings), Little Rock's closed year, New Orleans 1960 (Davis, Perez), Ole Miss 1962 (Guihard, Gunter; 75-300+ injured) as a new span, South Boston High (Phyllis Ellison), Hernandez v. Driscoll 1957, boarding schools after 1950 (Ronald and Willie B. Yazzie, 1968), ICWA 1978, paddling counts 1976-2000. 2 firsts removed. 2 searched-not-found. Pointers parked in rights-movements.

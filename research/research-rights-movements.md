@@ -3675,3 +3675,9 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `rights-movements`, era 5: Mary Katharine Goddard removed as Baltimore postmaster in 1789; Burrell's "more travelling might be necessary than a woman could undertake"; 200-plus petitioners (Smithsonian, Trickey 2018; USPS Pub 100).
+
+## Parked from `education` (2026-09-28, T-261d)
+Full sourced text is in `research/research-education.md`, era 9 (1950-2000), under the T-261d PATCH named.
+- era 9, "the University of Mississippi, 1962, and the two men killed": Meredith's admission, Governor Ross Barnett, the riot of 30 September to 1 October 1962, Paul Guihard (AFP, shot in the back) and Ray Gunter (23, Oxford) killed, injured counts from 75 to more than 300 by source, 108 arrests (UPI 1 Oct 1962; BlackPast; MDAH Mississippi History Now 2023; Chapter 16). Education tells it as a school being desegregated; the campaign is yours.
+- era 9, "Boston, 1974, inside South Boston High": Michael Faith stabbed 11 Dec 1974, crowd at the gates, decoy buses (Time, 23 Dec 1974); Phyllis Ellison's first-person account (PBS American Experience, "Being Bused").
+- era 9, "Virginia, the named men who closed the schools": J. Barrye Wall, Robert Crawford, the Defenders of State Sovereignty and Individual Liberties, Supervisor John Bruce, Mayor W. C. Fitzpatrick (Southern Exposure 1979); Governor Almond's 1958 closings, nearly 13,000 locked out (Encyclopedia Virginia).
