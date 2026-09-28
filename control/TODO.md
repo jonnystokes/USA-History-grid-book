@@ -11,7 +11,6 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-262e rights-movements (bank check era 10, last agent on the chapter)
 **Burst of 5 done. ONE AT A TIME.** 30 of 37 chapters pass research.
 Still to do in step 1:
 - **education** era 9 (T-261d), era 10 (T-261e). **rights-movements** era 10 (T-262e). Both chapters pass already.

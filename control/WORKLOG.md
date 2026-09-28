@@ -3041,7 +3041,9 @@ banks + research-storytelling-evolution.md created to hold one item; one afterwo
 All validate 0; the 7 written chapters still PASS prose. Back to ONE AT A TIME.
 
 ### 2026-09-27 | [LOCAL] T-262e | rights-movements: bank check era 10, last agent on the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
+RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=88107w outline=41091w manuscript=0w validator_errors=0
+        319973 tokens, 119 tool uses, 15.8 min (opus). Era 10 bank check; rights-movements checks COMPLETE. Standing Rock (Dalrymple, Kirchmeier; 2023 and Jun 2026 rulings; permit back 2026; Greenpeace verdict cut to $345M), DACA (~455,000 Mar 2026), Minneapolis killings Jan 2026 (agents named, no charges), Women's March, Dobbs and state laws to Aug 2026, ERA, Stonewall monument, 2025-26 transgender actions and rulings, John Lewis bill, Louisiana 2026 map, DOJ dropping police suits 2025, 23 Sep 2026 integration-rule ruling. 3 new spans. Parked to native-nations and immigration.
 NOTE (Jon): PAUSE after T-262e finishes. No new dispatches until Jon says.

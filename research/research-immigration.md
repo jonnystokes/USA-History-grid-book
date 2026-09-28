@@ -571,3 +571,6 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 7,
 Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `immigration`, era 4: Christopher Sauer's German-language paper from 20 August 1739, sixteen European newspapers a month (Leaman, Immigrant Entrepreneurship). Correction: the "nearly 10,000" figure is his almanac's, not the paper's.
+
+## Parked from `rights-movements` (2026-09-27, T-262e)
+- Era 10 (2000-today): DACA and the Dreamers are now told in the rights-movements outline, era 10, span "the Dreamers" (Trail of Dreams 2010, DREAM Act Senate vote 18 Dec 2010 55-41, DACA 15 Jun 2012, Regents 18 Jun 2020, Fifth Circuit 17 Jan 2025, about 455,000 holders on 31 Mar 2026, per the National Immigration Forum from USCIS data). Also the Minneapolis killings of Renée Good and Alex Pretti with the agents named by the Star Tribune and ProPublica (as reported by Minnesota Reformer, 13 Jul 2026) and the status to 19 Sep 2026 (no charges). Full sourced text: `research/research-rights-movements.md`, era 10, PATCH "immigrant rights, the Dreamers and DACA". The immigration outline does not mention DACA; a pointer would serve it.

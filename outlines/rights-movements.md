@@ -1265,45 +1265,49 @@ She died in Philadelphia on 25 September 1991, of bone cancer, aged fifty-six.
 <!-- hb-time:start id="2000-today" order="10" chapter="rights-movements" label="2000 to Today" state="full" progress="researched" -->
 ## 2000 to Today
 <!-- hb-zoom level="era" -->
-In these years American rights campaigns won things no earlier movement had won, and courts and legislatures took back rights that earlier movements had already won. Both are in this section. Several of these fights were still going on when this section was checked, on 9 September 2026, and it says so wherever that is true.
+In these years American rights campaigns won things no earlier movement had won, and courts and legislatures took back rights that earlier movements had already won. Several of these fights were still going on in September 2026.
 
 Same-sex couples got the right to marry in every state in 2015. Twelve years before that, in some states, two people of the same sex could still be arrested for what they did at home. In 2022 Congress passed the first federal law against lynching, after about two hundred earlier bills had failed over 122 years.
 
 In the same years the Supreme Court cut back the Voting Rights Act of 1965 twice, in 2013 and again in 2026, so that the states and counties once watched most closely no longer need federal permission to change a voting rule and a person suing over a map has to prove that officials meant to discriminate. The Court ruled in 2025 that a state may stop doctors giving certain treatments to transgender children, and in 2026 that a state may keep girls' school sports teams for the students it counts as female by biology.
 
-The tools changed too. A seventeen-year-old with a phone recorded a Minneapolis police officer kneeling on George Floyd's neck in 2020, and that recording is what the rest of the country saw. Two words posted on Twitter in October 2017 turned into 19 million uses of a hashtag inside a year. None of that replaced the older work of meetings, lawsuits and marches, which fills most of this section.
+The tools changed too. A seventeen-year-old with a phone recorded a Minneapolis police officer kneeling on George Floyd's neck in 2020, and that recording is what the rest of the country saw. Two words posted on Twitter in October 2017 turned into 19 million uses of a hashtag inside a year. Organizers still did most of their work in meetings, lawsuits and marches.
 
-The oldest fight in this chapter did not close. American schools are still counted for how separate they are, and in 2021 about one American public school in five had a student body that was at least 90 percent non-white. Disabled people are still kept in institutions when they could live outside them, and the Justice Department is still writing to governors about it.
+Some older fights did not close. American schools are still counted for how separate they are, and in 2021 about one American public school in five had a student body that was at least 90 percent non-white. States still keep disabled people in institutions when they could live outside them. In 2026 the Justice Department asked a federal judge to strike the federal rule against it, and the judge did.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the right to vote, taken off the list" -->
 In 1965 Congress made certain states and counties get permission from the federal government before they changed any rule about voting. A place went on the list if it had used a test to decide who could vote and fewer than half of its voting-age residents had registered or voted. The rule was applied to the figures for November 1964, and applied again to the figures for November 1972. Nine states were on it in full: Alabama, Georgia, Louisiana, Mississippi, South Carolina and Virginia from 1964, and Alaska, Arizona and Texas from 1972. Named counties in California, Florida, New York, North Carolina and South Dakota were on it too, and so were two townships in Michigan.
 
 On 25 June 2013 the Supreme Court took the list away. The case was *Shelby County v. Holder*, and the justices split five to four. Chief Justice John Roberts wrote the majority opinion. He struck down Section 4(b), the part of the law that said which places were on the list, and gave this reason: "the Act imposes current burdens and must be justified by current needs." He also wrote that the Court issued "no holding on §5 itself, only on the coverage formula," and that "Congress may draft another formula based on current conditions." Justice Ruth Bader Ginsburg wrote the dissent, and Justices Breyer, Sotomayor and Kagan signed it.
 
-The Justice Department explains the result on its own website. The places that had been on the list "no longer need to seek preclearance for the new voting changes." Preclearance is the permission. Congress has not written a new list. That was still true when this page was checked on 9 September 2026.
+The Justice Department explains the result on its own website. The places that had been on the list "no longer need to seek preclearance for the new voting changes." Preclearance is the permission. Congress has not written a new list. That was still true in September 2026.
 
 The second cut came thirteen years later. The other main part of the Voting Rights Act is Section 2, which lets people go to court over a voting rule that leaves a racial group with less chance to elect anyone. Congress rewrote Section 2 in 1982 so that a person suing did not have to prove that officials meant to do it. Proving what is in someone's head is very hard, and Congress said the result was what mattered.
 
 On 29 April 2026, in *Louisiana v. Callais*, the Supreme Court put the proof of intent back. Justice Samuel Alito wrote for a majority of six. From now on, Section 2 "imposes liability only when the evidence supports a strong inference that the State intentionally drew its districts to afford minority voters less opportunity because of their race." The Congressional Research Service, which explains new law for members of Congress, put it this way on 14 May 2026: a person suing "now must show that a state drew a redistricting map based on racial, and not political, considerations and present evidence of current-day, intentional voting discrimination that is based on race."
 
-Justice Elena Kagan dissented, with Justices Sonia Sotomayor and Ketanji Brown Jackson. She explained the problem with an imaginary map. Picture a round county in the middle of a state. The county is 90 out of every 100 Black; the rest of the state is 90 out of every 100 white; and people of each race mostly vote for different parties. On its own the county elects the representative its people want. Then the legislature cuts the circle "into six pie pieces" and gives one piece to each of six surrounding white districts. Nobody has stopped anyone voting. But now, Kagan wrote, "election after election, Black citizens' votes are, by every practical measure, wasted." The name for it, she says, is cracking.
+Justice Elena Kagan dissented, with Justices Sonia Sotomayor and Ketanji Brown Jackson. She explained the problem with an imaginary map. Picture a round county in the middle of a state. In the county, 90 out of every 100 people are Black. In the rest of the state, 90 out of every 100 people are white. People of each race mostly vote for different parties. On its own the county elects the representative its people want. Then the legislature cuts the circle "into six pie pieces" and gives one piece to each of six surrounding white districts. Nobody has stopped anyone voting. But now, Kagan wrote, "election after election, Black citizens' votes are, by every practical measure, wasted." The name for it, she says, is cracking.
 
 Five weeks later, on 2 June 2026, the Court let Alabama keep using a congressional map with one majority-Black district, over a lower court that had twice ordered otherwise.
 
-This is not finished. As of 9 September 2026, when this page was checked, Congress had written no new list of covered places and no new rule for Section 2.
+Louisiana's legislature drew a new map in May 2026. It dropped one of the state's two majority-Black districts. About a third of Louisiana's people are Black, and the new map gives them a majority in one district out of six. State Representative Beau Beaullieu, the Republican who led the map-drawing in the Louisiana House, said, "We focused on the Democrat numbers, not the racial numbers when drawing." To use the new map, Louisiana put off its primary elections and threw out about 40,000 votes that people had already cast.
+
+Congress tried once to write a new list. The John R. Lewis Voting Rights Advancement Act, named for the civil rights leader John Lewis, would have done it. On 19 January 2022 the Senate voted 49 to 51 on ending debate over the bill that carried it. Sixty votes were needed, so the bill died.
+
+As of September 2026, Congress had written no new list of covered places and no new rule for Section 2.
 
 `government-politics` covers these rulings as law, and covers voter ID, redistricting and who may vote.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the schools, counted" -->
 Since 1954 it has been against the law for school officials to send children to different schools because of their race. Schools that are all or nearly all one race are still common, and the federal government counts them.
 
-The Government Accountability Office audits the government for Congress. In a report issued on 16 June 2022 it found that in the school year 2020-21, more than a third of American public school students — about 18.5 million children — "attended schools where 75 percent or more students were of a single race or ethnicity." Fourteen percent of students were at a school where the figure was 90 percent or more.
+The Government Accountability Office audits the government for Congress. In a report issued on 16 June 2022 it found that in the school year 2020-21, more than a third of American public school students, about 18.5 million children, "attended schools where 75 percent or more students were of a single race or ethnicity." Fourteen percent of students were at a school where the figure was 90 percent or more.
 
-A research centre at UCLA called the Civil Rights Project counts a longer stretch, using the federal government's own school data. Its report of April 2024 gives the share of American public schools that were 90 to 100 percent non-white as 7.4 percent in 1988 and 19.8 percent in 2021 — about one school in five. In those schools in 2021, 78 out of every 100 children were poor.
+A research centre at UCLA called the Civil Rights Project counts a longer stretch, using the federal government's own school data. Its report of April 2024 gives the share of American public schools that were 90 to 100 percent non-white as 7.4 percent in 1988 and 19.8 percent in 2021. That is about one school in five. In those schools in 2021, 78 out of every 100 children were poor.
 
 The same report follows the South on a different measure. The share of Black students in the South who attended a majority-white school reached a peak of about 43 percent in the mid-1980s and was about 16 percent in 2021.
 
-Neither count reaches back to 1970, so this book does not say how the schools now compare with the schools then. The federal report covers school years 2014-15 onward. The UCLA count of 90-to-100-percent-non-white schools starts in 1988.
+Neither count reaches back to 1970, so neither one shows how the schools now compare with the schools then. The federal report covers school years 2014-15 onward. The UCLA count of 90-to-100-percent-non-white schools starts in 1988.
 
 `education` covers what all of this does inside classrooms.
 <!-- /hb-zoom -->
@@ -1320,6 +1324,8 @@ Two years later, on 26 June 2015, the Court ruled five to four in *Obergefell v.
 
 Congress acted seven years after that. On 13 December 2022 the Respect for Marriage Act became law. It does not make any state hand out marriage licences. It says that no state official may refuse to honour a marriage performed in another state because of the couple's sex, race, ethnicity or national origin. Twelve Republican senators voted for it, and thirty-nine Republican members of the House. Congress opened the law by copying a sentence out of Kennedy's *Obergefell* opinion: "No union is more profound than marriage, for it embodies the highest ideals of love, fidelity, devotion, sacrifice, and family."
 
+Kim Davis was a county clerk in Kentucky. After the 2015 ruling she refused to give a marriage licence to a gay couple, David Ermold and David Moore, and she was jailed for six days. A jury later ordered her to pay the couple damages. In 2025 she asked the Supreme Court to overturn *Obergefell*. On 10 November 2025 the Court refused to hear her case.
+
 `government-politics` covers these rulings and this statute as law. `home-family` covers who counts as a family.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="jim-obergefell" name="Jim Obergefell" movie="" kind="famous" status="verified" -->
@@ -1332,14 +1338,14 @@ The Supreme Court set out his facts in its own opinion, and this is what it said
 
 ALS destroys the nerve cells that carry orders from the brain to the muscles. The muscles stop getting the message, waste away and stop working. It takes the hands and legs first, then swallowing, then breathing. The Court called it "progressive, with no known cure."
 
-Ohio would not let them marry and Maryland would, so they went to Maryland. Arthur could not sit up or walk, so they hired a small plane fitted out to carry a patient, flew to Baltimore, and were married inside it on the tarmac. In the Court's words, "the couple were wed inside a medical transport plane as it remained on the tarmac in Baltimore. Three months later, Arthur died."
+Ohio would not let them marry and Maryland would, so they went to Maryland. In the Court's words, "It was difficult for Arthur to move." So they flew to Baltimore in a plane fitted out to carry a patient and were married inside it on the tarmac. In the Court's words, "the couple were wed inside a medical transport plane as it remained on the tarmac in Baltimore. Three months later, Arthur died."
 
 Then Ohio told Obergefell he could not be named as the surviving spouse on the death certificate. He sued. His case was joined with cases from Michigan, Kentucky and Tennessee, and the Supreme Court decided them together on 26 June 2015.
 
 The last line of the ruling is short. "They ask for equal dignity in the eyes of the law. The Constitution grants them that right."
 <!-- hb-story:end slug="jim-obergefell" -->
 <!-- hb-zoom level="span" label="Ferguson, and what the investigators found" -->
-Black Lives Matter began as a hashtag. Three Black organizers, Alicia Garza, Patrisse Cullors and Opal Tometi, made it in 2013 after a Florida jury acquitted George Zimmerman of killing Trayvon Martin. A University of Michigan library guide, quoting the movement's own account, describes it as a Black-centred project for building a movement.
+Black Lives Matter began as a hashtag. Three Black organizers, Alicia Garza, Patrisse Cullors and Opal Tometi, made it in 2013 after a Florida jury acquitted George Zimmerman of killing Trayvon Martin. Martin was a 17-year-old Black teenager walking back from a convenience store in Sanford, Florida, on 26 February 2012. He was unarmed. Zimmerman, a neighbourhood-watch volunteer, shot him. The jury found Zimmerman not guilty on 13 July 2013. A University of Michigan library guide, quoting the movement's own account, describes it as a Black-centred project for building a movement.
 
 It became a street movement in Ferguson, Missouri. A Ferguson police officer shot Michael Brown on 9 August 2014. People protested outside the police station for months. On 4 September 2014 the Civil Rights Division of the Justice Department opened an investigation into the whole police department, and its report came out on 4 March 2015.
 
@@ -1349,7 +1355,7 @@ Some of what they found was about money. The city wanted more revenue from ticke
 
 The department's own data showed who was being stopped. Black people were 67 percent of Ferguson's population. Between 2012 and 2014 they were 85 percent of the drivers police stopped, 90 percent of the people ticketed and 93 percent of the people arrested. They were searched more than twice as often as white drivers and were found carrying something illegal 26 percent less often. Nearly nine-tenths of the force officers used was used against Black people. In every dog-bite case where the report noted a race, the person bitten was Black.
 
-The investigators also looked at how officers treated the protests, and that is the part this chapter carries. One officer arrested a father whose family was filming him, then pulled the mother over and arrested her too. He said "no more mercy, since she wanted to videotape," and "nobody videotapes me." He took the phone out of their daughter's hands. When the parents got out on bond, the video had been deleted. In November 2014 a federal judge ordered Ferguson officers to stop interfering with people who lawfully and peacefully record the police. On 9 February 2015, six months to the day after Michael Brown was shot, officers arrested a man who was filming other arrests while, in the report's words, he "was neither interfering nor resisting." They also arrested a protester in a wheelchair who was live streaming.
+The investigators also looked at how officers treated protesters and people who filmed them. One officer arrested a father whose family was filming him, then pulled the mother over and arrested her too. He said "no more mercy, since she wanted to videotape," and "nobody videotapes me." He took the phone out of their daughter's hands. When the parents got out on bond, the video had been deleted. In November 2014 a federal judge ordered Ferguson officers to stop interfering with people who lawfully and peacefully record the police. On 9 February 2015, six months to the day after Michael Brown was shot, officers arrested a man who was filming other arrests while, in the report's words, he "was neither interfering nor resisting." They also arrested a protester in a wheelchair who was live streaming.
 
 `crime-justice` covers the policing itself.
 <!-- /hb-zoom -->
@@ -1360,11 +1366,15 @@ The officers took Floyd out of a squad car and put him face down on the street. 
 
 Chauvin admitted that Floyd stopped resisting and that he kept kneeling on him anyway. He admitted that he knew he had no legal reason to keep going, "because he was aware that Mr. Floyd not only stopped resisting, but also stopped talking, stopped moving, stopped breathing, and lost consciousness and a pulse." He admitted that he "heard Mr. Floyd repeatedly explain that he could not breathe, was in pain, and wanted help." He admitted that bystanders asked him to check for a pulse and to get off, and that another officer checked twice and said twice that he could not find one.
 
-A seventeen-year-old named Darnella Frazier was walking her nine-year-old cousin to a shop. She stopped and recorded the whole thing on her phone. In 2021 the Pulitzer Prize Board gave her a special citation "for courageously recording the murder of George Floyd, a video that spurred protests against police brutality around the world, highlighting the crucial role of citizens in journalists' quest for truth and justice." That wording is from news reports of the announcement; the Pulitzer website itself would not open.
+A seventeen-year-old named Darnella Frazier was walking her nine-year-old cousin to a shop. She stopped and recorded the whole thing on her phone. In 2021 the Pulitzer Prize Board gave her a special citation "for courageously recording the murder of George Floyd, a video that spurred protests against police brutality around the world, highlighting the crucial role of citizens in journalists' quest for truth and justice." The wording comes from news reports of the announcement.
 
 Protests followed in towns and cities all summer. The Pew Research Center, an organization that runs surveys, asked 9,654 American adults between 4 and 10 June 2020 about it. Six in every hundred said they had been to a rally or protest about race in the past month. Two-thirds said they supported the Black Lives Matter movement.
 
+The House of Representatives passed the George Floyd Justice in Policing Act on 3 March 2021, by 220 votes to 212. The Senate never voted on it. The Justice Department under President Biden sued the cities of Minneapolis and Louisville to make them change how their police worked. On 21 May 2025 Harmeet Dhillon, the new head of the department's Civil Rights Division, dropped both lawsuits. She called them "factually unjustified."
+
 Chauvin pleaded guilty in federal court on 15 December 2021. In the same document he admitted something from four years earlier: on 4 September 2017 he answered a call from a mother who said her fourteen-year-old son had hit her, and he held the boy by the throat, hit him in the head with a flashlight hard enough to cut him near the ear, and then knelt on the boy's neck, shoulders and upper back "for between fifteen and sixteen minutes" while the boy lay handcuffed, face down and not resisting, and "at times, cried from pain." Chauvin admitted that he left all of that out of the report he wrote that night.
+
+`crime-justice` covers the trials of the four officers and their sentences.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="the anti-lynching law, 122 years late" -->
 On 29 March 2022 the Emmett Till Antilynching Act became law. It was the first federal law against lynching in American history. Lynching is a killing carried out by a mob instead of by a court.
@@ -1373,14 +1383,14 @@ Congress had been failing to pass one since either 1900 or 1918, and its own 202
 
 The law is named for Emmett Till, who was, in the report's words, "a 14-year-old African American youth from Chicago who was lynched in 1955 while visiting an uncle in Mississippi." It makes conspiring to commit a hate crime that kills or seriously injures someone punishable by up to thirty years in prison. The House passed it on 28 February 2022 and the Senate on 7 March 2022.
 
-Ida B. Wells is in era 7 of this chapter, counting the killings and printing the numbers in the 1890s. The Dyer bill is in era 8, passing the House and dying in the Senate.
+Ida B. Wells counted lynchings and printed the numbers in the 1890s. The Dyer bill passed the House in 1922 and died in the Senate.
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="two words on the internet, eleven years apart" -->
 On 15 October 2017 an actress named Alyssa Milano asked people who had been sexually harassed or assaulted to reply to her with the words "me too," so that everyone could see how many there were. The Pew Research Center, which counts things like this, went through public English-language posts on Twitter afterwards. It found the hashtag used more than 19 million times between that day and 30 September 2018, an average of 55,319 times a day.
 
 The two words were not new. A youth worker in Selma, Alabama named Tarana Burke had been using them with girls and young women for about a decade, in person, in rooms with no cameras in them. Her story is below.
 
-Read that number carefully. Pew counted posts on one website in one language, not people, and nobody has an exact count of people. It is still the largest count anyone had ever put on this.
+Read that number carefully. Pew counted posts on one website in one language, not people, and nobody has an exact count of people.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="tarana-burke" name="Tarana Burke" movie="" kind="famous" status="verified" -->
 ### Tarana Burke
@@ -1388,18 +1398,18 @@ Read that number carefully. Pew counted posts on one website in one language, no
 
 Tarana Burke was born on 12 September 1973 in the Bronx, in New York City. She joined a group called the 21st Century Youth Leadership Movement when she was fourteen. She went to Alabama State University and then Auburn University, and afterwards she moved to Selma, Alabama, and kept working for the same group there.
 
-Burke is a survivor of sexual abuse herself. The National Women's History Museum traces the start of her work to 1996, when a girl at a youth camp told her about being abused, and says that years later she began using the phrase "me too" to give survivors what she called empowerment through empathy — the idea that hearing someone else say it first is what lets you say it at all.
+Burke is a survivor of sexual abuse herself. The National Women's History Museum traces the start of her work to 1996, when a girl at a youth camp told her about being abused, and says that years later she began using the phrase "me too" to give survivors what she called empowerment through empathy. That is the idea that hearing someone else say it first is what lets you say it at all.
 
-She built an organization for Black girls and called it Just Be. **The year she founded it is not settled, and this book does not pick one.** Her own website says 2005. The National Women's History Museum says 2007. Colorado State University says that in 2006 she made a "Me Too" page on MySpace, which was a social network people used before Facebook and Twitter.
+She built an organization for Black girls and called it Just Be. Sources disagree about the year she founded it. Her own website says 2005. The National Women's History Museum says 2007. Colorado State University says that in 2006 she made a "Me Too" page on MySpace, which was a social network people used before Facebook and Twitter.
 
-Then, on 15 October 2017, the words went everywhere without her. Alyssa Milano posted them during the reporting about the film producer Harvey Weinstein, and millions of people replied. Milano credited Burke, and Burke became the movement's public leader. *Time* magazine put her among "the Silence Breakers" and named that group its Person of the Year for 2017.
+Then, on 15 October 2017, the words went everywhere without her. Alyssa Milano posted them during the reporting about the film producer Harvey Weinstein, and millions of people replied. Burke became a leader of the movement around the world. *Time* magazine put her among "the Silence Breakers" and named that group its Person of the Year for 2017.
 
 In 2018 she started an organization called "me too." International.
 <!-- hb-story:end slug="tarana-burke" -->
 <!-- hb-zoom level="span" label="disability: taken away by courts, put back by Congress" -->
-The Americans with Disabilities Act of 1990 is in the last section of this chapter. This section is about what happened to it afterwards.
+Congress passed the Americans with Disabilities Act in 1990. The fights after that were about who it covered and where disabled people could live.
 
-Courts narrowed it first, by narrowing who counted as disabled. In 1999 twin sisters who wanted to fly for United Air Lines sued because the airline turned them down over their eyesight. Without glasses they could see 20/200 or worse. With glasses they could see 20/20. United required 20/100 without glasses. The Supreme Court ruled on 22 June 1999 that whether someone counts as disabled must be judged with their glasses on. So the airline could turn them down because of their eyes, and they could not sue about it, because with their glasses on they were not disabled. A second ruling in 2002 narrowed the definition again, Congress wrote that after those two rulings lower courts had "incorrectly found in individual cases that people with a range of substantially limiting impairments are not people with disabilities."
+Courts narrowed it first, by narrowing who counted as disabled. In 1999 twin sisters who wanted to fly for United Air Lines sued because the airline turned them down over their eyesight. Without glasses they could see 20/200 or worse. With glasses they could see 20/20. United required 20/100 without glasses. The Supreme Court ruled on 22 June 1999 that whether someone counts as disabled must be judged with their glasses on. So the airline could turn them down because of their eyes, and they could not sue about it, because with their glasses on they were not disabled. A second ruling in 2002 narrowed the definition again. Congress wrote that after those two rulings lower courts had "incorrectly found in individual cases that people with a range of substantially limiting impairments are not people with disabilities."
 
 On 25 September 2008 President George W. Bush signed a law that put the definition back. Its title says what it is for: "To restore the intent and protections of the Americans with Disabilities Act of 1990." Congress named the two rulings in the text of the law and said they had "narrowed the broad scope of protection intended to be afforded by the ADA, thus eliminating protection for many individuals whom Congress intended to protect." The new law says an illness that comes and goes still counts, and that the question is decided without regard to medication, prosthetic limbs, hearing aids and cochlear implants, mobility devices or oxygen equipment. Ordinary glasses and contact lenses are the one thing the law leaves off that list.
 
@@ -1407,21 +1417,23 @@ The other fight is about where disabled people live. On 22 June 1999, in a case 
 
 That ruling did not end it. On 3 March 2022 the Justice Department wrote to the governor of Colorado to say the state was breaking the law by "unnecessarily" keeping people with physical disabilities in nursing homes. More than 15,000 people in Colorado were in one of the state's 200-plus nursing facilities in a given year, and, the letter says, "some individuals have remained in nursing facilities for many years with no movement toward discharge."
 
-The Census Bureau reported on 22 July 2026 that 45.8 million Americans, or 13.7 percent, had a disability in 2024. Read the small print on that figure. It counts the "civilian noninstitutionalized population" — everyone except the people living in institutions. The government's main count of disabled Americans leaves out the people this part of the fight is about.
+Four years later the federal government changed sides. In 2024 seventeen states, led by Texas, sued to overturn the federal health department's rules under Section 504, the 1973 law that bans disability discrimination by anyone who takes federal money. By 2026 five states were left in the case, and they were asking a judge to strike the rule that says disabled people should get services in "the most integrated setting," meaning at home or in their own community when that is possible. On 18 June 2026 the Justice Department's Office of Legal Counsel wrote that federal law does not require it. The Justice Department then joined the five states in asking the judge to strike the rule. On 23 September 2026 the judge struck it, for the whole country. The 1999 Supreme Court ruling and the law Congress passed still stand.
+
+The Census Bureau reported on 22 July 2026 that 45.8 million Americans, or 13.7 percent, had a disability in 2024. Read the small print on that figure. It counts the "civilian noninstitutionalized population." That means everyone except the people living in institutions. The government's main count of disabled Americans leaves out the people this part of the fight is about.
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="alice-wong" name="Alice Wong" movie="" kind="ordinary" status="verified" -->
 ### Alice Wong
 > **Who:** Collected and published disabled people's own accounts of their lives, and served on the federal council that advises the President on disability · **When and where:** San Francisco, California, 2002 to 2025
 
-Alice Wong was born in 1974. She used a power wheelchair and she had a tracheostomy. That means a hole cut through the front of the neck into the windpipe, with a short tube held in it, and a machine pushing air through the tube into her lungs so that she kept breathing. The University of California, San Francisco, which recorded her life, does not name the condition behind it, and this book does not guess.
+Alice Wong was born in 1974. She used a power wheelchair and she had a tracheostomy. That means a hole cut through the front of the neck into the windpipe, with a short tube held in it, and a machine pushing air through the tube into her lungs so that she kept breathing. The University of California, San Francisco, which recorded her life, does not name the condition behind it.
 
 She earned a master's degree in medical sociology at UCSF in 2004, after starting a disability group on campus as a student in 2002. She worked at three research centres there, all of them studying how disabled people actually live.
 
 On 25 January 2013 President Barack Obama appointed her to the National Council on Disability, the federal agency that advises the President and Congress. She served until 2015.
 
-In 2014 she started the Disability Visibility Project, which collects disabled people's own accounts of their own lives. For most of the history in this chapter, disabled people were written about by doctors, judges and officials and were hardly ever quoted.
+In 2014 she started the Disability Visibility Project, which collects disabled people's own accounts of their own lives. For most of American history, disabled people were written about by doctors, judges and officials and were hardly ever quoted.
 
-On 20 July 2015 the White House held a reception for the twenty-fifth anniversary of the Americans with Disabilities Act. Wong could not travel to it. She took part through a robot — a screen on wheels that carried her face and her voice into the room. The official White House photograph of that evening, taken in the Blue Room by Pete Souza, is captioned: "President Barack Obama greets Alice Wong, Disability Visibility Project Founder and Project Coordinator via robot."
+On 20 July 2015 the White House held a reception for the twenty-fifth anniversary of the Americans with Disabilities Act. Wong could not travel to it. She took part through a robot. It was a screen on wheels that carried her face and her voice into the room. The official White House photograph of that evening, taken in the Blue Room by Pete Souza, is captioned: "President Barack Obama greets Alice Wong, Disability Visibility Project Founder and Project Coordinator via robot."
 
 She wrote two books, *Disability Visibility* and *Year of the Tiger*. She put it this way: "Disability is part of the greater continuum of diversity, and we need to allow for variation and not get so focused on what is the norm."
 
@@ -1438,6 +1450,59 @@ A year after that came school sports. Idaho passed the Fairness in Women's Sport
 
 The student in the West Virginia case is named in the record only by her initials, B.P.J. Justice Sotomayor described her in the dissent: "Respondent B. P. J. is a transgender girl who wants to live her life consistent with her gender identity. When B. P. J. was 11 years old, she sought the opportunity to do what she and so many other children love to do: play sports." She wanted the cross-country and track teams. Sotomayor also recorded this: "in the five years since the ban has been in place, B. P. J. is the only transgender girl publicly identified in the State who has sought to play sports with other girls." Sotomayor agreed that the Title IX claim failed. On the equal protection question she said the case should have gone back to the trial court to find the facts before anyone decided it.
 
-That is where it stands on 9 September 2026, the day this page was checked. `government-politics` covers these rulings as law, `education` covers what schools do, and `sports-play` covers school and college sport.
+The President acted too. On 20 January 2025, his first day back in office, President Donald Trump signed an executive order titled "Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government." A week later he ordered the Secretary of Defense, Pete Hegseth, to bar people with gender dysphoria from the military. Gender dysphoria is the medical term for the distress a person feels when the sex they were assigned at birth does not match their sense of their own gender. Commander Emily Shilling, a Navy pilot for nearly twenty years, sued with other transgender service members. On 6 May 2025 the Supreme Court let the ban take effect while the case went on. On 6 November 2025 it let the State Department print the sex recorded at birth on every new passport. In February 2025 the National Park Service took the words "transgender" and "queer" off the website of the Stonewall National Monument in New York, which President Barack Obama had created on 24 June 2016 at the site of the 1969 uprising.
+
+On 31 March 2026 the Court ruled eight to one for Kaley Chiles, a Colorado counselor. Colorado had banned licensed counselors from trying to change a young person's sexual orientation or gender identity, which is called conversion therapy. Justice Gorsuch wrote that the law, applied to a counselor who only talks with clients, punished her for her point of view. Justice Jackson dissented.
+
+That is where things stood in September 2026. `government-politics` covers these rulings as law, `education` covers what schools do, and `sports-play` covers school and college sport.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Standing Rock: the right to protest, 2016 to 2026" -->
+In 2016 the Standing Rock Sioux Tribe fought the Dakota Access oil pipeline. The company building it, Energy Transfer, planned to run it under Lake Oahe, a reservoir on the Missouri River less than a mile north of the reservation. The tribe gets its water from that river. The route crosses land that treaties in the 1800s recognized as belonging to the Sioux Nation, and the Sioux never gave that land up.
+
+Thousands of people camped near the crossing. On 19 August 2016 North Dakota's governor, Jack Dalrymple, declared an emergency. He set up a joint police command. It was made up of the Morton County Sheriff's Office, led by Sheriff Kyle Kirchmeier, and police from other counties and towns. Each police chief left it to his own officers to decide when to use force.
+
+On the night of 20 November 2016 protesters dragged one of two police barricade trucks off a closed bridge on Highway 1806. The crowd grew to several hundred. Officers fired tear gas, rubber bullets and bean bags filled with lead into it. They also sprayed people with a fire hose. A lawsuit for the protesters says more than 200 were hurt that night.
+
+Sophia Wilansky had run about 30 yards from a barricade truck on the bridge when a police round hit her. A federal appeals court described her account of it in 2026: it was fired by Officer Jonathan Moll, and "It tore the flesh off her arm." The round was a flash-bang, a small explosive, packed inside a bullet. Her left hand and forearm are permanently injured.
+
+No officer had to pay. In 2023 and again on 24 June 2026 the federal appeals court ruled against the injured protesters. It said the law in 2016 had not clearly told officers that firing at a crowd to drive it away was a "seizure" under the Constitution. Without that, the officers were protected by a rule called qualified immunity. That rule shields government officials from being sued unless the law they broke was already clear.
+
+Police made hundreds of arrests. Judges threw out many of the charges, often because no one had told the protesters that they were standing on private land.
+
+The federal government's answer kept changing. On 4 December 2016 the Army refused permission to cross under the lake. On 24 January 2017, four days after he took office, President Donald Trump ordered the Army to approve the pipeline "in an expedited manner." The Army approved it on 8 February 2017. Oil began to flow in June 2017. In 2020 a federal judge ruled that the Army had broken the law by approving it without a full study of the risks. The Army finished that study in December 2025 and gave permission again in 2026.
+
+Energy Transfer sued the environmental group Greenpeace over the protests. In March 2025 a jury in Mandan, North Dakota, ordered Greenpeace to pay about $667 million. Judge James Gion cut that to $345 million. Greenpeace said it had only six employees at the camps and called the lawsuit an attempt to punish it for supporting the protest.
+
+In September 2026 Nola Taken Alive, a member of the Standing Rock tribal council, said: "The oil is still flowing. The pipeline hasn't been shut down."
+
+`native-nations` leads Standing Rock and covers the treaties and the camps.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the Dreamers" -->
+Some young people had been brought into the United States as children by adults, without the government's permission to live here. They grew up here and went to school here. From 2001 members of Congress kept introducing a bill called the DREAM Act. It would have let these young people become citizens by finishing two years of college or serving two years in the military.
+
+On 1 January 2010 four students from Miami Dade College set out to walk 1,500 miles from Miami to Washington. They were Gaby Pacheco, Carlos Roa, Felipe Matos and Juan Rodriguez. Three of them had no legal right to be in the country, and they said so in public all the way, which put them at risk of arrest and deportation. They gathered 30,000 signatures. They reached the White House on 1 May 2010. President Barack Obama would not meet them.
+
+On 18 December 2010 the DREAM Act came up in the Senate. Fifty-five senators voted to bring it to a final vote, and forty-one voted against. It needed sixty, so it died.
+
+On 15 June 2012 the Obama administration started a program called Deferred Action for Childhood Arrivals, or DACA. It did not make anyone a citizen. People who had arrived as children and met rules about age, schooling and criminal records could ask the government to put off deporting them for two years at a time, and could get permission to work. About 700,000 people signed up, by the Supreme Court's count.
+
+In September 2017 Attorney General Jeff Sessions told the Department of Homeland Security that it should end DACA, and the acting secretary, Elaine Duke, ended it. DACA holders, universities and states sued. On 18 June 2020 the Supreme Court ruled five to four that the government had ended the program the wrong way, so DACA stayed. A separate lawsuit brought by Texas is still going. In January 2025 a federal appeals court ruled that DACA's work permits are unlawful in Texas. By July 2026 the judge in Texas had not yet said how to carry that out.
+
+About 455,000 people held DACA on 31 March 2026, by government figures. The government was renewing permits but not approving new ones. Congress has never passed the DREAM Act.
+
+In January 2026 federal immigration agents shot and killed two American citizens in Minneapolis, Renée Macklin Good and Alex Pretti. The government was carrying out a large immigration operation there that it called Operation Metro Surge. Reporters named ICE officer Jonathan Ross as the man who shot Good. They named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti. Federal officials said Good had used her car as a weapon and called Pretti a domestic terrorist. Local officials said video contradicted the account of Good's death, and NPR reported that video contradicted the account of Pretti's. Federal agents kept state investigators away from the evidence for months. The acting Attorney General, Todd Blanche, said there would be no civil rights investigation into Good's killing. As of September 2026 no one had been charged in either death.
+
+`immigration` covers the immigration laws and the deportations.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the women's march, and the end of Roe" -->
+On 21 January 2017, the day after Donald Trump became president, women marched in cities across the country. The idea started with a Facebook post by Teresa Shook, a grandmother in Hawaii. Between 3.2 million and 5.3 million people marched in the United States, about 500,000 of them in Washington. Researchers who count protests called it the largest one-day demonstration in American history up to that time.
+
+In 2022 the Supreme Court took away a right that women had held since 1973. An abortion is a medical procedure that ends a pregnancy. In 1973, in *Roe v. Wade*, the Supreme Court had ruled that the Constitution protected it. Mississippi passed a law banning most abortions after fifteen weeks of pregnancy, and the case reached the Court. On 24 June 2022, in *Dobbs v. Jackson Women's Health Organization*, Justice Samuel Alito wrote for five justices: "We therefore hold that the Constitution does not confer a right to abortion. Roe and Casey must be overruled." Chief Justice John Roberts agreed that the Mississippi law could stand but did not vote to overrule *Roe*. Justices Stephen Breyer, Sonia Sotomayor and Elena Kagan dissented together.
+
+After *Dobbs*, each state made its own law. On 10 August 2026, by the count of KFF, a health research group, 13 states banned abortion in almost every case. Seven more banned it after six to twelve weeks of pregnancy. Nine states and the District of Columbia set no limit by stage of pregnancy.
+
+The Equal Rights Amendment came back too. It says: "equality of rights under the law shall not be denied or abridged by the United States or any State on account of sex." Congress had set a deadline of 1982, and only 35 states had approved it by then. Thirty-eight were needed. Then Nevada approved it in 2017, Illinois in 2018 and Virginia in 2020. The Archivist of the United States, the official who publishes amendments, did not add it. The three states sued, and in February 2023 a federal appeals court upheld the dismissal of their lawsuit. In December 2024 the Archivist, Colleen Shogan, and her deputy wrote that the amendment "cannot be certified as part of the Constitution." On 17 January 2025, three days before he left office, President Joe Biden declared it "the law of the land." Shogan did not publish it. As of September 2026 it is not part of the Constitution.
+
+`government-politics` covers these rulings and the amendment as law.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->
