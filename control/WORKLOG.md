@@ -3077,3 +3077,8 @@ CHECKPOINT: control/checkpoints/T-270-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage research
 RESULT: DONE. PASS  news-communication / research. measured: stage=RESEARCHED eras=10/10 stories=23 (v23 c0 t0) verify_tags=0 bank=35857w outline=18134w manuscript=0w validator_errors=0
         357246 tokens, 168 tool uses, 21.7 min (opus). Eras 9-10, chapter COMPLETE. Stories: Cronkite, Woodward and Bernstein (the 'brought down a president' line corrected), Jeff German (killed 2022 by the official he reported on), Darnella Frazier. WLBT license case, Pentagon Papers, fairness doctrine 1987, cable, journalists killed (Bolles, Guihard, five Vietnamese American journalists, Capital Gazette), Medill 2025 news deserts, platform owners, MIT 2018 false-news study, Press Freedom Tracker, 2025-26 public broadcasting cuts. 4 searched-not-found.
+
+### 2026-09-27 | [LOCAL] T-273b | holidays: full research eras 6-8 (T-273c does 9-10) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-273-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage research
