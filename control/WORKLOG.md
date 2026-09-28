@@ -2959,3 +2959,8 @@ VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+
+### 2026-09-27 | [LOCAL] T-261b | education: bank check eras 6-7 [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-261-education.md
+VERIFY: python tools/project_state.py --check education --stage research
