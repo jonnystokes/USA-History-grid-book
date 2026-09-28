@@ -2991,3 +2991,4 @@ Back to ONE AT A TIME.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
+NOTE (Jon): PAUSE after T-262c finishes. No new dispatches until Jon says.
