@@ -2954,3 +2954,8 @@ VERIFY: python tools/project_state.py --check disasters --stage research
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
+
+### 2026-09-27 | [LOCAL] T-260b | religion: bank check eras 6-8 [BURST5] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-260-religion.md
+VERIFY: python tools/project_state.py --check religion --stage research
