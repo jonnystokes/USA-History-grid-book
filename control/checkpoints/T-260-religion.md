@@ -50,7 +50,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 - `war`, era 5: second source for its Gnadenhutten PATCH (T-259a asked for one): Eric Sterner, Journal of the American Revolution, Feb 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/ : Williamson, 100-200 militia, "sixteen or eighteen" refused, 62 adults and 34 children killed with a mallet, then scalped. Details in religion bank end of ERA 5.
 - `native-nations`, era 4: Apalachee 1704 (Moore, 50 English + 1,000 Creek, 13 of 14 missions destroyed, captives about 1,400 by DAH, Moore's own claim 4,300+). Religion bank PATCH end of ERA 4. No chapter had it.
 - `native-nations`, era 5: the California missions and the 1775 Kumeyaay, 1781 Quechan and 1785 Toypurina revolts, all sourced to the 2023 NRHP MPDF in the religion bank, end of ERA 5. `native-nations` may want the revolts as resistance. Religion keeps the missions as a religious project.
@@ -60,7 +60,7 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 - `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
 
-## TO PARK (T-260b)
+## TO PARK (FILED by the director, 2026-09-27)
 - `native-nations`, era 6: California mission revolts 1812-1839 as resistance (Quintana's killers Lacah, Yaquenonsat, Yachacxi, Ules, Lino; Chumash War 1824 counts, 7 executed; Estanislao and Cipriano 1828-29; Yozcolo 1839, head displayed), and secularization 1826-45 (land to colonists). Religion bank PATCH T-260b end of ERA 6, MPDF E63-64, E81-82, E132-134.
 - `native-nations`, era 6: Nauvoo land: Sauk and Meskwaki, Quashquame, 1804 Treaty of St. Louis (search summary only; needs a source that opens). Religion bank end of ERA 6.
 - `native-nations`, era 7: Mooney 1896 (primary, archive.org ghostdancesioux00moonrich) gives Royer's troop requests (12 Oct: over half of 6,000 dancing; 30 Oct: 600-700 troops; 15 Nov: 'at least a thousand soldiers') and Short Bull's speech, p. 848-849. Could replace search-summary sourcing. Religion bank end of ERA 7.

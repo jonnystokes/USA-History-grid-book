@@ -3158,3 +3158,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `health` (2026-09-27, T-263)
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `war`, era 8: religion bank now carries a pointer PATCH to war's Hofer text; director decides which chapter gets the story block.

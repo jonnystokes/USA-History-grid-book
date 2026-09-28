@@ -2979,3 +2979,10 @@ CHECKPOINT: control/checkpoints/T-262-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage research
 RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras=10/10 stories=25 (v25 c0 t0) verify_tags=0 bank=69945w outline=34259w manuscript=0w validator_errors=0
         293750 tokens, 104 tool uses, 14.5 min (opus). Era 7 bank check: 11 PATCHes. Wilmington coup 1898 (no chapter told it: Waddell, 500-2,000 men, 14-60 dead, no one charged) added as a span; Frances Thompson's 1876 arrest; allotment reformers and Dawes, Elk v. Wilkins; Ponca and Paiute removals with actors; Geary Act refusal; Yick Wo; Wong Kim Ark; Memphis 1892. Reconstruction violence pointed to slavery-freedom. 2 firsts removed, 2 searched-not-found. TO PARK listed.
+
+### 2026-09-27 | [LOCAL] Burst of 5 done; TO PARK filed (director, script)
+All five PASS: T-264c disasters and T-266c drugs-alcohol complete their chapters; T-260b religion 6-8,
+T-261b education 6-7, T-262b rights-movements 7 bank checks landed. Parked items filed into 14 banks (all
+validate 0; the 7 written chapters still PASS prose). One afterword item saved to AUDIT-QUEUE.
+MEASURED: RESEARCHED 23 + WRITTEN 7 = 30 of 37 pass research. SEED 7 left.
+Back to ONE AT A TIME.

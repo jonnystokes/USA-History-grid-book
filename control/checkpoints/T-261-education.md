@@ -41,7 +41,7 @@ PASS  education / research
 | 6 | each verified story in eras 6-7 has its key facts in the bank | done | all 8 blocks match their bank sections; see era-7 'stories and firsts' patch |
 | 7 | final for eras 6-7: outline punctuation, validator, research check, NEXT for era 8 | done | outline eras 6-7: new spans (Federal money to school Native children 1819; Northern schools wrecked, Noyes 1835; teacher jailed in Norfolk 1854; Separate schools by law and courts), attacks on freedpeople's schools, Morrill land count, Carlisle named dead and 2024 figures, anti-literacy penalties; 'first time in print' claim removed; CT 1819 'first' attributed; zero em dashes and semicolons in eras 6-7; validator 0 errors; research PASS |
 
-## TO PARK (T-261b)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - **native-nations, era 1800-1850: the Civilization Fund Act (3 March 1819, $10,000 a year, repealed 1873) and the Choctaw Academy, Kentucky, 1825-1848** (Richard M. Johnson's farm, Choctaw treaty money $6,000 a year, 600+ students from 17 nations, 1840 inspection, Pitchlynn withdrew Choctaw students 1842). Sourced text: `research/research-education.md` era 6, "PATCH 2026-09-27 (T-261b): federal schooling of Native children begins in this era" (DOI report Vol I 2022 pp. 27-28; ExploreKYHistory; Penn State on Christina Snyder).
 - **native-nations, era 1850-1900: the nine Rosebud Sioux children who died at Carlisle, returned 14 July 2021, and Spotted Tail's request of 23 May 1881** (Proclamation 10870, 2024; DOI report Vol II 2024). Also the 2024 report's figures (417 schools, at least 973 deaths, 18,624 named children, 74 burial sites at 65 schools) and the Act of 3 March 1893 (rations withheld). Sourced text: education bank era 7, "PATCH 2026-09-27 (T-261b): the boarding schools, the two federal reports' figures".
@@ -65,7 +65,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 - **native-nations, era 1600s: Deer Island, 1675-76.** No outline in the book tells it. Sourced text is in `research/research-education.md` era 3, "PATCH 2026-09-27 (T-261a): what happened to the people of the praying towns in 1675 (Deer Island)": order 13 Oct 1675 by Massachusetts authorities, Natick people ferried 30 Oct 1675, about 500 to 1,100 interned, mostly women and children (NPS, https://www.nps.gov/places/deer-island.htm), more than half died over the winter (historicbostons.org), survivors released May 1676, an unknown number sold into slavery in the West Indies or Tangier (NPS).
 - **native-nations, eras 1500s-1700-1750: the Timucua.** 200,000 in the 1500s to about 2,000 by the 1650s, epidemics, Carolina slave raids, all survivors taken to Cuba after 1763, last died 1767 (Matthew Holt Jennings, Dictionary of American History, https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/timucua). Also the 1572 Spanish hanging of Paquiquineo's people (Encyclopedia Virginia). Copy from the education bank era 2 patch.

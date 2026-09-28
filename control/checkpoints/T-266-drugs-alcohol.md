@@ -50,7 +50,7 @@ FAIL  drugs-alcohol / research
 | C3 | bank check, eras 9-10 | done | '## BANK CHECK, eras 09 to 10': 1 PATCH (Clarence Busch, the driver who killed Cari Lightner, UPI 1985; outline now names him) + 2 SNF (EVALI liquid makers; cause of highest Native overdose rate) + firsts and perishables list |
 | C4 | final: every era's progress= flag, hb-note Status, validator, research check | done | all 10 eras progress=researched; hb-note Status RESEARCHED; validator 0 errors; research check PASS |
 
-## TO PARK (T-266c)
+## TO PARK (FILED by the director, 2026-09-27)
 All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
 - `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
 - `big-business`, 1950-2000: OxyContin approval, Curtis Wright IV's label and move to Purdue, "less than one percent," 670,000 to 6.2 million prescriptions 1997-2002, Richard Sackler president 1999 (Wikipedia "Purdue Pharma"). Bank era 09.
@@ -83,7 +83,7 @@ All sourced text is in `research/research-drugs-alcohol.md` under the heading na
 - `slavery-freedom`, 1750-1800: six enslaved distillers at Mount Vernon (Hanson, Peter, Nat, Daniel, James, Timothy), 1797-99; Washington's liquor ration to enslaved workers and the overseer James Butler; enslaved people helping defend Neville's Bower Hill and the burning of its slave quarters 17 July 1794. Bank era 05.
 - `government-politics`, 1700-1750: Virginia's 1705 election law and the "dry" weeks; Boston's General Court meeting at Vardy's tavern after the 1747 town-house fire. Bank era 04.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `slavery-freedom`, 1800-1850: Frederick Douglass, *Narrative* (1845) ch. 10, slaveholders got enslaved people drunk at Christmas, bets on who could drink most whisky, "keeping down the spirit of insurrection" (Gutenberg #23). Bank era 06.
 - `immigration`, 1850-1900: opium laws and the Chinese (SF 1875 ordinance, Chief Crowley quote, Idaho 1887 'every white person', federal act 23 Feb 1887 barring 'any subject of the Emperor of China' from importing opium, 1883 New York hoax), Fisher/Stanford 2014 + Cornell LII 21 USC 191. Bank era 07.

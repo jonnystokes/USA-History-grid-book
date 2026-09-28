@@ -53,7 +53,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (T-262b)
+## TO PARK (FILED by the director, 2026-09-27)
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `slavery-freedom`, era 1850-1900: Frances Thompson's 1876 arrest (PATCH "Frances Thompson, 1866 and 1876"): 10 July 1876, Dr. Joseph Nuttall and three doctors, $50 fine, 100 days chain gang, died 1 Nov 1876 (MLK50 2024, CNN 2025). CNN gives TWO police officers among the seven men in 1866, not three as the parked note said.
 - `crime-justice` and `news-communication`, era 1850-1900: Wilmington coup, 10 Nov 1898 (PATCH "Wilmington"): Waddell, 500 to 2,000 men, Daily Record burned, 14 (coroner) to 60 (2006 state report) dead, no indictments (NCpedia, NC DNCR). No outline in the book tells it. rights-movements now tells it in era 7.
@@ -64,7 +64,7 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 7,
 - `news-communication`, era 1850-1900: the Free Speech editorial was printed 21 May 1892 (Wells, A Red Record); Memphis streetcar boycott and exodus 1892 (Southern Horrors).
 - `how-we-know` afterword: Marius Robinson's full 1851 text of Sojourner Truth's Akron speech is now in the bank (NPS lesson plan); Gage in the New York Independent, 23 April 1863 (NPS, Sojourner Truth Project).
 
-## TO PARK (for the director to file after the batch)
+## PARKED EARLIER (T-262r filed its own)
 - FILED 2026-09-27 (T-262r): Lovejoy and McIntosh -> research-news-communication.md, era 6 (press freedom). TO PARK list was otherwise empty.
 
 ## SALVAGE 2026-09-27 (T-262a killed by the usage limit, 12:50 reset)

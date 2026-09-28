@@ -240,3 +240,5 @@ will be worded differently, which is exactly why a search will not find it.
   PATCH from the National Archives (1928 settlement: $10,000, some sources $15,000; $600 annuity;
   medical costs; June 8, 1928. Donohue dates corrected). The audit should carry the corrected
   facts into `elements` and `rights-movements` wherever they differ.
+
+- **For the `how-we-know` afterword (step 7):** from T-262b (rights-movements checkpoint): - `how-we-know` afterword: Marius Robinson's full 1851 text of Sojourner Truth's Akron speech is now in the bank (NPS lesson plan); Gage in the New York Independent, 23 April 1863 (NPS, Sojourner Truth Project).

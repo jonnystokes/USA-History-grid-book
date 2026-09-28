@@ -18,7 +18,7 @@ NEXT:   Chapter disasters research complete (research PASS 2026-09-27). Next sta
 | 11 | bank check eras 9-10 | done | PATCHes: Audrey warnings, Air Florida pilots named, Kerr County 2016 siren refusal (Baldwin quote), actors per event, land (Chenega, Lahaina, west Altadena), firsts, perishables. 2 SEARCHED NOT FOUND (Pittston charges; Chicago warning decision-makers). Outline sentences added for Audrey, pilots, Kerr County. |
 | 12 | final: progress= flags for all ten eras, hb-note Status, validator, research check | done | all ten progress=researched; hb-note Status updated; eras 9-10 0 em dashes, 0 semicolons; validator 0 errors; research PASS |
 
-## TO PARK (T-264c)
+## TO PARK (FILED by the director, 2026-09-27)
 
 (STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
 
@@ -38,7 +38,7 @@ NEXT:   Chapter disasters research complete (research PASS 2026-09-27). Next sta
 | 7 | bank check eras 6-8 | done | PATCHes per era (actors, counts, land, firsts): New Madrid land (Cherokee/Osage), Pulaski engineer and enslaved passengers (SNF), Natchez uncounted enslaved (SNF), Peshtigo on Menominee land ceded 1836 (Treaty of the Cedars; outline sentence added), Chicago Relief and Aid Society rules (SNF), St. Francis coroner's jury verdict (outline sentence added), Okeechobee coffin officials (SNF), Galveston/1927/Eastland unnamed actors. Institution-as-actor sentences repaired in outline eras 6-8 |
 | 8 | final: validator, research check, NEXT for T-264c | done | validator 0 errors. research FAIL as expected: stage=PARTIAL, t3 and verify_tags=2 all in eras 9-10 |
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director, 2026-09-27)
 
 (STATUS for the director: three items below.)
 

@@ -421,3 +421,8 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 ## Parked from `crime-justice` (2026-09-27, T-265)
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 - `work-workers`, era 1850-1900: Haymarket trial facts (PBS AmEx): 7 police killed, 8 tried, 4 hanged 11 Nov 1887, Lingg suicide, Altgeld pardon June 1893. Crime-justice bank era 7.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
+- `work-workers`, era 10: Impact Plastics, Erwin, Tennessee, September 27, 2024: five employees and a contractor drowned in Helene floods; TOSHA no citations (April 2025), no charges (DA Steven Finney, July 2025); survivor and families say workers were not released in time (Tennessee Lookout; AP via WLOS). Also Mayfield Consumer Products candle factory, Kentucky, December 10, 2021: eight or nine workers died, workers alleged jobs were threatened if they left (Wikipedia, needs a second source).

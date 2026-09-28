@@ -600,3 +600,30 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
 - `native-nations`, era 1950-2000: Wounded Knee 1973: Marshal Lloyd Grimm paralyzed; Frank Clearwater (Eastern Cherokee) shot 17 April, died 25 April; Buddy Lamont (Oglala) killed by a federal sniper 26 April; Judge Fred Nichol dismissed the Banks-Means case in 1974 for government misconduct (WP). Era 2000-today: McGirt (9 July 2020, 5-4) and Castro-Huerta (2022). Crime-justice bank eras 9-10.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `native-nations`, era 6: California mission revolts 1812-1839 as resistance (Quintana's killers Lacah, Yaquenonsat, Yachacxi, Ules, Lino; Chumash War 1824 counts, 7 executed; Estanislao and Cipriano 1828-29; Yozcolo 1839, head displayed), and secularization 1826-45 (land to colonists). Religion bank PATCH T-260b end of ERA 6, MPDF E63-64, E81-82, E132-134.
+- `native-nations`, era 6: Nauvoo land: Sauk and Meskwaki, Quashquame, 1804 Treaty of St. Louis (search summary only; needs a source that opens). Religion bank end of ERA 6.
+- `native-nations`, era 7: Mooney 1896 (primary, archive.org ghostdancesioux00moonrich) gives Royer's troop requests (12 Oct: over half of 6,000 dancing; 30 Oct: 600-700 troops; 15 Nov: 'at least a thousand soldiers') and Short Bull's speech, p. 848-849. Could replace search-summary sourcing. Religion bank end of ERA 7.
+- `native-nations`, era 7: Mountain Meadows 1857: Paiute men took part alongside the militia, and the militia disguised themselves as Indians (Linder). Religion bank end of ERA 7.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **native-nations, era 1800-1850: the Civilization Fund Act (3 March 1819, $10,000 a year, repealed 1873) and the Choctaw Academy, Kentucky, 1825-1848** (Richard M. Johnson's farm, Choctaw treaty money $6,000 a year, 600+ students from 17 nations, 1840 inspection, Pitchlynn withdrew Choctaw students 1842). Sourced text: `research/research-education.md` era 6, "PATCH 2026-09-27 (T-261b): federal schooling of Native children begins in this era" (DOI report Vol I 2022 pp. 27-28; ExploreKYHistory; Penn State on Christina Snyder).
+- **native-nations, era 1850-1900: the nine Rosebud Sioux children who died at Carlisle, returned 14 July 2021, and Spotted Tail's request of 23 May 1881** (Proclamation 10870, 2024; DOI report Vol II 2024). Also the 2024 report's figures (417 schools, at least 973 deaths, 18,624 named children, 74 burial sites at 65 schools) and the Act of 3 March 1893 (rations withheld). Sourced text: education bank era 7, "PATCH 2026-09-27 (T-261b): the boarding schools, the two federal reports' figures".
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `native-nations`, era 1850-1900: Ponca removal actors (Congress $25,000 1876, Inspector E. C. Kemble, Agent E. A. Howard, 25 soldiers, 170 then the rest, Quapaw then former Cherokee land, Nebraska State Parks marker); Paiute removal ordered by President Hayes, one week's notice, Schurz's broken written promise, Malheur opened 1882-83, 1884 petition (House History); the allotment reformers (WNIA 1879, IRA 1882, Jackson 1881, Mohonk 1883) and Elk v. Wilkins 1884 (Cornell, 7-2).
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
+- `native-nations`, era 09: Chenega (Chugach Alutiiq) destroyed by the 1964 tsunami (23 to 26 dead of about 70); the Bureau of Indian Affairs resettled survivors at Tatitlek; after ANCSA the Chenega Corporation selected 76,093 acres and built Chenega Bay, first occupied 1984 (Wikipedia "Chenega, Alaska"; USGS Brothers et al. 2016).
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `native-nations`, 1950-2000: Public Law 277, 15 Aug 1953 (67 Stat. 586), ended federal Indian liquor laws outside Indian country and gave tribes local option by ordinance. Bank era 09.

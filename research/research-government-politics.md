@@ -2646,3 +2646,17 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-crime-justice.md` under the T-265 PATCH named in each item.
 Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
 - `government-politics`, era 2000-today: Trump's New York conviction (34 counts, 30 May 2024; unconditional discharge 10 Jan 2025; appeal pending Sept 2026; removal denied by Judge Hellerstein 28 Aug 2026) from WP "Prosecution of Donald Trump in New York". Their outline tells 6 January but not this. Crime-justice bank era 10.
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `government-politics`, era 7: Reynolds v. United States, 98 U.S. 145 (belief vs practice), full cite in religion bank end of ERA 7.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `immigration` and `government-politics`, era 1850-1900: Yick Wo numbers (200 refused, 80 granted but one, 150 arrested, Sheriff Peter Hopkins); Wong Kim Ark 6-2 (Fuller and Harlan dissenting, McKenna out); Geary Act refusal (100,000 residents, 13,000 registered, Six Companies $1 each, KQED 2026); Fong Yue Ting 15 May 1893, 5-3 (Cornell).
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `government-politics`, 1950-2000 and 2000-today: Nixon's 17 June 1971 remarks (UCSB transcript, $155M new, over $350M total, Jaffe); National Minimum Drinking Age Act 17 Jul 1984 (Lautenberg); EO 14370 (18 Dec 2025) and the 28 Apr 2026 Schedule III order for state-licensed medical marijuana, DEA hearing from 29 Jun 2026 (Federal Register). Banks eras 09-10.

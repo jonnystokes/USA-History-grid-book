@@ -3332,3 +3332,8 @@ Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynchi
 - `education` (children thread, optional), era 1950-2000: *In re Gault* (1967, Gerald Gault, 15) is told here in a span. Crime-justice bank era 9.
   
   Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynching victim (Henry Smith 1893 or another, not Thomas Moss who is rights-movements'), allan-pinkerton re-sourced; era 8 ed-johnson (wrongful conviction + lynching), eliot-ness-al-capone re-sourced.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `education`, era 1850-1900: Ward v. Flood (Jan 1874) from the decision text at BlackPast: Harriet A. Ward's petition, the Wards LOST; Smith (1871, opened fall 1875, 14 students), Wellesley (1870, opened 8 Sept 1875, 314), Bryn Mawr (opened Sept 1885) from each college's own page.

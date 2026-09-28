@@ -1630,3 +1630,29 @@ found about 1.25 million people in state and federal prisons."
   in 2023* table 3 shows sentenced counts falling every year from 2013 (1,520,403) to 2021, and the
   total at yearend 2023 was 1,254,200. BJS *Prisoners 1925-81* and *Prisoners in 1990* show every
   earlier year lower. So 2009 is the highest yearend count in the BJS series (1925 on).
+
+## Parked from `religion` (2026-09-27, T-260)
+Filed by the director after the parallel run. Full sourced text is in `research/research-religion.md` under the T-260 PATCH named in each item.
+- `crime-justice`, era 8: Leo Frank lynching 17 Aug 1915 (GHS marker text; 25 'Knights of Mary Phagan'; no one tried; 1986 pardon). And Richwood, WV, 29 June 1940: Deputy Sheriff Martin Catlette and Police Chief Bert Stewart convicted 1942 of civil-rights violations (WVPB). Religion bank end of ERA 8.
+- `crime-justice`, era 6: Carthage 1844: 9 indicted, 5 tried and acquitted May 1845 (Linder, UMKC Famous Trials). Religion bank end of ERA 6.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **crime-justice, era 1850-1900 (its planned lynching-victim story):** William Luke, as above. Education tells him in two sentences as a teacher.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `crime-justice` and `news-communication`, era 1850-1900: Wilmington coup, 10 Nov 1898 (PATCH "Wilmington"): Waddell, 500 to 2,000 men, Daily Record burned, 14 (coroner) to 60 (2006 state report) dead, no indictments (NCpedia, NC DNCR). No outline in the book tells it. rights-movements now tells it in era 7.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
+- `crime-justice`, era 10: Danziger Bridge, New Orleans, September 4, 2005: NOPD officers (Kenneth Bowen, Robert Gisevius, Anthony Villavaso, Robert Faulcon named) shot six unarmed Black civilians, killing James Brissette, 17, and Ronald Madison, 40 (shot in the back); cover-up; convictions 2011 vacated 2013; five former officers pleaded guilty April 20, 2016, sentences 3 to 12 years (Wikipedia "Danziger Bridge shootings", rev. 2026-08-21). Also Roland J. Bourgeois Jr., sentenced 2019 to 10 years for shooting three Black men fleeing through Algiers Point (Wikipedia "Effects of Hurricane Katrina in New Orleans"). No crime-justice outline mentions Danziger (grep 2026-09-27).
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `big-business` and `crime-justice`, 2000-today: Purdue sentenced 28 Apr 2026 by Judge Madeline Cox Arleo, $5.5 billion, $225 million collected, "Your government failed you," Ed Bisch and Alexis Pleus (CNBC/Reuters 29 Apr 2026); Purdue shut down 1 May 2026, Knoa Pharma, Sackler payment schedule (NY AG 1 May 2026); AlixPartners $10.7 billion; Harrington v. Purdue 27 Jun 2024; national settlements (distributors $21B, J&J $5B, Teva, Allergan, CVS, Walgreens, Walmart). Refreshes big-business's 2025 end point. Bank era 10.
+- `crime-justice`, 2000-today: fentanyl makers (Sinaloa and Jalisco New Generation cartels, chemicals from Chinese companies, fake pills), CRS IF10400 Aug 2025. Bank era 10.
+- `crime-justice`, 1950-2000: Clarence Busch, who killed Cari Lightner 3 May 1980, 2-year sentence, paroled after 9 months (UPI 1985). Bank check 09-10 PATCH.

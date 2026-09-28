@@ -561,3 +561,8 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `immigration`, 1850-1900: opium laws and the Chinese (SF 1875 ordinance, Chief Crowley quote, Idaho 1887 'every white person', federal act 23 Feb 1887 barring 'any subject of the Emperor of China' from importing opium, 1883 New York hoax), Fisher/Stanford 2014 + Cornell LII 21 USC 191. Bank era 07.
 - `immigration` and `crime-justice`, 1850-1900: Portland Rum Riot 2 June 1855, Neal Dow ordered militia to fire, John Robbins (22, Deer Isle) killed, 7 wounded (NEHS, Wikipedia). Bank era 07.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `immigration` and `government-politics`, era 1850-1900: Yick Wo numbers (200 refused, 80 granted but one, 150 arrested, Sheriff Peter Hopkins); Wong Kim Ark 6-2 (Fuller and Harlan dissenting, McKenna out); Geary Act refusal (100,000 residents, 13,000 registered, Six Companies $1 each, KQED 2026); Fong Yue Ting 15 May 1893, 5-3 (Cornell).

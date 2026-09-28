@@ -11,18 +11,13 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**RESUMED (Jon): BURST OF 5** = T-264c disasters 9-10, T-266c drugs-alcohol 9-10, T-260b religion 6-8,
-T-261b education 6-7, T-262b rights-movements 7. Then back to one at a time.
-
-Step 1 (research) measured 2026-09-27: RESEARCHED 21 + WRITTEN 7 = 28 of 37 chapters pass research.
-Still to do, one at a time unless Jon calls a burst (DECISIONS #25):
-- **disasters** eras 9-10 (T-264c) and **drugs-alcohol** eras 9-10 (T-266c): both chapters PARTIAL, last pieces.
-- **religion** eras 6-10 bank check (T-260b, split: 6-7, 8-10). Chapter already passes.
-- **education** eras 6-10 bank check (T-261b, split x3: 6-7, 8, 9-10). Chapter already passes.
-- **rights-movements** eras 7-10 bank check (T-262b, split x3; era 8 LEADS Tulsa 1921, DECISIONS #23). Passes.
+**Burst of 5 done. Back to ONE AT A TIME.** 30 of 37 chapters pass research (23 researched + 7 written).
+Still to do in step 1:
+- **religion** eras 9-10 bank check (T-260c). **education** era 8 (T-261c), era 9 (T-261d), era 10 (T-261e).
+  **rights-movements** era 8 (T-262c, LEADS Tulsa 1921), era 9 (T-262d), era 10 (T-262e). All pass already.
 - **7 seeds, full research** (2-3 agents each): news-communication, art, music, storytelling-evolution,
   styles, sports-play, holidays.
-Then STEP 2 (writing). T-243e economy gaps wait for step 4.
+Then STEP 2 (writing).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 

@@ -629,3 +629,10 @@ None in the outline for this era.
 ## Neighbour check and parking (T-256b)
 - Parked pointers: `research-drugs-alcohol.md` (Purdue Pharma, company side) and `research-health.md` (tobacco industry, company side). Both under "Parked from `big-business` (2026-09-27, T-256b)".
 - Nothing new needed from `economy`, `money`, `marketplace`: their parked sections at the top of this bank (U.S. Steel, A&P, Woolworth, TARP, Lehman) are now written up in the era sections. The A&P and Woolworth figures (chain-store scale, 1911 to 1930) have no line in the outline. They are in the bank for a writer who wants them.
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
+- `big-business`, 1950-2000: OxyContin approval, Curtis Wright IV's label and move to Purdue, "less than one percent," 670,000 to 6.2 million prescriptions 1997-2002, Richard Sackler president 1999 (Wikipedia "Purdue Pharma"). Bank era 09.
+- `big-business` and `crime-justice`, 2000-today: Purdue sentenced 28 Apr 2026 by Judge Madeline Cox Arleo, $5.5 billion, $225 million collected, "Your government failed you," Ed Bisch and Alexis Pleus (CNBC/Reuters 29 Apr 2026); Purdue shut down 1 May 2026, Knoa Pharma, Sackler payment schedule (NY AG 1 May 2026); AlixPartners $10.7 billion; Harrington v. Purdue 27 Jun 2024; national settlements (distributors $21B, J&J $5B, Teva, Allergan, CVS, Walgreens, Walmart). Refreshes big-business's 2025 end point. Bank era 10.

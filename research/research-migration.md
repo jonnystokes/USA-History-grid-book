@@ -415,3 +415,8 @@ Researched for the 35-chapter outline (`outlines/migration.md`). Every fact belo
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-253 PATCH named in each item.
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `slavery-freedom` and `migration`, 1850-1900: the Weeping Time, Mar 2-3, 1859, Ten Broeck Race Course, Savannah; seller Pierce Mease Butler (gambling debts); broker Joseph Bryan; 429-436 people; $303,850; reporter Mortimer Thomson (NPS guge-weeping-time-2020; Southern Spaces, Feb 18, 2010).
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
+- `migration`, era 10: possible story source for Maria movers: documentary *After Maria* (2019, Nadia Hallgren, Netflix) follows Kenia Ciuro, Glenda Martes and Sheila Molina Quinones, displaced to the Bronx and left homeless when FEMA hotel aid ended (amNY, Meghan Giannotta, May 24, 2019).

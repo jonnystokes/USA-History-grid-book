@@ -72,3 +72,9 @@ open `target` slot (`local-reporter`) — citizen recording is your angle, not t
 
 ## Parked from `rights-movements` (2026-09-27, T-262r)
 **Era 6 (1800 to 1850): an editor killed for what he printed.** Elijah Parish Lovejoy, Presbyterian minister and editor of the *St. Louis Observer*, moved to Alton, Illinois for safety. Mobs there smashed three of his printing presses, and he was killed on 7 November 1837 defending a fourth. (St. Louis Walk of Fame, "Elijah Lovejoy," http://stlouiswalkoffame.org/inductee/elijah-lovejoy/ .) From Wikipedia, "Elijah Parish Lovejoy," not confirmed on a second page: five bullets, aged 34, attackers tried from 19 January 1838 and acquitted, shooter never named. In April 1836 in St. Louis a white mob burned Francis McIntosh, a free Black man, to death, and Judge Luke Lawless refused to convict anyone and blamed abolitionists. `rights-movements` era 6 carries Lovejoy as one of the attacks on abolitionists. This chapter's angle is freedom of the press.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `crime-justice` and `news-communication`, era 1850-1900: Wilmington coup, 10 Nov 1898 (PATCH "Wilmington"): Waddell, 500 to 2,000 men, Daily Record burned, 14 (coroner) to 60 (2006 state report) dead, no indictments (NCpedia, NC DNCR). No outline in the book tells it. rights-movements now tells it in era 7.
+- `news-communication`, era 1850-1900: the Free Speech editorial was printed 21 May 1892 (Wells, A Red Record); Memphis streetcar boycott and exodus 1892 (Southern Horrors).

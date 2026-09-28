@@ -962,3 +962,14 @@ Full sourced text is in `research/research-war.md` under the T-259b PATCH named.
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `health`, 1900-1950: poisoned industrial alcohol 1926-33 (Blum via HNN, TIME 2015: Lowman and Wheeler quotes, Norris), jake leg 1930 (Harry Gross, Max Reisman, 30,000-50,000). Bank era 08.
+
+## Parked from `disasters` (2026-09-27, T-264)
+Filed by the director after the parallel run. Full sourced text is in `research/research-disasters.md` under the T-264 PATCH named in each item.
+(STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
+- `health`, eras 09-10: Chicago heat wave July 1995, 739 excess deaths, Black residents died at higher rates (Wikipedia; NPR/WBEZ 2020 Donoghue interview). FDNY: 453 World Trade Center illness deaths as of September 10, 2026 (FireRescue1).
+
+## Parked from `drugs-alcohol` (2026-09-27, T-266)
+Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
+All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
+- `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
+- `health`, 2000-today: EVALI 2,807 hospitalized or dead, 68 deaths, vitamin E acetate (CDC); Surgeon General alcohol-cancer advisory 3 Jan 2025 (100,000 cancers, 20,000 deaths); Dietary Guidelines 7 Jan 2026 dropped the 1-and-2-drink limits; overdose final 2024 79,384 and 2024 rates by race (Data Brief 549, Jan 2026: AI/AN 51.6). Bank era 10.

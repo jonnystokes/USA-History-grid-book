@@ -534,3 +534,13 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-drugs-alcohol.md` under the T-266 PATCH named in each item.
 All sourced text is in `research/research-drugs-alcohol.md` under the era heading named.
 - `slavery-freedom`, 1800-1850: Frederick Douglass, *Narrative* (1845) ch. 10, slaveholders got enslaved people drunk at Christmas, bets on who could drink most whisky, "keeping down the spirit of insurrection" (Gutenberg #23). Bank era 06.
+
+## Parked from `education` (2026-09-27, T-261)
+Filed by the director after the parallel run. Full sourced text is in `research/research-education.md` under the T-261 PATCH named in each item.
+- **slavery-freedom, era 1850-1900: attacks on freedpeople's schools and teachers from Alvord's Fifth (1868) and Ninth (1870) reports** (Gladding and Abram Colby at Greensboro, Georgia; Fisk students whipped at Dresden, Tennessee, 2 Sept 1869; Slaughter Neck, Delaware, school burned; Newberry, SC) and **William Luke, lynched at Cross Plains, Alabama, 11 July 1870** (Encyclopedia of Alabama; Owen Sound Hub; six or eight dead). Education bank era 7, "PATCH ... attacks on the freedpeople's schools".
+- **slavery-freedom or rights-movements, era 1850-1900: Margaret Douglass, Norfolk, jailed one month from 10 January 1854** for teaching free Black children (her own 1854 narrative, Gutenberg 70331). Education tells it as a span. Education bank era 7.
+
+## Parked from `rights-movements` (2026-09-27, T-262)
+Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
+Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
+- `slavery-freedom`, era 1850-1900: Frances Thompson's 1876 arrest (PATCH "Frances Thompson, 1866 and 1876"): 10 July 1876, Dr. Joseph Nuttall and three doctors, $50 fine, 100 days chain gang, died 1 Nov 1876 (MLK50 2024, CNN 2025). CNN gives TWO police officers among the seven men in 1866, not three as the parked note said.
