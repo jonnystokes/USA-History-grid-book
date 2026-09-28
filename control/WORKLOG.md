@@ -2994,3 +2994,5 @@ VERIFY: python tools/project_state.py --check rights-movements --stage research
 RESULT: DONE. PASS  rights-movements / research. measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=76921w outline=36915w manuscript=0w validator_errors=0
         344607 tokens, 131 tool uses, 19.1 min (opus). Era 8 bank check; LEADS Tulsa 1921 (DECISIONS #23): DOJ Jan 2025 report read in full; 4 new spans (Greenwood before, the camps 4,000-6,000 held, the 7 Jun 1921 fire ordinance and B. C. Franklin, survivors' campaign 1997-2026 and graves search); new story viola-fletcher (2021 testimony). Red Summer 1919 (no chapter had it), Henry Gerber 1924, Mexican Repatriation, Isaac Woodard, Japanese American incarceration actors. 4 outline corrections, 4 unsourced lines removed. 1 searched-not-found. Pointers parked in crime-justice and war.
 NOTE (Jon): PAUSE after T-262c finishes. No new dispatches until Jon says.
+
+### 2026-09-27 | [LOCAL] PAUSED (Jon) after T-262c. Nothing in flight.

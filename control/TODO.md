@@ -11,10 +11,10 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**Burst of 5 done. Back to ONE AT A TIME.** 30 of 37 chapters pass research (23 researched + 7 written).
+**PAUSED (Jon) after T-262c.** Nothing in flight. 30 of 37 chapters pass research (23 researched + 7 written).
 Still to do in step 1:
 - **religion** eras 9-10 bank check (T-260c). **education** era 8 (T-261c), era 9 (T-261d), era 10 (T-261e).
-  **rights-movements** era 8 (T-262c, LEADS Tulsa 1921), era 9 (T-262d), era 10 (T-262e). All pass already.
+  **rights-movements** era 8 DONE (T-262c, Tulsa told), era 9 (T-262d), era 10 (T-262e). All pass already.
 - **7 seeds, full research** (2-3 agents each): news-communication, art, music, storytelling-evolution,
   styles, sports-play, holidays.
 Then STEP 2 (writing).
