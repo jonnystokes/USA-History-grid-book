@@ -2078,6 +2078,267 @@ records give no number."
   https://www.sos.mo.gov/archives/resources/mormon.asp )
 - **Movie: none verified. Leave `movie=""`.**
 
+### PATCH 2026-09-27 (T-260b): California missions, 1800 to 1848: named friars, what they did, the revolts, the count, and how the missions ended
+
+The outline's era 6 has no California cell at all. The missions ran through this whole era, so the
+hard material is era 6's too. Source for everything below unless marked: California Office of
+Historic Preservation / NPS, National Register Multiple Property Documentation Form, "Native Americans
+and the California Mission System, 1769-1848" (2023),
+https://ohp.parks.ca.gov/pages/1054/files/CA_Multiple_Native%20Americans%20and%20CA%20Mission%20System%20MPDF.pdf
+(read in full with pypdf 2026-09-27; "MPDF" with its Section E page). Era-5 PATCH above covers
+1769-1800, the founding, flogging defined, and the total counts; do not repeat them.
+
+- **Who punished, and for what.** "Corporal punishment was imposed in response to running away,
+  stealing, fighting, drunkenness, 'concubinage,' and other acts seen as disobedience by mission system
+  officials." Missionaries "often used soldiers or Indian alcaldes (elected officials) to deliver
+  punishments, but would also directly participate, as in the case of Father de la Peña at Mission Santa
+  Clara." (MPDF E81.)
+- **Father Andrés Quintana, Mission Santa Cruz, killed 1812.** He "reportedly used a metal-tipped whip
+  for floggings" (E81). "When the attack took place, Quintana had just beaten two men nearly to death with
+  a metal tipped whip." The killers were a coalition "almost all local Awaswas-speaking Tribal members,
+  people who had been at the mission since the early days" (Rizzo-Martinez 2022, quoted E132). **Named in
+  the MPDF timeline: Lacah, Yaquenonsat, Yachacxi, Ules and Lino** (MPDF Table, "1812"). His death was
+  first put down to natural causes; the plot came out two years later when a guard overheard an argument.
+  **Sixteen men were tried and nine convicted; seven died at the presidio, four of them before sentence.**
+  The source for the plot is **Lorenzo Asisara**, an Ohlone man whose father was involved. (E132.)
+- **Father Olbes, Mission Santa Cruz (the MPDF gives no first name).** From Lorenzo Asisara's account: believing a couple's infertility came from intentional
+  abortion, Olbes "insisted on inspecting a couples' genitals," and when the woman resisted "ordered that
+  she be flogged and hold a wooden baby doll in front of the mission church for nine days; her husband
+  was also shackled and made to present in front of the church wearing horns." (E82, citing Castillo
+  1989 and Jackson and Castillo 1995.) **Do not write a first name for Olbes unless a second source
+  gives it.**
+- **Father Zalvidea, Mission San Gabriel** (first name not given in the MPDF): "punished women for
+  stillbirths by shaving their head, forcing them to carry a wooden baby doll, flogging them, and placing
+  them in iron ankle cuffs for three months" (E82, citing Lorimer 2016). The MPDF's context: introduced
+  diseases "caused reduced fertility and women to miscarry," and some missionaries believed "all
+  infertility and miscarriages were intentional." (E82.)
+- **The population count.** Cook's estimate for California before 1769 is 310,000, plus or minus ten
+  percent. **Cook estimates that by 1845 the Native population had dropped by roughly half, to no more
+  than 150,000.** (E82, citing Cook 1976b.) That is all Native Californians, not only mission people.
+- **The Chumash War, 1824**, "the largest organized revolt in California during the Mission Period"
+  (E132). Leaders at Santa Inés, La Purísima and Santa Bárbara planned it for months. It began a day early,
+  on **21 February 1824** at Santa Inés, after soldiers **whipped a Native man from La Purísima who was
+  visiting an imprisoned relative**. The Chumash attacked soldiers and burned mission buildings. The next
+  day troops from the Santa Bárbara presidio burned the adobe houses where the rebels camped. **Up to
+  nineteen Ineseños and one Mexican soldier died** at Santa Inés. At Santa Bárbara the Chumash alcalde
+  **Andrés Sagimomatsee** called people to arms; at least two Chumash were killed and four soldiers
+  wounded; **over 1,000 people** from the mission took refuge in Yokuts country, about fifty went home to
+  Santa Cruz Island. At La Purísima, led by **Pacomio**, rebels held the mission nearly a month; one
+  Chumash and four settlers were killed in the takeover. In **March** troops retook it: **16 Chumash
+  killed**, many wounded, one soldier dead. **Seven Chumash were executed for the killing of the four
+  settlers; four leaders got ten years' prison then exile; eight got eight years.** After four months the
+  government pardoned those who had fled. (E132-133.)
+- **Estanislao and Cipriano, 1828-1829.** Hundreds of Yokuts people left Missions San José and Santa Clara
+  under **Estanislao** and **Cipriano**, both mission leaders, and built a fortified village in the tule
+  marshes of the San Joaquin River. The Mexican authorities "sent the military, Indian auxiliaries, and
+  armed settlers"; the rebels "were eventually defeated in a bloody battle." Estanislao, a former alcalde
+  at San José, negotiated a pardon. **The MPDF gives no death count and names no commander.** (E133.)
+- **Yozcolo, 1839, Mission Santa Clara.** He freed the young women held in the mission's *monjerío* (the
+  locked dormitory for unmarried girls and women) and fled to the hills. Soldiers and auxiliaries from
+  Santa Clara defeated him, and "colonial authorities displayed his severed head outside the mission
+  church." (E133-134; the MPDF says "few details survive.")
+- **How the missions ended: secularization.** Secularization means taking the missions away from the
+  Franciscan friars and turning them into ordinary parish churches, with the land and livestock divided.
+  Mexico won independence in 1821. **1826:** Governor **José María Echeandía** began conditional
+  emancipation of some baptized Native people (Christians for at least fifteen years, adult, preferably
+  married, able to support themselves). Native petitioners wrote of *libertad* and called the freed
+  *gente libre*. Example: **Vicente Juan and Gaspar of Mission Soledad, 1827**: "From your generous
+  goodness, we solicit our freedom." **1833:** Governor **José Figueroa**'s emancipation steps, then the
+  Mexican Congress's decree secularizing the missions. **1834:** Figueroa's Provisional Rules for
+  secularization. The non-Native administrators "often used similar measures of social control as the
+  Franciscans, including corporal punishment." At most missions "colonists obtained control of most land
+  and supplies." Native people were barred from selling the land or livestock they got, and the rules
+  "did not acknowledge Native people's rights to their ancestral homelands." **1845:** final
+  secularization act. (E63-64 and timeline.)
+- **Whose land:** the MPDF's Table 3 (in the era-5 PATCH) names each mission's Native homeland; for this
+  era add **Yokuts** (San Joaquin Valley) as the people conscripted into the coastal missions in the 1810s
+  (E132).
+- **Shared with `native-nations`**, which may want the revolts as resistance (parking note in checkpoint).
+  Religion's angle: friars, as the religious authority, ordered and carried out these punishments.
+
+### PATCH 2026-09-27 (T-260b): who led the Haun's Mill attack, and the violence on both sides in Missouri in 1838
+
+**Jackson County, 1833 (the first expulsion).** The "Old Settlers" feared the Saints would "dominate the
+county politically and economically," objected to their "peculiar religious beliefs," and were angered by
+an article in the church newspaper about "free black converts to Missouri, a slave state." **On 20 July
+1833** vigilantes attacked the church printing office, "throwing the press out the window, scattering the
+type in the street," and **tarred and feathered Edward Partridge, bishop of the Church in Missouri, and
+Charles Allen** on the public square. In early November 1833 mobs drove the Saints out; on **4 November
+"three people were killed, one of whom was a member of the Church."** Most fled across the Missouri River
+to Clay County. (Church of Jesus Christ of Latter-day Saints, Church History Topics, "Jackson County
+Violence," https://www.churchofjesuschrist.org/study/history/topics/jackson-county-violence?lang=eng ;
+label: the church's own history site.) The Missouri State Archives: "Violence broke out in 1833 as the 'Old
+Settlers' under the guise of 'extra-legal' justice took the law into their own hands." (sos.mo.gov, as §6e.)
+- **Tarring and feathering, defined (clinical-word rule):** the victim was held down, stripped, and
+  covered in heated pine tar (heated "into a pourable black paste"), then in feathers that stuck to it.
+  Skin "often became burned and blistered or peeled off when solvents were used to remove the remnants."
+  (Smithsonian Magazine, "The Worst Parade to Ever Hit the Streets of Boston" and "In 1919, a Mob in Maine
+  Tarred and Feathered Two Black College Students," https://www.smithsonianmag.com/history/the-worst-parade-to-ever-hit-the-streets-of-boston-12934258/
+  (unconfirmed: search summary only; the quoted phrases came from the search result, page not opened).)
+  The church page does not describe Partridge's own injuries, so the prose states the act and the general
+  method only.
+
+**1838: violence on both sides, and the Missouri State Archives says so.** "Old Settler mobs and Mormon
+paramilitary units roamed the countryside." (Missouri State Archives, as §6e.) The church's own history
+site: "some Latter-day Saint men organized a vigilante group known as the Danites"; **Mormon forces raided
+Gallatin and Millport in mid-October 1838, burning and destroying property**; at **Crooked River (25
+October 1838)** the Mormons attacked a militia unit they took for a mob, and **one Missourian and two
+Church members died, one of them the apostle David W. Patten.** (Church History Topics, "Mormon-Missouri
+War of 1838," https://www.churchofjesuschrist.org/study/history/topics/mormon-missouri-war-of-1838?lang=eng .
+Date 25 October from Wikipedia "Battle of Crooked River" (unconfirmed: search summary only); the Archives
+place it just before Boggs's 27 October order.) General **Samuel D. Lucas** arrested Joseph Smith and
+other leaders near Far West on **31 October**; Smith was held at Liberty Jail and later escaped. (Same
+church page.)
+
+**Haun's Mill, 30 October 1838: who did it.**
+- **Leaders:** Colonel **Thomas Jennings** of Livingston County commanded the battalion; Captain
+  **Nehemiah Comstock** led one company. (Alma R. Blair, "The Haun's Mill Massacre," *BYU Studies* 13:1,
+  https://byustudies.byu.edu/article/the-hauns-mill-massacre .) Wikipedia adds **William O. Jennings**
+  (sheriff of Livingston County) and **William Gee** as the other two captains, and says the force was
+  about 240 men from Daviess, Livingston, Ray, Carroll and Chariton counties (unconfirmed: search summary
+  only). Blair gives **about 200 men.** Keep both figures.
+- **Time:** about 4 p.m. (Blair.)
+- **The dead: the count differs.** Missouri State Archives: **eighteen** men and boys. Blair and the
+  church history site: **seventeen**, "all men and boys, died that day or in the following weeks. One
+  woman was injured." Record both; the prose can say "seventeen or eighteen." The attackers had **three
+  men wounded**. (Blair.)
+- **How they were killed (Blair):** men shot through the cracks of the blacksmith shop where they had
+  taken cover; "some of the men were hacked to death by corn knives after they had been wounded";
+  **Thomas McBride** was "shot with his own rifle as he surrendered, and finally hacked." **Boys killed:
+  Sardius Smith, age 10, and Charles Merrick, age 9, who died of his wounds five weeks later.** Blair does
+  not name who shot Sardius Smith.
+- **Link to the governor's order:** "The 'Extermination Order' issued by Governor Boggs on 27 October was
+  now widely known" (Blair). The Missouri State Archives calls Haun's Mill an escalation "even without
+  official sanction." Keep both: the attack was not ordered by Boggs, and it came three days after his
+  order.
+- **Afterward:** Comstock's men occupied the mill for nearly three weeks, "harassing and plundering"
+  (unconfirmed: search summary only, Wikipedia). **No one was prosecuted** for Haun's Mill: see the
+  SEARCHED, NOT FOUND below.
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260b): was anyone ever tried for the Haun's Mill killings?
+Sources checked: Blair, *BYU Studies* 13:1 (no prosecution mentioned); Missouri State Archives Mormon War
+page (describes the attack as by "an organized mob," names no trial); church history topic page (no trial);
+Wikipedia "Hawn's Mill massacre" via search summary (no trial found).
+How the prose can say it: "No one was ever tried for the killings at Haun's Mill." (All four sources are
+silent on any trial; the prose may state no record of a trial exists.)
+
+### PATCH 2026-09-27 (T-260b): who killed Joseph Smith, and what happened to them
+
+- **About 100 men** attacked the Carthage jail. They were drawn from the **59th Regiment of the Illinois
+  militia, the Warsaw Independent Battalion and the Warsaw Rifle Company.** The militia guarding the jail
+  offered only "token resistance." A powder horn in the church's museum is inscribed "Warsaw Regulators,
+  The end of the Polygamist Joseph Smith kilt at Carthage Jail June 27, 1844." (Church History Museum,
+  "Who Killed Joseph Smith?" https://www.churchofjesuschrist.org/learn/history/sites/church-history-museum/collections/warsaw-regulators-powder-horn?lang=eng )
+- **Nine men were indicted in October 1844. Four fled and were never arrested. Five were tried in May
+  1845 and all five were acquitted:** **Thomas C. Sharp** (31), publisher of the anti-Mormon *Warsaw
+  Signal*; **Levi Williams** (34), colonel commanding the 59th Regiment; **Mark Aldrich** (42), land
+  developer and commander of the Warsaw Independent Battalion; **Jacob C. Davis** (31), a state senator
+  and commander of the Warsaw Cadets; **William N. Grover** (26), captain of the Warsaw Rifle Company.
+  The prosecutor **Josiah Lamborn** said of Davis: "I have no doubt in my own mind, not a particle, that
+  Davis cooperated in the murder, but there is no legal evidence to convict him." (Douglas O. Linder,
+  Famous Trials, University of Missouri-Kansas City, "Meet the Defendants in the Carthage Conspiracy
+  Trial," https://famous-trials.com/carthrage/1256-meetdefendants ; the church museum page names the same
+  five and says "no one was convicted for the murders.")
+- **Prose:** "Five men were tried for the killings in 1845, and the jury acquitted all five." The book
+  must not say who fired, because no court found it.
+
+### PATCH 2026-09-27 (T-260b): the Charlestown convent, 1834: the religious side of the attack
+
+`immigration`'s bank (PATCH T-238, "Nativist violence against Catholic immigrants, 1834 and 1844") already
+holds the mob, the ringleader John R. Buzzell, the 47 girls, the 13 arrested and 12 acquitted, the pardon,
+and the $10,000/$100,000 figures. **Religion's angle is the preaching and the convent stories.** Use that
+bank for the mob facts; do not re-research them.
+- **The convent:** Ursuline nuns (a Catholic teaching order of women) ran a convent school at Charlestown
+  (now part of Somerville) from **1819** on a 27-acre estate. (Wikipedia, "Six Months in a Convent" /
+  "Ursuline Convent riots," label: encyclopedia summary, via search summary.)
+- **Rebecca Reed**, born 1813 in Charlestown, an Episcopalian who attended Old North Church, entered the
+  Ursuline convent in **1832** and left after "just under six months." Her book *Six Months in a Convent*
+  was published in **March 1835**, after the fire; her stories had circulated before it. She died of
+  tuberculosis in 1839. (Mark Hurwitz, Old North Church blog, 4 May 2016,
+  https://oldnorth.com/blog/rebecca-reed-and-the-ursuline-convent/ ; Wikipedia for the 1835 date.)
+- **Sister Mary John (Elizabeth Harrison)**, a nun teaching at the school, left the convent on the
+  evening of **28 July 1834** after what Hurwitz calls a mental breakdown; **Bishop Benedict Fenwick**
+  persuaded her to return. Rumours spread that she was being held against her will. On **11 August** a
+  group of Charlestown selectmen toured the convent, guided by Sister Mary John. That night the mob burned
+  it. (Old North blog; Wikipedia "Ursuline Convent riots," label: encyclopedia.) Bishop's first name
+  "Benedict" is from general reference, (unconfirmed: not in the sources opened).
+- **The preacher.** Wikipedia: "On Sunday, August 10, Reverend [Lyman] Beecher preached anti-Catholic
+  sermons at three different Boston churches, in part railing specifically against Catholic schools set up
+  to educate Protestant children." **The historians disagree about his part:** Ira Leonard argues the
+  sermons "ignited the spark"; Ray Billington calls the timing "more coincidental," noting that the workmen
+  had met before the sermons. Beecher himself said the sermon was preached away from the scene and that
+  probably no rioter had heard it. (Wikipedia, "Ursuline Convent riots," notes 24, 38, 39. Label:
+  encyclopedia.) **Prose: state that Beecher preached against Catholic schools in Boston the day before,
+  and that historians disagree whether the sermons caused the attack.**
+- **The Mother Superior's words to the crowd** (Mary Edmond St. George, per immigration bank): "The Bishop
+  has twenty thousand of the vilest Irishmen at his command, and you may read your riot act till your
+  throats are sore, but you'll not quell them." (Wikipedia, note 29.) Use only with the label.
+- Fire companies "chose to stand by and simply watch." (Old North blog.)
+
+### PATCH 2026-09-27 (T-260b): religion used against slavery, in the words of a person enslaved (Douglass's appendix)
+
+The outline's era 6 has the religion used to defend slavery (Jones, Auld). The other side, from the same
+book: Frederick Douglass added an appendix to the *Narrative* (1845) to say he was not against religion
+but against "the slaveholding religion of this land." Quotes (Documenting the American South, UNC,
+https://docsouth.unc.edu/neh/douglass/douglass.html , Appendix, pp. 118-119):
+- "between the Christianity of this land, and the Christianity of Christ, I recognize the widest,
+  possible difference."
+- "I love the pure, peaceable, and impartial Christianity of Christ: I therefore hate the corrupt,
+  slaveholding, women-whipping, cradle-plundering, partial and hypocritical Christianity of this land."
+- "The man who wields the blood-clotted cowskin during the week fills the pulpit on Sunday."
+- "He who proclaims it a religious duty to read the Bible denies me the right of learning to read the
+  name of the God who made me."
+- "We have men sold to build churches, women sold to support the gospel, and babes sold to purchase
+  Bibles for the poor heathen!"
+- `rights-movements` owns organised abolition. This is the religious argument, in Douglass's words.
+
+### PATCH 2026-09-27 (T-260b): whose land, era 6 (Missouri, Nauvoo)
+
+- **Nauvoo** was the small town of Commerce, Hancock County, Illinois, bought by arriving Latter-day
+  Saints in late 1839 and renamed Nauvoo in April 1840; the land speculator **Isaac Galland** sold them
+  thousands of acres. The place had been a **Sauk and Meskwaki** (Sac and Fox) settlement called
+  Quashquema after the Sauk chief **Quashquame**, who signed the **1804 Treaty of St. Louis** ceding the
+  land between the Mississippi and Illinois Rivers to the United States; the Sauk and Meskwaki said the
+  chiefs had no authority to cede it and held the treaty invalid. (Wikipedia, "History of Nauvoo,
+  Illinois," "Quashquame," "Treaty of St. Louis (1804)" (unconfirmed: search summary only).)
+- **Missouri:** the sources opened do not say which nations held the Jackson and Caldwell County land
+  before white settlement. Not researched further; `native-nations` owns land cessions.
+
+### PATCH 2026-09-27 (T-260b): era 6 outline "firsts" and superlatives checked
+
+- **Finney "the most influential revival preacher in the country"** (story Who line): the bank supports
+  that his *Lectures on Revivals* "became a handbook for American revivalists" (§6i) but no source here
+  calls him the most influential. **Unsupported superlative: writer should state the handbook fact
+  instead.**
+- **Nauvoo "one of the largest towns in the state"** (Joseph Smith story): not in any source in this bank.
+  **Unsupported: drop it or source it.**
+- **"The largest of them, in 1826 and 1827" (the six societies):** supported, LOC rel07 (§6c).
+- **Philadelphia 1844 death totals:** the outline says no reliable total. `immigration` bank records the
+  counts by source (May: at least 14 / 20; July: four militia plus about a dozen / at least 15 / two
+  soldiers plus at least 12). The writer can give those ranges with their sources.
+- **"Brigham Young planned an evacuation of about 15,000"**: supported, NPS (§6e).
+
+### PATCH 2026-09-27 (T-260b): verified stories in era 6 checked line by line against the bank
+
+- **`charles-grandison-finney`:** every fact in the block is in §6i except the Who-line superlative
+  (above). Pass.
+- **`joseph-smith`:** four lines in the block are NOT in the bank:
+  1. "there was said to be nothing left to burn": LOC says only "scorched" by revivals (rel07, re-read
+     2026-09-27). **Unsupported: use "scorched".**
+  2. "an angel had shown him gold plates buried in a hillside": LOC says "revelations on a series of gold
+     plates, which he translated." No angel or hillside in any source in this bank. **Unsupported: cut or
+     source.**
+  3. "Christ appearing to their descendants here": **now supported.** Missouri State Archives: the Book of
+     Mormon is the church's "companion scripture to the Bible wherein the story of Jesus appearing to the
+     ancestors of the Native Americans was told" (https://www.sos.mo.gov/archives/resources/mormon.asp ,
+     re-read 2026-09-27). The same page: in 1831 Smith "proclaimed that God had designated western Missouri
+     as the place where 'Zion' would be 'gathered'," and in 1830 sent missionaries to preach to Native
+     nations on Missouri's western border.
+  4. "one of the largest towns in the state": unsupported (above).
+  - LOC also states: "In 1844 the Nauvoo settlement was devastated by its neighbors, and Smith and his
+    brother were murdered" (rel07). The Carthage PATCH above adds the killers and the acquittals, which
+    the story block should carry.
+
 ---
 
 ## ERA 7 — 1850 to 1900 (`state="full"`)
@@ -2403,6 +2664,128 @@ documentation no single congregation's founding gives — and they carry the men
   https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/ )
   contain them, but loc.gov's collection search is Cloudflare-blocked from this environment and no
   narrator could be named with a citation. **Nothing was quoted from it.**
+
+### PATCH 2026-09-27 (T-260b): Mountain Meadows, 11 September 1857: the killers named
+
+Era 7 of the outline has no Latter-day Saint material after the exodus. This is the chapter's hardest
+Mormon fact and it runs the other way from era 6: church members killing others.
+- **Victims:** the **Baker-Fancher** wagon train, mostly from **Arkansas**, bound for California, camped at
+  Mountain Meadows, about 35 miles southwest of Cedar City, Utah Territory. **About 120 killed; only 17
+  children aged six and under were spared.** (Church of Jesus Christ of Latter-day Saints Newsroom,
+  "Background on the Mountain Meadows Massacre,"
+  https://newsroom.churchofjesuschrist.org/article/mountain-meadows-massacre ; Linder gives "seventeen or
+  eighteen" children under seven.)
+- **Who did it:** "local militiamen," members of the church, "with American Indian allies" (Paiutes). The
+  church names **Isaac Haight, John D. Lee, William Dame, John Higbee and Philip Klingensmith**, who "held
+  both church and civic/military positions." (Newsroom.) Their posts (Linder): **Isaac Haight**, president
+  of the Cedar City Stake (the regional church leader) and second-in-command of the Iron County militia
+  brigade; **William Dame**, colonel commanding the southern Utah militia; **John Higbee**, major commanding
+  at the Meadows. Wikipedia counts 50 to 60 militiamen (unconfirmed: search summary only).
+- **How:** the attack began 7 September, by Paiutes and by "Mormons disguised as Indians." On 11 September
+  **John D. Lee and William Bateman came under a white flag**, promising safe passage if the emigrants gave
+  up their guns. The men were walked out in single file, each beside an armed militiaman. **Higbee called
+  "Halt! Do your duty!" and each guard shot the man beside him.** On the other side, **Nephi Johnson**
+  (spelled "Nelphi" in the page) ordered the killing of the women and older children. (Douglas O. Linder,
+  Famous Trials, UMKC, "The Mountain Meadows Massacre of 1857 and the Trials of John D. Lee: An Account,"
+  https://www.famous-trials.com/mountainmeadows/936-home ; the flag of truce is also in the church
+  Newsroom.)
+- **Why, as the sources give it:** the Utah War (federal troops marching on Utah in 1857), the killing of
+  the apostle Parley Pratt in Arkansas that spring, and the church's 1856 "Reformation" preaching (Linder).
+- **Brigham Young's part: the sources disagree, record both.** The church (Henry B. Eyring, 2007): "the
+  message conveying the will and intent of Brigham Young not to interfere with the immigrants arrived too
+  late," and responsibility lay with "local leaders." Linder reports that Young afterward "reportedly"
+  said, "It is all right. The only fear I have is from traitors." Wikipedia: evidence whether Young
+  ordered it "is conflicted" (search summary). **Prose must not say Young ordered it, and must not say he
+  was cleared.**
+- **Punishment:** nine men indicted; **only John D. Lee was convicted.** First trial 1875: hung jury (eight
+  Mormon jurors for acquittal, three non-Mormons for conviction, per Linder). Second trial: an all-Mormon
+  jury convicted him of first-degree murder on 20 September 1876. **He was shot by firing squad at Mountain
+  Meadows on 23 March 1877.** (Linder; church Newsroom confirms the execution.)
+- **The church's statement, 11 September 2007** (Eyring): "profound regret," and the massacre was "a
+  terrible and inexcusable departure from Christian teaching and conduct." (Newsroom.)
+- **Shared with `crime-justice` / `migration`?** Grep of outlines found no chapter telling it. Religion
+  can own it. Parked note in checkpoint for `native-nations` (the Paiutes blamed; their role).
+
+### PATCH 2026-09-27 (T-260b): Reynolds v. United States (1879): the government may punish a religious practice
+
+- **George Reynolds**, a Latter-day Saint in Utah Territory, was convicted of bigamy (he married Amelia
+  Jane Schofield while his wife Mary Ann Tuddenham was living). Sentence: **two years' imprisonment at hard
+  labor and a $500 fine.** He argued his religion required plural marriage. **Chief Justice Morrison Waite**
+  (first name general reference) wrote for the Court (October Term 1878): "Laws are made for the
+  government of actions, and while they cannot interfere with mere religious belief and opinions, they may
+  with practices." To excuse a crime for religious belief "would be to make the professed doctrines of
+  religious belief superior to the law of the land, and in effect to permit every citizen to become a law
+  unto himself." The opinion also quotes Jefferson's "wall of separation between church and State."
+  (*Reynolds v. United States*, 98 U.S. 145, U.S. Reports scanned by LOC,
+  https://tile.loc.gov/storage-services/service/ll/usrep/usrep098/usrep098145/usrep098145.pdf , pp. 145,
+  161-167.) Decision date commonly given as 5 January 1879 (unconfirmed: not printed on the pages read).
+- `rights-movements` already tells the Edmunds-Tucker Act of 1887 as the removal of Utah women's vote.
+  `government-politics` may own the case as law. Religion's angle: the first time the Court drew the
+  belief/practice line.
+
+### PATCH 2026-09-27 (T-260b): General Orders No. 11 (1862): the words, who was expelled, and who stopped it
+
+- **Issued 17 December 1862** by General Ulysses S. Grant: "The Jews, as a class violating every regulation
+  of trade established by the Treasury Department and also department orders, are hereby expelled from the
+  department within twenty-four hours from the receipt of this order." (Jonathan D. Sarna, Brandeis
+  University, "When General Grant Expelled the Jews," JTA, 23 March 2012,
+  https://www.jta.org/2012/03/23/ny/when-general-grant-expelled-the-jews )
+- **At Paducah, Kentucky,** the order arrived eleven days later. **Cesar Kaskel** and "all the other known
+  Jews in the city" got papers to leave within twenty-four hours. Kaskel telegraphed Lincoln, went to
+  Washington, and saw him with Congressman John A. Gurley on **3 January 1863**. Lincoln had General-in-Chief
+  **Henry Halleck** countermand the order, on **4 January 1863** (date from History.com and Wikipedia,
+  unconfirmed: search summary only). (Sarna.) **No source opened gives how many people were expelled.**
+- Grant left the order out of his *Personal Memoirs*; in 1868 he wrote that he did not sustain it (Sarna).
+
+### PATCH 2026-09-27 (T-260b): the Ghost Dance: Wovoka's teaching in a primary record, and who called in the troops
+
+**This replaces the search-summary basis of §7d with a primary source for the teaching.** James Mooney,
+*The Ghost-Dance Religion and the Sioux Outbreak of 1890*, Fourteenth Annual Report of the Bureau of
+Ethnology, part 2 (Washington: Government Printing Office, 1896), archive.org
+`ghostdancesioux00moonrich` (djvu text read 2026-09-27).
+- **The "Messiah Letter,"** Wovoka's message written down by a young Arapaho, Casper Edson, for a
+  delegation (Mooney's "free rendering," p. 781): "You must not hurt anybody or do harm to anyone. You must
+  not fight. Do right always." "Jesus is now upon the earth... The dead are all alive again." "Do not refuse
+  to work for the whites and do not make any trouble with them until you leave them." Dance "every six
+  weeks," make a feast, bathe. It signs off as "I, Jack Wilson" (Wovoka's English name).
+- **The Lakota version was different, and Mooney records it:** on the last day of October 1890 **Short
+  Bull** told a gathering near Pine Ridge that because "the whites were interfering so much in the
+  religious affairs of the Indians" he would bring the great change forward, and that they "must dance
+  even though troops should surround them, as the guns of the soldiers would be rendered harmless and the
+  white race itself would soon be annihilated." (Mooney, p. 849.) **This settles §7d's "two versions"
+  point with a primary source.**
+- **Who called for troops.** The Pine Ridge agent **Daniel F. Royer**, appointed October 1890, reported on
+  **12 October** that more than half of his 6,000 people were dancing and suggested calling the military.
+  General **Nelson Miles** (first name general reference) told him the excitement would die out. On
+  **30 October** Royer wrote that 600 or 700 troops were needed; on **15 November** he telegraphed "that the
+  Indians were wild and crazy and that at least a thousand soldiers were needed." The Indian Office
+  referred it to the War Department. The Lakota called Royer "Young-man-afraid-of-Indians." (Mooney,
+  pp. 848-849.) John Koster (*Wild West* magazine, December 2010, HistoryNet) quotes the telegram as
+  "Indians are dancing in the snow and are wild and crazy" and dates it 18 November; Mooney's 15 November
+  is the primary date. President **Benjamin Harrison** on 13 November 1890 ordered a "body of troops
+  sufficiently large to be impressive" (unconfirmed: search summary only). "Within a week, half the U.S.
+  Army was converging on the Sioux reservations" (Koster; magazine).
+- **The Mooney wax-cylinder recordings (1894)** remain unconfirmed: blogs.loc.gov is Cloudflare-blocked by
+  both WebFetch and curl. Do not use in prose.
+- `native-nations` leads on Sitting Bull's killing and Wounded Knee.
+
+### PATCH 2026-09-27 (T-260b): anti-Catholic violence after 1850 (pointer) and era 7 checks
+
+- **Louisville "Bloody Monday," 6 August 1855** (Know-Nothing mobs, at least 22 dead by the Kentucky
+  Historical Society marker, the St. Martin of Tours church threatened): fully in `research/research-immigration.md`,
+  PATCH T-238. Religion's era 7 can cite it as the anti-Catholic violence behind the school fight; do not
+  re-research. Know-Nothings defined there.
+- **Era 7 "firsts" checked:** Maimonides College "first rabbinical school" and Etz Chaim "first yeshiva"
+  are LOC's own words (§7c): supported. "Oldest continuously used Chinese temple in California": California
+  State Parks (§7h): supported. **"When the government wanted to know what those four million people
+  wanted, it sent for their ministers"** (era zoom) is an inference from one meeting (§7f); writer should
+  keep it to the Savannah meeting. **"That list stayed in force until 1978"**: UND says "legally
+  enforceable until" 1978 (§7d): supported with that wording.
+- **Boarding schools (§7e):** actors named (churches by denomination, commissioners), counts sourced to
+  DOI 2024. No gap.
+- **Story `garrison-frazier` checked line by line against §7f:** every fact present (age 67, Granville
+  County, $1,000 in gold and silver, 35 years, the four quotes, all agreed, Sherman left the room, Field
+  Orders No. 15 four days later). Pass. The era-7 zoom's roster (Campbell, Cox, Porter, Godfrey) is in §7f.
 
 ---
 
@@ -2769,6 +3152,164 @@ https://home.nps.gov/people/black-elk.htm**
 - **2017** — the Roman Catholic **Diocese of Rapid City** opened his cause for sainthood.
 - **No film verified.** `movie=""`. *Black Elk Speaks* is a book, and a stage play was made from it; no
   film could be confirmed, so no Movie line.
+
+### PATCH 2026-09-27 (T-260b): Leo Frank, 1913 to 1915: an attack on a Jewish man, and who lynched him
+
+The outline's era 8 has no antisemitism at all. No other outline tells Leo Frank (grep, 2026-09-27).
+- **The marker text (Georgia Historical Society, erected 2008 with the Jewish American Society for
+  Historic Preservation and Temple Kol Emeth, Marietta):** "Near this location on August 17, 1915, Leo M.
+  Frank, the Jewish superintendent of the National Pencil Company in Atlanta, was lynched for the murder of
+  thirteen-year-old Mary Phagan, a factory employee. A highly controversial trial fueled by societal
+  tensions and anti-Semitism resulted in a guilty verdict in 1913. After Governor John M. Slaton commuted
+  his sentence from death to life in prison, Frank was kidnapped from the state prison in Milledgeville and
+  taken to Phagan's hometown of Marietta where he was hanged before a local crowd. Without addressing guilt
+  or innocence, and in recognition of the state's failure to either protect Frank or bring his killers to
+  justice, he was granted a posthumous pardon in 1986."
+  (https://www.georgiahistory.com/ghmi_marker_updated/leo-frank-lynching/ )
+- **Lynching** defined for the prose: a killing by a mob, without a trial. (Plain definition; `crime-justice`
+  owns lynching as a subject.)
+- **Who:** "twenty-five prominent citizens of Marietta, identifying themselves as the Knights of Mary
+  Phagan"; some of them took part in the Stone Mountain ceremony that started the second Klan (New Georgia
+  Encyclopedia, "Leo Frank Case," https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/ ).
+  They drove him about 100 miles to an oak grove near Marietta and hanged him (History.com via search
+  summary, unconfirmed). **Names of lynchers** (published decades later from a list compiled by Marietta
+  residents): **former Georgia governor Joseph Mackey Brown; Eugene Herbert Clay, former mayor of Marietta
+  and president of the Georgia Senate; E. P. Dobbs, then mayor of Marietta; Moultrie McKinney Sessions,
+  lawyer and banker** (Wikipedia, "Leo Frank" / "Joseph Mackey Brown" (unconfirmed: search summary only)).
+  **Do not name them in prose until a source that can be opened confirms the list** (Steve Oney, *And the
+  Dead Shall Rise*, 2003, is the usual source). No one was ever tried (marker: the state failed "to bring
+  his killers to justice").
+- **The antisemitism:** crowds outside the courthouse cheered the prosecutor; press coverage was "much of
+  it anti-Semitic in tone." **Tom Watson**, publisher of *The Jeffersonian*, campaigned against Frank and
+  against commutation, and "his open rants against Jews generally and Frank particularly sent his
+  readership soaring." Frank was a member of The Temple, Atlanta's Reform congregation. "No Jew ran for
+  office for over two decades after the Frank lynching." (The Temple, Atlanta, "The Lynching of Leo Frank,"
+  https://www.the-temple.org/leo-frank ; congregation's own history page.) The New Georgia Encyclopedia:
+  the case "struck fear in Jewish southerners, causing them to monitor their behavior in the region closely
+  for the next fifty years."
+- **The Anti-Defamation League:** The Temple says it was founded "in the wake of the lynching"; the New
+  Georgia Encyclopedia says the case "inspired the formation" of it. **CORRECTION NOTE:** the ADL was
+  founded in **1913** (first organizational meeting October 1913, Chicago, by the lawyer Sigmund
+  Livingston with B'nai B'rith sponsorship), before the 1915 lynching. The ADL itself says the idea
+  "preceded the case" and the trial "served as confirmation" that American Jews needed such a body (ADL,
+  "Our History," https://www.adl.org/who-we-are/history , via search summary, unconfirmed). **Prose must
+  not say the case or the lynching caused the ADL's founding.**
+- **Frank's guilt:** the marker and the pardon do not decide it. The prose must not either; it states
+  the conviction, the commutation, the kidnapping and hanging, and the pardon "without addressing guilt or
+  innocence."
+
+### PATCH 2026-09-27 (T-260b): the second Ku Klux Klan's religious language
+
+The outline's era 8 names the Klan only as the sponsor of Oregon's 1922 school law. Its religious identity:
+- **Founding as a religious ritual:** "On Thanksgiving evening in 1915, [William J.] Simmons and sixteen
+  other members ... ascended Stone Mountain, ignited a flaming cross, and proclaimed the rebirth of the
+  Knights of the Ku Klux Klan." Membership was restricted to "white American-born Protestant men," and
+  anti-Catholicism and antisemitism were among its core tenets. **By 1924 an estimated 5 million members**;
+  in Georgia about 156,000 in 1925, 1,400 in 1930. (New Georgia Encyclopedia, "Ku Klux Klan in the
+  Twentieth Century," https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-in-the-twentieth-century/ )
+- **How the Klan used Protestant worship (Kelly J. Baker, historian, author of *Gospel According to the
+  Klan: The KKK's Appeal to Protestant America, 1915-1930*, University Press of Kansas, 2011):** members
+  had to be "white and male but also Christian"; the order used "white robes and masks, elaborate
+  initiation ceremonies, burning crosses and altars draped with the American flag." **Robed Klansmen gave
+  money to revival preachers in the middle of services: the evangelist Billy Sunday got $50 and a letter
+  from Klansmen in Indiana, and the evangelist George Wood in Spokane, Washington, $50 from two robed
+  Klansmen** (*Idaho Daily Statesman*, 17 March 1922). **The Federal Council of Churches condemned the Klan**
+  (*Savannah Tribune*, 12 October 1922). (Baker, "Religion and the Rise of the Second Ku Klux Klan,
+  1915-1922," Readex blog, 2 September 2011, https://www.readex.com/blog/religion-and-rise-second-ku-klux-klan-1915-1922-kelly-j-baker .)
+- Baker's thesis (University Press of Kansas description, via search summary): the Klan based its hatred
+  on a Protestantism "that resonated with mainstream Americans" and used burning crosses and robes "to
+  explicitly exclude Jews and Catholics" (unconfirmed: search summary only).
+- `rights-movements` / `crime-justice` own Klan violence against Black Americans. Religion's angle: a
+  mass movement that called itself Protestant, used worship forms, and targeted Catholics and Jews.
+
+### PATCH 2026-09-27 (T-260b): Jehovah's Witnesses, 1940: attacked for refusing to salute the flag
+
+No outline tells this (grep, 2026-09-27). Religious persecution with actors and counts.
+- **Why:** Witnesses believed saluting the flag "was tantamount to paying homage to a graven image" (bowing
+  to an idol, which the Bible forbids). In *Minersville School District v. Gobitis* (1940), 8 to 1, the
+  Supreme Court upheld the expulsion of **Lillian and William Gobitas** (a court clerk misspelled the name
+  "Gobitis") from a Pennsylvania public school for refusing. (Alex Aichinger, First Amendment Encyclopedia,
+  Middle Tennessee State University, https://firstamendment.mtsu.edu/article/minersville-school-district-v-gobitis/ .)
+- **What was done:** "Violence against the Jehovah's Witnesses, including beatings, destruction of Kingdom
+  Halls, and at least one castration, escalated after the Gobitis decision. The American Legion, in
+  particular, was linked to more than 100 vigilante episodes." (Jane G. Rainey, First Amendment
+  Encyclopedia, MTSU, "Jehovah's Witnesses," https://firstamendment.mtsu.edu/article/jehovahs-witnesses/ .)
+  The ACLU recorded **1,488 attacks on Witnesses in more than 300 communities, May to October 1940**;
+  Justice Department filings showed **335 instances of violence against nearly 1,500 Witnesses** that year
+  (both unconfirmed: search summary only). A mob burned the Kingdom Hall at **Kennebunk, Maine, on 9 June
+  1940** (Historical Society of Pennsylvania photograph record, via search summary, unconfirmed). At
+  **Litchfield, Illinois**, a mob wrecked Witnesses' cars and the town jailed all 60 Witnesses there
+  (NewseumED, via search summary, unconfirmed).
+- **Richwood, West Virginia, 29 June 1940 (the best-sourced case):** Deputy Sheriff **Martin Catlette** and
+  Police Chief **Bert Stewart** detained seven Witnesses whose patriotism the local American Legion had
+  questioned. **Four were forced to drink castor oil**, and all seven were marched through a jeering crowd
+  to the post office, where they refused to salute. In 1942 the U.S. District Court in Charleston convicted
+  Catlette and Stewart of violating their civil rights; the Fourth Circuit upheld Catlette's conviction. It
+  was "the only federal conviction out of hundreds of brutal assaults on Jehovah's Witnesses" in 1940.
+  (West Virginia Public Broadcasting, "June 29, 1940: Jehovah's Witnesses Detained in Richwood,"
+  https://www.wvpublic.org/radio/2020-06-29/june-29-1940-jehovas-witnesses-detained-in-richwood ; label:
+  public broadcaster's history feature.) **Who poured the oil differs:** WVPB says the officers forced it;
+  a search summary of the same story says the Legionnaires did. Prose: "they were forced to drink castor
+  oil" with the two officers named as those who held them.
+- **Castor oil, defined (clinical-word rule):** a stimulant laxative, a drug that makes the bowels empty.
+  Its active part, ricinoleic acid, makes the small intestine pour out fluid; the adult dose is 1 to 4
+  tablespoons and it acts in 6 to 12 hours. (National Library of Medicine, PMC3384204 and DailyMed castor
+  oil labels, via search summary, unconfirmed.) Forcing a large dose made the person lose control of the
+  bowels. **Do not state the Richwood dose; no source gives it.**
+- **Reversal:** *West Virginia State Board of Education v. Barnette* (1943), 6 to 3, brought by three
+  Kanawha County, West Virginia, Witness families whose children had been expelled. Justice Robert Jackson:
+  "If there is any fixed star in our constitutional constellation, it is that no official, high or petty,
+  can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or
+  force citizens to confess by word or act their faith therein." (Rainey, MTSU; e-WV, Chuck Smith,
+  "Jehovah's Witnesses," https://www.wvencyclopedia.org/entries/962 .) Decision date 14 June 1943 (general
+  reference; unconfirmed here). `government-politics` / `education` may hold *Barnette* as law; check before
+  writing.
+
+### PATCH 2026-09-27 (T-260b): conscientious objectors: the Hofer brothers (from `war`'s parked pointer)
+
+Full sourced text in `research/research-war.md`, PATCH T-259b "conscientious objectors in both world wars."
+Key facts for religion's angle (source: Duane Stoltzfus, Goshen College, "The Martyrs of Alcatraz,"
+*Plough*, 28 July 2014, https://www.plough.com/en/topics/faith/anabaptists/the-martyrs-of-alcatraz , as
+cited by `war`): **David, Joseph and Michael Hofer and Jacob Wipf**, Hutterites (a Christian pacifist
+community) from Rockport Colony, South Dakota, drafted 1918, refused uniforms and military orders for
+their faith; court-martialed at Camp Lewis, 20 years; Alcatraz from 25 July 1918, solitary in the
+basement, half a glass of water a day at first, chained standing to the bars with only toes touching
+("high cuffing"); moved in chains to Fort Leavenworth 19 November 1918; **Joseph died 29 November and
+Michael 2 December 1918**; Joseph's body was dressed in the uniform he had refused; on 6 December 1918
+Secretary of War Newton Baker ended the chaining of prisoners to cell bars. World War II: about 43,000
+registered COs, more than 4,400 of the roughly 6,000 imprisoned were Jehovah's Witnesses (National WWII
+Museum, via `war`). **Story candidate for religion era 8, unless `war` takes it: the director decides.**
+Movie: none checked.
+
+### PATCH 2026-09-27 (T-260b): era 8 outline claims checked
+
+- **"one of the first congregations in the country where Black and white people worshipped together
+  under a Black pastor"** (Azusa): UW PCAD's wording "one of the first" (§8d): supported.
+- **"That was the first time the federal government had ever written down that Native religion was to be
+  protected"** (Collier): Irwin calls it "the federal government's first policy statement protecting Native
+  religious rights" (§8g): supported with Irwin named.
+- **"Every church school in the country still stands on that ruling"** (Pierce): no source in the bank says
+  this. **Unsupported: rewrite as what the Court held, or source it.**
+- **"The Scopes trial ... It was not [religion against science]"**: this is the chapter's framing, backed
+  by the Mather and Metcalf statements (§8c). Keep it as a statement of what both sides argued, not as a
+  denial (style guide, Contrastive Negation).
+- **Aimee Semple McPherson "the first to incorporate Hollywood and vaudeville style"**: the NHL nomination
+  says so; the outline does not use the "first," good.
+- **Hard subject check, era 8:** Native worship punished (§8g, named agents Stinchecum, Burke) complete;
+  Oregon school law (Klan, counts) complete; added Leo Frank, Klan religion, Jehovah's Witnesses, Hofers.
+  Coughlin's antisemitic radio preaching (1930s) not researched; a later pass may add it.
+- **Stories checked line by line against the bank:**
+  - `william-j-seymour` (§8d-8e): all facts present (born 2 May 1870 Centerville; parents Simon and Phyllis;
+    Parham's hallway, Houston 1905; Julia Hutchins; locked out; 9 April 1906; *Apostolic Faith* from
+    September 1906, about 50,000; died 28 September 1922; mission to 1931; plaque words). Pass.
+  - `aimee-semple-mcpherson` (§8f): all facts present, including the Klan and the Florida meetings, the
+    5,300 seats, 1,500,000 meals, 3,000 graduates, the 1926 disappearance and the 10 January 1927 dismissal.
+    Pass. The block says "California charged her over the story"; §8f supports only that "the state's case
+    against her was dismissed." Writer should not say what the charge was.
+  - `nicholas-black-elk` (§8h): all facts present. "He did not treat the two as a choice" is the
+    outline's inference from NPS's "while keeping his standing among the Lakota" and the Lucy quote; writer
+    should state the facts, not the inference. "asked Rome to make him a saint": NPS says the diocese
+    "opened his cause for sainthood"; use that wording.
 
 ---
 

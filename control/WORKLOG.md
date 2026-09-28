@@ -2956,9 +2956,11 @@ CHECKPOINT: control/checkpoints/T-266-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage research
 
 ### 2026-09-27 | [LOCAL] T-260b | religion: bank check eras 6-8 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+RESULT: DONE. PASS  religion / research. measured: stage=RESEARCHED eras=10/10 stories=18 (v18 c0 t0) verify_tags=0 bank=55431w outline=22144w manuscript=0w validator_errors=0
+        291684 tokens, 99 tool uses, 11.9 min (opus). Eras 6-8 bank check (bank only, outline untouched). California missions 1800-48 (Quintana, Olbes, Zalvidea, 1824 Chumash War, Estanislao), Mormons in Missouri (Haun's Mill 17 or 18), Carthage 1844 (9 indicted, 5 acquitted), Charlestown convent, Douglass on religion and slavery, Nauvoo on Sauk and Meskwaki land, Mountain Meadows (~120; killers named; Lee executed), Reynolds 1879, Order No. 11, Ghost Dance from Mooney 1896, Leo Frank, second Klan, 1940 attacks on Jehovah's Witnesses. 1 searched-not-found; 4 unsupported outline lines flagged. TO PARK 8.
 
 ### 2026-09-27 | [LOCAL] T-261b | education: bank check eras 6-7 [BURST5] | model opus
 STATUS: DONE

@@ -1,13 +1,13 @@
 # CHECKPOINT T-260 | religion | bankcheck | T-260a: eras 1-5
 
-STATUS: T-260r landed (director verified: PASS  religion / research)
+STATUS: T-260b landed (director verified: PASS  religion / research)
 VERIFY: python tools/project_state.py --check religion --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/religion.md · research/research-religion.md · workspace/religion.md
 
-NOW:    T-260r finished eras 1-5 (2026-09-27)
-NEXT:   Eras 6-10 agent: run the brief's bank check on eras 6-10 (`python tools/slice_bank.py religion --eras 6-10`). Start with the California missions after 1800 (the MPDF source in the ERA 5 PATCH already has Quintana 1812, Olbes and Zalvidea, the 1824 Chumash revolt, Estanislao 1828-29, secularization 1833-34), then the checkpoint's hard subjects (Mormons and the 1838 order, attacks on Catholics and Jews, Native religions and the 1978 Act, boarding schools, clergy abuse figures dated to 2026). Last agent checks every era's progress= flag.
+NOW:    T-260b finished eras 6-8 (2026-09-27)
+NEXT:   T-260c (eras 9-10): run the brief's bank check on eras 9-10 (`python tools/slice_bank.py religion --eras 9-10`). Hard subjects to test first: the 1978 American Indian Religious Freedom Act and the peyote/Smith 1990 and RFRA 1993 line (bank §9 has Smith and 108 Stat.); eagle-feather prosecutions after the 1940 Act; boarding-school apologies (bank §7e parked 2022-2024 items); clergy abuse figures dated and refreshed to 2026 (PA grand jury, John Jay); attacks on worshippers (Charleston 2015, Pittsburgh 2018, and any 2019-2026 attacks, with FBI hate-crime figures refreshed to the newest year); Coughlin was left for a later pass (era 8). Then check every era's progress= flag (all ten read researched on 2026-09-27) and run --stage research.
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -30,6 +30,11 @@ PASS  religion / research
 | 1 | bank check, eras 1-5 (the brief's five Find items, era by era) | done | eras 1-3 T-260a; eras 4-5 T-260r (see Log) |
 | 2 | check each verified story in eras 1-5 has its key facts in the bank | done | all 7 have bank sections (§2e, 3k, 3l, 4c, 4d, 5d, 5e); Allen 'first Black denomination' unsupported, PATCH end of ERA 5 |
 | 3 | final for your eras: validator, research check | done | validator 0 errors; --stage research PASS |
+| 4 | T-260b bank check era 6 (five Find items) | done | 7 PATCH + 1 SNF at end of ERA 6 (see Log) |
+| 5 | T-260b bank check era 7 | done | 5 PATCH at end of ERA 7 (see Log) |
+| 6 | T-260b bank check era 8 | done | 5 PATCH at end of ERA 8 (see Log) |
+| 7 | T-260b verified stories eras 6-8 have key facts in bank (Finney, Smith, Frazier, Seymour, McPherson, Black Elk) | done | all 6 have bank sections; 4 unsupported lines in joseph-smith, 1 in finney, 2 wording notes (McPherson charge, Black Elk) |
+| 8 | T-260b final: validator, research check, NEXT for T-260c | done | validator 0 errors; all 10 progress=researched; PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -54,6 +59,16 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 - `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.
 - `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
+
+## TO PARK (T-260b)
+- `native-nations`, era 6: California mission revolts 1812-1839 as resistance (Quintana's killers Lacah, Yaquenonsat, Yachacxi, Ules, Lino; Chumash War 1824 counts, 7 executed; Estanislao and Cipriano 1828-29; Yozcolo 1839, head displayed), and secularization 1826-45 (land to colonists). Religion bank PATCH T-260b end of ERA 6, MPDF E63-64, E81-82, E132-134.
+- `native-nations`, era 6: Nauvoo land: Sauk and Meskwaki, Quashquame, 1804 Treaty of St. Louis (search summary only; needs a source that opens). Religion bank end of ERA 6.
+- `native-nations`, era 7: Mooney 1896 (primary, archive.org ghostdancesioux00moonrich) gives Royer's troop requests (12 Oct: over half of 6,000 dancing; 30 Oct: 600-700 troops; 15 Nov: 'at least a thousand soldiers') and Short Bull's speech, p. 848-849. Could replace search-summary sourcing. Religion bank end of ERA 7.
+- `native-nations`, era 7: Mountain Meadows 1857: Paiute men took part alongside the militia, and the militia disguised themselves as Indians (Linder). Religion bank end of ERA 7.
+- `crime-justice`, era 8: Leo Frank lynching 17 Aug 1915 (GHS marker text; 25 'Knights of Mary Phagan'; no one tried; 1986 pardon). And Richwood, WV, 29 June 1940: Deputy Sheriff Martin Catlette and Police Chief Bert Stewart convicted 1942 of civil-rights violations (WVPB). Religion bank end of ERA 8.
+- `crime-justice`, era 6: Carthage 1844: 9 indicted, 5 tried and acquitted May 1845 (Linder, UMKC Famous Trials). Religion bank end of ERA 6.
+- `war`, era 8: religion bank now carries a pointer PATCH to war's Hofer text; director decides which chapter gets the story block.
+- `government-politics`, era 7: Reynolds v. United States, 98 U.S. 145 (belief vs practice), full cite in religion bank end of ERA 7.
 
 ## SALVAGE 2026-09-27 (T-260a killed by the usage limit, 12:50 reset)
 
@@ -383,6 +398,7 @@ Pages the killed agent fetched (316; re-read the useful ones rather than searchi
 - https://archive.org/advancedsearch.php?q=$q&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=year&rows=12&output=json
 
 ## Sources in hand
+- T-260b: MPDF re-read (era 6 pages E63-64, E81-82, E132-134); Mooney 1896 archive.org ghostdancesioux00moonrich (Messiah Letter p.781, Royer p.848-849); Reynolds 98 U.S. 145 (tile.loc.gov); Blair BYU Studies 13:1 (Haun's Mill); Linder famous-trials.com (Carthage defendants; Mountain Meadows); church Newsroom (Mountain Meadows) and Church History Topics (Jackson County, 1838 war); sos.mo.gov Mormon War page (curl works); Old North blog (Reed); docsouth Douglass appendix; JTA/Sarna (Order No. 11); GHS Leo Frank marker; The Temple Atlanta; NGE Leo Frank + KKK 20th c.; Readex/Baker; MTSU First Amendment Encyclopedia; WVPB Richwood. Blocked: history.nebraska.gov and blogs.loc.gov (Cloudflare).
 - California OHP / NRHP MPDF "Native Americans and the California Mission System, 1769-1848" (2023), https://ohp.parks.ca.gov/pages/1054/files/CA_Multiple_Native%20Americans%20and%20CA%20Mission%20System%20MPDF.pdf : whole mission period, eras 5-6 (punishments, ECPP counts, revolts, Table 2 dates, Table 3 homelands).
 - NMAI Native Knowledge 360, Source A (Fuster's 1775 letter). Palóu 1913 trans., archive.org franciscopalous03jamegoog.
 - Journal of Negro History 1 (1916), Gutenberg #13642: Clarke 1790 letter on Bryan (about fifty whipped; named magistrates); Liele letters.
@@ -404,3 +420,6 @@ Pages the killed agent fetched (316; re-read the useful ones rather than searchi
 - 2026-09-27 T-260r: era 4 landed (end of ERA 4): PATCH Apalachee 1704 (Moore, 50 English + 1,000 Creek, 13 of 14 missions, counts 1,400 / 'hundreds' / Moore's own 4,300+ with owners, torture described); PATCH John Ury hanged 29 Aug 1741 as a supposed priest, NY 1700 anti-priest law; PATCH land (Stockbridge 23,000 to 1,200 acres by 1774, tribal timeline); SEARCHED NOT FOUND on the individual perpetrators at Ayubale.
 - 2026-09-27 T-260r: era 5 landed (end of ERA 5): PATCH California missions 1769-1800 (MPDF: founding dates, homelands, coercion, flogging defined, stocks, Serra letters labelled, ECPP 85,840 baptisms / 59,538 deaths 1769-1834); PATCH Kumeyaay revolt 1775 (date 4-5 Nov, 600-1,000, 15 of 25 villages, grievances, Jayme, retaliation); PATCH Toypurina 1785 (story candidate); PATCH Gnadenhutten (Sterner); PATCH era-5 'firsts'; 2 SEARCHED NOT FOUND (Kumeyaay own words; retaliation count); 2 CORRECTION NOTEs in §5e2 (about fifty whipped, named magistrates; 575 = followers). Workspace note added.
 - 2026-09-27 T-260r: Units 2-3 done. validator 0 errors. PASS religion / research (bank=48179w).
+- 2026-09-27 T-260b: era 6 landed (end of ERA 6): PATCH California missions 1800-48 (MPDF: Quintana 1812 + 5 named killers, 16 tried/9 convicted; Olbes and Zalvidea punishments; Cook 310,000 to <=150,000 by 1845; Chumash War 1824 counts and 7 executed; Estanislao; Yozcolo; secularization 1826-45); PATCH Missouri 1833 + 1838 both sides, Haun's Mill leaders (Jennings, Comstock), 17 vs 18 dead, how killed; SNF no Haun's Mill trial; PATCH Carthage killers (about 100 men; 9 indicted, 5 tried and acquitted, named); PATCH Charlestown religious angle (Reed, Mary John, Beecher, historians disagree); PATCH Douglass appendix; PATCH land (Nauvoo, Sauk/Meskwaki, search summary); PATCH firsts (2 unsupported superlatives).
+- 2026-09-27 T-260b: era 7 landed (end of ERA 7): PATCH Mountain Meadows (Baker-Fancher, about 120 killed, 17 spared; Haight, Lee, Dame, Higbee, Klingensmith, Bateman, Nephi Johnson; Lee shot 23 Mar 1877; Young's role disputed, both sides recorded; church 2007 regret); PATCH Reynolds v. US 1879 (U.S. Reports); PATCH Grant's Order No. 11 text, Kaskel, Lincoln; PATCH Ghost Dance from Mooney 1896 primary (Messiah letter, Short Bull, Royer's requests 12 Oct / 30 Oct / 15 Nov); PATCH Bloody Monday pointer + era 7 firsts.
+- 2026-09-27 T-260b: era 8 landed (end of ERA 8): PATCH Leo Frank (GHS marker text, 25 'Knights of Mary Phagan', Tom Watson, lynchers' names held back as search-summary only, ADL 1913 correction); PATCH second Klan's religion (Stone Mountain 1915, Protestant-only, 5 million 1924, Klansmen paying revivalists, Baker); PATCH Jehovah's Witnesses 1940 (Gobitis 8-1, Richwood castor oil, Catlette and Stewart convicted 1942, Barnette 6-3); PATCH Hofer brothers from war bank (story candidate); PATCH era 8 claims (Pierce 'every church school' unsupported).

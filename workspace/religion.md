@@ -132,3 +132,10 @@ Companion files: outline `outlines/religion.md` · research bank `research/resea
 - How to describe Native spiritual traditions accurately without either flattening hundreds of nations or over-explaining beliefs that nations may not want published.
 - Religious refugees: the arrival belongs to `immigration`, the faith to us. That split cuts through the Pilgrims, who are a school-history staple. Confirm.
 - How much space for religion in politics after 1980 in a book for 8–15 readers?
+
+## T-260b bank check, eras 6-8 (2026-09-27): what the writers now have that the outline lacks
+
+- Era 6: California missions 1800-48 (no outline cell yet); Jackson County 1833; Haun's Mill leaders and 17/18 count; Carthage killers tried and acquitted; Charlestown convent (religious side); Douglass's appendix (religion against slavery).
+- Era 7: Mountain Meadows 1857 (killers named, Lee executed); Reynolds v. US; Order No. 11 text; Wovoka's Messiah Letter and Short Bull from Mooney 1896; Royer's troop requests.
+- Era 8: Leo Frank; the second Klan's religion; Jehovah's Witnesses 1940 (Richwood); Hofer brothers (story candidate, director to decide vs `war`).
+- Unsupported outline lines flagged in the bank (era PATCH "claims checked"): Finney "most influential"; Nauvoo "one of the largest towns"; Smith "angel ... hillside" and "nothing left to burn"; Pierce "every church school still stands on that ruling".
