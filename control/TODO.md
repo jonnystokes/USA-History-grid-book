@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-268c music (full research eras 8-9 (T-268d does era 10))
+NOW-RUNNING: T-269a storytelling-evolution (full research eras 1-5 [BURST])
 **ONE AT A TIME.** 32 of 37 chapters pass research (25 researched + 7 written).
 Left in step 1:
 - **art** eras 6-10 (T-267b; 83 [VERIFY], 19 candidates there: split 6-7 and 8-10).
