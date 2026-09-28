@@ -82,3 +82,10 @@ Companion files: outline `outlines/news-communication.md` · research bank `rese
 - The telegraph, telephone, radio, and internet all appear in `technology` too. The seed's rule: the invention there, what it did to knowing there-and-then here. Check the two chapters do not both narrate 1844.
 - How to handle misinformation and algorithms for 8–15 readers without being either preachy or vague.
 - Does the post office get its own thread (it is in the Constitution and it made rural life possible), or stay inside each era?
+
+## T-270b (2026-09-28), eras 6 to 8
+- Shared events and whose angle: Cherokee Phoenix and removal (`native-nations` the removal; here the press); Lovejoy, Garrison mob, Wells, Wilmington (`rights-movements` the campaigns; here the presses); McIntosh (`crime-justice`); Debs (`work-workers` story); Tarbell (`big-business` story, removed here); Sinclair (`food-farming` story); telegraph, telephone, radio, TV (`technology` the machines); camps (`war`, `immigration`, `rights-movements`).
+- Famous names present in eras 6-8: Garrison, Douglass, Boudinot, Lovejoy, Morse, Pulitzer, Hearst, Nellie Bly, Ida B. Wells, Tarbell, Steffens, Sinclair, Creel, Debs, Roosevelt (fireside chats), Welles, Murrow.
+- [VERIFY] queue for eras 6-8: empty.
+- Parked elsewhere: nothing (burst rule not in force; no other chapter's file was edited).
+- Open for round 2: Native papers after 1835, Spanish-language press after 1848, territorial presses, newsreels.

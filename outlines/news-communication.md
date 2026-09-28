@@ -242,58 +242,249 @@ He was held in the jail at Vergennes. He ran for Congress again from his cell, a
 <!-- hb-story:end slug="matthew-lyon" -->
 <!-- hb-time:end id="1750-1800" -->
 
-<!-- hb-time:start id="1800-1850" order="06" chapter="news-communication" label="1800 to 1850" state="full" progress="seed" -->
+<!-- hb-time:start id="1800-1850" order="06" chapter="news-communication" label="1800 to 1850" state="full" progress="researched" -->
 ## 1800 to 1850
 <!-- hb-zoom level="era" -->
-News gets cheap enough for anyone to buy, and then it gets faster than a horse.
+By the 1830s the United States had about 900 newspapers, and the 1850 census counted 2,526. Together they printed about half a billion copies a year for a population of about 23 million. From 1833 a New York printer sold a daily paper for one cent, when most daily papers cost six. From 1844 the telegraph carried news along a wire in minutes. Free Black New Yorkers started the first Black-owned newspaper in 1827, and the Cherokee Nation started the first Native American newspaper in 1828. People who defended slavery or wanted Cherokee land attacked these editors. Georgia's militia seized the Cherokee press, the Postmaster General let Southern postmasters hold back antislavery papers, and mobs wrecked presses and killed an editor.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the penny press and the telegraph" -->
-The penny press from 1833; the growth of the post; abolitionist papers, including Garrison's *Liberator* and Douglass's *North Star*, 1847 [VERIFY]; the telegraph, 1844, breaking the link between news and travel; foreign-language and Native-language newspapers, including the *Cherokee Phoenix*, 1828 [VERIFY].
+<!-- hb-zoom level="span" label="the last Sedition Act trials, 1800" -->
+The Sedition Act of 1798 was still the law in 1800. On 24 May 1800 a federal grand jury in Richmond, Virginia, charged the writer James Callender for a pamphlet called *The Prospect Before Us*, which attacked President John Adams. The jury found him guilty on 3 June, the same day the trial began. Justice Samuel Chase sentenced him to nine months in prison and a fine. The Federal Judicial Center's history gives the fine as $400 in one place and $200 in another. In Philadelphia the same year, Chase sentenced the writer Thomas Cooper to six months and a $400 fine. The act ended on 3 March 1801. Thomas After Thomas Jefferson became president in 1801, he pardoned Callender.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="frederick-douglass-publisher" name="Frederick Douglass" movie="" kind="famous" status="candidate" -->
-### Frederick Douglass
-Published his own newspaper, the *North Star*, after escaping slavery.
-<!-- hb-story:end slug="frederick-douglass-publisher" -->
-<!-- hb-story:start slug="elias-boudinot" name="Elias Boudinot" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="newspapers by mail, and who could carry it" -->
+Newspapers travelled through the post office. Under the Post Office Act of 1792, newspapers went by mail at very low rates, and editors mailed papers to each other for free. Small papers used these free copies as their source of news from far away. Indiana had one newspaper in 1810 and 73 by 1840. By 1831 the post office employed 76 percent of all the people who worked for the federal government. Postmasters outnumbered soldiers, 8,764 to 6,332.
+Letters cost much more than newspapers. From 1799 to 1815 a letter of one sheet cost 8 cents to send 40 miles and 25 cents to send more than 500 miles. A second sheet doubled the price. In 1845 postal officials began charging by weight, and in 1847 they introduced postage stamps.
+From 1802 to 1865, federal postal law required mail carriers to be "free white persons." Mail contractors who broke the rule were fined. For 63 years no Black American, free or enslaved, could legally carry the mail.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Freedom's Journal, the first Black-owned newspaper, 1827" -->
+In March 1827 a group of free Black New Yorkers met to start a newspaper. They chose Samuel Cornish, a Presbyterian minister, and John Brown Russwurm, one of the first Black Americans to graduate from a college in the United States, as editors. *Freedom's Journal* came out on 16 March 1827 from 5 Varick Street in Manhattan. It was the first newspaper owned and run by Black Americans. The first issue said, "We wish to plead our own cause. Too long have others spoken for us." The editors answered the attacks on Black people printed in other New York papers and wrote against slavery. The paper cost $3 a year and reached readers in 11 states, Washington, D.C., Canada, Europe and Haiti. David Walker, who in 1829 wrote a pamphlet urging enslaved people to fight for their freedom, sold subscriptions for it. Cornish quit in September 1827 because Russwurm supported sending free Black Americans to Africa, a plan called colonization, and Cornish opposed it. The last issue came out on 28 March 1829.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the Cherokee Phoenix, 1828 to 1835" -->
+In 1825 the Cherokee Nation's council set aside $1,500 for a printing press and type. With help from the missionary Samuel Worcester, the Cherokee set up a print shop at New Echota, their capital, in land the state of Georgia claimed. The iron press came by ship from Boston. Workers cast type for the Cherokee syllabary, the writing system Sequoyah made, in which each symbol stands for a syllable. Sources count 85 or 86 symbols. The *Cherokee Phoenix* came out on 21 February 1828, with columns in Cherokee beside columns in English. It was the first newspaper printed by a Native American nation. It printed the Cherokee Nation's laws and news, and it argued against the plan to force the Cherokee to move west.
+Georgia and federal officials made the paper hard to keep going. Colonel Charles Nelson, commander of the Georgia Guard, a state militia sent to police Cherokee land, threatened to shut the paper down and to beat its editor. President Andrew Jackson ordered the Cherokee Nation's yearly payment from the federal government paid to individuals, which cut off the paper's money. Georgia officials ordered the paper's white printer to leave, and a local sheriff sued the editor, Elijah Hicks, for libel. The last issue came out in May 1834. In 1835 Principal Chief John Ross planned to start the paper again. Men of the Georgia Guard went to New Echota, took the press and threw out the type. Two accounts say they also burned the building, and that Stand Watie, a Cherokee who supported removal, helped them. The records do not name the officer who led them.
+Shared with: `native-nations` (the Cherokee Nation, removal and the Trail of Tears) · `education` (Sequoyah's writing system and Cherokee reading).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="elias-boudinot" name="Elias Boudinot" movie="" kind="famous" status="verified" -->
 ### Elias Boudinot
-Editor of the *Cherokee Phoenix* [VERIFY], the first Native-language newspaper.
+> **Who:** A Cherokee writer who edited the *Cherokee Phoenix*, the first Native American newspaper, and later signed the treaty that gave up the Cherokee homeland · **When and where:** New Echota, Cherokee Nation (in present-day Georgia), 1826 to 1835, and Park Hill, Indian Territory, 1837 to 1839
+
+Elias Boudinot was born in the Cherokee Nation, in what is now northwest Georgia, about 1804. Sources give years from 1802 to 1804. His Cherokee name was Gallegina, which means "the Buck." He studied at a missionary school in Cornwall, Connecticut, and took the name of Elias Boudinot, a white supporter of the school. When he became engaged to Harriet Gold, a white woman from Cornwall, opponents of the marriage burned the couple in effigy, meaning they set fire to dummies made to look like them. They married in 1826.
+
+In 1826 Boudinot went on a speaking tour, including Philadelphia, giving a speech called "An Address to the Whites" and collecting money for a Cherokee press. He became editor of the *Cherokee Phoenix* when it began in 1828. He printed reports of how the Georgia Guard treated missionaries in the Cherokee Nation, and the Guard's commander threatened to beat him.
+
+By 1832 Boudinot had decided that the Cherokee could not stop the United States from forcing them west. He wanted to argue for a removal treaty in the paper. Principal Chief John Ross and the council opposed removal, and Boudinot resigned in August 1832. In December 1835 he and a small group of Cherokee signed the Treaty of New Echota, which gave up all Cherokee land east of the Mississippi River. Most Cherokee opposed removal.
+
+Boudinot moved west to Park Hill, in Indian Territory, in 1837. On 22 June 1839 a group of Cherokee who supported John Ross and opposed the treaty stabbed him to death. On the same day other men killed his uncle Major Ridge and his cousin John Ridge, who had also signed. The killers were never identified or tried.
 <!-- hb-story:end slug="elias-boudinot" -->
+<!-- hb-zoom level="span" label="newspapers against slavery, and the mobs that attacked them, 1831 to 1835" -->
+On 1 January 1831 William Lloyd Garrison, a white abolitionist, began *The Liberator* in Boston. It called for ending slavery at once. It had about 3,000 paying readers. Its masthead showed an enslaved man being whipped and children being sold away from their parents in Washington, D.C. Garrison wrote that "slavery and freedom of the press cannot exist together." By 1835 the American Anti-Slavery Society was printing more than a million papers and pamphlets a year.
+In the summer of 1835 the society mailed its papers to people in the South. On the night of 29 July 1835 a group of men in Charleston, South Carolina, broke into the post office, took the bags of antislavery papers and burned them. Federal law protected the mail. Postmaster General Amos Kendall, a close ally of President Andrew Jackson, gave Southern postmasters permission to refuse to deliver antislavery papers.
+On 21 October 1835 a crowd gathered outside *The Liberator*'s office in Boston, where the Boston Female Anti-Slavery Society was meeting. A local paper put the crowd at 5,000. The men forced the women out, seized Garrison, tied a rope around his waist and dragged him through the streets. They nearly tarred and feathered him. The mayor had him held in the city jail overnight for his safety. Garrison later wrote that "every mail" brought letters telling him he had "only so many days to live."
+Shared with: `rights-movements` (the abolitionist campaign) · `slavery-freedom`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the penny press, 1833" -->
+In 1833 Benjamin Day, a New York printer, started *The Sun* to bring work to his print shop. Most daily papers cost six cents. Day sold *The Sun* for one cent a copy, and boys sold it on the street. He printed crime stories and short reports from the police court. In 1835 he printed a made-up report that living creatures had been discovered on the Moon. Sales rose, and Day was criticized when readers learned it was false. By 1839 *The Sun* sold 50,000 copies a day. Day paid for the paper mostly by selling advertisements. By 1842 New York City had nine daily papers that cost one or two cents.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="elijah-lovejoy" name="Elijah Lovejoy" movie="" kind="famous" status="verified" -->
+### Elijah Lovejoy
+> **Who:** A white Presbyterian minister and newspaper editor who wrote against slavery and was shot dead by a mob while defending his press · **When and where:** St. Louis, Missouri, 1833 to 1836, and Alton, Illinois, 1836 to 1837
+
+Elijah Lovejoy was born in Albion, Maine, on 9 November 1802. In 1833 he became editor of the *St. Louis Observer*, a Presbyterian weekly in St. Louis, Missouri, a state where slavery was legal. He wrote against slavery. In 1835 a group of leading men in St. Louis signed a letter asking him to tone down what he wrote. He printed a reply saying he had the right to publish his views.
+
+On 28 April 1836 a white mob in St. Louis took Francis McIntosh, a free Black steamboat worker, out of the jail, chained him to a tree and burned him alive. Judge Luke Lawless refused to convict anyone and blamed abolitionists for stirring up McIntosh. Lovejoy attacked the judge in the *Observer*. In May 1836 he was driven out of St. Louis.
+
+He moved his paper across the Mississippi River to Alton, Illinois, a free state. Men in Alton who supported slavery destroyed his press three times. They threw one press out of a second-floor window. On 6 November 1837 a fourth press arrived by steamboat. Lovejoy and his supporters stored it in a stone warehouse owned by Benjamin Godfrey and Winthrop Gilman.
+
+On the night of 7 November 1837 a mob surrounded the warehouse. They said they would burn it and kill every man inside unless the press was handed over. About twenty men inside had guns. One of them shot and killed a man in the mob named Bishop. A man in the mob climbed a ladder to set the roof on fire. When Lovejoy stepped outside, men in the mob shot him five times, and he died moments later. He was 34. The mob destroyed the press and threw it into the river.
+
+In January 1838 the city of Alton charged 12 of the men who had defended the press with riot. A jury found Winthrop Gilman not guilty, and the city attorney dropped the charges against the other eleven. On 19 January 1838 several men from the mob were tried for breaking into the warehouse and destroying the press. The jury found them not guilty. No one was ever charged with killing Lovejoy.
+<!-- hb-story:end slug="elijah-lovejoy" -->
+<!-- hb-zoom level="span" label="the telegraph, 1844, and who owned it" -->
+In 1843 members of Congress voted Samuel Morse $30,000 to build a test telegraph line from Washington to Baltimore. On 24 May 1844 Morse sent the first message over it, "What hath God wrought," from the U.S. Capitol. Morse and his partners then tried to sell the patent to the federal government and to businessmen, and no one bought it. Morse hired Amos Kendall, the former Postmaster General, to run the business. Kendall sold the right to use Morse's patent to separate companies, one region at a time. By 1851 the census counted 75 telegraph companies with 21,147 miles of wire. Private companies owned the lines, not the government.
+In 1846 the United States went to war with Mexico. Getting fast news of the war cost more than any one paper wanted to pay. Moses Yale Beach, the owner of *The Sun*, got the leading New York papers, six counting his own, to share the cost. That group grew into the New York Associated Press.
+Shared with: `technology` (the telegraph as a machine, and Samuel Morse's story).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="frederick-douglass-publisher" name="Frederick Douglass" movie="Becoming Frederick Douglass (2022)" kind="famous" status="verified" -->
+### Frederick Douglass
+> **Who:** A man who escaped slavery in Maryland and started his own newspaper so that Black Americans could speak for themselves · **When and where:** Rochester, New York, from 1847
+> **Movie:** Becoming Frederick Douglass (2022), a PBS documentary directed by Stanley Nelson about his life
+
+Frederick Douglass was born enslaved in Talbot County, Maryland, in February 1818. He escaped on 3 September 1838 and began speaking against slavery alongside William Lloyd Garrison. In 1845 he published the story of his life. He then gave speeches across Britain and Ireland, and the money from that tour paid to start his newspaper.
+
+Douglass split with Garrison over how to end slavery. Garrison relied on persuading people that slavery was wrong. Douglass came to believe that political action, such as voting and passing laws, could also attack slavery. He believed Black Americans had to lead the fight for their own freedom. On 3 December 1847 he published the first issue of the *North Star* in Rochester, New York. Its motto was "Right is of no sex, Truth is of no color, God is the Father of us all, and we are brethren." The paper was four pages long and came out every week. It had more than 4,000 subscribers in the United States, Europe and the West Indies.
+
+On the front page Douglass said the paper would "attack SLAVERY in all its forms and aspects." It also printed news for free Black families in the North. Its first printer and publisher was William Cooper Nell, a Black writer from Boston.
+<!-- hb-story:end slug="frederick-douglass-publisher" -->
 <!-- hb-time:end id="1800-1850" -->
 
-<!-- hb-time:start id="1850-1900" order="07" chapter="news-communication" label="1850 to 1900" state="full" progress="seed" -->
+<!-- hb-time:start id="1850-1900" order="07" chapter="news-communication" label="1850 to 1900" state="full" progress="researched" -->
 ## 1850 to 1900
 <!-- hb-zoom level="era" -->
-War reporting, wire services, and photographs — plus newspapers that will print nearly anything to sell copies.
+From 1861 a telegraph wire crossed the continent, and by 1866 one company, Western Union, owned nearly all the telegraph lines in the country. During the Civil War, Northern papers sent dozens of reporters to the battlefields, and Union generals and cabinet members closed newspapers and arrested editors without trials. From 1863 the post office hired its first Black workers. White men in Memphis in 1892 and Wilmington, North Carolina, in 1898 drove Black editors out of town, and the Wilmington mob burned a Black-owned newspaper. In New York, Joseph Pulitzer and William Randolph Hearst competed for readers with large headlines and some stories that were false. In 1896 the post office began carrying mail to farm families at their homes.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the wire, yellow journalism, and investigative reporting" -->
-The Associated Press; Civil War correspondents and photographs; the rise of big-city papers and yellow journalism; rural free delivery [VERIFY 1896]; the immigrant-language press; Ida B. Wells's investigative reporting on lynching.
+<!-- hb-zoom level="span" label="the Pony Express and the wire across the continent, 1860 to 1861" -->
+On 3 April 1860 William H. Russell and his partners started the Pony Express, which carried mail on horseback about 2,000 miles from St. Joseph, Missouri, to Sacramento, California. Riders changed horses every 10 to 15 miles and covered 75 to 100 miles a day. The first run took ten days. In March 1861 riders carried President Abraham Lincoln's first inaugural address across in 7 days and 17 hours. The company charged up to $5 for half an ounce of mail, when ordinary postage was ten cents or less, and it still lost money. On 24 October 1861 workers finished the first telegraph line across the continent. Two days later the Pony Express shut down.
+Shared with: `transportation` (the route and the riders) · `native-nations` (the land the route crossed).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="nellie-bly" name="Nellie Bly" movie="" kind="famous" status="candidate" -->
+<!-- hb-zoom level="span" label="news of the Civil War, 1861 to 1865" -->
+Newspapers in the North and the South were very unequal in 1861. In 1860 the South had fewer than 10 percent of the country's print shops. It had 70 of the country's 387 daily papers, and they sold only about 10 percent of all daily copies. On the day after Confederate guns fired on Fort Sumter in April 1861, the *New York Herald* printed 135,000 copies, about as many as all the South's daily papers together. The South had few paper mills and no factory that made printing presses, and only about 20 Southern daily papers were still printing when the war ended.
+The *New York Herald* alone kept more than 40 reporters with the armies. Reporters sent short reports by telegraph and wrote longer ones on trains. After the Battle of Antietam in September 1862, George W. Smalley of the *New York Tribune* wrote his story on a train to New York, and the *Tribune* had it on the streets two mornings after the battle. The Associated Press, a group of New York papers that shared news, served only the North, so Southern publishers started their own Press Association in 1862.
+Cameras of the time could not capture action, and photographs could not be copied quickly. Weekly papers such as *Frank Leslie's Illustrated Newspaper* and *Harper's Weekly* sent artists to draw the battles. Engravers carved the drawings into blocks of wood for printing, and readers saw the pictures within about a week.
+Shared with: `war` (the battles and the dead) · `art` (the photographers and the artists).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="editors arrested and papers closed, 1861 to 1864" -->
+The First Amendment says Congress shall make no law "abridging the freedom ... of the press." During the Civil War, Union officers and Lincoln's cabinet shut papers down anyway, mostly without any court. From April 1861 Lincoln's officials censored reporters' telegraph messages to and from Washington, which means they read them and cut out what they did not want printed. Soldiers arrested editors and closed their presses, and military courts sent some editors south into the Confederacy.
+Secretary of State William Seward had an editor of the *Freeman's Journal* arrested for what he printed. The editor was held for 11 weeks and let go without a trial. Secretary of War Edwin Stanton let a military governor destroy the office of the *Sunday Chronicle* in Washington. In Canton, Ohio, a mob wrecked the office of the *Stark County Democrat* after its editor, Archibald McGregor, printed words that his opponents called treason, and a year later soldiers arrested him without saying what the charge was. In 1863 General Ambrose Burnside closed the *Chicago Times*, a Democratic paper. Lincoln overturned Burnside's order. He said he was "embarrassed" that his general had not weighed the needs of the Union against "the Liberty of the Press."
+In May 1864 two New York reporters printed a fake proclamation, signed with Lincoln's name, calling for a much larger draft of soldiers. They did it to change the price of gold. Lincoln ordered General John A. Dix to arrest the editors of the *New York World*, which had printed it, and to seize the paper's offices. He withdrew the order once it was clear the two reporters had forged the proclamation.
+Shared with: `government-politics` (Lincoln and wartime power) · `war`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the first Black postal workers, 1863 to 1869" -->
+From 1802 to 1865 federal law barred anyone but "free white persons" from carrying the mail. In early 1863 John Palfrey, the postmaster of Boston, hired William Cooper Nell as a clerk. He was the first Black American known to hold a job in the federal government. The rule for mail carriers ended in 1865. In June 1869 James Christian began delivering mail in Richmond, Virginia, the first Black letter carrier on record in the United States. He was hired by Richmond's postmaster, Elizabeth Van Lew, who had spied for the Union during the war.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="william-cooper-nell" name="William Cooper Nell" movie="" kind="ordinary" status="verified" -->
+### William Cooper Nell
+> **Who:** A Black writer and printer from Boston who printed Frederick Douglass's first newspaper and became the first Black American known to work for the federal government · **When and where:** Boston and Rochester, New York, 1840s to 1874
+
+William Cooper Nell grew up in Boston. In the 1840s he went to Rochester, New York, and worked for nearly two years with Frederick Douglass. He was the first printer and publisher of Douglass's newspaper, the *North Star*.
+
+In 1844 Nell and other Black Bostonians asked the Boston School Committee to let Black children attend the city's public schools with white children. Nell kept sending petitions and holding meetings for 11 years. In 1855 the governor of Massachusetts signed a law that banned schools from turning children away because of race. The same year, Nell published a 396-page book, *The Colored Patriots of the American Revolution*, about Black Americans who had fought for independence.
+
+In early 1863, during the Civil War, Boston's postmaster, John Palfrey, hired Nell as a clerk in the Boston Post Office. Palfrey had also worked against slavery and worked for newspapers. Nell was the first Black American known to hold a job in the federal government. At that time federal law still said that only white people could carry the mail. Nell worked at the post office until he died in 1874.
+<!-- hb-story:end slug="william-cooper-nell" -->
+<!-- hb-zoom level="span" label="one company owns the telegraph, 1866 to 1900" -->
+In the 1850s dozens of companies ran telegraph lines, and they merged into a few large ones. In 1866 Western Union bought its last two big rivals and ended up with more than 90 percent of the country's telegraph business. The economic historian Tomas Nonnenmacher calls it the country's first nationwide industrial monopoly. Members of Congress brought bills to regulate it or to have the government buy the lines in almost every session, and Western Union's lobbyists blocked nearly all of them. From 1867 to 1900 the number of telegrams it carried rose from 5.8 million a year to 63.2 million, and the average price of a telegram fell from $1.09 to 30 cents. For every dollar customers paid, about 30 to 40 cents was profit.
+By the late 1800s the New York Associated Press, run by a few New York papers, held what the American Antiquarian Society calls a news monopoly. Newspaper owners in Chicago and other Western cities formed a rival group, and in 1892 they started a new national Associated Press.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the telephone, 1876 to 1900" -->
+Alexander Graham Bell patented the telephone in 1876. He offered the patent to Western Union for $100,000, and the company turned it down. In 1900 the United States had about 1.36 million telephones, about 18 for every 1,000 people. That means fewer than 2 Americans in 100 had one. Nearly all calls, 97 out of every 100, were local calls within one town.
+Shared with: `technology` (the telephone as a machine).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="newspapers in Chinese, 1854 and 1855" -->
+Before the Civil War there were already American newspapers in German, French, Spanish, Polish, Swedish, Norwegian, Hawaiian and other languages. Chinese was harder to print, because it has thousands of characters instead of an alphabet. The first Chinese-language paper in the country, *Golden Hill's News*, came out in San Francisco in 1854 and lasted a few months. The second, *The Oriental*, began there on 4 January 1855, edited by William Speer, a Presbyterian minister. Its printers drew the characters on stone with a grease pencil and printed from the stone. It closed in 1857, and no other Chinese paper was tried until the 1870s.
+Shared with: `immigration`.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="nellie-bly" name="Nellie Bly" movie="Escaping the Madhouse: The Nellie Bly Story (2019)" kind="famous" status="verified" -->
 ### Nellie Bly
-Reporter who got herself committed to expose an asylum.
+> **Who:** A newspaper reporter who pretended to be mentally ill so she could report from inside New York City's asylum for women · **When and where:** Pittsburgh, 1885 to 1887, and New York City, 1887 to 1895
+> **Movie:** Escaping the Madhouse: The Nellie Bly Story (2019), a Lifetime television film that its makers describe as a fictionalized account
+
+Nellie Bly was the pen name of Elizabeth Cochran, born in Cochran's Mills, Pennsylvania, on 5 May 1864. In 1885 the *Pittsburgh Dispatch* printed an article called "What Girls Are Good For," which said they were not good for much. She wrote an angry letter to the editor, and he hired her. She wrote about working girls and poor neighbourhoods in Pittsburgh.
+
+In 1887 she went to work for Joseph Pulitzer's *New York World*. For her first big story she acted as if she were insane until doctors sent her to the city asylum for women on Blackwell's Island. She stayed ten days. When she arrived, nurses undressed her in front of other patients. A patient scrubbed her with soft soap, and then three buckets of ice-cold water were poured over her head. She saw 52 women tied together by leather belts locked around their waists and fixed to one long rope. She watched a nurse named Grady and other nurses slap a patient named Urena Little-Page, bang her head and choke her. The finger marks stayed on the woman's throat all day. Other patients told Bly that the nurses beat them if they complained.
+
+Bly's reports ran in the *World* and then as a book, *Ten Days in a Mad-House*. A grand jury investigated the asylum. Bly wrote that New York City then set aside $1,000,000 a year more than before to care for people in its asylums.
+
+In November 1889 the *World* sent Bly to go around the world faster than the hero of the novel *Around the World in Eighty Days*. She did it in 72 days, 6 hours, 11 minutes and 14 seconds. The *World*'s contest to guess her time drew nearly a million entries. She died in New York on 27 January 1922.
 <!-- hb-story:end slug="nellie-bly" -->
-<!-- hb-story:start slug="ida-b-wells-news-communication" name="Ida B. Wells" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="ida-b-wells-news-communication" name="Ida B. Wells" movie="" kind="famous" status="verified" -->
 ### Ida B. Wells
-Investigated lynching and published the numbers.
+> **Who:** A Black newspaper editor in Memphis who counted lynchings, printed what she found and was driven from her city for it · **When and where:** Memphis, Tennessee, 1889 to 1892, and New York City, 1892
+
+Ida B. Wells was born into slavery in Holly Springs, Mississippi, on 16 July 1862. By 1892 she was an editor and part owner of the *Free Speech*, a Black newspaper in Memphis, Tennessee.
+
+On 9 March 1892 a white mob took three Black men, Thomas Moss, Calvin McDowell and a third man named in different sources as Will Stewart or Henry Steward, out of the Memphis jail and killed them. The three ran the People's Grocery, a store that took business from a white-owned store nearby. No one was ever charged. Wells wrote in the *Free Speech* that Black people should leave Memphis. Thousands did, and those who stayed stopped riding the streetcars.
+
+Wells began to study lynchings, the killing of people by mobs without any trial. She used the lists the *Chicago Tribune* printed each year. In 1892 she wrote that mobs had killed 728 Black people in the previous eight years. Only one-third of them had even been accused of raping a white woman, which was the reason usually given for lynching. Her list included "the boy Will Lewis," hanged in Tullahoma, Tennessee, "for being drunk and 'sassy' to white folks," and a fifteen-year-old girl hanged in Louisiana.
+
+On 21 May 1892 the *Free Speech* printed her editorial saying that white Southerners' claim that Black men raped white women was a lie. Wells was in New York. White men in Memphis held a meeting at the Cotton Exchange and sent a group to find the paper's editors, and Wells later wrote that they would have lynched them if they had found them. The business manager, J. L. Fleming, fled the city. Letters and telegrams warned Wells she would be hurt if she came home. Creditors, people the paper owed money to, took over the office and sold the press and type. Two major reference pages say a mob burned or smashed the office. Wells's own account says creditors sold it.
+
+Wells stayed in the North. On 25 June 1892 the *New York Age*, a Black newspaper in New York, printed most of her account under the name "Exiled." Black women in New York and Brooklyn held a meeting at Lyric Hall on 5 October 1892 and raised the money to print it as a pamphlet, *Southern Horrors: Lynch Law in All Its Phases*. In 1895 she published *A Red Record*, 100 pages of lynching counts and the reasons mobs gave.
+Shared with: `rights-movements` (her campaign against lynching, story `ida-b-wells-rights-movements`) · `crime-justice` (lynching).
 <!-- hb-story:end slug="ida-b-wells-news-communication" -->
+<!-- hb-zoom level="span" label="Rural Free Delivery, 1896" -->
+From 1863 people in cities had their mail brought to their homes for free. Farm families still had to travel to a post office to get letters and newspapers. In 1890 about 41 million Americans, 65 percent of the population, lived in the country. Postmaster General John Wanamaker argued that rural people needed the information in newspapers. After members of Congress set aside $40,000 for a test, postal officials began Rural Free Delivery on 1 October 1896 at Charles Town, Halltown and Uvilla in West Virginia. Within a year 44 routes ran in 29 states. Rural families sent more than 10,000 petitions asking for routes. Rural delivery became permanent on 1 July 1902, with about 8,500 rural carriers.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="yellow journalism and the war with Spain, 1895 to 1898" -->
+In New York, Joseph Pulitzer owned the *World* and William Randolph Hearst owned the *Journal*. In 1896 they fought over a cartoonist, Richard F. Outcault, whose comic strip character was called the Yellow Kid. People began to call their kind of reporting "yellow journalism," reporting that put exciting stories ahead of facts. Both papers printed stories about Cuba's fight for independence from Spain, and some of those stories were false.
+On the night of 15 February 1898 the U.S. battleship *Maine* blew up and sank in the harbor of Havana, Cuba. An early report by Spain's colonial government in Cuba found that the explosion started inside the ship. Hearst and Pulitzer printed rumors that someone had planned to sink it. A U.S. Navy inquiry then said a mine outside the ship caused it, and both papers called for war. The war with Spain began by early May. The State Department's historians say the papers helped build support for the war, but that the papers alone did not cause it.
+Shared with: `war` (the war with Spain and the dead of the *Maine*) · `territories` or `government-politics` (the islands taken after the war).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="a Black newspaper burned in Wilmington, 1898" -->
+Alex Manly edited the *Daily Record*, the Black newspaper in Wilmington, North Carolina. In 1898 he printed an editorial about relationships between Black men and white women that challenged what white Southerners claimed. Democratic Party leaders used it to stir up white voters before the November election. The day after the Democrats won, a meeting of white men in Wilmington passed resolutions ordering Manly to close his paper and leave the city. On 10 November 1898 Alfred Moore Waddell, a former Confederate officer and congressman, led a crowd of white men to the *Daily Record* office in Free Love Hall. The state's history office counts about 500 men at the start, and a state history encyclopedia says as many as 2,000. They broke in and burned the building. That morning, shooting broke out in the streets, and several Black men were shot dead or wounded. Each side said the other fired first. At least 14 men were killed, and perhaps as many as 60. By late afternoon Waddell and his allies had forced the elected mayor and city council to resign, and Waddell was made mayor. Manly escaped the city. A federal investigation ended in 1900 with no one charged.
+Shared with: `rights-movements` (the coup) · `crime-justice`.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="news-communication" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="news-communication" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Reporting becomes a profession that investigates, and a voice in a box reaches every kitchen at once.
+From 1902 magazine reporters spent months or years investigating companies and city governments and printed what they found. In 1917 and 1918, during World War I, federal officials ran the government's first large propaganda office, stopped dozens of newspapers from using the mail and filed more than 2,000 criminal cases against people for what they said or printed. From 1920 radio brought news into homes as it happened, and companies that made radio equipment, and then networks paid by advertisers, owned the stations. The *Chicago Defender*, a Black newspaper, urged Black Southerners to move north, and Southern police seized copies. In World War II the government asked newspapers and radio stations to keep military secrets and set up a new office to explain the war, while Japanese Americans held in camps printed newspapers that camp officials checked.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the muckrakers and the radio age" -->
-The muckrakers, including Ida Tarbell and Upton Sinclair; radio from KDKA, 1920; Roosevelt's fireside chats; the *War of the Worlds* broadcast, 1938; newsreels; wire photographs; television beginning.
+<!-- hb-zoom level="span" label="the muckrakers, 1902 to 1912" -->
+Magazines such as *McClure's*, *Cosmopolitan* and *Collier's* printed long reports by reporters who had investigated one subject in depth. The January 1903 issue of *McClure's* carried three of these reports: part of Ida Tarbell's history of the Standard Oil Company, Lincoln Steffens's report on corruption in the city government of Minneapolis, meaning officials using their jobs to get money illegally, and Ray Stannard Baker's report on how coal miners were treated. In 1906 Upton Sinclair's novel *The Jungle* described the Chicago meatpacking plants, and Samuel Hopkins Adams reported in *Collier's* on medicines that were sold with false claims. Members of Congress passed the Meat Inspection Act and the Pure Food and Drug Act that year. On 14 April 1906 President Theodore Roosevelt gave a speech comparing these writers to the Man with the Muck Rake, a character in John Bunyan's religious book *The Pilgrim's Progress* who raked filth and never looked up. The writers took his word "muckraker" as their own name. By about 1912 most of the magazines had stopped this work, partly because large companies stopped buying advertisements in them.
+Shared with: `big-business` (Ida Tarbell and Standard Oil, story `ida-tarbell-big-business`) · `food-farming` (Upton Sinclair, story `upton-sinclair-food-farming`).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="ida-tarbell-news-communication" name="Ida Tarbell" movie="" kind="famous" status="candidate" -->
-### Ida Tarbell
-Investigated Standard Oil in nineteen installments.
-<!-- hb-story:end slug="ida-tarbell-news-communication" -->
-<!-- hb-story:start slug="edward-r-murrow" name="Edward R. Murrow" movie="" kind="famous" status="candidate" -->
+<!-- hb-story:start slug="robert-s-abbott" name="Robert S. Abbott" movie="" kind="famous" status="verified" -->
+### Robert S. Abbott
+> **Who:** The son of formerly enslaved parents who founded the *Chicago Defender* and sent it into the South, where it urged Black families to move north · **When and where:** Chicago, 1905 to 1940
+
+Robert Sengstacke Abbott was born on St. Simons Island, Georgia, on 28 November 1868. His parents, Thomas and Flora Abbott, had been enslaved. He learned printing at Hampton Institute in Virginia. After he graduated in 1896 he moved to Chicago, but white printers would not hire him. He earned a law degree in 1899, and he could not build a law practice in Indiana or Kansas because of racism against him.
+
+On 5 May 1905 he printed the first issue of the *Chicago Defender*, 300 copies, and sold them himself. His paper attacked lynching and white supremacy in large headlines. One read, "When the Mob Comes and You Must Die Take at Least One with You." White papers such as the *Chicago Tribune* printed "colored" after the names of Black people, so Abbott printed "(white)" after the names of white people.
+
+Abbott sent the paper into the South, where 90 percent of Black Americans then lived. From 1916, when Northern factories needed workers for World War I, the *Defender* printed news of jobs and places to live in Chicago, and train times, and urged Black Southerners to come north. About 500,000 Black Southerners moved north between 1916 and 1919. White Southern officials tried to stop the paper. Police seized copies, arrested people who sold it under laws against having no job, and some towns banned the sale of Black newspapers. Abbott made a deal with Pullman porters, the Black workers who served passengers on sleeping cars, to carry bundles of the paper south on their trains and sell them in secret.
+
+By 1929 the *Defender* sold more than 250,000 copies a week, and Abbott was one of the first Black millionaires. He died in Chicago on 29 February 1940.
+Shared with: `migration` (the Great Migration).
+<!-- hb-story:end slug="robert-s-abbott" -->
+<!-- hb-zoom level="span" label="World War I: the government's propaganda office, 1917 to 1919" -->
+The United States entered World War I in April 1917. That month President Woodrow Wilson set up the Committee on Public Information and put George Creel, a former newspaperman, in charge. It was the federal government's first large propaganda office. Propaganda is information made and spread to push people toward one opinion. Creel's staff sent material to newspapers, and Creel later estimated that their material filled 20,000 newspaper columns a week. Committee staff printed their own paper, the *Official Bulletin*, which went free to officials, newspapers and post offices, about 115,000 copies. Its artists made posters showing German soldiers as a gorilla with a club and as a blue-skinned man with bloody fingers. Staff in one of its divisions watched the hundreds of newspapers printed in other languages in the United States. After the war many Americans decided the committee had oversold the war and made it harder for people to disagree.
+Shared with: `war` (World War I).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="World War I: papers banned from the mail and people jailed for words, 1917 to 1921" -->
+Members of Congress passed the Espionage Act on 15 June 1917. It made it a crime to get in the way of the draft or to cause disloyalty in the armed forces. Wilson's officials declared that papers breaking the law could not go through the mail. Postmaster General Albert S. Burleson told local postmasters to report anything suspicious. By 1918 his officials had barred 74 newspapers from the mail. The New York City postmaster, Thomas G. Patten, stopped the magazine *The Masses*, and its November-December 1917 issue was its last. Under the Trading with the Enemy Act of 6 October 1917, newspapers printed in German and other foreign languages had to file English translations of their war news with the local postmaster.
+On 16 May 1918 members of Congress added the Sedition Act to the Espionage Act. It made it a crime to say or write anything "disloyal" about the government, the Constitution, the armed forces or the flag. The punishment was up to 20 years in prison and a $10,000 fine. Federal prosecutors filed more than 2,000 cases under the two laws, and more than 1,000 ended in convictions. Most of the people charged were pacifists, anarchists and socialists. On 16 June 1918 the Socialist leader Eugene V. Debs gave a speech against the war to about 1,200 people in Canton, Ohio. He was sentenced to 10 years in prison, and the Supreme Court upheld his conviction in 1919. President Warren G. Harding let him out of prison on Christmas Day 1921.
+Shared with: `work-workers` (Eugene V. Debs, story `eugene-debs-work-workers`) · `government-politics` · `war`.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="victor-berger" name="Victor Berger" movie="" kind="famous" status="verified" -->
+### Victor Berger
+> **Who:** An immigrant newspaper owner in Milwaukee whose paper was barred from the mail for opposing World War I, and who was sentenced to 20 years in prison · **When and where:** Milwaukee, Wisconsin, 1892 to 1921
+
+Victor Berger was born in 1860 to a Jewish family in Austria-Hungary. He came to the United States in 1878 and settled in Milwaukee, where he taught German in the public schools. In 1892 he bought a German-language newspaper. In 1911 he started a daily paper in English, the *Milwaukee Leader*. In 1898 he and Eugene V. Debs founded the party that became the Socialist Party, and in 1910 Milwaukee voters made him the first Socialist elected to the U.S. House of Representatives.
+
+Berger and his paper opposed the war. In 1917 Postmaster General Albert S. Burleson's department took away the *Leader*'s mailing permit. In 1918 federal prosecutors charged Berger under the Espionage Act. He and four other Socialist leaders were convicted in Chicago, and in early 1919 Judge Kenesaw Mountain Landis sentenced each of them to 20 years in prison.
+
+In 1918, while his case went on, Milwaukee voters elected Berger to Congress again. He was free on bail during his appeal, and in November 1919 the House refused to let him take his seat. Voters elected him again in a special election, with 55 percent of the vote, and the House refused again. In 1921 the Supreme Court overturned his conviction. He won election to Congress three more times, in 1922, 1924 and 1926. He died in 1929 after a streetcar accident.
+<!-- hb-story:end slug="victor-berger" -->
+<!-- hb-zoom level="span" label="radio, and who owned it, 1920 to 1934" -->
+On the evening of 2 November 1920, radio station KDKA in Pittsburgh broadcast the results of the presidential election between Warren G. Harding and James M. Cox. KDKA belonged to the Westinghouse company, which made electrical and radio equipment. Its studio was a shed on the roof of a Westinghouse factory building. By the end of 1921 eight stations were broadcasting, and by 1 November 1922 the government had licensed 564. Some companies that made radios ran stations so that more people would buy radios. On 28 August 1922 station WEAF in New York sold the first paid radio advertisement, ten minutes for $50. Advertisers paid for most American radio from then on.
+In 1926 the National Broadcasting Company, NBC, bought WEAF and connected stations in different cities by telephone lines into a network, so they all carried the same programs. The Columbia Broadcasting System, CBS, built another network. Members of Congress worried that the largest radio makers and broadcasters were becoming a monopoly, one group controlling a whole business. They passed the Radio Act of 1927, which set up a federal commission to decide which station could use which wavelength. The Communications Act of 1934 replaced it with the Federal Communications Commission, the FCC.
+Shared with: `technology` (the radio as a machine) · `marketplace` (advertising).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the president on the radio, 1933 to 1944" -->
+On Sunday night, 12 March 1933, President Franklin D. Roosevelt spoke on the radio about why he had closed the country's banks and how they would reopen. Harry Butcher of CBS called these talks "fireside chats." Historians count between 27 and 31 of these talks from 1933 to 1944, on the banks, the New Deal and the war.
+Shared with: `money` (the bank holiday) · `government-politics`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="the War of the Worlds broadcast, 1938" -->
+On the evening of 30 October 1938 the actor Orson Welles and his Mercury Theatre on the Air performed H. G. Wells's novel *The War of the Worlds* on CBS. Welles was 23. The writer Howard Koch and the producers John Houseman and Paul Stewart had rewritten the story as fake news bulletins about Martians landing in New Jersey. The program did not stop to say it was a play until almost 40 minutes in. Some listeners believed it and called the police, newspapers and radio stations. The next morning newspapers across the country reported a nationwide panic. The historian A. Brad Schwartz found that only some listeners were fooled and that newspapers turned their calls into a story of mass panic.
+Shared with: `storytelling-evolution` (radio drama).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="pictures by wire, 1935" -->
+Until 1935 newspapers got photographs by mail, train or airplane, which could take up to 85 hours. On 1 January 1935 Associated Press staff sent their first photograph over wires, a picture of a plane crash near Morehouseville, New York. Forty-seven newspapers in 25 states received it within minutes.
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="edward-r-murrow" name="Edward R. Murrow" movie="Good Night, and Good Luck (2005)" kind="famous" status="verified" -->
 ### Edward R. Murrow
-Reported the Blitz by radio and, later, McCarthy by television.
+> **Who:** A CBS radio reporter whose eyewitness reports from Europe before and during World War II made him famous across the United States · **When and where:** London, 1937 to 1945
+> **Movie:** Good Night, and Good Luck (2005), directed by George Clooney, about Murrow's 1954 television reports on Senator Joseph McCarthy
+
+Edward R. Murrow was born in Greensboro, North Carolina, on 25 April 1908. He graduated from Washington State College. In the early 1930s he worked to bring German professors driven out by the Nazis to the United States.
+
+He joined CBS in 1935. In 1937 CBS sent him to London to run its European office. In 1938 he reported on radio from Europe as Nazi Germany took over Austria, and on the Munich Conference, a meeting of European leaders, later that year. In 1939 he reported on Germany's takeover of Czechoslovakia. In 1940 he reported on the Battle of Britain, the German air attacks on Britain. These eyewitness reports made him famous in the United States.
+
+After the war Murrow ran CBS's news department. In 1954 he made a television program that exposed how Senator Joseph McCarthy attacked people with charges he could not prove. He died on 27 April 1965.
 <!-- hb-story:end slug="edward-r-murrow" -->
+<!-- hb-zoom level="span" label="World War II: secrets, propaganda and the Black press, 1941 to 1945" -->
+On 19 December 1941, twelve days after Japan attacked Pearl Harbor, President Roosevelt set up the Office of Censorship. Censorship means officials reading or cutting what people send or print. Its director, Byron Price, had been an editor at the Associated Press. It had about 13,500 workers, and most of them read letters and cables going in and out of the country. For newspapers and radio, Price wrote a code of rules that editors followed by choice. It asked them not to report on troop and ship movements, war factories, the president's travels or the weather. Price persuaded the reporters Drew Pearson and William L. Laurence not to write about the building of the atomic bomb. On 13 June 1942 Roosevelt set up the Office of War Information to explain the war and the government's plans at home and abroad.
+Far fewer people were prosecuted for their words than in World War I, by one count dozens instead of thousands. Roosevelt pressed his attorney general, Francis Biddle, to "indict the seditionists," and Roosevelt's officials usually resisted. Black newspapers such as the *Chicago Defender* protested how the armed forces treated Black servicemen. Federal officials threatened to charge Black publishers with sedition, and the *Defender*'s publisher, John H. Sengstacke, worked out an agreement with the Justice Department that protected the papers.
+Shared with: `war` · `government-politics`.
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="newspapers behind barbed wire, 1942 to 1945" -->
+Under an order President Roosevelt signed in 1942, soldiers and federal officials forced between 110,000 and 120,000 Japanese Americans from their homes on the West Coast into camps. Inside the camps, Japanese Americans wrote, printed and handed out their own newspapers. The papers in the first army-run camps were copied on mimeograph machines, which print copies from a cut stencil, and had to be in English. All ten camps run by the War Relocation Authority had papers in English and Japanese, such as the *Manzanar Free Press* in California and the *Heart Mountain Sentinel* in Wyoming. Army officials censored the early camp papers. In the later camps, officials interfered with what the papers printed and sometimes censored them.
+Shared with: `immigration` · `rights-movements` · `war` (the forced removal and the camps).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="television begins, 1927 to 1941" -->
+On 7 September 1927 Philo Farnsworth, 21, sent the first image by all-electronic television, a straight line, in his laboratory in San Francisco. On 1 July 1941 station WNBT in New York showed the first legal television advertisement, a Bulova watch face over a map of the United States, before a baseball game. It lasted about ten seconds and cost $9.
+Shared with: `technology` (the television as a machine).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="news-communication" label="1950 to 2000" state="full" progress="seed" -->
