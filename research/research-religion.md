@@ -3873,6 +3873,231 @@ living memory.**
   it took an Act of Congress in 1978 to say that a Native person could worship, and another in 1994 to
   make one ceremony lawful in every state.
 
+### PATCH 2026-09-27 (T-260c): the peyote case by name, the 1988 sacred-land case, RFRA 1993 and its limits, eagle feathers 1962
+
+**Why:** §9l names the *Smith* respondents only as "Smith and Black" and has nothing between 1978 and 1994
+except *Smith*. A writer will need the men's full names, the vote, the sacred-land case that came first,
+and what Congress did in 1993. All four read in full from the primary documents.
+
+- **The two men in *Smith*.** "Respondents Alfred Smith and Galen Black (hereinafter respondents) were
+  fired from their jobs with a private drug rehabilitation organization because they ingested peyote for
+  sacramental purposes at a ceremony of the Native American Church, of which both are members." Oregon
+  law made possessing peyote a Class B felony with no exception for sacramental use. (494 U.S. 872, at
+  874, https://tile.loc.gov/storage-services/service/ll/usrep/usrep494/usrep494872/usrep494872.pdf )
+- **The vote, from the printed lineup.** Justice Scalia wrote for the Court, joined by Rehnquist, White,
+  Stevens and Kennedy. Justice O'Connor concurred in the judgment only. **Justice Blackmun dissented,
+  joined by Brennan and Marshall.** So the judgment was 6 to 3, and the reasoning was 5 to 4. (Same
+  source, syllabus.)
+- **The majority's own words on who loses.** Scalia: "leaving accommodation to the political process
+  will place at a relative disadvantage those religious practices that are not widely engaged in; but
+  that unavoidable consequence of democratic government must be preferred to a system in which each
+  conscience is a law unto itself." (494 U.S. 872, at 890.)
+- **Blackmun's dissent, on the 1978 Act:** "The American Indian Religious Freedom Act, in itself, may not
+  create rights enforceable against government action restricting religious freedom, but this Court must
+  scrupulously apply its free exercise analysis to the religious claims of Native Americans, however
+  unorthodox they may be. Otherwise, both the First Amendment and the stated policy of Congress will offer
+  to Native Americans merely an unfulfilled and hollow promise." (494 U.S. 872, Blackmun, J., dissenting.)
+- **The sacred-land case two years earlier: *Lyng v. Northwest Indian Cemetery Protective Association*,
+  485 U.S. 439, argued 30 November 1987, decided 19 April 1988.** Who and what: the **U.S. Forest
+  Service** (Secretary of Agriculture Richard Lyng was the named petitioner) planned a **6-mile paved
+  segment** to finish a 75-mile road between **Gasquet and Orleans, California** (the "G-O road"),
+  through the **Chimney Rock** area of **Six Rivers National Forest**, and a plan to log the area. The
+  area "has historically been used for religious purposes by **Yurok, Karok, and Tolowa** Indians." The
+  Forest Service's own commissioned study (the Theodoratus Report, 1979, 423 pages) found that a road on
+  any available route "would cause serious and irreparable damage to the sacred areas" and recommended
+  that it not be built. **In 1982 the Forest Service rejected that recommendation** and chose a route
+  through Chimney Rock. The Court, **5 to 3** (O'Connor for the Court with Rehnquist, White, Stevens and
+  Scalia; **Brennan dissenting with Marshall and Blackmun; Kennedy took no part**), held that the Free
+  Exercise Clause did not stop the road or the logging: "Even assuming that the Government's actions here
+  will virtually destroy the Indians' ability to practice their religion, the Constitution simply does not
+  provide a principle that could justify upholding respondents' legal claims." It also held that the
+  1978 Act has not "so much as a hint of any intent to create a cause of action or any judicially
+  enforceable individual rights." Brennan's dissent: the Yurok, Karok and Tolowa had held the area
+  sacred "for at least 200 years and probably much longer," about **25 square miles**, known to them as
+  the "high country"; its most powerful sites are Chimney Rock, Doctor Rock and Peak 8. **The Court's own
+  opinion records that "the Indians themselves were far from unanimous in opposing the G-O road."**
+  (485 U.S. 439, syllabus, opinion of the Court and Brennan, J., dissenting,
+  https://tile.loc.gov/storage-services/service/ll/usrep/usrep485/usrep485439/usrep485439.pdf )
+  Whether the road was ever built: Congress added the corridor to wilderness in 1990 and the segment was
+  never completed (unconfirmed: search summary only). **Do not write the ending unless a writer opens a
+  source for it.**
+- **Land (brief item 5):** the Chimney Rock high country is Yurok, Karuk (the opinion spells it Karok)
+  and Tolowa land, held by the Forest Service as federal land. Same source.
+- **Congress answers *Smith*, 1993: the Religious Freedom Restoration Act, Public Law 103-141, approved
+  16 November 1993** (107 Stat. 1488, https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1488.pdf ).
+  Finding (4): "in Employment Division v. Smith, 494 U.S. 872 (1990) the Supreme Court virtually
+  eliminated the requirement that the government justify burdens on religious exercise imposed by laws
+  neutral toward religion." What it enacted: "Government shall not substantially burden a person's
+  exercise of religion even if the burden results from a rule of general applicability," unless the
+  burden furthers "a compelling governmental interest" by "the least restrictive means." Its stated
+  purpose was to restore the test of *Sherbert v. Verner* (1963) and *Wisconsin v. Yoder* (1972).
+- **The Court cut it back in 1997: *City of Boerne v. Flores*, 521 U.S. 507, decided 25 June 1997.** The
+  Catholic **Archbishop of San Antonio (Patrick Flores)** was refused a permit to enlarge a church in
+  **Boerne, Texas** under a historic-preservation ordinance and sued under RFRA. **Held: "RFRA exceeds
+  Congress' power"** as applied to the states. Kennedy wrote for the Court; O'Connor, Souter and Breyer
+  dissented. (521 U.S. 507, syllabus,
+  https://tile.loc.gov/storage-services/service/ll/usrep/usrep521/usrep521507/usrep521507.pdf ) The
+  1994 peyote amendment in §9l is a separate statute and was not touched by *Boerne*.
+- **Eagle feathers after 1940.** Public Law 87-884, **approved 24 October 1962** (76 Stat. 1246,
+  https://www.govinfo.gov/content/pkg/STATUTE-76/pdf/STATUTE-76-Pg1246.pdf ), extended the 1940 Act to
+  the golden eagle and set the penalty for taking or possessing any part of either eagle without a permit
+  at **up to $500 or six months in prison**. The same law let the Secretary of the Interior permit the
+  taking and possession of eagles "for the religious purposes of Indian tribes." So from 1962 a Native
+  person needed a federal permit to hold an eagle feather for worship. That prosecutions of traditional
+  practitioners happened is in §8 (Irwin, at 7). **No named prosecution of a practitioner for a religious
+  feather was sourced here; do not name one.**
+
+### PATCH 2026-09-27 (T-260c): who killed members of the churches, 1958 to 1999 (the era-zoom claim)
+
+**Why:** the outline's era zoom says men "bombed their buildings and killed their members." The deaths
+are in `rights-movements`, not in this bank. Pointer and counts, so the religion writer can source the
+sentence without retelling the 1963 story.
+
+- **16th Street Baptist Church, Birmingham, 15 September 1963. `rights-movements` LEADS and carries it
+  in full** (`research/research-rights-movements.md`, the NPS "16th Street Baptist Church Bombing (1963)"
+  and "Four Little Girls" pages): a bomb under the church steps "just before 11 o'clock" killed **Addie
+  Mae Collins, 14, Denise McNair, 11, Carole Robertson, 14, and Cynthia Wesley, 14.** Convictions:
+  **Robert Chambliss, 14 November 1977; Thomas Blanton, 1 May 2001; Bobby Frank Cherry, 2002.** Herman
+  Cash died in 1994 and was never prosecuted. **Injured: `rights-movements` has "seventeen others" from a
+  search summary only. Jason Wollschleger (sociologist, Whitworth University), The Conversation, page
+  dated 19 August 2026, says the bomb "killed four girls and injured 22 others."** Two counts; give both
+  or neither.
+- **How many attacks on Black churches there were in the movement years.** Wollschleger's research team
+  has mapped "about 145 cases across the South, ranging from around 1954 to 1970," and he records that in
+  Albany, Georgia, in 1961-62 "four nearby Black churches associated with the Student Nonviolent
+  Coordinating Committee were burned to the ground, including Shady Grove Baptist and High Hope Baptist
+  churches." (https://theconversation.com/birmingham-church-bombing-wasnt-an-isolated-act-of-terrorism-there-were-dozens-of-attacks-on-black-houses-of-worship-during-the-civil-rights-movement-288674 )
+  **This is one research team's count, labelled as such; it is not an official figure.**
+- **A synagogue too: The Temple, Atlanta, 12 October 1958.** "In the early hours of October 12, 1958,
+  fifty sticks of dynamite exploded in a recessed entranceway at the Hebrew Benevolent Congregation."
+  "No people were hurt or killed." Within days five men, all members of antisemitic hate groups, were
+  arrested; only **George Bright** was tried. His first trial ended in a mistrial with the jury split 9 to
+  3; his second, with the lawyer Reuben Garland, ended in acquittal, and the charges against the other
+  four were dropped. **No one was ever convicted.** The congregation's rabbi, **Jacob Rothschild**, had
+  preached against segregation from his pulpit since Yom Kippur 1947. (Edward A. Hatfield, University of
+  Georgia, New Georgia Encyclopedia, "Temple Bombing," published 1 June 2007, last edited 15 July 2020,
+  https://www.georgiaencyclopedia.org/articles/arts-culture/temple-bombing/ ) The Temple is the same
+  congregation Leo Frank belonged to (era 8 PATCH).
+- **Nine killed at a Buddhist temple, 1991.** On **10 August 1991** nine people were shot dead at **Wat
+  Promkunaram**, a Thai Buddhist temple near Phoenix, Arizona (at Waddell): **six monks, a nun, a novice
+  and a temple boy**, found in a circle, each shot in the head. The killing was done in a robbery of the
+  monks. **Johnathan Doody**, 17 at the time, was convicted on nine counts of first-degree murder at his
+  third trial and sentenced on **14 March 2014 to 249 years**; a first conviction had been thrown out
+  because a federal appeals court found his confession coerced. His co-defendant **Alessandro (Alex)
+  Garcia** pleaded guilty and was sentenced to life. (NBC News, 14 March 2014, journalism,
+  https://www.nbcnews.com/news/us-news/1991-temple-killer-sentenced-249-years-prison-n52981 )
+- **The 1990s church fires, from the federal task force's own figures.** Congress passed the **Church
+  Arson Prevention Act of 1996, Public Law 104-155, approved 3 July 1996** (110 Stat. 1392,
+  https://www.govinfo.gov/content/pkg/STATUTE-110/pdf/STATUTE-110-Pg1392.pdf ). Finding (2): "The
+  incidence of arson of places of religious worship has recently increased, especially in the context of
+  places of religious worship that serve predominantly African-American congregations." The **National
+  Church Arson Task Force** (Justice and Treasury) reported **297 arsons, bombings or attempted bombings
+  at houses of worship in 1996, 209 in 1997, 165 in 1998 and 140 in 1999**; **945 investigations** of
+  incidents between 1 January 1995 and 15 August 2000; **431 suspects arrested**; **305 defendants
+  convicted** in connection with 224 arsons or bombings. **Jay Scott Ballinger pleaded guilty on 11 July
+  2000 to setting 26 churches on fire in eight states between 1994 and 1999.** (U.S. Department of
+  Justice press release 00-542, 15 September 2000,
+  https://www.justice.gov/archive/opa/pr/2000/September/542cr.htm ) The task force's final report put
+  **33 per cent** of the attacks from January 1995 to August 2000 at African American churches
+  (unconfirmed: search summary only).
+
+### PATCH 2026-09-27 (T-260c): Waco, 1993, who fired and the counts
+
+**Why:** a religious community besieged by federal agents, with deaths on both sides and children killed.
+Nothing in any chapter's bank. Two official sources, which do not agree on every number. **Every count
+below carries its source.**
+
+- **Who they were.** The **Branch Davidians**, a religious community at the **Mount Carmel** property
+  outside **Waco, Texas**, led by **Vernon Howell, who called himself David Koresh**. (House Report
+  104-749, 1996, https://www.congress.gov/104/crpt/hrpt749/CRPT-104hrpt749.pdf )
+- **28 February 1993.** "a force of **76 ATF agents** stormed the Davidian residence to serve the arrest
+  and search warrants." The Davidians had learned of the raid in advance. The gun battle "continued for
+  almost 90 minutes. **Four ATF agents were killed** in the battle and **more than 20 agents wounded**. At
+  least two Davidians were killed by ATF agents and several others, including Koresh, were wounded."
+  (House Report 104-749, majority summary.) The four agents: **Conway C. LeBleu, Todd W. McKeehan,
+  Robert J. Williams and Steven D. Willis**; 20 agents wounded (same report, minority views). The
+  Special Counsel counts **six Davidians killed on 28 February** (Danforth, below, note 1).
+- **WHO FIRED FIRST. Say that it is disputed, and say what each side says.** ATF agents testified that
+  the Davidians fired first; Texas Ranger Captain **David Byrnes** told the subcommittees "there is no
+  doubt who fired first." The Davidians' lawyers testified that they believed the battle began with an
+  accidental discharge by an ATF weapon. The foreman of the criminal-trial jury told a member that the
+  jury "could not decide because the evidence was in such conflict as to who fired first." **The
+  subcommittees' finding: "The evidence suggests that the Davidians fired the first shots... the question
+  of who fired the first shot on February 28 cannot decisively be resolved... It appears more likely,
+  however, that the Davidians fired first."** (House Report 104-749, finding 5, and the testimony at its notes 117-119.)
+- **The 51 days.** The FBI took over and negotiated for 51 days. Between late February and 23 March,
+  **35 people, including 21 children**, came out (majority report); the minority views give **14 children
+  and 21 adults**. Two counts; give both or neither. From 23 March no one else left. A girl of six,
+  **Melissa Morrison**, told an FBI negotiator she could not leave because "David won't let me"; she died
+  in the fire. (House Report 104-749, minority views.)
+- **19 April 1993.** At about 6 a.m. FBI armoured vehicles began punching holes in the walls and spraying
+  tear gas in; the Davidians fired on the vehicles. At about 12.07 p.m. a fire was seen, two more began
+  within two minutes, and within eight minutes the building was engulfed. (House Report 104-749.) **"More
+  than 70 Davidians, including 22 children, died"** that day (same report).
+- **WHO STARTED THE FIRE AND WHO SHOT THE PEOPLE INSIDE, from the Special Counsel.** Former Senator **John
+  C. Danforth**, appointed Special Counsel by the Attorney General, examined the case for ten months.
+  **Interim Report, 21 July 2000** (https://www.cesnur.org/testi/DanforthRpt.pdf ): "Government agents
+  did not start or spread the tragic fire of April 19, 1993, did not direct gunfire at the Branch
+  Davidians." Responsibility "rests with certain of the Branch Davidians and their leader, David Koresh,
+  who: (a) shot and killed four ATF agents on February 28, 1993, and wounded 20 others; ... (c) directed
+  gunfire at FBI agents who were inserting tear gas into the complex on April 19, 1993; (d) spread fuel
+  throughout the main structure of the complex and ignited it in at least three places ...; and (e)
+  killed some of their own people by gunfire, including at least five children." **20 Davidians died of
+  gunshot wounds on 19 April**, many shot in the head or mouth at close range, and a three-year-old,
+  **Dayland Gent**, was stabbed in the chest. **Total dead: "at least 80"**, counting the six killed on 28
+  February and not counting two unborn children; the exact number cannot be known because of the fire.
+  **The report also states that an FBI agent fired three pyrotechnic tear-gas rounds at 8.08 a.m. on 19
+  April** at a construction pit about 75 feet from the living quarters, and that the government did not
+  disclose this until August 1999; it found those rounds did not start the fire four hours later. The
+  Final Report of **8 November 2000** reaffirmed the interim findings (search summary of the final
+  report; the interim report was read in full).
+- **The trials.** Eleven Davidians were tried; a Texas jury convicted **eight** of various firearm
+  offences, and seven of the eight were sentenced to 40 years. (House Report 104-749, minority views.)
+- **Boundary:** this chapter's angle is a religious community and its end. `crime-justice` or
+  `government-politics` may want the raid and the hearings as law enforcement. Listed in the checkpoint's
+  TO PARK.
+
+### PATCH 2026-09-27 (T-260c): Jonestown, 1978, an American congregation that died abroad
+
+**Why:** a hard subject with a named leader and counts, and the congregation was American (Indianapolis,
+then San Francisco). Short, labelled, and bounded. No superlative about it is sourced here.
+
+- **Peoples Temple** was founded in **Indianapolis in the 1950s** by **Jim Jones** and moved to **San
+  Francisco in 1971**; members then moved to a settlement at **Jonestown, Guyana**. On **18 November
+  1978** Temple members shot dead **Congressman Leo Ryan** of California and four others at the
+  **Port Kaituma airstrip**, among them an NBC cameraman and a Hearst newspapers photographer. At Jones's
+  order, **909 members died at Jonestown, all but two of apparent cyanide poisoning**; children were given
+  it first by syringe, by parents and nurses. (Association for Diplomatic Studies and Training, "The
+  Jonestown Massacre," November 2012, https://adst.org/2012/11/the-jonestown-massacre/ , an oral-history
+  organisation of former U.S. diplomats.)
+- **Counts that disagree:** ADST says "over 200" children; a search summary gives "some 300" aged 17 or
+  under, and 918 dead in all across Jonestown, the airstrip and the Temple's house in Georgetown
+  (unconfirmed: search summary only). **Name the numbers with their sources, or leave the child count
+  out.**
+- **Not in the outline.** The outline does not mention Jonestown. A writer who adds it must keep it to
+  what the sources say.
+
+### PATCH 2026-09-27 (T-260c): era 9 outline claims checked (brief item 3)
+- Every dated claim in the outline's 1950-2000 cell was checked against §9a-9l and the T-260c PATCHes above.
+  All are supported except two wordings:
+  - **The Graham story's Who line, "the best-known Christian evangelist in the country," is a superlative
+    no source in §9i states.** NCpedia and Public Law 104-111 give reach figures (§9i), not a ranking.
+    Write what the sources give (the statute's claimed 100 million in person, with Congress named as the
+    source) and drop "best-known."
+  - **The Kanawha sentence "No source found for this book gives a count of the injured, so this book does
+    not give one" speaks about the book and its research.** The fact is in §9e ("no accessible source
+    gives a count"). History-book wording: "The records of the protest give no count of the injured."
+    Fixed in the outline by T-260c.
+- The era zoom's "killed their members" is now sourced by the T-260c PATCH above (16th Street, 1963).
+
+### SEARCHED, NOT FOUND 2026-09-27 (T-260c): who set the Bethel Baptist bombs of 25 December 1956 and 14 December 1962?
+Sources checked: the NHL nomination (it names J. B. Stoner for 1958 only and says the 1958 bombing "was
+not solved until 1980"); NPS "The Historic Bethel Baptist Church"; the King Institute's Shuttlesworth
+entry; The Conversation (Wollschleger 2026), which names no perpetrator for Bethel; search results for
+the 1956 and 1962 bombings (none reports a charge or conviction). The 1962 date, 14 December, appears
+only in a search summary.
+How the prose can say it: "No one is recorded as convicted of the 1956 bomb or the 1962 bomb."
+
 ## ERA 10 — 2000 to Today (`state="full"`)
 
 **THE PERISHABLE-FACTS RULE GOVERNS THIS WHOLE SECTION.** Every figure below carries the year it
@@ -4329,6 +4554,192 @@ Interior's *Federal Indian Boarding School Initiative Investigative Report, Volu
   Indian boarding school policies."
 - **`native-nations` LEADS on the schools themselves.** This chapter's part is which churches ran them
   (§7e: 210 of 417 federal schools had a religious affiliation) and what those churches have since said.
+
+
+### PATCH 2026-09-27 (T-260c): abuse figures refreshed to 2026, and not only Catholic
+
+**Why:** §10h stops at 2018 (grand jury) and CARA's 2020-22 decade. The perishable rule wants the newest
+dated figures, and a reader should not come away thinking only one church hid abuse.
+
+- **CARA re-checked 27 September 2026:** the spreadsheet at cara.georgetown.edu/faqs still has **2025**
+  as its newest column (sisters 33,135; priests 33,462) and its abuse table still ends at **2020-22: 36**,
+  with the next cell marked "TBA." **§10f and §10h stand as current.**
+- **The bishops' own newest annual audit, released May 2026, covering 1 July 2024 to 30 June 2025:**
+  **1,070 allegations reported by 973 victims-survivors**, across 194 Catholic dioceses and eparchies
+  that reported; **168 more allegations than the year before**; **727 (68 per cent) came in through a
+  lawyer**, and about 60 per cent arose from lawsuits, compensation programmes and bankruptcies. **Only
+  24 allegations were made by people who were still children** (4 substantiated, 13 under investigation,
+  7 unsubstantiated); most concerned abuse that happened decades ago. About 66 per cent of the accused
+  were diocesan priests, and 54 per cent of the accused were dead by June 2025. **The dioceses reported
+  $389.9 million in abuse-related costs in fiscal 2025, 61 per cent more than the year before**, which the
+  report ties to settlements after states lifted time limits on lawsuits. (Gina Christian, OSV News,
+  29 May 2026, via Angelus, https://angelusnews.com/news/nation/usccb-youth-protection-report-2026/ ;
+  the 1,070 / 973 / 168 / 727 figures also appear in the USCCB's release as seen in a search summary.)
+  **Label: the bishops' own audit, reported by a Catholic news service.**
+- **The year before, for comparison:** the 2024 report (1 July 2023 to 30 June 2024), released **6 June
+  2025**, counted **902 allegations by 855 victims-survivors.** (USCCB, "U.S. Bishops' Secretariat of
+  Child and Youth Protection Releases Annual Report," 6 June 2025,
+  https://www.usccb.org/news/2025/us-bishops-secretariat-child-and-youth-protection-releases-annual-report )
+- **The Southern Baptist Convention, 2022.** Its Executive Committee commissioned an outside firm, **Guidepost
+  Solutions**, whose report was published on **22 May 2022**. It found that survivors "were met, time and
+  time again, with resistance, stonewalling, and even outright hostility," and that **D. August Boto**,
+  the committee's former vice-president and general counsel, and **Roger Oldham**, a former SBC
+  spokesman, both retired in 2019, had kept a private list of ministers accused of abuse. The committee
+  released the list on **26 May 2022**: 205 pages, cases mainly from 2000 to 2019. (NBC News, 27 May 2022,
+  journalism, https://www.nbcnews.com/news/us-news/southern-baptist-leaders-release-secret-list-accused-abusers-rcna30807 )
+  **The list held 703 names** (unconfirmed: search summary only, WSOC-TV headline and Baptist press
+  summaries); the report found some committee leaders "singularly focused on avoiding liability for the
+  SBC" (unconfirmed: search summary only).
+- **How to write it:** give the dated figures with whose figures they are. Do not add the numbers up
+  across sources.
+
+### PATCH 2026-09-27 (T-260c): Oak Creek corrected, and attacks on congregations 2017 to 2025
+
+**CORRECTION NOTE to §10i (Oak Creek).** §10i, from Saini's 2012 testimony, says six were killed and that
+"Santokh Singh and Punjab Singh were shot and survived." **A U.S. Senate resolution in 2022 counts seven
+killed, and names Baba Punjab Singh as the seventh.** (Senator Tammy Baldwin, press release on the
+Senate resolution for the tenth anniversary, 2 August 2022,
+https://www.baldwin.senate.gov/news/press-releases/senator-baldwin-leads-senate-resolution-to-remember-the-10th-anniversary-of-shooting-at-the-sikh-temple-in-oak-creek )
+He died of his wounds in 2020 (unconfirmed: search summary only). The same release names **Lieutenant
+Brian Murphy**, "shot 15 times at close range," and Officer Savan Lenda. **The gunman was Wade Michael
+Page, 40, a white supremacist, shot by a police officer and then killed himself** (unconfirmed: search
+summary only; the Senate release does not name him). The outline was corrected by T-260c. Both counts
+stand in the record: six killed on the day; seven by 2022.
+
+- **Sutherland Springs, Texas, Sunday 5 November 2017.** At the **First Baptist Church**, **Devin Patrick
+  Kelley** "entered the church and opened fire, killing twenty-six people and wounding twenty-two more,"
+  then died by his own gunshot after fleeing. A federal court found that **the U.S. Air Force**, where
+  Kelley had been convicted of a domestic-violence crime, failed to send his criminal record to the FBI,
+  so a background check that should have stopped his gun purchases did not, and it held **the United
+  States 60 per cent responsible.** The dead included Emily Hill, 11, and Megan Hill, 9 (the court's
+  list of estates). (*Holcombe v. United States*, No. SA-18-CV-555-XR, W.D. Tex., findings on damages
+  filed 7 February 2022, at 1 and the plaintiff list,
+  https://www.govinfo.gov/content/pkg/USCOURTS-txwd-5_18-cv-00555/pdf/USCOURTS-txwd-5_18-cv-00555-8.pdf ;
+  the liability ruling is 2021 WL 2821125, 6 July 2021.) The Air Force detail beyond "failed to exercise
+  reasonable care in its undertaking to submit Kelley's criminal history" is from a search summary.
+- **Poway, California, Saturday 27 April 2019.** At the **Chabad of Poway**
+  synagogue, **John T. Earnest** killed **Lori Gilbert-Kaye** and wounded three others, among them an
+  eight-year-old child. He also admitted trying to burn down the **Dar-ul-Arqam mosque** in Escondido on
+  24 March 2019. He pleaded guilty to a 113-count federal indictment (including 55 counts under the
+  Church Arson Prevention Act of 1996) and was sentenced to **life plus 30 years**. (unconfirmed: search
+  summary only, of the U.S. Attorney's Office for the Southern District of California and ATF releases;
+  the justice.gov page rendered empty and atf.gov refused.)
+- **Minneapolis, Wednesday 27 August 2025.** During an **all-school Mass** at the **Church of the
+  Annunciation** in the first week of school, a shooter fired through the church windows at children in
+  the pews. **Two children were killed; 26 children and 3 adults were injured by gunfire, and one more
+  person was hurt in another way: 31 victims.** (City of Minneapolis, "Annunciation Remembrance Day,"
+  page updated 26 August 2026,
+  https://www.minneapolismn.gov/resident-services/public-safety/city-emergency/shooting-august-27/ ;
+  "fired through the windows" and the shooter's death from a self-inflicted wound: NPR, Odette Yousef,
+  29 August 2025, https://www.npr.org/2025/08/29/nx-s1-5522038/minneapolis-shooting-motive .) The
+  shooter was **Robin Westman, 23** (NPR). The FBI called it an act of domestic terrorism driven by
+  "hate-filled ideology" (NPR). **The children's names, Fletcher Merkel, 8, and Harper Moyski, 10:
+  unconfirmed: search summary only.**
+- **Grand Blanc Township, Michigan, Sunday 28 September 2025.** **Thomas Jacob Sanford, 40, of Burton,
+  Michigan**, drove his pickup truck through the front doors of a meetinghouse of **the Church of Jesus
+  Christ of Latter-day Saints** during Sunday services, opened fire and set the building on fire. **Four
+  people were killed: Craig Hayden, Pat Howard, John Bond and Thelma Armstrong.** Nine others were
+  wounded, aged 6 to 78. Police shot him dead within 3 minutes 43 seconds of the first 911 call. (WNEM-TV,
+  30 December 2025, journalism,
+  https://www.wnem.com/2025/12/30/look-back-tragic-church-attack-grand-blanc-township/ .) The FBI
+  investigated it as "targeted violence" (search summary only). **No motive is settled in any source
+  opened here. Do not give one.**
+- **Charleston, the sentence.** A federal jury convicted Dylann Roof on 33 counts, including nine counts
+  of obstructing religion resulting in death, and "unanimously recommended a death sentence on the
+  religious-obstruction and firearm counts, and he was sentenced accordingly." The Fourth Circuit
+  affirmed on 25 August 2021. (*United States v. Roof*, 10 F.4th 314, at the opening,
+  https://www.ca4.uscourts.gov/opinions/173.P.pdf )
+- **Colleyville, Texas, 15 January 2022** (a rabbi and three congregants held hostage at Congregation Beth
+  Israel; all released or escaped; the hostage-taker killed) is known but **was not sourced here. Leave
+  it out or research it.**
+
+### PATCH 2026-09-27 (T-260c): FBI hate-crime counts refreshed to the newest year (2025, published August 2026)
+
+- **2025 data, released by the FBI in August 2026:** **2,408 religion-based hate-crime incidents**, of
+  which **1,528 were anti-Jewish (63 per cent)**, down from **1,938 anti-Jewish incidents in 2024**. The
+  FBI's data came from **16,791 law-enforcement agencies, 85.9 per cent of those enrolled.** (Anti-
+  Defamation League press release, 17 August 2026, quoting the FBI data,
+  https://www.adl.org/resources/press-release/2025-marked-third-highest-year-record-anti-jewish-hate-crimes-fbi-reports .)
+  **Label: an advocacy group's reading of FBI figures.** One other Jewish group reported the share as
+  69 per cent (search summary only). **Use 63 per cent with ADL named, or give the counts only.**
+- **Anti-Sikh incidents: 177 in 2025, up from 142 in 2024, a 25 per cent rise.** (Sikh Coalition,
+  18 August 2026, https://www.sikhcoalition.org/blog/2026/fbi-releases-2025-hate-crime-data-including-25-increase-in-anti-sikh-incidents/ .)
+  A different figure, 226 single-bias incidents, appears in a search summary tied to the FBI's
+  preliminary data of April 2026; **use the Sikh Coalition's August figure and say whose it is.**
+- **Anti-Muslim incidents in 2025: 199** (unconfirmed: search summary only).
+- **When the FBI began counting crimes against Sikhs:** the FBI agreed in 2013 and began collecting
+  anti-Sikh, anti-Hindu and anti-Arab bias data in **2015** (unconfirmed: search summary only; ucr.fbi.gov
+  and fbi.gov are behind a browser check). **This is the direct answer to Harpreet Singh Saini's 2012
+  request.** Write the year only once a writer has opened a source for it.
+
+### PATCH 2026-09-27 (T-260c): the classroom Ten Commandments cases, refreshed to September 2026, and the 2025 storybook case
+
+**CORRECTION NOTE to §10e.** §10e says "As of 10 September 2026 the question of whether the law violates
+the First Amendment had not been answered by any court." **That holds for Louisiana only. For Texas, the
+full Fifth Circuit ruled on the merits question at the preliminary-injunction stage.**
+
+- **Texas, Senate Bill 10.** In ***Rabbi Nathan v. Alamo Heights Independent School District***, the Fifth
+  Circuit heard the case en banc from the start and, on **21 April 2026, by 9 votes to 8, "held that
+  S.B. 10 does not violate either of the Religion Clauses,"** vacating a district court's preliminary
+  injunction. The majority opinion, by **Judge Duncan**, held that *Stone v. Graham* (1980) "does not
+  control" because it rested on the *Lemon* test that *Kennedy v. Bremerton* abandoned. (173 F.4th 576
+  (5th Cir. 2026) (en banc), as described in the families' petition for certiorari, filed **17 August
+  2026** by Americans United and others,
+  https://www.au.org/wp-content/uploads/securepdfs/2026/08/Nathan-v.-Alamo-Heights-ISD-Cert-Petition-8.17.26.pdf ,
+  at i and 14-15.) **Label: the ruling as the losing side summarises it; the vote and the holding are
+  plain procedural facts in that document.** The petition's first question: "Whether the Establishment
+  Clause forbids a state from mandating the permanent, conspicuous display of a government-selected
+  version of the Ten Commandments in every public-school classroom."
+- **Louisiana, H.B. 71.** Still as in §10e (en banc vacated the injunction on ripeness grounds, 20
+  February 2026). A Louisiana teacher, **Chris Dier**, asked the Supreme Court to hear his challenge in
+  August 2026 (unconfirmed: search summary only; Louisiana Illuminator, 25 August 2026).
+- **As of 27 September 2026 the Supreme Court had not said whether it will hear either case** (no grant
+  or denial found in the search; the petitions were filed in August and the Court's term opens in
+  October). **Write it as undecided in the Supreme Court.**
+- **The 2025 case about school books and parents' religion: *Mahmoud v. Taylor*, 606 U.S. 522, argued
+  22 April 2025, decided 27 June 2025, 6 to 3.** In the 2022-23 school year the **Montgomery County,
+  Maryland** school board added five "LGBTQ+-inclusive" storybooks for kindergarten to fifth grade, first
+  let parents excuse their children, then withdrew the opt-out. The parents who sued "come from diverse
+  religious backgrounds": **Tamer Mahmoud and Enas Barakat, who are Muslims; Jeff Roman, a Catholic, and
+  Svitlana Roman, Ukrainian Orthodox; and Chris and Melissa Persak, Catholics**, with a parents' group,
+  Kids First. **Held (Justice Alito, joined by Roberts, Thomas, Gorsuch, Kavanaugh and Barrett): the
+  parents were entitled to a preliminary injunction letting their children be excused**, relying on
+  *Wisconsin v. Yoder*: parents have a right "to direct the religious upbringing of their children."
+  **Justice Sotomayor, dissenting with Kagan and Jackson:** public schools "offer to children of all faiths
+  and backgrounds an education and an opportunity to practice living in our multicultural society. ...
+  Yet it will become a mere memory if children must be insulated from exposure to ideas and concepts that
+  may conflict with their parents' religious beliefs." (Slip opinion, syllabus and at 1-2 of the
+  dissent, https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf .) **This is the Yoder line of
+  era 9 carried into 2025, and no other chapter's bank has it.** Parked for `education` and
+  `government-politics`.
+
+### PATCH 2026-09-27 (T-260c): Oak Flat, 2014 to 2026, a sacred place transferred (land, brief item 5)
+
+- **Oak Flat, Chí'chil Biłdagoteel in Western Apache**, in the Tonto National Forest, Arizona, is used for
+  ceremonies including the **Sunrise Ceremony** and was listed on the National Register of Historic Places
+  in 2016. Congress ordered it traded to **Resolution Copper**, a company owned by **Rio Tinto and BHP**,
+  in the **Southeast Arizona Land Exchange and Conservation Act of 2014**, attached to the annual defence
+  bill. **The exchange of about 2,400 acres was completed in March 2026**, and the land is now private.
+  The company expects its mine to leave a crater about two miles wide within about four decades.
+  (Gabriel Pietrorazio, KJZZ, 23 March 2026, journalism,
+  https://www.kjzz.org/tribal-natural-resources/2026-03-23/whats-next-for-oak-flat-the-apache-holy-land-that-now-belongs-to-resolution-copper .)
+  The Supreme Court declined to hear **Apache Stronghold v. United States** in May 2025, and Apache
+  Stronghold filed a new suit in April 2026 (unconfirmed: search summary only, Becket and KJZZ 15 April
+  2026).
+- **Why it belongs here:** it is the *Lyng* question of 1988 again (era 9 PATCH above), a sacred place on
+  federal land and whether the religion clause protects it. `native-nations` may lead on the land.
+
+### PATCH 2026-09-27 (T-260c): era 10 outline claims checked (brief item 3)
+- **Pittsburgh:** the outline says the doctor and the chaplain were setting out books "with a friend."
+  §10i names the third man, **Martin Gaynor**, and does not call him a friend. Name him or say "a third
+  member"; do not say "friend."
+- **Oak Creek:** "killed six people" and "Punjab Singh was shot and lived" corrected by the PATCH above;
+  outline fixed by T-260c.
+- **Louisiana/Texas:** "As of September 2026 no court has answered it" narrowed to Louisiana by T-260c,
+  with the Texas 9-8 ruling added (PATCH above).
+- Every other era-10 claim was checked against §10a-10m and holds. Pew 2025, Gallup 2021, CARA 2025,
+  NCES 2024 and the UMC 2024 figures stand. CARA was re-checked directly on 27 September 2026 and
+  has nothing newer; Pew, Gallup and NCES were not re-searched by T-260c.
 
 ## Coverage / status log
 

@@ -139,3 +139,7 @@ Companion files: outline `outlines/religion.md` · research bank `research/resea
 - Era 7: Mountain Meadows 1857 (killers named, Lee executed); Reynolds v. US; Order No. 11 text; Wovoka's Messiah Letter and Short Bull from Mooney 1896; Royer's troop requests.
 - Era 8: Leo Frank; the second Klan's religion; Jehovah's Witnesses 1940 (Richwood); Hofer brothers (story candidate, director to decide vs `war`).
 - Unsupported outline lines flagged in the bank (era PATCH "claims checked"): Finney "most influential"; Nauvoo "one of the largest towns"; Smith "angel ... hillside" and "nothing left to burn"; Pierce "every church school still stands on that ruling".
+
+## T-260c bank check, eras 9-10 (2026-09-27)
+- Eras 9-10 bank checked; PATCHes at the end of ERA 9 and ERA 10 in the bank. Three correction notes for writers: Oak Creek is seven killed by 2022 (Senate resolution), not six; the Texas Ten Commandments law was upheld 9-8 by the en banc Fifth Circuit on 21 April 2026; Graham's "best-known" is unsupported.
+- Still open, not researched: Colleyville 2022; the evangelical political movement after 1979; Lyng road's final fate; the children's names at Annunciation 2025 and the Poway details (search summary only).

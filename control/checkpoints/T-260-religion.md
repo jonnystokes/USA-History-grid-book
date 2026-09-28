@@ -1,13 +1,13 @@
 # CHECKPOINT T-260 | religion | bankcheck | T-260a: eras 1-5
 
-STATUS: T-260b landed (director verified: PASS  religion / research)
+STATUS: T-260c landed (director verified: PASS  religion / research)
 VERIFY: python tools/project_state.py --check religion --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE bankcheck
 MODEL:  opus
 FILES:  outlines/religion.md · research/research-religion.md · workspace/religion.md
 
-NOW:    T-260b finished eras 6-8 (2026-09-27)
-NEXT:   T-260c (eras 9-10): run the brief's bank check on eras 9-10 (`python tools/slice_bank.py religion --eras 9-10`). Hard subjects to test first: the 1978 American Indian Religious Freedom Act and the peyote/Smith 1990 and RFRA 1993 line (bank §9 has Smith and 108 Stat.); eagle-feather prosecutions after the 1940 Act; boarding-school apologies (bank §7e parked 2022-2024 items); clergy abuse figures dated and refreshed to 2026 (PA grand jury, John Jay); attacks on worshippers (Charleston 2015, Pittsburgh 2018, and any 2019-2026 attacks, with FBI hate-crime figures refreshed to the newest year); Coughlin was left for a later pass (era 8). Then check every era's progress= flag (all ten read researched on 2026-09-27) and run --stage research.
+NOW:    T-260c finished eras 9-10 (2026-09-27)
+NEXT:   Chapter research complete (all 10 eras bank-checked). Director: verify, commit, file TO PARK (T-260c). Writers: read the three CORRECTION NOTEs in eras 9-10 (Oak Creek 7 dead; Texas 9-8 ruling; Graham superlative).
 
 ## PARALLEL RUN (Jon, 2026-09-27): ten agents at once
 
@@ -35,6 +35,10 @@ PASS  religion / research
 | 6 | T-260b bank check era 8 | done | 5 PATCH at end of ERA 8 (see Log) |
 | 7 | T-260b verified stories eras 6-8 have key facts in bank (Finney, Smith, Frazier, Seymour, McPherson, Black Elk) | done | all 6 have bank sections; 4 unsupported lines in joseph-smith, 1 in finney, 2 wording notes (McPherson charge, Black Elk) |
 | 8 | T-260b final: validator, research check, NEXT for T-260c | done | validator 0 errors; all 10 progress=researched; PASS |
+| 9 | T-260c bank check era 9 (five Find items) | done | 4 PATCH + 1 claims PATCH + 1 SNF before ERA 10 (see Log) |
+| 10 | T-260c bank check era 10 (five Find items, perishables refreshed to 2026) | done | 6 PATCH at end of ERA 10 incl. 3 correction notes (see Log) |
+| 11 | T-260c verified stories eras 9-10 have key facts in bank (Graham, Revis, Yoders, Kennedy, Saini) | done | all 5 in §9f-9k, §10c, §10i-j; Graham Who line 'best-known' was unsupported, rewritten |
+| 12 | T-260c final: outline punctuation eras 9-10, progress= flags all eras, validator, research check | done | all 10 progress=researched and match content; validator 0 errors; PASS (bank=60787w) |
 
 ## SUBJECT NOTES (from the director)
 
@@ -59,6 +63,15 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 - `slavery-freedom`, era 3: Virginia 1667 act "that baptisme of slaves doth not exempt them from bondage" (full text + source in religion bank, PATCH at end of ERA 3; Encyclopedia Virginia, Hening 2:260). No chapter had it.
 - `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
+
+## TO PARK (T-260c)
+- `crime-justice` or `government-politics`, era 9: Waco 1993 (House Report 104-749; Danforth interim report 21 July 2000). Religion bank PATCH T-260c end of ERA 9.
+- `rights-movements`, era 9: second injured count for 16th Street (22, Wollschleger, The Conversation 2026) against its search-summary 17; and Wollschleger's about 145 attacks on Black churches 1954-1970. Religion bank end of ERA 9.
+- `native-nations`, era 9: Lyng v. Northwest Indian Cemetery Protective Assn. 1988 (Yurok, Karok, Tolowa sacred high country). Religion bank end of ERA 9.
+
+- `education` and `government-politics`, era 10: Mahmoud v. Taylor, 606 U.S. 522 (27 June 2025, 6-3), parents' religious opt-out from storybooks; named parents; Sotomayor dissent. And Texas Ten Commandments: Rabbi Nathan v. Alamo Heights ISD, 173 F.4th 576 (5th Cir. en banc, 21 Apr 2026, 9-8), cert petition 17 Aug 2026. Religion bank end of ERA 10.
+- `native-nations`, era 10: Oak Flat exchange completed March 2026 (about 2,400 acres, Resolution Copper, 2014 Act; KJZZ 23 Mar 2026). Religion bank end of ERA 10.
+- `crime-justice`, era 10: Sutherland Springs 2017 (Holcombe v. US: 26 killed, 22 wounded, US 60% liable); Grand Blanc 2025 (4 named dead). Religion bank end of ERA 10.
 
 ## TO PARK (FILED by the director, 2026-09-27)
 - `native-nations`, era 6: California mission revolts 1812-1839 as resistance (Quintana's killers Lacah, Yaquenonsat, Yachacxi, Ules, Lino; Chumash War 1824 counts, 7 executed; Estanislao and Cipriano 1828-29; Yozcolo 1839, head displayed), and secularization 1826-45 (land to colonists). Religion bank PATCH T-260b end of ERA 6, MPDF E63-64, E81-82, E132-134.
@@ -423,3 +436,6 @@ Pages the killed agent fetched (316; re-read the useful ones rather than searchi
 - 2026-09-27 T-260b: era 6 landed (end of ERA 6): PATCH California missions 1800-48 (MPDF: Quintana 1812 + 5 named killers, 16 tried/9 convicted; Olbes and Zalvidea punishments; Cook 310,000 to <=150,000 by 1845; Chumash War 1824 counts and 7 executed; Estanislao; Yozcolo; secularization 1826-45); PATCH Missouri 1833 + 1838 both sides, Haun's Mill leaders (Jennings, Comstock), 17 vs 18 dead, how killed; SNF no Haun's Mill trial; PATCH Carthage killers (about 100 men; 9 indicted, 5 tried and acquitted, named); PATCH Charlestown religious angle (Reed, Mary John, Beecher, historians disagree); PATCH Douglass appendix; PATCH land (Nauvoo, Sauk/Meskwaki, search summary); PATCH firsts (2 unsupported superlatives).
 - 2026-09-27 T-260b: era 7 landed (end of ERA 7): PATCH Mountain Meadows (Baker-Fancher, about 120 killed, 17 spared; Haight, Lee, Dame, Higbee, Klingensmith, Bateman, Nephi Johnson; Lee shot 23 Mar 1877; Young's role disputed, both sides recorded; church 2007 regret); PATCH Reynolds v. US 1879 (U.S. Reports); PATCH Grant's Order No. 11 text, Kaskel, Lincoln; PATCH Ghost Dance from Mooney 1896 primary (Messiah letter, Short Bull, Royer's requests 12 Oct / 30 Oct / 15 Nov); PATCH Bloody Monday pointer + era 7 firsts.
 - 2026-09-27 T-260b: era 8 landed (end of ERA 8): PATCH Leo Frank (GHS marker text, 25 'Knights of Mary Phagan', Tom Watson, lynchers' names held back as search-summary only, ADL 1913 correction); PATCH second Klan's religion (Stone Mountain 1915, Protestant-only, 5 million 1924, Klansmen paying revivalists, Baker); PATCH Jehovah's Witnesses 1940 (Gobitis 8-1, Richwood castor oil, Catlette and Stewart convicted 1942, Barnette 6-3); PATCH Hofer brothers from war bank (story candidate); PATCH era 8 claims (Pierce 'every church school' unsupported).
+- 2026-09-27 T-260c: era 9 landed (end of ERA 9): PATCH Smith names (Alfred Smith, Galen Black), vote, Scalia/Blackmun quotes; Lyng 1988 (Yurok, Karok, Tolowa; Chimney Rock; 5-3); RFRA 1993 (107 Stat. 1488); Boerne 1997; eagle act 1962 permit for Indian religious purposes (76 Stat. 1246). PATCH attacks on congregations 1958-1999 (16th Street pointer + convictions; Wollschleger 145 cases; The Temple 1958, Bright acquitted; Wat Promkunaram 1991, Doody; Church Arson Prevention Act 1996 + NCATF counts, Ballinger). PATCH Waco (HR 104-749: 76 agents, 4 named agents killed, who fired first disputed and the finding; Danforth 2000: Davidians set fire, 20 shot inside, at least 80 dead). PATCH Jonestown (ADST). PATCH era-9 claims (Graham 'best-known' unsupported; Kanawha self-reference fixed in outline). SNF Bethel 1956/1962 bombers.
+- 2026-09-27 T-260c: era 10 landed (end of ERA 10): PATCH abuse refresh (CARA re-checked, 2025 still newest; USCCB audit 2024-25: 1,070 allegations/973 people/24 current minors/$389.9m, OSV News 29 May 2026; 2023-24: 902/855; SBC Guidepost 2022, Boto and Oldham list). PATCH attacks (CORRECTION Oak Creek: 7 killed per 2022 Senate resolution, Baba Punjab Singh; Sutherland Springs 2017, Holcombe; Poway 2019 search summary only; Annunciation 2025, city page 31 victims; Grand Blanc 2025, 4 named; Roof death sentence). PATCH FBI 2025 hate-crime data (2,408 religion-based, 1,528 anti-Jewish, ADL; anti-Sikh 177, Sikh Coalition; 2015 start of Sikh category search summary only). PATCH Ten Commandments (CORRECTION: Texas en banc 9-8 on 21 Apr 2026; cert petitions Aug 2026) + Mahmoud v. Taylor 2025. PATCH Oak Flat 2026. PATCH era-10 claims.
+- 2026-09-27 T-260c: outline eras 9-10 edited (no other eras touched): zero semicolons and em dashes now in eras 9-10 (8 removed, quotes paraphrased or split); Kanawha self-reference removed; Graham Who line; Oak Creek seventh death; Pittsburgh 'friend' -> Martin Gaynor; Louisiana/Texas status. Validator 0 errors.

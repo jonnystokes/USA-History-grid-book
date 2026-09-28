@@ -3000,9 +3000,11 @@ NOTE (Jon): PAUSE after T-262c finishes. No new dispatches until Jon says.
 ### 2026-09-27 | [LOCAL] RESUMED (Jon): burst of 5, five distinct chapters
 
 ### 2026-09-27 | [LOCAL] T-260c | religion: bank check eras 9-10 [BURST5] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-260-religion.md
 VERIFY: python tools/project_state.py --check religion --stage research
+RESULT: DONE. PASS  religion / research. measured: stage=RESEARCHED eras=10/10 stories=18 (v18 c0 t0) verify_tags=0 bank=60787w outline=22218w manuscript=0w validator_errors=0
+        284961 tokens, 110 tool uses, 14.5 min (opus). Eras 9-10 bank check; religion's checks COMPLETE. Smith and Black (peyote), Lyng 1988, RFRA 1993/1997, eagle-feather rule; Atlanta Temple 1958, Arizona temple 1991, church arsons 1996-99; Waco (two reports; House 1996 on who fired first); Jonestown; bishops' May 2026 audit, SBC 2022 report; Sutherland Springs, Poway, Minneapolis, Grand Blanc; FBI 2025; Mahmoud v. Taylor 2025; Oak Flat 2026. Corrections: Oak Creek 7 dead (Punjab Singh), Texas Ten Commandments law upheld 9-8 on 21 Apr 2026, a self-reference rewritten. 1 searched-not-found. TO PARK 6.
 
 ### 2026-09-27 | [LOCAL] T-261c | education: bank check era 8 [BURST5] | model opus
 STATUS: DONE
