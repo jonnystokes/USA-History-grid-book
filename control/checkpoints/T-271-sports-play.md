@@ -1,13 +1,13 @@
 # CHECKPOINT T-271 | sports-play | full | T-271a: eras 1-5 · T-271b: eras 6-7
 
-STATUS: T-271b landed (director verified: FAIL  sports-play / research)
+STATUS: T-271c landed (director verified: FAIL  sports-play / research)
 VERIFY: python tools/project_state.py --check sports-play --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/sports-play.md · research/research-sports-play.md · workspace/sports-play.md
 
-NOW:    T-271b finished (2026-09-28). Nothing in progress.
-NEXT:   Era-8 agent: research era 08 (1900-1950), then eras 09-10 (possibly separate agents), one era at a time, then the bank check for those eras. Eras 1-7 are done; do not redo them. Era-08 handoffs (bank 'Bank check, eras 06-07', last paragraph): Black jockeys forced out in the 1900s and who did it (Winkfield, licensing); 1903 Choctaw-Chickasaw game and end of the semi-annual games; 1904-1905 football death counts; Mills Commission 1907 (sources in bank era 06); Jim Thorpe (parked section). Era 9/10: Iroquois Nationals (slug haudenosaunee-lacrosse-player free). 45 [VERIFY], 6 candidates, 6 targets remain, all in eras 8-10.
+NOW:    T-271c finished (2026-09-28). Nothing in progress.
+NEXT:   T-271d: research era 10 (2000-today) only, then the bank check for era 10 and the final chapter check. Eras 1-9 are done; do not redo them. Era 10 holds all that remains: 17 [VERIFY], 2 targets (athlete-or-youth-sports-family, young-esports-competitor), 0 candidates. Handoffs in the bank ('Bank check, eras 08-09', last paragraph): Iroquois Nationals 2010 passports and 2014/2018 bronze; walking to school 2009 = 12.7% (McDonald 2011 Table 2, same survey family as 1969's 47.7%); Hofferth 1997-2003; Knoester-Bjork club teams; parked 2026 Supreme Court ruling. As the last agent, confirm every era's progress= flag.
 
 ## BURST (Jon, 2026-09-27): burst (music, storytelling-evolution, sports-play, styles)
 
@@ -34,6 +34,10 @@ for those eras. T-271b does eras 6-10 later (it may be split further).
 | 5 | T-271b: research era 07 (1850-1900): outline + bank, clear [VERIFY], resolve target early-black-professional-player | done | era 07 researched; 0 VERIFY; target replaced by verified moses-fleetwood-walker; new verified isaac-murphy |
 | 6 | T-271b: bank check, eras 06-07 | done | bank section 'Bank check, eras 06-07'; William Edward White PATCH qualified the Walker 'first' |
 | 7 | T-271b: final: validator, research check, NEXT for era-8 agent | done | validator 0 errors; research check FAIL (PARTIAL: 45 VERIFY, 6 candidates, 6 targets, all in eras 8-10) |
+| 8 | T-271c: research era 08 (1900-1950): outline + bank, clear [VERIFY], resolve candidates/targets, era-08 handoffs | done | era 08 researched, 0 VERIFY; 6 stories verified (jack-johnson new, babe-ruth, josh-gibson replaces negro-leagues-player target, jackie-robinson, jesse-owens, babe-didrikson-zaharias); child-play target replaced by verified carl-stotz (with Bair, Yearick); handoffs told (Winkfield + Leeds/Rockoff, Choctaw-Chickasaw 1903, 1905 deaths); Thorpe as span |
+| 9 | T-271c: research era 09 (1950-2000): outline + bank, clear [VERIFY], resolve candidates/targets (incl. Iroquois Nationals) | done | era 09 researched, 0 VERIFY; stories verified: muhammad-ali (sports angle), billie-jean-king, chris-ernst (replaces title-ix-athlete), kathryn-johnston (replaces postwar-child target); spans: Cannon Street 1955, Pepe 1972-74, Palmer v. Thompson, Monson 1964, Super Bowl I, Flood/Seitz, 1968 protest, NFHS Title IX counts, games 1972-1994, McDonald/Hofferth/BLS/Census child-time figures, Iroquois Nationals 1983-1990 |
+| 10 | T-271c: bank check, eras 08-09 | done | bank section 'Bank check, eras 08-09'; PATCH 1910 riots (UPI report of 5 July 1910); SEARCHED, NOT FOUND on the riot victims' names |
+| 11 | T-271c: final: validator, research check, NEXT for T-271d (era 10) | done | validator 0 errors; research check FAIL (PARTIAL: 17 VERIFY, 2 targets, 0 candidates, all in era 10) |
 
 ## SUBJECT NOTES (from the director)
 
@@ -78,6 +82,27 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `work-workers`, era 1800-1850: Lucy Larcom's Lowell mill work from age 11 in 1835 ($1 a week plus board; winter day
   from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
 
+## TO PARK (T-271c)
+- `rights-movements`, era 1950-2000: pool desegregation. St. Augustine, 18 June 1964, Monson Motor Lodge manager James
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+- `rights-movements` or `crime-justice`, era 1900-1950: the riots after Johnson-Jeffries, 4 July 1910, 11 to 26 killed
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+- `education` or `native-nations`, era 1900-1950: after Thorpe's medals were taken, Carlisle student Gus Welch gathered 200+
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+- `storytelling-evolution`, era 1900-1950: Payne Fund Studies (13 studies, 1929-1933); Butsch 2001 on children at
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+- `home-family`, era 1950-2000: mothers with children under 18 in the labor force, 47% (1975) to 73% (2000) (BLS TED
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+- `migration`: The Oregon Trail game (first played 3 Dec 1971, Minneapolis; Rawitsch, Heinemann, Dillenberger). Told
+  briefly here as play; the director decides which chapter leads.
+
 ## Sources in hand
 - Breen 1977 PDF: blogs.dickinson.edu/hist-117pinsker/files/2011/01/Breen-article.pdf (pypdf reads it). Stanard 1894: archive.org jstor-4241820.
 - New Netherland laws: archive.org cu31924080779402 djvu txt. Mass. laws 1660: coloniallawsofma1660mass. Plymouth records: recordsofcolonyo0304newp, recordsofcolonyo0506newp.
@@ -112,6 +137,23 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
   documented cases are about 1790 and 1800 and both ended in fighting. Now told in era 5.
 
 ## Log
+- 2026-09-28 T-271c: unit 10 bank check DONE; unit 11: validator 0 errors; research check FAIL, PARTIAL (17 VERIFY, 2 targets,
+  all in era 10). Scratch files: scratchpad/T-271c (fetch.py, splice.py, insert_bank.py, PDFs of NFHS, McDonald, Hofferth, Census).
+- 2026-09-28 T-271c: era 1950-2000 DONE (researched). Bank "Era 09": Little League girls (StoryCorps; Little League 2024),
+  Cannon Street (Hall of Fame), Palmer v. Thompson, Monson 1964, Super Bowl I, Ali, 1968 protest (Wikipedia, History.com),
+  NFHS totals table (PDF), Ernst (Wikipedia, Yale Library), King, Flood/Seitz (search summary), Miracle on Ice, Pong/Atari/
+  Pac-Man/crash/Game Boy/Oregon Trail/1993 hearings (Wikipedia), McDonald 2011 (PDF), Hofferth 2009 (PDF), BLS 2009,
+  Census P70-70 (PDF), Knoester-Bjork (OSU 2025), Iroquois Nationals. Three SEARCHED, NOT FOUND (quarter play length;
+  youth sport cost pre-2000; unsupervised outdoor hours).
+- 2026-09-28 T-271c: era 1900-1950 DONE (researched). Bank "Era 08": 1905 deaths (NCAA 18/149; Tribune 19; Cincinnati 25;
+  Gordon/Deadspin ~20, 11 direct, named dead), Roosevelt 9 Oct 1905, IAAUS/NCAA; Johnson-Jeffries riots (11-26 dead, Uvalda),
+  film ban 1912-1940, Mann Act; Thorpe 1913/1982/2022 (Adams NMAI); World Series 1903; NNL 1920; Gibson (SABR); Robinson
+  (Wikipedia, SABR Cohen); Owens; Didrikson (Cayleff TSHA; colostomy defined); Winkfield and Leeds-Rockoff NBER on white
+  jockeys' violence; 1903 Choctaw-Chickasaw game (Chickasaw marker); Girl Scouts (GHS), Little League (littleleague.org),
+  WPA counts (Encyclopedia.com), Wiltse, Fairground Park 1949; Butsch 2001 on matinees; comics survey 1944 (TMU exhibit);
+  Sterling North 1940 (CBLDF). Four SEARCHED, NOT FOUND (radio audiences; matinee price; drowning by race; named child's
+  own play account: loc.gov returns 403). Search-summary-only items tagged (Boy Scouts, 4-H, AAGPBL, Monopoly, Superman,
+  radio serials, MLB 2020/2024).
 - 2026-09-28 T-271b: era 1850-1900 DONE (researched). Bank "Era 07": Red Stockings (Hall of Fame), Rutgers 1869,
   Naismith (Springfield College; McGill), Connolly 1896 (NBC), color line (NABBP 1867; Fowler; Walker via Zang/SABR and
   Wikipedia; IL vote 14 July 1887, Mancuso/SABR), Oliver Lewis and Isaac Murphy (earnings, house, 1890 Monmouth,

@@ -1,6 +1,6 @@
 # Research Bank: Chapter 36, Sports and Play (`sports-play`)
 
-Eras 1-5 researched by T-271a (2026-09-28). Eras 6-7 researched by T-271b (2026-09-28). Eras 8-10 not yet researched. The "Parked from" sections
+Eras 1-5 researched by T-271a (2026-09-28). Eras 6-7 researched by T-271b (2026-09-28). Eras 8-9 researched by T-271c (2026-09-28). Era 10 not yet researched. The "Parked from" sections
 further down were left by other chapters' agents and are kept as they were.
 
 Working notes. Quotations keep the spelling of the source. Where a source is a later account of an older
@@ -1270,6 +1270,651 @@ Fields, Boston and Coney Island were not checked for earlier Native owners: the 
 **Handed to the era-8 agent.** Black jockeys forced out in the 1900s (who did it); the 1903 Choctaw-Chickasaw game and
 the end of the semi-annual games (Choctaw Nation); 1904-1905 football death counts; the Mills Commission report of 30
 Dec 1907 (told briefly in era 06 as the end of the Doubleday story, full sources in the bank era 06).
+
+## Era 08: 1900 to 1950 (T-271c, 2026-09-28)
+
+### Sources for this era
+- **Football 1905:** NCAA, "The History of the NCAA" (ncaa.org/about-us/history, opened); Smithsonian, "Score One for
+  Roosevelt" (opened); Aaron Gordon, "Did Football Cause 20 Deaths In 1905? Re-Investigating A Serial Killer", Deadspin
+  (opened); New England Historical Society, "Football's Death Harvest of 1905" (opened); search summary of History.com and
+  the Theodore Roosevelt Center for the White House guest list.
+- **Jack Johnson:** Wikipedia "Jack Johnson (boxer)" and "Johnson-Jeffries riots" (both opened, via WebFetch summary);
+  search summary of the Clio entry and UPI archive.
+- **Jim Thorpe:** Wikipedia "Jim Thorpe" (opened); James Ring Adams, "The Jim Thorpe Backlash: The Olympic Medals Debacle
+  and the Demise of Carlisle", *American Indian* magazine (NMAI) (opened); search summaries of Olympedia and the IOC for the
+  1982 and 1983 dates. The IOC page itself timed out twice. Parked native-nations notes (below) cite ESPN, 15 July 2022.
+- **Baseball:** Wikipedia "1903 World Series" (opened); Wikipedia "Negro National League (1920-1931)" (opened); Bill
+  Johnson, "Josh Gibson", SABR BioProject (opened); Wikipedia "Josh Gibson" (opened); Wikipedia "Jackie Robinson"
+  (opened); Alan Cohen, "May 9, 1947: Racial slurs won't stop Jackie Robinson", SABR Games Project (opened); search
+  summaries for MLB's 16 Dec 2020 announcement (Ballpark Digest, NPR, MLB.com) and the 28-29 May 2024 statistics
+  (MPR/AP, CNN); Wikipedia "Babe Ruth" (opened).
+- **Owens and Didrikson:** Wikipedia "Jesse Owens" (opened); Susan E. Cayleff, "Zaharias, Mildred Ella Didrikson
+  (Babe)", *Handbook of Texas*, TSHA (opened); Wikipedia "Babe Didrikson Zaharias" (opened).
+- **Jockeys:** Michael Leeds and Hugh Rockoff, "Jim Crow in the Saddle: The Expulsion of African American Jockeys from
+  American Racing", NBER Working Paper 28167, summarized in the NBER Digest, Jan 2021 (opened); Lisa K. Winkler, "The
+  Kentucky Derby's Forgotten Jockeys", Smithsonian (opened); Kentucky Derby Museum, "Jimmy Winkfield" (opened); Kentucky
+  Historical Society, "African American Jockeys at the Kentucky Derby" (opened).
+- **Choctaw-Chickasaw game, 1903:** Chickasaw Historical Society marker, Allen, Oklahoma (hmdb.org m=64183, opened);
+  Choctaw Nation "Stickball" (opened by T-271b, quoted in era 07).
+- **Organized childhood:** Georgia Historical Society, "Early Girl Scouting" (opened); Little League, "History of
+  Little League" (littleleague.org, opened); Wikipedia "Carl Stotz" (opened); Mike Reuther, "Little League, other
+  communities say goodbye to originals Bair, Yearick", *Williamsport Sun-Gazette*, 31 Jan 2020 (opened); search summaries
+  for the Boy Scouts (History.com) and 4-H (Wikipedia).
+- **WPA and pools:** Encyclopedia.com, "Work Projects Administration" (opened, citing the WPA final report figures); UNC
+  Press interview with Jeff Wiltse, 29 Aug 2018 (opened); Wikipedia "Fairground Park riot" (opened); search summary of
+  Encyclopedia MDPI "The Fairground Park Riot".
+- **Media at home:** Richard Butsch, "American Movie Audiences of the 1930s", *International Labor and Working-Class
+  History* 59 (Spring 2001), pp. 106-120 (PDF, read); "A Crisis of Innocence", Toronto Metropolitan University Library
+  exhibit, section 3 "The Child Readers of Comics" and item 201 (opened); Comic Book Legal Defense Fund, "History of
+  Comics Censorship, Part 1" (opened); Wikipedia "Payne Fund Studies" (opened); search summaries for Action Comics #1,
+  Little Orphan Annie radio, The Lone Ranger, Monopoly and the Landlord's Game (British Library, Smithsonian Lemelson
+  Center titles seen).
+- **Women's baseball:** search summaries of Wikipedia and Britannica "All-American Girls Professional Baseball League"
+  and SABR's journal articles (titles seen).
+
+### Football: the deaths of 1905 and the meeting at the White House
+- **Counts for 1905, all recorded:** "a season that produced 18 deaths and 149 serious injuries attributed to the
+  sport" (NCAA). Smithsonian: "18 players died and 159 suffered severe injuries" (no source given). The *Chicago Tribune*
+  counted 19 deaths (NEHS; search summary adds 137 serious injuries, unconfirmed: search summary only). The *Cincinnati
+  Commercial Tribune* counted "25 killed and 168 seriously injured" (NEHS). Aaron Gordon (Deadspin) re-checked the
+  newspaper reports: about 20 deaths were linked to football that year, 11 of them directly from football injuries, and
+  the rest of doubtful cause. He found deaths among college players and among high-school and younger boys.
+- **Named dead, 1905 (Gordon, Deadspin):** Harold Moore, 19, a Union College halfback, knocked unconscious in the game
+  against New York University, died six hours later of a cerebral hemorrhage (bleeding inside the brain). Robert Brown,
+  16, Sedalia, Missouri, paralyzed by a neck injury, died without waking. Carl Osborne, Marshall High School, Rockville,
+  Indiana: "killed instantly when a broken rib punctured his heart". John Summergill, Chester, Pennsylvania, kicked in the
+  stomach and in the temple, died of a hemorrhage. NEHS: Moore "got a blow to his head in a game against New York
+  University and died 6 hours later".
+- **The White House, 9 Oct 1905:** Theodore Roosevelt met coaches and alumni advisers from Harvard, Yale and Princeton,
+  with Secretary of State Elihu Root (Smithsonian). Names from search summaries: Walter Camp (Yale), Arthur T. Hildebrand
+  (Princeton), William T. Reid (Harvard) (unconfirmed: search summary only). The men signed a statement against rough
+  play (Smithsonian; History.com summary).
+- **The NCAA:** 9 Dec 1905, 13 schools met at the call of NYU Chancellor Henry M. MacCracken. 28 Dec 1905, 62 schools
+  met and formed the Intercollegiate Athletic Association of the United States (IAAUS). Renamed the National Collegiate
+  Athletic Association on 29 Dec 1910 (NCAA). Smithsonian: 62 charter members in March 1906.
+- **Rules for 1906:** 10 yards for a first down instead of 5, a neutral zone at the line, at most five men in the
+  backfield, no hurdling, a penalty system, and the forward pass (Smithsonian).
+
+### Jack Johnson and the riots of 4 July 1910
+- Born 31 March 1878, Galveston, Texas. Won the heavyweight title from Tommy Burns in Sydney, Australia, 26 Dec 1908
+  (Wikipedia).
+- 4 July 1910, Reno, Nevada: he beat James J. Jeffries, the former champion, whose corner stopped the fight in the 15th
+  round. Jeffries had said: "I am going into this fight for the sole purpose of proving that a white man is better than a
+  Negro" (Wikipedia).
+- **The riots:** that night white mobs attacked Black people in dozens of places. Wikipedia "Johnson-Jeffries riots":
+  **11 to 26 killed** ("exact count unknown"), hundreds hurt, hundreds arrested. Wikipedia "Jack Johnson": riots in more
+  than 25 states and 50 cities, "at least twenty" killed. **Counts differ; give the range.** Incidents: Uvalda, Georgia,
+  white gunmen fired on a construction camp and killed three Black workers. Norfolk, Virginia, more than 300 white navy
+  sailors hunted for Black people in the streets. New York City, 11 separate riots in a few hours, one person beaten to
+  death. Washington, D.C., crowds of up to 7,000, two white men stabbed to death, 236 arrested. Wheeling, West Virginia, a
+  Black man driving an expensive car was attacked (Wikipedia riots article says "lynched"; not confirmed elsewhere, do
+  not use without a second source). **No attacker or victim is named** in the sources read.
+- **Film ban:** states and cities banned the fight film. In 1912 Congress banned carrying boxing films across state
+  lines. The ban was lifted in 1940 (Wikipedia riots article).
+- **Prison:** arrested 18 Oct 1912 under the Mann Act of 25 June 1910, which made it a felony to carry "any woman or
+  girl" across state lines "for the purpose of prostitution or debauchery, or for any other immoral purpose" (Wikipedia
+  "Mann Act"). The first charge concerned his white girlfriend Lucille Cameron, who would not help the prosecutors and
+  later married him. The conviction concerned Belle Schreiber, a white woman he had traveled with (Wikipedia "Mann Act").
+  Convicted June 1913 by an all-white jury before Judge Kenesaw Mountain Landis, sentenced to a year and a day. He fled to
+  Canada and Europe for seven years, surrendered 20 July 1920, served at Leavenworth, released 9 July 1921. Pardoned by
+  President Donald Trump, 24 May 2018. Died 10 June 1946 in a car crash near Franklinton, North Carolina, after being
+  refused service at a segregated diner (Wikipedia).
+
+### Jim Thorpe: the athlete (native-nations tells Carlisle and the nation)
+- Born 22 or 28 May 1887 near Prague, Oklahoma (sources differ on the day), Sac and Fox Nation. Meskwaki name
+  Wa-Tho-Huk, "Bright Path" (Wikipedia). Coached at Carlisle Indian Industrial School by Glenn "Pop" Warner.
+- 1912 Stockholm: won the pentathlon and the decathlon, 8,413 points in the decathlon, 688 ahead of Hugo Wieslander
+  (Wikipedia). Detail of dates in the parked native-nations notes below.
+- **Taken away, 1913:** in January 1913 the *Worcester Telegram* reported (reporter Roy Johnson, per Adams, NMAI) that he
+  had played minor-league baseball for pay at Rocky Mount, North Carolina, in 1909 and 1910. Pay: "as little as $2 per
+  game, up to $35 weekly" (Wikipedia) or "$5 per game" (Adams): **figures differ**. He wrote to James E. Sullivan of the
+  Amateur Athletic Union: "I hope I will be partly excused by the fact that I was simply an Indian schoolboy and did not
+  know all about such things" (Wikipedia). Adams: Warner and the Carlisle superintendent Moses Friedman are said to have
+  drafted the letter ("allegedly"), and Warner took the medals from Thorpe's house and sent them back to Stockholm. The
+  AAU took away his amateur status and the IOC struck his results in 1913 (Wikipedia). The Olympic rules allowed protests
+  only within 30 days of the Games, and the reports came about six months later (Wikipedia). Wieslander refused the gold
+  medal (Wikipedia).
+- **Returned:** Florence Ridlon found the 30-day rule in the 1912 rules in July 1982 (Adams). IOC Executive Board, 13
+  Oct 1982: Thorpe restored as co-champion (Adams; Olympedia summary). 18 Jan 1983, Los Angeles: IOC President Juan
+  Antonio Samaranch gave replica medals to his children Bill and Gail Thorpe; the originals were missing (search summary of
+  Olympedia/IOC) (unconfirmed: search summary only). 15 July 2022: IOC named him sole champion of both events (parked
+  notes, ESPN; Wikipedia).
+- **Pro career:** baseball with the New York Giants 1913-1915 and 1917-1919, Cincinnati 1917, Boston Braves 1919,
+  batting .252. Football with the Canton Bulldogs from 1915, paid $250 a game. First president of the American
+  Professional Football Association, 1920-1921, the league later renamed the NFL (Wikipedia).
+- **Later:** worked as a film extra, laborer and doorman; treated for lip cancer as a charity patient in 1950; died 28
+  March 1953, Lomita, California, of heart failure, aged 65 (Wikipedia). Movie: *Jim Thorpe: All-American* (1951), Burt
+  Lancaster (Wikipedia).
+
+### Baseball: the World Series, Babe Ruth, the Negro Leagues, Jackie Robinson
+- **World Series, 1903:** 1 to 13 Oct 1903, Boston Americans beat the Pittsburgh Pirates 5 games to 3 in a best-of-nine
+  series; total attendance 100,429. The owners Barney Dreyfuss (Pittsburgh) and Henry J. Killilea (Boston) arranged it.
+  No series in 1904: the New York Giants' owners refused to play (Wikipedia).
+- **Babe Ruth:** born 6 Feb 1895, Baltimore. Sent at age 7 to St. Mary's Industrial School for Boys, where Brother
+  Matthias taught him. Pitcher for Boston 1914-1919. Sold to the New York Yankees by Boston's owner Harry Frazee for
+  $100,000 (deal of 26 Dec 1919, announced 5-6 Jan 1920). 54 home runs in 1920, 60 in 1927, 714 in his career. One of
+  the first five members of the Hall of Fame, 1936. Died 16 Aug 1948 of cancer of the throat area (nasopharyngeal
+  cancer) (Wikipedia).
+- **Negro National League:** founded 13 Feb 1920 at a YMCA in Kansas City, led by Rube Foster, owner and manager of the
+  Chicago American Giants, with other owners. Eight teams the first season. Foster left in 1926 because of mental
+  illness. The league folded in 1931 in the Depression (Wikipedia). On 16 Dec 2020 MLB Commissioner Rob Manfred named
+  seven Negro Leagues of 1920-1948 major leagues, covering about 3,400 players (search summary: Ballpark Digest, NPR,
+  MLB.com) (unconfirmed: search summary only). On 28-29 May 2024 MLB added Negro League statistics for more than 2,300
+  players to its records (search summary: AP via MPR, CNN) (unconfirmed: search summary only).
+- **Josh Gibson (story):** born 21 Dec 1911, Buena Vista, Georgia. Family moved to Pittsburgh in 1926. Worked at an air
+  brake plant and at Carnegie-Illinois Steel. First team at 16, a Gimbels department-store team (1928). On 25 July 1930
+  Homestead Grays owner Cum Posey called him out of the stands to catch in a game against the Kansas City Monarchs after
+  the catcher was hurt. Played for the Pittsburgh Crawfords (owner Gus Greenlee), who sold him back to the Grays in 1937
+  for "$2,500 and two players". Called "the Black Babe Ruth". Seizure on 1 Jan 1943, told he had a brain tumor. Died in
+  Pittsburgh on 20 Jan 1947, aged 35 (SABR, Bill Johnson). Cause: a stroke (Wikipedia). Hall of Fame 1972; the plaque
+  credits him with "almost 800" home runs (SABR). MLB records since May 2024: .466 in 1943 is the best single-season
+  average; career average .372 (AP via search summary) or .371 (Wikipedia): **figures differ**. Clark Griffith, owner
+  of the Washington Senators, talked with Gibson and Buck Leonard about playing for Washington in 1943 and did not sign
+  them (search summary of Defector and other articles) (unconfirmed: search summary only). Film: *Soul of the Game*
+  (1996, HBO), Mykelti Williamson as Gibson (Wikipedia), a dramatization. He died 85 days before Robinson's first game.
+- **Jackie Robinson:** born 31 Jan 1919, Cairo, Georgia, youngest of five children of sharecroppers Mallie and Jerry
+  Robinson; moved to Pasadena, California, in 1920 after his father left. At UCLA the first athlete with varsity letters in
+  four sports. Army: on 6 July 1944 at Fort Hood, Texas, he refused to move to the back of a segregated Army bus; charged
+  with insubordination; acquitted in August 1944 by nine white officers. Kansas City Monarchs 1945, batting .387. Met
+  Branch Rickey of the Brooklyn Dodgers on 28 Aug 1945. Robinson asked, "Are you looking for a Negro who is afraid to
+  fight back?" Rickey: "I need a Negro player with guts enough not to fight back." $600 a month. Montreal Royals 1946,
+  .349. First game for Brooklyn 15 April 1947 at Ebbets Field, 26,623 people, more than 14,000 of them Black. Rookie of
+  the Year 1947, MVP 1949, World Series 1955, Hall of Fame 1962. Died 24 Oct 1972, Stamford, Connecticut, aged 53. MLB
+  retired number 42 for every team in 1997 (Wikipedia). Films: *The Jackie Robinson Story* (1950), Robinson as himself;
+  *42* (2013), Chadwick Boseman (Wikipedia).
+- **What he faced in 1947:** Philadelphia manager Ben Chapman told his players to "call Robinson everything and anything
+  they wanted to" (SABR, Cohen). Wikipedia: Chapman shouted slurs and told him to "go back to the cotton fields". Commissioner
+  Happy Chandler's office ordered the Phillies to stop. Anonymous letters told him to leave baseball; Rickey's assistant
+  Arthur Mann gave two of them to the police (SABR). A sportswriter, Stanley Woodward, reported that St. Louis Cardinals
+  players threatened to strike rather than play him; the Cardinals' owners and managers denied it (SABR); National League
+  President Ford Frick threatened to suspend strikers (Wikipedia). Enos Slaughter of St. Louis cut his leg with his spikes, a
+  seven-inch gash (Wikipedia). Pitchers hit him 9 times in 1947 (search summary, Baseball Almanac) (unconfirmed: search
+  summary only).
+- `war` tells no baseball; `rights-movements` does not tell Robinson (grep 2026-09-28).
+
+### Jesse Owens, 1936
+- Born James Cleveland Owens, 12 Sept 1913, Oakville, Alabama, son of a sharecropper, Henry Owens. Family moved to
+  Cleveland, Ohio, when he was nine; a teacher heard "J.C." as "Jesse" (Wikipedia).
+- 25 May 1935, Big Ten meet, Ann Arbor, Michigan: set five world records and tied a sixth in about 45 minutes (Wikipedia).
+- Berlin 1936: gold in the 100 meters (3 Aug), long jump (4 Aug), 200 meters (5 Aug) and 4x100 relay (9 Aug)
+  (Wikipedia). Germany was ruled by Adolf Hitler's Nazi government, which taught that white "Aryans" were a superior race.
+- He said: "Hitler didn't snub me. It was our president who snubbed me. The president didn't even send me a telegram."
+  Franklin Roosevelt never invited him to the White House (Wikipedia; the source has a dash in the quote).
+- At a New York reception at the Waldorf Astoria he had to ride the freight elevator. Avery Brundage and the AAU
+  suspended him from amateur sport after he refused to finish a tour of Europe. He raced against horses for money and
+  later went bankrupt. "I had four gold medals, but you can't eat four gold medals." Presidential Medal of Freedom 1976.
+  Died 31 March 1980, Tucson, Arizona, of lung cancer. Film: *Race* (2016) (Wikipedia).
+
+### Babe Didrikson, 1932 and after
+- Mildred Ella Didrikson, born 26 June 1911, Port Arthur, Texas, sixth of seven children of Norwegian immigrants Ole and
+  Hannah Didriksen. Family moved to Beaumont in 1915 (Cayleff, TSHA).
+- 1930: Employers Casualty Insurance Company of Dallas hired her to do office work and play for its women's basketball
+  team, the Golden Cyclones. At the 1932 AAU championships she was a one-woman team: she entered 8 of 10 events, won 5,
+  tied for first in a sixth, scored 30 points (8 more than the whole second-place team) and broke four world records in
+  three hours (Cayleff).
+- Los Angeles Olympics 1932: gold in the javelin and the 80-meter hurdles; silver in the high jump after officials ruled
+  that going over the bar head first was a foul (Cayleff; Wikipedia).
+- The AAU then barred her from amateur sport because her name appeared in a car advertisement. Her family needed money,
+  so she turned professional: vaudeville, exhibitions, and a men's traveling baseball team, the House of David (Cayleff).
+- Golf: the US Golf Association barred her as an amateur after complaints from members of the Texas Women's Golf
+  Association (1935). Married the wrestler George Zaharias, 23 Dec 1938. Regained amateur standing 1943. Helped found
+  the Ladies Professional Golf Association (Cayleff: 1948 wording "the following year" after 1947; Wikipedia: founding
+  member in 1950): **date differs**. US Women's Open 1948, 1950, 1954 (Wikipedia).
+- April 1953: a colostomy to remove cancer. (Colostomy: an operation that brings the end of the large bowel out through
+  an opening cut in the belly, so body waste collects in a bag outside the body. Plain wording for writers.) She played
+  again 14 weeks later and won the 1954 US Women's Open (Cayleff). Died 27 Sept 1956, aged 45 (Wikipedia).
+- From 1950 she lived with the golfer Betty Dodd; the two hid that they were a couple (Cayleff). LGBTQ thread.
+
+### Black jockeys pushed out (era-07 handoff)
+- Jimmy Winkfield of Chilesburg, Kentucky, won the Derby in 1901 and 1902, the last Black jockey to win it; raced in the
+  US 1898-1903 (Kentucky Derby Museum). He left in 1904 for Russia (Smithsonian, Winkler) and later rode in France, and
+  retired in 1930. In 1961 he was at first refused entry through the front door of a pre-Derby dinner at the Brown
+  Hotel in Louisville. Died 1974, aged 91 (Derby Museum). Search summary: Ku Klux Klan threats and a broken contract
+  preceded his leaving (unconfirmed: search summary only).
+- **Who pushed them out:** economists Michael Leeds and Hugh Rockoff (NBER Working Paper 28167) found that white jockeys
+  were the main cause: "White jockeys began violently attacking their African American counterparts by boxing them out
+  during races, running them into the rail, and hitting them with riding crops." Owners stopped hiring Black jockeys to
+  keep their horses from being hurt; some bettors discriminated too (NBER Digest). Winkler: "Violence on the tracks
+  against black jockeys by white jockeys prevailed without recourse."
+- The Jockey Club (incorporated in New York in 1894) is said to have denied license renewals to Black riders; Arthur
+  Ashe and others suggested this (search summary) (unconfirmed: search summary only). Leeds and Rockoff name the white
+  jockeys instead.
+- Henry King rode in the 1921 Derby, the last Black jockey in it until Marlon St. Julien in 2000 (Winkler).
+  *Courier-Journal* headline, 21 Jan 1912: "Negro Jockeys Now Extinct" (Kentucky Historical Society).
+
+### The Choctaw-Chickasaw game of 1903 (era-07 handoff)
+- Near Allen, Oklahoma, Choctaw and Chickasaw people met each spring and fall to race horses and play the ball game. In
+  the spring of 1903 about 300 people came and bet. A Choctaw player was hit with a ball stick, and a fight broke out
+  across the crowd. Choctaw Lighthorsemen (the nation's mounted police) and US marshals stopped it and the game was left
+  undecided (Chickasaw Historical Society marker). The semi-annual games were stopped afterwards (Choctaw Nation, era
+  07 notes). The Choctaw Nation began reviving stickball in the mid-1970s (search summary) (unconfirmed: search summary
+  only).
+
+### Childhood gets organized
+- **Boy Scouts of America:** incorporated 8 Feb 1910; the Chicago publisher William D. Boyce organized it (search
+  summary, History.com) (unconfirmed: search summary only).
+- **Girl Scouts:** 12 March 1912, Savannah, Georgia, Juliette Gordon Low registered 18 girls in the first troop of Girl
+  Guides; renamed Girl Scouts in 1913. The Savannah girls formed a basketball league and went camping (Georgia Historical
+  Society).
+- **4-H:** begun 1902 by A. B. Graham in Clark County, Ohio, with boys' and girls' corn and tomato clubs; national
+  under the Smith-Lever Act of 1914 (Wikipedia via search summary) (unconfirmed: search summary only).
+- **Little League:** in 1938 Carl Stotz (born 20 Feb 1910), a Williamsport, Pennsylvania, man with no children of his
+  own, tried rules and field sizes with his nephews Jimmy and Major Gehron and neighborhood boys. In 1939 he and George
+  and Bert Bebble each managed a team, named for the sponsors that paid $30 each for uniforms for 30 boys: Lycoming
+  Dairy, Lundy Lumber and Jumbo Pretzel. First game 6 June 1939: Lundy Lumber 23, Lycoming Dairy 8. The first season was
+  played on a vacant lot by Bowman Field. Bases 60 feet apart, pitcher 40 feet from home (Little League; Wikipedia).
+  Stotz: "When we started the Little League, the idea of a girl playing baseball, even with other girls, was simply
+  unthinkable" (*Detroit News*, May 1973, quoted by Little League). Stotz left Little League Baseball Inc. in November
+  1955 over "commercialization and central control" (Wikipedia).
+- Two of the first players, Bill Bair and Al "Sonny" Yearick, played for Lycoming Dairy in 1939. Yearick became the
+  first Little Leaguer to play professional baseball (minor leagues, Boston Braves farm system from 1948; .307 for Niagara
+  Falls in 1951). Both died in January 2020. A volunteer said both men talked "about Carl and how Little League helped them
+  stay out of trouble" (*Sun-Gazette*, 2020).
+
+### Playgrounds, pools and who was kept out
+- **WPA:** the Works Progress Administration (from 1939 the Work Projects Administration), 1935-1943, hired jobless
+  workers to build public works. Its workers built 6,000 athletic fields and playgrounds, 770 new swimming pools and 1,700
+  parks, fairgrounds and rodeo grounds (Encyclopedia.com, from the WPA final report). A search summary gives other totals
+  (3,185 playgrounds, 3,026 athletic fields, 805 swimming pools) (unconfirmed: search summary only). New York City opened
+  11 WPA pools in 1936 (search summary, NYC Parks) (unconfirmed: search summary only).
+- **Segregated pools (Wiltse):** "Municipal pools throughout the North became racially segregated during the 1920s and
+  1930s", when cities began letting men and women swim together: "Most northern whites did not want black men to have the
+  opportunity to interact with white women at such visually and physically intimate public spaces." "Each year tens of
+  millions of Americans swam in municipal pools." After Black Americans won equal access, "white swimmers generally
+  abandoned them for private pools, and cities downgraded the public importance of swimming pools" (Jeff Wiltse, UNC Press
+  interview 2018; book *Contested Waters*, 2007).
+- **Fairground Park, St. Louis, 21 June 1949:** the city's Director of Public Welfare, John J. O'Toole, opened the pool to
+  Black swimmers: "I can't oppose anyone from lawfully using a swimming pool. They are taxpayers and citizens, too." 30 to
+  40 Black swimmers came. White youths gathered with "baseball bats, bricks, other weapons" and beat Black people leaving
+  the pool; the crowd grew to thousands. 12 people hurt (Wikipedia) or at least a dozen hospitalized, 10 of them Black
+  (Encyclopedia MDPI summary). Arrests: 7 (3 white, 4 Black) (Wikipedia) or 8 (3 white, 5 Black) (MDPI summary): **counts
+  differ**. 150 to 400 police. Mayor Joseph Darst restored segregation at the city pools (MDPI summary) (unconfirmed:
+  search summary only). No attacker is named in the sources read.
+- Drowning rates by race for these years: not found (see SEARCHED, NOT FOUND).
+
+### Entertainment inside the house and at the movies
+- **Radio:** *Little Orphan Annie* began on WGN Chicago in 1930 and went national on NBC on 6 April 1931, sponsored by
+  Ovaltine. Children mailed Ovaltine seals for a decoder badge to read a secret message at the end of the show (1935-1940)
+  (search summary, Wikipedia) (unconfirmed: search summary only). *The Lone Ranger* began on WXYZ Detroit on 30 Jan 1933
+  (search summary, History.com) (unconfirmed: search summary only). Audience figures for children: not found.
+- **Movies:** Butsch (2001): in Middletown (Muncie, Indiana) Saturday matinees were popular with children under 13, "at
+  least half staying for five to six hours". In a working-class part of New Haven more than half the children went twice
+  a week or more. In East Harlem in 1930 two-thirds of the Italian American teenage girls surveyed went at least once a
+  week. "Movies were overtaking all other activities in children's preferences, including outdoor games for boys and
+  shopping for girls." In 1929 Walt Disney started Mickey Mouse Clubs that met at Saturday matinees. The mayor of Chelsea,
+  Massachusetts, closed a theater in 1930 because of "the actions of many juvenile spectators". Ticket price for children:
+  5 or 10 cents (search summary only).
+- **The Payne Fund Studies:** 13 studies, 1929-1933, published 1933-1936, of what movies did to children's behavior. Money
+  from the Payne Fund, a private foundation (Wikipedia).
+- **Comic books:** Action Comics #1 (cover date June 1938) introduced Superman; print run 200,000, and sales of the title
+  later approached 1,000,000 a month (Wikipedia via search summary) (unconfirmed: search summary only). A 1944 publishers'
+  survey: 95 percent of boys and 91 percent of girls aged 6 to 11 read comics regularly, about 12 a month; 87 percent of
+  boys and 81 percent of girls aged 12 to 17. Comics cost 10 cents. A 1947 study found children bought 75 percent of all
+  comic books (Crisis of Innocence exhibit).
+- **What adults said:** Sterling North, literary editor, "A National Disgrace", *Chicago Daily News*, 8 May 1940: "Badly
+  drawn, badly written and badly printed, a strain on young eyes and young nervous systems" (CBLDF; the original has a
+  dash). He called on parents and teachers to "band together to break the 'comic' magazine" (search summary) (unconfirmed:
+  search summary only). More than 40 papers reprinted it (search summary) (unconfirmed: search summary only). Comic book
+  burnings took place in the 1940s (CBLDF). The publishers formed the Association of Comics Magazine Publishers in 1948
+  with a code of rules (CBLDF). Wertham's *Seduction of the Innocent* (1954) and the 1954 Senate hearings are era 09.
+- **Monopoly:** Lizzie Magie patented *The Landlord's Game*, US patent 748,626, on 5 Jan 1904, to teach the ideas of
+  Henry George about land and rent. Charles Darrow sold a version to Parker Brothers, which sold it as Monopoly from 1935;
+  Darrow's patent is dated 31 Dec 1935 (British Library blog; Wikipedia, via search summary) (unconfirmed: search summary
+  only).
+
+### Women's baseball, 1943-1954
+- All-American Girls Professional Baseball League, 1943-1954, founded by Philip K. Wrigley, owner of the Chicago Cubs.
+  More than 600 women played on up to 10 Midwestern teams. Players wore skirts, went to charm school and could not wear
+  trousers in public. The league never took Black women (Wikipedia, Britannica, SABR titles; all search summary)
+  (unconfirmed: search summary only). Film: *A League of Their Own* (1992), a fictional story about the league.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): How many children listened to afternoon radio serials in the 1930s, by program and year?
+Sources checked: search summaries on *Little Orphan Annie* and *The Lone Ranger* (dates and sponsor only, and a claim
+that the Lone Ranger had a large adult audience); Butsch 2001 (movies, not radio). No audience count for children found.
+How the prose can say it: "Children listened to adventure serials such as *Little Orphan Annie* after school." Give no
+audience number.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): What did a child's Saturday matinee ticket cost, from a source that can be opened?
+Sources checked: Butsch 2001 (matinees popular, prices lower for matinees, no figure); search summaries (5 or 10 cents,
+a nostalgia blog and an Ottawa theater); Payne Fund Studies article (no prices).
+How the prose can say it: leave the price out, or "a few cents" only if a writer finds a sourced figure.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): Drowning rates by race, 1900-1950
+Sources checked: Wiltse interview (no numbers); Fairground Park sources (none). CDC figures begin much later (era 10).
+How the prose can say it: "Black children in many cities could not use the public pools where other children learned to
+swim." Give no drowning rate for these years.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): A named child describing his or her own everyday play in 1900-1950 (the story target)
+Sources checked: Library of Congress, Federal Writers' Project life histories (loc.gov refused the connection, 403, on
+every page tried); Butsch 2001 (quotes one unnamed Bronx child: the film broke and the children "booed, stamped feet and
+often had fist fights"); Little League sources (Bill Bair and Sonny Yearick named, but no account in their own words of
+their play). Resolution: the story slot is given to Carl Stotz and the first Little League boys, all named, and the
+unnamed Bronx account stays in era prose.
+
+### PATCH 2026-09-28 (T-271c): The 1910 riots in a report of the next day (era 08, checks counts and actors)
+- A wire report dated 5 July 1910 (UPI Archives, "Race riots in dozen cities follow Johnson fight victory", opened via
+  WebFetch summary): New York, "One negro was clubbed to death and more than 100 were beaten up, while a number of whites
+  are suffering from knife and bullet wounds"; police answered eleven riot calls within an hour. Washington: "Two fatally
+  hurt, two hospitals crowded with injured, and 236 prisoners in the city jails"; crowds of up to 7,000. "Uvaldia" (Uvalda),
+  Georgia: "Three negroes were killed during a race riot." Pittsburgh: three riots. Atlanta: a Black man attacked for
+  celebrating, rescued by police. Wilmington, Delaware: white crowds chased Black residents and threw things at a house.
+  Columbus, Ohio: about 400 Black residents marched with a band, and several were hurt in fighting along the route. The
+  report names no victim and no attacker.
+- Search summary: at Mounds, Illinois, one person was killed and one mortally wounded (unconfirmed: search summary only).
+- Effect: the outline's Uvalda (three Black workers killed) and New York (one person beaten to death) sentences are
+  confirmed by a report of the next day. The outline keeps the 11 to 26 range and says the attackers are not named.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): Who were the people killed in the riots of 4 July 1910, and who killed them?
+Sources checked: Wikipedia "Johnson-Jeffries riots" (no names); Wikipedia "Jack Johnson (boxer)" (no names); UPI archive
+report of 5 July 1910 (no names); search summaries (Clio, Uvalda and Mounds, no names).
+How the prose can say it: "The records read do not name the people who were killed or the people who killed them."
+
+
+## Era 09: 1950 to 2000 (T-271c, 2026-09-28)
+
+### Sources for this era
+- **Little League and girls:** StoryCorps, "'Tubby' Johnston: The Girl Who Changed Little League Baseball" (aired NPR
+  Morning Edition, 30 March 2018; opened); Little League, "1974: The Year Little League Changed Forever" (5 June 2024,
+  opened); Wikipedia "Kathryn Johnston Massar" and "Maria Pepe" (opened); search summaries of History.com and
+  Wikipedia "Sylvia Pressler" for the 7 Nov 1973 ruling and quote.
+- **Cannon Street All-Stars:** Bruce Markusen, "Remembering the Cannon Street All-Stars", National Baseball Hall of Fame
+  (opened; quotes John Rivers's 2023 oral history with Larry Lester).
+- **Pools:** Wikipedia "Palmer v. Thompson" (opened); Wikipedia "1964 Monson Motor Lodge protests" (opened, infobox and
+  photo caption); search summary of Zinn Education Project and NPR for details.
+- **Olympics 1968:** Wikipedia "1968 Olympics Black Power salute" (opened); Wikipedia "Tommie Smith" (opened); Erin
+  Blakemore, "How the Black Power Protest at the 1968 Olympics Killed Careers", History.com (opened).
+- **Ali:** Wikipedia "Muhammad Ali" (opened). `war` tells the draft case in full (story `muhammad-ali-war`).
+- **Title IX numbers:** NFHS, *2023-24 High School Athletics Participation Survey*, "Athletics Participation Survey Totals"
+  table, p. 57 of the report (PDF, read with pypdf).
+- **Chris Ernst:** Wikipedia "Chris Ernst" (opened); Yale Library, "Online exhibit documents triumphs and trials of Yale's
+  first women athletes", 9 Nov 2022 (opened).
+- **Billie Jean King:** Wikipedia "Billie Jean King" (opened).
+- **Free agency:** search summaries of The Henry Ford (Flood's letter, 24 Dec 1969), Wikipedia "Flood v. Kuhn" and "Seitz
+  decision".
+- **Super Bowl:** Wikipedia "Super Bowl I" (opened). Miracle on Ice: Wikipedia "Miracle on Ice" (opened).
+- **Games:** Wikipedia "Pong", "Atari 2600", "Pac-Man", "Video game crash of 1983", "Game Boy", "The Oregon Trail (1971
+  video game)", "1993 congressional hearings on video games" (all opened via WebFetch summary).
+- **Children's time:** Noreen C. McDonald et al., "U.S. School Travel, 2009: An Assessment of Trends", *American Journal of
+  Preventive Medicine* 41(2) (2011): 146-151 (PDF, read); Sandra L. Hofferth, "Changes in American children's time, 1997 to
+  2003", *Electronic International Journal of Time Use Research* (NIH author manuscript, PDF read), which summarizes
+  Hofferth and Sandberg 2001 on 1981-1997; US Census Bureau, *Who's Minding the Kids? Child Care Arrangements: Fall 1995*,
+  P70-70 (2000) (PDF, read); BLS, *The Economics Daily*, 9 Oct 2009 (opened); Jeff Grabmeier, "A rapid rise of private
+  club and travel teams in youth sports", Ohio State News, 25 Sept 2025, on Chris Knoester and Chris Bjork, *Journal of Sport
+  and Social Issues* (opened).
+- **Iroquois Nationals:** Wikipedia "Haudenosaunee men's national lacrosse team" (opened); search summary for the founders.
+
+### Little League: girls kept out, then let in
+- **Kathryn "Tubby" Johnston, 1950 (story).** Corning, New York. In the spring of 1950 she played baseball on the
+  neighborhood sandlot (search summary of Scholastic/StoryCorps pages). In her own words: "I ran into my brother's room, got
+  a pair of his slacks, put on a baseball cap and signed up as Tubby Johnston" (StoryCorps, interviewed by her husband Cy
+  Massar, aired 30 March 2018). She took the name from the comic strip *Little Lulu*, tucked her hair under her cap, and went
+  to tryouts with her brother. She played first base for King's Dairy. She told her coach she was a girl; he let her stay
+  because she was good enough to make the team. More people came to watch once word got out (Little League 2024). Her age:
+  13 (search summary of StoryCorps page) or 12 (search summary, Scholastic): not confirmed. In 1951 Little League officials
+  made a rule barring girls. She said: "It's known as the Tubby Rule because I was the reason why they put that rule in"
+  (StoryCorps). In 1974 she wrote to Little League headquarters, which checked and wrote back calling her the first girl to
+  take part in Little League (Little League 2024).
+- **Maria Pepe, 1972-1974.** Hoboken, New Jersey, age 12. Pitched three games for the Young Democrats team, invited by
+  coach Jim Farina (Wikipedia). Little League headquarters told the Hoboken league to drop her or lose its charter; the
+  league dropped her. Robert H. Stirrat, Little League vice president: "as far as we're concerned, the incident is closed"
+  (Little League 2024). The National Organization for Women sued for her in the New Jersey Division on Civil Rights. Little
+  League's Creighton J. Hale argued girls would be hurt; a search summary says he claimed a blow to the chest could cause
+  cancer (unconfirmed: search summary only). Hearing officer Sylvia Pressler ruled on 7 Nov 1973 that the ban broke state
+  law and wrote: "The institution of Little League is as American as the hot dog and apple pie... There is no reason why
+  that part of Americana should be withheld from girls" (search summary, Wikipedia "Sylvia Pressler"/History.com)
+  (unconfirmed: search summary only). Little League lost its appeal; a Superior Court judge ordered headquarters to tell its
+  330 New Jersey leagues to obey (Little League 2024). Congress changed Little League's federal charter; President Gerald
+  Ford signed it in December 1974 (Wikipedia "Kathryn Johnston Massar"). Nearly 30,000 girls signed up for Little League's new
+  softball program in 1974 (Little League 2024). Little League had cases in 20 states at the time (Little League 2024).
+- **Cannon Street YMCA All-Stars, Charleston, South Carolina, 1955.** The YMCA chartered the first Black Little League in
+  South Carolina in 1953. In 1955 its all-star team of 14 boys entered the city tournament. The 61 other teams, all white,
+  withdrew rather than play them. Cannon Street won the city and then the state title by forfeit. At the regional
+  tournament in Rome, Georgia, officials said a team that had not won games on the field could not advance, and Little
+  League's president (named "John McGovern" by the Hall of Fame page; Peter J. McGovern in other accounts, search summary)
+  upheld it. The white leagues' managers left Little League and formed their own segregated league, later Dixie Youth
+  Baseball. Little League invited the team to watch the 1955 World Series at Williamsport; fans chanted "Let them play".
+  Player John Rivers, 2023: "So we didn't talk about it. So it tells me how painful it was." His father was serving in the
+  Army in Korea at the time (Markusen, Hall of Fame). Search summary: the South Carolina director, Danny Jones, asked for a
+  segregated tournament, was refused, and founded the Little Boys League with a whites-only charter (unconfirmed: search
+  summary only).
+
+### Pools after desegregation
+- **St. Augustine, Florida, 18 June 1964:** Black and white protesters jumped into the pool of the Monson Motor Lodge;
+  the manager, James Brock, poured muriatic acid (a strong acid used to clean pools) into the water (Wikipedia; search
+  summary adds that police dragged the protesters out and jailed them) (details unconfirmed: search summary only). The
+  photograph ran nationally. `rights-movements` may tell it; check before the writers use it.
+- **Jackson, Mississippi, 1963:** city officials closed four public pools and gave up the lease on a fifth, which the YMCA
+  ran for white people only, rather than open them to Black residents. In *Palmer v. Thompson* (14 June 1971), five
+  justices ruled that closing the pools to everyone did not deny equal protection; four dissented (Wikipedia).
+- Wiltse (era 08 notes): after desegregation white swimmers "generally abandoned" city pools for private pools.
+
+### Television, money and the Super Bowl
+- 15 Jan 1967, Los Angeles Memorial Coliseum: the AFL-NFL World Championship Game, Green Bay 35, Kansas City 10. 61,946
+  people; tickets $12, $10 and $6. CBS and NBC both showed it, 51.18 million viewers combined. A 30-second advertisement
+  cost $42,000. The name "Super Bowl" became official with the third game (1969); Lamar Hunt, founder of the AFL, took it
+  from his children's Super Ball toy (Wikipedia "Super Bowl I").
+- 1993: the NFL moved Super Bowl XXVII from Tempe to Pasadena after Arizona voters rejected a Martin Luther King Jr.
+  holiday in November 1990 (parked from `holidays`, below; full sources in research/research-holidays.md).
+
+### Muhammad Ali (sports angle; `war` tells the draft)
+- Born Cassius Marcellus Clay Jr., 17 Jan 1942, Louisville, Kentucky. At 12, after his bicycle was stolen, a police officer,
+  Joe E. Martin, got him started in boxing. Olympic gold, light heavyweight, Rome 1960. Beat Sonny Liston for the
+  heavyweight title on 25 Feb 1964, aged 22; then joined the Nation of Islam and took the name Muhammad Ali (Wikipedia).
+- 1967: refused induction; he had said "I ain't got no quarrel with them Viet Cong". The New York State Athletic Commission
+  and the World Boxing Association stripped his title. He could not box for more than three years, March 1967 to 26 Oct
+  1970 (Jerry Quarry, Atlanta). Lost to Joe Frazier, 8 March 1971. The Supreme Court overturned his conviction on 28 June
+  1971 (*Clay v. United States*). Won the title back from George Foreman in Zaire on 30 Oct 1974. Retired 1981; Parkinson's
+  syndrome disclosed 1984; died 3 June 2016 (Wikipedia).
+- Tommie Smith named Ali's lost title as one of the reasons for the 1968 protest (Wikipedia "Tommie Smith").
+
+### The 1968 Olympic protest
+- 16 Oct 1968, Mexico City, 200 meters: Tommie Smith won in a world record 19.83 seconds; John Carlos was third; Peter
+  Norman of Australia second. On the stand Smith and Carlos raised black-gloved fists during the US anthem. They wore black
+  socks and no shoes to stand for poverty; Smith wore a black scarf; all three wore badges of the Olympic Project for Human
+  Rights. Carlos wore Smith's left glove because he had forgotten his own (Wikipedia).
+- Smith explained: "We were concerned about the lack of black assistant coaches... Muhammad Ali getting stripped of his
+  title... lack of access to good housing" (Wikipedia "Tommie Smith").
+- IOC President Avery Brundage called it "a domestic political statement unfit for the apolitical, international forum".
+  When the US Olympic Committee refused to suspend them, Brundage threatened to ban the whole US track team, and the two men
+  were suspended and sent out of the Olympic Village (Wikipedia). *Time*: "'Angrier, nastier, uglier' better describes the
+  scene." Sports commentator Brent Musburger called them "black-skinned storm troopers" (Wikipedia). Both got death threats, and
+  threats reached their families (Wikipedia; History.com). For years they took jobs such as washing cars (search summary)
+  (unconfirmed: search summary only). Both later played pro football (History.com). Smith coached track at Oberlin College
+  and taught at Santa Monica College until 2005 (Wikipedia).
+- Peter Norman was left off Australia's 1972 team although he kept qualifying (History.com); Wikipedia says opinions differ
+  on the cause. Australia's parliament apologized in 2012 (History.com). Smith and Carlos carried his coffin in 2006.
+
+### Title IX and girls' sport, with the numbers
+- Title IX signed 23 June 1972 (`education`, `rights-movements` tell the law).
+- **High-school sport, NFHS survey totals:** 1971-72: 3,666,917 boys, 294,015 girls. 1972-73: 817,073 girls. 1973-74:
+  1,300,169 girls. 1977-78: 2,083,040 girls (4,367,442 boys). 1989-90: 1,858,659 girls. 1999-2000: 2,675,874 girls and
+  3,861,749 boys (NFHS 2023-24 report, totals table). Girls rose about ninefold from 1971-72 to 1999-2000. In 1971-72 girls
+  were about 7 of every 100 high-school athletes; in 1999-2000 about 41 of every 100 (computed from the NFHS table).
+- **Chris Ernst and the Yale crew (story).** Born in Cambridge, Massachusetts (1953 or 1954); grew up in Scituate. In high
+  school she beat boys at arm wrestling to win use of the gymnastics equipment. Began rowing at Yale as a sophomore and
+  was captain of the women's crew by senior year. The boathouse showers were for the men's team only; the women waited on
+  the bus, wet, for up to half an hour (search summary) while the men showered, then rode back to campus to wash (Wikipedia;
+  Yale Library). In early 1976 (3 March 1976, search summary), 19 rowers wrote "Title IX" on their bodies, went into the
+  office of the women's athletic director, Joni Barnett, and took off their clothes. Ernst read a statement that began,
+  "These are the bodies Yale is exploiting" (Wikipedia). A *New York Times* reporter was on the phone; officials set up a
+  trailer with water that day and planned a $250,000 boathouse addition; a women's locker room was added by 1977 (Yale
+  Library; Wikipedia). She was an alternate for the 1976 Olympic team, the first Games with women's rowing; won the world
+  lightweight double sculls in 1986; in 1980 became the first woman union plumber in New Haven (Wikipedia). Documentary: *A
+  Hero for Daisy* (1999), by Mary Mazzio, about Ernst (Wikipedia).
+- In 1979 Yale had 13 women's varsity teams, which received "only a grudging fraction of the resources" given to men's
+  teams (Yale Library).
+
+### Billie Jean King
+- Born 22 Nov 1943, Long Beach, California. Switched from softball to tennis at 11 when her parents suggested a more
+  "ladylike" sport; saved $8 for her first racket; free lessons on the public courts. As a young player she was kept out of
+  a group photo because she wore shorts her mother had sewn instead of a tennis dress (Wikipedia).
+- Founded the Women's Tennis Association in June 1973. 20 Sept 1973, Houston Astrodome: beat Bobby Riggs, 55, 6-4, 6-3,
+  6-3, before 30,492 people, about 50 million US television viewers and 90 million in 37 other countries; prize $100,000
+  (Wikipedia). 39 Grand Slam titles. Presidential Medal of Freedom 2009 (Wikipedia).
+- Equal prize money at the 1973 US Open and her 1981 outing: not opened here (Wikipedia summary did not include them).
+
+### Players and owners: free agency
+- Curt Flood, St. Louis Cardinals center fielder, refused a trade to Philadelphia and wrote to Commissioner Bowie Kuhn on
+  24 Dec 1969: "After twelve years in the Major Leagues, I do not feel that I am a piece of property to be bought and sold
+  irrespective of my wishes." The Supreme Court ruled against him, 5 to 3, on 19 June 1972 (*Flood v. Kuhn*). On 23 Dec
+  1975 an arbitration panel chaired by Peter Seitz ruled that pitchers Andy Messersmith and Dave McNally were free to sign
+  with any team (search summaries: The Henry Ford; Wikipedia) (unconfirmed: search summary only).
+
+### Miracle on Ice
+- 22 Feb 1980, Lake Placid, New York: US 4, Soviet Union 3. College players, average age 21, coached by Herb Brooks. ABC
+  showed the game on tape delay. Al Michaels: "Do you believe in miracles? YES!" The US team beat Finland 4-2 on 24 Feb
+  for the gold medal (Wikipedia).
+
+### Arcades and home consoles
+- **Pong:** built by Allan Alcorn at Atari for Nolan Bushnell. Test machine in Andy Capp's Tavern, Sunnyvale, California,
+  August 1972; the owner called because it stopped working, and the coin box was overflowing with quarters. Released 29 Nov
+  1972. 25 cents a game; $35-40 a day per machine; more than 8,000 arcade machines sold by the end of 1974. Home Pong sold
+  through Sears, Christmas 1975, $98.95, about 150,000 units. Bushnell: "you were sitting shoulder to shoulder, you could
+  talk, you could laugh, you could challenge each other" (Wikipedia "Pong").
+- **Atari 2600 (VCS):** about September 1977, $199; about 30 million sold through 1992. The *Space Invaders* cartridge
+  (1980) sold 1.25 million copies and helped sell more than a million consoles that year. Pac-Man cartridge 1982, more than 8
+  million sold by 1990 (Wikipedia "Atari 2600").
+- **Arcades:** Taito's *Space Invaders*, 1978. *Pac-Man* (Namco; Midway in North America, Oct 1980): more than 100,000
+  machines sold by 1981, more than $1 billion in quarters. Its designer, Toru Iwatani, wanted a "nonviolent, cheerful game"
+  that women would play; it was "the first commercial videogame to involve large numbers of women as players" (Wikipedia
+  "Pac-Man").
+- **Crash of 1983:** US home video game revenue fell from about $3.2 billion in 1983 to about $100 million in 1985, about
+  97 percent. By 1982 there were about 30 million consoles among 35 million households with children aged 6 to 16. Atari
+  lost $536 million in 1983 and buried about 728,000 unsold cartridges in a landfill at Alamogordo, New Mexico, in Sept 1983
+  (dug up in 2014). Nintendo's NES came out in October 1985 (New York) and nationwide in 1986; by 1988 sales passed $2.3
+  billion and Nintendo held 70 percent of the market (Wikipedia "Video game crash of 1983").
+- **Game Boy:** North America 31 July 1989, $89.95, with *Tetris* (Wikipedia "Game Boy").
+- **The Oregon Trail:** made in two weeks by three Carleton College student teachers, Don Rawitsch, Bill Heinemann and Paul
+  Dillenberger; first played 3 Dec 1971 at Jordan Junior High School, Minneapolis. The Minnesota Educational Computing
+  Consortium (MECC) put out a new version in 1975 and an Apple II version in 1985; Oregon Trail games have sold more than
+  65 million copies (Wikipedia). Shared with `migration` (the trail itself).
+- **What adults did:** Senate hearings of 9 Dec 1993 and 4 March 1994 led by Senators Joe Lieberman and Herb Kohl, on
+  *Mortal Kombat*, *Night Trap* and *Lethal Enforcers*. The game companies set up the Entertainment Software Rating Board
+  (ESRB), whose age ratings began on 13 Sept 1994 (Wikipedia). Lieberman: "I'd like to ban all the violent video games,"
+  but he sought a ratings system because of the First Amendment (Wikipedia).
+- What a game cost in quarters and for how long a child could play: 25 cents a game for Pong (above); play length per
+  quarter not found (see SEARCHED, NOT FOUND).
+
+### A child's afternoon, measured
+- **Walking and biking to school:** in 1969, 47.7 percent of children in kindergarten to grade 8 usually walked or biked to
+  school and 12.2 percent were driven; 38.3 percent rode the school bus (National Personal Transportation Survey, in
+  McDonald et al. 2011, Table 2). 1995 survey-day figures for K-8: 12.4 percent walked, 1.3 percent biked, 44.9 percent went
+  by car (McDonald, Table 4; a different measure from "usually"). 2009: 12.7 percent (era 10).
+- **Time diaries, 1981-1997 (Hofferth and Sandberg 2001, as summarized by Hofferth 2009):** time in structured activities
+  (school, day care, sports, art) rose; time in unstructured play, housework and television fell. The drops in play and TV
+  appeared among children of mothers at home as well as mothers at work, so the authors did not credit mothers' jobs for
+  them. Search summary: 9-to-12-year-olds spent 35 percent more time in sports in 1997 than in 1981 (unconfirmed: search
+  summary only).
+- **Mothers at work:** the labor force participation rate of mothers with children under 18 rose from 47 percent in March
+  1975 to a peak of 73 percent in March 2000 (BLS, *The Economics Daily*, 9 Oct 2009).
+- **Home alone:** in fall 1995, 6.9 million (18 percent) of the 38.2 million children aged 5 to 14 regularly looked after
+  themselves ("self care"); on average six hours a week. 12 percent of children 5 to 12 were in self care in both 1990 and
+  1995. 15 million children 5 to 14 (39 percent) took part in at least one "enrichment activity" (sports, lessons, clubs)
+  in a week (Census Bureau P70-70).
+- **Travel and club teams:** in a 2018-2019 survey of 3,938 adults, about 4 percent of those born in the 1950s said they
+  had played on private club or travel teams as children, against 13 percent of those born in the 1990s. Children of
+  parents with more schooling were more likely to play on them in the later decades (Knoester and Bjork, reported by Ohio
+  State News, 2025).
+- Named children's play, 1950-2000: Tubby Johnston (above).
+
+### Native continuity: the Iroquois Nationals
+- The Haudenosaunee (Iroquois) team was formed in 1983 and approved by the Grand Council of the Haudenosaunee. The
+  International Lacrosse Federation refused it membership for 1986 and accepted it as a full member nation in 1988. At the
+  1990 world championship in Perth, Australia, it finished fifth of five (Wikipedia). Its players traveled on
+  Haudenosaunee passports (search summary) (unconfirmed: search summary only). Founders: Oren Lyons, Onondaga, and Wes
+  Patterson, a Tuscarora stick maker (search summary) (unconfirmed: search summary only). The 2010 passport refusal and
+  the 2014 and 2018 bronze medals are era 10.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): How long could a child play an arcade game for one quarter?
+Sources checked: Wikipedia "Pong" (25 cents a game, machine earnings), "Pac-Man" (revenue only), "Atari 2600" (prices).
+No source gives minutes per quarter.
+How the prose can say it: "A game of Pong cost a quarter." Give no playing time.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): What did a season of youth sport cost a family, by income, before 2000?
+Sources checked: Ohio State News 2025 (participation by birth decade and parents' schooling, no costs); Census P70-70
+(child-care payments, not sport); search summaries (general claims only). Cost figures begin with Aspen Institute
+surveys after 2000 (era 10).
+How the prose can say it: state the participation figures only. Give no cost figure for 1950-2000.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271c): How many hours of unsupervised outdoor play did children have in these decades?
+Sources checked: Hofferth 2009 and the 1981-1997 summary (categories "playing" and "outdoors", not "unsupervised");
+McDonald 2011 (school travel only). No study read measures unsupervised outdoor hours for 1950-2000.
+How the prose can say it: "Time-diary studies found that from 1981 to 1997 children spent more time in organized
+activities such as sports and less time in free play."
+
+## Bank check, eras 08-09 (T-271c, 2026-09-28)
+
+Run against the outline and the registry angle (how Americans and their children entertained themselves, and how it
+changed).
+
+**Hard subjects: actor, act, count, cause.**
+- Football deaths, 1905: counts from four sources recorded with their owners (NCAA 18; *Chicago Tribune* 19; *Cincinnati
+  Commercial Tribune* 25; Gordon about 20, 11 direct). Named dead and causes given (Moore, Osborne, Brown, Summergill). No
+  one is blamed in the sources; the harm came from the game's rules and play, which the 1906 rule makers changed (named:
+  MacCracken; Roosevelt's guests).
+- 1910 riots: count 11 to 26 (Wikipedia) or "at least twenty" (Wikipedia Johnson article); acts and places given; attackers
+  unnamed in every source (SEARCHED, NOT FOUND above). The Wheeling "lynching" claim is not used (one source only).
+- Jack Johnson's prosecution: actors named (federal prosecutors under the Mann Act; the all-white jury; Judge Landis);
+  the law's words quoted; cause (traveling with white women) stated from Wikipedia "Mann Act".
+- Thorpe, 1913: actors named (the *Worcester Telegram*, reporter Roy Johnson per Adams; James E. Sullivan and the AAU; the
+  IOC; Warner and Friedman as alleged drafters of his letter, marked "allegedly" in the source). Pay figures disputed, both
+  recorded.
+- Black jockeys: actors named as white jockeys (Leeds and Rockoff) and owners who stopped hiring; the Jockey Club licensing
+  claim is search summary only and is not in the outline.
+- Choctaw-Chickasaw 1903: the player who struck the blow is unnamed on the marker; the Lighthorsemen and US marshals named as
+  the ones who stopped it.
+- Segregated pools, 1920s-1940s: actors are northern white officials and swimmers (Wiltse's finding, in his words). St. Louis
+  1949: O'Toole named; attackers unnamed; injuries 12 and arrests 7 or 8, both recorded.
+- Robinson, 1947: Chapman, Slaughter named; letter-writers anonymous; the Cardinals strike threat reported by Woodward and
+  denied by the club.
+- Owens and Didrikson: Brundage and the AAU named for Owens's ban; the AAU (car advertisement) and the USGA (after
+  complaints by Texas Women's Golf Association members) named for Didrikson's.
+- Cannon Street 1955: the 61 white teams (unnamed) withdrew; Little League's president named (first name disputed); the
+  South Carolina director Danny Jones is search summary only and is not in the outline.
+- Little League girls: Little League officials (Stirrat, Hale, the president) named; Pressler named.
+- Jackson pools, 1963: city officials closed them (Wikipedia summary names only "the city"; the officials are not named in
+  the bank); the five justices are not named in the bank. Monson 1964: James Brock named.
+- 1968: Brundage named; USOC officials unnamed as persons; *Time* and Musburger named for their words.
+- Ali: the New York State Athletic Commission and the WBA took the title (members not named); `war` tells the conviction.
+- Chris Ernst: Yale officials (Joni Barnett named) and the result stated.
+- Colostomy (Didrikson) defined in plain words under the clinical-word rule. Parkinson's syndrome (Ali) defined.
+
+**Outline claims the writers will need, and "firsts" checked.**
+- "first World Series" (1903): Wikipedia, "the first modern World Series".
+- "first Little League game" (6 June 1939): Little League.
+- Sonny Yearick "first Little Leaguer to play baseball for pay": *Sun-Gazette*, "the very first Little Leaguer to play
+  professionally".
+- Robinson "first Rookie of the Year": Wikipedia, the "inaugural award".
+- Robinson "first Black player in the white major leagues since the 1880s": consistent with era 07 (the Walkers 1884).
+- Kathryn Johnston "first girl to play in Little League": Little League's own letter, as reported by Little League 2024;
+  the outline attributes it to the officials.
+- Thorpe "first president of the league later named the NFL": Wikipedia.
+- Chris Ernst "first woman in the plumbers' union in New Haven": Wikipedia.
+- Jack Johnson "first Black heavyweight champion": not in the bank, so the outline does not say it.
+- Seed items not supported and left out: "football organizing" (only Thorpe and the 1920 league told); "radio audience
+  figures" and "matinee ticket prices" (SEARCHED, NOT FOUND); "comic-book hearings" (1954, told in no era here; Wertham
+  and the Senate are era 09 material not researched, see below); "what a game cost for how long" (price per game only);
+  "hours of unsupervised outdoor play" and "cost of a season by income" (SEARCHED, NOT FOUND).
+- Search-summary-only facts in the outline, each labeled there: Boy Scouts 1910; 4-H 1902; AAGPBL; Monopoly 1935;
+  *Little Orphan Annie* and *The Lone Ranger*; Pressler's date; Flood and Seitz; Fairground Park's return to segregation.
+  Writers should give these as reported, or find a page that opens.
+
+**Not researched (left for round 2):** the 1954 Senate hearings on comic books and Fredric Wertham (era 09); college
+sport and TV contracts in dollars; the NBA and NHL integration; Althea Gibson and Wilma Rudolph; Roberto Clemente;
+Title IX in college (NCAA counts); the cost of youth sport before 2000 (not found).
+
+**Land.** Allen, Oklahoma (1903 game): the site lay near the 1856 boundary between the Chickasaw and Choctaw Nations in
+Indian Territory (Chickasaw marker). Oklahoma statehood (1907) and allotment of the nations' land are `native-nations`'
+story. No other place in eras 08-09 involves newcomers taking land.
+
+**Perishable facts.** Thorpe restored as sole champion 15 July 2022 (parked notes, ESPN). MLB's Negro Leagues decisions
+of 2020 and 2024 (search summary; Gibson's career average .372 per AP, .371 per Wikipedia). Maria Pepe in the Little
+League Hall of Excellence, 2024 (Wikipedia). None needs a change as of 2026-09-28.
+
+**Handed to the era-10 agent (T-271d).** Iroquois Nationals 2010 passport refusal and 2014 and 2018 bronze medals
+(Wikipedia "Haudenosaunee men's national lacrosse team", opened); walking to school 2009, 12.7 percent (McDonald 2011,
+Table 2); Hofferth 1997-2003 time-diary changes (PDF in hand); Census self-care series after 1995; Knoester and Bjork on
+club teams; the parked 2026 Supreme Court ruling (bank, "Parked from rights-movements").
 
 ## Parked from `native-nations` (2026-08-07) — Jim Thorpe (sports-play tells the athletic career; native-nations tells the Carlisle/nations angle; our story slug there: jim-thorpe-native-nations)
 - **Jim Thorpe (Wa-Tho-Huk), Sac and Fox Nation** — Carlisle Indian Industrial School student; two-time football All-American there.

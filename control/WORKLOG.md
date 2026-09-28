@@ -3212,9 +3212,11 @@ RESULT: DONE. PASS  styles / research. measured: stage=RESEARCHED eras=10/10 sto
         357595 tokens, 141 tool uses, 18.4 min (opus). Eras 9-10, chapter COMPLETE. Stories: Charles and Ray Eames, Mary Beth Tinker, Rotchana Cheunchujit (El Monte, 1995), Francisco Tzul (LA garment worker, published interviews only), Andrew Johnson (2018; NJ CROWN Act). Jeans, Dacron 1951, Ann Lowe's 1953 gown, school hair cases, the Afro and the 1981 braids ruling, Air Jordans; Tazreen and Rana Plaza with US brands linked, LA piece pay and California's 2021 law, CROWN Act (~30 states, no federal law), textile waste, resale, end of de minimis. 4 searched-not-found. TO PARK listed.
 
 ### 2026-09-27 | [LOCAL] T-271c | sports-play: full research eras 8-9 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
+RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10 stories=19 (v17 c0 t2) verify_tags=17 bank=29337w outline=15756w manuscript=0w validator_errors=0
+        400921 tokens, 172 tool uses, 25.4 min (opus). Eras 8-9 + bank check. Stories: Jack Johnson (new), Babe Ruth, Jackie Robinson, Jesse Owens, Babe Didrikson Zaharias, Josh Gibson, Carl Stotz and the first Little League boys, Ali (boxing side), Billie Jean King, Tubby Johnston, Chris Ernst; Thorpe as a span. 1905 football deaths named, 1910 riots (11-26 killed), who forced out Black jockeys (NBER), segregated pools, Title IX numbers, Pong to the 1994 ratings board. 8 searched-not-found. Chapter FAIL until era 10. TO PARK 6.
 
 ### 2026-09-27 | [LOCAL] T-269d | storytelling-evolution: full research era 10, completes the chapter [BURST] | model opus
 STATUS: IN-FLIGHT

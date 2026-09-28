@@ -330,99 +330,209 @@ Between 1869 and 1896 Harry Wright's Cincinnati Red Stockings became the first a
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1850-1900" -->
 
-<!-- hb-time:start id="1900-1950" order="08" chapter="sports-play" label="1900 to 1950" state="full" progress="seed" -->
+<!-- hb-time:start id="1900-1950" order="08" chapter="sports-play" label="1900 to 1950" state="full" progress="researched" -->
 ## 1900 to 1950
 <!-- hb-zoom level="era" -->
-Sports become national entertainment, with heroes on the radio and Black players shut out of the white major leagues until 1947. Adults begin organizing children's free time into troops, clubs, and leagues, and entertainment starts arriving inside the house.
+In 1905 at least 18 people died playing football, and President Theodore Roosevelt called coaches from Harvard, Yale and Princeton to the White House. Over the next 45 years adults organized more of children's free time into Scout troops, 4-H clubs and, from 1939, Little League teams. Big-league baseball owners kept Black players out until Jackie Robinson played for Brooklyn in 1947. Black players had their own leagues from 1920. In the 1920s and 1930s white officials in many cities kept Black children out of the public pools where other children learned to swim. At home and at the movies, children listened to radio serials, went to Saturday matinees and read comic books, and some adults called the comics a danger to children.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="the World Series, the Negro Leagues, and the color line" -->
-The first World Series, 1903 [VERIFY]; Babe Ruth; the Negro Leagues and their stars; college football's growth; Jesse Owens at the Berlin Olympics, 1936; Jackie Robinson in 1947; professional football organizing; women's baseball during the war [VERIFY].
+<!-- hb-zoom level="span" label="football deaths and the rules of 1906" -->
+- The *Chicago Tribune* counted 19 football deaths in the 1905 season. The NCAA today gives 18 deaths and 149 serious injuries. Another newspaper counted 25 dead. A later check of the reports found about 20 deaths tied to football that year, 11 of them clearly from injuries in games (NCAA. New England Historical Society. Aaron Gordon, Deadspin).
+- Some of the dead were boys in high school. Harold Moore, 19, a Union College player, was knocked out in a game against New York University and died six hours later of bleeding inside his brain. In Rockville, Indiana, a broken rib pierced the heart of Carl Osborne, a high-school player, and killed him (Gordon).
+- On 9 October 1905 President Theodore Roosevelt met coaches and graduates from Harvard, Yale and Princeton at the White House. They promised to stop rough play (Smithsonian).
+- In December 1905 Henry MacCracken, the head of New York University, called two meetings. At the second, 62 colleges formed the group that in 1910 took the name National Collegiate Athletic Association, the NCAA (NCAA). For 1906 its rule makers allowed the forward pass, required a team to gain 10 yards instead of 5 for a first down, and banned jumping over the line (Smithsonian).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="jack-johnson" name="Jack Johnson" movie="" kind="famous" status="verified" -->
+### Jack Johnson
+> **Who:** A Black heavyweight boxing champion whose 1910 win over a white former champion set off attacks on Black people across the country · **When and where:** Galveston, Texas, Sydney, Reno and Chicago, 1878 to 1946
+- Jack Johnson was born in Galveston, Texas, on 31 March 1878. On 26 December 1908 he beat Tommy Burns in Sydney, Australia, and became the heavyweight champion (Wikipedia).
+- On 4 July 1910 in Reno, Nevada, he beat James Jeffries, a white former champion. Before the fight Jeffries said he was fighting to prove "that a white man is better than a Negro." Jeffries's helpers stopped the fight in the 15th round (Wikipedia).
+- That night white crowds attacked Black people in more than 25 states. Between 11 and 26 people were killed, and hundreds were hurt. In Uvalda, Georgia, white gunmen shot into a work camp and killed three Black workers. In New York City a crowd beat one person to death. The records read do not name the attackers (Wikipedia).
+- Officials in many states and cities banned showing the film of the fight. In 1912 Congress banned carrying boxing films from one state to another. The ban lasted until 1940 (Wikipedia).
+- In 1912 federal officers arrested Johnson under the Mann Act, a 1910 law against taking a woman across state lines "for any other immoral purpose." Prosecutors used it against him for traveling with white women. In 1913 an all-white jury convicted him, and Judge Kenesaw Mountain Landis sentenced him to a year and a day in prison. Johnson fled the country for seven years. He came back in 1920 and served his sentence at Leavenworth prison in Kansas (Wikipedia).
+- He died in a car crash in North Carolina on 10 June 1946, after a diner refused to serve him. In 2018 President Donald Trump pardoned him (Wikipedia).
+<!-- hb-story:end slug="jack-johnson" -->
+<!-- hb-zoom level="span" label="Jim Thorpe and his medals" -->
+- Jim Thorpe, a Sac and Fox athlete from Oklahoma, won the pentathlon and the decathlon at the 1912 Olympic Games in Stockholm. In the decathlon he beat the second-place man by 688 points (Wikipedia).
+- In January 1913 a Massachusetts newspaper reported that Thorpe had been paid to play minor-league baseball in North Carolina in 1909 and 1910. Accounts give his pay as $2 to $5 a game. Olympic athletes then had to be amateurs, people never paid to play sport. The Amateur Athletic Union, led by James E. Sullivan, took away his amateur standing. Members of the International Olympic Committee, the IOC, struck out his wins that year. Their own rules allowed a complaint only within 30 days of the Games, and the report came about six months later (Wikipedia. James Ring Adams, *American Indian* magazine).
+- Thorpe then played big-league baseball for the New York Giants and other teams from 1913 to 1919. He played pro football for the Canton Bulldogs and in 1920 became the first president of the league that later took the name NFL (Wikipedia).
+- In 1982 Florence Ridlon, a researcher, found the 30-day rule in the 1912 rule book. On 13 October 1982 the IOC's leaders named Thorpe a co-champion. On 15 July 2022 they named him the only champion of both events (Adams. ESPN, 2022). He had died in 1953.
+- Shared with: `native-nations` (Thorpe at the Carlisle Indian school and what the medals meant to Native nations).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="baseball, the Negro Leagues and the color line" -->
+- In October 1903 the Boston Americans beat the Pittsburgh Pirates 5 games to 3 in the first World Series. The owners of the two teams arranged it, and about 100,000 people watched the eight games (Wikipedia).
+- On 13 February 1920 Rube Foster, the owner of the Chicago American Giants, and other owners of Black teams met at a YMCA in Kansas City and started the Negro National League. It had eight teams in its first year and closed in 1931, in the Great Depression. Later Negro Leagues played until 1948 (Wikipedia).
+- In 2020 the leaders of Major League Baseball began counting the Negro Leagues of 1920 to 1948 as major leagues. In 2024 they added the Negro League players' records to the official record books (news reports).
+- Josh Gibson hit so many home runs that people called him "the Black Babe Ruth." White owners never signed him (Bill Johnson, Society for American Baseball Research).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="babe-ruth" name="Babe Ruth" movie="" kind="famous" status="verified" -->
+### Babe Ruth
+> **Who:** The home-run hitter whose name drew crowds to baseball in the 1920s · **When and where:** Baltimore, Boston and New York, 1895 to 1948
+- George Herman Ruth was born in Baltimore on 6 February 1895. When he was seven his parents sent him to St. Mary's Industrial School for Boys, a Catholic school for poor and troubled boys. A teacher there, Brother Matthias, taught him baseball (Wikipedia).
+- He pitched for the Boston Red Sox from 1914 to 1919. Harry Frazee, the owner of the Boston team, sold him to the New York Yankees for $100,000. The sale was announced in January 1920 (Wikipedia).
+- He hit 54 home runs in 1920 and 60 in 1927, and he finished his career with 714 (Wikipedia).
+- In 1936 he was one of the first five players chosen for the Baseball Hall of Fame. He died of cancer in New York on 16 August 1948 (Wikipedia).
+<!-- hb-story:end slug="babe-ruth" -->
+<!-- hb-story:start slug="josh-gibson" name="Josh Gibson" movie="Soul of the Game (1996, a drama about several players)" kind="famous" status="verified" -->
+### Josh Gibson
+> **Who:** A catcher and home-run hitter whom the white major-league owners never signed · **When and where:** Georgia and Pittsburgh, 1911 to 1947
+- Josh Gibson was born in Buena Vista, Georgia, on 21 December 1911. In 1926 his family moved to Pittsburgh, where he worked in an air-brake factory and a steel company (Bill Johnson, Society for American Baseball Research).
+- On 25 July 1930 the catcher for the Homestead Grays, a Black team near Pittsburgh, was hurt in a game. The owner, Cum Posey, called Gibson, 18, out of the crowd to catch (Johnson).
+- He played for the Grays and the Pittsburgh Crawfords. In 1937 the Crawfords' owner sold him back to the Grays for $2,500 and two players (Johnson).
+- The white owners of the major-league teams kept Black players out, so he never played in their leagues. His Hall of Fame plaque says he hit "almost 800" home runs in 17 years. In 1943 doctors found a brain tumor (Johnson).
+- He died in Pittsburgh on 20 January 1947, aged 35, less than three months before Jackie Robinson played his first game for Brooklyn (Johnson). His .466 batting average for 1943 is now the highest in the major-league record books (Wikipedia).
+<!-- hb-story:end slug="josh-gibson" -->
+<!-- hb-story:start slug="jackie-robinson" name="Jackie Robinson" movie="42 (2013)" kind="famous" status="verified" -->
+### Jackie Robinson
+> **Who:** The first Black player in the white major leagues since the 1880s · **When and where:** Georgia, California, Kansas City and Brooklyn, 1919 to 1972
+- Jackie Robinson was born in Cairo, Georgia, on 31 January 1919, the youngest of five children of sharecroppers, farmers who paid their rent with part of the crop. In 1920 his mother moved the family to Pasadena, California. At UCLA he earned letters in four sports (Wikipedia).
+- On 6 July 1944, as an Army officer at Fort Hood, Texas, he refused to move to the back of an Army bus. Officers charged him with disobeying orders, and a panel of nine white officers found him not guilty (Wikipedia).
+- In 1945 he played for the Kansas City Monarchs. On 28 August 1945 Branch Rickey, head of the Brooklyn Dodgers, met him. Robinson asked if Rickey wanted "a Negro who is afraid to fight back." Rickey said he needed a player "with guts enough not to fight back" (Wikipedia).
+- He played his first game for Brooklyn on 15 April 1947, before 26,623 people. More than 14,000 of them were Black (Wikipedia).
+- Ben Chapman, the manager of the Philadelphia team, told his players to call Robinson "everything and anything they wanted to." Chapman and his players shouted racist names at him. Robinson got letters telling him to leave baseball or be hurt, and the team gave two of them to the police. A St. Louis player, Enos Slaughter, cut his leg with his shoe spikes (Alan Cohen, Society for American Baseball Research. Wikipedia).
+- He was named the first Rookie of the Year in 1947 and Most Valuable Player in 1949. He died on 24 October 1972. In 1997 every major-league team retired his number, 42 (Wikipedia).
+<!-- hb-story:end slug="jackie-robinson" -->
+<!-- hb-zoom level="span" label="Black jockeys forced out" -->
+- Jimmy Winkfield of Kentucky won the Kentucky Derby in 1901 and 1902. No Black jockey has won it since. In 1904 he left to ride in Russia and later in France (Kentucky Derby Museum. Lisa Winkler, Smithsonian).
+- Two economists, Michael Leeds and Hugh Rockoff, studied why Black jockeys disappeared from American racing. They found that white jockeys attacked them during races: they boxed them in, ran them into the rail and hit them with their whips. Owners then stopped hiring Black jockeys so their horses would not be hurt (NBER, 2021).
+- Henry King rode in the 1921 Kentucky Derby. No Black jockey rode in it again until 2000 (Winkler).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="Jesse Owens, Babe Didrikson and women's sport" -->
+- In 1932 Babe Didrikson won two gold medals and a silver at the Los Angeles Olympics. Her story is below.
+- From 1943 to 1954 more than 600 women played in the All-American Girls Professional Baseball League, started by Philip Wrigley, the owner of the Chicago Cubs. Players had to wear skirts and go to charm school. The league's owners and officials never let Black women play (Wikipedia, search summary).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="jesse-owens" name="Jesse Owens" movie="Race (2016)" kind="famous" status="verified" -->
+### Jesse Owens
+> **Who:** A runner and jumper who won four gold medals at the Olympic Games in Nazi Germany · **When and where:** Alabama, Cleveland and Berlin, 1913 to 1980
+- James Cleveland Owens was born in Oakville, Alabama, on 12 September 1913, the son of a sharecropper. His family moved to Cleveland, Ohio, when he was nine. A teacher heard his initials "J.C." as "Jesse" (Wikipedia).
+- On 25 May 1935, at a college track meet in Ann Arbor, Michigan, he set five world records and tied a sixth in about 45 minutes (Wikipedia).
+- In August 1936 he won the 100 meters, the long jump, the 200 meters and the relay at the Olympic Games in Berlin. Adolf Hitler's Nazi government ruled Germany and taught that white people were a superior race (Wikipedia).
+- At home he had to ride the freight elevator to a party in his honor at a New York hotel. President Franklin Roosevelt did not invite him to the White House or send him a message. Owens said later that it was the American president, not Hitler, who snubbed him (Wikipedia).
+- When he refused to finish a tour of Europe, Avery Brundage and the Amateur Athletic Union banned him from amateur sport. He earned money by racing against horses. He said, "I had four gold medals, but you can't eat four gold medals." He died of lung cancer on 31 March 1980 (Wikipedia).
+<!-- hb-story:end slug="jesse-owens" -->
+<!-- hb-story:start slug="babe-didrikson-zaharias" name="Babe Didrikson Zaharias" movie="" kind="famous" status="verified" -->
+### Babe Didrikson Zaharias
+> **Who:** A track star, basketball player and golfer who won Olympic gold and helped start women's pro golf · **When and where:** Texas, Los Angeles and golf courses in the US and Britain, 1911 to 1956
+- Mildred Didrikson was born in Port Arthur, Texas, on 26 June 1911, the sixth of seven children of Norwegian immigrants. Boys she played baseball with said she hit like Babe Ruth, and the name stuck (Susan Cayleff, Handbook of Texas).
+- In 1930 an insurance company in Dallas hired her for office work and to play on its women's basketball team. At the national track championships in 1932 she was the company's whole team. In three hours she won five events and tied for first in another, and she scored more points than any other team (Cayleff).
+- At the 1932 Olympic Games in Los Angeles she won the javelin and the 80-meter hurdles. In the high jump she cleared the same height as the winner. The judges gave her second place because she went over the bar head first, which the rules then called a foul (Cayleff).
+- Later that year the Amateur Athletic Union banned her from amateur sport because her name was in a car advertisement. Her family needed money, so she played for pay, including with a traveling men's baseball team (Cayleff).
+- She took up golf. She helped found the Ladies Professional Golf Association and won the US Women's Open three times (Cayleff. Wikipedia).
+- In April 1953 surgeons removed cancer from her bowel and gave her a colostomy: they brought the end of the bowel out through an opening cut in her belly, so body waste collected in a bag. Fourteen weeks later she was playing again, and in 1954 she won the US Women's Open. She died of cancer on 27 September 1956, aged 45 (Cayleff. Wikipedia).
+<!-- hb-story:end slug="babe-didrikson-zaharias" -->
+<!-- hb-zoom level="span" label="Choctaw and Chickasaw ball play, 1903" -->
+- Choctaw and Chickasaw people met near Allen, in Indian Territory (now Oklahoma), each spring and fall to race horses and play the stick-and-ball game. In the spring of 1903 about 300 people came and bet on a game. A Choctaw player was hit with a ball stick, and a fight spread through the crowd. The Choctaw Nation's mounted police and US marshals stopped it (Chickasaw Historical Society marker). After this fight the twice-yearly games between the nations ended (Choctaw Nation).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="childhood gets organized" -->
-Research targets, with dates and founders to verify for each:
-- The Boy Scouts of America, 1910, and the Girl Scouts, 1912 [VERIFY]; 4-H clubs [VERIFY]
-- Little League from 1939, and youth football [VERIFY the founding, the first teams, and who was allowed to join]
-- City recreation departments, and the playgrounds, pools, and ballfields built in the 1930s under federal work programs [VERIFY the counts and the program names]
-- Who was kept out: segregated pools, playgrounds, and leagues, and what that meant for which children learned to swim [VERIFY — Jeff Wiltse, Contested Waters, 2007, and drowning rates by race and year]
+- In 1902 A. B. Graham, a school official in Clark County, Ohio, started clubs where farm children grew corn and tomatoes. These became the 4-H clubs (Wikipedia, search summary). The Boy Scouts of America began in 1910 (History.com, search summary). On 12 March 1912 Juliette Gordon Low signed up 18 girls in Savannah, Georgia, as the first troop of what she called Girl Guides. The name changed to Girl Scouts in 1913. The Savannah girls started a basketball league and went camping (Georgia Historical Society).
+- From 1935 to 1943 jobless workers paid by a federal program, the Works Progress Administration, built about 6,000 athletic fields and playgrounds and 770 new swimming pools (Encyclopedia.com, from the program's final report).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="entertainment arrives inside the house" -->
-Research targets:
-- Radio serials children listened to after school — name the programs, the years, and the audience figures [VERIFY]
-- Comic books from the late 1930s [VERIFY Superman's 1938 debut and early sales figures]
-- Board games sold nationally, including Monopoly from 1935 [VERIFY the date and the publisher]
-- Saturday matinees at the movie house: what a ticket cost and what a child saw [VERIFY; `storytelling-evolution` leads on the films themselves]
-- What adults said was wrong with each of these when it was new, and what they did about it [VERIFY the specific complaints, hearings, and dates]
+<!-- hb-story:start slug="carl-stotz" name="Carl Stotz and the first Little League boys" movie="" kind="ordinary" status="verified" -->
+### Carl Stotz and the first Little League boys
+> **Who:** A Williamsport man who organized baseball for his nephews and the neighborhood boys, and two of the boys who played · **When and where:** Williamsport, Pennsylvania, 1938 to 1955
+- In the summer of 1938 Carl Stotz, 28, who had no children of his own, tried out rules and field sizes with his nephews Jimmy and Major Gehron and other boys from the neighborhood (Little League).
+- In 1939 Stotz and two brothers, George and Bert Bebble, each managed a team. Three local businesses paid $30 each for uniforms, and the teams took their names: Lycoming Dairy, Lundy Lumber and Jumbo Pretzel. Thirty boys played. The bases were 60 feet apart, and the pitcher threw from 40 feet (Little League).
+- On 6 June 1939 Lundy Lumber beat Lycoming Dairy 23 to 8 on a vacant lot in Williamsport. It was the first Little League game (Little League).
+- Two boys on the Lycoming Dairy team were Bill Bair and Al "Sonny" Yearick. Yearick later became the first Little Leaguer to play baseball for pay, in the minor leagues. As old men the two told visitors how Little League had helped them stay out of trouble (Mike Reuther, *Williamsport Sun-Gazette*, 2020).
+- Only boys could play. Stotz later said, "When we started the Little League, the idea of a girl playing baseball, even with other girls, was simply unthinkable" (*Detroit News*, 1973, quoted by Little League). He left Little League's national company in 1955 after arguing with its leaders about money and control (Wikipedia).
+<!-- hb-story:end slug="carl-stotz" -->
+<!-- hb-zoom level="span" label="who was kept out of the pools" -->
+- In the 1920s and 1930s many cities in the North began letting men and women swim in the same public pools. The historian Jeff Wiltse found that officials in those cities then separated the pools by race, because "most northern whites did not want black men to have the opportunity to interact with white women" at the pools. Black children in these cities were kept out of the pools where most city children learned to swim (Wiltse, *Contested Waters*, 2007, and a 2018 interview).
+- On 21 June 1949 John O'Toole, a city official in St. Louis, opened the large Fairground Park pool to Black swimmers. About 30 to 40 Black people came. Crowds of white young men carrying baseball bats and bricks beat Black people as they left the pool. About 12 people were hurt, and police arrested 7 or 8 people. The sources read do not name the attackers. The city then separated the pools by race again (Wikipedia. Encyclopedia MDPI, search summary).
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="jesse-owens" name="Jesse Owens" movie="" kind="famous" status="candidate" -->
-### Jesse Owens
-Won four gold medals at the 1936 Berlin Olympics.
-<!-- hb-story:end slug="jesse-owens" -->
-<!-- hb-story:start slug="jackie-robinson" name="Jackie Robinson" movie="" kind="famous" status="candidate" -->
-### Jackie Robinson
-Broke baseball's color line in 1947.
-<!-- hb-story:end slug="jackie-robinson" -->
-<!-- hb-story:start slug="babe-ruth" name="Babe Ruth" movie="" kind="famous" status="candidate" -->
-### Babe Ruth
-The player who made baseball a national obsession.
-<!-- hb-story:end slug="babe-ruth" -->
-<!-- hb-story:start slug="babe-didrikson-zaharias" name="Babe Didrikson Zaharias" movie="" kind="famous" status="candidate" -->
-### Babe Didrikson Zaharias
-Olympic champion and golfer who dominated several sports.
-<!-- hb-story:end slug="babe-didrikson-zaharias" -->
-<!-- hb-story:start slug="negro-leagues-player" name="(target) a Negro Leagues player" movie="" kind="ordinary" status="target" -->
-### (target) a Negro Leagues player
-Played in the separate leagues Black players were confined to while the white major leagues would not sign them — many are documented by name.
-<!-- hb-story:end slug="negro-leagues-player" -->
-<!-- hb-story:start slug="child-play-oral-history-1900s" name="(target) a child whose ordinary play is recorded by name" movie="" kind="ordinary" status="target" -->
-### (target) a child whose ordinary play is recorded by name
-Federal Writers' Project interviews, settlement-house case files, and playground-association records carry named children describing what they did after school and where. Find one and use the name. If the account turns out to be documented but unnamed, it belongs in the era prose, not in a story block.
-<!-- hb-story:end slug="child-play-oral-history-1900s" -->
+<!-- hb-zoom level="span" label="radio, comic books and the movies" -->
+- In 1931 the radio show *Little Orphan Annie* went national. Children mailed seals from the sponsor's drink, Ovaltine, to get a badge for decoding a secret message at the end of each show. *The Lone Ranger* began on a Detroit radio station in 1933 (search summaries).
+- On Saturdays many children spent the afternoon at the movies. In Muncie, Indiana, at least half the children at Saturday matinees stayed five or six hours. In a working-class part of New Haven, Connecticut, more than half the children went twice a week or more. Researchers in the 1930s found children choosing movies over outdoor games (Richard Butsch, 2001). From 1929 to 1933 researchers paid by a private foundation, the Payne Fund, ran 13 studies of what movies did to children (Wikipedia).
+- Superman first appeared in a comic book in 1938. A publishers' survey in 1944 found that 95 of every 100 boys and 91 of every 100 girls aged 6 to 11 read comic books, about 12 a month. A comic book cost 10 cents (Toronto Metropolitan University Library exhibit).
+- In 1940 Sterling North, a newspaper book editor in Chicago, wrote that comic books were "badly drawn, badly written and badly printed" and a strain on children's eyes and nerves. People in some towns burned comic books in the 1940s (Comic Book Legal Defense Fund).
+- In 1935 Parker Brothers began selling the board game Monopoly. It grew out of *The Landlord's Game*, which Lizzie Magie patented in 1904 (British Library, search summary).
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
-<!-- hb-time:start id="1950-2000" order="09" chapter="sports-play" label="1950 to 2000" state="full" progress="seed" -->
+<!-- hb-time:start id="1950-2000" order="09" chapter="sports-play" label="1950 to 2000" state="full" progress="researched" -->
 ## 1950 to 2000
 <!-- hb-zoom level="era" -->
-Television turns sport into an industry, and athletes start using their platform. Television also becomes what a family does in the evening, and by the end of the century children are playing games on screens at home as well as outdoors.
+In 1969 almost half of American children in kindergarten through eighth grade walked or biked to school. In 1995 about 45 percent went by car, and time-diary studies found children spending more time in organized sports and lessons and less in free play. Little League kept girls out from 1951 until a court case in 1974. After Title IX became law in 1972, the number of girls playing high-school sports rose from about 294,000 to about 2.7 million by 1999. Television networks paid to show football, and the first Super Bowl in 1967 drew about 51 million viewers. Boxing officials took Muhammad Ali's title after he refused the draft in 1967, and US Olympic officials sent Tommie Smith and John Carlos home from the 1968 Games after they protested on the medal stand. From 1972 children could play video games for a quarter in arcades, and from 1977 on home consoles.
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="TV money, Title IX, and protest" -->
-Television money and the growth of leagues; Muhammad Ali; the Super Bowl from January 1967 [VERIFY — the name came later]; Title IX, 1972, and the growth of girls' and women's sports; the 1968 Olympic protest [VERIFY]; the Miracle on Ice, 1980; free agency and player unions; youth sports becoming organized and expensive.
+<!-- hb-story:start slug="kathryn-johnston" name="Kathryn Johnston" movie="" kind="ordinary" status="verified" -->
+### Kathryn "Tubby" Johnston
+> **Who:** A girl who played a season of Little League baseball dressed as a boy, which led Little League officials to ban girls · **When and where:** Corning, New York, 1950
+- In the spring of 1950 Kathryn Johnston played baseball with boys on a sandlot near her home in Corning, New York. She wanted to play on a Little League team, and Little League teams took only boys (Little League. StoryCorps).
+- She tucked her hair under a cap and went to the tryouts with her brother. In her own words: "I ran into my brother's room, got a pair of his slacks, put on a baseball cap and signed up as Tubby Johnston." She took the name from a comic strip, *Little Lulu* (StoryCorps, 2018. Little League).
+- She made the King's Dairy team and played first base. Then she told the coach she was a girl. He said she was good enough to make the team, so she could stay. More people came to the games once word got out (Little League).
+- In 1951 Little League officials made a rule that no girls could play. Johnston said, "It's known as the Tubby Rule because I was the reason why they put that rule in" (StoryCorps).
+- In 1974, after the ban ended, she wrote to Little League's headquarters. The officials checked her story and wrote back that she was the first girl to play in Little League (Little League).
+<!-- hb-story:end slug="kathryn-johnston" -->
+<!-- hb-zoom level="span" label="who could play Little League" -->
+- In 1955 the Cannon Street YMCA in Charleston, South Carolina, entered its all-star team of 14 Black boys in the city Little League tournament. The 61 other teams, all white, withdrew rather than play them. Cannon Street won the city and state titles because no one would play them. At the regional tournament, officials ruled that a team that had not won on the field could not go on, and Little League's president upheld the ruling. The white leagues' managers left Little League and started their own segregated league. Little League officials invited the Cannon Street boys to watch the Little League World Series. The crowd chanted "Let them play," and the boys watched from the stands (Bruce Markusen, National Baseball Hall of Fame).
+- One of the players, John Rivers, said in 2023: "So we didn't talk about it. So it tells me how painful it was." His father was serving in the Army in Korea at the time (Markusen).
+- In 1972 Maria Pepe, 12, pitched three games for a Little League team in Hoboken, New Jersey. Little League officials told the Hoboken league to drop her or lose its right to be part of Little League, and the league dropped her. The National Organization for Women took her case to New Jersey's civil rights office. On 7 November 1973 Sylvia Pressler, the officer hearing the case, ruled that keeping girls out broke the state's law (Little League. Wikipedia).
+- Little League officials lost their appeal. In December 1974 President Gerald Ford signed a law changing Little League's federal charter to let girls play. That year nearly 30,000 girls signed up for Little League's new softball program (Little League. Wikipedia).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="who could swim" -->
+- In 1963 officials in Jackson, Mississippi, closed four public swimming pools and gave up a fifth, which the YMCA then ran for white people only, rather than let Black residents swim in them. On 14 June 1971 five Supreme Court justices ruled that closing the pools to everyone was lawful. Four justices disagreed (Wikipedia, *Palmer v. Thompson*).
+- On 18 June 1964 Black and white protesters jumped into the pool of the Monson Motor Lodge in St. Augustine, Florida. The manager, James Brock, poured acid into the water while they were in it. A photograph of him doing it ran in newspapers across the country (Wikipedia).
+- The historian Jeff Wiltse found that when Black Americans won the right to use city pools, many white swimmers left them for private pools, and cities spent less on public pools (Wiltse, 2018 interview).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="television and the Super Bowl" -->
+- On 15 January 1967 the Green Bay Packers beat the Kansas City Chiefs 35 to 10 in Los Angeles in the first championship game between the two pro football leagues. Tickets cost $6 to $12. Two TV networks, CBS and NBC, showed the game to about 51 million viewers, and a 30-second advertisement cost $42,000. From the third game, in 1969, the official name was the Super Bowl. Lamar Hunt, who founded one of the leagues, took the name from his children's toy, a Super Ball (Wikipedia).
+- In November 1990 Arizona's voters refused to make Martin Luther King Jr.'s birthday a state holiday. NFL owners then moved the 1993 Super Bowl from Tempe, Arizona, to Pasadena, California (Pima County Public Library, via `holidays`).
+- On 22 February 1980 the US Olympic hockey team, college players with an average age of 21, beat the Soviet Union 4 to 3 at Lake Placid, New York. Two days later they won the gold medal (Wikipedia).
+- In December 1969 Curt Flood, a St. Louis Cardinals outfielder, refused to be traded. He wrote to baseball's commissioner: "I do not feel that I am a piece of property to be bought and sold irrespective of my wishes." He lost in the Supreme Court in 1972. In 1975 an arbitrator, Peter Seitz, ruled that players whose contracts ran out could sign with any team (The Henry Ford. Wikipedia, search summaries).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="muhammad-ali" name="Muhammad Ali" movie="" kind="famous" status="verified" -->
+### Muhammad Ali
+> **Who:** The heavyweight boxing champion whose title was taken from him when he refused to be drafted · **When and where:** Louisville, Rome, Atlanta and Zaire, 1942 to 2016
+- Cassius Clay was born in Louisville, Kentucky, on 17 January 1942. When he was 12, someone stole his bicycle. A police officer, Joe Martin, taught boxing, and he started Clay in the sport (Wikipedia).
+- He won an Olympic gold medal in Rome in 1960. On 25 February 1964, at 22, he beat Sonny Liston for the heavyweight title. He then joined the Nation of Islam and took the name Muhammad Ali (Wikipedia).
+- In April 1967 he refused to be drafted into the Army during the Vietnam War. The New York State Athletic Commission and the World Boxing Association, which ran boxing, took away his title. He could not box for more than three years (Wikipedia). Shared with: `war` (the draft case and the Supreme Court).
+- He fought again on 26 October 1970. On 28 June 1971 the Supreme Court overturned his conviction. On 30 October 1974 he beat George Foreman in Zaire, in Africa, and won the title back (Wikipedia).
+- He retired in 1981. In 1984 he said he had Parkinson's syndrome, a disease of the brain that makes the body shake and move slowly. He died on 3 June 2016 (Wikipedia).
+<!-- hb-story:end slug="muhammad-ali" -->
+<!-- hb-zoom level="span" label="the 1968 Olympic protest" -->
+- On 16 October 1968 Tommie Smith won the 200 meters at the Olympic Games in Mexico City in a world-record 19.83 seconds. John Carlos came third. During the US national anthem both men raised a fist in a black glove. They stood in black socks without shoes to stand for poor people. Peter Norman of Australia, who came second, wore their protest group's badge (Wikipedia).
+- Smith said they were protesting "the lack of black assistant coaches," the taking of Muhammad Ali's title, and the "lack of access to good housing" (Wikipedia).
+- Avery Brundage, the head of the International Olympic Committee, said he would ban the whole US track team unless the two men were punished. US Olympic officials suspended them and sent them out of the Olympic Village. Writers at *Time* magazine and the sports commentator Brent Musburger criticized them. At home they and their families got death threats (Wikipedia. History.com).
+- Both men later played pro football. Smith became a college track coach and teacher. Australian officials left Norman off their 1972 Olympic team although his times qualified him. Australia's parliament apologized to him in 2012, six years after he died (History.com).
+<!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="girls' sports after Title IX" -->
+- Title IX became law on 23 June 1972. In the 1971-72 school year 294,015 girls and 3,666,917 boys played high-school sports. Girls were about 7 of every 100 players. By 1977-78 about 2.1 million girls played. In 1999-2000 2,675,874 girls and 3,861,749 boys played, and girls were about 41 of every 100 (National Federation of State High School Associations). Shared with: `education` and `rights-movements` (the law itself).
+- In 1979 Yale University had 13 women's varsity teams. Yale's own archivists found that they got only a small part of the money and equipment that the men's teams got (Yale Library, 2022).
+<!-- /hb-zoom -->
+<!-- hb-story:start slug="chris-ernst" name="Chris Ernst" movie="A Hero for Daisy (1999, documentary about her)" kind="ordinary" status="verified" -->
+### Chris Ernst
+> **Who:** The captain of Yale's women's rowing team, who led a protest that won the team a locker room · **When and where:** Yale University, New Haven, Connecticut, 1972 to 1977
+- Chris Ernst grew up in Scituate, Massachusetts. In high school she beat boys at arm wrestling to win time on the gymnastics equipment (Wikipedia).
+- She began rowing at Yale in her second year and was captain of the women's team by her last year. The showers at the boathouse were for the men's team only. After practice the women waited on a bus in wet clothes while the men showered. Then they rode back to campus to wash (Wikipedia. Yale Library).
+- In March 1976 the 19 women on the team wrote "Title IX" on their bodies and went into the office of Joni Barnett, the director of women's sports. They took off their clothes, and Ernst read a statement that began, "These are the bodies Yale is exploiting" (Wikipedia).
+- A *New York Times* reporter called the university that day. Yale officials set up a trailer with running water and planned a $250,000 addition to the boathouse. By 1977 the women had a locker room (Yale Library. Wikipedia).
+- Ernst later won a world rowing title in 1986. In 1980 she became the first woman in the plumbers' union in New Haven (Wikipedia).
+<!-- hb-story:end slug="chris-ernst" -->
+<!-- hb-story:start slug="billie-jean-king" name="Billie Jean King" movie="" kind="famous" status="verified" -->
+### Billie Jean King
+> **Who:** A tennis champion who started the Women's Tennis Association and beat Bobby Riggs in the "Battle of the Sexes" · **When and where:** Long Beach, California, and Houston, Texas, 1943 to 1973 and after
+- Billie Jean King was born in Long Beach, California, on 22 November 1943. At 11 she switched from softball to tennis after her parents suggested a more "ladylike" sport. She saved $8 to buy her first racket and took free lessons on the city's public courts (Wikipedia).
+- As a young player she was kept out of a group photograph because she wore shorts her mother had sewn instead of a tennis dress (Wikipedia).
+- In June 1973 she founded the Women's Tennis Association, a group that speaks for women players (Wikipedia).
+- On 20 September 1973 she beat Bobby Riggs, a 55-year-old former champion, 6-4, 6-3, 6-3, at the Houston Astrodome. About 30,000 people watched in the stadium, and about 50 million watched on television in the United States. She won $100,000 (Wikipedia).
+- She won 39 Grand Slam titles in singles and doubles. In 2009 she received the Presidential Medal of Freedom (Wikipedia).
+<!-- hb-story:end slug="billie-jean-king" -->
+<!-- hb-zoom level="span" label="arcades and home consoles" -->
+- In August 1972 Nolan Bushnell and Allan Alcorn of Atari put a test machine of their game *Pong* in a bar in Sunnyvale, California. The owner soon called them because the machine had stopped. Its coin box was jammed full of quarters. Atari sold *Pong* from 29 November 1972, at 25 cents a game, and sold more than 8,000 machines by the end of 1974. Sears sold a home version for $98.95 at Christmas 1975 (Wikipedia).
+- The Atari home console came out in 1977 for $199. Atari sold about 30 million by 1992. In 1980 the arcade game *Pac-Man* came to North America. Its designer, Toru Iwatani, wanted "a nonviolent, cheerful game" that women would play, and by 1981 its machines had taken in more than $1 billion in quarters (Wikipedia).
+- By 1982 there were about 30 million game consoles in the country, and about 35 million households had children aged 6 to 16. Then sales fell from about $3.2 billion in 1983 to about $100 million in 1985. Atari's managers buried about 728,000 unsold game cartridges in a landfill in New Mexico. Sales rose again after Nintendo began selling its console in the United States in 1985. Nintendo's Game Boy, which could be carried anywhere, came out in 1989 for $89.95 (Wikipedia).
+- In 1971 three student teachers from Carleton College, Don Rawitsch, Bill Heinemann and Paul Dillenberger, made *The Oregon Trail* for a Minneapolis junior high class. Later versions were played in schools across the country (Wikipedia). Shared with: `migration` (the trail itself) · `storytelling-evolution` (games as story).
+- In December 1993 and March 1994 Senators Joe Lieberman and Herb Kohl held hearings on violent video games such as *Mortal Kombat*. The game companies then set up the Entertainment Software Rating Board, which from September 1994 put age ratings on games (Wikipedia).
 <!-- /hb-zoom -->
 <!-- hb-zoom level="span" label="what a child's afternoon looked like" -->
-Research targets, each to be given with its survey, its year, and its number:
-- The share of children who walked or biked to school, measured from 1969 onward [VERIFY the National Personal Transportation Survey figures and the later National Household Travel Survey figures]
-- Hours of unsupervised outdoor play in time-diary studies, and how the figure changed across these decades [VERIFY the study names and years]
-- Suburban yards, streets, sandlots, and vacant ground as the places children played [VERIFY with named accounts]
-- Children at home alone after school as more mothers worked for pay [VERIFY the labor-force numbers and the years]
-- Where Black children could and could not play as parks and pools desegregated, and how long each took [VERIFY named cities and dates]
+- In 1969, 47.7 percent of children in kindergarten through eighth grade usually walked or biked to school, and 12.2 percent were driven. In 1995, on the day of a national survey, 44.9 percent went by car and about 14 percent walked or biked (Noreen McDonald and others, *American Journal of Preventive Medicine*, 2011, using US Department of Transportation surveys).
+- Researchers Sandra Hofferth and John Sandberg compared diaries of how children spent their time in 1981 and 1997. Children spent more time in school, day care, sports and art lessons, and less time in free play, housework and watching television (Hofferth, 2009).
+- More mothers worked for pay. In 1975, 47 of every 100 mothers with children under 18 were in the labor force. By 2000 it was 73 of every 100 (US Bureau of Labor Statistics).
+- In the fall of 1995 about 6.9 million children aged 5 to 14, 18 of every 100, regularly looked after themselves for part of the week, about six hours a week on average. About 15 million children that age took part in sports, lessons or clubs (US Census Bureau).
+- In a survey of adults, about 4 of every 100 born in the 1950s had played on a private club or travel team as children. For those born in the 1990s it was 13 of every 100 (Chris Knoester and Chris Bjork, reported by Ohio State University, 2025).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="arcades and home consoles" -->
-Research targets, dates to verify for every item:
-- Pong in arcades, 1972, and the arcade games that followed, including Space Invaders, 1978, and Pac-Man, 1980 [VERIFY]
-- Home consoles: the Atari 2600, 1977; the Nintendo Entertainment System in the United States, 1985; the Game Boy, 1989 [VERIFY each date]
-- The 1983 collapse of the American video-game business, and what came after it [VERIFY]
-- The Oregon Trail, 1971, played in classrooms [VERIFY; also seeded in `migration` — the director decides which chapter leads]
-- What a game cost in quarters and in dollars, and how long a child could play for that [VERIFY]
-- The 1993 congressional hearings on violent games and the ratings board set up the following year [VERIFY the dates and the body's name]
+<!-- hb-zoom level="span" label="the Iroquois Nationals" -->
+- In 1983 Haudenosaunee (Iroquois) people formed a national lacrosse team, and the Grand Council of the Haudenosaunee approved it. The International Lacrosse Federation turned the team down for 1986 and accepted it as a member nation in 1988. In 1990 the team played in the world championship in Perth, Australia (Wikipedia).
 <!-- /hb-zoom -->
-<!-- hb-zoom level="span" label="youth sport turns into a schedule" -->
-Research targets: when travel teams, year-round seasons, and single-sport specialization spread, and on what evidence [VERIFY]; participation numbers by sport and year [VERIFY]; what a season cost a family, and how that differed by income [VERIFY]. `education` leads on school sport as part of schooling; this chapter keeps the family's calendar and the bill.
-<!-- /hb-zoom -->
-<!-- hb-story:start slug="muhammad-ali" name="Muhammad Ali" movie="" kind="famous" status="candidate" -->
-### Muhammad Ali
-Heavyweight champion who refused the draft and lost years of his career.
-<!-- hb-story:end slug="muhammad-ali" -->
-<!-- hb-story:start slug="billie-jean-king" name="Billie Jean King" movie="" kind="famous" status="candidate" -->
-### Billie Jean King
-Won the "Battle of the Sexes" and fought for equal prize money.
-<!-- hb-story:end slug="billie-jean-king" -->
-<!-- hb-story:start slug="title-ix-athlete" name="(target) a Title IX athlete" movie="" kind="ordinary" status="target" -->
-### (target) a Title IX athlete
-Played a school sport that did not exist for girls before 1972 (documented).
-<!-- hb-story:end slug="title-ix-athlete" -->
-<!-- hb-story:start slug="postwar-child-outdoor-play" name="(target) a child of these decades whose play is documented by name" movie="" kind="ordinary" status="target" -->
-### (target) a child of these decades whose play is documented by name
-Oral-history collections and named interviews carry people describing their own childhood afternoons: where they went, with whom, and until when. Use a named account; unnamed material goes in the era prose.
-<!-- hb-story:end slug="postwar-child-outdoor-play" -->
 <!-- hb-time:end id="1950-2000" -->
 
 <!-- hb-time:start id="2000-today" order="10" chapter="sports-play" label="2000 to Today" state="full" progress="seed" -->

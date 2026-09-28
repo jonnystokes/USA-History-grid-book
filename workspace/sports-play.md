@@ -82,10 +82,10 @@ Sport (from the original seed):
 - [x] the first fully professional team, 1869 (T-271b: Hall of Fame, "first known openly professional") — 1850–1900
 - [x] the first college football game, 1869 (T-271b: Rutgers 6, Princeton 4, 6 Nov 1869) — 1850–1900
 - [x] basketball invented, 1891 (T-271b: Springfield College; date 21 or 29 Dec disputed) — 1850–1900
-- [ ] the first World Series, 1903 — 1900–1950
-- [ ] women's baseball during the war — 1900–1950
-- [ ] the Super Bowl from January 1967 (the name came later) — 1950–2000
-- [ ] the 1968 Olympic protest — 1950–2000
+- [x] the first World Series, 1903 (T-271c: Boston 5, Pittsburgh 3, Oct 1903; Wikipedia) — 1900–1950
+- [x] women's baseball during the war (T-271c: AAGPBL 1943-1954, search summary only, labeled) — 1900–1950
+- [x] the Super Bowl from January 1967 (T-271c: 15 Jan 1967; name official from game III, 1969; Wikipedia) — 1950–2000
+- [x] the 1968 Olympic protest (T-271c: 16 Oct 1968; Wikipedia, History.com) — 1950–2000
 - [ ] legal sports betting after 2018 — 2000–Today
 
 Play and entertainment (added 2026-09-06):
@@ -95,15 +95,15 @@ Play and entertainment (added 2026-09-06):
 - [x] the Boston sand gardens (T-271b: Lee 1902 says 1886, summaries say 1885; 21 in Boston by 1900; no national count) — 1850–1900
 - [x] Coney Island (T-271b: Switchback Railway 1884, 5 cents; parks 1895/1897 in bank as search summary) — 1850–1900
 - [x] census counts of working children (T-271b: 1870 over 750,000 under 15; 1900 over 1.75 million; Census Bureau, BLS) — 1850–1900
-- [ ] Boy Scouts 1910, Girl Scouts 1912, 4-H, Little League 1939, youth football — 1900–1950
-- [ ] playgrounds and pools built under 1930s federal work programs: counts and program names — 1900–1950
-- [ ] segregated pools and playgrounds, and swimming and drowning rates by race — check Jeff Wiltse, *Contested Waters* (2007) — 1900–1950
-- [ ] Superman's 1938 debut; Monopoly from 1935; radio serial audiences; matinee ticket prices — 1900–1950
-- [ ] share of children walking or biking to school, 1969 baseline and the latest figure, same survey family (NPTS / NHTS, Safe Routes to School) — 1950–2000 and 2000–Today
-- [ ] time-diary evidence on unsupervised outdoor play, by decade — 1950–2000
-- [ ] Pong 1972; Space Invaders 1978; Pac-Man 1980; Atari 2600 1977; NES in the US 1985; Game Boy 1989; the 1983 collapse — 1950–2000
-- [ ] The Oregon Trail, 1971 (also seeded in `migration`) — 1950–2000
-- [ ] 1993 hearings on violent games and the ratings body set up the following year — 1950–2000
+- [x] Boy Scouts 1910, Girl Scouts 1912, 4-H, Little League 1939 (T-271c: Girl Scouts GHS, Little League site; Scouts/4-H search summary; youth football not researched) — 1900–1950
+- [x] WPA 1935-1943: 6,000 fields and playgrounds, 770 pools (T-271c: Encyclopedia.com) — 1900–1950
+- [x] segregated pools (T-271c: Wiltse 2018 interview; Fairground Park 1949). Drowning rates by race 1900-1950: SEARCHED, NOT FOUND — 1900–1950
+- [x] Superman 1938, Monopoly 1935 (search summary, labeled); comics survey 1944 (TMU); radio audiences and matinee prices SEARCHED, NOT FOUND — 1900–1950
+- [x] (1950-2000 part) walking or biking to school: 47.7% in 1969, 1995 survey-day figures (T-271c: McDonald et al. 2011). The 2009 and later figures are for T-271d — 1950–2000 and 2000–Today
+- [x] time diaries 1981-1997 (T-271c: Hofferth 2009 summarizing Hofferth and Sandberg 2001); "unsupervised outdoor" hours SEARCHED, NOT FOUND — 1950–2000
+- [x] Pong 1972; Space Invaders 1978; Pac-Man 1980; Atari 2600 1977; NES 1985; Game Boy 1989; the 1983 collapse (T-271c: Wikipedia) — 1950–2000
+- [x] The Oregon Trail, 1971 (T-271c: first played 3 Dec 1971; Wikipedia; director decides lead with `migration`) — 1950–2000
+- [x] 1993-94 Senate hearings; ESRB ratings from 13 Sept 1994 (T-271c: Wikipedia) — 1950–2000
 - [ ] teen smartphone ownership by year (Pew) — 2000–Today
 - [ ] Minecraft 2011, Fortnite 2017, Roblox: release dates and player counts — 2000–Today
 - [ ] daily screen use for 8–12s and 13–18s (Common Sense Media census reports) — 2000–Today
@@ -207,3 +207,17 @@ need research to state plainly and are queued here so they are not lost:
 - **For the audit:** era 05 `austin-curtis` death year (1809 in the outline; the *Raleigh Minerva* obituary dates it
   December 1807). Logged in the checkpoint TO PARK.
 
+## T-271c (2026-09-28): eras 8-9 researched
+- Both cells are `progress="researched"`, `state="full"`, zero [VERIFY], zero em dashes and zero semicolons.
+- 1900-1950 stories (all verified): jack-johnson (new), babe-ruth, josh-gibson (replaces the Negro Leagues target),
+  jackie-robinson, jesse-owens, babe-didrikson-zaharias, carl-stotz (ordinary; replaces the named-child target, with
+  the first players Bill Bair and Sonny Yearick). Jim Thorpe told as a span, shared with `native-nations`.
+- 1950-2000 stories (all verified): kathryn-johnston (ordinary; replaces the postwar-child target), muhammad-ali
+  (sports angle; `war` has muhammad-ali-war), chris-ernst (ordinary; replaces the Title IX athlete target),
+  billie-jean-king.
+- Shared events added: Title IX (`education`, `rights-movements` tell the law); Ali (`war`); The Oregon Trail
+  (`migration`, `storytelling-evolution`); the 1993 Super Bowl move (from `holidays`).
+- Famous names now present: Roosevelt and the 1905 football crisis, Jack Johnson, Jim Thorpe, Babe Ruth, Josh Gibson,
+  Jackie Robinson, Jesse Owens, Babe Didrikson, Muhammad Ali, Tommie Smith and John Carlos, Billie Jean King, Curt Flood,
+  the Miracle on Ice. Not yet present (round 2): Althea Gibson, Wilma Rudolph, Roberto Clemente, Joe Louis.
+- Cross-chapter parking: none filed (burst rule); see the checkpoint's "TO PARK (T-271c)".
