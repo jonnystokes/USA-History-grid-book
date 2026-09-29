@@ -30,6 +30,15 @@ Companion files: outline `outlines/money.md` · workspace `workspace/money.md`.
 ### PATCH 2026-09-27 (T-252): whose land St. Augustine stood on
 - Pedro Menéndez de Avilés founded St. Augustine in September 1565 at the site of Seloy, a Timucua village, in the homeland of Timucua-speaking peoples. (Carried from `research/research-city-building.md`, where it is sourced to City of St. Augustine "Our History," Smithsonian Magazine and NPS. The Spanish garrison's coin in the outline line was paid to soldiers living on Timucua land.)
 
+### PATCH 2026-09-29 (T-308a): who dug the silver at Potosí
+- "With the discovery of silver at the Cerro Rico (Rich Hill) in 1545, Spaniards and Andeans rushed to exploit the fabulously rich ores." "In 1573 Viceroy Francisco de Toledo adapted the Inca system called mita of rotating forced indigenous labor, to provide workers for the mines." "Work at Potosí was dangerous and unhealthy, and the mita disrupted life in indigenous communities." The same entry states that "disease was by far the larger destroyer of Indians in the Central Andes" than the mita. By 1600 Potosí had more than 100,000 inhabitants. Mercury from Huancavelica was used from the 1570s to refine the silver (amalgamation). (Source: Encyclopedia.com, "Potosí," Encyclopedia of Latin American History and Culture, opened.)
+- "Toledo instituted a formal mita for the silver mines and mills at Potosí between 1572 and 1575." "Each year it mobilized over 11,000 Indians from the highland provinces between Potosí and Cuzco." (Source: Encyclopedia.com, "Mita," opened.)
+- The mita was "the expropriation of Indigenous labor in the form of mandatory, shift-based labor services." Under Toledo's structure the workers (mitayos) were organized in three groups a year and worked one week and rested two. They traveled with their families, carrying most of their own food, and most of the little money they earned went to pay the tribute (a tax) they owed the colonial state. (Source: University of Pennsylvania, Digital Indigenous Americas / DIA, "Colonial legislations as a framework for dispossessions in the Central Andes: the colonial mita," opened.)
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-308a): how many forced workers died in the Potosí mines
+Sources checked: Encyclopedia.com "Potosí" and "Mita" (no death count; names disease as the larger killer); Penn DIA mita page (no death count); popular and blog pages in search results (figures from "hundreds of thousands" to "eight million," one noting that eight million is a count for the whole Viceroyalty of Peru; not scholarly, search summaries only).
+How the prose can say it: the work was forced and dangerous; no reliable count of the dead exists.
+
 ## 3. The 1600s
 
 ### Coin shortage and commodity money
@@ -84,6 +93,15 @@ Companion files: outline `outlines/money.md` · workspace `workspace/money.md`.
 - Earlier punishment: before his hanging Sullivan had "had both his Ears crop'd, and been branded on both his Cheeks with the Letter C, for counterfeiting the Bills of Credit of that Colony" (period newspaper wording quoted in a search summary; the colony was Rhode Island by the same summaries) (unconfirmed: search summary only). Plain meaning, if confirmed: officials cut off part of each ear and burned the letter C (for counterfeiter) into each cheek with a hot iron, so that anyone could see what he had been convicted of.
 - The same records name the young Robert Rogers (later of Rogers' Rangers) as arrested on January 31, 1755 on a counterfeiting charge after falling in with Sullivan (New York State Historical Markers blog, "Battles on Snowshoes," November 2013, opened; blog, labeled).
 
+### PATCH 2026-09-29 (T-308a): Owen Sullivan's ears and cheeks, confirmed
+- The *Boston Evening Post* of **October 9, 1752**, reporting from Providence, Rhode Island: "Sullivan, a well-known Engraver, has lately had both his Ears crop'd, and been branded on both his Cheeks with the Letter C, for counterfeiting the Bills of Credit of that Colony." (Source: Jim Moyer, "Counterfeit Money led to Rogers Rangers," Fort Loudoun VA blog, opened, which quotes the newspaper with its date and place; blog, labeled. A search-result summary of an AP review of Tarnoff's *Moneymakers* (2011) says the same: earlier arrests "relieved him of his ears and left him branded on both cheeks" (unconfirmed: search summary only, supporting).) This confirms the T-252 line above: the punishment was in Rhode Island, in or shortly before October 1752, for faking Rhode Island's bills.
+- Plain meaning: part or all of each ear was cut off, and the letter C, for counterfeiter, was burned into each cheek with a hot iron. The newspaper does not name the officials who did it or say how much of each ear was cut.
+- Other names he used (unconfirmed: search summary only, not used): John McDaniel, James Tice, John Pierson and others.
+
+### PATCH 2026-09-29 (T-308a): Hamilton's office
+- Alexander Hamilton (1757 to 1804) "was appointed the first Secretary of the Treasury" and served from 1789 to 1795. (Source: U.S. Department of the Treasury, "Alexander Hamilton (1789-1795)," prior secretaries page, opened.)
+- Full names for the bank fight: **James Madison** opposed the bank bill in the House as unconstitutional, asking "Is the power of establishing an incorporated Bank among the powers vested by the Constitution in the Legislature?" **George Washington** signed the bill on **February 25, 1791**, after asking Hamilton to answer the objections so that he might be "fully possessed of the arguments for and against the measure." (Source: National Park Service, "Establishing the First Bank," nps.gov, opened.) Federal Reserve History ("The First Bank of the United States," opened) names "Thomas Jefferson" and "President Washington."
+
 ## 6. 1800 to 1850
 
 ### The Bank War — both sides plainly
@@ -106,8 +124,26 @@ Companion files: outline `outlines/money.md` · workspace `workspace/money.md`.
 - **The crash:** cotton fell from 18 cents a pound in 1834 to under 10 cents by late 1836. By March 1837 ten major New Orleans cotton firms had failed. Planters owed New Orleans banks alone $33 million and could not expect to net more than $10 million from the 1837 crop. When planters defaulted, the people they had mortgaged were sold to raise cash (Baptist). Mississippi and Florida repudiated (refused to pay) the state-backed bonds, so bondholders in Europe and the North lost and the enslavers kept their property (Baptist). JPMorgan Chase's January 2005 report: its predecessor banks Citizens Bank and Canal Bank accepted about 13,000 enslaved people as collateral and came to own about 1,250 of them after defaults (NBC News/AP and NPR, January 2005, as sourced in `research/research-economy.md`).
 - Owner note: `economy` tells these banks as the economy's capital and the panic. `slavery-freedom` leads people as property. This chapter's slice is one sentence of mechanism: the notes in people's pockets in Louisiana were bank money lent against mortgaged people.
 
+### PATCH 2026-09-29 (T-308a): David Allison's end
+- The sale was in **August 1795**; Jackson "was selling land for himself, John Overton, and others." Later "the notes he had given to Allison were suddenly presented for payment. Jackson struggled for years to settle the matter." "Overtaken by creditors, Allison was thrown into debtor's prison in Philadelphia and died there on September 28, 1798." (Source: Tennessee Encyclopedia, "David Allison," Tennessee Historical Society, opened.) This confirms the debtors'-prison line tagged unconfirmed in the Jackson PATCH above.
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-308a): where the 68,000 acres Jackson sold to Allison lay, and which nation's land it had been
+Sources checked: *American Heritage* May 2001 (via bank: no location given); Wikipedia "Andrew Jackson and land speculation" (opened: names the Allison partnership, no location or nation); Tennessee Encyclopedia "David Allison" (opened: no location, no nation); a search for Duck River / Cherokee / Chickasaw links to the Allison sale (Jackson's other Duck River land interests appear, nothing ties this tract to them).
+How the prose can say it: the accounts of the sale do not say where the land lay or which nation had lived on it.
+
+### PATCH 2026-09-29 (T-308a): the forced sales after 1837, Baptist's wording
+- Baptist (opened again 2026-09-29, commonplace.online/article/toxic-debt-liar-loans/): many enslavers "had layered multiple mortgages on each slave." Prices "for slaves and land, the ultimate collateral in the system, had plummeted as the first wave of bankruptcy-driven sales tapped what little cash there was in the system." Confirms: after the crash, mortgaged enslaved people were sold in bankruptcy sales, and prices fell.
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-308a): who ran the sales of mortgaged enslaved people in Louisiana after 1837
+Sources checked: Baptist, *Common-place* 2010 (says "bankruptcy-driven sales," names no seller); search summaries of a Substack post (says banks turned to slave traders to auction people, unconfirmed, not a usable source); Sharon Ann Murphy, "Banking on Slavery in the Antebellum South," Yale Economic History Workshop draft, May 1, 2017 (opened: describes sheriff's sales of mortgaged land and enslaved people after 1840 foreclosures, with the bank buying and then selling people separately, but the draft's cover page says "Please do NOT cite, quote, or circulate without the express permission of the author," so it is not used as a source).
+How the prose can say it: the mortgaged people were sold in forced sales to pay the debts; the accounts of the crash do not name who ran each sale. The JPMorgan Chase 2005 figures (13,000 taken as collateral, about 1,250 owned by the two banks) stand.
+
 ### PATCH 2026-09-27 (T-252): whose land Michigan's 1830s banks lent against
 - The wildcat banks of Washtenaw County (Ann Arbor) and southeastern Michigan made loans against land that the Potawatomi, Ojibwe (Chippewa), Odawa (Ottawa) and Wyandot nations had ceded to the United States in the **Treaty of Detroit, November 17, 1807**, signed for the U.S. by territorial governor William Hull. The cession was about **8 million acres**. The Huron Potawatomi received a one-time payment of $1,666.66 and a $400 yearly annuity, roughly 1.2 cents an acre. (Source: Nottawaseppi Huron Band of the Potawatomi, "1807 Treaty of Detroit" timeline page, opened.) That the ceded tract reached west to present-day Jackson, so including the Ann Arbor area, comes from search summaries of AADL and Michiganology (unconfirmed: search summary only). Michigan's failed free banks had lent against land: Dove, Pecquet and Thies (2014, opened) write that winding them down dragged on for years "because of the illiquidity of the land securing the loans of the failed bank."
+
+### PATCH 2026-09-29 (T-308a): the 1807 cession included Ann Arbor, confirmed, and its size
+- The Ann Arbor District Library's page "On Anishinaabe Land: Treaties with Indigenous Nations and the Founding of Ann Arbor" (aadl.org/treaties, opened) states that the 1807 Treaty of Detroit ceded "lands that would become Ann Arbor." It was signed by the Ojibwe, Ottawa, Potawatomi and Wyandot. "The Treaty of 1807 ceded a total 5,611,532 acres in a tract known as Royce Area 66." "These tracts of lands were purchased for as little as 1.2 cents per acre, for a total of $57,717.32," against an estimated value of $6,400,000. This confirms the Washtenaw link above.
+- Acreage differs by source: about 8 million acres (Nottawaseppi Huron Band of the Potawatomi) and 5,611,532 acres (AADL, Royce Area 66). State both, or "between about 5.6 million and 8 million acres."
 
 ### PATCH 2026-09-27 (T-252): Michigan's wildcat banks and bank commissioner Alpheus Felch (fills the `wildcat-note-shopkeeper` slot)
 - Why the slot changed: no named shopkeeper's daybook or memoir about sorting notes with a counterfeit detector was found (see SEARCHED, NOT FOUND below). The slot is filled instead by the best-documented named person in the wildcat story: the Michigan bank commissioner who inspected the banks and wrote down what he found.
@@ -160,6 +196,13 @@ How the prose can say it: "Shopkeepers kept these printed lists by the cash box.
 ### SEARCHED, NOT FOUND 2026-09-27 (T-252): how many depositors lost how much in the bank failures of 1837, 1873 and 1893
 Sources checked: Federal Reserve History "Banking Panics of the Gilded Age" (counts banks, not depositors); Federal Reserve History Panic of 1837 materials (via era 6 bank); `research/research-economy.md` (bank and business counts, unemployment estimates); Dove, Pecquet and Thies 2014 (Michigan noteholder losses only, $350,000 to $1 million).
 How the prose can say it: "No one counted the depositors. The records give the number of banks that closed, not the number of families who lost their savings." Deposit insurance did not exist, so every depositor in a failed bank waited for whatever the receiver could collect.
+
+### PATCH 2026-09-29 (T-308a): Bryan was a former congressman in 1896 (correction)
+- The Miller Center describes Bryan in 1896 as "a former congressman from Nebraska" (Miller Center, "William McKinley: Campaigns and Elections," opened). The era 7 line above that calls him "the 36-year-old Nebraska congressman" is loose: he was no longer in Congress in July 1896. Write "former congressman."
+
+### PATCH 2026-09-29 (T-308a): the Secret Service's first chief, and who shot McKinley
+- "The Secret Service Division was formed on July 5, 1865 as part of the Department of the Treasury." Its first chief, William P. Wood, was sworn in by Treasury Secretary Hugh McCulloch. "As a result of the assassination of President William McKinley, Congress requested Secret Service protection of U.S. presidents." In 1902 "The Secret Service assumed full-time responsibility for protection of the President." (Source: U.S. Secret Service, "Timeline," secretservice.gov, opened.)
+- "Leon F. Czolgosz, age twenty-eight, a Detroit resident of Polish heritage and an unemployed mill worker of anarchist sentiments, had fired a concealed .32 Iver Johnson revolver point blank into the President's chest" at a public reception in the Temple of Music at the Pan-American Exposition in Buffalo on **September 6, 1901**. McKinley died on **September 14, 1901**. (Source: Miller Center, University of Virginia, "William McKinley: Death of the President," opened.)
 
 ## 8. 1900 to 1950
 
