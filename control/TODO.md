@@ -11,6 +11,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+**PAUSED (Jon) after T-301b.** Nothing in flight. landmarks is the 8th written chapter (PASS prose).
+
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
 **STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
 8-10 (part3). Chapters whose eras 1-7 slice passes ~25,000 words get writer A split (1-5, 6-7); the three giants

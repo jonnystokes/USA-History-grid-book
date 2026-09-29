@@ -3312,3 +3312,5 @@ VERIFY: python tools/project_state.py --check landmarks --stage prose
 RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=12625w files=3 validator_errors=0
         277437 tokens, 117 tool uses, 15.6 min (opus). Writer B: part3 (5,287w), chapter PASSES prose. Eras 8-10: Lincoln Memorial (segregated crowd, Taft cut Moton's speech, Marian Anderson), Rushmore with the Black Hills takers named, Mohawk ironworkers, Golden Gate, Hoover Dam, Gateway Arch walkout and DOJ suit, WTC, Vietnam Veterans Memorial, 9/11 Memorial, Capitol marker, Montgomery memorials, Confederate monuments, 2026 President's House case, Sugarloaf Mound. 10 PATCH, 2 not found, 17 outline claims left out, OPEN none. Fixed: Moton speech 'vetted' (Taft ordered 500 words cut), Hoover CO deaths alleged by workers, Borglum 1923 not 1915.
 NOTE (Jon): PAUSE after T-301b finishes. No new dispatches until Jon says.
+
+### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-301b. landmarks PASSES prose. Nothing in flight.
