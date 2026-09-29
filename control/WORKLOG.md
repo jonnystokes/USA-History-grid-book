@@ -3244,9 +3244,11 @@ NEXT: STEP 2 (writing), per Jon: burst of 8.
 ### 2026-09-29 | [LOCAL] STEP 2 (WRITING) BEGINS: burst of 8 writer-A agents (Jon: 8-burst)
 
 ### 2026-09-27 | [LOCAL] T-301a | landmarks: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-301-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+RESULT: LANDED. FAIL  landmarks / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=7377w files=2 validator_errors=0
+        263811 tokens, 74 tool uses, 12.5 min (opus). Writer A: part1 (eras 1-5) + part2 (eras 6-7), validator 0, punct 0/0. 9 stories. 7 gaps: 6 PATCHed, 1 not found. 20 outline claims left out, OPEN none. Fixed: unsupported San Miguel 'Tlaxcalan workers'/'burned' dropped, institution-as-actor lines, actors named (Gardiner 1831, Clark Mills, Daniel's troops 1702).
 
 ### 2026-09-27 | [LOCAL] T-302a | energy: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: IN-FLIGHT
