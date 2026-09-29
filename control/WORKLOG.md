@@ -3309,3 +3309,4 @@ Back to ONE AT A TIME: writer B (eras 8-10) for these eight chapters next, then 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-301-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+NOTE (Jon): PAUSE after T-301b finishes. No new dispatches until Jon says.
