@@ -3277,3 +3277,8 @@ VERIFY: python tools/project_state.py --check food-farming --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-307-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+
+### 2026-09-27 | [LOCAL] T-308a | money: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-308-money.md
+VERIFY: python tools/project_state.py --check money --stage prose
