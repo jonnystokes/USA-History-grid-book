@@ -3240,3 +3240,5 @@ All pending TO PARK sections filed (4 passes). MISTAKE FOUND AND FIXED: T-251..T
 duplicate sections removed by script (dedupe_parks.py), verified, all outlines validate 0, the 7 written chapters
 still PASS prose. One 'environment' item routed to land-environment by hand.
 NEXT: STEP 2 (writing), per Jon: burst of 8.
+
+### 2026-09-29 | [LOCAL] STEP 2 (WRITING) BEGINS: burst of 8 writer-A agents (Jon: 8-burst)

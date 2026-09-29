@@ -11,15 +11,13 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**ONE AT A TIME.** 32 of 37 chapters pass research (25 researched + 7 written).
-Left in step 1:
-- **art** eras 6-10 (T-267b; 83 [VERIFY], 19 candidates there: split 6-7 and 8-10).
-- **music** eras 6-10 (T-268b; ~105 [VERIFY], 19 candidates; DOLLY PARTON in era 10; split 6-7 and 8-10).
-- **storytelling-evolution** (T-269a/b/c, full), **sports-play** (T-271a/b, full), **styles** (T-272a/b, full).
-Then STEP 2 (writing).
-
-**Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he denies
-it; no court outcome found. The agent kept it out of the outline and flagged it in the bank. Tell the book or leave it out?
+**STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
+**STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
+8-10 (part3). Chapters whose eras 1-7 slice passes ~25,000 words get writer A split (1-5, 6-7); the three giants
+(religion, education, rights-movements) get more writers.
+BURST OF 8 (Jon): writer A on the 8 smallest chapters: T-301a landmarks, T-302a energy, T-303a technology,
+T-304a home-family, T-305a transportation, T-306a food-farming, T-307a migration, T-308a money.
+**Open for Jon:** art era 10, Kehinde Wiley allegations (tell or leave out?).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)
 
