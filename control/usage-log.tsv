@@ -231,3 +231,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-308a	research	general-purpose/opus	[LOCAL] money: Writer A: part1 (3,400w) + part2 (~4,000w), validator 0, punct 0/0, self-review 	?	?	?	283086	110	972241	?	completed	FAIL  money / prose
 2026-09-27	T-307a	research	general-purpose/opus	[LOCAL] migration: Writer A: part1 + part2 (~8,900w), validator 0, punct 0/0. 10 stories (Onate wit	?	?	?	337738	195	1017948	?	completed	FAIL  migration / prose
 2026-09-27	T-302a	research	general-purpose/opus	[LOCAL] energy: Writer A: part1 (3,768w) + part2 (3,620w), validator 0, punct 0/0, self-review r	?	?	?	309629	117	1130811	?	completed	FAIL  energy / prose
+2026-09-27	T-303a	research	general-purpose/opus	[LOCAL] technology: Writer A: part1 + part2 (~8,240w), validator 0, punct 0/0. 13 stories (Valliere,	?	?	?	346812	167	1264083	?	completed	FAIL  technology / prose

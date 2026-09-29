@@ -3258,9 +3258,11 @@ RESULT: LANDED. FAIL  energy / prose. measured: stage=WRITING ms_eras=7/10 writt
         309629 tokens, 117 tool uses, 18.8 min (opus). Writer A: part1 (3,768w) + part2 (3,620w), validator 0, punct 0/0, self-review run. 7 stories. 7 gaps PATCHed, 2 not found, 14 outline claims left out, OPEN none. Fixed: 'no draft animals' (dogs and the travois), NPS page names no nations, Schuyler engine source conflict (McCormick followed), who electrocuted the animals (Smithsonian followed), Kemmler's crime stated and 'gruesome' dropped, laws and taxes as actors replaced by people. Agent hit the heredoc bug again despite the brief line.
 
 ### 2026-09-27 | [LOCAL] T-303a | technology: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-303-technology.md
 VERIFY: python tools/project_state.py --check technology --stage prose
+RESULT: LANDED. FAIL  technology / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=8916w files=2 validator_errors=0
+        346812 tokens, 167 tool uses, 21.1 min (opus). Writer A: part1 + part2 (~8,240w), validator 0, punct 0/0. 13 stories (Valliere, Jenks, Franklin, Whitney, Slater, Morse, McCormick/Deere with Jo Anderson, Bell, Nutt, Edison, Latimer, Woods, Tesla). 14 gaps PATCHed (3 partly confirmed and not written), 7 outline claim groups left out, OPEN none. Fixed: land named (Patapsco, Grand Detour, barbed wire), Jackson and Scott named for removal, museum 'violence' replaced by Northup's account, unsupported firsts removed, 4 quotes split at punctuation.
 
 ### 2026-09-27 | [LOCAL] T-304a | home-family: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: LANDED
