@@ -3314,3 +3314,4 @@ RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 wri
 NOTE (Jon): PAUSE after T-301b finishes. No new dispatches until Jon says.
 
 ### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-301b. landmarks PASSES prose. Nothing in flight.
+NOTE (Jon, 78%): run ONE agent (T-302b), then PAUSE.
