@@ -3247,3 +3247,8 @@ NEXT: STEP 2 (writing), per Jon: burst of 8.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-301-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+
+### 2026-09-27 | [LOCAL] T-302a | energy: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-302-energy.md
+VERIFY: python tools/project_state.py --check energy --stage prose
