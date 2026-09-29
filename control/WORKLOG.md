@@ -3304,3 +3304,8 @@ All eight landed: landmarks, energy, technology, home-family, transportation, fo
 Each: two part files, validator 0, punct 0/0, self-review run. Writer A cost 254k-347k tokens each (7-9k words).
 Parked items filed into banks (all validate 0; written chapters still PASS prose); one bank-hygiene item to AUDIT-QUEUE.
 Back to ONE AT A TIME: writer B (eras 8-10) for these eight chapters next, then writer A for the rest.
+
+### 2026-09-27 | [LOCAL] T-301b | landmarks: writer B: eras 8-10 prose (part3), completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-301-landmarks.md
+VERIFY: python tools/project_state.py --check landmarks --stage prose
