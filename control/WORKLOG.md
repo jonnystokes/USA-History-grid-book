@@ -3242,3 +3242,8 @@ still PASS prose. One 'environment' item routed to land-environment by hand.
 NEXT: STEP 2 (writing), per Jon: burst of 8.
 
 ### 2026-09-29 | [LOCAL] STEP 2 (WRITING) BEGINS: burst of 8 writer-A agents (Jon: 8-burst)
+
+### 2026-09-27 | [LOCAL] T-301a | landmarks: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-301-landmarks.md
+VERIFY: python tools/project_state.py --check landmarks --stage prose
