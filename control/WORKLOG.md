@@ -3219,9 +3219,11 @@ RESULT: LANDED. FAIL  sports-play / research. measured: stage=PARTIAL eras=10/10
         400921 tokens, 172 tool uses, 25.4 min (opus). Eras 8-9 + bank check. Stories: Jack Johnson (new), Babe Ruth, Jackie Robinson, Jesse Owens, Babe Didrikson Zaharias, Josh Gibson, Carl Stotz and the first Little League boys, Ali (boxing side), Billie Jean King, Tubby Johnston, Chris Ernst; Thorpe as a span. 1905 football deaths named, 1910 riots (11-26 killed), who forced out Black jockeys (NBER), segregated pools, Title IX numbers, Pong to the 1994 ratings board. 8 searched-not-found. Chapter FAIL until era 10. TO PARK 6.
 
 ### 2026-09-27 | [LOCAL] T-269d | storytelling-evolution: full research era 10, completes the chapter [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-269-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
+RESULT: DONE. PASS  storytelling-evolution / research. measured: stage=RESEARCHED eras=10/10 stories=29 (v29 c0 t0) verify_tags=0 bank=37729w outline=20050w manuscript=0w validator_errors=0
+        363056 tokens, 135 tool uses, 19.7 min (opus). Era 10, chapter COMPLETE (29 stories). Andy Serkis, Ashley Johnson, Alexandria Rubalcaba (background actor scanned on WandaVision), Ke Huy Quan. Streaming and theatres, Broadway's closure, #OscarsSoWhite and Academy counts, Weinstein (15 years, 23 Sep 2026), 2023 strikes and AI terms, 2024-25 games strike, AI performers, NO FAKES Act. Netflix first-series corrected. 3 searched-not-found. TO PARK 7 chapters.
 
 ### 2026-09-27 | [LOCAL] T-271d | sports-play: full research era 10, completes the chapter and step 1 [BURST] | model opus
 STATUS: IN-FLIGHT

@@ -1,13 +1,13 @@
 # CHECKPOINT T-269 | storytelling-evolution | full | T-269a: eras 1-5
 
-STATUS: T-269c landed (director verified: FAIL  storytelling-evolution / research)
+STATUS: T-269d landed (director verified: PASS  storytelling-evolution / research)
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/storytelling-evolution.md · research/research-storytelling-evolution.md · workspace/storytelling-evolution.md
 
-NOW:    T-269c finished 2026-09-28. Eras 08-09 done; era-10 agent (T-269d) next (see NEXT).
-NEXT:   T-269d (era-10 agent): research era 10 (2000-today), then the bank check for era 10, then the final chapter check. Eras 01-09 are DONE; do not redo them. Start from the SEED text of era 10 in the outline and the workspace [VERIFY] queue for 2000-today (10 [VERIFY] tags and 2 targets, andy-serkis and ashley-johnson, all in era 10). Perishable: every date in the digital-replica span (2023 WGA and SAG-AFTRA strikes, the 2024-25 games strike and its July 2025 ratification, the 2024 Tennessee ELVIS Act and California laws) must be current to today. Leads from T-269c: Jennifer Hale's 2016 NPR interview ($825 per four-hour session, no residuals) for the 2016-17 games strike; SAG-AFTRA's first interactive contract 1994 (search summary only; confirm or drop); Littlefeather's Academy apology (June 2022) sits in era 09 and should not be repeated. Tools: scratchpad wp.py pattern (MediaWiki API extracts) works; Wikipedia rate-limits (HTTP 429) after many calls, so retry with a pause. When you finish, set every era's progress flag and the hb-note Status line to the final state.
+NOW:    T-269d finished 2026-09-28. All ten eras researched; chapter research check PASS.
+NEXT:   Director: commit, then file the TO PARK (T-269d) items. The chapter is ready for the writing step. Perishable before writing: Weinstein's California resentencing (not yet scheduled on 2026-09-28), NO FAKES Act status, Tilly Norwood.
 
 ## BURST (Jon, 2026-09-27): burst (music, storytelling-evolution, sports-play, styles)
 
@@ -38,6 +38,9 @@ for those eras. T-269b does eras 6-10 later (it may be split further).
 | 9 | T-269c: research era 09 (1950-2000): outline + bank, clear [VERIFY], source or resolve every target | done | progress=researched; 5 stories verified (lucille-ball, lee-grant, lorraine-hansberry, sidney-poitier, NEW rita-moreno); 0 [VERIFY] in era 09 |
 | 10 | T-269c: bank check, eras 08-09 | done | BANK CHECK eras 08 and 09 in bank: 3 PATCH (McDaniel third seating account, Chicago 1919 count, FTP end/Thomas), 3 SEARCHED NOT FOUND (who suppressed Cody's 1913 film, blacklist total, date of McDaniel's maid line), hard-subject table, firsts, perishable, land (Tongva) |
 | 11 | T-269c: final (validator, research check, NEXT for T-269d, era 10) | done | see Log |
+| 12 | T-269d: research era 10 (2000-today): outline + bank, clear every [VERIFY], source or resolve both targets | done | progress=researched; 10 spans; 4 stories verified (andy-serkis, ashley-johnson, NEW alexandria-rubalcaba, NEW ke-huy-quan); 0 [VERIFY] |
+| 13 | T-269d: bank check, era 10 | done | BANK CHECK era 10: hard-subject table, firsts, perishable, land; 3 SEARCHED NOT FOUND (Johnson strike role, total scanned, use of Rubalcaba scan) |
+| 14 | T-269d: final chapter checks (progress flags all eras, hb-note Status, validator, research check) | done | all 10 eras progress=researched; hb-note Status RESEARCHED; validator 0 errors; research check PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -83,6 +86,17 @@ Full text and sources for every item are in `research/research-storytelling-evol
 - `big-business`, era 08: the eight majors (Big Five with theatre chains: MGM/Loew's, Paramount, Warner Bros., 20th Century-Fox, RKO; Little Three: Columbia, Universal, United Artists); 15,000 theatres by 1939; Paramount case decided May 4, 1948, filed July 20, 1938; De Havilland v. Warner Bros., December 8, 1944 (Wikipedia). Era 09: Desilu bought RKO's studios in late 1957 for about $6 million; Ball sold Desilu to Gulf+Western (agreed 1967, closed 1968) for $17 million (Wikipedia).
 - `marketplace`, era 09: Betamax in US stores November 1975; first US VHS recorder (RCA VBT200) August 23, 1977; Universal and Disney sued Sony in 1976; *Sony v. Universal* decided January 17, 1984, 5 to 4 (Wikipedia).
 - `art`, era 09: *A Raisin in the Sun*: Ethel Barrymore Theatre March 11, 1959, 530 performances, Lloyd Richards the first Black Broadway director, New York Drama Critics' Circle best play; Hansberry died January 12, 1965, of pancreatic cancer (Britannica, Wikipedia). No conflict with `art`'s March 11, 1959 date.
+
+## TO PARK (T-269d)
+
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `rights-movements`, era 10: Weinstein's court record for its #MeToo section, which names him but carries no outcome: NY conviction February 24, 2020 (23 years, March 11, 2020), overturned April 25, 2024 ("egregious errors"); LA conviction December 19, 2022 (16 years), sentence vacated June 2026 and resentencing ordered, California Supreme Court declined review September 23, 2026; retrial conviction June 11, 2025 (Miriam Haley), acquittal (Kaja Sokola), two mistrials on the Jessica Mann count and DA Alvin Bragg's June 25, 2026 decision not to retry; 15-year sentence September 23, 2026, Justice Curtis Farber (NBC News; Wikipedia; MyNewsLA). Also #OscarsSoWhite (April Reign, January 15, 2015) and the Academy's counts (92 percent white, 75 percent male in 2015; 75 percent white, 64 percent male after June 25, 2026 invitations; AP).
+- `work-workers`, era 10: the 2023 WGA strike (May 2 to September 27, 148 days) and SAG-AFTRA strike (July 14 to November 9), first joint strike since 1960; the 2024 to 2025 video game strike (July 26, 2024 to July 9, 2025, about 2,600 performers, 95.04 percent ratification); AI consent terms; 2026 contracts (WGA April 24, 2026, 90.38 percent; SAG-AFTRA June 4, 2026, 91.42 percent, 19.25 percent turnout); background actors' scans and pay ($187 a day, NPR August 2, 2023).
+- `government-politics` (or `technology`), era 10: Tennessee ELVIS Act signed March 21, 2024; California AB 2602 and AB 1836 signed September 17, 2024; NO FAKES Act unpassed as of September 2026.
+- `native-nations`, era 10: *Reservation Dogs* (August 9, 2021 to September 27, 2023, all-Native writers and directors, Muscogee Nation setting, Okmulgee); *Killers of the Flower Moon* Osage consultation (about 200 Osage people, at least 40 Osage actors, Christopher Côté language teacher and his criticism, Brandy Lemon liaison, Chief Geoffrey Standing Bear); Lily Gladstone firsts (January 2024). Their outline line 225 already names the film.
+- `immigration`, era 10: Ke Huy Quan, refugee family from Saigon via Hong Kong camp, admitted 1979; "My journey started on a boat" (NBC News, March 15, 2023).
+- `health`, era 10: Broadway closure by Governor Cuomo's order at 5 p.m. March 12, 2020, 41 theatres dark 18 months, *Pass Over* first back August 4, 2021; theatres' lowest weekend since 1998 (March 13 to 15, 2020).
+- `big-business` / `marketplace`, era 10: box office $8.87 billion 2025 vs $11.4 billion 2019, 780 million tickets (Comscore); AMC and Universal 17-day window July 28, 2020; Netflix streaming January 16, 2007, 325 million members 2026.
 
 ## Sources in hand
 
@@ -135,3 +149,8 @@ Full text and sources for every item are in `research/research-storytelling-evol
   - `node tools/validate_grid.js outlines/storytelling-evolution.md`: 1 chapters, 27 stories, 0 errors.
   - All 2 remaining targets and 10 [VERIFY] tags are in era 10. Eras 08-09: 0 em dashes, 0 semicolons, 0 [VERIFY] in outline prose.
 - T-269c COMPLETE.
+- 2026-09-28 T-269d era 10 2000-today DONE: outline era 10 rewritten (full, researched), bank ERA 10 and BANK CHECK era 10. Sources: see bank "Sources used (era 10, T-269d)". Corrections to the seed: Netflix's first exclusive series was *Lilyhammer* (2012), first commissioned *House of Cards* (2013); *The Last of Us* voice and body were mostly but not wholly captured together (some audio later in studio); the games contract's "reports" supported only as "disclosure"; the scanned background actors are now named (Rubalcaba, Safier, NPR). Removed from the seed: "This chapter is current through 2026; say so" (the book never mentions itself; dates carry the currency instead); "most viewers" (no count). Ashley Johnson's own strike role: SEARCHED, NOT FOUND, dropped from her story. Added: #OscarsSoWhite and Academy counts, Weinstein through September 23, 2026, the 2026 union contracts, Vader in *Fortnite*, Tilly Norwood, Sora 2, *Reservation Dogs*, *Killers of the Flower Moon*, USC Annenberg 2024 counts, *Everything Everywhere All at Once*. NEW stories alexandria-rubalcaba (ordinary) and ke-huy-quan. Paywalled/blocked: sagaftra.org, press.oscars.org, Variety, Deadline, THR, Axios, CNBC (facts from them tagged search summary only).
+  - `node tools/validate_grid.js outlines/storytelling-evolution.md`: 1 chapters, 29 stories, 0 errors.
+  - All ten eras progress="researched" (checked). hb-note Status set to RESEARCHED. Era 10: 0 em dashes, 0 semicolons.
+  - `python tools/project_state.py --check storytelling-evolution --stage research`: PASS | measured: stage=RESEARCHED eras=10/10 stories=29 (v29 c0 t0) verify_tags=0 bank=37729w outline=20050w manuscript=0w validator_errors=0 | eras with no story: before-1500 (by design).
+- T-269d COMPLETE. Chapter research COMPLETE.
