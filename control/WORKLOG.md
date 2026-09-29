@@ -3269,9 +3269,11 @@ CHECKPOINT: control/checkpoints/T-305-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
 
 ### 2026-09-27 | [LOCAL] T-306a | food-farming: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-306-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
+RESULT: LANDED. FAIL  food-farming / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=7 (verified 7) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=6669w files=2 validator_errors=0
+        254090 tokens, 90 tool uses, 11.1 min (opus). Writer A: part1 (4,680w, eras 1-5) + part2 (2,638w, eras 6-7), validator 0, punct 0/0, self-review run. 7 stories. 6 gaps PATCHed, 0 not found, 8 outline claims left out, OPEN none. Fixed: Oblinger quote was Uriah's, two indigo makers, personification. Prose FAIL expected until writer B.
 
 ### 2026-09-27 | [LOCAL] T-307a | migration: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: IN-FLIGHT

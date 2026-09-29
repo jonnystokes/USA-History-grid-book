@@ -224,3 +224,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-271c	research	general-purpose/opus	[LOCAL] sports-play: Eras 8-9 + bank check. Stories: Jack Johnson (new), Babe Ruth, Jackie Robinson, 	?	?	?	400921	172	1526696	?	completed	FAIL  sports-play / research
 2026-09-27	T-269d	research	general-purpose/opus	[LOCAL] storytelling-evolution: Era 10, chapter COMPLETE (29 stories). Andy Serkis, Ashley Johnson, Alexandria R	?	?	?	363056	135	1184724	?	completed	PASS  storytelling-evolution / research
 2026-09-27	T-271d	research	general-purpose/opus	[LOCAL] sports-play: Era 10, chapter COMPLETE. Stories: Kyle 'Bugha' Giersdorf, Rachael Denhollander.	?	?	?	403768	174	1372727	?	completed	PASS  sports-play / research
+2026-09-27	T-306a	research	general-purpose/opus	[LOCAL] food-farming: Writer A: part1 (4,680w, eras 1-5) + part2 (2,638w, eras 6-7), validator 0, punc	?	?	?	254090	90	663632	?	completed	FAIL  food-farming / prose
