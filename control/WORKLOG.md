@@ -3252,3 +3252,8 @@ VERIFY: python tools/project_state.py --check landmarks --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-302-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+
+### 2026-09-27 | [LOCAL] T-303a | technology: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-303-technology.md
+VERIFY: python tools/project_state.py --check technology --stage prose
