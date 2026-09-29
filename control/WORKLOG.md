@@ -3226,6 +3226,8 @@ RESULT: DONE. PASS  storytelling-evolution / research. measured: stage=RESEARCHE
         363056 tokens, 135 tool uses, 19.7 min (opus). Era 10, chapter COMPLETE (29 stories). Andy Serkis, Ashley Johnson, Alexandria Rubalcaba (background actor scanned on WandaVision), Ke Huy Quan. Streaming and theatres, Broadway's closure, #OscarsSoWhite and Academy counts, Weinstein (15 years, 23 Sep 2026), 2023 strikes and AI terms, 2024-25 games strike, AI performers, NO FAKES Act. Netflix first-series corrected. 3 searched-not-found. TO PARK 7 chapters.
 
 ### 2026-09-27 | [LOCAL] T-271d | sports-play: full research era 10, completes the chapter and step 1 [BURST] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
+RESULT: DONE. PASS  sports-play / research. measured: stage=RESEARCHED eras=10/10 stories=19 (v19 c0 t0) verify_tags=0 bank=37727w outline=18481w manuscript=0w validator_errors=0
+        403768 tokens, 174 tool uses, 22.9 min (opus). Era 10, chapter COMPLETE. Stories: Kyle 'Bugha' Giersdorf, Rachael Denhollander. Screen time and ADHD only via named studies, phone bans by state, esports, concussions and the NFL settlement, Nassar (FBI agent W. Jay Abbott named from the DOJ IG report), NIL and the House settlement, transgender athlete laws, 2026 World Cup. Florida 'first' phone law removed. 3 searched-not-found. TO PARK 8 chapters.

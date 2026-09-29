@@ -1916,6 +1916,545 @@ League Hall of Excellence, 2024 (Wikipedia). None needs a change as of 2026-09-2
 Table 2); Hofferth 1997-2003 time-diary changes (PDF in hand); Census self-care series after 1995; Knoester and Bjork on
 club teams; the parked 2026 Supreme Court ruling (bank, "Parked from rights-movements").
 
+## Era 10: 2000 to Today (T-271d, 2026-09-28)
+
+Data cutoff for this era: 28 September 2026. Every figure below carries its own date. Web searches ran out partway
+through this task (session limit), so most pages were opened directly with curl or through the Wikipedia and Europe PMC
+APIs. Where a figure rests only on a search-result summary it is tagged.
+
+### Sources for this era
+- Pew Research Center, "Teens, Social Media and Technology 2022" (10 Aug 2022; survey 14 Apr to 4 May 2022, 1,316 teens
+  13-17), opened.
+- Pew Research Center, "Teens, Social Media and Technology 2024" (12 Dec 2024; survey 18 Sep to 10 Oct 2024, 1,391 teens),
+  read through WebFetch.
+- Pew Research Center, "Teens, Social Media and AI Chatbots 2025" (9 Dec 2025; survey 25 Sep to 9 Oct 2025, 1,458 teens),
+  opened.
+- Common Sense Media, *The Common Sense Census: Media Use by Tweens and Teens, 2021* (Victoria Rideout and others), PDF
+  opened. Survey of 1,306 young people aged 8 to 18, 29 Sep to 25 Oct 2021, Ipsos KnowledgePanel.
+- US Surgeon General, *Social Media and Youth Mental Health: The U.S. Surgeon General's Advisory* (2023), PDF opened through
+  the Wayback Machine (hhs.gov returns 403 to scripts). HHS press release dated 23 May 2023 (URL path).
+- Education Week, "Which States Ban or Restrict Cellphones in Schools?" (Prothero, Langreo, Klein; first published 28 June
+  2024, updated 28 July 2026), opened.
+- Newsweek, "Map Shows US States With School Phone Bans In 2026" (published 9 Jan 2026, citing Ballotpedia), opened.
+- Wikipedia, "Mobile phone use in schools" (US and state sections), opened through the API.
+- CDC, "Data and Statistics on ADHD" (cdc.gov/adhd/data, Wayback copy, 2026), opened.
+- Danielson ML, Claussen AH, Bitsko RH and others, "ADHD Prevalence Among U.S. Children and Adolescents in 2022", *J Clin
+  Child Adolesc Psychol* 2024;53(3):343-360 (PMC11334226), full text opened.
+- Visser SN, Danielson ML, Bitsko RH and others, "Trends in the Parent-report of Health Care Provider-Diagnosed and
+  Medicated ADHD: United States, 2003-2011", *J Am Acad Child Adolesc Psychiatry* 2014 (PMC4473855), opened.
+- Wikipedia, "DSM-5" (the 2013 criteria change), opened.
+- Ra CK, Cho J, Stone MD, ... Leventhal AM, "Association of Digital Media Use With Subsequent Symptoms of ADHD Among
+  Adolescents", *JAMA* 2018;320(3):255-263 (PMC6553065), abstract opened.
+- Orben A and Przybylski AK, "The association between adolescent well-being and digital technology use", *Nature Human
+  Behaviour* 2019 (doi 10.1038/s41562-018-0506-1), abstract opened.
+- Candice L. Odgers, "The great rewiring: is social media really behind an epidemic of teenage mental illness?", review of
+  Jonathan Haidt's *The Anxious Generation*, *Nature*, 29 March 2024, opened.
+
+### Phones and social media: who has one and how much they use it
+- **Smartphones:** 73 percent of US teens aged 13 to 17 had or could use a smartphone in 2014-15, and 95 percent in 2022
+  (Pew 2022: "a 22 percentage point rise"). Older teens more than younger: 98 percent of 15-to-17-year-olds, 91 percent of
+  13-to-14-year-olds (Pew 2022). 95 percent again in the 2024 survey (Pew 2024). Same 2022 survey: 90 percent had a desktop
+  or laptop, 80 percent a gaming console. Boys were 21 points more likely than girls to have a console. Teens in homes
+  earning $75,000 or more were 12 points more likely to have a console than teens in homes under $30,000 (Pew 2022).
+- **Online "almost constantly":** 24 percent of teens in 2014-15, 46 percent in 2022 (Pew 2022), 48 percent in 2024 (Pew
+  2024 as read by WebFetch), 40 percent in 2025 ("a slight dip from last year", Pew 2025). 97 percent used the internet
+  daily in 2022 and in 2025. In 2025, 55 percent of Black and 52 percent of Hispanic teens said "almost constantly",
+  against 27 percent of white teens; teens in homes under $75,000 were more likely to say it (Pew 2025).
+- **Which sites (2025):** YouTube about 90 percent of teens, TikTok and Instagram about 60 percent each, Snapchat 55
+  percent. Facebook about 3 in 10, down from 71 percent in 2014-15. X 16 percent, down from 33 percent in 2014-15. About 1
+  in 5 teens were on TikTok or YouTube "almost constantly". 64 percent used AI chatbots, about 3 in 10 daily (Pew 2025).
+- **Daily screen hours (Common Sense 2021):** entertainment screen media (television, online video, video games, social
+  media and the like, not schoolwork) averaged 5 hours 33 minutes a day for 8-to-12-year-olds and 8 hours 39 minutes for
+  13-to-18-year-olds in 2021. In 2019 the figures were 4:44 and 7:22. From 2015 to 2019 tweens' use rose by 8 minutes a day
+  and teens' by 42 minutes. From 2019 to 2021 it rose 49 minutes for tweens and 1 hour 17 minutes for teens, 17 percent
+  for both. The report says it "cannot determine" how much COVID caused. The report warns these totals count time on
+  several screens at once, so they are not hours of the day given entirely to screens (report text at Figure 1).
+  Search summary: teen boys averaged 56 minutes a day of video games and girls 7 minutes; girls spent 1:32 on social
+  media and boys 52 minutes (unconfirmed: search summary only). No newer Common Sense census for ages 8 to 18 was found; the
+  2025 census covers ages 0 to 8 only (search result title).
+
+### The Surgeon General's advisory, 23 May 2023
+- Issued by the US Surgeon General, Vivek Murthy (Wikipedia, "Vivek Murthy": "In 2023, Murthy expressed concern about the
+  impact of social media on young users' mental health"; his term ended 20 January 2025). HHS release dated 23 May 2023
+  (URL path); the PDF title page reads "The U.S. Surgeon General's Advisory 2023". The PDF text does not print his name. An advisory is a public statement by the nation's top public
+  health doctor calling attention to a health problem.
+- Words, p. 4: "Up to 95% of youth ages 13-17 report using a social media platform, with more than a third saying they use
+  social media 'almost constantly.'" "Although age 13 is commonly the required minimum age used by social media platforms
+  in the U.S., nearly 40% of children ages 8-12 use social media."
+- p. 4: "At this time, we do not yet have enough evidence to determine if social media is sufficiently safe for children
+  and adolescents." p. 11: "Our children have become unknowing participants in a decades-long experiment."
+- The evidence it cites, p. 6-7: a study of 6,595 US adolescents aged 12 to 15 found that those who spent more than 3
+  hours a day on social media "faced double the risk" of poor mental health outcomes including symptoms of depression and
+  anxiety. "As of 2021, 8th and 10th graders now spend an average of 3.5 hours per day on social media." A college study
+  (the staggered roll-out of a social media platform across colleges) found depression up 9 percent and anxiety up 12
+  percent over baseline.
+- What it asked: policymakers to set age-appropriate safety standards and limit access; technology companies to run and
+  share "transparent and independent assessments"; families to make a family media plan (p. 15-17, headings read).
+
+### Phones banned in school, 2023 to 2026
+- **First statewide law:** Florida, House Bill 379, 2023, banned student phone use during instructional time and required
+  teachers to set a place for phones during class; it also blocked social media on school Wi-Fi (Wikipedia, "Mobile phone
+  use in schools"). Earlier city rule: New York City's schools banned phones in 2005; Mayor Bill de Blasio lifted the ban in
+  March 2015 (Wikipedia).
+- Indiana, Senate Bill 185, 2024, effective July 2024 (instructional time). Ohio, House Bill 250, effective August 2024.
+  Louisiana, school day, from 2024-25. Virginia, Governor Glenn Youngkin's Executive Order 33, July 2024. South Carolina,
+  from January 2025. Los Angeles Unified school board voted 5 to 2 for an all-day ban from 2024-25. Oregon, Governor Tina
+  Kotek's executive order of July 2025 required a ban by 31 October 2025; 99 percent of districts had one by February 2026
+  (all Wikipedia).
+- **Counts, with whose count and when:** Ballotpedia, as reported by Newsweek on 9 January 2026: 26 states with full-day
+  ("bell-to-bell", from the first bell to the last) bans. Education Week tally, updated 28 July 2026: "At least 39 states
+  and the District of Columbia require school districts to ban or restrict students' use of cellphones in schools."
+  Search summaries also report NCSL counting 42 states plus DC and Puerto Rico with laws on student phone use as of 15 July
+  2026 (unconfirmed: search summary only). The counts differ because the trackers count different kinds of law (full-day
+  ban, class-time ban, or a rule that each district must write a policy).
+- Public opinion: Pew, 2025, 75 percent of US adults supported banning phones in middle and high school classes, up from 68
+  percent the previous fall (Newsweek, 9 Jan 2026, citing Pew).
+- A 2024 National Education Association poll: 90 percent of teachers supported banning phones during class time (Wikipedia,
+  "Mobile phone use in schools") (single secondary source).
+
+### ADHD: the numbers, and what changed in how it is diagnosed
+- ADHD (attention-deficit/hyperactivity disorder): the diagnostic criteria require symptoms of inattention and/or
+  hyperactivity-impulsivity, "functional impairment in multiple settings", and onset by age 12 (Danielson 2024, citing the
+  American Psychiatric Association 2013).
+- **Parent-reported diagnosis, National Survey of Children's Health (NSCH):** ever diagnosed, ages 4 to 17: 7.8 percent in
+  2003 (derived: Visser 2014 reports a 42 percent rise to 11 percent in 2011; Visser's text gives 2007 as 9.5 percent and a
+  22 percent rise 2003-2007), 9.5 percent in 2007, 11 percent (6.4 million) in 2011 (Visser 2014). Ages 3 to 17: 9.9
+  percent (6.1 million) in 2016, 11.4 percent (7.1 million) ever diagnosed and 10.5 percent (6.5 million) current in 2022
+  (Danielson 2024). CDC data page, 2026: "An estimated 7 million (11.7%) U.S. children aged 3-17 years have a current ADHD
+  diagnosis, according to data collected in 2024." Boys 13 percent, girls 7 percent (2022-2023).
+- **Caveats in the researchers' own words:** Visser 2014: the rise "could indicate that the actual prevalence ... has
+  increased", but the data "prohibits drawing firm conclusions"; it "could also reflect better detection ... due to
+  increased health education and awareness efforts". Danielson 2024: the 2022 rise "could reflect a generally increasing
+  awareness of and pursuit of care for ADHD" and/or poor mental health during the COVID-19 pandemic; the survey's weighting
+  changed in 2022, "potentially limiting" direct comparison with earlier years; response rate 39.1 percent.
+- **Criteria changed:** the American Psychiatric Association's DSM-5 (2013) moved the age by which symptoms must start from
+  7 to 12 and lowered the number of symptoms needed for a diagnosis in adolescents and adults (Wikipedia, "DSM-5"). The
+  American Academy of Pediatrics' 2011 clinical guideline (cited in Visser 2014, ref. 10) covered children and adolescents;
+  its age range (4 to 18) was not confirmed from an opened page.
+- Medication: in 2022, 53.6 percent of children with current ADHD got ADHD medicine, down from 62.0 percent in 2016;
+  30.1 percent (about 1.9 million) got neither medicine nor behavioral treatment; stimulant shortages reported in 2022-2023
+  (Danielson 2024).
+
+### Screens and attention and mood: the named studies and the disagreement
+- **Ra and others, *JAMA*, July 2018 (Chaelin K. Ra, Adam M. Leventhal and others, University of Southern California; names
+  and affiliation confirmed on the PMC full-text page):** 2,587 students aged 15
+  and 16 at 10 Los Angeles County high schools, without significant ADHD symptoms at the start, followed from September
+  2014 to December 2016. Each extra digital media activity used "many times a day" raised the odds of later ADHD symptoms by
+  about 10 percent (odds ratio 1.10 after adjustment). Students with no high-frequency use: 4.6 percent had ADHD symptoms
+  over the follow-ups; with 7 such activities, 9.5 percent; with all 14, 10.5 percent. The authors: "a statistically
+  significant but modest association"; "Further research is needed to determine whether this association is causal."
+  Symptoms were self-rated, not diagnosed.
+- **Orben and Przybylski, *Nature Human Behaviour*, January 2019 (Oxford):** three large surveys, 355,358 adolescents in
+  total (US and UK). The link between digital technology use and well-being was "negative but small, explaining at most
+  0.4% of the variation in well-being", and "too small to warrant policy change".
+- **Jonathan Haidt, *The Anxious Generation* (March 2024):** a social psychologist at New York University. He writes that
+  technology companies, "by displacing physical play and in-person socializing", have "rewired childhood" (quoted in
+  Odgers's review).
+- **Candice Odgers, review in *Nature*, 29 March 2024:** a psychologist at the University of California, Irvine. "The
+  book's repeated suggestion that digital technologies are rewiring our children's brains and causing an epidemic of mental
+  illness is not supported by science." Researchers' searches "have produced a mix of no, small and mixed associations.
+  Most data are correlative." She agreed that "considerable reforms to these platforms are required".
+- **Handling rule for the writer (DECISIONS):** state what each study measured, how many children, and the size of the
+  effect. Never state or imply that screens cause ADHD. No opened source says they do. Ra 2018 states the association is not
+  shown to be causal.
+
+### Concussions and CTE in football
+Sources: Wikipedia "Chronic traumatic encephalopathy", "Concussions in American football", "Mike Webster", "Seeger
+Weiss" (all opened 2026-09-28); Boston University CTE Center, "Researchers Find CTE in 345 of 376 Former NFL Players
+Studied" (Chobanian and Avedisian School of Medicine, February 2023, before Super Bowl LVII), opened.
+- **Definitions for the writer:** a concussion is a brain injury from a hard blow to the head (era 07 already defines it).
+  CTE (chronic traumatic encephalopathy) is a brain disease linked to repeated blows to the head. Its symptoms can include
+  problems with behavior, mood and thinking, it "often gets worse over time and can result in dementia" (loss of memory
+  and of the ability to think clearly), and as of 2026 it can be diagnosed only by examining the brain after death
+  (Wikipedia, CTE). BU: CTE "is characterized by misfolded tau protein", a protein that clumps in the brain.
+- **Mike Webster:** Pittsburgh Steelers center, 245 NFL games at center over 17 seasons (1974-1990), four Super Bowl wins.
+  After he retired he had amnesia, dementia, depression and pain. He lived for periods in his pickup truck or in train
+  stations, and used an electroshock weapon on himself to fall asleep. He died of a heart attack on 24 September 2002, aged
+  50. His son Garrett, a teenager, had moved to Pittsburgh to care for him (Wikipedia, "Mike Webster").
+- **Bennet Omalu**, a forensic pathologist in Pittsburgh (a doctor who examines bodies to find the cause of death), examined
+  Webster's brain in 2002 and found protein tangles unlike Alzheimer's disease. With colleagues at the University of
+  Pittsburgh he published "Chronic Traumatic Encephalopathy in a National Football League Player" in the journal
+  *Neurosurgery* in July 2005, and a second case (Terry Long) in 2006 (Wikipedia, CTE and "Concussions"). Members of the
+  NFL's Mild Traumatic Brain Injury Committee wrote in May 2006 asking that the paper be retracted (Wikipedia,
+  "Concussions in American football"). CBS New York, 17 Dec 2015: researchers said Omalu "exaggerated his role" (reference
+  title in the CTE article only; not opened). Film: *Concussion* (2015), Will Smith as Omalu, David Morse as Webster
+  (Wikipedia, "Mike Webster").
+- **The league's committee:** NFL Commissioner Paul Tagliabue created the Mild Traumatic Brain Injury Committee in 1994 and
+  named Elliot Pellman, a rheumatologist (a doctor for joints and muscles, not the brain), to chair it. From 2003 its papers
+  said there were no long-term harms from concussions in NFL players, and in 2004 a committee article said "NFL players
+  have evolved to a state where their brains are less susceptible to injury." Co-chair Ira Casson denied any link on
+  television (nicknamed "Dr. No"). In October 2009 Commissioner Roger Goodell was questioned before Congress, and in
+  December 2009 he told the 32 teams that a player with concussion signs could not return to play that day (Wikipedia,
+  "Concussions in American football"). The NFL's own Retirement Board had paid Webster's family $1.8 million in 2005 after
+  finding football caused his brain injuries (Fainaru brothers, quoted in the same article).
+- Jeff Miller, the NFL's senior vice-president for health and safety, told a roundtable of the House Energy and Commerce
+  Committee that "there is a link between football-related head trauma and chronic traumatic encephalopathy" (Wikipedia,
+  "Concussions in American football"; the opened page gives no date. Search memory says March 2016: not confirmed, do not
+  use a date).
+- **The lawsuits and the settlement:** April 2011, the first federal suit (Ray Easterling, Jim McMahon and five others). By
+  August 2012, 3,402 players were suing; by April 2013 more than 4,500. On 29 August 2013 lawyers agreed a proposed $765
+  million settlement for more than 18,000 former players, with $10 million for research; the settlement "should not be
+  interpreted as a statement of legal liability on the part of the NFL" (Wikipedia, "Concussions"). In April 2015 Judge
+  Anita Brody gave final approval to an uncapped fund covering more than 20,000 retired players for 65 years, estimated at
+  more than $1 billion (Wikipedia, "Seeger Weiss", citing PBS Frontline). A federal appeals court upheld it on 18 April 2016
+  (NYT reference title in the same article). The NFL has paid "nearly $1 billion" (Wikipedia, "Concussions", undated
+  sentence). Families of players who died before 1 January 2006 are not covered, so Webster's family got nothing from it.
+- **Race-norming:** the dementia tests used to judge claims assumed Black players had lower baseline thinking scores than
+  other players, which made dementia harder for Black players to prove. After a lawsuit, in June 2021 NFL officials said
+  they would stop the practice (Wikipedia, "Concussions").
+- **What the brain studies found:** BU CTE Center, February 2023: CTE in 345 of 376 former NFL players studied (91.7
+  percent). BU's own caution: the figure "should not be interpreted to suggest that 91.7 percent of all current and former
+  NFL players have CTE, as brain bank samples are subject to selection biases" (families who suspected illness donated the
+  brains). In a 2018 BU study of 164 brains from the general Framingham Heart Study, 1 had CTE (0.6 percent), a former
+  college football player. A 2017 study: CTE in 21 percent of high-school players' brains studied, 91 percent of college,
+  99 percent of NFL (Wikipedia, CTE). A 2023 BU study found CTE in more than 40 percent of athletes exposed to repeated head
+  hits who died before 30 (Wikipedia, CTE, citing ESPN and BU, 30 Aug 2023).
+- **Children:** Pop Warner youth football enrollment fell 9.5 percent from 2010 to 2012 (Wikipedia, "Concussions", citing
+  Robert Boland of NYU). About 23,000 nonfatal football brain injuries a year sent people to emergency rooms, 90 percent of
+  them aged 5 to 18 (same article, undated).
+
+### Larry Nassar and USA Gymnastics
+Sources: Wikipedia "Larry Nassar", "USA Gymnastics sex abuse scandal", "Rachael Denhollander", "Athlete A" (opened
+2026-09-28). The Wikipedia articles cite the US Department of Justice (7 Dec 2017), the *Indianapolis Star*, CNN and the
+*Lansing State Journal*.
+- **Who he was:** Larry Nassar, an osteopathic physician (a kind of medical doctor), worked with the USA Gymnastics (USAG)
+  national team from 1986 and was its national medical coordinator from 1996 to 2014. He was a team physician at Michigan
+  State University (MSU) from 1997 to 2016.
+- **What he did, stated plainly for the writer:** during appointments he called treatment, he put his ungloved finger into
+  girls' vaginas and told them it was "pressure point" therapy for pain. Sometimes a parent was in the room and did not see
+  what he was doing (Wikipedia, "Larry Nassar", from victim statements). More than 265 women and girls were identified by
+  January 2018 (Judge's statement, 31 Jan 2018); the 2021 settlement confirmed more than 500 (Wikipedia, USAG scandal). Some
+  were as young as 6 (the 2016 state charges). Victims named in the record include Rachael Denhollander, Maggie Nichols,
+  McKayla Maroney (from age 13, 2008), Aly Raisman (at 15), Simone Biles, Gabby Douglas, Jordyn Wieber.
+- **Who was told, and when:** athletes say they complained to MSU employees as early as 1997. MSU gymnastics coach Kathie
+  Klages was reportedly told in 1997 and was accused of pressuring gymnasts to stay silent (court documents, per Wikipedia).
+  MSU officials investigated a complaint in 2014 under Title IX, found no violation, and let him keep treating patients with
+  restrictions set by his dean, William Strampel; no one monitored them. Maggie Nichols's coach Sarah Jantzi reported him to
+  USAG officials on 17 June 2015. In July 2015 USAG president Steve Penny told Scott Blackmun, head of the US Olympic
+  Committee (USOC), that an investigation had found possible criminal behavior (*Wall Street Journal*, per Wikipedia).
+  USAG officials said in February 2017 that they learned of an athlete's concern in June 2015, investigated, and
+  the next month fired Nassar and reported him to the FBI (Wikipedia, USAG scandal). FBI agents did not act on it. The Justice Department's inspector general, Michael Horowitz, reported in
+  July 2021 that at least 70 more athletes were abused between the reports to the FBI and Nassar's arrest; victims put the
+  number at 120. USAG gave no public reason until September 2016, when it cited "athlete concerns".
+- **How it came out:** the *Indianapolis Star* reported in September 2016 that USAG leaders let "predatory coaches" move
+  from gym to gym. Rachael Denhollander reported Nassar to MSU police in August 2016, filed a Title IX complaint, and on 20
+  September 2016 the *Star* reported her accusation. MSU fired him on 20 September 2016.
+- **Convictions:** 11 July 2017, pleaded guilty in federal court to child pornography and destroying evidence; Judge Janet
+  Neff sentenced him to 60 years on 7 December 2017. 22 and 29 November 2017, pleaded guilty to ten counts of first-degree
+  criminal sexual conduct with minors in two Michigan counties. 24 January 2018, Judge Rosemarie Aquilina (Ingham County)
+  sentenced him to 40 to 175 years after letting more than 150 women speak; 5 February 2018, Judge Janice Cunningham
+  (Eaton County), 40 to 125 years. More than 200 women gave statements over nine days. The sentences run one after another,
+  so he will die in prison. He was stabbed by another prisoner in July 2023 and survived.
+- **Others charged:** Strampel, convicted June 2019 of willful neglect of duty and misconduct in office, one year in jail.
+  Klages, convicted 2020 of lying to police, 90 days in jail; the conviction was overturned in December 2021. Penny, arrested
+  October 2018 for removing documents from the Karolyi Ranch training center; charges dropped April 2022. John Geddert, 2012
+  Olympic coach who employed Nassar at his Twistars gym, charged 25 Feb 2021 with 20 counts of human trafficking and forced
+  labor, sexual assault, racketeering and lying to police. He killed himself shortly after the charges were announced.
+- **Resignations:** Penny (March 2017), the whole USAG board, MSU president Lou Anna Simon and athletic director Mark Hollis
+  (January 2018), USOC chief Scott Blackmun (28 Feb 2018).
+- **Settlements:** MSU $500 million to 332 victims (2018). USOC officials moved in November 2018 to decertify USAG, and USAG
+  filed for bankruptcy. USAG and the USOPC $380 million (reported 13 December 2021), "the first time that the USOPC admitted
+  direct responsibility". Together nearly $900 million. The Justice Department $138.7 million to victims who sued the FBI
+  (2024). McKayla Maroney's earlier $1.25 million settlement with USAG had required her to sign a non-disclosure agreement.
+- **15 September 2021:** Maroney, Biles, Nichols and Raisman testified to the Senate about the FBI. Raisman: it "was like
+  serving innocent children up to a pedophile on a silver platter." FBI Director Christopher Wray: "deeply and profoundly
+  sorry."
+- **Rachael Denhollander (story):** born 8 December 1984, Kalamazoo, Michigan; homeschooled; club gymnast. Nassar abused her
+  on five visits in 2000, when she was 15, while treating her for lower back pain (her May 2017 court statement). She became
+  a lawyer. She was the first woman to accuse him publicly. At least seven other girls and women had told someone about him
+  over twenty years before she did. She spoke last at both sentencing hearings: "How much is a little girl worth?" and
+  "everything is what these survivors are worth." Judge Aquilina called her "the bravest person I have ever had in my
+  courtroom." *Time* 100 (2018); book *What Is a Girl Worth?* (2019). Film: *Athlete A* (2020, Netflix documentary, directed
+  by Bonni Cohen and Jon Shenk, about the *Star* reporters and the scandal; Denhollander appears in its account) (Wikipedia,
+  "Athlete A").
+- **Simone Biles** (Wikipedia, "Simone Biles", opened): born 14 March 1997, Columbus, Ohio; 11 Olympic and 30 world
+  championship medals, the most of any gymnast. Said in January 2018 that Nassar had abused her. At the Tokyo Olympics
+  (held 2021) she stopped in the team final after she twisted one and a half times in the air instead of the two and a half
+  she planned on her vault (other gymnasts described their own struggles with "the twisties"), citing mental health and saying she had "simply got so lost [her] safety was at risk as well as a team medal"; she came back to
+  win bronze on the beam. Presidential Medal of Freedom 2022. All-around gold again in 2024.
+- Clinical words for the writer: "sexual abuse" and "sexual assault" must be stated as the act above, in the plain words the
+  record uses, once, without dwelling (policy §3b).
+
+### College athletes paid: NIL (2021) and the House settlement (2025)
+Sources: Wikipedia "Name, image and likeness", "NCAA v. Alston", "House v. NCAA" (opened); WilmerHale client alert, 13
+June 2025, "Final Approval for House v. NCAA Settlement Brings New Era, More Litigation" (opened).
+- NIL means a player's name, image and likeness: the right to be paid for ads, sponsorships and appearances that use who
+  they are. Before 2021 NCAA rules let college athletes receive only scholarships and education costs.
+- September 2019: California Governor Gavin Newsom signed Senate Bill 206, the Fair Pay to Play Act (by state senators Nancy
+  Skinner and Steven Bradford), the first state law of its kind.
+- 21 June 2021: *NCAA v. Alston*, 9 to 0. Justice Neil Gorsuch wrote that NCAA limits on education-related benefits broke
+  antitrust law (law against businesses agreeing to hold down prices or pay). Justice Brett Kavanaugh added that antitrust law
+  "should not be a cover for exploitation of the student athletes."
+- 30 June 2021: NCAA leaders adopted an interim NIL policy; athletes could be paid for NIL from 1 July 2021 (ncaa.org
+  reference in the Wikipedia NIL article).
+- **House v. NCAA:** filed 2020 by Grant House (Arizona State swimmer) and Sedona Prince (basketball, Oregon then TCU)
+  against the NCAA and five conferences. NCAA leaders voted to settle on 23 May 2024. Judge Claudia Wilken gave final
+  approval on 6 June 2025. Terms (WilmerHale): about $2.8 billion over ten years to athletes who competed 2016-2024 without
+  NIL pay; schools may pay athletes directly, about $20.5 million per school in 2025-26, rising 4 percent a year; roster
+  limits; a new College Sports Commission to enforce the rules. First payments were set for 1 July 2025. On 11 June 2025
+  eight women athletes appealed, arguing under Title IX that the back pay went mostly to men's football and basketball
+  players.
+
+### Transgender athletes: laws and rulings to 2026
+Sources: Wikipedia "Transgender people in sports" (opened); the Supreme Court slip opinion summary already in this bank
+("Parked from rights-movements").
+- March 2020: Idaho Governor Brad Little signed the Fairness in Women's Sports Act (House Bill 500), the first state law
+  barring transgender girls and women from girls' and women's teams. Hecox, a transgender college student, sued (ACLU and Legal Voice, April 2020).
+- 1 June 2021: Florida Governor Ron DeSantis signed the Fairness in Women's Sports Act (SB 1028). West Virginia's Save
+  Women's Sports Act, 2021: B.P.J. sued in February 2021 (aged 11 when she first sought to play, per Justice Sotomayor;
+  Wikipedia says 12).
+- 2022: Lia Thomas of the University of Pennsylvania won an NCAA women's swimming title (500 freestyle, 4:33.24).
+  July 2025: Penn officials agreed with the federal government to limit transgender athletes' participation and changed
+  her records (AP, 2 July 2025, per Wikipedia).
+- 5 February 2025: President Donald Trump signed the executive order "Keeping Men Out of Women's Sports". 6 February 2025:
+  NCAA leaders limited women's competitions to athletes "assigned female at birth".
+- 9 July 2025: the federal government sued California for letting transgender girls compete; on 31 August 2026 Judge Cynthia
+  Valenzuela Dixon dismissed the suit because federal officials had not given the state notice that it would lose federal
+  money (Wikipedia).
+- 30 June 2026: *West Virginia v. B.P.J.* and *Little v. Hecox*, 6 to 3: Title IX allows separate teams "defined by
+  biological sex" (slip opinion, in this bank). The syllabus: 27 states had passed such laws "in the past six years".
+  Wikipedia's state list gives 26 (undated sentence); use the Court's 27, dated 30 June 2026.
+- 2026: the International Olympic Committee limited women's events to athletes whose female sex is confirmed by a test for
+  the SRY gene (a gene on the Y chromosome) (Wikipedia, undated month).
+- Naming: B.P.J. by initials only. Hecox by surname as in the case name. Lia Thomas is a
+  public figure. No hb-story is built on any of them.
+
+### The games children play online, and who they play with
+Sources: Wikipedia "Minecraft", "Fortnite", "Roblox", "Fortnite World Cup", "Kyle Giersdorf" (opened 2026-09-28);
+Federal Trade Commission press release, "Fortnite Video Game Maker Epic Games to Pay More Than Half a Billion Dollars over
+FTC Allegations of Privacy Violations and Unwanted Charges", 19 December 2022 (opened).
+- **Minecraft:** made by the Swedish company Mojang; public test version 2009, formally released November 2011. Players
+  build and dig in a world of blocks, alone or with others. 100 million registered users by 25 February 2014; the
+  best-selling video game of all time, first to pass 300 million copies (BBC, 16 Oct 2023, per Wikipedia).
+- **Fortnite:** Epic Games, 2017. *Battle Royale*: up to 100 players drop onto an island and fight until one person or team
+  is left. More than 125 million players in less than a year. Free to play; Epic sells V-Bucks, a game money bought with
+  real money, for costumes and dance moves (Wikipedia). FTC, 2022: "more than 400 million users worldwide".
+- **Roblox:** a platform where users build and play one another's games, created by David Baszucki and Erik Cassel, public
+  from 1 September 2006. 30 million monthly users by December 2016, 90 million by April 2019; 85.3 million daily users on
+  average as of February 2025. The company says its monthly players include "half of all American children under the age of
+  16". Robux, its money, is bought with real money; developers can trade earned Robux for cash; the company reported in 2020
+  that most of its developers were minors (Wikipedia). From January 2026 Roblox required an age check (ID or a video scan
+  judged by age-estimation software) before any user could chat, and limits chat to similar ages (a 12-year-old can chat
+  only with users aged 9 to 15) (Wikipedia). The changes followed lawsuits over child safety, including four suits
+  reported in June 2025 accusing the company of allowing sexual exploitation of children (Aftermath, 25 June 2025,
+  reference title in Wikipedia; the suits' plaintiffs are not named on the opened page).
+- **Playing with strangers (FTC, 19 Dec 2022):** Epic agreed to pay $520 million: a $275 million penalty under the
+  Children's Online Privacy Protection Act (COPPA, the federal law that requires parents' permission before a company
+  collects personal information from children under 13) and $245 million in refunds. The FTC complaint: Epic's settings
+  turned on live voice and text chat by default, "along with Epic's role in matching children and teens with strangers to
+  play Fortnite together"; "Children and teens have been bullied, threatened, harassed, and exposed to dangerous and
+  psychologically traumatizing issues such as suicide". "As early as 2017, Epic employees urged the company to change the
+  default settings", and children had been "harassed, including sexually". Epic also used "dark patterns" (confusing buttons)
+  that charged players while, for example, waking the game from sleep; FTC: "hundreds of millions of dollars in
+  unauthorized charges". Named: FTC Chair Lina Khan; Samuel Levine, FTC Bureau of Consumer Protection.
+- **Esports** (organized video game competition for prize money): the Fortnite World Cup, 26 to 28 July 2019, Arthur Ashe
+  Stadium, New York City. $30 million in total prizes. An estimated 40 million players entered
+  the qualifying rounds. Every solo finalist got at least $50,000.
+- **Kyle "Bugha" Giersdorf (story):** born 30 December 2002; American. His father, also a gamer, introduced him to
+  Fortnite. Signed with the esports team Sentinels on 25 March 2019. On 28 July 2019, aged 16, he played six matches
+  against 99 other finalists and scored 59 points; second place (Psalm) had 33. He won $3,000,000, more than any other
+  Fortnite player has earned in total. Hours after he won, someone hacked his Twitter and Twitch accounts. He appeared on
+  NBC's *Tonight Show Starring Jimmy Fallon* on 29 July 2019 (reference title). The Game Awards 2019, Best Esports Athlete;
+  Forbes 30 Under 30 (2020). Epic put an outfit of his likeness in Fortnite in July 2021. He is now a streamer on Twitch
+  (Wikipedia, "Kyle Giersdorf"). Movie: none found.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271d): How many hours a day did Kyle Giersdorf practice, and where did he grow up?
+Sources checked: Wikipedia "Kyle Giersdorf" and "Fortnite World Cup" (no hours, no hometown); web search tools were
+unavailable for most of this task (WebSearch session limit; DuckDuckGo and Bing returned bot pages). A news interview from
+July 2019 likely gives both; none was opened.
+How the prose can say it: give the age, the date, the score and the prize. Give no practice hours or hometown.
+
+### Sports betting after 2018
+Sources: Wikipedia "Murphy v. National Collegiate Athletic Association", "Sports betting in the United States" (opened);
+NBA.com, "Jontay Porter banned from NBA for violating league's gaming rules", 17 April 2024 (opened).
+- 1992: Congress passed the Professional and Amateur Sports Protection Act (PASPA), which barred states from licensing
+  sports betting; Nevada, Delaware, Oregon and Montana were exempted.
+- 14 May 2018: *Murphy v. NCAA*. New Jersey (Governor Phil Murphy) won. Justice Samuel Alito wrote for the Court: PASPA
+  broke the rule that Congress cannot order state lawmakers what laws to keep (7 to 2); the whole law was struck down (6 to
+  3). New Jersey, Delaware and other states moved quickly; Mississippi joined them by 1 August 2018 (Wikipedia, citing
+  Bleacher Report).
+- As of September 2023, sportsbooks were legal in 38 states, DC and Puerto Rico, online betting in 30 states. The American
+  Gaming Association (the casino industry's trade group) reported $121 billion bet in 2023 at commercial sportsbooks, with
+  $11.0 billion kept as revenue (Wikipedia). A 2026 tracker reports 39 states plus DC with legal betting as of July 2026
+  (track360.io, unconfirmed: search summary only).
+- **Jontay Porter (NBA, 17 April 2024):** a Toronto Raptors player. League investigators found he told a bettor about his
+  own health before the 20 March 2024 game, then left that game after three minutes "claiming that he felt ill"; an
+  associate had placed an $80,000 bet, to win $1.1 million, that he would play poorly (the bet was frozen). He also placed
+  at least 13 bets on NBA games, $54,094 in total, from January to March 2024. Commissioner Adam Silver banned him for
+  life. Licensed betting companies had flagged the bets. He later pleaded guilty to a federal charge of conspiracy to
+  commit wire fraud (Fox News and Courthouse News headlines; unconfirmed: search summary only).
+
+### The 2026 World Cup in the United States
+Source: Wikipedia "2026 FIFA World Cup" (opened 2026-09-28; the tournament had ended).
+- 13 June 2018: FIFA members voted 134 to 65 for the joint bid of the United States, Canada and Mexico over Morocco.
+- 11 June to 19 July 2026. First World Cup with 48 teams and 104 matches (up from 32 teams and 64). The US hosted 78
+  matches in 11 cities (Atlanta, Boston, Dallas, Houston, Kansas City, Los Angeles, Miami, New York/New Jersey,
+  Philadelphia, San Francisco Bay Area, Seattle); Canada and Mexico 13 each.
+- Final, 19 July 2026, MetLife Stadium, East Rutherford, New Jersey: Spain beat Argentina 1 to 0 after extra time.
+  Attendance 6,810,966, a World Cup record (the old record was the 1994 tournament, also in the US). Reported revenue $15
+  billion.
+- The US team lost 4 to 1 to Belgium in the round of 16. After US forward Folarin Balogun was sent off in the round of 32,
+  FIFA suspended his one-match ban following lobbying by President Donald Trump; Belgian officials objected.
+- Ticket prices started at $60 for group matches and $6,730 for the final, with "dynamic pricing" (prices that rise with
+  demand) for the first time. On 5 December 2025, at the draw in Washington, FIFA gave Trump its first "FIFA Peace Prize".
+- Controversies listed by Wikipedia: US immigration and visa policies affecting teams and fans, Iran's participation, ticket
+  prices. Details of who was refused entry were not opened.
+
+### Youth sport: who plays and what it costs
+Sources: Aspen Institute Project Play, "Youth Sports Facts: Participation Rates" and "Challenges" pages, and *State of Play
+2025* (published December 2025), "Participation trends" (all opened 2026-09-28).
+- 2023, National Survey of Children's Health: 55.4 percent of children aged 6 to 17 (about 27.3 million) played on a team
+  or took sports lessons, up from 54 percent in 2022. The federal Healthy People goal (set 2019): 63.3 percent by 2030.
+  State range: Vermont 72 percent, Nevada 43 percent.
+- Sports and Fitness Industry Association (SFIA) data: 65 percent of children 6 to 17 tried a sport at least once in 2024,
+  up from 59 percent in 2021. Regular play: boys 42 percent or lower for nine straight years (half of boys in 2013); girls
+  37 percent in 2024, the highest since at least 2012.
+- **Income gap:** 2012, 35.5 percent of children in homes earning under $25,000 played regularly, against 49.1 percent in
+  homes earning $100,000 or more (13.6 points apart). 2024: 20.2 points apart (SFIA). Children from homes earning $100,000 or
+  more were twice as likely to play travel sports as those under $50,000.
+- **Cost:** 2022, the average sports parent spent $883 on one child's main sport (Project Play and Utah State University
+  survey). Soccer $1,188, basketball $1,002, baseball $714, tackle football $581 a year. Travel was the biggest cost ($260 a
+  sport per child), then private lessons ($183), registration ($168), equipment ($154), camps ($111). The wealthiest
+  families spent about four times what the lowest-income families spent. Aspen estimate: US families spend $30 billion to
+  $40 billion a year on children's sports. Half of adults who played or whose children played said they had struggled to
+  pay.
+- 2019 survey: the average child played a sport for under three years and quit by age 11 (Project Play and Utah State).
+- Flag football passed tackle football in 2017 as the more common form for children 6 to 12 (4 percent against 2.7
+  percent in 2024).
+- Free play (State of Play 2025): children from the lowest-income homes and in cities play freely more than the wealthiest
+  and suburban children; 90 percent of girl athletes and 79 percent of boys exceeded the recommended 2-to-1 ratio of
+  organized sport to free play hours (national research cited by Aspen, not named on the page).
+
+### Outdoors, walking, recess and fitness, measured
+- **Walking or biking to school:** 47.7 percent of K-8 students in 1969; 12.7 percent in 2009 (McDonald and others, *American
+  Journal of Preventive Medicine* 2011, same survey family; PDF read). In 2017, 9.6 percent of students aged 5 to 17 usually
+  walked and 1.1 percent biked (Kontou, McDonald and others, *Preventive Medicine Reports* 2020, National Household Travel
+  Survey 2017; abstract opened). The 2017 figure covers ages 5 to 17, not K-8.
+- **Time diaries, 1997 to 2003** (Sandra Hofferth, "Changes in American children's time, 1997 to 2003", *Electronic
+  International Journal of Time Use Research* 6(1), 2009; PDF read; children aged 6 to 12, Panel Study of Income Dynamics
+  Child Development Supplement): free ("discretionary") time fell from about 57 hours a week in 1981 to about 50 in 1997
+  and about 48 in 2003. The share of children who played sports on the diary days fell from 76 to 60 percent; the share
+  doing outdoor activities fell from 16 to 10 percent. Time in outdoor activities fell 31 percent; time in sports 37
+  percent. Studying and reading rose. Hofferth's reading: the rise in academics at school "has altered children's behavior
+  at home", and the outdoor decline "may reflect changes in parental values and security concerns" (her suggestion, not a
+  finding).
+- **Recess:** in 2012, 15 of the 50 states had policies that recommended or required daily recess or a physical activity
+  break (Wikipedia, "Recess (break)", citing a 2013 Bridging the Gap report). Federal guidance: 60 minutes of physical
+  activity a day for children (HHS; CDC recess page).
+- **Obesity (cited only as one measure of how children spend time; `health` leads):** obesity among children aged 2 to 19,
+  measured by the National Health and Nutrition Examination Survey (NHANES, which weighs and measures children): 5.2
+  percent in 1971-1974, 13.9 percent in 1999-2000 (CDC NCHS Health E-Stat, 2020); 19.7 percent, about 14.7 million, in 2017
+  to March 2020 (CDC "Childhood Obesity Facts"). By income: 25.8 percent in the poorest group, 11.5 percent in the richest
+  (same). Obesity here means a body mass index (weight against height) at or above the 95th percentile for the child's age
+  and sex.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271d): How many states require daily recess in 2026, and how many minutes do schools give?
+Sources checked: Wikipedia "Recess (break)" (2012 count: 15 states); CDC recess page via Wayback (points to a "Keep Recess
+in Schools" data brief with Springboard to Active Schools; the brief's figures were not in the opened page). No 2020s
+state count was opened.
+How the prose can say it: "In 2012, 15 of the 50 states had rules that recommended or required a daily recess." Give no
+current count and no minutes.
+
+### SEARCHED, NOT FOUND 2026-09-28 (T-271d): What share of children play outdoors without adults, measured after 2003?
+Sources checked: Hofferth 2009 (1997-2003, "outdoor activities", not "unsupervised"); Aspen State of Play 2025 (free play
+by income, no national hours); Pew and Common Sense (screen time, not outdoor time).
+How the prose can say it: give Hofferth's 1997 and 2003 figures for outdoor activities and the walking-to-school figures.
+Do not state a later national figure.
+
+### Athlete protest and women's pay
+Sources: Wikipedia "Colin Kaepernick", "United States women's national soccer team" (opened).
+- 2016 preseason: San Francisco 49ers quarterback Colin Kaepernick sat, then knelt, during the national anthem "in protest
+  of police brutality and racial inequality". He knelt after talking with Nate Boyer, a former player and military veteran.
+  He opted out of his contract in March 2017 and no team signed him. October 2017: he filed a grievance accusing NFL owners
+  of colluding (secretly agreeing) to keep him out; on 15 February 2019 he settled with the league confidentially.
+  President Trump criticized the protests. June 2020: Commissioner Roger Goodell apologized for not listening to Black
+  players' concerns.
+- US women's soccer: April 2016, five players (Hope Solo, Carli Lloyd, Alex Morgan, Megan Rapinoe, Becky Sauerbrunn) filed
+  a pay discrimination complaint with the Equal Employment Opportunity Commission. 22 February 2022: US Soccer settled for
+  $24 million ($22 million to the players). 18 May 2022: new contracts through 2028 equalized pay and bonuses with the men.
+  The women won the 2019 World Cup.
+
+### Native continuity: the Haudenosaunee Nationals (era-09 handoff)
+Source: Wikipedia "Haudenosaunee men's national lacrosse team" (opened 2026-09-28).
+- The Haudenosaunee Confederacy has issued its own passports since 1927. In 2010 British officials refused them for
+  the World Lacrosse Championship in Manchester and told the 23 players to travel on US or Canadian passports. The players
+  refused ("a strike against their identity") and forfeited their games. In 2018 their trip to Israel was delayed over the
+  same passports until the Israeli and Canadian governments cleared them.
+- Bronze (third place) at the world championships of 2014 (Denver), 2018 (Netanya, Israel) and 2023 (San Diego). The team
+  is the only First Nations team recognized internationally as a sovereign people.
+- October 2023: the IOC added lacrosse to the 2028 Los Angeles Olympics. IOC officials said only countries with a National
+  Olympic Committee may enter. On 17 January 2025 President Joe Biden and Prime Minister Justin Trudeau asked the IOC to let
+  the Haudenosaunee play under their own flag. No decision is recorded on the opened page (checked 28 Sep 2026).
+
+### PATCH 2026-09-28 (T-271d): who at the FBI failed to act on Nassar (era 10, actor check)
+Source: Wikipedia, "USA Gymnastics sex abuse scandal", section "FBI failure to investigate and false statements" (opened),
+citing the Justice Department Office of the Inspector General report of July 2021 and *USA Today*.
+- In 2015 USAG president Steve Penny told FBI agents in Indianapolis that three gymnasts said Nassar had assaulted them.
+  FBI officials did not open a formal investigation or tell federal or state authorities in Michigan. In 2016 FBI agents in
+  Los Angeles opened a separate investigation, interviewed several victims, and also did not alert Michigan authorities.
+- The inspector general's report said FBI agent W. Jay Abbott (William Jay Abbott) "had failed to act on the gymnasts'
+  allegations, and later lied about doing so", and that Penny had discussed finding Abbott a job at USA Gymnastics while
+  telling him his worry about bad publicity.
+- *USA Today*: "For more than a year, complaints to the FBI went unanswered and Nassar continued treating, and raping,
+  gymnasts at MSU, a high school in Michigan, and a gymnastics club in Michigan." (Dash in the original replaced by commas.)
+- In April and June 2022, 103 victims sued the FBI for a total of $1.13 billion; in May 2022 Justice Department officials
+  declined to prosecute any FBI agent. The 2024 settlement was $138.7 million (above).
+
+## Bank check, era 10 (T-271d, 2026-09-28)
+
+Run against the outline and the registry angle (how Americans and their children entertained themselves, and how it
+changed, through phones and online play).
+
+**Hard subjects: actor, act, count, cause.**
+- Nassar: actor named; the act stated in the plain words of the victims' statements (once, no dwelling); count more than
+  500 (2021 settlement), 265+ (January 2018), at least 70 or 120 abused after the FBI was told (inspector general vs.
+  victims). Who knew: Klages (1997, per court documents), MSU officials and Strampel (2014), Penny and USAG (June 2015),
+  Blackmun and the USOC (July 2015), FBI agent Abbott and the Indianapolis and Los Angeles offices (2015-2016). Convictions,
+  sentences and settlements dated and counted.
+- CTE: actors named (Tagliabue, Pellman, Casson and the MTBI Committee; Goodell; Jeff Miller). The claim that the league
+  hid the danger is the players' accusation in court and is stated as theirs; the settlement says it is not an admission.
+  Counts carry BU's own selection-bias warning. Race-norming: the people who designed and applied the norms are not named
+  on the opened page; the outline names the league officials who ended it.
+- Online games and strangers: FTC findings (Epic default chat, "matching children and teens with strangers", sexual
+  harassment reports) are attributed to the FTC complaint. Roblox: the lawsuits' plaintiffs and the adults accused are not
+  named on the opened page; the outline tells it unnamed.
+- ADHD and screens: numbers carry their survey, year and age range; the criteria change (DSM-5, 2013) and the counters' own
+  caveats are given; Ra 2018 is stated as "modest" and not shown causal; Orben 2019 and Odgers 2024 give the other side.
+  The outline says nowhere that screens cause ADHD.
+- Transgender athletes: the governors, the President, NCAA officials and the justices are named; B.P.J. by initials.
+- Kaepernick: the collusion claim is attributed to him; the settlement terms are confidential.
+- Betting: Porter's acts are from the NBA's own investigation; the guilty plea is search summary only and is not in the
+  outline.
+
+**Outline claims and "firsts" checked.**
+- Florida 2023 "first state law banning phones": not supported by an opened page. The outline now says only that Florida
+  lawmakers passed such a law in 2023.
+- Idaho 2020 "first" state law on transgender athletes: Wikipedia, "the first of its kind in the United States".
+- California 2019 first state NIL law: Wikipedia, "first adopted by the state of California in 2019".
+- Minecraft best-selling game: Wikipedia, citing BBC, 16 Oct 2023.
+- 2026 World Cup first with 48 teams and record attendance: Wikipedia.
+- Denhollander "first woman to publicly accuse" Nassar: Wikipedia.
+- "first Fortnite World Cup": Wikipedia, "1st Annual".
+
+**Perishable facts, as of 28 September 2026.**
+- Teen phone and social media figures: Pew, survey of Sept-Oct 2025 (published 9 Dec 2025), the latest found.
+- Screen hours: Common Sense 2021 census is the latest for ages 8 to 18 found; a newer one may exist (not found).
+- Phone bans: Education Week tally updated 28 July 2026 (at least 39 states and DC); Ballotpedia count 26 bell-to-bell as
+  of January 2026.
+- ADHD: CDC, 7 million (11.7 percent) current diagnosis in 2024 data; the outline uses the 2022 peer-reviewed figure.
+- House settlement: approved 6 June 2025; the women athletes' appeal outcome not checked.
+- Transgender rulings: 30 June 2026 decision; the California suit dismissed 31 August 2026 (Wikipedia).
+- 2026 World Cup: finished 19 July 2026.
+- Haudenosaunee and the 2028 Olympics: no IOC decision found on the opened page.
+- Sports betting states: 38 plus DC (September 2023, Wikipedia); 39 plus DC (July 2026, search summary only).
+
+**Not researched (left for round 2):** US immigration and visa decisions during the 2026 World Cup (who was refused
+entry); the Paralympics and adaptive sport; women's pro basketball and the WNBA's growth; a newer recess count;
+Bugha's practice hours; NCAA and high-school concussion rules by state (Lystedt laws).
+
+**Land.** No era-10 event in the bank involves newcomers taking land. The Haudenosaunee passports concern sovereignty,
+told as such.
+
 ## Parked from `native-nations` (2026-08-07) — Jim Thorpe (sports-play tells the athletic career; native-nations tells the Carlisle/nations angle; our story slug there: jim-thorpe-native-nations)
 - **Jim Thorpe (Wa-Tho-Huk), Sac and Fox Nation** — Carlisle Indian Industrial School student; two-time football All-American there.
 - **Stockholm 1912:** won the pentathlon (first in four of five events, July 7) and the decathlon (July 15), the first Native American Olympic gold medalist; his decathlon world record stood until 1927.

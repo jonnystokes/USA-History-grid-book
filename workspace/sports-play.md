@@ -67,7 +67,7 @@ Registry angle now reads: *How Americans and their children entertained themselv
 - [ ] Monopoly
 - [ ] Pong, Atari, and the Nintendo Entertainment System
 - [ ] The Oregon Trail
-- [ ] Minecraft and Fortnite
+- [x] Minecraft and Fortnite
 
 ## Featured people to firm up (target/candidate)
 - **candidate** — Jesse Owens, Jackie Robinson, Babe Ruth, Babe Didrikson Zaharias (1900–1950) · Muhammad Ali, Billie Jean King (1950–2000).
@@ -86,7 +86,7 @@ Sport (from the original seed):
 - [x] women's baseball during the war (T-271c: AAGPBL 1943-1954, search summary only, labeled) — 1900–1950
 - [x] the Super Bowl from January 1967 (T-271c: 15 Jan 1967; name official from game III, 1969; Wikipedia) — 1950–2000
 - [x] the 1968 Olympic protest (T-271c: 16 Oct 1968; Wikipedia, History.com) — 1950–2000
-- [ ] legal sports betting after 2018 — 2000–Today
+- [x] legal sports betting after 2018 — 2000–Today
 
 Play and entertainment (added 2026-09-06):
 - [x] Native games and toys (T-271a): Culin 1907 read in full text; chunkey (Pauketat), stickball (Choctaw Nation), Sinagua clay toys (Kamp 2001). Dated pre-1500 dolls/tops: SEARCHED, NOT FOUND — Before 1500
@@ -104,13 +104,13 @@ Play and entertainment (added 2026-09-06):
 - [x] Pong 1972; Space Invaders 1978; Pac-Man 1980; Atari 2600 1977; NES 1985; Game Boy 1989; the 1983 collapse (T-271c: Wikipedia) — 1950–2000
 - [x] The Oregon Trail, 1971 (T-271c: first played 3 Dec 1971; Wikipedia; director decides lead with `migration`) — 1950–2000
 - [x] 1993-94 Senate hearings; ESRB ratings from 13 Sept 1994 (T-271c: Wikipedia) — 1950–2000
-- [ ] teen smartphone ownership by year (Pew) — 2000–Today
-- [ ] Minecraft 2011, Fortnite 2017, Roblox: release dates and player counts — 2000–Today
-- [ ] daily screen use for 8–12s and 13–18s (Common Sense Media census reports) — 2000–Today
-- [ ] youth sport participation by income, the share playing no sport, and the cost of a season (Aspen Institute Project Play; SFIA) — 2000–Today
-- [ ] minutes of recess and how many states require any — 2000–Today
-- [ ] ADHD diagnosis figures over time (CDC / National Survey of Children's Health), **and** the changes to diagnosis criteria and screening across the same period — 2000–Today
-- [ ] the screen-and-attention studies themselves: what each measured, sample size, reported effect size, and the named researchers on each side, cited from their own publications — 2000–Today
+- [x] teen smartphone ownership by year (Pew) — 2000–Today
+- [x] Minecraft 2011, Fortnite 2017, Roblox: release dates and player counts — 2000–Today
+- [x] daily screen use for 8–12s and 13–18s (Common Sense Media census reports) — 2000–Today
+- [x] youth sport participation by income, the share playing no sport, and the cost of a season (Aspen Institute Project Play; SFIA) — 2000–Today
+- [x] minutes of recess and how many states require any — 2000–Today
+- [x] ADHD diagnosis figures over time (CDC / National Survey of Children's Health), **and** the changes to diagnosis criteria and screening across the same period — 2000–Today
+- [x] the screen-and-attention studies themselves: what each measured, sample size, reported effect size, and the named researchers on each side, cited from their own publications — 2000–Today
 
 ## Threads present
 *From the brief's checklist — only what genuinely applies:* class (**central to the modern cell** — youth sport's cost barrier) · region · rural · children (**central**) · disability (Paralympic and adaptive sport) · Native continuity past 1900 · LGBTQ (athletes coming out) · language · territories · the elderly
@@ -221,3 +221,28 @@ need research to state plainly and are queued here so they are not lost:
   Jackie Robinson, Jesse Owens, Babe Didrikson, Muhammad Ali, Tommie Smith and John Carlos, Billie Jean King, Curt Flood,
   the Miracle on Ice. Not yet present (round 2): Althea Gibson, Wilma Rudolph, Roberto Clemente, Joe Louis.
 - Cross-chapter parking: none filed (burst rule); see the checkpoint's "TO PARK (T-271c)".
+
+## T-271d (2026-09-28): era 10 researched, bank check, chapter final
+
+- Era 2000-today researched (progress=researched). 17 [VERIFY] cleared: legal betting after 2018 (Murphy v. NCAA, 14 May
+  2018; Porter ban 17 Apr 2024); teen smartphones (Pew: 73% 2014-15, 95% 2022 and 2024; "almost constantly" 24/46/48/40);
+  Minecraft 2011, Fortnite 2017, Roblox 2006 with player counts; playing with strangers (FTC v. Epic, 19 Dec 2022, $520M);
+  esports (Fortnite World Cup 2019, $30M); in-game money (V-Bucks, Robux); Common Sense 2021 screen hours (5:33 / 8:39);
+  outdoor and unstructured play (Hofferth 1997-2003; SEARCHED, NOT FOUND for later national figures); walking to school
+  (47.7% 1969, 12.7% 2009, 9.6% walked + 1.1% biked 2017 ages 5-17); youth sport participation and income gap (Aspen/SFIA,
+  NSCH 2023 55.4%); cost of a season ($883 in 2022; by sport); recess (15 states in 2012; SEARCHED, NOT FOUND for now);
+  obesity (NHANES 5.2% 1971-74, 13.9% 1999-2000, 19.7% 2017-Mar 2020); ADHD (NSCH 7.8% 2003 to 11.4% 2022; DSM-5 2013
+  criteria change); the named studies (Ra 2018 JAMA; Orben and Przybylski 2019; Haidt 2024 vs Odgers in Nature 2024).
+- Added from the dispatch topics: Surgeon General advisory (23 May 2023); school phone bans (EdWeek 28 Jul 2026, Ballotpedia
+  Jan 2026); concussions and CTE (Webster, Omalu, MTBI committee, settlement 2013/2015, race-norming, BU 345 of 376); Nassar
+  (who knew, convictions, settlements, FBI agent Abbott); NIL 2021 and House settlement 2025; transgender athletes to 30
+  June 2026; the 2026 World Cup; Kaepernick; US women's soccer pay; Haudenosaunee Nationals 2010-2025.
+- Stories: target `young-esports-competitor` -> verified `kyle-giersdorf`; target `athlete-or-youth-sports-family` ->
+  verified `rachael-denhollander` (movie: Athlete A, 2020). The season-cost part of the old target is told in span prose
+  (Aspen); no named family with an on-the-record cost account was found in the time available.
+- Famous names now present in era 10: Minecraft, Fortnite, Roblox, Simone Biles (bank; outline names her at the Senate),
+  Colin Kaepernick, Megan Rapinoe and Alex Morgan (in the pay complaint).
+- Web search note: WebSearch hit its session limit early; DuckDuckGo and Bing returned bot pages. Pages were opened with
+  curl, the Wikipedia pages as HTML, Europe PMC's API for abstracts, and the Wayback Machine for cdc.gov and hhs.gov (both
+  return 403 to scripts).
+- Cross-chapter material listed under "TO PARK (T-271d)" in the checkpoint (burst rule).

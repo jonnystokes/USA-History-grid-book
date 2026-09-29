@@ -1,13 +1,13 @@
 # CHECKPOINT T-271 | sports-play | full | T-271a: eras 1-5 · T-271b: eras 6-7
 
-STATUS: T-271c landed (director verified: FAIL  sports-play / research)
+STATUS: T-271d landed (director verified: PASS  sports-play / research)
 VERIFY: python tools/project_state.py --check sports-play --stage research
 BRIEF:  control/briefs/RESEARCH.md, MODE full
 MODEL:  opus
 FILES:  outlines/sports-play.md · research/research-sports-play.md · workspace/sports-play.md
 
-NOW:    T-271c finished (2026-09-28). Nothing in progress.
-NEXT:   T-271d: research era 10 (2000-today) only, then the bank check for era 10 and the final chapter check. Eras 1-9 are done; do not redo them. Era 10 holds all that remains: 17 [VERIFY], 2 targets (athlete-or-youth-sports-family, young-esports-competitor), 0 candidates. Handoffs in the bank ('Bank check, eras 08-09', last paragraph): Iroquois Nationals 2010 passports and 2014/2018 bronze; walking to school 2009 = 12.7% (McDonald 2011 Table 2, same survey family as 1969's 47.7%); Hofferth 1997-2003; Knoester-Bjork club teams; parked 2026 Supreme Court ruling. As the last agent, confirm every era's progress= flag.
+NOW:    T-271d finished (2026-09-28). Nothing in progress.
+NEXT:   Chapter research complete: research check PASS (10/10 eras researched, 19 verified stories, 0 VERIFY). Next step per DECISIONS #17 is writing. Director: file the TO PARK (T-271d) items after the burst.
 
 ## BURST (Jon, 2026-09-27): burst (music, storytelling-evolution, sports-play, styles)
 
@@ -38,6 +38,9 @@ for those eras. T-271b does eras 6-10 later (it may be split further).
 | 9 | T-271c: research era 09 (1950-2000): outline + bank, clear [VERIFY], resolve candidates/targets (incl. Iroquois Nationals) | done | era 09 researched, 0 VERIFY; stories verified: muhammad-ali (sports angle), billie-jean-king, chris-ernst (replaces title-ix-athlete), kathryn-johnston (replaces postwar-child target); spans: Cannon Street 1955, Pepe 1972-74, Palmer v. Thompson, Monson 1964, Super Bowl I, Flood/Seitz, 1968 protest, NFHS Title IX counts, games 1972-1994, McDonald/Hofferth/BLS/Census child-time figures, Iroquois Nationals 1983-1990 |
 | 10 | T-271c: bank check, eras 08-09 | done | bank section 'Bank check, eras 08-09'; PATCH 1910 riots (UPI report of 5 July 1910); SEARCHED, NOT FOUND on the riot victims' names |
 | 11 | T-271c: final: validator, research check, NEXT for T-271d (era 10) | done | validator 0 errors; research check FAIL (PARTIAL: 17 VERIFY, 2 targets, 0 candidates, all in era 10) |
+| 12 | T-271d: research era 10 (2000-today): outline + bank, clear 17 [VERIFY], resolve targets athlete-or-youth-sports-family and young-esports-competitor, era-10 handoffs | done | era 10 researched, 0 VERIFY; target young-esports-competitor replaced by verified kyle-giersdorf; target athlete-or-youth-sports-family replaced by verified rachael-denhollander (season cost told as span prose from Aspen); handoffs told (Haudenosaunee 2010/2014/2018/2023 and 2028; walking 2009 12.7% and 2017; Hofferth 1997-2003; 2026 ruling); research check PASS |
+| 13 | T-271d: bank check, era 10 | done | bank sections 'PATCH ... who at the FBI failed to act' and 'Bank check, era 10'; Florida 'first' removed from the outline; FBI agent Abbott named in the outline |
+| 14 | T-271d: final chapter checks: every era's progress= flag, validator, research check | done | all 10 eras progress="researched" (1500s state=thin, rest full), matching the bank; validator 0 errors; research check PASS |
 
 ## SUBJECT NOTES (from the director)
 
@@ -103,6 +106,32 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `migration`: The Oregon Trail game (first played 3 Dec 1971, Minneapolis; Rawitsch, Heinemann, Dillenberger). Told
   briefly here as play; the director decides which chapter leads.
 
+## TO PARK (T-271d)
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+- `health`, era 2000-today: ADHD parent-reported diagnosis 7.8% (2003), 9.5% (2007), 11% (2011) ages 4-17 (Visser 2014,
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+- `technology` or `news-communication`, era 2000-today: Pew teens, smartphone 73% (2014-15) to 95% (2022, 2024); online
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+- `crime-justice`, era 2000-today: Nassar convictions and sentences (60 years federal, 7 Dec 2017; 40-175 years, Aquilina,
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+- `rights-movements`, era 2000-today: Kaepernick 2016 and his 2019 settlement; US women's soccer pay (EEOC 2016, $24M
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+- `native-nations`, era 2000-today: Haudenosaunee passports refused by the UK, 2010 World Lacrosse Championship; delay in
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+- `marketplace`, era 2000-today: FTC v. Epic Games, 19 Dec 2022, $275M COPPA penalty + $245M refunds for "dark patterns";
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+- `education`, era 2000-today: NCAA v. Alston (21 Jun 2021, 9-0), NIL from 1 Jul 2021, House v. NCAA settlement approved 6 Jun
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+- `storytelling-evolution`, era 2000-today: Minecraft (Nov 2011; 300M copies by Oct 2023), Fortnite (2017), Roblox (2006;
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+
 ## Sources in hand
 - Breen 1977 PDF: blogs.dickinson.edu/hist-117pinsker/files/2011/01/Breen-article.pdf (pypdf reads it). Stanard 1894: archive.org jstor-4241820.
 - New Netherland laws: archive.org cu31924080779402 djvu txt. Mass. laws 1660: coloniallawsofma1660mass. Plymouth records: recordsofcolonyo0304newp, recordsofcolonyo0506newp.
@@ -112,6 +141,13 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - Choctaw Nation Iti Fabvssa stickball article (opens with WebFetch).
 - Cushman 1899 via accessgenealogy.com/native/ball-play-amongst-choctaws.htm (WebFetch 403; curl with browser UA works).
 - Pauketat, Archaeology 2009 (archive.archaeology.org/0909/abstracts/pastime.html).
+
+- T-271d era 10: Pew teen reports 2022/2024/2025; Common Sense census 2021 PDF (commonsensemedia.org .../8-18-census-
+  integrated-report-final-web_0.pdf); Surgeon General advisory PDF via web.archive.org (hhs.gov blocks scripts); EdWeek
+  phone-ban tracker; CDC ADHD data page via Wayback; Danielson 2024 (PMC11334226); Visser 2014 (PMC4473855); Ra 2018
+  (PMC6553065); Odgers, Nature d41586-024-00902-2; FTC Epic release 19 Dec 2022; NBA.com Porter 17 Apr 2024; BU CTE 345/376;
+  Aspen Project Play pages (participation-rates, challenges, state-of-play-2025/participation-trends); Kontou 2020 (Europe
+  PMC abstract); Wikipedia HTML pages (API rate-limits scripts). Helpers: scratchpad/T-271d/f.sh, t.py, ab.py.
 
 ## Gaps researched
 
@@ -137,6 +173,15 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
   documented cases are about 1790 and 1800 and both ended in fighting. Now told in era 5.
 
 ## Log
+- 2026-09-28 T-271d: era 2000-today DONE (researched). Units 13 and 14 done: bank check for era 10 (PATCH on the FBI and Abbott;
+  Florida 'first' removed); all 10 progress= flags researched; validator 0 errors; research check PASS. Stories verified:
+  kyle-giersdorf (replaces young-esports-competitor), rachael-denhollander (replaces athlete-or-youth-sports-family). Three
+  SEARCHED, NOT FOUND (Giersdorf's practice hours and hometown; a current recess count; national unsupervised-outdoor figures
+  after 2003).
+- 2026-09-28 T-271d: unit 12 part A in the bank ("Era 10": phones/Pew, Common Sense 2021, Surgeon General 2023, phone
+  bans (EdWeek 28 Jul 2026, Ballotpedia/Newsweek 9 Jan 2026), ADHD NSCH 2003-2024, Ra 2018, Orben 2019, Odgers 2024).
+  WebSearch hit its session limit early; use curl (scratchpad/T-271d/f.sh), w.sh (Wikipedia API), ab.py (Europe PMC).
+  Bank era-10 text is built from scratchpad/T-271d/era10_*.md and spliced with splice.py (re-runnable).
 - 2026-09-28 T-271c: unit 10 bank check DONE; unit 11: validator 0 errors; research check FAIL, PARTIAL (17 VERIFY, 2 targets,
   all in era 10). Scratch files: scratchpad/T-271c (fetch.py, splice.py, insert_bank.py, PDFs of NFHS, McDonald, Hofferth, Census).
 - 2026-09-28 T-271c: era 1950-2000 DONE (researched). Bank "Era 09": Little League girls (StoryCorps; Little League 2024),
