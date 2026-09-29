@@ -227,3 +227,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-306a	research	general-purpose/opus	[LOCAL] food-farming: Writer A: part1 (4,680w, eras 1-5) + part2 (2,638w, eras 6-7), validator 0, punc	?	?	?	254090	90	663632	?	completed	FAIL  food-farming / prose
 2026-09-27	T-301a	research	general-purpose/opus	[LOCAL] landmarks: Writer A: part1 (eras 1-5) + part2 (eras 6-7), validator 0, punct 0/0. 9 stories	?	?	?	263811	74	749314	?	completed	FAIL  landmarks / prose
 2026-09-27	T-305a	research	general-purpose/opus	[LOCAL] transportation: Writer A: part1 (~2,800w, 3 stories) + part2 (~4,660w, 8 stories), validator 0, 	?	?	?	274200	134	787210	?	completed	FAIL  transportation / prose
+2026-09-27	T-304a	research	general-purpose/opus	[LOCAL] home-family: Writer A: part1 + part2 (eras 1-7), validator 0, punct 0/0, self-review run. 9 s	?	?	?	274555	92	809116	?	completed	FAIL  home-family / prose

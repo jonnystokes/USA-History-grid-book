@@ -3261,9 +3261,11 @@ CHECKPOINT: control/checkpoints/T-303-technology.md
 VERIFY: python tools/project_state.py --check technology --stage prose
 
 ### 2026-09-27 | [LOCAL] T-304a | home-family: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-304-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+RESULT: LANDED. FAIL  home-family / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=6110w files=2 validator_errors=0
+        274555 tokens, 92 tool uses, 13.5 min (opus). Writer A: part1 + part2 (eras 1-7), validator 0, punct 0/0, self-review run. 9 stories. 8 gaps PATCHed, 1 not found (Hallowell nation), 12 outline claims left out, OPEN none. Fixed: Menendez women 26 not 24, Tisquantum 'one of the last', Proverbs 13:24 quoted exactly, Knight 'alone' dropped, institution-as-actor lines.
 
 ### 2026-09-27 | [LOCAL] T-305a | transportation: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: LANDED
