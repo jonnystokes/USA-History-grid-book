@@ -15,8 +15,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 **STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
 8-10 (part3). Chapters whose eras 1-7 slice passes ~25,000 words get writer A split (1-5, 6-7); the three giants
 (religion, education, rights-movements) get more writers.
-BURST OF 8 (Jon): writer A on the 8 smallest chapters: T-301a landmarks, T-302a energy, T-303a technology,
-T-304a home-family, T-305a transportation, T-306a food-farming, T-307a migration, T-308a money.
+Writer A DONE (eras 1-7) for: landmarks, energy, technology, home-family, transportation, food-farming, migration,
+money. NEXT, one at a time: writer B (eras 8-10) T-301b..T-308b, then writer A for the other 22 chapters.
 **Open for Jon:** art era 10, Kehinde Wiley allegations (tell or leave out?).
 
 ## Standing rules from 2026-09-26 (details in DECISIONS)

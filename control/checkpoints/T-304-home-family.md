@@ -65,7 +65,7 @@ Count: 12.
 - Mary Ring story enriched from the styles bank's opened inventory (PATCHed into our bank first, with source).
 - Land named for every newcomer settlement: Seloy (Timucua), Patuxet (Wampanoag), New Sweden (Lenape), Walnut Grove (Dakota, 1851), Devils Lake (Spirit Lake Dakota). Hallowell left unnamed (SEARCHED, NOT FOUND).
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - native-nations / slavery-freedom: Florida Museum "First Contacts" page (opened 2026-09-29) confirms Menendez's ~800 colonists included 26 women and an unknown number of enslaved Africans, and that Seloy's council house was the first Spanish fort. Plymouth 400, Inc. (opened) gives Hunt's 1614 capture as 20 from Patuxet and 7 from Nauset. Full text: research-home-family.md, eras 02 and 03 T-304a PATCHes.
 - health: 1776 inoculation method (lancet, pus-soaked thread) and death rates (about 30% natural smallpox, 2-3% inoculation), Journal of the American Revolution, April 2026. research-home-family.md era 05 T-304a PATCH.
 

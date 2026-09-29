@@ -248,3 +248,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **From T-267a (art checkpoint):** - AUDIT-QUEUE candidate: `research-art.md` era 04 notes that Western Carolina University's rivercane page names "Sir Francis Richardson, the first governor of the Carolina colony" as the man who took the 1725 baskets to London; search summaries name Francis Nicholson. Unresolved; outline leaves the governor unnamed.
 
 - **sports-play era 5, story `austin-curtis`:** the outline gives his death as 1809, but his newspaper obituary (found by T-271b) dates it December 1807. Check the bank and correct the story.
+
+- **From T-305a (transportation checkpoint):** - Bank hygiene for the audit: research-transportation.md line under "## 7" Ten-Mile Day still says the three men carried "the last rails" that day; the T-305a PATCH corrects it.

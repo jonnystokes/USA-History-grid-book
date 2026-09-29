@@ -2706,3 +2706,7 @@ Full text and sources for every item are in `research/research-storytelling-evol
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
 Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
 - `government-politics` (or `technology`), era 10: Tennessee ELVIS Act signed March 21, 2024; California AB 2602 and AB 1836 signed September 17, 2024; NO FAKES Act unpassed as of September 2026.
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- crime-justice / government-politics: Czolgosz shot McKinley Sept 6, 1901 (Miller Center), research-money.md era 7 PATCH.

@@ -1777,3 +1777,12 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
 - `crime-justice`, era 2000-today: Nassar convictions and sentences (60 years federal, 7 Dec 2017; 40-175 years, Aquilina,
     24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
     Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+
+## Parked from `energy` (2026-09-27, T-302)
+Filed by the director after the parallel run. Full sourced text is in `research/research-energy.md` under the T-302 PATCH named in each item.
+- crime-justice, era 1850-1900: Kemmler v. Durston, full sourced account (crime, 1888 law, appeals, execution) in energy bank era 07 PATCH 2026-09-29 (NY Courts Historical Society, Smithsonian).
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- crime-justice: Owen Sullivan's Rhode Island ear-cropping and branding now confirmed (Boston Evening Post, Oct 9, 1752), see research-money.md era 5 PATCH 2026-09-29.
+- crime-justice / government-politics: Czolgosz shot McKinley Sept 6, 1901 (Miller Center), research-money.md era 7 PATCH.

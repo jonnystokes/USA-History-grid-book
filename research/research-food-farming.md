@@ -274,3 +274,7 @@ USDA (NAL Carver exhibit; ERS farm numbers, farm labor, farmers markets, food ac
 ## Parked from science research (2026-08-08) — research stations on every state's farms
 `education` leads the land-grant colleges; `science` takes the research mission in one line; the stations' farm work is yours:
 - **Hatch Act of 1887:** gave each state's land-grant college federal money (initially $15,000 a year) to run an agricultural experiment station — soil, seed, and stock research as a public service, feeding results straight to farmers; named for Rep. William Hatch (Missouri), House Agriculture chair. Stations now operate in all 50 states, D.C., and the insular areas. (Sources: Congress.gov CRS R45897 "The U.S. Land-Grant University System"; state station histories (UNH, LSU AgCenter).)
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `food-farming` (era 6, Deere's plow): Ho-Chunk village at Grand Detour (Jipson) and the September 15, 1832 Treaty with the Winnebago at Fort Armstrong (Scott, Reynolds; $10,000 a year for 27 years). Full text: research-technology.md, "PATCH 2026-09-29 (T-303a): whose land Deere's plow broke at Grand Detour".

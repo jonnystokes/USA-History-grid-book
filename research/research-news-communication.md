@@ -1025,3 +1025,7 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
 - `technology` or `news-communication`, era 2000-today: Pew teens, smartphone 73% (2014-15) to 95% (2022, 2024); online
     "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
     (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `news-communication` (era 6): LOC Morse Papers telegraph mechanism, $30,000 appropriation, Cornell's poles, Gale's relay. research-technology.md, "PATCH 2026-09-29 (T-303a): how Morse's telegraph worked...".

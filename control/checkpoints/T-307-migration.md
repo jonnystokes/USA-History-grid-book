@@ -65,7 +65,7 @@ measured: stage=RESEARCHED eras=10/10 stories=15 (v15 c0 t0) verify_tags=0 bank=
 - Era 05 spans put in date order (Acadians 1755 before the Wilderness Road 1775).
 - Weeping Time (parked from marketplace) added to era 07 as a short span on the domestic trade in the 1850s. Destinations of the people sold are not in the sources and the prose says so.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - Oregon Trail computer game (bank sidebar, also parked in sports-play): not written here. The director decides which chapter carries it.
 - Newport Gardner and Black New Englanders to Liberia, 1826 (parked from music): not written. It is emigration abroad, outside this chapter's angle. Possibly immigration or music.
 - slavery-freedom: the Weeping Time now appears briefly in migration era 07 (forced-movement angle). slavery-freedom leads.

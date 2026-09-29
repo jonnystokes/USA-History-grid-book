@@ -312,3 +312,11 @@ Films verified via PBS/IMDb pages: Drawn from Nature (2007); John Muir in the Ne
 ## Parked from `styles` (2026-09-29, T-272c)
 Filed by the director (the item named `environment`; routed here). Full sourced text is in `research/research-styles.md`.
 - `environment`, era 10: EPA textiles 1960-2018 table (17.03 million tons generated 2018, 11.3 million landfilled, 14.7% recycled), page updated March 19, 2026. Ellen MacArthur Foundation 2017 via Waste Dive (one garbage truck a second).
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `land-environment` / `native-nations` (era 7): NARA barbed-wire lesson quotes ("the Devil's rope", range wars). research-technology.md, "PATCH 2026-09-29 (T-303a): Joseph Glidden and what barbed wire did".
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- native-nations / land-environment: AADL 1807 Treaty of Detroit figures (5,611,532 acres, $57,717.32, Ann Arbor included), research-money.md era 6.

@@ -1020,3 +1020,7 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
     current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
     obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
     2023) with BU's selection-bias caution.
+
+## Parked from `home-family` (2026-09-27, T-304)
+Filed by the director after the parallel run. Full sourced text is in `research/research-home-family.md` under the T-304 PATCH named in each item.
+- health: 1776 inoculation method (lancet, pus-soaked thread) and death rates (about 30% natural smallpox, 2-3% inoculation), Journal of the American Revolution, April 2026. research-home-family.md era 05 T-304a PATCH.

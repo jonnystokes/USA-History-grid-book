@@ -757,3 +757,32 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
   85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
 - `native-nations`, era 2000-today: Haudenosaunee passports refused by the UK, 2010 World Lacrosse Championship; delay in
     2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+
+## Parked from `landmarks` (2026-09-27, T-301)
+Filed by the director after the parallel run. Full sourced text is in `research/research-landmarks.md` under the T-301 PATCH named in each item.
+- native-nations / migration: the 1831 Treaty of Lewistown was made by US commissioner James B. Gardiner (OSU Tribal Treaties Database); the 1832 march leaders were not found (research-landmarks.md, era 01 T-301a PATCH and SEARCHED, NOT FOUND).
+- religion / native-nations: NPS San Geronimo de Taos page confirms Popé planned the 1680 Pueblo Revolt from Taos and the Spanish were out until 1692 (research-landmarks.md, era 03 T-301a PATCH).
+
+## Parked from `energy` (2026-09-27, T-302)
+Filed by the director after the parallel run. Full sourced text is in `research/research-energy.md` under the T-302 PATCH named in each item.
+- native-nations / exploration, era 1500s: NPS says de Soto's men took all the food at Hymahi and de Soto burned at least one inhabitant to death while questioning them about Cofitachequi (energy bank era 02 PATCH 2026-09-29, NPS Congaree page). Energy tells it in one sentence.
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `land-environment` / `native-nations` (era 7): NARA barbed-wire lesson quotes ("the Devil's rope", range wars). research-technology.md, "PATCH 2026-09-29 (T-303a): Joseph Glidden and what barbed wire did".
+
+## Parked from `home-family` (2026-09-27, T-304)
+Filed by the director after the parallel run. Full sourced text is in `research/research-home-family.md` under the T-304 PATCH named in each item.
+- native-nations / slavery-freedom: Florida Museum "First Contacts" page (opened 2026-09-29) confirms Menendez's ~800 colonists included 26 women and an unknown number of enslaved Africans, and that Seloy's council house was the first Spanish fort. Plymouth 400, Inc. (opened) gives Hunt's 1614 capture as 20 from Patuxet and 7 from Nauset. Full text: research-home-family.md, eras 02 and 03 T-304a PATCHes.
+
+## Parked from `transportation` (2026-09-27, T-305)
+Filed by the director after the parallel run. Full sourced text is in `research/research-transportation.md` under the T-305 PATCH named in each item.
+- `migration` / `native-nations`: none new.
+
+## Parked from `migration` (2026-09-27, T-307)
+Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
+- native-nations / religion: this chapter now carries short versions of Acoma 1599 and the 1838-1846 Missouri/Illinois violence, copied from those banks. Check for overlap at audit.
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- native-nations / land-environment: AADL 1807 Treaty of Detroit figures (5,611,532 acres, $57,717.32, Ann Arbor included), research-money.md era 6.

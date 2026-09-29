@@ -3298,3 +3298,9 @@ CHECKPOINT: control/checkpoints/T-308-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
 RESULT: LANDED. FAIL  money / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=7 (verified 7) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=7359w files=2 validator_errors=0
         283086 tokens, 110 tool uses, 16.2 min (opus). Writer A: part1 (3,400w) + part2 (~4,000w), validator 0, punct 0/0, self-review run. 7 stories. 8 gaps PATCHed, 4 not found, 2 outline claims left out, OPEN none. Fixed: Potosi forced labor added where the outline said only 'Spain found silver', Bryan a former congressman in 1896, Bryan quote split at its semicolon, institution-as-actor lines.
+
+### 2026-09-29 | [LOCAL] Writer burst of 8 done (writer A, eras 1-7) + TO PARK filed
+All eight landed: landmarks, energy, technology, home-family, transportation, food-farming, migration, money.
+Each: two part files, validator 0, punct 0/0, self-review run. Writer A cost 254k-347k tokens each (7-9k words).
+Parked items filed into banks (all validate 0; written chapters still PASS prose); one bank-hygiene item to AUDIT-QUEUE.
+Back to ONE AT A TIME: writer B (eras 8-10) for these eight chapters next, then writer A for the rest.

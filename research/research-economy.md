@@ -269,3 +269,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `government-politics` and `economy`, era 2000-today: uninsured 26.7 million (7.9 percent) in 2025 (Census, 15 Sep 2026), 4 July 2025 budget law work requirements from 1 Jan 2027 and CBO's 10 million more uninsured in 2034, marketplace tax credits ended after 2025 (KFF). Health bank era 10.
 
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- economy / slavery-freedom: Baptist's "bankruptcy-driven sales" wording and the do-not-cite status of Murphy's 2017 Yale draft, research-money.md era 6.

@@ -66,7 +66,7 @@ measured: stage=RESEARCHED eras=10/10 stories=17 (v17 c0 t0) verify_tags=0 bank=
 - Outline "a cycle of 18.6 years" kept; outline "circles, squares and octagons" reduced to what the bank supports (circle and eight-sided figures).
 - Fourth wall: outline "this chapter says it plainly" and "(that night's events belong to war)" style pointers removed from prose.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 
 - native-nations / migration: the 1831 Treaty of Lewistown was made by US commissioner James B. Gardiner (OSU Tribal Treaties Database); the 1832 march leaders were not found (research-landmarks.md, era 01 T-301a PATCH and SEARCHED, NOT FOUND).
 - religion / native-nations: NPS San Geronimo de Taos page confirms Popé planned the 1680 Pueblo Revolt from Taos and the Spanish were out until 1692 (research-landmarks.md, era 03 T-301a PATCH).

@@ -467,3 +467,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
 Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
 - `work-workers`, era 10: the 2023 WGA strike (May 2 to September 27, 148 days) and SAG-AFTRA strike (July 14 to November 9), first joint strike since 1960; the 2024 to 2025 video game strike (July 26, 2024 to July 9, 2025, about 2,600 performers, 95.04 percent ratification); AI consent terms; 2026 contracts (WGA April 24, 2026, 90.38 percent; SAG-AFTRA June 4, 2026, 91.42 percent, 19.25 percent turnout); background actors' scans and pay ($187 a day, NPR August 2, 2023).
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `slavery-freedom` / `work-workers` (era 4): Patapsco land (Susquehannock, Piscataway, 1652 treaty) under the Baltimore Iron Works.

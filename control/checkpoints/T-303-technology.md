@@ -74,7 +74,7 @@ None for eras 1-7.
 - Quotations with a semicolon or dashes split with no word changed: Jenks petition, Franklin autobiography, Northup, Bell's "Mr. Watson" sentence.
 - Ambiguity: "Jeremiah Black" written in full each time.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - `food-farming` (era 6, Deere's plow): Ho-Chunk village at Grand Detour (Jipson) and the September 15, 1832 Treaty with the Winnebago at Fort Armstrong (Scott, Reynolds; $10,000 a year for 27 years). Full text: research-technology.md, "PATCH 2026-09-29 (T-303a): whose land Deere's plow broke at Grand Detour".
 - `slavery-freedom` (eras 5-6): Solomon Northup's cotton-picking passages with exact quotes and lash counts. research-technology.md, "PATCH 2026-09-29 (T-303a): what 'violence' meant...".
 - `land-environment` / `native-nations` (era 7): NARA barbed-wire lesson quotes ("the Devil's rope", range wars). research-technology.md, "PATCH 2026-09-29 (T-303a): Joseph Glidden and what barbed wire did".

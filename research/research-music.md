@@ -933,3 +933,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `storytelling-evolution` (2026-09-27, T-269)
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
 - `music`, era 07: Aiken's *Uncle Tom's Cabin* played Foster's "Old Folks at Home" as Tom is sold down the river (Wikipedia "Tom show"); Billy Kersands's "Old Aunt Jemima" (texts 1875, 1880) and his pay ($15 a week 1879, $80 by 1882, up to $250 in Europe) (Wikipedia "Billy Kersands," citing Toll 1974). No conflict found with music's shared minstrelsy facts (Rice 1828-1832, Virginia Minstrels Jan 31, 1843).
+
+## Parked from `migration` (2026-09-27, T-307)
+Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
+- Newport Gardner and Black New Englanders to Liberia, 1826 (parked from music): not written. It is emigration abroad, outside this chapter's angle. Possibly immigration or music.

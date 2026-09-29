@@ -614,3 +614,7 @@ What was checked, era by era, against the outline, the registry angle and the ch
 - **Perishable:** every 2000-today figure re-checked on 2026-09-27 (see ## 10).
 - **Land:** recorded for each era's journeys (see "Whose land" lines in each era).
 - **Remaining SEARCHED, NOT FOUND entries:** Two Medicine names (from an opened page), Arikara dead in 1823, the fate of the Howlands and Dunn; plus the era 01 to 05 entries from T-257.
+
+## Parked from `energy` (2026-09-27, T-302)
+Filed by the director after the parallel run. Full sourced text is in `research/research-energy.md` under the T-302 PATCH named in each item.
+- native-nations / exploration, era 1500s: NPS says de Soto's men took all the food at Hymahi and de Soto burned at least one inhabitant to death while questioning them about Cofitachequi (energy bank era 02 PATCH 2026-09-29, NPS Congaree page). Energy tells it in one sentence.

@@ -63,7 +63,7 @@ measured: stage=RESEARCHED eras=10/10 stories=17 (v17 c0 t0) verify_tags=0 bank=
 - Outline 01 "cannot reseed itself" kept, without an invented mechanism.
 - Percy raid death count stated as a range (more than a dozen per Percy, up to 75 in other accounts), no silent resolution.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - migration / home-family: if either chapter quotes "we will all be poor here together" as Mattie Oblinger's, LOC gives it to Uriah (letter of Dec 1, 1872). Collection is 318 letters, 1862-1911. See research-food-farming.md PATCH 2026-09-29 (T-306a): the Oblinger letters.
 
 ## Log

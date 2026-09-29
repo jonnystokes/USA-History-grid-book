@@ -2522,3 +2522,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
 Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
 - `sports-play` and `technology`, era 09: *Tennis for Two*, William Higinbotham, Brookhaven National Laboratory, 1958, three-day exhibition, oscilloscope (Wikipedia; date October 18, 1958 search summary only); *Pong*, Atari, 1972, Allan Alcorn, "first commercially successful video game" (Wikipedia); laserdisc arcade games from 1983 (*Dragon's Lair*).
+
+## Parked from `migration` (2026-09-27, T-307)
+Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
+- Oregon Trail computer game (bank sidebar, also parked in sports-play): not written here. The director decides which chapter carries it.

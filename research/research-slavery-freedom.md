@@ -587,3 +587,28 @@ Full text and sources for every item are in `research/research-storytelling-evol
 ## Parked from `styles` (2026-09-27, T-272)
 Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
 - `slavery-freedom`, era 04: 1745 Virginia Gazette runaway ads with names and clothing (Jack and an unnamed companion from Gambia, owner Margaret Arbuthnott, Oct 3-10, 1745. Sawney, Gloucester Co., John Matthews, Sept 5-12, 1745. Will, Hanover Co., Aaron Trueheart, Sept 19-26, 1745), from UVA Geography of Slavery allAds.xml. Also Negro Act section XL full text (McCord vol. 7 p. 397).
+
+## Parked from `landmarks` (2026-09-27, T-301)
+Filed by the director after the parallel run. Full sourced text is in `research/research-landmarks.md` under the T-301 PATCH named in each item.
+- slavery-freedom: Architect of the Capitol page names Clark Mills as Philip Reid's owner, bought in Charleston for $1,200 (research-landmarks.md, era 07 T-301a PATCH).
+
+## Parked from `energy` (2026-09-27, T-302)
+Filed by the director after the parallel run. Full sourced text is in `research/research-energy.md` under the T-302 PATCH named in each item.
+- slavery-freedom / elements, era 1700-1750: search summary says the Schuyler family relied on enslaved laborers in the Schuyler copper mine (Montclair State University "Slavery in Mid-18th-Century New Jersey" part 3, page now 404). Unconfirmed. Energy bank era 05 SNF 2026-09-29.
+
+## Parked from `technology` (2026-09-27, T-303)
+Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
+- `slavery-freedom` (eras 5-6): Solomon Northup's cotton-picking passages with exact quotes and lash counts. research-technology.md, "PATCH 2026-09-29 (T-303a): what 'violence' meant...".
+- `slavery-freedom` / `work-workers` (era 4): Patapsco land (Susquehannock, Piscataway, 1652 treaty) under the Baltimore Iron Works.
+
+## Parked from `home-family` (2026-09-27, T-304)
+Filed by the director after the parallel run. Full sourced text is in `research/research-home-family.md` under the T-304 PATCH named in each item.
+- native-nations / slavery-freedom: Florida Museum "First Contacts" page (opened 2026-09-29) confirms Menendez's ~800 colonists included 26 women and an unknown number of enslaved Africans, and that Seloy's council house was the first Spanish fort. Plymouth 400, Inc. (opened) gives Hunt's 1614 capture as 20 from Patuxet and 7 from Nauset. Full text: research-home-family.md, eras 02 and 03 T-304a PATCHes.
+
+## Parked from `migration` (2026-09-27, T-307)
+Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
+- slavery-freedom: the Weeping Time now appears briefly in migration era 07 (forced-movement angle). slavery-freedom leads.
+
+## Parked from `money` (2026-09-27, T-308)
+Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
+- economy / slavery-freedom: Baptist's "bankruptcy-driven sales" wording and the do-not-cite status of Murphy's 2017 Yale draft, research-money.md era 6.

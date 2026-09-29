@@ -73,7 +73,7 @@ None.
 - Personification repaired throughout: "the railroads split the continent into time zones" became railroad managers; Safety Appliance Act "forced" became members of Congress passed; companies hiring/buying became managers.
 - Era 4 Paxton killings (1763) told in the 1700-1750 Conestoga span, signaled with its date, because the wagon's name is there.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - `migration` / `native-nations`: none new.
 - Bank hygiene for the audit: research-transportation.md line under "## 7" Ten-Mile Day still says the three men carried "the last rails" that day; the T-305a PATCH corrects it.
 

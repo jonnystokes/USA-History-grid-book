@@ -516,3 +516,7 @@ skeleton**; measured body burdens ran **1 to 180 micrograms**. (PMC10046820.)
 Filed by the director after the parallel run. Full sourced text is in `research/research-war.md` under the T-259 PATCH named in each item.
 Full sourced text is in `research/research-war.md` under the T-259b PATCH named. Pointer lines only:
 - `america-world` / `elements` / `health`, era 9: Castle Bravo 1 Mar 1954, Rongelap fallout "looked like snow", 23 Lucky Dragon fishermen (National Security Archive 2024). Ivy Mike obliterated Elugelab (atomicarchive).
+
+## Parked from `energy` (2026-09-27, T-302)
+Filed by the director after the parallel run. Full sourced text is in `research/research-energy.md` under the T-302 PATCH named in each item.
+- slavery-freedom / elements, era 1700-1750: search summary says the Schuyler family relied on enslaved laborers in the Schuyler copper mine (Montclair State University "Slavery in Mid-18th-Century New Jersey" part 3, page now 404). Unconfirmed. Energy bank era 05 SNF 2026-09-29.

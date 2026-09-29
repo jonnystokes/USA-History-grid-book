@@ -4907,3 +4907,11 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `styles` (2026-09-27, T-272)
 Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
 - `native-nations` / `religion`, era 08: Commissioner William A. Jones's haircut order, January 11, 1902 (quotes on hair, paint, "Indian costume and blanket", dances), rations withheld, report by June 30, 1902. Charles Burton (Hopi and Navajo) "whips, guns, and sheep shears" (Wenger, We Have a Religion, via ICT 2015). Slate 2013.
+
+## Parked from `landmarks` (2026-09-27, T-301)
+Filed by the director after the parallel run. Full sourced text is in `research/research-landmarks.md` under the T-301 PATCH named in each item.
+- religion / native-nations: NPS San Geronimo de Taos page confirms Popé planned the 1680 Pueblo Revolt from Taos and the Spanish were out until 1692 (research-landmarks.md, era 03 T-301a PATCH).
+
+## Parked from `migration` (2026-09-27, T-307)
+Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
+- native-nations / religion: this chapter now carries short versions of Acoma 1599 and the 1838-1846 Missouri/Illinois violence, copied from those banks. Check for overlap at audit.

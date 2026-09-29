@@ -358,3 +358,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `styles` (2026-09-27, T-272)
 Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
 - `home-family`, era 03: the Mary Ring inventory page (histarch.illinois.edu/plymouth/Pring.html) now loads. Full clothing lines and Caleb Johnson's notes are in research/research-styles.md, Era 03, if home-family wants the household lines too.
+
+## Parked from `food-farming` (2026-09-27, T-306)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-306 PATCH named in each item.
+- migration / home-family: if either chapter quotes "we will all be poor here together" as Mattie Oblinger's, LOC gives it to Uriah (letter of Dec 1, 1872). Collection is 318 letters, 1862-1911. See research-food-farming.md PATCH 2026-09-29 (T-306a): the Oblinger letters.

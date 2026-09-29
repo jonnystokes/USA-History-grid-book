@@ -508,3 +508,15 @@ Filed by the director after the parallel run. Full sourced text is in `research/
   briefly here as play; the director decides which chapter leads.
 - `migration`: The Oregon Trail game (first played 3 Dec 1971, Minneapolis; Rawitsch, Heinemann, Dillenberger). Told
     briefly here as play; the director decides which chapter leads.
+
+## Parked from `landmarks` (2026-09-27, T-301)
+Filed by the director after the parallel run. Full sourced text is in `research/research-landmarks.md` under the T-301 PATCH named in each item.
+- native-nations / migration: the 1831 Treaty of Lewistown was made by US commissioner James B. Gardiner (OSU Tribal Treaties Database); the 1832 march leaders were not found (research-landmarks.md, era 01 T-301a PATCH and SEARCHED, NOT FOUND).
+
+## Parked from `transportation` (2026-09-27, T-305)
+Filed by the director after the parallel run. Full sourced text is in `research/research-transportation.md` under the T-305 PATCH named in each item.
+- `migration` / `native-nations`: none new.
+
+## Parked from `food-farming` (2026-09-27, T-306)
+Filed by the director after the parallel run. Full sourced text is in `research/research-food-farming.md` under the T-306 PATCH named in each item.
+- migration / home-family: if either chapter quotes "we will all be poor here together" as Mattie Oblinger's, LOC gives it to Uriah (letter of Dec 1, 1872). Collection is 318 letters, 1862-1911. See research-food-farming.md PATCH 2026-09-29 (T-306a): the Oblinger letters.

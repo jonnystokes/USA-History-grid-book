@@ -64,7 +64,7 @@ measured: stage=RESEARCHED eras=10/10 stories=11 (v11 c0 t0) verify_tags=0 bank=
 - era 01: bank credits NPS with naming Karuk, Yurok and Hupa. The NPS page names none of them. Prose uses the Forest Service study (Karuk, Yurok) and leaves Hupa out.
 - era 02: outline calls the horse "the first new power source"; the 1598 mill is the first water power. Oñate colony size left out (two counts, 400 men vs 600).
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - native-nations / exploration, era 1500s: NPS says de Soto's men took all the food at Hymahi and de Soto burned at least one inhabitant to death while questioning them about Cofitachequi (energy bank era 02 PATCH 2026-09-29, NPS Congaree page). Energy tells it in one sentence.
 - crime-justice, era 1850-1900: Kemmler v. Durston, full sourced account (crime, 1888 law, appeals, execution) in energy bank era 07 PATCH 2026-09-29 (NY Courts Historical Society, Smithsonian).
 - slavery-freedom / elements, era 1700-1750: search summary says the Schuyler family relied on enslaved laborers in the Schuyler copper mine (Montclair State University "Slavery in Mid-18th-Century New Jersey" part 3, page now 404). Unconfirmed. Energy bank era 05 SNF 2026-09-29.
