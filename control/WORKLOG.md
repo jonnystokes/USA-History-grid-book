@@ -3315,3 +3315,8 @@ NOTE (Jon): PAUSE after T-301b finishes. No new dispatches until Jon says.
 
 ### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-301b. landmarks PASSES prose. Nothing in flight.
 NOTE (Jon, 78%): run ONE agent (T-302b), then PAUSE.
+
+### 2026-09-27 | [LOCAL] T-302b | energy: writer B: eras 8-10 prose (part3), completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-302-energy.md
+VERIFY: python tools/project_state.py --check energy --stage prose
