@@ -3266,9 +3266,11 @@ CHECKPOINT: control/checkpoints/T-304-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
 
 ### 2026-09-27 | [LOCAL] T-305a | transportation: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-305-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+RESULT: LANDED. FAIL  transportation / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=7616w files=2 validator_errors=0
+        274200 tokens, 134 tool uses, 13.1 min (opus). Writer A: part1 (~2,800w, 3 stories) + part2 (~4,660w, 8 stories), validator 0, punct 0/0. 6 gaps PATCHed, 0 not found, 9 outline claims left out, OPEN none. Fixed: Grandy's ending, the Promontory rail crew (not Ten-Mile Day), Wells 'dragged', false 'first wheels', 1867 strike ending, institution-as-actor lines.
 
 ### 2026-09-27 | [LOCAL] T-306a | food-farming: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: LANDED
