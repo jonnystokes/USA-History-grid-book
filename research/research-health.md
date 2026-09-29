@@ -983,3 +983,40 @@ Full sourced text for each item is in `research/research-news-communication.md` 
 ## Parked from `art` (2026-09-28, T-267c)
 
 - Era 09. AIDS Memorial Quilt: each panel three by six feet, about the size of a grave. "At that time many people who died of AIDS-related causes did not receive funerals, due to both the social stigma of AIDS felt by surviving family members and the outright refusal by many funeral homes and cemeteries to handle the deceased's remains" (Wikipedia "NAMES Project AIDS Memorial Quilt"). First display October 11, 1987, 1,920 panels; October 1996 last full display, about 1.2 million visitors; now nearly 50,000 panels for more than 110,000 people (National AIDS Memorial, read 2026-09-28). Robert Mapplethorpe died of AIDS complications March 9, 1989. Keith Haring was diagnosed with AIDS in 1988 and died February 16, 1990. Art bank era 09.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `health`, era 10: Parton's $1 million to Vanderbilt (spring 2020) and the NEJM acknowledgment of the Dolly Parton COVID-19 Research Fund; US agencies about $2.5 billion to Moderna (USA Today fact check, Nov. 26, 2020; Fortune, Aug. 26, 2026). Zoe Keating's husband: Anthem denied, then reversed, coverage, 2014 (Wikipedia). DJ Kool Herc uninsured, hospital deposit request, 2011 (Wikipedia via The Source).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `health`, era 02: Elvas (Gutenberg #34997) on Cofitachequi: "a plague in that country" two years before 1540, towns "dispeopled, and overgrown with grass" (health already tells this, verify their quote against this text).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `health`, era 10: Broadway closure by Governor Cuomo's order at 5 p.m. March 12, 2020, 41 theatres dark 18 months, *Pass Over* first back August 4, 2021; theatres' lowest weekend since 1998 (March 13 to 15, 2020).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `health`, era 2000-today: ADHD parent-reported diagnosis 7.8% (2003), 9.5% (2007), 11% (2011) ages 4-17 (Visser 2014,
+    PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+    current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+    obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+    2023) with BU's selection-bias caution.

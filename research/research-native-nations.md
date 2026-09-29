@@ -679,3 +679,81 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `art` (2026-09-28, T-267d)
 
 Era 10. NAGPRA counts, newest: National NAGPRA Program (NPS), *Fiscal Year 2025 Report*, published May 29, 2026 (https://npshistory.com/publications/diversity/nagpra/ann-rpt/2025.pdf): since 1990, 222,824 Native American human remains reported. 142,389 (nearly 64%) have completed the process ("rights resolved by public notice," not the same as physically returned). 80,435 still pending consultation or notice as of Sept. 2025, held by 381 museums and 104 federal agency units. About 4.8 million associated funerary objects reported, over 4.1 million complete, 643,352 pending. 46% of museums subject to NAGPRA had resolved rights to all remains they hold. 767 notices published in FY2025, a record. FY2024 report (Nov. 6, 2024): 216,804 reported, 126,299 complete, 90,505 pending. Museum responses to the Jan. 12, 2024 rule (AMNH halls closed Jan. 27, 2024, Peabody, Field, Met, Cleveland): `research/research-art.md` era 10.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `native-nations`, era 03 (1600s), Charleston 1672: the Etiwan people were paid with trade goods to leave the Charleston peninsula (Oyster Point), probably mid-Jan to mid-Feb 1672, after the Grand Council chose it for the town; Maurice Mathews in 1680: settlers "with our owne consent, and with a valuable consideration payed them too, to remove them from their old habitations." Source: Nic Butler, "Planning Charleston in 1672: The Etiwan Removal," Charleston County Public Library, 2022, https://www.ccpl.org/charleston-time-machine/planning-charleston-1672-etiwan-removal . (Also relevant to `city-building`.)
+- `native-nations` and `religion`, era 07 (1850-1900): Moravian missionaries arrived at Quinhagak, Alaska, in 1885, called Yup'ik masked dancing "heathen rites" and "idol worship," and recruited Native helpers as missionaries; no traditional dancing took place in Quinhagak for over a century, until 2013. Source: *Archaeology* magazine, Sept/Oct 2015, https://archaeology.org/issues/187-1509/features/3558-alaska-yupik-cultural-revival . (This chapter's T-269b should also use it.)
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `native-nations`, era 09: Pawnee boys' braids case (New Rider). The Pawnee were forced to Indian Territory after 1873 (Wikipedia, "Pawnee people").
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `native-nations`, eras 07-08: Federal Cylinder Project (Cultural Survival Quarterly): LOC holds about 10,000 cylinders, nearly 8,000 Native; many sacred songs; Francis La Flesche took Oklahoma singers to Washington so objecting neighbors could not stop the recording. Oglala Lakota Sun Dance cylinders (Fletcher, Mar. 31, 1896; George Fire Thunder, Thunder Bear) returned to the Oglala Sioux Tribe (Indian Country Today, search summary only). Dennison Wheelock (Oneida) Aboriginal Suite, Carnegie Hall, Mar. 28, 1900 (Wikipedia).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `native-nations`, era 07: Sitting Bull's contract, signed June 6, 1885 at the Standing Rock Agency, four-month season, $50 a week, sole right to sell his photographs and autographs, witnessed by agent James McLaughlin and interpreter Joseph Primeau (Fine Books Magazine, May 27, 2026, https://www.finebooksmagazine.com/news/sitting-bulls-1885-buffalo-bill-wild-west-contract-sold-168213 ); bought May 2026 by Naoma Tate for the Buffalo Bill Center of the West (Cowboy State Daily, May 25, 2026). Also: Lakota Wild West wages ($25 a month men, $10 women, "chiefs" $30-60, Cody's 1891 letter), deaths on tour (Chief Hawick, typhoid, Jan 1, 1890; Featherman, smallpox; Wounds One Another, fall from a train in Germany), the 1890 Interior permit ban, 27 Ghost Dancers held at Fort Sheridan and 23 released to Cody in March 1891, Short Bull's words on Wounded Knee ("twenty-three of my own relations were killed") (Sam A. Maddra, PhD thesis, Glasgow 2002, https://theses.gla.ac.uk/3973/ ). Full text in research/research-storytelling-evolution.md ERA 07.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `native-nations` / `religion`, era 08: Commissioner William A. Jones's haircut order, January 11, 1902 (quotes on hair, paint, "Indian costume and blanket", dances), rations withheld, report by June 30, 1902. Charles Burton (Hopi and Navajo) "whips, guns, and sheep shears" (Wenger, We Have a Religion, via ICT 2015). Slate 2013.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `native-nations`, era 08: Cody's 1913 film *The Indian Wars* at Pine Ridge: Interior Secretary Franklin K. Lane authorized more than 1,000 Lakota, 12th Cavalry troops, Gen. Nelson Miles adviser, a few minutes survive, Ben Black Elk: "The government put a ban on it" (*Cowboys & Indians* 2023; *Nebraska History* 1990). Lilian St. Cyr (Ho-Chunk), Carlisle graduate 1902, lead in *The Squaw Man* (1914) (NWHM). Era 09: Iron Eyes Cody (Espera de Corti) exposed 1996 (Wikipedia); Littlefeather 1973 and the 2022 statements. Also `native-nations`/`city-building`: Tongva homeland of the Los Angeles Basin, California recognition 1994, no federal recognition (Wikipedia, "Tongva").
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `education` or `native-nations`, era 1900-1950: after Thorpe's medals were taken, Carlisle student Gus Welch gathered 200+
+    signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+    to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+    here.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `native-nations`, era 01: Mound 72 reanalysis. Thomas Emerson (Illinois State Archaeological Survey) 2016: the two central "Birdman" burials were a man and a woman, surrounded by male-female pairs (Archaeology magazine, Aug 5, 2016). Wikipedia "Mound 72": about 272 people in six episodes, "almost 62 percent" judged sacrificial victims, mound begun about 1000-1050 CE. Full notes in research/research-styles.md, Era 01.
+- `native-nations`, era 03: Northampton deed, Sept 24, 1653, John Pynchon and seven Nonotuck signers (Chickwalloppe, Neneessahalant, Nassicohee, Kiunks, Paquahalant, Assellaquompas, Awonunsk) plus Wutshamin of Nammeleck and Skittomp alias Unkquask of Chicopee, for "100 fathoms of wampum and 10 wool coats". Margaret Bruchac: likely understood as joint use. Source: Bruchac, "From Nonotuck to Northampton", historicnorthampton.org/ntn.html.
+- `native-nations` / `work-workers`, era 03: New Mexico encomienda tribute, one manta or hide plus one fanega of corn per household by the 1660s, cap of 35 encomenderos (Beyond Origins of NM Families). Herrera Horta 1601 testimony: soldiers "took them from the women, who were left naked" (unconfirmed: search summary only, NMHR vol. 89 no. 4).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `native-nations`, era 10: *Reservation Dogs* (August 9, 2021 to September 27, 2023, all-Native writers and directors, Muscogee Nation setting, Okmulgee); *Killers of the Flower Moon* Osage consultation (about 200 Osage people, at least 40 Osage actors, Christopher Côté language teacher and his criticism, Brandy Lemon liaison, Chief Geoffrey Standing Bear); Lily Gladstone firsts (January 2024). Their outline line 225 already names the film.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `native-nations`, era 2000-today: Haudenosaunee passports refused by the UK, 2010 World Lacrosse Championship; delay in
+    2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.

@@ -636,3 +636,17 @@ All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T
 - `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
 - `big-business`, 1950-2000: OxyContin approval, Curtis Wright IV's label and move to Purdue, "less than one percent," 670,000 to 6.2 million prescriptions 1997-2002, Richard Sackler president 1999 (Wikipedia "Purdue Pharma"). Bank era 09.
 - `big-business` and `crime-justice`, 2000-today: Purdue sentenced 28 Apr 2026 by Judge Madeline Cox Arleo, $5.5 billion, $225 million collected, "Your government failed you," Ed Bisch and Alexis Pleus (CNBC/Reuters 29 Apr 2026); Purdue shut down 1 May 2026, Knoa Pharma, Sackler payment schedule (NY AG 1 May 2026); AlixPartners $10.7 billion; Harrington v. Purdue 27 Jun 2024; national settlements (distributors $21B, J&J $5B, Teva, Allergan, CVS, Walgreens, Walmart). Refreshes big-business's 2025 end point. Bank era 10.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `big-business`, era 10: Taylor Swift masters (Ithaca $330M 2019; Shamrock $405M 2020; Braun/Ithaca profit about $265M; Swift bought back May 30, 2025); Dylan catalog to UMPG Dec. 2020 (>$300M, NYT estimate); Parton catalog valuation about $220-232M, Sony owns her RCA-era masters (Billboard, Aug. 28, 2026); Live Nation-Ticketmaster (merged 2010) and Eras Tour ticketing scrutiny; RIAA v. Suno/Udio settlements.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `big-business`, era 08: the eight majors (Big Five with theatre chains: MGM/Loew's, Paramount, Warner Bros., 20th Century-Fox, RKO; Little Three: Columbia, Universal, United Artists); 15,000 theatres by 1939; Paramount case decided May 4, 1948, filed July 20, 1938; De Havilland v. Warner Bros., December 8, 1944 (Wikipedia). Era 09: Desilu bought RKO's studios in late 1957 for about $6 million; Ball sold Desilu to Gulf+Western (agreed 1967, closed 1968) for $17 million (Wikipedia).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `big-business` / `marketplace`, era 10: box office $8.87 billion 2025 vs $11.4 billion 2019, 780 million tickets (Comscore); AMC and Universal 17-day window July 28, 2020; Netflix streaming January 16, 2007, 325 million members 2026.

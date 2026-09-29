@@ -50,7 +50,7 @@ FAIL  drugs-alcohol / research
 | C3 | bank check, eras 9-10 | done | '## BANK CHECK, eras 09 to 10': 1 PATCH (Clarence Busch, the driver who killed Cari Lightner, UPI 1985; outline now names him) + 2 SNF (EVALI liquid makers; cause of highest Native overdose rate) + firsts and perishables list |
 | C4 | final: every era's progress= flag, hb-note Status, validator, research check | done | all 10 eras progress=researched; hb-note Status RESEARCHED; validator 0 errors; research check PASS |
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 All sourced text is in `research/research-drugs-alcohol.md` under '# THE BANK: T-266c'.
 - `big-business` and `health`, 1950-2000: Jeffrey Wigand (Brown & Williamson, fired 24 Mar 1993, deposition late Nov 1995, 60 Minutes 4 Feb 1996, ammonia and nicotine, 500-page dossier; The Insider 1999) is told here as a story. Bank era 09.
 - `big-business`, 1950-2000: OxyContin approval, Curtis Wright IV's label and move to Purdue, "less than one percent," 670,000 to 6.2 million prescriptions 1997-2002, Richard Sackler president 1999 (Wikipedia "Purdue Pharma"). Bank era 09.

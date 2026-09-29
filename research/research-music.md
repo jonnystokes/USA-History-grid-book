@@ -908,3 +908,28 @@ Era 10 (2000-today). The Kennedy Center, 2025-2026 (performing arts, so not in `
 - Dec. 18, 2025: the board voted to rename it "The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts." The center called the vote unanimous. Rep. Joyce Beatty, an ex officio trustee, said she was muted on the call and that the item was not on the agenda (same).
 - May 2026: in *Beatty v. Trump*, Judge Christopher Cooper ruled that "Congress gave the Kennedy Center its name, and only Congress can change it," ordered Trump's name removed from the facade within two weeks, restored Beatty's vote, and blocked a two-year closure. The Justice Department appealed (search summaries of CNBC, May 29, 2026, and ABC News, unconfirmed: search summary only). A tarp covered the signage on June 15, 2026 (NPR photo caption, below).
 - Sept. 15, 2026: minutes after Judge Cooper again blocked restoring Trump's name, the board voted to close the center. Administrators had told the board the main building was unsafe and the finances "within weeks" of bankruptcy. Trump wrote that renovation would not begin unless the D.C. Circuit ruled for the board's name. The REACH extension, the National Symphony Orchestra, the Kennedy Center Honors and the Mark Twain Prize were to continue. Ticket sales had fallen and many artists had cancelled, saying the center had become politicized (NPR, Anastasia Tsioulcas, Sept. 15, 2026, https://www.npr.org/2026/09/15/nx-s1-5969905/kennedy-center-closing-trump-name). Perishable: re-check before prose.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  enslaved people "collected themselves into the School-Room, & began to play the Fiddle, & dance" with the Carter
+  boys Ben and Harry, and Fithian "dispersed them"; 3 Feb 1774 "several Negroes & Ben, & Harry are playing on a Banjo
+  & dancing." Full text in research/research-sports-play.md, Era 05.
+  plaid for, by any number of Country Fiddlers, (MR. LANGFORD'S SCHOLARS EXCEPTED)" at Page's Warehouse (Virginia
+  Gazette 26 Nov 1736, transcribed at frontporchrockernews.blogspot.com; date confirmed by Stanard, VMHB 2 (1894) p.
+  300, and Breen, WMQ 1977). Mount Vernon's racing article adds a fiddling contest at John Pinkerton's Old Field
+  races, Nov 1737. Full text in research/research-sports-play.md, Era 04.
+  William Griffin and wife, Richard Michell and wife, 40s each) and June 1679 (six men incl. John Holbrooke and his
+  servant Patricke). Records of the Colony of New Plymouth, archive.org recordsofcolonyo0304newp / 0506newp.
+- `music`, era 1750-1800: Fithian journal (archive.org vickersfithianat00fithrich), Nomini Hall, Virginia: 29 Jan 1774
+    enslaved people "collected themselves into the School-Room, & began to play the Fiddle, & dance" with the Carter
+    boys Ben and Harry, and Fithian "dispersed them"; 3 Feb 1774 "several Negroes & Ben, & Harry are playing on a Banjo
+    & dancing." Full text in research/research-sports-play.md, Era 05.
+- `music`, era 1700-1750: Hanover County, Virginia, St. Andrew's Day (30 Nov) 1736: "A fine Cremona Fiddle to be
+    plaid for, by any number of Country Fiddlers, (MR. LANGFORD'S SCHOLARS EXCEPTED)" at Page's Warehouse (Virginia
+    Gazette 26 Nov 1736, transcribed at frontporchrockernews.blogspot.com; date confirmed by Stanard, VMHB 2 (1894) p.
+    300, and Breen, WMQ 1977). Mount Vernon's racing article adds a fiddling contest at John Pinkerton's Old Field
+    races, Nov 1737. Full text in research/research-sports-play.md, Era 04.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `music`, era 07: Aiken's *Uncle Tom's Cabin* played Foster's "Old Folks at Home" as Tom is sold down the river (Wikipedia "Tom show"); Billy Kersands's "Old Aunt Jemima" (texts 1875, 1880) and his pay ($15 a week 1879, $80 by 1882, up to $250 in Europe) (Wikipedia "Billy Kersands," citing Toll 1974). No conflict found with music's shared minstrelsy facts (Rice 1828-1832, Virginia Minstrels Jan 31, 1843).

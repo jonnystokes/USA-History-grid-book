@@ -2684,3 +2684,25 @@ Full sourced text for each item is in `research/research-news-communication.md` 
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `government-politics`, era 1750-1800: J. L. Bell, Boston 1775 (Nov 2015): Stamp Act crowds of Aug 1765 used Pope's Night rituals; Sheriff Stephen Greenleaf detained Ebenezer Mackintosh after the 26 Aug riot against Lt. Gov. Hutchinson, then released him; Mackintosh and Henry Swift's union of 5 Nov 1765 (John Boyle's diary).
+
+## Parked from `government-politics` (2026-09-27, T-258)
+Filed by the director after the parallel run. Full sourced text is in `research/research-government-politics.md` under the T-258 PATCH named in each item.
+- (T-258 listed nothing here.) T-258r filed its own parking to `research/research-crime-justice.md` under "## Parked from `government-politics` (2026-09-27, T-258r)": FILED.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `government-politics`, era 10: Music Modernization Act (House April 25, 2018; Senate unanimous Sept. 19, 2018; signed by Trump Oct. 11, 2018; Pub. L. 115-264) (Wikipedia). Kennedy Center: Beatty v. Trump; Judge Christopher Cooper; board closure vote Sept. 15, 2026; Floca filing extending closure to Sept. 30, 2026 (NPR; WTOP).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `government-politics` and `war`, era 07: Ford's Theatre after April 1865: the federal government bought it in 1866, Secretary of War Edwin Stanton had it made into offices (Army Medical Museum), an interior collapse killed 22 workers in 1893, first play again in 1968 (fords.org, "History of Ford's Theatre"). Britannica on the attack: box unguarded, outer door barred, one shot with a .44 derringer, Rathbone slashed, leap to the stage, disputed words ("Sic semper tyrannis" / "The South is avenged!").
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `government-politics`, era 08: Federal Theatre Project: Rep. J. Parnell Thomas, July 26, 1938 ("one more link in the vast and unparalleled New Deal propaganda machine"); Hallie Flanagan the first witness before the Dies Committee, December 6, 1938; funding ended June 20 (*First Amendment Encyclopedia*) or June 30 (Wikipedia), 1939, 8,000 jobs. Era 09: HUAC 1947: 42 subpoenas, House vote 346 to 17 on November 24, 1947, Waldorf Statement November 25, 1947 (Eric Johnston), the Hollywood Ten named, prison 1950; McGranery revoked Chaplin's re-entry permit September 19, 1952; Robeson's passport withdrawn 1950, his 1956 HUAC words (Britannica).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `government-politics` (or `technology`), era 10: Tennessee ELVIS Act signed March 21, 2024; California AB 2602 and AB 1836 signed September 17, 2024; NO FAKES Act unpassed as of September 2026.

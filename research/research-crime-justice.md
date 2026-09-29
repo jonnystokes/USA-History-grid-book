@@ -1701,3 +1701,79 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 - Era 09. Michael Stewart, 25, a Black graffiti artist, was arrested by New York City Transit Police officers at the First Avenue station on September 15, 1983, for writing graffiti. He went into a coma in custody and died September 28, 1983, after 13 days. The medical examiner Elliot M. Gross gave cardiac arrest, a finding disputed. Six officers were tried for criminally negligent homicide, assault and perjury and acquitted by an all-white jury on November 24, 1985. A civil suit against eleven officers and the MTA settled for $1.7 million (Wikipedia "Death of Michael Stewart"). The painter Jean-Michel Basquiat made *Defacement (The Death of Michael Stewart)* in response (same). The officers' names were not collected. Art bank: research-art.md era 09.
 - Era 09. Henry Dumas, a poet and novelist, "had been shot to death by a transit officer in the New York City Subway" in 1968. Toni Morrison later published his work (Wikipedia "Toni Morrison"). Officer and circumstances not researched.
 - Era 08. Kern County, California, August 1939: the Board of Supervisors voted 4 to 1 to ban *The Grapes of Wrath* from county libraries and schools; Clell Pruett burned a copy for a photographer at Bill Camp's request; restored January 1941 (NPR/KVPR 2008; Wikipedia "Gretchen Knief Schenk"). Cincinnati, 1990: the Contemporary Arts Center and its director Dennis Barrie were tried for obscenity over Robert Mapplethorpe's photographs and acquitted October 5, 1990 (Wikipedia "The Perfect Moment"). Art bank era 08 and 09.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `crime-justice`, era 10: Route 91 Harvest festival shooting, Las Vegas, Oct. 1, 2017, 10:05-10:15 p.m.: Stephen Paddock, 64, fired more than 1,000 rounds from the 32nd floor of Mandalay Bay; 58 killed that night, official count 60 (two wounded women died 2019, 2020); at least 413 wounded by gunfire, about 867 hurt; motive never determined; bump stocks banned by DOJ Dec. 2018, ban overturned by the Supreme Court in 2024 (Wikipedia, "2017 Las Vegas shooting").
+- `crime-justice` or `disasters`, era 10: Astroworld, Houston, Nov. 5, 2021: about 50,000 attended; 10 died of compressive asphyxiation; youngest 9 or 10 (CBC says 10, ABC/GMA summaries say 9); Harris County grand jury (DA Kim Ogg) declined to indict Travis Scott and five others incl. Live Nation's Brent Silberstein after a 19-month investigation (CBC News, June 2023).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  enslaved people "collected themselves into the School-Room, & began to play the Fiddle, & dance" with the Carter
+  boys Ben and Harry, and Fithian "dispersed them"; 3 Feb 1774 "several Negroes & Ben, & Harry are playing on a Banjo
+  & dancing." Full text in research/research-sports-play.md, Era 05.
+  plaid for, by any number of Country Fiddlers, (MR. LANGFORD'S SCHOLARS EXCEPTED)" at Page's Warehouse (Virginia
+  Gazette 26 Nov 1736, transcribed at frontporchrockernews.blogspot.com; date confirmed by Stanard, VMHB 2 (1894) p.
+  300, and Breen, WMQ 1977). Mount Vernon's racing article adds a fiddling contest at John Pinkerton's Old Field
+  races, Nov 1737. Full text in research/research-sports-play.md, Era 04.
+  William Griffin and wife, Richard Michell and wife, 40s each) and June 1679 (six men incl. John Holbrooke and his
+  servant Patricke). Records of the Colony of New Plymouth, archive.org recordsofcolonyo0304newp / 0506newp.
+- `crime-justice`, era 1600s: Plymouth Colony card-playing fines, 1663 (John Shilley, 20s, Sunday; Richard Berry,
+    William Griffin and wife, Richard Michell and wife, 40s each) and June 1679 (six men incl. John Holbrooke and his
+    servant Patricke). Records of the Colony of New Plymouth, archive.org recordsofcolonyo0304newp / 0506newp.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `crime-justice`, era 09: Michael Eugene Thomas, 15, strangled May 2, 1989, by James David Martin, 17, near Meade Senior High School, Maryland (federal property), for his $115.50 Air Jordans. Martin pleaded guilty to voluntary manslaughter, 7 years. Wikipedia also records a sexual assault and Martin's later killings. SI cover "Your Sneakers or Your Life", May 14, 1990 (Smith, Jumpman, via Slate).
+- `religion` / `crime-justice`, era 10: Landor v. Louisiana Dept. of Corrections, decided June 23, 2026, 6-3, Gorsuch for the majority, Jackson dissenting (JURIST June 24, 2026).
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `crime-justice`, era 08: Marion, Indiana, August 7, 1930: white mob of 5,000-10,000 broke into the Grant County Jail; Thomas Shipp and Abram Smith, both 19, beaten and hanged; James Cameron, 16, survived, later convicted as accessory (four years), pardoned 1993; NAACP named 27 suspects, all-white juries acquitted the leaders (EJI calendar, Aug. 7).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `immigration` / `crime-justice`, era 07: Ho Ah Kow v. Nunan, 12 F. Cas. 252 (July 7, 1879): 1876 lodging-house (cubic air) law, June 14, 1876 queue ordinance, Sheriff Matthew Nunan, April 1878 conviction and $10 fine. 1873 version vetoed by Mayor William Alvord (SF Sheriff's Office history). Full notes in research/research-styles.md, Era 07.
+- `war` / `crime-justice` / `rights-movements`, era 08: zoot suit attacks June 3 to 8, 1943 (NWWII Museum, Hinnershitz. Wikipedia): more than 150 injured, nearly 600 (or more than 500) Mexican Americans arrested, no soldiers arrested for the beatings, Navy and Marine Corps order June 8, Warren committee finding, Eleanor Roosevelt June 16, 1943 quote. City council resolution: no ordinance ever passed (Wikipedia) vs "banned" (search summaries).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `rights-movements` or `crime-justice`, era 1900-1950: the riots after Johnson-Jeffries, 4 July 1910, 11 to 26 killed
+    (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+    archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+    12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `crime-justice`, era 2000-today: Nassar convictions and sentences (60 years federal, 7 Dec 2017; 40-175 years, Aquilina,
+    24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+    Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.

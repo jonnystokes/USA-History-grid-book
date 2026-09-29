@@ -71,7 +71,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 
 - `native-nations`, era 04: Hesselius painted the Lenape leaders Lapowinsa and Tishcohan for John Penn in 1735; both signed the 1737 Walking Purchase (Colonial Society of Massachusetts, https://www.colonialsociety.org/node/781 ; Wikipedia "Lappawinsoe"). Bank: research-art.md era 04.
 - `slavery-freedom`, era 04: Kühn's portrait of Henry Darnall III, about 1710, Annapolis, shows an enslaved Black boy, unnamed, in a metal collar (Sartle; MCHC title "Unnamed attendant and Henry Darnall III"). The Royalls brought at least 27 enslaved Africans from Antigua to Medford in 1737 (Royall House and Slave Quarters, https://royallhouse.org/the-royalls/).

@@ -70,7 +70,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - `energy` and `native-nations`, era 1950-2000: ACHRE 1995 on uranium miners: "at least several hundred miners died of lung cancer" from radon, and federal officials did not require ventilation or warn the miners. Source: ACHRE Executive Summary, https://ehss.energy.gov/OHRE/roadmap/achre/summary.html. Health bank era 09 PATCH "government radiation experiments on people".
 - `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.
 - `rights-movements`, era 1950-2000: Medicare's 1966 hospital desegregation: almost 1,000 federal volunteer inspectors, 97 percent of acute beds certified by 1 July 1966, inspectors jailed, shot at, crosses burned; W. Montague Cobb the only medical professional at the signing (Smith 2016, PRRAC). Simkins v. Cone, 4th Cir. 1963, cert. denied 1964. Health bank era 09.

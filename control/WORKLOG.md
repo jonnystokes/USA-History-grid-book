@@ -3231,3 +3231,12 @@ CHECKPOINT: control/checkpoints/T-271-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage research
 RESULT: DONE. PASS  sports-play / research. measured: stage=RESEARCHED eras=10/10 stories=19 (v19 c0 t0) verify_tags=0 bank=37727w outline=18481w manuscript=0w validator_errors=0
         403768 tokens, 174 tool uses, 22.9 min (opus). Era 10, chapter COMPLETE. Stories: Kyle 'Bugha' Giersdorf, Rachael Denhollander. Screen time and ADHD only via named studies, phone bans by state, esports, concussions and the NFL settlement, Nassar (FBI agent W. Jay Abbott named from the DOJ IG report), NIL and the House settlement, transgender athlete laws, 2026 World Cup. Florida 'first' phone law removed. 3 searched-not-found. TO PARK 8 chapters.
+
+### 2026-09-29 | [LOCAL] STEP 1 (RESEARCH) COMPLETE
+T-269d storytelling-evolution and T-271d sports-play PASS. MEASURED: 37 chapters | RESEARCHED 30 | WRITTEN 7 |
+stories 684, all verified, 0 candidate, 0 target | banks 1,033,830w. Every chapter passes --stage research.
+All pending TO PARK sections filed (4 passes). MISTAKE FOUND AND FIXED: T-251..T-255's items had been filed on
+2026-09-27 by the first script version, which did not mark sections FILED, so they were filed again; 26 exact
+duplicate sections removed by script (dedupe_parks.py), verified, all outlines validate 0, the 7 written chapters
+still PASS prose. One 'environment' item routed to land-environment by hand.
+NEXT: STEP 2 (writing), per Jon: burst of 8.

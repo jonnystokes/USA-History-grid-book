@@ -4880,3 +4880,30 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `music` (2026-09-27, T-268)
 Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
 - `religion`, eras 02-03: John Koegel, "Music and Christianization on the Northern Frontier of New Spain" (UMN Libraries Publishing): Quiñones at San Felipe Pueblo (d. 1609, organ, trained singers), Bernardo de Marta (c.1605-1635), Figueredo at Zuni 1634, Benavides's supply lists of choir-books and shawms; 1680 revolt killed some 400 settlers including 21 Franciscans.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `native-nations` and `religion`, era 07 (1850-1900): Moravian missionaries arrived at Quinhagak, Alaska, in 1885, called Yup'ik masked dancing "heathen rites" and "idol worship," and recruited Native helpers as missionaries; no traditional dancing took place in Quinhagak for over a century, until 2013. Source: *Archaeology* magazine, Sept/Oct 2015, https://archaeology.org/issues/187-1509/features/3558-alaska-yupik-cultural-revival . (This chapter's T-269b should also use it.)
+- `religion`, era 03 (1600s), if not already present: Franciscan custodian Alonso de Posada forbade Pueblo ceremonies 1656-1665 and ordered missionaries into kivas to burn masks and take sacred objects, under soldiers' protection; 1675 Governor Treviño's arrest of 47 religious leaders (3 hanged, 1 suicide, rest whipped and jailed). Source: Dennis Zotigh, NMAI, Smithsonian Voices, https://www.smithsonianmag.com/blogs/national-museum-american-indian/2026/09/02/pueblo-natives-southwest-launched-first-successful-shortlived-american-revolution/ . (`holidays` bank already carries the same facts.)
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `religion` / `crime-justice`, era 10: Landor v. Louisiana Dept. of Corrections, decided June 23, 2026, 6-3, Gorsuch for the majority, Jackson dissenting (JURIST June 24, 2026).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Minerva* obituary reproduced in the National Museum of Racing's *Forgotten Foundation* packet is dated 5 January 1808
+  and reads "On the 10th ult. at Halifax (N.C.) AUSTIN JONES ... aged about 50 years", i.e. died 10 December 1807.
+  T-271b did not change era 05 (outside its eras). Full note in the bank, Era 06, "Correction note for era 05".
+  formal ban on the inclusion of black players and clubs" after the Pennsylvania association's ruling (Wikipedia
+  "Baseball color line"). The Pythian club and Octavius Catto are told in no chapter (grep 2026-09-28); not researched.
+  class leaders Wright Fairbanks and Garrison West "with sticks and stones" (Douglass, *Narrative*, 1845, ch. X; full
+  text in research/research-sports-play.md, Era 06).
+  from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
+- `education` or `religion`, era 1800-1850: Douglass's Sunday school at St. Michael's, Maryland, broken up by the
+    class leaders Wright Fairbanks and Garrison West "with sticks and stones" (Douglass, *Narrative*, 1845, ch. X; full
+    text in research/research-sports-play.md, Era 06).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `native-nations` / `religion`, era 08: Commissioner William A. Jones's haircut order, January 11, 1902 (quotes on hair, paint, "Indian costume and blanket", dances), rations withheld, report by June 30, 1902. Charles Burton (Hopi and Navajo) "whips, guns, and sheep shears" (Wenger, We Have a Religion, via ICT 2015). Slate 2013.

@@ -48,7 +48,7 @@ Keep slugs unique across the book.
 Perishable: every 2000-today figure. Date each and refresh to 2026 where a newer official figure
 exists.
 
-## TO PARK (for the director to file after the parallel run)
+## PARKED EARLIER (FILED by the director)
 - **health, era 1900-1950 and 1950-2000:** the Puerto Rico Law 116 sterilization material. Copy the bank section "PATCH 2026-09-27 (T-254): sterilization of Puerto Rican women (\"la operación\")" from research/research-america-world.md (sources: HNN / Jaquira Díaz; DIG podcast with Briggs and López cited). Health owns the medicine and clinics; america-world keeps the US-appointed-government angle.
 - **war, era 1500s:** Menéndez's own letter to Philip II, 15 Oct 1565 (trans. Eugene Lyon), https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/ : 132 throats cut at Fort Caroline plus 10 next day; "I had their hands tied behind them and put them to the knife"; 16 spared (12 Breton seamen, 4 craftsmen). war's bank 2.4 has the NPS counts but may lack the letter. Copy from america-world bank era 02 PATCH.
 - **war, era 1900-1950:** the water cure at Igbaras (Kramer, New Yorker, author's PDF) and Waller's shooting of eleven guides. Copy from america-world bank era 08 PATCH "the water cure".

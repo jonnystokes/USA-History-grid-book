@@ -569,3 +569,21 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 
 - Era 06: John James Audubon's slaveholding, from the historian Gregory Nobles (*Audubon* magazine, July 31, 2020, https://www.audubon.org/news/the-myth-john-james-audubon): nine enslaved people in the Audubon household in Henderson, Kentucky, in the 1810s, sold by the end of the decade; in early 1819 he took two enslaved men down the Mississippi to New Orleans and put the boat and the men up for sale; more bought in the 1820s and sold in 1830; in 1834 he called British emancipation in the West Indies "imprudently and too precipitously" done. No names in the source.
 - Era 06-07: Dave (David Drake), enslaved potter of Edgefield, South Carolina, held by Harvey Drake, Reuben Drake, the Rev. John Landrum, Franklin Landrum and Lewis Miles; South Carolina's 1834 law against teaching enslaved people to read; his inscriptions, including "Dave belongs to Mr. Miles / wher the oven bakes and the pot biles" (July 31, 1840) and "I wonder where is all my relation" (Aug 16, 1857) (SAAM 2023; Charleston Museum; Smithsonian magazine). `art` tells him as a story (slug `dave-drake`).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `rights-movements` (or `slavery-freedom`), era 06: New York police arrested the African Company's actors during a performance and released them only on a promise to stop playing Shakespeare; Mordecai Noah's warning that free Black New Yorkers might "outvote the whites" (MacDonald, Folger 2024, citing McAllister 2003).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `slavery-freedom`, era 06: Madelyn Shaw, "Slave Cloth and Clothing Slaves", MESDA Journal 2012 (mesdajournal.org): yearly clothing allowances (Stephen Duncan's Carlisle plantation, John Potter 1,800 yards for 400 people), named enslaved cloth makers ("Aunt Liza" wove 9 to 10 yards a day for 160 people, Bram, Louis Hughes), 17 of 40 Rhode Island mills making negro cloth by 1845. Full notes in research/research-styles.md, Era 06.
+- `slavery-freedom`, era 07: Elizabeth Keckley bought her and her son George's freedom for $1,200, freed November 15, 1855, loan raised by Mrs. Le Bourgeois (Keckley, Behind the Scenes, 1868, DocSouth. Wikipedia). She founded the Contraband Relief Association, August 1862. Not told elsewhere in the book except styles.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `rights-movements` (and `slavery-freedom`), era 08: *The Birth of a Nation* protests: Boston, April 10 and 17, 1915, William Monroe Trotter and ten others arrested at the Tremont Theatre, 260 police, Faneuil Hall rally; NAACP secretary Mary Childs Nerney's April 17, 1915 letter ("six weeks of constant effort ... gotten nowhere"); denied in Ohio, Chicago, Denver, Pittsburgh, St. Louis, Minneapolis, Cedar Rapids first of twelve mayors; Dixon to Wilson, September 5, 1915 ("There will never be an issue of your segregation policy") (Wikipedia; Britannica). Also the 1945 West Adams Heights covenant suit against 31 Black homeowners including Hattie McDaniel, thrown out by Judge Thurmond Clarke (Wikipedia, "Hattie McDaniel").
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `slavery-freedom`, era 04: 1745 Virginia Gazette runaway ads with names and clothing (Jack and an unnamed companion from Gambia, owner Margaret Arbuthnott, Oct 3-10, 1745. Sawney, Gloucester Co., John Matthews, Sept 5-12, 1745. Will, Hanover Co., Aaron Trueheart, Sept 19-26, 1745), from UVA Geography of Slavery allAds.xml. Also Negro Act section XL full text (McCord vol. 7 p. 397).

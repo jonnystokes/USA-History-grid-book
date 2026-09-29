@@ -424,3 +424,21 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `music` (2026-09-27, T-268)
 Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
 - `migration`, era 06: Newport Gardner led about 30 (Millar) or about three dozen (Andrews) Black New Englanders to Liberia, sailing late December 1825 or 4 January 1826; he died there in 1826.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `migration`: The Oregon Trail game (first played 3 Dec 1971, Minneapolis; Rawitsch, Heinemann, Dillenberger). Told
+    briefly here as play; the director decides which chapter leads.

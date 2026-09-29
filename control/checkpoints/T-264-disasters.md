@@ -18,7 +18,7 @@ NEXT:   Chapter disasters research complete (research PASS 2026-09-27). Next sta
 | 11 | bank check eras 9-10 | done | PATCHes: Audrey warnings, Air Florida pilots named, Kerr County 2016 siren refusal (Baldwin quote), actors per event, land (Chenega, Lahaina, west Altadena), firsts, perishables. 2 SEARCHED NOT FOUND (Pittston charges; Chicago warning decision-makers). Outline sentences added for Audrey, pilots, Kerr County. |
 | 12 | final: progress= flags for all ten eras, hb-note Status, validator, research check | done | all ten progress=researched; hb-note Status updated; eras 9-10 0 em dashes, 0 semicolons; validator 0 errors; research PASS |
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 
 (STATUS for the director: five items below, all sourced in research/research-disasters.md eras 09-10.)
 

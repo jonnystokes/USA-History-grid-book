@@ -303,3 +303,25 @@ Jon wants the cooking story told as fun daily-life history. home-family leads "h
 - The arc: open-hearth cooking (dangerous, endless fuel chores; women's clothing catching fire as a real documented hazard) → the cast-iron stove (already in our 1800-1850 era) → the gas range (city homes on town gas, late 1800s) → **propane brings gas cooking to the countryside** (Walter O. Snelling, Bureau of Mines chemist, bottled propane ~1910-12 — an American story) → the electric range (nichrome heating element, Albert Marsh 1905, made electric cooking practical) → **the microwave oven** (Percy Spencer, Raytheon 1945: radar magnetron melts the chocolate bar in his pocket; Radarange 1946-47 restaurant-sized; Amana home model 1967; near-universal by the 1990s).
 - Fun candidates to verify: the pop-up toaster (Toastmaster 1926); the Weber kettle grill (George Stephen 1952) + the propane backyard grill as suburban America; the crock-pot (1971); Teflon pans (1961); the 1950s "kitchen of the future" shows; **the Nixon–Khrushchev "Kitchen Debate" (Moscow 1959) — a Cold War argument held in a model American kitchen** (Shared-with: america-world leads the diplomacy, we lead the kitchen).
 - Story candidates: Percy Spencer (famous — technology leads him, we take the kitchen effect); a documented farm household getting bottled gas (like the REA first-light accounts — search LP-gas industry oral histories); a documented 1950s family and the new appliances.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `home-family`, era 1950-2000: mothers with children under 18 in the labor force, 47% (1975) to 73% (2000) (BLS TED
+    9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `home-family`, era 03: the Mary Ring inventory page (histarch.illinois.edu/plymouth/Pring.html) now loads. Full clothing lines and Caleb Johnson's notes are in research/research-styles.md, Era 03, if home-family wants the household lines too.

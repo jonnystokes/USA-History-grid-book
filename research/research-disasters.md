@@ -840,3 +840,8 @@ Full sourced text is in `research/research-war.md` under the T-259b PATCH named.
 ## Parked from `health` (2026-09-27, T-263)
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `disasters`, era 2000-today: COVID-19 deaths 1,245,791 through 19 Sep 2026 (CDC NCHS provisional, data as of 24 Sep 2026). Health bank era 10.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `crime-justice` or `disasters`, era 10: Astroworld, Houston, Nov. 5, 2021: about 50,000 attended; 10 died of compressive asphyxiation; youngest 9 or 10 (CBC says 10, ABC/GMA summaries say 9); Harris County grand jury (DA Kim Ogg) declined to indict Travis Scott and five others incl. Live Nation's Brent Silberstein after a 19-month investigation (CBC News, June 2023).
+- `disasters`, era 10: 2016 Great Smoky Mountains wildfires: Dolly Parton's My People Fund paid $1,000 a month for six months to more than 900 families, $10,000 each in total; telethon Dec. 13, 2016, about $9 million; UT professor Stacia West studied the payments (Wikipedia, "Dolly Parton"). The fires' death toll was not researched here.

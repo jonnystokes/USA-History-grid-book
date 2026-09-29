@@ -965,3 +965,51 @@ No deaths, expulsions or land-taking occur inside this chapter's era-10 material
 ## Coverage / status log (T-269d)
 
 - 2026-09-28 T-269d: era 10 researched. Outline era 10 rewritten (progress=researched), 10 spans, 4 stories verified: andy-serkis, ashley-johnson (strike participation not found, dropped), NEW alexandria-rubalcaba (ordinary, NPR on-record), NEW ke-huy-quan (Asian American representation). Chapter check PASS.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `storytelling-evolution`, eras 09-10: Dolly Parton's screen work: 9 to 5 (1980), The Best Little Whorehouse in Texas (1982), Rhinestone (1984), Steel Magnolias (1989), Straight Talk (1992), Joyful Noise (2012); TV Dolly! (1976-77), Dolly (1987-88); Emmy for Christmas on the Square (2021); Broadway 9 to 5 (2009, Tony nomination); Dolly: A True Original Musical (2026) (Wikipedia). Kennedy Center 2025-26 (theater): see research/research-music.md, Era 10.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `storytelling-evolution` era 08 (for the next agent, not another chapter): Short Bull appeared in Cody's 1913 film re-enactment of Wounded Knee (Maddra, note 38); Albee's United Booking Office from 1906 (5% commission) and National Vaudeville Artists against the White Rats union (Wikipedia "E. F. Albee"); Tom-show companies still touring in 1927, Players Club revival May 29, 1933 (Moody).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `storytelling-evolution`, era 1900-1950: Payne Fund Studies (13 studies, 1929-1933); Butsch 2001 on children at
+    1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+    chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `storytelling-evolution`, era 2000-today: Minecraft (Nov 2011; 300M copies by Oct 2023), Fortnite (2017), Roblox (2006;
+    85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.

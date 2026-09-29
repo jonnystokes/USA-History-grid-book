@@ -583,3 +583,12 @@ Full sourced text for each item is in `research/research-news-communication.md` 
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `immigration`, era 2000-today: Pew (via NPR, 11 Oct 2025): 30 states and 3 territories recognize Columbus Day in some way, 17 states and DC honor Indigenous people that day. Trump said "We're back, Italians" at the 9 Oct 2025 signing (search summary only).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `immigration` / `crime-justice`, era 07: Ho Ah Kow v. Nunan, 12 F. Cas. 252 (July 7, 1879): 1876 lodging-house (cubic air) law, June 14, 1876 queue ordinance, Sheriff Matthew Nunan, April 1878 conviction and $10 fine. 1873 version vetoed by Mayor William Alvord (SF Sheriff's Office history). Full notes in research/research-styles.md, Era 07.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `immigration`, era 10: Ke Huy Quan, refugee family from Saigon via Hong Kong camp, admitted 1979; "My journey started on a boat" (NBC News, March 15, 2023).

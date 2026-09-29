@@ -252,3 +252,51 @@ Ch27 tells the element discoveries; the machines as machines belong here. Facts 
 
 ## Parked from `home-family` (2026-09-26, T-245): refrigerators in homes, by census count
 - Share of US households with a modern (mechanical) refrigerator: 14 percent in 1930, 44 percent in 1940, 80 percent in 1950 (Emanuela Cardia, "Household Technology: Was it the Engine of Liberation?", NBER Summer Institute paper, July 2008, from 1930-1950 Census data). By 1950 a majority of households had stoves, electric irons, vacuum cleaners, refrigerators and washing machines (Cardia). home-family tells what these did to the household's work. The machines as inventions are yours.
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `technology`, era 10: iPod Oct. 23, 2001; iTunes Store April 28, 2003; Spotify US July 2011; Auto-Tune released Sept. 19, 1997 (Andy Hildebrand); Suno v6 (Sept. 9, 2026) trained on licensed data; 2026 Suno hack showed scraped YouTube Music audio (Wikipedia pages).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `work-workers` / `technology`, era 09: NCpedia oral history of Ardathy Spikes (born 1939, sharecropper's daughter, 36 years at DuPont's Kinston Dacron plant, opened 1953).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `technology`, era 07: Black Maria construction began December 1892 (tar-paper lined, opening roof, rotated on a track); Kinetoscope premiere Brooklyn May 9, 1893; first parlour April 14, 1894, 1155 Broadway, Holland Bros., ten machines; Vitascope first theatrical showing April 23, 1896, Koster and Bial's (Wikipedia "Kinetoscope," "Vitascope").
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `technology`, era 08: Carothers joined DuPont February 6, 1928. Gerard Berchet made the first half ounce of nylon 6-6 on February 28, 1935. Nylon announced October 27, 1938. Nylon Day May 16, 1940 (Spivack, Smithsonian Magazine 2012) vs May 15 (other sites).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `sports-play` and `technology`, era 09: *Tennis for Two*, William Higinbotham, Brookhaven National Laboratory, 1958, three-day exhibition, oscilloscope (Wikipedia; date October 18, 1958 search summary only); *Pong*, Atari, 1972, Allan Alcorn, "first commercially successful video game" (Wikipedia); laserdisc arcade games from 1983 (*Dragon's Lair*).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `government-politics` (or `technology`), era 10: Tennessee ELVIS Act signed March 21, 2024; California AB 2602 and AB 1836 signed September 17, 2024; NO FAKES Act unpassed as of September 2026.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `technology` or `news-communication`, era 2000-today: Pew teens, smartphone 73% (2014-15) to 95% (2022, 2024); online
+    "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+    (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).

@@ -636,3 +636,8 @@ How the prose can say it: "Plymouth police used pepper spray on the marchers and
 
 ## Parked from food-farming research (2026-08-07): a source note for your 1621 [VERIFY]
 - Your 1600s [VERIFY] on "about 90 Wampanoag men present" at the 1621 harvest gathering: the primary source is **Edward Winslow's letter printed in *Mourt's Relation* (1622)**, which mentions Massasoit arriving with about 90 men over three days of feasting. Confirm wording against Plimoth Patuxet Museums' transcription when you research the chapter. (Lead, not a full verification — logged from food-farming's Squanto sourcing, where the 1621 first-harvest date and feast were confirmed in secondary sources.)
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `holidays`, era 04: nothing new; this chapter used the holidays bank's Pinkster and Election Day material (credited).
+- `sports-play` and `holidays`, era 05: Continental Association Article 8 (Oct 20, 1774) text also discourages "horse-racing, and all kinds of games, cock fighting," read from Avalon, https://avalon.law.yale.edu/18th_century/contcong_10-20-74.asp ; Oct 12, 1778 Congress resolution adds "horse racing, gaming" (Malinsky, JAR 2013).

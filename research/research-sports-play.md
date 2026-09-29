@@ -2509,3 +2509,16 @@ No. 24-43**, 609 U.S. ___ (2026), supremecourt.gov/opinions/25pdf/24-43_2b35.pdf
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `sports-play`, era 1950-2000: NFL moved Super Bowl XXVII (1993) from Tempe to Pasadena after Arizona voters rejected a King holiday in Nov 1990; projected $200 million loss (Pima County Public Library; PHOENIX magazine 4 Jan 2023); Arizona hosted Super Bowl XXX in 1996.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `sports-play` and `holidays`, era 05: Continental Association Article 8 (Oct 20, 1774) text also discourages "horse-racing, and all kinds of games, cock fighting," read from Avalon, https://avalon.law.yale.edu/18th_century/contcong_10-20-74.asp ; Oct 12, 1778 Congress resolution adds "horse racing, gaming" (Malinsky, JAR 2013).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `sports-play`, era 09: Air Jordan released April 1, 1985. NBA $5,000-a-game fines. Detroit principal Dr. Robin Oden banned Air Jordans at Mumford High School in 1988 (Wikipedia, citing a 1988 source not opened).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `sports-play` and `technology`, era 09: *Tennis for Two*, William Higinbotham, Brookhaven National Laboratory, 1958, three-day exhibition, oscilloscope (Wikipedia; date October 18, 1958 search summary only); *Pong*, Atari, 1972, Allan Alcorn, "first commercially successful video game" (Wikipedia); laserdisc arcade games from 1983 (*Dragon's Lair*).

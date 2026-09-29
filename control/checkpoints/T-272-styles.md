@@ -50,7 +50,7 @@ for those eras. T-272b does eras 6-10 later (it may be split further).
 | 11 | bank check, eras 09-10 | done | bank section "Bank check, eras 09 to 10": harm/actor/count table, land (Pawnee removal to Indian Territory), firsts, perishable facts refreshed, unconfirmed list. 2 more SEARCHED NOT FOUND (Pawnee students' names, unnamed principal and guards). Era 10 zoom reworded to "more than 1,200 people, most of them garment workers" |
 | 12 | final: every era's progress= flag vs real state, validator, research check | done | all 10 eras progress=researched state=full (matches content). validator 0 errors. PASS styles / research: stories=16 (v16 c0 t0), bank 24824w, outline 16797w |
 
-## TO PARK (T-272c)
+## PARKED EARLIER (FILED by the director)
 - `work-workers`, era 09: El Monte, August 2, 1995: 72 Thai workers, Suni Manasurangkun and sons, 84 hours a week for about $1.60 an hour (PBS SoCal 2015), 5-7 cents a garment (Smithsonian Mag 2020), guilty pleas February 1996, retailers' settlement $4 million (Wikipedia) vs more than $4.5 million (Smithsonian Mag), led to CAST (1998) and the T visa (2000). Named workers: Rotchana Cheunchujit (Sussman), Bunta Boonprasit, Kitcha Phimonsing. Full notes in research/research-styles.md, Era 09.
 - `work-workers`, era 10: CalMatters 2020 (LA piece rates 5-12 cents, $300 a week, Los Angeles Apparel COVID outbreak 375+ infected, 4 dead), SB 62 signed September 27, 2021, in force January 1, 2022 (Durazo release, Remake). Rana Plaza and Tazreen with actors and counts, trial status April 2026 (The Business Standard). Full notes in research/research-styles.md, Era 10.
 - `work-workers` / `technology`, era 09: NCpedia oral history of Ardathy Spikes (born 1939, sharecropper's daughter, 36 years at DuPont's Kinston Dacron plant, opened 1953).
@@ -62,7 +62,7 @@ for those eras. T-272b does eras 6-10 later (it may be split further).
 - `native-nations`, era 09: Pawnee boys' braids case (New Rider). The Pawnee were forced to Indian Territory after 1873 (Wikipedia, "Pawnee people").
 - `sports-play`, era 09: Air Jordan released April 1, 1985. NBA $5,000-a-game fines. Detroit principal Dr. Robin Oden banned Air Jordans at Mumford High School in 1988 (Wikipedia, citing a 1988 source not opened).
 
-## TO PARK (T-272b)
+## PARKED EARLIER (FILED by the director)
 - `slavery-freedom`, era 06: Madelyn Shaw, "Slave Cloth and Clothing Slaves", MESDA Journal 2012 (mesdajournal.org): yearly clothing allowances (Stephen Duncan's Carlisle plantation, John Potter 1,800 yards for 400 people), named enslaved cloth makers ("Aunt Liza" wove 9 to 10 yards a day for 160 people, Bram, Louis Hughes), 17 of 40 Rhode Island mills making negro cloth by 1845. Full notes in research/research-styles.md, Era 06.
 - `slavery-freedom`, era 07: Elizabeth Keckley bought her and her son George's freedom for $1,200, freed November 15, 1855, loan raised by Mrs. Le Bourgeois (Keckley, Behind the Scenes, 1868, DocSouth. Wikipedia). She founded the Contraband Relief Association, August 1862. Not told elsewhere in the book except styles.
 - `immigration` / `crime-justice`, era 07: Ho Ah Kow v. Nunan, 12 F. Cas. 252 (July 7, 1879): 1876 lodging-house (cubic air) law, June 14, 1876 queue ordinance, Sheriff Matthew Nunan, April 1878 conviction and $10 fine. 1873 version vetoed by Mayor William Alvord (SF Sheriff's Office history). Full notes in research/research-styles.md, Era 07.
@@ -87,7 +87,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## PARKED EARLIER (FILED by the director)
 - `native-nations`, era 01: Mound 72 reanalysis. Thomas Emerson (Illinois State Archaeological Survey) 2016: the two central "Birdman" burials were a man and a woman, surrounded by male-female pairs (Archaeology magazine, Aug 5, 2016). Wikipedia "Mound 72": about 272 people in six episodes, "almost 62 percent" judged sacrificial victims, mound begun about 1000-1050 CE. Full notes in research/research-styles.md, Era 01.
 - `native-nations`, era 03: Northampton deed, Sept 24, 1653, John Pynchon and seven Nonotuck signers (Chickwalloppe, Neneessahalant, Nassicohee, Kiunks, Paquahalant, Assellaquompas, Awonunsk) plus Wutshamin of Nammeleck and Skittomp alias Unkquask of Chicopee, for "100 fathoms of wampum and 10 wool coats". Margaret Bruchac: likely understood as joint use. Source: Bruchac, "From Nonotuck to Northampton", historicnorthampton.org/ntn.html.
 - `native-nations` / `work-workers`, era 03: New Mexico encomienda tribute, one manta or hide plus one fanega of corn per household by the 1660s, cap of 35 encomenderos (Beyond Origins of NM Families). Herrera Horta 1601 testimony: soldiers "took them from the women, who were left naked" (unconfirmed: search summary only, NMHR vol. 89 no. 4).

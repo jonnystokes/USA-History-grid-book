@@ -49,7 +49,7 @@ Keep slugs unique across the book.
 Perishable: every 2000-today figure. Date each and refresh to 2026 where a newer official figure
 exists.
 
-## TO PARK (for the director to file after the parallel run)
+## PARKED EARLIER (FILED by the director)
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `slavery-freedom`, 1700-1750: Wall Street slave market, New York Common Council law of Nov 30, 1711, used to 1762; ~750 of ~5,000 New Yorkers enslaved in 1700 (WNYC, Apr 14, 2015). Bank PATCH "the market where people were sold".
 - `slavery-freedom`, 1700-1750: Franklin's *Pennsylvania Gazette* printed at least 277 ads offering at least 308 enslaved people; the printer was middleman (Adam Smyth, *Smithsonian Magazine*, June 2024).

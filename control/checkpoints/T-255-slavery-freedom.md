@@ -48,7 +48,7 @@ Keep slugs unique across the book.
 Perishable: every 2000-today figure. Date each and refresh to 2026 where a newer official figure
 exists.
 
-## TO PARK (for the director to file after the parallel run)
+## PARKED EARLIER (FILED by the director)
 - **native-nations, era 10 (2000-today):** Grand Teton National Park confirmed in July 2026 that a sign documenting a U.S. Army massacre of 170 Blackfeet Nation women and children will not go back up, after the First Circuit on July 2, 2026 paused Judge Angel Kelley's June 12, 2026 order to restore removed park exhibits. (Travelers Today, Patricia Graham, July 18, 2026, journalism. The massacre itself is not verified here; native-nations should source it.)
 - **rights-movements, era 7 (1850-1900), LGBTQ thread:** Frances Thompson, who testified to Congress in 1866 that she and Lucy Smith were raped by seven white men (three police officers) in the Memphis massacre, was arrested in Memphis in 1876 for wearing women's clothing, forcibly examined by doctors, declared male and sentenced to the chain gang. (Wikipedia "Frances Thompson"; cross-check before use.)
 - **landmarks, era 10:** the President's House site in Philadelphia: officials removed its slavery displays in January 2026; Judge Cynthia M. Rufe ordered them restored on February 16, 2026 (City of Philadelphia v. Burgum); the government appealed and the Third Circuit later upheld the administration's authority to replace the exhibit. (The Daily Pennsylvanian, February 2026; Travelers Today, July 18, 2026.)

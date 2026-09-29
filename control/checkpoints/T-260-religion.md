@@ -64,7 +64,7 @@ Perishable: every 2000-today figure is dated and refreshed to 2026.
 - `native-nations`, era 3: Deer Island 1675-76, Natick (about 200, 30 Oct 1675) and Punkapog people confined, about 500 by late Dec 1675, by General Court order; Gookin 1677 (Archaeologia Americana v.2, 1836, pp. 473-474, 485); Episcopal bishops' 2025 statement "hundreds ... died." Religion bank PATCH at end of ERA 3.
 - `crime-justice`, era 3: Quaker ear-cropping (Holder, Copeland, Rous, 16 Sep 1658) and the Southwick children's sale order, from Bishop 1661, if crime-justice wants colonial punishments by name. Religion bank PATCH at end of ERA 3.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - `crime-justice` or `government-politics`, era 9: Waco 1993 (House Report 104-749; Danforth interim report 21 July 2000). Religion bank PATCH T-260c end of ERA 9.
 - `rights-movements`, era 9: second injured count for 16th Street (22, Wollschleger, The Conversation 2026) against its search-summary 17; and Wollschleger's about 145 attacks on Black churches 1954-1970. Religion bank end of ERA 9.
 - `native-nations`, era 9: Lyng v. Northwest Indian Cemetery Protective Assn. 1988 (Yurok, Karok, Tolowa sacred high country). Religion bank end of ERA 9.

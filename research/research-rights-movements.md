@@ -3685,3 +3685,88 @@ Full sourced text is in `research/research-education.md`, era 9 (1950-2000), und
 ## Parked from `holidays` (2026-09-27, T-273)
 Filed by the director after the parallel run. Full sourced text is in `research/research-holidays.md` under the T-273 PATCH named in each item.
 - `rights-movements`, era 1950-2000: the 1970 Christopher Street Liberation Day march (their bank has it from search summaries only): Wikipedia "NYC Pride March" (raw read): proposed 2 Nov 1969 at ERCHO in Philadelphia by Craig Rodwell, Fred Sargeant, Ellen Broidy and Linda Rhodes; Sunday 28 June 1970, Sheridan Square 51 blocks to Sheep Meadow; NYT front page, about 15 blocks long; organizers' counts 3,000 to 20,000; Brenda Howard (GLF) on the committee. Also: Karenga and the US Organization, 1971 conviction for felony assault and false imprisonment of Deborah Jones and Gail Davis (The Root quoting LA Times 13 May 1971; BlackPast; Wikipedia), paroled 1975, denies it and cites COINTELPRO.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `rights-movements` / `education`, era 09: Tinker v. Des Moines (opinion facts, LII), New Rider v. Board of Education (Pawnee braids, suspended April 24, 1972, cert. denied December 10, 1973, Douglas dissent), Karr v. Schmidt and Justice Black's 1971 quote (SCOTUSblog 2025), Rogers v. American Airlines (December 1, 1981, Judge Sofaer).
+- `rights-movements`, era 10: CROWN Act dates (California July 3, 2019. New Jersey December 19, 2019. Pennsylvania November 25, 2025. Federal bill passed the House September 21, 2020 and March 18, 2022, no Senate vote). State count 27 + D.C. (GovDocs, July 2025) vs 30 (CROWN Coalition site, 2026-09-28). Andrew Johnson (NPR 2018, WHYY 2019).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `rights-movements` (or `slavery-freedom`), era 06: New York police arrested the African Company's actors during a performance and released them only on a promise to stop playing Shakespeare; Mordecai Noah's warning that free Black New Yorkers might "outvote the whites" (MacDonald, Folger 2024, citing McAllister 2003).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Minerva* obituary reproduced in the National Museum of Racing's *Forgotten Foundation* packet is dated 5 January 1808
+  and reads "On the 10th ult. at Halifax (N.C.) AUSTIN JONES ... aged about 50 years", i.e. died 10 December 1807.
+  T-271b did not change era 05 (outside its eras). Full note in the bank, Era 06, "Correction note for era 05".
+  formal ban on the inclusion of black players and clubs" after the Pennsylvania association's ruling (Wikipedia
+  "Baseball color line"). The Pythian club and Octavius Catto are told in no chapter (grep 2026-09-28); not researched.
+  class leaders Wright Fairbanks and Garrison West "with sticks and stones" (Douglass, *Narrative*, 1845, ch. X; full
+  text in research/research-sports-play.md, Era 06).
+  from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
+- `rights-movements` or `education`, era 1850-1900: 1867, the National Association of Base Ball Players "adopted a
+    formal ban on the inclusion of black players and clubs" after the Pennsylvania association's ruling (Wikipedia
+    "Baseball color line"). The Pythian club and Octavius Catto are told in no chapter (grep 2026-09-28); not researched.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `rights-movements`, era 07: The Lily circulation 500 to 4,000 (NPS) vs 500 to 3,000 (Wikipedia). Elizabeth Smith Miller "of Geneva" (NPS) vs "of Peterboro" (Wikipedia).
+- `war` / `crime-justice` / `rights-movements`, era 08: zoot suit attacks June 3 to 8, 1943 (NWWII Museum, Hinnershitz. Wikipedia): more than 150 injured, nearly 600 (or more than 500) Mexican Americans arrested, no soldiers arrested for the beatings, Navy and Marine Corps order June 8, Warren committee finding, Eleanor Roosevelt June 16, 1943 quote. City council resolution: no ordinance ever passed (Wikipedia) vs "banned" (search summaries).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `rights-movements` (and `slavery-freedom`), era 08: *The Birth of a Nation* protests: Boston, April 10 and 17, 1915, William Monroe Trotter and ten others arrested at the Tremont Theatre, 260 police, Faneuil Hall rally; NAACP secretary Mary Childs Nerney's April 17, 1915 letter ("six weeks of constant effort ... gotten nowhere"); denied in Ohio, Chicago, Denver, Pittsburgh, St. Louis, Minneapolis, Cedar Rapids first of twelve mayors; Dixon to Wilson, September 5, 1915 ("There will never be an issue of your segregation policy") (Wikipedia; Britannica). Also the 1945 West Adams Heights covenant suit against 31 Black homeowners including Hattie McDaniel, thrown out by Judge Thurmond Clarke (Wikipedia, "Hattie McDaniel").
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+  1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+  Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+  (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+  archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+  12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+  signatures for an investigation; Congress held hearings in 1914; the football program had taken in $223,789.83 from 1907
+  to 1913; the school closed in August 1918 (James Ring Adams, *American Indian* magazine, NMAI). Not told in the outline
+  here.
+  1930s matinees; comic readership (1944 survey: 95% of boys and 91% of girls aged 6-11); Sterling North, 8 May 1940. This
+  chapter tells them as children's free time; storytelling may lead on the works. Full text: bank Era 08.
+  9 Oct 2009); 6.9 million children aged 5-14 (18%) in regular self care, fall 1995 (Census P70-70). Bank Era 09.
+  briefly here as play; the director decides which chapter leads.
+- `rights-movements`, era 1950-2000: pool desegregation. St. Augustine, 18 June 1964, Monson Motor Lodge manager James
+    Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
+    1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
+    Thompson*, 14 June 1971, 5-4 upheld the closing (Wikipedia). Full text: research/research-sports-play.md, Era 09.
+- `rights-movements` or `crime-justice`, era 1900-1950: the riots after Johnson-Jeffries, 4 July 1910, 11 to 26 killed
+    (Wikipedia), Uvalda GA three Black workers shot dead, New York one man clubbed to death, Washington 236 arrested (UPI
+    archive report of 5 July 1910). St. Louis Fairground Park pool, 21 June 1949 (O'Toole; white youths with bats and bricks;
+    12 hurt; 7 or 8 arrested). Full text: bank Era 08 and its PATCH.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `rights-movements`, era 10: Weinstein's court record for its #MeToo section, which names him but carries no outcome: NY conviction February 24, 2020 (23 years, March 11, 2020), overturned April 25, 2024 ("egregious errors"); LA conviction December 19, 2022 (16 years), sentence vacated June 2026 and resentencing ordered, California Supreme Court declined review September 23, 2026; retrial conviction June 11, 2025 (Miriam Haley), acquittal (Kaja Sokola), two mistrials on the Jessica Mann count and DA Alvin Bragg's June 25, 2026 decision not to retry; 15-year sentence September 23, 2026, Justice Curtis Farber (NBC News; Wikipedia; MyNewsLA). Also #OscarsSoWhite (April Reign, January 15, 2015) and the Academy's counts (92 percent white, 75 percent male in 2015; 75 percent white, 64 percent male after June 25, 2026 invitations; AP).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `rights-movements`, era 2000-today: Kaepernick 2016 and his 2019 settlement; US women's soccer pay (EEOC 2016, $24M
+    settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+    NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+    Dixon).

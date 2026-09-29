@@ -426,3 +426,42 @@ Also recorded in place: the rationing-shopper routes that produced no dated poin
 - Items 1, 3 and 4 of the list above are **closed** (John Stewart, Emilia Lundberg, Renica Turner).
 - Item 2 (Guild) is **partly closed**: pp. 249-253 read. His account pages and later earnings (PDF part 2) are still unread.
 - Items 5, 6 and 7 remain open. Item 7 (Native commerce after 1900) was not reached this pass.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `marketplace`, era 07: Singer installment terms disagree: $5 a month on a $100 machine (Lyon, American Heritage 1958) vs $5 down and $3 a month (search summaries). Clark's $50 trade-in, February 1856 (Lyon).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `marketplace`, era 09: Betamax in US stores November 1975; first US VHS recorder (RCA VBT200) August 23, 1977; Universal and Disney sued Sony in 1976; *Sony v. Universal* decided January 17, 1984, 5 to 4 (Wikipedia).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `marketplace`, era 05: Ulrich, *Age of Homespun* pp. 177-183 details (Brookfield Aug 1769 spinning meeting, Hartford 12-pound bounty, Lebanon CT spinning match Feb 1769), via Museum of the American Revolution. Harvard seniors' 1767 vote (Colonial Society of Massachusetts).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `big-business` / `marketplace`, era 10: box office $8.87 billion 2025 vs $11.4 billion 2019, 780 million tickets (Comscore); AMC and Universal 17-day window July 28, 2020; Netflix streaming January 16, 2007, 325 million members 2026.
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
+  PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)
+  current in 2024 data; DSM-5 (2013) onset age 7 to 12. Surgeon General advisory on social media, 23 May 2023. Childhood
+  obesity 5.2% (1971-74), 13.9% (1999-2000), 19.7% (2017-Mar 2020) (CDC/NCHS). CTE: BU 345 of 376 former NFL players (Feb
+  2023) with BU's selection-bias caution.
+  "almost constantly" 24%, 46%, 48%, 40% (2025). School phone bans: Florida HB 379 (2023); EdWeek at least 39 states + DC
+  (updated 28 Jul 2026); Ballotpedia 26 bell-to-bell (Newsweek 9 Jan 2026).
+  24 Jan 2018; 40-125, Cunningham, 5 Feb 2018); Strampel (2019), Klages (2020, overturned 2021), Penny (charges dropped 2022),
+  Geddert (2021); FBI agent W. Jay Abbott per the DOJ inspector general, July 2021.
+  settlement 22 Feb 2022, equal-pay contracts 18 May 2022); Trump order "Keeping Men Out of Women's Sports" (5 Feb 2025),
+  NCAA policy (6 Feb 2025), US v. California Interscholastic Federation dismissed 31 Aug 2026 (Judge Cynthia Valenzuela
+  Dixon).
+  2018 (Israel); 17 Jan 2025 Biden-Trudeau statement asking the IOC to let the Haudenosaunee play in 2028 under their own flag.
+  V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).
+  2025 (about $2.8B back pay; about $20.5M per school in 2025-26).
+  85.3M daily users Feb 2025). This chapter tells them as play and hours; storytelling may lead on games as story.
+- `marketplace`, era 2000-today: FTC v. Epic Games, 19 Dec 2022, $275M COPPA penalty + $245M refunds for "dark patterns";
+    V-Bucks and Robux. Sports betting after Murphy v. NCAA (14 May 2018): $121B handle, $11.0B revenue in 2023 (AGA).

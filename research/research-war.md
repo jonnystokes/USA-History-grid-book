@@ -3190,3 +3190,12 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `art` (2026-09-27, T-267)
 Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
 - `war`, era 05: Prince Demah enlisted April 1777 in Col. Thomas Crafts Jr.'s artillery regiment, Massachusetts militia (same source).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `government-politics` and `war`, era 07: Ford's Theatre after April 1865: the federal government bought it in 1866, Secretary of War Edwin Stanton had it made into offices (Army Medical Museum), an interior collapse killed 22 workers in 1893, first play again in 1968 (fords.org, "History of Ford's Theatre"). Britannica on the attack: box unguarded, outer door barred, one shot with a .44 derringer, Rathbone slashed, leap to the stage, disputed words ("Sic semper tyrannis" / "The South is avenged!").
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `war` / `crime-justice` / `rights-movements`, era 08: zoot suit attacks June 3 to 8, 1943 (NWWII Museum, Hinnershitz. Wikipedia): more than 150 injured, nearly 600 (or more than 500) Mexican Americans arrested, no soldiers arrested for the beatings, Navy and Marine Corps order June 8, Warren committee finding, Eleanor Roosevelt June 16, 1943 quote. City council resolution: no ordinance ever passed (Wikipedia) vs "banned" (search summaries).
+- `war`, era 08: L-85 (April 8, 1942), Stanley Marcus as WPB apparel chief from December 27, 1941, exemptions, L-90 elastic, restrictions until 1946 (Mower, OSU dissertation 2011).

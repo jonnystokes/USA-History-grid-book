@@ -48,7 +48,7 @@ Keep slugs unique across the book.
 Perishable: every 2000-today figure. Date each and refresh to 2026 where a newer official figure
 exists.
 
-## TO PARK (for the director to file after the parallel run)
+## PARKED EARLIER (FILED by the director)
 - -> `crime-justice` (or `rights-movements`), era 1900-1950: the Tulsa massacre is not told anywhere in the book's outlines (only McGirt mentions Tulsa). Sourced text in research/research-money.md era 8, "Black-owned banks built and lost, and Greenwood's destroyed wealth" (Ellsworth, Oklahoma Historical Society: May 31 to June 1, 1921, white mob incl. men deputized by Tulsa police and National Guard units, 1,000+ homes and businesses destroyed, 50 to 300 dead, no white person imprisoned, all-white grand jury blamed Black Tulsans; Brookings 2021: $1.8M claims, all but one denied). Director should decide the lead chapter.
 - -> `crime-justice`, era 1750-1800: Owen Sullivan, counterfeiter hanged in New York May 10, 1756 (money bank era 5 patch; ear-cropping and C-branding unconfirmed).
 - -> `slavery-freedom`, era 1850-1900: Freedman's Bank detail (Prologue 1997: ~70,000 depositors, 37 branches, $57M total deposits, Douglass's $10,000, 62 percent repaid 1875-83, ~31,000 never collected, M816/M817 records). Money bank era 7 patch.

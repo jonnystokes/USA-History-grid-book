@@ -318,3 +318,4 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Each item's full sourced text is in `research/research-marketplace.md` under the PATCH named; copy it across.
 - `rights-movements` and `money`, 1950-2000: Equal Credit Opportunity Act Oct 1974 (sex, marital status), amended Mar 1976 (race, color, religion, national origin, age, public assistance) (CFPB blog).
 - `money`, 2000-today: CFPB Apr 24, 2013 payday study (391% APR on $15 per $100, 199 days in debt median).
+

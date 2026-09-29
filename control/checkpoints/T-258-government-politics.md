@@ -45,7 +45,7 @@ other chapter already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep
 
 Perishable: every 2000-today figure is dated and refreshed to 2026.
 
-## TO PARK (for the director to file after the batch)
+## PARKED EARLIER (FILED by the director)
 
 - (T-258 listed nothing here.) T-258r filed its own parking to `research/research-crime-justice.md` under "## Parked from `government-politics` (2026-09-27, T-258r)": FILED.
 

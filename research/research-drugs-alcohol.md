@@ -780,3 +780,7 @@ How the prose can say it: give the rate and the comparison. Do not give a cause.
 Filed by the director after the parallel run. Full sourced text is in `research/research-rights-movements.md` under the T-262 PATCH named in each item.
 Full sourced text for each is in `research/research-rights-movements.md`, era 7, under the T-262b PATCH named.
 - `drugs-alcohol`, era 1850-1900: the Willard item they parked here is now sourced from Wells's own *A Red Record* (1895), ch. 8: Willard's New York Voice interview of 23 Oct 1890 and her WCTU address of 5 Nov 1894 (PATCH "Ida B. Wells").
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `drugs-alcohol`, era 08-09: Federal Bureau of Narcotics and Billie Holiday. Arrested May 16, 1947 (NY apartment), pleaded guilty May 27, Alderson Federal Prison Camp; lost NYC Cabaret Card; arrested Jan 22, 1949, Hotel Mark Twain, San Francisco, by George Hunter White; May 31, 1959, FBN agents arrested her in her bed at Metropolitan Hospital and handcuffed her to it, police guard until a judge ordered the cuffs off; died July 17, 1959, 44, cirrhosis/heart failure (Wikipedia "Billie Holiday"; Halpern and Blistein, TIME, Aug. 12, 2019: "Anslinger ordered agents ... to storm into her room"). Hari (2015) says the FBN targeted her from 1939 over "Strange Fruit"; Lewis Porter disputes (Wikipedia). Full entry in research/research-music.md, Era 08.

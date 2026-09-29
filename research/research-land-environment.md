@@ -308,3 +308,7 @@ Films verified via PBS/IMDb pages: Drawn from Nature (2007); John Muir in the Ne
 ## Parked from `energy` (2026-08-08) — what the fuels cost the land
 - Charcoal-iron deforestation, quantified at Hopewell Furnace (NPS): in blast, about **an acre of forest cut per day**; **6,000–7,000 cords ≈ 200 acres a year**; the works controlled 4,000–8,000 acres of woodland.
 - Fracking damage (yours to lead): USGS ties induced earthquakes to oilfield **wastewater injection** (the Oklahoma earthquake swarm); groundwater-contamination and methane-leak debates. `energy` states the debate in one span, both sides; the damage detail is yours.
+
+## Parked from `styles` (2026-09-29, T-272c)
+Filed by the director (the item named `environment`; routed here). Full sourced text is in `research/research-styles.md`.
+- `environment`, era 10: EPA textiles 1960-2018 table (17.03 million tons generated 2018, 11.3 million landfilled, 14.7% recycled), page updated March 19, 2026. Ellen MacArthur Foundation 2017 via Waste Dive (one garbage truck a second).

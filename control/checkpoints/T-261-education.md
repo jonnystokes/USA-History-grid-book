@@ -65,7 +65,7 @@ PASS  education / research
 | 15 | each verified story in era 10 (tabatha-rosproy-2020-teaching) has its key facts in the bank | done | 3 wordings not in the bank fixed (ages, 'drove', 'recordings') |
 | 16 | final: outline era 10 punctuation (semicolon ~line 1153), validator, research check, progress= flags all eras | done | semicolon cleared; CRDC sentence corrected (2023-24 posted Sept 2026 as raw files); teacher pay to 2024-25; loans June 2026; NAEP 2022 and grade 12; new spans: Shootings at school, The boarding schools counted, Books and what teachers may teach, The Education Department 2025 and 2026; validator 0, research PASS; flags all 'researched' |
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 
 - **native-nations, era 1900-1950: Uintah Boarding School, Whiterocks, Utah, Senate hearing November 1928.** Tilford Denver, 11, killed by an unsecured swing late October 1927; Swanson Mowachean, orphan, died 6 March 1928 after Superintendent H. M. Tidwell delayed hospital care; Principal George N. Shafer told disciplinarian Fred Bruce to whip boys. Source: Salt Lake Tribune, Sheila R. McCann, 9 July 2023, quoting the Senate *Survey of Conditions of the Indians* hearings. Sourced text: `research/research-education.md` era 8, "PATCH 2026-09-27 (T-261c): the boarding schools in this era...", item 3.
 - **native-nations, era 1900-1950: Poston camp on the Colorado River Indian Reservation, run by the Office of Indian Affairs for its first year and a half** (Poston Preservation). The tribal council's objection and the 71,000 acres are search-summary only. Education bank era 8, camp-schools patch.

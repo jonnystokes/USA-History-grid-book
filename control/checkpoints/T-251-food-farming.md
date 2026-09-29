@@ -49,7 +49,7 @@ Keep slugs unique across the book.
 Perishable: every 2000-today figure. Date each and refresh to 2026 where a newer official figure
 exists.
 
-## TO PARK (for the director to file after the parallel run)
+## PARKED EARLIER (FILED by the director)
 - `health`, era 1900-1950: pellagra. Science History Institute, "Joseph Goldberger's Filth Parties" (opened): 1900 to 1940, about 3 million US cases and 100,000 deaths; diet of cornmeal, molasses, dried pork; niacin identified 1937; WWII laws required niacin in bread. Rankin State Prison Farm, Mississippi, 1915: 11 prisoner volunteers fed a corn-based diet for pardons from Gov. Earl L. Brewer; 5 (Wikipedia) or 6 (Mississippi Encyclopedia, search summary) developed pellagra. Full text in research/research-food-farming.md era 08 PATCH.
 - `work-workers`, era 2000-today: CDC MMWR 57(24), June 20, 2008: 68 crop workers died of heat 1992-2006; rate 0.39 per 100,000 vs 0.02 for all civilian workers; unnamed 56-year-old H-2A tobacco worker, North Carolina, July 2005, body temperature 108 F. And 29 U.S.C. 213(c)(1) (Cornell LII): farm child-labor exemptions (under 12 on parent's farm; 12-13 with parental consent; 14+ outside school hours).
 - `rights-movements`, era 1900-1950: Japanese American farms. San Francisco News, March 4 and 9, 1942 (sfmuseum.org/hist9/harvest.html): FSA's Lawrence Hewes said 6,000 farms, about 200,000 acres registered; more than 1,000 farms (50,000 acres) transferred in March 1942; California Farm Bureau: 40 percent of state vegetables.

@@ -56,7 +56,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## PARKED EARLIER (FILED by the director)
 
 - `native-nations`, era 03 (1600s), Charleston 1672: the Etiwan people were paid with trade goods to leave the Charleston peninsula (Oyster Point), probably mid-Jan to mid-Feb 1672, after the Grand Council chose it for the town; Maurice Mathews in 1680: settlers "with our owne consent, and with a valuable consideration payed them too, to remove them from their old habitations." Source: Nic Butler, "Planning Charleston in 1672: The Etiwan Removal," Charleston County Public Library, 2022, https://www.ccpl.org/charleston-time-machine/planning-charleston-1672-etiwan-removal . (Also relevant to `city-building`.)
 - `native-nations` and `religion`, era 07 (1850-1900): Moravian missionaries arrived at Quinhagak, Alaska, in 1885, called Yup'ik masked dancing "heathen rites" and "idol worship," and recruited Native helpers as missionaries; no traditional dancing took place in Quinhagak for over a century, until 2013. Source: *Archaeology* magazine, Sept/Oct 2015, https://archaeology.org/issues/187-1509/features/3558-alaska-yupik-cultural-revival . (This chapter's T-269b should also use it.)
@@ -65,7 +65,7 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `holidays`, era 04: nothing new; this chapter used the holidays bank's Pinkster and Election Day material (credited).
 - `sports-play` and `holidays`, era 05: Continental Association Article 8 (Oct 20, 1774) text also discourages "horse-racing, and all kinds of games, cock fighting," read from Avalon, https://avalon.law.yale.edu/18th_century/contcong_10-20-74.asp ; Oct 12, 1778 Congress resolution adds "horse racing, gaming" (Malinsky, JAR 2013).
 
-## TO PARK (T-269b)
+## PARKED EARLIER (FILED by the director)
 
 - `native-nations`, era 07: Sitting Bull's contract, signed June 6, 1885 at the Standing Rock Agency, four-month season, $50 a week, sole right to sell his photographs and autographs, witnessed by agent James McLaughlin and interpreter Joseph Primeau (Fine Books Magazine, May 27, 2026, https://www.finebooksmagazine.com/news/sitting-bulls-1885-buffalo-bill-wild-west-contract-sold-168213 ); bought May 2026 by Naoma Tate for the Buffalo Bill Center of the West (Cowboy State Daily, May 25, 2026). Also: Lakota Wild West wages ($25 a month men, $10 women, "chiefs" $30-60, Cody's 1891 letter), deaths on tour (Chief Hawick, typhoid, Jan 1, 1890; Featherman, smallpox; Wounds One Another, fall from a train in Germany), the 1890 Interior permit ban, 27 Ghost Dancers held at Fort Sheridan and 23 released to Cody in March 1891, Short Bull's words on Wounded Knee ("twenty-three of my own relations were killed") (Sam A. Maddra, PhD thesis, Glasgow 2002, https://theses.gla.ac.uk/3973/ ). Full text in research/research-storytelling-evolution.md ERA 07.
 - `government-politics` and `war`, era 07: Ford's Theatre after April 1865: the federal government bought it in 1866, Secretary of War Edwin Stanton had it made into offices (Army Medical Museum), an interior collapse killed 22 workers in 1893, first play again in 1968 (fords.org, "History of Ford's Theatre"). Britannica on the attack: box unguarded, outer door barred, one shot with a .44 derringer, Rathbone slashed, leap to the stage, disputed words ("Sic semper tyrannis" / "The South is avenged!").
@@ -75,7 +75,7 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `music`, era 07: Aiken's *Uncle Tom's Cabin* played Foster's "Old Folks at Home" as Tom is sold down the river (Wikipedia "Tom show"); Billy Kersands's "Old Aunt Jemima" (texts 1875, 1880) and his pay ($15 a week 1879, $80 by 1882, up to $250 in Europe) (Wikipedia "Billy Kersands," citing Toll 1974). No conflict found with music's shared minstrelsy facts (Rice 1828-1832, Virginia Minstrels Jan 31, 1843).
 - `storytelling-evolution` era 08 (for the next agent, not another chapter): Short Bull appeared in Cody's 1913 film re-enactment of Wounded Knee (Maddra, note 38); Albee's United Booking Office from 1906 (5% commission) and National Vaudeville Artists against the White Rats union (Wikipedia "E. F. Albee"); Tom-show companies still touring in 1927, Players Club revival May 29, 1933 (Moody).
 
-## TO PARK (T-269c)
+## PARKED EARLIER (FILED by the director)
 
 Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
 - `rights-movements` (and `slavery-freedom`), era 08: *The Birth of a Nation* protests: Boston, April 10 and 17, 1915, William Monroe Trotter and ten others arrested at the Tremont Theatre, 260 police, Faneuil Hall rally; NAACP secretary Mary Childs Nerney's April 17, 1915 letter ("six weeks of constant effort ... gotten nowhere"); denied in Ohio, Chicago, Denver, Pittsburgh, St. Louis, Minneapolis, Cedar Rapids first of twelve mayors; Dixon to Wilson, September 5, 1915 ("There will never be an issue of your segregation policy") (Wikipedia; Britannica). Also the 1945 West Adams Heights covenant suit against 31 Black homeowners including Hattie McDaniel, thrown out by Judge Thurmond Clarke (Wikipedia, "Hattie McDaniel").
@@ -87,7 +87,7 @@ Full text and sources for every item are in `research/research-storytelling-evol
 - `marketplace`, era 09: Betamax in US stores November 1975; first US VHS recorder (RCA VBT200) August 23, 1977; Universal and Disney sued Sony in 1976; *Sony v. Universal* decided January 17, 1984, 5 to 4 (Wikipedia).
 - `art`, era 09: *A Raisin in the Sun*: Ethel Barrymore Theatre March 11, 1959, 530 performances, Lloyd Richards the first Black Broadway director, New York Drama Critics' Circle best play; Hansberry died January 12, 1965, of pancreatic cancer (Britannica, Wikipedia). No conflict with `art`'s March 11, 1959 date.
 
-## TO PARK (T-269d)
+## PARKED EARLIER (FILED by the director)
 
 Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
 - `rights-movements`, era 10: Weinstein's court record for its #MeToo section, which names him but carries no outcome: NY conviction February 24, 2020 (23 years, March 11, 2020), overturned April 25, 2024 ("egregious errors"); LA conviction December 19, 2022 (16 years), sentence vacated June 2026 and resentencing ordered, California Supreme Court declined review September 23, 2026; retrial conviction June 11, 2025 (Miriam Haley), acquittal (Kaja Sokola), two mistrials on the Jessica Mann count and DA Alvin Bragg's June 25, 2026 decision not to retry; 15-year sentence September 23, 2026, Justice Curtis Farber (NBC News; Wikipedia; MyNewsLA). Also #OscarsSoWhite (April Reign, January 15, 2015) and the Academy's counts (92 percent white, 75 percent male in 2015; 75 percent white, 64 percent male after June 25, 2026 invitations; AP).

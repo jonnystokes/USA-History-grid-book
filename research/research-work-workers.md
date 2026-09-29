@@ -431,3 +431,39 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-news-communication.md` under the T-270 PATCH named in each item.
 Full sourced text for each item is in `research/research-news-communication.md` under the era named.
 - `slavery-freedom` or `work-workers`, era 3: USPS Pub 100: in the South "private messengers, usually slaves, connected the huge plantations."
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `work-workers`, era 10: MIRA 2018 survey of 1,227 US musicians (Alan Krueger, Princeton): 72% of women musicians reported sex discrimination, 67% sexual harassment; 63% of non-white musicians racial discrimination (Nashville Scene, July 5, 2018); income figures search summary only. UMAW protests in 31 cities, March 2021, for one cent per stream (Wikipedia, "Spotify"). Parton was a dues-paying member of the Nashville musicians' union from 1968 to 2026 (Wikipedia).
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `work-workers`, era 09: El Monte, August 2, 1995: 72 Thai workers, Suni Manasurangkun and sons, 84 hours a week for about $1.60 an hour (PBS SoCal 2015), 5-7 cents a garment (Smithsonian Mag 2020), guilty pleas February 1996, retailers' settlement $4 million (Wikipedia) vs more than $4.5 million (Smithsonian Mag), led to CAST (1998) and the T visa (2000). Named workers: Rotchana Cheunchujit (Sussman), Bunta Boonprasit, Kitcha Phimonsing. Full notes in research/research-styles.md, Era 09.
+- `work-workers`, era 10: CalMatters 2020 (LA piece rates 5-12 cents, $300 a week, Los Angeles Apparel COVID outbreak 375+ infected, 4 dead), SB 62 signed September 27, 2021, in force January 1, 2022 (Durazo release, Remake). Rana Plaza and Tazreen with actors and counts, trial status April 2026 (The Business Standard). Full notes in research/research-styles.md, Era 10.
+- `work-workers` / `technology`, era 09: NCpedia oral history of Ardathy Spikes (born 1939, sharecropper's daughter, 36 years at DuPont's Kinston Dacron plant, opened 1953).
+
+## Parked from `music` (2026-09-27, T-268)
+Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
+- `work-workers`, era 08: 1942-1944 American Federation of Musicians recording ban (Petrillo; Decca Sept. 1943, Victor/Columbia Nov. 11, 1944; per-record payments to a union fund) (Wikipedia).
+
+## Parked from `sports-play` (2026-09-27, T-271)
+Filed by the director after the parallel run. Full sourced text is in `research/research-sports-play.md` under the T-271 PATCH named in each item.
+  Minerva* obituary reproduced in the National Museum of Racing's *Forgotten Foundation* packet is dated 5 January 1808
+  and reads "On the 10th ult. at Halifax (N.C.) AUSTIN JONES ... aged about 50 years", i.e. died 10 December 1807.
+  T-271b did not change era 05 (outside its eras). Full note in the bank, Era 06, "Correction note for era 05".
+  formal ban on the inclusion of black players and clubs" after the Pennsylvania association's ruling (Wikipedia
+  "Baseball color line"). The Pythian club and Octavius Catto are told in no chapter (grep 2026-09-28); not researched.
+  class leaders Wright Fairbanks and Garrison West "with sticks and stones" (Douglass, *Narrative*, 1845, ch. X; full
+  text in research/research-sports-play.md, Era 06).
+  from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
+- `work-workers`, era 1800-1850: Lucy Larcom's Lowell mill work from age 11 in 1835 ($1 a week plus board; winter day
+    from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `native-nations` / `work-workers`, era 03: New Mexico encomienda tribute, one manta or hide plus one fanega of corn per household by the 1660s, cap of 35 encomenderos (Beyond Origins of NM Families). Herrera Horta 1601 testimony: soldiers "took them from the women, who were left naked" (unconfirmed: search summary only, NMHR vol. 89 no. 4).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
+- `work-workers`, era 10: the 2023 WGA strike (May 2 to September 27, 148 days) and SAG-AFTRA strike (July 14 to November 9), first joint strike since 1960; the 2024 to 2025 video game strike (July 26, 2024 to July 9, 2025, about 2,600 performers, 95.04 percent ratification); AI consent terms; 2026 contracts (WGA April 24, 2026, 90.38 percent; SAG-AFTRA June 4, 2026, 91.42 percent, 19.25 percent turnout); background actors' scans and pay ($187 a day, NPR August 2, 2023).

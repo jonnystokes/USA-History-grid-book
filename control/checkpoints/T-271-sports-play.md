@@ -56,7 +56,7 @@ sources, or be handled honestly (never invent a name; an unnamed documented acco
 prose, and the hb-story block is removed). Search `outlines/` and `manuscript/` so no other chapter
 already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 
-## TO PARK (for the director to file after the burst)
+## PARKED EARLIER (FILED by the director)
 - `music`, era 1750-1800: Fithian journal (archive.org vickersfithianat00fithrich), Nomini Hall, Virginia: 29 Jan 1774
   enslaved people "collected themselves into the School-Room, & began to play the Fiddle, & dance" with the Carter
   boys Ben and Harry, and Fithian "dispersed them"; 3 Feb 1774 "several Negroes & Ben, & Harry are playing on a Banjo
@@ -70,7 +70,7 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
   William Griffin and wife, Richard Michell and wife, 40s each) and June 1679 (six men incl. John Holbrooke and his
   servant Patricke). Records of the Colony of New Plymouth, archive.org recordsofcolonyo0304newp / 0506newp.
 
-## TO PARK (T-271b)
+## PARKED EARLIER (FILED by the director)
 - AUDIT (this chapter, era 1750-1800, story `austin-curtis`): the outline says Curtis died in 1809. The *Raleigh
   Minerva* obituary reproduced in the National Museum of Racing's *Forgotten Foundation* packet is dated 5 January 1808
   and reads "On the 10th ult. at Halifax (N.C.) AUSTIN JONES ... aged about 50 years", i.e. died 10 December 1807.
@@ -85,7 +85,7 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `work-workers`, era 1800-1850: Lucy Larcom's Lowell mill work from age 11 in 1835 ($1 a week plus board; winter day
   from first light to 7:30 p.m.; later a 13-hour day). Full text in research/research-sports-play.md, Era 06.
 
-## TO PARK (T-271c)
+## PARKED EARLIER (FILED by the director)
 - `rights-movements`, era 1950-2000: pool desegregation. St. Augustine, 18 June 1964, Monson Motor Lodge manager James
   Brock poured muriatic acid into the pool while Black and white protesters were in it (Wikipedia). Jackson, Mississippi,
   1963: officials closed four city pools and gave up a fifth to the YMCA (whites only) rather than desegregate; *Palmer v.
@@ -106,7 +106,7 @@ already tells the person (ignore `outlines/BOOK-OUTLINE.md`). Keep slugs unique.
 - `migration`: The Oregon Trail game (first played 3 Dec 1971, Minneapolis; Rawitsch, Heinemann, Dillenberger). Told
   briefly here as play; the director decides which chapter leads.
 
-## TO PARK (T-271d)
+## PARKED EARLIER (FILED by the director)
 All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
 - `health`, era 2000-today: ADHD parent-reported diagnosis 7.8% (2003), 9.5% (2007), 11% (2011) ages 4-17 (Visser 2014,
   PMC4473855); 11.4% / 7.1 million ever, 10.5% current (2022, ages 3-17, Danielson 2024, PMC11334226); CDC 7 million (11.7%)

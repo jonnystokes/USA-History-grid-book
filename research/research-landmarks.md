@@ -244,3 +244,4 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `art` (2026-09-27, T-267)
 Filed by the director after the parallel run. Full sourced text is in `research/research-art.md` under the T-267 PATCH named in each item.
 - `landmarks`, era 03: San Esteban at Acoma: beam distance disputed, San Mateo Mountains 30 miles (NPS) vs Mount Taylor about 40 miles (Wikipedia); workers "enslaved" per Wikipedia only.
+

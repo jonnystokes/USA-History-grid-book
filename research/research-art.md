@@ -953,3 +953,20 @@ How the prose can say it: "Officials at the gallery, whom the reports do not nam
 - Art removed by officials: Black Lives Matter Plaza (Rep. Andrew Clyde's bill, Mayor Bowser's decision, District Department of Transportation crews, March 2025).
 - Censorship claims: Sherald's withdrawal (officials unnamed: SEARCHED, NOT FOUND). Grants ended by NEA officials under the President's budget, May 2025. Sajet's forced departure (Trump's May 30, 2025 statement). The White House review of eight museums (Halligan, Haley, Vought, Aug. 12, 2025). Books removed from libraries (`education` leads).
 - Artists' work copied without consent to build picture programs: the artists' allegation against Stability AI, Midjourney, DeviantArt and Runway AI, not yet tried.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `art`, era 03 (1600s): Benjamin Colman's tragedy *Gustavus Vasa*, acted by Harvard students in 1690 (Encyclopedia.com "1600-1754: Theater"; author named by Historic Interpreter blog citing Hornblow 1919), if `art` wants the play as writing.
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+- `art`, era 06: William Brown's *The Drama of King Shotaway* (1823), the first known play by a Black American writer staged in the US, text lost (BlackPast; NYT 2021); James Hewlett's open letter to Charles Mathews, *National Advocate*, May 8, 1824 (Shakespeare Theatre Company).
+
+## Parked from `storytelling-evolution` (2026-09-27, T-269)
+Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
+Full text and sources for every item are in `research/research-storytelling-evolution.md`, sections ERA 08, ERA 09 and BANK CHECK eras 08 and 09.
+- `art`, era 09: *A Raisin in the Sun*: Ethel Barrymore Theatre March 11, 1959, 530 performances, Lloyd Richards the first Black Broadway director, New York Drama Critics' Circle best play; Hansberry died January 12, 1965, of pancreatic cancer (Britannica, Wikipedia). No conflict with `art`'s March 11, 1959 date.
+
+## Parked from `styles` (2026-09-27, T-272)
+Filed by the director after the parallel run. Full sourced text is in `research/research-styles.md` under the T-272 PATCH named in each item.
+- `art`, era 05: Federal furniture facts (SAPFM): 1780-1820, mahogany, inlaid eagles/urns/bellflowers, Seymours of Boston, Duncan Phyfe of New York, Hepplewhite 1788 and Sheraton 1793 pattern books.
