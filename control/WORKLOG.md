@@ -3282,9 +3282,11 @@ RESULT: LANDED. FAIL  food-farming / prose. measured: stage=WRITING ms_eras=7/10
         254090 tokens, 90 tool uses, 11.1 min (opus). Writer A: part1 (4,680w, eras 1-5) + part2 (2,638w, eras 6-7), validator 0, punct 0/0, self-review run. 7 stories. 6 gaps PATCHed, 0 not found, 8 outline claims left out, OPEN none. Fixed: Oblinger quote was Uriah's, two indigo makers, personification. Prose FAIL expected until writer B.
 
 ### 2026-09-27 | [LOCAL] T-307a | migration: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-307-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+RESULT: LANDED. FAIL  migration / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=10 (verified 10) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=9162w files=2 validator_errors=0
+        337738 tokens, 195 tool uses, 17.0 min (opus). Writer A: part1 + part2 (~8,900w), validator 0, punct 0/0. 10 stories (Onate with Acoma, Hooker, Broussard, Charles Ball, Rebecca Neugin, Brigham Young, Amelia Stewart Knight, Levi Savage, Laura Ingalls Wilder, Pap Singleton). 10 gaps PATCHed, 1 not found, 1 outline claim left out, 7 search-summary figures left unwritten, OPEN none. Fixed: Trail of Tears 'over 4,000' replaced by the sourced range, 'fleeing persecution' replaced by named attacks, 'empty ground'/'free for the taking' land erasure rewritten, Cahokia-London comparison and 'brutal' dropped. TO PARK listed.
 
 ### 2026-09-27 | [LOCAL] T-308a | money: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
 STATUS: LANDED
