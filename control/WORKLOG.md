@@ -3262,3 +3262,8 @@ VERIFY: python tools/project_state.py --check technology --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-304-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+
+### 2026-09-27 | [LOCAL] T-305a | transportation: writer A: eras 1-7 prose (part1 + part2) [BURST8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-305-transportation.md
+VERIFY: python tools/project_state.py --check transportation --stage prose
