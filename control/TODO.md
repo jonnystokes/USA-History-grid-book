@@ -28,7 +28,9 @@ it; no court outcome found. The story block is written from his life and work on
 account plainly: the soldiers raped her, with the word defined in plain words. Keep, or rule otherwise.
 
 **Calibration run 1 (native-nations part1):** 99 real defects; sonnet found 78, opus 77, both 59; sonnet false
-findings 18%, opus 6%. CHECKER.md sharpened (see CHECKER-CALIBRATION.md, "Brief changes"). Run 2 next.
+findings 18%, opus 6%. CHECKER.md sharpened (see CHECKER-CALIBRATION.md, "Brief changes").
+**Run 2 (crime-justice part2):** 110 real; sonnet 76, opus 74, both 46; false findings sonnet 12%, opus 1%. Brief
+sharpened again. Run 3 (government-politics part3) next.
 
 ## How step 2 ran (for the record; the director's prompt and sizing are in control/briefs/WRITER-DISPATCH.md)
 

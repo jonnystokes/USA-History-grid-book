@@ -66,8 +66,10 @@ milder, vaguer, smaller or shorter than the bank's account? Check that every cli
 that every `hb-story` is a named, documented person, and that no one is a composite. Check
 that when newcomers take land, the prose says who lived there if the bank says it.
 
-**Pass 3: false actors.** Mark every sentence whose subject is not a person or group of
-people. For each one, ask whether that subject can literally do what the verb says.
+**Pass 3: false actors.** List the subject of every sentence and every clause in the era,
+one by one, and test each; this is the pass most often under-reported. Mark every one that is
+not a person or group of people. Newspapers, news outlets, committees, boards, councils,
+companies and courts count as institutions. For each one, ask whether that subject can literally do what the verb says.
 - Institutions: law, act, treaty, court ruling, school, company, city, colony, state, nation,
   government, agency, department, movement, church, army. A company can own. It cannot decide,
   want, refuse, fight, punish or kill. People in it can.
@@ -92,8 +94,9 @@ share a shape, report it.
 
 **Pass 5: the reader.** Report sentences over about 25 words and sentences carrying more than
 one idea. **Hard words are the check most often missed.** Go through the era word by word and
-list every word an 11-year-old might not know: legal and government words (proclamation,
-inquiry, treaty, charter, tribute, petition, council, deed), religious and military words, and
+list every word an 11-year-old might not know: legal, court and government words (proclamation,
+inquiry, treaty, charter, tribute, petition, council, deed, grand jury, penitentiary, reprieve,
+posse, pardon, militia), religious and military words, and
 any word from another language. For each, find its first use in this part file and check that
 the same sentence or the next one says what it means in plain words. Report each one that does
 not. Report a long
@@ -116,6 +119,10 @@ an era whose `progress=` is not `written`, and anything else in VIEWER-CONTRACT 
 
 - Do not edit the part file, the bank or the outline.
 - Do not report anything inside an `hb-note` block (an editor's note the viewer never shows).
+- Do not report the `### Name` heading inside an `hb-story` block: it is the template
+  (`control/grid-markers.md` §8). Do not propose moving text between eras or cells, and do not
+  report a date that falls outside its era's range: a story reaches back or forward when it
+  needs to.
 - Do not report a defect you cannot quote.
 - Do not stretch. A pass that finds nothing has passed. But do not stop early either. Every
   sentence gets every pass.
