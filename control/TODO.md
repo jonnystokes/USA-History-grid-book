@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**PAUSED (Jon) after T-307b.** Nothing in flight. 14 chapters written. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
+**Jon: one agent, T-308b money, then STOP.** 14 chapters written. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
 **STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
