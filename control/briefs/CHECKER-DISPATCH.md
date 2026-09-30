@@ -9,8 +9,7 @@ the second read.
 
 ```bash
 python tools/audit_status.py                       # progress and the next file
-python tools/audit_status.py --mk <slug>           # once per chapter: control/checkpoints/A3-<slug>.md
-STAGE=prose MODEL=sonnet python tools/director_task.py open T-3nn <slug> A3 "CHECKER sonnet, <partN>"
+python tools/audit_status.py --next T-3nn          # makes the checkpoint, opens the ledger, prints the prompt
 # launch the Agent (general-purpose, model sonnet, background) with the prompt below
 # append to WORKLOG: AGENT: <id> (salvage: python tools/salvage_agent.py <id> --tail)
 # on completion:
