@@ -9,6 +9,12 @@ write, the CHECKPOINT and your UNIT number. Everything else is here.
 chapters. For a very large chapter the director may split further. Then the dispatch says which
 eras you write and whether you create a file or append to one an earlier writer started.
 
+**Single-writer mode** (Jon, 2026-09-29): for a chapter whose whole outline and bank fit
+comfortably, one writer does all ten eras and all three files in order (part1, part2, part3), so
+the chapter has one voice and nothing is re-read twice. The dispatch says which mode you are in.
+Read the chapter with `python tools/slice_bank.py <slug> --eras 1-7` first and `--eras 8-10` when
+you reach part 3, and keep saving after every era: a long run is more likely to be interrupted.
+
 **The goal is a finished chapter.** Write it once, completely, so it does not need a second
 pass. Chapters run as long as the material honestly supports. Never trim for length and never
 pad.

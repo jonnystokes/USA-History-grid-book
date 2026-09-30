@@ -3378,3 +3378,7 @@ RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written
         244995 tokens, 76 tool uses, 12.3 min (opus). Writer B: part3 (~6,200w), chapter PASSES prose (13,170w). Gold Standard Act 1900, Panic of 1907, Jekyll Island and the Fed, Black banks and Greenwood, 1930-33 runs, gold turn-in, deposit insurance, war bonds; Diners Club, ECOA 1974, ATM, 1971, Great Inflation, S&L; 2008, bitcoin, payday loans, 2021-26 inflation, FTX, 2023 runs, end of the penny. 5 PATCH, 0 not found, 4 outline claims left out. Fixed: savings lost two-thirds not a third, penny's end and 2008 guarantee given actors, personification, a fourth-wall line.
 
 ### 2026-09-29 | [LOCAL] STOPPED (Jon) after T-308b. money PASSES prose. 15 written. Nothing in flight.
+
+### 2026-09-29 | [LOCAL] SINGLE-WRITER TRIAL (Jon): one writer per chapter for all ten eras, where the chapter fits.
+Reason: one voice, no second read of the style guides. WRITER.md gained a "Single-writer mode" paragraph.
+Trial: T-309 work-workers. USAGE AT START: 7% (Jon). Stop after it for Jon to measure.

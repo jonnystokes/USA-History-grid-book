@@ -11,7 +11,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**STOPPED (Jon) after T-308b.** Nothing in flight. 15 chapters written. Next phase: the small group (14 agents, two rounds of 7). energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
+**SINGLE-WRITER TRIAL (Jon, 7%): T-309 work-workers, one writer for all 10 eras. Measure, then STOP for Jon.**
+If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
 **STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
