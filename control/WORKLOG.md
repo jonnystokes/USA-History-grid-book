@@ -3658,3 +3658,8 @@ VERIFY: python tools/project_state.py --check native-nations --stage prose
 RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15687w files=3 validator_errors=0
         247998 tokens, 27 tool uses, 10.2 min (sonnet). CHECKER sonnet, part1: 101 findings (23 BLOCKING, 23 MAJOR, 55 MINOR). Top: Not in bank 46, hard subjects 17, passives 8.
 AGENT: ad683f0af67fe7f0d (salvage: python tools/salvage_agent.py ad683f0af67fe7f0d --tail)
+
+### 2026-09-30 | [LOCAL] T-331o | native-nations: CHECKER opus, part1 (calibration run 1) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-331-native-nations.md
+VERIFY: python tools/project_state.py --check native-nations --stage prose
