@@ -3,7 +3,9 @@
   python task.py open  <tid> <slug> <cpbase> "<title>"
 close: verifies, closes the IN-FLIGHT entry, marks the checkpoint, adds a usage row, commits named paths.
 open: appends the IN-FLIGHT entry and commits it."""
-import os, re, sys, subprocess
+import os, re, sys, subprocess, datetime
+TODAY = datetime.date.today().isoformat()
+STAGE = os.environ.get("STAGE", "research")
 ROOT = r"C:\Users\jon\Projects\History-Book-Project-claude"
 os.chdir(ROOT)
 def run(*a): return subprocess.run(list(a), capture_output=True, text=True).stdout
@@ -13,7 +15,7 @@ cmd = sys.argv[1]
 if cmd == "open":
     tid, slug, base, title = sys.argv[2:6]
     with open("control/WORKLOG.md", "a", encoding="utf-8") as f:
-        f.write(f"\n### 2026-09-27 | [LOCAL] {tid} | {slug}: {title} | model opus\nSTATUS: IN-FLIGHT\n"
+        f.write(f"\n### {TODAY} | [LOCAL] {tid} | {slug}: {title} | model opus\nSTATUS: IN-FLIGHT\n"
                 f"CHECKPOINT: control/checkpoints/{base}-{slug}.md\n"
                 f"VERIFY: python tools/project_state.py --check {slug} --stage {os.environ.get('STAGE', 'research')}\n")
     s = open("control/TODO.md", encoding="utf-8").read()
@@ -30,7 +32,7 @@ elif cmd == "close":
     verdict = chk[0] if chk else "?"
     meas = next((l.strip() for l in chk if l.strip().startswith("measured:")), "")
     wl = open("control/WORKLOG.md", encoding="utf-8").read()
-    pat = re.compile(rf"(### 2026-09-27 \| \[LOCAL\] {re.escape(tid)} \|[^\n]*\n)STATUS: IN-FLIGHT\n((?:CHECKPOINT|VERIFY)[^\n]*\n(?:(?:CHECKPOINT|VERIFY)[^\n]*\n)?)")
+    pat = re.compile(rf"(### \d{{4}}-\d{{2}}-\d{{2}} \| \[LOCAL\] {re.escape(tid)} \|[^\n]*\n)STATUS: IN-FLIGHT\n((?:CHECKPOINT|VERIFY)[^\n]*\n(?:(?:CHECKPOINT|VERIFY)[^\n]*\n)?)")
     m = pat.search(wl)
     mins = round(int(ms) / 60000, 1) if ms.isdigit() else "?"
     body = (f"RESULT: {'DONE' if 'PASS' in verdict else 'LANDED'}. {verdict}. {meas}\n"
@@ -42,7 +44,7 @@ elif cmd == "close":
     s = re.sub(r"^STATUS: .*$", f"STATUS: {tid} landed (director verified: {verdict})", s, count=1, flags=re.M)
     open(cp, "w", encoding="utf-8").write(s)
     with open("control/usage-log.tsv", "a", encoding="utf-8") as f:
-        f.write(f"2026-09-27\t{tid}\tresearch\tgeneral-purpose/opus\t[LOCAL] {slug}: {result[:80]}\t?\t?\t?\t{tok}\t{tools}\t{ms}\t?\tcompleted\t{verdict}\n")
+        f.write(f"{TODAY}\t{tid}\t{STAGE}\tgeneral-purpose/opus\t[LOCAL] {slug}: {result[:80]}\t?\t?\t?\t{tok}\t{tools}\t{ms}\t?\tcompleted\t{verdict}\n")
     s = open("control/TODO.md", encoding="utf-8").read()
     s = re.sub(r"^NOW-RUNNING:.*$\n?", "", s, flags=re.M)
     open("control/TODO.md", "w", encoding="utf-8").write(s)
