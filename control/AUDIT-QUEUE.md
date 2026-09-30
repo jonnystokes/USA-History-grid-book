@@ -264,3 +264,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **Michael Eugene Thomas (T-319 update to the styles item above):** crime-justice now tells the killing in full from its bank. The styles passage can point to what styles owns; the audit decides whether styles alone softens it.
 
 - **religion era 6, Nauvoo on Sauk and Meskwaki land (T-327a):** the PATCH rests on Wikipedia only. Confirm it against a primary or scholarly source in step 4.
+
+- **education part 2, three glosses from general knowledge (T-328a):** the writer explained Stono, Nat Turner and the Klan in a phrase each without a bank line behind them (flagged in its checkpoint). Check each against the education bank or the slavery-freedom and crime-justice banks, and source or cut it. This breaks "facts from the bank only", so check whether WRITER.md needs a line on short explanatory glosses.
