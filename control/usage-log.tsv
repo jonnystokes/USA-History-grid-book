@@ -270,3 +270,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-329c	prose	general-purpose/opus	[LOCAL] rights-movements: WRITER C: era 10 + final, chapter PASS prose. 5 PATCH, ~11 claims left out, noth	?	?	?	331821	87	787302	?	completed	PASS  rights-movements / prose
 2026-09-30	T-330	prose	general-purpose/opus	[LOCAL] art: SINGLE WRITER: all 10 eras, PASS prose (26,406w, 34 stories). 11 PATCH, ~30 clai	?	?	?	487707	138	1524562	?	completed	PASS  art / prose
 2026-09-30	T-331s	prose	general-purpose/sonnet	[LOCAL] native-nations: CHECKER sonnet, part1: 101 findings (23 BLOCKING, 23 MAJOR, 55 MINOR). Top: Not 	?	?	?	247998	27	614883	?	completed	PASS  native-nations / prose
+2026-09-30	T-331o	prose	general-purpose/opus	[LOCAL] native-nations: CHECKER opus, part1: 85 findings (10 BLOCKING, 25 MAJOR, 50 MINOR). Top: Not in 	?	?	?	211208	28	490465	?	completed	PASS  native-nations / prose
