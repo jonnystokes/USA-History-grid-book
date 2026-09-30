@@ -3507,3 +3507,4 @@ AGENT: a56ac6cabca2d3b66 (salvage: python tools/salvage_agent.py a56ac6cabca2d3b
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-320-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage prose
+AGENT: a32d24d997528ba67 (salvage: python tools/salvage_agent.py a32d24d997528ba67 --tail)
