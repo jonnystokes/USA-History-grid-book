@@ -7,7 +7,8 @@ RUN:    T-333s sonnet checker -> control/audit/government-politics/part3-finding
         T-333f opus fixer (FIXER.md) judges both files, applies, adds "found by fixer" rows
 RECORD: control/audit/CHECKER-CALIBRATION.md, run 3, then the verdict for Jon
 
-NOW:    T-333s
-NEXT:   T-333o
+NOW:    T-333o
+NEXT:   T-333f
 
 ## Log
+- T-333s sonnet: 160 findings (7 B / 25 M / 128 m), 266k tokens, 30 tools, 9.4 min.
