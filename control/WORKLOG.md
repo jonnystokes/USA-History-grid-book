@@ -3581,7 +3581,9 @@ RESULT: LANDED. FAIL  religion / prose. measured: stage=WRITING ms_eras=7/10 wri
 AGENT: ae4fb9800634267b7 (salvage: python tools/salvage_agent.py ae4fb9800634267b7 --tail)
 
 ### 2026-09-30 | [LOCAL] T-327b | religion: writer B, eras 8-10 (part3) + final | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-327-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=34821w files=3 validator_errors=0
+        379778 tokens, 97 tool uses, 16.7 min (opus). WRITER B: eras 8-10 + final, chapter PASS prose (34,821w, 20 stories). 6 PATCH, ~25 outline claims left out, nothing OPEN. Fixed: unsupported claims dropped, a fourth-wall line, inferences replaced with sourced facts.
 AGENT: a07bf7a2977e746e7 (salvage: python tools/salvage_agent.py a07bf7a2977e746e7 --tail)

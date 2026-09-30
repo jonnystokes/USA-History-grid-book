@@ -3361,6 +3361,43 @@ Movie: none checked.
     should state the facts, not the inference. "asked Rome to make him a saint": NPS says the diocese
     "opened his cause for sainthood"; use that wording.
 
+### PATCH 2026-09-30 (T-327b): the 1902 order against long hair, face paint and dances (copied from `styles`)
+Copied with its sources from `research/research-styles.md`, "The 1902 haircut order (Jones)" (T-272b).
+- *ICT* (Indian Country Today), "Native History: The Astonishing 1902 Order to Cut Native Hair!", 14 January
+  2015, updated 28 November 2025 (https://ictnews.org/archive/native-history-the-astonishing-1902-order-to-cut-native-hair/ ):
+  Commissioner of Indian Affairs **William Atkinson Jones**, on **11 January 1902**, "sent a letter to
+  superintendents of federal reservations and agencies suggesting they force Native men to cut their hair
+  by withholding rations and employment." Quoted from the letter: "The wearing of long hair by the male
+  population of your agency is not in keeping with the advancement they are making, or will soon be
+  expected to make, in civilization." "Indian dances and so-called Indian feasts should be prohibited."
+  "In many cases these dances and feasts are simply subterfuges to cover degrading acts and to disguise
+  immoral purposes." Face paint and "Indian costume and blanket" to be discouraged. Report due 30 June
+  1902. Tisa Wenger, *We Have a Religion* (UNC Press, 2009), as quoted by ICT: **Charles Burton**, the
+  superintendent for the Hopi and Navajo, "reportedly used 'whips, guns, and sheep shears to enforce
+  Commissioner Jones's infamous 'haircut order.''"
+- Rebecca Onion, *Slate*, 20 August 2013: the letter is in the National Archives, Records of the BIA;
+  rations were held back; after an outcry, including in *Harper's Weekly* (8 February 1902), new
+  directives advised "persuasion and example, rather than force."
+- SEARCHED, NOT FOUND (styles, T-272b): how many men were forced to cut their hair. "The surviving
+  accounts do not say how many men were forced to cut their hair."
+
+### PATCH 2026-09-30 (T-327b): the Dayton trial, the minimum context (copied from `government-politics`)
+Copied with its source from `research/research-government-politics.md`, "The 1925 evolution trial."
+- Tennessee's **Butler Act**, signed 21 March 1925, made it unlawful to teach "any theory that denies the
+  story of Divine Creation of man as taught in the Bible, and to teach instead that man has descended
+  from a lower order of animals." **John T. Scopes**, a science teacher and football coach at the high
+  school in **Dayton, Tennessee**, was tried under it; the trial opened **10 July 1925**. Clarence Darrow
+  was among his lawyers and William Jennings Bryan among the prosecutors.
+  (Tennessee Encyclopedia, "The Scopes Trial," https://tennesseeencyclopedia.net/entries/the-scopes-trial/ )
+- The verdict, the fine and the 1927 appeal stay in `government-politics`.
+
+### PATCH 2026-09-30 (T-327b): castor oil, defined (clinical-word rule, for Richwood 1940)
+- Cleveland Clinic, "Castor Oil oral solution" (https://my.clevelandclinic.org/health/drugs/18391-castor-oil-solution ,
+  fetched 2026-09-30): "CASTOR OIL (KAS tor oil) treats occasional constipation." "It belongs to a group of
+  medications called laxatives." "It works by helping the muscles in your intestines move stool."
+- Plain words for the prose: castor oil is a laxative, a medicine that makes the muscles of the bowels
+  push out their contents. The Richwood dose is in no source: do not state it.
+
 ---
 
 ## ERA 9 — 1950 to 2000 (`state="full"`)
@@ -4148,6 +4185,15 @@ the 1956 and 1962 bombings (none reports a charge or conviction). The 1962 date,
 only in a search summary.
 How the prose can say it: "No one is recorded as convicted of the 1956 bomb or the 1962 bomb."
 
+### PATCH 2026-09-30 (T-327b): cyanide, defined (clinical-word rule, for Jonestown 1978)
+- Agency for Toxic Substances and Disease Registry (CDC), *Medical Management Guidelines for Hydrogen
+  Cyanide* (https://wwwn.cdc.gov/tsp/MMG/MMGDetails.aspx?mmgid=1141&toxid=249 , fetched 2026-09-30): "By
+  binding to mitochondrial cytochrome oxidase, it prevents the utilization of oxygen in cellular
+  metabolism." "In humans, cyanide combines with the ferric ion in mitochondrial cytochrome oxidase ...
+  bringing oxidative phosphorylation and ATP production to a halt."
+- Plain words for the prose: cyanide is a poison that stops the cells of the body from using oxygen, so
+  the cells cannot make the energy they need to live.
+
 ## ERA 10 — 2000 to Today (`state="full"`)
 
 **THE PERISHABLE-FACTS RULE GOVERNS THIS WHOLE SECTION.** Every figure below carries the year it
@@ -4790,6 +4836,32 @@ full Fifth Circuit ruled on the merits question at the preliminary-injunction st
 - Every other era-10 claim was checked against §10a-10m and holds. Pew 2025, Gallup 2021, CARA 2025,
   NCES 2024 and the UMC 2024 figures stand. CARA was re-checked directly on 27 September 2026 and
   has nothing newer; Pew, Gallup and NCES were not re-searched by T-260c.
+
+### PATCH 2026-09-30 (T-327b): when the FBI began counting crimes against Sikhs
+- FBI, *Hate Crime Statistics, 2015*, "Incidents and Offenses" (https://ucr.fbi.gov/hate-crime/2015/topic-pages/incidentsandoffenses_final ,
+  fetched with curl 2026-09-30): religious-bias offences in 2015 were 1,354; "51.3 percent were
+  anti-Jewish"; "0.4 percent (6 offenses) were Anti-Sikh."
+- Press release of Representatives Joe Crowley, John Garamendi, Ami Bera, Bill Pascrell, Mike Honda,
+  Grace Meng and Judy Chu (garamendi.house.gov, "After 3 Years and Tragic Massacre in Wisconsin, House
+  Members, Advocates Welcome Federal System...", fetched 2026-09-30; the page's date stamp reads 9 November
+  2022, but the text says the change came "Two years later" than the March 2013 letter, and the
+  Representatives named were in office in 2015): after the March 2013 letter from more than 100 members of
+  Congress, the FBI's Advisory Policy Board recommended collecting the data, and the Justice Department
+  and FBI updated the hate-crime database and training manual "to start tracking hate crimes committed
+  against these groups." Rajdeep Singh of the Sikh Coalition: "Until now, Anti-Sikh hate crimes were not
+  recognized by the FBI."
+- Plain version for the prose: the FBI's report for 2015 is the first to list crimes against Sikhs, with
+  6 offences that year. (The Sikh Coalition's 177 for 2025 is in the PATCH above.)
+
+### PATCH 2026-09-30 (T-327b): Damon Landor, 2020 to 2026 (copied from `styles`)
+Copied with its source from `research/research-styles.md` (T-272c, era 10).
+- In 2020 guards at Raymond Laborde Correctional Center in Louisiana threw away a court decision he showed
+  them, handcuffed him to a chair and shaved off his dreadlocks, which he had grown for decades under a
+  Rastafarian vow. He had three weeks left of his sentence. On 23 June 2026 the Supreme Court ruled 6 to 3
+  (Justice Neil Gorsuch writing, Justice Ketanji Brown Jackson dissenting with Sotomayor and Kagan) that he
+  could not sue the individual officers for money under the Religious Land Use and Institutionalized
+  Persons Act. (JURIST, Tarah Wright, 24 June 2026.) The guards' names are not in the sources read; the
+  styles bank records that they acted on the warden's order (SCOTUSblog, 2025).
 
 ## Coverage / status log
 
