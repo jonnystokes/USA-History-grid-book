@@ -3483,3 +3483,4 @@ AGENT: a3254d3f4d1820ebc (salvage: python tools/salvage_agent.py a3254d3f4d1820e
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-318-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+AGENT: ae690cfb6d15239ed (salvage: python tools/salvage_agent.py ae690cfb6d15239ed --tail)
