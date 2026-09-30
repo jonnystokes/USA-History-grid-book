@@ -11,6 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-309 work-workers (ONE writer, all 10 eras (single-writer trial))
 **SINGLE-WRITER TRIAL (Jon, 7%): T-309 work-workers, one writer for all 10 eras. Measure, then STOP for Jon.**
 If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 

@@ -3382,3 +3382,8 @@ RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written
 ### 2026-09-29 | [LOCAL] SINGLE-WRITER TRIAL (Jon): one writer per chapter for all ten eras, where the chapter fits.
 Reason: one voice, no second read of the style guides. WRITER.md gained a "Single-writer mode" paragraph.
 Trial: T-309 work-workers. USAGE AT START: 7% (Jon). Stop after it for Jon to measure.
+
+### 2026-09-27 | [LOCAL] T-309 | work-workers: ONE writer, all 10 eras (single-writer trial) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-309-work-workers.md
+VERIFY: python tools/project_state.py --check work-workers --stage prose
