@@ -149,6 +149,7 @@ Anything you know that is not in a file is about to be lost. Decisions by Jon go
 | The plan and its order | `control/ROADMAP.md` |
 | The briefs and the model policy | `control/briefs/README.md` |
 | One chapter's eras only | `python tools/slice_bank.py <slug> --eras <a-b>` |
+| Director helpers (open/close a task, file parked items, make checkpoints) | `tools/director_task.py`, `tools/file_parks.py`, `tools/mk_writer_checkpoint.py` (usage in `control/TODO.md`) |
 | The writing rules (binding) | `control/general-writing-style-guide.md` (v2), `control/writing-style-guide.md`, `control/hard-subjects-policy.md` |
 | How research is done | `control/AGENT-BRIEF.md` |
 | Jon's rulings | `control/DECISIONS.md` |

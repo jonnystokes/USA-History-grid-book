@@ -2,95 +2,74 @@
 
 **Keep this file current.** Update it whenever a task starts or closes, whenever Jon makes a
 decision, and before any window closes. The measured truth is `python tools/project_state.py`.
-The record of what happened is `control/WORKLOG.md`. The TODO as it stood when the cloud run
-stopped is archived at `control/archive/cloud/TODO-at-cloud-stop-2026-09-26.md`.
+The record of what happened is `control/WORKLOG.md` (read the tail). The cloud-era TODO is archived
+at `control/archive/cloud/TODO-at-cloud-stop-2026-09-26.md`.
 
-Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-homebrew`)
+Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-homebrew`)
 
 ---
 
 ## NOW
 
 NOW-RUNNING: T-314 styles (ONE writer, all 10 eras)
-**ONE AT A TIME (Jon). T-314 styles (single) running.** Remaining small group:
-government-politics, styles, slavery-freedom.
-If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
-**STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
-**STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras
-8-10 (part3). Chapters whose eras 1-7 slice passes ~25,000 words get writer A split (1-5, 6-7); the three giants
-(religion, education, rights-movements) get more writers.
-Writer A DONE (eras 1-7) for: landmarks, energy, technology, home-family, transportation, food-farming, migration,
-money. NEXT, one at a time: writer B (eras 8-10) T-301b..T-308b, then writer A for the other 22 chapters.
-**Open for Jon:** art era 10, Kehinde Wiley allegations (tell or leave out?).
+**STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
+**STEP 2 (WRITING): IN PROGRESS.** 20 chapters written and passing `--stage prose`, 1 writing (styles), 16 to go.
 
-## Standing rules from 2026-09-26 (details in DECISIONS)
+Written (20): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
+marketplace, big-business, america-world, slavery-freedom (this run).
 
-- Eight steps, strictly in order: research, write, audit, research round 2, writing round 2,
-  audit, polish, done (#17).
-- Opus for research, writing and fixing. Sonnet for checking and salvage reading (#18).
-- No GitHub unless Jon asks. One local commit after each sub-agent, with its stats (#19).
-- Never shrink the book (#20).
-- Writers research their own small gaps (#21).
-- The first three sonnet checker runs are repeated with opus to calibrate the checker (#22).
-- Work is on branch `feature/local-cloud-code-homebrew`, so Jon can compare this run's
-  efficiency with the cloud session's.
+**Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
+denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
+or leave it out? (Blocks nothing until art is written.)
 
-## STEP 1: Research everything (ROADMAP step 1)
+## How writing runs now (Jon, 2026-09-29)
 
-Brief `control/briefs/RESEARCH.md`, model opus, one agent at a time. Size each task with
-`python tools/slice_bank.py <slug> --eras <a-b> --summary` before dispatch.
+- **Jon sets how many agents run at once** (DECISIONS #25, #27): more when the 5-hour window is fresh, one or two
+  near the limit, and ONE for any new kind of task until he has measured its size.
+- **One agent per chapter at a time, in order** (each writer adds to the chapter's research bank). Parallelism is
+  across chapters. Start the longest chains first so they do not finish last.
+- **Single-writer mode** (DECISIONS #26): one writer does all ten eras and all three part files where the chapter
+  fits. Measured: 360k-440k tokens, 20-25 min, about 8% of a 5-hour window per chapter (T-313: 72% -> 80%).
+- Brief: `control/briefs/WRITER.md`. Model: opus. Checkpoint per chapter from `tools/mk_writer_checkpoint.py`.
 
-### 1a. Patch the RESEARCHED* chapters (mode `patch`)
-- [x] T-244 `migration` (PASS research, 241k tokens, 11 min)
-- [x] T-245 `home-family` (PASS research, 333k tokens, 21 min)
-- [x] T-246 `technology` (PASS research, 315k tokens, 16 min)
-- [x] T-247 `energy` (PASS research; killed once by an app restart, finished as T-247b, 318k tokens, 18 min)
-- [x] T-248 `transportation` (PASS research, 425k tokens, 25 min)
-- [x] T-249 `landmarks` (PASS research, 294k tokens, 18 min)
-- [x] T-250 `work-workers` (PASS research, 341k tokens, 18 min)
-- [x] T-251 `food-farming` (PASS research, 336k tokens, 18 min, parallel)
-- [x] T-252 `money` (PASS research, 334k tokens, 22 min, parallel)
-- [x] T-253 `marketplace` (PASS research, 426k tokens, 28 min, parallel)
-- [x] T-254 `america-world` (PASS research, 339k tokens, 21 min, parallel)
-- [x] T-255 `slavery-freedom` (PASS research, 354k tokens, 21 min, parallel)
-- [x] T-256 `big-business` (PASS research; a+b, 845k tokens, 46 min)
+## STEP 2 queue: what is left
 
-The kitchen thread spans home-family, technology and energy. Brief T-245 to settle it once and
-park the pieces for the other two.
+| Group | Chapters | Agents | Total |
+|---|---|---|---|
+| Small (single writer) | government-politics | 1 | **1** |
+| Medium (single writer to try; 2 if too big) | exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
+| Large (2 writers: eras 1-7, then 8-10) | health, sports-play, art, storytelling-evolution, music | 2 | **10** |
+| Giant (split by eras, in order) | rights-movements (~4), education (~4), religion (~3) | 3-4 | **~11** |
 
-### 1b. `exploration` (mode `full`, PARTIAL)
-- [ ] T-257
+Sizes (outline + bank words) are measured with `python tools/slice_bank.py <slug> --eras <a-b> --summary`.
+Giant slices: religion 1-7 ~50k / 8-10 ~37k · education ~52k / ~69k · rights-movements ~56k / ~80k.
+Split any writer whose slice passes ~40,000 words.
 
-### 1c. Bank check the chapters that pass research (mode `bankcheck`)
-- [ ] T-258 `government-politics`
-- [ ] T-259 `war`
-- [ ] T-260 `religion` (split by eras)
-- [ ] T-261 `education` (split by eras)
-- [ ] T-262 `rights-movements` (split by eras)
+## After step 2
 
-### 1d. Seeds with parked material (mode `full`, eras 1-5 then 6-10)
-- [ ] T-263 `health` · [ ] T-264 `disasters` · [ ] T-265 `crime-justice` · [ ] T-266 `drugs-alcohol`
+- **STEP 3 audit:** ~111 sonnet checkers (one per part file) + 3 opus calibration twins (`control/briefs/CHECKER.md`,
+  `control/audit/CHECKER-CALIBRATION.md`). Read-only, so many can run at once.
+- **STEP 4 research round 2** (`GAPS.md`): writers' OPEN items (so far none) + audit NEEDS-RESEARCH items + T-243e
+  (economy's 19 old blocking gaps, collected in the cloud era, in `control/checkpoints/T-243-economy.md`).
+- **STEP 5 fixes** (`FIXER.md`, opus), **STEP 6** audit again, **STEP 7** polish (afterword `how-we-know`, notes for
+  it are in `control/AUDIT-QUEUE.md`; full-book build; viewer check), **STEP 8** done.
 
-### 1e. From scratch (mode `full`)
-- [ ] T-267 `art` · [ ] T-268 `music` · [ ] T-269 `storytelling-evolution`
-- [ ] T-270 `news-communication` · [ ] T-271 `sports-play` · [ ] T-272 `styles` · [ ] T-273 `holidays`
+## Director tools (permanent copies in tools/, 2026-09-29)
 
-T-numbers are provisional. A task split in two takes suffixes (T-263a, T-263b).
+- `tools/director_task.py open <tid> <slug> <cpbase> "<title>"` writes the IN-FLIGHT ledger entry and commits;
+  `close <tid> <slug> <cpbase> <tokens> <tools> <ms> "<result>" [extra paths]` runs the check, closes the entry,
+  marks the checkpoint, adds a usage row and commits named paths. Set `STAGE=prose` for writers.
+- `tools/file_parks.py <checkpoint files>` files each checkpoint's TO PARK items into the target banks and marks the
+  section FILED. Rename old FILED headers first (see WORKLOG 2026-09-29). `tools/dedupe_parks.py` removes exact
+  duplicate parked sections.
+- `tools/mk_writer_checkpoint.py T-3nn:<slug>[:single]` and `tools/mk_research_checkpoint.py` make checkpoints.
+- `tools/slice_bank.py` gives an agent only its eras.
 
-## Later steps
+## Standing rules (details in control/DECISIONS.md)
 
-- STEP 2 writing (30 chapters): see ROADMAP.
-- STEP 4 (research round 2) already holds **T-243e: economy's 19 blocking gaps**, collected by
-  its cloud writers before writers researched their own gaps. List in
-  `control/checkpoints/T-243-economy.md`.
-
-## DONE (this session, 2026-09-26, local)
-
-- [x] Branch `feature/local-cloud-code-homebrew` created from `main`.
-- [x] Cloud workflow archived in `control/archive/cloud/`, not deleted.
-- [x] Briefs rewritten for local work: RESEARCH (bank check merged in), WRITER (2 per chapter,
-      does its own gap research), CHECKER, FIXER, GAPS, SALVAGE, with the model policy in
-      `control/briefs/README.md`.
-- [x] `tools/slice_bank.py` built and tested on all 37 banks.
-- [x] RESUME.md trimmed (full old version archived). ROADMAP rebuilt as eight steps.
+Eight steps in order (#17) · opus writes, researches, fixes; sonnet checks (#18) · no GitHub; one local commit per
+sub-agent (#19) · never shrink the book (#20) · writers research their own small gaps, never break the fourth wall
+(#21) · first three sonnet checks calibrated against opus (#22) · Tulsa: rights-movements leads (#23) · burst mode on
+Jon's word only (#25) · single-writer mode (#26) · Jon sets the agent count (#27).

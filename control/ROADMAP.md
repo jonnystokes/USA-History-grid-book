@@ -43,7 +43,7 @@ gaps), and they cut each agent's reading with `tools/slice_bank.py`. Measure the
 
 ---
 
-## STEP 1: Research everything
+## STEP 1: Research everything (COMPLETE 2026-09-29: all 37 chapters pass)
 
 Brief: `control/briefs/RESEARCH.md` (model opus). **Every research task ends with the bank
 check,** so the writers find the bank complete. Gates: `--stage research`, or `--stage patch`
@@ -86,10 +86,13 @@ most here.
 
 ## STEP 2: Write everything
 
-Brief: `control/briefs/WRITER.md` (model opus). **Two writers per chapter:** eras 1-7 (writing
-`part1-before-1800.md`, then `part2-1800s.md`) and eras 8-10 (`part3-1900s-and-today.md`). The
-very large chapters (`education`, `rights-movements`, `religion`, perhaps `war` and
-`government-politics`) get more writers, split along era lines, still into the same three files.
+Brief: `control/briefs/WRITER.md` (model opus). **Single-writer mode where the chapter fits**
+(DECISIONS #26, 2026-09-29): one writer does all ten eras and all three files (`part1-before-1800.md`,
+`part2-1800s.md`, `part3-1900s-and-today.md`), about 8% of a 5-hour window per chapter. Larger
+chapters get two writers (eras 1-7, then 8-10). The giants (`education`, `rights-movements`,
+`religion`) are split further along era lines, still into the same three files. One writer per
+chapter at a time, in order; parallelism is across chapters, longest chains first; Jon sets how many
+run at once (#27). Status on 2026-09-29: 20 written, 1 in progress, 16 to go (see `control/TODO.md`).
 
 **The writer researches its own gaps** (DECISIONS #21): a few searches per question. What it
 finds goes into the bank as a PATCH, then into the prose. What it cannot find goes into the bank

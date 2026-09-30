@@ -21,7 +21,7 @@ default.
 | Brief | Used for | Model | Phase |
 |---|---|---|---|
 | `RESEARCH.md` | Full research, patch, or bank check of one chapter (the bank check is now part of every research task) | opus | 1 and 4 |
-| `WRITER.md` | Writing a chapter's prose, 2 agents per chapter, with the writer researching its own small gaps | opus | 2 |
+| `WRITER.md` | Writing a chapter's prose: one writer for the whole chapter where it fits (single-writer mode), 2+ for large chapters, researching its own small gaps | opus | 2 |
 | `CHECKER.md` | Reading one part file against every rule and the bank, and reporting findings with suggested repairs | sonnet (the first 3 runs also opus, to calibrate) | 3 and 6 |
 | `FIXER.md` | Judging a checker's findings and applying the good ones | opus | 5 and 7 |
 | `GAPS.md` | Second-round research and writing on the gaps that writing and auditing found | opus | 4 and 5 |
