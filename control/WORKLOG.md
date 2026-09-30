@@ -3698,3 +3698,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage prose
 RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23713w files=3 validator_errors=0
         306196 tokens, 91 tool uses, 14.0 min (opus). FIXER opus, part2: sonnet 75 fixed/11 rejected/3 research; opus 77/1/1. Unique real 110: sonnet 76, opus 74, both 46, fixer-only 6.
 AGENT: af3e48742bf0332a7 (salvage: python tools/salvage_agent.py af3e48742bf0332a7 --tail)
+
+### 2026-09-30 | [LOCAL] T-333s | government-politics: CHECKER sonnet, part3 (calibration run 3) | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-333-government-politics.md
+VERIFY: python tools/project_state.py --check government-politics --stage prose
