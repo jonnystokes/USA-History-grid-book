@@ -3679,3 +3679,4 @@ AGENT: a22420ddf412dbf98 (salvage: python tools/salvage_agent.py a22420ddf412dbf
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-332-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+AGENT: a834cfa2d03c97985 (salvage: python tools/salvage_agent.py a834cfa2d03c97985 --tail)
