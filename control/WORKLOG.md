@@ -3369,3 +3369,8 @@ RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 wri
 
 ### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-307b. migration PASSES prose. 14 written. Nothing in flight.
 NOTE (Jon): one agent (T-308b), then STOP and explain the next phase.
+
+### 2026-09-27 | [LOCAL] T-308b | money: writer B: eras 8-10 prose (part3), completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-308-money.md
+VERIFY: python tools/project_state.py --check money --stage prose
