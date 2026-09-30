@@ -3549,7 +3549,9 @@ RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written
 AGENT: abe5d14013351f7fa (salvage: python tools/salvage_agent.py abe5d14013351f7fa --tail)
 
 ### 2026-09-30 | [LOCAL] T-324 | storytelling-evolution: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-324-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
+RESULT: DONE. PASS  storytelling-evolution / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=29 (verified 29) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21516w files=3 validator_errors=0
+        396782 tokens, 94 tool uses, 15.9 min (opus). SINGLE WRITER: all 10 eras, PASS prose (21,516w, 29 stories). 3 PATCH (1 partial), ~25 outline claims left out, nothing OPEN. Fixed: 7 outline claims (listed in checkpoint).
 AGENT: ad361d35bae73165a (salvage: python tools/salvage_agent.py ad361d35bae73165a --tail)
