@@ -236,3 +236,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-302b	research	general-purpose/opus	[LOCAL] energy: Writer B: part3 (6,724w), chapter PASSES prose. Spindletop, Monongah and Ludlow,	?	?	?	262255	80	754967	?	completed	PASS  energy / prose
 2026-09-27	T-303b	research	general-purpose/opus	[LOCAL] technology: Writer B: part3 (~5,100w), chapter PASSES prose. Assembly line and 1913 deaths, 	?	?	?	261673	81	821647	?	completed	PASS  technology / prose
 2026-09-27	T-304b	research	general-purpose/opus	[LOCAL] home-family: Writer B: part3 (5,106w), chapter PASSES prose. Washday, water and power, refrig	?	?	?	228235	79	595779	?	completed	PASS  home-family / prose
+2026-09-27	T-306b	research	general-purpose/opus	[LOCAL] food-farming: Writer B: part3 (~6,300w), chapter PASSES prose. 1906 food laws, pellagra, Hawai	?	?	?	241891	68	647648	?	completed	PASS  food-farming / prose
