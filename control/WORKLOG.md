@@ -3467,3 +3467,4 @@ writers above that (disasters, war, news-communication ~52-55k). Jon asleep: aut
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-316-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage prose
+AGENT: a8b33083348329539 (salvage: python tools/salvage_agent.py a8b33083348329539 --tail)
