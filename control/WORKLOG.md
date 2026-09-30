@@ -3799,3 +3799,4 @@ AGENT: ad705b880a2fe9915
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-immigration.md
 VERIFY: python tools/project_state.py --check immigration --stage prose
+AGENT: a984f35b84e3aabb1
