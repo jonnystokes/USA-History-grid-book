@@ -11,6 +11,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-317 holidays (ONE writer, all 10 eras)
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 23 chapters written and passing `--stage prose`, 14 to go. Nothing in flight. STOPPED at the usage limit 2026-09-29; next: T-317 holidays, single writer.
