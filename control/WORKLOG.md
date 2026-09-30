@@ -3650,3 +3650,8 @@ Measured: 111 part files, 0 validator errors; `project_state.py`: WRITTEN 37, 68
 interruptions. Single writer proven to ~60k slice words; giants split by era (religion 2, education 3,
 rights-movements 3). Wiley block written from life and work only, awaiting Jon. Next: STEP 3 calibration
 (3 part files x sonnet checker + opus checker + opus fixer), one agent at a time.
+
+### 2026-09-30 | [LOCAL] T-331s | native-nations: CHECKER sonnet, part1 (calibration run 1) | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-331-native-nations.md
+VERIFY: python tools/project_state.py --check native-nations --stage prose
