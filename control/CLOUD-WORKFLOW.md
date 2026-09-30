@@ -172,3 +172,17 @@ time. Agents cannot spawn further agents here (spawn depth 1).
 4. The WORKLOG entries made in the cloud are marked `[CLOUD]`. Their agent IDs point at
    transcripts that were never on the PC, so salvage will not find them. Their checkpoints
    hold what salvage would have given you.
+
+---
+
+## 8. Context size: pruning instead of compaction (Jon, 2026-09-30)
+
+Jon tested a way to avoid automatic compaction: start a sub-agent whose job is to prune the
+main session's stored data. It worked. The context meter in the app did not update until the
+automatic compaction ran, so the saving was not visible at first. Jon's plan is to try the
+prune earlier next time, while there is still plenty of room, not a few percent before
+automatic compaction.
+
+Before any prune or compaction, the director writes anything important into `control/TODO.md`
+or `control/WORKLOG.md` and pushes it. A compaction summary keeps only what it happens to
+mention, and the pruning experiment itself was lost that way once.
