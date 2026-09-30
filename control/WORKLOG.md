@@ -3430,3 +3430,11 @@ USAGE (T-313, clean single writer): 72% -> 80% = 8% for a whole chapter (Jon cor
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-314-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+
+### 2026-09-29 | [LOCAL] Documentation sync (Jon: context at 88%, make sure everything is current)
+TODO rewritten to the measured state (20 written, styles in progress, 16 to go, queue table, open Wiley question,
+how writing runs now, after-step-2 plan, director tools). ROADMAP: step 1 marked complete; step 2 describes
+single-writer mode and the per-chapter ordering rule. DECISIONS #26 (single-writer mode) and #27 (Jon sets the
+agent count). briefs/README and RESUME updated. The director's helper scripts, previously only in a temporary
+scratchpad, are now permanent in tools/ (director_task.py, file_parks.py, mk_writer_checkpoint.py,
+mk_research_checkpoint.py, dedupe_parks.py). Memory: burst-mode and status-table notes updated.

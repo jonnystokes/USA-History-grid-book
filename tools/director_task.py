@@ -7,6 +7,8 @@ import os, re, sys, subprocess
 ROOT = r"C:\Users\jon\Projects\History-Book-Project-claude"
 os.chdir(ROOT)
 def run(*a): return subprocess.run(list(a), capture_output=True, text=True).stdout
+if len(sys.argv) < 2 or sys.argv[1] not in ("open", "close"):
+    print(__doc__); sys.exit(1)
 cmd = sys.argv[1]
 if cmd == "open":
     tid, slug, base, title = sys.argv[2:6]
