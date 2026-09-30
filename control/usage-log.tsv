@@ -290,3 +290,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-343	prose	general-purpose/sonnet	[LOCAL] immigration: CHECKER sonnet part2: 57 findings (6 B, 6 M, 45 m)	?	?	?	208121	16	411688	?	completed	PASS  immigration / prose
 2026-09-30	T-344	prose	general-purpose/sonnet	[LOCAL] immigration: CHECKER sonnet part3: 78 findings (12 B, 19 M, 47 m)	?	?	?	221150	20	436093	?	completed	PASS  immigration / prose
 2026-09-30	T-345	prose	general-purpose/sonnet	[LOCAL] migration: CHECKER sonnet part1: 83 findings (5 B, 10 M, 68 m)	?	?	?	186105	19	314808	?	completed	PASS  migration / prose
+2026-09-30	T-346	prose	general-purpose/sonnet	[LOCAL] migration: CHECKER sonnet part2: 70 findings (1 B, 17 M, 52 m)	?	?	?	185639	19	289944	?	completed	PASS  migration / prose
