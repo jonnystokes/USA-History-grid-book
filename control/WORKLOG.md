@@ -3751,3 +3751,4 @@ AGENT: ac3a6b9962c713878
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+AGENT: a8dca7146e17aff77
