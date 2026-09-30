@@ -3325,3 +3325,8 @@ RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 writte
 
 ### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-302b. energy PASSES prose. Nothing in flight.
 NOTE (Jon): T-302b used 78% -> 81% (3%, 262k tokens, 12.6 min): about half the cost per agent seen earlier in the week. Run ONE agent (T-303b), then PAUSE.
+
+### 2026-09-27 | [LOCAL] T-303b | technology: writer B: eras 8-10 prose (part3), completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-303-technology.md
+VERIFY: python tools/project_state.py --check technology --stage prose
