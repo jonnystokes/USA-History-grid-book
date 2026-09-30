@@ -3478,3 +3478,8 @@ VERIFY: python tools/project_state.py --check holidays --stage prose
 RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14870w files=3 validator_errors=0
         353405 tokens, 86 tool uses, 14.3 min (opus). SINGLE WRITER: all 10 eras, PASS prose (~14,870w, 9 stories). 6 PATCH, 0 not found, ~18 outline claims left out. Fixed: Newell claim quoted with Bangs dispute, Charleston deaths stated, Floyd's killer named, institutions as actors.
 AGENT: a3254d3f4d1820ebc (salvage: python tools/salvage_agent.py a3254d3f4d1820ebc --tail)
+
+### 2026-09-30 | [LOCAL] T-318 | drugs-alcohol: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-318-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
