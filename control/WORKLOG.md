@@ -3703,3 +3703,4 @@ AGENT: af3e48742bf0332a7 (salvage: python tools/salvage_agent.py af3e48742bf0332
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-333-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+AGENT: afcbdd97f38b8755a (salvage: python tools/salvage_agent.py afcbdd97f38b8755a --tail)
