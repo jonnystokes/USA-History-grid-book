@@ -3823,3 +3823,4 @@ AGENT: ac94e0913dee1dc1d
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+AGENT: a51a8eab93b53a9f3
