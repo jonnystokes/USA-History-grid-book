@@ -3391,3 +3391,4 @@ RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 
         362602 tokens, 149 tool uses, 20.3 min (opus). SINGLE-WRITER TRIAL: all 10 eras, 3 files, chapter PASSES prose (14,452w, 17 stories verified). 13 PATCH, 1 not found, 20 outline claims left out, OPEN none. Fixed: Martin's Hundred 73 (search-summary only) -> 'at least 58', branding defined with method, actors named (Philadelphia militia, Larry Payne's killing, James Earl Ray, employers who took the braceros' 10%), institutions as actors rewritten. Compare: two-writer chapters cost ~500-590k tokens; this cost 363k.
 
 ### 2026-09-29 | [LOCAL] Single-writer trial DONE. work-workers PASSES prose. 363k tokens vs ~500-590k for two writers. STOPPED for Jon.
+NOTE (Jon): usage not measurable this window (other work). Burst of 3 single writers: T-310, T-311, T-312. The rest of the small group next window.
