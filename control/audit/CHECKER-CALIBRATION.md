@@ -20,7 +20,7 @@ what sonnet misses, and the brief is improved until sonnet matches opus.
 
 | Run | Part file | Real defects (fixer) | Found by sonnet | Found by opus | Found by both | Sonnet false findings | Opus false findings | Found only by fixer |
 |---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | |
+| 1 | native-nations part1 (5,813w, cloud era) | 99 | 78 (79%) | 77 (78%) | 59 | 18 of 101 (18%) | 5 of 85 (6%) | 3 |
 | 2 | | | | | | | | |
 | 3 | | | | | | | | |
 
@@ -28,15 +28,28 @@ what sonnet misses, and the brief is improved until sonnet matches opus.
 
 | Rule | Run 1 | Run 2 | Run 3 |
 |---|---|---|---|
+| The Reader (hard word undefined, long sentence) | 6 | | |
+| Personification | 3 | | |
+| Hard subjects §2 | 2 | | |
+| AI Cadence, Passives, Precise Words, Root Metaphors, Unanchored Comparatives | 1 each | | |
+| Not in bank | 2 | | |
 
 ### Cost
 
 | Run | Sonnet tokens | Opus tokens |
 |---|---|---|
+| 1 | 248k (10.2 min) | 211k (8.2 min); fixer 364k (16.4 min) |
 
 ## Brief changes
 
 <!-- date | change to CHECKER.md | the misses it answers -->
+- 2026-09-30, after run 1: (a) Pass 1: before reporting "Not in bank", grep the WHOLE chapter bank and its PATCH
+  sections, not only the era slice (sonnet's most common false finding). (b) Pass 5: "No surviving record
+  names..." / "the records do not say" is the prescribed sentence, not a defect, and needs no SEARCHED, NOT FOUND
+  line (sonnet's other false finding). (c) Pass 5: list every word a sixth-grader might not know (proclamation,
+  inquiry, treaty...) and check each is defined at first use in this file (sonnet's largest miss). (d) Pass 3:
+  a nation named as a people may act; a state, colony or crown may not (director ruling, run 1). (e) Leave
+  hb-note editor notes alone.
 
 ## Verdict
 

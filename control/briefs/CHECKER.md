@@ -51,7 +51,10 @@ sentence doing the forbidden thing in new words.
 
 **Pass 1: facts against the bank.** For each sentence, find each fact in it: every name, date,
 number, place, quote and cause. Look for it in the bank slice. Report as "Not in bank" any fact
-you cannot find there. Also report a number that differs from the bank's, a range the prose
+you cannot find there. **Before you report "Not in bank", search the whole bank file**
+(`grep -n -i "<key word>" research/research-<slug>.md`), including its PATCH and "Parked from"
+sections, not only your era slice: facts often sit in another era's section or a later PATCH.
+Also report a number that differs from the bank's, a range the prose
 narrowed, a date that contradicts another date in the file, and a "first", "only", "largest" or
 other superlative that the bank does not state.
 
@@ -73,6 +76,9 @@ people. For each one, ask whether that subject can literally do what the verb sa
   record does not name one, report it.
 - Watch the repairs: "The school cut the children's hair" is still an institution acting. The
   repair is "Staff at the school cut...".
+- Nations: a nation named as a people ("the Powhatan", "the Haudenosaunee") is a group of
+  people and may act. A nation named as a state or an institution ("Spain", "Britain", "the
+  colony", "the Crown", "the United States") may not. Name the people.
 
 **Pass 4: decoration and AI cadence.** Look at sentence shapes, ignoring meaning. Report
 triads (three parallel items or clauses used for rhythm), anaphora (sentences or clauses
@@ -85,7 +91,12 @@ Read the first sentences of the era's paragraphs together, then their last sente
 share a shape, report it.
 
 **Pass 5: the reader.** Report sentences over about 25 words and sentences carrying more than
-one idea. Report every hard word that is not defined in plain words at first use. Report a long
+one idea. **Hard words are the check most often missed.** Go through the era word by word and
+list every word an 11-year-old might not know: legal and government words (proclamation,
+inquiry, treaty, charter, tribute, petition, council, deed), religious and military words, and
+any word from another language. For each, find its first use in this part file and check that
+the same sentence or the next one says what it means in plain words. Report each one that does
+not. Report a long
 word where a shorter one means the same. For each paragraph, try to finish "This teaches the
 reader that ____." If you cannot, report the paragraph under "The Teaching Point". Report any
 paragraph that withholds its main fact until late, for suspense. Report every **fourth-wall
@@ -93,6 +104,8 @@ break** (BLOCKING): any sentence that mentions the book itself, this chapter, re
 searching, sources checked, writers, agents or drafts ("this book", "we could not find",
 "while researching"). An unknown fact is stated from the side of the historical record
 ("No surviving record names...").
+That sentence is the prescribed form, not a defect: do not report "the records do not say
+who" as a missing agent or ask for a SEARCHED, NOT FOUND line behind it.
 
 **Pass 6: structure and punctuation.** Report any em dash (U+2014) or semicolon, including
 inside a heading or a `label="..."`. Report records (`> **Key:** value` lines) outside an
@@ -102,6 +115,7 @@ an era whose `progress=` is not `written`, and anything else in VIEWER-CONTRACT 
 ## What not to do
 
 - Do not edit the part file, the bank or the outline.
+- Do not report anything inside an `hb-note` block (an editor's note the viewer never shows).
 - Do not report a defect you cannot quote.
 - Do not stretch. A pass that finds nothing has passed. But do not stop early either. Every
   sentence gets every pass.

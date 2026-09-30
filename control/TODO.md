@@ -23,6 +23,13 @@ errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all 
 it; no court outcome found. The story block is written from his life and work only, accusations left out
 (T-330). Jon's answer changes that one block in step 5: tell the accusations, keep as is, or swap in another artist.
 
+**For Jon to review (director ruling, T-331f):** native-nations part 1, Acoma 1598. The prose said the soldiers
+"assaulted" an Acoma woman. Following the hard-subjects policy (no softening), it now states the Acoma people's own
+account plainly: the soldiers raped her, with the word defined in plain words. Keep, or rule otherwise.
+
+**Calibration run 1 (native-nations part1):** 99 real defects; sonnet found 78, opus 77, both 59; sonnet false
+findings 18%, opus 6%. CHECKER.md sharpened (see CHECKER-CALIBRATION.md, "Brief changes"). Run 2 next.
+
 ## How step 2 ran (for the record; the director's prompt and sizing are in control/briefs/WRITER-DISPATCH.md)
 
 - One writer per chapter up to ~60k words of outline+bank (war 54k, music 60k landed cleanly, 20-22k tokens per
