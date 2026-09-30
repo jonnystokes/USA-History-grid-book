@@ -3447,7 +3447,9 @@ Jon is backing up the transcript folder before a pruning experiment (see the pla
 JSON-aware script, Sonnet reads a 300-character index, resume the copy with --fork-session; never touch the live file).
 
 ### 2026-09-29 | [LOCAL] T-315 | government-politics: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-315-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21902w files=3 validator_errors=0
+        493106 tokens, 174 tool uses, 27.5 min (opus). SINGLE WRITER: all 10 eras, PASS prose (21,902w, 14 stories). 17 PATCH, 1 not found, 30 outline claims left out. Fixed: Mayflower location, fourth-wall lines dropped, actors named for removal and EO 9066.
 AGENT: a07864183d94f58ed (salvage: python tools/salvage_agent.py a07864183d94f58ed --tail)

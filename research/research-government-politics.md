@@ -337,7 +337,49 @@ Encyclopedia Virginia, "Elections in Colonial Virginia"
   charges, including the force he used at Acoma. They banished him from New Mexico for life and
   fined him."
 
+### PATCH 2026-09-29 (T-315): Era 3, Virginia's 1662 law on the children of enslaved women
+
+- December 1662, the Virginia General Assembly: "all children borne in this country shalbe held bond or
+  free only according to the condition of the mother." English common law had set a child's status by
+  the father. The act reversed that, so that a child born to an enslaved woman was enslaved whatever the
+  father's status, and enslavers gained the children as labour. (Encyclopedia Virginia, "Negro
+  womens children to serve according to the condition of the mother (1662)",
+  https://encyclopediavirginia.org/entries/negro-womens-children-to-serve-according-to-the-condition-of-the-mother-1662/,
+  fetched 2026-09-29.) `slavery-freedom` leads on what it did to people.
+
 ## Era 4 — 1700 to 1750
+
+### PATCH 2026-09-29 (T-315): Era 4, Zenger: the crime defined, the jury's limited role, Anna Zenger
+
+Source: Historical Society of the New York Courts, "Crown v. John Peter Zenger, 1735",
+https://history.nycourts.gov/case/crown-v-zenger/, fetched 2026-09-29.
+- Seditious libel: "the intentional publication, without lawful excuse or justification, of written
+  blame of any public man or of the law, or any institution established by the law." "The truth of the
+  published statements was immaterial."
+- "The role of the jury in a seditious libel case was limited to deciding whether the person charged
+  was responsible for the allegedly libelous statement." De Lancey "instructed the jury that they, the
+  jurors, should decide only the question of whether Zenger had published the issues of the New-York
+  Weekly Journal."
+- "Zenger's wife, Anna, and his apprentices continued printing the paper. Only one issue was missed."
+
+### PATCH 2026-09-29 (T-315): Era 4, the assemblies and the governor's pay
+
+- "The assemblies also gained the all-important right to make financial appropriations and supervise
+  actual expenditures; thereby, they got the whip hand on the governor and the provincial judges by
+  controlling their salaries." "The imperial government tried to make the assemblies establish fixed
+  annual salaries, but the assemblies fought off all of the crown's efforts to establish a fixed civil
+  list in the colonies, which would have given the governor a powerful patronage weapon." "After 1680
+  the assemblies had authority to initiate all colonial laws." (Encyclopedia.com, "Royal Government in
+  America" (Dictionary of American History),
+  https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/royal-government-america,
+  fetched 2026-09-29.) The page names no colony or decade for governors going unpaid; a search summary
+  says governors of New York, Massachusetts and New Hampshire went unpaid for long stretches in the
+  1720s and 1730s **(unconfirmed: search summary only)**. Not written.
+- Same page, re-fetched 2026-09-29: royal colonies had "a governor and council (the upper house of the
+  legislature) appointed by the crown" beside the elected lower house. By 1763 "nine of the thirteen
+  colonies that would rebel in 1775 had royal governors." Pennsylvania and Maryland were under
+  proprietors. Connecticut and Rhode Island "continued to elect their own governors under their
+  seventeenth-century charters."
 
 ### Crown v. John Peter Zenger — [VERIFY] cleared, and one inherited claim corrected
 
@@ -703,6 +745,33 @@ Government using a law to jail its critics, with named actors. Not in the outlin
   William Paterson sentenced him to four months in jail and a $1,000 fine. Voters re-elected Lyon while
   he was in the jail at Vergennes."
 
+### PATCH 2026-09-29 (T-315): Era 5, why Madison changed his mind on a bill of rights
+
+- "The states agreed to ratify the Constitution provided the First Congress consider the rights and
+  other amendments it proposed." "James Madison, once the most vocal opponent of the Bill of Rights,
+  introduced a list of amendments to the Constitution on June 8, 1789." The page says Madison had argued
+  a bill of rights was unnecessary because the Constitution already limited the government's powers,
+  and changed his stance when ratification ran into trouble, especially in Massachusetts.
+  (National Archives, "The Bill of Rights: How Did it Happen?",
+  https://www.archives.gov/founding-docs/bill-of-rights/how-did-it-happen, fetched 2026-09-29.)
+
+### PATCH 2026-09-29 (T-315): Era 5, *The Federalist* and the first two parties
+
+- *The Federalist*: "a series of 85 essays written by Alexander Hamilton, John Jay, and James Madison
+  between October 1787 and May 1788," "published anonymously, under the pen name 'Publius'," mainly
+  in two New York newspapers, *The New York Packet* and *The Independent Journal*, to persuade New
+  Yorkers to ratify the Constitution. (Library of Congress research guide, "Federalist Papers: Primary
+  Documents in American History", https://guides.loc.gov/federalist-papers/full-text, fetched
+  2026-09-29.)
+- The first two parties formed in the 1790s: the **Federalists**, led by **Alexander Hamilton and John
+  Adams**, who wanted "a strong central government" and "favored an economy based on trade,
+  manufacturing, and banking" and were "more sympathetic to Britain"; and the **Democratic-Republicans**,
+  led by **Thomas Jefferson and James Madison**, who "argued that government power should remain more
+  so with the states," "opposed national banks," supported farming, and "tended to be more sympathetic
+  with France." (Bill of Rights Institute, "The Rise of America's First Political Parties",
+  https://billofrightsinstitute.org/essays/the-rise-of-americas-first-political-parties/, fetched
+  2026-09-29.)
+
 ## Era 6 — 1800 to 1850
 
 ### John Marshall — inherited `verified` tag, now actually sourced
@@ -798,6 +867,40 @@ re-check it against the National Park Service. Checked 2026-09-27:
 - **Ruling for the writer:** use the House's own figure, **102 to 97 on 26 May 1830**, and do not
   present it as uncontested if the count matters to the sentence. The Senate figure, 28 to 19, is not
   in dispute. The source for "Jackson signed it on 28 May 1830" is the NPS page.
+
+### PATCH 2026-09-29 (T-315): Era 6, *Marbury v. Madison*, the facts of the case
+
+- William Marbury was appointed by outgoing President John Adams as a justice of the peace for
+  Washington, D.C., in 1801, one of the "midnight appointments." The new Secretary of State, James
+  Madison, refused to deliver his commission. Marbury asked the Court for a writ of mandamus, a court
+  order, to compel Madison to deliver it. The Court held that the section of the Judiciary Act of 1789
+  letting it issue such writs in cases like this went beyond the Constitution's limits on the Court's
+  original jurisdiction, and was unconstitutional. "The Supreme Court for the first time declared
+  unconstitutional a law passed by Congress and signed by the President." "No other law was declared
+  unconstitutional until the *Dred Scott* decision of 1857." (National Archives, Milestone Documents,
+  "Marbury v. Madison (1803)", https://www.archives.gov/milestone-documents/marbury-v-madison, fetched
+  2026-09-29.)
+
+### PATCH 2026-09-29 (T-315): Era 6, what the Indian Removal Act authorized, and its toll
+
+- The Act "authorized the President to negotiate removal treaties with Indian tribes living east of the
+  Mississippi River." Signed **28 May 1830**. By the end of Jackson's presidency his officials had
+  negotiated **nearly 70 removal treaties**; **about 50,000** eastern Native people were moved to Indian
+  Territory; **about 25 million acres** of their eastern land were opened to white settlement. **About
+  4,000 of 16,000 Cherokees died** on the Trail of Tears, 1838 to 1839. (National Archives, Milestone
+  Documents, "President Andrew Jackson's Message to Congress 'On Indian Removal' (1830)",
+  https://www.archives.gov/milestone-documents/jacksons-message-to-congress-on-indian-removal, fetched
+  2026-09-29.) `native-nations` leads on the removals themselves.
+- Who carried out the Cherokee removal, 1838: "U.S. Army troops, along with various state militia,
+  moved into the tribe's homelands and forcibly evicted more than 16,000 Cherokee Indian people," who
+  were held in "round up camps" and then emigration camps before being sent west. The removal followed
+  the Treaty of New Echota, signed "in late 1835" by "a small, rump faction of the tribe," which the
+  Senate ratified in May 1836. "More than a thousand Cherokee, particularly the old, the young, and the
+  infirm, died during their trip west," and "an unknown number, perhaps several thousand, perished from
+  the consequences of the forced migration." (NPS, Trail of Tears National Historic Trail, "History &
+  Culture", https://www.nps.gov/trte/learn/historyculture/index.htm, fetched 2026-09-29.)
+  **The death figures differ:** National Archives gives about 4,000 of 16,000; NPS gives more than a
+  thousand on the trip and perhaps several thousand more from its effects. Give both.
 
 ### PATCH 2026-09-27 (T-258): Era 6, *Worcester v. Georgia*, the case facts
 
@@ -1019,6 +1122,49 @@ https://history.house.gov/People/Listing/R/RAINEY,-Joseph-Hayne-(R000016)/
   https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2619&context=lcp)
 - These laws worked alongside child-labour laws: a child who must be in school cannot be in a mill.
   **`work-workers` owns child labour.**
+
+### PATCH 2026-09-29 (T-315): Era 7, the Ku Klux Klan Act of 1871 (Rainey spoke for it)
+
+- "Vigilante groups like the Ku Klux Klan, however, freely threatened African Americans and their White
+  allies in the South." The act made it "a federal crime to deny any group or individual 'any of the
+  rights, privileges, or immunities, or protection, named in the Constitution.'" To enforce it, "the
+  President could suspend habeas corpus, deploy the U.S. military, or use 'other means, as he may deem
+  necessary.'" President Ulysses S. Grant signed it on **20 April 1871**. (U.S. House, Office of the
+  Historian, "The Ku Klux Klan Act of 1871",
+  https://history.house.gov/Historical-Highlights/1851-1900/hh_1871_04_20_KKK_Act/, fetched 2026-09-29.)
+
+### PATCH 2026-09-29 (T-315): Era 7, Tweed, re-read on the EBSCO page
+
+- EBSCO Research Starters, "William M. Tweed", https://www.ebsco.com/research-starters/history/william-m-tweed,
+  re-fetched 2026-09-29: through the "Tammany Hall political machine" Tweed held "immense influence
+  within the Democratic Party." His offices included "commissioner of schools, deputy street
+  commissioner, a New York state senator (1867-1871)." The *New York Times* published its exposés in
+  **July 1871** after whistleblowers gave it evidence. "In late 1873, he was fined $12,750 and sentenced
+  to twelve years in prison," cut to one year on appeal. "He died of pneumonia in the Ludlow Street
+  prison on April 12, 1878." This confirms from a fetched page the fine and the one-year reduction that
+  the T-258 patch had only from search summaries.
+
+### PATCH 2026-09-29 (T-315): Era 7, the movie for the `abraham-lincoln` story
+
+- *Lincoln* (2012), directed by Steven Spielberg, is about "the legislative struggle to get the House of
+  Representatives to pass the 13th Amendment," and shows the House vote of 31 January 1865. (University
+  of Toledo News, "'Lincoln' movie celebrates work of Toledo congressman", 13 December 2012,
+  https://news.utoledo.edu/index.php/12_13_2012/lincoln-movie-celebrates-work-of-toledo-congressman,
+  fetched 2026-09-29; the page spells the director "Stephen", the search summary of Wikipedia gives
+  "Steven" and Daniel Day-Lewis as Lincoln **(unconfirmed: search summary only)**.) The film is about
+  the amendment, not about habeas corpus.
+
+### PATCH 2026-09-29 (T-315): Era 7, the Morrill Act of 1862, and whose land it gave away
+
+- "Passed on July 2, 1862," "sponsored by Senator Justin Morrill of Vermont." It granted each state
+  "30,000 acres for each senator and representative in Congress." The colleges were to teach
+  "branches of learning as are related to agriculture and the mechanic arts." "Over 10 million acres
+  provided by these grants were expropriated from tribal lands of Native communities," land that "had
+  been, and would continue to be, taken from Native American tribes" through "treaties, agreements, and
+  seizure." The **second Morrill Act (1890)** "required states to establish separate land-grant
+  institutions for Black students or demonstrate that admission was not restricted by race."
+  (National Archives, Milestone Documents, "Morrill Act (1862)",
+  https://www.archives.gov/milestone-documents/morrill-act, fetched 2026-09-29.)
 
 ### Reconstruction constitutions and public schools — [VERIFY] cleared
 
@@ -1366,6 +1512,48 @@ not used anywhere else in the book.**
   returned HTTP 503 on this run.)
 - **`crime-justice` owns machine corruption as crime. This chapter owns the machine as a way of
   doing politics, and as a job.**
+
+### PATCH 2026-09-29 (T-315): Era 8, *Buck v. Bell*: the person, the operation, the count (hard subject, clinical word)
+
+Source: Encyclopedia Virginia, "Buck v. Bell (1927)", https://encyclopediavirginia.org/entries/buck-v-bell-1927/,
+fetched 2026-09-29.
+- **Carrie Buck**, born 2 July 1906 in Charlottesville. Raised by foster parents; "allegedly raped by
+  their nephew," she became pregnant. Her foster parents, "believing that the pregnancy was evidence of
+  promiscuity and thus of feeblemindedness," petitioned a court in Charlottesville on 23 January 1924
+  to have her committed.
+- The 1924 law allowed sterilization of people "deemed genetically unfit for procreation," on a finding
+  that the person was "feeble-minded" and likely to have "socially inadequate offspring."
+- **The operation:** on **19 October 1927** Dr. **John H. Bell** performed a **salpingectomy** on her:
+  he cut her fallopian tubes, the tubes that carry eggs to the womb, so she could never become
+  pregnant.
+- Holmes, for the Court: "Three generations of imbeciles are enough." Vote **8 to 1**; **Pierce
+  Butler** dissented without writing an opinion.
+- "Between 1927 and 1972, about **8,300** Virginians were sterilized." Virginia repealed the law in
+  1974; Governor Mark Warner apologized on 2 May 2002.
+
+### PATCH 2026-09-29 (T-315): Era 8, who signed Executive Order 9981
+
+- "President Harry S. Truman signed Executive Order 9981 on July 26, 1948." The order is signed "Harry
+  Truman, The White House, July 26, 1948." (National Archives, Milestone Documents, "Executive Order
+  9981", https://www.archives.gov/milestone-documents/executive-order-9981, fetched 2026-09-29.)
+
+### PATCH 2026-09-29 (T-315): Era 8, Executive Order 9066: who carried out the removal (hard subject)
+
+- The order let the Secretary of War and military commanders "prescribe military areas ... from which
+  any or all persons may be excluded." **Lieutenant General John L. DeWitt** of the Western Defense
+  Command carried out the removal, issuing Public Proclamation No. 4 on **29 March 1942**. About
+  **122,000** men, women and children were forced into assembly centers and then into ten "relocation
+  centers" in remote places in six western states and Arkansas, over six months. "Nearly 70,000" were
+  American citizens, "with no charges filed against them and no appeal process available." The
+  **Civil Liberties Act of 1988** (Public Law 100-383) apologized and paid **$20,000** to each person
+  who had been held. (National Archives, Milestone Documents, "Executive Order 9066",
+  https://www.archives.gov/milestone-documents/executive-order-9066, fetched 2026-09-29.)
+- **Figures differ:** the parked line above says "over 120,000, two thirds citizens"; this page says
+  about 122,000 and nearly 70,000 citizens. Give the National Archives figures and name them.
+- *Korematsu* (1944) held "compulsory exclusion of citizens during times of war was justified." *Ex
+  parte Endo* (same day), unanimous: "concededly loyal" citizens could not be detained, which "paved
+  the way for the end of mass confinement." (National Archives, "Court Cases",
+  https://www.archives.gov/research/aapi/ww2/courts, fetched 2026-09-29.)
 
 ### PATCH 2026-09-27 (T-258r): Era 8, the 18th and 21st Amendments, dates from the text
 
@@ -1821,6 +2009,32 @@ Source: https://www.archives.gov/founding-docs/amendments-11-27
   1974 — https://www.fordlibrarymuseum.gov/library/document/0122/1252055.pdf
 
 ---
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-315): who held and who paddled James Ingraham in October 1970
+Sources checked: Cornell LII, 430 U.S. 651 (the opinion names the defendants: "Willie J. Wright
+(principal at Drew Junior High School), Lemmie Deliford (an assistant principal), Solomon Barnes (an
+assistant to the principal)," and says only that Ingraham "was subjected to more than 20 licks with a
+paddle while being held over a table in the principal's office," naming no one as the person who
+struck or held him). How the prose can say it: name the three school officials the family sued, and
+state that the opinion does not say which of them struck him.
+
+### PATCH 2026-09-29 (T-315): Era 9, what Watergate was (the bank told the machinery, not the event)
+
+- "Early on the morning of June 17, 1972, five men broke into the Democratic National Committee
+  headquarters at the Watergate hotel and office complex in Washington, D.C." They were arrested
+  carrying surveillance equipment and cash, and the investigation later tied them to Nixon's
+  re-election campaign; the White House at first denied any part in it. "On February 7, 1973, the
+  Senate voted unanimously to create the select committee," chaired by **Sam Ervin** of North
+  Carolina. A White House aide, **Alexander Butterfield**, told the committee that the president kept
+  a voice-activated tape recorder in rooms of the White House, and the committee subpoenaed the
+  recordings on **16 July 1973**. (U.S. Senate, "Select Committee on Presidential Campaign Activities",
+  https://www.senate.gov/about/powers-procedures/investigations/watergate.htm, fetched 2026-09-29.)
+- 20 to 21 October 1973, the "Saturday Night Massacre": Nixon "ordered Attorney General Elliott
+  Richardson to remove" Special Prosecutor **Archibald Cox**, who had demanded the original tapes.
+  "In protest over Nixon's order, Richardson and the deputy attorney general resigned." On 23 October
+  1973, 84 House members co-sponsored impeachment resolutions. (U.S. House, History, Art & Archives,
+  "Impeachment Inquiries into President Richard Nixon",
+  https://history.house.gov/HistoricalHighlight/Detail/15032448776, fetched 2026-09-29.)
 
 ### Thurgood Marshall — the inherited `verified` tag, now actually sourced (story slug `thurgood-marshall`)
 
@@ -2486,6 +2700,28 @@ governments; Mississippian chiefdoms.
   Ocmulgee Mounds, Mississippian Culture —
   https://www.nps.gov/ocmu/learn/historyculture/mississippian-culture.htm)
 
+### PATCH 2026-09-29 (T-315): Era 1, more from the NMAI guide (read in full from the PDF with pypdf)
+
+Source for every line: National Museum of the American Indian, *Haudenosaunee Guide for Educators*,
+https://americanindian.si.edu/sites/1/files/pdf/education/HaudenosauneeGuide.pdf, fetched 2026-09-29.
+- "Haudenosaunee (hoe-dee-no-SHOW-nee) means 'people who build a house.' The name refers to a
+  CONFEDERATION or ALLIANCE among six Native American nations who are more commonly known as the
+  Iroquois Confederacy. Each nation has its own identity."
+- Iroquoian-speaking nations' "original homelands were located in the eastern United States, primarily
+  New York State and the Great Lakes region."
+- The Onondaga are "Keepers of the Central Fire" since the Onondaga Nation "is considered the capital of
+  the Confederacy. As the Peacemaker promised, the Haudenosaunee council fire burns at the Onondaga
+  Nation." The Mohawk are "Keepers of the Eastern Door," the Seneca "Keepers of the Western Door."
+- "Long ago, the Haudenosaunee Nations were at war with each other. A man called the Peacemaker wanted
+  to spread peace and unity." He came to the house of an Onondaga leader, Hayo'wetha (Hiawatha).
+  When peace had spread, "they uprooted a white pine tree and threw their weapons into the hole. They
+  replanted the tree on top of the weapons and named it the Tree of Peace, which symbolizes the Great
+  Law of Peace."
+- Wampum belts, woven of purple and white shell beads: "The designs in the belts recorded the laws of
+  the Confederacy, oral tradition used for ceremonies, and important political interactions."
+  "Wampum belts were presented at Grand Council meetings." "The Haudenosaunee never used wampum as
+  money."
+
 ### PATCH 2026-09-27 (T-258): Era 1, correction note on the congressional resolution about the Great Law
 
 - The bank above reports the NMAI guide's statement that in **1987 the U.S. Senate** passed a special
@@ -2549,6 +2785,30 @@ governors, the Laws of the Indies, and church authority in Florida and New Mexic
 The trial of Juan de Oñate took place in **1614**, so it belongs to **era 3**, not era 2. It is now
 written up, with sources, under "PATCH 2026-09-27 (T-258): Era 3, the Spanish crown puts its own
 governor on trial, 1614". Era 2 keeps only what Oñate did as governor from 1598.
+
+### PATCH 2026-09-29 (T-315): Era 2, whose land the first Spanish seats of government stood on
+
+- **St. Augustine, 1565.** "Admiral Menéndez and Chief Seloy of the Florida Timucua Indians met one
+  another at what is today St. Augustine." Menéndez "and his group of some 800 colonists (including 26
+  women and an unknown number of African slaves) made their first settlement at Seloy's town," and
+  "used Seloy's council house as the first Spanish fort." Timucua council houses were "usually
+  circular, made of thatch and extremely large, capable of holding up to a thousand people." "Seloy
+  offered his to Menéndez to use as a fort." (Florida Museum of Natural History, University of Florida,
+  *St. Augustine: America's Ancient City*, "First Contacts",
+  https://www.floridamuseum.ufl.edu/staugustine/timeline/first-contacts/, fetched 2026-09-29.)
+  Note: this page gives about 800 colonists; the NPS figure already in this bank is "about a thousand
+  men" sailing from Spain. The two describe different counts (colonists landed, men sailed). Give the
+  one the sentence needs and name it.
+- **New Mexico, 1598.** "In 1598 the Spanish gave it [San Juan Pueblo, Ohkay Owingeh] the name San Juan
+  Bautista (sometimes also called San Juan de los Caballeros)." (Encyclopedia.com, "San Juan Pueblo
+  (Ohkay Owingeh)",
+  https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/san-juan-pueblo-ohkay-owingeh,
+  fetched 2026-09-29.) Oñate's capital moved in 1599 to San Gabriel, "at the confluence of the Río
+  Chama and the Río Grande near Ohkay Owingeh, also known as San Juan Pueblo." "Across the Rio Grande
+  from the site of San Gabriel is the Ohkay Owingeh Pueblo. Still home to Tewa-speaking people." He
+  came with 600 Spanish settlers and Tlaxcalan allies. (NPS, "San Gabriel del Yunque-Ouinge and San
+  Miguel", https://www.nps.gov/subjects/travelspanishmissions/san-gabriel-del-yunque-ouinge-and-san-miguel.htm,
+  fetched 2026-09-29.)
 
 ## Sources used — eras 9 and 10 and the era 1-2 backfill (all fetched 10 September 2026)
 
