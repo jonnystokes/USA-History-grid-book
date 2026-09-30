@@ -3663,3 +3663,4 @@ AGENT: ad683f0af67fe7f0d (salvage: python tools/salvage_agent.py ad683f0af67fe7f
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-331-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+AGENT: ad6792aa94e6cec55 (salvage: python tools/salvage_agent.py ad6792aa94e6cec55 --tail)
