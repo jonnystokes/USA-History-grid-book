@@ -233,6 +233,17 @@ How the prose can say it: "Governor Antonio de Otermín ordered the two runners 
 - `elizabeth-timothy` (new, ordinary, verified): King, South Carolina Encyclopedia.
 - `john-peter-zenger-news-communication`: removed (see decision above).
 
+### PATCH 2026-09-30 (T-322): the Gazette, Morris's removal and the meaning of seditious libel
+- Historical Society of the New York Courts, "Crown v. John Peter Zenger, 1735," https://history.nycourts.gov/case/crown-v-zenger/ (read via WebFetch 2026-09-30): "The New York Gazette was founded in 1725 and for many years was the Province's only newspaper. It was published by the public printer, William Bradford, and was supportive of the Governor and his administration." "When New York's Chief Judge Lewis Morris issued a dissenting opinion in the 1733 case of Cosby v. Van Dam, Governor William Cosby summarily removed Morris from office." "Morris and close allies, attorneys James Alexander and William Smith set up the Province's first independent newspaper, the New-York Weekly Journal. Alexander was the newspaper's editor and through articles, satire and lampoons, accused the Cosby administration of tyranny and violation of the people's rights." "Seditious libel was defined as the intentional publication, without lawful excuse or justification, of written blame of any public man or of the law, or any institution established by the law." "The jury, after a brief deliberation, found Zenger 'not guilty' of publishing seditious libel."
+- Truth as a defence in New York only from 6 April 1805 (L. 1805, ch. 90): `research/research-government-politics.md` lines 386 to 395, citing https://history.nycourts.gov/case/people-v-croswell/ .
+
+### PATCH 2026-09-30 (T-322): the bomb at Cotton Mather's house did not explode
+- "On the fourteenth of November a lighted bomb was thrown into Mather's house, but the fuse came off and it failed to explode." (John B. Blake, "When Cotton Mather Fought the Smallpox," *American Heritage*, August 1957, vol. 8 no. 5, https://www.americanheritage.com/when-cotton-mather-fought-smallpox , read via WebFetch 2026-09-30.) This confirms the fuse detail tagged "search summary only" above.
+
+### SEARCHED, NOT FOUND 2026-09-30 (T-322): who threw the bomb into Cotton Mather's house, 14 November 1721
+Sources checked: *American Heritage* 1957 (above: describes the bomb, names no thrower, no investigation); Crawford, *Medical History* PMC3865953 ("someone threw"); a search listing Washington Post 2020, Harvard Contagion, MHS, Old North Church (summaries name no thrower).
+How the prose can say it: "No record names the person who threw it."
+
 ## 5. 1750 to 1800
 
 ### Stamp Act, 1765
@@ -303,6 +314,12 @@ How the prose can say it: era 6 should verify and state the 1827 date. In era 5,
 ### Stories in era 5
 - `thomas-paine`: candidate to verified (Britannica, JAR).
 - New: `isaac-bissell` (ordinary, verified, JAR/Bell), `mary-katharine-goddard` (ordinary, verified, USPS and Smithsonian), `matthew-lyon` (famous, verified, NCC, EBSCO, MTSU).
+
+### PATCH 2026-09-30 (T-322): Samuel Adams and the Boston committee, 1772
+- Massachusetts Historical Society, "Coming of the American Revolution: The Committees of Correspondence," https://www.masshist.org/revolution/committees.php (read via WebFetch 2026-09-30): "Samuel Adams proposes the creation of a corresponding society to gauge the sentiments of other Massachusetts towns." In answer to Virginia's 1773 proposal, "Massachusetts creates a colony-level committee of correspondence chaired by Samuel Adams." This confirms "with Samuel Adams among them" (tagged search summary only above). Prose may say Adams proposed the committee.
+
+### PATCH 2026-09-30 (T-322): Congress in Baltimore, January 1777
+- National Council for History Education, "A Printer's Role in the American Revolution: Mary Katherine and the Declaration of Independence," https://ncheteach.org/resource/a-printers-role-in-the-american-revolution-mary-katherine-and-the-declaration-of-independence/ (read via WebFetch 2026-09-30): "in January 1777, amid the turbulence of the American Revolution, the Continental Congress, temporarily relocated to Baltimore, commissioned Goddard to print the first official broadside of the Declaration of Independence that included the names of its signatories." This confirms the Baltimore meeting place (tagged search summary only above). The reason for the move (to escape the British army) appeared only in a search summary. (unconfirmed: search summary only) Not used.
 
 ## Bank check, eras 1 to 5 (T-270a, 2026-09-27)
 
@@ -634,6 +651,12 @@ How the prose can say it: "Alfred Moore Waddell led the crowd. The records do no
 ### Television begins, 1927 to 1941
 - Parked (top of bank, from `technology`): Philo Farnsworth's first all-electronic TV image, 7 September 1927, San Francisco. Parked (from `marketplace`): first legal TV commercial, 1 July 1941, WNBT New York, Bulova, $9. Household TV counts for 1950 fall in era 9. Not researched further here.
 
+### PATCH 2026-09-30 (T-322): what the Defender printed to urge migration north
+- *The Washington Informer* (a Black newspaper in Washington, D.C.), "The Great Migration was a Triumph of the Black Press," https://www.washingtoninformer.com/the-great-migration-was-a-triumph-of-the-black-press/ (read via WebFetch 2026-09-30; journalism source, labelled): Abbott "urged readers to leave the South and posted job listings, train schedules, and photos of the best schools, parks and housing in the city, in comparison to the deplorable conditions in the South." No date given for these items. The "Great Northern Drive" date of 15 May 1917 appears in a search summary only. (unconfirmed: search summary only) Not used. Britannica's Abbott page returned 403 to WebFetch this session.
+
+### PATCH 2026-09-30 (T-322): who ordered the removal of Japanese Americans, 1942 (copied with sources from the rights-movements bank)
+- President Franklin D. Roosevelt signed Executive Order 9066 on 19 February 1942. Lieutenant General John L. DeWitt, commanding the Western Defense Command, issued Public Proclamation No. 4, "which began the forced evacuation and detention of Japanese-American West Coast residents on a 48-hour notice." Count: "Approximately 122,000 men, women, and children," of whom "Nearly 70,000 ... were American citizens." (National Archives, "Executive Order 9066," https://www.archives.gov/milestone-documents/executive-order-9066 , as recorded in `research/research-rights-movements.md` line 1733 to 1734.) MTSU (above) gives 110,000 to 120,000. Record both.
+
 ### SEARCHED, NOT FOUND 2026-09-28 (T-270b): which Southern police departments and towns seized the Chicago Defender or arrested its sellers
 Sources checked: Britannica "Robert Sengstacke Abbott" (states that local police confiscated copies, arrested distributors under vagrancy laws and banned sales, and names no town or officer); Britannica "Chicago Defender"; migration bank (Macon's license fee on labor recruiters, not on the paper); search results.
 How the prose can say it: "Police in Southern towns seized copies and arrested people who sold it. The accounts do not name the towns."
@@ -648,6 +671,13 @@ How the prose can say it: leave the prewar papers out, and tell the camp papers,
 - Seed "television beginning": one sentence from parked material.
 - Stories: REMOVED `ida-tarbell-news-communication` (told as a verified story in `big-business`). `edward-r-murrow` verified. NEW `robert-s-abbott` (verified) and NEW `victor-berger` (verified).
 
+
+### PATCH 2026-09-30 (T-322): Ida B. Wells, the Memphis killings and what Black Memphis did (copied with sources from the rights-movements bank)
+- Born 16 July 1862, Holly Springs, Mississippi, into slavery; freed 1865 (NPS, "Ida B. Wells," https://www.nps.gov/people/idabwells.htm ; NWHM), as recorded in `research/research-rights-movements.md` line 594.
+- 9 March 1892: Tom Moss, Calvin McDowell and a third man (Will Stewart in NPS and the Lynching Sites Project of Memphis; Henry Steward in NWHM) "were forcibly removed from their cells and shot to death" in the early morning hours (Tennessee State Museum, "Three Events That Defined Ida B. Wells' Fight for Social Justice," https://tnmuseum.org/Stories/posts/ida-b-wells-fight-for-social-justice ; NPS "taken from their cells and murdered"). McDowell was shot at close range with a shotgun and Stewart in the neck (Lynching Sites Project of Memphis, https://lynchingsitesmem.org/lynching/peoples-grocery-lynchings-thomas-moss-will-stewart-calvin-mcdowell ). Moss was part-owner of the People's Grocery, a Black-run store taking business from a white-owned store nearby (Tennessee State Museum). All as recorded in `research/research-rights-movements.md` lines 597 to 599 and 740.
+- No one was charged. Wells, *Southern Horrors* (1892, Gutenberg 14975): "The Afro-Americans of Memphis denounced the lynching of three of their best citizens, and urged and waited for the authorities to act in the matter and bring the lynchers to justice. No attempt was made to do so." (rights-movements line 741.)
+- What Black Memphis did, Wells in *Southern Horrors*: "the black men left the city by thousands, bringing about great stagnation in every branch of business. Those who remained so injured the business of the street car company by staying off the cars, that the superintendent, manager and treasurer called personally on the editor of the Free Speech, asked them to urge our people to give them their patronage again." The *Free Speech* had advised people to leave. (rights-movements line 743.)
+- *A Red Record* (1895): "the writer hereof became an exile; her property destroyed and her return to her home forbidden under penalty of death." (rights-movements line 743.)
 
 ## Bank check, eras 6 to 8 (T-270b, 2026-09-28)
 
@@ -743,6 +773,9 @@ Sources are opened with curl and a browser User-Agent unless marked. Britannica 
 
 ### Civil rights news: Jet and Emmett Till, 1955
 - Wellesley Magazine, "Black History in Your Hands," fall 2022 (https://magazine.wellesley.edu/fall-2022/black-history-your-hands), interview with Professor Brenna Greer: the 15 September 1955 issue of *Jet* published photographs of Emmett Till's body. *Jet*'s weekly circulation in 1955 was about 425,000. The Till issue sold out, the only issue besides the 1945 first issue to do so, and was reprinted. The article title "Nation Horrified by Murder of Kidnapped Chicago Youth," pages 6 to 9 (unconfirmed: search summary only, NMAAHC object 2011.17.5, which returned 403). The killing itself: `crime-justice` era 9 story `emmett-till` (DOJ-sourced). This chapter tells the magazine.
+
+### PATCH 2026-09-30 (T-322): the Till killing, for the Jet span (copied with source from the crime-justice bank)
+- US Department of Justice, Civil Rights Division, "Emmett Till - Notice to Close File" (announced 6 December 2021), https://www.justice.gov/crt/case-document/emmett-till-notice-close-file-0 , as recorded in `research/research-crime-justice.md` lines 1194 to 1203: Till, 14, from Chicago, visiting relatives near Money, Mississippi; "Roy Bryant, his half-brother J.W. Milam, and at least one other person" took him by force from his relatives' home (August 1955); three days later his "brutally beaten body was found" in the Tallahatchie River "weighed down with a 75-pound cotton gin fan"; Bryant and Milam were tried for murder before "an all-white jury, which quickly acquitted them"; afterwards both "confessed to kidnapping and murdering Till" to William Bradford Huie in *Look*, January 1956.
 
 ### A reporter killed: Paul Guihard, Oxford, Mississippi, 30 September 1962
 - US Department of Justice, Civil Rights Division, Notice to Close File 144-40-2153, "Unknown Subject, Oxford, Mississippi, Paul L. Guihard (Deceased)," 16 July 2011 (https://www.justice.gov/crt/case-document/file/951421/dl, PDF): on the night before James Meredith registered as the first Black student at the University of Mississippi (1 October 1962), rioting broke out on the campus. Hundreds were injured and two men died. Guihard, a 30-year-old reporter for the French news agency Agence France-Presse with 10 years there and British-French citizenship, was sent from New York that day with photographer Sam Schulman. He was killed by "a single .38 caliber bullet fired at close range entering his body through the back and striking his heart." No known witnesses. Ballistic tests of seized guns found no match. "Despite an extensive investigation, no subject has ever been identified." The riot began when someone in the crowd threw a pipe at a US marshal, and the crowd threw rocks, bricks and bottles. The Justice Department closed the case in 2011 without charges.
@@ -909,6 +942,10 @@ Cutoff for every figure in this section: pages opened on 28 September 2026. Each
 
 ### Tribal outlets
 - Nieman Lab 2026 (above) on tribal radio stations and Native Public Media. A count of tribal newspapers and the state of tribal press-freedom laws was not researched. Round 2.
+
+### PATCH 2026-09-30 (T-322): perishable items re-checked
+- Paramount and Warner Bros. Discovery: still not closed on 30 September 2026. Variety, "Paramount Says Timing of Warner Bros. Deal Close 'Not Yet Certain' but Sets Oct. 6 Date for Stock Exchange Switch" (https://variety.com/2026/film/news/paramount-warner-bros-deal-close-not-yet-certain-warrants-issue-date-1236876018/), seen in search results 30 September 2026: the company says the timing of closing "is not yet certain." (unconfirmed: search summary only for the wording) The prose says only that the purchase was not complete at the end of September 2026, which the NPR entry above and this check both support.
+- Medill: no 2026 State of Local News report found in a search on 30 September 2026. The 2025 report (October 2025) remains the latest.
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-270c): how many public radio and TV stations have closed since the federal money ended, as of September 2026
 Sources checked: Nieman Lab 28 July 2026 (jobs lost, mergers, no closure count); Medill 2025 (342 stations tracked, stations "at risk"); Protect My Public Media and Free Press pages (search summaries only: one station closed December 2025, two more at risk, NJ PBS closing); Benton/CPB release (no count).

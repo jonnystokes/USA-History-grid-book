@@ -3533,7 +3533,9 @@ slices (1-5, 6-7, 8-10) instead of two worked. New rule: single writer for every
 The giants (religion ~84k, education ~114k, rights-movements ~131k) still split along era lines.
 
 ### 2026-09-30 | [LOCAL] T-322 | news-communication: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-322-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20945w files=3 validator_errors=0
+        408787 tokens, 150 tool uses, 17.4 min (opus). SINGLE WRITER: all 10 eras, PASS prose (20,945w, 23 stories). 9 PATCH, 1 not found, 8 outline claims left out, nothing OPEN. Fixed: unsourced era 4/8 claims, Memphis killings stated, Ole Miss per DOJ, disputes stated as disputes.
 AGENT: aa4a8bb5a2e693da1 (salvage: python tools/salvage_agent.py aa4a8bb5a2e693da1 --tail)
