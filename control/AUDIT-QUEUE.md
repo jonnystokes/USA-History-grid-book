@@ -266,3 +266,7 @@ will be worded differently, which is exactly why a search will not find it.
 - **religion era 6, Nauvoo on Sauk and Meskwaki land (T-327a):** the PATCH rests on Wikipedia only. Confirm it against a primary or scholarly source in step 4.
 
 - **education part 2, three glosses from general knowledge (T-328a):** the writer explained Stono, Nat Turner and the Klan in a phrase each without a bank line behind them (flagged in its checkpoint). Check each against the education bank or the slavery-freedom and crime-justice banks, and source or cut it. This breaks "facts from the bank only", so check whether WRITER.md needs a line on short explanatory glosses.
+
+- **rights-movements era 8, the Night of Terror log (T-329b):** the bank and outline credit it to Alice Paul; *Jailed for Freedom* shows it is Lucy Burns's. The prose and a correction PATCH follow Burns. Correct the outline, and check elsewhere in the book for the same error.
+- **rights-movements era 9, Freedom Riders count (T-329b):** the writer changed "thirteen" to "eleven" on an NPS page. The original May 1961 group is usually given as thirteen; the NPS figure may count only one bus. Check which group the sentence describes and match the number to it.
+- **Tulsa (T-329b):** rights-movements now tells the grand jury as the sources do (about 70 indicted, many Black Greenwood leaders; no white man imprisoned; Gustafson convicted of dereliction of duty). DECISIONS #23's "no one was ever convicted" wording should be corrected in the audit.
