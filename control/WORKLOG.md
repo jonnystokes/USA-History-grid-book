@@ -3327,6 +3327,8 @@ RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 writte
 NOTE (Jon): T-302b used 78% -> 81% (3%, 262k tokens, 12.6 min): about half the cost per agent seen earlier in the week. Run ONE agent (T-303b), then PAUSE.
 
 ### 2026-09-27 | [LOCAL] T-303b | technology: writer B: eras 8-10 prose (part3), completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-303-technology.md
 VERIFY: python tools/project_state.py --check technology --stage prose
+RESULT: DONE. PASS  technology / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14616w files=3 validator_errors=0
+        261673 tokens, 81 tool uses, 13.7 min (opus). Writer B: part3 (~5,100w), chapter PASSES prose. Assembly line and 1913 deaths, radio/TV/plastics/tractors, ENIAC and the six programmers, transistor; the chip, PCs, ARPANET/web/GPS; smartphones, batteries, AI and its errors (NIST 2024, the 2023 ChatGPT invented-cases court case), Robert Williams. 4 gaps PATCHed, 0 not found, 7 outline claims left out. Fixed: police named in the Williams arrest, personification, the web's origin stated plainly.
