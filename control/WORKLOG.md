@@ -3748,7 +3748,9 @@ RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 w
 AGENT: ac3a6b9962c713878
 
 ### 2026-09-30 | [LOCAL] T-337 | native-nations: CHECKER sonnet, part2 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16710w files=3 validator_errors=0
+        214064 tokens, 23 tool uses, 6.4 min (sonnet). CHECKER sonnet part2: 65 findings (17 B, 8 M, 40 m)
 AGENT: a8dca7146e17aff77
