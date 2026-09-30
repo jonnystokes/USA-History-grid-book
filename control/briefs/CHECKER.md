@@ -54,6 +54,8 @@ number, place, quote and cause. Look for it in the bank slice. Report as "Not in
 you cannot find there. **Before you report "Not in bank", search the whole bank file**
 (`grep -n -i "<key word>" research/research-<slug>.md`), including its PATCH and "Parked from"
 sections, not only your era slice: facts often sit in another era's section or a later PATCH.
+A plain-language definition of a word ("a grand jury is a group of citizens who decide...") is
+not a fact that needs the bank, unless it states something specific to this event.
 Also report a number that differs from the bank's, a range the prose
 narrowed, a date that contradicts another date in the file, and a "first", "only", "largest" or
 other superlative that the bank does not state.
@@ -81,6 +83,11 @@ companies and courts count as institutions. For each one, ask whether that subje
 - Nations: a nation named as a people ("the Powhatan", "the Haudenosaunee") is a group of
   people and may act. A nation named as a state or an institution ("Spain", "Britain", "the
   colony", "the Crown", "the United States") may not. Name the people.
+- Lawmaking bodies: "the House passed", "the Senate voted", "Tennessee ratified", "the committee
+  reported" are institutions acting. The repair names the people: House members, senators,
+  Tennessee's lawmakers, the committee's members.
+- A law may be described by what its text says ("the law bans", "requires", "allows"). That is
+  not a defect. A law acting in the world ("the law ended", "freed", "protected") is.
 
 **Pass 4: decoration and AI cadence.** Look at sentence shapes, ignoring meaning. Report
 triads (three parallel items or clauses used for rhythm), anaphora (sentences or clauses

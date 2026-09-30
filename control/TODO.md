@@ -17,7 +17,14 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all verified. This run: T-315 to T-330
 (16 chapters, 22 writer agents, 2026-09-29/30).
 
-**STEP 3 (AUDIT): IN PROGRESS.** Calibration first (below), one agent at a time until Jon has measured it.
+**STEP 3 (AUDIT): IN PROGRESS.** Calibration COMPLETE (3 runs, T-331..T-333). Now the sonnet checker on the other 108
+part files, one at a time: `python tools/audit_status.py` shows progress and the next file; the prompt and cycle are in
+`control/briefs/CHECKER-DISPATCH.md`.
+
+**For Jon: the calibration verdict** (`control/audit/CHECKER-CALIBRATION.md`, "Verdict"). Sonnet now finds as many real
+defects as opus (70% vs 66% in run 3) with 6% false findings. But any single read misses about a third, and the two
+models overlap on only 40-60%. Recommendation: sonnet alone now, step 6 as the second read. Proceeding that way until
+Jon rules (checkers change no chapter, so a second read can be added later at no loss).
 
 **Open for Jon:** art era 10, Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he denies
 it; no court outcome found. The story block is written from his life and work only, accusations left out
@@ -29,8 +36,9 @@ account plainly: the soldiers raped her, with the word defined in plain words. K
 
 **Calibration run 1 (native-nations part1):** 99 real defects; sonnet found 78, opus 77, both 59; sonnet false
 findings 18%, opus 6%. CHECKER.md sharpened (see CHECKER-CALIBRATION.md, "Brief changes").
-**Run 2 (crime-justice part2):** 110 real; sonnet 76, opus 74, both 46; false findings sonnet 12%, opus 1%. Brief
-sharpened again. Run 3 (government-politics part3) next.
+**Run 2 (crime-justice part2):** 110 real; sonnet 76, opus 74, both 46; false findings sonnet 12%, opus 1%.
+**Run 3 (government-politics part3):** 192 real; sonnet 134, opus 127, both 77; false sonnet 6%, opus 1%. The three
+calibration files were also fixed by the opus fixers (step-5 work done early; each file grew, 5.5-10.5k to 6.1-12.6k).
 
 ## How step 2 ran (for the record; the director's prompt and sizing are in control/briefs/WRITER-DISPATCH.md)
 
