@@ -3317,6 +3317,8 @@ NOTE (Jon): PAUSE after T-301b finishes. No new dispatches until Jon says.
 NOTE (Jon, 78%): run ONE agent (T-302b), then PAUSE.
 
 ### 2026-09-27 | [LOCAL] T-302b | energy: writer B: eras 8-10 prose (part3), completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-302-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13122w files=3 validator_errors=0
+        262255 tokens, 80 tool uses, 12.6 min (opus). Writer B: part3 (6,724w), chapter PASSES prose. Spindletop, Monongah and Ludlow, TVA/Hoover/Grand Coulee and the people moved, Osage murders (three counts), REA; Shippingport, Garrison Dam, 1969 mine law and black lung, 1973 embargo, TMI, Navajo uranium and Church Rock; fracking, Upper Big Branch, Dakota Access, 2025 mix, Texas 2021, Vogtle and restarts. 11 gaps PATCHed, 0 not found, 10 outline claims left out. Fixed: 'no new reactor for four decades' false (Watts Bar 2, 2016), Russia not Saudi Arabia, TVA and a law as actors, Garrison numbers, Monongah share.
