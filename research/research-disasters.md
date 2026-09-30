@@ -147,6 +147,15 @@ How the prose can say it: "No record gives the number who drowned. Most were sai
 - 1600s epidemics among Native nations: `health` leads.
 - The 1622 Powhatan attacks and the 1675-76 war: `war` and `native-nations`.
 
+### PATCH 2026-09-30 (T-320a): why Powhatan besieged Jamestown, and the Starving Time counts
+- Martha McCartney, "The Starving Time," Encyclopedia Virginia, December 7, 2020, updated August 18, 2025 (https://encyclopediavirginia.org/entries/starving-time-the/, opened with WebFetch 2026-09-30):
+  - The colonists "showed no inclination or ability to hunt, fish, or farm, instead relying on overseas shipments or food that they could bargain, or often outright steal, from the Indians."
+  - "the residents of Tsenacomoco were feeling the drought no less than the English, and could scarcely afford these unexpected demands on their food supply."
+  - Before the siege, Francis West "beheaded two warriors" while trading with the Patawomecks. In November 1609 a party under John Ratcliffe was ambushed at Orapax, "Ratcliffe himself tortured to death."
+  - "In November 1609, Powhatan ordered a siege of Jamestown, a move that initiated, finally, the period known as the Starving Time." The Powhatans "used famine as a weapon."
+  - By May 1610 "only 60 men and women, out of 240, remained alive" at Jamestown.
+- **Count note:** McCartney gives 60 alive of 240 (at Jamestown fort). The `food-farming` bank (line 37, Historic Jamestowne and others) gives about 500 at the start of the winter and about 61 by spring. Glover (Sea Venture entry, above) gives "only sixty survivors." The prose gives about 60 survivors and both starting figures.
+
 ## 04 · 1700 to 1750
 
 Researched by T-264r (continuation of T-264a), 2026-09-27. T-264a was killed before it wrote any era 04 text.
@@ -333,6 +342,13 @@ How the prose can say it: "Reports of the time counted fewer than 100 deaths on 
 ### The steamboat Erie, August 9, 1841
 - **Wikipedia, "Erie (steamship, sank 1841)"** (opened with a script 2026-09-27): left Buffalo August 9, 1841 with "343 passengers — including 38 crew and 8 band members." Captain Thomas Jefferson Titus. Painters left "demijohns of paint, turpentine, and varnish" on deck "near the ventilation pipe from the ship's boiler"; the area had "caught fire three times" before. The ship had been freshly painted and varnished. "At about 8 pm ... an explosion was heard," the turpentine. Two lifeboats capsized; the third carried Titus and four others. "The first rescue ship arrived at 10 pm — the DeWitt Clinton." "Fewer than 100 were rescued." "Initial estimates were that about 170 had been lost ... Later accounts determined that the number was likely as high as 254." The six painters, hired by William G. Miller of Buffalo, all died. **Count:** about 170 (first estimates) and about 254 (later).
 - Search summaries say many passengers were Swiss and German immigrants bound for the Midwest (unconfirmed: search summary only; the Wikipedia text opened does not say so). Not used in the outline.
+
+### PATCH 2026-09-30 (T-320a): Captain Perin's death, and the month of the New Madrid relief law
+- **Perin confirmed dead:** James T. Lloyd, *Lloyd's Steamboat Directory and Disasters on the Western Waters* (1856), text of the Moselle account transcribed at NKY Views (https://www.nkyviews.com/Other/text/text_moselle.html, opened with WebFetch 2026-09-30): Captain Perrin was standing on the deck above the boiler. "He was thrown to considerable height on the steep embankment of the river and killed, while his companion was merely prostrated on the deck, and escaped without injury." Lloyd spells the name "Perrin"; Wikipedia "Perin".
+- **The relief law's month:** Arkansas State Library (COSL), "New Madrid Claims (1815)" (https://cosl.org/History/NewMadridClaims, opened with WebFetch 2026-09-30): the act of Congress was passed in "February of 1815." The exact day, February 17, is still only in search summaries (History.com, Missouri State Archives) (unconfirmed: search summary only). The prose gives "February 1815."
+
+### PATCH 2026-09-30 (T-320a): the Pulaski's route
+- Wikipedia, "Steamship Pulaski disaster" (opened with WebFetch 2026-09-30): the ship ran "from Savannah, Georgia, to Baltimore, Maryland." "The packet steamer Pulaski, bound for Baltimore, Maryland, departed Charleston, South Carolina on June 14, 1838." Rebecca Lamar's account says the ship sailed from Savannah. So: Savannah, a stop at Charleston, then north for Baltimore.
 
 ### What era 06 leaves out, and why
 - The Donner Party, 1846 to 1847: `exploration` and `migration` (a slow starvation, not a sudden calamity).
