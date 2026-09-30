@@ -92,7 +92,7 @@ Brief: `control/briefs/WRITER.md` (model opus). **Single-writer mode where the c
 chapters get two writers (eras 1-7, then 8-10). The giants (`education`, `rights-movements`,
 `religion`) are split further along era lines, still into the same three files. One writer per
 chapter at a time, in order; parallelism is across chapters, longest chains first; Jon sets how many
-run at once (#27). Status on 2026-09-29: 30 written, 7 to go (see `control/TODO.md`).
+run at once (#27). Status on 2026-09-29: 31 written, 6 to go (see `control/TODO.md`).
 
 **The writer researches its own gaps** (DECISIONS #21): a few searches per question. What it
 finds goes into the bank as a PATCH, then into the prose. What it cannot find goes into the bank
