@@ -3402,3 +3402,8 @@ VERIFY: python tools/project_state.py --check marketplace --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-311-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+
+### 2026-09-27 | [LOCAL] T-312 | america-world: ONE writer, all 10 eras [BURST3] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-312-america-world.md
+VERIFY: python tools/project_state.py --check america-world --stage prose

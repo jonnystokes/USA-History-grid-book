@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-311 big-business (ONE writer, all 10 eras [BURST3])
+NOW-RUNNING: T-312 america-world (ONE writer, all 10 eras [BURST3])
 **BURST OF 3 single writers (Jon): T-310 marketplace, T-311 big-business, T-312 america-world. Other half (government-politics, styles, slavery-freedom) in the next window.**
 If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
