@@ -3324,3 +3324,4 @@ RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 writte
         262255 tokens, 80 tool uses, 12.6 min (opus). Writer B: part3 (6,724w), chapter PASSES prose. Spindletop, Monongah and Ludlow, TVA/Hoover/Grand Coulee and the people moved, Osage murders (three counts), REA; Shippingport, Garrison Dam, 1969 mine law and black lung, 1973 embargo, TMI, Navajo uranium and Church Rock; fracking, Upper Big Branch, Dakota Access, 2025 mix, Texas 2021, Vogtle and restarts. 11 gaps PATCHed, 0 not found, 10 outline claims left out. Fixed: 'no new reactor for four decades' false (Watts Bar 2, 2016), Russia not Saudi Arabia, TVA and a law as actors, Garrison numbers, Monongah share.
 
 ### 2026-09-29 | [LOCAL] PAUSED (Jon) after T-302b. energy PASSES prose. Nothing in flight.
+NOTE (Jon): T-302b used 78% -> 81% (3%, 262k tokens, 12.6 min): about half the cost per agent seen earlier in the week. Run ONE agent (T-303b), then PAUSE.
