@@ -3621,7 +3621,9 @@ RESULT: LANDED. FAIL  rights-movements / prose. measured: stage=WRITING ms_eras=
 AGENT: a4278d2a87c6c210c (salvage: python tools/salvage_agent.py a4278d2a87c6c210c --tail)
 
 ### 2026-09-30 | [LOCAL] T-329b | rights-movements: writer B, eras 8-9 (part3) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-329-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: LANDED. FAIL  rights-movements / prose. measured: stage=WRITING ms_eras=9/10 written=9/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=40689w files=3 validator_errors=0
+        405964 tokens, 103 tool uses, 17.4 min (opus). WRITER B: eras 8-9 landed (21,081w, 12 stories), 9/10 as expected. 17 PATCH, 1 not found, 11 claims left out, nothing OPEN. Tulsa led per #23 with the grand-jury facts. Fixed: Night of Terror log is Lucy Burns's; Freedom Riders count.
 AGENT: a1af370803c400d06 (salvage: python tools/salvage_agent.py a1af370803c400d06 --tail)

@@ -1,6 +1,6 @@
 # CHECKPOINT T-329 | rights-movements | prose | writer A: eras 1-7 (part1 + part2), writer B: eras 8-9 (part3), writer C: era 10 (part3) + final
 
-STATUS: T-329a landed (director verified: FAIL  rights-movements / prose)
+STATUS: T-329b landed (director verified: FAIL  rights-movements / prose)
 VERIFY: python tools/project_state.py --check rights-movements --stage prose   (passes only after writer C)
 BRIEF:  control/briefs/WRITER.md
 MODEL:  opus
@@ -8,8 +8,8 @@ FILES:  manuscript/rights-movements/part1-before-1800.md (eras 1-5) · manuscrip
         · manuscript/rights-movements/part3-1900s-and-today.md (eras 8-10) · research/research-rights-movements.md (PATCH and
         SEARCHED, NOT FOUND entries only) · this checkpoint
 
-NOW:    T-329a done; self-review of part2 complete
-NEXT:   T-329b: unit 8
+NOW:    T-329b done; self-review of eras 8-9 complete
+NEXT:   T-329c: unit 10
 
 ## Research state before writing (2026-09-29)
 
@@ -27,8 +27,8 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 | 5 | era 05 1750-1800 -> part1 | T-329a | done | 2088w, validator 0 errors, emdash=0 semicolon=0 |
 | 6 | era 06 1800-1850 -> part2 | T-329a | done | 4413w, validator 0 errors, emdash=0 semicolon=0 |
 | 7 | era 07 1850-1900 -> part2 | T-329a | done | 9340w, validator 0 errors, emdash=0 semicolon=0 |
-| 8 | era 08 1900-1950 -> part3 | T-329b | todo | |
-| 9 | era 09 1950-2000 -> part3 | T-329b | todo | |
+| 8 | era 08 1900-1950 -> part3 | T-329b | done | about 11,570w, validator 0 errors, emdash=0 semicolon=0 |
+| 9 | era 09 1950-2000 -> part3 | T-329b | done | about 9,580w, validator 0 errors, emdash=0 semicolon=0 |
 | 10 | era 10 2000-today -> part3 | T-329c | todo | |
 | 11 | final: self-review, --punct, validator, prose check | T-329c | todo | |
 
@@ -41,6 +41,22 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 6 | Lovejoy killing and the Alton trials (who was charged, verdicts) | PATCH (Lincoln, Alton Trials 1838, full text; EWB) | PATCH 2026-09-30 (T-329a): Elijah Lovejoy's death...
 - era 6 | who Frederick Douglass was | PATCH (copied from research-slavery-freedom) | PATCH 2026-09-30 (T-329a): Frederick Douglass...
 - era 2 | when/where Las Casas gave up his encomienda | PATCH (Encyclopedia.com / EWB: Cuba, 1514) | PATCH 2026-09-30 (T-329a): when and where Las Casas gave up his encomienda
+- era 8 | Tulsa grand jury, Rowland arrest, deputizing | PATCH (copied from research-crime-justice, DOJ 2025 and Ellsworth OHS) | PATCH 2026-09-30 (T-329b): Tulsa 1921, the arrest...
+- era 8 | NAACP founders and signers (was search summary only) | PATCH (naacp.org Our History) | PATCH 2026-09-30 (T-329b): the NAACP founders
+- era 8 | Black women's vote after 1920 | PATCH (NPS) | PATCH 2026-09-30 (T-329b): Black women's vote after 1920
+- era 8 | definition of eugenics, 30 states / 60,000 | PATCH (NHGRI) | PATCH 2026-09-30 (T-329b): what eugenics was
+- era 8 | Radium Girls two-year limit (was search summary only) | PATCH (History.com); 1928 hearing dates still unconfirmed, left out | PATCH 2026-09-30 (T-329b): the Radium Girls' two-year limit
+- era 8 | who shot James Wakasa and what happened to him | PATCH (JANM, Discover Nikkei) | PATCH 2026-09-30 (T-329b): who shot James Wakasa
+- era 8 | Night of Terror account: whose log | PATCH CORRECTION (Stevens, Jailed for Freedom: it is Lucy Burns's) | PATCH 2026-09-30 (T-329b): CORRECTION
+- era 8 | Randle still living? | PATCH (search: no death report) | PATCH 2026-09-30 (T-329b): Lessie Benningfield Randle
+- era 8 | Pearl Harbor, Pullman porters, "feeble-minded" | PATCH (copied from war, work-workers, education banks) | PATCH 2026-09-30 (T-329b): two context facts
+- era 9 | Freedom Riders' number and departure (was search summary) | PATCH (NPS: eleven, 4 May 1961) | PATCH 2026-09-30 (T-329b): the Freedom Riders' departure
+- era 9 | who led the Anniston mob; anyone punished | SEARCHED, NOT FOUND | SEARCHED, NOT FOUND 2026-09-30 (T-329b): who led the Anniston mob
+- era 9 | first Christopher Street march 1970 (was search summary) | PATCH (NYC LGBT Historic Sites) | PATCH 2026-09-30 (T-329b): the first Christopher Street Liberation Day March
+- era 9 | Title IX sponsors and renaming (was search summary) | PATCH (NPS Patsy Mink; House History) | PATCH 2026-09-30 (T-329b): Title IX's sponsors
+- era 9 | five Brown cases (was search summary) | PATCH (NPS) | PATCH 2026-09-30 (T-329b): the five Brown cases
+- era 9 | Relf and Willowbrook details for a span | PATCH (copied from research-health) | PATCH 2026-09-30 (T-329b): the Relf sisters and Willowbrook
+- era 9 | what the Citizens' Council was | PATCH (Mississippi State University Libraries) | PATCH 2026-09-30 (T-329b): what the Citizens' Council was
 
 ## OPEN (should be rare)
 
@@ -51,6 +67,16 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 6: Sarah Roberts's age (5) not in this bank; left out.
 - era 7: Charlotte E. Ray's "C. E. Ray" application story: bank marks it unconfirmed; left out.
 - era 7: Waddell's 7 November 1898 speech and the "75 masked men" at the Memphis jail: unconfirmed search summaries; left out.
+- era 8: 1928 Radium Girls hearing dates and September adjournment (search summary only); left out.
+- era 8: outline's "The famous marches of the 1960s used ideas that were already old" and "It was a respectable opinion at the time. Universities taught it" (eugenics): no source; left out.
+- era 8: outline's Alice Paul claim that all suffrage prisoners were freed after five weeks: bank says only that Paul was; prose says that.
+- era 8: Clara Lemlich (parked, work-workers' event), restrictive covenants (case unverified), MS St. Louis and quotas (not organizing): not used.
+- era 9: Anniston mob size, chains and iron rods, door held shut (search summary only); left out.
+- era 9: Stonewall marches in other cities on 27-28 June 1970 (not confirmed); left out. Named Stonewall participants: not sourced; left out.
+- era 9: Evers funeral and Spingarn Medal (search summary only); Kameny's degree and war service (search summary); Pauli Murray co-writing NOW's statement (search summary); left out.
+- era 9: Capitol Crawl date (NPS July 1990 vs common 12 March 1990): no date given.
+- era 9: flight attendants (Roads, Banks: "verify details"), Reinaldo Arenas, urban renewal and redlining figures: not used.
+- era 9: outline's "four movements running at once" span folded into the era zoom; farmworkers named in one sentence; Alcatraz and Wounded Knee given one short span with the fish-ins (parked, sourced).
 - era 7: Harlan's third quoted sentence ("arouse race hate") not used. Two Harlan quotations carry the dissent.
 
 ## Decisions and defects fixed
@@ -74,6 +100,14 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 7: outline's line "So the most quoted sentence any Black American woman said..." was a closing line built to land; replaced with the facts (Gage's version from memory, dialect, thirteen vs five children, NWHM's word).
 - era 7: Haudenosaunee-to-suffragists link (Stanton 1891, Gage 1893) added as a short span, handed forward from the era-1 research agent; it ties back to era 1's clan mothers.
 - era 7: Ward v. Flood told inside the Tape story as the precedent the Tapes faced (named people, from the decision text).
+- era 8: bank and outline attributed the Night of Terror log ("Seized by guards from behind...", handcuffed to the bars) to Alice Paul. Jailed for Freedom shows it is Lucy Burns's log. Prose attributes it to Burns. CORRECTION PATCH in bank. The outline span still says Paul (audit item).
+- era 8: outline "no white person went to prison" rewritten to follow the sources: grand jury indicted about 70 men, many of them Black Greenwood leaders; no white man went to prison for the killings or burning; Gustafson convicted of dereliction and removed.
+- era 8: added spans from the bank not in the outline: Sanger (era-7 Comstock handoff), Marian Anderson 1939, Elizabeth Peratrovich 1945, Native organizations 1911-1944 (parked), Anthony's death 1906, Wells's death 1931, Alpha Suffrage Club 1913, Dyer silent march 1922.
+- era 8: every cross-chapter pointer in the outline removed from prose.
+- era 9: outline's thirteen Freedom Riders corrected to NPS's eleven (PATCH). Prince Edward Kennedy quotation split at its em dash, no word changed. McLaurin quotation split at its semicolons.
+- era 9: outline's "Twenty-one men were arrested... No Mississippi jury convicted anyone... until 2005" kept; outline's "a young man named Jimmie Lee Jackson" given his age, 26 (bank PATCH).
+- era 9: added from the parked bank sections: Levittown and the Myers family (1957), Greensboro counter opened 25 July 1960, Memphis sanitation strike inside the King story, Percy Green's Arch climb (1964), fish-ins and the Boldt decision (1974), Warren County (1982).
+- eras 8-9: institution-as-actor sentences repaired in the self-review (NAACP, FBI, Army, Congress, companies, boards, states); courts kept as "the Supreme Court ruled", matching part2.
 
 ## TO PARK (for the director, burst runs only)
 
@@ -92,6 +126,19 @@ Files: part1-before-1800.md (eras 1-5), part2-1800s.md (eras 6-7). Voice: plain,
 - Boston schools: 1855 law told, with NPS's note that segregation policies continued.
 - Wyoming kept women's vote at statehood 1890; Utah regained it 1896.
 
+## HANDOFF from T-329b to writer C (era 10)
+File: part3-1900s-and-today.md already holds eras 8 and 9 (hb-chapter line, heading and hb-note naming eras 08-10 are in place). Append era 10 after `<!-- hb-time:end id="1950-2000" -->`.
+**Terms already defined in eras 8-9 (do not define again):** picket, hunger strike, forcible feeding, filibuster, abridged, ratify, deputize, grand jury, dereliction of duty, exonerated, martial law, National Guard, eugenics, sterilize, salpingectomy, tubal ligation, hysterectomy, statute of limitations, executive order, curfew, court-martial, manslaughter, vacated, dissent, friend-of-the-court brief, gay, charter, warrant, literacy test, pacifist, chain gang, vagrancy, homicide, felony conspiracy, blackjack, sharecropper, union, relief, domestic worker, inherently, dissident.
+**Threads that continue into era 10:**
+- Tulsa: the survivors' span in era 8 already runs to 2026 (2024 dismissal, Van Ellis d. 2023, Fletcher d. 24 Nov 2025, Randle last known survivor in 2026 unpaid, 55 remains, C. L. Daniel and James Goings). Do not retell. The Greenwood Trust (June 2025) and the DOJ review (Jan 2025) are not told in era 8.
+- Equal Rights Amendment: era 9 ends at the 1982 deadline, three states short. Nevada 2017, Illinois 2018, Virginia January 2020 are era 10's.
+- Voting Rights Act: era 9 states preclearance; Shelby County v. Holder (2013) is era 10's.
+- Federal anti-lynching law: never passed in eras 8-9; the Emmett Till Antilynching Act (2022) is era 10's.
+- ADA signed 26 July 1990; what happened to it afterwards is era 10's. Judy Heumann d. 2023 already stated.
+- Claudette Colvin d. 13 January 2026 already stated in the Rosa Parks story. Rustin pardon 2020 and Obama medal 2013 already stated. Korematsu 1983 and redress 1988-1990 stated.
+- Title IX: era 9 gives the 2012 and 2013-14 figures; era 10 carries later rulings.
+- Stonewall: 1969 and the 1970 march told; the 2016 national monument is unconfirmed in the bank.
+
 ## Log
 - 2026-09-30 T-329a unit 1 landed: part1 era 01, 523w, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-30 T-329a unit 2 landed: part1 era 02, 582w, validator 0 errors, --punct emdash=0 semicolon=0.
@@ -100,3 +147,5 @@ Files: part1-before-1800.md (eras 1-5), part2-1800s.md (eras 6-7). Voice: plain,
 - 2026-09-30 T-329a unit 5 landed: part1 era 05, 2088w, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-30 T-329a unit 6 landed: part2 era 06, 4413w, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-30 T-329a unit 7 landed: part2 era 07, 9340w, validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-30 T-329b unit 8 landed: part3 era 08, about 11,570w (after self-review), validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-30 T-329b unit 9 landed: part3 era 09, about 9,580w, validator 0 errors, --punct emdash=0 semicolon=0. Self-review of eras 8-9 run and repairs applied.
