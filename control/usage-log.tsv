@@ -264,3 +264,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-327b	prose	general-purpose/opus	[LOCAL] religion: WRITER B: eras 8-10 + final, chapter PASS prose (34,821w, 20 stories). 6 PATCH, 	?	?	?	379778	97	1004618	?	completed	PASS  religion / prose
 2026-09-30	T-328a	prose	general-purpose/opus	[LOCAL] education: WRITER A: eras 1-7 landed (17,613w, 14 stories), 7/10 as expected. 6 PATCH, 2 no	?	?	?	433755	142	1224404	?	completed	FAIL  education / prose
 2026-09-30	T-328b	prose	general-purpose/opus	[LOCAL] education: WRITER B: eras 8-9 landed (16,905w, 6 stories), 9/10 as expected. 5 PATCH, ~16 c	?	?	?	414918	82	965579	?	completed	FAIL  education / prose
+2026-09-30	T-328c	prose	general-purpose/opus	[LOCAL] education: WRITER C: era 10 + final, chapter PASS prose (40,914w, 21 stories). 9 PATCH, ~15	?	?	?	291668	85	722558	?	completed	PASS  education / prose

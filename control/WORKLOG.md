@@ -3605,7 +3605,9 @@ RESULT: LANDED. FAIL  education / prose. measured: stage=WRITING ms_eras=9/10 wr
 AGENT: a7cd4ee6425faa34d (salvage: python tools/salvage_agent.py a7cd4ee6425faa34d --tail)
 
 ### 2026-09-30 | [LOCAL] T-328c | education: writer C, era 10 (part3) + final | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-328-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=40914w files=3 validator_errors=0
+        291668 tokens, 85 tool uses, 12.0 min (opus). WRITER C: era 10 + final, chapter PASS prose (40,914w, 21 stories). 9 PATCH, ~15 claims left out, nothing OPEN. Fixed: Sandy Hook timing, both sides on disputes, Arredondo trial date.
 AGENT: a79a476bc34b43a51 (salvage: python tools/salvage_agent.py a79a476bc34b43a51 --tail)

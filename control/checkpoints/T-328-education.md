@@ -1,6 +1,6 @@
 # CHECKPOINT T-328 | education | prose | writer A: eras 1-7 (part1 + part2), writer B: eras 8-9 (part3), writer C: era 10 (part3) + final
 
-STATUS: T-328b landed (director verified: FAIL  education / prose)
+STATUS: T-328c landed (director verified: PASS  education / prose)
 VERIFY: python tools/project_state.py --check education --stage prose   (passes only after writer C)
 BRIEF:  control/briefs/WRITER.md
 MODEL:  opus
@@ -8,8 +8,8 @@ FILES:  manuscript/education/part1-before-1800.md (eras 1-5) · manuscript/educa
         · manuscript/education/part3-1900s-and-today.md (eras 8-10) · research/research-education.md (PATCH and
         SEARCHED, NOT FOUND entries only) · this checkpoint
 
-NOW:    T-328b finished units 8-9 (2026-09-30). part3 16896w (era 08 7410w, era 09 9495w), 0 validator errors, 0 em dashes, 0 semicolons. Self-review run.
-NEXT:   T-328c: unit 10
+NOW:    T-328c finished units 10-11 (2026-09-30). PASS education / prose. manuscript 40914w, 21 stories verified.
+NEXT:   director: verify and commit.
 
 ## Research state before writing (2026-09-29)
 
@@ -29,8 +29,8 @@ measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=
 | 7 | era 07 1850-1900 -> part2 | T-328a | done | 10206w file total, 0 errors, emdash=0 semicolon=0 (after part2 self-review) |
 | 8 | era 08 1900-1950 -> part3 | T-328b | done | 7430w file total, 0 errors, emdash=0 semicolon=0 (7410w after self-review) |
 | 9 | era 09 1950-2000 -> part3 | T-328b | done | 16896w file total (era 09 9495w), 0 errors, emdash=0 semicolon=0 (after part3 self-review) |
-| 10 | era 10 2000-today -> part3 | T-328c | todo | |
-| 11 | final: self-review, --punct, validator, prose check | T-328c | todo | |
+| 10 | era 10 2000-today -> part3 | T-328c | done | 24272w file total (era 10 6708w), 0 errors, emdash=0 semicolon=0 |
+| 11 | final: self-review, --punct, validator, prose check | T-328c | done | part3 24243w (era 10 6679w); all 3 files 0 errors, emdash=0 semicolon=0; PASS education / prose (40914w) |
 
 ## Gaps researched
 
@@ -50,6 +50,14 @@ measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=
 - 08 | EO 9066 gloss and DeWitt, Depression gloss | PATCH (copied from war, rights-movements, economy banks) | PATCH 2026-09-30 (T-328b): two short glosses
 - 09 | Boston 1974 ruling (Garrity), East LA walkouts, Tinker, New Rider (parked pointers only in this bank) | PATCH (copied from rights-movements, styles banks) | PATCH 2026-09-30 (T-328b): three school items copied from other chapters' banks
 
+- 10 | NCLB signing place and Bush's words; big-city testing count (outline had them, bank did not) | PATCH (AP figures; 401/112.3/4.22 days left unconfirmed) | PATCH 2026-09-30 (T-328c): the No Child Left Behind signing
+- 10 | legal meaning of loan "default" (bank said find before printing) | PATCH | PATCH 2026-09-30 (T-328c): what "default" on a student loan means
+- 10 | court action on college loans (Biden v. Nebraska) | PATCH | PATCH 2026-09-30 (T-328c): the college-loan cancellation case
+- 10 | special education count now | PATCH (IDEA renaming year not confirmed, sites.ed.gov 403) | PATCH 2026-09-30 (T-328c): special education now
+- 10 | each side's position: vouchers (NEA, EdChoice), Florida HB 1557 (DeSantis, Cardona, FEA), grade range | PATCH | PATCH 2026-09-30 (T-328c): what each side holds
+- 10 | Mahmoud v. Taylor detail; COVID-19 gloss | PATCH (copied from religion and health banks) | two T-328c patches
+- 10 | Arredondo trial date | PATCH (Feb. 22, 2027) | PATCH 2026-09-30 (T-328c): Arredondo's trial date
+
 ## OPEN (should be rare)
 
 ## Outline claims left out
@@ -64,6 +72,8 @@ measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=
 - 07: Arozina Perkins (bank 7o: not confirmed she boarded round).
 - 08 (T-328b): Terman's first paragraph not reprinted (slur), per bank ruling; its claim stated in full. Watson v. Cambridge (1893) not used (full text never fetched). Cuyahoga parents 1933 not used (no founders named). The 1.75 million child-labor alternative not used (bank rule). Rosenwald funding split not printed (bank). Delgado census figure (3.5 years) left out (scope unconfirmed). Manzanar opening-day counts and the pupil's floor quote left out (unconfirmed: search summary only). Poston 71,000 acres left out (unconfirmed).
 - 09 (T-328b): Little Rock Lost Year count (3,665) and the four school names (unconfirmed: search summary only). Leander Perez quote (partly garbled source). Ole Miss: Barnett's personal blocking of Meredith (unconfirmed). Boston: Garrity receivership 1975 (unconfirmed). Bilingual Education Act four-years figure (bank rule). Blackwell 'burial of Mr. Spanish' (bank rule). Homeschool alliance split and HSLDA 1983 left out for length. In re Gault (crime-justice tells it). Dollywood and Imagination Library (music, not schooling). Riddle quote cut before its em dash. Norman New Rider's name (search summary only).
+
+- 10 (T-328c): Ten Commandments classroom cases (religion leads). Sports NIL and House v. NCAA (sports-play). Imagination Library (music). ADA Amendments Act 2008. Year-round detail beyond 3 counts. Homeschool reasons kept, 2024-25 Hopkins state growth (search summary only). Great City Schools 401 tests, 112.3, 4.22 days (unconfirmed). Cruz sentence, Apalachee victims' names, Uvalde 376 Texas House count (unconfirmed). Wopanaak 1993 (thin, era 9 date). NAEP 2022 reading drop (unconfirmed). Interagency agreements count (unconfirmed). Florida start-time repeal signing (unconfirmed). IDEA 1990 renaming year (not confirmed).
 
 ## Decisions and defects fixed
 - Outline defect: "Reading and conversion were the same lesson here" (copular slogan) rewritten as a statement about Eliot's books.
@@ -88,6 +98,11 @@ measured: stage=RESEARCHED eras=10/10 stories=21 (v21 c0 t0) verify_tags=0 bank=
 - 09 (T-328b): Outline 'Michigan certified-teacher rule, the strictest rule left anywhere' (bank forbids the superlative): not printed. Outline Hawaiian 'first indigenous-language immersion classes in the United States' attributed to the group's own history. Outline 'Navajo Community College ... first community college run by a tribe' attributed to the college.
 - 09 (T-328b): Outline 'The Indian boarding schools were largest in 1973' stated as the museum's count, with the lower federal counts beside it (bank handling note).
 - 08 (T-328b): Era-7 gloss carried: part2's 'Carlisle closed 1918' now given its cause (War Department, Army hospital).
+
+- 10 (T-328c): Outline defect: Sandy Hook "fewer than 11 minutes passed between 9:30 a.m., when the school doors were locked" has no bank source (bank gives 9:35:39 call and 9:40:03). Prose quotes the report's own "in fewer than 11 minutes" sentence instead.
+- 10 (T-328c): Outline defect: "The law put testing at the centre of American schooling" (unanchored, evaluative) and "Both laws are the same 1965 law rewritten" (copular slogan) rewritten as facts. "Catholic schools have been shrinking for sixty years" rewritten with the two counts. "the difference between states is enormous" (evaluative) cut. "Schools also call the police" kept with officials as actors. Outline's Great City Schools finer figures not in bank: AP figures used.
+- 10 (T-328c): Outline's Rosproy "which made Kansas the first state" kept (NPR source). Outline gave no sides for choice, Florida's law or book removals: added from new PATCHes (EdChoice/NEA, DeSantis/Cardona, PEN/Education Department memo). Outline "Arredondo's trial had not taken place" replaced by the set date, Feb. 22, 2027.
+- 10 (T-328c): Institution-as-actor repairs: "the Department's work", "The Bureau of Indian Education lists" kept as a source attribution only, Defense Department removal attributed via PEN.
 
 ## TO PARK (for the director, burst runs only)
 
@@ -138,4 +153,6 @@ Threads that continue into era 10:
 - 2026-09-30 unit 6 era 06: part2 created, 4510 words, validator 0 errors, --punct emdash=0 semicolon=0. Stories horace-mann, mary-swift-education, catharine-beecher-education, sarah-roberts-education. No new research needed (bank complete for era 6). Rattan and ferule held for era 07 (the bank sources them to the 1866 pamphlet and Boston rules). Prudence Crandall left to rights-movements (no bank text here).
 - 2026-09-30 unit 8 era 08 (T-328b): part3 created, 7430 words, validator 0 errors, --punct emdash=0 semicolon=0. Stories mamie-garvin-fields, john-dewey, sylvia-mendez. New span on Julia Hardin, beaten at Carlisle (Joint Commission testimony, Feb. 7, 1914), plus the Gus Welch petition. Freeman 1902 prayer case and New London 1937 added from bank pointers. Four semicolons inside Uintah quotations split at the semicolon, no word changed.
 - 2026-09-30 unit 9 era 09 (T-328b): 16896 words (file; era 09 9495w), validator 0 errors, --punct emdash=0 semicolon=0. Stories ruby-bridges, peter-mills-education, dejonge-family-homeschool. New spans: Tinker and New Rider, Boston 1974 with Garrity's ruling, East LA walkouts. Part3 self-review run: institution-as-actor (schools, boards, report verbs), repeated era openings ('In these years', 'In 19xx the justices'), hard-word glosses added (integration, marshals, NAACP, sharecropper, probation, psychiatrist, anthropologist, felony conspiracy, veteran).
+- 2026-09-30 unit 10 era 10 (T-328c): 24272 words (file; era 10 6708w), validator 0 errors, --punct emdash=0 semicolon=0. Story tabatha-rosproy-2020-teaching. New spans beyond the outline: special education now, how separate the schools are now (GAO 2022, UCLA 2017/2024, McDonogh No. 19 reopening), Biden v. Nebraska and loan default, Apalachee 2024. 9 PATCH entries added.
 - 2026-09-30 unit 7 era 07: 10206 words (file), validator 0 errors, --punct emdash=0 semicolon=0. Stories charlotte-forten-education, josephine-foster-education, zitkala-sa-education, booker-t-washington. Carlisle span names Schurz, Hayt, McCrary. Women's colleges span added from parked rights-movements notes in the bank. Part2 self-review run: institution-as-actor (Congress, the Army, the Department, the district), document verbs, duplicated Mann material removed from his story.
+- 2026-09-30 unit 11 final (T-328c): self-review of era 10 run. Repairs: institution-as-actor (NCES 'counts', Education Week 'tracked', Justice Department 'published', the law 'gave', the memo 'canceled', 'the federal government counts'), document verbs ('says', 'shows', 'named'), unsourced 'That did not happen' (NCLB 2014 goal) cut, hedge 'Many American children' replaced with the GAO figure, 'most of the rise came in 2020' (homeschooling, two surveys) corrected, duplicated 45 percent device figure removed from the closures span, duplicated Kansas closure date removed from the Rosproy story, 'After 2003' corrected to 2003-2011, 'fights' register fixed, unsupported 'almost every child went to school' cut. Era openings compared across ten eras: varied. Fourth-wall grep clean. Final: all three files validator 0 errors, --punct 0/0, PASS education / prose (40914w).
