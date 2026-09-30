@@ -3344,9 +3344,11 @@ RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 w
         228235 tokens, 79 tool uses, 9.9 min (opus). Writer B: part3 (5,106w), chapter PASSES prose. Washday, water and power, refrigerators, Sears kits, the Rogarshevskys and TB (defined), redlining, kitchenettes, spanking advice, war-work moves; suburbs and whites-only sales, TV, divorce, working mothers, latchkey counts, homeschooling; bigger houses, 2008 (Countrywide, Mozilo), homelessness, 2020 at home. 2 PATCH, 0 not found, 7 outline claims left out. Fixed: unsupported outline words cut, Munoz misquote replaced, Myers figures, guessed author first names removed from its own PATCH.
 
 ### 2026-09-27 | [LOCAL] T-305b | transportation: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-305-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+RESULT: DONE. PASS  transportation / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13124w files=3 validator_errors=0
+        242330 tokens, 74 tool uses, 12.3 min (opus). Writer B: part3, chapter PASSES prose. Model T, Lincoln Highway, Route 66, crash deaths, airmail and the Kelly Act, DC-3, Pullman porters, WWII, Irene Morgan; Interstates and the homes they took (I-85 Montgomery), Grand Canyon crash, 707, deregulation, Freedom Rides, Amtrak, containers; GPS, ride-hail and Prop 22, EVs, CAHSR, bridges, road deaths, Key Bridge, Potomac. 5 PATCH, 0 not found, 10 outline claims left out. Fixed: false firsts (Ideal X, McLean 'invented'), abstractions as actors.
 
 ### 2026-09-27 | [LOCAL] T-306b | food-farming: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
 STATUS: DONE
