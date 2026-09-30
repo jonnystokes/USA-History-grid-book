@@ -3502,3 +3502,8 @@ VERIFY: python tools/project_state.py --check disasters --stage prose
 RESULT: LANDED. FAIL  disasters / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=6 (verified 6) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=11619w files=2 validator_errors=0
         286235 tokens, 67 tool uses, 11.7 min (opus). WRITER A: eras 1-7 landed (11,619w, 6 stories), 7/10 as expected. 4 PATCH, 7 outline claims left out, nothing OPEN. Fixed: 1780 'deadliest' claim, Moselle owner, Starving Time cause. Handoff for T-320b in checkpoint.
 AGENT: a56ac6cabca2d3b66 (salvage: python tools/salvage_agent.py a56ac6cabca2d3b66 --tail)
+
+### 2026-09-30 | [LOCAL] T-320b | disasters: writer B, eras 8-10 (part3) + final | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-320-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage prose
