@@ -262,3 +262,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **Tulsa 1921, "no one was convicted" (T-319):** the crime-justice writer found the bank's own record of Police Chief John Gustafson's conviction (neglect of duty), which contradicts "no one punished for Tulsa" in the outline and the wording of DECISIONS #23. crime-justice prose follows the bank. Check that rights-movements, when written, does the same, and correct #23's wording if needed.
 - **Quaker ear-cutting (T-319):** crime-justice and religion banks disagree on this detail. Reconcile against the sources in the audit.
 - **Michael Eugene Thomas (T-319 update to the styles item above):** crime-justice now tells the killing in full from its bank. The styles passage can point to what styles owns; the audit decides whether styles alone softens it.
+
+- **religion era 6, Nauvoo on Sauk and Meskwaki land (T-327a):** the PATCH rests on Wikipedia only. Confirm it against a primary or scholarly source in step 4.
