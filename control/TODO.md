@@ -14,7 +14,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 NOW-RUNNING: T-317 holidays (ONE writer, all 10 eras)
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 23 chapters written and passing `--stage prose`, 14 to go. Nothing in flight. STOPPED at the usage limit 2026-09-29; next: T-317 holidays, single writer.
+**STEP 2 (WRITING): IN PROGRESS.** 23 chapters written and passing `--stage prose`, 14 to go. Nothing in flight. T-317 holidays running (single writer).
 
 Written (23): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,

@@ -3475,3 +3475,4 @@ AGENT: a8b33083348329539 (salvage: python tools/salvage_agent.py a8b330833483295
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-317-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+AGENT: a3254d3f4d1820ebc (salvage: python tools/salvage_agent.py a3254d3f4d1820ebc --tail)
