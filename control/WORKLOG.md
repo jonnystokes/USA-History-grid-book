@@ -3340,3 +3340,8 @@ NOTE (Jon): T-303b used 81% -> 85% (4%). Burst of 3 finishers (4 fits but risky 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-304-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+
+### 2026-09-27 | [LOCAL] T-305b | transportation: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-305-transportation.md
+VERIFY: python tools/project_state.py --check transportation --stage prose
