@@ -3462,3 +3462,8 @@ marketplace/big-business/america-world (26.5k-28.1k). Every unit logged with val
 each file; nothing OPEN; nothing parked. One item queued for the audit (McKenna quote punctuation). Sizing rule
 from this: single writer up to ~47k slice words (exploration, holidays, drugs-alcohol, crime-justice); two
 writers above that (disasters, war, news-communication ~52-55k). Jon asleep: autonomous, one at a time.
+
+### 2026-09-29 | [LOCAL] T-316 | exploration: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-316-exploration.md
+VERIFY: python tools/project_state.py --check exploration --stage prose
