@@ -3836,7 +3836,9 @@ RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 wri
 AGENT: ab2f99b47a0286482
 
 ### 2026-09-30 | [LOCAL] T-348 | city-building: CHECKER sonnet, part1 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-city-building.md
 VERIFY: python tools/project_state.py --check city-building --stage prose
+RESULT: DONE. PASS  city-building / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16080w files=3 validator_errors=0
+        176421 tokens, 18 tool uses, 5.7 min (sonnet). CHECKER sonnet part1: 90 findings (19 B, 13 M, 58 m)
 AGENT: a1f8f2c0d232ca6e9
