@@ -3531,3 +3531,8 @@ AGENT: a8fb4870a9f8d9c7b (salvage: python tools/salvage_agent.py a8fb4870a9f8d9c
 slices (1-5, 6-7, 8-10) instead of two worked. New rule: single writer for every chapter up to ~60k slice words
 (news-communication and all of the Large group: health, sports-play, art, storytelling-evolution, music, 52-61k).
 The giants (religion ~84k, education ~114k, rights-movements ~131k) still split along era lines.
+
+### 2026-09-30 | [LOCAL] T-322 | news-communication: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-322-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage prose
