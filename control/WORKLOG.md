@@ -3579,3 +3579,8 @@ VERIFY: python tools/project_state.py --check religion --stage prose
 RESULT: LANDED. FAIL  religion / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20753w files=2 validator_errors=0
         439204 tokens, 92 tool uses, 19.2 min (opus). WRITER A: eras 1-7 landed (20,753w, 12 stories), 7/10 as expected. 3 PATCH, 9 outline claims left out, nothing OPEN. Handoff for T-327b in checkpoint.
 AGENT: ae4fb9800634267b7 (salvage: python tools/salvage_agent.py ae4fb9800634267b7 --tail)
+
+### 2026-09-30 | [LOCAL] T-327b | religion: writer B, eras 8-10 (part3) + final | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-327-religion.md
+VERIFY: python tools/project_state.py --check religion --stage prose
