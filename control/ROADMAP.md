@@ -84,7 +84,7 @@ most here.
 
 ---
 
-## STEP 2: Write everything
+## STEP 2: Write everything (COMPLETE 2026-09-30)
 
 Brief: `control/briefs/WRITER.md` (model opus). **Single-writer mode where the chapter fits**
 (DECISIONS #26, 2026-09-29): one writer does all ten eras and all three files (`part1-before-1800.md`,
@@ -92,7 +92,7 @@ Brief: `control/briefs/WRITER.md` (model opus). **Single-writer mode where the c
 chapters get two writers (eras 1-7, then 8-10). The giants (`education`, `rights-movements`,
 `religion`) are split further along era lines, still into the same three files. One writer per
 chapter at a time, in order; parallelism is across chapters, longest chains first; Jon sets how many
-run at once (#27). Status on 2026-09-29: 36 written, 1 to go (see `control/TODO.md`).
+run at once (#27). **COMPLETE 2026-09-30: all 37 chapters pass `--stage prose` (~711,000 words).** Single writer up to ~60k slice words (measured); see `control/briefs/WRITER-DISPATCH.md`.
 
 **The writer researches its own gaps** (DECISIONS #21): a few searches per question. What it
 finds goes into the bank as a PATCH, then into the prose. What it cannot find goes into the bank

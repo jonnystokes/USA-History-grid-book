@@ -3643,3 +3643,10 @@ VERIFY: python tools/project_state.py --check art --stage prose
 RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=34 (verified 34) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=26406w files=3 validator_errors=0
         487707 tokens, 138 tool uses, 25.4 min (opus). SINGLE WRITER: all 10 eras, PASS prose (26,406w, 34 stories). 11 PATCH, ~30 claims left out, nothing OPEN. Wiley block per bank, awaits Jon. Fixed: film credits sourced, Tukudika removal actors named.
 AGENT: a81fd8566e11ad04e (salvage: python tools/salvage_agent.py a81fd8566e11ad04e --tail)
+
+### 2026-09-30 | [LOCAL] STEP 2 COMPLETE. All 37 chapters PASS --stage prose.
+Measured: 111 part files, 0 validator errors; `project_state.py`: WRITTEN 37, 684 stories verified, manuscript
+711,096 words, banks 1,095,883 words. This run T-315..T-330: 16 chapters, 22 writer agents, one at a time, no
+interruptions. Single writer proven to ~60k slice words; giants split by era (religion 2, education 3,
+rights-movements 3). Wiley block written from life and work only, awaiting Jon. Next: STEP 3 calibration
+(3 part files x sonnet checker + opus checker + opus fixer), one agent at a time.

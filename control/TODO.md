@@ -13,35 +13,35 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 36 chapters written and passing `--stage prose`, 1 to go. T-330 art running (single writer). The Wiley story is written without the accusations, as the bank has it, in one self-contained story block, so Jon's answer changes one block in step 5.
+**STEP 2 (WRITING): COMPLETE 2026-09-30.** All 37 chapters pass `--stage prose` (111 part files, 0 validator
+errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all verified. This run: T-315 to T-330
+(16 chapters, 22 writer agents, 2026-09-29/30).
 
-Written (36): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
-landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication, music, storytelling-evolution, sports-play, health, religion, education, rights-movements (this run).
+**STEP 3 (AUDIT): IN PROGRESS.** Calibration first (below), one agent at a time until Jon has measured it.
 
-**Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
-denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
-or leave it out? (Blocks nothing until art is written.)
+**Open for Jon:** art era 10, Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he denies
+it; no court outcome found. The story block is written from his life and work only, accusations left out
+(T-330). Jon's answer changes that one block in step 5: tell the accusations, keep as is, or swap in another artist.
 
-## How writing runs now (Jon, 2026-09-29)
+## How step 2 ran (for the record; the director's prompt and sizing are in control/briefs/WRITER-DISPATCH.md)
 
-- **Jon sets how many agents run at once** (DECISIONS #25, #27): more when the 5-hour window is fresh, one or two
-  near the limit, and ONE for any new kind of task until he has measured its size.
-- **One agent per chapter at a time, in order** (each writer adds to the chapter's research bank). Parallelism is
-  across chapters. Start the longest chains first so they do not finish last.
-- **Single-writer mode** (DECISIONS #26): one writer does all ten eras and all three part files where the chapter
-  fits. Measured: 360k-495k tokens, 18-28 min (about 22k-28k tokens per 1,000 words written), about 8% of a 5-hour window per chapter (T-313: 72% -> 80%).
-- Brief: `control/briefs/WRITER.md`. Model: opus. The director's prompt, cycle and sizing: `control/briefs/WRITER-DISPATCH.md`. Checkpoint per chapter from `tools/mk_writer_checkpoint.py`.
+- One writer per chapter up to ~60k words of outline+bank (war 54k, music 60k landed cleanly, 20-22k tokens per
+  1,000 words written). Two writers cost ~25% more per word (disasters). The giants split by era: religion 2
+  writers (1-7, 8-10), education and rights-movements 3 writers (1-7, 8-9, 10).
+- Writers researched their own gaps (about 140 PATCHes this run), left ~320 unsourced outline claims out, and
+  logged every era in their checkpoint. Items for the audit are in `control/AUDIT-QUEUE.md`.
+- exploration (T-316) was written with web research blocked by the usage limit: 6 questions for step 4.
 
-## STEP 2 queue: what is left
+## STEP 3 plan: audit the whole book (read, report, edit nothing)
 
-| Group | Chapters | Agents | Total |
-|---|---|---|---|
-| Large (single writer, reading in three slices; T-321 war proved ~54k fits) | art (running; Wiley story per the bank, Jon's answer later) | 1 | **1** |
-
-Sizes (outline + bank words) are measured with `python tools/slice_bank.py <slug> --eras <a-b> --summary`.
-Giants done: religion (2 writers, 1-7 / 8-10), education and rights-movements (3 writers, 1-7 / 8-9 / 10).
-Split any writer whose slice passes ~40,000 words.
+1. **Calibration (3 runs).** For each of 3 part files: a sonnet checker, an opus checker (same brief,
+   `control/briefs/CHECKER.md`), then an opus fixer judging both findings files (`FIXER.md`). Fill in
+   `control/audit/CHECKER-CALIBRATION.md` and sharpen CHECKER.md after each run.
+   Files: native-nations part1 (house voice, cloud era, 5.8k words) · crime-justice part2 (hard subjects,
+   5.5k) · government-politics part3 (2000-today, 10.5k).
+2. **Jon's call** on the verdict (sonnet alone, or opus for some passes).
+3. **The rest:** one checker per part file, 108 more, findings to `control/audit/<slug>/<part>-findings-<model>.md`.
+   Read-only, so several can run at once when Jon says.
 
 ## After step 2
 
