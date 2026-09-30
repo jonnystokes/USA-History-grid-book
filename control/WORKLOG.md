@@ -3611,3 +3611,8 @@ VERIFY: python tools/project_state.py --check education --stage prose
 RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=40914w files=3 validator_errors=0
         291668 tokens, 85 tool uses, 12.0 min (opus). WRITER C: era 10 + final, chapter PASS prose (40,914w, 21 stories). 9 PATCH, ~15 claims left out, nothing OPEN. Fixed: Sandy Hook timing, both sides on disputes, Arredondo trial date.
 AGENT: a79a476bc34b43a51 (salvage: python tools/salvage_agent.py a79a476bc34b43a51 --tail)
+
+### 2026-09-30 | [LOCAL] T-329a | rights-movements: writer A, eras 1-7 (part1, part2) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-329-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
