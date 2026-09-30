@@ -3674,3 +3674,8 @@ VERIFY: python tools/project_state.py --check native-nations --stage prose
 RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16710w files=3 validator_errors=0
         363536 tokens, 111 tool uses, 16.4 min (opus). FIXER opus, part1: sonnet 79 fixed/18 rejected/4 research; opus 78/5/2. Unique real 99: sonnet 78, opus 77, both 59, fixer-only 3.
 AGENT: a22420ddf412dbf98 (salvage: python tools/salvage_agent.py a22420ddf412dbf98 --tail)
+
+### 2026-09-30 | [LOCAL] T-332s | crime-justice: CHECKER sonnet, part2 (calibration run 2) | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-332-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage prose
