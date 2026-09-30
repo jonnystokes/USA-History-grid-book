@@ -3619,3 +3619,8 @@ VERIFY: python tools/project_state.py --check rights-movements --stage prose
 RESULT: LANDED. FAIL  rights-movements / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=19608w files=2 validator_errors=0
         404463 tokens, 129 tool uses, 18.1 min (opus). WRITER A: eras 1-7 landed (19,608w, 11 stories), 7/10 as expected. 7 PATCH, 7 claims left out, nothing OPEN. Fixed: Lovejoy trial record, NJ 1807 dispute, Quaker dates, blockquotes as prose.
 AGENT: a4278d2a87c6c210c (salvage: python tools/salvage_agent.py a4278d2a87c6c210c --tail)
+
+### 2026-09-30 | [LOCAL] T-329b | rights-movements: writer B, eras 8-9 (part3) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-329-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
