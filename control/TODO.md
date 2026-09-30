@@ -13,11 +13,11 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 20 chapters written and passing `--stage prose`, 1 writing (styles), 16 to go.
+**STEP 2 (WRITING): IN PROGRESS.** 21 chapters written and passing `--stage prose`, 16 to go. Nothing in flight.
 
-Written (20): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+Written (21): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom (this run).
+marketplace, big-business, america-world, slavery-freedom, styles (this run).
 
 **Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
 denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it

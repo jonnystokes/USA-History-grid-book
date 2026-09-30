@@ -252,3 +252,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **From T-305a (transportation checkpoint):** - Bank hygiene for the audit: research-transportation.md line under "## 7" Ten-Mile Day still says the three men carried "the last rails" that day; the T-305a PATCH corrects it.
 
 - **From T-310 (marketplace checkpoint):** - `research-marketplace.md` housekeeping for the audit: the T-253 Coresight line (era 10) still carries "(unconfirmed: search summary only)"; the T-310 PATCH below it confirms it on a readable page.
+
+- **styles part 3, the Michael Eugene Thomas killing (T-314):** the writer left out the documented sexual-assault detail because the bank assigns it to crime-justice. Under hard-subjects policy §2 (no softening), check whether telling the killing without it softens it; if so, add it plainly from the bank or cut the passage to what styles owns.

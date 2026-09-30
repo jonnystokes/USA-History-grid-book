@@ -3440,3 +3440,8 @@ single-writer mode and the per-chapter ordering rule. DECISIONS #26 (single-writ
 agent count). briefs/README and RESUME updated. The director's helper scripts, previously only in a temporary
 scratchpad, are now permanent in tools/ (director_task.py, file_parks.py, mk_writer_checkpoint.py,
 mk_research_checkpoint.py, dedupe_parks.py). Memory: burst-mode and status-table notes updated.
+
+### 2026-09-29 | [LOCAL] T-314 styles closed (PASS prose). 21 of 37 written. Nothing in flight.
+Docs synced: TODO (21 written, queue), ROADMAP status line, AUDIT-QUEUE (Michael Eugene Thomas detail).
+Jon is backing up the transcript folder before a pruning experiment (see the plan in conversation: prune a COPY with a
+JSON-aware script, Sonnet reads a 300-character index, resume the copy with --fork-session; never touch the live file).
