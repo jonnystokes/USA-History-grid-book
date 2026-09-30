@@ -3629,7 +3629,9 @@ RESULT: LANDED. FAIL  rights-movements / prose. measured: stage=WRITING ms_eras=
 AGENT: a1af370803c400d06 (salvage: python tools/salvage_agent.py a1af370803c400d06 --tail)
 
 ### 2026-09-30 | [LOCAL] T-329c | rights-movements: writer C, era 10 (part3) + final | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-329-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=49892w files=3 validator_errors=0
+        331821 tokens, 87 tool uses, 13.1 min (opus). WRITER C: era 10 + final, chapter PASS prose. 5 PATCH, ~11 claims left out, nothing OPEN. Fixed: Darren Wilson and the Wilansky officers named, reader-address lines cut.
 AGENT: a5d65fcb4c92db9fc (salvage: python tools/salvage_agent.py a5d65fcb4c92db9fc --tail)

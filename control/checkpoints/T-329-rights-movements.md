@@ -1,6 +1,6 @@
 # CHECKPOINT T-329 | rights-movements | prose | writer A: eras 1-7 (part1 + part2), writer B: eras 8-9 (part3), writer C: era 10 (part3) + final
 
-STATUS: T-329b landed (director verified: FAIL  rights-movements / prose)
+STATUS: T-329c landed (director verified: PASS  rights-movements / prose)
 VERIFY: python tools/project_state.py --check rights-movements --stage prose   (passes only after writer C)
 BRIEF:  control/briefs/WRITER.md
 MODEL:  opus
@@ -8,8 +8,8 @@ FILES:  manuscript/rights-movements/part1-before-1800.md (eras 1-5) · manuscrip
         · manuscript/rights-movements/part3-1900s-and-today.md (eras 8-10) · research/research-rights-movements.md (PATCH and
         SEARCHED, NOT FOUND entries only) · this checkpoint
 
-NOW:    T-329b done; self-review of eras 8-9 complete
-NEXT:   T-329c: unit 10
+NOW:    T-329c done; unit 11 complete, prose check PASS
+NEXT:   director: verify and commit
 
 ## Research state before writing (2026-09-29)
 
@@ -29,8 +29,8 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 | 7 | era 07 1850-1900 -> part2 | T-329a | done | 9340w, validator 0 errors, emdash=0 semicolon=0 |
 | 8 | era 08 1900-1950 -> part3 | T-329b | done | about 11,570w, validator 0 errors, emdash=0 semicolon=0 |
 | 9 | era 09 1950-2000 -> part3 | T-329b | done | about 9,580w, validator 0 errors, emdash=0 semicolon=0 |
-| 10 | era 10 2000-today -> part3 | T-329c | todo | |
-| 11 | final: self-review, --punct, validator, prose check | T-329c | todo | |
+| 10 | era 10 2000-today -> part3 | T-329c | done | about 9,150w, validator 0 errors, emdash=0 semicolon=0 |
+| 11 | final: self-review, --punct, validator, prose check | T-329c | done | all 3 files validator 0 errors, emdash=0 semicolon=0; prose check PASS (49,894w, 26 stories verified) |
 
 ## Gaps researched
 
@@ -57,6 +57,10 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 9 | five Brown cases (was search summary) | PATCH (NPS) | PATCH 2026-09-30 (T-329b): the five Brown cases
 - era 9 | Relf and Willowbrook details for a span | PATCH (copied from research-health) | PATCH 2026-09-30 (T-329b): the Relf sisters and Willowbrook
 - era 9 | what the Citizens' Council was | PATCH (Mississippi State University Libraries) | PATCH 2026-09-30 (T-329b): what the Citizens' Council was
+- era 10 | who shot Michael Brown; federal charging decision | PATCH (DOJ report of 4 March 2015, PDF) | PATCH 2026-09-30 (T-329c): who shot Michael Brown
+- era 10 | affirmative action (dispatch lists it; bank had nothing) | PATCH (SFFA slip opinion, supremecourt.gov PDF; LII) | PATCH 2026-09-30 (T-329c): affirmative action
+- era 10 | what a flash-bang is (Wilansky) | PATCH (KUOW/NPR 2018) | PATCH 2026-09-30 (T-329c): what a flash-bang is
+- era 10 | Chauvin's convictions and sentences; Weinstein trials; women's soccer pay; Kaepernick; CROWN Act; Tulsa 2025 | PATCH (copied from crime-justice, storytelling-evolution, sports-play, styles banks with their sources) | PATCH 2026-09-30 (T-329c): copied from other banks for era 10
 
 ## OPEN (should be rare)
 
@@ -78,6 +82,8 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 9: flight attendants (Roads, Banks: "verify details"), Reinaldo Arenas, urban renewal and redlining figures: not used.
 - era 9: outline's "four movements running at once" span folded into the era zoom; farmworkers named in one sentence; Alcatraz and Wounded Knee given one short span with the fish-ins (parked, sourced).
 - era 7: Harlan's third quoted sentence ("arouse race hate") not used. Two Harlan quotations carry the dissent.
+- era 10: outline's "Proving what is in someone's head is very hard, and Congress said the result was what mattered" (no source); Kagan's "People of each race mostly vote for different parties" and "six surrounding white districts" detail (not in bank, prose follows bank); "People protested outside the police station for months" (no source); Frazier "to a shop" (no source); Standing Rock "The tribe gets its water from that river" and "Thousands of people camped" (no source); "The two words ... in rooms with no cameras" (no source); "Congress's" 50-years-and-3-days Brown coincidence (a closing flourish, dropped); Pete Hegseth named in the military order (not in bank); "Dreamers" as a name (not in bank).
+- era 10: Tulsa Greenwood Trust (June 2025) PATCHed but not written: era 8's survivors span already runs to 2026 and the trust is crime-justice's era-10 item. Parked items not used: ICWA/Haaland v. Brackeen (bank too thin), #OscarsSoWhite, Landor hair case, 2020 Tyre Nichols/Breonna Taylor (crime-justice's).
 
 ## Decisions and defects fixed
 - era 3: outline gave no year for Dyer's gallows reprieve; bank PATCH settles 27 October 1659 (Endecott's order of 26 Oct). Used.
@@ -107,6 +113,9 @@ measured: stage=RESEARCHED eras=10/10 stories=26 (v26 c0 t0) verify_tags=0 bank=
 - era 9: outline's thirteen Freedom Riders corrected to NPS's eleven (PATCH). Prince Edward Kennedy quotation split at its em dash, no word changed. McLaurin quotation split at its semicolons.
 - era 9: outline's "Twenty-one men were arrested... No Mississippi jury convicted anyone... until 2005" kept; outline's "a young man named Jimmie Lee Jackson" given his age, 26 (bank PATCH).
 - era 9: added from the parked bank sections: Levittown and the Myers family (1957), Greensboro counter opened 25 July 1960, Memphis sanitation strike inside the King story, Percy Green's Arch climb (1964), fish-ins and the Boldt decision (1974), Warren County (1982).
+- era 10: outline gave Michael Brown's killer no name; DOJ 2015 report names Officer Darren Wilson (PATCH). Outline's Wilansky passage left out the three officers who fired first (Dvorak, Arndt, Hanson, in the bank); named. Outline had no affirmative action; added from the 2023 opinion. Chauvin's state and federal convictions added (hard-subjects: the killer's outcome), attributed to news accounts.
+- era 10: outline "Energy Transfer sued ... Greenpeace said" and all institution subjects checked; "the Army approved" rewritten to Army officials / Brig. Gen. Hannan; "Louisiana put off its primaries" to Louisiana officials.
+- era 10: every cross-chapter pointer line in the outline (`government-politics` covers...) removed (fourth wall). Outline's "Read that number carefully" (reader address) and "Read the small print" rewritten as plain statements.
 - eras 8-9: institution-as-actor sentences repaired in the self-review (NAACP, FBI, Army, Congress, companies, boards, states); courts kept as "the Supreme Court ruled", matching part2.
 
 ## TO PARK (for the director, burst runs only)
@@ -149,3 +158,5 @@ File: part3-1900s-and-today.md already holds eras 8 and 9 (hb-chapter line, head
 - 2026-09-30 T-329a unit 7 landed: part2 era 07, 9340w, validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-30 T-329b unit 8 landed: part3 era 08, about 11,570w (after self-review), validator 0 errors, --punct emdash=0 semicolon=0.
 - 2026-09-30 T-329b unit 9 landed: part3 era 09, about 9,580w, validator 0 errors, --punct emdash=0 semicolon=0. Self-review of eras 8-9 run and repairs applied.
+- 2026-09-30 T-329c unit 10 landed: part3 era 10, about 9,150w, 12 spans + 3 stories (jim-obergefell, tarana-burke, alice-wong), validator 0 errors, --punct emdash=0 semicolon=0.
+- 2026-09-30 T-329c unit 11: self-review of era 10 run. Repairs: institution-as-actor sentences (Justice Department, Congress, House, Senate, Army, tribe, company, states, report "found") changed to named people or approved verbs; metadiscourse ("told below") cut; era-zoom opener changed so it does not match era 8's; consecutive span openers varied; women's span split into three (soccer pay, Women's March, Dobbs); hair span put in date order; contrastive "neither report reaches 1970" cut; hard words defined (hate crime via PATCH from 18 USC 249, precedent, cochlear implants, psychiatric unit, counterfeit, Office of Legal Counsel); long sentences split. Era 10 average sentence 16.5 words. Earlier eras untouched. Final: validator 0 errors x3, --punct 0/0 x3, prose check PASS.
