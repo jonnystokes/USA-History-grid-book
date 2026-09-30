@@ -13,11 +13,11 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 24 chapters written and passing `--stage prose`, 13 to go. Nothing in flight. T-318 drugs-alcohol running (single writer).
+**STEP 2 (WRITING): IN PROGRESS.** 25 chapters written and passing `--stage prose`, 12 to go. Nothing in flight. T-319 crime-justice running (single writer).
 
-Written (24): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+Written (25): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration, holidays (this run).
+marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration, holidays, drugs-alcohol (this run).
 
 **Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
 denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
@@ -37,7 +37,7 @@ or leave it out? (Blocks nothing until art is written.)
 
 | Group | Chapters | Agents | Total |
 |---|---|---|---|
-| Medium (single writer up to ~47k slice words; 2 writers for disasters, war, news-communication) | drugs-alcohol, crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
+| Medium (single writer up to ~47k slice words; 2 writers for disasters, war, news-communication) | crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
 | Large (2 writers: eras 1-7, then 8-10) | health, sports-play, art, storytelling-evolution, music | 2 | **10** |
 | Giant (split by eras, in order) | rights-movements (~4), education (~4), religion (~3) | 3-4 | **~11** |
 
