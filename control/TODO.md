@@ -13,11 +13,11 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 22 chapters written and passing `--stage prose`, 15 to go. Nothing in flight.
+**STEP 2 (WRITING): IN PROGRESS.** 23 chapters written and passing `--stage prose`, 14 to go. Nothing in flight. STOPPED at the usage limit 2026-09-29; next: T-317 holidays, single writer.
 
-Written (22): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+Written (23): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom, styles, government-politics (this run).
+marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration (this run).
 
 **Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
 denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
@@ -37,7 +37,7 @@ or leave it out? (Blocks nothing until art is written.)
 
 | Group | Chapters | Agents | Total |
 |---|---|---|---|
-| Medium (single writer to try; 2 if too big) | exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
+| Medium (single writer up to ~47k slice words; 2 writers for disasters, war, news-communication) | holidays, drugs-alcohol, crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
 | Large (2 writers: eras 1-7, then 8-10) | health, sports-play, art, storytelling-evolution, music | 2 | **10** |
 | Giant (split by eras, in order) | rights-movements (~4), education (~4), religion (~3) | 3-4 | **~11** |
 
