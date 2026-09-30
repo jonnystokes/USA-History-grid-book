@@ -3668,7 +3668,9 @@ RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/1
 AGENT: ad6792aa94e6cec55 (salvage: python tools/salvage_agent.py ad6792aa94e6cec55 --tail)
 
 ### 2026-09-30 | [LOCAL] T-331f | native-nations: FIXER opus, part1, judges both findings files (calibration run 1) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-331-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16710w files=3 validator_errors=0
+        363536 tokens, 111 tool uses, 16.4 min (opus). FIXER opus, part1: sonnet 79 fixed/18 rejected/4 research; opus 78/5/2. Unique real 99: sonnet 78, opus 77, both 59, fixer-only 3.
 AGENT: a22420ddf412dbf98 (salvage: python tools/salvage_agent.py a22420ddf412dbf98 --tail)
