@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-305b transportation (writer B: eras 8-10 prose (part3), completes the chapter [BURST3])
+NOW-RUNNING: T-306b food-farming (writer B: eras 8-10 prose (part3), completes the chapter [BURST3])
 **BURST OF 3 (Jon, 85%): T-304b home-family, T-305b transportation, T-306b food-farming (finishers).** energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.

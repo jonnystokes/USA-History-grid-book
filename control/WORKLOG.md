@@ -3345,3 +3345,8 @@ VERIFY: python tools/project_state.py --check home-family --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-305-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+
+### 2026-09-27 | [LOCAL] T-306b | food-farming: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-306-food-farming.md
+VERIFY: python tools/project_state.py --check food-farming --stage prose
