@@ -3397,3 +3397,8 @@ NOTE (Jon): usage not measurable this window (other work). Burst of 3 single wri
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-310-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+
+### 2026-09-27 | [LOCAL] T-311 | big-business: ONE writer, all 10 eras [BURST3] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-311-big-business.md
+VERIFY: python tools/project_state.py --check big-business --stage prose
