@@ -3780,7 +3780,9 @@ RESULT: DONE. PASS  land-environment / prose. measured: stage=WRITTEN ms_eras=10
 AGENT: a1e5efd99036cddba
 
 ### 2026-09-30 | [LOCAL] T-341 | land-environment: CHECKER sonnet, part3 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-land-environment.md
 VERIFY: python tools/project_state.py --check land-environment --stage prose
+RESULT: DONE. PASS  land-environment / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=15 (verified 15) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16865w files=3 validator_errors=0
+        226038 tokens, 21 tool uses, 8.4 min (sonnet). CHECKER sonnet part3: 62 findings (1 B, 4 M, 57 m)
 AGENT: a9d4e6fede136b3c8
