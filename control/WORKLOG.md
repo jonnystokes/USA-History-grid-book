@@ -3539,3 +3539,8 @@ VERIFY: python tools/project_state.py --check news-communication --stage prose
 RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20945w files=3 validator_errors=0
         408787 tokens, 150 tool uses, 17.4 min (opus). SINGLE WRITER: all 10 eras, PASS prose (20,945w, 23 stories). 9 PATCH, 1 not found, 8 outline claims left out, nothing OPEN. Fixed: unsourced era 4/8 claims, Memphis killings stated, Ole Miss per DOJ, disputes stated as disputes.
 AGENT: aa4a8bb5a2e693da1 (salvage: python tools/salvage_agent.py aa4a8bb5a2e693da1 --tail)
+
+### 2026-09-30 | [LOCAL] T-323 | music: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-323-music.md
+VERIFY: python tools/project_state.py --check music --stage prose
