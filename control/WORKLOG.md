@@ -3517,3 +3517,8 @@ crime-justice with one writer: 479k tokens, 24.2 min, 23,057 words = 20.8k per 1
 Two writers cost ~25% more (both read the style files and the brief). Experiment: war (~54k slice words) with ONE
 writer, the largest single-writer slice yet. If it lands cleanly, news-communication and the Large group go single
 too; the checkpoint log per era makes an interrupted single writer resumable.
+
+### 2026-09-30 | [LOCAL] T-321 | war: ONE writer, all 10 eras (experiment) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-321-war.md
+VERIFY: python tools/project_state.py --check war --stage prose

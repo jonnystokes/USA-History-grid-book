@@ -11,6 +11,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-321 war (ONE writer, all 10 eras (experiment))
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 27 chapters written and passing `--stage prose`, 10 to go. Nothing in flight. T-321 war running (single writer, experiment: largest single slice yet).
