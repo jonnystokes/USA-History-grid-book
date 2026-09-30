@@ -3392,3 +3392,8 @@ RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 
 
 ### 2026-09-29 | [LOCAL] Single-writer trial DONE. work-workers PASSES prose. 363k tokens vs ~500-590k for two writers. STOPPED for Jon.
 NOTE (Jon): usage not measurable this window (other work). Burst of 3 single writers: T-310, T-311, T-312. The rest of the small group next window.
+
+### 2026-09-27 | [LOCAL] T-310 | marketplace: ONE writer, all 10 eras [BURST3] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-310-marketplace.md
+VERIFY: python tools/project_state.py --check marketplace --stage prose
