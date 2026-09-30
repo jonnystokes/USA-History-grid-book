@@ -3384,6 +3384,8 @@ Reason: one voice, no second read of the style guides. WRITER.md gained a "Singl
 Trial: T-309 work-workers. USAGE AT START: 7% (Jon). Stop after it for Jon to measure.
 
 ### 2026-09-27 | [LOCAL] T-309 | work-workers: ONE writer, all 10 eras (single-writer trial) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-309-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
+RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14452w files=3 validator_errors=0
+        362602 tokens, 149 tool uses, 20.3 min (opus). SINGLE-WRITER TRIAL: all 10 eras, 3 files, chapter PASSES prose (14,452w, 17 stories verified). 13 PATCH, 1 not found, 20 outline claims left out, OPEN none. Fixed: Martin's Hundred 73 (search-summary only) -> 'at least 58', branding defined with method, actors named (Philadelphia militia, Larry Payne's killing, James Earl Ray, employers who took the braceros' 10%), institutions as actors rewritten. Compare: two-writer chapters cost ~500-590k tokens; this cost 363k.

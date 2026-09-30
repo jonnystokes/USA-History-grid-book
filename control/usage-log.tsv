@@ -241,3 +241,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-29	BURST3	write-prose-batch	general-purpose/opus x3	[LOCAL] burst of 3 writer B (home-family, transportation, food-farming)	85	93	8+	712456	221	1982005	?	completed	~2.7% each
 2026-09-27	T-307b	research	general-purpose/opus	[LOCAL] migration: Writer B: part3 (~4,290w), chapter PASSES prose (13,392w). Great Migration first	?	?	?	254687	83	789852	?	completed	PASS  migration / prose
 2026-09-27	T-308b	research	general-purpose/opus	[LOCAL] money: Writer B: part3 (~6,200w), chapter PASSES prose (13,170w). Gold Standard Act 190	?	?	?	244995	76	735457	?	completed	PASS  money / prose
+2026-09-27	T-309	research	general-purpose/opus	[LOCAL] work-workers: SINGLE-WRITER TRIAL: all 10 eras, 3 files, chapter PASSES prose (14,452w, 17 sto	?	?	?	362602	149	1215285	?	completed	PASS  work-workers / prose
