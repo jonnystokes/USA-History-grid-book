@@ -3563,3 +3563,8 @@ VERIFY: python tools/project_state.py --check sports-play --stage prose
 RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21524w files=3 validator_errors=0
         406814 tokens, 124 tool uses, 19.1 min (opus). SINGLE WRITER: all 10 eras, PASS prose (21,524w, 19 stories). 6 PATCH, 13 outline claims left out, nothing OPEN. Fixed: Curtis 1807, Webster 17 seasons, Ali actors named, Fairground pool claim.
 AGENT: ae73ed5671bc11414 (salvage: python tools/salvage_agent.py ae73ed5671bc11414 --tail)
+
+### 2026-09-30 | [LOCAL] T-326 | health: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-326-health.md
+VERIFY: python tools/project_state.py --check health --stage prose
