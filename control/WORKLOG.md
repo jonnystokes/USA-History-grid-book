@@ -3828,7 +3828,9 @@ RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 wri
 AGENT: a51a8eab93b53a9f3
 
 ### 2026-09-30 | [LOCAL] T-347 | migration: CHECKER sonnet, part3 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=15 (verified 15) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13392w files=3 validator_errors=0
+        182423 tokens, 22 tool uses, 5.0 min (sonnet). CHECKER sonnet part3: 61 findings (10 B, 10 M, 41 m)
 AGENT: ab2f99b47a0286482
