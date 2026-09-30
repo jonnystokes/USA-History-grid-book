@@ -13,11 +13,11 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 32 chapters written and passing `--stage prose`, 5 to go. Nothing in flight. T-326 health running (single writer). Art goes last in the Large group, after Jon answers the Wiley question.
+**STEP 2 (WRITING): IN PROGRESS.** 33 chapters written and passing `--stage prose`, 4 to go. Nothing in flight. T-327 religion running (writer A eras 1-7, then writer B eras 8-10). Art waits for Jon's Wiley answer. Art goes last in the Large group, after Jon answers the Wiley question.
 
-Written (32): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+Written (33): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication, music, storytelling-evolution, sports-play (this run).
+marketplace, big-business, america-world, slavery-freedom, styles, government-politics, exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication, music, storytelling-evolution, sports-play, health (this run).
 
 **Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
 denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
@@ -37,8 +37,8 @@ or leave it out? (Blocks nothing until art is written.)
 
 | Group | Chapters | Agents | Total |
 |---|---|---|---|
-| Large (single writer, reading in three slices; T-321 war proved ~54k fits) | health, art (last) | 1 | **2** |
-| Giant (split by eras, in order) | rights-movements (~4), education (~4), religion (~3) | 3-4 | **~11** |
+| Large (single writer, reading in three slices; T-321 war proved ~54k fits) | art (after Jon's Wiley answer) | 1 | **1** |
+| Giant (split by eras, in order; each writer ~40-55k slice words) | religion (2: eras 1-7, 8-10), education (3: 1-7, 8-9, 10), rights-movements (3: 1-7, 8-9, 10) | 2-3 | **8** |
 
 Sizes (outline + bank words) are measured with `python tools/slice_bank.py <slug> --eras <a-b> --summary`.
 Giant slices: religion 1-7 ~50k / 8-10 ~37k · education ~52k / ~69k · rights-movements ~56k / ~80k.
