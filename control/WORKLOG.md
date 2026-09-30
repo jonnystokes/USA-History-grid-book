@@ -3762,3 +3762,8 @@ VERIFY: python tools/project_state.py --check native-nations --stage prose
 RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16710w files=3 validator_errors=0
         225011 tokens, 25 tool uses, 6.3 min (sonnet). CHECKER sonnet part3: 78 findings (13 B, 10 M, 55 m)
 AGENT: add06336cfa55e2d4
+
+### 2026-09-30 | [LOCAL] T-339 | land-environment: CHECKER sonnet, part1 | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-land-environment.md
+VERIFY: python tools/project_state.py --check land-environment --stage prose
