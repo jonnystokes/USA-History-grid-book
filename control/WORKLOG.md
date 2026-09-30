@@ -3421,3 +3421,4 @@ NOTE (Jon): one writer. T-313 slavery-freedom, single-writer mode.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-313-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+USAGE AT START (T-313): 70% (Jon). A clean single-writer reading: nothing else running.
