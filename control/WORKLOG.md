@@ -3450,3 +3450,4 @@ JSON-aware script, Sonnet reads a 300-character index, resume the copy with --fo
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-315-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+AGENT: a07864183d94f58ed (salvage: python tools/salvage_agent.py a07864183d94f58ed --tail)
