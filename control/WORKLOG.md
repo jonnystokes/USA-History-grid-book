@@ -3608,3 +3608,4 @@ AGENT: a7cd4ee6425faa34d (salvage: python tools/salvage_agent.py a7cd4ee6425faa3
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-328-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+AGENT: a79a476bc34b43a51 (salvage: python tools/salvage_agent.py a79a476bc34b43a51 --tail)
