@@ -1,0 +1,551 @@
+<!-- hb-chapter id="30" slug="education" title="School and Education" part="8" mode="prose" file="part3" -->
+
+# Chapter 30: School and Education
+
+<!-- hb-note -->
+**Angle:** How people learned: schools, literacy, public education, colleges, reforms.
+**Keep out:** school desegregation as a campaign (rights-movements).
+**This file:** part 3 of the chapter, eras 08 through 10 only (1900-1950, 1950-2000, 2000-today). The validator's "missing 7 eras" report is expected for a part file. The earlier eras live in the other part files, and the parser merges them by slug.
+**Research bank:** research/research-education.md · **Outline:** outlines/education.md
+Editor's in-development note, not part of the final book. The parser strips it.
+<!-- /hb-note -->
+
+<!-- hb-time:start id="1900-1950" order="08" chapter="education" label="1900 to 1950" state="full" progress="written" -->
+## 1900 to 1950
+
+<!-- hb-zoom level="era" -->
+In 1900 about 6 American children in every 100 finished high school. By 1940 about half did. Over the same years, school boards closed one-teacher schools by the tens of thousands and sent buses to carry the children to bigger schools. School officials began to give children written intelligence tests and to sort them by the scores. Lewis Terman, the psychologist who wrote the American version of the test, argued in the teachers' handbook for it that the children it ranked lowest should not be allowed to have children of their own. In Southern counties, officials paid for Black children's schools at a fraction of what they spent on white children's schools. In 1928 a survey team reported to the Secretary of the Interior that the government's Indian boarding schools were trying to feed each child on eleven cents a day.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Finishing high school becomes ordinary" -->
+Finishing high school changed from rare to ordinary in forty years, and the federal government's own figures show the change. In the school year 1899 to 1900, the whole country had 95,000 high school graduates. That was 6.4 for every 100 young people aged seventeen. In 1919 to 1920 there were 311,000 graduates, or 16.8 for every 100. In 1939 to 1940 there were 1,221,000, or 50.8 for every 100.
+
+The number of pupils in the high school grades rose the same way. In 1900 to 1901 about 650,000 were enrolled, about 10 in every 100 young people aged 14 to 17. By 1939 to 1940 there were about 7 million, about 71 in every 100.
+
+The biggest jump came in the 1930s, during the Great Depression. By 1933 about one worker in four had no job. Graduates rose from 29 for every 100 seventeen-year-olds in 1929 to 1930 to nearly 51 ten years later. Many teenagers stayed in school partly because there were no jobs to leave school for. During the Second World War the number fell back. In 1943 to 1944, 63 of every 100 young people aged 14 to 17 were enrolled, down from 71, because many older pupils left for wartime jobs.
+
+Girls finished high school more often than boys in every decade of this era. In 1939 to 1940, 643,000 girls graduated and 579,000 boys.
+
+The school year grew only a little longer. The average school term was 144 days in 1899 to 1900 and 178 days in 1949 to 1950. The number of days a child actually came changed far more. The average pupil attended 99 days in 1899 to 1900 and 158 days in 1949 to 1950.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The one-room school closes" -->
+School boards closed one-room schools district by district in these years, and school buses made the closing possible. A bus could carry children past the small school near their homes to a bigger school farther away.
+
+Federal officials began counting one-teacher schools in 1929 to 1930. That year there were 149,282 of them. By 1949 to 1950 there were 59,652. For the years before 1929, no government count exists. A figure of about 200,000 one-room schools at the peak is often given, but it is an estimate.
+
+The number of school districts fell just as fast, as small districts joined into bigger ones. There were 119,001 districts in 1937 to 1938 and 83,718 in 1949 to 1950. About 35,000 districts were gone in twelve years.
+
+Over the same years, more and more children rode to school. In 1929 to 1930, school districts paid to carry 1,902,826 pupils, 8.9 percent of the children in school on an average day. In 1949 to 1950 they carried 6,947,384, or 31.2 percent. By 1950 nearly a third of the country's schoolchildren rode to school.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="mamie-garvin-fields" name="Mamie Garvin Fields" movie="" kind="ordinary" status="verified" -->
+### Mamie Garvin Fields
+
+> **Who:** A Black teacher in South Carolina who started in a one-room school at twenty and taught for about thirty-five years.
+> **When and where:** Born in Charleston, South Carolina, in 1888. Died in 1987.
+
+Mamie Garvin Fields took her first teaching job in 1908, at twenty, in Pine Wood, a one-room school near Sumter, South Carolina. For the next few years she taught in one-teacher and two-teacher schools for Black children in rural South Carolina.
+
+She was born in Charleston in 1888. She went to the Robert Gould Shaw Memorial School there. Then she won a scholarship from her church to the high school department of Claflin College in Orangeburg, and she stayed on at Claflin for college.
+
+In 1909 she came back to Charleston. She was one of the first Black teachers hired for the county's public schools. She taught at Humbert Wood Elementary School and at Miller Hill School on Johns Island, where she was the principal for two years. After a short time in Boston, she went back to teaching in 1926 at the Society Corner School on James Island. She retired in 1943.
+
+She also taught grown-ups. In the early 1920s she ran classes for adults on James Island and Johns Island. During the Depression she started the first vacation Bible school for migrant workers in Charleston. Migrant workers are farm workers who move from place to place to follow the harvests. From 1958 to 1964 she was president of the South Carolina Federation of Colored Women's Clubs.
+
+In 1978, when she was ninety, she and her granddaughter Karen Fields began to record the story of her life. Their book, *Lemon Swamp and Other Places*, came out in 1983. Her papers are kept at the Avery Research Center in Charleston. She died in 1987, at ninety-nine.
+<!-- hb-story:end slug="mamie-garvin-fields" -->
+
+<!-- hb-zoom level="span" label="Children at work instead of at school" -->
+Many children in 1900 were at work, not in school. The census of 1900 counted about 2 million children working in mills, mines, fields, factories and stores and on city streets.
+
+Members of Congress tried several times to stop it. In 1916 they voted for the Keating-Owen Act, and President Woodrow Wilson signed it on September 1, 1916. Under it, goods could not be sold across state lines if they came from a factory that employed children under 14, or from a mine that employed children under 16. In 1918, in *Hammer v. Dagenhart*, the justices of the Supreme Court struck the law down. They ruled that Congress had gone beyond its power. Members of Congress then put a tax on goods made by children, and in 1922 the justices struck that law down too. An amendment to the Constitution to allow a child labor law was proposed in the 1920s, but not enough states approved it. Federal limits on child labor came only with the Fair Labor Standards Act of 1938. In 1941 the justices upheld it.
+
+The children counted as workers and the children counted in the high schools were the same children. As fewer employers could hire them, more of them sat in classrooms.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="A school prayer case in Nebraska, 1902" -->
+A court fight over religious teaching in a public school began at the Freeman School in Nebraska, the one-room brick school near Beatrice. In 1898 Daniel Freeman sued over religious teaching at the school. Freeman was the first person to file a claim for free land under the Homestead Act. On October 9, 1902, the justices of the Nebraska Supreme Court ruled in his favor. That was forty-five years before federal courts began to apply the Constitution's ban on an official religion to the states.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Hitting children, by the rules" -->
+For the whole of this era, teachers could lawfully hit children in the public schools of every state except New Jersey. City school boards wrote down who could do it, with what, and how it had to be recorded, and some of their rule books survive.
+
+The San Francisco Board of Education printed its rules in 1910. Section 63 said that corporal punishment "shall not be administered in the high schools, nor to girls in any of the schools of the department." Only principals could give it, and only "in extreme cases when all other means fail to maintain discipline." It had to be given in front of a witness. The rule named the tools: "The use of either the rattan or the strap in administering punishment is optional." A strap is a long, flat strip of leather. Section 64 said the principal had to keep a book recording "the name and age of the pupil, the offense committed and the character of the punishment." At the end of every school month, a copy went to the Board and to the Superintendent.
+
+The New Haven school rules of the same year began, "Teachers shall govern by kindness and by appeal to the better nature of pupils." The next lines set out when a teacher could hit a child anyway. The principal had to approve it first, the teacher had to record it, and "Corporal punishment shall not be inflicted in the presence of a school." In Omaha the rules of 1909 allowed it "as a last resort," under written instructions from the superintendent.
+
+In all three cities the rules named a tool, named the adult allowed to use it, and required a written report with the child's name on it. Boston's rules had worked the same way in the 1860s.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Carlisle's last years: a beating, a petition and a hearing" -->
+In February 1914 a committee of Congress held hearings at the Carlisle boarding school, and a Pottawatomie student named Julia Hardin told its members under oath how a staff member had beaten her. The hearings began with a petition. Gus Welch, an Ojibwe student, gathered more than 200 students' signatures asking the Commissioner of Indian Affairs to look into wrongdoing by the school's leaders and its athletic department.
+
+Members of a joint committee of Congress came to the school without warning. For a week they held public hearings on the campus. An inspector from the Indian Office, Edward B. Linnen, worked with them. They asked about the laundry, a shortage of flour, and the money the school earned from its football team. By Linnen's figures, the athletic fund had taken in $223,789.83 from 1907 to 1913. The school's leaders had spent it on five buildings, including a separate dormitory for the athletes. Superintendent Moses Friedman was accused of charging twice for train tickets.
+
+Julia Hardin testified on February 7, 1914. She was 18, an orphan from Shawnee, Oklahoma, and a student in the business department, where she studied law, shorthand and typing. Every month she had received the mark "excellent" for her behavior. She told the committee what had happened on the second day of one June. She had agreed to go on the outing program but asked to wait until she had a trunk and clothes to take. A note from the matron's office told her she had to leave the next morning. The matron sent her to Superintendent Friedman, and Friedman sent her back to the matron.
+
+Then Claude Stauffer, the school's music teacher and band leader, told her to sign a check for her train fare. She refused until her clothes were ready. He slapped her across the face with his hand. He told her, "I am going to give you a sound thrashing, and I will stand the responsibility." He pulled a board off a window sill, about three inches wide and two to two and a half feet long, and pushed her to the floor. Two matrons held her down. One of them was Anna Ridenour. They pulled down the curtains so nobody could see in, and they locked the door. Stauffer whipped her with the board "for at least ten minutes," she testified, "on the head, and every place." She lay face down with her hands over her head. Asked how many times he struck her, she said, "About sixty times." When Stauffer said again that he would take the responsibility, Ridenour said, "Yes, go ahead." Then he asked, "Shall I whip her some more?"
+
+Another staff member, Mr. Whitwell, came and spoke to her, and she signed the check. Then Stauffer and Ridenour locked her in the school's lock-up until after supper. The next morning she went to a family in Merchantville, New Jersey. For three months she did their washing, scrubbing, housecleaning and cooking, for $6 a month, and she paid her own train fare of $3.79. Staff sent a report about her ahead, and the family told her, "we will have to go rather hard on you."
+
+She told the committee that Stauffer had whipped several boys from his band in the guardhouse, and she named one of them, Robert Nash. She had also seen Ridenour and another staff member, Miss Knight, whip a young woman named Rose Whipper and lock her up. After the hearings, officials suspended Stauffer. He was not fired, but his job was abolished. The football coach, Glenn "Pop" Warner, left Carlisle.
+
+On September 1, 1918, officials handed Carlisle over to the War Department, which used it as an Army hospital during the First World War. The 279 children still at the school were moved to other federal boarding schools.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="John Dewey's school: children learn by doing" -->
+John Dewey, a professor at the University of Chicago, argued that children learn by doing things, not by sitting still and listening. To test the idea, he and his wife, Alice, ran a small school in Chicago for eight and a half years, from 1896 to 1904.
+
+He described the classroom he was arguing against in his book *The School and Society*, published in 1899. He had gone around the school supply stores of Chicago, looking for desks and chairs that children could work at. One dealer told him, "I am afraid we have not what you want. You want something at which the children may work. These are all for listening." Dewey described the ordinary schoolroom as having "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
+
+In his school, children cooked, wove cloth, built things and grew plants. Reading, writing and arithmetic came out of that work. In the same book, Dewey answered the question of what schools are for: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="john-dewey" name="John Dewey" movie="" kind="famous" status="verified" -->
+### John Dewey
+
+> **Who:** A philosopher who started out as a high school teacher, argued that children learn by doing, and ran a school to test it.
+> **When and where:** Born in Burlington, Vermont, on October 20, 1859. Died in New York City on June 1, 1952.
+
+John Dewey taught high school before he studied philosophy, and later he ran a school of his own to test his ideas about learning. He graduated from the University of Vermont in June 1879. Right away he went to work as assistant principal of Oil City High School in Pennsylvania, where he taught the classics, which are the old Greek and Latin writers, along with science and algebra. He was nineteen. He did that job for two years.
+
+He earned a doctorate at Johns Hopkins University in 1884 and then taught at the University of Michigan. In March 1894 he accepted a job at the University of Chicago. He was 34 when he arrived in Chicago.
+
+In January 1896 he opened an elementary school in a rented house on 57th Street, with sixteen pupils and two adults in charge. On the first day, the student newspaper reported, each child made a paper box for pencils. Two teachers who worked there later wrote the school's history. They called its first six months a time of trial and error, "chiefly indicative of what not to do." The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
+
+In 1899 he published *The School and Society*. It became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
+
+On April 5, 1904, his wife, Alice Chipman Dewey, resigned as principal of the school, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
+<!-- hb-story:end slug="john-dewey" -->
+
+<!-- hb-zoom level="span" label="Intelligence tests come to school" -->
+Between 1916 and 1926, school officials began to give children written intelligence tests, and one of the men who made the tests wrote that the lowest scorers should be kept in separate classes and should not have children. An intelligence test is a set of questions meant to measure how quickly and how well a person can think.
+
+In 1916 Lewis Terman, a psychologist, published *The Measurement of Intelligence*. It was a handbook that told teachers how to give his American version of the test and what the scores meant. In it he wrote about two boys he had tested. He claimed that their level of intelligence was "very, very common" among Spanish-Indian and Mexican families of the Southwest and among Black people. He wrote that their low scores seemed "to be racial," which meant that he believed the cause was born into these families. Then he wrote what he thought should be done:
+
+"Children of this group should be segregated in special classes and be given instruction which is concrete and practical. They cannot master abstractions, but they can often be made efficient workers, able to look out for themselves. There is no possibility at present of convincing society that they should not be allowed to reproduce, although from a eugenic point of view they constitute a grave problem because of their unusually prolific breeding."
+
+Eugenics was the idea that a country could improve its people by stopping those judged unfit from having children. Test scores came with labels. The words "feeble-minded," "moron" and "imbecile" were names for ranges of low scores. School officials used the labels to put children into separate classes.
+
+The tests grew in the Army. In May 1917, during the First World War, the psychologist Robert Yerkes gathered a committee at the Vineland Training School in New Jersey. Terman was on it. They built tests that could be given to a whole room of soldiers at once. The Army Alpha was for men who could read English. The Army Beta used pictures, for men who could not. About 1.75 million soldiers took them in 1917 and 1918.
+
+The first college entrance test of this kind came from the Army test. The College Entrance Examination Board gave the first Scholastic Aptitude Test, the SAT, on June 23, 1926, to about 8,000 students. Carl Brigham of Princeton University led the committee that built it. Five of its nine sections were copied word for word from a Princeton test that Brigham had made out of the Army Alpha. In 1923 Brigham had written a book that used the Army scores to rank races by intelligence. By 1926 he had come to accept that a person's surroundings affect test scores, and he took back his 1923 claims. The first SAT was given in June, after most colleges had already chosen their students, so the scores decided almost nobody's admission.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Kept out of school: disabled children" -->
+Before 1950 no law gave a disabled child the right to a public school classroom, and school boards could send a disabled child away. Merritt Beattie of Antigo, Wisconsin, had cerebral palsy, a condition that affects how a person controls the muscles. He could not control his drooling or the movements of his face, and his voice was rough. From 1914 to 1917 he went through first grade to fifth grade in the Antigo public schools and kept up with the work.
+
+When he was thirteen, the Antigo school board voted to put him out of school. The board members said that "his physical condition and ailment produces a depressing and nauseating effect upon the teachers and school children." They offered him a place in a class for deaf children and children with speech problems. He and his parents refused it and went to court to get him back into his own school. On April 29, 1919, the justices of the Wisconsin Supreme Court ruled for the school board.
+
+School officials offered disabled children very little. In 1931 to 1932, 161,000 children in the whole country were in special education of any kind, 0.6 percent of public school pupils. In 1947 to 1948 there were 356,000, or 1.5 percent. For the whole of this era, about 1 child in 100 was in any special program. Most disabled children stayed at home, lived in institutions, or sat in ordinary classrooms with no help arranged for them.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="A teacher convicted for teaching in German" -->
+During and just after the First World War, lawmakers in Nebraska and several other states made it a crime to teach children in any language but English. The laws were aimed at communities that spoke German.
+
+Robert Meyer taught at Zion Parochial School in Hamilton County, Nebraska. A parochial school is a school run by a church. On May 25, 1920, he taught a ten-year-old boy, Raymond Parpart, to read in German. Officials charged him, and he was convicted. The state's law forbade teaching "any subject to any person in any language than the English language." A school could teach another language only to a pupil who had passed the eighth grade. The punishment was a fine of $25 to $100, or up to thirty days in the county jail, for each offense.
+
+On June 4, 1923, in *Meyer v. Nebraska*, the justices of the Supreme Court overturned his conviction. Two justices, Justice Holmes and Justice Sutherland, would have let it stand.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Oregon voters try to close the private schools" -->
+In 1922 a majority of Oregon's voters approved a law to close every private school and church school in the state, and in 1925 the justices of the Supreme Court struck the law down. Members of the Ku Klux Klan proposed the measure and put it on the ballot through another group, the Scottish Rite Masons. The measure required every child aged 8 to 16 to attend the public school in the child's own district, and it made it a crime for a parent not to send them.
+
+Voters passed it on November 7, 1922, by 11,821 votes out of 219,191. It was to take effect in 1926. Two schools went to court. One was the Society of the Sisters of the Holy Names of Jesus and Mary, a group of Catholic nuns who ran schools. The other was Hill Military Academy, which was not a religious school.
+
+On June 1, 1925, in *Pierce v. Society of Sisters*, the justices ruled the law unconstitutional. They wrote: "The child is not the mere creature of the state." The people who raise a child, they wrote, "have the right, coupled with the high duty, to recognize and prepare him for additional obligations."
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="What the textbooks said" -->
+The people who chose school textbooks decided what children learned about the past and about science, and some of those books taught that races could be ranked. The United Daughters of the Confederacy was a group of Southern white women founded in 1894. In 1908 its members created an officer called the historian-general, partly to check school history books for anything the group called "unjust to the South." In 1919 the historian-general, Mildred Lewis Rutherford, published *A Measuring Rod to Test Text Books*, a checklist for judging them. The group wanted books to teach that enslaved people "had been faithful to their enslavers" and that "states' rights, not slavery, was the cause of the war." By the end of the 1930s many states were buying textbooks for every child, so one state-approved list put the same account of the Civil War in front of every pupil in the state.
+
+In 1925 a Tennessee science teacher, John Scopes, was found guilty and fined $100 for teaching evolution, the scientific account of how living things change over many generations. He taught from *A Civic Biology*, a high school book by George William Hunter, first printed in 1914 and approved by the state. The trial was about its pages on evolution. The same book listed five races and called "the civilized white inhabitants of Europe and America" "the highest type of all." About families it called feeble-minded and criminal, it said: "If such people were lower animals, we would probably kill them off to prevent them from spreading." The book told pupils that such people should be kept apart in asylums, places where people were locked away, and kept from marrying. No one at the trial was charged over those pages.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="What the labels were used for: Carrie Buck" -->
+In the same years that schools sorted children with labels like "feeble-minded," state officials used the same labels to choose people to sterilize, and in 1927 the justices of the Supreme Court said the states could do it. To sterilize a person is to operate on the body so that the person can never have a child.
+
+Carrie Buck was born in Charlottesville, Virginia, on July 2, 1906. Her school records show that she made normal progress every year. Before she finished sixth grade, the foster family she lived with took her out of school to do their housework. At seventeen she became pregnant. The National Archives states that the pregnancy was later reported to have been the result of rape, allegedly by a relative of her foster parents. Her foster family then had her committed, which means sent by a court to live in an institution. On January 23, 1924, a court hearing called her "epileptic and feebleminded."
+
+On March 20, 1924, Virginia's lawmakers passed a law that let the state sterilize people it judged unfit "because of alcoholism, epilepsy, feeblemindedness, insanity, or other factors." Eight days later, on March 28, Carrie Buck's daughter, Vivian, was born. In June 1924 Carrie Buck was sent to the Virginia State Colony for Epileptics and Feeble-Minded. Virginia officials chose her case to test the new law. On May 2, 1927, the justices of the Supreme Court ruled for Virginia in *Buck v. Bell*, eight votes to one. Justice Butler voted against the ruling and wrote nothing. Justice Oliver Wendell Holmes Jr. wrote for the others:
+
+"It is better for all the world, if instead of waiting to execute degenerate offspring for crime, or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Three generations of imbeciles are enough."
+
+On October 19, 1927, Dr. John H. Bell, who ran the Colony and whose name is on the case, operated on her. The operation is called a salpingectomy. He cut a piece out of each of her two Fallopian tubes, the tubes that carry an egg from the ovary to the womb. After that, no egg could reach her womb, and she could never become pregnant again. The operation cannot be undone. She was twenty-one.
+
+The third generation Holmes meant was Vivian. In April 1931 Vivian was on the honor roll at Venable Elementary School in Charlottesville. She died of an infection of the intestines in July 1932, at eight. Officials in Virginia sterilized about 8,300 people between 1927 and 1972. The law stayed in force until April 1974. The justices of the Supreme Court have never overruled *Buck v. Bell*.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Separate schools, and what separate meant" -->
+In the South, county officials spent far less on the schools for Black children than on the schools for white children, and the amounts are on record. In Lowndes County, Alabama, in 1909, white schools received $20 for each pupil. Black schools received 67 cents. In Edgecombe County, North Carolina, the county paid for janitors, electricity, water and transportation at the white schools and paid for none of them at the Black schools.
+
+A federal survey published in 1917 measured the whole South. It divided what the Southern states paid their teachers by the number of children aged 6 to 14. That came to $10.32 for each white child and $2.89 for each Black child. The report identifies who made the split. Each state sent its counties school money counted on every child, Black and white. "The county officers then divide these funds according to their interpretation of the needs of the white and black pupils." The gap was widest where most people were Black. In counties where at least three people in four were Black, officers spent $22.22 on each white child and $1.78 on each Black child. In Alabama, Florida, Louisiana, North Carolina and South Carolina, the Black public schools were open less than five months a year.
+
+Black families built schools themselves. In 1912 Julius Rosenwald, a part-owner of the Sears, Roebuck company, met Booker T. Washington and began paying part of the cost of school buildings for Black children. Between 1913 and 1932, more than 5,000 schoolhouses, teachers' homes and workshops went up in fifteen states. More than 600,000 students went to these Rosenwald schools. Rosenwald's money never paid the whole cost. Black families had to raise a matching share. They held fish fries and bake sales, and they gave building materials and their own work. The schools had no electricity, so the plans put large windows close together to let in daylight.
+
+Each state's officials decided which children had to go to the separate schools. Martha Lum was nine years old when she was sent home from the Rosedale Consolidated High School in Bolivar County, Mississippi, because she was Chinese. Mississippi's constitution kept the white schools for white children. Her father sued. On November 21, 1927, in *Gong Lum v. Rice*, the justices of the Supreme Court ruled for Mississippi. No justice disagreed.
+
+Mexican American children were sent to separate schools too. On January 5, 1931, in Lemon Grove, California, the principal, Jerome T. Green, stood in the school doorway. He let in every pupil except the Mexican American ones and told them to go to a separate two-room building. Their parents kept the children home and sued. On March 30, 1931, Judge Claude Chambers of the San Diego County court ordered the children let back in. Some accounts give March 31. In Texas on June 15, 1948, Minerva Delgado and twenty other Mexican American parents sued the Bastrop school district and three others. Their lawyer was Gustavo C. Garcia. Judge Ben H. Rice ordered the separation ended by September 1949. His ruling still allowed a school to put first graders in a separate class if a test found that they spoke little English.
+
+By the end of the era, more children of every group were in school. In 1900, 54 of every 100 white children aged 5 to 19 were enrolled, and 31 of every 100 children the government counted as Black and other races. By 1950 the numbers were 79 and 75. The gap closed while the schools stayed separate and unequally paid for.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The boarding schools at their largest" -->
+Tens of thousands of Native children lived at federal boarding schools in the 1920s, and a report written for the Secretary of the Interior in 1928 described what the children ate, where they slept and how they worked. In 1926, of 69,892 Native children enrolled in any school, 27,361 were in boarding schools. Of the children in government schools, more than 4 in 5 were boarders. There were 19 boarding schools off the reservations and 59 on them.
+
+Officials could force parents to send their children. A law of February 14, 1920, allowed the Secretary of the Interior to "make and enforce" rules to secure the "regular attendance" of Native children at federal schools or public schools. A law of 1929 let state officers onto reservations to enforce state attendance laws.
+
+Secretary of the Interior Hubert Work asked for the survey. Lewis Meriam led the team that wrote it, and he handed it to Work on February 21, 1928. It is called the Meriam Report. It states: "The survey staff finds itself obliged to say frankly and unequivocally that the provisions for the care of the Indian children in boarding schools are grossly inadequate."
+
+Officials were trying to feed each child on eleven cents a day, plus what the school farm grew, the report found. It called the food "deficient in quantity, quality, and variety." The Indian Service's own rule was a quart of milk a day for each child, and very few schools met it. The main diseases were tuberculosis and trachoma. Tuberculosis is a disease of the lungs that spreads by coughing, and in the 1920s there was no cure for it. Trachoma is an eye infection. Repeated infection scars the inside of the eyelid until the lashes turn inward and scrape the eye, and without treatment it blinds people. At the school at Fort Defiance, Arizona, which was set up for children with trachoma, "milk is not part of the normal diet." The dormitories were "crowded materially beyond their capacities," and "the supply of soap and towels has been inadequate."
+
+The children's work kept the schools running. "The boarding schools are frankly supported in part by the labor of the students," the report states. Pupils above the fourth grade worked half the day and went to class the other half. Its authors asked whether much of that work, "notably the work in the machine laundries," would be against the child labor laws of many states.
+
+The authors also judged the idea behind the schools. Taking children, "even very young children, as completely as possible away from their home and family life," went against what experts then knew about raising children. It stated: "Indian parents nearly everywhere ask to have their children during the early years, and they are right."
+
+In November 1928, in Salt Lake City, a committee of senators led by Senator Lynn J. Frazier of North Dakota heard what those conditions meant at one school. It was the Uintah Boarding School at Whiterocks, Utah, on the Ute reservation. In late October 1927, an eleven-year-old pupil, Tilford Denver, was climbing the rope of the school swing. The swing had been broken for a long time and had never been fastened down. The frame fell, and a bar struck his head. He died within the hour. The agency doctor, George McClellan Hamilton, was asked whether officials were to blame. He answered, "Some of the officials of the reservation." Then he added, "yes, sir ... Because this swing never had been secured." The record does not name the official in charge of the swing. Tilford's mother, Dulcia Denver, was never paid anything for his death, the doctor said.
+
+Swanson Mowachean was an orphan who had come to the school at about ten. He touched a bare electric wire at the school, fell and hurt his head. On February 17, 1928, his relatives wrote to the Commissioner of Indian Affairs, Charles Burke. They wrote that the superintendent, H. M. Tidwell, "did not think this boy needed to go to the hospital," and "We fear that if we wait for the superintendent to act it will be too late and the boy will die." Tidwell let him go back to the hospital later that month. The doctor testified that it was too late. Swanson died on March 6, 1928. The doctor also told the senators, "we have had Indians die there for a lack of attention and lack of proper food." It had happened, he said, "more than once."
+
+Fred Bruce, a Chippewa man hired in January 1928 to keep order among the boys, testified that the principal, George N. Shafer, wanted him to whip them. He quoted Shafer: "some of these Indians you have got to pound it into them." Shafer went on, "that is the only way they will learn anything." Bruce said he refused, and he was fired about six months later. A parent, Eugene Perank, told the senators through an interpreter what children had told him: "they have whipped them with a stick." He went on, "throw them down and whip them." He took his own children out of the school. The children who were whipped at Uintah are not named in the record.
+
+In May 1930 John Collier, who led the American Indian Defense Association, charged "widespread brutality" at government boarding schools. He persuaded senators to look into "flogging and other forms of excessive punishment." His charges centered on the Phoenix Indian School in Arizona, whose leaders were accused of "whippings, beatings, and even death." Officials read the Meriam Report in 1928, and the boarding schools stayed open. The federal count of children who died at the schools covers the whole life of the system, from 1819 to 1969, and is not broken down by decade.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Teaching: colleges for teachers, and the marriage bar" -->
+Most normal schools turned into teachers colleges in the first half of the century. A normal school gave one or two years of training after high school. A teachers college gave a four-year college degree. Between 1911 and 1930, 88 normal schools became teachers colleges. By the 1950s the last of the normal schools were gone.
+
+Most teachers were women, and most school boards made a woman choose between teaching and marriage. This rule is called the marriage bar. In 1928 the National Education Association, a teachers' organization, began asking school boards about it. That year 61 percent of the boards would not hire a married woman as a teacher. Also, 52 percent would not keep a teacher who married while she worked for them. By 1942 the figures had risen to 87 percent and 70 percent.
+
+During the Second World War the number of men teaching in public schools fell from 195,000 in 1939 to 1940 to 127,000 in 1943 to 1944. School boards that had refused married women for years now needed them, and most dropped the rule. By 1951, 18 percent of boards still refused to hire a married woman, and 10 percent refused to keep one.
+
+Teachers' pay rose over the fifty years. On average, a teacher earned $325 a year in 1899 to 1900, $1,420 in 1929 to 1930 and $3,010 in 1949 to 1950. Prices rose too, so what that pay could buy about tripled. The number of pupils for each teacher fell from about 37 to about 28.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="A school explosion: New London, Texas, 1937" -->
+On March 18, 1937, the school in New London, Texas, exploded, and about 298 of the 500 students and 40 teachers inside died. Early that year the school board had canceled its contract for natural gas. To save money, the board members had plumbers connect the school to a gasoline company's pipe of leftover gas. That gas had no smell. No school official was found responsible, and more than seventy lawsuits failed. Texas lawmakers then passed a law requiring companies to add a smell to gas.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="School behind a fence: the Japanese American camps" -->
+During the Second World War, federal officials held Japanese American children in camps, and more than 30,000 of them went to school there. On February 19, 1942, President Franklin D. Roosevelt signed Executive Order 9066. Under it, Lieutenant General John L. DeWitt, the Army commander on the West Coast, ordered Japanese Americans there out of their homes. More than 120,000 people were removed, and two out of every three were American citizens. None of them was charged with a crime or tried. Officials of the War Relocation Authority, the federal agency that ran the camps, ran the camp schools as well.
+
+At Manzanar, in California, more than 2,300 children arrived from over 200 schools, and no one had planned how to teach them. The first classes met in barracks and recreation halls with no furniture, no textbooks and no supplies.
+
+Poston, in Arizona, held more than 18,000 people in three camps. It was built on the Colorado River Indian Reservation. The Mohave were the largest of the nations who had lived on that land. John Collier, who was then the Commissioner of Indian Affairs, suggested the site. The reservation's tribal council opposed the camp, and officials built it anyway. At Poston the people held there made about 750,000 adobe bricks, bricks of mud and straw dried in the sun, and built three school campuses. Elementary classes averaged 48 pupils to one teacher. Of the 100 teachers hired to come to Poston, 70 arrived, and by December 55 were still there.
+
+Four Munemitsu children, Seiko, Saylo, Akiko and Kazuko, had gone to school in Westminster, California, until 1942. Then they were held at Poston. While they were there, the Mendez family leased and worked the Munemitsu family's farm in Westminster, and staff at a Westminster school turned the Mendez children away.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="sylvia-mendez" name="Sylvia Mendez" movie="" kind="ordinary" status="verified" -->
+### Sylvia Mendez
+
+> **Who:** Turned away from a California school at eight, she was one of about 5,000 children in her father's lawsuit, and the families won.
+> **When and where:** Westminster, California, 1944 to 1947.
+
+Sylvia Mendez was eight years old when staff at a school in Westminster, California, refused to enroll her, and her father went to court over it. In 1944 her family moved from Santa Ana to a farm in Westminster. They leased it from the Munemitsus, a Japanese American family whom federal officials had forced into a camp.
+
+Her aunt Soledad took Sylvia, her brothers Gonzalo Jr. and Jerome, and her own children, the Vidaurri cousins, to enroll at the Seventeenth Street School. The staff accepted the Vidaurri cousins, who had lighter skin and a last name that did not sound Spanish. They turned away the Mendez children. Her aunt answered: "My kids, they will not go to your school, if those of my brother cannot go, mine will not go!"
+
+The staff sent the Mendez children to Hoover School, which people called the Mexican school. Children there were taught embroidery, cooking or farm work instead of math and science. The two schools did not teach the same subjects. The Mexican school prepared children for different work.
+
+Her father, Gonzalo Mendez, and four other fathers, William Guzman, Frank Palomino, Thomas Estrada and Lorenzo Ramirez, went to federal court. Their lawyer, David Marcus, sued four Orange County school districts, Westminster, Santa Ana, Garden Grove and El Modena, for about 5,000 children. After a six-day trial in Los Angeles, Judge Paul J. McCormick ruled for the families on February 18, 1946. On April 14, 1947, the judges of the Ninth Circuit Court of Appeals, a higher federal court, agreed with him.
+
+In 1947 California's governor, Earl Warren, signed a law that made California the first state to ban separate public schools of every kind. In 1953 Warren became Chief Justice of the United States. In 1954 he wrote the Supreme Court's ruling in *Brown v. Board of Education*.
+
+Sylvia Mendez spoke about the case in public for decades. On February 15, 2011, she received the Presidential Medal of Freedom.
+<!-- hb-story:end slug="sylvia-mendez" -->
+
+<!-- hb-zoom level="span" label="The G.I. Bill sends veterans to college" -->
+In 1944 members of Congress voted to pay for veterans of the Second World War, the men and women who had served in the armed forces, to go to college or job training. President Roosevelt signed the Servicemen's Readjustment Act, called the G.I. Bill, on June 22, 1944. In 1947, its busiest year, veterans made up 49 percent of the students admitted to colleges. By the time the first G.I. Bill ended on July 25, 1956, 7.8 million of the 16 million veterans of the war had used it for education or training.
+
+The law said nothing about race, but Black veterans in the South could not use it the same way. Local officials handled the benefits. A Black veteran in the South with money for tuition, the fee a college charges for classes, still had to find a college that would admit him. The colleges open to him were separate Black colleges with a limited number of places. Many Black veterans had also come from the underfunded schools described above. Many could not get into a college.
+
+The number of Black college students still rose sharply. Medgar Evers volunteered for the Army in 1942. Later he used the G.I. Bill to enroll at Alcorn A&M College in Lorman, Mississippi, the land-grant college the state had set up for Black students.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1900-1950" -->
+
+<!-- hb-time:start id="1950-2000" order="09" chapter="education" label="1950 to 2000" state="full" progress="written" -->
+## 1950 to 2000
+
+<!-- hb-zoom level="era" -->
+In 1954 the justices of the Supreme Court ruled that separate public schools for Black and white children broke the Constitution, and for the next ten years almost every Black child in the South still went to an all-Black school. Officials in Arkansas and Virginia closed public schools rather than let Black children in, and a crowd killed two men on the night the University of Mississippi admitted its first Black student. Members of Congress began to pay for schooling on a large scale, for science in 1958 and for schools with poor children in 1965. Judges ruled on prayer in school, on disabled children shut out of school, on children who could not understand English, and on paddling. By 2000 college had become ordinary, and most people who finished a degree had borrowed money to pay for it.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Brown, and how slowly the classrooms changed" -->
+On May 17, 1954, in *Brown v. Board of Education of Topeka*, all nine justices of the Supreme Court ruled that separate public schools for Black and white children broke the Constitution. Chief Justice Earl Warren wrote the ruling. Seven years earlier, as governor of California, he had signed that state's law against separate schools. On May 31, 1955, the justices ordered the states to desegregate "with all deliberate speed." To desegregate means to end the separation of Black and white pupils. The justices set no date.
+
+Ten years after *Brown*, one study estimated that 99 of every 100 Black children in the South were in schools with no white children. A team led by James Coleman made the first national count in the school year 1965 to 1966. The Civil Rights Act of 1964 required the count. Across the country, 65 of every 100 Black pupils were in schools that were more than 90 percent Black. Also, 80 of every 100 white pupils were in schools that were more than 90 percent white.
+
+The city figures for elementary schools in the same survey show the South. In Mobile, Alabama, every Black child was in a school more than 90 percent Black. The figure was 99 in every 100 in Birmingham and in Jackson, Mississippi, 97 in Atlanta, and 96 in New Orleans and in Charlotte. Of the Southern cities counted, the lowest was Kansas City, Missouri, at 69.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Little Rock: a year inside Central High, and a year with no high school" -->
+In September 1957 nine Black students entered Central High School in Little Rock, Arkansas, only after President Dwight Eisenhower sent Army soldiers to take them in, and the next year Governor Orval Faubus closed the city's high schools. The nine were Elizabeth Eckford, Minnijean Brown, Ernest Green, Thelma Mothershed, Gloria Ray, Jefferson Thomas, Carlotta Walls, Terrence Roberts and Melba Pattillo.
+
+On September 2, 1957, Faubus said on television that he had called out the Arkansas National Guard to "preserve order" at Central High. On September 4 the nine tried to go in. Elizabeth Eckford came alone, because she did not know that the others were being taken together. Guard soldiers refused to let her in, and she walked to a bus stop through a crowd of more than 300 people. The other eight came with ministers that Daisy Bates had arranged. Lieutenant Colonel Marion Johnson turned them away on Faubus's orders.
+
+On September 20 a federal judge, Ronald Davies, ruled that Faubus had used the soldiers to stop integration, the mixing of Black and white students in one school, and not to prevent violence. Faubus pulled the Guard out that evening. On September 23 more than a thousand white people surrounded the school while city police took the nine inside. People in the crowd attacked four Black reporters: Alex Wilson, James Hicks, Moses J. Newsom and Earl Davy. After three and a half hours, school staff took the nine out through a side door. The next day Mayor Woodrow Mann telegraphed the president that the "mob is armed" and the "situation is out of control."
+
+Eisenhower sent 1,000 soldiers of the 101st Airborne Division. At 9:22 on the morning of September 25, the nine walked in through the front doors. More than twenty soldiers walked around them, more than 350 stood around the building, and an Army helicopter flew overhead.
+
+Inside the school, white students shoved and insulted the nine for months. On October 3 about 150 white students walked out. The vice principal, Elizabeth Huckaby, took 70 names, and all 70 were suspended. On December 17 Minnijean Brown dropped chili on two white boys who blocked her way in the cafeteria, and she was suspended until January 13. Two days after she came back, white students poured chili on her and were expelled. Some white boys wore badges that read "One Down and Eight to Go." On February 17, 1958, the school board members expelled Minnijean Brown for the rest of the year after she called a student "white trash." She finished high school in New York. On May 27, 1958, Ernest Green became the first Black student to graduate from Central High.
+
+In June 1958 Judge Harry Lemley allowed Little Rock to put off integration until January 1961. In September the justices of the Supreme Court overturned his ruling. On September 15, 1958, Faubus closed all four of Little Rock's public high schools, under laws that Arkansas lawmakers had passed for him. On September 27 the city's voters chose 19,470 to 7,561 against integration, and the high schools stayed shut for the whole school year. People in Little Rock call it the Lost Year.
+
+White students went to new private schools, to schools in other towns and other states, or took courses by mail from the University of Arkansas. Faubus helped a private school company buy buildings with public money. Black students had fewer places to go. Most went to schools in other districts or other states. Some took a course by mail run by L. M. Christophe, the principal of the Black high school. State officials kept paying the teachers to sit in empty classrooms, and Central High's football team kept playing all year.
+
+In May 1959 the segregationist members of the school board voted not to renew the contracts of 44 teachers and school officials. A segregationist is a person who wants the races kept apart. On May 25, 1959, a group of women, the Women's Emergency Committee to Open Our Schools, won a vote that removed three of those board members. The high schools opened again on August 12, 1959.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Science and languages: the 1958 law" -->
+In October 1957 the Soviet Union put the first satellite, Sputnik, into orbit around the Earth. On September 2, 1958, President Eisenhower signed the National Defense Education Act. Under it, federal officials paid for the teaching of science, mathematics and foreign languages, and for loans to college students. Eisenhower called it "an emergency undertaking to be terminated after four years." It was not ended after four years. Its student loans went on under that name until 1972 and then continued under other names.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Virginia closes its schools" -->
+Officials in Virginia closed public schools in five places rather than let Black children into white schools, and in Prince Edward County they kept the public schools shut for five years. In late February 1956, Senator Harry F. Byrd called for "massive resistance" against *Brown*. Virginia's lawmakers, under Governor Thomas B. Stanley, then passed a law that told the governor to close any school that a federal court ordered to take Black pupils.
+
+In September 1958 Governor J. Lindsay Almond Jr. used that law. He closed nine schools in Front Royal, Charlottesville and Norfolk and locked out about 12,000 to 13,000 students. The two sources give different counts. On January 19, 1959, a state court and a federal court both ruled the closings unconstitutional. The state's own scholarship program names five places that closed schools to avoid desegregation: Arlington, Charlottesville, Norfolk, Warren County and Prince Edward County. All but Prince Edward reopened within months.
+
+Prince Edward County closed its schools for years. On April 23, 1951, Barbara Johns, who was 16, had led the Black students of Robert Russa Moton High School in Farmville out of their school to protest its condition. Their case became one of the five cases the justices decided together as *Brown*.
+
+Local white men planned for years to keep the county's schools separate. From 1954, J. Barrye Wall, the editor of the *Farmville Herald*, and Robert Crawford, a laundry owner and former school board chairman, built a group called the Defenders of State Sovereignty and Individual Liberties. On May 31, 1955, hours after the second *Brown* ruling, the county's Board of Supervisors passed a motion by Supervisor John Bruce to give the schools only the legal minimum of $150,000, a fraction of what they needed. On June 7, 1955, at a meeting in Longwood College, 1,250 people voted, against 25, for Mayor W. C. Fitzpatrick's plan to set up a private fund to pay white teachers if the public schools closed.
+
+On May 1, 1959, two courts ordered the county to integrate its schools. The supervisors then voted to stop paying for public schools at all. Two sources give the vote as June 26, 1959, and a third gives June 2. The schools did not open that September. Roy Pearson of Farmville organized private schools for the white children. They went to Prince Edward Academy, a new private school, paid for partly by tuition grants from the state.
+
+Between 1,700 and 2,000 Black children had no school. The two main accounts give different numbers. Some children went to live with relatives in other counties or states. Some were taught in church basements. For one year, starting on September 16, 1963, private donors, backed by President John F. Kennedy's government, paid for free classes for about 1,500 children. On May 25, 1964, in *Griffin v. County School Board of Prince Edward County*, the justices of the Supreme Court ordered the county to reopen its schools. About 1,500 children went back on September 8, 1964.
+
+In 2003 Virginia's lawmakers passed a resolution expressing "profound regret" for the closings. A news report in *Education Week* stated that some lawmakers would not vote for an apology because they thought an apology could lead to demands for payment. In 2004 the lawmakers set up a scholarship fund for people who had lost those years of school. They put in $50,000. John Kluge, a rich donor, then gave $1 million on the condition that the lawmakers match it. They did, and the fund reached $2,050,000.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="ruby-bridges" name="Ruby Bridges" movie="" kind="famous" status="verified" -->
+### Ruby Bridges
+
+> **Who:** At six she walked into an all-white school in New Orleans, and for months she was the only pupil in it.
+> **When and where:** New Orleans, Louisiana, 1960 and 1961.
+
+Ruby Bridges was six years old when four federal marshals, officers who carry out the orders of federal courts, walked her into William Frantz Elementary School in New Orleans on November 14, 1960. For the rest of that school year she was taught there alone. She was born on September 8, 1954, in Tylertown, Mississippi, the eldest child in her family. She grew up in New Orleans and went to a segregated kindergarten in 1959.
+
+In 1960 a federal judge, J. Skelly Wright, ordered New Orleans to desegregate its public schools one grade at a time, starting with first grade. Members of the Orleans Parish School Board made Black children take an entrance test and checked their families. White children moving the other way had to do neither. Six children passed the test, and two of them chose to stay at their own school.
+
+On the morning of November 14, Ruby Bridges walked in with the marshals and her mother, Lucille. That same morning Leona Tate, Gail Etienne and Tessie Prevost, also six, went into McDonogh No. 19 school nearby with marshals of their own. The four girls were the first Black children in white public schools in Louisiana.
+
+Louisiana's leaders fought the order. That summer the lawmakers had made it a crime, punished by fines and jail, to challenge the state's control over the schools. Under one of their laws, Governor Jimmie Davis took over every decision about desegregation in New Orleans. The White Citizens' Council held a rally of 5,000 people and told white parents to defy the court. On November 16 a riot broke out in front of the school board building.
+
+A crowd stood outside Frantz and screamed at her. A group of young white women who called themselves the Cheerleaders came back day after day. They blocked the children and their parents, spat at the children, shouted racial insults and slashed tires. One protester threatened to poison her lunch. No record names the woman who made the threat.
+
+White parents took their children out. By the end of November, fewer than ten white children attended the two schools together. From January to May 1961, Ruby Bridges was the only pupil at Frantz. Every teacher but one refused to teach her. Barbara Henry, a white teacher from Boston, taught her alone for the year. Ruby Bridges did not miss a day.
+
+Her family paid for it. Her father lost his job. Grocery stores refused to serve her mother. Her grandparents were put off the Mississippi farm they had sharecropped for 25 years. Sharecroppers farm land that someone else owns and pay the owner with part of the crop. Her parents later separated.
+
+Robert Coles, a child psychiatrist, which is a doctor who treats problems of the mind, met with her through that year and had her draw and talk about what was happening. In 1964 Norman Rockwell painted her walk to school and called it *The Problem We All Live With*. On July 15, 2011, she saw the painting hanging in the White House. Five years after she walked into Frantz, 96 of every 100 Black elementary pupils in New Orleans were still in schools more than 90 percent Black.
+
+She finished elementary school at Frantz and worked in travel for about fifteen years. In 1999 she started the Ruby Bridges Foundation. On November 14, 2015, fifty-five years to the day after she first went in, a bronze statue of her was unveiled at the school.
+<!-- hb-story:end slug="ruby-bridges" -->
+
+<!-- hb-zoom level="span" label="A university, 1962: two men killed" -->
+Two men were killed on the night the University of Mississippi took in its first Black student, James Meredith. Meredith was an Air Force veteran. He applied on January 20, 1961, and was turned down after he wrote that he was Black. Medgar Evers helped him, and Constance Baker Motley and Jack Greenberg, lawyers for the NAACP, a civil rights organization, took his case. On September 10, 1962, Justice Hugo Black ordered the university to admit him. Governor Ross Barnett worked for weeks to stop it.
+
+On the evening of September 30, 1962, about 500 federal marshals brought Meredith to the campus at Oxford and put him in a dormitory, Baxter Hall. At about 7:25 that evening, State Senator George Yarbrough sent the Mississippi Highway Patrol away from the crowd, and at 7:30 a riot began. The crowd grew to more than 2,500 people by one count and about 3,000 by another, students and people from off the campus. A former Army general, Edwin Walker, helped lead them. They threw rocks, bottles and firebombs at the marshals and fired guns.
+
+Paul Guihard, 30, a reporter for a French news agency, was shot in the back within about ten minutes of reaching the campus. Ray Gunter, 23, a jukebox repairman from Oxford, was dead when he reached the hospital. Nobody was ever charged with either killing. The counts of the injured run from at least 75, in the first news report, to more than 300 in a later account, many of them marshals and soldiers. About 3,000 federal soldiers took control of the campus by the next morning, and 108 people were arrested.
+
+On October 1, 1962, Meredith registered as a student and walked to his first class, a lesson in American colonial history. People shouted at him, "Was it worth two deaths?" Marshals went with him everywhere, and some students walked out of his classes. He graduated in August 1963.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Prayer and Bible reading in the school day" -->
+Until 1962 many public school days opened with a prayer or a reading from the Bible, and two Supreme Court rulings ended those as official school exercises. In New Hyde Park, New York, the board of Union Free School District No. 9 had told each class to say a prayer at the start of every day. Members of the New York State Board of Regents had written it. The whole prayer is 22 words: "Almighty God, we acknowledge our dependence upon Thee, and we beg Thy blessings upon us, our parents, our teachers and our Country." On June 25, 1962, in *Engel v. Vitale*, the justices struck it down, six votes to one. Justice Hugo Black wrote that "it is no part of the business of government to compose official prayers for any group of the American people to recite as a part of a religious program carried on by government."
+
+A Pennsylvania law said that "at least ten verses from the Holy Bible shall be read, without comment, at the opening of each public school on each school day." At the high school in Abington Township, the verses and the Lord's Prayer went out over the school's loudspeakers. In Baltimore a rule from 1905 required a reading from the King James Bible and the Lord's Prayer. On June 17, 1963, the justices struck down both, eight votes to one, in *School District of Abington Township v. Schempp*. Justice Tom Clark wrote that government must keep "strict neutrality, neither aiding nor opposing religion." It made no difference that a child could ask to be excused.
+
+In 1972 the justices let Amish parents take their children out of school after the eighth grade. Wisconsin required children to attend school until 16. Jonas Yoder, Wallace Miller and Adin Yutzy kept their children, Frieda Yoder and Barbara Miller, both 15, and Vernon Yutzy, 14, at home. Each father was fined $5. On May 15, 1972, in *Wisconsin v. Yoder*, Chief Justice Warren Burger wrote that the state could not force the parents to send the children to high school.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Federal money for poor children's schools, 1965" -->
+In 1965 members of Congress began paying for schools where poor children studied, and for classes for children too young for school. President Lyndon Johnson signed the Elementary and Secondary Education Act on April 11, 1965. He signed it on the front lawn of the old Junction school in Johnson City, Texas, the one-room school he had started at when he was four. His first teacher, Kate Deadrich Loney, sat beside him. He told her, "I started school when I was 4 years old, and they tell me, Miss Kate, that I recited my first lessons while sitting on your lap." The House had voted for the law 263 to 153, and the Senate 73 to 18.
+
+Johnson said the law would "bridge the gap between helplessness and hope for more than 5 million educationally deprived children." Its Title I, one part of the law, sends federal money to schools with poor children. By the end of 1965, the first 100 Title I projects were reaching 347,047 children in 12 states.
+
+Head Start began the same year. Sargent Shriver, who ran the federal Office of Economic Opportunity, put together the group that designed it. Johnson announced it on May 18, 1965. It was a summer program to prepare young children for school in September, and it also gave them "medical and dental attention that they badly need." On that day Johnson spoke of about 530,000 children in 11,000 centers, at a cost of $112 million. By August 31 he reported nearly 560,000 children in 13,400 centers in 2,500 communities.
+
+On June 23, 1972, Title IX of a new education law took effect. It states that "no person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="College for millions, and borrowing to pay for it" -->
+Over these fifty years, going to college changed from something a few Americans did to something millions did, and by the end most graduates had borrowed money to pay for it. In the fall of 1950, 2,281,298 people were enrolled in American colleges and universities. In 1960 there were 3,639,847, and in 1970 there were 8,580,887. In 2000 there were 15,312,289, about seven times as many as in 1950.
+
+Much of the growth was paid for with federal money. The 1958 defense education law started federal loans for students. On November 8, 1965, President Johnson signed the Higher Education Act at Southwest Texas State College in San Marcos, Texas. The law added grants of up to $1,000 a year for students who needed them, part-time jobs on campus worth about $400 a year, and loans backed by the government that a student did not have to start paying back until after graduating. Johnson said that 140,000 young people would be in college the next year who otherwise would not.
+
+In the same speech he spoke of the year he had taught at the Welhausen Mexican School in Cotulla, Texas, for $125 a month. "I shall never forget the faces of the boys and the girls in that little Welhausen Mexican School," he said, "and I remember even yet the pain of realizing and knowing then that college was closed to practically every one of those children because they were too poor."
+
+The cost of college rose faster than other prices. Measured in dollars of the same value, a year at a public four-year college, with tuition, fees, a room and meals, cost about $7,745 in 1963 to 1964 and about $12,572 in 1999 to 2000. At private four-year colleges the cost rose from about $15,093 to about $31,509, more than double.
+
+More students borrowed. Of the people who finished a four-year degree in 1992 to 1993, 49 in every 100 had borrowed, an average of $12,100. Of those who finished in 1999 to 2000, 65 in every 100 had borrowed, an average of $19,300. Among students from the richest families, the share who borrowed roughly doubled, from 24 to 46 in every 100.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="What students could say and wear" -->
+Public school students have a right to free speech at school, the justices of the Supreme Court ruled in 1969. Four years later the justices let stand a school rule that punished Native boys for wearing braids. In December 1965 John Tinker, 15, and Christopher Eckhardt, 16, students at high schools in Des Moines, Iowa, and Mary Beth Tinker, 13, in junior high, planned to wear black armbands to protest the Vietnam War. On December 14, 1965, the Des Moines principals made a rule that any student who wore an armband would be told to take it off and suspended for refusing. Mary Beth and Christopher wore armbands on December 16, and John wore his the next day. All three were suspended until after New Year's Day.
+
+On February 24, 1969, in *Tinker v. Des Moines*, the justices ruled for the students, seven votes to two. Justice Abe Fortas wrote that students do not "shed their constitutional rights to freedom of speech or expression at the schoolhouse gate." He also wrote that the case did not concern rules about "the length of skirts or the type of clothing, to hair style, or deportment."
+
+At Pawnee Junior High School in Oklahoma, Pawnee boys wore their hair parted in the middle with a long braid on each side, to follow "the old traditional ways." On April 24, 1972, school officials suspended them with no end date, under a rule that a boy's hair could not reach his shirt collar or his ears. Federal appeals judges upheld the rule. On December 10, 1973, the justices of the Supreme Court refused to hear the case, *New Rider v. Board of Education*. Justice William O. Douglas disagreed. He wrote that the boys "were in fact attempting to broadcast a clear and specific message to their fellow students and others, their pride in being Indian."
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Black teachers lose their jobs, and the bus" -->
+When Southern districts joined Black and white schools, school boards pushed thousands of Black teachers out of their jobs. The economist Owen Thompson counted teachers in 781 school districts in the eleven states that had formed the Confederacy. In 1964, 30.6 percent of their teachers were Black. By 1972 the share was 24.2 percent. The number of Black teachers fell by almost a third in eight years.
+
+As districts joined schools together, the school board members let Black teachers go far more often than white ones, and they hired white teachers, many with less experience. The districts with the fewest Black pupils cut their Black teachers the hardest. Thompson estimates that about half of the teachers who lost their jobs went into work that needed less training, and the rest left the South to teach somewhere else.
+
+Then came the buses. On April 20, 1971, in *Swann v. Charlotte-Mecklenburg Board of Education*, the justices ruled unanimously that a federal judge could order children carried by bus to end separate schools. The Charlotte-Mecklenburg district in North Carolina had more than 84,000 pupils in 107 schools, and about 24,000 of them were Black. It already bused children. The year before, it carried 26,600 pupils an average of 15 miles each way, a trip of more than an hour. Under the plan, elementary pupils would ride about seven miles, "not over 35 minutes at the most." The justices wrote that an objection to busing counted only when the trip was long enough to risk the children's health or to harm their schooling.
+
+In Boston, fourteen families sued the city's School Committee in 1972. On June 21, 1974, Judge W. Arthur Garrity ruled that "the entire school system of Boston was unconstitutionally segregated." Under his order, buses began carrying Black students from Roxbury to South Boston High School on September 9, 1974. Of the 800 Black students assigned there, 56 came on the first day. Protesters threw rocks and bottles at the buses.
+
+Phyllis Ellison was one of the Black students bused to South Boston High, and she later described that year. People shouted racial insults at the bus and held up bananas at the students inside. In the school, she said, there were "anywhere between ten and fifteen fights" on an ordinary day. Black and white students sat on opposite sides of the classrooms, the lunchroom and the washrooms.
+
+On December 11, 1974, a white student, Michael Faith, was stabbed during a shoving match outside a classroom. Police arrested a Black student from Roxbury, James White. A crowd gathered at the school gates shouting racial abuse, and it threw bricks and bottles and turned over a police car. Boston police and 125 state troopers pushed the crowd back. The Black students were locked in their classrooms while the white students were let out, Ellison said. The records do not say who gave that order. Then four empty buses were sent to the front door as decoys, while the Black students were put on buses at the back and driven home. South Boston High and seven other Boston schools were closed for a time. Phyllis Ellison graduated in 1977.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The boarding schools: largest in the 1970s" -->
+Enrollment in the boarding schools for Native children reached its highest point about forty-five years after the Meriam Report, and children still died trying to get home from them. By one museum's count, enrollment peaked at about 60,000 children in 1973. The government's own counts were lower. In 1969 the Bureau of Indian Affairs ran 77 boarding schools holding about 35,000 children, and nearly 9,000 of them were under nine years old. On the Navajo Reservation, 7,476 children aged nine and younger lived at 48 boarding schools because no day school was near their homes. The largest, at Tuba City, Arizona, housed 1,200 elementary pupils.
+
+In January 1968 three brothers ran away from the Crownpoint Boarding School in New Mexico, just after the Christmas holiday. They were trying to walk about 50 miles home to Chaco Canyon, and they wore jeans, shorts and light jackets. That night the temperature fell to about 10 degrees below zero. On January 13, searchers found Ronald Yazzie, who was 9, and Willie B. Yazzie, who was 13, frozen to death about 30 miles from the school. Their brother Ray, 12, lived, with frostbite. Frostbite is damage to skin and flesh from freezing. A Navajo police officer, Stewart Silentman, said, "They were lonesome for home and just took off."
+
+In November 1969 a subcommittee of the Senate published a report, *Indian Education: A National Tragedy, A National Challenge*. It called the policy behind the schools "coercive assimilation," which means forcing people to give up their own ways and take on another people's ways. It printed a letter from a teacher at Tuba City. At that school, parents could take a child home for a weekend only if staff judged the child's behavior good, and a child who had run away could be kept from going home for up to a month. The report also includes the account of an anthropologist, a scientist who studies how groups of people live, of a Navajo boarding school where "Children are beaten" and where "teachers advocate the free labor of Navajo girls in their homes." The report does not name that school or the anthropologist. The Senate report asked that Native nations run their own schools.
+
+The Navajo Nation opened Navajo Community College in 1968. The college states that it was the first community college in the country run by a tribe. It is now Diné College. In January 1975 Congress passed the Indian Self-Determination and Education Assistance Act, which let Native nations sign contracts to run schools themselves. Many federal boarding schools closed in the 1980s.
+
+Officials took Native children from their families in other ways too. Surveys in 1969 and 1974 found that 25 to 35 of every 100 Native children had been separated from their families and put in foster homes, adoptive homes or institutions. State welfare workers, courts and private agencies removed most of them, and most of the children were placed with non-Native families. The Bureau of Indian Affairs census of 1971 counted 34,538 children living in its boarding schools and dormitories instead of at home. On November 8, 1978, the Indian Child Welfare Act became law. Its purpose was to keep Native children with Native families.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Punished for speaking Spanish" -->
+In much of the Southwest, school staff punished Mexican American children for speaking Spanish, and in 1972 a federal commission printed how. The U.S. Commission on Civil Rights published *The Excluded Student* in May 1972. It covered schools in Arizona, California, Colorado, New Mexico and Texas with many Mexican American pupils. Of about 5,800 schools, about a third had rules that discouraged children from speaking Spanish in class, and about 15 in every 100 discouraged it on the playground too.
+
+Texas schools had the rule most often. Two-thirds of the Texas schools surveyed discouraged Spanish in class, at least twice the rate of most other states. In California fewer than a fifth did. Schools in poor neighborhoods used the rule most. In 5 of every 10 schools serving poor barrios, or Mexican American neighborhoods, there was a "No Spanish" rule in class. In schools serving rich families, about 15 in every 100 had one.
+
+The commission's staff asked schools how they enforced the rule. In 48 of every 100, staff were asked to correct children who spoke Spanish, and in 12 of every 100 they were required to. In 7 of every 100, schools encouraged other children to correct them. In 3 of every 100, schools said they punished children who kept speaking Spanish. No principal admitted hitting a child for it, but witnesses at the commission's hearing in San Antonio in December 1968 said children were hit. At that hearing a principal from El Paso testified that children caught speaking Spanish were sent to a Spanish detention class for an hour after school. The report includes a copy of the slip used to send a child there.
+
+In October 1964 a Texas teacher, Alonzo Perales, had a class of Mexican American seventh graders write about their elementary schools, and he sent the essays to the commission. The report does not name the children. One wrote: "If we speak Spanish we had to pay 5 cents to the teacher or we had to stay after school." Another wrote: "In the first through the fourth grade, if the teacher caught us talking Spanish we would have to stand on the 'black square' for an hour or so." A third had to "write three pages saying, 'I must not speak Spanish in school'." A fourth wrote: "In the sixth grade, they kept a record of which if we spoke Spanish they would take it down and charge us a penny for every Spanish word. If we spoke more than one thousand words our parents would have to come to school and talk with the principal."
+
+Texas law had required teaching in English only since 1918. In October 1970 a Mexican American teacher in Crystal City, Texas, was charged with a crime for teaching a high school history class in Spanish. The charge was later dropped. On June 3, 1973, Governor Dolph Briscoe signed a law that ended the English-only rule, 55 years after it began.
+
+Some districts kept Mexican American children apart and called it language teaching. In Driscoll, Texas, the district made Mexican American children spend four years getting through the first two grades. Linda Pérez, who spoke only English, was put in the "Mexican" first grade to learn English. In 1957 a federal court called the system "arbitrary and unreasonable" and ordered it stopped.
+
+The Blackwell School in Marfa, Texas, taught Mexican American children from September 1909 until 1965. It started in the old school building that the district had left them in 1892, when it built a new school for white children. The National Park Service states that schools like it ran in more than 120 Texas school districts in 59 counties, with a "no Spanish in the classroom" rule. Blackwell closed in 1965, when Marfa opened one elementary school for all children. In October 2022 it became a national historic site.
+
+From March 1 to 8, 1968, about 15,000 students walked out of seven schools in East Los Angeles. Mexican American students there faced a dropout rate of 60 percent in high school, bans on speaking Spanish, and being pushed into trade classes instead of classes that prepared them for college. They asked for bilingual teaching and for Mexican American principals. The Board of Education turned them down and said it had no money. On March 31, 1968, officials arrested thirteen of the organizers on felony conspiracy charges, which means they were accused of planning a serious crime together. One of those arrested, the teacher Sal Castro, was fired. After months of sit-ins at the Board of Education, he got his job back.
+
+On January 2, 1968, President Johnson signed the Bilingual Education Act, which became Title VII of the 1965 school law. In 1974 the justices of the Supreme Court ruled on children placed in classes they could not understand. In San Francisco about 2,856 pupils of Chinese descent did not speak English. About 1,000 were getting extra lessons in English, which left about 1,800 with none. One of the children was Kinney Kinmon Lau. On January 21, 1974, in *Lau v. Nichols*, Justice William O. Douglas wrote that leaving those children without help "denies them a meaningful opportunity to participate in the public educational program." The ruling does not require schools to teach in Chinese. It states that a school may not put a child in a class taught only in a language the child did not understand and call that an equal education.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Hawaiian comes back into the schools" -->
+In 1896 a Hawaii law required schools to teach in English, and in practice children were stopped from speaking Hawaiian at school. In January 1983 a group of Hawaiian-language teachers met to plan how to keep the language alive. In August 1984 they opened the first Pūnana Leo preschool, at Kekaha on the island of Kauaʻi. *Pūnana leo* means "nest of voices." In 1986 they worked with the state's lawmakers to end the 90-year ban on teaching in Hawaiian. In 1987 immersion classes, where children are taught in Hawaiian, opened at Keaukaha Elementary in Hilo and Waiau Elementary in Pearl City. The group's own history describes them as the first elementary classes in the United States taught through a Native language.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="New kinds of school" -->
+Several new kinds of school began in these years, and most of them grew out of the fight over desegregation. The magnet school was the first. At a magnet school, officials offer special teaching to draw families from across a district. McCarver Elementary in Tacoma, Washington, opened as one in the fall of 1968. Before that, 91 of every 100 of its pupils were Black. Nobody was assigned to go there. School officials used a $200,000 federal grant, moved in the district's best teachers, and let children work through their lessons at their own speed. Counselors visited families at home to ask them to choose the school. On the first day, about 200 white children enrolled where there had been about 50. By 1970 fewer than half of McCarver's pupils were Black, and there was a waiting list. The second magnet school opened in Boston in 1969. By 1981 there were about 1,000 in the country, and by 1991 more than 2,400.
+
+White families in the South also started private schools, which historians call segregation academies. A segregation academy was a private school started so that white children would not have to sit in class with Black children. Mississippi had only three private schools not run by a church before 1954. In 1964 the state's lawmakers voted grants of $185 for each child to attend such a school. In the school year 1964 to 1965, more than 500 children received more than $80,000. One new school was Citizens' Council School No. 1 in Jackson. The Citizens' Council was a group founded in Indianola, Mississippi, in 1954 to keep schools segregated.
+
+In 1969 the justices of the Supreme Court ruled that Mississippi's school districts had to desegregate by 1970. Between 1966 and 1970 the number of private schools in the state rose from 121 to 236, and the number of pupils in them tripled. In 1970 almost every white student in Canton left the public schools for a private academy, and more than 40 of every 100 white students in Jackson left. The historian Michael Fuquay found that the academies got books, supplies, sports equipment, buildings and money from the public schools. In Tunica and Clay counties, private school teachers stayed on the public school payroll. In Forrest County, private school pupils rode public school buses. William J. Simmons led the Mississippi Private School Association. He took the minutes of its board meeting on January 23, 1971. They record the board's decision that its schools would stay members "until such a time as they accept a Negro student or faculty member."
+
+Catholic schools shrank in the same years. Their enrollment was highest in the school year 1964 to 1965, when 5,601,000 children attended 13,249 Catholic schools. By 1990 to 1991 there were 2,475,439 pupils. In 26 years the number of pupils fell by more than half. The number of schools fell from its high point of 13,292, in 1965 to 1966, to 8,587.
+
+The charter school came last. A charter school is a public school run by its own board under an agreement, called a charter, instead of by the school district. In 1991 Minnesota's lawmakers passed the country's first charter school law, and Governor Arne Carlson signed it. It had failed in the state House three years in a row. To pass, it was cut back so that only school districts could grant a charter and only eight charter schools were allowed in the state. It passed the House by one vote. The first charter went to Bluffview Montessori in Winona in December 1991. The first charter school to open was City Academy in St. Paul, in the fall of 1992. Milo Cutter founded it. In 1993 the lawmakers raised the limit from eight schools to twenty.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Disabled children get a right to school" -->
+Until 1975 an American public school could refuse to take a disabled child. The federal Department of Education states that in 1970 American schools taught only one disabled child in five, and that more than 1 million children with disabilities were shut out of school altogether.
+
+In 1971 lawyers sued the school board of Washington, D.C., for seven children who had been kept out of school. George Liddell was eight. Maury Elementary School had turned down his application because he needed a special class, and he had never been to school at all. Janice King was thirteen, with weakness down one side of her body. She had been refused a place since she was old enough for school, because there was no program for her, and she had never been to school either. Jerome James was twelve and, in the court's words, "totally excluded from public school." Duane Blacksheare had been put out of Giddings Elementary School in October 1967, in the third grade, as a "behavior problem," and he was out of school for about four years. Steven Gaston had been out of Taylor Elementary since September 1969. Michael Williams, 16, had epilepsy, which means he had seizures, sudden bursts of activity in the brain that can make a person shake or pass out. He had been out of the Sharpe Health School since October 1969. The seventh child was Peter Mills.
+
+The counts in the case did not agree, and the court's opinion lists all of them. The families said about 22,000 children in the city had disabilities and perhaps 18,000 of them were getting no special teaching. The school board said it was teaching at least 3,880. The city's own report for 1971 admitted that an estimated 12,340 disabled children would not be served in the coming school year.
+
+On November 29, 1975, President Gerald Ford signed the Education for All Handicapped Children Act. It gave every disabled child in every state the right to a free public education suited to that child.
+
+The number of children in special education had begun to rise before the law. It went from 356,000 in 1947 to 1948, 1.5 of every 100 pupils, to 2,677,000 in 1969 to 1970, 5.9 of every 100. After the law, it reached 3,692,000 in 1976 to 1977 and 4,641,000 in 1989 to 1990, more than 1 child in 9. Most of the rise came before the law, and the law then made schooling a right for these children.
+
+The groups children were sorted into changed too. The federal count had no group for children with learning disabilities until 1976 to 1977, when it counted 796,000 of them. By 1989 to 1990 it counted 2,050,000, nearly half of all children in special education. Over the same years, the number the government counted as "mentally retarded," its word then for children it judged to learn much more slowly than others, fell from 830,000 in 1969 to 1970 to 548,000 in 1989 to 1990.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="peter-mills-education" name="Peter Mills" movie="" kind="ordinary" status="verified" -->
+### Peter Mills
+
+> **Who:** A twelve-year-old put out of his Washington school and kept out, whose name is on the 1972 case that gave disabled children a right to public school.
+> **When and where:** Washington, D.C., 1971 and 1972.
+
+Peter Mills was put out of Brent Elementary School in Washington, D.C., on March 23, 1971, and no public school took him in after that. He was in the fourth grade. School staff called him a "behavior problem," in words the court record keeps.
+
+He was twelve. He was a ward of the District of Columbia, which means the city government was legally responsible for him. Nobody offered him another school. In the court's words, he was "excluded from any publicly-supported education," and he stayed that way.
+
+On September 24, 1971, lawyers filed a case for him and six other children who had been shut out of Washington's schools. It was called *Mills v. Board of Education of the District of Columbia*. Part of the school board's answer was that it did not have the money to teach them.
+
+Judge Joseph C. Waddy decided the case on August 1, 1972. He ruled that the District had to give a publicly supported education to every child of school age, whatever the child's disability. Lack of money was no excuse. He wrote that if there was not enough money for everything, it had to be spent "in such a manner that no child is entirely excluded from a publicly supported education." Before a school could put a child out or move the child, it had to give notice and a hearing.
+
+In 1975 a federal law applied the same rule to every state. The federal Department of Education names two court cases as the ones that established that states had to teach disabled children, and *Mills* is one of them. The court record does not say what happened to Peter Mills afterward.
+<!-- hb-story:end slug="peter-mills-education" -->
+
+<!-- hb-zoom level="span" label="The paddle, in court and in the states" -->
+A public school could paddle a child without any hearing first, the justices of the Supreme Court ruled in 1977. After that ruling, state lawmakers banned school paddling one state at a time. Until 1971, hitting schoolchildren was lawful in every state except New Jersey. In American schools the usual method was a paddle, a wooden board that an adult swung against the child's buttocks.
+
+In October 1970 James Ingraham was an eighth grader at Charles R. Drew Junior High School in Dade County, Florida. The Supreme Court's opinion states: "Because he was slow to respond to his teacher's instructions, Ingraham was subjected to more than 20 licks with a paddle while being held over a table in the principal's office." The beating left a hematoma, a pool of blood under the skin from a blow. He needed a doctor, and he missed several days of school. Roosevelt Andrews, a ninth grader at the same school, was paddled several times for small things. He was also hit on the arms, and one blow left him unable to use his arm fully for a week.
+
+The rules allowed paddling but set limits on it. Florida law allowed punishment that was not "degrading or unduly severe." Dade County's own rule described the paddle as "less than two feet long, three to four inches wide, and about one-half inch thick." It set the usual punishment at "one to five 'licks' or blows with the paddle." James Ingraham was hit more than twenty times.
+
+The families sued. On April 19, 1977, in *Ingraham v. Wright*, the justices ruled against the children, five votes to four. Justice Lewis Powell wrote that "the Eighth Amendment does not apply to the paddling of children as a means of maintaining discipline in public schools." The Eighth Amendment forbids cruel and unusual punishment. Powell also wrote that the Constitution did not require "notice and a hearing prior to the imposition of corporal punishment." Justice Byron White wrote for the four who disagreed. The record, he wrote, showed "beatings so severe that if they were inflicted on a hardened criminal for the commission of a serious crime, they might not pass constitutional muster."
+
+State lawmakers ended school paddling instead, one state at a time. Massachusetts was the first state after New Jersey, in 1971. Hawaii followed in 1973, Maine in 1975, and Rhode Island and the District of Columbia in 1977. New Hampshire banned it in 1983, New York and Vermont in 1985 and California in 1986. Eight states banned it in 1989 and four in 1993. By 1994, 27 states and the District of Columbia had banned it. Then no state banned it again until 2003. When the century ended, school staff could still lawfully hit children in 23 states.
+
+In 1978, 4 of every 100 American schoolchildren were hit at school. The districts' own reports to the federal government counted about 1.5 million children paddled in 1976, 613,514 in 1990 and 342,038 in 2000. The districts counted themselves, and nobody checked their numbers. Some researchers have found that the real numbers may be twice as high.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Teaching at home" -->
+In the 1970s and 1980s some parents began to teach their children at home, and in several states officials took them to court. Many state attendance laws said that a child had to be taught in a school, or by a teacher with a state certificate. The historian Milton Gaither, who wrote a history of American homeschooling, says the old laws in many states made it "either illegal or dubious." Six states required parents to hold a teaching license.
+
+Two men who knew each other started the movement for different reasons. John Holt was a writer on school reform. He argued that ordinary schooling trained children to obey, and he told parents to take their children out of school. In August 1977 he started a newsletter, *Growing Without Schooling*, and he made up the word "unschooling." He died in 1985. Raymond Moore was a researcher on education and a Seventh-day Adventist, a member of a Christian church. He and his wife, Dorothy Moore, argued that school before about age eight or nine harmed children and that they should be taught at home until then. Their book *Better Late Than Early* came out in 1975, and *Home Grown Kids* in 1981.
+
+In Harrison County, West Virginia, Bobby and Esther Riddle taught their children, Tim and Jill, at home. They were convicted of breaking the state's school attendance law and fined ten dollars each. On December 11, 1981, the West Virginia Supreme Court upheld the convictions, although its ruling said, "By all accounts in the record below, the Riddles did an excellent job." Larry Delconte moved to North Carolina in March 1981 with his wife, Michelle, and their four children and taught them at home. A state appeals court ruled that the attendance law forbade it. On May 7, 1985, the North Carolina Supreme Court reversed that ruling.
+
+State after state changed its rules through the 1980s. Some states wrote detailed homeschooling laws, some added a sentence to an old law, and in some a court made the change. By 1989 most states had settled with homeschooling families, and a few held out into the early 1990s.
+<!-- /hb-zoom -->
+
+<!-- hb-story:start slug="dejonge-family-homeschool" name="Mark and Chris DeJonge" movie="" kind="ordinary" status="verified" -->
+### Mark and Chris DeJonge
+
+> **Who:** Parents in rural Michigan who were convicted of a crime for teaching their own children at home, and who appealed for about ten years.
+> **When and where:** Western Michigan, 1984 to 1993.
+
+Mark and Chris DeJonge were convicted in 1985 for teaching their own children at home, and the Michigan Supreme Court overturned the conviction in 1993. They began teaching their children in August 1984, in rural western Michigan. They used a course from the Church of Christian Liberty and Academy of Arlington Heights, Illinois. Neither parent held a Michigan teaching certificate.
+
+Chris DeJonge was in her second week of teaching when officials from the state Department of Social Services came to the house and told the family that the children were truants, children missing school without permission. Michigan law said a child between 6 and 16 had to be taught in a public school, or in an approved private school by a certified teacher.
+
+They were charged and convicted in the Ottawa County District Court in 1985. The trial judge had a "very, very favorable report on the education of the children." He convicted them anyway, because the law was about who did the teaching and not about how well it was done. The sentence was two years of probation each, which means living under a court's supervision, a fine of $200 each, an order to have the children tested, and an order to arrange for a certified teacher. The sentence was put on hold while they appealed.
+
+Their reason was religious. They wanted what they called a "Christ centered education," because, as the court's opinion records, "the major purpose of education is to show a student how to face God, not just show him how to face the world."
+
+The Michigan Court of Appeals ruled against them on August 8, 1989. The Michigan Supreme Court sent the case back on October 17, 1990, and the Court of Appeals ruled against them again in 1991. On May 25, 1993, the Michigan Supreme Court ruled for them, four votes to three. Justice Riley wrote that the state had a strong interest in children being educated, but that Michigan had not shown that a certified teacher was necessary for it. The court held that the rule could not be applied to a family with a sincere religious objection to it.
+
+The case took them to court nine times over about ten years. In 2008 Mark DeJonge said, "We're glad we went through it. We grew as a family and we grew as a couple."
+<!-- hb-story:end slug="dejonge-family-homeschool" -->
+
+<!-- hb-zoom level="span" label="A Nation at Risk, 1983" -->
+In April 1983 a federal commission published a report that said American schools were failing, and it began the argument about testing and school standards that followed. On August 26, 1981, Secretary of Education T. H. Bell had set up the National Commission on Excellence in Education, led by David P. Gardner. After 18 months it published *A Nation at Risk*.
+
+Its best-known sentences compared weak schooling to an attack by an enemy country: "If an unfriendly foreign power had attempted to impose on America the mediocre educational performance that exists today, we might well have viewed it as an act of war. As it stands, we have allowed this to happen to ourselves." It also stated that the foundations of American schooling were "being eroded by a rising tide of mediocrity." Mediocrity means work that is only average or poor.
+
+The report lists the commission's reasons. On 19 tests given in many countries, American students were never first or second, and compared with other industrial countries they were last seven times. It stated that some 23 million American adults could not read, write and understand well enough for everyday life. It stated that about 13 of every 100 seventeen-year-olds could not either, and as many as 40 of every 100 among minority youth. Average SAT scores had fallen almost every year from 1963 to 1980, by more than 50 points in reading and nearly 40 in math. Of seventeen-year-olds, nearly 40 of every 100 could not draw conclusions from something they read, and only about one in three could solve a math problem that needed several steps.
+
+These are the commission's own figures, and people argued about several of them after the report came out.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Teachers strike, and their pay" -->
+Teachers in this era began to form unions that bargained for them and to go on strike. A union is a group of workers who join together to bargain with an employer over pay and working conditions. On November 7, 1960, Election Day, the new United Federation of Teachers held the first teachers' strike in New York City's history. It lasted one day. The union said it had about a quarter of the city's 39,000 teachers. In June 1961 New York teachers voted to bargain as a group, and in December they chose the union to bargain for them. It was the first big-city teachers' union in the country to win that right.
+
+On February 19, 1968, more than 27,000 Florida teachers and school officials handed in letters resigning their jobs and walked out. It was the first strike by teachers across a whole state in the United States. They had asked for better pay and more money for schools, and Governor Claude Kirk had refused. The strike ended on March 8, when the state board of education agreed to more money for schools. Afterward, officials refused to rehire thousands of the teachers because they had gone on strike.
+
+Measured in dollars of the same value, the average public school teacher earned about $58,700 a year in 1969 to 1970, about $52,900 in 1979 to 1980, and about $63,500 in 1989 to 1990. In 1999 to 2000 the figure was still about $63,500, so real teacher pay did not grow in the 1990s. The economist Sylvia Allegretto compares teachers' weekly pay with that of other college graduates of the same age and schooling. By her count, teachers earned about 7 percent less in 1979, about 5 percent less in 1993 and about 6 percent less in 1996. After 1996 the gap grew.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The last one-room schools" -->
+The one-room school nearly disappeared in these years. The federal count of one-teacher public schools was 59,652 in 1949 to 1950, 20,213 in 1959 to 1960 and 1,815 in 1970 to 1971. By 1990 to 1991 there were 617. School districts kept joining together. There were 83,718 districts in 1949 to 1950, 40,520 in 1959 to 1960 and 17,995 in 1970 to 1971.
+<!-- /hb-zoom -->
+<!-- hb-time:end id="1950-2000" -->
