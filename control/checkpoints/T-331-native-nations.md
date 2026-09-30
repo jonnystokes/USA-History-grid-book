@@ -7,7 +7,8 @@ RUN:    T-331s sonnet checker -> control/audit/native-nations/part1-findings-son
         T-331f opus fixer (FIXER.md) judges both files, applies, adds "found by fixer" rows
 RECORD: control/audit/CHECKER-CALIBRATION.md, run 1
 
-NOW:    T-331s
-NEXT:   T-331o
+NOW:    T-331o
+NEXT:   T-331f
 
 ## Log
+- T-331s sonnet: 101 findings (23 B / 23 M / 55 m), 248k tokens, 27 tools, 10.2 min.
