@@ -3796,7 +3796,9 @@ RESULT: DONE. PASS  immigration / prose. measured: stage=WRITTEN ms_eras=10/10 w
 AGENT: ad705b880a2fe9915
 
 ### 2026-09-30 | [LOCAL] T-343 | immigration: CHECKER sonnet, part2 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-immigration.md
 VERIFY: python tools/project_state.py --check immigration --stage prose
+RESULT: DONE. PASS  immigration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16174w files=3 validator_errors=0
+        208121 tokens, 16 tool uses, 6.9 min (sonnet). CHECKER sonnet part2: 57 findings (6 B, 6 M, 45 m)
 AGENT: a984f35b84e3aabb1

@@ -287,3 +287,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-340	prose	general-purpose/sonnet	[LOCAL] land-environment: CHECKER sonnet part2: 53 findings (2 B, 7 M, 44 m)	?	?	?	174686	13	310094	?	completed	PASS  land-environment / prose
 2026-09-30	T-341	prose	general-purpose/sonnet	[LOCAL] land-environment: CHECKER sonnet part3: 62 findings (1 B, 4 M, 57 m)	?	?	?	226038	21	506790	?	completed	PASS  land-environment / prose
 2026-09-30	T-342	prose	general-purpose/sonnet	[LOCAL] immigration: CHECKER sonnet part1: 72 findings (0 B, 8 M, 64 m)	?	?	?	172593	20	302374	?	completed	PASS  immigration / prose
+2026-09-30	T-343	prose	general-purpose/sonnet	[LOCAL] immigration: CHECKER sonnet part2: 57 findings (6 B, 6 M, 45 m)	?	?	?	208121	16	411688	?	completed	PASS  immigration / prose
