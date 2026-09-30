@@ -3640,3 +3640,4 @@ AGENT: a5d65fcb4c92db9fc (salvage: python tools/salvage_agent.py a5d65fcb4c92db9
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-330-art.md
 VERIFY: python tools/project_state.py --check art --stage prose
+AGENT: a81fd8566e11ad04e (salvage: python tools/salvage_agent.py a81fd8566e11ad04e --tail)
