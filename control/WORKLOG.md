@@ -3655,3 +3655,4 @@ rights-movements 3). Wiley block written from life and work only, awaiting Jon. 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-331-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+AGENT: ad683f0af67fe7f0d (salvage: python tools/salvage_agent.py ad683f0af67fe7f0d --tail)
