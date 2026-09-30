@@ -254,3 +254,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-319	prose	general-purpose/opus	[LOCAL] crime-justice: SINGLE WRITER: all 10 eras, PASS prose (23,057w, 13 stories). 7 PATCH, 19 outlin	?	?	?	478832	133	1454514	?	completed	PASS  crime-justice / prose
 2026-09-30	T-320a	prose	general-purpose/opus	[LOCAL] disasters: WRITER A: eras 1-7 landed (11,619w, 6 stories), 7/10 as expected. 4 PATCH, 7 out	?	?	?	286235	67	704193	?	completed	FAIL  disasters / prose
 2026-09-30	T-320b	prose	general-purpose/opus	[LOCAL] disasters: WRITER B: eras 8-10 + final, chapter PASS prose (22,570w, 12 stories). 6 PATCH, 	?	?	?	303966	90	773199	?	completed	PASS  disasters / prose
+2026-09-30	T-321	prose	general-purpose/opus	[LOCAL] war: SINGLE WRITER (experiment, ~54k slice): all 10 eras, PASS prose (22,339w, 19 sto	?	?	?	448096	121	1117670	?	completed	PASS  war / prose

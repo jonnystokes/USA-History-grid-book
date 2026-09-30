@@ -671,6 +671,15 @@ Service American Battlefield Protection Program project run by the Pequot museum
   **Shared with `native-nations`** (their angle: the Nipmuc and the praying towns). War's angle:
   the colony locked up its own Native allies as a war measure, and most of them died.
 
+### PATCH 2026-09-30 (T-321): the 1636 Massachusetts militia order, re-verified
+DVIDS (Defense Visual Information Distribution Service, a Defense Department news site), "National
+Guard Marks its 375th Birthday," https://www.dvidshub.net/news/511831/national-guard-marks-its-375th-birthday
+(opened 2026-09-30): "on Dec. 13, 1636 ... the Massachusetts General Court in Salem established that
+all able-bodied men between the ages of 16 and 60 were required to join the militia." "The North,
+South, and East Regiments were established with this order." The decree excluded ministers and
+judges. Confirms bank 3.1 (which could not open the National Guard page, HTTP 403 again on
+2026-09-30).
+
 ---
 
 ## 4. 1700 TO 1750
@@ -1288,6 +1297,25 @@ so this entry is provisional. David Sproat, often named as commissary of naval p
 confirmed on any opened page.
 How the prose can say it: "British naval officers under Admiral Richard Howe ran the ships.
 Washington wrote to Howe in January 1777 to protest. Prisoners kept dying on the ships until the war ended in 1783."
+
+### PATCH 2026-09-30 (T-321): Gnadenhutten, second source for the counts and the method
+Eric Sterner, "Moravians in the Middle: The Gnadenhutten Massacre," *Journal of the American
+Revolution*, February 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/
+(opened 2026-09-30):
+- "Some 160 men gathered in western Pennsylvania" and "they elected David Williamson to command as
+  their colonel." (Matches the T-259a PATCH: about 160 men under Williamson.)
+- The vote: Williamson had the militia form a line and told those "inclined to mercy" to step
+  forward. "Of more than one hundred militiamen, only sixteen or eighteen stepped forward."
+- The method: "the militia began braining the bound Moravians with a mallet in the houses in which
+  they had been imprisoned, taking turns as each militiaman wearied. Then, they scalped their
+  victims." (Braining means striking on the head hard enough to kill.)
+- The count: "the frontier militia killed ninety-six unarmed people. Sixty-two were adults; the
+  remaining thirty-four were children." **Split DISPUTE:** Wikipedia gives 28 men, 29 women and 39
+  children. Both total 96. Write 96, and say the counts of adults and children differ (62 and 34,
+  or 57 and 39).
+- Survivors: a young man named Thomas survived his scalping, and a boy held with the women hid in a
+  cellar and escaped through a window as the house burned. No prosecution is mentioned.
+- Also in the bank's Parked section (from `religion`, T-260), same source.
 
 ## 6. 1800 TO 1850
 
@@ -2854,6 +2882,17 @@ and searched 2026-09-27). It reprints Lieutenant General William Peers's report 
   leave it out.
 - The date the VA first accepted claims (the Agent Orange Act of 1991) is search-summary only
   **(unconfirmed)**.
+
+### PATCH 2026-09-30 (T-321): Carter's draft pardon, Proclamation 4483, confirmed
+The American Presidency Project (UC Santa Barbara), "Proclamation 4483, Granting Pardon for
+Violations of the Selective Service Act, August 4, 1964 to March 28, 1973,"
+https://www.presidency.ucsb.edu/documents/proclamation-4483-granting-pardon-for-violations-the-selective-service-act-august-4-1964
+(opened 2026-09-30). Dated **January 21, 1977**, signed by President Jimmy Carter. It pardons "all
+persons who may have committed any offense between August 4, 1964 and March 28, 1973 in violation
+of the Military Selective Service Act," and people already convicted of such offenses. It excludes
+offenses "involving force or violence" and offenses by employees of the Selective Service System.
+**It does not mention deserters.** It covers only draft-law offenses, so men who deserted from the
+armed forces were not covered by it. Confirms the T-259b PATCH (which was search-summary only).
 
 ## 10. 2000 TO TODAY (current to September 26, 2026; every figure carries its year)
 

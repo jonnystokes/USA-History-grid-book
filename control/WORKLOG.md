@@ -3519,7 +3519,9 @@ writer, the largest single-writer slice yet. If it lands cleanly, news-communica
 too; the checkpoint log per era makes an interrupted single writer resumable.
 
 ### 2026-09-30 | [LOCAL] T-321 | war: ONE writer, all 10 eras (experiment) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-321-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+RESULT: DONE. PASS  war / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22339w files=3 validator_errors=0
+        448096 tokens, 121 tool uses, 18.6 min (opus). SINGLE WRITER (experiment, ~54k slice): all 10 eras, PASS prose (22,339w, 19 stories). 3 PATCH, 9 outline claims left out, nothing OPEN. Fixed: Tiguex 'first', 1675 hangings, Yamasee count, My Lai rape added, fourth-wall lines removed.
 AGENT: a8fb4870a9f8d9c7b (salvage: python tools/salvage_agent.py a8fb4870a9f8d9c7b --tail)
