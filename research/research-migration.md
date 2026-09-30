@@ -271,6 +271,29 @@ How the prose can say it: state the 1866 Creek and Seminole cessions and that th
 - Registry and `workspace/rights-movements.md` give `rights-movements` the lead (injustice and redress). This chapter's angle, the forced move itself, is recorded here for a short cross-reference.
 - On **February 19, 1942**, President **Franklin D. Roosevelt** signed **Executive Order 9066**, which let military commanders exclude "any or all persons" from military areas. In **March and April 1942**, General **John L. DeWitt** issued exclusion orders aimed at "all persons of Japanese ancestry" in the Western Defense Command. About **120,000** people, both citizens and permanent residents, were removed, first to local "assembly centers" (often fairgrounds and racetracks, where some families lived in horse stalls), then to **10** major War Relocation Authority camps and dozens of smaller sites (National Archives, "Japanese-American Incarceration During World War II"; National Archives, "Pre-war Surveillance and Planning").
 
+### PATCH 2026-09-29 (T-307b): who attacked in Chicago, 1919 (copied from research-rights-movements.md, PATCH T-262c, sources fetched there)
+- White attackers included "youth gangs and so-called 'athletic clubs'" (Chicago Race Riot of 1919 Commemoration Project, "The Riot"). "Two-thirds of those injured were Black, and yet African Americans also made up two-thirds of the 138 persons indicted" (same). Injured: 537 (Commemoration Project), 520 in another count (search summary only). Whether Stauber was ever charged is not in either page.
+
+### PATCH 2026-09-29 (T-307b): who carried out the 1942 removal, and how
+- DeWitt's General Order No. 35, **March 11, 1942**, set up the **Wartime Civil Control Administration (WCCA)**, an Army agency of the Western Defense Command. **Karl Bendetsen**, an Army officer, commanded it and was made a colonel the next day, at 34 (Densho Encyclopedia, "Wartime Civil Control Administration," fetched 2026-09-29).
+- The WCCA split the coast into **108** areas of about 1,000 Japanese Americans each and issued a "Civilian Exclusion Order" for each. Each order required the people in that area to report on a set day, about a week later, "bringing only those possessions that they could carry." The WCCA arranged buses to the camps (Densho, WCCA). The first order, **March 24, 1942**, gave the **55** Japanese American families on **Bainbridge Island**, near Seattle, **six days** to leave their homes. The 108 orders forced out **110,442** people. **92,193** were held in "assembly centers" and **18,026** sent straight to Manzanar and Colorado River (Densho Encyclopedia, "Assembly centers," fetched 2026-09-29).
+- Army engineers began building **15** temporary "assembly centers" on **March 20, 1942**, 12 of them in California. At Tanforan, half the people were housed in horse stables, three to six people in a stall built for one horse. Soldiers searched baggage on arrival. People were held there about **three months** on average before being moved to the permanent camps (Densho, "Assembly centers").
+
+### PATCH 2026-09-29 (T-307b): what drove Ida Mae Brandon Gladney out, and her trip north
+- NPR, "The Great Migration: Journey That Reshaped America," Oct. 2, 2010 (fetched with curl 2026-09-29): "Ida Mae Gladney left Mississippi for Chicago in 1937." "the main reason the Gladneys left was because a cousin was beaten nearly to death over a theft that he had not committed." Wilkerson: "Her husband went home to her and said, 'This is the last crop that we're making,' and they left for the north." In Chicago her husband George hauled ice "up four and five flights of stairs," and Ida Mae did domestic work "before she finally found work as a hospital aide."
+- Dedra Birzer, "The Great Migration North: Fleeing for Life," *The American Conservative*, July 14, 2020 (fetched 2026-09-29), a review of Wilkerson: the cousin, **Joe Lee**, "barely survived being beaten with heavy chains by a group of white men" who wrongly thought he had stolen turkeys. The turkeys turned up the next day, and Joe Lee "did not receive even a semblance of an apology." The family "landed in Milwaukee in 1937," later moving to Chicago. The men who beat him are not named in any source opened.
+- NPR book excerpt, Sept. 15, 2010 (fetched with curl 2026-09-29): chapter heading "Chickasaw County, Mississippi, Late October 1937." Her husband was "settling with Mr. Edd over the worth of a year's labor." None of the family "had been on a train before" or "out of Mississippi." A brother-in-law's truck took Ida Mae and the children, James and Velma, to meet her husband "at the train depot in Okolona for the night ride." Ida Mae's sister Irene lived in Milwaukee (same excerpt).
+
+### PATCH 2026-09-29 (T-307b): George Swanson Starling
+- NPR, Oct. 2, 2010 (above): Starling had to leave school to find work, became a citrus picker in Florida, and "began agitating for higher wages and better conditions." Wilkerson: "the grove owners became angry and he had to leave Florida basically for his life." "Starling moved to New York in 1945."
+- NPR, *Tell Me More*, "The Story Behind America's Great Migration," Sept. 22, 2010 (fetched with curl 2026-09-29), Wilkerson: pickers climbed "40-foot trees" and "people would fall and break a limb"; he organized the pickers for better pay (the host: "10 cents more"); "he ended up having to flee for his life because someone had overheard the grove owners talking about what they were going to do to him"; he left within days.
+- NPR book excerpt, Sept. 15, 2010: "Wildwood, Florida, April 14, 1945." He boarded the **Silver Meteor** north, riding in "the Jim Crow car, where the railroad stored the luggage," to get "beyond the reach of the grove owners" of **Lake County**. His wife **Inez** stayed behind until he could send for her. The ride was "twenty-three-hour." His home town was **Eustis**.
+- LitCharts character page (fetched 2026-09-29): he went to Harlem, where an aunt and many friends lived, and later got "a stable job working on the same train that brought him north." The grove owners are not named in any source opened.
+
+### PATCH 2026-09-29 (T-307b): Florence Owens Thompson's actual route (corrects the bank's "Dust Bowl migrant" framing)
+- Wikipedia, "Florence Owens Thompson" (fetched 2026-09-29, secondary): born **September 1, 1903**. "Both of her parents claimed Cherokee descent." After her 1921 marriage to Cleo Owens, the family "migrated west with several Owens relatives to Oroville, California" in the **1920s**. After Cleo died in 1931, she and her parents moved to Shafter, California, about 1933. On **March 6, 1936** the car's "timing chain snapped" and the family stopped at a pea-pickers' camp at Nipomo, where the crop "had been destroyed by freezing rain." Lange "took seven images in the course of ten minutes." In **1978** Modesto Bee reporter Emmett Corrigan found her. She died **September 16, 1983**.
+- So Thompson went west before the Dust Bowl years. She is an Oklahoma-born farmworker who followed the crops in California, not a refugee from the 1930s storms. Write her that way.
+
 ### Featured people for this section (verified; full facts below)
 - **Ida Mae Brandon Gladney** — Great Migration; Mississippi to Chicago, 1937 (from Isabel Wilkerson's documented history).
 - **Florence Owens Thompson** — Dust Bowl migrant; the woman in the 1936 "Migrant Mother" photograph.
@@ -287,6 +310,13 @@ How the prose can say it: state the 1866 Creek and Seminole cessions and that th
 
 ### What made moving easier
 - **The Interstate Highway System**, begun under the **Federal-Aid Highway Act of 1956**, made long-distance moving and suburban living far easier and sped both the Sun Belt shift and the growth of suburbs. The highway as a machine → Ch7; the suburbs themselves → Ch4. (Sources: Federal Highway Administration; Bill of Rights Institute.)
+
+### PATCH 2026-09-29 (T-307b): what Relocation led to (copied from research-native-nations.md, "Termination and Relocation")
+- "Poverty followed many; so did urban Indian communities" in Minneapolis, Chicago, Oakland/San Francisco, Los Angeles and Denver (Britannica "Urban Indian Relocation Program"; APM Reports "Uprooted"; National Archives "Urban Relocation," as cited there). The movement politics that grew in those communities stay in `native-nations`.
+
+### PATCH 2026-09-29 (T-307b): why Robert Foster left, and the drive
+- NPR, *Tell Me More*, "The Story Behind America's Great Migration," Sept. 22, 2010 (fetched with curl 2026-09-29), Wilkerson: Foster "left because he'd been a surgeon in the Army. When he got back home to Monroe, Louisiana, it turned out that he could not work in the hospital in his own home town." He set out across the country alone and "would then send for his family later." He "did not realize that he was not going to be able to stop for many, many, many states in the West until he got to California," because he "could not find a place where he could rest for the night." He drove a Buick. Wilkerson, retracing the drive, stopped at Yuma, Arizona. The host names his destination as Los Angeles.
+- LitCharts character page (fetched 2026-09-29): he set up a private practice in Los Angeles that many Southern migrants used, and the musician Ray Charles was among his patients.
 
 ### Featured person for this section (verified; full facts below)
 - **Robert Joseph Pershing Foster** — Great Migration; Louisiana to California, 1953 (Wilkerson) — a doctor who drove west, fitting the later westward wave.
@@ -327,6 +357,15 @@ How the prose can say it: state the 1866 Creek and Seminole cessions and that th
 ### SEARCHED, NOT FOUND 2026-09-26 (T-244): How many people did police turn back at the Gretna bridge?
 Sources checked: NBC News 2005 (no count), NPR Sept. 20, 2005 (headline only, page not fetched), Wikipedia "Gretna, Louisiana" (no count), Yahoo News long-form "Escape from New Orleans" (search listing only).
 How the prose can say it: "No count survives of how many people the officers turned back."
+
+### PATCH 2026-09-29 (T-307b): the Robertses after Memphis, confirmed on fetched pages
+- Frederic and Mary Ann Brussat, "Trouble the Water," Spirituality & Practice (fetched with curl 2026-09-29): in Memphis "there are troubles with FEMA payments and difficulties adapting to a new place. Eventually Kimberly and Scott return to their old home and vow to rebuild it." "Scott gets a job working with a contractor rebuilding homes in the city." Rolling Stone review (fetched with curl 2026-09-29): "The repair needed in their city has gotten Scott a job in construction."
+- Salon, Aug. 21, 2008 (fetched with curl 2026-09-29): in Memphis they stayed at "a middle-class cousin's house." They were "back in the Ninth Ward" in 2008 with a 7-month-old daughter.
+- The Gallery Podcast, episode 14, July 17, 2020 (fetched 2026-09-29): she "releases music under the name Queen Black Kold Madina through her own record label, Born Hustler Records." Confirms the label.
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-307b): Did the Robertses spend six months in Memphis, and could they not find work there for lack of high school diplomas?
+Sources checked: Bay State Banner 2009 page (curl returned a 5 KB page with no article text), TCM article (Memphis named, no length of stay, no diplomas), Spirituality & Practice (says "difficulties adapting," nothing on diplomas), Rolling Stone, Salon (no length of stay).
+How the prose can say it: leave out "six months" and the diplomas. Say they had trouble getting FEMA payments and settling in Memphis, then went home.
 
 ---
 

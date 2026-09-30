@@ -3361,6 +3361,8 @@ RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 
 NOTE (Jon): burst of 3 used 85% -> 93% (~2.7% each). One agent (T-307b), then PAUSE.
 
 ### 2026-09-27 | [LOCAL] T-307b | migration: writer B: eras 8-10 prose (part3), completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-307-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=15 (verified 15) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13392w files=3 validator_errors=0
+        254687 tokens, 83 tool uses, 13.2 min (opus). Writer B: part3 (~4,290w), chapter PASSES prose (13,392w). Great Migration first wave (Georgia, Macon fee, Chicago 1919), Dust Bowl and the bum blockade, 1942 removal with DeWitt, Bendetsen and the Army named; second wave, Sun Belt, Relocation, return South; state moves dated, Katrina (Gretna, Houston), Maria. 9 PATCH, 1 not found, 2 outline claims left out. Fixed: Thompson was not a Dust Bowl migrant (moved 1920s); flagged and unconfirmed figures not written.
