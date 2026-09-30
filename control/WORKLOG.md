@@ -3557,7 +3557,9 @@ RESULT: DONE. PASS  storytelling-evolution / prose. measured: stage=WRITTEN ms_e
 AGENT: ad361d35bae73165a (salvage: python tools/salvage_agent.py ad361d35bae73165a --tail)
 
 ### 2026-09-30 | [LOCAL] T-325 | sports-play: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-325-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21524w files=3 validator_errors=0
+        406814 tokens, 124 tool uses, 19.1 min (opus). SINGLE WRITER: all 10 eras, PASS prose (21,524w, 19 stories). 6 PATCH, 13 outline claims left out, nothing OPEN. Fixed: Curtis 1807, Webster 17 seasons, Ali actors named, Fairground pool claim.
 AGENT: ae73ed5671bc11414 (salvage: python tools/salvage_agent.py ae73ed5671bc11414 --tail)

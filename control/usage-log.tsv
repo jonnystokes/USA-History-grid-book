@@ -258,3 +258,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-322	prose	general-purpose/opus	[LOCAL] news-communication: SINGLE WRITER: all 10 eras, PASS prose (20,945w, 23 stories). 9 PATCH, 1 not fou	?	?	?	408787	150	1041011	?	completed	PASS  news-communication / prose
 2026-09-30	T-323	prose	general-purpose/opus	[LOCAL] music: SINGLE WRITER (~60k slice): all 10 eras, PASS prose (23,685w, 27 stories). 3 PAT	?	?	?	405309	113	910864	?	completed	PASS  music / prose
 2026-09-30	T-324	prose	general-purpose/opus	[LOCAL] storytelling-evolution: SINGLE WRITER: all 10 eras, PASS prose (21,516w, 29 stories). 3 PATCH (1 partial	?	?	?	396782	94	955848	?	completed	PASS  storytelling-evolution / prose
+2026-09-30	T-325	prose	general-purpose/opus	[LOCAL] sports-play: SINGLE WRITER: all 10 eras, PASS prose (21,524w, 19 stories). 6 PATCH, 13 outlin	?	?	?	406814	124	1147317	?	completed	PASS  sports-play / prose

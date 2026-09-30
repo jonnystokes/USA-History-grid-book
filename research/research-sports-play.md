@@ -202,6 +202,11 @@ the 1590s). No ban on games dated to the 1500s was found. The documented campaig
 How the prose can say it: "Spanish friars started missions in Florida and Georgia in the 1590s. Their campaign
 to stop the Native ball game came eighty years later."
 
+### PATCH 2026-09-30 (T-325): what tilting at the ring (sortija) was
+- "Participants rode at full speed to thrust the point of the lance through a ring or to hook a ring and carry it
+  off." "The Spanish word for running at the ring was sortija." (Wikipedia, "Running at the ring", opened
+  2026-09-30.) This confirms the general definition tagged unconfirmed above.
+
 ## Era 03: The 1600s (T-271a, 2026-09-28)
 
 ### Sources for this era
@@ -389,6 +394,13 @@ enslaved people's free time is a law of 1680 that punished them for gathering."
   Massapequa (Marsapeague), Merrick (Mericock), Matinecock and Rockaway (Rekowake), and a 1647 confirmation by
   Tackapousha and Wautogh (unconfirmed: search summary only). What the sachems received and how they understood the
   sale are not stated in the page opened.
+
+### PATCH 2026-09-30 (T-325): where the Newmarket course was
+- "The Newmarket Course was established in the area of present-day Garden City, New York, within the Town of
+  Hempstead." "Colonel Richard Nicholls, the first Colonial Governor of New York, established the province's first
+  race course on today's Hempstead Plains on May 1, 1665." Prize: "a silver crown or a bushel of wheat for the
+  winner." (Wikipedia, "Newmarket Course", opened 2026-09-30.) Britannica (above) gives a silver cup. The prize
+  differs between the two; the place (Hempstead Plains) is now confirmed.
 
 ## Era 04: 1700 to 1750 (T-271a, 2026-09-28)
 
@@ -943,6 +955,16 @@ began to replace it as the most popular about 1845; prize fighting rivaled it by
 How the prose can say it: "The biggest crowds of these years came to see horses race. In 1823 at least 60,000 people
 watched two horses race on Long Island."
 
+### PATCH 2026-09-30 (T-325): Larcom dates and the Dancing Rabbit Creek treaty, confirmed
+- Lucy Larcom: born "March 5, 1824" in Beverly, Massachusetts; her father, "a retired sea captain", "passed away in
+  1832"; the family moved to Lowell in 1835; her mother, Lois Larcom, became "a boardinghouse keeper, tasked with cooking
+  and keeping house for up to forty female boarders"; *A New England Girlhood* came out in 1889 (National Park Service,
+  "Lucy Larcom", nps.gov/people/lucy-larcom.htm, opened 2026-09-30). Confirms the search-summary dates above.
+- Treaty of Dancing Rabbit Creek: signed "September 27, 1830"; ceded "about 11 million acres ... of the Choctaw Nation
+  primarily in the state of Mississippi"; "removal to begin in 1831 and end in 1833"; three migrations 1831-1833 with a
+  winter blizzard and a cholera outbreak, "approximately 2,500 deaths" (Wikipedia, "Treaty of Dancing Rabbit Creek",
+  opened 2026-09-30). The Choctaw Nation's "over a quarter" (above) stays the primary figure.
+
 ## Era 07: 1850 to 1900 (T-271b, 2026-09-28)
 
 ### Sources for this era
@@ -1204,6 +1226,11 @@ season." Give no yearly figures for other years of the 1890s.
   Project, "June 21, 1879: The cameo of William Edward White", opened.) Georgia as his birthplace, and 1860 as his
   birth year: search summary of Wikipedia and Slate (unconfirmed: search summary only).
 - Effect on the outline: the Walkers are "the first Black major-league players known to the public as Black men".
+
+### PATCH 2026-09-30 (T-325): the Switchback Railway, confirmed
+- Opened "June 16, 1884" at Coney Island, Brooklyn, designed and built by "LaMarcus Adna Thompson". "The car went just
+  over 6 mph." "For five cents, riders would climb a tower to board the large bench-like car" (Wikipedia, "Switchback
+  Railway", opened 2026-09-30). Sea Lion Park and Steeplechase Park stay unconfirmed and unwritten.
 
 ## Bank check, eras 06-07 (T-271b, 2026-09-28)
 
@@ -1610,6 +1637,35 @@ report of 5 July 1910 (no names); search summaries (Clio, Uvalda and Mounds, no 
 How the prose can say it: "The records read do not name the people who were killed or the people who killed them."
 
 
+### PATCH 2026-09-30 (T-325): search-summary facts in era 08 checked on pages that opened
+All pages opened 2026-09-30 (Wikipedia, via WebFetch).
+- Boy Scouts: William D. Boyce "incorporated the Boy Scouts of America on February 8, 1910" (Wikipedia "Boy Scouts of
+  America").
+- 4-H: "A. B. Graham began one of the youth programs in Clark County, Ohio, in 1902, which is also considered one of the
+  births of the 4-H program ... The first club was called 'The Tomato Club' or the 'Corn Growing Club'" (Wikipedia "4-H").
+- AAGPBL: "existed from 1943 to 1954"; founded by Philip K. Wrigley; "Over 600 women played in the league"; skirts "no
+  more than six inches above the knee"; spring-training evening classes at "Helena Rubinstein's charm school"; players
+  "were not allowed to wear pants" and "were required to wear lipstick at all times"; the league was "informally
+  segregated", and "no African Americans were recruited or hired" (Wikipedia "All-American Girls Professional Baseball
+  League"). The page does not name who decided not to hire Black women.
+- Monopoly: Lizzie Magie "took out a patent in 1904"; "Parker Brothers began marketing the game on November 5, 1935"
+  (Wikipedia "Monopoly (game)").
+- Superman: first appeared in *Action Comics* #1, "published in the United States on April 18, 1938" (cover date June
+  1938) (Wikipedia "Superman").
+- *Little Orphan Annie* radio: "debuted on WGN Chicago in 1930 and went national on NBC's Blue Network beginning April 6,
+  1931"; it "attracted about 6 million fans, and left the air in 1942" (Wikipedia "Little Orphan Annie"). The Ovaltine
+  decoder badge is not on that page: still unconfirmed, not written. The 6 million is all listeners, not children.
+- MLB and the Negro Leagues: "In December 2020, Major League Baseball announced ... it classified the seven 'Negro major
+  leagues' as additional major leagues ... recognizing statistics and approximately 3,400 players who played from 1920 to
+  1948." "On May 28, 2024, Major League Baseball announced that it had integrated Negro league statistics into its records,
+  which ... gives Josh Gibson the highest single-season major league batting average at .466 (1943) and the highest career
+  batting average at .372" (Wikipedia "Negro league baseball").
+- Fairground Park, 1949: 12 injured (6 needing hospital or first aid); 7 arrested (3 white, 4 Black); "3 Black individuals
+  and 1 white person were ultimately charged with initiating the riot"; attendance at the pool "dropped so significantly
+  that it could no longer turn a profit and it was ultimately closed down" (Wikipedia "Fairground Park riot"). The page
+  does not say who restored segregation: the outline's "the city then separated the pools again" stays unconfirmed and is
+  not written.
+
 ## Era 09: 1950 to 2000 (T-271c, 2026-09-28)
 
 ### Sources for this era
@@ -1841,6 +1897,28 @@ Sources checked: Hofferth 2009 and the 1981-1997 summary (categories "playing" a
 McDonald 2011 (school travel only). No study read measures unsupervised outdoor hours for 1950-2000.
 How the prose can say it: "Time-diary studies found that from 1981 to 1997 children spent more time in organized
 activities such as sports and less time in free play."
+
+### PATCH 2026-09-30 (T-325): search-summary facts in era 09 checked on pages that opened
+All pages opened 2026-09-30 (Wikipedia, via WebFetch).
+- Sylvia Pressler, 1973: "The institution of Little League is as American as the hot dog and apple pie. There is no
+  reason why that part of Americana should be withheld from girls." The page gives the year 1973, not the day
+  (Wikipedia "Sylvia Pressler"). Wikipedia "Maria Pepe": in 1974 the New Jersey Superior Court decided Little League must
+  allow girls to play.
+- Flood v. Kuhn: decided "June 19, 1972", 5 to 3. Flood to Howard Cosell: "A well-paid slave is nonetheless a slave."
+  Peter Seitz, an arbitrator, ruled for Andy Messersmith and Dave McNally that "their contracts could only be renewed
+  without their permission for one season, after which they became free agents", about three years after the Supreme
+  Court decision (Wikipedia "Flood v. Kuhn"). The 24 Dec 1969 letter wording stays search summary only.
+- Muhammad Ali, 1967 (actor check, the verifier's finding): "On April 28, 1967, Ali appeared in Houston for his scheduled
+  induction ... but he refused three times to step forward when his name was called." "Later that same day, the New York
+  State Athletic Commission suspended his boxing license and the World Boxing Association stripped him of his title. Other
+  boxing commissions followed suit." "He was convicted of draft evasion on June 20 and sentenced to five years in prison and
+  a $10,000 fine." "On June 28, 1971, the Supreme Court ... in Clay v. United States overturned Ali's conviction by a
+  unanimous 8-0 decision" (Wikipedia "Muhammad Ali", opened 2026-09-30). The members of the commission and the WBA
+  officials are not named on the page.
+- Title IX, the words of the law: "No person in the United States shall, on the basis of sex, be excluded from
+  participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity
+  receiving Federal financial assistance." President Richard Nixon signed it on June 23, 1972 (Wikipedia "Title IX",
+  opened 2026-09-30).
 
 ## Bank check, eras 08-09 (T-271c, 2026-09-28)
 
