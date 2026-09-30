@@ -3394,9 +3394,11 @@ RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 
 NOTE (Jon): usage not measurable this window (other work). Burst of 3 single writers: T-310, T-311, T-312. The rest of the small group next window.
 
 ### 2026-09-27 | [LOCAL] T-310 | marketplace: ONE writer, all 10 eras [BURST3] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-310-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+RESULT: DONE. PASS  marketplace / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13548w files=3 validator_errors=0
+        358848 tokens, 123 tool uses, 18.6 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (13,548w, 17 stories). The Dalles, copper kettles, market days, Wall Street slave market, boycotts, Seider, Barnum and Joice Heth, Singer, department stores, Weeping Time, Winslow's syrup, mail order, Woolworth, company stores, rationing, malls, Walton, Bezos, Renica Turner. 9 PATCH, 0 not found, 20 outline claims left out. Fixed: captives traded at The Dalles, 'nothing carried a price' dropped, Heth's autopsy actors named (Barnum, Dr. David L. Rogers, 1,500 spectators), installment 'first' narrowed, company-store debt attributed.
 
 ### 2026-09-27 | [LOCAL] T-311 | big-business: ONE writer, all 10 eras [BURST3] | model opus
 STATUS: IN-FLIGHT
