@@ -2339,6 +2339,33 @@ https://docsouth.unc.edu/neh/douglass/douglass.html , Appendix, pp. 118-119):
     brother were murdered" (rel07). The Carthage PATCH above adds the killers and the acquittals, which
     the story block should carry.
 
+### PATCH 2026-09-30 (T-327a): the 1834 and 1844 anti-Catholic attacks: mob facts, counts by source, and what happened to the attackers (copied from `research/research-immigration.md`, PATCH T-238, with its sources)
+
+The T-260b PATCH above says to use the immigration bank for the mob facts. Copied here so the prose
+rests on this bank. Sources as that bank gives them; labels kept.
+- **Charlestown, 11-12 August 1834.** A mob of "largely Protestant workmen of Charlestown" burned the
+  Ursuline convent school that night. Inside were the nuns and **47 girl students, only six of them
+  Catholic.** The mob broke into the convent's tomb, where several dead sisters were buried. No deaths
+  recorded. Police arrested **13 men**; **12 were acquitted**, including the self-confessed ringleader
+  **John R. Buzzell**. The one man convicted was 16, and Governor John Davis pardoned him. (Wikipedia,
+  "Ursuline Convent riots," label: encyclopedia summary, citing 1834 Boston papers; Buzzell trial record,
+  Providence College Digital Commons, https://digitalcommons.providence.edu/trialbuzzell/1/ .)
+- **Philadelphia, May 1844: who organised the nativists.** Lewis Levin, a newspaper editor, had founded
+  the nativist American Republican Association in December 1843 (Encyclopedia of Greater Philadelphia,
+  "Nativist Riots of 1844"). The May crowds also burned Irish Catholic homes, including Hugh Clark's
+  house.
+- **Deaths, each count with its owner.** May: at least 14 killed (Wikipedia) or 20 dead and at least 100
+  wounded (EBSCO Research Starters). July: four militiamen and "probably a dozen rioters"
+  (Encyclopedia of Greater Philadelphia), "at least fifteen" (Wikipedia), two soldiers and at least 12
+  rioters (EBSCO). No agreed total. Joseph Rice is one named Catholic killed (Wikipedia).
+- **What happened to the attackers.** A Philadelphia grand jury indicted 19 rioters and "only a handful
+  were convicted" (Encyclopedia of Greater Philadelphia, "Grand Juries,"
+  https://philadelphiaencyclopedia.org/essays/grand-juries/ ). The June 1844 grand jury blamed the May
+  riots on "the efforts of a portion of the community to exclude the Bible from the public schools,"
+  meaning the Catholics who had been attacked; Catholics answered that it called no Catholics to testify
+  (Villanova University Falvey Library, "Chaos in the Streets ... Aftermath,"
+  https://exhibits.library.villanova.edu/chaos-in-the-streets-the-philadelphia-riots-of-1844/aftermath ).
+
 ---
 
 ## ERA 7 — 1850 to 1900 (`state="full"`)
@@ -2786,6 +2813,29 @@ Ethnology, part 2 (Washington: Government Printing Office, 1896), archive.org
 - **Story `garrison-frazier` checked line by line against §7f:** every fact present (age 67, Granville
   County, $1,000 in gold and silver, 35 years, the four quotes, all agreed, Sherman left the room, Field
   Orders No. 15 four days later). Pass. The era-7 zoom's roster (Campbell, Cox, Porter, Godfrey) is in §7f.
+
+### PATCH 2026-09-30 (T-327a): Louisville, 6 August 1855, from the Kentucky Historical Society marker (copied from `research/research-immigration.md`, PATCH T-238)
+
+- On election day, Monday, 6 August 1855, in Louisville, Kentucky, mobs led by members of the
+  Know-Nothing (American) Party attacked the German immigrant neighbourhoods east of downtown and the
+  Irish neighbourhoods in the west. **"At least 22 deaths."** The Know-Nothings were a political party
+  that opposed Catholic immigration; its members feared Catholics were a threat to Protestantism and to
+  democracy. (Kentucky Historical Society, Historical Marker #2205, "'Bloody Monday' and American
+  (Know-Nothing) Party," https://history.ky.gov/markers/bloody-monday-and-american-know-nothing-party .)
+- Five people were later indicted and none was convicted (Wikipedia, "Bloody Monday," label:
+  encyclopedia summary). The Quinn's Row shootings and the "over 100" dead figure are disputed (see the
+  immigration bank's caution on the *Register* article) and are not used.
+
+### PATCH 2026-09-30 (T-327a): Nauvoo's land before the Latter-day Saints (era 6; filed here beside the other T-327a patch)
+
+- "A large village of Sauk (Sac) and Meskwaki (Fox) was established along the Mississippi River, near
+  what is now Nauvoo, in the late 18th century; this village had as many as 1,000 lodges." "In 1823 or
+  1824, Captain James White purchased the village from Quashquame, a Sauk leader. White gave Quashquame
+  'a little sku-ti-apo [liquor], and two thousand bushels of corn' for the land." Quashquame's village
+  moved to the west side of the river. Church leaders bought land there and "the mostly vacant Commerce
+  plat in 1839." (Wikipedia, "History of Nauvoo, Illinois,"
+  https://en.wikipedia.org/wiki/History_of_Nauvoo,_Illinois , opened with WebFetch 2026-09-30. Label:
+  encyclopedia; two searches for an institutional source found none.)
 
 ---
 
