@@ -3690,3 +3690,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage prose
 RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23057w files=3 validator_errors=0
         195125 tokens, 24 tool uses, 7.4 min (opus). CHECKER opus, part2: 79 findings (7 BLOCKING, 17 MAJOR, 55 MINOR). Top: reader 25, Not in bank 17, institutions acting 13.
 AGENT: a602705a362c606eb (salvage: python tools/salvage_agent.py a602705a362c606eb --tail)
+
+### 2026-09-30 | [LOCAL] T-332f | crime-justice: FIXER opus, part2, judges both findings files (calibration run 2) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-332-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage prose
