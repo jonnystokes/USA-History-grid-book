@@ -11,7 +11,6 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-330 art (ONE writer, all 10 eras)
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 36 chapters written and passing `--stage prose`, 1 to go. T-330 art running (single writer). The Wiley story is written without the accusations, as the bank has it, in one self-contained story block, so Jon's answer changes one block in step 5.

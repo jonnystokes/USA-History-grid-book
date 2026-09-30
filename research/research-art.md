@@ -451,6 +451,16 @@ How the prose can say it: "The records reached do not name the people who ran th
 - Shut out of academies: no academy existed in eras 01-05. The Columbianum, 1795, is described as "America's first art society exhibit" (Encyclopedia of Greater Philadelphia). Who was excluded from academies is a question for eras 06 on (for example the Pennsylvania Academy of the Fine Arts. Its founding date is for T-267b to source).
 - Dave the Potter (David Drake) is eras 06-07 for T-267b.
 
+### PATCH 2026-09-30 (T-330): Nathan Jackson still living (era 01)
+- Search 2026-09-30 ("Nathan Jackson Tlingit carver Ketchikan 2025") found no obituary. Rasmuson Foundation, "A new honor for Tlingit master artist Nathan Jackson" (https://rasmuson.org/news/a-new-honor-for-tlingit-master-artist-nathan-jackson/) and the Juneau Independent on the Kootéeyaa Deiyí totem pole trail list him as a working carver (search summaries only; unconfirmed: search summary only). Prose treats him as living, per Jersey Arts 2024.
+
+### PATCH 2026-09-30 (T-330): the Freake portrait, confirmed on the museum's page (era 03)
+- Worcester Art Museum, Early American Paintings catalogue, "Elizabeth Clarke Freake (Mrs. John Freake) and Baby Mary," discussion (https://eap.worcesterart.org/Artists/unidentified_17th/elizabeth_f/discussion.html, opened 2026-09-30): dated "about 1671 and 1674," inscribed "Ano Dom, 167[1]/ Æ TATIS SU Æ 29" and the child's age "6 MOTH." "X-radiography confirms that the child was added to the portrait at a later date than the depiction of the mother." "Born May 6, 1674, Mary Freake (1674-1752) was the eighth and youngest child of John and Elizabeth Freake." The catalogue is the museum's catalogue of its own early American paintings. Wikipedia "Freake Painter" (opened 2026-09-30) gives the title and 1671-1674. This replaces the search-summary tag on the Worcester line in era 03: the baby was added later (confirmed); the museum holds it.
+
+### PATCH 2026-09-30 (T-330): two short glosses for era 05, copied from other banks
+- Sons of Liberty: the Stamp Act of 1765 "required colonial commercial and legal papers, newspapers, pamphlets ... to be printed on stamped paper produced in London; colonists refused the stamps and intimidated the stamp distributors; the Sons of Liberty formed" (Britannica "Stamp Act," as banked in `research-news-communication.md`).
+- George Whitefield was a preacher whose "1740 American tour" set off the New Light / Old Light split (`research-religion.md`). Wheatley's elegy for him: Boston, Ezekiel Russell, 1770 (same bank).
+
 ## Bank check, eras 06-07 (T-267b, 2026-09-28)
 
 ### PATCH 2026-09-28 (T-267b): Catlin's gallery, the performers, the price and the sale (era 06)
@@ -534,6 +544,20 @@ How the prose can say it: leave it out until Gonzalez's article is opened.
 - The Civil War dead photographed and a body moved for a picture: Gardner's team at Devil's Den, July 1863 (O'Sullivan named in the catalog).
 - Shut out: the Pennsylvania Academy's slow opening to women (1844, 1860, 1868); Black students "very seldom" admitted (Colored Conventions Project); the Black soldiers' names left off the Shaw Memorial until the early 1980s; the Met closed on Sundays until 1891; *Huckleberry Finn* removed by the Concord library committee, 1885.
 
+
+### PATCH 2026-09-30 (T-330): removal, smallpox and Douglass's escape, copied from other banks (era 06)
+- Indian Removal Act, May 28, 1830: "authorized the president to negotiate removal treaties" (`research-native-nations.md` line 137, New Georgia Encyclopedia; date via NPS). Trail of Tears, 1838-39: "more than 16,000 Cherokee removed; over 4,000 died (traditional estimate; some scholars argue higher)" (same bank, NPS Trail of Tears NHT). The five southeastern nations were moved to Indian Territory.
+- Smallpox: "Smallpox was an infectious disease caused by the variola virus." It spread "by direct and fairly prolonged face-to-face contact between people," caused "a fever and a distinctive, progressive skin rash," and "About 3 out of every 10 people with the disease died" (CDC, "About Smallpox," as banked in `research-health.md` line 116).
+- The 1837 epidemic (`research-health.md`, ND Studies 1837 and Wikipedia "Indian Vaccination Act"): President Andrew Jackson signed the Indian Vaccination Act on May 5, 1832, and Secretary of War Lewis Cass ran it through Indian agents. The Mandan, Hidatsa and Arikara on the upper Missouri were left out: they "had been denied access to the 1832 federal vaccination program" (ND Studies). The steamboat *St. Peters* reached Fort Clark on June 18, 1837. The trader Francis Chardon learned from the captain that people aboard had smallpox. The crew unloaded goods and loaded furs in under 24 hours and went on upriver. Four Bears's death speech as Chardon recorded it: "I have loved the Whites ... and how have they repaid it! With ingratitude!"
+- Frederick Douglass: born February 1818, Talbot County, Maryland. Escaped September 3, 1838, by train through Baltimore in a sailor's clothes, helped by Anna Murray, the free Black woman he married (`research-slavery-freedom.md` line 172).
+
+### PATCH 2026-09-30 (T-330): what a subscription book was (era 07, Mark Twain)
+- *Mark Twain in Context*, ch. 11 "Publishing" (Cambridge University Press, https://www.cambridge.org/core/books/mark-twain-in-context/publishing/06EC522DC5F7F3B716952812E5FB1ABB/core-reader, opened 2026-09-30): "subscription publishing, which involved door-to-door salesmen who showed prospective books to customers who ordered them for later delivery." This confirms the door-to-door detail tagged search-summary-only in the era 07 section.
+- UVA "Mark Twain in His Times" *Innocents* page (opened 2026-09-30) confirms: Bliss "published *Innocents* as a subscription book on July 20th, 1869," and "Within its first year it sold over 70,000 copies."
+
+### PATCH 2026-09-30 (T-330): Yellowstone removal and the Dawes Act, copied from other banks (era 07)
+- Tukudika: "lived for thousands of years in the area that would become Yellowstone National Park" and "were forcibly removed to reservations" (NPS Yellowstone, "The Tukudika Indians," as banked in `research-land-environment.md` line 114). Superintendent Philetus W. Norris (1877-1882) found a Tukudika camp in fall 1879 and "turned for help to the agent at Fort Washakie, who responded by sending a party of Shoshone to escort the Tukudika to new homes on the Wind River Reservation" (Mark David Spence, *Dispossessing the Wilderness*, 1999, same bank line 115).
+- Dawes (General Allotment) Act, 1887: "broke communal tribal land into individual parcels and sold the 'surplus.'" Native landholdings fell from about 138 million acres in 1887 to 48 million by 1934 (Indian Land Tenure Foundation, as banked in `research-native-nations.md` line 166).
 
 ## Era 08: 1900 to 1950
 
@@ -953,6 +977,40 @@ How the prose can say it: "Officials at the gallery, whom the reports do not nam
 - Art removed by officials: Black Lives Matter Plaza (Rep. Andrew Clyde's bill, Mayor Bowser's decision, District Department of Transportation crews, March 2025).
 - Censorship claims: Sherald's withdrawal (officials unnamed: SEARCHED, NOT FOUND). Grants ended by NEA officials under the President's budget, May 2025. Sajet's forced departure (Trump's May 30, 2025 statement). The White House review of eight museums (Halligan, Haley, Vought, Aug. 12, 2025). Books removed from libraries (`education` leads).
 - Artists' work copied without consent to build picture programs: the artists' allegation against Stability AI, Midjourney, DeviantArt and Runway AI, not yet tried.
+
+## Bank check, eras 08-10, prose pass (T-330, 2026-09-30)
+
+### PATCH 2026-09-30 (T-330): films about the people in the era 08-10 stories (eras 08, 09, 10)
+Each checked on a page opened 2026-09-30 unless marked.
+- *Georgia O'Keeffe* (about 1977), directed by Perry Miller Adato, "Georgia O'Keeffe WNET/Thirteen American Masters. Full film," 16mm, about one hour (Georgia O'Keeffe Museum Archives, http://archive.okeeffemuseum.org/repositories/2/archival_objects/8582).
+- *American Masters: Dorothea Lange: Grab a Hunk of Lightning*, premiered Friday, August 29, 2014, on PBS, "Directed and narrated by Lange's granddaughter Dyanna Taylor"; it "explores the life, passions and uncompromising vision" of Lange (PBS, https://www.pbs.org/wnet/americanmasters/dorothea-lange-about-the-film/3096).
+- *Searching for Augusta Savage*, premiered February 15, 2024, 21 minutes 48 seconds, "written and directed by Charlotte Mangin and Sandy Rattley," an American Masters short (PBS, https://www.pbs.org/wnet/americanmasters/searching-for-augusta-savage/31521/).
+- *Zora Neale Hurston: Jump at the Sun*, American Masters, April 2008, directed by Sam Pollard (PBS American Masters Hurston page, https://www.pbs.org/wnet/americanmasters/masters/zora-neale-hurston/ ; California Newsreel, https://newsreel.org/video/zora-neale-hurston).
+- *Maria Martinez: Indian Pottery of San Ildefonso* (documentary, 1972): Maria Montoya Martinez and her son Popovi Da show how the pottery is made at San Ildefonso Pueblo (Claystation video page, https://claystation.com/video/maria-martinez-indian-pottery-of-san-ildefonso-documentary-1972-vhs/). That it was a National Park Service production: search summary only (unconfirmed: search summary only).
+- *Pollock* (2000), "a 2000 American independent biographical drama film centered on the life of painter Jackson Pollock," directed by and starring Ed Harris (Wikipedia "Pollock (film)").
+- *Andy Warhol: A Documentary Film* (2006), "a four-hour 2006 documentary by Ric Burns about pop artist Andy Warhol," shown on PBS's *American Masters* (Wikipedia).
+- *Half Past Autumn: The Life and Works of Gordon Parks* (2000), listed among documentaries about Parks (Wikipedia "Gordon Parks"). HBO as the network, and Craig Laurence Rice as director: search summary only (unconfirmed: search summary only).
+- *Toni Morrison: The Pieces I Am* (2019), "a 2019 documentary film, directed by Timothy Greenfield-Sanders" (Wikipedia).
+- *Kehinde Wiley: An Economy of Grace* (2014), directed by Jeff Dupre, "PBS & A Show of Force," following Wiley as he paints classical portraits of African American women (BOZAR, https://www.bozar.be/en/calendar/kehinde-wiley-economy-grace-jeff-dupre).
+
+### PATCH 2026-09-30 (T-330): the Fort Marion headstones (era 07)
+- Recorded from the era 10 SEARCHED, NOT FOUND: in 2023 the National Cemetery Administration planned to replace the two "Six Unknown Indians" markers with headstones naming the prisoners (UCF News, Jan. 26, 2023). No report of installation found to September 2026. Prose says they planned it.
+
+### PATCH 2026-09-30 (T-330): who carried out the 1942 removal, and the Writers' Project count (era 08)
+- President Franklin D. Roosevelt signed Executive Order 9066 on February 19, 1942. Lieutenant General John L. DeWitt, commanding the Western Defense Command, issued the curfews and Public Proclamation No. 4, "which began the forced evacuation and detention of Japanese-American West Coast residents on a 48-hour notice." "Approximately 122,000 men, women, and children," of whom "Nearly 70,000 ... were American citizens," were sent to ten camps (National Archives, "Executive Order 9066," as banked in `research-rights-movements.md` lines 1766-1767; uscourts.gov gives over 120,000, two thirds citizens, line 1237).
+- WPA Federal Writers' Project, 1936-38: interviews with formerly enslaved people in 17 states, "more than 2,300 first-person accounts and 500 photographs," held at the Library of Congress as "Born in Slavery" (`research-slavery-freedom.md` line 336, LOC).
+
+### PATCH 2026-09-30 (T-330): Kossola and the Clotilda (era 08, Hurston)
+- "about 110 Africans smuggled into Mobile in July 1860 (52 years after the ban)" (`research-slavery-freedom.md` line 235, Encyclopedia of Alabama; Smithsonian). Kossola was among them (same bank, Kossola story).
+
+### PATCH 2026-09-30 (T-330): Warhol's start, and Margaret Garner (era 09)
+- Wikipedia "Andy Warhol" (opened 2026-09-30): after graduating in 1949 he went to New York, where Tina Fredericks at *Glamour* "purchased a $10 drawing of an orchestra." Through the early 1950s "His hand-drawn images appeared regularly in high fashion magazines and the society pages of *The New York Times*." In 1961 Floriano Vecchi of Tiber Press "introduced him to the basics of silkscreen printing: transferring designs onto acetate, preparing screens, and pulling ink with a squeegee." *Marilyn Diptych* (1962) is among "his best-known early silkscreen paintings."
+- Wikipedia "Margaret Garner" (opened 2026-09-30): on January 28, 1856, Robert and Margaret Garner and family members escaped to a place just west of Cincinnati. When slave catchers came, "Margaret killed her two-year-old daughter Mary with a butcher's knife rather than see the child returned to slavery." Her story "was the inspiration for the novel Beloved (1987)."
+- Michael Stewart (era 09): the medical examiner Elliot M. Gross gave cardiac arrest as the cause, "a finding disputed." The six officers were tried for criminally negligent homicide, assault and perjury (`research-crime-justice.md` line 1846, Wikipedia).
+
+### PATCH 2026-09-30 (T-330): the Smithsonian order and Kim Sajet, confirmed (era 10)
+- Executive Order "Restoring Truth and Sanity to American History," signed March 27, 2025 (whitehouse.gov, opened 2026-09-30): "the Smithsonian Institution has, in recent years, come under the influence of a divisive, race-centered ideology." Replaces the search-summary tag on that quote.
+- Spokesman-Review (Washington Post), June 13, 2025 (opened 2026-09-30): on May 30 Trump announced he had fired Sajet, calling her a "highly partisan person, and a strong supporter of DEI, which is totally inappropriate for her position." She stepped down on Friday, June 13, after directing the gallery for 12 years, saying her presence had become a distraction from the Smithsonian's mission.
 
 ## Parked from `storytelling-evolution` (2026-09-27, T-269)
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.

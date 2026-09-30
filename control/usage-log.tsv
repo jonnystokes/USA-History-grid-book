@@ -268,3 +268,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-329a	prose	general-purpose/opus	[LOCAL] rights-movements: WRITER A: eras 1-7 landed (19,608w, 11 stories), 7/10 as expected. 7 PATCH, 7 cl	?	?	?	404463	129	1084315	?	completed	FAIL  rights-movements / prose
 2026-09-30	T-329b	prose	general-purpose/opus	[LOCAL] rights-movements: WRITER B: eras 8-9 landed (21,081w, 12 stories), 9/10 as expected. 17 PATCH, 1 n	?	?	?	405964	103	1042320	?	completed	FAIL  rights-movements / prose
 2026-09-30	T-329c	prose	general-purpose/opus	[LOCAL] rights-movements: WRITER C: era 10 + final, chapter PASS prose. 5 PATCH, ~11 claims left out, noth	?	?	?	331821	87	787302	?	completed	PASS  rights-movements / prose
+2026-09-30	T-330	prose	general-purpose/opus	[LOCAL] art: SINGLE WRITER: all 10 eras, PASS prose (26,406w, 34 stories). 11 PATCH, ~30 clai	?	?	?	487707	138	1524562	?	completed	PASS  art / prose

@@ -3637,7 +3637,9 @@ RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10
 AGENT: a5d65fcb4c92db9fc (salvage: python tools/salvage_agent.py a5d65fcb4c92db9fc --tail)
 
 ### 2026-09-30 | [LOCAL] T-330 | art: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-330-art.md
 VERIFY: python tools/project_state.py --check art --stage prose
+RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=34 (verified 34) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=26406w files=3 validator_errors=0
+        487707 tokens, 138 tool uses, 25.4 min (opus). SINGLE WRITER: all 10 eras, PASS prose (26,406w, 34 stories). 11 PATCH, ~30 claims left out, nothing OPEN. Wiley block per bank, awaits Jon. Fixed: film credits sourced, Tukudika removal actors named.
 AGENT: a81fd8566e11ad04e (salvage: python tools/salvage_agent.py a81fd8566e11ad04e --tail)
