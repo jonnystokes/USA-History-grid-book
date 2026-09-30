@@ -3616,3 +3616,4 @@ AGENT: a79a476bc34b43a51 (salvage: python tools/salvage_agent.py a79a476bc34b43a
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-329-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+AGENT: a4278d2a87c6c210c (salvage: python tools/salvage_agent.py a4278d2a87c6c210c --tail)
