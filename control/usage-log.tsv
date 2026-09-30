@@ -277,3 +277,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-332f	prose	general-purpose/opus	[LOCAL] crime-justice: FIXER opus, part2: sonnet 75 fixed/11 rejected/3 research; opus 77/1/1. Unique r	?	?	?	306196	91	841214	?	completed	PASS  crime-justice / prose
 2026-09-30	T-333s	prose	general-purpose/sonnet	[LOCAL] government-politics: CHECKER sonnet, part3: 160 findings (7 BLOCKING, 25 MAJOR, 128 MINOR). Top: pers	?	?	?	265575	30	560940	?	completed	PASS  government-politics / prose
 2026-09-30	T-333o	prose	general-purpose/opus	[LOCAL] government-politics: CHECKER opus, part3: 143 findings (4 BLOCKING, 37 MAJOR, 102 MINOR). Top: person	?	?	?	273957	33	746179	?	completed	PASS  government-politics / prose
+2026-09-30	T-333f	prose	general-purpose/opus	[LOCAL] government-politics: FIXER opus, part3: sonnet 144 fixed/10 rejected/6 research; opus 139/1/3; 8 fixe	?	?	?	395026	128	1194890	?	completed	PASS  government-politics / prose

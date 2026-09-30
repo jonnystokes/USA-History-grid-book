@@ -1678,6 +1678,33 @@ https://nces.ed.gov/pubs93/93442.pdf, Tables 20 and 21.
   property, with the local share highest around 1920 and already falling by 1950 as states paid
   more. Write it as a pattern with the numbers above, not as one choice someone made.
 
+### PATCH 2026-09-30 (T-333f): Era 8, what the Indian Citizenship Act did, and who kept Native people from voting
+
+Copied from `research/research-native-nations.md` ("Parked from `rights-movements` era 8") and
+`research/research-rights-movements.md` (era 8, Indian Citizenship Act). Both cite one fetched page:
+National Archives, *The Text Message* blog, "The War after the War: the American Indian Fight for the
+Vote after WWII," 12 November 2019,
+https://text-message.blogs.archives.gov/2019/11/12/the-war-after-the-war-the-american-indian-fight-for-the-vote-after-wwii/
+- **Indian Citizenship Act, 2 June 1924**, signed by **President Calvin Coolidge**. "It made American
+  Indians citizens." It did not put them on state voter rolls, "because states wrote their own rules
+  about who could vote."
+- **Arizona, 1928:** state law barred any "idiot, insane person, person non compos mentis, or under
+  guardianship" from voting, and the Arizona Supreme Court held that Native people on reservations
+  were wards of the federal government and therefore covered by it.
+- **New Mexico:** used the state constitution's phrase **"Indians not taxed."**
+- **15 July 1948, *Harrison v. Laveen*:** the Arizona Supreme Court overturned its 1928 precedent.
+  **Justice Levi Udall** wrote the opinion.
+- **August 1948, *Miguel Trujillo v. Garley*:** the U.S. District Court for the District of New
+  Mexico ruled the "Indians not taxed" exclusion unconstitutional.
+- **Utah was the last state to allow it, in 1957.**
+
+### PATCH 2026-09-30 (T-333f): Era 8, *Pierce*: who the Society of Sisters was
+
+Copied from `research/research-education.md` (the *Pierce* entry, opinion text verified at
+https://www.law.cornell.edu/supremecourt/text/268/510): "The two plaintiffs were the Society of the
+Sisters of the Holy Names of Jesus and Mary, which ran Catholic schools, and Hill Military Academy,
+which was not religious at all."
+
 ---
 
 # CHAPTER RESEARCH — eras 9 and 10, plus eras 1 and 2 (researched 2026-09-10)
@@ -2173,6 +2200,16 @@ All Handicapped Children Act, 1975"). Copied here as law, with those sources:
   children with disabilities," and Congress was concerned about "the more than 1 million children
   with disabilities excluded entirely from the education system." (https://sites.ed.gov/idea/IDEA-History ,
   as quoted in the education bank. The page returned HTTP 403 on 2026-09-27.)
+
+### PATCH 2026-09-30 (T-333f): Era 9, who could grant a charter under Minnesota's 1991 law
+
+Copied from `research/research-education.md` ("The first charter school law, and the first charter
+school"), which cites the Minnesota Legislative Reference Library, https://www.lrl.mn.gov/guides/charter.htm ,
+and Jon Schroeder, *Ripples of Innovation*, Progressive Policy Institute, ERIC ED491210,
+https://files.eric.ed.gov/fulltext/ED491210.pdf : a conference committee made compromises so the bill
+would pass, and under them **"only local school districts could grant a charter, and only eight
+charter schools were allowed in the whole state."** **Governor Arne Carlson signed it.** The first
+school to open was City Academy in St. Paul, in the autumn of 1992.
 
 ---
 
