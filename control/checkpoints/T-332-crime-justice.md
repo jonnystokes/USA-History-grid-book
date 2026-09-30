@@ -1,6 +1,6 @@
 # CHECKPOINT T-332 | crime-justice | audit (calibration run 2) | part2-1800s.md, eras 6-7
 
-STATUS: IN-FLIGHT
+STATUS: T-332s landed (director verified: PASS  crime-justice / prose)
 BRIEF:  control/briefs/CHECKER.md (sharpened after run 1)
 RUN:    T-332s sonnet checker -> control/audit/crime-justice/part2-findings-sonnet.md
         T-332o opus checker (same brief) -> control/audit/crime-justice/part2-findings-opus.md
