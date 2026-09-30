@@ -3416,3 +3416,8 @@ RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10
 
 ### 2026-09-29 | [LOCAL] Burst of 3 single writers done: marketplace, big-business, america-world PASS prose (359k, 424k, 438k tokens). Parked items filed into 7 banks (all validate 0; every written chapter still PASSES prose). 19 written. STOPPED.
 NOTE (Jon): one writer. T-313 slavery-freedom, single-writer mode.
+
+### 2026-09-27 | [LOCAL] T-313 | slavery-freedom: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-313-slavery-freedom.md
+VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
