@@ -32,7 +32,7 @@ or leave it out? (Blocks nothing until art is written.)
   across chapters. Start the longest chains first so they do not finish last.
 - **Single-writer mode** (DECISIONS #26): one writer does all ten eras and all three part files where the chapter
   fits. Measured: 360k-495k tokens, 18-28 min (about 22k-28k tokens per 1,000 words written), about 8% of a 5-hour window per chapter (T-313: 72% -> 80%).
-- Brief: `control/briefs/WRITER.md`. Model: opus. Checkpoint per chapter from `tools/mk_writer_checkpoint.py`.
+- Brief: `control/briefs/WRITER.md`. Model: opus. The director's prompt, cycle and sizing: `control/briefs/WRITER-DISPATCH.md`. Checkpoint per chapter from `tools/mk_writer_checkpoint.py`.
 
 ## STEP 2 queue: what is left
 

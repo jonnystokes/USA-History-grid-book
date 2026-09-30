@@ -3536,3 +3536,4 @@ The giants (religion ~84k, education ~114k, rights-movements ~131k) still split 
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-322-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+AGENT: aa4a8bb5a2e693da1 (salvage: python tools/salvage_agent.py aa4a8bb5a2e693da1 --tail)
