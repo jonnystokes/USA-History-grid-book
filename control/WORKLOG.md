@@ -3504,7 +3504,9 @@ RESULT: LANDED. FAIL  disasters / prose. measured: stage=WRITING ms_eras=7/10 wr
 AGENT: a56ac6cabca2d3b66 (salvage: python tools/salvage_agent.py a56ac6cabca2d3b66 --tail)
 
 ### 2026-09-30 | [LOCAL] T-320b | disasters: writer B, eras 8-10 (part3) + final | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-320-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage prose
+RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22570w files=3 validator_errors=0
+        303966 tokens, 90 tool uses, 12.9 min (opus). WRITER B: eras 8-10 + final, chapter PASS prose (22,570w, 12 stories). 6 PATCH, 17 outline claims left out, nothing OPEN. Fixed: search-summary figures, unsourced camp claims dropped, Freeman timeline, Alterman account.
 AGENT: a32d24d997528ba67 (salvage: python tools/salvage_agent.py a32d24d997528ba67 --tail)
