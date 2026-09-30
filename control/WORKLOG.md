@@ -3425,3 +3425,8 @@ RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/
         414225 tokens, 155 tool uses, 24.3 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (18,673w, 24 stories). Captivity vs slavery for life, Gualdape 1526, 1619 on Kecoughtan land, the Middle Passage, slave codes, flogging/branding/castration defined; NY 1712 and 1741, Stono, the Revolution, gradual abolition, Hemings; the domestic trade, revolts, the war, freedom, schools, Memphis/New Orleans/Colfax, convict leasing; Jim Crow and forced labor, the recorded voices, Roots, reparations, 2025-26 park cases. 26 PATCH (16 new, 10 parked), 1 not found, 7 outline claims left out. Fixed: institutions as actors ('the 13th Amendment ended slavery', 'Colfax killed'), source conflicts stated, 1790 census figure reconciled.
 USAGE AT START (T-313): 70% (Jon). A clean single-writer reading: nothing else running.
 USAGE (T-313, clean single writer): 72% -> 80% = 8% for a whole chapter (Jon corrected the start from 70 to 72). Similar to two writers per chapter (6-8%): single writers save tokens (~30%) but not much window percentage. Jon: one at a time for now. T-314 styles next.
+
+### 2026-09-27 | [LOCAL] T-314 | styles: ONE writer, all 10 eras | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-314-styles.md
+VERIFY: python tools/project_state.py --check styles --stage prose
