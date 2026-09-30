@@ -3522,3 +3522,4 @@ too; the checkpoint log per era makes an interrupted single writer resumable.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-321-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+AGENT: a8fb4870a9f8d9c7b (salvage: python tools/salvage_agent.py a8fb4870a9f8d9c7b --tail)
