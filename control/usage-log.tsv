@@ -256,3 +256,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-320b	prose	general-purpose/opus	[LOCAL] disasters: WRITER B: eras 8-10 + final, chapter PASS prose (22,570w, 12 stories). 6 PATCH, 	?	?	?	303966	90	773199	?	completed	PASS  disasters / prose
 2026-09-30	T-321	prose	general-purpose/opus	[LOCAL] war: SINGLE WRITER (experiment, ~54k slice): all 10 eras, PASS prose (22,339w, 19 sto	?	?	?	448096	121	1117670	?	completed	PASS  war / prose
 2026-09-30	T-322	prose	general-purpose/opus	[LOCAL] news-communication: SINGLE WRITER: all 10 eras, PASS prose (20,945w, 23 stories). 9 PATCH, 1 not fou	?	?	?	408787	150	1041011	?	completed	PASS  news-communication / prose
+2026-09-30	T-323	prose	general-purpose/opus	[LOCAL] music: SINGLE WRITER (~60k slice): all 10 eras, PASS prose (23,685w, 27 stories). 3 PAT	?	?	?	405309	113	910864	?	completed	PASS  music / prose

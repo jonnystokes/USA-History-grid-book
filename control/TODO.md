@@ -11,7 +11,6 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-323 music (ONE writer, all 10 eras)
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 29 chapters written and passing `--stage prose`, 8 to go. Nothing in flight. T-323 music running (single writer). Art goes last in the Large group, after Jon answers the Wiley question.

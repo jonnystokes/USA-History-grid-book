@@ -3541,7 +3541,9 @@ RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=
 AGENT: aa4a8bb5a2e693da1 (salvage: python tools/salvage_agent.py aa4a8bb5a2e693da1 --tail)
 
 ### 2026-09-30 | [LOCAL] T-323 | music: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-323-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=27 (verified 27) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23685w files=3 validator_errors=0
+        405309 tokens, 113 tool uses, 15.2 min (opus). SINGLE WRITER (~60k slice): all 10 eras, PASS prose (23,685w, 27 stories). 3 PATCH, 22 outline claims left out, nothing OPEN. Fixed: 4 unsupported outline claims narrowed, duplicate Parton section merged.
 AGENT: abe5d14013351f7fa (salvage: python tools/salvage_agent.py abe5d14013351f7fa --tail)
