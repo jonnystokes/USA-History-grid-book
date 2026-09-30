@@ -249,3 +249,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-314	research	general-purpose/opus	[LOCAL] styles: SINGLE WRITER: all 10 eras, chapter PASSES prose (16,665w, 16 stories). Native d	?	?	?	369964	137	1078372	?	completed	PASS  styles / prose
 2026-09-29	T-315	prose	general-purpose/opus	[LOCAL] government-politics: SINGLE WRITER: all 10 eras, PASS prose (21,902w, 14 stories). 17 PATCH, 1 not fo	?	?	?	493106	174	1650175	?	completed	PASS  government-politics / prose
 2026-09-29	T-316	prose	general-purpose/opus	[LOCAL] exploration: SINGLE WRITER: all 10 eras, PASS prose (18,990w, 35 stories). WEB BLOCKED (usage	?	?	?	342316	82	1065606	?	completed	PASS  exploration / prose
+2026-09-30	T-317	prose	general-purpose/opus	[LOCAL] holidays: SINGLE WRITER: all 10 eras, PASS prose (~14,870w, 9 stories). 6 PATCH, 0 not fou	?	?	?	353405	86	860967	?	completed	PASS  holidays / prose

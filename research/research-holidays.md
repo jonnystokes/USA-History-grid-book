@@ -254,6 +254,21 @@ How the prose can say it: "The records do not show whether the settlers held the
 - "Firsts" in the outline and their sources: first planned Fourth celebrations 1777 (Mount Vernon); Massachusetts first state Fourth holiday 1781 (Mount Vernon); Hercules 1749 first known Black governor name (CT State Library says elections "possibly as early as 1749"; outline says "first known name", which matches); "oldest continuous" Fourth (attributed to the town and committee); Young 1841 (attributed to Plimoth, 1816 item added); Pinkster 1737 "oldest known written account" (Historic Hudson Valley). The seed's "first Fourth of July celebration, 1777 [VERIFY]" is cleared.
 - Perishable: Celilo First Salmon Feast date and Aquinnah Cranberry Day describe current practice (sources 2013 to 2019 pages). No 2000-today facts in these eras.
 
+### PATCH 2026-09-30 (T-317): Ponce de León and the name Florida (era 2)
+- USF FCIT, "April 2: La Florida Claimed for Spain" (https://fcit.usf.edu/project/1513/, WebFetch read): "On this date in 1513" (2 April) Juan Ponce de León claimed Florida for Spain. He named it "La Florida" because it was the Easter season, *Pascua Florida* in Spanish, and the land was full of plants. This confirms the era 2 place-name line (its search-summary tag is now cleared for these facts).
+
+### PATCH 2026-09-30 (T-317): the people of the Berkeley Hundred land (era 3)
+- Charles City County, "History" (https://charlescity.org/learn/history/, WebFetch read): "Charles City was home to the Chickahominy, Paspahegh and Weyanock Native Americans when the Susan Constant, the Godspeed and the Discovery entered the mouth of the Chesapeake Bay in 1607." Berkeley Hundred lay in what became Charles City County, on the north bank of the James (Berkeley Plantation; Wikipedia "Berkeley Hundred", search listing). The county page does not say which of the three nations held the Berkeley tract itself. Prose: "The land was home to Native nations, among them the Chickahominy, Paspahegh and Weyanock." Not "the Weyanock's land", which stays search summary only.
+
+### PATCH 2026-09-30 (T-317): Washington's birth date and the calendar change (era 5)
+- National Park Service, "George Washington's Birthday" (https://www.nps.gov/articles/000/george-washington-s-birthday.htm, WebFetch read): a young Washington "would reply February 11, 1731"; "we celebrate his birthday as February 22, 1732"; Great Britain switched from the Julian to the Gregorian calendar, "dropping eleven days from the middle of September in 1752", the calendar jumping "from September 2nd to September 14th". Clears the era 5 search-summary tag on the birth date.
+
+### PATCH 2026-09-30 (T-317): Newell's claim as reported by Bangs (era 3)
+- Jeremy Bangs, History News Network, 2005 (https://historynewsnetwork.org/article/15002, WebFetch read): quotes William B. Newell, identified as a Penobscot Indian and former head of anthropology at the University of Connecticut: "the first official Thanksgiving Day commemorated the massacre of 700 Indian men, women and children during one of their religious ceremonies." Bangs replies that Newell was never head of that department (it was founded in 1971, when Newell was 79) and that Plymouth took no part in the Mystic attack. Prose may state Newell's claim in these words, attributed, and Bangs's reply.
+
+### Writer decisions, eras 1 to 5 (T-317, 2026-09-30)
+- Left out as still search summary only, too small to chase: the busk's Creek root *puskita*; the Winthrop journal line (the Court Records carry the 1637 thanksgivings); Pope's Night gang fights "from the 1740s"; Massachusetts Black elections from 1741; Wight's 43 years and 40 speeches; Proctor's artillery band at Valley Forge; the drafters of the 1777 proclamation; Opechancanough as leader of the 1622 attack; Newell's exact words (reported as a claim he made, attributed, with the dispute).
+
 ---
 
 ## Era 06: 1800 to 1850 (T-273b, 2026-09-28)
@@ -372,6 +387,10 @@ How the prose can say it: "The records do not show whether the settlers held the
 - Christmas shopping and department-store Santas in the 1890s: not researched.
 
 ---
+
+### PATCH 2026-09-30 (T-317): how the Charleston race course prisoners died (era 7)
+- National Endowment for the Humanities, *Humanities* magazine, September/October 2012, "The Living and the Dead" (https://www.neh.gov/humanities/2012/septemberoctober/feature/the-living-and-the-dead, WebFetch read): the race course infield was "an open-air prison for Union soldiers"; citing David Blight, "at least 257 died of exposure and disease and were hastily buried in a mass grave behind the former judge's stand." Exposure means being left outdoors without shelter from cold and weather. The page gives no dates for the prison.
+- Search listing (History.com, Zinn Education Project) says "more than 260" died of disease and exposure in the open-air infield (unconfirmed: search summary only). Use NEH's "at least 257".
 
 ## Era 08: 1900 to 1950 (T-273b, 2026-09-28)
 
@@ -585,6 +604,9 @@ How the prose can say it: "Susan Merritt remembered seeing Black people hanging 
 - Columbus statues removed in 2020: only through Trump's 2025 proclamation language. Who removed which statue: not researched.
 
 ---
+
+### PATCH 2026-09-30 (T-317): the officer who killed George Floyd (era 10)
+- From `research/research-crime-justice.md` (item 2) and `research/research-rights-movements.md` §10.7: Derek Chauvin's signed federal plea agreement, US District Court, District of Minnesota, case 0:21-cr-00108-PAM-TNL, doc. 142, filed 15 December 2021 (justice.gov), in which Chauvin admitted the facts of 25 May 2020. Prose may name him as the Minneapolis police officer who killed George Floyd on 25 May 2020. Those chapters tell the killing.
 
 ## Bank check, eras 9 and 10 (T-273c, 2026-09-28)
 
