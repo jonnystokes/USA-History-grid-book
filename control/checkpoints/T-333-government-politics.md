@@ -13,3 +13,4 @@ NEXT:   director fills calibration run 3 and writes the verdict for Jon
 ## Log
 - T-333s sonnet: 160 findings (7 B / 25 M / 128 m), 266k tokens, 30 tools, 9.4 min.
 - T-333o opus: 143 findings (4 B / 37 M / 102 m), 274k tokens, 33 tools, 12.4 min.
+- Rulings given to T-333f: House/Senate may not act (name members); a law may be described by its text (bans, requires, allows) but may not act in the world; hard words defined at first use in each part file; clinical words per §3b.
