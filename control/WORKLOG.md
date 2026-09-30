@@ -3724,7 +3724,9 @@ RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras
 AGENT: ab7db532e3fcf0e13 (salvage: python tools/salvage_agent.py ab7db532e3fcf0e13 --tail)
 
 ### 2026-09-30 | [LOCAL] T-334 | exploration: CHECKER sonnet, part1 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage prose
+RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=35 (verified 35) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18990w files=3 validator_errors=0
+        215452 tokens, 22 tool uses, 7.8 min (sonnet). CHECKER sonnet part1: 88 findings (15 B, 15 M, 58 m)
 AGENT: acd7795caacb30131 (salvage: python tools/salvage_agent.py acd7795caacb30131 --tail)
