@@ -3565,7 +3565,9 @@ RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 w
 AGENT: ae73ed5671bc11414 (salvage: python tools/salvage_agent.py ae73ed5671bc11414 --tail)
 
 ### 2026-09-30 | [LOCAL] T-326 | health: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-326-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+RESULT: DONE. PASS  health / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=19504w files=3 validator_errors=0
+        369335 tokens, 127 tool uses, 15.1 min (opus). SINGLE WRITER: all 10 eras, PASS prose (19,504w, 23 stories). 3 PATCH, 1 not found (Sims infant operations, round-2 candidate), 0 outline claims left out, nothing OPEN. Fixed: institutions as actors, 'smallpox is a virus', Jamestown typhoid claim.
 AGENT: ac1ff4ea39d4ac642 (salvage: python tools/salvage_agent.py ac1ff4ea39d4ac642 --tail)
