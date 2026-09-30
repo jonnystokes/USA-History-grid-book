@@ -2460,3 +2460,13 @@ DECISIONS #16: jewish-refugees-1654 was converted from an hb-story to an hb-zoom
 MEASURED: PASS immigration / prose, 20 stories verified, 16,174w, emdash=0 semicolon=0,
   validator 0 errors on both edited parts. Slug tung-trinh is unique.
 STOPPED again after this, per Jon.
+
+### 2026-09-30 | [CLOUD] SESSION 2: RESUMED (Jon: "keep going through the whole to-do list")
+Jon authorized unattended work, one agent at a time, through the TODO queue. Measured at start:
+7 WRITTEN, 5 RESEARCHED, 13 RESEARCHED*, 11 SEED, 1 PARTIAL. Manuscript 110,177 words.
+
+### 2026-09-30 | [CLOUD] T-243e | economy: close the 19 collected BLOCKING GAPS (fresh start)
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-243-economy.md, "BLOCKING GAPS" (unit 5)
+BRIEF: control/briefs/GAPS.md + cloud lines. Base commit before dispatch: see git log.
+VERIFY: economy still PASSES research and prose. Gaps marked CLOSED or GENUINELY UNKNOWN.

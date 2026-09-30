@@ -5,16 +5,17 @@ decision, and before any window closes. Commit and push it with the ledger. It i
 director's to-do list. The measured truth is still `python tools/project_state.py`, and the
 record of what happened is still `control/WORKLOG.md`.
 
-Last updated: 2026-09-26 (CLOUD, session 1)
+Last updated: 2026-09-30 (CLOUD, session 2)
 
 ---
 
 ## NOW
 
-**STOPPED (Jon, 2026-09-26).** The $100 gift is used up, and work waits for Jon's funding.
-Nothing is in flight. Do not dispatch anything until Jon says to resume.
+**RUNNING (Jon, 2026-09-30): work through the queue one agent at a time, unattended.** Jon
+is away. After each agent: verify, compare with earlier agents, document, then dispatch the
+next. On "usage has reset", run the resume procedure (CLOUD-WORKFLOW §4) before anything else.
 
-**Next task when work resumes: T-243e, NOT STARTED.** Close economy's 19 blocking gaps (brief
+**IN FLIGHT: T-243e (dispatched 2026-09-30).** Close economy's 19 blocking gaps (brief
 `control/briefs/GAPS.md`, checkpoint `control/checkpoints/T-243-economy.md`). economy already
 PASSES prose and research, so this improves it and is not required for the gate.
 

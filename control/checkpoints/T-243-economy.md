@@ -18,7 +18,7 @@ SUBJECT NOTES for the bank check: the angle is how the country makes its living 
         economy's base and its numbers.
         PERISHABLE: 2000-today figures (GDP, unemployment, inflation) must be dated, current to 2026.
 
-NOW:    T-243d landed 2026-09-26 (part3, eras 8-10, about 4,950 prose words, validator clean, punct 0/0, --check economy --stage prose PASS).
+NOW:    T-243e dispatched 2026-09-30 (unit 5, not yet started). Gaps are worked in the order listed.
 NEXT:   T-243e: close the collected BLOCKING GAPS
 
 ## Units
