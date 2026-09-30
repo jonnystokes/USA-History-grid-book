@@ -3418,7 +3418,9 @@ RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10
 NOTE (Jon): one writer. T-313 slavery-freedom, single-writer mode.
 
 ### 2026-09-27 | [LOCAL] T-313 | slavery-freedom: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-313-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=24 (verified 24) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18673w files=3 validator_errors=0
+        414225 tokens, 155 tool uses, 24.3 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (18,673w, 24 stories). Captivity vs slavery for life, Gualdape 1526, 1619 on Kecoughtan land, the Middle Passage, slave codes, flogging/branding/castration defined; NY 1712 and 1741, Stono, the Revolution, gradual abolition, Hemings; the domestic trade, revolts, the war, freedom, schools, Memphis/New Orleans/Colfax, convict leasing; Jim Crow and forced labor, the recorded voices, Roots, reparations, 2025-26 park cases. 26 PATCH (16 new, 10 parked), 1 not found, 7 outline claims left out. Fixed: institutions as actors ('the 13th Amendment ended slavery', 'Colfax killed'), source conflicts stated, 1790 census figure reconciled.
 USAGE AT START (T-313): 70% (Jon). A clean single-writer reading: nothing else running.
