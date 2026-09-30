@@ -3740,7 +3740,9 @@ RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 w
 AGENT: ab34de29c3cb66705
 
 ### 2026-09-30 | [LOCAL] T-336 | exploration: CHECKER sonnet, part3 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage prose
+RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=35 (verified 35) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18990w files=3 validator_errors=0
+        187815 tokens, 21 tool uses, 5.6 min (sonnet). CHECKER sonnet part3: 83 findings (6 B, 2 M, 75 m)
 AGENT: ac3a6b9962c713878
