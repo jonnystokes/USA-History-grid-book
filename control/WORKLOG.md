@@ -3544,3 +3544,4 @@ AGENT: aa4a8bb5a2e693da1 (salvage: python tools/salvage_agent.py aa4a8bb5a2e693d
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-323-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+AGENT: abe5d14013351f7fa (salvage: python tools/salvage_agent.py abe5d14013351f7fa --tail)
