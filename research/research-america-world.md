@@ -900,6 +900,56 @@ they were not read; the two sources above cover every fact below.
 
 The Mexican-American War's American death toll is usually given as about **13,000**, the great majority from disease rather than combat; Mexican military and civilian death estimates are far less firmly counted. **This bank did not verify a specific figure — do not state one as verified.** Either leave the number out or mark it `[VERIFY]` for the prose pass. `war` leads on casualties.
 
+### PATCH 2026-09-29 (T-312): Florida, 1818 to 1819, and who lived there
+
+- Office of the Historian, US Department of State, *Acquisition of Florida: Treaty of
+  Adams-Onis (1819) and Transcontinental Treaty (1821)* (read directly via curl,
+  https://history.state.gov/milestones/1801-1829/florida): in 1818 General **Andrew
+  Jackson** "seized the Spanish forts at Pensacola and St. Marks in his 1818 authorized
+  raid against **Seminoles and escaped slaves** who were viewed as a threat to Georgia."
+  Jackson "executed two British citizens on charges of inciting the Indians and runaways."
+  Adams defended Jackson, and "used the Jackson's military action to present Spain with a
+  demand to either control the inhabitants of East Florida or cede it to the United
+  States." Spain ceded East Florida and renounced West Florida. "Spain received no
+  compensation, but the United States agreed to assume liability for **$5 million** in
+  damage done by American citizens who rebelled against Spain." The treaty also fixed the
+  western limit of the Louisiana Purchase, Spain gave up its claims to the Pacific
+  Northwest, and the United States recognized Spanish rule over Texas. Ratified 1821.
+
+### PATCH 2026-09-29 (T-312): Article XI of the Treaty of Guadalupe Hidalgo, in its own words
+
+- Treaty text, National Park Service, Chamizal National Memorial (read directly via curl,
+  https://www.nps.gov/cham/learn/historyculture/guadalupehidalgo.htm), Article XI:
+  "Considering that a great part of the territories, which, by the present treaty, are to
+  be comprehended for the future within the limits of the United States, is now occupied
+  by savage tribes, who will hereafter be under the exclusive control of the Government of
+  the United States, and whose incursions within the territory of Mexico would be
+  prejudicial in the extreme, it is solemnly agreed that all such incursions shall be
+  forcibly restrained by the Government of the United States." It also made it unlawful for
+  anyone in the United States to buy a Mexican "who may have been captured by Indians."
+- So the treaty itself records that "a great part" of the ceded land was lived on by Native
+  nations, and places them under "the exclusive control" of the US government. They were not
+  parties to the treaty (it is between the two republics).
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-312): which Native nations lived in the Mexican Cession, by name, from a page that could be opened
+Sources checked: Colorado Encyclopedia, *Treaty of Guadalupe Hidalgo* (page returned empty to
+the reader); Smithsonian NMAI, *The Long Walk* (HTTP 403, then a Smithsonian outage page);
+NPS Chamizal PDF on the war (returned an HTML page, not the PDF); NPS *Lasting effects*
+teacher page (no Native names in the text returned); Sam Houston State University,
+HistoricalMX, *Amerindians and the Treaty of Guadalupe Hidalgo* (read: names the Comanche
+and Kiowa as raiders in northern Mexico in the 1830s and 1840s, and the Tohono O'odham as
+affected by the treaty). Search summaries name the Apache, Navajo (Diné), Comanche, Ute,
+Pueblo and O'odham peoples **(unconfirmed: search summary only)**. The prose can say, from
+Article XI above, that the treaty itself records Native nations living on "a great part" of
+the land, and can name the Tohono O'odham from HistoricalMX. Do not list the others.
+
+### SEARCHED, NOT FOUND 2026-09-29 (T-312): which Native nations lived in the Louisiana Purchase, by name, from a page that could be opened
+Sources checked: Monticello, *President Jefferson and the Indian Nations* (HTTP 403 to both
+readers); search results pointed only to school-lesson and commercial sites. Search summaries
+name the Osage, Lakota, Mandan, Hidatsa, Arikara, Pawnee, Cheyenne, Arapaho and others
+**(unconfirmed: search summary only)**. The prose keeps the bank's wording: Native nations
+lived across the land and were not party to the sale. Name none. `native-nations` leads.
+
 ---
 
 ## ERA 07 — 1850 to 1900
@@ -1052,6 +1102,42 @@ army-history magazine, label it).
 
 - The 1899 Tripartite Convention divided the Samoan islands between the United States and Germany. **The chiefs of Tutuila signed a Deed of Cession on April 17, 1900**; **Tui Manuʻa Elisala signed the cession of the Manuʻa islands on July 16, 1904**; **Congress did not ratify either until 1929.** ([Wikipedia — Treaty of Cession of Tutuila](https://en.wikipedia.org/wiki/Treaty_of_Cession_of_Tutuila) and [Treaty of Cession of Manuʻa](https://en.wikipedia.org/wiki/Treaty_of_Cession_of_Manu'a) — encyclopedia, labeled; [U.S. Department of the Interior, Office of Insular Affairs — American Samoa](https://www.doi.gov/oia/islands/american-samoa) for the resulting status.) **This clears the outline's [VERIFY] on "American Samoa from 1900" — the Tutuila deed is 1900, Manuʻa is 1904, and Congress ratified in 1929.**
 - The Navy governed American Samoa from 1900 until 1951.
+
+### PATCH 2026-09-29 (T-312): Sitka was Tlingit land, and what American rule did there, 1867 to 1882
+
+- National Park Service, *American Flag Raising Site National Historic Landmark* (read
+  directly via curl, https://www.nps.gov/places/american-flag-raising-site.htm): Castle Hill
+  at Sitka was the site of the formal transfer on October 18, 1867, "the Nation's first
+  expansion into non-contiguous territory." In **1804** Alexander Baranov, the first
+  governor of Russian America, attacked Castle Hill "to secure it from the **Kiksadi clan of
+  the Tlingits**." After a six-day battle "the Russians seizing and burning the Kiksadi's
+  fort." Russians held the site from then on.
+- Rebecca Poulson (historian, member of the Alaska Historical Commission), "The Legacy of
+  Sitka's First Ten Years Under the American Flag, 1867-1877," Alaska Historical Society
+  (read directly via curl,
+  https://alaskahistoricalsociety.org/about-ahs/special-projects/150treaty/150th-resource-library/new-articles/the-legacy-of-sitkas-first-ten-years-under-the-american-flag-1867-1877/):
+  - In 1867 Sitka was a "Russian colony with an adjacent **Tlingit** village." The Russian
+    American Company "had to work with the Indigenous Tlingit people in order to stay in
+    southeastern Alaska," and paid compensation for deaths, following Tlingit law, "which
+    entails compensation rather than punishment."
+  - "Tlingit control of southeastern Alaska ended with the transfer in 1867." "American
+    authorities considered Native people 'savages' and inferior, and did not allow them to be
+    citizens." Alaska got no civil government until 1884, "after 17 years of American
+    occupation," ruled by the Army, then the Treasury Department, then the Navy.
+  - **Kake, early 1869:** "the Army at Sitka refused to compensate relatives for accidental
+    deaths of two men from Kake. The relatives then killed two whites. The **USS Saginaw**
+    then shelled and burned all but one of the **29 clan houses** of the Kake villages." At
+    Wrangell, after a similar refusal and a killing, "the Army then shelled the village of
+    Kaachx an.áak'w."
+  - **Angoon, 1882:** "the USRC Corwin destroyed most of the village of Angoon, resulting
+    from a request for compensation for accidental deaths." (USRC = US Revenue Cutter.)
+  - The article gives no count of people killed at Kake, Wrangell or Angoon, and does not
+    name the commanding officers.
+
+### Guam's people, for era 07 wording
+
+- The bank's era 08 lines (Guampedia) name the **CHamoru** people as the people of Guam.
+  Era 07 prose may name them as the people living on Guam when Spain handed it over.
 
 ---
 
@@ -1395,6 +1481,23 @@ them.
   forces did the killing.** Keep both facts, and keep who did what.
 - How Allende died on September 11, 1973 was not researched in this pass. Do not state it.
 
+### PATCH 2026-09-29 (T-312): the Cuban Missile Crisis, October 1962
+
+- Office of the Historian, US Department of State, *The Cuban Missile Crisis, October 1962*
+  (read directly via curl, https://history.state.gov/milestones/1961-1968/cuban-missile-crisis):
+  "the moment when the two superpowers came closest to nuclear conflict." In **July 1962**
+  Soviet premier **Nikita Khrushchev** and Cuban premier **Fidel Castro** secretly agreed to
+  place Soviet nuclear missiles in Cuba "to deter any future invasion attempt" (after the
+  failed US-backed Bay of Pigs invasion). On **October 14** a US U-2 spy plane photographed
+  missile sites under construction. On **October 22** President **John F. Kennedy** ordered a
+  naval "quarantine" of Cuba and told the public on television. US forces went to DEFCON 2,
+  "meaning war involving the Strategic Air Command was imminent." On **October 27** a U-2 was
+  shot down over Cuba. Kennedy offered a promise not to attack Cuba in return for removal of
+  the missiles, and **Robert Kennedy** privately told Soviet Ambassador **Anatoly Dobrynin**
+  that US Jupiter missiles would be removed from Turkey, though not as part of any public
+  deal. On **October 28** Khrushchev announced the missiles would be taken out of Cuba. The
+  quarantine ended **November 20, 1962**. The Jupiter missiles left Turkey in **April 1963**.
+
 ### Two territories become states, 1959
 
 - **Alaska admitted January 3, 1959** (49th state); **Hawaii admitted August 21, 1959** (50th). ([Smithsonian Magazine on Alaska statehood](https://www.smithsonianmag.com/smart-news/on-this-day-in-1959-alaskaone-of-americas-riskiest-investmentsbecame-the-49th-state-in-the-union-180985757/); [Eisenhower Presidential Library — Alaska Statehood](https://www.eisenhowerlibrary.gov/research/online-documents/alaska-statehood).)
@@ -1455,6 +1558,45 @@ them.
 - **Guam's own status fight.** A Guam plebiscite limited to "Native Inhabitants of Guam" was struck down in federal court (*Davis v. Guam*, Ninth Circuit, 2019) as a race-based voting restriction, leaving Guam without a way to hold the decolonization vote it wants. *(`[VERIFY]` before printing — not separately sourced in this pass.)*
 
 ---
+
+### PATCH 2026-09-29 (T-312): trade dates checked (clears two [VERIFY] items)
+
+- World Trade Organization press release 252, 10 November 2001 (read directly via curl,
+  https://www.wto.org/english/news_e/pres01_e/pr252_e.htm): the WTO Ministerial Conference
+  "approved today (10 November) by consensus the text of the agreement for China's entry into
+  the WTO." China would become a member "30 days after the WTO receives notification of the
+  ratification of the agreement by China's Parliament." The page does not give the day
+  membership began. **Write "WTO members approved China's entry on November 10, 2001, and it
+  joined at the end of that year," or give only the approval date.**
+- Office of the US Trade Representative, *United States-Mexico-Canada Agreement* (read
+  directly via curl, https://ustr.gov/trade-agreements/free-trade-agreements/united-states-mexico-canada-agreement):
+  "The United States-Mexico-Canada Agreement (USMCA) entered into force on **July 1, 2020**.
+  The USMCA, which substituted the North America Free Trade Agreement (NAFTA)."
+- Tariffs as policy from 2018 and 2025 (outline claim): **not sourced**. Leave out.
+
+### PATCH 2026-09-29 (T-312): 2025 and 2026 military actions abroad, copied from the war bank's read sources
+
+Copied from `research/research-war.md` (T-259 and T-259b PATCH sections), where each source
+was read directly on 2026-09-27. Sources as named there:
+- **Venezuela, January 3, 2026:** "US special operations forces took Venezuela's president
+  Nicolás Maduro and his wife out of Caracas; it went ahead without prior approval from
+  Congress" (Brookings, *Making sense of the US military operation in Venezuela*, January 5,
+  2026, https://www.brookings.edu/articles/making-sense-of-the-us-military-operation-in-venezuela/).
+- **Iran:** "A war with Iran began **February 28, 2026**, with US and Israeli bombing" (Al
+  Jazeera, March 10, 2026). **US dead:** the Pentagon's public database (DCAS) showed **19** US
+  deaths on **September 22, 2026**. More than **820** had been wounded. Five US officials told
+  the *Washington Post* that **at least 22** service members had died in the Middle East since
+  the war began, and a sixth said 23. Not all of those deaths were from fighting (Tara Copp and
+  others, *Washington Post*, September 22, 2026, reprinted in the Spokesman-Review). The war's
+  later course (ceasefire, memorandum, renewed strikes September 1, 2026) is search summary
+  only **(unconfirmed: search summary only)**. No count of Iranian dead is in either bank.
+- **Boat strikes:** from **September 2, 2025** the US military struck boats in the Caribbean
+  Sea and eastern Pacific that the Trump administration said carried drugs. By **September 19,
+  2026** the strikes had killed **at least 231 people in 69 strikes**. "The military did not
+  provide evidence that the vessel was ferrying drugs" (Associated Press, via NBC News,
+  September 19, 2026). The ACLU, suing for the families of **Chad Joseph** and **Rishi
+  Samaroo** of Trinidad, killed in a strike on October 14, 2025, says they were fishermen and
+  farmhands (ACLU press page, advocacy).
 
 ### PATCH 2026-09-27 (T-254): perishable figures refreshed to September 2026
 

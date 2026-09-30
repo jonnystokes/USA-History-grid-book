@@ -244,3 +244,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-309	research	general-purpose/opus	[LOCAL] work-workers: SINGLE-WRITER TRIAL: all 10 eras, 3 files, chapter PASSES prose (14,452w, 17 sto	?	?	?	362602	149	1215285	?	completed	PASS  work-workers / prose
 2026-09-27	T-310	research	general-purpose/opus	[LOCAL] marketplace: SINGLE WRITER: all 10 eras, chapter PASSES prose (13,548w, 17 stories). The Dall	?	?	?	358848	123	1117304	?	completed	PASS  marketplace / prose
 2026-09-27	T-311	research	general-purpose/opus	[LOCAL] big-business: SINGLE WRITER: all 10 eras, chapter PASSES prose (15,949w, 14 stories). Chartere	?	?	?	423896	141	1360983	?	completed	PASS  big-business / prose
+2026-09-27	T-312	research	general-purpose/opus	[LOCAL] america-world: SINGLE WRITER: all 10 eras, chapter PASSES prose (~15,600w, 13 stories). Tordesi	?	?	?	437871	179	1386819	?	completed	PASS  america-world / prose
