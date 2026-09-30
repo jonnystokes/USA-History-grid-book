@@ -11,6 +11,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-327a religion (writer A, eras 1-7 (part1, part2))
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 33 chapters written and passing `--stage prose`, 4 to go. Nothing in flight. T-327 religion running (writer A eras 1-7, then writer B eras 8-10). Art waits for Jon's Wiley answer. Art goes last in the Large group, after Jon answers the Wiley question.
