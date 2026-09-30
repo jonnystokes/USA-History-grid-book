@@ -3510,3 +3510,10 @@ VERIFY: python tools/project_state.py --check disasters --stage prose
 RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22570w files=3 validator_errors=0
         303966 tokens, 90 tool uses, 12.9 min (opus). WRITER B: eras 8-10 + final, chapter PASS prose (22,570w, 12 stories). 6 PATCH, 17 outline claims left out, nothing OPEN. Fixed: search-summary figures, unsourced camp claims dropped, Freeman timeline, Alterman account.
 AGENT: a32d24d997528ba67 (salvage: python tools/salvage_agent.py a32d24d997528ba67 --tail)
+
+### 2026-09-30 | [LOCAL] Director note: single vs two writers, measured
+disasters with two writers: 286k + 304k = 590k tokens, 24.8 min, 22,570 words = 26.1k tokens per 1,000 words.
+crime-justice with one writer: 479k tokens, 24.2 min, 23,057 words = 20.8k per 1,000 words.
+Two writers cost ~25% more (both read the style files and the brief). Experiment: war (~54k slice words) with ONE
+writer, the largest single-writer slice yet. If it lands cleanly, news-communication and the Large group go single
+too; the checkpoint log per era makes an interrupted single writer resumable.
