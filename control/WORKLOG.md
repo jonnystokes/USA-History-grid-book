@@ -3700,7 +3700,9 @@ RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10
 AGENT: af3e48742bf0332a7 (salvage: python tools/salvage_agent.py af3e48742bf0332a7 --tail)
 
 ### 2026-09-30 | [LOCAL] T-333s | government-politics: CHECKER sonnet, part3 (calibration run 3) | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-333-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21902w files=3 validator_errors=0
+        265575 tokens, 30 tool uses, 9.3 min (sonnet). CHECKER sonnet, part3: 160 findings (7 BLOCKING, 25 MAJOR, 128 MINOR). Top: personification 45, Not in bank 34, hard words 24.
 AGENT: afcbdd97f38b8755a (salvage: python tools/salvage_agent.py afcbdd97f38b8755a --tail)
