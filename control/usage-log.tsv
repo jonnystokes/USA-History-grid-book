@@ -274,3 +274,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-331f	prose	general-purpose/opus	[LOCAL] native-nations: FIXER opus, part1: sonnet 79 fixed/18 rejected/4 research; opus 78/5/2. Unique r	?	?	?	363536	111	983441	?	completed	PASS  native-nations / prose
 2026-09-30	T-332s	prose	general-purpose/sonnet	[LOCAL] crime-justice: CHECKER sonnet, part2: 89 findings (12 BLOCKING, 5 MAJOR, 72 MINOR). Top: Not in	?	?	?	222237	17	502540	?	completed	PASS  crime-justice / prose
 2026-09-30	T-332o	prose	general-purpose/opus	[LOCAL] crime-justice: CHECKER opus, part2: 79 findings (7 BLOCKING, 17 MAJOR, 55 MINOR). Top: reader 2	?	?	?	195125	24	444936	?	completed	PASS  crime-justice / prose
+2026-09-30	T-332f	prose	general-purpose/opus	[LOCAL] crime-justice: FIXER opus, part2: sonnet 75 fixed/11 rejected/3 research; opus 77/1/1. Unique r	?	?	?	306196	91	841214	?	completed	PASS  crime-justice / prose
