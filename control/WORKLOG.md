@@ -3359,3 +3359,8 @@ RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 
 
 ### 2026-09-29 | [LOCAL] Burst of 3 done: home-family, transportation, food-farming PASS prose. 13 written. PAUSED; nothing in flight.
 NOTE (Jon): burst of 3 used 85% -> 93% (~2.7% each). One agent (T-307b), then PAUSE.
+
+### 2026-09-27 | [LOCAL] T-307b | migration: writer B: eras 8-10 prose (part3), completes the chapter | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/T-307-migration.md
+VERIFY: python tools/project_state.py --check migration --stage prose
