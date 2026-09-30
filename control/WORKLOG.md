@@ -3401,9 +3401,11 @@ RESULT: DONE. PASS  marketplace / prose. measured: stage=WRITTEN ms_eras=10/10 w
         358848 tokens, 123 tool uses, 18.6 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (13,548w, 17 stories). The Dalles, copper kettles, market days, Wall Street slave market, boycotts, Seider, Barnum and Joice Heth, Singer, department stores, Weeping Time, Winslow's syrup, mail order, Woolworth, company stores, rationing, malls, Walton, Bezos, Renica Turner. 9 PATCH, 0 not found, 20 outline claims left out. Fixed: captives traded at The Dalles, 'nothing carried a price' dropped, Heth's autopsy actors named (Barnum, Dr. David L. Rogers, 1,500 spectators), installment 'first' narrowed, company-store debt attributed.
 
 ### 2026-09-27 | [LOCAL] T-311 | big-business: ONE writer, all 10 eras [BURST3] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-311-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+RESULT: DONE. PASS  big-business / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15949w files=3 validator_errors=0
+        423896 tokens, 141 tool uses, 22.7 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (15,949w, 14 stories). Chartered companies incl. the Royal African Company (branding defined), Apthorp's slave trade, Tea Act, Bank of North America; incorporation laws, Dartmouth, Lowell, Bank War, railroads and land grants, trusts, Homestead, Sherman Act; mergers, 1911 breakups, Ludlow, leaded gasoline, SEC; GM, ITT, lobbying, tobacco, asbestos, Bhopal, Bell breakup; 2000-today dated. 11 PATCH, ~40 outline claims left out. Fixed: every bank CORRECTION followed, 'companies sent troops' given named actors, railroads-vs-governments narrowed, 'invented the trust' corrected, land added (Massachusett, Ojibwe at Mesabi, Pennacook).
 
 ### 2026-09-27 | [LOCAL] T-312 | america-world: ONE writer, all 10 eras [BURST3] | model opus
 STATUS: IN-FLIGHT

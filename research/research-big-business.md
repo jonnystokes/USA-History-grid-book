@@ -83,6 +83,12 @@ The checkpoint names the Royal African Company as a hard subject for this chapte
 - **The monopoly's end:** the company itself admitted in 1689 that it had lost its monopoly when James II was overthrown (Wikipedia). History.com: "the RAC effectively lost its monopoly in 1689". Parliament's Trade with Africa Act 1697 (dated 1698 in most accounts, 9 Will. 3 c. 26) opened the African trade to every English merchant who paid the company a 10 percent levy on goods exported from Africa (Wikipedia). The company stopped slave trading in 1731 and was dissolved by Parliament in 1752 (History.com). The outline's era 04 line "ended in 1698" is supported, with the 1689 loss noted.
 - **Owner:** the Middle Passage itself is `slavery-freedom`'s (director ruling). This chapter's angle is that a chartered company, run by a future king and financed by shareholders, ran the trade for profit.
 
+### PATCH 2026-09-29 (T-311): whose land the Massachusetts Bay Company's charter covered
+
+- **The Massachusett people.** "the Massachuset ('People of the Blue Hills'), one of the Algonquian-speaking tribes in New England" held the land around the Shawmut Peninsula, where Boston now stands. Their grand sachem (chief) was Chickataubut. (The West End Museum, Boston, "An Early History of the Shawmut Peninsula", opened 2026-09-29.)
+- **Disease before the settlers came:** the same page says an epidemic from 1616 to 1618 killed all but about 25,000 of about 100,000 people in the region. The page names hepatitis B carried from French ships as the belief of some scholars (not written: the cause is a theory).
+- **1630:** "John Winthrop and his company of approximately 1,000 Puritan settlers" arrived on the peninsula, which the company's charter from King Charles I claimed. Winthrop renamed it Boston. Chickataubut "agreed to a treaty in 1633 with Winthrop, ceding his rights to the Shawmut Peninsula", and died in a smallpox epidemic that year. (Same page.)
+
 ## 04 · 1700 to 1750
 
 - **Robert E. Wright's judgment** (Wright, "Rise of the Corporation Nation", in Irwin and Sylla eds., *Founding Choices*, NBER/University of Chicago Press 2011, chapter c11744, PDF opened 2026-09-27): "Before the Revolution, American business corporations were few, small, and largely inconsequential." He gives the reason as "The weight of imperial regulations and unenlightened and uninspired British corporate law, which imposed relatively high costs on would be incorporators while offering little in the way of benefits", which "induced most colonial entrepreneurs to choose other business forms". The outline's paraphrase ("few, small, and of little consequence") is accurate. Wright's Table 7.1 counts **8 business corporations chartered in the colonial period** and 21 from 1776 to 1789.
@@ -112,6 +118,11 @@ The outline's Hancock story says the partners supplied "ships" to British forces
 - **Deaths at sea:** "Because of the lack of manifests, or passenger lists, there is no record of those Acadians who died at sea." (acadian.org.) Wikipedia ("Charles Apthorp") states that the poor quality of the ships Apthorp and Hancock supplied "led to instances of malnutrition, disease and death among the Acadians on board", and that the two merchants also lent money to finance the operation. The historian Mark Peterson describes the sloops as "fitted out in the manner of slave ships for the large number of expected deportees" (quoted in Wikipedia, "Thomas Hancock (merchant)").
 - **CORRECTION to a source:** Wikipedia's Hancock article says 17 sloops carried Acadians "to French Louisiana". The 1755 transports went to British colonies on the Atlantic coast (the *Endeavor* to South Carolina, others to Maryland per Sollers). Do not repeat "to Louisiana".
 - **How the prose can say it:** the expulsion took place in 1755, which is era 05. The Hancock story is placed in era 04 and runs to 1764, so the writer may tell it inside the story. Name Lawrence and Shirley as the officials who ordered the removal, and Hancock and Apthorp as the merchants who were paid by the head to carry the people. Owner of the expulsion itself: `america-world` / `war` / `migration`. This chapter tells the contract.
+
+### PATCH 2026-09-29 (T-311): Charles Apthorp as a supplier of British forces (confirms part of the unconfirmed war-contract line)
+
+- Massachusetts Historical Society, collection guide "Charles Ward Apthorp Papers, 1727-1858" (https://www.masshist.org/collection-guides/view/fa0399, opened 2026-09-29): Charles Apthorp was a "prosperous British-born merchant" of Boston and "one-time business partner of Thomas Hancock". He served "as paymaster and agent for the Royal Army and Navy, furnishing supplies and money to British forces in Nova Scotia and Boston." His firm "imported and sold many kinds of goods, as well as enslaved people."
+- The Harvard HOLLIS finding aid (ordnance, lumber, food, medicines and ships, 1746 to 1758) would not render text on 2026-09-29 through three routes (HOLLIS, the Worlds of Change page, DPLA). That line stays **(unconfirmed: search summary only)**. Writers: say the partners supplied British forces, citing the MHS guide for Apthorp, and do not list the goods.
 
 ## 05 · 1750 to 1800
 
@@ -183,6 +194,10 @@ The outline's Hancock story says the partners supplied "ships" to British forces
 ### SEARCHED, NOT FOUND 2026-09-27 (T-256a): What were federal revenue and the money in circulation in 1816, to compare with the Second Bank's $35 million?
 Sources checked: Federal Reserve History "The Second Bank of the United States" (gives $35 million capital and the $10 million of the First Bank, no revenue or money-stock figure). Wikipedia "Second Bank of the United States" and "Bank War" (no 1816 revenue figure. "Bank War" gives land-sale revenue for the 1820s and 1830s only). Encyclopedia of Greater Philadelphia "Bank War" (none). Two web searches for "$25 million" and "$75 million" with the bank (no match).
 How the prose can say it: give the bank's $35 million with the First Bank's $10 million beside it ("three and a half times the capital of the first national bank"), which the sources support. Do not use the $25 million and $75 million comparisons until a writer finds them in Treasury or Historical Statistics tables.
+
+### PATCH 2026-09-29 (T-311): what states did after Dartmouth College (reservation clauses)
+
+- Encyclopedia.com, "Dartmouth College v. Woodward 4 Wheaton 518 (1819)" (from the *Encyclopedia of the American Constitution*, opened 2026-09-29): decided 1819, opinion by Chief Justice John Marshall. Justice Joseph Story, concurring, wrote that unless the government "should reserve, in the grant of the charter, a power to alter, modify, or repeal", the rights granted could not be taken away. Legislatures then began writing such reservation clauses into later charters. The same article adds that states, unable to turn private colleges into public ones, founded state universities.
 
 ## 07 · 1850 to 1900
 
@@ -273,6 +288,18 @@ All from Wolff, *American Heritage*, April 1965 (opened 2026-09-27), which quote
 Eras 01 to 07 of the bank are complete as of 2026-09-27 (T-256a). Eras 08 to 10 are T-256b's. The parked `economy` and `marketplace` sections at the top of this file hold era 08 and 10 material (U.S. Steel $480 million, A&P, Woolworth, TARP, Lehman).
 
 ---
+
+### PATCH 2026-09-29 (T-311): the three films named in this era's stories
+
+- **The Men Who Built America** (History Channel, broadcast 16 October to 11 November 2012): an eight-part miniseries docudrama shown as four long episodes, about Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J. P. Morgan and Henry Ford. It uses actors in scripted scenes. (Wikipedia, "The Men Who Built America", opened 2026-09-29.)
+- **Andrew Carnegie: The Richest Man in the World**, American Experience (PBS), aired 20 January 1997, written, produced and directed by Austin Hoyt (PBS American Experience film page, opened 2026-09-29. Director from search result). The PBS page lists the title with "Andrew Carnegie" first.
+- **The River Ran Red** (1993), directed by Steffi Domike and Nicole Fauteux, about the summer of 1892 at the Carnegie works in Homestead (Battle of Homestead Foundation, opened 2026-09-29. Year 1993 and "from the workers' point of view" from the American Archive of Public Broadcasting and search results).
+
+### PATCH 2026-09-29 (T-311): whose land the Mesabi Range was
+
+- "The term Mesabi comes from the Ojibwe name for the Giants Range Batholith: Misaabe Wajiw, or Big Man Mountain." The Ojibwe held it to be "an important place". On 16 November 1890 Leonidas Merritt and J. A. Nichols found a large deposit of soft hematite ore at Mountain Iron. (MNopedia, Minnesota Historical Society, "Mesabi Iron Range", opened 2026-09-29.) The range is in northeastern Minnesota (same).
+- **The 1854 treaty:** the Fond du Lac, Grand Portage and Bois Forte bands of Ojibwe signed it. "The 1854 treaty ceded the lands in Minnesota's Arrowhead region." "The U.S. government wanted to mine a vein of copper on the northern shore of Lake Superior." The 1855 treaty, signed in Washington, covered "the bulk of north-central Minnesota" because "The U.S. government wanted access to logging and mining opportunities." (MPR News, "Explaining Minnesota's 1837, 1854 and 1855 Ojibwe treaties", 1 February 2016, opened 2026-09-29.)
+- **Not settled:** which treaty line crosses the Mesabi itself was not found on an opened page. Writers: say the range was Ojibwe country with an Ojibwe name, and that Ojibwe bands gave up northeastern Minnesota to the United States in the treaties of 1854 and 1855.
 
 ## 08 · 1900 to 1950 (T-256b, 2026-09-27)
 
@@ -366,6 +393,11 @@ See "BANK CHECK, eras 08 to 10" at the end of this file: Ludlow 1914, leaded gas
 
 ---
 
+### PATCH 2026-09-29 (T-311): Ludlow and leaded gasoline, company side, copied into this bank with their sources
+
+- **Ludlow, 1914** (copied from `research/research-work-workers.md`, era 08, PATCH T-250 unit 2, which cites Jonathan H. Rees, "Ludlow Massacre", *Colorado Encyclopedia*, via `research-energy.md`): Colorado coal miners struck in September 1913. Most worked for the Colorado Fuel and Iron Company, whose main stockholder was John D. Rockefeller Jr. In October 1913 a company armored car, the "Death Special", fired on the Forbes tent colony and killed one person. Governor Elias M. Ammons sent the Colorado National Guard, with the mine owners paying for the deployment. On 20 April 1914 fighting broke out at the Ludlow tent colony. "Nobody knows who fired the first shot." Guardsmen burned the tents. At least 19 died: one guardsman, five miners, and 13 women and children who hid in a pit under a tent and suffocated. Guardsmen shot strike leader Louis Tikas three times in the back. President Woodrow Wilson sent the U.S. Army on 28 April. The strike ended in December 1914 with none of the union's goals won.
+- **Leaded gasoline, 1924 to 1926** (copied from `research/research-elements.md`, PATCH T-241a and T-241e, which cite Bill Kovarik, "Ethyl-leaded gasoline", *International Journal of Occupational and Environmental Health* 11(4), 2005, fetched there): tetraethyl lead (TEL) is a liquid compound of lead that General Motors researchers added to gasoline to stop engine knock. In August 1924 GM and Standard Oil of New Jersey formed the Ethyl Gasoline Corporation to sell it. DuPont made TEL. Kovarik: at Standard Oil's Bayway refinery (Elizabeth, New Jersey) in October 1924 "Seven men died and 33 were hospitalized there. meanwhile, ten more were killed at a DuPont facility, and at least two died and 40 were hospitalized in Dayton, Ohio" (the original's semicolon changed to a period). Other accounts give five Bayway dead. The poisoned Bayway workers "had to be subdued and put into straightjackets" and were "black and blue from uncontrolled muscle spasms" (Kovarik). On 20 May 1925, at the Surgeon General's conference, Standard Oil's Frank Howard said the industry could not give up "what has come to the industry like a gift from heaven." Robert Kehoe, paid by Ethyl, then set the industry's "safe level" theory for decades (Kovarik).
+
 ## 09 · 1950 to 2000 (T-256b, 2026-09-27)
 
 Same rules as era 08: every fact checked on 2026-09-27 on an opened page unless tagged "(unconfirmed: search summary only)". **CORRECTION** marks an outline change.
@@ -441,6 +473,11 @@ The director's subject notes name tobacco and asbestos. Neither `health` nor `dr
 
 ---
 
+### PATCH 2026-09-29 (T-311): what asbestos and the Bhopal gas did to the body (clinical words defined from medical sources)
+
+- **Asbestos** (National Cancer Institute, "Asbestos Exposure and Cancer Risk" fact sheet, https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos/asbestos-fact-sheet, opened 2026-09-29): "Asbestos is the name given to six minerals that occur naturally in the environment as bundles of fibers that can be separated into thin, durable threads." "When asbestos fibers are breathed in, they may get trapped in the lungs and remain there for a long time. Over time, these fibers can accumulate and cause scarring and inflammation, which can affect breathing." Mesothelioma is "a relatively rare cancer of the thin membranes that line the chest and abdomen." Asbestosis is "an inflammatory condition affecting the lungs that can cause shortness of breath, coughing, and permanent lung damage." "It can take from 10 to 40 years or more for symptoms of an asbestos-related condition to appear." This confirms the definition T-256b asked a writer to confirm.
+- **Bhopal** (Edward Broughton, "The Bhopal disaster and its aftermath: a review", *Environmental Health* 4:6, 2005, PMC1142333, opened 2026-09-29): the gas damaged the eyes (redness, watering, ulcers, later clouding of the cornea) and the lungs (acute "pulmonary edema, pneumonitis", later "Obstructive and restrictive airway disease, decreased lung function"). Pulmonary edema means fluid filling the lungs. "An estimated 3,800 people died immediately", with "15,000 to 20,000 premature deaths reportedly occurring in the subsequent two decades." The plant was run by Union Carbide India Limited, a subsidiary of Union Carbide Corporation, in which the Indian government held 22 percent. The leak: a faulty valve let about one ton of water used for cleaning pipes mix with forty tons of methyl isocyanate. The vent-gas scrubber "had been turned off three weeks prior" and the refrigeration unit had been drained. Union Carbide Corporation "accepted moral responsibility and agreed to pay $470 million to the Indian government."
+
 ## 10 · 2000 to Today (T-256b, 2026-09-27)
 
 Same rules as eras 08 and 09. Every figure here is **perishable**: each carries the date its source gives, refreshed on 2026-09-27.
@@ -494,6 +531,20 @@ Same rules as eras 08 and 09. Every figure here is **perishable**: each carries 
 - **Purdue Pharma and OxyContin:** "In May 2007, the company pleaded guilty to misleading the public about OxyContin's risk of addiction and agreed to pay $600 million." Its president Michael Friedman, top lawyer Howard R. Udell and former chief medical officer Paul D. Goldenheim pleaded guilty as individuals to misbranding and paid $34.5 million. "On November 24, 2020, the corporation pleaded guilty to three federal felony charges related to its marketing and sale of Oxycontin, conspiracy to defraud the United States and two charges of conspiracy to violate federal anti-kickback statutes. No executives, employees or members of the Sackler family were charged with any crimes as a" result. (Wikipedia, "Purdue Pharma", opened.) On 16 June 2025, 55 attorneys general, every eligible state and territory, joined a **$7.4 billion** settlement with Purdue and the Sackler family, its owners, which ends the Sacklers' control of Purdue (New York Attorney General, press release, 16 June 2025, opened). OxyContin is an opioid, a pain pill made from the same family of chemicals as heroin. The overdose deaths belong to `drugs-alcohol` and `health`. Parked there as a pointer.
 
 ---
+
+### PATCH 2026-09-29 (T-311): Purdue Pharma's sentence and shutdown, 2026 (refresh copied from `research/research-drugs-alcohol.md` with its sources)
+
+- 28 April 2026: U.S. District Judge Madeline Cox Arleo in Newark sentenced Purdue to $5.5 billion in fines and penalties for its 2020 guilty plea. More than 200 people sent letters and more than 40 spoke. Arleo: "Your government failed you." She said she could not jail Purdue executives or owners because the Justice Department had charged only the company. The government collects $225 million while Purdue's assets go to its creditors, mostly state and local governments. (CNBC/Reuters, 29 April 2026, https://www.cnbc.com/2026/04/29/purdue-pharma-receives-5point5-billion-sentence-paving-way-for-opioid-settlement.html, opened by T-266.)
+- 1 May 2026: New York Attorney General Letitia James announced that Purdue had shut down. A new company, Knoa Pharma, owned by the nonprofit Knoa Foundation, took over, with no Sackler role. The Sacklers are barred from selling opioids in the United States. (NY AG press release, 1 May 2026, https://ag.ny.gov/press-release/2026/attorney-general-james-announces-shutdown-opioid-manufacturer-purdue-pharma, opened by T-266.)
+
+### PATCH 2026-09-29 (T-311): Enron's bankruptcy and its workers' savings, and when Lina Khan left the FTC
+
+- **Enron** (Congressional Research Service, "The Enron Bankruptcy and Employer Stock in Retirement Plans", RS21115, via EveryCRSReport.com, opened 2026-09-29): "On December 2, 2001 the Enron Corporation filed for Chapter 11 bankruptcy protection." "As of December 31, 2000, 62% of the assets held in the corporation's 401(k) retirement plan consisted of shares of Enron stock." "Shares of Enron, which in January 2001 traded for more than $80 per share, were in January 2002 worth less than 70 cents each", which "substantially reduced the value of many of its employees' retirement accounts." A lawsuit alleged the company barred employees from moving their 401(k) money while the price fell (same report). A 401(k) is a workplace retirement savings account. The job count ("about 20,000") stays unconfirmed. History.com (search summary only) says Enron fired 5,000 of 21,000 employees the day after filing (unconfirmed: search summary only).
+- **Lina Khan's end date** (Wikipedia, "Lina Khan", opened 2026-09-29): chair of the FTC from 15 June 2021 to 20 January 2025, succeeded by Andrew N. Ferguson. Her term as a commissioner ended on 31 January 2025. This confirms the "left in January 2025" line that the bank carried as a search summary.
+
+### PATCH 2026-09-29 (T-311): what "Amazon's Antitrust Paradox" argued
+
+- Lina M. Khan, "Amazon's Antitrust Paradox", *Yale Law Journal* vol. 126, 2017 (journal page, https://www.yalelawjournal.org/note/amazons-antitrust-paradox, opened 2026-09-29). Her abstract: "We cannot cognize the potential harms to competition posed by Amazon's dominance if we measure competition primarily through price and output." She argues that the current framework, which judges competition mainly by its short-term effect on prices ("consumer welfare"), misses the power Amazon built by accepting losses while spreading into many lines of business, among them retail, delivery, cloud computing and publishing, so that it became essential to online selling and could use its position in one line to gain in another.
 
 # BANK CHECK, eras 01 to 07 (T-256a, 2026-09-27)
 
