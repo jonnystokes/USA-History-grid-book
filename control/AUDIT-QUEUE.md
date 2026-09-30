@@ -254,3 +254,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **From T-310 (marketplace checkpoint):** - `research-marketplace.md` housekeeping for the audit: the T-253 Coresight line (era 10) still carries "(unconfirmed: search summary only)"; the T-310 PATCH below it confirms it on a readable page.
 
 - **styles part 3, the Michael Eugene Thomas killing (T-314):** the writer left out the documented sexual-assault detail because the bank assigns it to crime-justice. Under hard-subjects policy §2 (no softening), check whether telling the killing without it softens it; if so, add it plainly from the bank or cut the passage to what styles owns.
+
+- **government-politics part 2, the McKenna quote (T-315):** the writer split one semicolon inside a direct quotation into two sentences, changing no words, to pass the punctuation gate. Decide once, for the whole book, how quotes that contain semicolons or em dashes are handled (split, paraphrase, or an exemption in the gate), and check this quote against its source.

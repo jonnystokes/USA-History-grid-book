@@ -3453,3 +3453,12 @@ VERIFY: python tools/project_state.py --check government-politics --stage prose
 RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21902w files=3 validator_errors=0
         493106 tokens, 174 tool uses, 27.5 min (opus). SINGLE WRITER: all 10 eras, PASS prose (21,902w, 14 stories). 17 PATCH, 1 not found, 30 outline claims left out. Fixed: Mayflower location, fourth-wall lines dropped, actors named for removal and EO 9066.
 AGENT: a07864183d94f58ed (salvage: python tools/salvage_agent.py a07864183d94f58ed --tail)
+
+### 2026-09-29 | [LOCAL] T-315 review (director). Compared with the single writers before it:
+tokens 493k (styles 370k, slavery-freedom 414k, big-business 424k, america-world 438k), 27.5 min (18-24),
+21,902 words (13,548-18,673), the largest chapter so far from the largest slice (outline+bank ~43k words).
+Tokens per 1,000 words written: 22.5k, in line with styles and slavery-freedom (22.2k) and better than
+marketplace/big-business/america-world (26.5k-28.1k). Every unit logged with validator and punct; self-review on
+each file; nothing OPEN; nothing parked. One item queued for the audit (McKenna quote punctuation). Sizing rule
+from this: single writer up to ~47k slice words (exploration, holidays, drugs-alcohol, crime-justice); two
+writers above that (disasters, war, news-communication ~52-55k). Jon asleep: autonomous, one at a time.

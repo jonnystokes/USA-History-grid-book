@@ -13,11 +13,11 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
-**STEP 2 (WRITING): IN PROGRESS.** 21 chapters written and passing `--stage prose`, 16 to go. Nothing in flight.
+**STEP 2 (WRITING): IN PROGRESS.** 22 chapters written and passing `--stage prose`, 15 to go. Nothing in flight.
 
-Written (21): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
+Written (22): native-nations, city-building, immigration, science, elements, land-environment, economy (cloud era) ·
 landmarks, energy, technology, home-family, transportation, food-farming, migration, money, work-workers,
-marketplace, big-business, america-world, slavery-freedom, styles (this run).
+marketplace, big-business, america-world, slavery-freedom, styles, government-politics (this run).
 
 **Open for Jon:** art era 10 tells Kehinde Wiley. Four men have accused him of sexual assault since May 2024; he
 denies it; no court outcome found. The research agent kept it out of the outline and flagged it in the bank. Tell it
@@ -30,14 +30,13 @@ or leave it out? (Blocks nothing until art is written.)
 - **One agent per chapter at a time, in order** (each writer adds to the chapter's research bank). Parallelism is
   across chapters. Start the longest chains first so they do not finish last.
 - **Single-writer mode** (DECISIONS #26): one writer does all ten eras and all three part files where the chapter
-  fits. Measured: 360k-440k tokens, 20-25 min, about 8% of a 5-hour window per chapter (T-313: 72% -> 80%).
+  fits. Measured: 360k-495k tokens, 18-28 min (about 22k-28k tokens per 1,000 words written), about 8% of a 5-hour window per chapter (T-313: 72% -> 80%).
 - Brief: `control/briefs/WRITER.md`. Model: opus. Checkpoint per chapter from `tools/mk_writer_checkpoint.py`.
 
 ## STEP 2 queue: what is left
 
 | Group | Chapters | Agents | Total |
 |---|---|---|---|
-| Small (single writer) | government-politics | 1 | **1** |
 | Medium (single writer to try; 2 if too big) | exploration, holidays, drugs-alcohol, crime-justice, disasters, war, news-communication | 1-2 | **7-14** |
 | Large (2 writers: eras 1-7, then 8-10) | health, sports-play, art, storytelling-evolution, music | 2 | **10** |
 | Giant (split by eras, in order) | rights-movements (~4), education (~4), religion (~3) | 3-4 | **~11** |
