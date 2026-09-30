@@ -11,6 +11,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
+NOW-RUNNING: T-320a disasters (writer A, eras 1-7 (part1, part2))
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): IN PROGRESS.** 26 chapters written and passing `--stage prose`, 11 to go. Nothing in flight. T-320 disasters running (writer A, eras 1-7, then writer B, eras 8-10).
