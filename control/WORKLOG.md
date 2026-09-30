@@ -3708,7 +3708,9 @@ RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras
 AGENT: afcbdd97f38b8755a (salvage: python tools/salvage_agent.py afcbdd97f38b8755a --tail)
 
 ### 2026-09-30 | [LOCAL] T-333o | government-politics: CHECKER opus, part3 (calibration run 3) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-333-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21902w files=3 validator_errors=0
+        273957 tokens, 33 tool uses, 12.4 min (opus). CHECKER opus, part3: 143 findings (4 BLOCKING, 37 MAJOR, 102 MINOR). Top: personification 55, reader 37, Not in bank 10.
 AGENT: acec3a4753012cefb (salvage: python tools/salvage_agent.py acec3a4753012cefb --tail)
