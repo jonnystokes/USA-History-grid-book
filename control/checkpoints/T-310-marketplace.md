@@ -68,7 +68,7 @@ Also not used: parked Betamax/VHS (era 09) and box-office/Netflix (era 10) items
 - era 09: outline claims not in the bank were dropped: Southdale's enclosure as a response to Minnesota weather, malls draining downtown shops, the discount stores' 'plain buildings with wide aisles', franchising spreading to motels and haircuts, and the barcode as 'the beginning of the tracking'. Gruen's 1978 quote paraphrased without the rude word, as the bank directs.
 - era 10: the bank's Green Street count of about 1,000 malls has no year. Dropped under the rule that every 2000-today figure carries its year. Coresight's 15,000 forecast for 2025 is reported with the actual 2025 count (8,270 closings), so the forecast is not left standing as if it came true.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - `slavery-freedom` and `health`: Joice Heth's public dissection, February 25, 1836, City Saloon, New York, by Dr. David L. Rogers, 1,500 people at 50 cents each; R. W. Lindsay of Kentucky sold Barnum possession of her (CUNY Lost Museum Archive, New York Sun 1836). Full text in research-marketplace.md, era 06 PATCH (T-310).
 - `economy` and `native-nations`: Basque crews traded with the Beothuk, Innu and Mi'kmaq, and Basque kettles and axes reached Huron and other Iroquoian lands in Ontario (Canadian Museum of History). Full text in research-marketplace.md, era 02 PATCH (T-310).
 - `work-workers` and `money`: West Virginia Mine Wars Museum's "debt bondage" description of scrip. research-marketplace.md, era 08 PATCH (T-310).

@@ -77,7 +77,7 @@ measured: stage=RESEARCHED eras=10/10 stories=13 (v13 c0 t0) verify_tags=0 bank=
 - 10: outline era 10 was silent on the 2025-26 boat strikes, the Venezuela raid and the Iran war. Added from the war bank's read sources, copied into this bank as a PATCH. Outline's "China joined the WTO in December 2001" replaced by the WTO's own approval date.
 - Parked items in the bank from exploration (Wilkes at Fiji, 1840) and war (Grant's quote on the Mexican war) not used: those chapters tell them with their own angle.
 
-## TO PARK (for the director, burst runs only)
+## TO PARK (FILED by the director, 2026-09-27)
 - `native-nations`: Tlingit at Sitka (Kiksadi fort burned by Baranov, 1804); USS Saginaw shelled and burned 28 of 29 Kake clan houses, early 1869; USRC Corwin destroyed most of Angoon, 1882 (Poulson, Alaska Historical Society). Florida 1818: Jackson's raid on Seminoles and escaped slaves (Office of the Historian). See this bank's T-312 PATCHes.
 - `war`: no action needed. This chapter now names the 2025-26 boat strikes, the Venezuela raid and the Iran war briefly, from the war bank's sources.
 

@@ -786,3 +786,11 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `money` (2026-09-27, T-308)
 Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
 - native-nations / land-environment: AADL 1807 Treaty of Detroit figures (5,611,532 acres, $57,717.32, Ann Arbor included), research-money.md era 6.
+
+## Parked from `marketplace` (2026-09-27, T-310)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
+- `economy` and `native-nations`: Basque crews traded with the Beothuk, Innu and Mi'kmaq, and Basque kettles and axes reached Huron and other Iroquoian lands in Ontario (Canadian Museum of History). Full text in research-marketplace.md, era 02 PATCH (T-310).
+
+## Parked from `america-world` (2026-09-27, T-312)
+Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-312 PATCH named in each item.
+- `native-nations`: Tlingit at Sitka (Kiksadi fort burned by Baranov, 1804); USS Saginaw shelled and burned 28 of 29 Kake clan houses, early 1869; USRC Corwin destroyed most of Angoon, 1882 (Poulson, Alaska Historical Society). Florida 1818: Jackson's raid on Seminoles and escaped slaves (Office of the Historian). See this bank's T-312 PATCHes.

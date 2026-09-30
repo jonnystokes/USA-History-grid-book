@@ -380,3 +380,7 @@ Each item's full sourced text is in `research/research-marketplace.md` under the
 - `rights-movements` and `money`, 1950-2000: Equal Credit Opportunity Act Oct 1974 (sex, marital status), amended Mar 1976 (race, color, religion, national origin, age, public assistance) (CFPB blog).
 - `money`, 2000-today: CFPB Apr 24, 2013 payday study (391% APR on $15 per $100, 199 days in debt median).
 
+
+## Parked from `marketplace` (2026-09-27, T-310)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
+- `work-workers` and `money`: West Virginia Mine Wars Museum's "debt bondage" description of scrip. research-marketplace.md, era 08 PATCH (T-310).

@@ -11,7 +11,8 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**BURST OF 3 single writers (Jon): T-310 marketplace, T-311 big-business, T-312 america-world. Other half (government-politics, styles, slavery-freedom) in the next window.**
+**STOPPED after the burst of 3 single writers (all PASS). 19 chapters written.** Next window (Jon): single writers for
+government-politics, styles, slavery-freedom.
 If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.

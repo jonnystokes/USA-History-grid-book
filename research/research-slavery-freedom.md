@@ -612,3 +612,7 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `money` (2026-09-27, T-308)
 Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
 - economy / slavery-freedom: Baptist's "bankruptcy-driven sales" wording and the do-not-cite status of Murphy's 2017 Yale draft, research-money.md era 6.
+
+## Parked from `marketplace` (2026-09-27, T-310)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
+- `slavery-freedom` and `health`: Joice Heth's public dissection, February 25, 1836, City Saloon, New York, by Dr. David L. Rogers, 1,500 people at 50 cents each; R. W. Lindsay of Kentucky sold Barnum possession of her (CUNY Lost Museum Archive, New York Sun 1836). Full text in research-marketplace.md, era 06 PATCH (T-310).

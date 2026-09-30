@@ -511,3 +511,11 @@ Full text and sources are in `research/research-storytelling-evolution.md`, ERA 
 ## Parked from `technology` (2026-09-27, T-303)
 Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
 - `slavery-freedom` / `work-workers` (era 4): Patapsco land (Susquehannock, Piscataway, 1652 treaty) under the Baltimore Iron Works.
+
+## Parked from `marketplace` (2026-09-27, T-310)
+Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
+- `work-workers` and `money`: West Virginia Mine Wars Museum's "debt bondage" description of scrip. research-marketplace.md, era 08 PATCH (T-310).
+
+## Parked from `big-business` (2026-09-27, T-311)
+Filed by the director after the parallel run. Full sourced text is in `research/research-big-business.md` under the T-311 PATCH named in each item.
+- Nothing new for other chapters. The workspace still lists Eugene Debs as a verified name for this chapter, but no Debs story exists here (work-workers has him); the bank's neighbour check already notes it.

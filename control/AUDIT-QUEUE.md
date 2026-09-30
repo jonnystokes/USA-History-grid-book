@@ -250,3 +250,5 @@ will be worded differently, which is exactly why a search will not find it.
 - **sports-play era 5, story `austin-curtis`:** the outline gives his death as 1809, but his newspaper obituary (found by T-271b) dates it December 1807. Check the bank and correct the story.
 
 - **From T-305a (transportation checkpoint):** - Bank hygiene for the audit: research-transportation.md line under "## 7" Ten-Mile Day still says the three men carried "the last rails" that day; the T-305a PATCH corrects it.
+
+- **From T-310 (marketplace checkpoint):** - `research-marketplace.md` housekeeping for the audit: the T-253 Coresight line (era 10) still carries "(unconfirmed: search summary only)"; the T-310 PATCH below it confirms it on a readable page.
