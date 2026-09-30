@@ -3525,3 +3525,9 @@ VERIFY: python tools/project_state.py --check war --stage prose
 RESULT: DONE. PASS  war / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22339w files=3 validator_errors=0
         448096 tokens, 121 tool uses, 18.6 min (opus). SINGLE WRITER (experiment, ~54k slice): all 10 eras, PASS prose (22,339w, 19 stories). 3 PATCH, 9 outline claims left out, nothing OPEN. Fixed: Tiguex 'first', 1675 hangings, Yamasee count, My Lai rape added, fourth-wall lines removed.
 AGENT: a8fb4870a9f8d9c7b (salvage: python tools/salvage_agent.py a8fb4870a9f8d9c7b --tail)
+
+### 2026-09-30 | [LOCAL] Experiment result: single writer on a ~54k slice (war) landed cleanly
+448k tokens, 18.6 min, 22,339 words = 20.1k tokens per 1,000 words (the cheapest yet). Reading the bank in three
+slices (1-5, 6-7, 8-10) instead of two worked. New rule: single writer for every chapter up to ~60k slice words
+(news-communication and all of the Large group: health, sports-play, art, storytelling-evolution, music, 52-61k).
+The giants (religion ~84k, education ~114k, rights-movements ~131k) still split along era lines.
