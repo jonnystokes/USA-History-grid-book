@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**STOPPED after the burst of 3 single writers (all PASS). 19 chapters written.** Next window (Jon): single writers for
+**Jon: ONE writer, T-313 slavery-freedom (single). Then wait.** Remaining small group:
 government-politics, styles, slavery-freedom.
 If it fits, the small group becomes 7 agents (one per chapter), not 14. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
