@@ -3568,3 +3568,4 @@ AGENT: ae73ed5671bc11414 (salvage: python tools/salvage_agent.py ae73ed5671bc114
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-326-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+AGENT: ac1ff4ea39d4ac642 (salvage: python tools/salvage_agent.py ac1ff4ea39d4ac642 --tail)
