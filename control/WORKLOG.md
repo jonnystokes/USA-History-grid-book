@@ -3427,9 +3427,11 @@ USAGE AT START (T-313): 70% (Jon). A clean single-writer reading: nothing else r
 USAGE (T-313, clean single writer): 72% -> 80% = 8% for a whole chapter (Jon corrected the start from 70 to 72). Similar to two writers per chapter (6-8%): single writers save tokens (~30%) but not much window percentage. Jon: one at a time for now. T-314 styles next.
 
 ### 2026-09-27 | [LOCAL] T-314 | styles: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-314-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+RESULT: DONE. PASS  styles / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16665w files=3 validator_errors=0
+        369964 tokens, 137 tool uses, 18.0 min (opus). SINGLE WRITER: all 10 eras, chapter PASSES prose (16,665w, 16 stories). Native dress materials, Cofitachequi pearls, cochineal, dress laws, Mary Ring, Hannah Lyman, Pueblo blanket tribute, 1740 clothing law, indigo, homespun, tignon order; negro cloth, Northup, Douglass, Bloomer, Keckley, coal-tar dyes, Strauss and Davis, queue cutting, Carlisle; 1902 hair order, Walker, Carothers, Ann Lowe, L-85, zoot suit attacks, polyester, Eames, Tinker, hair cases, Air Jordans, El Monte, Rana Plaza, CROWN Act. 5 PATCH, 15 outline claims left out. Fixed: chapter number 35 not 33, institutions as actors, Pawnee move per Parks. Flag: Michael Eugene Thomas assault detail left out (AUDIT-QUEUE).
 
 ### 2026-09-29 | [LOCAL] Documentation sync (Jon: context at 88%, make sure everything is current)
 TODO rewritten to the measured state (20 written, styles in progress, 16 to go, queue table, open Wiley question,

@@ -39,6 +39,9 @@ Created 2026-08-07 as a parking file by the `home-family` research agent. Not ye
 - Quillwork: Penn Museum Journal, "The Art of Quillwork" (https://www.penn.museum/sites/journal/630/ , fetched): practiced by Huron, Cheyenne, Arapaho, Cree, Loucheux (Gwich'in) among others. Women did the work, men hunted porcupines. Flattened with an awl or bone. Dyes: red from tamarack bark, spruce cones, berries. Black from walnuts, wild grapes. Yellow from wild sunflower, cornflower, pine bark, willow root. Blue from blueberries and larkspur. Objects: moccasins, pouches, pipe stems, baby carriers, clothing, birchbark boxes. George Catlin specimens 1832 to 1839 "perhaps the oldest and best" in Penn's collection.
 - Quillwork is pre-contact and widespread across the Northeast Woodlands, Subarctic, Plains, northern Rockies and Plateau. Glass beads replaced quills in the mid 1800s. (McCord Stewart Museum blog and Wikipedia "Quillwork", search summary only, unconfirmed.)
 
+### PATCH 2026-09-29 (T-314): quillwork before contact, confirmed
+- Sonia Kata (conservator), "Pique your interest with porcupine quills", McCord Stewart Museum blog, May 26, 2022 (https://www.musee-mccord-stewart.ca/en/blog/pique-interest-with-porcupine-quills/ , fetched 2026-09-29): "Quillwork is an ancient, pre-contact art form", "unique to the Indigenous peoples of North America". "In the mid 19th century, porcupine quills were supplanted by small glass trade beads for embroidery work as beads were easier and faster to use." Oldest piece named on the page: about 1850. The regional list (Northeast Woodlands, Subarctic, Plains, northern Rockies, Plateau) remains search summary only.
+
 ### SEARCHED, NOT FOUND 2026-09-28 (T-272a): a named individual maker or wearer of clothing before 1500
 Sources checked: Grand Canyon Conservancy, NPS Tonto, SW Virtual Museum, Archaeology magazine (Mound 72), Texas Beyond History, Penn Museum. All describe objects and peoples, none names a person (no writing in these societies in this land).
 How the prose can say it: "No written record names any of the people who wove this cloth or wore these beads. What is known comes from the objects."
@@ -120,6 +123,11 @@ How the prose can say it: "No record gives her own name. The Spanish called her 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-272a): a named Pueblo woman whose blanket was taken as tribute
 Sources checked: TWU Ibid. article, Beyond Origins NM, Wikipedia Pueblo Revolt, NMHR search results. All describe the practice. None names a victim.
 How the prose can say it: "The Spanish records of these seizures give no names for the women whose blankets were taken."
+
+### PATCH 2026-09-29 (T-314): Herrera Horta's 1601 testimony, confirmed at second hand on a fetched page
+- Miranda Adams, "The Encomienda", *Ibid.* vol. 17 (Spring 2024), Texas Woman's University (https://twu.edu/history/ibid/previous-ibid-issues/volume-17-spring-2024/the-encomienda/ , fetched 2026-09-29): "If the Puebloans said they had no cotton blankets to give, the soldiers would remove them from the bodies of Native American women, who wore the blankets as clothing, and leave them naked." Attributed to Ginès de Herrera Horta's testimony, footnoted to Hammond and Rey, *Don Juan de Oñate, Colonizer of New Mexico, 1595-1628*, vol. 6, p. 653. The same page says blanket exchange was part of Pueblo marriage ceremonies (not used).
+- The NMHR PDF (article=2500) still returns 403. The verbatim wording "the said soldiers took them from the women, who were left naked" stays search summary only: the prose paraphrases and does not quote it.
+- Writer may state: Herrera Horta, a Spanish legal officer in Oñate's colony, testified in 1601 that when Pueblo people said they had no blankets to give, soldiers took the blankets off the women who wore them, and left the women naked.
 
 ## Era 04: 1700-1750
 
@@ -577,6 +585,13 @@ How the prose can say it: "The clothes were sold at chain stores including Mervy
 Sources checked: Wikipedia (Rana Plaza, Tazreen), Clean Clothes Campaign, *Dallas News* 2015, search summaries of the Delaware suit (dismissed 2016 on a time limit), *The Business Standard* April 2026 (trials in Bangladesh only).
 How the prose can say it: "No court has found an American company responsible for the deaths. A suit against Walmart, J.C. Penney and The Children's Place was dismissed in 2016 because it was filed too late under Bangladesh's rules."
 
+### PATCH 2026-09-29 (T-314): the Delaware Rana Plaza suit, confirmed on a fetched page
+- Business and Human Rights Resource Centre, case page "J.C. Penney Corp., The Children's Place & Walmart class action lawsuit (re Rana Plaza collapse, Bangladesh)" (https://www.business-humanrights.org/en/latest-news/jc-penney-corp-the-childrens-place-and-wal-mart-class-action-re-rana-plaza-collapse/ , fetched 2026-09-29): the husband of a worker who died and an injured garment worker filed a class action against J.C. Penney, The Children's Place and Walmart in the Superior Court of the State of Delaware. Dismissed May 4, 2016, on two grounds: Bangladesh law applied, and its one-year limit on personal injury and wrongful death claims had run out. And under Delaware law "no employment relationship exists between a purchaser and the supplier's employees," so the companies owed the workers no duty of care. The plaintiffs' argument that the companies' ethical-sourcing statements created a duty was rejected.
+- Filing date DISAGREES: April 23, 2015 (this page) vs July 21, 2015 (search summaries). Prose gives no filing date.
+
+### PATCH 2026-09-29 (T-314): share of clothes and shoes imported, confirmed
+- AP article carried by Yahoo Finance, "Tariffs will make sneakers, jeans and almost everything Americans wear cost more, trade groups warn", updated April 6, 2025 (https://finance.yahoo.com/news/tariffs-sneakers-jeans-almost-everything-042159586.html , fetched 2026-09-29): "About 97% of the clothes and shoes purchased in the U.S. are imported, predominantly from Asia," according to the American Apparel & Footwear Association. The Footwear Distributors and Retailers of America: "99% of the pairs sold in the U.S. are imports." This replaces the search-summary tag on the 97% line above.
+
 ### Los Angeles garment work and the Garment Worker Protection Act
 - Nigel Duara, "Bill's defeat keeps undocumented garment workers in meager wages", *CalMatters*, September 14, 2020: Los Angeles garment workers are paid "about 5 cents to 12 cents per piece of clothing," work five and a half days a week, 10 hours a day, and take home about $300 a week, "or $5.50 per hour, paid in cash." UCLA Labor Center's Janna Shadduck-Hernández: per-piece rates of "less than 12 cents." An outbreak at the Los Angeles Apparel factory infected at least 375 workers in 2020, and four died.
 - Knock LA, "Garment Workers Celebrate Historic Legislative Win" (2021): LA garment workers average $5 an hour and as little as $1.25, in a $5 billion industry, when the LA minimum wage was $15. Rates of "two or three cents per piece" were "unchanged for decades."
@@ -645,6 +660,11 @@ How the prose can say it: "The school's principal refused to enroll them." "Arme
 
 ### Land (where newcomers took or settled land in these eras' stories)
 - Pawnee (era 09): the Pawnee lived in Nebraska and northern Kansas. By 1873 their number had fallen to about 2,400, "after which time the Pawnee were forced to move to Indian Territory, which later became Oklahoma" (Wikipedia, "Pawnee people"). The Pawnee boys of 1972 went to school in Pawnee, Oklahoma, on land their nation had been forced onto. The removal itself is `native-nations`'.
+
+### PATCH 2026-09-29 (T-314): who moved the Pawnee, and why (era 09 land line)
+- Douglas R. Parks, "Pawnee (tribe)", *Encyclopedia of Oklahoma History and Culture*, Oklahoma Historical Society (https://www.okhistory.org/publications/enc/entry?entry=PA022 , fetched 2026-09-29): after the 1833 treaty, four decades of Sioux attacks on the Pawnee in Nebraska. "Finally, in 1874 the tribe began a two-year removal to Indian Territory." "the Pawnee agent had selected a new reservation for them on Cherokee land between the forks of the Arkansas and Cimarron rivers." About 2,000 Pawnee when they settled in Oklahoma.
+- Search summaries (not opened): Pawnee council agreed to remove on October 8, 1874. Act of Congress approved April 10, 1876, let the Secretary of the Interior appraise and sell the Nebraska reservation with the tribe's consent (19 Stat. 28, ch. 51). Not used.
+- Evidence is mixed on "forced": Wikipedia says forced, Parks describes a removal driven by Sioux attacks with the site chosen by the federal agent. Prose states the Parks facts and does not use "forced".
 - No other era 09-10 story involves newcomers taking land.
 
 ### "Firsts" and superlatives in eras 09 to 10, checked
