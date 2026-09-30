@@ -545,6 +545,15 @@ who enforced the law and how the courts worked, and does not repeat those spans.
   The outline says only that the sheriff carried out the court's orders, which the 1741 New York journal
   below shows directly (the sheriff took Quack and Cuffee to the stake).
 
+### PATCH 2026-09-30 (T-319): what the Virginia county courts did
+- Encyclopedia Virginia, "County Formation during the Colonial Period" (same page as above, WebFetch
+  2026-09-30): the county courts could "issue licenses to marry and to keep taverns and ordinaries," were
+  "the court of record for deeds, wills, and estate settlements," and "resolved disputes over land and
+  debts." In the earliest years "the governor and his Council ... tried criminals and attended to all other
+  business conducted by the various courts in England." The page does not say who appointed the justices,
+  and says nothing about the sheriff. (So the prose must not say the county courts tried most crimes. The
+  outline's "tried local crimes" is not supported by this page.)
+
 ### Imprisonment for debt
 - Robert C. Voigt, "Imprisonment for Debt," *Encyclopedia of North Carolina* (2006), NCpedia
   (https://www.ncpedia.org/debt-imprisonment, curl 2026-09-27): "From the time of the earliest colonial
@@ -667,6 +676,16 @@ Hanged Monday 10 May 1756 (UMich Evans catalog record for the 1756 pamphlet "tak
 Executed Today citing Anthony Vaver; NPR review of Ben Tarnoff, *Moneymakers*, 2011). The earlier ear-
 cropping and C-branding in Rhode Island: **unconfirmed: search summary only.** `money` tells him
 (`outlines/money.md` era 5: "To Counterfeit is Death"). This chapter adds one line with Shared with.
+
+### PATCH 2026-09-30 (T-319): Owen Sullivan's ears and cheeks, confirmed (copied from the money bank)
+- Copied from `research/research-money.md`, "PATCH 2026-09-29 (T-308a): Owen Sullivan's ears and cheeks,
+  confirmed": the *Boston Evening Post* of 9 October 1752, reporting from Providence, Rhode Island:
+  "Sullivan, a well-known Engraver, has lately had both his Ears crop'd, and been branded on both his Cheeks
+  with the Letter C, for counterfeiting the Bills of Credit of that Colony." (Jim Moyer, "Counterfeit Money
+  led to Rogers Rangers," Fort Loudoun VA blog, which quotes the newspaper with its date and place; blog,
+  labeled.) The punishment was in Rhode Island, in or shortly before October 1752, for faking Rhode Island's
+  bills. This replaces the "unconfirmed" note above. The newspaper names no officer who did the cutting or
+  the branding, and gives no method beyond "crop'd" and "branded."
 
 ### Christopher Seider and the trial of Ebenezer Richardson, 1770 (parked by `marketplace`)
 From `research/research-marketplace.md` (T-253 PATCH, Colonial Society of Massachusetts): customs informer
@@ -894,6 +913,24 @@ unconfirmed: search summary only. `marketplace` tells the shooting. This chapter
 - Court totals, search summary only (natturnerproject.org / Wikipedia): hearings 31 August to 21 November 1831. Of 53 enslaved people arraigned, 18 were executed, 21 discharged and 12 transported (sold out of the state). Five free Black people were also arrested (unconfirmed: search summary only).
 - A court of oyer and terminer for enslaved defendants in Virginia sat as justices without a jury (see era 4 of this bank, the 1723 act).
 
+### PATCH 2026-09-30 (T-319): the Southampton trials, counts from Encyclopedia Virginia
+- Patrick H. Breen, "Nat Turner's Revolt (1831)," *Encyclopedia Virginia*
+  (https://encyclopediavirginia.org/entries/turners-revolt-nat-1831/, WebFetch 2026-09-30):
+  - "Fifty-five white men, women, and children were killed" in the revolt. (The Library of Virginia blog above
+    says 57. **Sources differ: 55 or 57.**)
+  - "In the days after the revolt, white people from Southampton and beyond killed about three dozen Black
+    people without trial in Southampton County." "Paramilitary units were organized to put down the revolt and
+    in many cases get revenge." (The Library of Virginia blog above says "hundreds," with no count. **Sources
+    differ: about three dozen (Breen) or hundreds (Library of Virginia).**)
+  - "Ultimately, thirty slaves and one free Black man were condemned to death." "Of these, nineteen were
+    executed and twelve had their sentences commuted by Governor John Floyd." Barry Newsom, hanged 11 May 1832,
+    was "the last of nineteen people executed in Southampton County for their role in the revolt." (The page as
+    read does not say what happened to the twelve after commutation.)
+- The Nat Turner Project (natturnerproject.org, "Southampton Oyer & Terminer, Aug-Nov," search result
+  summary 2026-09-30): 53 enslaved people arraigned, 18 executed, 21 discharged, 12 transported; trials 31
+  August to 21 November 1831; five free Black people arrested and tried in April 1832 by the Superior Court
+  (unconfirmed: search summary only). Prose uses Breen's counts.
+
 ### The Cherokee Nation's own police, 1808, and the end of clan revenge, 1810
 
 - Cherokee laws as printed in the *Cherokee Phoenix*, 13 March 1828 (Western Carolina University transcription, https://www.wcu.edu/library/DigitalCollections/CherokeePhoenix/Vol1/no04/cherokee-laws-page-1-column-1a.html), primary:
@@ -986,6 +1023,35 @@ How the prose can say it: leave the trials out, or "Few of the rioters were ever
 - WBEZ Chicago, Curious City, "How Chicago Women Created The World's First Juvenile Justice System," 11 May 2019 (https://www.wbez.org/curious-city/2019/05/11/how-chicago-women-created-the-worlds-first-juvenile-justice-system): the Illinois legislature passed the law in spring 1899. Before it, children "were being arrested, handcuffed, spending nights in jails and police stations with older, hardened criminals." In 1882 "there were more than 250 children age 14 and under being held in the Cook County jail, at least 20 of them under the age of 11." A "10-year-old boy who stole a pair of shoes spent almost two weeks in the adult county jail waiting to appear before a grand jury." Julia Lathrop, a Hull House worker, toured Illinois jails and recorded conditions. Lucy Flower, a philanthropist, proposed the "parental court." A court and detention building opened in 1907 at Halsted and Ewing streets. The station calls it the world's first juvenile court.
 - Search summary only: the court opened 1 July 1899 with Judge Richard Tuthill presiding (one source says 5 July) (unconfirmed: search summary only).
 - **Juvenile court (definition):** a separate court for children accused of crimes, run to help the child rather than only to punish.
+
+### PATCH 2026-09-30 (T-319): New Orleans, 14 March 1891: eleven Italian Americans killed in the parish prison, no one charged (copied from the holidays bank)
+- Copied from `research/research-holidays.md` era 7 (T-273b), which read Wikipedia, "1891 New Orleans
+  lynchings" (raw text; its sources Gambino 2000, Smith 2007, Botein 1979) and Brigit Katz, *Smithsonian
+  Magazine*, April 2019:
+  - Police chief David C. Hennessy was shot in October 1890. Nineteen Italian Americans were indicted, among
+    them a 14-year-old boy (Smithsonian). Of nine tried, six were acquitted and three got a mistrial.
+    Smithsonian: "There was no solid evidence against them."
+  - 14 March 1891: a crowd of thousands gathered at the Henry Clay statue after a newspaper notice told
+    citizens to "come prepared for action." The lawyer William S. Parkerson urged them to "set aside the
+    verdict of that infamous jury." The killing was done by a squad "led by Parkerson and three other city
+    leaders: Walter Denegre, lawyer; James D. Houston, politician and businessman; and John C. Wickliffe,
+    editor of the New Delta." Mob members included John M. Parker (later governor of Louisiana) and Walter C.
+    Flower (later mayor of New Orleans).
+  - Warden Lemuel Davis let the 19 prisoners hide. "The mentally ill Polizzi was hauled outside, hanged from
+    a lamppost, and shot. Antonio Bagnetto, a fruit peddler, was hanged from a tree and shot. Nine others were
+    shot or clubbed to death inside the prison."
+  - The eleven killed: Antonio Bagnetto (acquitted), James Caruso (not tried), Loreto Comitis (not tried),
+    Rocco Geraci (not tried), Joseph Macheca (acquitted), Antonio Marchesi (acquitted), Pietro Monasterio
+    (mistrial), Emmanuele Polizzi (mistrial), Frank Romero (not tried), Antonio Scaffidi (mistrial), Charles
+    Traina (not tried).
+  - A grand jury under Judge Robert H. Marr, a friend of several mob members, said it could not identify the
+    killers, called them "several thousands of the first, best, and even the most law-abiding, of the
+    citizens," and indicted no one.
+  - Italy recalled its ambassador. President Benjamin Harrison agreed to pay a $25,000 indemnity. "The
+    United States paid $2,211.90 to each family."
+  - At least eight more Italian Americans were lynched in Louisiana in the 1890s, and no one was prosecuted.
+- Not in `immigration`'s outline (grep 2026-09-30). `holidays` tells it only as context for Columbus Day 1892.
+  This chapter tells the prison, the killers and the grand jury.
 
 ## Era 8: 1900 to 1950 (T-265b, 2026-09-27)
 
@@ -1355,6 +1421,62 @@ the points used. Where a primary or government source was opened, it is named fi
   **$3.8 million** from the city. The **Christopher Commission** (April 1991, attorney Warren
   Christopher) investigated the LAPD.
 
+### PATCH 2026-09-30 (T-319): the trials of the men who killed civil rights workers (copied from the rights-movements bank, T-262d PATCHes)
+Copied from `research/research-rights-movements.md` era 9 (parked here by T-262 as crime-justice material).
+- **Neshoba County, 1964.** National Archives blog "Three Civil Rights Workers" (2014): James Chaney, 21, a
+  Black Mississippi college student, and Andrew Goodman, 20, and Michael Schwerner, 24, white New Yorkers,
+  were "arrested and placed in jail for 'speeding' by the local police" on 21 June 1964 and "released after
+  dark into the hands of the Ku Klux Klan." Found 4 August 1964 near Old Jolly Farm. ABA Journal: they "were
+  stopped again, shoved into a sheriff's vehicle, carried to a desolated country road and shot dead." On 20
+  October 1967 a federal jury convicted seven of 18 defendants, among them Neshoba County Deputy Sheriff Cecil
+  Price and Samuel Bowers, imperial wizard of the White Knights of the Ku Klux Klan of Mississippi; sentences
+  three to ten years; Judge William Harold Cox. Edgar Ray Killen went free when one juror would not convict a
+  preacher. SPLC (2018): Killen, a Klan leader and former preacher, organized the killings; convicted of
+  manslaughter 21 June 2005, sentenced 23 June 2005 to six decades; died in prison at Parchman 11 January 2018.
+- **Birmingham, 1963.** NPS: 15 September 1963 a bomb exploded under the steps of the 16th Street Baptist
+  Church and killed Addie Mae Collins, 14, Denise McNair, 11, Carole Robertson, 14, and Cynthia Wesley, 14.
+  EBSCO: the bombers were Klan members. The FBI identified Robert Chambliss as the main suspect, but Director
+  J. Edgar Hoover closed the investigation in 1968 "without charging anyone, while also ordering that all
+  evidence be sealed." Chambliss convicted 1977, died in prison 1985. Thomas Blanton (2001) and Bobby Frank
+  Cherry (2002) convicted of four counts of murder, using secret 1964 FBI recordings. Herman Cash died before
+  prosecution. Blanton got four life sentences (Wikipedia).
+- **Viola Liuzzo, 1965.** NPS and Encyclopedia of Alabama: a 39-year-old mother of five from Detroit, shot
+  dead in her car on Highway 80 on 25 March 1965 by Klan members Collie Leroy Wilkins Jr., William Orville
+  Eaton and Eugene Thomas; Gary Thomas Rowe, a paid FBI informant, was in their car. State trials: a hung jury,
+  then acquittals. Federal juries convicted the three of violating her civil rights, 10 years each. Rowe got
+  immunity.
+- **James Reeb, 1965.** DOJ "Notice to Close File": in Selma on 9 March 1965 four men attacked Reeb, a
+  minister from Boston, and "One of the four attackers struck Reeb in the head with a club." He died two days
+  later. Three men were tried and acquitted on 10 December 1965. The prosecutor "permitted a man whose brother
+  was a suspect in the attack and another man, a well-known racist, to sit as jurors." DOJ closed the file 20
+  May 2011.
+- **Jimmie Lee Jackson, 1965.** PBS *Frontline*: Jackson, 26, was shot in the stomach on 18 February 1965 in a
+  cafe in Marion, Alabama, by State Trooper James Bonard Fowler, and died 26 February. Fowler was indicted in
+  May 2007, pleaded guilty in 2010 to misdemeanor manslaughter and got six months. He served five.
+- **Medgar Evers, killed 1963.** MDAH finding aid: Byron De La Beckwith was tried twice in 1964, "both trials
+  ending in hung juries." "On February 5, 1994, Beckwith was convicted and sentenced to life in prison." Died
+  2001.
+
+### PATCH 2026-09-30 (T-319): Michael Eugene Thomas, killed for his shoes, 1989 (parked by `styles`; this chapter owns the documented details)
+- Copied from `research/research-styles.md` era 9: on 2 May 1989 James David Martin, 17, strangled Michael
+  Eugene Thomas, 15, a ninth grader at Meade Senior High School in Anne Arundel County, Maryland, in woods
+  near the school, and took his Air Jordans, which Thomas had bought for $115.50 (Wikipedia, "James David
+  Martin"; Johnny Smith, *Jumpman* (2023), excerpt in *Slate*, November 2023). *Sports Illustrated* ran Rick
+  Telander's cover story "Your Sneakers or Your Life" in May 1990 (Slate; the day, 14 May, is search summary
+  only).
+- Wikipedia, "James David Martin" (WebFetch 2026-09-30; its sources: *New York Daily News*, *New York
+  Times*, *New York Post*, *Sports Illustrated*): "On May 2, 1989, James lured Michael into the woods near the
+  school, where he proceeded to sodomize and then strangle him to death." "After killing him, he stole the
+  Air Jordans and fled the scene." "Martin was tried in federal court since the crime occurred on federal
+  property. Martin pleaded guilty to voluntary manslaughter in federal court and was sentenced to seven years
+  in prison." "Martin was released in 1996" and moved to New York City. On 23 February 1998, in the Bronx, he
+  grabbed 14-year-old Marleny Cruz by the throat, beat her, sexually abused her and strangled her to death.
+  He also strangled Cicela Santiago in Allentown, Pennsylvania (date not given in the page as read). "On
+  October 28, 2016, James David Martin pleaded guilty to first degree manslaughter in [Cruz's] death, and
+  received an additional 20 years imprisonment."
+- Plain words for the prose: "sodomize" here means he raped the boy. Voluntary manslaughter: killing a person
+  on purpose but without planning it ahead, a lesser crime than murder (standard legal definition).
+
 ### Amadou Diallo, 1999
 
 - **WP "Shooting of Amadou Diallo"**: **4 February 1999**, the Bronx. Four plainclothes NYPD officers
@@ -1554,6 +1676,29 @@ research PDFs named were downloaded and read.
   trial for the three because of possible bias by the first judge. No new trial result found as of
   September 2026 (a search summary of Action News 5, 7 April 2026, says the Sixth Circuit dismissed
   appeals by four officers, unconfirmed: search summary only).
+
+### PATCH 2026-09-30 (T-319): who was prosecuted after three school shootings (copied from the education bank, T-261e)
+Copied from `research/research-education.md` era 10, "PATCH 2026-09-28 (T-261e): shootings at school". `education`
+tells the shootings; this chapter tells the prosecutions.
+- **Parkland, Florida, 14 February 2018.** *Marjory Stoneman Douglas High School Public Safety Commission Initial
+  Report* (2 January 2019): "14 students and three staff members ... were fatally shot and 17 others were
+  wounded." The gunman, Nikolas Cruz, 19, was a former student. Finding 1: "Former Deputy Scot Peterson was
+  derelict in his duty on February 14, 2018, failed to act consistently with his training and fled to a position
+  of personal safety while Cruz shot and killed MSDHS students and staff." Peterson was "acquitted Thursday of
+  felony child neglect and other charges for failing to act" (AP via WFSU, 30 June 2023; verdict 29 June 2023).
+  Cruz's life sentence: search summary only, not used.
+- **Uvalde, Texas, 24 May 2022.** DOJ COPS Office, *Critical Incident Review* (18 January 2024): "19 children and
+  two staff were killed"; officers treated it as a barricaded subject rather than an active shooter; the gunman
+  was killed "77 minutes after the first officers entered the school and after 45 rounds were fired by the
+  shooter in the presence of officers." School district police Chief Pete Arredondo "directed officers at several
+  points to delay making entry." A grand jury indicted Arredondo and former school officer Adrian Gonzales in June
+  2024 on counts of child abandonment and endangerment. Gonzales was found not guilty on 21 January 2026 of 29
+  counts (AP in the Texas Tribune, 21 January 2026). Arredondo's trial date: search summary only, not used.
+- **Apalachee High School, Winder, Georgia, 4 September 2024.** Four killed, two students aged 14 and two teachers
+  (ABC News, 30 July 2026). The gunman, Colt Gray, pleaded guilty to all 55 counts and was sentenced to life
+  without parole on 27 July 2026. His father, Colin Gray, who gave him the AR-15-style rifle as a Christmas present,
+  was convicted on 3 March 2026 of two counts of second-degree murder, two of involuntary manslaughter, and reckless
+  conduct and cruelty to children (Georgia Public Broadcasting), and sentenced to 15 years on 30 July 2026 (ABC).
 
 ### Crimes by officials
 

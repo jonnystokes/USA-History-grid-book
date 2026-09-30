@@ -3488,7 +3488,9 @@ RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10
 AGENT: ae690cfb6d15239ed (salvage: python tools/salvage_agent.py ae690cfb6d15239ed --tail)
 
 ### 2026-09-30 | [LOCAL] T-319 | crime-justice: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-319-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23057w files=3 validator_errors=0
+        478832 tokens, 133 tool uses, 24.2 min (opus). SINGLE WRITER: all 10 eras, PASS prose (23,057w, 13 stories). 7 PATCH, 19 outline claims left out, nothing OPEN. Fixed: Nat Turner counts, Tulsa 'no one punished' vs Gustafson's conviction, institutions as actors.
 AGENT: a29fbc9b5c24151f2 (salvage: python tools/salvage_agent.py a29fbc9b5c24151f2 --tail)

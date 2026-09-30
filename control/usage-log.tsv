@@ -251,3 +251,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-29	T-316	prose	general-purpose/opus	[LOCAL] exploration: SINGLE WRITER: all 10 eras, PASS prose (18,990w, 35 stories). WEB BLOCKED (usage	?	?	?	342316	82	1065606	?	completed	PASS  exploration / prose
 2026-09-30	T-317	prose	general-purpose/opus	[LOCAL] holidays: SINGLE WRITER: all 10 eras, PASS prose (~14,870w, 9 stories). 6 PATCH, 0 not fou	?	?	?	353405	86	860967	?	completed	PASS  holidays / prose
 2026-09-30	T-318	prose	general-purpose/opus	[LOCAL] drugs-alcohol: SINGLE WRITER: all 10 eras, PASS prose (18,970w, 14 stories). 4 PATCH, 6 outline	?	?	?	367928	83	977379	?	completed	PASS  drugs-alcohol / prose
+2026-09-30	T-319	prose	general-purpose/opus	[LOCAL] crime-justice: SINGLE WRITER: all 10 eras, PASS prose (23,057w, 13 stories). 7 PATCH, 19 outlin	?	?	?	478832	133	1454514	?	completed	PASS  crime-justice / prose
