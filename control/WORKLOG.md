@@ -3560,3 +3560,4 @@ AGENT: ad361d35bae73165a (salvage: python tools/salvage_agent.py ad361d35bae7316
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-325-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+AGENT: ae73ed5671bc11414 (salvage: python tools/salvage_agent.py ae73ed5671bc11414 --tail)
