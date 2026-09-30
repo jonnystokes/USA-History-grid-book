@@ -3371,6 +3371,8 @@ RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 wri
 NOTE (Jon): one agent (T-308b), then STOP and explain the next phase.
 
 ### 2026-09-27 | [LOCAL] T-308b | money: writer B: eras 8-10 prose (part3), completes the chapter | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-308-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13170w files=3 validator_errors=0
+        244995 tokens, 76 tool uses, 12.3 min (opus). Writer B: part3 (~6,200w), chapter PASSES prose (13,170w). Gold Standard Act 1900, Panic of 1907, Jekyll Island and the Fed, Black banks and Greenwood, 1930-33 runs, gold turn-in, deposit insurance, war bonds; Diners Club, ECOA 1974, ATM, 1971, Great Inflation, S&L; 2008, bitcoin, payday loans, 2021-26 inflation, FTX, 2023 runs, end of the penny. 5 PATCH, 0 not found, 4 outline claims left out. Fixed: savings lost two-thirds not a third, penny's end and 2008 guarantee given actors, personification, a fourth-wall line.

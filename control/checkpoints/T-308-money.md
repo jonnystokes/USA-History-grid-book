@@ -1,6 +1,6 @@
 # CHECKPOINT T-308 | money | prose | writer A: eras 1-7 (part1 + part2), writer B: eras 8-10 (part3)
 
-STATUS: T-308a landed (director verified: FAIL  money / prose)
+STATUS: T-308b landed (director verified: PASS  money / prose)
 VERIFY: python tools/project_state.py --check money --stage prose   (passes only after writer B)
 BRIEF:  control/briefs/WRITER.md
 MODEL:  opus
@@ -8,7 +8,7 @@ FILES:  manuscript/money/part1-before-1800.md (eras 1-5) · manuscript/money/par
         · manuscript/money/part3-1900s-and-today.md (eras 8-10) · research/research-money.md (PATCH and
         SEARCHED, NOT FOUND entries only) · this checkpoint
 
-NOW:    T-308a done 2026-09-29 (units 1-7, self-review run). Waiting for T-308b.
+NOW:    T-308b done 2026-09-29 (units 8-11, self-review run). Chapter complete, waiting for director verify. Bank PATCHes added first (FDR full name era 8, ECOA copy + 1965-82 correction note era 9, penny order + Paulson guarantee + payday copy era 10).
 NEXT:   T-308b: Unit 8 (era 08 1900-1950 -> create manuscript/money/part3-1900s-and-today.md, file="part3"). Copy the hb-chapter/heading/hb-note layout of part2-1800s.md. Open era 08 with the Gold Standard Act of March 14, 1900 (left out of era 07 by the boundary rule). Voice notes: actors are always named people ("members of Congress", "officers of the bank"), no institution as subject of a human verb. Legal tender, national bank, charter, bank run, suspension, deposit insurance, gold standard, veto, bond, mortgage, collateral are already defined in parts 1-2: do not define again at length. Unit 11 (self-review, prose check) is B's.
 
 ## Research state before writing (2026-09-29)
@@ -27,10 +27,10 @@ measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=
 | 5 | era 05 1750-1800 -> part1 | T-308a | done | part1-before-1800.md 3414w, 0 errors, emdash=0 semicolon=0 |
 | 6 | era 06 1800-1850 -> part2 | T-308a | done | part2-1800s.md 2280w, 0 errors, emdash=0 semicolon=0 |
 | 7 | era 07 1850-1900 -> part2 | T-308a | done | part2-1800s.md 4027w, 0 errors, emdash=0 semicolon=0 |
-| 8 | era 08 1900-1950 -> part3 | T-308b | todo | |
-| 9 | era 09 1950-2000 -> part3 | T-308b | todo | |
-| 10 | era 10 2000-today -> part3 | T-308b | todo | |
-| 11 | final: self-review, --punct, validator, prose check | T-308b | todo | |
+| 8 | era 08 1900-1950 -> part3 | T-308b | done | part3 2346w (file), 0 errors, emdash=0 semicolon=0 |
+| 9 | era 09 1950-2000 -> part3 | T-308b | done | part3 4182w, 0 errors, emdash=0 semicolon=0 |
+| 10 | era 10 2000-today -> part3 | T-308b | done | part3 6196w, 0 errors, emdash=0 semicolon=0 |
+| 11 | final: self-review, --punct, validator, prose check | T-308b | done | self-review run and repairs applied, see Log |
 
 ## Gaps researched
 
@@ -45,12 +45,21 @@ measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=
 - 06 | 1807 cession includes Ann Arbor (was unconfirmed) | PATCH | the 1807 cession included Ann Arbor
 - 07 | Bryan's status in 1896 | PATCH (correction: former congressman) | Bryan was a former congressman
 - 07 | Secret Service first chief; who shot McKinley | PATCH | the Secret Service's first chief, and who shot McKinley
+- 08 | Roosevelt's first name (bank gave surname only) | PATCH | the president's full name in 1933
+- 09 | ECOA (parked from marketplace) | PATCH (copied) | credit denied to women, and the 1974 law
+- 10 | who ordered the penny's end; who announced the 2008 guarantee | PATCH | who ordered the penny's end, and who announced the 2008 guarantee
+- 10 | Common Cents Act status (conflicting dates); FTX claim valuation (unconfirmed) | PATCH | the Common Cents Act passes the Senate, and how FTX valued claims
+- 10 | payday loans (parked from marketplace) | PATCH (copied) | payday loans, copied across
 
 ## OPEN (should be rare)
 
 ## Outline claims left out
 - 04: "London merchants who were paid in this shrinking paper complained to Parliament" and "paper money became one of the running arguments": not in the bank. Left out.
-- 07: Gold Standard Act of 1900 (Bryan story last line): era 08 by the boundary rule, per the bank. Left for T-308b.
+- 07: Gold Standard Act of 1900 (Bryan story last line): era 08 by the boundary rule, per the bank. Left for T-308b. (Written by T-308b as the era 08 opening.)
+- 08: outline "bank runs mostly stopped" after the FDIC: the bank gives the mechanism only. Prose states the mechanism.
+- 09: outline "fixed pension" loss: the bank gives savings only. Left out.
+- 10: outline "the run by phone" (2023): no source in the bank says the withdrawals were by phone. Span relabeled.
+- 10: outline "This section is current through September 2026": fourth wall. Figures are dated instead.
 
 ## Decisions and defects fixed
 - 02: outline/bank "Spain found silver at Potosí" left out that Indigenous men were forced to dig it (mita). Researched and written with Toledo named.
@@ -61,6 +70,13 @@ measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=
 - 06: Jackson's 68,000 acres: nation not identified. Prose says so.
 - Outline personification throughout ("Massachusetts printed", "Congress created", "Parliament banned", "the crown revoked") rewritten with named people or members of the body.
 - Outline Franklin "Philadelphia" not in the money bank: prose says Pennsylvania.
+- 09 (T-308b): outline said a fixed pension or savings "lost a third of its buying power" 1965-1982. Bank says a 1965 dollar bought about a third as much by 1982, a loss of two-thirds. Prose follows the bank (minimization fixed). Correction note added to the bank.
+- 09 (T-308b): outline "inflation did not notice" (Ford WIN buttons) personified inflation. Prose: prices went on rising.
+- 08 (T-308b): outline "Congress created ... the Federal Reserve Act built on its machinery", "the Treasury deposited", "the Federal Reserve did not stop": rewritten with members of Congress, Treasury officials, Federal Reserve officials.
+- 08 (T-308b): Greenwood: outline's "burned Greenwood" and "officials denied" kept with actors named (mob with deputized men, National Guard units, city officials, insurance company officers). Unconfirmed 1,400 claims / $4 million figure left out.
+- 10 (T-308b): bank's "the Treasury was directed" to stop penny production hid the actor. Researched: President Trump directed the Treasury Secretary, Feb 9, 2025 (PBS/AP). Bank's "the Treasury announced" 2008 guarantee: Paulson with Bush's approval (Treasury release).
+- 10 (T-308b): Common Cents Act conflict settled: House Sept 14, Senate Sept 28, 2026, sent to the president (ABA Banking Journal). FTX 105 percent written with the petition-date valuation beside it, so the figure does not read as a full recovery of bitcoin's later value.
+- 10 (T-308b): SEC case against Bent was civil, so prose says "cleared of the fraud charges," not "not guilty."
 - Rockoff's conditional $1 million Michigan estimate left out as too tangled for the reader. The AADL 60 percent and Dove et al. $350,000 are given.
 
 ## PARKED EARLIER (FILED by the director)
@@ -78,4 +94,9 @@ measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=
 - 2026-09-29 T-308a: era 05 written. stories alexander-hamilton-money; Owen Sullivan in hb-zoom (no story block in outline). part1-before-1800.md 3414 words, validator 0 errors, emdash=0 semicolon=0.
 - 2026-09-29 T-308a: era 06 written. stories andrew-jackson-money, alpheus-felch-money; new span on the 1807 Treaty of Detroit land. part2-1800s.md 2280 words, validator 0 errors, emdash=0 semicolon=0.
 - 2026-09-29 T-308a: era 07 written. stories emanuel-ninger, william-jennings-bryan. part2-1800s.md 4027 words, validator 0 errors, emdash=0 semicolon=0.
+- 2026-09-29 T-308b: bank PATCHes before prose: FDR full name (era 8), ECOA copied from marketplace + 1965-82 buying-power correction note (era 9), penny order by Trump Feb 9 2025 + Paulson Sept 19 2008 guarantee + payday study copied from marketplace (era 10).
+- 2026-09-29 T-308b: era 08 written. stories jp-morgan-money, lydia-lobsiger. Opens with the Gold Standard Act 1900. part3 2346 words, validator 0 errors, emdash=0 semicolon=0.
+- 2026-09-29 T-308b: era 09 written. stories bruce-bent-henry-brown, paul-volcker. ECOA added to the plastic span (parked item). part3 4182 words, validator 0 errors, emdash=0 semicolon=0.
+- 2026-09-29 T-308b: era 10 PATCH before prose: Common Cents Act passed Senate Sept 28 2026 (ABA Banking Journal), settling the House-date conflict for CoinWeek's Sept 14 account. FTX claims valued at petition date (UPI, CBS). Era 10 written, story laszlo-hanyecz, payday-loan span added (parked item). part3 6196 words, validator 0 errors, emdash=0 semicolon=0.
+- 2026-09-29 T-308b: self-review run on part3 (institutions as subjects, passives, anaphora, era openings, duplicates, long sentences, avg 14.5 words). Final: part3 0 errors, emdash=0 semicolon=0. PASS money / prose (10/10 eras, 12 stories verified, 13170w).
 - 2026-09-29 T-308a: self-review run on part1 and part2 (cadence, institutions as subjects, repeated era openings, passives on harm, hard words, tells). Fixes applied. Final: part1 0 errors, part2 0 errors, both emdash=0 semicolon=0.
