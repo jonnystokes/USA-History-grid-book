@@ -3589,7 +3589,9 @@ RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 writ
 AGENT: a07bf7a2977e746e7 (salvage: python tools/salvage_agent.py a07bf7a2977e746e7 --tail)
 
 ### 2026-09-30 | [LOCAL] T-328a | education: writer A, eras 1-7 (part1, part2) | model opus
-STATUS: IN-FLIGHT
+STATUS: LANDED
 CHECKPOINT: control/checkpoints/T-328-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: LANDED. FAIL  education / prose. measured: stage=WRITING ms_eras=7/10 written=7/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17613w files=2 validator_errors=0
+        433755 tokens, 142 tool uses, 20.4 min (opus). WRITER A: eras 1-7 landed (17,613w, 14 stories), 7/10 as expected. 6 PATCH, 2 not found, ~12 claims left out, nothing OPEN. Handoff in checkpoint.
 AGENT: a1a2c25cb97a8dd85 (salvage: python tools/salvage_agent.py a1a2c25cb97a8dd85 --tail)
