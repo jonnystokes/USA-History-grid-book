@@ -238,3 +238,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-304b	research	general-purpose/opus	[LOCAL] home-family: Writer B: part3 (5,106w), chapter PASSES prose. Washday, water and power, refrig	?	?	?	228235	79	595779	?	completed	PASS  home-family / prose
 2026-09-27	T-306b	research	general-purpose/opus	[LOCAL] food-farming: Writer B: part3 (~6,300w), chapter PASSES prose. 1906 food laws, pellagra, Hawai	?	?	?	241891	68	647648	?	completed	PASS  food-farming / prose
 2026-09-27	T-305b	research	general-purpose/opus	[LOCAL] transportation: Writer B: part3, chapter PASSES prose. Model T, Lincoln Highway, Route 66, crash	?	?	?	242330	74	738578	?	completed	PASS  transportation / prose
+2026-09-29	BURST3	write-prose-batch	general-purpose/opus x3	[LOCAL] burst of 3 writer B (home-family, transportation, food-farming)	85	93	8+	712456	221	1982005	?	completed	~2.7% each

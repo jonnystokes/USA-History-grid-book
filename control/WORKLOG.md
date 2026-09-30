@@ -3358,3 +3358,4 @@ RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 
         241891 tokens, 68 tool uses, 10.8 min (opus). Writer B: part3 (~6,300w), chapter PASSES prose. 1906 food laws, pellagra, Hawaii plantations and the 1893 overthrow, tractors and hybrid corn, 1930s programs, attacks on the STFU, rationing, 1942 farm seizures, braceros, school lunch; consolidation, fast food, pesticides, Pigford, organic, 1980s crisis; obesity, food deserts, hunger and the SNAP cut, COVID in meat plants, H-2A and heat deaths, food sovereignty. 9 PATCH, 0 not found, ~20 outline claims left out. Fixed: bracero pay taken by US employers (not 'the government'), Jordan farm facts vs PBS, STFU attacks stated specifically.
 
 ### 2026-09-29 | [LOCAL] Burst of 3 done: home-family, transportation, food-farming PASS prose. 13 written. PAUSED; nothing in flight.
+NOTE (Jon): burst of 3 used 85% -> 93% (~2.7% each). One agent (T-307b), then PAUSE.
