@@ -3552,3 +3552,4 @@ AGENT: abe5d14013351f7fa (salvage: python tools/salvage_agent.py abe5d14013351f7
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-324-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
+AGENT: ad361d35bae73165a (salvage: python tools/salvage_agent.py ad361d35bae73165a --tail)
