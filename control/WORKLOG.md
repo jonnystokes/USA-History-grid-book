@@ -3850,3 +3850,8 @@ VERIFY: python tools/project_state.py --check city-building --stage prose
 RESULT: DONE. PASS  city-building / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16080w files=3 validator_errors=0
         180334 tokens, 19 tool uses, 5.4 min (sonnet). CHECKER sonnet part2: 113 findings (38 B, 20 M, 55 m)
 AGENT: ae770c75445c7e969
+
+### 2026-09-30 | [LOCAL] T-350 | city-building: CHECKER sonnet, part3 | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-city-building.md
+VERIFY: python tools/project_state.py --check city-building --stage prose
