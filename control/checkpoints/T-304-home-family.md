@@ -77,7 +77,7 @@ Count: 12 (T-304a) + 7 (T-304b) = 19.
 - T-304b: outline "Sears ... 1908-1940" kept, Wikipedia gives sales to 1942 (not written).
 - T-304b: personification repaired (Wells Fargo's staff foreclosed, NCRC researchers found, William Levitt and his company rented).
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - T-304b (new): education / health: Davis, Chandler and LaRossa 2004 (147 letters to Angelo Patri, 1924-1939, on corporal punishment) and Watson 1928 advice; CDC TB definition. research-home-family.md era 08 T-304b PATCH.
 - native-nations / slavery-freedom: Florida Museum "First Contacts" page (opened 2026-09-29) confirms Menendez's ~800 colonists included 26 women and an unknown number of enslaved Africans, and that Seloy's council house was the first Spanish fort. Plymouth 400, Inc. (opened) gives Hunt's 1614 capture as 20 from Patuxet and 7 from Nauset. Full text: research-home-family.md, eras 02 and 03 T-304a PATCHes.
 - health: 1776 inoculation method (lancet, pus-soaked thread) and death rates (about 30% natural smallpox, 2-3% inoculation), Journal of the American Revolution, April 2026. research-home-family.md era 05 T-304a PATCH.

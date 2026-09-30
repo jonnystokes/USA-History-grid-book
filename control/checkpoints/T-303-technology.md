@@ -94,7 +94,7 @@ None for eras 8-10.
 - (T-303b) Bank's unconfirmed Selfridge details not written. Bank's "Bell Labs in New Jersey" gloss removed from the prose (not sourced).
 - (T-303b) The Steve Jobs (2015) film is labeled a drama in its Movie line, with the documentary named beside it.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - `food-farming` (era 6, Deere's plow): Ho-Chunk village at Grand Detour (Jipson) and the September 15, 1832 Treaty with the Winnebago at Fort Armstrong (Scott, Reynolds; $10,000 a year for 27 years). Full text: research-technology.md, "PATCH 2026-09-29 (T-303a): whose land Deere's plow broke at Grand Detour".
 - `slavery-freedom` (eras 5-6): Solomon Northup's cotton-picking passages with exact quotes and lash counts. research-technology.md, "PATCH 2026-09-29 (T-303a): what 'violence' meant...".
 - `land-environment` / `native-nations` (era 7): NARA barbed-wire lesson quotes ("the Devil's rope", range wars). research-technology.md, "PATCH 2026-09-29 (T-303a): Joseph Glidden and what barbed wire did".

@@ -63,7 +63,7 @@ measured: stage=RESEARCHED eras=10/10 stories=12 (v12 c0 t0) verify_tags=0 bank=
 - Outline Franklin "Philadelphia" not in the money bank: prose says Pennsylvania.
 - Rockoff's conditional $1 million Michigan estimate left out as too tangled for the reader. The AADL 60 percent and Dove et al. $350,000 are given.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - crime-justice: Owen Sullivan's Rhode Island ear-cropping and branding now confirmed (Boston Evening Post, Oct 9, 1752), see research-money.md era 5 PATCH 2026-09-29.
 - crime-justice / government-politics: Czolgosz shot McKinley Sept 6, 1901 (Miller Center), research-money.md era 7 PATCH.
 - economy / slavery-freedom: Baptist's "bankruptcy-driven sales" wording and the do-not-cite status of Murphy's 2017 Yale draft, research-money.md era 6.

@@ -11,7 +11,7 @@ Last updated: 2026-09-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-**BURST OF 3 (Jon, 85%): T-304b home-family, T-305b transportation, T-306b food-farming (finishers).** energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
+**PAUSED after the burst of 3 (all PASS).** Nothing in flight. 13 chapters written. energy and technology are written (PASS prose). landmarks is the 8th written chapter (PASS prose).
 
 **STEP 1 (RESEARCH) COMPLETE 2026-09-29: all 37 chapters pass.** 684 stories, all verified.
 **STEP 2 (WRITING) STARTED.** Brief control/briefs/WRITER.md. Writer A = eras 1-7 (part1 + part2), writer B = eras

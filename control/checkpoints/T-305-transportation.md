@@ -95,7 +95,7 @@ None.
 - T-305b, outline defect era 10: "the government switches off" became US officials; Key Bridge charges written as an accusation with presumption of innocence (DOJ wording); Potomac "flew into" became "collided with" (bank wording).
 - T-305b, era 8 buses: the bank names the 1932, 1943 and 1945 riders but not who threw them off, jailed or beat them. Prose says the records do not name them.
 
-## TO PARK (FILED by the director, 2026-09-27)
+## PARKED EARLIER (FILED by the director)
 - `migration` / `native-nations`: none new.
 - Bank hygiene for the audit: research-transportation.md line under "## 7" Ten-Mile Day still says the three men carried "the last rails" that day; the T-305a PATCH corrects it.
 
