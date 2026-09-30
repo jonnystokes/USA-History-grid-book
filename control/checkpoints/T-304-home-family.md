@@ -1,6 +1,6 @@
 # CHECKPOINT T-304 | home-family | prose | writer A: eras 1-7 (part1 + part2), writer B: eras 8-10 (part3)
 
-STATUS: T-304a landed (director verified: FAIL  home-family / prose)
+STATUS: T-304b landed (director verified: PASS  home-family / prose)
 VERIFY: python tools/project_state.py --check home-family --stage prose   (passes only after writer B)
 BRIEF:  control/briefs/WRITER.md
 MODEL:  opus
@@ -8,7 +8,8 @@ FILES:  manuscript/home-family/part1-before-1800.md (eras 1-5) · manuscript/hom
         · manuscript/home-family/part3-1900s-and-today.md (eras 8-10) · research/research-home-family.md (PATCH and
         SEARCHED, NOT FOUND entries only) · this checkpoint
 
-NOW:    T-304a: DONE 2026-09-29. part1 (eras 1-5) and part2 (eras 6-7) written, self-reviewed, validator 0 errors each, --punct 0/0 each.
+NOW:    T-304b: DONE 2026-09-29. part3 (eras 08-10) written and self-reviewed. Prose check PASS. Chapter complete.
+PREV:   T-304a: DONE 2026-09-29. part1 (eras 1-5) and part2 (eras 6-7) written, self-reviewed, validator 0 errors each, --punct 0/0 each.
 NEXT:   T-304b: Unit 8 (era 08 1900-1950) -> create manuscript/home-family/part3-1900s-and-today.md. Copy part2's hb-chapter line with file="part3". Voice notes from writer A: the discipline shift of the 1920s-30s was left for era 08 (part2 stops at 1800s advice manuals). Rogarshevsky (97 Orchard, TB 1918) and the 1935 closing belong to era 08. part2 already told 97 Orchard's build date, the 1879 and 1901 laws, the 1870 servant count and the 1890 running-water figure (24%): do not repeat them. Buffalo Bird Woman's story already runs to 1921 and her death in 1932.
 
 ## Research state before writing (2026-09-29)
@@ -27,10 +28,10 @@ measured: stage=RESEARCHED eras=10/10 stories=16 (v16 c0 t0) verify_tags=0 bank=
 | 5 | era 05 1750-1800 -> part1 | T-304a | done | 651w, validator 0 errors, emdash=0 semicolon=0 |
 | 6 | era 06 1800-1850 -> part2 | T-304a | done | 1503w, validator 0 errors, emdash=0 semicolon=0 |
 | 7 | era 07 1850-1900 -> part2 | T-304a | done | 1371w, validator 0 errors, emdash=0 semicolon=0 |
-| 8 | era 08 1900-1950 -> part3 | T-304b | todo | |
-| 9 | era 09 1950-2000 -> part3 | T-304b | todo | |
-| 10 | era 10 2000-today -> part3 | T-304b | todo | |
-| 11 | final: self-review, --punct, validator, prose check | T-304b | todo | |
+| 8 | era 08 1900-1950 -> part3 | T-304b | done | about 2200w, validator 0 errors, emdash=0 semicolon=0 |
+| 9 | era 09 1950-2000 -> part3 | T-304b | done | about 1540w, validator 0 errors, emdash=0 semicolon=0 |
+| 10 | era 10 2000-today -> part3 | T-304b | done | about 1300w, validator 0 errors, emdash=0 semicolon=0 |
+| 11 | final: self-review, --punct, validator, prose check | T-304b | done | part3 5106w, validator 0 errors, emdash=0 semicolon=0, PASS home-family / prose |
 
 ## Gaps researched
 
@@ -42,6 +43,8 @@ measured: stage=RESEARCHED eras=10/10 stories=16 (v16 c0 t0) verify_tags=0 bank=
 - 05 | which nation lived at Hallowell, Maine | SEARCHED, NOT FOUND | "SEARCHED, NOT FOUND 2026-09-29 (T-304a): which Native nation lived at Hallowell"
 - 06 | the exact "spare the rod" verse | PATCH | "PATCH 2026-09-29 (T-304a): the spare the rod verse"
 - 07 | how a sod house was built; Spirit Lake bands | PATCH | "PATCH 2026-09-29 (T-304a): how a sod house was built, and the Spirit Lake bands"
+- 08 | the 1920s-30s discipline shift (specifics); Rogarshevsky and TB defined; WWII moves for war work; how a Sears kit arrived | PATCH | "PATCH 2026-09-29 (T-304b): discipline at home in the 1920s-30s, the Rogarshevskys and tuberculosis, and moving for war work"
+- 09 | mothers at work 1975-2000 and self care 1995 (copied from sports-play bank) | PATCH | "PATCH 2026-09-29 (T-304b): mothers at work and children in self care"
 
 ## OPEN (should be rare)
 
@@ -52,7 +55,9 @@ measured: stage=RESEARCHED eras=10/10 stories=16 (v16 c0 t0) verify_tags=0 bank=
 - 05: contents of the Adams letters (crops, tenants, shortages: outline only, not bank). "Store-bought would start replacing homemade" (next century, not in bank). Household-production span folded into the era text (would have repeated era 04's span).
 - 06: "childhood as a time to protect"; "most farm and working households could not live this way" (not in bank). Stove saved fuel / wood shortage (search summary only). The 1920s-30s discipline shift left to era 08.
 - 07: Ingalls "family of five"; the $413 buy-and-resell of 1876 (confusing, not needed); tuberculosis as the 1900 commission's concern (search summary only); Massachusetts law as "first" (not in bank).
-Count: 12.
+- 08: furniture "turned to face" the TV (outline only, era 09). Bungalow "many were Sears kits" (not sourced). Rogarshevsky arrival 1901, six children, three rooms, Abraham a presser (search summary only). 15 million moved 1940-47 (search summary only). Whether Theodore Bladykas was a veteran (not in sources).
+- 10: 2025 unsheltered count 266,320 (bank line came via search summary). Wells Fargo executive's "fewer than 2 percent" comment (not needed).
+Count: 12 (T-304a) + 7 (T-304b) = 19.
 
 ## Decisions and defects fixed
 - Bank 1565 party "24 women": opened Florida Museum page says 26. Wrote 26, PATCH records the correction.
@@ -65,7 +70,15 @@ Count: 12.
 - Mary Ring story enriched from the styles bank's opened inventory (PATCHed into our bank first, with source).
 - Land named for every newcomer settlement: Seloy (Timucua), Patuxet (Wampanoag), New Sweden (Lenape), Walnut Grove (Dakota, 1851), Devils Lake (Spirit Lake Dakota). Hallowell left unnamed (SEARCHED, NOT FOUND).
 
+- T-304b: outline "Crowds of 200 to 1,000 local people" and "first mass-produced suburbs": bank does not say "local" or "mass-produced". Wrote "people" and described Levittown by its numbers.
+- T-304b: outline Myers "for nearly three months" (bank era 09 line) against Baltimore Sun "more than a week" and "about six weeks": wrote the Baltimore Sun figures.
+- T-304b: outline Colfax "two former teachers": bank supports only David's university posts. Left "teachers" out.
+- T-304b: outline Munoz "first day had been hard": bank quote is "it was a challenge because we couldn't log in". Quoted the bank exactly.
+- T-304b: outline "Sears ... 1908-1940" kept, Wikipedia gives sales to 1942 (not written).
+- T-304b: personification repaired (Wells Fargo's staff foreclosed, NCRC researchers found, William Levitt and his company rented).
+
 ## TO PARK (FILED by the director, 2026-09-27)
+- T-304b (new): education / health: Davis, Chandler and LaRossa 2004 (147 letters to Angelo Patri, 1924-1939, on corporal punishment) and Watson 1928 advice; CDC TB definition. research-home-family.md era 08 T-304b PATCH.
 - native-nations / slavery-freedom: Florida Museum "First Contacts" page (opened 2026-09-29) confirms Menendez's ~800 colonists included 26 women and an unknown number of enslaved Africans, and that Seloy's council house was the first Spanish fort. Plymouth 400, Inc. (opened) gives Hunt's 1614 capture as 20 from Patuxet and 7 from Nauset. Full text: research-home-family.md, eras 02 and 03 T-304a PATCHes.
 - health: 1776 inoculation method (lancet, pus-soaked thread) and death rates (about 30% natural smallpox, 2-3% inoculation), Journal of the American Revolution, April 2026. research-home-family.md era 05 T-304a PATCH.
 
@@ -78,3 +91,7 @@ Count: 12.
 - 2026-09-29 T-304a unit 6: era 06 written (spans parlor/domesticity, stove, child's day with Proverbs 13:24 quoted, home under slavery; stories Catharine Beecher, Buffalo Bird Woman). 1503w. validator 0 errors. --punct emdash=0 semicolon=0.
 - 2026-09-29 T-304a unit 7: era 07 written (spans tenement flat, Victorian house and help, sod houses and dugouts with Dakota 1851 treaty land, the law reaches for the children; stories Gumpertz, Calof with Spirit Lake land). 1371w. validator 0 errors. --punct emdash=0 semicolon=0.
 - 2026-09-29 T-304a: self-review run on both files (read-aloud, shapes, document-element verbs, institutions as subjects, passives, hard words, softening, repeated era openings). Repairs applied. Final: part1 validator 0 errors, emdash=0 semicolon=0. part2 validator 0 errors, emdash=0 semicolon=0. Words: part1 2632, part2 2879.
+- 2026-09-29 T-304b unit 8: era 08 written (spans washday/water/refrigerator/Cowan, bungalow and Sears kit, Rogarshevsky tuberculosis, mortgage remade and HOLC/FHA maps, Depression households and kitchenettes, spanking and the new advice, teenager and war moves; stories Baldizzi, Bladykas). About 2200w (file 2269w incl. header). validator 0 errors. --punct emdash=0 semicolon=0. PATCH: discipline 1920s-30s (Davis et al. 2004, Watson 1928), TB definition (CDC), WWII moves (NPS), Sears kit (Wikipedia).
+- 2026-09-29 T-304b unit 9: era 09 written (spans suburbia and whites-only sales after 1948, TV, divorce/mothers at work/latchkey counts, homeschooling roots; stories Myers, Clyde Ross, Colfax). About 1540w (file 3806w). validator 0 errors. --punct emdash=0 semicolon=0. PATCH: mothers at work 1975-2000 and self care 1995 (copied from the sports-play bank with sources).
+- 2026-09-29 T-304b unit 10: era 10 written (spans bigger houses/smaller households, 2008 foreclosures with Countrywide and Mozilo named, multigenerational, homelessness 2024-2025, 2020 work and school at home; stories Solon/Familia, Munoz). Every figure dated and its source named. validator 0 errors. --punct emdash=0 semicolon=0.
+- 2026-09-29 T-304b unit 11: self-review run (read-aloud, shapes, era openings vs part2, institutions as subjects, passives on harm, hard words, softening, fourth wall). Repairs: era 08 opening reshaped (matched era 07's "Between..."), Myers anaphora merged, agentless eviction passives named the owner, invented author first names removed from bank, unsupported claims cut. Final: part3 5106w, validator 0 errors, emdash=0 semicolon=0, PASS home-family / prose (manuscript 11162w, 16 stories verified).

@@ -3337,9 +3337,11 @@ RESULT: DONE. PASS  technology / prose. measured: stage=WRITTEN ms_eras=10/10 wr
 NOTE (Jon): T-303b used 81% -> 85% (4%). Burst of 3 finishers (4 fits but risky at 85%).
 
 ### 2026-09-27 | [LOCAL] T-304b | home-family: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-304-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=11162w files=3 validator_errors=0
+        228235 tokens, 79 tool uses, 9.9 min (opus). Writer B: part3 (5,106w), chapter PASSES prose. Washday, water and power, refrigerators, Sears kits, the Rogarshevskys and TB (defined), redlining, kitchenettes, spanking advice, war-work moves; suburbs and whites-only sales, TV, divorce, working mothers, latchkey counts, homeschooling; bigger houses, 2008 (Countrywide, Mozilo), homelessness, 2020 at home. 2 PATCH, 0 not found, 7 outline claims left out. Fixed: unsupported outline words cut, Munoz misquote replaced, Myers figures, guessed author first names removed from its own PATCH.
 
 ### 2026-09-27 | [LOCAL] T-305b | transportation: writer B: eras 8-10 prose (part3), completes the chapter [BURST3] | model opus
 STATUS: IN-FLIGHT

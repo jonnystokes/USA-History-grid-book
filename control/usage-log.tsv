@@ -235,3 +235,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-27	T-301b	research	general-purpose/opus	[LOCAL] landmarks: Writer B: part3 (5,287w), chapter PASSES prose. Eras 8-10: Lincoln Memorial (seg	?	?	?	277437	117	935639	?	completed	PASS  landmarks / prose
 2026-09-27	T-302b	research	general-purpose/opus	[LOCAL] energy: Writer B: part3 (6,724w), chapter PASSES prose. Spindletop, Monongah and Ludlow,	?	?	?	262255	80	754967	?	completed	PASS  energy / prose
 2026-09-27	T-303b	research	general-purpose/opus	[LOCAL] technology: Writer B: part3 (~5,100w), chapter PASSES prose. Assembly line and 1913 deaths, 	?	?	?	261673	81	821647	?	completed	PASS  technology / prose
+2026-09-27	T-304b	research	general-purpose/opus	[LOCAL] home-family: Writer B: part3 (5,106w), chapter PASSES prose. Washday, water and power, refrig	?	?	?	228235	79	595779	?	completed	PASS  home-family / prose
