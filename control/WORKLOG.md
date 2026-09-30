@@ -3576,3 +3576,4 @@ AGENT: ac1ff4ea39d4ac642 (salvage: python tools/salvage_agent.py ac1ff4ea39d4ac6
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/T-327-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+AGENT: ae4fb9800634267b7 (salvage: python tools/salvage_agent.py ae4fb9800634267b7 --tail)
