@@ -3464,7 +3464,9 @@ from this: single writer up to ~47k slice words (exploration, holidays, drugs-al
 writers above that (disasters, war, news-communication ~52-55k). Jon asleep: autonomous, one at a time.
 
 ### 2026-09-29 | [LOCAL] T-316 | exploration: ONE writer, all 10 eras | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/T-316-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage prose
+RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=35 (verified 35) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18990w files=3 validator_errors=0
+        342316 tokens, 82 tool uses, 17.8 min (opus). SINGLE WRITER: all 10 eras, PASS prose (18,990w, 35 stories). WEB BLOCKED (usage limit): 0 PATCH, 6 questions for step 4 in checkpoint, 12 outline claims left out.
 AGENT: a8b33083348329539 (salvage: python tools/salvage_agent.py a8b33083348329539 --tail)
