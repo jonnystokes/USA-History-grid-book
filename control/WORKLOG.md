@@ -4609,3 +4609,7 @@ RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written
         363949 tokens, 224 tool uses, 15.7 min (opus). FIXER whole chapter [WAVE6]: 197 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 10 found by fixer; ~12 PATCHes; 14,146 -> 15,345 words
 USAGE T-444: 41% -> 49% = 8% for 504k. WAVE6 (T-445..T-450, 6 opus fixers, smallest chapters) at 49% (Jon); target just under 90%.
 AGENTS WAVE6: T-445 acf67bc51ed6cd7c1, T-446 aa052656c702700ac, T-447 a76903db4af8742b7, T-448 ab920fc53ee844802, T-449 a8c7acad8fe25cc78, T-450 ae23321b13df52b6c
+
+### 2026-10-01 | [LOCAL] WAVE6 done: 6 opus whole-chapter fixers (T-445..T-450), all PASS. Tokens 356k-427k
+(total 2.29M). Usage at start 49%; Jon to read the end figure. Step 5 so far: economy, art, transportation,
+home-family, landmarks, food-farming, science, money whole; rights-movements part3. 28 chapters (+2 giant parts) left.
