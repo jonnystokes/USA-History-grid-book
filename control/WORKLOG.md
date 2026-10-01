@@ -4595,3 +4595,4 @@ VERIFY: python tools/project_state.py --check science --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+USAGE T-444: 41% -> 49% = 8% for 504k. WAVE6 (T-445..T-450, 6 opus fixers, smallest chapters) at 49% (Jon); target just under 90%.
