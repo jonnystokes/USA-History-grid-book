@@ -4544,3 +4544,4 @@ RESULT: DONE. PASS  economy / prose. measured: stage=WRITTEN ms_eras=10/10 writt
         400988 tokens, 264 tool uses, 18.8 min (opus). FIXER whole chapter (test 1): 171 findings judged (150 FIXED, 19 REJECTED, 2 NEEDS-RESEARCH), 11 found by fixer, ~20 PATCHes; 14,386 -> 16,062 words
 USAGE AT START (T-442 fixer test 1): 26% (Jon).
 AGENT: afd0189d1e1ec09bc
+PAUSED after T-442 for Jon's usage reading.
