@@ -4230,9 +4230,11 @@ CHECKPOINT: control/checkpoints/A3-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
 
 ### 2026-09-30 | [LOCAL] T-404 | health: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+RESULT: DONE. PASS  health / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=19504w files=3 validator_errors=0
+        185660 tokens, 17 tool uses, 5.2 min (sonnet). CHECKER sonnet part2: 65 findings (2 B, 12 M, 51 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-405 | health: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
