@@ -3964,9 +3964,11 @@ RESULT: DONE. PASS  transportation / prose. measured: stage=WRITTEN ms_eras=10/1
         172039 tokens, 20 tool uses, 4.5 min (sonnet). CHECKER sonnet part2: 61 findings (8 B, 9 M, 44 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-365 | transportation: CHECKER sonnet, part3 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+RESULT: DONE. PASS  transportation / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13124w files=3 validator_errors=0
+        183669 tokens, 16 tool uses, 5.3 min (sonnet). CHECKER sonnet part3: 81 findings (22 B, 8 M, 51 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-366 | landmarks: CHECKER sonnet, part1 [BURST10] | model sonnet
 STATUS: IN-FLIGHT
