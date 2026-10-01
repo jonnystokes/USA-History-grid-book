@@ -4535,3 +4535,8 @@ BURST12 opened (Jon, 2026-10-01, fresh window): the last 12 audit files, big one
 3.41M tokens; 1,569 findings (104 blocking). The 10 big files read era by era: 205k-413k tokens each, no failures.
 Whole audit: 111/111 part files, ~9,700 findings, ~1,000 BLOCKING. Rulings #37-38 logged. Nothing in flight.
 Next: step 4 (research round 2) and step 5 (fixers), planned with Jon.
+
+### 2026-10-01 | [LOCAL] T-442 | economy: FIXER opus, whole chapter (test 1: smallest) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-economy.md
+VERIFY: python tools/project_state.py --check economy --stage prose
