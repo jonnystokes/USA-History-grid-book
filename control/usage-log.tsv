@@ -338,3 +338,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-390	prose	general-purpose/sonnet	[LOCAL] government-politics: CHECKER sonnet part1: 80 findings (7 B, 8 M, 65 m) [BURST40]	?	?	?	204932	13	402602	?	completed	PASS  government-politics / prose
 2026-09-30	T-399	prose	general-purpose/sonnet	[LOCAL] slavery-freedom: CHECKER sonnet part1: 95 findings (1 B, 8 M, 86 m) [BURST40]	?	?	?	205010	14	356219	?	completed	PASS  slavery-freedom / prose
 2026-09-30	T-394	prose	general-purpose/sonnet	[LOCAL] war: CHECKER sonnet part2: 94 findings (8 B, 16 M, 70 m) [BURST40]	?	?	?	211898	16	414986	?	completed	PASS  war / prose
+2026-09-30	T-401	prose	general-purpose/sonnet	[LOCAL] slavery-freedom: CHECKER sonnet part3: 69 findings (1 B, 22 M, 46 m) [BURST40]	?	?	?	192482	17	352464	?	completed	PASS  slavery-freedom / prose
