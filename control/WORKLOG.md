@@ -4129,3 +4129,8 @@ VERIFY: python tools/project_state.py --check war --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+
+### 2026-09-30 | [LOCAL] T-395 | war: CHECKER sonnet, part3 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-war.md
+VERIFY: python tools/project_state.py --check war --stage prose
