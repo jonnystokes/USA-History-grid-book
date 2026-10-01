@@ -4058,9 +4058,11 @@ CHECKPOINT: control/checkpoints/A3-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
 
 ### 2026-09-30 | [LOCAL] T-378 | economy: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-economy.md
 VERIFY: python tools/project_state.py --check economy --stage prose
+RESULT: DONE. PASS  economy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13293w files=3 validator_errors=0
+        166919 tokens, 14 tool uses, 4.7 min (sonnet). CHECKER sonnet part1: 45 findings (4 B, 5 M, 36 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-379 | economy: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
