@@ -4567,9 +4567,11 @@ AGENT: a61c55a07946dc767
 PAUSED after T-444 (all 3 fixer tests done) for Jon's usage reading.
 
 ### 2026-10-01 | [LOCAL] T-445 | transportation: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+RESULT: DONE. PASS  transportation / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13749w files=3 validator_errors=0
+        356305 tokens, 202 tool uses, 16.0 min (opus). FIXER whole chapter [WAVE6]: 173 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 15 found by fixer; 10 cross-chapter pointers cut; 14,206 -> 14,828 words
 
 ### 2026-10-01 | [LOCAL] T-446 | home-family: FIXER opus, whole chapter [WAVE6] | model opus
 STATUS: IN-FLIGHT

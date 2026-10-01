@@ -16,21 +16,21 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 Before 1500, people in North America traveled on foot and by water. No one here used wheeled vehicles, and there were no horses. The horses of the Americas had died out after the ice age. North of Mexico, no large animal was left that could pull a cart.
 
-Historians explain the missing wheel this way. A cart needs an animal to pull it, and there was none. People already moved themselves and their goods over trails and rivers that crossed the whole continent. In Mesoamerica, the region that is now Mexico and Central America, people made toys with wheels. They did not use wheels to haul loads.
+Historians give a simple reason why no one here used the wheel for travel: a cart needs an animal to pull it, and there was none. People already moved themselves and their goods over trails and rivers that crossed the whole continent. In Mesoamerica, the region that is now Mexico and Central America, people made toys with wheels. They did not use wheels to haul loads.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The trail network" -->
-Native nations built and kept up long trails, and many of those trails had names. The Great Trail, also called the Great Path, was a network of footpaths. Algonquian-speaking and Iroquoian-speaking peoples used it to travel between New England, the mid-Atlantic coast and the Great Lakes.
+Native people built and kept up long trails, and many of those trails had names. The Great Trail, also called the Great Path, was a network of footpaths. Peoples who spoke Algonquian and Iroquoian languages, two large families of related languages, used it to travel between New England, the middle of the Atlantic coast and the Great Lakes.
 
-The route later called the Natchez Trace started as paths worn by bison walking to salt licks near present-day Nashville. A salt lick is a place where animals lick salt from the ground. The Natchez, Choctaw and Chickasaw nations followed these paths, widened them and kept them clear. They used them for trade, for travel, for war, and for diplomacy, which means talks between nations. People have used this route for about 8,000 years.
+The route later called the Natchez Trace started as paths worn by bison walking to salt licks near present-day Nashville. A salt lick is a place where animals lick salt from the ground. Natchez, Choctaw and Chickasaw people followed these paths, widened them and kept them clear. They used them for trade, travel, war and talks with other nations. People have used this route for about 8,000 years.
 
-People carried goods very long distances on the trails and rivers. As early as 6000 BC, they traded seashells and copper between the Great Lakes and the coast of the Gulf of Mexico. The copper was native copper, which means copper found pure in the ground. Many of these trails later became colonial roads, and some of those roads became highways.
+As early as 6000 BC, people carried seashells and copper along the trails and rivers, trading them between the Great Lakes and the coast of the Gulf of Mexico. The copper was native copper, which means copper found pure in the ground. Many of these trails later became colonial roads, and some of those roads became highways.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Canoes, portages and the travois" -->
-People built two main kinds of boat for the rivers and lakes. A dugout canoe was made from one log. Builders hollowed it out with fire and tools. Dugouts were the main boats of the Eastern Woodlands and the Southeast for thousands of years. Some dugouts found in lakes in Wisconsin are more than 4,000 years old.
+On the rivers and lakes, people built dugout canoes and birchbark canoes. A dugout canoe was made from one log. Builders hollowed it out with fire and tools. Dugouts were the main boats of the Southeast and of the Eastern Woodlands, the forests that covered the eastern part of the continent, for thousands of years. Some dugouts found in lakes in Wisconsin are more than 4,000 years old.
 
-In the Northeast and around the Great Lakes, people built canoes from the bark of birch trees. One or two people could carry a birchbark canoe. It floated in shallow water, and its owners repaired it with materials from the forest. Builders made them in every size from one-person boats up to large canoes that carried freight. Freight means goods being shipped.
+In the Northeast and around the Great Lakes, people built canoes from the bark of birch trees. One or two people could carry a birchbark canoe. It floated in shallow water, and its owners repaired it with materials from the forest. Builders made them in sizes from one-person boats up to large canoes that carried freight. Freight means goods being shipped.
 
 Where one river or lake ended, travelers lifted their canoes and carried them over land to the next one. That overland crossing is called a portage. Portages and trails linked the waterways into one network across the continent.
 
@@ -42,19 +42,21 @@ On the Great Plains, dogs were the only animals people used to haul loads. A dog
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-Spanish sailors brought horses back to the Americas in the 1500s. In 1565 Spanish colonists built a port at St. Augustine, in Florida, in a town of the Timucua people. In 1598 Spanish colonists led by Juan de Oñate brought 83 wagons and carts north into Pueblo land in New Mexico. Most people living here still traveled on foot, by canoe and along trails.
+Spanish soldiers brought horses onto the mainland of North America in 1540, almost fifty years after Christopher Columbus first carried horses to the Caribbean islands. In 1565 Spanish colonists settled in a town of the Timucua people in Florida, and their settlement, St. Augustine, became a port. Thirty-three years later, colonists led by Juan de Oñate brought 83 wagons and carts north into Pueblo land in New Mexico. The people of the Native nations still traveled on foot, by canoe and along trails.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Horses, a port and wagons" -->
-Christopher Columbus carried horses to the Caribbean islands on his second voyage, in 1493. Spanish soldiers brought horses onto the mainland of North America with Coronado's expedition of 1540 to 1542.
+Christopher Columbus carried horses to the Caribbean islands on his second voyage, in 1493. Spanish soldiers brought horses onto the mainland of North America from 1540 to 1542, on a long march led by a Spanish commander named Coronado.
 
-On September 8, 1565, Pedro Menéndez de Avilés landed at Seloy, a Timucua town in what is now Florida. Seloy was also the name of the town's chief, who answered to a greater chief named Saturiwa. Father Francisco López de Mendoza Grajales was the priest with the Spanish ships. He wrote that the Timucua received the Spanish well and gave them a large house belonging to their chief, on the riverbank. Two Spanish captains, Patiño and San Vicente, then had a ditch, a moat and a wall of earth built around the house. It became the first Spanish fort there.
+On September 8, 1565, Pedro Menéndez de Avilés landed at Seloy, a Timucua town in what is now Florida. Seloy was also the name of the town's chief, who answered to a greater chief named Saturiwa. Father Francisco López de Mendoza Grajales was the priest with the Spanish ships. He wrote that the Timucua received the Spanish well and gave them a large house belonging to their chief, on the riverbank. It was the chief's council house, where the town's leaders met. The Spanish took it over. Two Spanish captains, Patiño and San Vicente, then had a ditch, a moat and a wall of earth built around the house. It became the first Spanish fort there.
 
-Sources give different counts of the people who came with Menéndez. One count is about 1,500 soldiers and colonists. Another is 800 colonists, including 24 women and an unknown number of enslaved Africans. St. Augustine is the oldest European settlement and port in the continental United States where people have lived without a break ever since. Spanish ships sailing between Spain and the Caribbean stopped there for supplies and for protection.
+Accounts differ on how many people came with Menéndez. One count is about 1,500 soldiers and colonists. Another is 800 colonists, including 24 women and an unknown number of enslaved Africans.
 
-In January 1598, Juan de Oñate led a Spanish colony north from Santa Bárbara, in northern New Spain. New Spain was the Spanish colony that included Mexico. About 400 men came, about 130 of them with families. They brought 83 wagons and carts and more than 7,000 farm animals. In late April the column reached the Rio Grande near El Paso del Norte. On April 30, 1598, Oñate claimed New Mexico for Spain in a ceremony the Spanish called La Toma, which means "the taking."
+St. Augustine is the oldest European settlement and port on the mainland of the United States where people have lived without a break ever since. Spanish ships sailing between Spain and the Caribbean stopped there for supplies and for protection.
 
-The land the colony moved into was the homeland of the Pueblo peoples. In July 1598 Oñate set up the colony's headquarters at San Juan Pueblo, called Ohkay Owingeh, on the upper Rio Grande. The route the wagons followed became El Camino Real de Tierra Adentro, Spanish for "the royal road of the interior." It ran from Mexico City to northern New Mexico.
+In January 1598, Juan de Oñate led a Spanish colony north from Santa Bárbara, in northern New Spain. New Spain was the Spanish colony that included Mexico. About 400 men came, about 130 of them with families. They brought 83 wagons and carts and more than 7,000 farm animals. In late April the long line of wagons, people and animals reached the Rio Grande near El Paso del Norte.
+
+The land the colony moved into was the homeland of the Pueblo peoples. On April 30, 1598, Oñate claimed New Mexico for Spain in a ceremony the Spanish called La Toma, which means "the taking." In July 1598 Oñate set up the colony's headquarters at San Juan Pueblo, called Ohkay Owingeh, on the upper Rio Grande. The route the wagons followed became El Camino Real de Tierra Adentro, Spanish for "the royal road of the interior." It ran from Mexico City to northern New Mexico.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -62,7 +64,7 @@ The land the colony moved into was the homeland of the Pueblo peoples. In July 1
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the English colonies of the 1600s, colonists moved most of their goods by water. They used canoes, small open boats called shallops, and ships that sailed along the coast from one colony to another. In 1631 the colony's leaders licensed a rowed ferry across Boston's harbor. In 1673 a rider on horseback began carrying mail from New York to Boston, along paths that Native people had made long before.
+In the English colonies of the 1600s, colonists moved most of their goods by water. They used canoes, small open boats called shallops, and ships that sailed along the coast from one colony to another. In 1631 the leaders of the Massachusetts colony licensed a rowed ferry across Boston's harbor. In 1673 a rider on horseback began carrying mail from New York to Boston, along paths that Native people had made long before.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Boston Post Road" -->
@@ -79,11 +81,11 @@ The upper part of the road followed the Old Connecticut Path and the Bay Path. T
 > **Who:** A Puritan settler and church deacon who ran the first licensed ferry between Charlestown and Boston.
 > **When and where:** Boston harbor, licensed June 14, 1631. Lived 1589 to 1663.
 
-Edward Converse ran a rowed ferry across the harbor between Charlestown and Boston, and the court record that licensed it still exists. The Massachusetts Court of Assistants was the colony's ruling council. On June 14, 1631, its members wrote that "Edw: Converse hath vndertaken to sett vpp a fferry betwixte Charlton & Boston." That is how people spelled English then. In today's spelling, it says Converse had agreed to set up a ferry between Charlestown and Boston.
+Edward Converse ran a rowed ferry across the harbor between Charlestown and Boston. The members of the Massachusetts Court of Assistants, the colony's ruling council, licensed it, and their written record still exists. On June 14, 1631, they wrote that "Edw: Converse hath vndertaken to sett vpp a fferry betwixte Charlton & Boston." That is how people spelled English then. In today's spelling, it says Converse had agreed to set up a ferry between Charlestown and Boston.
 
-The court's members also set his fares. He could charge two pence to carry one passenger. When two or more crossed together, each paid one penny. A penny was a small English coin, and pence is the word for more than one. Some Boston sources say the ferry started running in 1630. The ferry is often called the first chartered public transportation in North America. A charter is written permission from a government.
+The court's members also set his fares. He could charge two pence to carry one passenger. When two or more crossed together, each paid one penny. A penny was a small English coin, and pence is the word for more than one. Some Boston accounts say the ferry started running in 1630. The license was a charter, which is written permission from a government. Boston history groups call the ferry the first chartered public transportation in North America.
 
-Converse was a Puritan, one of the English Protestants who settled Massachusetts, and a deacon, a church officer who helps the minister. He lived from 1589 to 1663. In 1639 the Charlestown ferry earned 50 pounds in English money. In 1640 the colony's leaders gave the ferry's earnings to Harvard College.
+Converse was a Puritan, a member of a strict English Christian group that settled Massachusetts, and a deacon, a church officer who helps the minister. He lived from 1589 to 1663. In 1639 the Charlestown ferry earned 50 pounds in English money. In 1640 the colony's leaders gave the ferry's earnings to Harvard College.
 <!-- hb-story:end slug="edward-converse" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -91,17 +93,17 @@ Converse was a Puritan, one of the English Protestants who settled Massachusetts
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1700 and 1750, colonists began using wagons and coaches on roads between towns. Wagon builders in Pennsylvania made the Conestoga wagon to haul farm goods to Philadelphia. The first stage lines started carrying passengers in New Jersey in 1706. On her ride from Boston to New York in 1704, Sarah Kemble Knight crossed rivers by canoe in the dark.
+Between 1700 and 1750, colonists began using wagons and coaches on roads between towns. Wagon builders in Pennsylvania made the Conestoga wagon to haul freight to Philadelphia. In 1706 New Jersey officials gave a man named Hugh Huddy the right to run a stage line for passengers. On her ride from Boston to New York in 1704, Sarah Kemble Knight crossed rivers by canoe in the dark.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Conestoga wagon" -->
 The Conestoga wagon was a large freight wagon from Lancaster County, Pennsylvania. The oldest record of its name is from December 31, 1717. That day James Logan, who had been William Penn's secretary, wrote in his account book that he had bought a "Conestogoe Waggon."
 
-German and Swiss wagon builders along the Conestoga River worked out the design. The bed of the wagon curved down toward the middle, so the load settled toward the center. A white cloth cover stretched over hoops above the bed. Teams of four to six horses pulled it. Farmers used Conestogas to haul loads more than 60 miles to Philadelphia. People in the East used it as their main freight wagon until the railroads came.
+German and Swiss wagon builders along the Conestoga River worked out the design. The bed of the wagon curved down toward the middle, so the load settled toward the center. A white cloth cover stretched over hoops above the bed. Teams of four to six horses pulled it. Drivers used Conestogas to haul loads more than 60 miles to Philadelphia. People in the East used it as their main freight wagon well into the age of railroads.
 
-The wagon took its name from the Conestoga River and from the Conestoga people who lived in Lancaster County. In December 1763, a mob of men from Paxton township killed the last of the Conestoga people. These men are known as the Paxton Boys. On December 14 or 15, 1763 (sources give both dates), about 57 of these men attacked Conestoga Manor. It was a Conestoga settlement under the protection of Pennsylvania's colonial government. The men killed the six people at home there: three men, two women and a boy.
+The wagon took its name from the Conestoga River and from the Conestoga people who lived in Lancaster County. In December 1763, a mob of men from Paxton township, a district of Pennsylvania, killed the last of the Conestoga people. These men are known as the Paxton Boys. On December 14 or 15, 1763 (accounts give both dates), a group of these men attacked Conestoga Manor, a Conestoga settlement under the protection of Pennsylvania's colonial government. One account counts 57 men in the group. They killed the six people at home there: three men, two women and a boy.
 
-Lancaster officials locked the Conestoga survivors in the county workhouse to protect them. On December 27 the mob broke in and killed them, men, women and children. Sources count 14 or 16 people killed that day. About 20 Conestoga people were killed in the two attacks. No one was ever put on trial for the killings.
+Lancaster officials locked the Conestoga survivors in the county workhouse to protect them. A workhouse was a locked building where people who broke small laws were held and made to work. On December 27 the mob broke in and killed them, men, women and children. Accounts count 14 or 16 people killed that day. About 20 Conestoga people were killed in the two attacks. No witnesses ever came forward to speak against the men, and no one was ever put on trial for the killings.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Stage lines, log roads and the Great Wagon Road" -->
@@ -109,9 +111,11 @@ A stage line carried passengers in a wagon or coach along a fixed route between 
 
 Where a road crossed swampy ground, builders laid logs side by side across it. This was called a corduroy road, after a cloth with raised ribs.
 
-The Great Wagon Road ran from Philadelphia down the Shenandoah Valley of Virginia toward Augusta, Georgia. Sources give its length as about 730 miles or almost 800 miles, depending on where they end the count. Colonists used it heavily from the 1720s on. South of Lancaster and York, in Pennsylvania, the road roughly followed a route that Europeans called the Great Warriors' Path. Native people had made that path to travel through the Shenandoah Valley, and they still valued it. In the Treaty of Lancaster of 1744, Iroquois leaders gave up their use of the path and their claims in the Shenandoah Valley.
+The Great Wagon Road ran from Philadelphia down the Shenandoah Valley of Virginia toward Augusta, Georgia. Accounts give its length as about 730 miles or almost 800 miles, depending on where the count ends. Colonists used it heavily from the 1720s on.
 
-Virginia's lawmakers passed road laws in 1632 and 1657 and added to them in 1661. Under those laws, colonists built and repaired the roads themselves. Each year the members of the county court chose an overseer of the highways. He called out the "Labouring Male Titheables" who lived on or near the road. Tithables were the people counted for a tax on each person, and they included free men and enslaved men 16 and older. These men brought their own tools, wagons and teams of animals, and they had to work six days a year on the roads. The surviving road orders do not say how many of the men were enslaved.
+South of Lancaster and York, in Pennsylvania, the road roughly followed a route that Europeans called the Great Warriors' Path. Native people had made that path to travel through the Shenandoah Valley, and they still valued it. In June 1744, leaders of the Six Nations of the Iroquois met officials of Pennsylvania, Virginia and Maryland in the town of Lancaster. In the treaty they made there, the Treaty of Lancaster, the Iroquois leaders gave up their use of the path and their claims in the Shenandoah Valley. The two sides later disagreed about how much land the treaty covered. Virginia's leaders claimed land as far as the Ohio River and beyond it. The Iroquois said they had given up much less.
+
+Virginia's lawmakers passed road laws in 1632 and 1657 and added to them in 1661. Under those laws, colonists built and repaired the roads themselves. Each year the members of each county court chose an overseer of the highways, a man put in charge of the roads. He was usually given all the "Labouring Male Titheables" who lived on or near the road. Tithables were the people counted for a tax on each person. They included all free men 16 and older and all enslaved people 16 and older, women as well as men. The road orders required the working men among them to bring their own tools, wagons and teams of animals and to work six days a year on the roads. The surviving road orders do not say how many of these men were enslaved, or whether the people who enslaved them supplied the tools and teams.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="sarah-kemble-knight-transportation" name="Sarah Kemble Knight" movie="" kind="ordinary" status="verified" -->
@@ -130,15 +134,15 @@ Her journal records the road itself. She crossed some rivers by canoe in the dar
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-After 1750, investors began paying to build roads and charging travelers a fee to use them. The Philadelphia and Lancaster Turnpike, finished in the mid-1790s, was the first long-distance road of this kind in the country. On the Delaware River, John Fitch ran steamboats. In 1790 his boat carried paying passengers on a schedule, seventeen years before Robert Fulton's steamboat on the Hudson.
+In 1792, people in and around Philadelphia and Lancaster put their money into a company that built a road and charged travelers a fee to use it. Their Philadelphia and Lancaster Turnpike, finished in the mid-1790s, was the first long-distance road of this kind in the country. On the Delaware River, John Fitch ran steamboats. In 1790 his boat carried paying passengers on a schedule, seventeen years before Robert Fulton's steamboat on the Hudson.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first turnpike" -->
 A turnpike is a road whose owners charge a fee, called a toll, to use it. Travelers paid the toll at gates along the road. The Philadelphia and Lancaster Turnpike Company got its charter in 1792, and work on the road began that year. People in and around Lancaster and Philadelphia bought 1,000 shares of the company's stock at $300 each. A share of stock is a piece of ownership in a company. A Philadelphia merchant, William Bingham, led the company.
 
-The road ran 62 miles between Philadelphia and Lancaster. It mostly followed the older Philadelphia-Lancaster Road, which was the first stretch of the Great Wagon Road. The builders gave it a surface of broken stone and gravel. Sources disagree on when it opened. Some say it was in use in 1794, and most say 1795. The records name the company's investors and its president. They do not say who broke the stone or how many men did the work.
+The road ran 62 miles between Philadelphia and Lancaster. It mostly followed the older Philadelphia-Lancaster Road, which was the first stretch of the Great Wagon Road. The road had a surface of broken stone and gravel. Accounts differ on when it opened. Some say it was in use in 1794, and most say 1795. The records name the people who bought shares and the company's president. They do not say who broke the stone or how many men did the work.
 
-The Lancaster Turnpike was the country's first long-distance engineered toll road. Engineered means it was planned and built to a design, with a prepared surface. The historian Charlene Mires writes that its success started a wave of toll-road building. By the 1830s the country had almost 12,000 miles of turnpikes.
+The Lancaster Turnpike was the country's first long-distance engineered toll road. Engineered means it was planned and built to a design, with a prepared surface. The historian Charlene Mires writes that after the Lancaster Turnpike succeeded, people built many more toll roads. By the 1830s the country had almost 12,000 miles of turnpikes.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Steam on the Delaware" -->
@@ -150,11 +154,11 @@ In the summer of 1790, Fitch's boat, the *Experiment*, carried passengers on a s
 <!-- hb-story:start slug="john-fitch" name="John Fitch" movie="" kind="famous" status="verified" -->
 ### John Fitch
 
-> **Who:** The builder of the first American steamboats and the first scheduled steamboat service for paying passengers.
+> **Who:** The builder of a working steamboat in 1787 and of the first steamboat service anywhere to carry paying passengers on a schedule.
 > **When and where:** The Delaware River, 1787 to 1790. Died 1798.
 
-John Fitch had a steamboat carrying paying passengers on a schedule in 1790, and the business failed. Too few people bought tickets to pay for running it. The machinery broke down. The people who had put money into his boats stopped paying for them. Fitch died in 1798.
+John Fitch ran the first steamboat service for paying passengers on a schedule in 1790, but Robert Fulton built the first steamboat business that lasted. Fulton's steamboat began running on the Hudson River in 1807.
 
-Robert Fulton's steamboat began running on the Hudson River in 1807, and Fulton built the first steamboat business that lasted.
+Fitch's business failed because too few people bought tickets, the machinery broke down, and the people who had put money into his boats stopped paying for them. Fitch died in 1798.
 <!-- hb-story:end slug="john-fitch" -->
 <!-- hb-time:end id="1750-1800" -->
