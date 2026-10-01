@@ -4322,3 +4322,8 @@ VERIFY: python tools/project_state.py --check education --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+
+### 2026-09-30 | [LOCAL] T-415 | news-communication: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage prose
