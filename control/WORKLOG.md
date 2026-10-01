@@ -4293,3 +4293,4 @@ storytelling p3, sports-play p3). Director rulings #32-34 logged. Nothing in fli
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+USAGE AT START (T-409, biggest file alone): 62% (Jon). BURST40 measured 15% -> 62% = 1.175% per checker in parallel.
