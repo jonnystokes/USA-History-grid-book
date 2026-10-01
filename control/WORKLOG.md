@@ -4497,9 +4497,11 @@ CHECKPOINT: control/checkpoints/A3-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
 
 ### 2026-10-01 | [LOCAL] T-440 | holidays: CHECKER sonnet, part2 [BURST12] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14870w files=3 validator_errors=0
+        205071 tokens, 20 tool uses, 7.1 min (sonnet). CHECKER sonnet part2: 96 findings (5 B, 23 M, 68 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-441 | holidays: CHECKER sonnet, part3 [BURST12] | model sonnet
 STATUS: DONE
