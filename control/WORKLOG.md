@@ -4113,9 +4113,11 @@ CHECKPOINT: control/checkpoints/A3-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
 
 ### 2026-09-30 | [LOCAL] T-387 | big-business: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+RESULT: DONE. PASS  big-business / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15949w files=3 validator_errors=0
+        173052 tokens, 13 tool uses, 4.8 min (sonnet). CHECKER sonnet part1: 86 findings (4 B, 12 M, 70 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-388 | big-business: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
