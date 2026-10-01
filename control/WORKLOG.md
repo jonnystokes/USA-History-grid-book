@@ -4363,9 +4363,11 @@ RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=1
         218289 tokens, 22 tool uses, 6.4 min (sonnet). CHECKER sonnet part2: 74 findings (7 B, 12 M, 55 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-420 | music: CHECKER sonnet, part1 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=27 (verified 27) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23685w files=3 validator_errors=0
+        214075 tokens, 16 tool uses, 8.0 min (sonnet). CHECKER sonnet part1: 102 findings (15 B, 25 M, 62 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-421 | music: CHECKER sonnet, part2 [BURST20] | model sonnet
 STATUS: DONE
