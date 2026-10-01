@@ -359,3 +359,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-428	prose	general-purpose/sonnet	[LOCAL] sports-play: CHECKER sonnet part2: 79 findings (3 B, 12 M, 64 m) [BURST20]	?	?	?	192081	17	313994	?	completed	PASS  sports-play / prose
 2026-09-30	T-423	prose	general-purpose/sonnet	[LOCAL] storytelling-evolution: CHECKER sonnet part2: 86 findings (32 B, 4 M, 50 m) [BURST20]	?	?	?	198032	19	342423	?	completed	PASS  storytelling-evolution / prose
 2026-09-30	T-419	prose	general-purpose/sonnet	[LOCAL] art: CHECKER sonnet part2: 74 findings (7 B, 12 M, 55 m) [BURST20]	?	?	?	218289	22	385570	?	completed	PASS  art / prose
+2026-09-30	T-411	prose	general-purpose/sonnet	[LOCAL] drugs-alcohol: CHECKER sonnet part3: 106 findings (11 B, 6 M, 89 m) [BURST20]	?	?	?	226189	19	420559	?	completed	PASS  drugs-alcohol / prose
