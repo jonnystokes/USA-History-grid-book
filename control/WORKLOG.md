@@ -3971,3 +3971,8 @@ VERIFY: python tools/project_state.py --check landmarks --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+
+### 2026-09-30 | [LOCAL] T-368 | landmarks: CHECKER sonnet, part3 [BURST10] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-landmarks.md
+VERIFY: python tools/project_state.py --check landmarks --stage prose
