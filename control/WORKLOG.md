@@ -4444,3 +4444,4 @@ USAGE: T-409 (biggest file) 62% -> 66% = 4%. USAGE AT START (BURST20, T-410..T-4
 4% for the biggest file. Audit 99/111. Left: 12 files (10 big: crime-justice p3, rights-movements p2, disasters p3,
 religion p1/p3, education p3, art p3, music p3, storytelling p3, sports-play p3; 2 normal: holidays p2, p3).
 Rulings #35-36 logged. Nothing in flight.
+USAGE (BURST20): 66% -> 94% = 28% for 20 checkers = 1.4% each (mid-size files, avg 225k tokens). Paused by Jon until the window resets.
