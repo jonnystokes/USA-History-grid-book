@@ -4290,8 +4290,10 @@ Usage at start 15% (Jon); Jon to read the end figure. Audit 78/111. Left: 33 fil
 storytelling p3, sports-play p3). Director rulings #32-34 logged. Nothing in flight.
 
 ### 2026-09-30 | [LOCAL] T-409 | rights-movements: CHECKER sonnet, part3 (biggest file, 31.6k words; size test) | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=49892w files=3 validator_errors=0
+        460713 tokens, 63 tool uses, 14.4 min (sonnet). CHECKER sonnet part3 (31.6k words, era by era): 230 findings (44 B, 40 M, 146 m)
 USAGE AT START (T-409, biggest file alone): 62% (Jon). BURST40 measured 15% -> 62% = 1.175% per checker in parallel.
 AGENT: a654f645058bd39e3
