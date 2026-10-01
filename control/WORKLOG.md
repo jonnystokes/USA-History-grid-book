@@ -4170,9 +4170,11 @@ CHECKPOINT: control/checkpoints/A3-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
 
 ### 2026-09-30 | [LOCAL] T-394 | war: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+RESULT: DONE. PASS  war / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22339w files=3 validator_errors=0
+        211898 tokens, 16 tool uses, 6.9 min (sonnet). CHECKER sonnet part2: 94 findings (8 B, 16 M, 70 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-395 | war: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
