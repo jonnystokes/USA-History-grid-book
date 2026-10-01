@@ -4288,3 +4288,8 @@ Harness cap is 20 concurrent; ran 20 and refilled one per completion. 8.0M token
 Usage at start 15% (Jon); Jon to read the end figure. Audit 78/111. Left: 33 files, including the 11 big ones
 (crime-justice p3, rights-movements p2/p3, disasters p3, religion p1/p3, education p3, art p3, music p3,
 storytelling p3, sports-play p3). Director rulings #32-34 logged. Nothing in flight.
+
+### 2026-09-30 | [LOCAL] T-409 | rights-movements: CHECKER sonnet, part3 (biggest file, 31.6k words; size test) | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
