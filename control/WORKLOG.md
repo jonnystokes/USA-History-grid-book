@@ -4468,9 +4468,11 @@ RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         266800 tokens, 25 tool uses, 8.8 min (sonnet). CHECKER sonnet part3: 128 findings (11 B, 34 M, 83 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-433 | religion: CHECKER sonnet, part1 [BURST12] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=34821w files=3 validator_errors=0
+        320341 tokens, 39 tool uses, 11.3 min (sonnet). CHECKER sonnet part1: 172 findings (0 B, 34 M, 138 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-434 | religion: CHECKER sonnet, part3 [BURST12] | model sonnet
 STATUS: DONE
