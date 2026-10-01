@@ -4169,9 +4169,11 @@ RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10
         234324 tokens, 18 tool uses, 8.4 min (sonnet). CHECKER sonnet part1: 91 findings (5 B, 11 M, 75 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-393 | war: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+RESULT: DONE. PASS  war / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22339w files=3 validator_errors=0
+        258642 tokens, 24 tool uses, 9.5 min (sonnet). CHECKER sonnet part1: 101 findings (6 B, 19 M, 76 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-394 | war: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
