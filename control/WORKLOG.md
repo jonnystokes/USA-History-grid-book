@@ -4109,3 +4109,8 @@ VERIFY: python tools/project_state.py --check big-business --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+
+### 2026-09-30 | [LOCAL] T-391 | government-politics: CHECKER sonnet, part2 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-government-politics.md
+VERIFY: python tools/project_state.py --check government-politics --stage prose
