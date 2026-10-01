@@ -385,3 +385,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-436	prose	general-purpose/sonnet	[LOCAL] art: CHECKER sonnet part3: 153 findings (2 B, 23 M, 128 m) [BURST12]	?	?	?	283218	29	556916	?	completed	PASS  art / prose
 2026-10-01	T-434	prose	general-purpose/sonnet	[LOCAL] religion: CHECKER sonnet part3: 130 findings (1 B, 20 M, 109 m) [BURST12]	?	?	?	303651	32	585510	?	completed	PASS  religion / prose
 2026-10-01	T-433	prose	general-purpose/sonnet	[LOCAL] religion: CHECKER sonnet part1: 172 findings (0 B, 34 M, 138 m) [BURST12]	?	?	?	320341	39	679884	?	completed	PASS  religion / prose
+2026-10-01	T-435	prose	general-purpose/sonnet	[LOCAL] education: CHECKER sonnet part3: 119 findings (12 B, 21 M, 86 m) [BURST12]	?	?	?	413250	49	763566	?	completed	PASS  education / prose
