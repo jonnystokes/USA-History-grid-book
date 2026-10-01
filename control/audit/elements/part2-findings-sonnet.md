@@ -16,3 +16,39 @@
 
 Era 6 passes done: facts, hard subjects, actors, cadence, reader, punctuation. All other sentences checked and clean. Not reported: "The Keweenaw stayed the country's biggest source of copper" (place as subject, a plain statement).
 
+| 13 | 7 | 63 | Register Breaks | MAJOR | "took the land itself" | "the land itself" is on the amendment's banned list (section 2) and adds nothing. | "In 1877 the members of Congress voted to take the Black Hills." | yes |
+| 14 | 7 | 63 | Not in bank | MINOR | "released about 13 million pounds of it" | The bank gives 10 million (placer) and 3 million (hardrock) and a separate 26 million "went into" gold mining. 13 million is the reader's sum, not a stated figure, and sits beside 26 million without explanation. | "released about 13 million pounds of it, 10 million from placer mining and 3 million from hardrock mines" (or give the 26 million figure) | unsure |
+| 15 | 7 | 71 | Passives with a Missing or False Agent | MINOR | "had official warnings about eating their fish" | No actor. The bank says the state of California advises. | "California officials had warned people not to eat much fish from about 20 lakes, rivers and other waters, because of mercury." | yes |
+| 16 | 7 | 71 | Hard subjects §2: Sanitization | MINOR | "ways this mercury reaches people" | Never says what the mercury does to a person. Bank: fish in the Bear and Yuba watersheds pose "a risk to human health" and methylmercury is "the most toxic to humans." | Add: "The form of mercury in fish, methylmercury, is poisonous to people." | unsure |
+| 17 | 7 | 71 | The Reader | MINOR | "in vapor they breathe" | "vapor" is used here, but defined only two paragraphs later (line 73). | Move the definition up or say "in the gas they breathe". | yes |
+| 18 | 7 | 73 | Not in bank | MINOR | "The hatters called this step carroting." | Bank says the process was "called carroting," not who called it. | "This step is called carroting." | unsure |
+| 19 | 7 | 75 | Not in bank | MINOR | "Doctors first recorded" | Bank: "Medical writing first recorded the poisoning in 1860," no doctors named. | "Medical writing first recorded the hatters' mercury poisoning in 1860." | unsure |
+| 20 | 7 | 75 | Hard subjects §2: Lossy summarization | MINOR | "The poisoned hatters had tremors" | The bank lists itching, burning or peeling skin, loss of hair and teeth, swelling, sweating, dizziness and confusion, and says people took the tremors for drunkenness. The prose keeps three symptoms. Hair and teeth loss are the plain bodily facts a reader needs. | Add: "Their skin itched and peeled, and some lost hair and teeth. People thought the shaking hatters were drunk." (Bank also says the effects can be partly or fully reversible.) | unsure |
+| 21 | 7 | 77 | Fourth wall (Pass 5) | BLOCKING | "No record found so far names the factory owners" | "found so far" talks about the search. The prescribed form is from the side of the record. | "No surviving record names the factory owners or says how many hatters were poisoned before 1900." | yes |
+| 22 | 7 | 81 | Personification and Anthropomorphism | MINOR | "it set off its own rush" | A deposit does not set off a rush. People rushed to it. | "and thousands of miners rushed there too" (bank gives no number, so use "miners rushed there too"). | yes |
+| 23 | 7 | 81 | The Reader | MINOR | "A lode is a rich vein of ore." and "deposit" | "vein" and "ore" are undefined here ("ore" first used at line 53). | "A lode is a long band of rock rich in metal." "deposit" becomes "supply". | yes |
+| 24 | 7 | 83 | Defined Terms | MINOR | "his periodic system of the elements" | "periodic system" in one sentence and "periodic table" in the next. Pick one. | "published his periodic table of the elements" then "The periodic table is a chart ..." | yes |
+| 25 | 7 | 89 | Not in bank | MINOR | "in what is now South Dakota" | Not in the bank slice or the bank file. It is true, but the bank does not state it. | Add it to the bank, or cut the phrase. | unsure |
+| 26 | 7 | 91 | The Reader | MINOR | "Lieutenant Colonel" and "expedition" | Hard words, undefined. | "Army officer George A. Custer led a group of soldiers into the Black Hills" (rank can stay in the name) | unsure |
+| 27 | 7 | 93 | Personification and Anthropomorphism | MAJOR | "A commission led by George Manypenny then brought the Sioux an agreement" | A commission is an institution. The brief counts boards and committees. The next sentence already says "commissioners." | "George Manypenny led the commissioners. They brought the Sioux an agreement written in advance." | unsure |
+| 28 | 7 | 93 | Not in bank | MINOR | "told Sioux leaders that the United States no longer had to feed them" | The Court opinion says the commissioners "impressed upon the Indians" this. The prose narrows it to leaders. | "told the Sioux that the United States no longer had to feed them." | unsure |
+| 29 | 7 | 95 | The Reader | MINOR | "plus interest from 1877" | "interest" is not defined. | "plus the extra money it would have earned since 1877" | yes |
+| 30 | 7 | 99 | Not in bank | MINOR | "a small pyramid of aluminum" | The bank gives 100 ounces, not "small." | "a pyramid of aluminum that weighed 100 ounces" | unsure |
+| 31 | 7 | 114 | The AI Cadence | MAJOR | "He was 22 ... He used batteries ... He melted a substance" | Anaphora: three sentences in a row start with "He." | "Hall was 22 and had just finished at Oberlin College. With batteries he had made himself, he melted a substance called cryolite and dissolved aluminum oxide in it." | yes |
+| 32 | 7 | 120 | Information Order | MINOR | "By 1893 it was about 78 cents a pound. In 1888 the men who put money into Hall's work" | Dates run 1893, 1888, 1907. "the men" is not in the bank, which says "Hall's backers". | Put the 1888 company first, then the price falling to about $2, then 78 cents in 1893. Use "the people who put money into Hall's work." | yes |
+| 33 | 7 | 126 | Passives with a Missing or False Agent | MINOR | "The credit for finding helium on Earth went to Ramsay." | Credit does not travel, and no one is named as giving it. | "Scientists credit Ramsay with finding helium on Earth." | yes |
+| 34 | 7 | 124 | The Teaching Point | MINOR | "Hillebrand recorded it as nitrogen." | The paragraph never says the gas was helium or that the label was wrong until the next paragraph. | "Hillebrand recorded it as nitrogen. It was helium, but nobody knew that yet." (Bank: "the American near-miss.") | unsure |
+
+Era 7 passes done. Checked clean: Hall story records, Washington Monument paragraphs apart from #30, Comstock figures, Fort Laramie quote, $17.1 million, $106 million, $2 billion, 10 percent, three-fourths (all match the bank).
+
+## Counts
+Total 34. By severity: BLOCKING 1, MAJOR 4, MINOR 29.
+By rule: The Reader 8, Not in bank 7, Hard subjects §2 (euphemism, sanitization, lossy) 4, Personification 3, Passives 3, Information Order 2, Register/Precision 2, Metadiscourse 1, Fourth wall 1, Defined Terms 1, AI Cadence 1, Teaching Point 1.
+Eras with no findings: none.
+
+## Tool output
+node tools/validate_grid.js manuscript/elements/part2-1800s.md --part:
+=== part2-1800s.md : 1 chapters, 1 stories, 0 errors
+
+python tools/project_state.py --punct manuscript/elements/part2-1800s.md:
+manuscript/elements/part2-1800s.md: emdash=0 semicolon=0

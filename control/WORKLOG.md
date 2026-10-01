@@ -4006,9 +4006,11 @@ CHECKPOINT: control/checkpoints/A3-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
 
 ### 2026-09-30 | [LOCAL] T-370 | elements: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
+RESULT: DONE. PASS  elements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=10 (verified 10) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14738w files=3 validator_errors=0
+        162559 tokens, 12 tool uses, 3.2 min (sonnet). CHECKER sonnet part2: 34 findings (1 B, 4 M, 29 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-371 | elements: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
