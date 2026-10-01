@@ -4282,3 +4282,9 @@ RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10
 USAGE AT START (BURST40): 15% (Jon). BURST10 measured 4% -> 15% = 1.1% per sonnet checker incl. director overhead.
 BURST40 NOTE: the harness allows 20 subagents at once (CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS). Wave 1 (T-369..T-388) launched; wave 2 (T-389..T-408) refused, ledger entries open, NOT launched. Plan: launch one wave-2 checker each time a wave-1 checker finishes, keeping 20 running.
 AGENTS wave1: T-369 a53ac279ac0a6326c, T-370 a7274cbf76998b0a2, T-371 ab9d8e87cacf2f385, T-372 a94ee02100fa94409, T-373 a4221fc4835839273, T-374 a3764a47d23935b0c, T-375 adf63defb022537d1, T-376 ae1af4356469ca90b, T-377 a9286da1809edf244, T-378 add6208460c1cae2f, T-379 a2d49393d5e2dd4cd, T-380 a0d14d4dfa3b46a6f, T-381 adabcc619d5fc0dc5, T-382 a0c6c07275bb790f4, T-383 a10aa3114b7333565, T-384 ac075055b7e8bd8a4, T-385 ab18ada72b222d347, T-386 aefb0111d89677d31, T-387 a662f0f2d04880d3b, T-388 ab7964675c1e0c797
+
+### 2026-09-30 | [LOCAL] BURST40 done, PAUSED by Jon. T-369..T-408: 40 sonnet checkers, all FINISHED, none failed.
+Harness cap is 20 concurrent; ran 20 and refilled one per completion. 8.0M tokens total, avg 200k, longest 9.5 min.
+Usage at start 15% (Jon); Jon to read the end figure. Audit 78/111. Left: 33 files, including the 11 big ones
+(crime-justice p3, rights-movements p2/p3, disasters p3, religion p1/p3, education p3, art p3, music p3,
+storytelling p3, sports-play p3). Director rulings #32-34 logged. Nothing in flight.

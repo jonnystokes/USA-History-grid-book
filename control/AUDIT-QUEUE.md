@@ -276,3 +276,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **art era 10, Kehinde Wiley (#30):** remove the `kehinde-wiley` hb-story block; keep the Obama portrait and *Rumors of War* as facts in the spans; Amy Sherald's story carries the portraits. Do not mention the accusations.
 - **Tulsa (#23 corrected):** both chapters already follow the sources; check the wording uses plain words ("charged with crimes", not "indicted"; "neglect of duty", not "dereliction").
 - **Every chapter (#28 rule 7):** big words out, plain words in. **(#31):** "rape", never "assault" alone, wherever the record says rape.
+- **#32 Jefferson and Hemings**, **#33 living business figures**, **#34 forced servitude words**: rulings for the step 5 fixers (DECISIONS).
