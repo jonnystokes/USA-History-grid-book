@@ -4179,3 +4179,8 @@ VERIFY: python tools/project_state.py --check health --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+
+### 2026-09-30 | [LOCAL] T-405 | health: CHECKER sonnet, part3 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-health.md
+VERIFY: python tools/project_state.py --check health --stage prose
