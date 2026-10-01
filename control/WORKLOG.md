@@ -4574,9 +4574,11 @@ RESULT: DONE. PASS  transportation / prose. measured: stage=WRITTEN ms_eras=10/1
         356305 tokens, 202 tool uses, 16.0 min (opus). FIXER whole chapter [WAVE6]: 173 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 15 found by fixer; 10 cross-chapter pointers cut; 14,206 -> 14,828 words
 
 ### 2026-10-01 | [LOCAL] T-446 | home-family: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=12228w files=3 validator_errors=0
+        358388 tokens, 254 tool uses, 17.9 min (opus). FIXER whole chapter [WAVE6]: 152 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 noted), 2 found by fixer; boarding-school acts added per #36; 12,179 -> 13,244 words
 
 ### 2026-10-01 | [LOCAL] T-447 | landmarks: FIXER opus, whole chapter [WAVE6] | model opus
 STATUS: IN-FLIGHT

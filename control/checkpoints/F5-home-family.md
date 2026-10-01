@@ -1,19 +1,19 @@
 # CHECKPOINT F5 | home-family | step 5 fixer, whole chapter
 
-STATUS: IN-FLIGHT
+STATUS: T-446 landed (director verified: PASS  home-family / prose)
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode)
 FILES:  manuscript/home-family/part1|part2|part3 + control/audit/home-family/part1|2|3-findings-sonnet.md
         + research/research-home-family.md (PATCH entries only)
 
-NOW:    T-446 fixer (opus), part3 era 9 in progress
-NEXT:   part3, era 9 (rows 30-48)
+NOW:    all three parts done, prose check PASS
+NEXT:   none (director: commit, park NEEDS-RESEARCH items for step 4)
 
 ## Units
 | part | eras | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|
 | part1 | 1-5 | DONE | 46 / 9 / 0 (row 7 fixed, count gap logged), 0 found by fixer | 3311 -> 3616 |
 | part2 | 6-7 | DONE | 49 / 3 / 1, plus 1 found by fixer (FIXED) | 3399 -> 3667 |
-| part3 | 8-10 | todo | | 5469 -> |
+| part3 | 8-10 | DONE | 57 / 5 / 0, plus 1 found by fixer (FIXED) | 5469 -> 5961 |
 
 ## NEEDS-RESEARCH
 - part1 era 2 (row 7): a sourced count of Timucua deaths from disease in the 1500s (Wikipedia's 200,000 to 50,000 by 1595 is uncited). Prose now says only "killed many of them".
@@ -28,3 +28,6 @@ NEXT:   part3, era 9 (rows 30-48)
 - part2 era 6 (1800-1850): rows 1-25 and 53, 25 FIXED, 1 REJECTED (7). validate 0, punct 0/0.
 - part2 era 7 (1850-1900): rows 26-52, 24 FIXED, 2 REJECTED (40 settled by PATCH, 49), 1 NEEDS-RESEARCH (32). Found by fixer F1: boarding-school harms added under DECISIONS #36. PATCHes era 07: school laws by 1918 (education bank), boarding-school acts (native-nations bank). validate 0, punct 0/0. PART 2 DONE.
 - part3 era 8 (1900-1950): rows 1-29, 25 FIXED, 4 REJECTED (3, 10, 13, 19; 19 settled by PATCH). PATCH era 08 (bungalow, Bronzeville kitchenettes from Chicago Public Library, HOLC years). validate 0, punct 0/0.
+- part3 era 9 (1950-2000): rows 30-48 all FIXED (19). PATCH era 09 (Fair Housing Act from DOJ, burning cross from Virginia v. Black, homeschooling 1970s-80s from WRSP). validate 0, punct 0/0.
+- part3 era 10 (2000-today): rows 49-62, 13 FIXED, 1 REJECTED (59). Found by fixer F1 (figures "come from"). validate 0, punct 0/0. PART 3 DONE.
+- Final: `python tools/project_state.py --check home-family --stage prose` PASS (manuscript=12228w by its prose counter, 16 stories verified, 0 errors, 0/0 punct).
