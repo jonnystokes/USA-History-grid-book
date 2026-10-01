@@ -392,3 +392,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-445	prose	general-purpose/opus	[LOCAL] transportation: FIXER whole chapter [WAVE6]: 173 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 15 found 	?	?	?	356305	202	960828	?	completed	PASS  transportation / prose
 2026-10-01	T-450	prose	general-purpose/opus	[LOCAL] money: FIXER whole chapter [WAVE6]: 197 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 10 found b	?	?	?	363949	224	943225	?	completed	PASS  money / prose
 2026-10-01	T-446	prose	general-purpose/opus	[LOCAL] home-family: FIXER whole chapter [WAVE6]: 152 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 noted)	?	?	?	358388	254	1076912	?	completed	PASS  home-family / prose
+2026-10-01	T-449	prose	general-purpose/opus	[LOCAL] science: FIXER whole chapter [WAVE6]: 165 FIXED, 10 REJECTED, 1 NEEDS-RESEARCH, 7 found b	?	?	?	393177	261	1059346	?	completed	PASS  science / prose

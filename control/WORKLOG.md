@@ -4591,9 +4591,11 @@ CHECKPOINT: control/checkpoints/F5-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
 
 ### 2026-10-01 | [LOCAL] T-449 | science: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+RESULT: DONE. PASS  science / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=25 (verified 25) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18660w files=3 validator_errors=0
+        393177 tokens, 261 tool uses, 17.7 min (opus). FIXER whole chapter [WAVE6]: 165 FIXED, 10 REJECTED, 1 NEEDS-RESEARCH, 7 found by fixer; ~25 PATCHes; part1 layout unchanged; 18,658 -> 19,981 words
 
 ### 2026-10-01 | [LOCAL] T-450 | money: FIXER opus, whole chapter [WAVE6] | model opus
 STATUS: DONE

@@ -14,17 +14,17 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Between 1900 and 1950, American scientists measured the universe and split the atom. Edwin Hubble showed in 1929 that the galaxies are moving apart. On December 2, 1942, Enrico Fermi's team in Chicago ran the first controlled nuclear chain reaction. Some of the leading physicists in American labs had come from Europe. Fermi and Emilio Segrè made their homes in America after Italy's ruler, Benito Mussolini, passed laws against Jews in 1938.
+Between 1900 and 1950, American scientists measured distances across the universe and ran the first controlled nuclear chain reaction. Edwin Hubble showed in 1929 that the galaxies are moving apart. On December 2, 1942, Enrico Fermi's team in Chicago ran the chain reaction. Albert Einstein, Fermi and Emilio Segrè all came to American labs from Europe in the 1930s. Fermi and Segrè made their homes in America after Italy's ruler, Benito Mussolini, put laws against Jews into force in 1938.
 
 In the same years, some American scientists used people as research material without asking them. From 1910 to 1939, the staff of the Eugenics Record Office in New York collected family records to claim that poverty and behavior are inherited. At the Smithsonian, Aleš Hrdlička collected human brains and bones to rank the races. From 1945 to 1947, doctors working for the Manhattan Project, the secret program that built the atomic bomb, injected 18 hospital patients with plutonium to learn where it goes in the human body.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The charge of an electron and the place of a gene" -->
-Robert Millikan measured the electric charge of a single electron in experiments with drops of oil, from 1909 to 1913. An electron is one of the tiny particles inside every atom, and it carries electricity. Millikan showed that electric charge comes in exact, equal pieces. He won the Nobel Prize in Physics in 1923. The Nobel Prizes are awards given each year in Sweden for the most important work in science and some other fields.
+Robert Millikan measured the electric charge of a single electron in experiments with drops of oil, from 1909 to 1913. An electron is one of the tiny particles inside every atom, and it carries electricity. Millikan showed that electric charge comes in exact, equal pieces. He won the Nobel Prize in Physics in 1923. The Nobel Prizes are awards first given in 1901 under the will of Alfred Nobel, a Swedish inventor. Each year they go to people for work in physics, chemistry, medicine, writing and peace, and later also economics.
 
-In 1910 Thomas Hunt Morgan found a fruit fly with white eyes in his lab at Columbia University in New York. People called the lab the "fly room." That one fly started 17 years of work in the fly room. Morgan and his team proved that genes sit in a line along the chromosomes. A gene is a piece of the instructions, passed from parents to children, that shapes a living thing. A chromosome is a thread inside a cell that carries genes.
+In 1910 Thomas Hunt Morgan found a fruit fly with white eyes in his lab at Columbia University in New York. People called the lab the "fly room." After that fly, Morgan and his team spent 17 years working in the fly room. Morgan and his team proved that genes sit in a line along the chromosomes. A gene is a piece of the instructions, passed from parents to children, that shapes a living thing. A chromosome is a thread inside a cell that carries genes.
 
-Morgan won the Nobel Prize in Physiology or Medicine in 1933. It was the first Nobel Prize for genetics, the study of how living things pass on their traits.
+Morgan won the Nobel Prize in Physiology or Medicine in 1933. Physiology is the study of how living bodies work. It was the first Nobel Prize for genetics, the study of how living things pass on their traits.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="frank-chapman-bird-count" name="Frank Chapman and the first Christmas Bird Count" movie="" kind="ordinary" status="verified" -->
@@ -48,7 +48,7 @@ The count has run every winter since 1900. It is one of the longest-running citi
 > **Who:** A physics teacher at Clark University who built and flew the first rocket that burned liquid fuel. The New York Times mocked his rocket science in an editorial in 1920 and printed a correction in 1969.
 > **When and where:** Worcester and Auburn, Massachusetts. The first flight was on March 16, 1926.
 
-On March 16, 1926, Robert Goddard launched the first rocket that ran on liquid fuel. It took off from a farm field in Auburn, Massachusetts. It rose 41 feet, flew for 2.5 seconds and came down 184 feet away.
+On March 16, 1926, at Auburn, Massachusetts, Robert Goddard launched the first rocket that ran on liquid fuel. It rose 41 feet, flew for 2.5 seconds and came down in a farm field 184 feet away.
 
 Goddard grew up in Worcester, Massachusetts. In 1914 he began teaching physics at Clark University in Worcester. He later ran its physics department, and he became a full professor in 1934. In all he spent 29 years in Clark's physics department.
 
@@ -60,13 +60,13 @@ On July 17, 1969, the three Apollo 11 astronauts were on their way to the Moon. 
 <!-- hb-story:end slug="robert-goddard" -->
 
 <!-- hb-zoom level="span" label="Henrietta Leavitt's rule for measuring space" -->
-Henrietta Swan Leavitt found a way to measure how far away stars are. She was a computer at the Harvard College Observatory, a person hired to do calculations and measurements. She was paid 30 cents an hour. She had been deaf since an illness in her twenties.
+Henrietta Swan Leavitt found a way to measure how far away stars are. She was a computer, a person hired to do calculations and measurements, at the Harvard College Observatory. An observatory is a building for studying the sky. Leavitt was one of more than 100 women the observatory hired as computers to study photographs of the stars. She was paid 30 cents an hour, five cents more than most of the others. She had been deaf since an illness in her twenties.
 
 Leavitt studied a kind of variable star called a Cepheid. A Cepheid grows brighter and dimmer over and over, in a steady rhythm. In 1912 she published a paper on 25 Cepheids in the Small Magellanic Cloud, a patch of stars in the southern sky. She showed that the time a Cepheid takes for one blink tells how bright it truly is.
 
 Astronomers compare that true brightness with how bright the star looks from Earth. The dimmer it looks compared with its true brightness, the farther away it is. With Leavitt's rule, Cepheids became markers for measuring distance across the universe. Her rule is called the period-luminosity law. The period is the time of one blink, and luminosity means true brightness.
 
-Leavitt died on December 12, 1921. In 1925 a Swedish mathematician wrote to begin nominating her for a Nobel Prize. The mathematician did not know that she had died.
+Leavitt died on December 12, 1921. In 1925 a Swedish mathematician who did not know she had died wrote to begin nominating her for a Nobel Prize.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="edwin-hubble" name="Edwin Hubble" movie="" kind="famous" status="verified" -->
@@ -77,9 +77,9 @@ Leavitt died on December 12, 1921. In 1925 a Swedish mathematician wrote to begi
 
 Edwin Hubble showed that the universe is expanding. In 1929 he published his finding that the farther away a galaxy is, the faster it is moving away from us. A galaxy is a huge group of billions of stars. Our own galaxy is the Milky Way.
 
-Hubble worked with the Hooker telescope at Mount Wilson, which has a main mirror 100 inches across. On the night of October 4 to 5, 1923, he found a Cepheid star on a photograph of the Andromeda "nebula," a faint cloudy patch in the sky. He marked the photographic plate "VAR!" for variable star.
+Hubble worked with the Hooker telescope at Mount Wilson, which has a main mirror 100 inches across. On the night of October 4 to 5, 1923, he found a Cepheid star on a photograph of the Andromeda "nebula," a faint cloudy patch in the sky. The photograph was on a photographic plate, a glass sheet that holds a photograph of the sky. Hubble marked the plate "VAR!" for variable star.
 
-Using Leavitt's law, Hubble worked out how far away the star was. His answer was about 900,000 light-years. A light-year is the distance light travels in one year. That distance put Andromeda far outside the Milky Way, so Andromeda had to be a separate galaxy. He announced the result at a meeting of the American Astronomical Society on January 1, 1925.
+Using Leavitt's law, Hubble worked out how far away the star was. His answer was about 900,000 light-years. A light-year is the distance light travels in one year. At that distance, Andromeda lay far outside the Milky Way, so it had to be a separate galaxy. He announced the result at a meeting of the American Astronomical Society on January 1, 1925.
 
 For his 1929 paper, published in March, Hubble used measurements of the galaxies' light made by Milton Humason. Georges Lemaître, a Belgian scientist, had already worked out and published the expansion of the universe in 1927. His paper appeared in a journal that few people read. In 2018 the members of the International Astronomical Union, the world society of astronomers, renamed Hubble's law the Hubble-Lemaître law.
 <!-- hb-story:end slug="edwin-hubble" -->
@@ -87,25 +87,25 @@ For his 1929 paper, published in March, Hubble used measurements of the galaxies
 <!-- hb-zoom level="span" label="Aleš Hrdlička's brain collection" -->
 Aleš Hrdlička collected human brains and bones for the Smithsonian to try to prove that the races differ in their bodies. From 1903 into the early 1940s he ran the physical anthropology division of the Smithsonian's National Museum of Natural History in Washington. Physical anthropology is the study of human bodies and bones. Hrdlička believed that white people were superior to other races. Scientists have since shown his theories about the races' bodies to be false.
 
-The Washington Post, a newspaper, published an investigation of his collecting in August 2023. The numbers below come from it. In 1903 Hrdlička began what he himself called the "racial brain collection." In 2023 the museum held at least 255 brains, and Hrdlička or people working at his direction collected most of them.
+In 1903 Hrdlička began what he himself called the "racial brain collection." Reporters at the Washington Post, a newspaper, looked into his collecting and published what they found in August 2023. They reported that the museum held at least 255 brains, and that Hrdlička or people working at his direction collected most of them.
 
-Collectors took most of the remains without the consent of the dead people or their families. Consent means agreeing to something after being told what it is. Many of these people had died in hospitals, were poor, or had no relatives nearby to claim and bury them. Collectors also dug up burial grounds. Hrdlička and a small team dug up the remains of about 1,000 people in Alaska and shipped them to the Smithsonian. In the 1930s they dug them from the Uyak site, next to the village of Larsen Bay on Kodiak Island. The people of Larsen Bay are Alutiiq. They asked the Smithsonian for their dead in 1987. In September 1991 museum staff sent the remains back to Larsen Bay. It was one of the first returns of Native American remains in the country.
+Collectors took most of the remains without the consent of the dead people or their families. Consent means agreeing to something after being told what it is. Many of these people had died in hospitals, were poor, or had no relatives nearby to claim and bury them. Collectors also dug up burial grounds. Hrdlička and a small team dug up the remains of about 1,000 people in Alaska and shipped them to the Smithsonian. In the 1930s they dug them from the Uyak site on Kodiak Island. The people of Larsen Bay are Alutiiq. They asked the Smithsonian for their dead in 1987. In September 1991 museum staff sent the remains back to Larsen Bay. It was one of the first returns of Native American remains in the country.
 
-In 2023 the museum held the remains of more than 30,700 people. More than 19,000 of them, about 62 percent, were collected while Hrdlička led the division.
+The Post's reporters also found that in 2023 the museum held more than 30,700 human remains. More than 19,000 of them, about 62 percent, were collected while Hrdlička led the division.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Eugenics Record Office" -->
-From 1910 to 1939, the staff of the Eugenics Record Office at Cold Spring Harbor, New York, collected family records to argue that some people should not have children. Eugenics was the claim that a country should decide which of its people may have children, and stop the rest. The men who ran the office presented it as the science of heredity. Heredity is the passing of traits from parents to children.
+From 1910 to 1939, the staff of the Eugenics Record Office at Cold Spring Harbor, New York, collected family records. They used the records to argue that some people should not have children. Eugenics was the claim that a country should decide which of its people may have children, and stop the rest. The men who ran the office presented it as the science of heredity. Heredity is the passing of traits from parents to children.
 
-The biologist Charles B. Davenport directed a research station at Cold Spring Harbor. It was run by the Carnegie Institution of Washington, a private group that paid for scientific research. In 1910 Davenport persuaded Mary Harriman, the widow of a railroad owner, to give $10,000. She bought an 80-acre farm next to the station and built an office on it. The Eugenics Record Office opened there in 1910, with Harry H. Laughlin in charge.
+The biologist Charles B. Davenport directed a research station at Cold Spring Harbor. The station belonged to the Carnegie Institution of Washington, a private group that paid for scientific research. In 1910 Davenport persuaded Mary Harriman, the widow of a railroad owner, to give $10,000. She bought an 80-acre farm next to the station and built an office on it. The Eugenics Record Office opened there in 1910, with Harry H. Laughlin in charge.
 
-The office ran summer courses that trained field workers. Photographs of the courses survive from 1913 to 1922. The field workers went door to door and filled out questionnaires about families. By 1924 the office's files held 750,000 index cards, along with family trees and reports. Davenport, Laughlin and their workers traced traits through families, such as blindness, musical ability and what they called "feeblemindedness," a label for people they judged to be of low intelligence. They treated poverty and behavior as traits that parents pass to their children.
+Staff at the office ran summer courses that trained field workers. Photographs of the courses survive from 1913 to 1922. The field workers went door to door and filled out forms of questions about families. By 1924 the office's files held 750,000 index cards, along with family trees and reports. Davenport, Laughlin and their workers traced traits through families, such as blindness and musical ability. They also traced what they called "feeblemindedness," their label for people they judged to be of low intelligence. They treated poverty and behavior as traits that parents pass to their children.
 
-Laughlin used the office's records to push for laws to keep immigrants out and to sterilize people labeled "defective," which means operating on their bodies so they can never have a child.
+Laughlin used the office's records to push for laws to keep immigrants out and to sterilize people labeled "defective." To sterilize a person is to operate on the body so that the person can never have a child. In a woman, for example, a doctor cut out a piece of each of the two tubes that carry eggs to the womb. It cannot be undone.
 
-Scientists who studied heredity, among them Thomas Hunt Morgan, Raymond Pearl and Herbert Jennings, pointed out flaws in eugenics research. They showed that its experiments were badly designed and that it used the new science of genes too simply. They also showed that it was biased against poor people and against some races. In 1935 leaders of the Carnegie Institution gathered a panel of scientists to judge the office's work. The panel found that almost none of it had any scientific worth.
+Scientists who studied heredity, among them Thomas Hunt Morgan, Raymond Pearl and Herbert Jennings, pointed out flaws in eugenics research. They showed that the eugenicists' experiments were badly designed and that the eugenicists used the new science of genes too simply. They also showed that the eugenicists were biased against poor people and against some races. In 1935 leaders of the Carnegie Institution gathered a panel of scientists to judge the office's work. The panel found that almost none of it had any scientific worth.
 
-In the 1930s Americans also learned what Nazi Germany's leaders were doing with eugenics. Under a German law of July 14, 1933, special courts, each made up of a judge and two doctors, ordered about 400,000 people sterilized by 1945. Doctors usually cut the tubes that carry sperm in men, and tied or cut the tubes that carry eggs to the womb in women. Hundreds of people, most of them women, died from the operations. In 1939 Vannevar Bush, the president of the Carnegie Institution, cut off the office's money, and it closed in December 1939. Its records went to the University of Minnesota in 1948. Staff at Cold Spring Harbor Laboratory now publish this history on the laboratory's archive website, under the heading "Good genes, bad science."
+In the 1930s Americans also learned what Nazi Germany's leaders were doing with eugenics. Under a German law of July 14, 1933, judges and doctors sat on special courts, each made up of a judge and two doctors. By 1945 the judges and doctors on these courts had forced about 400,000 people to be sterilized. Doctors usually cut the tubes that carry sperm in men, and tied or cut the tubes that carry eggs to the womb in women. Hundreds of people, most of them women, died from the operations. In 1939 Vannevar Bush, the president of the Carnegie Institution, cut off the office's money, and it closed in December 1939. Its records went to the University of Minnesota in 1948. Staff at Cold Spring Harbor Laboratory now publish this history on the laboratory's archive website, under the heading "Good genes, bad science."
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="albert-einstein-science" name="Albert Einstein" movie="" kind="famous" status="verified" -->
@@ -118,7 +118,7 @@ Albert Einstein arrived in the United States on October 17, 1933. Earlier that y
 
 Einstein had done his most famous physics, the theory of relativity, in Europe between 1905 and 1915. Relativity explains how space, time and gravity are tied together.
 
-On August 2, 1939, Einstein signed a letter to President Franklin Roosevelt. The physicist Leo Szilard wrote it, with Edward Teller and Eugene Wigner. It warned that Germany might build atomic bombs. Historians at the Atomic Heritage Foundation, a group that records the history of the bomb, trace the start of the Manhattan Project back to this letter. The Manhattan Project was the secret American program to build an atomic bomb during World War II.
+On August 2, 1939, Einstein signed a letter to President Franklin Roosevelt. The physicist Leo Szilard wrote it, with Edward Teller and Eugene Wigner. The letter stated that Germany might build atomic bombs. Historians at the Atomic Heritage Foundation, a group that records the history of the bomb, trace the start of the Manhattan Project back to this letter. The Manhattan Project was the secret American program to build an atomic bomb during World War II.
 
 On October 1, 1940, Einstein became a citizen of the United States. He also kept his Swiss citizenship.
 
@@ -131,7 +131,7 @@ In May 1946 the leaders of Lincoln University, a Black university in Pennsylvani
 > **Who:** An Italian physicist who lost his job at home in 1938 under Mussolini's laws against Jews, stayed at Berkeley, and won a Nobel Prize.
 > **When and where:** Berkeley, California, from the summer of 1938.
 
-In the summer of 1938, Emilio Segrè was visiting Ernest Lawrence's Radiation Laboratory at the University of California, Berkeley. That year the government of Benito Mussolini, who ruled Italy, passed antisemitic racial laws. Antisemitic means hostile to Jews. Under those laws Segrè lost his job as a professor in Palermo, Italy.
+In the summer of 1938, Emilio Segrè was visiting Ernest Lawrence's Radiation Laboratory at the University of California, Berkeley. That year Benito Mussolini, who ruled Italy, put antisemitic racial laws into force. Antisemitic means hostile to Jews. Under those laws Segrè lost his job as a professor in Palermo, Italy.
 
 Segrè stayed in America. Lawrence gave him a job as a research assistant, at low pay.
 
@@ -141,15 +141,15 @@ Segrè later helped discover the elements technetium and astatine, and plutonium
 <!-- hb-zoom level="span" label="Splitting the atom, and the big laboratories" -->
 In December 1938 two chemists in Berlin, Otto Hahn and Fritz Strassmann, discovered nuclear fission. Fission is the splitting of the center of an atom, called the nucleus, into two pieces. The split gives off energy. In January 1939 Lise Meitner and her nephew Otto Frisch explained what the chemists' results meant. Meitner was a Jewish refugee living in Sweden. A refugee is a person who flees their home country to be safe. In 1944 the Nobel judges gave the prize for the discovery to Hahn alone and left Meitner out.
 
-News of fission reached America in January 1939. On December 2, 1942, Enrico Fermi's team of 49 people ran the first controlled nuclear chain reaction. In a chain reaction, each atom that splits sets off more atoms splitting. The team's reactor, called Chicago Pile-1, stood under the west stands of Stagg Field, an unused football field at the University of Chicago. The reaction kept itself going for 28 minutes and made about half a watt of power. Controlled means the team could keep it steady and stop it.
+News of fission reached America in January 1939. On December 2, 1942, Enrico Fermi's team of 49 people ran the first controlled nuclear chain reaction. In a chain reaction, each atom that splits sets off more atoms splitting. The team's reactor, a machine built to run a chain reaction, was called Chicago Pile-1. It stood under the west stands of Stagg Field, an unused football field at the University of Chicago. The reaction kept itself going for 28 minutes and made about half a watt of power. Controlled means the team could keep it steady and stop it.
 
-Fermi was an Italian physicist. He won the Nobel Prize in 1938 and sailed straight from the ceremony in Stockholm to New York. Mussolini's government had just passed its racial laws, and Fermi's wife, Laura, was Jewish.
+Fermi was an Italian physicist. He won the Nobel Prize in 1938. He sailed straight from the ceremony in Stockholm to New York, because Mussolini's new racial laws targeted his wife, Laura, who was Jewish.
 
-Chicago Pile-1 belonged to the Manhattan Project. The project's leaders set up three large laboratories: the Metallurgical Laboratory in Chicago, Clinton Laboratories at Oak Ridge in Tennessee, and Los Alamos in New Mexico. They were the start of the national laboratories, the government's big science labs. In August 1945 American bomber crews dropped the project's two atomic bombs on the Japanese cities of Hiroshima and Nagasaki.
+Chicago Pile-1 belonged to the Manhattan Project. The project's leaders set up three large laboratories: the Metallurgical Laboratory in Chicago, Clinton Laboratories at Oak Ridge in Tennessee, and Los Alamos in New Mexico. They were the start of the national laboratories, the government's big science labs. In August 1945 American bomber crews dropped the project's two atomic bombs on the Japanese cities of Hiroshima and Nagasaki. Researchers of the Radiation Effects Research Foundation, run by Japan and the United States together, estimate that within two to four months 90,000 to 166,000 people died in Hiroshima and 60,000 to 80,000 in Nagasaki. The exact numbers are not known, and a US study in 1946 gave lower counts.
 
-The model for these labs was the Radiation Laboratory at the University of California, Berkeley. Ernest Lawrence built it around his cyclotrons. A cyclotron is a machine that speeds tiny particles around in a circle and smashes them into atoms. From 1931 the lab was housed in a converted campus building. It became a separate laboratory on July 1, 1936. After the war, American scientists built their labs on its plan of big machines run by big teams. In 1939 Lawrence won the first Nobel Prize at Berkeley.
+The model for these labs was the Radiation Laboratory at the University of California, Berkeley. Ernest Lawrence built it around his cyclotrons. A cyclotron is a machine that speeds tiny particles around in a circle and smashes them into atoms. From 1931 the lab was housed in a converted campus building. It became a separate laboratory on July 1, 1936. In 1939 Lawrence won the first Nobel Prize at Berkeley. After the war, American scientists built their labs on its plan of big machines run by big teams.
 
-Glenn Seaborg redrew the periodic table, the chart of all the chemical elements. He pulled a row of heavy elements, the actinides, out of the main table and set it as its own row at the bottom. His layout let chemists predict how elements that nobody had made yet would behave.
+Glenn Seaborg redrew the periodic table, the chart of all the chemical elements. He pulled a row of heavy elements, the actinides, out of the main table and set it as its own row at the bottom. With his layout, chemists could predict how elements that nobody had made yet would behave.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Plutonium injected into 18 patients" -->
@@ -161,33 +161,33 @@ The doctors wanted to know where plutonium goes in a human body and how fast the
 
 The doctors injected one patient at Oak Ridge, three in Chicago, 11 in Rochester, New York, and three at the University of California hospital in San Francisco. Doctors in the program also injected six people with uranium, five with polonium and at least one with americium, which are also radioactive metals. In all they injected about 30 civilians, people who were not in the armed forces.
 
-Ebb Cade was a 53-year-old Black cement mixer. He was hurt in a car accident at Oak Ridge on March 24, 1945. On April 10, 1945, a doctor injected him with 4.7 micrograms of plutonium. A microgram is one millionth of a gram. Dr. Joseph Howland, an Army doctor, later said he gave the injection only after his boss, Hymer Friedell, ordered him to in writing. Friedell later said he gave no such order and that another doctor, Dwight Clark, gave it. The federal committee could not tell which man was right. Cade's broken arm and leg were not set until five days after the injection, when doctors also took samples of his bone. Fifteen of his teeth were pulled out and tested for plutonium. The committee could not find out who pulled them, or whether they were pulled mainly for his bad teeth or for the test. He died of heart failure on April 13, 1953.
+Ebb Cade was a 53-year-old Black cement mixer. He was hurt in a car accident at Oak Ridge on March 24, 1945. On April 10, 1945, a doctor injected him with 4.7 micrograms of plutonium. A microgram is one millionth of a gram. Dr. Joseph Howland, an Army doctor, later said he gave the injection only after his boss, Hymer Friedell, ordered him to in writing. Howland also said that Cade never gave his consent, which means he never agreed to it. Friedell later said he gave no such order and that another doctor, Dwight Clark, gave the injection. In the 1990s President Bill Clinton set up a federal committee to look into these experiments, and its members could not tell which man was right. Doctors did not set Cade's broken arm and leg until April 15, five days after the injection, when they also took samples of his bone. Someone pulled out 15 of his teeth, and they were tested for plutonium. The committee's members could not find out who pulled them, or whether they were pulled mainly for his bad teeth or for the test. He died of heart failure on April 13, 1953.
 
-Albert Stevens was a 58-year-old house painter. Doctors at the San Francisco hospital told him he had stomach cancer that would kill him. They injected him with plutonium on May 14, 1945, as part of Joseph Hamilton's program. The federal committee's report does not identify the doctor who gave the injection. When surgeons operated, they found a harmless ulcer, a sore in the stomach, and no cancer. The doctors told him only about "a new substance." A federal committee later found that he was almost certainly never told it was plutonium. He died of heart failure in 1966, 21 years later.
+Albert Stevens was a 58-year-old house painter. Doctors at the San Francisco hospital told him he had stomach cancer that would kill him. They injected him with plutonium on May 14, 1945, as part of Joseph Hamilton's program. The federal committee's report does not identify the doctor who gave the injection. When surgeons operated, they found a harmless ulcer, a sore in the stomach, and no cancer. The doctors told him only about "a new substance." Members of the federal committee later found that he was almost certainly never told it was plutonium. He died of heart failure in 1966, 21 years later.
 
-Simeon Shaw was a 4-year-old boy from Australia who had bone cancer. In April 1946 officials of the Red Cross and the US Army arranged for him and his mother to fly on an Army plane to San Francisco. Within days, doctors at the university hospital injected him with plutonium and two other radioactive metals, under Joseph Hamilton's direction. Surgeons later cut out a piece of his bone tumor to see how much of the metals it had taken up. He went home to Australia about a month after the injection, and nobody followed up on him. He died in January 1947.
+Simeon Shaw was a 4-year-old boy from Australia who had bone cancer. In April 1946 officials of the Red Cross and the US Army arranged for him and his mother to fly on an Army plane to San Francisco. Within days, doctors at the university hospital injected him with a liquid that held plutonium and two other metals, yttrium and cerium, under Joseph Hamilton's direction. A consent form was signed for his mother a week after the injection. The committee found that the form probably covered a bone test done that week, not the injection itself. Surgeons cut out a piece of his bone tumor to see how much of the metals it had taken up. He went home to Australia about a month after the injection, and nobody followed up on him. He died in January 1947.
 
 Eda Schultz Charlton, 49, entered Strong Memorial Hospital in Rochester on November 2, 1945. Three weeks later doctors in the hospital's research ward, run by Dr. Samuel Bassett, injected her with 4.9 micrograms of plutonium. No doctor had ever found that she was dying of any illness. She lived until 1983.
 
-Elmer Allen was a Black railroad porter from Italy, Texas. A porter carried passengers' bags on the trains. He was 36, and his doctors believed he had bone cancer. On July 18, 1947, doctors at the University of California hospital injected him with plutonium. The researchers never expected the injection to help him. Soon afterward, a surgeon cut off his left leg at the middle of the thigh. A test of his tumor showed a slow-growing bone cancer called chondrosarcoma. Two doctors signed a note saying the experiment had been explained to him and that he agreed. The committee found it unclear whether he was told the injection was not meant to help him. According to later newspaper reporting, he died in 1991 without ever learning what had been done to him. In 1995 his daughter, Elmerine Whitfield Bell, told the committee: "We contend that my father was not an informed participant in the plutonium experiment."
+Elmer Allen was a Black railroad porter from Italy, Texas. A porter carried passengers' bags on the trains. He was 36, and his doctors believed he had bone cancer. On July 18, 1947, doctors at the University of California hospital injected him with plutonium. The researchers never expected the injection to help him. Soon afterward, a surgeon cut off his left leg at the middle of the thigh. A test of his tumor showed a slow-growing bone cancer called chondrosarcoma. Two doctors signed a note saying the experiment had been explained to him and that he agreed. The committee's members found it unclear whether he was told the injection was not meant to help him. According to later newspaper reporting, he died in 1991 without ever learning what had been done to him. In 1995 his daughter, Elmerine Whitfield Bell, told the committee: "We contend that my father was not an informed participant in the plutonium experiment."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Trinity and the people downwind" -->
 On July 16, 1945, Manhattan Project scientists exploded the first atomic bomb at a test site called Trinity, in New Mexico. The project's leaders decided not to move the people who lived nearby. According to the National Park Service, they worried that moving people would make them suspicious or cause panic. The nearest ranchers lived 13 miles from the site. Tens of thousands of people lived within 50 miles.
 
-General Leslie Groves, the Army officer in charge of the project, wanted the test kept secret above all. Under his rules, nobody was to be protected unless people had already been badly hurt. When the project doctor James Nolan brought him safety plans, Groves was angry at him for raising the danger of radioactive dust. Robert Oppenheimer, who led the scientists at the Los Alamos lab, approved a plan to move people only after they had taken in a large dose of radiation. Nobody was moved.
+General Leslie Groves, the Army officer in charge of the project, wanted the test kept secret above all. Under his rules, nobody was to be protected unless people had already been badly hurt. When the project doctor James Nolan brought him safety plans, Groves asked him, "What's the matter with you, are you a Hearst propagandist?" William Randolph Hearst owned a chain of newspapers known for wild, alarming stories. A propagandist spreads one side's story. The scientists Joseph Hirschfelder and John Magee warned of "the definite danger of dust containing active material." Robert Oppenheimer, who led the scientists at the Los Alamos lab, approved a plan to move people only after they had taken in 60 to 100 roentgens of radiation. A roentgen is a unit for measuring radiation. Nobody was moved.
 
-Fallout is radioactive dust that falls back to the ground after a nuclear explosion. The fallout from Trinity spread over an area about 250 miles long and 200 miles wide. It fell heaviest on Chupadera Mesa, a flat-topped highland 30 miles away. It fell across Lincoln, Socorro, Otero and Sierra counties. People there ate vegetables and drank water that had fallout in them.
+Fallout is radioactive dust that falls back to the ground after a nuclear explosion. The fallout from Trinity spread over an area about 250 miles long and 200 miles wide. It fell heaviest on Chupadera Mesa, a flat-topped highland 30 miles away. It fell across Lincoln, Socorro, Otero and Sierra counties. People there ate vegetables and drank water that had fallout in them. The Ratliff family, who lived near a place called Hot Canyon, took in about 47 roentgens in two weeks. The allowed amount was 1.4. Nobody warned them.
 
 After the test, Groves put out a statement to the press. It said that an ammunition dump had exploded and that nobody had been hurt. On July 21, 1945, Stafford Warren, the project's chief medical officer, reported to Groves in writing. He wrote that the dust "was potentially a very serious hazard over a band almost 30 miles wide extending almost 90 miles northeast of the site." He advised that future tests take place in an area "with a radius of at least 150 miles without population," meaning with nobody living within 150 miles.
 
-Nobody knows how many people the Trinity fallout made sick or killed, because no government agency ever counted them. The National Park Service states that the exposure is "linked to cancer, stillbirth, and birth defects." A stillbirth is a baby born dead. A birth defect is a problem in a baby's body that begins before it is born.
+Nobody knows how many people the Trinity fallout made sick or killed, because no government official ever counted them. The National Park Service states that the exposure is "linked to cancer, stillbirth, and birth defects." A stillbirth is a baby born dead. A birth defect is a problem in a baby's body that begins before it is born.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The physics inside the transistor, 1947" -->
-On December 16, 1947, John Bardeen and Walter Brattain made a solid crystal amplify an electrical signal at Bell Labs, the research lab of the telephone company. To amplify a signal is to make it stronger. Their device was the first transistor, called the point-contact transistor.
+On December 16, 1947, John Bardeen and Walter Brattain made a solid crystal amplify an electrical signal at Bell Labs, the research lab of the telephone company. To amplify a signal is to make it stronger. Their device was the first transistor, called the point-contact transistor. A transistor is a small solid part that can make an electrical signal stronger.
 
-Bardeen and Brattain worked in William Shockley's group. Bardeen worked out the physics of how electrons behave at the surface of the crystal. He used quantum mechanics, the branch of physics that describes very tiny particles. Shockley then designed a second kind, the junction transistor. The transistor was announced to the public on June 30, 1948. The three men shared the Nobel Prize in Physics in 1956.
+Bardeen and Brattain worked in William Shockley's group. Bardeen worked out the physics of how electrons behave at the surface of the crystal. He used quantum mechanics, the branch of physics that describes very tiny particles. Shockley then designed a second kind, the junction transistor. On June 30, 1948, Bell Labs staff showed the transistor to the public at a press conference in New York City. The three men shared the Nobel Prize in Physics in 1956.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="barbara-mcclintock" name="Barbara McClintock" movie="" kind="famous" status="verified" -->
@@ -198,11 +198,11 @@ Bardeen and Brattain worked in William Shockley's group. Bardeen worked out the 
 
 Barbara McClintock discovered that some genes move from one place to another on the chromosomes. This is called transposition. She found it in maize, which is corn, in experiments she began in 1944. She called the moving pieces "controlling elements."
 
-McClintock earned a PhD, the highest university degree, at Cornell University in 1927. She studied the chromosomes of corn under the microscope. She came to Cold Spring Harbor in 1941 and 1942, two years after the Eugenics Record Office there had closed.
+McClintock earned a PhD, the highest university degree, at Cornell University in 1927. She studied the chromosomes of corn under the microscope. She came to Cold Spring Harbor in 1941 or 1942. The Eugenics Record Office there had closed in December 1939.
 
 She first described the moving genes in 1948. In 1950 she published a paper called *The Origin and Behavior of Mutable Loci in Maize*. Mutable loci are places on a chromosome that can change. In 1951 she presented the work at a meeting of scientists at Cold Spring Harbor.
 
-Other scientists respected her as an expert on chromosomes. For decades, though, few of them took up her idea of moving genes. In the 1960s and 1970s, molecular biologists, who study the molecules inside cells, reached the same finding. She won the Nobel Prize in 1983.
+Other scientists respected her as an expert on chromosomes. For decades, though, few of them took up her idea of moving genes. In the 1960s and 1970s, molecular biologists, who study the molecules inside cells, reached the same finding. In 1983 she won the Nobel Prize in Physiology or Medicine. She was the first woman to win that prize without sharing it.
 <!-- hb-story:end slug="barbara-mcclintock" -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -210,9 +210,9 @@ Other scientists respected her as an expert on chromosomes. For decades, though,
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-In 1951 cells were cut from the tumor of Henrietta Lacks, a Black woman with cancer in Baltimore, without her knowledge. Scientists grew her cells for decades and used them to study polio, cancer and the AIDS virus. In 1953 James Watson and Francis Crick worked out the shape of DNA, the molecule that carries genes. By about 1970 most geologists, the scientists who study the Earth's rocks, agreed that the continents move.
+In 1951 Dr. Lawrence Wharton Jr. of Johns Hopkins Hospital cut cells from the tumor of Henrietta Lacks, a Black woman with cancer in Baltimore, without her knowledge. Scientists grew her cells for decades and used them to study polio, cancer and the AIDS virus. In 1953 James Watson and Francis Crick worked out the shape of DNA, the molecule that carries genes. By about 1970 most geologists, the scientists who study the Earth's rocks, agreed that the continents move.
 
-In 1993 a reporter named Eileen Welsome made the plutonium injections of the 1940s public. A federal committee then counted nearly 4,000 radiation experiments on people, and in 1995 President Bill Clinton apologized. Under laws passed in 1989 and 1990, museums had to begin returning the Native American dead that scientists had collected.
+In 1993 a reporter named Eileen Welsome made the plutonium injections of the 1940s public. Members of a federal committee then found nearly 4,000 radiation experiments on people, and in 1995 President Bill Clinton apologized. Under laws passed in 1989 and 1990, museums had to begin returning the Native American dead that scientists had collected.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Henrietta Lacks and the HeLa cells" -->
@@ -228,7 +228,7 @@ Scientists used HeLa cells to study the polio vaccine, leukemia, the AIDS virus,
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The shape of DNA, and who got the credit" -->
-In 1953 James Watson and Francis Crick worked out the shape of DNA, using Rosalind Franklin's X-ray pictures without her knowledge. DNA is the molecule inside cells that carries genes. A molecule is a group of atoms joined together. Watson was a 24-year-old American, and Crick was British. They worked at Cambridge University in England. At Caltech in California, Linus Pauling's lab was racing for the same answer.
+In 1953 James Watson and Francis Crick worked out the shape of DNA, using Rosalind Franklin's X-ray pictures without her knowledge. DNA is the molecule inside cells that carries genes. A molecule is a group of atoms joined together. Watson was a 24-year-old American, and Crick was British. They worked at Cambridge University in England. At Caltech in California, Linus Pauling and his team were racing for the same answer.
 
 On April 25, 1953, Watson and Crick published the structure in the journal *Nature*. DNA is a double helix: two long strands wound around each other in a spiral.
 
@@ -238,36 +238,36 @@ Franklin died in 1958, at 37. In 1962 the Nobel Prize went to Watson, Crick and 
 
 Watson later made racist statements about the intelligence of people in Africa. In 2007 the *Sunday Times Magazine* of London quoted him saying he was "inherently gloomy about the prospect of Africa" because "all our social policies are based on the fact that their intelligence is the same as ours." In the same sentence he went on: "where all the testing says not really." The trustees of Cold Spring Harbor Laboratory in New York, the people who govern it, removed him from all his management jobs there. They also ended his post as the lab's chancellor, one of its top leaders.
 
-In a PBS film shown on January 2, 2019, *American Masters: Decoding Watson*, he was asked whether his views had changed. He said, "No, not at all." The laboratory's leaders called his views "reprehensible, unsupported by science." Reprehensible means deserving strong blame. They took away his honorary titles. The Eugenics Record Office had run at Cold Spring Harbor from 1910 to 1939.
+In a PBS film shown on January 2, 2019, *American Masters: Decoding Watson*, he was asked whether his views had changed. He said, "No, not at all." The leaders of Cold Spring Harbor Laboratory, where the Eugenics Record Office had run from 1910 to 1939, called his views "unsubstantiated and reckless" and "reprehensible, unsupported by science." Unsubstantiated means not backed by proof, and reprehensible means deserving strong blame. They took away his honorary titles.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The floor of the ocean, and moving continents" -->
 By about 1970, most geologists agreed that the continents move. Geologists are scientists who study the Earth and its rocks. The idea that the continents move is called plate tectonics. The Earth's outer shell is broken into huge pieces, called plates, that slowly shift.
 
-Marie Tharp's maps of the ocean floor recorded evidence for it. In 1957 Tharp and Bruce Heezen published a map of the floor of the Atlantic Ocean, the *Physiographic Diagram of the Atlantic Ocean*. In 1962 Harry Hess published a paper called "History of Ocean Basins." In it he proposed seafloor spreading, the idea that new ocean floor forms along the undersea mountain ranges and spreads outward. Over the next ten years, other scientists gathered more evidence. In 1977 Tharp and Heezen published a painted map of the ocean floor of the whole world.
+Marie Tharp's maps of the ocean floor recorded evidence for it. In 1957 Tharp and Bruce Heezen published a map of the floor of the Atlantic Ocean, the *Physiographic Diagram of the Atlantic Ocean*. In 1962 Harry Hess published a paper called "History of Ocean Basins." In it he proposed seafloor spreading, the idea that new ocean floor forms along the undersea mountain ranges and spreads outward. In 1977 Tharp and Heezen published a painted map of the ocean floor of the whole world.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="marie-tharp" name="Marie Tharp" movie="" kind="famous" status="verified" -->
 ### Marie Tharp
 
-> **Who:** A geologist and mapmaker who mapped the ocean floor and found the rift valley along the Mid-Atlantic Ridge. Women were kept off the research ships, so she drew her maps on land.
+> **Who:** A geologist and mapmaker who mapped the ocean floor and found the rift valley along the Mid-Atlantic Ridge. Under Navy rules she could not sail on the research ships, so she drew her maps on land.
 > **When and where:** Lamont Geological Observatory, Columbia University, from 1948.
 
-In 1952 and 1953, Marie Tharp found a valley running down the middle of the Mid-Atlantic Ridge, a long chain of mountains under the Atlantic Ocean. It was a rift valley, a valley that forms where the Earth's crust is pulling apart. The crust is the Earth's rocky outer layer. Her partner, Bruce Heezen, at first dismissed her finding as "girl talk."
+In 1952 and 1953, Marie Tharp found a valley running down the middle of the Mid-Atlantic Ridge, a long chain of mountains under the Atlantic Ocean. It was a rift valley, a valley that forms where the Earth's crust is pulling apart. The crust is the Earth's rocky outer layer. Her work partner, Bruce Heezen, at first dismissed her finding as "girl talk."
 
-Tharp began work at Columbia University's Lamont Geological Observatory in 1948. She could not go out on the research ships. According to Smithsonian Magazine, Navy rules kept her off the ships that Maurice Ewing and her other colleagues hired. She first sailed on one in 1968. She made her maps from soundings taken on the ships. A sounding is a measurement of how deep the water is. Tharp turned the depth numbers into drawings of the shape of the sea floor.
+Tharp began work at Columbia University's Lamont Geological Observatory in 1948. She could not go out on the research ships. According to Smithsonian Magazine, under Navy rules she could not go out on the ships that Maurice Ewing and her other colleagues hired. She first sailed on one in 1968. She made her maps from soundings taken on the ships. A sounding is a measurement of how deep the water is. Tharp turned the depth numbers into drawings of the shape of the sea floor.
 
 The rift valley she found became part of the evidence that the sea floor spreads apart. Staff at the Library of Congress later named her one of the great mapmakers of the 20th century.
 <!-- hb-story:end slug="marie-tharp" -->
 
 <!-- hb-zoom level="span" label="Measuring the air on Mauna Loa" -->
-In March 1958 Charles David Keeling of the Scripps Institution of Oceanography began measuring the carbon dioxide in the air on Mauna Loa, a volcano in Hawaii. Carbon dioxide is one of the gases in the air. It is a greenhouse gas, a gas that takes in heat and gives it off again. The amount in the air is rising mostly because people burn coal, oil and other fossil fuels for energy. His first reading was 313 parts per million. That means 313 molecules of carbon dioxide in every million molecules of air. The average in the early part of that year was about 315.
+Charles David Keeling of the Scripps Institution of Oceanography began measuring the carbon dioxide in the air on Mauna Loa, a volcano in Hawaii, in March 1958. Carbon dioxide is one of the gases in the air. It is a greenhouse gas, a gas that takes in heat and gives it off again. The amount in the air is rising mostly because people burn coal, oil and other fossil fuels for energy. His first reading was 313 parts per million. That means 313 molecules of carbon dioxide in every million molecules of air. The average in the early part of that year was about 315.
 
 The measurements have run without a break since 1958. The line they make on a graph is called the Keeling Curve. It rises in a saw-tooth pattern, with small ups and downs inside a steady climb. By 2026 it had passed 430 parts per million. Climate scientists use the Keeling Curve as the base measurement for their work.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The afterglow of the Big Bang, and the parts of a proton" -->
-In 1964 and 1965, Arno Penzias and Robert Wilson found the leftover glow of the Big Bang, the hot beginning of the universe. They worked at Bell Labs in Holmdel, New Jersey, with a large antenna shaped like a horn. An antenna is a device that picks up radio waves. They picked up a faint hiss of microwaves, a kind of radio wave, and could not get rid of it. They even cleared out pigeons that had nested in the antenna, along with their droppings.
+Arno Penzias and Robert Wilson found the leftover glow of the Big Bang, the hot beginning of the universe, in 1964 and 1965. They worked at Bell Labs in Holmdel, New Jersey, with a large antenna shaped like a horn. An antenna is a device that picks up radio waves. They picked up a faint hiss of microwaves, a kind of radio wave, and could not get rid of it. They even cleared out pigeons that had nested in the antenna, along with their droppings.
 
 Physicists at Princeton identified the hiss. It was the cosmic microwave background, the cooled light left over from the early universe. Penzias and Wilson won the Nobel Prize in 1978.
 
@@ -278,9 +278,9 @@ In 1964 Murray Gell-Mann proposed tiny particles that he named quarks. He won th
 ### Darleane Hoffman
 
 > **Who:** A nuclear chemist who found plutonium in nature and whose group did chemistry on single atoms of the heaviest elements.
-> **When and where:** Los Alamos, New Mexico, and later Berkeley, California. She reported the plutonium find in 1971.
+> **When and where:** Los Alamos, New Mexico, and from 1984 Berkeley, California. She reported the plutonium find in 1971.
 
-In 1971 Darleane Hoffman reported that plutonium-244, one form of plutonium, occurs in nature. Scientists had thought of plutonium as a metal made only in labs.
+Darleane Hoffman showed in 1971 that plutonium-244, one form of plutonium, occurs in nature. Scientists had believed that all plutonium was made by people. Hoffman led the chemistry division at Los Alamos National Laboratory. She found tiny traces of plutonium-244 in very old rock from the Mountain Pass mine in California. In 1984 she moved to Lawrence Berkeley National Laboratory and the University of California, Berkeley. She died in 2025, at 98.
 
 Hoffman's group did chemistry on single atoms of the heaviest elements. The periodic table arranges the elements in patterns, and elements in the same column behave alike. Her group tested those patterns one atom at a time, to find where the heaviest elements stop following them.
 <!-- hb-story:end slug="darleane-hoffman-science" -->
@@ -320,7 +320,7 @@ Richard Feynman rebuilt quantum electrodynamics, the theory of how light and ele
 
 During World War II Feynman worked at Los Alamos. Later he became known for explaining hard ideas plainly, in his lectures at Caltech and in his 1985 book *Surely You're Joking*.
 
-In 1986 the space shuttle Challenger was lost, and its crew was killed. Feynman sat on the commission, a group of experts, that looked into the loss. On February 11, 1986, at a hearing shown on television, he dropped a piece of O-ring rubber into ice water. An O-ring is a rubber ring that seals a joint. The cold rubber lost its spring. In about one minute he showed how launching in cold weather had caused the failure.
+In 1986 the space shuttle Challenger broke apart soon after launch, and all seven people aboard died. They were Francis R. Scobee, Michael J. Smith, Ellison S. Onizuka, Judith A. Resnik, Ronald E. McNair, Christa McAuliffe and Gregory B. Jarvis. Hot gas had leaked through a joint in one of the shuttle's booster rockets. The air at launch was 36 degrees Fahrenheit, 15 degrees colder than at any earlier shuttle launch. Feynman sat on the commission, a group of experts, that looked into the disaster. On February 11, 1986, at a hearing shown on television, he dropped a piece of O-ring rubber into ice water. An O-ring is a rubber ring that seals a joint. The cold rubber lost its spring. In about one minute he showed how launching in cold weather had caused the failure.
 
 Feynman died in 1988. The BBC documentary *The Fantastic Mr Feynman* (2013) includes interviews with him, his family and his colleagues.
 <!-- hb-story:end slug="richard-feynman" -->
@@ -330,7 +330,7 @@ During the Cold War, the national laboratories ran on federal money, with big ma
 
 In October 1983 Barbara McClintock won the Nobel Prize in Physiology or Medicine for her discovery of moving genes. She was the first woman to win that prize without sharing it. The prize came 39 years after she began the experiments.
 
-On October 1, 1990, officials of the National Institutes of Health and the Department of Energy launched the Human Genome Project. A genome is the complete set of DNA in a living thing. The project's goal was to read the order of the chemical letters in a human genome. Its planners gave it 15 years and about $3 billion.
+On October 1, 1990, officials of the National Institutes of Health and the Department of Energy launched the Human Genome Project. A genome is the complete set of DNA in a living thing. The project's goal was to read all the DNA in a human genome, in order. Its planners gave it 15 years and about $3 billion.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Two laws to return the dead" -->
@@ -342,15 +342,19 @@ The Native American Graves Protection and Repatriation Act, called NAGPRA, becam
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The radiation experiments made public" -->
-In November 1993 the reporter Eileen Welsome made the plutonium injections public. Her three-part series in the *Albuquerque Tribune*, called "The Plutonium Experiment," began on November 15, 1993. It named the patients who had been injected. She won the Pulitzer Prize for National Reporting in 1994, a top award for American journalism.
+The reporter Eileen Welsome made the plutonium injections public in November 1993. Her three-part series in the *Albuquerque Tribune*, called "The Plutonium Experiment," began on November 15, 1993. It named the patients who had been injected. She won the Pulitzer Prize for National Reporting in 1994, a top award for American journalism.
 
 In 1993 Energy Secretary Hazel O'Leary opened her department's records. On January 15, 1994, President Bill Clinton set up the Advisory Committee on Human Radiation Experiments to investigate.
 
-The committee reported in 1995. Its members found "nearly 4,000 human radiation experiments sponsored by the federal government between 1944 and 1974." They also found "several hundred intentional releases of radiation into the environment for research purposes." That means radiation let out on purpose to study where it went. They found "little evidence of rules or practices of consent except in research with healthy subjects." In the 1940s and 1950s it was routine for doctors to use patients in research without the patients knowing. About the plutonium injections, the committee wrote: "In no case was there any expectation that these patient-subjects would benefit medically from the injections."
+The committee reported in 1995. Its members found "nearly 4,000 human radiation experiments sponsored by the federal government between 1944 and 1974." They also found "several hundred intentional releases of radiation into the environment for research purposes." That means radiation let out into the air, land or water on purpose, for research. They found "little evidence of rules or practices of consent except in research with healthy subjects." In the 1940s and 1950s it was routine for doctors to use patients in research without the patients knowing. About the plutonium injections, the committee wrote: "In no case was there any expectation that these patient-subjects would benefit medically from the injections."
 
-Some of these experiments were done on children. At the Fernald School, a state school in Massachusetts, researchers from MIT worked with the school's senior staff. In 1946 they gave radioactive iron to 17 boys. From 1950 to 1953 they gave radioactive calcium to 57 boys, in a special breakfast. The boys belonged to the school's "science club," whose members got extra milk and trips. One MIT researcher, Robert S. Harris, wrote that three boys who objected could be "induced to change their minds." A 1949 letter from the school's head to parents described a special diet and blood tests and did not mention radiation. From 1953 to 1957, doctors at Massachusetts General Hospital in Boston injected 11 patients with uranium. From 1963 to 1973, two doctors aimed X-rays at the testicles of 131 prisoners in Oregon and Washington. The testicles are the organs that make sperm. The doctors wanted to learn how radiation harms the making of sperm, and the men could get no health benefit from it. Carl Heller did this to 67 men at the Oregon State Prison, and his former student C. Alvin Paulsen ran the study in Washington. The men had to agree to a vasectomy at the end, an operation that cuts the tubes that carry sperm so a man can no longer father children. In Heller's study most men also had small pieces cut out of their testicles for testing five or more times, and were paid $25 each time.
+Some of these experiments were done on children. The Fernald School was a state school in Massachusetts for children with disabilities. Researchers from MIT worked there with the school's senior staff. In 1946 they gave radioactive iron to 17 boys who lived at the school. From 1950 to 1953 they gave radioactive calcium to 57 boys, in a special breakfast. The boys belonged to the school's "science club," whose members got extra milk and trips. One MIT researcher, Robert S. Harris, wrote that three boys who objected could be "induced to change their minds." A 1949 letter from the school's head to parents described a special diet and blood tests and did not mention radiation.
 
-From 1946 to 1949, researchers at Vanderbilt University and the Tennessee state health department studied nutrition in pregnancy. Paul Hahn led the part of the study in which researchers gave about 819 pregnant women a dose of radioactive iron at their second visit to the clinic.
+From 1953 to 1957, doctors at Massachusetts General Hospital in Boston injected 11 patients with uranium.
+
+From 1963 to 1973, two doctors aimed X-rays at the testicles of 131 prisoners in Oregon and Washington. The testicles are the organs that make sperm. The doctors wanted to learn how radiation affects the making of sperm, and the men could get no health benefit from it. Carl Heller did this to 67 men at the Oregon State Prison, and his former student C. Alvin Paulsen ran the study in Washington. The men had to agree to a vasectomy at the end, an operation that cuts the tubes that carry sperm so a man can no longer father children. In Heller's study most men also had small pieces cut out of their testicles for testing five or more times, and were paid $25 each time.
+
+Researchers at Vanderbilt University and the Tennessee state health department studied nutrition in pregnancy from 1946 to 1949. The women were poor patients at a clinic for pregnant women. Paul Hahn led the part of the study in which researchers gave about 819 of them a drink with a dose of radioactive iron at their second visit to the clinic.
 
 On October 3, 1995, at the White House, Clinton said: "the United States of America offers a sincere apology to those of our citizens who were subjected to these experiments, to their families, and to their communities."
 
@@ -362,22 +366,22 @@ In November 1996 O'Leary announced payments of $4.8 million to the families of 1
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-Scientists finished reading the human genome in 2003 and found the Higgs boson in 2012. In 2015 they detected gravitational waves for the first time. The biggest experiments now have thousands of scientists from many countries. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012.
+In 2003 scientists announced that they had read nearly all of the human genome, and in 2022 they read all of it. In 2012 scientists found the Higgs boson. In 2015 they detected gravitational waves for the first time. The biggest experiments now have thousands of scientists from many countries. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012.
 
 Some of the people who were used for science, and their families, have also won apologies, rules and payments. In 2013 the Lacks family reached an agreement on how scientists may use the genome of Henrietta Lacks's cells. In 2023 the head of the Smithsonian apologized for how its collectors gathered human remains. In July 2025 people who lived downwind of the Trinity test became able to claim federal payments.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The genome, finished twice" -->
-In June 2000 scientists announced a working draft of the human genome. In April 2003 the International Human Genome Sequencing Consortium, the teams of scientists doing the work, announced that the genome was essentially complete. They had read about 92 percent of it, with fewer than 400 gaps left. They timed the announcement to the 50th anniversary of the 1953 paper on the shape of DNA.
+Scientists announced a working draft of the human genome in June 2000. In April 2003 the International Human Genome Sequencing Consortium, the teams of scientists doing the work, announced that the genome was essentially complete. They had read about 92 percent of it, with fewer than 400 gaps left. They timed the announcement to the 50th anniversary of the 1953 paper on the shape of DNA.
 
 On March 31, 2022, another group of scientists, the Telomere-to-Telomere consortium, published the first complete human genome with no gaps.
 
-The National Human Genome Research Institute, the government's genome research agency, has published what the work cost. The Human Genome Project cost the United States about $2.7 billion. That money paid for mapping and for building new tools, not only for reading one genome. In 2006, reading one person's genome to a high-quality draft cost about $14 million. By the middle of 2015 it cost just over $4,000, and by late 2015 it cost less than $1,500.
+The National Human Genome Research Institute, the government's genome research agency, has published what the work cost. The Human Genome Project cost the United States about $2.7 billion. That money paid for mapping the genome and for building new tools, as well as for reading it. In 2006, reading one person's genome to a high-quality draft cost about $14 million. By the middle of 2015 it cost just over $4,000, and by late 2015 it cost less than $1,500.
 
-James Watson, one of the two men who worked out the shape of DNA in 1953, died in November 2025. He was 97.
+James Watson died in November 2025, at 97. With Francis Crick, he had worked out the shape of DNA in 1953, using Rosalind Franklin's X-ray pictures without her knowledge.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Higgs boson, and the collider Congress cancelled" -->
+<!-- hb-zoom level="span" label="The Higgs boson, and the collider that members of Congress cancelled" -->
 On July 4, 2012, scientists at CERN, the European physics laboratory in Geneva, Switzerland, announced that they had found the Higgs boson. The Higgs boson is a particle tied to how other particles get their mass. Mass is the amount of matter in an object. Two experiments found it, called ATLAS and CMS. Both used the Large Hadron Collider, a machine that smashes tiny particles together at very high speed. According to the US Department of Energy, about 1,700 American scientists worked on these experiments through two American labs, Fermilab and Brookhaven.
 
 American physicists had begun building a collider of their own, the Superconducting Super Collider, near Waxahachie, Texas. It was planned as a ring 54 miles around. In October 1993 members of Congress cancelled it. By then $2 billion had been spent and more than 14 miles of tunnel had been dug. The machine that found the Higgs boson was built in Europe instead.
@@ -412,36 +416,36 @@ In 2020 Doudna and Charpentier won the Nobel Prize in Chemistry. It was the firs
 <!-- hb-story:start slug="rainer-weiss" name="Rainer Weiss" movie="" kind="famous" status="verified" -->
 ### Rainer Weiss
 
-> **Who:** An MIT physicist, who came to America as a child refugee from Nazi Germany, and who worked out the design of the detectors that first picked up gravitational waves.
+> **Who:** An MIT physicist, who came to America as a child refugee from Nazi Germany, and who worked out the idea for the detectors that first picked up gravitational waves.
 > **When and where:** MIT, and the LIGO detectors at Hanford, Washington, and Livingston, Louisiana. The detection came on September 14, 2015.
 
-On September 14, 2015, the two LIGO detectors picked up gravitational waves for the first time. Gravitational waves are ripples in space and time. These came from two black holes that crashed into each other 1.3 billion light-years away. A black hole is a place in space where gravity is so strong that not even light can get out. Rainer Weiss worked out the design of the detectors in 1972.
+On September 14, 2015, the two LIGO detectors picked up gravitational waves for the first time. Gravitational waves are ripples in space and time. These came from two black holes that crashed into each other 1.3 billion light-years away. A black hole is a place in space where gravity is so strong that not even light can get out. Rainer Weiss worked out the idea for the detectors in 1972.
 
 Weiss was born in Berlin in 1932. His family fled the Nazis through Prague and reached New York in January 1939. He became a professor at MIT, the Massachusetts Institute of Technology.
 
-His design is called a laser interferometer. It uses laser beams to measure very small changes in distance. The LIGO detectors were paid for by the National Science Foundation, the government agency that pays for science research. LIGO scientists announced the discovery on February 11, 2016, a century after Einstein predicted the waves. In 2017 Weiss shared the Nobel Prize in Physics with Barry Barish and Kip Thorne.
+His kind of detector is called a laser interferometer. It uses laser beams to measure very small changes in distance. The LIGO detectors were paid for by the National Science Foundation, the government agency that pays for science research. LIGO scientists announced the discovery on February 11, 2016, a century after Einstein predicted the waves. In 2017 Weiss shared the Nobel Prize in Physics with Barry Barish and Kip Thorne.
 <!-- hb-story:end slug="rainer-weiss" -->
 
 <!-- hb-zoom level="span" label="The Webb telescope" -->
-The James Webb Space Telescope was launched on December 25, 2021. According to NASA, its first science images were released on July 11 and 12, 2022. Scientists using the telescope have found galaxies from the first few hundred million years of the universe, earlier than any galaxies found before.
+The James Webb Space Telescope was launched on December 25, 2021. NASA released its first science images on July 11 and 12, 2022. Scientists using the telescope have found galaxies from the first few hundred million years of the universe, earlier than any galaxies found before.
 
 In 2022 scientists using the telescope made the first clear detection of carbon dioxide in the air of a planet around another star. The planet is called WASP-39b. A planet that circles a star other than our Sun is called an exoplanet.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Computers that predict the shapes of proteins" -->
-In 2020 scientists at DeepMind, a British lab, showed that their program AlphaFold2 could predict the shape of a protein well enough for practical use. A protein is a molecule that does work inside living cells, and its shape sets what it can do. AlphaFold2 is an example of artificial intelligence, or AI: computer software that learns patterns from huge amounts of data. According to the European Molecular Biology Laboratory, free public databases held more than 200 million predicted protein shapes by 2026.
+Scientists at DeepMind, a British lab, showed in 2020 that their program AlphaFold2 could predict the shape of a protein well enough for practical use. A protein is a molecule that does work inside living cells, and its shape sets what it can do. AlphaFold2 is an example of artificial intelligence, or AI: computer software that learns patterns from huge amounts of data. According to the European Molecular Biology Laboratory, free public databases held more than 200 million predicted protein shapes by 2026.
 
 In 2024 the Nobel Prize in Chemistry was split in two. Half went to David Baker, an American at the University of Washington, for using computers to design new proteins. The other half went to Demis Hassabis and John Jumper of DeepMind in Britain. News reports in the 2020s describe scientists in many fields starting to use AI tools in their labs.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Heavy elements, made by many countries" -->
-Scientists from several countries now work together to make the heaviest elements. Teams from Dubna in Russia and from Lawrence Livermore and Oak Ridge in the United States have worked on the same experiments. Joint panels of two international science unions, IUPAC and IUPAP, judge who made each new element. In 2015 the panels recognized new element discoveries.
+Scientists from several countries now work together to make the heaviest elements. Teams from Dubna in Russia and from Lawrence Livermore and Oak Ridge in the United States have worked on the same experiments. Scientists on joint panels of two international science groups, IUPAC and IUPAP, judge who made each new element. On December 30, 2015, IUPAC officially recognized the discoveries of elements 113, 115, 117 and 118. That filled the seventh row of the periodic table. Teams from Dubna and Livermore got credit for 115, 117 and 118, with Oak Ridge also credited for 115 and 117. The names came on November 28, 2016: nihonium, moscovium, tennessine, named for Tennessee, and oganesson.
 
 In 2024 scientists at Berkeley made livermorium, element 116, by firing a beam of titanium at a target. With that result, the Berkeley team prepared to try for element 120. The physicists are looking for what they call the "island of stability," a group of superheavy elements that they predict would last longer before breaking apart.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Lacks family and the HeLa genome" -->
-In March 2013 European researchers published the genome of the HeLa cells. They did it without the consent of Henrietta Lacks's family. Between April and July 2013, Francis Collins, the director of the National Institutes of Health, met with members of the Lacks family three times.
+European researchers published the genome of the HeLa cells in March 2013. They did it without the consent of Henrietta Lacks's family. Between April and July 2013, Francis Collins, the director of the National Institutes of Health, met with members of the Lacks family three times.
 
 On August 7, 2013, NIH officials announced the NIH-Lacks Family Agreement. Under it, scientists must apply to NIH to use the full genome data of HeLa cells. A working group that includes members of the Lacks family reviews the requests.
 
@@ -451,9 +455,11 @@ According to news reports in STAT and Smithsonian Magazine, the two sides announ
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Apologies, and the dead still held" -->
-In August 2023 Lonnie G. Bunch III, the Secretary, or head, of the Smithsonian, apologized for how the institution had collected many of its human remains. He spoke after the Washington Post published its investigation of Aleš Hrdlička's collecting. In 2022 remains of Black Philadelphians from Samuel Morton's skull collection were buried again in Philadelphia, according to the University of Pennsylvania's student newspaper.
+Lonnie G. Bunch III, the Secretary, or head, of the Smithsonian, apologized in August 2023 for how the institution had collected many of its human remains. He spoke after the Washington Post published its investigation of Aleš Hrdlička's collecting.
 
-ProPublica, a news organization, counted the Native American remains still held, using federal NAGPRA reports. As of January 6, 2025, about 650 institutions had reported holding more than 210,000 Native American remains. They had not yet made 90,831 of them, or 42 percent, available for return. The largest holders were the Ohio History Connection with 7,936, the Illinois State Museum with 5,801, Harvard University with 5,431, the University of California, Berkeley with 4,794, and Indiana University with 4,503. The Smithsonian is not on that list, because it reports under the 1989 law instead of NAGPRA. Another publication, Retrospect Journal, reported in March 2025 a different count, made in September 2024: 126,299 of 216,804 remains returned.
+Two years earlier, on April 12, 2021, Christopher Woods, the director of the Penn Museum at the University of Pennsylvania, had apologized for "the unethical possession of human remains in the Morton Collection." Samuel Morton was a Philadelphia doctor of the 1800s who collected human skulls to rank the races. In 2022 remains of Black Philadelphians from his collection were buried again in Philadelphia, according to the University of Pennsylvania's student newspaper.
+
+ProPublica, a news organization, counted the Native American remains still held, using federal NAGPRA reports. As of January 6, 2025, staff at about 650 museums, universities and agencies had reported holding more than 210,000 Native American remains. They had not yet made 90,831 of them, or 42 percent, available for return. The Ohio History Connection held the most, 7,936. The Illinois State Museum held 5,801, and Harvard University held 5,431. The University of California, Berkeley held 4,794, and Indiana University held 4,503. The Smithsonian is not on that list, because it reports under the 1989 law instead of NAGPRA. Another publication, Retrospect Journal, reported in March 2025 a different count, made in September 2024: 126,299 of 216,804 remains returned.
 
 On January 12, 2024, a revised NAGPRA rule took effect. Officials of the Interior Department had announced it on December 6, 2023. Under the rule, museums and federal agencies must get the free, prior and informed consent of direct descendants, Native nations or Native Hawaiian organizations. They need it before they display human remains or sacred and cultural objects, let others see them, or do research on them. Free, prior and informed consent means a yes given freely and beforehand, by people who have been told everything about the request. In January 2024, according to The Art Newspaper, staff at the Field Museum in Chicago covered display cases in two of its halls.
 <!-- /hb-zoom -->
