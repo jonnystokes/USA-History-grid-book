@@ -46,6 +46,8 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 32 | (2026-09-30) Jefferson and Sally Hemings (director, under #28 rules 1 and 4) | The prose may not say Jefferson "began having sex with her." It states the facts plainly: she was 14 and enslaved by him, he was 44, by law he owned her and she could not refuse, and historians describe what he did as rape. Same rule for every enslaver and enslaved woman or girl in the book |
 | 33 | (2026-09-30) Living business figures (director, under #28 rule 5) | Rule 5 covers people facing open accusations of wrongdoing. A living business leader with a documented, criticized record (for example Jeff Bezos) keeps a profile, which states that record plainly, including labor disputes |
 | 34 | (2026-09-30) Forced servitude words (director, under #28 rule 1) | When the record shows people were forced to work for others for years as a punishment or by capture (Acoma 1599, "serve" for 20 years), the prose names it as slavery or forced labor, not "serve" or "work" |
+| 35 | (2026-09-30) Slurs in historical titles and quotes (director, under #28 rules 1 and 2) | The book never prints a racial slur, even inside a song title or quote. It says plainly what the song or text was and what it called the people it targeted ("a hit song whose title used an insult for Black people") |
+| 36 | (2026-09-30) The same event in several chapters (director, under #28 rule 1) | When one chapter tells a harm fully (My Lai's rapes and killings in war), every other chapter that mentions the event names the same harms in plain words, at least in one sentence. No chapter may tell a softer version of an event another chapter tells in full |
 
 ## Consequences already applied
 

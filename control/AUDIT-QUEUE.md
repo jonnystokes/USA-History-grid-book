@@ -277,3 +277,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **Tulsa (#23 corrected):** both chapters already follow the sources; check the wording uses plain words ("charged with crimes", not "indicted"; "neglect of duty", not "dereliction").
 - **Every chapter (#28 rule 7):** big words out, plain words in. **(#31):** "rape", never "assault" alone, wherever the record says rape.
 - **#32 Jefferson and Hemings**, **#33 living business figures**, **#34 forced servitude words**: rulings for the step 5 fixers (DECISIONS).
+- **#35 slurs in titles and quotes**, **#36 one event told the same way in every chapter** (My Lai: news-communication must name the rapes as war does): rulings for the step 5 fixers.

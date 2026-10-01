@@ -4438,3 +4438,9 @@ VERIFY: python tools/project_state.py --check holidays --stage prose
 RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14870w files=3 validator_errors=0
         253474 tokens, 22 tool uses, 11.8 min (sonnet). CHECKER sonnet part1: 125 findings (17 B, 10 M, 98 m) [BURST20]
 USAGE: T-409 (biggest file) 62% -> 66% = 4%. USAGE AT START (BURST20, T-410..T-429): 66% (Jon).
+
+### 2026-09-30 | [LOCAL] BURST20 done, PAUSED by Jon. T-410..T-429: 20 sonnet checkers on normal-size files, all FINISHED.
+4.50M tokens, avg 225k, longest 11.8 min; 2,022 findings (254 blocking). Usage at start 66% (Jon). T-409 alone measured
+4% for the biggest file. Audit 99/111. Left: 12 files (10 big: crime-justice p3, rights-movements p2, disasters p3,
+religion p1/p3, education p3, art p3, music p3, storytelling p3, sports-play p3; 2 normal: holidays p2, p3).
+Rulings #35-36 logged. Nothing in flight.
