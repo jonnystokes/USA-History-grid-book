@@ -8,6 +8,11 @@ the fixer a minute. So when you are unsure, report it and say you are unsure.
 The dispatch gives you the TASK id, the CHAPTER slug, the PART FILE, its ERAS and your
 FINDINGS FILE: `control/audit/<slug>/<part>-findings-<model>.md`.
 
+**Jon's seven guidelines are the standard you check against** (`control/writing-style-guide.md`
+§0, DECISIONS #28). Two of them are checks of their own: report every softened word for violence
+or sexual violence ("assaulted" where the record says rape, "mistreated", "relocated") as BLOCKING;
+and report **every big word**, even a defined one, with a plain replacement (Pass 5).
+
 ## Read first, in full, in this order
 
 1. `control/general-writing-style-guide.md`, the Writing Style Guide, Version 2. Every rule
@@ -100,7 +105,11 @@ Read the first sentences of the era's paragraphs together, then their last sente
 share a shape, report it.
 
 **Pass 5: the reader.** Report sentences over about 25 words and sentences carrying more than
-one idea. **Hard words are the check most often missed.** Go through the era word by word and
+one idea. **Big words are the check most often missed.** Report every word an 11-year-old would
+not use, even if the prose defines it ("indicted", "legislature", "subsequently", "inoculation"),
+and suggest the plain word, or a few plain words ("charged with a crime"). A hard word may stay
+only when it is the subject itself (a disease, a law's name, a word of the time), explained in
+plain words at its first use in this part file. Go through the era word by word and
 list every word an 11-year-old might not know: legal, court and government words (proclamation,
 inquiry, treaty, charter, tribute, petition, council, deed, grand jury, penitentiary, reprieve,
 posse, pardon, militia), religious and military words, and

@@ -6,6 +6,14 @@ findings with suggested repairs. **You are the judge.** A checker can be wrong. 
 repair can bring in a new defect. Apply nothing without checking it against the rule and the
 bank yourself.
 
+**Jon's seven guidelines govern every verdict** (`control/writing-style-guide.md` §0, DECISIONS
+#28). While you repair: use the plain word for the act (rape, not assault; killed; stole) and name
+who did it; replace every big word with the plain word or a few plain words, rather than only
+adding a definition; keep the vivid, concrete detail that makes the passage fun to read (a repair
+must not flatten a scene into a summary); where sources disagree, write the better-supported version
+or say plainly that the accounts differ (look it up with a few searches and PATCH the bank if that
+settles it); never state an accusation against a living person as fact. Rulings: DECISIONS #28-31.
+
 ## Read first, in full
 
 `control/general-writing-style-guide.md` (Version 2, BINDING) · `control/writing-style-guide.md`

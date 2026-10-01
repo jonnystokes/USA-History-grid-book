@@ -270,3 +270,9 @@ will be worded differently, which is exactly why a search will not find it.
 - **rights-movements era 8, the Night of Terror log (T-329b):** the bank and outline credit it to Alice Paul; *Jailed for Freedom* shows it is Lucy Burns's. The prose and a correction PATCH follow Burns. Correct the outline, and check elsewhere in the book for the same error.
 - **rights-movements era 9, Freedom Riders count (T-329b):** the writer changed "thirteen" to "eleven" on an NPS page. The original May 1961 group is usually given as thirteen; the NPS figure may count only one bus. Check which group the sentence describes and match the number to it.
 - **Tulsa (T-329b):** rights-movements now tells the grand jury as the sources do (about 70 indicted, many Black Greenwood leaders; no white man imprisoned; Gustafson convicted of dereliction of duty). DECISIONS #23's "no one was ever convicted" wording should be corrected in the audit.
+
+## Director rulings for the step 5 fixers (2026-09-30, DECISIONS #28-31)
+
+- **art era 10, Kehinde Wiley (#30):** remove the `kehinde-wiley` hb-story block; keep the Obama portrait and *Rumors of War* as facts in the spans; Amy Sherald's story carries the portraits. Do not mention the accusations.
+- **Tulsa (#23 corrected):** both chapters already follow the sources; check the wording uses plain words ("charged with crimes", not "indicted"; "neglect of duty", not "dereliction").
+- **Every chapter (#28 rule 7):** big words out, plain words in. **(#31):** "rape", never "assault" alone, wherever the record says rape.

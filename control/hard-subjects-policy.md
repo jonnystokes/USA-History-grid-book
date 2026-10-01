@@ -1,5 +1,7 @@
 # Hard Subjects Policy
 
+> **2026-09-30, DECISIONS #28 and #31:** Jon's seven guidelines (`control/writing-style-guide.md` §0) govern this policy. The word for sexual violence is **rape**, stated plainly and attributed as the record gives it, never "assault" alone. Every hard word is replaced by plain words where possible ("charged with a crime", not "indicted").
+
 **Binding on every research and writing agent. Read this alongside `control/AGENT-BRIEF.md`.**
 Records Jon's rulings of 2026-09-06. Full context: `control/DECISIONS.md`, Part 1.
 This file is prose, not a grid file. It carries no `hb-` markers and the grid validator does not run on it.

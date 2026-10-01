@@ -16,6 +16,34 @@ This file contains only what is specific to this book: the reader, the subject, 
 policy. **Where the two files disagree, this file governs the reader, the subject and the
 policy. Version 2 governs prose mechanics.**
 
+## 0. Jon's seven guidelines (2026-09-30, DECISIONS #28): read these first
+
+Jon: "Think of this as your own kids. How would you want them raised, knowing the truth? They
+should know how bad it was, and it should also be fun to read." These govern every other rule
+in this file and in the hard-subjects policy.
+
+1. **The whole truth, plainly.** Use the plain word for the act: rape (never "assault"),
+   murder, killed, enslaved, stole, burned alive. Name who did it. Give the numbers. No modern
+   softening ("mistreated", "relocated", "passed away", "incident"). A reader who later learns
+   more must never find it was worse than this book said.
+2. **Fit the age by clarity, not by leaving things out.** One plain sentence for the act, the
+   word explained, then move on. No gore, no lingering, no horror-movie detail.
+3. **Make it fun to read.** Real people, concrete detail, surprising true facts, people's own
+   words, humor where history is funny. When you repair a sentence, keep its vivid detail; do
+   not flatten it into a summary. Never invent anything to make it livelier.
+4. **When sources disagree,** the director decides, or an opus agent checks the primary
+   sources first. Write the better-supported version. If it is genuinely unsettled, say
+   plainly that the accounts differ, and give each.
+5. **Living people:** state what courts and records show. Never tell an accusation as fact.
+   No hero profile (`hb-story`) for a person whose conduct is in open dispute.
+6. **The director decides and reports.** Calls are logged in `control/DECISIONS.md`.
+7. **No big words anywhere.** Use the word an 11-year-old would use. If no single plain word
+   exists, spell it out in a few plain words: "charged with a crime", not "indicted";
+   "lawmakers", not "legislature"; "later", not "subsequently". A hard word stays only when
+   it is the subject itself (a disease, a law's name, a word people of the time used), and
+   then it is explained in plain words right there, the first time it appears in each part
+   file (a reader may open any era).
+
 ### Version 2 rules with a fixed meaning in this book
 
 - **Zero em dashes and zero semicolons** in anything a reader of the book will see: the
@@ -80,10 +108,14 @@ the 15-year-old is not insulted. Concretely:
 
 ### 1.3 Hard words you must keep
 
-Some words cannot be swapped for a plain one without losing the fact. Technical
-terms, legal terms, the clinical words in `hard-subjects-policy.md` §3b, and the
-proper names of things. **Keep them and define them on first use, in the same
-sentence or the next one, in plain words.**
+**First try to replace the word (§0 rule 7).** Most legal and government words can be
+spelled out in a few plain words, and should be: "charged with a crime" for "indicted",
+"a group of citizens who decide whether there is enough proof for a trial" for "grand
+jury" when the sentence does not need the name. Only some words cannot be swapped without
+losing the fact: the clinical words in `hard-subjects-policy.md` §3b, the proper names of
+things (laws, cases, places), and words that are the subject of the passage. **Keep those and
+define them on first use in each part file, in the same sentence or the next one, in plain
+words.**
 
 **Weak:** "The commissioners authorized a declaration of taking."
 **Strong:** "Army lawyers filed a paper called a declaration of taking. Under it,

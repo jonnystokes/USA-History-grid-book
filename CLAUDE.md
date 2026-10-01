@@ -28,6 +28,10 @@ contain the detail. Read them when they apply.
 3. **`control/hard-subjects-policy.md`**: no softening, never invent a name, define clinical
    words.
 
+- **Jon's seven guidelines come first** (`control/writing-style-guide.md` §0, DECISIONS #28): the
+  whole truth in plain words (rape, not assault), fit the age by clarity not omission, fun to read
+  with real people and true detail, the director settles disagreements, no accusation against a
+  living person told as fact, and **no big words anywhere** ("charged with a crime", not "indicted").
 - **No language softening, ever.** That covers euphemism, minimization, downplaying,
   semantic abstraction, sanitization, gist extraction and lossy summarization. This book's
   reader does not know this history and cannot reconstruct what you left out. Anything

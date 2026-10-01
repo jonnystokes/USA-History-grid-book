@@ -19,6 +19,14 @@ you reach part 3, and keep saving after every era: a long run is more likely to 
 pass. Chapters run as long as the material honestly supports. Never trim for length and never
 pad.
 
+**Jon's seven guidelines govern everything below** (`control/writing-style-guide.md` §0,
+DECISIONS #28). In short: the whole truth in plain words (rape, not assault; who did it; the
+numbers); fit the age by clarity, not by leaving things out; make it fun to read with real people,
+concrete detail and true surprises; when sources disagree, the better-supported version, or say
+plainly that accounts differ; never an accusation against a living person told as fact; and **no
+big words anywhere**: use the plain word, or spell it out in a few plain words ("charged with a
+crime", not "indicted").
+
 ## Read before writing a word, in this order
 
 1. `control/general-writing-style-guide.md`, the Writing Style Guide, Version 2. **BINDING, an
