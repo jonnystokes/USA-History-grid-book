@@ -3947,9 +3947,11 @@ RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 writte
         171371 tokens, 15 tool uses, 4.8 min (sonnet). CHECKER sonnet part2: 52 findings (6 B, 6 M, 40 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-362 | energy: CHECKER sonnet, part3 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13122w files=3 validator_errors=0
+        211659 tokens, 20 tool uses, 7.3 min (sonnet). CHECKER sonnet part3: 87 findings (7 B, 10 M, 70 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-363 | transportation: CHECKER sonnet, part1 [BURST10] | model sonnet
 STATUS: DONE
