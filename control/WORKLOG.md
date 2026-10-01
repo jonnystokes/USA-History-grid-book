@@ -4114,3 +4114,8 @@ VERIFY: python tools/project_state.py --check government-politics --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+
+### 2026-09-30 | [LOCAL] T-392 | crime-justice: CHECKER sonnet, part1 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage prose
