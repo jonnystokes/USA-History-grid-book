@@ -390,3 +390,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-443	prose	general-purpose/opus	[LOCAL] art: FIXER whole chapter (test 2, largest one-agent): 334 findings judged (316 FIXED,	?	?	?	532299	410	1558966	?	completed	PASS  art / prose
 2026-10-01	T-444	prose	general-purpose/opus	[LOCAL] rights-movements: FIXER part3 only (test 3, largest single part): 230 findings (226 FIXED, 4 REJEC	?	?	?	504091	285	1512364	?	completed	PASS  rights-movements / prose
 2026-10-01	T-445	prose	general-purpose/opus	[LOCAL] transportation: FIXER whole chapter [WAVE6]: 173 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 15 found 	?	?	?	356305	202	960828	?	completed	PASS  transportation / prose
+2026-10-01	T-450	prose	general-purpose/opus	[LOCAL] money: FIXER whole chapter [WAVE6]: 197 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 10 found b	?	?	?	363949	224	943225	?	completed	PASS  money / prose

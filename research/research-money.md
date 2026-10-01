@@ -19,6 +19,10 @@ Companion files: outline `outlines/money.md` · workspace `workspace/money.md`.
 - Wampum's use AS currency was a colonial-era development in dealings between colonists and Native traders (see era 3). Before Europeans arrived, it was not a currency. (Sources: JSTOR Daily "Wampum Was Massachusetts' First Legal Currency"; Notre Dame Coin and Currency Collections intro.)
 - **`native-nations` leads wampum's meaning** (Two Row Wampum, Covenant Chain — already in their outline). This chapter says plainly what wampum was, then tells only the currency episode.
 
+### PATCH 2026-10-01 (T-450): plain glosses for era 1
+- Who the Haudenosaunee are: a confederacy (league) of Native nations in what is now New York State: the Mohawk, Oneida, Onondaga, Cayuga and Seneca, joined later by the Tuscarora (the Six Nations). (Copied from `research/research-native-nations.md`, era 5 line on the Six Nations in the Revolution, sourced there to NPS "The Six Nations Confederacy During the American Revolution" and Britannica "Haudenosaunee Confederacy".)
+- A whelk is a large sea snail. A quahog is a hard-shelled clam of the Atlantic coast. (Sources: Merriam-Webster, "whelk" and "quahog"; Notre Dame "Wampum: Introduction".)
+
 ## 2. The 1500s
 
 ### Spanish silver — somebody else's money passing by
@@ -39,6 +43,9 @@ Companion files: outline `outlines/money.md` · workspace `workspace/money.md`.
 Sources checked: Encyclopedia.com "Potosí" and "Mita" (no death count; names disease as the larger killer); Penn DIA mita page (no death count); popular and blog pages in search results (figures from "hundreds of thousands" to "eight million," one noting that eight million is a count for the whole Viceroyalty of Peru; not scholarly, search summaries only).
 How the prose can say it: the work was forced and dangerous; no reliable count of the dead exists.
 
+### PATCH 2026-10-01 (T-450): who was drafted for the mita
+- The Potosí mita applied to Native men aged 18 to 50 in sixteen highland provinces. Each year about one man in seven from those communities had to go to the mines as a mitayo. (Sources: Melissa Dell, "The Persistent Effects of Peru's Mining Mita," *Econometrica* 78:6 (2010), Harvard scholar page; Wikipedia "History of Bolivia to 1809," search summaries agreeing.)
+
 ## 3. The 1600s
 
 ### Coin shortage and commodity money
@@ -55,6 +62,11 @@ How the prose can say it: the work was forced and dangerous; no reliable count o
 ### 1690 — the first government paper money in the Western world
 - Massachusetts printed paper "bills of credit" to pay soldiers back from the failed 1690 expedition against French Quebec (King William's War) — the colony's treasury had too little coin and the troops, by contemporary account, were near mutiny. The legislature authorized the issue dated February 3, 1690/91 (old-style calendar; the vote chain began in December 1690), for 40,000 pounds. Standard histories call these bills the first paper money issued by any government in the Western world; China had used paper money centuries earlier. (Sources: New England Historical Society "Massachusetts Issues the First Paper Money in the Western World"; American Numismatic Society "A History of American Currency." Dating note: popular summaries give "December 1690" and "February 3, 1690/91" — the old-style/new-style calendar makes both defensible; the outline says "in 1690" and stays safe.)
 - Each bill promised the treasurer would accept it "in all Public payments" and that it could later be redeemed for coin. The bills circulated; by 1714 Massachusetts had issued 240,000 pounds, and by 1718 the other New England colonies had followed. (Source: New England Historical Society, same article.)
+
+### PATCH 2026-10-01 (T-450): English money units, why England had no king in 1652, and Hull's age
+- English money before 1971: 12 pence made a shilling and 20 shillings made a pound (240 pence to the pound). (Sources: Royal Mint Museum, "Shilling," curator's corner; Wikipedia "Shilling (British coin)".)
+- King Charles I was tried by the High Court of Justice, a court set up by Parliament, found guilty on January 27, 1649 and beheaded on January 30, 1649 outside the Banqueting House in London, after the English Civil War. 59 of the court's commissioners, Oliver Cromwell among them, signed the death warrant. England had no king until Charles II took the throne in 1660. (Sources: Historic Royal Palaces, "The execution of Charles I"; Britannica "Charles I"; Wikipedia "Execution of Charles I of England".)
+- John Hull was born on December 18, 1624, in Market Harborough, Leicestershire, England, the son of the blacksmith Robert Hull. He came to Massachusetts with his parents at age 11 and died in Boston on October 1, 1683. On his appointment as mintmaster (May 27, 1652) he was 27, not 28. (Sources: Wikipedia "John Hull (merchant)"; American Antiquarian Society *Proceedings* 1936, "John Hull, Colonial Merchant, 1624-1683" (search summary).)
 
 ## 4. 1700 to 1750
 
@@ -101,6 +113,10 @@ How the prose can say it: the work was forced and dangerous; no reliable count o
 ### PATCH 2026-09-29 (T-308a): Hamilton's office
 - Alexander Hamilton (1757 to 1804) "was appointed the first Secretary of the Treasury" and served from 1789 to 1795. (Source: U.S. Department of the Treasury, "Alexander Hamilton (1789-1795)," prior secretaries page, opened.)
 - Full names for the bank fight: **James Madison** opposed the bank bill in the House as unconstitutional, asking "Is the power of establishing an incorporated Bank among the powers vested by the Constitution in the Legislature?" **George Washington** signed the bill on **February 25, 1791**, after asking Hamilton to answer the objections so that he might be "fully possessed of the arguments for and against the measure." (Source: National Park Service, "Establishing the First Bank," nps.gov, opened.) Federal Reserve History ("The First Bank of the United States," opened) names "Thomas Jefferson" and "President Washington."
+
+### PATCH 2026-10-01 (T-450): who printed the fake Continentals, and the eagle's value
+- "For the majority of the war the city of New York was under control of the British. It was here that the majority of the counterfeiting was done." A January 1780 letter from General Henry Clinton, the British commander in North America from 1778, to Lord George Germain (Secretary of State for the American Colonies, 1775 to 1782; Britannica "George Germain, 1st Viscount Sackville") is the clearest sign that British leaders approved the operation (the article calls most other evidence circumstantial). An advertisement in the *New York Gazette* of April 14, 1777 asked people going into the other colonies to take counterfeit notes with them. (Source: Stuart Hatfield, "Faking It: British Counterfeiting During the American Revolution," *Journal of the American Revolution*, October 7, 2015, opened.) Search summaries add that printing was done aboard HMS Phoenix in New York harbor in 1776 (unconfirmed: search summary only, not used).
+- The Coinage Act of 1792 named three gold coins: the eagle, worth ten dollars, the half eagle (five dollars) and the quarter eagle (two dollars and fifty cents). (Sources: Wikipedia "Coinage Act of 1792" and "Eagle (United States coin)," quoting the act: "Eagles, each to be of the value of ten dollars or units"; U.S. Mint "History of U.S. Circulating Coins.")
 
 ## 6. 1800 to 1850
 
@@ -203,6 +219,10 @@ How the prose can say it: "No one counted the depositors. The records give the n
 ### PATCH 2026-09-29 (T-308a): the Secret Service's first chief, and who shot McKinley
 - "The Secret Service Division was formed on July 5, 1865 as part of the Department of the Treasury." Its first chief, William P. Wood, was sworn in by Treasury Secretary Hugh McCulloch. "As a result of the assassination of President William McKinley, Congress requested Secret Service protection of U.S. presidents." In 1902 "The Secret Service assumed full-time responsibility for protection of the President." (Source: U.S. Secret Service, "Timeline," secretservice.gov, opened.)
 - "Leon F. Czolgosz, age twenty-eight, a Detroit resident of Polish heritage and an unemployed mill worker of anarchist sentiments, had fired a concealed .32 Iver Johnson revolver point blank into the President's chest" at a public reception in the Temple of Music at the Pan-American Exposition in Buffalo on **September 6, 1901**. McKinley died on **September 14, 1901**. (Source: Miller Center, University of Virginia, "William McKinley: Death of the President," opened.)
+
+### PATCH 2026-10-01 (T-450): the pictures in Bryan's last lines, and electoral votes
+- Bryan's closing lines ("crown of thorns," "crucify mankind upon a cross of gold") use the Bible's account of the death of Jesus, who was crowned with thorns and crucified (put to death by being nailed to a cross). Bryan was likening what the gold standard did to working people and farmers to that suffering. (Sources: Britannica "Cross of Gold speech"; EBSCO Research Starters "Cross of Gold speech (1896)," search summaries agreeing.) Date note: Britannica gives the speech as July 8, 1896. The bank's July 9 (History Matters, Miller Center, Wikipedia from the convention record) is kept as the better-supported date.
+- Electoral votes: each state has a number of electors equal to its seats in the House and Senate. A candidate needs a majority of the electoral votes to become president. In 1896 there were 447, so 224 were needed. (Sources: National Archives, "What is the Electoral College?"; Wikipedia "1896 United States presidential election".)
 
 ## 8. 1900 to 1950
 
@@ -355,6 +375,10 @@ How the prose can say it: give the household cost unnamed and in numbers. "A fam
 ### PATCH 2026-09-29 (T-308b): the Common Cents Act passes the Senate, and how FTX valued claims
 - **Common Cents Act:** the Senate passed H.R. 10167 by unanimous consent on **September 28, 2026**, and the bill went to President Trump for signature. It ends penny production and lets cash totals round "up or down to the nearest five cents if exact change is not available." "Checks, credit cards and other noncash payment methods are not subject to rounding." The Senate version requires the Treasury to give Congress 60 days' notice before ending any circulating coin, and allows study of a cheaper metal mix for the nickel. (ABA Banking Journal, "Common Cents Act clears Senate," September 29, 2026, opened.) This settles the conflict above in favor of CoinWeek's account: House passage of H.R. 10167 by voice vote on September 14, 2026. Whether the president has signed it was not found as of September 29, 2026.
 - **FTX claim values:** the plan pays customers "based on the petition date value of their claims," the petition date being the day FTX filed for bankruptcy in November 2022 (UPI, May 8, 2024, opened). When FTX filed, bitcoin sold for $16,080. On May 7, 2024 one bitcoin sold for close to $62,675 (CBS News, May 8, 2024, opened). So customers who had held bitcoin got back its dollar value on the filing date, not its later price.
+
+### PATCH 2026-10-01 (T-450): Hanyecz's code, and why FTX paid more than 100 percent
+- "Hanyecz created the first MacOS client for Bitcoin Core." In May 2010 he posted an updated Mac OS X program that would "use your GPU to generate bitcoins," the first mining with a computer's graphics card. (Source: Colin Harper, "What You Didn't Know About Laszlo Hanyecz, the Bitcoin Pizza Day Legend," CoinDesk, May 22, 2025, opened.) This supports "a programmer who had worked on Bitcoin's code."
+- FTX's repayments above 100 percent are the claim amounts plus interest. FTX's chief executive John Ray called the plan "100% of bankruptcy claim amounts plus interest," and most customers (claims under $50,000) were to get 118 percent of their allowed claims. (Source: Sherin Shibu, *Entrepreneur*, May 8, 2024, opened.) Search summaries give the interest rate as 9 percent a year from the petition date, November 11, 2022 (unconfirmed: search summary only, not used).
 
 ### PATCH 2026-09-29 (T-308b): payday loans, copied across from `research/research-marketplace.md` (T-253 PATCH "predatory credit at the store counter's edge")
 - The Consumer Financial Protection Bureau's study of **April 24, 2013**: storefront payday-loan fees "generally range from $10-$20 per $100 borrowed". A $350 loan with the median $15 fee is an **annual percentage rate of 391 percent**. Nearly half of payday borrowers took **more than 10** loans a year and **14 percent** took **20 or more**. Borrowers were in debt a median **199 days (55 percent)** of the year. (CFPB press release, https://www.consumerfinance.gov/about-us/newsroom/the-cfpb-finds-payday-and-deposit-advance-loans-can-trap-consumers-in-debt/.)

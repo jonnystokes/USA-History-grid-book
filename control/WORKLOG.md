@@ -4594,8 +4594,10 @@ CHECKPOINT: control/checkpoints/F5-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
 
 ### 2026-10-01 | [LOCAL] T-450 | money: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14372w files=3 validator_errors=0
+        363949 tokens, 224 tool uses, 15.7 min (opus). FIXER whole chapter [WAVE6]: 197 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 10 found by fixer; ~12 PATCHes; 14,146 -> 15,345 words
 USAGE T-444: 41% -> 49% = 8% for 504k. WAVE6 (T-445..T-450, 6 opus fixers, smallest chapters) at 49% (Jon); target just under 90%.
 AGENTS WAVE6: T-445 acf67bc51ed6cd7c1, T-446 aa052656c702700ac, T-447 a76903db4af8742b7, T-448 ab920fc53ee844802, T-449 a8c7acad8fe25cc78, T-450 ae23321b13df52b6c
