@@ -3917,3 +3917,8 @@ AGENT: aef1ef888ca0bec7a
 
 ### 2026-09-30 | [LOCAL] PAUSED by Jon after T-357. Step 3 audit: 27/111 part files checked (sonnet). Nothing in flight.
 Next: `python tools/audit_status.py --next T-358` (science part2), cycle in control/briefs/CHECKER-DISPATCH.md.
+
+### 2026-09-30 | [LOCAL] T-358 | science: CHECKER sonnet, part2 | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-science.md
+VERIFY: python tools/project_state.py --check science --stage prose
