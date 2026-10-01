@@ -3914,3 +3914,6 @@ VERIFY: python tools/project_state.py --check science --stage prose
 RESULT: DONE. PASS  science / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=25 (verified 25) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17340w files=3 validator_errors=0
         158800 tokens, 12 tool uses, 4.5 min (sonnet). CHECKER sonnet part1: 38 findings (7 B, 4 M, 27 m)
 AGENT: aef1ef888ca0bec7a
+
+### 2026-09-30 | [LOCAL] PAUSED by Jon after T-357. Step 3 audit: 27/111 part files checked (sonnet). Nothing in flight.
+Next: `python tools/audit_status.py --next T-358` (science part2), cycle in control/briefs/CHECKER-DISPATCH.md.
