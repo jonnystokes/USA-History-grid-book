@@ -4302,3 +4302,8 @@ AGENT: a654f645058bd39e3
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+
+### 2026-09-30 | [LOCAL] T-411 | drugs-alcohol: CHECKER sonnet, part3 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
