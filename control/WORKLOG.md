@@ -4565,3 +4565,8 @@ RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10
         504091 tokens, 285 tool uses, 25.2 min (opus). FIXER part3 only (test 3, largest single part): 230 findings (226 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH), 49 found by fixer, 17 PATCHes; 31,643 -> 34,068 words
 AGENT: a61c55a07946dc767
 PAUSED after T-444 (all 3 fixer tests done) for Jon's usage reading.
+
+### 2026-10-01 | [LOCAL] T-445 | transportation: FIXER opus, whole chapter [WAVE6] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-transportation.md
+VERIFY: python tools/project_state.py --check transportation --stage prose
