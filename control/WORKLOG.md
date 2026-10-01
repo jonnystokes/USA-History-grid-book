@@ -4084,3 +4084,8 @@ VERIFY: python tools/project_state.py --check marketplace --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+
+### 2026-09-30 | [LOCAL] T-386 | marketplace: CHECKER sonnet, part3 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-marketplace.md
+VERIFY: python tools/project_state.py --check marketplace --stage prose
