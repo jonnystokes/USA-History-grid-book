@@ -4313,9 +4313,11 @@ RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10
         226189 tokens, 19 tool uses, 7.0 min (sonnet). CHECKER sonnet part3: 106 findings (11 B, 6 M, 89 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-412 | religion: CHECKER sonnet, part2 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=34821w files=3 validator_errors=0
+        241622 tokens, 21 tool uses, 7.9 min (sonnet). CHECKER sonnet part2: 147 findings (6 B, 31 M, 110 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-413 | education: CHECKER sonnet, part1 [BURST20] | model sonnet
 STATUS: IN-FLIGHT
