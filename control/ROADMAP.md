@@ -114,7 +114,7 @@ Gate: `--stage prose`. **Step 2 ends when all 37 chapters pass it.**
 
 ---
 
-## STEP 3: Audit the whole book (read, report, edit nothing)
+## STEP 3: Audit the whole book (read, report, edit nothing) (COMPLETE 2026-10-01: 111/111 files, ~9,700 findings)
 
 Brief: `control/briefs/CHECKER.md` (model sonnet), one checker per part file, writing findings
 with suggested repairs to `control/audit/<slug>/`. **Calibration first:** the first three part

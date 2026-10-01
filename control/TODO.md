@@ -17,7 +17,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all verified. This run: T-315 to T-330
 (16 chapters, 22 writer agents, 2026-09-29/30).
 
-**STEP 3 (AUDIT): IN PROGRESS, PAUSED by Jon at 99/111 (12 left: 10 big, holidays p2 and p3).** Calibration COMPLETE (3 runs, T-331..T-333). Now the sonnet checker on the other 108
+**STEP 3 (AUDIT): COMPLETE 2026-10-01.** All 111 part files checked by sonnet (T-331..T-441): about 9,700 findings, about 1,000 BLOCKING, in `control/audit/<slug>/<part>-findings-sonnet.md`. The 3 calibration files were also fixed already. Calibration COMPLETE (3 runs, T-331..T-333). Now the sonnet checker on the other 108
 part files, one at a time: `python tools/audit_status.py` shows progress and the next file; the prompt and cycle are in
 `control/briefs/CHECKER-DISPATCH.md`.
 

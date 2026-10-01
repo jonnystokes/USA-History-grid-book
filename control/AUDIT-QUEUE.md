@@ -278,3 +278,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **Every chapter (#28 rule 7):** big words out, plain words in. **(#31):** "rape", never "assault" alone, wherever the record says rape.
 - **#32 Jefferson and Hemings**, **#33 living business figures**, **#34 forced servitude words**: rulings for the step 5 fixers (DECISIONS).
 - **#35 slurs in titles and quotes**, **#36 one event told the same way in every chapter** (My Lai: news-communication must name the rapes as war does): rulings for the step 5 fixers.
+- **#37 naming a figure's source** (plain sentence, not a bare parenthesis; not a fourth-wall break) and **#38 profiles of living people in public disputes**: rulings for the step 5 fixers.

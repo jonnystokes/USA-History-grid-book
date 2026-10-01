@@ -4530,3 +4530,8 @@ VERIFY: python tools/project_state.py --check holidays --stage prose
 RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14870w files=3 validator_errors=0
         205660 tokens, 25 tool uses, 6.3 min (sonnet). CHECKER sonnet part3: 101 findings (16 B, 4 M, 81 m) [BURST12]
 BURST12 opened (Jon, 2026-10-01, fresh window): the last 12 audit files, big ones read era by era.
+
+### 2026-10-01 | [LOCAL] STEP 3 COMPLETE. BURST12 (T-430..T-441) done: the last 12 files, all FINISHED.
+3.41M tokens; 1,569 findings (104 blocking). The 10 big files read era by era: 205k-413k tokens each, no failures.
+Whole audit: 111/111 part files, ~9,700 findings, ~1,000 BLOCKING. Rulings #37-38 logged. Nothing in flight.
+Next: step 4 (research round 2) and step 5 (fixers), planned with Jon.
