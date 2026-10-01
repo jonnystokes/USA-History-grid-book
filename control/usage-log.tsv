@@ -301,3 +301,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-354	prose	general-purpose/sonnet	[LOCAL] technology: CHECKER sonnet part1: 95 findings (5 B, 21 M, 69 m)	?	?	?	207377	16	480655	?	completed	PASS  technology / prose
 2026-09-30	T-355	prose	general-purpose/sonnet	[LOCAL] technology: CHECKER sonnet part2: 62 findings (3 B, 5 M, 54 m)	?	?	?	164964	16	248762	?	completed	PASS  technology / prose
 2026-09-30	T-356	prose	general-purpose/sonnet	[LOCAL] technology: CHECKER sonnet part3: 69 findings (7 B, 3 M, 59 m)	?	?	?	188131	15	344813	?	completed	PASS  technology / prose
+2026-09-30	T-357	prose	general-purpose/sonnet	[LOCAL] science: CHECKER sonnet part1: 38 findings (7 B, 4 M, 27 m)	?	?	?	158800	12	272228	?	completed	PASS  science / prose
