@@ -4561,3 +4561,4 @@ USAGE T-443: 32% -> 41% = 9% for 532k opus tokens (1.7% per 100k). USAGE AT STAR
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+AGENT: a61c55a07946dc767
