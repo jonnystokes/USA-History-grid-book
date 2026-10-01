@@ -4392,3 +4392,8 @@ VERIFY: python tools/project_state.py --check sports-play --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+
+### 2026-09-30 | [LOCAL] T-429 | holidays: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage prose
