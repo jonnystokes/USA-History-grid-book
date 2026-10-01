@@ -373,3 +373,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-424	prose	general-purpose/sonnet	[LOCAL] styles: CHECKER sonnet part1: 120 findings (8 B, 22 M, 90 m) [BURST20]	?	?	?	227447	24	517578	?	completed	PASS  styles / prose
 2026-09-30	T-413	prose	general-purpose/sonnet	[LOCAL] education: CHECKER sonnet part1: 97 findings (20 B, 3 M, 74 m) [BURST20]	?	?	?	259872	31	622110	?	completed	PASS  education / prose
 2026-09-30	T-422	prose	general-purpose/sonnet	[LOCAL] storytelling-evolution: CHECKER sonnet part1: 126 findings (31 B, 17 M, 78 m) [BURST20]	?	?	?	250558	24	597553	?	completed	PASS  storytelling-evolution / prose
+2026-09-30	T-429	prose	general-purpose/sonnet	[LOCAL] holidays: CHECKER sonnet part1: 125 findings (17 B, 10 M, 98 m) [BURST20]	?	?	?	253474	22	709343	?	completed	PASS  holidays / prose

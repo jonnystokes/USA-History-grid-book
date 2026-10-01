@@ -4432,7 +4432,9 @@ RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 w
         192081 tokens, 17 tool uses, 5.2 min (sonnet). CHECKER sonnet part2: 79 findings (3 B, 12 M, 64 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-429 | holidays: CHECKER sonnet, part1 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14870w files=3 validator_errors=0
+        253474 tokens, 22 tool uses, 11.8 min (sonnet). CHECKER sonnet part1: 125 findings (17 B, 10 M, 98 m) [BURST20]
 USAGE: T-409 (biggest file) 62% -> 66% = 4%. USAGE AT START (BURST20, T-410..T-429): 66% (Jon).
