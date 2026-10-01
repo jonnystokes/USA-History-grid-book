@@ -4023,9 +4023,11 @@ CHECKPOINT: control/checkpoints/A3-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
 
 ### 2026-09-30 | [LOCAL] T-373 | work-workers: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
+RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14452w files=3 validator_errors=0
+        172898 tokens, 14 tool uses, 4.1 min (sonnet). CHECKER sonnet part2: 56 findings (4 B, 14 M, 38 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-374 | work-workers: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
