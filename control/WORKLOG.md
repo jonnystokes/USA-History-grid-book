@@ -4575,3 +4575,8 @@ VERIFY: python tools/project_state.py --check transportation --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+
+### 2026-10-01 | [LOCAL] T-447 | landmarks: FIXER opus, whole chapter [WAVE6] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-landmarks.md
+VERIFY: python tools/project_state.py --check landmarks --stage prose
