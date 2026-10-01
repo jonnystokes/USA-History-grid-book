@@ -9,13 +9,11 @@ NOW:    (fixer sets this)
 NEXT:   part1, era 1
 
 ## Units
-Word counts: first figure is `wc -w` of the whole file (the basis of the original table, which read one higher); prose_words is tools/project_state.py's reader-facing count.
 | part | eras | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|
-| part1 | 1-5 | DONE | 39 / 4 / 2 of 45 checker rows, plus 5 found by fixer (F1-F5), all FIXED | 4019 -> 4548 (prose_words 3628 -> 4153) |
-| part2 | 6-7 | DONE | 53 / 9 / 0 of 62 checker rows, plus 5 found by fixer (F6-F9, F11), all FIXED | 4720 -> 5284 (prose_words 4413 -> 4977) |
-| part3 | 8-10 | DONE | 58 / 6 / 0 of 64 checker rows, plus 1 found by fixer (F10), FIXED | 5647 -> 6230 (prose_words 5252 -> 5835) |
-| total | | | 150 / 19 / 2 of 171, plus 11 found by fixer | 14386 -> 16062 (prose_words 13293 -> 14965) |
+| part1 | 1-5 | todo | | 6916 -> |
+| part2 | 6-7 | todo | | 7991 -> |
+| part3 | 8-10 | todo | | 13167 -> |
 
 ## NEEDS-RESEARCH
 
