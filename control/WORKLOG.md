@@ -4344,9 +4344,11 @@ RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=
         203569 tokens, 19 tool uses, 5.6 min (sonnet). CHECKER sonnet part2: 98 findings (1 B, 23 M, 74 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-417 | news-communication: CHECKER sonnet, part3 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20945w files=3 validator_errors=0
+        249669 tokens, 23 tool uses, 8.1 min (sonnet). CHECKER sonnet part3: 147 findings (2 B, 23 M, 122 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-418 | art: CHECKER sonnet, part1 [BURST20] | model sonnet
 STATUS: IN-FLIGHT
