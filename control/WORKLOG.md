@@ -3968,9 +3968,11 @@ CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
 
 ### 2026-09-30 | [LOCAL] T-367 | landmarks: CHECKER sonnet, part2 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=12625w files=3 validator_errors=0
+        150664 tokens, 15 tool uses, 3.4 min (sonnet). CHECKER sonnet part2: 42 findings (0 B, 4 M, 38 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-368 | landmarks: CHECKER sonnet, part3 [BURST10] | model sonnet
 STATUS: IN-FLIGHT
