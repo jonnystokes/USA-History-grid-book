@@ -318,3 +318,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-373	prose	general-purpose/sonnet	[LOCAL] work-workers: CHECKER sonnet part2: 56 findings (4 B, 14 M, 38 m) [BURST40]	?	?	?	172898	14	244593	?	completed	PASS  work-workers / prose
 2026-09-30	T-369	prose	general-purpose/sonnet	[LOCAL] elements: CHECKER sonnet part1: 53 findings (2 B, 9 M, 42 m) [BURST40]	?	?	?	174768	11	270513	?	completed	PASS  elements / prose
 2026-09-30	T-385	prose	general-purpose/sonnet	[LOCAL] marketplace: CHECKER sonnet part2: 47 findings (11 B, 3 M, 33 m) [BURST40]	?	?	?	156073	14	219896	?	completed	PASS  marketplace / prose
+2026-09-30	T-379	prose	general-purpose/sonnet	[LOCAL] economy: CHECKER sonnet part2: 62 findings (1 B, 14 M, 47 m) [BURST40]	?	?	?	161448	14	248969	?	completed	PASS  economy / prose
