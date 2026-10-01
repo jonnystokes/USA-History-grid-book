@@ -4239,9 +4239,11 @@ RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10
         225259 tokens, 16 tool uses, 8.0 min (sonnet). CHECKER sonnet part1: 78 findings (6 B, 24 M, 48 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-403 | health: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+RESULT: DONE. PASS  health / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=19504w files=3 validator_errors=0
+        225788 tokens, 26 tool uses, 7.9 min (sonnet). CHECKER sonnet part1: 102 findings (10 B, 17 M, 75 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-404 | health: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
