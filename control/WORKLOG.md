@@ -4312,3 +4312,8 @@ VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+
+### 2026-09-30 | [LOCAL] T-413 | education: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-education.md
+VERIFY: python tools/project_state.py --check education --stage prose
