@@ -4570,3 +4570,8 @@ PAUSED after T-444 (all 3 fixer tests done) for Jon's usage reading.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-transportation.md
 VERIFY: python tools/project_state.py --check transportation --stage prose
+
+### 2026-10-01 | [LOCAL] T-446 | home-family: FIXER opus, whole chapter [WAVE6] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-home-family.md
+VERIFY: python tools/project_state.py --check home-family --stage prose
