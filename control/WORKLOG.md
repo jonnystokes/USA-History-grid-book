@@ -4064,3 +4064,8 @@ VERIFY: python tools/project_state.py --check economy --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+
+### 2026-09-30 | [LOCAL] T-382 | money: CHECKER sonnet, part2 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-money.md
+VERIFY: python tools/project_state.py --check money --stage prose
