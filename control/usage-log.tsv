@@ -314,3 +314,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-366	prose	general-purpose/sonnet	[LOCAL] landmarks: CHECKER sonnet part1: 72 findings (7 B, 8 M, 57 m) [BURST10]	?	?	?	206126	26	439452	?	completed	PASS  landmarks / prose
 2026-09-30	T-359	prose	general-purpose/sonnet	[LOCAL] science: CHECKER sonnet part3: 71 findings (5 B, 19 M, 47 m) [BURST10]	?	?	?	224201	15	473618	?	completed	PASS  science / prose
 2026-09-30	T-370	prose	general-purpose/sonnet	[LOCAL] elements: CHECKER sonnet part2: 34 findings (1 B, 4 M, 29 m) [BURST40]	?	?	?	162559	12	193536	?	completed	PASS  elements / prose
+2026-09-30	T-376	prose	general-purpose/sonnet	[LOCAL] food-farming: CHECKER sonnet part2: 51 findings (2 B, 11 M, 38 m) [BURST40]	?	?	?	152123	17	217626	?	completed	PASS  food-farming / prose
