@@ -1848,7 +1848,48 @@ Every key fact in the six older era-8 story blocks was matched against the bank 
 ### PATCH 2026-09-30 (T-329b): Lessie Benningfield Randle, status refreshed
 - Search 2026-09-30: no report of her death. KOLUMN Magazine (9 May 2026) and FOX23 (111th birthday, November 2025) describe her as the last known living survivor (search results only). The bank line of 27 September stands: last known survivor in 2026.
 
+### PATCH 2026-10-01 (T-444): Lessie Benningfield Randle, status refreshed again
+- Search 2026-10-01 (results listing: Wikipedia-derived longevity pages, KOLUMN 9 May 2026, FOX23 111th birthday): still no report of her death. Last known survivor in 2026 stands.
+
+### PATCH 2026-10-01 (T-444): Gordon Hirabayashi and Minoru Yasui broke the orders on purpose
+- Hirabayashi: "Gordon Hirabayashi violates curfew orders by staying in the library to study with his classmates at the University of Washington." He "fails to report to the U.S. Civil Control Station," and "On May 16, 1942, Mr. Hirabayashi voluntarily reported to the Federal Bureau of Investigation (FBI)." His words: "having been born and educated here and having the culture of an American citizen, ... I should be given the privileges of a citizen." (Washington Courts, "Exploring United States v. Hirabayashi," lesson plan, https://www.courts.wa.gov/content/lessonPlans/USvHirabayashi.htm , fetched.)
+- Yasui: on 28 March 1942, a Portland lawyer, he walked Portland's streets after the 8 p.m. curfew to test it, asked police officers to arrest him, was told to go home, and then "did turn himself in at the police station, got himself arrested and spent time in jail." (OPB, "Honoring Minoru Yasui," 28 March 2025, https://www.opb.org/article/2025/03/28/think-out-loud-oregonian-minoru-yasui-japanese-americans-wwii-curfew/ , fetched. Date 28 March 1942 from the same page's title and search listings; Densho and the Oregon Encyclopedia returned 403.)
+
+### PATCH 2026-10-01 (T-444): Isaac Woodard's injuries (copied from research-war.md, T-259b PATCH, with its source)
+- South Carolina Encyclopedia, "Woodard, Isaac, beating of," https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (as recorded in `research-war.md`): Woodard said the officers beat him with blackjacks and "tried to gouge out his eyes." A local court fined him $50. At the VA hospital in Aiken doctors found bleeding in both eyeballs and a ruptured cornea (the clear front of the eye) in the right eye. He was blind for the rest of his life. The Justice Department charged Shull with violating Woodard's civil rights. The earlier rights-movements wording "drove the ends of the clubs into his eyes" has no source; use "tried to gouge out his eyes".
+
+### PATCH 2026-10-01 (T-444): the Radium Girls' 1928 settlement terms and Catherine Donohue's wins (copied from research-work-workers.md, T-250 PATCH, with its sources; this resolves the AUDIT ITEM recorded in the 2026-09-09 era-8 section above)
+- National Archives, *The Text Message* blog, "The Radium Girls at the National Archives," 4 January 2018: the settlement for Grace Fryer, Katherine Schaub, Edna Hussman, Albina Larice and Quinta McDonald, signed 8 June 1928 (Judge Clark negotiated it 4 June, PMC10046820): "$10,000 (some sources state the amount was as high as $15,000), a $600 annuity while they lived, and the coverage of their medical expenses, subject to the approval of a committee of three doctors." The company "never admitted any liability."
+- Catherine Wolfe Donohue (WNIJ, 18 May 2017, citing the *Chicago Daily News*; Northwestern finding aid): at a 10 February 1938 hearing she collapsed and was carried out; on 5 April 1938 the hearing officer ruled her illness came from her work at the Radium Dial Company in Ottawa, Illinois, and awarded her $5,661 (a pension of $277 a year for life); on 6 July 1938 the Illinois Industrial Commission threw out the company's appeal and added $730. She died 27 July 1938, aged 35. The last appeal ended in October 1938, after her death (ORAU).
+
+### PATCH 2026-10-01 (T-444): Tulsa damage claims and rebuilding money (copied from research-money.md, with its source)
+- Andre Perry, Anna Barr and Carl Romer, Brookings Institution (2021), as recorded in `research-money.md`: Greenwood residents filed more than $1.8 million in damage claims with the city between June 1921 and June 1922, and all but one were denied. The one paid claim went to a white shop owner for guns taken from his store. The district received no rebuilding money from the city, state or federal government.
+
+### PATCH 2026-10-01 (T-444): federal apology for Mexican Repatriation, still unconfirmed
+- Searched 2026-10-01. A results listing says Representatives Hilda Solis and Luis Gutiérrez introduced a bill in 2006 calling for a commission and an apology, and that the deported citizens "never received a federal apology" (search summary only). MALDEF's 2012 release (fetched) describes no federal apology. No fetched page states outright that none was ever made. SEARCHED, NOT FOUND as a positive statement; listed for round 2.
+
 # ERA 9 — 1950 to 2000 — RESEARCHED 2026-09-09
+
+### PATCH 2026-10-01 (T-444): the Freedom Riders count, settled for the sentence about 4 May 1961 (AUDIT-QUEUE item)
+- New Georgia Encyclopedia, "Freedom Rides," https://www.georgiaencyclopedia.org/articles/history-archaeology/freedom-rides/ (fetched 2026-10-01): "the thirteen original Freedom Riders departed Washington, D.C., on May 4, 1961. Traveling aboard two separate coaches, one operated by Greyhound and the other by Trailways." Search listings (EBSCO and others): seven Black and six white. NPS's Freedom Riders National Monument page (T-329b PATCH below) gives "eleven ... split into two groups." The sentence describes the whole original group leaving Washington, so the better-supported number is thirteen. Prose gives thirteen and states that the NPS page gives eleven.
+
+### PATCH 2026-10-01 (T-444): Betty Friedan's book
+- National Women's History Museum, "Betty Friedan," https://www.womenshistory.org/education-resources/biographies/betty-friedan (fetched 2026-10-01): "Published in 1963, *The Feminine Mystique* hit a nerve, becoming an instant best-seller." In 1966 she, Pauli Murray and Aileen Hernandez founded NOW, "with Friedan as its first president."
+
+### PATCH 2026-10-01 (T-444): Edith Green was a teacher and chaired the hearings
+- University of Oregon news, "Read about the UO grad who was a driving force behind Title IX," https://news.uoregon.edu/content/read-about-uo-grad-who-was-driving-force-behind-title-ix (fetched 2026-10-01): she "became a teacher and spent 11 years in the classroom," and as a subcommittee chair she "was responsible for conducting the week of hearings that led to the development of Title IX." Search listing (Library of Congress Title IX guide): in summer 1970 the House Special Subcommittee on Education held seven days of hearings with Green in the chair.
+
+### PATCH 2026-10-01 (T-444): what the PARC agreement required
+- Arizona State University Embryo Project, "Pennsylvania Association for Retarded Citizens (PARC) v. Commonwealth of Pennsylvania (1972)," https://embryo.asu.edu/pages/pennsylvania-association-retarded-citizens-parc-v-commonwealth-pennsylvania-1972 (fetched 2026-10-01): "By October 1971, the litigants submitted a consent agreement." Pennsylvania agreed to provide education to everyone aged 6 to 21 classified as "mentally retarded." "The court ordered schools to give the opportunity for a hearing before a school is allowed to classify a student as 'mentally retarded,'" and to re-evaluate each such child at least every two years. Earlier prose duties "find those children" and "a hearing before a child was moved or kept out" are not in this source; use the wording above.
+
+### PATCH 2026-10-01 (T-444): the Education for All Handicapped Children Act (copied from research-education.md, with its source)
+- U.S. Department of Education, "IDEA History," https://sites.ed.gov/idea/IDEA-History (as recorded in `research-education.md`): Public Law 94-142, signed by President Gerald Ford on 29 November 1975. It guaranteed a free, appropriate public education to every child with a disability in every state. The Department names *PARC* (1971) and *Mills* (1972) as the cases that established that states had to educate disabled children.
+
+### PATCH 2026-10-01 (T-444): Thurgood Marshall argued Brown (copied from research-government-politics.md, with its source)
+- U.S. District Court, Eastern District of Tennessee, Civics and Outreach Committee, "Thurgood Marshall: Advocate for Justice," February 2025 (as recorded in `research-government-politics.md`): he argued 32 cases in the Supreme Court and won 29, among them *Sweatt v. Painter* (1950) and *Brown v. Board of Education* (1954). Director-counsel of the NAACP Legal Defense and Educational Fund, 1940 to 1961 (Federal Judicial Center).
+
+### PATCH 2026-10-01 (T-444): the farmworkers' leaders (copied from research-work-workers.md, with its sources)
+- NPS "Larry Itliong" and "Workers United: The Delano Grape Strike and Boycott"; UFW history pages (as recorded in `research-work-workers.md`): the Delano grape strike began 8 September 1965, when about 1,500 mostly Filipino American workers led by Larry Itliong walked out. Cesar Chavez's and Dolores Huerta's National Farm Workers Association voted on 16 September 1965 to join. The two unions merged into what is now the United Farm Workers. `work-workers` tells the strike.
 
 ## 9. 1950 to 2000
 
@@ -2673,6 +2714,18 @@ Where the newest confirmable number is several years old, the entry says so. Whe
 unresolved, the entry says it is unresolved and gives the date it was checked (2026-09-09).
 
 ## 10. 2000 to Today
+
+### PATCH 2026-10-01 (T-444): Alyssa Milano's words
+- CBS News, "'Me Too' trend on Twitter raises awareness about sexual assault" (https://www.cbsnews.com/amp/news/me-too-twitter-trend-sexual-assault-awareness-alyssa-milano/ , fetched 2026-10-01): on 15 October 2017 Milano tweeted, "If you've been sexually harassed or assaulted write 'me too' as a reply to this tweet." (AP's post on X gives the same account, search listing.)
+
+### PATCH 2026-10-01 (T-444): the CROWN Coalition's founders and the state count
+- CROWN Act official site, "About" (https://www.thecrownact.com/about , fetched 2026-10-01): "The Official Campaign of The CROWN Act is led by the CROWN Coalition, founded by Dove, National Urban League, Color Of Change, and Western Center on Law & Poverty." The page reads "30 States Down, 20 To Go."
+
+### PATCH 2026-10-01 (T-444): Alice Wong edited Disability Visibility
+- Disability Visibility Project, "Disability Visibility: New anthology coming summer 2020" (https://disabilityvisibilityproject.com/2019/05/23/disability-visibility-new-anthology-coming-summer-2020/ , fetched 2026-10-01), in Wong's own words: "I am the editor of *Disability Visibility: First-Person Stories from the Twenty-first Century*, published by Vintage Books coming out summer 2020." A collection of essays by disabled writers (search listings). *Year of the Tiger* (2022) is her own memoir (bank above).
+
+### PATCH 2026-10-01 (T-444): Obergefell and Arthur, the dates; Cincinnati not confirmed
+- Wikipedia, "Jim Obergefell" (fetched 2026-10-01, encyclopedia, labeled): on 11 July 2013 a private plane flew Arthur, Obergefell, a nurse and Arthur's aunt Paulette, who performed the ceremony, to Baltimore/Washington International Airport, where they married on the tarmac. Arthur died on 22 October 2013. Ohio was their home state. The page says they met near the University of Cincinnati but does not say they lived in Cincinnati, so the prose says Ohio.
 
 ### 10.1 *Shelby County v. Holder*, 25 June 2013 — clears the first `[VERIFY]` tag
 Source: Legal Information Institute, Cornell Law School, full text of *Shelby County v. Holder*,

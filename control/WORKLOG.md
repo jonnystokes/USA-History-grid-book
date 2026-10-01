@@ -4558,7 +4558,9 @@ PAUSED after T-443 for Jon's usage reading.
 USAGE T-443: 32% -> 41% = 9% for 532k opus tokens (1.7% per 100k). USAGE AT START (T-444 fixer test 3, rights-movements part3 alone): 41%.
 
 ### 2026-10-01 | [LOCAL] T-444 | rights-movements: FIXER opus, part3 only (test 3: largest single part) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=52317w files=3 validator_errors=0
+        504091 tokens, 285 tool uses, 25.2 min (opus). FIXER part3 only (test 3, largest single part): 230 findings (226 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH), 49 found by fixer, 17 PATCHes; 31,643 -> 34,068 words
 AGENT: a61c55a07946dc767
