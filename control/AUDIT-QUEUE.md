@@ -280,3 +280,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **#35 slurs in titles and quotes**, **#36 one event told the same way in every chapter** (My Lai: news-communication must name the rapes as war does): rulings for the step 5 fixers.
 - **#37 naming a figure's source** (plain sentence, not a bare parenthesis; not a fourth-wall break) and **#38 profiles of living people in public disputes**: rulings for the step 5 fixers.
 - **art outline (T-443):** outlines/art.md and outlines/BOOK-OUTLINE.md still carry the kehinde-wiley story; remove it when the outline is rebuilt in step 7 (#30).
+- **transportation bank (T-445):** the GPS Selective Availability line says 'tenfold'; 100 m to 20 m is fivefold. Prose now gives only the meters; correct the bank.
