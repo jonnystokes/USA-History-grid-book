@@ -4159,3 +4159,8 @@ VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+
+### 2026-09-30 | [LOCAL] T-401 | slavery-freedom: CHECKER sonnet, part3 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-slavery-freedom.md
+VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
