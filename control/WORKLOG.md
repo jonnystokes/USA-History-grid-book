@@ -3931,3 +3931,8 @@ AGENT: a161eebedfb38fdf9 (prompt adds Jon's plain-words rule)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+
+### 2026-09-30 | [LOCAL] T-360 | energy: CHECKER sonnet, part1 [BURST10] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-energy.md
+VERIFY: python tools/project_state.py --check energy --stage prose
