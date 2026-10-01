@@ -4199,3 +4199,4 @@ VERIFY: python tools/project_state.py --check disasters --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+USAGE AT START (BURST40): 15% (Jon). BURST10 measured 4% -> 15% = 1.1% per sonnet checker incl. director overhead.
