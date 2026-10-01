@@ -323,3 +323,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-375	prose	general-purpose/sonnet	[LOCAL] food-farming: CHECKER sonnet part1: 82 findings (4 B, 7 M, 71 m) [BURST40]	?	?	?	168253	12	278094	?	completed	PASS  food-farming / prose
 2026-09-30	T-381	prose	general-purpose/sonnet	[LOCAL] money: CHECKER sonnet part1: 62 findings (3 B, 19 M, 40 m) [BURST40]	?	?	?	161958	12	260421	?	completed	PASS  money / prose
 2026-09-30	T-378	prose	general-purpose/sonnet	[LOCAL] economy: CHECKER sonnet part1: 45 findings (4 B, 5 M, 36 m) [BURST40]	?	?	?	166919	14	283297	?	completed	PASS  economy / prose
+2026-09-30	T-382	prose	general-purpose/sonnet	[LOCAL] money: CHECKER sonnet part2: 65 findings (1 B, 2 M, 62 m) [BURST40]	?	?	?	166580	19	285356	?	completed	PASS  money / prose

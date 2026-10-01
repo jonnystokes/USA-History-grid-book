@@ -4084,9 +4084,11 @@ RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written
         161958 tokens, 12 tool uses, 4.3 min (sonnet). CHECKER sonnet part1: 62 findings (3 B, 19 M, 40 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-382 | money: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13170w files=3 validator_errors=0
+        166580 tokens, 19 tool uses, 4.8 min (sonnet). CHECKER sonnet part2: 65 findings (1 B, 2 M, 62 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-383 | money: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
