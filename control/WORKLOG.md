@@ -4590,3 +4590,8 @@ VERIFY: python tools/project_state.py --check food-farming --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+
+### 2026-10-01 | [LOCAL] T-450 | money: FIXER opus, whole chapter [WAVE6] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-money.md
+VERIFY: python tools/project_state.py --check money --stage prose
