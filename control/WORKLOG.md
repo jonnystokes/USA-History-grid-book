@@ -4473,9 +4473,11 @@ CHECKPOINT: control/checkpoints/A3-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
 
 ### 2026-10-01 | [LOCAL] T-434 | religion: CHECKER sonnet, part3 [BURST12] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=34821w files=3 validator_errors=0
+        303651 tokens, 32 tool uses, 9.8 min (sonnet). CHECKER sonnet part3: 130 findings (1 B, 20 M, 109 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-435 | education: CHECKER sonnet, part3 [BURST12] | model sonnet
 STATUS: IN-FLIGHT
