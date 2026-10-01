@@ -4332,3 +4332,8 @@ VERIFY: python tools/project_state.py --check news-communication --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+
+### 2026-09-30 | [LOCAL] T-417 | news-communication: CHECKER sonnet, part3 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage prose
