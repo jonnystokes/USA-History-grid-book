@@ -4001,9 +4001,11 @@ AGENTS BURST10: T-359 a9bd8e381127b5043, T-360 a1f8ce361d2e68950, T-361 a7d6a9af
 ### 2026-09-30 | [LOCAL] BURST10 done: T-359..T-368 all FINISHED (10 sonnet checkers, 1.86M tokens total, avg 186k, wall clock ~7.8 min). Usage at start 4%; Jon to read the end figure. Audit 38/111.
 
 ### 2026-09-30 | [LOCAL] T-369 | elements: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
+RESULT: DONE. PASS  elements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=10 (verified 10) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14738w files=3 validator_errors=0
+        174768 tokens, 11 tool uses, 4.5 min (sonnet). CHECKER sonnet part1: 53 findings (2 B, 9 M, 42 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-370 | elements: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
