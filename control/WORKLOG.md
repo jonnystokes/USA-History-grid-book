@@ -4367,3 +4367,8 @@ VERIFY: python tools/project_state.py --check storytelling-evolution --stage pro
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
+
+### 2026-09-30 | [LOCAL] T-424 | styles: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-styles.md
+VERIFY: python tools/project_state.py --check styles --stage prose
