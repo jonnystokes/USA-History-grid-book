@@ -4545,3 +4545,4 @@ RESULT: DONE. PASS  economy / prose. measured: stage=WRITTEN ms_eras=10/10 writt
 USAGE AT START (T-442 fixer test 1): 26% (Jon).
 AGENT: afd0189d1e1ec09bc
 PAUSED after T-442 for Jon's usage reading.
+USAGE T-442: 26% -> 32% = 6% for 401k opus tokens (1.5% per 100k). USAGE AT START (T-443 fixer test 2, art): 32%.
