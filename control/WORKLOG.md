@@ -4362,9 +4362,11 @@ CHECKPOINT: control/checkpoints/A3-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
 
 ### 2026-09-30 | [LOCAL] T-421 | music: CHECKER sonnet, part2 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=27 (verified 27) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23685w files=3 validator_errors=0
+        214556 tokens, 19 tool uses, 6.5 min (sonnet). CHECKER sonnet part2: 80 findings (22 B, 10 M, 48 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-422 | storytelling-evolution: CHECKER sonnet, part1 [BURST20] | model sonnet
 STATUS: IN-FLIGHT
