@@ -3936,3 +3936,8 @@ VERIFY: python tools/project_state.py --check science --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+
+### 2026-09-30 | [LOCAL] T-361 | energy: CHECKER sonnet, part2 [BURST10] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-energy.md
+VERIFY: python tools/project_state.py --check energy --stage prose
