@@ -4094,3 +4094,8 @@ VERIFY: python tools/project_state.py --check marketplace --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+
+### 2026-09-30 | [LOCAL] T-388 | big-business: CHECKER sonnet, part2 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-big-business.md
+VERIFY: python tools/project_state.py --check big-business --stage prose
