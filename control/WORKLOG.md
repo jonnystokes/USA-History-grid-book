@@ -4029,3 +4029,8 @@ VERIFY: python tools/project_state.py --check work-workers --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
+
+### 2026-09-30 | [LOCAL] T-375 | food-farming: CHECKER sonnet, part1 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-food-farming.md
+VERIFY: python tools/project_state.py --check food-farming --stage prose
