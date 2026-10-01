@@ -4299,9 +4299,11 @@ USAGE AT START (T-409, biggest file alone): 62% (Jon). BURST40 measured 15% -> 6
 AGENT: a654f645058bd39e3
 
 ### 2026-09-30 | [LOCAL] T-410 | drugs-alcohol: CHECKER sonnet, part2 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18970w files=3 validator_errors=0
+        186751 tokens, 16 tool uses, 5.2 min (sonnet). CHECKER sonnet part2: 65 findings (5 B, 8 M, 52 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-411 | drugs-alcohol: CHECKER sonnet, part3 [BURST20] | model sonnet
 STATUS: IN-FLIGHT
