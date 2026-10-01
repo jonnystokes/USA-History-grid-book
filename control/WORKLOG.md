@@ -3879,3 +3879,4 @@ AGENT: ae64488ef388364fe
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+AGENT: a0879b6967e39b789
