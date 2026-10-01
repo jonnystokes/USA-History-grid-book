@@ -4183,9 +4183,11 @@ CHECKPOINT: control/checkpoints/A3-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage prose
 
 ### 2026-09-30 | [LOCAL] T-397 | america-world: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage prose
+RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15577w files=3 validator_errors=0
+        181489 tokens, 17 tool uses, 5.0 min (sonnet). CHECKER sonnet part2: 81 findings (10 B, 15 M, 56 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-398 | america-world: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
