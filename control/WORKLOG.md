@@ -4580,3 +4580,8 @@ VERIFY: python tools/project_state.py --check home-family --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+
+### 2026-10-01 | [LOCAL] T-448 | food-farming: FIXER opus, whole chapter [WAVE6] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-food-farming.md
+VERIFY: python tools/project_state.py --check food-farming --stage prose
