@@ -4613,3 +4613,4 @@ AGENTS WAVE6: T-445 acf67bc51ed6cd7c1, T-446 aa052656c702700ac, T-447 a76903db4a
 ### 2026-10-01 | [LOCAL] WAVE6 done: 6 opus whole-chapter fixers (T-445..T-450), all PASS. Tokens 356k-427k
 (total 2.29M). Usage at start 49%; Jon to read the end figure. Step 5 so far: economy, art, transportation,
 home-family, landmarks, food-farming, science, money whole; rights-movements part3. 28 chapters (+2 giant parts) left.
+USAGE WAVE6: 49% -> 80% = 31% for 2.29M opus tokens in parallel (1.35% per 100k; ~5.2% per small-chapter fixer). Waiting for the window to reset.
