@@ -4581,9 +4581,11 @@ RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 w
         358388 tokens, 254 tool uses, 17.9 min (opus). FIXER whole chapter [WAVE6]: 152 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 noted), 2 found by fixer; boarding-school acts added per #36; 12,179 -> 13,244 words
 
 ### 2026-10-01 | [LOCAL] T-447 | landmarks: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13934w files=3 validator_errors=0
+        388709 tokens, 233 tool uses, 18.8 min (opus). FIXER whole chapter [WAVE6]: 174 FIXED, 17 REJECTED, 2 NEEDS-RESEARCH, 14 found by fixer; ~20 PATCHes; 13,660 -> 14,966 words
 
 ### 2026-10-01 | [LOCAL] T-448 | food-farming: FIXER opus, whole chapter [WAVE6] | model opus
 STATUS: IN-FLIGHT
