@@ -3977,3 +3977,4 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
 USAGE AT START (BURST10 T-359..T-368): 4% (Jon). T-358 alone: 2% -> 4% incl. director work.
+AGENTS BURST10: T-359 a9bd8e381127b5043, T-360 a1f8ce361d2e68950, T-361 a7d6a9af63f86b3ac, T-362 a0185014f4de05e32, T-363 abcad1446185af6e1, T-364 a699c45e80bfe219a, T-365 a3b19a139f077ebf6, T-366 a95e0454d1966104a, T-367 a059ea393dbe98b5a, T-368 aff36f2036577137d
