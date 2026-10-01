@@ -352,3 +352,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-403	prose	general-purpose/sonnet	[LOCAL] health: CHECKER sonnet part1: 102 findings (10 B, 17 M, 75 m) [BURST40]	?	?	?	225788	26	474094	?	completed	PASS  health / prose
 2026-09-30	T-406	prose	general-purpose/sonnet	[LOCAL] disasters: CHECKER sonnet part1: 86 findings (8 B, 3 M, 75 m) [BURST40]	?	?	?	228871	29	483752	?	completed	PASS  disasters / prose
 2026-09-30	T-405	prose	general-purpose/sonnet	[LOCAL] health: CHECKER sonnet part3: 135 findings (5 B, 19 M, 111 m) [BURST40]	?	?	?	262993	29	527977	?	completed	PASS  health / prose
+2026-09-30	T-408	prose	general-purpose/sonnet	[LOCAL] drugs-alcohol: CHECKER sonnet part1: 105 findings (17 B, 11 M, 77 m) [BURST40]	?	?	?	224153	18	513345	?	completed	PASS  drugs-alcohol / prose

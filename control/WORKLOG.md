@@ -4274,9 +4274,11 @@ RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         181638 tokens, 14 tool uses, 4.7 min (sonnet). CHECKER sonnet part2: 55 findings (29 B, 9 M, 17 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-408 | drugs-alcohol: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18970w files=3 validator_errors=0
+        224153 tokens, 18 tool uses, 8.6 min (sonnet). CHECKER sonnet part1: 105 findings (17 B, 11 M, 77 m) [BURST40]
 USAGE AT START (BURST40): 15% (Jon). BURST10 measured 4% -> 15% = 1.1% per sonnet checker incl. director overhead.
 BURST40 NOTE: the harness allows 20 subagents at once (CLAUDE_CODE_MAX_CONCURRENT_SUBAGENTS). Wave 1 (T-369..T-388) launched; wave 2 (T-389..T-408) refused, ledger entries open, NOT launched. Plan: launch one wave-2 checker each time a wave-1 checker finishes, keeping 20 running.
 AGENTS wave1: T-369 a53ac279ac0a6326c, T-370 a7274cbf76998b0a2, T-371 ab9d8e87cacf2f385, T-372 a94ee02100fa94409, T-373 a4221fc4835839273, T-374 a3764a47d23935b0c, T-375 adf63defb022537d1, T-376 ae1af4356469ca90b, T-377 a9286da1809edf244, T-378 add6208460c1cae2f, T-379 a2d49393d5e2dd4cd, T-380 a0d14d4dfa3b46a6f, T-381 adabcc619d5fc0dc5, T-382 a0c6c07275bb790f4, T-383 a10aa3114b7333565, T-384 ac075055b7e8bd8a4, T-385 ab18ada72b222d347, T-386 aefb0111d89677d31, T-387 a662f0f2d04880d3b, T-388 ab7964675c1e0c797
