@@ -4118,9 +4118,11 @@ CHECKPOINT: control/checkpoints/A3-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
 
 ### 2026-09-30 | [LOCAL] T-388 | big-business: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+RESULT: DONE. PASS  big-business / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15949w files=3 validator_errors=0
+        174126 tokens, 19 tool uses, 4.5 min (sonnet). CHECKER sonnet part2: 59 findings (7 B, 4 M, 48 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-389 | big-business: CHECKER sonnet, part3 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
