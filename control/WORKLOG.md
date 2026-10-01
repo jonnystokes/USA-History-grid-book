@@ -4460,3 +4460,8 @@ VERIFY: python tools/project_state.py --check rights-movements --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage prose
+
+### 2026-10-01 | [LOCAL] T-433 | religion: CHECKER sonnet, part1 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-religion.md
+VERIFY: python tools/project_state.py --check religion --stage prose
