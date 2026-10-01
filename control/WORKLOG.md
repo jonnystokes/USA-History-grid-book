@@ -4401,9 +4401,11 @@ CHECKPOINT: control/checkpoints/A3-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
 
 ### 2026-09-30 | [LOCAL] T-426 | styles: CHECKER sonnet, part3 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+RESULT: DONE. PASS  styles / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16665w files=3 validator_errors=0
+        228322 tokens, 22 tool uses, 7.7 min (sonnet). CHECKER sonnet part3: 90 findings (16 B, 15 M, 59 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-427 | sports-play: CHECKER sonnet, part1 [BURST20] | model sonnet
 STATUS: DONE
