@@ -4455,3 +4455,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+
+### 2026-10-01 | [LOCAL] T-432 | disasters: CHECKER sonnet, part3 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage prose
