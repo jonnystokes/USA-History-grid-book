@@ -3933,9 +3933,11 @@ CHECKPOINT: control/checkpoints/A3-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
 
 ### 2026-09-30 | [LOCAL] T-360 | energy: CHECKER sonnet, part1 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13122w files=3 validator_errors=0
+        190443 tokens, 21 tool uses, 6.9 min (sonnet). CHECKER sonnet part1: 90 findings (14 B, 17 M, 59 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-361 | energy: CHECKER sonnet, part2 [BURST10] | model sonnet
 STATUS: DONE
