@@ -3919,8 +3919,10 @@ AGENT: aef1ef888ca0bec7a
 Next: `python tools/audit_status.py --next T-358` (science part2), cycle in control/briefs/CHECKER-DISPATCH.md.
 
 ### 2026-09-30 | [LOCAL] T-358 | science: CHECKER sonnet, part2 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+RESULT: DONE. PASS  science / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=25 (verified 25) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17340w files=3 validator_errors=0
+        173227 tokens, 15 tool uses, 5.4 min (sonnet). CHECKER sonnet part2: 67 findings (9 B, 4 M, 54 m); first with Jon's plain-words rule
 USAGE AT START (T-358): 2% of the 5-hour window (Jon). Clean single sonnet checker reading.
 AGENT: a161eebedfb38fdf9 (prompt adds Jon's plain-words rule)
