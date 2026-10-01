@@ -4564,3 +4564,4 @@ VERIFY: python tools/project_state.py --check rights-movements --stage prose
 RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=52317w files=3 validator_errors=0
         504091 tokens, 285 tool uses, 25.2 min (opus). FIXER part3 only (test 3, largest single part): 230 findings (226 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH), 49 found by fixer, 17 PATCHes; 31,643 -> 34,068 words
 AGENT: a61c55a07946dc767
+PAUSED after T-444 (all 3 fixer tests done) for Jon's usage reading.
