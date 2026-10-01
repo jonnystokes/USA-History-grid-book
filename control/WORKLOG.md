@@ -3983,8 +3983,10 @@ RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         150664 tokens, 15 tool uses, 3.4 min (sonnet). CHECKER sonnet part2: 42 findings (0 B, 4 M, 38 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-368 | landmarks: CHECKER sonnet, part3 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=12625w files=3 validator_errors=0
+        197990 tokens, 22 tool uses, 6.2 min (sonnet). CHECKER sonnet part3: 79 findings (0 B, 24 M, 55 m) [BURST10]
 USAGE AT START (BURST10 T-359..T-368): 4% (Jon). T-358 alone: 2% -> 4% incl. director work.
 AGENTS BURST10: T-359 a9bd8e381127b5043, T-360 a1f8ce361d2e68950, T-361 a7d6a9af63f86b3ac, T-362 a0185014f4de05e32, T-363 abcad1446185af6e1, T-364 a699c45e80bfe219a, T-365 a3b19a139f077ebf6, T-366 a95e0454d1966104a, T-367 a059ea393dbe98b5a, T-368 aff36f2036577137d
