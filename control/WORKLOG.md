@@ -4540,3 +4540,4 @@ Next: step 4 (research round 2) and step 5 (fixers), planned with Jon.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-economy.md
 VERIFY: python tools/project_state.py --check economy --stage prose
+USAGE AT START (T-442 fixer test 1): 26% (Jon).
