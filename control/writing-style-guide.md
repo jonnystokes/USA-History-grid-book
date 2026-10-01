@@ -18,9 +18,13 @@ policy. Version 2 governs prose mechanics.**
 
 ## 0. Jon's seven guidelines (2026-09-30, DECISIONS #28): read these first
 
-Jon: "Think of this as your own kids. How would you want them raised, knowing the truth? They
-should know how bad it was, and it should also be fun to read." These govern every other rule
-in this file and in the hard-subjects policy.
+These govern every other rule in this file and in the hard-subjects policy.
+
+**They are instructions for how to write, never content to put in the book.** The prose never
+mentions its readers ("kids", "young readers", "you may find this hard to read"), the book or
+this chapter, the writing or research ("sources checked", "we could not find"), the owner, the
+writer, or AI, and never says it is trying to be honest, plain, gentle or fun. It only tells the
+history. Breaking the fourth wall is a BLOCKING defect wherever it appears.
 
 1. **The whole truth, plainly.** Use the plain word for the act: rape (never "assault"),
    murder, killed, enslaved, stole, burned alive. Name who did it. Give the numbers. No modern

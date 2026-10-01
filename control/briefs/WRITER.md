@@ -25,7 +25,7 @@ numbers); fit the age by clarity, not by leaving things out; make it fun to read
 concrete detail and true surprises; when sources disagree, the better-supported version, or say
 plainly that accounts differ; never an accusation against a living person told as fact; and **no
 big words anywhere**: use the plain word, or spell it out in a few plain words ("charged with a
-crime", not "indicted").
+crime", not "indicted"). **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
 
 ## Read before writing a word, in this order
 

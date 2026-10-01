@@ -12,7 +12,7 @@ who did it; replace every big word with the plain word or a few plain words, rat
 adding a definition; keep the vivid, concrete detail that makes the passage fun to read (a repair
 must not flatten a scene into a summary); where sources disagree, write the better-supported version
 or say plainly that the accounts differ (look it up with a few searches and PATCH the bank if that
-settles it); never state an accusation against a living person as fact. Rulings: DECISIONS #28-31.
+settles it); never state an accusation against a living person as fact. Rulings: DECISIONS #28-31. **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
 
 ## Read first, in full
 

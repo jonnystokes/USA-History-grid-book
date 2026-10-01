@@ -31,7 +31,9 @@ contain the detail. Read them when they apply.
 - **Jon's seven guidelines come first** (`control/writing-style-guide.md` §0, DECISIONS #28): the
   whole truth in plain words (rape, not assault), fit the age by clarity not omission, fun to read
   with real people and true detail, the director settles disagreements, no accusation against a
-  living person told as fact, and **no big words anywhere** ("charged with a crime", not "indicted").
+  living person told as fact, and **no big words anywhere** ("charged with a crime", not "indicted"). These are writing
+  instructions, never content: the prose never mentions its readers, the book, the owner, the writer
+  or AI.
 - **No language softening, ever.** That covers euphemism, minimization, downplaying,
   semantic abstraction, sanitization, gist extraction and lossy summarization. This book's
   reader does not know this history and cannot reconstruct what you left out. Anything

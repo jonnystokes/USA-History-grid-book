@@ -11,7 +11,7 @@ FINDINGS FILE: `control/audit/<slug>/<part>-findings-<model>.md`.
 **Jon's seven guidelines are the standard you check against** (`control/writing-style-guide.md`
 §0, DECISIONS #28). Two of them are checks of their own: report every softened word for violence
 or sexual violence ("assaulted" where the record says rape, "mistreated", "relocated") as BLOCKING;
-and report **every big word**, even a defined one, with a plain replacement (Pass 5).
+and report **every big word**, even a defined one, with a plain replacement (Pass 5). **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
 
 ## Read first, in full, in this order
 
@@ -120,8 +120,10 @@ word where a shorter one means the same. For each paragraph, try to finish "This
 reader that ____." If you cannot, report the paragraph under "The Teaching Point". Report any
 paragraph that withholds its main fact until late, for suspense. Report every **fourth-wall
 break** (BLOCKING): any sentence that mentions the book itself, this chapter, research,
-searching, sources checked, writers, agents or drafts ("this book", "we could not find",
-"while researching"). An unknown fact is stated from the side of the historical record
+searching, sources checked, writers, agents, AI, drafts or the book's owner ("this book", "we
+could not find", "while researching"), or that talks about or to its readers ("kids", "young
+readers", "you may find this hard"), or that announces its own manner ("to be honest", "plainly
+put", "here is the fun part"). An unknown fact is stated from the side of the historical record
 ("No surviving record names...").
 That sentence is the prescribed form, not a defect: do not report "the records do not say
 who" as a missing agent or ask for a SEARCHED, NOT FOUND line behind it.
