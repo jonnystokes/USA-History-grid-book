@@ -3976,3 +3976,4 @@ VERIFY: python tools/project_state.py --check landmarks --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-landmarks.md
 VERIFY: python tools/project_state.py --check landmarks --stage prose
+USAGE AT START (BURST10 T-359..T-368): 4% (Jon). T-358 alone: 2% -> 4% incl. director work.
