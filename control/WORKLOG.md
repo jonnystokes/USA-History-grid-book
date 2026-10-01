@@ -4483,9 +4483,11 @@ CHECKPOINT: control/checkpoints/A3-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
 
 ### 2026-10-01 | [LOCAL] T-436 | art: CHECKER sonnet, part3 [BURST12] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-art.md
 VERIFY: python tools/project_state.py --check art --stage prose
+RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=34 (verified 34) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=26406w files=3 validator_errors=0
+        283218 tokens, 29 tool uses, 9.3 min (sonnet). CHECKER sonnet part3: 153 findings (2 B, 23 M, 128 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-437 | music: CHECKER sonnet, part3 [BURST12] | model sonnet
 STATUS: DONE
