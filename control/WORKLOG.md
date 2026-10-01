@@ -3922,3 +3922,5 @@ Next: `python tools/audit_status.py --next T-358` (science part2), cycle in cont
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+USAGE AT START (T-358): 2% of the 5-hour window (Jon). Clean single sonnet checker reading.
+AGENT: a161eebedfb38fdf9 (prompt adds Jon's plain-words rule)
