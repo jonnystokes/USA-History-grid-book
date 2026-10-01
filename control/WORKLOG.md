@@ -4447,9 +4447,11 @@ Rulings #35-36 logged. Nothing in flight.
 USAGE (BURST20): 66% -> 94% = 28% for 20 checkers = 1.4% each (mid-size files, avg 225k tokens). Paused by Jon until the window resets.
 
 ### 2026-10-01 | [LOCAL] T-430 | crime-justice: CHECKER sonnet, part3 [BURST12] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23713w files=3 validator_errors=0
+        280662 tokens, 32 tool uses, 9.7 min (sonnet). CHECKER sonnet part3: 128 findings (8 B, 32 M, 88 m) [BURST12]
 
 ### 2026-10-01 | [LOCAL] T-431 | rights-movements: CHECKER sonnet, part2 [BURST12] | model sonnet
 STATUS: IN-FLIGHT
