@@ -4194,9 +4194,11 @@ RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10
         181489 tokens, 17 tool uses, 5.0 min (sonnet). CHECKER sonnet part2: 81 findings (10 B, 15 M, 56 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-398 | america-world: CHECKER sonnet, part3 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage prose
+RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=15577w files=3 validator_errors=0
+        221216 tokens, 31 tool uses, 6.7 min (sonnet). CHECKER sonnet part3: 85 findings (3 B, 23 M, 59 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-399 | slavery-freedom: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: DONE
