@@ -4485,3 +4485,8 @@ VERIFY: python tools/project_state.py --check art --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+
+### 2026-10-01 | [LOCAL] T-438 | storytelling-evolution: CHECKER sonnet, part3 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-storytelling-evolution.md
+VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
