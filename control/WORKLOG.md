@@ -4397,3 +4397,4 @@ VERIFY: python tools/project_state.py --check sports-play --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+USAGE: T-409 (biggest file) 62% -> 66% = 4%. USAGE AT START (BURST20, T-410..T-429): 66% (Jon).
