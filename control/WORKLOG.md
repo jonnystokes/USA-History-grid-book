@@ -4074,9 +4074,11 @@ RESULT: DONE. PASS  economy / prose. measured: stage=WRITTEN ms_eras=10/10 writt
         161448 tokens, 14 tool uses, 4.1 min (sonnet). CHECKER sonnet part2: 62 findings (1 B, 14 M, 47 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-380 | economy: CHECKER sonnet, part3 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-economy.md
 VERIFY: python tools/project_state.py --check economy --stage prose
+RESULT: DONE. PASS  economy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13293w files=3 validator_errors=0
+        191045 tokens, 20 tool uses, 6.3 min (sonnet). CHECKER sonnet part3: 64 findings (4 B, 7 M, 53 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-381 | money: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: DONE
