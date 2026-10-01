@@ -14,6 +14,25 @@ must not flatten a scene into a summary); where sources disagree, write the bett
 or say plainly that the accounts differ (look it up with a few searches and PATCH the bank if that
 settles it); never state an accusation against a living person as fact. Rulings: DECISIONS #28-31. **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
 
+## Whole-chapter mode (step 5, 2026-10-01)
+
+The dispatch may give you a whole chapter: all three part files and their three findings files.
+Then work **one part at a time**: read that part, its findings file and its bank slice
+(`--eras 1-5`, `6-7`, `8-10`), judge and fix every finding era by era, save the part file and the
+findings table after each era, log the era in the checkpoint, and only then open the next part.
+Never hold the whole chapter in mind at once. An interruption then loses at most one era.
+Keep one voice across the three parts and fix contradictions between them that you notice.
+
+**Small gaps you research yourself** (DECISIONS #21): when a finding says "Not in bank" and the
+fact is probably true, try a few searches. If a reliable page confirms it, add it to the bank
+as `### PATCH <date> (<TASK>): <topic>` with the source, then keep the fact. If not, cut the
+fact or say plainly what the record does not show, and list it under NEEDS-RESEARCH in the
+checkpoint. A fact held in another chapter's bank may be copied, with its source, as a PATCH.
+
+**Rulings to apply** are in `control/DECISIONS.md` #28 to #38 and the "Director rulings for
+the step 5 fixers" section of `control/AUDIT-QUEUE.md`, plus any AUDIT-QUEUE item that names
+your chapter. Read both before you start.
+
 ## Read first, in full
 
 `control/general-writing-style-guide.md` (Version 2, BINDING) · `control/writing-style-guide.md`
