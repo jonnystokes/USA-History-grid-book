@@ -4053,9 +4053,11 @@ RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 
         152123 tokens, 17 tool uses, 3.6 min (sonnet). CHECKER sonnet part2: 51 findings (2 B, 11 M, 38 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-377 | food-farming: CHECKER sonnet, part3 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
+RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=12939w files=3 validator_errors=0
+        199076 tokens, 19 tool uses, 6.0 min (sonnet). CHECKER sonnet part3: 102 findings (3 B, 10 M, 89 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-378 | economy: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: DONE
