@@ -387,3 +387,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-433	prose	general-purpose/sonnet	[LOCAL] religion: CHECKER sonnet part1: 172 findings (0 B, 34 M, 138 m) [BURST12]	?	?	?	320341	39	679884	?	completed	PASS  religion / prose
 2026-10-01	T-435	prose	general-purpose/sonnet	[LOCAL] education: CHECKER sonnet part3: 119 findings (12 B, 21 M, 86 m) [BURST12]	?	?	?	413250	49	763566	?	completed	PASS  education / prose
 2026-10-01	T-442	prose	general-purpose/opus	[LOCAL] economy: FIXER whole chapter (test 1): 171 findings judged (150 FIXED, 19 REJECTED, 2 NEE	?	?	?	400988	264	1126613	?	completed	PASS  economy / prose
+2026-10-01	T-443	prose	general-purpose/opus	[LOCAL] art: FIXER whole chapter (test 2, largest one-agent): 334 findings judged (316 FIXED,	?	?	?	532299	410	1558966	?	completed	PASS  art / prose

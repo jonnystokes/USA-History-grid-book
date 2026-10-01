@@ -4548,7 +4548,9 @@ PAUSED after T-442 for Jon's usage reading.
 USAGE T-442: 26% -> 32% = 6% for 401k opus tokens (1.5% per 100k). USAGE AT START (T-443 fixer test 2, art): 32%.
 
 ### 2026-10-01 | [LOCAL] T-443 | art: FIXER opus, whole chapter (test 2: largest one-agent chapter) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-art.md
 VERIFY: python tools/project_state.py --check art --stage prose
+RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=33 (verified 33) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=28958w files=3 validator_errors=0
+        532299 tokens, 410 tool uses, 26.0 min (opus). FIXER whole chapter (test 2, largest one-agent): 334 findings judged (316 FIXED, 18 REJECTED, 0 NEEDS-RESEARCH), 16 found by fixer, PATCH per era; Wiley block removed (#30); 28,071 -> 30,585 words
 AGENT: accb637355820284f
