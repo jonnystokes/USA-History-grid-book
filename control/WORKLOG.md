@@ -4495,3 +4495,8 @@ VERIFY: python tools/project_state.py --check storytelling-evolution --stage pro
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+
+### 2026-10-01 | [LOCAL] T-440 | holidays: CHECKER sonnet, part2 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage prose
