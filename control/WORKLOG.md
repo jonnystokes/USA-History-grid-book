@@ -4450,3 +4450,8 @@ USAGE (BURST20): 66% -> 94% = 28% for 20 checkers = 1.4% each (mid-size files, a
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+
+### 2026-10-01 | [LOCAL] T-431 | rights-movements: CHECKER sonnet, part2 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
