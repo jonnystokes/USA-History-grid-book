@@ -3926,3 +3926,8 @@ RESULT: DONE. PASS  science / prose. measured: stage=WRITTEN ms_eras=10/10 writt
         173227 tokens, 15 tool uses, 5.4 min (sonnet). CHECKER sonnet part2: 67 findings (9 B, 4 M, 54 m); first with Jon's plain-words rule
 USAGE AT START (T-358): 2% of the 5-hour window (Jon). Clean single sonnet checker reading.
 AGENT: a161eebedfb38fdf9 (prompt adds Jon's plain-words rule)
+
+### 2026-09-30 | [LOCAL] T-359 | science: CHECKER sonnet, part3 [BURST10] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-science.md
+VERIFY: python tools/project_state.py --check science --stage prose
