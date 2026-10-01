@@ -4044,3 +4044,8 @@ VERIFY: python tools/project_state.py --check food-farming --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
+
+### 2026-09-30 | [LOCAL] T-378 | economy: CHECKER sonnet, part1 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-economy.md
+VERIFY: python tools/project_state.py --check economy --stage prose
