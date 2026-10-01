@@ -4075,9 +4075,11 @@ CHECKPOINT: control/checkpoints/A3-economy.md
 VERIFY: python tools/project_state.py --check economy --stage prose
 
 ### 2026-09-30 | [LOCAL] T-381 | money: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
+RESULT: DONE. PASS  money / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13170w files=3 validator_errors=0
+        161958 tokens, 12 tool uses, 4.3 min (sonnet). CHECKER sonnet part1: 62 findings (3 B, 19 M, 40 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-382 | money: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
