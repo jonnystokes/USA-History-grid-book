@@ -4596,3 +4596,4 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-money.md
 VERIFY: python tools/project_state.py --check money --stage prose
 USAGE T-444: 41% -> 49% = 8% for 504k. WAVE6 (T-445..T-450, 6 opus fixers, smallest chapters) at 49% (Jon); target just under 90%.
+AGENTS WAVE6: T-445 acf67bc51ed6cd7c1, T-446 aa052656c702700ac, T-447 a76903db4af8742b7, T-448 ab920fc53ee844802, T-449 a8c7acad8fe25cc78, T-450 ae23321b13df52b6c
