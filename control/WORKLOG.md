@@ -4151,9 +4151,11 @@ CHECKPOINT: control/checkpoints/A3-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
 
 ### 2026-09-30 | [LOCAL] T-391 | government-politics: CHECKER sonnet, part2 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=24000w files=3 validator_errors=0
+        192054 tokens, 17 tool uses, 5.8 min (sonnet). CHECKER sonnet part2: 79 findings (1 B, 17 M, 61 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-392 | crime-justice: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
