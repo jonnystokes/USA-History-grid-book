@@ -3882,3 +3882,8 @@ VERIFY: python tools/project_state.py --check home-family --stage prose
 RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=11162w files=3 validator_errors=0
         192878 tokens, 24 tool uses, 6.4 min (sonnet). CHECKER sonnet part3: 62 findings (4 B, 6 M, 52 m)
 AGENT: a0879b6967e39b789
+
+### 2026-09-30 | [LOCAL] T-354 | technology: CHECKER sonnet, part1 | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-technology.md
+VERIFY: python tools/project_state.py --check technology --stage prose
