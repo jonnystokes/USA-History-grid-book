@@ -4546,3 +4546,8 @@ USAGE AT START (T-442 fixer test 1): 26% (Jon).
 AGENT: afd0189d1e1ec09bc
 PAUSED after T-442 for Jon's usage reading.
 USAGE T-442: 26% -> 32% = 6% for 401k opus tokens (1.5% per 100k). USAGE AT START (T-443 fixer test 2, art): 32%.
+
+### 2026-10-01 | [LOCAL] T-443 | art: FIXER opus, whole chapter (test 2: largest one-agent chapter) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-art.md
+VERIFY: python tools/project_state.py --check art --stage prose
