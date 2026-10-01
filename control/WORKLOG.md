@@ -4588,9 +4588,11 @@ RESULT: DONE. PASS  landmarks / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         388709 tokens, 233 tool uses, 18.8 min (opus). FIXER whole chapter [WAVE6]: 174 FIXED, 17 REJECTED, 2 NEEDS-RESEARCH, 14 found by fixer; ~20 PATCHes; 13,660 -> 14,966 words
 
 ### 2026-10-01 | [LOCAL] T-448 | food-farming: FIXER opus, whole chapter [WAVE6] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-food-farming.md
 VERIFY: python tools/project_state.py --check food-farming --stage prose
+RESULT: DONE. PASS  food-farming / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14376w files=3 validator_errors=0
+        426981 tokens, 261 tool uses, 19.7 min (opus). FIXER whole chapter [WAVE6]: 207 FIXED, 26 REJECTED, 2 NEEDS-RESEARCH, 10 found by fixer; de Soto rapes now stated per #31; 14,159 -> 15,600 words
 
 ### 2026-10-01 | [LOCAL] T-449 | science: FIXER opus, whole chapter [WAVE6] | model opus
 STATUS: DONE
