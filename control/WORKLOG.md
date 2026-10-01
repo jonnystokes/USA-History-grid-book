@@ -4556,3 +4556,8 @@ RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=1
 AGENT: accb637355820284f
 PAUSED after T-443 for Jon's usage reading.
 USAGE T-443: 32% -> 41% = 9% for 532k opus tokens (1.7% per 100k). USAGE AT START (T-444 fixer test 3, rights-movements part3 alone): 41%.
+
+### 2026-10-01 | [LOCAL] T-444 | rights-movements: FIXER opus, part3 only (test 3: largest single part) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
