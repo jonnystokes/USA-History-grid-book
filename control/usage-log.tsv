@@ -381,3 +381,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-437	prose	general-purpose/sonnet	[LOCAL] music: CHECKER sonnet part3: 141 findings (33 B, 19 M, 89 m) [BURST12]	?	?	?	279808	29	516631	?	completed	PASS  music / prose
 2026-10-01	T-439	prose	general-purpose/sonnet	[LOCAL] sports-play: CHECKER sonnet part3: 111 findings (7 B, 18 M, 86 m) [BURST12]	?	?	?	278252	29	529691	?	completed	PASS  sports-play / prose
 2026-10-01	T-430	prose	general-purpose/sonnet	[LOCAL] crime-justice: CHECKER sonnet part3: 128 findings (8 B, 32 M, 88 m) [BURST12]	?	?	?	280662	32	579162	?	completed	PASS  crime-justice / prose
+2026-10-01	T-431	prose	general-purpose/sonnet	[LOCAL] rights-movements: CHECKER sonnet part2: 155 findings (2 B, 42 M, 111 m) [BURST12]	?	?	?	308621	26	579496	?	completed	PASS  rights-movements / prose
