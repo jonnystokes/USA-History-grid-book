@@ -4475,3 +4475,8 @@ VERIFY: python tools/project_state.py --check religion --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+
+### 2026-10-01 | [LOCAL] T-436 | art: CHECKER sonnet, part3 [BURST12] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-art.md
+VERIFY: python tools/project_state.py --check art --stage prose
