@@ -4297,3 +4297,8 @@ RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10
         460713 tokens, 63 tool uses, 14.4 min (sonnet). CHECKER sonnet part3 (31.6k words, era by era): 230 findings (44 B, 40 M, 146 m)
 USAGE AT START (T-409, biggest file alone): 62% (Jon). BURST40 measured 15% -> 62% = 1.175% per checker in parallel.
 AGENT: a654f645058bd39e3
+
+### 2026-09-30 | [LOCAL] T-410 | drugs-alcohol: CHECKER sonnet, part2 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
