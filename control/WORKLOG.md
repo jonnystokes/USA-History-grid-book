@@ -4004,3 +4004,8 @@ AGENTS BURST10: T-359 a9bd8e381127b5043, T-360 a1f8ce361d2e68950, T-361 a7d6a9af
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
+
+### 2026-09-30 | [LOCAL] T-370 | elements: CHECKER sonnet, part2 [BURST40] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-elements.md
+VERIFY: python tools/project_state.py --check elements --stage prose
