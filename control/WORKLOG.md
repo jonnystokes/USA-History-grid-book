@@ -4347,3 +4347,8 @@ VERIFY: python tools/project_state.py --check art --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-art.md
 VERIFY: python tools/project_state.py --check art --stage prose
+
+### 2026-09-30 | [LOCAL] T-420 | music: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-music.md
+VERIFY: python tools/project_state.py --check music --stage prose
