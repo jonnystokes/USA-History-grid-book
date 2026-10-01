@@ -4382,3 +4382,8 @@ VERIFY: python tools/project_state.py --check styles --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+
+### 2026-09-30 | [LOCAL] T-427 | sports-play: CHECKER sonnet, part1 [BURST20] | model sonnet
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/A3-sports-play.md
+VERIFY: python tools/project_state.py --check sports-play --stage prose
