@@ -4108,9 +4108,11 @@ RESULT: DONE. PASS  marketplace / prose. measured: stage=WRITTEN ms_eras=10/10 w
         156073 tokens, 14 tool uses, 3.7 min (sonnet). CHECKER sonnet part2: 47 findings (11 B, 3 M, 33 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-386 | marketplace: CHECKER sonnet, part3 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+RESULT: DONE. PASS  marketplace / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=13548w files=3 validator_errors=0
+        186757 tokens, 15 tool uses, 5.2 min (sonnet). CHECKER sonnet part3: 54 findings (1 B, 5 M, 48 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-387 | big-business: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: DONE
