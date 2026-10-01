@@ -4505,3 +4505,4 @@ VERIFY: python tools/project_state.py --check holidays --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/A3-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+BURST12 opened (Jon, 2026-10-01, fresh window): the last 12 audit files, big ones read era by era.
