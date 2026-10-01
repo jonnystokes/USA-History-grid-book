@@ -4555,3 +4555,4 @@ RESULT: DONE. PASS  art / prose. measured: stage=WRITTEN ms_eras=10/10 written=1
         532299 tokens, 410 tool uses, 26.0 min (opus). FIXER whole chapter (test 2, largest one-agent): 334 findings judged (316 FIXED, 18 REJECTED, 0 NEEDS-RESEARCH), 16 found by fixer, PATCH per era; Wiley block removed (#30); 28,071 -> 30,585 words
 AGENT: accb637355820284f
 PAUSED after T-443 for Jon's usage reading.
+USAGE T-443: 32% -> 41% = 9% for 532k opus tokens (1.7% per 100k). USAGE AT START (T-444 fixer test 3, rights-movements part3 alone): 41%.
