@@ -4197,9 +4197,11 @@ CHECKPOINT: control/checkpoints/A3-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage prose
 
 ### 2026-09-30 | [LOCAL] T-399 | slavery-freedom: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=24 (verified 24) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18673w files=3 validator_errors=0
+        205010 tokens, 14 tool uses, 5.9 min (sonnet). CHECKER sonnet part1: 95 findings (1 B, 8 M, 86 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-400 | slavery-freedom: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
