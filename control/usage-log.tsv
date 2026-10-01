@@ -296,3 +296,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-09-30	T-349	prose	general-purpose/sonnet	[LOCAL] city-building: CHECKER sonnet part2: 113 findings (38 B, 20 M, 55 m)	?	?	?	180334	19	324428	?	completed	PASS  city-building / prose
 2026-09-30	T-350	prose	general-purpose/sonnet	[LOCAL] city-building: CHECKER sonnet part3: 91 findings (39 B, 3 M, 49 m)	?	?	?	205382	26	417883	?	completed	PASS  city-building / prose
 2026-09-30	T-351	prose	general-purpose/sonnet	[LOCAL] home-family: CHECKER sonnet part1: 55 findings (11 B, 4 M, 40 m)	?	?	?	166874	13	279593	?	completed	PASS  home-family / prose
+2026-09-30	T-352	prose	general-purpose/sonnet	[LOCAL] home-family: CHECKER sonnet part2: 53 findings (7 B, 7 M, 39 m)	?	?	?	160962	17	273236	?	completed	PASS  home-family / prose

@@ -3868,7 +3868,9 @@ RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 w
 AGENT: a3c72347f7990e208
 
 ### 2026-09-30 | [LOCAL] T-352 | home-family: CHECKER sonnet, part2 | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-home-family.md
 VERIFY: python tools/project_state.py --check home-family --stage prose
+RESULT: DONE. PASS  home-family / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=11162w files=3 validator_errors=0
+        160962 tokens, 17 tool uses, 4.6 min (sonnet). CHECKER sonnet part2: 53 findings (7 B, 7 M, 39 m)
 AGENT: ae64488ef388364fe
