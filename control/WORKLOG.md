@@ -4325,9 +4325,11 @@ CHECKPOINT: control/checkpoints/A3-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
 
 ### 2026-09-30 | [LOCAL] T-414 | education: CHECKER sonnet, part2 [BURST20] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=40914w files=3 validator_errors=0
+        259537 tokens, 27 tool uses, 8.6 min (sonnet). CHECKER sonnet part2: 97 findings (2 B, 17 M, 78 m) [BURST20]
 
 ### 2026-09-30 | [LOCAL] T-415 | news-communication: CHECKER sonnet, part1 [BURST20] | model sonnet
 STATUS: DONE
