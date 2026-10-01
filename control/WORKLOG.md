@@ -4258,9 +4258,11 @@ CHECKPOINT: control/checkpoints/A3-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
 
 ### 2026-09-30 | [LOCAL] T-406 | disasters: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage prose
+RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=22570w files=3 validator_errors=0
+        228871 tokens, 29 tool uses, 8.1 min (sonnet). CHECKER sonnet part1: 86 findings (8 B, 3 M, 75 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-407 | disasters: CHECKER sonnet, part2 [BURST40] | model sonnet
 STATUS: DONE
