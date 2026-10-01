@@ -4232,9 +4232,11 @@ RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/
         192482 tokens, 17 tool uses, 5.9 min (sonnet). CHECKER sonnet part3: 69 findings (1 B, 22 M, 46 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-402 | rights-movements: CHECKER sonnet, part1 [BURST40] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=49892w files=3 validator_errors=0
+        225259 tokens, 16 tool uses, 8.0 min (sonnet). CHECKER sonnet part1: 78 findings (6 B, 24 M, 48 m) [BURST40]
 
 ### 2026-09-30 | [LOCAL] T-403 | health: CHECKER sonnet, part1 [BURST40] | model sonnet
 STATUS: IN-FLIGHT
