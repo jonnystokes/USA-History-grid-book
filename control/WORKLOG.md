@@ -3928,9 +3928,11 @@ USAGE AT START (T-358): 2% of the 5-hour window (Jon). Clean single sonnet check
 AGENT: a161eebedfb38fdf9 (prompt adds Jon's plain-words rule)
 
 ### 2026-09-30 | [LOCAL] T-359 | science: CHECKER sonnet, part3 [BURST10] | model sonnet
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/A3-science.md
 VERIFY: python tools/project_state.py --check science --stage prose
+RESULT: DONE. PASS  science / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=25 (verified 25) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17340w files=3 validator_errors=0
+        224201 tokens, 15 tool uses, 7.9 min (sonnet). CHECKER sonnet part3: 71 findings (5 B, 19 M, 47 m) [BURST10]
 
 ### 2026-09-30 | [LOCAL] T-360 | energy: CHECKER sonnet, part1 [BURST10] | model sonnet
 STATUS: DONE
