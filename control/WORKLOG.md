@@ -4826,3 +4826,4 @@ VERIFY: python tools/project_state.py --check education --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+USAGE: WAVE8L straddled a reset; now 12% (Jon); weekly at 92%, ~60% of a window allowed. WAVE7G (T-473..T-479): war, native-nations, government-politics, crime-justice whole; rights-movements p1-2; religion p1; education p3. Est ~54%.

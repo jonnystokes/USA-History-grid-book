@@ -1,18 +1,18 @@
 # CHECKPOINT F5 | rights-movements | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-444 landed (director verified: PASS  rights-movements / prose)
+STATUS: IN-FLIGHT (T-477 parts 1-2)
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/rights-movements/part1|part2|part3 + control/audit/rights-movements/part1|2|3-findings-sonnet.md
         + research/research-rights-movements.md (PATCH entries only)
 
 NOW:    T-444 part3 DONE (eras 8-10); prose check PASS
-NEXT:   part1 and part2 (later fixers); part3 needs only the NEEDS-RESEARCH items below in round 2
+NEXT:   T-477: part1, era 1, then part2
 
 ## Units
 | part | eras | fixer | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|---|
-| part1 | 1-5 | later | todo | | 6240 -> |
-| part2 | 6-7 | later | todo | | 14380 -> |
+| part1 | 1-5 | T-477 | todo | | 6240 -> |
+| part2 | 6-7 | T-477 | todo | | 14380 -> |
 | part3 | 8-10 | T-444 | done | 226 / 4 / 2 (rows 70 and 127 are also counted FIXED) + 49 found by fixer | 31643 -> 34068 (wc -w) |
 
 ## NEEDS-RESEARCH
