@@ -4900,3 +4900,5 @@ VERIFY: python tools/project_state.py --check crime-justice --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R4-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+USAGE AT START (round-2 wave T-484..T-486): 68% (Jon). R-1 measured 61->68 = 7%.
+AGENTS ROUND2 WAVE: T-484 a6146c01701f0117c (native/war), T-485 ad0c7d1a9a9678426 (law/rights), T-486 a0681ca0c9e1d2c16 (culture). Note: checkpoints are named by group (R2-native-war etc.), so close these by hand, not with director_task close.
