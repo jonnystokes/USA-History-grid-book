@@ -4855,3 +4855,4 @@ VERIFY: python tools/project_state.py --check religion --stage prose
 RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=38742w files=3 validator_errors=0
         565942 tokens, 316 tool uses, 26.8 min (opus). FIXER parts 2-3: 266 FIXED, 10 REJECTED, 1 NEEDS-RESEARCH, 9 found by fixer; flogging defined, Waco and Richwood actors per sources (bank misread corrected), Black Elk per #36; religion fully fixed; 23,004 -> 25,638 words (parts 2-3)
 AGENT: a83e8c1d8c06ded71 (T-480). Mode (Jon, 2026-10-02): one at a time until the usage runs out; on interruption, recover and pause.
+PAUSED after T-480 (Jon). Step 5: 35 of 37 chapters fixed; education parts 1-2 left (T-481).

@@ -1,6 +1,6 @@
 # CHECKPOINT F5 | religion | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-480 landed (director verified: PASS  religion / prose)
+STATUS: DONE: part1 T-478, parts 2-3 T-480
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/religion/part1|part2|part3 + control/audit/religion/part1|2|3-findings-sonnet.md
         + research/research-religion.md (PATCH entries only)
