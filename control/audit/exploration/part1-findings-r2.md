@@ -59,3 +59,23 @@
 | 56 | 5 | 273 | The Reader | MINOR | "In 1769 a Spanish official, Jose de Galvez, sent an expedition north from San Diego to survey California, where Native nations already lived, and to claim it for Spain." | 31 words. Also line 269 ("On July 14, 1776, two Cherokee and three Shawnee warriors, led by the Cherokee Hanging Maw, captured three teenage girls...") is 31 words and line 281 ("In 1787 a group of Boston merchants sent him...") is 29 | Split each | yes |
 | 57 | 5 | 273 | Contrastive Negation | MINOR | "Ortega's scouts, not Portola himself, were the first Europeans known to see San Francisco Bay." | Denies a belief the text never states | "Ortega's scouts were the first Europeans known to see San Francisco Bay. Portola was farther south with the main party." (second sentence only if the bank supports it) or just the first sentence | unsure |
 | 58 | 5 | 281 | Not in bank | BLOCKING | "Tillamook men killed Marcus Lopez, Gray's Black cabin boy and cook from the Cape Verde Islands, in the fighting." | The bank (PATCH 2026-10-01) says the page "names no weapon or single killer" and records only that Lopez "was killed". Naming the Tillamook as his killers goes beyond it | "Marcus Lopez, Gray's Black cabin boy and cook from the Cape Verde Islands, was killed in the fighting. The record does not name who killed him." | unsure |
+
+## Counts
+
+Total: 58 findings. BLOCKING 9, MAJOR 0, MINOR 49.
+
+By rule: Not in bank 23. The Reader 9. The Reader (big words) 4. Personification and Anthropomorphism 3. Passives with a Missing or False Agent 3. The AI Cadence 2. Repeated units 2. Information density 2. Hedged Predicates 2. Claims That Can Be Checked 2. One each: Rhetorical Schemes, Reification, Hard subjects §3b (torture), Hard subjects §2 (euphemism), Fourth-wall, Contrastive Negation.
+
+Eras with no findings: none. Eras 1 and 3 have only MINOR findings, plus one BLOCKING in era 3 (row 38). Era 4 has no BLOCKING finding.
+
+Checked and clean: no em dashes or semicolons, no records outside hb-story, every story status verified, every era progress written, no [VERIFY] tags, no softened word for rape or killing found (rape is named and defined at line 128, torture and killing in the Boone, Hudson, Mabila, Arenal and Gray passages are stated plainly), no slur printed, no invented name found, no hb-story for an unnamed person.
+
+Judgment calls for the fixer: (1) Rows marked BLOCKING under "Not in bank" are small wording gaps (a rank, a title, "stakes") rather than invented events, except rows 31, 33 and 58, which change or add an act. (2) "NPS states/records" (row 2) follows DECISIONS #37, which asks for a plain sentence naming who counted, so it may be acceptable as written.
+
+## Tool output
+
+validate_grid.js manuscript/exploration/part1-before-1800.md --part:
+=== part1-before-1800.md : 1 chapters, 8 stories, 0 errors
+
+project_state.py --punct manuscript/exploration/part1-before-1800.md:
+manuscript/exploration/part1-before-1800.md: emdash=0 semicolon=0
