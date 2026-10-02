@@ -281,3 +281,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **#37 naming a figure's source** (plain sentence, not a bare parenthesis; not a fourth-wall break) and **#38 profiles of living people in public disputes**: rulings for the step 5 fixers.
 - **art outline (T-443):** outlines/art.md and outlines/BOOK-OUTLINE.md still carry the kehinde-wiley story; remove it when the outline is rebuilt in step 7 (#30).
 - **transportation bank (T-445):** the GPS Selective Availability line says 'tenfold'; 100 m to 20 m is fivefold. Prose now gives only the meters; correct the bank.
+- **big-business (T-460):** the fixer added several PATCHes tagged '(unconfirmed: search summary only)'. Step 6: check none of those facts are stated in the prose as fact; confirm or cut. Round 2: who sued and charged Biddle; who at Bhopal turned off the gas scrubber.
