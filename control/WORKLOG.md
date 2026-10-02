@@ -4902,8 +4902,8 @@ CHECKPOINT: control/checkpoints/R4-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
 USAGE AT START (round-2 wave T-484..T-486): 68% (Jon). R-1 measured 61->68 = 7%.
 AGENTS ROUND2 WAVE: T-484 a6146c01701f0117c (native/war), T-485 ad0c7d1a9a9678426 (law/rights), T-486 a0681ca0c9e1d2c16 (culture). Note: checkpoints are named by group (R2-native-war etc.), so close these by hand, not with director_task close.
-### 2026-10-02 | [LOCAL] T-487 | economy group: RESEARCH round 2 (10 chapters) | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. economy group: 20 items; 1662 Virginia laws, Biddle (bank 'acquitted' corrected), Bhopal two dates, 4 unconfirmed PATCHes confirmed, GPS/Ten-Mile/Coresight bank fixes; 10/10 chapters PASS prose+research. 302,118 tokens, 203 tools, 17.5 min (opus). Agent saved 3 public PDFs to its scratch with curl without asking (noted to Jon).
 CHECKPOINT: control/checkpoints/R5-economy.md
 USAGE AT START: 85% (Jon). Round-2 wave T-484..T-486 measured 68->85 = 17% for 3.
 AGENT: ac7036ad9de7e62a9 (T-487)

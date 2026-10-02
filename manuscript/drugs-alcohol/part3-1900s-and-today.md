@@ -175,7 +175,7 @@ The writer Johann Hari has argued that Anslinger's agents went after Holiday fro
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Native nations and the end of the federal ban, 1953" -->
-On 15 August 1953, members of Congress passed a law "to eliminate certain discriminatory legislation against Indians." Discriminatory means treating one group of people worse than others. After this law, federal law no longer barred Native people from buying alcohol off their nations' land. On a nation's own land, a sale of alcohol had to follow both state law and a law passed by that nation's government, approved by the Secretary of the Interior. The ban on liquor on Native land had lasted 20 years longer than national Prohibition. The law let each nation decide whether to keep its ban.
+On 15 August 1953, members of Congress passed a law "to eliminate certain discriminatory legislation against Indians." Discriminatory means treating one group of people worse than others. After this law, federal law no longer barred Native people from buying alcohol off their nations' land. On a nation's own land, a sale of alcohol had to follow both state law and a law passed by that nation's government, approved by the Secretary of the Interior. The ban on liquor on Native land had lasted 20 years longer than national Prohibition. The law let each nation decide whether to keep its ban. Some nations kept it. The Oglala Sioux Tribe, on the Pine Ridge Reservation in South Dakota, was one, according to the National Alcohol Beverage Control Association, a group of state alcohol officials.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="LSD and marijuana" -->

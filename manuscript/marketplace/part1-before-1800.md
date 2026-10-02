@@ -212,6 +212,6 @@ Away from the port towns, one country storekeeper sold goods to a whole farming 
 
 The storekeeper wrote each family's debt in a ledger. A farm family bought goods all through the year and paid after the harvest. When a harvest failed, the family could not pay, and the debt carried into the next year.
 
-Some of these account books survive, and they name the customers. Robert Townsend kept account books at Oyster Bay and in New York from 1773 to 1785. Staff at the East Hampton Library have copied them out and published them.
+Some of these account books survive, and they name the customers. Robert Townsend kept account books at Oyster Bay and in New York from 1773 to 1785. In 1773 his books list tea at 4 shillings 8 pence a pound, stockings, calico and linen cloth, gloves, packs of pins, molasses, and large barrels of spirits, a strong liquor. Some customers paid him in farm goods or in work instead of coins. Staff at the East Hampton Library have copied them out and published them.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

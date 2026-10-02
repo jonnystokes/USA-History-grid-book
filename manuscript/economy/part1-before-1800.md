@@ -79,7 +79,7 @@ Planters gained from each servant in two ways. Under Virginia's headright rule, 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What servants went through" -->
-Masters could whip their servants. When a servant ran away, judges in the colony's courts added years to the servant's term. They also added years when a woman servant became pregnant. A Virginia law required masters to give servants "Competent Dyet, Clothing & Lodging," which meant enough food, clothes and shelter. The same law required masters not to "exceed the Bounds of moderation in correcting them." Correcting meant punishing.
+Masters could whip their servants. When a servant ran away, judges in the colony's courts added years to the servant's term. They also added years when a woman servant became pregnant. Under a Virginia law of March 1662, she served two more years or paid her master 2,000 pounds of tobacco. Some of the fathers were the masters themselves. Virginia's lawmakers wrote a second law in December 1662 about a woman servant "gott with child by her master." When her years ran out, officers of the local church sold her to work two more years, and the church kept the money. Some women servants were also attacked sexually. A Virginia law required masters to give servants "Competent Dyet, Clothing & Lodging," which meant enough food, clothes and shelter. The same law required masters not to "exceed the Bounds of moderation in correcting them." Correcting meant punishing.
 
 The Virginia Company of London, a group of investors in England, ran the colony in its first years. Under the company's first form of contract, used from 1609 to 1619, its officers in Virginia could hang, burn to death or shoot runaway servants they caught.
 
@@ -119,7 +119,7 @@ The rice fields of the South Carolina Lowcountry were built and worked by enslav
 
 Nic Butler of the Charleston County Public Library writes that enslaved people "moved earth on a massive scale" to build the rice fields. By the 1720s, Carolina planters were asking slave traders for Africans from the region called the Rice Coast. The planters wanted them because people from there already knew how to grow rice.
 
-The wealth from rice, Butler writes, "remained concentrated in the hands of a small minority of white planters." Historians at the College of Charleston record that enslaved children in the Lowcountry died at especially high rates. The number of enslaved people there did not grow through births until the 1760s.
+The wealth from rice, Butler writes, "remained concentrated in the hands of a small minority of white planters." Historians at the College of Charleston record that enslaved children in the Lowcountry died at especially high rates. Their account gives no count of those children's deaths in the early 1700s. The number of enslaved people there did not grow through births until the 1760s.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="eliza-lucas-pinckney-economy" name="Eliza Lucas Pinckney" movie="" kind="famous" status="verified" -->
