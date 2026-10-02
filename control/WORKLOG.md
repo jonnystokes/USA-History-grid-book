@@ -4616,9 +4616,11 @@ home-family, landmarks, food-farming, science, money whole; rights-movements par
 USAGE WAVE6: 49% -> 80% = 31% for 2.29M opus tokens in parallel (1.35% per 100k; ~5.2% per small-chapter fixer). Waiting for the window to reset.
 
 ### 2026-10-01 | [LOCAL] T-451 | energy: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+RESULT: DONE. PASS  energy / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=11 (verified 11) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14450w files=3 validator_errors=0
+        416948 tokens, 270 tool uses, 22.4 min (opus). FIXER whole chapter [WAVE8]: 215 FIXED, 14 REJECTED, 0 NEEDS-RESEARCH, 9 found by fixer; Hornblower 1768 letter found (McCormick); 14,115 -> 15,440 words
 
 ### 2026-10-01 | [LOCAL] T-452 | marketplace: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: DONE
