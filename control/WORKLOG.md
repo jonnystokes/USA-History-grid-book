@@ -4721,3 +4721,7 @@ RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 writ
 USAGE WAVE8: 0% -> 54% = 3.33M opus tokens (1.62% per 100k in parallel). WAVE6M (T-459..T-464, 6 medium chapters) at 54% (Jon).
 AGENTS WAVE6M: T-459 ae021d8eee199abf7, T-460 a73c415e07fcd4d08, T-461 ab89cbf886f0a5af6, T-462 a4f16dce8d1b5b4e6, T-463 a0cc24496da5f6ba8, T-464 a184b758370730c77
 T-461 immigration: director asked it (Jon's request) to pause 4h20m via a background sleep 15600, then resume from its checkpoint in the next window.
+
+### 2026-10-01 | [LOCAL] WAVE6M: 5 of 6 done (america-world, holidays, big-business, exploration, styles, all PASS;
+2.45M tokens). T-461 immigration paused on a 4h20m background timer at part1 era 5; it resumes on its own.
+Step 5: 21 chapters fixed whole + rights-movements part3.
