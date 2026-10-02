@@ -4707,9 +4707,11 @@ CHECKPOINT: control/checkpoints/F5-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
 
 ### 2026-10-01 | [LOCAL] T-464 | holidays: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
+RESULT: DONE. PASS  holidays / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=9 (verified 9) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17807w files=3 validator_errors=0
+        507990 tokens, 207 tool uses, 24.4 min (opus). FIXER whole chapter [WAVE6M]: 312 FIXED, 10 REJECTED, 0 NEEDS-RESEARCH, 13 found by fixer; Matanzas counts restored, boarding schools/Dawes per #36; 16,046 -> 18,979 words
 USAGE WAVE8: 0% -> 54% = 3.33M opus tokens (1.62% per 100k in parallel). WAVE6M (T-459..T-464, 6 medium chapters) at 54% (Jon).
 AGENTS WAVE6M: T-459 ae021d8eee199abf7, T-460 a73c415e07fcd4d08, T-461 ab89cbf886f0a5af6, T-462 a4f16dce8d1b5b4e6, T-463 a0cc24496da5f6ba8, T-464 a184b758370730c77
 T-461 immigration: director asked it (Jon's request) to pause 4h20m via a background sleep 15600, then resume from its checkpoint in the next window.
