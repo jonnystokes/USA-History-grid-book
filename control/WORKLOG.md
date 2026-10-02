@@ -4806,3 +4806,8 @@ VERIFY: python tools/project_state.py --check native-nations --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+
+### 2026-10-02 | [LOCAL] T-476 | crime-justice: FIXER opus, whole chapter [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage prose
