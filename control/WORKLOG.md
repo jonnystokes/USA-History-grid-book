@@ -4694,9 +4694,11 @@ RESULT: DONE. PASS  big-business / prose. measured: stage=WRITTEN ms_eras=10/10 
         485077 tokens, 292 tool uses, 26.1 min (opus). FIXER whole chapter [WAVE6M]: 216 FIXED, 27 REJECTED, 1 NEEDS-RESEARCH (+1), 23 found by fixer; 1619 arrival corrected; 17,020 -> 18,748 words
 
 ### 2026-10-01 | [LOCAL] T-461 | immigration: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-immigration.md
 VERIFY: python tools/project_state.py --check immigration --stage prose
+RESULT: DONE. PASS  immigration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18764w files=3 validator_errors=0
+        445949 tokens, 168 tool uses, 280.5 min (opus). FIXER whole chapter [WAVE6M], paused 4h20m mid-run then resumed: 199 FIXED, 7 REJECTED, 2 NEEDS-RESEARCH, 10 found by fixer; Dubuque claim corrected, slur removed, sterilization method stated; 17,386 -> 19,972 words
 
 ### 2026-10-01 | [LOCAL] T-462 | exploration: FIXER opus, whole chapter [WAVE6M] | model opus
 STATUS: DONE
