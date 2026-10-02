@@ -45,6 +45,18 @@ expedition's members did to the people there.
   - **Whose land.** Before the Norse, five Indigenous groups had lived at the site, the oldest about 6,000 years ago, and Dorset people lived there about 300 years before the Norse (Wikipedia, same page). The sagas call the people the Norse met "Skraelings" and describe trade and "bloody fights" that led the Norse to give up (Wikipedia). Smithsonian: "The sagas tell of trade between the groups, but also of bad blood and violence." Which Indigenous people the Norse met is not settled by the sources opened. See SEARCHED, NOT FOUND below.
   - **Leif Erikson and the site.** Two Icelandic sagas, the *Saga of the Greenlanders* and the *Saga of Erik the Red*, describe Vinland. Both Leifsbudir (Leif's camp) and a second place called Hop have been claimed as L'Anse aux Meadows (Wikipedia). **Writer's note:** the site proves the Norse were in Newfoundland. It does not prove that this exact camp was Leif's. Say "the Norse camp found at L'Anse aux Meadows", and tell Leif from the sagas.
 
+### PATCH 2026-10-01 (T-462): the 2023 White Sands study, confirmed on an opened page
+- ScienceDaily, "Oldest fossil human footprints in North America confirmed", 5 October 2023 (USGS release, https://www.sciencedaily.com/releases/2023/10/231005161809.htm, opened 2026-10-01): a team from the USGS, Lawrence Livermore National Laboratory, the National Park Service and universities, published in *Science* in October 2023, dated conifer pollen (about 75,000 grains isolated per sample) and quartz grains by optically stimulated luminescence (the time since the grains were last exposed to sunlight). All methods confirmed "the 21,000 to 23,000-year age range for the footprints", and the quartz gave "a minimum age of ~21,500 years". USGS geologist Jeff Pigati was co-lead author (search summary of the USGS and Science News reports). This upgrades the era 01 "dispute and its answer" line from search-summary to opened.
+
+### PATCH 2026-10-01 (T-462): "hundreds" of Native groups
+- Library of Congress exhibit "1492: An Ongoing Voyage", "What Came to Be Called 'America'" (https://www.loc.gov/exhibits/1492/america.html, opened 2026-10-01): "In the 16th century, North America ... was home to hundreds of groups speaking a striking variety of languages and dialects."
+
+### PATCH 2026-10-01 (T-462): Cahokia's location (copied)
+- Cahokia was "near modern St. Louis", on the Mississippi River (copied from `research/research-economy.md` era 1, sources Illinois State Museum and Cahokia Mounds State Historic Site; `research/research-native-nations.md` era 1 has "on the Mississippi River near present-day St. Louis").
+
+### SEARCHED, NOT FOUND 2026-10-01 (T-462): which Native people the Norse met
+- Searched for the nation the sagas' "Skraelings" belonged to. Wikipedia "L'Anse aux Meadows" (opened 2026-10-01) lists the site's Indigenous occupations (Maritime Archaic, Groswater, Dorset, Cow Head and Beaches, then the Little Passage tradition about 1200 to 1500, after the Norse) and does not identify which people the Norse met. Wikipedia "Skraeling" (opened) leaves it open. Search summaries name the Beothuk or their ancestors only as a guess. No source settles it. The sagas call them only "Skraelings". Write: no record shows which nation they belonged to.
+
 ---
 
 ## 02 · The 1500s
@@ -125,6 +137,21 @@ expedition's members did to the people there.
 ### PATCH 2026-09-27 (T-257r, bank check): Onate's 1598 march and Acoma
 - Juan de Onate led a colony up the Camino Real into New Mexico in 1598 (`research/research-migration.md`, era 02). In December 1598 to January 1599 his soldiers stormed and burned Acoma Pueblo, and Onate ordered the right feet of captive men cut off; whether the order was carried out is disputed (`research/research-native-nations.md`, "Acoma Pueblo" section, Hammond and Rey's translation of the trial record). **This is a colony march, not a journey into the unknown: `migration` and `native-nations` own it.** Not added to the exploration outline. Noted so a writer does not look for it here.
 
+### PATCH 2026-10-01 (T-462): Columbus's gold rule, the hawk's bell
+- Wikipedia, "Voyages of Christopher Columbus" (opened 2026-10-01), quoting Ferdinand Columbus: "In the Cibao, where the gold mines were, every person of fourteen years of age or upward was to pay a large hawk's bell of gold dust". The page presents the system as Columbus's. The 1495 raid: "he took over 1,500 Arawaks". The 1,600 and 550 figures remain search-summary only (era 02 line above); the prose gives them as "some accounts".
+
+### PATCH 2026-10-01 (T-462): who attacked the Narvaez land party, and how many lived
+- Wikipedia, "Narvaez expedition" (opened 2026-10-01): "Soon after Narvaez took the village, Apalachee warriors began attacking the Europeans. Their first attack was a force of 200 warriors, who used burning arrows to set fire to the houses the Europeans occupied." Timucua men followed the march. "After being ravaged by disease, starvation, and attacks by the various peoples they intended to conquer, 242 men had survived" by September 1528.
+
+### PATCH 2026-10-01 (T-462): who sent Esteban in 1539, and who killed him
+- Wikipedia, "Esteban de Dorantes" (opened 2026-10-01): Viceroy Antonio de Mendoza commissioned Fray Marcos de Niza to lead the 1539 expedition north to look for the Seven Cities of Cibola, with Esteban as guide. Accounts of his death at Hawikuh: Marcos de Niza reported it as told by members of Esteban's party; Coronado (1540) wrote that the inhabitants killed him because he was a "bad man" who "killed and assaulted their women"; Pedro de Castaneda wrote that the Cibola people killed him for demanding turquoise and women; Hernando de Alarcon reported they killed him after he boasted of armed followers; Sancho Dorantes wrote he was "shot through with arrows like a Saint Sebastian". Modern historians suggest the Zuni may have read his healer's regalia as impersonating a sacred figure. Wikipedia: Esteban is "believed to have been the first person of African and Arab descent to explore" the present-day United States (era 02 line above).
+
+### PATCH 2026-10-01 (T-462): who cut off the arm at Mabila
+- Rodrigo Ranjel's account, in Oviedo's *Historia general y natural de las Indias* (earlyfloridalit.net, "Rodrigo Ranjel, Account of De Soto", opened 2026-10-01): "Baltasar de Gallegos entered for the cacique, and he not wanting to leave, he [Gallegos] cut off the arm of a principal Indian with a slash." Ranjel was de Soto's private secretary. The Gentleman of Elvas gives a different stroke ("a stroke with a cutlass, that laid open his back", Wikipedia "Battle of Mabila", opened).
+
+### PATCH 2026-10-01 (T-462): the Tiguex woman and the burnings at Arenal, from Castaneda
+- Pedro de Castaneda de Najera, *Relacion* (written in the 1560s), translated by George Parker Winship, *The Coronado Expedition, 1540-1542*, Bureau of Ethnology 14th Annual Report (1896) (Project Gutenberg ebook 50448, https://www.gutenberg.org/files/50448/50448-h/50448-h.htm, opened 2026-10-01): "one whom I will not name, out of regard for him" called a Tiguex man down to hold his horse, went up into the house, and the husband "learned that he had violated, or tried to violate, his wife". The husband came "with the important men of the town" to complain and identified the horse. "He denied doing it ... anyway, he [the Tiguex man] went off without getting any satisfaction." At the village "where the affair with the Indian woman occurred" (Arenal), the defenders made the sign of peace, and Pablo de Melgosa and Diego Lopez answered with the same sign; "They then put down their arms and received pardon." They were taken to Don Garcia Lopez de Cardenas's tent. "As he had been ordered by the general not to take them alive, but to make an example of them so that the other natives would fear the Spaniards, he ordered 200 stakes to be prepared at once to burn them alive." When "the Spaniards were binding them and beginning to roast them, about a hundred men who were in the tent began to struggle and defend themselves"; foot soldiers attacked the tent and horsemen chased those who escaped: "not a man of them remained alive", except some who hid and spread the news "that the strangers did not respect the peace they had made". Wikipedia, "Tiguex War" (opened), names the accused soldier as Juan de Villegas and gives about 30 burned at the stake; not used in prose (no opened scholarly page).
+
 ## 03 · The 1600s
 
 ### Colonies on the edges
@@ -160,6 +187,18 @@ expedition's members did to the people there.
   - **The colony's end.** "The colony lasted only until 1688, when Karankawa-speaking Natives killed the 20 remaining adults and took five children as captives." (Wikipedia.) The land was Karankawa land. *La Belle*'s wreck was found in Matagorda Bay in 1995.
   - The link to 1803 is framing: France's claim to Louisiana began with La Salle's 1682 declaration, and France sold that claim to the United States in 1803. Carried as the old bank's statement.
 
+### PATCH 2026-10-01 (T-462): New Amsterdam (copied) and Quebec, for the era framing
+- Dutch colonists built New Amsterdam at the southern tip of Manhattan, part of Lenapehoking, the Lenape homeland (copied from `research/research-city-building.md`, New Amsterdam line, sources Smithsonian NMAI "Lenape (Delaware) Homeland" and NMAH "Dutch New Amsterdam"). French settlement on the St. Lawrence: Champlain founded Quebec in 1608 (era 03 line above).
+
+### PATCH 2026-10-01 (T-462): why Hudson sailed in 1609, and what became of the two captives
+- Wikipedia, "Henry Hudson" (opened 2026-10-01): "In 1609, Hudson was chosen by merchants of the Dutch East India Company in the Netherlands to find an easterly passage to Asia."
+- Juet's journal, entry for 15 September 1609 (reprinted in T. W. Higginson, *A Book of American Explorers*, ch. 13, Perseus Digital Library, https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2001.05.0226%3Achapter%3D13, opened 2026-10-01): "This morning our two savages got out of a port, and swam away. After we were under sail, they called to us in scorn." This replaces the era 03 line "Juet does not say what became of the two captives".
+
+### PATCH 2026-10-01 (T-462): Marquette, Jolliet and La Salle: occupations and dates
+- Wikipedia, "Jacques Marquette" (opened 2026-10-01): "a French Jesuit missionary". Wikipedia, "Louis Jolliet" (opened): born in 1645 "in Beaupre, a French settlement near Quebec City"; left the seminary in 1667 "to pursue fur trading"; the party reached the mission of St. Francis Xavier at the southern end of Green Bay in August 1673, and Jolliet went on to Quebec.
+- Wikipedia, "Rene-Robert Cavelier, Sieur de La Salle" (opened 2026-10-01): "French explorer and fur trader in North America"; his group "travelled along the Illinois River and arrived at the Mississippi River in February 1682; they built canoes there."
+- **The four ships of 1684** (Wikipedia, "La Belle (ship)", opened 2026-10-01): "The St. Francois and its full load of supplies, provisions, and tools for the colony were captured by Spanish privateers in Santo Domingo." At Matagorda Bay "the Aimable was grounded on a sandbar." "Beaujeu, having fulfilled his mission in escorting them, returned to France aboard the Joly in mid-March, leaving La Belle the only ship available to the remaining settlers." *La Belle* later "had run aground at the southern end of the bay". This corrects the era 03 line "another sank in Matagorda Bay, and the last, La Belle": four ships, one seized, one grounded, one sailed home, *La Belle* grounded.
+
 ---
 
 ## 04 · 1700 to 1750
@@ -183,6 +222,16 @@ expedition's members did to the people there.
   - **On 30 March 1743 they buried a lead plate** at the Little Cherry People's fort on the Missouri River, at present-day Pierre. The front has a stamped Latin inscription naming Louis XV, Pierre La Verendrye and the year 1741. On the back is scratched "Placed by Chevalyet de Lave ... Louis la Londette, A Miotte; 30 March 1743". **The plate was found at Pierre, South Dakota, in 1913** and is in the South Dakota Cultural Heritage Center. It is six by eight inches.
   - Where they went is disputed. They were "possibly the first Europeans to cross the northern Great Plains and see the Rocky Mountains", in what is probably Wyoming (Wikipedia, "Louis-Joseph Gaultier de La Verendrye", opened 2026-09-27: "The documentation is poor and it may have been a different Verendrye brother"). "Both the journal and plate are difficult to interpret."
   - Who found the plate in 1913: the page opened does not name the finders. Writers should say "found in 1913" and nothing more unless a source is added.
+
+### PATCH 2026-10-01 (T-462): the Koryaks, why the detachment went
+- Wikipedia, "Vitus Bering" (opened 2026-10-01): after "the murder of several Russians under Bering's command by native tribesmen", Bering sent "armed men to the north, with orders not to use force if it could be avoided. Apparently it could not, because the detachment killed several native Koryaks in the settlement of Utkolotsk and enslaved the remainder." "Steller was horrified to see the Koryaks tortured in search of the murderers."
+
+### PATCH 2026-10-01 (T-462): Chirikov's lost boat crews (answers T-316 open question)
+- *Encyclopedia Arctica* 15, "Aleksei Ilich Chirikov" (Dartmouth, https://collections.dartmouth.edu/arctica-beta/html/EA15-17.html, opened 2026-10-01): "On July 17th ... he sent out Fleet Master Abram Dementiev with 10 armed men in a boat to examine the coast." "On July 23rd a fire was sighted near the coast, and the following day Chirikov sent out 4 men under Boatswain Saveliev in the other smaller boat." "Whether Chirikov's 15 men had been killed by the natives or whether they had been swamped in the tidal rips so characteristic of this coast, remains a mystery." Without boats he could not search or land, and sailed west on 27 July.
+- Whose land: the Tlingit. Arctic Anthropology 42:2, "Reflections on the Fate of Alexei Chirikov's Missing Men" (abstract, https://aa.uwpress.org/content/wpaa/42/2/1.full.pdf, opened): argues "that the men sought refuge among the Tlingit", using Russian documents and Tlingit oral history. Wikipedia "History of the Tlingit" (opened): the boats were lost around Lisianski Strait, at the northern end of Chichagof Island.
+
+### PATCH 2026-10-01 (T-462): Pierre La Verendrye's trade
+- Wikipedia, "Pierre Gaultier de Varennes, sieur de La Verendrye" (opened 2026-10-01): "a military officer, fur trader, and explorer" (1685 to 1749).
 
 ---
 
@@ -220,6 +269,19 @@ expedition's members did to the people there.
   - **Tillamook Bay, August 1788.** At Tillamook Bay (Oregon) fighting broke out with the Tillamook people, and **Marcus Lopez, Gray's Black cabin boy and cook from the Cape Verde Islands, was killed.** Gray named the bay Murderer's Harbor.
   - **The Columbia, 11 May 1792.** On the evening of 11 May 1792 Gray's men found a safe channel over the sand bars, and the ship *Columbia Rediviva* entered the river's estuary. Gray named the river Columbia after his ship. He was the first non-Native navigator known to enter it (HistoryLink title). The page opened names Chinook people at Grays Harbor, north of the river's mouth. Lewis and Clark's records of 1805 name the Chinook and Clatsop at the river's mouth (era 06). The US later used Gray's entry as one basis for its claim to the Oregon country (widely stated. Not in the page opened. Writers should source it before using it).
   - **Gray's attacks on Native villages, 1792.** In April 1792 Gray ordered the destruction of the Nuu-chah-nulth village of Opitsaht on Vancouver Island, about 200 houses, "a fine village, the Work of Ages" in his officer John Boit's words, "in a short time totally destroy'd". It was empty at the time. In May 1792 he ordered an attack on a Chicklisaht Nuu-chah-nulth village north of Nootka Sound, **killing seven** and seizing sea otter furs. **"Later in 1792, in Grays Harbor, Captain Gray fired on a group of Chinooks, killing 20."** In Clayoquot Sound he "killed or wounded at least 25" men approaching his ship in a war canoe at night. John Boit wrote that Gray "had let his passions go too far". In 2005 Gray's descendants formally apologized for the destruction of Opitsaht. (Wikipedia.) Grays Harbor is in present-day Washington State. Opitsaht, Clayoquot Sound and Nootka Sound are in Canada.
+
+### PATCH 2026-10-01 (T-462): Henderson's price at Sycamore Shoals and the Cherokee opposition (answers T-316 open question)
+- Wikipedia, "Treaty of Sycamore Shoals" (opened 2026-10-01): signed 14 March 1775. Henderson paid "goods worth, according to the estimates of some scholars, about 10,000 British pounds". The purchase covered about 20 million acres. Attakullakulla and Oconostota were the Cherokee leaders present (the page does not say who signed the deeds). The dissident leader Dragging Canoe refused to endorse it: "it is bloody ground, and will be dark and difficult to settle." The purchase broke Virginia and North Carolina law and the Royal Proclamation of 1763, which "prohibited private purchase of American Indian land". This fills the missing SEARCHED, NOT FOUND the era 05 Boone line points to.
+
+### PATCH 2026-10-01 (T-462): how James Boone and Henry Russell were tortured, October 1773
+- Revolutionary War 250, "10 October 1773" (https://revolutionarywar250.substack.com/p/10-october-1773, opened 2026-10-01), citing the historian Glenn F. Williams, *Dunmore's War*: the attackers (fifteen Delaware, two Cherokee and two Shawnee) "deliberately aimed at the hip in order to immobilize but leave their targets alive", then "deliberately torturing them". James Boone was seventeen. The party included John and Richard Mendenhall, Henry Russell, and the enslaved men Adam and Charles.
+- Frontier Partisans, "Murder and Vengeance on the Appalachian Frontier" (https://frontierpartisans.com/murder-vengeance-on-the-appalachian-frontier/, opened 2026-10-01): "The native raiders tortured them with knives, ripping out fingernails and toenails." (Blog, no citation on the page. The same detail is in Faragher's *Daniel Boone* (1992), from Adam's eyewitness report (search summary only).) Search summaries (rootsweb) give Henry Russell as William Russell's son.
+
+### PATCH 2026-10-01 (T-462): Robert Gray: Boit's words and Lopez
+- Wikipedia, "Robert Gray (sea captain)" (opened 2026-10-01): Boit's line that Gray "had let his passions go too far" follows the April 1792 destruction of Opitsaht, so it refers to Opitsaht (correcting the order in the era 05 Gray line). Clayoquot Sound: "Still later, in Clayoquot Sound again, Gray killed or wounded at least 25 natives who were approaching his ship in a war canoe during the night." Tillamook Bay, August 1788: "Fighting erupted with the local Tillamook people, and Marcus Lopez ... was killed" (the page names no weapon or single killer; the fight was with the Tillamook).
+
+### PATCH 2026-10-01 (T-462): who captured Jemima Boone, 1776
+- Wikipedia, "Jemima Boone" (opened 2026-10-01): "a raiding party caught three teenage girls from Boonesborough as they were floating in a canoe on the Kentucky River. They were Jemima, daughter of Daniel Boone, and Elizabeth and Frances, daughters of Colonel Richard Callaway. The Cherokee Hanging Maw led the raiders, two Cherokee and three Shawnee warriors." The rescuers came up "the third morning, as the Indians were building a fire for breakfast".
 
 ---
 
@@ -367,6 +429,19 @@ How the prose can say it: "Reubin Field stabbed one Blackfeet man to death, and 
 Sources checked: Wikipedia "Arikara War" (gives the attacking force and says the Arikara left their towns; gives no Arikara death count); "Jedediah Smith"; "William Henry Ashley".
 How the prose can say it: "No reliable count of the Arikara dead survives in the records used here." (Leave this to `war`; this chapter does not need the number.)
 
+### PATCH 2026-10-01 (T-462): era 06 small gaps (Louisiana's location, the discovery doctrine, Pike, Schoolcraft, Fremont)
+- Wikipedia, "Louisiana Purchase" (opened 2026-10-01): the territory was "most of the land in the Mississippi River's drainage basin west of the river".
+- Wikipedia, "Discovery doctrine" (opened 2026-10-01): "Discovery of territory previously unknown to Europeans gave the discovering nation title to that territory against all other European nations, and this title could be perfected by possession." Johnson v. M'Intosh (1823): "Discovery gave title to the government by whose subjects, or by whose authority, it was made, against all other European governments, which title might be consummated by possession."
+- Wikipedia, "Battle of York" (opened 2026-10-01): "a War of 1812 battle fought in York, Upper Canada (today's Toronto, Ontario, Canada) on April 27, 1813." "General Pike and 37 other American soldiers were killed by the explosion".
+- Wikipedia, "Henry Schoolcraft" (opened 2026-10-01): assigned in 1822 "to Sault Ste. Marie, Michigan, as the first US Indian agent in the region". He "renamed the headwater Lake Itasca based on the Latin words for truth (veritas) and head (caput)."
+- Wikipedia, "John C. Fremont" (opened 2026-10-01): "Fremont, who would later be known as The Pathfinder". Fourth expedition: "By December 12, on Boot Mountain, it took ninety minutes to progress three hundred yards. Mules began dying and by December 20, only 59 animals remained alive." "10 of the party had died, at least one of whom was partly eaten."
+
+### PATCH 2026-10-01 (T-462): Vendovi (Ro Veidovi): his death, his skull and its return
+- Fiji Sun, "Ro Veidovi's remains returned, interred in chiefly burial grounds at Lomanikoro" (https://fijisun.com.fj/living/culture/ro-veidovis-remains-returned-interred-in-chiefly-burial-grounds-at-lomanikoro, opened 2026-10-01): he died "in the New York Naval Hospital shortly after the expedition's return to New York Harbor in June 1842." "The expedition's surgeons removed his head for 'scientific' study." "His skull, tagged as 'Specimen 292,' became part of the founding collection of the Smithsonian Institution." His remains "were returned from the Smithsonian Institution in Washington, D.C., to his ancestral home in Rewa" and he was "laid to rest in the chiefly burial grounds at Lomanikoro" on 13 December 2025. (Search summaries add that the skull was shown first at the US Patent Office, then moved to the Smithsonian in 1856.)
+
+### PATCH 2026-10-01 (T-462): what flogging did to the body
+- Wikipedia, "Cat o' nine tails" (opened 2026-10-01): the naval whip was "designed to lacerate the skin and cause intense pain". "One blow was sufficient to take off the skin, and to draw blood wherever the knots fell." Folkestone Museum (opened): "a whip with nine strands of rope, used to punish sailors". Which whip Wilkes's men used is not in a page opened. The prose names the standard naval whip of the time.
+
 ---
 
 ## 07 · 1850 to 1900
@@ -433,6 +508,19 @@ How the prose can say it: "The three men were never seen again. Shivwits Paiute 
 
 ### PATCH 2026-09-27 (T-257r): Robert Peary, the Cape York meteorite and the six Inuit brought to New York, 1894 to 1898
 - Sources and full text: see ## 08, story `matthew-henson`, bullet "Robert Peary and the Inuit" (Wikipedia, "Robert Peary" and "Minik Wallace", both opened 2026-09-27). Placed here by the boundary rule: the meteorite was reached in 1894 and the six Inuit arrived in New York in September 1897. Four died of tuberculosis by 1898, starting with Qisuk on 17 February 1898. The museum staged a fake burial for Qisuk's son Minik and exhibited Qisuk's skeleton. `science` and `native-nations` may also want this (see TO PARK).
+
+### PATCH 2026-10-01 (T-462): the Tukudika removal: who did it (copied)
+- Copied from `research/research-land-environment.md` era 07: Yellowstone superintendent Philetus W. Norris (1877 to 1882) found a recently left Tukudika camp near Bunsen Peak in the fall of 1879. Historian Mark David Spence (*Dispossessing the Wilderness*, Oxford, 1999): "Norris turned for help to the agent at Fort Washakie, who responded by sending a party of Shoshone to escort the Tukudika to new homes on the Wind River Reservation."
+
+### PATCH 2026-10-01 (T-462): Sand Creek, the fuller count (copied, DECISIONS #36)
+- Copied from `research/research-war.md` PATCH T-259b and the native-nations bank era 7: about 675 volunteer soldiers under Chivington attacked Black Kettle's Cheyenne and Arapaho camp, which flew a US flag and a white flag; about 230 killed, mostly women, children and elders (NPS). Soldiers took scalps and body parts from the dead (The Conversation, Stratton 2016, on Soule's letters). The `war` and `native-nations` prose tells it this way, so this chapter names the same harms beside its 70 to 163 figure.
+
+### PATCH 2026-10-01 (T-462): how Private Henry was executed (answers T-316 open question)
+- Nunatsiaq News, Kenn Harper, "Taissumani: The execution of Private Henry" (https://nunatsiaq.com/stories/article/taissumani-june-12/, opened 2026-10-01): Greely's written order: "Private Henry will be shot to-day, all care being taken to prevent his injuring any one, as his physical strength is greater than that of any two men. Decide the manner of death by two ball and one blank cartridge. This order is imperative, and absolutely necessary for any chance of life." Brainard, Long and Frederick carried it out, at 2 p.m. on 6 June 1884. Wikipedia, "Lady Franklin Bay Expedition" (opened): David L. Brainard, Francis Long, Julius Fredericks (member list, spelling); Henry "executed on Greely's order for repeated theft of food". (The Arctic journal article, Arctic 64:4, 2011, "An Arctic Execution", gives Henry's real name as Charles Henry Buck: search summary only.)
+
+### PATCH 2026-10-01 (T-462): Minik, Qisuk and the museum (answers T-316 open question in part)
+- Wikipedia, "Minik Wallace" (opened 2026-10-01): "In 1896, ethnologist Franz Boas requested from Robert Peary to invite an Inuk person from Northern Greenland to the American Museum of Natural History, where Boas was curator". The four who died of tuberculosis at Bellevue Hospital in 1898: Qisuk (17 February), Atangana and Nuktaq (March or April), Aviaq (24 May). "The curatorial staff wanted to preserve Qisuk's body for study ... They staged a fake burial for Minik's benefit: filling a coffin with stones for weight, and placing a stuffed 'body' covered with a cloth on top." "The staff sent Qisuk's body to William Wallace's estate ... There, he had a workshop for processing the skeletons of specimens. Qisuk's remains were de-fleshed, and the skeleton was eventually mounted on an armature and returned to the museum for display." Wallace, the museum's building superintendent, adopted Minik. Uisaakassak "demanded a return to Greenland ... and was given passage on the Windward on July 2" 1898. "About 1906, New York papers published a story that stated Qisuk's skeleton was displayed in the museum. Minik was shocked to learn of this through classmates' comments". "In 1993, Harper succeeded in having the Inuit remains returned. In Qaanaaq, he witnessed the Inuit funeral ceremony for the remains of Qisuk and the three" others.
+- **Names of the staff who staged the burial:** no opened page names the individuals beyond "the curatorial staff" (Boas was the curator; a search summary says "Boas had museum staff stage a funeral", unconfirmed). SEARCHED, NOT FOUND for individual names. Prose names Boas only for the 1896 request and Wallace for the skeleton.
 
 ---
 
@@ -549,6 +637,11 @@ Sources opened 2026-09-27 (T-257r) unless marked. Wikipedia pages read as plain 
 
 ### Territories, 1959 (framing note)
 - Hawaii and Alaska became states in 1959 (pre-T-257 Territories line gives Hawaii 1959). `america-world` owns statehood. Not re-sourced here; not used in the outline.
+
+### PATCH 2026-10-01 (T-462): era 09 small gaps (Tereshkova, Bluford, the Bismarck)
+- Wikipedia, "Valentina Tereshkova" (opened 2026-10-01): "She was the first woman in space, having flown a solo mission on Vostok 6 on 16 June 1963."
+- Wikipedia, "Guion Bluford" (opened 2026-10-01): "Bluford's first mission was STS-8, which launched from Kennedy Space Center, Florida, on August 30, 1983."
+- Wikipedia, "German battleship Bismarck" (opened 2026-10-01): "the first of two Bismarck-class battleships built for Nazi Germany's Kriegsmarine"; sunk "27 May 1941 in the North Atlantic"; "The wreck was located in June 1989 by Robert Ballard".
 
 ---
 

@@ -4699,9 +4699,11 @@ CHECKPOINT: control/checkpoints/F5-immigration.md
 VERIFY: python tools/project_state.py --check immigration --stage prose
 
 ### 2026-10-01 | [LOCAL] T-462 | exploration: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-exploration.md
 VERIFY: python tools/project_state.py --check exploration --stage prose
+RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=35 (verified 35) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21091w files=3 validator_errors=0
+        494582 tokens, 332 tool uses, 26.6 min (opus). FIXER whole chapter [WAVE6M]: 241 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 9 found by fixer; 5 of 6 T-316 questions answered; Peary 'deceived', Tiguex rape (#31), Sand Creek (#36), slur removed (#35); 20,180 -> 22,278 words
 
 ### 2026-10-01 | [LOCAL] T-463 | styles: FIXER opus, whole chapter [WAVE6M] | model opus
 STATUS: IN-FLIGHT
