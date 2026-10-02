@@ -4801,3 +4801,8 @@ VERIFY: python tools/project_state.py --check war --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+
+### 2026-10-02 | [LOCAL] T-475 | government-politics: FIXER opus, whole chapter [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-government-politics.md
+VERIFY: python tools/project_state.py --check government-politics --stage prose
