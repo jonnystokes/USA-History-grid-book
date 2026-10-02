@@ -108,3 +108,12 @@ Eras with no findings: none. Passes that found nothing: Pass 6 punctuation (no e
 `python tools/project_state.py --punct manuscript/crime-justice/part2-1800s.md`:
 
     manuscript/crime-justice/part2-1800s.md: emdash=0 semicolon=0
+
+## Light pass for DECISIONS #28-38 (T-476, step 5 fixer, 2026-10-02)
+Old findings were not re-judged. Changes made:
+- #37: thirteen bare parenthesis cites turned into plain sentences or clauses (Cherokee Phoenix, Brox and Smithsonian, DPIC, UMSL, City of Boston, EJI, Minnesota Historical Society, Village Preservation, WyoHistory.org, Curtin, PBS x2, HISTORY.com, New York Sun and Wells, BlackPast).
+- #37 / #21: seven "The sources do not ..." lines (a search-side form) changed to the record-side "No record names ...".
+- #28 rule 7: "indictments", "indemnity", "detention building", "specified", "inherited", "possession", "publicly funded" replaced by plain words. "tolerated" became "let the killings happen".
+- Claim about "many historians" (draft riots, NYHS) restated as the article's own statement that the true number was likely higher.
+- Not changed: Myrtle Vance "sexually attacked" stays, because the bank does not give the newspapers' own word, so "rape" (#31) cannot be confirmed for this passage.
+Validator 0 errors, punct 0/0. Words 6144 -> 6251 (wc -w).

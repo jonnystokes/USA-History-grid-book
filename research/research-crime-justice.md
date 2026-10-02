@@ -245,6 +245,15 @@ quoting Kessell.
   it was done to each man.)
 - Oñate's own trial (1612-1614) is era 3.
 
+### PATCH 2026-10-02 (T-476): Acoma, the harms native-nations states (copied from the native-nations bank, DECISIONS #36)
+Copied from `research/research-native-nations.md`, Acoma section, with its sources:
+- All Pueblo Council of Governors, press release, 6 October 2023 (puebloofacoma.org): the January 1599 attack "killed 800 Acoma men, women, and children."
+- The elderly were sentenced to be enslaved to the Plains Apache (EBSCO, "Battle of Acoma").
+- Oñate declared the children under 12 innocent, and still had them taken from their families and given to the friars (Carlson 2008, p. 20, citing the trial record).
+- PBS POV: the children were sent to Mexico to be raised by missionaries, "but some scholars believe they were eventually sold on the slave market."
+- Marc Simmons wrote in *The Last Conquistador* (1991) that the amputations took place, and later came to doubt it. John L. Kessell doubts it too (Sherry Robinson column, 14 October 2023, quoting both).
+- Oñate's fine in 1614 was 6,000 Castilian ducats (Carlson; TSHA; Oklahoma Historical Society). A ducat was a Spanish coin.
+
 ### Matanzas, 1565: not told here
 Pedro Menéndez de Avilés had about 245 surrendered French Protestants killed in September and
 October 1565 with no trial (NPS Fort Matanzas handbook: 111 then 134, 16 spared each time; Chuck
@@ -503,6 +512,35 @@ settled. No Acoma person was asked to testify at his trial in any source read (n
   debtors, and the prison as punishment "was invented in the United States in the 1790s." These support
   the era 3 zoom sentence.
 
+### PATCH 2026-10-02 (T-476): Ratcliffe's sentence was carried out, and Chickatabut paid
+- John Winthrop, *Winthrop's Journal "History of New England" 1630-1649*, ed. James Kendall Hosmer
+  (Original Narratives of Early American History, 1908), vol. 1, entry for June 14, 1631, read from the
+  archive.org text (https://archive.org/details/winthropsjournal00wint): "At this court one Philip
+  Ratcliff, a servant of Mr. Cradock, being convict, ore tenus, of most foul, scandalous invectives
+  against our churches and government, was censured to be whipped, lose his ears, and be banished the
+  plantation, which was presently executed." ("Presently" in 1631 meant at once.) Same entry:
+  Chickatabot "was ordered to pay a small skin of beaver, which he presently paid." Hosmer's note calls
+  the punishment's barbarity "very shocking" (editor's judgment, not used). Neither Winthrop nor the
+  court record says who cut the ears or how.
+
+### PATCH 2026-10-02 (T-476): the Quakers' ears, 1658, reconciled with the religion bank (AUDIT-QUEUE item)
+- George Bishop, *New England Judged* (1661), as quoted in `research/research-religion.md` era 3: on
+  16 September 1658 "the Marshal's deputy came to the prison with a group of men, shut the door, and had
+  the right ear of each of the three cut off." Bishop does not say which man cut, and does not name the
+  tool. **Correction to the T-265r PATCH above:** "the hangman's deputy cut off" overstates Bishop. The
+  prose now follows Bishop's wording, as `religion` part 1 does.
+
+### PATCH 2026-10-02 (T-476): Rebecca Nurse's excommunication, and the 1957 apology
+- Salem Witch Museum, "Site of the Meetinghouse of the First Church in Salem"
+  (https://salemwitchmuseum.com/locations/first-church-of-salem-meetinghouse-site-of/, read 2026-10-02):
+  "Reverend Nicholas Noyes oversaw the excommunication of Rebecca Nurse. On July 3, Nurse was taken to
+  the meetinghouse and publicly excommunicated in front of the elders of the church, 'by unanimous vote.'"
+- Wikipedia, "Ann Pudeator" (read 2026-10-02): "Pudeator was exonerated in 1957 by the Massachusetts
+  General Court," the state's lawmakers. So the 1957 apology was made by Massachusetts lawmakers.
+- Pillory: the Britannica main-site line on "verbal and physical abuse" could not be opened (403,
+  2026-10-02). The prose uses only the Britannica Student words read with curl ("public scorn and
+  ridicule," "bodily discomfort").
+
 ### PATCH 2026-09-27 (T-265r): Sarah Good and her daughter
 - UVA Salem Witch Trials Documentary Archive, "Sarah Good" (https://salem.lib.virginia.edu/people/good.html,
   curl 2026-09-27): condemned, then reprieved until her child was born. "Good's infant died in prison with
@@ -658,6 +696,17 @@ who enforced the law and how the courts worked, and does not repeat those spans.
   the outline. The outline's "historians still disagree whether any plot existed" rests on Linder ("grave
   questions about the contours of the suspected conspiracy") and on the Salem comparison in the
   slavery-freedom bank.
+
+### PATCH 2026-10-02 (T-476): Cuffee's owner was Adolph Philipse, and the jury's verdict
+- Horsmanden, *Journal*, trial of Quack and Cuffee, Famous Trials transcription
+  (https://famous-trials.com/newyorkplot/354-journalcuffee, WebFetch 2026-10-02): "Adolph Philipse,
+  Esq. (Cuffee's master) said, that all he could declare about him was, 'that the afternoon his
+  nephew's (col. Philipse's) storehouse was on fire...'" **Correction to the line above:** Cuffee was
+  enslaved by Adolph Philipse, not by the judge Frederick Philipse. Whether the "col. Philipse" who was
+  Adolph's nephew is the judge is not stated on this page.
+- Verdict: the jury, "being soon returned, found the prisoners guilty of both indictments."
+- Reprieve: "his honour's directions for the reprieve being conditional and discretionary, for these
+  reasons the execution proceeded." The journal does not name who lit the fire.
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-265r): a named ordinary defendant at a Virginia or Maryland county court day, 1700-1750
 Sources checked: Encyclopedia Virginia county formation and convict labor entries (no individual cases);
@@ -851,6 +900,37 @@ unconfirmed: search summary only. `marketplace` tells the shooting. This chapter
   Neagle, *Pat Lyon at the Forge* (1826-27). Avery dates the painting 1829 and credits the Pennsylvania
   Academy of the Fine Arts. **Sources differ on the painting's date (1826-27 vs 1829).**
 - Movie: none found.
+
+### PATCH 2026-10-02 (T-476): "To Counterfeit is Death" (copied from the money bank)
+- `research/research-money.md` era 5: colonial bills carried the warning "To Counterfeit is Death";
+  counterfeiting was a capital crime (The Conversation, on the Notre Dame study in PNAS 2023; LOC Franklin
+  exhibition). The money bank's plain meaning of Sullivan's brand: "the letter C, for counterfeiter."
+
+### PATCH 2026-10-02 (T-476): the soldiers' branding, 14 December 1770, confirmed
+- J. L. Bell, "Sentenced and Punished for the Boston Massacre," *Boston 1775* (blog, 14 Dec 2020,
+  https://boston1775.blogspot.com/2020/12/sentenced-and-punished-for-boston.html, curl 2026-10-02),
+  quoting the *Boston Gazette* of 17 December 1770: "Friday last [14 December] Kilroy and Montgomery, who
+  were convicted of Manslaughter, at the late Superior Court held here, were branded in the Hand in open
+  Court, and discharged." This confirms the "unconfirmed" Founders Online summary above.
+- Same post, quoting John Adams in 1822 (Josiah Quincy's *Memoir*, published by the Quincy family): "I
+  never pitied any men more than the two soldiers who were sentenced to be branded in the hand for
+  manslaughter. ... when the sheriff [Stephen Greenleaf] approached to perform his office, they burst into
+  tears." So Sheriff Stephen Greenleaf did the branding (the bracketed name is Bell's).
+- J. L. Bell, "The Disadvantage of the Benefit of Clergy," *Boston 1775*, 8 Dec 2020: those who pleaded
+  the benefit were "branded on the base of their thumbs." Bell: "the court record is explicit about the
+  soldiers being 'burnt in the hand.' It's not explicit about the letter." (So the letter M stays unused.)
+
+### PATCH 2026-10-02 (T-476): Patrick Lyon, details from Avery's page (re-read)
+- Ron Avery, "America's First Bank Robbery," Carpenters' Company (curl 2026-10-02): changing the vault
+  locks was "a rush job"; Lyon told Robinson (the bank's carpenter) and others "the doors were not proper
+  for a bank and the locks were insecure"; Robinson visited Lyon's shop "with the stranger, who turned out
+  to be Davis," who "spent a good deal of time examining the doors, keyholes and locks." On hearing he was
+  a suspect, "Lyon immediately headed back to Philadelphia to clear his name." "Bank officials were certain
+  that the man who changed the locks had made an extra key." In prison: "I read until I was tired and
+  walked until I was weary." After Davis's confession "the bank and law officers stubbornly insisted that
+  Lyon was involved in making a false key to the vault."
+- Conestoga: the workhouse was "a building where poor people were made to work" is the plain dictionary
+  meaning (no source names its use at Lancaster beyond Goode's "workhouse").
 
 ### The Bill of Rights, 1791 (lawmaking is `government-politics`'; the accused's side is here)
 - National Archives, "The Bill of Rights: A Transcription" (https://www.archives.gov/founding-docs/bill-of-rights-transcript,
@@ -1140,6 +1220,25 @@ How the prose can say it: leave the trials out, or "Few of the rioters were ever
 ### PATCH 2026-09-27 (T-265b, bank check): whose land Tulsa and Osage County were
 - Tulsa: much of the city lies inside the Muscogee (Creek) Reservation, which the US Supreme Court held in *McGirt v. Oklahoma* (9 July 2020) was never ended by Congress (parked `native-nations` note at the top of this bank, citing the slip opinion 18-9526). Greenwood grew on land in the Creek Nation (the DOJ report notes Native nations were forcibly removed to the area: "Ross, THE COMMISSION REPORT, at v-vi"). Prose for era 8 does not need this, but a writer who mentions the land should say it was Muscogee (Creek) land.
 - Osage County, Oklahoma, is the Osage Nation's reservation (OHS "Osage Murders"; `native-nations`).
+
+### PATCH 2026-10-02 (T-476): era 8 facts copied from other banks or confirmed
+- **Tulsa camps (copied from `research/research-rights-movements.md` era 8, PATCH "the Tulsa Race
+  Massacre", DOJ 2025 pp. 48-49, DECISIONS #36):** police, special deputies and guardsmen arrested Black
+  residents "regardless of whether they were suspected of committing acts of violence"; "detention was not
+  based on probable cause or even reasonable suspicion." Camps at Convention Hall, McNulty Park (a baseball
+  park) and the Tulsa fairgrounds, under armed guard, held between 4,000 and 6,000 people at their fullest.
+- **Teapot Dome (copied from `research/research-government-politics.md`, PATCH T-258r):** on 25 October
+  1929 Fall "was found guilty of accepting a bribe from Doheny" (history.com). Doheny was acquitted of
+  paying that bribe (Wikipedia, wyohistory.org).
+- **Prohibition (copied from `research/research-drugs-alcohol.md`, "National Prohibition, 1920 to 1933"):**
+  the Eighteenth Amendment took effect 17 January 1920 and banned making, selling and transporting
+  alcoholic drinks; national Prohibition ran 1920 to 1933.
+- ***Brown v. Mississippi*, 297 U.S. 278 (Cornell LII, WebFetch 2026-10-02):** "Petitioners were indicted
+  for the murder of one Raymond Stewart, whose death occurred on March 30, 1934." Indicted and arraigned 4
+  April, tried 5-6 April 1934.
+- **Scottsboro (Daren Salter, *Encyclopedia of Alabama*, WebFetch 2026-10-02):** "When the train stopped
+  just outside the town of Paint Rock, local police and a mob apprehended nine African Americans ranging
+  in age from 13 to 20."
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-265b): who killed Dr. A. C. Jackson in Tulsa, and whether anyone was charged with any of the Tulsa killings
 Sources checked: DOJ 2025 review (Jackson shot by "a young white man wearing a white shirt and cap," unnamed; no one charged with any killing; white men charged only with looting, none imprisoned); Ellsworth, OHS (no whites imprisoned); money bank PATCH.
@@ -1525,6 +1624,19 @@ Copied from `research/research-rights-movements.md` era 9 (parked here by T-262 
   newspapers calling for the death penalty (the ad named no defendant). Released: Santana 1995,
   McCray 1996, Salaam and Richardson 1997, Wise August 2002.
 
+### PATCH 2026-10-02 (T-476): era 9 details confirmed (Till's store, Diallo's death, Michael Stewart)
+- Wikipedia, "Emmett Till" (API extract, 2026-10-02): the market "was owned by a white couple, 24-year-old
+  Roy Bryant and his 21-year-old wife Carolyn."
+- Wikipedia, "Killing of Amadou Diallo" (API extract, 2026-10-02; the article title was moved from
+  "Shooting of"): Diallo, 23, unarmed, "was struck with 19 of 41 rounds" and was killed.
+- Michael Stewart (copied from the art bank's parked line, Wikipedia "Death of Michael Stewart"; API extract
+  read 2026-10-02): "He was beaten unconscious. He was hogtied, bound at the ankles and tethered
+  hands-to-feet by an elastic strap." He was taken to Bellevue Hospital in a coma. "The cause of death was
+  listed as cardiac arrest." Medical examiner Elliot M. Gross "had three separate findings": later "a spinal
+  cord injury in the upper neck," then "blunt-force trauma." "Doctors hired by Stewart's family ... found
+  that the cause of death was strangulation. Gross said there was no evidence of strangulation." Gross was
+  fired in 1987. The page does not name which officers struck him.
+
 ### PATCH 2026-09-27 (T-265c): lethal injection defined (policy 3b)
 - **DPIC, "Lethal Injection"** (deathpenaltyinfo.org/executions/methods-of-execution/lethal-injection,
   opened): "The first lethal injection execution occurred in Texas on December 7, 1982." Most
@@ -1756,6 +1868,28 @@ tells the shootings; this chapter tells the prosecutions.
   of **$105 million** in assets by **1 June 2026**: $24 million housing, $60 million buildings and
   blight, $21 million legacy fund (land, scholarships, small-business grants). KOLUMN: the plan "did
   not include direct cash payments to the last known survivors."
+
+### PATCH 2026-10-02 (T-476): era 10 ages, deaths and names confirmed
+Wikipedia lead sections read through the API on 2026-10-02:
+- "Killing of Michael Brown": "18-year-old Michael Brown was shot and killed by police officer Darren Wilson."
+- "Killing of Eric Garner": "Eric Garner, a 43-year-old African American man, was killed."
+- "Killing of Breonna Taylor": "a 26-year-old African-American medical worker, was killed."
+- "Murder of George Floyd": "George Floyd, a 46-year-old Black American man, was murdered by Derek Chauvin."
+- "Killing of Tyre Nichols": "a 29-year-old black American man, was fatally injured ... and died three days later."
+- "Killing of Tamir Rice": "a twelve-year-old African-American boy, was killed"; the caller reported a male with
+  a gun "at the Cudell Recreation Center, a park in Cleveland's Public Works Department."
+- "Bob Menendez": represented New Jersey in the Senate 2006-2024; convicted in 2024 of, among other counts,
+  conspiracy to act as a foreign agent.
+- "Danziger Bridge shootings": "On September 17, 2013 ... Judge Engelhardt vacated the convictions of Bowen,
+  Faulcon, Gisevius, Villavaso and Kaufman, and ordered a new trial," citing "highly unusual, extensive and
+  truly bizarre actions" by prosecutors.
+- "Effects of Hurricane Katrina in New Orleans": Roland J. Bourgeois Jr., "55, of Algiers Point was sentenced
+  to 10 years in prison for shooting three black men who were trying to flee the area."
+- Uvalde school name: `research/research-education.md` cites the DOJ COPS *Critical Incident Review: Active
+  Shooter at Robb Elementary School* (18 January 2024).
+- Proclamation 10887 (govinfo DCPD-202500112, in the government-politics park above) is titled "Granting
+  Pardons and Commutation of Sentences for Certain Offenses Relating to the Events at or Near the United States
+  Capitol on January 6, 2021."
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-265c): whether the Greenwood Trust reached $105 million by 1 June 2026
 Sources checked: City of Tulsa Greenwood Trust page and 1 June 2025 release (goal only); search

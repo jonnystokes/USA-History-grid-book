@@ -4810,9 +4810,11 @@ CHECKPOINT: control/checkpoints/F5-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
 
 ### 2026-10-02 | [LOCAL] T-476 | crime-justice: FIXER opus, whole chapter [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+RESULT: DONE. PASS  crime-justice / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=25703w files=3 validator_errors=0
+        474429 tokens, 163 tool uses, 21.0 min (opus). FIXER parts 1,3 + light pass part2 [WAVE7G]: 198 FIXED, 21 REJECTED, 0 NEEDS-RESEARCH, 13 found by fixer; Acoma #34/#36; Springfield, Knox, Stewart told plainly; Philipse corrected; 25,111 -> 27,102 words
 
 ### 2026-10-02 | [LOCAL] T-478 | religion: FIXER opus, part1 only [WAVE7G] | model opus
 STATUS: DONE
