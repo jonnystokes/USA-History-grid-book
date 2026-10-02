@@ -42,7 +42,7 @@ In the Eastern Woodlands, the forests of the eastern part of the continent, many
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-Few European families lived on this land in the 1500s. Most of the Europeans who came were soldiers, priests and sailors. Native households went on living in their own towns. The European newcomers carried diseases that Native people had never had before. Those diseases made Native people sick and killed many of them. At St. Augustine in Florida, many Spanish soldiers married Native women, so many households there mixed the two peoples.
+Few European families lived on this land in the 1500s. Most of the Europeans who came were soldiers, priests and sailors. Native households went on living in their own towns. The European newcomers carried diseases that Native people had never had before. Those diseases made Native people sick and killed many of them. About 200,000 Timucua people lived in what is now northern Florida and southern Georgia before the Spanish came. After one outbreak of disease after another, only about 2,000 were left by the 1650s. No record counts how many died in the 1500s alone. At St. Augustine in Florida, many Spanish soldiers married Native women, so many households there mixed the two peoples.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="St. Augustine, built in Seloy's town" -->

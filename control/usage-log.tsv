@@ -432,3 +432,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-484	research	general-purpose/opus	[LOCAL] native/war group round 2	?	?	?	318944	189	982222	?	completed	PASS x4
 2026-10-02	T-485	research	general-purpose/opus	[LOCAL] law/rights group round 2	?	?	?	317088	237	1136254	?	completed	PASS x6
 2026-10-02	T-487	research	general-purpose/opus	[LOCAL] economy group round 2	?	?	?	302118	203	1051925	?	completed	PASS x10
+2026-10-02	T-488	research	general-purpose/opus	[LOCAL] last round-2 group	?	?	?	316234	205	985712	?	completed	PASS x10

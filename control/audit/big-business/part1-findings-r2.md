@@ -46,7 +46,7 @@
 
 By severity: BLOCKING 7 (rows 4, 13, 14, 15, 18, 23, 26). MAJOR 1 (row 27). MINOR 31. Total 39.
 
-By rule: Not in bank 11 (rows 4, 5, 6, 12, 13, 14, 15, 18, 23, 26, 29, 35 counts as 12 including 35). Reader (long sentence or big words or first use) 14 (rows 1, 2, 7, 8, 11, 17, 19, 22, 28, 31, 36, 39, 21 partly). Passives with a Missing or False Agent 2 (27, 34). Contrastive Negation 2 (3, 37). Register Breaks 2 (25, 38). Other single rows: Personification 1, Reification 1, Claims That Can Be Checked 2, Teaching Point 1, Metadiscourse 1, Anaphora 1, Hard subjects 2.
+By rule: Not in bank 12 (rows 4, 5, 6, 12, 13, 14, 15, 18, 23, 26, 29, 35). Reader (long sentence, big words, first use) 12 (rows 1, 2, 7, 8, 11, 17, 19, 22, 28, 31, 36, 39). Passives with a Missing or False Agent 2 (27, 34). Contrastive Negation 2 (3, 37). Register Breaks 2 (25, 38). Other single rows: Personification 1, Reification 1, Claims That Can Be Checked 2, Teaching Point 1, Metadiscourse 1, Anaphora 1, Hard subjects 2.
 
 Eras with no findings: none. Era 1 and 2 have only MINOR rows and one BLOCKING in era 2. Passes 3 to 6 on em dashes, semicolons, markers, `status="verified"`, `progress="written"`, and records outside `hb-story` found nothing.
 
@@ -55,4 +55,5 @@ Eras with no findings: none. Era 1 and 2 have only MINOR rows and one BLOCKING i
 `python tools/project_state.py --punct manuscript/big-business/part1-before-1800.md`:
 manuscript/big-business/part1-before-1800.md: emdash=0 semicolon=0
 
-`node tools/validate_grid.js manuscript/big-business/part1-before-1800.md --part`: see below.
+`node tools/validate_grid.js manuscript/big-business/part1-before-1800.md --part`:
+=== part1-before-1800.md : 1 chapters, 3 stories, 0 errors

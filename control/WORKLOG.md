@@ -4908,8 +4908,9 @@ CHECKPOINT: control/checkpoints/R5-economy.md
 USAGE AT START: 85% (Jon). Round-2 wave T-484..T-486 measured 68->85 = 17% for 3.
 AGENT: ac7036ad9de7e62a9 (T-487)
 
-### 2026-10-02 | [LOCAL] T-488 | last round-2 group (10 chapters) | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. last round-2 group: 15 items; Sims infants from his own texts, Vanderbilt from Craft v. Vanderbilt, Timucua counts, Alamo, Seneca Village (Mayor Wood), Kake names Rebecca Poulson, Palisades refreshed; 10/10 PASS. 316,234 tokens, 205 tools, 16.4 min (opus). STEP 4 COMPLETE.
 CHECKPOINT: control/checkpoints/R6-rest.md
 ### 2026-10-02 | [LOCAL] STEP 6 (second audit) begins in parallel on the other 27 chapters: sonnet checkers T-489.., queue in scratch a6queue.txt, findings to control/audit/<slug>/<partN>-findings-r2.md, progress `python tools/audit2.py`. Budget (Jon): stay under 90% (start 4%).
 AGENTS: T-488 a13e35f4bb31698e2 (R-6). Step 6 checkers T-489..T-507 launched (19); refill from a6queue.txt as they finish; stop launching near 80% usage. Next to launch: T-508 food-farming part2.
+### 2026-10-02 | [LOCAL] STEP 4 (research round 2) COMPLETE: R-1, T-484..T-488, all chapters PASS.

@@ -1226,6 +1226,9 @@ army-history magazine, label it).
   - The article gives no count of people killed at Kake, Wrangell or Angoon, and does not
     name the commanding officers.
 
+### PATCH 2026-10-02 (T-488): Kake, the historian named (DECISIONS #32)
+- The word "accidental" for the two Kake deaths comes from Rebecca Poulson's Alaska Historical Society article (entry above: "refused to compensate relatives for accidental deaths of two men from Kake"). KTOO 2024 says only that an army sentinel killed them. The prose now names Poulson as the source of "accidental."
+
 ### PATCH 2026-10-01 (T-459): Kake 1869, who ordered it and what it cost
 - KTOO public radio (Juneau), "US Navy apologizes for burning and bombarding the village of
   Kake in 1869," 25 Sept 2024 (journalism, labeled; read directly,
