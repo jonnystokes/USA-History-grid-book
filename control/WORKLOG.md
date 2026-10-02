@@ -4737,9 +4737,11 @@ RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10
         435117 tokens, 233 tool uses, 19.0 min (opus). FIXER whole chapter [WAVE8L]: 258 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+3 listed), 9 found by fixer; reversed facts and softenings fixed; 20,226 -> 21,707 words
 
 ### 2026-10-02 | [LOCAL] T-466 | slavery-freedom: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=24 (verified 24) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20755w files=3 validator_errors=0
+        473144 tokens, 287 tool uses, 25.1 min (opus). FIXER whole chapter [WAVE8L]: 260 FIXED, 16 REJECTED, 3 NEEDS-RESEARCH (+3 listed), 9 found by fixer; 1790 census and 1811 count settled; #31/#32 applied; 20,037 -> 22,116 words
 
 ### 2026-10-02 | [LOCAL] T-467 | sports-play: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: DONE
