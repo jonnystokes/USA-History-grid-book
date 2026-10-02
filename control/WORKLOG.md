@@ -4805,9 +4805,11 @@ RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/1
         403419 tokens, 131 tool uses, 19.7 min (opus). FIXER parts 2-3 + light pass part1 [WAVE7G]: 134 FIXED, 8 REJECTED, 1 NEEDS-RESEARCH, 21 found by fixer; Bear River, Marias added; Mankato/Crazy Horse/Joseph actors named; Hale, Clearwater, Lamont named; 17,819 -> 19,698 words
 
 ### 2026-10-02 | [LOCAL] T-475 | government-politics: FIXER opus, whole chapter [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-government-politics.md
 VERIFY: python tools/project_state.py --check government-politics --stage prose
+RESULT: DONE. PASS  government-politics / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=25690w files=3 validator_errors=0
+        417328 tokens, 191 tool uses, 21.7 min (opus). FIXER parts 1-2 + light pass part3 [WAVE7G]: 152 FIXED, 7 REJECTED, 1 NEEDS-RESEARCH, 25 found by fixer; Klan record restored; T-333 gaps closed (2000/2020, Giuliani, impeachments); 25,541 -> 27,236 words
 
 ### 2026-10-02 | [LOCAL] T-476 | crime-justice: FIXER opus, whole chapter [WAVE7G] | model opus
 STATUS: DONE

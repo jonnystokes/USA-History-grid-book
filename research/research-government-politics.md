@@ -3007,3 +3007,178 @@ Full text and sources are in `research/research-storytelling-evolution.md`, ERA 
 ## Parked from `money` (2026-09-27, T-308)
 Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
 - crime-justice / government-politics: Czolgosz shot McKinley Sept 6, 1901 (Miller Center), research-money.md era 7 PATCH.
+
+### PATCH 2026-10-02 (T-475): Era 1, which scholars disagree about the Great Law's influence on the Constitution
+
+- TeachingHistory.org (Roy Rosenzweig Center for History and New Media, George Mason University), "Iroquois and the Founding Fathers", https://teachinghistory.org/history-content/ask-a-historian/24099, fetched 2026-10-02:
+  Bruce Johansen and Donald Grinde support the influence thesis; Johansen: colonists "drew freely on the image of the American Indian as an exemplar of the spirit of liberty they so cherished." The anthropologist Elisabeth Tooker opposes it: "European political theory and precedent furnished the models for American Founders, while evidence for Indian influence was very thin." Tooker's article: "The United States Constitution and the Iroquois League," *Ethnohistory* 35 (1988), 305-336; Johansen replied in *Ethnohistory* 37 (1990), Tooker's rejoinder in the same volume.
+- Wikipedia, "Donald A. Grinde Jr." (search result text, 2026-10-02): Grinde and Johansen argue that the framers "understood and admired Native American government structures, and borrowed certain indigenous concepts for their own governments." (Wikipedia only; the TeachingHistory page above confirms the two men's side of the debate.)
+
+### PATCH 2026-10-02 (T-475): Era 3, Acoma 1599, the harms and the sentences (copied from research-native-nations.md, with its sources)
+
+DECISIONS #36: a chapter that mentions Acoma names the same harms `native-nations` tells. Copied from
+`research/research-native-nations.md`, the Acoma section ("The number of Acoma killed", "3. The trial
+and the sentences, February 1599"):
+- January 1599: Vicente de Zaldívar led about seventy soldiers up the mesa; over two or three days
+  they killed Acoma men, women and children, took the town and burned much of it (native-nations bank
+  and prose, era 3).
+- No count of the dead was made at the time. Named estimates run from about 300 (New Mexico Office of
+  the State Historian) to about 1,500 (National Park Service, "Acoma Pueblo: Ancient City in the
+  Sky"); about 800 is the figure most often repeated and the one the All Pueblo Council of Governors
+  uses (press release, Oct. 6, 2023). PBS POV gives about 200 survivors of nearly 2,000.
+- The sentences (Carlson 2008 p. 20, citing the trial record; EBSCO "Battle of Acoma"; NLM Native
+  Voices): men over 25, one foot cut off and twenty years of personal servitude; males 12 to 25 and
+  females over 12, twenty years of servitude; the elderly handed to the Plains Apache as slaves
+  (EBSCO); children under 12 declared innocent and taken from their families and given to the friars;
+  NPS: "Some 70 Acoma girls under the age of 12 were sent down El Camino Real and placed in convents
+  across Mexico," and "in all probability, none ever returned home." Two Hopi men captured in the
+  fighting: right hand cut off, then released to carry word of the punishment (Carlson p. 20, citing
+  Hammond and Rey 1953 p. 477; EBSCO).
+- Whether the feet were cut off (native-nations bank, "4. Was the mutilation carried out?"): the
+  Acoma oral account, reported by the New York Times in 1998, says the right feet of 24 captive men
+  were cut off. Marc Simmons (*The Last Conquistador*, 1991) first wrote that the amputations took
+  place and later came to doubt it; John L. Kessell doubts it too: "the historical record makes no
+  mention of a one-footed Acoma slave" (quoted by Sherry Robinson, column, Oct. 14, 2023).
+
+### PATCH 2026-10-02 (T-475): Era 3, is Pory's report the only record of the 1619 assembly? SEARCHED, NOT CONFIRMED
+
+- A search-result summary (attributed to the History of Parliament's Pory entry and the
+  Jamestown-Yorktown Foundation article "'Master Pories parlement business'") says Pory's report
+  "survives to this day in the National Archives, Kew" and "is the sole account of the proceedings"
+  **(unconfirmed: search summary only)**. Both pages refused this fetcher (401 and 403); Wikipedia's
+  Pory article does not say it. Until confirmed, prose says only that Pory wrote the record (the bank's
+  wording), not that no other record survives.
+
+### PATCH 2026-10-02 (T-475): Era 4, Zenger: who arrested him, the Gazette, the Journal's attacks, the burning order
+
+- Historical Society of the New York Courts, "Crown v. John Peter Zenger, 1735",
+  https://history.nycourts.gov/case/crown-v-zenger/, fetched 2026-10-02:
+  "When New York's Chief Judge Lewis Morris issued a dissenting opinion in the 1733 case of Cosby v.
+  Van Dam, Governor William Cosby summarily removed Morris from office." "The New York Gazette was
+  founded in 1725 and for many years was the Province's only newspaper." In the Journal, writers
+  "accused the Cosby administration of tyranny and violation of the people's rights" with "articles,
+  satire and lampoons." On November 17, 1734, "the sheriff arrested Zenger and took him to New York's
+  Old City Jail," on a warrant issued by Chief Justice De Lancey and Justice Philipse, "Cosby's allies
+  on the court." The Governor's Council ordered the sheriff to burn issues publicly, but "when the
+  sheriff applied to the Court of Quarter Sessions for an order authorizing the burning, the court
+  adjourned without entering the order."
+- UMKC Famous Trials, "The Trial of John Peter Zenger", https://www.famous-trials.com/zenger/87-home,
+  fetched 2026-10-02: Cosby proclaimed "a reward of fifty pounds for the discovery of the authors of
+  the libels" and issued "an order that Zenger's newspapers be publicly burned by 'the common
+  hangman.'" In January 1734 De Lancey asked a grand jury to charge Zenger; "The Grand Jury, however,
+  refused." In October De Lancey gave the next grand jury material from the Journal; the jurors,
+  "claiming that the authorship of the allegedly libelous material could not be determined, again
+  refused." Later issues of the weekly Journal carried regular pieces attacking the governor's actions.
+- Note: neither page read says who, if anyone, actually burned the papers. Prose says Cosby ordered it.
+- What "Philadelphia lawyer" means: Dictionary.com, https://www.dictionary.com/browse/philadelphia-lawyer,
+  fetched 2026-10-02: "a lawyer of outstanding ability at exploiting legal fine points and
+  technicalities"; idiom sense "A shrewd attorney, adept at dealing with legal technicalities," from the
+  late 1700s.
+
+### PATCH 2026-10-02 (T-475): Era 5, the Constitution's text on the three-fifths count, electors and ratifying conventions; Livingston's office
+
+- National Archives, Constitution transcript, https://www.archives.gov/founding-docs/constitution-transcript,
+  fetched 2026-10-02:
+  - Article I, Section 2: "Representatives and direct Taxes shall be apportioned among the several
+    States ... according to their respective Numbers, which shall be determined by adding to the whole
+    Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians
+    not taxed, three fifths of all other Persons." (So the three-fifths clause is in Article I,
+    Section 2.)
+  - Article II, Section 1: "Each State shall appoint, in such Manner as the Legislature thereof may
+    direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the
+    State may be entitled in the Congress." Plain consequence: extra House seats from the three-fifths
+    count meant extra electors, so extra votes for president.
+  - Article VII: "The Ratification of the Conventions of nine States, shall be sufficient for the
+    Establishment of this Constitution between the States so ratifying the Same." (Conventions of
+    delegates in each state voted on ratification.)
+- Historical Society of the New York Courts, "Robert R. Livingston",
+  https://history.nycourts.gov/figure/robert-r-livingston/, fetched 2026-10-02: "the first Chancellor
+  of New York," 1777-1801; "While serving as Chancellor, he administered the presidential oath of office
+  to George Washington in New York City on April 30, 1789." (The page lists him among the state's court
+  figures; it does not rank the office. A search summary calls the chancellor the state's highest
+  judicial officer (unconfirmed: search summary only).)
+
+### PATCH 2026-10-02 (T-475): Era 6, how the southeastern nations were removed; what the Anti-Masonic Party opposed
+
+- Oklahoma Historical Society, "Timeline of American Indian Removal", https://www.okhistory.org/research/removal,
+  fetched 2026-10-02: Choctaw, 1831: "The Choctaw Nation began removal from Mississippi to Indian
+  Territory, becoming the first of the Five Tribes to be forcibly removed." Muscogee (Creek), 1836: "The
+  forced removal of Muscogee and Creek began." Chickasaw, 1837: "The Chickasaw voluntarily remove"
+  (after the 1832 Treaty of Pontotoc "required the removal of the Chickasaw from their lands").
+  Seminole, from the 1832 Treaty of Payne's Landing: "It would take almost twenty years and 15 million
+  dollars to force the tribe from their lands." The page gives no totals.
+- Wikipedia, "Anti-Masonic Party", fetched 2026-10-02 (Wikipedia only): "the earliest third party in
+  the United States"; a single-issue party that "strongly opposed Freemasonry"; Anti-Masons believed
+  Freemasonry was "a corrupt and elitist secret society." Its spark was the 1826 disappearance of
+  William Morgan, a Freemason in upstate New York who had turned against the Masons.
+
+### PATCH 2026-10-02 (T-475): Era 7, what the Klan did (the House page says only "threatened"); Lincoln's April 1861 letter and later suspensions; the end of Reconstruction
+
+- Encyclopedia of Alabama, Keith S. Hébert, "Ku Klux Klan in Alabama during the Reconstruction Era",
+  https://encyclopediaofalabama.org/article/ku-klux-klan-in-alabama-during-the-reconstruction-era/,
+  fetched 2026-10-02: "In July 1870, for example, Klansmen killed six people, including a
+  schoolteacher, at Cross Plains, Calhoun County." "They also burned numerous black schools and
+  churches—both types of places where freedpeople held political meetings." "Klansmen would then
+  commit various acts of physical and psychological torture that included whippings of men, women, and
+  children." "Between 1868 and 1871, according to testimony gathered by a special investigation
+  conducted by members of the U.S. Congress, Klansmen in Alabama committed more than 100 murders and
+  thousands of acts of violence and intimidation." (The `slavery-freedom` bank also records the
+  Klan's "campaigns of whipping, arson, and murder" from NPS, EJI and Britannica.)
+- Federal Judicial Center, *Ex parte Merryman and Debates on Civil Liberties During the Civil War*,
+  https://www.fjc.gov/sites/default/files/trials/merryman.pdf, re-read 2026-10-02: when Governor Hicks
+  called a special session of the Maryland legislature and a secession vote "appeared likely, Lincoln
+  instructed Winfield Scott ... to counter any effort to arm Maryland citizens against the federal
+  government," endorsing "the most prompt, and efficient means." The troops "aroused" Merryman "from
+  his bed." After Taney's ruling, "The administration continued to arrest citizens and further suspend
+  the writ without formal sanction from Congress." In August 1862 Secretary of War Edwin Stanton
+  suspended the writ in cases about the militia draft, and on **24 September 1862** Lincoln issued a
+  proclamation extending the suspension "throughout the nation" to anyone resisting the draft.
+- Equal Justice Initiative, *A History of Racial Injustice* calendar, 24 April,
+  https://calendar.eji.org/racial-injustice/apr/24, fetched 2026-10-02: title "President Withdraws
+  Federal Troops From Last Southern State House, Ending Reconstruction"; "This withdrawal marked the
+  end of Reconstruction and paved the way for the unrestrained resurgence of white supremacist rule in
+  the South."
+
+### PATCH 2026-10-02 (T-475): Era 8, which scholars disagree about whether the court plan changed the Court
+
+- G. Edward White, "West Coast Hotel's Place in American Constitutional History," *Yale Law Journal*
+  Forum, https://yalelawjournal.org/essay/west-coast-hotels-place-in-american-constitutional-history,
+  fetched 2026-10-02: Court papers show "the Justices' conference on West Coast Hotel had taken place on
+  December 19, 1936, and that Justice Roberts had voted at that conference to sustain the Washington
+  statute" (before the plan went to Congress on February 5, 1937). White, drawing on Barry Cushman,
+  argues the "causal assumptions underlying the conventional narrative of Court-packing did not hold up
+  under close scrutiny." The essay cites William Leuchtenburg for the view held at the time that "the
+  Court, and more particularly Mr. Justice Roberts, had crossed over."
+
+### PATCH 2026-10-02 (T-475): Era 9, the House's charges against Clinton, 1998 (T-333 NEEDS-RESEARCH, sonnet #115)
+
+- *Deseret News* (Associated Press report), "House impeaches President Clinton for perjury, obstruction
+  of justice," 19 December 1998,
+  https://www.deseret.com/1998/12/19/19419463/house-impeaches-president-clinton-for-perjury-obstruction-of-justice/,
+  fetched 2026-10-02: the House voted "228-206 to approve the first article of impeachment, alleging
+  that Clinton perjured himself before a grand jury"; "229-205 to reject a second article, accusing
+  Clinton of committing perjury in the Jones suit"; "221-212 to approve a third article, accusing
+  Clinton of obstruction of justice in the Lewinsky matter"; "285-148 to reject a fourth article,
+  alleging Clinton abused the powers of his office by giving false written answers to questions posed
+  by Congress."
+- The Senate votes already in the bank (45 guilty / 55 not guilty on the first article, 50 to 50 on
+  the second) match a search summary of NPR, 12 February 1999, which gives the perjury vote 45-55 and
+  the obstruction vote 50-50.
+
+### PATCH 2026-10-02 (T-475): Era 10, who won in 2000 and 2020; Giuliani's role; the charges in Trump's two impeachments (T-333 NEEDS-RESEARCH: sonnet #128, #146; opus #113, #133, #136)
+
+- National Archives, "2000 Electoral College Results", https://www.archives.gov/electoral-college/2000,
+  fetched 2026-10-02: George W. Bush, winner, 271 electoral votes; Albert Gore Jr., 266. Florida's 25
+  electoral votes went to Bush. "George W. Bush received fewer popular votes than Albert Gore Jr., but
+  received a majority of electoral votes."
+- National Archives, "2020 Electoral College Results", https://www.archives.gov/electoral-college/2020,
+  fetched 2026-10-02: winner Joseph R. Biden Jr., 306 electoral votes; Donald J. Trump, 232. Georgia's
+  16 electoral votes went to Biden.
+- Giuliani's role: Columbia University, Global Freedom of Expression, "Freeman v. Giuliani",
+  https://globalfreedomofexpression.columbia.edu/cases/freeman-v-giuliani/, fetched 2026-10-02:
+  "President Trump's former attorney"; it ties him to "the Trump campaign" in the release of the video.
+  (Al Jazeera, 16 Dec 2023, headline: "Trump's ex-lawyer Giuliani"; search result only.)
+- U.S. House, Office of the Historian, "List of Individuals Impeached by the House of
+  Representatives", https://history.house.gov/Institution/Impeachment/Impeachment-List/, fetched
+  2026-10-02: Donald Trump impeached **18 December 2019** for "abuse of power and obstruction of
+  Congress"; impeached **13 January 2021** for "incitement of insurrection."

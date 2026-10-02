@@ -420,3 +420,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-478	prose	general-purpose/opus	[LOCAL] religion: FIXER part1 only [WAVE7G]: 161 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 5 found by 	?	?	?	398535	234	950488	?	completed	PASS  religion / prose
 2026-10-02	T-474	prose	general-purpose/opus	[LOCAL] native-nations: FIXER parts 2-3 + light pass part1 [WAVE7G]: 134 FIXED, 8 REJECTED, 1 NEEDS-RESE	?	?	?	403419	131	1183841	?	completed	PASS  native-nations / prose
 2026-10-02	T-476	prose	general-purpose/opus	[LOCAL] crime-justice: FIXER parts 1,3 + light pass part2 [WAVE7G]: 198 FIXED, 21 REJECTED, 0 NEEDS-RES	?	?	?	474429	163	1257945	?	completed	PASS  crime-justice / prose
+2026-10-02	T-475	prose	general-purpose/opus	[LOCAL] government-politics: FIXER parts 1-2 + light pass part3 [WAVE7G]: 152 FIXED, 7 REJECTED, 1 NEEDS-RESE	?	?	?	417328	191	1300867	?	completed	PASS  government-politics / prose
