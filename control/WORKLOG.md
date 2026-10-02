@@ -4650,9 +4650,11 @@ RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         364192 tokens, 229 tool uses, 16.6 min (opus). FIXER whole chapter [WAVE8]: 174 FIXED, 38 REJECTED, 2 NEEDS-RESEARCH, 10 found by fixer; Wilkerson details checked (1 replaced with real figures); Acoma per #31/#34/#36; 14,501 -> 15,535 words
 
 ### 2026-10-01 | [LOCAL] T-457 | work-workers: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
+RESULT: DONE. PASS  work-workers / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16055w files=3 validator_errors=0
+        399205 tokens, 265 tool uses, 18.6 min (opus). FIXER whole chapter [WAVE8]: 187 FIXED, 12 REJECTED, 0 NEEDS-RESEARCH, 15 found by fixer; Acoma per #36; 15,882 -> 17,485 words
 
 ### 2026-10-01 | [LOCAL] T-458 | elements: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: DONE
