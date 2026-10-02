@@ -4813,9 +4813,11 @@ CHECKPOINT: control/checkpoints/F5-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
 
 ### 2026-10-02 | [LOCAL] T-478 | religion: FIXER opus, part1 only [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=20 (verified 20) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=36104w files=3 validator_errors=0
+        398535 tokens, 234 tool uses, 15.8 min (opus). FIXER part1 only [WAVE7G]: 161 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 5 found by fixer; Acoma added per #36; Quaker ear-cutting reconciled; 13,552 -> 14,837 words
 
 ### 2026-10-02 | [LOCAL] T-479 | education: FIXER opus, part3 only [WAVE7G] | model opus
 STATUS: IN-FLIGHT

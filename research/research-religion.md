@@ -115,6 +115,20 @@ themselves what to make public.
 `native-nations` leads on the nations themselves. This chapter takes only the religious life.
 `landmarks` carries the mound sites as places. Do not retell either.
 
+### PATCH 2026-10-02 (T-478): Chaco and Cahokia, where they are, stone great houses, Monks Mound the largest
+
+- **Chaco, location:** "Chaco Canyon is located in northwestern New Mexico." (NPS, Chaco Culture NHP,
+  "Directions," https://www.nps.gov/chcu/planyourvisit/directions.htm , read 2026-10-02.)
+- **Chaco, stone:** "Using masonry techniques unique for their time, they constructed massive stone
+  buildings (Great Houses) of multiple stories containing hundreds of rooms." (NPS, Chaco "History &
+  Culture," https://www.nps.gov/chcu/learn/historyculture/index.htm , read 2026-10-02.)
+- **Cahokia, location:** "Cahokia Mounds State Historic Site is located in Illinois, just several miles
+  east of the Mississippi River and St. Louis, Missouri." (NPS, "Cahokia Mounds State Historic Site:
+  World Heritage Site," https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm ,
+  read 2026-10-02.)
+- **Monks Mound the largest:** "Dominating the community was Monks Mound, the largest indigenous
+  earthen structure north of Mexico." (Same NPS page.)
+
 ---
 
 
@@ -311,6 +325,66 @@ up their Protestant faith; 111 were killed; about two weeks later Jean Ribault a
 surrendered, refused the same demand, and 134 were killed. **`war` leads. This chapter may name it in
 one sentence as the first killing over religion between Europeans in what became the United States,
 with the numbers `war` gives, and hand off.** Do not retell it here.
+
+### PATCH 2026-10-02 (T-478): Matanzas counts (copied from `research/research-war.md` §2.4), Nombre de Dios, Mass and the catechism
+
+- **Matanzas, copied with its sources from `research-war.md` §2.4:** about 127 shipwrecked Frenchmen,
+  who had lost their food and weapons in a hurricane, surrendered. Menéndez demanded they give up their
+  Protestant faith; they refused. 111 were killed. 16 were spared: a few who said they were Catholic,
+  some Breton sailors who had been forced aboard, and four craftsmen St. Augustine needed. Date: NPS
+  says after 8 September; the Florida Museum timeline dates it 29 September 1565. Ribault's group:
+  134 killed; NPS 12 October, Florida Museum 11 October 1565. Both groups had surrendered first. (NPS,
+  Fort Matanzas, https://www.nps.gov/foma/learn/historyculture/the_massacre.htm ; Florida Museum,
+  Menéndez timeline.) Menéndez's own letter to Philip II, 15 October 1565 (trans. Eugene Lyon,
+  https://earlyfloridalit.net/pedro-menendez-de-aviles-letter-to-king-philip-ii/ ), on the first
+  Matanzas group: "I had their hands tied behind them and put them to the knife"; 16 spared (12 Breton
+  seamen, 4 craftsmen). Copied from `research-war.md` (era 1500s parked line) and quoted in `war` part 1.
+- **Nombre de Dios, where:** "the Native American town just north of the Spanish city"; "Christian
+  Indians attended Mass in the town of St. Augustine until after 1587, when the first Franciscan
+  mission, doctrina, was established at the Nombre de Dios" (Florida Museum, "The Nombre de Dios Mission
+  Sites," read 2026-10-02). "by 1587 had established the Mission of Nombre de Dios at a Timucuan town on
+  the outskirts of St. Augustine. Their success was largely owing to Doña María Meléndez" (Florida
+  Museum, "The Church and the Missions," read 2026-10-02). In that page "Their" is "The first
+  Franciscans," the subject of the sentence before.
+- **The catechism in these missions:** Francisco Pareja came to Florida in 1595 with eleven other
+  Franciscans and worked at the doctrina of San Juan del Puerto; "His catechism in Spanish and Timucua,
+  published in 1612, was the first book written in an indigenous language of the United States."
+  (Wikipedia, "Francisco Pareja," read 2026-10-02; Wikipedia only, so use it only for the plain point
+  that friars taught a catechism.)
+
+### PATCH 2026-10-02 (T-478): Acoma, 1598 and 1599, the friars' part (copied from `research/research-native-nations.md`, "Acoma Pueblo, December 1598 – February 1599", with its sources)
+
+`native-nations` leads and tells Acoma in full (part 1, span "Acoma, 1598 and 1599"). Under DECISIONS #36
+this chapter, which tells the 1598 mission start, names the same harms in one short paragraph and takes
+the friars' part. All lines below are copied with the sources the native-nations bank gives.
+- December 1598: Juan de Zaldívar, Oñate's nephew, came to Acoma with about thirty soldiers to demand
+  food. All Pueblo Council of Governors (press release, 6 October 2023): the soldiers "had demanded food
+  and supplies, assaulted an Acoma woman, and forced allegiance to the Spanish crown." In the Acoma
+  people's own account as the Rio Grande Sun reported it (2019), the soldiers raped the woman (DECISIONS
+  #31: write "rape", attributed). The Acoma killed Zaldívar and eleven to fourteen of his men (sources differ).
+- 28 December 1598: Oñate opened an inquiry and asked the Franciscan friars whether a war against Acoma
+  would be just. The friars answered that he "possessed both the authority and sufficient cause." (Carlson
+  2008, p. 19, citing Simmons, *The Last Conquistador*, 1991, p. 138.)
+- January 1599: Vicente de Zaldívar led about seventy soldiers up the mesa; over two or three days they
+  killed Acoma men, women and children and burned much of the town. No count was made. Estimates run from
+  about 300 to about 1,500; the All Pueblo Council of Governors gives about 800; NPS gives about 1,500.
+- 12 February 1599, Oñate's sentence: men over 25, one foot cut off and twenty years of forced servitude;
+  males 12 to 25 and females over 12, twenty years of forced servitude; the old people handed as slaves to
+  the Plains Apache. Whether the feet were cut off is disputed (Acoma account: the right feet of 24 men;
+  the historians Marc Simmons, later, and John Kessell doubt it).
+- Children under 12: declared innocent, taken from their parents and given to the friars (Carlson 2008,
+  p. 20). NPS: "Some 70 Acoma girls under the age of 12 were sent down El Camino Real and placed in
+  convents across Mexico," and "in all probability, none ever returned home." (NPS, "Traditional Groups
+  along El Camino Real de Tierra Adentro.") The All Pueblo Council of Governors counts sixty children.
+
+### PATCH 2026-10-02 (T-478): the 1680 runners tortured and hanged (copied from `research/research-native-nations.md` line on Treviño and the runners, itself from `news-communication`)
+
+- Zotigh (NMAI, Smithsonian Voices, 2 September 2026): "On August 9, the Spanish captured Pedro Omtua and
+  Nicolas Catua and tortured them to make them reveal the significance of the knotted cord." Indian
+  Pueblo Cultural Center, "Pueblo Revolt": "Catua and Omtua (Taytsugeh Oweengeh/Tesuque Pueblo) were
+  caught, questioned, and hanged." SEARCHED, NOT FOUND (news-communication bank): who tortured and hanged
+  them. `native-nations` prose: "Spanish officials tortured them ... and later hanged them. The records do
+  not name the men who did it."
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-260a): why did the Tocobaga kill Luis Cáncer in 1549, and how did he die?
 Sources checked: Florida Historical Society, "Luis Cancer de Barbastro Killed near Tampa Bay"
@@ -911,6 +985,40 @@ The brief requires the nation named wherever newcomers settle. For this era's co
   sons' deal, not a religious act. `native-nations` leads.)
 - **Nombre de Dios and the Florida missions (era 2):** Timucua and Guale towns, already named in the cell.
 
+### PATCH 2026-10-02 (T-478): era 3 gaps the checker found (Fox, Maryland's Catholics, capital laws, Eliot's Bible, *A Key*)
+
+- **The Quakers' founding and teaching.** LOC, "America as a Religious Refuge" part 2,
+  https://www.loc.gov/exhibits/religion/rel01-2.html (curl, read 2026-10-02): "The Quakers (or Religious
+  Society of Friends) formed in England in 1652 around a charismatic leader, George Fox (1624-1691)."
+  They expanded the Puritan idea "to the idea of the indwelling of the Spirit or the 'Light of Christ' in
+  every person. Such teaching struck many of the Quakers' contemporaries as dangerous heresy." (LOC does
+  not say Quakers needed no minister; do not write that.)
+- **Maryland and Catholics.** Same LOC page: "the Stuart kings of England did not hate the Roman Catholic
+  Church, most of their subjects did, causing Catholics to be harassed and persecuted in England throughout
+  the seventeenth century. Driven by 'the sacred duty of finding a refuge for his Roman Catholic brethren,'
+  George Calvert (1580-1632) obtained a charter from Charles I in 1632." In 1634 the *Ark* and the *Dove*
+  brought about two hundred settlers, among them "two Catholic priests who had been forced to board
+  surreptitiously to escape the reach of English anti-Catholic laws." "After the Glorious Revolution of
+  1689 in England, the Church of England was legally established in the colony and English penal laws,
+  which deprived Catholics of the right to vote, hold office, or worship publicly, were enforced." (LOC
+  does not say Maryland was the only colony where Catholics could worship openly; do not write that.)
+- **"Capital Lawes" (1642 order).** Capital laws are the laws that set death as the punishment. Journal of
+  the American Revolution, review of Smith on the Massachusetts *Laws and Liberties* (October 2025),
+  https://allthingsliberty.com/2025/10/colonial-massachusetts-laws-and-liberties-and-the-english-commonwealth/ :
+  "Massachusetts' printing of its capital laws in 1642 following a heinous case of child sexual abuse,"
+  which wrote the death penalty into law for that crime.
+- **Eliot's Bible.** Massachusetts Historical Society, "*Mamusse Wunneetupanatamwe Up-Biblum God*" (the
+  Eliot Indian Bible), https://www.masshist.org/database/viewer.php?item_id=54&pid=15 (read 2026-10-02):
+  Eliot worked to "translate and publish the entire Bible in Massachuset," "the combined Old and New
+  Testament published in 1663." "It is the first Bible printed in any language in North America."
+- ***A Key into the Language of America* (1643).** Wikipedia, "A Key into the Language of America" (search
+  summary of the article, 2026-10-02): a book "describing Native American languages in New England, largely
+  Narragansett, an Algonquian language," and recording Narragansett daily life. Wikipedia only.
+- **Quaker ear-cutting, AUDIT-QUEUE item (T-319) checked 2026-10-02:** crime-justice prose now gives
+  16 September 1658, "cut off by the Hangman," and "Bishop does not name the tool," the same as this bank's
+  Bishop lines. The two chapters agree. The "with a knife" line in this bank's earlier PATCH is a
+  paraphrase; the prose does not use it.
+
 ### PATCH 2026-09-27 (T-260a): pointers, not retellings (Hutchinson's death; Salem)
 
 - **Why Anne Hutchinson was killed in 1643.** `research/research-rights-movements.md` (patched
@@ -1262,6 +1370,31 @@ This is only the religious part, which no chapter tells.
   depriving Native Americans of their lands."
 - **Bethesda / Savannah:** Georgia's 1733 settlement was on Yamacraw land. Not researched in this
   pass; `city-building` or `native-nations` would hold it. The Whitefield block does not need it.
+
+### PATCH 2026-10-02 (T-478): Edwards and his critics, the Center's statement confirmed, and the 1741 counts (copied from `research/research-slavery-freedom.md`)
+
+- **Edwards's answer to the critics.** Jonathan Edwards Center at Yale, "Jonathan Edwards: Biography,"
+  http://edwards.yale.edu/research/about-edwards/biography (curl, read 2026-10-02): "While critics assailed
+  the convictions of many supposed converts as illusory and even the work of the devil, Edwards became a
+  brilliant apologist for the revivals. In The Distinguishing Marks of a Work of the Spirit of God (1741),
+  Some Thoughts Concerning the Present Revival (1742), A Treatise Concerning Religious Affections (1746),
+  and The Life of David Brainerd (1749), he sought to isolate the signs of true sainthood from false belief."
+  Same page: Perry Miller, founder of the Yale edition of Edwards's works, "described Edwards as the first
+  and greatest homegrown American philosopher"; Edwards "gained international fame as a revivalist and
+  'theologian of the heart'" after *A Faithful Narrative*.
+- **The Center's statement, now read on the page itself.** http://edwards.yale.edu/node/1041 (curl,
+  read 2026-10-02): "Yet, Edwards was a slaveowner, a defender of the institution of slavery as biblically
+  ordained, and an agent in depriving Native Americans of their lands and culture." This lifts the
+  "search indexing only" note in §4d.
+- **New York, 1741, counts (copied with sources from `research-slavery-freedom.md`, PATCH T-255 and
+  T-313):** after fires from March 1741, city officials claimed a plot by enslaved people and poor white
+  people to burn the city. Historical Society of the New York Courts, "Trials Relating to the New York
+  Slave Insurrection, 1741," https://history.nycourts.gov/case/slave-conspiracy-trials/ : about 200
+  tried, 30 sentenced to death, 70 sentenced to be sold into slavery in the Caribbean. Wikipedia, citing
+  Jill Lepore, *New York Burning* (2005): 34 executed between 11 May and 29 August 1741, 13 Black men
+  burned at the stake, 17 Black men hanged, 2 white men and 2 white women hanged. Mary Burton: Justice
+  Daniel Horsmanden made "inducements that promised an end to her indenture and financial award"
+  (NY Courts). `slavery-freedom` part 1 tells it in full; this chapter states the range in one place.
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-260r): who were the English men and Creek men who tortured and burned the Apalachee in 1704?
 Sources checked: Dictionary of American History (names Moore and Mexía only); South Carolina
@@ -1749,6 +1882,20 @@ is the second source, and the religious facts.
 - **Liele's congregation, "the first Black Baptist congregation in the South"** (bank heading §5e2): the
   outline prose does not use "first." Clarke's 1790 letter (Journal of Negro History 1916, as above)
   quotes Joseph Cook that Liele planted "the first Baptist Church in Savannah." Keep any "first" to that.
+
+### PATCH 2026-10-02 (T-478): established churches before 1776, and Massachusetts the last state
+
+- LOC, "Religion and the State Governments," https://www.loc.gov/exhibits/religion/rel05.html (curl, read
+  2026-10-02): "Congregationalists and Anglicans who, before 1776, had received public financial support,
+  called their state benefactors 'nursing fathers'"; "The term 'nursing father' was used in all American
+  colonies with established churches." In Massachusetts, the Congregational Church "had been established,
+  and hence had received public financial support, during the colonial period." (LOC does not list which
+  colonies had which church, and gives no start date or order for ending the taxes; do not write that every
+  Southern colony had the Church of England or that the states ended them "one at a time" from 1776.)
+- "In 1833, Massachusetts became the last state to end state support for churches." (Digital History,
+  University of Houston, "Disestablishment," Digital History ID 252,
+  https://www.digitalhistory.uh.edu/disp_textbook.cfm?smtID=3&psid=252 , curl, read 2026-10-02.) This
+  sources the heading of §5c.
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-260r): what did the Kumeyaay fighters of 1775 say about why they attacked?
 Sources checked: MPDF E130-131 (says "the rebels' exact motivations were not recorded" and lists the
