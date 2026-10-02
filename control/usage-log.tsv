@@ -422,3 +422,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-476	prose	general-purpose/opus	[LOCAL] crime-justice: FIXER parts 1,3 + light pass part2 [WAVE7G]: 198 FIXED, 21 REJECTED, 0 NEEDS-RES	?	?	?	474429	163	1257945	?	completed	PASS  crime-justice / prose
 2026-10-02	T-475	prose	general-purpose/opus	[LOCAL] government-politics: FIXER parts 1-2 + light pass part3 [WAVE7G]: 152 FIXED, 7 REJECTED, 1 NEEDS-RESE	?	?	?	417328	191	1300867	?	completed	PASS  government-politics / prose
 2026-10-02	T-479	prose	general-purpose/opus	[LOCAL] education: FIXER part3 only [WAVE7G]: 113 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 25 found by 	?	?	?	421226	271	1287855	?	completed	PASS  education / prose
+2026-10-02	T-477	prose	general-purpose/opus	[LOCAL] rights-movements: FIXER parts 1-2 [WAVE7G]: 227 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 23 found by f	?	?	?	496614	232	1420829	?	completed	PASS  rights-movements / prose

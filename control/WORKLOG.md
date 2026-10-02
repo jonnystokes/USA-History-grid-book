@@ -4833,8 +4833,10 @@ RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         421226 tokens, 271 tool uses, 21.5 min (opus). FIXER part3 only [WAVE7G]: 113 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 25 found by fixer; Hardin testimony read in the 1914 scan: quotes real, kept and banked; 24,243 -> 25,721 words
 
 ### 2026-10-02 | [LOCAL] T-477 | rights-movements: FIXER opus, parts 1-2 [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
+RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=26 (verified 26) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=54597w files=3 validator_errors=0
+        496614 tokens, 232 tool uses, 23.7 min (opus). FIXER parts 1-2 [WAVE7G]: 227 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 23 found by fixer; Taino/Caonao/Lay acts sourced; Memphis 1866 per #36; rights-movements now fully fixed; 20,618 -> 22,897 words (parts 1-2)
 USAGE: WAVE8L straddled a reset; now 12% (Jon); weekly at 92%, ~60% of a window allowed. WAVE7G (T-473..T-479): war, native-nations, government-politics, crime-justice whole; rights-movements p1-2; religion p1; education p3. Est ~54%.
 AGENTS WAVE7G: T-473 a62d8e5569293cd77, T-474 ad3fd0a0ff45b36cb, T-475 a2d350475c06c0907, T-476 a318a78b82d7753fa, T-477 a44b9fb0eb2ff7c94, T-478 a04dae91805151eb6, T-479 a1cd89c4d66661f18
