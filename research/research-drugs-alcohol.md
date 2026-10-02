@@ -78,6 +78,10 @@ How the prose can say it: "Spanish colonists brought wine with them. No record f
 - MacTutor (St Andrews) and others say the ulcer began in his left nostril in 1613 and spread (search summary only, unconfirmed). Several popular sources call him possibly "the first recorded death caused by smoking" (famousscientists.org, search summary). That "first" is NOT supported by a scholarly source. Do not use it.
 - Shared with: `science` (their 1500s span tells his report as natural history: plants, animals, the Algonquian people; `manuscript/science/part1-before-1800.md`). This chapter tells only the tobacco and his death. No other chapter has a Hariot story block.
 
+### PATCH 2026-10-02 (T-465): Hariot's profession; Linnaeus's nationality (era 02)
+- "Thomas Hariot (often spelled Harriot) was an English mathematician, astronomer, linguist, and experimental scientist." "The Roanoke colonists were mostly military men, the most prominent exceptions being Hariot and the artist John White." (Encyclopedia Virginia, "Thomas Hariot (ca. 1560–1621)," opened 2026-10-02.)
+- "Carl Linnaeus (23 May 1707 – 10 January 1778) ... was a Swedish biologist and physician" (Wikipedia, "Carl Linnaeus," opened 2026-10-02).
+
 ## 03 · The 1600s
 
 ### What colonists drank, and the water question (the seed's "the water is not trusted")
@@ -136,6 +140,10 @@ How the prose can say it: "Spanish colonists brought wine with them. No record f
 - **King James I, *A Counterblaste to Tobacco*, 1604** (Project Gutenberg #17008, opened): he called smoking "A custome lothsome to the eye, hatefull to the Nose, harmefull to the braine, dangerous to the Lungs, and in the blacke stinking fume thereof, neerest resembling the horrible Stigian smoke of the pit that is bottomelesse." He mocked the English for copying "the barbarous and beastly maners of the wilde, godlesse, and slauish Indians." (His words about Native people are contempt, and a writer quoting him must say so.)
 - The labor (servants, then the enslaved) is told in `work-workers`, `economy`, `slavery-freedom`. The crop is `food-farming`'s. This chapter's slice: the smoking habit, the king's attack on it, and the laws about where people could smoke.
 
+### PATCH 2026-10-02 (T-465): Rolfe's Spanish tobacco was milder (era 03)
+- Encyclopedia Virginia, "Tobacco in Colonial Virginia" (opened 2026-10-02): the Virginia Indians' *Nicotiana rustica* "tasted dark and bitter to the English palate." Rolfe's Spanish seeds (*Nicotiana tabacum*), planted in the James River bottomland, "produced a milder, yet still dark leaf." (The same page now says the seeds came "from the Orinoco River valley"; the bank's earlier "Trinidad and Caracas" is from the same entry.)
+- SEARCHED, NOT FOUND 2026-10-02 (T-465): the reason for the Massachusetts 1638 and 1647 ban on smoking near houses, barns, corn and haystacks. Only a genealogy blog calls it a fire hazard. The law's own text gives only "more abused than before." Round 2: open the Massachusetts Records for the order.
+
 ## 04 · 1700 to 1750 (T-266r, 2026-09-27: T-266a was killed before writing this era)
 
 ### Rum: how much, how cheap, and the Molasses Act of 1733
@@ -190,6 +198,9 @@ Not the Alexander Hamilton of the Treasury. This is a Maryland doctor.
 ### Tobacco, 1700 to 1750
 - Virginia grew 29 million pounds of tobacco in 1709, its all-time high (Encyclopedia Virginia, "Tobacco in Colonial Virginia," era 03 section). By 1700 enslaved Africans outnumbered white indentured servants on the tobacco farms (same). The 1709 figure falls in this era by the boundary rule. The crop and the labor belong to `food-farming`, `economy` and `slavery-freedom`.
 - Hamilton's diary shows pipe smoking in taverns in 1744 (above).
+
+### PATCH 2026-10-02 (T-465): the king who approved Georgia's 1735 acts (era 04)
+- George II was "King of Great Britain and Ireland from 1727 to 1760" (Wikipedia, "George II of Great Britain," opened 2026-10-02). So the king who, with his council, approved the Trustees' 1735 acts (Wikipedia, "Trustee Georgia," above) was George II.
 
 ## 05 · 1750 to 1800 (T-266r, 2026-09-27)
 
@@ -258,6 +269,10 @@ How the prose can say it: "Someone inside the house shot McFarlane. The records 
 
 ### Tobacco, 1750 to 1800
 - Nothing new opened. Tobacco in this era belongs mostly to `economy` (planters' debts) and `food-farming`. No new source on the smoking habit in this era was opened. Thin for tobacco, and correct.
+
+### PATCH 2026-10-02 (T-465): who took Haudenosaunee land after the Revolution; the 1768 cession in Pennsylvania (era 05)
+- Copied from `research/research-america-world.md` (National Humanities Center, *America in Class*, "America and the Six Nations," read directly there): "the Six Nations were ignored in the Treaty of Paris of 1783." At Fort Stanwix in 1784 American negotiators, "supported by a strong military presence, dealt with the Iroquois as a conquered nation," taking "huge sections of land from the Six Nations."
+- 1768 Fort Stanwix, Pennsylvania: "the native lands ceded in Pennsylvania extended southwest from the northern branch of the Susquehanna River to the Forks of the Ohio at modern Pittsburgh" (ExplorePAhistory.com, historical marker "Fort Stanwix Treaty of 1768," opened 2026-10-02). This confirms the earlier PATCH's unconfirmed line that the cession took in western Pennsylvania. Pennsylvania called these lands the "New Purchase." "Representatives of the Indian nations who occupied these lands, primarily the Shawnee and Lenape, were present at the negotiations in 1768" but "were not signatories" (Wikipedia, "Treaty of Fort Stanwix," opened 2026-10-02).
 
 ## BANK CHECK, eras 01 to 05 (T-266r, 2026-09-27)
 
@@ -358,6 +373,10 @@ Source: John B. Gough, *An Autobiography* (Boston, 1845), full text at archive.o
 ### Chewing tobacco
 - Charles Dickens visited in 1842 and wrote in *American Notes* (1842), ch. 8 (Project Gutenberg #675): in Washington, "the prevalence of those two odious practices of chewing and expectorating" (expectorating = spitting). "In the courts of law, the judge has his spittoon, the crier his, the witness his, and the prisoner his." In hospitals, notices asked medical students to spit tobacco juice into the boxes "and not to discolour the stairs." On a steamboat two young men sat and chewed and spat on the deck for a quarter of an hour before breakfast.
 
+### PATCH 2026-10-02 (T-465): Lincoln's Temperance Address, more of what he said (era 06)
+- Abraham Lincoln Online, "Temperance Address" (https://www.abrahamlincolnonline.org/lincoln/speeches/temperance.htm, opened 2026-10-02): given to the Springfield Washington Temperance Society on 22 February 1842 in the Second Presbyterian Church; Lincoln was 33. "Too much denunciation against dram sellers and dram drinkers was indulged in. This, I think, was both impolitic and unjust." "Persuasion, kind, unassuming persuasion, should ever be adopted," and "a 'drop of honey catches more flies than a gallon of gall.'"
+- His work as a lawyer in Springfield in 1842 was not opened this pass; the prose gives his age instead.
+
 ## 07 · 1850 to 1900 (T-266b, 2026-09-27)
 
 ### The Maine Law, 1851, and the state bans of the 1850s
@@ -434,6 +453,11 @@ Sources: Wikipedia "John Stith Pemberton" and "Coca-Cola" (raw wikitext, 2026-09
 - Race: in 1880 WCTU leaders set up a Department of Work Among Colored People. Frances Watkins Harper was named its superintendent for the North in 1883. Willard let southern chapters follow "states rights" on race. Ida B. Wells, speaking in Britain in 1893, accused Willard of silence on lynching and quoted Willard saying, after a trip south, "The colored race multiplies like the locusts of Egypt" and "the grog shop is its center of power.... The safety of women, of childhood, of the home is menaced in a thousand localities." Willard denied the charge. She later spoke against lynching and got the WCTU to pass a resolution against it (Wikipedia "Frances Willard," citing Dray, *At the Hands of Persons Unknown*, 2002, and Hackett, UMass Boston, 2004). Shared with `rights-movements` (Wells and lynching, lead).
 - Kansas: in 1878 voters elected John St. John, a Republican prohibitionist, governor. Lawmakers passed a constitutional amendment banning "the manufacture and sale of intoxicating liquors." Voters ratified it in November 1880 and it took effect on 1 May 1881. Kansas "became the first state to write prohibition into its constitution." In 1883 Topeka still had 43 "joints," whose owners stayed open by paying a monthly fine of $100 (Kansas Historical Society, Kansapedia, "Prohibition," https://www.kshs.org/kansapedia/prohibition/15463). Kansas kept its ban until 1948.
 - The Anti-Saloon League was founded in 1893 in Oberlin, Ohio, by Rev. Howard Hyde Russell, and became national in 1895. It cared how lawmakers voted, not whether they drank (Wikipedia "Anti-Saloon League"). The saloon = a bar, mostly for men, selling drinks by the glass.
+
+### PATCH 2026-10-02 (T-465): Frances Watkins Harper and Ida B. Wells (era 07)
+- Frances Ellen Watkins Harper was "an American abolitionist, suffragist, poet, temperance activist, teacher, public speaker, and writer" (Wikipedia, "Frances Ellen Watkins Harper," opened 2026-10-02). NPS, "Why the Women's Rights Movement Split," as filed in `research/research-rights-movements.md`, names her among the Black suffragists angered by Stanton's racist language.
+- Ida B. Wells "was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement" (Wikipedia, "Ida B. Wells," opened 2026-10-02).
+- What the WCTU's southern branches did on race under "states rights" (separate branches, Black women kept out): not opened this pass. Round 2.
 
 ### Treatment
 - The Keeley Institute, Dwight, Illinois, 1879 to 1965, founded by Dr. Leslie Keeley. Its "Gold Cure" was injections of "bichloride of gold." By 1900 it had been given to more than 300,000 people, at over 200 branches (Wikipedia "Keeley Institute"; the 200 branches figure tagged citation needed there). NARA (Bustard, p. 19): patients "received injections of his serum four times daily, while others received oral doses through the mail." Doctors criticized the cure.
@@ -558,6 +582,13 @@ Sources: Wikipedia "Izzy Einstein and Moe Smith" (raw wikitext, 2026-09-27); NAR
 ### Native nations, 1900 to 1950
 - 1910: as a condition of New Mexico statehood, Congress members made it a crime to bring alcohol onto Pueblo land (FJC). In 1910 Attorney General George Wickersham asked for lighter penalties for Native liquor offenses (FJC). About 5 percent of federal prisoners in 1900 were there for Native liquor offenses (FJC, era 07).
 - Native American Church: organized as a church in Oklahoma in 1918 (Wikipedia; the page also mentions an 1911 incorporation by Victor Griffin (Quapaw), with citation needed, and a 1913 charter). Members take peyote as a sacrament. `religion` leads.
+
+### PATCH 2026-10-02 (T-465): Wheeler and the Volstead Act; AA's founders and meetings; jake leg; Pershing (era 08)
+- Wayne Wheeler "was involved in drafting the Volstead Act, which provided the means for enforcing the prohibition amendment" (Wikipedia, "Wayne Wheeler," opened 2026-10-02).
+- Bill Wilson on his drinking: "Even that first evening I got thoroughly drunk, and within the next time or two I passed out completely." He stayed sober from 11 December 1934 until his death in 1971 (Wikipedia, "Bill W.," opened 2026-10-02). Dr. Bob Smith, despite his Oxford Group ties, "was unable to stay sober"; his last drink, 10 June 1935, is counted as AA's start (Wikipedia, "Alcoholics Anonymous," opened 2026-10-02).
+- AA meetings: members share their "experience, strength and hope"; "Speaker meetings feature one or more members who share their personal stories of recovery" (same). "In 2021 AA estimated it was active in 180 countries with nearly two million members, 73% in the United States and Canada" (same).
+- Jamaica ginger paralysis: those affected were said to have "jake leg, jake foot, or jake paralysis"; the gait "became known as the jake walk or the jake dance" (Wikipedia, "Jamaica ginger," opened 2026-10-02).
+- John J. Pershing "served as the commander of the American Expeditionary Forces (AEF) during World War I from 1917 to 1920" (Wikipedia, "John J. Pershing," opened 2026-10-02).
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-266b): Which federal official signed the 1926 order that added more methyl alcohol to industrial alcohol?
 Sources checked: Blum via HNN ("federal officials," "The Treasury Department also demanded"), TIME 2015 (Lowman's and Wheeler's defenses, no signer), Wikipedia "Prohibition in the United States" ("the Treasury Department, under the direction of President Calvin Coolidge and Congress"), search results on Lincoln C. Andrews (Assistant Secretary in charge of Prohibition, April 1925 to August 1927; no source opened says he signed it).
@@ -690,6 +721,11 @@ Planned stories: era 6 charles-williams-eastern-state (if sourced); era 7 lynchi
 - Disputed motive: Johann Hari (2015) wrote that Anslinger's bureau targeted her from 1939 because of "Strange Fruit." The jazz writer Lewis Porter disputes this, noting the claim first appears in Hari's book. Record both.
 - `music` has her story block (slug in music's files). This chapter gives her one span, the arrests only.
 
+### PATCH 2026-10-02 (T-465): the 1971 broadcast ad ban; Ford's term; OxyContin's 12 hours (era 09)
+- Public Health Cigarette Smoking Act: signed by "President Richard Nixon" "on April 1, 1970"; the ban on cigarette commercials on radio and television took effect "January 2, 1971" (Wikipedia, "Public Health Cigarette Smoking Act," opened 2026-10-02).
+- Gerald Ford "was the 38th president of the United States, serving from 1974 to 1977" (Wikipedia, "Gerald Ford," opened 2026-10-02). So the Fords had left the White House before Betty Ford's 1978 intervention.
+- OxyContin "was released in 1996 after Curtis Wright, an employee of the Food and Drug Administration approved its use on a 12-hour dosage cycle." Purdue marketed it as "smooth and sustained pain control all day and all night" on a 12-hour schedule. "However, most patients found it wore off after eight hours or less" (Wikipedia, "Purdue Pharma," opened 2026-10-02).
+
 ### SEARCHED, NOT FOUND 2026-09-27 (T-266c): How many Americans died of drug overdoses in the 1990s, year by year?
 Sources checked: CDC NCHS Data Brief 356 (the rate was 6.1 per 100,000 in 1999, no earlier years), Data Briefs 428, 522 and 549 (from 1999 or 2003 on), NIDA "Drug Overdose Deaths: Facts and Figures" (2022 and 2023 counts only). CDC's standard national series starts in 1999.
 How the prose can say it: "In 1999, about 6 of every 100,000 Americans died of a drug overdose."
@@ -752,6 +788,9 @@ How the prose can say it: "In 1999, about 6 of every 100,000 Americans died of a
 - 7 January 2026: the 2025 to 2030 Dietary Guidelines for Americans dropped the old limit of one drink a day for women and two for men and said "Consume less alcohol for better health." Dr. Mehmet Oz, head of the Centers for Medicare and Medicaid Services, called alcohol "a social lubricant that brings people together" (The Hill/Nexstar, January 2026, opened with curl). Release date 7 January 2026 from a search summary (unconfirmed: search summary only). The Hill says "unveiled to the public on Wednesday": 7 January 2026 was a Wednesday.
 - Teens: Monitoring the Future 2025 (NIDA, 17 December 2025, opened): past-year alcohol use 11 percent of 8th graders, 24 percent of 10th graders, 41 percent of 12th graders. Marijuana 8, 16 and 26 percent. Nicotine vaping 9, 14 and 20 percent. 66 percent of 12th graders had used none of the three in the past 30 days. Use has stayed near the low reached in 2021 for five years.
 - Alcoholics Anonymous: "membership estimated at over two million" in "more than 123,000 A.A. groups around the world" (aa.org, "A.A. Around the World," opened 2026-09-27; the page gives no date for the estimate). Refreshes the 2021 "nearly two million" (Wikipedia) in era 08.
+
+### PATCH 2026-10-02 (T-465): the Temple of Dendur (era 10)
+- "The Temple of Dendur ... is a Roman Egyptian religious structure originally located in Tuzis (later Dendur), Nubia," completed around 10 BCE; on display at the Metropolitan Museum of Art since September 1978; Egypt gave it to the United States in 1965 (Wikipedia, "Temple of Dendur," opened 2026-10-02).
 
 ### Crack sentences after 2000 (`crime-justice` leads)
 - 3 August 2010: President Barack Obama signed the Fair Sentencing Act, written by Senator Dick Durbin. It cut the crack-to-powder ratio from 100 to 1 to 18 to 1. 21 December 2018: President Trump signed the First Step Act, which applied the change to people already sentenced. More than 2,000 federal prisoners got shorter sentences in its first year (crime-justice bank era 10, from Wikipedia).

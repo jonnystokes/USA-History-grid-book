@@ -4730,9 +4730,11 @@ Step 5: 21 chapters fixed whole + rights-movements part3.
 ### 2026-10-02 | [LOCAL] WAVE6M complete: T-461 immigration resumed after its timer and PASSED. The pause-by-timer trick worked. Step 5: 22 chapters fixed whole + rights-movements part3. Waiting for Jon.
 
 ### 2026-10-02 | [LOCAL] T-465 | drugs-alcohol: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+RESULT: DONE. PASS  drugs-alcohol / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=20454w files=3 validator_errors=0
+        435117 tokens, 233 tool uses, 19.0 min (opus). FIXER whole chapter [WAVE8L]: 258 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+3 listed), 9 found by fixer; reversed facts and softenings fixed; 20,226 -> 21,707 words
 
 ### 2026-10-02 | [LOCAL] T-466 | slavery-freedom: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: IN-FLIGHT
