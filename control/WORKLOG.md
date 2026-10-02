@@ -4709,3 +4709,4 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-holidays.md
 VERIFY: python tools/project_state.py --check holidays --stage prose
 USAGE WAVE8: 0% -> 54% = 3.33M opus tokens (1.62% per 100k in parallel). WAVE6M (T-459..T-464, 6 medium chapters) at 54% (Jon).
+AGENTS WAVE6M: T-459 ae021d8eee199abf7, T-460 a73c415e07fcd4d08, T-461 ab89cbf886f0a5af6, T-462 a4f16dce8d1b5b4e6, T-463 a0cc24496da5f6ba8, T-464 a184b758370730c77
