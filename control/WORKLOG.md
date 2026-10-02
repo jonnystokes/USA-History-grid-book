@@ -4640,9 +4640,11 @@ CHECKPOINT: control/checkpoints/F5-city-building.md
 VERIFY: python tools/project_state.py --check city-building --stage prose
 
 ### 2026-10-01 | [LOCAL] T-455 | technology: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-technology.md
 VERIFY: python tools/project_state.py --check technology --stage prose
+RESULT: DONE. PASS  technology / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16133w files=3 validator_errors=0
+        419711 tokens, 268 tool uses, 21.0 min (opus). FIXER whole chapter [WAVE8]: 212 FIXED, 13 REJECTED, 1 NEEDS-RESEARCH, 23 found by fixer; bank barbed-wire wording corrected; 15,677 -> ~17,100 words
 
 ### 2026-10-01 | [LOCAL] T-456 | migration: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: DONE
