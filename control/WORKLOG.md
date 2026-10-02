@@ -4796,3 +4796,8 @@ DECISIONS #32 amended (unsourced "historians call it rape"; round 2 priority).
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+
+### 2026-10-02 | [LOCAL] T-474 | native-nations: FIXER opus, whole chapter [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-native-nations.md
+VERIFY: python tools/project_state.py --check native-nations --stage prose
