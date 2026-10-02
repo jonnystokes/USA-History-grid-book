@@ -4637,9 +4637,11 @@ RESULT: DONE. PASS  land-environment / prose. measured: stage=WRITTEN ms_eras=10
         392009 tokens, 241 tool uses, 18.2 min (opus). FIXER whole chapter [WAVE8]: 146 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 18 found by fixer; source-talk lines rewritten; 18,020 -> 19,440 words
 
 ### 2026-10-01 | [LOCAL] T-454 | city-building: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-city-building.md
 VERIFY: python tools/project_state.py --check city-building --stage prose
+RESULT: DONE. PASS  city-building / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18101w files=3 validator_errors=0
+        565164 tokens, 329 tool uses, 33.5 min (opus). FIXER whole chapter [WAVE8]: 285 FIXED, 9 REJECTED, 0 NEEDS-RESEARCH, 6 found by fixer; whose land each city was built on; 1867 tenement law, Anderson age fixed; 17,040 -> 19,060 words
 
 ### 2026-10-01 | [LOCAL] T-455 | technology: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: DONE
