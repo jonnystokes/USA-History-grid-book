@@ -4743,3 +4743,8 @@ VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+
+### 2026-10-02 | [LOCAL] T-468 | health: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-health.md
+VERIFY: python tools/project_state.py --check health --stage prose
