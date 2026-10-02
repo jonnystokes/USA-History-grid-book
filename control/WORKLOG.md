@@ -4816,3 +4816,8 @@ VERIFY: python tools/project_state.py --check crime-justice --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+
+### 2026-10-02 | [LOCAL] T-479 | education: FIXER opus, part3 only [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-education.md
+VERIFY: python tools/project_state.py --check education --stage prose
