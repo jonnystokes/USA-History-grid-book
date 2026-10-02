@@ -4786,3 +4786,8 @@ RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written
         560151 tokens, 400 tool uses, 26.1 min (opus). FIXER whole chapter [WAVE8L]: 298 FIXED, 24 REJECTED, 1 NEEDS-RESEARCH (+1), 5 found by fixer; slur titles removed (#35), 'invade the sacred kivas', Stono per #36; 25,256 -> 27,107 words
 USAGE: WAVE6M ended at 97% (Jon). WAVE8L (T-465..T-472: 2 medium + 6 large) at 8% (Jon), target ~80%.
 AGENTS WAVE8L: T-465 a4e5c0a46ee5988bb, T-466 a77493dc1ad1af7dd, T-467 afe58d2f086c5e7ea, T-468 acba9ac92ae5ea753, T-469 a6bd356ed21f591ce, T-470 a519e6876d163cfbd, T-471 aa14a84f015e28b9d, T-472 ad57e0c6a29047c87
+
+### 2026-10-02 | [LOCAL] WAVE8L done: 8 opus fixers (T-465..T-472), all PASS. Tokens 435k-611k (total 4.03M).
+Usage at start 8% (Jon). Step 5: 30 chapters fixed whole + rights-movements part3. Left: war, native-nations,
+government-politics, crime-justice (3 with a calibration part), religion (2), education (2), rights-movements p1-2.
+DECISIONS #32 amended (unsourced "historians call it rape"; round 2 priority).
