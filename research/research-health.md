@@ -64,6 +64,12 @@ Sources opened this pass:
 Sources checked: Wikipedia, "Mississippian shatter zone" (opened): de Soto was "possibly spreading European diseases among the people he encountered, although no firm evidence of epidemics among the natives as a result of de Soto's passage has been found." It lists de Soto's documented harms as "killing and enslaving Indians" and "confiscating food supplies," and dates the documented epidemic wave to 1696 and after (era 03 PATCH). A search result reports that the anthropologists Ann Ramenofsky and Patricia Galloway proposed de Soto's herd of pigs (counts of about 200 and about 300) as a possible source of disease (unconfirmed: search summary only). University of Arkansas thesis "Disease and De Soto: A Bioarchaeological Approach" (scholarworks.uark.edu, would not download). Cofitachequi: Wikipedia "Cofitachequi" is reported in a search result to list an epidemic "in the 1520s" (unconfirmed: search summary only). Ayllon's colony San Miguel de Gualdape (1526) suffered disease and was abandoned after about three months (search summary only). No opened source links the Cofitachequi disease to Ayllon or to anyone else.
 How the prose can say it: "No record shows where the disease at Cofitachequi came from. Historians still argue over whether de Soto's own army carried new diseases inland. The records do show that de Soto's men killed and enslaved Native people and took their food."
 
+### PATCH 2026-10-02 (T-468): Hariot's own words on the invisible bullets and Wingina; who Hariot, White and Elvas were
+- Hariot 1588 (Gutenberg 4247, downloaded and read 2026-10-02): some Algonquians said "there were more of our generation yet to come, to kill theirs and take their places." "Those that were immediatly to come after vs they imagined to be in the aire, yet inuisible & without bodies, & that they by our intreaty & for the loue of vs did make the people to die in that sort as they did by shooting inuisible bullets into them." Others "thought that we shot them ourselues out of our pieces from the place where we dwelt."
+- Same text: "The Wiroans with whom we dwelt called Wingina." Wingina and others asked the English to pray "that they as others that had dealt ill with vs might in like sort die" (that their enemies would die the same way).
+- Wikipedia, "Thomas Harriot" (opened 2026-10-02): "English astronomer, mathematician, ethnographer and translator." He "learned the Carolina Algonquian language from two Native Americans" and worked "closely with John White." Its link names White as a "colonist and artist."
+- Gentleman of Elvas: his account was written in Portuguese and first printed at Evora, Portugal, in 1557. Hakluyt Society edition, London 1851: "written by a gentleman of Elvas ... and translated out of Portuguese by Richard Hakluyt" (Library of Congress finding aid, https://findingaids.loc.gov/repositories/7/archival_objects/538065, title seen 2026-10-02). American Journeys title: "...Some Nobles of Portugal ... by a Fidalgo of Elvas" (https://www.americanjourneys.org/aj-021/summary/). Elvas is a town in Portugal. His name is unknown.
+
 ## 03 · The 1600s (T-263r, 2026-09-27)
 
 Sources opened this pass:
@@ -214,6 +220,10 @@ Sources opened this pass:
 Sources checked: MHS 2021, Paul Revere House 2020, Wikipedia 1721 outbreak (all state the bomb and the note. None names a thrower. No date in the text read. November 1721 is widely repeated but not in an opened source).
 How the prose can say it: "Someone threw a bomb through Mather's window. The records do not name who."
 
+### PATCH 2026-10-02 (T-468): the bomb's date, and who backed and who feared inoculation in 1721 (copied from research-news-communication.md era 04)
+- Matthew James Crawford, review of Harvard's *Contagion* collection, *Medical History* (https://pmc.ncbi.nlm.nih.gov/articles/PMC3865953, opened by news-communication's researcher): on 14 November 1721 "someone threw a homemade bomb through the window of Cotton Mather's home in Boston." This answers the date half of the SEARCHED, NOT FOUND entry above. The thrower is still not named in any opened source.
+- Massachusetts Historical Society, "Silence Dogood: Benjamin Franklin in The New-England Courant," https://www.masshist.org/online/silence_dogood/essay.php?entry_id=210 (opened by news-communication's researcher): "The ministers, led by Cotton Mather, supported inoculation while almost all the physicians except Zabdiel Boylston feared that inoculation would spread the disease." "While James Franklin claimed to be neutral, his newspaper gave the anti-inoculation forces a forum for their protests."
+
 ### PATCH 2026-09-27 (T-263r): consent of Jack and Jackey
 - No opened source records whether Jack, 36, or his son Jackey, two and a half, agreed to be inoculated. Boylston's own account calls Jack "my Negro Man" (Mass Moments). Both were enslaved by Boylston. The outline states that his record does not say whether Jack agreed.
 
@@ -294,6 +304,11 @@ Sources opened this pass:
 - Actor check, yellow fever: who fled is given only as "about 20,000 people" (O'Malley). That President Washington and federal officials left Philadelphia, then the capital, is general knowledge, not opened this pass: do not use without a source.
 - Count check, Revolution smallpox: Fenn's continental count is search-summary only (above). No opened source gives the Continental Army's smallpox deaths.
 - Medicine in slavery, 1750-1800: Doctor Caesar (freed for his cure, while his family stayed enslaved), the 1751 South Carolina law barring enslaved healers, and the Black volunteers of 1793 recruited on the false promise that they could not catch yellow fever. Experiments on enslaved people in 1750-1800: none found in an opened source. J. Marion Sims's operations on enslaved women date from 1845 to 1849, era 06 (T-263b).
+
+### PATCH 2026-10-02 (T-468): Jones and Allen's own words on how they began and on Rush; who fired in the Doctors' Riot
+- Jones & Allen 1794 (Internet Archive djvu text of the NLM copy, https://archive.org/download/2559020R.nlm.nih.gov/2559020R_djvu.txt, downloaded and read 2026-10-02): after the September notice, "we and a few others met and consulted how to act." The next day they "called on the mayor" to ask how to help. "When the sickness became general, and several of the physicians died, and most of the survivors were exhausted by sickness or fatigue; that good man, Doctor Rush, called us more immediately to attend upon the sick, knowing we could both bleed." When they could not judge what to do they were "to apply to him, and he would, if able, attend them himself, or send Edward Fisher, his pupil, which he often did." The text contains no statement that Rush kept his house open day and night (searched for every "Rush" in the text).
+- Wikipedia, "1788 doctors' riot" (opened 2026-10-02): the petition of 3 February 1788 "was largely ignored, and no effort was made to stop the unlicensed exhumations." The mayor ordered the doctor Wright Post and medical students "escorted to the jailhouse for protection." "Militia and cavalry were called in to repel them." "At least three rioters and three militiamen died in the confrontation; some estimate up to 20 dead."
+- New York Almanack, "Grave Robbing And The Doctors Riot of 1788," December 2016, https://www.newyorkalmanack.com/2016/12/the-doctors-riot-of-1788/ (opened 2026-10-02): the militiamen "had orders not to fire but when Secretary of Foreign Affairs, John Jay, and Revolutionary War hero, General Baron von Steuben, were hit with bricks and rocks, the militiamen opened fire." Governor George Clinton was at the jail urging the crowd to leave. "Initially, at least three rioters and three members of the militia were killed," with a final toll "estimated at 20." No opened source names an officer who gave the order to fire.
 
 ## 06 · 1800 to 1850 (T-263b, 2026-09-27)
 
@@ -393,6 +408,9 @@ How the prose can say it: "The records do not show what happened to Anarcha, Bet
 Sources checked: Kenny 2007 abstract (OUP, opened: surgical treatment, no method or count). Wikipedia "J. Marion Sims" (opened again: "use[d] a shoemaker's awl to pry the skull bones of enslaved infants into alignment," autopsies on the bodies, blamed deaths on "the sloth and ignorance of their mothers and the black midwives," citing Kenny and Harriet A. Washington, *Medical Apartheid*, pp. 62-63). Hastings Center 2017 essay by Susan Reverby (opened: no infant material, only a reader's comment). Hampton University "Lest We Forget" page (connection refused). PubMed 18605326 (cookie wall). Search summaries only for the awl and a "100% fatality rate" (unconfirmed: search summary only).
 How the prose can say it: "Sims also operated on enslaved babies sick with neonatal tetanus, the historian Stephen Kenny found." Do not state the awl method or the death count without a second opened source.
 
+### PATCH 2026-10-02 (T-468): the 1802 Boston test, re-read
+- Countway, "Gilt by Association: Smallpox Vaccination and the Waterhouse Experiments" (opened again 2026-10-02): "Six physicians along with Waterhouse vaccinated nineteen boys on August 16." "Later that fall, the volunteers were exposed to the smallpox virus." The page calls the boys "volunteers." It does not say where the vaccinations were done, who exposed the boys, how, whose sons they were, or whether their parents agreed.
+
 ## 07 · 1850 to 1900 (T-263b, 2026-09-27)
 
 Sources opened this pass:
@@ -481,6 +499,10 @@ How the prose can say it: "Union army officers and Freedmen's Bureau officials r
 - Actor check, Garfield: the probing doctors are named in part (Bliss). Wikipedia also says one physician punctured his liver while probing (no name given).
 - Count check, Civil War: record 620,000 (ABT), 700,000 (Dorwart), up to 850,000 (ABT, "some believe"). Disease share: 5 of 8 (ABT ratio) or more than 400,000 of 700,000 (Dorwart).
 - "Firsts" checked: Mahoney "first African American in the US to earn a professional nursing license" (Spring 2017, NWHM). La Flesche "first American Indian woman in the United States to receive a medical degree" (NLM). Blackwell (era 06) first woman to earn a US medical degree (HWS, Wikipedia). Anne Miller "first patient in the United States whose life was saved by penicillin" (Yale 2026). All sourced. The seed claim "nursing as a trained profession after the Civil War" is covered only through the New England Hospital 1878-79 course: 1873 schools not opened.
+
+### PATCH 2026-10-02 (T-468): who created New York's Metropolitan Board of Health, 1866
+- Wikipedia, "Metropolitan Health Bill" (opened 2026-10-02): "On February 19, 1866, the Bill passed the New York senate, 22-2, and the assembly, 74-28, and was signed into law by Governor Reuben Fenton on February 26." Dr. Stephen Smith worked for its passage and told its history in his book *The City that Was*. A search summary of Wikipedia "Metropolitan Board of Health" adds that its leaders were four police commissioners, the port's health officer, and four commissioners named by the governor, three of them doctors (unconfirmed: search summary only).
+- This settles the disagreement above: state lawmakers created the board. CUNY's "Common Council" wording is the weaker account. Dorman Eaton is not named on the opened page.
 
 ## 08 · 1900 to 1950 (T-263b, 2026-09-27)
 
@@ -622,6 +644,12 @@ Sources opened this pass:
 - Count check, Mary Mallon: 47 infected, 3 dead (NOVA). Some accounts give more: not opened.
 - "Firsts" checked: Anne Miller (Yale). Hill-Burton "only time ... codified" (search summary only, not used).
 - Seed claims left out: "X-rays," "vitamins and nutrition" (pellagra covers diet), "the growth of hospitals and health insurance" (Hill-Burton covers hospitals, insurance not researched), "radiation-safety limits it produced" (the elements park says the dial painters' bodies were studied to set limits, sources History.com and LOC per `elements`: not opened this pass, not in outline).
+
+### PATCH 2026-10-02 (T-468): Maass, Flexner's words, consent in Guatemala, and how Puerto Rican women were pressured
+- Wikipedia, "Clara Maass" (opened 2026-10-02): born "June 28, 1876" in East Orange, New Jersey. Died "August 24, 1901." "By 1898, she had been promoted to head nurse at Newark German Hospital."
+- JSTOR Daily, "The 1910 Report That Disadvantaged Minority Doctors" (opened again 2026-10-02): "Flexner said that several of the schools were 'in no position to make any contribution of value' and called them 'beyond repair.'" And: "the American Medical Association used the report to advance an agenda that protected the professional and financial interests of their (white, male) membership."
+- Presidential Commission, *"Ethically Impossible"* (2011, PDF downloaded and text searched 2026-10-02): "Some of the research involved deliberate infection of people with sexually transmitted diseases ... without their consent." On the testing group: "There is no record of any of the subjects involved in the serology experiments consenting to any of the procedures performed by investigators." On the orphanage children: "no record that the children knew that they were a part of an experiment or had an individual parent or guardian consent on their behalf." On the soldiers: "There is no evidence that the soldiers gave consent for the experiments."
+- Puerto Rico (copied from research/research-america-world.md, PATCH T-254, Jaquira Díaz, History News Network, read directly by that researcher): beyond the 97 forced sterilizations, "many thousands of other women were effectively coerced into the same procedures." Women were "led to believe that sterilization was reversible, or told that they would not be employed unless they had been sterilized," and some pregnant women "were turned away unless they agreed to be sterilized after giving birth." DIG podcast (historians' podcast, label it): employers favored hiring sterilized women. The evidence on consent is mixed: some women chose it because it was the only birth control offered.
 
 ## 09 · 1950 to 2000 (T-263c, 2026-09-27)
 
@@ -806,6 +834,16 @@ How the prose can say it: "The girls were 12 and 14." Two of three accounts make
 - "Firsts" checked: first successful kidney transplant (Wikipedia Murray). HeLa "the first immortalized human cell line" (Wikipedia Lacks, which also cites Hayflick 2010 in Nature, "Myth-busting about first mass-produced human cell line"). The outline says only that her cells were the first human cells to keep growing in a laboratory, which matches Wikipedia's lead. Salk's was the first polio vaccine licensed (CDC Pinkbook: IPV 1955, OPV 1961). Last polio case caught inside the United States, 1979 (CDC).
 - Land: Rongelap and Utirik are Marshallese land (war bank).
 
+### PATCH 2026-10-02 (T-468): era 09 lines checked on opened pages
+- MMWR 2001a (reopened 2026-10-02): of the five Los Angeles men of 1981, "All of the men were described as 'homosexuals'." Two had died.
+- Wikipedia, "Henrietta Lacks" (reopened 2026-10-02): the estate's 2021 suit alleged Thermo Fisher was "profiting from the HeLa cell line without Lacks's consent" and asked for "the full amount of [Thermo Fisher's] net profits." Settled 31 July 2023, terms undisclosed.
+- Wikipedia, "Relf sisters" (reopened 2026-10-02): the Montgomery Community Action Committee "in 1971, relocated the family to live in public housing." The lawsuit "resulted in a prohibition against the use of federal funds for involuntary sterilization." The page gives no wider informed-consent rule and no date for one.
+- Wikipedia, "Tuskegee Syphilis Study" (reopened 2026-10-02): "Buxtun finally went to the press in the early 1970s. The story broke first in the Washington Star on July 25, 1972, reported by Jean Heller of the Associated Press." The page does not name DuVal (Heller's article in the PATCH above does).
+- NLM Native Voices 491 (reopened 2026-10-02): "Dr. Thomas Parran's report, commissioned by the U.S. Department of the Interior."
+- Wikipedia, "Jonas Salk" (opened 2026-10-02): in 1941 Salk "chose a two-month elective to work in the Thomas Francis' laboratory at the University of Michigan," his "first introduction to the world of virology," and he later worked in Francis's laboratory again and with Francis at Michigan on an army influenza vaccine.
+- Smith 2016 (reopened 2026-10-02): inspectors faced "jailing on trumped up charges, bullets fired at their rental cars, high speed chases to outrun local Klan groups, and, in at least two cases, crosses burned on their front lawns." Hospital workers who helped them: "Several had their homes bombed and one may have even been murdered." "In the Jim Crow South Blacks were mostly relegated to separate and unequal accommodations in basement wards, racially separate facilities or excluded altogether." "In most northern cities ... hospital care was just as racially segregated as in the South."
+- Big-business bank (research-big-business.md line 507, Wikipedia "A Frank Statement", opened by that researcher): "Major American tobacco companies paid for it."
+
 ## 10 · 2000 to Today (T-263c, 2026-09-27; every figure dated, current to 27 September 2026)
 
 Sources opened this pass:
@@ -899,6 +937,9 @@ Sources opened this pass:
 - Actor check: COVID-19 (disease, no single actor. Emergency declared by Alex Azar, vaccine authorized by FDA). Opioids (Purdue Pharma and three named executives from big-business's bank, prescribers as a group per CDC's first wave). Medicaid law (President Trump signed. CBO projected). ACIP (Kennedy). Tobacco (Kessler's ruling names the companies as a group).
 - "Firsts" checked: Casgevy the first FDA-approved CRISPR therapy (FDA). Lindsay the first American outside trials vaccinated (CDC museum). Narcan the first naloxone approved without a prescription (FDA).
 - Native continuity: AIAN life expectancy 2019-2021 (NCHS VSRR 23).
+
+### PATCH 2026-10-02 (T-468): the 2013 change in the Census health insurance questions
+- U.S. Census Bureau, *Health Insurance Coverage in the United States: 2013* (P60-250), https://www.census.gov/library/publications/2014/demo/p60-250.html (opened 2026-10-02): "Due to the redesign of the health insurance section of the CPS ASEC, its estimates of health insurance coverage are not directly comparable to estimates from prior years of the survey." This confirms the era 10 note that the 2010 and 2025 counts were not measured in exactly the same way.
 
 <!-- END OF ERA SECTIONS 01-10 (T-263a, T-263r, T-263b, T-263c) -->
 

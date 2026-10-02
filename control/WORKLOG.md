@@ -4749,9 +4749,11 @@ RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 w
         474688 tokens, 319 tool uses, 19.2 min (opus). FIXER whole chapter [WAVE8L]: 276 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH, 16 found by fixer; Choctaw removal and International League fixed; Curtis 1807 kept; 23,026 -> 24,908 words
 
 ### 2026-10-02 | [LOCAL] T-468 | health: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+RESULT: DONE. PASS  health / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21034w files=3 validator_errors=0
+        474437 tokens, 281 tool uses, 20.1 min (opus). FIXER whole chapter [WAVE8L]: 274 FIXED, 28 REJECTED, 0 NEEDS-RESEARCH, 4 found by fixer; invented actor removed; Sims unchanged; 21,067 -> 22,594 words
 
 ### 2026-10-02 | [LOCAL] T-469 | disasters: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: IN-FLIGHT
