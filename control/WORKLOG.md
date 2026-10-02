@@ -4886,8 +4886,8 @@ RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/
 USAGE AT START (T-483, first round-2 research agent): 61% (Jon).
 AGENT: a3578e6a9415aefb9 (T-483)
 
-### 2026-10-02 | [LOCAL] T-484 | native-nations: RESEARCH round 2 R2-native-war: native-nations war exploration america-world | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. native/war group: 15 written, 4 not found; Sand Creek (Anthony), Wounded Knee burial count, 1970s sterilizations, Boone now on two UPK books, Meuse-Argonne, Maduro raid; all 4 chapters PASS. 318,944 tokens, 189 tools, 16.4 min (opus).
 CHECKPOINT: control/checkpoints/R2-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
 

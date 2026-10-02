@@ -2182,6 +2182,21 @@ children and elders). War's slice:
   https://history.nebraska.gov/collection_section/william-walter-grayson-rg1039-am/ , via search
   summary; US War Memorials marker page, same). Born England 9 April 1876, died San Francisco 20 March 1941.
 
+### PATCH 2026-10-02 (T-484): where Wesley Norris, his sister and his cousin were caught, 1859
+- Wesley Norris, "Testimony," *National Anti-Slavery Standard*, 14 April 1866, transcribed at
+  https://fair-use.org/wesley-norris/testimony-of-wesley-norris (opened 2026-10-02): at Westminster,
+  Maryland, "we were apprehended and thrown into prison, and Gen. Lee notified of" the arrest. He
+  names no one who caught them. After 15 days in jail they were brought back to Arlington.
+- Ariel Burriss, "The Fugitive Slaves of Robert E. Lee: From Arlington to Westminster," Catoctin
+  Center for Regional Studies / Crossroads of War (PDF read 2026-10-02): "On June 2, 1859, the
+  Carroll County Democrat reported that four fugitive slaves had been arrested in Westminster,
+  Maryland"; they had "almost made it to the Pennsylvania line"; Elizabeth Brown Pryor (*Reading the
+  Man*, 2008) found an account book showing the constable was paid by Lee on the date of the whipping.
+  The cousin is George Parks (search summary of the Norris testimony pages; not used).
+- SEARCHED, NOT FOUND: the names of the men who arrested them at Westminster. Neither Norris's
+  testimony nor the Crossroads of War essay names them. Prose: say where they were caught and jailed
+  and that no surviving record names who caught them.
+
 ---
 ---
 
@@ -2672,6 +2687,30 @@ https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026
 - **Napalm, plain words:** gasoline thickened into a jelly. It sticks to whatever it lands on,
   including skin, and keeps burning. (Standard definition; the Museum names napalm but does not
   define it.)
+
+### PATCH 2026-10-02 (T-484): Meuse-Argonne dead, Choctaw citizenship, who burned the Bonus Army camps
+- **Meuse-Argonne (answers the ABMC item; abmc.gov still 403):** Jessie Kratz, National Archives
+  History Office, "'It is Now or Never': Final Victory in the Great War," *Prologue* blog, 28
+  September 2018, https://prologue.blogs.archives.gov/2018/09/28/it-is-now-or-never-final-victory-in-the-great-war
+  (opened 2026-10-02): "In six weeks, the American Expeditionary Force (AEF) lost 26,277 who were
+  killed and 95,768 who were wounded." The 26,277 can now be stated as the National Archives' count.
+- **Choctaw "natural born citizens":** Choctaw Nation of Oklahoma, "Code Talkers,"
+  https://www.choctawnation.com/about/history/code-talkers/ (opened): "Native Americans did not
+  receive nationwide citizenship until 1924, yet the Choctaws were both patriotic and valiant, with a
+  desire to serve in the war effort." M. Kaye Tatro, "Burke Act (1906)," *Encyclopedia of Oklahoma
+  History and Culture*, Oklahoma Historical Society, https://www.okhistory.org/publications/enc/entry.php?entry=BU010
+  (opened): the Dawes Act's citizenship clause had exempted the Cherokee, Chickasaw, Choctaw,
+  Seminole and Creek; "The Dawes Act was amended in March 1901 to include them." So the Choctaw
+  code talkers were US citizens under the 1901 law, while many other Native people were not until
+  the 1924 Indian Citizenship Act (LOC Law Library blog, Bailey DeSimone, 25 Sep 2020, opened: the
+  1924 act "granted citizenship to 'all non-citizen Indians born within the territorial limits of
+  the United States'"). Search summaries saying the Choctaw soldiers "were not recognized as
+  citizens" are not used: they conflict with the 1901 law.
+- **Bonus Army fires:** NPS, "The 1932 Bonus Army," https://www.nps.gov/articles/the-1932-bonus-army.htm
+  (opened 2026-10-02): "the army began using tear gas and bayonets to drive them away, and employing
+  torches to set fire to the shanty towns." Wikipedia "Bonus Army" (opened, tertiary): at the main
+  Anacostia camp, "who set them on fire is somewhat unclear." Prose: soldiers used torches to set
+  the camps on fire (NPS); accounts differ on who set the fires at Anacostia.
 
 ## 9. 1950 TO 2000
 
@@ -3321,6 +3360,22 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
 - **Costs of War:** unchanged (above).
 - **TBI (health.mil, as of 8 June 2026)** and **Pew veterans (2023)**: not re-fetched; the TBI page
   is dated June 2026, which is current.
+
+### PATCH 2026-10-02 (T-484): the Maduro raid, what happened; Iran figures re-checked
+- Mariel Ferragamo, "A Guide to Maduro's Capture and Venezuela's Uncertain Future," Council on
+  Foreign Relations, 8 January 2026, https://www.cfr.org/articles/guide-maduros-capture-and-venezuelas-uncertain-future
+  (opened 2026-10-02): "The U.S. Army's Delta Force and CIA operatives captured Maduro and his wife,
+  Cilia Flores, and flew them initially to the USS Iwo Jima assault ship stationed nearby." "The
+  pair were then brought to New York, where officials indicted them"; the charges concern a drug
+  trafficking network; "Both he and Flores pleaded not guilty." "Cuba lost thirty-two officers in
+  the January 3 attack on Venezuela." Living people (rule 5): state the charges and the not-guilty
+  pleas, never the accusations as fact. Trial status not given (perishable).
+- **Iran war, re-checked 2026-10-02:** GlobalSecurity.org, "Iran War 2026, Day 216 Update, 01
+  October 2026," https://www.globalsecurity.org/military/ops/iran-war-oprep.htm (opened): the
+  Defense Department reports "19 since 28 February," unchanged; figures for the wounded "remain
+  unreconciled." The prose's 19 (Pentagon, 22 September 2026) and "still going on in late
+  September 2026" stand. ABC News, 24 July 2026 (opened): the Pentagon database once dropped from 18
+  to 14 deaths, then was corrected (background only).
 
 ## Parked from `america-world` (2026-09-27, T-254)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.

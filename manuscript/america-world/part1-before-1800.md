@@ -119,7 +119,7 @@ The land came from France. French diplomats signed over to Britain all the land 
 <!-- hb-zoom level="span" label="Louisbourg, taken in 1745 and given back in 1748" -->
 In 1745 New England soldiers captured a French fortress, and three years later British diplomats handed it back to France. On April 4, 1745, almost 3,000 New England troops under Colonel William Pepperrell sailed from Boston. A small fleet of British Royal Navy warships under Commodore Peter Warren joined them. They laid siege to Louisbourg, a French fortress on Cape Breton Island. A siege is an attack in which an army surrounds a place and cuts it off until it gives up. The siege lasted 49 days. The French surrendered on June 17, 1745.
 
-French fire killed about 100 New England men during the siege, and about 30 more died of illness. The troops stayed in the broken, dirty fortress through the winter. Between late November 1745 and mid-February 1746 they buried 561 of their own men, dead of disease. Pepperrell counted about 1,200 men lost in all.
+French fire killed about 100 New England men during the siege, and about 30 more died of illness. The troops stayed in the broken, dirty fortress through the winter. Between late November 1745 and mid-February 1746 they buried 561 of their own men, dead of disease. In June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
 
 In 1748 British and French diplomats signed the Treaty of Aix-la-Chapelle. British diplomats gave Louisbourg back to France. In exchange French diplomats gave back Madras, a city in India that French forces had taken from Britain. British officials did not ask the colonists, and New Englanders were furious.
 <!-- /hb-zoom -->

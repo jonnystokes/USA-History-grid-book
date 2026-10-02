@@ -46,11 +46,11 @@ In 2023, the Secretary of the Army canceled all the convictions and changed the 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Meuse-Argonne, the flu and the Choctaw code talkers, 1918" -->
-More than a million American soldiers fought in the Meuse-Argonne, in northern France, from September 26 to November 11, 1918. By the National Archives' count, more than 26,000 of them were killed, and more than 120,000 were killed, wounded or missing. An Air Force Times report on the battle's 100th anniversary called it "America's deadliest battle ever."
+More than a million American soldiers fought in the Meuse-Argonne, in northern France, from September 26 to November 11, 1918. By the National Archives' count, 26,277 of them were killed and 95,768 were wounded. An Air Force Times report on the battle's 100th anniversary called it "America's deadliest battle ever."
 
 Influenza, the flu, spread through the army camps and troopships in 1918. Most of the soldiers it killed died of pneumonia that followed it, when their lungs filled with fluid. Some died within hours. A sailor on one troopship to France remembered 15 burials at sea in one day. An article by Eric Durr on the Army's website counts about 45,000 soldiers dead of flu and pneumonia by the end of 1918. A narrower count, of soldiers admitted to army hospitals for flu, finds 24,664 deaths.
 
-German soldiers were listening in on American telephone lines. On October 26, 1918, officers of the 142nd Infantry had Choctaw soldiers send orders over the phone in the Choctaw language, and the Germans could not understand them. The soldiers made up code words. Artillery, the big guns, was "big gun," and a machine gun was "little gun shoot fast." Nineteen Choctaw soldiers are honored today as these code talkers. Their work was kept quiet until the late 1980s. Some of them had signed their enlistment cards as "natural born citizens."
+German soldiers were listening in on American telephone lines. On October 26, 1918, officers of the 142nd Infantry had Choctaw soldiers send orders over the phone in the Choctaw language, and the Germans could not understand them. The soldiers made up code words. Artillery, the big guns, was "big gun," and a machine gun was "little gun shoot fast." Nineteen Choctaw soldiers are honored today as these code talkers. Their work was kept quiet until the late 1980s. Some of them had signed their enlistment cards as "natural born citizens." A 1901 law had made the Choctaw and the other nations in Indian Territory, now Oklahoma, citizens of the United States. Many other Native people did not become citizens until a law of 1924.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="henry-gunther" name="Henry Gunther" movie="" kind="ordinary" status="verified" -->
@@ -71,7 +71,7 @@ In 1924, members of Congress voted World War I veterans a bonus, an extra paymen
 
 Police clearing the camps on July 28, 1932, shot two veterans, William Hushka and Eric Carlson, and both died. Hushka was a butcher from Lithuania who had sold his shop to join the army and became a citizen while he served. He was buried at Arlington National Cemetery.
 
-The same day, President Herbert Hoover ordered the army to clear the camps. General Douglas MacArthur, the army's chief of staff, sent soldiers with six tanks. Soldiers drove the veterans out with tear gas and bayonets, and the camps burned. Members of Congress voted to pay the bonus in 1936, over President Franklin Roosevelt's veto, his refusal to sign the law.
+The same day, President Herbert Hoover ordered the army to clear the camps. General Douglas MacArthur, the army's chief of staff, sent soldiers with six tanks. Soldiers drove the veterans out with tear gas and bayonets. A National Park Service history states that the soldiers used torches to set the camps on fire. Accounts differ on who set the fires in the main camp, at Anacostia. Members of Congress voted to pay the bonus in 1936, over President Franklin Roosevelt's veto, his refusal to sign the law.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The draft of 1940 and the objectors" -->
@@ -342,7 +342,7 @@ On September 5, 2025, President Trump signed an order letting officials call the
 <!-- hb-zoom level="span" label="2025 and 2026: boats, Venezuela and Iran" -->
 Starting on September 2, 2025, US military crews fired on boats in the Caribbean Sea and the eastern Pacific that President Trump's officials said were carrying drugs. By September 19, 2026, the Associated Press counted at least 231 people killed in 69 strikes. In at least one case, the Associated Press reported, the military gave no evidence that the boat carried drugs. The American Civil Liberties Union is suing for the families of two men from Trinidad, Chad Joseph and Rishi Samaroo, who were killed in a strike on October 14, 2025. The group says they were fishermen and farm workers.
 
-On January 3, 2026, American special operations forces took Venezuela's president, Nicolás Maduro, and his wife out of the capital, Caracas. Members of Congress had not voted to approve the raid beforehand.
+On January 3, 2026, soldiers of the Army's Delta Force and officers of the CIA, the American spy agency, captured Venezuela's president, Nicolás Maduro, and his wife, Cilia Flores, in the capital, Caracas. They flew the two to a Navy ship, the USS *Iwo Jima*, and then took them to New York. There federal officials charged them with crimes tied to smuggling drugs, and both said they were not guilty. American forces killed 32 Cuban officers in the attack. Members of Congress had not voted to approve the raid beforehand.
 
 American and Israeli pilots began bombing Iran on February 28, 2026, and Iranian forces fired back at American troops. By the Pentagon's public count on September 22, 2026, 19 American service members had died and more than 820 had been wounded. Five officials told the *Washington Post* that at least 22 service members had died in the Middle East since the war began. Not all of those deaths came from the fighting. The war was still going on in late September 2026.
 <!-- /hb-zoom -->

@@ -379,6 +379,11 @@ Europeans and not Americans.
 
 ---
 
+### PATCH 2026-10-02 (T-484): what Pepperrell's "about 1,200" counts
+- HistoryNet, "King George's War: Siege of Louisbourg," https://historynet.com/king-georges-war-siege-of-louisbourg/ (re-opened 2026-10-02): "Pepperrell noted in June 1746 that about twelve hundred of his men had died." The figure counts dead, not dead plus sick, discharged or deserted.
+- Peter Bower, *Louisbourg: A Focus of Conflict*, Parks Canada report H E 13, ch. VI, "The New England Occupation Period," transcribed by Krause House for the Fortress of Louisbourg research web, http://www.krausehouse.ca/krause/FortressOfLouisbourgResearchWeb/search/HE13-8.html (read 2026-10-02; https refused, http worked): by mid-February 1746 "At least 561 men had been buried during two months, 1,100 were still sick"; "On June 1, Pepperrell estimated that 1,200 men [died, word lost in the scan] of disease during the winter"; "By the end of January, 1746, nearly one-fifth of the garrison had been buried while half the remaining men were too sick for duty."
+- Prose: in June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
+
 ## ERA 05 — 1750 TO 1800 — where this chapter actually begins
 
 ### 5.1 The Revolution was a foreign-relations project from the start
@@ -1033,6 +1038,11 @@ name the Osage, Lakota, Mandan, Hidatsa, Arikara, Pawnee, Cheyenne, Arapaho and 
 lived across the land and were not party to the sale. Name none. `native-nations` leads.
 
 ---
+
+### PATCH 2026-10-02 (T-484): the "violence and discrimination" after 1848, named
+- California State Archives, *Gold Rush Records Teacher Guide*, Lesson 1, "The Foreign Miner's Tax Act (1850)," https://archives.cdn.sos.ca.gov/pdf/gold-rush-exhibit-companion-teacher-guide.pdf (PDF read 2026-10-02): California's new lawmakers passed the Foreign Miners' Tax Act in 1850; "This bill enforced an enormous $20 monthly tax on all foreign-born miners ... but it specifically targeted and was enforced with Chinese and Latino communities"; it "caused thousands of foreign-born miners to depart from the mining towns"; "The next year, the law was repealed." Santa Clara University digital exhibit, "Foreign Miners' Tax Act" (opened): "a monthly fee of $20 on foreign miners, targeting Chinese and Latin American workers."
+- William D. Carrigan and Clive Webb, "The Lynching of Persons of Mexican Origin or Descent in the United States, 1848 to 1928," *Journal of Social History* 37, no. 2 (2003), abstract at https://www.researchwithrowan.com/en/publications/the-lynching-of-persons-of-mexican-origin-or-descent-in-the-unite/ (opened 2026-10-02): "between 1848 and 1928, mobs lynched at least 597 Mexicans." The abstract names race, economic competition and US-Mexico tensions as causes, and records self-defense and appeals to the Mexican government as resistance.
+- Not used: Josefa Segovia's lynching at Downieville, 5 July 1851 (Wikipedia only); California State Library Gold Rush page (403, BLOCKED).
 
 ## ERA 07 — 1850 to 1900
 

@@ -288,3 +288,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **crime-justice part2 (T-476):** Myrtle Vance 'sexually attacked': round 2, find the period sources' word; use 'rape' if they support it (#31).
 - **education bank (T-482):** the T-261b sentence says Black teachers 'in every state ... faced the whip'; Louisiana and Alabama set only prison or fines. Correct the bank in round 2.
 - **#32 follow-up (T-483):** the one named historian found (Jessica Marie Johnson) is cited from her newsletter essay (Sept 23, 2026), not a book or journal. Step 6/7: look for a published book or article source to add beside it.
+- **america-world part 2, Kake (T-484):** the sentence cites 'one historian's account' without naming the historian (#32). Name the historian from the bank or restate as a plain fact.
