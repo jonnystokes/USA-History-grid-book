@@ -4866,3 +4866,5 @@ VERIFY: python tools/project_state.py --check education --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+USAGE AT START (T-481/T-482 parallel): 3% (Jon).
+AGENTS PAR2: T-481 a32df5e470776a7a2, T-482 a6edb01b9cfdb28e5
