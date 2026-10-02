@@ -675,6 +675,40 @@ wrestling, jumping contests, bowling, and even foot-ball" with prizes from a pur
 these contests were for poorer people while the wealthy watched. That sentence is in the outline, attributed.
 How the prose can say it: use the Gale sentence about fairs and court days only.
 
+### PATCH 2026-10-02 (T-467): Austin Curtis, his freedom and his death date
+- International Museum of the Horse, "Austin Curtis" (Emily Libecap; kyhorsepark.com PDF, opened 2026-10-02),
+  citing Katherine Mooney, *Race Horse Men* (Harvard, 2014), pp. 9 and 12, and Edward Hotaling, *The Great Black
+  Jockeys* (1999): born about 1760; married Nancy, eleven children; Curtis "protected Jones' horses from British
+  troops raiding the Carolinas for breeding stock" (Mooney 12); Jones "filed a petition on December 5, 1791 for
+  Curtis' freedom", writing that Curtis "by his attachment to his Country during the War by his fidelity to his
+  Master (the said Willie Jones) and by his Honesty and good Behavior on all Occasions, has demonstrated that he
+  deserves to be free" (Mooney 12); "His name was legally changed to Austin Curtis Jones"; he "became a trainer"
+  and "owned more than three hundred acres of land"; before his death he "had purchased his son William's
+  freedom". This confirms the petition and name change tagged unconfirmed in the era 05 entry above.
+- **Death date settled:** the museum page gives 10 December 1808, and the era 05 entry above says 1809. The
+  *Raleigh Minerva* obituary of 5 January 1808 (era 06 correction note, Forgotten Foundation packet) says "On the
+  10th ult.", which is 10 December 1807. The newspaper printed before 1808 had begun is the primary record:
+  **10 December 1807**. The prose follows it.
+- Not used: Hotaling's story (via the museum page) of a 1773 quarter race won by a stirrup trick for 147,000
+  pounds of tobacco. One popular source only.
+
+### PATCH 2026-10-02 (T-467): the Pittsfield bylaw of 1791
+- SABR, "The Pittsfield 'Baseball' Bylaw of 1791: What It Means" (opened 2026-10-02): the Pittsfield town meeting
+  passed it in 1791 to protect the new meeting house, "particularly its windows"; it barred "any game of wicket,
+  cricket, baseball, batball, football, cats, fives, or any other game played with ball" within 80 yards. This
+  confirms the list of games tagged unconfirmed above. The fine (five shillings) and the day (5 September 1791)
+  still rest on search summaries only (Protoball, 403 to the fetch tool).
+
+### PATCH 2026-10-02 (T-467): Hawaii in 1779 was not yet one kingdom
+- Wikipedia, "Kingdom of Hawaii" (opened 2026-10-02): "The Hawaiian Kingdom was established in 1795"; the islands
+  were "fully unified" in 1810. When Cook arrived in 1779, Kalaniʻōpuʻu ruled the island of Hawaii. Correct the
+  era 05 line "Hawaii was an independent kingdom then": in 1779 Hawaii was independent, ruled by its own chiefs.
+
+### PATCH 2026-10-02 (T-467): what the Continental Association was (copied from research-styles.md)
+- Wikipedia "Continental Association" (fetched 2026-10-01 by T-272, research-styles.md): adopted by the First
+  Continental Congress "on October 20, 1774"; it "opened with a ban on British imports that would begin December
+  1, 1774." ushistory.org: "a colony-wide prohibition against any trade with Great Britain."
+
 ## Bank check, eras 01-05 (T-271a, 2026-09-28)
 
 Run against the outline and the registry angle (how Americans and their children entertained themselves).
@@ -1231,6 +1265,33 @@ season." Give no yearly figures for other years of the 1890s.
 - Opened "June 16, 1884" at Coney Island, Brooklyn, designed and built by "LaMarcus Adna Thompson". "The car went just
   over 6 mph." "For five cents, riders would climb a tower to board the large bench-like car" (Wikipedia, "Switchback
   Railway", opened 2026-09-30). Sea Lion Park and Steeplechase Park stay unconfirmed and unwritten.
+
+### PATCH 2026-10-02 (T-467): Dancing Rabbit Creek negotiators, the choice put to the Choctaw, the numbers
+- Wikipedia, "Treaty of Dancing Rabbit Creek" (opened 2026-10-02): US negotiators "Colonel John Coffee and Secretary
+  of War John Eaton"; principal Choctaw negotiators "Chief Greenwood LeFlore, Mosholatubbee, and Nittucachee". "The
+  Choctaws faced migration west of the Mississippi River or submitting to U.S. and state law as citizens." About
+  15,000 Choctaw moved west in three migrations, 1831-1833; "About 2,500 died along the Trail of Tears" (winter
+  blizzard, cholera); "Approximately 5,000-6,000 Choctaws remained in Mississippi in 1831". This confirms the
+  15,000 / 2,500 figures tagged unconfirmed above. The Choctaw Nation's "over a quarter" stays the primary figure.
+- native-nations part 2 states that "United States officials and soldiers forced" the five southeastern nations to
+  move (DECISIONS #36: same event, same plain words).
+
+### PATCH 2026-10-02 (T-467): Lucy Larcom's mill job and later life
+- National Park Service, "Lucy Larcom" (nps.gov/people/lucy-larcom.htm, opened 2026-10-02): she was hired by the
+  Lawrence Manufacturing Company at eleven "as a doffer", changing filled bobbins for empty ones; "The printed
+  regulations forbid us to bring books into the mill, so I made my window-seat into a small library of poetry,
+  pasting its side all over with newspaper clippings" (her words); with her sister Emeline she published poetry in
+  the *Operatives' Magazine* and in the *Offering*; she taught in Illinois 1846-1853 and at Wheaton Seminary
+  1854-1862; her first book of poetry, *Similitudes*, came out in 1854; she died in Boston on 17 April 1893. The
+  page does not call the Lowell mills cotton mills.
+
+### PATCH 2026-10-02 (T-467): era 07, the International League after the 1887 vote (settles a contradiction)
+- Wikipedia, "Baseball color line" (opened 2026-10-02): "After the 1887 season, the International League retained
+  just two black players for the 1888 season, both of whom were under contracts signed before the 1887 vote, Frank
+  Grant of the Buffalo Bisons and Moses Fleetwood Walker of the Syracuse franchise, with Walker staying in the league
+  for most of 1889." Then: "A big change would take place starting in 1946, when Jackie Robinson played for the
+  Montreal Royals in the International League." So the bank line "No Black player appeared in the International
+  League again until Jackie Robinson" means: after Walker left in 1889. The prose now says so.
 
 ## Bank check, eras 06-07 (T-271b, 2026-09-28)
 
@@ -1919,6 +1980,15 @@ All pages opened 2026-09-30 (Wikipedia, via WebFetch).
   participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity
   receiving Federal financial assistance." President Richard Nixon signed it on June 23, 1972 (Wikipedia "Title IX",
   opened 2026-09-30).
+
+### PATCH 2026-10-02 (T-467): era 09, Flood and Cosell, and the jury that convicted Ali
+- Retro Report, "Transcript: The Birth of Free Agency" (retroreport.org, opened 2026-10-02): Howard Cosell: "You're a
+  man who makes $90,000 a year, which isn't exactly slave wages, what's your retort to that?" Curt Flood: "Well,
+  Howard, a well-paid slave is nonetheless a slave." A search summary dates the interview 3 January 1970 (unconfirmed:
+  search summary only).
+- Wikipedia, "Clay v. United States" (opened 2026-10-02): Ali "was convicted in Houston on June 20 of the criminal
+  offence of violating the Selective Service laws by refusing to be drafted"; "The trial jury was composed of six men
+  and six women, all of whom were white." The judge is not named on the page.
 
 ## Bank check, eras 08-09 (T-271c, 2026-09-28)
 

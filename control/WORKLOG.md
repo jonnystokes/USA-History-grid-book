@@ -4742,9 +4742,11 @@ CHECKPOINT: control/checkpoints/F5-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
 
 ### 2026-10-02 | [LOCAL] T-467 | sports-play: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-sports-play.md
 VERIFY: python tools/project_state.py --check sports-play --stage prose
+RESULT: DONE. PASS  sports-play / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23406w files=3 validator_errors=0
+        474688 tokens, 319 tool uses, 19.2 min (opus). FIXER whole chapter [WAVE8L]: 276 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH, 16 found by fixer; Choctaw removal and International League fixed; Curtis 1807 kept; 23,026 -> 24,908 words
 
 ### 2026-10-02 | [LOCAL] T-468 | health: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: IN-FLIGHT
