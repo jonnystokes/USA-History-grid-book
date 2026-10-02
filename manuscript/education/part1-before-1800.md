@@ -28,7 +28,7 @@ No writing system was in use in this land before 1500. The first one made for a 
 
 The Haudenosaunee Confederacy is a union of five nations: the Seneca, Cayuga, Onondaga, Oneida and Mohawk. Its people record agreements and history in wampum. Wampum is beads cut from the white and purple parts of clam shells, strung on strings or woven into belts. The Onondaga Nation says it was made the Wampum Keeper, the nation that looks after the belts, at the founding of the Great Law of Peace, when the five nations joined. The Onondaga Nation's own account describes how a speaker puts a record into a belt: "The speaker puts the words of the agreement into the wampum as the strings or belts are woven together." After that, "each speaker thereafter uses the wampum to remember the initial agreement and the history that has happened to date." The Onondaga call the belts "our living history."
 
-So a person had to learn to read a belt and to recite the agreement it stood for. People still disagree about when the Great Law of Peace was agreed, and no record shows which date is right. In the Haudenosaunee people's own oral tradition, it was founded between about 1000 and 1400. Scholars working from written accounts have put it at about 1450, and some argue for the late 1100s.
+So a person had to learn to read a belt and to recite the agreement it stood for. People still disagree about when the Great Law of Peace was agreed, and no record shows which date is right. In the Haudenosaunee people's own oral tradition, it was founded between about 1000 and 1400. Accounts based on written records put it at about 1450, and some put it in the late 1100s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="No names survive" -->

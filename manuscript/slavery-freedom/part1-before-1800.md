@@ -20,7 +20,7 @@ Holding a person as property for life, and passing that status on to the person'
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Captives and slaves" -->
-Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. Historians call this practice the mourning war. It is the best-described case. In most of these nations, a captive could stop being a captive. The captive's children did not automatically become captives.
+Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. This practice is called the mourning war. It is the best-described case. In most of these nations, a captive could stop being a captive. The captive's children did not automatically become captives.
 
 The Northwest Coast was different. There, among the Tlingit, the Haida and the nations near them, slaves were property. Their owners traded them, and a slave's children were born slaves. Leland Donald studied this system in a 1997 book and found that it was slavery in the full sense of the word.
 <!-- /hb-zoom -->
@@ -36,7 +36,7 @@ The first people enslaved by Europeans in what is now the United States were Nat
 <!-- hb-zoom level="span" label="Spanish slavery and the first revolt" -->
 In their colonies, the Spanish ran a system called the encomienda. Under it, Spanish colonists forced Native people to work for them and to pay them goods. On November 20, 1542, King Charles I of Spain issued the New Laws. They said that no one could enslave Native people, and that an encomienda ended when its holder died. Spanish colonists opposed the New Laws and kept forcing Native people to work.
 
-In 1526 Lucas Vázquez de Ayllón founded a colony called San Miguel de Gualdape on the coast of what is now Georgia or South Carolina. Nobody knows the exact spot. Between 600 and 700 colonists came with him, and about 100 of them were enslaved Africans. Ayllón died, and the colonists fought among themselves. In October 1526 the enslaved Africans rose up and escaped. Historians believe they found shelter with Native people nearby, most likely the Guale. Within months the surviving colonists gave up the colony.
+In 1526 Lucas Vázquez de Ayllón founded a colony called San Miguel de Gualdape on the coast of what is now Georgia or South Carolina. Nobody knows the exact spot. Between 600 and 700 colonists came with him, and about 100 of them were enslaved Africans. Ayllón died, and the colonists fought among themselves. In October 1526 the enslaved Africans rose up and escaped. They probably found shelter with Native people nearby, most likely the Guale. Within months the surviving colonists gave up the colony.
 
 On September 8, 1565, Pedro Menéndez de Avilés and about 800 Spanish colonists founded St. Augustine, in Florida. They settled in the town of a Timucua chief named Seloy and used his council house as their first fort. Africans were among the town's first residents, some free and some enslaved. They worked as craftsmen, farmers and house servants. Spanish law gave enslaved people rights that English law later did not. Families were not supposed to be split up. Enslaved people could join the Catholic Church and marry in it, and the law set out ways for them to become free.
 <!-- /hb-zoom -->
@@ -69,7 +69,7 @@ In late August 1619, an English ship called the *White Lion* landed at Point Com
 
 Point Comfort was Native land. It belonged to the Kecoughtan, one of the Powhatan nations, a people who spoke an Algonquian language and lived where the city of Hampton stands today. English colonists built a fort beside their main village in 1609. On July 9, 1610, soon after Lord De La Warr arrived, the colonists seized the village. They drew the people out with a man playing a tambourine and then attacked them. The records do not say how many Kecoughtan they killed. The survivors fled to other towns of the Powhatan nations.
 
-In 1619 Virginia's law did not yet have a category for slaves. Historians still argue whether the colonists held the Africans of 1619 as servants for a set number of years or as slaves for life. The records that survive do not settle it.
+In 1619 Virginia's law did not yet have a category for slaves. Accounts still differ about whether the colonists held the Africans of 1619 as servants for a set number of years or as slaves for life. The records that survive do not settle it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Middle Passage" -->
@@ -89,7 +89,7 @@ The crew put Equiano below deck, and he was too sick to eat. Two white crewmen t
 
 He wrote that the hold was "so crowded that each had scarcely room to turn himself." The heat and the foul air made people sick, "of which many died." Children fell into the tubs the captives used as toilets and nearly smothered. One day two men who were chained together broke through the netting around the deck and jumped into the sea. A third man followed them. The crew lowered a boat. The two chained men drowned. The crew pulled the third man out "and afterwards flogged him unmercifully."
 
-The ship landed at Barbados, an island in the Caribbean. From there, traders sold him on to Virginia. In 2005 the historian Vincent Carretta reported two records that give Equiano's birthplace as Carolina: a 1759 baptism record in London and a 1773 Royal Navy crew list. Equiano's own book says he was born in Africa. Historians still argue over which is true.
+The ship landed at Barbados, an island in the Caribbean. From there, traders sold him on to Virginia. In 2005 the historian Vincent Carretta reported two records that give Equiano's birthplace as Carolina: a 1759 baptism record in London and a 1773 Royal Navy crew list. Equiano's own book says he was born in Africa. Which is true is still argued.
 <!-- /hb-zoom -->
 
 
@@ -153,7 +153,7 @@ The DeWolf family of Bristol, Rhode Island, sent out twice as many slaving voyag
 <!-- hb-zoom level="span" label="New York, 1711 and 1712" -->
 Slavery was part of life in the northern colonies too. In 1700 New York City had about 5,000 people, and at least 750 of them were enslaved. On November 30, 1711, the city's aldermen, the men who governed the city, set up a market at the foot of Wall Street. There, enslaved people were sold, rented out and inspected by buyers. The market stood from 1711 to 1762. The accounts of the market do not name the men who bought and sold people there.
 
-On April 6, 1712, more than 20 enslaved people in New York City set fire to a building on Maiden Lane. Historians believe most of them were Coromantee, Akan people from the Gold Coast of West Africa, which is Ghana today. When white people came to fight the fire, the rebels attacked them. They killed 8 or 9 white people and wounded 6 or 7. Six of the rebels killed themselves before they could be captured.
+On April 6, 1712, more than 20 enslaved people in New York City set fire to a building on Maiden Lane. Most of them were probably Coromantee, Akan people from the Gold Coast of West Africa, which is Ghana today. When white people came to fight the fire, the rebels attacked them. They killed 8 or 9 white people and wounded 6 or 7. Six of the rebels killed themselves before they could be captured.
 
 Governor Robert Hunter called out the militia, the colony's armed citizens. Officials arrested more than 70 Black people. They put 27 on trial, found 21 guilty and put all 21 to death. One account says 20 were burned alive and one was broken on the wheel. Breaking on the wheel was a public execution. The person was tied to a large wheel, and the executioner broke the person's arms and legs with an iron bar and left the person to die. Other accounts say only that the punishments ran from burning alive to breaking on the wheel. Afterward, the members of the colony's assembly made it illegal for enslaved people to gather in groups of more than three or to own guns.
 <!-- /hb-zoom -->
@@ -235,9 +235,9 @@ In 1778 she married John Peters. She died poor in 1784, at about 31 years old.
 <!-- hb-story:end slug="phillis-wheatley-slavery-freedom" -->
 
 <!-- hb-zoom level="span" label="Two promises of freedom in the Revolution" -->
-On March 5, 1770, British soldiers fired on a crowd of colonists in King Street, in Boston. People call it the Boston Massacre. Crispus Attucks was the first person killed. He was a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Historians disagree about whether he was legally free by 1770 or still an escaped slave.
+On March 5, 1770, British soldiers fired on a crowd of colonists in King Street, in Boston. People call it the Boston Massacre. Crispus Attucks was the first person killed. He was a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
 
-On November 7, 1775, Virginia's royal governor, Lord Dunmore, made a promise to the enslaved men of Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800. Over the whole war, historians estimate that about 20,000 Black people joined or fled to the British. About 9,000 served the American side, the Patriots. About 5,000 of those fought as soldiers. Both sides promised freedom to some of the enslaved men who fought for them, and neither side kept those promises to all of them.
+On November 7, 1775, Virginia's royal governor, Lord Dunmore, made a promise to the enslaved men of Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800. Over the whole war, by common estimates, about 20,000 Black people joined or fled to the British. About 9,000 served the American side, the Patriots. About 5,000 of those fought as soldiers. Both sides promised freedom to some of the enslaved men who fought for them, and neither side kept those promises to all of them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first states to end slavery" -->
@@ -266,11 +266,11 @@ Bett took the name Elizabeth Freeman. For the rest of her life she worked for pa
 <!-- hb-story:end slug="elizabeth-freeman" -->
 
 <!-- hb-zoom level="span" label="Sally Hemings and Thomas Jefferson" -->
-Thomas Jefferson was the main author of the Declaration of Independence. Over his lifetime he owned more than 600 enslaved people. One of them was Sally Hemings. Jefferson raped her when she was a girl, and she had his children.
+Thomas Jefferson was the main author of the Declaration of Independence. Over his lifetime he owned more than 600 enslaved people. One of them was Sally Hemings. Jefferson owned her and used her for sex from the time she was a girl, and she had his children.
 
 Sally Hemings was born enslaved in 1773. Her mother, Elizabeth Hemings, was enslaved. Her father was most likely John Wayles, the man who owned her mother. By law Wayles owned Elizabeth Hemings, and she could not refuse him. Wayles was also the father of Jefferson's wife, Martha. That made Sally Hemings the half-sister of Jefferson's wife.
 
-In 1787 Jefferson was the United States minister to France, the country's top official there, living in Paris. That year Sally Hemings went to Paris with his daughter Polly. Sally was 14 and enslaved by Jefferson. He was 44. By law he owned her, and she could not refuse him. He had the legal power to sell her or her family. Her son Madison Hemings said in 1873 that in Paris she "became Mr. Jefferson's concubine," an old word for a woman a man kept for sex without marrying her. He said she was pregnant when they came back to Virginia. An enslaved girl had no safe way to say no to the man who owned her. Historians describe what Jefferson did as sexual exploitation, and as rape.
+In 1787 Jefferson was the United States minister to France, the country's top official there, living in Paris. That year Sally Hemings went to Paris with his daughter Polly. Sally was 14 and enslaved by Jefferson. He was 44. By law he owned her, and she could not refuse him. He had the legal power to sell her or her family. Her son Madison Hemings said in 1873 that in Paris she "became Mr. Jefferson's concubine," an old word for a woman a man kept for sex without marrying her. He said she was pregnant when they came back to Virginia. An enslaved girl had no safe way to say no to the man who owned her. In 2026 Jessica Marie Johnson, a historian of slavery at Johns Hopkins University, wrote that Jefferson was a rapist.
 
 Under French law she could have claimed her freedom in Paris. Madison Hemings said Jefferson promised that her children would be freed at age 21 if she went back with him. She had children from 1790 to 1808. Four lived to be adults: Beverly, Harriet, Madison and Eston.
 

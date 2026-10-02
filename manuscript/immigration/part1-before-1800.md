@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 Before 1500, hundreds of Native nations lived in the land that is now the United States, and their people spoke hundreds of different languages. No one from across the ocean had come to settle there for good. Every group of newcomers who came later arrived on land where people were already living.
 
-Nobody knows how many people lived north of Mexico in 1492, and experts give very different numbers. William Denevan, a geographer who studies the history of people and places, puts the number at about 3.8 million, and many experts use his figure. A book of world population maps published in 1978 gave only about 1 million. Some later researchers argued for as many as 18 to 20 million. The historian Donald Fixico gives a range from a few million to 15 million.
+Nobody knows how many people lived north of Mexico in 1492, and the estimates differ widely. William Denevan, a geographer who studies the history of people and places, puts the number at about 3.8 million. A book of world population maps published in 1978 gave only about 1 million. Some later researchers argued for as many as 18 to 20 million. The historian Donald Fixico gives a range from a few million to 15 million.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The land bridge and the Norse" -->
@@ -24,7 +24,7 @@ The first people to reach this land came on foot from Asia, long ago. They walke
 
 Before Columbus, only one group from across the ocean is known to have built a camp in North America, and it did not stay. Around the year 1000, about 500 years before Columbus sailed, Norse sailors from Greenland built a camp at L'Anse aux Meadows, in Newfoundland, in what is now Canada. Two old Icelandic stories, called sagas, say that Leif Erikson, the son of Erik the Red of Greenland, led a voyage to a place he named Vinland. Scientists counted the tree rings in wood the Norse cut at the camp with metal blades. The trees were cut down in 1021. It is the only exact date known for Europeans in the Americas before Columbus.
 
-Native people had lived at that spot long before the Norse came. Five Native groups had lived there, the oldest about 6,000 years earlier. The Norse stayed only a short time and then left. Historians disagree on how short: their guesses run from a few years to about twenty. The Norse built no settlement that lasted.
+Native people had lived at that spot long before the Norse came. Five Native groups had lived there, the oldest about 6,000 years earlier. The Norse stayed only a short time and then left. Estimates of how short run from a few years to about twenty. The Norse built no settlement that lasted.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -175,7 +175,7 @@ Convicts made up roughly a quarter of the people who emigrated from Britain in t
 <!-- hb-zoom level="span" label="Forced arrival through Charleston" -->
 In these years slave traders brought many more enslaved Africans to the mainland colonies than before. Rice planters in the South Carolina Lowcountry, the low coastal land, bought large numbers of West and Central Africans. Some planters chose Africans who already knew how to grow rice. Charleston, South Carolina, was the main mainland port where enslaved Africans arrived. Many were held first at a quarantine station on Sullivan's Island, at the mouth of Charleston's harbor. Quarantine means keeping new arrivals apart so that any disease they carry does not spread. Quarantine workers kept them in buildings called pest houses and checked them for disease. Then slave traders took them to Charleston and sold them at public auction.
 
-In 1974 the historian Peter Wood wrote that Sullivan's Island "might well be described as the Ellis Island of black Americans." Ellis Island was the New York station where millions of European immigrants later arrived. Some estimates say at least 200,000 Africans passed through Charleston harbor, and that about 40 percent of African Americans today have an ancestor who came that way. Some historians say these numbers are too high.
+In 1974 the historian Peter Wood wrote that Sullivan's Island "might well be described as the Ellis Island of black Americans." Ellis Island was the New York station where millions of European immigrants later arrived. Some estimates say at least 200,000 Africans passed through Charleston harbor, and that about 40 percent of African Americans today have an ancestor who came that way. Nic Butler, a historian at the Charleston County Public Library, argues that the share credited to Sullivan's Island is too high.
 
 Across the whole slave trade, slave traders forced about 12.5 million Africans onto ships. About 10.7 million lived through the crossing, so about 1.8 million died on the way. Fewer than 4 percent of the people who lived through the crossing were brought to mainland North America. About 305,000 came straight from Africa, and close to 388,000 came in all, counting those brought by way of the Caribbean.
 <!-- /hb-zoom -->

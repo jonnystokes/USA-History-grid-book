@@ -1871,3 +1871,6 @@ Full sourced text is in `research/research-war.md` under the T-259b PATCH named.
 ## Parked from `health` (2026-09-27, T-263)
 Filed by the director after the parallel run. Full sourced text is in `research/research-health.md` under the T-263 PATCH named in each item.
 - `america-world` and `war`, era 1950-2000: Rongelap and Utirik evacuated about 72 hours after Castle Bravo, thyroid dose 52 Gy for a one-year-old on Rongelap, 57 thyroid cancers among Marshallese born before 1954 (Takahashi 2003, PMC9588433). Health bank era 09 PATCH.
+
+### PATCH 2026-10-02 (T-483): named source for "many historians" on the Panama Canal dead
+- Caroline Lieffers (then a PhD candidate in history at Yale), "The Panama Canal's forgotten casualties," *The Conversation*, https://theconversation.com/the-panama-canals-forgotten-casualties-93536 (opened 2026-10-02): "The official number is 5,609 ... but many historians think the real toll was several times higher." Prose (era 9) now names her. Kake 1869: the prose now attributes "the number of deaths that followed has not been worked out" to KTOO (2024), from the T-459 PATCH above ("Historians haven't determined the number of deaths").

@@ -58,7 +58,7 @@ In the 1600s, between one-half and two-thirds of the European immigrants to the 
 <!-- hb-zoom level="span" label="Bound for years: indentured servants" -->
 An indentured servant was a person bound by a written contract, called an indenture, to work for a master for a set number of years. Most terms ran four to seven years. The servant could not leave. Most servants got no wages. A skilled servant named Buckland was paid 20 English pounds a year on top of his food, drink, washing and a place to sleep, and his contract was unusual.
 
-Historians disagree about how many European immigrants came this way. Most estimates run from one-half to two-thirds of all European immigrants to the colonies. Some scholars say it was as many as three-quarters. In the colonies around Chesapeake Bay, about 50,000 servants arrived between 1630 and 1680. They made up three of every four newcomers. In the 1630s there were about six men for every woman among them.
+Counts of how many European immigrants came this way differ. Most estimates run from one-half to two-thirds of all European immigrants to the colonies. Some estimates go as high as three-quarters. In the colonies around Chesapeake Bay, about 50,000 servants arrived between 1630 and 1680. They made up three of every four newcomers. In the 1630s there were about six men for every woman among them.
 
 Servants there worked tobacco "from dawn until dusk, six days a week through the growing season." Many newcomers fell sick in their first summer. People called this sickness the seasoning, and it killed more than half of the new arrivals. One writer of the time said immigrants died "like cats and dogs." Virginia's lawmakers also punished women servants who had a baby without being married. Such a woman had an extra year added to her term, or she had to pay her master 1,000 pounds of tobacco.
 
@@ -70,7 +70,7 @@ At home, families did their own spinning, weaving, brewing and candle-making. Br
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Martin's Hundred, on the land of Tsenacomoco" -->
-Martin's Hundred was an English plantation on the James River in Virginia. Its main settlement was Wolstenholme Towne. The plantation stood inside Tsenacomoco, the land of the Powhatan chiefdom. The chiefdom was a union of many Native nations under one high chief. Tsenacomoco ran north from the James River to the Potomac River, and from Chesapeake Bay west to the places where the rivers drop in falls from higher ground. About 15,000 people lived there, and scholars' estimates run from 13,000 to just over 22,000.
+Martin's Hundred was an English plantation on the James River in Virginia. Its main settlement was Wolstenholme Towne. The plantation stood inside Tsenacomoco, the land of the Powhatan chiefdom. The chiefdom was a union of many Native nations under one high chief. Tsenacomoco ran north from the James River to the Potomac River, and from Chesapeake Bay west to the places where the rivers drop in falls from higher ground. About 15,000 people lived there, and estimates run from 13,000 to just over 22,000.
 
 On March 22, 1622, the Powhatan leader Opechancanough led an attack on most of the English settlements. Colony officials recorded 347 colonists killed. They got no report from some settlements, so the real number was probably higher. At least 58 colonists died at Martin's Hundred. More colonists died at Wolstenholme Towne, its main settlement, than at any other settlement.
 <!-- /hb-zoom -->
@@ -139,9 +139,9 @@ In the late 1700s, hired workers in Philadelphia began to act together against t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The printers' strike of 1786" -->
-In a strike, workers stop work together until the employer meets their demands. In 1786 the journeymen printers of Philadelphia struck against a cut in their wages. Labor historians date the start of the strike to June 2, 1786. The printers won, and their employers agreed to pay at least $6 a week.
+In a strike, workers stop work together until the employer meets their demands. In 1786 the journeymen printers of Philadelphia struck against a cut in their wages. The strike began on June 2, 1786, by the usual dating. The printers won, and their employers agreed to pay at least $6 a week.
 
-The printers also set up a fund of money to support one another during the strike, the first strike fund on record. Their strike is often called the first in the United States by hired workers against an employer. Historians say, more exactly, that it is the first such strike the records prove. Journeymen tailors in New York had struck earlier, in 1768, and records show other early times when workers in the colonies stopped work together.
+The printers also set up a fund of money to support one another during the strike, the first strike fund on record. Their strike is often called the first in the United States by hired workers against an employer. More exactly, it is the first such strike the records prove. Journeymen tailors in New York had struck earlier, in 1768, and records show other early times when workers in the colonies stopped work together.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The shoemakers' union of 1794" -->

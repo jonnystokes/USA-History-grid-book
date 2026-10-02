@@ -46,7 +46,7 @@ Toledo's rules covered Native men aged 18 to 50 in the highland provinces betwee
 
 The men worked in shifts, one week in the mines and then two weeks of rest. Many brought their families and carried most of their own food. They were paid a little, and most of that pay went to the tax they owed the colonial government. The work was dangerous and unhealthy. The mita also took men away from their home villages and broke up life there. No reliable count shows how many of the men died. Across the Andes, disease killed far more Native people than the mita did.
 
-Historians of money call the piece of eight the first money used around the whole world. Traders carried it from South America to Europe, and across the Pacific Ocean to Asia.
+The piece of eight is often called the first money used around the whole world. Traders carried it from South America to Europe, and across the Pacific Ocean to Asia.
 
 What little Spanish coin there was in this land was at St. Augustine, in Florida, a garrison town, where Spanish soldiers were posted. Pedro Menéndez de Avilés founded it in September 1565 at Seloy, a village of the Timucua, in the homeland of the Timucua-speaking peoples. The Spanish soldiers there were paid from Spanish colonial funds, with the coin of a foreign empire.
 
@@ -58,7 +58,7 @@ Later, Thomas Jefferson and members of Congress based the United States dollar o
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-The English colonies were short of coins from the start. Little English coin reached them. Colonists spent the coins they did get on goods shipped in from overseas, and those coins went back across the ocean. To trade with each other, colonists paid in tobacco, corn, beaver skins and wampum. Massachusetts leaders opened a mint of their own without England's permission. In 1690 they printed paper money that historians call the first issued by any government in the Western world.
+The English colonies were short of coins from the start. Little English coin reached them. Colonists spent the coins they did get on goods shipped in from overseas, and those coins went back across the ocean. To trade with each other, colonists paid in tobacco, corn, beaver skins and wampum. Massachusetts leaders opened a mint of their own without England's permission. In 1690 they printed paper money, the first issued by any government in the Western world.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Money made of goods" -->
@@ -76,7 +76,7 @@ In 1652 members of the Massachusetts General Court voted to set up a mint in Bos
 
 The mint's coins included the pine-tree shilling, named for the tree stamped on it. Workers at the mint struck pine-tree shillings from about 1667 to 1682. But nearly all of the colony's silver coins carry the date 1652.
 
-Historians of coins say the date was a cover. Charles II became king of England in 1660. A coin dated 1652 could pass as a leftover from the years without a king. A coin with a later date would show that the men of Massachusetts were still making coins without the king's permission.
+The usual explanation is that the date was a cover. Charles II became king of England in 1660. A coin dated 1652 could pass as a leftover from the years without a king. A coin with a later date would show that the men of Massachusetts were still making coins without the king's permission.
 
 The mint closed in 1682. A charter is a legal paper that gives a colony or a company the right to exist and states what it may do. In 1684 officials acting for King Charles II canceled the Massachusetts charter, which had given the colony the right to govern itself. The illegal mint was one of their complaints against the colony.
 <!-- /hb-zoom -->
@@ -101,7 +101,7 @@ In 1690, soldiers from Massachusetts attacked the French city of Quebec, in Cana
 
 Massachusetts lawmakers decided to pay the soldiers in paper. They began voting on it in December 1690. The first bills totaled 40,000 pounds. The paper bills were called bills of credit. Each bill stated that the colony's treasurer would accept it "in all Public payments." It also stated that the bill could later be exchanged for coins.
 
-Historians call these bills the first paper money issued by any government in the Western world. The Western world means Europe and the lands that Europeans settled. China had used paper money centuries earlier.
+These bills were the first paper money issued by any government in the Western world. The Western world means Europe and the lands that Europeans settled. China had used paper money centuries earlier.
 
 People took the bills and passed them from hand to hand. By 1714 Massachusetts lawmakers had issued 240,000 pounds in paper money. By 1718 lawmakers in the other New England colonies were issuing their own.
 <!-- /hb-zoom -->

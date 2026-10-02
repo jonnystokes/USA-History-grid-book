@@ -249,7 +249,7 @@ From the 1750s, Native leaders asked colonists to stop selling them liquor. The 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How much people drank" -->
-Nobody measured how much colonists drank before the 1770s. Historians have made estimates since then, and each one measures something different. One historian estimates that in the 1770s the average grown man may have drunk as much as three pints a week. Another estimate gives 3.7 gallons of rum a year for each colonist by the time of the Revolution. The historian Peter C. Mancall cites an estimate of perhaps seven shots of liquor a day by 1770.
+Nobody measured how much colonists drank before the 1770s. The estimates made since then each measure something different. The writer Ed Crews, in the *Colonial Williamsburg Journal*, reports an estimate that in the 1770s the average grown man may have drunk as much as three pints a week. The writer Ian Williams gives 3.7 gallons of rum a year for each colonist by the time of the Revolution. The historian Peter C. Mancall cites an estimate of perhaps seven shots of liquor a day by 1770.
 
 In 1790, government figures showed that the average American over the age of 15 drank 34 gallons of beer and cider, 5 gallons of liquor and 1 gallon of wine.
 

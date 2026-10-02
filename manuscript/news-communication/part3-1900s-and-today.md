@@ -84,7 +84,7 @@ In 1926 the National Broadcasting Company, NBC, bought WEAF and set up a permane
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The president on the radio, 1933 to 1944" -->
-President Franklin D. Roosevelt first spoke to the country by radio on Sunday night, March 12, 1933. On March 6 he had closed every bank in the country. Roosevelt explained banking in plain words to some 60 million listeners, and he told them it was safer to keep money in a reopened bank than under the mattress. When the banks opened again, people put in more money than they took out. It was the first of the talks that Harry Butcher of CBS named "fireside chats." Historians count between 27 and 31 of them, from 1933 to 1944.
+President Franklin D. Roosevelt first spoke to the country by radio on Sunday night, March 12, 1933. On March 6 he had closed every bank in the country. Roosevelt explained banking in plain words to some 60 million listeners, and he told them it was safer to keep money in a reopened bank than under the mattress. When the banks opened again, people put in more money than they took out. It was the first of the talks that Harry Butcher of CBS named "fireside chats." Counts run from 27 to 31 of them, from 1933 to 1944.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The War of the Worlds broadcast, 1938" -->
@@ -196,7 +196,7 @@ Cronkite ended each program with "And that's the way it is." He left the anchor 
 <!-- hb-zoom level="span" label="Vietnam and the reporters, 1965 to 1971" -->
 As late as 1964 fewer than two dozen American reporters were in Indochina, the region that includes Vietnam, Laos and Cambodia. By 1968 about 600 journalists from many countries were in Vietnam. More than 60 journalists were killed during the war, and the record of their deaths does not say who killed them. US military officers did not censor the reports from Vietnam. The military's daily news briefings in Saigon were nicknamed "the five o'clock follies." Follies are silly shows.
 
-Many people later blamed the press for turning Americans against the war. Experts who studied the reports found that most of the reporting supported the war until 1968. They found that support at home fell most as more American soldiers died.
+Many people later blamed the press for turning Americans against the war. Encyclopaedia Britannica states that experts who studied the news coverage found that most of the reporting supported the war until 1968. They found that support at home fell most as more American soldiers died.
 
 On March 16, 1968, American soldiers of Charlie Company killed unarmed villagers at My Lai in South Vietnam. The counts run from at least 175, found by the Army's own inquiry, to 504, the number of names on a memorial in the village. The soldiers also raped women and girls. Rape means forcing someone into sex by violence or threat. In 1969 Seymour Hersh, a freelance reporter, one who worked for himself rather than for one newspaper, followed a tip and found Lieutenant William Calley. Hersh wrote the first public account of the killings. He won a Pulitzer Prize, a top award for reporting, in 1970. In March 1971 Calley was found guilty of murdering 22 civilians. He was the only soldier convicted, and no one was convicted of rape.
 <!-- /hb-zoom -->

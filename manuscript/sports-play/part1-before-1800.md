@@ -284,7 +284,7 @@ In December 1773 the pupils at another school "barred out" their teacher, Mr. Go
 <!-- hb-zoom level="span" label="Fist fights with no rules" -->
 On 29 August 1774 Fithian wrote that four young men had arranged two fist fights near Mr. Lane's place. He listed what such fighters did, including kicking, scratching, biting, choking and "Gouging." A crowd came to watch.
 
-Gouging was a kind of fighting in which only weapons were banned. A fighter tried to push his thumbs into the other man's eye socket and force the eye out. Historians think fighters seldom lost an eye, but broken bones, scars, crippling injuries and deaths did happen. In 1746 Gabriel Johnston, the governor of North Carolina, complained about this kind of fighting. North Carolina's lawmakers made it a crime to cut out tongues, pull out eyes, or bite off noses or fingers. The record does not give the year of that law.
+Gouging was a kind of fighting in which only weapons were banned. A fighter tried to push his thumbs into the other man's eye socket and force the eye out. Jim L. Sumner, writing for NCpedia, says most historians think fighters seldom lost an eye, but broken bones, scars, crippling injuries and deaths did happen. In 1746 Gabriel Johnston, the governor of North Carolina, complained about this kind of fighting. North Carolina's lawmakers made it a crime to cut out tongues, pull out eyes, or bite off noses or fingers. The record does not give the year of that law.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Revolution: a pause in racing and a game of base" -->

@@ -58,15 +58,15 @@ After that, a disease of the bowels killed half of the island's people, Cabeza d
 
 The islanders then told the Spaniards to heal the sick, and they gave them no food until they did. Cabeza de Vaca described how the island's own healers worked. A healer made small cuts in the skin over the place that hurt and sucked at the cuts. Healers also burned the skin at the painful spot on purpose, a treatment called cautery, and then blew on it. Cabeza de Vaca tried the burning on himself and wrote that it helped him. The Spaniards blessed the sick, breathed on them, and said two Christian prayers, the Lord's Prayer and the Hail Mary.
 
-Years later, on a long walk west, people brought Cabeza de Vaca a man with an arrowhead lodged in his chest above the heart. The year and the place are not certain, because historians disagree about the route. Cabeza de Vaca cut open the man's chest with his knife and pulled the arrowhead out. He closed the cut with two stitches, using a deer bone as a needle, and stopped the bleeding with hair from an animal skin. He wrote that the next day he cut the stitches and the man was well.
+Years later, on a long walk west, people brought Cabeza de Vaca a man with an arrowhead lodged in his chest above the heart. The year and the place are not certain, because accounts of the route differ. Cabeza de Vaca cut open the man's chest with his knife and pulled the arrowhead out. He closed the cut with two stitches, using a deer bone as a needle, and stopped the bleeding with hair from an animal skin. He wrote that the next day he cut the stitches and the man was well.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Empty towns at Cofitachequi, 1540" -->
-In the spring of 1540, the army of the Spanish commander Hernando de Soto reached Cofitachequi. It was a town on a river in what is now South Carolina or Georgia. Historians have placed it in different spots.
+In the spring of 1540, the army of the Spanish commander Hernando de Soto reached Cofitachequi. It was a town on a river in what is now South Carolina or Georgia. Accounts place it in different spots.
 
 A Portuguese member of the army, known only as the Gentleman of Elvas, wrote that there were large empty towns nearby, grown over with grass. People at Cofitachequi told the Spaniards that a disease had struck the land two years before. The people of those towns had moved away to other towns. The Gentleman of Elvas did not name the disease, and he did not say how many people died.
 
-That disease arrived before de Soto's army did. No record shows where it came from. Historians still argue over whether de Soto's own army carried new diseases inland. The records do show that de Soto's men killed and enslaved Native people and took their food.
+That disease arrived before de Soto's army did. No record shows where it came from. Accounts differ about whether de Soto's own army carried new diseases inland. The records do show that de Soto's men killed and enslaved Native people and took their food.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Roanoke, 1585 and 1586" -->
@@ -107,15 +107,15 @@ George Percy, one of the colonists, wrote down each death with its date and caus
 
 Percy blamed hunger most of all. Each day, five men shared one small can of barley boiled in water. They drank from the river. At high tide its water was salty, and at low tide it was "full of slime and filth." Many nights three or four men died. Then Native people of the area, whom Percy called "our mortall enemies," brought bread, corn, fish and meat to the fort in great plenty. Percy wrote that "divers Kings," meaning several Native leaders, brought more. He did not name them.
 
-Historians have since pointed to the river. At Jamestown the river water was part salt and part fresh, so the colonists' waste stayed in it instead of washing away. Tree rings show a drought that lasted seven years, from 1606 to 1612. The historian Dennis Blanton wrote that colonists who were hungry and thirsty from the drought were the most likely to fall sick. In the winter of 1609 to 1610, only about 60 of about 240 colonists in the fort survived. That winter is called the Starving Time.
+In 1979 the geographer Carville Earle pointed to the river. At Jamestown the river water was part salt and part fresh, so the colonists' waste stayed in it instead of washing away. Tree rings show a drought that lasted seven years, from 1606 to 1612. The historian Dennis Blanton wrote that colonists who were hungry and thirsty from the drought were the most likely to fall sick. In the winter of 1609 to 1610, only about 60 of about 240 colonists in the fort survived. That winter is called the Starving Time.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="An epidemic on the New England coast, 1616 to 1619" -->
 From 1616 to 1619, a disease killed Native people along about 200 miles of the coast of southern New England, as far as Cape Cod. As far as the records show, the European fishermen and traders nearby did not catch it.
 
-No count of the dead exists. Scholars estimate that between one third and nine tenths of the people in the area died. Before the epidemic, the Wampanoag Nation had about 21,000 to 24,000 people, and the Patuxet town had about 2,000. In 1674 the colonist Daniel Gookin wrote down what Native people told him about the sick. "The bodies all over were exceedingly yellow," they said, both before the people died and after.
+No count of the dead exists. Estimates of the share who died rest on weak records, and they run from one third to nine tenths of the people in the area. Before the epidemic, the Wampanoag Nation had about 21,000 to 24,000 people, and the Patuxet town had about 2,000. In 1674 the colonist Daniel Gookin wrote down what Native people told him about the sick. "The bodies all over were exceedingly yellow," they said, both before the people died and after.
 
-Scholars still disagree about what the disease was. They have proposed yellow fever, smallpox, plague, typhus and several other diseases. In 2010 two researchers, John Marr and John Cathey, proposed leptospirosis. Leptospirosis is an infection by bacteria that rats carry in their urine. They suggested that rats from European ships spread it into the water and soil. They called their idea a proposal for others to test, not an answer.
+No one has settled what the disease was. The ideas put forward include yellow fever, smallpox, plague, typhus and several other diseases. In 2010 two researchers, John Marr and John Cathey, proposed leptospirosis. Leptospirosis is an infection by bacteria that rats carry in their urine. They suggested that rats from European ships spread it into the water and soil. They called their idea a proposal for others to test, not an answer.
 
 When the Plymouth colonists arrived in 1620, the Patuxet town was empty. The colonists built Plymouth on its site. Governor William Bradford wrote that so many had died that the living could not bury the dead. He wrote that in many places in the area, skulls and bones still lay above the ground where houses had stood. Squanto, also called Tisquantum, was one of the few Patuxet survivors. Bradford wrote that Squanto told other Native people the English kept the plague buried in the ground and could send it among them whenever they wished.
 <!-- /hb-zoom -->
@@ -185,7 +185,7 @@ In 1693 yellow fever struck Boston. The makers of the PBS history series *Americ
 <!-- hb-zoom level="span" label="Smallpox along the slave-raiding paths, 1696 to 1700" -->
 In 1696 smallpox broke out in Virginia and spread south and west along the trading paths. It spread with Native slave raiders and the captives they took for the colonial slave trade. By 1699 it had reached the Tunica people on the lower Mississippi River, in what is now Louisiana. It came back in waves until 1715.
 
-Scholars estimate that some Native nations lost more than 60 of every 100 people. A South Carolina colonist wrote that smallpox had killed so many Native people that there was "little reason to believe they will be capable of doing any harm to us for several years to come."
+By one estimate, some Native nations lost more than 60 of every 100 people. A South Carolina colonist wrote that smallpox had killed so many Native people that there was "little reason to believe they will be capable of doing any harm to us for several years to come."
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -309,7 +309,7 @@ In 1765 Dr. John Morgan founded a medical school at the College of Philadelphia,
 <!-- hb-zoom level="span" label="Smallpox as a weapon at Fort Pitt, 1763" -->
 In 1763 two British men at Fort Pitt gave two Delaware men blankets from a smallpox hospital, hoping to spread the disease. Fort Pitt was a British fort where Pittsburgh stands now. That year Delaware, or Lenape, and Shawnee and Mingo warriors surrounded the fort, during the war led by the Ottawa leader Pontiac. Smallpox had broken out among the soldiers inside.
 
-On June 24, 1763, by most historians' dating, the fort's commander, Captain Simeon Ecuyer, and the trader William Trent met two Delaware men, Turtle's Heart and Mamaltee. Ecuyer and Trent gave them two blankets and a handkerchief taken from the fort's smallpox hospital. Trent wrote in his journal, "I hope it will have the desired effect." One copy of Trent's journal dates this entry May 24. Ecuyer signed the bill that charged the army for the blankets.
+On June 24, 1763, by the usual dating, the fort's commander, Captain Simeon Ecuyer, and the trader William Trent met two Delaware men, Turtle's Heart and Mamaltee. Ecuyer and Trent gave them two blankets and a handkerchief taken from the fort's smallpox hospital. Trent wrote in his journal, "I hope it will have the desired effect." One copy of Trent's journal dates this entry May 24. Ecuyer signed the bill that charged the army for the blankets.
 
 In July, General Jeffery Amherst, the British commander in North America, wrote to Colonel Henry Bouquet. He asked: "Could it not be contrived to send the Small Pox among those disaffected tribes of Indians?" Bouquet answered that he would "try to inocculate the Indians by means of Blankets." Amherst also wrote of trying "to extirpate this Execrable Race." Extirpate means to wipe out completely, and execrable means hateful. Ecuyer and Trent had given away the blankets in June, before these letters, and on their own.
 

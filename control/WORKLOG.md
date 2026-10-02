@@ -4878,8 +4878,10 @@ AGENTS PAR2: T-481 a32df5e470776a7a2, T-482 a6edb01b9cfdb28e5
 research leftovers (checkpoint NEEDS-RESEARCH lists + AUDIT-QUEUE; #32 first), then step 6 second audit.
 
 ### 2026-10-02 | [LOCAL] T-483 | slavery-freedom: RESEARCH round 2, R-1 (#32 priority + 6 items) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/R4-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+RESULT: DONE. PASS  slavery-freedom / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=24 (verified 24) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=21027w files=3 validator_errors=0
+        409505 tokens, 228 tool uses, 25.8 min (opus). RESEARCH R-1: #32 Hemings now names historian Jessica Marie Johnson (book voice no longer says raped; facts kept); Evanston, Fort Pulaski, whip-scar ad, Section 244 written; Charleston, Celia searched not found; ~175 unnamed-'historians' sentences fixed in 33 chapters; all 37 PASS
 USAGE AT START (T-483, first round-2 research agent): 61% (Jon).
 AGENT: a3578e6a9415aefb9 (T-483)

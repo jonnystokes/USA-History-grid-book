@@ -105,7 +105,7 @@ A drafted man had to choose between bringing his family with him or leaving his 
 
 The Native laborers were paid 1 real a day, plus a daily share of corn. A real was a Spanish silver coin. Manucy counted it as worth 12 and a half cents, and the 1993 park handbook puts it at about 20 cents. Spanish master masons on the same job earned 20 reales a day.
 
-The work needed about 150 laborers, and officials found it hard to get even 100. In the first winter, a sickness the Spanish called El Contagio, "the contagion," spread among the Native laborers. The crew shrank to almost no one. The records do not count how many men died. The payrolls, the lists of workers and their pay, counted the Guale, Timucua and Apalache men who cut the stone. Historians of the fort know their nations and their numbers from those payrolls, but not their names.
+The work needed about 150 laborers, and officials found it hard to get even 100. In the first winter, a sickness the Spanish called El Contagio, "the contagion," spread among the Native laborers. The crew shrank to almost no one. The records do not count how many men died. The payrolls, the lists of workers and their pay, counted the Guale, Timucua and Apalache men who cut the stone. The payrolls give their nations and their numbers, but not their names.
 
 Spanish officials also put convicts to work on the fort. These were men sentenced to work there for a set number of years. One Spaniard caught smuggling English goods got 6 years of labor on the fort. His term would double if he ran away. Enslaved Black people owned by the Spanish king worked there too. In 1687 Spanish officials added eighteen of the king's slaves to the work crew.
 
@@ -122,7 +122,7 @@ John Collins was an English mason, a builder in stone, whom the Spanish held as 
 
 Governor Manuel de Cendoya put the prisoners to work on the fort. On the Spanish payroll, Collins's name appears as Juan Calens. According to Manucy's history, Collins could burn more oyster shells into lime in a week than Spanish workmen could in two. The lime went into the mortar that held the coquina blocks together. As a prisoner he was paid 8 reales a day. A master workman was owed 20.
 
-Collins rose from master of the lime kilns to master of the quarry. Later he ran the dugout boats, the food stores and the convict workers. At last he held the job of pilot, guiding ships between St. Augustine and Charleston. Officials of the Spanish king recognized his work after he had spent 19 years or more in the town. Historians of the fort do not know when he was born or died, or whether he ever went home.
+Collins rose from master of the lime kilns to master of the quarry. Later he ran the dugout boats, the food stores and the convict workers. At last he held the job of pilot, guiding ships between St. Augustine and Charleston. Officials of the Spanish king recognized his work after he had spent 19 years or more in the town. The records do not say when he was born or died, or whether he ever went home.
 <!-- hb-story:end slug="john-collins-castillo" -->
 
 <!-- hb-zoom level="span" label="The oldest churches" -->

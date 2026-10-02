@@ -163,7 +163,7 @@ In his book *Notes on the State of Virginia*, Thomas Jefferson used evidence to 
 <!-- hb-zoom level="span" label="The lightning test" -->
 Franklin published a plan for a test that would show whether lightning is electricity. The first people to carry it out were in France. On May 10, 1752, at Marly-la-Ville, Thomas-François Dalibard arranged the test with a tall iron rod. He followed Franklin's printed plan. On May 13 Dalibard reported the test to the French Academy, a society of scholars.
 
-Franklin ran his own test in Philadelphia with a kite. Writers have long dated the kite flight to June 1752, but nobody recorded the exact day or the exact spot. Franklin first described it in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The June date comes from an account that Joseph Priestley wrote in 1767. Some historians question parts of the kite story. The tests in France and in Philadelphia showed that lightning is electricity.
+Franklin ran his own test in Philadelphia with a kite. Writers have long dated the kite flight to June 1752, but nobody recorded the exact day or the exact spot. Franklin first described it in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The June date comes from an account that Joseph Priestley wrote in 1767. Some accounts question parts of the kite story. The tests in France and in Philadelphia showed that lightning is electricity.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Timing Venus, 1769" -->

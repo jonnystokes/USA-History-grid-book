@@ -52,7 +52,7 @@ Many of these kettles were not used for cooking. Archaeologists dig them up cut 
 
 Pieces of Basque copper kettles from the late 1500s and early 1600s turn up from the Canadian Maritimes, on the Atlantic coast, to the lower Great Lakes. Native traders passed the metal along among themselves, far inland. Basque kettles and axes reached the lands of the Huron and their neighbors in what is now Ontario.
 
-Native traders chose carefully what they took in trade. Historians describe them as skilled bargainers who asked for useful tools and for fine goods alike. In the fur trade of later years, Native customers also traded for wool cloth, linen shirts, glass beads, iron knives, awls, axes, fish hooks, blankets, guns and gunpowder. An awl is a pointed tool for punching holes in leather. The Hudson's Bay Company, a fur-trading company, began in 1670. Its Native customers demanded guns that worked, so the men running the company sent gunsmiths to its trading posts to check the guns and repair them.
+Native traders chose carefully what they took in trade. They were skilled bargainers who asked for useful tools and for fine goods alike. In the fur trade of later years, Native customers also traded for wool cloth, linen shirts, glass beads, iron knives, awls, axes, fish hooks, blankets, guns and gunpowder. An awl is a pointed tool for punching holes in leather. The Hudson's Bay Company, a fur-trading company, began in 1670. Its Native customers demanded guns that worked, so the men running the company sent gunsmiths to its trading posts to check the guns and repair them.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -82,7 +82,7 @@ Buying without paying at once is called buying on credit. The amount still owed 
 
 John Pynchon kept a shop in Springfield, Massachusetts. The town and the shop stood on land that the Agawam people had sold to his father. On July 15, 1636, William Pynchon bought land from the Agawam on both sides of the Connecticut River. He took a deed for it, a signed paper that records who owns a piece of land. The deed names Commucke and Matanchan, "ancient Indians of Agaam," acting for the community, and Cuttonus as "the right owner." Pynchon paid 18 fathoms of wampum, 18 coats, 18 hatchets, 18 hoes and 18 knives. A fathom is six feet, here a length of strung beads. The deed states that the Agawam kept their planted fields and their right to take fish, deer, ground nuts, walnuts and acorns. It also states that they would be paid if English cattle damaged their corn.
 
-Seven of John Pynchon's account books survive, covering 1651 to about 1702. Almost every adult in Springfield bought goods at his shop. The editors who printed the books found only a few payments in coins. From books like these, historians learn what ordinary colonists bought, item by item. The books name each customer and list what each one bought.
+Seven of John Pynchon's account books survive, covering 1651 to about 1702. Almost every adult in Springfield bought goods at his shop. The editors who printed the books found only a few payments in coins. Books like these record what ordinary colonists bought, item by item. The books name each customer and list what each one bought.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-stewart-marketplace" name="John Stewart" movie="" kind="ordinary" status="verified" -->
@@ -113,11 +113,11 @@ In the 1700s, colonial families began buying British-made goods in large amounts
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The consumer revolution" -->
-A consumer is a person who buys goods to use them. Historians use the words "consumer revolution," meaning a big change in buying, for what happened in the colonies during the 1700s. Colonists had made many of their own clothes, tools and kitchen things. Now they began buying them instead, mostly from Britain.
+A consumer is a person who buys goods to use them. The words "consumer revolution," meaning a big change in buying, name what happened in the colonies during the 1700s. Colonists had made many of their own clothes, tools and kitchen things. Now they began buying them instead, mostly from Britain.
 
 In Britain, makers found better ways to make goods. Merchants got better at shipping goods across the ocean and at selling them on credit. Prices for cloth, furniture and clay dishes fell. At the same time, colonial families earned more. Goods that only rich families had owned became ordinary.
 
-Tea came with a whole set of goods: a teapot, cups, sugar and a table to set them on. Historians write that buying goods like these became a sign that a family was respectable.
+Tea came with a whole set of goods: a teapot, cups, sugar and a table to set them on. Buying goods like these became a sign that a family was respectable.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A market where people were sold" -->
@@ -147,11 +147,11 @@ Benjamin Franklin made his fortune as a printer partly by selling space in his n
 
 Some of the advertisements Franklin ran offered enslaved people for sale. In the 37 years he published the *Gazette*, Franklin ran at least 277 advertisements offering at least 308 enslaved people. He took the fees for these notices and acted as the go-between for the buyers and the sellers. He printed notices about servants who had run away from the people they were bound to work for.
 
-In 1748, when he was 42, Franklin stepped back from printing. He made a partnership with a printer named David Hall. Hall ran the shop, and Franklin kept a share of the profits. Historians give the paper's advertising money much of the credit for how early Franklin could stop working at his trade.
+In 1748, when he was 42, Franklin stepped back from printing. He made a partnership with a printer named David Hall. Hall ran the shop, and Franklin kept a share of the profits. Much of the money that let Franklin stop working at his trade early came from the paper's advertising.
 <!-- hb-story:end slug="benjamin-franklin-marketplace" -->
 
 <!-- hb-zoom level="span" label="Shops and shopkeepers in the port towns" -->
-Shops in the port towns sold cloth and other goods brought in from London. Some sold haberdashery, which means small sewing goods such as thread, ribbons and buttons. Shopkeepers ordered their goods from London. Historians write that colonists who bought on credit could end up in debt to a local shopkeeper or to a merchant in London.
+Shops in the port towns sold cloth and other goods brought in from London. Some sold haberdashery, which means small sewing goods such as thread, ribbons and buttons. Shopkeepers ordered their goods from London. The writers of the college textbook *The American Yawp* note that colonists who bought on credit could end up in debt to a local shopkeeper or to a merchant in London.
 
 Women ran some of these shops. Elizabeth Murray came to Boston from Scotland in 1749, when she was 23. She opened a shop that sold cloth and other goods from Britain. Her brother's business friends helped her get started. She traveled to London to choose the goods for her shop, and she earned enough to support herself. Later she helped other women open shops.
 <!-- /hb-zoom -->

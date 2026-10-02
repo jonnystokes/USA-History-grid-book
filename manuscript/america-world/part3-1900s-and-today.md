@@ -26,7 +26,7 @@ On September 28, 1901, at Balangiga on the island of Samar, townspeople and Fili
 
 General Jacob H. Smith gave the orders for the American answer on Samar. His orders survive in the record: "I want no prisoners. I wish you to kill and burn." "The more you kill and burn, the better it will please me." He said the inside of Samar "must be made a howling wilderness." When he was asked how young a person could be and still be a target, Smith said any Filipino male over ten, because in his words a boy that age could carry a weapon. On Samar, Marine Major Littleton Waller had eleven Filipino guides and carriers shot without a trial.
 
-How many people American troops killed on Samar is disputed, and the counts are far apart. An American soldier who was there said 39. A British researcher, Bob Couttie, studied it for ten years and put it at about 2,500. Most estimates fall between 2,000 and 2,500. Some Filipino historians say 5,000. An old figure of 50,000 is now traced to misread documents.
+How many people American troops killed on Samar is disputed, and the counts are far apart. An American soldier who was there said 39. A British researcher, Bob Couttie, studied it for ten years and put it at about 2,500. Most estimates fall between 2,000 and 2,500. Other counts reach 5,000. An old figure of 50,000 is now traced to misread documents.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What happened to the officers" -->
@@ -66,7 +66,7 @@ Filipinos served in the American armed forces in the Second World War, at the ca
 <!-- hb-zoom level="span" label="The Panama Canal, 1903 to 1914" -->
 President Theodore Roosevelt and his officials backed Panama's break from Colombia in 1903. Philippe-Jean Bunau-Varilla, a Frenchman, signed the Hay-Bunau-Varilla Treaty for Panama on November 18, 1903. Under the treaty the United States got a strip of land 10 miles wide across Panama, forever. Panama got $10,000,000 at once and $250,000 a year, starting nine years later.
 
-The canal opened on August 15, 1914. The official count of the dead during the American building of the canal is 5,609, out of about 56,000 workers. Most of the workers came from Barbados, Jamaica and other islands of the Caribbean. Many historians think the real number of dead was several times the official one.
+The canal opened on August 15, 1914. The official count of the dead during the American building of the canal is 5,609, out of about 56,000 workers. Most of the workers came from Barbados, Jamaica and other islands of the Caribbean. The historian Caroline Lieffers, writing for The Conversation, says many historians think the real number was several times higher.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Marines in Haiti, the Dominican Republic and Nicaragua" -->

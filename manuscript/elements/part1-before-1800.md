@@ -94,7 +94,7 @@ Many of the Scots were forced to work five to seven years under indentures at th
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Meanwhile in Europe" -->
-Chemistry is the science of what substances are made of and how they change. In Europe in the 1600s, chemists began to separate their work from alchemy. Robert Boyle published his book *The Sceptical Chymist* in 1661, and historians point to it as one sign of that split. Every element discovered in this century was found in Europe. One was phosphorus, found in the city of Hamburg in 1669.
+Chemistry is the science of what substances are made of and how they change. In Europe in the 1600s, chemists began to separate their work from alchemy. Robert Boyle published his book *The Sceptical Chymist* in 1661, and the book is one sign of that split. Every element discovered in this century was found in Europe. One was phosphorus, found in the city of Hamburg in 1669.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -116,7 +116,7 @@ British investors set up the Principio Company in Maryland in 1719. Its Principi
 <!-- hb-zoom level="span" label="The Iron Act of 1750" -->
 Parliament was the lawmaking body of Great Britain. In 1750 its members passed the Iron Act. They wrote it to encourage colonists to keep making raw iron and sending it to Britain. Raw iron meant pig iron and bar iron, which is iron hammered into bars. The act also stated that colonists could not build new mills to make finished ironware, meaning iron goods ready for use. The members of Parliament wanted that business kept in Britain.
 
-Colonists ignored the ban. After 1750 they built more than sixty new ironworks, about twenty of them in Pennsylvania. By the American Revolution, colonists made more iron than people in England and Wales did. Historians commonly rank the colonies third in the world for iron.
+Colonists ignored the ban. After 1750 they built more than sixty new ironworks, about twenty of them in Pennsylvania. By the American Revolution, colonists made more iron than people in England and Wales did. By a common ranking, the colonies were third in the world for iron.
 
 Other elements turned up in colonial homes every day. Lead went into gunshot and into pewter, a gray metal made mostly of tin and used for plates, bowls, mugs and spoons. Kettles and buttons were made of copper or of brass, a metal made partly of copper. Silver and gold arrived in the colonies as Spanish coins.
 <!-- /hb-zoom -->

@@ -93,7 +93,7 @@ Wood was the main fuel in colonial homes. People measured firewood in cords. A c
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Horses in Native hands" -->
-Native nations had horses earlier than historians once thought. For a long time, the usual account said that Native nations got their horses after the Pueblo Revolt of 1680. In that revolt, Pueblo people rose against the Spanish colonists in New Mexico. Perhaps 1,500 or more horses passed into Native hands at one time.
+Native nations had horses earlier than the old account said. For a long time, the usual account said that Native nations got their horses after the Pueblo Revolt of 1680. In that revolt, Pueblo people rose against the Spanish colonists in New Mexico. Perhaps 1,500 or more horses passed into Native hands at one time.
 
 In 2023 a team of scientists published a study in the journal *Science* showing that Native people had horses earlier than that. The team included Lakota, Comanche and Pawnee scholars. They studied the bones of horses found in what are now Wyoming, Kansas and New Mexico. The bones showed that Native people were riding horses, putting bridles on them and feeding them corn by the early 1600s. That was decades before the Pueblo Revolt.
 <!-- /hb-zoom -->

@@ -51,7 +51,7 @@ Workers carved the mountain from October 4, 1927, to October 31, 1941. The Natio
 > **Who:** The sculptor who designed Mount Rushmore. Before that, he carved a Confederate memorial at Stone Mountain, Georgia, a project the Ku Klux Klan helped pay for.
 > **When and where:** Stone Mountain, Georgia, from 1923. The Black Hills of South Dakota, 1927 to 1941.
 
-Before he carved Mount Rushmore, Gutzon Borglum went to meetings of the Ku Klux Klan and took a deep part in Klan politics, historians have found. No record proves he was a member. Confederate veterans had started the first Klan in Pulaski, Tennessee, in December 1865. Its members whipped, burned the homes of and murdered freed Black people and the people who helped them. Federal officials put that Klan down in the early 1870s.
+Before he carved Mount Rushmore, Gutzon Borglum went to meetings of the Ku Klux Klan and took a deep part in Klan politics, according to reports in the Washington Post and Smithsonian magazine. No record proves he was a member. Confederate veterans had started the first Klan in Pulaski, Tennessee, in December 1865. Its members whipped, burned the homes of and murdered freed Black people and the people who helped them. Federal officials put that Klan down in the early 1870s.
 
 On Thanksgiving night in 1915, William J. Simmons and 16 other men climbed Stone Mountain in Georgia. They burned a cross there and announced that the Klan was born again. Members of the new Klan preached white supremacy, the belief that white people should rule over everyone else. They were also against Catholics, Jews and immigrants.
 

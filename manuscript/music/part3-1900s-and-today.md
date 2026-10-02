@@ -246,7 +246,7 @@ In the early 1950s Black musicians made rock and roll out of rhythm and blues an
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Rock and roll, and who got paid for it" -->
-Sister Rosetta Tharpe, a Black gospel singer from Arkansas, played electric guitar in church music from the late 1930s. Her "Strange Things Happening Every Day," from 1944, was the first gospel record to reach the rhythm and blues sales chart. Some scholars call it the first rock and roll record. She was an influence on Elvis Presley, Little Richard, Chuck Berry and Johnny Cash.
+Sister Rosetta Tharpe, a Black gospel singer from Arkansas, played electric guitar in church music from the late 1930s. Her "Strange Things Happening Every Day," from 1944, was the first gospel record to reach the rhythm and blues sales chart. It has been called the first rock and roll record. She was an influence on Elvis Presley, Little Richard, Chuck Berry and Johnny Cash.
 
 Fats Domino's "The Fat Man," from 1949, had sold a million copies by 1951. Chuck Berry's "Maybellene," from 1955, sold more than a million. When Berry first saw his record, it listed the disc jockey Alan Freed and another man as its co-writers. A disc jockey is a person who plays records on the radio. Co-writers have a right to part of the money a song earns its writers. Berry later won back full credit.
 

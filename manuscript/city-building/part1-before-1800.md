@@ -20,7 +20,7 @@ The people who built these places kept no written records. No builder's, planner
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cahokia, a city laid out on purpose" -->
-In what is now Illinois, across the Mississippi River from where St. Louis, Missouri, stands today, people built up the city of Cahokia quickly from about 1050. It was the largest town north of Mexico before Europeans came. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. London had about as many people at the same date. Some estimates put as many as 50,000 people in the wider settlement around the center. Scholars have not settled those larger figures.
+In what is now Illinois, across the Mississippi River from where St. Louis, Missouri, stands today, people built up the city of Cahokia quickly from about 1050. It was the largest town north of Mexico before Europeans came. At its peak, around 1100, roughly 10,000 to 20,000 people lived in the center. London had about as many people at the same date. Some estimates put as many as 50,000 people in the wider settlement around the center. Those larger figures are estimates, and they do not agree.
 
 The people of Cahokia planned where the big pieces of their city would go. At its center they raised Monks Mound, the largest prehistoric structure made of earth in the Americas. Prehistoric means built before anyone living here kept written records. The mound holds about 814,000 cubic yards of earth. Workers carried all of it in baskets and packed it down by hand, and they raised the mound in stages.
 

@@ -148,7 +148,7 @@ In Virginia, a notice in the *Virginia Gazette* of November 26, 1736, listed pri
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fiddles, banjos, and the enslaved musicians who played them" -->
-The banjo has West African roots. Scholars have found more than 60 plucked instruments in West Africa that are likely forerunners of it. The first known mention of a banjo in the mainland colonies is in John Peter Zenger's newspaper, the *New-York Weekly Journal*, in 1736.
+The banjo has West African roots. A 2014 article on the Oxford University Press blog counts more than 60 plucked instruments in West Africa that are likely forerunners of it. The first known mention of a banjo in the mainland colonies is in John Peter Zenger's newspaper, the *New-York Weekly Journal*, in 1736.
 
 In Virginia, enslavers printed notices in the *Virginia Gazette* when an enslaved person ran away. Each notice described the person's body, clothes and skills, so that strangers could recognize and catch the person. Playing the fiddle was one of the skills these notices listed. In the issue of November 28 to December 5, 1745, Robert Whitfield of Isle of Wight County offered four pistoles for a young man named Tom, who "plays very well on the Violin." A pistole was a Spanish gold coin used in the colonies. In April 1746 John Thornton of Fredericksburg advertised for another man named Tom, about 46 years old, who "plays on the Violin, and is a Sawyer." A sawyer is a man who saws logs into boards. The University of Virginia's collection of Virginia runaway notices holds three from before 1751 that name a musician: these two men named Tom, and a fiddler named Harry.
 <!-- /hb-zoom -->
@@ -206,7 +206,7 @@ In 1794 his friends paid to print his book *The Continental Harmony*. His wife, 
 <!-- hb-story:end slug="william-billings" -->
 
 <!-- hb-zoom level="span" label="Songs and signals of the Revolution" -->
-British officers first sang "Yankee Doodle" to make fun of the colonists. A British army surgeon, Richard Shuckburgh, is said to have written the words in about 1755 or 1758, during the French and Indian War. Historians dispute that date. In 1768 British soldiers arrived to occupy Boston, and their musicians played the song in the streets to mock the colonists. Early in the war, British and Loyalist troops played it to make fun of the Continental soldiers. Loyalists were colonists who stayed on the British side. The Americans then made up their own verses, and by 1781 "Yankee Doodle" was a favorite American song.
+British officers first sang "Yankee Doodle" to make fun of the colonists. A British army surgeon, Richard Shuckburgh, is said to have written the words in about 1755 or 1758, during the French and Indian War. Other accounts dispute that date. In 1768 British soldiers arrived to occupy Boston, and their musicians played the song in the streets to mock the colonists. Early in the war, British and Loyalist troops played it to make fun of the Continental soldiers. Loyalists were colonists who stayed on the British side. The Americans then made up their own verses, and by 1781 "Yankee Doodle" was a favorite American song.
 
 In July 1768 the *Boston Gazette* printed "The Liberty Song." John Dickinson of Pennsylvania wrote its words to the tune of "Heart of Oak," the anthem of the British Royal Navy. He sent it to his Massachusetts friend James Otis with a note that "indifferent songs are very powerful on certain occasions." By indifferent he meant songs that were not very good.
 

@@ -22,7 +22,7 @@ Hundreds of Native nations lived here. There were no horses and no wagons. Trail
 <!-- hb-zoom level="span" label="Cahokia and Chaco Canyon: towns people built and left" -->
 Cahokia was the largest town north of Mexico. It stood on the Mississippi River, near where the city of St. Louis is today, on the Illinois side. People lived there from about the year 700 to about 1400. Around 1100, between 10,000 and 20,000 people lived in the city. Some estimates put as many as 50,000 people in the area around it. That made Cahokia about as big as London was at the time.
 
-By about 1350 most of the people of Cahokia had moved away, and by the 1400s the town was nearly empty. Nobody knows for sure why they left. The main explanations are drought, floods, and a shortage of wood and food. Scholars still argue about which of these mattered most.
+By about 1350 most of the people of Cahokia had moved away, and by the 1400s the town was nearly empty. Nobody knows for sure why they left. The main explanations are drought, floods, and a shortage of wood and food. Accounts differ about which of these mattered most.
 
 Chaco Canyon, in what is now New Mexico, was a center of the Ancestral Puebloan people, the ancestors of today's Pueblo peoples. Around 1140, after a run of bad droughts, people started to leave the canyon. A drought is a long time with little or no rain. By about 1200 most of them had gone. They moved out and joined the Pueblo communities of the Southwest.
 <!-- /hb-zoom -->
@@ -30,7 +30,7 @@ Chaco Canyon, in what is now New Mexico, was a center of the Ancestral Puebloan 
 <!-- hb-zoom level="span" label="The Navajo and Apache move south" -->
 The ancestors of the Navajo and the Apache came from the far north. They lived in what is now western Canada and eastern Alaska. The Navajo call themselves the Diné. Their long move south is called the Athabascan migration, or the Dené migration.
 
-Over a long time, groups of them moved south. They traveled along the edge of the Rocky Mountains and the Great Plains toward the Southwest. Historians do not agree on when they arrived. Many place their arrival between the 1400s and about 1525. Others argue that they came earlier, in the 1200s.
+Over a long time, groups of them moved south. They traveled along the edge of the Rocky Mountains and the Great Plains toward the Southwest. Accounts differ about when they arrived. Many place their arrival between the 1400s and about 1525. Others argue that they came earlier, in the 1200s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Seasonal rounds and trade paths" -->
@@ -89,7 +89,7 @@ English, Dutch and other colonists settled along the Atlantic coast in this cent
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The horse spreads to Native nations" -->
-Historians give two accounts of how horses spread. The timing is still not settled.
+There are two accounts of how horses spread. The timing is still not settled.
 
 The older account starts with the Pueblo Revolt of 1680. The Pueblo peoples of what is now New Mexico rose up against Spanish rule. Popé, a religious leader of the Tewa, one of the Pueblo peoples, led them. They killed about 400 Spaniards and drove the rest out of New Mexico for more than a decade. The Spanish left behind large numbers of horses, perhaps more than 1,500. It was the largest number of horses to pass into Native hands at one time.
 
@@ -178,7 +178,7 @@ Charles Morris, a New Englander, drew up the plan. Soldiers would surround the c
 
 British officers and soldiers kept removing Acadians until 1764. One count gives about 10,000 Acadians forced out between 1755 and 1763. Another gives about 11,500 between 1755 and 1764. British ships carried them to the thirteen colonies, to England and to France. Many Acadians escaped into the forests, and British soldiers hunted them for the next five years. In French the expulsion is called *Le Grand Dérangement*, the great upheaval.
 
-Historians disagree on how many Acadians died. One count says close to 5,000 died of disease, shipwreck or violence. Other sources say as many as half of those forced out died. In one group of about 3,100 Acadians removed in 1758, about 1,649 died by drowning or disease.
+Counts of how many Acadians died differ. One count says close to 5,000 died of disease, shipwreck or violence. Other sources say as many as half of those forced out died. In one group of about 3,100 Acadians removed in 1758, about 1,649 died by drowning or disease.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The road to Louisiana and the Cajuns" -->
@@ -205,7 +205,7 @@ A sickness spread through the new settlement that year. Most accounts say it was
 <!-- hb-zoom level="span" label="The Wilderness Road and the Cumberland Gap" -->
 The Cumberland Gap is a low notch through the mountains near the place where Kentucky, Virginia and Tennessee meet. In 1775 Daniel Boone and about 30 axmen cut a road through it called the Wilderness Road. As many as 300,000 settlers traveled that road into Kentucky and beyond between 1775 and about 1810. Kentucky filled with settlers and became a state in 1792.
 
-Boone cut the road for Richard Henderson's Transylvania Company, a business that bought land to sell to settlers. From March 14 to 17, 1775, at Sycamore Shoals on the Watauga River, Henderson got a deed from Cherokee leaders. Attakullakulla, Oconostota and Old Tassel were among them. The deed covered about 20 million acres between the Cumberland and Ohio rivers. That was most of Kentucky and part of Tennessee. In return the Cherokee received trade goods. Some scholars value the goods at about 10,000 British pounds.
+Boone cut the road for Richard Henderson's Transylvania Company, a business that bought land to sell to settlers. From March 14 to 17, 1775, at Sycamore Shoals on the Watauga River, Henderson got a deed from Cherokee leaders. Attakullakulla, Oconostota and Old Tassel were among them. The deed covered about 20 million acres between the Cumberland and Ohio rivers. That was most of Kentucky and part of Tennessee. In return the Cherokee received trade goods. One estimate values the goods at about 10,000 British pounds.
 
 Dragging Canoe, Attakullakulla's son, spoke against selling land that the Cherokee nation held in common, and he rejected the sale. Other nations had claims to the land too. The Shawnee had once lived on part of it. The Tennessee Encyclopedia calls the Cherokee claim the strongest of these. By buying the land, Henderson broke a British rule of 1763, the Royal Proclamation. It was an order from the British king that banned private buyers from buying Native land. Officials in Virginia and North Carolina and members of the Continental Congress, the meeting of leaders from the colonies, all refused to recognize Henderson's colony.
 <!-- /hb-zoom -->

@@ -26,7 +26,7 @@ The clan mother can also start the removal of a chief. If the chief stops speaki
 
 The National Park Service is the federal agency that runs the country's national parks and historic sites. Its historians record more of the women's powers. Haudenosaunee women grew the food and shared it out. Through that work, the Park Service historians write, the women "controlled the economy" of their nations, meaning the food and goods their people lived on. They also held "the final authority over land transfers and decisions about engaging in war." That means the women had the last word on whether land was handed to anyone else and on whether their nation went to war. When a husband and wife separated, the wife took with her all the property she had brought into the home, and the children went with her.
 
-The Great Law of Peace is the set of laws that the people of the five nations agreed to live by when they joined together. Nobody can prove when they agreed to it. Haudenosaunee tradition and the wampum records, belts and strings of shell beads that hold agreements, give a date between about the year 1000 and 1400. Scholars who work from written accounts have mostly put it around 1450, and some argue for the late 1100s.
+The Great Law of Peace is the set of laws that the people of the five nations agreed to live by when they joined together. Nobody can prove when they agreed to it. Haudenosaunee tradition and the wampum records, belts and strings of shell beads that hold agreements, give a date between about the year 1000 and 1400. Accounts based on written records have mostly put it around 1450, and some put it in the late 1100s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What the records can and cannot show" -->

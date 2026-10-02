@@ -54,7 +54,7 @@ No farmer from before 1500 is known by name. Corn cannot reseed itself, so every
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, Europeans began carrying crops and farm animals across the Atlantic Ocean in both directions, and Africans carried their own crops to the Americas. Historians call this movement the Columbian Exchange. The historian Alfred W. Crosby named it in his 1972 book *The Columbian Exchange*. Native people here still grew and ate their own foods.
+In the 1500s, Europeans began carrying crops and farm animals across the Atlantic Ocean in both directions, and Africans carried their own crops to the Americas. This movement is called the Columbian Exchange. The historian Alfred W. Crosby named it in his 1972 book *The Columbian Exchange*. Native people here still grew and ate their own foods.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What crossed the ocean" -->
@@ -62,7 +62,7 @@ Europeans carried American crops and animals home to Europe. These included corn
 
 Europeans brought wheat, rice, sugarcane, citrus fruit such as oranges and lemons, and honeybees to the Americas on their ships. They also brought cattle, pigs, sheep, goats and chickens. Columbus brought horses on his second voyage, in 1493. Spanish colonists founded St. Augustine, in Florida, in 1565, and began a colony in New Mexico in 1598. In both places they planted wheat and citrus and raised cattle.
 
-The word exchange can sound like a friendly trade. It was not one. Europeans took American crops home from lands they were invading. Much of what arrived was grown to feed the colonists. Before long, planters were forcing enslaved people to grow sugarcane on plantations. European slave traders carried most of the Africans who came to the Americas across the ocean in chains. Those Africans brought their own crops and the skill to grow them. These included okra, watermelon, yams, sorghum, black-eyed peas and African rice. Historians today credit enslaved Africans with bringing these crops to the Americas.
+The word exchange can sound like a friendly trade. It was not one. Europeans took American crops home from lands they were invading. Much of what arrived was grown to feed the colonists. Before long, planters were forcing enslaved people to grow sugarcane on plantations. European slave traders carried most of the Africans who came to the Americas across the ocean in chains. Those Africans brought their own crops and the skill to grow them. These included okra, watermelon, yams, sorghum, black-eyed peas and African rice. Enslaved Africans brought these crops to the Americas.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="De Soto's army and Apalachee corn" -->
@@ -128,7 +128,7 @@ In 1614 an English captain named Thomas Hunt kidnapped Squanto and took him to S
 
 The colonist Edward Winslow wrote about the corn planting in a letter of December 1621. He wrote that "according to the manner of the Indians, we manured our ground with herrings, or rather shads." To manure ground means to put something into the soil to feed the crops. Herring and shad are kinds of fish. The colonists buried fish in the ground with the corn seed. Squanto taught them to do this.
 
-Historians disagree about where Squanto learned it. In 1975 Lynn Ceci, an anthropologist, or scientist who studies how people live, argued in the journal *Science* that burying fish with corn was a European method. She argued that Squanto probably learned it during his years among Europeans. She found little evidence that many Native farmers used fish this way. Other scholars defended the older account, and the question is still argued. Winslow himself called it "the manner of the Indians."
+Historians disagree about where Squanto learned it. In 1975 Lynn Ceci, an anthropologist, or scientist who studies how people live, argued in the journal *Science* that burying fish with corn was a European method. She argued that Squanto probably learned it during his years among Europeans. She found little evidence that many Native farmers used fish this way. Others defended the older account, and the question is still argued. Winslow himself called it "the manner of the Indians."
 
 Squanto died in 1622.
 <!-- hb-story:end slug="squanto-food-farming" -->
@@ -154,7 +154,7 @@ From 1698 to 1702, Carolina planters shipped out about 269,000 pounds of rice a 
 
 Planters put out advertisements asking for captives from the part of West Africa known as the Rice Coast. That coast included Senegambia, the land along the Senegal and Gambia rivers, and Sierra Leone. Planters paid more for people from there because those people knew how to grow rice. Records from Carolina fields show African methods at work. Enslaved workers built earth banks around fields beside the tidal rivers so they could flood and drain them. They sowed seed by pressing it into the mud with the heel and toe. They separated the grain from its husks by tossing it in coiled baskets called fanner baskets.
 
-Historians disagree about how much of Carolina's rice farming came from African knowledge. In her 2001 book *Black Rice*, the geographer Judith Carney argued that African knowledge was the base of the whole rice business. A geographer is a scientist who studies the land and how people use it. In 2005 the historians David Eltis, Philip Morgan and David Richardson argued that she had made the African share too large. Records also show that in the early years of the colony, more captives came from Angola than from any other place, and Angola is not on the Rice Coast. Most scholars now hold a middle view. Planters built the rice business with their money and by force, and they also depended on African skill. The African methods in the fields are documented.
+Historians disagree about how much of Carolina's rice farming came from African knowledge. In her 2001 book *Black Rice*, the geographer Judith Carney argued that African knowledge was the base of the whole rice business. A geographer is a scientist who studies the land and how people use it. In 2005 the historians David Eltis, Philip Morgan and David Richardson argued that she had made the African share too large. Records also show that in the early years of the colony, more captives came from Angola than from any other place, and Angola is not on the Rice Coast. A middle view is now the most common one. Planters built the rice business with their money and by force, and they also depended on African skill. The African methods in the fields are documented.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whose land the rice grew on" -->

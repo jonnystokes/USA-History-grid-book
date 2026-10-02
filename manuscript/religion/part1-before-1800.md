@@ -296,11 +296,11 @@ In 2005 a statue of Po'pay, given by the state of New Mexico, was placed in the 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the 1730s and 1740s, traveling preachers held revivals across the colonies. A revival is a series of meetings meant to stir people to a stronger faith. People in many colonies took part in the same religious movement at the same time. Historians call it the Great Awakening.
+In the 1730s and 1740s, traveling preachers held revivals across the colonies. A revival is a series of meetings meant to stir people to a stronger faith. People in many colonies took part in the same religious movement at the same time. It is called the Great Awakening.
 
 Earlier, in 1704, English colonists from Carolina and Creek fighters under James Moore destroyed the Spanish missions among the Apalachee of Florida. In 1741 New York officials hanged a man they called a Catholic priest.
 
-Most colonists already went to church. Historians estimate that 75 to 80 percent of colonists attended church between 1700 and 1740, and colonists were building new churches fast. The revival preachers wanted each person to go through the new birth: a conversion that a person could feel happening inside. Churches split over whether the new birth was real. Critics said many of the conversions were false, and even the work of the devil.
+Most colonists already went to church. By one estimate, 75 to 80 percent of colonists attended church between 1700 and 1740, and colonists were building new churches fast. The revival preachers wanted each person to go through the new birth: a conversion that a person could feel happening inside. Churches split over whether the new birth was real. Critics said many of the conversions were false, and even the work of the devil.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Apalachee missions destroyed, 1704" -->
@@ -506,7 +506,7 @@ Father Junípero Serra led the Franciscans. He was born in 1713 at Petra, on the
 
 About 310,000 Native people lived in California in 1769. Each mission was built in the homeland of a people with its own government and language. Mission San Diego stood on Kumeyaay land and San Luis Rey on Payómkawichum land. San Juan Capistrano was on Acjachemen land, San Gabriel on Tongva land, and San Fernando on Tataviam land. Santa Bárbara, San Buenaventura, La Purísima and San Luis Obispo were on Chumash land. San Antonio and San Miguel were on Salinan land, and Soledad was on Esselen land. Six missions around Monterey Bay and San Francisco Bay were built on the lands of different Ohlone peoples.
 
-Serra's writings show a plan to baptize young children first. He expected the children to learn Spanish and translate for their parents. Edward Ketchum, a tribal historian, has said that once a child was baptized, the church treated the child as its "property." Historians describe persuasion in the early years, with force growing after about 1790 to 1800. Native accounts make clear that force was used in many baptisms. When Native people kept resisting, the missionaries called in soldiers, who captured runaways and people who had not been baptized.
+Serra's writings show a plan to baptize young children first. He expected the children to learn Spanish and translate for their parents. Edward Ketchum, a tribal historian, has said that once a child was baptized, the church treated the child as its "property." A National Register report on the California missions, drawing on the scholars Cook and Madley, describes persuasion in the early years, with force growing after about 1790 to 1800. Native accounts make clear that force was used in many baptisms. When Native people kept resisting, the missionaries called in soldiers, who captured runaways and people who had not been baptized.
 
 Missionaries punished baptized Native people to keep them from leaving the missions or to force them to come back. They punished people for running away, stealing, fighting and drinking, and for other acts they called disobedience. The missionaries sometimes gave the punishments themselves. They also had soldiers or Native officials deliver them. Soldiers patrolled the countryside around the missions and punished people there too.
 

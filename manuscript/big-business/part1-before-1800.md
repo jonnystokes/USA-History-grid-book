@@ -54,7 +54,7 @@ Under a second charter, dated 23 May 1609, the king gave up some of his power ov
 
 From 1619 to 1622, about 3,000 of the people the company sent to Virginia died or went missing. In 1619 about 700 settlers lived in the colony. Over the next three years the company shipped 3,570 more men, women and children there, for a total of 4,270. English settlers had been taking Powhatan land to grow tobacco. On 22 March 1622 an alliance of Virginia Indians led by Opechancanough attacked the English settlements. Opechancanough was the leading chief of the Powhatan. The attackers killed as many as 347 colonists.
 
-After the attack, 1,240 settlers were left alive. An investor named Samuel Wrote asked what had happened to the other 2,683 people. Historians have since found that most of them died of disease.
+After the attack, 1,240 settlers were left alive. An investor named Samuel Wrote asked what had happened to the other 2,683 people. Encyclopedia Virginia's history of the company states that most of them died of disease.
 
 In May 1623 King James I's advisers on his Privy Council, the king's inner council, set up a royal commission, a group of officials named to look into the company's business. On 24 May 1624 the king took away the company's charter. From then on Virginia was a royal colony, run by officials the king chose.
 
@@ -189,6 +189,6 @@ Morris paid $100,000. Federal officials held the money and put it into shares of
 
 By 1797 Morris and Nicholson together owed their creditors about $12 million. A creditor is a person owed money. In February 1798 officers arrested Morris at his home. They took him to the Prune Street debtors' apartment, next to the Walnut Street Prison in Philadelphia. Morris was held there because he could not pay his debts. He stayed there about three and a half years.
 
-In 1800 members of Congress passed a bankruptcy law. Bankruptcy is a legal process for a person who cannot pay his debts. A court divides what he owns among the people he owes, and he is freed from the rest of the debt. Some historians argue that Morris's time in prison helped get that law passed. He was released under it in August or October 1801 (accounts differ). At his release, three bankruptcy commissioners, officials who handled his case, found that he himself owed $2,948,711.11.
+In 1800 members of Congress passed a bankruptcy law. Bankruptcy is a legal process for a person who cannot pay his debts. A court divides what he owns among the people he owes, and he is freed from the rest of the debt. Accounts differ about whether Morris's time in prison helped get that law passed. He was released under it in August or October 1801 (accounts differ). At his release, three bankruptcy commissioners, officials who handled his case, found that he himself owed $2,948,711.11.
 <!-- hb-story:end slug="robert-morris" -->
 <!-- hb-time:end id="1750-1800" -->

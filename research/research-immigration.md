@@ -650,3 +650,6 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-storytelling-evolution.md` under the T-269 PATCH named in each item.
 Full text and sources are in `research/research-storytelling-evolution.md`, ERA 10.
 - `immigration`, era 10: Ke Huy Quan, refugee family from Saigon via Hong Kong camp, admitted 1979; "My journey started on a boat" (NBC News, March 15, 2023).
+
+### PATCH 2026-10-02 (T-483): named historian for "these numbers are too high" (Sullivan's Island)
+- Copied from `research/research-slavery-freedom.md` (era 4, Sullivan's Island line): "some historians (e.g., Nic Butler, Charleston County Public Library) argue the Sullivan's-Island-specific share is overstated." Prose (era 4) now reads: "Nic Butler, a historian at the Charleston County Public Library, argues that the share credited to Sullivan's Island is too high."

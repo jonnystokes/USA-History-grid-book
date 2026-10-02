@@ -123,7 +123,7 @@ In 1935, in Akron, Ohio, two heavy drinkers named Bill Wilson and Dr. Bob Smith 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How much people drank, and repeal" -->
-Drinking fell under Prohibition, and then much of it came back. A 1991 study by the economists Miron and Zwiebel found that drinking fell at first to about 30 percent of what it had been before the ban. Over the next several years it rose again, to about 60 to 70 percent. Deaths from cirrhosis, damage to the liver from heavy drinking, fell by nearly two-thirds. Blum writes that insurance companies charted a rise in alcoholism of more than 300 percent in the 1920s. The counts point different ways, and historians disagree about how much drinking changed.
+Drinking fell under Prohibition, and then much of it came back. A 1991 study by the economists Miron and Zwiebel found that drinking fell at first to about 30 percent of what it had been before the ban. Over the next several years it rose again, to about 60 to 70 percent. Deaths from cirrhosis, damage to the liver from heavy drinking, fell by nearly two-thirds. Blum writes that insurance companies charted a rise in alcoholism of more than 300 percent in the 1920s. The counts point different ways, so how much drinking changed is not settled.
 
 Pauline Sabin, a leader of the Republican Party in New York, first backed the ban. "I felt I should approve of it because it would help my two sons," she said. She changed her mind. By 1929 she said that "children are growing up with a total lack of respect for the Constitution and for the law." In May 1929, in Chicago, she founded the Women's Organization for National Prohibition Reform to end the ban.
 

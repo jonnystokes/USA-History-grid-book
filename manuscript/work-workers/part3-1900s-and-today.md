@@ -41,7 +41,7 @@ She said she was born in 1830, and on May 1, 1930, she celebrated her "100th" bi
 <!-- hb-zoom level="span" label="Deaths in the coal mines" -->
 In 1900, 1,489 coal miners were killed at work. The worst year on record was 1907. That year 3,242 coal miners were killed out of 680,492 miners.
 
-On December 6, 1907, explosions in two mines at Monongah, West Virginia, killed hundreds of men and boys. The official count was 362 dead. Historians today say more than 500 died. About 1,000 children lost their fathers. Accounts differ on which company ran the mines, the Fairmont Coal Company or the Consolidation Coal Company. The Fairmont company's president, C. W. Watson, blamed "the careless use of a mining lamp." No record shows that anyone was charged.
+On December 6, 1907, explosions in two mines at Monongah, West Virginia, killed hundreds of men and boys. The official count was 362 dead. The West Virginia Mine Wars Museum and later estimates put the dead at more than 500. About 1,000 children lost their fathers. Accounts differ on which company ran the mines, the Fairmont Coal Company or the Consolidation Coal Company. The Fairmont company's president, C. W. Watson, blamed "the careless use of a mining lamp." No record shows that anyone was charged.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Lewis Hine photographs the children" -->
@@ -161,7 +161,7 @@ Up to 3,400 workers a day built the Empire State Building in New York. By the of
 
 At the Golden Gate Bridge in San Francisco, the chief engineer, Joseph Strauss, required workers to wear hard hats. He spent about $130,000 on a safety net under the bridge. The net caught 19 men who fell, and they called themselves the "Halfway to Hell Club." One of them, the ironworker Al Zampa, fell on October 19, 1936, and broke four bones in his back. He went back to ironwork. Eleven men died building the bridge. Ten of them died on February 17, 1937, when a falling platform tore through the net.
 
-At Hoover Dam, the federal Bureau of Reclamation's official count is 96 deaths on the job. That count leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs. Many historians think those men were poisoned by carbon monoxide, a gas from engines, in the tunnels.
+At Hoover Dam, the federal Bureau of Reclamation's official count is 96 deaths on the job. That count leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs. Many accounts say those men were in fact poisoned by carbon monoxide, a gas from engines, in the tunnels.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The right to organize and the sit-down strikes" -->
@@ -321,7 +321,7 @@ In 1988 the lawyer Thomas Geoghegan won a settlement of $14.5 million from Inter
 <!-- hb-story:end slug="frank-lumpkin" -->
 
 <!-- hb-zoom level="span" label="The air traffic controllers, 1981" -->
-On August 3, 1981, about 13,000 federal air traffic controllers, the workers who guide airplanes in and out of airports, went on strike. Federal law did not allow federal workers to strike. President Ronald Reagan gave them 48 hours to return to work. On August 5 he fired 11,345 of them. Their union was decertified, which means federal officials no longer accepted it as the workers' union. Historians have described the firings as a signal to employers that breaking a strike was acceptable again.
+On August 3, 1981, about 13,000 federal air traffic controllers, the workers who guide airplanes in and out of airports, went on strike. Federal law did not allow federal workers to strike. President Ronald Reagan gave them 48 hours to return to work. On August 5 he fired 11,345 of them. Their union was decertified, which means federal officials no longer accepted it as the workers' union. Many accounts describe the firings as a signal to employers that breaking a strike was acceptable again.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="El Monte, 1995" -->

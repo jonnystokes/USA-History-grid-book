@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 Before 1500, people in North America traveled on foot and by water. No one here used wheeled vehicles, and there were no horses. The horses of the Americas had died out after the ice age. North of Mexico, no large animal was left that could pull a cart.
 
-Historians give a simple reason why no one here used the wheel for travel: a cart needs an animal to pull it, and there was none. People already moved themselves and their goods over trails and rivers that crossed the whole continent. In Mesoamerica, the region that is now Mexico and Central America, people made toys with wheels. They did not use wheels to haul loads.
+One simple reason no one here used the wheel for travel is that a cart needs an animal to pull it, and there was none. People already moved themselves and their goods over trails and rivers that crossed the whole continent. In Mesoamerica, the region that is now Mexico and Central America, people made toys with wheels. They did not use wheels to haul loads.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The trail network" -->
@@ -126,7 +126,7 @@ Virginia's lawmakers passed road laws in 1632 and 1657 and added to them in 1661
 
 Sarah Kemble Knight kept a journal of a ride from Boston to New Haven and on to New York in October 1704. She was a businesswoman in Boston. She traveled with post riders, the men who carried the mail, and she hired guides from one town to the next.
 
-Her journal records the road itself. She crossed some rivers by canoe in the dark and others at fords. A ford is a shallow place where people and horses can cross a river. She wrote down which bridges she was afraid to cross. The journal was published in 1825, more than a hundred years after her ride. Historians use it as an eyewitness record of what travel on colonial roads was like.
+Her journal records the road itself. She crossed some rivers by canoe in the dark and others at fords. A ford is a shallow place where people and horses can cross a river. She wrote down which bridges she was afraid to cross. The journal was published in 1825, more than a hundred years after her ride. It is an eyewitness record of what travel on colonial roads was like.
 <!-- hb-story:end slug="sarah-kemble-knight-transportation" -->
 <!-- hb-time:end id="1700-1750" -->
 

@@ -223,7 +223,7 @@ Donald Jameson, a former CIA officer, told Saunders that CIA officers saw a chan
 
 The money went through the Congress for Cultural Freedom, a group set up with CIA money in 1950 and run by a CIA agent. It had offices in 35 countries. Its leaders used the money to pay for touring shows of American art. One, "The New American Painting," visited every large city in Europe in 1958 and 1959. Staff of the Museum of Modern Art organized most of these shows.
 
-Historians disagree about how much this mattered to the painters or to their fame. The art historian Jennifer McComas writes that the claims hold "some truth." She also writes that some of the writers who made them got facts wrong and chose only the shows that fit their argument. The amount of money spent on the painting shows is not known.
+Accounts differ about how much this mattered to the painters or to their fame. The art historian Jennifer McComas writes that the claims hold "some truth." She also writes that some of the writers who made them got facts wrong and chose only the shows that fit their argument. The amount of money spent on the painting shows is not known.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Photographs and books" -->
