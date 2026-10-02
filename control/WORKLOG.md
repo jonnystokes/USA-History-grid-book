@@ -4890,3 +4890,8 @@ AGENT: a3578e6a9415aefb9 (T-483)
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R2-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+
+### 2026-10-02 | [LOCAL] T-485 | crime-justice: RESEARCH round 2 R3-law-rights: crime-justice rights-movements government-politics religion education immigration | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/R3-crime-justice.md
+VERIFY: python tools/project_state.py --check crime-justice --stage prose
