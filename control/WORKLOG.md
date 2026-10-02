@@ -4644,3 +4644,8 @@ VERIFY: python tools/project_state.py --check technology --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+
+### 2026-10-01 | [LOCAL] T-457 | work-workers: FIXER opus, whole chapter [WAVE8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-work-workers.md
+VERIFY: python tools/project_state.py --check work-workers --stage prose
