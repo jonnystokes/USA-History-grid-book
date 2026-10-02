@@ -4907,3 +4907,8 @@ RESULT: DONE. economy group: 20 items; 1662 Virginia laws, Biddle (bank 'acquitt
 CHECKPOINT: control/checkpoints/R5-economy.md
 USAGE AT START: 85% (Jon). Round-2 wave T-484..T-486 measured 68->85 = 17% for 3.
 AGENT: ac7036ad9de7e62a9 (T-487)
+
+### 2026-10-02 | [LOCAL] T-488 | last round-2 group (10 chapters) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/R6-rest.md
+### 2026-10-02 | [LOCAL] STEP 6 (second audit) begins in parallel on the other 27 chapters: sonnet checkers T-489.., queue in scratch a6queue.txt, findings to control/audit/<slug>/<partN>-findings-r2.md, progress `python tools/audit2.py`. Budget (Jon): stay under 90% (start 4%).
