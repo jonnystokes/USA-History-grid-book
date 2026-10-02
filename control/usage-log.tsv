@@ -397,3 +397,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-448	prose	general-purpose/opus	[LOCAL] food-farming: FIXER whole chapter [WAVE6]: 207 FIXED, 26 REJECTED, 2 NEEDS-RESEARCH, 10 found 	?	?	?	426981	261	1184777	?	completed	PASS  food-farming / prose
 2026-10-01	T-456	prose	general-purpose/opus	[LOCAL] migration: FIXER whole chapter [WAVE8]: 174 FIXED, 38 REJECTED, 2 NEEDS-RESEARCH, 10 found 	?	?	?	364192	229	995547	?	completed	PASS  migration / prose
 2026-10-01	T-458	prose	general-purpose/opus	[LOCAL] elements: FIXER whole chapter [WAVE8]: 148 FIXED, 14 REJECTED, 0 NEEDS-RESEARCH, 11 found 	?	?	?	378665	225	1003112	?	completed	PASS  elements / prose
+2026-10-01	T-453	prose	general-purpose/opus	[LOCAL] land-environment: FIXER whole chapter [WAVE8]: 146 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 18 found 	?	?	?	392009	241	1093798	?	completed	PASS  land-environment / prose

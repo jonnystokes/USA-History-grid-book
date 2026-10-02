@@ -4626,9 +4626,11 @@ CHECKPOINT: control/checkpoints/F5-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
 
 ### 2026-10-01 | [LOCAL] T-453 | land-environment: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-land-environment.md
 VERIFY: python tools/project_state.py --check land-environment --stage prose
+RESULT: DONE. PASS  land-environment / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=15 (verified 15) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18286w files=3 validator_errors=0
+        392009 tokens, 241 tool uses, 18.2 min (opus). FIXER whole chapter [WAVE8]: 146 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 18 found by fixer; source-talk lines rewritten; 18,020 -> 19,440 words
 
 ### 2026-10-01 | [LOCAL] T-454 | city-building: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: IN-FLIGHT
