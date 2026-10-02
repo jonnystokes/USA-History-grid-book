@@ -4624,3 +4624,8 @@ VERIFY: python tools/project_state.py --check energy --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+
+### 2026-10-01 | [LOCAL] T-453 | land-environment: FIXER opus, whole chapter [WAVE8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-land-environment.md
+VERIFY: python tools/project_state.py --check land-environment --stage prose
