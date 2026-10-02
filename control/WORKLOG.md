@@ -4798,9 +4798,11 @@ CHECKPOINT: control/checkpoints/F5-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
 
 ### 2026-10-02 | [LOCAL] T-474 | native-nations: FIXER opus, whole chapter [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
+RESULT: DONE. PASS  native-nations / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18589w files=3 validator_errors=0
+        403419 tokens, 131 tool uses, 19.7 min (opus). FIXER parts 2-3 + light pass part1 [WAVE7G]: 134 FIXED, 8 REJECTED, 1 NEEDS-RESEARCH, 21 found by fixer; Bear River, Marias added; Mankato/Crazy Horse/Joseph actors named; Hale, Clearwater, Lamont named; 17,819 -> 19,698 words
 
 ### 2026-10-02 | [LOCAL] T-475 | government-politics: FIXER opus, whole chapter [WAVE7G] | model opus
 STATUS: IN-FLIGHT

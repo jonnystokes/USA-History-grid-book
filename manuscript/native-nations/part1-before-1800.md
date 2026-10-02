@@ -16,7 +16,7 @@ Editor's in-development note — not part of the final book; the parser strips i
 <!-- hb-zoom level="era" -->
 Before 1500 there were hundreds of nations in the land that is now the United States. A nation is a group of people who govern themselves. The people of these nations built towns, carried goods hundreds of miles to trade, made agreements with other nations and fought wars against them. Across all these nations, people spoke hundreds of different languages.
 
-Nobody knows how many people lived here before 1500. Scholars have used different methods and reached different answers. In 1976 Douglas Ubelaker put the number for the continental United States at about 1.85 million. In 1983 Henry Dobyns put it at about 18 million for all of North America north of Mexico. Textbooks published between 1988 and 1990 stated numbers from 1 million to 12 million. No number is settled.
+Nobody knows how many people lived here before 1500. Scholars have used different methods and reached different answers. In 1976 Douglas Ubelaker put the number for the lower 48 states at about 1.85 million. In 1983 Henry Dobyns put it at about 18 million for all of North America north of Mexico. Textbooks published between 1988 and 1990 stated numbers from 1 million to 12 million. No number is settled.
 
 People had lived on this land for thousands of years before any ship came from Europe. At Celilo Falls, on the Columbia River, archaeologists date the first signs of people to at least 10,000 years ago, and some accounts say 15,000. In those thousands of years, some peoples built cities and later left them.
 <!-- /hb-zoom -->
@@ -54,7 +54,7 @@ In the 1500s ships from Europe began to reach these coasts. Spanish expeditions,
 
 The diseases spread ahead of the Spanish expeditions and behind them. A town could lose many of its people before any European arrived there. The diseases killed large shares of whole communities. Some writers call these deaths the Great Dying.
 
-No one can give a single death toll, because no one knows how many people lived here at the start. Estimates for North America north of Mexico run from about 1 million to about 18 million. A death toll worked out from the low estimate and one worked out from the high estimate differ by millions of people. In 1900, United States census takers, the officials who count the people of the country, counted about 250,000 Native people in the United States. That fall came from disease and also from wars, killings and forced removals over the four centuries after 1500.
+No one can give a single death toll, because no one knows how many people lived here at the start. Estimates for North America north of Mexico run from about 1 million to about 18 million. A death toll worked out from the low estimate and one worked out from the high estimate differ by millions of people. In 1900, United States census takers, the officials who count the people of the country, counted about 250,000 Native people in the United States. That fall came from disease and also from wars, killings, and armed men forcing whole nations off their land over the four centuries after 1500.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The entradas" -->
@@ -97,11 +97,11 @@ Nobody counted the dead. The only detailed written story of the fighting by some
 
 Zaldívar's soldiers captured about 500 Acoma men, women and children. One record gives the number put on trial as 507. Oñate tried them at Santo Domingo Pueblo, though some accounts place the trial at San Juan Pueblo. He passed sentence on February 12, 1599. He sentenced men over twenty-five to have one foot cut off and to be forced to work for the Spanish without pay for twenty years. Males from twelve to twenty-five, and females over twelve, got the same twenty years of forced work. He sentenced the old people to be handed over as slaves to the Plains Apache. Oñate's sentence for two Hopi men captured in the fighting was to have their right hands cut off. Then he had them released to carry word of the punishment to their own people.
 
-Oñate declared the Acoma children under twelve innocent. He still ordered them taken from their parents and handed to the friars. About seventy girls under twelve were sent south along the road to Mexico, to convents there. The records do not name the men who took them. A convent is a house where nuns live, women who have promised their lives to the Catholic church. The National Park Service's account states that in all probability none of the girls ever came home. The All Pueblo Council of Governors counts sixty children taken to Mexico, and it also states that none returned. According to PBS, some scholars believe the children were later sold as slaves.
+Oñate declared the Acoma children under twelve innocent. He still ordered them taken from their parents and handed to the friars. About seventy girls under twelve were sent south along the road to Mexico, to convents there. The records do not name the men who took them. A convent is a house where nuns live, women who have promised their lives to the Catholic church. The National Park Service's account states that almost certainly none of the girls ever came home. The All Pueblo Council of Governors counts sixty children taken to Mexico, and it also states that none returned. According to PBS, some scholars believe the children were later sold as slaves.
 
 Oñate's sentence is in the written record. Whether anyone carried out the cutting of feet is disputed. Acoma people have passed down their own account since 1599: Oñate had the right feet of 24 captive men cut off. The New York Times reported that account in 1998. Two historians who worked for years in these records doubt that the feet were cut off. Marc Simmons first wrote that they were, and he later came to doubt it. John Kessell notes that no record describes a one-footed Acoma man.
 
-Spanish officials charged Oñate with thirty crimes. Accounts date the charges to 1612 or 1613 and the verdict to 1614. The judges found him guilty of twelve, among them using more force against Acoma than the law allowed. They banished him from New Mexico for life, which means they ordered him never to return. They also barred him from Mexico City for four years and fined him 6,000 ducats, a Spanish gold coin. PBS gives the Mexico City term as five years. Oñate had rebuilt a fortune in his family's mines at Zacatecas, and the historian Rebecca Carlson calls the fine unimportant to him. He spent years working to have the verdict undone. The records do not settle whether he was ever formally pardoned.
+Spanish officials charged Oñate with thirty crimes. Accounts date the charges to 1612 or 1613 and the judges' decision to 1614. The judges found him guilty of twelve, among them using more force against Acoma than the law allowed. They banished him from New Mexico for life, which means they ordered him never to return. They also barred him from Mexico City for four years and fined him 6,000 ducats, a Spanish gold coin. PBS gives the Mexico City term as five years. Oñate had rebuilt a fortune in his family's mines at Zacatecas, and the historian Rebecca Carlson calls the fine unimportant to him. He spent years working to have that decision undone. The records do not settle whether he was ever pardoned, which means officially forgiven by the king.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -111,7 +111,7 @@ Spanish officials charged Oñate with thirty crimes. Accounts date the charges t
 <!-- hb-zoom level="era" -->
 Native nations still held nearly the whole continent through the 1600s. Along the eastern coast, the European settlements were a thin strip. Those settlers depended on Native food and Native trade, and they stayed only with Native permission. In New Mexico, Spanish colonists had ruled the Pueblo nations by force since 1598. Native leaders chose which newcomers to deal with: the Dutch, the French, the English or the Spanish. They played those newcomers against one another, which means they used each group's rivalry with the others to bargain.
 
-Native leaders made alliances with the newcomers and recorded them in the Native way, on wampum belts. In New England, English colonists fought two wars against coastal nations, the Pequot War of 1636 to 1638 and Metacom's war of 1675 and 1676. In the Southwest in 1680, the Pueblo nations rose together and drove the Spanish off their land. They kept the Spanish out for twelve years.
+Native leaders made alliances with the newcomers and recorded them in the Native way, on wampum belts. In New England, English colonists fought two wars against coastal nations, the Pequot War of 1636 to 1638 and Metacom's war of 1675 and 1676. In the Southwest in 1680, the people of the Pueblo nations rose together and drove the Spanish off their land. They kept the Spanish out for twelve years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Tsenacommacah" -->
@@ -125,13 +125,13 @@ Haudenosaunee diplomats, the people who spoke for their nations with other natio
 
 The Two Row Wampum, Guswenta, records the Haudenosaunee account of their first agreement with the Dutch. It has two purple rows of beads on a white background. The rows stand for two boats traveling the same river side by side, with neither one steering the other. Haudenosaunee tradition dates the agreement to 1613. A paper document with the same date also exists, and scholars argue about whether it is genuine.
 
-The Haudenosaunee alliance with the English colonies was called the Covenant Chain. A covenant is a solemn promise. The oldest surviving record of the Silver Covenant Chain dates from 1677. That year Haudenosaunee leaders and the New York governor, Edmund Andros, made the alliance official at Albany. Silver tarnishes, which means it turns dark over time, so a silver chain has to be polished to stay bright. Haudenosaunee and English leaders "polished" the Covenant Chain again and again. That meant they renewed the alliance at councils, with speeches and wampum.
+The Haudenosaunee alliance with the English colonies was called the Covenant Chain. A covenant is a serious promise. The oldest surviving record of the Silver Covenant Chain dates from 1677. That year Haudenosaunee leaders and the New York governor, Edmund Andros, made the alliance official at Albany. Silver tarnishes, which means it turns dark over time, so a silver chain has to be polished to stay bright. Haudenosaunee and English leaders "polished" the Covenant Chain again and again. That meant they renewed the alliance at councils, with speeches and wampum.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The coastal wars" -->
 In Connecticut, English colonists and their Mohegan and Narragansett allies fought the Pequot from 1636 to 1638. Before dawn on May 26, 1637, an English-led force set fire to the Pequot town at Mystic, which was protected by walls. In under an hour they killed hundreds of people, most of them elders, women and children.
 
-A treaty is a formal written agreement between nations. In the Treaty of Hartford of 1638, the English colonists and their Mohegan and Narragansett allies declared that the Pequot nation no longer existed. They made it illegal to use the name Pequot. Under the treaty, Pequot survivors were handed over to the victors or sold into slavery. The records do not say who sold them. The Mashantucket Pequot Tribal Nation is in Connecticut today.
+A treaty is a formal written agreement between nations. In the Treaty of Hartford of 1638, the English colonists and their Mohegan and Narragansett allies declared that the Pequot nation no longer existed. They made it illegal to use the name Pequot. Under the treaty, Pequot survivors were handed over to the winners or sold into slavery. The records do not say who sold them. The Mashantucket Pequot Tribal Nation is in Connecticut today.
 
 In 1675, nearly forty years after the Pequot War, Metacom led a coalition of nations against the New England colonies. A coalition is a group that agrees to act together. Metacom was the Wampanoag sachem, and a sachem is the leader of a nation. His coalition fought the colonists from 1675 to 1676. Colonial soldiers and their Native allies killed Native people, and the coalition's fighters killed colonists. About 9,000 people died in all, and estimates put Native deaths at roughly half of all the Native people in New England. For the size of the population, histories of the war often call it the bloodiest war in American history.
 
@@ -156,9 +156,9 @@ Metacom's wife and his nine-year-old son were sold into slavery. The records do 
 <!-- hb-zoom level="span" label="The Pueblo Revolt" -->
 The Pueblo nations along the Rio Grande had lived under Spanish rule since Juan de Oñate founded the New Mexico colony in 1598. In 1675 the Spanish governor, Juan Francisco Treviño, ordered 47 Pueblo religious leaders arrested. The Spanish called their religious practice sorcery, which means using magic to do harm. Spanish officials sentenced four of the leaders to be hanged. Three were hanged, and the fourth killed himself. Spanish officials whipped the others in public and put them in prison. Pueblo people went to Santa Fe and demanded that the prisoners be freed, and the Spanish let them go. One of the freed leaders was Po'pay.
 
-On August 10, 1680, the people of many separate towns rose against the Spanish on the same day. They spoke Tewa, Tiwa, Towa, Tano, Keres and other languages, and the Zuni and the Hopi also pledged their support. Pueblo fighters besieged Santa Fe, which means they surrounded the town and cut it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
+On August 10, 1680, the people of many separate towns rose against the Spanish on the same day. They spoke Tewa, Tiwa, Towa, Tano, Keres and other languages, and the Zuni and the Hopi also promised to help. Pueblo fighters besieged Santa Fe, which means they surrounded the town and cut it off. They took the town and drove the Spanish out of New Mexico. In the rising they killed 401 settlers and 21 Franciscan friars. The Pueblo fighters let most of the Spanish leave, and the Spanish went south.
 
-The Pueblos governed themselves for the next twelve years. In those years they lived through drought, raids and famine, which is a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Historians commonly call the Pueblo Revolt the most successful uprising by Native people against a European colonial power in North America.
+The Pueblos governed themselves for the next twelve years. In those years they lived through drought, raids and famine, which is a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Writers of the EBSCO Research Starters history guide call the Pueblo Revolt the most successful uprising by Native people against European rule in North America.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="pope" name="Po'pay (Popé)" movie="" kind="famous" status="verified" -->
@@ -193,7 +193,7 @@ Leaders in France and Britain both wanted control of North America in the first 
 
 In these years the Haudenosaunee accepted the Tuscarora as a member nation. South Carolina forces had defeated the Tuscarora, and colonists had taken their land in North Carolina. On the southern Plains, the Comanche built the strongest power in the region on horses and trade.
 
-The printed speeches of the Onondaga speaker Canasatego, from these years, are among the best-documented Native diplomacy of the century.
+The printed speeches of the Onondaga speaker Canasatego, from these years, are among the fullest written records of Native diplomacy from that century. Diplomacy means dealing with other nations through talks and agreements.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Neutrality as strategy" -->
@@ -211,7 +211,7 @@ About 1,500 Tuscarora survivors then moved north, roughly 500 miles. They asked 
 <!-- hb-zoom level="span" label="Comanche power" -->
 The Comanche moved onto the southern Plains in the early 1700s and became the most powerful nation there. Comanchería, the country they controlled, later covered about 240,000 square miles.
 
-The Comanche built their power on horses. They bred, trained and traded horses, and they controlled the horse trade from the southern Plains to the northern Plains. In the 1740s they traded bison robes and horses to French traders for guns. The French guns were better than the weapons the Comanche could get from the Spanish. Comanche power rested on horses, trade, raiding and diplomacy. A raid is a quick attack to seize goods, horses or people. Comanche leaders used all four to run their economy and their dealings with other nations, and they also fought wars.
+The Comanche built their power on horses. They bred, trained and traded horses, and they controlled the horse trade from the southern Plains to the northern Plains. In the 1740s they traded bison robes and horses to French traders for guns. The French guns were better than the weapons the Comanche could get from the Spanish. Comanche power rested on horses, trade, raiding and diplomacy. A raid is a quick attack to seize goods, horses or people. Comanche leaders used all four to run their trade and their dealings with other nations, and they also fought wars.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Treaty councils" -->
@@ -223,7 +223,7 @@ At Lancaster, Pennsylvania, in June and July of 1744, colonial officials paid th
 <!-- hb-story:start slug="canasatego" name="Canasatego" movie="" kind="famous" status="verified" -->
 ### Canasatego
 
-> **Who:** Onondaga leader and the Haudenosaunee's speaker at treaty councils. His printed speeches are among the best-documented Native diplomacy of the century.
+> **Who:** Onondaga leader and the Haudenosaunee's speaker at treaty councils. His printed speeches are among the fullest written records of Native diplomacy from that century.
 > **When and where:** Lancaster, Pennsylvania, June and July 1744. He gave the union speech on July 4, 1744.
 
 Canasatego spoke for the Haudenosaunee Confederacy at treaty councils with colonial officials.
@@ -280,11 +280,11 @@ In 1794 Anthony Wayne led a legion, an army unit of 3,300 men, against the confe
 <!-- hb-story:start slug="little-turtle" name="Little Turtle (Mishikinaakwa)" movie="" kind="famous" status="verified" -->
 ### Little Turtle (Mishikinaakwa)
 
-> **Who:** Miami war leader who co-led the confederacy that destroyed St. Clair's army in 1791, then judged the war unwinnable and argued for peace.
+> **Who:** Miami war leader who co-led the confederacy that destroyed St. Clair's army in 1791, then decided the war could not be won and argued for peace.
 > **When and where:** The Wabash and Maumee country, in present-day Indiana and Ohio, in the 1780s and 1790s.
 
 Little Turtle was one of the leaders of the confederacy that beat St. Clair on November 4, 1791.
 
-Three years later the same confederacy lost at Fallen Timbers. Little Turtle judged that the war could not be won. On August 3, 1795, he signed the Treaty of Greenville, in which the confederacy's leaders gave up most of Ohio to the United States. He spent his last years arguing against more war with the United States.
+Three years later the same confederacy lost at Fallen Timbers. Little Turtle decided that the war could not be won. On August 3, 1795, he signed the Treaty of Greenville, in which the confederacy's leaders gave up most of Ohio to the United States. He spent his last years arguing against more war with the United States.
 <!-- hb-story:end slug="little-turtle" -->
 <!-- hb-time:end id="1750-1800" -->
