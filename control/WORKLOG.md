@@ -4763,3 +4763,8 @@ VERIFY: python tools/project_state.py --check storytelling-evolution --stage pro
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+
+### 2026-10-02 | [LOCAL] T-472 | music: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-music.md
+VERIFY: python tools/project_state.py --check music --stage prose
