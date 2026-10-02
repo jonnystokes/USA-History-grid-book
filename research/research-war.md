@@ -214,6 +214,15 @@ are in the grave than a whole town would have had."
   pattern of volatile Precontact-era social relationships" and, in the abstract, name no enemy
   group. **Not found; the prose says the records in the bones do not show who the attackers were.**
 
+### PATCH 2026-10-02 (T-473): Cahokia's bastions, what they were for
+- Cahokia Mounds State Historic Site, "Explore", Stockade section (https://cahokiamounds.org/explore/ ,
+  opened 2026-10-02): the wall had "evenly spaced bastions, projections from which archers could
+  shoot arrows"; portions of the wall were "hurriedly built, cutting through residential areas, as
+  if danger was imminent."
+- Note on 1.5's "three or four rebuilds": four builds (the site) and "begun about 1100 and rebuilt
+  three times" (other summaries) describe the same four walls. The prose now says built about 1100
+  and rebuilt three times, four walls in all.
+
 ---
 
 ## 2. THE 1500s
@@ -428,6 +437,14 @@ chose not to write it. The husband got no justice."
   and throughout northern Florida for at least 1,000 years before the arrival of the French and
   Spanish in the 1500s." Both the French fort and Spanish St. Augustine stood on Timucua land.
 
+### PATCH 2026-10-02 (T-473): Mabila, the officer who cut off the man's arm
+- HistoryNet, "Fire and Sword at Mauvila" (https://historynet.com/fire-and-sword-at-mauvila/ ,
+  opened 2026-10-02): "Captain Baltasar de Gallegos, standing nearby, drew his sword, took a few
+  steps and, in one swift motion, cleaved the man's entire shoulder and arm from his body." The
+  article cites no chronicler for the line (its reading list names *The De Soto Chronicles*).
+  Search summaries attribute the slash to Gallegos in Rodrigo Rangel's account (unconfirmed:
+  search summary only). Prose names him as HistoryNet's identification, attributed.
+
 ### SEARCHED, NOT FOUND 2026-09-27 (T-259a): is the Tiguex War "the first war between Europeans and Native people inside what is now the United States"?
 Sources checked: NPS "The Tiguex War" (read in full 2026-09-27: the word "first" does not appear).
 New Mexico Office of the State Historian (2.3, no such claim). Castaneda (Winship 1896, no such
@@ -587,6 +604,31 @@ Check first that `native-nations` has not taken him.
   Powhatan land. **Land:** the plantations along the James River stood on the land of the Powhatan
   paramount chiefdom (Tsenacomoco), sourced in `research/research-native-nations.md`.
 - The 1646 treaty was made by his successor **Necotowance** (same entry).
+
+### PATCH 2026-10-02 (T-473): the 1623 poisoning, the two English counts
+- "The 1623 Poisoning of the Indians," Stafford County (Virginia) "Seeking Truth in History" column,
+  https://discoverstafford.org/wp-content/uploads/2024/07/Poisoning-1623.pdf (opened 2026-10-02),
+  quoting the primary documents:
+  - Robert Bennett of Isle of Wight County to his brother Edward Bennett, letter of 9 June 1623
+    (*William & Mary Quarterly*, vol. 13, no. 2, April 1933, pp. 121-122): "The 22 of Maye Captin
+    Tucker was sent with 12 men into Potomacke Ryver to feche some of our Englishe which the Indians
+    detained ... yt is thought some tooe hundred were poysoned and thaye coming back killed som 50
+    more."
+  - Governor Francis Wyatt and council, 1624, "The Answere of the Govern[ou]r and Councell in
+    Virginia to the false informac[i]ons concerning the poysoning of the Indians" (Ferrar Papers,
+    Document 556): "two hundred being said to be destroied by poyson at a feast when there was
+    neither feast made nor any man poyson'd ... and fiftie said to be shott to death, when there were
+    but nine." The same report says the shallop carried "a Commander and twelve shott" and mentions
+    "poison carried along, w[hi]ch in defect of all other meanes was to be used, whither it were or no
+    we know not".
+  - James D. Rice, *Nature and History in the Potomac Country*, pp. 89-90: "Captain Tucker provided
+    poisoned drinks to toast the accord then fired on the deathly ill Powhatan delegates."
+- So: the English leader was Captain William Tucker with about 12 men. The counts differ (Bennett:
+  about 200 poisoned and 50 killed; Wyatt's council: no one poisoned, nine shot). Bennett places it
+  on the Potomac; Wyatt's council and the state marker place it on the Pamunkey.
+- Wikipedia, "William Tucker (Jamestown immigrant)" (opened 2026-10-02) names Dr. John Potts as the
+  man who prepared the poisoned wine (unconfirmed on a scholarly page). No source opened names the
+  poison itself.
 
 ### PATCH 2026-09-27 (T-259a): the Pequot War, why it started and what was done to the captives
 Source for the causes and the fighting: Mashantucket Pequot Museum and Research Center, "Battlefields
@@ -890,6 +932,18 @@ https://americancenturies.org/lookitup/williams-eunice-kanenstenhawi/ unless mar
   and Wendat were "determined to keep their homelands safe from English expansion and maintain
   their traditional sovereignty" (opened 2026-09-27).
 
+### PATCH 2026-10-02 (T-473): the Tuscarora War, causes and the Tuscarora dead and enslaved
+- NCpedia, "The Tuscarora War," from *North Carolina Before 1770* (Jean B. Anderson, Elizabeth A.
+  Fenn, Peter H. Wood and others, 2003), https://www.ncpedia.org/waywelived/tuscarora-war (opened
+  2026-10-02): three grievances, "the practices of white traders, Indian enslavement, and, most
+  important, land encroachment." Settlers "would not allow them to hunt near their plantations, and
+  under that pretence took away from them their game, arms, and ammunition." In early September
+  1711 the Tuscarora captured Baron von Graffenried and John Lawson. Final battle at Fort Neoheroka,
+  20-23 March 1713. By the end, of the Tuscarora "1,000 had been captured and enslaved; 1,400 were
+  dead."
+- Search summary (accessgenealogy, unconfirmed): white slave traders kidnapped Native children in
+  particular to sell as slaves.
+
 ### PATCH 2026-09-27 (T-259a): the Yamasee War, named actors and the full count (CORRECTS the 4.5 NOT ADOPTED note)
 Source, read in full at the entry: South Carolina Encyclopedia, "Yamassee War,"
 https://www.scencyclopedia.org/sce/entries/yamassee-war/ (opened 2026-09-27 with curl).
@@ -931,6 +985,21 @@ provisional. A later agent may try William Ramsey, *The Yamasee War* (2008), or 
 Colonial Complex* (2004), for both questions.
 How the prose can say it: "Yamasee men held Nairne for several days and tortured him to death. The
 records used here do not say how. No one counted the Yamasee dead."
+
+### PATCH 2026-10-02 (T-473): where Louisbourg stood
+- Dictionary of Canadian Biography, "PEPPERRELL, Sir WILLIAM" (http://www.biographi.ca/en/bio.php?BioId=35702 ,
+  opened 2026-10-02): "commander of the colonial forces that took Louisbourg, Île Royale (Cape
+  Breton Island), in 1745." Same page confirms "Estimates of the number of deaths range from 1,200
+  to 2,000."
+
+### PATCH 2026-10-02 (T-473): how Thomas Nairne was tortured (closes half of the SEARCHED, NOT FOUND above)
+- South Carolina Public Radio, "South Carolina from A to Z: 'N' is for Nairne, Thomas (d. 1715)"
+  (Walter Edgar's series drawn from the South Carolina Encyclopedia), 24 Sept 2020,
+  https://www.southcarolinapublicradio.org/show/south-carolina-from-a-to-z/2020-09-24/n-is-for-nairne-thomas-d-1715
+  (opened 2026-10-02): "Thomas Nairne was tortured to death by having lighted splinters stuck into
+  his skin over a period of several days." (The same entry wrongly dates the outbreak 1712; the war
+  began April 1715.) Wikipedia "Thomas Nairne" gives the same method (search summary).
+- The Yamasee and other Native dead are still uncounted in every source opened.
 
 ### PATCH 2026-09-27 (T-259a): the names of the three killed in the Williams house
 - PVMA, Raid on Deerfield site, "John Williams," https://deerfieldraid1704.org/popups/people/JohnWilliams.html
@@ -1298,6 +1367,24 @@ confirmed on any opened page.
 How the prose can say it: "British naval officers under Admiral Richard Howe ran the ships.
 Washington wrote to Howe in January 1777 to protest. Prisoners kept dying on the ships until the war ended in 1783."
 
+### PATCH 2026-10-02 (T-473): era 5 gaps closed (1763 treaty, Monongahela, Burgoyne, St. Clair)
+- **Treaty of Paris, 1763:** US State Department, Office of the Historian, "Treaty of Paris, 1763,"
+  https://history.state.gov/milestones/1750-1775/treaty-of-paris (opened 2026-10-02): preliminary
+  terms signed 3 November 1762, ratified by 10 February 1763; "Britain would gain all French
+  territory east of the Mississippi", confirming "the conquest of Canada".
+- **Monongahela, who attacked:** American Battlefield Trust, "The Battle of the Monongahela,"
+  https://www.battlefields.org/learn/articles/battle-monongahela-july-9-1755 (opened 2026-10-02):
+  "900 Canadian marines, militia, and French-allied Native Americans (Ottawa, Shawnee, Delaware, and
+  Mingos) under Captain Daniel Beaujeu"; "the Native warriors took cover within the woods on both
+  sides of the road". Braddock was "severely wounded" (the page does not say shot).
+- **Saratoga, the general:** research-holidays.md era 5: "British General John Burgoyne's army
+  surrendered at Saratoga, New York, on 17 October 1777" (NPS Saratoga National Historical Park).
+- **St. Clair's name and why his army shrank:** U.S. Army, "St. Clair's Campaign of 1791" (5.7 URL,
+  opened 2026-10-02): "Major General Arthur St. Clair". Six-month volunteers' enlistments expired
+  and they "received their discharges and returned to Fort Washington"; "sixty disgruntled militia
+  Soldiers ... deserted"; St. Clair sent "the 1st Infantry Regiment, three hundred combat
+  experienced regulars, to protect the convoy of rations".
+
 ### PATCH 2026-09-30 (T-321): Gnadenhutten, second source for the counts and the method
 Eric Sterner, "Moravians in the Middle: The Gnadenhutten Massacre," *Journal of the American
 Revolution*, February 2018, https://allthingsliberty.com/2018/02/moravians-middle-gnadenhutten-massacre/
@@ -1454,6 +1541,14 @@ Revolution*, February 2018, https://allthingsliberty.com/2018/02/moravians-middl
 - **Movie:** *One Man's Hero* (1999), dir. Lance Hool, Tom Berenger as Riley. A feature film about
   him (https://en.wikipedia.org/wiki/One_Man's_Hero). A dramatization, not a documentary.
 - Slug `john-riley-san-patricios` (checked unique).
+
+### PATCH 2026-10-02 (T-473): Fort McHenry, Baltimore and Key
+- NPS Teaching with Historic Places, "'The Rockets' Red Glare'" (6.1 URL, opened 2026-10-02):
+  "Fort McHenry stood between the British navy and the city of Baltimore." Key had gone to the
+  British fleet to get a prisoner released; the British "would not let the Americans return to
+  Baltimore until after the coming battle." "When the fort refused to be subdued, the ships sailed
+  away, to the cheers of the defenders." Armistead had asked for a "flag so large that the British
+  will have no difficulty in seeing it from a distance."
 
 ### PATCH 2026-09-27 (T-259b): why the War of 1812 was fought
 - On 1 June 1812 President James Madison sent Congress his war message. It listed three
@@ -2028,6 +2123,46 @@ children and elders). War's slice:
 - **Dakota War, 1862:** the military commission trials and the hanging of 38 Dakota men at Mankato
   on 26 December 1862 are told in `native-nations` (outline line 176). War adds nothing new.
 
+### PATCH 2026-10-02 (T-473): era 7 gaps (Fort Sumter's place, the draft-riot killings, the Marias order, the Nez Perce)
+- **Fort Sumter:** ABT, "Fort Sumter" (7.1 URL, opened 2026-10-02): "Charleston Harbor, SC | Apr 12
+  - 14, 1861"; "At 2:30 p.m., Maj. Anderson and his men strike their colors".
+- **New York draft riots, the killings:** Village Preservation (Greenwich Village Society for
+  Historic Preservation), "On This Day: New York City Draft Riots," 13 July 2011,
+  https://www.villagepreservation.org/2011/07/13/on-this-day-new-york-city-draft-riots/ (opened
+  2026-10-02): "In five days of rioting, mobs lynched at least a dozen African American men,
+  destroyed draft offices, burned and looted black neighborhoods". On Clarkson Street, William
+  Jones "was confronted by a gang led by Irish bricklayer John Nicholson. Jones was beaten and
+  hanged from a nearby tree, and his dangling body was set on fire." (Other accounts, search
+  summary: a lamppost. The prose says "hanged" without the object.) This confirms the T-259b
+  "unconfirmed" William Jones line.
+- **Marias, who gave the order:** Joseph A. Mussulman, "The Marias Massacre," Discover Lewis &
+  Clark (Lewis and Clark Fort Mandan Foundation),
+  https://lewis-clark.org/native-nations/algonquian-peoples/blackfeet/the-marias-massacre/ (opened
+  2026-10-02): General Philip Sheridan: "If the lives and property of citizens of Montana can best
+  be protected by striking Mountain Chief's band, I want them struck. Tell Baker to strike them
+  hard." Heavy Runner was the first killed, shot as he came out of his lodge waving his
+  safe-conduct paper. HISTORY's page (bank 7, T-259b) gives Baker's words to Kipp: "That makes no
+  difference, one band or another of them; they are all Piegans and we will attack them."
+- **Nez Perce, why they fled:** NPS, Nez Perce National Historical Park, "Fort Lapwai History,"
+  https://www.nps.gov/nepe/learn/historyculture/fort-lapwai.htm (opened 2026-10-02): "General O.O.
+  Howard, commanding officer of the Department of the Columbia ordered Joseph's band to move from
+  their homeland in the Wallowa's of northeast Oregon to the reservation." "When the conflict began
+  in June 1877, Fort Lapwai was the center of operations."
+
+### PATCH 2026-10-02 (T-473): 1898 and 1899, Manila Bay, Aguinaldo's name and capture, the Civil War comparison
+- US State Department, Office of the Historian, "The Spanish-American War, 1898,"
+  https://history.state.gov/milestones/1866-1898/spanish-american-war (opened 2026-10-02): "The
+  first battle was fought on May 1, in Manila Bay, where Commodore George Dewey's Asiatic Squadron
+  defeated the Spanish naval force defending the Philippines." US troops landed at Guantanamo Bay
+  on 10 June and near Santiago on 22 and 24 June.
+- Same office, "The Philippine-American War, 1899-1902" (7.10 URL, opened 2026-10-02): "Filipino
+  nationalists led by Emilio Aguinaldo"; "On February 4, 1899, just two days before the U.S. Senate
+  ratified the treaty, fighting broke out between American forces and Filipino nationalists"; the
+  war "lasted through the capture of Aguinaldo in 1901."
+- Comparison for the Civil War superlative: CRS RL32492 Table 1 (era 8 section of this bank) gives
+  World War II, the next deadliest US war, 405,399 deaths, fewer than the Civil War's 620,000 to
+  750,000.
+
 ### PATCH 2026-09-27 (T-259b): 1898, disease in the camps, and who fired first in the Philippines
 - **Typhoid, 1898.** In the army's camps in the United States there were **20,738 cases of
   typhoid and 1,590 deaths**. "Typhoid fever accounted for 87% of all deaths attributable to
@@ -2444,6 +2579,22 @@ Source: US Department of Veterans Affairs, National Cemetery Administration, "Ho
   their race and were not given fair trials"). The Secretary of the Army set aside all the
   convictions and changed the records to honorable discharges. VA gave the executed men new
   headstones.
+
+### PATCH 2026-10-02 (T-473): era 8 gaps (Houston charges, Meuse-Argonne, D-Day)
+- **Houston 1917, the charges:** VA NCA "Houston Riot of 1917" (URL above, opened 2026-10-02):
+  "The Army charged 118 men with disobedience of lawful orders, mutiny, assault with intent to
+  commit murder, and murder; only eight were found to be innocent." The deaths: "approximately 20
+  people dead, including civilians, policemen, National Guardsmen, and soldiers of the 24th
+  Infantry, who were accidentally shot by their comrades."
+- **Meuse-Argonne, "deadliest":** Air Force Times, "100 years ago, US fought its deadliest battle in
+  France," 24 Sept 2018,
+  https://www.airforcetimes.com/news/your-air-force/2018/09/24/100-years-ago-us-fought-its-deadliest-battle-in-france/
+  (opened 2026-10-02): "It was America's deadliest battle ever, with 26,000 U.S. soldiers killed".
+  The ABMC figure 26,277 is still search-summary only (abmc.gov pages return 403): NOT used in prose.
+- **D-Day, where and who:** National D-Day Memorial Foundation, Necrology Project (URL in 8.5,
+  opened 2026-10-02): "the invasion of Normandy on June 6, 1944"; "4,436 names on the Memorial Wall
+  at the National D-Day Memorial: 2,519 Americans and 1,917 Allies"; its database lists dead from
+  the United States, the United Kingdom, Canada and Norway.
 
 ### PATCH 2026-09-27 (T-259b): Port Chicago, 17 July 1944, and the mutiny trial
 - At the Port Chicago Naval Magazine in California, two ships being loaded with ammunition blew up
@@ -3049,6 +3200,16 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
 - An ordinary (not famous) post-9/11 veteran with an on-the-record account: not found to verification
   in this pass. Both era-10 stories are famous people.
 - The Iran war of 2026 and the Venezuela operation: only dates and one sourced count are used.
+
+### PATCH 2026-10-02 (T-473): how Pat Tillman was killed, from the 2007 hearing
+- House Committee on Oversight and Government Reform, "Misleading Information from the
+  Battlefield," 24 April 2007 (10.4 URL, opened 2026-10-02). Kevin Tillman: "Pat's death was
+  clearly the result of fratricide. It was due to a series of careless actions by several
+  individuals in our platoon after a small harassing ambush." "The driver of the vehicle himself
+  recognized friendlies immediately but kept driving for approximately 400 meters while the
+  soldiers in the back of his truck continued to shoot at the hillside where the U.S. soldiers were
+  and civilians." Chairman Henry Waxman: "the military told the world that Corporal Tillman had
+  been killed by the enemy when, in fact, they knew he had died from friendly fire."
 
 ### PATCH 2026-09-27 (T-259b): the other side's dead in the post-9/11 wars (re-checked 27 September 2026)
 - **Costs of War, Brown University (read directly 2026-09-27,

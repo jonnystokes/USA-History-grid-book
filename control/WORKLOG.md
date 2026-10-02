@@ -4793,9 +4793,11 @@ government-politics, crime-justice (3 with a calibration part), religion (2), ed
 DECISIONS #32 amended (unsourced "historians call it rape"; round 2 priority).
 
 ### 2026-10-02 | [LOCAL] T-473 | war: FIXER opus, whole chapter [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-war.md
 VERIFY: python tools/project_state.py --check war --stage prose
+RESULT: DONE. PASS  war / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=19 (verified 19) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=24420w files=3 validator_errors=0
+        554761 tokens, 229 tool uses, 27.0 min (opus). FIXER whole chapter [WAVE7G]: 305 FIXED, 10 REJECTED, 3 NEEDS-RESEARCH (+1 partial), 29 found by fixer; rape (#31), fourth-wall lines answered from the record, Truman quote, Wounded Knee; 23,770 -> 25,851 words
 
 ### 2026-10-02 | [LOCAL] T-474 | native-nations: FIXER opus, whole chapter [WAVE7G] | model opus
 STATUS: DONE
