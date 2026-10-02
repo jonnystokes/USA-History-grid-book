@@ -4861,3 +4861,8 @@ PAUSED after T-480 (Jon). Step 5: 35 of 37 chapters fixed; education parts 1-2 l
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+
+### 2026-10-02 | [LOCAL] T-482 | education: FIXER opus, part2 [PAR2] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-education.md
+VERIFY: python tools/project_state.py --check education --stage prose
