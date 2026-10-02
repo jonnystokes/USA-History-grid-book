@@ -4672,3 +4672,9 @@ RESULT: DONE. PASS  elements / prose. measured: stage=WRITTEN ms_eras=10/10 writ
         378665 tokens, 225 tool uses, 16.7 min (opus). FIXER whole chapter [WAVE8]: 148 FIXED, 14 REJECTED, 0 NEEDS-RESEARCH, 11 found by fixer; Radium 1928 settlement corrected; 15,746 -> 17,431 words
 WAVE8 (T-451..T-458, 8 opus whole-chapter fixers, the remaining small chapters) at fresh window (Jon: ~half the window). WAVE6 measured ~5.2% per small-chapter fixer.
 AGENTS WAVE8: T-451 aa082d4eb8b347a09, T-452 a1ee56d0c7a91387d, T-453 ae838cb6a97a02759, T-454 aee08a882aa9fe0da, T-455 ad11ae4b575db7168, T-456 ad18b0ef0ce7f3851, T-457 a6b68502bf45d291f, T-458 abc4dff4d3004d4f5
+
+### 2026-10-01 | [LOCAL] WAVE8 done: 8 opus whole-chapter fixers (T-451..T-458), all PASS. Tokens 364k-565k
+(total 3.33M; city-building, the worst chapter, 565k). Step 5: 16 chapters fixed whole + rights-movements part3.
+Left: 8 medium (america-world, big-business, immigration, exploration, styles, holidays, drugs-alcohol,
+slavery-freedom), 11 large (incl. 3 with a calibration part already fixed), giants religion and education,
+rights-movements parts 1-2.
