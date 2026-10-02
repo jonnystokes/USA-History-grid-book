@@ -31,6 +31,16 @@ Not researched in T-268a: the seed placed the claim in Before 1500, but the case
 - Alive and touring in 2026: 2026 concert listings (Mid-Atlantic Flute Convention, February 2026; Dakota, Minneapolis, March 8, 2026) and a Record Store Day 2026 vinyl reissue of *Canyon Trilogy* (search results, 2026-09-28) (unconfirmed: search summary only). PERISHABLE.
 - Not told elsewhere in `outlines/` or `manuscript/` (grep 2026-09-28).
 
+### PATCH 2026-10-02 (T-472): era 01 gaps found by the step 5 checker
+- What songs were for: J. Bryan Burton, "Native American Music," *Encyclopedia of the Great Plains* (https://plainshumanities.unl.edu/encyclopedia/doc/egp.mus.034.html, opened 2026-10-02): "Music serves numerous functions in traditional Indian culture, including religious ceremonies, healing ceremonies, work songs, game songs, courtship, storytelling, songs to bring success in hunting, agriculture, and war, and social songs and dances." The article describes traditional practice in general, not a dated pre-1500 record.
+- Hopewell earthworks: copied from `research/research-landmarks.md` (PATCH T-249): "The American Indian people we now call the Hopewell culture" designed and built earthen mounds and earthworks in southern Ohio about 2,000 years ago (NPS, https://www.nps.gov/articles/000/hce-world-heritage-inscription-2023.htm). "Hopewell" is an archaeologists' name, not the name of a nation.
+- Onondaga location: copied from `research/research-news-communication.md` and `research/research-rights-movements.md`: Onondaga Nation, "History" (https://www.onondaganation.org/history/): "on the shores of Onondaga Lake, in present day central New York." Onondaga Nation territory is just south of Syracuse, New York (`research-holidays.md`, Onondaga Nation "Facts").
+- Tlingit location: copied from `research/research-america-world.md` (Alaska Historical Society, "The Legacy of Sitka's First Ten Years Under the American Flag, 1867-1877"): the Tlingit of "southeastern Alaska"; "Tlingit control of southeastern Alaska ended with the transfer in 1867."
+- Diné: copied from `research/research-native-nations.md`: "the Navajo (Diné)"; the Navajo Nation's college is named Diné College.
+- Canyon Records: "Canyon is an independent record label based in Phoenix that for nearly 70 years has specialized in recording and producing music by Native Americans" (ICT News, "Canyon Records label is more than 'empty words'," Jan. 26, 2020, https://ictnews.org/lifestyle/canyon-records-label-is-more-than-empty-words/, opened 2026-10-02).
+- Platinum: RIAA, "About the Awards" (https://www.riaa.com/gold-platinum/about-awards/, opened 2026-10-02): Gold album "500,000 units," Platinum album "1,000,000 units." So *Canyon Trilogy*'s 2014 Platinum award means one million units.
+- Bank note (not fixed in the source): the Turff and Carr jacket counts above add to 104 (81+11+10+1+1), against "102 jackets with known metal." The prose gives only the 102 and the 81.
+
 ## Era 02: The 1500s (T-268a, 2026-09-28)
 
 ### Fort Caroline, 1564 (Timucua land)
@@ -52,6 +62,12 @@ Not researched in T-268a: the seed placed the claim in Before 1500, but the case
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268a): the earliest documented mission choir in the 1500s, and a 1500s order banning Native ceremonies or songs
 Sources checked: Koegel (names no 1500s choir; his named teachers, Quiñones and Marta, fall after 1598); Museum of Florida History and Wikipedia "Missions in Spanish Florida" search summaries (Franciscans to the Guale and Timucua from 1587; no music detail); `holidays` bank line 83 ("no source found for suppression of a named ceremony in the 1500s"). The documented bans on Pueblo ceremonies are in the 1600s (era 03).
 How the prose can say it: "No record from the 1500s names a mission choir or a Native singer trained in church music. The first ones on record come after 1600."
+
+### PATCH 2026-10-02 (T-472): era 02 gaps found by the step 5 checker
+- Fort Caroline: "René de Goulaine de Laudonnière led a second attempt and in 1564 established Fort Caroline near the mouth of the St. Johns River in Florida" (NPS, "Florida: Fort Caroline National Memorial," https://www.nps.gov/articles/ftcaroline.htm, opened 2026-10-02). "The French Huguenot colony at Fort Caroline (near present-day Jacksonville)" (same page, as held in `research/research-war.md`). Huguenots = French Protestants (`research/research-religion.md`).
+- Matanzas, surrender: copied from `research/research-religion.md` and `research/research-holidays.md` (NPS Fort Matanzas, "The Massacre of the French"): about 127 shipwrecked French Huguenots surrendered; 111 were killed; about two weeks later Jean Ribault and his men surrendered and 134 were killed (12 October 1565). So the men killed were prisoners who had surrendered.
+- *The World Encompassed*: full title "The World Encompassed by Sir Francis Drake ... Carefully Collected out of the Notes of Master Francis Fletcher, Preacher in This Imployment" (Wikipedia, "The World Encompassed by Sir Francis Drake," opened 2026-10-02; the archive.org 1652 copy, https://archive.org/details/worldencompass00drakrich, adds "and compared with divers others notes that went in the same voyage"). Wikipedia: compiled by Drake's nephew, also named Francis Drake, from his uncle's journal, Fletcher's notes and other sources; first published in London in 1628 by Nicholas Bourne.
+- Correction to the "How the prose can say it" line above: Koegel's named teachers fall after 1598 (Marta came about 1605, Quiñones died 1609, his arrival year is not banked). The prose says "after 1598".
 
 ## Era 03: The 1600s (T-268a, 2026-09-28)
 
@@ -85,6 +101,11 @@ How the prose can say it: "No record from the 1500s names a mission choir or a N
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268a): a documented description of the music of enslaved Africans in the mainland English colonies before 1700
 Sources checked: OUP banjo blog (earliest mainland reference 1736); Encyclopedia.com "1600-1754: Music" summary (fiddles "as early as the 1690s," no document named); Colonial Williamsburg Foundation journal "Music Helps Interpret Slavery" (blocked by a site challenge, not read); Wikipedia "First Africans in Virginia" (summary, no music).
 How the prose can say it: "Enslaved Africans in the English colonies made music in the 1600s, but no one who wrote in those years left a description of it that survives."
+
+### PATCH 2026-10-02 (T-472): era 03, Treviño's prisoners and the Pueblo Revolt (copied from `research/research-native-nations.md` and `research/research-holidays.md`, sources there)
+- Zotigh (NMAI, 2 Sept 2026), fuller quote: "The remaining spiritual leaders were humiliated and publicly whipped before being sent to prison." Pueblo people went to Santa Fe to demand the prisoners' release, and the Spanish released them. "Among those released was a leader from Ohkay Owingeh ... His name was Po'pay."
+- Po'pay was one of the 47 convicted of sorcery in 1675 and whipped in public (Architect of the Capitol, "Po'pay Statue"; Indian Pueblo Cultural Center, via the holidays bank).
+- On August 10, 1680, the Pueblo nations, coordinated by Po'pay, rose together, besieged and took Santa Fe, and drove the Spanish out of New Mexico; 401 settlers and 21 Franciscan friars were killed; most Spaniards were allowed to flee south; the Pueblos governed themselves for 12 years; Diego de Vargas began the reconquest in 1692 (Britannica "Pueblo Rebellion"; Indian Pueblo Cultural Center; via the native-nations bank).
 
 ## Era 04: 1700 to 1750 (T-268a, 2026-09-28)
 
@@ -134,6 +155,13 @@ How the prose can say it: "Singing schools began in New England in the 1720s. Th
 
 ### PATCH 2026-09-30 (T-323): exact wording of the drum clause confirmed
 - Full text of the Act, "An Act for the better Ordering and Governing Negroes and other Slaves in this Province," PDF at https://www.scpronet.com/modjeskaschool/wp-content/uploads/2016/03/9-an-act-for-better-ordering-slavecodes1740.pdf (read with pypdf, 21 pages): section XXXVI reads "And for that as it is absolutely necessary to the safety of this Province, that all due care be taken to restrain the wanderings and meetings of Negroes and other slaves, at all times, and more especially on Saturday nights, Sundays, and other holidays, and their using and carrying wooden swords, and other mischievous and dangerous weapons, or using or keeping of drums, horns, or other loud instruments, which may call together or give sign or notice to one another of their wicked designs and purposes ..." It goes on: "it shall be lawful for all masters, overseers and other persons whosoever, to apprehend and take up any Negro or other slave that shall be found out of the plantation ... not being on lawful business, and with a letter from their master, or a ticket, or not having a white person with them." This confirms the wording tagged "search summary only" above.
+
+### PATCH 2026-10-02 (T-472): era 04 gaps found by the step 5 checker
+- Harry's notice, place and clothes: University of Virginia, *The Geography of Slavery in Virginia*, record v1746030063 (https://www2.vcdh.virginia.edu/gos/search/relatedAd.php?adFile=rg46.xml&adId=v1746030063, opened 2026-10-02): *Virginia Gazette* (Parks), Williamsburg, March 20-27, 1746; Harry ran from William Newgent "near James-Town"; he wore "a dark-colour'd cloth Coat, double breasted, 2 cotton Jackets, dy'd of a dark Colour, a Pair of Buckskin Breeches, flourish'd at the Knees, and a blue Great Coat"; reward "a Pistole Reward, besides what the Law allows."
+- Stono, copied from `research/research-slavery-freedom.md` (sources there: LOC Today in History Sept. 9; Britannica; BlackPast; Wikipedia "Stono Rebellion" citing the 1739 Account and Peter Wood, *Black Majority*): about 20 enslaved men led by Jemmy seized weapons at the Stono River south of Charleston and marched south toward Spanish Florida; Lieutenant Governor William Bull raised "the militia of planters" that attacked them the same day; colonists cut off the heads of rebels and set them on stakes along the main roads as a warning; most captured rebels were put to death, and survivors were sold to the West Indies.
+- Samuel Sewall was a judge: "Judge Samuel Sewall" (`research/research-art.md`, Encyclopedia.com on John Smibert's sitters).
+- J. Franklin: James Franklin ran a press and newspaper in Boston in 1721 (*New-England Courant*, founded August 1721; `research/research-health.md`, Wikipedia and MHS). The Walter title page reads "Printed by J. Franklin," Boston, 1721 (Jones 1932, above).
+- Lining out in New England: Wikipedia, "Lining out" (era 03 above): turned against in England and New England "in the first quarter of the 18th century" in favor of "regular singing."
 
 ## Era 05: 1750 to 1800 (T-268a, 2026-09-28)
 
@@ -198,6 +226,13 @@ How the prose can say it: "Singing schools began in New England in the 1720s. Th
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268a): Black musicians at militia musters in Newport, Philadelphia and Charleston, 1750-1800, by name
 Sources checked: Geography of Slavery database (Virginia notices only); Butler, CCPL (Charleston crowd with a banjo, unnamed); Lowe and Millar (Newport Gardner, teaching, not musters); search summaries on Black fifers and drummers in the Revolution (none opened). The outline tells the port towns through Charleston 1766 and Newport Gardner and drops "militia musters."
 How the prose can say it: omit the musters. The records read name musicians in newspaper notices and in Newport Gardner's life.
+
+### PATCH 2026-10-02 (T-472): era 05 gaps found by the step 5 checker
+- Stowe, The Conversation, 15 May 2026 (re-opened 2026-10-02): Revere "is credited with engraving the frontispiece to Billings' first tune book"; *The Singing Master's Assistant* "arguably his most important" tune book; "Before the Revolution, he succeeded in having a bill to protect his first tune book passed by the Massachusetts legislature. The Tory governor refused to sign it, however, perhaps due to Billings' associations with patriots like Samuel Adams." (A Tory was a colonist loyal to the British king.) The page does not call *The Singing Master's Assistant* his second book, so the prose does not.
+- Massachusetts Historical Society, "The Liberty Song" (re-opened 2026-10-02): Dickinson, "author of the 'Pennsylvania Farmer' letters"; "his Massachusetts friend James Otis"; the tune is "the anthem of the British Royal Navy, 'Heart of Oak,' composed in 1759 by Dr. William Boyce."
+- St. Jago: York University Libraries, "18th C Indian Ocean Voyages: Santiago (St Jago)" (https://scalar.library.yorku.ca/18th-c-indian-ocean-voyages/santiago, opened 2026-10-02): Santiago (St Jago), "Ilha Santiago, Cabo Verde," i.e. the island of Santiago in the Cape Verde Islands.
+- Black election days, copied from `research/research-holidays.md` (New England Historical Society, "Black Kings and Governors of New England"): royal colonies (New Hampshire, Massachusetts) elected kings, charter colonies (Rhode Island, Connecticut) governors; "Rum and gingerbread and thick, fruit-studded election cakes"; about 1750 to 1850; enslavers granted the days and paid for the election feast.
+- Yakutat scholars: Sealaska Heritage Institute, "Trio of scholars to reveal analysis, play synthesis of Tlingit singing from encounter with Spaniards in 18th century," Sept. 23, 2022 (https://sealaskaheritage.org/trio-of-scholars-to-reveal-analysis-play-synthesis-of-tlingit-singing-from-encounter-with-spaniards-in-18th-century-2/, opened 2026-10-02): Maria Shaa Tláa Williams, "a Tlingit ethnomusicologist at UAA and trustee of SHI"; Judy Daxootsu Ramos, "a Tlingit from Yakutat, Alaska"; Williams "analyzed the musical notation and determined what kind of songs" the Tlingit sang and "programmed a musical synthesizer to see how the music sounded." Steve Langdon obtained the images from the Museo de América and sent them to Williams.
 
 ## Era 06: 1800 to 1850 (T-268b, 2026-09-28)
 
@@ -273,6 +308,11 @@ How the prose can say it: "White minstrels said they copied Black singers and da
 - Wikipedia, "Congo Square" (opened 2026-09-28): the Code Noir (1724) gave enslaved people Sundays off. "It was not until 1817 that the mayor of New Orleans issued a city ordinance that restricted any kind of gathering of enslaved Africans to the one location of Congo Square," at the "back of town" across Rampart Street, where they held a market, sang, danced and played music. In 1819 the architect Benjamin Latrobe wrote in his journal of 500 to 600 enslaved people assembled for dancing, and called it "savage." In 1893 city leaders renamed it Beauregard Square, after the Confederate general. The name Congo Square was restored by city ordinance in 2011.
 - Adam Majewski and Kate Mason, "Congo Square: Mythology and Music," New Orleans Historical (Midlo Center for New Orleans Studies, 2013; https://neworleanshistorical.org/items/show/745, opened): "By 1817 New Orleans city laws had restricted gatherings of enslaved people to Sunday afternoons in Congo Square, then called Place Publique." "Sunday afternoon music and dance was shut down in 1835, resumed, and then shut down again in 1851." Who shut it down: city authorities; the page read names no officer (state that).
 - Latrobe's drawings of the instruments (a drum the drummer sat on, a gourd string instrument) (unconfirmed: search summary only, from Tulane "Music Rising," 403).
+
+### PATCH 2026-10-02 (T-472): era 06 gaps found by the step 5 checker
+- Pilgrim, "Who Was Jim Crow?" (re-opened 2026-10-02): "White audiences were receptive to the portrayals of black people as singing, dancing, grinning fools." The page does not call the characters "happy to be enslaved" or "greedy"; the prose no longer does.
+- "My Old Kentucky Home" is Kentucky's state song, adopted 1928 (Wikipedia, "List of Kentucky state symbols," opened 2026-10-02).
+- Jim Crow as a working system: copied from `research/research-slavery-freedom.md`: segregation ordered daily life (schools, railroad cars, waiting rooms, water fountains, courtrooms, cemeteries) under *Plessy* (1896).
 
 ### Francis Johnson (story, era 06)
 - Richard Grant, "Long Before Jazz, Frank Johnson Was Playing the Hottest Music in America," *Smithsonian* magazine, April/May 2023 (https://www.smithsonianmag.com/arts-culture/long-before-jazz-frank-johnson-was-playing-hottest-music-america-180981838/, opened 2026-09-28):
@@ -360,6 +400,12 @@ How the prose can say it: "White minstrels said they copied Black singers and da
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268b): a written description of blues music, by name, dated before 1900
 Sources checked: Wikipedia "Origins of the blues" (dates the music "between 1870 and 1900," gives no pre-1900 eyewitness; earliest accounts it names are Handy about 1903 and Rainey); search results pointing to Charles Peabody (1903) and Handy (1903), both after 1900.
 How the prose can say it: "No one wrote down a description of the blues before 1900. The music took shape among Black farm workers in the South in the years after slavery ended, and the first written accounts come from just after 1900."
+
+### PATCH 2026-10-02 (T-472): era 07 gaps found by the step 5 checker
+- *Treemonisha*'s story: State Historical Society of Missouri, "Scott Joplin" (re-opened 2026-10-02): "Set after the Civil War on a Texas plantation, the opera tells the story of a young, educated black woman who helps free her people from ignorance and superstition." The page gives no audience size for the 1915 run-through.
+- Cholera: copied from `research/research-health.md` (St. Louis County Library, *PastPorts*, 2017): "a bacterial infection in the small intestine, caused by exposure to contaminated food or water"; the body loses so much water and salt that the person can die.
+- Ghost Dance: copied from `research/research-religion.md` §7d: Wovoka, a Northern Paiute man, had a vision on January 1, 1889; he told his followers to dance the circle dance; accounts of what he taught differ.
+- John Brown: copied from `research/research-war.md`: Robert E. Lee in 1859 "put down John Brown's raid at Harpers Ferry."
 
 ### Ragtime: definition and first printed rag (added after the outline draft)
 - Wikipedia, "Ragtime" (opened 2026-09-28): "a musical style noted for its syncopated or 'ragged' rhythm. It originated in African American communities in the late 19th century." "a steady bass accompaniment in the left hand supporting a syncopated melody in the right." "The earliest published ragtime composition appeared in 1895": Ben Harney's "You've Been a Good Old Wagon But You Done Broke Down," copyright January 1895, Louisville. Ernest Hogan's "La Pas Ma La" (September 1895) "is often mistakenly cited as the earliest published ragtime work by a Black composer." The musicologist Frederick Starr: claims that Congo Square was the source of ragtime have "not a shred of evidence."
@@ -499,6 +545,17 @@ How the prose can say it: "No record shows that Riddle was paid or named as a wr
 - *Billie* (2019): documentary by James Erskine built on Linda Lipnack Kuehl's 1970s interview tapes (Wikipedia; NPR).
 - *Marian Anderson: The Lincoln Memorial Concert* (1939): short film of the concert (Wikipedia article of that name; IMDb tt0303272).
 
+### PATCH 2026-10-02 (T-472): era 08 gaps found by the step 5 checker
+- Bessie Smith's recordings: Cary O'Dell, LOC National Recording Registry essay "Down Hearted Blues" (https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Down-HeartedBlues.pdf, opened 2026-10-02, read with pypdf): "Between those dates she recorded 150 songs" and, later in the same essay, "she recorded close to 200 songs." The essay gives both numbers.
+- Jazz's origin: Wikipedia, "Jazz" (opened 2026-10-02): "Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries."
+- ODJB from New Orleans: Wikipedia, "Original Dixieland Jass Band" (opened 2026-10-02): the five "had played in the Papa Jack Laine bands" (New Orleans); LaRocca and Sbarbaro were children of Sicilian immigrants in New Orleans.
+- Perry Bradford: Wikipedia, "Perry Bradford" (opened 2026-10-02): "American composer, songwriter, and vaudeville performer"; "Bradford was also responsible for Smith being the first African-American blues singer to appear on record (singing his 'Crazy Blues') in 1920." Neither page states Bradford's race or the recording city, so the prose gives neither.
+- Maybelle Carter's style: Wikipedia, "Maybelle Carter" (re-opened 2026-10-02): "playing a melody on the instrument's three bass strings while strumming the three treble strings for rhythm"; also called the "thumb-lead style." The phrase "Carter scratch" was not on the page; the prose does not use it.
+- Billie Holiday: Wikipedia, "Billie Holiday" (re-opened 2026-10-02): she "was brought before the juvenile court at age nine" and sent to the House of the Good Shepherd; "She found a job running errands in a brothel, and she scrubbed marble steps as well as kitchen and bathroom floors of neighborhood homes"; after the Lincoln Hotel incident in November 1938 "She left the band shortly after"; the lost Cabaret Card meant she could not work "anywhere that sold alcohol; thereafter, she performed in concert venues and theaters."
+- Marion, 1930, the charge: Nicole Poletika, "Strange Fruit: The 1930 Marion Lynching and the Woman Who Tried to Prevent It," Indiana History Blog (Indiana Historical Bureau), May 15, 2018 (https://blog.history.in.gov/strange-fruit-the-1930-marion-lynching-and-the-woman-who-tried-to-prevent-it/, opened 2026-10-02): the three "were held in the Marion jail for the murder of Claude Deeter and rape of Mary Ball." That Ball later took back her rape claim, and that Deeter said before he died that Shipp and Smith were not the men, is (unconfirmed: search summary only, BlackPast and Wikipedia via search).
+- Little Rock, 1957: copied from `research/research-education.md` §9a-2 (NPS, "The Little Rock Nine"): nine Black students entered Little Rock Central High School in 1957.
+- Hawaii, copied from `research/research-america-world.md` (Wikipedia, "Overthrow of the Hawaiian Kingdom"; National Archives): on January 17, 1893, a group of mostly American businessmen moved against Queen Liliʻuokalani, and the US Minister John L. Stevens had 162 US Navy and Marine personnel landed; in 1897 Native Hawaiians signed 21,269 petitions against annexation; Congress annexed Hawaii by joint resolution, signed by President McKinley on July 7, 1898.
+
 ### Era 08 outline notes (T-268c)
 - Stories raised to verified: Bessie Smith, Louis Armstrong, Maybelle Carter, Woody Guthrie, Billie Holiday, Marian Anderson. New verified story: DeFord Bailey (`kind="ordinary"`: not a school-history name; slug `deford-bailey`, used nowhere else).
 - Armstrong's 1957 Little Rock words sit in his story (a life story may run past its era). The Little Rock school events are `education`'s and `rights-movements`'.
@@ -589,6 +646,13 @@ All pages opened 2026-09-28 unless tagged otherwise.
 ### Native music, 1950-2000
 - From the `religion` bank: Public Law 95-341, the American Indian Religious Freedom Act, approved August 11, 1978. Congress found that "traditional American Indian ceremonies have been intruded upon, interfered with, and in a few instances banned," and declared a policy to protect "the freedom to worship through ceremonials and traditional rites." The 1883 rules on dances (era 07) could be enforced until then.
 
+### PATCH 2026-10-02 (T-472): era 09 gaps found by the step 5 checker
+- Bernice Johnson Reagon: SNCC Digital Gateway, "Bernice Johnson Reagon" (re-opened 2026-10-02): "She married the group's co-founder Cordell Reagon." Sweet Honey in the Rock (1973): "an all-women, African American a cappella group that sought to effect change and portray the Black experience through their voices." She used singing "to allow others to study the African American oral tradition in radio, film, and concerts across the country."
+- Angela Davis: Wikipedia, "Angela Davis" (opened 2026-10-02): charged with "aggravated kidnapping and first degree murder in the death of Judge Harold Haley" after the August 7, 1970, Marin County courthouse attack; the FBI arrested her on October 13, 1970, in New York City; "On June 4, 1972, after 13 hours of deliberations, the all-white jury returned a verdict of not guilty." Described as African American.
+- Bloody Sunday, copied from `research/research-rights-movements.md`: March 7, 1965, about 600 marchers at the Edmund Pettus Bridge; Major John Cloud gave them two minutes; they were "attacked by the law enforcement officers with nightsticks and teargas"; "at least 50 protestors required hospital treatment."
+- King's murder, copied from `research/research-holidays.md` (from the rights-movements bank, US Department of Justice, 2000): James Earl Ray pleaded guilty in March 1969 and was sentenced to 99 years; he tried for 30 years to withdraw the plea; a 1999 civil jury in *King v. Jowers* found a conspiracy; the Justice Department found those claims not credible.
+- Selena's killing: Texas Public Radio (bank above): "Murder with a Deadly Weapon." The weapon's type is not on a page opened; the prose says "a gun."
+
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268c): what DJ Kool Herc earned from hip-hop
 Sources checked: Wikipedia "DJ Kool Herc" (party, technique, stabbing, retirement; nothing on income); Wikipedia "Rapper's Delight" (the first hit rap record was by other people, on Sugar Hill); search results on 1520 Sedgwick. How the prose can say it: "The records do not show what Kool Herc earned from hip-hop."
 
@@ -674,6 +738,9 @@ All pages opened 2026-09-28 unless tagged otherwise. Pages that would not open i
 **Movie line.**
 - *Dolly Parton: Here I Am* (2019), a British documentary directed by Francis Whately, broadcast by the BBC and shown on Netflix, released Dec. 26, 2019 (Wikipedia, "Dolly Parton: Here I Am"; Netflix title 81204624; PBS show page; search results). It is about her.
 - *For the Love of Dolly* (2006) is about her fans, not her (NPR).
+
+### PATCH 2026-10-02 (T-472): era 10, the Burchett statement's words
+- Rep. Tim Burchett, "Statement on the passing of Dolly Parton," Aug. 25, 2026 (https://burchett.house.gov/media/press-releases/statement-passing-dolly-parton, opened 2026-10-02 through WebFetch): "Tennessee lost one of our greatest ambassadors in Dolly Parton." He called her the embodiment of "the very best of the American Dream." (The word "Today," that the prose once put before the quote is not in the returned text; the prose now quotes only the words above.)
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268d): what Dollywood pays its workers, from a sourced figure
 Sources checked: Wikipedia "Dollywood" (payroll of about 4,000, no wage), CNN Business Aug. 27, 2026 (4,500 employees per Forbes, no wage), dollywood.com Jobs (search listing only), and job-site pages (Glassdoor, Indeed, PayScale, ZipRecruiter, which report self-reported averages near $15 an hour, not company figures).

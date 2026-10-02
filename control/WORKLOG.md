@@ -4777,8 +4777,10 @@ CHECKPOINT: control/checkpoints/F5-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
 
 ### 2026-10-02 | [LOCAL] T-472 | music: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+RESULT: DONE. PASS  music / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=27 (verified 27) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=25532w files=3 validator_errors=0
+        560151 tokens, 400 tool uses, 26.1 min (opus). FIXER whole chapter [WAVE8L]: 298 FIXED, 24 REJECTED, 1 NEEDS-RESEARCH (+1), 5 found by fixer; slur titles removed (#35), 'invade the sacred kivas', Stono per #36; 25,256 -> 27,107 words
 USAGE: WAVE6M ended at 97% (Jon). WAVE8L (T-465..T-472: 2 medium + 6 large) at 8% (Jon), target ~80%.
 AGENTS WAVE8L: T-465 a4e5c0a46ee5988bb, T-466 a77493dc1ad1af7dd, T-467 afe58d2f086c5e7ea, T-468 acba9ac92ae5ea753, T-469 a6bd356ed21f591ce, T-470 a519e6876d163cfbd, T-471 aa14a84f015e28b9d, T-472 ad57e0c6a29047c87
