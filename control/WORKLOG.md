@@ -4733,3 +4733,8 @@ Step 5: 21 chapters fixed whole + rights-movements part3.
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-drugs-alcohol.md
 VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
+
+### 2026-10-02 | [LOCAL] T-466 | slavery-freedom: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-slavery-freedom.md
+VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
