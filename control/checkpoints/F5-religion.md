@@ -1,19 +1,19 @@
 # CHECKPOINT F5 | religion | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-478 landed (director verified: PASS  religion / prose)
+STATUS: IN-FLIGHT (T-480 parts 2-3; part1 done T-478)
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/religion/part1|part2|part3 + control/audit/religion/part1|2|3-findings-sonnet.md
         + research/research-religion.md (PATCH entries only)
 
 NOW:    T-478 part1 DONE (all 172 findings judged)
-NEXT:   part2 (eras 6-7), later fixer
+NEXT:   T-480: part2 era 6, then part3
 
 ## Units
 | part | eras | fixer | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|---|
 | part1 | 1-5 | T-478 | done | 161 / 11 / 0, plus 5 found by fixer (F1-F5) | wc -w 13552 -> 14837 (prose_words 12918 -> 14201) |
-| part2 | 6-7 | later | todo | | 8198 -> |
-| part3 | 8-10 | later | todo | | 14808 -> |
+| part2 | 6-7 | T-480 | todo | | 8198 -> |
+| part3 | 8-10 | T-480 | todo | | 14808 -> |
 
 ## NEEDS-RESEARCH
 - (part1, none open.) Notes for round 2: three part-1 facts rest on Wikipedia only (Pareja's 1612 catechism, *A Key*'s subject, the Apalachee "by choice" line); the Acoma paragraph rests on the native-nations bank's sources (Carlson 2008, NPS, APCG). Confirm on scholarly pages if round 2 has time.
