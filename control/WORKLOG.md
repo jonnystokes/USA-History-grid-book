@@ -4827,3 +4827,4 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-rights-movements.md
 VERIFY: python tools/project_state.py --check rights-movements --stage prose
 USAGE: WAVE8L straddled a reset; now 12% (Jon); weekly at 92%, ~60% of a window allowed. WAVE7G (T-473..T-479): war, native-nations, government-politics, crime-justice whole; rights-movements p1-2; religion p1; education p3. Est ~54%.
+AGENTS WAVE7G: T-473 a62d8e5569293cd77, T-474 ad3fd0a0ff45b36cb, T-475 a2d350475c06c0907, T-476 a318a78b82d7753fa, T-477 a44b9fb0eb2ff7c94, T-478 a04dae91805151eb6, T-479 a1cd89c4d66661f18
