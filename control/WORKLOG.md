@@ -4847,3 +4847,8 @@ AGENTS WAVE7G: T-473 a62d8e5569293cd77, T-474 ad3fd0a0ff45b36cb, T-475 a2d350475
 Step 5: 34 chapters fixed whole (war, native-nations, government-politics, crime-justice, rights-movements now done).
 Left: religion parts 2-3, education parts 1-2. Then round 2 research (AUDIT-QUEUE + checkpoint NEEDS-RESEARCH lists;
 priority: DECISIONS #32 Hemings/Wayles wording).
+
+### 2026-10-02 | [LOCAL] T-480 | religion: FIXER opus, parts 2-3 (one at a time until interrupted) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-religion.md
+VERIFY: python tools/project_state.py --check religion --stage prose
