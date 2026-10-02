@@ -416,3 +416,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-470	prose	general-purpose/opus	[LOCAL] storytelling-evolution: FIXER whole chapter [WAVE8L]: 341 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH (+1 listed	?	?	?	510125	272	1351375	?	completed	PASS  storytelling-evolution / prose
 2026-10-02	T-466	prose	general-purpose/opus	[LOCAL] slavery-freedom: FIXER whole chapter [WAVE8L]: 260 FIXED, 16 REJECTED, 3 NEEDS-RESEARCH (+3 liste	?	?	?	473144	287	1503273	?	completed	PASS  slavery-freedom / prose
 2026-10-02	T-472	prose	general-purpose/opus	[LOCAL] music: FIXER whole chapter [WAVE8L]: 298 FIXED, 24 REJECTED, 1 NEEDS-RESEARCH (+1), 5 f	?	?	?	560151	400	1567580	?	completed	PASS  music / prose
+2026-10-02	T-471	prose	general-purpose/opus	[LOCAL] news-communication: FIXER whole chapter [WAVE8L]: 303 FIXED, 34 REJECTED, 4 NEEDS-RESEARCH (partly r	?	?	?	611217	431	1990867	?	completed	PASS  news-communication / prose

@@ -4772,9 +4772,11 @@ RESULT: DONE. PASS  storytelling-evolution / prose. measured: stage=WRITTEN ms_e
         510125 tokens, 272 tool uses, 22.5 min (opus). FIXER whole chapter [WAVE8L]: 341 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH (+1 listed), 8 found by fixer; Acoma #31/#34/#36, Wounded Knee and Osage killers named; 23,039 -> 25,476 words
 
 ### 2026-10-02 | [LOCAL] T-471 | news-communication: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
+RESULT: DONE. PASS  news-communication / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=23 (verified 23) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23248w files=3 validator_errors=0
+        611217 tokens, 431 tool uses, 33.2 min (opus). FIXER whole chapter [WAVE8L]: 303 FIXED, 34 REJECTED, 4 NEEDS-RESEARCH (partly repaired), 8 found by fixer; Wilmington murders, My Lai rapes (#36); ~45 PATCHes; 22,673 -> 24,976 words
 
 ### 2026-10-02 | [LOCAL] T-472 | music: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: DONE

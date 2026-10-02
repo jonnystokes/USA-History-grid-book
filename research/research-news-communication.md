@@ -1066,3 +1066,158 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
 ## Parked from `technology` (2026-09-27, T-303)
 Filed by the director after the parallel run. Full sourced text is in `research/research-technology.md` under the T-303 PATCH named in each item.
 - `news-communication` (era 6): LOC Morse Papers telegraph mechanism, $30,000 appropriation, Cornell's poles, Gale's relay. research-technology.md, "PATCH 2026-09-29 (T-303a): how Morse's telegraph worked...".
+
+
+# Step 5 fixer PATCHES (T-471, 2026-10-02)
+
+## Era 1. Before 1500
+
+### PATCH 2026-10-02 (T-471): where the Haudenosaunee live, and their other names
+- Onondaga Nation, "History," https://www.onondaganation.org/history/ : "Over a thousand years ago on the shores of Onondaga Lake, in present day central New York, democracy was born." The five founding nations: Mohawk, Oneida, Onondaga, Cayuga, Seneca.
+- Dartmouth College, The Occom Circle, "Six Nations," https://collections.dartmouth.edu/archive/text/occom/ctx/orgography/org0090.ocp.html : the Six Nations (also called the Haudenosaunee or Iroquois) are the Mohawks, Oneidas, Onondagas, Cayugas, Senecas and Tuscaroras. The first five united before European contact. The Tuscaroras joined in 1722. "The Haudenosaunee occupied much of what is now central New York." Today some Haudenosaunee communities are in Canada (Grand River) and others remain in New York. (Page opened and read 2026-10-02.)
+
+## Era 2. The 1500s
+
+### PATCH 2026-10-02 (T-471): Thomas Harriot at Roanoke and the title of his book (copied with source from the health bank)
+- `research/research-health.md` lines 35 and 51: Thomas Hariot (Harriot), *A Briefe and True Report of the New Found Land of Virginia* (London, 1588), Project Gutenberg ebook 4247, https://www.gutenberg.org/files/4247/4247-h/4247-h.htm . Harriot joined the expedition led by Sir Richard Grenville, which arrived at Roanoke Island on 26 June 1585, and he and John White "explored and mapped the area" (Encyclopedia Virginia). The health bank's heading for his stay reads "Hariot at Roanoke, 1585 and 1586."
+
+### PATCH 2026-10-02 (T-471): the first names of the 1584 captains
+- DocSouth, UNC, title of Barlowe's narrative: "The First Voyage Made to the Coasts of America, with Two Barks, wherein Were Captains M. Philip Amadas and M. Arthur Barlowe ... anno 1584," https://docsouth.unc.edu/nc/barlowe/barlowe.html . NCpedia, "Amadas and Barlowe Expedition," https://www.ncpedia.org/amadas-and-barlowe-expedition : Capt. Philip Amadas and Master Arthur Barlowe left England 27 April 1584 and took Manteo and Wanchese back with them.
+
+## Era 3. The 1600s
+
+### PATCH 2026-10-02 (T-471): Virginia's first allowed press, Williamsburg, 1730
+- David Rawson, "Printing in Colonial Virginia," Encyclopedia Virginia, https://encyclopediavirginia.org/entries/printing-in-colonial-virginia/ (opened 2026-10-02): after the order to stop, "Nuthead went on to Maryland to ply his trade." "This situation had changed by 1730, however, when the first authorized press arrived in Virginia." "The new Williamsburg office opened in the summer of 1730, thereby yielding the date regularly cited for printing's arrival there." (William Parks's office.)
+
+### PATCH 2026-10-02 (T-471): Po'pay was Tewa (copied with sources from the native-nations bank)
+- `research/research-native-nations.md` line 79: Po'pay (Popé), "a Tewa religious leader from Ohkay Owingeh" (Britannica "Pueblo Rebellion"; EBSCO "Pueblo Revolt"; Indian Pueblo Cultural Center; Gilder Lehrman).
+
+### SEARCHED, NOT FOUND 2026-10-02 (T-471): how the Spanish tortured Catua and Omtua
+Sources checked: NMAI Smithsonian Voices ("captured ... and tortured them"); a web search across Tesuque and Pueblo Revolt pages (Daily Yonder, Santa Fe Reporter, Wikipedia "Po'pay", "Antonio de Otermín"): each says only "under torture" or "tortured". No page opened gives the method.
+How the prose can say it: "The surviving accounts do not say how they were tortured."
+
+## Era 4. 1700 to 1750
+
+### PATCH 2026-10-02 (T-471): inoculation, Onesimus, and the Courant's dates
+- Mass Moments, "Dr. Boylston Experiments with Smallpox Inoculation," https://www.massmoments.org/moment-details/dr-boylston-experiments-with-smallpox-inoculation.html (opened 2026-10-02): of inoculation, "The healthy person usually got a mild case of the disease and soon recovered." Of Cotton Mather: "In 1706 he acquired an enslaved man named Onesimus." Boylston's first inoculations: "JUNE the 26th, 1721. I inoculated my Son Thomas, of about six, my Negro Man, Jack, thrity six, and Jackey, two an half Years old."
+- Colonial Society of Massachusetts, "Bibliographical Notes: New-England Courant," https://www.colonialsociety.org/publications/301/bibliographical-notes-new-england-courant (opened 2026-10-02): first issue "1721, August 7"; last issue "1726, June 4."
+
+### PATCH 2026-10-02 (T-471): Franklin reached Philadelphia in 1723; Sauer printed in Germantown
+- Franklin, *Autobiography*, 1916 Pine edition, Project Gutenberg 20203, https://www.gutenberg.org/files/20203/20203-h/20203-h.htm (opened 2026-10-02): after leaving Boston he reached Philadelphia "about eight or nine o'clock on the Sunday morning, and landed at the Market-street wharf." The edition's introduction and notes name his almanac *Poor Richard's Almanac*.
+- Hans Leaman, "Johann Christoph Sauer," Immigrant Entrepreneurship, https://www.immigrantentrepreneurship.org/entries/johann-christoph-sauer/ (opened 2026-10-02): "his publishing work, based in Germantown, Pennsylvania"; "by 1739, soon after he began printing, he had built along the main road in Germantown a two-story stone house."
+
+## Era 5. 1750 to 1800
+
+### PATCH 2026-10-02 (T-471): the Lexington letter, more detail (Bell, JAR, opened)
+- J. L. Bell, "The Story of Isaac Bissell, and the Legend of Israel Bissell," Journal of the American Revolution, 27 June 2024 (opened via WebFetch 2026-10-02): Palmer wrote in Watertown and signed "J. Palmer / of the Congress Com:tee"; the article names him Joseph Palmer. Silas Deane wrote his journal entry ("Memo. / Thursday 20th April 1775") in Wethersfield, the home town of Gov. Jonathan Trumbull. Trumbull "Chearfuly Consented to Call the assembly of the Colony" after Palmer's message and a meeting with Massachusetts men who confirmed the news. "Spreading the alert from Watertown to Philadelphia in five days and seven hours took the work of many riders, and almost all of them were anonymous." Bissell was "a private in Capt. Elihu Kent's company from Suffield" in the siege of Boston.
+
+### PATCH 2026-10-02 (T-471): the Boston Pamphlet's content
+- Massachusetts Historical Society, "The Committees of Correspondence," https://www.masshist.org/revolution/committees.php (opened 2026-10-02): the Boston Pamphlet was "a series of reports outlining colonists' rights and Parliament's infringements upon those rights."
+
+### PATCH 2026-10-02 (T-471): Congress declared independence on July 4; where Dunlap's copies went
+- National Archives, *Pieces of History*, "Dunlap's Declaration of Independence," 3 July 2018 (opened 2026-10-02): "When the Second Continental Congress declared independence on July 4 in Philadelphia..."; Congress ordered "the copies be distributed among the new states and troops, read aloud, and posted in public areas."
+
+### PATCH 2026-10-02 (T-471): "African Slavery in America": who wrote it is disputed
+- Gary Berton, "The Author Attribution of 'African Slavery in America,'" Thomas Paine National Historical Association, https://thomaspaine.org/studies-in-thomas-paine/the-author-attribution-of-african-slavery-in-america/ (opened 2026-10-02): the essay appeared in March 1775 in the *Pennsylvania Journal*, signed "Justice and Humanity"; it condemned slavery as unjust; Berton concludes it was most likely written by Samuel Hopkins, a Congregational minister from Rhode Island, not Paine. Moncure Conway first put it among Paine's writings in 1894 (search summary of thomaspaine.org). Britannica (era 5 entry above) still lists it as Paine's. **Accounts differ: the prose must say so.**
+
+### PATCH 2026-10-02 (T-471): war with France at sea, 1798 (copied with source from the america-world bank)
+- `research/research-america-world.md` lines 731 to 737: the U.S. Navy fought the French in the Caribbean in 1798 to 1800, after the XYZ Affair (Office of the Historian, *XYZ Affair and the Quasi-War*, https://history.state.gov/milestones/1784-1800/xyz).
+
+### PATCH 2026-10-02 (T-471): Hamilton's office (copied with source from the money bank)
+- `research/research-money.md` line 114: Alexander Hamilton "was appointed the first Secretary of the Treasury" and served 1789 to 1795 (U.S. Department of the Treasury, prior secretaries page).
+
+### SEARCHED, NOT FOUND (confirmed page) 2026-10-02 (T-471): who barred Bache from the House
+A search summary attributes to a Founders Online editorial note (Madison Papers, "From Henry Aborn and Others, ca. 28 October 1801") that Speaker Jonathan Dayton barred Bache from the House floor in the Fifth Congress to stop him reporting the debates. (unconfirmed: search summary only) The Founders page returned empty; history.house.gov's Dayton page and Hidden City Philadelphia (2025) do not name who barred him. Round 2: confirm Dayton on a real page.
+
+### PATCH 2026-10-02 (T-471): Lyon's grand jury, his plea, and the poet Joel Barlow (FJC; government-politics bank)
+- Bruce A. Ragsdale, *The Sedition Act Trials* (Federal Judicial Center, 2005), https://www.fjc.gov/sites/default/files/trials/seditionacts.pdf (PDF downloaded and text extracted 2026-10-02): "Lyon pleaded not guilty and submitted a second plea stating that the Sedition Act was unconstitutional."
+- `research/research-government-politics.md` PATCH T-258 (lines 703 to 734), same FJC source: on 5 October 1798 "a federal grand jury in Vermont indicted him on three counts"; the charges included reading aloud at rallies "a letter by the poet Joel Barlow blaming Adams and the Senate for the crisis with France."
+
+## Era 6. 1800 to 1850
+
+### PATCH 2026-10-02 (T-471): Chase sentenced Thomas Cooper (FJC PDF, text extracted)
+- Ragsdale, *The Sedition Act Trials* (FJC, 2005), PDF text extracted 2026-10-02: "After the jury declared Cooper guilty, Chase sentenced him to six months' imprisonment and a $400 fine." Justice Samuel Chase presided with District Judge Richard Peters. **Same PDF, chronology:** "April 24, 1800 Justice Chase sentenced Cooper to six months' imprisonment and imposed a fine of $500 as well as the costs of prosecution." Record both figures, as for Callender's fine.
+
+### PATCH 2026-10-02 (T-471): why Boudinot resigned, and where the treaty sent the Cherokee
+- Oklahoma Historical Society, *Encyclopedia of Oklahoma History and Culture*, "Cherokee Phoenix," https://www.okhistory.org/publications/enc/entry?entry=CH022 (opened 2026-10-02): "after John Ridge, his cousin, began to openly advocate removal in 1832, Boudinot began writing editorials supporting emigration and expressing doubt that the Nation could survive in the East." "When his opinions on removal spread to other news items, Ross pressured Boudinot to resign on August 1, 1832."
+- Same encyclopedia, "Boudinot, Elias," https://www.okhistory.org/publications/enc/entry?entry=BO025 (opened 2026-10-02): "This proremoval minority signed the Treaty of New Echota in 1835, which bound the Cherokee to move west to Indian Territory (present Oklahoma)." NGE "Elias Boudinot" (opened 2026-10-02): the treaty "required the Cherokees to relinquish all remaining land east of the Mississippi River and led to their forced removal."
+- `research/research-native-nations.md` line 159: the Indian Removal Act, 1830, "authorized the president to negotiate removal treaties" (New Georgia Encyclopedia).
+
+### PATCH 2026-10-02 (T-471): Garrison demanded an immediate end to slavery
+- NPS, "William Lloyd Garrison," https://www.nps.gov/people/william-lloyd-garrison.htm (opened 2026-10-02): "Garrison publicly committed himself to Black abolitionists' demands for an immediate uncompensated end to slavery and for political and social equality."
+
+### PATCH 2026-10-02 (T-471): Douglass's first antislavery speeches, 1841
+- Frederick Douglass Papers Project, "Douglass Timeline," https://frederickdouglasspapersproject.com/page/douglass-timeline (opened 2026-10-02): 1841, "Spoke on his experience as a slave at a Massachusetts Anti-Slavery Society convention in Nantucket, Mass., after which he was invited to become a paid itinerant lecturer." 1842, "Hired as a permanent lecturer by the Massachusetts Anti-Slavery Society."
+
+### PATCH 2026-10-02 (T-471): slavery was legal in Missouri (from the slavery-freedom bank)
+- `research/research-slavery-freedom.md` lines 263, 329, 332: Missouri was a loyal border state exempted from the Emancipation Proclamation (National Archives; LOC); in 1850 Robert Newsom of Callaway County, Missouri, bought Celia, 14, and Missouri's courts hanged her in 1855 (Wikipedia, opened); Dred Scott was held in St. Louis from 1830 and sold there (State Historical Society of Missouri). Slavery was legal in Missouri throughout this era.
+
+## Era 7. 1850 to 1900
+
+### PATCH 2026-10-02 (T-471): why Black men were barred from carrying the mail, 1802, and the law that ended it, 1865
+- USPS Historian, "African American Postal Workers in the 19th Century," https://about.usps.com/who-we-are/postal-history/african-american-workers-19thc.pdf (PDF text extracted 2026-10-02): in 1801 Postmaster General Joseph Habersham allowed a Kentucky contractor to use an enslaved carrier. "Gideon Granger succeeded Habersham as Postmaster General in November 1801 and, in March 1802, wrote to Senator James Jackson of Georgia": "After the scenes which St. Domingo has exhibited to the world, we cannot be too cautious ... The most active and intelligent [slaves] are employed as post riders. ... By travelling from day to day, and hourly mixing with people ... they will acquire information. They will learn that a man's rights do not depend on his color. They will, in time, become teachers to their brethren." (Ellipses and brackets as printed; a dash in the source is not copied.) "Congress heeded Granger's warning, and in an Act of May 3, 1802," declared that "no other than a free white person shall be employed in carrying the mail." "This prohibition endured until March 3, 1865, when Congress directed that 'no person, by reason of color, shall be disqualified from employment in carrying the mails' (13 Stat. 515)."
+
+### PATCH 2026-10-02 (T-471): Antietam's date (from the war bank)
+- `research/research-war.md` line 1664: Antietam, 17 September 1862 (NPS Antietam).
+
+### PATCH 2026-10-02 (T-471): Nellie Bly's asylum scenes, from her book (Gutenberg 59899, downloaded and read 2026-10-02)
+- The bath: "we were told to go with Miss Grupe. We were taken into a cold, wet bathroom, and I was ordered to undress ... They began to undress me, and one by one they pulled off my clothes" in front of "the group of patients gathered at the door watching"; a patient "began to scrub me ... From a small tin pan she took some soft soap and rubbed it all over me"; "Suddenly I got, one after the other, three buckets of water over my head ... ice-cold water" (Bly does not say who poured it); then "they dragged me ... from the tub."
+- Urena Little-Page: "'Urena,' said Miss Grady, 'the doctors say that you are thirty-three instead of eighteen,' and the other nurses laughed"; then "they pounced upon her and slapped her face and knocked her head ... and so they choked her. Yes, actually choked her. Then they dragged her out to the closet"; "the marks of their fingers on her throat for the entire day." The actors are Miss Grady and the other nurses.
+
+### PATCH 2026-10-02 (T-471): the round-the-world trip was Bly's idea
+- Heinz History Center, "Nellie Bly: Around the World," https://www.heinzhistorycenter.org/learn/women-forging-the-way/nellie-bly-around-the-world/ (opened 2026-10-02): Bly proposed to her editor that she travel around the world; "If she could do it in less than 80 days, she would improve upon the fictional adventure of Phileas Fogg," the hero of Jules Verne's *Around the World in Eighty Days*; on the way, in France, Verne met her and asked about her route.
+
+### PATCH 2026-10-02 (T-471): Wells's own words on the Memphis lynching and the May 21 editorial (Southern Horrors, Gutenberg 14975, downloaded and read 2026-10-02)
+- The editorial of 21 May 1892, as she reprinted it: "Eight negroes lynched since last issue of the Free Speech ... five on the same old racket--the new alarm about raping white women ... Nobody in this section of the country believes the old thread-bare lie that Negro men rape white women."
+- The lynching of the People's Grocery men: a white grocer named Barrett, after a fight with Calvin McDowell, led "a posse of officers, twelve in number" at night; the grocery's defenders fired, wounding three officers; "Thirty-one men were arrested"; "This hindered rather than helped the plans of the whites"; three men "were secretly taken from jail and lynched." "Following the advice of the Free Speech, people left the city."
+
+### PATCH 2026-10-02 (T-471): Wilmington, who killed whom
+- PBS American Experience, "How to Cover Up a Coup," https://www.pbs.org/wgbh/americanexperience/features/american-coup-how-cover-coup/ (opened 2026-10-02): "a racist mob took things further, attacking and killing African Americans in North Carolina's largest city, Wilmington." "White supremacists drove remaining local Fusion officials, often at gunpoint, out of office."
+- NC DNCR, "1898 Wilmington Coup," https://www.dncr.nc.gov/1898-wilmington-coup (opened 2026-10-02): "All of the reported victims were black." Casualties "range from the coroner's fourteen to unconfirmed reports of scores or even hundreds of deaths."
+- NCpedia (opened 2026-10-02): "By 11:00 a.m., violence had broken out across town at an intersection where groups of Black and white people argued. Shots rang out and several Black men fell dead or wounded," each side claiming the other fired first; "at least 14 and perhaps as many as 60 men were murdered."
+- A search summary (Wikipedia-derived) says the Wilmington Light Infantry and Naval Reserves, sent to stop the riot, used rapid-fire weapons and killed Black men in the Brooklyn neighborhood. (unconfirmed: search summary only) Not used.
+- **How the prose tells it:** a white mob killed Black men; all reported dead were Black; the shooters are unnamed; the "each side" claim is reported as what was said at an argument, never as the account of the killings.
+
+## Era 8. 1900 to 1950
+
+### PATCH 2026-10-02 (T-471): The Jungle, the 1906 laws, Adams's series, Standard Oil (copied with sources from other banks)
+- `research/research-food-farming.md` line 189: Sinclair spent about seven weeks undercover in Chicago's packinghouses (1904); *The Jungle* ran as a serial in 1905 and as a book in February 1906; Sinclair: "I aimed at the public's heart, and by accident I hit it in the stomach"; on 30 June 1906 Theodore Roosevelt signed the Pure Food and Drug Act (no misbranded or adulterated food and medicine in interstate commerce) and the Meat Inspection Act (federal inspectors in packing plants) (FDA; USDA FSIS; Britannica).
+- `research/research-drugs-alcohol.md` line 498: Samuel Hopkins Adams, "The Great American Fraud," 11 articles in *Collier's*, about patent medicines: "Gullible America will spend this year some seventy-five millions of dollars in the purchase of patent medicines. In consideration of this sum it will swallow huge quantities of alcohol, an appalling amount of opiates and narcotics." That bank dates the series 1905 (Wikipedia); Britannica (era 8 entry above) dates it 1906. The series ran across both years.
+- `research/research-big-business.md` line 248: by 1880 Standard Oil "controlled the refining of 90 to 95 percent of all oil produced in the United States" (Britannica Money).
+- `research/research-education.md` line 767: "Hampton Institute in Virginia" (Booker T. Washington entry).
+
+### PATCH 2026-10-02 (T-471): who took the Milwaukee Leader's mailing permit
+- Free Speech Center, MTSU, "United States ex rel. Milwaukee Social Democratic Publishing Co. v. Burleson (1921)," https://firstamendment.mtsu.edu/article/united-states-ex-rel-milwaukee-social-democratic-publishing-co-v-burleson/ (opened 2026-10-02): the case concerned "the third assistant postmaster general's decision to revoke the second-class mailing privilege" of the *Leader*; Justices Louis D. Brandeis and Oliver Wendell Holmes Jr. dissented. A search summary gives the order's date as 3 October 1917, the vote as 7 to 2, and says carriers delivered the paper in Milwaukee County without missing an issue until mailing was restored in June 1921. (unconfirmed: search summary only) Not used.
+
+### PATCH 2026-10-02 (T-471): Sengstacke and Biddle, 1942, and what the Black press protested
+- PBS, *The Black Press: Soldiers Without Swords*, "Treason," https://www.pbs.org/blackpress/educate_event/treason.html (opened 2026-10-02): "Hearing of Hoover's intentions, John Sengstacke, who had replaced Robert S. Abbott as publisher of the Chicago Defender, insisted on meeting with Attorney General Francis Biddle." "Sengstacke convinced Biddle that it was the black press's duty to print the truth, and that African Americans only sought their due rights and privileges as citizens. Biddle agreed to block the indictments so long as the black press did not escalate its criticism of the war." The papers reported segregated troop units, white officers over Black soldiers, racially separated blood supplies and violence against Black servicemembers, and ran the "Double V" campaign: victory over enemies abroad and over prejudice at home.
+
+### PATCH 2026-10-02 (T-471): where Manzanar and Heart Mountain were
+- NPS, Manzanar National Historic Site, https://www.nps.gov/manz/index.htm (opened): California; "one of ten camps where the US government incarcerated Japanese immigrants ineligible for citizenship and Japanese American citizens during World War II."
+- NPS, "Heart Mountain Relocation Center," https://www.nps.gov/places/heart-mountain-relocation-center.htm (opened): "located in Park County, Wyoming between Powell and Cody, was one of 10 relocation camps built to house people of Japanese descent forcibly relocated from the West Coast."
+
+### PATCH 2026-10-02 (T-471): the first fireside chat's audience (copied from the money bank)
+- `research/research-money.md` line 247 (LOC "This Month in Business History"; Federal Reserve History; FDR Library; LOC Inside Adams): "first fireside chat, Sunday night March 12, 1933," Roosevelt "explained banking in plain words to some 60 million radio listeners and said it was safer to keep money in a reopened bank than under the mattress." When the banks reopened, deposits exceeded withdrawals.
+
+## Era 9. 1950 to 2000
+
+### PATCH 2026-10-02 (T-471): My Lai, the rapes as well as the killings (copied with source from the war bank, per DECISIONS #36)
+- `research/research-war.md` lines 2805 to 2825, PATCH T-259b: *The My Lai Massacre and Its Cover-up: Beyond the Reach of Law? The Peers Commission Report* (Free Press, 1976), Internet Archive full text, https://archive.org/stream/mylaimassacreits0000unit/mylaimassacreits0000unit_djvu.txt . Finding 8: "A part of the crimes visited on the inhabitants of Son My Village included individual and group acts of murder, rape, sodomy, maiming, and assault on noncombatants and the mistreatment and killing of detainees." Counts: at least 175 and possibly more than 400 (Peers); 347 (an Army count); 504 names on the village memorial. The 2nd Platoon "continued the pattern of burning, killings, and rapes"; witnesses saw "at least one gang-rape of a young Vietnamese girl ... and several other rape/killings." The `war` chapter (part 3, span "My Lai, March 16, 1968") states: "Soldiers raped women and girls." No one was convicted of rape.
+
+### PATCH 2026-10-02 (T-471): era 9 small facts from other banks and opened pages
+- Medgar Evers "was shot in the back in the driveway of his own home in Jackson" (`research/research-rights-movements.md` line 2498).
+- The Edmund Pettus Bridge, Selma, 7 March 1965, Major John Cloud, at least 50 hospitalized (`research/research-rights-movements.md` lines 2542 to 2544, NPS).
+- Alexander Butterfield, "a White House aide," told the Senate committee "that the president kept a voice-activated tape recorder in rooms of the White House" (`research/research-government-politics.md` lines 2055 to 2056, US Senate).
+- Tim Berners-Lee, "a British computer scientist at CERN in Switzerland," opened the web's files to the public on 6 August 1991 (`research/research-technology.md` line 249, CERN).
+- Office of the Historian, US State Department, "The Tet Offensive," https://history.state.gov/milestones/1961-1968/tet (opened 2026-10-02): "In late January, 1968, during the lunar new year (or 'Tet') holiday, North Vietnamese and communist Viet Cong forces launched a coordinated attack against a number of targets in South Vietnam."
+- The Henry Ford, artifact 567204, "'Jet' Magazine, April 10, 1969," https://www.thehenryford.org/collections/explore/artifact/567204 (opened 2026-10-02): John H. Johnson, head of the Chicago-based Johnson Publishing Company, founded *Jet* in November 1951, billed as "The Weekly Negro News Magazine," with news, culture and entertainment about the African American community.
+- US Senate Historical Office, "The Censure Case of Joseph McCarthy of Wisconsin (1954)," https://www.senate.gov/about/powers-procedures/censure/133Joseph_McCarthy.htm (page title and summary seen in search 2026-10-02; the senate.gov page itself returned 404 at another address): McCarthy, Republican of Wisconsin; censured 2 December 1954, 67 to 22.
+- Free Speech Center (MTSU), "Telecommunications Act of 1996" (opened 2026-10-02), photo caption: "President Clinton uses an electronic pen to sign the Telecommunications Reform Act, Thursday Feb. 8, 1996 at the Library of Congress in Washington."
+
+## Era 10. 2000 to Today
+
+### PATCH 2026-10-02 (T-471): who barred the Associated Press, February 2025
+- CBS News, "Judge orders White House to lift restrictions on Associated Press over use of Gulf of Mexico," 9 April 2025, https://www.cbsnews.com/news/white-house-associated-press-dispute-gulf-of-america/ (opened 2026-10-02): "After the AP said it would continue using the name Gulf of Mexico, White House press secretary Karoline Leavitt informed its chief White House correspondent on February 11 that the outlet would no longer be allowed in the Oval Office as part of the press pool until the AP changed its Stylebook to use Gulf of America." Judge Trevor McFadden ruled for the AP and ordered its access restored: "if the government opens its doors to some journalists ... it cannot then shut those doors to other journalists because of their viewpoints." (Later appeals: search summaries only; not used.)
+
+### PATCH 2026-10-02 (T-471): Trump signed the Rescissions Act (confirms the item tagged search summary above)
+- CBS News, 24 July 2025, https://www.cbsnews.com/news/trump-signs-rescissions-package-foreign-aid-npr-pbs-funding/ (opened 2026-10-02): "President Trump signed legislation to claw back $9 billion in foreign aid and public broadcasting funding, the first time in decades that Congress has approved a president's request to rescind previously approved funding."
