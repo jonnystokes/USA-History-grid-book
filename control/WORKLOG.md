@@ -4768,3 +4768,4 @@ VERIFY: python tools/project_state.py --check news-communication --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
+USAGE: WAVE6M ended at 97% (Jon). WAVE8L (T-465..T-472: 2 medium + 6 large) at 8% (Jon), target ~80%.
