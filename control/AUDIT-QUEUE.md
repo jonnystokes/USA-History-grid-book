@@ -282,3 +282,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **art outline (T-443):** outlines/art.md and outlines/BOOK-OUTLINE.md still carry the kehinde-wiley story; remove it when the outline is rebuilt in step 7 (#30).
 - **transportation bank (T-445):** the GPS Selective Availability line says 'tenfold'; 100 m to 20 m is fivefold. Prose now gives only the meters; correct the bank.
 - **big-business (T-460):** the fixer added several PATCHes tagged '(unconfirmed: search summary only)'. Step 6: check none of those facts are stated in the prose as fact; confirm or cut. Round 2: who sued and charged Biddle; who at Bhopal turned off the gas scrubber.
+- **exploration (T-462):** the Boone torture detail rests on a blog and a Substack. Round 2: confirm from a scholarly or primary source, or cut it from the prose.
