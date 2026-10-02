@@ -242,9 +242,9 @@ The clothes carried "Made in the USA" labels and were sold in chain stores inclu
 
 Rotchana Cheunchujit sewed blouses and other clothes in the El Monte shop for five to seven cents a piece. That came to about $300 to $500 a month. The owners took half her pay first. Then they made the workers buy food and supplies from the owners' own store, at high prices. The bosses told her she owed about $5,000.
 
-She came from Thailand, where she had heard that jobs in Los Angeles paid three times as much. She left her two young children with her mother there, hoping the job would help her family. She arrived in 1994.
+She came from Thailand, where she had heard that jobs in Los Angeles paid three times as much. She left her two young children with her mother there, hoping the job would help her family. The smugglers who brought her said that for about $4,800 they would get her to the United States and set her up with a job. She could pay them back from her wages. She arrived in 1994.
 
-She was 24 and in bed when federal agents broke down the door on August 2, 1995. Someone called out in Thai: "We're here to help you." "We were in shock," she said. "We didn't know what was going on." Immigration officers then held her and the other workers for nine days, until Asian American groups paid their bail.
+She was 24 and in bed when federal agents broke down the door in the early hours of August 2, 1995. Someone called out in Thai: "We're here to help you." "We were in shock," she said. "We didn't know what was going on." Immigration officers then held her and the other workers for nine days, until Asian American groups paid their bail.
 
 Later she became a US citizen, learned English and was reunited with her children. She married Steve Sussman, a professor at the University of Southern California, and took his name. She spoke up for other garment workers and opened a vegetarian Thai restaurant in Arcadia, California.
 <!-- hb-story:end slug="rotchana-cheunchujit-sussman" -->

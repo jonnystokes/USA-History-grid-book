@@ -129,11 +129,18 @@ Copied with their sources from `research/research-native-nations.md`, Acoma sect
 - Tavern: "Fowkes Tavern" (Secrets of the Eastern Shore, https://www.secretsoftheeasternshore.com/american-theater-born-pungoteague/ , which also dates a hearing to Dec 18, 1665 at the tavern and Martin's appearance to Jan 16, 1666); "Cowle's Tavern" and "Cole's Tavern" (Washington Post 1989 and other summaries, search only) (unconfirmed: search summary only). The court record does not name the tavern. The seed's "Cowle's" is one of three spellings.
 - Complainant's first name: Edward Martin (court record). One summary says "John Martin" (search summary): wrong per the record.
 - Authorship: record calls Darby "actour." Mellen Press book: *The First Play in America in English and Its Contribution to the First Amendment: "Ye Bare and Ye Cubbe" (1665) by W. Darby* (title via search; date and author of the study not opened) (unconfirmed: search summary only).
+- PATCH 2026-10-02 (T-486), see the heading below.
 - The seed's "Philip Howard" is NOT the English MP Philip Howard (d. 1686) on Wikipedia; that article has nothing on Virginia.
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-269a): William Darby's occupation, birth, death, or any other record of him
 Sources checked: the court record (Campbell 1860; Wise 1911); Secrets of the Eastern Shore; Wikipedia "Pungoteague"; a Washington Post 1989 summary. None gives his trade or dates.
 How the prose can say it: "The court record is the only account of him. It does not say what work he did, when he was born or when he died."
+
+### PATCH 2026-10-02 (T-486): Darby as the author of *Ye Bare and Ye Cubb*
+- "1600-1754: Theater," *American Eras* (Gale), at Encyclopedia.com, https://www.encyclopedia.com/history/news-wires-white-papers-and-books/1600-1754-theater (opened 2026-10-02): "The first known performance of a play in one of the thirteen original colonies was an amateur production in Accomac County, Virginia, of *Ye Bare and Ye Cubb*, by William Darby." "There are no surviving copies of this play, which is known only through court records." "After Darby and some friends performed the play on 27 August 1665, they were arrested for playacting but were eventually judged not guilty."
+- Oscar G. Brockett Center for Theatre History and Criticism, "This Month in Theatre History," *American Theatre*, 2 August 2015, https://www.americantheatre.org/2015/08/02/this-month-in-theatre-history-10/ (opened 2026-10-02): "One of the piece's authors, William Darby, will be accused of public wickedness, and he and the cast's other two actors will be required to recreate the performance in costume before the court." (The court record says the justices ordered the costumes and a copy of the verses; it does not say the men performed before the court. The prose keeps the record's version.)
+- The Mellen Press title (above) was not found on an opened page and is not used. The court record itself says only "actour."
+- How the prose can say it: later writers name Darby as the play's writer (attributed to *American Eras* and the Brockett Center). The record calls him "actour."
 
 ## Pueblo ceremonies suppressed, and the 1680 revolt
 - Dennis Zotigh (NMAI), "In 1680, Pueblo Natives in the Southwest Launched the First Successful, Although Short-Lived, American Revolution," Smithsonian Voices, dated Sept 2, 2026 on the page (read via curl), https://www.smithsonianmag.com/blogs/national-museum-american-indian/2026/09/02/pueblo-natives-southwest-launched-first-successful-shortlived-american-revolution/ :

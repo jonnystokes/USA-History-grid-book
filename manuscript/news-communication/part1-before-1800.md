@@ -354,7 +354,7 @@ Federal prosecutors and judges used the act mostly against editors of newspapers
 
 Among those charged were Congressman Matthew Lyon of Vermont, William Duane of the *Aurora*, Ann Greenleaf of New York's *Argus*, and Anthony Haswell of the *Vermont Gazette*. Luther Baldwin and Brown Clark of Newark, New Jersey, were charged for words they spoke against President Adams in a tavern.
 
-Federalist supporters physically attacked Benjamin Franklin Bache in Philadelphia. He was also barred from the meetings of the House of Representatives, where the Federalists held a majority. Federal officials arrested him in 1798 on a charge of libeling President Adams. Libeling means printing false things that harmed Adams's good name.
+Federalist supporters physically attacked Benjamin Franklin Bache in Philadelphia. Jonathan Dayton of New Jersey, a Federalist, was Speaker of the House of Representatives, the member chosen to run its meetings. Dayton barred Bache from the floor of the House so that he could not report its debates. The Federalists held a majority there. Federal officials arrested him in 1798 on a charge of libeling President Adams. Libeling means printing false things that harmed Adams's good name.
 
 Bache kept printing the *Aurora* through an epidemic of yellow fever. He died of the fever on September 10, 1798, at 29, a month before his trial date. His widow kept the paper going, with William Duane as editor. The Sedition Act ran out on March 3, 1801, the last day its authors had written into it.
 <!-- /hb-zoom -->

@@ -124,7 +124,7 @@ At a court in January 1666, the justices found the three men "not guilty of faul
 > **Who:** One of the three men who acted *Ye Bare and Ye Cubb* in Virginia in 1665, and the one the sheriff was ordered to arrest.
 > **When and where:** Accomack County, Virginia, August 27, 1665, and the county court, November 1665 to January 1666.
 
-William Darby is one of the first people on record to act a play in English in what is now the United States. The Accomack County court record calls him an "actour" of *Ye Bare and Ye Cubb*.
+William Darby is one of the first people on record to act a play in English in what is now the United States. The Accomack County court record calls him an "actour" of *Ye Bare and Ye Cubb*. Later writers say he wrote the play or helped write it. The reference book *American Eras* lists it as "*Ye Bare and Ye Cubb*, by William Darby." Writers at the Oscar G. Brockett Center for Theatre History call him "one of the piece's authors."
 
 In November 1665 the justices ordered the sheriff to arrest Darby "to answere at his maties suit." That meant he had to answer a case brought in the name of His Majesty, the king. For the other two actors, the justices ordered only that they be held until they gave security that they would come back. In January 1666 the justices found all three men not guilty.
 

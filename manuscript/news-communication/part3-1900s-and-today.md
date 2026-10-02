@@ -303,7 +303,7 @@ The *Chicago Defender*, the paper that urged Black Southerners to move north in 
 
 In 2022 Robert Telles, an elected official in Las Vegas, stabbed the reporter Jeff German to death after German reported on Telles's office. German's work as a reporter in Las Vegas spanned four decades, and at the time of his death he worked for the *Las Vegas Review-Journal*. He wrote about organized crime and dishonest officials, and he hosted a *Review-Journal* podcast about the mob called *Mobbed Up*.
 
-That year German wrote about the office of Robert Telles, who had been elected Clark County Public Administrator, a county official. German's stories described bullying in the office and the punishing of workers who complained. They also described an "inappropriate relationship" between Telles and a staff member. Telles denied it. In June 2022 he lost his election.
+That year German wrote about the office of Robert Telles, who had been elected Clark County Public Administrator. When a person in Clark County dies and no family member can step in at once, workers in that office guard the dead person's property and money until they can hand it to the people who should get it. German's stories described bullying in the office and the punishing of workers who complained. They also described an "inappropriate relationship" between Telles and a staff member. Telles denied it. In June 2022 he lost his election.
 
 On September 2, 2022, Telles stabbed German to death outside German's home. Police found Telles's DNA on German's hands and fingernails. DNA is the chemical code inside every person's cells, and it can show who was at a place. In Telles's home, police found a straw hat and sneakers, cut into pieces, like the ones the killer wore on a security camera video.
 

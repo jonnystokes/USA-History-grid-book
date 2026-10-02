@@ -246,7 +246,7 @@ In 1737 Lapowinsa and Tishcohan signed a land deal called the Walking Purchase w
 <!-- hb-zoom level="span" label="Cherokee baskets taken to London, 1725" -->
 Cherokee weavers made baskets from river cane, a tall plant with hollow stems that grows along rivers. They split the cane into thin strips and dyed some of the strips with walnut and pokeberry. Some baskets were double woven. A double-woven basket is two baskets woven one inside the other from the same strips, so both the inside and the outside show a finished pattern.
 
-In 1725 a colonial governor of South Carolina took a set of Cherokee double-woven baskets to London. A note tied to them says, "They will keep anything in them from being wetted by rain." The British Museum in London holds them today.
+In 1725 Francis Nicholson, the first governor of South Carolina chosen by the British king, left Charleston for London. He took a set of Cherokee double-woven baskets with him and passed them to Sir Hans Sloane, a collector in London. A note tied to them says, "They will keep anything in them from being wetted by rain." The British Museum in London holds them today.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 

@@ -4896,8 +4896,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R3-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
 
-### 2026-10-02 | [LOCAL] T-486 | news-communication: RESEARCH round 2 R4-culture: news-communication music storytelling-evolution sports-play styles art holidays | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. 18 items (culture group): most answered and written; disputes stated (Mary Ball, sand garden year); Quash identified as carpenter not dye maker; all 7 chapters PASS prose+research. 258,558 tokens, 186 tools, 13.0 min (opus).
 CHECKPOINT: control/checkpoints/R4-news-communication.md
 VERIFY: python tools/project_state.py --check news-communication --stage prose
 USAGE AT START (round-2 wave T-484..T-486): 68% (Jon). R-1 measured 61->68 = 7%.

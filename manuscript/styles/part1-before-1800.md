@@ -227,7 +227,7 @@ South Carolina's lawmakers voted to pay planters a bounty, a reward from the gov
 
 Enslaved people of African descent did almost all of the work. They planted and tended the indigo, built the vats, the big tubs for making dye, and filled them with water and cut leaves. After the leaves soaked, the workers beat the liquid with paddles or with buckets that had no bottoms. They added lime, made from burnt oyster shells, so that the blue settled out. Then workers scooped the blue mud into bags, dried it and cut it into cubes.
 
-Charles Woodmason wrote in 1755 that 15 enslaved workers could plant and tend 50 acres of indigo, and that it took 25 skilled workers to turn that crop into dye. The accounts of indigo making from these years do not name the enslaved workers who made the dye.
+Charles Woodmason wrote in 1755 that 15 enslaved workers could plant and tend 50 acres of indigo, and that it took 25 skilled workers to turn that crop into dye. The accounts of indigo making from these years do not name the enslaved workers who made the dye. One enslaved man who built the vats is named. He was Quash, a carpenter whom the Lucas family held in slavery at Wappoo. In 1744 George Lucas, Eliza's father, wrote that "Quashe" should build a wooden indigo works at the family's Garden Hill plantation. Eliza told her father that Quash had spent 33 days building indigo vats at other Lucas plantations. In 1746 the minister Alexander Garden baptized him, and he took the name John Williams.
 
 South Carolina's indigo was shipped to England for British cloth makers. South Carolinians bought most of their own cloth from England, already dyed.
 <!-- /hb-zoom -->

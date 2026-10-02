@@ -699,6 +699,13 @@ How the prose can say it: use the Gale sentence about fairs and court days only.
   confirms the list of games tagged unconfirmed above. The fine (five shillings) and the day (5 September 1791)
   still rest on search summaries only (Protoball, 403 to the fetch tool).
 
+### PATCH 2026-10-02 (T-486): the Pittsfield bylaw's date, 5 September 1791
+- US House of Representatives, H. Res. 1050, 110th Congress, introduced 13 March 2008 by "Mr. Olver" and 23 cosponsors, https://www.govinfo.gov/content/pkg/BILLS-110hres1050ih/html/BILLS-110hres1050ih.htm (opened 2026-10-02): the Pittsfield town meeting passed the bylaw on September 5, 1791: "no Person or Inhabitant of said town, shall be permitted to play at any game called Wicket, Cricket, Baseball, Football, Cat, Fives or any other game or games with balls, within the Distance of Eighty Yards from said Meeting House." The Congressional Record, vol. 154 (2008), pt. 10, p. 13368 (govinfo, opened) gives the same date and adds the bylaw's title words, "for the Preservation of the Windows in the New Meeting House."
+- ESPN, "Pittsfield uncovers earliest written reference to game," 11 May 2004 (opened): no fine given.
+
+### SEARCHED, NOT FOUND 2026-10-02 (T-486): the Pittsfield bylaw's fine (five shillings)
+Sources checked: H. Res. 1050 and the Congressional Record (opened: no fine); ESPN 2004 (opened: no fine); SABR (opened by T-467: no fine); Protoball 1791.1 (Cloudflare challenge in the browser, 403 to fetch). The five-shilling fine appears only in search summaries (thisdayinbaseball.com and others). Not used.
+
 ### PATCH 2026-10-02 (T-467): Hawaii in 1779 was not yet one kingdom
 - Wikipedia, "Kingdom of Hawaii" (opened 2026-10-02): "The Hawaiian Kingdom was established in 1795"; the islands
   were "fully unified" in 1810. When Cook arrived in 1779, Kalaniʻōpuʻu ruled the island of Hawaii. Correct the
@@ -867,6 +874,13 @@ settlement claim there.
   in exchange for the victories. He continued racing as a jockey for John Campbell" (NKAA, citing Davis and Drape;
   Forgotten Foundation agrees). A search summary says other accounts have Cato buying his wife's freedom while he
   stayed enslaved, training horses in Louisiana until Emancipation (unconfirmed: search summary only): **dispute**.
+
+### PATCH 2026-10-02 (T-486): Cato's freedom, the doubt about it
+- Jessica Dallow, "Antebellum Sports Illustrated: Representing African Americans in Edward Troye's Equine Paintings," *Nineteenth-Century Art Worldwide* (Autumn 2013 issue), https://www.19thc-artworldwide.org/autumn13/dallow-on-edward-troye-s-equine-paintings (opened 2026-10-02): Cato's name filled the papers "after he not only rode to victory, but also, it was rumored, to his freedom" (Wagner over Grey Eagle, Oakland course, Louisville, late September 1839, crowd of ten thousand). "Porter notes that Cato 'had become free at the time of the first race,' yet Hotaling clarifies that while legend holds that he won his freedom through his race victory, freedom would have been an unusual reward since winning made the slave all the more valuable. Slaves could however earn money through riding, and Cato may indeed have been freed or purchased his own freedom by means of his respected skills." (Her note 32 cites Edward Hotaling, *The Great Black Jockeys*, 1999.)
+- **How the prose tells it:** the NKAA account, then Dallow's doubt with Hotaling's reason, both attributed. Accounts differ.
+
+### SEARCHED, NOT FOUND 2026-10-02 (T-486): did Cato stay enslaved, buy his wife's freedom, and train horses in Louisiana until Emancipation?
+Sources checked: NKAA "Cato (slave jockey)" (opened earlier: freed and kept riding for Campbell); Dallow 2013 (opened: no wife, no Louisiana); LOC sample of Hotaling, *The Great Black Jockeys* (opened: Cato named only as Wagner's rider); a web search for the wife and Louisiana claims returned no page that states them. Not used.
 - **Unnamed riders.** A Charleston race card for the Washington Race Course, 18 Feb 1846 (South Carolina Jockey Club,
   reproduced in the Forgotten Foundation packet): owners named (W. M. Myers, Wade Hampton, Pressley Shrover, Mr.
   Lowndes, N. Green, W. H. Sinkler), purse $1,000 for four-mile heats, and each rider listed only by the colors of
@@ -1171,6 +1185,11 @@ watched two horses race on Long Island."
   of which the school committee paid $3,000 (Lee). **Date conflict:** search summaries (Zakrzewska Wikipedia, Leisure
   Sciences 1983) say she visited Berlin and the first sand garden opened in 1885 (unconfirmed: search summary only).
   Lee (1902, opened) says 1886. Children's favorite games in the sand gardens: "house" and "funeral" (Lee).
+
+### PATCH 2026-10-02 (T-486): the Boston sand garden year, 1885 in a second source (accounts differ)
+- Playground and Recreation Association of America, "Recreation Movement in the United States" (January 1925), reprinted by the Social Welfare History Project, VCU Libraries, https://socialwelfare.library.vcu.edu/eras/civil-war-reconstruction/recreation-movement-in-the-united-states/ (opened 2026-10-02): "The first playground in the United States to offer recreational opportunity coupled with leadership was in 1885 when a large sandpile was placed in the yards of the Children's Mission on Parmenter Street in Boston through the efforts of the Massachusetts Emergency and Hygiene Association." "An average of fifteen connected with the chapel came three days a week though July and August." The idea came from Dr. Marie Zakrzewska's visit to Berlin.
+- A 1983 *Leisure Sciences* article (author not seen, not opened) is titled "The origin of the playground: The role of the Boston women's clubs, 1885–1890" (tandfonline listing, title only).
+- **Accounts differ:** Lee (1902) gives 1886 and three piles; PRAA (1925) gives 1885 and one large pile at Parmenter Street. The prose gives both, each attributed.
 - **Other cities (Lee 1902):** Philadelphia, 1893, two summer playgrounds by private donors, then 1895 the city
   councils opened school yards, four as sand gardens, $1,000. Providence 1894. New York: a summer playground in the
   back yard of the Nurses' Settlement, 1895. In 1897 Mayor Strong's small-parks committee (Abram S. Hewitt chairman,

@@ -302,6 +302,6 @@ Archaeologists at Mount Vernon found a small limestone marble at the House for F
 
 A reference book on leisure in America states that at fairs and on court days, the days when the county court met, poorer men ran footraces, wrestled, jumped and played football. They played for prizes such as a purse of money or a bottle of liquor, while wealthy people watched.
 
-In 1787 the printer Isaiah Thomas published *A Little Pretty Pocket-Book* in Worcester, Massachusetts, with its rhyme and picture of "Base-Ball." In 1791 the voters at a town meeting in Pittsfield, Massachusetts, passed a rule to protect the windows of their new meeting house, the town's main public building. They banned "any game of wicket, cricket, baseball, batball, football, cats, fives, or any other game played with ball" within 80 yards of the building. It is the oldest known use of the word "baseball" in America.
+In 1787 the printer Isaiah Thomas published *A Little Pretty Pocket-Book* in Worcester, Massachusetts, with its rhyme and picture of "Base-Ball." On 5 September 1791 the voters at a town meeting in Pittsfield, Massachusetts, passed a rule to protect the windows of their new meeting house, the town's main public building. They banned "any game of wicket, cricket, baseball, batball, football, cats, fives, or any other game played with ball" within 80 yards of the building. It is the oldest known use of the word "baseball" in America.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
