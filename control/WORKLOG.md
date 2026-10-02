@@ -4738,3 +4738,8 @@ VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+
+### 2026-10-02 | [LOCAL] T-467 | sports-play: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-sports-play.md
+VERIFY: python tools/project_state.py --check sports-play --stage prose
