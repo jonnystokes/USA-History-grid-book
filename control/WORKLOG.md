@@ -4842,3 +4842,8 @@ RESULT: DONE. PASS  rights-movements / prose. measured: stage=WRITTEN ms_eras=10
         496614 tokens, 232 tool uses, 23.7 min (opus). FIXER parts 1-2 [WAVE7G]: 227 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 23 found by fixer; Taino/Caonao/Lay acts sourced; Memphis 1866 per #36; rights-movements now fully fixed; 20,618 -> 22,897 words (parts 1-2)
 USAGE: WAVE8L straddled a reset; now 12% (Jon); weekly at 92%, ~60% of a window allowed. WAVE7G (T-473..T-479): war, native-nations, government-politics, crime-justice whole; rights-movements p1-2; religion p1; education p3. Est ~54%.
 AGENTS WAVE7G: T-473 a62d8e5569293cd77, T-474 ad3fd0a0ff45b36cb, T-475 a2d350475c06c0907, T-476 a318a78b82d7753fa, T-477 a44b9fb0eb2ff7c94, T-478 a04dae91805151eb6, T-479 a1cd89c4d66661f18
+
+### 2026-10-02 | [LOCAL] WAVE7G done: 7 opus fixers (T-473..T-479), all PASS (3.17M tokens). Usage at start 12% (Jon).
+Step 5: 34 chapters fixed whole (war, native-nations, government-politics, crime-justice, rights-movements now done).
+Left: religion parts 2-3, education parts 1-2. Then round 2 research (AUDIT-QUEUE + checkpoint NEEDS-RESEARCH lists;
+priority: DECISIONS #32 Hemings/Wayles wording).
