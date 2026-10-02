@@ -4693,3 +4693,8 @@ VERIFY: python tools/project_state.py --check big-business --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-immigration.md
 VERIFY: python tools/project_state.py --check immigration --stage prose
+
+### 2026-10-01 | [LOCAL] T-462 | exploration: FIXER opus, whole chapter [WAVE6M] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-exploration.md
+VERIFY: python tools/project_state.py --check exploration --stage prose
