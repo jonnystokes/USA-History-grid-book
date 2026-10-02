@@ -407,3 +407,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-464	prose	general-purpose/opus	[LOCAL] holidays: FIXER whole chapter [WAVE6M]: 312 FIXED, 10 REJECTED, 0 NEEDS-RESEARCH, 13 found	?	?	?	507990	207	1462950	?	completed	PASS  holidays / prose
 2026-10-01	T-460	prose	general-purpose/opus	[LOCAL] big-business: FIXER whole chapter [WAVE6M]: 216 FIXED, 27 REJECTED, 1 NEEDS-RESEARCH (+1), 23 	?	?	?	485077	292	1568103	?	completed	PASS  big-business / prose
 2026-10-01	T-462	prose	general-purpose/opus	[LOCAL] exploration: FIXER whole chapter [WAVE6M]: 241 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 9 found 	?	?	?	494582	332	1594403	?	completed	PASS  exploration / prose
+2026-10-01	T-463	prose	general-purpose/opus	[LOCAL] styles: FIXER whole chapter [WAVE6M]: 272 FIXED, 28 REJECTED, 2 NEEDS-RESEARCH, 2 found 	?	?	?	515319	333	1655535	?	completed	PASS  styles / prose

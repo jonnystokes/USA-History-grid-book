@@ -4706,9 +4706,11 @@ RESULT: DONE. PASS  exploration / prose. measured: stage=WRITTEN ms_eras=10/10 w
         494582 tokens, 332 tool uses, 26.6 min (opus). FIXER whole chapter [WAVE6M]: 241 FIXED, 20 REJECTED, 0 NEEDS-RESEARCH, 9 found by fixer; 5 of 6 T-316 questions answered; Peary 'deceived', Tiguex rape (#31), Sand Creek (#36), slur removed (#35); 20,180 -> 22,278 words
 
 ### 2026-10-01 | [LOCAL] T-463 | styles: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+RESULT: DONE. PASS  styles / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=16 (verified 16) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=18756w files=3 validator_errors=0
+        515319 tokens, 333 tool uses, 27.6 min (opus). FIXER whole chapter [WAVE6M]: 272 FIXED, 28 REJECTED, 2 NEEDS-RESEARCH, 2 found by fixer; Keckley rape stated (#31), Thomas killing per crime-justice (#36); 17,887 -> 19,978 words
 
 ### 2026-10-01 | [LOCAL] T-464 | holidays: FIXER opus, whole chapter [WAVE6M] | model opus
 STATUS: DONE
