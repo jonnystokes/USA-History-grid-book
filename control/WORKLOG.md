@@ -4619,3 +4619,8 @@ USAGE WAVE6: 49% -> 80% = 31% for 2.29M opus tokens in parallel (1.35% per 100k;
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
+
+### 2026-10-01 | [LOCAL] T-452 | marketplace: FIXER opus, whole chapter [WAVE8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-marketplace.md
+VERIFY: python tools/project_state.py --check marketplace --stage prose
