@@ -4881,3 +4881,5 @@ research leftovers (checkpoint NEEDS-RESEARCH lists + AUDIT-QUEUE; #32 first), t
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R4-slavery-freedom.md
 VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
+USAGE AT START (T-483, first round-2 research agent): 61% (Jon).
+AGENT: a3578e6a9415aefb9 (T-483)
