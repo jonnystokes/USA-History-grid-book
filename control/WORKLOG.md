@@ -4641,9 +4641,11 @@ CHECKPOINT: control/checkpoints/F5-technology.md
 VERIFY: python tools/project_state.py --check technology --stage prose
 
 ### 2026-10-01 | [LOCAL] T-456 | migration: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-migration.md
 VERIFY: python tools/project_state.py --check migration --stage prose
+RESULT: DONE. PASS  migration / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=15 (verified 15) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14429w files=3 validator_errors=0
+        364192 tokens, 229 tool uses, 16.6 min (opus). FIXER whole chapter [WAVE8]: 174 FIXED, 38 REJECTED, 2 NEEDS-RESEARCH, 10 found by fixer; Wilkerson details checked (1 replaced with real figures); Acoma per #31/#34/#36; 14,501 -> 15,535 words
 
 ### 2026-10-01 | [LOCAL] T-457 | work-workers: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: IN-FLIGHT
