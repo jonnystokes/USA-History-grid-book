@@ -4769,3 +4769,4 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-music.md
 VERIFY: python tools/project_state.py --check music --stage prose
 USAGE: WAVE6M ended at 97% (Jon). WAVE8L (T-465..T-472: 2 medium + 6 large) at 8% (Jon), target ~80%.
+AGENTS WAVE8L: T-465 a4e5c0a46ee5988bb, T-466 a77493dc1ad1af7dd, T-467 afe58d2f086c5e7ea, T-468 acba9ac92ae5ea753, T-469 a6bd356ed21f591ce, T-470 a519e6876d163cfbd, T-471 aa14a84f015e28b9d, T-472 ad57e0c6a29047c87
