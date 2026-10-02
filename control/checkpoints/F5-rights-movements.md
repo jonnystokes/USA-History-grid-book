@@ -1,6 +1,6 @@
 # CHECKPOINT F5 | rights-movements | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-477 landed (director verified: PASS  rights-movements / prose)
+STATUS: DONE: part3 T-444, parts 1-2 T-477
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/rights-movements/part1|part2|part3 + control/audit/rights-movements/part1|2|3-findings-sonnet.md
         + research/research-rights-movements.md (PATCH entries only)
