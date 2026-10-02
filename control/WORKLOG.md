@@ -4653,8 +4653,10 @@ CHECKPOINT: control/checkpoints/F5-work-workers.md
 VERIFY: python tools/project_state.py --check work-workers --stage prose
 
 ### 2026-10-01 | [LOCAL] T-458 | elements: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
+RESULT: DONE. PASS  elements / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=10 (verified 10) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16419w files=3 validator_errors=0
+        378665 tokens, 225 tool uses, 16.7 min (opus). FIXER whole chapter [WAVE8]: 148 FIXED, 14 REJECTED, 0 NEEDS-RESEARCH, 11 found by fixer; Radium 1928 settlement corrected; 15,746 -> 17,431 words
 WAVE8 (T-451..T-458, 8 opus whole-chapter fixers, the remaining small chapters) at fresh window (Jon: ~half the window). WAVE6 measured ~5.2% per small-chapter fixer.
 AGENTS WAVE8: T-451 aa082d4eb8b347a09, T-452 a1ee56d0c7a91387d, T-453 ae838cb6a97a02759, T-454 aee08a882aa9fe0da, T-455 ad11ae4b575db7168, T-456 ad18b0ef0ce7f3851, T-457 a6b68502bf45d291f, T-458 abc4dff4d3004d4f5
