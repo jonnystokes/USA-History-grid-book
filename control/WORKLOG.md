@@ -4826,9 +4826,11 @@ RESULT: DONE. PASS  religion / prose. measured: stage=WRITTEN ms_eras=10/10 writ
         398535 tokens, 234 tool uses, 15.8 min (opus). FIXER part1 only [WAVE7G]: 161 FIXED, 11 REJECTED, 0 NEEDS-RESEARCH, 5 found by fixer; Acoma added per #36; Quaker ear-cutting reconciled; 13,552 -> 14,837 words
 
 ### 2026-10-02 | [LOCAL] T-479 | education: FIXER opus, part3 only [WAVE7G] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=42392w files=3 validator_errors=0
+        421226 tokens, 271 tool uses, 21.5 min (opus). FIXER part3 only [WAVE7G]: 113 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 25 found by fixer; Hardin testimony read in the 1914 scan: quotes real, kept and banked; 24,243 -> 25,721 words
 
 ### 2026-10-02 | [LOCAL] T-477 | rights-movements: FIXER opus, parts 1-2 [WAVE7G] | model opus
 STATUS: IN-FLIGHT

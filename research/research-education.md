@@ -1483,6 +1483,31 @@ Source: **Ruth Y. Okimoto, "Sharing a Desert Home: Life on the Colorado River In
 - **Pop Warner was Carlisle's football coach:** "Coached at Carlisle Indian Industrial School by Glenn 'Pop' Warner" (`research/research-sports-play.md` era 8, sourced there to Wikipedia "Jim Thorpe" and Adams, NMAI).
 - **The Great Depression:** by 1933 about one worker in four had no job (a later estimate; no monthly count existed then). (`research/research-economy.md`, sourced there to the FDR Library "Great Depression Facts".)
 
+### PATCH 2026-10-02 (T-479): Julia Hardin's testimony, re-read word for word (corrects a checker's "invented quote" finding)
+Source: the same scanned testimony as the T-328b PATCH above (Dickinson, `NARA_RG75_CCF_b007_f06_10144_Julia_Hardin_Testimony.pdf`, downloaded and read in full with pypdf on 2026-10-02, printed pp. 159-170).
+- **Sworn:** the transcript opens "The witness was duly sworn by the Chairman." So "under oath" is sourced.
+- **The outing agent signed her up:** "the outing agent came to me and asked me if I wanted to go to the country ... She said, 'Come and sign, and we will look up your country home.' I said, 'Wait until I get a trunk and some clothes.'"
+- **Stauffer said he would "stand the responsibility" twice** (first "I am going to give you a sound thrashing, and I will stand the responsibility"; then, answering how the whipping began, "why he said, 'I will stand the responsibility.'"). Then, word for word (p. 163): **"And Miss Ridenour said, 'Yes, go ahead.' And he said, 'Shall I whip her some more?' He said, 'Well, I will stand it; I will not let her get ahead of me.'"** The question "Shall I whip her some more?" is in the testimony. The T-328b PATCH left it out.
+- Afterward Mr. Whitwell "spoke in a nice way, and said, 'Come on Julia; come over and sign this check and go to the country, and show them you are a lady.'" She signed.
+- **The family:** "Merchantville, N.J.; Mr. and Mrs. Crawford." "They treated me nice." On arrival (p. 168): "my country people knew all about this, and when I arrived there she told me, she said, 'Julia, we will have to go rather hard on you.' I said, 'Why is that?' She said, 'Because we have a report from school that you had some trouble in coming out here.'" Asked who sent the report: "They never said." The quote is real and is the woman of the house's own words. **Who at the school sent the report is not stated.**
+- "He must have thrown me down five or six times." Asked about marks: "He did when he hit me on my face."
+- **The outing agent was Lida M. Johnston** (bracketed correction in the transcript; Hardin says "Miss Johnson"). She came to the Crawfords' house on the second day and "tried to explain the troubles I had"; the woman said, "I don't want to hear anything about it. Julia has always been good."
+
+### PATCH 2026-10-02 (T-479): what the children did at the Dewey school (Mayhew and Edwards)
+Source: Mayhew and Edwards, *The Dewey School* (1936), the archive.org OCR text already cited in §8b (`deweyschoolthela008095mbp_djvu.txt`, fetched directly from ia800504.us.archive.org on 2026-10-02 and searched).
+- "All the children (boys and girls being treated alike) have cooking, sewing, and carpentry, besides incidental work with paper and pasteboard. From one to two hours a week are given to sewing, cooking, and carpentry respectively. Each group of children prepares its own luncheon once a week, being responsible for the setting of the table, reception of guests, and the serving of the meal."
+- "Carpentry, cooking, sewing, and weaving" are named together as the school's occupations. The book's illustrations include "Weaving in the textile studio" and "Gardening for the younger groups."
+- "The primary skills, in reading, writing, and numbers, were to grow out of the needs and the results of activities."
+
+### PATCH 2026-10-02 (T-479): who chose Carrie Buck as the test case
+Source: Encyclopedia Virginia, "Carrie Buck (1906-1983)" (https://encyclopediavirginia.org/entries/buck-carrie-1906-1983/ , read directly 2026-10-02): "Shortly after Buck's commitment, Albert S. Priddy, superintendent and physician at the colony, selected her to be the subject of the test case for the constitutionality of Virginia's recently enacted involuntary sterilization statute." John H. Bell became superintendent "following Priddy's death in 1925," and the case reached the Supreme Court in April 1927.
+
+### PATCH 2026-10-02 (T-479): who sent Martha Lum home (Gong Lum v. Rice, the opinion's own statement of the facts)
+Source: *Gong Lum v. Rice*, 275 U.S. 78 (1927), text at https://www.law.cornell.edu/supremecourt/text/275/78 (read 2026-10-02). The petition stated that "at the opening of the school she appeared as a pupil, but at the noon recess she was notified by the superintendent that she would not be allowed to return to the school," and that "an order had been issued by the board of trustees ... excluding her from attending the school solely on the ground that she was of Chinese descent," made "in pursuance to instructions from the state superintendent of education of Mississippi." Her father, Gong Lum, was a taxpayer who helped support the school.
+
+### PATCH 2026-10-02 (T-479): who could join the United Daughters of the Confederacy
+Source: Encyclopedia Virginia, "United Daughters of the Confederacy" (already cited in §8g-2, read directly 2026-10-02): founded 10 September 1894 in Nashville "by Caroline Meriwether Goodlett and Anna Mitchell Davenport Raines as a national 'federation of all Southern Women's Auxiliary, Memorial, and Soldiers' Aid Societies.'" "Membership in the UDC was therefore reserved for women sixteen years of age and older who could prove to be the descendants of 'men and women who served honorably in the Army, Navy or Civil Service of the Confederate States of America, or gave Material Aid to the Cause.'" The entry read does not use the word "white"; do not add it without a source.
+
 ---
 
 # PART D-FWD — parked forward for the eras 9-10 agents
@@ -2846,6 +2871,15 @@ Every fact in `ruby-bridges`, `peter-mills-education` and `dejonge-family-homesc
 - **Peter Mills: "The school board's answer was partly that it did not have the money."** Disability Justice, "The Right to Education," https://disabilityjustice.org/basic-legal-rights/right-to-education/ (curl works), summarising *Mills*: the defendants accepted the duty to provide "such instruction" "but argued that it was impossible to do so because they lacked the necessary financial resources." The court's own words, quoted on that page and by AUCD (https://aucdpolicytalk.org/2025/07/31/celebrating-mills-and-the-families-who-won-this-important-case/ ): "If sufficient funds are not available to finance all of the services and programs that are needed and desirable in the system, then the available funds must be expended equitably in such a manner that no child is entirely excluded from a publicly supported education consistent with his needs and ability to benefit therefrom." The case was filed on **24 September 1971** (Civil Rights Litigation Clearinghouse, https://clearinghouse.net/case/11084/ ), which supports "later that year."
 - Every other fact in the three blocks matches its bank section.
 
+### PATCH 2026-10-02 (T-479): Sputnik, the date
+Source: U.S. Department of State, Office of the Historian, "Sputnik, 1957" (https://history.state.gov/milestones/1953-1960/sputnik , read with curl 2026-10-02): "On October 4, 1957, the Soviet Union launched the earth's first artificial satellite, Sputnik-1. The successful launch came as a shock to experts and citizens in the United States, who had hoped that the United States would accomplish this scientific advancement first."
+
+### PATCH 2026-10-02 (T-479): Sal Castro was one of the thirteen arrested
+Source: Wikipedia, "Sal Castro" (raw text read 2026-10-02), citing the *Los Angeles Times* obituaries of 15-16 April 2013 (Elaine Woo; Teresa Watanabe): "In the wake of the demonstrations, Castro was arrested and charged with 15 counts of conspiracy to disrupt public schools and 15 counts of conspiracy to disturb the peace. Twelve others, many of whom were Brown Berets members, were also arrested and charged. The charges were dropped in 1972." Born 25 October 1933, died 15 April 2013. Wikipedia only; a round-2 agent may confirm in the LA Times.
+
+### PATCH 2026-10-02 (T-479): who disputed *A Nation at Risk* (the Sandia report)
+Source: ERIC records EJ463876 and EJ471787 (ERIC API, read 2026-10-02). Robert M. Huelskamp, "Perspectives on Education in America," 1993: "Describes Sandia National Laboratories' wide-ranging analysis of local, state, and national education systems. On most measures (dropout and retention rates, standardized test scores, higher education enrollment, education spending, international comparisons, educator status, and work-force skills), lab found steady or slight improvement." The full report, by C. C. Carson and others, was printed in 1993 as "Perspectives on Education in America. An Annotated Briefing." Use this to name who argued with the commission's picture of decline.
+
 
 # PART F — Era 10, researched (2000-Today)
 
@@ -3609,6 +3643,23 @@ Each item says what changed, or that nothing newer exists. **Corrections below o
 ### PATCH 2026-09-30 (T-328c): Arredondo's trial date
 
 - "Arredondo's court date has been set for February 22, 2027, according to his attorney's office." "He faces 10 counts of abandoning or endangering a child." (FOX 7 Austin, 16 June 2026, https://www.fox7austin.com/news/uvalde-school-shooting-pete-arredondo-court-date , read 2026-09-30.) This confirms the T-261e patch's 2027 date. A federal hearing on Border Patrol testimony was postponed by flooding in July 2026 (search summary only).
+
+### PATCH 2026-10-02 (T-479): which groups No Child Left Behind made states report
+Source: the act itself, Public Law 107-110, govinfo (https://www.govinfo.gov/content/pkg/PLAW-107publ110/html/PLAW-107publ110.htm , read with curl 2026-10-02), new section 1111(b)(3)(C)(xiii): state tests must "enable results to be disaggregated within each State, local educational agency, and school by gender, by each major racial and ethnic group, by English proficiency status, by migrant status, by students with disabilities as compared to nondisabled students, and by economically disadvantaged students as compared to students who are not economically disadvantaged." Science testing was to begin "not later than school year 2007-2008."
+
+### PATCH 2026-10-02 (T-479): what the Every Student Succeeds Act kept and changed
+Source: the act, Public Law 114-95, govinfo (https://www.govinfo.gov/content/pkg/PLAW-114publ95/html/PLAW-114publ95.htm , read with curl 2026-10-02). Tests in mathematics and reading must still "be administered ... in each of grades 3 through 8; and ... at least once in grades 9 through 12," and science once in each of grades 3-5, 6-9 and 10-12. Each state plan "shall describe a statewide accountability system" and must "Establish ambitious State-designed long-term goals ... for all students and separately for each subgroup of students" (economically disadvantaged students, students from major racial and ethnic groups, children with disabilities, English learners). NCLB's single national deadline (all students proficient by 2013-14) is replaced by goals each state designs. (ed.gov's ESSA page now sits behind a bot challenge and was not read again.)
+
+### PATCH 2026-10-02 (T-479): Uvalde, the two adults killed were teachers
+Source: Wikipedia, "Uvalde school shooting" (raw text read 2026-10-02): "Nineteen students and two teachers were killed in the shooting," citing the Houston Chronicle, KTRK and NPR victim lists; Associated Press headline of 25 May 2022, "Gunman kills 19 children, 2 adults in Texas school rampage"; CNBC, "Details emerge in killing of 19 children, 2 teachers." The DOJ report's "two staff" and "two teachers" describe the same two people. One teacher was Eva Mireles.
+
+### PATCH 2026-10-02 (T-479): Florida Senate Bill 296 (2025) became law
+Source: Florida Senate bill page, https://www.flsenate.gov/Session/Bill/2025/296 (read with curl 2026-10-02): "Signed by Officers and presented to Governor" 16 May 2025; "Approved by Governor" 21 May 2025; "Chapter No. 2025-53"; effective date 1 July 2025. This settles the earlier note that the signing was not confirmed.
+
+### PATCH 2026-10-02 (T-479): named studies on testing and on vouchers
+- **No Child Left Behind:** Thomas S. Dee and Brian Jacob, "The Impact of No Child Left Behind on Student Achievement," *Journal of Policy Analysis and Management*, 2011 (ERIC EJ938589; NBER Working Paper 15531, ERIC ED507267; abstract read through the ERIC API 2026-10-02). They call the law's effect "a highly controversial but centrally important question." Using NAEP: "NCLB generated statistically significant increases in the average math performance of fourth graders (effect size = 0.23 by 2007)," with "evidence of improvements in eighth-grade math achievement, particularly among traditionally low-achieving groups," but "no evidence that NCLB increased fourth-grade reading achievement."
+- **Vouchers, Louisiana:** Jonathan N. Mills and Patrick J. Wolf, "The Effects of the Louisiana Scholarship Program on Student Achievement after Two Years," Louisiana Scholarship Program Evaluation Report #1, 2016 (ERIC ED574515): using a scholarship to enroll in a private school "has negatively impacted both ELA and math achievement, although only the latter estimates are statistically significant," with "less negative" estimates in the second year. Anna J. Egalite, "The Competitive Effects of the Louisiana Scholarship Program on Public School Performance," Evaluation Report #4, 2016 (ERIC ED574518): effects on the public schools facing competition were "neutral to positive" and "small in magnitude," largest in the schools "most affected by the competitive threat."
+- How many voucher and ESA users were already in private schools: still not sourced. Not printed.
 
 ---
 
