@@ -4687,9 +4687,11 @@ RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10
         450053 tokens, 259 tool uses, 21.3 min (opus). FIXER whole chapter [WAVE6M]: 244 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 partial), 27 found by fixer; ~20 PATCHes; prose 15,577 -> 16,922 words
 
 ### 2026-10-01 | [LOCAL] T-460 | big-business: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-big-business.md
 VERIFY: python tools/project_state.py --check big-business --stage prose
+RESULT: DONE. PASS  big-business / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=14 (verified 14) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=17680w files=3 validator_errors=0
+        485077 tokens, 292 tool uses, 26.1 min (opus). FIXER whole chapter [WAVE6M]: 216 FIXED, 27 REJECTED, 1 NEEDS-RESEARCH (+1), 23 found by fixer; 1619 arrival corrected; 17,020 -> 18,748 words
 
 ### 2026-10-01 | [LOCAL] T-461 | immigration: FIXER opus, whole chapter [WAVE6M] | model opus
 STATUS: IN-FLIGHT
