@@ -4634,3 +4634,8 @@ VERIFY: python tools/project_state.py --check land-environment --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-city-building.md
 VERIFY: python tools/project_state.py --check city-building --stage prose
+
+### 2026-10-01 | [LOCAL] T-455 | technology: FIXER opus, whole chapter [WAVE8] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-technology.md
+VERIFY: python tools/project_state.py --check technology --stage prose
