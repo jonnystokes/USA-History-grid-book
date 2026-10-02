@@ -4821,3 +4821,8 @@ VERIFY: python tools/project_state.py --check religion --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+
+### 2026-10-02 | [LOCAL] T-477 | rights-movements: FIXER opus, parts 1-2 [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-rights-movements.md
+VERIFY: python tools/project_state.py --check rights-movements --stage prose
