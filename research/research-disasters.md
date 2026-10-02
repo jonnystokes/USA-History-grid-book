@@ -40,6 +40,11 @@ Eras 01 to 03 researched by T-264a, eras 04 and 05 and the bank check of eras 01
 - Named people: none. No individual is documented for any of these events, so the era carries no story block (hb-story is for named people only).
 - Hurricanes and river floods before 1500 happened, but no source in hand documents a specific event with people in it. Not padded.
 
+### PATCH 2026-10-02 (T-469): what filled Crater Lake, and where two places are
+- NPS, "Crater Lake," Crater Lake National Park (https://www.nps.gov/crla/learn/nature/crater-lake.htm, opened with WebFetch 2026-10-02): after the collapse, "rain and snow partially filled the caldera" over "several hundred years." "Evaporation and seepage" keep the lake from filling beyond an average depth of 1,943 feet.
+- Crow Canyon Archaeological Center, "Getting Here" (https://crowcanyon.org/getting-here/, search result page 2026-10-02): the campus is about 4 miles northwest of Cortez, in southwestern Colorado (address 23390 Road K, Cortez, CO 81321).
+- Chaco Canyon is in New Mexico: copied from `research/research-native-nations.md` line 16 ("Chaco Canyon (New Mexico) ... began breaking up ~1140 after severe droughts, largely left by the end of the 1100s"; History.com, Discover, National Geographic via the ch03 bank).
+
 ## 02 · The 1500s
 
 ### The Luna colony and the hurricane of September 19 to 20, 1559 (story `tristan-de-luna-disasters`, marked verified: the facts below back it)
@@ -89,6 +94,9 @@ How the prose can say it: "No record gives the number who drowned. Most were sai
 - The outline places the Timucua flaming arrows (1566) beside the April 1, 1566 fire. The Florida Museum timeline does not say what started the April 1 fire, and the "Colonization and Conflict" page does not tie the arrows to that date.
 - **SEARCHED, NOT FOUND:** the cause of the April 1, 1566 fire at St. Augustine. Sources checked: Florida Museum Menéndez timeline, "Colonization and Conflict," "Disasters and Rebuilding" (all opened by T-264a). How the prose can say it: "That year Timucua warriors shot flaming arrows at the fort. On April 1 the fort was half burned. The records do not say whether the arrows started that fire." The outline's two separate sentences already avoid claiming a cause. A writer must not join them into one cause.
 - The Luna colonists who died "as a result of Native attacks" (Worth 2021): the attackers are not named by nation in the sources opened. Worth places the colonists at Nanipacana, in the province of Piachi, whose people had left the town.
+
+### PATCH 2026-10-02 (T-469): St. Augustine's founding, and why the Timucua shot at the fort
+- Copied from `research/research-exploration.md` line 129 (Florida Museum of Natural History, "First Contacts" and "Colonization and Conflict," https://www.floridamuseum.ufl.edu/staugustine/timeline/colonization-and-conflict/, opened 2026-09-27): Pedro Menéndez de Avilés and about 800 colonists made their first settlement at the town of Seloy, a Timucua chief, in September 1565. "The Timucua, tired of the Spaniards in their community, fired flaming arrows at the fort in 1566." Also `research/research-city-building.md` lines 33 and 42 (landed September 8, 1565).
 
 ### What era 02 leaves to other chapters
 - The 1565 hurricane that wrecked Ribault's fleet and the Matanzas killings: `war` (outline line 60).
@@ -142,6 +150,12 @@ How the prose can say it: "No record gives the number who drowned. Most were sai
 ### PATCH 2026-09-27 (T-264r): the 1638 earthquake's modern date and size
 - Weston Observatory, Boston College, "New England Historical Earthquake Atlas" (http://aki.bc.edu/quakes_historical.htm, opened with a script 2026-09-27): "1638 Magnitude 6.5 June 11, 1638, 2:00 p.m. Central New Hampshire: The location and damage levels are very uncertain because settlements were sparse and reports were few. Shaking was felt strongly along the St. Lawrence River in Canada and in Boston ... Aftershocks were felt for 20 days in eastern Massachusetts."
 - **Calendar:** June 11 is the Gregorian date. Bradford's "aboute ye 1. or 2. of June" is the Julian date the colonists used. They agree.
+
+### PATCH 2026-10-02 (T-469): Bradford's office, Thacher Island, the swab pole, and what a magnitude step means
+- Britannica, "William Bradford" (https://www.britannica.com/biography/William-Bradford-Plymouth-colony-governor, search result page 2026-10-02): after Governor John Carver died in April 1621, Bradford "was elected governor of Plymouth Colony" and served, except for five years, until shortly before his death in 1657. Britannica does not list which five years he was out of office, so the prose says "the longtime governor of Plymouth Colony" rather than tying the office to 1635.
+- Thacher & Straitsmouth Islands Association, "Thacher Island" (https://thacherisland.org/thacher-island/, opened with WebFetch 2026-10-02): "Of the 23 passengers and crew, only Anthony Thacher and his wife, Elizabeth (Jones) Thacher, survived." On September 3, 1635 the General Court awarded him 40 marks and then granted him the island "at the head of Cape Ann, as his inheritance." The island is still called Thacher Island, part of the town of Rockport (same page; Wikipedia "Thacher Island", search summary: named for Anthony Thacher and his wife).
+- Mass Moments, "Boston Burns" (https://www.massmoments.org/moment-details/boston-burns.html, opened with WebFetch 2026-10-02): "Immediately following the first great blaze in 1653, officials decreed that each house be equipped with a ladder to reach the roof, poles with swabs to snuff out sparks, and other tools to fight fires." This sources the gloss of "swab pole": a pole with a swab (a mop) on the end, used to put out sparks on roofs.
+- USGS, "Earthquake Magnitude, Energy Release, and Shaking Intensity" (https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity, opened with WebFetch 2026-10-02): "each whole number increase in magnitude represents a tenfold increase in measured amplitude" and about "32 times more energy release."
 
 ### What era 03 leaves out, and why
 - 1600s epidemics among Native nations: `health` leads.
@@ -230,6 +244,11 @@ How the prose can say it: "No one counted the dead. The Native nations of the co
 - New Orleans and Newbury: not researched here. `city-building` and `native-nations` hold the founding of New Orleans.
 - These towns were settled before this era. The disaster spans do not need a land sentence, and the outline gives none.
 
+### PATCH 2026-10-02 (T-469): the 1715 fleet's departure, Boston's fire wards, the Union bags
+- **Departure, a dispute to record:** 1715 Fleet Society, "History" (https://1715fleetsociety.com/history/, opened with WebFetch 2026-10-02): the fleet "sailed from Havana harbor in the early morning of July 24th," homeward bound to Spain. NOAA AOML hurricane blog (Griffin-Elliott 2015, opened with WebFetch 2026-10-02): "the fleet of twelve ships didn't leave Havana harbor until July 27, 1715," carrying treasure "to be shipped to Cadiz." Prose gives both dates, attributed.
+- **Fire wards:** Wikipedia, "Boston Fire Department" (opened with WebFetch 2026-10-02): "On February 1, 1711, the town appointed a group of Fire Wards, each responsible for the operation and maintenance of equipment assigned to a region of the city." (February 1711 old style is February 1712 by today's reckoning, a few months after the October 1711 fire, which matches the BPL guide.)
+- **The Union Fire Company bags:** copied from `research/research-city-building.md` line 85 (PATCH T-454, USHistory.org, "Franklin's Philadelphia: Union Fire Company"): members kept "leather buckets, with strong bags and baskets (for packing and transporting goods), which were to be brought to every fire."
+
 ### What era 04 leaves out, and why
 - Smallpox in Boston, 1721, and other epidemics: `health`.
 - The Stono uprising, 1739: `slavery-freedom`.
@@ -291,6 +310,10 @@ How the prose can say it: "British soldiers and sailors killed a few men they su
 - **Manumission** means freeing an enslaved person by a legal paper. **Movie:** none found.
 - Checked: no other outline or manuscript tells Will or the St. Philip's rescue (grep for "St. Philip", "Lining", 2026-09-27).
 
+### PATCH 2026-10-02 (T-469): the weather behind the New York fire of 1776
+- Wikipedia, "Great Fire of New York (1776)" (opened with WebFetch 2026-10-02): "Abetted by dry weather and strong winds, the flames spread north and west, moving rapidly among tightly packed homes and businesses." The fire "was stopped by changes in wind direction as much as by the actions of some of the citizenry and British marines."
+- **SEARCHED, NOT FOUND (T-469):** the date of the 1779 Gálvez hurricane and where his ships lay. Only 64 Parishes was opened (no day, no place). The prose gives neither.
+
 ### What era 05 leaves out, and why
 - Yellow fever in Philadelphia, 1793: `health`.
 - The siege of Pensacola, 1781: `war`.
@@ -349,6 +372,9 @@ How the prose can say it: "Reports of the time counted fewer than 100 deaths on 
 
 ### PATCH 2026-09-30 (T-320a): the Pulaski's route
 - Wikipedia, "Steamship Pulaski disaster" (opened with WebFetch 2026-09-30): the ship ran "from Savannah, Georgia, to Baltimore, Maryland." "The packet steamer Pulaski, bound for Baltimore, Maryland, departed Charleston, South Carolina on June 14, 1838." Rebecca Lamar's account says the ship sailed from Savannah. So: Savannah, a stop at Charleston, then north for Baltimore.
+
+### PATCH 2026-10-02 (T-469): the Erie's route
+- Wikipedia, "Erie (steamship, sank 1841)" (opened with WebFetch 2026-10-02): the *Erie* "ferried passengers between Buffalo, New York, and Chicago, Illinois, and other harbors on Lake Michigan." On August 9, 1841 it was loaded at Buffalo harbor. "The painters were only planning to take the Erie until its first stop, in Pennsylvania." The article does not state the last voyage's final destination, so the prose gives the boat's usual route, not a destination for that night.
 
 ### What era 06 leaves out, and why
 - The Donner Party, 1846 to 1847: `exploration` and `migration` (a slow starvation, not a sudden calamity).
@@ -442,6 +468,13 @@ How the prose can say it: "South Carolina politicians and newspapers pushed the 
 - **Wikipedia, "Clara Barton National Historic Site"** (opened 2026-09-27): the Glen Echo house (built 1891) "was partially constructed from lumber salvaged from emergency buildings built by the Red Cross at Johnstown"; she lived there 1897 to 1912.
 - Sea Islands 1893 and Galveston 1900: Red Cross dates page. Resignation May 14, 1904 "in the wake of mounting criticism": `research/research-health.md` (NPS chronology).
 - `health` tells Barton at Antietam (story `clara-barton-health`). This story tells only her disaster relief. **Movie:** none verified.
+
+### PATCH 2026-10-02 (T-469): Chicago's wood and wind, the Red Cross's city, the Signal Service, the 1888 blizzard details, Johnstown's rain
+- **Chicago 1871:** Wikipedia, "Great Chicago Fire" (opened with WebFetch 2026-10-02): "More than two-thirds of the structures in Chicago at the time of the fire were made entirely of wood, with most of the houses and buildings being topped with highly combustible tar or shingle roofs." "Chicago received only 1 inch (25 mm) of rain from July 4 to October 9, causing severe drought conditions before the fire, while strong southwest winds helped to carry flying embers toward the heart of the city."
+- **Red Cross founding place:** VCU Libraries, Social Welfare History Project, "American Red Cross" (https://socialwelfare.library.vcu.edu/organizations/american-red-cross/, opened with WebFetch 2026-10-02): "Clara Barton and a circle of acquaintances founded the American Red Cross in Washington, D.C. on May 21, 1881."
+- **Signal Service:** NWS, "Evolution of the National Weather Service" (https://www.weather.gov/timeline, opened with WebFetch 2026-10-02): the new weather service was "born within the U.S. Army Signal Service's Division of Telegrams and Reports for the Benefit of Commerce." The page gives no date for the first storm warning.
+- **1888 blizzard:** Census Bureau, Gauthier 2026 (era 07 entry, reopened with WebFetch 2026-10-02): "In Huron, Dakota Territory, the temperature rose into the 40s°F and many children left for school without winter coats." Royce: "Blinded by the wind-driven snow they lost their way. When searchers found them the next morning, the children had perished and Royce's limbs were frostbitten." The page does not say how the children died; it says they were found dead the next morning after a night in the blizzard.
+- **Johnstown rain:** Wikipedia, "Johnstown Flood" (opened with WebFetch 2026-10-02): a storm that formed May 28, 1889 reached western Pennsylvania two days later as "the heaviest rainfall event that had ever been recorded in that part of the United States." "The U.S. Army Signal Corps estimated that 6 to 10 inches (150 to 250 mm) of rain fell in 24 hours over the region."
 
 ### What era 07 leaves out, and why
 - Avondale mine fire, 1869, and mine explosions: `energy` and `work-workers` (sourced in `research/research-energy.md`, EARTH Magazine). A pointer line only.
@@ -568,6 +601,16 @@ How the prose can say it: "Mayor Eugene Schmitz ordered soldiers and police to k
 - The Cuyahoga River fire of 1912 and the Golden Gate Bridge scaffold fall of 1937: parked but not re-verified in the time given.
 - The Hartford circus fire (1944), the 1925 Tri-State Tornado and the 1935 Labor Day hurricane in the Florida Keys (with its World War I veterans' camps): not researched in the time given. A later pass should consider the Labor Day hurricane (veterans left in camps without evacuation).
 
+### PATCH 2026-10-02 (T-469): era 08 details checked on the source pages
+- **Eastland:** Wikipedia, "SS Eastland" (opened with WebFetch 2026-10-02): the ship "was tied to a dock in the Chicago River" between Clark and LaSalle Streets. By 7:10 a.m. "the ship had reached her capacity of 2,500 passengers." The court "refused extradition, holding that the evidence was too weak, with 'barely a scintilla of proof' to establish probable cause," because the four company officers "were not aboard the ship." The page's account (as summarized by the fetch) says the men were never sent to Illinois for trial. No judge is named in the fetched text.
+- **1927, Caernarvon:** Wikipedia, "Great Mississippi Flood of 1927" (opened with WebFetch 2026-10-02): the dynamiting "was intended to prevent New Orleans from suffering serious damage."
+- **New London:** Wikipedia, "New London School explosion" (opened with WebFetch 2026-10-02): "Gas had been leaking from the residue line tap and built up inside the enclosed crawlspace that ran the entire 253-foot (77 m) length of the main school building's facade." "Students had been complaining of headaches for some time, but little attention had been paid to the issue."
+- **Hindenburg:** Wikipedia, "Hindenburg disaster" (opened with WebFetch 2026-10-02): "the landing was being filmed by cameramen from four newsreel teams," Pathé News, Movietone News, Hearst News of the Day and Paramount News, but "no footage or photographs are known to exist of the moment the fire started."
+- **Cocoanut Grove:** Wikipedia, "Cocoanut Grove fire" (opened with WebFetch 2026-10-02): "Bodies piled up behind both sides of the revolving door, jamming it until it broke." Other unlocked doors "opened inwards, rendering them useless against the crush of people trying to escape."
+- **Texas City:** Wikipedia, "Texas City disaster" (opened with WebFetch 2026-10-02): "Flying shrapnel resulted in ignition of refineries and chemical tanks along the waterfront." The Monsanto plant beside the slip "suffered the brunt of the first explosion." "Seven ruptured oil tanks at the Republic Refinery began to burn."
+- **St. Francis Dam:** Wikipedia, "St. Francis Dam" (opened with WebFetch 2026-10-02): in "San Francisquito Canyon in northern Los Angeles County," about 40 miles northwest of downtown Los Angeles.
+- **Dennis T. Sullivan:** Wikipedia, "Dennis T. Sullivan" (opened with WebFetch 2026-10-02): "mortally injured by the 1906 earthquake when an adjacent building collapsed onto his firehouse residence." He died April 22, 1906.
+
 ### PATCH 2026-09-27 (T-264b, bank check): the St. Francis Dam coroner's jury and Mulholland's words
 - **Verdict of the Coroner's Jury, Los Angeles, April 12, 1928**, transcribed on SCVHistory.com (https://scvhistory.com/scvhistory/sfdcoronersverdict.htm, opened 2026-09-27): the dam's failure "involved two basic errors. One of these was an error in engineering judgment in determining the character of the foundations ... The other was an error in regard to fundamental policy relating to public safety. The responsibility for the error in engineering judgment rests upon the Bureau of Water Works and Supply and the Chief Engineer thereof. The responsibility for the error in public policy belongs to those to whom the Chief Engineer is subservient, including the Department of Water and Power Commissioners, the legislative bodies of city and state, and to the public at large." "the construction and operation of a great dam should never be left to the sole judgment of one man, no matter how eminent." "We, the Jury, find no evidence of criminal act or intent ... and we recommend that there be no criminal prosecution."
 - **Paul R. Spitzzeri, "'The Only Ones I Envy Are Those That Are Dead,'" Homestead Museum blog, March 21, 2021** (opened 2026-09-27): at the inquest on March 21, 1928, the *Express* reported Mulholland said "the only ones I envy are those who are dead"; the *Los Angeles Times* printed "on an occasion like this I envy the dead."
@@ -693,6 +736,14 @@ How the prose can say it: "The company paid money to survivors. The records show
 ### SEARCHED, NOT FOUND 2026-09-27 (T-264c): Which Chicago city officials decided not to issue a heat emergency warning until the last day of the July 1995 heat wave?
 Sources checked: Wikipedia "1995 Chicago heat wave" ("City officials did not release a heat emergency warning until the last day," no names); NPR/WBEZ 2020 Donoghue interview (Daley "was not informed ... until Saturday night or Sunday morning," "whoever was in charge wasn't given the permission"); search summaries (Sun-Times, Chicago magazine oral history, no named decision-maker).
 How the prose can say it: "City officials did not issue a heat emergency warning until the last day. The records do not say who made that choice. The medical examiner said later that Mayor Richard M. Daley was not told until the weekend."
+
+### PATCH 2026-10-02 (T-469): era 09 details checked on the source pages
+- **Air Florida Flight 90:** Wikipedia, "Air Florida Flight 90" (opened with WebFetch 2026-10-02): it took off from "Washington National Airport (now Ronald Reagan Washington National Airport)." "Tirado, seriously injured and blinded by jet fuel, was too weak to grab the line when the helicopter returned to her." Skutnik "stripped off his coat and boots, and in short sleeves, dove into the icy water and swam out to successfully pull her to shore." "The rescue attempts by emergency officials and witnesses were recorded and broadcast live by area news reporters."
+- **Loma Prieta:** Wikipedia, "1989 Loma Prieta earthquake" (opened with WebFetch 2026-10-02): "centered in The Forest of Nisene Marks State Park in Santa Cruz County, California, approximately 10 miles (16 km) northeast of Santa Cruz." At the Cypress Street Viaduct "the upper deck fell on the lower deck. Forty-two people were crushed to death in their cars."
+- **Chenega:** Wikipedia, "Chenega, Alaska" (opened with WebFetch 2026-10-02): "The original village of Chenega, located on Chenega Island," in Prince William Sound.
+- **ANCSA:** copied from `research/research-native-nations.md` line 253 (NARA and others): the Alaska Native Claims Settlement Act, December 18, 1971, gave Alaska Natives 44 million acres and $962.5 million, through regional and village corporations that Alaska Natives own as shareholders.
+- **David A. Johnston:** Wikipedia, "David A. Johnston" (opened with WebFetch 2026-10-02): "an American United States Geological Survey (USGS) volcanologist."
+- **Three Mile Island:** Wikipedia, "Three Mile Island accident" (opened with WebFetch 2026-10-02): the plant is "located on the Susquehanna River in Londonderry Township, Dauphin County, near Harrisburg, Pennsylvania."
 
 ### PATCH 2026-09-30 (T-320b): what failed at Three Mile Island (copied from research-energy.md, T-247b bank check)
 - **World Nuclear Association, "Three Mile Island Accident"** (https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/three-mile-island-accident, as recorded in research/research-energy.md, PATCH 2026-09-27 T-247b): a minor fault in the secondary cooling circuit, then a pilot-operated relief valve stuck open and let cooling water escape. Operators had no instrument that showed the valve's real position. Believing the system was too full, they cut the flow of replacement water. The core was uncovered and overheated, and "at least 45% of the core, 62 tonnes, had melted." Average dose to people within 10 miles: 0.08 millisieverts. TMI-2 was operated for General Public Utilities (GPU).
@@ -823,6 +874,12 @@ Researched by T-264c, 2026-09-27. State full. Every figure below is dated. The o
 ### PATCH 2026-09-30 (T-320b): what Anna Pou and two nurses were accused of at Memorial Medical Center
 - **Wikipedia, "Memorial Medical Center and Hurricane Katrina"** (opened 2026-09-30): Dr. Anna Pou and nurses Lori Budo and Cheri Landry were accused of giving "lethal doses of morphine sulphate (morphine) and/or midazolam (Versed)" to four LifeCare patients: Emmett Everett Sr., 61, Hollis Alford, 66, Ireatha Watson, 89, and Rose Savoie, 90. The grand jury, sworn in March 2007, "declined to indict any of the suspects on any of the charges." Louisiana agreed to pay Pou's legal fees of more than $450,000. Pou helped draft three Louisiana laws that protect health workers from lawsuits in future mass disasters. Tenet Healthcare settled a class action for $25 million on behalf of patients, visitors and non-Tenet workers trapped in the hospital.
 - Plain meaning for the prose: morphine is a strong painkiller and midazolam is a drug that makes people sleepy and calm. In large doses both slow or stop breathing. (General pharmacology; the definitions carry no new event fact.)
+
+### PATCH 2026-10-02 (T-469): era 10 details checked on the source pages
+- **Palisades Fire retrial (perishable):** LAist, "Palisades Fire suspect pleads not guilty," August 19, 2026 (https://laist.com/brief/news/criminal-justice/palisades-fire-suspect-pleads-not-guilty, opened with WebFetch 2026-10-02): Rinderknecht "pleaded not guilty ... to a new set of reduced arson-related charges"; he now faces two charges, not three. "The retrial was originally set for October, but it's been continued to Nov. 2." So as of October 2, 2026 the retrial has not begun and he has not been convicted. The account that the Lachman Fire of January 1 rekindled on January 7 as the Palisades Fire is the charge that a jury has not accepted; the prose gives it as the prosecutors' case.
+- **Surfside:** Wikipedia, "Surfside condominium collapse" (opened with WebFetch 2026-10-02): the 2018 inspection was by the engineering firm Morabito Consultants. It found that "the waterproofing layer was not sloped," that the slabs below the pool deck were badly damaged, and that "failure to replace waterproofing in the near future will cause the extent of the concrete deterioration to expand exponentially." No individual engineer is named in the fetched text.
+- **Maria and Irma:** Wikipedia, "Hurricane Maria" (opened with WebFetch 2026-10-02): Maria "landed in the northeast Caribbean during relief efforts from another Category 5 hurricane, Irma, which crossed the region two weeks prior." The page calls Puerto Rico a "U.S. territory."
+- **Puerto Ricans are U.S. citizens:** copied from `research/research-america-world.md` line 1248 (USCCR memo): by 1922 Puerto Ricans were "by then U.S. citizens."
 
 ### Perishable facts refreshed (era 10, checked 2026-09-27)
 - FDNY illness deaths 453 (September 10, 2026). Helene 250 dead (NHC report version of February 17, 2026). Texas floods 136 dead (Wikipedia rev. 2026-09-18, PBS July 18, 2026). Maui settlement: no payments as of August 23, 2026. Eaton Fire cause report August 5, 2026. Rinderknecht mistrial June 26, 2026, retrial pending. FEMA Review Council report May 7, 2026; FEMA still in place, reform bills pending (NACo, June and September 2026). COVID-19 deaths 1,245,791 through September 19, 2026 (health bank).

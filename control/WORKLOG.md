@@ -4756,9 +4756,11 @@ RESULT: DONE. PASS  health / prose. measured: stage=WRITTEN ms_eras=10/10 writte
         474437 tokens, 281 tool uses, 20.1 min (opus). FIXER whole chapter [WAVE8L]: 274 FIXED, 28 REJECTED, 0 NEEDS-RESEARCH, 4 found by fixer; invented actor removed; Sims unchanged; 21,067 -> 22,594 words
 
 ### 2026-10-02 | [LOCAL] T-469 | disasters: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-disasters.md
 VERIFY: python tools/project_state.py --check disasters --stage prose
+RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=12 (verified 12) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23558w files=3 validator_errors=0
+        494159 tokens, 358 tool uses, 20.8 min (opus). FIXER whole chapter [WAVE8L]: 264 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 4 found by fixer; Titanic blame, Menominee, Palisades per rule 5; 23,958 -> 24,944 words
 
 ### 2026-10-02 | [LOCAL] T-470 | storytelling-evolution: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: IN-FLIGHT

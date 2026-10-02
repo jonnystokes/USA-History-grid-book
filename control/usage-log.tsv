@@ -412,3 +412,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-465	prose	general-purpose/opus	[LOCAL] drugs-alcohol: FIXER whole chapter [WAVE8L]: 258 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+3 liste	?	?	?	435117	233	1140203	?	completed	PASS  drugs-alcohol / prose
 2026-10-02	T-467	prose	general-purpose/opus	[LOCAL] sports-play: FIXER whole chapter [WAVE8L]: 276 FIXED, 4 REJECTED, 2 NEEDS-RESEARCH, 16 found 	?	?	?	474688	319	1152160	?	completed	PASS  sports-play / prose
 2026-10-02	T-468	prose	general-purpose/opus	[LOCAL] health: FIXER whole chapter [WAVE8L]: 274 FIXED, 28 REJECTED, 0 NEEDS-RESEARCH, 4 found 	?	?	?	474437	281	1203849	?	completed	PASS  health / prose
+2026-10-02	T-469	prose	general-purpose/opus	[LOCAL] disasters: FIXER whole chapter [WAVE8L]: 264 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 4 found b	?	?	?	494159	358	1245017	?	completed	PASS  disasters / prose
