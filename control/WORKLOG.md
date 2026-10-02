@@ -4758,3 +4758,8 @@ VERIFY: python tools/project_state.py --check disasters --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
+
+### 2026-10-02 | [LOCAL] T-471 | news-communication: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage prose
