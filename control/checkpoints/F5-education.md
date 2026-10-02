@@ -1,18 +1,18 @@
 # CHECKPOINT F5 | education | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-479 landed (director verified: PASS  education / prose)
+STATUS: IN-FLIGHT (T-481 part1, T-482 part2; part3 done T-479)
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/education/part1|part2|part3 + control/audit/education/part1|2|3-findings-sonnet.md
         + research/research-education.md (PATCH entries only)
 
 NOW:    T-479 finished part3 (eras 8, 9, 10). Prose check PASS.
-NEXT:   part1 (eras 1-5) and part2 (eras 6-7), by a later fixer
+NEXT:   T-481 part1 and T-482 part2 in parallel
 
 ## Units
 | part | eras | fixer | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|---|
-| part1 | 1-5 | later | todo | | 8548 -> |
-| part2 | 6-7 | later | todo | | 10207 -> |
+| part1 | 1-5 | T-481 | todo | | 8548 -> |
+| part2 | 6-7 | T-482 | todo | | 10207 -> |
 | part3 | 8-10 | T-479 | DONE | 113 / 6 / 0 of 119, +25 found by fixer (era 8: 54/4/0 +12; era 9: 33/1/0 +10; era 10: 26/1/0 +3) | 24243 -> 25721 |
 
 T-479 scratch: scratchpad/T-479 (verdicts.py + apply.py rebuild the findings table's fixer column from findings-orig.md).
