@@ -1,6 +1,6 @@
 # CHECKPOINT F5 | education | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-482 landed (director verified: PASS  education / prose)
+STATUS: T-481 landed (director verified: PASS  education / prose)
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/education/part1|part2|part3 + control/audit/education/part1|2|3-findings-sonnet.md
         + research/research-education.md (PATCH entries only)
@@ -11,7 +11,7 @@ NEXT:   T-481 part1 and T-482 part2 in parallel
 ## Units
 | part | eras | fixer | state | FIXED / REJECTED / NEEDS-RESEARCH | words before -> after |
 |---|---|---|---|---|---|
-| part1 | 1-5 | T-481 | IN-PROGRESS (eras 1-4 done, NEXT: era 5) | era 1: 9/0/0; era 2: 12/0/0 +1; era 3: 26/1/0 +4; era 4: 25/0/0 +4 | 8548 -> |
+| part1 | 1-5 | T-481 | DONE | 96 / 1 / 0 of 97, +12 found by fixer (era 1: 9/0/0; era 2: 12/0/0 +2; era 3: 26/1/0 +4; era 4: 25/0/0 +4; era 5: 24/0/0 +2) | 8548 -> 9259 |
 | part2 | 6-7 | T-482 | DONE | 95 / 2 / 0 of 97, +25 found by fixer (era 6: 48/2/0 +10; era 7: 47/0/0 +15) | 10207 -> 11253 |
 | part3 | 8-10 | T-479 | DONE | 113 / 6 / 0 of 119, +25 found by fixer (era 8: 54/4/0 +12; era 9: 33/1/0 +10; era 10: 26/1/0 +3) | 24243 -> 25721 |
 
@@ -35,3 +35,5 @@ T-479 scratch: scratchpad/T-479 (verdicts.py + apply.py rebuild the findings tab
 - 2026-10-02 T-481 era 4: 25 findings judged, 25 FIXED. Dock 'how he punished children and how he rewarded them'; Harry and Andrew 'the Society owned Harry and Andrew as slaves' (Woodson 1915); Brafferton boys' fate as forced laborers restored. AUDIT-QUEUE Stono gloss (T-328a) now sourced from slavery-freedom bank and told with the same harms (#36). 'Historians explain' (forged pass) had no named historian: replaced by the act's own reason and Burwell's 1774 ad. PATCH (T-481): Stono and the forged-pass reason. +4 found by fixer. validate 0 errors, punct 0/0.
 - 2026-10-02 T-482 era 7: 47 findings judged, 47 FIXED (row 97 kept the Zitkala-Sa correction, fact first). Plessy described (train cars); Cumming no longer said to uphold separate schools; Klan gloss sourced; Carlisle labor named forced work, remains restored, 1893 ages restored; boarding-school span now closes on languages kept in secret and friendships across nations, as native-nations does (#36). PATCH (T-482): four era-7 facts copied from slavery-freedom, rights-movements and native-nations. Round 2 (light): a dictionary or period source for 'grammar school, the school that came after primary school'. validate 0 errors, punct 0/0.
 - Final T-482: `python tools/project_state.py --check education --stage prose` -> PASS (manuscript 44146w, validator 0 errors, emdash 0, semicolon 0). Part2 words 10207 -> 11253 (raw word count, markers included).
+- 2026-10-02 T-481 era 5: 24 findings judged, 24 FIXED. 'First public money for American schools' was false (the 1647 law came first): now 'In 1785 the members of Congress set aside land to pay for public schools, and that land had been taken from Native nations.' Era summary's unsourced 'several plans ... almost all turned down' replaced by the bank's claim and Jefferson's plan; zoom label 'The first schools for girls with charters' changed to "Girls' academies, and the first with a charter" (plural unsupported); unsourced 'teaching was not yet a career' cut. Unnamed 'Historians still argue' (era 2) reworded to the record. PATCH (T-481): Occom was Wheelock's pupil (Dartmouth & Slavery Project). validate 0 errors, punct 0/0.
+- Final T-481: `python tools/project_state.py --check education --stage prose` -> PASS (manuscript 44148w, validator 0 errors, emdash 0, semicolon 0). Part1 words 8548 -> 9259 (raw word count, markers included). NEEDS-RESEARCH from part1: none.

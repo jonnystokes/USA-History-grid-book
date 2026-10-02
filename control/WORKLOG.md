@@ -4858,9 +4858,11 @@ AGENT: a83e8c1d8c06ded71 (T-480). Mode (Jon, 2026-10-02): one at a time until th
 PAUSED after T-480 (Jon). Step 5: 35 of 37 chapters fixed; education parts 1-2 left (T-481).
 
 ### 2026-10-02 | [LOCAL] T-481 | education: FIXER opus, part1 [PAR2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=44148w files=3 validator_errors=0
+        300041 tokens, 132 tool uses, 11.8 min (opus). FIXER part1 only [PAR2]: 96 FIXED, 1 REJECTED, 0 NEEDS-RESEARCH, 12 found by fixer; four softenings fixed; Paquiquineo and 1785 'first' errors corrected; education fully fixed
 
 ### 2026-10-02 | [LOCAL] T-482 | education: FIXER opus, part2 [PAR2] | model opus
 STATUS: DONE
