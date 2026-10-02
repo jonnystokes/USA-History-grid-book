@@ -4852,3 +4852,4 @@ priority: DECISIONS #32 Hemings/Wayles wording).
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-religion.md
 VERIFY: python tools/project_state.py --check religion --stage prose
+AGENT: a83e8c1d8c06ded71 (T-480). Mode (Jon, 2026-10-02): one at a time until the usage runs out; on interruption, recover and pause.
