@@ -4906,3 +4906,4 @@ AGENTS ROUND2 WAVE: T-484 a6146c01701f0117c (native/war), T-485 ad0c7d1a9a967842
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R5-economy.md
 USAGE AT START: 85% (Jon). Round-2 wave T-484..T-486 measured 68->85 = 17% for 3.
+AGENT: ac7036ad9de7e62a9 (T-487)
