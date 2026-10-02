@@ -286,3 +286,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **disasters (T-469):** refresh the Palisades Fire case status in step 6/7 (retrial set Nov 2, 2026; not convicted as of 2026-10-02).
 - **PRIORITY, slavery-freedom (T-466, DECISIONS #32 amended):** the Hemings and Wayles sentences say historians describe it as rape; no source opened supports "historians" in general. Round 2: find which historians use the word, source them, and reword ("some historians, such as X, call it rape"); keep the plain facts. Check the same claim anywhere else in the book (grep "describe what he did as rape" / "historians").
 - **crime-justice part2 (T-476):** Myrtle Vance 'sexually attacked': round 2, find the period sources' word; use 'rape' if they support it (#31).
+- **education bank (T-482):** the T-261b sentence says Black teachers 'in every state ... faced the whip'; Louisiana and Alabama set only prison or fines. Correct the bank in round 2.
