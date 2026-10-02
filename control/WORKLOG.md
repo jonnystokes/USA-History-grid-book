@@ -4703,3 +4703,8 @@ VERIFY: python tools/project_state.py --check exploration --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-styles.md
 VERIFY: python tools/project_state.py --check styles --stage prose
+
+### 2026-10-01 | [LOCAL] T-464 | holidays: FIXER opus, whole chapter [WAVE6M] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-holidays.md
+VERIFY: python tools/project_state.py --check holidays --stage prose
