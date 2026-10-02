@@ -4728,3 +4728,8 @@ T-461 immigration: director asked it (Jon's request) to pause 4h20m via a backgr
 2.45M tokens). T-461 immigration paused on a 4h20m background timer at part1 era 5; it resumes on its own.
 Step 5: 21 chapters fixed whole + rights-movements part3.
 ### 2026-10-02 | [LOCAL] WAVE6M complete: T-461 immigration resumed after its timer and PASSED. The pause-by-timer trick worked. Step 5: 22 chapters fixed whole + rights-movements part3. Waiting for Jon.
+
+### 2026-10-02 | [LOCAL] T-465 | drugs-alcohol: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-drugs-alcohol.md
+VERIFY: python tools/project_state.py --check drugs-alcohol --stage prose
