@@ -4680,9 +4680,11 @@ slavery-freedom), 11 large (incl. 3 with a calibration part already fixed), gian
 rights-movements parts 1-2.
 
 ### 2026-10-01 | [LOCAL] T-459 | america-world: FIXER opus, whole chapter [WAVE6M] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-america-world.md
 VERIFY: python tools/project_state.py --check america-world --stage prose
+RESULT: DONE. PASS  america-world / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=13 (verified 13) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=16922w files=3 validator_errors=0
+        450053 tokens, 259 tool uses, 21.3 min (opus). FIXER whole chapter [WAVE6M]: 244 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 partial), 27 found by fixer; ~20 PATCHes; prose 15,577 -> 16,922 words
 
 ### 2026-10-01 | [LOCAL] T-460 | big-business: FIXER opus, whole chapter [WAVE6M] | model opus
 STATUS: IN-FLIGHT

@@ -150,6 +150,14 @@ and NPS Fort Matanzas history page
   homeland of **Timucua**-speaking peoples (NPS, same page, names them as present). Neither
   France nor Spain asked them.
 
+### PATCH 2026-10-01 (T-459): the date of the first Matanzas killing
+- The bank's "mid-September" for the first group cannot be right in sequence: Fort Caroline
+  fell on 20 September, and NPS ("The Massacre", read directly) says Menéndez learned of the
+  shipwrecked men on the beach only after that. NPS gives no day. Wikipedia, *Massacre at
+  Matanzas Inlet* (https://en.wikipedia.org/wiki/Massacre_at_Matanzas_Inlet), gives
+  **29 September 1565** (St. Michael's Day) **(Wikipedia only)**. Prose says "Late in
+  September". History Is Now magazine (2023) says only "September of 1565".
+
 ### 2.3 No `hb-story` in this era
 
 Named people exist (Menéndez, Ribault, Laudonnière) but they are Spanish and French officers
@@ -223,6 +231,16 @@ they were allowed to buy and sell.
   and forth, the land was Lenape land (and Mohican and Haudenosaunee land farther up the
   Hudson, which this bank has not separately sourced). No Lenape were party to Breda or
   Westminster (the treaties are between the two crowns; see 3.3 sources).
+
+### PATCH 2026-10-01 (T-459): the Dutch retaking of 1673
+- **August 1673**, in the Third Anglo-Dutch War, a Dutch fleet under Cornelis Evertsen the
+  Youngest and Jacob Binckes retook New York; the town was renamed **New Orange** and New
+  Netherland re-established under governor Anthony Colve. Under the **Treaty of Westminster**
+  (signed **19 February 1674**) the Dutch returned it to England, and it stayed English
+  (CultureNOW, "New York named New Orange", read directly,
+  https://culturenow.org/site/new-york-named-new-orange ; Wikipedia, *Reconquest of New
+  Netherland*, gives 9 August 1673 and the end of Dutch rule on 10 November 1674,
+  https://en.wikipedia.org/wiki/Reconquest_of_New_Netherland).
 
 ### 3.4 No `hb-story` in this era — and why
 
@@ -741,6 +759,26 @@ they were not read; the two sources above cover every fact below.
   ratified it on **December 18, 1801**. The page gives **no signing date**; unverified item
   2 stays open.
 
+### PATCH 2026-10-01 (T-459): four small era-5 facts checked
+- **Adams published the XYZ papers.** Office of the Historian, *XYZ Affair* (read directly,
+  https://history.state.gov/milestones/1784-1800/xyz): "Adams, knowing its contents,
+  obliged them and released the correspondence, but replaced the names of the French
+  intermediaries with the letters W, X, Y, and Z."
+- **Britain and France at war, 1793.** Office of the Historian, *Jay Treaty* (read directly,
+  https://history.state.gov/milestones/1784-1800/jay-treaty): "The French Revolution led to
+  war between Britain and France in 1793." (They had last fought each other in the
+  Revolutionary War, 1778 to 1783, per 5.3 above.)
+- **Why Barbary rulers seized ships.** Office of the Historian, *Barbary Wars* (read
+  directly, https://history.state.gov/milestones/1801-1829/barbary-wars): "The Barbary
+  States were a collection of North African states, many of which practiced state-supported
+  piracy in order to exact tribute from weaker Atlantic powers." Tribute = regular payments
+  for safe passage. The captives freed only after payment (5.6 above) shows the ransom.
+- **The Tuscarora joined the league about 1722.** Wikipedia, *Iroquois* (read directly,
+  https://en.wikipedia.org/wiki/Iroquois): "In about 1722, the Iroquoian-speaking Tuscarora
+  joined the League, having migrated northwards from the Carolinas ... the Haudenosaunee
+  become known afterwards as the Six Nations." A search summary of the South Carolina
+  Encyclopedia (*Tuscarora War*) gives the same year **(search summary only)**.
+
 ## Sources used (eras 1–5)
 
 **Government / official**
@@ -895,6 +933,50 @@ they were not read; the two sources above cover every fact below.
   violence and discrimination." The treaty also pledged to protect them "from attacks by
   Native peoples," the only mention of the Native nations who also lived across the ceded
   land. The bank has no directly read source listing those nations. `native-nations` leads.
+
+### PATCH 2026-10-01 (T-459): Florida 1818, the Monroe Doctrine's British side, and who broke up the New Mexico land grants
+- Office of the Historian, *Acquisition of Florida* (read directly,
+  https://history.state.gov/milestones/1801-1829/florida): "Monroe's government seriously
+  considered denouncing Jackson's actions, but Adams defended the Jackson citing the necessity
+  to restrain the Indians and escaped slaves since the Spanish failed to do so." The Spanish
+  minister is named "Don **Luis de Onís**".
+- Office of the Historian, *Monroe Doctrine, 1823* (read directly,
+  https://history.state.gov/milestones/1801-1829/monroe): "the British also had a strong
+  interest in ensuring the demise of Spanish colonialism, with all the trade restrictions
+  mercantilism imposed." (British merchants wanted to trade freely with the new Latin American
+  countries, which Spain's colonial trade rules had blocked.)
+- **Who broke up the community land grants.** L. M. García y Griego, UNM Land Grant Studies
+  Program, *Community land grants in New Mexico: some background* (10 June 2015, briefing
+  for the New Mexico Legislature's Land Grant Committee; read directly,
+  https://www.nmlegis.gov/handouts/LGC%20061015%20Item%202%20Community%20Land%20Grants%20in%20NM%20-%20Professor%20Garcia%20y%20Griego%20615.pdf):
+  - US officials judged the grants through the **Surveyor General process (1854-1891)** and the
+    **Court of Private Land Claims (1891-1904)**. "Most other land grants lost land in the
+    adjudication process--often because U.S. authorities recognized claims to the base of
+    mountains or foothills and neglected to consider as common lands the timberlands."
+  - **US v. Sandoval, 167 U.S. 278 (1897):** the Supreme Court "accepted the argument
+    presented by the United States on appeal that all common lands of land grants belonged to
+    Mexico, as the sovereign, in 1846 and hence these belonged not to the village or the land
+    grant but the U.S. federal government after 1897." Seven grants (San Miguel del Bado, Don
+    Fernando de Taos, Santa Cruz de la Cañada, Galisteo, San Joaquín del Río de Chama, La
+    Petaca, Cañón de Carnué) each "lost between 95% and 99% of their historic claims."
+  - Most other community grants "lost most of their common lands as a result of partition
+    suits" (lawsuits that split shared land into private pieces) and of being unable to pay
+    property taxes on the common land. In all the grants lost about 98% of their lands,
+    "3 million acres during the adjudication process and over 4.5 million acres after."
+    Much of the former common land is now held by the US Forest Service and the Bureau of
+    Land Management.
+- **Who took the land in California, and how.** San José State University, *Before Silicon
+  Valley* digital exhibit, "Mexican Loss of Land, 1850-1880" (university exhibit, read
+  directly, https://exhibits.sjsu.edu/s/b4sv/item/3252): "Mexicans gradually sold most of
+  their land during the average 17 years it took to go through the legal process of proving
+  their claims, and resulting funds went to English-speaking lawyers or to pay land taxes."
+  "Mexicans also lost their land to Anglo American squatters. In some cases, such as with the
+  Suñol and Berryessa families, Anglo squatters lynched the Mexican landowners and remained on
+  the land." "The Peralta family of San José and the East Bay lost all but 700 of their
+  49,000 acres." (A search summary of Wikipedia, *California Land Act of 1851*, gives lawyers'
+  fees of $500 to $1,500 a claim, **search summary only**.)
+- The wider "violence and discrimination" (Britannica) beyond the squatter lynchings: not
+  further sourced here. `crime-justice` / `rights-movements` may hold more.
 
 ### Casualty note for the writer (era 06)
 
@@ -1134,6 +1216,21 @@ army-history magazine, label it).
   - The article gives no count of people killed at Kake, Wrangell or Angoon, and does not
     name the commanding officers.
 
+### PATCH 2026-10-01 (T-459): Kake 1869, who ordered it and what it cost
+- KTOO public radio (Juneau), "US Navy apologizes for burning and bombarding the village of
+  Kake in 1869," 25 Sept 2024 (journalism, labeled; read directly,
+  https://www.ktoo.org/2024/09/25/us-navy-apologizes-for-burning-and-bombarding-the-village-of-kake-in-1869/):
+  **General Jefferson C. Davis** ordered the USS *Saginaw* to attack Kake after army officers
+  refused compensation for **two Tlingit people killed by an army sentinel** (guard) at Sitka.
+  The Navy "burned and bombed it to the ground," destroying "homes, food caches, canoes, and
+  totem poles," in winter. "Historians haven't determined the number of deaths, but oral
+  history records many — especially among elders and children." On **21 September 2024**
+  Rear Admiral **Mark Sucato** apologized at Kake: "The Tlingit people of Kake did not deserve
+  the destruction of their villages by U.S. Naval forces."
+- Search summaries (Wikipedia, *Kake War*) name the *Saginaw*'s commander as Lt. Cmdr.
+  **Richard W. Meade** and say the three villages were deserted before the attack
+  **(search summary only)**.
+
 ### Guam's people, for era 07 wording
 
 - The bank's era 08 lines (Guampedia) name the **CHamoru** people as the people of Guam.
@@ -1312,6 +1409,23 @@ https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Pa
   the hunt for him "was partly responsible" for Roosevelt's Good Neighbor Policy.
 - Almost 4,000 Marines in Nicaragua at the 1928 peak. Secretary of State **Henry Stimson**
   ordered the last Marines out by January 1, 1933 (search summary only).
+
+### PATCH 2026-10-01 (T-459): Smith's punishment, the Haitian legislature, Les Cayes
+- **Who retired Smith.** Scioto Historical (Ohio History Connection project; read directly,
+  https://sciotohistorical.org/items/show/109): "The court-martial found Smith guilty and
+  recommended an 'admonishment' by his superiors." Roosevelt rejected that and "forcibly
+  retired Smith, two years before his scheduled departure from the service."
+- **Who dissolved Haiti's legislature.** Office of the Historian, *U.S. Invasion and
+  Occupation of Haiti* (read directly, https://history.state.gov/milestones/1914-1920/haiti):
+  "the United States forced President Dartiguenave dissolve the legislature, which did not
+  meet again until 1929." (The same page says only that President Sam "was assassinated";
+  it names no killer.)
+- **Les Cayes, 6 December 1929.** Zinn Education Project, *Dec. 6, 1929: Cayes Massacre*
+  (education nonprofit, labeled; read directly,
+  https://www.zinnedproject.org/news/tdih/cayes-massacre/): "U.S. Marine battalions fired on
+  fifteen hundred people," "wounding twenty-three and killing twelve." A search summary of
+  Wikipedia (*Les Cayes massacre*) gives 12 to 22 dead and 51 injured **(search summary
+  only)**. With CRS's "at least 12": the Marines fired, at least 12 Haitians died.
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-254): How many Nicaraguans did US Marines kill, 1912-1933?
 Sources checked: Britannica *Nicaragua: Foreign intervention* and *Sandino* (no count).
@@ -1524,6 +1638,31 @@ them.
 - Guam and the U.S. Virgin Islands **elected their own governors for the first time in 1970**; American Samoa **elected its first governor in 1977**. Before those dates the governors were appointed in Washington. ([Department of the Interior, Office of Insular Affairs pages for Guam, the U.S. Virgin Islands, and American Samoa](https://www.doi.gov/oia).) *(`[VERIFY]` each first-election year before printing; the Interior pages carry them.)*
 - **Washington, D.C., has its own territorial-style story and it belongs in this chapter.** The **Twenty-third Amendment, ratified March 29, 1961**, gave the District electors for president — the first time its residents could vote for president at all. A **non-voting delegate to the House was restored in 1971**; the **Home Rule Act of 1973** allowed an elected mayor and council from 1975. A constitutional amendment for full congressional representation passed Congress in 1978 and **died in 1985**, ratified by only 16 of the 38 states needed. *(Dates standard; `[VERIFY]` the 16-state figure before printing.)*
 
+### PATCH 2026-10-01 (T-459): Castle Bravo's people, copied from the war and health banks, and Blair House checked
+- **Copied from `research/research-war.md`** (National Security Archive, "Castle BRAVO at 70,"
+  ed. William Burr, 29 Feb 2024,
+  https://nsarchive.gwu.edu/briefing-book/nuclear-vault/2024-02-29/castle-bravo-70-worst-nuclear-test-us-history):
+  on **Rongelap**, about 110 miles away, "the fallout looked like snow; children played with
+  the irradiated flakes." More than 230 people were evacuated from Rongelap, Rongerik and
+  Utirik. Rongelap became uninhabitable. Of the 23 *Lucky Dragon* fishermen, **one died**.
+  The AEC (Atomic Energy Commission) ran "Project 4.1," a study of the exposed people.
+- **Copied from `research/research-health.md`** (T-263c PATCH; Takahashi and others, *Journal of
+  Epidemiology* 13(2), 2003, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588433/): Rongelap
+  and Utirik people "were evacuated about 72 hours after the detonation." The thyroid, a gland
+  in the neck, takes up iodine, so radioactive iodine from fallout collects there. "The most
+  frequent long-term health effect in the exposed population appeared to be an increased
+  frequency of nodular thyroid disease including thyroid cancer." A 1993-97 screening found
+  **57 Marshallese born before 1954** (1.5 percent) who had thyroid cancer or had had it
+  removed. The United States provided follow-up medical care.
+- **Blair House, 1 November 1950 (clears the [VERIFY] above).** History.com, "An assassination
+  attempt threatens President Harry S. Truman" (journalism, labeled; read directly,
+  https://www.history.com/this-day-in-history/november-1/an-assassination-attempt-threatens-president-harry-s-truman):
+  the attackers were **Griselio Torresola and Oscar Collazo**; **Leslie Coffelt**, mortally
+  wounded, "managed to kill Torresola"; Collazo "was sentenced to death," and on 24 July 1952
+  Truman commuted the sentence to life imprisonment. (History.com calls Coffelt a Secret
+  Service agent; search summaries of Wikipedia and EBSCO call him a White House police
+  officer, as this bank's line above does. Write "a White House guard".)
+
 ### Giving the canal back
 
 - **The Torrijos–Carter Treaties were signed September 7, 1977**; the United States **handed the canal to Panama on December 31, 1999**. ([Office of the Historian — The Panama Canal and the Torrijos-Carter Treaties](https://history.state.gov/milestones/1977-1980/panama-canal).)
@@ -1633,6 +1772,22 @@ was read directly on 2026-09-27. Sources as named there:
   2026. No Supreme Court decision since *Vaello Madero* (2022) has overturned them (no
   such case found in this check). Puerto Rico's status vote of November 5, 2024 remains
   the latest.
+
+### PATCH 2026-10-01 (T-459): the Iraq counts and the Iranian dead
+- **Iraq, the low end.** Every Casualty Counts, *Iraq* (casualty-recording network; read
+  directly, https://everycasualty.org/conflict/iraq/): Iraq Body Count, which records deaths
+  one by one, "has recorded more than 187,413 individual fatalities" as of February 2025
+  ("187,412+ conflict-related civilian deaths, 2003-2024"). For 2003-2006 the *Lancet* survey
+  estimated about 655,000 excess deaths (the bank's "roughly 600,000 violent deaths" is the
+  violent part of that total); a WHO and Iraqi Health Ministry survey estimated about
+  **151,000 violent deaths** over the same years.
+- **Iran, 2026.** *Military Times*, "Iran war escalation raises concern over civilian death
+  toll," 3 Sept 2026 (journalism, labeled; read directly,
+  https://www.militarytimes.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/):
+  the Human Rights Activists News Agency (**HRANA**) documented "**3,636 people** documented
+  as killed in Iran as of April 7, including **1,701 civilians**." Search summaries give
+  later and different counts (Iran's Health Ministry: at least 2,362 civilians; JINSA:
+  3,724 or more) **(search summary only)**. Give HRANA's dated count.
 
 ## Sources used (era 06–10 half)
 

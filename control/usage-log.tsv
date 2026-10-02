@@ -403,3 +403,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-01	T-455	prose	general-purpose/opus	[LOCAL] technology: FIXER whole chapter [WAVE8]: 212 FIXED, 13 REJECTED, 1 NEEDS-RESEARCH, 23 found 	?	?	?	419711	268	1259151	?	completed	PASS  technology / prose
 2026-10-01	T-451	prose	general-purpose/opus	[LOCAL] energy: FIXER whole chapter [WAVE8]: 215 FIXED, 14 REJECTED, 0 NEEDS-RESEARCH, 9 found b	?	?	?	416948	270	1342586	?	completed	PASS  energy / prose
 2026-10-01	T-454	prose	general-purpose/opus	[LOCAL] city-building: FIXER whole chapter [WAVE8]: 285 FIXED, 9 REJECTED, 0 NEEDS-RESEARCH, 6 found by	?	?	?	565164	329	2010413	?	completed	PASS  city-building / prose
+2026-10-01	T-459	prose	general-purpose/opus	[LOCAL] america-world: FIXER whole chapter [WAVE6M]: 244 FIXED, 17 REJECTED, 1 NEEDS-RESEARCH (+1 parti	?	?	?	450053	259	1277682	?	completed	PASS  america-world / prose
