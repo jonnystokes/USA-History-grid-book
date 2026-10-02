@@ -1,6 +1,6 @@
 # CHECKPOINT F5 | education | step 5 fixer, split by part (giant chapter)
 
-STATUS: T-481 landed (director verified: PASS  education / prose)
+STATUS: DONE: part1 T-481, part2 T-482, part3 T-479
 BRIEF:  control/briefs/FIXER.md (whole-chapter mode, applied to the parts assigned)
 FILES:  manuscript/education/part1|part2|part3 + control/audit/education/part1|2|3-findings-sonnet.md
         + research/research-education.md (PATCH entries only)

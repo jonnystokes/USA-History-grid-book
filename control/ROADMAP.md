@@ -146,7 +146,7 @@ Brief: `control/briefs/GAPS.md` (model opus). Only what is left: items writers m
 and audit findings the fixer marks NEEDS-RESEARCH. A `SEARCHED, NOT FOUND` entry in the bank
 is settled unless a new lead appears.
 
-## STEP 5: Writing round 2
+## STEP 5: Writing round 2 (COMPLETE 2026-10-02: all 37 chapters fixed by whole-chapter opus fixers; ran before the round-2 research leftovers, since fixers researched their own gaps)
 
 Brief: `control/briefs/FIXER.md` (model opus) for the audit findings, and `GAPS.md` for the
 passages the new research changes. The fixer judges every finding. It does not apply them

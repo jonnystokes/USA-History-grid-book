@@ -17,6 +17,8 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all verified. This run: T-315 to T-330
 (16 chapters, 22 writer agents, 2026-09-29/30).
 
+**STEP 5 (FIXES, done before the round-2 research leftovers): COMPLETE 2026-10-02.** All 37 chapters fixed by opus whole-chapter fixers (T-442..T-482, waves of 6-8; giants split by part), each fixer researching its own gaps (DECISIONS #21). All 37 PASS prose, 111 part files validate. Manuscript ~785,000 words. Open items for round 2: the NEEDS-RESEARCH lists in control/checkpoints/F5-*.md and control/AUDIT-QUEUE.md (priority: DECISIONS #32 Hemings/Wayles wording).
+
 **STEP 3 (AUDIT): COMPLETE 2026-10-01.** All 111 part files checked by sonnet (T-331..T-441): about 9,700 findings, about 1,000 BLOCKING, in `control/audit/<slug>/<part>-findings-sonnet.md`. The 3 calibration files were also fixed already. Calibration COMPLETE (3 runs, T-331..T-333). Now the sonnet checker on the other 108
 part files, one at a time: `python tools/audit_status.py` shows progress and the next file; the prompt and cycle are in
 `control/briefs/CHECKER-DISPATCH.md`.
