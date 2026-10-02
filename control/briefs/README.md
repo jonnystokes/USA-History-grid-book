@@ -34,6 +34,9 @@ default.
 - **Install nothing.** No pip, npm or other installs, and no system changes. If a tool is missing,
   work around it or report it. (Added 2026-09-27 after T-248 pip-installed `pypdf` unasked. Jon
   was told. `pypdf` is now available in the user Python for reading PDFs.)
+- **Download nothing.** Do not save files from the web (curl, wget, Invoke-WebRequest, or any
+  download) without the director's permission. Read pages with WebFetch or the browser instead.
+  (Added 2026-10-02 after T-487 saved three public PDFs to its scratch folder unasked.)
 - **Scratch files go in your own subfolder** of the scratchpad, named after your task (for
   example `scratchpad/T-271b/`). In a burst, agents share one scratchpad, and on 2026-09-28 one
   agent's helper script overwrote another's.
