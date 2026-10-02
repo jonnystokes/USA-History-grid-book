@@ -4678,3 +4678,8 @@ AGENTS WAVE8: T-451 aa082d4eb8b347a09, T-452 a1ee56d0c7a91387d, T-453 ae838cb6a9
 Left: 8 medium (america-world, big-business, immigration, exploration, styles, holidays, drugs-alcohol,
 slavery-freedom), 11 large (incl. 3 with a calibration part already fixed), giants religion and education,
 rights-movements parts 1-2.
+
+### 2026-10-01 | [LOCAL] T-459 | america-world: FIXER opus, whole chapter [WAVE6M] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-america-world.md
+VERIFY: python tools/project_state.py --check america-world --stage prose
