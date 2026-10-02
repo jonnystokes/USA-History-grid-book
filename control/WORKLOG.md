@@ -4791,3 +4791,8 @@ AGENTS WAVE8L: T-465 a4e5c0a46ee5988bb, T-466 a77493dc1ad1af7dd, T-467 afe58d2f0
 Usage at start 8% (Jon). Step 5: 30 chapters fixed whole + rights-movements part3. Left: war, native-nations,
 government-politics, crime-justice (3 with a calibration part), religion (2), education (2), rights-movements p1-2.
 DECISIONS #32 amended (unsourced "historians call it rape"; round 2 priority).
+
+### 2026-10-02 | [LOCAL] T-473 | war: FIXER opus, whole chapter [WAVE7G] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-war.md
+VERIFY: python tools/project_state.py --check war --stage prose
