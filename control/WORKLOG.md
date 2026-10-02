@@ -4763,9 +4763,11 @@ RESULT: DONE. PASS  disasters / prose. measured: stage=WRITTEN ms_eras=10/10 wri
         494159 tokens, 358 tool uses, 20.8 min (opus). FIXER whole chapter [WAVE8L]: 264 FIXED, 5 REJECTED, 0 NEEDS-RESEARCH, 4 found by fixer; Titanic blame, Menominee, Palisades per rule 5; 23,958 -> 24,944 words
 
 ### 2026-10-02 | [LOCAL] T-470 | storytelling-evolution: FIXER opus, whole chapter [WAVE8L] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-storytelling-evolution.md
 VERIFY: python tools/project_state.py --check storytelling-evolution --stage prose
+RESULT: DONE. PASS  storytelling-evolution / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=29 (verified 29) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=23953w files=3 validator_errors=0
+        510125 tokens, 272 tool uses, 22.5 min (opus). FIXER whole chapter [WAVE8L]: 341 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH (+1 listed), 8 found by fixer; Acoma #31/#34/#36, Wounded Knee and Osage killers named; 23,039 -> 25,476 words
 
 ### 2026-10-02 | [LOCAL] T-471 | news-communication: FIXER opus, whole chapter [WAVE8L] | model opus
 STATUS: IN-FLIGHT

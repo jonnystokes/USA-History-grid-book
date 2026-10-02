@@ -43,6 +43,13 @@ How the prose can say it: give the size, 63 feet across inside, rather than a cr
 - Harvard University Press catalog page confirms Watson Smith, *Kiva Mural Decorations at Awatovi and Kawaika-a* (search result title only). Peabody "Rainmakers" page 403 again; Adams 1989 abstract 403 again. Their dates stay unconfirmed.
 - Wikipedia, "The Contrast (play)" (read 2026-09-30) gives only the year 1787 for the premiere, no day and no cast. The April 16 date and Wignell as Jonathan stay unconfirmed and are not written.
 
+### PATCH 2026-10-02 (T-470): era 01 places, and what the Cahokia plazas were for
+- Homol'ovi: Arizona State Parks, "Homolovi State Park: Park History," https://azstateparks.com/homolovi/explore/park-history (read 2026-10-02): the park is at Winslow, Arizona; "Members of the Hopi Nation consider this area an important ancestral site"; pueblos dated AD 620-850, 1050-1225, 1260-1400.
+- Chaco Canyon: NPS, "New Mexico: Chaco Culture National Historical Park," https://www.nps.gov/articles/chaco.htm (read 2026-10-02): "lies in a long, shallow canyon ... of northwestern New Mexico." "Their descendents are the modern Native Americans of the Southwest including the Hopi, the Pueblo peoples of New Mexico, and the Navajo Nation."
+- Cahokia: UNF, R. Thunen, "Cahokia: The Plazas" (re-read 2026-10-02): the American Bottoms across the Mississippi from St. Louis; "archaeologists view these areas as central to the community's ritual and political activities that brought people together across the American Bottoms for important rituals and social gatherings"; "These five plazas were the platforms for major events in the lives of the Cahokians." State: Cahokia Mounds State Historic Site, Collinsville, Illinois (UNESCO World Heritage listing, https://whc.unesco.org/en/list/198/, search summary; the Illinois location is also implied by the UNF page's Jersey Bluff/St. Louis description).
+- Tlingit: Sealaska Heritage Institute crest-registry article (re-read 2026-10-02, dated April 12, 2023): "Tlingit, Haida and Tsimshian cultures of Southeast Alaska."
+- Haudenosaunee: Hudson River Valley Institute, "Haudenosaunee," https://www.hudsonrivervalley.org/Haudenosaunee (read 2026-10-02): six nations, Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora; "Lands of the Haudenosaunee Confederacy span as far west as Livingston County, New York, some parts of Canada, and as far east as Fort Orange, near Albany, New York."
+
 ---
 
 # ERA 02 · The 1500s (T-269a, 2026-09-28)
@@ -95,6 +102,15 @@ The suppression of Pueblo ceremonies by Franciscans is documented in the 1600s (
 
 ---
 
+### PATCH 2026-10-02 (T-470): era 02, Acoma told as native-nations tells it (DECISIONS #31, #36), and the Moors
+Copied with their sources from `research/research-native-nations.md`, Acoma section, and from `manuscript/native-nations/part1` as written from that bank:
+- The rape: "In the Acoma people's own account, as the Rio Grande Sun newspaper reported it in 2019, the soldiers raped the woman." (Rio Grande Sun, "Fiesta Historians Downplay Acoma Massacre," 2019, quoted from a search result in the native-nations bank; director's ruling T-331f and DECISIONS #31 apply it.) APCG press release Oct. 6, 2023: the soldiers "had demanded food and supplies, assaulted an Acoma woman, and forced allegiance to the Spanish crown."
+- The killing: NPR, July 13, 2020: Oñate declared a war "by fire and blood." APCG 2023: about "800 Acoma men, women and children" killed. Native-nations prose: "Over two or three days of fighting, his soldiers killed Acoma men, women and children. They took the town and burned much of it."
+- The elderly: "enslaved to the Plains Apache" (EBSCO, "Battle of Acoma," in native-nations bank sentence table).
+- The girls sent to Mexico: "The records do not name the men who took them" (native-nations prose, from NPS and APCG, who give the act in the passive).
+- 1614 (native-nations prose): "Spanish officials charged Oñate with thirty crimes. Accounts date the charges to 1612 or 1613 and the verdict to 1614." "The judges found him guilty of twelve [of thirty charges] ... banished him from New Mexico for life ... barred him from Mexico City for four years and fined him 6,000 ducats." PBS gives five years for Mexico City.
+- The Moors: Wikipedia, "Moros y cristianos" (read 2026-10-02): the festivals "commemorate the battles, combats and fights between Moors (i.e. Muslims) and Christians during the period known as Reconquista (from the 8th century through the 15th century)."
+
 # ERA 03 · The 1600s (T-269a, 2026-09-28)
 
 ## England closes its theatres, 1642
@@ -127,6 +143,10 @@ How the prose can say it: "The court record is the only account of him. It does 
   - "After the expulsion of the Spanish, their churches were destroyed and the traditional religious practices of the Pueblo people were restored. The Pueblo Revolt effectively ended Spanish rule in the region for 12 years."
 - This resolves the seed's [VERIFY] on "banned ceremonies performed openly again after 1680": supported by Zotigh ("traditional religious practices ... restored").
 - The kiva raids of 1656-65 answer the hard-subject question "who suppressed Native ceremony": Alonso de Posada (Franciscan custodian) and the missionaries under him, protected by soldiers; Governor Treviño in 1675.
+
+### PATCH 2026-10-02 (T-470): era 03, who planned and fought the 1680 revolt (Zotigh re-read), and enslaved people's culture
+- Zotigh, Smithsonian Voices (re-read via curl 2026-10-02): "Upon his release, Po'pay sought refuge in the northernmost Taos Pueblo and planned a united and synchronized revolt of Pueblo villages." "Po'pay sent runners carrying knotted ropes to the distant villages. A knot was unraveled each day until all the knots were gone." "On August 9, the Spanish captured Pedro Omtua and Nicolas Catua and tortured them ... Learning of their capture, Po'pay ordered the revolt to begin a day early." "On August 10, the Ohkay Owingeh began their revolution by attacking Spanish settlements. When they were finished, approximately 400 people were killed, including 21 of the 33 Spanish priests." "Santa Fe was surrounded by Pueblo warriors." The 1675 leaders "were humiliated and publicly whipped before being sent to prison."
+- American Battlefield Trust, "Slavery in Colonial America," https://www.battlefields.org/learn/articles/slavery-colonial-america (read 2026-10-02): "Religion, storytelling, music, and dancing were important parts of an enslaved person's life, and could help share and preserve African cultural traditions across generations." (Confirms the search summary below.)
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-269a): a documented performance (storytelling, dance, drama) by enslaved Africans in the English colonies in the 1600s
 Sources checked: American Battlefield Trust "Slavery in Colonial America" (search summary: storytelling, music and dancing were important to enslaved people, no dated 1600s instance); LOC Folklife "Beyond 1619" (title only); Colonial Williamsburg music article (title only); Wikipedia "Stick dance" (earliest depiction: *The Old Plantation*, late 1700s watercolor).
@@ -183,6 +203,11 @@ How the prose can say it: "No list of the plays acted in Levingston's playhouse 
 ### PATCH 2026-09-28 (T-269a): era 04 addition, Sewall letter date
 - Charles P. Daly, *First Theater in America* (1896), Project Gutenberg #67716, https://www.gutenberg.org/files/67716/67716-h/67716-h.htm : Sewall's letter is "dated March 2, 1714"; "turn their Senate House into a Play-House"; "Let not Christian Boston goe beyond Heathen Rome in the practice of Shamefull Vanities." Daly identifies him as Chief Justice Samuel Sewall.
 
+### PATCH 2026-10-02 (T-470): era 04, Sewall's rank in 1714, two playwrights, Pinkster
+- Sewall's rank: Wikipedia, "Samuel Sewall" (raw text read 2026-10-02): Associate Justice of the Massachusetts Superior Court of Judicature 1692 to 1718; Chief Justice 1718 to 1728 (the body text says appointed 1717 by Governor Samuel Shute; the succession box says 1718). In March 1714 he was a justice of the high court, not yet chief justice. Daly's 1896 title is his later one.
+- Wikipedia summaries read 2026-10-02: *The Orphan, or The Unhappy Marriage* is "a domestic tragedy, written by Thomas Otway in 1680." *The Recruiting Officer* is "a 1706 play by the Irish writer George Farquhar."
+- Historic Hudson Valley, "What is Pinkster?" (read 2026-10-02): "The Pinkster holiday afforded enslaved Africans the opportunity to reunite with loved ones and family members who often lived some distance away." "Africans and Europeans alike enjoyed drinking, game-playing, dance, and music at these gatherings." Dances named: the "jig," "breakdown," "double shuffle." The page does not explain the link to Pentecost and gives no count of days off.
+
 ---
 
 # ERA 05 · 1750 to 1800 (T-269a, 2026-09-28)
@@ -228,6 +253,13 @@ How the prose can say it: "A crowd tore the theatre down. One modern historian w
 - Historic Annapolis blog, "In Praise of Artistic Genius," https://historicannapolis.wixsite.com/hablog/post/in-praise-of-artistic-genius : "Nancy Hallam was the niece of Sarah Hallam Douglass"; "may have performed with the troupe as a child"; trained as a singer in England 1760 to 1765; with the American Company by 1766 in ingénue roles, "graduated to lead characters in 1769"; 1770 Annapolis, Imogen in *Cymbeline*, "a virtuous princess who disguises herself as a young man named Fidele"; *Maryland Gazette*, Sept 6, 1770, letter signed "Y.Z.": "Delicacy of Manner! Such classical Strictness of Expression! The Musick of her Tongue!"; Peale's "full-length portrait of Nancy Hallam was on view" by September 1771, "in the Character of Fedele in Cymbeline," now at Colonial Williamsburg; anonymous poem, Nov 1771, "To Mr. PEALE, on his painting Miss Hallam in the Character of Fedele in Cymbeline."
 - Wikipedia, "Nancy Hallam" (read): "niece of Sarah Hallam and a cousin of Isabella Mattocks"; "returned to Great Britain in 1773"; "died after 1773."
 - "Earliest known representation of an American stage production" (ExplorePAHistory, search summary) (unconfirmed: search summary only). The outline says "an early painting" instead.
+
+### PATCH 2026-10-02 (T-470): era 05, small facts for the fixer
+- Sons of Liberty: Wikipedia summary (read 2026-10-02): "a loosely organized, clandestine, sometimes violent, political organization active in the Thirteen American Colonies founded to defend the rights of the colonists ... It played a major role in most colonies in battling the Stamp Act in 1765."
+- *Zara*: Wikipedia summary (read 2026-10-02): "a 1736 tragedy by the British writer Aaron Hill, based on the 1732 French play Zaïre by Voltaire ... set during the Crusades."
+- Yankee: Wikipedia summary (read 2026-10-02): the word may "refer to New Englanders" among other meanings.
+- Peale: Wikipedia, "Nancy Hallam" (raw text read 2026-10-02): "Nancy Hallam is the subject of a famous painting by Charles Willson Peale"; image caption "by Charles Willson Peale, 1771."
+- Valley Forge: McGhee, *JAR* 2024 (re-read 2026-10-02) calls him "Lieutenant Colonel" William Bradford Jr. and quotes the letter on: "The Scenery was in Taste ... and the performance admirable." The recipient of the letter is not named on the page.
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-269a): the number of actors in Hallam's 1752 company
 Sources checked: Historic Interpreter blog; Daly 1896; Encyclopedia.com (Gale); Britannica. None gives a count.
@@ -718,6 +750,20 @@ None in eras 01 to 05. The Zotigh (NMAI) article carries a page date of Sept 2, 
 ### PATCH 2026-09-28 (T-269b): Fort Sheridan prisoners, count and authority
 - Maddra 2002 (thesis introduction): "Short Bull and Kicking Bear were amongst twenty-seven Lakota Ghost Dancers incarcerated at Fort Sheridan, Illinois. Twenty-three of the Fort Sheridan prisoners were eventually released into the custody of Colonel William F. Cody ... and in April 1891 they had accompanied a further forty-two Lakota Indians across the Atlantic." "Cody's position was bolstered by the fact that at the close of the suppression his close friend and ally General Miles, was in overall control of the relevant agencies." Commissioner of Indian Affairs Thomas Morgan opposed hiring Native performers (letter to Senator Manderson, March 2, 1891). Interior Department official Lewis Addison Grant told the missionary Mary Collins that the department "had not been consulted in regard to bringing in the prisoners." Maddra does not name the officer who signed the release. Outline wording "federal officials released 23 of them" stands; a writer may add that General Nelson Miles, Cody's friend, commanded in the region.
 
+### PATCH 2026-10-02 (T-470): era 07, small facts and the 1883 punishment
+- *Uncle Tom's Cabin*: Wikipedia summary (read 2026-10-02): "an anti-slavery novel by American author Harriet Beecher Stowe. Published in two volumes in 1852." (No month used.)
+- *Prince of Players*: Wikipedia summary (read 2026-10-02): "a 1955 20th Century Fox biographical film about the 19th century American actor Edwin Booth ... directed and produced by Philip Dunne from a screenplay by Moss Hart."
+- The Players: Wikipedia summary (read 2026-10-02): "a private social club founded in New York City by the 19th-century Shakespearean actor Edwin Booth ... Booth bought the house in 1888, reserved an upper floor for his residence, and turned the rest into a clubhouse." 16 Gramercy Park South.
+- Secretary of the Interior in 1890: Wikipedia summary, "John Willock Noble" (read 2026-10-02): "served as the Secretary of the Interior between 1889 and 1893."
+- Nate Salsbury: Wikipedia summary (read 2026-10-02): "Nathan Salsbury was an American showman ... and co-founder of Buffalo Bill's Wild West."
+- Black Maria: Wikipedia summary, "Edison's Black Maria" (read 2026-10-02): "Thomas Edison's film production studio in West Orange, New Jersey."
+- 1883 rules and their punishment, copied from `research/research-music.md` line 391 (which cites `research/research-religion.md` §7d): Commissioner of Indian Affairs Hiram Price, *Rules Governing the Court of Indian Offenses*, 30 March 1883, after Secretary of the Interior Henry M. Teller's letter of 2 December 1882: "The 'sun-dance,' the 'scalp-dance,' the 'war-dance,' and all other so-called feasts assimilating thereto, shall be considered 'Indian offenses'": first offense, rations withheld up to ten days; later offenses, rations withheld 15 to 30 days or up to 30 days in the agency prison.
+- Wounded Knee, copied from `research/research-native-nations.md` ("Wounded Knee and the Ghost Dance"): the 7th Cavalry, disarming Spotted Elk (Big Foot)'s band on Wounded Knee Creek, opened fire with carbines and Hotchkiss guns; between 250 and 300 Lakota killed, most of them women and children (Equal Justice Initiative; Britannica "Wounded Knee Massacre"; LOC).
+
+### PATCH 2026-10-02 (T-470): era 06, Rice's middle name and the Black Caribs
+- Wikipedia summary, "Thomas D. Rice" (read 2026-10-02): "Thomas Dartmouth Rice was an American performer and playwright who performed in blackface."
+- Wikipedia summary, "Garifuna" (the "Black Caribs" redirect, read 2026-10-02): "an Afro-Indigenous people of mixed free African and Amerindian ancestry who originated in the Caribbean island of Saint Vincent."
+
 ### PATCH 2026-09-28 (T-269b): Astor Place, one more published count
 - Miguel Hernandez, "The Astor Place Riot/Shakespeare Riots of 1849," *New York Almanack*, Jan 2, 2017, https://www.newyorkalmanack.com/2017/01/the-astor-place-riotshakespeare-riots-of-1849/ : "an estimated ... 25 people lay dead and more than 120 injured when militiamen fired into an unruly crowd." Adds a fourth figure to the range (18 on the night, 23, 25, 22 to 31). The outline's "between 22 and 31" with *Smithsonian*'s 18 + 5 = 23 covers it.
 
@@ -771,6 +817,25 @@ How the prose can say it: "At least four Lakota performers and one baby died on 
 ### PATCH 2026-09-28 (T-269c): McDaniel seating, a third account
 - BlackHistory.com, "When Hattie McDaniel Won an Oscar, She Was Banned From Sitting With Her Co-Stars," July 2019 (read via curl; journalism): "she was escorted to a small table in a back room that was being used to store the Oscar award trophys." With THR 2015 ("a small table set against a far wall") and *African Americans and the Oscar* (2008, via Snopes: "a rear table away from the Caucasian attendees"), three accounts. The outline states all three.
 - Who set the hotel's policy: no source read names the hotel's managers or owners in 1940. One search summary says the Schine family owned and ran the hotel, without a date (unconfirmed: search summary only). Wikipedia, "Ambassador Hotel (Los Angeles)," says the hotel opened January 1, 1921, as part of the Ambassador Hotels System, and does not name the owner in 1940 in the text read. Not used.
+
+### PATCH 2026-10-02 (T-470): era 08, facts for the fixer (other banks and read pages)
+- The Klan, copied from `research/research-slavery-freedom.md` line 295 and the slavery-freedom prose: "the Ku Klux Klan, founded December 1865 in Pulaski, Tennessee by Confederate veterans, ran campaigns of whipping, arson, and murder against freedpeople and their allies." Slavery-freedom prose: "Klansmen, armed and in disguise, whipped, burned out and murdered freed people and the white people who worked with them."
+- Boarding schools, copied from `research/research-native-nations.md` ("The boarding schools"): "On arrival: hair cut, clothing replaced with uniforms, an English name assigned, home language forbidden. Punishments ... beatings, solitary confinement, withholding food, mouths washed with soap" (DOI Federal Indian Boarding School Initiative Investigative Report Vol. 1, 2022). "At least 973 children died at the schools (documented deaths; the report says the true number is certainly higher)" (DOI Vols. 1 and 2, 2022 and 2024). Carlisle founded 1879 by Army officer Richard Henry Pratt.
+- Wounded Knee 1890, copied from `research/research-native-nations.md`: the 7th Cavalry opened fire with carbines and Hotchkiss guns; between 250 and 300 Lakota killed, most of them women and children.
+- *The Great Dictator*: Wikipedia, "The Great Dictator" (raw read 2026-10-02): "Chaplin's film advanced a stirring condemnation of the German and Italian dictators Adolf Hitler and Benito Mussolini."
+- Anna May Wong: Wikipedia (raw read 2026-10-02): "Wong was remembered principally for the stereotypical 'Dragon Lady' and demure 'Butterfly' roles that she was often given"; Hollywood's Asian women characters were "the naïve and self-sacrificing 'Butterfly' and the sly and deceitful 'Dragon Lady'."
+- Hattie McDaniel: Wikipedia (raw read 2026-10-02): "For her role as Mammy in Gone with the Wind (1939)"; "Her final wish, to be buried in Hollywood Cemetery, was denied because at the time of her death, the graveyard was segregated."
+- Micheaux: Wikipedia (raw read 2026-10-02): "In 1918, his novel The Homesteader ... attracted the attention of George Johnson, the manager of the Lincoln Motion Picture Company in Los Angeles."
+- Block booking: Wikipedia summary (read 2026-10-02): "a system of selling multiple films to a theater as a unit ... ruled unlawful by the U.S. Supreme Court's decision in United States v. Paramount Pictures, Inc. (1948)."
+
+### PATCH 2026-10-02 (T-470): era 09, facts for the fixer
+- Wikipedia, "Otto Preminger" (raw read 2026-10-02): "With Exodus (1960) Preminger struck a first major blow against the Hollywood blacklist by acknowledging banned screenwriter Dalton Trumbo."
+- Wikipedia, "A Raisin in the Sun" (raw read 2026-10-02): the Younger family of Chicago buys a house in Clybourne Park, a white neighborhood; "Karl Lindner, a white representative of the neighborhood they plan to move to, makes an offer to buy them out."
+- Wikipedia, "Sacheen Littlefeather" (raw read 2026-10-02): "Littlefeather repeatedly claimed that her father had White Mountain Apache and Yaqui ancestry."
+- Wikipedia, "Sidney Poitier" (raw read 2026-10-02): "his birth was two months premature, and he was not expected to survive, but his parents remained in Miami for three months to nurse him to health"; "His birth in the United States entitled him to US citizenship."
+- Wikipedia summary, "Desi Arnaz" (read 2026-10-02): "a Cuban-American actor, musician, producer, and bandleader."
+- Wounded Knee 1973, copied from `research/research-native-nations.md`: February 27 to May 8, 1973, 71 days; about 200 Oglala Lakota and AIM (American Indian Movement) members held the village of Wounded Knee against federal marshals and the FBI, protesting the Pine Ridge tribal chairman and broken treaties; two occupiers died (SDPB; NLM Native Voices; U.S. Marshals history).
+- Communism: the prose uses the definition already written in `manuscript/news-communication/part3` ("a system in which one party runs the government and the government owns the farms and factories") so the book defines it one way.
 
 ### PATCH 2026-09-28 (T-269c): Chicago 1919 count, for the Micheaux story
 - From `research/research-rights-movements.md` (Chicago Race Riot of 1919 Commemoration Project and Chicago History Museum, fetched by that chapter): July 27 to August 3, 1919; "thirty-eight people were killed, twenty-three Black and fifteen white, and some 537 Chicagoans were injured" (another page: 520); white attackers included "youth gangs and so-called 'athletic clubs'." The outline's Micheaux story now gives the count with that source.
@@ -915,6 +980,12 @@ How the prose can say it: "She often answered critics with the line..." (as the 
 - 2026-09-28 T-269a: eras 01 to 05 researched and written to the outline (progress="researched"); bank sections ERA 01 to ERA 05 plus BANK CHECK. Stories verified: marcos-farfan-de-los-godos, william-darby-1665, william-levingston, anthony-aston (new), lewis-hallam-younger, mercy-otis-warren, nancy-hallam. No [VERIFY] tags remain in eras 01 to 05. Eras 06 to 10 untouched (T-269b).
 - 2026-09-28 T-269b: eras 06 and 07 researched and written to the outline (progress="researched"); bank sections ERA 06, ERA 07, BANK CHECK eras 06 and 07. Stories verified: william-alexander-brown, ira-aldridge, william-henry-lane (new), edwin-forrest, edwin-booth, charlotte-cushman, billy-kersands. No [VERIFY] tags remain in eras 06 and 07. Eras 08 to 10 untouched.
 - 2026-09-28 T-269c: eras 08 and 09 researched (ERA 08, ERA 09, BANK CHECK eras 08 and 09). 11 stories verified in those eras, 3 new (bert-williams, lilian-st-cyr, rita-moreno). Era 10 remains SEED for T-269d.
+
+### PATCH 2026-10-02 (T-470): era 10, facts for the fixer (other banks and read pages)
+- The Osage murders, copied from `research/research-crime-justice.md` (FBI, "Osage Murders Case"; Oklahoma Historical Society, "Osage Murders") and from the native-nations prose: William Hale, a cattleman called "the King of the Osage Hills," ordered the murders of Anna Brown and her family so that their oil headrights would pass to his nephew Ernest Burkhart, Mollie's husband, and he could take control. Anna Brown was shot (May 22, 1921); her mother Lizzie Q. Kyle died (poison suspected); Rita and Bill Smith and their servant Nettie Brookshire were killed when their house was blown up (March 10, 1923). Burkhart pleaded guilty in June 1926 (life); Hale was convicted in January 1929 (life at Leavenworth). Death counts disagree: "about 24" (OHS), "at least two dozen" (FBI), "more than 60" Osage headright holders in murders and suspicious deaths between about 1920 and 1925 (Osage Nation, via native-nations). Native-nations prose: "White guardians and some of the men who married Osage women stole that money."
+- Trayvon Martin, copied from `research/research-rights-movements.md` (Britannica, "Shooting of Trayvon Martin"): George Zimmerman, "a neighborhood-watch volunteer," shot and killed Martin, "a 17-year-old African American," unarmed, in Sanford, Florida, on February 26, 2012. A jury found Zimmerman not guilty on July 13, 2013.
+- Release years, Wikipedia summaries read 2026-10-02: *The Polar Express* "a 2004 American animated ... film"; *Avatar* "a 2009 epic science fiction film"; *The Avengers* "a 2012 American superhero film."
+- Ke Huy Quan, Wikipedia (raw read 2026-10-02): "years_active = 1984–2002; 2021–present" (19 years away); played "Harrison Ford's 12-year-old sidekick Short Round"; his character in *Everything Everywhere All at Once* is Waymond Wang.
 
 # BANK CHECK, era 10 (T-269d, 2026-09-28)
 
