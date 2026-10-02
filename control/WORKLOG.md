@@ -4748,3 +4748,8 @@ VERIFY: python tools/project_state.py --check sports-play --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-health.md
 VERIFY: python tools/project_state.py --check health --stage prose
+
+### 2026-10-02 | [LOCAL] T-469 | disasters: FIXER opus, whole chapter [WAVE8L] | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F5-disasters.md
+VERIFY: python tools/project_state.py --check disasters --stage prose
