@@ -4914,3 +4914,4 @@ CHECKPOINT: control/checkpoints/R6-rest.md
 ### 2026-10-02 | [LOCAL] STEP 6 (second audit) begins in parallel on the other 27 chapters: sonnet checkers T-489.., queue in scratch a6queue.txt, findings to control/audit/<slug>/<partN>-findings-r2.md, progress `python tools/audit2.py`. Budget (Jon): stay under 90% (start 4%).
 AGENTS: T-488 a13e35f4bb31698e2 (R-6). Step 6 checkers T-489..T-507 launched (19); refill from a6queue.txt as they finish; stop launching near 80% usage. Next to launch: T-508 food-farming part2.
 ### 2026-10-02 | [LOCAL] STEP 4 (research round 2) COMPLETE: R-1, T-484..T-488, all chapters PASS.
+### 2026-10-02 | [LOCAL] STEP 6 progress: 48/111 second-audit files FINISHED (T-489..T-536). All agents done; nothing running. DECISIONS #39-41 logged.

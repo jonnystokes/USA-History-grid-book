@@ -45,7 +45,7 @@
 
 ## Counts
 
-By severity: BLOCKING 3 (rows 1, 4, 22; all three marked unsure), MAJOR 5 (rows 2, 5, 9, 35, plus none other; row 5 unsure), MINOR 33.
+By severity: BLOCKING 3 (rows 1, 4, 22; all three marked unsure), MAJOR 4 (rows 2, 5, 9, 35; row 5 unsure), MINOR 34.
 Total 41 findings.
 
 By rule (approx.): Run-on sentences 11; Not in bank 11; Defined hard word 7; The AI Cadence (anaphora, gnomic) 4; Passives with a Missing or False Agent 2; Metadiscourse 3; Personification 1; Hard subjects 2; Information Order, Defined Terms, Structure, Unanchored Comparatives 1 each.
