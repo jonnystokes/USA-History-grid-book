@@ -4654,3 +4654,4 @@ VERIFY: python tools/project_state.py --check work-workers --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F5-elements.md
 VERIFY: python tools/project_state.py --check elements --stage prose
+WAVE8 (T-451..T-458, 8 opus whole-chapter fixers, the remaining small chapters) at fresh window (Jon: ~half the window). WAVE6 measured ~5.2% per small-chapter fixer.
