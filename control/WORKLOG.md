@@ -4621,9 +4621,11 @@ CHECKPOINT: control/checkpoints/F5-energy.md
 VERIFY: python tools/project_state.py --check energy --stage prose
 
 ### 2026-10-01 | [LOCAL] T-452 | marketplace: FIXER opus, whole chapter [WAVE8] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-marketplace.md
 VERIFY: python tools/project_state.py --check marketplace --stage prose
+RESULT: DONE. PASS  marketplace / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=17 (verified 17) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=14692w files=3 validator_errors=0
+        391845 tokens, 241 tool uses, 19.8 min (opus). FIXER whole chapter [WAVE8]: 176 FIXED, 13 REJECTED, 0 NEEDS-RESEARCH, 16 found by fixer; Bezos kept per #33 with labor record; 14,678 -> 15,818 words
 
 ### 2026-10-01 | [LOCAL] T-453 | land-environment: FIXER opus, whole chapter [WAVE8] | model opus
 STATUS: DONE
