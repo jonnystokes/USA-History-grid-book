@@ -4863,8 +4863,10 @@ CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
 
 ### 2026-10-02 | [LOCAL] T-482 | education: FIXER opus, part2 [PAR2] | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
 CHECKPOINT: control/checkpoints/F5-education.md
 VERIFY: python tools/project_state.py --check education --stage prose
+RESULT: DONE. PASS  education / prose. measured: stage=WRITTEN ms_eras=10/10 written=10/10 ms_stories=21 (verified 21) ms_verify_tags=0 emdash=0 semicolon=0 manuscript=44147w files=3 validator_errors=0
+        299767 tokens, 144 tool uses, 10.9 min (opus). FIXER part2 only [PAR2]: 95 FIXED, 2 REJECTED, 0 NEEDS-RESEARCH, 25 found by fixer; state-by-state punishments, Civilization Fund Act purpose restored, Carlisle per #36; 10,207 -> 11,253 words
 USAGE AT START (T-481/T-482 parallel): 3% (Jon).
 AGENTS PAR2: T-481 a32df5e470776a7a2, T-482 a6edb01b9cfdb28e5
