@@ -4895,3 +4895,8 @@ VERIFY: python tools/project_state.py --check native-nations --stage prose
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/R3-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
+
+### 2026-10-02 | [LOCAL] T-486 | news-communication: RESEARCH round 2 R4-culture: news-communication music storytelling-evolution sports-play styles art holidays | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/R4-news-communication.md
+VERIFY: python tools/project_state.py --check news-communication --stage prose

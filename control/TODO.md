@@ -11,7 +11,7 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ## NOW
 
-NOW-RUNNING: T-485 crime-justice (RESEARCH round 2 R3-law-rights: crime-justice rights-movements government-politics religion education immigration)
+NOW-RUNNING: T-486 news-communication (RESEARCH round 2 R4-culture: news-communication music storytelling-evolution sports-play styles art holidays)
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): COMPLETE 2026-09-30.** All 37 chapters pass `--stage prose` (111 part files, 0 validator
