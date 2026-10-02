@@ -2513,6 +2513,61 @@ rests on this bank. Sources as that bank gives them; labels kept.
   (Villanova University Falvey Library, "Chaos in the Streets ... Aftermath,"
   https://exhibits.library.villanova.edu/chaos-in-the-streets-the-philadelphia-riots-of-1844/aftermath ).
 
+### PATCH 2026-10-02 (T-480): era 6 gaps found by the step 5 checker, confirmed on the pages
+
+- **LOC rel07 re-read in full (curl, 2026-10-02),** https://www.loc.gov/exhibits/religion/rel07.html :
+  - The benevolent societies "focused their efforts on the conversion of sinners to the new birth or to the
+    creation of conditions (such as sobriety sought by temperance societies) in which conversions could
+    occur." The American Tract Society's pamphlets aimed at "converting their recipients and eradicating
+    social vices like alcoholism and gambling that impeded conversion." In its first decade the Tract
+    Society "is estimated to have distributed 35 million evangelical books and tracts" (LOC names no
+    estimator). This sources the drinking line in the era 6 zoom.
+  - Revivals "eventually reached into almost every corner of the land."
+  - "Stone organized the powerful Cane Ridge revival" (LOC does not call it the largest).
+  - Lorenzo Dow: "Dow's audiences often exhibited unusual physical manifestations under the influence of
+    his impassioned preaching" (item 195, "Lorenzo Dow and the Jerking Exercise").
+  - Latrobe's plan: "To accommodate the powerful, at times uncontrollable, emotions generated at a camp
+    meeting, Latrobe indicated that, at the right of the main camp, **the organizers had erected** 'a
+    boarded enclosure filled with straw, into which the converted were thrown ...'" The racial separation
+    "prompted black Methodists to withdraw from the denomination a few years later **and form their own
+    independent Methodist church**." LOC names him "Benjamin Henry Latrobe" and gives no occupation.
+  - Tillman: "Engraving by P. S. Duval, after a painting by Alfred Hoffy, Philadelphia, 1844." The A.M.E.
+    churches "were graced by eloquent female preachers from their earliest days, although there was, as in
+    the white churches, resistance in many quarters to the idea of women preaching the Gospel."
+- **Tarring and feathering, now confirmed on a page (replaces the "unconfirmed" Smithsonian line in the
+  T-260b PATCH for the method and the burn):** Nathaniel Philbrick, "The Worst Parade to Ever Hit the
+  Streets of Boston," *Smithsonian Magazine*, 31 March 2013 (excerpt from *Bunker Hill*), curl, read
+  2026-10-02: a fire was used "to heat the stiff and sludgy pine tar ... into a pourable black paste"; the
+  crowd tore off John Malcom's clothes and daubed "his skin with steaming tar that would have effectively
+  parboiled his flesh." (1774 case; the general method. The church page still gives no injuries for
+  Partridge and Allen. "Blistered or peeled off ... solvents" stays unconfirmed: second article not found.)
+- **The 1838 Pennsylvania Bible law.** "In 1838 the State Legislature of Pennsylvania passed a law stating
+  that the Protestant King James Bible was a mandatory textbook in public schools." (Villanova Falvey
+  Library, "Chaos in the Streets ... Bible Controversy," WebFetch 2026-10-02, URL in §6d.) The same page
+  does not use the word "nonsectarian" and does not give a Catholic tax argument: those two prose claims
+  are unsourced and were cut.
+- **Finney's anxious bench and his opponents.** "the use of an anxious bench at the front of the
+  church—special seats for singling out persons who felt a special urgency about their salvation." "The
+  Old School Presbyterians, led by the New England revivalist Asahel Nettleton, resented Finney's
+  modifications to Calvinist theology." "The revivalistic Congregationalists, led by Lyman Beecher, feared
+  that Finney was opening the door to fanaticism." "A meeting was held at New Lebanon, NY, beginning on 18
+  July 1827, to examine the use of these so-called New Measures." (James E. Johnson, "Charles Grandison
+  Finney: Father of American Revivalism," *Christian History* 20 (1988), Christian History Institute,
+  https://christianhistoryinstitute.org/magazine/article/charles-grandison-finney , WebFetch 2026-10-02.)
+- **The church's founding date.** The Church of Jesus Christ of Latter-day Saints was organized on **6
+  April 1830** at the Whitmer farm near **Fayette, New York**. (Church of Jesus Christ of Latter-day Saints,
+  "Whitmer Farm: Church Organization Site,"
+  https://www.churchofjesuschrist.org/learn/locations/whitmer-farm-church-organization-site?lang=eng ;
+  label: the church's own site, via search summary of the page, 2026-10-02.)
+- **Nauvoo's land: a government source, which differs from Wikipedia (AUDIT-QUEUE T-327a item).**
+  Illinois Department of Natural Resources, "About Nauvoo State Park,"
+  https://dnr.illinois.gov/parks/about/park.nauvoo.html (WebFetch 2026-10-02): "Once a Fox Indian village
+  of 400 to 500 lodges, the site of Nauvoo was relinquished by a treaty in 1824 for 200 sacks of corn."
+  (Fox = Meskwaki.) Wikipedia (T-327a PATCH) gives a Sauk and Meskwaki village of up to 1,000 lodges,
+  sold by Quashquame to James White in 1823 or 1824 for liquor and 2,000 bushels of corn. **The two
+  accounts differ on the lodges, the corn and whether it was a treaty or a sale; the prose gives both.**
+  Still no scholarly source; round 2 may try BYU Studies or the Illinois State Historical Society.
+
 ---
 
 ## ERA 7 — 1850 to 1900 (`state="full"`)
@@ -2985,6 +3040,68 @@ Ethnology, part 2 (Washington: Government Printing Office, 1896), archive.org
   encyclopedia; two searches for an institutional source found none.)
 
 ---
+
+### PATCH 2026-10-02 (T-480): era 7 gaps found by the step 5 checker
+
+- **Catholic numbers.** "In 1850 Catholics made up only five percent of the total U.S. population." "By
+  1906, they made up seventeen percent of the total population (14 million out of 82 million people)."
+  (Julie Byrne, "Roman Catholics and Immigration in Nineteenth-Century America," National Humanities
+  Center, TeacherServe, https://nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/nromcath.htm ,
+  WebFetch 2026-10-02.)
+- **Four million freed** (copied from `research/research-slavery-freedom.md`, era 6): the census counted
+  **3,953,760 enslaved people in 1860** (U.S. Census 1860). And from the same bank, era 7: **Sherman's
+  Special Field Orders No. 15 (16 January 1865)** set aside about 400,000 acres of coastal land from
+  Charleston to northern Florida for freedpeople in forty-acre plots; about 40,000 people settled;
+  **President Andrew Johnson reversed the order in fall 1865 and returned the land to the former owners**
+  (New Georgia Encyclopedia; BlackPast; Freedmen & Southern Society Project). Also copied from that bank:
+  the Emancipation Proclamation (effective 1 January 1863) made the Union army an army of liberation
+  wherever it advanced; **the 13th Amendment was ratified on 6 December 1865**, abolishing slavery
+  everywhere except as punishment for a crime.
+- **The Know-Nothings "grew large by 1854"**, Kentucky Historical Society marker #2205 (copied from
+  `research/research-immigration.md`, PATCH T-238). Same bank, label Wikipedia "Bloody Monday": the mobs
+  "set fires and looted homes and businesses"; an armed crowd set out to attack the German Catholic church
+  of St. Martin of Tours and Mayor John Barbee, himself a Know-Nothing, turned it back. (Quinn's Row and
+  "over 100" are disputed; not used.)
+- **Who killed Parley Pratt.** Hector McLean, the estranged husband of Eleanor McComb McLean, who had
+  become Pratt's twelfth plural wife, shot and stabbed Pratt on **13 May 1857 in Crawford County,
+  Arkansas.** (Greg Armstrong, University of Arkansas at Fort Smith, "Pratt, Parley P. (Murder of),"
+  *CALS Encyclopedia of Arkansas*, https://encyclopediaofarkansas.net/entries/parley-p-pratt-7638/ ,
+  WebFetch 2026-10-02.) The entry does not say McLean was ever tried.
+- **The "sectarian" quotation, traced (the 7b CAUTION).** The sentence the National Constitution Center
+  quotes is from Justice **Clarence Thomas's** plurality opinion in ***Mitchell v. Helms***, 530 U.S. 793
+  (2000), decided 28 June 2000, joined by Chief Justice Rehnquist and Justices Scalia and Kennedy:
+  "Consideration of the amendment arose at a time of pervasive hostility to the Catholic Church and to
+  Catholics in general, and it was an open secret that 'sectarian' was code for 'Catholic.'" (CourtListener
+  full-text search API matched the phrase in this opinion, 2026-10-02; pin cite 828-829 from search summary.)
+  It is a plurality opinion, the view of four justices, not a ruling of the whole Court.
+- **Blaine, 1884, in the NCC page's own words:** "Historians have more or less accepted that Representative
+  James G. Blaine's sponsorship of the measure cost him many votes of Irish Catholics in the 1884
+  presidential election when, as the Republican nominee, he refused to repudiate **a pastor's**
+  denunciation of the Democrats as 'the party of rum, Romanism and rebellion.' Blaine lost." (Lyle
+  Denniston, National Constitution Center, "Constitution Check: Are the states' 'Blaine Amendments' on
+  shaky ground?", 19 January 2016, curl read 2026-10-02.) The NCC page names no historian.
+- **Who turned Seligman away, 1877.** "Judge Henry Hilton, the manager of the Grand Union Hotel in Saratoga,
+  New York, denied entry to Joseph Seligman and his family." "Hilton attributed the hotel's drop in business
+  to potential visitors not wanting to stay in a hotel which admitted Jews." The family had stayed there
+  before. (Center for Online Judaic Studies, "The Seligman-Hilton Affair, 1877,"
+  https://cojs.org/the_seligman-hilton_affair-_1877/ , WebFetch 2026-10-02; "stayed there previously" from
+  the search summary of the same page.)
+- **Reform and traditional wings.** LOC *From Haven to Home* timeline (curl read 2026-10-02) calls Isaac
+  Leeser "later to become a leader of the traditional wing of American Jewry" and Isaac Mayer Wise "later a
+  leader of the Reform wing of American Jewry." It does not define Reform Judaism's practices.
+- **Who sent the troops, 1890.** "In mid-November 1890 President Benjamin Harrison responded to the fears of
+  an Indian outbreak by ordering troops into the area." (John E. Carter, Nebraska State Historical Society,
+  "Wounded Knee Massacre," *Encyclopedia of the Great Plains*, University of Nebraska-Lincoln,
+  https://plainshumanities.unl.edu/encyclopedia/doc/egp.war.056.html , WebFetch 2026-10-02.) This confirms
+  the T-260b "13 November" line in substance (month, president, order); the exact day stays unconfirmed.
+- **What the boarding schools did to children** (copied from `research/research-native-nations.md`, era 7,
+  with its sources, DOI Federal Indian Boarding School Initiative Investigative Report Vols. 1 (2022) and 2
+  (2024)): on arrival children's hair was cut, their clothing replaced with uniforms, an English name
+  assigned and their home language forbidden; punishments documented by the federal investigation and
+  survivors include beatings, solitary confinement, withheld food and mouths washed with soap; **at least
+  973 children died** at the schools (the report says the true number is certainly higher); **at least 74
+  marked and unmarked burial sites at 65 schools.** Religion's span may state this in two sentences so the
+  span does not leave the children out (#36); native-nations leads.
 
 ---
 
@@ -3544,6 +3661,31 @@ Copied with its source from `research/research-government-politics.md`, "The 192
   medications called laxatives." "It works by helping the muscles in your intestines move stool."
 - Plain words for the prose: castor oil is a laxative, a medicine that makes the muscles of the bowels
   push out their contents. The Richwood dose is in no source: do not state it.
+
+### PATCH 2026-10-02 (T-480): era 8 gaps (Richwood actors, castor oil and castration effects, Wounded Knee, Collier's date)
+
+- **Richwood, 29 June 1940: CORRECTION to the T-260b line "WVPB says the officers forced it".** The WVPB
+  page, read in full (WebFetch 2026-10-02, URL as above), says: "Deputy Sheriff Martin Catlette and Police
+  Chief Bert Stewart detained seven Jehovah's Witnesses"; "The Legionnaires forced four of the Jehovah's
+  Witnesses to drink doses of castor oil" and "then marched all seven through a jeering mob to the post
+  office, where the Witnesses refused to salute the flag." So **American Legion members forced the oil and
+  led the march; the two officers held the seven.** WVPB gives no injuries.
+- **What castor oil does to a person** (Cleveland Clinic, "Castor Oil oral solution," URL as above,
+  WebFetch 2026-10-02): side effects listed are "Diarrhea," "Nausea," "Stomach pain," and "Vomiting"; "If
+  you think you have taken too much of this medicine contact a poison control center or emergency room at
+  once." (The T-260b line "Forcing a large dose made the person lose control of the bowels" stays
+  unconfirmed and is not used.)
+- **Castration, what it does** (Cleveland Clinic, "Orchiectomy: Removing Your Testicles,"
+  https://my.clevelandclinic.org/health/procedures/orchiectomy , WebFetch 2026-10-02): "People who have
+  both testicles removed (a bilateral orchiectomy) can't produce sperm." "This procedure makes them
+  infertile." The MTSU entry gives no victim, place or method for the 1940 castration.
+- **Wounded Knee, for the Black Elk story** (copied from `research/research-native-nations.md`, era 7, with
+  its sources: Equal Justice Initiative; Britannica; LOC; and the T-474 PATCH from `war`): on **29 December
+  1890** soldiers of the **7th Cavalry**, under **Colonel James W. Forsyth**, disarming Spotted Elk's (Big
+  Foot's) band on Wounded Knee Creek, opened fire with carbines and Hotchkiss guns (cannon); **between 250
+  and 300 Lakota were killed, most of them women and children.**
+- **Collier's circular, the date.** Irwin (§8g) gives no date; the NLM *Native Voices* timeline (§8g)
+  places Collier's religious-freedom circular in **1934**. Prose: "In 1934".
 
 ---
 
@@ -4341,6 +4483,14 @@ How the prose can say it: "No one is recorded as convicted of the 1956 bomb or t
 - Plain words for the prose: cyanide is a poison that stops the cells of the body from using oxygen, so
   the cells cannot make the energy they need to live.
 
+### PATCH 2026-10-02 (T-480): era 9, what became of the 1962 school-prayer amendments
+- National Archives, "The Constitution: Amendments 11-27," https://www.archives.gov/founding-docs/amendments-11-27
+  (WebFetch 2026-10-02): the amendments ratified after 1962 are the 24th (poll taxes, 1964), 25th
+  (presidential succession, 1967), 26th (voting age 18, 1971) and 27th (congressional pay, 1992). **None
+  concerns prayer or religion in schools.** So none of the amendments proposed in June 1962 (Taylor, Beall,
+  Johnson; §9b) became part of the Constitution. (Whether any passed either house is not sourced here; the
+  prose says only that none became part of the Constitution.)
+
 ## ERA 10 — 2000 to Today (`state="full"`)
 
 **THE PERISHABLE-FACTS RULE GOVERNS THIS WHOLE SECTION.** Every figure below carries the year it
@@ -5009,6 +5159,39 @@ Copied with its source from `research/research-styles.md` (T-272c, era 10).
   could not sue the individual officers for money under the Religious Land Use and Institutionalized
   Persons Act. (JURIST, Tarah Wright, 24 June 2026.) The guards' names are not in the sources read; the
   styles bank records that they acted on the warden's order (SCOTUSblog, 2025).
+
+### PATCH 2026-10-02 (T-480): era 10 gaps found by the step 5 checker
+- **Gallup's generations, with birth years** (Gallup, Jones, 29 March 2021, URL in §9h, curl read
+  2026-10-02): "Traditionalists (born before 1946)", "Baby boomers (born 1946-1964)", "Generation X (born
+  1965-1980)", "Millennials (born 1981-1996)"; 2018-2020 church membership 66, 58, 50, 36 per cent.
+- **Saini's testimony, read in full** (Senate Judiciary PDF, URL in §10i, read 2026-10-02 with pypdf): "My
+  mother and father brought Kamal and me to America in 2004. I was only 10 years-old. Like many other
+  immigrants, they wanted us to have a better life, a better education." "It was a Tuesday, 2 days after
+  our mother was killed, that my brother Kamal and I ate the leftovers of the last meal she had made for
+  us. We ate her last rotis ... She had made the rotis from scratch the night before she died. Along with
+  the last bite of our food that Tuesday came the realization that this was the last meal, made by the
+  hands of our mother, that we will ever eat in our lifetime."
+- **The 2022 Oak Creek resolution was introduced; the release does not say it passed.** Senator Baldwin's
+  release (URL in the T-260c PATCH, WebFetch 2026-10-02) says she "introduced a resolution"; it counts "7
+  worshipers" dead, lists Baba Punjab Singh, and names Lieutenant Brian Murphy, "shot 15 times at close
+  range."
+- **Minneapolis shooter's death:** "The assailant died at the scene from a self-inflicted gunshot wound,
+  according to police." (NPR, URL in the T-260c PATCH, curl read 2026-10-02.)
+- **Sutherland Springs, the court's own words** (Holcombe damages findings, URL in the T-260c PATCH,
+  pdftotext 2026-10-02): "the Government failed to exercise reasonable care in its undertaking to submit
+  Kelley's criminal history to the FBI and that the Government was 60% responsible for the Plaintiffs'
+  injuries." The background-check consequence is not in this document; still unconfirmed (round 2: read
+  the 6 July 2021 liability opinion, 2021 WL 2821125).
+- **Louisiana H.B. 71 signed 19 June 2024.** "Louisiana Republican Gov. Jeff Landry signed a bill, H.B. 71,
+  on Wednesday requiring all public schools in the state to display a poster of the Ten Commandments in
+  each classroom." (Reason, 20 June 2024, https://reason.com/2024/06/20/thou-shalt-not-covet-state-power/ ,
+  journalism, WebFetch 2026-10-02; Wednesday = 19 June 2024.)
+- **The Doctrine of Discovery, defined.** Catholic News Service via USCCB, "Responding to Indigenous,
+  Vatican disavows 'doctrine of discovery'," 30 March 2023,
+  https://www.usccb.org/news/2023/responding-indigenous-vatican-disavows-doctrine-discovery (WebFetch
+  2026-10-02): "a collection of papal texts ... that appeared to bless the efforts of explorers to colonize
+  and claim the lands of any people who were not Christian"; the Vatican said it "is not part of the
+  teaching of the Catholic Church."
 
 ## Coverage / status log
 

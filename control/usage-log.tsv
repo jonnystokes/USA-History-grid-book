@@ -424,3 +424,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-02	T-479	prose	general-purpose/opus	[LOCAL] education: FIXER part3 only [WAVE7G]: 113 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 25 found by 	?	?	?	421226	271	1287855	?	completed	PASS  education / prose
 2026-10-02	T-477	prose	general-purpose/opus	[LOCAL] rights-movements: FIXER parts 1-2 [WAVE7G]: 227 FIXED, 6 REJECTED, 0 NEEDS-RESEARCH, 23 found by f	?	?	?	496614	232	1420829	?	completed	PASS  rights-movements / prose
 2026-10-02	T-473	prose	general-purpose/opus	[LOCAL] war: FIXER whole chapter [WAVE7G]: 305 FIXED, 10 REJECTED, 3 NEEDS-RESEARCH (+1 parti	?	?	?	554761	229	1617114	?	completed	PASS  war / prose
+2026-10-02	T-480	prose	general-purpose/opus	[LOCAL] religion: FIXER parts 2-3: 266 FIXED, 10 REJECTED, 1 NEEDS-RESEARCH, 9 found by fixer; flo	?	?	?	565942	316	1608141	?	completed	PASS  religion / prose
