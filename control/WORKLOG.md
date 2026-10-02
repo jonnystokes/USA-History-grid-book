@@ -4876,3 +4876,8 @@ AGENTS PAR2: T-481 a32df5e470776a7a2, T-482 a6edb01b9cfdb28e5
 ### 2026-10-02 | [LOCAL] STEP 5 COMPLETE. T-481/T-482 (education parts 1-2) PASS. All 37 chapters PASS prose,
 111/111 part files validate, manuscript 784,656 words (from ~711,000), banks 1.18M words. Next: step 4 round-2
 research leftovers (checkpoint NEEDS-RESEARCH lists + AUDIT-QUEUE; #32 first), then step 6 second audit.
+
+### 2026-10-02 | [LOCAL] T-483 | slavery-freedom: RESEARCH round 2, R-1 (#32 priority + 6 items) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/R4-slavery-freedom.md
+VERIFY: python tools/project_state.py --check slavery-freedom --stage prose
