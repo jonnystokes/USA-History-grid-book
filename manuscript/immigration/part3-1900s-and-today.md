@@ -41,13 +41,13 @@ In 1946 he made the film *It's a Wonderful Life*.
 ### Doukenie Bacos
 
 > **Who:** A Greek girl who reached Ellis Island at 16. She was traveling underage and was afraid officials would send her back.
-> **When and where:** Born December 18, 1904, to a Greek family in Thrace. Sailed from Piraeus, Greece. Reached Ellis Island January 5, 1921, by one date in her record.
+> **When and where:** Born December 18, 1904, to a Greek family in Thrace. Sailed from Piraeus, Greece. Reached Ellis Island January 5, 1921.
 
 Doukenie Bacos reached Ellis Island at the age of 16. She was traveling underage, which means she was younger than an adult. She was afraid the officials would send her home.
 
-Her full name was Doukenie Babayanie Bacos. She was born on December 18, 1904, to a Greek family in Thrace, a region of southeastern Europe now divided among Greece, Turkey and Bulgaria. She sailed on the ship *King Alexander* from Piraeus, the port city of Athens. Her record gives January 5, 1921, as the day she reached Ellis Island. Other parts of the same record give December 22, 1919. The two dates do not agree.
+Her full name was Doukenie Babayanie Bacos. She was born on December 18, 1904, to a Greek family in Thrace, a region of southeastern Europe now divided among Greece, Turkey and Bulgaria. She sailed on the ship *King Alexander* from Piraeus, the port city of Athens. She left on December 22, 1920, and reached Ellis Island on January 5, 1921. Her interview opens with the year 1919, and National Park Service staff later marked that year as a mistake.
 
-She later said she had thought about jumping into the water rather than be sent back. In 1991 she told her story to the Ellis Island Oral History Project, which records interviews with people who came through the island. Her interview is number 49 in its EI series.
+Officials at Ellis Island held her for three days. Her uncle, who had paid for her ticket, was a bachelor, a man who had never married. The officials would not hand a girl her age to a bachelor alone, so he had to find a family for her to live with. She was afraid they would send her back, and she later said she had thought of falling into the river and dying rather than go home. On the third day the officials let her go. That night her uncle came with a woman he called her "aunt," and Doukenie went to live with that family. In 1991 she told her story to the Ellis Island Oral History Project, which records interviews with people who came through the island. Her interview is number 49 in its EI series.
 <!-- hb-story:end slug="doukenie-bacos" -->
 
 <!-- hb-zoom level="span" label="Angel Island" -->

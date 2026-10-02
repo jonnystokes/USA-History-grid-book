@@ -665,6 +665,13 @@ The §6o list of Georgia, Louisiana, Alabama and South Carolina penalties was fl
 - **Alabama, 1832** (Clay's *Digest*, p. 543): **a fine of $250 to $500** on anyone who tried to educate any Black person, enslaved or free. In 1833 lawmakers let the mayor and aldermen of Mobile license teachers for the free children of Creole families who had lived there in 1803.
 - **South Carolina, 1834** ("Laws of South Carolina, 1834"): Woodson says the act was "more stringent" and aimed at "the destruction of their schools," and also barred Black people from working as clerks or salesmen in shops. **He gives no penalty figures.** A search-result summary gives: a white offender, a fine up to $100 and up to six months in jail; a free person of colour, up to 50 lashes and a fine up to $50 *(unconfirmed: search summary only)*.
 - **Who was punished and how, stated plainly:** in every state that set out penalties, white teachers faced fines and jail, and Black teachers, enslaved or free, faced the whip. That is written into the North Carolina act (§6o), the Virginia act and the Georgia act above.
+  **CORRECTION 2026-10-02 (T-485, AUDIT-QUEUE T-482):** "in every state" is wrong. The whip for Black
+  teachers is in the North Carolina, Georgia and Virginia acts only. Louisiana's 1830 act set one to twelve
+  months in prison for anyone who taught an enslaved person, and Alabama's 1832 act set a fine of $250 to $500
+  for anyone who taught a Black person, with no whipping and no split by the teacher's race (both entries
+  above, from Woodson's citations of the session acts and Clay's *Digest*). Read the sentence above as: in
+  North Carolina, Georgia and Virginia, white teachers faced fines or jail and Black teachers faced the whip.
+  The part 2 prose already says this correctly.
 
 ### PATCH 2026-09-27 (T-261b): the North had its own attacks on schools for Black pupils (boundary note)
 
@@ -1550,6 +1557,16 @@ Source: *Gong Lum v. Rice*, 275 U.S. 78 (1927), text at https://www.law.cornell.
 
 ### PATCH 2026-10-02 (T-479): who could join the United Daughters of the Confederacy
 Source: Encyclopedia Virginia, "United Daughters of the Confederacy" (already cited in §8g-2, read directly 2026-10-02): founded 10 September 1894 in Nashville "by Caroline Meriwether Goodlett and Anna Mitchell Davenport Raines as a national 'federation of all Southern Women's Auxiliary, Memorial, and Soldiers' Aid Societies.'" "Membership in the UDC was therefore reserved for women sixteen years of age and older who could prove to be the descendants of 'men and women who served honorably in the Army, Navy or Civil Service of the Confederate States of America, or gave Material Aid to the Cause.'" The entry read does not use the word "white"; do not add it without a source.
+
+### PATCH 2026-10-02 (T-485): word meanings used in era 8 prose (matron, rattan)
+- **Matron.** Wiktionary, "matron" (MediaWiki API extract, read 2026-10-02), citing Webster's Revised
+  Unabridged Dictionary (1913): "A woman in charge of the domestic arrangements of an establishment or
+  institution"; "A housekeeper, especially, a woman who manages the domestic economy of a public
+  institution." Supports the prose gloss "the woman on the staff in charge of the girls" for a boarding
+  school's matron.
+- **Rattan.** Wiktionary, "rattan" (same API, read 2026-10-02): a climbing palm, the material made from it,
+  and "(by extension) A cane made from this material"; as a verb, "To beat with a rattan cane." Supports the
+  prose gloss "a thin, bendy cane." (Merriam-Webster returned 403.)
 
 ---
 
@@ -2920,6 +2937,24 @@ Source: U.S. Department of State, Office of the Historian, "Sputnik, 1957" (http
 ### PATCH 2026-10-02 (T-479): Sal Castro was one of the thirteen arrested
 Source: Wikipedia, "Sal Castro" (raw text read 2026-10-02), citing the *Los Angeles Times* obituaries of 15-16 April 2013 (Elaine Woo; Teresa Watanabe): "In the wake of the demonstrations, Castro was arrested and charged with 15 counts of conspiracy to disrupt public schools and 15 counts of conspiracy to disturb the peace. Twelve others, many of whom were Brown Berets members, were also arrested and charged. The charges were dropped in 1972." Born 25 October 1933, died 15 April 2013. Wikipedia only; a round-2 agent may confirm in the LA Times.
 
+### PATCH 2026-10-02 (T-485): Sal Castro's arrest confirmed; the date and the end of the case differ
+- UC Santa Barbara news release on Mario T. García's book about Castro, 2011
+  (https://news.ucsb.edu/2011/012980/ucsb-scholar-examines-1968-blowouts-and-chicano-struggle-educational-justice,
+  fetched 2026-10-02): "In May 1968, he and 12 others were arrested by Los Angeles police and indicted on a
+  felony charge of conspiracy to foment a walkout of the schools." "After two years of legal wrangling, the
+  indictments were overturned." "He was barred from teaching at Lincoln High School, until pressure from the
+  community forced the school board to reinstate him."
+- Swarthmore Global Nonviolent Action Database, "East Los Angeles students walkout for educational reform
+  (East L.A. Blowouts), 1968" (fetched 2026-10-02): "On March 31, thirteen of the walkout organizers were
+  arrested for conspiracy to disturb schools and the peace, a felony charge." "Included in the LA 13 were Sal
+  Castro and Moctesuma Esparza." He was reinstated on 3 October after sit-ins at the Board office.
+- LA Conservancy (search listing, not fetched): "the California State Appellate Court struck down the charges
+  two years later."
+- **Disagreements:** arrest date March 31 (Swarthmore) or May 1968 (UCSB/García); end of the case: thrown out
+  on appeal about two years later (UCSB, LA Conservancy) or dropped in 1972 (Wikipedia). The LA Times page
+  could not be fetched. Prose now says "later that spring" and "about two years later, a California appeals
+  court threw out the charges." Castro's arrest among the thirteen is confirmed by both fetched pages.
+
 ### PATCH 2026-10-02 (T-479): who disputed *A Nation at Risk* (the Sandia report)
 Source: ERIC records EJ463876 and EJ471787 (ERIC API, read 2026-10-02). Robert M. Huelskamp, "Perspectives on Education in America," 1993: "Describes Sandia National Laboratories' wide-ranging analysis of local, state, and national education systems. On most measures (dropout and retention rates, standardized test scores, higher education enrollment, education spending, international comparisons, educator status, and work-force skills), lab found steady or slight improvement." The full report, by C. C. Carson and others, was printed in 1993 as "Perspectives on Education in America. An Annotated Briefing." Use this to name who argued with the commission's picture of decline.
 
@@ -3703,6 +3738,31 @@ Source: Florida Senate bill page, https://www.flsenate.gov/Session/Bill/2025/296
 - **No Child Left Behind:** Thomas S. Dee and Brian Jacob, "The Impact of No Child Left Behind on Student Achievement," *Journal of Policy Analysis and Management*, 2011 (ERIC EJ938589; NBER Working Paper 15531, ERIC ED507267; abstract read through the ERIC API 2026-10-02). They call the law's effect "a highly controversial but centrally important question." Using NAEP: "NCLB generated statistically significant increases in the average math performance of fourth graders (effect size = 0.23 by 2007)," with "evidence of improvements in eighth-grade math achievement, particularly among traditionally low-achieving groups," but "no evidence that NCLB increased fourth-grade reading achievement."
 - **Vouchers, Louisiana:** Jonathan N. Mills and Patrick J. Wolf, "The Effects of the Louisiana Scholarship Program on Student Achievement after Two Years," Louisiana Scholarship Program Evaluation Report #1, 2016 (ERIC ED574515): using a scholarship to enroll in a private school "has negatively impacted both ELA and math achievement, although only the latter estimates are statistically significant," with "less negative" estimates in the second year. Anna J. Egalite, "The Competitive Effects of the Louisiana Scholarship Program on Public School Performance," Evaluation Report #4, 2016 (ERIC ED574518): effects on the public schools facing competition were "neutral to positive" and "small in magnitude," largest in the schools "most affected by the competitive threat."
 - How many voucher and ESA users were already in private schools: still not sourced. Not printed.
+
+### PATCH 2026-10-02 (T-485): what "second-degree murder" means in Georgia (Colin Gray)
+- Official Code of Georgia § 16-5-1(d), as printed by FindLaw
+  (https://codes.findlaw.com/ga/title-16-crimes-and-offenses/ga-code-sect-16-5-1/, fetched 2026-10-02): "A
+  person commits the offense of murder in the second degree when, in the commission of cruelty to children in
+  the second degree, he or she causes the death of another human being irrespective of malice." § 16-5-1(e)(2):
+  "imprisonment for not less than ten nor more than 30 years."
+- O.C.G.A. § 16-5-70(c), FindLaw (https://codes.findlaw.com/ga/title-16-crimes-and-offenses/ga-code-sect-16-5-70/,
+  fetched 2026-10-02): "Any person commits the offense of cruelty to children in the second degree when such
+  person with criminal negligence causes a child under the age of 18 cruel or excessive physical or mental
+  pain."
+- Plain gloss for the prose: causing a death while, through criminal carelessness, causing a child under 18
+  "cruel or excessive" pain. Malice (meaning to kill) is not needed. Ten to 30 years in prison.
+
+### PATCH 2026-10-02 (T-485): how many voucher and ESA users were already in private school
+- Jule Pattison-Gordon, "Who Really Benefits From Universal School Choice?" *Governing*, 24 June 2025
+  (https://www.governing.com/policy/who-really-benefits-from-universal-school-choice, fetched 2026-10-02):
+  of universal ESA programs, "Such studies tend to find that two-thirds of participants had never attended a
+  public school, while one-third have, Wolf says" (Patrick Wolf, University of Arkansas). Florida, after its
+  programs opened to all students in 2023: "Reportedly, 69 percent of new participants were already
+  attending private school" (credited to Politico). Arkansas 2023: "95 percent of 2023 voucher participants
+  were either newly enrolling in kindergarten or had attended a private school in the previous year"
+  (credited to Politico).
+- Search listings (not fetched) give Iowa 2023-24 at about 66 percent previously in a nonpublic school and an
+  Arizona Department of Education analysis at three-quarters. Not used.
 
 ---
 

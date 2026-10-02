@@ -111,7 +111,7 @@ In 1624 the king's officials took away the Virginia Company's charter. Virginia 
 > **Who:** The colony's secretary, who served as Speaker of the first elected assembly in English North America and wrote the record of what it did.
 > **When and where:** Jamestown, Virginia, July 30 to August 4, 1619.
 
-John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619."
+John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Brent Tarter, a historian at the Library of Virginia, wrote that any copies kept in Virginia would have been destroyed with most of the colony's records when British soldiers raided Richmond during the American Revolution.
 
 Pory was born in about 1572 at Thompson, in Norfolk, England. He studied at Gonville and Caius College, Cambridge, and earned his first degree in 1592 and a higher degree in 1595. He had also sat in the English Parliament, the group of lawmakers who made England's laws, so he knew how a lawmaking body ran its business.
 

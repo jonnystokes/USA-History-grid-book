@@ -1148,6 +1148,17 @@ How the prose can say it: leave the trials out, or "Few of the rioters were ever
 - Not in `immigration`'s outline (grep 2026-09-30). `holidays` tells it only as context for Columbus Day 1892.
   This chapter tells the prison, the killers and the grand jury.
 
+### PATCH 2026-10-02 (T-485): the newspapers' word for what they said was done to Myrtle Vance (DECISIONS #31)
+- *New York Sun*, 2 February 1893, as reprinted in Ida B. Wells, *The Red Record* (1895), Project Gutenberg
+  text (https://www.gutenberg.org/files/14977/14977-h/14977-h.htm): the report opens "Henry Smith, the negro
+  ravisher of four-year-old Myrtle Vance". The report also calls the crime an "outrage". "Ravisher" in 1893
+  meant a man who commits rape. So the period newspaper's word is rape ("ravisher").
+- Wells's own comment in the same chapter: "the child was not brutally assaulted as the world has been told
+  ... there was no evidence of such an assault"; people who saw the body said "only a slight abrasion and
+  discoloration was noticeable and that mostly about the neck."
+- Prose use: "Newspaper reports said she had also been raped", with the *Sun*'s word, and Wells's
+  witnesses who saw no sign of it. Rape is already defined earlier in part 2 (the Dakota trials).
+
 ## Era 8: 1900 to 1950 (T-265b, 2026-09-27)
 
 ### Ed Johnson, lynched in Chattanooga after the Supreme Court stayed his execution, 1906 (story; wrongful conviction)

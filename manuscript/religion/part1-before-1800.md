@@ -312,7 +312,7 @@ Moore's men destroyed nearly all of the fourteen mission towns. At the church of
 
 The counts of people taken vary widely. Moore reported that his army killed more than 1,100 men, women and children and captured more than 4,300 people as slaves, most of them women and children. Moore had promised to pay for the raid with captives, and his count is the highest. Other counts run from hundreds of people to about 1,400. The historian John Hann counts about 2,000 Apalachee who went into exile after the raids, and he writes that an unknown number were enslaved. In 1680 the fourteen mission towns had held about 8,000 people.
 
-Many Apalachee were unhappy with the forced labor the Spanish demanded, which included carrying goods about 100 miles to St. Augustine. The Spanish had also forbidden mission Apalachee to own guns. Many Apalachee left with Moore by choice. Moore said that most of the people of seven villages joined him.
+Many Apalachee were unhappy with the forced labor the Spanish demanded, which included carrying goods about 100 miles to St. Augustine. The Spanish had also forbidden mission Apalachee to own guns. Many Apalachee left with Moore. In his report, Moore said that most of the people of seven villages chose to join him.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New Lights and Old Lights" -->

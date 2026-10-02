@@ -352,6 +352,33 @@ with the numbers `war` gives, and hand off.** Do not retell it here.
   (Wikipedia, "Francisco Pareja," read 2026-10-02; Wikipedia only, so use it only for the plain point
   that friars taught a catechism.)
 
+### PATCH 2026-10-02 (T-485): part 1 facts that rested on Wikipedia, checked on catalogs and agency pages
+- **Pareja's 1612 catechism, confirmed.** Digital Culture of Metropolitan New York catalog record for the
+  New-York Historical Society copy (https://dcmny.org/do/ea1f4da9-e9e1-4c9e-aebf-0e650e8f5279, fetched
+  2026-10-02): *Cathecismo, en lengua Castellana, y Timuquana. En el qual se contiene lo que se les puede
+  enseñar a los adultos que an de ser baptizados*, by Francisco Pareja (d. 1628), Mexico City, printed by
+  Cornelio Adrián César and the widow of Pedro Balli, 1612, [160] pages with woodcuts. The prose sentence
+  ("In 1612 the friar Francisco Pareja printed a catechism in Spanish and in the Timucua language") stands.
+  The "first book in an Indigenous language of the United States" claim stays Wikipedia-only and is not used.
+- ***A Key*'s subject, confirmed from its title.** Project Gutenberg record, ebook 63701 (fetched 2026-10-02):
+  the full title is *A Key Into the Language of America, or an Help to the Language of the Natives in That
+  Part of America Called New-England Together with Briefe Observations of the Customes, Manners, and
+  Worships, &c. of the Aforesaid Natives* (1643). Gutenberg's summary: it documents "particularly
+  Narragansett." The prose (Native languages of New England, mostly Narragansett, and Narragansett daily
+  life) stands.
+- **Apalachee "by choice": SEARCHED, NOT FOUND on a scholarly page.** Checked: Florida Historical Quarterly,
+  "Apalachee Indians, 1704-1763" (UCF STARS, 403); Dictionary of American History entry "Apalachee Massacre"
+  on encyclopedia.com (fetched: nothing on who went willingly); searches returned Wikipedia and its mirrors.
+  The prose now attributes the claim to Moore's report ("In his report, Moore said that most of the people
+  of seven villages chose to join him") instead of stating "by choice" in the book's voice.
+- **Acoma paragraph (part 1), checked against an agency page.** NPS, "Traditional Groups along El Camino Real
+  de Tierra Adentro" (https://www.nps.gov/articles/000/traditional-groups-along-el-camino-real-de-tierra-adentro.htm,
+  fetched 2026-10-02): "Some 70 Acoma girls under the age of 12 were sent down El Camino Real and placed in
+  convents across Mexico." "In all probability, none ever returned home." Zaldívar "was killed at Acoma for
+  demanding blankets and provisions from the tribe." The rest of the paragraph rests on the native-nations
+  bank's cited sources (Carlson 2008 with page numbers, the All Pueblo Council of Governors, NPR), copied
+  below by T-478.
+
 ### PATCH 2026-10-02 (T-478): Acoma, 1598 and 1599, the friars' part (copied from `research/research-native-nations.md`, "Acoma Pueblo, December 1598 – February 1599", with its sources)
 
 `native-nations` leads and tells Acoma in full (part 1, span "Acoma, 1598 and 1599"). Under DECISIONS #36
@@ -3039,6 +3066,14 @@ Ethnology, part 2 (Washington: Government Printing Office, 1896), archive.org
   https://en.wikipedia.org/wiki/History_of_Nauvoo,_Illinois , opened with WebFetch 2026-09-30. Label:
   encyclopedia; two searches for an institutional source found none.)
 
+### SEARCHED, NOT FOUND 2026-10-02 (T-485): a scholarly or primary source for the James White and Quashquame sale (era 6, AUDIT-QUEUE T-327a)
+- Checked: Joseph Smith Papers place entry "Nauvoo, Illinois" (fetched: starts in 1839, nothing on the village
+  or the sale); BYU Studies vol. 40 no. 2 (fetched: not about the land); searches for the phrase
+  "sku-ti-apo" and for Quashquame with Nauvoo returned only Wikipedia, its mirrors and fan wikis. The original
+  source of the "sku-ti-apo" quotation was not found.
+- The prose keeps both accounts as written (Illinois DNR's, attributed; the other given as "another account").
+  Neither is upgraded or cut.
+
 ---
 
 ### PATCH 2026-10-02 (T-480): era 7 gaps found by the step 5 checker
@@ -5182,6 +5217,29 @@ Copied with its source from `research/research-styles.md` (T-272c, era 10).
   Kelley's criminal history to the FBI and that the Government was 60% responsible for the Plaintiffs'
   injuries." The background-check consequence is not in this document; still unconfirmed (round 2: read
   the 6 July 2021 liability opinion, 2021 WL 2821125).
+
+### PATCH 2026-10-02 (T-485): Sutherland Springs, the background checks, from the 6 July 2021 liability findings
+- *Holcombe v. United States*, No. SA-18-CV-555-XR (W.D. Tex.), ECF No. 452, "Findings of Fact and Conclusions
+  of Law," signed 6 July 2021 by **Judge Xavier Rodriguez**
+  (https://www.govinfo.gov/content/pkg/USCOURTS-txwd-5_18-cv-00555/pdf/USCOURTS-txwd-5_18-cv-00555-6.pdf,
+  downloaded and read with pdftotext 2026-10-02):
+  - Finding 2: in four gun purchases from licensed dealers, "the retailer ran the mandatory background check
+    through the National Instant Criminal Background Check System ('NICS') administered by the FBI. In each
+    instance, the response from the NICS was that the retailer could proceed with the sale."
+  - Finding 3: "Kelley should not have cleared the background check, however, because he had been convicted
+    of a disqualifying offense in November 2012 while he was serving in the United States Air Force," at
+    Holloman Air Force Base, New Mexico. Finding 4: a general court-martial convicted him of assaulting his
+    then-wife, Tessa Brennaman, and his stepson.
+  - Finding 41: Air Force Office of Special Investigations agents took his fingerprints on 9 June 2011 "but
+    did not mail them to the FBI." Finding 95: after his conviction, confinement-facility staff "failed to
+    collect or submit Kelley's fingerprints for inclusion in the NICS."
+  - Finding 27: a reported felony assault conviction "results in an automatic denial."
+  - "It is undisputed that every firearm in Kelley's possession ... was purchased from an FFL [licensed
+    dealer] after he passed a NICS background check."
+  - Apportionment: "had the Government done its job and properly reported Kelley's information into the
+    background check system--it is more likely than not that Kelley would have been deterred from carrying
+    out the Church shooting." Conclusion: the United States "60% responsible."
+- Confirms the search-summary line above.
 - **Louisiana H.B. 71 signed 19 June 2024.** "Louisiana Republican Gov. Jeff Landry signed a bill, H.B. 71,
   on Wednesday requiring all public schools in the state to display a poster of the Ten Commandments in
   each classroom." (Reason, 20 June 2024, https://reason.com/2024/06/20/thou-shalt-not-covet-state-power/ ,

@@ -4891,8 +4891,8 @@ RESULT: DONE. native/war group: 15 written, 4 not found; Sand Creek (Anthony), W
 CHECKPOINT: control/checkpoints/R2-native-nations.md
 VERIFY: python tools/project_state.py --check native-nations --stage prose
 
-### 2026-10-02 | [LOCAL] T-485 | crime-justice: RESEARCH round 2 R3-law-rights: crime-justice rights-movements government-politics religion education immigration | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. law/rights group: 30 items, 17 answered, 4 not found, rest already closed; Vance per period source (#31), Carrie Buck consent, education bank whip corrected; all 6 chapters PASS prose+research. 317,088 tokens, 237 tools, 18.9 min (opus).
 CHECKPOINT: control/checkpoints/R3-crime-justice.md
 VERIFY: python tools/project_state.py --check crime-justice --stage prose
 

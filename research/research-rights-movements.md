@@ -300,6 +300,16 @@ The three letters are in the Adams Family Papers at the Massachusetts Historical
 - **The 1840 book.** MHS Beehive (era-5 PATCH above, refetched 2026-10-02): "He did not include her eloquent plea to 'Remember the Ladies,' but he certainly kept her message intact." The page does not settle whether *Letters of Mrs. Adams* (1840) printed the three 1776 letters. Prose must not say the 1840 book "first published them"; say he published a book of her letters in 1840.
 - **Boston schools, 1787.** NPS, "The Black Struggle for Equal Education in Boston, 1787 to 1976" (fetched 2026-10-02): Boston's schools did not legally bar Black children, but "Black students found themselves at the mercy of hostile teachers and fellow students." West End Museum, "Prince Hall," https://thewestendmuseum.org/history/era/west-boston/prince-hall/ (fetched 2026-10-02): Hall petitioned "in 1787 and 1800 for a separate Black public school in Boston when Black students experienced racism in majority-white public schools."
 - **SEARCHED, NOT FOUND 2026-10-02 (T-477): that the 1787 petitioners paid taxes.** A search listing (no fetched page) says Black Bostonians were taxed as whites were and complained of "taxation without education." No fetched page states it (NPS, West End Museum and American History Central checked; Boston Review returned 403). The prose no longer says it.
+- **SEARCHED, NOT FOUND 2026-10-02 (T-485), second round: the petition's own words on taxes.** Checked:
+  NPS "The Black Struggle for Equal Education in Boston, 1787 to 1976" (fetched: quotes the petition, "receive
+  no benefit from the free schools in the town of Boston," nothing on taxes); "An African School for African Americans:
+  Black Demands for Education in Antebellum Boston," *History of Education Quarterly*, Cambridge Core (fetched: taxpayers named only for the 1796 petition); West End
+  Museum (fetched: nothing on taxes); the OUP companion PDF of the petition text (fetch returned no text). One
+  fetched page states it, as a paraphrase only: Yale-New Haven Teachers Institute curriculum unit 91.03.02
+  (1991), "Hall petitioned the Massachusetts legislature for a means to be provided for the education of
+  colored children, since their parents (as free people of color) were taxed as were white people"
+  (https://teachersinstitute.yale.edu/curriculum/units/1991/3/91.03.02/2). A teaching unit's paraphrase is too
+  weak to state the 1787 claim as fact. The prose keeps the claim out.
 
 ## 6. 1800 to 1850
 
@@ -1914,6 +1924,16 @@ Every key fact in the six older era-8 story blocks was matched against the bank 
 ### PATCH 2026-10-01 (T-444): federal apology for Mexican Repatriation, still unconfirmed
 - Searched 2026-10-01. A results listing says Representatives Hilda Solis and Luis Gutiérrez introduced a bill in 2006 calling for a commission and an apology, and that the deported citizens "never received a federal apology" (search summary only). MALDEF's 2012 release (fetched) describes no federal apology. No fetched page states outright that none was ever made. SEARCHED, NOT FOUND as a positive statement; listed for round 2.
 
+### PATCH 2026-10-02 (T-485): no federal apology for the Mexican removals, confirmed on a fetched page
+- Renée N. G. Stackhouse, "The Mexican Repatriation," *San Diego Lawyer* (San Diego County Bar Association),
+  Sep/Oct 2021, posted 2 November 2021 (https://sandiegoblawg.org/the-mexican-repatriation/, fetched
+  2026-10-02): "The U.S. government has still not apologized for its actions, despite being called to do so
+  by Congresswoman Hilda Solis in 2006."
+- Becky Little, History.com, 12 July 2019 (fetched), and Reimagining Migration's resource page (fetched) name
+  only California's 2005 apology. No fetched page records a federal apology after 2021.
+- Supports the prose "No president and no Congress has apologized." Representative Hilda Solis asked for one
+  in 2006.
+
 # ERA 9 — 1950 to 2000 — RESEARCHED 2026-09-09
 
 ### PATCH 2026-10-01 (T-444): the Freedom Riders count, settled for the sentence about 4 May 1961 (AUDIT-QUEUE item)
@@ -2733,6 +2753,18 @@ archives.gov/milestone-documents/voting-rights-act:
 
 ### SEARCHED, NOT FOUND 2026-09-30 (T-329b): who led the Anniston mob of 14 May 1961, and whether anyone was punished for burning the bus
 Sources checked: NPS event page "May 14, 1961: Freedom Riders Bus Burned in Anniston" (fetched: says only that "an angry mob" set the buses ablaze); NPS Freedom Riders National Monument (fetched: "a segregationist mob, including members of the Ku Klux Klan"); Wikipedia "Anniston and Birmingham bus attacks" (fetched: names Klansman William Chappell as leading a mob of about fifty, and says nothing of trials); a search summary naming local Klan leader Kenneth Adams as leader of about 200, and saying six of eight men charged were tried in Anniston with a deadlocked jury on 3 November 1961 (unconfirmed: search summary only). How the prose can say it: accounts name different leaders, and the records found do not show anyone sent to prison for burning the bus.
+
+### PATCH 2026-10-02 (T-485): the photograph of the burning bus at Anniston, 14 May 1961
+- Princeton University Library, Digital PUL exhibit *Nobody Turn Us Around*, "Mob Violence"
+  (https://dpul.princeton.edu/nobodyturnusaround/feature/mob-violence, fetched 2026-10-02): credits Joe
+  Postiglione for "Bus burning outside Anniston, May 14, 1961" and "Riders outside burning bus outside
+  Anniston, May 14, 1961," with the *Anniston Star*.
+- Charles Person, *Buses Are a Comin': Memoir of a Freedom Rider* (St. Martin's, 2021), excerpt "The Burning
+  Bus," The History Reader (https://www.thehistoryreader.com/us-history/the-burning-bus/, fetched
+  2026-10-02): "The photograph of the burning bus on front pages of newspapers across the country and the
+  world moved Americans to action." Person was one of the original thirteen Freedom Riders (he rode the
+  Trailways bus). This is his statement, so the prose attributes it to him.
+- Not confirmed: the Library of Congress item and "Today in History, May 14" pages returned 403.
 
 ### PATCH 2026-09-30 (T-329b): the first Christopher Street Liberation Day March, 28 June 1970
 - NYC LGBT Historic Sites Project, "NYC Pride March," https://www.nyclgbtsites.org/site/starting-point-of-nycs-first-pride-march/ (fetched 2026-09-30): Sunday 28 June 1970, the "Christopher Street Liberation Day March," from Washington Place near Sheridan Square up Sixth Avenue to a "Gay-In" in Central Park's Sheep Meadow. Craig Rodwell led it, with Fred Sargeant, Ellen Broidy, Linda Rhodes, Foster Gunnison Jr. and members of the Gay Liberation Front. It "ended up attracting thousands of participants, much to the surprise of the organizers." The page does not confirm marches in other cities, so prose does not claim them.

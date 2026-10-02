@@ -1303,7 +1303,10 @@ slavery's successor. This chapter needs the laws, the conventions and the Court.
   "do not on their face discriminate between the races, and it has not been shown that their actual
   administration was evil; only that evil was possible under them." (Cornell LII,
   https://www.law.cornell.edu/supremecourt/text/170/213 ; Mississippi Encyclopedia, above.) His first
-  name was not in the pages fetched: **write "Williams".** Mississippi Encyclopedia: the 1890 constitution's voting rules stood
+  name was not in the pages fetched: **write "Williams".** **Checked 2026-10-02 (T-485, AUDIT-QUEUE T-315
+  item):** Cornell LII re-fetched; the sentence is exactly as quoted above, one sentence with a semicolon
+  before "only". The prose quotes the two halves as two quotations ("He went on:") with no word changed,
+  so the words match the source. Mississippi Encyclopedia: the 1890 constitution's voting rules stood
   "until the Twenty-Fourth Amendment of 1964."
 - **Louisiana, 1898.** The convention enacted the constitution **without a vote of the people**. It set
   a **$1 annual poll tax** (receipts for two past years required), a literacy test given by parish
@@ -1530,6 +1533,24 @@ fetched 2026-09-29.
   Butler** dissented without writing an opinion.
 - "Between 1927 and 1972, about **8,300** Virginians were sterilized." Virginia repealed the law in
   1974; Governor Mark Warner apologized on 2 May 2002.
+
+### PATCH 2026-10-02 (T-485): Era 8, who chose Carrie Buck for the operation, and whether she agreed
+- Encyclopedia Virginia, "Buck v. Bell (1927)" (https://encyclopediavirginia.org/entries/buck-v-bell-1927/,
+  re-fetched 2026-10-02): "the colony's board approved a list of sixteen candidates recommended by
+  Superintendent Albert Sidney Priddy for sterilization, including Buck" on **10 September 1924**. The colony
+  is the Virginia State Colony for Epileptics and Feebleminded. On 21 July 1924 the colony appointed
+  **Robert G. Shelton** her guardian. Her lawyer, **Irving P. Whitehead**, called no witnesses; the historian
+  **Paul Lombardo** wrote that "a bystander might reasonably have reached the conclusion that there were two
+  lawyers working for Dr. Priddy and none for Carrie Buck." Encyclopedia Virginia, "Carrie Buck (1906-1983)"
+  (fetched): Priddy chose her as the test case.
+- Cori Brosnahan, "Finding Carrie Buck," PBS *American Experience*
+  (https://www.pbs.org/wgbh/americanexperience/features/eugenics-finding-carrie-buck, fetched 2026-10-02):
+  "asked about the operation near the end of her life, Carrie will say that she didn't want it and 'kicked
+  against it.'" To Paul Lombardo she said she had wanted "a couple children," and: "They done me wrong. They
+  done us all wrong." In that interview she also "confirms that the pregnancy that sent her to the Virginia
+  Colony was the result of a rape."
+- So: she did not agree. The colony's superintendent picked her, the colony's board approved it, and the
+  courts allowed it.
 
 ### PATCH 2026-09-29 (T-315): Era 8, who signed Executive Order 9981
 
@@ -2063,6 +2084,21 @@ state that the opinion does not say which of them struck him.
   "Impeachment Inquiries into President Richard Nixon",
   https://history.house.gov/HistoricalHighlight/Detail/15032448776, fetched 2026-09-29.)
 
+### PATCH 2026-10-02 (T-485): Marshall's Supreme Court case count, the accounts differ
+- NAACP, "Thurgood Marshall" (https://naacp.org/find-resources/history-explained/civil-rights-leaders/thurgood-marshall,
+  fetched 2026-10-02): "He argued 32 cases before the U.S. Supreme Court, winning 29." Stated about his
+  NAACP years. The federal court PDF cited below says the same.
+- *New York Times*, "Thurgood Marshall, Civil Rights Hero, Dies at 84" (1993), as reprinted by the Maryland
+  State Archives, MSA S1259-121-6259-10
+  (https://msa.maryland.gov/megafile/msa/speccol/sc2200/sc2221/000016/html/00000010a.html, fetched
+  2026-10-02): "By the time President Lyndon B. Johnson named him ... Mr. Marshall had argued 32 cases before
+  the Supreme Court and won 29 of them. He argued 14 of those cases as a private lawyer and 18 as Solicitor
+  General of the United States."
+- NPS, Port Chicago (below): as Solicitor General he won 14 of 19.
+- **The accounts differ.** The NAACP places all 32 in his NAACP years. The *Times* counts the 32 as his whole
+  record before he became a justice, 18 of them as Solicitor General. NPS gives 19 Solicitor General cases.
+  Prose states the NAACP count and the *Times* count, each attributed.
+
 ### Thurgood Marshall — the inherited `verified` tag, now actually sourced (story slug `thurgood-marshall`)
 
 **Angle check.** `rights-movements` already tells Marshall as the movement's lawyer — Houston's
@@ -2451,6 +2487,17 @@ been convicted. **Clinton's belongs to era 9; the two Trump trials belong to era
   electoral vote for president.
 
 ---
+
+### PATCH 2026-10-02 (T-485): what the "1920" message to Moss pointed to
+- Tera W. Hunter (historian, Princeton University), "What Trump did to Shaye Moss and her family follows a dark
+  American tradition," NBC News THINK, 25 June 2022
+  (https://www.nbcnews.com/think/opinion/trumps-attack-on-shaye-moss-follows-dark-american-tradition-rcna35309,
+  fetched 2026-10-02): "Moss testified that Trump supporters sent her messages saying that she should 'be glad
+  it's 2020 and not 1920'". Hunter connects this message, and messages saying the women should "hang ... for
+  committing treason," to "the history of lynching."
+- Moss's own reading of the 1920 message (search summary only, CNN 2023 page returned 451): "Everybody knows
+  exactly what a Black woman would be doing in 1920." Not confirmed on a fetched page. Not used.
+- Prose: attribute the lynching reading to Hunter.
 
 ### The era-10 story slot, filled — Wandrea ArShaye "Shaye" Moss (slug `shaye-moss`)
 
@@ -3048,6 +3095,17 @@ and the sentences, February 1599"):
   **(unconfirmed: search summary only)**. Both pages refused this fetcher (401 and 403); Wikipedia's
   Pory article does not say it. Until confirmed, prose says only that Pory wrote the record (the bank's
   wording), not that no other record survives.
+
+### PATCH 2026-10-02 (T-485): Era 3, the one surviving copy of Pory's report, confirmed
+- Brent Tarter, "Four Hundredth Anniversary of the Founding of the General Assembly of Virginia," Library of
+  Virginia, *The UncommonWealth* blog, 30 July 2019
+  (https://uncommonwealth.lva.virginia.gov/blog/2019/07/30/four-hundredth-anniversary-of-the-founding-of-the-general-assembly-of-virginia/,
+  fetched 2026-10-02): "The one copy that now exists is in the Colonial Series, National Archives of the
+  United Kingdom." "Any copies of the 1619 documents that may have remained in the General Assembly's
+  possession would have been destroyed along with most of the legislative and executive records of the colony
+  in one of the British raids on Richmond during the American Revolution." In 1969 the state archivist William
+  J. Van Schreeven and George H. Reese published it with a picture of each handwritten page.
+- Settles the T-475 item: one copy survives, in the UK National Archives. Prose may say so.
 
 ### PATCH 2026-10-02 (T-475): Era 4, Zenger: who arrested him, the Gazette, the Journal's attacks, the burning order
 
