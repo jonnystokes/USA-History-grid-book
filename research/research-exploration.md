@@ -298,6 +298,15 @@ expedition's members did to the people there.
 ### PATCH 2026-10-01 (T-462): who captured Jemima Boone, 1776
 - Wikipedia, "Jemima Boone" (opened 2026-10-01): "a raiding party caught three teenage girls from Boonesborough as they were floating in a canoe on the Kentucky River. They were Jemima, daughter of Daniel Boone, and Elizabeth and Frances, daughters of Colonel Richard Callaway. The Cherokee Hanging Maw led the raiders, two Cherokee and three Shawnee warriors." The rescuers came up "the third morning, as the Indians were building a fire for breakfast".
 
+### PATCH 2026-10-03 (T-623): Boone torture, the prose now rests on the two University Press of Kentucky books
+- Google Books raw feed, opened 2026-10-03 (https://www.google.com/books/feeds/volumes?q=%22Henry+Russell%22+%22James+Boone%22+knives+fingernails): Nancy O'Malley, *Kentucky Frontier to Commonwealth* (University Press of Kentucky, 2025, volume jNjOEQAAQBAJ): "James Boone and Henry Russell were immobilized by bul- lets through their hips. The Native Americans ran into the camp to steal the horses and took the helpless boys captive, slashing them with knives ... fingernails and toenails out ...". With the T-484 Lofaro snippet ("fingernails were torn out. A merciful death by tomahawk finally ended their ordeal"), the hips, the knives, and the fingernails and toenails now rest on the two University Press of Kentucky books. The prose credits Lofaro and O'Malley by name. The T-462 blog and Substack lines above are no longer used for the prose.
+
+### PATCH 2026-10-03 (T-623): Mabila's likely location
+- University of Alabama Press, catalog page for *The Search for Mabila* (Vernon James Knight, ed.), https://www.uapress.ua.edu/9780817355425/the-search-for-mabila/ (opened 2026-10-03): "there is a widespread consensus that the event took place in the southern part of what is now Alabama", and "to this day, nobody knows where Mabila is." Prose: "most likely in the southern part of present-day Alabama".
+
+### PATCH 2026-10-03 (T-623): who killed Marcus Lopez, Tillamook Bay, August 16, 1788
+- Oregon Historical Society, Oregon History Project, "Haswell's Log of Sloop Washington, 1788", by Cain Allen (2003), https://www.oregonhistoryproject.org/articles/historical-records/haswell39s-log-of-sloop-washington-1788/ (opened 2026-10-03), introducing Robert Haswell's log (Haswell was third officer of Gray's sloop *Lady Washington*; log published by T. C. Elliott, *Oregon Historical Quarterly*, 1928): "A young man by the name of Marcus Lopez, a native of West Africa's Cape Verde Islands, discovered that a Tillamook man had taken his cutlass, a short curved sword often carried by sailors." "Lopez chased after the man, but soon found himself surrounded by a group of well-armed Tillamook warriors, who quickly killed the unfortunate young sailor." The rest of the crew ran to their longboat. Date: August 16, 1788. This names the killers the T-462 PATCH left unnamed.
+
 ---
 
 ## 06 · 1800 to 1850
@@ -543,6 +552,12 @@ How the prose can say it: "The three men were never seen again. Shivwits Paiute 
 - PBS American Experience, "Minik," https://www.pbs.org/wgbh/americanexperience/films/minik/ (opened 2026-10-02): "Boas had museum staff stage a funeral of Quisik on the museum grounds for Minik to witness." "Boas would later say the ceremony was intended to comfort the young Eskimo." (The archaeologist David Hurst Thomas, interviewed in the film, says "Today it looks pretty callous.")
 - SEARCHED, NOT FOUND: the names of the staff members who carried it out (PBS, Wikipedia "Minik Wallace" name none). Prose: Franz Boas had museum staff hold the fake burial.
 
+### PATCH 2026-10-03 (T-623): Minik's birth year and Kenn Harper
+- Wikipedia, "Minik Wallace" (opened 2026-10-03): Minik was born "c. 1890" and brought to New York in 1897. Kenn Harper is described as a "Canadian author" who researched Minik's story. Prose: "Minik, born about 1890"; "a Canadian writer, Kenn Harper".
+
+### SEARCHED, NOT FOUND 2026-10-03 (T-623): "the first large exploring voyage paid for by the US government" (Wilkes, era 06)
+- Wikipedia "United States Exploring Expedition" (opened 2026-10-03) makes no such "first" claim. A search summary credits the Smithsonian Institution Archives with "the first U.S. government funded scientific expedition", but that page returned HTTP 403, and the Harvard Curiosity page returned no text. Prose drops "first" and says "a Navy exploring voyage paid for by the US government".
+
 ## 08 · 1900 to 1950
 
 Sources opened 2026-09-27 (T-257r) unless marked. Wikipedia pages read as plain text through the Wikipedia API.
@@ -656,6 +671,10 @@ Sources opened 2026-09-27 (T-257r) unless marked. Wikipedia pages read as plain 
 
 ### Territories, 1959 (framing note)
 - Hawaii and Alaska became states in 1959 (pre-T-257 Territories line gives Hawaii 1959). `america-world` owns statehood. Not re-sourced here; not used in the outline.
+
+### PATCH 2026-10-03 (T-623): Gagarin first in space; Apollo 13 landing cancelled and carbon dioxide
+- Wikipedia, "Yuri Gagarin" (opened 2026-10-03): Gagarin "became the first person to journey into outer space during the first successful crewed spaceflight." "Travelling on Vostok 1, Gagarin completed one orbit of Earth on 12 April 1961."
+- Wikipedia, "Apollo 13" (opened 2026-10-03): "With the lunar landing canceled, mission controllers worked to bring the crew home alive." "The LM carried enough oxygen, but that still left the problem of removing carbon dioxide, which was absorbed by canisters of lithium hydroxide pellets."
 
 ### PATCH 2026-10-01 (T-462): era 09 small gaps (Tereshkova, Bluford, the Bismarck)
 - Wikipedia, "Valentina Tereshkova" (opened 2026-10-01): "She was the first woman in space, having flown a solo mission on Vostok 6 on 16 June 1963."
