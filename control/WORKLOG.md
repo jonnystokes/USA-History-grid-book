@@ -5061,7 +5061,8 @@ RESULT: PASS  crime-justice / prose. 394790 tokens, 97 tools, 13.6 min (opus). 1
 CHECKPOINT: control/checkpoints/F7-crime-justice.md
 
 ### 2026-10-03 | [LOCAL] T-627 | disasters: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  disasters / prose. 373991 tokens, 157 tools, 18.1 min (opus). 137 FIXED, 7 REJECTED; Luna count, Johnstown, Palisades Oct 3
 CHECKPOINT: control/checkpoints/F7-disasters.md
 
 ### 2026-10-03 | [LOCAL] T-628 | sports-play: STEP 7 FIXER wave B2 | model opus

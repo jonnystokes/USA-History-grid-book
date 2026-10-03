@@ -22,13 +22,13 @@ Mount Mazama is a volcano in the Cascade Range of southern Oregon, about 60 mile
 
 Over several hundred years, rain and snow filled much of the hole that the collapse left behind. The water became Crater Lake. It is 1,943 feet deep, the deepest lake in the United States. In the Klamath language its name is *giiwas*.
 
-People had lived in the region for more than a thousand years before the eruption. In 1938 an archaeologist named Luther Cressman dug in Fort Rock Cave, in Lake County, Oregon. An archaeologist studies the past from the things people left behind. Under a layer of ash from Mount Mazama, Cressman found dozens of sandals woven from sagebrush bark. Radiocarbon dating is a test that measures how much of one kind of carbon is left in something that was once alive. It later showed that the sandals were more than 9,000 years old. Sandals of the same kind from half a dozen sites date from between about 10,500 and 9,100 years ago. The families who wore them lived there long before the mountain erupted.
+People had lived in the region for about 1,500 years or more before the eruption. In 1938 an archaeologist named Luther Cressman dug in Fort Rock Cave, in Lake County, Oregon. An archaeologist studies the past from the things people left behind. Under a layer of ash from Mount Mazama, Cressman found dozens of sandals woven from sagebrush bark. Radiocarbon dating is a test that measures how much of one kind of carbon is left in something that was once alive. It later showed that the sandals were more than 9,000 years old. Sandals of the same kind from half a dozen sites date from between about 10,500 and 9,100 years ago. The families who wore them lived there long before the mountain erupted.
 
 The Klamath Tribes say that they have lived in the Klamath Basin for 13,000 years. They tell the eruption as a battle between Llao, chief of the Below World, and Skell, chief of the Above World. In their account, Llao attacked the people with fire after a chief's daughter refused him. Skell defended the people, and two holy men gave up their lives. Skell drove Llao back into Mount Mazama, the mountain fell in, and water filled the basin.
 
 Around the year 1085, Sunset Crater erupted near what is now Flagstaff, Arizona. Scientists fixed the date from chemical changes in the growth rings of trees that were alive then. Ash fell on land 12 to 15 miles away and buried people's homes. Crops cannot grow in ash deeper than about 6 to 8 inches.
 
-The eruption drove out the people who lived nearby. The Sinagua farmers who lived closest to the volcano were ancestors of today's Pueblo peoples. National Park Service scientists think they had to leave their fields and move farther away. Where the ash lay thin, it worked as a mulch, a covering that keeps soil from drying out, and crops there grew better. No record counts any dead. The people of the area told stories of the eruption, and those stories are still told today.
+People who lived near the volcano had to leave because of the eruption. The Sinagua farmers who lived closest to the volcano were ancestors of today's Pueblo peoples. National Park Service scientists think they had to leave their fields and move farther away. Where the ash lay thin, it worked as a mulch, a covering that keeps soil from drying out, and crops there grew better. No record counts any dead. The people of the area told stories of the eruption, and those stories are still told today.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Droughts that lasted decades" -->
@@ -38,7 +38,7 @@ The rings show that the Colorado Plateau, in the dry Southwest, had too little r
 
 A second drought, called the Great Drought, lasted from 1276 to 1299. Ryan found it less severe than the drought of the 1100s. By about 1300 the Pueblo people of the Mesa Verde region, in present-day southwestern Colorado, had moved south. They went to the Rio Grande valley, to Zuni and Acoma, and to the Hopi mesas, where rain came more reliably.
 
-Archaeologists at Crow Canyon count the drought as one cause of that move among several. They also name social, political and economic causes, which means changes in how the communities lived together, led themselves and made their living. They think the drought probably caused food shortages in a region crowded with people. They think the hunger that followed may have led to anger and fighting.
+Archaeologists at Crow Canyon count the drought as one cause of that move among several. Other causes on their list are changes in how the communities got along, how they were ruled and how they made a living. In their view, the drought probably caused food shortages in a region crowded with people, and the hard times that followed may have led to quarrels and fighting.
 
 Around 1280, attackers killed at least 41 people at Castle Rock Pueblo and at least 8 at Sand Canyon Pueblo. Both places are in the Mesa Verde region. Kristin Kuckelman and two other scientists studied the skeletons. They found that someone had cut the bodies apart and broken, crushed and burned the bones, during or after the fighting. They also found signs that people probably ate human flesh there. No evidence shows who the attackers were, or who cut up the dead.
 <!-- /hb-zoom -->
@@ -54,15 +54,15 @@ When the rock along a fault moves suddenly, the ground shakes. Scientists have f
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-Spaniards who sailed to this land in the 1500s wrote down the disasters they lived through. Hurricanes sank their ships. A hurricane is a very large storm that forms over warm ocean water, with winds that spin in a circle and heavy rain. Droughts left Native towns and Spanish and English colonists alike short of corn. What is known about them comes from tree rings and from letters that Spaniards wrote.
+Spaniards who sailed to this land in the 1500s wrote down the disasters they lived through. Hurricanes sank their ships. A hurricane is a very large storm that forms over warm ocean water, with winds that spin in a circle and heavy rain. Droughts left Native towns short of corn, and one drought was among the causes of an English colony's end. What is known about them comes from tree rings and from letters that Spaniards wrote.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A hurricane wrecks a colony, 1559" -->
-A hurricane in September 1559 sank most of the ships of the largest Spanish colony yet sent to the Southeast. Nearly all of the colony's food went down with them. The colonists had landed on August 15, 1559, at Pensacola Bay in present-day Florida. The Native name of the bay was Ochuse. They came from Veracruz, in Mexico, on 11 ships.
+A hurricane in September 1559 sank most of the ships of the largest Spanish colony yet sent to the Southeast. Nearly all of the colony's food went down with them. The colonists had landed on August 15, 1559, at Pensacola Bay in present-day Florida. The Native name of the bay was Ochuse. They came from Veracruz, in Mexico, on 11 ships, towing a 12th, smaller ship behind them.
 
 About 1,500 people made the voyage. They included an army of 500 soldiers and about 200 Aztec warriors and craftsmen from Mexico City. Servants, enslaved Africans, and some wives and children came too. For five weeks they unloaded people and tools and began building a town on high, flat ground above the bay. They left the food for all 1,500 people on board the ships, because they thought it was safer there than on land.
 
-On the night of September 19 to 20, 1559, a hurricane came into the bay. It sank six ships and pushed a seventh onto the land. Only three ships were left. Nearly all the food for 1,500 people went down with the ships. The people who drowned were mostly the sailors and passengers still on board. No record gives their number.
+One of the 11 ships, a galleon, had already sailed back to Mexico in late August or early September. On the night of September 19 to 20, 1559, a hurricane came into the bay. It sank six ships and pushed a seventh a short way onto the land. Three of the 11 ships came through the storm. The small towed ship later carried supplies on relief voyages. Nearly all the food for 1,500 people went down with the ships. The people who drowned were mostly the sailors and passengers still on board. No record gives their number.
 
 After the storm the colonists did not have enough to eat. One ship came from Havana, in Cuba, with supplies soon after the hurricane. Relief ships from Mexico came after that, one every five to seven months. The colonists sent about 200 men inland to look for towns with food to spare. The men found a large town called Nanipacana, on the Alabama River in present-day central Alabama. Its people left before the Spaniards arrived. As they went, they destroyed the food they had stored.
 
@@ -89,7 +89,7 @@ Tree rings from old bald cypress trees on the border of Virginia and North Carol
 
 From 1587 to 1589 came the driest three years in the whole 800-year record. English colonists on Roanoke Island, in present-day North Carolina, disappeared during those years. They are known as the Lost Colony. The Stahle team counts the drought as one of several causes of the colony's end. An earlier English colony on Roanoke had come in wetter years, 1585 and 1586. Only 4 of its 108 people died.
 
-The Croatan people were allies of the English colonists. In 1587 their crops were poor. The same year, the Algonquian people of the town of Dasemunkepeuc killed George Howe, an adviser to the English governor, John White. They killed him in revenge for the killing of their leader, Wingina. Men under Ralph Lane, leader of the earlier colony, had attacked Wingina and killed him in June 1586. After Howe's death the people of Dasemunkepeuc left their town.
+The Croatan people were allies of the English colonists. In 1587 their crops were poor. The same year, the people of the town of Dasemunkepeuc killed George Howe, an adviser to the English governor, John White. They spoke an Algonquian language, one of a large family of Native languages along the coast. They killed him in revenge for the killing of their leader, Wingina. Men under Ralph Lane, leader of the earlier colony, had attacked Wingina and killed him in June 1586. After Howe's death the people of Dasemunkepeuc left their town.
 
 Before daylight on August 8, 1587, White led his soldiers in an attack on Dasemunkepeuc. The people they found there were Croatan, who had come to the empty town looking for food. White's men killed one of them and wounded many before they saw their mistake. The Stahle team writes that the shooting happened partly because the Croatan needed food.
 <!-- /hb-zoom -->
@@ -97,7 +97,7 @@ Before daylight on August 8, 1587, White led his soldiers in an attack on Dasemu
 <!-- hb-zoom level="span" label="St. Augustine burns and floods" -->
 St. Augustine, in present-day Florida, was burned, raided or flooded again and again in its first 35 years. Spanish soldiers and colonists founded it in 1565 at Seloy, a town of the Timucua people. The Timucua were tired of the Spaniards living in their town. In 1566 Timucua warriors shot flaming arrows at the fort. On April 1, 1566, the fort was half burned, and all its supplies were lost. The records do not state whether the arrows started that fire.
 
-The colonists moved the town across the bay to Anastasia Island that year. In 1570 soldiers there rose against their officers and destroyed the fort. The sea was washing away the rebuilt fort by 1572. Native warriors attacked in 1577 and burned many houses. Then, in 1586, the English privateer Francis Drake and his men burned the whole town and its fort. A privateer was a ship captain who raided enemy ships and towns with his own government's permission.
+The colonists moved the town across the bay to Anastasia Island that year. In 1570 soldiers there rose against their officers and destroyed the fort. The sea was washing away the rebuilt fort by 1572. Native people attacked the town in 1577 and burned many houses. Then, in 1586, the English privateer Francis Drake and his men burned the whole town and its fort. A privateer was a ship captain who raided enemy ships and towns with his own government's permission.
 
 In March 1599 a fire swept through the town, which was built of wood with roofs of thatch, meaning dried plants. In September of the same year a hurricane flooded the buildings that the townspeople had not yet repaired.
 <!-- /hb-zoom -->
@@ -115,23 +115,23 @@ English colonists landed at Jamestown, in present-day Virginia, in April 1607. T
 
 Tree rings show that the colonists arrived during the driest seven years in 770 years, from 1606 to 1612. The drought hit the Powhatan towns as well as the English. The colonists' drinking water came from the lower James River, where fresh water mixes with salt water from the sea. In the dry years the water was salty and foul, and colonists fell sick from it. Of the 104 colonists who landed in 1607, only 38 were alive a year later. Malnutrition, which means the body does not get enough food, was a leading cause of death.
 
-On June 2, 1609, the leaders of the Virginia Company of London, the business that ran the colony, sent nine ships and about 600 people to strengthen it. It was the largest fleet England had yet sent west. On July 24, 1609, a hurricane struck the fleet about seven days from land. It drove the lead ship, the *Sea Venture*, away from the others. The ship began to leak so badly that one passenger wrote, "we almost drowned within."
+On June 2, 1609, the leaders of the Virginia Company of London, the business that ran the colony, sent nine ships and about 600 people to the colony, with farm animals and enough food to last a year. It was the largest English fleet yet to sail west. On July 24, 1609, a hurricane struck the fleet about seven days from land. It drove the lead ship, the *Sea Venture*, away from the others. The ship began to leak so badly that one passenger wrote, "we almost drowned within."
 
 The *Sea Venture* reached Bermuda, an island in the Atlantic. All 150 people on board got ashore, among them the colony's new governor, Sir Thomas Gates. Before the ship sank, the crew saved many of the supplies. The castaways stayed on Bermuda for ten months and built two small ships, the *Patience* and the *Deliverance*. The playwright William Shakespeare drew partly on their story for his play *The Tempest*. The other eight ships reached Jamestown in late August 1609. Many passengers were sick, and the crews had thrown many of their supplies overboard in the storm.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Starving Time, 1609 to 1610" -->
-In the winter of 1609 to 1610, most of the people at Jamestown starved to death. That winter is called the Starving Time. The colonists had not farmed, hunted or fished to feed themselves. They lived on supplies from England and on food they bargained for from the Powhatan people, or took from them by force. In the drought the Powhatan towns had little food to spare.
+In the winter of 1609 to 1610, most of the people at Jamestown starved to death. That winter is called the Starving Time. The colonists had not farmed, hunted or fished to feed themselves. They lived on supplies from England and on food they bargained for from the Powhatan people, or often stole from them. In the drought the Powhatan towns had little food to spare.
 
-The fighting grew worse in the autumn of 1609. The colonist Francis West cut off the heads of two warriors of the Patawomeck people while he was trading with them. In November 1609 warriors ambushed a party of colonists led by John Ratcliffe at Orapax. They tortured Ratcliffe to death. The record does not say how. That same month Powhatan ordered his people to surround Jamestown and cut off its food.
+In the autumn of 1609 the killing began on both sides. The colonist Francis West cut off the heads of two warriors of the Patawomeck people while he was trading with them. In November 1609 warriors ambushed a party of colonists led by John Ratcliffe at Orapax. They tortured Ratcliffe to death. That same month Powhatan ordered his people to surround Jamestown and cut off its food.
 
 Counts of the colonists differ. The historian Martha McCartney counts 240 people at Jamestown at the start of the winter. Other counts record about 500 in the colony. By May 1610 about 60 were alive. Some survivors dug up and ate the bodies of dead colonists and of Native people the colonists had killed.
 
-The *Sea Venture* castaways reached Jamestown in their two small ships on May 24, 1610. Gates decided to give up the colony and sail home with the survivors. On the river they met Thomas West, Lord De La Warr, an English nobleman, who was bringing a year's supply of food, and everyone went back to Jamestown. Between 1607 and 1625, the company's leaders sent about 6,000 people to Jamestown. About 4,800 of them died.
+The *Sea Venture* castaways reached Jamestown in their two small ships on May 24, 1610. Gates decided to give up the colony and sail home with the survivors. On the river they met Thomas West, Lord De La Warr, an English nobleman. He was bringing a year's supply of food, and everyone went back to Jamestown. Between 1607 and 1625, the company's leaders sent about 6,000 people to Jamestown. About 4,800 of them died.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Great Colonial Hurricane, August 1635" -->
-A hurricane struck New England on August 15, 1635. The English then used an older calendar that ran ten days behind the one used today, so by today's calendar the date was August 25. William Bradford, the longtime governor of Plymouth Colony, wrote that no one living there, "either English or Indeans, ever saw" a storm like it. *Indeans* is his spelling of Indians.
+A hurricane struck New England on August 15, 1635. The English then used an older calendar that ran ten days behind the one used today. By today's calendar the date was August 25. William Bradford, the longtime governor of Plymouth Colony, wrote that no one living there, "either English or Indeans, ever saw" a storm like it. *Indeans* is his spelling of Indians.
 
 South of Plymouth the sea rose more than 20 feet above its normal height. Bradford wrote that many Native people climbed into trees to escape the water. No record gives the number of Native people who drowned. The wind blew down houses and, in Bradford's words, "many hundered thowsands of trees." The worst of the storm lasted five or six hours.
 
@@ -166,7 +166,7 @@ Bradford wrote that the shaking looked like a sign that God was displeased. He a
 <!-- hb-zoom level="span" label="Boston burns, and the town buys a fire engine" -->
 A fire in Boston on January 14, 1653, destroyed many buildings and killed three children. After it, town officials hired the owner of a water engine, a pump that sprays water, to bring it to fires. They bought six long ladders, four strong iron hooks and fire buckets. They required every property owner to keep a ladder and a swab pole, a long pole with a mop on the end for putting out sparks on roofs.
 
-On November 27, 1676, a fire in Boston's North End destroyed 45 buildings. Among them were several warehouses, the North Meeting House, and the home of its minister, Increase Mather. In 1678 town officials brought a fire engine from England and hired men to run it. A Boston Public Library guide calls them the first paid fire department in what is now the United States. Officials also made a law that roofs be slate or tile and walls be brick. Large fires burned parts of Boston again in 1679, 1682 and 1691.
+On November 27, 1676, a fire in Boston's North End destroyed 45 buildings. Among them were several warehouses, the North Meeting House, a church, and the home of its minister, Increase Mather. In 1678 town officials brought a fire engine from England and hired men to run it. A Boston Public Library guide calls them the first paid fire department in what is now the United States. Officials also made a law that roofs be slate or tile and walls be brick. Large fires burned parts of Boston again in 1679, 1682 and 1691.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -178,7 +178,7 @@ Fires burned large parts of Boston and Charleston between 1700 and 1750, and tow
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Cascadia earthquake, January 1700" -->
-At about 9 at night on January 26, 1700, the Cascadia fault broke along about 620 miles of the Pacific coast. The break ran from Vancouver Island, in present-day Canada, to northern California. Scientists at the Pacific Northwest Seismic Network call it one of the largest earthquakes known anywhere in the world. They put its size at about magnitude 9.
+The Cascadia fault broke along about 620 miles of the Pacific coast at about 9 at night on January 26, 1700. The break ran from Vancouver Island, in present-day Canada, to northern California. Scientists at the Pacific Northwest Seismic Network call it one of the largest earthquakes known anywhere in the world. They put its size at about magnitude 9.
 
 The coast dropped when the fault broke. Salt water flooded forests of cedar trees that had grown above the reach of the tides. The salt water killed the trees. Their dead trunks, called ghost forests, still stand along rivers and bays in Washington and Oregon.
 
@@ -186,7 +186,7 @@ The earthquake also set off a tsunami, a series of huge waves that can cross a w
 
 No one counted the dead on the American coast. The Native nations there had no written records then. In their accounts, whole villages were lost. The Makah, in present-day Washington, tell of a great earthquake at night. The Quileute tell of a flood that carried canoes far inland. Archaeologists have found Native villages on the coasts of Washington and Oregon that sank, flooded and were left empty after 1700.
 
-In 1933 Annie Miner Peterson, a Coos woman from Oregon, told Melville Jacobs, a scholar who was writing down Coos stories, what her grandfather had seen. He had seen an old woman who survived the "raised water." When she was a girl, the water had left her hanging high in a tree. She tied her pack line to a branch to climb down, and she fell. The fall broke her back, and she had a humped back for the rest of her life. Scientists who studied the account date the flood she described to between 1690 and 1805.
+In 1933 Annie Miner Peterson, a Coos woman from Oregon, told what her grandfather had seen. Melville Jacobs, a scholar who was writing down Coos stories, recorded her words. Her grandfather had seen an old woman who survived the "raised water." When she was a girl, the water had left her hanging high in a tree. She tied her pack line, the rope she used to carry loads, to a branch to climb down, and she fell. The fall broke her back, and she had a humped back for the rest of her life. Scientists who studied the account date the flood she described to between 1690 and 1805.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A hurricane sinks the Spanish treasure fleet, 1715" -->
@@ -196,15 +196,17 @@ About 2,500 people were on board the fleet. Scientists at NOAA, the US governmen
 
 The survivors camped on the beach in the land of the Ais people. The Ais lived along the coast from Cape Canaveral to the Indian River. On August 6, Admiral Francisco Salmón sent the pilot Nicolás de India and 18 men in a small boat to Havana for help. They reached it 11 days later. Ships from Havana and from St. Augustine brought emergency supplies, officials, soldiers and tools for salvage, which means bringing up goods from a wreck. By late October 1715 the salvagers had raised more than 5 million pieces of eight, the silver coins of Spain.
 
-An English ship captain named Barrett came for the silver too. He brought an enslaved man named Ned Grant to the wrecks to work as a diver. In the winter of 1715 to 1716, the English pirates Henry Jennings and John Wills attacked the Spanish salvage camp and carried off part of the silver.
+A man the records call Captain Barrett came for the silver too. Ned Grant was an enslaved man, and his enslaver hired him out to Barrett. Barrett took Grant to the wrecks to work as a diver.
+
+In the winter of 1715 to 1716, the pirates Henry Jennings and John Wills attacked the Spanish salvage camp. The 1715 Fleet Society dates the raid to early January 1716 and says the pirates took about 120,000 pieces of eight. Other accounts put the raid in December 1715, name the pirate Charles Vane beside Jennings, and give the haul as about 87,500 pounds in English money.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Boston burns, 1711" -->
-On the evening of October 2, 1711, a Scottish woman named Mary Morse was working with oakum in a building of rented rooms off Cornhill in Boston. Oakum is old rope fiber, picked apart and used to seal the seams of ships. A flame nearby set it on fire. By 2 in the morning the fire had burned about 100 buildings. Among them were the Town House, where the colony's government met, and the town's first meeting house, a building used as a church. The fire left 110 families without homes.
+Boston's fire of 1711 began in a building of rented rooms off Cornhill on the evening of October 2. A Scottish woman named Mary Morse was working with oakum there. Oakum is old rope fiber, picked apart and used to seal the seams of ships. A flame nearby set it on fire. By 2 in the morning the fire had burned about 100 buildings. Among them were the Town House, where the colony's government met, and the town's first meeting house, a building used as a church. The fire left 110 families without homes.
 
-Four sailors climbed the meeting house steeple to save its bell. The roof fell in, and they died. Other people died when they went too close to the fire. Still others died in the gunpowder blasts that people fighting the fire set off to blow up houses in the fire's path, so it would have nothing to burn. The full count of the dead is not known.
+Four sailors climbed the meeting house steeple to save its bell. The roof fell in, and they died. Other people died when they went too close to the fire. Still others died in gunpowder blasts. People fighting the fire blew up houses in its path so that it would have nothing to burn. The full count of the dead is not known.
 
-Members of Boston's churches raised 700 pounds for the families who lost their homes. A few months after the fire, 12 men became Boston's first board of fire wardens. Each was in charge of the firefighting tools in one part of the town. Bostonians rebuilt the Town House and the meeting house in brick. The new Town House is known today as the Old State House.
+Members of Boston's churches raised 700 pounds, in English money, for the families who lost their homes. A few months after the fire, 12 men became Boston's first board of fire wardens. Each was in charge of the firefighting tools in one part of the town. Bostonians rebuilt the Town House and the meeting house in brick. The new Town House is known today as the Old State House.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Charleston: a hurricane in 1700 and a fire in 1740" -->
@@ -216,19 +218,19 @@ Lieutenant Governor William Bull ordered every townsman to fight the fire, "by t
 
 Most of the help from London after the fire went to the rich. Officials in London promised 20,000 pounds, in the king's name, for the people "most affected." They paid it out by the size of each person's losses. Most of it went to wealthy merchants, whose losses were large. Poorer people depended on gifts and loans from the vestry, the governing board of St. Philip's Church.
 
-Mary Bedon, an innkeeper with three children, and Catharine Joor, a shopkeeper, both lost their businesses in the fire. Both opened again in rented houses. By February 1741 both needed aid from the St. Philip's vestry to get through the winter.
+Mary Bedon, an innkeeper with three children, and Catharine Joor, a shopkeeper, lost their businesses in the fire and opened again in rented houses. By February 1741 the two women needed aid from the St. Philip's vestry to get through the winter.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New York, 1741: fires and blame" -->
-In March and April 1741, 13 fires broke out in lower Manhattan. The first, in March, burned the governor's house and its chapel inside Fort George. Sources record its date as March 8 or March 18. New York officials said that enslaved Black people and poor white people had plotted together to burn the city. A witness named Mary Burton told the court that the fires were such a plot.
+In March and April 1741, 13 fires broke out in lower Manhattan. The first, in March, burned the governor's house and its chapel inside Fort George. Accounts give its date as March 8 or March 18. New York officials said that enslaved Black people and poor white people had plotted together to burn the city. A witness named Mary Burton told the court that the fires were such a plot.
 
-Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Sources record between 30 and 34 people put to death in all. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there.
+Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Counts of the people put to death range from 30 to 34. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="An earthquake in New England, 1727" -->
-At about 10:40 on the night of October 29, 1727, an earthquake shook New England. By today's calendar the date was November 10. Scientists at the Weston Observatory estimate it at about magnitude 5.6. It was strongest at Newbury, Massachusetts. There it knocked down stone walls and the tops of almost all the chimneys. Some solid ground turned to mud, and some marshes dried up. People felt it from Maine to the Delaware River, and smaller shocks went on for months. The records that survive show no one badly hurt.
+An earthquake shook New England at about 10:40 on the night of October 29, 1727. By today's calendar the date was November 10. Scientists at the Weston Observatory estimate it at about magnitude 5.6. At Newbury, Massachusetts, it knocked down many stone walls and the tops of almost all the chimneys. Some solid ground turned to mud, and some marshes dried up. People felt it from Maine to the Delaware River, and smaller shocks went on for months. The records that survive show no one badly hurt.
 
-In Boston the minister Cotton Mather heard "a horrid rumbling like the noise of many coaches." New England's ministers preached that God had sent the earthquake to show his anger at sins such as swearing and failing to keep the Sabbath, the day of rest. Towns such as Medford, Massachusetts, held a day of fasting, when people went without food and prayed. John Barnard, a minister at Marblehead, came to a different view. He decided that the surface of the earth had moved because of shocks deep underground.
+In Boston the minister Cotton Mather heard "a horrid rumbling like the noise of many coaches." Ministers in New England preached that God had sent the earthquake to show his anger. Writers blamed it on sins such as swearing and failing to keep the Sabbath, the day of rest. Towns such as Medford, Massachusetts, held a day of fasting, when people went without food and prayed. John Barnard, a minister at Marblehead, came to a different view. He decided that the surface of the earth had moved because of shocks deep underground.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fire companies" -->
@@ -240,11 +242,11 @@ In Boston, groups of neighbors formed mutual fire societies. Members promised to
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-From 1750 to 1800, people who lost their homes in a disaster began to get help from far away. After fires in Boston and Charleston, lawmakers voted public money for the families who lost their homes. Lawmakers in other colonies, and people as far away as London, sent money and gifts to Boston. In 1752 Philadelphians started a company to insure houses against fire. During the Revolutionary War, hurricanes sank Spanish warships and troop ships on the Gulf Coast, and a fire burned a large part of New York while British troops held it.
+From 1750 to 1800, people who lost their homes in fires got help from lawmakers, and sometimes from other colonies and from people far away. After fires in Boston and Charleston, lawmakers voted public money for the families who lost their homes. Lawmakers in other colonies, and people as far away as London, sent money and gifts to Boston. In 1752 Philadelphians started a company to insure houses against fire. During the Revolutionary War, hurricanes sank Spanish warships and troop ships on the Gulf Coast, and a fire burned a large part of New York while British troops held it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Charleston under water, 1752" -->
-On the morning of September 15, 1752, a hurricane pushed the sea more than 10 feet above the normal high-water mark at Charleston, South Carolina. The water covered the whole town. People fled to the upper floors of their houses. Before 11 o'clock nearly every ship in the harbor had been thrown onto land. Only one, the British warship *Hornet*, rode out the storm.
+A hurricane pushed the sea more than 10 feet above the normal high-water mark at Charleston, South Carolina, on the morning of September 15, 1752. The water covered the whole town. People fled to the upper floors of their houses. Before 11 o'clock nearly every ship in the harbor had been thrown onto land. Only one, the British warship *Hornet*, rode out the storm.
 
 About 500 buildings were destroyed. No one kept an exact count of the dead. Many people drowned, and others died when houses fell apart around them. A second storm on September 30 ruined crops and killed farm animals. Officials then limited how much corn, peas and rice could be shipped out of the colony, to keep food prices down.
 <!-- /hb-zoom -->
@@ -256,13 +258,13 @@ Owners who insured with the Contributionship had to remove the trees from their 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Cape Ann earthquake, 1755" -->
-At about 4:30 in the morning on November 18, 1755, an earthquake shook New England. Its center was in the ocean about 25 miles off Cape Ann, Massachusetts. Scientists estimate it at about magnitude 6.2. In Boston the shaking lasted more than a minute. It threw down about 100 chimneys and damaged as many as 1,500 more. Some church steeples were left leaning. People felt it from Nova Scotia, in present-day Canada, to South Carolina. No deaths were recorded in the Boston area.
+An earthquake centered in the ocean about 25 miles off Cape Ann, Massachusetts, shook New England at about 4:30 in the morning on November 18, 1755. Scientists estimate it at about magnitude 6.2. In Boston the shaking lasted more than a minute. It threw down about 100 chimneys and damaged as many as 1,500 more. Some church steeples were left leaning. People felt it from Nova Scotia, in present-day Canada, to South Carolina. No deaths were recorded in the Boston area.
 
-Seventeen days earlier, a large earthquake had struck Lisbon, in Portugal. New England ministers held prayer services, and officials named days of fasting. Writers in New England published at least 27 sermons (talks given in church), poems and accounts about earthquakes after the one at Cape Ann. A lightning rod is a metal rod on a building that carries lightning into the ground. The Boston minister Thomas Prince wrote that Boston had more lightning rods than any other New England town. He argued that the rods had drawn electricity into the ground and made the shaking worse. John Winthrop, a professor at Harvard College, answered him in lectures. He said that heat and gases deep in the earth had caused the earthquake.
+After the quake, a Boston minister and a Harvard professor argued in public over what had caused it. Seventeen days before the Cape Ann quake, a large earthquake had struck Lisbon, in Portugal. New England ministers held prayer services, and officials named days of fasting. Writers in New England published at least 27 sermons, poems and accounts about earthquakes after the one at Cape Ann. A sermon is a talk given in church. A lightning rod is a metal rod on a building that carries lightning into the ground. The Boston minister Thomas Prince wrote that Boston had more lightning rods than any other New England town. He argued that the rods had drawn electricity into the ground and made the shaking worse. John Winthrop, a professor at Harvard College, answered him in lectures. He said that heat and gases deep in the earth had caused the earthquake.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Boston burns, and other colonies send help, 1760" -->
-At about 2 in the morning on March 20, 1760, a fire started in a house on Cornhill in Boston. No one ever found the cause. The fire burned 349 buildings, 174 of them homes. It left 220 families, more than 1,000 people, without homes. No one was killed. A Boston Public Library guide describes it as the worst fire in the American colonies up to that time.
+A fire started in a house on Cornhill in Boston at about 2 in the morning on March 20, 1760. No one ever found the cause. The fire burned 349 buildings, 174 of them homes. It left 220 families, more than 1,000 people, without homes. No one was killed. A Boston Public Library guide describes it as the worst fire in the American colonies up to that time.
 
 Lawmakers in Massachusetts voted 3,000 pounds for the families who lost their homes. Lawmakers in Pennsylvania and New York voted to send money too. People in Nova Scotia raised money for Boston, and people as far away as London sent gifts. Afterward Massachusetts lawmakers passed a law that any building more than 7 feet high had to be made of brick or slate.
 <!-- /hb-zoom -->
@@ -278,9 +280,9 @@ In Charleston, people found a fire in a bakery at 4 in the morning on January 15
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hurricanes and the war on the Gulf Coast, 1779 and 1780" -->
-Spain and Britain were at war from June 1779. In 1779 Bernardo de Gálvez, the Spanish governor of Louisiana, was getting ships ready to attack the British fort at Baton Rouge. A hurricane destroyed the ships in less than three hours. Gálvez had to put off his attack for ten days.
+Spain's leaders joined the war against Britain on June 21, 1779. In 1779 Bernardo de Gálvez, the Spanish governor of Louisiana, was getting ships ready to attack the British fort at Baton Rouge. A hurricane destroyed the ships in less than three hours. Gálvez had to put off his attack for ten days.
 
-On October 20, 1780, another hurricane struck a Spanish fleet of 64 ships under Admiral José Solano. The fleet was carrying Gálvez and 4,000 soldiers from Havana to attack the British town of Pensacola, in Florida. An unknown number of the ships sank. A NOAA writer counts half of the soldiers, about 2,000, as lost. The attack was called off.
+On October 20, 1780, another hurricane struck a Spanish fleet of 64 ships under Admiral José Solano. The fleet was carrying Gálvez and 4,000 soldiers from Havana to attack the British town of Pensacola, in Florida. An unknown number of the ships sank. A NOAA writer counts half of the soldiers, about 2,000, as lost. The NOAA account does not say how many of them drowned. The attack on Pensacola did not go ahead that year.
 
 A different storm that same month crossed the islands of the Caribbean. It is called the Great Hurricane of 1780. About 22,000 people died in the Lesser Antilles, the chain of small islands at the eastern edge of the Caribbean, from October 10 to 16. The storm also struck Puerto Rico. Scientists at NOAA count 1780 as the deadliest Atlantic hurricane season on record.
 <!-- /hb-zoom -->
