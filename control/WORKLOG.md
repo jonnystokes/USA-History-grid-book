@@ -5006,7 +5006,8 @@ RESULT: PASS  big-business / prose. 369779 tokens, 154 tools, 12.8 min (opus). 1
 CHECKPOINT: control/checkpoints/F7-big-business.md
 
 ### 2026-10-03 | [LOCAL] T-617 | slavery-freedom: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  slavery-freedom / prose. 346762 tokens, 167 tools, 12.9 min (opus). 110 FIXED, 9 REJECTED; F&A rape sourced (Rothman); Hemings published source not found
 CHECKPOINT: control/checkpoints/F7-slavery-freedom.md
 
 ### 2026-10-03 | [LOCAL] T-618 | styles: STEP 7 FIXER wave A | model opus
