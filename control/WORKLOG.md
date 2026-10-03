@@ -5000,7 +5000,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-health.md
 
 ### 2026-10-03 | [LOCAL] T-616 | big-business: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  big-business / prose. 369779 tokens, 154 tools, 12.8 min (opus). 104 FIXED, 10 REJECTED; ~30 unconfirmed facts confirmed, 3 corrected
 CHECKPOINT: control/checkpoints/F7-big-business.md
 
 ### 2026-10-03 | [LOCAL] T-617 | slavery-freedom: STEP 7 FIXER wave A | model opus
