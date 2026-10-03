@@ -302,3 +302,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **slavery-freedom (T-617) polish:** check Kendi, Stamped from the Beginning, for the word 'rape' about Jefferson and Hemings; add 1964 and 1965 laws one plain sentence each (copy from government-politics/rights-movements banks).
 - **native-nations Baird story movie= accents (T-622):** polish: correct the accent marks in the movie= value of the Baird story (director edit; verify against the film title).
 - **crime-justice Attica and Wounded Knee 'who did it' lines (T-626):** rest on Wikipedia only; polish: find the official reports (McKay Commission for Attica; FBI/court records for Wounded Knee 1973) and name or state silence per #45.
+- **art Spiro/Craig Mound names (T-629):** rest on a dealer's website quoting a 1952 report; polish: confirm in David La Vere, Looting Spiro Mounds (2007), or an Oklahoma Historical Society source.
