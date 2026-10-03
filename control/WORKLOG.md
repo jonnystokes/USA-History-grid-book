@@ -5056,7 +5056,8 @@ USAGE: wave A 0% -> 60% (16 fixers, 3.75% each). Wave B1 (6) launched at 60%.
 ### 2026-10-03 | [LOCAL] Wave B1 done: 6/6 PASS (T-620..T-625). 26 of 37 chapters fixed in step 7.
 
 ### 2026-10-03 | [LOCAL] T-626 | crime-justice: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  crime-justice / prose. 394790 tokens, 97 tools, 13.6 min (opus). 122 FIXED, 5 REJECTED; Tulsa arsonists named per 2025 review
 CHECKPOINT: control/checkpoints/F7-crime-justice.md
 
 ### 2026-10-03 | [LOCAL] T-627 | disasters: STEP 7 FIXER wave B2 | model opus

@@ -2091,3 +2091,59 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 Filed by the director after the parallel run. Full sourced text is in `research/research-money.md` under the T-308 PATCH named in each item.
 - crime-justice: Owen Sullivan's Rhode Island ear-cropping and branding now confirmed (Boston Evening Post, Oct 9, 1752), see research-money.md era 5 PATCH 2026-09-29.
 - crime-justice / government-politics: Czolgosz shot McKinley Sept 6, 1901 (Miller Center), research-money.md era 7 PATCH.
+
+### PATCH 2026-10-03 (T-626): Jamestown laws of 1612 on rape, sodomy and adultery; the 1711 Salem act (eras 3)
+- "Articles, Laws, and Orders, Divine, Politic and Martial for the Colony of Virginia" (1612), transcribed by
+  Encyclopedia Virginia (https://encyclopediavirginia.org/primary-documents/articles-laws-and-orders-divine-politic-and-martial-for-the-colony-of-virginia-1612/,
+  WebFetch 2026-10-03), article 9: "No man shal commit the horrible, and detestable sins of Sodomie upon pain of
+  death; and he or she that can be lawfully convict of Adultery shall be punished with death. No man shall ravish
+  or force any woman, maid or Indian, or other, upon pain of death." Fornication: whipping, rising for repeat
+  offenses. The text does not say which acts "Sodomie" covered. Tarter's summary lists adultery under whipping;
+  the printed law sets death. The prose gives both.
+- UVA Salem Witch Trials Documentary Archive, SWP No. 173, "Reversal of Attainder and Restitution"
+  (https://salem.lib.virginia.edu/n173.html, WebFetch 2026-10-03): the act of 17 October 1711 was enacted by "his
+  Excellency the Governor Council and Representatives in General Court assembled" and declared the convictions
+  "null and void." A committee in September 1711 recommended 578 pounds 12 shillings in damages. Smithsonian
+  (Blumberg, above) gives 600 pounds to the heirs; search summaries: the act named 22 people and left out six
+  women (Pudeator, Bishop, Martin, Parker, Scott, Redd). The prose says "many of the condemned" and 600 pounds.
+
+### PATCH 2026-10-03 (T-626): Eastern State's iron gag and Mathias Maccumsey, 1833 (era 6)
+- Jennifer Lawrence Janofsky, "Eastern State Penitentiary," *Encyclopedia of Greater Philadelphia*
+  (https://philadelphiaencyclopedia.org/essays/eastern-state-penitentiary/, WebFetch 2026-10-03): "prisoner
+  Mathias Maccumsey died after prison officials subjected him to a torturous instrument known as the 'iron
+  gag'." "The gag fit over the prisoner's tongue (like the bit of a horse bridle) and attached to his arms
+  pinned behind his back." The penitentiary physician gave the cause as "apoplexy." "Although Eastern State's
+  administrators were exonerated in an exhaustive investigation, they tried to cover up the death." "Wood was
+  investigated for the untimely death of inmate Mathias Maccumsey, who was placed in an iron gag ... as
+  punishment for talking." "Wood was not found guilty of cruel and unusual punishment." (The warden's first
+  name is not on the page as read.) Apoplexy: an old word for a sudden stroke (dictionary meaning).
+- Search summaries (Clio and others, unconfirmed: search summary only, not used): found dead one hour later;
+  dropping the arms forced the gag deeper.
+
+### PATCH 2026-10-03 (T-626): the Equal Justice Initiative; the Mankato bodies; Hull House (era 7)
+- EJI, "About" (https://eji.org/about/, WebFetch 2026-10-03): "a private, 501(c)(3) nonprofit organization,"
+  "Founded in 1989 by Bryan Stevenson," a public interest lawyer, based in Montgomery, Alabama.
+- Minnesota Historical Society, "The Trials & Hanging" (same page as above, WebFetch 2026-10-03): the trials
+  "were moved to the Lower Agency, where they were held in one of the only buildings left standing, trader
+  François LaBathe's summer kitchen." After the hanging, "the men's bodies were cut down and hauled to a
+  shallow mass grave on a sandbar between Mankato's main street and the Minnesota River." "Most of the bodies
+  had been dug up and taken by physicians for use as medical cadavers." The page does not say who buried them
+  or name the doctors. Cadaver: a dead body that doctors and medical students cut open to study (dictionary).
+- Jane Addams Hull-House Museum (UIC), "Our History" (https://hullhouse.uic.edu/about/our-history/, WebFetch
+  2026-10-03): in 1889 Jane Addams, Ellen Gates Starr and Mary Keyser moved into a house on Chicago's Near West
+  Side, where thousands of newly arrived immigrants lived, and ran it as a social settlement, living "with"
+  their immigrant neighbors.
+
+### PATCH 2026-10-03 (T-626): the Trail of Tears and the January 6 attack (era 10, copied from other banks)
+- Copied from `research/research-native-nations.md` (Trail of Tears line, citing NPS Trail of Tears and the
+  ch03/migration bank): the five southeastern nations, Cherokee, Muscogee (Creek), Choctaw, Chickasaw and
+  Seminole, were removed to Indian Territory; the Cherokee removal of 1838-39 took more than 16,000 people.
+  Indian Territory is now Oklahoma. Prose use: "In the 1830s US officials forced the Muscogee (Creek), the
+  Cherokee and three other nations from their homelands in the Southeast to Indian Territory."
+- Copied from `research/research-government-politics.md` ("The Capitol was attacked while that session was
+  under way"): the Government Accountability Office (GAO-22-105001, GAO-22-104829, 2022) found that over about
+  seven hours about 140 police officers were assaulted, about 80 of them Capitol Police. So "the attack on the
+  US Capitol" is the GAO's own framing of the day; Proclamation 10887's title says "events at or near."
+- First, Fourth and Fourteenth Amendments, plain meaning for the Ferguson sentence: free speech; protection from
+  unreasonable searches and seizures (National Archives transcription, era 5 above); equal protection of the
+  laws (the Fourteenth Amendment's text).
