@@ -4920,3 +4920,19 @@ STEP 6 window 2: T-537..T-556 launched (20, smallest files first); queue in scra
 ### 2026-10-02 | [LOCAL] STEP 6: 97/111 finished; 14 largest files left (queue a6queue2.txt from T-586). Nothing running.
 STEP 6 final wave: T-586..T-599 (14 largest files) launched at 38% usage (Jon).
 ### 2026-10-02 | [LOCAL] STEP 6 COMPLETE: 111/111 second-audit files (T-489..T-599). DECISIONS #42-44. Next: step 7 fixers.
+
+### 2026-10-02 | [LOCAL] T-600 | economy: STEP 7 FIXER (round-2 findings) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-economy.md
+
+### 2026-10-02 | [LOCAL] T-601 | work-workers: STEP 7 FIXER (round-2 findings) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-work-workers.md
+
+### 2026-10-02 | [LOCAL] T-602 | elements: STEP 7 FIXER (round-2 findings) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-elements.md
+
+### 2026-10-02 | [LOCAL] T-603 | technology: STEP 7 FIXER (round-2 findings) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-technology.md
