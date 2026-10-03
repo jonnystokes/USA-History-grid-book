@@ -3240,3 +3240,36 @@ and the sentences, February 1599"):
   Representatives", https://history.house.gov/Institution/Impeachment/Impeachment-List/, fetched
   2026-10-02: Donald Trump impeached **18 December 2019** for "abuse of power and obstruction of
   Congress"; impeached **13 January 2021** for "incitement of insurrection."
+
+### PATCH 2026-10-03 (T-630): Era 3, Acoma 1598: what came before the attack (copied from research-native-nations.md §1, with its sources)
+
+- Early December 1598: Oñate's nephew Juan de Zaldívar came to Acoma with about thirty soldiers and took some of them up the mesa to demand food. (EBSCO Research Starters, "Battle of Acoma"; NPS, "Acoma Pueblo: Ancient City in the Sky.")
+- The Pueblos' own account: the soldiers "had demanded food and supplies, assaulted an Acoma woman, and forced allegiance to the Spanish crown" (All Pueblo Council of Governors, press release, Oct. 6, 2023, hosted on puebloofacoma.org). The Rio Grande Sun reported the same Acoma account, that the soldiers raped a woman ("Fiesta Historians Downplay Acoma Massacre," 2019, quoted from a search result). DECISIONS #31: the prose says "rape", attributed to the Acoma account, as native-nations part 1 does.
+- The Acoma killed Zaldívar and between eleven and fourteen of his men; sources differ on the number (Knaut 1995; TSHA; NPR 2020; APCG 2023; EBSCO; PBS POV; NPS "him and fourteen of his men").
+- January 1599: Oñate sent Juan's brother Vicente de Zaldívar with about seventy soldiers (Kessell 2008; NPS).
+
+### PATCH 2026-10-03 (T-630): Era 3, who recognized the General Assembly in 1627
+
+- Encyclopedia Virginia, "House of Burgesses", https://encyclopediavirginia.org/entries/house-of-burgesses/, fetched 2026-10-03: "In 1627, the assembly received de facto recognition when the king asked the General Assembly to take part in regulating the tobacco trade." (The king in 1627 was Charles I, king from 1625.) "When Sir Francis Wyatt returned to Virginia in 1639 for a second term as governor, his commission contained the king's acknowledgement of the assembly's right to approve tax increases."
+
+### PATCH 2026-10-03 (T-630): Era 5, the enslaved people counted under the three-fifths clause had no rights
+
+- American Battlefield Trust, "Slavery and the Constitution", https://www.battlefields.org/learn/articles/slavery-and-constitution, fetched 2026-10-03: enslaved people "were considered property without rights or privileges." The page explains that the Three-Fifths Compromise counted enslaved people for purposes of representation. Prose: the enslaved people being counted were property with no rights, so none of them could vote.
+
+### PATCH 2026-10-03 (T-630): Era 6, who set the $10 million limit for the Louisiana Purchase
+
+- U.S. Department of State, Office of the Historian, "Louisiana Purchase, 1803", https://history.state.gov/milestones/1801-1829/louisiana-purchase, fetched 2026-10-03: "Jefferson sent James Monroe to join Robert Livingston in France to try to purchase New Orleans and West Florida for as much as $10 million." The National Archives page (above) words the same limit as "New Orleans and the Floridas." Prose names Jefferson as the one who set the limit and says West Florida.
+
+### PATCH 2026-10-03 (T-630): Era 7, the man South Carolina's 1860 declaration meant was Lincoln
+
+- National Park Service, "South Carolina Secession" (last updated February 17, 2024), https://www.nps.gov/articles/000/south-carolina-secession.htm, fetched 2026-10-03: "The victory of Abraham Lincoln in the 1860 presidential election triggered cries for disunion across the slaveholding South." The declaration's line about "a man ... whose opinions and purposes are hostile to slavery" is described there as referring indirectly to "the election of Abraham Lincoln to the presidency."
+
+### PATCH 2026-10-03 (T-630): Era 8, Buck v. Bell: the two operations, and Carrie Buck's account of the rape
+
+- Encyclopedia Virginia, "Buck v. Bell (1927)", https://encyclopediavirginia.org/entries/buck-v-bell-1927/, re-fetched 2026-10-03: the main surgical methods were "vasectomy, for males, and salpingectomy, for females." The page gives the count ("Between 1927 and 1972, about 8,300 Virginians were sterilized") and does not say which operation was done on each person. "In 1923, Carrie Buck became pregnant, by her account as the result of rape committed by Clarence Garland, the Dobbs's nephew." Her foster parents (the Dobbses) petitioned to have her committed, "Believing that the pregnancy was evidence of promiscuity and thus of feeblemindedness."
+- Era 8, poll taxes and who they kept out: the bank's era-7 Mississippi entry (1890 convention added a $2 poll tax as part of its plan to stop Black men from voting) and *Harper* (1966: a state may not make "the affluence of the voter or payment of any fee an electoral standard") support one plain sentence beside *Breedlove*.
+- U.S. Courts, "Facts and Case Summary - Korematsu v. U.S.", https://www.uscourts.gov/about-federal-courts/educational-resources/annual-observances/asian-pacific-american-heritage-month/korematsu-v-us-balancing-liberties-and-safety/facts-and-case-summary-korematsu-v-us, fetched 2026-10-03: Fred Korematsu was "convicted of violating military orders issued under Executive Order 9066" in the U.S. District Court in San Francisco, and sentenced to five years on probation.
+
+### PATCH 2026-10-03 (T-630): Era 10, the full names of the three agencies made from the INS
+
+- U.S. Citizenship and Immigration Services, "Our History", https://www.uscis.gov/about-us/our-history, fetched 2026-10-03: INS ran immigration "for 70 years until Congress passed the Homeland Security Act of 2002." "On March 1, 2003, U.S. Citizenship and Immigration Services assumed responsibility for the immigration service functions of the federal government." "The Homeland Security Act created Immigration and Customs Enforcement and Customs and Border Protection to oversee immigration enforcement and border security."

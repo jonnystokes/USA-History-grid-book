@@ -5074,7 +5074,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-art.md
 
 ### 2026-10-03 | [LOCAL] T-630 | government-politics: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  government-politics / prose. 358575 tokens, 164 tools, 14.2 min (opus). 141 FIXED, 8 REJECTED, 1 NR; Acoma matches native-nations (#36)
 CHECKPOINT: control/checkpoints/F7-government-politics.md
 
 ### 2026-10-03 | [LOCAL] T-631 | storytelling-evolution: STEP 7 FIXER wave B2 | model opus
