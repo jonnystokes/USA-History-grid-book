@@ -59,6 +59,12 @@ Angle: how the country makes its living — farming → industry → services; b
 - **No gold, then tobacco.** John Smith wrote that the early colonists were distracted by hopes of gold: "There was no talk, no hope, no work but dig gold, wash gold, refine gold, load gold." They found no gold. Officials tried other businesses (archaeologists found evidence of metal testing, glassmaking and silk-making from local mulberry trees), and none paid. After Rolfe's tobacco experiments, tobacco became the profitable export the investors had wanted. The Virginia Company of London was a group of investors who hoped to profit from the colony. (American Battlefield Trust, "Everyday Life in the Jamestown Colony"; Jamestown-Yorktown Foundation, "History of Jamestown", jyfmuseums.org.)
 - **What the post-Bacon laws did (copied from `research/research-slavery-freedom.md`, era 1700s line "Virginia, 1705"):** in 1705 Virginia's General Assembly gathered its slave laws into one code. Enslaved people were property, baptism did not free anyone, and a master who killed an enslaved person while "correcting" them faced no penalty. (Encyclopedia Virginia, per that bank.)
 
+### PATCH 2026-10-02 (T-600): who ran the colony, the 1661 runaway law, and masters' sexual abuse of servants
+
+- **The Virginia Company ran Jamestown, 1607 to 1624.** "The company established a settlement at Jamestown in 1607" and oversaw the colony. In 1623 the king's Privy Council investigated the company's finances, and "on May 24 of that year [1624], the Crown formally revoked the company's charter and assumed direct control" of Virginia. (Encyclopedia Virginia, "Virginia Company of London", opened 2026-10-02.)
+- **The 1661 runaway law.** In its session of March 1660/61 the General Assembly passed "English running away with negroes." If an English servant ran away "in company with any negroes who are incapable of makeing satisfaction by addition of time," the English servant had to serve the Africans' lost time as well. The Africans could not be punished with added years because they were already held for life, so the law treats them as slaves for life. (Encyclopedia Virginia, primary document "English running away with negroes" (1661), from Hening, opened 2026-10-02; BlackPast, "The Evolution of Slavery in Virginia, 1619 to 1661", per search excerpt.) This is the 1661 law the T-243a patch mentions.
+- **Masters' sexual abuse of servants.** Julie Richter, "Women in Colonial Virginia", Encyclopedia Virginia (opened 2026-10-02): servant women "labored in tobacco fields for their masters (some of whom physically and sexually abused their servants) until their time of service was complete." The entry gives no count and does not use the word rape.
+
 ## 04 · 1700 to 1750
 
 - **Colonial prosperity, measured:** economic historians **Peter Lindert and Jeffrey Williamson** (2016, *Unequal Gains*; NBER working papers) found that by 1774 **free American colonists had higher average incomes than England's people**, more equally spread than anywhere then measurable. State it as their published finding. (Princeton UP book page; NBER w19861.)
@@ -86,6 +92,11 @@ Angle: how the country makes its living — farming → industry → services; b
 - Found for a LATER era only (1800s, not era 4): historian William Dusinberre found that on "their Gowrie plantation" (a rice plantation), "twice as many slaves died as were born between the years of 1833-1861", and "between 1833 and 1864, a staggering 90 per cent of children (to age sixteen) died at Gowrie" (LDHI *Hidden Voices*, "Women's Work with Rice and Cotton", opened 2026-10-02, citing Dusinberre).
 - Era 4 prose keeps the LDHI sentence without a number and says the account gives no count.
 
+### PATCH 2026-10-02 (T-600): the middle colonies, and the 1807 ban
+
+- **The middle colonies** were Pennsylvania, New York and New Jersey; they grew more wheat than they needed and shipped flour through Philadelphia and New York. (Copied from `research/research-food-farming.md`, era 4 "The middle colonies as breadbasket", Britannica; `research/research-money.md` era 4 names the same three.)
+- **The 1807 ban.** The Act Prohibiting Importation of Slaves was signed on March 2, 1807, and took effect on January 1, 1808. (Copied from `research/research-slavery-freedom.md`, era 6, verified in `research/research-immigration.md`.)
+
 ## 05 · 1750 to 1800
 
 - **Paying for the Revolution:** Congress had almost no tax power, so it printed **Continental dollars** from 1775. Depreciation: about 4 paper dollars to 1 in silver by end of 1777; about 100 to 1 by 1781, when the paper collapsed — "not worth a Continental." The currency story is `money`'s lead; ours is that the war was fought on paper and debt. (Harvard Curiosity, "Continental Currency"; NY Fed Liberty Street "Crisis Chronicles.")
@@ -101,6 +112,11 @@ Angle: how the country makes its living — farming → industry → services; b
 - **The *Sally*'s deaths, from the report itself.** Brown University's *Slavery and Justice* report (section "Slavery, the Slave Trade, and Brown") says 19 Africans had died before the ship sailed, a twentieth, a woman, was "left for dead" on the day it sailed, 68 died during the crossing, and another 20 died in the days after it reached the West Indies; in all "at least 109" of the 196 died, "some in a failed insurrection, the balance through disease, suicide, and starvation." The 19 who died before sailing included "several children" and one woman who "hanged her Self between Decks." Hopkins took "more than nine months" on the African coast to buy the 196, "an exceptionally long time." Hopkins's full entry adds "and Several more wounded badly." The report's itemized numbers do not add to 109; the report gives "at least 109" as its total. (slaveryandjusticereport.brown.edu, fetched 2026-10-01; Wikipedia "Sally (1764 ship)".)
 - **John Brown's trial.** The federal Slave Trade Act of 1794 forbade American citizens from owning, outfitting, investing in or serving aboard ships carrying enslaved people to foreign ports. On 5 August 1797 John Brown became the first American tried under it, in federal district court in Providence, for fitting out the *Hope*. The jury acquitted him and awarded him costs against the prosecutors of the Providence Abolition Society; he did not get the ship back. (Brown *Slavery and Justice* report; Wikipedia "Slave Trade Act of 1794"; EBSCO Research Starters, "Analysis: The Trial of John Brown".)
 - **Whiskey Rebellion details.** On 6 September 1791 a disguised gang in Washington County, Pennsylvania, tarred and feathered the tax collector Robert Johnson. On 16 July 1794 about 600 armed rebels attacked the house of the tax inspector John Neville at Bower Hill; the rebel leader James McFarlane was shot and killed, and the rebels set the house on fire. On 13 November 1794 ("the Dreadful Night"), troops under General Henry Lee broke into houses and arrested about 150 people, holding them in animal pens and basements. Twenty were taken to Philadelphia for trial. Two men, Philip Wigle and John Mitchell, were convicted of treason; President Washington pardoned both. (Wikipedia "Whiskey Rebellion"; World History Encyclopedia, "Whiskey Rebellion"; History.com.)
+
+### PATCH 2026-10-02 (T-600): McFarlane's death and the Dreadful Night
+
+- **Who shot McFarlane.** "As McFarlane stepped into the open, a shot rang out from the house, and he fell mortally wounded." The page does not name who fired. (Wikipedia "Whiskey Rebellion", opened 2026-10-02.)
+- **The Dreadful Night.** "Troops carried out raids on the night of November 13, breaking into houses and rousing suspects from their beds." "The night was remembered locally as 'the Dreadful Night' for years." (Same page, opened 2026-10-02.)
 
 ## 06 · 1800 to 1850
 
@@ -127,6 +143,12 @@ Angle: how the country makes its living — farming → industry → services; b
   - **The flour riot, February 13, 1837:** about **5,000 New Yorkers** met in City Hall Park to protest the price of food and fuel; flour had risen **from $7 to $12 a barrel** in 1836 to 1837. Part of the crowd broke into the store of flour merchant **Eli Hart and Company** and destroyed or took **500 to 600 barrels of flour and 1,000 bushels of wheat**. (Wikipedia "Flour riot of 1837"; New York Almanack, "The Flour Riot of 1837"; New-York Historical Society page blocked download.)
   - **Planters, bondholders and enslaved people:** Mississippi planters owed **$33 million** to New Orleans banks but their 1837 crop brought only **$10 million**. The legislatures of **Mississippi and Florida** later **repudiated** (refused to pay) the state-backed bank bonds, so the planters kept their land and the enslaved people, and the European and Northern bondholders lost. (Baptist, *Common-place*.) Courts seized debtors' property, and many debtors fled to Texas at night, taking enslaved people with them (Mississippi Encyclopedia, "Panic of 1837", per search excerpt). When a debtor or an estate failed, one creditor's claim could force the sale and scattering of a whole enslaved community (same). `slavery-freedom` owns the family separations as lives. Ours: in the crash, enslaved people were the assets creditors seized and sold.
   - **Dispute on bank closures:** the bank says 343 of about 850 banks closed and 62 partly failed; the Lumen/LibreTexts U.S. History I text says "**two hundred banks closed**" and **seven states and one territory defaulted** on their loans. Record both. Cotton prices in New Orleans **fell 50%** (Lumen/LibreTexts, "The Panic of 1837").
+
+### PATCH 2026-10-02 (T-600, era 6): the Boston Associates' share, family separations, and the bushel
+
+- **The Boston Associates' share.** "By 1845, 31 textile companies—located in Massachusetts, New Hampshire, and southern Maine—produced one-fifth of all cotton and wool textiles in the United States." (Wikipedia "The Boston Associates", opened 2026-10-02, citing Michael Heller, *Commons and Anticommons*, Edward Elgar, 2009.) The older bank line ("nearly one-fifth of all cotton spun in America by 1850", Wikipedia "Lowell mills") was NOT found on that page or on the Encyclopedia.com and OpenStax pages opened 2026-10-02; the prose now uses the 1845 figure.
+- **Family separations (copied from `research/research-slavery-freedom.md`, era 6 "What the system did to families"):** the Equal Justice Initiative's accounting: the domestic trade "separated nearly half of all the people it moved from a spouse or a parent." (EJI, "Domestic Slave Trade" and "Black Families Severed by Slavery".)
+- **The bushel.** A bushel is a dry measure of grain; the standard bushel of wheat weighs 60 pounds (USDA standard test weights for grain, general reference).
 
 ## 07 · 1850 to 1900
 
@@ -253,8 +275,18 @@ Angle: how the country makes its living — farming → industry → services; b
 
 ---
 
+### PATCH 2026-10-02 (T-600, eras 8 and 9): plain definitions used in the prose
+
+- **"Both committees" (Witte, 1935):** the Social Security bill went through the House Ways and Means Committee and the Senate Finance Committee; the prose says only "the two committees in Congress that worked on the bill". (SSA History, "Legislative History: Social Security Act of 1935", general reference.)
+- **Riding boss:** on Southern plantations, a man on horseback who oversaw the field workers for the planter (the CALS Encyclopedia of Arkansas STFU entry uses the term; plain definition, general reference).
+- **Soviet Union:** a large country ruled from Moscow, Russia, from 1922 to 1991, the main rival of the United States in the Cold War (Britannica, general reference). **Metric ton:** 1,000 kilograms, about 2,205 pounds (standard unit).
+
 ## Parked from Ch3 Migration West research (2026-07-23) — mining, money, and the economy behind the moves
 Ch3 covers *the crowds moving in and settling*; the money, mining, and industry belong here. Facts source-checked in `research/research-migration.md`.
+
+### PATCH 2026-10-02 (T-600, era 7): the TCI admission
+
+- **The TCI admission, a stronger source.** A TCI official told the *New York Times* that "One of the chief reasons which induced the company to take up the system was the chance it offered for overcoming strikes," and that "the free miners would be loath to enter upon strikes, when they saw that the company was amply provided with convict labor." The article does not name the official or give the *Times* date. (James A. Dombrowski, Grace Roberts, Fran Ansley and Brenda Bell, "Miners' Insurrections / Convict Labor", *Southern Exposure*, 1974, at facingsouth.org, opened 2026-10-02.)
 
 ### 6. 1800 to 1850
 - **The California Gold Rush (1849) as an economic event.** Gold found at Sutter's Mill (early 1848); ~80,000 forty-niners in 1849; ~300,000 people to California 1848–1855. The mining itself, the gold output, boom-and-bust prices, merchants who got rich selling to miners (e.g., the supply trade), and the effect on the national money supply → this chapter. Ch3 owns the migration and settlement. (Sources: Smithsonian; California Gold Rush references.)

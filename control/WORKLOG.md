@@ -4921,8 +4921,8 @@ STEP 6 window 2: T-537..T-556 launched (20, smallest files first); queue in scra
 STEP 6 final wave: T-586..T-599 (14 largest files) launched at 38% usage (Jon).
 ### 2026-10-02 | [LOCAL] STEP 6 COMPLETE: 111/111 second-audit files (T-489..T-599). DECISIONS #42-44. Next: step 7 fixers.
 
-### 2026-10-02 | [LOCAL] T-600 | economy: STEP 7 FIXER (round-2 findings) | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. 77 r2 findings: 65 FIXED, 12 REJECTED, +8 found by fixer; Knox 'was killed' (#44); PASS prose. 287,236 tokens, 119 tools, 10.8 min (opus).
 CHECKPOINT: control/checkpoints/F7-economy.md
 
 ### 2026-10-02 | [LOCAL] T-601 | work-workers: STEP 7 FIXER (round-2 findings) | model opus
