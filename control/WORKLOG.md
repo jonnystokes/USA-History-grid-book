@@ -5021,3 +5021,4 @@ RESULT: PASS  migration / prose. 323616 tokens, 198 tools, 11.8 min (opus). 121 
 CHECKPOINT: control/checkpoints/F7-migration.md
 USAGE AT START (step 7 wave A): 0% after reset (read with get_usage).
 AGENTS STEP7 WAVE A: T-604..T-619 launched 2026-10-03 at 0%. Close each with: python tools/close7.py <tid> <slug> <tokens> <tools> <ms> "note"
+### 2026-10-03 | [LOCAL] Step 7 wave A done: 16/16 PASS (T-604..T-619). 20 of 37 chapters fixed.
