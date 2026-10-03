@@ -43,3 +43,18 @@
 | 40 | 5 | 269 | The Reader (run-on sentences) | MINOR | "His account book for 1769 to about 1775 shows that he sold sixty brown wigs of a style called the "dress bob" in one year, at 43 shillings each." | 30 words, two facts. | "His account book for 1769 to about 1775 shows that in one year he sold sixty brown wigs of a style called the "dress bob." They cost 43 shillings each." | yes |
 | 41 | 5 | 296 | The Reader (run-on sentences) | MINOR | "In January 1789 a writer who signed himself "a Philadelphia mechanic" had urged American leaders, in *The Federal Gazette*, to wear clothing made in America." | 26 words with an inserted phrase. | "In January 1789 a writer in *The Federal Gazette* urged American leaders to wear clothing made in America. He signed himself "a Philadelphia mechanic."" | yes |
 | 42 | 5 | 285 | Defined Terms (DECISIONS #40) | MINOR | "free women of color" | "Women of color" is a period and modern term. DECISIONS #40 names "Colored" as a period term kept only in quotes. Line 281 uses "Black women and women of mixed race" for the same group. The prose uses two names for one group. | "free Black women and women of mixed race" | unsure (judgment on whether #40 covers this phrase) |
+| 43 | 1 | 35 | Reification | MINOR | "Pictures of this bird-man began at Cahokia between 1100 and 1300." | Pictures cannot begin. The bank says the Birdman imagery "originat[ed] at Cahokia 1100 to 1300", which is people making the pictures. | "Artists at Cahokia began making pictures of this bird-man between 1100 and 1300." | unsure (mild; the bank uses "originating") |
+| 44 | 3 | 122 | Contrastive Negation | MINOR | "the list shows the English colonists of Plymouth did not dress only in black and white." | Denies a belief the text never states. Attributed to Caleb Johnson in the bank, so it may stay if the belief is stated first. | "the list shows that Plymouth colonists wore violet, red, blue and green as well as black and white." | unsure |
+
+## Counts
+By severity: BLOCKING 1, MAJOR 3, MINOR 40. Total 44.
+By rule: Not in bank 21. The Reader (run-on sentences, undefined hard words, fourth wall) 15. Defined Terms 2. Personification 1. Passives 1. Claims That Can Be Checked 1. Reification 1. Contrastive Negation 1. Oversized Words 1.
+Eras with no findings: none. Era 1 has 6 findings (minor), era 2 has 6, era 3 has 11, era 4 has 11, era 5 has 9 (some rows added out of order).
+Passes with no hits: Pass 6 (zero em dashes, zero semicolons, structure valid). No composites, no invented names, no softened violence found. Hard-subject passages (Cofitachequi graves, Mound 72, New Mexico tribute, Jack, indigo labor) match the bank.
+
+## Tool output
+node tools/validate_grid.js manuscript/styles/part1-before-1800.md --part
+=== part1-before-1800.md : 1 chapters, 5 stories, 0 errors
+
+python tools/project_state.py --punct manuscript/styles/part1-before-1800.md
+manuscript/styles/part1-before-1800.md: emdash=0 semicolon=0

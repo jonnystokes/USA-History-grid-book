@@ -4917,3 +4917,4 @@ AGENTS: T-488 a13e35f4bb31698e2 (R-6). Step 6 checkers T-489..T-507 launched (19
 ### 2026-10-02 | [LOCAL] STEP 6 progress: 48/111 second-audit files FINISHED (T-489..T-536). All agents done; nothing running. DECISIONS #39-41 logged.
 USAGE AT START (step 6 window 2): 0% (Jon). Target <=90%.
 STEP 6 window 2: T-537..T-556 launched (20, smallest files first); queue in scratch a6queue2.txt; next T-557 landmarks part1.
+### 2026-10-02 | [LOCAL] STEP 6: 97/111 finished; 14 largest files left (queue a6queue2.txt from T-586). Nothing running.
