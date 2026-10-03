@@ -5004,3 +5004,4 @@ CHECKPOINT: control/checkpoints/F7-styles.md
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-migration.md
 USAGE AT START (step 7 wave A): 0% after reset (read with get_usage).
+AGENTS STEP7 WAVE A: T-604..T-619 launched 2026-10-03 at 0%. Close each with: python tools/close7.py <tid> <slug> <tokens> <tools> <ms> "note"
