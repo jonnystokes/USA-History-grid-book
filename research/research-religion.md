@@ -752,6 +752,41 @@ and the Middle Tennessee State University First Amendment Encyclopedia
   pass. **Left out.**
 - **Movie:** none found. `movie=""`.
 
+### PATCH 2026-10-03 (T-636): the 1663 charter was obtained by John Clarke, not by Williams on a 1663 trip (corrects the line above)
+- **The charter's own text** names the petitioner: "Whereas, we have been informed, by the humble petition
+  of our trusty and well-beloved subject, John Clarke, on the behalf of Benjamin Arnold, William Brenton,
+  William Codington, ... Roger Williams, ..." Roger Williams appears in the list of people Clarke acted
+  for, and again among the grantees. (Rhode Island State Archives, "Rhode Island Royal Charter, 1663,"
+  primary source transcription, https://docs.sos.ri.gov/documents/civicsandeducation/teacherresources/RI-Charter-annotated.pdf ,
+  read 2026-10-03, pp. 1 and 3.)
+- **The archives' note on the same page:** "A group of Rhode Islanders went to England in 1651 to request a
+  new charter for the colony. John Clarke stayed until he obtained this 1663 charter." The archives'
+  introduction: the charter "gave Rhode Islanders the right to follow the religion of their choice, and
+  allowed them to govern themselves."
+- **The religious-freedom clause, verbatim:** "no person within the said colony, at any time hereafter
+  shall be any wise molested, punished, disquieted, or called in question, for any differences in opinion
+  in matters of religion, and do not actually disturb the civil peace of our said colony" (p. 3). The
+  charter also quotes the colonists' wish "to hold forth a lively experiment" (p. 2).
+- **Williams's trips:** he sailed to England with John Clarke in 1651 to get Coddington's commission
+  canceled, "returned in the summer of 1654 ... but Clarke remained in England." (1911 Encyclopaedia
+  Britannica, "Williams, Roger," https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Williams,_Roger .)
+- **Source conflict:** the NPS Roger Williams National Memorial timeline (cited above) says "1663: Roger
+  Williams returns to England again to argue on behalf of a charter." The charter itself names Clarke as
+  the petitioner, and the state archives say Clarke obtained it. **Prose follows the charter and the
+  archives: Clarke asked the king for it. Do not write that Williams went to England in 1663.**
+
+### PATCH 2026-10-03 (T-636): whose trading rights the 1638 deed kept; Leighton's imprisonment
+- **The 1638 deed.** NPS, Roger Williams National Memorial timeline (cited above, re-read 2026-10-03):
+  "Narragansett sachems Miantonomi and Canonicus sign a deed with Roger Williams formally establishing the
+  settlement of Providence. The Narragansett retained trading rights within the settlement." The rights kept
+  were the Narragansett's.
+- **Leighton after 26 November 1630.** *Dictionary of National Biography* (1885-1900), "Leighton, Alexander"
+  (cited in the era 3 PATCH, re-read 2026-10-03): he was "Consigned to the 'ffleet'" (the Fleet prison in
+  London) and "remained a prisoner till 1640, when he was released by the Long parliament, his fine
+  cancelled, and 6,000l. voted him in compensation." The DNB says "the first part of his sentence was
+  inflicted" on 26 November and, in the text read here, does not list which punishments that part was or
+  name who carried it out.
+
 ### 3l. STORY — Anne Hutchinson (`anne-hutchinson-religion`, status upgraded to `verified`)
 
 **This chapter takes her theology. `rights-movements` (slug `anne-hutchinson-rights-movements`)
@@ -1554,6 +1589,20 @@ specific day.
 
 **Boundary note.** 1833 falls in era 6. It is verified here because the era-5 cell has to say where
 disestablishment ended up, and the sentence must make the later date clear.
+
+### PATCH 2026-10-03 (T-636): Article III's own wording on where a man's church tax went; Franklin's age in 1787
+- **Article III, verbatim** (Massachusetts Constitution, Part the First, Article III, Massachusetts General
+  Court, https://malegislature.gov/Laws/Constitution , read 2026-10-03): "All moneys paid by the subject to
+  the support of public worship, and of the public teachers aforesaid, shall, if he require it, be uniformly
+  applied to the support of the public teacher or teachers of his own religious sect or denomination,
+  provided there be any on whose instructions he attends; otherwise it may be paid towards the support of
+  the teacher or teachers of the parish or precinct in which the said moneys are raised." So the condition
+  is the man's own: if he asked, and if there was a teacher of his own church whose preaching he attended.
+  It is not whether his town had such a church. (Corrects the paraphrase in §5c, "if he had one.")
+- **Franklin's age at the Convention.** Born in Boston on 17 January 1706 (Library of Congress prints and
+  photographs, https://loc.gov/pictures/item/2006676692/ ; LOC Franklin Papers timeline,
+  https://www.loc.gov/collections/benjamin-franklin-papers/articles-and-essays/timeline/ ; copied from
+  `research/research-technology.md`). On 28 June 1787 he was 81.
 
 ### 5d. STORY — Richard Allen (`richard-allen`, status upgraded to `verified`)
 
@@ -3138,6 +3187,20 @@ Ethnology, part 2 (Washington: Government Printing Office, 1896), archive.org
   marked and unmarked burial sites at 65 schools.** Religion's span may state this in two sentences so the
   span does not leave the children out (#36); native-nations leads.
 
+### PATCH 2026-10-03 (T-637): era 6 and era 7 gaps from the step 6 checker, checked on the pages
+
+- **"Romanism" is an insulting word.** Dictionary.com: "Romanism", American definition "Roman Catholicism",
+  labeled *Disparaging* (https://www.dictionary.com/browse/romanism , WebFetch 2026-10-03). Search results
+  show Merriam-Webster labels it "often disparaging" (its page refused fetching, HTTP 403). Supports the
+  era 7 line "Romanism was an insulting word for the Catholic Church."
+- **Louisville 1855: the marker does not say who the dead were.** Kentucky Historical Society marker #2205
+  (URL in the T-327a PATCH), re-read 2026-10-03: "Attacks on German immigrants east of downtown and Irish in
+  the west caused at least 22 deaths, arson, and looting." It does not say whether the dead were immigrants
+  or rioters.
+- **Philadelphia, 6 May 1844: no shooter named.** Encyclopedia of Greater Philadelphia, "Nativist Riots of
+  1844" (URL in §6d), re-read 2026-10-03: Shiffler "was fatally shot"; "a second man, apparently a bystander,
+  was dead, and several more nativists were wounded, two mortally." The page names no one who fired.
+
 ---
 
 ## ERA 8 — 1900 to 1950 (`state="full"`)
@@ -3721,6 +3784,12 @@ Copied with its source from `research/research-government-politics.md`, "The 192
   and 300 Lakota were killed, most of them women and children.**
 - **Collier's circular, the date.** Irwin (§8g) gives no date; the NLM *Native Voices* timeline (§8g)
   places Collier's religious-freedom circular in **1934**. Prose: "In 1934".
+
+### PATCH 2026-10-03 (T-637): era 8, who signed the Butler Act
+
+- "Signed into law by Tennessee governor Austin Peay"; infobox: "Signed March 21, 1925." (Wikipedia,
+  "Butler Act," https://en.wikipedia.org/wiki/Butler_Act , WebFetch 2026-10-03. Label: encyclopedia. A
+  search summary gives the same signer and date; Britannica's page refused fetching, HTTP 403.)
 
 ---
 
@@ -4526,6 +4595,25 @@ How the prose can say it: "No one is recorded as convicted of the 1956 bomb or t
   Johnson; §9b) became part of the Constitution. (Whether any passed either house is not sourced here; the
   prose says only that none became part of the Constitution.)
 
+### PATCH 2026-10-03 (T-637): era 9, Jonestown in full (DECISIONS #44), Dayland Gent, and the Regents prayer
+
+- **How the people at Jonestown died, and who did it.** ADST, "The Jonestown Massacre" (URL in the T-260c
+  PATCH), WebFetch 2026-10-03: "parents and nurses used syringes to drop a potent mix of cyanide, sedatives
+  and powdered fruit juice, similar to Kool-Aid, into children's throats." "Adults then drank the
+  concoction while armed guards surrounded the pavilion." "909 members of the People's Temple died, all but
+  two from apparent cyanide poisoning"; "They included over 200 murdered children." The deaths were a
+  "revolutionary suicide" ordered by Jones. "There were only one or two there, including Jim Jones, with
+  bullet wounds." The page explains that children could not choose to die, so they were murdered.
+- **Dayland Gent: the report does not name who stabbed him.** Danforth, Interim Report, 21 July 2000
+  (https://www.cesnur.org/testi/DanforthRpt.pdf , read in full with pypdf 2026-10-03): "The 1993 pathology
+  studies concluded that at least 20 Davidians were shot and one was stabbed on April 19," and footnote 27:
+  "The only stabbing victim, three year old Dayland Gent, was stabbed in the chest." The report names no one
+  who stabbed him. Its responsibility finding (e) is that certain Davidians "killed some of their own people
+  by gunfire"; it says nothing of the stabbing there.
+- **Who wrote the 1962 prayer** (copied from `research/research-education.md`, *Engel v. Vitale*, 370 U.S.
+  421, https://www.law.cornell.edu/supremecourt/text/370/421 ): the school board "directed that each class
+  say a prayer written by the New York State Board of Regents at the start of every day."
+
 ## ERA 10 — 2000 to Today (`state="full"`)
 
 **THE PERISHABLE-FACTS RULE GOVERNS THIS WHOLE SECTION.** Every figure below carries the year it
@@ -5217,6 +5305,12 @@ Copied with its source from `research/research-styles.md` (T-272c, era 10).
   Kelley's criminal history to the FBI and that the Government was 60% responsible for the Plaintiffs'
   injuries." The background-check consequence is not in this document; still unconfirmed (round 2: read
   the 6 July 2021 liability opinion, 2021 WL 2821125).
+
+### PATCH 2026-10-03 (T-637): era 10, Jerry Rabinowitz's age
+- "Jerry Rabinowitz, 66" (CBS News, "Pittsburgh Tree of Life synagogue shooting victims identified,"
+  29 October 2018, https://www.cbsnews.com/news/pittsburgh-shooting-victims-identified-tree-of-life-synagogue-deadly-shooting-squirrel-hill-2018-10-29/ ,
+  WebFetch 2026-10-03. Journalism.) With the ages already banked, the youngest of the eleven killed was
+  David Rosenthal, 54.
 
 ### PATCH 2026-10-02 (T-485): Sutherland Springs, the background checks, from the 6 July 2021 liability findings
 - *Holcombe v. United States*, No. SA-18-CV-555-XR (W.D. Tex.), ECF No. 452, "Findings of Fact and Conclusions

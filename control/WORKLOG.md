@@ -5100,11 +5100,13 @@ RESULT: PASS  education / prose. 278989 tokens, 173 tools, 10.3 min (opus). part
 CHECKPOINT: control/checkpoints/F7-education.md
 
 ### 2026-10-03 | [LOCAL] T-636 | religion: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: part 1: 61 FIXED, 1 REJECTED; 1663 charter = Clarke. 315,718 tokens (opus).
 CHECKPOINT: control/checkpoints/F7-religion.md
 
 ### 2026-10-03 | [LOCAL] T-637 | religion: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  religion / prose. 346222 tokens, 105 tools, 13.3 min (opus). parts 2-3: 141 FIXED, 5 REJECTED; Jonestown stated plainly (#44)
 CHECKPOINT: control/checkpoints/F7-religion.md
 
 ### 2026-10-03 | [LOCAL] T-638 | rights-movements: STEP 7 FIXER wave B2 | model opus
