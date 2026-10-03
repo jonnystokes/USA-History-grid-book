@@ -1,6 +1,8 @@
-# How We Know
+# How We Know What Happened
 
-Historians are people who study the past and write about it. None of them can watch the past happen. They learn about it from what people left behind: papers, objects, bones, buildings, photographs, and the stories that families and nations told their children. Each kind of evidence keeps some facts and loses others. A historian gathers as many kinds as possible and checks them against each other. Then the historian states what is known, what is not known, and where the evidence disagrees.
+Nobody alive today saw the Pueblo Revolt, the founding of Jamestown or the first Thanksgiving. Nobody alive saw Cahokia when it was the largest city north of Mexico. Everything known about those times comes from what people left behind: papers, objects, bones, buildings, photographs, and the stories that families and nations told their children.
+
+Historians are people who study the past and write about it. They gather that evidence and check it. Each kind of evidence keeps some facts and loses others. A historian gathers as many kinds as possible and checks them against each other. Then the historian states what is known, what is not known, and where the evidence disagrees. Those three things, the known, the unknown and the disputed, show up all through American history.
 
 ## Papers written at the time
 
@@ -84,6 +86,12 @@ A legend can grow far bigger than the record. In an old story, Harriet Tubman ma
 
 People can disagree about their own lives too. Fountain Hughes told the interviewer in 1949 that he was 101 years old, which would put his birth in 1848. Some reference books give 1854. A careful account states both years.
 
+## Old words in old records
+
+People in the past used words that people today find hurtful, and some words meant something different then. When John Rolfe wrote "20. and odd Negroes" in 1619, he used the common word of his time for Black people. Laws, newspapers, signs and songs from the past are full of such words. A quotation keeps the words the person actually used, because changing them would change the record. Some words were made to insult a whole people. Those are not repeated. Instead, the account says plainly what the word called people.
+
+Names change too. The same nation can appear under more than one name. The Haudenosaunee, for example, appear in many English records as the Iroquois. Places also change names over time.
+
 ## Stories that grew up later
 
 Some of the best-known stories about American history took shape long after the events. Historians find where a story first appeared by searching for the oldest record that tells it.
@@ -101,3 +109,9 @@ Some questions cannot be answered, because no record of the answer was ever made
 No surviving record identifies any of the "20. and odd" Africans John Rolfe saw land in 1619. The records also do not settle whether the Virginia colonists treated them as servants, who could earn their freedom after some years, or as slaves for life. Virginia's laws did not yet use the word "slave."
 
 In 1973, Oglala Lakota people and members of the American Indian Movement held the village of Wounded Knee, South Dakota, for 71 days. US marshals and FBI agents surrounded it. Frank Clearwater, a Cherokee man, was shot in the head on 17 April 1973 while he rested in a church inside the village, during a gunfight with federal forces. He died on 25 April. The published accounts do not say who fired the shot.
+
+## The past keeps changing
+
+The past itself does not change. What is known about it does. New tests find new facts in old bones, as the horse study did in 2023. Lost letters turn up in attics and archives. People who were left out of the old records, like the potter Dave or the 20 Africans who landed in 1619, are found again when someone looks for them. Each new piece of evidence can confirm an old account, correct it, or show that it was wrong.
+
+The history of the United States is long, and much of it is hard. It includes freedom won and freedom stolen, cities built and nations pushed off their land, inventions, wars, songs and games. All of it happened to real people with real names, when the records kept them. The best way to know it is the way historians do: look at the evidence, ask who made it, and say plainly what it shows.

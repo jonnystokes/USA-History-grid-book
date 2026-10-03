@@ -3,7 +3,7 @@
 Usage:  python tools/build_full_book_md.py
 
 Same order and content as tools/build_full_book.py (registry order, three part files per chapter in era
-order, then the afterword), using its parser. Viewer markers and editor notes are dropped; era titles,
+order, the introduction first), using its parser. Viewer markers and editor notes are dropped; era titles,
 span labels and story names become headings. A linked table of contents comes first, with explicit
 anchors so the links work in any Markdown viewer, and every chapter ends with a link back to it.
 """
@@ -60,14 +60,16 @@ def build():
     chapters, parts = B.read_registry()
     md = [f"# {B.BOOK_TITLE}", "",
           f"*{len(chapters)} chapters, each told across the same ten eras*", "",
-          '<a id="contents"></a>', "", "## Contents", ""]
+          '<a id="contents"></a>', "", "## Contents", "", "**[Introduction: How We Know What Happened](#introduction)**", ""]
     last = None
     for c in chapters:
         if c["part"] != last:
             last = c["part"]
             md += ["", f"**Part {last}: {parts.get(last, '')}**", ""]
         md.append(f"{int(c['num'])}. [{c['title']}](#ch-{c['slug']})")
-    md += ["", "**[Afterword: How We Know](#afterword)**", "", "---", ""]
+    md += ["", "---", ""]
+    iw = [l for l in B.INTRO.read_text(encoding="utf-8").splitlines() if "<!--" not in l]
+    md += ['<a id="introduction"></a>', ""] + tidy(shift(iw, 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
 
     last = None
     for c in chapters:
@@ -81,8 +83,6 @@ def build():
                 md += story(attrs, lines) if kind == "story" else zoom(attrs, lines)
         md += ["[Back to contents](#contents)", "", "---", ""]
 
-    aw = [l for l in B.AFTERWORD.read_text(encoding="utf-8").splitlines() if "<!--" not in l]
-    md += ['<a id="afterword"></a>', ""] + tidy(shift(aw, 0)) + ["", "[Back to contents](#contents)", ""]
 
     B.OUT.mkdir(exist_ok=True)
     out = B.OUT / "history-book.md"

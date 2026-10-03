@@ -2,8 +2,8 @@
 """Build one reader-facing copy of the whole book (ROADMAP step 7).
 
 Reads control/chapter-registry.md for chapter order, merges each chapter's
-part files (manuscript/<slug>/part*.md) by era order, appends the afterword
-(manuscript/_afterword/how-we-know.md), strips every hb- HTML comment marker
+part files (manuscript/<slug>/part*.md) by era order, puts the introduction first
+(manuscript/_introduction/how-we-know.md), strips every hb- HTML comment marker
 and every hb-note block, keeps the visible text (era titles, span labels as
 headings, story names), and writes build/history-book.html.
 
@@ -28,7 +28,7 @@ ROOT = Path(__file__).resolve().parent.parent
 MS = ROOT / "manuscript"
 OUT = ROOT / "build"
 REGISTRY = ROOT / "control" / "chapter-registry.md"
-AFTERWORD = MS / "_afterword" / "how-we-know.md"
+INTRO = MS / "_introduction" / "how-we-know.md"
 HTML2PDF = Path(r"C:\Users\jon\Projects\claude-workspace\tools\html2pdf.ps1")
 BOOK_TITLE = "A History of the United States"
 
@@ -252,7 +252,7 @@ nav.toc li { margin: .15em 0; }
 nav.toc .tp { font-weight: bold; margin-top: .8em; list-style: none; margin-left: -1.4em; color: var(--accent); }
 a { color: var(--accent); text-decoration: none; }
 ul { padding-left: 1.5em; }
-section.afterword h2 { break-before: page; }
+section.introduction h2 { break-before: page; }
 """
 
 
@@ -263,15 +263,19 @@ def build():
     body = [f'<h1 class="book">{BOOK_TITLE}</h1>',
             f'<p class="sub">{len(chapters)} chapters, each told across the same ten eras</p>']
     # table of contents
-    toc = ['<nav class="toc"><h2>Contents</h2><ol>']
+    toc = ['<nav class="toc"><h2>Contents</h2><ol>', '<li class="tp"><a href="#introduction">Introduction: How We Know What Happened</a></li>']
     last_part = None
     for c in chapters:
         if c["part"] != last_part:
             last_part = c["part"]
             toc.append(f'<li class="tp">Part {last_part}: {html.escape(parts.get(last_part, ""))}</li>')
         toc.append(f'<li value="{int(c["num"])}"><a href="#ch-{c["slug"]}">{html.escape(c["title"])}</a></li>')
-    toc.append('<li class="tp"><a href="#afterword">Afterword: How We Know</a></li></ol></nav>')
+    toc.append('</ol></nav>')
     body.append("\n".join(toc))
+    # introduction: its own # heading becomes h2, ## becomes h3
+    iw = [l for l in INTRO.read_text(encoding="utf-8").splitlines() if "<!--" not in l]
+    body.append('<section class="introduction">'
+                + md_blocks(iw, head_shift=1).replace("<h2>", '<h2 id="introduction">', 1) + '</section>')
 
     last_part = None
     for c in chapters:
@@ -289,12 +293,6 @@ def build():
                 warn(f'{c["slug"]} era {e["order"]} ({e["label"]}): no zoom or story blocks')
             for kind, attrs, lines in e["blocks"]:
                 body.append(render_story(attrs, lines) if kind == "story" else render_zoom(attrs, lines))
-
-    # afterword: its own # heading becomes h2, ## becomes h3
-    aw = AFTERWORD.read_text(encoding="utf-8").splitlines()
-    aw = [l for l in aw if "<!--" not in l]
-    aw_html = md_blocks(aw, head_shift=1).replace("<h2>", '<h2 id="afterword">', 1)
-    body.append(f'<section class="afterword">{aw_html}</section>')
 
     page = ("<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
