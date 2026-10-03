@@ -4945,7 +4945,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-science.md
 
 ### 2026-10-03 | [LOCAL] T-605 | home-family: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  home-family / prose. 280854 tokens, 107 tools, 8.9 min (opus). 70 FIXED, 4 REJECTED, +7 found
 CHECKPOINT: control/checkpoints/F7-home-family.md
 
 ### 2026-10-03 | [LOCAL] T-606 | landmarks: STEP 7 FIXER wave A | model opus
