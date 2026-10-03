@@ -5126,3 +5126,8 @@ RESULT: PASS  rights-movements / prose. 372201 tokens, 201 tools, 12.5 min (opus
 CHECKPOINT: control/checkpoints/F7-rights-movements.md
 USAGE: wave B1 60% -> 89% (6 fixers ~4.8% each). Wave B2 (14 agents, final 11 chapters) launched at 0% after reset 13:13 UTC.
 ### 2026-10-03 | [LOCAL] STEP 7 FIXES COMPLETE: all 37 chapters fixed on the second-audit findings and passing (T-600..T-639).
+
+### 2026-10-03 | [LOCAL] T-640 | book-wide: POLISH-1 (Wikipedia, In plain words, AUDIT-QUEUE polish items) | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/POLISH-1.md
+USAGE at launch 67%.
