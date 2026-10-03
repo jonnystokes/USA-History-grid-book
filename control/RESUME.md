@@ -148,8 +148,10 @@ Anything you know that is not in a file is about to be lost. Decisions by Jon go
 - **Sizing:** an Opus fixer is about 5% of the 5-hour window, a Sonnet checker about 1.2-1.4%.
   Stop launching near 90%. Up to 20 agents at once.
 - **Waiting for a reset:** run a background timer that ends **2-3 minutes after** `resetsAt`
-  (rounding and server lag): Bash with `run_in_background: true` running a python sleep to that
-  time. When it fires, read usage; if it has not reset, wait 5 minutes and read again.
+  (rounding and server lag). The director's own background Bash dies at ~30 min; a sonnet
+  sub-agent timer can run one background Bash with `timeout: 7200000` (2 hours, the maximum), so
+  for waits over 2 hours chain two timer agents. When it fires, read usage; if it has not reset,
+  wait 5 minutes and read again.
 - **Jon's priorities (2026-10-02):** 1, finish the book. 2, use the paid usage before the weekly
   reset (Tuesday): run full 5-hour windows back to back, staying under the cap.
 
