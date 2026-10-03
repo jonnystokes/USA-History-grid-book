@@ -4987,7 +4987,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-transportation.md
 
 ### 2026-10-03 | [LOCAL] T-614 | marketplace: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  marketplace / prose. 316276 tokens, 173 tools, 11.2 min (opus). 107 FIXED, 4 REJECTED; 1886 women's vote corrected (WY/UT/WA)
 CHECKPOINT: control/checkpoints/F7-marketplace.md
 
 ### 2026-10-03 | [LOCAL] T-615 | health: STEP 7 FIXER wave A | model opus
