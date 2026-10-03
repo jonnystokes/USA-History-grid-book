@@ -4939,3 +4939,68 @@ CHECKPOINT: control/checkpoints/F7-technology.md
 USAGE AT START (step 7 wave 1, T-600..T-603): 66% (Jon).
 AGENTS STEP7 WAVE1: T-600 ab061681383c5d135 (economy), T-601 a309aa5f3932db00b (work-workers), T-602 a610fa0938bb2e819 (elements), T-603 a9213bba0ab9d1e79 (technology)
 ### 2026-10-02 | [LOCAL] Step 7 wave 1 done: economy, elements, technology, work-workers PASS (1.27M tokens). DECISIONS #45-46. Usage at start 66%.
+
+### 2026-10-03 | [LOCAL] T-604 | science: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-science.md
+
+### 2026-10-03 | [LOCAL] T-605 | home-family: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-home-family.md
+
+### 2026-10-03 | [LOCAL] T-606 | landmarks: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-landmarks.md
+
+### 2026-10-03 | [LOCAL] T-607 | drugs-alcohol: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-drugs-alcohol.md
+
+### 2026-10-03 | [LOCAL] T-608 | immigration: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-immigration.md
+
+### 2026-10-03 | [LOCAL] T-609 | food-farming: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-food-farming.md
+
+### 2026-10-03 | [LOCAL] T-610 | land-environment: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-land-environment.md
+
+### 2026-10-03 | [LOCAL] T-611 | money: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-money.md
+
+### 2026-10-03 | [LOCAL] T-612 | energy: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-energy.md
+
+### 2026-10-03 | [LOCAL] T-613 | transportation: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-transportation.md
+
+### 2026-10-03 | [LOCAL] T-614 | marketplace: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-marketplace.md
+
+### 2026-10-03 | [LOCAL] T-615 | health: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-health.md
+
+### 2026-10-03 | [LOCAL] T-616 | big-business: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-big-business.md
+
+### 2026-10-03 | [LOCAL] T-617 | slavery-freedom: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-slavery-freedom.md
+
+### 2026-10-03 | [LOCAL] T-618 | styles: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-styles.md
+
+### 2026-10-03 | [LOCAL] T-619 | migration: STEP 7 FIXER wave A | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-migration.md
+USAGE AT START (step 7 wave A): 0% after reset (read with get_usage).
