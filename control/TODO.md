@@ -18,6 +18,9 @@ NOW-RUNNING: T-486 news-communication (RESEARCH round 2 R4-culture: news-communi
 errors, 0 em dashes, 0 semicolons). Manuscript ~711,000 words, 684 stories, all verified. This run: T-315 to T-330
 (16 chapters, 22 writer agents, 2026-09-29/30).
 
+**STEP 4 (RESEARCH ROUND 2): COMPLETE 2026-10-02** (R-1, T-484..T-488).
+**STEP 6 (SECOND AUDIT): COMPLETE 2026-10-02.** 111/111 files re-read by sonnet (findings in control/audit/<slug>/<part>-findings-r2.md); about 38 findings and 3 blocking per file, half of round 1. NEXT: step 7, opus fixers per chapter on the r2 findings, then polish (afterword, outline rebuild, full-book build, Jon's read).
+
 **STEP 5 (FIXES, done before the round-2 research leftovers): COMPLETE 2026-10-02.** All 37 chapters fixed by opus whole-chapter fixers (T-442..T-482, waves of 6-8; giants split by part), each fixer researching its own gaps (DECISIONS #21). All 37 PASS prose, 111 part files validate. Manuscript ~785,000 words. Open items for round 2: the NEEDS-RESEARCH lists in control/checkpoints/F5-*.md and control/AUDIT-QUEUE.md (priority: DECISIONS #32 Hemings/Wayles wording).
 
 **STEP 3 (AUDIT): COMPLETE 2026-10-01.** All 111 part files checked by sonnet (T-331..T-441): about 9,700 findings, about 1,000 BLOCKING, in `control/audit/<slug>/<part>-findings-sonnet.md`. The 3 calibration files were also fixed already. Calibration COMPLETE (3 runs, T-331..T-333). Now the sonnet checker on the other 108

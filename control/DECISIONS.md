@@ -53,6 +53,9 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 39 | (2026-10-02) Official names that contain a slur (director, under #35) | A program or policy whose official name is a slur ("Operation W-----" for the 1954 deportation drive) is not printed. The book says "a 1954 federal operation whose official name used an insult for Mexican people" |
 | 40 | (2026-10-02) Period terms inside quotes and names (director, under #35) | "Negro", "negro cloth", "Colored", "mulatto" and similar period terms are not slurs in the sense of #35. They stay inside direct quotes, titles and proper names, explained once in plain words; the book's own voice never uses them |
 | 41 | (2026-10-02) The words of a code, law or policy (director, under #31) | A code, law or policy keeps its own wording when named or quoted ("sexual assault" in the Fair Food code). #31 governs the book's account of acts: rape where the record shows rape, and only where a source documents it |
+| 42 | (2026-10-02) Dating a fact that is still changing (director) | "As of September 2026" on a court case, count or policy that may change is a date on the fact, not a fourth-wall break. It is never phrased as a comment about the book ("at the time of writing") |
+| 43 | (2026-10-02) Uncharged people named in news reports (director, under #28 rule 5) | A person who has not been charged may be named only as the report names them, credited to the report ("The Minnesota Star Tribune named the officer as..."), never as a finding of guilt in the book's own voice |
+| 44 | (2026-10-02) Mass deaths told plainly (director, under #28 rule 1) | "Died" alone is softening when people were killed: Jonestown says most of the dead were made to drink poison, many of them children, and some were shot, with who ordered it as the record shows. Enslaved people used in medical work could not refuse, and the book says so |
 
 ## Consequences already applied
 

@@ -4919,3 +4919,4 @@ USAGE AT START (step 6 window 2): 0% (Jon). Target <=90%.
 STEP 6 window 2: T-537..T-556 launched (20, smallest files first); queue in scratch a6queue2.txt; next T-557 landmarks part1.
 ### 2026-10-02 | [LOCAL] STEP 6: 97/111 finished; 14 largest files left (queue a6queue2.txt from T-586). Nothing running.
 STEP 6 final wave: T-586..T-599 (14 largest files) launched at 38% usage (Jon).
+### 2026-10-02 | [LOCAL] STEP 6 COMPLETE: 111/111 second-audit files (T-489..T-599). DECISIONS #42-44. Next: step 7 fixers.
