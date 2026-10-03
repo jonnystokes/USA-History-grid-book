@@ -455,3 +455,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-617	prose	general-purpose/opus	[LOCAL] slavery-freedom step 7 fixer	?	?	?	346762	167	774121	?	completed	PASS  slavery-freedom / prose
 2026-10-03	T-621	prose	general-purpose/opus	[LOCAL] america-world step 7 fixer	?	?	?	367547	195	658519	?	completed	PASS  america-world / prose
 2026-10-03	T-623	prose	general-purpose/opus	[LOCAL] exploration step 7 fixer	?	?	?	375619	223	737967	?	completed	PASS  exploration / prose
+2026-10-03	T-620	prose	general-purpose/opus	[LOCAL] holidays step 7 fixer	?	?	?	377718	209	815158	?	completed	PASS  holidays / prose

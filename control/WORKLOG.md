@@ -5024,7 +5024,8 @@ AGENTS STEP7 WAVE A: T-604..T-619 launched 2026-10-03 at 0%. Close each with: py
 ### 2026-10-03 | [LOCAL] Step 7 wave A done: 16/16 PASS (T-604..T-619). 20 of 37 chapters fixed.
 
 ### 2026-10-03 | [LOCAL] T-620 | holidays: STEP 7 FIXER wave B1 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  holidays / prose. 377718 tokens, 209 tools, 13.6 min (opus). 129 FIXED, 2 REJECTED, 1 NEEDS-RESEARCH; 1870 law fixed; Karenga per #38
 CHECKPOINT: control/checkpoints/F7-holidays.md
 
 ### 2026-10-03 | [LOCAL] T-621 | america-world: STEP 7 FIXER wave B1 | model opus

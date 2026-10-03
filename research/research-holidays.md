@@ -324,6 +324,16 @@ How the prose can say it: "The records do not show whether the settlers held the
 ### Writer decisions, eras 1 to 5 (T-317, 2026-09-30)
 - Left out as still search summary only, too small to chase: the busk's Creek root *puskita*; the Winthrop journal line (the Court Records carry the 1637 thanksgivings); Pope's Night gang fights "from the 1740s"; Massachusetts Black elections from 1741; Wight's 43 years and 40 speeches; Proctor's artillery band at Valley Forge; the drafters of the 1777 proclamation; Opechancanough as leader of the 1622 attack; Newell's exact words (reported as a claim he made, attributed, with the dispute).
 
+### PATCH 2026-10-03 (T-620): eras 1 to 5, facts confirmed or copied for the step 7 fix
+- Patuxet (era 3), copied from `research-government-politics.md` (Plimoth Patuxet Museums page): the Pilgrims settled where a Wampanoag community (Patuxet) had lived until "a sickness had killed most of them." Also `research-health.md` (Marr and Cathey): "severely depopulated"; Squanto "one of the last of the Patuxets". Prose now says the epidemic "had killed most of the people of Patuxet", not "stood empty".
+- Mystic, 26 May 1637 (era 3), copied from `research-war.md` §3.3 (Mashantucket Pequot Tribal Nation, "History", https://www.mptn-nsn.gov/history/ ; Connecticut State Department of Education Mashantucket Pequot curriculum; ConnecticutHistory.org "Pequot War"): Connecticut colonists under Captain John Mason, with Mohegan and Narragansett allies, attacked the fortified (palisaded) Pequot town before dawn; set it on fire and shot the people who tried to get out; between 400 and 700 Pequot killed, "hundreds of elderly men, women, and children", in less than an hour; the fighting men were away with Sassacus.
+- Bradford, 1623 (era 3), Project Gutenberg #24950 (downloaded and read 2026-10-03): "they sett a parte a solemne day of humilliation, to seek ye Lord by humble & fervente prayer, in this great distrese." The text does not say the day was a fast. Prose quotes these words in modern spelling.
+- Bradford's history runs to 1650: the Paget edition is titled *Bradford's History of the Plymouth Settlement, 1608-1650* (research-health.md, Project Gutenberg #69871).
+- Calendar (New Style) Act 1750 (era 5), Wikipedia "Calendar (New Style) Act 1750" (raw page read 2026-10-03): passed the Commons 13 May 1751, royal assent 22 May 1751 (dated 1750 by session rule); it also "changed the start of the legal year from 25 March to 1 January", from 1 January 1752; "elided eleven days from September 1752". Clears the search-summary source on "passed in 1751", and explains why Washington's birth year changes from 1731 to 1732.
+- Bristol, Rhode Island (era 5), Wikipedia "Bristol, Rhode Island" (raw page read 2026-10-03): established 1680, incorporated October 28, 1681; "Bristol has the oldest continuously celebrated Independence Day festivities in the United States"; Patriotic Exercises "established in 1785 by Rev. Henry Wight", organized today by the Bristol Fourth of July Committee; after the war four Boston merchants (Burton, Byfield, Oliver, Walley) bought "Mount Hope Neck and Poppasquash Neck" as part of Plymouth Colony. This confirms the town page's "oldest, continuous" line (search summary above) by a second source.
+- Fithian's Nelson (era 5), Project Gutenberg #40044 (downloaded and read 2026-10-03): Fithian calls him "the Boy who makes my Fire", "Nelson the Boy who waits on the School", "Nelson our Boy"; the index lists "Nelson (servant)"; the Christmas entry sums "my Donations to the Servants". No line found that calls Nelson enslaved. One search (Fithian, Nomini Hall, Nelson) did not settle it. Prose calls him a boy Fithian counted among the "Servants". NEEDS-RESEARCH for round 2.
+- Longhouse (era 1): a long building where a Native community gathers for ceremonies (standard meaning; Celilo's longhouse built 2006, Wikipedia "Celilo Village, Oregon", above).
+
 ---
 
 ## Era 06: 1800 to 1850 (T-273b, 2026-09-28)
@@ -451,6 +461,13 @@ How the prose can say it: "The records do not show whether the settlers held the
 - Appomattox: Robert E. Lee surrendered the Army of Northern Virginia on 9 April 1865 (standard; NPS Appomattox Court House).
 - Burton C. Cook was a Representative from Illinois, 1865 to 1871 (Biographical Directory of the US Congress, standard).
 - Ku Klux Klan: a secret society of white men founded in 1866 that used terror against Black people and their white allies (standard definition; `slavery-freedom` and `rights-movements` banks tell it).
+
+### PATCH 2026-10-03 (T-620): eras 6 and 7, facts confirmed for the step 7 fix
+- "Account of a Visit from St. Nicholas", *Troy Sentinel*, 23 December 1823 (Wikisource page, read 2026-10-03): "But a miniature sleigh, and eight tiny rein-deer"; "With the sleigh full of Toys"; "And fill'd all the stockings"; "He sprung to his sleigh". Confirms the reindeer, the sleigh and the filled stockings.
+- Carlisle Indian Industrial School stood in Carlisle, Pennsylvania (standard geography; research-native-nations.md sources). The prose no longer calls it "the first" school.
+- Secretary of the Interior: head of the Department of the Interior, which then ran the Office of Indian Affairs (standard; the Commissioner of Indian Affairs worked under him).
+- Congressional Research Service: the office of the Library of Congress that writes reports for members of Congress (standard).
+- Veto override: Congress can pass a vetoed bill by a two-thirds vote of each house (US Constitution, Article I, section 7, standard).
 
 ### Left out, era 7
 - Kamehameha Day in Hawaii (1871) and the 1898 annexation: not researched; Hawaii was a kingdom until 1893.
@@ -691,6 +708,15 @@ How the prose can say it: "Susan Merritt remembered seeing Black people hanging 
 
 ### PATCH 2026-09-30 (T-317): the officer who killed George Floyd (era 10)
 - From `research/research-crime-justice.md` (item 2) and `research/research-rights-movements.md` §10.7: Derek Chauvin's signed federal plea agreement, US District Court, District of Minnesota, case 0:21-cr-00108-PAM-TNL, doc. 142, filed 15 December 2021 (justice.gov), in which Chauvin admitted the facts of 25 May 2020. Prose may name him as the Minneapolis police officer who killed George Floyd on 25 May 2020. Those chapters tell the killing.
+
+### PATCH 2026-10-03 (T-620): eras 8 to 10, facts confirmed for the step 7 fix
+- Juneteenth 2025 (era 10): Associated Press, "Trump is silent about Juneteenth on a day he previously honored as president", published by NPR, 20 June 2025 (https://www.npr.org/2025/06/20/g-s1-73675/trump-silent-about-juneteenth, curl read 2026-10-03): "Trump's quiet on the issue also deviated from White House guidance that Trump planned to sign a Juneteenth proclamation"; he honored Juneteenth in each of his first four years as president. A search summary of NBC adds that senior staff scrapped the signing (unconfirmed: search summary only). With CBS's Leavitt quote above, this supports "signed no proclamation for the day, the Associated Press reported".
+- Diwali (era 10): CNN Travel, "It's Diwali, when we hold light against the dark" (11 November 2023, https://www.cnn.com/travel/diwali-festival-of-lights-explained-cec, curl read 2026-10-03): "Diwali is largely observed by Hindus, Sikhs, Jains and Buddhists"; the festival of lights.
+- Anna Jarvis (era 8): the NPS page "Anna Maria Jarvis" (WebFetch 2026-10-03) does not mention the sanitarium, who placed her there, when or why. Prose now names that silent document (#45) and no longer gives the year of the placement.
+- Columbus's first voyage reached the Americas in 1492 (standard; Harrison's 1892 proclamation, above, marks the "four hundredth anniversary").
+- 1983 King law: P.L. 98-144 made the third Monday in January a federal (legal public) holiday, which governs federal employees' days off; states set their own (CRS R41990, above; standard).
+- Karenga (era 9, DECISIONS #38): the prose states the court record (convicted 1971 of felony assault and false imprisonment, sentenced one to ten years, paroled 1975), attributes "torturing" to The Root, attributes the acts to Jones's testimony as the LA Times reported it, adds Jones's and Brenda Karenga's testimony on his belief that the women meant to poison him (Wikipedia, above), and gives his denial in his own words ("trumped up", "politically motivated", BlackPast above).
+- UAINE's 1998 settlement split: the second split (Plymouth Independent) is search summary only, so the prose no longer says another account splits the money differently.
 
 ## Bank check, eras 9 and 10 (T-273c, 2026-09-28)
 
