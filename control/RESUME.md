@@ -139,6 +139,37 @@ Anything you know that is not in a file is about to be lost. Decisions by Jon go
 
 ---
 
+## Usage: read it yourself, and time waves to the 5-hour reset (2026-10-02)
+
+- **Read usage:** ToolSearch `select:mcp__ccd_session_mgmt__get_usage`, then call it with no
+  arguments. It returns the app's usage card: 5-hour limit % and `resetsAt`, weekly %, and this
+  session's context %. Costs almost nothing. (Computer use cannot click the app's own usage
+  circle; the system refuses control of the Claude window. Use the tool.)
+- **Sizing:** an Opus fixer is about 5% of the 5-hour window, a Sonnet checker about 1.2-1.4%.
+  Stop launching near 90%. Up to 20 agents at once.
+- **Waiting for a reset:** run a background timer that ends **2-3 minutes after** `resetsAt`
+  (rounding and server lag): Bash with `run_in_background: true` running a python sleep to that
+  time. When it fires, read usage; if it has not reset, wait 5 minutes and read again.
+- **Jon's priorities (2026-10-02):** 1, finish the book. 2, use the paid usage before the weekly
+  reset (Tuesday): run full 5-hour windows back to back, staying under the cap.
+
+## Pruning the director's own transcript (2026-09-29 and 2026-10-02)
+
+Procedure: `claude-workspace/tools/session-prune/README.md` in `C:/Users/jon/Projects`. Read it first.
+- A sonnet sub-agent builds `pruned.jsonl` from a snapshot in a job folder under
+  `C:/Users/jon/.claude/prune-work/`. It never swaps the live file while the session runs: the
+  running process holds the conversation in memory and would undo the prune.
+- Keep: every Jon line, every assistant prose and thinking block, the compaction summary, the
+  first 20 and last 150 lines, all ids and tool pairings. Cut: repeated agent briefs (keep the
+  first of each template), launch receipts, long agent reports (600 chars), command output, file
+  reads, attachments. All of that is also on disk in control/, checkpoints and git.
+- Swap: Jon closes the session, then runs the job folder's `swap.py`. It refuses while the
+  session is open, puts the pruned file in place, keeps lines written after the snapshot, and
+  zeroes their usage so the gauge restarts.
+- Results: 2026-09-29, context ~95% to ~57%. 2026-10-02 (job 2026-10-02b-fa3be11b), 1.98M to
+  1.28M model-visible characters; the session came back at ~70% with its memory intact. Prune at
+  60-70%, not near 95%: running it costs a few % of context and leaves room to check it.
+
 ## Where everything lives
 
 | Need | File |
