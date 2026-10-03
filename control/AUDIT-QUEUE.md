@@ -300,3 +300,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **Wikipedia named in prose (book-wide, from T-608):** the book should not cite Wikipedia as an authority. Polish: grep manuscript/ for 'Wikipedia'; replace each with the underlying source it cites, or cut the fact.
 - **Wave B, rights-movements part 3 (#36):** tell the 1961 Birmingham beatings of James Peck and Walter Bergman as transportation now does (copy its T-613 PATCH; replace Wikipedia with an underlying source where possible).
 - **slavery-freedom (T-617) polish:** check Kendi, Stamped from the Beginning, for the word 'rape' about Jefferson and Hemings; add 1964 and 1965 laws one plain sentence each (copy from government-politics/rights-movements banks).
+- **native-nations Baird story movie= accents (T-622):** polish: correct the accent marks in the movie= value of the Baird story (director edit; verify against the film title).

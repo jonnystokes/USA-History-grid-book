@@ -5053,3 +5053,4 @@ STATUS: DONE
 RESULT: PASS  war / prose. 353266 tokens, 161 tools, 14.9 min (opus). 149 FIXED, 0 REJECTED; Arenal claim corrected
 CHECKPOINT: control/checkpoints/F7-war.md
 USAGE: wave A 0% -> 60% (16 fixers, 3.75% each). Wave B1 (6) launched at 60%.
+### 2026-10-03 | [LOCAL] Wave B1 done: 6/6 PASS (T-620..T-625). 26 of 37 chapters fixed in step 7.
