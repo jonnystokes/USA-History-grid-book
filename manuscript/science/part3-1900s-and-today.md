@@ -312,7 +312,7 @@ Morabito later wrote her own history of the discovery. She appears in *The Farth
 <!-- hb-story:start slug="richard-feynman" name="Richard Feynman" movie="The Fantastic Mr Feynman (2013)" kind="famous" status="verified" -->
 ### Richard Feynman
 
-> **Who:** A physicist who rebuilt the theory of light and matter, drew the diagrams that physicists still use, and explained hard ideas in plain words.
+> **Who:** A physicist who rebuilt the theory of light and matter, drew the diagrams that physicists still use, and explained hard ideas simply.
 > **When and where:** Los Alamos during World War II. Later Caltech, in Pasadena, California. He died in 1988.
 > **Movie:** *The Fantastic Mr Feynman* (2013)
 
@@ -366,9 +366,9 @@ In November 1996 O'Leary announced payments of $4.8 million to the families of 1
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-In 2003 scientists announced that they had read nearly all of the human genome, and in 2022 they read all of it. In 2012 scientists found the Higgs boson. In 2015 they detected gravitational waves for the first time. The biggest experiments now have thousands of scientists from many countries. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012.
+In 2003 scientists announced that they had read nearly all of the human genome, and in 2022 they read all of it. In 2012 scientists found the Higgs boson. In 2015 they detected gravitational waves for the first time. The biggest experiments now have thousands of scientists. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012.
 
-Some of the people who were used for science, and their families, have also won apologies, rules and payments. In 2013 the Lacks family reached an agreement on how scientists may use the genome of Henrietta Lacks's cells. In 2023 the head of the Smithsonian apologized for how its collectors gathered human remains. In July 2025 people who lived downwind of the Trinity test became able to claim federal payments.
+Some of the people who were used for science, and their families, have also won apologies, rules and payments. In 2013 the Lacks family reached an agreement on how scientists may use the genome of Henrietta Lacks's cells. In 2023 the head of the Smithsonian apologized for how people collecting for it had taken human remains, many of them dug from graves and most taken without consent. In July 2025 people who lived downwind of the Trinity test became able to claim federal payments.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The genome, finished twice" -->
@@ -378,13 +378,13 @@ On March 31, 2022, another group of scientists, the Telomere-to-Telomere consort
 
 The National Human Genome Research Institute, the government's genome research agency, has published what the work cost. The Human Genome Project cost the United States about $2.7 billion. That money paid for mapping the genome and for building new tools, as well as for reading it. In 2006, reading one person's genome to a high-quality draft cost about $14 million. By the middle of 2015 it cost just over $4,000, and by late 2015 it cost less than $1,500.
 
-James Watson died in November 2025, at 97. With Francis Crick, he had worked out the shape of DNA in 1953, using Rosalind Franklin's X-ray pictures without her knowledge.
+James Watson died in November 2025, at 97. With Francis Crick, he had worked out the shape of DNA in 1953, using Rosalind Franklin's X-ray pictures without her knowledge. In 2019 he had said that his racist views about the intelligence of Africans had not changed, and the leaders of Cold Spring Harbor Laboratory took away his honorary titles.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Higgs boson, and the collider that members of Congress cancelled" -->
 On July 4, 2012, scientists at CERN, the European physics laboratory in Geneva, Switzerland, announced that they had found the Higgs boson. The Higgs boson is a particle tied to how other particles get their mass. Mass is the amount of matter in an object. Two experiments found it, called ATLAS and CMS. Both used the Large Hadron Collider, a machine that smashes tiny particles together at very high speed. According to the US Department of Energy, about 1,700 American scientists worked on these experiments through two American labs, Fermilab and Brookhaven.
 
-American physicists had begun building a collider of their own, the Superconducting Super Collider, near Waxahachie, Texas. It was planned as a ring 54 miles around. In October 1993 members of Congress cancelled it. By then $2 billion had been spent and more than 14 miles of tunnel had been dug. The machine that found the Higgs boson was built in Europe instead.
+American physicists had begun building a collider of their own, the Superconducting Super Collider, near Waxahachie, Texas. It was planned as a ring 54 miles around. In October 1993 members of Congress cancelled it. By then $2 billion had been spent and more than 14 miles of tunnel had been dug. The Large Hadron Collider, the machine the Higgs experiments used, was built in Europe instead.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="monica-dunford" name="Monica Dunford" movie="Particle Fever (2013)" kind="ordinary" status="verified" -->
@@ -435,11 +435,11 @@ In 2022 scientists using the telescope made the first clear detection of carbon 
 <!-- hb-zoom level="span" label="Computers that predict the shapes of proteins" -->
 Scientists at DeepMind, a British lab, showed in 2020 that their program AlphaFold2 could predict the shape of a protein well enough for practical use. A protein is a molecule that does work inside living cells, and its shape sets what it can do. AlphaFold2 is an example of artificial intelligence, or AI: computer software that learns patterns from huge amounts of data. According to the European Molecular Biology Laboratory, free public databases held more than 200 million predicted protein shapes by 2026.
 
-In 2024 the Nobel Prize in Chemistry was split in two. Half went to David Baker, an American at the University of Washington, for using computers to design new proteins. The other half went to Demis Hassabis and John Jumper of DeepMind in Britain. News reports in the 2020s describe scientists in many fields starting to use AI tools in their labs.
+In 2024 the Nobel Prize in Chemistry was split in two. Half went to David Baker, an American at the University of Washington, for using computers to design new proteins. The other half went to Demis Hassabis and John Jumper of DeepMind in Britain.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Heavy elements, made by many countries" -->
-Scientists from several countries now work together to make the heaviest elements. Teams from Dubna in Russia and from Lawrence Livermore and Oak Ridge in the United States have worked on the same experiments. Scientists on joint panels of two international science groups, IUPAC and IUPAP, judge who made each new element. On December 30, 2015, IUPAC officially recognized the discoveries of elements 113, 115, 117 and 118. That filled the seventh row of the periodic table. Teams from Dubna and Livermore got credit for 115, 117 and 118, with Oak Ridge also credited for 115 and 117. The names came on November 28, 2016: nihonium, moscovium, tennessine, named for Tennessee, and oganesson.
+Scientists from several countries now work together to make the heaviest elements. Teams from Dubna in Russia and from Lawrence Livermore and Oak Ridge in the United States have worked on the same experiments. Scientists on joint panels of two international science groups, IUPAC and IUPAP, judge who made each new element. On December 30, 2015, officials of IUPAC announced that they recognized the discoveries of elements 113, 115, 117 and 118. That filled the seventh row of the periodic table. RIKEN, a science institute in Japan, got credit for 113. Teams from Dubna and Livermore got credit for 115, 117 and 118, with Oak Ridge also credited for 115 and 117. The names came on November 28, 2016: nihonium, moscovium, tennessine, named for Tennessee, and oganesson.
 
 In 2024 scientists at Berkeley made livermorium, element 116, by firing a beam of titanium at a target. With that result, the Berkeley team prepared to try for element 120. The physicists are looking for what they call the "island of stability," a group of superheavy elements that they predict would last longer before breaking apart.
 <!-- /hb-zoom -->
@@ -455,13 +455,13 @@ According to news reports in STAT and Smithsonian Magazine, the two sides announ
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Apologies, and the dead still held" -->
-Lonnie G. Bunch III, the Secretary, or head, of the Smithsonian, apologized in August 2023 for how the institution had collected many of its human remains. He spoke after the Washington Post published its investigation of Aleš Hrdlička's collecting.
+Lonnie G. Bunch III, the Secretary, or head, of the Smithsonian, apologized in August 2023 for how people collecting for the Smithsonian had taken many of its human remains. He spoke after the Washington Post published its investigation of Aleš Hrdlička's collecting.
 
-Two years earlier, on April 12, 2021, Christopher Woods, the director of the Penn Museum at the University of Pennsylvania, had apologized for "the unethical possession of human remains in the Morton Collection." Samuel Morton was a Philadelphia doctor of the 1800s who collected human skulls to rank the races. In 2022 remains of Black Philadelphians from his collection were buried again in Philadelphia, according to the University of Pennsylvania's student newspaper.
+Two years earlier, on April 12, 2021, Christopher Woods, the director of the Penn Museum at the University of Pennsylvania, had apologized for "the unethical possession of human remains in the Morton Collection." Samuel Morton was a Philadelphia doctor of the 1800s who collected human skulls to rank the races. In January 2024, on the order of a Philadelphia court, Penn Museum staff buried the skulls of 19 Black Philadelphians from his collection at Eden Cemetery in Collingdale, Pennsylvania. A group called the Black Philadelphians Descendant Community Group objected that the Black community, not the museum, should decide what happened to the remains.
 
-ProPublica, a news organization, counted the Native American remains still held, using federal NAGPRA reports. As of January 6, 2025, staff at about 650 museums, universities and agencies had reported holding more than 210,000 Native American remains. They had not yet made 90,831 of them, or 42 percent, available for return. The Ohio History Connection held the most, 7,936. The Illinois State Museum held 5,801, and Harvard University held 5,431. The University of California, Berkeley held 4,794, and Indiana University held 4,503. The Smithsonian is not on that list, because it reports under the 1989 law instead of NAGPRA. Another publication, Retrospect Journal, reported in March 2025 a different count, made in September 2024: 126,299 of 216,804 remains returned.
+Reporters at ProPublica, a news organization, counted the Native American remains still held, using federal NAGPRA reports. As of January 6, 2025, staff at about 650 museums, universities and agencies had reported holding more than 210,000 Native American remains. They had not yet made 90,831 of them, or 42 percent, available for return. The Ohio History Connection held the most, 7,936. The Illinois State Museum held 5,801, and Harvard University held 5,431. The University of California, Berkeley held 4,794, and Indiana University held 4,503. The Smithsonian is not on that list, because it reports under the 1989 law instead of NAGPRA. Writers at Retrospect Journal reported in March 2025 a different count, made in September 2024: 126,299 of 216,804 remains returned.
 
-On January 12, 2024, a revised NAGPRA rule took effect. Officials of the Interior Department had announced it on December 6, 2023. Under the rule, museums and federal agencies must get the free, prior and informed consent of direct descendants, Native nations or Native Hawaiian organizations. They need it before they display human remains or sacred and cultural objects, let others see them, or do research on them. Free, prior and informed consent means a yes given freely and beforehand, by people who have been told everything about the request. In January 2024, according to The Art Newspaper, staff at the Field Museum in Chicago covered display cases in two of its halls.
+On January 12, 2024, a revised NAGPRA rule took effect. Officials of the Interior Department had announced it on December 6, 2023. Under the rule, staff at museums and federal agencies must get the free, prior and informed consent of direct descendants, Native nations or Native Hawaiian organizations. They need it before they display human remains or sacred and cultural objects, let others see them, or do research on them. Free, prior and informed consent means a yes given freely and beforehand, by people who have been told everything about the request. In January 2024, according to The Art Newspaper, staff at the Field Museum in Chicago covered display cases in two of its halls.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Payment for the Trinity downwinders, 2025" -->

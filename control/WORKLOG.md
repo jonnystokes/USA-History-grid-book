@@ -4941,7 +4941,8 @@ AGENTS STEP7 WAVE1: T-600 ab061681383c5d135 (economy), T-601 a309aa5f3932db00b (
 ### 2026-10-02 | [LOCAL] Step 7 wave 1 done: economy, elements, technology, work-workers PASS (1.27M tokens). DECISIONS #45-46. Usage at start 66%.
 
 ### 2026-10-03 | [LOCAL] T-604 | science: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  science / prose. 318467 tokens, 140 tools, 10.8 min (opus). 78 FIXED, 2 REJECTED; Morton reburial Jan 2024 corrected
 CHECKPOINT: control/checkpoints/F7-science.md
 
 ### 2026-10-03 | [LOCAL] T-605 | home-family: STEP 7 FIXER wave A | model opus
