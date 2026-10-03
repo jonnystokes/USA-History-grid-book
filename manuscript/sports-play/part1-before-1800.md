@@ -24,21 +24,21 @@ Chunkey was a game played with a stone disk and long poles. One player rolled th
 
 Staff at the Jefferson Patterson Park and Museum in Maryland date the game's beginnings to about the year 600, in the area around present-day St. Louis. The city of Cahokia was built in that same area around 1050. Its people filled in and leveled a plaza, a huge open square, of about 50 acres by hand. They used the plaza for ceremonies and for chunkey.
 
-The stones changed over time. A chunkey stone made before Cahokia existed measures about 2.5 inches across. A stone from the 1100s measures about 3.5 inches. It is made of quartzite, a hard rock, taken from a single place on the Mississippi River. A shell collar found 90 miles south of Cahokia shows a chunkey player holding a pole and a stone.
+A chunkey stone made before Cahokia existed measures about 2.5 inches across. A stone from the 1100s measures about 3.5 inches. It is made of quartzite, a hard rock, taken from a single place on the Mississippi River. A shell collar found 90 miles south of Cahokia shows a chunkey player holding a pole and a stone.
 
-Timothy Pauketat is an archaeologist at the University of Illinois. He argues that messengers from Cahokia may have carried chunkey stones in one hand and war clubs in the other into the lands around the city. In his account, they went to make peace or to make agreements with other peoples. He also writes that chunkey had a large part in how Cahokia's people organized their lives and their leaders. Chunkey stones from about 1300 have been found as far away as Georgia. In Maryland they have turned up at sites in Frederick and Montgomery counties. Cahokia declined around 1500, and people went on playing chunkey across North America after that.
+Timothy Pauketat is an archaeologist at the University of Illinois. He argues that messengers from Cahokia may have carried a chunkey stone in one hand and a war club in the other. In his account, they went out to the lands around the city to make peace or to make agreements with other peoples. He also writes that chunkey played a large part in how Cahokia's people lived together and how they were governed. Chunkey stones from about 1300 have been found as far away as Georgia. In Maryland they have turned up at sites in Frederick and Montgomery counties. Staff at the Jefferson Patterson museum say Cahokia declined around 1500, and that people went on playing chunkey across North America after that.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Ball games with sticks" -->
-Nations in the East, among them the Choctaw, the Huron and the Haudenosaunee, played a ball game with sticks. The Choctaw call their game kapucha toli, which means "stick play." The Huron and the Haudenosaunee, also called the Iroquois, played the game known today as lacrosse. The Choctaw Nation writes that stickball "has been the Choctaw national sport for unknown centuries."
+Nations in the East, among them the Choctaw, the Huron and the Haudenosaunee, played a ball game with sticks. The Choctaw call their game kapucha toli, which means "stick play." The Huron and the Haudenosaunee, also called the Iroquois, played the game known today as lacrosse. Writers for the Choctaw Nation, on the nation's website, say that stickball "has been the Choctaw national sport for unknown centuries."
 
 No object or written record dates a stick-and-ball game before 1500. Jean de Brebeuf, a French missionary, described Huron lacrosse in 1636. A missionary was a man who traveled to other peoples to spread the Christian religion. Brebeuf belonged to the Jesuits, a group of Catholic priests. Another Jesuit missionary described a Choctaw match in 1729, the oldest written account of a Choctaw game.
 
-The Choctaw Nation records fields from about 100 yards long to, perhaps, several miles long. Some games had several hundred players on each side, and others had twenty or fewer. Among the Choctaw, women played alongside men. Betting was a large part of the game, especially for the women. The Choctaw Nation also writes that deaths were common in the old games.
+According to the same Choctaw writers, fields ran from about 100 yards long to, perhaps, several miles long. Some games had several hundred players on each side, and others had twenty or fewer. Among the Choctaw, women played alongside men. Betting was a large part of the game, especially for the women. The Choctaw writers also say that deaths were common in the old games.
 
-People used the game to teach and to heal. The Choctaw Nation says the game was used to show young people how Choctaw families were arranged and what men and women each did. Among the Huron, Brebeuf wrote, a sick person or a healer could call for a lacrosse game to make the sick person well. Whole villages played against each other and bet beaver robes and collars of beads.
+People used the game to teach and to heal. The Choctaw have used the game to show their young people how Choctaw families were arranged and what men and women each did, the Choctaw writers say. Among the Huron, Brebeuf wrote, a sick person or a healer could call for a lacrosse game to make the sick person well. Whole villages played against each other and bet beaver robes and what Brebeuf called "porcelain collars." The Jesuits used the word porcelain for wampum, beads made from shells.
 
-Choctaw tradition says that towns sometimes played ball to settle an argument. The two games of this kind that someone wrote down took place long after 1500, around 1790 and 1800.
+According to Choctaw tradition, towns sometimes played ball to settle an argument. The two games of this kind that someone wrote down took place long after 1500, around 1790 and 1800.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Games of chance" -->
@@ -54,7 +54,7 @@ The archaeologist Kathryn Kamp studied clay objects about 800 years old from Sin
 
 In the Southwest about 2,000 years ago, people made animal figures out of split twigs. Archaeologists had thought people used the figures in religious ceremonies for hunting. Then three of them, two deer and a duck, were found in a child's grave. Archaeologists now think that some of the figures were toys.
 
-Children also played lacrosse. Bacqueville de la Potherie, who wrote about the Huron in the early 1700s, said that Huron children played lacrosse. He wrote that they "never or rarely" played the dice games that Huron women played.
+Bacqueville de la Potherie, who wrote about the Huron in the early 1700s, said that Huron children played lacrosse. He wrote that they "never or rarely" played the dice games that Huron women played.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -62,7 +62,7 @@ Children also played lacrosse. Bacqueville de la Potherie, who wrote about the H
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-The written descriptions of games in this land from the 1500s are almost all about Native games. The Europeans here in these years were Spanish and French soldiers, sailors and missionaries, men who came to spread the Christian religion. They wrote down what they saw Native people play. The Spanish soldiers at the forts of St. Augustine and Santa Elena on the Atlantic coast left guns, tools and pottery behind. No record from the 1500s describes what the soldiers at those two forts played.
+The written descriptions of games in this land from the 1500s are almost all about Native games. The Europeans here in these years were Spanish and French soldiers, sailors and missionaries. Missionaries were men who came to spread the Christian religion. These Europeans wrote down what they saw Native people play. The Spanish soldiers at the forts of St. Augustine and Santa Elena on the Atlantic coast left guns, tools and pottery behind. No record from the 1500s describes what the soldiers at those two forts played.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Timucua games in Florida, 1564 and 1565" -->
@@ -94,23 +94,23 @@ Native nations kept playing their own games, and English and Spanish writers des
 <!-- hb-zoom level="span" label="Bowling at Jamestown, 1611" -->
 Sir Thomas Dale arrived at Jamestown in May 1611 with about 300 soldiers, to govern the colony. The colonist Ralph Hamor later wrote that on his first day Dale found the colonists at "their daily and usuall works, bowling in the streetes."
 
-The historians William Kelso and Karen Ordahl Kupperman argue that the colonists were badly fed and sick, and that hunger and disease made the men act in ways that could look like laziness. Dale then enforced a code of military rules called the Lawes Divine, Morall and Martiall. Under that code, a man caught stealing oatmeal had a needle pushed through his tongue and was tied to a tree until he starved to death. The record does not name the men who carried out the punishment.
+The historians William Kelso and Karen Ordahl Kupperman argue that the colonists were sick and badly fed. In their view, hunger and disease made the men act in ways that could look like laziness. Dale then enforced a code of military rules called the Lawes Divine, Morall and Martiall. Under that code, a man caught stealing oatmeal had a needle pushed through his tongue and was tied to a tree until he starved to death. Encyclopedia Virginia's account of the punishment does not name the men who carried it out.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Massachusett football, 1634" -->
 William Wood, an Englishman, described the games of the Massachusett people on the coast in a book printed in 1634. He listed football, shooting, running and swimming. When one area played another, Wood wrote, "their goals be a mile long," set on sand as flat as a board. Players kicked a ball about the size of a handball with their bare feet. A game could last two days. The players marked the ground they had won and started again from that spot the next day.
 
-The winners took the prizes hung on the goals. The prizes were strings of wampum, which are shell beads, and beaver and otter skins. Players painted themselves before a game, as they did for war, so that no one could tell who had hurt him and take revenge later. While the men played, the boys played pipes and the women danced and sang. Wood also claimed that one Englishman could beat ten Native players at football.
+The winners took the prizes hung on the goals. The prizes were wampum, which are shell beads, along with beaver skins and black otter skins. Players painted themselves before a game, as they did for war. Wood wrote that they did it so that no one could tell who had hurt him and take revenge later. While the men played, the boys played pipes and the women danced and sang. Wood also claimed that one Englishman could beat ten Native players at football.
 
-Wood watched a dice game called hubbub too. A player put five small bones, black on one side and white on the other, in a small smooth tray. He thumped the tray on the ground so that the bones jumped, and scored by the colors that landed face up. The players shouted "Hub, Hub, Hub," and Wood wrote that they could be heard a quarter of a mile away.
+Wood described a dice game called hubbub too. A player put five small bones, black on one side and white on the other, in a small smooth tray. He thumped the tray on the ground so that the bones jumped, and scored by the colors that landed face up. The players shouted "Hub, Hub, Hub," and Wood wrote that they could be heard a quarter of a mile away.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fines for games in New England" -->
-In 1647 the lawmakers of Massachusetts Bay banned shuffleboard, a game of sliding pieces down a long board, in taverns. In 1650 they banned bowling in taverns as well. They wrote that the games wasted "much precious time" and much wine and beer. A tavern keeper who allowed the games paid 20 shillings, and each player paid 5 shillings. A shilling was a coin of English money, and 20 shillings made one pound. Anyone who bet money had to pay three times the amount of the bet. A law of 1659 fined anyone caught playing cards or dice anywhere in the colony 5 shillings.
+In 1647 the lawmakers of Massachusetts Bay banned shuffleboard, a game of sliding pieces down a long board, in taverns. In 1650 they banned bowling and any other game in taverns as well. They wrote that the games wasted "much precious time" and much wine and beer. A tavern keeper who allowed the games paid 20 shillings, and each player paid 5 shillings. A shilling was a coin of English money, and 20 shillings made one pound. Anyone who bet money had to pay three times the amount of the bet. A law of 1659 fined anyone caught playing cards or dice anywhere in the colony 5 shillings.
 
 The judges of Plymouth Colony's court fined people by name. In 1663 they fined John Shilley 20 shillings for playing cards on Sunday. At a court in 1663 or 1664 they fined Richard Berry, William Griffin and his wife, and Richard Michell and his wife 40 shillings each for playing cards.
 
-In June 1679 the Plymouth judges fined six men and one servant for card games. The men were Joseph Thorne of Scituate, Joseph Peirse, James Benitt, John Holbrooke, Isacke Woodworth and Mathew Gannet. John Holbrooke paid one pound for playing once in the woods. The judges also fined "His man, Patricke," a servant who had played with him, 10 shillings. Mathew Gannet paid the most, two pounds, for playing many times and letting others play cards in his house.
+In June 1679 the Plymouth judges fined six men and one servant for card games. The men were Joseph Thorne of Scituate, Joseph Peirse, James Benitt, John Holbrooke, Isacke Woodworth and Mathew Gannet. John Holbrooke paid one pound for playing once in the woods. The judges also fined "His man, Patricke," a servant who had played with him, 10 shillings. Mathew Gannet paid two pounds for playing cards several times and letting others play cards in his house. The printed record lists Isacke Woodworth as playing twice but does not give his fine.
 
 The historian T. H. Breen found only a little betting in Massachusetts in the 1600s. Most of it was among poor people and servants. He found none among the colony's leaders.
 <!-- /hb-zoom -->
@@ -118,9 +118,9 @@ The historian T. H. Breen found only a little betting in Massachusetts in the 16
 <!-- hb-zoom level="span" label="New Netherland: Sunday bans, the goose and golf" -->
 New Netherland was the Dutch colony that is now New York. Peter Stuyvesant was its director, the man who governed it. On 26 October 1656 Stuyvesant and the men of his council, who helped him govern, banned work on Sunday. They also banned "playing Ball, Cards, Tricktrack, Tennis, Cricket or Ninepins" before, between or during church services, along with boat and wagon trips. Anyone caught paid a double fine. Ninepins is bowling at nine wooden pins. Tricktrack is a board game like backgammon.
 
-Dutch farmers brought a game from home called pulling the goose. They hung a goose by a rope between two poles and greased its neck and head with oil or soap. Riders galloped past and grabbed at the goose to pull it down. The winner was called king of the festival. The record does not say whether the goose was alive.
+Dutch farmers brought a game from home called pulling the goose. They hung a goose by a rope between two poles and greased its neck and head with oil or soap. Riders galloped past and grabbed at the goose to pull it down. The winner was called king of the festival. The Dutch records printed in 1868 do not say whether the goose was alive.
 
-Stuyvesant called the game "heathenish and Popish," which meant un-Christian and Catholic, and he banned it. Some farmers held it anyway. They were fined, and some were put in jail, even though the leaders of the town of New Amsterdam protested. The record does not name the farmers or the officials who punished them. The game first came to New Netherland in about 1654, and the record does not make clear in which year the farmers were fined. In February 1658 farmers on Manhattan asked to hold the game, and Stuyvesant refused. One later book dates his ban to that same month.
+Stuyvesant called the game "heathenish and Popish," which meant un-Christian and Catholic, and he banned it. Some farmers held it anyway. They were fined, and some were put in jail, even though the leaders of the town of New Amsterdam protested. Those printed Dutch records do not name the farmers or the officials who punished them. The game first came to New Netherland in about 1654, and the records do not make clear in which year the farmers were fined. In February 1658 farmers on Manhattan asked to hold the game, and Stuyvesant refused. One later book dates his ban to that same month.
 
 In Fort Orange, now Albany, people complained that men playing golf in the streets broke windows and put passers-by in danger of being hurt. On 10 December 1659 the town's officers banned golf in the streets. The fine was 25 guilders, the Dutch unit of money.
 <!-- /hb-zoom -->
@@ -145,7 +145,7 @@ James Bullocke was a tailor in York County, Virginia. In 1674 he bet Mathew Slad
 
 The justices ruled that it was "contrary to Law for a Labourer to make a race, being a sport only for Gentlemen." A labourer was a man who worked with his hands. The court order, as it was printed in 1894, fined Bullocke 100 pounds of tobacco. The historian T. H. Breen read the same court book and gives the fine as 200 pounds. The order does not name the law the justices meant, and no such law has been found in the colony's printed laws.
 
-The justices also found that the race had been fixed. Slader had signed a promise to make his horse run off the course so that Bullocke's mare would win. The justices called it "an apparent cheate." They ordered Slader, a gentleman, to sit in the stocks for one hour. The stocks were a wooden frame that locked a person's ankles while he sat in a public place.
+The justices also found that the race had been fixed. Slader had signed a promise that his horse "should runn out of the way," which meant it would leave the track, so that Bullocke's mare would win. The justices called it "an apparent cheate." They ordered Slader, a gentleman, to sit in the stocks for one hour. The stocks were a wooden frame that locked a person's ankles while he sat in a public place.
 
 W. G. Stanard, a historian writing in 1894, called the court order the earliest notice of racing in Virginia's records.
 <!-- hb-story:end slug="james-bullocke" -->
@@ -153,19 +153,19 @@ W. G. Stanard, a historian writing in 1894, called the court order the earliest 
 <!-- hb-zoom level="span" label="The Apalachee ball game banned, 1676" -->
 The Apalachee and Yustaga nations of northern Florida played a ball game between towns. A town sent a messenger to challenge another town, naming the day and the number of players, about forty or fifty. Players kicked a small ball, a little bigger than a musket ball, at a single tall pole. Eleven hits won.
 
-Fray Juan de Paiva was the Spanish friar at the mission of San Luis, where Tallahassee is now. A friar was a member of a Catholic group of religious men who lived by strict rules, and a mission was a church settlement where friars worked to make Native people Christians. On 23 September 1676 Paiva wrote a long attack on the game. He wrote it with the royal interpreter Diego Salvador and Juan Mendoza, an Apalachee leader who interpreted for the church.
+Fray Juan de Paiva was the Spanish friar at the mission of San Luis, where Tallahassee is now. On 23 September 1676 Paiva wrote a long paper against the game. He wrote it with the royal interpreter Diego Salvador and Juan Mendoza, an Apalachee leader who interpreted for the church.
 
 Paiva described what players did to each other. They stepped on faces, heads and bellies. They pulled at arms and legs without caring whether the joints came apart. When a player swallowed the ball, others made him throw it up by squeezing his windpipe or kicking him in the stomach. Paiva listed broken legs and ribs, people who had lost the use of one or both hands, and people blinded in one eye. He wrote of two players he knew who had been killed at San Luis. In 1676, he wrote, five games in a row ended in open fighting, and soldiers were present at the games.
 
-Paiva also charged that people left their fields unplanted and their houses open to thieves while they watched. He wanted the game banned, and these were his charges against it. Governor Pablo de Hita Salazar and Fray Francisco Perete, the head of the Franciscan friars in Florida, backed him. The Apalachee chiefs pulled down the ball poles and put crosses in their place. Captain Juan Fernández de Florencia thanked the chiefs for it on the governor's behalf. Some people wrote to the governor asking him not to end the game.
+Paiva wanted the game banned. He also charged that people left their fields unplanted and their houses open to thieves while they watched. Governor Pablo de Hita Salazar backed him. So did Fray Francisco Perete, the head in Florida of the Franciscans, one group of Catholic friars. Paiva wrote that the Apalachee chiefs pulled down the ball poles and put "the holy cross" in their place, and that Captain Juan Fernández de Florencia thanked the chiefs for it on the governor's behalf. He also wrote that some people asked the governor in writing not to end the game.
 
 The historian Amy Bushnell dates the Spanish campaign against the game from 1675 to 1684. The Talimali Band of the Apalachee lives in Louisiana today.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved people and children" -->
-On 8 June 1680 the members of the Virginia General Assembly, the colony's lawmakers, passed a law against gatherings of enslaved people. Its opening words stated that meetings of enslaved people "under pretence of feasts and burialls" were dangerous. The lawmakers meant that the feasts and funerals were only an excuse to meet. An enslaved person who left the owner's land without a written pass was to get "twenty lashes on his bare back well layd on." That meant twenty hard blows with a whip on the bare skin. An enslaved person who raised a hand against "any Christian" was to get thirty lashes. One who hid out and fought back against capture could, under the same law, be killed. In 1682 the lawmakers barred enslaved people from staying at another plantation for more than four hours at a time.
+On 8 June 1680 the members of the Virginia General Assembly, the colony's lawmakers, passed a law against gatherings of enslaved people. They named it "An act for preventing Negroes Insurrections." "Negroes" was a word of the time for Black people. An insurrection is an uprising, so the lawmakers wrote the law to stop enslaved people from rising up against the men who held them. Its opening words stated that meetings of enslaved people "under pretence of feasts and burialls" were dangerous. The lawmakers meant that the feasts and funerals were only an excuse to meet. An enslaved person who left the owner's land without a written pass was to get "twenty lashes on his bare back well layd on." That meant twenty hard blows with a whip on the bare skin. An enslaved person who raised a hand against "any Christian" was to get thirty lashes. If an enslaved person hid out and fought back against the men sent by law to catch him, the same law said those men could kill him. In 1682 the lawmakers barred enslaved people from gathering at another owner's plantation for more than four hours at a time.
 
-No one in the 1600s wrote down how a child spent the hours of a day. The one dated record of enslaved people's free time in these years is the law of 1680 that punished them for gathering. The oldest marble that can be dated at Jamestown is a brown stoneware one from the middle of the 1600s. Stoneware is a hard kind of pottery. The marble may have been made in Germany, the Netherlands or England.
+No one in the 1600s wrote down how a child spent the hours of a day. The only dated records of enslaved people's free time in these years are the laws of 1680 and 1682 that punished them for gathering. The oldest marble that can be dated at Jamestown is a brown stoneware one from the middle of the 1600s. Stoneware is a hard kind of pottery. The marble may have been made in Germany, the Netherlands or England. Historic Jamestowne's description of the marble does not say whether a child or a grown person played with it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -183,7 +183,7 @@ Robert Beverley wrote in 1705 that young Virginians loved to hunt wild horses. T
 
 The minister Hugh Jones wrote in 1724 that "almost every ordinary Person keeps a Horse." He had seen men spend a morning catching a horse in the woods, only to ride two or three miles to church, to court, "or to a Horse-Race."
 
-In a quarter race, two horses sprinted along a straight, narrow path about a quarter mile long. The sources disagree about who could race. Mount Vernon's historians write that owners rode their own farm horses, so ordinary farmers could race. The historian T. H. Breen found that gentlemen tried to keep racing to themselves, as the York County justices did in 1674. A court record of 1678 shows a "boy" riding another man's horse, so not every rider owned his horse. The records of these races name the owners of the horses and seldom say who rode.
+In a quarter race, two horses sprinted along a straight, narrow path about a quarter mile long. Historians disagree about who could race. Historians at Mount Vernon, George Washington's home in Virginia, write that owners rode their own farm horses, so ordinary farmers could race. The historian T. H. Breen found that gentlemen tried to keep racing to themselves, as the York County justices did in 1674. A court record of 1678 shows a "boy" riding another man's horse, so not every rider owned his horse. The records of these races name the owners of the horses and seldom say who rode.
 
 Planters began to bring racehorses from England. In 1730 a man named James Patton brought over a stallion, a male horse kept for breeding, named Bulle Rock. The horse was then 21 years old. Bulle Rock is thought to be the first English Thoroughbred brought to the colonies. A Thoroughbred is a horse of a breed raised in England for racing. Between 1740 and 1775 planters brought at least fifty stallions and thirty mares from England to Virginia.
 <!-- /hb-zoom -->
@@ -193,9 +193,9 @@ On 30 November 1736, St. Andrew's Day, a church holiday, a group of gentlemen in
 
 A later notice asked everyone who came to behave "with Decency and Sobriety," which meant politely and without getting drunk. Breen writes that poorer people apparently were welcome to come and watch.
 
-A notice in the *Virginia Gazette* of 1 July 1737 stated that there would be horse races every Saturday until October near Williamsburg. In November 1737 John Pinkerton held three days of races at the Old Field track in Virginia, with a three-mile race each day. Mount Vernon's historians call it the first documented long-distance race in Virginia. Old records spell the host's name both Pinkerton and Brickerton. The meeting also had a fiddling contest, a running race for boys, a contest for the prettiest unmarried woman, and a dinner with singing and dancing.
+A notice in the *Virginia Gazette* of 1 July 1737 stated that there would be horse races every Saturday until October near Williamsburg. In November 1737 John Pinkerton held three days of races at the Old Field track in Virginia, with a three-mile race each day. Mount Vernon's historians call it the first documented long-distance race in Virginia. Different sources spell the host's name Pinkerton or Brickerton, and the right spelling is not known. The meeting also had a fiddling contest, a running race for boys, a contest for the prettiest unmarried woman, and a dinner with singing and dancing.
 
-At a Williamsburg fair in December 1739, eight horses raced around a one-mile course for a saddle worth 40 shillings. Colonel Chiswell's horse Edgcomb won. The second horse won a bridle and the third won a whip.
+A Williamsburg fair in December 1739 had three days of races. On the first day, eight horses raced around a one-mile course for a saddle worth 40 shillings. Colonel Chiswell's horse Edgcomb won. The second horse won a bridle and the third won a whip.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cricket" -->
@@ -205,7 +205,7 @@ Colonists also played cricket, the English bat-and-ball game. William Byrd II ow
 <!-- hb-zoom level="span" label="Cockfighting and gander pulling" -->
 In a cockfight, two roosters fought in a ring. Their owners strapped sharp spurs made of silver, steel or bone to the birds' legs, and the birds cut each other with the spurs. The fight went on until one bird was dead. Men bet on which bird would win. William Byrd II, Robert Carter and George Washington were among the men who followed cockfighting.
 
-In 1732 an advertisement in the *South Carolina Gazette* listed a cockfight at the house of a Mrs. Eldridge. In 1744 men held a cockfight in the Town House in Salem, Massachusetts. Black and white men watched cockfights together and bet on them. Some critics complained that "genteel people," meaning the well-off, mixed at the fights with people they called "the vulgar and debased," meaning common and low.
+In 1732 an advertisement in the *South Carolina Gazette* listed a cockfight at the house of a Mrs. Eldridge. In 1744 men held a cockfight in the Town House in Salem, Massachusetts. Both Black and white people came to cockfights and bet on them. Some critics complained that "genteel people," meaning the well-off, mixed at the fights with people they called "the vulgar and debased," meaning common and low.
 
 Gander pulling was another game played on live birds. Men tied a live gander, a male goose, upside down by its feet to a tree branch and greased its neck. Riders galloped past and grabbed at the neck until one of them pulled the bird's head off. Riders fell from their horses, and some lost fingers. In Virginia the game was often held on the Monday after Easter, and the crowd bet on the riders. Accounts describe gander pulling through the colonial years, but none gives a dated event before 1750.
 <!-- /hb-zoom -->
@@ -213,9 +213,9 @@ Gander pulling was another game played on live birds. Men tied a live gander, a 
 <!-- hb-zoom level="span" label="Children" -->
 In 1744 the London bookseller John Newbery printed *A Little Pretty Pocket-Book*, a book of rhymes and pictures for children. He sold it with a ball for a boy or a pincushion for a girl. Its rhyme "Base-Ball" is the first known use of that word in print. It reads: "The Ball once struck off, / Away flies the Boy / To the next destin'd Post, / And then Home with Joy."
 
-John Thorn, the historian of Major League Baseball, suggests that the game in the book may have been played without a bat. No copy of the 1744 printing survives. The rhyme is known from later printings, such as one made in Worcester, Massachusetts, in 1787, so its words in the 1744 book rest on those later copies.
+John Thorn, the historian of Major League Baseball, suggests that the game in the book may have been played without a bat. No copy of the 1744 printing survives. The rhyme is known only from later printings, such as one made in Worcester, Massachusetts, in 1787. The words of the 1744 rhyme are taken from those later copies.
 
-Almost no one in these years wrote down what children played or how much free time they had. The records do not show how that time differed for free, indentured and enslaved children. An indentured child was bound to work for a master for a set number of years.
+The records of these years do not show how much free time children had, or how that time differed for free, indentured and enslaved children. An indentured child was bound to work for a master for a set number of years.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -223,21 +223,21 @@ Almost no one in these years wrote down what children played or how much free ti
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-The records of these fifty years say who raced and who rode. In Virginia, the owners of racehorses came more and more from the top ranks of society, and enslaved men and boys often rode the horses. On Easter Monday 1774 the enslaved people at one Virginia plantation had a holiday and went to cockfights. That June the planter's son Bob Carter pestered his tutor, his private teacher, for leave to go to a cockfight too. In 1774 the delegates to the First Continental Congress, men the colonies sent to meet together, promised to discourage horse racing, cockfighting and games while they organized against British rule.
+The records of these fifty years say who raced and who rode. In Virginia, the owners of racehorses came more and more from the top ranks of society, and enslaved men and boys often rode the horses. On Easter Monday 1774 the enslaved people at one Virginia plantation had a holiday and went to cockfights. That June the planter's son Bob Carter pestered his tutor, his private teacher, for leave to go to a cockfight too. In 1774 the delegates to the First Continental Congress, men chosen in each colony to meet together, agreed to stop buying British goods. They also promised to discourage horse racing, cockfighting and games.
 
 No record from these years shows leagues, paid teams, or towns sharing written rules. Soldiers at Valley Forge played a running game called base. In 1791 the voters at a Pittsfield, Massachusetts, town meeting banned "baseball" near their new meeting house. Native nations kept playing their own ball games, and in Hawaii British sailors wrote descriptions of surfing.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Native games written down" -->
-In a book printed in 1775, James Adair described chunkey as the Choctaw played it. Only one or two players played on each side, on a square of ground cleared and spread with fine sand near the town house, the building where the town's leaders met. Players ran after the rolling stone with 8-foot poles "most part of the day." They bet their silver ornaments, their nose, finger and ear rings, and even their clothes. Each town kept its chunkey stones from one generation to the next. Nobody buried a stone with the dead.
+In a book printed in 1775, James Adair described chunkey as the Choctaw played it. Only one or two players played on each side. The field was a square of ground, cleared and spread with fine sand, near the town house, the building where the town's leaders met. Players ran after the rolling stone with 8-foot poles "most part of the day." They bet their silver ornaments, their nose, finger and ear rings, and even their clothes. Each town kept its chunkey stones from one generation to the next. Nobody buried a stone with the dead.
 
-Choctaw tradition says that towns sometimes settled an argument with a ball game. Around 1790 the Creek and the Choctaw both claimed a large beaver pond on the Noxubee River, in present-day Mississippi. Beaver furs sold well at the trading towns of Mobile and Pensacola. The two nations agreed to decide the claim with a game of stickball.
+According to Choctaw tradition, towns sometimes settled an argument with a ball game. Around 1790 the Creek and the Choctaw both claimed a large beaver pond on the Noxubee River, in present-day Mississippi. Beaver furs sold well at the trading towns of Mobile and Pensacola. The two nations agreed to decide the claim with a game of stickball.
 
-The account of that game comes from Stonie Hadjo, a Creek-born man whom the Choctaw adopted. He told it to H. S. Halbert before he died in 1836, and H. B. Cushman printed it in 1899. Stonie Hadjo said that ten thousand people camped around the field. The Creek team won.
+The account of that game comes from Stonie Hadjo, a Creek-born man whom the Choctaw adopted. He lived in Noxubee County, Mississippi, and often told the story to the white settlers there before he died in 1836. H. S. Halbert later wrote the story down, and H. B. Cushman printed it in 1899. Stonie Hadjo said that ten thousand people camped around the field. The Creek team won.
 
 Then a Choctaw player insulted a Creek player, and the two began to fight. Choctaw accounts say the Creek player started it by throwing a petticoat, a woman's underskirt, on the Choctaw player. The fight spread to the warriors on both sides, who used sticks, knives, guns, tomahawks and bows and arrows. It lasted through the night until the chiefs arrived the next morning and stopped it. Stonie Hadjo said that the ball players "almost to a man perished," which means that nearly every ball player was killed. His account gives no count of the dead. The Choctaw kept the pond.
 
-The Choctaw Nation records two games around the 1790s played to settle land claims with the Creek. Both ended in battles. H. B. Cushman dates the second game, near the Black Warrior River, to about 1800.
+Writers for the Choctaw Nation describe two games around the 1790s played to settle land claims with the Creek. Both ended in battles. H. B. Cushman dates the second game, near the Black Warrior River, to about 1800.
 
 In the North, in 1797, the Mohawk and the Seneca played lacrosse at Grand River, in present-day Ontario, with about 600 players on each side.
 <!-- /hb-zoom -->
@@ -251,7 +251,7 @@ Lieutenant James King also wrote an account, which was printed in 1784. When sto
 <!-- hb-zoom level="span" label="Who owned the horses and who rode them" -->
 By 1772 there were yearly races at almost every town in Virginia, according to the English traveler J. F. D. Smyth. At Williamsburg the races ran for a week each spring and fall. The winner on the first day took a purse, a prize in money, of 100 pounds.
 
-Gentlemen formed jockey clubs in Fredericksburg, Petersburg, Richmond and other Virginia towns. A jockey is a rider in horse races, but these clubs were groups of horse owners. They ran races for their members. George Washington helped manage a race at Alexandria in May 1761.
+By the late 1700s there were jockey clubs in Fredericksburg, Petersburg, Richmond and other Virginia towns. A jockey is a rider in horse races, but these clubs were groups of horse owners. The members held races for one another. George Washington helped manage a race at Alexandria in May 1761.
 
 The historian Gabrielle McCoy writes that the owners of racehorses came more and more from the top ranks of society. The riders, she writes, "often came from the bottom of the social hierarchy: enslaved men and boys." A social hierarchy is a ranking of people from the most powerful to the least.
 <!-- /hb-zoom -->
@@ -264,7 +264,7 @@ The historian Gabrielle McCoy writes that the owners of racehorses came more and
 
 Willie Jones of Halifax, North Carolina, held Austin Curtis in slavery. In the 1770s Curtis rode Jones's horses in races in Virginia and North Carolina. During the Revolutionary War, British troops raided the Carolinas for horses to breed, and Curtis kept Jones's horses safe from them.
 
-On 5 December 1791 Jones asked the lawmakers of North Carolina to free Curtis. He wrote that Curtis "by his attachment to his Country during the War by his fidelity to his Master ... has demonstrated that he deserves to be free." The lawmakers agreed and changed his last name to Jones. Curtis kept working with horses as a trainer. He came to own more than 300 acres of land, and he bought the freedom of his son William. He and his wife, Nancy, had eleven children.
+On 5 December 1791 Jones asked the lawmakers of North Carolina to free Curtis. He wrote that Curtis "by his attachment to his Country during the War by his fidelity to his Master ... has demonstrated that he deserves to be free." Fidelity means loyalty. The lawmakers granted the request, and Curtis became free. His name was legally changed to Austin Curtis Jones. Curtis kept working with horses as a trainer. He came to own more than 300 acres of land, and he bought the freedom of his son William. He and his wife, Nancy, had eleven children.
 
 Curtis died at Halifax on 10 December 1807, at about 50 years old. On 5 January 1808 a Raleigh newspaper, the *Minerva*, printed a notice of his death under the name Austin Jones. It called him "well known for many years past, as keeper of race horses," and said that he "particularly excelled" at managing them.
 <!-- hb-story:end slug="austin-curtis" -->
@@ -282,26 +282,28 @@ In December 1773 the pupils at another school "barred out" their teacher, Mr. Go
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fist fights with no rules" -->
-On 29 August 1774 Fithian wrote that four young men had arranged two fist fights near Mr. Lane's place. He listed what such fighters did, including kicking, scratching, biting, choking and "Gouging." A crowd came to watch.
+On 29 August 1774 Fithian wrote that four young men had arranged two fist fights near Mr. Lane's place. He listed what such fighters did, including kicking, scratching, biting, choking, "Gouging" and "Dismembring," which meant tearing or biting off parts of the other man's body. A crowd came to watch.
 
-Gouging was a kind of fighting in which only weapons were banned. A fighter tried to push his thumbs into the other man's eye socket and force the eye out. Jim L. Sumner, writing for NCpedia, says most historians think fighters seldom lost an eye, but broken bones, scars, crippling injuries and deaths did happen. In 1746 Gabriel Johnston, the governor of North Carolina, complained about this kind of fighting. North Carolina's lawmakers made it a crime to cut out tongues, pull out eyes, or bite off noses or fingers. The record does not give the year of that law.
+Gouging was a kind of fighting in which only weapons were banned. A fighter tried to push his thumbs into the other man's eye socket and force the eye out. Jim L. Sumner, writing for NCpedia, says most historians think fighters seldom lost an eye. He writes that the fights still risked broken bones, scars, crippling injuries and death. In 1746 Gabriel Johnston, the governor of North Carolina, complained about this kind of fighting. North Carolina's lawmakers made it a crime to cut out tongues, pull out eyes, or bite off noses or fingers. Sumner's article does not give the year of that law.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Revolution: a pause in racing and a game of base" -->
-On 20 October 1774 the delegates to the First Continental Congress signed the Continental Association. In it they agreed to stop buying goods from Britain, starting on 1 December 1774. In it, the delegates also promised to discourage "all horse-racing, and all kinds of games, cock fighting," plays and "other expensive diversions." The jockey clubs of Annapolis and New York called off their races that year. On 12 October 1778 the members of Congress asked the lawmakers of each state to pass laws to stop "horse racing, gaming" and plays.
+On 20 October 1774 the delegates to the First Continental Congress agreed to the Continental Association, a pact among the colonies. In it they agreed to stop buying goods from Britain, starting on 1 December 1774. The delegates also promised to discourage "all horse-racing, and all kinds of games, cock fighting," plays and "other expensive diversions." Diversions meant ways to have fun. Members of the jockey clubs of Annapolis and New York called off their races that year. On 12 October 1778 the members of Congress asked the lawmakers of each state to pass laws to stop "horse racing, gaming" and plays.
 
 Soldiers in the Continental Army still played games. George Ewing was an ensign, a young officer, in the 3rd New Jersey Regiment, a unit of soldiers. At Valley Forge in April 1778 he wrote that the men drilled in the afternoon and "playd at base this evening." Base was a running game with bases. On 4 May 1778 General Washington dined with General Henry Knox. Afterward he played wicket with Ewing and other officers. Wicket was a bat-and-ball game like cricket.
 
-After the war, in 1793, Virginia's lawmakers banned bets of more than 7 dollars on horse races.
+After the war, in 1793, Virginia's lawmakers banned bets of more than 7 dollars on horse races or "any other sport or pastime."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Toys and ball games" -->
 George Washington married Martha Custis in January 1759. Her children, Jacky and Patsy, were about six and four. In his first order of goods from London he asked for 10 shillings' worth of toys. He also ordered six little books for children learning to read, and a doll dressed in the latest fashion. When that doll was lost or broken, he ordered another that cost a guinea, which was 21 shillings. He also ordered a box of gingerbread toys and sugar figures.
 
-Archaeologists at Mount Vernon found a small limestone marble at the House for Families. Most of the enslaved people on Washington's Mansion House Farm lived in that building. Mount Vernon's historians think the marble may have belonged to one of the enslaved children who lived and worked there.
+Archaeologists at Mount Vernon found a small limestone marble at the House for Families. Most of the people George Washington enslaved at his Mansion House Farm lived in that building. Mount Vernon's historians think the marble may have belonged to one of the enslaved children who lived and worked there.
 
-A reference book on leisure in America states that at fairs and on court days, the days when the county court met, poorer men ran footraces, wrestled, jumped and played football. They played for prizes such as a purse of money or a bottle of liquor, while wealthy people watched.
+A reference book on leisure in America states that at fairs and on court days, the days when the county court met, poorer people ran footraces, wrestled, jumped, bowled and played football. They played for prizes such as a purse of money or a bottle of liquor, while wealthy people watched.
 
-In 1787 the printer Isaiah Thomas published *A Little Pretty Pocket-Book* in Worcester, Massachusetts, with its rhyme and picture of "Base-Ball." On 5 September 1791 the voters at a town meeting in Pittsfield, Massachusetts, passed a rule to protect the windows of their new meeting house, the town's main public building. They banned "any game of wicket, cricket, baseball, batball, football, cats, fives, or any other game played with ball" within 80 yards of the building. It is the oldest known use of the word "baseball" in America.
+In 1787 the printer Isaiah Thomas published *A Little Pretty Pocket-Book* in Worcester, Massachusetts, with its rhyme and picture of "Base-Ball." In that book, "Base-Ball" is the title of a rhyme first printed in England.
+
+On 5 September 1791 the voters at a town meeting in Pittsfield, Massachusetts, passed a rule to protect the windows of their new meeting house, the town's main public building. They banned "any game of wicket, cricket, baseball, batball, football, cats, fives, or any other game played with ball" within 80 yards of the building. The rule is the oldest known record of people in an American town playing a game called baseball.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

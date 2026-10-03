@@ -716,6 +716,24 @@ Sources checked: H. Res. 1050 and the Congressional Record (opened: no fine); ES
   Continental Congress "on October 20, 1774"; it "opened with a ban on British imports that would begin December
   1, 1774." ushistory.org: "a colony-wide prohibition against any trade with Great Britain."
 
+### PATCH 2026-10-03 (T-628): "porcelain collars" (era 01), the 1680 killing clause (era 03), Stonie Hadjo (era 05)
+- Era 01. Penn Museum, *The Museum Journal*, William Curtis Farabee, "Recent Discovery of Ancient Wampum Belts",
+  editor's note (penn.museum/sites/journal/967/, opened 2026-10-03): "Porcelain is the word used repeatedly by the
+  priests in their communications about and references to the beads composing the wampum belts"; the beads were
+  "native wampum or shell money". So Brebeuf's "porcelain collars" (Culin p. 589) were collars of wampum shell beads.
+- Era 03. Encyclopedia Virginia primary document, "An act for preventing Negroes Insurrections (1680)" (opened
+  2026-10-03): if an enslaved person "shall absent himself from his masters service and lye hid and lurking in
+  obscure places, comitting injuries to the inhabitants, and shall resist any person or persons that shalby any
+  lawfull authority by imployed to apprehend and take the said negroe, that then in case of such resistance, it
+  shalbe lawfull for such person or persons to kill the said negroe or slave soe lying out and resisting". The
+  actor: the men employed by lawful authority to catch him.
+- Era 05. Halbert's text in Cushman 1899 (accessgenealogy.com page, quoted in a search result 2026-10-03; the page
+  itself returned 403 to the fetch tool): "In the fall of 1836, there died in the southern part of Noxubee County an
+  aged Indian warrior named Stonie Hadjo"; he "had resided in the county for years and was very popular with the
+  pioneers"; "This old warrior would often tell of a great ball play and fight". So Stonie Hadjo told the story to
+  the settlers of Noxubee County; the text does not say he told it to Halbert himself. Correct the era 05 line
+  "quoting H. S. Halbert, who heard it from Stonie Hadjo" accordingly.
+
 ## Bank check, eras 01-05 (T-271a, 2026-09-28)
 
 Run against the outline and the registry angle (how Americans and their children entertained themselves).
@@ -2009,6 +2027,22 @@ All pages opened 2026-09-30 (Wikipedia, via WebFetch).
   offence of violating the Selective Service laws by refusing to be drafted"; "The trial jury was composed of six men
   and six women, all of whom were white." The judge is not named on the page.
 
+### PATCH 2026-10-03 (T-628): era 08 and era 09 facts checked on pages that opened
+- Era 08. Wikipedia, "Babe Didrikson Zaharias" (opened 2026-10-03): "Her colon cancer recurred in 1955." "On
+  September 27, 1956, Zaharias died of her illness at the age of forty-five at the John Sealy Hospital in Galveston,
+  Texas." So she died of the cancer, which came back in 1955.
+- Era 08. Wikipedia, "Jack Johnson (boxer)" (opened 2026-10-03): "In July 1912, Johnson opened an interracial nightclub
+  in Chicago called Café de Champion." The page does not give the city of the 18 Oct 1912 arrest.
+- Era 08. Wikipedia, "Kentucky Derby" (opened 2026-10-03): "an American Grade I stakes race run at Churchill Downs in
+  Louisville, Kentucky", "annually on the first Saturday in May". Wikipedia, "The Courier-Journal" (opened 2026-10-03):
+  "a daily newspaper published in Louisville, Kentucky."
+- Era 08. Wikipedia, "Babe Ruth" (opened 2026-10-03): "Ruth entered St. Mary's on June 13, 1902. He was recorded as
+  'incorrigible' and spent much of the next 12 years there." St. Mary's was "a reformatory and orphanage". The page, as
+  read, does not say who sent him.
+- Era 09. Wikipedia, "Battle of the Sexes (tennis)" (opened 2026-10-03): the name "is most famously used for an
+  internationally televised match in 1973 held at the Houston Astrodome between 55-year-old Bobby Riggs and 29-year-old
+  Billie Jean King." The page as read does not split King's 39 Grand Slam titles into singles and doubles: not used.
+
 ## Bank check, eras 08-09 (T-271c, 2026-09-28)
 
 Run against the outline and the registry angle (how Americans and their children entertained themselves, and how it
@@ -2566,6 +2600,13 @@ citing the Justice Department Office of the Inspector General report of July 202
   gymnasts at MSU, a high school in Michigan, and a gymnastics club in Michigan." (Dash in the original replaced by commas.)
 - In April and June 2022, 103 victims sued the FBI for a total of $1.13 billion; in May 2022 Justice Department officials
   declined to prosecute any FBI agent. The 2024 settlement was $138.7 million (above).
+
+### PATCH 2026-10-03 (T-628): era 10, what first-degree criminal sexual conduct means in Michigan
+- Michigan Compiled Laws 750.520b, Michigan Legislature (legislature.mi.gov, opened 2026-10-03): "A person is guilty of
+  criminal sexual conduct in the first degree if he or she engages in sexual penetration" with another person and one of
+  the listed circumstances exists, the first being "That other person is under 13 years of age." It is a felony
+  punishable "by imprisonment for life or for any term of years." (Law-firm pages call it the most serious level of
+  criminal sexual conduct: search summary only, not used.)
 
 ## Bank check, era 10 (T-271d, 2026-09-28)
 

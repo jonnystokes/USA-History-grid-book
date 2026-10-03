@@ -5064,7 +5064,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-disasters.md
 
 ### 2026-10-03 | [LOCAL] T-628 | sports-play: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  sports-play / prose. 366843 tokens, 225 tools, 13.0 min (opus). 148 FIXED, 0 REJECTED; Pittsfield and screens contradictions fixed
 CHECKPOINT: control/checkpoints/F7-sports-play.md
 
 ### 2026-10-03 | [LOCAL] T-629 | art: STEP 7 FIXER wave B2 | model opus

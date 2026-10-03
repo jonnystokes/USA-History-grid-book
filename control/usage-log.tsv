@@ -461,3 +461,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-622	prose	general-purpose/opus	[LOCAL] native-nations step 7 fixer	?	?	?	442344	260	1213245	?	completed	PASS  native-nations / prose
 2026-10-03	T-635	prose	general-purpose/opus	[LOCAL] education step 7 fixer	?	?	?	278989	173	618413	?	completed	PASS  education / prose
 2026-10-03	T-639	prose	general-purpose/opus	[LOCAL] rights-movements step 7 fixer	?	?	?	372201	201	749246	?	completed	PASS  rights-movements / prose
+2026-10-03	T-628	prose	general-purpose/opus	[LOCAL] sports-play step 7 fixer	?	?	?	366843	225	778158	?	completed	PASS  sports-play / prose
