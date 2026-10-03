@@ -5022,3 +5022,28 @@ CHECKPOINT: control/checkpoints/F7-migration.md
 USAGE AT START (step 7 wave A): 0% after reset (read with get_usage).
 AGENTS STEP7 WAVE A: T-604..T-619 launched 2026-10-03 at 0%. Close each with: python tools/close7.py <tid> <slug> <tokens> <tools> <ms> "note"
 ### 2026-10-03 | [LOCAL] Step 7 wave A done: 16/16 PASS (T-604..T-619). 20 of 37 chapters fixed.
+
+### 2026-10-03 | [LOCAL] T-620 | holidays: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-holidays.md
+
+### 2026-10-03 | [LOCAL] T-621 | america-world: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-america-world.md
+
+### 2026-10-03 | [LOCAL] T-622 | native-nations: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-native-nations.md
+
+### 2026-10-03 | [LOCAL] T-623 | exploration: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-exploration.md
+
+### 2026-10-03 | [LOCAL] T-624 | news-communication: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-news-communication.md
+
+### 2026-10-03 | [LOCAL] T-625 | war: STEP 7 FIXER wave B1 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-war.md
+USAGE: wave A 0% -> 60% (16 fixers, 3.75% each). Wave B1 (6) launched at 60%.
