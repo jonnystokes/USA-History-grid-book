@@ -466,3 +466,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-637	prose	general-purpose/opus	[LOCAL] religion step 7 fixer	?	?	?	346222	105	799415	?	completed	PASS  religion / prose
 2026-10-03	T-631	prose	general-purpose/opus	[LOCAL] storytelling-evolution step 7 fixer	?	?	?	403309	261	839894	?	completed	PASS  storytelling-evolution / prose
 2026-10-03	T-630	prose	general-purpose/opus	[LOCAL] government-politics step 7 fixer	?	?	?	358575	164	852508	?	completed	PASS  government-politics / prose
+2026-10-03	T-632	prose	general-purpose/opus	[LOCAL] city-building step 7 fixer	?	?	?	372989	245	977339	?	completed	PASS  city-building / prose

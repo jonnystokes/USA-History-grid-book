@@ -5084,7 +5084,8 @@ RESULT: PASS  storytelling-evolution / prose. 403309 tokens, 261 tools, 14.0 min
 CHECKPOINT: control/checkpoints/F7-storytelling-evolution.md
 
 ### 2026-10-03 | [LOCAL] T-632 | city-building: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  city-building / prose. 372989 tokens, 245 tools, 16.3 min (opus). 160 FIXED, 9 REJECTED; St. Augustine, Seneca Village two accounts
 CHECKPOINT: control/checkpoints/F7-city-building.md
 
 ### 2026-10-03 | [LOCAL] T-633 | music: STEP 7 FIXER wave B2 | model opus
