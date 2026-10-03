@@ -296,3 +296,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **Chavez (#46):** rights-movements part 3 and food-farming part 3 must add the March 2026 accounts, credited, as work-workers now has them (copy the T-601 PATCH from research-work-workers.md).
 - **landmarks DC emancipation count (T-606):** the Senate counts 2,989 freed; other sources about 3,100; prose keeps 3,100. Per #4/#45 the prose should say the counts differ and name both. Step 7 polish.
 - **land-environment thin sources (T-610):** Great Stone Dam builder (Wikipedia only); Forest Service blog quote (search result only, page blocks fetching). Confirm or cut in polish.
+- **drugs-alcohol part 1, the Sally (T-607):** the fixer dropped the 68 deaths on the crossing to avoid a sum that contradicts 'at least 109'. That is omission (rule 1). Restore all stage counts and say plainly the report's stages add to 107 while it gives 109 in all. Same check in economy (Sally).
