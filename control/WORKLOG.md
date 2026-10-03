@@ -5034,7 +5034,8 @@ RESULT: PASS  america-world / prose. 367547 tokens, 195 tools, 11.0 min (opus). 
 CHECKPOINT: control/checkpoints/F7-america-world.md
 
 ### 2026-10-03 | [LOCAL] T-622 | native-nations: STEP 7 FIXER wave B1 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  native-nations / prose. 442344 tokens, 260 tools, 20.2 min (opus). 135 FIXED, 10 REJECTED; Wilansky/Moll, boarding schools 'took', Meriam 'condemned'
 CHECKPOINT: control/checkpoints/F7-native-nations.md
 
 ### 2026-10-03 | [LOCAL] T-623 | exploration: STEP 7 FIXER wave B1 | model opus

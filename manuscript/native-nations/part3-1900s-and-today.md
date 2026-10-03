@@ -6,13 +6,13 @@
 <!-- hb-zoom level="era" -->
 In 1900 the United States census, the official count of everyone in the country, counted about 250,000 Native people. No United States census has recorded a lower number.
 
-Between 1900 and 1950, Native people founded national organizations that they ran themselves, starting with the Society of American Indians in 1911. Oil was found under Osage land in Oklahoma, and Osage people became rich from it. In 1921 members of Congress passed a law that put many Osage adults' money under white guardians, whom judges in local courts appointed. Guardians and husbands stole the money. In the early 1920s, Osage people who held headrights, equal shares of the nation's oil money, were murdered or died in ways that looked like murder. Counts of the dead run from about 24 to more than sixty. Federal agents proved that a cattleman named William Hale had ordered several of the killings, and in 1929 he was sent to prison for life.
+Between 1900 and 1950, Native people founded national organizations that they ran themselves, starting with the Society of American Indians in 1911. Oil was found under Osage land in Oklahoma, and Osage people became rich from it. In 1921 members of Congress passed a law that put many Osage adults' money under white guardians, people given legal control of someone else's money, whom judges in local courts appointed. Guardians and husbands stole the money. In the early 1920s, Osage people who held headrights, equal shares of the nation's oil money, were murdered or died in ways that looked like murder. Counts of the dead run from about 24 to more than sixty. Federal agents proved that a cattle rancher named William Hale had ordered several of the killings. In 1929 he was sentenced to life in prison.
 
 In 1924 members of Congress made every Native person born in the country a citizen. Ten years later they ended allotment, the cutting of nations' shared land into private pieces, which federal officials had carried out since 1887.
 
 Native men fought for the United States in both world wars. In 1918 Choctaw soldiers passed orders in Choctaw, and German soldiers tapping the telephone lines could not read them. From 1942 Navajo Marines sent messages in a code built from Navajo, and no enemy ever broke it.
 
-Through all fifty years, federal boarding schools stayed open, and federal officials still sent tens of thousands of children away from home to them every year.
+Through all fifty years, federal boarding schools stayed open, and federal officials still took tens of thousands of children from their homes to them every year.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Organizing" -->
@@ -34,31 +34,35 @@ Kahnawake ironworkers kept building towers in Manhattan for generations. One of 
 <!-- hb-zoom level="span" label="The Osage and the Reign of Terror" -->
 In the 1920s Osage people in Oklahoma earned so much from oil that they were among the wealthiest people in the world, counted per person. White guardians and some of the men who married Osage women stole that money, and killers murdered Osage people to get it.
 
-In 1906 Osage leaders, led by Chief James Bigheart, won their own terms in the Osage Allotment Act, which members of Congress passed that year. Federal officials had forced other nations to take 160 acres a person and sell the rest of their land. The Osage divided all of their reservation among their own people instead, 657 acres each for 2,229 people. They kept the minerals under the ground as shared property. Oil companies paid royalties, payments for the oil they took out, and each Osage member got an equal share of that money, called a headright.
+In 1906 Osage leaders, led by Chief James Bigheart, won their own terms in the Osage Allotment Act, which members of Congress passed that year. Federal officials had forced other nations to take 160 acres a person and sell the rest of their land. The Osage divided all of their reservation among their own people instead, 657 acres each for 2,229 people. They kept the minerals under the ground as shared property. Oil companies paid royalties, which are payments for the oil they took out. Each Osage member got an equal share of that money. The share was called a headright.
 
 In 1921 members of Congress passed a guardianship law. Under it, judges in local courts appointed white guardians over the money of many Osage adults. A guardian is a person given legal control over someone else's money. Under the law, the guardian, not the Osage owner, controlled the money. Guardians stole from the people whose money they controlled. Some of the men who married Osage women stole from their wives.
 
-Between about 1920 and 1925, Osage headright holders died in murders and in suspicious deaths, deaths that looked like murder but were never proven to be. Counts of the dead disagree. The Osage Nation counts more than sixty. The Oklahoma Historical Society counts about 24, and FBI writers say at least two dozen. A headright could pass to the owner's heirs, and the heirs could be people who were not Osage.
+Between about 1920 and 1925, Osage headright holders died in murders and in suspicious deaths, deaths that might have been murders. Counts of the dead disagree. Osage Nation officials count more than sixty. Writers at the Oklahoma Historical Society count about 24, and FBI writers say at least two dozen.
 
-In 1923 the Osage Tribal Council asked the federal government to send detectives. Agents of the new Bureau of Investigation, which later became the FBI, took the case. They proved that William Hale, a rich cattleman, had ordered the murders of Anna Brown and members of her family to get their oil money. Hale's nephew, Ernest Burkhart, was married to Anna's sister Mollie. Anna Brown was shot in May 1921. Her mother, Lizzie Q. Kyle, died in July 1921, and poison was suspected. In March 1923 a bomb blew up the house of Anna's sister Rita Smith, killing Rita, her husband Bill and their servant, Nettie Brookshire. The agents also proved that Hale had Anna's cousin Henry Roan killed for insurance money. Burkhart pleaded guilty in 1926, and in 1929 Hale was found guilty and sent to prison for life. Both men were later let out on parole, which means freed early under watch. These years are known as the Reign of Terror.
+In 1923 the Osage Tribal Council asked the federal government to send detectives. Agents of the new Bureau of Investigation, which later became the FBI, took the case. They proved that William Hale, a cattle rancher whom people called "the King of the Osage Hills," had ordered the murders of Anna Brown and members of her family so that he could inherit their oil rights. To inherit is to receive what a person owned after that person dies. Hale's nephew, Ernest Burkhart, was married to Anna's sister Mollie.
+
+On Hale's orders, Anna Brown was shot in May 1921. Her mother, Lizzie Q. Kyle, died in July 1921, and poison was suspected. In March 1923 a bomb blew up the house of Anna's sister Rita Smith, killing Rita, her husband Bill and their servant, Nettie Brookshire. The agents also proved that Hale had Anna's cousin Henry Roan killed for insurance money.
+
+Burkhart pleaded guilty in 1926 and was sentenced to life in prison. Another man, Kelsie Morrison, was also sentenced to life in 1926. In 1929 Hale was found guilty and sent to prison for life, and so was a man named John Ramsey. Hale, Ramsey and Burkhart were all later let out on parole, which means freed early under watch. These years are known as the Reign of Terror.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Citizenship and the Indian New Deal" -->
-The Indian Citizenship Act became law on June 2, 1924. Under it, every Native person born in the United States became a citizen. Many of them still could not vote, because each state's lawmakers wrote that state's voting rules. The Library of Congress records that officials in some states kept Native people from voting until 1957.
+The Indian Citizenship Act became law on June 2, 1924. Under it, every Native person born in the United States became a citizen. In some states they still could not vote, because each state's lawmakers wrote that state's voting rules. The Library of Congress records that officials in some states kept Native people from voting until 1957.
 
 In 1928 a federal survey called the Meriam Report came out. Its full title was *The Problem of Indian Administration*. It records that under allotment, tribal land had fallen from 137 million acres to 47 million. It also records the poverty and disease Native people lived with after that loss.
 
-The Meriam Report describes the schools as well, including the half-day system. Under that system, school staff made children spend half of every school day on unpaid work. That work kept the schools running.
+The Meriam Report's writers condemned the boarding schools in detail, which means they judged the schools to be wrong and showed why. One of the things they condemned was the half-day system. Under that system, school staff made children spend half of every school day on unpaid work. That work kept the schools running.
 
-The Indian Reorganization Act became law on June 18, 1934. It was written while John Collier was Commissioner of Indian Affairs, the federal official in charge of dealings with Native nations. Collier held that job from 1933 to 1945. In the act, members of Congress ended allotment and kept in place the protections on land held in trust. Land held in trust is land the United States holds on behalf of a Native nation or person.
+The Indian Reorganization Act became law on June 18, 1934. It was written while John Collier was Commissioner of Indian Affairs, the federal official in charge of dealings with Native nations. Collier held that job from 1933 to 1945. In the act, members of Congress ended allotment and extended the protections on land held in trust. Land held in trust is land the United States holds on behalf of a Native nation or person.
 
-Members of Congress also allowed up to $2,000,000 a year in the act for buying land for Native people. Nations could now write constitutions, which are written sets of a government's basic laws, and set up their own governments. For forty-seven years, since 1887, federal officials had used allotment to break nations up into single landowners. After 1934 they began dealing with the nations as nations again.
+Members of Congress also allowed up to $2,000,000 a year in the act for buying land for Native people. Nations could now write constitutions, which are written sets of a government's basic laws, and set up their own governments. After 1934 federal officials began to recognize the governments that nations set up under the act. For the forty-seven years before, since 1887, federal officials had used allotment to break nations up into single landowners.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The schools continue" -->
 Federal boarding schools kept running after 1900. The federal investigators counted the schools that ran between 1819 and 1969. Some kept going after that. Enrollment, the number of children in the schools, kept climbing for decades and reached its peak of about 60,000 children in 1973.
 
-In the 1930s Collier and the officials under him moved toward day schools, where children went home at night. They allowed some teaching in Native languages, and they closed some boarding schools. Federal officials still sent tens of thousands of children away from home to the schools every year.
+In the 1930s Collier and the officials under him moved toward day schools, where children went home at night. They allowed some teaching in Native languages, and they closed some boarding schools. Federal officials still took tens of thousands of children from their homes to the schools every year.
 
 Chester Nez, a Navajo boy, was one of those children. Staff at the Fort Defiance boarding school washed his mouth out with soap for speaking Navajo. In 1942 Marine Corps recruiters signed him up to help build a military code in Navajo.
 <!-- /hb-zoom -->
@@ -80,7 +84,7 @@ No enemy ever broke the code. It stayed classified, meaning officially secret, u
 > **When and where:** Stockholm, July 1912. Olympic officials took his medals in 1913 and named him the sole champion again in 2022.
 > **Movie:** *Jim Thorpe – All-American* (1951)
 
-Jim Thorpe was a citizen of the Sac and Fox Nation. He was a student at the Carlisle Indian Industrial School, where he was twice named a football All-American.
+Jim Thorpe was a citizen of the Sac and Fox Nation. He was a student at the Carlisle Indian Industrial School, a federal boarding school in Pennsylvania. There he was twice named a football All-American, one of the best college football players in the country.
 
 At the Stockholm Olympics in 1912, he won the pentathlon on July 7 and the decathlon on July 15. The pentathlon is a contest of five track and field events, and the decathlon is a contest of ten. His decathlon score stood as the world record until 1927.
 
@@ -96,9 +100,9 @@ In 1913 Olympic officials took both medals back. In 1909 and 1910 Thorpe had pla
 
 Ira Hayes was a Marine paratrooper, a soldier trained to jump from planes by parachute. He came from the Gila River Indian Community in Arizona. On February 23, 1945, on Iwo Jima, he was one of the six men who raised the second American flag on Mount Suribachi. Americans celebrated the photograph of that flag-raising.
 
-Hayes came home to a fame he had not asked for. On May 9, 1945, he and two other men from the photograph raised a flag at a ceremony in Washington. The ceremony started a tour to sell war bonds, which were loans people made to the government to pay for the war. Later that month the Marines ordered Hayes back to his unit. After the war, police arrested him 52 times for being drunk in public. Years later President Dwight Eisenhower met him and called him a hero.
+Hayes came home to a fame he had not asked for. On May 9, 1945, he and two other men from the photograph raised a flag at a ceremony in Washington. The ceremony started a tour to sell war bonds, which were loans people made to the government to pay for the war. Later that month the Marines ordered Hayes back to his unit. Americans celebrated the photograph, but Hayes got little help after the war. Police arrested him 52 times for being drunk in public. Years later President Dwight Eisenhower met him and called him a hero.
 
-On the morning of January 24, 1955, Ira Hayes was found dead near an abandoned adobe hut close to his home at Sacaton, in the Gila River community. He had been drinking the night before. The coroner, the official who decides how a person died, gave the cause as exposure and alcohol poisoning. Dying of exposure means dying from being left out in the cold or in other harsh weather without shelter. He was 32.
+On the morning of January 24, 1955, Ira Hayes was found dead near an empty mud-brick hut close to his home at Sacaton, in the Gila River community. He had been drinking the night before. The coroner, the official who decides how a person died, gave the cause as exposure and alcohol poisoning. Dying of exposure means dying from being left out in the cold or in other harsh weather without shelter. He was 32.
 <!-- hb-story:end slug="ira-hayes" -->
 
 <!-- hb-story:start slug="chester-nez-native-nations" name="Chester Nez" movie="" kind="ordinary" status="verified" -->
@@ -109,7 +113,7 @@ On the morning of January 24, 1955, Ira Hayes was found dead near an abandoned a
 
 When Chester Nez spoke Navajo at the Fort Defiance boarding school, staff washed his mouth out with soap.
 
-In 1942 Marine Corps officers sent recruiters to the Navajo Nation to find young men who spoke Navajo. Nez was one of the twenty-nine who went to San Diego and built the code out of the language.
+In 1942 Marine Corps recruiters signed Nez up. He was one of the twenty-nine who went to San Diego and built the code out of the language.
 
 He wrote about what happened to him in *Code Talker*, a memoir published in 2011 with Judith Schiess Avila. A memoir is a book about the writer's own life. It is the only memoir by one of the original twenty-nine. Nez outlived the other twenty-eight and died on June 4, 2014.
 <!-- hb-story:end slug="chester-nez-native-nations" -->
@@ -121,7 +125,7 @@ He wrote about what happened to him in *Code Talker*, a memoir published in 2011
 <!-- hb-zoom level="era" -->
 Members of Congress declared in 1953 that the United States should end its recognition of Native nations. Recognition means that United States officials deal with a nation as a government. Twenty-two years later, in 1975, President Ford signed a law under which Native nations could take control of their own schools, clinics and police.
 
-The Menominee, whose nation members of Congress had terminated, organized until members of Congress restored it. Fishermen in the Northwest kept fishing until a federal judge ruled on their 1850s treaties. A group called Indians of All Tribes took Alcatraz Island and held it for nineteen months. Lakota leaders carried their 1868 treaty into federal court, and in 1980 the justices of the Supreme Court ruled that the taking of the Black Hills had broken it.
+The Menominee, whose nation members of Congress had terminated, meaning they had ended its recognition, organized until members of Congress restored it. Fishermen in the Northwest kept fishing until a federal judge ruled on their 1850s treaties, the written agreements their nations had made with the United States. A group called Indians of All Tribes took Alcatraz Island and held it for nineteen months. In 1980, in the Sioux Nation's Black Hills case, the justices of the Supreme Court ruled that United States officials had broken the 1868 treaty when they took the hills.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Termination and relocation" -->
@@ -141,17 +145,17 @@ In July 1968, in Minneapolis, George Mitchell, Dennis Banks, Clyde Bellecourt an
 
 On November 20, 1969, a group calling itself Indians of All Tribes landed on Alcatraz Island in San Francisco Bay. They occupied the island's federal prison, which had been closed since 1963. Occupied means they moved in and held it. Richard Oakes, who was Mohawk, was among the leaders. In their proclamation, a public statement, they offered to buy the island for "$24 in glass beads and red cloth." They held it for nineteen months, until June 11, 1971.
 
-During the occupation, President Nixon ended termination as federal policy. On December 15, 1970, he signed a law that members of Congress had passed, H.R. 471, which gave Blue Lake and 48,000 acres of sacred land back to Taos Pueblo.
+After the occupation began, President Nixon ended termination as federal policy. On December 15, 1970, he signed a law that members of Congress had passed, H.R. 471, which gave Blue Lake and 48,000 acres of sacred land back to Taos Pueblo.
 
 On December 18, 1971, the Alaska Native Claims Settlement Act became law. Under it, Alaska Native land claims were settled for 44 million acres and $962.5 million. To settle a claim is to end it by agreement. The land and money went to twelve regional corporations, later thirteen, and to more than 200 village corporations. A corporation is a business, and the people who own it are called its shareholders. Alaska Natives became the shareholders.
 
-In 1973 about 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota. They chose it because soldiers of the 7th Cavalry, an army unit of soldiers on horseback, had killed between 250 and 300 Lakota people there in 1890. The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals and FBI agents, who surrounded it with armored vehicles. Federal marshals are officers who carry out the orders of the national courts. The FBI is the national police force that looks into federal crimes. The occupiers were protesting against the tribal chairman at Pine Ridge and against the treaties that United States officials had broken.
+In 1973 about 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota. They chose it because soldiers of the 7th Cavalry, an army unit of soldiers on horseback, had killed between 250 and 300 Lakota people there in 1890. Of the 146 dead whom a burial party put in one grave there, 62 were women and children. The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals and FBI agents, who surrounded it with armored vehicles. Federal marshals are officers who carry out the orders of the national courts. The FBI is the national police force that looks into federal crimes. The occupiers were protesting against the tribal chairman at Pine Ridge and against the treaties that United States officials had broken.
 
-Both sides fired shots during the siege. A bullet hit US Marshal Lloyd Grimm and left him unable to move his legs. On April 17 Frank Clearwater, an Eastern Cherokee man, was shot in the head while he rested in a church during a gunfight with federal forces. He died on April 25. No record names who fired that shot. On April 26 a federal agent's sniper bullet killed Lawrence "Buddy" Lamont, an Oglala man. In 1974 Judge Fred Nichol threw out the charges against the AIM leaders Dennis Banks and Russell Means. He wrote that "the misconduct by the government in this case is so aggravated that a dismissal must be entered in the interests of justice." Misconduct means breaking the rules.
+Both sides fired shots during the siege, the seventy-one days in which federal forces surrounded the village. Early in the siege, someone shot US Marshal Lloyd Grimm, and afterward he could not move his legs. Accounts of the siege do not say who shot him. On April 17 Frank Clearwater, an Eastern Cherokee man, was shot in the head while he rested in a church during a gunfight with federal forces. He died on April 25. No record names who fired that shot. On April 26 a federal agent firing as a sniper, a hidden marksman, shot and killed Lawrence "Buddy" Lamont, an Oglala man, with a bullet through the heart. In 1974 Judge Fred Nichol threw out the charges against the AIM leaders Dennis Banks and Russell Means. He wrote that "the misconduct by the government in this case is so aggravated that a dismissal must be entered in the interests of justice." Misconduct means breaking the rules.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The fish-ins and the Boldt decision" -->
-In the 1850s leaders of the Northwest nations signed treaties with the United States. In them they gave up land and kept the right to fish. A century later, Washington State officers were arresting their people for fishing.
+In the 1850s leaders of the Northwest nations signed treaties with Isaac Stevens, the governor of Washington Territory. In them they gave up land and kept the right to fish. The Treaty of Medicine Creek, signed by the Nisqually, the Puyallup and other nations on December 26, 1854, says that "the right of taking fish, at all usual and accustomed grounds and stations, is further secured to said Indians." That means the treaty protected their right to keep fishing at all the places where they had always fished. A century later, Washington State officers were arresting their people for fishing.
 
 Through the 1960s and into the 1970s, the Nisqually, the Puyallup and other nations held fish-ins. At a fish-in, people fished in the open, in front of the state's officers, and let themselves be arrested. They did it to force the treaties into a courtroom. Frank's Landing on the Nisqually River was the center of the fish-ins.
 
@@ -163,19 +167,23 @@ In the Fort Laramie treaty of 1868, United States officials guaranteed the Black
 
 The Lakota call one mountain in the Black Hills Tunkasila Sakpe, the Six Grandfathers. It is the mountain known in English as Mount Rushmore.
 
-In 1980, in *United States v. Sioux Nation*, the justices of the Supreme Court held that the taking had broken the treaty. They awarded the Lakota compensation, which is money paid to make up for a loss.
+In 1980, in *United States v. Sioux Nation*, the justices of the Supreme Court held that United States officials had broken the treaty when they took the hills. They awarded the Lakota compensation, which is money paid to make up for a loss.
 
 The Lakota have refused the money. With the interest it has earned, it is now more than a billion dollars. Lakota leaders say that the Black Hills were never for sale.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Self-determination in statute" -->
+<!-- hb-zoom level="span" label="Nations run their own programs" -->
 President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975. Self-determination means a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because schools were at the center of it.
 
-For decades before 1978, workers at agencies took Native children from their families. The National Indian Child Welfare Association states that 25 to 35 percent of Native children were taken. It also states that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them. In 1978 members of Congress passed the Indian Child Welfare Act. In it they set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts the power to decide the cases.
+For decades before 1978, workers at agencies took Native children from their families. Writers at the National Indian Child Welfare Association state that 25 to 35 percent of Native children were taken. They also state that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them. In 1978 members of Congress passed the Indian Child Welfare Act. In it they set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts the power to decide the cases.
 
-In the same years, doctors at Indian Health Service hospitals sterilized thousands of Native women. The Indian Health Service is the federal agency that runs hospitals and clinics for Native people. Sterilization is an operation after which a woman can never become pregnant. The doctors at these hospitals did two kinds of operation. In a tubal ligation, a surgeon cuts or ties the two tubes that carry eggs to the womb. In a hysterectomy, the surgeon cuts out the womb. Investigators from the General Accounting Office, a federal office, studied 4 of the agency's 12 areas. In 1976 they reported 3,406 sterilizations of Native women there from 1973 to 1976. Writers at the National Library of Medicine state that the women had not given their permission. Thirty-six of the women were under 21, although a court had ordered a stop to sterilizing women that young. The investigators' report does not name the doctors, and the records do not say how many women had each operation. Two years earlier, Dr. Connie Pinkerton-Uri, a Choctaw and Cherokee doctor, had studied the operations herself. She found that one in four Native women had been sterilized without agreeing to it.
+In the same years, doctors at Indian Health Service hospitals sterilized thousands of Native women. The Indian Health Service is the federal agency that runs hospitals and clinics for Native people. Sterilization is an operation after which a woman can never become pregnant. The doctors at these hospitals did two kinds of operation. In a tubal ligation, a surgeon cuts or ties the two tubes that carry eggs to the womb. In a hysterectomy, the surgeon cuts out the womb.
 
-The Indian Gaming Regulatory Act became law on October 17, 1988. Gaming means gambling businesses, such as casinos. The act specifies the legal rules for gaming run by tribes: three classes of games, compacts, which are formal agreements that a nation and a state work out, and a National Indian Gaming Commission to oversee tribal gaming. For some nations gaming became a large source of income. The amount varies a great deal from nation to nation.
+Investigators from the General Accounting Office, a federal office, studied 4 of the agency's 12 areas. In 1976 they reported 3,406 sterilizations of Native women there from 1973 to 1976. Writers at the National Library of Medicine state that the women had not given their permission. The investigators' report does not name the doctors. No surviving record says how many of the women had each kind of operation.
+
+Thirty-six of the women were under 21, although a court had ordered a stop to sterilizing women that young. Two years before the report, Dr. Connie Pinkerton-Uri, a Choctaw and Cherokee doctor, had found that one in four Native women had been sterilized without agreeing to it.
+
+The Indian Gaming Regulatory Act became law on October 17, 1988. Gaming means gambling businesses, such as casinos. The act sorts tribal gaming into three classes of games. It lets a nation and a state make a compact, a formal agreement about the games. It also set up the National Indian Gaming Commission to watch over tribal gaming. For some nations gaming became a large source of income. The amount varies a great deal from nation to nation.
 
 The Native American Graves Protection and Repatriation Act, known as NAGPRA, became law on November 16, 1990, when President George H. W. Bush signed it. Under it, Native human remains and sacred objects held in museums and federal collections belong to the nations and families they came from. The act requires the people holding them to send them back. Repatriation means sending them home.
 <!-- /hb-zoom -->
@@ -187,7 +195,7 @@ In November 1969 the senators on a Senate subcommittee on Indian education publi
 
 The report states that federal policy had been "coercive assimilation" with "disastrous effects." Coercive assimilation means forcing a group of people to give up their own language and ways of life. Its authors called for Native people to run Native schools.
 
-Boarding-school enrollment peaked at about 60,000 children in 1973. After that it fell, as tribal governments took the schools over under the 1975 law or closed them. A few boarding schools are still open. Tribes or the federal Bureau of Indian Education, the federal office in charge of Indian schools, run them. People who had been children at the schools began publishing accounts of what had happened to them there.
+Boarding-school enrollment peaked at about 60,000 children in 1973. After that it fell, as the leaders of Native nations took over schools under the 1975 law and other schools closed. A few boarding schools are still open. Tribes or the federal Bureau of Indian Education, the federal office in charge of Indian schools, run them. People who had been children at the schools began publishing accounts of what had happened to them there.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="wilma-mankiller" name="Wilma Mankiller" movie="Mankiller (2017)" kind="famous" status="verified" -->
@@ -212,7 +220,7 @@ On December 14, 1985, when Ross Swimmer left the office, she became Principal Ch
 
 Billy Frank Jr. was fourteen the first time officers arrested him for fishing the Nisqually River. In all, he was arrested more than fifty times.
 
-His nation's treaty states that the Nisqually kept the right to fish. Washington State officers arrested him anyway. He kept fishing, and he brought other people to Frank's Landing to fish with him.
+In the Treaty of Medicine Creek of 1854, the Nisqually kept "the right of taking fish" at all the places where they had always fished. Washington State officers arrested him anyway. He kept fishing, and in the 1960s and 1970s he and others staged fish-ins at Frank's Landing and were arrested again and again.
 
 The fish-ins ended in the Boldt decision of 1974. Later Frank chaired the Northwest Indian Fisheries Commission.
 
@@ -249,13 +257,13 @@ On September 21, 2004, the National Museum of the American Indian opened on the 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Sovereignty in court and in office" -->
-Sovereignty is the right of a nation to govern itself. When United States officials forced the Muscogee (Creek) Nation to move to Oklahoma, they promised it a reservation there. On July 9, 2020, the justices of the Supreme Court decided *McGirt v. Oklahoma*, a case about whether that reservation still existed. Oklahoma's lawyers argued that it had ended long ago. Five of the nine justices held that members of Congress had never ended it. Four justices disagreed.
+Sovereignty is the right of a nation to govern itself. When United States officials forced the Muscogee (Creek) Nation to move to Oklahoma, they promised it a reservation there. On July 9, 2020, the justices of the Supreme Court decided *McGirt v. Oklahoma*, a case about whether that reservation still existed. Five of the nine justices held that members of Congress had never ended it. Four justices disagreed.
 
-Under the ruling, about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land for the purposes of federal criminal law, the national laws about crimes. Justice Neil Gorsuch wrote the opinion, the written decision of the court. Its first sentence is: "On the far end of the Trail of Tears was a promise." In later rulings, judges applied the same reasoning to the reservations of the other nations that United States officials had forced out of the Southeast.
+Under the ruling, about 3.25 million acres of eastern Oklahoma, including much of Tulsa, are still reservation land. That matters for federal criminal law, the national laws about crimes. Justice Neil Gorsuch wrote the opinion, the written decision of the court. Its first sentence is: "On the far end of the Trail of Tears was a promise." The Trail of Tears was the forced removal of the Cherokee and the other Southeastern nations to Indian Territory, in what is now Oklahoma, in the 1830s. In later rulings, judges applied the same reasoning to the reservations of the other nations that United States officials had forced out of the Southeast.
 
 On June 15, 2023, in *Haaland v. Brackeen*, seven of the nine justices upheld the Indian Child Welfare Act, which means they kept it in force. The people challenging the act had claimed that it broke the Constitution. Two justices disagreed with the ruling.
 
-In 2018 Deb Haaland of Laguna Pueblo and Sharice Davids, who is Ho-Chunk, became the first Native American women elected to Congress. On March 15, 2021, members of the Senate voted to approve Haaland as Secretary of the Interior, the head of the federal department in charge of the government's dealings with Native nations. She was the first Native American to hold a cabinet office, the job of heading one of the main federal departments. Earlier officials of her department had run the boarding schools.
+In 2018 Deb Haaland of Laguna Pueblo and Sharice Davids, who is Ho-Chunk, became the first Native American women elected to Congress. On March 15, 2021, members of the Senate voted to approve Haaland as Secretary of the Interior. The Secretary of the Interior heads the federal department in charge of the government's dealings with Native nations. She was the first Native American to hold a cabinet office, the job of heading one of the main federal departments.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Standing Rock and land back" -->
@@ -263,17 +271,19 @@ In 2016 leaders of the Standing Rock Sioux Tribe opposed the Dakota Access Pipel
 
 From April 2016, people set up camps, among them one called Oceti Sakowin. Young people carried the tribe's message on foot. They ran a 500-mile relay to the office of the Army Corps of Engineers in Omaha, and then a 2,000-mile run to Washington, D.C. The Army Corps of Engineers is the part of the army whose permission the pipeline needed. Thousands of people came to the camps. News reports at the time called the camps the largest gathering of Native nations in more than a century.
 
-North Dakota's governor, Jack Dalrymple, declared an emergency in August 2016 and put the Morton County Sheriff's Office and other police forces under one command. On November 20, 2016, at the Backwater Bridge, officers fired tear gas, rubber bullets and bags filled with lead into a crowd of protesters, and they sprayed the protesters with a fire hose. A protester named Sophia Wilansky was badly hurt in the arm. Federal judges later threw out the lawsuits of the injured protesters, and no officer was held responsible.
+North Dakota's governor, Jack Dalrymple, declared an emergency in August 2016 and put the Morton County Sheriff's Office and other police forces under one command. On November 20, 2016, at the Backwater Bridge, officers fired tear gas, rubber bullets and bags filled with lead into a crowd of protesters. They also sprayed the protesters with a fire hose.
+
+A protester named Sophia Wilansky was hit that night. In 2026 the judges of a federal appeals court set out her account, which they accepted as true for her appeal. Officers Dvorak, Arndt and Hanson fired rounds at her as she ducked behind a metal sheet, and one hit her arm. She ran. About 30 yards away, Officer Jonathan Moll fired a round called an aerial warning munition, which the judges described as an exploding flash-bang inside a bullet made to hurt rather than kill. "It tore the flesh off her arm, and she fell to the ground," the judges wrote. "Her left hand and forearm are permanently and severely injured." Federal judges threw out her lawsuits and those of the other injured protesters, and no officer was held responsible.
 
 On December 4, 2016, an Army official, the Assistant Secretary for Civil Works, turned down the easement. An easement is the legal permission the pipeline needed to cross under the lake. That same week, more than 2,000 United States military veterans arrived to stand with the camps. On January 24, 2017, President Donald Trump ordered the Army to approve the pipeline quickly. Army officials granted the easement on February 8, 2017, and oil has moved through the pipeline since June 2017. In 2020 a federal judge cancelled the easement, but the oil kept flowing for about five years without one. In 2026 Army officials granted the easement again, and in June 2026 the tribe's leaders asked the court to end their own appeal.
 
 Some land has gone back to Native nations. In 1908 federal officials took 18,800 acres out of the Flathead Reservation in Montana for the National Bison Range, a federal wildlife refuge. A wildlife refuge is land set aside to protect wild animals. In December 2020 members of Congress passed a law that gave the range back to the Confederated Salish and Kootenai Tribes, and the tribes took over running it in 2022.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The boarding-school reckoning" -->
+<!-- hb-zoom level="span" label="The boarding-school investigation" -->
 In June 2021 Secretary Haaland started an investigation of the boarding schools. Earlier officials of her own department had run them.
 
-The first volume of the investigators' report came out in May 2022. It identifies 408 federal schools, and marked and unmarked burial sites at 53 of them. The final volume came out on July 30, 2024. It lists 417 federal Indian boarding schools in 37 states or places that were then territories, open from 1819 to 1969. It also lists 1,025 more places that did not meet the four standards the investigators used to decide which schools to count.
+The first volume of the investigators' report came out in May 2022. It identifies 408 federal schools, and marked and unmarked burial sites at 53 of them. The final volume came out on July 30, 2024. It lists 417 federal Indian boarding schools in 37 states or places that were then territories, open from 1819 to 1969. It also lists 1,025 more places with similar aims that fell outside the four rules the investigators used to count federal schools.
 
 The report records what school staff did to the children. Staff cut the children's hair, replaced their clothes with uniforms, and gave them English names. They forbade the children to speak the languages they had grown up speaking. The punishments the report records for speaking those languages include beatings, solitary confinement, holding back food, and washing children's mouths out with soap. Solitary confinement means being locked up alone.
 
@@ -281,7 +291,7 @@ At least 973 children died at the schools. The investigators found at least 74 b
 
 On October 25, 2024, President Biden apologized on behalf of the United States for the boarding-school system. He spoke at the Gila River Indian Community in Arizona, which was Ira Hayes's home community. It was the first formal presidential apology for the system. He called the system "a sin on our soul."
 
-Children who died at the Carlisle Indian Industrial School are buried in a cemetery at the Carlisle Barracks, an Army post. Army officials have been digging up the children's remains and returning them to their nations. In 2017 they returned Little Chief and Horse to the Northern Arapaho. When they opened Little Plume's grave, they found two other children in it. They found Little Plume and returned him the next year. In July 2021 nine Rosebud Sioux children went home to South Dakota, and Rosebud young people escorted them.
+Children who died at the Carlisle Indian Industrial School are buried in a cemetery at the Carlisle Barracks, an Army post. Army officials have been digging up the children's remains and returning them to their nations. In 2017 they returned two children, Little Chief and Horse, to the Northern Arapaho. When they opened the grave of a third child, Little Plume, they found two other children in it. They found Little Plume and returned him the next year. In July 2021 nine Rosebud Sioux children went home to South Dakota, and Rosebud young people escorted them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Languages come home" -->
@@ -300,7 +310,7 @@ Cherokee, Lakota, Diné and many other nations run immersion schools of their ow
 ### Deb Haaland
 
 > **Who:** Laguna Pueblo. She was one of the first two Native American women elected to Congress, and the first Native American cabinet secretary.
-> **When and where:** New Mexico and Washington, D.C., 2018 to 2025.
+> **When and where:** New Mexico and Washington, D.C., from 2018.
 
 Deb Haaland is a citizen of Laguna Pueblo. She describes herself as a 35th-generation New Mexican. In 2018 she and Sharice Davids became the first Native American women elected to Congress.
 
@@ -312,7 +322,7 @@ By her own account, her grandparents were taken to boarding school as children. 
 <!-- hb-story:start slug="jessie-little-doe-baird" name="Jessie Little Doe Baird" movie="We Still Live Here: As Nutayunean (2011)" kind="ordinary" status="verified" -->
 ### Jessie Little Doe Baird
 
-> **Who:** Mashpee Wampanoag social worker who became a linguist and brought back a language that no one had spoken for more than 150 years.
+> **Who:** Mashpee Wampanoag social worker who became a linguist and brought back a language that no one had spoken since the middle of the 1800s.
 > **When and where:** Mashpee, Massachusetts, from 1993.
 > **Movie:** *We Still Live Here: Âs Nutayuneân* (2011)
 
