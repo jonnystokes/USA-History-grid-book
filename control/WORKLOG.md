@@ -4936,3 +4936,5 @@ CHECKPOINT: control/checkpoints/F7-elements.md
 ### 2026-10-02 | [LOCAL] T-603 | technology: STEP 7 FIXER (round-2 findings) | model opus
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-technology.md
+USAGE AT START (step 7 wave 1, T-600..T-603): 66% (Jon).
+AGENTS STEP7 WAVE1: T-600 ab061681383c5d135 (economy), T-601 a309aa5f3932db00b (work-workers), T-602 a610fa0938bb2e819 (elements), T-603 a9213bba0ab9d1e79 (technology)
