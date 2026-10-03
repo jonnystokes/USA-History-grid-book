@@ -4964,7 +4964,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-immigration.md
 
 ### 2026-10-03 | [LOCAL] T-609 | food-farming: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  food-farming / prose. 331349 tokens, 173 tools, 11.3 min (opus). 98 FIXED, 6 REJECTED; Chavez #46 added
 CHECKPOINT: control/checkpoints/F7-food-farming.md
 
 ### 2026-10-03 | [LOCAL] T-610 | land-environment: STEP 7 FIXER wave A | model opus
