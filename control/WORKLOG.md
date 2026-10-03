@@ -4967,7 +4967,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-food-farming.md
 
 ### 2026-10-03 | [LOCAL] T-610 | land-environment: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  land-environment / prose. 291263 tokens, 118 tools, 9.6 min (opus). 104 FIXED, 0 REJECTED; Harmar brevet BG 1787
 CHECKPOINT: control/checkpoints/F7-land-environment.md
 
 ### 2026-10-03 | [LOCAL] T-611 | money: STEP 7 FIXER wave A | model opus

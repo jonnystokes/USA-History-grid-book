@@ -1,6 +1,6 @@
 # CHECKPOINT F7 | land-environment | step 7 fixer on the second-audit findings (T-610)
 
-STATUS: DONE
+STATUS: DONE (T-610, PASS  land-environment / prose)
 BRIEF:  control/briefs/FIX7-DISPATCH.md + FIXER.md (whole-chapter mode)
 
 NOW:    done

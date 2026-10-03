@@ -440,3 +440,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-605	prose	general-purpose/opus	[LOCAL] home-family step 7 fixer	?	?	?	280854	107	533592	?	completed	PASS  home-family / prose
 2026-10-03	T-612	prose	general-purpose/opus	[LOCAL] energy step 7 fixer	?	?	?	283981	70	520412	?	completed	PASS  energy / prose
 2026-10-03	T-606	prose	general-purpose/opus	[LOCAL] landmarks step 7 fixer	?	?	?	309802	167	581379	?	completed	PASS  landmarks / prose
+2026-10-03	T-610	prose	general-purpose/opus	[LOCAL] land-environment step 7 fixer	?	?	?	291263	118	578529	?	completed	PASS  land-environment / prose
