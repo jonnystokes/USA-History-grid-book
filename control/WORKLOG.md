@@ -5043,7 +5043,8 @@ RESULT: PASS  exploration / prose. 375619 tokens, 223 tools, 12.3 min (opus). 14
 CHECKPOINT: control/checkpoints/F7-exploration.md
 
 ### 2026-10-03 | [LOCAL] T-624 | news-communication: STEP 7 FIXER wave B1 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  news-communication / prose. 395734 tokens, 266 tools, 15.8 min (opus). 136 FIXED, 6 REJECTED; White quote fixed; invented Granger quote cut
 CHECKPOINT: control/checkpoints/F7-news-communication.md
 
 ### 2026-10-03 | [LOCAL] T-625 | war: STEP 7 FIXER wave B1 | model opus

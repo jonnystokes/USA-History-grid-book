@@ -1233,3 +1233,74 @@ A search summary attributes to a Founders Online editorial note (Madison Papers,
 
 ### PATCH 2026-10-02 (T-486): what the Clark County Public Administrator does
 - Clark County, Nevada, Public Administrator, "Frequently Asked Questions," https://www.clarkcountynv.gov/government/elected_officials/county_public_adminstrator/faq (opened 2026-10-02): "When next of kin or a named executor of an estate cannot immediately step in to secure assets of a Clark County resident, the CCPA steps in to ensure that those assets are protected until they can be turned over to the rightful party." "Our office also administers estates when next of kin or the executor cannot."
+
+---
+
+# Step 7 fixer PATCHES (T-624, 2026-10-03)
+
+## Era 2. The 1500s
+
+### PATCH 2026-10-03 (T-624): the Matanzas Inlet counts (copied with source from the war bank)
+- `research/research-war.md` lines 302 to 312: NPS, "The Massacre of the French," https://www.nps.gov/places/000/the-massacre-of-the-french.htm , and NPS Fort Matanzas, https://www.nps.gov/foma/learn/historyculture/the_massacre.htm : at Matanzas Inlet, first killing, about 127 shipwrecked Frenchmen surrendered, refused to give up their Protestant faith, "111 were killed. 16 were spared" (Florida Museum timeline dates it 29 September 1565). Second killing: Jean Ribault and his men surrendered, refused the same demand, and 134 were killed (NPS: 12 October; Florida Museum: 11 October 1565). "Both groups had surrendered before they were killed." The inlet has been called Matanzas ever since, Spanish for "slaughters."
+- Note: White, not Manteo, wrote that the people of Croatoan were "our friends" (White's 1590 account, era 2 entry above). Prose corrected in part 1.
+
+## Era 4. 1700 to 1750
+
+### PATCH 2026-10-03 (T-624): Bradford's Mercury, and why Spotswood took the Philadelphia post office from him
+- Franklin, *Autobiography*, 1916 Pine edition, Project Gutenberg 20203, https://www.gutenberg.org/cache/epub/20203/pg20203.txt (text downloaded and searched 2026-10-03): the editor's bibliography lists the Busy-Body essays as "published in Bradford's Philadelphia _Weekly Mercury_"; note 23 gives "_The American Weekly Mercury_, Philadelphia, December 22, 1719." Franklin: "In 1737, Colonel Spotswood, late governor of Virginia, and then postmaster-general, being dissatisfied with the conduct of his deputy at Philadelphia, respecting some negligence in rendering, and inexactitude of his accounts, took from him the commission and offered it to me ... My old competitor's newspaper declin'd proportionately, and I was satisfy'd without retaliating his refusal, while postmaster, to permit my papers being carried by the riders." The "old competitor" who refused while postmaster is Andrew Bradford (same text, "Bradford being unkind enough to forbid it"), so the deputy Spotswood removed was Bradford.
+- Spotswood's first name: Alexander Spotswood was the governor of Virginia (lieutenant governor) in 1718 (Encyclopedia Virginia, as recorded in `research/research-storytelling-evolution.md` line 180). Franklin calls the postmaster-general "Colonel Spotswood, late governor of Virginia."
+
+## Era 5. 1750 to 1800
+
+### PATCH 2026-10-03 (T-624): who ordered Bache's arrest
+- Library of Congress, *In Custodia Legis* (Law Library blog), "Moses Levy, First Jewish Attorney in the Commonwealth of Pennsylvania," May 2021, https://blogs.loc.gov/law/2021/05/moses-levy-first-jewish-attorney-in-the-commonwealth-of-pennsylvania/ (opened 2026-10-03): "On June 24, 1798, a little more than two weeks before the acts' passage, District Judge Peters issued a warrant for the arrest of the founder of the _Philadelphia Aurora_, Benjamin Franklin Bache ... for seditious libel." "Peters agreed to release Bache on bail and they scheduled the trial for the October term of the circuit court." He died of yellow fever in September. (Search summary also quotes the *Aurora* of 27 June 1798: "The editor was yesterday arrested on a warrant from Judge Peters." (unconfirmed: search summary only))
+
+### PATCH 2026-10-03 (T-624): what yellow fever is (copied with source from the health bank)
+- `research/research-health.md` line 141: Bryant, Holmes and Barrett, *PLoS Pathogens* 3(5), 2007: yellow fever virus came from Africa "along with Aedes aegypti mosquitoes"; "Aedes aegypti is the mosquito that carries the virus from person to person."
+
+### PATCH 2026-10-03 (T-624): James Rivington's first name
+- Joseph M. Adelman, Gotham Center (era 5 entry above; page re-opened 2026-10-03): "The figure at the center of this particular tale was James Rivington"; portrait caption "James Rivington, Sr. (ca. 1724-1802)."
+
+### PATCH 2026-10-03 (T-624): the two William Bradfords
+- University of Pennsylvania Archives, "William Bradford," https://archives.upenn.edu/exhibits/penn-people/biography/william-bradford/ (opened 2026-10-03): "the son of patriot and printer William Bradford (1722-1791)." The Philadelphia printer of the 1765 tombstone *Pennsylvania Journal* (JAR, era 5 entry above: "Philadelphia printer William Bradford") was born in 1722. The New York printer William Bradford took Zenger as an apprentice in 1711 (`research/research-immigration.md` line 527), so they are two different men. Wikipedia (search summary) calls the younger man the elder's grandson. (unconfirmed: search summary only) Not used.
+
+## Era 6. 1800 to 1850
+
+### PATCH 2026-10-03 (T-624): Granger's "St. Domingo" (copied with source from the america-world bank)
+- Granger's 1802 letter (era 7 T-471 PATCH, USPS Historian) begins "After the scenes which St. Domingo has exhibited to the world, we cannot be too cautious." `research/research-america-world.md` line 917 (National Archives, Louisiana Purchase treaty page): France's attempt "to put down the revolution of the enslaved people of Saint-Domingue failed." The prose quotes Granger and says the enslaved people of Saint-Domingue, a French island colony, had risen in a revolution. The prose no longer says Granger feared riders would carry a revolt plan "from town to town" (not in any source).
+
+### PATCH 2026-10-03 (T-624): what tarring and feathering did to the body
+- American Battlefield Trust, "Tarring and Feathering," https://www.battlefields.org/learn/articles/tarring-and-feathering (opened 2026-10-03): "This pine tar was not as hot as modern petroleum-based tar when heated, but it would often blister or burn the skin."
+
+## Era 7. 1850 to 1900
+
+### PATCH 2026-10-03 (T-624): the Lifetime film's own description (confirms the item tagged search summary above)
+- Lifetime, "About Escaping the Madhouse: The Nellie Bly Story," https://www.mylifetime.com/movies/escaping-the-madhouse-the-nellie-bly-story/about (opened 2026-10-03): "The movie delivers an intense and fictionalized account of actual events surrounding Nellie's stay."
+
+### PATCH 2026-10-03 (T-624): the New York Age was a Black weekly
+- Social Science Research Council, Items, "Ida B. Wells and the Economics of Racial Violence," https://items.ssrc.org/reading-racial-conflict/ida-b-wells-and-the-economics-of-racial-violence/ (opened 2026-10-03): Wells wrote "for T. Thomas Fortune's New York Age, an African American weekly newspaper with a substantial white following"; on June 25, 1892, "The New York Age placed the article on its front page, printed 10,000 copies, and distributed them across the country." Mississippi Encyclopedia, "Wells-Barnett, Ida B." (opened 2026-10-03): "African American newspaper editor T. Thomas Fortune of the New York Age."
+
+### PATCH 2026-10-03 (T-624): who made Waddell mayor (copied with sources from the rights-movements bank)
+- `research/research-rights-movements.md` line 769 (NC DNCR; NCpedia): "The new board of aldermen made Waddell mayor."
+
+## Era 8. 1900 to 1950
+
+### PATCH 2026-10-03 (T-624): dates copied from other banks
+- `research/research-america-world.md` line 1412: "The United States entered the First World War on April 6, 1917."
+- `research/research-war.md` line 2367: Pearl Harbor, December 7, 1941 (NPS).
+- `research/research-money.md` line 253: "March 6, 1933: two days after taking office, Roosevelt proclaimed a national bank holiday: every bank in the country closed"; first fireside chat Sunday night March 12, 1933 (LOC "This Month in Business History"; Federal Reserve History; FDR Library).
+
+## Era 9. 1950 to 2000
+
+### PATCH 2026-10-03 (T-624): Emmett Till was shot in the head
+- PBS, *American Experience*, "The Murder of Emmett Till" timeline, https://www.pbs.org/wgbh/americanexperience/features/till-timeline/ (opened 2026-10-03), entry for August 28, 1955: Roy Bryant and J. W. Milam "kidnap Emmett Till from Moses Wright's home. They will later describe brutally beating him, taking him to the edge of the Tallahatchie River, shooting him in the head, fastening a large metal fan used for ginning cotton to his neck with barbed wire, and pushing the body into the river." The crime-justice bank (lines 1336 to 1340) records the same: "shot above the right ear." Needed in this chapter under DECISIONS #36.
+
+## Era 10. 2000 to Today
+
+### PATCH 2026-10-03 (T-624): who changed Facebook's feed in 2018
+- CNBC, "Major change to Facebook news feed to improve well-being: Mark Zuckerberg," 11 January 2018, https://www.cnbc.com/2018/01/11/major-change-to-facebook-news-feed-to-improve-well-being-mark-zuckerberg.html (opened 2026-10-03): "Although Zuckerberg said the changes will take time to roll out, users will start noticing they see fewer posts from publishers and businesses and more content from their friends and family."
+
+## Era 5 (continued)
+
+### PATCH 2026-10-03 (T-624): what the Massachusetts Committee of Safety did
+- Discover Concord, "The Massachusetts Provincial Congress: A Coup d'Etat," https://www.discoverconcordma.com/articles/595-the-massachusetts-provincial-congress-a-coup-detat (opened 2026-10-03): the Provincial Congress "established committees of safety"; "By the end of 1774, the Congress' Committee of Safety began procuring supplies in case of a conflict with the British forces garrisoned in Boston"; "the Committee of Safety established a network of observers to keep watch on the British and carry the alarm into the countryside."

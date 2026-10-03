@@ -18,15 +18,15 @@ Before 1500, people carried the news themselves. Runners carried messages from o
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Runners and wampum" -->
-The Haudenosaunee have lived for a thousand years and more in what is now central New York. They are also called the Iroquois, or the Six Nations. Five nations joined together before Europeans came, and the Tuscarora became the sixth in 1722. Haudenosaunee runners called the nations to council, a meeting of their leaders. The runners also carried news from nation to nation and warned of danger. A runner carried a string of wampum to show that his message was official. Wampum is small beads cut from the white and purple parts of a clam shell. A runner also carried a pouch of pounded, dried corn mixed with maple sugar.
+The Haudenosaunee have lived for a thousand years and more in what is now central New York. They are also called the Iroquois, or the Six Nations. Five nations joined together before Europeans came, and the Tuscarora became the sixth in 1722. Haudenosaunee runners called the nations to council, a meeting of their leaders. The runners also carried news from nation to nation and warned of danger. A runner carried a string of wampum to show that his message was official. Wampum is small beads cut from the white and purple parts of a clam shell. His pouch held pounded, dried corn mixed with maple sugar.
 
 The Onondaga Nation keeps the wampum records of the Haudenosaunee. Its people describe how a council is called. Each nation receives a string of wampum that stands for the topic the leaders will meet about. A wooden stick is tied to the end of the string. Its notches count the days until the meeting. As each day passes, someone cuts a notch off the stick.
 
-Shell beads found in the Northeast are about 4,500 years old. Earlier bead makers drilled their beads with stone drill bits. Drilling with stone was slow, so their beads were larger than later wampum, and there were fewer of them. After Europeans arrived, Native bead makers drilled with iron awls and nails. An awl is a thin, pointed tool for making holes.
+Shell beads as old as 4,500 years have been found in the Northeast. Earlier bead makers drilled their beads with stone drill bits. Drilling with stone was hard, so their beads were larger than later wampum, and there were fewer of them. After Europeans arrived, Native bead makers drilled with iron awls and nails. An awl is a thin, pointed tool for making holes.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hand signs and trade" -->
-People in this land spoke many different languages. Near the Gulf coast and in what is now Texas, nations that could not understand each other's speech talked with their hands. The first and fullest written accounts of this sign language come from the Spanish expedition of Cabeza de Vaca, which sailed in 1527. Its survivors noted which groups spoke the same language and which groups could understand each other only through signs. The linguist Jeffrey E. Davis writes that scholars who study these accounts think the sign language was in use across that region well before the Spanish came.
+People in this land spoke many different languages. Near the Gulf coast and in what is now Texas, nations that could not understand each other's speech talked with their hands. The first and fullest written accounts of this sign language come from the Spanish expedition of Cabeza de Vaca, which sailed in 1527. Its survivors noted which groups spoke the same language and which groups could understand each other only through signs. Jeffrey E. Davis, a scholar who studies sign languages, writes that scholars who study these accounts think the sign language was in use across that region well before the Spanish came.
 
 Trade goods moved hundreds of miles. Copper from Lake Superior and shells from the Gulf of Mexico have been found far from where they came from. No record survives of what news the traders passed along with the goods.
 <!-- /hb-zoom -->
@@ -36,19 +36,19 @@ Trade goods moved hundreds of miles. Copper from Lake Superior and shells from t
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, Spanish, French and English newcomers sent their news home across the ocean in letters and books. A Spanish commander wrote to his king about the men he had killed. A French survivor wrote a book about the same killings, and a printer in France published it. On the plains, Native peoples who spoke different languages still talked with hand signs, as a Spanish writer recorded in 1541.
+In the 1500s, Spanish, French and English newcomers sent their news home across the ocean in letters and books. A Spanish commander wrote to his king about the Frenchmen his soldiers had killed. A French survivor wrote a book about the same killings, and a printer in France published it. On the plains in 1541, Native people made themselves understood in hand signs, as a member of a Spanish expedition later recorded.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A letter to a king and a book by a survivor, 1565 and 1566" -->
-In September 1565 the Spanish commander Pedro Menéndez de Avilés and his soldiers killed French Protestants at Fort Caroline, in Florida. Protestants are Christians who do not belong to the Catholic Church. The fort stood in the homeland of Timucua-speaking peoples. Menéndez's men then killed more of the French at Matanzas Inlet. Menéndez gave his reason himself: the Frenchmen were Protestants.
+In September 1565 the Spanish commander Pedro Menéndez de Avilés and his soldiers killed French Protestants at Fort Caroline, in Florida. Protestants are Christians who do not belong to the Catholic Church. The fort stood in the homeland of Timucua-speaking peoples. Menéndez's men then killed more of the French at Matanzas Inlet, south of the fort, in two groups. Both groups had given up before they were killed. The National Park Service counts 111 men killed there in late September and 134 more, with their leader Jean Ribault, on October 11 or 12. Matanzas is Spanish for "slaughters." Menéndez gave his reason himself: the Frenchmen were Protestants.
 
-On October 15, 1565, Menéndez reported the killings in a letter to King Philip II of Spain. By his own count, his men cut the throats of 132 men at the fort. The next day they cut the throats of 10 more, prisoners they had caught in the woods. At the inlet, he wrote, the Frenchmen gave up their weapons. "I had their hands tied behind them and put them to the knife." He meant that his men killed them with knives. He spared sixteen.
+On October 15, 1565, Menéndez reported the killings in a letter to King Philip II of Spain. By his own count, his men cut the throats of 132 men at the fort. The next day they cut the throats of 10 more, prisoners they had caught in the woods. At the inlet, he wrote, the first group of Frenchmen gave up their weapons. "I had their hands tied behind them and put them to the knife." He meant that his men killed them with knives. He spared sixteen.
 
 Nicolas Le Challeux was a carpenter who escaped from Fort Caroline. He wrote the French account of the killings, and a printer in Dieppe, France, published it in 1566. Its title describes the killings as the cruelty of the Spaniards against the French king's subjects.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hand signs on the plains, 1541" -->
-In 1541 Francisco Vázquez de Coronado and his Spanish expedition met a people on the plains of what is now the Texas Panhandle. The Spaniards called them Querechos. Pedro de Castañeda was a member of the expedition who later wrote its history. He recorded that "although they conversed by means of signs they made themselves understood so well that there was no need of an interpreter." An interpreter is a person who puts one language into another.
+In 1541 Francisco Vázquez de Coronado and his Spanish expedition met a Native nation on the plains of what is now the Texas Panhandle. The Spaniards called them Querechos. Pedro de Castañeda was a member of the expedition who later wrote its history. He recorded that "although they conversed by means of signs they made themselves understood so well that there was no need of an interpreter." An interpreter is a person who puts one language into another.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A message carved in a post, Roanoke, 1587 to 1590" -->
@@ -56,7 +56,7 @@ In 1587 John White left 117 English colonists on Roanoke Island, in what is now 
 
 White could not sail back for three years. In 1588 England's queen took every English ship for her navy, to fight the Spanish Armada, a great fleet of warships sent from Spain. On August 18, 1590, he found the houses gone and a fence of posts standing around the empty site. The letters CROATOAN were carved on one post "in fayre Capitall letters," which is old spelling for neat capital letters. The letters CRO were cut into a tree. There was no cross.
 
-White wrote that Croatoan was the place where Manteo was born. Manteo was an Algonquian man who had learned English and interpreted for the English. He called the people of Croatoan "our friends." A hurricane blew White's ship out to sea before he could search there. White never found the colonists.
+White wrote that Croatoan was "the place where Manteo was borne," and he called the people of that island "our friends." Manteo was an Algonquian man who had learned English and interpreted for the English. A hurricane blew White's ship out to sea before he could search there. White never found the colonists.
 
 Readers in Europe learned about this coast from printed books. Thomas Harriot came to Roanoke Island with the English in 1585, and he and John White explored and mapped the area. In 1588 Harriot published *A Briefe and True Report of the New Found Land of Virginia* in London. In 1590 the engraver Theodor de Bry printed it again in four languages. An engraver cuts pictures into metal plates for printing. De Bry made his pictures from John White's watercolor paintings.
 <!-- /hb-zoom -->
@@ -71,7 +71,7 @@ Manteo crossed the ocean to England in 1584 and sailed home the next year able t
 
 Both men began to learn English from the sailors during the voyage. The ship reached England in mid-September. In London they met Sir Walter Raleigh, who sent the voyages. By the end of 1584 Manteo could speak enough English to interpret. On April 9, 1585, he sailed home on the *Tyger*, the lead ship of Raleigh's fleet.
 
-In 1587 Manteo helped the new colonists set up a village near the old English fort on Roanoke Island. On August 13, 1587, the English baptized him into their church, a Christian ceremony with water that made him a member. They also named him Lord of "Dasamongueponke." In 1590 White wrote that the colonists had gone to Croatoan, "the place where Manteo was borne." When White came back, he found neither the colonists nor Manteo. No record says what happened to him.
+In 1587 Manteo helped the new colonists set up a village near the old English fort on Roanoke Island. On August 13, 1587, the English baptized him into their church, a Christian ceremony with water that made him a member. They also named him Lord of "Dasamongueponke." In 1590 White wrote that the colonists had gone to Croatoan, "the place where Manteo was borne." When White came back, he found neither the colonists nor Manteo. The National Park Service's account of his life states that what happened to him is unknown.
 <!-- hb-story:end slug="manteo-news-communication" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -83,9 +83,9 @@ The English colonies got their first mail services and their first newspaper in 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Letters by ship, by tavern and by planter" -->
-Most letters in the early colonies crossed the ocean between the colonies and England. In 1639 the lawmakers of Massachusetts, who met as the General Court, named Richard Fairbanks's tavern in Boston as the place to leave and collect letters sent "beyond the seas." Inside the colonies, people sent letters with friends, with merchants and with Native messengers.
+Most letters in the early colonies crossed the ocean, between the colonies and the countries in Europe that ruled them. In 1639 the lawmakers of Massachusetts, who met as the General Court, named Richard Fairbanks's tavern in Boston as the place to leave and collect letters sent "beyond the seas." Inside the colonies, people sent letters with friends, with merchants and with Native messengers.
 
-In Virginia, around the middle of the 1600s, officials wrote "for public service" on the outside of government letters. Virginia's rulers required each planter to send such a letter on to the next plantation. A planter who failed to do it lost a hogshead of tobacco. A hogshead is a large barrel. Postal Service historians write that on the big plantations of the South, the messengers were usually enslaved people.
+In Virginia, around the middle of the 1600s, officials wrote "for public service" on the outside of government letters. Virginia's rulers required each planter to send such a letter on to the next plantation. A planter who failed to do it had to give up a hogshead of tobacco as a fine. A hogshead is a large barrel. Postal Service historians write that on the big plantations of the South, the messengers were usually enslaved people.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first post rider, 1673, and a mail service for all the colonies, 1692" -->
@@ -105,7 +105,7 @@ In 1682 a merchant named John Buckner brought a printer, William Nuthead, to Vir
 <!-- hb-zoom level="span" label="The first newspaper, 1690, closed after one issue" -->
 From 1667 on, printers in Massachusetts printed single sheets of news, one at a time, with no plan for a next issue. A single printed sheet like this is called a broadside. On September 25, 1690, Benjamin Harris printed *Publick Occurrences, Both Forreign and Domestick* in Boston. It was the first newspaper in the English colonies. Harris marked it "Numb. 1," which means number one, and planned to print it once a month. It had three printed pages and a blank fourth page. Harris's notice suggested that readers could write more news on the blank page and pass the paper on.
 
-Four days later, on September 29, Governor Simon Bradstreet and the men of his council ordered the paper "Suppressed and called in." That meant it was stopped, and every copy had to be handed back. They said Harris had printed it without their permission. They also objected to what he had printed. Harris had accused Native allies of the English of "barbarous" cruelty to French prisoners, and he had complained that colonial officials told the Mohawks too much about the colonists' war plans. The paper also carried a rumor that King Louis XIV of France was having sex with his son's wife.
+Four days later, on September 29, Governor Simon Bradstreet and the men of his council ordered the paper "Suppressed and called in." That meant it was stopped, and every copy had to be handed back. They said Harris had printed it without their permission. They also objected to what he had printed. Harris had accused Native allies of the English of "barbarous" cruelty to French prisoners, and he had complained that colonial officials told the Mohawks, one of the Six Nations of the Haudenosaunee, too much about the colonists' war plans. The paper also carried a rumor that King Louis XIV of France was having sex with his son's wife.
 
 Bradstreet and his council then ordered that no one could print news in the colony without a license from the government. A license is written permission. There was never a second issue of *Publick Occurrences*. One copy is known to survive, in London.
 <!-- /hb-zoom -->
@@ -128,7 +128,7 @@ Harris obeyed. In 1692 Massachusetts officials named him the colony's official p
 <!-- hb-zoom level="span" label="Knotted cords and the Pueblo Revolt, 1680" -->
 In 1680 the Pueblo peoples of New Mexico planned to drive out the Spanish. Spanish soldiers and settlers had come in 1598 under Juan de Oñate to take Pueblo land, labor and food. In 1675 the Spanish governor Juan Francisco Treviño ordered the arrest of 47 Pueblo religious leaders for "practicing sorcery," which means using magic. Spanish officials sentenced four of them to hang. They hanged three, and the fourth man killed himself. They whipped the others in public and put them in prison. Pueblo people went to Santa Fe and demanded that the prisoners be let go, and the Spanish released them. One of the men released was Po'pay, a Tewa leader from Ohkay Owingeh.
 
-Po'pay planned the revolt with towns that spoke at least five different languages. All of them had to rise on the same day. To set that day, he sent runners with knotted cords. Each town untied one knot a day. When the last knot was untied, the revolt would begin. The accounts differ on the day planned. One gives August 11 and another gives August 13.
+Po'pay planned the revolt with towns that spoke at least five different languages. All of them had to rise on the same day. To set that day, he sent runners with knotted cords. Each town untied one knot a day. When the last knot was untied, the revolt would begin. The accounts differ on the day planned. The National Museum of the American Indian gives August 11, and the Indian Pueblo Cultural Center gives August 13.
 
 The Spanish learned of the plan and caught two of the runners on August 9. The revolt began a day early, on August 10, 1680. Pueblo fighters killed about 400 people, including 21 of the 33 Spanish priests in New Mexico. On August 21 Governor Antonio de Otermín led about 2,000 Spanish settlers out of Santa Fe and south to El Paso. The Spanish did not return until 1692.
 <!-- /hb-zoom -->
@@ -141,9 +141,9 @@ The Spanish learned of the plan and caught two of the runners on August 9. The r
 
 Pedro Omtua and Nicolás Catua carried the knotted cords of the Pueblo Revolt, and Spanish officials hanged them for it. On the morning of August 8, 1680, the two young men set out from Tesuque Pueblo with cords for the Tano towns. Tesuque is Tewa for "village of the narrow place of the cottonwood trees." The first town they reached was Pecos.
 
-After they left Pecos, Christian Pueblo people told Fernando de Velasco that two Tewa messengers had visited the war chief's house. Velasco led the Franciscan missionaries there, Catholic priests sent to turn the Pueblo people Christian. Two Pueblo leaders from the Galisteo Basin who sided with the Spanish also sent word of a revolt to Governor Antonio de Otermín. On August 9 Otermín ordered the messengers arrested.
+After they left Pecos, Christian Pueblo people told Fernando de Velasco that two Tewa messengers had visited the war chief's house. Velasco was a leader of the Franciscan missionaries, Catholic priests sent to turn the Pueblo people Christian. Two Pueblo leaders from the Galisteo Basin who sided with the Spanish also sent word of a revolt to Governor Antonio de Otermín. Otermín ordered the messengers arrested, and on August 9 the Spanish caught them.
 
-Spanish officials tortured Catua and Omtua to make them explain the knotted cord. Torture means hurting a person's body on purpose to force him to talk. The surviving accounts do not say how the two young men were hurt. Then the Spanish hanged them. The accounts do not name the men who tortured and hanged them.
+Spanish officials tortured Catua and Omtua to make them explain the knotted cord. Torture means hurting a person's body on purpose to force him to talk. The surviving accounts do not say how the two young men were hurt. The historian Charles W. Hackett, working from Otermín's own records, wrote in 1911 that on August 9 the two told Otermín they had been given a cord with two knots, to carry to the chiefs of the Tano towns, San Marcos and La Cienega. The two knots stood for the two days left before the revolt. Then the Spanish hanged them. The accounts do not name the men who tortured and hanged them.
 
 When Po'pay heard that the runners had been caught, he ordered the revolt to start a day early. It began on August 10.
 <!-- hb-story:end slug="catua-and-omtua" -->
@@ -153,25 +153,25 @@ When Po'pay heard that the runners had been caught, he ordered the revolt to sta
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1704 and 1750, printers and postmasters started newspapers in Boston, Philadelphia, New York, Charleston and Williamsburg. Several of those printers were also postmasters, who ran the post office in their town. Colonial governors and lawmakers still had printers jailed when the printers offended them. The newspaper owners made money from advertisements. In Benjamin Franklin's paper in Philadelphia, by the 1750s, nearly a quarter of the advertisements offered enslaved people for sale or asked for help catching people who had escaped from slavery.
+Between 1704 and 1750, printers and postmasters started newspapers in Boston, Philadelphia, New York, Charleston and Williamsburg. Several of those printers were also postmasters, who ran the post office in their town. Colonial governors and lawmakers still had printers jailed when the printers offended them. The newspaper owners made money from advertisements. According to the International Printing Museum, by the 1750s nearly a quarter of the advertisements in Benjamin Franklin's paper in Philadelphia offered enslaved people for sale or asked for help catching people who had escaped from slavery.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Boston News-Letter, 1704" -->
 On April 24, 1704, John Campbell, the postmaster of Boston, published the first issue of the *Boston News-Letter*. It was one small sheet printed on both sides, and it came out once a week. The words "Published by Authority" appeared in its title from 1704 to 1720, and again from 1723 to 1725. "Authority" means the people with the power to rule. A printer named Bartholomew Green printed the paper for Campbell.
 
-Most of the first issue was copied from London newspapers of mid-December, more than four months old. Local news filled one column. The *News-Letter* came out every week until February 1776. It was the first newspaper in the colonies to keep going. Boston had no second newspaper until the *Boston Gazette* began on December 21, 1719. The *American Weekly Mercury* started in Philadelphia the next day.
+Most of the first issue was copied from London newspapers of mid-December, more than four months old. Local news filled one column. The *News-Letter* came out every week until February 1776. It was the first newspaper in the colonies to keep going. Boston had no other newspaper until the *Boston Gazette* began on December 21, 1719. The *American Weekly Mercury* started in Philadelphia the next day.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Courant: a paper the government did not approve, 1721 to 1726" -->
-James Franklin started the *New-England Courant* in Boston on August 7, 1721, during an epidemic of smallpox. An epidemic is a disease spreading to many people at once. The minister Cotton Mather and the doctor Zabdiel Boylston urged people to try inoculation. In inoculation, a doctor put a little pus from a sick person into a cut in the skin of a healthy person. The healthy person usually got a mild case of smallpox and soon got well. Mather had learned of the method from Onesimus, an African man whom Mather had owned as a slave since 1706, and from other enslaved Africans.
+James Franklin started the *New-England Courant* in Boston on August 7, 1721, during an epidemic of smallpox. An epidemic is a disease spreading to many people at once. The minister Cotton Mather and the doctor Zabdiel Boylston urged people to try inoculation. In inoculation, a doctor put a little pus from a sick person into a cut in the skin of a healthy person. The healthy person usually got a mild case of smallpox and soon got well. Mather had learned of the method from Onesimus, an African man, and from other enslaved Africans. Mather had owned Onesimus as a slave since 1706.
 
 Almost every doctor in Boston except Boylston opposed inoculation. James Franklin printed attacks in the *Courant* on the people who supported it. On November 14, 1721, someone threw a lit bomb through a window of Mather's house. A note with it read: "Cotton Mather, You Dog, Dam You: I'll inoculate you with this, with a Pox to you." The fuse came off, and the bomb did not explode. No record names the person who threw it.
 
 Nearly 6,000 people caught smallpox in the epidemic, and 844 of them died. Boylston inoculated 248 people, and 98 out of every 100 of them lived. Among people who caught smallpox the ordinary way, 85 out of every 100 lived.
 
-In June 1722 James Franklin printed a short item in the *Courant*. It said the Massachusetts government was fitting out a ship to chase pirates, which would sail "some time this Month, if Wind and Weather permit." Massachusetts officials read it as a hidden attack on them. The members of the General Court, the colony's lawmakers, had James Franklin jailed for a month. His younger brother Benjamin, then 16, ran the paper while James was locked up. James was let out on July 2, 1722.
+In June 1722 James Franklin printed a short item in the *Courant*. It said Massachusetts officials were fitting out a ship to chase pirates, which would sail "some time this Month, if Wind and Weather permit." Massachusetts officials read it as a hidden attack on them. The members of the General Court, the colony's lawmakers, had James Franklin jailed for a month. His younger brother Benjamin, then 16, ran the paper while James was locked up. James was let out on July 2, 1722.
 
-Early in 1723 the members of the General Court forbade James Franklin to print the *Courant* unless officials checked each issue first. Checking and cutting what a printer may print before it comes out is called censorship. James then put the paper in Benjamin's name. From then on it came out under Benjamin's name, until it closed in 1726.
+Early in 1723 the members of the General Court forbade James Franklin to print the *Courant* unless officials checked each issue first. Checking and cutting what a printer may print before it comes out is called censorship. James then put the paper in Benjamin's name, and it came out that way until it closed in 1726.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Weekly Journal and the Zenger trial, 1733 to 1736" -->
@@ -190,13 +190,13 @@ On August 4, 1735, a jury found Zenger not guilty. The verdict changed no law. I
 > **Who:** The printer's wife who kept the *New-York Weekly Journal* coming out while her husband was in jail, and who ran the print shop after he died.
 > **When and where:** New York City, 1734 to 1748.
 
-Anna Catharina Zenger ran the *New-York Weekly Journal* for more than eight months while officials held her husband in jail. She was born Anna Catharina Maulin. She married John Peter Zenger on September 11, 1722. When officials jailed him on November 17, 1734, she took charge of the shop and kept the *Journal* coming out. One account says Zenger gave her his instructions "through the hole of the door of the prison."
+Anna Catharina Zenger ran the *New-York Weekly Journal* for more than eight months while officials held her husband in jail. She was born Anna Catharina Maulin. She married John Peter Zenger on September 11, 1722. When officials jailed him on November 17, 1734, she took charge of the shop and kept the *Journal* coming out. The writer Ann T. Keene reports the story that Zenger gave her his instructions "through the hole of the door of the prison."
 
 After the trial, in 1737, Zenger became New York's official printer. He died on July 28, 1746. Anna Zenger then ran the family print shop for more than two years. In December 1748 their eldest son, John, took it over.
 <!-- hb-story:end slug="anna-zenger-news-communication" -->
 
 <!-- hb-zoom level="span" label="Printers who were postmasters, and papers in German" -->
-A printer who was also the postmaster got the letters and newspapers from other towns first, and so got the news first. He could also stop the post riders from carrying a rival's newspaper. Andrew Bradford printed the *American Weekly Mercury* in Philadelphia and also kept the town's post office. Bradford forbade the post riders to carry Benjamin Franklin's paper. Franklin wrote that he got his papers carried only by bribing the riders to take them in secret. In 1737 Alexander Spotswood, who was in charge of the post office for the colonies, was unhappy with the way Bradford ran the Philadelphia post office. Spotswood took the job away from Bradford and gave it to Franklin, who was 31.
+A printer who was also the postmaster got the letters and newspapers from other towns first, and so got the news first. He could also stop the post riders from carrying a rival's newspaper. Andrew Bradford printed the *American Weekly Mercury* in Philadelphia and also kept the town's post office. Bradford forbade the post riders to carry Benjamin Franklin's paper. Franklin wrote that he got his papers carried only by bribing the riders to take them in secret. Alexander Spotswood, a former governor of Virginia, was in charge of the post office for the colonies. In 1737 he was unhappy with how carelessly Bradford kept the post office's accounts. Spotswood took the job away from Bradford and gave it to Franklin, who was 31.
 
 Franklin also set up partners as printers in other towns. In November 1733 he made Lewis Timothy the printer of the *South-Carolina Gazette* in Charleston.
 
@@ -215,13 +215,13 @@ Elizabeth Timothy took over a newspaper as a widow with six small children, and 
 
 Their eldest son, Peter, was too young to run the shop, so Elizabeth Timothy ran it herself. She printed the next issue on January 4, 1739. She promised to make the paper "as entertaining and correct as may be reasonably expected." By the end of 1739 she had bought out Franklin's share. Franklin praised how exactly she kept her accounts.
 
-She handed the shop to Peter when he came of age in 1746, and she opened a bookstore next to it. She died in 1757. Her will left her children eight enslaved people, along with her other property.
+She handed the shop to Peter when he came of age in 1746, and she opened a bookstore next to it. She died in 1757. In her will she left her children eight enslaved people, along with her other property.
 <!-- hb-story:end slug="elizabeth-timothy" -->
 
 <!-- hb-zoom level="span" label="Advertisements for people as property" -->
 Newspaper owners made much of their money from advertisements, and some of those advertisements were for human beings. Franklin printed advertisements in the *Pennsylvania Gazette* that slave owners and slave traders paid for. Some offered enslaved people for sale. Others were notices about enslaved people who had escaped, so that readers would help catch them. Franklin was paid for printing them. According to the International Printing Museum, by the 1750s these made up nearly a quarter of the paper's advertisements.
 
-Franklin's own household owned enslaved people from about 1735 until 1790. The household is reported to have bought at least seven people. Their names were Joseph, Jemima, Peter, King, Othello, George and Bob.
+Franklin himself owned enslaved people. According to the Benjamin Franklin House museum in London, he and his household held enslaved people from about 1735 until 1790 and bought at least seven people. Their names were Joseph, Jemima, Peter, King, Othello, George and Bob. Peter and King went with Franklin to London.
 
 In 1740 lawmakers in South Carolina made it a crime to teach an enslaved person to write.
 <!-- /hb-zoom -->
@@ -237,7 +237,7 @@ Benjamin Franklin grew rich as a printer, and much of his money came from the ad
 
 On October 2, 1729, Franklin bought the *Pennsylvania Gazette* from the printer Samuel Keimer. Advertising became the paper's main source of money. Franklin grew the paper from two pages to four, partly to hold more advertisements. In 1732 he began *Poor Richard's Almanac*, which he wrote under the made-up name Richard Saunders. An almanac is a book that comes out once a year with a calendar and other useful facts. He wrote that he sold "near ten thousand" copies a year, and that ordinary people "bought scarcely any other books."
 
-In 1737 Franklin became the postmaster of Philadelphia. He wrote that the post office "facilitated the correspondence that improv'd my newspaper." It brought him more readers and more advertisements. In 1753 British officials named him and William Hunter to run the royal post office for all the colonies together.
+In 1737 Franklin became the postmaster of Philadelphia. He wrote that the post office "facilitated the correspondence that improv'd my newspaper." He meant that the job helped him get the letters and news that made his paper better. With it he gained more readers and more advertisements. In 1753 British officials named him and William Hunter to run the royal post office for all the colonies together.
 <!-- hb-story:end slug="benjamin-franklin-news-communication" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -249,23 +249,23 @@ From 1765 to 1800, printers, letter writers and post riders spread the arguments
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Stamp Act and the printers, 1765" -->
-In March 1765 the members of Parliament in London passed the Stamp Act. Parliament is Britain's group of lawmakers. The act took effect on November 1, 1765. Under it, colonists had to pay a tax on newspapers, pamphlets, almanacs and legal papers. A newspaper printed on half a sheet of paper owed a halfpenny a copy, and one printed on a whole sheet owed a penny. A halfpenny and a penny were small British coins. Each advertisement in a newspaper owed two shillings, and one shilling was worth twelve pennies. Printers had to print on stamped paper made in London, which showed that the tax was paid.
+In March 1765 the members of Parliament in London passed the Stamp Act. Parliament is Britain's group of lawmakers. The act took effect on November 1, 1765. Under it, colonists had to pay a tax on newspapers, pamphlets, almanacs and legal papers. They had to pay a halfpenny on each copy of a newspaper printed on half a sheet of paper, and a penny on each copy printed on a whole sheet. A halfpenny and a penny were small British coins. They had to pay two shillings on each advertisement in a newspaper, and one shilling was worth twelve pennies. Printers had to print on stamped paper made in London, which showed that the tax was paid.
 
-On October 31, 1765, the day before the tax began, William Bradford of Philadelphia printed his *Pennsylvania Journal* with thick black borders, like a tombstone. In the place for the official stamp he printed a skull and crossbones. Across the top of the front page he printed that the paper was "EXPIRING: In Hopes of a Resurrection to LIFE again." Expiring means dying. Bradford never actually stopped printing. He put out the next issue on November 7.
+On October 31, 1765, the day before the tax began, the Philadelphia printer William Bradford printed his *Pennsylvania Journal* with thick black borders, like a tombstone. In the place for the official stamp he printed a skull and crossbones. Across the top of the front page he printed that the paper was "EXPIRING: In Hopes of a Resurrection to LIFE again." Expiring means dying. This William Bradford was born in 1722 and was a different man from the New York printer of the same name. He never actually stopped printing. He put out the next issue on November 7.
 
-John Hughes was the man picked to hand out the stamps in Philadelphia. Opponents of the tax threatened him with violence and with destroying his property. He then promised not to enforce the act. In 1766 the members of Parliament repealed the Stamp Act, which means they canceled it.
+John Hughes had the job of handing out the stamps in Philadelphia. Opponents of the tax threatened him with violence and with destroying his property. He then promised not to enforce the act. In 1766 the members of Parliament repealed the Stamp Act, which means they canceled it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Committees of correspondence, 1772 to 1774" -->
-A committee of correspondence was a small group of men chosen to write letters to other towns or colonies and share news. Samuel Adams proposed one for Boston. On November 2, 1772, Boston's town leaders voted to set up a Committee of Correspondence of 21 men. They set it up in answer to a British rule that paid the colony's judges from the royal treasury, the king's own funds. The 21 men wrote a set of reports on the colonists' rights and on how Parliament had broken them. Their reports were printed as the Boston Pamphlet and sent to every town in Massachusetts.
+A committee of correspondence was a small group of men chosen to write letters to other towns or colonies and share news. Samuel Adams proposed one for Boston. On November 2, 1772, Boston's town leaders voted to set up a Committee of Correspondence of 21 men. They set it up in answer to news that the colony's judges would now get their pay from the royal treasury, the king's own money. The 21 men wrote a set of reports on the colonists' rights and on how Parliament had broken them. Their reports were printed as the Boston Pamphlet and sent to every town in Massachusetts.
 
 On March 12, 1773, Dabney Carr asked the members of Virginia's House of Burgesses, the colony's elected lawmakers, to set up an 11-man committee, and they did. Patrick Henry and Thomas Jefferson were two of its members. The 11 men wrote to the lawmakers of the other colonies. They asked them to share news of laws from London and of what each colony planned to do about them. Within a year, lawmakers in eleven colonies had set up their own committees. North Carolina and Pennsylvania were the two that did not.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The news of Lexington, April 1775" -->
-On the morning of April 19, 1775, British soldiers fired on the militia at Lexington, Massachusetts. A militia is a group of ordinary men trained to fight when they are called. At about 10 o'clock that morning, in Watertown, Joseph Palmer of the Massachusetts Committee of Safety wrote a letter "To all the Friends of American liberty." It said the soldiers had killed six men and wounded four.
+On the morning of April 19, 1775, British soldiers fired on the militia at Lexington, Massachusetts. A militia is a group of ordinary men trained to fight when they are called. At about 10 o'clock that morning, in Watertown, Joseph Palmer wrote a letter "To all the Friends of American liberty." It said the soldiers had killed six men and wounded four. Palmer was a member of the Massachusetts Committee of Safety. The colonists' own congress had set up this committee to gather supplies for a fight with the British army in Boston and to spread the alarm if the army marched.
 
-Palmer gave the letter to a rider, Isaac Bissell, to carry toward Connecticut. At Worcester the town clerk, Nathan Baldwin, copied the letter, wrote that the copy was true and signed it. Someone made another copy at Springfield. Many riders, most of them unnamed, then carried copies on, and the alarm reached Philadelphia five days and seven hours after it left Watertown. Seven months earlier, in September 1774, false rumors of a British attack had sent thousands of militiamen out for nothing. Palmer took care to make his letter believable for that reason.
+Palmer gave the letter to a rider, Isaac Bissell, to carry toward Connecticut. At Worcester the town clerk, Nathan Baldwin, copied the letter, wrote that the copy was true and signed it. Someone made another copy at Springfield. Other riders then carried copies on, and the alarm reached Philadelphia five days and seven hours after it left Watertown. Seven months earlier, in September 1774, thousands of militiamen had turned out for nothing after false rumors of a British attack. Palmer took care to make his letter believable for that reason.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="isaac-bissell" name="Isaac Bissell" movie="" kind="ordinary" status="verified" -->
@@ -278,7 +278,7 @@ Isaac Bissell carried a written report of the killings at Lexington west from Wa
 
 Bissell reached Worcester in the early afternoon. The town clerk, Nathan Baldwin, copied the letter and signed the copy. At Springfield someone made another copy. On the morning of April 20 the letter reached Connecticut's leaders.
 
-In Wethersfield, Silas Deane wrote in his journal that the news "was discredited, from the suddeness of its arrival." Discredited means people did not believe it. Wethersfield was the home town of Governor Jonathan Trumbull. After men from Massachusetts confirmed the news, Trumbull agreed to call Connecticut's lawmakers together to raise soldiers.
+In Wethersfield, Silas Deane wrote in his journal that the news "was discredited, from the suddeness of its arrival." Discredited means people did not believe it. Wethersfield was the home town of Governor Jonathan Trumbull. After men from Massachusetts confirmed the news, Trumbull agreed to call Connecticut's lawmakers together.
 
 Bissell then joined the siege of Boston, where colonial soldiers surrounded the British army in the town. He served as a private in Captain Elihu Kent's company from Suffield. In July 1775 the members of the Massachusetts committee of safety approved his bill as a post rider, two pounds and one shilling. The colony's treasurer then would not pay it without a signed approval from the colony's congress.
 
@@ -286,7 +286,7 @@ Many books call the rider "Israel Bissell" and say he rode all the way to Philad
 <!-- hb-story:end slug="isaac-bissell" -->
 
 <!-- hb-zoom level="span" label="Common Sense and the Declaration in print, 1776" -->
-On January 10, 1776, the printer Robert Bell published *Common Sense*. It was a pamphlet by Thomas Paine that argued for independence from Britain. Printers printed it at least twenty-five times, sixteen of them in Philadelphia. In April 1776 Paine claimed that 120,000 copies had sold, and later he claimed 150,000. A writer of Paine's life guessed half a million in 1892.
+On January 10, 1776, the printer Robert Bell published *Common Sense*. It was a pamphlet by Thomas Paine that argued for independence from Britain. Printers printed it at least twenty-five times, sixteen of them in Philadelphia. In April 1776 Paine claimed that 120,000 copies had sold, and later he claimed 150,000. In 1892 Moncure Conway, who wrote a book about Paine's life, guessed half a million.
 
 No sales records survive, so nobody knows the real number. The historian Trish Loughran put the highest possible number at 75,000, and she thinks the real number was much lower.
 
@@ -299,27 +299,27 @@ Members of the Continental Congress declared independence on July 4, 1776, in Ph
 > **Who:** An English-born writer whose pamphlet *Common Sense* argued that the colonies should declare independence.
 > **When and where:** Philadelphia, 1774 to 1776, and with the army, 1776.
 
-Thomas Paine was paid nothing for *Common Sense*. He was born in Thetford, England, on January 29, 1737. He met Benjamin Franklin in London, and Franklin gave him letters of introduction to people in America. Paine arrived in Philadelphia on November 30, 1774. He helped edit the *Pennsylvania Magazine* and wrote articles under pen names, made-up names that hid who the writer was. For a long time Paine was named as the writer of "African Slavery in America," an essay printed in March 1775 under the name "Justice and Humanity." The essay describes slavery as deeply unjust. Gary Berton of the Thomas Paine National Historical Association later concluded that a Rhode Island minister, Samuel Hopkins, most likely wrote it, so the accounts differ.
+Thomas Paine wrote *Common Sense*, the pamphlet that argued for independence, and he took no money from its sales. He was born in Thetford, England, on January 29, 1737. He met Benjamin Franklin in London, and Franklin gave him letters of introduction to people in America. Paine arrived in Philadelphia on November 30, 1774. He helped edit the *Pennsylvania Magazine* and wrote articles under pen names, made-up names that hid who the writer was. For a long time Paine was named as the writer of "African Slavery in America," an essay printed in March 1775 under the name "Justice and Humanity." The essay describes slavery as unjust. Gary Berton of the Thomas Paine National Historical Association later concluded that a Rhode Island minister, Samuel Hopkins, most likely wrote it, so the accounts differ.
 
-*Common Sense* came out on January 10, 1776. Paine received no money from its sales. He soon fell out with its first printer, Robert Bell. Paine later wrote that he gave the right to print it to every state.
+*Common Sense* came out on January 10, 1776. Paine soon fell out with its first printer, Robert Bell. Paine later wrote that he gave the right to print it to every state.
 
 On December 19, 1776, Paine published *The American Crisis*. It began, "These are the times that try men's souls." Washington ordered it read to all his troops. Paine died in New York City on June 8, 1809.
 <!-- hb-story:end slug="thomas-paine" -->
 
 <!-- hb-zoom level="span" label="A Loyalist printer's press wrecked, 1775" -->
-Supporters of independence also attacked printers who took Britain's side. A colonist who stayed loyal to Britain was called a Loyalist. James Rivington printed the *New-York Gazetteer*, one of the most widely read newspapers in the colonies, and he used it to back the British government.
+Supporters of independence also attacked printers who took Britain's side. A colonist who stayed loyal to Britain was called a Loyalist. The New York printer James Rivington printed the *New-York Gazetteer*, one of the most widely read newspapers in the colonies, and he used it to back the British government.
 
 In November 1775 Isaac Sears led a group of Sons of Liberty from New Haven, Connecticut, to Rivington's shop in New York City. The Sons of Liberty were colonists who organized against British taxes and rule. The men wrecked Rivington's press and his type. Type is the set of metal letters that a printer puts together by hand to print a page, and it was a printer's most valuable possession. Rivington left for England a few weeks later.
 
-After British soldiers captured New York, Rivington came back with the title of King's Printer. He printed his paper on the British side until the British left in November 1783.
+After British soldiers captured New York, Rivington came back with the title of King's Printer, the official printer for the British government there. He printed his paper on the British side until the British left in November 1783.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A postal service for the new country, 1774 to 1792" -->
-In 1774 British officials fired Benjamin Franklin from his job running the royal post office in the colonies. In the words of the Postal Service's own history, he was "too much of an American." The printer William Goddard set up a rival mail service, which he called the Constitutional Post. He warned that officials of the British post could open letters and read them as proof of treason. Treason is the crime of betraying one's own government. By 1775 Goddard's service had nearly 50 post offices from Maine to Virginia.
+In 1774 British officials fired Benjamin Franklin from his job running the royal post office in the colonies. In the words of the Postal Service's own history, he was "too much of an American." The printer William Goddard set up a rival mail service, which he called the Constitutional Post. He warned that letters could be stopped and opened on the orders of the king's ministers, the men who ran Britain's government, and that what the letters said could be twisted into proof of treason. Treason is the crime of betraying one's own government. By 1775 Goddard's service had nearly 50 post offices from Maine to Virginia.
 
 On July 26, 1775, the members of the Continental Congress made Franklin their postmaster general, the head of their post office, at $1,000 a year.
 
-The Constitution, approved in 1788, lists among the powers of Congress the power "To establish Post Offices and post Roads." In 1789 the country had 75 post offices and about 2,400 miles of post roads, for almost four million people. In 1792 the members of Congress passed the Post Office Act. Under it, printers could send newspapers through the mail at very low rates, some for free. The act also forbade postal officials to open people's letters.
+The Constitution, approved in 1788, lists among the powers of Congress the power "To establish Post Offices and post Roads." In 1789 the country had 75 post offices and about 2,400 miles of post roads, for almost four million people. On February 20, 1792, the members of Congress passed a new law about the mail. Under it, printers could send newspapers through the mail at very low rates, some for free. The law also forbade postal officials to open people's letters.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="mary-katharine-goddard" name="Mary Katharine Goddard" movie="" kind="ordinary" status="verified" -->
@@ -334,7 +334,7 @@ In 1775 she became the postmaster of Baltimore. Postal Service historians call h
 
 In January 1777 the Continental Congress was meeting in Baltimore. Its members ordered new copies of the Declaration of Independence, and Goddard printed them on January 18, 1777. Hers were the first printed copies to show the signers' names. At the bottom she printed "Baltimore, in Maryland: Printed by Mary Katharine Goddard." Nine of her copies are known to survive.
 
-In January 1784 her brother William apparently forced her out of the *Maryland Journal*. In October 1789 the new postmaster general, Samuel Osgood, replaced her with a man. Osgood's assistant, John Burrell, said the job might need "more travelling ... than a woman could undertake." More than 200 people in Baltimore signed a letter asking Osgood to give her the job back. She wrote to President George Washington and to the Senate. Neither helped her. She ran a bookshop in Baltimore until about 1810, and she died there on August 12, 1816.
+In January 1784, Smithsonian Magazine reports, her brother William "apparently forced his sister out" of the *Maryland Journal*. In October 1789 the new postmaster general, Samuel Osgood, replaced her with a man. Osgood's assistant, John Burrell, said the job might need "more travelling ... than a woman could undertake." More than 200 people in Baltimore signed a letter asking Osgood to give her the job back. She wrote to President George Washington and to the Senate. Neither helped her. She ran a bookshop in Baltimore until about 1810, and she died there on August 12, 1816.
 <!-- hb-story:end slug="mary-katharine-goddard" -->
 
 <!-- hb-zoom level="span" label="The First Amendment and the party papers, 1789 to 1793" -->
@@ -342,21 +342,21 @@ The First Amendment took effect on December 15, 1791. An amendment is a change o
 
 Newspaper editors took sides in the quarrels inside Washington's government. John Fenno used his *Gazette of the United States* to push the plans of Alexander Hamilton, the head of the Treasury. Secretary of State Thomas Jefferson called Fenno's paper "a paper of pure Toryism." Tory was a name for the colonists who had sided with Britain's king during the Revolution. Jefferson hired Philip Freneau as a translating clerk at the State Department, paid $250 a year, even though Freneau knew only English and French. Freneau started the *National Gazette* on October 31, 1791. It came out twice a week and had about 1,700 subscribers, people who paid to get each issue. Freneau closed it on October 26, 1793.
 
-Benjamin Franklin's grandson, Benjamin Franklin Bache, printed a paper in Philadelphia called the *Aurora*. In it he attacked Washington and, later, John Adams.
+Benjamin Franklin's grandson, Benjamin Franklin Bache, printed a paper in Philadelphia called the *Aurora*. In it he attacked Washington and John Adams.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Sedition Act, 1798 to 1801" -->
-In 1798 American and French warships began fighting each other in the Caribbean Sea. President John Adams's party, the Federalists, held a majority in Congress. The Federalist majority passed the Sedition Act, and Adams signed it on July 14, 1798. Sedition means stirring people up against their government. Under the act, it was a crime to write or print "any false, scandalous and malicious writing" against the federal government, Congress or the President. The punishment was a fine of up to $2,000 and up to two years in prison.
+In 1798 American and French warships began fighting each other in the Caribbean Sea. President John Adams's party, the Federalists, held a majority in Congress. The Federalist members voted the Sedition Act through, and Adams signed it on July 14, 1798. Sedition means stirring people up against their government. Under the act, it was a crime to write or print "any false, scandalous and malicious writing" against the federal government, Congress or the President. The punishment was a fine of up to $2,000 and up to two years in prison.
 
 Under the act, unlike the law in the Zenger trial, a person charged could try to prove that his words were true, and the jury could decide what the law meant as well as what the facts were.
 
-Federal prosecutors and judges used the act mostly against editors of newspapers that supported Jefferson's party, the Democratic-Republicans. The long-standing count is 17 formal criminal charges under it, and 10 people found guilty. The legal historian Wendell Bird later found 11 more court cases against 16 more people. Writers for the National Constitution Center, a museum about the Constitution, count more than two dozen people found guilty, most of them publishers who opposed Adams's party.
+Federal prosecutors and judges used the act mostly against editors of newspapers that supported Jefferson's party, the Democratic-Republicans. Peter McNamara, writing in the First Amendment Encyclopedia, gives the count that scholars long used: 17 formal criminal charges under the act, and 10 people found guilty. The legal historian Wendell Bird later found 11 more court cases against 16 more people. Writers for the National Constitution Center, a museum about the Constitution, count more than two dozen people found guilty. Most of them were publishers who opposed Adams's party.
 
 Among those charged were Congressman Matthew Lyon of Vermont, William Duane of the *Aurora*, Ann Greenleaf of New York's *Argus*, and Anthony Haswell of the *Vermont Gazette*. Luther Baldwin and Brown Clark of Newark, New Jersey, were charged for words they spoke against President Adams in a tavern.
 
-Federalist supporters physically attacked Benjamin Franklin Bache in Philadelphia. Jonathan Dayton of New Jersey, a Federalist, was Speaker of the House of Representatives, the member chosen to run its meetings. Dayton barred Bache from the floor of the House so that he could not report its debates. The Federalists held a majority there. Federal officials arrested him in 1798 on a charge of libeling President Adams. Libeling means printing false things that harmed Adams's good name.
+Federalist supporters physically attacked Benjamin Franklin Bache in Philadelphia. Jonathan Dayton of New Jersey, a Federalist, was Speaker of the House of Representatives, the member chosen to run its meetings. Dayton barred Bache from the floor of the House, the room where its members met, so that he could not report its debates. The Federalists held a majority there. On June 24, 1798, more than two weeks before the Sedition Act became law, Judge Peters, a federal judge in Philadelphia, signed an order for Bache's arrest. The charge was seditious libel against President Adams, the same crime that officials had charged Zenger with in 1734. Peters let Bache out on bail, and his trial was set for October.
 
-Bache kept printing the *Aurora* through an epidemic of yellow fever. He died of the fever on September 10, 1798, at 29, a month before his trial date. His widow kept the paper going, with William Duane as editor. The Sedition Act ran out on March 3, 1801, the last day its authors had written into it.
+Bache kept printing the *Aurora* through an epidemic of yellow fever, a disease carried from person to person by mosquitoes. He died of the fever on September 10, 1798, at 29, a month before his trial date. His widow kept the paper going, with William Duane as editor. The text of the Sedition Act stated that it would stay in force only until March 3, 1801.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="matthew-lyon" name="Matthew Lyon" movie="" kind="famous" status="verified" -->
@@ -369,7 +369,7 @@ In 1798 Matthew Lyon became the first person tried under the Sedition Act. He ca
 
 In a letter that a newspaper printed, Lyon wrote of seeing the public good "swallowed up in a continual grasp for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice." Adulation means too much praise, and avarice means greed. At campaign meetings he also read aloud a letter by the poet Joel Barlow. It said Adams should be sent to a "madhouse."
 
-On October 5, 1798, a federal grand jury in Vermont charged Lyon with three crimes under the Sedition Act. A grand jury is a group of citizens who decide whether there is enough evidence to charge someone. A deputy marshal arrested him the next day. At his trial in Rutland on October 9, Lyon defended himself. He pleaded not guilty, and in a second plea he stated that the Sedition Act broke the Constitution.
+On October 5, 1798, a federal grand jury in Vermont charged Lyon with three crimes under the Sedition Act. A grand jury is a group of citizens who decide whether there is enough evidence to charge someone. A deputy marshal, an officer who made arrests for the federal courts, arrested him the next day. At his trial in Rutland on October 9, Lyon defended himself. He pleaded not guilty, and in a second plea he stated that the Sedition Act broke the Constitution.
 
 Justice William Paterson of the Supreme Court told the jury that its job had "nothing whatever to do with the constitutionality or unconstitutionality of the sedition law." He meant that the jurors must not decide whether the law broke the Constitution. The jurors came from towns that supported Adams's party. They found Lyon guilty within an hour. Paterson sentenced him to four months in jail and a $1,000 fine.
 
