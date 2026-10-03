@@ -89,6 +89,11 @@ Copied from other banks (source kept) unless marked as found by T-461.
 - **Duke of York (found by T-461):** New Amsterdam and New Netherland were renamed in honor of James, Duke of York, younger brother of King Charles II, who granted him the territory in 1664 (Wikipedia, "Duke of York" and "Province of New York"; search summary).
 - **Loblollie (found by T-461), CORRECTION to the prose's "thin porridge":** loblolly is "a thick gruel", a thick porridge, especially one eaten by sailors (Merriam-Webster, Collins, Dictionary.com entries "loblolly", via search summary 2026-10-01).
 
+### PATCH 2026-10-03 (T-608): who captured the 1619 Africans, Winthrop at the trial, Laud confirmed
+- **1619 captors (found by T-608):** Encyclopedia Virginia, "Virginia's First Africans" (https://encyclopediavirginia.org/entries/africans-virginias-first/, fetched 2026-10-03): "the governor of the Portuguese colony of Angola, Luis Mendes de Vasconçelos, fighting alongside an African mercenary group called the Imbangala, led two campaigns against the Kimbundu-speaking people of the region." "They captured thousands and likely provided the cargoes for six Portuguese slave ships from Angola that arrived in Vera Cruz between June 18, 1619, and June 21, 1620." (Campaigns of 1618 and 1619 against Ndongo.) A mercenary is a fighter paid to fight for someone else.
+- **Winthrop at Hutchinson's trial (found by T-608):** Famous Trials (Douglas Linder, UMKC), "The Examination of Anne Hutchinson (November 1637)" (https://www.famous-trials.com/hutchinson/2397-the-examination-of-anne-hutchinson-november-1637, fetched 2026-10-03): the transcript opens with "Mr. Winthrop, governor": "Mrs. Hutchinson, you are called here as one of those that have troubled the peace..."; the sentence is spoken by "Gov."; after her "I desire to know wherefore I am banished?" the reply is "Gov. Say no more, the court knows wherefore and is satisfied." So Winthrop led the questioning and spoke the sentence.
+- **Laud CONFIRMED (found by T-608):** Encyclopedia.com, "William Laud" (fetched 2026-10-03): "Laud sought to enforce uniformity on a church that had been, in many respects, diverse for decades." "He insisted that parish churches should match the more regulated practice of cathedrals." This confirms the T-461 "uniformity, order, and ceremony" line above. The Star Chamber was a royal court; the High Commission a church court (same Encyclopedia.com line, T-461).
+
 ## 4. 1700 to 1750
 
 ### The colonial population diversifies beyond the English
@@ -131,6 +136,9 @@ Copied from other banks (source kept) unless marked as found by T-461.
 - **Haitian Revolution (found by T-461):** Wikipedia, "Haitian Revolution" (raw read 2026-10-02): "a successful insurrection by enslaved Africans against French colonial rule in Saint-Domingue, now the sovereign state of Haiti"; dates 21 August 1791 to 1 January 1804; the slave revolt began on 21 August 1791 (citing Hochschild, *Bury the Chains*, 2005, p. 257). Toussaint Louverture was a leader of it.
 - **Pierre Toussaint (found by T-461):** Wikipedia, "Pierre Toussaint" (raw read 2026-10-02, citing the New York Times "Overlooked No More", 2024): "Freed in 1807 after the death of his mistress, Pierre took the surname of 'Toussaint' in honor of Toussaint Louverture, a leader of the Haitian Revolution." Birth year: "Recent sources give his birth year as 1781" (citing Arthur Jones). Madame Bérard had remarried a Monsieur Nicolas, and on her deathbed she made her husband promise to free Pierre (search summary of National Shrine and other Catholic sources; unconfirmed: search summary only). He "crossed barricades to nurse quarantined yellow fever patients during a 1798 epidemic in New York" (Wikipedia, citing Archways and Jones); this is the bank's "plague nursing". On August 5, 1811, he married Juliette Noel, an enslaved woman 20 years younger, "after purchasing her freedom." Cardinal John O'Connor "had Toussaint's body exhumed and examined" and reinterred in the cathedral crypt (1990). Yellow fever is spread by mosquitoes (general medical fact; see `research/research-health.md`).
 - **Article I, Section 9** is the clause named in the "1808 clock" line above.
+
+### PATCH 2026-10-03 (T-608): Toussaint's freedom CONFIRMED
+- Caribbean Beat, issue 111, "Pierre Toussaint: from slavery to sainthood" (https://www.caribbean-beat.com/issue-111/pierre-toussaint-slavery-sainthood, fetched 2026-10-03): "So it remained until 1807, when Marie Bérard died. On her deathbed she made her second husband promise that he would free Toussaint – which he did." With Wikipedia (Bérard remarried Monsieur Nicolas), this confirms the T-461 deathbed line: her second husband, Mr. Nicolas, freed him.
 
 ## 6. 1800 to 1850 — the first great wave
 
@@ -318,6 +326,10 @@ Copied from other banks (source kept) unless marked as found by T-461.
   named as questioning many of the stories.
 - Caution for the writer: a 2020s article in the *Register of the Kentucky Historical Society*, "The Myths of Bloody Monday: A Reinterpretation of the Louisville Riots of 1855" (Project MUSE, https://muse.jhu.edu/article/887641/summary), uses 1850s affidavits to challenge "many of the myths" about the riot. Its text could not be read in this session (access challenge). Which details it disputes is unknown. Before the prose states the Quinn's Row shootings or the "over 100" figure as fact, check it.
 
+### PATCH 2026-10-03 (T-608): the Clotilda captives after landing, and Dr. Chee Long Tong's body
+- **Clotilda (found by T-608):** Encyclopedia of Alabama, "Clotilda" (https://encyclopediaofalabama.org/article/emclotilda-em/, fetched 2026-10-03): "Meaher, his brothers, and some friends enslaved the kidnapped Africans for the next five years." Emancipation freed them, and survivors founded Africatown. "Foster then dropped the *Clotilda*'s anchor near Twelve-Mile Island and set the ship afire." (William Foster was the ship's captain, per the same article's search summary.)
+- **Dr. Chee Long (Gene) Tong (found by T-608):** Civic Memory Working Group victims list: "Dr. Chee Long Tong, herbalist and physician, shot and hanged at Tomlinson's Corral, body mutilated." Reece Jones, professor of geography at the University of Hawaii at Manoa, "150 years ago, a mob attacked Los Angeles's Chinese community" (https://www.hawaii.edu/news/2021/10/26/150-years-ago-mob-attacked-chinese-community/, fetched 2026-10-03): Tong offered money and the diamond ring on his finger for his life, and "a man in the crowd shot him in the mouth to shut him up and cut off his finger to take the ring." The man is not named.
+
 ## 8. 1900 to 1950 — the wave peaks, then the gates shut
 
 ### The peak at Ellis Island
@@ -385,6 +397,9 @@ Copied from other banks (source kept) unless marked as found by T-461.
 
 **The MS *St. Louis*, 1939: figures checked**
 - The ship left Hamburg May 13, 1939, with 937 passengers, almost all Jewish refugees. Cuban President Federico Laredo Brú voided their landing certificates; 28 were let off at Havana. President Franklin D. Roosevelt never answered the passengers' appeals. The State Department said they must "await their turns on the waiting list." The ship sailed back to Europe on June 6. Britain took 288, the Netherlands 181, Belgium 214 and France 224. Of the 620 who went back to the continent, 254 were killed in the Holocaust and 278 survived. (Source: US Holocaust Memorial Museum, "Voyage of the St. Louis," https://encyclopedia.ushmm.org/content/en/article/voyage-of-the-st-louis.) The bank's existing figures (937; 254) are confirmed.
+
+### PATCH 2026-10-03 (T-608): who sterilized people under the Nazi law
+- USHMM Holocaust Encyclopedia, "Forced Sterilization: A Form of Nazi Persecution" (https://encyclopedia.ushmm.org/content/en/article/forced-sterilization-a-form-of-nazi-persecution, fetched 2026-10-03): "Each case appeared before a special hereditary health court ... composed of a judge, a public health physician, and an outside expert physician." "Once the court decided in favor of forced sterilization, an approved doctor performed the surgery." "In total, an estimated 400,000 Germans were forcibly sterilized under the law." The University of Heidelberg degree (1936) is in `research/research-rights-movements.md` era 8; the bank names no person who awarded it.
 
 ## 9. 1950 to 2000 — the doors reopen, the sources shift
 
@@ -536,6 +551,9 @@ Copied from other banks (source kept) unless marked as found by T-461.
 - A recent refugee or immigrant with a documented, on-the-record story (needs a specific verified individual).
 
 ---
+
+### PATCH 2026-10-03 (T-608): the September 11 attacks, copied from other banks
+- From `research/research-america-world.md` (Britannica; National September 11 Memorial & Museum): "2,977 people were killed in the attacks, not counting the 19 hijackers." From `research/research-disasters.md` (Wikipedia, "September 11 attacks", opened 2026-09-30): the hijackers were members of al-Qaeda; planes struck the Twin Towers of the World Trade Center in New York and the Pentagon, and United Airlines Flight 93 crashed near Shanksville, Pennsylvania.
 
 ## Featured-person story candidates (verify before use; note real movies for the Movie line)
 

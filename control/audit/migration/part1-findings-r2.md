@@ -66,3 +66,62 @@ Pass 6: no em dashes, no semicolons, records only inside stories, all stories `v
 === part1-before-1800.md : 1 chapters, 3 stories, 0 errors
 manuscript/migration/part1-before-1800.md: emdash=0 semicolon=0
 ```
+
+## Fixer verdicts (T-619, 2026-10-03)
+
+The `fixer` column for the table above, keyed by finding #.
+
+| # | fixer |
+|---|---|
+| 1 | FIXED: drought defined at first use, later definition dropped |
+| 2 | FIXED: "No single cause has been settled." |
+| 3 | FIXED: "By the end of the 1100s" |
+| 4 | FIXED: "or the Dené migration" cut (unexplained near-duplicate of Diné) |
+| 5 | FIXED: one sentence listing fishing places, hunting grounds and plant spots, no repeated "where" |
+| 6 | REJECTED: "estimate" is an everyday school-math word, and the alternatives ("guesses") misstate the evidence |
+| 7 | FIXED: split as suggested |
+| 8 | FIXED: one sentence, "in the next century, the 1600s" |
+| 9 | FIXED: expedition defined at first use ("groups of men sent out to explore") |
+| 10 | FIXED: "Families from Chaco Canyon had joined the Pueblo communities after the droughts of the 1100s, about 400 years earlier." |
+| 11 | FIXED: split |
+| 12 | FIXED: merged |
+| 13 | FIXED: "farm animals. Horses were among them." (horses in bank era 2) |
+| 14 | REJECTED: bank SEARCHED, NOT FOUND (T-244) gives the wording "Enslaved people walked in the column" |
+| 15 | FIXED: PATCH 2026-10-03 (T-619) from apcg.org; prose now says its members are the 20 Pueblo nations of New Mexico and Texas |
+| 16 | FIXED: "Pueblo leaders gave that number in a 2023 statement from the All Pueblo Council of Governors" |
+| 17 | FIXED: paragraph split into four |
+| 18 | FIXED: "Reporters for AP and NPR, and Pueblo leaders, say" |
+| 19 | FIXED: "A National Park Service page on the Camino Real states ... The same page states" |
+| 20 | FIXED: "studied the records" cut, "Simmons had once written that they were" added |
+| 21 | FIXED: split |
+| 22 | FIXED: PATCH 2026-10-03 (T-619) copies Treviño's 1675 arrests, hangings and whippings from the native-nations bank; one short paragraph added |
+| 23 | FIXED: repeated sentence cut, the change kept with the nations named |
+| 24 | FIXED: "Thomas Hooker chose to go ... Roger Williams, did not choose" |
+| 25 | FIXED: "a signed paper that says who owns a piece of land", defined once |
+| 26 | FIXED: "a leader of Massachusetts Bay" |
+| 27 | REJECTED: bank era 3 lists the Comanche among the mounted peoples |
+| 28 | FIXED: Protestant defined |
+| 29 | FIXED: "History pages from North Carolina's state government list" |
+| 30 | FIXED: definition trimmed to "the Oneida backed their joining" |
+| 31 | FIXED: "states" |
+| 32 | FIXED: era summary reordered, 1755 first |
+| 33 | FIXED: "one of the top British officials there" |
+| 34 | FIXED: PATCH 2026-10-03 (T-619), Landscape of Grand Pré: soldiers burned many houses, barns and churches, about 700 buildings around the Minas Basin; stated after the plan |
+| 35 | FIXED: "forced removal" |
+| 36 | FIXED: "Other counts put the dead at as many as half" |
+| 37 | FIXED: Spanish officials paid |
+| 38 | FIXED: Britain and France signed |
+| 39 | FIXED: split |
+| 40 | FIXED: "Canadian officials give that title to people who were important in Canada's history." |
+| 41 | FIXED: PATCH 2026-10-03 (T-619), NCpedia: "a business formed to buy up wild land and open it to settlers" |
+| 42 | FIXED: "describes" |
+| 43 | FIXED: "order from the British king" cut |
+| 44 | REJECTED: the war is told in `war` and `native-nations`, and the bank has no more for this chapter |
+| 45 | FIXED: "Because of that grid" |
+| F1 | found by fixer, era 4, softening: "Apache groups there moved south" (bank: "fled southward") -> "many Apache there fled south"; "Comanche moved in on horseback and took control" |
+| F2 | found by fixer, era 4, #45: "The records do not name who bought them" (bank: the sources checked) -> "Those state pages do not name who bought them." |
+| F3 | found by fixer, era 3, #45: "The surviving sources do not say what Sequassen's people received" -> "The histories of the deed do not say" |
+| F4 | found by fixer, era 3, personification: "what Native nations have long said" -> "what Native people have long said in their nations' own histories" |
+| F5 | found by fixer, era 2, personification: "The Pueblos count 60 children" -> "Pueblo leaders count" |
+
+Counts: FIXED 41, REJECTED 4, NEEDS-RESEARCH 0, found by fixer 5.

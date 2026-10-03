@@ -14,19 +14,21 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" -->
-People in this land got goods from far away long before 1500. They had no stores and no set prices. They traded one thing for another, face to face. At some places, people from many nations gathered to fish and to trade. The biggest of these was on the Columbia River in the Northwest. Goods passed from one person to the next, sometimes across hundreds of miles.
+People in this land got goods from far away long before 1500. They had no stores. They traded one thing for another. At some places, people from many nations gathered to fish and to trade. One of the biggest was on the Columbia River in the Northwest. Goods passed from one person to the next, sometimes across hundreds of miles.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Dalles and Celilo Falls" -->
-The biggest trading place in the Northwest was a ten-mile stretch of the Columbia River. It ran from Celilo Falls down to a place called The Dalles, on the border of what are now Oregon and Washington. People fished and lived there. Archaeologists, scientists who study the past from what people left behind, date the first human use of the site to at least 10,000 years ago. Some estimates say 15,000 years.
+The biggest trading place in the Northwest was a ten-mile stretch of the Columbia River. It ran from Celilo Falls down to a place called The Dalles, on the border of what are now Oregon and Washington. People fished and lived there. Archaeologists, scientists who study the past from what people left behind, date the first human use of the site to at least 10,000 years ago. Some newspaper and museum writers give 15,000 years.
 
-Traders came from as far north as what is now British Columbia and as far south as California. Some accounts say traders came from as far east as the Great Lakes. From the north they brought coiled baskets, skins and berries. From the south they brought obsidian, a black volcanic glass that makes sharp blades, and bows. Traders from the south also brought captives. Captives were people seized by force and then traded away with the other goods. The accounts of the trade do not name who seized them. From the east came camas root and buffalo hides. From the coast came wapato root, whale oil and dentalium shells. Camas and wapato are roots that people dug up and ate. Horses came later. Spanish colonists had brought horses to the Americas, and in the early 1700s Native traders passed them north to this part of the river.
+Traders came from as far north as what is now British Columbia and as far south as California. The Oregon Historical Society reports that, by some accounts, traders came from as far east as the Great Lakes. Northern traders brought coiled baskets, skins and berries. Traders from the south carried obsidian, a black volcanic glass that makes sharp blades, along with bows and captives. Captives were people seized by force and then traded away with the other goods. The accounts of the trade do not name who seized them. Camas root and buffalo hides arrived from the east, and wapato root, whale oil and dentalium shells from the coast. Camas and wapato are roots that people dug up and ate.
 
-Dentalium shells are long, thin, white shells. People passed them from hand to hand over a wide area. So many people accepted them that traders used them to measure what other goods were worth.
+Horses came later. Spanish colonists had brought horses to the Americas. In the early 1700s, Native traders passed horses north to this part of the river.
+
+Dentalium shells are the shells of a small sea animal. Each one is shaped like a tiny elephant tusk and can grow a few inches long. Most of them came from the sea off Vancouver Island. People passed them from hand to hand over a wide area. So many people accepted them that traders used them to measure what other goods were worth.
 
 In October 1805, Meriwether Lewis and William Clark reached this stretch of river. Clark wrote in his journal that it was the "Great Mart of all this Country." A mart is a market. People had been trading there long before his visit.
 
-The trading place is now under water. Workers for the US Army Corps of Engineers, the part of the army that builds dams, built The Dalles Dam eight miles downstream. At 10 o'clock on the morning of March 10, 1957, the dam's floodgates were closed. The written account of that day does not name who gave the order. Four and a half hours later, Celilo Falls lay under the lake behind the dam. The villages of Wyam, on the Oregon side, and S'kin, on the Washington side, went under too. US government officials later paid the Warm Springs, Yakama, Umatilla and Nez Perce nations $26.8 million for the fishing sites they lost.
+The trading place is now under water. Workers for the US Army Corps of Engineers, the part of the army that builds dams and other large works, built The Dalles Dam eight miles downstream. At 10 o'clock on the morning of March 10, 1957, the dam's floodgates were closed. The written account of that day does not name who gave the order. Four and a half hours later, Celilo Falls lay under the lake behind the dam. The villages of Wyam, on the Oregon side, and S'kin, on the Washington side, went under too. US government officials later paid the Warm Springs, Yakama, Umatilla and Nez Perce nations $26.8 million for the fishing sites they lost.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Goods that traveled without a store" -->
@@ -42,17 +44,17 @@ No trader from before 1500 is known today by name.
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, Native people in what is now eastern Canada and around the Great Lakes traded with the crews of European whaling and trading ships. There were still no stores. Native traders chose which European goods they wanted. Archaeologists can see those choices in the kettles that the traders cut up and made into new things.
+In the 1500s, Native people in what is now eastern Canada traded with the crews of European whaling and trading ships. Native traders passed the metal they got far inland, as far as the Great Lakes. There were still no stores. Native traders chose which European goods they wanted. Archaeologists can see those choices in the kettles that the traders cut up and made into new things.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What Native customers chose" -->
-In the late 1500s, Native buyers in the Northeast and around the Great Lakes wanted copper and brass kettles more than most other European goods. Basque, French and Dutch traders carried the kettles across the ocean because those buyers asked for them. The Basques come from the Basque Country, a region in the mountains on the border of Spain and France. Basque ship crews crossed the ocean to hunt whales. They traded with the Beothuk of Newfoundland, the Innu of Labrador and the Mi'kmaq.
+In the late 1500s, Native buyers in the Northeast and around the Great Lakes traded for copper and brass kettles. Kettles were among the European goods they wanted most. Basque, French and Dutch traders carried the kettles across the ocean because those buyers asked for them. The Basques come from the Basque Country, a region in the mountains on the border of Spain and France. Basque ship crews crossed the ocean to hunt whales. They traded with the Beothuk of Newfoundland, the Innu of Labrador and the Mi'kmaq.
 
 Many of these kettles were not used for cooking. Archaeologists dig them up cut into flat sheets. Native craftspeople turned the sheets into beads, tubes, arrow points and pendants, which are ornaments that hang from a cord. For a long time, people in these nations had made the same shapes from copper found as pure metal in the ground. Buyers like these used a kettle as a supply of metal.
 
 Pieces of Basque copper kettles from the late 1500s and early 1600s turn up from the Canadian Maritimes, on the Atlantic coast, to the lower Great Lakes. Native traders passed the metal along among themselves, far inland. Basque kettles and axes reached the lands of the Huron and their neighbors in what is now Ontario.
 
-Native traders chose carefully what they took in trade. They were skilled bargainers who asked for useful tools and for fine goods alike. In the fur trade of later years, Native customers also traded for wool cloth, linen shirts, glass beads, iron knives, awls, axes, fish hooks, blankets, guns and gunpowder. An awl is a pointed tool for punching holes in leather. The Hudson's Bay Company, a fur-trading company, began in 1670. Its Native customers demanded guns that worked, so the men running the company sent gunsmiths to its trading posts to check the guns and repair them.
+Native traders chose carefully what they took in trade. They were skilled bargainers who asked for useful tools and for fine goods alike. In the fur trade of later years, Native customers also traded for wool cloth, linen shirts, glass beads, iron knives, awls, axes, fish hooks, blankets, guns and gunpowder. An awl is a pointed tool for punching holes in leather. The Hudson's Bay Company, a fur-trading company, began in 1670. Its Native customers demanded good guns. The men running the company sent gunsmiths to its trading posts to check the guns and repair them.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -82,7 +84,7 @@ Buying without paying at once is called buying on credit. The amount still owed 
 
 John Pynchon kept a shop in Springfield, Massachusetts. The town and the shop stood on land that the Agawam people had sold to his father. On July 15, 1636, William Pynchon bought land from the Agawam on both sides of the Connecticut River. He took a deed for it, a signed paper that records who owns a piece of land. The deed names Commucke and Matanchan, "ancient Indians of Agaam," acting for the community, and Cuttonus as "the right owner." Pynchon paid 18 fathoms of wampum, 18 coats, 18 hatchets, 18 hoes and 18 knives. A fathom is six feet, here a length of strung beads. The deed states that the Agawam kept their planted fields and their right to take fish, deer, ground nuts, walnuts and acorns. It also states that they would be paid if English cattle damaged their corn.
 
-Seven of John Pynchon's account books survive, covering 1651 to about 1702. Almost every adult in Springfield bought goods at his shop. The editors who printed the books found only a few payments in coins. Books like these record what ordinary colonists bought, item by item. The books name each customer and list what each one bought.
+Seven of John Pynchon's account books survive, covering 1651 to about 1702. Almost every adult in Springfield bought goods at his shop. The editors who printed the books found only a few payments in coins. Books like these record what ordinary colonists bought, item by item.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-stewart-marketplace" name="John Stewart" movie="" kind="ordinary" status="verified" -->
@@ -91,17 +93,17 @@ Seven of John Pynchon's account books survive, covering 1651 to about 1702. Almo
 > **Who:** A Scottish soldier, captured in war and sold into forced labor, who became the blacksmith of Springfield and bought on credit at John Pynchon's shop for more than thirty years.
 > **When and where:** Springfield, Massachusetts, 1653 to 1689.
 
-John Stewart bought his own freedom on credit. He was a Scottish soldier. Soldiers of Oliver Cromwell's army captured him at the Battle of Dunbar, in Scotland, in 1650. The council that ruled England ordered 150 of the Dunbar prisoners handed over to the agents of John Becx and Joshua Foote. These two men were investors in an ironworks in Massachusetts, a works that made iron. In his own recorded words, Stewart was "sold for eight years service." That meant he was forced to work for whoever owned his service until the eight years ran out. He was put on a ship called the *Unity* and arrived in New England in December 1650. He worked at the ironworks at Lynn, in Massachusetts. Then the merchant John Pynchon bought his service and took him to Springfield.
+John Stewart bought his own freedom on credit. He was a Scottish soldier. Soldiers of Oliver Cromwell's army captured him at the Battle of Dunbar, in Scotland, in 1650. The men on the council that ruled England ordered Sir Arthur Haselrig, the governor at Newcastle, to hand over 150 of the Dunbar prisoners to the agents of John Becx and Joshua Foote. These two men had put money into an ironworks in Massachusetts, a works that made iron. In his own recorded words, Stewart was "sold for eight years service." That meant he was forced to work for whoever owned his service until the eight years ran out. As prisoners in the hands of Becx and Foote's agents, Stewart and the other men boarded a ship called the *Unity*, whose master was Augustine Walker. Stewart arrived in New England in December 1650. He worked at the ironworks at Lynn, in Massachusetts. Then the merchant John Pynchon bought his service and took him to Springfield.
 
 On December 29, 1653, Pynchon wrote in his account book that Stewart owed him £30 "for releasing him from my Service." The sign £ stands for pounds, the main English unit of money. Shillings and pence were smaller units. Stewart agreed to pay an extra 12 shillings a year for three years while Pynchon waited for the £30. He paid that extra in blacksmith's work, "in mending or making of Iron worke."
 
 Stewart became the Springfield blacksmith. His page in Pynchon's ledger lists what he bought, item by item. A forge is the fire where a blacksmith heats iron to shape it. For his forge he bought 241 pounds of iron by weight in one purchase, then more bars of iron every few weeks, bars of steel and a coal basket. He also bought a sword and belt, a grindstone, a pair of boots, wool cloth, silk and buttons, a bushel of apples, soap, a comb, pepper and ginger. Pynchon charged him for using Pynchon's tools at the shop and for an old bellows, the air pump that blows on a forge fire.
 
-Almost none of it was paid in coins. By December 23, 1654, Stewart had paid in wheat, in two lots of wampum and in smith's work, including work on Pynchon's mill. Neighbors also paid wheat to Pynchon for him. He still owed £13 6s. The letter s stands for shillings. Later he paid in land and in a day of haymaking.
+Almost none of it was paid in coins. By December 23, 1654, Stewart had paid in two lots of wampum and in smith's work, including work on Pynchon's mill. Neighbors also paid wheat to Pynchon for him. He still owed £13 6s. The letter s stands for shillings. Later he paid in land and in a day of haymaking.
 
-Ten years later he was still buying on the book: sugar again and again, salt, gunpowder, scissors, pins, a knife for "the Boy," and iron for the troopers' horseshoes. Troopers were soldiers on horseback. The editors of the account books explain that in 1660 he was fined for striking a man named William Morgan and breaking his nose. In 1662 he was fined for playing cards at his house at night. The books do not say who set the fines. On February 20, 1666, he owed £11 17s 1d. The d stands for pence. The same page charges him £1 as a fine for himself and his wife for "unseasonable night meetings."
+The editors of the account books explain that in 1660 he was fined for striking a man named William Morgan and breaking his nose. In 1662 he was fined for playing cards at his house. The books do not say who set the fines. By 1664, ten years after his first purchases, he was still buying on the book: sugar again and again, salt, gunpowder, scissors, pins, a knife for "the Boy," and iron for the troopers' horseshoes. Troopers were soldiers on horseback. On February 20, 1666, he owed £11 17s 1d. The d stands for pence. The same page charges him £1 as a fine for himself and his wife for "unseasonable night meetings."
 
-Pynchon's books list his purchases until 1689. He died at Springfield on April 21, 1691. No record shows that he left any family.
+Pynchon's books list his purchases until 1689. He died at Springfield on April 21, 1691. The Scottish Prisoners of War Society, a group that traces the Dunbar prisoners, knows of no family he left when he died.
 <!-- hb-story:end slug="john-stewart-marketplace" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -109,31 +111,31 @@ Pynchon's books list his purchases until 1689. He died at Springfield on April 2
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the 1700s, colonial families began buying British-made goods in large amounts. Cloth, dishes and furniture from Britain became cheap enough for them. Shops in the port towns sold these goods, and in Philadelphia Benjamin Franklin made advertisements pay for much of his newspaper. Colonists also bought and sold enslaved people. In New York, city officials set up a market where enslaved people were sold. Printers, Franklin among them, ran advertisements offering enslaved people for sale.
+In the 1700s, colonial families began buying British-made goods in large amounts. Goods made in Britain became cheap enough for them. Shops in the port towns sold these goods, and in Philadelphia Benjamin Franklin made advertisements pay for much of his newspaper. Colonists also bought and sold enslaved people. In New York, city officials set up a market where enslaved people were sold. Printers, Franklin among them, ran advertisements offering enslaved people for sale.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The consumer revolution" -->
 A consumer is a person who buys goods to use them. The words "consumer revolution," meaning a big change in buying, name what happened in the colonies during the 1700s. Colonists had made many of their own clothes, tools and kitchen things. Now they began buying them instead, mostly from Britain.
 
-In Britain, makers found better ways to make goods. Merchants got better at shipping goods across the ocean and at selling them on credit. Prices for cloth, furniture and clay dishes fell. At the same time, colonial families earned more. Goods that only rich families had owned became ordinary.
+In Britain, makers found better ways to make goods. Merchants got better at shipping goods across the ocean and at selling them on credit. Prices fell. At the same time, colonial families earned more. Goods that only rich families had owned became ordinary.
 
 Tea came with a whole set of goods: a teapot, cups, sugar and a table to set them on. Buying goods like these became a sign that a family was respectable.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A market where people were sold" -->
-In New York, colonists bought and sold enslaved people at a market that city officials set up. On November 30, 1711, the aldermen of New York City's Common Council passed a law that set up the market at the bottom end of Wall Street, near Pearl Street and Water Street. The Common Council was the group of men who ran the city. Its members were called aldermen.
+In New York, colonists bought and sold enslaved people at a market that city officials set up. The Common Council was the group of men who ran New York City, and its members were called aldermen. On November 30, 1711, the aldermen passed a law that set up the market at the bottom end of Wall Street, near Pearl Street and Water Street.
 
-Slaveholders sold enslaved Africans at this market and rented them out to others as workers. They sold and rented out Native people held in slavery there too. The law required owners who rented out enslaved people as workers by the day to do it at this market. Buyers also inspected the people for sale there, looking them over before buying. The accounts of the market do not describe how the inspections were done. The market was a wooden building with a roof and open sides. It held about 50 men. It was used for 51 years, until 1762.
+Slaveholders sold enslaved Africans at this market and rented them out to others as workers. They sold and rented out Native people held in slavery there too. The law required owners who rented out enslaved people as workers by the day to do it at this market. Buyers also inspected the people for sale there, looking them over before buying. The accounts of the market do not describe how the inspections were done. The market was a wooden building with a roof and open sides. It held about 50 men. Slaveholders used it for 51 years, until 1762.
 
-In 2015, the WNYC reporter Jim O'Grady wrote that thousands of people were sold at the market: men, women, shiploads of children and captured Native people. In 1700, New York had about 5,000 people. At least 750 of them were enslaved. The city's aldermen chose the place for the market. The accounts of the market do not name the men who bought and sold people there.
+In 2015, Jim O'Grady, a reporter for the New York radio station WNYC, wrote that thousands of people were sold at the market: men, women, shiploads of children and captured Native people. In 1700, New York had about 5,000 people. At least 750 of them were enslaved. The city's aldermen chose the place for the market. The accounts of the market do not name the men who bought and sold people there.
 
-In 2015, Jumaane Williams, a member of the New York City Council, asked for a sign to mark the place where the market stood. In June of that year, Mayor Bill de Blasio uncovered the sign at Wall Street and Water Street in a public ceremony.
+In 2015, Jumaane Williams, a member of the New York City Council, asked for a sign to mark the place where the market stood. In June of that year, Mayor Bill de Blasio officially opened the sign at Wall Street and Water Street.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Newspaper advertising begins to pay" -->
 An advertisement is a notice that a seller pays to have printed, so that people will buy what the seller offers. On October 2, 1729, Benjamin Franklin bought a newspaper in Philadelphia, the *Pennsylvania Gazette*, from a printer named Samuel Keimer. Under Franklin, the money that sellers paid for advertisements became one of the paper's main sources of income.
 
-Franklin changed the way the advertisements looked. He put more empty space around them and used letters of different sizes. That made each notice stand out from the news around it. The *Gazette* grew from two pages to four, partly to make room for more advertisements.
+Franklin changed the way the advertisements looked. He put more empty space around them and used letters of different sizes. The *Gazette* grew from two pages to four, partly to make room for more advertisements.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-franklin-marketplace" name="Benjamin Franklin" movie="Benjamin Franklin (2022)" kind="famous" status="verified" -->
@@ -141,17 +143,17 @@ Franklin changed the way the advertisements looked. He put more empty space arou
 
 > **Who:** The Philadelphia printer who made advertising pay for a newspaper, and who ran advertisements in it selling enslaved people.
 > **When and where:** Philadelphia, from October 2, 1729.
-> **Movie:** *Benjamin Franklin* (2022), a documentary by Ken Burns, shown on PBS. It covers Franklin's whole life, including his printing business.
+> **Movie:** *Benjamin Franklin* (2022), a documentary by Ken Burns, shown on PBS. It covers Franklin's whole life.
 
 Benjamin Franklin made his fortune as a printer partly by selling space in his newspaper to advertisers. When he took over the *Pennsylvania Gazette* in 1729, it had about 90 subscribers, the people who paid to get every copy. By 1748 it had more than 1,500. It was the most widely read newspaper in the colonies.
 
-Some of the advertisements Franklin ran offered enslaved people for sale. In the 37 years he published the *Gazette*, Franklin ran at least 277 advertisements offering at least 308 enslaved people. He took the fees for these notices and acted as the go-between for the buyers and the sellers. He printed notices about servants who had run away from the people they were bound to work for.
+Some of the advertisements Franklin ran offered enslaved people for sale. Franklin published the *Gazette* for 37 years, counting the years after 1748 when he was David Hall's partner in the paper. In those 37 years, the *Gazette* printed at least 277 advertisements offering at least 308 enslaved people. Franklin ran these notices. He took the fees for these notices and acted as the go-between for the buyers and the sellers. He printed notices about servants who had run away from the people they were bound to work for.
 
 In 1748, when he was 42, Franklin stepped back from printing. He made a partnership with a printer named David Hall. Hall ran the shop, and Franklin kept a share of the profits. Much of the money that let Franklin stop working at his trade early came from the paper's advertising.
 <!-- hb-story:end slug="benjamin-franklin-marketplace" -->
 
 <!-- hb-zoom level="span" label="Shops and shopkeepers in the port towns" -->
-Shops in the port towns sold cloth and other goods brought in from London. Some sold haberdashery, which means small sewing goods such as thread, ribbons and buttons. Shopkeepers ordered their goods from London. The writers of the college textbook *The American Yawp* note that colonists who bought on credit could end up in debt to a local shopkeeper or to a merchant in London.
+Shops in the port towns sold cloth and other goods brought in from London. Some sold haberdashery, which means small sewing goods such as thread, ribbons and buttons. Shopkeepers ordered their goods from London. Colonists who bought on credit could end up in debt to a local shopkeeper or to a merchant in London.
 
 Women ran some of these shops. Elizabeth Murray came to Boston from Scotland in 1749, when she was 23. She opened a shop that sold cloth and other goods from Britain. Her brother's business friends helped her get started. She traveled to London to choose the goods for her shop, and she earned enough to support herself. Later she helped other women open shops.
 <!-- /hb-zoom -->
@@ -167,7 +169,7 @@ From 1767 to 1770, many colonists refused to buy British goods as a protest agai
 <!-- hb-zoom level="span" label="Non-importation" -->
 In 1767, members of Parliament, the lawmaking body in London, passed a tax law called the Townshend Revenue Act. It set duties, which are taxes on goods brought into the colonies from Britain. Colonists who opposed the duties answered by refusing to buy British goods. Refusing to buy something as a protest is called a boycott.
 
-The seniors at Harvard College in Massachusetts voted in the autumn of 1767 not to drink tea or wear imported British clothes at their graduation. It was a protest against the Townshend duties. Imported goods are goods brought in from another country. At the next year's graduation, the students' papers were printed on paper made in New England, not on British paper.
+The seniors at Harvard College in Massachusetts voted in the autumn of 1767 not to drink tea or wear imported British clothes at their graduation. It was a protest against the Townshend duties. Imported goods are goods brought in from another country. At the next year's graduation, the seniors' printed theses were on paper made in New England. The theses were a printed sheet of the ideas the graduates were ready to argue for in public at the ceremony.
 
 On August 1, 1768, about 60 Boston merchants and traders signed the Boston Non-Importation Agreement. They promised not to import most British goods from January 1, 1769, to January 1, 1770. Within two weeks, all but 16 of the town's merchants had joined.
 
@@ -200,11 +202,11 @@ In March 1776, the Cuming sisters left Boston with the Loyalists, the colonists 
 <!-- hb-story:end slug="cuming-sisters" -->
 
 <!-- hb-zoom level="span" label="A killing at a shop door, 1770" -->
-In February 1770, a Boston man named Ebenezer Richardson shot and killed a boy, Christopher Seider, during a protest at a shop door. Theophilus Lillie kept the shop, in Boston's North End. He went on selling imported goods during the boycott. On February 22, 1770, a carved head on a long pole was set up in front of his shop door. Some accounts say it was a sign that read "Importer." The accounts do not name who put it there. A crowd of boys and young men gathered and let no one go into the shop.
+In February 1770, a Boston man named Ebenezer Richardson shot and killed a boy, Christopher Seider, during a protest at a shop door. Theophilus Lillie kept the shop, in Boston's North End. He went on selling imported goods during the boycott. On February 22, 1770, a carved head on a long pole was set up in front of his shop door. Some accounts say it was a sign that read "Importer." Thomas Hutchinson's letter about that day does not name who put it there. A crowd of boys and young men gathered and let no one go into the shop.
 
-Richardson was Lillie's neighbor. He was a customs informer. Customs officials collected the taxes on goods brought in by ship, and they paid informers like Richardson to report smugglers. Richardson tried to pull the pole down. The crowd threw stones and sticks at him, chased him into his house and broke his windows. From inside the house, Richardson fired a musket at the boys. The shot hit Christopher Seider in the chest, and he died soon after. Christopher was 10 and a half years old in the letters of Governor Thomas Hutchinson, and 11 in most other accounts. Hutchinson wrote that Richardson "killed one & wounded another." The second boy was hit in the thigh.
+Richardson was Lillie's neighbor. He was a customs informer. Customs officials collected the taxes on goods brought in by ship, and they paid informers like Richardson to report smugglers. Richardson tried to pull the pole down. The crowd threw stones and sticks at him, chased him into his house and broke his windows. From inside the house, Richardson fired a musket at the boys. The shot hit Christopher Seider in the chest, and he died soon after. Christopher was 10 and a half years old in the letters of Thomas Hutchinson, and 11 in most other accounts. Hutchinson was the acting governor of Massachusetts, running the colony for the king while the governor was away in England. Hutchinson wrote that Richardson "killed one & wounded another." The second boy was hit in the thigh.
 
-Christopher Seider was buried on February 26, 1770. Hutchinson wrote that people said the funeral procession "reached from the Town House to Liberty Tree," two places in Boston. The editors of his letters write that it was said to be the largest procession ever seen in Boston. Richardson was tried for murder on April 20, 1770. The next day the jury found him guilty. The judges believed he was innocent, and they put off his sentence.
+Christopher Seider's funeral was on February 26, 1770. A funeral procession is the line of people who walk behind the coffin. Hutchinson wrote that people said Christopher's procession "reached from the Town House to Liberty Tree," two places in Boston. The modern editors of his letters call it the largest procession ever seen in Boston, as people reported it at the time. Richardson was tried for murder on April 20, 1770. The next day the jury found him guilty. The judges believed he was innocent, and they put off his sentence.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The country store and the crop ledger" -->
@@ -212,6 +214,8 @@ Away from the port towns, one country storekeeper sold goods to a whole farming 
 
 The storekeeper wrote each family's debt in a ledger. A farm family bought goods all through the year and paid after the harvest. When a harvest failed, the family could not pay, and the debt carried into the next year.
 
-Some of these account books survive, and they name the customers. Robert Townsend kept account books at Oyster Bay and in New York from 1773 to 1785. In 1773 his books list tea at 4 shillings 8 pence a pound, stockings, calico and linen cloth, gloves, packs of pins, molasses, and large barrels of spirits, a strong liquor. Some customers paid him in farm goods or in work instead of coins. Staff at the East Hampton Library have copied them out and published them.
+Some of these account books survive, and they name the customers. Robert Townsend kept a shop in Oyster Bay, on Long Island, and kept account books there and in New York. His surviving books cover 1773 to 1785. Staff at the East Hampton Library have copied them out and published them. One book runs from April 1, 1773, to November 15, 1779. In 1773 it lists tea at 4 shillings 8 pence a pound, stockings, calico, which is a cotton cloth, linen cloth, gloves, packs of pins, molasses, and large barrels of spirits, a strong liquor.
+
+Townsend's customers paid mostly in cash. Library staff counted the payments in his book from 1773 to 1779. In their count, 73 out of every 100 were cash, 22 were farm goods and 5 were notes, which are written promises to pay. Some customers also paid in work.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

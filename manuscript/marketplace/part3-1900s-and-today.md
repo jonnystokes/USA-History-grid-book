@@ -16,7 +16,7 @@ Chain stores grew fast between 1900 and 1950. A chain is a group of stores with 
 <!-- hb-zoom level="span" label="The chain store at full size" -->
 The A&P had 1,600 stores by 1915. By 1930 it had about 15,000 stores and sold $2.9 billion worth of goods a year. That made it the largest retailer in the world. A retailer is a seller who sells goods to the people who use them. The A&P was the largest grocery seller in the United States from 1915 to 1975.
 
-Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only. Later, on February 1, 1960, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them. Hundreds of people joined their protest over the next six months. On July 25, 1960, the manager of the lunch counter told three Black workers from the store's kitchen to change out of their uniforms and sit at the counter as customers. One of them, Geneva Tisdale, ordered an egg-salad sandwich. They were the first Black people served at that counter.
+Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only. Later, on February 1, 1960, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them. Hundreds of people joined their protest over the next six months. On July 25, 1960, the manager of the lunch counter picked three Black workers from the store's kitchen. He told them to get dressed, walk around the store like customers and then sit at the counter. One of them, Geneva Tisdale, ordered an egg-salad sandwich. In Tisdale's own telling, the three of them were chosen as the first Black people to eat at that counter.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="frank-woolworth" name="F. W. Woolworth" movie="" kind="famous" status="verified" -->
@@ -25,17 +25,17 @@ Woolworth's stores had lunch counters, where customers sat and ate. In the South
 > **Who:** The storekeeper who built a national chain of five-cent and ten-cent stores and paid cash for the tallest building in the world.
 > **When and where:** Utica and Lancaster, 1879, and New York, 1911 to 1913.
 
-Frank Winfield Woolworth turned his five-cent stores of 1879 into the largest store company in the world. On November 12, 1911, he signed agreements to join his chain with four rival chains. They were the Knox, Kirby, Charlton and C. S. Woolworth chains. The new F. W. Woolworth Company started with 596 stores and $65 million in capital, which is the money put into a business to run it. Some sources give the start as 1912, the year the new company was formally set up.
+Frank Winfield Woolworth turned his five-cent stores of 1879 into the largest store company in the world. On November 12, 1911, he signed agreements to join his chain with four rival chains. They were the Knox, Kirby, Charlton and C. S. Woolworth chains. The new F. W. Woolworth Company started with 596 stores and $65 million in capital, which is the money put into a business to run it. The new company was formally set up in 1912, so some histories give that year as its start.
 
 In 1913 the Woolworth Building was finished in New York. At 792 feet, it was the tallest building in the world at the time. It cost $13.5 million, and Woolworth paid for it himself, in cash.
 <!-- hb-story:end slug="frank-woolworth" -->
 
 <!-- hb-zoom level="span" label="Self-service" -->
-In a self-service store, customers pick goods off the shelves themselves instead of asking a clerk to fetch them. Clarence Saunders opened the first Piggly Wiggly store at 79 Jefferson Street in Memphis, Tennessee, on September 6, 1916. Some sources give the date as September 11. Customers came in through a turnstile, a gate with turning arms that lets one person through at a time. A single path, fenced on both sides, led them past every shelf in the store before they reached the place where they paid.
+In a self-service store, customers pick goods off the shelves themselves instead of asking a clerk to fetch them. Clarence Saunders opened the first Piggly Wiggly store at 79 Jefferson Street in Memphis, Tennessee, on September 6, 1916. Some accounts give the date as September 11. Customers came in through a turnstile, a gate with turning arms that lets one person through at a time. Then they had to follow a single fenced path past every shelf in the store before they reached the place where they paid.
 
 Saunders asked the government for a patent on his "Self-Serving Store" on October 21, 1916. A patent is a government paper that lets only the inventor use an invention for a number of years. He received Patent 1,242,872 on October 9, 1917.
 
-King Kullen opened in Jamaica, in Queens, New York, on August 4, 1930. Michael J. Cullen started it. He had worked for the Kroger grocery company and had sent its managers a plan for a supermarket, which they ignored. By the account of the Smithsonian, the national museum in Washington, King Kullen was the first supermarket. It met the museum's five tests: separate departments, self-service, low prices, many stores under one name and buying goods in huge amounts. Cullen's slogan was "Pile it high. Sell it low."
+King Kullen opened in Jamaica, in Queens, New York, on August 4, 1930. Michael J. Cullen started it. He had worked for the Kroger grocery company and had sent its managers a plan for a supermarket, which they ignored. By the account of the Smithsonian, the national museum in Washington, King Kullen was the first supermarket. It met the museum's five tests: separate departments, self-service, low prices, many stores under one name and buying goods in huge amounts. Cullen's slogan, a short phrase repeated in advertising, was "Pile it high. Sell it low."
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="clarence-saunders" name="Clarence Saunders" movie="" kind="famous" status="verified" -->
@@ -46,7 +46,7 @@ King Kullen opened in Jamaica, in Queens, New York, on August 4, 1930. Michael J
 
 Clarence Saunders built Piggly Wiggly into a chain of 1,268 stores and then lost it in a fight over its stock. By 1923 the stores sold $100 million worth of groceries a year. Piggly Wiggly was the third-largest grocery business in the country. Saunders had put the company's stock up for sale on the New York Stock Exchange, a market where people buy and sell shares. A share of stock is a small piece of ownership in a company.
 
-The story of the fight comes mostly from the Tennessee Encyclopedia and from writers on the history of money and business. In early 1923, some Piggly Wiggly stores in New York that other owners ran under the Piggly Wiggly name failed. Traders then began selling Piggly Wiggly stock short. Selling short is a bet that a stock's price will fall. The trader sells borrowed shares and plans to buy them back later at a lower price.
+The Tennessee Encyclopedia and writers on the history of money and business tell the fight this way. In early 1923, some Piggly Wiggly stores in New York that other owners ran under the Piggly Wiggly name failed. Traders then began selling Piggly Wiggly stock short. Selling short is a bet that a stock's price will fall. The trader sells borrowed shares and plans to buy them back later at a lower price.
 
 Saunders fought back. He borrowed about $10 million from bankers in the South, added his own money and kept buying shares. In the end he held orders for 196,000 of the 200,000 shares that existed. Then the men who ran the Stock Exchange stopped trading in the stock and gave the short sellers more time to pay. Within months Saunders was bankrupt, which means he could not pay his debts, and he was out of the company.
 
@@ -56,15 +56,15 @@ He started again with a new chain called the "Clarence Saunders, Sole Owner of M
 <!-- hb-zoom level="span" label="The company store" -->
 Many coal companies in Appalachia owned the store in their mining towns and paid their miners mostly in scrip instead of dollars. Scrip was the company's own money, made as metal coins or paper. A miner could draw scrip against pay he had already earned. The company store took it at full value, but the company would not trade it for cash. Other merchants nearby took scrip only at a discount of 10 to 30 percent. That meant a miner who spent $1 of scrip at another store got only 70 to 90 cents' worth of goods.
 
-In 1922 a survey for the US Coal Commission, a government group that studied the coal industry, checked prices in coal towns. In southern West Virginia, company stores charged 4.2 percent more for food than independent stores. In Alabama they charged 7 percent more. The economist Price Fishback later studied these numbers. He found that most companies did not let a miner's store debt run longer than two weeks.
+In 1922 researchers for the US Coal Commission, a government group that studied the coal industry, checked prices in coal towns. In southern West Virginia, company stores charged 4.2 percent more for food than independent stores. In Alabama they charged 7 percent more. The economist Price Fishback later studied these numbers. An economist is a scholar who studies how money, work and business fit together. He found that most companies did not let a miner's store debt run longer than two weeks.
 
-A page by the West Virginia Mine Wars Museum describes scrip differently. It states that scrip "created a kind of debt bondage that kept coal miners and their families tied to their employer for almost everything they needed to survive." Debt bondage means being forced to keep working to pay off a debt. The price studies and the museum's account disagree about how hard the system was on miners.
+A page by the West Virginia Mine Wars Museum describes scrip differently. It states that scrip "created a kind of debt bondage that kept coal miners and their families tied to their employer for almost everything they needed to survive." Debt bondage means being forced to keep working to pay off a debt. Fishback found small price gaps and short debts. The museum calls the system debt bondage.
 
-West Virginia lawmakers limited scrip in 1891. In 1925 they passed a law that kept scrip from being passed from one person to another. Scrip disappeared when the coal industry collapsed in the 1950s.
+In 1891, West Virginia lawmakers passed a law that let companies give out scrip only as pay for work already done or as an advance on wages. In 1925 they made it against the law to pass scrip from one person to another. Scrip disappeared when the coal industry collapsed in the 1950s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The catalog under Jim Crow" -->
-Jim Crow is the name for the laws and customs in the South that kept Black people apart from white people in schools, railroad cars, waiting rooms, courtrooms and cemeteries, and at water fountains. White mobs enforced it with murder. Between 1877 and 1950, white mobs lynched more than 4,400 Black people, by the count of the Equal Justice Initiative. To lynch means to kill someone with no trial. Louis Hyman, a historian at Cornell University, argued in 2018 that mail-order catalogs helped Black farm families in the South get around Jim Crow at the store. His argument was reported by NPR, the *Washington Post* and America's Black Holocaust Museum.
+Jim Crow is the name for the laws and customs in the South under which white lawmakers and officials kept Black people apart from white people in schools, railroad cars, waiting rooms, courtrooms and cemeteries, and at water fountains. White mobs enforced it with murder. Between 1877 and 1950, white mobs lynched more than 4,400 Black people, by the count of the Equal Justice Initiative. To lynch means for a mob to kill a person without any trial. Louis Hyman, a historian at Cornell University, argued in 2018 that mail-order catalogs helped Black farm families in the South get around Jim Crow at the store. His argument was reported by NPR, the *Washington Post* and America's Black Holocaust Museum.
 
 According to Hyman, many Black farm families had to buy on credit, taking goods now and paying later, at a white-owned country store, often owned by the landlord whose land they farmed. The storekeeper set the prices and made Black customers wait until white customers were served. A catalog order cost the same national price for everyone, and no clerk decided who was served first. The family could also buy on the mail-order company's credit instead of the landlord's.
 
@@ -80,9 +80,9 @@ In 1924 members of the National Association of Finance Companies, a group of len
 <!-- hb-zoom level="span" label="Advertising on radio and television" -->
 The first paid radio advertisement went on the air on August 28, 1922, on the station WEAF in New York. The Queensboro Corporation paid $50 for about ten minutes of air time to promote the Hawthorne Court apartments in Jackson Heights, Queens.
 
-Television stations were not allowed to sell advertising until officials of the Federal Communications Commission, the government office that licenses stations, gave licenses to 10 stations starting July 1, 1941. Two years earlier, people at NBC had shown test advertisements for three companies. The first commercial allowed under the new licenses ran on the station WNBT in New York on July 1, 1941, before a Brooklyn Dodgers baseball game against the Philadelphia Phillies. For about ten seconds it showed the face of a Bulova watch over a map of the United States, while a voice said, "America runs on Bulova time." It cost Bulova $9: $4 for the air time and $5 in station charges. There were about 4,000 television sets in the New York area at the time.
+Television stations were not allowed to sell advertising until officials of the Federal Communications Commission, the government office that licenses stations, gave licenses to 10 stations on May 2, 1941. The licenses let the stations sell advertising from July 1, 1941. Two years earlier, people at NBC had shown test advertisements for three companies. The first commercial allowed under the new licenses ran on the station WNBT in New York on July 1, 1941, before a Brooklyn Dodgers baseball game against the Philadelphia Phillies. For about ten seconds it showed the face of a Bulova watch over a map of the United States, while a voice said, "America runs on Bulova time." It cost Bulova $9: $4 for the air time and $5 in station charges. There were about 4,000 television sets in the New York area at the time.
 
-Mary Frances Gerety wrote advertisements at N. W. Ayer & Son, the advertising agency. For the diamond company De Beers, she wrote the slogan "A Diamond Is Forever." A slogan is a short phrase repeated in advertising. Sources date it to 1947 or to 1949. In 1999 the magazine *Ad Age* named it the most memorable slogan of the 1900s.
+Mary Frances Gerety wrote advertisements at N. W. Ayer & Son, the advertising agency. For the diamond company De Beers, she wrote the slogan "A Diamond Is Forever." Accounts of the slogan date it to 1947 or to 1949. In 1999 the magazine *Ad Age* named it the most memorable slogan of the 1900s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Shopping under rationing" -->
@@ -90,7 +90,7 @@ During the Second World War, officials of the US government's Office of Price Ad
 
 War Ration Book Two came into use on March 1, 1943. Its blue stamps bought processed foods, which are canned, dried or frozen foods. Its red stamps bought meat, cheese, fats and oils. Each person got 48 blue points and 64 red points a month, so a family of four had 192 blue points a month for processed food. Every cut of almost every kind of meat had its own point value.
 
-At the store a shopper paid with stamps and with money together. The price could not go above the ceiling price, the highest price government officials allowed. Point values changed often. Newspapers printed them, radio announcers read them out and local ration boards posted them. By the end of the war, more than 100,000 volunteers were running the program through about 5,600 local boards.
+At the store a shopper paid with stamps and with money together. The price could not go above the ceiling price, the highest price government officials allowed. Point values changed often. Newspaper editors printed them, radio announcers read them out and members of local ration boards posted them. By the end of the war, more than 100,000 volunteers were running the program through about 5,600 local boards.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="emilia-lundberg" name="Emilia Ruth Palmquist Lundberg" movie="" kind="ordinary" status="verified" -->
@@ -99,9 +99,9 @@ At the store a shopper paid with stamps and with money together. The price could
 > **Who:** A widowed mother of six in Jersey City who shopped for her family with ration books during the Second World War.
 > **When and where:** Jersey City, New Jersey, about 1942 to 1943.
 
-Emilia Lundberg fed six children on a small, fixed income, and during the war she also had to count ration stamps. She was born in Göteborg, Sweden, in 1894. In 1930 her husband was killed in an explosion at the dry-cleaning plant where he was in charge. As Donald remembered it, his father left her with six children, no relatives to turn to and no money.
+Emilia Lundberg fed six children on a small, fixed income, and during the war she also had to count ration stamps. She was born in Göteborg, Sweden, in 1894. In 1930 her husband was killed in an explosion at the dry-cleaning plant where he was in charge. As her son Donald remembered it, his father left her with six children, no relatives to turn to and no money.
 
-She raised the children on workmen's compensation of $100 a month. Workmen's compensation is money paid to a worker's family after the worker is hurt or killed on the job. The rent was $35 a month. Her oldest daughter, 16, moved to night school and took a job keeping accounts for $12 a week. Her son Donald packed and delivered groceries at a store after school and on Saturdays for $5 a week.
+She raised the children on workmen's compensation of $100 a month. Workmen's compensation is money paid to a worker's family after the worker is hurt or killed on the job. The rent was $35 a month. Her oldest daughter, 16, moved to night school and took a job keeping accounts for $12 a week. Donald packed and delivered groceries at a store after school and on Saturdays for $5 a week.
 
 Before the war, the family ate a roast on Sunday after church and potatoes and macaroni the rest of the week. Under rationing, everyone in the family had a ration book with stamps for meat and other goods. They took the books to the store and bought what the stamps allowed. The ration was counted for each person, so a large family got more in all than a small one. They bought meat for Sunday and ate macaroni, spaghetti and mashed potatoes the rest of the week. Shoes were rationed too. Each child had one good pair for school and one pair of sneakers for play.
 
@@ -113,11 +113,11 @@ Emilia had a 1933 Plymouth. Donald remembered the family's gasoline ration as ab
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-The first fully enclosed shopping mall in the United States opened in Minnesota in 1956. Plastic cards issued by banks let shoppers buy on credit in any store that took the card. Kmart, Target and Wal-Mart all opened their first stores in 1962. By 1974 a scanner at the checkout could read a printed code on each package. By 2000, people could shop at home on television shopping channels, and from 1995 on a computer.
+The first fully enclosed shopping mall in the United States opened in Minnesota in 1956. Plastic cards issued by banks let shoppers buy on credit in any store that took the card. Kmart, Target and Wal-Mart all opened their first stores in 1962. In 1974 a cashier in Troy, Ohio, made the first sale with a scanner that read a printed code on a package. By 2000, people could shop at home on television shopping channels, and from 1995 on a computer.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The enclosed mall" -->
-A mall is a group of stores under one roof or around one walkway. Southdale Center opened in Edina, Minnesota, on October 8, 1956. It was the first fully enclosed shopping mall in the United States with its own heating and cooling. It had 72 stores on two levels around a brightly lit central court. Its two biggest stores were the department stores Dayton's and Donaldson's.
+Southdale Center opened in Edina, Minnesota, on October 8, 1956. It was the first fully enclosed shopping mall in the United States with its own heating and cooling. A mall is a group of stores under one roof or around one walkway. It had 72 stores on two levels around a brightly lit central court. Its two biggest stores were the department stores Dayton's and Donaldson's.
 
 The Dayton family owned department stores in Minneapolis. In 1952 they hired the architect Victor Gruen and his firm, Victor Gruen & Associates, to design the mall. Building began in 1954. Southdale cost $20 million.
 <!-- /hb-zoom -->
@@ -129,13 +129,13 @@ The Dayton family owned department stores in Minneapolis. In 1952 they hired the
 > **When and where:** Vienna, then New York and Minnesota. Southdale opened October 8, 1956.
 > **Movie:** *The Gruen Effect: Victor Gruen and the Shopping Mall* (2009), a documentary by Anette Baldauf and Katharina Weingartner, about Gruen and the malls he started.
 
-Victor Gruen designed Southdale as the center of a new neighborhood, and developers copied only the mall. Gruen was a Jewish architect from Vienna, in Austria. In March 1938 the leaders of Nazi Germany, the Germany ruled by Adolf Hitler's Nazi Party, took over Austria and made it part of Germany. The takeover was called the Anschluss. In the weeks after, Austrian Nazis and others beat and attacked Jews. In Vienna, Nazis forced Jews to scrub the city's streets while crowds jeered at them. Gruen left Vienna that year. He reached New York on the ship *Statendam* with an architect's degree, eight dollars and no English.
+Victor Gruen designed Southdale as the center of a new neighborhood, and developers copied only the mall. Gruen was a Jewish architect from Vienna, in Austria. In March 1938 the leaders of Nazi Germany, the Germany ruled by Adolf Hitler's Nazi Party, took over Austria and made it part of Germany. The takeover was called the Anschluss. In the weeks after, Austrian Nazis and others beat, attacked and humiliated Jews. In Vienna, Nazis forced Jews to scrub the city's streets while crowds jeered at them. Soon Nazi officials put Austria's Jews under the same laws that already took away Jewish rights in Germany. Gruen fled Vienna that year. He reached New York on the ship *Statendam* with an architect's degree, eight dollars and no English.
 
 One of his early jobs was a shop front on Fifth Avenue in New York, for Ludwig Lederer's leather-goods shop. Gruen designed its entrance as an arcade, a covered walkway, meant as a "customer trap" to draw people inside.
 
-For Southdale, the Dayton company bought about 500 acres of land in Edina. Gruen planned the mall as the center of a new neighborhood, with apartment buildings, houses, schools, a medical center, a park and a lake. He said he wanted "the Minneapolis downtown you would get if you started over and corrected all the mistakes." The medical center opened in 1965. The Daytons sold the rest of the land for housing.
+For Southdale, the Dayton company bought about 500 acres of land in Edina. Gruen's plan for the land around the mall had apartment buildings, houses, schools, a medical center, a park and a lake. He said he wanted "the Minneapolis downtown you would get if you started over and corrected all the mistakes." The medical center opened in 1965. The Daytons sold the rest of the land for housing.
 
-In a speech in London in 1978, Gruen rejected the malls that American developers had built. He said he refused to pay alimony for those developments, and he used a rude word to describe them. Alimony is money that a person pays to a former husband or wife after a divorce. He meant that he would not take responsibility for them. He went back to Vienna, and there he objected to a shopping center built in Vienna.
+In a speech in London in 1978, Gruen rejected the malls that American developers had built. He said he refused to pay alimony for those developments, and he used a rude word to describe them. Alimony is money that a person pays to a former husband or wife after a divorce. He went back to Vienna and objected to a shopping center built there.
 <!-- hb-story:end slug="victor-gruen" -->
 
 <!-- hb-zoom level="span" label="Plastic at the counter" -->
@@ -145,23 +145,23 @@ In September 1958, officers of Bank of America mailed about 60,000 BankAmericard
 
 In 1970, members of Congress passed a law that banned mailing credit cards to people who had not asked for them.
 
-Before 1974, lenders could turn a woman down for credit because she was a woman, or because she was married or single. Mortgage lenders, who lend money to buy houses, often counted only part of a married woman's pay, especially if she was young enough to have children. They were also more likely to turn down single women. In October 1974 members of Congress passed the Equal Credit Opportunity Act. It banned lenders from treating people differently because of their sex or whether they were married. In March 1976 members of Congress added race, color, religion, national origin, age and receiving public assistance to the law.
+Before 1974, lenders often turned women down for credit because they were women, or because they were married or single. Mortgage lenders, who lend money to buy houses, often counted only part of a married woman's pay, especially if she was young enough to have children. They were also more likely to turn down single women. Lawmakers in Congress passed the Equal Credit Opportunity Act in October 1974. Under it, lenders could no longer treat people differently because of their sex or whether they were married. Two years later, in March 1976, the lawmakers added more reasons lenders could not use: race, color, religion, national origin, which means the country a person or their family came from, age, and getting money from government aid programs.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="1962: the discount stores" -->
 A discount store is a store that sells goods at prices below what other stores charge. Four discount chains began in 1962. The first Kmart store opened in Garden City, Michigan, on March 1, 1962, and reports said 4,000 customers waited in line on the first day. Target's first store followed on May 1, in Roseville, Minnesota. On July 2, Sam Walton opened the first Wal-Mart in Rogers, Arkansas. Woolco's first store opened that year too.
 
-Kmart grew out of the S. S. Kresge chain of five-and-dime stores, and Woolco out of F. W. Woolworth's company. Target grew out of the Dayton Company's department stores, run by the same Dayton family that had hired Victor Gruen to design Southdale.
+Kmart grew out of the S. S. Kresge chain of five-and-dime stores, which sold small goods for 5 and 10 cents, and Woolco out of F. W. Woolworth's company. Target grew out of the Dayton Company's department stores, run by the same Dayton family that had hired Victor Gruen to design Southdale.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="sam-walton" name="Sam Walton" movie="Wal-Mart: The High Cost of Low Price (2005)" kind="famous" status="verified" -->
 ### Sam Walton
 
-> **Who:** The Arkansas storekeeper who put big discount stores in small towns and built the largest retailer in the United States.
+> **Who:** The Arkansas storekeeper who put discount stores in small towns and built the largest retailer in the United States.
 > **When and where:** Rogers, Arkansas, from July 2, 1962.
 > **Movie:** *Wal-Mart: The High Cost of Low Price* (2005), a documentary by Robert Greenwald. It argues against the company and is not a life story of Walton.
 
-Sam Walton built Walmart, spelled Wal-Mart at first, by opening big discount stores in small towns. The heads of the large chains had judged those towns too small to bother with. Before 1962 Walton ran Ben Franklin variety stores in Arkansas, which sold many kinds of small, cheap goods. He bought goods in huge amounts and priced them below the stores nearby. Walmart became the largest retailer in the United States and the largest private employer, which means it had more workers than any other company.
+Sam Walton built Walmart, spelled Wal-Mart at first, by opening discount stores in small towns. The heads of the large chains had judged those towns too small to bother with. Before 1962 Walton ran Ben Franklin variety stores in Arkansas, which sold many kinds of small, cheap goods. He bought goods in huge amounts and priced them below the stores nearby. Walmart became the largest retailer in the United States and the largest private employer, which means it had more workers than any other company.
 
 Economists have measured what Walmart did to shoppers and to towns. Jerry Hausman of MIT and Ephraim Leibtag of the US Department of Agriculture reported in 2007 that shoppers gained a great deal from Walmart's low prices, most of all households with lower incomes.
 
@@ -169,9 +169,9 @@ David Neumark, Junfu Zhang and Stephen Ciccarella reported in 2008 that when a W
 <!-- hb-story:end slug="sam-walton" -->
 
 <!-- hb-zoom level="span" label="The franchise" -->
-Franchising began before 1950, in the 1920s. A franchise is a deal in which the owner of a business name and its way of working sells other people the right to run a business under that name, following the owner's rules. Roy Allen bought a recipe for root beer in 1919. He began selling A&W franchises in 1924, or in 1925 by some accounts. J. Willard Marriott was one of his early franchise owners.
+A franchise is a deal in which the owner of a business name and its way of working sells other people the right to run a business under that name, following the owner's rules. Roy Allen bought a recipe for root beer in 1919. He began selling A&W franchises in 1924, or in 1925 by some accounts. Histories of franchising often call A&W the first successful food franchise. J. Willard Marriott was one of its early franchise owners.
 
-Howard Johnson gave his first restaurant franchise to Reginald Sprague in 1935. By the end of 1936 there were 41 Howard Johnson's restaurants. By 1939 there were 107, taking in about $10.5 million a year.
+The Howard Johnson's restaurant business sold its first franchise to Reginald Sprague in 1935. By the end of 1936 there were 41 Howard Johnson's restaurants. By 1939 there were 107, with about $10.5 million in sales.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The barcode" -->
@@ -190,7 +190,7 @@ Sharon Buchanan was the cashier at the first sale ever made with a barcode scann
 <!-- hb-story:end slug="sharon-buchanan" -->
 
 <!-- hb-zoom level="span" label="Stamps, television selling and the end of the big catalog" -->
-Trading stamps were small stamps that grocers and gas stations gave out with each purchase. Shoppers pasted them into books and traded full books for goods from a catalog. In the 1960s and 1970s, about 80 percent of American households collected S&H Green Stamps. In the 1960s more S&H stamps were printed than US postage stamps, and about 35 million S&H catalogs went out each year.
+In the 1960s and 1970s, about 80 percent of American households collected S&H Green Stamps. Trading stamps were small stamps that grocery stores, gas stations and other stores gave out with purchases. Shoppers pasted them into books. They traded full books for goods at a Green Stamps store or from a catalog. In the 1960s more S&H stamps were printed than US postage stamps, and about 35 million S&H catalogs went out each year.
 
 The Home Shopping Network began with a radio station. In 1977 a company that advertised on Lowell "Bud" Paxson's radio station paid him in electric can openers instead of money. The station's host, Bob Circosta, sold them on the air for $9.95 each. In 1982 Paxson and Roy Speer started the Home Shopping Club on cable television in Pinellas County, Florida. It went national on July 1, 1985. Joe Segel founded QVC, another shopping channel, in 1986. It first went on the air that November, and the first thing it sold was a radio made to be used in the shower.
 

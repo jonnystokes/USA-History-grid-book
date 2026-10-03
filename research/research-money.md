@@ -68,6 +68,9 @@ How the prose can say it: the work was forced and dangerous; no reliable count o
 - King Charles I was tried by the High Court of Justice, a court set up by Parliament, found guilty on January 27, 1649 and beheaded on January 30, 1649 outside the Banqueting House in London, after the English Civil War. 59 of the court's commissioners, Oliver Cromwell among them, signed the death warrant. England had no king until Charles II took the throne in 1660. (Sources: Historic Royal Palaces, "The execution of Charles I"; Britannica "Charles I"; Wikipedia "Execution of Charles I of England".)
 - John Hull was born on December 18, 1624, in Market Harborough, Leicestershire, England, the son of the blacksmith Robert Hull. He came to Massachusetts with his parents at age 11 and died in Boston on October 1, 1683. On his appointment as mintmaster (May 27, 1652) he was 27, not 28. (Sources: Wikipedia "John Hull (merchant)"; American Antiquarian Society *Proceedings* 1936, "John Hull, Colonial Merchant, 1624-1683" (search summary).)
 
+### PATCH 2026-10-03 (T-611): what Charles I was found guilty of
+- The charge against Charles I accused him of "subverting the fundamental laws and liberties of the nation" and "maliciously making war on the parliament and people of England." The sentence condemned him as a "tyrant, traitor, murderer and public enemy to the Commonwealth of England." Parliament held that it was treason for a king to make war on his own people. (Source: BCW Project, "Trial of King Charles I," bcw-project.org.uk, opened.)
+
 ## 4. 1700 to 1750
 
 ### Colonial paper spreads — and misbehaves in places
@@ -117,6 +120,9 @@ How the prose can say it: the work was forced and dangerous; no reliable count o
 ### PATCH 2026-10-01 (T-450): who printed the fake Continentals, and the eagle's value
 - "For the majority of the war the city of New York was under control of the British. It was here that the majority of the counterfeiting was done." A January 1780 letter from General Henry Clinton, the British commander in North America from 1778, to Lord George Germain (Secretary of State for the American Colonies, 1775 to 1782; Britannica "George Germain, 1st Viscount Sackville") is the clearest sign that British leaders approved the operation (the article calls most other evidence circumstantial). An advertisement in the *New York Gazette* of April 14, 1777 asked people going into the other colonies to take counterfeit notes with them. (Source: Stuart Hatfield, "Faking It: British Counterfeiting During the American Revolution," *Journal of the American Revolution*, October 7, 2015, opened.) Search summaries add that printing was done aboard HMS Phoenix in New York harbor in 1776 (unconfirmed: search summary only, not used).
 - The Coinage Act of 1792 named three gold coins: the eagle, worth ten dollars, the half eagle (five dollars) and the quarter eagle (two dollars and fifty cents). (Sources: Wikipedia "Coinage Act of 1792" and "Eagle (United States coin)," quoting the act: "Eagles, each to be of the value of ten dollars or units"; U.S. Mint "History of U.S. Circulating Coins.")
+
+### PATCH 2026-10-03 (T-611): who appointed Hamilton
+- "On September 11, 1789, he [President George Washington] nominated Alexander Hamilton as Secretary for the Department of the Treasury." (Source: National Archives DocsTeach, "Alexander Hamilton's Nomination as Secretary of the Treasury by George Washington," opened.) Search summaries say the Senate approved the same day (unconfirmed: search summary only, not used).
 
 ## 6. 1800 to 1850
 

@@ -12,9 +12,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Immigration to the United States reached its highest point in the early 1900s. In 1907 alone, officials at Ellis Island admitted 1,004,756 people. Then members of Congress passed quota laws in 1921 and 1924. A quota is a fixed number of people allowed in. Under the 1924 law, no more than about 165,000 immigrants could come each year, and almost no one from Asia could come at all. On the West Coast, officials at Angel Island held Chinese arrivals anywhere from a few days to many months.
+The great wave of newcomers to the United States peaked in the early 1900s. In 1907 alone, officials at Ellis Island admitted 1,004,756 people. Then members of Congress passed quota laws in 1921 and 1924. A quota is a fixed number of people allowed in. Under the 1924 law, no more than about 165,000 immigrants could come each year, and almost no one from Asia could come at all. On the West Coast, officials at Angel Island held Chinese arrivals anywhere from a few days to many months.
 
-From 1929 to 1936, officials pushed somewhere between 500,000 and 2 million people of Mexican descent out of the country. Most of them were US citizens. In 1939 officials in Cuba, the United States and Canada refused to let a ship full of Jewish refugees land.
+From 1929 to 1936, officials pushed somewhere between 500,000 and 2 million people of Mexican descent out of the country. By the two larger counts, about 6 in 10 of them were US citizens. In 1939 officials in Cuba, the United States and Canada refused to let a ship full of Jewish refugees land.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Ellis Island's busiest years and the melting pot" -->

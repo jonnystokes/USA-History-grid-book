@@ -74,3 +74,70 @@ Eras with no findings: none.
 `node tools/validate_grid.js manuscript/migration/part2-1800s.md --part`: part2-1800s.md : 1 chapters, 7 stories, 0 errors
 
 `python tools/project_state.py --punct manuscript/migration/part2-1800s.md`: emdash=0 semicolon=0
+
+## Fixer verdicts (T-619, 2026-10-03)
+
+The `fixer` column for the table above, keyed by finding #.
+
+| # | fixer |
+|---|---|
+| 1 | FIXED (dispatch EXTRA, #34): "how many were forced to move when the enslavers who held them moved to new land and took them along as slaves"; Johnson's "one-third moved with their enslavers" -> "taken along by their enslavers" |
+| 2 | FIXED: "American officials bought" |
+| 3 | FIXED: PATCH 2026-10-03 (T-619), National Archives treaty page: "thousands of American Indians across dozens of tribes"; prose adds that none of them had a part in the sale |
+| 4 | FIXED: "traders and enslavers moved about 200,000 people"; the naming passive kept (no harm, no actor needed) |
+| 5 | FIXED: "They marched some ... They shipped others" |
+| 6 | FIXED: "The largest slave-trading company in the country" |
+| 7 | FIXED: "The partners timed each coffle" |
+| 8 | FIXED: estimates merged into one range sentence with whose estimate each is, then Johnson and Tadman |
+| 9 | FIXED: "the man who held Charles Ball in slavery sold him away" (the seller is his enslaver; the bank names no one) |
+| 10 | FIXED: "The trader locked ... He also handcuffed" |
+| 11 | FIXED: "He was captured again and held as a slave" (bank: "seized again") |
+| 12 | FIXED: "records" |
+| 13 | FIXED: "first" cut, dates kept |
+| 14 | FIXED: "The troops forced the first groups out" |
+| 15 | FIXED: "The National Park Service's history of the trail states ...", "Historians cited by History.com give" |
+| 16 | FIXED: "Soldiers took her from Georgia in 1838." |
+| 17 | FIXED: "opened in 1821" |
+| 18 | FIXED: "From the 1840s on, tens of thousands of them came to the Willamette Valley" (bank, Oregon Encyclopedia) |
+| 19 | FIXED: "Most of the dead had cholera or typhoid." |
+| 20 | FIXED: merged; the repeated "Most of them died of disease" cut, the sentence correcting the legend kept |
+| 21 | FIXED: "No record shows that anyone was ever tried" (religion bank SEARCHED, NOT FOUND) |
+| 22 | FIXED: split |
+| 23 | FIXED: Missouri State Archives' "Old Settler mobs and Mormon paramilitary units" stated, credited |
+| 24 | FIXED: "many of them ragged and stripped of their property" |
+| 25 | FIXED: split |
+| 26 | FIXED: "after Illinois militiamen killed Joseph Smith in 1844" |
+| 27 | FIXED: PATCH 2026-10-03 (T-619), NPS "Hark Lay": names Hark Lay, Green Flake and Oscar Crosby, William and Sytha Lay as Hark Lay's enslavers, their work and July 22 entry; says the NPS page does not name the other two men's enslavers |
+| 28 | FIXED: treaty defined; "after losing the war" |
+| 29 | REJECTED: no one harmed; "annexed" is defined in the same sentence |
+| 30 | FIXED: "only about 30,000 were left, about 120,000 fewer"; "newcomers driving Native people off their land" |
+| 31 | FIXED in prose ("over land", "wagon trails"); the span label "The overland trails" left as is (marker line) |
+| 32 | FIXED: split |
+| 33 | FIXED: "the officials who counted the country's population no longer found a clear line" |
+| 34 | FIXED: "that federal officials set aside" |
+| 35 | FIXED: "Counts of the dead run from about 170 to about 250" (170 is the sum of the two modern low counts) |
+| 36 | FIXED: territory defined |
+| 37 | FIXED: PATCH 2026-10-03 (T-619), BYU Studies: Savage's journal on the emigrants' choice, church leaders urging them on, and Franklin D. Richards's severe rebuke on September 12, quoted |
+| 38 | FIXED: "enslaved" added |
+| 39 | FIXED: "Bryan sold people in family groups ... Those same terms sometimes kept husbands and wives from being bought together." |
+| 40 | FIXED: "Federal officials had taken much of that land" (bank: NPS "seized") |
+| 41 | FIXED |
+| 42 | FIXED: 6,400 acres for every mile |
+| 43 | FIXED: "This march is known as the Long Walk." |
+| 44 | REJECTED: a treaty between nations is signed by their leaders, and the Army carried out the confinement (bank, Long Walk PATCH) |
+| 45 | FIXED |
+| 46 | REJECTED: no one harmed and the bank names no one; Version 2 allows this passive |
+| 47 | FIXED: PATCH 2026-10-03 (T-619), Kansas Historical Society: "The name comes from the exodus from Egypt" |
+| 48 | FIXED: Singleton introduced, "and others said" cut, bank's "resented" kept as "was angry" |
+| 49 | FIXED: actors split: former Confederates (votes), white landowners (cheating), armed white men (attacks, Adams's list) |
+| 50 | FIXED: Confederates defined |
+| 51 | FIXED: paraphrased in plain words, the named culprits kept as a short quote |
+| 52 | FIXED: split into three paragraphs |
+| 53 | FIXED: "said under oath, at a hearing" |
+| 54 | FIXED: "Federal officials had taken land in Indian Territory from the nations there", no cession named (bank SEARCHED, NOT FOUND) |
+| 55 | FIXED: "had to sign over" |
+| 56 | FIXED: split |
+| 57 | FIXED: "the officials who ran the United States census reported" |
+
+Counts: FIXED 54, REJECTED 3, NEEDS-RESEARCH 0, found by fixer 0.
+

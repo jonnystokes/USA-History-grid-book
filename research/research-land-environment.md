@@ -75,6 +75,24 @@ Source for all of this: George W. Knepper, *The Official Ohio Lands Book* (Ohio 
 - **1786.** "Hutchins had requested federal troops for protection. Colonel Josiah Harmar ordered Major John Francis Hamtramck and some of the First American Regiment to guard the surveyors." (Wikipedia, "Fort Steuben.") A second summary agrees: the first effort "was abandoned due to Indian hostilities and was resumed with Military escort in 1786," and in September 1786 Hutchins set a stone marker at the west edge of the seventh range on the Geographer's Line (Wikipedia "Seven Ranges" / "Beginning Point of the U.S. Public Land Survey," via search; lower confidence).
 - **Use:** the bank line "Surveyors worked from Fort McIntosh, 'guarded by its troops'" rests on a search snippet only. Write the better-supported version: the crew turned back in October 1785 and worked under the guard of Hamtramck's soldiers in 1786.
 
+### PATCH 2026-10-03 (T-610): Josiah Harmar's rank, 1784-1790 (corrects "Maj. Gen. Josiah Harmar" above)
+
+- **Rank.** Harmar was commissioned "lieutenant colonel commandant" of the First American Regiment on August 12, 1784, and held that post until March 4, 1791. As its commander he was the senior officer of the US Army (Wikipedia "Josiah Harmar"). He was "brevetted brigadier general on 31 July 1787" (a brevet is an honorary higher rank). (Encyclopedia of the American Revolution: Library of Military History, "Harmar, Josiah," via encyclopedia.com, fetched 2026-10-03; Appletons' Cyclopaedia of American Biography, "Harmar, Josiah," Wikisource; Wikipedia "Josiah Harmar," dates of rank, cross-checked.)
+- **Correction.** Harmar was never a major general of the US Army. In 1790 he led the expedition as a brevet brigadier general. In 1786 he was a lieutenant colonel, not a full colonel ("Colonel" in the Fort Steuben quote above is loose). St. Clair (1791) and Wayne (1794) were major generals, as stated above.
+- **Use:** 1786 "Lieutenant Colonel Josiah Harmar, the army's commander"; 1790 "Harmar, a brigadier general since 1787."
+
+### PATCH 2026-10-03 (T-610): who fined the Pine Tree rioters (1772)
+
+- "Eight men were charged with rioting, disturbing the peace and with assaulting Benjamin Whiting." The case was heard in "the Superior Court in Amherst" in September 1772 by "Four judges, Theodore Atkinson, Meshech Weare, Leverett Hubbard and William Parker." "The rioters pled guilty, the judges fined them 20 shillings each and ordered them to pay the cost of the court hearing." (Journal of the American Revolution, "The Pine Tree Riot," allthingsliberty.com, February 2013, fetched 2026-10-03.)
+
+### PATCH 2026-10-03 (T-610): St. Clair's losses, 1791 (copied from research-war.md 5.7)
+
+- "Over 900 Soldiers and their women and children, were killed or wounded" in St. Clair's defeat on November 4, 1791, on the Wabash. (U.S. Army, "St. Clair's Campaign of 1791," https://www.army.mil/article/65594/st_clairs_campaign_of_1791_a_defeat_in_the_wilderness_that_helped_forge_todays_u_s_army, as banked in research-war.md, section 5.7.)
+
+### PATCH 2026-10-03 (T-610): enslavement in Virginia was for life (copied from research-slavery-freedom.md)
+
+- In 1655 a Northampton County, Virginia, court ruled John Casor a servant for life. In 1662 Virginia's lawmakers ruled that a child's status follows the mother: a child born to an enslaved mother was enslaved for life. (Encyclopedia Virginia; Britannica Kids "John Casor"; as banked in research-slavery-freedom.md.)
+
 ## Era 06 — 1800 to 1850: rivers put to work, forests at low ebb, first protests
 
 - **Dams stop the fish.** The first dam across the Connecticut River (Turners Falls, Mass., **1798**) blocked salmon from their spawning water; **by the War of 1812 no salmon entered the river**. The **Great Stone Dam** at Lawrence, Mass. (built 1847–48) walled off the Merrimack **30 miles from the sea**. Atlantic salmon runs were gone from southern New England rivers **by 1865**; shad collapsed too. A New Hampshire report of 1857 blamed dams, unregulated harvest, and mill machinery killing young fish. (Sources: NOAA Fisheries "Industry vs Diadromy: the Merrimack"; NH Fish & Game "Restoring Anadromous Fish"; USFWS Atlantic salmon history.)
@@ -82,6 +100,11 @@ Source for all of this: George W. Knepper, *The Official Ohio Lands Book* (Ohio 
 - **George Catlin proposes "a nation's park," 1832.** The painter, traveling the upper Missouri and fearing the destruction of the bison and the Plains nations together, wrote for "a magnificent park … a nation's park, containing man and beast, in all the wild and freshness of their nature's beauty." Forty years before Yellowstone. (Sources: NPS park-history online books (Runte); Buffalo Bill Center of the West.)
 - **John James Audubon** (1785–1851). *The Birds of America* — **435 life-size bird portraits**, published 1827–1838, about 18 years of work behind it. His 1813 passenger-pigeon account: riding to Louisville, Kentucky, he passed under a single flock that darkened the sky for **three days**; his own arithmetic put one flock above **1 billion birds**. Documentary: ***John James Audubon: Drawn from Nature* (PBS American Masters, 2007, dir. Lawrence Hott)** — a person-doc, verified. (Sources: Audubon.org; Smithsonian; IMDb/PBS for the film.)
 - **Henry David Thoreau** (1817–1862). Lived in a self-built cabin at **Walden Pond, Concord, Mass., July 4, 1845 – September 6, 1847** (two years, two months, two days); *Walden* published **1854** (publication date falls in era 7 — state the residency here, note the book year honestly). Worked as a land surveyor — the man who argued for wild land measured woodlots for a living. No widely established person-documentary verified; Movie line omitted. (Sources: Britannica "Walden"; Walden Woods Project.)
+
+### PATCH 2026-10-03 (T-610): who built the Great Stone Dam, and how the sheep drove the clearing
+
+- **The Great Stone Dam.** The Essex Company, incorporated April 16, 1845, to use the water power of the Merrimack below Lowell, built the dam at Bodwell's Falls in what became Lawrence. Its chief engineer Charles Storer Storrow designed it (with Charles H. Bigelow). The last granite block was laid on September 19, 1848, three years after the first. (Wikipedia, "Great Stone Dam" and "Charles Storer Storrow," via search 2026-10-03; lower confidence. The main bank line's "built 1847-48" means finished in 1848.)
+- **Sheep and clearing.** "By 1840, there were an estimated 4 million sheep in New England (more sheep than people), the care and feeding of which fueled even more extensive forest clearing." "It's estimated that by 1850, as little as 25 percent of New England was still forested." (Society for the Protection of New Hampshire Forests, "Keeping Forests as Forests," forestsociety.org, fetched 2026-10-03; dash in the original replaced by a comma here.)
 
 ## Era 07 — 1850 to 1900: the biggest taking, and the first protection
 
@@ -145,6 +168,10 @@ The bank tells the parks as "set aside for the people." These are the people who
 - **Thoreau, "Walking."** Thoreau first gave "Walking" as a lecture at the Concord Lyceum on April 23, 1851. It was published as an essay in the June 1862 *Atlantic Monthly*, shortly after his death. The line as printed: "The West of which I speak is but another name for the Wild; and what I have been preparing to say is, that in Wildness is the preservation of the world." (Wikipedia, "Walking (essay)"; Wikiquote, "Walking (Thoreau)"; via search, 2026-10-01.) Gives the Thoreau story its land point: the surveyor of woodlots argued in print for wildness.
 - **Who made the attacks before the Mariposa Battalion.** In December 1850 Ahwahneechee fighters (Wikipedia "Ahwahnechee"), with Chowchilla fighters by another summary (Wikipedia "Mariposa War" search summary), attacked James D. Savage's trading post on the Fresno River. They took his supplies and killed two of his men (Wikipedia "Ahwahnechee"; Ralph S. Kuykendall, *Handbook of Yosemite National Park*, 1921, via search summary: "two of the three men there present were killed"). Wikipedia "Savage Trading Post": the post was burned and "his clerks at the post were killed," no number given. Wikipedia "Ahwahnechee": "Savage had moved into the Ahwahnechee land," mining for gold and trading. Lower confidence (encyclopedia and search summaries); state the number as two.
 - **The Sierra Club's purpose, 1892.** The club's articles of incorporation, May 28, 1892, in San Francisco: "to explore, enjoy, and render accessible the mountain regions of the Pacific Coast; to publish authentic information concerning them," and "to enlist the support and cooperation of the people and government in preserving the forests and other natural features of the Sierra Nevada." John Muir was the first president. 182 charter members. (Sierra Club, "Origins and Early Outings" and "Articles of Incorporation," sierraclub.org, via search 2026-10-01.)
+
+### PATCH 2026-10-03 (T-610): what the Meriam Report was (copied from research-education.md)
+
+- *The Problem of Indian Administration*, compiled by Lewis Meriam and staff of the Institute for Government Research (Brookings Institution), made at the request of Secretary of the Interior Hubert Work and submitted to him on February 21, 1928. Called the Meriam Report. (archive.org full text, as banked in research-education.md.)
 
 ## Era 08 — 1900 to 1950: conservation becomes federal work; the Plains show the cost of failure
 
@@ -235,6 +262,11 @@ Adds named actors, the deed, the health findings and the counts. Source: Univers
 ### PATCH 2026-10-01 (T-453): what the National Environmental Policy Act requires
 
 - NEPA was signed into law on January 1, 1970. It "requires all federal agencies to review and analyze the potential environmental effects of major federal actions," and requires a detailed written statement of environmental impacts (an environmental impact statement) for major federal actions "significantly affecting the quality of the human environment." (Bureau of Ocean Energy Management, "National Environmental Policy Act (NEPA)"; Congressional Research Service, RL33152, "The National Environmental Policy Act (NEPA): Background and Implementation"; via search 2026-10-01.)
+
+### PATCH 2026-10-03 (T-610): national forests on ancestral lands (a page opened), and what wolves did to Yellowstone's willows
+
+- **Forests on ancestral lands.** Olympic National Forest, "Tribal Relations" page (fs.usda.gov, fetched 2026-10-03): "The Olympic National Forest recognizes that all lands in present day Washington, including National Forests, are the ancestral lands of Indigenous peoples." The USDA blog sentence above ("Many national forests were carved out of ancestral Indian lands and several still overlap and/or interlace with tribal lands") appeared word for word again in search results on 2026-10-03, but usda.gov and fs.usda.gov returned HTTP 403 to a direct fetch, so it is still seen only in search summaries. Use it only as what Forest Service writers have said, beside the Olympic page.
+- **Wolves, elk and willows.** NPS, "The Big Scientific Debate: Trophic Cascades" (nps.gov/articles, May 16, 2019): "For most of the 20th century these woody plants have been suppressed, or not grown tall, due to elk browsing." On the willows' growth after wolves returned: "Most studies agree with this scenario (with some exceptions), and the debate is about why the sudden growth." "What is being debated is the extent that changes in woody plants are due to the effects of wolves (and other carnivores) on elk and how these top-down influences ripple through the food web." (Fetched 2026-10-03.)
 
 ## Era 10 — 2000 to Today (current through August 2026)
 

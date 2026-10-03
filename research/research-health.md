@@ -227,6 +227,12 @@ How the prose can say it: "Someone threw a bomb through Mather's window. The rec
 ### PATCH 2026-09-27 (T-263r): consent of Jack and Jackey
 - No opened source records whether Jack, 36, or his son Jackey, two and a half, agreed to be inoculated. Boylston's own account calls Jack "my Negro Man" (Mass Moments). Both were enslaved by Boylston. The outline states that his record does not say whether Jack agreed.
 
+### PATCH 2026-10-03 (T-615): eras 02-04 facts the step 7 fixer confirmed
+- **Jack and Jackey could not refuse (era 04).** Both were enslaved by Boylston, who calls Jack "my Negro Man" in his own account (Mass Moments, above). Slavery was legal in Massachusetts in 1721 (era 04 Onesimus material: Mather held Onesimus as a gift from his congregation in 1706 and freed him only on conditions in 1716). An enslaved person was the enslaver's legal property and had no right to refuse an order. Director's ruling DECISIONS #44: enslaved people used in medical work could not refuse, and the book says so.
+- **Raleigh sent the Roanoke colonists (era 02).** Hariot's 1588 title page: the voyage was made "at the speciall charge and direction of the Honourable Sir Walter Raleigh" (DocSouth, https://docsouth.unc.edu/nc/hariot/summary.html, copied from research-news-communication.md era 02). NPS, "Manteo": Manteo sailed in 1585 on "the flagship of Sir Walter Raleigh's fleet, the Tyger" (same bank).
+- **Durham House was in London (era 02).** Wikipedia, "Durham House, London" (opened 2026-10-03): "the historic town house of the Bishop of Durham in the Strand, City of Westminster." Elizabeth I "granted it to Sir Walter Raleigh," who "lived there until Elizabeth's death."
+- **Squanto was a Patuxet man (era 03).** Plymouth 400, Inc., "#ThrowBackThursday: The 1614 Capture of Squanto" (opened 2026-09-29 by home-family's researcher, copied from research-home-family.md era 03): in 1614 Captain Thomas Hunt "captured twenty Natives from Patuxet and seven from Nauset"; Tisquantum (Squanto) was one of them, and he returned home to Patuxet in 1619. The CDC article (Marr & Cathey 2010) calls him "one of the last of the Patuxets who assisted the Pilgrims in 1620."
+
 ## 05 · 1750 to 1800 (T-263r, 2026-09-27)
 
 Sources opened this pass:
@@ -520,6 +526,10 @@ How the prose can say it: "Union army officers and Freedmen's Bureau officials r
 ### PATCH 2026-10-02 (T-468): who created New York's Metropolitan Board of Health, 1866
 - Wikipedia, "Metropolitan Health Bill" (opened 2026-10-02): "On February 19, 1866, the Bill passed the New York senate, 22-2, and the assembly, 74-28, and was signed into law by Governor Reuben Fenton on February 26." Dr. Stephen Smith worked for its passage and told its history in his book *The City that Was*. A search summary of Wikipedia "Metropolitan Board of Health" adds that its leaders were four police commissioners, the port's health officer, and four commissioners named by the governor, three of them doctors (unconfirmed: search summary only).
 - This settles the disagreement above: state lawmakers created the board. CUNY's "Common Council" wording is the weaker account. Dorman Eaton is not named on the opened page.
+
+### PATCH 2026-10-03 (T-615): who says Garfield would have lived
+- The Diane Rehm Show, "Candice Millard: 'Destiny of the Republic'," 19 September 2011, https://dianerehm.org/shows/2011-09-19/candice-millard-destiny-republic/ (opened 2026-10-03). Candice Millard, author of *Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President* (2011), says of Garfield: "He would have been better off if they had just left him alone." She notes that "there are many, many Civil War veterans walking around with bullets inside of them who had survived." Search summaries of her book add that 12 doctors put unwashed fingers or tools into the wound (unconfirmed: search summary only: not used).
+- The prose now credits the "would probably have lived" judgment to Millard by name, instead of to unnamed "most accounts" (DECISIONS #32, #37).
 
 ## 08 · 1900 to 1950 (T-263b, 2026-09-27)
 

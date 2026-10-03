@@ -26,17 +26,17 @@ Bones also show diseases in the same family as syphilis. Two of them, yaws and b
 
 Martin and Goodman list other illnesses that were present: rabies, whooping cough, polio, hepatitis (an infection of the liver), herpes (a virus that causes sores), tularemia (a fever people catch from animals), and stomach infections from tiny living things called giardia and amoebas. They add that almost all of these were probably rare in any one group of people.
 
-People who took up farming became sicker in some ways. At Dickson Mounds in Illinois, people moved over many years from hunting and gathering to farming. Researchers studied the skeletons of people buried there, among them farmers who lived in the 1100s. Farmers in this land came to depend more and more on maize, which is corn. The body cannot get much iron from maize. Among the Dickson Mounds people, signs of anemia rose sharply. Anemia means having too few red blood cells, which leaves a person weak and tired. In a skull it shows as spongy patches full of tiny holes on the top of the head and in the eye sockets. Those patches form where the marrow inside the bone swelled to make more blood. Bone infections among the same people became nearly four times as severe, a team of researchers led by Lallo found in 1977.
+People who took up farming became sicker in some ways. At Dickson Mounds in Illinois, people moved over many years from hunting and gathering to farming. Researchers studied the skeletons of people buried there, among them farmers who lived in the 1100s. Farmers in this land came to depend more and more on maize, which is corn. The body cannot get much iron from maize. Among the Dickson Mounds people, signs of anemia rose sharply. Anemia means having too few red blood cells, which leaves a person weak and tired. In a skull it shows as spongy patches full of tiny holes on the top of the head and in the eye sockets. Those patches form where the marrow, the soft center of the bone, swelled to make more blood. Bone infections among the same people became nearly four times as severe, a team of researchers led by Lallo found in 1977.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why the crowd diseases were missing" -->
 An epidemic is a disease that spreads to many people in one place at the same time. The diseases that later struck this land in epidemics can keep spreading only where great crowds of people live.
 
-A person sick with measles can pass it on for less than two weeks. Then the sick person either dies or becomes immune, which means the body can fight off that disease and will not catch it again. Measles keeps spreading only where new children who have never had it are always being born. In 1957 a scientist named Bartlett estimated that measles can stay in a place for good only if about 7,000 people there can still catch it, out of a population of 200,000 to 300,000. In 1975 another scientist, Black, put the population at 500,000.
+A person sick with measles can pass it on for less than two weeks. Then the sick person either dies or becomes immune, which means the body can fight off that disease and will not catch it again. Measles keeps spreading only where new children who have never had it are always being born. In 1957 a scientist named Bartlett estimated how big a population must be for measles to stay in a place for good. His answer was 200,000 to 300,000 people, with about 7,000 of them still able to catch it. In 1975 another scientist, Black, put the population at 500,000.
 
 In small towns spread far apart, a disease like that infects everyone who can catch it. Then it dies out, because nobody is left to infect. The diseases that last in small towns are slow ones, like yaws and pinta, another skin disease in the syphilis family. The scholar Linda Newson explained this in 1993.
 
-So when the crowd diseases arrived after 1492, nobody here had been exposed to them and nobody was immune. In 1976 the historian Alfred Crosby called what followed "virgin soil epidemics." In a virgin soil epidemic, everyone in a town can be infected at the same time. Newson also reported genetic research suggesting that the immune systems of Native Americans varied less from person to person. That may have made whole towns easier to infect. Newson called it a partial explanation.
+So when the crowd diseases arrived after 1492, nobody here had been exposed to them and nobody was immune. In 1976 the historian Alfred Crosby called what followed "virgin soil epidemics." In a virgin soil epidemic, everyone in a town can be infected at the same time. Newson also reported research on genes, the instructions inside every cell that pass from parents to children. That research suggested that among Native Americans, the body's defenses against germs varied less from person to person. That may have made whole towns easier to infect. Newson called it a partial explanation.
 
 How many people lived north of Mexico in 1492 is disputed. Scholars' estimates run from about 1 million (Steward, 1949) to about 18 million (Dobyns, 1983). Others fall between, such as about 1.85 million (Ubelaker, 1976) and about 3.8 million (Denevan, 1992). How many people died after 1492 depends on which starting number is right.
 <!-- /hb-zoom -->
@@ -52,9 +52,9 @@ In the 1500s, Native people in this land began dying in large numbers of disease
 <!-- hb-zoom level="span" label="The Texas coast, 1528 and 1529" -->
 In November 1528, about 80 Spanish men came ashore in two boats on or near Galveston Island, on the Texas coast. They were survivors of a Spanish expedition, a group sent out to explore and conquer, led by a commander named Narváez. One of them, Cabeza de Vaca, later wrote an account of what happened. He wrote that the people of the island spoke two languages, and he called them the Capoque and the Han.
 
-Only 15 of the 80 Spaniards stayed alive. Five Spaniards camped on the coast were so starved that they ate one another's bodies as each one died. Their names were Sierra, Diego López, Corral, Palacios and Gonçalo Ruiz. Nobody ate the body of the last one to die. Cabeza de Vaca wrote that the islanders were in an uproar when they learned of it.
+Only 15 of the 80 Spaniards stayed alive. Five Spaniards camped on the coast grew so desperate that they ate the bodies of their own dead as each one died. Their names were Sierra, Diego López, Corral, Palacios and Gonçalo Ruiz. Nobody ate the body of the last one to die. Cabeza de Vaca wrote that the islanders were in an uproar when they learned of it.
 
-After that, a disease of the bowels killed half of the island's people, Cabeza de Vaca wrote. He did not name the disease. The islanders believed the Spaniards had caused the deaths, and they planned to kill the survivors. The Native man who had charge of Cabeza de Vaca talked them out of it. He pointed out that the Spaniards had not been able to save their own men from dying.
+After that, a disease of the bowels killed half of the island's people, Cabeza de Vaca wrote. The bowels are the long tube in the belly that food passes through after the stomach. He did not name the disease. The islanders believed the Spaniards had caused the deaths, and they planned to kill the survivors. The Native man who had charge of Cabeza de Vaca talked them out of it. He pointed out that the Spaniards had not been able to save their own men from dying.
 
 The islanders then told the Spaniards to heal the sick, and they gave them no food until they did. Cabeza de Vaca described how the island's own healers worked. A healer made small cuts in the skin over the place that hurt and sucked at the cuts. Healers also burned the skin at the painful spot on purpose, a treatment called cautery, and then blew on it. Cabeza de Vaca tried the burning on himself and wrote that it helped him. The Spaniards blessed the sick, breathed on them, and said two Christian prayers, the Lord's Prayer and the Hail Mary.
 
@@ -85,7 +85,7 @@ Harriot did not name the disease. In 1994 Peter Mires, writing in the journal *H
 
 Thomas Harriot recorded what the Carolina Algonquians believed was killing them in 1585 and 1586. Some believed the English God was killing people for the English. Others believed that more English people were still to come, to kill them and take their places. These coming English were already in the air, invisible and without bodies, and they were shooting "invisible bullets" into people at the English colonists' request. Algonquian healers sucked what they called "strings of blood" out of the sick. They said these were the strings tied to the invisible bullets.
 
-Harriot was born in about 1560 and finished his studies at Oxford University in 1580. He taught ocean navigation at Sir Walter Raleigh's house in London. He sailed with the colony that reached Roanoke Island on June 26, 1585. There he and the artist John White mapped the area.
+Harriot was born in about 1560 and finished his studies at Oxford University in 1580. He taught how to find the way across the open ocean at Sir Walter Raleigh's house in London. He sailed with the colony that reached Roanoke Island on June 26, 1585. There he and the artist John White mapped the area.
 
 Wingina was the wiroans, or chief, of the people the English lived among. Twice he was so sick that he nearly died, and he sent for the English to pray for him. Wingina and others also asked the English to pray that their enemies would die of the same disease. Harriot wrote that he told them such prayers were ungodly. When their enemies did die, they came to thank the English anyway.
 
@@ -117,7 +117,7 @@ No count of the dead exists. Estimates of the share who died rest on weak record
 
 No one has settled what the disease was. The ideas put forward include yellow fever, smallpox, plague, typhus and several other diseases. In 2010 two researchers, John Marr and John Cathey, proposed leptospirosis. Leptospirosis is an infection by bacteria that rats carry in their urine. They suggested that rats from European ships spread it into the water and soil. They called their idea a proposal for others to test, not an answer.
 
-When the Plymouth colonists arrived in 1620, the Patuxet town was empty. The colonists built Plymouth on its site. Governor William Bradford wrote that so many had died that the living could not bury the dead. He wrote that in many places in the area, skulls and bones still lay above the ground where houses had stood. Squanto, also called Tisquantum, was one of the few Patuxet survivors. Bradford wrote that Squanto told other Native people the English kept the plague buried in the ground and could send it among them whenever they wished.
+When the Plymouth colonists arrived in 1620, the Patuxet town was empty. The colonists built Plymouth on its site. Governor William Bradford wrote that so many had died that the living could not bury the dead. He wrote that in many places in the area, skulls and bones still lay above the ground where houses had stood. Squanto, also called Tisquantum, was one of the few Patuxet survivors. Bradford wrote that Squanto told other Native people the English kept the plague buried in the ground. Squanto said the English could send it among them whenever they wished.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Plymouth's first winter, 1620 and 1621" -->
@@ -154,9 +154,9 @@ The English at the trading house brought the sick wood, water and food, and buri
 <!-- hb-zoom level="span" label="Midwives and surgeons in New Amsterdam" -->
 Officials of the Dutch West India Company, a trading company, ran the colony of New Netherland. Its town of New Amsterdam stood on Manhattan, in the homeland of the Munsee Lenape. Company officials appointed and paid the town's midwives. A midwife is a woman who helps other women give birth. In 1638 the midwife Lysbert Dircksen lived in a house built for her with public money.
 
-Surgeons worked in the town too. Hans Kierstede arrived in 1638 and worked in the town for nearly 30 years. A rule of 1652 barred barbers from the ships from treating wounds on shore without permission. A rule of 1657 required surgeons to report how each wounded person had been hurt.
+Surgeons worked in the town too. Hans Kierstede arrived in 1638 and worked in the town for nearly 30 years. Under a rule of 1652, barbers from the ships could not treat wounds on shore without permission. Under a rule of 1657, surgeons had to report how each wounded person had been hurt.
 
-In 1658 the Company surgeon Jacob Hendrichsen Varvanger asked for a place to care for sick patients. Members of the colony's council agreed. They made Hilletje Wilbruch the matron, the woman in charge, and paid her 100 florins, which were Dutch coins, a year. Richard Amerman, a historian writing in 1957, called it the first hospital.
+In 1658 the Company surgeon Jacob Hendrichsen Varvanger asked for a place to care for sick patients. Members of the colony's council agreed. They made Hilletje Wilbruch the matron, the woman in charge, and paid her 100 florins, which were Dutch coins, a year. Richard Amerman, in a 1957 article on medicine in New Netherland, called it the first hospital.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="tryntje-jonas" name="Tryntje Jonas" movie="" kind="ordinary" status="verified" -->
@@ -183,7 +183,7 @@ In 1693 yellow fever struck Boston. The makers of the PBS history series *Americ
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox along the slave-raiding paths, 1696 to 1700" -->
-In 1696 smallpox broke out in Virginia and spread south and west along the trading paths. It spread with Native slave raiders and the captives they took for the colonial slave trade. By 1699 it had reached the Tunica people on the lower Mississippi River, in what is now Louisiana. It came back in waves until 1715.
+In 1696 smallpox broke out in Virginia and spread south and west along the trading paths. It spread with Native slave raiders and the captives they took for the colonial slave trade. By 1699 it had reached the Tunica people, in what is now Louisiana. It came back in waves until 1715.
 
 By one estimate, some Native nations lost more than 60 of every 100 people. A South Carolina colonist wrote that smallpox had killed so many Native people that there was "little reason to believe they will be capable of doing any harm to us for several years to come."
 <!-- /hb-zoom -->
@@ -193,7 +193,7 @@ By one estimate, some Native nations lost more than 60 of every 100 people. A So
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1700 and 1750, doctors in Boston and Charleston began protecting people against smallpox by inoculation. Inoculation meant giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. In Boston the method came first from Onesimus, an enslaved African man, who described it to the minister who enslaved him. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children. Smallpox killed about half of the Cherokee Nation.
+Between 1700 and 1750, doctors in Boston and Charleston began protecting people against smallpox by inoculation. Inoculation meant giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. In Boston the minister Cotton Mather first heard of the method from Onesimus, an African man Mather enslaved. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children. Smallpox killed about half of the Cherokee Nation.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox and inoculation in Boston, 1721" -->
@@ -203,7 +203,7 @@ The minister Cotton Mather led the Boston ministers who backed inoculation. He h
 
 By the end of the epidemic, about 287 people in Boston had been inoculated, and 6 of them died. That is about 2 in every 100. Among people who caught smallpox the ordinary way, about 14 or 15 in every 100 died.
 
-The doctor William Douglass led the attack on inoculation in print. He called inoculation a "poisonous humor." Humor was an old word for a fluid of the body. James Franklin printed attacks on inoculation in his newspaper, the *New-England Courant*. The town's selectmen, its elected officials, ordered Boylston to stop. He started again two days later.
+The doctor William Douglass led the people who opposed inoculation. He called inoculation a "poisonous humor." Humor was an old word for a fluid of the body. James Franklin printed attacks on inoculation in his newspaper, the *New-England Courant*. The town's selectmen, its elected officials, ordered Boylston to stop. He started again two days later.
 
 On November 14, 1721, someone threw a bomb through a window of Mather's house. The note that came with it ended with the words "I will inoculate you with this, with a pox on you!" The records do not name who threw it.
 <!-- /hb-zoom -->
@@ -211,7 +211,7 @@ On November 14, 1721, someone threw a bomb through a window of Mather's house. T
 <!-- hb-story:start slug="onesimus" name="Onesimus" movie="" kind="ordinary" status="verified" -->
 ### Onesimus
 
-> **Who:** An enslaved African man whose account of inoculation led to its first use in Boston.
+> **Who:** An enslaved African man who described inoculation to Cotton Mather years before Boston first tried it.
 > **When and where:** Boston, enslaved by Cotton Mather from 1706 to 1716.
 
 Onesimus told Cotton Mather how people in Africa protected themselves against smallpox. Mather later used that knowledge to back inoculation during Boston's smallpox epidemic of 1721.
@@ -222,7 +222,7 @@ In 1716 Mather wrote to the Royal Society in London, a group of leading scientis
 
 Onesimus married and had two children. Both died before they were ten. His son Onesimulus died in 1714. His daughter Katy died of tuberculosis.
 
-In 1716 Onesimus paid money toward buying another enslaved man, Obadiah, to take his place. Mather then released him, with conditions. Onesimus still had to work for Mather's household, shoveling snow and chopping wood, whenever Mather called for him. He also had to repay five pounds that Mather said he had stolen. Few records of his life after 1716 survive.
+In 1716 Onesimus paid money toward buying another enslaved man, Obadiah, to take his place. Mather then freed him, but with conditions. Onesimus still had to work for Mather's household, shoveling snow and chopping wood, whenever Mather called for him. He also had to repay five pounds that Mather said he had stolen. Few records of his life after 1716 survive.
 <!-- hb-story:end slug="onesimus" -->
 
 <!-- hb-story:start slug="zabdiel-boylston" name="Zabdiel Boylston" movie="" kind="famous" status="verified" -->
@@ -231,7 +231,7 @@ In 1716 Onesimus paid money toward buying another enslaved man, Obadiah, to take
 > **Who:** The one Boston doctor who tried inoculation in 1721, when almost all the others feared it.
 > **When and where:** Boston, 1721 and 1722. Born 1679, died 1766.
 
-On June 26, 1721, Zabdiel Boylston inoculated three people. One was his son Thomas, who was about six. The other two were people Boylston enslaved: Jack, a man of 36, and Jack's son Jackey, who was two and a half. Boylston's record does not say whether Jack agreed.
+On June 26, 1721, Zabdiel Boylston inoculated three people. One was his son Thomas, who was about six. The other two were people Boylston enslaved: Jack, a man of 36, and Jack's son Jackey, who was two and a half. By law Jack and Jackey were Boylston's property, so they could not refuse. The accounts of that day do not say whether Jack agreed.
 
 Boylston wrote down how each one's illness went. Thomas and Jack each had about "an hundred" blisters full of pus. On the ninth day Boylston gave them a medicine to make them vomit. All three recovered.
 
@@ -252,11 +252,11 @@ She came to Boston in 1719 and worked there until she died in 1761. Her gravesto
 <!-- hb-story:end slug="elizabeth-phillips" -->
 
 <!-- hb-zoom level="span" label="The throat distemper, 1735 to 1740" -->
-In May 1735 a disease began in Kingston, New Hampshire. It spread along the coast into Maine and Massachusetts. People called it the throat distemper. Doctors today identify it as diphtheria, an infection by bacteria.
+In May 1735 a disease began in Kingston, New Hampshire. It spread along the coast into Maine and Massachusetts. People called it the throat distemper, an old word for a sickness. Doctors today identify it as diphtheria, an infection by bacteria.
 
 The bacteria killed the living tissue of the throat and nose. The dead tissue formed a thick coating across the throat, until the child could no longer breathe.
 
-About 5,000 people in New England died of it by 1740, and more than three quarters of them were children. That count comes from the historian Ernest Caulfield. In the town of Hampton Falls, New Hampshire, 210 people had died by July 1736, and 160 of them were under ten. The treatments printed in the *Boston Gazette* newspaper were bloodletting, borax or honey on the throat, and drinks made from herbs. Borax is a white powder made from a mineral.
+About 5,000 people in New England died of it by 1740, and more than three quarters of them were children. That count comes from Ernest Caulfield's 1939 book on the epidemic. In the town of Hampton Falls, New Hampshire, 210 people had died by July 1736, and 160 of them were under ten. The treatments printed in the *Boston Gazette* newspaper were bloodletting, borax or honey on the throat, and drinks made from herbs. Borax is a white powder made from a mineral.
 
 In Ipswich, Massachusetts, Mark and Hephzibah Howe lost eight children in November 1736. They were Abijah (1), Mark (2), Aaron (5), Mary (7), Lucy (9), Moses (11), Love (12) and Hannah (13).
 <!-- /hb-zoom -->
@@ -264,7 +264,7 @@ In Ipswich, Massachusetts, Mark and Hephzibah Howe lost eight children in Novemb
 <!-- hb-zoom level="span" label="Smallpox among the Cherokee and Catawba, 1738 and 1739" -->
 Smallpox struck the Cherokee towns in the southern Appalachian Mountains in 1738 and 1739. Between 7,000 and 10,000 Cherokee people died, about half of the nation. About half of the Catawba Nation died too.
 
-How the disease reached them is disputed. The trader James Adair wrote in 1775 that it came into Charleston on slave ships from West Africa. Historians writing for NCpedia, a North Carolina encyclopedia, say that traders brought it, or that Cherokee warriors carried it home after fighting beside the British against the Spanish in Florida.
+How the disease reached them is disputed. The trader James Adair wrote in 1775 that it came into Charleston on slave ships from West Africa. Historians writing for NCpedia, a North Carolina encyclopedia, give two other routes. In one, traders brought it. In the other, Cherokee warriors carried it home after fighting beside the British against the Spanish in Florida.
 
 Cherokee healers treated the sick in sweat houses and then plunged them into icy streams. The NCpedia historians write that this only added to the number who died. Adair wrote that some survivors whom the disease had scarred killed themselves.
 
@@ -276,7 +276,7 @@ In Charleston, during the same epidemic, the doctor James Kilpatrick inoculated 
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-Philadelphia doctors opened a hospital for the sick poor in 1752 and a medical school in 1765. Smallpox spread through the colonies and the Native nations during two wars. In 1763 the British commander at Fort Pitt and a trader tried to spread it on purpose. In 1793 yellow fever killed about 4,000 to 5,000 people in Philadelphia, about one person in ten. In 1798 members of Congress passed, and President John Adams signed, a law that paid for sailors' medical care out of their wages.
+Philadelphia doctors opened a hospital for the sick poor in 1752 and a medical school in 1765. Smallpox spread through the colonies and the Native nations during two wars. In 1763 the British commander at Fort Pitt and a trader tried to spread it on purpose. In 1793 yellow fever killed about 4,000 to 5,000 people in Philadelphia, about one person in ten. In 1798 members of Congress passed, and President John Adams signed, a law under which federal officials took money from sailors' pay for their medical care.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="doctor-caesar" name="Caesar" movie="" kind="ordinary" status="verified" -->
@@ -291,29 +291,29 @@ White South Carolinians feared that the enslaved people who cooked their food wo
 
 The *South Carolina Gazette* newspaper printed Caesar's cure in May 1750. It was made by boiling plantain roots, horehound and goldenrod with rum, sugar, tobacco and lye made from wood ash.
 
-In 1751 the same lawmakers passed a law aimed at enslaved healers, "commonly called doctors." It barred them from giving anyone medicine without permission from white people.
+In 1751 the same lawmakers passed a law aimed at enslaved healers, "commonly called doctors." Under it, enslaved healers could not give anyone medicine without permission from white people.
 
 Caesar died in early 1754, at about 77 years old. His wife Lilly and his daughter Hannah were never freed by the lawmakers. They were still enslaved by John Norman. When Caesar died, he owned an enslaved woman himself.
 <!-- hb-story:end slug="doctor-caesar" -->
 
 <!-- hb-zoom level="span" label="Pennsylvania Hospital and the first medical school" -->
-On May 11, 1751, Dr. Thomas Bond and Benjamin Franklin founded Pennsylvania Hospital in Philadelphia. They founded it to care for "the poor, sick and insane." Franklin's petition, a written request, described people "deprived of their rational Faculties," meaning they had lost their reason. It said they could be "contained and confined" there.
+On May 11, 1751, Dr. Thomas Bond and Benjamin Franklin founded Pennsylvania Hospital in Philadelphia. They founded it to care for "the poor, sick and insane." Franklin's petition, a written request, described people "deprived of their rational Faculties," meaning they had lost their reason. It stated that they could be "contained and confined" there.
 
-The first patients came on February 6, 1752, to a house on Market Street that the hospital used until its own building was ready. The Mütter Museum, a museum of medical history in Philadelphia, gives the year as 1753. The permanent building opened in 1756. Its basement held rooms for patients with mental illness. The first floor was for men, and the second floor was for women.
+The first patients came on February 6, 1752, to a house on Market Street that the hospital used until its own building was ready. Writers for the Mütter Museum, a museum of medical history in Philadelphia, give the year as 1753. The permanent building opened in 1756. Its basement held rooms for patients with mental illness. The first floor was for men, and the second floor was for women.
 
 Older places in the colonies also housed people in need. Philadelphia's almshouse, a home for the poor, opened in 1732. A New York workhouse of 1736, a place where poor people lived and were put to work, later became Bellevue Hospital. The Dutch hospital in New Amsterdam was older than both.
 
-In 1765 Dr. John Morgan founded a medical school at the College of Philadelphia, now the University of Pennsylvania. The Mütter Museum calls it the first medical college in the colonies. Students learned at the bedsides of the hospital's patients.
+In 1765 Dr. John Morgan founded a medical school at the College of Philadelphia, now the University of Pennsylvania. The museum's writers call it the first medical college in the colonies. Students learned at the bedsides of the hospital's patients.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox as a weapon at Fort Pitt, 1763" -->
 In 1763 two British men at Fort Pitt gave two Delaware men blankets from a smallpox hospital, hoping to spread the disease. Fort Pitt was a British fort where Pittsburgh stands now. That year Delaware, or Lenape, and Shawnee and Mingo warriors surrounded the fort, during the war led by the Ottawa leader Pontiac. Smallpox had broken out among the soldiers inside.
 
-On June 24, 1763, by the usual dating, the fort's commander, Captain Simeon Ecuyer, and the trader William Trent met two Delaware men, Turtle's Heart and Mamaltee. Ecuyer and Trent gave them two blankets and a handkerchief taken from the fort's smallpox hospital. Trent wrote in his journal, "I hope it will have the desired effect." One copy of Trent's journal dates this entry May 24. Ecuyer signed the bill that charged the army for the blankets.
+On June 24, 1763, Captain Simeon Ecuyer, the fort's commander, and the trader William Trent met two Delaware men, Turtle's Heart and Mamaltee. Most accounts give that date. Ecuyer and Trent gave them two blankets and a handkerchief taken from the fort's smallpox hospital. Trent wrote in his journal, "I hope it will have the desired effect." One copy of Trent's journal dates this entry May 24. Ecuyer signed the bill that charged the army for the blankets.
 
-In July, General Jeffery Amherst, the British commander in North America, wrote to Colonel Henry Bouquet. He asked: "Could it not be contrived to send the Small Pox among those disaffected tribes of Indians?" Bouquet answered that he would "try to inocculate the Indians by means of Blankets." Amherst also wrote of trying "to extirpate this Execrable Race." Extirpate means to wipe out completely, and execrable means hateful. Ecuyer and Trent had given away the blankets in June, before these letters, and on their own.
+In July, General Jeffery Amherst, the British commander in North America, wrote to Colonel Henry Bouquet. He asked: "Could it not be contrived to send the Small Pox among those disaffected tribes of Indians?" Contrived means arranged, and disaffected means unfriendly. Bouquet answered that he would "try to inocculate the Indians by means of Blankets." Amherst also wrote of trying "to extirpate this Execrable Race." Extirpate means to wipe out completely, and execrable means hateful. Ecuyer and Trent had given away the blankets in June, before these letters, and on their own.
 
-A man named Gershom Hicks reported in 1764 that smallpox had been spreading among the Native nations, and that about 100 people died of it between the spring of 1763 and April 1764. No record can show whether the blankets caused those deaths. A month after the meeting, Turtle's Heart and Mamaltee showed no sign of smallpox.
+In 1764 a man named Gershom Hicks reported that smallpox had been spreading among the Native nations. He said about 100 people died of it between the spring of 1763 and April 1764. The historian Elizabeth Fenn writes that no one can know whether the attempt to spread smallpox worked. A month after the meeting, Turtle's Heart and Mamaltee showed no sign of smallpox.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox in the Revolution, 1775 to 1782" -->
@@ -323,21 +323,21 @@ On February 6, 1777, General George Washington ordered the Continental Army to b
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Doctors' Riot, New York, 1788" -->
-To learn how the body is built, medical students cut open dead bodies and studied the parts. This is called dissection. In New York, students dug up bodies for dissection from the Negroes Burial Ground, where Black New Yorkers buried their dead, and from the paupers' graveyard, where the poor were buried.
+To learn how the body is built, medical students cut open dead bodies and studied the parts. This is called dissection. In New York, students dug up bodies for dissection from the Negroes Burial Ground, where Black New Yorkers buried their dead. "Negro" was a word for Black people used at the time. The students also dug up bodies from the paupers' graveyard, where the poor were buried.
 
-In February 1788, free and enslaved Black New Yorkers asked the city's Common Council to stop it. Their petition described "young gentlemen in this city who call themselves students of the physic," meaning students of medicine, who were digging up "bodies of our deceased friends and relatives." The council members largely ignored the petition and did nothing to stop the digging.
+In February 1788, free and enslaved Black New Yorkers asked the city's Common Council, the group that ran the city, to stop it. Their petition described "young gentlemen in this city who call themselves students of the physic," meaning students of medicine, who were digging up "bodies of our deceased friends and relatives." The council members took no action to stop the digging.
 
-In April 1788, boys outside New York Hospital saw a human arm from the dissecting room. Crowds attacked the hospital. The mayor had a doctor and medical students taken to the city jail to protect them. About 5,000 people then gathered at the jail. Militia soldiers had orders not to fire. A rock hit the politician John Jay in the head, a brick hit General Baron von Steuben, and the militiamen opened fire. No record names an officer who gave the order. As many as 20 people were killed, among them at least 3 rioters and 3 militiamen.
+In April 1788, boys outside New York Hospital saw a human arm from the dissecting room. Crowds attacked the hospital. The mayor had a doctor and medical students taken to the city jail to protect them. About 5,000 people then gathered at the jail. Militiamen, ordinary citizens called up to serve as soldiers, had orders not to fire. A rock hit the politician John Jay in the head, a brick hit General Baron von Steuben, and the militiamen opened fire. The accounts of the riot do not name an officer who gave the order. As many as 20 people were killed, among them at least 3 rioters and 3 militiamen.
 
 In 1789 New York lawmakers banned grave robbing. The same law let judges order that the bodies of executed murderers, arsonists and burglars be dissected.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Yellow fever in Philadelphia, 1793" -->
-From August to November 1793, yellow fever killed 4,041 people in Philadelphia, by the count of the publisher Mathew Carey. Other counts run to about 5,000, which was about one person in every ten in the city. About 20,000 people left the city. Nobody in 1793 knew that mosquitoes carried the disease.
+From August to November 1793, yellow fever killed 4,041 people in Philadelphia, by the count of Mathew Carey, who wrote a book about the epidemic. Other counts run to about 5,000, which was about one person in every ten in the city. About 20,000 people left the city. Nobody in 1793 knew that mosquitoes carried the disease.
 
 Dr. Benjamin Rush treated patients by bleeding them heavily and giving them purges. A purge was a medicine that emptied the bowels. Rush's purges were made with mercury, a metal. Losing that much blood could send a weak patient into shock, which happens when too little blood is left in the body. A person in shock becomes confused, the heart beats fast, and the blood pressure drops. A French doctor, Jean Devèze, used milder treatment at the Bush Hill hospital.
 
-Mayor Matthew Clarkson issued a public order about the epidemic on September 10, 1793. From September 14, a committee of 26 citizens worked with him to run the city's response. After the elders of the African church asked, some prisoners were let out of jail on the condition that they nurse the sick at Bush Hill. Two thirds of those prisoners were Black. The records do not name the officials who let them out.
+Mayor Matthew Clarkson issued a public order about the epidemic on September 10, 1793. From September 14, a committee of 26 citizens worked with him to run the city's response. After the elders of the African church asked, some prisoners were let out of jail on the condition that they nurse the sick at Bush Hill. Two thirds of those prisoners were Black. Jones and Allen's account does not name the officials who let them out.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-rush" name="Benjamin Rush" movie="" kind="famous" status="verified" -->
@@ -359,9 +359,9 @@ At Pennsylvania Hospital, Rush moved patients with mental illness out of the bas
 > **Who:** Two Black Philadelphians who led Black volunteers to nurse the sick and bury the dead.
 > **When and where:** Philadelphia, September to November 1793. Their account was printed in 1794.
 
-Absalom Jones and Richard Allen led members of the Free African Society, a group of Black Philadelphians, in nursing the sick and burying the dead in 1793. In early September a notice in the newspapers asked "the people of colour" to help the sick. It promised that they could not catch the fever. Jones, Allen and a few others met and decided to go.
+Absalom Jones and Richard Allen led members of the Free African Society, a group of Black Philadelphians, in nursing the sick and burying the dead in 1793. In early September a notice in the newspapers asked "the people of colour" to help the sick. It stated that they could not catch the fever. Jones, Allen and a few others met to talk over how to act. The next day they asked the mayor how they could help.
 
-They carried away and buried the dead. They hired five men to help, and two of them were Allen's brothers. Taught by Rush, they bled more than 800 people. They buried several hundred poor people and strangers, and they never asked for pay.
+They carried away and buried the dead, several hundred poor people and strangers in all, and never asked for pay. Five men they hired helped them, and two of those men were Allen's brothers. Rush taught them when to bleed a patient, and they bled more than 800 people.
 
 The fever killed Black Philadelphians too. In 1792, 67 Black people were buried in the city. In 1793 the number was 305. When some Black nurses fell sick, the families they worked for put them out of their houses. Jones and Allen knew of one who died in a stable.
 

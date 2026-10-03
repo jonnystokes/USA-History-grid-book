@@ -40,15 +40,15 @@ In the 1500s, far to the south in lands ruled by the king of Spain, Spanish offi
 <!-- hb-zoom level="span" label="The piece of eight" -->
 The piece of eight was a silver coin worth 8 reales. A real was a Spanish unit of money. In English the coin was also called the Spanish dollar. Workers at Spanish mints in the Americas made it from silver dug at Potosí, in what is now Bolivia, and at Zacatecas, in Mexico. Silver was found at Potosí in 1545.
 
-Native men of the Andes, the high mountains of South America, did the digging at Potosí. In 1573 Francisco de Toledo set up a system that forced thousands of them to work in the mines. Toledo was the viceroy, the man who governed Peru for the king of Spain. His system was called the mita. Toledo took the name and the idea of turns of work from an older system used by the Inca.
+Native men of the Andes, the high mountains of South America, did the digging at Potosí. In 1573 Francisco de Toledo began forcing thousands of them to work in the mines, in turns. Toledo was the viceroy, the man who governed Peru for the king of Spain. His system was called the mita. Toledo took the name and the idea of turns of work from an older system used by the Inca.
 
 Toledo's rules covered Native men aged 18 to 50 in the highland provinces between Potosí and Cuzco. Each year about one man in seven from those villages had to go to the mines. That came to more than 11,000 men a year.
 
-The men worked in shifts, one week in the mines and then two weeks of rest. Many brought their families and carried most of their own food. They were paid a little, and most of that pay went to the tax they owed the colonial government. The work was dangerous and unhealthy. The mita also took men away from their home villages and broke up life there. No reliable count shows how many of the men died. Across the Andes, disease killed far more Native people than the mita did.
+The men worked in shifts, one week in the mines and then two weeks of rest. Many brought their families and carried most of their own food. They were paid a little, and most of that pay went to the tax they owed the colonial government. The work was dangerous and unhealthy. By sending the men away from their home villages, Toledo also broke up life there. Across the Andes, disease killed far more Native people than work in the mines did. No reliable count shows how many of the forced workers died from the work at Potosí.
 
-The piece of eight is often called the first money used around the whole world. Traders carried it from South America to Europe, and across the Pacific Ocean to Asia.
+Writers on the history of money, among them Alejandra Irigoin and Bridget Millmore, call the piece of eight the first money used around the whole world. Traders carried it from South America to Europe, and across the Pacific Ocean to Asia.
 
-What little Spanish coin there was in this land was at St. Augustine, in Florida, a garrison town, where Spanish soldiers were posted. Pedro Menéndez de Avilés founded it in September 1565 at Seloy, a village of the Timucua, in the homeland of the Timucua-speaking peoples. The Spanish soldiers there were paid from Spanish colonial funds, with the coin of a foreign empire.
+Almost none of that coin reached this land. Some did reach St. Augustine, in Florida, a town where Spanish soldiers were posted. Pedro Menéndez de Avilés founded it in September 1565 at Seloy, a Timucua village, in the homeland of the Timucua-speaking peoples. The Spanish soldiers there were paid from Spanish colonial funds, with the coin of a foreign empire.
 
 Later, Thomas Jefferson and members of Congress based the United States dollar on the piece of eight. Spanish coins stayed legal tender in the United States until February 21, 1857. Legal tender is money that the law says must be accepted to pay a debt. Americans still call a quarter "two bits." The piece of eight was divided into eight parts called bits, so two bits made a quarter of a dollar.
 <!-- /hb-zoom -->
@@ -58,7 +58,7 @@ Later, Thomas Jefferson and members of Congress based the United States dollar o
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-The English colonies were short of coins from the start. Little English coin reached them. Colonists spent the coins they did get on goods shipped in from overseas, and those coins went back across the ocean. To trade with each other, colonists paid in tobacco, corn, beaver skins and wampum. Massachusetts leaders opened a mint of their own without England's permission. In 1690 they printed paper money, the first issued by any government in the Western world.
+The English colonies were short of coins from the start. Little English coin reached them. Colonists spent the coins they did get on goods shipped in from overseas, and those coins went back across the ocean. To trade with each other, colonists paid in tobacco, corn, beaver skins and wampum. Massachusetts leaders opened a mint of their own without England's permission. In 1690 they printed paper money, the first printed by any government in Europe or the lands Europeans had settled.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Money made of goods" -->
@@ -68,42 +68,42 @@ English money counted in pence, shillings and pounds. Twelve pence made a shilli
 
 In Virginia, lawmakers set a value on tobacco so it could be used as money from the 1620s, and in 1642 they made it legal tender. People in Virginia, Maryland and North Carolina used tobacco as money through much of the colonial period. In the northern colonies, beaver pelts and corn also passed as money.
 
-New England colonists used wampum for small payments. The nations that made wampum had not used it as money before colonists came. Members of the Massachusetts General Court, the colony's lawmakers, voted on November 15, 1637, to accept wampum at 6 beads a penny for sums under 12 pence. Thirteen years later, on October 18, 1650, they set the rate at 8 white beads or 4 black beads a penny. They also made wampum legal tender for debts up to 40 shillings, but not for taxes. They canceled the law on May 22, 1661.
+New England colonists used wampum for small payments. The nations that made wampum had not used it as money before colonists came. Members of the Massachusetts General Court, the colony's lawmakers, voted on November 15, 1637, to accept wampum. The rate was 6 beads a penny, for sums under 12 pence. Thirteen years later, on October 18, 1650, they set the rate at 8 white beads or 4 black beads a penny. They also made wampum legal tender for debts up to 40 shillings, but not for taxes. They canceled the law on May 22, 1661.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The pine-tree shilling, 1652" -->
-In 1652 members of the Massachusetts General Court voted to set up a mint in Boston. They did not ask anyone in England first. By English law, only the king could make coins. In 1652 England had no king. England had fought a civil war between the king's side and the side of Parliament, England's lawmakers. Afterward the judges of a court set up by Parliament found King Charles I guilty of crimes against the country. Fifty-nine of them, Oliver Cromwell among them, signed the order for his death, and the king was beheaded in London on January 30, 1649. Workers at the Boston mint struck silver coins worth threepence, sixpence and a shilling.
+In 1652 members of the Massachusetts General Court voted to set up a mint in Boston. They did not ask anyone in England first. By English law, only the king could make coins. In 1652 England had no king. Supporters of the king had fought a civil war against supporters of Parliament, England's lawmakers. Afterward the judges of a court set up by Parliament found King Charles I guilty of making war on Parliament and on the people of England. Their sentence called him a "traitor" and a "murderer." Fifty-nine of the judges, Oliver Cromwell among them, signed the order for his death. On that order the king was beheaded in London on January 30, 1649. Workers at the Boston mint struck silver coins worth threepence, sixpence and a shilling.
 
 The mint's coins included the pine-tree shilling, named for the tree stamped on it. Workers at the mint struck pine-tree shillings from about 1667 to 1682. But nearly all of the colony's silver coins carry the date 1652.
 
-The usual explanation is that the date was a cover. Charles II became king of England in 1660. A coin dated 1652 could pass as a leftover from the years without a king. A coin with a later date would show that the men of Massachusetts were still making coins without the king's permission.
+Coin experts who write in the magazine CoinWeek and in older books on early American coins explain the date as a cover. Charles II became king of England in 1660. A coin dated 1652 could pass as a leftover from the years without a king. A coin with a later date would show that the men of Massachusetts were still making coins without the king's permission.
 
-The mint closed in 1682. A charter is a legal paper that gives a colony or a company the right to exist and states what it may do. In 1684 officials acting for King Charles II canceled the Massachusetts charter, which had given the colony the right to govern itself. The illegal mint was one of their complaints against the colony.
+The mint closed in 1682. A charter is a legal paper that gives a colony or a company the right to exist and states what it may do. In 1684 officials acting for King Charles II canceled the Massachusetts charter. The illegal mint was one of their complaints against the colony.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-hull" name="John Hull" movie="" kind="famous" status="verified" -->
 ### John Hull
 
 > **Who:** A Boston silversmith who ran the colony's mint against English law and struck the pine-tree shilling.
-> **When and where:** Boston, Massachusetts. Mintmaster from 1652 to 1682. Lived 1624 to 1683.
+> **When and where:** Boston, Massachusetts. Mintmaster from 1652 until the mint closed in 1682. Lived 1624 to 1683.
 
-John Hull ran the Massachusetts mint for thirty years, from 1652 to 1682, without permission from England. He was born on December 18, 1624, in Market Harborough, England, the son of a blacksmith. He came to Boston with his parents in 1635, when he was 11. He trained as a silversmith, a craftsman who makes things out of silver.
+John Hull ran the Massachusetts mint from 1652 until it closed in 1682, without permission from England. He was born on December 18, 1624, in Market Harborough, England, the son of a blacksmith. He came to Boston with his parents in 1635, when he was 11. He trained as a silversmith, a craftsman who makes things out of silver.
 
 In 1652 members of the Massachusetts General Court named him mintmaster, the man in charge of the mint. He was 27. His appointment was dated May 27, 1652. Robert Sanderson worked with him as his partner. Hull's contract paid him a share of every batch of coins he struck.
 
 Hull's share of the coins made him one of the richest men in New England. He later became the colony's treasurer, the official in charge of its money.
 
-A story says Hull gave his daughter Hannah her weight in pine-tree shillings as a wedding gift. The story is a legend. The writer Nathaniel Hawthorne retold it in his book *Grandfather's Chair* and added details of his own.
+A story says Hull gave his daughter Hannah her weight in pine-tree shillings as her dowry. A dowry is money or goods that a bride's family gives when she marries. The story is a legend. The writer Nathaniel Hawthorne retold it in his book *Grandfather's Chair* and added details of his own.
 <!-- hb-story:end slug="john-hull" -->
 
 <!-- hb-zoom level="span" label="1690: the first government paper money" -->
-In 1690, soldiers from Massachusetts attacked the French city of Quebec, in Canada, during King William's War. The attack failed. When the soldiers came home, the colony did not have enough coins to pay them. According to accounts from the time, the troops were close to mutiny, which means rising up against their officers.
+In 1690, soldiers from Massachusetts attacked the French city of Quebec, in Canada, during King William's War. The attack failed. When the soldiers came home, the colony's treasury held too few coins to pay them. According to accounts from the time, the troops were close to mutiny, which means rising up against their officers.
 
 Massachusetts lawmakers decided to pay the soldiers in paper. They began voting on it in December 1690. The first bills totaled 40,000 pounds. The paper bills were called bills of credit. Each bill stated that the colony's treasurer would accept it "in all Public payments." It also stated that the bill could later be exchanged for coins.
 
-These bills were the first paper money issued by any government in the Western world. The Western world means Europe and the lands that Europeans settled. China had used paper money centuries earlier.
+These bills were the first paper money printed by any government in the Western world. The Western world means Europe and the lands that Europeans settled. China had used paper money centuries earlier.
 
-People took the bills and passed them from hand to hand. By 1714 Massachusetts lawmakers had issued 240,000 pounds in paper money. By 1718 lawmakers in the other New England colonies were issuing their own.
+People took the bills and passed them from hand to hand. By 1714 Massachusetts lawmakers had put out 240,000 pounds in paper money. By 1718 lawmakers in the other New England colonies were printing their own.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -111,7 +111,7 @@ People took the bills and passed them from hand to hand. By 1714 Massachusetts l
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the early 1700s lawmakers in more colonies began printing paper money, and in time lawmakers in every colony printed their own. Some of that paper kept its value and some lost it, depending on how much the lawmakers printed. Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take what had been pledged.
+In the early 1700s lawmakers in more colonies began printing paper money, and in time lawmakers in every colony printed their own. Some of that paper kept its value and some lost it, depending on how much the lawmakers printed. Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take the land or the enslaved people who had been pledged.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Paper that held its value and paper that lost it" -->
@@ -123,17 +123,17 @@ In Virginia, people began to pass paper receipts for tobacco as money. Virginia 
 <!-- hb-story:start slug="benjamin-franklin-money" name="Benjamin Franklin" movie="Benjamin Franklin (2022)" kind="famous" status="verified" -->
 ### Benjamin Franklin
 
-> **Who:** A Pennsylvania printer who argued for paper money, then printed it with leaf patterns that were almost impossible for counterfeiters to copy.
+> **Who:** A Pennsylvania printer who argued for paper money, then printed it with leaf patterns that were almost impossible for counterfeiters, people who make fake money, to copy.
 > **When and where:** Pennsylvania, from 1729.
 > **Movie:** *Benjamin Franklin* (2022), a documentary by Ken Burns, shown on PBS. It is about his whole life, not only his work on money.
 
-Benjamin Franklin printed paper money for three colonies and made it hard to fake. In 1729, when he was 23, he published a pamphlet, a short printed booklet. Its title was *A Modest Enquiry into the Nature and Necessity of a Paper-Currency*, which means a modest look at what paper money is and why it is needed. In it he argued that Pennsylvania needed more paper money. Partly because of the pamphlet, his print shop won the contract to print Pennsylvania's bills. His firm printed money for Pennsylvania, New Jersey and Delaware.
+Benjamin Franklin printed paper money for three colonies and made it hard to fake. In 1729, when he was 23, he published a pamphlet, a short printed booklet. Its title was *A Modest Enquiry into the Nature and Necessity of a Paper-Currency*, which means a modest look at what paper money is and why it is needed. In it he argued that Pennsylvania needed more paper money. Partly because of the pamphlet, Franklin won the contract to print Pennsylvania's bills in his shop. His firm printed money for Pennsylvania, New Jersey and Delaware.
 
-A counterfeiter is a person who makes fake money. To stop counterfeiters, Franklin printed the shapes of real leaves on the bills. Every leaf has its own pattern of veins, and it was almost impossible for a counterfeiter to carve that pattern into a printing plate by hand. The method is called nature printing. Franklin most likely worked it out from leaf prints he made with his friend Joseph Breintnall. Researchers think the printing plates were cast in metal from plaster molds of real leaves.
+A counterfeiter is a person who makes fake money. To stop counterfeiters, Franklin printed the shapes of real leaves on the bills. Every leaf has its own pattern of veins. A counterfeiter could almost never carve that pattern into a printing plate by hand. The method is called nature printing. Franklin almost certainly worked it out from leaf prints he made with his friend Joseph Breintnall. The printing plates were probably cast in metal from plaster molds of real leaves.
 
 In 2023 scientists at the University of Notre Dame studied 600 notes printed by Franklin's firm. They found the leaf prints. They also found tiny shiny flakes of a mineral called mica in the paper, and colored fibers mixed into it. Printers kept putting leaf prints like Franklin's on colonial money into the Revolution.
 
-Colonial bills carried the words "To Counterfeit is Death." Counterfeiting was a crime punished by death.
+Colonial bills carried the words "To Counterfeit is Death." Under colonial laws, a court could sentence a counterfeiter to death.
 <!-- hb-story:end slug="benjamin-franklin-money" -->
 
 <!-- hb-zoom level="span" label="Paper money lent against land and people" -->
@@ -141,7 +141,7 @@ In colonial South Carolina, enslavers used the people they enslaved as security 
 
 South Carolina's colonial lawmakers began printing paper money in 1703. At first, 1.5 South Carolina pounds were worth one English pound. By the late 1720s it took about 7 South Carolina pounds to equal one English pound.
 
-With no banks, people borrowed through private agreements called mortgages and bonds. A bond was a written promise to pay back a loan. A mortgage is a loan in which the borrower pledges property as security. If the borrower does not pay, the lender can take that property. A mortgage could be on land. It could also be on movable property, called chattel. In these loan papers, enslavers and lenders listed enslaved people as chattel.
+With no banks, people borrowed through private agreements called mortgages and bonds. A bond was a written promise to pay back a loan. A mortgage is a loan in which the borrower pledges property as security. If the borrower does not pay, the lender can take that property. A mortgage could be on land. It could also be on movable property, called chattel. In these loan papers, enslavers and lenders listed enslaved people as chattel. So when an enslaver did not pay, the lender could take the people he had pledged.
 
 Nic Butler of the Charleston County Public Library described in 2024 how these loans worked. He wrote: "A slave owner could mortgage their human chattel to a slave broker to secure credit used to purchase more slaves, then use their collective labor to satisfy the debt." A slave broker was a dealer in enslaved people. The enslaver pledged the people he enslaved to get a loan. He used the loan to buy more people. Then he paid off the debt with what the people's forced work earned.
 
@@ -153,19 +153,19 @@ Hundreds of colonial land mortgages survive in the Charleston County Register of
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-Members of the British Parliament banned new paper money as legal tender in New England in 1751 and in all thirteen colonies in 1764. Colonists added the ban to their complaints against Britain. During the Revolution, members of the Continental Congress paid for the war with paper money, and by 1781 that paper was close to worthless. After the war, Thomas Jefferson, Alexander Hamilton and members of Congress planned a new money system. Members of Congress chose a dollar divided into tenths and hundredths in 1785, set up a national bank in 1791 and created a mint in 1792.
+Members of the British Parliament banned new paper money as legal tender in New England in 1751 and in all thirteen colonies in 1764. Colonists added the ban to their complaints against Britain. During the Revolution, members of the Continental Congress paid for the war with paper money, and by 1781 that paper was close to worthless. After the war, Thomas Jefferson, Alexander Hamilton and members of Congress planned a new money system. Members of Congress chose a dollar divided into tenths and hundredths in 1785. They set up a national bank in 1791 and created a mint in 1792.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Currency Acts" -->
-Parliament is the lawmaking body of Britain. In the Currency Act of 1751, its members barred Massachusetts Bay, Rhode Island, Connecticut and New Hampshire from issuing new paper bills as legal tender. They passed the act because New England's paper money had lost so much of its value.
+Parliament is the lawmaking body of Britain. In the Currency Act of 1751, its members barred Massachusetts Bay, Rhode Island, Connecticut and New Hampshire from printing new paper bills as legal tender. They passed the act because New England's paper money had lost so much of its value.
 
-In the Currency Act of April 19, 1764, members of Parliament extended the ban to all thirteen colonies. Colonists were already short of coins. Without new legal-tender paper, they had even less money to pay debts and buy goods. Colonists listed the Currency Acts among their complaints against Britain.
+Thirteen years later, on April 19, 1764, members of Parliament passed a second Currency Act. It extended the ban to all thirteen colonies. Colonists were already short of coins. Without new legal-tender paper, they had even less money to pay debts and buy goods. Colonists listed the Currency Acts among their complaints against Britain.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Not worth a Continental" -->
-The Continental Congress was the group of men the colonies sent to lead the Revolution. Its members had no power to tax. From June 1775 its members paid for the war by printing paper money, called Continental currency. In all, they issued $241,552,780 in Continental bills.
+The Continental Congress was the group of men the colonies sent to lead the Revolution. Its members had no power to tax. From June 1775 its members paid for the war by printing paper money, called Continental currency. In all, they put out $241,552,780 in Continental bills.
 
-People working for the British side printed fake Continental bills on purpose, so that the real bills would lose their value faster. Most of this faking was done in New York City, which the British army held for most of the war. On April 14, 1777, an advertisement in the *New York Gazette* asked people going into the other colonies to take fake bills with them. In January 1780 the British commander, General Henry Clinton, wrote about the plan in a letter to Lord George Germain, the official in London in charge of the American colonies. The historian Stuart Hatfield calls that letter the clearest sign that British leaders approved the plan.
+People working for the British side printed fake Continental bills on purpose, so that the real bills would lose their value faster. Most of this faking was done in New York City, which the British army held for most of the war. On April 14, 1777, an advertisement in the *New York Gazette* asked people going into the other colonies to take fake bills with them. In January 1780 General Henry Clinton, the British commander, wrote about the plan in a letter. It went to Lord George Germain, the official in London in charge of the American colonies. Stuart Hatfield, who wrote about the British faking of Continental bills in the *Journal of the American Revolution* in 2015, calls that letter the clearest sign that British leaders approved the plan.
 
 In Philadelphia, one silver dollar was worth about 4 paper dollars at the end of 1777. At the end of 1778 it was worth about 8. By 1781 a silver dollar was worth about 100 paper dollars, and people stopped using the paper. In North Carolina the rate reached 210 paper dollars to one silver dollar.
 
@@ -187,7 +187,7 @@ In 1784 Thomas Jefferson wrote notes on what the new nation's money should be. H
 
 On July 6, 1785, members of Congress voted "that the money unit of the United States of America shall be one dollar." They also voted that the coins should "increase in decimal ratio," which means counting up by tens. With that vote, the United States became the first nation whose coins were fully based on tens.
 
-In the Coinage Act of April 2, 1792, members of Congress set up the United States Mint in Philadelphia. The Mint's building was the first building the national government put up under the Constitution. The act defined the dollar as the unit of money. In it, members of Congress also wrote the decimal system of dollars, dimes, cents and mills into law. A mill is one tenth of a cent.
+Members of Congress set up the United States Mint in Philadelphia with the Coinage Act of April 2, 1792. The Mint's building was the first building the national government put up under the Constitution. The act defined the dollar as the unit of money. Under the act, the decimal system of dollars, dimes, cents and mills became law. A dime is one tenth of a dollar, and a mill is one tenth of a cent.
 
 The act listed coins in three metals: gold coins, including a ten-dollar coin called the eagle, silver coins from the dollar down to the half-dime, and copper coins, the cent and the half-cent.
 <!-- /hb-zoom -->
@@ -199,12 +199,12 @@ The act listed coins in three metals: gold coins, including a ten-dollar coin ca
 > **When and where:** Secretary of the Treasury, 1789 to 1795. Lived 1757 to 1804.
 > **Movie:** *Alexander Hamilton* (2007), a documentary in the PBS series *American Experience*.
 
-Alexander Hamilton planned the national bank and the Mint in reports he wrote for Congress. In 1789 he was appointed the first Secretary of the Treasury, the head of the government department in charge of money. He served until 1795.
+Alexander Hamilton planned the national bank and the Mint in reports he wrote for Congress. On September 11, 1789, President George Washington chose him to be the first Secretary of the Treasury, the head of the government department in charge of money. He served until 1795.
 
-In December 1790 Hamilton sent Congress his *Report on a National Bank*. He proposed a bank that would hold the government's money and issue banknotes that people could trust. A banknote is paper money printed by a bank.
+In December 1790 Hamilton sent Congress his *Report on a National Bank*. He proposed a bank that would hold the government's money and put out banknotes that people could trust. A banknote is paper money printed by a bank.
 
-In January 1791 Hamilton sent Congress his *Report on the Establishment of a Mint*. In it he defined the dollar in both silver and gold, with 15 ounces of silver worth 1 ounce of gold. Members of Congress created the Mint the next year.
+Lawmakers in Congress then passed a bill to charter the First Bank of the United States, in Philadelphia, for twenty years. A charter is a legal paper that allows a company to exist and states what it may do. Thomas Jefferson and James Madison argued that the Constitution did not give Congress the power to create a bank. In the House, Madison asked whether starting a bank was "among the powers" the Constitution gave to Congress. President Washington asked Hamilton to answer the objections, so that he would have "the arguments for and against the measure." Then Washington signed the bill, on February 25, 1791. Twenty years later, in 1811, a new charter lost by one vote in each house of Congress.
 
-Members of Congress also passed a bill to charter the First Bank of the United States, in Philadelphia, for twenty years. A charter is a legal paper that allows a company to exist and states what it may do. Thomas Jefferson and James Madison argued that the Constitution did not give Congress the power to create a bank. In the House, Madison asked whether starting a bank was "among the powers" the Constitution gave to Congress. President George Washington asked Hamilton to answer the objections, so that he would have "the arguments for and against the measure." Then Washington signed the bill, on February 25, 1791. In 1811 members of Congress voted down a new charter by one vote in each house.
+In January 1791 Hamilton sent Congress his *Report on the Establishment of a Mint*. In it he defined the dollar in both silver and gold, with 15 ounces of silver worth 1 ounce of gold. Members of Congress built the Coinage Act of 1792 on his plan and set up the Mint under it.
 <!-- hb-story:end slug="alexander-hamilton-money" -->
 <!-- hb-time:end id="1750-1800" -->

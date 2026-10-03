@@ -294,3 +294,4 @@ will be worded differently, which is exactly why a search will not find it.
 - **Step 7 sweeps (from step 6):** remove every 'In plain words' (fourth wall) book-wide; 'Chinaman' in the 1903 drugs-alcohol quote is a slur (#35: not printed); Boylston's enslaved patients: say they could not refuse (rule 1).
 - **music part 3 (T-594):** the Kennedy Center closure passage gives a September 30, 2026 date that has now passed. Step 7: refresh to what happened, with the date.
 - **Chavez (#46):** rights-movements part 3 and food-farming part 3 must add the March 2026 accounts, credited, as work-workers now has them (copy the T-601 PATCH from research-work-workers.md).
+- **landmarks DC emancipation count (T-606):** the Senate counts 2,989 freed; other sources about 3,100; prose keeps 3,100. Per #4/#45 the prose should say the counts differ and name both. Step 7 polish.

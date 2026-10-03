@@ -16,13 +16,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 New man-made materials went into the things Americans wore and handled every day in the first half of the 1900s. Leo Baekeland made Bakelite, a hard plastic, in 1907. Chemists at the DuPont company made nylon in 1935, and it went on sale as women's stockings in 1939. In the 1920s many women cut their hair short and wore shorter, looser dresses. Black women built companies that sold hair products to Black customers, and Madam C. J. Walker and Annie Malone each grew rich from that work.
 
-Government officials also used clothes and hair to control people. In 1902 the U.S. commissioner of Indian affairs told reservation officials to make Native men cut their hair. Reservations were lands the government had set aside for Native nations. In 1942 officials in Washington limited how much cloth a dress or a suit could use. In June 1943, servicemen in Los Angeles beat Mexican American young men and tore off their zoot suits, outfits with very wide pants and long coats. Police officers then arrested many of the bloodied young men.
+Government officials also used clothes and hair to control people. In 1902 the U.S. commissioner of Indian affairs, the head of the federal office for Native affairs, told reservation officials to make Native men cut their hair. Reservations were lands the government had set aside for Native nations. In 1942 officials in Washington limited how much cloth a dress or a suit could use. In June 1943, servicemen in Los Angeles beat Mexican American young men and tore off their zoot suits, outfits with very wide pants and long coats. Police officers then arrested many of the bloodied young men.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The order to cut Native men's hair, 1902" -->
-On January 11, 1902, William A. Jones, the U.S. commissioner of Indian affairs, sent a letter to the superintendents who ran the federal reservations and agencies. He told them to make Native men cut their hair. He wrote: "The wearing of long hair by the male population of your agency is not in keeping with the advancement they are making, or will soon be expected to make, in civilization." He called short hair "a great step in advance."
+William A. Jones was the U.S. commissioner of Indian affairs, the head of the federal office for Native affairs. On January 11, 1902, he sent a letter to the superintendents, the officials who ran the federal reservations and the offices on them. In it he told them to make Native men cut their hair and wrote: "The wearing of long hair by the male population of your agency is not in keeping with the advancement they are making, or will soon be expected to make, in civilization." He called short hair "a great step in advance."
 
-Jones wrote that "Indian costume and blanket" should be discouraged, and that "Indian dances and so-called Indian feasts should be prohibited." So by "civilization" he meant living without Native clothes, Native dances and Native ways. He claimed that the paint Native people wore caused "the majority of blindness among the Indians of the United States." He told the superintendents they could force men to obey by holding back their rations and their jobs. Rations were the food and supplies that officials handed out on reservations. Each superintendent had to report his progress by June 30, 1902.
+Jones wrote that "Indian costume and blanket" should be discouraged, and that "Indian dances and so-called Indian feasts should be prohibited." He claimed that the paint Native people wore caused "the majority of blindness among the Indians of the United States." He told the superintendents they could force men to obey by holding back their rations and their jobs. Rations were the food and supplies that officials handed out on reservations. Each superintendent had to report his progress by June 30, 1902.
 
 Charles Burton was the superintendent for the Hopi and the Navajo. The historian Tisa Wenger writes that he reportedly used "whips, guns, and sheep shears" to enforce the order. The surviving accounts do not say how many men were forced to cut their hair.
 
@@ -30,7 +30,7 @@ The letter drew an outcry, and writers at *Harper's Weekly* criticized it in Feb
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Shirtwaists, short hair and short skirts" -->
-The shirtwaist, the blouse cut like a man's shirt, stayed the everyday top for working women in the early 1900s. Young immigrant women sewed shirtwaists in New York factories. The Triangle Waist Company made them on the top floors of a building in New York. On March 25, 1911, a fire there killed 146 workers. Most of them were young immigrant women, and some were only 14. A stairwell door on the ninth floor was kept locked, and dozens of workers jumped from the windows. The owners, Max Blanck and Isaac Harris, were tried for manslaughter, a killing the law treats as less serious than murder. The jury found them not guilty on December 27, 1911.
+The shirtwaist, the blouse cut like a man's shirt, stayed the everyday top for working women in the early 1900s. Young immigrant women sewed shirtwaists in New York factories. The Triangle Waist Company made them on the top floors of a building in New York. On March 25, 1911, a fire there killed 146 workers. Most of them were young immigrant women, and some were only 14. A stairwell door on the ninth floor was locked, and dozens of workers jumped from the windows. The owners, Max Blanck and Isaac Harris, were tried for manslaughter, a killing the law treats as less serious than murder. The jury found them not guilty on December 27, 1911, because the prosecutors could not prove that the owners knew the doors were locked.
 
 In the 1920s many women cut their hair into a short style called a bob. Dresses hung straight from the shoulders, with the waistline low on the hips. This slim, straight shape is often called the flapper look. Hemlines, the bottom edges of skirts, rose until 1926 and then began to fall.
 
@@ -40,7 +40,7 @@ Many women gave up stiff, formal layers for lighter, looser clothes. With new fa
 <!-- hb-zoom level="span" label="Hair care built by Black women" -->
 Annie Turnbo was born on August 9, 1877, in Metropolis, Illinois. Her parents had been enslaved in Kentucky. She made a hair product she called Wonderful Hair Grower and sold it door to door. In 1902 she moved to St. Louis and opened a shop. She later named her company Poro.
 
-In 1918 she opened Poro College in St. Louis. It was a building that held a factory, a store, a dormitory, a gym, a chapel and an auditorium. Nearly 200 people worked there. About 75,000 women, in several parts of the world, trained in her Poro system. She later became known as Annie Malone. In 1924 she paid nearly $40,000 in taxes.
+In 1918 she opened Poro College in St. Louis. It was a building that held a factory, a store, rooms where students slept, a gym, a chapel and an auditorium. Nearly 200 people worked there. About 75,000 women, in several parts of the world, trained in her Poro system. She later became known as Annie Malone. In 1924 she paid nearly $40,000 in taxes.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="madam-cj-walker" name="Madam C. J. Walker" movie="Two Dollars and a Dream (1987)" kind="famous" status="verified" -->
@@ -50,9 +50,9 @@ In 1918 she opened Poro College in St. Louis. It was a building that held a fact
 > **When and where:** St. Louis, Denver and Indianapolis, 1889 to 1919.
 > **Movie:** *Two Dollars and a Dream* (1987), a documentary about her life by Stanley Nelson.
 
-Madam C. J. Walker built a company that made hair products for Black women. She trained thousands of women to sell them and to do hair. She was born Sarah Breedlove on December 23, 1867, in Delta, Louisiana. Her parents had been enslaved.
+Madam C. J. Walker built a company that made hair products for Black women. She trained thousands of women to sell them. She was born Sarah Breedlove on December 23, 1867, in Delta, Louisiana. Her parents had been enslaved.
 
-Her parents died when she was 7, and she married at 14. In 1889 she moved to St. Louis, where she worked as a laundress and a cook. Her hair began to fall out. A skin disease, harsh hair products, poor food and a home without running water all played a part. In 1904 she began using Annie Turnbo's hair product, and she became one of Turnbo's sales agents in St. Louis.
+Her parents died when she was 7, and she married at 14. In 1889 she moved to St. Louis, where she washed clothes for pay and worked as a cook. Her hair began to fall out. A skin disease, harsh hair products, poor food and a home without running water all played a part. In 1904 she began using Annie Turnbo's hair product, and she became one of Turnbo's sales agents in St. Louis.
 
 In July 1905 she moved to Denver and began selling her own product, "Madam Walker's Wonderful Hair Grower." She married Charles Joseph Walker in 1906 and took his name. In 1910 she moved her company to Indianapolis and built a factory there.
 
@@ -94,19 +94,19 @@ Ann Lowe made gowns for Jacqueline Kennedy, the actress Olivia de Havilland and 
 
 Her mother, Jane, and her grandmother, Georgia, made dresses for well-known families in Montgomery, and Ann learned the trade from them. Her mother died in 1914, when Ann was 16, and Ann took over the business.
 
-In 1917 she went to the S. T. Taylor Design School in New York. School officials made her sit in a classroom by herself, apart from the white students. She was ready to graduate after six months. She then made gowns in Tampa, Florida, and opened her own dress shop there in 1920.
+In 1917 she went to the S. T. Taylor Design School in New York. She was taught in a classroom by herself, apart from the white students. The accounts of her life do not name who ordered it. She was ready to graduate after six months. She then made gowns in Tampa, Florida, and opened her own dress shop there in 1920.
 
 In 1928 she moved to New York with $20,000. For years she made gowns to order for stores such as Henri Bendel, Neiman Marcus and Saks Fifth Avenue. The actress Olivia de Havilland wore a gown Lowe made when she accepted her Academy Award in 1946. The credit for that dress went to the name "Sonia Rosenberg," not to Lowe. The record does not say who gave that credit.
 
-In 2023 the Winterthur Museum showed 40 of her gowns. The museum's description of the show calls her work part of "a legacy of Black women's knowledge and skills that began as enslaved labor."
+In 2023 the Winterthur Museum showed 40 of her gowns. The museum's description of the show describes her work as part of "a legacy of Black women's knowledge and skills that began as enslaved labor."
 <!-- hb-story:end slug="ann-lowe" -->
 
 <!-- hb-zoom level="span" label="Cloth rules in World War II, 1942 to 1946" -->
-On April 8, 1942, officials of the War Production Board issued General Limitation Order L-85. The War Production Board was the federal agency whose officials controlled materials during the war. Its chairman was Donald M. Nelson. The order specified how long and how wide women's coats, dresses, suits and skirts could be.
+On April 8, 1942, officials of the War Production Board issued General Limitation Order L-85. The War Production Board was the federal agency whose officials controlled materials during the war. Its chairman was Donald M. Nelson. The order set how long and how wide women's coats, dresses, suits and skirts could be.
 
-The order banned hoods, capes and scarves attached to coats. It banned belts and hems more than 2 inches wide, cuffs on long jacket sleeves and on slacks, and pleats, tucks or gathers all over a garment. Wedding gowns, dresses for pregnant women, children's clothes, burial gowns and religious robes did not fall under the rules. The rules lasted until 1946.
+The order banned hoods, capes and scarves attached to coats, and belts and hems more than 2 inches wide. A hem is the folded-up bottom edge of a piece of clothing. It also banned cuffs, turned-back bands of cloth, on long jacket sleeves and on slacks, which are loose pants. It banned pleats, tucks or gathers, which are folds or bunches of extra cloth, all over a garment. Wedding gowns, dresses for pregnant women, children's clothes, burial gowns and religious robes did not fall under the rules. The rules lasted until 1946.
 
-On December 27, 1941, Stanley Marcus, a co-owner of the Neiman-Marcus department stores, was asked to head the board's section for women's and children's clothing. Makers and stores that broke the rules could be fined or jailed. In April 1942 the board's officials also limited the elastic used in girdles and bras. Nylon and rubber went to the military.
+On December 27, 1941, Stanley Marcus, a co-owner of the Neiman-Marcus department stores, was asked to head the board's section for women's and children's clothing. Makers and stores that broke the rules could be fined or jailed. In April 1942 the board's officials also limited the elastic used in bras and in girdles, tight underwear that shaped the waist and hips. Nylon and rubber went to the military.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The zoot suit attacks in Los Angeles, June 1943" -->
@@ -118,7 +118,7 @@ More than 150 people were injured. Los Angeles police officers stood by while th
 
 On June 8, 1943, Navy and Marine Corps commanders ordered their men to stay out of Los Angeles, and the attacks stopped. Members of the Los Angeles City Council voted for a resolution, a statement of what they wanted, to make wearing a zoot suit in the city a crime. No such law was ever passed.
 
-Governor Earl Warren of California set up a committee to study the attacks. Its members reported that most of the people attacked were Mexican Americans or Black people. They found that racism was a main cause of the attacks.
+Governor Earl Warren of California chose a committee to study the attacks. Its members reported that most of the people attacked were Mexican Americans or Black people. On the cause of the attacks, they wrote that "the existence of race prejudice cannot be ignored." Race prejudice means hating or looking down on people because of their race.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 

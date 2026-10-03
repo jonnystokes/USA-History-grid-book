@@ -232,6 +232,19 @@ How the prose can say it: tell it unnamed, from the order and the later portrait
 - Wikipedia "Continental Association" (fetched 2026-10-01): adopted by the First Continental Congress "on October 20, 1774"; "opened with a ban on British imports that would begin December 1, 1774." Earlier non-importation during the Stamp Act crisis of 1765 and after the Townshend Acts (1767), the Virginia Association of 1769 a model. Search summary (American Revolution Institute PDF): New York merchants' non-importation agreement of October 31, 1765 against the Stamp Act; ushistory.org (fetched): "Such agreements appeared as early as 1766", Boston 1768, "in 1774, the first Continental Congress ... would pass The Association, a colony-wide prohibition against any trade with Great Britain."
 - White House history archive, "On this date in White House History, April 16" (https://georgewbush-whitehouse.archives.gov/history/thisday/0416.html , fetched 2026-10-01): April 16, 1789, "President George Washington leaves his home at Mount Vernon to travel to New York for his inauguration".
 
+### PATCH 2026-10-03 (T-618): era 02, the John White painting is not tied to the Secotan
+- Encyclopedia Virginia, "The manner of their attire" (https://encyclopediavirginia.org/686hpr-38bff2f9a82e162/ , fetched 2026-10-03): caption "The manner of their attire and painting them selves when they goe to their generall huntings, or at theire Solemne feasts." The page calls the man "a single Indian weroance, or chief" and "the Algonquian chief". It names no nation (not Secotan, Roanoac or Pomeiooc). Prose and span label now say "an Algonquian leader".
+
+### PATCH 2026-10-03 (T-618): era 03, "sad" colors and the word Puritan
+- Wikipedia, "Sadd colors" (https://en.wikipedia.org/wiki/Sadd_colors , fetched 2026-10-03): "sadd"/"sad" "carried the meaning of 'seriousness' rather than 'sorrowfulness'"; black "was reserved for community elders and for highly formal occasions such as when having one's portrait painted."
+- Wikipedia, "Puritans" (https://en.wikipedia.org/wiki/Puritans , fetched 2026-10-03): "The Puritans were English Protestants ... in the 16th and 17th centuries who sought to rid the Church of England of what they considered to be Roman Catholic practices, maintaining that the Church of England had not been fully reformed and should become more Protestant."
+
+### PATCH 2026-10-03 (T-618): era 03, King Philip's War deaths and Metacom's killing
+- Copied from `research-native-nations.md` line 75 (sources there: Britannica "King Philip's War" and "Metacom"; EBSCO "Metacom's War"; World History Encyclopedia; Connecticut History): about 9,000 people died; "estimates put Native deaths at roughly half the Native population of New England"; Metacom "was shot dead at Mount Hope on August 12, 1676 by a Native man serving with colonial forces".
+
+### PATCH 2026-10-03 (T-618): era 05, wearing homespun as a political sign
+- OpenStax, *U.S. History* (P. Scott Corbett and others), "The Townshend Acts and Colonial Protest", via Lumen Learning (https://courses.lumenlearning.com/ushistory1/chapter/the-townshend-acts-and-colonial-protest/ , fetched 2026-10-03): in the 1768 to 1769 boycott "the very clothes you wore indicated whether you were a defender of liberty in homespun or a protector of parliamentary rights in superfine British attire." "Women resumed spinning bees." A verse urged women to "Wear none but your own country linnen."
+
 ## Bank check, eras 01 to 05 (T-272a, 2026-09-28)
 
 ### PATCH 2026-09-28 (T-272a): land where the era 03 stories happen
@@ -487,6 +500,20 @@ How the prose can say it: tell the attacks unnamed, with the counts. Round 2 may
 - Seed "the postwar New Look" (Christian Dior, Paris, February 1947): not researched in this pass. GAP for round 2 (T-272c may pick it up if it reaches into era 09).
 - Men's L-85 rules, the Victory suit: not confirmed.
 - Japanese American incarceration and clothing: not researched.
+
+### PATCH 2026-10-03 (T-618): era 06, how Northup was taken (what the sources say, and do not say)
+- Copied from `research-slavery-freedom.md` PATCH 2026-09-29 (T-313) (Wikipedia "Solomon Northup"; DocSouth summary and full text of *Twelve Years a Slave*): Merrill Brown and Abram Hamilton offered Northup work with a circus and took him to Washington, D.C., in 1841. They gave him a drink that left him "insensible." He woke "alone, in utter darkness, and in chains." He was held in Williams's slave pen, the Yellow House, close to the U.S. Capitol. The slave trader James H. Burch beat him with a paddle and a cat-o'-nine-tails for saying he was free. In New Orleans Burch's partner Theophilus Freeman sold him, under the name Platt, to William Prince Ford.
+- No source in either bank says that Brown and Hamilton themselves sold him. The prose says only that they drugged him (T-618 dispatch: write only what a source supports).
+
+### PATCH 2026-10-03 (T-618): era 06, the frock coat
+- Wikipedia "Frock coat" (https://en.wikipedia.org/wiki/Frock_coat , fetched 2026-10-03): "a formal men's coat characterised by a knee-length skirt cut all around the base just above the knee, popular during the Victorian and Edwardian periods (1830s-1910s)."
+
+### PATCH 2026-10-03 (T-618): era 07, Carlisle's purpose (copied from `research-education.md`, lines 738 and 750)
+- Pratt, 1892, to the National Conference of Charities and Corrections, Denver: "Kill the Indian in him and save the man."
+- Presidential Proclamation 10870 (December 2024, Federal Register 89:239): the federal government aimed to assimilate Native children "by stripping them of their languages, religions, and cultures"; the schools "often used physical abuse, compulsory labor, and corporal punishment."
+
+### PATCH 2026-10-03 (T-618): era 08, who set up the zoot suit committee, and its words
+- Stephanie Hinnershitz, National WWII Museum (https://www.nationalww2museum.org/war/articles/zoot-suit-riots-and-wartime-los-angeles , re-fetched 2026-10-03): "California Governor Earl Warren appointed a special commission to investigate the zoot suit riots." Its report: "most of the persons mistreated during the recent incidents in Los Angeles were either persons of Mexican descent or Negroes. In undertaking to deal with the cause of these outbreaks, the existence of race prejudice cannot be ignored."
 
 ## Bank check, eras 06 to 08 (T-272b, 2026-09-28)
 

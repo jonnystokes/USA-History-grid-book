@@ -66,6 +66,9 @@ Copied from `research/research-native-nations.md`, section "Acoma Pueblo, Decemb
 - **What started it, in the Pueblos' account:** the soldiers "had demanded food and supplies, assaulted an Acoma woman, and forced allegiance to the Spanish crown" (All Pueblo Council of Governors, Oct. 6, 2023). The Rio Grande Sun reported the same Acoma account in 2019: the soldiers raped a woman ("Fiesta Historians Downplay Acoma Massacre," quoted from a search result). Director's ruling (DECISIONS #31, #36): state it as "In the Acoma people's own account, the soldiers raped an Acoma woman," with rape defined in plain words at first use.
 - **Who died:** the same 2023 Pueblo release says the January 1599 attack "killed 800 Acoma men, women, and children" (All Pueblo Council of Governors, Oct. 6, 2023, as quoted in the native-nations bank).
 
+### PATCH 2026-10-03 (T-619): what the All Pueblo Council of Governors is
+- "The All Pueblo Council of Governors (APCG) is a collective voice of the 20 Pueblo Nations of New Mexico and Texas." Its members are Acoma, Cochiti, Isleta, Jemez, Laguna, Nambé, Ohkay Owingeh, Picuris, Pojoaque, San Felipe, San Ildefonso, Sandia, Santa Ana, Santa Clara, Santo Domingo, Taos, Tesuque, Ysleta del Sur, Zia and Zuni. Each pueblo is led by a governor and lieutenant governor(s). (All Pueblo Council of Governors, home page, https://apcg.org/, fetched 2026-10-03.)
+
 ## 3. The 1600s
 
 - **Newcomers clung to the Atlantic coast.** English, Dutch, and others planted settlements along the seaboard (Jamestown 1607, Plymouth 1620 — arrival is Ch2). Almost no one pushed across the interior. Two walls held them near the ocean: the Appalachian Mountains, and the many Native nations who lived beyond them. The interior remained Native land.
@@ -88,6 +91,9 @@ Copied from `research/research-religion.md`, 3k "STORY: Roger Williams" (verifie
 
 ### PATCH 2026-10-01 (T-456): why Massachusetts ordered Roger Williams out
 Copied from `research/research-religion.md`, 3k "STORY: Roger Williams", with its sources. NPS timeline: "1636: The Massachusetts government banishes Roger Williams for preaching his dangerous political and religious ideas about 'soul liberty' and limiting the government's power to only secular matters." His idea, in NPS's words: "that the government should not enforce moral or religious beliefs." He fled rather than be sent back to England (LOC, "America as a Religious Refuge").
+
+### PATCH 2026-10-03 (T-619): what came before the Pueblo Revolt (copied from `research/research-native-nations.md` era 3, "Treviño, 1675, and the runners, 1680")
+- Dennis Zotigh, "In 1680, Pueblo Natives in the Southwest Launched the First Successful, Although Short-Lived, American Revolution," Smithsonian Voices, National Museum of the American Indian, 2 September 2026: in 1675 Governor Juan Francisco Treviño "ordered the arrest of 47 medicine men for practicing sorcery. Four were sentenced to death by hanging; in the end, three were hanged and one committed suicide. The remaining spiritual leaders were humiliated and publicly whipped before being sent to prison." Pueblo people went to Santa Fe to demand the prisoners' release and the Spanish let them go. "Among those released was a leader from Ohkay Owingeh ... His name was Po'pay" (the bank's Popé).
 
 ## 4. 1700 to 1750
 
@@ -147,6 +153,12 @@ Source for every line: James H. Marsh, "Acadian Expulsion (the Great Upheaval),"
 - **Opposition:** **Dragging Canoe**, Attakullakulla's son, spoke against selling land the nation held in common and rejected the sale (Tennessee State Museum; search summary). The purchase broke the Royal Proclamation of 1763, which banned private purchase of Native land, and Virginia, North Carolina and the Continental Congress all refused to recognize the Transylvania colony (Tennessee Encyclopedia; NC DNCR).
 - **Other claims:** the Cherokee held hunting rights in lands the Shawnee had left and also hunted in, and the Tennessee Encyclopedia calls the Cherokee claim "the strongest among competing claims" (search summary; Tennessee Encyclopedia). Boone had worked as Henderson's agent since 1764 and cut the road for the company in 1775 (NC DNCR).
 - **North of the Ohio:** the land settlers entered after 1783 was Shawnee, Miami, Delaware and other nations' land (the war there → `war`, the loss → `native-nations`).
+
+### PATCH 2026-10-03 (T-619): the burning of the Acadian villages, 1755
+- "In 1755, the New England and British troops burned many Acadian houses, barns, churches and other structures as they depopulated the areas." "In the overall Minas Basin area, soldiers set fire to about 700 houses, barns, and other buildings." (Landscape of Grand Pré, the UNESCO World Heritage Site's official site, "Historical Timeline," https://www.landscapeofgrandpre.ca/historical-timeline.html, fetched 2026-10-03.) The page does not name who ordered the burning. Not confirmed on a fetched page, so not written: Winslow's own count of 276 barns, 255 homes, 11 mills and one mass house (unconfirmed: search summary only).
+
+### PATCH 2026-10-03 (T-619): what the Transylvania Company was
+- NCpedia, "Transylvania Company": the partners organized it to "invest in vacant, nonpatented wild lands within the chartered limits of North Carolina and Virginia"; Boone's 1775 trail was cut "to open this area to settlement," and the company later "formulated plans to colonize French Lick in 1779-80." (https://www.ncpedia.org/transylvania-company, fetched 2026-10-03.) The page does not say the company sold land to settlers.
 
 ## 6. 1800 to 1850 — the trails era
 
@@ -212,6 +224,12 @@ Copied from `research/research-religion.md` §6e and its PATCH (T-260b), with th
 ### Sidebar note (kids' hook, per project-notes)
 - **The Oregon Trail computer game.** Written in 1971 by three student teachers — **Don Rawitsch, Bill Heinemann, and Paul Dillenberger** — and distributed from 1974–1975 by the **Minnesota Educational Computing Consortium (MECC)**. The player leads a wagon party from Independence, Missouri, to Oregon and must buy supplies, hunt, ford rivers, and survive disease. Project-notes places this here (the wagon journey). Use as a light sidebar, not a featured person. (Sources: Smithsonian; MNopedia; Wikipedia "The Oregon Trail (1971 video game)".)
 
+### PATCH 2026-10-03 (T-619): who lived on the Louisiana Purchase land
+- National Archives, Milestone Documents, "Louisiana Purchase Treaty (1803)," https://www.archives.gov/milestone-documents/louisiana-purchase-treaty (fetched 2026-10-03): "The land ceded in this agreement (and later expansions) was populated with thousands of American Indians across dozens of tribes." Article VI of the treaty: "The United States promise to execute Such treaties and articles as may have been agreed between Spain and the tribes and nations of Indians..." The nations are not named on a page that could be opened (see `research/research-america-world.md`, SEARCHED, NOT FOUND 2026-09-29, T-312).
+
+### PATCH 2026-10-03 (T-619): the three enslaved Black men in Brigham Young's 1847 company
+- NPS, "Hark Lay," https://home.nps.gov/people/hark-lay.htm (fetched 2026-10-03): "William Lay and his wife, Sytha, decided to take with them their twenty-year-old enslaved man, Hark Lay." "Lay, along with two other African Americans—Green Flake and Oscar Crosby—helped to provide game for the travelers and to stand guard over the livestock." The three "made the descent into Emigrant Canyon and entered the Salt Lake Valley on 22 July 1847." The page does not name who held Green Flake and Oscar Crosby. Search summaries (Utah state history sites) name James Flake as Green Flake's enslaver and William Crosby as Oscar Crosby's (unconfirmed: search summary only).
+
 ## 7. 1850 to 1900 — free land, rails, and the last open country
 
 ### Free land: the Homestead Act
@@ -271,6 +289,12 @@ How the prose can say it: state the 1866 Creek and Seminole cessions and that th
 
 ### Featured person for this section (verified; full facts below)
 - **Benjamin "Pap" Singleton** — Exoduster leader, 1879.
+
+### PATCH 2026-10-03 (T-619): who overruled and rebuked Levi Savage
+- "Weather, Disaster, and Responsibility: An Essay on the Willie and Martin Handcart Story," *BYU Studies*, https://byustudies.byu.edu/article/weather-disaster-and-responsibility-an-essay-on-the-willie-and-martin-handcart-story (fetched 2026-10-03): after Savage spoke at Florence on August 13, 1856, Savage's journal says the people "felt the force of it, (but yet, the most of them, determon[e]d to go forward if the Authorities Say go)." Church leaders "exhorted them to Go forward regardeless of concequences" at later meetings. When Franklin D. Richards, a church leader, met the Willie company on September 12, he "rebuked" Savage "very severely in open meeting for his lack of faith in God."
+
+### PATCH 2026-10-03 (T-619): where the name "Exodusters" came from
+- Kansas Historical Society, Kansapedia, "Exodusters," https://www.kansashistory.gov/kansapedia/exodusters/12046 (fetched 2026-10-03): "The name comes from the exodus from Egypt during Biblical times."
 
 ## 8. 1900 to 1950 — two great internal migrations
 

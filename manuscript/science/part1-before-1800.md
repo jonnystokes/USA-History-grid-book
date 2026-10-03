@@ -49,7 +49,7 @@ Ecology is the study of how living things depend on each other and on the land a
 
 Robin Wall Kimmerer is a scientist of the present day. She is a member of the Citizen Potawatomi Nation. In her work she uses two ways of knowing about plants together. One is the knowledge that Native nations have built up and taught. The other is the science of the laboratory.
 
-She earned a PhD in botany, the highest degree a university gives, at the University of Wisconsin. Today she is a Distinguished Teaching Professor at the College of Environmental Science and Forestry, part of the State University of New York. At that college she founded the Center for Native Peoples and the Environment. Outside it, she helped found the TEK section of the Ecological Society of America.
+She earned a PhD in botany, the highest degree a university gives, at the University of Wisconsin. Today she teaches at the College of Environmental Science and Forestry, part of the State University of New York. She holds the title Distinguished Teaching Professor. It is the top rank the State University of New York gives for teaching. At that college she founded the Center for Native Peoples and the Environment. Outside it, she helped found the TEK section of the Ecological Society of America.
 
 Her book *Braiding Sweetgrass* came out in 2013. It has been a New York Times bestseller since February 2020. In 2022 she was named a MacArthur Fellow, an award from the MacArthur Foundation.
 <!-- hb-story:end slug="robin-wall-kimmerer" -->
@@ -59,11 +59,11 @@ Her book *Braiding Sweetgrass* came out in 2013. It has been a New York Times be
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, Europeans who crossed the ocean studied this land only on short visits. They collected what they found here and described it in writing. Then they published their descriptions in Europe.
+Europeans who crossed the ocean in the 1500s studied this land only on short visits. They collected what they found here and described it in writing. Then they published their descriptions in Europe.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Thomas Hariot's report" -->
-Thomas Hariot was an English mathematician. In 1585 and 1586 he went with the English expedition that Walter Raleigh sent to Roanoke Island, off the coast of what is now North Carolina. He spent a year there and recorded the plants, the animals and the foods he found. He also wrote about the Algonquian people who lived there. They were Native nations, such as the Secotan, who spoke languages of the Algonquian family.
+Thomas Hariot was an English mathematician. In 1585 and 1586 he went with the English expedition that Walter Raleigh sent to Roanoke Island, among the islands and shallow waters of the Outer Banks, in what is now North Carolina. He spent a year there and recorded the plants, the animals and the foods he found. He also wrote about the Native nations who lived there, such as the Secotan. They spoke Algonquian languages, a group of languages related to each other.
 
 In 1588 Hariot published *A Briefe and True Report of the New Found Land of Virginia*. It was the first book in English about North America written by someone who had been there. In 1590 a publisher named Theodor de Bry printed the book again, with pictures made from drawings by John White.
 <!-- /hb-zoom -->
@@ -73,7 +73,7 @@ In 1588 Hariot published *A Briefe and True Report of the New Found Land of Virg
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the 1600s, English colonists in New England founded Harvard, the first college in their colonies, and printed their first almanac. A few colonists wrote careful records of what they saw in the sky and in the weather. One of them, Increase Mather, measured comets and also wrote that they were warnings from God.
+English colonists in New England founded Harvard, the first college in their colonies, in 1636. Three years later they printed their first almanac. A few colonists wrote careful records of what they saw in the sky and in the weather. One of them, Increase Mather, measured comets and also wrote that they were warnings from God.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A college, an almanac and a telescope" -->
@@ -85,11 +85,13 @@ John Winthrop Jr. was a governor of Connecticut. He visited London from 1661 to 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The comet of 1680" -->
-A comet appeared in the sky in November and December of 1680. It is called the Great Comet of 1680. Thomas Brattle, who had finished his studies at Harvard in 1676, followed it with a telescope from Boston. He worked out that the comet seen in November and the comet seen in December were one comet. It had swung around the sun between the two sightings. The English scientist Isaac Newton later cited these New England observations in his book the *Principia*, which came out in 1687. In it Newton set out his laws of motion and of gravity.
+A comet appeared in the sky in November and December of 1680. It is called the Great Comet of 1680. Thomas Brattle, who had finished his studies at Harvard in 1676, followed it with a telescope from Boston. He worked out that the comet seen in November and the comet seen in December were one comet. It had swung around the sun between the two sightings.
 
 In 1683 Increase Mather wrote a book about comets called *Kometographia*. In it he listed comets as warnings sent by God. He also measured comets with a method called parallax. Parallax works by looking at an object from two different places. A near object seems to shift against the stars far more than a distant one. His measurements showed that comets were distant bodies rather than vapors, a kind of gas.
 
 That same year Mather founded the Boston Philosophical Society, a group modeled on the Royal Society in London. In those days the study of nature was called natural philosophy, so a philosophical society was a group for studying nature. Mather's group met for about three years.
+
+In 1687 the English scientist Isaac Newton published his book the *Principia*. In it Newton set out his laws of motion and of gravity. He also wrote about Brattle's New England observations of the comet of 1680.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-campanius-holm" name="Rev. John Campanius Holm" movie="" kind="ordinary" status="verified" -->
@@ -110,7 +112,7 @@ Today, officials of the National Oceanic and Atmospheric Administration, the US 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-In the first half of the 1700s, the farmer John Bartram collected and studied American plants. In 1743 Benjamin Franklin organized a society in Philadelphia where colonists could share such work. From 1747 he ran experiments with electricity and mailed the results to London. Scientists in Britain read those letters, and Franklin became the first American scientist known outside the colonies.
+From 1730 the farmer John Bartram traveled through the colonies to collect and study American plants. In 1743 Benjamin Franklin organized a society in Philadelphia where colonists could share such work. From 1747 he ran experiments with electricity and mailed the results to London. Scientists in Britain read those letters, and Franklin became the first American scientist known outside the colonies.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The American Philosophical Society, 1743" -->
@@ -130,7 +132,7 @@ The society grew out of the Junto, a club Franklin had started in 1727 with abou
 
 Benjamin Franklin was the first American to be known in other countries as a scientist. From 1747 to 1751 he ran experiments with electricity in Philadelphia. He reported his results in letters to Peter Collinson, a member of the Royal Society in London.
 
-Franklin thought of electricity as a single fluid. He called an object positive when it held more than its normal amount, and negative when it held less. Scientists still use his words positive and negative. He also argued that electric charge is never made or destroyed. It only moves from one object to another. Scientists call this idea the conservation of charge. Franklin also proposed that lightning is electricity.
+Franklin thought of electricity as a single fluid. He called an object positive when it held more of this fluid than normal, and negative when it held less. Scientists still use his words positive and negative. He also argued that electric charge is never made or destroyed. It only moves from one object to another. Scientists call this idea the conservation of charge. Franklin also proposed that lightning is electricity.
 
 In April 1751 his letters were published in London as a book, *Experiments and Observations on Electricity*. In 1753 members of the Royal Society gave him the Copley Medal, their highest honor. He was the first person from outside Britain to receive it.
 <!-- hb-story:end slug="benjamin-franklin-science" -->
@@ -143,11 +145,11 @@ In April 1751 his letters were published in London as a book, *Experiments and O
 
 John Bartram and his sons introduced more than 200 American plants to science. That means scientists first learned of those plants through the Bartrams.
 
-Bartram was a farmer and a Quaker, a member of a Christian group also called the Society of Friends. He lived from 1699 to 1777. In 1728 he bought a farm of 102 acres on the Schuylkill River, at a place called Kingsessing. There he built a botanic garden, a garden where plants are grown so they can be studied. It is the oldest botanic garden in America that survives today.
+Bartram was a farmer and a Quaker, a member of a Christian group also called the Society of Friends. In 1728 he bought a farm of 102 acres on the Schuylkill River, at a place called Kingsessing. There he built a botanic garden, a garden where plants are grown so they can be studied. It is the oldest botanic garden in America that survives today.
 
 From 1730 to 1765 he traveled to collect plants, from New York as far south as Florida. In 1739 he suggested the idea that became the American Philosophical Society. In 1765 King George III named him the King's Botanist for North America.
 
-The Swedish botanist Carl Linnaeus made the system scientists use to name living things. He reportedly called Bartram "the greatest natural botanist in the world." Writers quote the line often, but it comes only from other people's reports of what Linnaeus said.
+The Swedish botanist Carl Linnaeus made the system scientists use to name living things. Other people reported that Linnaeus called Bartram "the greatest natural botanist in the world."
 <!-- hb-story:end slug="john-bartram" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -157,19 +159,19 @@ The Swedish botanist Carl Linnaeus made the system scientists use to name living
 <!-- hb-zoom level="era" -->
 In 1752 a test that Benjamin Franklin designed showed that lightning is electricity. Men in France ran it first, and Franklin followed with his kite. In 1769 four men at Norriton timed the planet Venus as it crossed the sun, and members of the Royal Society in London reprinted their results.
 
-In his book *Notes on the State of Virginia*, Thomas Jefferson used evidence to argue with a scientist in France about the size of American animals. In that same book, Jefferson wrote that Black people were inferior to white people in body and mind, and he gave no evidence for it. Benjamin Banneker, a free Black farmer who taught himself astronomy, sent Jefferson an almanac he had calculated as proof against that claim.
+In his book *Notes on the State of Virginia*, Thomas Jefferson used evidence to argue with a scientist in France about the size of American animals. In that same book, Jefferson wrote that Black people were inferior to white people, meaning less able, in body and mind. He called this claim "a suspicion only." Benjamin Banneker, a free Black farmer who taught himself astronomy, sent Jefferson an almanac he had calculated as proof against that claim.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The lightning test" -->
 Franklin published a plan for a test that would show whether lightning is electricity. The first people to carry it out were in France. On May 10, 1752, at Marly-la-Ville, Thomas-François Dalibard arranged the test with a tall iron rod. He followed Franklin's printed plan. On May 13 Dalibard reported the test to the French Academy, a society of scholars.
 
-Franklin ran his own test in Philadelphia with a kite. Writers have long dated the kite flight to June 1752, but nobody recorded the exact day or the exact spot. Franklin first described it in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The June date comes from an account that Joseph Priestley wrote in 1767. Some accounts question parts of the kite story. The tests in France and in Philadelphia showed that lightning is electricity.
+The test at Marly-la-Ville showed that lightning is electricity. Franklin ran his own test in Philadelphia with a kite. Nobody recorded the exact day or the exact spot. Franklin first described the kite in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The date most often given, June 1752, comes from an account that Joseph Priestley wrote in 1767. In a 2004 book called *Bolt of Fate*, the writer Tom Tucker argued that Franklin never flew the kite at all.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Timing Venus, 1769" -->
-On June 3, 1769, the planet Venus passed across the face of the sun, as seen from Earth. This event is called a transit of Venus. Members of the American Philosophical Society chose teams of observers to time it. Astronomers in many parts of the world timed the same transit. They planned to use the times to work out the distance from Earth to the sun. The society's timing of the transit was the first large, organized science project in the colonies.
+On June 3, 1769, the planet Venus passed across the face of the sun, as seen from Earth. This event is called a transit of Venus. Members of the American Philosophical Society chose teams of observers to time it. Astronomers in many parts of the world timed the same transit. They planned to use the times to work out the distance from Earth to the sun. This work by society members was the first large, organized science project in the colonies.
 
-Society members planned to watch from three places. One was Norriton, Rittenhouse's home in what is now Montgomery County, Pennsylvania. He built most of the instruments used there. There David Rittenhouse, William Smith, John Lukens and John Sellers timed Venus as it crossed the sun. Their results filled the first volume of the society's *Transactions*, its printed record of research, which came out in 1771. Members of the Royal Society in London reprinted the results.
+Society members planned to watch from three places. One was Norriton, the home of David Rittenhouse, in what is now Montgomery County, Pennsylvania. Rittenhouse built most of the instruments used there. At Norriton, Rittenhouse, William Smith, John Lukens and John Sellers timed Venus as it crossed the sun. Their results filled the first volume of the society's *Transactions*, its printed record of research, which came out in 1771. Members of the Royal Society in London reprinted the results.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="david-rittenhouse" name="David Rittenhouse" movie="" kind="famous" status="verified" -->
@@ -178,7 +180,7 @@ Society members planned to watch from three places. One was Norriton, Rittenhous
 > **Who:** A Pennsylvania instrument maker and astronomer who taught himself both trades. One of the four men who timed Venus at Norriton in 1769.
 > **When and where:** Pennsylvania. Born 1732, died 1796.
 
-David Rittenhouse taught himself to make scientific instruments and to study the stars. He was one of the four men who timed the transit of Venus at Norriton on June 3, 1769. He was born in 1732 and died in 1796.
+David Rittenhouse taught himself to make scientific instruments and to study the stars. He was one of the four men who timed the transit of Venus at Norriton on June 3, 1769.
 
 Rittenhouse built orreries. An orrery is a machine that shows the planets moving around the sun. When its gears turn, small models of the planets move along their paths.
 
@@ -188,7 +190,7 @@ In 1791 he followed Franklin as president of the American Philosophical Society.
 <!-- hb-zoom level="span" label="Jefferson, Buffon and the moose" -->
 A scientist in France named Buffon taught that animals and people grew "degenerate" in the Americas. By that he meant smaller and weaker. Thomas Jefferson argued against this with evidence in his book *Notes on the State of Virginia*.
 
-The book answers a list of questions that a French official had sent, and Jefferson called each chapter a Query, an old word for a question. In the chapter called Query XIV, Jefferson made a claim about Black people. He wrote: "I advance it therefore as a suspicion only, that the blacks, whether originally a distinct race, or made distinct by time and circumstances, are inferior to the whites in the endowments both of body and mind." Endowments here means natural abilities. He wrote that in reason Black people were "much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid." Euclid was an ancient Greek mathematician. Jefferson called his claim a suspicion, and he gave no evidence for it. Jefferson himself enslaved more than 600 people during his life.
+Jefferson wrote the book to answer a list of questions that a French official had sent. He called each chapter a Query, an old word for a question. In the chapter called Query XIV, Jefferson made a claim about Black people. He wrote: "I advance it therefore as a suspicion only, that the blacks, whether originally a distinct race, or made distinct by time and circumstances, are inferior to the whites in the endowments both of body and mind." Inferior means lower or less able. Endowments here means natural abilities. He wrote that in reason Black people were "much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid." Euclid was an ancient Greek mathematician. Jefferson himself enslaved more than 600 people during his life.
 
 Jefferson also used a moose as evidence against Buffon. Jefferson was the United States minister in Paris, the country's official representative to the French government. On January 7, 1786, he wrote to John Sullivan of New Hampshire, a former general and governor. He asked for "the skin, the skeleton, and the horns of the Moose."
 
@@ -205,7 +207,7 @@ The shipment reached France in about late September 1787. Around October 1, 1787
 
 Benjamin Banneker calculated the astronomy for six years of printed almanacs, for 1792 through 1797. He worked out where the sun, the moon and the planets would be on each day. Tables like these are called ephemerides. Banneker was a free Black tobacco farmer in Baltimore County, Maryland. He taught himself mathematics and astronomy from books and instruments that he borrowed.
 
-He correctly predicted the solar eclipse of April 14, 1789, though better-known almanac makers had calculated it differently. In a solar eclipse, the moon passes between the earth and the sun and blocks some or all of the sun's light. Banneker had been born on November 9, 1731, in Baltimore County.
+He correctly predicted the solar eclipse of April 14, 1789, though better-known almanac makers had calculated it differently. In a solar eclipse, the moon passes between the earth and the sun and blocks some or all of the sun's light.
 
 On August 19, 1791, Banneker sent Jefferson his almanac in manuscript, which means written by hand. He sent it as proof against Jefferson's claim about Black people. With it he sent a letter that challenged Jefferson about slavery. He wrote that "however variable we may be in society or religion, however diversified in situation or colour, we are all of the same family."
 
@@ -221,6 +223,6 @@ Banneker died in 1806. Three years later, on October 8, 1809, Jefferson wrote ab
 <!-- hb-zoom level="span" label="Jefferson's fossil, 1797" -->
 On March 10, 1797, Jefferson presented a paper to the American Philosophical Society about a fossil animal named Megalonyx. The name means "giant claw." A fossil is the remains of a living thing kept in rock. Jefferson's paper was printed in 1799. Megalonyx was the first genus of fossil animal from the United States to receive a name. A genus is a group of closely related kinds of animals or plants.
 
-Caspar Wistar wrote a companion paper to Jefferson's. With it, Wistar began the study of paleontology in the United States. Paleontology is the study of ancient life through fossils.
+Caspar Wistar wrote a second paper to go with Jefferson's. With it, Wistar began the study of paleontology in the United States. Paleontology is the study of ancient life through fossils.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

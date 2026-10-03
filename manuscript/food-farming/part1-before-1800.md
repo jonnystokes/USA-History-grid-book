@@ -14,15 +14,15 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" -->
-Farming in North America was thousands of years old by 1500. Native farmers had turned a wild grass into corn, and corn fed whole towns. Each region also ate from the foods that grew or lived best there, such as bison on the Plains and salmon in the Northwest.
+Farming in North America was thousands of years old by 1500. Native farmers had turned a wild grass into corn, and corn fed whole towns. People in each region also ate the foods that grew or lived best there, such as bison on the Plains and salmon in the Northwest.
 
-Corn, beans and squash from these fields later crossed the ocean to the rest of the world. Corn became an everyday food across Europe, Africa and Asia.
+Europeans later carried corn, beans and squash from these fields across the ocean to the rest of the world. Corn became an everyday food across Europe, Africa and Asia.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How corn was made" -->
 Corn did not grow wild. Native farmers bred it from a grass called teosinte. The seed head of teosinte holds only a few hard kernels. Farmers began changing it about 9,000 years ago in the Balsas River valley of southern Mexico. Scientists have confirmed that date and place in two ways. They studied the genes of corn and teosinte. Genes are the tiny instructions inside every living thing that parents pass on to their young. They also studied ancient corn dug from the ground.
 
-Breeding a plant means choosing which plants to take seed from, year after year, so the crop changes over time. Native farmers bred teosinte for thousands of years, and the result was corn. Corn is so changed from the wild grass that it cannot reseed itself. It grows only where people plant it. Farmers carried corn north, a little at a time over thousands of years, into what is now the United States.
+Breeding a plant means choosing which plants to take seed from, year after year, so the crop changes over time. Native farmers bred teosinte for thousands of years, and the result was corn. Corn is so changed from the wild grass that it cannot reseed itself. It grows only where people plant it. Over thousands of years, Native farmers grew corn a little farther north at a time, until it reached what is now the United States.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Three Sisters" -->
@@ -30,11 +30,11 @@ Native farmers planted corn, beans and squash together in the same field, and ea
 
 The corn grew tall, and the bean vine climbed up the corn stalk. Bean roots hold tiny living things called bacteria. These bacteria take nitrogen, a gas in the air, and put it into the soil. Plants need nitrogen to grow, so the beans fed the soil that all three plants shared. The squash spread wide leaves over the ground. The shade kept water in the ground and blocked the sunlight that weeds needed.
 
-The three crops also fed people well together. Corn and beans eaten in the same meal give the body more complete protein than either food alone. Protein is the part of food the body uses to build muscle.
+The three crops also fed people well together. Protein is the part of food the body uses to build muscle. Corn and beans eaten in the same meal give the body a fuller mix of the protein it needs than either food gives alone.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Farming began in the East too" -->
-Native people in the eastern part of North America started farming on their own, long before corn reached them. They took wild plants and bred them into crops. About 5,000 years ago they had tamed a kind of squash. They also grew sunflower, goosefoot, sumpweed, maygrass, little barley and erect knotweed. Goosefoot is a plant grown for its small seeds, which people cooked and ate.
+Native people in the eastern part of North America started farming on their own, long before corn reached them. They took wild plants and bred them into crops. About 5,000 years ago they had tamed a kind of squash. They also grew six plants for their seeds: sunflower, goosefoot, sumpweed, maygrass, little barley and erect knotweed. Sunflower and sumpweed seeds are rich in oil. The seeds of the other four are starchy, and maygrass and little barley are grasses whose grain can be ground into flour. People cooked and ate goosefoot's small seeds.
 
 Scientists call this group of crops the Eastern Agricultural Complex. Eastern North America is one of the places in the world where people started farming on their own, without learning it from anyone else.
 <!-- /hb-zoom -->
@@ -44,7 +44,7 @@ Cahokia was a Native town near where St. Louis is today. Around the year 1100, b
 
 People in other regions lived mainly on other foods. On the Great Plains, hunters killed bison. By a widely used estimate, about 30 million bison still lived there in the early 1800s. Along the Northwest coast and its rivers, salmon was the main food. People on the coasts gathered shellfish. In the Northeast, people collected sap from maple trees.
 
-Around the Great Lakes, people harvested manoomin, a wild rice that grows in shallow water. In Ojibwe, the word means "the good berry." People harvest it from canoes. The Ojibwe belong to a family of peoples called the Anishinaabe. In an Anishinaabe prophecy, a teaching about what was to come, the people were led to the place where they would find "the food that grows on water." Manoomin is still a central food of Ojibwe life today.
+Around the Great Lakes, people harvested manoomin, a wild rice that grows in shallow water. In Ojibwe, the word means "the good berry." People harvest it from canoes. The Ojibwe are one of the Anishinaabe peoples, a family of related nations that also includes the Odawa and the Potawatomi. In an Anishinaabe prophecy, a teaching about what was to come, the people were led to the place where they would find "the food that grows on water." Manoomin is still a central food of Ojibwe life today.
 
 No farmer from before 1500 is known by name. Corn cannot reseed itself, so every generation of Native farmers had to save the seed and plant it again. Seed keepers in Native nations still grow these crops today.
 <!-- /hb-zoom -->
@@ -60,19 +60,19 @@ In the 1500s, Europeans began carrying crops and farm animals across the Atlanti
 <!-- hb-zoom level="span" label="What crossed the ocean" -->
 Europeans carried American crops and animals home to Europe. These included corn, potatoes, tomatoes, beans, squash, peanuts, peppers, cacao, vanilla and turkeys. Cacao is the bean that chocolate is made from. Corn and potatoes later became main foods across Europe, Africa and Asia.
 
-Europeans brought wheat, rice, sugarcane, citrus fruit such as oranges and lemons, and honeybees to the Americas on their ships. They also brought cattle, pigs, sheep, goats and chickens. Columbus brought horses on his second voyage, in 1493. Spanish colonists founded St. Augustine, in Florida, in 1565, and began a colony in New Mexico in 1598. In both places they planted wheat and citrus and raised cattle.
+Europeans brought wheat, rice, sugarcane, citrus fruit (the family of fruit that includes oranges and lemons), and honeybees to the Americas on their ships. They also brought cattle, pigs, sheep, goats and chickens. Columbus brought horses on his second voyage, in 1493. Spanish colonists founded St. Augustine, in Florida, in 1565, and began a colony in New Mexico in 1598. In both places they planted wheat and citrus and raised cattle.
 
-The word exchange can sound like a friendly trade. It was not one. Europeans took American crops home from lands they were invading. Much of what arrived was grown to feed the colonists. Before long, planters were forcing enslaved people to grow sugarcane on plantations. European slave traders carried most of the Africans who came to the Americas across the ocean in chains. Those Africans brought their own crops and the skill to grow them. These included okra, watermelon, yams, sorghum, black-eyed peas and African rice. Enslaved Africans brought these crops to the Americas.
+The word exchange can sound like a friendly trade. It was not one. Europeans took American crops home from lands they were invading. Much of what arrived was grown to feed the colonists. Before long, planters were forcing enslaved people to grow sugarcane on plantations. Slave traders carried most of the Africans who came to the Americas across the ocean in chains. Those Africans brought their own crops and the skill to grow them. These included okra, watermelon, yams, sorghum, black-eyed peas and African rice.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="De Soto's army and Apalachee corn" -->
 The Spanish soldier Hernando de Soto landed near Tampa Bay, in Florida, in May 1539, with an army of more than 600 people. He carried no food supplies except a small herd of pigs. Men who marched with him wrote accounts of the trip, and those accounts say the herd began with about 13 pigs. By 1542 the herd had grown to about 700. The army rarely killed the pigs for food. Pigs that escaped ran wild across the Southeast.
 
-De Soto's army moved from town to town and took the corn that Native villagers had stored, and the soldiers ate it. Taking that corn often left the villagers at risk of starving. De Soto also seized dozens of Native men, women and children. His soldiers forced them to carry the army's equipment and supplies and to do the work of the camp.
+De Soto's army moved from town to town and took the corn that Native villagers had stored, and the soldiers ate it. Without that corn, the villagers were often at risk of starving. De Soto also seized dozens of Native men, women and children. His soldiers forced them to carry the army's equipment and supplies and to do the work of the camp.
 
-Rodrigo Ranjel, de Soto's secretary, kept a diary of the march. An account written from it says the Spaniards took the men "to have more slaves and servants." Some of the captives died and others ran away, so the soldiers seized more. The same account says the soldiers wanted the women "for their lewdness and lust." The women were prisoners and could not refuse. The soldiers raped them. Rape means forcing a person to have sex.
+Rodrigo Ranjel, de Soto's secretary, kept a diary of the march. An account written from it states that the Spaniards took the men "to have more slaves and servants." Some of the captives died and others ran away, so the soldiers seized more. The same account records that the soldiers wanted the women "for their lewdness and lust," which means they wanted them for sex. The women were prisoners and could not refuse. The soldiers raped them. Rape means forcing a person to have sex.
 
-From October 1539 to March 1540, de Soto's army seized and lived in Anhaica, the main town of the Apalachee, where Tallahassee, Florida, stands today. The Spanish took the town's stored food, which was enough to feed 600 men and 220 horses for five months. Archaeologists, scientists who study the past by digging up what people left behind, have found burned corncobs at the site. The Apalachee fought back with quick raids and ambushes, and they went after the Spaniards' horses.
+In October 1539, de Soto's army seized Anhaica, the main town of the Apalachee. Tallahassee, Florida, stands there today. The army lived in the town until March 1540. The Spanish took the town's stored food, which was enough to feed 600 men and 220 horses for five months. Archaeologists, scientists who study the past by digging up what people left behind, have found burned corncobs at the site. The Apalachee fought back with quick raids and ambushes, and they went after the Spaniards' horses.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -84,7 +84,7 @@ Native corn kept the first English colonists at Jamestown and Plymouth alive in 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Jamestown: hunger, and corn the English took by force" -->
-The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them and surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. About 500 colonists were alive when it began. By spring, about 61 were still alive.
+The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them, and Powhatan warriors surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. About 500 colonists were alive when it began. By spring, about 61 were still alive.
 
 The colonists ate their horses, dogs and rats, and they ate leather. Some ate the bodies of people who had died. Archaeologists found the bones of a girl whom researchers call Jane. The bones show that colonists ate her body after she died. Scientists at the Smithsonian announced the finding in 2013.
 
@@ -92,7 +92,7 @@ English soldiers also took corn by force and destroyed Native fields. On August 
 
 The soldiers captured the wife and two children of Wowinchopunck, the Paspahegh weroance, or leader. When Percy hesitated, his men complained. Percy then agreed to kill the children. His soldiers threw the children overboard from a boat and shot them in the head in the water.
 
-That night at Jamestown, Captain Davis told Percy that the governor, Lord De La Warr, wanted the children's mother burned alive. Captain Davis and two soldiers took her into the woods and killed her with a sword. Percy wrote that he did not believe the order really came from the governor.
+That night at Jamestown, Captain Davis told Percy that Lord De La Warr, the colony's governor, wanted the children's mother burned alive. Captain Davis and two soldiers took her into the woods and killed her with a sword. Percy wrote that he did not believe the order really came from the governor.
 
 In March 1622 Powhatan warriors attacked the English settlements. After that, colonial soldiers marched out almost every summer for ten years to attack Powhatan towns and cornfields. In 1623 colonists at a peace meeting poisoned the Powhatans' wine, shot them, and then destroyed their cornfields.
 <!-- /hb-zoom -->
@@ -100,7 +100,7 @@ In March 1622 Powhatan warriors attacked the English settlements. After that, co
 <!-- hb-zoom level="span" label="Tobacco in place of food" -->
 John Rolfe grew Virginia's first successful tobacco crop in 1612. He planted a sweet kind of tobacco. Planters sold it for so much money that many of them grew it in place of food crops.
 
-Members of Virginia's assembly, the colony's lawmaking body, passed laws again and again to make planters grow food. Under a tobacco law of 1629 and 1630, a family could grow 2,000 tobacco plants for each family member and no more. Part of the reason for the limit was to make sure families still planted food crops.
+Members of Virginia's assembly, the colony's lawmaking body, passed laws again and again to make planters grow food. Under a tobacco law of 1629 and 1630, a family could grow 2,000 tobacco plants for each family member and no more. The lawmakers set the limit partly so that families would still plant food crops.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Plymouth: corn dug up, then corn planted" -->
@@ -108,9 +108,9 @@ The first corn the Plymouth colonists ate was corn they took. In November 1620, 
 
 The same group of men dug up graves nearby. They opened bundles that held the bones of a man and a small child. They wrote that they "brought sundry of the prettiest things away," meaning they took several of the objects buried with the dead.
 
-The owners of the corn were Nauset people. In the summer of 1621, the colonists met one of them and promised to pay him. Later in 1621 the colonist Edward Winslow wrote that the owners had been given "full content," meaning they were fully satisfied. His letter does not say what they were given.
+The owners of the corn were Nauset people. In the summer of 1621, the colonists met one of them and promised to pay him. They offered to bring the owners as much corn as they had taken. Later in 1621 the colonist Edward Winslow wrote that the owners had been given "full content," meaning they were fully satisfied. His letter does not say what they were given.
 
-The colonists built their town on the land of Patuxet, a Wampanoag town. An epidemic, a disease that spreads quickly through many people, had killed nearly everyone at Patuxet between 1616 and 1619. The colonists listed as one reason for settling there the "good corn-ground ready to our hands." The Patuxet people had cleared those fields.
+The colonists built their town on the land of Patuxet, a Wampanoag town. An epidemic, a disease that spreads quickly through many people, had killed most of the people of Patuxet between 1616 and 1619. The colonists listed as one reason for settling there the "good corn-ground ready to our hands." The Patuxet people had cleared those fields.
 
 In the spring of 1621, the colonists planted about 20 acres of corn. The corn did well. Their first harvest, that autumn, fed them through their second winter.
 <!-- /hb-zoom -->
@@ -124,17 +124,17 @@ In the spring of 1621, the colonists planted about 20 acres of corn. The corn di
 
 Squanto, also called Tisquantum, showed the Plymouth colonists how to plant corn in the spring of 1621. He also interpreted between the colonists and the Wampanoag, which means he put each side's words into the other's language.
 
-In 1614 an English captain named Thomas Hunt kidnapped Squanto and took him to Spain to be sold as a slave. Squanto reached England and learned English there. In 1619 he came home with an English expedition. He found his town of Patuxet empty. An epidemic had killed nearly everyone there.
+In 1614 an English captain named Thomas Hunt kidnapped Squanto and took him to Spain to be sold as a slave. Squanto reached England and learned English there. In 1619 he came home with an English expedition. He found his town of Patuxet empty. An epidemic had killed most of its people.
 
 The colonist Edward Winslow wrote about the corn planting in a letter of December 1621. He wrote that "according to the manner of the Indians, we manured our ground with herrings, or rather shads." To manure ground means to put something into the soil to feed the crops. Herring and shad are kinds of fish. The colonists buried fish in the ground with the corn seed. Squanto taught them to do this.
 
-Historians disagree about where Squanto learned it. In 1975 Lynn Ceci, an anthropologist, or scientist who studies how people live, argued in the journal *Science* that burying fish with corn was a European method. She argued that Squanto probably learned it during his years among Europeans. She found little evidence that many Native farmers used fish this way. Others defended the older account, and the question is still argued. Winslow himself called it "the manner of the Indians."
+Scholars have argued for decades about where Squanto learned it. In 1975 Lynn Ceci, an anthropologist, or scientist who studies how people live, argued in the journal *Science* that burying fish with corn was a European method. She argued that Squanto probably learned it during his years among Europeans. She found little evidence that many Native farmers used fish this way. Other scholars defended the older account, and none of them has settled the question. Winslow himself called it "the manner of the Indians."
 
 Squanto died in 1622.
 <!-- hb-story:end slug="squanto-food-farming" -->
 
 <!-- hb-zoom level="span" label="What the colonists ate" -->
-The English colonists learned corn dishes from Native cooks. They cooked dried corn in water to make hominy. They pounded corn into coarse meal and boiled it into a mush called samp, a name taken from the Narragansett word *nasàump*. They baked flat cornmeal cakes called johnnycakes. They also ate beans. Once their hogs had multiplied, they ate pork, and they drank cider made from apples. Americans went on eating these corn dishes for centuries.
+The English colonists learned corn dishes from Native cooks. One was hominy, which is dried corn cooked in water. For samp, cooks pounded corn into coarse meal and boiled it into a mush. The name comes from the Narragansett word *nasàump*. Johnnycakes were flat cakes baked from cornmeal. Along with their corn, the colonists ate beans, and once their hogs had multiplied, they ate pork and drank cider made from apples. Americans went on eating these corn dishes for centuries.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -144,17 +144,17 @@ The English colonists learned corn dishes from Native cooks. They cooked dried c
 <!-- hb-zoom level="era" -->
 Between 1700 and 1750, planters in the Carolina Lowcountry forced enslaved Africans to grow rice, and the planters became some of the richest people in the colonies. The Lowcountry is the flat, wet land along the coast of South Carolina. Enslaved Africans built the rice fields and did the work in them. Planters paid more for captives from West Africa who already knew how to grow rice.
 
-Farther north, farmers in Pennsylvania, New York and New Jersey grew more wheat than they could eat and shipped flour to other places. Settlers in New Hampshire are credited with planting the first potato patches in North America that lasted.
+Farther north, farmers in Pennsylvania, New York and New Jersey grew more wheat than they could eat and shipped flour to other places. New Hampshire's town histories say that settlers there planted the first potato patches in North America that lasted.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Carolina rice and African skill" -->
-English settlers first brought a small amount of rice to Charles Town, now Charleston, in 1670. No record shows that anything grew from it. By July 1699, samples of Carolina rice were on sale in London to test whether buyers wanted it. The first crops grew on dry, high ground. By the 1720s, growers had moved their rice into freshwater swamps inland. They built dams to hold the water in ponds.
+English settlers first brought a small amount of rice to Charles Town, now Charleston, in 1670. No record shows that anything grew from it. By July 1699, samples of Carolina rice were on sale in London to test whether buyers wanted it. The first crops grew on dry, high ground. By the 1720s, planters had moved their rice into freshwater swamps inland. They had enslaved workers build dams to hold the water in ponds.
 
 From 1698 to 1702, Carolina planters shipped out about 269,000 pounds of rice a year. From 1738 to 1742, they shipped out more than 30 million pounds a year. One kind of Carolina rice later became known as Carolina Gold.
 
 Planters put out advertisements asking for captives from the part of West Africa known as the Rice Coast. That coast included Senegambia, the land along the Senegal and Gambia rivers, and Sierra Leone. Planters paid more for people from there because those people knew how to grow rice. Records from Carolina fields show African methods at work. Enslaved workers built earth banks around fields beside the tidal rivers so they could flood and drain them. They sowed seed by pressing it into the mud with the heel and toe. They separated the grain from its husks by tossing it in coiled baskets called fanner baskets.
 
-Historians disagree about how much of Carolina's rice farming came from African knowledge. In her 2001 book *Black Rice*, the geographer Judith Carney argued that African knowledge was the base of the whole rice business. A geographer is a scientist who studies the land and how people use it. In 2005 the historians David Eltis, Philip Morgan and David Richardson argued that she had made the African share too large. Records also show that in the early years of the colony, more captives came from Angola than from any other place, and Angola is not on the Rice Coast. A middle view is now the most common one. Planters built the rice business with their money and by force, and they also depended on African skill. The African methods in the fields are documented.
+Scholars disagree about how much of Carolina's rice farming came from African knowledge. In her 2001 book *Black Rice*, the geographer Judith Carney argued that African knowledge was the base of the whole rice business. A geographer is a scientist who studies the land and how people use it. In 2005 the historians David Eltis, Philip Morgan and David Richardson argued that she had made the African share too large. Records also show that in the early years of the colony, more captives came from Angola than from any other place. Angola is not on the Rice Coast. Most scholars now hold a middle view: planters built the rice business with their money and by force, and they also depended on African skill.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whose land the rice grew on" -->
@@ -191,7 +191,7 @@ She used her 1744 crop to make seed and gave the seed to other planters. Planter
 <!-- hb-zoom level="span" label="Wheat, potatoes and everyday meals" -->
 Pennsylvania, New York and New Jersey were called the breadbasket colonies. Farmers there grew more wheat than their families needed. Merchants shipped the extra wheat as flour out of the ports of Philadelphia and New York.
 
-In 1719 settlers known as the Scots-Irish planted potatoes at Londonderry, New Hampshire. The Scots-Irish were families of Scottish background who had lived in the north of Ireland. Their patches are credited as the first lasting potato fields in North America. The potato first grew as a crop in the Andes mountains of South America. People carried it to Europe, and settlers later brought it back across the ocean to North America.
+In 1719 settlers known as the Scots-Irish planted potatoes at Londonderry, New Hampshire. The Scots-Irish were families of Scottish background who had lived in the north of Ireland. New Hampshire's histories count their patches as the first lasting potato fields in North America. The potato first grew as a crop in the Andes mountains of South America. People carried it to Europe, and settlers later brought it back across the ocean to North America.
 
 Most colonial families ate corn, pork and bread, and drank cider. Rich families also bought tea, sugar and wine from overseas, and they ate bread made of wheat.
 <!-- /hb-zoom -->
@@ -203,7 +203,7 @@ Most colonial families ate corn, pork and bread, and drank cider. Rich families 
 <!-- hb-zoom level="era" -->
 About nine of every ten working people in the United States were farmers when the country began, by a widely used estimate from the US Department of Agriculture. The first census, a count of the people, was taken in 1790. It counted about 4 million people.
 
-Thomas Jefferson wrote that farmers were God's chosen people, while people he enslaved farmed his land. In 1796 Amelia Simmons became the first American to write a cookbook for American kitchens. Its recipes used cornmeal.
+Thomas Jefferson wrote that farmers were God's chosen people, while people he enslaved farmed his land. In 1796 Amelia Simmons became the first American to write a cookbook for American kitchens. Some of its recipes used American cornmeal.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="matthew-patten" name="Matthew Patten" movie="" kind="ordinary" status="verified" -->
@@ -216,11 +216,11 @@ Matthew Patten kept a diary that shows how one farm family in New Hampshire fed 
 
 Patten was born in Ireland on May 19, 1719. He came to the colonies in 1728, when he was nine, and settled at the place later named Bedford in 1738. He was a joiner, a carpenter who does the finer woodwork in a house. He also farmed, worked as a judge, and surveyed land, which means he measured it and marked its borders.
 
-In January 1767, Patten butchered the family's hogs. A neighbor, James Gilmore, paid him three pecks of corn for surveying his land. A peck is about 8 quarts. In February and March, other neighbors paid him in bushels of corn for surveying and for writing deeds, the papers that prove who owns a piece of land. He took corn and rye to a neighbor's mill to be ground into meal and flour. He bought tea and 7 pounds of sugar.
+On January 3, 1767, a neighbor, James Gilmore, paid Patten three pecks of corn for surveying his land. A peck is about 8 quarts. That same day Patten bought tea and 7 pounds of sugar, and he took corn and rye to a neighbor's mill to be ground into meal and flour. On January 30 he butchered the family's hogs. In February and March, other neighbors paid him in bushels of corn for surveying and for writing deeds, the papers that prove who owns a piece of land.
 
 On March 4 he opened the pit where the family's potatoes had been buried for the winter. He wrote that they were "sound and good." In April and May the family sowed peas, then planted potatoes, corn, barley, hemp and flax. Hemp and flax are plants whose fibers are made into rope and cloth. He wrote that "the boys" planted the field behind the barn with corn and potatoes and spread manure from the barn on it.
 
-In May, Patten helped haul a net in the Merrimack River from dark to sunrise. His share was 60 shad, a fish the family took from the Merrimack each spring. From May 28 to June 6 he fished at Amoskeag Falls and sent 354 fish home. The name Amoskeag comes from a Pennacook word that means roughly "good fishing place." Long before Bedford was a town, Pennacook people strung large nets across the river at the falls and caught sturgeon, alewives and salmon. Bedford lies in Pennacook country.
+In May, Patten helped haul a net in the Merrimack River from dark to sunrise. His share was 60 shad, a fish the family took from the Merrimack each spring. From May 28 to June 6 he fished at Amoskeag Falls and sent 354 fish home. The name Amoskeag comes from a Pennacook word that means roughly "good fishing place." Long before Bedford was a town, Pennacook people strung large nets across the river at the falls and caught sturgeon, salmon and a fish called the alewife. Bedford lies in Pennacook country.
 
 In June and July Patten took salmon weighing from 6 to 19 pounds and split them with two neighbors. In August he reaped his rye and wrote, "I have 40 Stooks in all this year." A stook is a bundle of cut grain stood up to dry. Later that month he mowed his meadow and counted 205 piles of hay.
 
@@ -228,11 +228,11 @@ Patten died on August 27, 1795, in one of the town's fields. He had carried dinn
 <!-- hb-story:end slug="matthew-patten" -->
 
 <!-- hb-zoom level="span" label="Jefferson's farmers and Monticello's rations" -->
-Many American leaders believed that family farms made free citizens. Thomas Jefferson wrote about the idea in his book *Notes on the State of Virginia*, first printed in 1785: "Those who labour in the earth are the chosen people of God, if ever he had a chosen people." For about a hundred years afterward, American leaders wrote land laws meant to put land in the hands of family farmers.
+Thomas Jefferson believed that family farms made free citizens. He wrote about the idea in his book *Notes on the State of Virginia*, first printed in 1785: "Those who labour in the earth are the chosen people of God, if ever he had a chosen people." For about a hundred years afterward, American leaders wrote land laws meant to put land in the hands of family farmers.
 
 People Jefferson enslaved did the farm work at Monticello, his plantation in Virginia. Jefferson owned more than 600 enslaved people during his adult life. In the years Jefferson had tobacco grown at Monticello, enslaved children picked worms off the tobacco plants.
 
-Each week, Jefferson gave each enslaved worker at Monticello a peck of cornmeal, half a pound of pork or pickled beef, and four salted fish. Nursing mothers received extra, and workers got whiskey at harvest. Researchers who studied the Monticello records found that these rations were not enough food for a person to live on. So in their little free time, enslaved people hunted, fished, trapped, kept gardens and raised animals.
+Each week, Jefferson gave each enslaved worker at Monticello a set amount of food, called a ration: a peck of cornmeal, half a pound of pork or pickled beef, and four salted fish. Nursing mothers received extra, and workers got whiskey at harvest. Researchers who studied the Monticello records found that these rations were not enough food for a person to live on. So in their little free time, enslaved people hunted, fished, trapped, kept gardens and raised animals.
 
 Enslaved families also sold chickens and vegetables from their own gardens and flocks to the Jefferson family. Jefferson's granddaughter Anne Cary Randolph wrote down these purchases in the household accounts. Most of the sellers she recorded were enslaved people who worked in the house, many of them members of the Hemings family.
 <!-- /hb-zoom -->
@@ -251,6 +251,6 @@ Amelia Simmons wrote *American Cookery*, the first cookbook written by an Americ
 
 Her book contains the first known printed recipes that used American cornmeal. Among them were johnnycake, "Indian slapjack" and Indian pudding. Colonists called corn "Indian corn" and cornmeal "Indian meal," so the word Indian in these names meant that the dishes were made with cornmeal.
 
-Her book also contains the first printed recipe that used pearlash to make dough rise. Pearlash is a salt made from wood ashes. Bakers used it to make dough rise before baking powder existed. The book also contains some of the earliest printed uses of the words "cookey" and "slaw," which came into American English from Dutch settlers in America.
+Her book also contains the first printed recipe that used pearlash to make dough rise. Pearlash is a salt made from wood ashes. Bakers used it to make dough rise before baking powder existed. The book also contains some of the earliest printed uses of the words "cookey" (cookie) and "slaw" (a salad of shredded cabbage), which came into American English from Dutch settlers in America.
 <!-- hb-story:end slug="amelia-simmons" -->
 <!-- hb-time:end id="1750-1800" -->

@@ -16,21 +16,19 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 Before 1500, the Native nations of North America managed the land they lived on. In the eastern forests, people set fires on purpose to keep the woods open and to grow food for the animals they hunted. Farmers planted crops together in ways that kept the soil in good condition. In southwest Florida, the Calusa built pens in the water to hold live fish.
 
-Beavers dammed streams across the continent. About 30 million bison lived on the Plains in the early 1800s.
+Beavers dammed streams across the continent. Bison grazed the Plains. Nobody knows how many bison lived there before 1500. The figure usually given is for a much later time: about 30 million in the early 1800s, before hunters killed off the herds.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fire as a tool" -->
 For thousands of years, Native people in what is now the eastern United States burned their forests on purpose. They set low fires in the understory, the layer of brush and small plants under the tall trees. They burned the same ground again and again. The repeated fires kept the woods open and helped oaks and other trees that can live through fire. Food plants grew back after each burn, and the burns produced food for the game animals that people hunted. Game means wild animals hunted for food.
 
-In 2019, researchers at Penn State, a university in Pennsylvania, published a study in the journal *Annals of Forest Science*. They found that which trees grew in the eastern forests depended more on Native burning than on the climate. Climate is the usual weather of a place over many years. Even small groups of people burned large areas, over and over.
+In 2019, researchers at Penn State, a university in Pennsylvania, published a study in the journal *Annals of Forest Science*. They found that which trees grew in the eastern forests depended more on Native burning than on the climate. Climate is the usual weather of a place over many years. Even small groups of people burned large areas, over and over. European colonists treated this burning as unimportant.
 
-European colonists did not take this burning seriously.
-
-In the 1900s, officials of the US Forest Service tried to put out every forest fire. The Penn State researchers call the total stopping of fires after about 1940 "an ecologically transformative event in all forests." Ecology is the study of how living things depend on each other and on the land. By that phrase the researchers mean that stopping the fires changed the plants and animals of every forest.
+In the 1900s, officials of the US Forest Service tried to put out every forest fire. The Penn State researchers call the total stopping of fires after about 1940 "an ecologically transformative event in all forests." Ecology is the study of how living things depend on each other and on the land, and transformative means causing a big change.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three crops in one field" -->
-Native farmers grew corn, beans and squash together in the same field. The three crops are known as the Three Sisters. The beans put nitrogen into the soil, and plants need nitrogen to grow. The wide squash leaves shaded the ground and held the soil in place. The tall corn stalks gave the bean vines something to climb.
+Native farmers grew corn, beans and squash together in the same field. The three crops are known as the Three Sisters. The beans put nitrogen into the soil. Nitrogen is a natural substance that plants take up from the soil to grow. The wide squash leaves shaded the ground and held the soil in place. The tall corn stalks gave the bean vines something to climb.
 
 Growing the three crops together kept the soil in good condition. A field planted with only one crop, year after year, wears out.
 <!-- /hb-zoom -->
@@ -50,13 +48,13 @@ In what is now southwest Florida, the Calusa people built watercourts between 13
 <!-- hb-zoom level="era" -->
 Ships from Europe brought pigs, horses, cattle and earthworms to the Americas. Pigs that escaped from the Spanish explorer Hernando de Soto and his men went wild in the Southeast. European earthworms moved into northern forests that had no worms before.
 
-After 1492, most of the Native people of the Americas died. They died of diseases carried by European settlers and by enslaved Africans, of wars made by European conquerors, and of hunger. Enslaved people were held as property and forced to work without pay. Forest grew back over the farmland of the people who died.
+After 1492, most of the Native people of the Americas died. Most died of diseases carried by European settlers and by enslaved Africans. European soldiers and settlers killed others in wars to take Native lands, and many starved. Enslaved people were held as property and forced to work without pay. Forest grew back over the farmland of the people who died.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pigs, horses and cattle" -->
 Pigs that escaped from Hernando de Soto's herd became the ancestors of the feral hogs of the Southeast. Feral hogs are pigs from farm stock that live in the wild.
 
-De Soto landed near Tampa Bay, in what is now Florida, in May 1539. He brought about 600 men and a herd of pigs. An expedition is a journey made by a group for a purpose. Chronicles, the written histories of de Soto's expedition, give the first herd as 13 pigs. By the time de Soto died in 1542, the herd had grown to about 700. That count leaves out the pigs the men ate or gave away and the pigs that escaped.
+De Soto landed near Tampa Bay, in what is now Florida, in May 1539. He brought about 600 men and a herd of pigs. An expedition is a journey made by a group for a purpose. Chronicles, the written histories of de Soto's expedition, list the first herd as 13 pigs. By the time de Soto died in 1542, the herd had grown to about 700. That count leaves out the pigs the men ate or gave away and the pigs that escaped.
 
 Horses and cattle came with the Spanish. Columbus brought horses on his second voyage, in 1493. Spanish colonists brought horses and cattle to their colony in New Mexico in 1598.
 <!-- /hb-zoom -->
@@ -68,11 +66,11 @@ European earthworms crossed the ocean hidden in ballast soil. Ballast is heavy m
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Forest over lost farms" -->
-After 1492, most of the Native people of the Americas died from epidemics, war and famine. An epidemic is a disease that spreads quickly to many people. A famine is a lack of food so great that people starve. European settlers brought the diseases, and so did enslaved Africans whom Europeans had carried across the ocean. The diseases included smallpox, measles and influenza, and Native people had never been exposed to any of them before. European conquerors made war on Native nations and enslaved Native people. Famine followed when too few people were well enough to farm.
+After 1492, most of the Native people of the Americas died from epidemics and famine or were killed in war. An epidemic is a disease that spreads quickly to many people. A famine is a lack of food so great that people starve. European settlers brought the diseases, and so did enslaved Africans whom Europeans had carried across the ocean. The diseases included smallpox, measles and influenza, and Native people had never been exposed to any of them before. European soldiers and settlers made war on Native nations to take their land, and they enslaved Native people. Famine followed when too few people were well enough to farm.
 
 In 2019, a team of researchers at University College London, in England, published an estimate of what those deaths did to the land. They estimated that the Native population of the Americas fell from about 60 million to about 6 million within roughly a hundred years. Other estimates of the starting number differ. For North America north of Mexico alone, estimates run from 1 million to 18 million.
 
-The team estimated that about 55.8 million hectares of farmland grew back into forest after its farmers died. A hectare is a square of land 100 meters long on each side. The new trees took carbon dioxide, a gas that traps heat, out of the air. By the team's estimate, the carbon dioxide in the air fell by 7 to 10 parts in every million parts of air. By their estimate, the regrowth added about 0.15 degrees Celsius of cooling to the whole planet. These figures come from one study.
+The team estimated that about 55.8 million hectares of farmland grew back into forest after its farmers died. A hectare is a square of land 100 meters long on each side. The new trees took carbon dioxide, a gas that traps heat, out of the air. The team estimated that the regrowth lowered the carbon dioxide in the air by 7 to 10 parts in every million parts of air, and cooled the whole planet by about 0.15 degrees Celsius. That is about a quarter of a degree on the Fahrenheit scale used in American weather reports. All of these figures are the estimates of this one team.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -92,9 +90,9 @@ The fall went on until about 1900. By then about 100,000 beavers were left in No
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first limits on cutting trees" -->
-In 1626 the leaders of Plymouth Colony made a rule about timber, which is wood cut for building. No one could cut timber on the colony's land, or sell it, without official permission. It was among the earliest conservation rules in the colonies. Conservation means protecting land, water, plants and animals so that people do not use them up.
+Under a Plymouth Colony rule of 1626, no one could cut timber on the colony's land, or sell it, without official permission. Timber is wood cut for building. It was among the earliest conservation rules in the colonies. Conservation means protecting land, water, plants and animals so that people do not use them up.
 
-In 1681 William Penn wrote rules for settlers in Pennsylvania. For every five acres a settler cleared of trees, Penn's rules said to leave one acre of trees standing. An acre is a piece of land a little smaller than a football field. The rules named oaks and mulberry trees, which were useful for silk and for ships. Settlers widely ignored this rule.
+In 1681 William Penn wrote rules for settlers in Pennsylvania. For every five acres a settler cleared of trees, Penn's rules required the settler to leave one acre of trees standing. An acre is a piece of land a little smaller than a football field. The rules named oaks and mulberry trees, which were useful for silk and for ships. Settlers widely ignored this rule.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="miantonomi" name="Miantonomi" movie="" kind="famous" status="verified" -->
@@ -107,9 +105,9 @@ In 1642 Miantonomi told the Montaukett people on Long Island what the English we
 
 His words were written down by Lion Gardener, an English soldier. Gardener wrote them in his *Relation*, an account he set down in 1660, years after the speech. By Gardener's record, Miantonomi said that "our fathers had plenty of deer and skins and our plains were full of game and turkeys." He said that the English "with scythes cut down the grass, and with axes fell the trees." A scythe is a tool with a long curved blade for cutting grass. To fell a tree means to cut it down. He went on: "their cows and horses eat the grass, and their hogs spoil our clam banks, and we shall all be starved."
 
-The substance of what Miantonomi said is believable. The exact wording is Gardener's, written by an Englishman years later.
+The exact wording is Gardener's, set down by an Englishman years later. The complaints themselves match what colonists were doing at the time: cutting the forests and letting their cattle and hogs roam into Native fields.
 
-In 1643 Uncas, the sachem of the Mohegan nation, captured Miantonomi and took him to Hartford. That September, the commissioners of the United Colonies of New England met in Boston. They were English officials from the Massachusetts Bay, Plymouth, Connecticut and New Haven colonies. They asked a group of ministers, who were church leaders, for advice. Then they sentenced Miantonomi to death and handed him back to Uncas to carry out the sentence. Governor John Winthrop of Massachusetts Bay wrote in his journal that "they all agreed that he ought to be put to death." He gave their reason: "Uncas could not be safe while Miantonomo lived." Miantonomo is another spelling of Miantonomi. Mohegan men took him to the place near present-day Norwich, Connecticut, where he had been captured. There Wawequa, the brother of Uncas, killed him with a hatchet blow to the head. By the account of the historian Neal Salisbury, several Englishmen went along to make sure the killing was carried out.
+In 1643 Uncas, the sachem of the Mohegan nation, captured Miantonomi and took him to Hartford. That September, the commissioners of the United Colonies of New England met in Boston. They were English officials from the Massachusetts Bay, Plymouth, Connecticut and New Haven colonies. They passed the case to a group of ministers, who were church leaders. Then the commissioners sentenced Miantonomi to death and handed him back to Uncas to carry out the sentence. Governor John Winthrop of Massachusetts Bay wrote in his journal that "they all agreed that he ought to be put to death." He gave their reason: "Uncas could not be safe while Miantonomo lived." Miantonomo is another spelling of Miantonomi. Mohegan men took him to the place near present-day Norwich, Connecticut, where he had been captured. There one of Uncas's men, walking behind Miantonomi, killed him with a hatchet blow to the head. Mohegan tradition and later histories name that man as Wawequa, the brother of Uncas. By the account of the historian Neal Salisbury, several Englishmen went along to make sure the killing was carried out.
 <!-- hb-story:end slug="miantonomi" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -117,11 +115,11 @@ In 1643 Uncas, the sachem of the Mohegan nation, captured Miantonomi and took hi
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Tobacco planters in colonial Virginia wore out the soil of a field in three or four years. Planters were people who owned large farms called plantations. When a field wore out, they cleared new ground farther up the rivers and moved on. In New England, cutting the largest white pines was against the law, because England's rulers kept them for the masts of the Royal Navy, which is Britain's navy. By the middle of the 1700s, whalers from the island of Nantucket were sailing far out into the ocean to hunt sperm whales.
+Tobacco planters in colonial Virginia wore out the soil of a field in three or four years. Planters were people who owned large farms called plantations. When a field wore out, they cleared new ground farther up the rivers and moved on. In New England, cutting the largest white pines was against the law. The king's officials kept them for the masts of the Royal Navy, Britain's navy. By the middle of the 1700s, whalers from the island of Nantucket were sailing far out into the ocean to hunt sperm whales.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The king's pines" -->
-England's rulers kept the largest white pines in New England for the masts of the Royal Navy's ships. A mast is the tall pole that holds up a ship's sails. A charter is a written grant from the king or queen that sets up a colony's government. In the Massachusetts Bay charter of 1691, the rule covered every white pine 24 inches across or more.
+The king's officials kept the largest white pines in New England for the masts of the Royal Navy's ships. A mast is the tall pole that holds up a ship's sails. A charter is a written grant from the king or queen that sets up a colony's government. In the Massachusetts Bay charter of 1691, the rule covered every white pine 24 inches across or more.
 
 Under the White Pine Act of 1722, cutting any white pine more than 12 inches across without a license was against the law in New Hampshire and nearby colonies. A license is written permission. The king's trees carried a mark called the Broad Arrow, which was three slashes cut with a hatchet. Royal officials enforced these laws loosely until the 1760s.
 <!-- /hb-zoom -->
@@ -129,9 +127,9 @@ Under the White Pine Act of 1722, cutting any white pine more than 12 inches acr
 <!-- hb-zoom level="span" label="Worn-out tobacco fields" -->
 A tobacco field in colonial Virginia gave good crops for only three or four years. After that, planters cleared new ground and let the old field grow over with scrub, which is brush and small trees. The land around Jamestown wore out early. Planters moved up the rivers and reached the Rappahannock and the Potomac by about 1650. They kept moving up the rivers all through the 1700s. Because new land was cheap, planters kept wearing out one field after another.
 
-The new land along the Rappahannock River was the homeland of the Rappahannock Tribe. The tribe's own history states that English settlement there began illegally in the 1640s. Rappahannock leaders sold their first land to the English in 1651. They spent more than ten years in county courts trying to get paid for that sale and others. They never received full payment. By the late 1660s, settlers and bands of settlers who acted as their own law had forced the Rappahannock to move. The tribe moved first inland on the north side of the Rappahannock River, and later to its old hunting grounds on the south side. In 1683 officials of the Virginia colony forced the tribe out of their homes and moved them to a place called Portobago Indian Town.
+The new land along the Rappahannock River was the homeland of the Rappahannock Tribe. The tribe's own history states that English settlement there began illegally in the 1640s. By that history, Rappahannock leaders sold their first land to the English in 1651. They spent more than ten years in county courts trying to get paid for that sale and others. They never received full payment. The tribe's history goes on to say that by the late 1660s, settlers and bands of settlers who acted as their own law had forced the Rappahannock to move. The tribe moved first inland on the north side of the Rappahannock River, and later to its old hunting grounds on the south side. In 1683, the history states, officials of the Virginia colony forced the tribe out of their homes and moved them to a place called Portobago Indian Town.
 
-Planters used indentured servants and enslaved Africans to work the tobacco fields. An indentured servant worked for a master for a set number of years, often four to seven, to pay for the trip to America. Enslaved Africans were held as property and forced to work without pay, with no set number of years. Growing tobacco took a great deal of hand work, and planters wanted more and more workers to do it.
+Indentured servants and enslaved Africans did the work in the tobacco fields. An indentured servant worked for a master for a set number of years, often four to seven, to pay for the trip to America. Planters held enslaved Africans as property and forced them to work without pay for life. Under a Virginia law of 1662, a child born to an enslaved mother was enslaved for life too. Growing tobacco took a great deal of hand work, and planters wanted more and more workers to do it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whaling from Nantucket" -->
@@ -145,9 +143,9 @@ By the middle of the 1700s, whalers from Nantucket, an island off Massachusetts,
 <!-- hb-zoom level="era" -->
 In 1785 members of Congress ordered the land north and west of the Ohio River measured into a grid of squares. Then US officials could sell it. The Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations lived on that land. In January 1785, US commissioners claimed most of Ohio through a treaty signed under threat. Commissioners are officials sent to do a certain job, and a treaty is a written agreement between nations.
 
-Surveyors measured the land under army guard. From 1790 to 1794, US generals led armies against the nations, who had joined together to stop settlement. After General Anthony Wayne's army defeated them in 1794, leaders of eleven nations signed a treaty in 1795 that gave up most of Ohio.
+Surveyors measured the land under army guard. From 1790 to 1794, US generals led armies against the nations, who had joined together to stop settlement. After General Anthony Wayne's army defeated them in 1794, leaders of eleven nations signed a treaty in 1795 that handed most of Ohio to the United States.
 
-Before independence, the king's officials had claimed New England's biggest white pines. In 1772, men in Weare, New Hampshire, beat a sheriff who came to make a mill owner pay for cutting them. After independence, settlers crossed the Appalachian Mountains and cleared the forest for farms.
+Before independence, the king's officials had claimed New England's biggest white pines. In 1772, men in Weare, New Hampshire, beat a sheriff who came to arrest a mill owner fined for cutting them. After independence, settlers crossed the Appalachian Mountains and cleared the forest for farms.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="ebenezer-mudgett" name="Ebenezer Mudgett" movie="" kind="ordinary" status="verified" -->
@@ -160,7 +158,7 @@ Ebenezer Mudgett owned a sawmill in Weare, New Hampshire. He had been fined for 
 
 On April 13, 1772, Sheriff Benjamin Whiting rode into South Weare with a warrant to arrest Mudgett. A warrant is a paper from a court that allows an arrest. Mudgett told him he would pay in the morning. At dawn on April 14, Mudgett came back with 20 to 30 men who had blackened their faces with soot, the black powder that smoke leaves behind. They beat the sheriff and his deputy with rods and drove them out of town. The fight became known as the Pine Tree Riot.
 
-The rioters were later fined 20 shillings, a small fine. A shilling was a British coin. After the riot, officials mostly stopped enforcing the law that kept the pines for the navy. Some accounts count the riot as a forerunner of the Boston Tea Party, a protest in December 1773. A forerunner is an earlier event of the same kind. No one has proved that the riot led to the Tea Party.
+In September 1772, eight men stood trial in the Superior Court at Amherst, New Hampshire, for rioting and for beating Whiting. They pleaded guilty. The four judges fined each man only 20 shillings and made them pay the cost of the hearing. A shilling was a British coin. After the riot, officials mostly stopped enforcing the law that kept the pines for the navy. Some accounts count the riot as a forerunner of the Boston Tea Party, a protest in December 1773. A forerunner is an earlier event of the same kind. No one has proved that the riot led to the Tea Party.
 <!-- hb-story:end slug="ebenezer-mudgett" -->
 
 <!-- hb-zoom level="span" label="The grid, 1785" -->
@@ -172,25 +170,25 @@ After changes to the system in 1796, surveyors carried the grid across the conti
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Whose land the grid covered" -->
-In 1785 the land north and west of the Ohio River was the home of the Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations. George W. Knepper wrote a history of these lands, *The Official Ohio Lands Book*, for Ohio's Auditor of State, an official of the state government. He writes that in the view of Congress, "Indian claims to that land had to be cleared." Here, cleared means ended, so that no Native nation still had a right to the land.
+In 1785 the land north and west of the Ohio River was the home of the Shawnee, Delaware, Wyandot, Miami, Ottawa, Chippewa, Potawatomi and other nations. George W. Knepper wrote a history of these lands, *The Official Ohio Lands Book*, for Ohio's Auditor of State, an official of the state government. He writes that, as members of Congress saw it, "Indian claims to that land had to be cleared." Here, cleared means ended, so that no Native nation still had a right to the land.
 
 A commissioner is an official sent to do a certain job. A treaty is a written agreement between nations. In January 1785, four months before the Land Ordinance passed, US commissioners met representatives of several nations at Fort McIntosh. The commissioners made a treaty there. In it, they said that most of the Native people of Ohio had to stay inside a reserve between the Cuyahoga and Maumee rivers. A reserve is an area set aside for a nation to live on. Knepper writes that under the treaty, "Most Ohio lands would now be open for settlement."
 
-Knepper writes that the Shawnee in particular "refused to abide by a treaty negotiated under duress by minor tribal chiefs who lacked authority to speak for their people." To abide by means to obey. Under duress means under threat or force.
+Knepper writes that the Shawnee in particular "refused to abide by" the treaty. To abide by means to obey. He says the treaty was "negotiated under duress by minor tribal chiefs who lacked authority to speak for their people." Under duress means under threat or force.
 
-On September 30, 1785, Thomas Hutchins began the first survey of this land for the national government. His title was Geographer of the United States. A geographer is a person who studies and maps the land. He and his crew worked in eastern Ohio, in an area called the Seven Ranges. On October 8 the crew heard news of an attack by Native warriors on the Tuscarawas River. Hutchins and his men stopped after only a few miles of their first line and went back to Pittsburgh.
+On September 30, 1785, Thomas Hutchins began the first survey of this land for the national government. His title was Geographer of the United States. A geographer is a person who studies and maps the land. He and his crew worked in eastern Ohio, in an area called the Seven Ranges. On October 8 the crew heard news of an attack by Native people on the Tuscarawas River. Hutchins and his men stopped after only a few miles of their first line and went back to Pittsburgh.
 
-Hutchins asked for soldiers to protect his crew. In 1786 Colonel Josiah Harmar ordered Major John Francis Hamtramck and soldiers of the First American Regiment to guard the surveyors. Under that guard, the crew ran a line 42 miles west from Pennsylvania, called the Geographer's Line. Then they cut the land into ranges, which are long strips, and into townships and sections. They measured the land for sale while the nations who lived on it still rejected the treaty.
+Hutchins asked for soldiers to protect his crew. In 1786 Lieutenant Colonel Josiah Harmar, the commander of the US army, ordered Major John Francis Hamtramck and soldiers of the First American Regiment to guard the surveyors. A regiment is a large unit of soldiers. Under that guard, the crew ran a line 42 miles west from Pennsylvania, called the Geographer's Line. Then they cut the land into ranges, which are long strips, and into townships and sections. They measured the land for sale while the nations who lived on it still rejected the treaty.
 
 In 1786, Knepper writes, US commissioners "coerced" the Shawnee into another treaty at Fort Finney. Coerced means forced.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The war for Ohio and the Treaty of Greenville" -->
-The nations of the region joined in a confederacy, which is a union of nations, to stop American settlement. In 1790 Major General Josiah Harmar led a US army against them. Warriors led by Little Turtle, a Miami war chief also known as Meshekinoquah, defeated Harmar's army.
+The nations of the region joined in a confederacy, which is a union of nations, to stop American settlement. In 1790 Josiah Harmar led a US army against them. He was the same officer who had sent soldiers to guard the surveyors, and since 1787 he had held the title of brigadier general. Warriors led by Little Turtle, a Miami war chief also known as Meshekinoquah, defeated Harmar's army.
 
-In 1791 Major General Arthur St. Clair led another army against the confederacy. St. Clair was the governor of the Northwest Territory, the US name for the land north and west of the Ohio River. The confederacy's warriors defeated his army at the place later called Fort Recovery. Knepper calls it "the worst defeat ever inflicted upon the U.S. Army by Indian warriors."
+In 1791 Major General Arthur St. Clair led another army against the confederacy. St. Clair was the governor of the Northwest Territory, the US name for the land north and west of the Ohio River. On November 4, 1791, the confederacy's warriors defeated his army at the place later called Fort Recovery. A US Army history of the campaign counts more than 900 soldiers, and women and children traveling with the army, killed or wounded. Knepper calls it "the worst defeat ever inflicted upon the U.S. Army by Indian warriors."
 
-In 1794 Major General Anthony Wayne led an army that defeated the confederacy at the Battle of Fallen Timbers. On August 3, 1795, leaders of eleven northwestern nations signed the Treaty of Greenville. In it they gave up 16,930,417 acres to the United States. Under the treaty, the nations kept only the northwest quarter of Ohio and the lands beyond it, behind a boundary called the Greenville Treaty Line.
+In 1794 Major General Anthony Wayne led an army that defeated the confederacy at the Battle of Fallen Timbers. On August 3, 1795, leaders of eleven northwestern nations signed the Treaty of Greenville. In it, a year after their defeat, they handed 16,930,417 acres to the United States. Under the treaty, the nations kept only the northwest quarter of Ohio and the lands beyond it, behind a boundary called the Greenville Treaty Line.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Clearing after independence" -->
