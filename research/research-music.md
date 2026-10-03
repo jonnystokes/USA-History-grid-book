@@ -41,6 +41,9 @@ Not researched in T-268a: the seed placed the claim in Before 1500, but the case
 - Platinum: RIAA, "About the Awards" (https://www.riaa.com/gold-platinum/about-awards/, opened 2026-10-02): Gold album "500,000 units," Platinum album "1,000,000 units." So *Canyon Trilogy*'s 2014 Platinum award means one million units.
 - Bank note (not fixed in the source): the Turff and Carr jacket counts above add to 104 (81+11+10+1+1), against "102 jackets with known metal." The prose gives only the 102 and the 81.
 
+### PATCH 2026-10-03 (T-633): no written tunes before contact
+- EBSCO Research Starters, "Native American music and song" (https://www.ebsco.com/research-starters/music/native-american-music-and-song, opened 2026-10-03): "Indigenous cultures have never codified music as European cultures have ... none of the North American tribes developed written languages or a system of describing specific tunes in a permanent manner." Supports the prose: no way of writing tunes down, so songs were passed on by teaching, and no singer's or song's name from before 1500 survives in writing.
+
 ## Era 02: The 1500s (T-268a, 2026-09-28)
 
 ### Fort Caroline, 1564 (Timucua land)
@@ -107,6 +110,9 @@ How the prose can say it: "Enslaved Africans in the English colonies made music 
 - Po'pay was one of the 47 convicted of sorcery in 1675 and whipped in public (Architect of the Capitol, "Po'pay Statue"; Indian Pueblo Cultural Center, via the holidays bank).
 - On August 10, 1680, the Pueblo nations, coordinated by Po'pay, rose together, besieged and took Santa Fe, and drove the Spanish out of New Mexico; 401 settlers and 21 Franciscan friars were killed; most Spaniards were allowed to flee south; the Pueblos governed themselves for 12 years; Diego de Vargas began the reconquest in 1692 (Britannica "Pueblo Rebellion"; Indian Pueblo Cultural Center; via the native-nations bank).
 
+### PATCH 2026-10-03 (T-633): Vetancurt's full name
+- Wikipedia, "Agustín de Vetancurt" (opened 2026-10-03): "Agustín de Vetancurt ... (1620-1700) was a Mexican Catholic historian"; "became a Franciscan in Puebla"; his *Teatro Mexicano* (1697-98) includes the *Menologio Franciscano*, lives of notable Franciscans.
+
 ## Era 04: 1700 to 1750 (T-268a, 2026-09-28)
 
 ### Regular singing and singing schools
@@ -162,6 +168,10 @@ How the prose can say it: "Singing schools began in New England in the 1720s. Th
 - Samuel Sewall was a judge: "Judge Samuel Sewall" (`research/research-art.md`, Encyclopedia.com on John Smibert's sitters).
 - J. Franklin: James Franklin ran a press and newspaper in Boston in 1721 (*New-England Courant*, founded August 1721; `research/research-health.md`, Wikipedia and MHS). The Walter title page reads "Printed by J. Franklin," Boston, 1721 (Jones 1932, above).
 - Lining out in New England: Wikipedia, "Lining out" (era 03 above): turned against in England and New England "in the first quarter of the 18th century" in favor of "regular singing."
+
+### PATCH 2026-10-03 (T-633): Tufts's date, and the whipping clause's actors
+- Tufts, 1721 confirmed on an opened page: Sacred Harp Publishing Company, "The Curious History of Shape-Notes," Dec. 31, 2016 (https://sacredharp.com/2016/12/31/the-curious-history-of-shape-notes/, opened 2026-10-03): "The Reverend John Tufts spear-headed a movement to establish singing schools with the publication in 1721 of his Introduction to the Singing of Psalm Tunes." (Wikipedia, "John Tufts (music educator)," opened the same day, gives 1715 instead, and says the third edition of 1726 is the earliest that survives. Not used.) The dispute stands: Foote about 1712, Sacred Harp 1721.
+- Negro Act 1740, s. XXXVI, full text (scpronet PDF above, re-read with pypdf 2026-10-03): "it shall be lawful for all masters, overseers and other persons whosoever, to apprehend and take up any Negro or other slave that shall be found out of the plantation ... and the said Negro or other slave or slaves, met or found out of the plantation of his or their master or mistress, though with a letter or ticket, if he or they be armed with such offensive weapons aforesaid, him or them to disarm, take up and whip." So the men allowed to whip were the same "masters, overseers and other persons whosoever," and the pass did not protect an armed man. Text transcribed from McCord, *Statutes at Large of South Carolina*, vol. 7 (1840), p. 397.
 
 ## Era 05: 1750 to 1800 (T-268a, 2026-09-28)
 
@@ -233,6 +243,9 @@ How the prose can say it: omit the musters. The records read name musicians in n
 - St. Jago: York University Libraries, "18th C Indian Ocean Voyages: Santiago (St Jago)" (https://scalar.library.yorku.ca/18th-c-indian-ocean-voyages/santiago, opened 2026-10-02): Santiago (St Jago), "Ilha Santiago, Cabo Verde," i.e. the island of Santiago in the Cape Verde Islands.
 - Black election days, copied from `research/research-holidays.md` (New England Historical Society, "Black Kings and Governors of New England"): royal colonies (New Hampshire, Massachusetts) elected kings, charter colonies (Rhode Island, Connecticut) governors; "Rum and gingerbread and thick, fruit-studded election cakes"; about 1750 to 1850; enslavers granted the days and paid for the election feast.
 - Yakutat scholars: Sealaska Heritage Institute, "Trio of scholars to reveal analysis, play synthesis of Tlingit singing from encounter with Spaniards in 18th century," Sept. 23, 2022 (https://sealaskaheritage.org/trio-of-scholars-to-reveal-analysis-play-synthesis-of-tlingit-singing-from-encounter-with-spaniards-in-18th-century-2/, opened 2026-10-02): Maria Shaa Tláa Williams, "a Tlingit ethnomusicologist at UAA and trustee of SHI"; Judy Daxootsu Ramos, "a Tlingit from Yakutat, Alaska"; Williams "analyzed the musical notation and determined what kind of songs" the Tlingit sang and "programmed a musical synthesizer to see how the music sounded." Steve Langdon obtained the images from the Museo de América and sent them to Williams.
+
+### PATCH 2026-10-03 (T-633): The Old Plantation shows enslaved people dancing
+- Encyclopedia Virginia (Virginia Humanities), "The Old Plantation" (https://encyclopediavirginia.org/4333hpr-b5deaccd6d628b6/, opened 2026-10-03): "A late eighteenth-century watercolor titled The Old Plantation portrays enslaved men and women during a moment of leisure or celebration." "The figures at the center of the painting are dancing." This replaces the "Not used" search summary above.
 
 ## Era 06: 1800 to 1850 (T-268b, 2026-09-28)
 
@@ -412,6 +425,13 @@ How the prose can say it: "No one wrote down a description of the blues before 1
 - Dispute: Wikipedia "Scott Joplin" says the first ragtime work in print was William Krell's "Mississippi Rag" in 1897. The outline gives "1895 or 1897."
 - George W. Johnson, later life (Wikipedia, "George W. Johnson (singer)"): by 1905 no longer needed to record each copy; "His friend Len Spencer, now a successful artist and booking agent, hired Johnson as an office doorman."
 
+### PATCH 2026-10-03 (T-633): eras 06-07 gaps found by the step 7 fixer
+- Tubman, era 06: copied from `research/research-slavery-freedom.md` (line 215, NPS Tubman fact sheet "Myths and Facts", Britannica; line 274, National Women's History Museum, "Harriet Tubman," opened 2026-10-02): she escaped from Maryland's Eastern Shore in September 1849, to Philadelphia.
+- Gettysburg date, era 07: copied from `research/research-war.md` (line 1795): the battle was fought 1-3 July 1863.
+- Sharecropping, era 07: copied from `research/research-slavery-freedom.md` (line 318, EJI and standard Reconstruction references): "without land, freedpeople farmed shares of landlords' fields against advances for tools, seed, and food at plantation-store prices, a debt that rolled over year after year and bound families to the land."
+- Ghost Dance songs recorded, era 07: The Public Domain Review, "James Mooney's Ghost Dance Recordings (1894)" (https://publicdomainreview.org/collection/james-mooney-s-ghost-dance-recordings-1894/, opened 2026-10-03): "a series of recordings made by James Mooney in 1894 of different Native American Ghost Dance songs"; citing the Library of Congress notes, "the performances are probably by Mooney himself and not by Native Americans." Mooney was an ethnographer. (The LOC item page, https://www.loc.gov/item/2014655251/, returned 403. Search summaries say 12 zinc Berliner discs, July 5-11, 1894, for the Bureau of Ethnology: unconfirmed, not used.) This confirms the `religion` bank lead (its line 2787) except the format: the search summaries say discs, not wax cylinders, so the prose says only "recorded."
+- Foster's death, era 06: Wikipedia's "may also have sought to kill himself" has no named biographer in the bank. SEARCH NEEDED in round 2 (a named Foster biographer on the January 1864 fall). Prose keeps the Pitt account of a fall and adds the banked Cooper detail.
+
 ## Era 08: 1900 to 1950 (T-268c, 2026-09-28)
 
 All pages below opened 2026-09-28 unless tagged otherwise.
@@ -565,6 +585,11 @@ Sources checked: Indiana History Blog (Poletika 2018, opened: no statement from 
 - Little Rock, 1957: copied from `research/research-education.md` §9a-2 (NPS, "The Little Rock Nine"): nine Black students entered Little Rock Central High School in 1957.
 - Hawaii, copied from `research/research-america-world.md` (Wikipedia, "Overthrow of the Hawaiian Kingdom"; National Archives): on January 17, 1893, a group of mostly American businessmen moved against Queen Liliʻuokalani, and the US Minister John L. Stevens had 162 US Navy and Marine personnel landed; in 1897 Native Hawaiians signed 21,269 petitions against annexation; Congress annexed Hawaii by joint resolution, signed by President McKinley on July 7, 1898.
 
+### PATCH 2026-10-03 (T-633): era 08 gaps found by the step 7 fixer
+- Charles Peabody an archaeologist: "Origins 1901," Punk Archaeology blog (Nov. 10, 2008, https://punkarchaeology.com/2008/11/10/origins-1901/, opened 2026-10-03): "Harvard archaeologist Charles Peabody arrived at Coahoma County on May 11, 1901 and conducted a seven-week excavation season at the Dorr Plantation in Clarksdale and the Edwards Plantation in Oliver." Harvard, American School of Prehistoric Research, directory page "Charles Peabody" (https://sites.harvard.edu/aspr/directory/charles-peabody/, opened 2026-10-03): his research centered on "old world prehistory," and he "was actively engaged in fieldwork." (The blog also says the mounds were Choctaw: blog only, not used.)
+- Fred Hager: Ed Komara, "'Crazy Blues', Mamie Smith (1920)," Library of Congress National Recording Registry essay (https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CrazyBlues.pdf, read with pypdf 2026-10-03): after a Victor audition "that led to nowhere," "Bradford got the ear of Fred Hager, the recording director for OKeh Records," and touted Smith as a singer who could "do more with those songs than a monkey can do with a peanut"; Hager "having already received some warnings from whites not to work with African American musicians ... took the plunge." Komara adds that the pianist Willie "The Lion" Smith later claimed he set up the session through Ralph Peer, which conflicts with Bradford's autobiography *Born With The Blues* (1965).
+- DeFord Bailey's instrument: Wikipedia, "DeFord Bailey" (opened 2026-10-03): "best known for playing the harmonica"; his grandfather taught him harmonica. NPR, "Harmonica Great DeFord Bailey Gets His Due" (Nov. 12, 2005, title seen in search results; page timed out). Bailey was known as "The Harmonica Wizard" (search results, several pages).
+
 ### Era 08 outline notes (T-268c)
 - Stories raised to verified: Bessie Smith, Louis Armstrong, Maybelle Carter, Woody Guthrie, Billie Holiday, Marian Anderson. New verified story: DeFord Bailey (`kind="ordinary"`: not a school-history name; slug `deford-bailey`, used nowhere else).
 - Armstrong's 1957 Little Rock words sit in his story (a life story may run past its era). The Little Rock school events are `education`'s and `rights-movements`'.
@@ -661,6 +686,12 @@ All pages opened 2026-09-28 unless tagged otherwise.
 - Bloody Sunday, copied from `research/research-rights-movements.md`: March 7, 1965, about 600 marchers at the Edmund Pettus Bridge; Major John Cloud gave them two minutes; they were "attacked by the law enforcement officers with nightsticks and teargas"; "at least 50 protestors required hospital treatment."
 - King's murder, copied from `research/research-holidays.md` (from the rights-movements bank, US Department of Justice, 2000): James Earl Ray pleaded guilty in March 1969 and was sentenced to 99 years; he tried for 30 years to withdraw the plea; a 1999 civil jury in *King v. Jowers* found a conspiracy; the Justice Department found those claims not credible.
 - Selena's killing: Texas Public Radio (bank above): "Murder with a Deadly Weapon." The weapon's type is not on a page opened; the prose says "a gun."
+
+### PATCH 2026-10-03 (T-633): era 09 gaps found by the step 7 fixer
+- Wikipedia, "Rapper's Delight" (opened 2026-10-03): "a 1979 rap song that serves as the debut single of American hip-hop trio the Sugarhill Gang." Sylvia Robinson produced it and ran the label's work; the page does not state who owned Sugar Hill Records (Morris Levy and Tony Riviera "had invested in Sugar Hill"). Prose does not call it her company.
+- Wikipedia, "The Message (Grandmaster Flash and the Furious Five song)" (opened 2026-10-03): "a song by the American hip-hop group Grandmaster Flash and the Furious Five."
+- Wikipedia, "Big Mama Thornton" (opened 2026-10-03): "an American singer and songwriter of blues and R&B." The page's lead does not state her race; prose drops "Black" here (the passage is about her as a singer; the era's cover-version passage names the white singers as white).
+- Wikipedia, "Trial of Yolanda Saldívar" (opened 2026-10-03): trial at the Harris County Criminal Courthouse in Houston, Judge Mike Westergren presiding; the jury deliberated "two hours and twenty-three minutes" and returned its verdict on October 23, 1995; she received the maximum sentence, life in prison with parole possible after 30 years.
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-268c): what DJ Kool Herc earned from hip-hop
 Sources checked: Wikipedia "DJ Kool Herc" (party, technique, stabbing, retirement; nothing on income); Wikipedia "Rapper's Delight" (the first hit rap record was by other people, on Sugar Hill); search results on 1520 Sedgwick. How the prose can say it: "The records do not show what Kool Herc earned from hip-hop."
@@ -838,6 +869,13 @@ How the prose can say it: "She died of cancer in Nashville on August 25, 2026, a
 
 ### PATCH 2026-09-30 (T-323): Kennedy Center closure re-checked before prose
 - Search listing, 2026-09-30 (not opened): NBC Washington, "Kennedy Center to stay closed until end of September"; Forbes (Conor Murray, Sept. 24, 2026), "Kennedy Center Will Remain Closed Through September And Reevaluate Weekly"; CNN (Sept. 26, 2026), whistleblowers say officials halted planned repairs; Forbes (Sept. 29, 2026), a bill to prevent demolition introduced in both houses (unconfirmed: search summary only for all four). No change found to the WTOP fact above (closed at least to Sept. 30, 2026, reviewed weekly). The prose states only the WTOP fact.
+
+### PATCH 2026-10-03 (T-633): Kennedy Center after September 30, 2026 (the step 7 refresh)
+- NBC News, Gary Grumbach, "The Kennedy Center will remain closed as safety assessments continue," Oct. 1, 2026 (https://www.nbcwashington.com/news/local/kennedy-center-to-remain-closed-to-public-as-safety-assessments-continue/4161921/, opened 2026-10-03): "The main building of the Kennedy Center has been closed since Sept. 15." Executive director Matt Floca, in an email to staff: "The main building will remain temporarily closed, pending that determination"; the assessment is "expected to be completed within the next two weeks." An engineering firm, Walter P Moore, found "significant corrosion and water damage on most of the exterior 'soffit panels'" (the panels under the overhanging roof), a "falling object hazard and life-safety concern." Free events continue Thursday to Sunday each week in the REACH, the separate, smaller building on the campus. Judge Christopher Cooper asked for weekly updates on the repairs.
+- ABC News, Steven Portnoy, "Internal email points to Kennedy Center's continued closure," Oct. 1, 2026 (https://abcnews.com/Politics/internal-email-points-kennedy-centers-continued-closure/story?id=136925836, opened 2026-10-03): Floca's email of Wednesday (Sept. 30) said the building would "remain temporarily closed" pending an "emergency egress assessment" of the overhanging soffits, to "determine whether, and under what conditions, the building can safely support occupants and be evacuated"; "one to two weeks," which he called "an assessment timeline, not a reopening date"; "no one can access the building's grand hallways without permission and a hard hat." Judge Cooper ordered an update on the closure by Friday (Oct. 2). Trump to TIME: "I'm not committing to anything. We're going to see how it plays out in court."
+- Newsweek, Hannah Parry, Oct. 2, 2026 (https://newsweek.com/kennedy-center-honors-2026-location-demolition-trump-timeline-12517869, opened 2026-10-03): "The 2026 Kennedy Center Honors will be held at Capital One Arena on December 7," the first time in nearly 50 years that the gala will be held outside the Kennedy Center.
+- Search summaries only (not used): a 150-pound piece of ceiling plaster fell in early September; CNN (Oct. 1, 2026) on donation pledges falling.
+- So: the building did NOT reopen on Sept. 30, 2026. As of Oct. 3, 2026, it was still closed, with no reopening date. PERISHABLE.
 
 ### Older musicians and their catalogs, after 2000
 - Wikipedia, "DJ Kool Herc": in early 2011, per The Source, he fell gravely ill and was said to have no health insurance. After kidney-stone surgery at St. Barnabas Hospital in the Bronx, the hospital asked for a deposit before the follow-up surgery because he had missed follow-up visits. His family set up a website and a fund to pay for his care. He recovered from surgery by April 2013. On Nov. 3, 2023, he was inducted into the Rock and Roll Hall of Fame with its Musical Influence Award.
