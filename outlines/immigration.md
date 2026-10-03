@@ -39,6 +39,9 @@ The first people who came to stay. Reasons split between religious freedom and t
 <!-- hb-zoom level="span" label="Jamestown, Plymouth, and indentured servitude" -->
 Jamestown 1607 (the Virginia Company, then tobacco). Plymouth 1620 (about 102 aboard the *Mayflower*). Massachusetts Bay 1630 (the Winthrop Fleet, 11 ships, about 700 people) and the Puritan migration of the 1630s — roughly 20,000 to New England, out of about 80,000 who left England that decade (New England Historical Society). Dutch New Amsterdam on Manhattan, taken and renamed New York in 1664. New Sweden on the Delaware, 1638–1655. Indentured servitude: about 80–90 percent of European immigrants to the Chesapeake in the 1600s arrived under indenture; across all the colonies over the whole colonial era, roughly half to two-thirds (Smithsonian; EH.net — the two figures measure different areas). The first enslaved Africans landed in Virginia in late August 1619 — arrival that was not chosen; the telling belongs to `slavery-freedom`.
 <!-- /hb-zoom -->
+<!-- hb-zoom level="span" label="The first Jewish refugees, 1654" -->
+23 refugees from Recife, Brazil, aboard the *Ste. Catherine*, plus Jacob Barsimson who came earlier that year. Governor Peter Stuyvesant tried to expel them and the Dutch West India Company overruled him. Told as era prose, not a story card, because only Barsimson is named (DECISIONS #16). (Sources: Jewish Women's Archive; Gilder Lehrman.)
+<!-- /hb-zoom -->
 <!-- hb-story:start slug="anne-hutchinson-immigration" name="Anne Hutchinson" movie="" kind="famous" status="verified" -->
 ### Anne Hutchinson
 Born 1591 in Alford, England. In the fall of 1634 she crossed on the *Griffin* with her husband William and their children, among about 200 passengers, following their minister John Cotton to Boston to worship as they believed. The colony she joined for religious freedom put her on trial in 1637 for her religious meetings and banished her; she moved to Rhode Island in 1638, then to Dutch territory, where she and several of her children were killed in a Siwanoy attack in 1643. Arrival angle only — the trial and her ideas are told in `religion` and `rights-movements`. (Sources: Mass Moments; National Women's History Museum.)
@@ -47,10 +50,6 @@ Born 1591 in Alford, England. In the fall of 1634 she crossed on the *Griffin* w
 ### Richard Frethorne
 An indentured English boy who arrived in Virginia in December 1622 on the *Abigail*, bound to Martin's Hundred plantation. His surviving letters of March–April 1623 beg his parents to buy out his indenture or send food — "I never ate anything but peas and loblollie." He was recorded among the dead at Martin's Hundred by February 1624. One of the very few ordinary colonial arrivals whose own words survive. The daily-labor angle is `work-workers`; ours is the crossing and what the promise of America actually bought him. (Sources: Virtual Jamestown transcription; Encyclopedia Virginia.)
 <!-- hb-story:end slug="richard-frethorne-immigration" -->
-<!-- hb-story:start slug="jewish-refugees-1654" name="The first Jewish refugees (1654)" movie="" kind="ordinary" status="verified" -->
-### The first Jewish refugees (1654)
-23 refugees from Recife, Brazil, aboard the *Ste. Catherine*, plus Jacob Barsimson who came earlier that year; Governor Peter Stuyvesant tried to expel them and the Dutch West India Company overruled him. (Sources: Jewish Women's Archive; Gilder Lehrman.)
-<!-- hb-story:end slug="jewish-refugees-1654" -->
 <!-- hb-time:end id="1600s" -->
 
 <!-- hb-time:start id="1700-1750" order="04" chapter="immigration" label="1700 to 1750" state="full" progress="researched" -->

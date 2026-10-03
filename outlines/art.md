@@ -657,15 +657,6 @@ The 1990 law that orders museums to return Native remains and sacred objects is 
 - On May 2, 2025, President Trump's budget office asked Congress to shut down the National Endowment for the Arts. The same day officials of the agency emailed arts groups across the country that their grants were withdrawn or ended because the projects fell outside the President's priorities. About a dozen senior staff members quit within days (MASSCreative). Members of Congress did not close the agency. They gave it $207 million for 2026, the same as the two years before (Congressional Research Service). In April 2026 the White House proposed closing it again.
 - On March 27, 2025, Trump signed an order saying the Smithsonian museums had come under a "divisive, race-centered ideology." On May 30 he said he had fired Kim Sajet, director of the National Portrait Gallery, calling her "highly partisan." Democrats in Congress said the president had no power to fire Smithsonian employees. Sajet resigned on June 13, 2025 (Washington Post). On August 12, 2025, three White House officials ordered a review of eight Smithsonian museums, among them the American Art Museum and the Portrait Gallery, and told them to begin changing their wall labels within 120 days (NPR). Amy Sherald's withdrawal of her show is told in her story below.
 <!-- /hb-zoom -->
-<!-- hb-story:start slug="kehinde-wiley" name="Kehinde Wiley" movie="Kehinde Wiley: An Economy of Grace (2014)" kind="famous" status="verified" -->
-### Kehinde Wiley
-> **Who:** Painter of people from city streets in the poses of old European portraits, and of President Barack Obama's official portrait. · **When and where:** born February 28, 1977, in Los Angeles. New York, and Dakar, Senegal. · **Movie:** *Kehinde Wiley: An Economy of Grace* (PBS, 2014), directed by Jeff Dupre, about him.
-
-- His father, Isaiah D. Obot, is from Nigeria. His mother, Freddie Mae Wiley, is African American. He studied painting at the San Francisco Art Institute and at Yale, where he finished in 2001 (Wikipedia).
-- As an artist in residence at the Studio Museum in Harlem, he found a police mugshot of a young Black man thrown away in the street. He has said it changed his idea of what a portrait could be (Wikipedia).
-- He asks people he meets on city streets to pose like the figures in old European paintings, wearing their own clothes, and paints them that way (Wikipedia).
-- He painted Obama's portrait (2018) and made *Rumors of War* (2019), described above. He founded Black Rock Senegal, a place in Dakar where visiting artists can live and work (Wikipedia).
-<!-- hb-story:end slug="kehinde-wiley" -->
 <!-- hb-story:start slug="amy-sherald" name="Amy Sherald" movie="" kind="famous" status="verified" -->
 ### Amy Sherald
 > **Who:** Painter of Michelle Obama's official portrait and of Breonna Taylor. · **When and where:** born August 30, 1973, in Columbus, Georgia. Baltimore, then New Jersey from 2018.

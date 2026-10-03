@@ -172,10 +172,10 @@ In 1774 the delegates to the First Continental Congress promised to discourage h
 <!-- /hb-zoom -->
 <!-- hb-story:start slug="austin-curtis" name="Austin Curtis" movie="" kind="ordinary" status="verified" -->
 ### Austin Curtis
-> **Who:** An enslaved jockey and horse trainer who became a free man · **When and where:** North Carolina and Virginia, 1770s to 1809
+> **Who:** An enslaved jockey and horse trainer who became a free man · **When and where:** North Carolina and Virginia, 1770s to 1807
 - Willie Jones of Halifax, North Carolina, held Austin Curtis in slavery. Curtis rode Jones's horses in races in Virginia and North Carolina in the 1770s and became well known for it (Mount Vernon).
 - Jones freed Curtis in 1791. Curtis then ran his own business training horses (Mount Vernon).
-- When Curtis died in 1809, a Raleigh newspaper, the *Minerva*, wrote that he was "well known for many years past, as keeper of race horses," and that he "particularly excelled" at managing them (Mount Vernon).
+- Curtis died at Halifax on 10 December 1807. On 5 January 1808 a Raleigh newspaper, the *Minerva*, wrote that he was "well known for many years past, as keeper of race horses," and that he "particularly excelled" at managing them (Mount Vernon).
 <!-- hb-story:end slug="austin-curtis" -->
 <!-- hb-zoom level="span" label="a plantation tutor's journal, 1773 and 1774" -->
 - Philip Fithian taught the children of the planter Robert Carter at Nomini Hall, Virginia, from 1773 to 1774, and kept a journal (Fithian, *Journal and Letters*, 1900).

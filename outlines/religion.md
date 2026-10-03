@@ -134,6 +134,15 @@ New Mexico gave Po'pay's statue to the National Statuary Hall Collection in the 
 
 The Indian Pueblo Cultural Center, which the Pueblo nations run themselves, describes those eighty years this way: "the Pueblo people suffered violence, cruelty, and hunger; exploitation of labor and resources; harassment and persecution for practicing long-held religious traditions that are interwoven in daily life."
 <!-- /hb-zoom -->
+<!-- hb-story:start slug="mary-dyer" name="Mary Dyer" movie="" kind="famous" status="verified" -->
+### Mary Dyer
+> **Who:** A Quaker woman hanged on Boston Common for returning to Massachusetts after she had been banished. · **When and where:** Massachusetts and Rhode Island. Hanged in Boston on June 1, 1660.
+
+- She supported Anne Hutchinson, and in 1638 the Massachusetts leaders forced Dyer and her family out. They moved to Rhode Island. In the 1650s, in England, she became a Quaker (Mass Moments; LOC).
+- She came back to New England to spread Quaker beliefs. Massachusetts officials arrested and banished her three times. In the spring of 1657 her husband, William Dyer, got her out of the Boston jail by confronting Governor John Endecott, on the condition that she never return (Mass Moments).
+- In October 1659 Endecott sentenced her to death with William Robinson and Marmaduke Stephenson. On October 27, 1659, officials made her watch the two men hanged and put the rope around her neck, then announced a reprieve (Mass Moments).
+- She came back once more. In May 1660 Endecott sentenced her to death a second time, and officials hanged her on Boston Common on June 1, 1660 (Mass Moments; LOC).
+<!-- hb-story:end slug="mary-dyer" -->
 <!-- hb-story:start slug="roger-williams" name="Roger Williams" movie="" kind="famous" status="verified" -->
 ### Roger Williams
 > **Who:** A minister thrown out of Massachusetts who founded a colony where the government was not allowed to touch religion · **When and where:** Born London about 1603; Massachusetts 1631; founded Providence, Rhode Island, 1636; died Providence 1683
@@ -315,6 +324,15 @@ After the walkout from St. George's, Jones led most of the group into the Episco
 
 He also started a day school, a Female Benevolent Society and an African Friendly Society, and in 1800 he petitioned Congress about slavery. `rights-movements` covers that petition. He died in 1818.
 <!-- hb-story:end slug="absalom-jones" -->
+<!-- hb-story:start slug="toypurina" name="Toypurina" movie="" kind="ordinary" status="verified" -->
+### Toypurina
+> **Who:** A Tongva woman, often called a religious leader, who helped plan an attack on Mission San Gabriel. · **When and where:** Japchivit and Mission San Gabriel, near what is now Los Angeles, 1785.
+
+- An unbaptized Tongva woman from Japchivit with standing in her community, often called a shaman or religious leader. In October 1785 she helped plan an attack on Mission San Gabriel. Soldiers were warned and arrested twenty-one rebels before it began (MPDF E131, citing Hackel 2003).
+- The plan began with Nicolás José, a baptized Tongva man from Sibapet who had lost a son and two wives. He asked Toypurina to call in the leaders of the other villages. Temejasaquichí, leader of Juvit, carried her message into the mission. Up to eight villages joined (MPDF E131).
+- Their reasons, from their own testimony: Nicolás José said the ban on dancing kept him from holding mourning ceremonies. Toypurina said she was angry with the Spanish settlers and with the Native people who had moved to the mission on her land (MPDF E132, citing Hackel 2003:655).
+- All the leaders spent two and a half years in jail. Temejasaquichí and Alijivit, leader of Jajamovit, were freed with a warning. Spanish officials exiled Nicolás José and Toypurina. The records do not give her birth year or the rest of her life (MPDF E132).
+<!-- hb-story:end slug="toypurina" -->
 <!-- hb-time:end id="1750-1800" -->
 
 <!-- hb-time:start id="1800-1850" order="06" chapter="religion" label="1800 to 1850" state="full" progress="researched" -->

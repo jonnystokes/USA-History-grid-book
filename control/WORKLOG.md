@@ -5134,7 +5134,8 @@ CHECKPOINT: control/checkpoints/POLISH-1.md
 USAGE at launch 67%.
 
 ### 2026-10-03 | [LOCAL] T-641 | outlines: rebuild (Wiley, Curtis, slug match) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: outlines match manuscript (684 slugs); Wiley removed; Curtis 1807; BOOK-OUTLINE rebuilt. Story order differs in 20 chapters (cosmetic). 91,995 tokens (opus).
 
 ### 2026-10-03 | [LOCAL] T-642 | afterword: How We Know | model opus
 STATUS: IN-FLIGHT
