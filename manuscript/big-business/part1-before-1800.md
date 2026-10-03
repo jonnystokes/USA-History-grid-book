@@ -172,7 +172,7 @@ Only 7 of the 319 corporations that Wright counts before 1801 were for making go
 
 Getting a charter cost money. Wright found that people who wanted one paid for signatures and for help getting a bill passed by the lawmakers. Some paid lobbyists and bribes. A lobbyist is a person paid to persuade lawmakers. A bribe is money paid to someone in power to get them to do something.
 
-In a corporation, each owner risks the money he paid for his shares. Limited liability is the rule that owners cannot also be made to pay the company's debts from their own property. The historians Oscar and Mary Handlin found only 16 early charters that promised limited liability in plain words. Wright argues that owners' risk was limited anyway. A company could not charge its shareholders more than the price of their shares.
+In a corporation, each owner risks the money he paid for his shares. Limited liability is the rule that owners cannot also be made to pay the company's debts from their own property. The historians Oscar and Mary Handlin found only 16 early charters that spelled out a promise of limited liability. Wright argues that owners' risk was limited anyway. A company could not charge its shareholders more than the price of their shares.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="robert-morris" name="Robert Morris" movie="" kind="famous" status="verified" -->

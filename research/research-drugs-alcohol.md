@@ -865,3 +865,9 @@ Full sourced text for each is in `research/research-rights-movements.md`, era 7,
 ## Parked from `music` (2026-09-27, T-268)
 Filed by the director after the parallel run. Full sourced text is in `research/research-music.md` under the T-268 PATCH named in each item.
 - `drugs-alcohol`, era 08-09: Federal Bureau of Narcotics and Billie Holiday. Arrested May 16, 1947 (NY apartment), pleaded guilty May 27, Alderson Federal Prison Camp; lost NYC Cabaret Card; arrested Jan 22, 1949, Hotel Mark Twain, San Francisco, by George Hunter White; May 31, 1959, FBN agents arrested her in her bed at Metropolitan Hospital and handcuffed her to it, police guard until a judge ordered the cuffs off; died July 17, 1959, 44, cirrhosis/heart failure (Wikipedia "Billie Holiday"; Halpern and Blistein, TIME, Aug. 12, 2019: "Anslinger ordered agents ... to storm into her room"). Hari (2015) says the FBN targeted her from 1939 over "Strange Fruit"; Lewis Porter disputes (Wikipedia). Full entry in research/research-music.md, Era 08.
+
+### PATCH 2026-10-03 (T-640 polish): the Sally's counts restored (era 5)
+- Same report as the era 05 "stage by stage" entry above (re-read 2026-10-03). The prose now gives every stage count:
+  19 before sailing, four in the first week at sea, 68 on the whole crossing, 20 in the West Indies, one on the way to
+  Providence, and states that 19 + 68 + 20 add to 107 while the report gives 108 at that point and 109 in all. This
+  replaces the earlier note that the prose leaves out the 68.

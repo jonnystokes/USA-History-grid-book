@@ -1123,3 +1123,30 @@ All sourced text is in research/research-sports-play.md, "Era 10" (2026-09-28).
 - (ERA 10) Weinstein: the 2020 jury convicted on two of five charges and acquitted on predatory sexual assault; the 2022 Los Angeles jury convicted on three of seven (bank ERA 10, above). The prose states the acquittals and the counts not convicted (dispatch EXTRA).
 - (ERA 09) *Jaws*: no studio is named in this bank for the 1975 opening, so the prose no longer names Universal.
 - Ira Aldridge's role of October 10, 1825: Oroonoko in *The Revolt of Surinam, or A Slave's Revenge* (bank ERA 06, Wikipedia "Ira Aldridge"). The prose names the play and drops the plot gloss, which the bank does not carry.
+
+### PATCH 2026-10-03 (T-640 polish): sources to replace the five Wikipedia credits in the prose
+- (ERA 06) William Henry Lane: *Notable Black American Men, Book II*, entry "Lane, William Henry," via Encyclopedia.com
+  (https://www.encyclopedia.com/african-american-focus/news-wires-white-papers-and-books/lane-william-henry, WebFetch
+  2026-10-03): "Lane became the only black dancer of his time to receive top billing in an otherwise all white
+  minstrel company." "He toured with the group through the United States and the United Kingdom." "He spent his
+  teenage years in the Five Points area of New York City." Dickens's *American Notes* "describes a dancer many
+  believe to be Lane." Top billing: the first and biggest name on a show's posters (dictionary meaning). The
+  Wikipedia claim "one of the first black performers ... for white audiences" was not found in another source
+  opened (Britannica and BlackPast refused fetching): cut from the prose.
+- (ERA 06) Edwin Forrest: Kenneth Jones, "Philly Native Edwin Forrest, That 19th Century Star, Gets a Day All His Own
+  March 9," *Playbill*, March 8, 2006 (https://playbill.com/article/philly-native-edwin-forrest-that-19th-century-star-gets-a-day-all-his-own-march-9-com-131273,
+  WebFetch 2026-10-03), quoting the Theatre Alliance of Greater Philadelphia: Forrest "was America's first
+  superstar of the stage and the highest paid actor in the world in the mid-nineteenth century." Replaces the
+  Wikipedia "first real American theatrical star" in the Forrest and Cushman stories. Forrest born 1806, Cushman
+  1816 (story headers).
+- (ERA 08) *The Birth of a Nation* bans: Library of Congress, "Popular Reactions to 'Birth of a Nation': Topics in
+  Chronicling America" (https://guides.loc.gov/chronicling-america-birth-of-a-nation, WebFetch 2026-10-03),
+  timeline: May 17, 1915, "Pressure from black voters causes the Mayor of Chicago to ban screenings of the film";
+  March 4, 1916, "Birth of a Nation banned in Ohio." The timeline names no officials.
+- (ERA 09) Yunioshi: Deseret News / Sacramento Bee, "Mickey Rooney upset at racism allegations," September 7, 2008
+  (https://www.deseret.com/2008/9/7/20273173/mickey-rooney-upset-at-racism-allegations/, WebFetch 2026-10-03): the
+  Council of Asian Pacific Islanders Together for Advocacy and Leadership told the Sacramento City Council the role
+  perpetuated "offensive, derogatory and hateful racial stereotypes"; *Breakfast at Tiffany's* was pulled from a
+  free film series. Rooney: Blake Edwards "wanted me to do it because he was a comedy director"; if he had known
+  people would be so offended, "I wouldn't have done it." Stereotype: an unfair idea that every member of a group
+  is the same (dictionary meaning).

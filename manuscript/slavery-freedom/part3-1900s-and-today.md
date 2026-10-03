@@ -75,7 +75,7 @@ An amendment is a change added to the Constitution. The 14th Amendment, added in
 <!-- hb-zoom level="span" label="The amendments enforced" -->
 On May 17, 1954, in *Brown v. Board of Education*, the justices of the Supreme Court all agreed that "separate educational facilities are inherently unequal." Inherently means by their very nature. With that ruling, the justices threw out the "separate but equal" rule of *Plessy v. Ferguson* for public schools.
 
-The Civil Rights Act became law on July 2, 1964, and the Voting Rights Act on August 6, 1965. With these laws, the members of Congress who voted for them gave federal officials the power to enforce the 14th and 15th Amendments. They came about a hundred years after the 13th Amendment forbade slavery.
+The Civil Rights Act became law on July 2, 1964, and the Voting Rights Act on August 6, 1965. Under the Civil Rights Act, hotels, restaurants and other places open to the public could no longer turn people away or keep them apart because of race, and employers could no longer refuse people jobs because of race. Under the Voting Rights Act, no state or county could use any rule to keep a citizen from voting because of race. With these laws, the members of Congress who voted for them gave federal officials the power to enforce the 14th and 15th Amendments. They came about a hundred years after the 13th Amendment forbade slavery.
 
 In 1995 Mississippi's state lawmakers voted to approve the 13th Amendment, 130 years after it became part of the Constitution. No one filed the paperwork that would have made their vote official.
 <!-- /hb-zoom -->

@@ -1147,3 +1147,14 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 
 ### PATCH 2026-10-03 (T-629): the Confederacy, copied from the technology bank (era 10)
 - NPS Civil War 150th timeline, "February 4-8, 1861" (as banked in `research/research-technology.md` PATCH T-603): "Delegates from seven secession states meet in Montgomery, Alabama, to establish the Confederate States of America and elect Jefferson Davis as the Provisional President of the Confederacy."
+
+### PATCH 2026-10-03 (T-640 polish): Spiro diggers' names, stronger source searched (eras 01 and 09)
+- Searched for La Vere, *Looting Spiro Mounds* (2007), and Oklahoma Historical Society sources naming the Pocola
+  diggers. Opened: OHS *Encyclopedia* "Spiro Mounds" (no names), National Cowboy & Western Heritage Museum,
+  spiromounds.com "Archaeology and Looting" (no names), Southwest Ledger review of La Vere (no names), Meta-Center
+  2026 article (no names). Glasstire (2022) and spiromound.com refused fetching; a search summary (unconfirmed, not
+  used) says Henry Hamilton's interviews named John Hobbs, K. A. McKenzie, William McKenzie and Jim Vandagriff.
+  SEARCHED, NOT FOUND in a stronger opened source. The names stay credited to the T-629 source: the Lithic Casting
+  Lab site (a company selling casts of Spiro artifacts), its 1935 photo captions and its notes citing Henry W.
+  Hamilton, "The Spiro Mound," *The Missouri Archaeologist* 14 (October 1952). Re-read with curl 2026-10-03: "two
+  diggers, Mr. Hobbs and Mr. K. A. McKenzie." The prose now says where the names come from.

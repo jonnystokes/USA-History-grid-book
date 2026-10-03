@@ -917,3 +917,12 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `america-world` (2026-09-27, T-312)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-312 PATCH named in each item.
 - `native-nations`: Tlingit at Sitka (Kiksadi fort burned by Baranov, 1804); USS Saginaw shelled and burned 28 of 29 Kake clan houses, early 1869; USRC Corwin destroyed most of Angoon, 1882 (Poulson, Alaska Historical Society). Florida 1818: Jackson's raid on Seminoles and escaped slaves (Office of the Historian). See this bank's T-312 PATCHes.
+
+### PATCH 2026-10-03 (T-640 polish): the Baird film title; who shot Frank Clearwater (era 9 and 10)
+- Film title, with its accent marks: *We Still Live Here: Âs Nutayuneân*, directed by Anne Makepeace (Letterboxd
+  and IMDb listings, Tribal College Journal and Makepeace Productions pages, search 2026-10-03; release year given
+  as 2010 or 2011). The story's movie= value now carries the accents; its year is unchanged.
+- Frank Clearwater (copied from `research/research-crime-justice.md` PATCH T-640): FBI, "Accounting for Native
+  American Deaths, Pine Ridge Indian Reservation, South Dakota" (June 2000), quoted by Indianz.com, July 11, 2000:
+  "The facts gathered indicated Clearwater's death was the result of gunfire received from federal law
+  enforcement officials," who were returning fire. Lloyd Grimm: AP, May 2, 2000, "No suspects were ever found."

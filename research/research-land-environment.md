@@ -268,6 +268,22 @@ Adds named actors, the deed, the health findings and the counts. Source: Univers
 - **Forests on ancestral lands.** Olympic National Forest, "Tribal Relations" page (fs.usda.gov, fetched 2026-10-03): "The Olympic National Forest recognizes that all lands in present day Washington, including National Forests, are the ancestral lands of Indigenous peoples." The USDA blog sentence above ("Many national forests were carved out of ancestral Indian lands and several still overlap and/or interlace with tribal lands") appeared word for word again in search results on 2026-10-03, but usda.gov and fs.usda.gov returned HTTP 403 to a direct fetch, so it is still seen only in search summaries. Use it only as what Forest Service writers have said, beside the Olympic page.
 - **Wolves, elk and willows.** NPS, "The Big Scientific Debate: Trophic Cascades" (nps.gov/articles, May 16, 2019): "For most of the 20th century these woody plants have been suppressed, or not grown tall, due to elk browsing." On the willows' growth after wolves returned: "Most studies agree with this scenario (with some exceptions), and the debate is about why the sudden growth." "What is being debated is the extent that changes in woody plants are due to the effects of wolves (and other carnivores) on elk and how these top-down influences ripple through the food web." (Fetched 2026-10-03.)
 
+### PATCH 2026-10-03 (T-640 polish): the two thin sources from T-610, confirmed or replaced
+- **Great Stone Dam (era 06), confirmed.** Lawrence History Center, "Lawrence History Timeline"
+  (https://lawrencehistory.org/history/timeline, WebFetch 2026-10-03): 1845, "The Essex Company formed by Boston
+  merchants turned manufacturers"; its charter required a dam, canals and fishways; Charles Storrow was agent and
+  chief engineer. 1848: "Great Stone Dam completed. The last granite block was laid exactly 3 years after the
+  first on September 19, 1848." The prose ("Workers for the Essex Company ... finished it in 1848") stands.
+- **National forests on ancestral lands (era 08), blog quote replaced.** The USDA blog page still could not be
+  fetched, so the prose no longer cites it. Testimony of Arthur "Butch" Blazer, President, Mescalero Apache Tribe,
+  Senate Committee on Indian Affairs, April 18, 2018 (indian.senate.gov PDF, fetched 2026-10-03, text extracted):
+  "Regarding federal forests, USDA has acknowledged that the vast majority of federal forest lands are carved out
+  of the ancestral homelands of Indian tribes." National Forests in North Carolina, "Discover History"
+  (https://www.fs.usda.gov/r08/northcarolina/recreation/discover-history, WebFetch 2026-10-03): "The National
+  Forests in North Carolina are located on the ancestral lands of many Native American Tribes that have stewarded
+  them for time immemorial." The Forest Service is an agency of the US Department of Agriculture (USDA; general
+  fact, fs.usda.gov domain). The "still overlap tribal lands" clause is cut (search summary only).
+
 ## Era 10 — 2000 to Today (current through August 2026)
 
 - **The warming.** **2024 was the warmest year on record globally** (NOAA: 1.29°C above the 20th-century average; NASA, Copernicus, Berkeley Earth agree) **and the warmest on record for the contiguous U.S.** (55.5°F, 3.5°F above the 20th-century average; 17 states set records). Say it plainly and factually; `science` owns the climate science, `energy` owns the fuels and the shift, `disasters` owns individual catastrophes. (Sources: NOAA news releases Jan 2025; NASA.)

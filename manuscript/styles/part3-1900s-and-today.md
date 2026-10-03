@@ -278,9 +278,9 @@ Rana Plaza was a nine-story building in Savar, near Dhaka, with five garment fac
 
 On April 23, 2013, a Bangladeshi television channel showed cracks in the building. The shops and the bank on the lower floors closed. Sohel Rana told reporters that the building was safe. Factory managers ordered the garment workers back the next morning. Managers at the Ether Tex factory threatened to hold back a month's pay from any worker who stayed away.
 
-The building fell at about 9 in the morning on April 24, 2013. Counts of the dead run from 1,129 to 1,136. Wikipedia and the Clean Clothes Campaign give 1,134. Counts of the injured run from 1,524 to nearly 2,600. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
+The building fell at about 9 in the morning on April 24, 2013. Counts of the dead run from 1,129 to 1,136. The Clean Clothes Campaign, a group that works for garment workers' rights, gives 1,134. Counts of the injured run from 1,524 to nearly 2,600. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
 
-Researchers for the Clean Clothes Campaign, a group that works for garment workers' rights, found at least 29 brands with recent orders at the factories in Rana Plaza. They included two American companies, Cato Fashions and The Children's Place. News reports also linked Walmart. Officials of J.C. Penney said that one factory there had made a small amount of clothing for another brand that Penney stores sold.
+Researchers for the Clean Clothes Campaign found at least 29 brands with recent orders at the factories in Rana Plaza. They included two American companies, Cato Fashions and The Children's Place. News reports also linked Walmart. Officials of J.C. Penney said that one factory there had made a small amount of clothing for another brand that Penney stores sold.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="After Rana Plaza" -->

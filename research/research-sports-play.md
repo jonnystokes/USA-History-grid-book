@@ -2734,3 +2734,17 @@ Full text and sources for every item are in `research/research-storytelling-evol
 ## Parked from `migration` (2026-09-27, T-307)
 Filed by the director after the parallel run. Full sourced text is in `research/research-migration.md` under the T-307 PATCH named in each item.
 - Oregon Trail computer game (bank sidebar, also parked in sports-play): not written here. The director decides which chapter carries it.
+
+### PATCH 2026-10-03 (T-640 polish): sources to replace the Wikipedia credits (Molineaux, era 6; Ruth, era 8)
+- Molineaux's death: Galway City Museum, "Tom Molineaux" (https://galwaycitymuseum.ie/exhibition/tom-molineaux/,
+  WebFetch 2026-10-03): "On 4 August 1818, an African-American bare-knuckle fighter named Tom Molineaux died
+  destitute in the band room of an army barracks in Galway town." "He lies buried in an unmarked grave in a Galway
+  suburb." The42.ie, 18 December 2019 (https://www.the42.ie/tom-molineaux-4940410-Dec2019/): "He is said to have
+  died in the bandroom of the 77th Regiment at Shambles Barracks in Galway city on 4 August 1818"; "died penniless
+  and sick"; "became increasingly dependent on alcohol"; "reportedly suffered from tuberculosis." VMHC still says
+  Dublin: place stays disputed.
+- Ruth's placement: Jacques Kelly, "It was rough ride from babe to man," *Baltimore Sun*, 3 February 1995
+  (https://baltimoresun.com/news/bs-xpm-1995-02-03-1995034227-story.html, WebFetch 2026-10-03): "There has been an
+  almost obsessive cult built around the reasons Ruth's parents decided to place their 7-year-old son in that
+  institution June 13, 1902." He "was listed as being 'incorrigible'." Search summaries (unconfirmed, not used):
+  his father, mother and a justice of the peace signed the commitment form.

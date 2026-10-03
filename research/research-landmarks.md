@@ -201,6 +201,12 @@ Main source, read in full: William C. Allen, Architectural Historian, Office of 
 - **Era 6-7, Washington Monument:** "Built to honor George Washington, the United States' first president, the 555-foot marble obelisk towers over Washington, D.C." (NPS, [Washington Monument](https://www.nps.gov/wamo/index.htm), fetched 2026-10-03). Both the Bunker Hill Monument and the Washington Monument are obelisks.
 - **Era 7, DC Compensated Emancipation Act (1862):** it "compensated owners up to $300 for each freeperson." It was "Originally sponsored by Senator Henry Wilson." "In the months following the enactment of the law, commissioners approved more than 930 petitions, granting freedom to 2,989 former slaves" (US Senate, [DC Emancipation Act featured document](https://www.senate.gov/artandhistory/history/common/civil_war/DCEmancipationAct_FeaturedDoc.htm), fetched 2026-10-03). The page does not say who paid the owners. The bank's "about 3,100 freed" (National Archives, DC.gov) and the Senate's 2,989 are different counts; the prose keeps "about 3,100".
 
+### PATCH 2026-10-03 (T-640 polish): the DC emancipation count, both figures (era 7)
+- DC government, "Ending Slavery in the District of Columbia" (https://emancipation.dc.gov/page/ending-slavery-district-columbia,
+  WebFetch 2026-10-03): the act "freed 3,100 individuals." US Senate featured document (above): commissioners
+  approved "more than 930 petitions, granting freedom to 2,989 former slaves." Prose now gives both, credited
+  (DECISIONS #4, #45), instead of "about 3,100" alone.
+
 ## 08 1900 to 1950 — the giant decades
 
 - **Lincoln Memorial, dedicated May 30, 1922.** Architect Henry Bacon; the seated Lincoln by sculptor Daniel Chester French. Hard truth from day one: the dedication crowd was segregated, and the only Black speaker, Robert Russa Moton of Tuskegee, had his speech text vetted. On Easter Sunday, **April 9, 1939**, after the DAR barred her from Constitution Hall, **Marian Anderson** sang from its steps to about 75,000 people — the concert story belongs to `rights-movements`; the memorial-as-stage is ours. Sources: [History.com dedication entry](https://www.history.com/this-day-in-history/may-30/former-president-taft-dedicates-lincoln-memorial), [Smithsonian Music on Anderson](https://music.si.edu/story/marian-anderson-and-concert-lincoln-memorial), [National Archives blog](https://rediscovering-black-history.blogs.archives.gov/2014/05/20/marian-anderson-and-the-easter-sunday-concert-april-9-1939/).

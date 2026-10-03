@@ -809,3 +809,23 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `marketplace` (2026-09-27, T-310)
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
 - `slavery-freedom` and `health`: Joice Heth's public dissection, February 25, 1836, City Saloon, New York, by Dr. David L. Rogers, 1,500 people at 50 cents each; R. W. Lindsay of Kentucky sold Barnum possession of her (CUNY Lost Museum Archive, New York Sun 1836). Full text in research-marketplace.md, era 06 PATCH (T-310).
+
+### PATCH 2026-10-03 (T-640 polish): Kendi check; the 1964 and 1965 laws; the DC count
+- **Kendi, *Stamped from the Beginning* (2016), on Jefferson and Hemings: SEARCHED, NOT FOUND in Kendi's own words.**
+  The LitCharts study guide's character summary (https://www.litcharts.com/lit/stamped-from-the-beginning/characters/sally-hemings,
+  WebFetch 2026-10-03) says "When Hemings was 14, Jefferson began raping her," but that is the guide's summary, not
+  a quotation. A reader's highlight of the book (Goodreads) quotes only "Jefferson had to deal with a revolt from
+  sixteen-year-old Sally Hemings. She was pregnant with his child, refused to return to slavery, and planned to
+  petition French officials for her freedom." The book text was not opened. The prose keeps Jessica Marie Johnson
+  (T-483) as the named historian and does not cite Kendi.
+- **The two laws, one plain sentence each** (copied from `research/research-government-politics.md`, "The Civil
+  Rights Act of 1964 and the Voting Rights Act of 1965," citing the National Archives milestone documents): Title
+  II of the 1964 act: "All persons shall be entitled to the full and equal enjoyment of the goods, services,
+  facilities, and privileges ... of any place of public accommodation ... without discrimination or segregation"
+  (the act's Title II lists inns and hotels, restaurants, theaters and similar places); Title VII bars job
+  discrimination. Section 2 of the 1965 act: "No voting qualification or prerequisite to voting, or standard,
+  practice, or procedure shall be imposed or applied by any State or political subdivision to deny or abridge
+  the right of any citizen" to vote on account of race.
+- **DC Compensated Emancipation Act count** (copied from `research/research-landmarks.md` PATCH T-640): DC
+  government, "freed 3,100 individuals" (emancipation.dc.gov); US Senate featured document, commissioners
+  approved "more than 930 petitions, granting freedom to 2,989 former slaves." Prose (era 7) gives both.

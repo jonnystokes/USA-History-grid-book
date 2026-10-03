@@ -362,3 +362,13 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 ## Parked from `marketplace` (2026-09-27, T-310)
 Filed by the director after the parallel run. Full sourced text is in `research/research-marketplace.md` under the T-310 PATCH named in each item.
 - `economy` and `native-nations`: Basque crews traded with the Beothuk, Innu and Mi'kmaq, and Basque kettles and axes reached Huron and other Iroquoian lands in Ontario (Canadian Museum of History). Full text in research-marketplace.md, era 02 PATCH (T-310).
+
+### PATCH 2026-10-03 (T-640 polish): the Sally's stage counts, in full (era 5)
+- Brown University, *Slavery and Justice* report, "Slavery, the Slave Trade, and Brown"
+  (https://slaveryandjusticereport.brown.edu/sections/slavery-the-slave-trade-and-brown/, WebFetch 2026-10-03):
+  "nineteen Africans had already died" before sailing; "A twentieth captive, also a woman, was left for dead on the
+  day the ship sailed." "Four more Africans, one woman and three children, died in the first week at sea." "In all,
+  sixty-eight Africans perished during the crossing." "Another twenty Africans died in the days after the ship
+  reached the West Indies, bringing the total death toll to 108." "(A 109th captive, one of the four 'likely lads'
+  requested by the Brown brothers, died en route to Providence.)" 19 + 68 + 20 = 107, not the report's 108; the
+  report does not explain the difference. Prose gives every count and says so.

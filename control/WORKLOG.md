@@ -5128,6 +5128,7 @@ USAGE: wave B1 60% -> 89% (6 fixers ~4.8% each). Wave B2 (14 agents, final 11 ch
 ### 2026-10-03 | [LOCAL] STEP 7 FIXES COMPLETE: all 37 chapters fixed on the second-audit findings and passing (T-600..T-639).
 
 ### 2026-10-03 | [LOCAL] T-640 | book-wide: POLISH-1 (Wikipedia, In plain words, AUDIT-QUEUE polish items) | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: Wikipedia 0 in prose, In plain words 0, Sally/DC/Attica/WK/Baird/1964-65 done; Spiro and Kendi not confirmable. 13 chapters PASS. 268,121 tokens (opus).
 CHECKPOINT: control/checkpoints/POLISH-1.md
 USAGE at launch 67%.

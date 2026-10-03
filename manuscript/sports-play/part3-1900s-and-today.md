@@ -87,7 +87,7 @@ In December 2020 the leaders of Major League Baseball began counting seven Negro
 > **Who:** A pitcher and home-run hitter for Boston and New York.
 > **When and where:** Baltimore, Boston and New York, 1895 to 1948.
 
-George Herman Ruth was born in Baltimore on 6 February 1895. On 13 June 1902, when he was seven, he entered St. Mary's Industrial School for Boys. It was a reform school, a school meant to correct boys' behavior, and an orphanage, a home for children without parents. The school's records called him "incorrigible," which means a child no one can control. He spent most of the next 12 years there. Wikipedia's account of his life does not say who sent him. A teacher there, Brother Matthias, taught him baseball.
+George Herman Ruth was born in Baltimore on 6 February 1895. On 13 June 1902, when he was seven, he entered St. Mary's Industrial School for Boys. It was a reform school, a school meant to correct boys' behavior, and an orphanage, a home for children without parents. The school's records called him "incorrigible," which means a child no one can control. He spent most of the next 12 years there. Jacques Kelly, a writer for the *Baltimore Sun*, wrote in 1995 that Ruth's parents decided to place him at the school. Writers have argued about their reasons for many years. A teacher there, Brother Matthias, taught him baseball.
 
 He pitched for the Boston Red Sox from 1914 to 1919. The owner of the Boston team, Harry Frazee, sold him to the New York Yankees for $100,000. The sale was made in December 1919 and announced in January 1920.
 

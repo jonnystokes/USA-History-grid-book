@@ -2147,3 +2147,32 @@ Filed by the director after the parallel run. Full sourced text is in `research/
 - First, Fourth and Fourteenth Amendments, plain meaning for the Ferguson sentence: free speech; protection from
   unreasonable searches and seizures (National Archives transcription, era 5 above); equal protection of the
   laws (the Fourteenth Amendment's text).
+
+### PATCH 2026-10-03 (T-640 polish): Los Angeles 1871, the count of 19 (era 6, replaces the Wikipedia credit)
+- Los Angeles Almanac, "1871 Chinese Massacre in Los Angeles" (http://www.laalmanac.com/history/hi06d.php,
+  WebFetch 2026-10-03): narrative says the mob "had hanged or shot to death at least 17 men and a teenage boy";
+  its list "Victims of the Massacre" gives 19 names, with "Source of victim names: Chinese Los Angeles in
+  1870-1871: The Makings of a Massacre, by Scott Zesch, Southern California Quarterly (Summer 2008)."
+  Prose use: 18 by the Los Angeles Public Library's count, 19 in the list of names the historian Scott Zesch
+  published in 2008.
+
+### PATCH 2026-10-03 (T-640 polish): Attica and Wounded Knee, who did it (era 9, replaces Wikipedia-only lines)
+- Attica, William Quinn: "On April 5th, two Attica Brothers, John (Dacajeweiah) Hill and Charley Joe Pernasilice
+  were found guilty of charges in connection with the death of Williams Quinn, an Attica guard." "Dacajeweiah was
+  convicted of murder and Charley Joe of 2nd degree assault" (*The Veteran*, Vietnam Veterans Against the War,
+  April/May 1975, https://www.vvaw.org/veteran/article/?id=1387, WebFetch 2026-10-03; a supporters' paper, used for
+  the verdicts only). Associated Press, August 26, 2013 (https://www.foxnews.com/us/only-inmate-convicted-of-murder-after-attica-prison-riot-dies-in-canada-death-ruled-accident,
+  WebFetch 2026-10-03): Hill (John Boncore) "was convicted of fatally beating a guard but received clemency after
+  a year." Clemency: mercy from a governor or president that cuts a punishment short (dictionary). The McKay
+  Commission report itself was not opened.
+- Wounded Knee, Lloyd Grimm: Associated Press, "U.S. marshal who was shot in 1973 Indian disorder dies," Deseret
+  News, May 2, 2000 (https://www.deseret.com/2000/5/2/19504404/u-s-marshal-who-was-shot-in-1973-indian-disorder-dies/,
+  WebFetch 2026-10-03): "On the night of March 16, 1973, Grimm and other marshals were making inspections when
+  someone opened fire on them. Grimm was struck by a bullet that left him paralyzed." "No suspects were ever found."
+- Wounded Knee, Clearwater and Lamont: FBI, "Accounting for Native American Deaths, Pine Ridge Indian Reservation,
+  South Dakota" (released June 2000), as quoted by Indianz.com, July 11, 2000
+  (https://indianz.com/News/show.asp?ID=tc/7112000-2, WebFetch 2026-10-03): "Frank Clearwater died in a hospital
+  April 25, 1973. The facts gathered indicated Clearwater's death was the result of gunfire received from federal
+  law enforcement officials," returning fire after being fired on. "Buddy Lamont, also known as Lawrence Dean
+  Lamont, was shot and killed April 27, 1973, during a gunfight with federal officers at a roadblock in Wounded
+  Knee"; no charges after review by the US attorney. (ICT, Feb 22, 2023, gives April 26 for Lamont.)
