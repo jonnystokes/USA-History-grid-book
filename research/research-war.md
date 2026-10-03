@@ -457,6 +457,20 @@ a source is found, or drop the superlative.
 How the prose can say it: "Coronado's expedition fought the Tiguex towns on the Rio Grande in the
 winter of 1540 to 1541, the same year de Soto's army burned Mabila far to the east."
 
+### SEARCHED, NOT FOUND 2026-10-03 (T-625): was the village of the Tiguex rape Arenal?
+Castaneda (PATCH above) calls the village Cardenas surrounded only the one "where the affair with
+the Indian woman occurred". The New Mexico State Historian page (2.3) names Arenal as the town the
+expedition took, across the river from Coofor, with dozens of captives killed; the bank reads that
+as the same siege. Checked 2026-10-03: NPS "The Tiguex War" (opened; names no village for the
+assault and never mentions Arenal); New Mexico State Historian page (DNS failure, not opened);
+University Press of Colorado chapter on Coronado in Tiguex (page text did not load); City of
+Albuquerque "Colonial New Mexico" PDF (unreadable). Search summaries of Wikipedia "Tiguex War" and
+Legends of America say a Spaniard, Juan de Villegas, raped a Tiwa woman at Arenal (unconfirmed:
+search summary only). **The prose does not say the rape happened at Arenal.** It says Cardenas
+surrounded the town of the rape, and that the State Historian's history names the town the Spanish
+took as Arenal. Round 2: confirm from Flint and Flint (trial testimony) and, if confirmed, add
+the name.
+
 ---
 
 ## 3. THE 1600s
@@ -547,6 +561,15 @@ upgrade it to "the deadliest."** No source found here does the arithmetic.
   Philip's War," https://www.nps.gov/rowi/learn/historyculture/philipswar.htm)
 - Towns burned on the Rhode Island mainland included **Wickford, Warwick and Pawtuxet**, and
   **Providence was burned in late March 1676.** (NPS, same page.)
+  PATCH 2026-10-03 (T-625), same NPS page re-opened: "Days later the Narragansett converged upon
+  Providence." Roger Williams "reacted by doing what he was known to do best, negotiate." "The
+  Narragansett rejected his proposal and burned Providence." So the burners are named: Narragansett
+  fighters.
+  PATCH 2026-10-03 (T-625), Mashantucket 1666, who set it aside: Wikipedia, "Mashantucket Pequot
+  Tribe" (opened 2026-10-03): "The Mashantucket Pequot reservation was created by the Connecticut
+  Colony in 1666." Search summaries (tribalextension.org) add that the Connecticut Colony granted the
+  500 acres in 1651. Thin source (Wikipedia; the tribe's own history page returned 403). Round 2:
+  confirm on the tribe's page or a colonial record.
 - **Captives were sold overseas as slaves.** New England colonies shipped Native captives to
   **Barbados, Bermuda, Jamaica, the Azores, Spain, and Tangier in North Africa.** Certificates
   signed by **Plymouth Governor Josiah Winslow and Massachusetts Bay Governor John Leverett**
@@ -778,6 +801,11 @@ judges. Confirms bank 3.1 (which could not open the National Guard page, HTTP 40
   on 17 June (48 days). Not edited by this agent; flagged for the `america-world` owner.
 - **Do not repeat `america-world`'s angle** — the 1748 trade of Louisbourg for Madras is theirs.
   One clause pointing at it is enough.
+- PATCH 2026-10-03 (T-625), copied from `research/research-america-world.md` §4.4: "1748: the
+  Treaty of Aix-la-Chapelle gave Louisbourg back to France, in exchange for Madras in India, which
+  France had taken from Britain." (American History Central, "Treaty of Aix-la-Chapelle,"
+  https://www.americanhistorycentral.com/entries/aix-la-chapelle-treaty-1748/ ; Journal of the
+  American Revolution, "The Two Sieges of Louisbourg," https://allthingsliberty.com/2021/11/the-two-sieges-of-louisbourg-harbingers-of-american-discontent/)
 
 ### 4.1 The shape of the era
 European wars were fought here under other names, by colonial militia and by Native nations that had
@@ -1206,6 +1234,9 @@ the treaties (Paris 1763, Paris 1783) and the French alliance.
   scholarship via search; New England Historical Society,
   https://newenglandhistoricalsociety.com/deborah-sampson-revolutionary-war-heroine-in-disguise/ —
   label as secondary.) **The outline says exactly this.**
+  PATCH 2026-10-03 (T-625): the NEHS page above, opened 2026-10-03, on Mann's book: "The book sold
+  well, but it was a really a poor history since Mann took a great deal of literary license." The
+  page does not mention Alfred F. Young. Prose credits the "poor history" judgment to NEHS by name.
 - **Discovered** when a doctor treated her for a fever, near fatal, in Philadelphia (MHS).
   **Honorably discharged October 1783** by Gen. Henry Knox (MHS; NWHM gives 23 October, Paul
   Revere House 25 October; write "October 1783").
@@ -1334,6 +1365,9 @@ before the prose stage.** No other chapter has it (grep of outlines/ and researc
   settlements. The victims denied it. (Wikipedia calls the charges false.)
 - **Punishment:** none is recorded in this source. (Search summary elsewhere: no one was ever
   prosecuted. unconfirmed: search summary only.)
+  PATCH 2026-10-03 (T-625): Wikipedia, same article, re-opened 2026-10-03: "Despite talk of bringing
+  the murderers to justice, no criminal charges were filed and the conflict continued unabated."
+  (its note 39). Prose: no one charged any of the militiamen with a crime.
 - The missionary **John Heckewelder** later gathered the bones and buried them in a mound at the
   village site, which is on the National Register of Historic Places.
 - **Clinical word for the prose:** scalping is already glossed in 5.1 (the skin and hair cut off
@@ -2247,6 +2281,12 @@ a Senate Committee on the Philippines heard soldiers testify about torture in 19
   said he thought ten-year-old Filipino boys were "capable of bearing arms." Waller had eleven
   Filipino guides and carriers shot without trial. Waller was acquitted. Smith was court-martialed
   in spring 1902, reprimanded, and made to retire early.
+- PATCH 2026-10-03 (T-625): who retired Smith, and Waller's vote. HistoryNet, "Laws of War: Kill
+  Orders" (https://historynet.com/laws-war-kill-orders/ , opened 2026-10-03, magazine journalism):
+  "the court acquitted Waller by a vote of 11-2"; the officers of Smith's court found him guilty
+  and urged a light sentence; "President Roosevelt approved the verdict and the court's sentencing
+  recommendation and ordered that Smith be immediately retired from service." Search summary adds
+  that Secretary of War Elihu Root recommended the retirement (unconfirmed: search summary only).
 - Kramer: **"The scale of abuses in the Philippines remains unknowable."** Do not supply a count.
 - Method, in plain words for the outline: soldiers held a prisoner down, poured water (salt water in
   Ealdama's account) into his mouth and nose until his stomach swelled, then pressed or stood on his
@@ -2775,6 +2815,10 @@ https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026
   HISTORY timeline, https://www.history.com/articles/vietnam-war-timeline): Marines landed at **Da
   Nang March 8, 1965**; US troops peaked at **about 543,000 in April 1969**; the last US combat troops
   left **March 29, 1973**; Saigon fell **April 30, 1975**. Cease-fire January 27, 1973 (CRS note n).
+  PATCH 2026-10-03 (T-625), who took Saigon: HISTORY, "Fall of Saigon: South Vietnam surrenders"
+  (https://www.history.com/this-day-in-history/april-30/south-vietnam-surrenders , opened 2026-10-03):
+  Saigon "falls to People's Army of Vietnam and the Viet Cong on April 30, 1975"; North Vietnamese
+  Col. Bui Tin "accepted the surrender from Gen. Duong Van Minh".
 - **The lottery.** Selective Service, "The Vietnam Lotteries" (sss.gov page, copy at
   https://jaclynhughes.wordpress.com/wp-content/uploads/2014/08/the-vietnam-draft.pdf , original URL
   https://www.sss.gov/About/History-And-Records/lotter1 ): **December 1, 1969**, the first lottery
@@ -2799,6 +2843,13 @@ https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026
   arrest three days after the verdict. **Paroled 1974.** (HISTORY, "Lt. William Calley found guilty of
   My Lai murders," updated May 28, 2025,
   https://www.history.com/this-day-in-history/march-29/calley-found-guilty-of-my-lai-murders)
+  PATCH 2026-10-03 (T-625), who cut Calley's sentence: Wikipedia, "William Calley" (opened
+  2026-10-03): "On August 20, 1971, Lt. Gen. Albert O. Connor, Commanding General of Third Army, in
+  his capacity as the convening authority, reduced Calley's sentence to 20 years"; Secretary of the
+  Army Howard H. Callaway "reduced Calley's sentence to just 10 years." EBSCO Research Starters,
+  "Calley Is Court-Martialed for My Lai Massacre" (opened 2026-10-03): found guilty "by a panel of
+  six officers"; "In April, 1974, further reduced it to ten years"; "parole was granted in November"
+  1974.
   The Warrant Officer Historical Foundation profile (below) says soldiers "tortured and killed several
   hundred unarmed Vietnamese civilians, mutilating their bodies after they had been murdered." Rape
   at My Lai is widely reported but was not verified from a source read in this pass, so the outline
@@ -3210,6 +3261,9 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
   General Kensinger announced he "probably died of fratricide"** (killing by one's own side).
   (House Committee on Oversight and Government Reform, hearing "Misleading Information from the
   Battlefield," **April 24, 2007**, https://www.govinfo.gov/content/pkg/CHRG-110hhrg42898/html/CHRG-110hhrg42898.htm)
+- PATCH 2026-10-03 (T-625): the hearing transcript (govinfo URL above, opened 2026-10-03), Kevin
+  Tillman: "Crucial evidence was destroyed including Pat's uniform, equipment and notebook." His
+  testimony does not name who destroyed them.
 - Kevin Tillman's words for the Army's account: "utter fiction."
 - Movie: *The Tillman Story* (2010) is a documentary about him (not verified in this pass, so
   `movie=""`). Slug `pat-tillman` unique (checked).
@@ -3227,6 +3281,12 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
   vaporized my right leg. It blew my left leg up into the bottom of the instrument panel," and it
   "tore through my right arm." **Pilot Dan Milberg** landed the helicopter; **co-pilot Matt Backues**
   dragged her across the ground. She lost both legs and partial use of her right arm. Purple Heart;
+  PATCH 2026-10-03 (T-625), the crew roles, from the same Popular Science excerpt (opened
+  2026-10-03): she handed over the controls ("You have the flight controls ... I have the flight
+  controls," Dan replied); "Dan Milberg saved all our lives, landing a catastrophically damaged
+  helicopter"; "Matt Backues used every ounce of his strength to drag my unconscious body across the
+  Iraqi desert." The excerpt does not call Backues the co-pilot. Prose: Milberg the other pilot,
+  Backues another member of the crew.
   recovered at Walter Reed Army Medical Center. (Date: search summaries and Kennesaw.)
 - Assistant Secretary of Veterans Affairs 2009-2011; US Representative from Illinois 2013-2017; US
   Senator from 2017; in 2018 the first senator to give birth while in office (Kennesaw).
@@ -3256,6 +3316,8 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
   killed by direct post-9/11 war violence in Iraq, Afghanistan, Syria, Yemen, and Pakistan between
   2001-2023. Of these, more than 432,000 were civilians." "An estimated 3.6-3.8 million people died
   indirectly," for a total of "at least 4.5-4.7 million and counting." Unchanged since
+  PATCH 2026-10-03 (T-625), same page re-opened: indirect deaths come from the "wars' destruction of
+  economies, healthcare systems, infrastructure and the environment."
   america-world's T-254 check the same day. **The era's zoom gives only American dead. The writer
   should add this count, with the project's name and years.**
 - **Iraq civilian dead are disputed:** document-based counts are much lower than household-survey

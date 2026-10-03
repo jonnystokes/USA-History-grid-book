@@ -5047,6 +5047,7 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-news-communication.md
 
 ### 2026-10-03 | [LOCAL] T-625 | war: STEP 7 FIXER wave B1 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  war / prose. 353266 tokens, 161 tools, 14.9 min (opus). 149 FIXED, 0 REJECTED; Arenal claim corrected
 CHECKPOINT: control/checkpoints/F7-war.md
 USAGE: wave A 0% -> 60% (16 fixers, 3.75% each). Wave B1 (6) launched at 60%.
