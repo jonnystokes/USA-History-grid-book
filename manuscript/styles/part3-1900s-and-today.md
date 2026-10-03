@@ -128,11 +128,11 @@ Governor Earl Warren of California chose a committee to study the attacks. Its m
 <!-- hb-zoom level="era" -->
 After the mid-1950s, the people who designed American clothes began to take their ideas from teenagers, and plastics went into everyday clothes and furniture. In the 1950s young men copied the jeans, white T-shirts and leather jackets that film stars wore. The first suits made partly of polyester, a plastic made into thread, went on sale in 1951. From 1950 the furniture company Herman Miller sold chairs that the designers Charles and Ray Eames had shaped from plastic and glass fiber.
 
-People also went to court over clothes and hair. In 1969 seven of the nine justices of the Supreme Court ruled that students could wear black armbands to school to protest a war. Judges disagreed about boys' long hair, and in 1981 a federal judge allowed an airline to ban a Black woman's braids. In 1995 state and federal officers found 72 Thai workers held behind razor wire in El Monte, California, sewing clothes that were sold in American chain stores.
+People also went to court over clothes and hair. In 1969 seven of the nine justices, the judges of the Supreme Court, the highest court in the country, ruled that students could wear black armbands to school to protest a war. Judges disagreed about boys' long hair, and in 1981 a federal judge allowed an airline to ban a Black woman's braids. In 1995 state and federal officers found 72 Thai workers held behind razor wire in El Monte, California, sewing clothes that were sold in American chain stores.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Jeans, T-shirts and teenagers in the 1950s" -->
-In the early 1950s most women's clothes still followed the "New Look" that Christian Dior showed in 1947. It had a tight waist and a full skirt. By the middle of the decade, dressmakers cut dresses straighter and slimmer, and designers began to take ideas from teenagers.
+In the early 1950s the leading women's style was still the "New Look" that Christian Dior showed in 1947. It had a tight waist and a full skirt. By the middle of the decade, dressmakers cut dresses straighter and slimmer, and designers began to take ideas from teenagers.
 
 Young men took up a working-class look: jeans, a white T-shirt and a leather jacket, with the hair greased back. Marlon Brando wore it in the film *The Wild One* in 1953, and James Dean wore it in *Rebel Without a Cause* in 1955. Fashion historians at the Fashion Institute of Technology describe the look as young people turning away from their parents' generation. Young men who wore it got a reputation as rebels and troublemakers. By the end of the decade, boys wore jeans to most places.
 <!-- /hb-zoom -->
@@ -144,7 +144,7 @@ On May 8, 1951, Hart, Schaffner & Marx of New York began selling men's suits mad
 
 Clothes made with Dacron could be washed and worn without ironing, so they were sold as "wash and wear." Most of the ironing time they saved was women's time.
 
-In the 1970s, with man-made cloth, people could buy fashionable styles at any price. Polyester and other man-made fabrics were so common that people called the decade the "Polyester Decade." Men wore leisure suits, a casual kind of suit often made of man-made cloth, as a cheap stand-in for a regular suit. People dancing at disco clubs wore satin, sequins and Lycra, a stretchy man-made cloth. By the late 1970s people wore sweatshirt cloth and leggings, once clothes for the gym, every day.
+In the 1970s, with man-made cloth, people could buy fashionable styles at any price. Polyester and other man-made fabrics were so common that people called the decade the "Polyester Decade." Men wore leisure suits, a casual kind of suit often made of man-made cloth, as a cheap stand-in for a regular suit. People dancing at disco clubs wore satin, sequins (tiny shiny disks sewn onto cloth) and Lycra, a stretchy man-made cloth. By the late 1970s people wore sweatshirt cloth and leggings, once clothes for the gym, every day.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="charles-ray-eames" name="Charles and Ray Eames" movie="Eames: The Architect and the Painter (2011)" kind="famous" status="verified" -->
@@ -189,7 +189,7 @@ That December a group of adults and students had met at the home of Christopher 
 
 Christopher Eckhardt, 16, wore an armband to his high school on the same day as Mary Beth. Her brother John, 15, wore his the next day. School officials suspended all three. They did not go back to school until after New Year's Day. Her younger brother Paul, 8, and her sister Hope, 11, also wore armbands, but the rule did not cover elementary schools.
 
-The three students' fathers sued the school district for them, with help from the Iowa Civil Liberties Union. The Tinker family received hate mail and threats to kill them. No surviving record names who sent them. A federal judge ruled for the school district, and the judges of the appeals court split evenly.
+The three students' fathers sued the school district for them, with help from the Iowa Civil Liberties Union. The Tinker family received hate mail and threats to kill them. No surviving record names who sent them. A federal judge ruled for the school district, and the judges of the appeals court, a higher court that checks the rulings of lower courts, split evenly.
 
 On February 24, 1969, seven of the nine Supreme Court justices ruled for the students. Justice Abe Fortas wrote that students do not "shed their constitutional rights to freedom of speech or expression at the schoolhouse gate." He meant that students keep the right to free speech that the Constitution gives every American. He called the armbands "a silent, passive expression of opinion, unaccompanied by any disorder or disturbance." That means the students stated their opinion quietly and caused no trouble. Justices Hugo Black and John Harlan disagreed.
 <!-- hb-story:end slug="mary-beth-tinker" -->
@@ -197,11 +197,11 @@ On February 24, 1969, seven of the nine Supreme Court justices ruled for the stu
 <!-- hb-zoom level="span" label="Long hair and braids at school" -->
 In the Tinker case, seven justices protected the armbands as a way of speaking. They did not decide what students could wear or how they could cut their hair. Justice Fortas wrote that the case did not concern "the length of skirts or the type of clothing, to hair style." Boys with long hair lost some court cases and won others.
 
-In September 1966 Phillip Ferrell, Stephen Webb and Paul Jarvis, who played in a Dallas band called Sounds Unlimited, tried to enroll at W. W. Samuell High School. School officials turned them away because of their "Beatle" haircuts. In 1968 the judges of a federal appeals court sided with the school. In 1970 Chesley Karr of El Paso, Texas, challenged his school's rule that a boy's hair could not hang over his ears or his collar. He lost. In 1972, in a case called Arnold v. Carpenter, judges on a different federal appeals court ruled for long-haired students.
+In September 1966 three Dallas boys tried to enroll at W. W. Samuell High School. They were Phillip Ferrell, Stephen Webb and Paul Jarvis, and they played in a band called Sounds Unlimited. School officials turned them away because of their "Beatle" haircuts. In 1968 the judges of a federal appeals court sided with the school. In 1970 Chesley Karr of El Paso, Texas, challenged his school's rule that a boy's hair could not hang over his ears or his collar. He lost. In 1972, in a case called Arnold v. Carpenter, judges on a different federal appeals court ruled for long-haired students.
 
 The Supreme Court justices never agreed to hear a school hair case. In 1971 Justice Hugo Black wrote that he could not see why "anyone should think the Federal Constitution imposes on the United States courts the burden of supervising the length of hair that public school students should wear." Justice William O. Douglas disagreed when the other justices turned such cases away.
 
-One of those cases came from Pawnee boys in Oklahoma. The Pawnee Nation once lived in Nebraska and northern Kansas. The Sioux attacked the Pawnee there for four decades. In 1874 the Pawnee began a two-year removal to Indian Territory, which later became Oklahoma. A removal means the whole nation left its homeland. Some accounts say the Pawnee were forced to go. The US government's agent for the Pawnee chose their new reservation, on land that had belonged to the Cherokee. The boys wore their hair parted in the middle with a long braid on each side, to follow "the old traditional ways." One of them said it was "one way of telling people that I am proud [to be an Indian]."
+One of those cases came from Pawnee boys in Oklahoma. The Pawnee Nation once lived in Nebraska and northern Kansas. The Sioux attacked the Pawnee there for four decades. In 1874 the Pawnee began a two-year removal to Indian Territory, which later became Oklahoma. A removal means the whole nation had to move away from its homeland. Some accounts say the Pawnee were forced to go. The US government's agent for the Pawnee chose their new reservation, on land that had belonged to the Cherokee. The boys wore their hair parted in the middle with a long braid on each side, to follow "the old traditional ways." One of them said it was "one way of telling people that I am proud [to be an Indian]."
 
 On April 24, 1972, officials at Pawnee Junior High School suspended the boys with no end date, under a rule that a boy's hair could not reach his collar or his ears. The first name on their case is Norman New Rider. Federal appeals judges ruled that the school could keep its rule. On December 10, 1973, the Supreme Court justices refused to hear the case. Justices Douglas and Thurgood Marshall disagreed. Douglas wrote that the boys were telling other students of "their pride in being Indian."
 <!-- /hb-zoom -->
@@ -209,7 +209,7 @@ On April 24, 1972, officials at Pawnee Junior High School suspended the boys wit
 <!-- hb-zoom level="span" label="The Afro, braids and a court ruling" -->
 Before the 1960s many Black Americans straightened their hair. The creams they used to straighten it, called relaxers, often held lye, a chemical that could burn the scalp and the ears. In the 1960s many Black men and women in the "Black is beautiful" movement began wearing their hair natural. The Afro, hair combed out into a round shape, became a sign of Black pride. Angela Davis wore one in 1969. A person could keep up an Afro at home without paying a hairdresser.
 
-Renee Rogers was an airport operations agent for American Airlines. The airline's managers had a rule against an all-braided hairstyle for workers in her job, and they told her to wear a hairpiece over her braids at work. She sued. On December 1, 1981, federal Judge Abraham Sofaer ruled for the airline.
+Renee Rogers was an airport operations agent for American Airlines. The airline's managers had a rule against an all-braided hairstyle for workers in her job. They told her to wear a hairpiece over her braids at work. She sued. On December 1, 1981, federal Judge Abraham Sofaer ruled for the airline.
 
 Judge Sofaer ruled that a person can change a hairstyle but cannot change the texture of his or her hair. So, he ruled, the braid rule was not race or sex discrimination under the Civil Rights Act of 1964. Discrimination means treating people worse because of who they are. The airline's lawyers said the style had been made popular by the actress Bo Derek, in the 1979 film *10*. Rogers said braids had a long history for Black women.
 <!-- /hb-zoom -->
@@ -221,7 +221,7 @@ Nike began selling its Air Jordan basketball shoe, made for the player Michael J
 
 On May 2, 1989, James David Martin, 17, killed Michael Eugene Thomas, 15, to take his Air Jordans. Thomas was a ninth grader at Meade Senior High School in Anne Arundel County, Maryland, and he had bought the shoes for $115.50. Martin led him into the woods near the school, raped him and strangled him to death. Rape means forcing a person into a sexual act. Then Martin took the shoes and ran. He pleaded guilty to voluntary manslaughter, killing a person on purpose but without planning it ahead, a crime the law treats as less serious than murder. He was sentenced to seven years in prison.
 
-In May 1990 the magazine *Sports Illustrated* ran a cover story, "Your Sneakers or Your Life," about young people robbed and killed for their sneakers and team jackets. Police gave different estimates of how often such robberies happened. Richard Lapchick of Northeastern University called the reports "grossly exaggerated." No reliable count of these robberies exists for the whole country.
+In May 1990 the writer Rick Telander published a cover story in the magazine *Sports Illustrated*, "Your Sneakers or Your Life," about young people robbed for their sneakers and jackets, some of them killed. Police gave different estimates of how often such robberies happened. Each count covered a single city, such as Atlanta or Chicago. Richard Lapchick of Northeastern University called the reports "grossly exaggerated."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Slavery in a California sewing shop, 1995" -->
@@ -231,7 +231,7 @@ Suni Manasurangkun, whom the workers called "Auntie," ran the shop with her sons
 
 The workers sewed about 84 hours a week, from early morning to midnight, for about $1.60 an hour. Some of them had not been outside the fence for as long as seven years. The officers learned of the shop after a woman escaped through a second-floor window. A letter written in pencil, with a map drawn by hand, reached the authorities. It said: "Very Dangerous. Please bring much manpower."
 
-The clothes carried "Made in the USA" labels and were sold in chain stores including Mervyn's, Montgomery Ward and Miller's Outpost. In February 1996 Suni Manasurangkun, three of her sons and three other people pleaded guilty to federal crimes. They were sentenced to up to seven years in prison. Two of her sons escaped the country and were never caught. In 1997 the workers won back pay by settling lawsuits against the stores and clothing companies that had sold the clothes. The amount was $4 million by one account and more than $4.5 million by another.
+The clothes carried "Made in the USA" labels and were sold in chain stores including Mervyn's, Montgomery Ward and Miller's Outpost. In February 1996 Suni Manasurangkun, three of her sons and three other people pleaded guilty to federal crimes. They were sentenced to up to seven years in prison. Two of her sons escaped the country and were never caught. The workers sued the stores and clothing companies that had sold the clothes. In 1997 those companies agreed to pay the workers wages they were owed, and the lawsuits ended. The amount was $4 million by one account and more than $4.5 million by another.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="rotchana-cheunchujit-sussman" name="Rotchana Cheunchujit" movie="" kind="ordinary" status="verified" -->
@@ -244,7 +244,7 @@ Rotchana Cheunchujit sewed blouses and other clothes in the El Monte shop for fi
 
 She came from Thailand, where she had heard that jobs in Los Angeles paid three times as much. She left her two young children with her mother there, hoping the job would help her family. The smugglers who brought her said that for about $4,800 they would get her to the United States and set her up with a job. She could pay them back from her wages. She arrived in 1994.
 
-She was 24 and in bed when federal agents broke down the door in the early hours of August 2, 1995. Someone called out in Thai: "We're here to help you." "We were in shock," she said. "We didn't know what was going on." Immigration officers then held her and the other workers for nine days, until Asian American groups paid their bail.
+She was 24 and in bed when federal agents broke down the door in the early hours of August 2, 1995. Someone called out in Thai: "We're here to help you." "We were in shock," she said. "We didn't know what was going on." Immigration officers then held her and the other workers for nine days, until Asian American groups paid their bail, money paid to a court so that a person can go free while a case goes on.
 
 Later she became a US citizen, learned English and was reunited with her children. She married Steve Sussman, a professor at the University of Southern California, and took his name. She spoke up for other garment workers and opened a vegetarian Thai restaurant in Arcadia, California.
 <!-- hb-story:end slug="rotchana-cheunchujit-sussman" -->
@@ -254,43 +254,43 @@ Later she became a US citizen, learned English and was reunited with her childre
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-Americans threw away 17 million tons of cloth in 2018, most of it clothing, by the count of the US Environmental Protection Agency. That was almost twice the 9.5 million tons they threw away in 2000. Around the world, people bought more than twice as many clothes a year in 2015 as in 2000, and wore each piece fewer times, according to a 2017 report by the Ellen MacArthur Foundation.
+Americans threw away 17 million tons of cloth in 2018, most of it clothing, by the count of the US Environmental Protection Agency. That was almost twice the 9.5 million tons they threw away in 2000. Around the world, clothing sales more than doubled between 2000 and 2015, and people wore each piece fewer times, according to a 2017 report by the Ellen MacArthur Foundation.
 
-Almost all the clothes sold in the United States are sewn in other countries. Some are sewn in Bangladesh, where a factory fire in 2012 and a building collapse in 2013 killed more than 1,200 people, most of them garment workers. Some of them had been sewing clothes for American stores. In Los Angeles, garment workers were paid by the piece, often a few cents each, until California lawmakers required pay by the hour, at least the minimum wage, starting in 2022. After that, piece pay was allowed only as a bonus.
+Almost all the clothes sold in the United States are sewn in other countries. Some are sewn in Bangladesh, where a factory fire in 2012 and a building collapse in 2013 killed more than 1,200 people, most of them garment workers. Some of them had been sewing clothes for American stores. In Los Angeles, garment workers were paid by the piece, often a few cents for each piece they sewed. Starting in 2022, a California law required pay by the hour, at least the minimum wage, the lowest hourly pay the law allows. After that, piece pay was allowed only as a bonus.
 
-Starting with California in 2019, lawmakers in about 30 states passed laws against punishing workers or students for the natural texture of their hair or for braids, locs or twists. Locs are long ropes of hair, also called dreadlocks. Members of the CROWN Coalition, the group that worked for the first of those laws, counted the states.
+California lawmakers passed the first law against punishing workers or students for the natural texture of their hair, or for braids, locs or twists, in 2019. Lawmakers in about 30 states have passed such laws since. Locs are long ropes of hair, also called dreadlocks. Members of the CROWN Coalition, the group that worked for the first of those laws, counted the states.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where the clothes come from" -->
 About 97 percent of the clothes and shoes bought in the United States are made in other countries, most of them in Asia. The American Apparel & Footwear Association, a group of clothing and shoe companies, gave that figure in April 2025, from its latest data.
 
-Bangladesh is one of the countries that sew clothes for American stores. In the year from 2021 to 2022, its garment factories earned $42.6 billion, about 82 percent of everything the country sold abroad. About 4 million people worked in them. According to a 2023 report by the International Labour Organization, the typical garment worker in Bangladesh was a woman of 23 who had moved to the city from a farming area.
+Workers in Bangladesh are among those who sew clothes for American stores. In the year from 2021 to 2022, the country's garment factories earned $42.6 billion, about 82 percent of the money Bangladesh earned from goods sold to other countries. About 4 million people worked in them. The International Labour Organization studies work and workers around the world. According to its 2023 report, the typical garment worker in Bangladesh was a woman of 23 who had moved to the city from a farming area.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Tazreen fire and the Rana Plaza collapse" -->
-On November 24, 2012, a fire started in a ground-floor warehouse of the Tazreen Fashions factory, on the edge of Dhaka, Bangladesh. The building had nine floors. All three of its staircases led down through the ground floor, where the fire was. At least 112 people died, by the first count reported by the Associated Press. Later counts run from 117 to 124. Twelve people died jumping from windows.
+On November 24, 2012, a fire started in a ground-floor warehouse of the Tazreen Fashions factory, on the edge of Dhaka, Bangladesh. The building had nine floors. All three of its staircases led down through the ground floor, where the fire was. The fire killed at least 112 people, by the first count reported by the Associated Press. Later counts run from 117 to 124. Twelve people died jumping from windows.
 
 Police arrested three supervisors and accused them of padlocking the exits. One survivor, Mohammad Ripu, said a manager told the workers: "The fire alarm had just gone out of order. Go back to work."
 
-Workers at Tazreen had been sewing clothes sold by Walmart and other companies. In May 2011, an inspection for Walmart had rated the factory high-risk. That same year, Sridevi Kalavakolanu, Walmart's director of ethical sourcing, the official in charge of checking how its suppliers treated workers, had said that fire and electrical upgrades in factories were "not financially feasible for the brands." She meant they cost too much. After the fire, Walmart officials said a supplier had sent work to the factory without permission, and they stopped doing business with that supplier.
+Workers at Tazreen had been sewing clothes sold by Walmart and other companies. In May 2011, inspectors checking the factory for Walmart had rated it high-risk. That same year Sridevi Kalavakolanu, Walmart's director of ethical sourcing, said that fire and electrical upgrades in factories were "not financially feasible for the brands." She meant they cost too much. Her job was checking how the companies that made goods for Walmart treated their workers. After the fire, Walmart officials said a supplier, one of the companies that made clothes for Walmart, had sent work to the factory without permission, and they stopped doing business with that supplier.
 
 Rana Plaza was a nine-story building in Savar, near Dhaka, with five garment factories on its upper floors. About 5,000 people worked in them. The building stood on a pond that had been filled in, and it was built in 2006 without proper permits, the government's written permission to build. Its owner, Sohel Rana, had the upper floors added without a permit. They were not built to hold the weight of factory machines and generators.
 
 On April 23, 2013, a Bangladeshi television channel showed cracks in the building. The shops and the bank on the lower floors closed. Sohel Rana told reporters that the building was safe. Factory managers ordered the garment workers back the next morning. Managers at the Ether Tex factory threatened to hold back a month's pay from any worker who stayed away.
 
-The building fell at about 9 in the morning on April 24, 2013. Counts of the dead run from 1,129 to 1,136. Wikipedia and the Clean Clothes Campaign give 1,134. About 2,500 people were hurt. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
+The building fell at about 9 in the morning on April 24, 2013. Counts of the dead run from 1,129 to 1,136. Wikipedia and the Clean Clothes Campaign give 1,134. Counts of the injured run from 1,524 to nearly 2,600. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
 
-Researchers for the Clean Clothes Campaign, a group that works for garment workers' rights, found at least 29 brands with recent orders at the factories in Rana Plaza. Two were American companies, Cato Fashions and The Children's Place. News reports also linked Walmart. Officials of J.C. Penney said that one factory there had made a small amount of clothing for another brand that Penney stores sold.
+Researchers for the Clean Clothes Campaign, a group that works for garment workers' rights, found at least 29 brands with recent orders at the factories in Rana Plaza. They included two American companies, Cato Fashions and The Children's Place. News reports also linked Walmart. Officials of J.C. Penney said that one factory there had made a small amount of clothing for another brand that Penney stores sold.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="After Rana Plaza" -->
 After the collapse, officials of more than 200 clothing companies, most of them European, signed a safety agreement that bound them by law. Officials of Walmart and 14 other North American companies did not sign it. In July 2013 leaders of 17 North American store chains, including Walmart, Gap, Target and Macy's, announced a safety plan of their own. It had no promise, binding by law, to pay for repairs to the factories.
 
-By October 2015, more than $34 million had been paid to families of the dead and to injured workers, according to the International Labour Organization. According to the Clean Clothes Campaign, some of the brands linked to the building never paid.
+Clothing brands paid into a fund for the families of the dead and for injured workers. The fund reached its target only after more than two years, when the last brands, such as Benetton, paid in. By October 2015, more than $34 million had been paid out, according to the International Labour Organization. According to the Clean Clothes Campaign, some of the brands linked to the building never paid.
 
-The husband of a worker who died and a worker who was injured sued J.C. Penney, The Children's Place and Walmart in a Delaware court. On May 4, 2016, the judge dismissed the case for two reasons. The law of Bangladesh allowed one year to bring such a case, and that year had passed. The judge also ruled that the companies were not the workers' employers, so under Delaware law they had no duty to keep those workers safe. No court has found an American company responsible for the deaths at Tazreen or Rana Plaza.
+The husband of a worker who died and a worker who was injured sued J.C. Penney, The Children's Place and Walmart in a Delaware court. On May 4, 2016, the judge threw out the case, ending it without a trial, for two reasons. The law of Bangladesh allowed one year to bring such a case, and that year had passed. The judge also ruled that the companies were not the workers' employers. So under Delaware law the companies were not required to keep those workers safe. No court has found an American company responsible for the deaths at Tazreen or Rana Plaza.
 
-Sohel Rana was arrested near the border with India on April 28 or 29, 2013, and he has been in jail since then. In 2017 a judge sentenced him to three years in prison for hiding his wealth. As of April 2026, judges in his murder trial had heard only 145 of the 594 listed witnesses, and the trial had not ended, according to *The Business Standard*, a newspaper in Dhaka.
+Sohel Rana was arrested near the border with India on April 28 or 29, 2013. He was still held in custody in April 2026. In 2017 a judge sentenced him to three years in prison for hiding his wealth. As of April 2026, judges in his murder trial had heard 145 of the 594 listed witnesses. The trial had not ended, *The Business Standard*, a newspaper in Dhaka, reported.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Paid by the piece in Los Angeles" -->
@@ -307,7 +307,7 @@ In 2021 Marissa Nuncio, director of the Garment Worker Center in Los Angeles, sa
 > **Who:** A garment worker from Guatemala who sewed clothes in Los Angeles for decades, often for a few cents a piece, and told lawmakers about his work.
 > **When and where:** Los Angeles and Sacramento, the 1990s to 2021.
 
-Francisco Tzul has sewn clothes in Los Angeles for decades, for pay as low as a few cents a piece. He came from Guatemala, and he has lived in the United States without legal papers. He was 56 in 2020. He has told his story in interviews with the news sites *CalMatters* in 2020 and Knock LA in 2021.
+Francisco Tzul had sewn clothes in Los Angeles for decades by 2020, for pay as low as a few cents a piece. He came from Guatemala. In 2020 he was 56 and was living in the United States without legal papers. He has told his story in interviews with the news sites *CalMatters* in 2020 and Knock LA in 2021.
 
 In the 1990s he watched Kathie Lee Gifford's television talk show and recognized her name. It was on the labels of clothes he sewed. He was paid a few cents a piece, about a dollar for each finished item. He shared a one-bedroom apartment with three friends.
 
@@ -317,13 +317,13 @@ In 2021 he went to Sacramento to tell California's lawmakers about his work. He 
 <!-- hb-story:end slug="francisco-tzul" -->
 
 <!-- hb-zoom level="span" label="Hair and the CROWN Act" -->
-On July 3, 2019, California became the first state with a CROWN Act. The name stands for "Creating a Respectful and Open World for Natural Hair." Under the law, employers and public schools may not treat people worse because of the texture of their hair or because of styles such as braids, locs and twists. Locs are also called dreadlocks. State Senator Holly Mitchell wrote the law with a group of supporters. The group included civil rights organizations and Dove, a company that sells soap.
+On July 3, 2019, California became the first state with a CROWN Act. The name stands for "Creating a Respectful and Open World for Natural Hair." Under the law, employers and public schools may not treat people worse because of the texture of their hair or because of styles such as braids, locs and twists. Locs are also called dreadlocks. State Senator Holly Mitchell wrote the law with a group of supporters. The group included civil rights organizations and the company Dove.
 
 New Jersey's governor, Phil Murphy, signed a CROWN Act on December 19, 2019. By July 2025, 27 states and Washington, D.C., had such laws, according to a list that GovDocs published. Pennsylvania's governor, Josh Shapiro, signed one on November 25, 2025. In September 2026 the CROWN Coalition, the group that worked for the first law, counted 30 states.
 
 Members of the US House of Representatives passed a national CROWN Act in 2020 and again in 2022. Senators never voted on it. In September 2026 the United States had no national law against hair discrimination.
 
-In 2020 guards at a prison in Louisiana handcuffed Damon Landor to a chair and shaved off his dreadlocks. He had grown them for decades under a vow of his Rastafarian religion, and he had three weeks left in his sentence. He showed the guards a court decision, and they threw it in the trash. On June 23, 2026, six of the nine Supreme Court justices ruled that he could not sue the guards for money under a federal law that protects the religious freedom of people in prison.
+In 2020 guards at a prison in Louisiana handcuffed Damon Landor to a chair and shaved off his dreadlocks. He had grown them for decades because of a promise he made as part of his Rastafarian religion, and he had three weeks left in his sentence. He showed the guards a court decision, and they threw it in the trash. On June 23, 2026, six of the nine Supreme Court justices ruled that he could not sue the guards for money under a federal law that protects the religious freedom of people in prison.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="andrew-johnson-wrestler" name="Andrew Johnson" movie="" kind="ordinary" status="verified" -->
@@ -336,7 +336,7 @@ On December 19, 2018, the team's athletic trainer cut off Andrew Johnson's locs 
 
 The trainer who cut his hair was a white staff member. Johnson won the match in overtime. A local sports reporter, Mike Frankel, posted a video of the haircut. NBC News reported that the video had been viewed more than 14.5 million times.
 
-Johnson's family said that Maloney had arrived late. He had missed the weigh-ins, where referees check each wrestler before a match, and he had raised no problem with the hair there. In 2016 Maloney had been accused of calling a Black referee an insulting name for Black people at a party. He was suspended for it, and then allowed back after an appeal.
+Johnson's family said that Maloney had arrived late. The family said he had missed the weigh-ins, where referees check each wrestler before a match, and had raised no problem with the hair there. In 2016 Maloney had been accused of calling a Black referee an insulting name for Black people at a party. He was suspended for it, and then allowed back after an appeal.
 
 In September 2019 officials of the New Jersey Division on Civil Rights and of the state's school sports association agreed that Maloney would be suspended for two seasons. They also agreed that all wrestling officials in the state would be trained that the rule is about the length of hair, not its style. On December 19, 2019, one year after the match, Governor Phil Murphy signed New Jersey's CROWN Act.
 <!-- hb-story:end slug="andrew-johnson-wrestler" -->
