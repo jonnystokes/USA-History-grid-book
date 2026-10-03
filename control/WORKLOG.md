@@ -4975,7 +4975,8 @@ RESULT: PASS  land-environment / prose. 291263 tokens, 118 tools, 9.6 min (opus)
 CHECKPOINT: control/checkpoints/F7-land-environment.md
 
 ### 2026-10-03 | [LOCAL] T-611 | money: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  money / prose. 321386 tokens, 218 tools, 12.3 min (opus). 103 FIXED, 4 REJECTED, 1 NEEDS-RESEARCH (Bent negligence)
 CHECKPOINT: control/checkpoints/F7-money.md
 
 ### 2026-10-03 | [LOCAL] T-612 | energy: STEP 7 FIXER wave A | model opus
