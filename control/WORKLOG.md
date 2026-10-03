@@ -5078,7 +5078,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-government-politics.md
 
 ### 2026-10-03 | [LOCAL] T-631 | storytelling-evolution: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  storytelling-evolution / prose. 403309 tokens, 261 tools, 14.0 min (opus). 167 FIXED, ~1 REJECTED; slurs removed, Weinstein acquittals, Osage methods
 CHECKPOINT: control/checkpoints/F7-storytelling-evolution.md
 
 ### 2026-10-03 | [LOCAL] T-632 | city-building: STEP 7 FIXER wave B2 | model opus

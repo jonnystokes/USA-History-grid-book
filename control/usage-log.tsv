@@ -464,3 +464,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-628	prose	general-purpose/opus	[LOCAL] sports-play step 7 fixer	?	?	?	366843	225	778158	?	completed	PASS  sports-play / prose
 2026-10-03	T-626	prose	general-purpose/opus	[LOCAL] crime-justice step 7 fixer	?	?	?	394790	97	813893	?	completed	PASS  crime-justice / prose
 2026-10-03	T-637	prose	general-purpose/opus	[LOCAL] religion step 7 fixer	?	?	?	346222	105	799415	?	completed	PASS  religion / prose
+2026-10-03	T-631	prose	general-purpose/opus	[LOCAL] storytelling-evolution step 7 fixer	?	?	?	403309	261	839894	?	completed	PASS  storytelling-evolution / prose
