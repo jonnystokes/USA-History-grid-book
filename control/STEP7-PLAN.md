@@ -25,8 +25,8 @@ Giants split:
 - rights-movements: A = parts 1-2 (+Chavez #46), B = part 3
 
 ## Wave C (polish, ~5-6 agents)
-1. Afterword "How We Know" (Opus writer, 1 agent; no fourth wall inside the chapters, the afterword is the
-   one place the book explains its sources).
+1. Afterword "How We Know" (Opus writer, 1 agent). Written as how historians know the past (records, bones, oral
+   tradition, archives, disagreements), never mentioning the book itself (Jon: the book never mentions itself).
 2. Rebuild outlines/BOOK-OUTLINE.md and outlines/art.md (Wiley removal, Curtis 1807) (1 Opus agent or script).
 3. Full-book build (tools/README.md document toolkit) and viewer check (director + 1 Sonnet reader on the
    VIEWER-CONTRACT section 3 list).
