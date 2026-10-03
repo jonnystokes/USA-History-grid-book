@@ -367,6 +367,9 @@ Source for every line unless noted: Isabel Wilkerson, *The Warmth of Other Suns*
 - **Florence Owens Thompson** — Dust Bowl migrant; the woman in the 1936 "Migrant Mother" photograph.
 - **George Swanson Starling** — Great Migration; Florida to Harlem, 1945 (Wilkerson) — a second option.
 
+### PATCH 2026-10-03 (T-619): Robert S. Abbott and the Chicago Defender
+- New Georgia Encyclopedia, "Robert Sengstacke Abbott (1868-1940)," https://www.georgiaencyclopedia.org/articles/arts-culture/robert-sengstacke-abbott-1868-1940/ (fetched 2026-10-03): "In 1905 he founded the *Chicago Defender*, a weekly newspaper that soon dominated Chicago's already crowded Black press." "The paper even set a date, May 15, 1917, for a 'Great Northern Drive.'" The paper carried "employment and other classifieds" and set "southern brutality" against "northern opportunity."
+
 ## 9. 1950 to 2000 — the Second Great Migration and the Sun Belt
 
 ### The Great Migration continues, and turns west

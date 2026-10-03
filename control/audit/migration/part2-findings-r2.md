@@ -95,7 +95,7 @@ The `fixer` column for the table above, keyed by finding #.
 | 12 | FIXED: "records" |
 | 13 | FIXED: "first" cut, dates kept |
 | 14 | FIXED: "The troops forced the first groups out" |
-| 15 | FIXED: "The National Park Service's history of the trail states ...", "Historians cited by History.com give" |
+| 15 | FIXED: "The National Park Service's history of the trail states ...", "An article on the History.com website states" (the checker's "Historians cited by" would bring in unnamed historians, #32) |
 | 16 | FIXED: "Soldiers took her from Georgia in 1838." |
 | 17 | FIXED: "opened in 1821" |
 | 18 | FIXED: "From the 1840s on, tens of thousands of them came to the Willamette Valley" (bank, Oregon Encyclopedia) |

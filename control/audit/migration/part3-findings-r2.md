@@ -37,3 +37,41 @@ Eras with no findings: none.
 ## Tool output
 node tools/validate_grid.js --part: part3-1900s-and-today.md : 1 chapters, 5 stories, 0 errors
 project_state.py --punct: emdash=0 semicolon=0
+
+## Fixer verdicts (T-619, 2026-10-03)
+
+The `fixer` column for the table above, keyed by finding #.
+
+| # | fixer |
+|---|---|
+| 1 | FIXED: "In its pages, job listings and train schedules ran beside editorials ... The editorials urged"; "The *Defender* listed May 15, 1917" |
+| 2 | FIXED: PATCH 2026-10-03 (T-619), New Georgia Encyclopedia: Abbott founded the paper in 1905; "what he called" cut |
+| 3 | FIXED: "The histories of the riot do not say who killed each of them." added after the count |
+| 4 | FIXED: "in Chicago" cut |
+| 5 | FIXED (dispatch EXTRA, #34): "Davis announced that he would force the people arrested into unpaid labor ... Forced labor is work people are made to do against their will." |
+| 6 | FIXED: "citrus fruit" |
+| 7 | FIXED: "the price at the packing house, where the fruit was packed for sale, was ten cents a box" |
+| 8 | FIXED: "In 1942"; DeWitt's orders dated March and April 1942 from the bank |
+| 9 | FIXED: split |
+| 10 | FIXED: "run by officials of a federal office" |
+| 11 | FIXED: "The Dust Bowl was the name for those parts of" |
+| 12 | FIXED: "went west" |
+| 13 | FIXED: "Southern laws that required Black people and white people to be kept apart" |
+| 14 | FIXED: "said their families were Cherokee" (both places) |
+| 15 | FIXED: "train station" |
+| 16 | FIXED: rewritten as the meaning of Wilkerson's coined word, not as Foster's intent |
+| 17 | FIXED: "turned him away, a Black man traveling alone" (bank: a Black surgeon, alone); no reason stated beyond the bank |
+| 18 | FIXED: Census Bureau defined at first use in era 9 |
+| 19 | FIXED: sentence deleted |
+| 20 | REJECTED: a place gaining or losing people is a measurement, like "grew"; no will is implied |
+| 21 | FIXED: split |
+| 22 | FIXED: split, bridge named once |
+| 23 | FIXED: "voted to support the blockade" |
+| 24 | FIXED: "the people of up to 600,000 homes were still away" |
+| 25 | FIXED: Who line rewritten without "aspiring" |
+| 26 | FIXED: "a hospital that was not emptied of its patients"; "The accounts do not say who decided to leave the hospital's patients there" |
+| 27 | FIXED: "They were waiting for a promised check from FEMA" |
+| F1 | found by fixer, era 8, #32: "Smithsonian magazine reports that historians think the real number was much lower" (unnamed historians) -> "Writing in *Smithsonian* magazine in 2025, Olatunji Osho-Williams reports that the real number was probably much lower." |
+| F2 | found by fixer, eras 8 and 10, #45: "not named in the surviving accounts", "not named in the published accounts", "No published account names the men at the gate" (no SEARCHED, NOT FOUND entries) -> "The accounts of the beating / of Starling's life / of the film do not name ..." |
+
+Counts: FIXED 26, REJECTED 1, NEEDS-RESEARCH 0, found by fixer 2.

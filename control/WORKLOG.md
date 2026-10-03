@@ -5010,7 +5010,8 @@ RESULT: PASS  styles / prose. 340672 tokens, 178 tools, 10.9 min (opus). 121 FIX
 CHECKPOINT: control/checkpoints/F7-styles.md
 
 ### 2026-10-03 | [LOCAL] T-619 | migration: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  migration / prose. 323616 tokens, 198 tools, 11.8 min (opus). 121 FIXED, 8 REJECTED; softenings fixed (#34)
 CHECKPOINT: control/checkpoints/F7-migration.md
 USAGE AT START (step 7 wave A): 0% after reset (read with get_usage).
 AGENTS STEP7 WAVE A: T-604..T-619 launched 2026-10-03 at 0%. Close each with: python tools/close7.py <tid> <slug> <tokens> <tools> <ms> "note"
