@@ -4925,8 +4925,8 @@ STEP 6 final wave: T-586..T-599 (14 largest files) launched at 38% usage (Jon).
 RESULT: DONE. 77 r2 findings: 65 FIXED, 12 REJECTED, +8 found by fixer; Knox 'was killed' (#44); PASS prose. 287,236 tokens, 119 tools, 10.8 min (opus).
 CHECKPOINT: control/checkpoints/F7-economy.md
 
-### 2026-10-02 | [LOCAL] T-601 | work-workers: STEP 7 FIXER (round-2 findings) | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. r2 findings: 77 FIXED, 3 REJECTED, 1 NEEDS-RESEARCH, +12 found by fixer; Chavez 2026 accusations added, attributed (NPR/NYT March 2026); PASS prose. 322,784 tokens, 204 tools, 18.1 min (opus).
 CHECKPOINT: control/checkpoints/F7-work-workers.md
 
 ### 2026-10-02 | STATUS: DONE
@@ -4938,3 +4938,4 @@ RESULT: DONE. r2 findings: 98 FIXED, 4 REJECTED, 1 NEEDS-RESEARCH, +19 found by 
 CHECKPOINT: control/checkpoints/F7-technology.md
 USAGE AT START (step 7 wave 1, T-600..T-603): 66% (Jon).
 AGENTS STEP7 WAVE1: T-600 ab061681383c5d135 (economy), T-601 a309aa5f3932db00b (work-workers), T-602 a610fa0938bb2e819 (elements), T-603 a9213bba0ab9d1e79 (technology)
+### 2026-10-02 | [LOCAL] Step 7 wave 1 done: economy, elements, technology, work-workers PASS (1.27M tokens). DECISIONS #45-46. Usage at start 66%.

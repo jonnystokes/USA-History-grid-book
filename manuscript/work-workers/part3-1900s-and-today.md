@@ -14,10 +14,10 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-By 1938 a federal law set a minimum wage of 25 cents an hour and a work week of 44 hours, falling to 40 hours by 1940, and it banned most work by children under 16. Since 1935 another federal law had given workers the legal right to form unions. In the first years of the century, children still worked in mills and mines. In 1900, 1,489 coal miners were killed at work, and in 1907, 3,242. In 1911 a fire killed 146 workers in a New York garment factory. At Ludlow, Colorado, in 1914, National Guard soldiers burned a camp of striking miners' tents, and 13 women and children died in a pit under one tent. In Chicago in 1937, police shot and killed ten people who were marching to support a steel strike.
+A federal law of 1938 set a minimum wage of 25 cents an hour. It also set a work week of 44 hours, falling to 40 by 1940, and banned most work by children under 16. Since 1935 workers had had the legal right to form unions, under a federal law that members of Congress passed that year. In the first years of the century, children still worked in mills and mines. In 1900, 1,489 coal miners were killed at work, and in 1907, 3,242. In 1911 a fire killed 146 workers in a New York garment factory. At Ludlow, Colorado, in 1914, National Guard soldiers burned a camp of striking miners' tents, and the fire killed 13 women and children hiding in a pit under one tent. In Chicago in 1937, police shot and killed ten people who were marching to support a steel strike.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The anthracite strike, 1902" -->
+<!-- hb-zoom level="span" label="The hard-coal strike, 1902" -->
 In May 1902, 147,000 hard-coal miners and breaker boys in Pennsylvania went on strike. Breaker boys were boys who picked waste rock out of the coal. They stayed out for about five months, until October. President Theodore Roosevelt stepped in. Earlier presidents had sent troops to break strikes, as in 1877 and 1894. Roosevelt acted as a mediator instead, a go-between who helps both sides reach a deal. It was the first time a president had done this in a strike.
 
 Roosevelt set up a commission, a group of people chosen to look into the strike. The commission heard 558 witnesses. Some of them were breaker boys younger than nine. In March 1903 the commission's members ruled that the miners should get a 10 percent raise and a nine-hour day.
@@ -27,7 +27,7 @@ Roosevelt set up a commission, a group of people chosen to look into the strike.
 ### Mother Jones
 
 > **Who:** Mary Harris Jones, a union organizer for coal miners whom a prosecutor called "the most dangerous woman in America."
-> **When and where:** Baptized in Cork, Ireland. She said she was born in 1830, but her baptism record gives August 1, 1837. Organizing from the 1890s. Died 1930.
+> **When and where:** Baptized in Cork, Ireland. She said she was born in 1830, but her baptism record gives August 1, 1837. Organizing from the 1870s, and for the United Mine Workers from the 1890s. Died 1930.
 
 Mary Harris Jones, known as Mother Jones, spent the last part of her long life organizing workers. In 1902 a prosecutor in West Virginia called her "the most dangerous woman in America."
 
@@ -41,7 +41,7 @@ She said she was born in 1830, and on May 1, 1930, she celebrated her "100th" bi
 <!-- hb-zoom level="span" label="Deaths in the coal mines" -->
 In 1900, 1,489 coal miners were killed at work. The worst year on record was 1907. That year 3,242 coal miners were killed out of 680,492 miners.
 
-On December 6, 1907, explosions in two mines at Monongah, West Virginia, killed hundreds of men and boys. The official count was 362 dead. The West Virginia Mine Wars Museum and later estimates put the dead at more than 500. About 1,000 children lost their fathers. Accounts differ on which company ran the mines, the Fairmont Coal Company or the Consolidation Coal Company. The Fairmont company's president, C. W. Watson, blamed "the careless use of a mining lamp." No record shows that anyone was charged.
+On December 6, 1907, explosions in two mines at Monongah, West Virginia, mines No. 6 and No. 8, killed hundreds of men and boys. Some of the boys were as young as eight. The official count was 362 dead. The West Virginia Mine Wars Museum and later estimates put the dead at more than 500. About 1,000 children lost their fathers. Accounts differ on which company ran the mines, the Fairmont Coal Company or the Consolidation Coal Company. The Fairmont company's president, C. W. Watson, blamed "the careless use of a mining lamp." No record shows that anyone was charged.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Lewis Hine photographs the children" -->
@@ -64,7 +64,7 @@ In 2005 and 2006, a researcher named Joe Manning, working with the novelist Eliz
 <!-- hb-zoom level="span" label="The shirtwaist makers and the Triangle fire" -->
 A shirtwaist was a woman's blouse. In New York City, many young immigrant women sewed shirtwaists in garment shops. On November 22, 1909, the shirtwaist makers held a meeting at Cooper Union, a hall in New York. Clara Lemlich, a shirtwaist maker, was still bruised from a beating by men hired by her company. She stood up and spoke in Yiddish, the language of many Jewish immigrants. "I have no further patience for talk," she said. "I move we go on strike." About 20,000 garment workers struck for eleven weeks. The strike is called the Uprising of the 20,000.
 
-On March 25, 1911, a fire broke out on the top floors of the Triangle Waist Company's building near Washington Square in New York. The fire killed 146 workers. Most of them were young immigrant women, and some were only 14. On the ninth floor, the door to one stairway was kept locked. The trial did not prove who locked it. Dozens of workers jumped from the building.
+On March 25, 1911, a fire broke out on the top floors of the Triangle Waist Company's building near Washington Square in New York. The fire killed 146 workers. Most of them were young immigrant women, and some were only 14. On the ninth floor, the door to one stairway was locked. No record proves who locked it. Dozens of workers jumped from the building.
 
 The owners of the company, Max Blanck and Isaac Harris, were tried for manslaughter. Manslaughter is the crime of killing someone without meaning to, through a wrongful act or through carelessness. On December 27, 1911, the jury acquitted them, which means it found them not guilty. The prosecutors could not prove that the owners knew the door was locked. New York's lawmakers then set up the Factory Investigating Commission, and they rewrote the state's factory safety laws.
 <!-- /hb-zoom -->
@@ -85,7 +85,7 @@ Rose Rosenfeld Freedman died in Beverly Hills, California, on February 15, 2001.
 <!-- hb-story:start slug="frances-perkins-work-workers" name="Frances Perkins" movie="Summoned: Frances Perkins and the General Welfare (2020)" kind="famous" status="verified" -->
 ### Frances Perkins
 
-> **Who:** A woman who watched the Triangle fire, later became the first woman in a president's Cabinet, and pushed for the country's first federal law on wages and hours.
+> **Who:** A woman who watched the Triangle fire, later became the first woman in a president's Cabinet, and pushed for the law that set the country's first federal minimum wage.
 > **When and where:** New York, 1911. Secretary of Labor in Washington, 1933 to 1945.
 > **Movie:** *Summoned: Frances Perkins and the General Welfare* (2020), a documentary by Mick Caouette, shown on PBS. It is about Perkins's life.
 
@@ -97,7 +97,7 @@ After the fire, Perkins worked as an investigator for New York's Factory Investi
 <!-- hb-zoom level="span" label="Lawrence, 1912" -->
 In 1912 Massachusetts lawmakers cut the legal work week from 56 hours to 54. Mill owners in Lawrence, Massachusetts, then cut their workers' pay. On January 12, 1912, the workers struck. Most of them worked for the American Woolen Company. More than half of the mill workers were women and children, and they spoke more than a dozen languages. Leaders of a union called the Industrial Workers of the World sent organizers, who ran committees that gave out food and help.
 
-In February the strikers began sending their children to live with families in other cities. On February 24, police at the Lawrence railroad station clubbed women and children who were trying to send children away. The police jailed 30 women. On March 12 the owners agreed to a 15 percent raise, double pay for overtime and no punishment for the strikers.
+In February the strikers began sending their children to live with families in other cities. On February 24, police at the Lawrence railroad station clubbed women and children who were trying to send children away. The police jailed 30 women. On March 12 the owners agreed to a 15 percent raise, double pay for overtime (extra hours of work) and no punishment for the strikers.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The assembly line" -->
@@ -105,7 +105,7 @@ On October 7, 1913, managers at Henry Ford's plant at Highland Park, Michigan, s
 
 Many men could not stand the pace, and they quit. In 1913 worker turnover at the plant reached 370 percent. That means that for every job, Ford's managers had to hire nearly four men in a year. On January 5, 1914, Ford announced a pay of $5 for an eight-hour day. Before that, pay had been about $2.34 for nine hours.
 
-The $5 day came with conditions. Ford's managers called part of the money "profit-sharing," and they paid that part only to men who passed inspections of their homes. Investigators from the company's Sociological Department checked whether a man drank, whether he saved money and how clean his home was. They also checked whether he took in boarders, people who paid to live in a room of his home. The managers left out workers under 22 and, at first, most women.
+The $5 day came with conditions. Ford's managers called part of the money "profit-sharing," and they paid that part only to men who passed inspections of their homes. Company investigators, from an office that Ford's managers called the Sociological Department, checked whether a man drank, whether he saved money and how clean his home was. They also checked whether he took in boarders, people who paid to live in a room of his home. The managers left out workers under 22 and, at first, most women.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Ludlow, 1914" -->
@@ -113,7 +113,7 @@ Coal miners in Colorado went on strike in September 1913. They wanted the state'
 
 In October 1913 men in an armored car belonging to the company, called the "Death Special," fired on the tent colony at Forbes and killed one person. Governor Elias M. Ammons sent in the Colorado National Guard, the state's soldiers, and the mine owners paid for it.
 
-On April 20, 1914, fighting broke out at the tent colony at Ludlow. Nobody knows who fired the first shot. Guardsmen burned the tents. At least 19 people died. One was a guardsman and five were miners. Thirteen were women and children who had hidden in a pit dug under a tent. They suffocated, which means they died because they could not get air. Guardsmen shot the strike leader, Louis Tikas, three times in the back.
+On April 20, 1914, fighting broke out at the tent colony at Ludlow. Nobody knows who fired the first shot. Guardsmen burned the tents. At least 19 people were killed. One was a guardsman and five were miners. Thirteen were women and children who had hidden in a pit dug under a tent. They suffocated, which means they died because they could not get air. Guardsmen shot the strike leader, Louis Tikas, three times in the back.
 
 After Ludlow, miners attacked mines across the region and killed supervisors and guards. Nobody knows exactly how many. On April 28 President Woodrow Wilson sent in the US Army. The strike ended in December 1914. The miners won none of their union's goals.
 <!-- /hb-zoom -->
@@ -121,7 +121,7 @@ After Ludlow, miners attacked mines across the region and killed supervisors and
 <!-- hb-zoom level="span" label="The first child-labor law, and the justices who threw it out" -->
 In 1916 members of Congress passed the Keating-Owen Act, the first federal law against child labor. Under it, a company could not ship goods to another state if it had used child workers to make them. It covered children under 14 in mills, food-canning plants and factories, and children under 16 in mines. Children aged 14 to 16 could not work more than 8 hours a day or 6 days a week, or at night.
 
-Roland Dagenhart's sons worked in a cotton mill in North Carolina, and he sued to stop the law. On June 3, 1918, in the case Hammer v. Dagenhart, the justices of the Supreme Court ruled, 5 votes to 4, that the law broke the Constitution and could not be used. The majority ruled that Congress's power over trade between the states did not cover how goods were made. Justice Oliver Wendell Holmes disagreed. Members of Congress passed a second child-labor law in 1919, and the justices threw that one out too.
+Roland Dagenhart's sons worked in a cotton mill in North Carolina, and he sued to stop the law. On June 3, 1918, the justices of the Supreme Court ruled 5 votes to 4 in the case Hammer v. Dagenhart. They said the law broke the Constitution and could not be used. The majority ruled that Congress's power over trade between the states did not cover how goods were made. Justice Oliver Wendell Holmes disagreed. Members of Congress passed a second child-labor law in 1919, and the justices threw that one out too.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="grace-fryer-work-workers" name="Grace Fryer" movie="Radium Girls (2018)" kind="ordinary" status="verified" -->
@@ -131,19 +131,19 @@ Roland Dagenhart's sons worked in a cotton mill in North Carolina, and he sued t
 > **When and where:** Orange, New Jersey. Worked from 1917 to 1920. Sued in 1927. Settled in June 1928.
 > **Movie:** *Radium Girls* (2018), a drama inspired by the dial painters' case. Its main characters are two invented sisters, not Grace Fryer.
 
-Grace Fryer painted watch dials with glowing paint at the United States Radium Corporation in Orange, New Jersey, from 1917 to 1920. The paint glowed because it contained radium. Radium gives off radiation, energy that damages the body from the inside. The women who painted the dials were taught to shape the tip of the brush with their lips, so the radium paint went into their mouths.
+Grace Fryer painted watch dials with glowing paint at the United States Radium Corporation in Orange, New Jersey, from 1917 to 1920. The paint glowed because it contained radium. Radium gives off radiation, energy that damages the body from the inside. Their supervisors taught the women who painted the dials to shape the tip of the brush with their lips, so the radium paint went into their mouths. "Our instructors told us to point [our brushes] with our lips," Grace Fryer said later. The supervisors told the women the paint was safe.
 
 Radium is in the same chemical family as calcium, so the body takes it into the bones and teeth. Almost all of it stays in the skeleton. Scientists who studied the dial painters found that it caused aplastic anemia, necrosis of the jaw and osteosarcomas. Aplastic anemia means the body stops making enough new blood cells. Necrosis means the bone dies, and the jawbone breaks down. An osteosarcoma is a cancer of the bone. In 1924 a dentist named Theodor Blum examined Grace Fryer and found that her jawbone was wasting away in a way he had never seen before.
 
 As the dial painters fell sick and died, company officials played down and disputed the poisoning. In May 1927 a lawyer named Raymond Berry sued the company for five of the women. They were Grace Fryer, Katherine Schaub, Quinta Maggia Macdonald, Albina Maggia Larice and Edna Hussman. Reporters called them "the five women doomed to die." Some of them were too sick to travel to court.
 
-In June 1928 the company's officials agreed to pay the women to end the lawsuit. This kind of deal is called a settlement. Each woman received $10,000 (some sources say $15,000), $600 a year for as long as she lived and payment for her medical bills. A committee of three doctors had to approve the medical costs. The company's officials never admitted that the company was to blame.
+In June 1928 the company's officials agreed to pay the women to end the lawsuit. This kind of deal is called a settlement. Each woman received $10,000 (some accounts say $15,000), $600 a year for as long as she lived and payment for her medical bills. A committee of three doctors had to approve the medical costs. The company's officials never admitted that the company was to blame.
 <!-- hb-story:end slug="grace-fryer-work-workers" -->
 
 <!-- hb-zoom level="span" label="Catherine Wolfe Donohue's case, 1938" -->
-At the Radium Dial Company plant in Ottawa, Illinois, dial painters were also taught to point their brushes with their lips. Catherine Wolfe Donohue was one of them. At a hearing on February 10, 1938, she brought a box of pieces of bone that she said had come from her jaw. When the judge asked her doctor about her chances, she collapsed. Several men carried her from the room. She weighed 71 pounds.
+At the Radium Dial Company plant in Ottawa, Illinois, a supervisor named Miss Murray also taught the dial painters to point their brushes with their lips. Catherine Wolfe Donohue was one of them. "We would first dip the brush into water, then into the powder, and then point the ends of the bristles between our teeth," she said. At a hearing on February 10, 1938, she brought a box of pieces of bone that she said had come from her jaw. When the judge asked her doctor about her chances, she collapsed. Several men carried her from the room. She weighed 71 pounds.
 
-On April 5, 1938, the hearing officer, the official who ran the hearing, ruled that her illness came from her work at the plant. He awarded her $5,661, paid as $277 a year for life. The company asked for a new ruling, which is called an appeal. On July 6, 1938, the members of the Illinois Industrial Commission, a state board that decided workers' claims, turned down the appeal and added $730. Donohue died later that month, at 35. The last appeal in her case ended in October 1938, after her death.
+On April 5, 1938, the hearing officer, the official who ran the hearing, ruled that her illness came from her work at the plant. He awarded her $5,661, paid as $277 a year for life. The company's lawyers asked for a new ruling, which is called an appeal. On July 6, 1938, the members of the Illinois Industrial Commission, a state board that decided workers' claims, turned down the appeal and added $730. Donohue died later that month, at 35. The last appeal in her case ended in October 1938, after her death.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hawks Nest tunnel, 1930 to 1932" -->
@@ -157,15 +157,15 @@ The number of men who died is disputed. In 1936 members of a US House of Represe
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Building the skyscrapers, the bridge and the dam" -->
-Up to 3,400 workers a day built the Empire State Building in New York. By the official count, five of them died. Lewis Hine photographed the ironworkers high on the open steel frame in 1931. Mohawk ironworkers from Kahnawake, a Mohawk community near Montreal in Canada, worked in the building crews.
+Up to 3,400 workers a day built the Empire State Building in New York. By the official count, five of them died. Lewis Hine photographed the ironworkers high on the open steel frame in 1931. Mohawk ironworkers from Kahnawake, a Mohawk community just south of Montreal in Canada, worked in the building crews.
 
 At the Golden Gate Bridge in San Francisco, the chief engineer, Joseph Strauss, required workers to wear hard hats. He spent about $130,000 on a safety net under the bridge. The net caught 19 men who fell, and they called themselves the "Halfway to Hell Club." One of them, the ironworker Al Zampa, fell on October 19, 1936, and broke four bones in his back. He went back to ironwork. Eleven men died building the bridge. Ten of them died on February 17, 1937, when a falling platform tore through the net.
 
-At Hoover Dam, the federal Bureau of Reclamation's official count is 96 deaths on the job. That count leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs. Many accounts say those men were in fact poisoned by carbon monoxide, a gas from engines, in the tunnels.
+At Hoover Dam, the federal Bureau of Reclamation's official count is 96 deaths on the job. That count leaves out 42 deaths that were recorded as pneumonia, a disease of the lungs. Whether those men died of pneumonia or were poisoned in the tunnels by carbon monoxide, a gas from engines, is disputed. The true number of deaths at the dam is not known.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The right to organize and the sit-down strikes" -->
-During the Great Depression of the 1930s, many businesses closed and millions of people lost their jobs. Federal officials hired people who were out of work through programs such as the Works Progress Administration and the Civilian Conservation Corps. In 1935 members of Congress passed the Wagner Act, which made it a legal right for workers to form unions.
+During the Great Depression of the 1930s, many businesses closed and millions of people lost their jobs. At its worst, in 1933, about 12.8 million people, almost one worker in four, had no job. Federal officials hired people who were out of work through programs such as the Works Progress Administration and the Civilian Conservation Corps. In 1935 members of Congress passed the Wagner Act, which made it a legal right for workers to form unions.
 
 That same year John L. Lewis and other union leaders formed a new group inside the American Federation of Labor, the AFL, to organize whole factories. The AFL was a large group of unions of skilled workers. The AFL's leaders threw them out, and the group became the Congress of Industrial Organizations, the CIO. Its unions took in every worker in a mass-production plant, such as a car factory or a steel mill.
 
@@ -175,7 +175,7 @@ In a sit-down strike, workers stop working but stay inside the plant, so the com
 <!-- hb-zoom level="span" label="The Memorial Day Massacre, 1937" -->
 Several hundred people marched toward the Republic Steel plant on Sunday, May 30, 1937. The plant stood on Chicago's far Southeast Side, and the marchers were supporting the steelworkers' strike there. They were white, Black and Latino men, women and children, and about 200 of them were women. There, 264 Chicago police met them.
 
-The police threw tear gas, fired their guns and beat the marchers with clubs. They killed ten people and shot 40. More than 90 people were wounded in all. The Paramount company filmed it and at first held back the newsreel. Senators on a committee led by Senator Robert La Follette Jr. looked into the killings. They found that the police had used "excessive force," made "baseless allegations," which means claims with nothing true behind them, and "did not carry out an honest investigation." No record names any police officer who was ever punished.
+The police threw tear gas, fired their guns and beat the marchers with clubs. They killed ten people and shot 40. More than 90 people were wounded in all. The Paramount company filmed it and at first held back the newsreel. Senators on a committee led by Senator Robert La Follette Jr. looked into the killings. They found that the police had used "excessive force," which means far more force than was needed. The police had also made "baseless allegations," claims with nothing true behind them. The senators said the police "did not carry out an honest investigation." No record names any police officer who was ever punished.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="a-philip-randolph-work-workers" name="A. Philip Randolph" movie="10,000 Black Men Named George (2002)" kind="famous" status="verified" -->
@@ -189,7 +189,7 @@ A. Philip Randolph won the first contract between a major American company and a
 
 On August 25, 1937, twelve years after the union began, the Pullman Company's officials signed a contract with it. The porters' working month had run to about 400 hours. Under the contract the working month fell sharply, and the porters got $1.25 million in raises.
 
-In 1941 Randolph threatened to lead a march on Washington. On June 25, 1941, President Franklin Roosevelt signed Executive Order 8802, an order from the president. It said there could be "no discrimination in the employment of workers in defense industries or government because of race, creed, color, or national origin." That meant defense companies, which made weapons and supplies for the military, and government offices could not refuse to hire people because of their race, religion or the country their families came from. In 1963 Randolph directed the March on Washington for Jobs and Freedom.
+In 1941 Randolph threatened to lead a march on Washington. On June 25, 1941, President Franklin Roosevelt signed Executive Order 8802, an order from the president. It said there could be "no discrimination in the employment of workers in defense industries or government because of race, creed, color, or national origin." Defense companies made weapons and supplies for the military. Under the order, they and government offices could not refuse to hire people because of their race, religion or the country their families came from. In 1963 Randolph directed the March on Washington for Jobs and Freedom.
 <!-- hb-story:end slug="a-philip-randolph-work-workers" -->
 
 <!-- hb-zoom level="span" label="The Fair Labor Standards Act, 1938" -->
@@ -218,7 +218,7 @@ From 1984, the woman in the 1942 photograph was said to be Geraldine Hoff Doyle.
 <!-- hb-story:end slug="naomi-parker-fraley" -->
 
 <!-- hb-zoom level="span" label="The strike wave of 1945 and 1946" -->
-When the war ended, workers struck in greater numbers than ever before. In 1945 there were 4,750 strikes involving 3.47 million workers. In 1946 there were 4,985 strikes involving 4.6 million workers. That was the most the Bureau of Labor Statistics has ever recorded in one year. Workers struck in steel, coal, railroads and car plants.
+When the war ended, workers struck in greater numbers than ever before. In 1945 there were 4,750 strikes involving 3.47 million workers. The Bureau of Labor Statistics, the federal office that counts jobs and workers, recorded 4,985 strikes involving 4.6 million workers in 1946. No other year in its records has more. Workers struck in steel, coal, railroads and car plants.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -238,13 +238,13 @@ Women also went to work for pay in growing numbers. In 1950, 34 percent of women
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The braceros at work" -->
-The bracero program went on after the war. Men who wanted contracts went through reception centers at the border. The federal agency that handled immigration ran them. One was the Rio Vista farm in El Paso, Texas. Men who went through Rio Vista remembered "poor food, humiliating medical examinations, and the fumigation." Officials had the men strip off their clothes, line up and be sprayed with DDT, a white powder that kills insects. The officials believed that Mexican workers carried insects and germs.
+The bracero program went on after the war. Men who wanted contracts went through reception centers at the border. Officials of the federal agency that handled immigration ran them. One was the Rio Vista farm in El Paso, Texas. Men who went through Rio Vista remembered "poor food, humiliating medical examinations, and the fumigation." Officials had the men strip off their clothes, line up and be sprayed with DDT, a white powder that kills insects. The officials believed that Mexican workers carried insects and germs.
 
-From 1948, growers could hire braceros right at the border. That let the growers skip the cost of moving the men and avoid government checks. Braceros worked six or seven days a week on farms and railroads in 26 states. Some were paid little, lived in poor housing and were cursed at and beaten by supervisors. They worked with pesticides, chemicals that kill insects and weeds, and these were later found to be very harmful to farmworkers. The program ended in 1964, after pressure from unions, the spread of farm machines and public attention to the conditions.
+From 1948, growers could hire braceros right at the border. That let the growers skip the cost of moving the men and avoid government checks. Braceros worked six or seven days a week on farms and railroads in 26 states. Some were paid little and lived in poor housing. Supervisors cursed at some of them and attacked some of them physically. They worked with pesticides, chemicals that kill insects and weeds, and these were later found to be very harmful to farmworkers. The program ended in 1964, after pressure from unions, the spread of farm machines and public attention to the conditions.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Mohawk ironworkers" -->
-Ironworkers from the Mohawk communities of Kahnawake, near Montreal, and Akwesasne, on the border of New York and Canada, worked high steel from the 1920s onward. Working high steel means building the steel frames of bridges and skyscrapers, walking on narrow beams far above the ground. Mohawk ironworkers helped build the Empire State Building, the Chrysler Building and Rockefeller Center in New York. Later they helped build the World Trade Center. The 9/11 Memorial and Museum has an exhibit about them called "Skywalkers."
+Ironworkers from the Mohawk communities of Kahnawake, just south of Montreal, and Akwesasne, which lies across the border of the United States and Canada on the St. Lawrence River, worked high steel from the 1920s onward. Working high steel means building the steel frames of bridges and skyscrapers, walking on narrow beams far above the ground. Mohawk ironworkers helped build the Empire State Building, the Chrysler Building and Rockefeller Center in New York. Later they helped build the World Trade Center. The 9/11 Memorial and Museum has an exhibit about them called "Skywalkers."
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="chavez-huerta" name="Cesar Chavez and Dolores Huerta" movie="Cesar Chavez (2014) · Dolores (2017)" kind="famous" status="verified" -->
@@ -261,6 +261,8 @@ From March 17 to April 11, 1966, strikers marched about 300 miles from Delano to
 Across the country, people stopped buying California table grapes. This was the grape boycott. On July 29, 1970, 26 grape growers in Delano signed the first union contracts. Dolores Huerta negotiated the contracts. She also made up the union's slogan, "Sí, se puede," Spanish for "Yes, it can be done."
 
 Since 1935 federal labor law had not covered farmworkers. In 1975 California's lawmakers passed the Agricultural Labor Relations Act. It was the first law in the United States to give farmworkers the right to collective bargaining, which means bargaining as a union with their employers.
+
+In March 2026 the New York Times reported that Chavez had sexually abused two girls in the 1970s. The two women, Debra Rojas and Ana Murguia, are daughters of union organizers. They said the abuse began when they were 12 and 13. Rojas said Chavez raped her in a motel room when she was 15. Rape means forcing a person into sex. Dolores Huerta then said publicly that Chavez had pressured her into sex once and had raped her in a car in 1966, and that she became pregnant both times. She said she had kept the secret for 60 years because she believed the truth would hurt the farmworker movement. Chavez died in 1993, so no court has ever heard these accusations. The United Farm Workers canceled its events for Cesar Chavez Day. On March 26, 2026, California's lawmakers voted to rename the state holiday Farmworkers Day, and Governor Gavin Newsom signed the change into law.
 <!-- hb-story:end slug="chavez-huerta" -->
 
 <!-- hb-zoom level="span" label="Pesticides in the fields" -->
@@ -268,7 +270,7 @@ Farmworkers who worked in fields sprayed with pesticides, chemicals that kill in
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The stewardesses' rules" -->
-Into the late 1960s, managers at US airlines fired stewardesses who married or who turned 32, and at some airlines 35. They also weighed the women and checked that they wore girdles, tight undergarments. Barbara "Dusty" Roads flew for American Airlines from 1950. She pressed members of Congress to change the rules and helped found the Association of Professional Flight Attendants, a union. The Civil Rights Act of 1964 banned treating workers unfairly in hiring and firing because they were women or men. Flight attendants brought cases under that law, and in those years the age and marriage rules came to an end.
+Into the late 1960s, managers at US airlines fired stewardesses who married or who turned 32, and at some airlines 35. They also weighed the women and checked that they wore girdles, tight undergarments. Barbara "Dusty" Roads flew for American Airlines from 1950. She pressed members of Congress to change the rules and helped found the Association of Professional Flight Attendants, a union. The Civil Rights Act of 1964 banned treating workers unfairly in hiring and firing because they were women or men. Flight attendants brought cases under that law, and in those years airline managers dropped the age and marriage rules.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Memphis, 1968" -->
@@ -278,7 +280,7 @@ Eleven days later, 1,300 Black sanitation workers went on strike. They wanted th
 
 On February 22 the members of the City Council voted to recognize the union. Mayor Henry Loeb rejected the vote. He said only the mayor could recognize a union, and he would not. He also kept the worn-out trucks on the streets and would not pay overtime for late-night shifts. On February 23 police sprayed Mace and fired tear gas at marchers walking to City Hall.
 
-On March 28 fighting broke out during a march. Police fired tear gas inside Clayborn Temple, a church. A Memphis police officer shot and killed Larry Payne, a 16-year-old student. The officer said Payne came at him with a knife. Most people who saw it said Payne came out of a basement with his hands up, and none of them saw a knife. The officer was never charged or disciplined.
+On March 28 violence broke out during a march, and some people looted downtown shops. Members of a young Black Power group called the Invaders were accused of starting it. Police followed the marchers back to Clayborn Temple, a church, fired tear gas inside and clubbed people lying on the floor. A Memphis police officer shot and killed Larry Payne, a 16-year-old student. The officer said Payne came at him with a knife. Most people who saw it said Payne came out of a basement with his hands up, and none of them saw a knife. The officer was never charged or disciplined.
 
 Dr. Martin Luther King Jr. came to Memphis to support the strikers. On the evening of April 4, 1968, James Earl Ray shot and killed him on the balcony of the Lorraine Motel. On April 16, city negotiators agreed that the City Council would recognize the union and raise wages. The union was AFSCME Local 1733, part of a national union of city and state workers.
 <!-- /hb-zoom -->
@@ -298,7 +300,7 @@ The checkout job changed too. At 8:01 in the morning on June 26, 1974, cashier S
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The mills close" -->
-On September 19, 1977, the Campbell Works steel mill in Youngstown, Ohio, closed. People in Youngstown remember that day as "Black Monday." Factory jobs in the United States reached their highest number, 19.6 million, in June 1979. After that the number fell for forty years.
+On September 19, 1977, the managers of Youngstown Sheet and Tube suddenly shut the company's Campbell Works steel mill in Youngstown, Ohio, and 5,000 workers lost their jobs. People in Youngstown remember that day as "Black Monday." Factory jobs in the United States reached their highest number, 19.6 million, in June 1979. After that the number fell for forty years.
 
 In 1983, 20.1 percent of wage and salary workers belonged to a union. By 2000 the share was about 13.4 percent.
 <!-- /hb-zoom -->
@@ -313,7 +315,7 @@ Frank Lumpkin spent 17 years fighting to win back the pay and pensions that he a
 
 In 1940 he moved north to Buffalo, New York. He worked in construction, in an aircraft factory and at Bethlehem Steel, and he served in the Merchant Marine, the crews of American cargo ships. In the 1950s he went to work at Wisconsin Steel in the South Deering neighborhood of Chicago. He worked in the mill for about 30 years.
 
-International Harvester had owned the mill since 1902. In 1977 International Harvester's managers sold the mill to Envirodyne, a company with no experience in steel, and lent Envirodyne the money to buy it. In late March 1980 the mill closed without warning. The workers lost their jobs, their health benefits, their back pay and their pensions. In April, Chase Manhattan Bank told them that their final paychecks were worthless.
+International Harvester had owned the mill since 1902. In 1977 International Harvester's managers sold the mill to Envirodyne, a company with no experience in steel. They lent Envirodyne the money to buy it. In late March 1980, while Envirodyne owned it, the mill shut down without warning. The workers lost their jobs, their health benefits, their back pay and their pensions. In April, officers of Chase Manhattan Bank told them that their final paychecks were worthless.
 
 Lumpkin and his wife, Bea Lumpkin, started the Wisconsin Steel Save Our Jobs Committee. Its members were Black, Mexican American and other steelworkers and their families. They helped families with food, medical care and utility bills. First the members tried to get the mill reopened. Then they fought to recover the lost pay and benefits, and they sued International Harvester and Envirodyne. In 1987 the committee counted 600 former workers who had died in the seven years since the closing.
 
@@ -321,15 +323,15 @@ In 1988 the lawyer Thomas Geoghegan won a settlement of $14.5 million from Inter
 <!-- hb-story:end slug="frank-lumpkin" -->
 
 <!-- hb-zoom level="span" label="The air traffic controllers, 1981" -->
-On August 3, 1981, about 13,000 federal air traffic controllers, the workers who guide airplanes in and out of airports, went on strike. Federal law did not allow federal workers to strike. President Ronald Reagan gave them 48 hours to return to work. On August 5 he fired 11,345 of them. Their union was decertified, which means federal officials no longer accepted it as the workers' union. Many accounts describe the firings as a signal to employers that breaking a strike was acceptable again.
+On August 3, 1981, about 13,000 federal air traffic controllers, the workers who guide airplanes in and out of airports, went on strike. Federal law did not allow federal workers to strike. President Ronald Reagan gave them 48 hours to return to work. On August 5 he fired 11,345 of them. Their union was decertified, which means federal officials no longer accepted it as the workers' union. The historian Joseph McCartin, who wrote a book about the strike, argues that the firings showed private employers that they could fight strikes and beat their unions.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="El Monte, 1995" -->
-On August 2, 1995, state and federal agents and El Monte police raided a fenced apartment complex in El Monte, near Los Angeles. Inside they found 72 Thai garment workers held against their will, and they freed them. Suni Manasurangkun and her sons ran the operation. Recruiters in Thailand had taken the workers' passports when they arrived. The workers owed about $5,000 for the trip.
+On August 2, 1995, state and federal agents and El Monte police raided a fenced apartment complex in El Monte, near Los Angeles. Inside they found 72 Thai garment workers who had been forced to sew clothes and were not allowed to leave, and they freed them. Suni Manasurangkun and her sons ran the operation. Recruiters in Thailand had taken the workers' passports when they arrived. The workers owed about $5,000 for the trip.
 
 A high fence topped with razor wire surrounded the buildings, and an armed guard sat in the courtyard. The workers sewed clothes 84 hours a week, from early morning to midnight, for about $1.60 an hour. One worker, Rotchana Cheunchujit, was paid five to seven cents a garment. The owners made the workers buy food at their own store at high prices. Some workers had not been outside the fence for as long as seven years.
 
-One woman escaped through a second-story window. A letter in pencil with a hand-drawn map reached the authorities, and the raid followed. The clothes carried "Made in the USA" labels and were sold at chain stores including Miller's Outpost, Mervyn's and Montgomery Ward. In February 1996 Suni Manasurangkun, three of her sons and three other people pleaded guilty to federal crimes, which means they told the court they had broken federal law. Two of her sons fled and were never caught. In 1997 the companies that had sold the clothes agreed to pay the workers the wages they were owed, to end lawsuits against them. One account puts the total at more than $4.5 million, and another at $4 million. The case led to a federal law in 2000 against human trafficking, the buying, selling and moving of people to force them to work.
+One woman escaped through a second-story window. A letter in pencil with a hand-drawn map reached the authorities, and the raid followed. The clothes carried "Made in the USA" labels and were sold at chain stores including Miller's Outpost, Mervyn's and Montgomery Ward. In February 1996 Suni Manasurangkun, three of her sons and three other people pleaded guilty to federal crimes. That means they told the court they had broken federal law. Two of her sons fled and were never caught. In 1997 the companies that had sold the clothes agreed to pay the workers the wages they were owed, to end lawsuits against them. One account puts the total at more than $4.5 million, and another at $4 million. After the case, and partly because of it, members of Congress passed a federal law in 2000 against human trafficking, the buying, selling and moving of people to force them to work.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -337,11 +339,11 @@ One woman escaped through a second-story window. A letter in pencil with a hand-
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-Since 2000, millions of Americans have worked as independent contractors, with no right to a minimum wage, and some have found work through apps on their phones. In 2025 one worker in ten belonged to a union, according to the federal Bureau of Labor Statistics. Workers at Starbucks coffee shops and at an Amazon warehouse voted in their first unions in 2021 and 2022. Workers still die on the job. In 2024, 5,070 workers were killed at work.
+About 11.9 million Americans worked as independent contractors in their main job in July 2023, outside most labor laws, including the minimum wage law. Some of them found work through apps on their phones. In 2025 one worker in ten belonged to a union, according to the federal Bureau of Labor Statistics. Workers at Starbucks coffee shops and at an Amazon warehouse voted in their first unions in 2021 and 2022. Workers still die on the job. In 2024, 5,070 workers were killed at work.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Unions and pay today" -->
-In 2025, 10.0 percent of wage and salary workers belonged to a union, 14.7 million people, according to the Bureau of Labor Statistics. Among people who worked for the government, 32.9 percent belonged. Among people who worked for private companies, only 5.9 percent did. In 1983 the share had been 20.1 percent, and in 1954 it had been about one worker in three.
+In 2025, 10.0 percent of wage and salary workers belonged to a union, 14.7 million people, according to the Bureau of Labor Statistics. Union members were 32.9 percent of government workers and 5.9 percent of workers at private companies. In 1983 the share had been 20.1 percent, and in 1954 it had been about one worker in three.
 
 The federal minimum wage has been $7.25 an hour since July 24, 2009, according to the Department of Labor. As of September 2026, members of Congress have not raised it.
 <!-- /hb-zoom -->
@@ -351,7 +353,7 @@ An independent contractor is a person who works for themselves and sells their w
 
 Some independent contractors find work through apps that send them rides to drive or food to deliver. The Pew Research Center is a research group. In a survey taken in August 2021, its researchers found that 16 percent of American adults had earned money through an online gig platform. A gig platform is an app or website that hands out short jobs one at a time. Nine percent had done so in the past year.
 
-The app companies treat their drivers as independent contractors. In California, voters approved Proposition 22, a question put on the ballot, on November 3, 2020, with 58.63 percent of the vote. Under it, the app companies could keep treating drivers as independent contractors. They had to pay drivers at least 120 percent of the minimum wage for the time they spent on a ride or a delivery, plus pay for each mile.
+The managers of the app companies treat their drivers as independent contractors. In California, voters approved Proposition 22, a question put on the ballot, on November 3, 2020, with 58.63 percent of the vote. Under it, the app companies could keep treating drivers as independent contractors. They had to pay drivers at least 120 percent of the minimum wage for the time they spent on a ride or a delivery, plus pay for each mile.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="raef-lawson" name="Raef Lawson" movie="" kind="ordinary" status="verified" -->
@@ -360,13 +362,13 @@ The app companies treat their drivers as independent contractors. In California,
 > **Who:** A food-delivery driver for Grubhub whose court case asked whether an app driver is an employee.
 > **When and where:** Los Angeles, 2015 and 2016. A federal judge ruled on his case in 2018 and 2023, and approved a settlement in 2026.
 
-Raef Lawson sued Grubhub for the minimum wage and overtime pay, saying that he had been its employee. He was an actor, writer and director in Los Angeles who was trying to make a career. In August 2015 he signed up to deliver food for Grubhub, a company whose app takes food orders from restaurants.
+Raef Lawson sued Grubhub for the minimum wage and overtime pay, which is extra pay for hours past 40 in a week, saying that he had been its employee. He was an actor, writer and director in Los Angeles who was trying to make a career. In August 2015 he signed up to deliver food for Grubhub, a company whose app takes food orders from restaurants.
 
-He picked blocks of two to five hours around mealtimes, week by week. From October 2015 to February 2016 he signed up for blocks on 69 days and made deliveries on 59 of them. Grubhub paid him for 35 hours in November, 105 in December and 60 in January. It paid nothing toward his gas or his phone. In 2016 Grubhub had 4,000 delivery drivers in California, and it classed all of them as independent contractors.
+He picked blocks of two to five hours around mealtimes, week by week. From October 2015 to February 2016 he signed up for blocks on 69 days and made deliveries on 59 of them. Grubhub paid him for 35 hours in November, 105 in December and 60 in January. It paid nothing toward his gas or his phone. In 2016 Grubhub had 4,000 delivery drivers in California, and its managers classed all of them as independent contractors.
 
-On February 15, 2016, Grubhub ended its agreement with him. The company said he had not worked many of the blocks he signed up for. The judge at his trial also found that he sometimes "gamed" the app, which means he tricked it. He logged on late, and he switched his phone to airplane mode so no new orders came.
+On February 15, 2016, Grubhub's managers ended the company's agreement with him. They said he had not worked many of the blocks he signed up for. The judge at his trial also found that he sometimes "gamed" the app, which means he tricked it. He logged on late, and he switched his phone to airplane mode so no new orders came.
 
-Lawson sued for the minimum wage, overtime and his costs. Overtime is extra pay for hours past 40 in a week. In 2018 Judge Jacqueline Scott Corley ruled that he had been an independent contractor. Three months later, the justices of California's Supreme Court set a new rule: a company must prove that a worker is not an employee. On September 20, 2021, a federal appeals court, a higher court that checks the rulings of lower courts, sent Lawson's case back to Judge Corley.
+Lawson sued for the minimum wage, overtime and his costs. In 2018 Judge Jacqueline Scott Corley ruled that he had been an independent contractor. Three months later, the justices of California's Supreme Court set a new rule: a company must prove that a worker is not an employee. On September 20, 2021, a federal appeals court, a higher court that checks the rulings of lower courts, sent Lawson's case back to Judge Corley.
 
 On March 30, 2023, Judge Corley ruled that under the new test Lawson had been an employee. She wrote that "food delivery is not outside the usual course of" Grubhub's business. She awarded him $65.11 in unpaid minimum wages for four months of work. In 2026 Grubhub agreed to pay $24.75 million to California drivers to end their claims, in a deal called a settlement. On July 30, 2026, the judge approved the deal. About 60,000 drivers are in the settlement, and each gets at least $25. Judge Corley called it "my oldest case."
 <!-- hb-story:end slug="raef-lawson" -->
@@ -376,7 +378,7 @@ In May 2020, during the COVID-19 pandemic, 35.4 percent of employed people, abou
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Unions at Starbucks and Amazon" -->
-Baristas, the workers who make the coffee drinks, at a Starbucks on Elmwood Avenue in Buffalo, New York, voted 19 to 8 to form a union on December 9, 2021. The Washington Post and ABC News reported that it was the first union among the company's roughly 9,000 US stores that the company owned itself. Workers at hundreds of other stores followed.
+Baristas, the workers who make the coffee drinks, at a Starbucks on Elmwood Avenue in Buffalo, New York, voted 19 to 8 to form a union on December 9, 2021. The Washington Post and ABC News reported that it was the first union at one of the company's roughly 9,000 US stores that Starbucks owned itself. Workers at hundreds of other stores followed.
 
 Workers at Amazon's JFK8 warehouse on Staten Island, New York, voted 2,654 to 2,131 for the Amazon Labor Union. Officials of the National Labor Relations Board, the federal agency that runs union elections, announced the result on April 1, 2022. It was the first union at an Amazon warehouse in the United States.
 <!-- /hb-zoom -->
@@ -388,13 +390,13 @@ Workers at Amazon's JFK8 warehouse on Staten Island, New York, voted 2,654 to 2,
 > **When and where:** The JFK8 warehouse, Staten Island, New York, 2020 to 2022.
 > **Movie:** *Union* (2024), a documentary by Brett Story and Stephen Maing about the union campaign at JFK8. It won a Special Jury Award at the Sundance Film Festival in 2024.
 
-Chris Smalls worked as a process assistant at Amazon's JFK8 warehouse on Staten Island. In March 2020 he led a walkout over safety from COVID-19, which means workers left their jobs together in protest, and Amazon fired him.
+Chris Smalls worked as a process assistant at Amazon's JFK8 warehouse on Staten Island. In March 2020 he led a walkout over safety from COVID-19, which means workers left their jobs together in protest, and Amazon's managers fired him.
 
 Smalls and other workers then started the Amazon Labor Union. They organized at a bus stop across the road from the warehouse. They set up a table with food there and talked with workers as they came and went, thousands of conversations over many months. In April 2022 the workers won the vote.
 <!-- hb-story:end slug="chris-smalls" -->
 
 <!-- hb-zoom level="span" label="Where the new unions stand in 2026" -->
-By June 2025 baristas at 600 Starbucks stores, about 12,000 workers, had joined the union Starbucks Workers United, according to the union. On November 13, 2025, they began a national strike. It grew to about 4,500 workers in more than 130 cities, and it was the longest strike in the company's history. As of September 2026, no Starbucks store has a signed first contract.
+By June 2025 baristas at 600 Starbucks stores, about 12,000 workers, had joined the union Starbucks Workers United, according to the union. On November 13, 2025, they began a national strike. It grew to about 4,500 workers in more than 130 cities. The union called it the longest strike in the company's history. As of September 2026, the workers at no Starbucks store have voted to approve a first contract.
 
 On April 2, 2026, members of the National Labor Relations Board ordered Amazon to begin talks with the union at JFK8 on a contract for pay and working conditions. They found that Amazon had "illegally and willfully" ignored the union, according to a Teamsters union press release. As of September 2026, no contract has been reported.
 <!-- /hb-zoom -->
@@ -406,9 +408,9 @@ The report described the work. In 10- to 12-hour shifts, workers repeat the same
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Children in the slaughterhouses" -->
-Packers Sanitation Services, a cleaning company based in Wisconsin, put 102 children aged 13 to 17 to work on night shifts. Officials of the US Department of Labor reported this in February 2023. The children worked at 13 meatpacking plants in 8 states, where animals are killed and cut up for meat, according to reporting by KCUR, a public radio station in Kansas City. The children cleaned back saws, brisket saws and head splitters, machines that cut up animals, using chemicals strong enough to burn skin. At least three of them were injured.
+Managers at Packers Sanitation Services, a cleaning company based in Wisconsin, put 102 children aged 13 to 17 to work on night shifts. Officials of the US Department of Labor reported this in February 2023. The children worked at 13 meatpacking plants in 8 states, where animals are killed and cut up for meat, according to reporting by KCUR, a public radio station in Kansas City. The children cleaned back saws, brisket saws and head splitters, machines that cut up animals, using chemicals strong enough to burn skin. At least three of them were injured.
 
-At the JBS plant in Grand Island, Nebraska, there were 27 children. At the Cargill plant in Dodge City, Kansas, there were 26. The company paid $1.5 million, the most the law allowed. Jessica Looman of the Labor Department's Wage and Hour Division called the violations "systemic" and "a corporate-wide failure."
+The JBS plant in Grand Island, Nebraska, had 27 of the children, and the Cargill plant in Dodge City, Kansas, had 26. The company paid $1.5 million, the most the law allowed. Jessica Looman of the Labor Department's Wage and Hour Division called the violations "systemic," which means built into the way the company worked, and "a corporate-wide failure."
 
 On farms, federal law still allows children to work at younger ages than in other jobs. A child under 12 may work on a farm owned by a parent. Children of 12 and 13 may work on a farm with a parent's consent, and children of 14 and up may do farm work outside school hours.
 <!-- /hb-zoom -->
@@ -418,7 +420,9 @@ From 1992 to 2006, 68 crop workers died of heat, according to a 2008 report by t
 
 From 2011 to 2019, 345 workers of all kinds died of heat on the job, 43 of them in 2019, according to the Bureau of Labor Statistics. On August 30, 2024, officials of the Occupational Safety and Health Administration, the federal job-safety agency, proposed a rule to protect workers from heat. A rule like this is a requirement that employers must obey by law. The officials held public hearings from June 16 to July 2, 2025. As of September 2026 there is no final federal rule on heat at work.
 
-On September 27, 2024, floods from Hurricane Helene reached the Impact Plastics plant in Erwin, Tennessee. Five employees and a contractor who cleaned the offices drowned. One worker who survived and the families of some who died gave their account. They said company managers did not tell workers they could leave until the flood had covered the road and the plant had lost power. Inspectors from Tennessee's job-safety agency found that the company had "exercised reasonable diligence," which means it had taken reasonable care. They gave the company no citations, the official notices for breaking safety rules. In July 2025 the local chief prosecutor, District Attorney General Steven Finney, closed the case with no charges. He found "no evidence" that workers were told they could not leave or would be fired if they did. The family of Johnny Peterson, one of the men who died, filed a lawsuit.
+On September 27, 2024, floods from Hurricane Helene reached the Impact Plastics plant in Erwin, Tennessee. Five employees and a contractor who cleaned the offices drowned. One worker who survived and the families of some who died gave their account. They said no one told the workers they could leave until the flood had covered the road and the plant had lost power.
+
+Inspectors from Tennessee's job-safety agency found that the company had "exercised reasonable diligence," which means it had taken reasonable care. They gave the company no citations, the official notices for breaking safety rules. In July 2025 the local chief prosecutor, District Attorney General Steven Finney, closed the case with no charges. He found "no evidence" that workers were told they could not leave or would be fired if they did. The family of Johnny Peterson, one of the men who died, filed a lawsuit.
 
 On April 5, 2010, an explosion of gas and coal dust at the Upper Big Branch mine in West Virginia killed 29 miners. The mine belonged to Massey Energy. Its chief executive, Don Blankenship, was found guilty in December 2015 of conspiring, which means plotting with others, to break federal mine safety laws. On April 6, 2016, Judge Irene Berger gave him the longest sentence the law allowed, one year in prison and a fine of $250,000. He was not convicted of causing the deaths.
 

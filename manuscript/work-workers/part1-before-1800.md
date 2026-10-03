@@ -30,7 +30,7 @@ Where farmers grew enough food for whole towns, some people could spend their ti
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-The first work that newcomers organized in this land was forced work. Spanish settlers in Florida and the Southwest made Native people work for them, with little pay or none. The records show no other work that newcomers organized here in the 1500s.
+The first work that newcomers organized in this land was forced work. Spanish settlers in Florida and the Southwest made Native people work for them, with little pay or none. Spanish officials ran that forced work under two systems, the encomienda and the repartimiento.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The encomienda and the repartimiento" -->
@@ -42,9 +42,9 @@ From the middle of the 1500s, Spanish officials in the colonies also used a seco
 <!-- hb-zoom level="span" label="Acoma, 1599: forced work as a sentence" -->
 In February 1599 Juan de Oñate, the leader of the Spanish colony in New Mexico, sentenced the Acoma survivors to twenty years of forced labor. Forced labor means work a person is made to do and is not free to leave. Acoma Pueblo is the town of the Acoma people, with their fields around it.
 
-In December 1598 Spanish soldiers led by Oñate's nephew, Juan de Zaldívar, came to Acoma to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number. In January 1599 Oñate sent about seventy soldiers back to Acoma. Over two or three days they killed Acoma men, women and children and burned much of the town. Nobody counted the dead, and estimates run from about 300 to about 1,500.
+In December 1598 Spanish soldiers led by Oñate's nephew, Juan de Zaldívar, came to Acoma to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number. In January 1599 Oñate sent about seventy soldiers back to Acoma, led by Vicente de Zaldívar. Over two or three days they killed Acoma men, women and children and burned much of the town. Nobody counted the dead, and estimates run from about 300 to about 1,500.
 
-Oñate sentenced the men over 25 to have one foot cut off and to work for Spanish households for twenty years, with no right to leave. Boys and men from 12 to 25, and girls and women over 12, got the same twenty years of forced labor. Whether anyone carried out the cutting of feet is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. Two historians who studied the Spanish records for years, Marc Simmons and John Kessell, came to doubt it.
+Oñate sentenced the men over 25 to have one foot cut off. He also sentenced them to work for Spanish households for twenty years, with no right to leave. Boys and men from 12 to 25, and girls and women over 12, got the same twenty years of forced labor. Whether anyone carried out the cutting of feet is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. Two historians who studied the Spanish records for years, Marc Simmons and John Kessell, came to doubt it. Kessell points out that no record describes an Acoma man with one foot.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -52,11 +52,11 @@ Oñate sentenced the men over 25 to have one foot cut off and to work for Spanis
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the 1600s, between one-half and two-thirds of the European immigrants to the English colonies came as indentured servants. A contract bound each of them to a master for a set number of years, and most got no wages. They could not quit. Around Chesapeake Bay, masters worked them in the tobacco fields, and a sickness in the first summer killed more than half of the newcomers. Virginia judges had runaway servants whipped and added years to their time. In the same century, English colonists began to hold Africans in slavery for life.
+Over the whole colonial period, between one-half and two-thirds of the European immigrants to the English colonies came as indentured servants. Under a contract, each of them had to work for a master for a set number of years, and most got no wages. They could not quit. Around Chesapeake Bay, masters worked them in the tobacco fields, and a sickness in the first summer killed more than half of the newcomers. Virginia judges had runaway servants whipped and added years to their time. In the same century, English colonists began to hold Africans in slavery for life.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bound for years: indentured servants" -->
-An indentured servant was a person bound by a written contract, called an indenture, to work for a master for a set number of years. Most terms ran four to seven years. The servant could not leave. Most servants got no wages. A skilled servant named Buckland was paid 20 English pounds a year on top of his food, drink, washing and a place to sleep, and his contract was unusual.
+An indentured servant was a person bound by a written contract, called an indenture, to work for a master for a set number of years. Most terms ran four to seven years, and the servant could not leave. Most servants got no wages. A skilled servant named Buckland was paid 20 English pounds a year on top of his food, drink, washing and a place to sleep, and his contract was unusual.
 
 Counts of how many European immigrants came this way differ. Most estimates run from one-half to two-thirds of all European immigrants to the colonies. Some estimates go as high as three-quarters. In the colonies around Chesapeake Bay, about 50,000 servants arrived between 1630 and 1680. They made up three of every four newcomers. In the 1630s there were about six men for every woman among them.
 
@@ -72,7 +72,7 @@ At home, families did their own spinning, weaving, brewing and candle-making. Br
 <!-- hb-zoom level="span" label="Martin's Hundred, on the land of Tsenacomoco" -->
 Martin's Hundred was an English plantation on the James River in Virginia. Its main settlement was Wolstenholme Towne. The plantation stood inside Tsenacomoco, the land of the Powhatan chiefdom. The chiefdom was a union of many Native nations under one high chief. Tsenacomoco ran north from the James River to the Potomac River, and from Chesapeake Bay west to the places where the rivers drop in falls from higher ground. About 15,000 people lived there, and estimates run from 13,000 to just over 22,000.
 
-On March 22, 1622, the Powhatan leader Opechancanough led an attack on most of the English settlements. Colony officials recorded 347 colonists killed. They got no report from some settlements, so the real number was probably higher. At least 58 colonists died at Martin's Hundred. More colonists died at Wolstenholme Towne, its main settlement, than at any other settlement.
+On March 22, 1622, the Powhatan leader Opechancanough led an attack on most of the English settlements. Colony officials recorded 347 colonists killed. They got no report from some settlements, so the real number was probably higher. The Powhatan fighters killed at least 58 colonists at Martin's Hundred. They killed more colonists at Wolstenholme Towne, its main settlement, than at any other settlement.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="richard-frethorne" name="Richard Frethorne" movie="" kind="ordinary" status="verified" -->
@@ -91,11 +91,11 @@ By February 1624 a muster list had been made, a count of the living and the dead
 <!-- hb-zoom level="span" label="Runaways, and a sentence for life" -->
 Servants who ran away and were caught faced the whip and more years of work. The governor of Virginia and his council sat together as the colony's highest court, called the General Court. On July 9, 1640, these judges heard the case of three runaway servants of Hugh Gwyn, a planter, or owner of a plantation. The judges ordered two of them, a Dutchman called Victor and a Scotsman named James Gregory, whipped with thirty lashes each. A lash is one stroke of the whip. Both men also had to serve extra years.
 
-The third runaway was John Punch, a Black man. The judges ordered him to serve his master "for the time of his natural Life." For the same act, the same judges sentenced the two white servants to extra years and sentenced the Black servant to work for his master for the rest of his life.
+The third runaway was John Punch, a Black man. For the same escape, the same judges ordered him to serve his master "for the time of his natural Life," which meant for the rest of his life.
 
-On July 22, 1640, the same judges ordered thirty lashes for other runaways. They also ordered the letter R branded on the cheeks of three of them, Christopher Miller, Peter Wilcocke and a Black man named Emanuel. To brand a person was to press a red-hot iron into the skin. The burn left a scar in the shape of the iron, and it lasted for life. The court records name the letter R and the cheek, but they do not describe the iron used. They do not name the men who did the whipping and the branding. The judges also ordered Emanuel to work in shackles, iron rings locked around the legs.
+On July 22, 1640, the same judges ordered thirty lashes for other runaways. They also ordered three of them, Christopher Miller, Peter Wilcocke and a Black man named Emanuel, "to be Burnt in the cheek with the letter R." This punishment is called branding. To brand a person was to press a red-hot iron into the skin. The burn left the letter on the cheek as a scar for life. The court records name the letter R and the cheek, but they do not describe the iron used. They do not name the men who did the whipping and the branding. The judges also ordered Miller and Emanuel to work in shackles, iron rings locked around the legs, for a year or more.
 
-In March 1643 Virginia's lawmakers wrote two punishments for runaways into law. A runaway had to serve double the time he had been gone. A servant who ran away a second time was to be "branded in the cheek with the letter R."
+In March 1643 Virginia's lawmakers wrote two punishments for runaways into law. A runaway had to serve double the time he had been gone. A servant who ran away a second time was to be "branded in the cheek with the letter R." The law did not say who was to do the branding.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -103,7 +103,7 @@ In March 1643 Virginia's lawmakers wrote two punishments for runaways into law. 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1700 and 1750, a boy who learned a trade moved up through three ranks: apprentice, journeyman and master. A journeyman was a skilled worker paid by the day. Sailors and dock workers made up the other large group of people who worked for wages. Officers of the British navy could seize those men and force them to serve at sea. In the colonies around Chesapeake Bay and in the Lowcountry along the southern coast, colonists held more and more people in slavery. Slave traders brought about 8,600 enslaved Africans to Virginia between 1701 and 1710, and about 13,000 between 1721 and 1730.
+A boy who learned a trade between 1700 and 1750 moved up through three ranks: apprentice, journeyman and master. A journeyman was a skilled worker paid by the day. Sailors and dock workers made up the other large group of people who worked for wages. Officers of the British navy could seize those men and force them to serve at sea. In the colonies around Chesapeake Bay and in the Lowcountry along the southern coast, colonists held more and more people in slavery. Slave traders brought about 8,600 enslaved Africans to Virginia between 1701 and 1710, about 6,200 between 1711 and 1720, and about 13,000 between 1721 and 1730.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The ladder of a trade" -->
@@ -119,7 +119,7 @@ In the towns, enslaved men also worked at skilled trades. Owners "hired out" som
 > **When and where:** Boston, New York and Philadelphia, 1718 to 1723.
 > **Movie:** *Benjamin Franklin* (2022), a two-part documentary by Ken Burns, shown on PBS in April 2022. It is about Franklin's life.
 
-Benjamin Franklin ran away from his apprenticeship at 17. In 1718, when he was 12, he was bound as an apprentice to his brother James, a printer in Boston. Under his indenture he had to work in James's shop until he was 21.
+Benjamin Franklin ran away from his apprenticeship at 17. In 1718, when he was 12, he was bound as an apprentice to his brother James, a printer in Boston. Under his indenture he had to work in James's shop until he was 21. Only in the last year would he be paid a journeyman's wages.
 
 Franklin later wrote that his brother beat him. He also admitted that he himself may have been "too saucy and provoking." He meant that he may have been rude to James and made him angry. In September 1723, with about four years left on his indenture, he ran away. He went first to New York and then to Philadelphia. He reached Philadelphia on October 6, 1723, with almost no money.
 <!-- hb-story:end slug="benjamin-franklin-work-workers" -->
@@ -135,13 +135,13 @@ In November 1747, press gangs working for Commodore Charles Knowles seized 46 me
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-In the late 1700s, hired workers in Philadelphia began to act together against their employers. In 1786 journeymen printers there went on strike and won pay of at least $6 a week. In 1794 journeymen shoemakers in the same city formed a trade union, a group of workers who bargain together with employers, and it lasted.
+Hired workers in Philadelphia began to act together against their employers in the late 1700s. In 1786 journeymen printers there went on strike, stopping work together until their employers met their demands. They won pay of at least $6 a week. In 1794 journeymen shoemakers in the same city formed a trade union, a group of workers who bargain together with employers, and it lasted.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The printers' strike of 1786" -->
-In a strike, workers stop work together until the employer meets their demands. In 1786 the journeymen printers of Philadelphia struck against a cut in their wages. The strike began on June 2, 1786, by the usual dating. The printers won, and their employers agreed to pay at least $6 a week.
+In a strike, workers stop work together until the employer meets their demands. In 1786 the journeymen printers of Philadelphia struck against a cut in their wages. A U.S. Labor Department list of important events in labor history records the start of the strike as June 2, 1786. The printers won, and their employers agreed to pay at least $6 a week.
 
-The printers also set up a fund of money to support one another during the strike, the first strike fund on record. Their strike is often called the first in the United States by hired workers against an employer. More exactly, it is the first such strike the records prove. Journeymen tailors in New York had struck earlier, in 1768, and records show other early times when workers in the colonies stopped work together.
+The printers also set up a fund of money to support one another during the strike, the first strike fund on record. The same Labor Department list describes theirs as "the earliest authenticated strike of workers in the United States in a single trade." Authenticated means proven by the records. Journeymen tailors in New York had struck earlier, in 1768, but New York was then a British colony and the United States did not yet exist. Records show other early times, too, when workers in the colonies stopped work together.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The shoemakers' union of 1794" -->
