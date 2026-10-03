@@ -158,6 +158,18 @@ and NPS Fort Matanzas history page
   **29 September 1565** (St. Michael's Day) **(Wikipedia only)**. Prose says "Late in
   September". History Is Now magazine (2023) says only "September of 1565".
 
+### PATCH 2026-10-03 (T-621): who sent Menéndez to Florida
+- Bonnie L. Ford, "Menéndez de Avilés, Pedro, Colonization Efforts of," Encyclopedia.com
+  (Dictionary of American History), read directly,
+  https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/menendez-de-aviles-pedro-colonization-efforts:
+  "In 1565, Menéndez contracted with King Phillip II to colonize and explore La Florida."
+  "In addition to expelling the French from their fort on the Saint John's River,
+  Menéndez's objectives were to explore, to found settlements, to find a passage to the
+  Pacific, and to convert the native peoples."
+- NPS, "The Massacre" (re-read 2026-10-03): Philip II was "incensed" at Fort Caroline;
+  Menéndez was "charged with removing the French". No royal order to kill is recorded; the
+  killing orders stay Menéndez's.
+
 ### 2.3 No `hb-story` in this era
 
 Named people exist (Menéndez, Ribault, Laudonnière) but they are Spanish and French officers
@@ -784,6 +796,19 @@ they were not read; the two sources above cover every fact below.
   become known afterwards as the Six Nations." A search summary of the South Carolina
   Encyclopedia (*Tuscarora War*) gives the same year **(search summary only)**.
 
+### PATCH 2026-10-03 (T-621): George III, the colonies "in open rebellion", and Adams
+- National Archives, DocsTeach, *By the King, A Proclamation for Suppressing Rebellion and
+  Sedition* (read directly,
+  https://docsteach.org/document/by-the-king-a-proclamation-for-suppressing-rebellion-and-sedition/):
+  dated **August 23, 1775**, issued by **King George III**; it declared that "the colonies
+  stood in open rebellion to his authority and were subject to severe penalty."
+- National Archives, *Signers of the Declaration of Independence* fact sheet (read directly,
+  https://www.archives.gov/founding-docs/signers-factsheet): **John Adams** of
+  Massachusetts is listed as a signer (1776).
+- The bank's older line "the same king had called Adams a rebel and could have had him
+  hanged" has no source naming Adams or hanging. Prose now states the proclamation and the
+  signature instead.
+
 ## Sources used (eras 1–5)
 
 **Government / official**
@@ -1039,6 +1064,18 @@ lived across the land and were not party to the sale. Name none. `native-nations
 
 ---
 
+### PATCH 2026-10-03 (T-621): Texas 1845 and the Oregon country
+- Office of the Historian, *The Annexation of Texas* (read directly,
+  https://history.state.gov/milestones/1830-1860/texas-annexation): Tyler, "through a joint
+  resolution of both houses of Congress. With the support of President-elect Polk, Tyler
+  managed to get the joint resolution passed on March 1, 1845, and Texas was admitted into
+  the United States on December 29."
+- Office of the Historian, *Oregon Territory, 1846* (read directly,
+  https://history.state.gov/milestones/1830-1860/oregon-territory): "The Oregon Territory
+  stretched from the Pacific coast to the Rocky Mountains, encompassing the area including
+  present-day Oregon, Washington, and most of British Columbia." Border along the 49th
+  parallel; the Senate ratified the treaty June 18, 1846, 41 to 14.
+
 ### PATCH 2026-10-02 (T-484): the "violence and discrimination" after 1848, named
 - California State Archives, *Gold Rush Records Teacher Guide*, Lesson 1, "The Foreign Miner's Tax Act (1850)," https://archives.cdn.sos.ca.gov/pdf/gold-rush-exhibit-companion-teacher-guide.pdf (PDF read 2026-10-02): California's new lawmakers passed the Foreign Miners' Tax Act in 1850; "This bill enforced an enormous $20 monthly tax on all foreign-born miners ... but it specifically targeted and was enforced with Chinese and Latino communities"; it "caused thousands of foreign-born miners to depart from the mining towns"; "The next year, the law was repealed." Santa Clara University digital exhibit, "Foreign Miners' Tax Act" (opened): "a monthly fee of $20 on foreign miners, targeting Chinese and Latin American workers."
 - William D. Carrigan and Clive Webb, "The Lynching of Persons of Mexican Origin or Descent in the United States, 1848 to 1928," *Journal of Social History* 37, no. 2 (2003), abstract at https://www.researchwithrowan.com/en/publications/the-lynching-of-persons-of-mexican-origin-or-descent-in-the-unite/ (opened 2026-10-02): "between 1848 and 1928, mobs lynched at least 597 Mexicans." The abstract names race, economic competition and US-Mexico tensions as causes, and records self-defense and appeals to the Mexican government as resistance.
@@ -1243,6 +1280,29 @@ army-history magazine, label it).
 - Search summaries (Wikipedia, *Kake War*) name the *Saginaw*'s commander as Lt. Cmdr.
   **Richard W. Meade** and say the three villages were deserted before the attack
   **(search summary only)**.
+
+### PATCH 2026-10-03 (T-621): Guam's surrender, Samoa's third party, the Queen's charge, the Senate vote
+- Guampedia, *Spanish-American War* (read directly, https://www.guampedia.com/spanish-american-war/):
+  on June 21, 1898 Governor **Juan Marina** surrendered Guam to Lieutenant William
+  Braunersreuther, representing Captain Henry Glass of the USS *Charleston*; 54 Spanish
+  soldiers were taken prisoner.
+- U.S. Senate Document 56-157 (GovInfo, read directly,
+  https://www.govinfo.gov/app/details/SERIALSET-03852_00_00-010-0157-0000): "Convention
+  between the United States, Germany, and Great Britain," signed at Washington **December 2,
+  1899**, on the Samoan islands. Wikipedia, *Tripartite Convention* (search summary only):
+  Germany and Great Britain renounced claims east of 171° W in favor of the United States,
+  and the United States renounced Upolu and Savaiʻi in favor of Germany. The three sides are
+  the United States, Germany and Great Britain (Senate document title).
+- Encyclopedia.com, *Women in World History*, "Liliuokalani (1838-1917)" (read directly,
+  https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/liliuokalani-1838-1917):
+  "On January 24, 1895, she was forced to sign an act of abdication." The charge of treason
+  "was changed to misprision"; she received "a $5,000 fine and a five years' hard labor
+  sentence." (Its claim that she was told she was "condemned to be shot" is not used: one
+  source only.) Misprision of treason = knowing of treason and not reporting it.
+- National Archives, *The 1897 Petition Against the Annexation of Hawaii* (re-read
+  2026-10-03): a treaty needed a two-thirds majority; only 46 senators supported it; the joint
+  resolution "required only a simple majority vote in both houses." The page gives no count
+  of the votes needed. Prose: "short of the two-thirds it needed."
 
 ### Guam's people, for era 07 wording
 
@@ -1675,6 +1735,36 @@ them.
   Truman commuted the sentence to life imprisonment. (History.com calls Coffelt a Secret
   Service agent; search summaries of Wikipedia and EBSCO call him a White House police
   officer, as this bank's line above does. Write "a White House guard".)
+
+### PATCH 2026-10-03 (T-621): the Apology Resolution's own words, and Blair House
+- Public Law 103-150, 107 Stat. 1510 (GovInfo PDF, text extracted and read 2026-10-03,
+  https://www.govinfo.gov/content/pkg/STATUTE-107/pdf/STATUTE-107-Pg1510.pdf), **approved
+  November 23, 1993** (passed the Senate October 27, the House November 15):
+  - "on January 14, 1893, John L. Stevens ... the United States Minister ... conspired with a
+    small group of non-Hawaiian residents of the Kingdom of Hawaii, including citizens of the
+    United States, to overthrow the indigenous and lawful Government of Hawaii"
+  - "the United States Minister and the naval representatives of the United States caused
+    armed naval forces of the United States to invade the sovereign Hawaiian nation on
+    January 16, 1893"
+  - "on the afternoon of January 17, 1893, a Committee of Safety that represented the
+    American and European sugar planters, descendents of missionaries, and financiers deposed
+    the Hawaiian monarchy and proclaimed the establishment of a Provisional Government"
+  - Section 1(3): Congress "apologizes to Native Hawaiians on behalf of the people of the
+    United States for the overthrow of the Kingdom of Hawaii on January 17, 1893 with the
+    participation of agents and citizens of the United States, and the deprivation of the
+    rights of Native Hawaiians to self-determination"
+  - Sec. 3: "Nothing in this Joint Resolution is intended to serve as a settlement of any
+    claims against the United States."
+- Military.com, "This Army Vet Is the Only US Secret Service Member Killed Protecting the
+  President" (journalism, labeled; read directly,
+  https://www.military.com/history/army-vet-only-us-secret-service-member-killed-protecting-president.html):
+  "Torresola walked up to Coffelt and shot at him four times, hitting him in the torso three
+  times"; "Coffelt got up, walked out of the booth and shot Torresola in the head as he
+  reloaded."
+- Brookings, *Making sense of the US military operation in Venezuela* (re-read 2026-10-03):
+  "the capture of Venezuela's president, Nicolás Maduro, and his wife under narco-terrorism
+  charges"; the operation was "to exfiltrate" them from Caracas. Where they were taken is not
+  stated on the page.
 
 ### Giving the canal back
 

@@ -5028,7 +5028,8 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-holidays.md
 
 ### 2026-10-03 | [LOCAL] T-621 | america-world: STEP 7 FIXER wave B1 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  america-world / prose. 367547 tokens, 195 tools, 11.0 min (opus). 129 FIXED, 5 REJECTED; Hawaii 1893 overthrow named (PL 103-150)
 CHECKPOINT: control/checkpoints/F7-america-world.md
 
 ### 2026-10-03 | [LOCAL] T-622 | native-nations: STEP 7 FIXER wave B1 | model opus

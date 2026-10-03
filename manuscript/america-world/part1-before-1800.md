@@ -16,17 +16,17 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 Before 1500 there was no United States, so there was no American dealing with other countries. The United States declared its independence in 1776, 276 years after 1500. Leaders of the Native nations already living on this land dealt with each other through councils, alliances and gifts given to seal an agreement. An alliance is a promise between nations to stand together against their enemies. No Native diplomat from before the Europeans arrived is known by name. A diplomat is a person sent to speak and bargain for a nation.
 
-Two things that happened before 1500 mattered later to the United States. Polynesian voyagers sailed across the Pacific Ocean and settled the islands now called Hawaii. And in 1494 the rulers of Spain and Portugal signed a treaty that split the lands across the Atlantic between their two kingdoms.
+Far out in the Pacific Ocean, Polynesian voyagers sailed to the islands now called Hawaii and settled them. Polynesians are the people of the many islands of the central and southern Pacific. In 1494 the rulers of Spain and Portugal signed a treaty that split the lands across the Atlantic between their two kingdoms. A treaty is a written agreement between countries.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first people of Hawaii" -->
-Polynesian voyagers were the first people to live on the islands of Hawaii. Polynesians are the people of the many islands of the central and southern Pacific Ocean. Archaeologists, scientists who study the past through the things people left behind, disagree about when they arrived.
+Polynesian voyagers were the first people to live on the islands of Hawaii. Archaeologists, scientists who study the past through the things people left behind, disagree about when they arrived.
 
 For a long time most of them put the first landing between about the year 300 and the year 750. Newer tests use radiocarbon dating, a way of measuring the age of old wood, bone and charcoal. Scientists using those tests put the landing at about 1000 to 1200. Some studies narrow it to between about 1200 and 1290. Only one early home site in the islands has been dated with confidence. It is the Bellows Beach site at Waimānalo, on the island of Oʻahu. The argument over the first date is still open.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A line drawn at Tordesillas, 1494" -->
-On June 7, 1494, the rulers of Spain and Portugal signed a treaty in the Spanish town of Tordesillas. A treaty is a written agreement between countries. King Ferdinand II of Aragon and Queen Isabella I of Castile signed for Spain. King John II signed for Portugal.
+On June 7, 1494, the rulers of Spain and Portugal signed a treaty in the Spanish town of Tordesillas. King Ferdinand II of Aragon and Queen Isabella I of Castile signed for Spain. King John II signed for Portugal.
 
 The treaty described a line running from the North Pole to the South Pole, 370 leagues west of the Cape Verde Islands in the Atlantic Ocean. A league was a measure of distance, and 370 leagues is about 1,185 miles. The king of Portugal could claim new lands east of the line. The king and queen of Spain could claim new lands west of it.
 
@@ -38,13 +38,13 @@ Millions of people lived in the Americas, on the land these three rulers had div
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s the kings of Spain, Portugal, France and England claimed land on this side of the ocean from their capitals in Europe. French Protestants built a fort in Florida, on land the king of Spain claimed. In 1565 Spanish soldiers killed hundreds of French soldiers and sailors on the Florida coast. Most of the dead had already surrendered or been captured.
+In the 1500s the kings of Spain, Portugal, France and England claimed land on this side of the ocean from their capitals in Europe. French Protestants, Christians who had broken away from the Catholic Church, built a fort in Florida, on land the king of Spain claimed. In 1565 Spanish soldiers killed hundreds of French soldiers and sailors on the Florida coast. Most of the dead had already surrendered or been captured.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fort Caroline and Matanzas, 1565" -->
-French Protestants had built a fort called Fort Caroline in Florida, on land that Spain claimed. Protestants are Christians who broke away from the Catholic Church. The fort stood in the homeland of peoples who spoke the Timucua language. No French or Spanish leader asked them about it.
+French Protestants had built a fort called Fort Caroline in Florida, on land that the king of Spain claimed. The fort stood in the homeland of peoples who spoke the Timucua language. No French or Spanish leader asked them about it.
 
-King Philip II of Spain sent Pedro Menéndez de Avilés, a Spanish commander, to Florida. Menéndez arrived in August 1565. In his own words, he came "to plant the Gospel in these parts," which meant spreading his Catholic faith there. The French commander, Jean Ribault, was away at sea with his ships, and a storm had scattered them. On September 20, 1565, Menéndez marched about 500 men over land and took Fort Caroline. René de Laudonnière, the French officer in charge at the fort, escaped into the woods.
+In 1565 King Philip II of Spain made a contract with Pedro Menéndez de Avilés, a Spanish commander. Under it, Menéndez was to settle Florida and drive the French out of their fort. Menéndez arrived in August 1565. In his own words, he came "to plant the Gospel in these parts," which meant spreading his Catholic faith there. The French commander, Jean Ribault, was away at sea with his ships, and a storm had scattered them. On September 20, 1565, Menéndez marched about 500 men over land and took Fort Caroline. René de Laudonnière, the French officer in charge at the fort, escaped into the woods.
 
 Menéndez later reported to King Philip in a letter dated October 15, 1565. He wrote that his men cut the throats of 132 men at the fort. The next day they killed ten more, men they had taken prisoner in the woods. Other accounts give other counts. One says about 240 people were at the fort. Some say everyone there was killed.
 
@@ -58,7 +58,7 @@ On October 12 more shipwrecked Frenchmen came to the same inlet, and Menéndez's
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-The colonies on this coast in the 1600s belonged to England, the Dutch Republic, France and Spain. Officials in London, Amsterdam, Paris and Madrid set each colony's borders, chose its wars and decided who it could trade with. Colonists had no ambassador, an official sent to live in another country and speak for his own, and they could not sign treaties in their own names. English forces took the Dutch colony of New Netherland in 1664. Dutch forces took it back in 1673, and in 1674 Dutch diplomats handed it to England again.
+The colonies on this coast in the 1600s belonged to England, the Dutch Republic, France and Spain. Officials in London, Amsterdam, Paris and Madrid set each colony's borders, chose its wars and decided who it could trade with. Colonists had no ambassadors. An ambassador is an official sent to live in another country and speak for his own. Colonists also could not sign treaties in their own names. English forces took the Dutch colony of New Netherland in 1664. Dutch forces took it back in 1673, and in 1674 Dutch diplomats handed it to England again.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Trade laws made in London" -->
@@ -72,9 +72,9 @@ The Staple Act of 1663 covered goods coming the other way. European goods bound 
 <!-- hb-zoom level="span" label="Dutch diplomats gave up New Netherland for a nutmeg island" -->
 The Dutch colony of New Netherland stood on the homeland of the Lenape people. Lenape land covered what is now New York City, parts of Long Island and the Hudson Valley, New Jersey, northeastern Delaware and eastern Pennsylvania. The Lenape call it Lenapehoking. In 1626 Dutch colonists said they had bought the island of Mannahatta for trade goods worth 60 guilders, the Dutch money of the time. The Dutch most likely misread what the Lenape meant by the exchange. Diseases that the colonists brought cut the number of Lenape people by 85 percent by 1700.
 
-In 1664 an English fleet sailed into the harbor of New Amsterdam, the colony's main town. The Dutch surrendered the colony without a fight. Accounts give different days for the surrender because England and the Dutch Republic used different calendars at the time.
+In 1664 an English fleet arrived at New Amsterdam, the colony's main town. The Dutch surrendered the colony without a fight. Accounts give different days for the surrender because the English and the Dutch used different calendars at the time.
 
-On July 21, 1667, English and Dutch diplomats ended their war with the Treaty of Breda. No Lenape leader took part. The Dutch had done better in the fighting. Even so, the Dutch men who bargained at Breda let England keep New Netherland. In return the Dutch took Suriname and Run, a small island in what is now Indonesia where nutmeg grew. Suriname had sugar plantations, large farms where the planters forced enslaved people to do the work.
+On July 21, 1667, English and Dutch diplomats ended their war with the Treaty of Breda. No Lenape leader took part. The Dutch had done better in the fighting. Even so, the Dutch men who bargained at Breda let England keep New Netherland. In return the Dutch took Suriname and Run, an island in what is now Indonesia where nutmeg grew. Suriname had sugar plantations, large farms where the planters forced enslaved people to do the work.
 
 In August 1673, in a third war, Dutch forces sailed in, took the colony back and renamed its main town New Orange. Under the Treaty of Westminster, signed on February 19, 1674, Dutch diplomats handed the colony back to England, and it stayed English. By then the English called it New York.
 <!-- /hb-zoom -->
@@ -84,15 +84,15 @@ In August 1673, in a third war, Dutch forces sailed in, took the colony back and
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Colonists in the early 1700s lived under the rule of the king of Britain, France or Spain. When their king went to war, they were at war too, and they had no say in the peace terms. Native nations on this continent made treaties with the empires in their own names. In the summer of 1701 the Haudenosaunee, a league of Native nations in what is now New York, made one agreement with the English and another with the French, about two weeks apart.
+Colonists in the early 1700s lived under the rule of the king of Britain, France or Spain. When their king went to war, they were at war too, and they had no say in the peace terms. Native nations on this continent made treaties with English and French officials in their own names. In the summer of 1701 the Haudenosaunee made two agreements about two weeks apart, one with the English and one with the French. The Haudenosaunee were a league of Native nations in what is now New York.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Two agreements in the summer of 1701" -->
 The Haudenosaunee were a league of five nations in what is now New York. The English called them the Five Nations.
 
-On July 19, 1701, Haudenosaunee representatives met John Nanfan, the acting English governor of New York, at Albany. They made a deed to King William of England covering hunting lands. A deed is a signed paper that hands over land or rights to land. The lands ran west from what is now western New York toward what is now Chicago. People still argue over what that deed promised. Many Haudenosaunee people today read it as protecting their right to hunt there. Other writers disagree.
+On July 19, 1701, Haudenosaunee representatives met John Nanfan, the acting English governor of New York, at Albany. They made a deed to King William of England covering hunting lands. A deed is a signed paper that hands over land or rights to land. The lands ran west from what is now western New York toward what is now Chicago. People still argue over what the Haudenosaunee kept and what they gave up in that deed. Haudenosaunee groups today read it as protecting their right to hunt there. Others read it differently.
 
-On August 4, 1701, at Montréal, the governor of New France, the French colony in North America, signed a peace with about 1,300 representatives of 39 Native nations. The governor was Louis-Hector de Callière. The agreement is called the Great Peace of Montréal. With it the French and the Native nations ended decades of war. The French meant the peace to keep the Five Nations neutral, which means taking neither side, if France and the English colonies went to war. The Haudenosaunee kept out of the next war between the two empires.
+On August 4, 1701, at Montréal, the governor of New France, the French colony in North America, signed a peace with about 1,300 representatives of 39 Native nations. The governor was Louis-Hector de Callière. The agreement is called the Great Peace of Montréal. With it the French and the Native nations ended decades of war. The French meant the peace to keep the Five Nations neutral, which means taking neither side, if France and the English colonies went to war. The Haudenosaunee kept out of the next war between France and Britain.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="kondiaronk-america-world" name="Kondiaronk" movie="" kind="famous" status="verified" -->
@@ -109,17 +109,17 @@ On August 3 he had a large funeral at the town's Notre-Dame church. The governor
 <!-- hb-story:end slug="kondiaronk-america-world" -->
 
 <!-- hb-zoom level="span" label="The Treaty of Utrecht, 1713" -->
-In the Treaty of Utrecht, British diplomats won a contract to ship kidnapped African people across the ocean and sell them as slaves. The treaty was signed on April 11, 1713, at Utrecht in the Netherlands. It ended a war in Europe that the colonists called Queen Anne's War.
+In the Treaty of Utrecht, British diplomats won a contract to ship kidnapped African people across the ocean and sell them as slaves. The treaty was signed on April 11, 1713, at Utrecht in the Netherlands. With it the diplomats ended a war in Europe that the colonists called Queen Anne's War.
 
 The contract was called the asiento. Under it, for thirty years, British traders had the only right to carry enslaved Black people into Spain's colonies in the Americas and sell them there. The diplomats wrote the asiento into the peace as one of Britain's prizes, beside land.
 
-The land came from France. French diplomats signed over to Britain all the land whose rivers drain into Hudson Bay, France's claims to Newfoundland, and Acadia, a French colony on the Atlantic coast of what is now Canada. A New England force had taken Acadia's capital, Port-Royal, in 1710.
+The land came from France. French diplomats signed over three things to Britain: all the land whose rivers drain into Hudson Bay, France's claims to Newfoundland, and Acadia. Acadia was a French colony on the Atlantic coast of what is now Canada. A New England force had taken Acadia's capital, Port-Royal, in 1710.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Louisbourg, taken in 1745 and given back in 1748" -->
 In 1745 New England soldiers captured a French fortress, and three years later British diplomats handed it back to France. On April 4, 1745, almost 3,000 New England troops under Colonel William Pepperrell sailed from Boston. A small fleet of British Royal Navy warships under Commodore Peter Warren joined them. They laid siege to Louisbourg, a French fortress on Cape Breton Island. A siege is an attack in which an army surrounds a place and cuts it off until it gives up. The siege lasted 49 days. The French surrendered on June 17, 1745.
 
-French fire killed about 100 New England men during the siege, and about 30 more died of illness. The troops stayed in the broken, dirty fortress through the winter. Between late November 1745 and mid-February 1746 they buried 561 of their own men, dead of disease. In June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
+French fire killed about 100 New England men during the siege, and about 30 more died of illness. The troops stayed in the broken, dirty fortress through the winter. Between late November 1745 and mid-February 1746 they buried at least 561 of their own men, dead of disease. In June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
 
 In 1748 British and French diplomats signed the Treaty of Aix-la-Chapelle. British diplomats gave Louisbourg back to France. In exchange French diplomats gave back Madras, a city in India that French forces had taken from Britain. British officials did not ask the colonists, and New Englanders were furious.
 <!-- /hb-zoom -->
@@ -129,13 +129,13 @@ In 1748 British and French diplomats signed the Treaty of Aix-la-Chapelle. Briti
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-American leaders began reaching out to other countries in November 1775, early in the war for independence from Britain. They needed other governments to accept that the new country existed, and they needed help to win the war. French and American diplomats signed an alliance in 1778. In 1783 American diplomats in Paris signed the peace that ended the war.
+American leaders began reaching out to other countries in November 1775, early in the war for independence from Britain. They looked in secret for people in other countries who might help them fight Britain. French and American diplomats signed an alliance in 1778. In 1783 American diplomats in Paris signed the peace that ended the war.
 
 After the war the country had almost no navy and little money. Rulers in North Africa seized American ships, and their officials enslaved the crews. In the 1790s, when France and Britain went to war with each other, American leaders tried to keep the United States out of it. President Washington accepted a treaty that favored Britain because he judged the country too weak to fight the British. From 1798 to 1800 American sailors fought an undeclared war at sea against France.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A committee for secret letters, 1775 to 1789" -->
-On November 29, 1775, members of the Second Continental Congress set up the Committee of Secret Correspondence. The Congress was the meeting of delegates, the men each colony chose to speak for it, and it ran the war. The committee's job was to make secret contact with people in other countries who might help. Its first members were Benjamin Franklin, Benjamin Harrison, Thomas Johnson, John Dickinson and John Jay.
+On November 29, 1775, members of the Second Continental Congress set up the Committee of Secret Correspondence. The Congress was the meeting of delegates, the men each colony chose to speak for it. The committee's job was to make secret contact with people in other countries who might help. Its first members were Benjamin Franklin, Benjamin Harrison, Thomas Johnson, John Dickinson and John Jay.
 
 On April 17, 1777, the delegates renamed it the Committee for Foreign Affairs. The delegates later set up a Department of Foreign Affairs. Accounts disagree on whether that happened on January 10, 1780, or January 10, 1781. On August 10, 1781, they chose Robert R. Livingston of New York as the first Secretary for Foreign Affairs.
 
@@ -143,7 +143,7 @@ Under the new Constitution, members of Congress set up the department again in a
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Morocco, 1777 and 1786" -->
-Encyclopaedia Britannica calls Sultan Mohammed III, the ruler of Morocco, the first ruler of any country to recognize the United States. To recognize a country is to accept officially that it exists. On December 20, 1777, he declared that ships flying the American flag could enter Moroccan ports freely. He did this about six weeks before French officials signed their treaties with the Americans. His declaration named ships of several other nations too. It was part of his plan to trade in peace with Christian countries, and it was not aimed at the Americans alone.
+Encyclopaedia Britannica describes Sultan Mohammed III, the ruler of Morocco, as the first ruler of any country to recognize the United States. To recognize a country is to accept officially that it exists. On December 20, 1777, he declared that ships flying the American flag could enter Moroccan ports freely. He did this about six weeks before French officials signed their treaties with the Americans. His declaration named ships of several other nations too. It was part of his plan to trade in peace with Christian countries, and it was not aimed at the Americans alone.
 
 A treaty with Morocco followed nine years later. The American agent Thomas Barclay reached Marrakesh on June 19, 1786. Moroccan officials approved the agreement on June 23, and Barclay signed it on June 28. Thomas Jefferson signed it in Paris on January 1, 1787, and John Adams signed it in London on January 25, 1787. Delegates to Congress ratified it on July 18, 1787. To ratify is to give final, formal approval.
 
@@ -167,25 +167,25 @@ On June 21, 1779, Spain's leaders took their country into the war against Britai
 > **When and where:** Paris, December 1776 to May 1785.
 > **Movie:** *Franklin* (2024), an eight-part drama series on Apple TV+, with Michael Douglas as Franklin. It is about his time in France and is based on Stacy Schiff's book *A Great Improvisation*. It is a drama, not a documentary.
 
-Benjamin Franklin represented the United States in France for eight and a half years, from December 1776 to May 1785. In Paris he wore plain clothes and a fur cap instead of a wig. His biographer Walter Isaacson identifies the fur as marten. The French took the cap as a sign that Franklin was a plain, rugged American. Augustin de Saint-Aubin made an engraving of Franklin in the cap in 1777. The print is in the Philadelphia Museum of Art.
+Benjamin Franklin represented the United States in France for more than eight years, from December 1776 to May 1785. In Paris he wore plain clothes and a fur cap instead of a wig. His biographer Walter Isaacson identifies the fur as marten. The French took the cap as a sign that Franklin was a plain, rugged American. Augustin de Saint-Aubin made an engraving of Franklin in the cap in 1777. The print is in the Philadelphia Museum of Art.
 
 Delegates to Congress named Franklin Minister Plenipotentiary to France on September 14, 1778. A minister plenipotentiary is an official with full power to act for his country in another country. He presented his credentials, the letters that proved his position, to the French government on March 23, 1779.
 
-They also named him minister to Sweden, on September 28, 1782. Franklin never went to Sweden, but worked out a treaty with it from Paris and signed it on April 3, 1783. In the same years he was one of the three Americans who made the peace with Britain. His mission in France ended on May 17, 1785.
+Delegates to Congress also named him minister to Sweden, on September 28, 1782. Franklin never went to Sweden, but worked out a treaty with it from Paris and signed it on April 3, 1783. In the same years he was one of the three Americans who made the peace with Britain. His mission in France ended on May 17, 1785.
 <!-- hb-story:end slug="benjamin-franklin-america-world" -->
 
 <!-- hb-zoom level="span" label="The Treaty of Paris, 1783" -->
-In the Treaty of Paris, British diplomats accepted that the United States was independent and signed over land that Native nations lived on. Benjamin Franklin, John Adams and John Jay negotiated for the United States. They signed the first version of the peace terms on November 30, 1782. French diplomats signed their own first version on January 20, 1783. The final Treaty of Paris was signed on September 3, 1783.
+In the Treaty of Paris, British diplomats accepted that the United States was independent. They also handed the United States Britain's claim to land that Native nations lived on. Benjamin Franklin, John Adams and John Jay negotiated for the United States. They signed the first version of the peace terms on November 30, 1782. French diplomats signed their own first version on January 20, 1783. The final Treaty of Paris was signed on September 3, 1783.
 
-The British negotiators accepted a western border for the United States at the Mississippi River. The treaty set out fishing rights off Newfoundland. It stated that British lenders could collect the debts Americans had owed them since before the war. It promised Loyalists, colonists who had sided with Britain, payment for property that Americans had taken from them. It required British troops to leave the thirteen states. Franklin asked the British to hand over Canada as well, and they refused.
+The British negotiators accepted a western border for the United States at the Mississippi River. Under the treaty, Americans could fish off Newfoundland. British lenders could still collect the debts Americans had owed them since before the war. The American negotiators promised Loyalists, colonists who had sided with Britain, payment for property that Americans had taken from them. British troops had to leave the thirteen states. Franklin asked the British to hand over Canada as well, and they refused.
 
 Members of the Confederation Congress, meeting at Annapolis, Maryland, ratified the treaty on January 14, 1784. British officials ratified it on April 9, 1784. The two sides traded signed copies in Paris on May 12, 1784.
 
 The land inside that western border was the home of Native nations. Among them were the Haudenosaunee in what is now New York and Pennsylvania. In about 1722 the Tuscarora had joined their league, and after that the league was called the Six Nations. The Six Nations were the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora. No Native nation was invited to Paris.
 
-In 1763 a British royal order called the Royal Proclamation had set aside much of that land for Native nations. In 1783 British diplomats handed it to the United States. They also ignored many earlier British treaties with Native nations.
+In 1763 the British king had set aside much of that land for Native nations, in a royal order called the Royal Proclamation. In 1783 British diplomats handed it to the United States. They also ignored many earlier British treaties with Native nations.
 
-At Fort Stanwix in 1784, American negotiators backed by a strong force of soldiers treated the Six Nations as a conquered people. They took huge parts of Six Nations land.
+At Fort Stanwix in 1784, American negotiators backed by a strong force of soldiers treated the Six Nations as nations they had beaten in war. They took huge parts of Six Nations land.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-adams-america-world" name="John Adams" movie="" kind="famous" status="verified" -->
@@ -194,7 +194,7 @@ At Fort Stanwix in 1784, American negotiators backed by a strong force of soldie
 > **Who:** The first United States minister to Great Britain.
 > **When and where:** London. Presented to King George III on June 1, 1785.
 
-On June 1, 1785, John Adams met King George III as the representative of the United States. Nine years earlier, the same king had called Adams a rebel and could have had him hanged.
+On June 1, 1785, John Adams met King George III as the representative of the United States. In August 1775 the same king had declared the colonies to be in open rebellion against him. The next year Adams signed the Declaration of Independence.
 
 Adams bought a new coat for the meeting. Two days later, on June 3, 1785, he wrote to Thomas Jefferson about the meeting. He wrote that the king had received him with more kindness than he had expected. The Library of Congress holds that letter.
 <!-- hb-story:end slug="john-adams-america-world" -->
@@ -206,7 +206,7 @@ In 1784 Moroccan ships seized an American merchant ship, and a treaty with Moroc
 
 The United States had almost no navy and very little money. American leaders could not free the sailors by force, and for years they could not pay what the Dey asked for them. In 1795 American officials sent Joel Barlow, Joseph Donaldson and Richard O'Brien to North Africa. They made treaties with Algiers, Tunis and Tripoli. The treaty with Algiers was signed on September 5, 1795. The American ratification is dated March 7, 1796.
 
-Accounts disagree on what the treaty cost. The State Department's historians say it freed 83 American sailors. Treasury officials estimated the total cost at about $992,463. That total began with a first payment of about $585,000. The money reached Algiers late, and the Dey demanded more. Other accounts give $642,500 paid at once, plus $21,600 a year in supplies for ships. The counts of captives also differ, from 83 freed in 1796 to 115 held in 1793.
+Accounts disagree on what the treaty cost. The State Department's historians say it freed 83 American sailors. Treasury officials estimated the total cost at about $992,463. That total began with a first payment of about $585,000. The money reached Algiers late, and the Dey demanded more. Editors of George Washington's papers at the University of Virginia give $642,500 paid at once, plus $21,600 a year in supplies for ships. The counts of captives also differ, from 83 freed in 1796 to 115 held in 1793.
 
 The Dey's officials released the surviving sailors on July 8, 1796. Six captives had died shortly before. Several others carried lasting injuries from their years of captivity.
 <!-- /hb-zoom -->
@@ -231,7 +231,7 @@ Cathcart rose step by step. He served coffee to the minister of the harbor, then
 
 By Cathcart's own list, 9 of the 21 Americans taken in 1785 died in Algiers, most of them of plague, a disease that spread quickly and killed many people. The other 12 went home at different times. Family or friends bought some of them free before 1796, and the rest were freed in 1796. Cathcart left Algiers on May 8, 1796, carrying dispatches, official letters for the American government.
 
-He married Jane B. Woodside in Philadelphia in 1798. In January 1799 he sailed from Philadelphia as the American consul for Tunis and Tripoli. From 1807 to 1817 he was the American consul-general at Cádiz, in Spain. His daughter, J. B. Newkirk, published his account, *The Captives: Eleven Years a Prisoner in Algiers*, in 1899.
+He married Jane B. Woodside in Philadelphia in 1798. In January 1799 he sailed from Philadelphia as the American consul for Tunis and Tripoli. From 1807 to 1817 he was the chief American consul at Cádiz, in Spain. His daughter, J. B. Newkirk, published his account, *The Captives: Eleven Years a Prisoner in Algiers*, in 1899.
 <!-- hb-story:end slug="james-leander-cathcart" -->
 
 <!-- hb-zoom level="span" label="Staying out of Europe's war, 1793 to 1796" -->
@@ -243,16 +243,16 @@ John Jay signed a treaty with Britain on November 19, 1794. Senators approved it
 
 The two sides sent several quarrels to arbitration, a way of settling a dispute by letting a neutral panel decide. These included the border between Maine and Canada, the old debts, and British seizures of American ships. British officials kept the right to seize American cargo bound for France, with payment, and to take French goods off American ships without paying. The State Department's historians sum it up this way: the treaty "addressed few U.S. interests, and ultimately granted Britain additional rights." It was very unpopular with Americans. Washington signed it anyway, because he judged that the country was too weak to fight Britain.
 
-Thomas Pinckney signed a treaty with Spain on October 27, 1795. He negotiated it with Manuel de Godoy, a Spanish minister. Senators approved it on March 7, 1796. Under it, the border with Spanish West Florida was set at the 31st parallel, an east-west line on the map. Americans got free use of the Mississippi River and the right to use the port of New Orleans without paying tax. Farmers in Kentucky and Tennessee could not haul their crops over the mountains to sell them. They floated the crops down the rivers to New Orleans, which Spain controlled. Under Pinckney's Treaty they could sell them there.
+Thomas Pinckney signed a treaty with Spain on October 27, 1795. He negotiated it with Manuel de Godoy, a Spanish minister. Senators approved it on March 7, 1796. Under it, the border with Spanish West Florida was set at the 31st parallel, an east-west line on the map. Americans got free use of the Mississippi River and the right to use the port of New Orleans without paying tax. Farmers in Kentucky and Tennessee could not haul their crops over the mountains to sell them. They floated the crops down the rivers to New Orleans, which Spanish officials controlled. Under Pinckney's Treaty they could sell them there.
 
-On September 19, 1796, Washington's Farewell Address was printed in the *American Daily Advertiser*, a Philadelphia newspaper. Alexander Hamilton had helped him write it. In it Washington said he would not run for a third term. He also argued that the United States should not tie itself permanently to any foreign country.
+On September 19, 1796, Washington's Farewell Address was printed in the *American Daily Advertiser*, a Philadelphia newspaper. Alexander Hamilton had helped him write it. In it Washington said he would not run for a third term. He also argued that American leaders should not make permanent alliances with any foreign country.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The XYZ Affair and a war at sea, 1798 to 1800" -->
 From 1798 to 1800 American navy crews fought French ships in the Caribbean in a war that neither government declared. The war followed a failed attempt at talks. President John Adams sent three commissioners to France: Elbridge Gerry, Charles Cotesworth Pinckney and John Marshall.
 
-French agents told the three Americans that talks could not begin until the United States met their demands. The agents wanted a loan to France at low interest. They wanted the United States government to pay the money American merchants said France owed them. They also wanted "a substantial bribe" for the French foreign minister, Talleyrand. A bribe is money paid to get someone to do something dishonest. Adams made the Americans' reports public, with the agents' names replaced by the letters W, X, Y and Z. The agents were Nicholas Hubbard, Jean Hottinguer, Pierre Bellamy and Lucien Hauteval.
+French agents told the three Americans that talks could not begin until the United States met their demands. The agents asked for a low-interest loan to France and for the United States government to pay the money American merchants said France owed them. On top of that, they wanted "a substantial bribe" for the French foreign minister, Talleyrand. A bribe is money paid to get someone to do something dishonest. Adams made the Americans' reports public, with the agents' names replaced by the letters W, X, Y and Z. The agents were Nicholas Hubbard, Jean Hottinguer, Pierre Bellamy and Lucien Hauteval.
 
-The fighting at sea that followed is called the Quasi-War. Quasi means "almost." The State Department's historians call it "a limited, undeclared war." American and French negotiators ended it with an agreement called the Convention of 1800, also called the Treaty of Mortefontaine. That agreement also ended the alliance of 1778 between France and the United States. Senators did not ratify it until December 18, 1801.
+The fighting at sea that followed is called the Quasi-War. Quasi means "almost." The State Department's historians call it "a limited, undeclared war." American and French negotiators ended it with an agreement called the Convention of 1800, also called the Treaty of Mortefontaine. In the same agreement the negotiators ended the alliance of 1778 between France and the United States. Senators did not ratify it until December 18, 1801.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
