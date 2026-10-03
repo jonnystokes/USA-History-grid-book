@@ -448,3 +448,4 @@ date	task_id	kind	agent_type	description	usage_start	usage_end	usage_delta	subag
 2026-10-03	T-607	prose	general-purpose/opus	[LOCAL] drugs-alcohol step 7 fixer	?	?	?	297125	96	705827	?	completed	PASS  drugs-alcohol / prose
 2026-10-03	T-619	prose	general-purpose/opus	[LOCAL] migration step 7 fixer	?	?	?	323616	198	707724	?	completed	PASS  migration / prose
 2026-10-03	T-611	prose	general-purpose/opus	[LOCAL] money step 7 fixer	?	?	?	321386	218	738278	?	completed	PASS  money / prose
+2026-10-03	T-608	prose	general-purpose/opus	[LOCAL] immigration step 7 fixer	?	?	?	334344	207	750458	?	completed	PASS  immigration / prose

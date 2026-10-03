@@ -4961,7 +4961,8 @@ RESULT: PASS  drugs-alcohol / prose. 297125 tokens, 96 tools, 11.8 min (opus). 9
 CHECKPOINT: control/checkpoints/F7-drugs-alcohol.md
 
 ### 2026-10-03 | [LOCAL] T-608 | immigration: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  immigration / prose. 334344 tokens, 207 tools, 12.5 min (opus). 99 FIXED, 2 REJECTED; #39 slur removed book-wide check
 CHECKPOINT: control/checkpoints/F7-immigration.md
 
 ### 2026-10-03 | [LOCAL] T-609 | food-farming: STEP 7 FIXER wave A | model opus
