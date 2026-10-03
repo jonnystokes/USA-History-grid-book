@@ -5054,3 +5054,60 @@ RESULT: PASS  war / prose. 353266 tokens, 161 tools, 14.9 min (opus). 149 FIXED,
 CHECKPOINT: control/checkpoints/F7-war.md
 USAGE: wave A 0% -> 60% (16 fixers, 3.75% each). Wave B1 (6) launched at 60%.
 ### 2026-10-03 | [LOCAL] Wave B1 done: 6/6 PASS (T-620..T-625). 26 of 37 chapters fixed in step 7.
+
+### 2026-10-03 | [LOCAL] T-626 | crime-justice: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-crime-justice.md
+
+### 2026-10-03 | [LOCAL] T-627 | disasters: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-disasters.md
+
+### 2026-10-03 | [LOCAL] T-628 | sports-play: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-sports-play.md
+
+### 2026-10-03 | [LOCAL] T-629 | art: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-art.md
+
+### 2026-10-03 | [LOCAL] T-630 | government-politics: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-government-politics.md
+
+### 2026-10-03 | [LOCAL] T-631 | storytelling-evolution: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-storytelling-evolution.md
+
+### 2026-10-03 | [LOCAL] T-632 | city-building: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-city-building.md
+
+### 2026-10-03 | [LOCAL] T-633 | music: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-music.md
+
+### 2026-10-03 | [LOCAL] T-634 | education: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-education.md
+
+### 2026-10-03 | [LOCAL] T-635 | education: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-education.md
+
+### 2026-10-03 | [LOCAL] T-636 | religion: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-religion.md
+
+### 2026-10-03 | [LOCAL] T-637 | religion: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-religion.md
+
+### 2026-10-03 | [LOCAL] T-638 | rights-movements: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-rights-movements.md
+
+### 2026-10-03 | [LOCAL] T-639 | rights-movements: STEP 7 FIXER wave B2 | model opus
+STATUS: IN-FLIGHT
+CHECKPOINT: control/checkpoints/F7-rights-movements.md
+USAGE: wave B1 60% -> 89% (6 fixers ~4.8% each). Wave B2 (14 agents, final 11 chapters) launched at 0% after reset 13:13 UTC.
