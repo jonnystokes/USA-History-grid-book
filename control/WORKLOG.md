@@ -5143,4 +5143,5 @@ RESULT: afterword at manuscript/_afterword/how-we-know.md, ~3,500 words, 0/0 pun
 USAGE at launch 72%.
 
 ### 2026-10-03 | [LOCAL] T-643 | full-book build + viewer check | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: build/history-book.html (4.97 MB) and .pdf (15.6 MB, 1,965 pages), 824,017 words; rebuild: python tools/build_full_book.py --pdf. Viewer parses all 112 files cleanly. 115,554 tokens (opus).

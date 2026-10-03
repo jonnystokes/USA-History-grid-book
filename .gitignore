@@ -11,3 +11,4 @@ seed-files/
 viewer/viewer-v1.html
 __pycache__/
 *.pyc
+build/
