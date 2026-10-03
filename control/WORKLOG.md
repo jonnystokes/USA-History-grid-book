@@ -4956,7 +4956,8 @@ RESULT: PASS  landmarks / prose. 309802 tokens, 167 tools, 9.7 min (opus). 79 FI
 CHECKPOINT: control/checkpoints/F7-landmarks.md
 
 ### 2026-10-03 | [LOCAL] T-607 | drugs-alcohol: STEP 7 FIXER wave A | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  drugs-alcohol / prose. 297125 tokens, 96 tools, 11.8 min (opus). 92 FIXED, 5 REJECTED; slur removed (#35)
 CHECKPOINT: control/checkpoints/F7-drugs-alcohol.md
 
 ### 2026-10-03 | [LOCAL] T-608 | immigration: STEP 7 FIXER wave A | model opus

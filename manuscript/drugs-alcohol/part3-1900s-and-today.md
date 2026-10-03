@@ -155,7 +155,7 @@ In 1918 the Native American Church was organized in Oklahoma. Its members take p
 <!-- hb-zoom level="era" -->
 About 42 of every 100 American adults smoked cigarettes in 1965. By 1997 the number was about 25. Scientists had shown that smoking causes lung cancer, and in 1996 a fired tobacco scientist told a national television audience that his company changed its tobacco to strengthen the effect of nicotine. Drinking rose until 1981 and then fell.
 
-On 17 June 1971 President Richard Nixon called drug abuse "public enemy number one," and reporters named his program the war on drugs. In 1980 Candy Lightner, whose daughter was killed by a drunk driver, started Mothers Against Drunk Driving. In 1986 members of Congress and President Ronald Reagan set the same prison term for 5 grams of crack cocaine as for 500 grams of powder cocaine. By 1988 lawmakers in every state had set the drinking age at 21. In 1996 a company owned by the Sackler family began selling a strong painkiller called OxyContin.
+On 17 June 1971 President Richard Nixon called drug abuse "public enemy number one," and reporters named his program the war on drugs. Candy Lightner started Mothers Against Drunk Driving in 1980, after a drunk driver killed her daughter, and by 1988 lawmakers in every state had set the drinking age at 21. In 1986 members of Congress and President Ronald Reagan set the same prison term for 5 grams of crack, a kind of cocaine that can be smoked, as for 500 grams of powder cocaine. A company owned by the Sackler family began selling a strong painkiller called OxyContin in 1996.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How much people drank and smoked" -->
@@ -167,7 +167,7 @@ In the 1940s and 1950s, Ernst Wynder and other scientists linked cigarettes to l
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Billie Holiday and the narcotics agents" -->
-The singer Billie Holiday was arrested for drugs three times. Federal narcotics agents made the last two arrests, the last one in her hospital bed. On 16 May 1947 she was arrested for having narcotics in her New York apartment. In court she said, "It was called 'The United States of America versus Billie Holiday'. And that's just the way it felt." She pleaded guilty and was sent to Alderson Federal Prison Camp in West Virginia. After she was found guilty, she lost the police license she needed to sing in New York City clubs that sold alcohol. On 22 January 1949, the federal agent George Hunter White arrested her again in a San Francisco hotel.
+The singer Billie Holiday was arrested for drugs three times. Federal narcotics agents made the last two arrests, the last one in her hospital bed. On 16 May 1947 she was arrested for having narcotics in her New York apartment. In court she said, "It was called 'The United States of America versus Billie Holiday'. And that's just the way it felt." She pleaded guilty, and a judge sent her to Alderson Federal Prison Camp in West Virginia. After she was found guilty, she lost the police license she needed to sing in New York City clubs that sold alcohol. On 22 January 1949, the federal agent George Hunter White arrested her again in a San Francisco hotel.
 
 In 1959 Holiday was in Metropolitan Hospital in New York, being treated for liver and heart disease. On 31 May, Harry Anslinger ordered agents of his Federal Bureau of Narcotics to arrest her there for having drugs. The agents handcuffed her to her hospital bed. A police guard stayed at her room until a judge ordered the handcuffs taken off. She died in that room on 17 July 1959, at the age of 44. The cause was heart failure and fluid in her lungs, which came from cirrhosis, scarring of the liver. She had 70 cents in the bank.
 
@@ -175,7 +175,7 @@ The writer Johann Hari has argued that Anslinger's agents went after Holiday fro
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Native nations and the end of the federal ban, 1953" -->
-On 15 August 1953, members of Congress passed a law "to eliminate certain discriminatory legislation against Indians." Discriminatory means treating one group of people worse than others. After this law, federal law no longer barred Native people from buying alcohol off their nations' land. On a nation's own land, a sale of alcohol had to follow both state law and a law passed by that nation's government, approved by the Secretary of the Interior. The ban on liquor on Native land had lasted 20 years longer than national Prohibition. The law let each nation decide whether to keep its ban. Some nations kept it. The Oglala Sioux Tribe, on the Pine Ridge Reservation in South Dakota, was one, according to the National Alcohol Beverage Control Association, a group of state alcohol officials.
+On 15 August 1953, members of Congress passed a law "to eliminate certain discriminatory legislation against Indians." Discriminatory means treating one group of people worse than others. After this law, federal law no longer barred Native people from buying alcohol off their nations' land. On a nation's own land, a sale of alcohol had to follow both state law and a law passed by that nation's government, approved by the Secretary of the Interior, the head of the federal department that handles dealings with Native nations. The ban on liquor on Native land had lasted 20 years longer than national Prohibition. Members of Congress gave each nation the choice of keeping its ban. Some nations kept it. The Oglala Sioux Tribe, on the Pine Ridge Reservation in South Dakota, was one, according to the National Alcohol Beverage Control Association, a group of state alcohol officials.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="LSD and marijuana" -->
@@ -185,7 +185,7 @@ In 1964 a man named Lowell Eggemeier lit a marijuana cigarette in San Francisco'
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Nixon declares the war on drugs, 1970 and 1971" -->
-On 27 October 1970, Nixon signed a law that sorted drugs into five lists, called schedules. The lawmakers put marijuana and heroin on Schedule I, the list for drugs with a high risk of abuse and no accepted use as medicine. The same law made having a small amount of a drug a lesser crime, with at most one year in jail for a first offense. It raised the punishments for selling drugs.
+On 27 October 1970, Nixon signed a law that sorted drugs into five lists, called schedules. The lawmakers put marijuana and heroin on Schedule I, the list for drugs with a high risk of abuse and no accepted use as medicine. Under the same law, having a small amount of a drug became a lesser crime, with at most one year in jail for a first offense. Selling drugs carried harsher punishments than before.
 
 In May 1971 two members of Congress, Morgan Murphy and Robert Steele, came back from the war in Vietnam. They reported that "as many as 10 to 15 percent of our servicemen are addicted to heroin."
 
@@ -214,13 +214,17 @@ In 1982 she and Leonard Firestone, a former ambassador, founded the Betty Ford C
 <!-- hb-story:end slug="betty-ford-drugs-alcohol" -->
 
 <!-- hb-zoom level="span" label="Drunk driving and the drinking age of 21" -->
-On 3 May 1980, Clarence Busch hit and killed 13-year-old Cari Lightner with his car while he was drunk. She was walking to a church festival in Fair Oaks, California. He drove away and left her body there. He had a long record of arrests for drunk driving. A judge ruled that Busch's alcoholism had made it harder for him to control his decisions. The judge gave him two years in prison for involuntary manslaughter, the crime of killing someone without meaning to. He entered prison in December 1980 and was paroled nine months later, which means he was let out early under watch. In 1982 he went back to prison for breaking the rules of his parole, and he was freed again in February 1983. In April 1985 police arrested him again, drunk and driving without a license, after a crash.
+On 3 May 1980, Clarence Busch hit and killed 13-year-old Cari Lightner with his car while he was drunk. She was walking to a church festival in Fair Oaks, California. He drove away and left her body there. He had a long record of arrests for drunk driving.
+
+A judge ruled that Busch's alcoholism had made it harder for him to control his decisions. The judge gave him two years in prison for involuntary manslaughter, the crime of killing someone without meaning to. He entered prison in December 1980 and was paroled nine months later, which means he was let out early under watch.
+
+In 1982 he went back to prison for breaking the rules of his parole, and he was freed again in February 1983. In April 1985 police arrested him again, drunk and driving without a license, after a crash.
 
 Her mother, Candy Lightner, founded Mothers Against Drunk Driving, or MADD, in 1980. By MADD's count, nearly 25,000 people were killed in crashes involving alcohol in 1980. That was half of all traffic deaths.
 
 Between 1970 and 1975, lawmakers in 29 states had lowered the drinking age to 18, 19 or 20. They did it after the voting age was lowered to 18. Senator Frank Lautenberg of New Jersey wrote a law to raise the drinking age again, and Reagan signed it on 17 July 1984. Under it, a state that let people under 21 buy alcohol lost part of its federal money for highways. By 1988 every state had set the age at 21.
 
-Researchers disagree about how many lives the higher drinking age saved. A review for the Institute of Medicine found strong evidence that it worked. The economists Jeffrey Miron and Elina Tetelbaum found in 2009 that the effect faded after a year or two.
+Researchers disagree about how many lives the higher drinking age saved. A review for the Institute of Medicine, a national group of health experts, found strong evidence that it worked. The economists Jeffrey Miron and Elina Tetelbaum found in 2009 that the effect faded after a year or two.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Crack cocaine and the 1986 law" -->
@@ -228,7 +232,7 @@ In the early 1980s, Nancy Reagan, the president's wife, began a campaign, with h
 
 Crack is cocaine that dealers cooked with water and baking soda and dried into small rocks that can be smoked. Smoked crack reaches the brain in 6 to 8 seconds, and the high lasts 5 to 15 minutes. Around 1984 a dose cost as little as $2.50 in some cities. Hospital emergencies from cocaine more than doubled in one year, from 26,300 in 1985 to 55,200 in 1986.
 
-On 19 June 1986 the basketball player Len Bias died from cocaine. Afterward, Speaker of the House Tip O'Neill had Democratic leaders write a new drug law, and Reagan signed it on 27 October 1986. It added $1.7 billion to the fight against drugs and set 29 new minimum prison terms that judges had to give. It set five years in federal prison for 5 grams of crack, the same as for 500 grams of powder cocaine.
+On 19 June 1986 the basketball player Len Bias died from cocaine. Afterward, Speaker of the House Tip O'Neill had Democratic leaders write a new drug law, and Reagan signed it on 27 October 1986. In it, members of Congress added $1.7 billion to the fight against drugs and set 29 new minimum prison terms that judges had to give. The law set five years in federal prison for 5 grams of crack, the same as for 500 grams of powder cocaine.
 
 Under the law, a person caught with crack got the same prison term as a person caught with 100 times as much powder cocaine. Most of the people sentenced for crack were Black. In 1992, 91 of every 100 people sentenced in federal court for crack were Black, by the count of the US Sentencing Commission. Among people who entered treatment for crack in 2004, 53 of every 100 were Black and 38 were white. The historian Elizabeth Hinton writes that Reagan "led Congress in criminalizing drug users, especially African American drug users," which means treating them as criminals.
 
@@ -244,7 +248,7 @@ On 5 September 1989 President George H. W. Bush held up a bag of crack on televi
 
 Jeffrey Wigand told the public in 1996 that his former company had changed its tobacco to strengthen the effect of nicotine. Nicotine is the drug in tobacco that makes people addicted.
 
-Wigand was born in New York City on 17 December 1942. He trained as a biochemist, a scientist who studies the chemistry of living things. In January 1989 he became vice president for research at Brown & Williamson Tobacco in Louisville, Kentucky. Company officers fired him on 24 March 1993. That September the company sued him and cut off his health insurance. In November 1993 he signed an agreement not to talk about his work.
+Wigand was born in New York City on 17 December 1942. He trained as a biochemist, a scientist who studies the chemistry of living things. In January 1989 he became vice president for research at Brown & Williamson Tobacco in Louisville, Kentucky. Brown & Williamson fired him on 24 March 1993. That September the company sued him and cut off his health insurance. In November 1993 he signed an agreement not to talk about his work.
 
 In late November 1995, under a judge's order, Wigand gave sworn testimony in Pascagoula, Mississippi, for the state's lawsuit against the tobacco companies. The company's lawyers got a Kentucky court order against him and sued him for "theft, fraud, breach of contract." That means they said he stole, cheated and broke his agreement with the company. Lawyers for the CBS television network stopped the news program *60 Minutes* from showing an interview with him that November.
 
@@ -260,7 +264,7 @@ In 1952 three doctors, the brothers Arthur, Mortimer and Raymond Sackler, bought
 
 Dr. Curtis Wright, of the Food and Drug Administration (FDA), reviewed OxyContin before it went on sale. He approved a label that said the slow release "is believed to reduce the abuse liability of a drug," meaning the risk that people would misuse it. A year later Wright left the FDA and went to work for Purdue.
 
-Purdue managers trained their salespeople to tell doctors that the risk of addiction was "less than one percent." More than 5,000 doctors, pharmacists and nurses went to Purdue meetings with all their costs paid. Richard Sackler, Raymond's son, ran the company's sales and marketing, and he became its president in 1999. Prescriptions of OxyContin for pain not caused by cancer rose from about 670,000 in 1997 to about 6.2 million in 2002. From 1995 to 2001, OxyContin earned Purdue $2.8 billion. David Kessler, who led the FDA when the pill was approved, later called the approval "one of the worst medical mistakes."
+Purdue trained its salespeople to tell doctors that the risk of addiction was "less than one percent." More than 5,000 doctors, pharmacists and nurses went to Purdue meetings with all their costs paid. Richard Sackler, Raymond's son, ran the company's sales and marketing, and he became its president in 1999. Prescriptions of OxyContin for pain not caused by cancer rose from about 670,000 in 1997 to about 6.2 million in 2002. From 1995 to 2001, Purdue took in $2.8 billion from sales of OxyContin. David Kessler, who led the FDA when the pill was approved, later called the approval "one of the worst medical mistakes."
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -268,7 +272,7 @@ Purdue managers trained their salespeople to tell doctors that the risk of addic
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-From 1999 to 2023, about 806,000 Americans died of opioid overdoses, by the count of the Centers for Disease Control and Prevention (CDC). The deaths came first from pain pills such as OxyContin, then from heroin, and from 2013 mostly from fentanyl made outside the law. Overdoses of all drugs killed 107,941 people in 2022, the highest of the CDC's final yearly counts. By the CDC's early count, deaths peaked at 112,418 in the 12 months ending in August 2023. By the same early count, the yearly total had fallen to about 67,000 in the 12 months ending in April 2026.
+From 1999 to 2023, about 806,000 Americans died of opioid overdoses, by the count of the Centers for Disease Control and Prevention (CDC). An overdose is too much of a drug at once, enough to make a person very sick or kill them. The deaths came first from pain pills such as OxyContin, then from heroin, and from 2013 mostly from fentanyl made outside the law. Overdoses of all drugs killed 107,941 people in 2022, the year the death rate peaked in the CDC's final figures. By the CDC's early count, deaths peaked at 112,418 in the 12 months ending in August 2023. By the same early count, the yearly total had fallen to about 67,000 in the 12 months ending in April 2026.
 
 In 2026 a federal judge sentenced Purdue Pharma, the maker of OxyContin, and the company shut down. No member of the Sackler family, who owned it, has been charged with a crime. Over the same years, voters and lawmakers in 24 states made marijuana legal for adults. In July 2026, 54 of every 100 adults told Gallup pollsters that they drink, the lowest share since Gallup began asking in 1939. In 2025, by the CDC's count, about 9 of every 100 adults smoked cigarettes.
 <!-- /hb-zoom -->
@@ -288,7 +292,7 @@ Fentanyl is an opioid made in a lab. By the CDC's count, it is 50 to 100 times s
 
 Deaths from fentanyl and similar lab-made opioids rose from 1 of every 100,000 Americans in 2013 to 22.7 in 2022, by the CDC's count. In 2024 the rate fell to 14.3.
 
-Since about 2019, most of the illegal fentanyl sold in the United States has come from Mexico. A 2025 report by the Congressional Research Service, which studies problems for members of Congress, names the makers. Mexican crime groups, especially the Sinaloa Cartel and the Jalisco New Generation Cartel, make it outside the law. Companies in China are the largest source of the chemicals they need. The cartels' members use machines to press fentanyl into fake pills made to look like real medicine.
+Since about 2019, most of the illegal fentanyl sold in the United States has come from Mexico. A 2025 report by the Congressional Research Service, which studies problems for members of Congress, names the makers. Mexican crime groups called cartels, especially the Sinaloa Cartel and the Jalisco New Generation Cartel, make it outside the law. Companies in China are the largest source of the chemicals they need. The cartels' members use machines to press fentanyl into fake pills made to look like real medicine.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Purdue Pharma and the Sacklers in court" -->
@@ -296,13 +300,13 @@ In May 2007 Purdue Pharma pleaded guilty to misleading the public about OxyConti
 
 On 15 September 2019, Purdue filed for bankruptcy, a court process for a business that cannot pay its debts. Purdue hired a firm called AlixPartners to check the company's money records. In December 2019 the firm reported that members of the Sackler family had taken $10.7 billion out of the company after lawsuits and investigations began. On 24 November 2020, Purdue pleaded guilty to three federal crimes. One was a plot to cheat the United States. The other two were plots to pay doctors and others to push its pills. In that case, no company leader and no Sackler was charged.
 
-On 27 June 2024, five justices of the Supreme Court struck down a bankruptcy plan that would have protected the Sacklers from lawsuits. On 16 June 2025, the attorneys general of 55 states and territories agreed to a $7.4 billion settlement with Purdue and the Sacklers. A settlement is a deal that ends lawsuits in return for money. An attorney general is the top lawyer of a state.
+Five justices of the Supreme Court threw out a bankruptcy plan on 27 June 2024, because it would have protected the Sacklers from lawsuits. A year later, on 16 June 2025, 55 attorneys general agreed to a $7.4 billion settlement with Purdue and the Sacklers. A settlement is a deal that ends lawsuits in return for money. An attorney general is the top lawyer of a state.
 
 On 28 April 2026, Judge Madeline Cox Arleo in Newark, New Jersey, sentenced Purdue to $5.5 billion in fines and penalties for its 2020 guilty plea. For nearly seven hours she heard from people harmed by the crisis. More than 40 spoke in court, and more than 200 sent letters. Ed Bisch's son Eddie died of an overdose in 2001. "Punishment by a fine means 'legal for a price,'" Bisch said. Alexis Pleus said her son Jeff had first been prescribed OxyContin for a football injury, before he died of an overdose. "We still deserve justice, and this isn't it," she said.
 
-Arleo said she could not send anyone to prison because Justice Department lawyers had charged only the company. "Your government failed you," she told the families. Most of the $5.5 billion will never be paid. Federal officials collect $225 million, and Purdue's other money goes to the states and towns it owes. The settlement includes $865 million for people harmed one by one. Many victims said they could not qualify because they could not find their old prescription records.
+Arleo said she could not send Purdue's leaders or owners to prison because Justice Department lawyers had charged only the company. "Your government failed you," she told the families. Most of the $5.5 billion will never be paid. Federal officials collect $225 million, and Purdue's other money goes to the states and towns it owes. The settlement includes $865 million for people harmed one by one. Many victims said they could not qualify because they could not find their old prescription records.
 
-On 1 May 2026, New York Attorney General Letitia James announced that Purdue had shut down. A new company, Knoa Pharma, owned by a charity, took over. Under the settlement the Sacklers must pay $2.9 billion by 2029, and none of them may sell opioids in the United States. The Sackler family has always said it did nothing wrong.
+Three days after the sentence, on 1 May 2026, New York Attorney General Letitia James announced that Purdue had shut down. A new company, Knoa Pharma, owned by a charity, took over. Under the settlement the Sacklers must pay $2.9 billion by 2029, and none of them may sell opioids in the United States. The Sackler family has always said it did nothing wrong.
 
 Other companies paid too. In 2021 the three largest companies that ship drugs to pharmacies agreed to pay up to $21 billion over 18 years. They are McKesson, Cardinal Health and AmerisourceBergen. The drug maker Johnson & Johnson agreed to pay up to $5 billion. In 2022 the drug makers Teva and Allergan and the pharmacy chains CVS, Walgreens and Walmart agreed to pay up to about $18.5 billion more among them. Under the settlements, states and towns must spend at least 85 of every 100 dollars they get on the overdose crisis.
 <!-- /hb-zoom -->
@@ -328,17 +332,17 @@ In 2019 officials at the National Portrait Gallery in London turned down a £1 m
 <!-- hb-zoom level="span" label="Marijuana becomes legal in 24 states" -->
 On 6 November 2012, voters in Colorado and Washington made marijuana legal for adults. They were the first two states to do so. Washington's law took effect first, on 6 December 2012. In 2018 Vermont's lawmakers became the first to make it legal without a vote of the public.
 
-As of September 2026, 24 states and the District of Columbia allow adults to use marijuana, by the count of the National Conference of State Legislatures, a group that serves state lawmakers. The 24 states are Alaska, Arizona, California, Colorado, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, Ohio, Oregon, Rhode Island, Vermont, Virginia and Washington. By the same count, 41 states allow marijuana as medicine. In November 2024, voters in Florida, North Dakota and South Dakota voted against making it legal.
+By the count of the National Conference of State Legislatures, a group that serves state lawmakers, 24 states and the District of Columbia allow adults to use marijuana. The group's page was last updated in September 2026. The 24 states are Alaska, Arizona, California, Colorado, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Montana, Nevada, New Jersey, New Mexico, New York, Ohio, Oregon, Rhode Island, Vermont, Virginia and Washington. By the same count, 41 states allow marijuana as medicine. In November 2024, voters in Florida, North Dakota and South Dakota voted against making it legal.
 
-Under federal law, marijuana was still on Schedule I, the list for the most tightly banned drugs. On 18 December 2025, President Donald Trump ordered officials to speed up moving it to Schedule III. Schedule III is a list of drugs that doctors may order as medicine. On 28 April 2026, the Acting Attorney General moved marijuana sold under state medical licenses to Schedule III. All other marijuana stayed on Schedule I. In June 2026 officials of the Drug Enforcement Administration began hearings on moving the rest. As of late September 2026, they had not decided.
+Under federal law, marijuana was still on Schedule I, the list for drugs with a high risk of abuse and no accepted use as medicine. On 18 December 2025, President Donald Trump ordered officials to speed up moving it to Schedule III. Schedule III is a list of drugs that doctors may order as medicine. On 28 April 2026, the Acting Attorney General moved marijuana sold under state medical licenses to Schedule III. All other marijuana stayed on Schedule I. In June 2026 officials of the Drug Enforcement Administration began hearings on moving the rest. As of late September 2026, they had not decided.
 
-Punishments for crack also changed. In 2010 President Barack Obama signed the Fair Sentencing Act, written by Senator Dick Durbin. It cut the difference between crack and powder cocaine sentences from 100 to 1 down to 18 to 1. In 2018 President Trump signed the First Step Act, which applied the change to people already in prison. In its first year, more than 2,000 federal prisoners had their sentences shortened.
+Punishments for crack also changed. In 2010 President Barack Obama signed the Fair Sentencing Act, written by Senator Dick Durbin. Under it, the difference between crack and powder cocaine sentences dropped from 100 to 1 to 18 to 1. Under the First Step Act, which President Trump signed in 2018, the change also covered people already in prison. In its first year, more than 2,000 federal prisoners had their sentences shortened.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Vaping and smoking" -->
 An e-cigarette heats a liquid, usually one with nicotine in it, into a mist that the user breathes in. Using one is called vaping. In 2019, 27.5 of every 100 high school students vaped, by the count of a national survey released by the CDC.
 
-In 2019 and early 2020, 2,807 people were put in the hospital or died with a lung injury from vaping, by the CDC's count. Of them, 68 died. CDC scientists linked most of the cases to vitamin E acetate, a chemical added to illegal marijuana vaping liquids. Most of the sick people had bought those liquids from friends, family or dealers. The records do not name who made them.
+In 2019 and early 2020, 2,807 people were put in the hospital or died with a lung injury from vaping, by the CDC's count. Of them, 68 died. CDC scientists found that vitamin E acetate, a chemical added to illegal marijuana vaping liquids, was strongly linked to the injuries. They linked most cases to those liquids, which most of the sick people had bought from friends, family or dealers. The records do not name who made them.
 
 On 20 December 2019, President Trump signed a law that raised the age to buy any tobacco product, including e-cigarettes, from 18 to 21. In 2025, 5.2 of every 100 middle and high school students vaped, by the count of a national survey released by the FDA in June 2026.
 
