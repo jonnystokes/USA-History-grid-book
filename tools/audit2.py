@@ -33,7 +33,7 @@ Read your brief, control/briefs/CHECKER.md, in full and follow it exactly: the f
 
 If the findings file already exists (an earlier checker was interrupted), do not start over: read it, keep every row, and continue from the first era that has no findings written.
 
-You are a reader, not an editor. Change no file except your findings file. No git. Install nothing. Download nothing. Write the findings file with the Write or Edit tool, never a Bash heredoc. Check file sizes before reading; never read viewer/*.html whole.
+You are a reader, not an editor. Change no file except your findings file. No git. Install nothing. Save downloads only in your own scratch subfolder, and never open a PDF link in the browser pane. Write the findings file with the Write or Edit tool, never a Bash heredoc. Check file sizes before reading; never read viewer/*.html whole.
 
 Report in under 120 words: total findings by severity, the three rules broken most often, and anything you were unsure how to judge."""
 
