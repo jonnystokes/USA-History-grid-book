@@ -5088,11 +5088,13 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-music.md
 
 ### 2026-10-03 | [LOCAL] T-634 | education: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: parts 1-2: 71 FIXED, 2 REJECTED, 1 NR. 320,154 tokens (opus).
 CHECKPOINT: control/checkpoints/F7-education.md
 
 ### 2026-10-03 | [LOCAL] T-635 | education: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  education / prose. 278989 tokens, 173 tools, 10.3 min (opus). part3: 66 FIXED, 1 REJECTED (with T-634 parts 1-2: 71 FIXED)
 CHECKPOINT: control/checkpoints/F7-education.md
 
 ### 2026-10-03 | [LOCAL] T-636 | religion: STEP 7 FIXER wave B2 | model opus
