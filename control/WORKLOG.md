@@ -5138,5 +5138,6 @@ STATUS: DONE
 RESULT: outlines match manuscript (684 slugs); Wiley removed; Curtis 1807; BOOK-OUTLINE rebuilt. Story order differs in 20 chapters (cosmetic). 91,995 tokens (opus).
 
 ### 2026-10-03 | [LOCAL] T-642 | afterword: How We Know | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: afterword at manuscript/_afterword/how-we-know.md, ~3,500 words, 0/0 punct; plain Markdown, the viewer does not show it yet (full-book build must add it). 206,791 tokens (opus).
 USAGE at launch 72%.
