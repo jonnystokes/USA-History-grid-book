@@ -5141,3 +5141,6 @@ RESULT: outlines match manuscript (684 slugs); Wiley removed; Curtis 1807; BOOK-
 STATUS: DONE
 RESULT: afterword at manuscript/_afterword/how-we-know.md, ~3,500 words, 0/0 punct; plain Markdown, the viewer does not show it yet (full-book build must add it). 206,791 tokens (opus).
 USAGE at launch 72%.
+
+### 2026-10-03 | [LOCAL] T-643 | full-book build + viewer check | model opus
+STATUS: IN-FLIGHT

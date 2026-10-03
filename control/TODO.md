@@ -9,7 +9,15 @@ Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ---
 
-## NOW
+## NOW (2026-10-03)
+
+**STEPS 1-6 COMPLETE. STEP 7 nearly done.** All 37 chapters fixed on the second-audit findings (T-600..T-639,
+plan in control/STEP7-PLAN.md) and passing; POLISH-1 (T-640) cleared the book-wide items; outlines rebuilt to match
+(T-641); afterword written at manuscript/_afterword/how-we-know.md (T-642); full-book build running (T-643).
+Manuscript ~817,000 words, 684 stories verified. Next: Jon's read of build/, then the final render (step 8).
+Open small items: the NEEDS-RESEARCH lines in control/checkpoints/F7-*.md and the unclosed AUDIT-QUEUE items.
+
+
 
 NOW-RUNNING: T-486 news-communication (RESEARCH round 2 R4-culture: news-communication music storytelling-evolution sports-play styles art holidays)
 
