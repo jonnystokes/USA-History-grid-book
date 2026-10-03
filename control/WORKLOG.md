@@ -5106,10 +5106,12 @@ STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-religion.md
 
 ### 2026-10-03 | [LOCAL] T-638 | rights-movements: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: parts 1-2: 88 FIXED, 2 REJECTED. 341,309 tokens (opus).
 CHECKPOINT: control/checkpoints/F7-rights-movements.md
 
 ### 2026-10-03 | [LOCAL] T-639 | rights-movements: STEP 7 FIXER wave B2 | model opus
-STATUS: IN-FLIGHT
+STATUS: DONE
+RESULT: PASS  rights-movements / prose. 372201 tokens, 201 tools, 12.5 min (opus). part3: 101 FIXED, 5 REJECTED; Chavez #46, Peck/Bergman, Griffin and Korematsu corrected
 CHECKPOINT: control/checkpoints/F7-rights-movements.md
 USAGE: wave B1 60% -> 89% (6 fixers ~4.8% each). Wave B2 (14 agents, final 11 chapters) launched at 0% after reset 13:13 UTC.
