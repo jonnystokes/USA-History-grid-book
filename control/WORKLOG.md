@@ -4929,8 +4929,8 @@ CHECKPOINT: control/checkpoints/F7-economy.md
 STATUS: IN-FLIGHT
 CHECKPOINT: control/checkpoints/F7-work-workers.md
 
-### 2026-10-02 | [LOCAL] T-602 | elements: STEP 7 FIXER (round-2 findings) | model opus
-STATUS: IN-FLIGHT
+### 2026-10-02 | STATUS: DONE
+RESULT: DONE. r2 findings: 80 FIXED, 7 REJECTED, +10 found by fixer; Dulany fixed, Cherokee deaths added (#36); PASS prose. 311,787 tokens, 160 tools, 10.8 min (opus).
 CHECKPOINT: control/checkpoints/F7-elements.md
 
 ### 2026-10-02 | [LOCAL] T-603 | technology: STEP 7 FIXER (round-2 findings) | model opus

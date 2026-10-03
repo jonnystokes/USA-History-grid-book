@@ -56,6 +56,7 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 42 | (2026-10-02) Dating a fact that is still changing (director) | "As of September 2026" on a court case, count or policy that may change is a date on the fact, not a fourth-wall break. It is never phrased as a comment about the book ("at the time of writing") |
 | 43 | (2026-10-02) Uncharged people named in news reports (director, under #28 rule 5) | A person who has not been charged may be named only as the report names them, credited to the report ("The Minnesota Star Tribune named the officer as..."), never as a finding of guilt in the book's own voice |
 | 44 | (2026-10-02) Mass deaths told plainly (director, under #28 rule 1) | "Died" alone is softening when people were killed: Jonestown says most of the dead were made to drink poison, many of them children, and some were shot, with who ordered it as the record shows. Enslaved people used in medical work could not refuse, and the book says so |
+| 45 | (2026-10-02) Saying a record is silent (director) | "No surviving record names..." is used only when the bank shows a real search (a SEARCHED, NOT FOUND entry or several sources). When only one or two named sources are silent, say so about them: "The 2016 state report does not name who..." That names a historical document, not the book's research, so it is not a fourth-wall break. Never "the sources we checked" |
 
 ## Consequences already applied
 
