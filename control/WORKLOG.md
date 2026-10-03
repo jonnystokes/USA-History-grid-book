@@ -5132,3 +5132,10 @@ STATUS: DONE
 RESULT: Wikipedia 0 in prose, In plain words 0, Sally/DC/Attica/WK/Baird/1964-65 done; Spiro and Kendi not confirmable. 13 chapters PASS. 268,121 tokens (opus).
 CHECKPOINT: control/checkpoints/POLISH-1.md
 USAGE at launch 67%.
+
+### 2026-10-03 | [LOCAL] T-641 | outlines: rebuild (Wiley, Curtis, slug match) | model opus
+STATUS: IN-FLIGHT
+
+### 2026-10-03 | [LOCAL] T-642 | afterword: How We Know | model opus
+STATUS: IN-FLIGHT
+USAGE at launch 72%.
