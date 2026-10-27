@@ -310,16 +310,67 @@ def render_story(attrs, lines):
                     warn(f"story {attrs.get('slug')}: heading {title!r} != name {name!r}")
                 body = body[i + 1:]
             break
-    return (f'<section class="story" id="story-{html.escape(attrs.get("slug", ""))}">'
+    return (f'<section class="story" data-b="{next_b()}" id="story-{html.escape(attrs.get("slug", ""))}">'
             f"<h4>{inline(title)}</h4>\n{md_blocks(body, head_shift=2)}</section>")
 
 
 def render_zoom(attrs, lines, cls="zoom"):
     out = []
+    b = ""
     if attrs.get("level") == "span" and attrs.get("label"):
         out.append(f'<h4 class="span">{inline(attrs["label"])}</h4>')
+        b = f' data-b="{next_b()}"'
     out.append(md_blocks(lines, head_shift=2))
-    return f'<div class="{cls}">' + "\n".join(out) + "</div>"
+    return f'<div class="{cls}"{b}>' + "\n".join(out) + "</div>"
+
+
+# ---------- page-break targets ----------
+# Every heading gets a break target: the story box or span block it opens, or the heading itself.
+# tools/make_pdf.py forces a page break before a target whose heading lands in the bottom half
+# of a page. data-b numbers are unique across the whole book.
+_b = [0]
+
+
+def next_b():
+    _b[0] += 1
+    return _b[0]
+
+
+WRAP_HEAD = re.compile(r'<(?:section|div)\b[^>]*\bdata-b="(\d+)"[^>]*>\s*<h([1-6])\b([^>]*)>(.*?)</h\2>'
+                       r'|<h([1-6])\b([^>]*)>(.*?)</h\5>', re.S)
+
+
+def tag_headings(fragment):
+    """Give every heading not already covered by a wrapper target its own data-b.
+    Returns (new_fragment, heads): heads lists, in document order, one dict per heading
+    with its target b, kind (chapter, era, span, story, matter, other), text and element id."""
+    heads = []
+
+    def plain(s):
+        return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", s))).strip()
+
+    def sub(m):
+        if m.group(1):  # wrapper with its heading
+            whole = m.group(0)
+            kind = "story" if whole.startswith("<section") else "span"
+            heads.append({"b": int(m.group(1)), "kind": kind, "text": plain(m.group(4)), "id": None})
+            return whole
+        lvl, attrs, inner = m.group(5), m.group(6), m.group(7)
+        bm = re.search(r'data-b="(\d+)"', attrs)
+        if bm:
+            b = int(bm.group(1))
+        else:
+            b = next_b()
+            attrs += f' data-b="{b}"'
+        cls = re.search(r'class="([^"]*)"', attrs)
+        cls = cls.group(1) if cls else ""
+        kind = ("chapter" if "chapter" in cls else "era" if "era" in cls else
+                "part" if "part" in cls or "book" in cls else "other")
+        idm = re.search(r'id="([^"]*)"', attrs)
+        heads.append({"b": b, "kind": kind, "text": plain(inner), "id": idm.group(1) if idm else None})
+        return f"<h{lvl}{attrs}>{inner}</h{lvl}>"
+
+    return WRAP_HEAD.sub(sub, fragment), heads
 
 
 def render_matter(m, cls):
@@ -329,8 +380,14 @@ def render_matter(m, cls):
 
 
 # ---------- assemble ----------
+# Page geometry. tools/make_pdf.py reads PAGE_H, MARGIN_TOP and MARGIN_BOTTOM (points) to find the
+# middle of the text area, so keep them in step with the @page rule below.
+PAGE_H, MARGIN_TOP, MARGIN_BOTTOM = 792.0, 0.85 * 72, 0.95 * 72
+
 CSS = """
-@page { size: letter; margin: 0.85in 0.9in 0.95in 0.9in; }
+@page { size: letter; margin: 0.85in 0.9in 0.95in 0.9in;
+  @bottom-center { content: counter(page); font: 9pt "Segoe UI", Calibri, Arial, sans-serif; color: #777; } }
+@page cover { @bottom-center { content: none; } }
 :root { --ink:#1d1d1f; --dim:#5a5a5f; --accent:#1f4e79; --rule:#d6d6d6; --soft:#f4f6f9; --bg:#fffefb; }
 @media (prefers-color-scheme: dark) { @media screen {
   :root { --ink:#e6e6e6; --dim:#a8a8ad; --accent:#8cb8e6; --rule:#3a3a3e; --soft:#24262b; --bg:#17181b; } } }
@@ -338,11 +395,14 @@ CSS = """
 html { font-size: 12pt; }
 body { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif; color: var(--ink);
   background: var(--bg); line-height: 1.6; margin: 0 auto; max-width: 42em; padding: 2em 16px 4em; }
-@media print { body { max-width: none; padding: 0; background: #fff; } html { font-size: 11.5pt; } }
-h1, h2, h3, h4 { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: var(--accent);
-  line-height: 1.25; break-after: avoid; }
-h1.book { font-size: 2.4em; text-align: center; margin: 3em 0 0.3em; }
-p.sub { text-align: center; color: var(--dim); }
+@media print { body { max-width: none; padding: 0; background: #fff; } html { font-size: 11.5pt; }
+  a { color: inherit; } }
+h1, h2, h3, h4, h5, h6 { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: var(--accent);
+  line-height: 1.25; break-after: avoid; break-inside: avoid; }
+.cover { page: cover; text-align: center; }
+h1.book { font-size: 2.6em; margin: 5.5em 0 0.4em; }
+p.sub { text-align: center; color: var(--dim); font-size: 1.1em; }
+p.ages { text-align: center; color: var(--dim); margin-top: 1.5em; }
 h1.part { font-size: 1.9em; text-align: center; margin: 4em 0 0.5em; break-before: page; }
 p.partno { text-align: center; color: var(--dim); text-transform: uppercase; letter-spacing: .12em;
   margin-top: 6em; break-before: page; }
@@ -352,24 +412,48 @@ h2.chapter { font-size: 1.75em; border-bottom: 2px solid var(--accent); padding-
 h3.era { font-size: 1.3em; border-bottom: 1px solid var(--rule); padding-bottom: .1em; margin-top: 2em; }
 h4 { font-size: 1.05em; margin: 1.4em 0 .4em; }
 p { margin: .55em 0; orphans: 3; widows: 3; }
+li { orphans: 2; widows: 2; }
 .story { background: var(--soft); border-left: 4px solid var(--accent); padding: .3em 1em .6em;
-  margin: 1.2em 0; border-radius: 3px; }
+  margin: 1.2em 0; border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .story h4 { margin-top: .6em; }
-.records { font-size: .92em; color: var(--dim); margin: .4em 0 .8em; }
+.records { font-size: .92em; color: var(--dim); margin: .4em 0 .8em; break-inside: avoid; }
 .rec { margin: .15em 0; }
 .rec .k { font-weight: bold; color: var(--ink); }
 nav.toc { break-after: page; }
-nav.toc ol { padding-left: 1.4em; }
-nav.toc li { margin: .15em 0; }
-nav.toc .tp { font-weight: bold; margin-top: .8em; list-style: none; margin-left: -1.4em; color: var(--accent); }
+nav.toc ul { list-style: none; padding: 0; margin: 0; }
+nav.toc li { display: flex; align-items: baseline; gap: .4em; margin: .2em 0; break-inside: avoid; }
+nav.toc li a { flex: 0 1 auto; }
+nav.toc li .lead { flex: 1 1 auto; border-bottom: 1px dotted var(--rule); min-width: 1em;
+  transform: translateY(-.25em); }
+nav.toc li .pg { flex: 0 0 2.6em; text-align: right; font-variant-numeric: tabular-nums; }
+nav.toc li .n { display: inline-block; min-width: 1.7em; color: var(--dim); }
+nav.toc li.tp { margin-top: .9em; font-weight: bold; color: var(--accent); break-after: avoid; }
 a { color: var(--accent); text-decoration: none; }
 ul { padding-left: 1.5em; }
 section.introduction h2, section.matter h2 { break-before: page; }
 .chapter-opening, .chapter-closing { background: var(--soft); padding: .3em 1em .6em; margin: 1.2em 0;
-  border-radius: 3px; }
+  border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .chapter-closing { border-top: 2px solid var(--accent); margin-top: 2em; }
-nav.toc .time { color: var(--dim); font-size: .9em; }
+nav.toc .time { color: var(--dim); font-size: .85em; white-space: nowrap; }
 """
+
+
+def chapter_page_css(chapters):
+    """One named page per chapter: its footer carries the chapter's number and title."""
+    rules = []
+    for c in chapters:
+        label = f'Chapter {int(c["num"])} \\00B7  {c["title"]}'.replace('"', '\\"')
+        rules.append(f'@page ch{int(c["num"])} {{ @bottom-center {{ content: "{label}   \\00B7   " counter(page); }} }}')
+    return "\n".join(rules)
+
+
+SEGMENTS = []   # filled by build(): [{"name", "html", "heads"}]; each one starts on a fresh page
+
+
+def toc_line(href, label, num="", time=""):
+    n = f'<span class="n">{num}</span>' if num else ""
+    return (f'<li><a href="#{href}">{n}{label}</a>{time}<span class="lead"></span>'
+            f'<span class="pg" data-for="{href}"></span></li>')
 
 
 def build():
@@ -379,31 +463,40 @@ def build():
     before, after = load_matters()
     for c in chapters:
         load_chapter(c)
-    body = [f'<h1 class="book">{BOOK_TITLE}</h1>',
-            f'<p class="sub">{len(chapters)} chapters, each told across the same ten eras</p>']
+    SEGMENTS.clear()
+
+    def segment(name, fragment):
+        frag, heads = tag_headings(fragment)
+        SEGMENTS.append({"name": name, "html": frag, "heads": heads})
+
+    cover = ('<div class="cover">'
+             f'<h1 class="book">{BOOK_TITLE}</h1>'
+             f'<p class="sub">{len(chapters)} chapters, each told across the same ten eras</p></div>')
     # table of contents
-    toc = ['<nav class="toc"><h2>Contents</h2><ol>']
-    toc += [f'<li class="tp"><a href="#{m["id"]}">{inline(m["toc"])}</a></li>' for m in before]
+    toc = ['<nav class="toc"><h2>Contents</h2><ul>']
+    toc += [toc_line(m["id"], inline(m["toc"])) for m in before]
     last_part = None
     for c in chapters:
         if c["part"] != last_part:
             last_part = c["part"]
             toc.append(f'<li class="tp">Part {last_part}: {html.escape(parts.get(last_part, ""))}</li>')
-        time = f' <span class="time">· about {c["card_minutes"]} minutes</span>' if c["card_minutes"] else ""
-        toc.append(f'<li value="{int(c["num"])}"><a href="#ch-{c["slug"]}">{html.escape(c["title"])}</a>{time}</li>')
-    toc += [f'<li class="tp"><a href="#{m["id"]}">{inline(m["toc"])}</a></li>' for m in after]
-    toc.append('</ol></nav>')
-    body.append("\n".join(toc))
+        time = f' <span class="time">about {c["card_minutes"]} min</span>' if c["card_minutes"] else ""
+        toc.append(toc_line(f'ch-{c["slug"]}', html.escape(c["title"]), int(c["num"]), time))
+    toc += [toc_line(m["id"], inline(m["toc"])) for m in after]
+    toc.append('</ul></nav>')
     # front matter and introduction: each file's # heading becomes h2, ## becomes h3
-    for m in before:
-        body.append(render_matter(m, "introduction" if m["id"] == "introduction" else "matter"))
+    segment("front", cover + "\n".join(toc) + "\n"
+            + "\n".join(render_matter(m, "introduction" if m["id"] == "introduction" else "matter")
+                        for m in before))
 
     last_part = None
     for c in chapters:
+        body = []
         if c["part"] != last_part:
             last_part = c["part"]
             body.append(f'<p class="partno">Part {last_part}</p>'
                         f'<h1 class="part">{html.escape(parts.get(last_part, ""))}</h1>')
+        body.append(f'<div class="chap" style="page: ch{int(c["num"])}">')
         body.append(f'<h2 class="chapter" id="ch-{c["slug"]}">Chapter {int(c["num"])}: {html.escape(c["title"])}</h2>')
         if c["opening"]:
             body.append(render_zoom(c["opening"][1], c["opening"][2], "zoom chapter-opening"))
@@ -411,24 +504,33 @@ def build():
             title = e["heading"] or e["label"]
             if e["heading"] and e["label"] and e["heading"] != e["label"]:
                 warn(f'{c["slug"]} era {e["order"]}: heading {e["heading"]!r} != label {e["label"]!r}')
-            body.append(f'<h3 class="era">{inline(title)}</h3>')
+            body.append(f'<h3 class="era" data-b="{next_b()}">{inline(title)}</h3>')
             if not e["blocks"]:
                 warn(f'{c["slug"]} era {e["order"]} ({e["label"]}): no zoom or story blocks')
             for kind, attrs, lines in e["blocks"]:
                 body.append(render_story(attrs, lines) if kind == "story" else render_zoom(attrs, lines))
         if c["closing"]:
             body.append(render_zoom(c["closing"][1], c["closing"][2], "zoom chapter-closing"))
-    # back matter
+        body.append("</div>")
+        segment(f'ch{int(c["num"]):02d}-{c["slug"]}', "\n".join(body))
+    # back matter: one segment per file, each starts on its own page
     for m in after:
-        body.append(render_matter(m, "matter"))
+        segment(f'back-{m["id"]}', render_matter(m, "matter"))
 
-    page = ("<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
+    out = write_page("".join(s["html"] + "\n" for s in SEGMENTS), chapters)
+    return out
+
+
+def page_head(chapters, extra_css=""):
+    return ("<!doctype html>\n<html lang=\"en\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
-            f"<title>{BOOK_TITLE}</title><style>{CSS}</style></head><body>\n"
-            + "\n".join(body) + "\n</body></html>\n")
+            f"<title>{BOOK_TITLE}</title><style>{CSS}\n{chapter_page_css(chapters)}\n{extra_css}</style></head><body>\n")
+
+
+def write_page(body_html, chapters, extra_css="", name="history-book.html"):
     OUT.mkdir(exist_ok=True)
-    out = OUT / "history-book.html"
-    out.write_text(page, encoding="utf-8")
+    out = OUT / name
+    out.write_text(page_head(chapters, extra_css) + body_html + "</body></html>\n", encoding="utf-8")
     return out
 
 
@@ -465,10 +567,8 @@ if __name__ == "__main__":
     wc = word_count(out)
     print(f"HTML: {out} ({out.stat().st_size/1024:.0f} KB), words: {wc:,}")
     if "--pdf" in sys.argv:
-        pdf = OUT / "history-book.pdf"
-        r = subprocess.run(["pwsh", "-NoProfile", "-File", str(HTML2PDF), "-Html", str(out), "-Pdf", str(pdf)],
-                           capture_output=True, text=True)
-        print((r.stdout + r.stderr).strip())
+        import make_pdf  # tools/make_pdf.py: page breaks, contents page numbers, final PDF
+        make_pdf.main(sys.modules[__name__])
     print(f"warnings: {len(warnings)}")
     for w in warnings:
         print("  WARN", w)
