@@ -54,25 +54,54 @@ def prose_words(text):
 RE_ENTITY = re.compile(r'&#?\w+;')
 
 
-def punctuation(text):
-    """Em dashes (U+2014) and semicolons (U+003B) in reader-facing text.
+# Marker values the book prints as headings: tools/build_full_book.py makes a span label= an
+# <h4>, an era's label= its heading when the era has no ## line, and a story's name= its title
+# when the box has no ### heading; tools/build_full_book_md.py does the same in the Markdown book.
+SHOWN_MARKS = ("hb-zoom", "hb-story", "hb-time")
+SHOWN_ATTRS = ("label", "name")
 
-    Added 2026-09-26 with writing style guide v2, which forbids both and requires every
-    draft to return zero matches for each. Counts every line a reader can see: prose,
-    headings and story blockquotes. Skips marker lines, hb-note blocks (editor notes)
-    and HTML entities such as &amp;.
+
+def reader_lines(text):
+    """Yield (line number, text) for every line of a grid file that a reader can see.
+
+    Prose, headings and story blockquotes come whole. A marker line gives only the label= and
+    name= values of an hb-zoom, hb-story or hb-time marker, because the book prints those as
+    headings. Skipped: every other marker line and HTML comment, and hb-note blocks (editor
+    notes), opened by <!-- hb-note --> or <!-- hb-note:start --> and closed by <!-- /hb-note -->
+    or <!-- hb-note:end -->. punctuation() and the --punct listing both read through this, so
+    they always count the same lines.
     """
-    dash = semi = 0
     in_note = False
-    for line in text.split("\n"):
+    for no, line in enumerate(text.split("\n"), 1):
         m = RE_MARK.match(line)
         if m:
             slash, name, se, tail = m.groups()
             if name == "hb-note":
-                in_note = not slash
+                # hb-note:end has no slash; before 2026-10-27 it switched the check off for
+                # the rest of the file (T-705).
+                in_note = se == ":start" or (not se and not slash)
+            elif name in SHOWN_MARKS:
+                shown = ['%s="%s"' % kv for kv in RE_ATTR.findall(tail) if kv[0] in SHOWN_ATTRS]
+                if shown:
+                    yield no, " ".join(shown)
             continue
         if in_note or line.strip().startswith("<!--"):
             continue
+        yield no, line
+
+
+def punctuation(text):
+    """Em dashes (U+2014) and semicolons (U+003B) in reader-facing text.
+
+    Added 2026-09-26 with writing style guide v2, which forbids both and requires every
+    draft to return zero matches for each. Counts every line a reader can see (see
+    reader_lines): prose, headings, story blockquotes, and since 2026-10-27 (T-705) the
+    label= and name= values of hb-zoom, hb-story and hb-time markers, which the book prints
+    as headings. Skips other marker lines, hb-note blocks (editor notes) and HTML entities
+    such as &amp;.
+    """
+    dash = semi = 0
+    for _no, line in reader_lines(text):
         clean = RE_ENTITY.sub("", line)
         dash += clean.count("\u2014")
         semi += clean.count(";")
@@ -322,21 +351,14 @@ def main():
     args = sys.argv[1:]
     if "--punct" in args:
         # Per-file em dash / semicolon finder for writers (style guide v2). Lists every
-        # reader-facing line that still holds one, with its line number.
+        # reader-facing line that still holds one, with its line number. For a marker line
+        # it prints the label= / name= values it counted (see reader_lines).
         path = args[args.index("--punct") + 1]
         with open(path, encoding="utf-8") as f:
             text = f.read()
         dash, semi = punctuation(text)
         print("%s: emdash=%d semicolon=%d" % (path, dash, semi))
-        in_note = False
-        for no, line in enumerate(text.split("\n"), 1):
-            m = RE_MARK.match(line)
-            if m:
-                if m.group(2) == "hb-note":
-                    in_note = not m.group(1)
-                continue
-            if in_note or line.strip().startswith("<!--"):
-                continue
+        for no, line in reader_lines(text):
             clean = RE_ENTITY.sub("", line)
             if "\u2014" in clean or ";" in clean:
                 print("  %5d: %s" % (no, line.strip()[:110]))
