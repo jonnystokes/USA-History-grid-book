@@ -28,7 +28,7 @@ A woman's daughters and granddaughters lived in their longhouse all their lives.
 <!-- hb-zoom level="span" label="The earth lodge" -->
 Among the Mandan, Hidatsa and Arikara nations on the upper Missouri River, women built the houses and owned them. Their house was the earth lodge, a dome made of timber and packed over with earth. An older woman directed the building, and women kept the lodge in repair.
 
-One earth lodge held about 10 to 20 people, most often sisters and their families. Some lodges held as many as 30. A lodge lasted about ten years, and then the women built it again. The large villages had more than 100 lodges each.
+One earth lodge held about 10 to 20 people, most often sisters and their families. Markers put up by the State Historical Society of North Dakota state that most lodges were 35 to 45 feet across, and that one lodge took about 150 trees to build. A lodge lasted about ten years, and then the women built it again. The large villages had more than 100 lodges each.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pueblos, wigwams and tipis" -->

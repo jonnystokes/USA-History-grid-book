@@ -2237,6 +2237,24 @@ All Handicapped Children Act, 1975"). Copied here as law, with those sources:
   with disabilities excluded entirely from the education system." (https://sites.ed.gov/idea/IDEA-History ,
   as quoted in the education bank. The page returned HTTP 403 on 2026-09-27.)
 
+### PATCH 2026-10-26 (T-653): Era 9, who kept children with disabilities out of school before 1975
+
+- US Department of Education, "A History of the Individuals with Disabilities Education Act"
+  (https://sites.ed.gov/idea/IDEA-History , opened with curl 2026-10-26, HTTP 200): "In 1970, U.S.
+  schools educated only one in five children with disabilities, and many states had laws excluding
+  certain students, including children who were deaf, blind, emotionally disturbed, or had an
+  intellectual disability." The 1975 law "was a response to Congressional concern for two groups of
+  children: the more than 1 million children with disabilities excluded entirely from the education
+  system and the children with disabilities who had only limited access to the education system."
+  The page adds that *Pennsylvania Association for Retarded Citizens v. Commonwealth* (1971) and
+  *Mills v. Board of Education of the District of Columbia* (1972) "established the responsibility
+  of states and localities to educate children with disabilities." (Mills opinion on Justia: 403 and
+  a Cloudflare check; not opened.)
+- So the page names state laws as the means of exclusion. It names no individual officials.
+- Prose (part 3, row 22): the sentence "It does not say which officials kept those children out" is
+  replaced by the state-laws fact, with the four groups of children and plain meanings of
+  "intellectual disability" and "emotionally disturbed."
+
 ### PATCH 2026-09-30 (T-333f): Era 9, who could grant a charter under Minnesota's 1991 law
 
 Copied from `research/research-education.md` ("The first charter school law, and the first charter

@@ -690,6 +690,10 @@ Sources opened this pass:
 Sources checked: DIG 2019 (names Gamble and the Puerto Rico Reconstruction Administration; "industrial employers," no company named), Díaz, HNN (no employer or hospital named), Kollross, *Ms.* 2026 (factory clinics and hospital rules, no company or hospital named), a web search for named factories and Operation Bootstrap employers (search summaries only, no names). No opened source names an employer or a hospital.
 How the prose can say it: name Gamble and his clinics' rule; say "No surviving record names the factory owners or the hospitals."
 
+### SEARCHED, NOT FOUND 2026-10-26 (T-653): Which factories and hospitals pressured Puerto Rican women (second try, Briggs and López)
+Sources checked: Laura Briggs, *Reproducing Empire* (UC Press, 2002/2003): only catalog pages and the table of contents opened (chapter "The Politics of Sterilization, 1937-1974"); Google Books search refused (API daily quota exceeded, HTTP 429); no review quoting a named factory or hospital found. Iris López, *Matters of Choice* (Rutgers, 2008): catalog and publisher pages only (the book follows sterilized Puerto Rican women of five families in Brooklyn). Iris López, "Sterilization and the Ethics of Reproductive Technology: An Integral Approach," *Scholar & Feminist Online* (Barnard), pages 1 to 5 opened with curl 2026-10-26 (https://sfonline.barnard.edu/reprotech/lopez_03.htm and siblings): speaks of "hospitals" and "family planning clinics" in general, names no factory, company or hospital. A web search for San Juan hospitals' postpartum sterilization rules returned only Wikipedia and summaries (a 1949 survey: 18 percent of hospital deliveries followed by sterilization; doctors as the main promoters), no named hospital.
+Result: no source opened names a factory or a hospital. The prose ("The historians' accounts do not name the factories or the hospitals.") stands.
+
 ## 09 · 1950 to 2000 (T-263c, 2026-09-27)
 
 Sources opened this pass:
