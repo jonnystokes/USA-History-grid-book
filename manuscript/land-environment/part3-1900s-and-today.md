@@ -14,19 +14,27 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Federal officials took charge of hundreds of millions of acres of land in these years. President Theodore Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909. The officials ran national forests, parks, bird refuges and monuments. Some of the protected land had belonged to Native nations. Glacier National Park was created in 1910. Most of it lies on land that federal officials count as sold by the Blackfeet in 1895. Before the sale, about 600 Blackfeet had starved to death in one winter. Many Blackfeet say they only rented the land out.
+**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
 
-The last passenger pigeon died in the Cincinnati Zoo in 1914, and in Yellowstone park managers poisoned wolves until they killed the park's last pack in 1926. Farmers had plowed up the grass that held the soil of the southern Plains, and in the 1930s that soil blew away. Forest Service leaders ordered crews in 1935 to bring every wildfire under control by 10 the next morning. Young men in the Civilian Conservation Corps planted billions of trees.
+President Theodore Roosevelt and the federal officials after him took charge of hundreds of millions of acres in the first half of the 1900s, and some of that land had belonged to Native nations. Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909, in national forests, parks, bird refuges and monuments.
+
+Glacier National Park, created in 1910, lies mostly on land that federal officials count as sold by the Blackfeet in 1895. Before the sale, about 600 Blackfeet had starved to death in one winter. Many Blackfeet say they only rented the land out.
+
+The last passenger pigeon died in the Cincinnati Zoo in 1914, and in Yellowstone park managers poisoned wolves until they killed the park's last pack in 1926. Farmers had plowed up the grass that held the soil of the southern Plains, and in the 1930s that soil blew away. Forest Service leaders ordered crews in 1935 to bring every wildfire under control by 10 the next morning, and young men in the Civilian Conservation Corps planted billions of trees.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Roosevelt's acres" -->
-From 1901 to 1909, President Theodore Roosevelt put about 230 million acres under federal protection. The land included 150 national forests, 5 national parks, the first 18 national monuments, 51 federal bird reservations and 4 national game preserves. Some counts combine the bird reservations and game preserves into one figure of 55. A national forest is public land where federal foresters manage the trees. Foresters are people who study forests and manage them. A bird reservation is land kept safe for wild birds, and a game preserve is land where wild animals are protected.
+The 230 million acres Roosevelt protected, an area bigger than Texas, included 150 national forests, 5 national parks, the first 18 national monuments, 51 federal bird reservations and 4 national game preserves. Some counts combine the bird reservations and game preserves into one figure of 55.
 
-Pelican Island, in Florida, became the first federal bird reservation when Roosevelt named it one on March 14, 1903. It became the first piece of what is now the National Wildlife Refuge System. The U.S. Forest Service began in 1905, with Gifford Pinchot as its first chief. Its foresters ran the national forests.
+A national forest is public land where federal foresters, people trained to study and manage forests, look after the trees. The U.S. Forest Service began in 1905, with Gifford Pinchot as its first chief, and its foresters ran the national forests.
 
-The Antiquities Act, which Roosevelt signed on June 8, 1906, let a president protect land by proclamation, which is an official announcement. Land protected this way is called a national monument. Devils Tower became the first one that September 24.
+**The first refuge.** Roosevelt named Pelican Island, in Florida, the first federal bird reservation on March 14, 1903. It became the first piece of what is now the National Wildlife Refuge System.
 
-Many national forests were made from the ancestral lands of Native nations, the lands their ancestors lived on. In 2018 Arthur Blazer, the president of the Mescalero Apache Tribe, told a Senate committee that the US Department of Agriculture, which runs the Forest Service, "has acknowledged that the vast majority of federal forest lands are carved out of the ancestral homelands of Indian tribes." Forest Service staff in North Carolina state that the national forests there lie on the ancestral lands of many Native nations. The staff of Olympic National Forest state that all the land in present-day Washington, national forests included, is the ancestral land of Native peoples. A Park Service web page states that Devils Tower is sacred to dozens of Native nations, including the Arapaho, Cheyenne, Crow, Kiowa, Lakota and Shoshone. The Lakota name for it is Mato Tipila, which means Bear Lodge.
+Roosevelt signed the Antiquities Act on June 8, 1906. Under it, a president could protect land by proclamation, an official announcement, and land protected this way is called a national monument. Devils Tower became the first one that September 24.
+
+**Whose land.** Many national forests were made from the ancestral lands of Native nations, the lands their ancestors lived on. Arthur Blazer, the president of the Mescalero Apache Tribe, told a Senate committee in 2018 that the US Department of Agriculture, which runs the Forest Service, "has acknowledged that the vast majority of federal forest lands are carved out of the ancestral homelands of Indian tribes."
+
+Forest Service staff say the same of the national forests in North Carolina, and the staff of Olympic National Forest say it of all the land in present-day Washington. A Park Service web page states that Devils Tower is sacred to dozens of Native nations, including the Arapaho, Cheyenne, Crow, Kiowa, Lakota and Shoshone. The Lakota name for it is Mato Tipila, which means Bear Lodge.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="theodore-roosevelt-land-environment" name="Theodore Roosevelt" movie="The Roosevelts: An Intimate History (2014)" kind="famous" status="verified" -->
@@ -36,51 +44,69 @@ Many national forests were made from the ancestral lands of Native nations, the 
 > **When and where:** The White House, 1901 to 1909. Yosemite, California, in May 1903.
 > **Movie:** *The Roosevelts: An Intimate History* (PBS, Ken Burns, 2014), a documentary about the whole Roosevelt family
 
-In May 1903 President Theodore Roosevelt went camping in Yosemite with John Muir, the first president of the Sierra Club. Muir wanted the best of the wild land left wild. The two men spent three nights sleeping in the open. They camped first under the Grizzly Giant, a giant sequoia tree, on May 15. Roosevelt slept under a pile of about 40 wool blankets. The next night, near Sentinel Dome, a snowstorm dropped five inches of new snow on top of about five feet of old snow. They spent the last night in a meadow near Bridalveil Fall.
+**Roosevelt slept under a pile of about 40 wool blankets.**
+
+President Theodore Roosevelt went camping in Yosemite with John Muir, the first president of the Sierra Club, in May 1903. Muir wanted the best of the wild land left wild. The two men spent three nights sleeping in the open.
+
+They camped first under the Grizzly Giant, a giant sequoia tree, on May 15, and that was the night of the blankets. The next night, near Sentinel Dome, a snowstorm dropped five inches of new snow on top of about five feet of old snow. They spent the last night in a meadow near Bridalveil Fall.
 <!-- hb-story:end slug="theodore-roosevelt-land-environment" -->
 
 <!-- hb-zoom level="span" label="Glacier and the Blackfeet" -->
 Most of Glacier National Park lies on land that federal officials say the Blackfeet sold to the United States in 1895. The deal came after a winter in which about 600 Blackfeet starved to death. Many Blackfeet say the tribe only rented the land out and never sold it.
 
-In 1870 US Army troops attacked Heavy Runner's camp of Piikani people on the Marias River and killed more than 200 men, women and children. The Piikani are one of the Blackfeet peoples. By 1880 hide hunters had killed nearly all the bison. Members of Congress then cut the money for annuities. Annuities were the food and goods that US officials had promised a tribe every year in a treaty, as payment for land.
+**Before the sale.** US Army troops attacked Heavy Runner's camp of Piikani people, one of the Blackfeet peoples, on the Marias River in 1870, and killed more than 200 men, women and children. By 1880 hide hunters had killed nearly all the bison. Members of Congress then cut the money for annuities, the food and goods that US officials had promised a tribe every year in a treaty as payment for land.
 
-Early storms held up supplies in the winter of 1883 and 1884. In December a wagonload of bacon reached the Blackfeet agency near Browning. An agency was the office of the US official who ran a reservation, which is land set aside for a Native nation to live on. The Montana Historical Society's textbook describes it as "so old it was contaminated with maggots." Maggots are the young of flies, and they feed on rotting meat. The textbook states that 600 Blackfeet died of starvation, about one in four of the tribe. Other accounts list counts from 500 to 800. The Assiniboine, another nation, lost about 300 people. That winter is known as the Starvation Winter.
+**The Starvation Winter.** Early storms held up supplies in the winter of 1883 and 1884. In December a wagonload of bacon reached the Blackfeet agency near Browning, the office of the US official who ran the reservation. The Montana Historical Society's textbook describes the bacon as "so old it was contaminated with maggots," the young of flies, which feed on rotting meat.
 
-No record names the person who sent the spoiled bacon. John Young had been the Indian agent for the Blackfeet since December 1876. An Indian agent was the US official in charge of a reservation. In 1881 Young went to Washington and got $15,000 put back into the reservation's budget. He protested against shrinking supplies and more cuts to the agency's budget. No one acted on his protests, and in September 1883 he resigned. The records do not name the officials who ignored him. The new agent, R. A. Allen, did not arrive until the middle of March 1884.
+The textbook states that 600 Blackfeet died of starvation, about one in four of the tribe. Other accounts give counts from 500 to 800. The Assiniboine, another nation, lost about 300 people. That winter is known as the Starvation Winter.
 
-The same textbook states: "After Starvation Winter, the tribes sold the only resource they had left: land." In 1895 the Blackfeet sold a strip of about 800,000 acres for $1.5 million. Prospectors, people who search for gold and other metals, hoped the strip held gold. Many Blackfeet say the tribe offered the land as a 99-year lease, which is a rental, and never sold it. They also say that because of a surveying mistake, US officials took another 45,000 acres. Under the agreement, the Blackfeet kept the right to hunt, fish, cut wood and gather plants on the land.
+No record names the person who sent the spoiled bacon. John Young had been the Blackfeet's Indian agent, the US official in charge of their reservation, since December 1876. He went to Washington in 1881 and got $15,000 put back into the reservation's budget. He protested against shrinking supplies and more cuts to the agency's budget.
+
+No one acted on his protests, and in September 1883 he resigned. The records do not name the officials who ignored him. The new agent, R. A. Allen, did not arrive until the middle of March 1884.
+
+**The sale.** The same textbook states: "After Starvation Winter, the tribes sold the only resource they had left: land." The Blackfeet sold a strip of about 800,000 acres in 1895 for $1.5 million. Prospectors, people who search for gold and other metals, hoped the strip held gold.
+
+Many Blackfeet say the tribe offered the land as a 99-year lease, which is a rental, and never sold it. They also say that because of a surveying mistake, US officials took another 45,000 acres. Under the agreement, the Blackfeet kept the right to hunt, fish, cut wood and gather plants on the land.
 
 Little Dog told the US commissioners, the officials sent to buy the land, that the Blackfeet "did not ask the government to come and buy their land." White Calf, a Piikani chief, said of Chief Mountain: "Chief Mountain is my head. Now my head is cut off."
 
-Prospectors found no gold. In 1897 the strip became a forest reserve. Forest reserves were public forest lands that a president could set aside under an 1891 law. On May 11, 1910, members of Congress made most of the strip Glacier National Park. After that, the Blackfeet's rights on the land "essentially vanished." Those words come from an article by the National Parks Conservation Association, a group that campaigns for the parks.
+**The park.** Prospectors found no gold. The strip became a forest reserve in 1897, under the 1891 law that let a president set aside public forest land. Members of Congress made most of the strip Glacier National Park on May 11, 1910. After that, an article by the National Parks Conservation Association states, the Blackfeet's rights on the land "essentially vanished."
 
-After the park was created, judges ruled that the Blackfeet's right to go into the mountains in the park no longer counted. A 2019 *High Country News* report states that hunting and fishing rights ended in 1910 and that only the right to gather plants remained. By 1912 a park ranger had arrested a Blackfeet tribal member for hunting in the park. The accounts of that arrest name neither the ranger nor the hunter. In 1932 a judge of a US District Court ruled that the Blackfeet had no right to hunt in the park. In 1973 a judge ruled that Blackfeet people could enter the park without paying the entrance fee.
+After the park was created, judges ruled that the Blackfeet's right to go into the mountains in the park no longer counted. A 2019 *High Country News* report states that hunting and fishing rights ended in 1910 and that only the right to gather plants remained. By 1912 a park ranger had arrested a Blackfeet tribal member for hunting in the park. The accounts of that arrest name neither the ranger nor the hunter.
+
+A judge of a US District Court ruled in 1932 that the Blackfeet had no right to hunt in the park. In 1973 a judge ruled that Blackfeet people could enter the park without paying the entrance fee.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hetch Hetchy" -->
-People who wanted to protect land split into two sides over Hetch Hetchy Valley. Conservation means protecting land, water and wildlife. Gifford Pinchot's side said conservation meant using the land carefully, forever. The side of John Muir, the first president of the Sierra Club, said the best of it should be left wild.
+People who wanted to protect land split into two sides over Hetch Hetchy Valley. Gifford Pinchot's side said conservation meant using the land carefully, forever. The side of John Muir, the first president of the Sierra Club, said the best of it should be left wild.
 
-Hetch Hetchy Valley lies inside Yosemite National Park. After the earthquake and fire of 1906, San Francisco's city leaders wanted the valley for a reservoir. A reservoir is a lake made by a dam to store water. Pinchot backed the city. Muir and the Sierra Club fought the dam for years.
+Hetch Hetchy Valley lies inside Yosemite National Park. After the earthquake and fire of 1906, San Francisco's city leaders wanted the valley for a reservoir, a lake made by a dam to store water. Pinchot backed the city. Muir and the Sierra Club fought the dam for years.
 
-Members of Congress sided with the city and passed the Raker Act. The act let the city dam the valley. President Wilson signed it on December 19, 1913. Muir died a year later, on December 24, 1914. The O'Shaughnessy Dam was finished in 1923, and the valley is under water today.
+Members of Congress sided with the city and passed the Raker Act, which allowed the city to dam the valley. President Wilson signed it on December 19, 1913. Muir died a year later, on December 24, 1914. The O'Shaughnessy Dam was finished in 1923, and the valley is under water today.
 
-On August 25, 1916, members of Congress passed the National Park Service Organic Act. With it they created a new federal office, the National Park Service, whose officials took charge of protecting the parks. Lawmakers passed it partly in reaction to the Hetch Hetchy fight.
+Members of Congress passed the National Park Service Organic Act on August 25, 1916, partly in reaction to the Hetch Hetchy fight. With it they created a new federal office, the National Park Service, whose officials took charge of protecting the parks.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="gifford-pinchot" name="Gifford Pinchot" movie="Seeking the Greatest Good (2013)" kind="famous" status="verified" -->
 ### Gifford Pinchot
 
-> **Who:** The first American trained as a professional forester, and the first chief of the U.S. Forest Service. Later he was twice governor of Pennsylvania.
+> **Who:** The first American trained as a professional forester, and the first chief of the U.S. Forest Service, until President Taft fired him. Later he was twice governor of Pennsylvania.
 > **When and where:** He lived from 1865 to 1946. He ran the Forest Service from 1905 to 1910.
 > **Movie:** *Seeking the Greatest Good* (WVIA and PBS, 2013)
 
-Gifford Pinchot was the first American trained as a professional forester. A forester is a person who studies forests and manages them. He defined conservation as "the greatest good to the greatest number for the longest time." To Pinchot, that meant using the public lands carefully and keeping them useful forever.
+**President Taft fired him on January 7, 1910.**
 
-Pinchot became the first chief of the Forest Service in 1905. In 1909 a federal land investigator, Louis Glavis, accused Secretary of the Interior Richard A. Ballinger of mishandling claims to federal coal lands in Alaska. A claim here was a legal right to mine a piece of public land. Pinchot took Glavis's side. In early January 1910, Pinchot had Senator Jonathan Dolliver of Iowa read a letter to Congress that attacked Ballinger. President Taft stood by Ballinger and fired Pinchot on January 7, 1910, for refusing to obey his bosses. The fight became known as the Ballinger dispute. Pinchot and John Muir had been friends until they took opposite sides over Hetch Hetchy. Pinchot later served two terms as governor of Pennsylvania.
+Gifford Pinchot was the first American trained as a professional forester. He defined conservation as "the greatest good to the greatest number for the longest time." To Pinchot, that meant using the public lands carefully and keeping them useful forever.
+
+Pinchot became the first chief of the Forest Service in 1905. In 1909 a federal land investigator, Louis Glavis, accused Secretary of the Interior Richard A. Ballinger of mishandling claims to federal coal lands in Alaska, which were legal rights to mine pieces of that land. Pinchot took Glavis's side.
+
+Pinchot had Senator Jonathan Dolliver of Iowa read a letter that attacked Ballinger to Congress in early January 1910. President Taft stood by Ballinger and fired Pinchot for refusing to obey his bosses. The fight became known as the Ballinger dispute.
+
+Pinchot and John Muir had been friends until they took opposite sides over Hetch Hetchy. Pinchot later served two terms as governor of Pennsylvania.
 <!-- hb-story:end slug="gifford-pinchot" -->
 
 <!-- hb-zoom level="span" label="The last passenger pigeons" -->
-The passenger pigeon died out on September 1, 1914, when the last bird of the species died at the Cincinnati Zoo. The last wild one that anyone confirmed was shot in Ohio in 1900. A few people reported seeing wild passenger pigeons until about 1902. No one confirmed those sightings.
+The passenger pigeon died out on September 1, 1914, when the last bird of the species died at the Cincinnati Zoo. In about a century, the species had gone from an estimated 3 to 5 billion birds to none. The last wild one that anyone confirmed was shot in Ohio in 1900. A few people reported seeing wild passenger pigeons until about 1902, and no one confirmed those sightings.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="press-clay-southworth" name="Press Clay Southworth" movie="" kind="ordinary" status="verified" -->
@@ -89,29 +115,37 @@ The passenger pigeon died out on September 1, 1914, when the last bird of the sp
 > **Who:** A 14-year-old boy who shot the last confirmed wild passenger pigeon.
 > **When and where:** Pike County, Ohio, on March 24, 1900.
 
-On March 24, 1900, Press Clay Southworth, age 14, shot a passenger pigeon in Pike County, Ohio. He asked his mother first, then used his family's 12-gauge shotgun. His bird is the last wild passenger pigeon that anyone has confirmed. His family had it mounted, which means stuffed and set up for display. It got buttons for eyes, so people called it "Buttons." The Ohio History Connection, in Columbus, keeps it today. Southworth told the story himself decades later.
+**His family stuffed the bird and gave it buttons for eyes.**
 
-The last passenger pigeon of all was a bird named Martha. She died at the Cincinnati Zoo on September 1, 1914, at about 29 years old. Her body was frozen in a 300-pound block of ice and shipped to the Smithsonian Institution, which still has it. Sol Stephan, the zoo's general manager, had cared for Martha, and he saved her feathers in a cigar box. His accounts of where Martha came from changed over the years. The zoo's own records do not agree with each other about her either.
+Press Clay Southworth, age 14, shot a passenger pigeon in Pike County, Ohio, on March 24, 1900. He asked his mother first, then used his family's 12-gauge shotgun. His bird is the last wild passenger pigeon that anyone has confirmed. Southworth told the story himself decades later.
+
+His family had the bird mounted, which means stuffed and set up for display. It got buttons for eyes, so people called it "Buttons." The Ohio History Connection, in Columbus, keeps it today.
+
+**Martha.** The last passenger pigeon of all was a bird named Martha. She died at the Cincinnati Zoo on September 1, 1914, at about 29 years old. Her body was frozen in a 300-pound block of ice and shipped to the Smithsonian Institution, which still has it. Sol Stephan, the zoo's general manager, had cared for Martha, and he saved her feathers in a cigar box.
+
+**Not known:** Nobody can say for sure where Martha came from, because Stephan's accounts changed over the years and the zoo's own records do not agree with each other.
 <!-- hb-story:end slug="press-clay-southworth" -->
 
 <!-- hb-zoom level="span" label="Yellowstone's wolves" -->
-Between 1914 and 1926, park managers in Yellowstone killed at least 136 wolves. In 1926 they killed the park's last wolf pack. The National Park Service gives these numbers. The *Idaho Capital Sun* and other later accounts report that park rangers shot the last two wolf pups near Soda Butte that year.
+Park managers in Yellowstone killed at least 136 wolves between 1914 and 1926, and in 1926 they killed the park's last wolf pack. The National Park Service gives these numbers. The *Idaho Capital Sun* and other later accounts report that park rangers shot the last two wolf pups near Soda Butte that year.
 
-The managers used poison, especially one called strychnine. They put it inside the bodies of dead animals for wolves to eat. Dan Stahler, a biologist, told *Smithsonian* magazine in 2026: "We're talking crates and crates of this poisoning." In 1915 the park's superintendent, the official in charge of the park, called wolves "a decided menace" to the animals they hunted. A menace is a danger.
+The managers used poison, especially one called strychnine, which they put inside the bodies of dead animals for wolves to eat. Dan Stahler, a biologist, told *Smithsonian* magazine in 2026: "We're talking crates and crates of this poisoning." In 1915 the park's superintendent called wolves "a decided menace," or danger, to the animals they hunted.
 
-The killing in Yellowstone was part of a program to wipe out predators on public lands across the whole country. A predator is an animal that hunts other animals for food. The program's targets were wolves, bears, cougars and coyotes. Rewards for dead wolves went back almost 300 years. The first recorded wolf bounty in the colonies dates from Massachusetts in 1630. A bounty is a reward paid for each dead animal.
+The killing in Yellowstone was part of a program to wipe out predators, animals that hunt other animals for food, on public lands across the whole country. The program's targets were wolves, bears, cougars and coyotes. Rewards for dead wolves went back almost 300 years. The first recorded wolf bounty in the colonies, a reward paid for each dead animal, dates from Massachusetts in 1630.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Dust Bowl" -->
-In the 1930s, wind carried away the soil of the southern Plains, because farmers had plowed up the grass that held it. Wheat sold at high prices during World War I. Farmers with tractors plowed up tens of millions of acres of shortgrass, the short native grass of the southern Plains. The roots of that grass formed sod, a thick mat of roots and earth that held the soil in place. A drought, a long time with too little rain, began in 1931. With the sod gone, the dry soil blew away.
+<!-- hb-zoom level="span" label="Why did the Plains soil blow away?" -->
+Wind carried away the soil of the southern Plains in the 1930s, because farmers had plowed up the grass that held it. Wheat sold at high prices during World War I. Farmers with tractors plowed up tens of millions of acres of shortgrass, the short native grass of the southern Plains. Its roots formed sod, a thick mat of roots and earth that held the soil in place.
 
-By December 1934, about 35 million acres of farmland had been ruined for growing crops, by the count of the US Department of Agriculture. The same count listed 100 million acres that had lost all or most of their topsoil, the top layer of soil where crops grow. Another 125 million acres were losing it fast. In 1935 alone, an estimated 850 million tons of topsoil blew off the southern Plains.
+A drought, a long time with too little rain, began in 1931. With the sod gone, the dry soil blew away.
+
+**What blew away.** By the count of the US Department of Agriculture, about 35 million acres of farmland, an area about the size of Iowa, had been ruined for growing crops by December 1934. The same count listed 100 million acres that had lost all or most of their topsoil, the top layer of soil where crops grow. Another 125 million acres were losing it fast. In 1935 alone, an estimated 850 million tons of topsoil blew off the southern Plains.
 
 The worst single dust storm struck on April 14, 1935, a day called Black Sunday. It crossed the Plains as a black wall of dust moving at 60 miles an hour.
 
-That spring, a soil scientist named Hugh Hammond Bennett was testifying, or giving evidence, at a hearing in Washington. Dust from the Plains darkened the sky outside. Bennett said: "This, gentlemen, is what I've been talking about." Accounts of the hearing differ about the day. Some put it in late March 1935, and others in early April.
+That spring, a soil scientist named Hugh Hammond Bennett was testifying, or giving evidence, at a hearing in Washington while dust from the Plains darkened the sky outside. Bennett said: "This, gentlemen, is what I've been talking about." Accounts of the hearing differ about the day. Some put it in late March 1935, and others in early April.
 
-Members of Congress declared soil erosion "a national menace." Erosion is the wearing away of soil by wind or water. The Soil Conservation Service began on April 27, 1935, with Bennett as its director. The methods that followed included contour plowing, which means plowing along the curves of a slope instead of up and down it. They also included shelterbelts, which are rows of trees planted to slow the wind, and planting grass on the land again.
+Members of Congress declared soil erosion, the wearing away of soil by wind or water, "a national menace." The Soil Conservation Service began on April 27, 1935, with Bennett as its director. The methods that followed included contour plowing, which means plowing along the curves of a slope instead of up and down it. They also included shelterbelts, rows of trees planted to slow the wind, and planting grass on the land again.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="caroline-henderson" name="Caroline Henderson" movie="" kind="ordinary" status="verified" -->
@@ -120,47 +154,70 @@ Members of Congress declared soil erosion "a national menace." Erosion is the we
 > **Who:** A farmer and writer who homesteaded in the Oklahoma Panhandle and stayed on her land through the dust years.
 > **When and where:** Near Eva, Oklahoma, from 1907. She lived from 1877 to 1966.
 
-Caroline Henderson graduated from Mount Holyoke College. In 1907 she began homesteading near Eva, in the Oklahoma Panhandle. Homesteading meant claiming public land and farming it for years in order to own it. When the dust storms came in the 1930s, she kept farming there and did not leave.
+**When the dust came, she kept farming and did not leave.**
 
-Henderson wrote letters about the dust years, and the *Atlantic Monthly* magazine printed them as "Letters from the Dust Bowl." One appeared in May 1936. That same month, Henry A. Wallace, the Secretary of Agriculture, wrote to praise her. Across her whole life, her letters run from 1908 to 1966. The University of Oklahoma Press later collected them in a book, *Letters from the Dust Bowl*.
+Caroline Henderson graduated from Mount Holyoke College. In 1907 she began homesteading near Eva, in the Oklahoma Panhandle, claiming public land and farming it for years in order to own it. When the dust storms came in the 1930s, she stayed on her land.
+
+Henderson wrote letters about the dust years, and the *Atlantic Monthly* magazine printed them as "Letters from the Dust Bowl." One appeared in May 1936. That same month, Henry A. Wallace, the Secretary of Agriculture, wrote to praise her.
+
+Across her whole life, her letters run from 1908 to 1966. The University of Oklahoma Press later collected them in a book, *Letters from the Dust Bowl*.
 <!-- hb-story:end slug="caroline-henderson" -->
 
 <!-- hb-zoom level="span" label="Every fire put out" -->
-Forest Service rules from 1935 to 1978 required crews to control every wildfire by the morning after someone spotted it. In 1910 a fire called the Big Burn covered 3 million acres of the Northern Rockies and killed at least 78 people. After it, Forest Service leaders tried to put out every fire. In 1935 they made the "10 a.m. policy." Under it, crews had to bring each fire under control by 10 o'clock the morning after it was spotted.
+Forest Service rules from 1935 to 1978 required crews to control every wildfire by the morning after someone spotted it. A fire called the Big Burn covered 3 million acres of the Northern Rockies in 1910 and killed at least 78 people. After it, Forest Service leaders tried to put out every fire. In 1935 they made the "10 a.m. policy," under which crews had to bring each fire under control by 10 o'clock the morning after it was spotted.
 
-From 1933 to 1942, about 3 million young men worked in the Civilian Conservation Corps, a federal work program. Because the corps had so many men, Forest Service leaders could carry out the 10 a.m. policy. Estimates of the trees the corps members planted run from more than 2 billion to 3.5 billion. The figure most often given is about 3 billion. The corps members also fought fires, worked to stop erosion and did building work in more than 800 parks.
+**The men who made it work.** About 3 million young men worked in the Civilian Conservation Corps, a federal work program, from 1933 to 1942. Because the corps had so many men, Forest Service leaders could carry out the 10 a.m. policy. Estimates of the trees the corps members planted run from more than 2 billion to 3.5 billion, and the figure most often given is about 3 billion. The corps members also fought fires, worked to stop erosion and did building work in more than 800 parks.
 
-In 1944 Forest Service officials worked with the Ad Council, an advertising group, to start the Smokey Bear campaign. Its slogan, "Only YOU can prevent forest fires," dates from 1947. In 1950 a bear cub was rescued from the Capitan Gap fire in New Mexico, and the cub became the living Smokey Bear.
+Forest Service officials worked with the Ad Council, an advertising group, to start the Smokey Bear campaign in 1944. Its slogan, "Only YOU can prevent forest fires," dates from 1947. In 1950 a bear cub was rescued from the Capitan Gap fire in New Mexico, and the cub became the living Smokey Bear.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="aldo-leopold" name="Aldo Leopold" movie="Green Fire: Aldo Leopold and a Land Ethic for Our Time (2011)" kind="famous" status="verified" -->
 ### Aldo Leopold
 
-> **Who:** A forester for the U.S. Forest Service who later became a professor at the University of Wisconsin. He wrote *A Sand County Almanac*.
+> **Who:** A forester for the U.S. Forest Service who got the first wilderness area set aside, and later wrote *A Sand County Almanac*.
 > **When and where:** He lived from 1887 to 1948. He worked in New Mexico in the 1920s and later in Wisconsin.
 > **Movie:** *Green Fire: Aldo Leopold and a Land Ethic for Our Time* (2011)
 
-Aldo Leopold began as a forester for the U.S. Forest Service. In 1924 he got the Gila Wilderness, in New Mexico, set aside. It was the first area in the world officially named a wilderness area, which is land kept free of roads and buildings. Frank C. W. Pooler, the Forest Service official in charge of the region, approved Leopold's plan on June 3, 1924. It covered about 755,000 acres. Under the plan the area had no roads, cabins or other buildings. People could still hunt and fish there, and ranchers could let their animals feed on its grass.
+**In 1924 he got the world's first official wilderness area set aside.**
 
-The Gila had been a homeland of the Chiricahua and Warm Springs Apache, and Mogollon and Mimbres people had also lived in the region. Before Leopold came to New Mexico, US Army soldiers, federal officials and white settlers had forced many Apache people onto reservations. Army soldiers imprisoned Chiricahua and Warm Springs Apache people for defending their land. Of the thousands of Chiricahua and Warm Springs Apache who had lived in the Gila, only a few hundred were still alive after the Army imprisoned them. US officials later sent the survivors to Fort Sill, Oklahoma, more than 500 miles away.
+Aldo Leopold began as a forester for the U.S. Forest Service. In 1924 he got the Gila Wilderness, in New Mexico, set aside. It was the first area in the world officially named a wilderness area, which is land kept free of roads and buildings. Frank C. W. Pooler, the Forest Service official in charge of the region, approved Leopold's plan on June 3, 1924.
 
-Leopold later taught at the University of Wisconsin. He bought a worn-out farm in Wisconsin and rebuilt its soil and its woods. On April 21, 1948, he had a heart attack and died while helping to fight a grass fire on a neighbor's land.
+The Gila Wilderness covered about 755,000 acres. Under the plan the area had no roads, cabins or other buildings. People could still hunt and fish there, and ranchers could let their animals feed on its grass.
 
-His book *A Sand County Almanac* came out in 1949, the year after he died. In it he called for a "land ethic." An ethic is a set of ideas about right and wrong. In Leopold's land ethic, people count themselves as members of the land community and stop acting as its conquerors. The book includes his "green fire" essay, about watching a wolf die after it was shot.
+**Whose homeland it was.** The Gila had been a homeland of the Chiricahua and Warm Springs Apache, and Mogollon and Mimbres people had also lived in the region. Before Leopold came to New Mexico, US Army soldiers, federal officials and white settlers had forced many Apache people onto reservations. Army soldiers imprisoned Chiricahua and Warm Springs Apache people for defending their land.
+
+Of the thousands of Chiricahua and Warm Springs Apache who had lived in the Gila, only a few hundred were still alive after the Army imprisoned them. US officials later sent the survivors to Fort Sill, Oklahoma, more than 500 miles away.
+
+**Later years.** Leopold taught at the University of Wisconsin. He bought a worn-out farm in Wisconsin and rebuilt its soil and its woods. On April 21, 1948, he had a heart attack and died while helping to fight a grass fire on a neighbor's land.
+
+His book *A Sand County Almanac* came out in 1949, the year after he died. In it he called for a "land ethic," an ethic being a set of ideas about right and wrong. In Leopold's land ethic, people count themselves as members of the land community and stop acting as its conquerors. The book includes his "green fire" essay, about watching a wolf die after it was shot.
 <!-- hb-story:end slug="aldo-leopold" -->
+
+<!-- hb-zoom level="era" label="By 1950" -->
+**If you remember one thing:** Federal officials took charge of protecting hundreds of millions of acres, much of it Native land, while the passenger pigeon, Yellowstone's wolves and the soil of the southern Plains were lost.
+In 1900: The Forest Service, the National Park Service and the first national monument did not exist yet, and a boy in Ohio shot the last confirmed wild passenger pigeon.
+In 1950: Crews had orders to put out every wildfire by 10 the next morning, and a bear cub rescued from a fire in New Mexico had become the living Smokey Bear.
+**Next:** After 1950 a chemical called DDT thinned the eggshells of bald eagles, a river in Cleveland caught fire, and families found buried chemicals seeping into their basements.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
 <!-- hb-time:start id="1950-2000" order="09" chapter="land-environment" label="1950 to 2000" state="full" progress="written" -->
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-Between 1970 and 1973, members of Congress passed the Clean Air Act, the Clean Water Act and the Endangered Species Act, and the Environmental Protection Agency opened. In the years before those laws, DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 oil and trash on the Cuyahoga River in Cleveland caught fire. That same year, Park Service officials forced the last Native families in Yosemite Valley out of their homes. Later in the 1970s, families at Love Canal, in Niagara Falls, New York, found chemicals seeping into their basements. They lived on and beside more than 20,000 tons of buried chemical waste.
+**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
-In 1982 residents of Warren County, North Carolina, lay in the road in front of trucks carrying poisoned soil to a landfill in a mostly Black community. A landfill is a place where trash and waste are buried. In a 1983 federal study, investigators looked at four landfills for dangerous waste in eight southeastern states. All four were in areas where Black residents were 38 to 90 percent of the people. In a 1987 national study, Charles Lee found that race was the strongest clue to where such waste sites stood. That year Rev. Benjamin F. Chavis Jr. named the pattern "environmental racism."
+Pollution that people could see pushed members of Congress to pass the big laws that protect the land, air and water, and then people began to count who lived next to the waste. DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 oil and trash on the Cuyahoga River in Cleveland caught fire. Between 1970 and 1973, members of Congress passed the Clean Air Act, the Clean Water Act and the Endangered Species Act, and the Environmental Protection Agency opened.
+
+Park Service officials forced the last Native families in Yosemite Valley out of their homes in 1969. Later in the 1970s, families at Love Canal, in Niagara Falls, New York, found chemicals seeping into their basements. They lived on and beside more than 20,000 tons of buried chemical waste.
+
+Residents of Warren County, North Carolina, lay in the road in 1982 in front of trucks carrying poisoned soil to a landfill, a place where trash and waste are buried, in a mostly Black community. In a 1983 federal study, investigators looked at four landfills for dangerous waste in eight southeastern states. All four were in areas where Black residents were 38 to 90 percent of the people.
+
+In a 1987 national study, Charles Lee found that race was the strongest clue to where such waste sites stood. That year Rev. Benjamin F. Chavis Jr. named the pattern "environmental racism."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="DDT and the eagles" -->
-DDT is a pesticide, a chemical made to kill insects. It was in wide use from the mid-1940s. DDT thinned the eggshells of raptors, which are birds that hunt other animals. The shells grew so thin that the eggs broke in the nest. By 1963 only 417 nesting pairs of bald eagles were left in the lower 48 states, meaning every state except Alaska and Hawaii.
+DDT is a pesticide, a chemical made to kill insects, and it was in wide use from the mid-1940s. DDT thinned the eggshells of raptors, birds that hunt other animals, until the eggs broke in the nest. By 1963 only 417 nesting pairs of bald eagles were left in the lower 48 states, meaning every state except Alaska and Hawaii.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="rachel-carson" name="Rachel Carson" movie="Rachel Carson (2017)" kind="famous" status="verified" -->
@@ -170,57 +227,87 @@ DDT is a pesticide, a chemical made to kill insects. It was in wide use from the
 > **When and where:** She lived from 1907 to 1964. *Silent Spring* came out in September 1962. She died in Silver Spring, Maryland.
 > **Movie:** *Rachel Carson* (PBS American Experience, 2017)
 
-Rachel Carson first became famous for a book called *The Sea Around Us*. In September 1962 she published *Silent Spring*. In it she laid out what persistent pesticides were doing to birds, soil, water and people. A persistent pesticide is one that stays in the soil, water and living things for a long time.
+**She went on television to defend her book while sick with cancer.**
 
-People in the chemical industry attacked her. Carson answered them with evidence. On April 3, 1963, she spoke on the television program *CBS Reports*. By then she was already sick with breast cancer. She died of it on April 14, 1964. In 1972 officials of the Environmental Protection Agency banned DDT.
+Rachel Carson first became famous for a book called *The Sea Around Us*. In September 1962 she published *Silent Spring*. In it she laid out what persistent pesticides, the kind that stay in soil, water and living things for a long time, were doing to birds, soil, water and people.
+
+People in the chemical industry attacked her, and Carson answered them with evidence. She spoke on the television program *CBS Reports* on April 3, 1963. By then she was already sick with breast cancer, and she died of it on April 14, 1964. Officials of the Environmental Protection Agency banned DDT in 1972, eight years later.
 <!-- hb-story:end slug="rachel-carson" -->
 
 <!-- hb-zoom level="span" label="Yosemite's last village" -->
-In 1969 Park Service officials evicted the last Native families who lived in Yosemite Valley. To evict means to force people out of their homes. Park Service officials destroyed their cabins.
+Park Service officials evicted, or forced out of their homes, the last Native families who lived in Yosemite Valley in 1969. Then they destroyed their cabins.
 
-In the 1920s, Ahwahneechee and Paiute families lived in a village in the valley and worked in the park. The Ahwahneechee are also called the Southern Sierra Miwok. Native workers helped build the Ahwahnee Hotel, which was finished in 1927. In 1933 Park Service workers built cabins at a new site, called Wahhoga, for families that park officials had moved out of the old village. Charles Goff Thomson was Yosemite's superintendent, the official in charge of the park, from 1929 to 1937. A history published by Brigham Young University states that Thomson wanted to use the new village to control the Native people in the park. The families paid rent, and they paid for their power and water.
+**How the village began.** Ahwahneechee and Paiute families lived in a village in the valley in the 1920s and worked in the park. The Ahwahneechee are also called the Southern Sierra Miwok. Native workers helped build the Ahwahnee Hotel, which was finished in 1927. Park Service workers built cabins at a new site, called Wahhoga, in 1933, for families that park officials had moved out of the old village.
 
-In 1953 Park Service officials made a housing rule. Under it, only permanent government workers could live in the village. As each home fell empty, the officials destroyed it. In 1969 they evicted the families who were still there.
+Charles Goff Thomson was Yosemite's superintendent from 1929 to 1937. A history published by Brigham Young University states that Thomson wanted to use the new village to control the Native people in the park. The families paid rent, and they paid for their power and water.
 
-Deborah Tucker's parents lived in the village. She told the National Parks Conservation Association: "The Park Service came and burned the cabins out." Some later magazine accounts say the empty cabins were burned in a firefighting training exercise. A Park Service web page states that a Native home near Camp 4 "was razed in the 1960s when the last Indian village was removed from Yosemite Valley." Razed means torn down completely. Jay Johnson, the last Native park worker who lived in the valley, retired and left in 1996. Erin Davenport is a Yosemite park historian. She told the National Parks Conservation Association that park historians have found no record of why the village was torn down in 1969. No record names the official who ordered it.
+Park Service officials made a housing rule in 1953 under which only permanent government workers could live in the village. As each home fell empty, the officials destroyed it. In 1969 they evicted the families who were still there.
+
+**How it ended.** Deborah Tucker's parents lived in the village. She told the National Parks Conservation Association: "The Park Service came and burned the cabins out." Some later magazine accounts say the empty cabins were burned in a firefighting training exercise. A Park Service web page states that a Native home near Camp 4 "was razed," or torn down completely, "in the 1960s when the last Indian village was removed from Yosemite Valley."
+
+Jay Johnson, the last Native park worker who lived in the valley, retired and left in 1996.
+
+**Not known:** No record names the official who ordered the village torn down in 1969. Erin Davenport, a Yosemite park historian, told the National Parks Conservation Association that park historians have found no record of why it was done either.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The river that burned" -->
-On June 22, 1969, oil and trash floating on the Cuyahoga River in Cleveland, Ohio, caught fire. The fire burned for about 20 to 30 minutes before it was brought under control. The river had burned at least 13 times since 1868. The 1912 fire killed five men, and the 1952 fire did $1.3 million in damage.
+Oil and trash floating on the Cuyahoga River in Cleveland, Ohio, caught fire on June 22, 1969. The fire burned for about 20 to 30 minutes before it was brought under control. The river had burned at least 13 times since 1868. The 1912 fire killed five men, and the 1952 fire did $1.3 million in damage.
 
-The river ran past steel mills and other factories. A 2019 *Smithsonian* magazine article names American Ship Building, the Sherwin-Williams Paint Company, Republic Steel and Standard Oil as Cleveland companies whose success left the river full of poisonous waste. A Cleveland State University history states that the river was "polluted from decades of industrial waste." The 1969 fire started in oil and trash caught under two railroad bridges near the Republic Steel mill. A flare thrown from a passing train most likely lit it. Investigators from Cleveland's Bureau of Industrial Wastes looked into the fire. No record names the company whose oil burned.
+**Whose waste it was.** The river ran past steel mills and other factories. A 2019 *Smithsonian* magazine article names American Ship Building, the Sherwin-Williams Paint Company, Republic Steel and Standard Oil as Cleveland companies whose success left the river full of poisonous waste. A Cleveland State University history states that the river was "polluted from decades of industrial waste."
 
-On August 1, 1969, editors at *Time* magazine published a story on the burning river, and readers across the country saw it. Carl Stokes was Cleveland's mayor and the first Black mayor of a major US city. The day after the fire, he held a news conference at the river and called on the state and federal governments to act.
+The 1969 fire started in oil and trash caught under two railroad bridges near the Republic Steel mill. A flare thrown from a passing train most likely lit it. Investigators from Cleveland's Bureau of Industrial Wastes looked into the fire. No record names the company whose oil burned.
 
-On January 28, 1969, five months before the Cuyahoga fire, an oil well blew out under Platform A. It was a Union Oil Company drilling platform about 5.5 miles southeast of Santa Barbara, California. A blowout is an uncontrolled burst of oil and gas up a well. Officials of the U.S. Geological Survey, the federal agency that approved offshore drilling, had excused Union Oil from federal safety rules when they approved its drilling permit. Federal and state investigators found that extra steel pipe lining the well would have prevented the blowout. About 100,000 barrels of oil leaked out by December 1969, and the oil blackened the beaches at Santa Barbara. By one estimate, about 9,000 birds died.
+Editors at *Time* magazine published a story on the burning river on August 1, 1969, and readers across the country saw it. Carl Stokes was Cleveland's mayor and the first Black mayor of a major US city. The day after the fire, he held a news conference at the river and called on the state and federal governments to act.
+
+**Santa Barbara.** Five months before the Cuyahoga fire, on January 28, 1969, an oil well blew out under Platform A. It was a Union Oil Company drilling platform about 5.5 miles southeast of Santa Barbara, California. A blowout is an uncontrolled burst of oil and gas up a well. Officials of the U.S. Geological Survey, the federal agency that approved offshore drilling, had excused Union Oil from federal safety rules when they approved its drilling permit.
+
+Federal and state investigators found that extra steel pipe lining the well would have prevented the blowout. About 100,000 barrels of oil, more than 4 million gallons, leaked out by December 1969, and the oil blackened the beaches at Santa Barbara. By one estimate, about 9,000 birds died.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Earth Day and the new laws" -->
-On April 22, 1970, an estimated 20 million Americans took part in Earth Day events. Earth Day was a day set aside for events about protecting the land, air and water. The 1970 census, the national government's count of everyone in the country, counted 203,392,031 people in the United States, so about one in ten Americans took part. Senator Gaylord Nelson organized Earth Day with Denis Hayes.
+An estimated 20 million Americans took part in Earth Day events on April 22, 1970, a day set aside for events about protecting the land, air and water. The 1970 census, the national government's count of everyone in the country, counted 203,392,031 people in the United States, so about one in ten Americans took part. Senator Gaylord Nelson organized Earth Day with Denis Hayes.
 
-The National Environmental Policy Act became law on January 1, 1970. Under it, federal officials had to study how a big federal project would affect the land, air and water before they went ahead. The Environmental Protection Agency, called the EPA, opened on December 2, 1970. Its officials enforce the federal laws against pollution. Members of Congress passed the Clean Air Act in 1970. In 1972 EPA officials banned DDT, and members of Congress passed the Clean Water Act. The Endangered Species Act became law on December 28, 1973. An endangered species is a kind of plant or animal in danger of dying out.
+**The new laws.** The National Environmental Policy Act became law on January 1, 1970. Under it, federal officials had to study how a big federal project would affect the land, air and water before they went ahead. The Environmental Protection Agency, called the EPA, opened on December 2, 1970. Its officials enforce the federal laws against pollution.
+
+Members of Congress passed the Clean Air Act in 1970. In 1972 EPA officials banned DDT, and members of Congress passed the Clean Water Act. The Endangered Species Act, for kinds of plants and animals in danger of dying out, became law on December 28, 1973.
 
 After the DDT ban, bald eagles came back. They grew from 417 nesting pairs in 1963 to about 10,000 pairs by 2007. That year, federal officials took the bald eagle off the endangered list.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Love Canal" -->
-From the 1940s into the 1950s, workers for Hooker Chemical buried more than 20,000 tons of chemical waste in an old canal in Niagara Falls, New York. Families later lived on and beside it, and the chemicals seeped into their homes.
+Workers for Hooker Chemical buried more than 20,000 tons of chemical waste in an old canal in Niagara Falls, New York, from the 1940s into the 1950s. Families later lived on and beside it, and the chemicals seeped into their homes.
 
-The canal, called Love Canal, covered 15 acres. Hooker Chemical and Plastics Corporation began using it in 1942. The records give the amount and the years in three ways. One figure is about 21,000 tons from 1942 to 1953. A timeline kept by the University at Buffalo states "over 20,000 tons of toxic chemicals" from 1942 to 1952. In a 1981 report, officials of New York State's health department wrote that Hooker "admits" burying 21,800 tons of chemical waste between 1942 and 1953. Investigators later found more than 200 chemical compounds there. The timeline lists 200 tons of dioxin. Dioxin is a group of chemicals that cause cancer and harm babies before they are born.
+**What was buried.** The canal, called Love Canal, covered 15 acres. Hooker Chemical and Plastics Corporation began using it in 1942. The records give the amount and the years in three ways. One figure is about 21,000 tons from 1942 to 1953. A timeline kept by the University at Buffalo states "over 20,000 tons of toxic chemicals" from 1942 to 1952. In a 1981 report, officials of New York State's health department wrote that Hooker "admits" burying 21,800 tons of chemical waste between 1942 and 1953.
 
-In a 1994 decision, federal judge John T. Curtin wrote that Hiram Young, Hooker's works manager, was responsible for the company's waste disposal. The court record does not say who first decided to use the canal as a dump. In 1946 Ansley Wilcox, Hooker's lawyer, visited the dump and saw children with swimsuits. He warned Hooker's president, E. R. Bartlett, that the company was "running a real hazard," and he suggested guards or a fence. Hooker's executives talked about his ideas, but they never built the fence. City officials of Niagara Falls also used the canal as a dump for the city's own waste until 1953.
+Investigators later found more than 200 chemical compounds there. The timeline lists 200 tons of dioxin, a group of chemicals that cause cancer and harm babies before they are born.
 
-In 1953 Hooker sold the covered canal to the Niagara Falls Board of Education for $1. Hooker's officials wrote into the deed "a disclaimer of responsibility for future damages due to the presence of buried chemicals." A deed is the paper that passes ownership of land to a new owner. A disclaimer is a statement that refuses blame. That same year, Hooker officials told Board members "that homes could not be built at the Canal site."
+**Who knew.** Federal judge John T. Curtin wrote in a 1994 decision that Hiram Young, Hooker's works manager, was responsible for the company's waste disposal. The court record does not say who first decided to use the canal as a dump.
 
-In 1954 the members of the Board of Education had a public elementary school, the 99th Street School, built on the middle third of the canal. That January their architect, Charles Thiele, wrote that the builders had dug into two pits of chemical waste, some of it in 55-gallon drums. He wrote that it was "poor policy to attempt to build over this soil." Building of homes on 97th and 99th Streets, beside the canal, began in 1954. The Board of Education later sold part of the canal land to others. In 1957 Board members talked about a plan to sell a piece of it to developers for building homes. Hooker's lawyer Arthur Chambers told the Board on November 7, 1957, that the land was "unsuitable for construction" where "basements, water lines, sewers and such underground facilities would be necessary." Unsuitable means not fit. By the spring of 1978, 99 homes had backyards that touched the canal. No record names the companies that built the homes.
+Ansley Wilcox, Hooker's lawyer, visited the dump in 1946 and saw children with swimsuits. He warned Hooker's president, E. R. Bartlett, that the company was "running a real hazard," and he suggested guards or a fence. Hooker's executives talked about his ideas, but they never built the fence. City officials of Niagara Falls also used the canal as a dump for the city's own waste until 1953.
 
-By the 1970s, chemicals were coming up into yards and basements. On October 3, 1976, chemicals from the buried waste were reported "seeping into basements of homes." In November 1976, testers found 15 chemicals, including three toxic chlorinated hydrocarbons, a kind of chemical that contains chlorine. Families in the neighborhood counted miscarriages, birth defects and illness. A miscarriage is the death of an unborn baby before it can live outside its mother's body. A birth defect is a problem in a baby's body that is there when the baby is born. Dr. Beverly Paigen, a scientist, found a "high rate of birth defects and miscarriages among Love Canal families."
+**The sale for $1.** Hooker sold the covered canal to the Niagara Falls Board of Education for $1 in 1953. Hooker's officials wrote into the deed "a disclaimer of responsibility for future damages due to the presence of buried chemicals," a statement that refused blame for any harm the chemicals did later. That same year, Hooker officials told Board members "that homes could not be built at the Canal site."
 
-On August 2, 1978, Dr. Robert Whalen, New York State's health commissioner, the state's top health official, declared a state of emergency, an official order saying that people were in danger and needed help fast. He closed the 99th Street School and ordered pregnant women and children under 2 moved out. On August 7, President Jimmy Carter approved emergency federal money so that state officials could buy homes. State officials moved the first 236 families out, at a cost of $10 million. Other counts say 239 families.
+**The school.** The members of the Board of Education had a public elementary school, the 99th Street School, built on the middle third of the canal in 1954. That January their architect, Charles Thiele, wrote that the builders had dug into two pits of chemical waste, some of it in 55-gallon drums. He wrote that it was "poor policy to attempt to build over this soil."
 
-In April 1980, New York State's lawyers sued Occidental Petroleum, which owned Hooker by then, and two Hooker companies for $635 million. On May 17, 1980, scientists in a study paid for by the EPA found chromosome damage in 11 of the 36 residents tested. Chromosomes are the strands in each cell that carry a person's genes. Damage to them can raise the risk of cancer, and of birth defects in the person's children. That month, residents held two EPA officials for about six hours to demand that the rest of the families be moved. Carter then declared a second emergency, which opened the way to move 710 more families. In all, about 950 families left.
+Building of homes on 97th and 99th Streets, beside the canal, began in 1954. The Board of Education later sold part of the canal land to others. Board members talked in 1957 about a plan to sell a piece of it to developers for building homes. Hooker's lawyer Arthur Chambers told the Board on November 7, 1957, that the land was "unsuitable," or not fit, "for construction" where "basements, water lines, sewers and such underground facilities would be necessary."
 
-In December 1980, members of Congress passed a law called Superfund. Under it, federal officials could make companies that polluted a site pay for cleaning it up. In 1994 and 1995 Occidental agreed to pay New York State and the federal government more than $225 million for the cleanup and the moves.
+Ninety-nine homes had backyards that touched the canal by the spring of 1978. No record names the companies that built the homes.
+
+**The chemicals come up.** By the 1970s, chemicals were coming up into yards and basements. On October 3, 1976, chemicals from the buried waste were reported "seeping into basements of homes." In November 1976, testers found 15 chemicals, including three toxic chlorinated hydrocarbons, a kind of chemical that contains chlorine.
+
+Families in the neighborhood counted miscarriages, the deaths of unborn babies before they can live outside the mother's body. They also counted birth defects, problems in a baby's body that are there when the baby is born, and illness. Dr. Beverly Paigen, a scientist, found a "high rate of birth defects and miscarriages among Love Canal families."
+
+**The emergency.** Dr. Robert Whalen, New York State's health commissioner, the state's top health official, declared a state of emergency on August 2, 1978. That is an official order saying that people are in danger and need help fast. He closed the 99th Street School and ordered pregnant women and children under 2 moved out.
+
+President Jimmy Carter approved emergency federal money on August 7 so that state officials could buy homes. State officials moved the first 236 families out, at a cost of $10 million. Other counts say 239 families.
+
+**The second emergency.** New York State's lawyers sued Occidental Petroleum, which owned Hooker by then, and two Hooker companies for $635 million in April 1980.
+
+Scientists in a study paid for by the EPA reported on May 17, 1980, that they had found chromosome damage in 11 of the 36 residents tested. Chromosomes are the strands in each cell that carry a person's genes. Damage to them can raise the risk of cancer, and of birth defects in the person's children.
+
+That month, residents held two EPA officials for about six hours to demand that the rest of the families be moved. Carter then declared a second emergency, which opened the way to move 710 more families. In all, about 950 families left.
+
+Members of Congress passed a law called Superfund in December 1980. Under it, federal officials could make companies that polluted a site pay for cleaning it up. Occidental agreed in 1994 and 1995 to pay New York State and the federal government more than $225 million for the cleanup and the moves.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="lois-gibbs" name="Lois Gibbs" movie="Lois Gibbs and the Love Canal (1982)" kind="ordinary" status="verified" -->
@@ -230,39 +317,54 @@ In December 1980, members of Congress passed a law called Superfund. Under it, f
 > **When and where:** Love Canal, in Niagara Falls, New York, from 1978 to 1980.
 > **Movie:** *Lois Gibbs and the Love Canal* (CBS television movie, 1982), with Marsha Mason playing Gibbs
 
-Lois Gibbs was 27 years old and a housewife when she learned about the buried chemicals at Love Canal. Her son went to the 99th Street School, which stood on and beside the old canal. Officials brushed off her worries. In August 1978 she organized her neighbors into the Love Canal Homeowners Association.
+**She was 27, and her son's school stood on buried chemicals.**
+
+Lois Gibbs was a housewife when she learned about the buried chemicals at Love Canal. Her son went to the 99th Street School, which stood on and beside the old canal. Officials brushed off her worries. In August 1978 she organized her neighbors into the Love Canal Homeowners Association.
 
 Gibbs later founded the Center for Health, Environment & Justice. Through it, she has helped other neighborhoods fight the pollution near their homes. In 1990 she won the Goldman Environmental Prize, an award given to people who protect the environment. A CBS television movie about her aired on February 17, 1982.
 <!-- hb-story:end slug="lois-gibbs" -->
 
 <!-- hb-zoom level="span" label="Warren County" -->
-In September 1982, residents of Warren County, North Carolina, lay down in the road in front of trucks. The trucks carried soil poisoned with PCBs to a new landfill near Afton, a mostly Black community. An exhibit by the University of North Carolina Library and other histories describe the protest as the start of the environmental justice movement. People in that movement fight a pattern in which companies and government officials put polluting sites next to poor, Black, brown and Native communities.
+Residents of Warren County, North Carolina, lay down in the road in front of trucks in September 1982. The trucks carried soil poisoned with PCBs to a new landfill near Afton, a mostly Black community. An exhibit by the University of North Carolina Library and other histories describe the protest as the start of the environmental justice movement. People in that movement fight a pattern in which companies and government officials put polluting sites next to poor, Black, brown and Native communities.
 
-PCBs are a group of chemicals made by people. They were used in electrical, heating and hydraulic equipment, which means machines worked by liquid under pressure. An EPA web page states that PCBs cause "a variety of adverse health effects in animal and humans." Adverse means harmful.
+PCBs are a group of chemicals made by people. They were used in electrical, heating and hydraulic equipment, machines worked by liquid under pressure. An EPA web page states that PCBs cause "a variety of adverse health effects," or harmful effects, "in animal and humans."
 
-The poisoned soil came from roadsides. Robert Ward, of the Ward Transformer Company of Raleigh, hired Robert Burns and his sons to get rid of oil that contained PCBs. The Burns family ran a business called Transformer Sales, in Allegany, New York. In the summer of 1978, the Burns men sprayed about 31,000 gallons of the oil from their trucks at night. They sprayed it on the shoulders, or edges, of about 240 miles of roads in 14 North Carolina counties.
+**Where the soil came from.** The poisoned soil came from roadsides. Robert Ward, of the Ward Transformer Company of Raleigh, hired Robert Burns and his sons to get rid of oil that contained PCBs. The Burns family ran a business called Transformer Sales, in Allegany, New York. In the summer of 1978, the Burns men sprayed about 31,000 gallons of the oil from their trucks at night, on the shoulders, or edges, of about 240 miles of roads in 14 North Carolina counties.
 
-In December 1978, Governor James B. Hunt Jr. announced a plan to bury about 60,000 tons of the soil scraped from those roadsides. He chose a landfill at Afton, in Warren County. State officials bought farmland there from a farmer who was in money trouble. Warren County had the highest share of African American residents in North Carolina, and it was one of the poorest counties in the state. The Afton community was 84 percent African American.
+**The site.** Governor James B. Hunt Jr. announced a plan in December 1978 to bury about 60,000 tons of the soil scraped from those roadsides. He chose a landfill at Afton, in Warren County. State officials bought farmland there from a farmer who was in money trouble. Warren County had the highest share of African American residents in North Carolina, and it was one of the poorest counties in the state. The Afton community was 84 percent African American.
 
 Most people near Afton drank water from wells. The water table there, the level underground where the soil is full of water, was only about 5 to 10 feet down. The U.S. Commission on Civil Rights later wrote that the site "was not scientifically the most suitable site, because the water table was a mere 5-10 feet below the surface."
 
-Residents formed a group called Warren County Citizens Concerned About PCBs and sued. They lost in 1982. In September 1982 the trucks began to deliver the soil, and protesters lay in the road. Officers arrested about 500 people. One later count says more than 500. State officials went ahead and built the landfill. Governor Hunt promised that the soil would be cleaned of poison once a way to do it existed. The cleanup was finished by 2003 and cost $17.1 million.
+**The protest.** Residents formed a group called Warren County Citizens Concerned About PCBs and sued. They lost in 1982. The trucks began to deliver the soil that September, and protesters lay in the road. Officers arrested about 500 people, and one later count says more than 500.
+
+State officials went ahead and built the landfill. Governor Hunt promised that the soil would be cleaned of poison once a way to do it existed. The cleanup was finished by 2003 and cost $17.1 million.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Counting who lives near the waste" -->
-In the 1980s, the authors of two studies counted who lived near hazardous waste sites, and both found the answer tied to race. Hazardous waste is waste that can harm people's health. Communities of color are places where most people are not white.
+The authors of two studies in the 1980s counted who lived near hazardous waste sites, the places that hold waste that can harm people's health. Both found the answer tied to race.
 
-Members of Congress asked the US General Accounting Office, a federal office that investigates for Congress, to study landfills for hazardous waste in eight southeastern states. Its report came out on June 1, 1983. The report named four landfills in those states that took other people's waste for pay. One was the Warren County landfill. The others were in Sumter County, Alabama, Chester County, South Carolina, and Sumter County, South Carolina. All four were in areas where Black residents made up 38 to 90 percent of the population.
+**The 1983 study.** Members of Congress asked the US General Accounting Office, a federal office that investigates for Congress, to study landfills for hazardous waste in eight southeastern states. Its report came out on June 1, 1983.
 
-In 1987 the Commission for Racial Justice of the United Church of Christ published a national study, *Toxic Wastes and Race in the United States*. Charles Lee wrote it. He found that race was "the most potent variable in predicting where these facilities were located, more powerful than household income, the value of homes and the estimated amount of hazardous waste generated by industry." The race of the people nearby predicted where a waste site stood better than how much money they had.
+The report lists four landfills in those states that took other people's waste for pay. One was the Warren County landfill. The others were in Sumter County, Alabama, Chester County, South Carolina, and Sumter County, South Carolina. All four were in areas where Black residents made up 38 to 90 percent of the population.
 
-When the report came out, the commission's leader, Rev. Benjamin F. Chavis Jr., gave a name to "intentionally selecting communities of color for wastes disposal sites and polluting industrial facilities." He called it "environmental racism." The authors of a follow-up study in 1994 found that people of color were "47 percent more likely to live near a hazardous waste facility than white Americans."
+**The 1987 study.** The Commission for Racial Justice of the United Church of Christ published a national study in 1987, *Toxic Wastes and Race in the United States*. Charles Lee wrote it. He found that race was "the most potent variable in predicting where these facilities were located," more powerful than household income or the value of homes. The race of the people nearby predicted where a waste site stood better than how much money they had.
 
-On February 11, 1994, President Bill Clinton signed Executive Order 12898. An executive order is a written command from the president to the people who run the federal government. In it he directed federal agencies to find and deal with pollution that fell hardest on communities of color and poor communities. A 2007 report by the United Church of Christ states that the EPA "has failed to implement" the order, meaning its officials had not carried it out.
+When the report came out, the commission's leader, Rev. Benjamin F. Chavis Jr., gave a name to "intentionally selecting communities of color," places where most people are not white, "for wastes disposal sites and polluting industrial facilities." He called it "environmental racism." The authors of a follow-up study in 1994 found that people of color were "47 percent more likely to live near a hazardous waste facility than white Americans."
+
+President Bill Clinton signed Executive Order 12898 on February 11, 1994. In it he directed the officials of federal agencies to find and deal with pollution that fell hardest on communities of color and poor communities. A 2007 report by the United Church of Christ states that the EPA "has failed to implement" the order, meaning its officials had not carried it out.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Wolves back in Yellowstone" -->
-Starting in January 1995, gray wolves brought from Canada were released in Yellowstone National Park. By the end of 1996, 31 wolves had been moved there. Park managers had killed the park's last wolf pack in 1926. For most of the 1900s, elk had eaten the park's willows and other woody plants so heavily that the plants could not grow tall. After the wolves came back, the willows began to grow. Park Service scientists wrote in 2019 that most studies agree on that growth. They still debate how much of it the wolves caused, by hunting the elk and changing where the elk fed.
+Gray wolves brought from Canada were released in Yellowstone National Park starting in January 1995, and by the end of 1996, 31 wolves had been moved there. Park managers had killed the park's last wolf pack in 1926. For most of the 1900s, elk had eaten the park's willows and other woody plants so heavily that the plants could not grow tall. After the wolves came back, the willows began to grow.
+
+**Known:** Park Service scientists wrote in 2019 that most studies agree on that growth.
+**Disputed:** Scientists still debate how much of that growth the wolves caused, by hunting the elk and changing where the elk fed.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" label="By 2000" -->
+**If you remember one thing:** Members of Congress passed the big federal laws against pollution in the 1970s, and then residents and researchers showed that waste sites stood far more often beside Black and poor neighborhoods.
+**One number:** In 1963 there were 417 nesting pairs of bald eagles in the lower 48 states. By 2007, after the DDT ban, there were about 10,000, roughly 24 times as many.
+**Next:** After 2000 came the warmest year ever measured, fires that burned millions of acres, and a fight in Louisiana over a chemical plant beside a school.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -270,21 +372,29 @@ Starting in January 1995, gray wolves brought from Canada were released in Yello
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-The year 2024 was the warmest ever measured, both for the whole world and for the lower 48 states. Heat and drought dried forests that had filled up with fuel during about a century of stopping fires. In 2020, fires burned about 4.2 million acres of California. Lake Mead and Lake Powell, two reservoirs on the Colorado River, fell to record lows in 2021 and 2022. Fire managers now set fires on purpose again, and Yurok people teach cultural fire to government fire crews.
+**Era 10 of 10 · 2000 to Today · about 16 minutes**
 
-In Louisiana, Shell's managers agreed in 2002 to pay to move the families of Old Diamond, a neighborhood beside a Shell chemical plant. In 2023 federal lawyers sued the owner of a plant near an elementary school in LaPlace, and in 2025 they dropped the suit. Bald eagles grew from 417 nesting pairs in 1963 to about 71,400 in the 2020s. The bison, fewer than 1,000 in 1900, now number more than 400,000, most of them in herds raised for sale. Wolves, wiped out of Yellowstone by 1926, numbered 2,797 in seven western states at the end of 2022. On July 13, 2026, President Donald Trump cut Bears Ears National Monument, in Utah, by about 91 percent. As of September 26, 2026, the land he removed was open to mining claims, and lawsuits against the cut were waiting in federal court.
+The land grew hotter and drier after 2000, and fires grew bigger. The year 2024 was the warmest ever measured, both for the whole world and for the lower 48 states. Heat and drought dried forests that had filled up with fuel during about a century of stopping fires.
+
+Fires burned about 4.2 million acres of California in 2020. Lake Mead and Lake Powell, two reservoirs on the Colorado River, fell to record lows in 2021 and 2022. Fire managers now set fires on purpose again, and Yurok people teach cultural fire to government fire crews.
+
+Fights over pollution and protected land went on. Shell's managers agreed in 2002 to pay to move the families of Old Diamond, a Louisiana neighborhood beside a Shell chemical plant. Federal lawyers sued the owner of a plant near an elementary school in LaPlace in 2023, and they dropped the suit in 2025.
+
+President Donald Trump cut Bears Ears National Monument, in Utah, by about 91 percent on July 13, 2026. As of September 26, 2026, the land he removed was open to mining claims, and lawsuits against the cut were waiting in federal court.
+
+Some animals came back. Bald eagles grew from 417 nesting pairs in 1963 to about 71,400 in the 2020s. The bison, fewer than 1,000 in 1900, now number more than 400,000, most of them in herds raised for sale. Wolves, wiped out of Yellowstone by 1926, numbered 2,797 in seven western states at the end of 2022.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The warmest year" -->
-In January 2025, scientists at NOAA, the federal agency that tracks weather and climate, reported that 2024 was the warmest year on record for the planet. The world averaged 1.29 degrees Celsius above the average for the 20th century, the years 1901 to 2000. Scientists at NASA and other groups agreed. The lower 48 states averaged 55.5 degrees Fahrenheit in 2024, which was 3.5 degrees above their 20th-century average. Seventeen states set records.
+Scientists at NOAA, the federal agency that tracks weather and climate, reported in January 2025 that 2024 was the warmest year on record for the planet. The world averaged 1.29 degrees Celsius, about 2.3 degrees Fahrenheit, above the average for the 20th century, the years 1901 to 2000. Scientists at NASA and other groups agreed. The lower 48 states averaged 55.5 degrees Fahrenheit in 2024, which was 3.5 degrees above their 20th-century average. Seventeen states set records.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Fire comes back bigger" -->
+<!-- hb-zoom level="span" label="Why are the fires bigger?" -->
 After about a century of stopping fires, the woods held heavy loads of fuel, the dead wood and brush that burns. Heat and drought dried that fuel out.
 
-On November 8, 2018, the Camp Fire killed 85 people in California and destroyed nearly all of the town of Paradise. Those figures are the ones given by the encyclopedia *Britannica* and by a timeline from the National Institute of Standards and Technology, a federal science agency. About 19,000 buildings burned. The Camp Fire was the deadliest wildfire in the United States in a century.
+**The Camp Fire.** The Camp Fire of November 8, 2018, killed 85 people in California and destroyed nearly all of the town of Paradise. About 19,000 buildings burned. Those figures are the ones given by the encyclopedia *Britannica* and by a timeline from the National Institute of Standards and Technology, a federal science agency. It was the deadliest wildfire in the United States in a century.
 
-In 2020, fires burned about 4.2 million to 4.3 million acres of California, about 4 percent of the state. By the count of CAL FIRE, California's fire agency, that was the most in modern records. One fire, called the August Complex, passed 1 million acres. It became known as the first "gigafire" in the state's modern history, meaning a fire that burned more than a million acres.
+**The 2020 fires.** Fires burned about 4.2 million to 4.3 million acres of California in 2020, an area bigger than Connecticut and about 4 percent of the state. By the count of CAL FIRE, California's fire agency, that was the most in modern records. One fire, called the August Complex, passed 1 million acres. It became known as the first "gigafire" in the state's modern history, meaning a fire that burned more than a million acres.
 
 Fire managers at government agencies now set fires on purpose to burn off fuel. These planned fires are called prescribed burns, and prescribed burning is official policy again.
 <!-- /hb-zoom -->
@@ -295,23 +405,27 @@ Fire managers at government agencies now set fires on purpose to burn off fuel. 
 > **Who:** A member of the Yurok Tribe who helped found the Cultural Fire Management Council, to bring traditional burning back to Yurok land.
 > **When and where:** The Klamath River country of northern California. The first community burn was in 2012, and the council formed in 2013.
 
+**She wanted straight hazel shoots to weave baskets for her grandchildren.**
+
 Margo Robbins, a member of the Yurok Tribe, wanted hazel for weaving baskets. When hazel is burned, it sends up new shoots that grow straight, and weavers need straight shoots. Her first goal was to weave baskets to carry her grandchildren.
 
-Robbins and others held their first community burn on Yurok land along the Klamath River in 2012. In 2013 they formed the Cultural Fire Management Council. Cultural fire means burning done by Native people to care for the land. In 1850 California's state lawmakers had passed the *Act for the Government and Protection of Indians*. Other sections of the same law let white people take custody of Native children and let officials hire out Native adults to the highest bidder. Under Section 10 of that law, setting the prairie on fire was a crime, and burning the land on purpose was a Native practice. After the council's burns, deer came back to the burned ground at Weitchpec. Council members now run training exchanges, called TREX, that teach cultural burning to fire crews.
+Robbins and others held their first community burn on Yurok land along the Klamath River in 2012. In 2013 they formed the Cultural Fire Management Council. Cultural fire, burning done by Native people to care for the land, was the practice California's lawmakers had made a crime in 1850, in the same law that let officials hire out Native adults to the highest bidder.
+
+After the council's burns, deer came back to the burned ground at Weitchpec. Council members now run training exchanges, called TREX, that teach cultural burning to fire crews.
 <!-- hb-story:end slug="margo-robbins" -->
 
 <!-- hb-zoom level="span" label="The shrinking river" -->
-From 2000 to 2021, the Southwest had its driest 22 years in at least 1,200 years. Scientists from UCLA and Columbia University found this by studying tree rings, which show how much a tree grew each year. In February 2022 they published their study in the journal *Nature Climate Change*. They found that about 42 percent of how bad the drought was came from climate change caused by people.
+The Southwest had its driest 22 years in at least 1,200 years from 2000 to 2021. Scientists from UCLA and Columbia University found this by studying tree rings, which show how much a tree grew each year. They published their study in the journal *Nature Climate Change* in February 2022. They found that about 42 percent of how bad the drought was came from climate change caused by people.
 
-About 40 million people depend on the Colorado River for water, and so does much of the country's winter vegetable crop. Lake Mead and Lake Powell, two reservoirs on the river, fell to record lows in 2021 and 2022, news reports stated. By the middle of 2022, Lake Mead was about a quarter full.
+About 40 million people depend on the Colorado River for water, and so does much of the country's winter vegetable crop. Lake Mead and Lake Powell, two reservoirs on the river, fell to record lows in 2021 and 2022. By the middle of 2022, Lake Mead was about a quarter full.
 
-In May 2023, officials of Arizona, California and Nevada agreed to cut their use of the river by at least 3 million acre-feet through the end of 2026. News reports gave that figure from the federal Bureau of Reclamation. An acre-foot is enough water to cover one acre of land one foot deep. The cut is about a tenth of the water those three states are allowed to take. Federal officials agreed to pay the states for the water they gave up.
+**The cut.** Officials of Arizona, California and Nevada agreed in May 2023 to cut their use of the river by at least 3 million acre-feet through the end of 2026. News reports gave that figure from the federal Bureau of Reclamation. An acre-foot is enough water to cover one acre of land one foot deep. The cut is about a tenth of the water those three states are allowed to take, and federal officials agreed to pay the states for the water they gave up.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cancer Alley" -->
-The stretch of Louisiana between Baton Rouge and New Orleans holds a long line of chemical plants. A 2007 report by the United Church of Christ describes this strip as "so-called 'cancer alley,' the chemical manufacturing corridor between Baton Rouge and New Orleans." A corridor is a long, narrow strip of land. The towns of Norco and LaPlace are both in it.
+The stretch of Louisiana between Baton Rouge and New Orleans holds a long line of chemical plants. A 2007 report by the United Church of Christ describes this strip as "so-called 'cancer alley,' the chemical manufacturing corridor between Baton Rouge and New Orleans," a corridor being a long, narrow strip of land. The towns of Norco and LaPlace are both in it.
 
-The same report records who lived near commercial hazardous waste sites across the country in 2000, using census figures. In neighborhoods with such sites, 56 percent of the people were people of color. Elsewhere, 30 percent were. The poverty rate was 18 percent near the sites and 12 percent elsewhere. Forty of the 44 states with such sites showed the same gap.
+The same report records who lived near commercial hazardous waste sites across the country in 2000, using census figures. In neighborhoods with such sites, 56 percent of the people were people of color, against 30 percent elsewhere. The poverty rate was 18 percent near the sites and 12 percent elsewhere. Forty of the 44 states with such sites showed the same gap.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="margie-richard" name="Margie Richard" movie="" kind="ordinary" status="verified" -->
@@ -320,64 +434,119 @@ The same report records who lived near commercial hazardous waste sites across t
 > **Who:** A schoolteacher from the Old Diamond neighborhood of Norco, Louisiana, who led her neighbors' campaign to make Shell pay to move them away from its plant.
 > **When and where:** Norco, Louisiana. The campaign ended in 2002. She won the Goldman Environmental Prize in April 2004.
 
-Four generations of Margie Richard's family lived in the Old Diamond neighborhood of Norco, Louisiana. Their home stood 25 feet from the fence of a Shell Chemical plant. Shell had bought land in Diamond and built the plant there in the early 1950s. The neighborhood sat between the chemical plant and a Shell refinery, a plant that turns crude oil into fuels. Residents of Old Diamond kept a record of the cancers and birth defects among their neighbors.
+**Her family's home stood 25 feet from a Shell plant's fence.**
 
-In 1973 gas leaked from a Shell pipeline. A spark from a lawnmower set it on fire. The fire burned Leroy Jones, age 16, to death while he was cutting grass. It also burned to death Helen Washington, who was resting on her porch. In 1988 an explosion at the Shell refinery killed seven workers and damaged homes in Diamond.
+Four generations of Margie Richard's family lived in the Old Diamond neighborhood of Norco, Louisiana. Their home stood 25 feet from the fence of a Shell Chemical plant. Shell had bought land in Diamond and built the plant there in the early 1950s. The neighborhood sat between the chemical plant and a Shell refinery, a plant that turns crude oil into fuels.
+
+Residents of Old Diamond kept a record of the cancers and birth defects among their neighbors.
+
+**The fires.** Gas leaked from a Shell pipeline in 1973, and a spark from a lawnmower set it on fire. The fire burned Leroy Jones, age 16, to death while he was cutting grass. It also burned to death Helen Washington, who was resting on her porch. An explosion at the Shell refinery in 1988 killed seven workers and damaged homes in Diamond.
 
 In a 2004 interview with *Grist* magazine, Richard remembered: "The elder people were always coughing ... black soot falling on the grass, on our houses." She also said: "My sister died at a very early age from a rare bacterial disease."
 
-Richard led the neighborhood's campaign for about 13 years. Residents tested their own air with buckets built to catch air samples. They took their case to Shell's shareholder meetings, where the company's owners gather, and to Shell in the Netherlands. In 2002 Shell's managers agreed to pay to move every Old Diamond family that wanted to leave. They also agreed to cut the plant's emissions, the pollution it sends into the air, by 30 percent, and to put $5 million into a community fund. Shell paid at least $80,000 for each house and $50,000 for each trailer, about $30 million in all.
+**The campaign.** Richard led the neighborhood's campaign for about 13 years. Residents tested their own air with buckets built to catch air samples. They took their case to Shell's shareholder meetings, where the company's owners gather, and to Shell in the Netherlands.
 
-In April 2004 Richard became the first African American to win the Goldman Environmental Prize.
+Shell's managers agreed in 2002 to pay to move every Old Diamond family that wanted to leave. They also agreed to cut the plant's emissions, the pollution it sends into the air, by 30 percent, and to put $5 million into a community fund. Shell paid at least $80,000 for each house and $50,000 for each trailer, about $30 million in all.
+
+Richard became the first African American to win the Goldman Environmental Prize, in April 2004.
 <!-- hb-story:end slug="margie-richard" -->
 
 <!-- hb-zoom level="span" label="The plant by the school" -->
 Federal lawyers sued the owner of a plant in LaPlace, Louisiana, in 2023, and they dropped the suit in 2025. The plant released a chemical likely to cause cancer into the air near an elementary school.
 
-The plant is in St. John the Baptist Parish. A parish in Louisiana is like a county in other states. The company DuPont built the plant to make neoprene, a kind of man-made rubber. The Japanese company Denka bought it about 2015, according to AP news reporting in 2025. To make neoprene, the plant used a chemical called chloroprene, and it released chloroprene into the air.
+The plant is in St. John the Baptist Parish (a parish in Louisiana is like a county in other states). The company DuPont built the plant to make neoprene, a kind of man-made rubber. The Japanese company Denka bought it about 2015, according to AP news reporting in 2025. To make neoprene, the plant used a chemical called chloroprene, and it released chloroprene into the air.
 
-In 2010 EPA scientists found that chloroprene is "likely to be carcinogenic to humans." Carcinogenic means causing cancer. They also found that children breathing it build up a lifetime risk of cancer faster than adults do.
+EPA scientists found in 2010 that chloroprene is "likely to be carcinogenic to humans," meaning likely to cause cancer. They also found that children breathing it build up a lifetime risk of cancer faster than adults do.
 
-In 2023, more than 300 children went to the 5th Ward Elementary School, about 450 feet from the plant. The EPA's recommended long-term level for chloroprene is 0.2 micrograms in each cubic meter of air. A microgram is one millionth of a gram. In their 2023 lawsuit, federal lawyers reported the averages at the five air monitors closest to the plant. The lowest was "more than four times" the recommended level. The highest was "more than 14 times" that level.
+**The school.** More than 300 children went to the 5th Ward Elementary School in 2023, about 450 feet from the plant, or about a football field and a half.
 
-In March 2025, AP reporters wrote that the community around the plant is about 59 percent Black. They also reported that the plant's air pollution posed the highest cancer risk from any single source to a mostly Black population in the country.
+The EPA's recommended long-term level for chloroprene is 0.2 micrograms in each cubic meter of air, a microgram being one millionth of a gram. In their 2023 lawsuit, federal lawyers reported the averages at the five air monitors closest to the plant. The lowest was "more than four times" the recommended level, and the highest was "more than 14 times" that level.
 
-On February 28, 2023, lawyers for the US Justice Department, acting for the EPA under President Biden, sued Denka under the Clean Air Act. They asked the court to force deep cuts in the plant's chloroprene pollution. A trial was set for April 2025. On March 7, 2025, under President Trump, Justice Department lawyers dropped the suit. Their press release stated that dropping it carried out the president's order called "Ending Radical and Wasteful Government DEI Programs and Preferencing." DEI stands for diversity, equity and inclusion.
+AP reporters wrote in March 2025 that the community around the plant is about 59 percent Black. They also reported that the plant's air pollution posed the highest cancer risk from any single source to a mostly Black population in the country.
 
-On May 13, 2025, Denka's managers announced that the LaPlace plant would not start making chloroprene again "for an indefinite period," meaning with no end date. They named losses of more than $100 million, rising costs, falling production and problems keeping enough staff. Articles in trade magazines also listed the pollution rules as a reason. The plant was not making chloroprene as of May 2025.
+**The lawsuit.** Lawyers for the US Justice Department, acting for the EPA under President Biden, sued Denka under the Clean Air Act on February 28, 2023. They asked the court to force deep cuts in the plant's chloroprene pollution. A trial was set for April 2025.
+
+Under President Trump, Justice Department lawyers dropped the suit on March 7, 2025. Their press release stated that dropping it carried out the president's order called "Ending Radical and Wasteful Government DEI Programs and Preferencing." DEI stands for diversity, equity and inclusion.
+
+Denka's managers announced on May 13, 2025, that the LaPlace plant would not start making chloroprene again "for an indefinite period," meaning with no end date. They named losses of more than $100 million, rising costs, falling production and problems keeping enough staff. Articles in trade magazines also listed the pollution rules as a reason. The plant was not making chloroprene as of May 2025.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Plastic in the rain" -->
-More than 1,000 tons of tiny plastic pieces fall each year on protected land in the western United States. Janice Brahney, a scientist at Utah State University, and her team found this in a study published in the journal *Science* on June 12, 2020. The pieces are called microplastic, which means bits of plastic too small to see easily. They fall with rain and with dust. The team sampled 11 parks and other protected areas. Each year's total is about as much plastic as more than 120 million plastic bottles. Most of the pieces were tiny fibers from clothing.
+More than 1,000 tons of tiny plastic pieces fall each year on protected land in the western United States. Janice Brahney, a scientist at Utah State University, and her team found this in a study published in the journal *Science* on June 12, 2020. The pieces are called microplastic, bits of plastic too small to see easily, and they fall with rain and with dust. The team sampled 11 parks and other protected areas.
+
+Each year's total is about as much plastic as more than 120 million plastic bottles. Most of the pieces were tiny fibers from clothing.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Comebacks" -->
-People nearly wiped out the bald eagles and the bison, and wiped out the wolves of Yellowstone and of public lands across the country. All three live in far larger numbers now. Hide hunters killed the bison, park managers and others poisoned and shot the wolves, and DDT that people sprayed thinned the eagles' eggshells. In the 2020s, the U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles. In 1963 there had been 417.
+People nearly wiped out the bald eagles and the bison, and wiped out the wolves of Yellowstone and of public lands across the country. All three live in far larger numbers now. Hide hunters killed the bison, park managers and others poisoned and shot the wolves, and DDT that people sprayed thinned the eagles' eggshells.
 
-About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. A count in 2008 found about 20,500 Plains bison in 61 herds kept for conservation. It also found about 400,000 bison in commercial herds, which are raised for sale. A U.S. Fish and Wildlife Service web page now lists about 420,000 bison in commercial herds.
+**Eagles.** The U.S. Fish and Wildlife Service counted about 71,400 nesting pairs of bald eagles in the 2020s, against 417 in 1963.
 
-At the end of 2022, state wildlife officials estimated 2,797 wolves in seven western states. At the end of 2024, Park Service biologists counted 108 wolves in nine packs in Yellowstone National Park. At the end of 2025, the park's lead wolf biologist, Dan Stahler, gave a count of 84 wolves in eight packs. People are still fighting in court over whether wolves should stay on the endangered list.
+**Bison.** About 30 million bison lived on the Plains in the early 1800s, and fewer than 1,000 were left by 1900. A count in 2008 found about 20,500 Plains bison in 61 herds kept for conservation. It also found about 400,000 bison in commercial herds, which are raised for sale. A U.S. Fish and Wildlife Service web page now lists about 420,000 bison in commercial herds.
+
+**Wolves.** State wildlife officials estimated 2,797 wolves in seven western states at the end of 2022. Park Service biologists counted 108 wolves in nine packs in Yellowstone National Park at the end of 2024. At the end of 2025, the park's lead wolf biologist, Dan Stahler, gave a count of 84 wolves in eight packs. People are still fighting in court over whether wolves should stay on the endangered list.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Land given back" -->
-In December 2020, members of Congress passed a law returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge on the Flathead Reservation. A refuge is land where wild animals are kept safe. The tribes took over full management of the range in 2022.
+Members of Congress passed a law in December 2020 returning the National Bison Range to the Confederated Salish and Kootenai Tribes. The range is an 18,800-acre bison refuge, land where wild animals are kept safe, on the Flathead Reservation. The tribes took over full management of the range in 2022.
 
-The tribes had lost that land in 1908. On May 23, 1908, President Theodore Roosevelt signed a law. Under it, federal officials could spend money to buy land on the reservation for a bison range. The tribes objected strongly. Federal officials took the land anyway and paid about $1.56 an acre. The Fifth Amendment to the Constitution requires fair payment when the government takes private property for public use. In 1971 judges of the U.S. Court of Claims ruled that the price had been below the land's fair value. That federal court heard claims for money against the national government. That made the taking a break of the Fifth Amendment. The judges awarded the tribes about $231,548.
+**How the tribes lost it.** President Theodore Roosevelt signed a law on May 23, 1908, under which federal officials could spend money to buy land on the reservation for a bison range. The tribes objected strongly. Federal officials took the land anyway and paid about $1.56 an acre.
 
-In 2018, Park Service officials in Yosemite agreed to share the care of Wahhoga, the site of the valley's last Native village, for 30 years. They share it with the American Indian Council of Mariposa County. In the winter of 2025, a roundhouse, a round building for gatherings, was finished there.
+The Fifth Amendment to the Constitution requires fair payment when the government takes private property for public use. Judges of the U.S. Court of Claims, a federal court that heard claims for money against the national government, ruled in 1971 that the price had been below the land's fair value. That made the taking a break of the Fifth Amendment. The judges awarded the tribes about $231,548.
+
+**Wahhoga.** Park Service officials in Yosemite agreed in 2018 to share the care of Wahhoga, the site of the valley's last Native village, for 30 years. They share it with the American Indian Council of Mariposa County. A roundhouse, a round building for gatherings, was finished there in the winter of 2025.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bears Ears" -->
-Since 2016, three presidents have created, cut, restored and cut again Bears Ears National Monument in Utah. As of September 26, 2026, most of the land was out of the monument and open to mining claims, and no court had ruled on the latest cut.
+Three presidents have created, cut, restored and cut again Bears Ears National Monument in Utah since 2016. As of September 26, 2026, most of the land was out of the monument and open to mining claims, and no court had ruled on the latest cut.
 
-On December 28, 2016, President Obama created the monument, with 1.35 million acres. Five tribes had proposed it: the Hopi Tribe, the Navajo Nation, the Ute Mountain Ute Tribe, the Ute Indian Tribe and the Pueblo of Zuni. In December 2017, President Donald Trump cut it by about 85 percent, to about 201,876 acres. On October 8, 2021, President Biden restored it. In June 2022, the five tribes signed an agreement with the Bureau of Land Management and the Forest Service to manage the monument together.
+**Created and cut.** President Obama created the monument on December 28, 2016, with 1.35 million acres. Five tribes had proposed it: the Hopi Tribe, the Navajo Nation, the Ute Mountain Ute Tribe, the Ute Indian Tribe and the Pueblo of Zuni.
 
-On July 13, 2026, Trump signed a proclamation that cut Bears Ears to 121,096 acres, a cut of about 91 percent. Reporters for the *Moab Sun News* published these figures on July 18, 2026. About 1.24 million acres left the monument. What is left is two pieces, Shash Jáa, about 106,816 acres, and Indian Creek, about 14,279 acres. The proclamation lists minerals in the removed land: silver, copper, uranium, vanadium and zinc. The same day, Trump cut Grand Staircase-Escalante National Monument from about 1.87 million acres to about 181,500 acres.
+President Donald Trump cut it by about 85 percent in December 2017, to about 201,876 acres. President Biden restored it on October 8, 2021. In June 2022, the five tribes signed an agreement with the Bureau of Land Management and the Forest Service to manage the monument together.
 
-In the July proclamation, Trump also ended the Bears Ears Commission. Elected representatives of the five tribes sat on it, and they had managed the monument with federal officials under the 2022 agreement. Reporters for the *Moab Sun News* wrote that a committee that only gives advice took its place, with tribes holding 5 of about 15 seats. The tribes say Interior Department officials promised in writing in June 2025 to ask the commission's views before any change to the boundaries, and that no one asked it before July 13. Their statement said: "Our Tribes were not informed of or asked about this decision, and that's unacceptable."
+**The 2026 cut.** Trump signed a proclamation on July 13, 2026, that cut Bears Ears to 121,096 acres, a cut of about 91 percent. Reporters for the *Moab Sun News* published these figures on July 18, 2026. About 1.24 million acres left the monument. What is left is two pieces, Shash Jáa, about 106,816 acres, and Indian Creek, about 14,279 acres.
 
-Under the proclamation, the removed land opened on September 11, 2026, to new mining claims, mineral leasing, grazing and timber cutting. A mining claim is a legal claim to the right to mine minerals on public land. Mineral leasing means renting out the right to take minerals from the ground. By noon on September 11, 16 claims had been recorded in San Juan County. By September 23, staff of a conservation group called SUWA counted 23 claims in the removed Bears Ears land. Kimmerle Mining had filed 20 of them, after trying to file 7 claims on July 14, before the land opened. George W. Schultz had filed 3. Kyle Kimmerle, of Kimmerle Mining, had been a plaintiff, a person who brings a lawsuit, in one of the suits against Biden's 2021 restoration.
+The proclamation lists minerals in the removed land: silver, copper, uranium, vanadium and zinc. The same day, Trump cut Grand Staircase-Escalante National Monument from about 1.87 million acres to about 181,500 acres.
 
-On September 2, 2026, three sets of plaintiffs went to the U.S. District Court for the District of Columbia, a federal court in Washington. Eight groups asked the court to reopen their 2017 case, which the court had closed for the time being, and to add a complaint against the July 13 proclamation. Among the eight are Utah Diné Bikéyah, Archaeology Southwest and the National Trust for Historic Preservation. Two more sets of groups asked to start up their own 2017 cases again. The conservation groups NRDC and SUWA led one set, and The Wilderness Society led the other. They argue that the Antiquities Act of 1906 lets a president create a monument and does not let a president undo one. Utah's members of Congress called the cuts "a return to an appropriate application of the Antiquities Act." The tribes' own 2017 case, *Hopi Tribe v. Trump*, is still pending, which means undecided, in the same court. As of September 26, 2026, no court had ruled on the 2026 cuts, and no judge had ordered them stopped.
+**The tribes' commission.** In the July proclamation, Trump also ended the Bears Ears Commission. Elected representatives of the five tribes sat on it, and they had managed the monument with federal officials under the 2022 agreement. Reporters for the *Moab Sun News* wrote that a committee that only gives advice took its place, with tribes holding 5 of about 15 seats.
+
+The tribes say Interior Department officials promised in writing in June 2025 to ask the commission's views before any change to the boundaries, and that no one asked it before July 13. Their statement said: "Our Tribes were not informed of or asked about this decision, and that's unacceptable."
+
+**The mining claims.** Under the proclamation, the removed land opened on September 11, 2026, to new mining claims, mineral leasing, grazing and timber cutting. A mining claim is a legal claim to the right to mine minerals on public land, and mineral leasing means renting out the right to take minerals from the ground. By noon on September 11, 16 claims had been recorded in San Juan County.
+
+By September 23, staff of a conservation group called SUWA counted 23 claims in the removed Bears Ears land. Kimmerle Mining had filed 20 of them, after trying to file 7 claims on July 14, before the land opened. George W. Schultz had filed 3. Kyle Kimmerle, of Kimmerle Mining, had been a plaintiff, a person who brings a lawsuit, in one of the suits against Biden's 2021 restoration.
+
+**In court.** Three sets of plaintiffs went to the U.S. District Court for the District of Columbia, a federal court in Washington, on September 2, 2026. Eight groups asked the court to reopen their 2017 case, which the court had closed for the time being, and to add a complaint against the July 13 proclamation. Among the eight are Utah Diné Bikéyah, Archaeology Southwest and the National Trust for Historic Preservation.
+
+Two more sets of groups asked to start up their own 2017 cases again. The conservation groups NRDC and SUWA led one set, and The Wilderness Society led the other. They argue that the Antiquities Act of 1906 lets a president create a monument and does not let a president undo one. Utah's members of Congress called the cuts "a return to an appropriate application of the Antiquities Act."
+
+The tribes' own 2017 case, *Hopi Tribe v. Trump*, is still pending, which means undecided, in the same court. As of September 26, 2026, no court had ruled on the 2026 cuts, and no judge had ordered them stopped.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" label="By 2026" -->
+**If you remember one thing:** The land grew hotter and drier and the fires grew bigger after 2000, while bald eagles, bison and wolves came back by the thousands.
+**Still open:** No court has yet decided whether a president can undo a national monument another president made. The tribes' 2017 case and the suits filed in September 2026 were still waiting in federal court on September 26, 2026.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" label="Chapter closing" -->
+**The three questions, answered**
+- How did Native nations shape the land before Europeans came? They burned the eastern forests on purpose, again and again, to keep them open and grow food for game, and they planted corn, beans and squash together to keep the soil good.
+- What happened to the 30 million bison and the billions of passenger pigeons? Hide hunters, carried by the railroads and helped by army officers who wanted the Plains nations' food gone, left fewer than 1,000 bison by 1900. Netters and shooters killed the pigeons at their nestings, and the last one died in a zoo in 1914.
+- Who was pushed out when parks were made, and who lived next to the waste? Native people were pushed out: the Ahwahneechee in Yosemite, the Tukudika in Yellowstone, the Blackfeet at Glacier. Studies from 1983 on found waste sites far more often beside Black and poor neighborhoods.
+
+**What changed:** Americans cleared, sold and wore out the land that Native nations had kept with fire, then began to protect parts of it by law, and fire crews now learn the old burning from the Yurok.
+
+**Five dates to keep**
+- 1642: Miantonomi describes what English settlers are doing to the land.
+- May 20, 1785: Members of Congress pass the Land Ordinance, the start of the grid.
+- March 1, 1872: Yellowstone becomes the first national park.
+- September 1, 1914: Martha, the last passenger pigeon, dies.
+- April 22, 1970: About 20 million Americans take part in Earth Day.
+
+**Not known:** Nobody counted the bison on the Plains before 1500, and the usual figure of about 30 million comes from the early 1800s.
+
+**Where to go:** Devils Tower National Monument, the first national monument, which the Lakota call Mato Tipila, or Bear Lodge.
+
+**Next:** Chapter 4, Immigration to America. It asks why people left home to come here, and whom Americans tried to keep out.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

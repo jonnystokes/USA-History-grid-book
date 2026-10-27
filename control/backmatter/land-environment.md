@@ -1,0 +1,234 @@
+# Back-matter hand-off: Chapter 3, Land and Environment (land-environment)
+
+## Glossary
+
+- understory: the layer of brush and small plants under the tall trees (Before 1500)
+- game: the wild animals people hunted (Before 1500)
+- Three Sisters: corn, beans and squash grown together in the same field (Before 1500)
+- nitrogen: a natural substance that plants need to grow (Before 1500)
+- watershed: all the land that drains into one stream or river (Before 1500)
+- fur trade: the buying and selling of animal skins between European traders and Native trappers (Before 1500)
+- Plains: the wide grasslands in the middle of the continent (Before 1500)
+- watercourts: pens in the water that held live fish until people needed them for food (Before 1500)
+- feral hogs: pigs from farm stock that live in the wild (The 1500s)
+- glaciers: thick sheets of ice that once covered the north (The 1500s)
+- duff: a thick, soft layer of fallen leaves on a forest floor (The 1500s)
+- ballast: heavy dirt carried low in a ship to keep it steady (The 1500s)
+- epidemic: a disease that spreads quickly to many people (The 1500s)
+- famine: a lack of food so great that people starve (The 1500s)
+- hectare: a square of land 100 meters on each side (The 1500s)
+- carbon dioxide: a gas that traps heat (The 1500s)
+- deed: the paper that says who owns a piece of land (The 1600s)
+- felt: a thick cloth made by pressing fur together (The 1600s)
+- timber: wood for building (The 1600s)
+- conservation: protecting land, water, plants and animals so that people do not use them up (The 1600s)
+- acre: a piece of land a little smaller than a football field (The 1600s)
+- sachem: a leader of a Native nation in New England (The 1600s)
+- scythe: a long curved blade for cutting grass (The 1600s)
+- plantation: a large farm, owned by a planter (1700 to 1750)
+- mast: the tall pole that holds up a ship's sails (1700 to 1750)
+- charter: the written grant from the king that set up a colony's government (1700 to 1750)
+- license: written permission (1700 to 1750)
+- Broad Arrow: the mark on the king's trees, three slashes cut with a hatchet (1700 to 1750)
+- scrub: brush and small trees (1700 to 1750)
+- indentured servant: a person who worked for a master for a set number of years, often four to seven, to pay for the trip to America (1700 to 1750)
+- treaty: a written agreement between nations (1750 to 1800)
+- warrant: a paper from a court that allows an arrest (1750 to 1800)
+- soot: the black powder that smoke leaves behind (1750 to 1800)
+- shilling: a British coin (1750 to 1800)
+- forerunner: an earlier event of the same kind (1750 to 1800)
+- Confederation Congress: the national government of the United States before the Constitution (1750 to 1800)
+- Land Ordinance: the 1785 law that set out how the public land would be sold (1750 to 1800)
+- public land: land that US officials claimed for the nation, much of it lived on by Native nations (1750 to 1800)
+- survey: to measure land and map it (1750 to 1800)
+- township: a square of land six miles on each side, cut into 36 sections (1750 to 1800)
+- section: one square mile, which is 640 acres (1750 to 1800)
+- commissioners: officials sent to do a certain job (1750 to 1800)
+- reserve: an area set aside for a nation to live on (1750 to 1800)
+- under duress: under threat or force (1750 to 1800)
+- coerced: forced (1750 to 1800)
+- regiment: a large unit of soldiers (1750 to 1800)
+- confederacy: a union of nations (1750 to 1800)
+- Northwest Territory: the US name for the land north and west of the Ohio River (1750 to 1800)
+- spawn: to lay eggs, for fish (1800 to 1850)
+- run: the yearly trip of fish up a river (1800 to 1850)
+- Merino sheep: a kind of sheep raised for its wool (1800 to 1850)
+- superintendent: the official in charge of a national park (1800 to 1850)
+- reservation: land set aside for a Native nation to live on (1800 to 1850)
+- naturalist: a person who studies animals and plants in the wild (1800 to 1850)
+- passenger pigeon: a wild pigeon that flew in huge flocks (1800 to 1850)
+- woodlot: a piece of land kept for growing trees (1800 to 1850)
+- preservation: keeping something safe (1800 to 1850)
+- hides: the skins of animals such as bison (1850 to 1900)
+- homesteaders: settlers who got public land under the Homestead Act (1850 to 1900)
+- executive order: a command from the president (1850 to 1900)
+- Homestead Act: the 1862 law under which a person could claim up to 160 acres of public land and keep it after five years of living on it or farming it (1850 to 1900)
+- seized: taken by force (1850 to 1900)
+- expropriation: taking property away from its owners (1850 to 1900)
+- rations: supplies of food (1850 to 1900)
+- allotment: cutting reservations into separate plots under the Dawes Act, 160 acres for a family farm or 320 for grazing (1850 to 1900)
+- cultural fire: burning done by Native people to care for the land (1850 to 1900)
+- custody: control over a child and where the child lives (1850 to 1900)
+- forced labor: work a person is made to do for others, as when officials hired out arrested Native people to the best bidder (1850 to 1900)
+- headman: a leader (1850 to 1900)
+- battalion: a unit of soldiers (1850 to 1900)
+- cache: a hidden store of food (1850 to 1900)
+- bushel: a measure of dry goods that fills a large basket (1850 to 1900)
+- hostage: a prisoner held to force others to do something (1850 to 1900)
+- buffalo runners: what the hide hunters called themselves (1850 to 1900)
+- tannery: a place where animal skins are made into leather (1850 to 1900)
+- myriads: huge numbers (1850 to 1900)
+- carcasses: the dead bodies of animals (1850 to 1900)
+- fallacy: a false idea (1850 to 1900)
+- wanton: done for no good reason (1850 to 1900)
+- subsist: to stay alive (1850 to 1900)
+- decree: an order (1850 to 1900)
+- delegation: a group sent to speak for its people (1850 to 1900)
+- Indian agent: the US official in charge of a reservation (1850 to 1900)
+- pocket veto: what happens when the president does not sign a bill and Congress ends its meeting, so the bill never becomes law (1850 to 1900)
+- exterminated: killed off completely (1850 to 1900)
+- apocryphal: probably made up (1850 to 1900)
+- precarious: easily lost (1850 to 1900)
+- forest reserve: public forest land that a president could set aside under the 1891 Forest Reserve Act, the start of the national forests (1850 to 1900)
+- national forest: public land where federal foresters look after the trees (1900 to 1950)
+- forester: a person trained to study and manage forests (1900 to 1950)
+- proclamation: an official announcement (1900 to 1950)
+- national monument: land a president protects by proclamation under the Antiquities Act (1900 to 1950)
+- ancestral lands: the lands a people's ancestors lived on (1900 to 1950)
+- annuities: the food and goods US officials promised a tribe every year in a treaty, as payment for land (1900 to 1950)
+- agency: the office of the US official who ran a reservation (1900 to 1950)
+- maggots: the young of flies, which feed on rotting meat (1900 to 1950)
+- Starvation Winter: the winter of 1883 and 1884, when about 600 Blackfeet died of starvation (1900 to 1950)
+- prospectors: people who search for gold and other metals (1900 to 1950)
+- lease: a rental (1900 to 1950)
+- reservoir: a lake made by a dam to store water (1900 to 1950)
+- mounted: stuffed and set up for display (1900 to 1950)
+- strychnine: a poison park managers put inside dead animals for wolves to eat (1900 to 1950)
+- menace: a danger (1900 to 1950)
+- predator: an animal that hunts other animals for food (1900 to 1950)
+- bounty: a reward paid for each dead animal (1900 to 1950)
+- shortgrass: the short native grass of the southern Plains (1900 to 1950)
+- sod: a thick mat of roots and earth that holds the soil in place (1900 to 1950)
+- drought: a long time with too little rain (1900 to 1950)
+- topsoil: the top layer of soil, where crops grow (1900 to 1950)
+- erosion: the wearing away of soil by wind or water (1900 to 1950)
+- contour plowing: plowing along the curves of a slope instead of up and down it (1900 to 1950)
+- shelterbelts: rows of trees planted to slow the wind (1900 to 1950)
+- homesteading: claiming public land and farming it for years in order to own it (1900 to 1950)
+- 10 a.m. policy: the 1935 Forest Service rule that crews bring each fire under control by 10 o'clock the morning after it was spotted (1900 to 1950)
+- wilderness area: land kept free of roads and buildings (1900 to 1950)
+- land ethic: Aldo Leopold's idea that people count themselves as members of the land community and stop acting as its conquerors (1900 to 1950)
+- pesticide: a chemical made to kill insects (1950 to 2000)
+- DDT: a pesticide in wide use from the mid-1940s that thinned the eggshells of birds that hunt (1950 to 2000)
+- raptors: birds that hunt other animals (1950 to 2000)
+- lower 48 states: every state except Alaska and Hawaii (1950 to 2000)
+- persistent pesticide: a pesticide that stays in soil, water and living things for a long time (1950 to 2000)
+- marine biologist: a scientist who studies life in the sea (1950 to 2000)
+- evict: to force people out of their homes (1950 to 2000)
+- razed: torn down completely (1950 to 2000)
+- blowout: an uncontrolled burst of oil and gas up a well (1950 to 2000)
+- census: the national government's count of everyone in the country (1950 to 2000)
+- endangered species: a kind of plant or animal in danger of dying out (1950 to 2000)
+- dioxin: a group of chemicals that cause cancer and harm babies before they are born (1950 to 2000)
+- disclaimer: a statement that refuses blame (1950 to 2000)
+- chlorinated hydrocarbons: a kind of chemical that contains chlorine (1950 to 2000)
+- miscarriage: the death of an unborn baby before it can live outside the mother's body (1950 to 2000)
+- birth defect: a problem in a baby's body that is there when the baby is born (1950 to 2000)
+- state of emergency: an official order saying that people are in danger and need help fast (1950 to 2000)
+- chromosomes: the strands in each cell that carry a person's genes. Damage to them can raise the risk of cancer and of birth defects in the person's children (1950 to 2000)
+- Superfund: the 1980 law under which federal officials could make companies that polluted a site pay for cleaning it up (1950 to 2000)
+- landfill: a place where trash and waste are buried (1950 to 2000)
+- PCBs: a group of chemicals made by people, used in electrical, heating and hydraulic equipment (1950 to 2000)
+- hydraulic: worked by liquid under pressure (1950 to 2000)
+- water table: the level underground where the soil is full of water (1950 to 2000)
+- hazardous waste: waste that can harm people's health (1950 to 2000)
+- environmental justice movement: people who fight a pattern in which companies and government officials put polluting sites next to poor, Black, brown and Native communities (1950 to 2000)
+- communities of color: places where most people are not white (1950 to 2000)
+- environmental racism: Benjamin Chavis's name for choosing communities of color for waste sites and polluting factories (1950 to 2000)
+- fuel (for fires): the dead wood and brush that burns (2000 to Today)
+- prescribed burns: fires set on purpose by fire managers to burn off fuel (2000 to Today)
+- gigafire: a fire that burned more than a million acres (2000 to Today)
+- acre-foot: enough water to cover one acre of land one foot deep (2000 to Today)
+- corridor: a long, narrow strip of land (2000 to Today)
+- refinery: a plant that turns crude oil into fuels (2000 to Today)
+- emissions: the pollution a plant sends into the air (2000 to Today)
+- parish: in Louisiana, what other states call a county (2000 to Today)
+- neoprene: a kind of man-made rubber (2000 to Today)
+- carcinogenic: causing cancer (2000 to Today)
+- microgram: one millionth of a gram (2000 to Today)
+- DEI: diversity, equity and inclusion (2000 to Today)
+- microplastic: bits of plastic too small to see easily (2000 to Today)
+- commercial herds: herds raised for sale (2000 to Today)
+- refuge: land where wild animals are kept safe (2000 to Today)
+- roundhouse: a round building for gatherings (2000 to Today)
+- mining claim: a legal claim to the right to mine minerals on public land (2000 to Today)
+- mineral leasing: renting out the right to take minerals from the ground (2000 to Today)
+- plaintiff: a person who brings a lawsuit (2000 to Today)
+- pending: undecided (2000 to Today)
+
+## People
+
+- Miantonomi: Narragansett sachem who described what English settlers were doing to the land in 1642, sentenced to death by English officials and killed in 1643 (The 1600s)
+- Ebenezer Mudgett: Weare, New Hampshire, sawmill owner fined for cutting the king's pines, who led the Pine Tree Riot of 1772 (1750 to 1800)
+- John James Audubon: painter of *The Birds of America*, who put one 1813 flock of passenger pigeons at more than 1 billion birds (1800 to 1850)
+- Henry David Thoreau: writer and land surveyor who lived at Walden Pond and wrote "in Wildness is the preservation of the world" (1800 to 1850)
+- Frank Mayer: buffalo runner from 1872 to 1878 who said army posts gave hunters free ammunition (1850 to 1900)
+- John Muir: Scottish-born writer whose articles made Yosemite known, first president of the Sierra Club (1850 to 1900)
+- Theodore Roosevelt: president who put about 230 million acres under federal protection and camped in Yosemite with Muir in 1903 (1900 to 1950)
+- Gifford Pinchot: first chief of the U.S. Forest Service, fired by President Taft in 1910 (1900 to 1950)
+- Press Clay Southworth: 14-year-old who shot the last confirmed wild passenger pigeon in 1900 (1900 to 1950)
+- Caroline Henderson: Oklahoma Panhandle homesteader who stayed through the dust years and wrote "Letters from the Dust Bowl" (1900 to 1950)
+- Aldo Leopold: forester who got the Gila Wilderness set aside in 1924 and wrote *A Sand County Almanac* (1900 to 1950)
+- Rachel Carson: marine biologist who wrote *Silent Spring* about persistent pesticides (1950 to 2000)
+- Lois Gibbs: Love Canal mother who organized the Love Canal Homeowners Association in 1978 (1950 to 2000)
+- Margo Robbins: Yurok woman who helped found the Cultural Fire Management Council in 2013 (2000 to Today)
+- Margie Richard: Norco, Louisiana, schoolteacher who led the Old Diamond campaign that made Shell pay to move the families (2000 to Today)
+
+## Dates
+
+- 1642: Miantonomi describes what English settlers are doing to the land
+- May 20, 1785: Members of Congress pass the Land Ordinance, the start of the grid
+- March 1, 1872: Yellowstone becomes the first national park
+- September 1, 1914: Martha, the last passenger pigeon, dies at the Cincinnati Zoo
+- April 22, 1970: About 20 million Americans take part in Earth Day events
+- April 14, 1772: Men in South Weare, New Hampshire, beat the sheriff in the Pine Tree Riot
+- August 3, 1795: Leaders of eleven nations sign the Treaty of Greenville, handing 16,930,417 acres to the United States
+- March 27, 1851: The Mariposa Battalion first enters Yosemite Valley
+- May 20, 1862: Lincoln signs the Homestead Act
+- June 30, 1864: Lincoln signs the Yosemite Grant
+- 1884: One count finds only 325 bison left on the Plains
+- May 11, 1910: Members of Congress make most of the Blackfeet's 1895 strip Glacier National Park
+- April 14, 1935: Black Sunday, the worst single dust storm
+- June 22, 1969: Oil and trash on the Cuyahoga River in Cleveland catch fire
+- August 2, 1978: New York's health commissioner declares a state of emergency at Love Canal
+
+## Places
+
+- Devils Tower National Monument (the chapter does not name the state): the first national monument, sacred to dozens of Native nations. The Lakota call it Mato Tipila, or Bear Lodge
+- Ohio History Connection, Columbus, Ohio: keeps "Buttons," the last confirmed wild passenger pigeon, shot in 1900
+- Smithsonian Institution (the chapter does not name the city): has Martha, the last passenger pigeon
+- Pelican Island, Florida: the first federal bird reservation, named in 1903
+- Walden Pond, near Concord, Massachusetts: where Thoreau built his cabin and lived from 1845 to 1847
+- Yosemite Valley, Yosemite National Park, California: the Ahwahneechee homeland, and Wahhoga, the site of the last Native village, where a roundhouse was finished in 2025
+- Hetch Hetchy Valley, Yosemite National Park, California: under water behind the O'Shaughnessy Dam since 1923
+- Yellowstone National Park: the first national park, where wolves returned in 1995
+- Glacier National Park (the chapter does not name the state): on land the Blackfeet say they only leased in 1895
+- Gila Wilderness, New Mexico: the first area in the world officially named a wilderness area
+- National Bison Range, Flathead Reservation (the chapter does not name the state): returned to the Confederated Salish and Kootenai Tribes in 2020
+- Bears Ears National Monument, Utah: proposed by five tribes, cut by about 91 percent in July 2026
+
+## Movies
+
+- John James Audubon: Drawn from Nature (2007): no note (PBS American Masters)
+- John Muir in the New World (2011): no note (PBS American Masters)
+- The Roosevelts: An Intimate History (2014): no note (a Ken Burns documentary about the whole Roosevelt family)
+- Seeking the Greatest Good (2013): no note (WVIA and PBS)
+- Green Fire: Aldo Leopold and a Land Ethic for Our Time (2011): no note
+- Rachel Carson (2017): no note (PBS American Experience)
+- Lois Gibbs and the Love Canal (1982): no note (a CBS television movie with Marsha Mason playing Gibbs)
+
+## Questions
+
+- Q: How did Native nations shape the land before Europeans came? A: They burned the eastern forests on purpose, again and again, to keep them open and grow food for game, and they planted corn, beans and squash together to keep the soil good.
+- Q: What happened to the 30 million bison and the billions of passenger pigeons? A: Hide hunters, carried by the railroads and helped by army officers who wanted the Plains nations' food gone, left fewer than 1,000 bison by 1900. Netters and shooters killed the pigeons at their nestings, and the last one died in a zoo in 1914.
+- Q: Who was pushed out when parks were made, and who lived next to the waste? A: Native people were pushed out: the Ahwahneechee in Yosemite, the Tukudika in Yellowstone, the Blackfeet at Glacier. Studies from 1983 on found waste sites far more often beside Black and poor neighborhoods.
