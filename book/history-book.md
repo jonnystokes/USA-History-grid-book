@@ -6,12 +6,18 @@
 
 ## Contents
 
-**[Introduction: How We Know What Happened](#introduction)**
+**[Introduction: How This Book Works](#introduction)**
+
+**[Before You Start](#front-01-before-you-start)**
+
+**[Four Ways to Read This Book](#front-02-four-ways-to-read)**
+
+**[A Ten-Minute History](#front-03-ten-minute-history)**
 
 
 **Part 1: The Land and Its First Peoples**
 
-1. [Exploration and Discovery](#ch-exploration)
+1. [Exploration and Discovery](#ch-exploration) · about 110 minutes
 2. [Native Nations](#ch-native-nations)
 3. [Land and Environment](#ch-land-environment)
 
@@ -42,7 +48,7 @@
 
 **Part 5: Power, Law, and War**
 
-20. [Government, Law, and Politics](#ch-government-politics)
+20. [Government, Law, and Politics](#ch-government-politics) · about 140 minutes
 21. [Crime, Police, and Justice](#ch-crime-justice)
 22. [War and the Military](#ch-war)
 23. [America and the World](#ch-america-world)
@@ -71,129 +77,127 @@
 34. [Storytelling Evolution](#ch-storytelling-evolution)
 35. [Styles](#ch-styles)
 36. [Sports and Play](#ch-sports-play)
-37. [Holidays](#ch-holidays)
+37. [Holidays](#ch-holidays) · about 95 minutes
+
+**[How We Know What Happened](#back-01-how-we-know)**
+
 
 ---
 
 <a id="introduction"></a>
 
-# How We Know What Happened
+# How This Book Works
 
-Nobody alive today saw the Pueblo Revolt, the founding of Jamestown or the first Thanksgiving. Nobody alive saw Cahokia when it was the largest city north of Mexico. Everything known about those times comes from what people left behind: papers, objects, bones, buildings, photographs, and the stories that families and nations told their children.
+This book is a history of the United States in 37 chapters, each about one subject, from Exploration and Discovery to Holidays. Every chapter is divided into the same ten eras in the same order: before 1500, the 1500s, the 1600s, 1700 to 1750, 1750 to 1800, 1800 to 1850, 1850 to 1900, 1900 to 1950, 1950 to 2000, and 2000 to today. That makes the book a grid, 37 subjects by 10 eras, and you can read it either way. Read one chapter straight through and you follow one subject across more than 500 years. Read one era in every chapter and you see the whole country in one stretch of time.
 
-Historians are people who study the past and write about it. They gather that evidence and check it. Each kind of evidence keeps some facts and loses others. A historian gathers as many kinds as possible and checks them against each other. Then the historian states what is known, what is not known, and where the evidence disagrees. Those three things, the known, the unknown and the disputed, show up all through American history.
+Each chapter opens with a card: the chapter's point in one sentence, three questions the chapter answers at its end, a section to read when you have five minutes, and the sections you can skip. Each era starts with a bold line that states its reading time. A long era has bold "By [year]" lines that state where things stand, and ends with a short list of what to remember. A box with a person's name at the top is that person's story, built from the records. A hard word is explained in plain words the first time it appears in a chapter, and the glossary at the back lists every one of them with the chapter where it is explained.
 
-## Papers written at the time
+Every fact in this book comes from a record someone made: a letter, a court paper, a count, a photograph, bones in the ground, or a story a nation kept, and "How We Know What Happened," at the back, describes how those records are checked and what happens when they disagree.
 
-A record made when something happened, by someone who was there, is called a primary source. Letters, diaries, court papers and newspaper reports are primary sources. A book written later by someone who studied those papers is called a secondary source. Historians trust a primary source most, but they still check it, because the person who wrote it saw only part of what happened.
+[Back to contents](#contents)
 
-Letters contain people's own words. John and Abigail Adams wrote each other more than 1,100 letters while John was away for years on government work. On 31 March 1776, Abigail asked John to "Remember the Ladies, and be more generous and favourable to them than your ancestors." She added, "Do not put such unlimited power into the hands of the Husbands." The letter is online at the Massachusetts Historical Society's website, in her own spelling and handwriting.
+---
 
-A diary is a book in which a person writes down each day as it happens. Amelia Stewart Knight kept one in 1853, when she traveled by wagon from Iowa to Oregon with her husband and seven children. She wrote about rain, mud, dust, sick children and hard river crossings. She was pregnant the whole way. She did not mention it in the diary until her son Adam was born, on 18 September 1853. The family had reached Oregon the day before.
+<a id="front-01-before-you-start"></a>
 
-Court records contain the judges' own words about how they punished people. On 9 July 1640, a court in Virginia judged three servants of a man named Hugh Gwyn who had run away together and been caught. The court gave the two European men four more years of work as punishment. It sentenced the third man, John Punch, an African, to serve "for the time of his natural Life." That record is the first known sentence in Virginia that made a person a slave for life. It is also the first record in which Virginia judges punished one man more harshly than the others because of his race.
+# Before You Start
 
-Newspapers printed news within days, which makes them useful and also risky, because reporters wrote before all the facts were in. The journalist Ida B. Wells used newspapers as evidence. A lynching is a murder by a mob that kills a person without any trial. Wells collected the yearly lists of lynchings printed in the *Chicago Tribune* and checked the reasons the mobs gave. In her 1892 pamphlet *Southern Horrors*, she counted 728 Black Americans lynched in the past eight years. She found that only one third of them had even been accused of rape.
+This book is long. It runs about 820,000 words, which takes about 68 hours to read at 200 words a minute.
 
-## Bones, ruins and things in the ground
+The order does not matter. Each chapter stands on its own, and each era inside a chapter stands on its own. Start with any chapter, or with any era inside it.
 
-Archaeology is the study of the past through the things people left in the ground: tools, pots, buildings, trash and graves. Archaeologists dig slowly and record exactly where each object lay, because where something was found is part of what it shows. For most of the thousands of years that people lived in North America, nobody wrote anything on paper. Most of what is known about those years comes from archaeology.
+Skipping is normal. Every chapter opens with a card that lists the sections you can skip. The chapter still makes sense without them.
 
-Cahokia was a city of Native people in what is now Illinois, across the Mississippi River from St. Louis. It was largest from about 1050 to 1150. No writing by Cahokia's people has been found. In 2012, chemists published tests on residue, the dried leftover film, inside beaker cups from Cahokia and nearby sites. They found caffeine and other chemicals that come from holly leaves. The cups had held Black Drink, a tea brewed from yaupon or dahoon holly. Those plants grow far south of Cahokia, so people carried the leaves north. Cahokia's people also controlled the making and trade of hoe blades of Mill Creek chert, a hard stone quarried in southern Illinois. Archaeologists have found those blades more than 400 miles away.
+The bold lines are for finding your place. A bold line at the top of an era states how long the era takes to read. A bold line in the middle of a long era states where things stand so far. A box with a person's name at the top is that person's story, built from the records, and you can skip it.
 
-Bones show signs of some diseases and of a poor diet. In Illinois, researchers studied the skeletons of Mississippian people buried at Dickson Mounds in the 1100s. Some skulls had patches of pitted, spongy bone. That damage forms when a person has anemia, which here means too little iron in the blood. The researchers found the damage grew much more common after people changed from hunting and gathering to farming. Corn, the main crop, has little iron the body can use.
+When a page feels heavy, stop at the next bold line. The end of each long era states the one thing to remember from it. Read that line, then come back later or go to another chapter.
 
-At Jamestown in Virginia, the English colonists ran out of food in the winter of 1609 to 1610. Powhatan, the leader of the Native nations around them, had cut off trade and surrounded their fort. The colonists ate their horses, their dogs, rats and leather. Written accounts from the time say starving colonists also ate the bodies of the dead. In 2013, researchers at the Smithsonian announced a find from that winter. The bones of a girl showed that starving colonists had eaten from her body. Researchers call her Jane. No record states her real name. For that winter, the written accounts and the bones agree.
+[Back to contents](#contents)
 
-## Stories passed down
+---
 
-Oral tradition is history that people keep by telling it, from parents to children, across many lifetimes. Native nations kept their laws, treaties and histories this way for thousands of years before Europeans arrived, and many still do. Records written by colonists describe Native nations from the outside. A nation's own tradition records what its people remember and how they understood events.
+<a id="front-02-four-ways-to-read"></a>
 
-The Haudenosaunee, a league of five nations in what is now New York, kept their founding law, the Great Law of Peace, in spoken words and on wampum belts. Wampum is beads cut from purple and white shells. The designs woven into a belt stood for the terms of an agreement, and speakers read the belts aloud in council. The Two Row Wampum belt shows two purple rows on white beads. They stand for two boats traveling side by side on one river, with neither steering the other. The Haudenosaunee tradition says it records their first agreement with the Dutch, in 1613. A paper treaty with that date also survives, and scholars dispute whether it is genuine. The belt is the Haudenosaunee record of the agreement.
+# Four Ways to Read This Book
 
-Sometimes new evidence shows an oral tradition was right and the written histories were wrong. The usual account said the nations of the Plains got horses mostly after 1680. That year the Pueblo nations rose together and drove the Spanish out of New Mexico, and horses the Spanish left behind spread north. Native oral histories said the horses came earlier. In 2023, the scientist William Taylor and a team that included Lakota, Comanche, Pawnee and other Native partners published tests on old horse bones in the journal *Science*. They used radiocarbon dating, which measures a kind of carbon that breaks down at a steady rate in anything that was once alive. Many Plains and Rocky Mountain nations had horses by the early 1600s, decades before 1680. The bones also showed the horses had worn bridles and eaten corn, so people kept and fed them. That matched the Native histories.
+The times below are at 200 words a minute, about the pace of reading aloud. Each chapter's card states that chapter's time, and each era's first bold line states the era's.
 
-Recorded interviews are a newer kind of spoken history. From 1936 to 1938, writers hired by the Federal Writers' Project, a government jobs program, interviewed people who had been born into slavery. They wrote down more than 2,300 accounts in 17 states. The accounts are held at the Library of Congress in a collection called "Born in Slavery." On 11 June 1949 in Baltimore, a Library of Congress worker named Hermond Norwood recorded Fountain Hughes on tape. "My name is Fountain Hughes. I was born in Charlottesville, Virginia," he said. He described slave auctions: "They'd sell us like they sell horses and cows and hogs and all like that." The tape is part of a Library of Congress collection named "Voices Remembering Slavery."
+## 1. Straight through
 
-## Photographs
+Read the 37 chapters in order, from Exploration and Discovery to Holidays. That takes about 68 hours. The shortest chapter, Home and Family Life, takes about an hour. The longest, Rights and Movements, takes about four and a half hours. Most take between 75 minutes and two hours.
 
-A photograph shows what was in front of the camera at one moment. It does not show who arranged the scene, what happened just outside the frame, or whether the caption is true. Historians check photographs the way they check papers.
+## 2. One subject
 
-On 6 July 1863, at Gettysburg, photographers working for Alexander Gardner took a picture of a dead soldier. He lay behind a stone wall at a place called Devil's Den. In 1866 Gardner published it with a caption that identified the man as a Confederate sharpshooter killed by a shell. In 1975 the historian William Frassanito compared it with other photographs from the same days. He showed it was one of six pictures of the same body, and that the photographers had moved the body from another spot to the wall. The rifle next to him was most likely a prop. Writers still argue about which way the body was moved. Both sides agree the photographers moved it. Nobody knows the dead man's name.
+Pick one chapter from the contents and read it start to finish. Every chapter runs from before 1500 to today, so one chapter follows one subject across more than 500 years in one to two hours.
 
-Captions can be wrong about the people in a picture too. In 1910 Lewis Hine photographed a girl working as a spinner in a cotton mill in North Pownal, Vermont. His caption names her "Addie Laird" and states her age as 12. Other girls at the mill said she was ten. In 2005 and 2006, a researcher named Joe Manning traced her life and found her real name, Addie Card. She died in 1993.
+## 3. One era, every subject
 
-## Counting
+Pick one of the ten eras and read that era in every chapter, in the order of the contents. That gives you the whole country in one stretch of time: what people were eating, building, singing and fighting over in the same years.
 
-Numbers look exact, but every count depends on who did the counting, what they counted, and why. When two counts of the same thing differ, historians look for the reason.
+- Before 1500: about 2 hours 15 minutes
+- The 1500s: about 2 hours 30 minutes
+- The 1600s: about 5 hours
+- 1700 to 1750: about 3 hours 45 minutes
+- 1750 to 1800: about 5 hours 30 minutes
+- 1800 to 1850: about 7 hours 45 minutes
+- 1850 to 1900: about 10 hours 30 minutes
+- 1900 to 1950: about 11 hours 30 minutes
+- 1950 to 2000: about 10 hours 15 minutes
+- 2000 to today: about 8 hours 45 minutes
 
-The men who wrote the Constitution in 1787 decided how to count people for seats in the House of Representatives. They counted each enslaved person as three fifths of a free person. The enslaved people being counted could not vote and had no rights under the law. Counting them added House seats for the states where they were enslaved.
+## 4. The short road
 
-A count changes when the area changes. The Handbook of Texas states that the hurricane of 8 September 1900 killed between 6,000 and 8,000 people in the city of Galveston. For the whole island, the estimates run from 10,000 to 12,000. Both numbers can be correct, because each counts a different place.
+Read "A Ten-Minute History," which comes next. Then read the card at the top of each chapter: its point in one sentence, three questions, a section to read when you have five minutes, and the sections you can skip. The 37 cards take about 50 minutes. The 37 chapter closings, which answer the three questions and list five dates to keep, take about 40 minutes more. The 37 "five minutes" sections add about 3 hours. The whole short road is about four and a half hours, and it reaches every subject in the book.
 
-A count also changes when someone decides what to leave out. At Hoover Dam, built in the 1930s, the federal Bureau of Reclamation's official count is 96 workers killed on the job. That count leaves out 42 deaths recorded as pneumonia. Many historians think those men were poisoned by carbon monoxide, a gas from engine exhaust, in the tunnels. The official count is lower than the true one, and the exact number is unknown.
+[Back to contents](#contents)
 
-Some counts stay uncertain because the bodies were hidden. On 31 May and 1 June 1921, a white mob in Tulsa, Oklahoma, burned the Black neighborhood of Greenwood. Some of the mob were men the Tulsa police had sworn in as deputies, and National Guard troops rounded up Black residents. Bodies were dumped in the Arkansas River, carried off on railroad cars, and buried in unmarked graves. The accounts do not name who moved them. The historian Scott Ellsworth writes that believable estimates of the dead run from 50 to 300. No white person was ever sent to prison for the killings.
+---
 
-The words "at least" in a count mean the real number may be higher. Federal officials ran or paid for boarding schools that took Native children from their families from 1819 to 1969. In 2024 officials at the US Department of the Interior, led by Secretary Deb Haaland, finished a report on those schools. The first part of the report, in 2022, listed 408 schools. The final part, in 2024, listed 417. It counted at least 973 children who died at the schools and at least 74 burial sites. The report itself states that the true number of deaths is higher.
+<a id="front-03-ten-minute-history"></a>
 
-Counts of lynchings differ for a similar reason. Researchers at the Equal Justice Initiative counted more than 4,400 racial terror lynchings between 1877 and 1950. They use that name for lynchings meant to frighten Black Americans. Other groups chose different years and different rules for what counted, so their totals differ. A careful writer gives the number together with the name of whoever counted it.
+# A Ten-Minute History
 
-## Who wrote the records, and who is missing
+The ten paragraphs below, one for each era, state the main line of the country's history. Every fact here is told in full, with its source, in one of the 37 chapters.
 
-For most of American history, the people who wrote things down and kept the papers were the people with power: officials, officers, owners and ministers. Their records describe other people from the outside, and many people appear in them without names.
+## Before 1500
 
-In late August 1619, an English ship called the *White Lion* landed captive Africans at Point Comfort, Virginia. The colonist John Rolfe wrote that it brought "20. and odd Negroes." His record lists none of their names. The first record of Africans in English Virginia records them only as a number.
+People were living in North America at least 21,000 years ago, long before any European saw it. The oldest sign found so far is a set of footprints at White Sands, New Mexico, and some researchers question that date. How many people were here before 1492 is unknown. Estimates run from about 1 million to about 18 million. Cahokia, in what is now Illinois, was the largest city north of Mexico by about 1050. Five nations in what is now New York joined in the Haudenosaunee league. The one visit from across the ocean came around the year 1000, when Norse sailors from Greenland camped in Newfoundland and left.
 
-Enslavers wrote their own record of the people who escaped them. Southern newspapers printed thousands of advertisements offering rewards for people who had run away. A project at Cornell University called Freedom on the Move is putting thousands of them online. The ads were written to catch people, but they also show those people's skills. Many ads warned that the person "can read" or "can write and may forge a pass," meaning the person could write a fake travel permit.
+## The 1500s
 
-Some enslaved people left their own words in other places. An enslaved potter in Edgefield, South Carolina, known as Dave, cut short poems and dates into the clay of the large jars he made. One jar from 1834 reads, "put every bit all between / surely this jar will hold 14." After slavery ended, the 1870 census, the government's count of every person in the country, listed him as "David Drake, turner," a worker who shapes clay on a turning wheel. According to the Equal Justice Initiative, the 1870 census was the first time formerly enslaved people could formally record a last name.
+Spanish soldiers, and the diseases that traveled ahead of them, reached what is now the United States. Columbus's ships came first, to Guanahani in the Bahamas, where Lucayan Taino people lived, on October 12, 1492. Hernando de Soto's expedition crossed the Southeast from 1539 to 1543. Smallpox and other European diseases spread along Native trade routes ahead of the newcomers and killed large shares of whole communities. Pedro Menéndez de Avilés founded St. Augustine, Florida, in 1565. Juan de Oñate's soldiers stormed and burned Acoma Pueblo in New Mexico in January 1599, and Oñate sentenced the survivors over age 12 to twenty years of forced labor and had one foot cut off each man over 25.
 
-## When sources disagree
+## The 1600s
 
-When two records tell a story differently, historians check who wrote each one and whether that person was there. They check how long after the event it was written, whether the writer checked it with the people involved, and what the writer gained from telling it one way. A record made soon after, by a witness who checked it, is the better source. When neither is clearly better, a careful historian reports both.
+English colonists settled the Atlantic coast, and by the end of the century their farms ran on slavery. Colonists built Jamestown, Virginia, in 1607, and tobacco made the colony pay. An English ship, the *White Lion*, landed "20. and odd" captive Africans at Point Comfort, Virginia, in late August 1619. The *Mayflower*'s passengers founded Plymouth after reaching Cape Cod in November 1620. A Virginia court sentenced John Punch, an African who had run away, to serve for life in 1640. Far to the west, the Pueblo nations rose together in 1680 and drove the Spanish out of New Mexico. Enslaved Africans outnumbered white indentured servants on Virginia's tobacco farms by 1700.
 
-Sojourner Truth spoke to a women's rights meeting in Akron, Ohio, in May 1851. Two versions of her speech exist. The first was printed by Marius Robinson, a secretary of the meeting, in the newspaper the *Anti-Slavery Bugle* on 21 June 1851, about three weeks after she spoke. Truth stayed with Robinson and his wife, Emily, in Ohio that year. In his version she says, "I have as much muscle as any man, and can do as much work as any man." She also says, "I can't read, but I can hear."
+## 1700 to 1750
 
-The second version was written by Frances Dana Gage, who had led the meeting. She published it in 1863, twelve years later, and she did not check it with Truth. Gage's version is the famous one, with the question "Ain't I a woman?" repeated through it. Robinson's report does not contain that question. Gage wrote Truth's words in the way people talked in the South. Truth grew up in Ulster County, New York, and spoke only Dutch until she was nine. She was never enslaved in the South. In Gage's version, Truth also says she had thirteen children. According to the National Women's History Museum, she had five. Gage herself called her account "but a faint sketch of her speech." Robinson's report, printed within weeks by a man who knew her, is the closer record of what Truth said.
+The colonies grew on unfree labor, and the people held in it fought back. Between half and two-thirds of the white people who came from the 1630s to the Revolution came as indentured servants, bound to work for years to pay for the crossing. About 20 enslaved men led by a man called Jemmy seized weapons at the Stono River in South Carolina in September 1739 and marched toward Spanish Florida. About 25 white colonists were killed. The militia killed 35 to 50 of the rebels, and colonists set the rebels' heads on stakes along the roads. Philadelphia, the largest town, had about 13,000 people by 1750.
 
-Sometimes a modern summary and a person's own account disagree. A National Park Service web page states that a mob stormed Ida B. Wells's newspaper office in Memphis in 1892 and destroyed her equipment. Wells told it differently that same year. White Memphians met at the Cotton Exchange Building and sent a committee to find the paper's editors. Wells wrote that the editors escaped being lynched only because the committee could not find them. Her business partner fled and was ordered not to return. Wells was in New York and was warned that she would be hurt if she came back. Then, she wrote, the people the paper owed money to "took possession of the office and sold the outfit." Her own account does not describe a fire or a wrecked press.
+## 1750 to 1800
 
-Even a careful writer's own words need checking. Wells dated that meeting "Wednesday evening May 24, 1892." But 24 May 1892 was a Tuesday. The day and the date in her pamphlet do not match, so one of them is wrong.
+A new country came out of these years, and its founders wrote slavery into its constitution. British and French armies fought for the continent from 1754 to 1763. The British won, and the king drew a line along the Appalachian mountains in 1763 that colonists were not to cross. The Continental Congress adopted the Declaration of Independence on July 4, 1776. The British army surrendered at Yorktown in 1781, and the Treaty of Paris of 1783 set the new country's western border at the Mississippi, with no Native nation invited. Delegates in Philadelphia wrote the Constitution in 1787, and it counted each enslaved person as three fifths of a free person for seats in Congress. The first census, in 1790, counted 3,929,214 people, 697,681 of them enslaved.
 
-A legend can grow far bigger than the record. In an old story, Harriet Tubman made 19 trips back into Maryland and led 300 people to freedom. National Park Service historians, using her own statements and the records, give about 13 trips and about 70 people, most of them her family and friends.
+## 1800 to 1850
 
-People can disagree about their own lives too. Fountain Hughes told the interviewer in 1949 that he was 101 years old, which would put his birth in 1848. Some reference books give 1854. A careful account states both years.
+The country grew west by purchase, by treaty and by force, and slavery grew with it. American diplomats in Paris agreed in 1803 to pay France $15 million for 828,000 square miles west of the Mississippi. President Andrew Jackson signed the Indian Removal Act on May 28, 1830, and under it soldiers drove more than 16,000 Cherokee people west in 1838 and 1839. Over 4,000 died by the usual count, and one demographer puts the loss at 8,000 or more. Mexico's leaders gave up more than 525,000 square miles, including California, in the treaty of February 2, 1848. Women met at Seneca Falls, New York, the same year and signed a declaration of women's rights. Nearly 4 million people were enslaved by 1860.
 
-## Old words in old records
+## 1850 to 1900
 
-People in the past used words that people today find hurtful, and some words meant something different then. When John Rolfe wrote "20. and odd Negroes" in 1619, he used the common word of his time for Black people. Laws, newspapers, signs and songs from the past are full of such words. A quotation keeps the words the person actually used, because changing them would change the record. Some words were made to insult a whole people. Those are not repeated. Instead, the account says plainly what the word called people.
+Slavery ended in a war, and the country then spread west across Native land. Confederate soldiers fired on Fort Sumter on April 12, 1861. Settlers took up 270 million acres under the Homestead Act of 1862, much of it land taken from Native nations. About 620,000 soldiers died in the Civil War by the usual count. Slavery ended with the 13th Amendment, in force from December 6, 1865, except as punishment for a crime. Chinese laborers could not enter the country from 1882, under the Chinese Exclusion Act. The 7th Cavalry killed between 250 and 300 Lakota people at Wounded Knee on December 29, 1890. The Supreme Court justices ruled in *Plessy v. Ferguson* in 1896 that separating people by race was lawful.
 
-Names change too. The same nation can appear under more than one name. The Haudenosaunee, for example, appear in many English records as the Iroquois. Places also change names over time.
+## 1900 to 1950
 
-## Stories that grew up later
+Two world wars, and a depression between them, shaped these fifty years. The United States entered the First World War on April 6, 1917. The 19th Amendment, in 1920, states that no state may deny the vote on account of sex. Stock prices crashed on October 29, 1929, and about one worker in four had no job by 1933. Japanese pilots attacked Pearl Harbor on December 7, 1941, and 2,403 people were killed or missing. Army officers removed about 120,000 people of Japanese descent from the West Coast to camps in 1942. In the Second World War 16,112,566 Americans served and 405,399 died. A US plane dropped an atomic bomb on Hiroshima on August 6, 1945.
 
-Some of the best-known stories about American history took shape long after the events. Historians find where a story first appeared by searching for the oldest record that tells it.
+## 1950 to 2000
 
-Only two eyewitness accounts of the 1621 harvest meal at Plymouth survive. One is a letter Edward Winslow wrote in December 1621 and printed in London in 1622 in a book called *Mourt's Relation*. The other is William Bradford's history of the colony. Winslow wrote that the governor sent four men out to hunt birds, and that the Wampanoag leader Massasoit, also called Ousamequin, came "with some ninetie men." For three days the English fed them, and the Wampanoag men went out, killed five deer and gave them to the governor and other leaders. The English did not call it a thanksgiving. Historians at Plimoth Patuxet Museums write that Ousamequin's visit was probably a show of strength. The Wampanoag sealed alliances through spoken agreements and an exchange of gifts.
+Black Americans forced a change in the law, and the country spread outward, onto highways and up to the Moon. About 6 million Black Americans left the South from about 1910 to 1970. The Supreme Court justices ruled in 1954 that separate schools by race were unlawful. Black residents of Montgomery, Alabama, stopped riding the city buses on December 5, 1955. President Eisenhower signed the Federal-Aid Highway Act on June 29, 1956, and highway planners routed the new roads mostly through poor neighborhoods, most of them Black. President Johnson signed the Civil Rights Act on July 2, 1964, and the Voting Rights Act on August 6, 1965. Neil Armstrong and Buzz Aldrin walked on the Moon on July 20, 1969. The Soviet Union dissolved on December 26, 1991.
 
-The phrase "the first Thanksgiving" came much later. In 1841 a Boston minister named Alexander Young printed Winslow's letter in a book and added a note: "This was the first Thanksgiving, the harvest festival of New England." Writers in older newspapers already credited the Pilgrims with the holiday in general. The *Salem Gazette* of 28 November 1816 praised "our Pilgrim forefathers, who instituted this religious festival," but it did not mention the 1621 meal.
+## 2000 to today
 
-Another story grew up after the Civil War. A catechism is a set of questions with answers to learn by heart. In 1904 a Texas chapter of the United Daughters of the Confederacy wrote one. It asked, "What was the feeling of the slaves towards their masters?" Its printed answer was, "They were faithful and devoted and were always ready and willing to serve them." Another answer stated that Southerners "believed that each State should regulate her own affairs." The claim that the South fought for states' rights and not for slavery is called the Lost Cause. A record written in 1861 states the reason directly. On 9 January 1861, Mississippi's leaders adopted a statement of their reasons for leaving the Union. It reads, "Our position is thoroughly identified with the institution of slavery."
-
-## Questions with no answer
-
-Some questions cannot be answered, because no record of the answer was ever made or none survived. When that happens, a careful historian states that the record is missing and leaves the gap empty instead of guessing.
-
-No surviving record identifies any of the "20. and odd" Africans John Rolfe saw land in 1619. The records also do not settle whether the Virginia colonists treated them as servants, who could earn their freedom after some years, or as slaves for life. Virginia's laws did not yet use the word "slave."
-
-In 1973, Oglala Lakota people and members of the American Indian Movement held the village of Wounded Knee, South Dakota, for 71 days. US marshals and FBI agents surrounded it. Frank Clearwater, a Cherokee man, was shot in the head on 17 April 1973 while he rested in a church inside the village, during a gunfight with federal forces. He died on 25 April. The published accounts do not say who fired the shot.
-
-## The past keeps changing
-
-The past itself does not change. What is known about it does. New tests find new facts in old bones, as the horse study did in 2023. Lost letters turn up in attics and archives. People who were left out of the old records, like the potter Dave or the 20 Africans who landed in 1619, are found again when someone looks for them. Each new piece of evidence can confirm an old account, correct it, or show that it was wrong.
-
-The history of the United States is long, and much of it is hard. It includes freedom won and freedom stolen, cities built and nations pushed off their land, inventions, wars, songs and games. All of it happened to real people with real names, when the records kept them. The best way to know it is the way historians do: look at the evidence, ask who made it, and say plainly what it shows.
+The century opened with an attack and two long wars, and a pandemic followed. Hijackers flew airliners into the World Trade Center and the Pentagon on September 11, 2001, and 2,977 people were killed. US troops fought in Afghanistan from October 2001 until August 2021, and invaded Iraq on March 20, 2003, on the stated grounds that Iraq had weapons of mass destruction. None were found. The Supreme Court justices ruled on June 26, 2015, that same-sex couples could marry in every state. A Minneapolis police officer murdered George Floyd on May 25, 2020. A crowd attacked the Capitol on January 6, 2021, while Congress counted the electoral votes. COVID-19 killed 1,245,791 people in the United States from January 2020 through September 2026.
 
 [Back to contents](#contents)
 
@@ -207,23 +211,47 @@ The history of the United States is long, and much of it is hard. It includes fr
 
 ## Chapter 1: Exploration and Discovery
 
+**Chapter 1 of 37 · Exploration and Discovery · 10 eras · about 110 minutes**
+
+**Almost every place in this chapter was already somebody's home when the explorers arrived, and the people who lived there often showed them the way.**
+
+In the South Dakota Cultural Heritage Center there is a lead plate six inches by eight. One side has Latin words stamped into it that name King Louis XV of France. On the other side somebody scratched a date, March 30, 1743, and the names of four Frenchmen. Two of them were brothers, the sons of a fur trader, and they had just crossed the northern Great Plains with two Mandan guides. They buried the plate beside the Missouri River and went home. It stayed in the ground for 170 years, until 1913.
+
+This chapter follows the explorers in order, from the footprints at White Sands to the four astronauts who flew around the Moon in April 2026. For the first nine eras, watch for two things. Watch who shows the way: Hopi guides to the Grand Canyon, a Crow map to South Pass, an Ojibwe guide to the source of the Mississippi, four Inuit men at the North Pole. And watch what the explorers do to the people they meet. Some traded with them and were fed by them. Others took captives, burned towns and killed. After 1950 the only places left were the deepest ocean and space, where nobody had ever lived.
+
+**Three questions this chapter answers**
+- How do we know people were living here at least 21,000 years ago?
+- What did the explorers do to the people whose land they crossed?
+- Which famous "firsts" are still in doubt?
+
+**Five minutes?** Read "Toward the North Pole, 1879 to 1898" in 1850 to 1900.
+**Can skip:** "The first recorded climb of Pikes Peak, 1820", "Alaska, 1867 to 1885", "1898: islands in two oceans", "Mapping the sea floor". The chapter still makes sense without them.
+
 ### Before 1500
+
+**Era 1 of 10 · Before 1500 · about 6 minutes**
 
 The first people to explore this land came from Asia during the last ice age. At that time a strip of dry land joined Siberia to Alaska. Human footprints at White Sands, in New Mexico, show that people were here at least 21,000 years ago, and probably about 23,000 years ago. Over thousands of years their descendants spread across the whole continent, into its deserts, mountains, forests, coasts and plains.
 
-By 1500 hundreds of Native nations lived here, speaking many different languages. Nobody knows how many people lived north of Mexico at that time. Estimates run from about 1 million to about 18 million.
+Hundreds of Native nations lived here by 1500, speaking many different languages. Nobody knows how many people lived north of Mexico at that time. Estimates run from about 1 million to about 18 million.
 
-#### The footprints at White Sands
+#### How old are the footprints at White Sands?
 
-White Sands National Park in New Mexico holds fossil human footprints. Scientists dated seeds of a water plant found in the layers just above and just below the prints. Tests on the seeds gave ages of about 21,000 and about 23,000 years.
+The footprints at White Sands National Park, in New Mexico, are at least 21,000 years old and probably about 23,000. Scientists dated seeds of a water plant found in the layers just above and just below the prints. Tests on the seeds gave ages of about 21,000 and about 23,000 years.
 
-For a long time scientists had thought people first arrived only about 13,500 to 16,000 years ago. When the seed dates came out in 2021, some scientists questioned them. A water plant can take in old carbon from the rock around it, and that can make its seeds test older than they are. So in 2023 a team of scientists tested two other things from the same layers. One of the two lead scientists on the study was Jeff Pigati, a geologist at the US Geological Survey. The team dated pollen from pine trees and other trees that grow cones. They also measured how long grains of quartz sand had been buried out of the sunlight. Tests on the pollen gave about 21,000 to 23,000 years, and tests on the quartz gave at least 21,500 years. Every method put the footprints at about 21,000 to 23,000 years old. The park's own web page on the footprints states that people have lived in North America "for at least 23,000 years."
+For a long time scientists had thought people first arrived only about 13,500 to 16,000 years ago. When the seed dates came out in 2021, some scientists questioned them. A water plant can take in old carbon from the rock around it, and that can make its seeds test older than they are.
+
+**The second test.** In 2023 a team led by Jeff Pigati, a geologist at the US Geological Survey, tested two other things from the same layers. They dated pollen from pine trees and other trees that grow cones. They also measured how long grains of quartz sand had been buried out of the sunlight.
+
+Tests on the pollen gave about 21,000 to 23,000 years, and tests on the quartz gave at least 21,500 years. Every method put the footprints at about 21,000 to 23,000 years old. The park's own web page on the footprints states that people have lived in North America "for at least 23,000 years."
 
 #### Trade routes and Pacific voyaging
 
-Native people knew routes across the continent long before any European arrived. Traders carried copper from Lake Superior, shells from the Gulf of Mexico, turquoise from the Southwest and obsidian from the West. Obsidian is a natural glass formed by volcanoes. Archaeologists have found each of these goods hundreds of miles from where it came from. Archaeologists are scientists who dig up and study the things people left behind. Chert is a hard stone that can be shaped into tools. The people of Cahokia, a city on the Mississippi River near present-day St. Louis, controlled a kind called Mill Creek chert. Hoe blades made of it turn up more than 400 miles away.
+Native people knew routes across the continent long before any European arrived. Traders carried copper from Lake Superior, shells from the Gulf of Mexico, turquoise from the Southwest and obsidian, a natural glass formed by volcanoes, from the West. Archaeologists, the scientists who dig up and study the things people left behind, have found each of these goods hundreds of miles from where it came from.
 
-Polynesian sailors crossed thousands of miles of open Pacific Ocean to reach the Hawaiian Islands. Polynesians are the peoples of the many islands of the central and southern Pacific. The archaeologist Patrick Kirch reviewed 150 years of study and put their first arrival and settlement between about the years 1000 and 1200. Older studies had put it between about the years 300 and 750. Scientists still argue about the exact century.
+The people of Cahokia, a city on the Mississippi River near present-day St. Louis, controlled a hard stone called Mill Creek chert, which could be shaped into tools. Hoe blades made of it turn up more than 400 miles away.
+
+Polynesian sailors, the people of the many islands of the central and southern Pacific, crossed thousands of miles of open ocean to reach the Hawaiian Islands. The archaeologist Patrick Kirch reviewed 150 years of study and put their first arrival and settlement between about the years 1000 and 1200. Older studies had put it between about the years 300 and 750. Scientists still argue about the exact century.
 
 <a id="story-leif-erikson"></a>
 
@@ -233,23 +261,28 @@ Polynesian sailors crossed thousands of miles of open Pacific Ocean to reach the
 >
 > **When and where:** About the year 1000, and a Norse camp dated to 1021. L'Anse aux Meadows, Newfoundland, Canada.
 
-Norse sailors from Greenland reached North America about 500 years before Columbus. The Norse are the people often called Vikings. Two Icelandic sagas, the *Saga of the Greenlanders* and the *Saga of Erik the Red*, tell the story. A saga is an old Icelandic story. The sagas say that Leif Erikson, son of Erik the Red, reached a land he called Vinland.
+**A storm on the sun in the year 993 dates the Norse camp.**
+
+Norse sailors from Greenland, the people often called Vikings, reached North America about 500 years before Columbus. Two sagas, old stories written down in Iceland, tell what happened: the *Saga of the Greenlanders* and the *Saga of Erik the Red*. They say that Leif Erikson, son of Erik the Red, reached a land he called Vinland.
 
 The sagas also describe the people the Norse met there, whom the Norse called Skraelings. According to the sagas, the two groups traded and also fought, and the fights led the Norse to leave. The sagas give the people no other name, and no record shows which Native nation they belonged to.
 
-In 1960 a local man, George Decker, led the Norwegian explorer Helge Ingstad to some old mounds near the village of L'Anse aux Meadows. People there called the place the "old Indian camp." Helge Ingstad and the archaeologist Anne Stine Ingstad dug there for seven seasons, from 1961 to 1968. They found a Norse camp.
+**Finding the camp.** A local man, George Decker, led the Norwegian explorer Helge Ingstad to some old mounds near the village of L'Anse aux Meadows in 1960. People there called the place the "old Indian camp." Helge Ingstad and the archaeologist Anne Stine Ingstad dug there for seven seasons, from 1961 to 1968. They found a Norse camp.
 
-In 2021 scientists worked out the exact year when some of the wood at the camp was cut. A storm on the sun in the year 993 left a mark in the rings of trees growing on Earth. The scientists found that mark in pieces of wood cut with metal blades, and counted the rings out to the bark. The scientists concluded that the Norse cut those trees down in 1021. That is 471 years before Columbus reached the Bahamas.
+**Dating it.** A storm on the sun in the year 993 left a mark in the rings of trees growing on Earth. In 2021 scientists found that mark in pieces of wood at the camp that had been cut with metal blades, and they counted the rings out to the bark. The Norse cut those trees down in 1021. That is 471 years before Columbus reached the Bahamas.
 
-Estimates of how long the Norse stayed run from a few years to about twenty. Another account says the camp was only a place to repair boats. Native people had lived on the same spot long before the Norse came. Five earlier groups had lived there. The oldest of them lived there about 6,000 years ago. A Native people that archaeologists call the Dorset lived there about 300 years before the Norse.
+Estimates of how long the Norse stayed run from a few years to about twenty. Another account says the camp was only a place to repair boats. Native people had lived on the same spot long before the Norse came. Five earlier groups had lived there, the oldest about 6,000 years ago. A Native people that archaeologists call the Dorset lived there about 300 years before the Norse.
 
-The camp shows that Norse people reached Newfoundland. Which place in the sagas it was is still argued. One answer is Leif's own camp. Another is a second place in the sagas called Hop. Nothing dug up at the site has settled the question.
+**Known:** Norse people cut trees at L'Anse aux Meadows in 1021.
+**Not known:** which place in the sagas the camp was. One answer is Leif's own camp, and another is a second place the sagas call Hop. Nothing dug up at the site has settled it.
 
 ### The 1500s
 
-In the 1500s European sailors mapped the Atlantic and Gulf coasts, and Spanish armies marched far inland. Every place they reached was already the home of a Native nation. Native guides showed several of them the way, including the way to the Grand Canyon. The explorers also took people captive, seized stored food and attacked towns whose people refused to let them in.
+**Era 2 of 10 · The 1500s · about 15 minutes**
 
-In 1565 Spanish colonists built St. Augustine in Florida, inside a Timucua town.
+European sailors mapped the Atlantic and Gulf coasts in the 1500s, and Spanish armies marched far inland. Every place they reached was already the home of a Native nation. Native guides showed several of them the way, including the way to the Grand Canyon. The explorers also took people captive, seized stored food and attacked towns whose people refused to let them in.
+
+Spanish colonists built St. Augustine, in Florida, inside a Timucua town in 1565.
 
 <a id="story-christopher-columbus"></a>
 
@@ -259,29 +292,41 @@ In 1565 Spanish colonists built St. Augustine in Florida, inside a Timucua town.
 >
 > **When and where:** Four voyages from 1492 to 1504, to the Bahamas, the Caribbean islands and the coasts of Central and South America.
 
-Christopher Columbus crossed the Atlantic four times, and he never set foot in what is now the United States. Columbus was born in Genoa in 1451 and sailed for the king and queen of Spain. He believed that by sailing west he could reach Asia.
+**A lookout on the *Pinta* saw land at about 2 in the morning.**
 
-At about 2 in the morning on October 12, 1492, a lookout named Rodrigo de Triana saw land from the ship *Pinta*. It was an island in the Bahamas. Its people, the Lucayan Taino, called it Guanahani. Columbus named it San Salvador. On that first voyage he took Taino people captive and carried them to Spain to show the king and queen.
+Christopher Columbus crossed the Atlantic four times, and he never set foot in what is now the United States. He sailed for the king and queen of Spain, and he believed that by sailing west he could reach Asia.
 
-In 1494 and 1495 Columbus's soldiers made war on the Taino of Hispaniola, an island in the Caribbean. They fought until the Taino surrendered and agreed to pay a tribute. A tribute is a payment that a conquered people are forced to hand over. Columbus set the rule. In the Cibao, the part of the island with the gold mines, every Taino aged 14 or older had to bring in a hawk's bell full of gold dust every six months. A hawk's bell is a small round bell. A priest named Bartolome de las Casas wrote that the Spaniards cut off the hands of people who failed to pay. How often Spaniards did this is still argued over.
+A lookout named Rodrigo de Triana saw land from the ship *Pinta* at about 2 in the morning on October 12, 1492. It was an island in the Bahamas. Its people, the Lucayan Taino, called it Guanahani. Columbus named it San Salvador. On that first voyage he took Taino people captive and carried them to Spain to show the king and queen.
 
-In February 1495 Columbus's men rounded up about 1,500 Taino. Some accounts say 1,600. They shipped about 500 of the strongest to Spain to be sold as slaves, or 550 in some accounts. About 200 of them died on the voyage. Within a few decades most of the Taino on Hispaniola were dead. Spanish soldiers made war on them, Spanish colonists forced them to work, and many died of disease. Counts of how many Taino lived there when Columbus arrived do not agree.
+**The tribute.** Columbus's soldiers made war on the Taino of Hispaniola, an island in the Caribbean, in 1494 and 1495. They fought until the Taino surrendered and agreed to pay a tribute, a payment that a conquered people are forced to hand over. Columbus set the rule.
 
-In 1500 the Spanish rulers sent an investigator, Francisco de Bobadilla, to Hispaniola. Bobadilla arrested Columbus and sent him back to Spain in chains. Bobadilla took statements from 23 witnesses and wrote them into a report. It records that Columbus punished a man who stole corn by having his ears and nose cut off. Then Columbus sold the man as a slave. The report was found again in 2005 in an archive, a building that stores old papers, in the Spanish city of Valladolid.
+In the Cibao, the part of the island with the gold mines, every Taino aged 14 or older had to bring in a hawk's bell, a small round bell, full of gold dust every six months. A priest named Bartolome de las Casas wrote that the Spaniards cut off the hands of people who failed to pay. How often Spaniards did this is still argued over.
+
+**Sold as slaves.** Columbus's men rounded up about 1,500 Taino in February 1495, or 1,600 in some accounts. They shipped about 500 of the strongest to Spain to be sold as slaves, or 550 in some accounts. About 200 of them died on the voyage. Within a few decades most of the Taino on Hispaniola were dead. Spanish soldiers made war on them, Spanish colonists forced them to work, and many died of disease. Counts of how many Taino lived there when Columbus arrived do not agree.
+
+**Arrested.** The Spanish rulers sent an investigator, Francisco de Bobadilla, to Hispaniola in 1500. Bobadilla arrested Columbus and sent him back to Spain in chains. Bobadilla took statements from 23 witnesses and wrote them into a report. It records that Columbus punished a man who stole corn by having his ears and nose cut off. Then Columbus sold the man as a slave. The report was found again in 2005 in an archive, a building that stores old papers, in the Spanish city of Valladolid.
 
 Columbus died in Valladolid on May 20, 1506. He never said in public that he had reached a new continent. What he believed in private is not settled. The name "America" came from another Italian sailor, Amerigo Vespucci. Vespucci wrote in 1503 that the lands across the Atlantic were a new continent. In 1507 a German mapmaker, Martin Waldseemuller, printed a world map that named the new land America.
 
-#### Sailing the coasts, 1497 to 1542
+#### Four captains along the coast, 1497 to 1542
 
-John Cabot was an Italian, born Giovanni Caboto, who sailed for King Henry VII of England. On June 24, 1497, his small ship, the *Matthew*, reached the coast of North America with a crew of 18 to 20 men. Where he landed is disputed. Some accounts say Newfoundland and others say Cape Breton Island. Cabot went ashore only once, and he went no farther inland than a crossbow could shoot. King Henry gave him 10 pounds in English money, which was about two years' pay for a laborer.
+**Cabot, 1497.** John Cabot was an Italian, born Giovanni Caboto, who sailed for King Henry VII of England. His small ship, the *Matthew*, reached the coast of North America on June 24, 1497, with a crew of 18 to 20 men. Where he landed is disputed. Some accounts say Newfoundland and others say Cape Breton Island. Cabot went ashore only once, and he went no farther inland than a crossbow could shoot. King Henry gave him 10 pounds in English money, which was about two years' pay for a laborer.
 
-Juan Ponce de Leon sailed from Puerto Rico in March 1513 with three ships and 65 people. Among them were two free Africans, one of them a man named Juan Garrido, and two enslaved Native people. Ponce de Leon named the land La Florida. His was the first European expedition to Florida that anyone wrote down. A map made in 1502, called the Cantino map, already shows a shape like Florida, so Spanish slave raiders may have reached it first without leaving a record. On the Gulf coast the Calusa people of southwest Florida refused to trade. Calusa warriors in canoes drove his ships away. In the fights that followed, his men captured eight Calusa, four men and four women.
+**Ponce de Leon, 1513.** Juan Ponce de Leon sailed from Puerto Rico in March 1513 with three ships and 65 people. Among them were two free Africans, one of them a man named Juan Garrido, and two enslaved Native people. Ponce de Leon named the land La Florida. His was the first European expedition to Florida that anyone wrote down. A map made in 1502, called the Cantino map, already shows a shape like Florida, so Spanish slave raiders may have reached it first without leaving a record.
+
+On the Gulf coast the Calusa people of southwest Florida refused to trade. Calusa warriors in canoes drove his ships away. In the fights that followed, his men captured eight Calusa, four men and four women.
 
 Ponce de Leon came back in 1521 to build a colony on Calusa land. Calusa warriors fought the newcomers, and they wounded him. He died of the wound in Cuba that July. A popular story says that he was searching for a Fountain of Youth. No writing from his own time supports that story, and his contract with the Spanish king says nothing about a fountain.
 
-In 1524 Giovanni da Verrazzano, an Italian sailing for the king of France, followed the Atlantic coast from Florida to what is now New Brunswick, in Canada. In New York Bay he met about 30 canoes of Lenape people. In Narragansett Bay, Wampanoag and Narragansett people visited him. Verrazzano wrote to the French king about the voyage himself. In his letter he described what about twenty of his men did on the peninsula now called Delmarva, south of New York Bay. They found an old woman, a young woman and some children hiding in the grass. He wrote: "We took the boy from the old woman to carry back to France, and we wanted to take the young woman, who was very beautiful and tall, but it was impossible to take her to the sea because of the loud cries she uttered." So his men kidnapped the boy, and they left the young woman behind only because she screamed. The boy was about eight years old. The letter does not give his name or his people, and no known record tells what happened to him in France.
+**Verrazzano, 1524.** Giovanni da Verrazzano, an Italian sailing for the king of France, followed the Atlantic coast from Florida to what is now New Brunswick, in Canada, in 1524. In New York Bay he met about 30 canoes of Lenape people. In Narragansett Bay, Wampanoag and Narragansett people visited him. Verrazzano wrote to the French king about the voyage himself.
 
-From 1534 to 1542 the Frenchman Jacques Cartier explored the St. Lawrence River in present-day Canada. In the winter of 1535 to 1536, Native people at the town of Stadacona gave his men a medicine made from evergreen trees, which saved them from scurvy. These people are now called the St. Lawrence Iroquoians. Scurvy is a disease caused by a severe lack of vitamin C, which comes from fresh food. It makes people weak, damages their gums and makes them bleed under the skin. In 1536 Cartier kidnapped Donnacona, an Iroquoian chief, along with Donnacona's two sons and seven other people. The French never brought any of them home.
+In his letter he described what about twenty of his men did on the peninsula now called Delmarva, south of New York Bay. They found an old woman, a young woman and some children hiding in the grass. He wrote: "We took the boy from the old woman to carry back to France." His men wanted to take the young woman too, he wrote, "but it was impossible to take her to the sea because of the loud cries she uttered."
+
+So his men kidnapped the boy, and they left the young woman behind only because she screamed. The boy was about eight years old. The letter does not give his name or his people, and no known record tells what happened to him in France.
+
+**Cartier, 1534.** The Frenchman Jacques Cartier explored the St. Lawrence River, in present-day Canada, from 1534 to 1542. In the winter of 1535 to 1536, Native people at the town of Stadacona gave his men a medicine made from evergreen trees, which saved them from scurvy. These people are now called the St. Lawrence Iroquoians. Scurvy is a disease caused by a severe lack of vitamin C, which comes from fresh food. It makes people weak, damages their gums and makes them bleed under the skin.
+
+Cartier kidnapped Donnacona, an Iroquoian chief, in 1536, along with Donnacona's two sons and seven other people. The French never brought any of them home.
 
 <a id="story-cabeza-de-vaca-estevanico"></a>
 
@@ -291,9 +336,13 @@ From 1534 to 1542 the Frenchman Jacques Cartier explored the St. Lawrence River 
 >
 > **When and where:** 1528 to 1539. Florida, Texas, the Southwest and northern Mexico.
 
+**Four men out of an army of 600 walked from Texas to Mexico City.**
+
 Four men out of an army of hundreds walked from the coast of Texas to Mexico City between 1534 and 1536. Two of them were Alvar Nunez Cabeza de Vaca and a man the Spanish called Estevanico, or Esteban.
 
-The army belonged to Panfilo de Narvaez. It left Spain in June 1527 with about 600 men. In April 1528 Narvaez landed near Tampa Bay, in Florida, with 300 men. They took over a town of the Apalachee people. Apalachee warriors attacked them there, at first 200 at once, shooting burning arrows into the houses the Spaniards had taken. Many of the men also fell sick, and many were starving. By September only 242 of them were still alive. By then the survivors had built rafts to try to reach Mexico by sea. In November 1528 a storm washed about 80 of them onto Galveston Island, off the coast of Texas.
+The army belonged to Panfilo de Narvaez. It left Spain in June 1527 with about 600 men. In April 1528 Narvaez landed near Tampa Bay, in Florida, with 300 men. They took over a town of the Apalachee people. Apalachee warriors attacked them there, at first 200 at once, shooting burning arrows into the houses the Spaniards had taken.
+
+Many of the men also fell sick, and many were starving. By September only 242 of them were still alive. By then the survivors had built rafts to try to reach Mexico by sea. In November 1528 a storm washed about 80 of them onto Galveston Island, off the coast of Texas.
 
 Estevanico was born about the year 1500 in Azemmour, in Morocco, in North Africa. Cabeza de Vaca described him as a Black man who spoke Arabic. In 1522 a Spanish nobleman, Andres Dorantes, bought him as a slave. Dorantes and Estevanico were both on the Narvaez expedition, and both lived through it.
 
@@ -301,7 +350,9 @@ On the Texas coast, Native people held the survivors as slaves for years. These 
 
 After the journey the Spanish viceroy in Mexico, Antonio de Mendoza, bought Estevanico from Dorantes or received him as a gift. A viceroy is the king's governor of a colony. Some evidence suggests that Mendoza freed him.
 
-In 1539 Mendoza sent a friar named Marcos de Niza north to look for seven rich cities that people called Cibola, with Estevanico as his guide. A friar is a member of a Catholic religious order. They left Culiacan, in northern Mexico, on March 7, 1539. Estevanico went ahead of the friar with Native guides from Sonora, in northern Mexico. People of Hawikuh, a Zuni town, killed him there. One Spanish account says he was "shot through with arrows." The Spanish accounts disagree about why he was killed. Coronado reported that the people of the town said Estevanico had killed and attacked their women. Pedro de Castaneda, who marched with Coronado and wrote an account of the march in the 1560s, wrote that they killed him because he demanded turquoise and women.
+**The last journey.** Mendoza sent a friar named Marcos de Niza north in 1539 to look for seven rich cities that people called Cibola, with Estevanico as his guide. A friar is a member of a Catholic religious order. They left Culiacan, in northern Mexico, on March 7, 1539. Estevanico went ahead of the friar with Native guides from Sonora, in northern Mexico.
+
+People of Hawikuh, a Zuni town, killed him when he got there. One Spanish account says he was "shot through with arrows." The Spanish accounts disagree about why he was killed. Coronado reported that the people of the town said Estevanico had killed and attacked their women. Pedro de Castaneda, who marched with Coronado and wrote an account of the march in the 1560s, wrote that they killed him because he demanded turquoise and women.
 
 Estevanico is the first person with both African and Arab family roots known to have explored what is now the United States. The first person with African family roots known to explore North America came before him. He was Juan Garrido, who sailed with Ponce de Leon to Florida in 1513.
 
@@ -309,33 +360,55 @@ Estevanico is the first person with both African and Arab family roots known to 
 
 Two Spanish armies marched deep into the continent between 1539 and 1542.
 
-Hernando de Soto landed in Florida in May 1539 with 620 men and 220 horses. For three years he marched through the Southeast, and his soldiers took the stored food of the towns they passed through. From October 1539 to March 1540 his army lived in Anhaica, the capital of the Apalachee people, where Tallahassee stands today. There his men ate the Apalachee's stored food. De Soto seized dozens of men, women and children to carry his army's supplies. To get his army through, he took local leaders hostage. One was the leader of the Coosa people, whom de Soto held until the army had passed the Coosa towns. At a town called Hymahi, de Soto's men took all the food. A National Park Service history states that de Soto burned at least one person from the town to death. He did it while questioning people about a town farther on, called Cofitachequi.
+Hernando de Soto landed in Florida in May 1539 with 620 men and 220 horses. For three years he marched through the Southeast, and his soldiers took the stored food of the towns they passed through. From October 1539 to March 1540 his army lived in Anhaica, the capital of the Apalachee people, where Tallahassee stands today. There his men ate the Apalachee's stored food.
 
-On October 18, 1540, de Soto's army reached Mabila, a town most likely in the southern part of present-day Alabama. It was surrounded by a palisade, a wall of tall upright logs. Its leader was a man the Spanish called Tascalusa. A Spanish officer, Baltasar de Gallegos, decided that a leading man of Mabila had not shown him respect. Rodrigo Ranjel, de Soto's secretary, wrote that Gallegos cut off the man's arm "with a slash." Then a battle began. De Soto's men fought for about nine hours and set the town on fire with people still inside. One of the expedition's own record keepers wrote: "We killed them all either with fire or the sword." A National Park Service history gives about 2,000 people of Mabila killed and over 200 Spanish. Reports from the University of Alabama give about 20 Spanish killed and 250 wounded, with thousands of people of Mabila killed. The site of Mabila has never been found.
+**Hostages.** De Soto seized dozens of men, women and children to carry his army's supplies. To get his army through, he took local leaders hostage. One was the leader of the Coosa people, whom de Soto held until the army had passed the Coosa towns. At a town called Hymahi, de Soto's men took all the food. A National Park Service history states that de Soto burned at least one person from the town to death. He did it while questioning people about a town farther on, called Cofitachequi.
+
+**Mabila.** De Soto's army reached Mabila on October 18, 1540. The town was most likely in the southern part of present-day Alabama, and it was surrounded by a palisade, a wall of tall upright logs. Its leader was a man the Spanish called Tascalusa. A Spanish officer, Baltasar de Gallegos, decided that a leading man of Mabila had not shown him respect. Rodrigo Ranjel, de Soto's secretary, wrote that Gallegos cut off the man's arm "with a slash."
+
+Then a battle began. De Soto's men fought for about nine hours and set the town on fire with people still inside. One of the expedition's own record keepers wrote: "We killed them all either with fire or the sword." A National Park Service history gives about 2,000 people of Mabila killed and over 200 Spanish. Reports from the University of Alabama give about 20 Spanish killed and 250 wounded, with thousands of people of Mabila killed. The site of Mabila has never been found.
 
 De Soto died of fever beside the Mississippi River on May 21, 1542. His men sank his body in the river. They did not want the nations they had fought to learn that he could die. The survivors reached Mexico in September 1543.
 
-Francisco Vazquez de Coronado left Compostela, in Mexico, in February 1540. He led about 400 European soldiers, 1,300 to 2,000 Native allies from Mexico and four friars. They were looking for cities of gold. In July 1540, close to starving, they reached the Zuni town of Hawikuh and demanded to be let in. The Zuni had drawn lines of sacred cornmeal on the ground and warned the Spaniards not to cross them. When the Spaniards crossed, the Zuni shot arrows. Coronado's men attacked the town, and the Zuni left it after a short fight.
+**Coronado.** Francisco Vazquez de Coronado left Compostela, in Mexico, in February 1540. He led about 400 European soldiers, 1,300 to 2,000 Native allies from Mexico and four friars. They were looking for cities of gold.
+
+Close to starving, they reached the Zuni town of Hawikuh in July 1540 and demanded to be let in. The Zuni had drawn lines of sacred cornmeal on the ground and warned the Spaniards not to cross them. When the Spaniards crossed, the Zuni shot arrows. Coronado's men attacked the town, and the Zuni left it after a short fight.
 
 Coronado sent out scouting parties from there. Pedro de Tovar's men forced their way into a Hopi town whose people had refused to let them in. Hopi guides then led Garcia Lopez de Cardenas and his men to the South Rim of the Grand Canyon. They were the first Europeans to see it.
 
-In the winter of 1540 to 1541 the army camped along the Rio Grande among the Tiguex pueblos. A pueblo is a town of connected houses built of stone or dried mud. Coronado's men took over the pueblo of Coofor, near present-day Bernalillo, New Mexico, and forced its people out. A National Park Service history states that the fighting began after "a Spanish soldier assaulted a Pueblo woman, wife to a Tiguex man." Pedro de Castaneda, who was on the march, wrote down what happened about twenty years later. A Spaniard told the woman's husband to hold his horse, went up into the house, and raped her or tried to rape her. Rape means forcing a person to have sex. Castaneda would not name the man. A later witness, Juan de Contreras, named him in testimony as Juan de Villegas, a soldier on horseback. The husband and the town's leaders came to complain and pointed out the horse. The soldier denied it, and nobody punished him.
+**The Tiguex war.** The army camped along the Rio Grande among the Tiguex pueblos in the winter of 1540 to 1541. A pueblo is a town of connected houses built of stone or dried mud. Coronado's men took over the pueblo of Coofor, near present-day Bernalillo, New Mexico, and forced its people out.
 
-In the war that followed, Coronado's soldiers killed hundreds of Tiguex people and burned their villages. At a pueblo called Arenal, the defenders made the sign of peace. Two Spaniards, Pablo de Melgosa and Diego Lopez, answered with the same sign. The defenders put down their weapons, and the Spaniards promised not to punish them. Spanish soldiers then took them to Cardenas's tent. Coronado had ordered Cardenas not to take any of them alive. Cardenas had 200 stakes set up to burn the captives alive. When the soldiers began tying them to the stakes and burning them, about a hundred men in the tent fought back. Spanish soldiers on foot attacked the tent, and horsemen chased down the men who ran. Castaneda wrote that not one of them was left alive, except a few who hid. Those few spread the news that the Spaniards did not keep their promises of peace. Coronado's men also made Tiguex women and children slaves.
+A National Park Service history states that the fighting began after "a Spanish soldier assaulted a Pueblo woman, wife to a Tiguex man." Pedro de Castaneda, who was on the march, wrote down what happened about twenty years later. A Spaniard told the woman's husband to hold his horse, went up into the house, and raped her or tried to rape her. Rape means forcing a person to have sex.
 
-In the spring of 1541 a Native guide the Spanish called "the Turk," probably a Wichita or Pawnee man, led the army out onto the Great Plains. He told them of a rich land called Quivira. At Quivira, in present-day central Kansas, Coronado found the grass houses of Wichita towns and no gold. Before he left, Coronado ordered the Turk garroted. That means he was strangled to death with a cord or an iron collar that was tightened around his neck. The army went back to Mexico in 1542.
+Castaneda would not name the man. A later witness, Juan de Contreras, named him in testimony as Juan de Villegas, a soldier on horseback. The husband and the town's leaders came to complain and pointed out the horse. The soldier denied it, and nobody punished him.
+
+In the war that followed, Coronado's soldiers killed hundreds of Tiguex people and burned their villages. At a pueblo called Arenal, the defenders made the sign of peace. Two Spaniards, Pablo de Melgosa and Diego Lopez, answered with the same sign. The defenders put down their weapons, and the Spaniards promised not to punish them.
+
+**Arenal.** Spanish soldiers then took the captives to Cardenas's tent. Coronado had ordered Cardenas not to take any of them alive. Cardenas had 200 stakes set up to burn the captives alive.
+
+When the soldiers began tying them to the stakes and burning them, about a hundred men in the tent fought back. Spanish soldiers on foot attacked the tent, and horsemen chased down the men who ran. Castaneda wrote that not one of them was left alive, except a few who hid. Those few spread the news that the Spaniards did not keep their promises of peace. Coronado's men also made Tiguex women and children slaves.
+
+**Quivira.** A Native guide the Spanish called "the Turk," probably a Wichita or Pawnee man, led the army out onto the Great Plains in the spring of 1541. He told them of a rich land called Quivira. At Quivira, in present-day central Kansas, Coronado found the grass houses of Wichita towns and no gold. Before he left, Coronado ordered the Turk garroted. That means he was strangled to death with a cord or an iron collar that was tightened around his neck. The army went back to Mexico in 1542.
 
 Spanish officials later charged Coronado and Cardenas with crimes against Native people on the march. Coronado's friends sat on the court in Mexico that heard his case, and they cleared him. Members of the Council of the Indies, the king's council in Spain for the American colonies, found Cardenas guilty.
 
 #### St. Augustine, 1565
 
-In September 1565 Pedro Menendez de Aviles and about 800 colonists landed on the coast of Florida. The colonists included 26 women and an unknown number of enslaved Africans. They settled at the town of a Timucua chief named Seloy. They used Seloy's council house, the building where the town's leaders met, as their first fort. That same month Menendez's men destroyed Fort Caroline, a French settlement nearby in Timucua country. At Matanzas Inlet they killed more than a hundred Frenchmen who had surrendered.
+Pedro Menendez de Aviles and about 800 colonists landed on the coast of Florida in September 1565. The colonists included 26 women and an unknown number of enslaved Africans. They settled at the town of a Timucua chief named Seloy. They used Seloy's council house, the building where the town's leaders met, as their first fort. That same month Menendez's men destroyed Fort Caroline, a French settlement nearby in Timucua country. At Matanzas Inlet they killed more than a hundred Frenchmen who had surrendered.
 
-The Timucua soon wanted the Spaniards gone from their town. In 1566 Timucua warriors shot flaming arrows at the fort. Nine months after they arrived, the Spaniards moved their settlement across the bay to Anastasia Island.
+The Timucua soon wanted the Spaniards gone from their town. Timucua warriors shot flaming arrows at the fort in 1566. Nine months after they arrived, the Spaniards moved their settlement across the bay to Anastasia Island.
+
+**If you remember one thing:** The sailors of the 1500s mapped the coasts, and the two Spanish armies that marched inland lived on the stored food of the towns they passed and killed the people who fought back.
+- 1492: Columbus reaches the Bahamas. He never sees the mainland of what is now the United States.
+- 1540: Hopi guides lead Cardenas's men to the Grand Canyon. That winter Coronado's soldiers burn the Tiguex captives at Arenal.
+- 1565: Spanish colonists build St. Augustine inside the Timucua town of Seloy.
+**Next:** The explorers of the 1600s went by ship and canoe, and Native hosts told them where the rivers went.
 
 ### The 1600s
 
-European colonists of the 1600s built small settlements at the edges of the continent. English colonists built James Fort, at Jamestown in Virginia, in 1607, and the Spanish governor Pedro de Peralta founded Santa Fe, in New Mexico, in about 1610. French colonists settled on the St. Lawrence River, in present-day Canada. On Manhattan Island, the homeland of the Lenape people, Dutch colonists built New Amsterdam. The land between these settlements was the home of Native nations.
+**Era 3 of 10 · The 1600s · about 8 minutes**
+
+Four small European settlements stood at the edges of the continent in the 1600s. English colonists built James Fort, at Jamestown in Virginia, in 1607, and the Spanish governor Pedro de Peralta founded Santa Fe, in New Mexico, in about 1610. French colonists settled on the St. Lawrence River, in present-day Canada. On Manhattan Island, the homeland of the Lenape people, Dutch colonists built New Amsterdam. The land between these settlements was the home of Native nations.
 
 The explorers of this century traveled by water, in ships and in canoes. Native guides and hosts told several of them where the rivers went.
 
@@ -343,7 +416,7 @@ The explorers of this century traveled by water, in ships and in canoes. Native 
 
 Samuel de Champlain, a Frenchman, explored the coast of New England as far south as Cape Cod in 1605 and 1606. In 1608 he founded Quebec, on the St. Lawrence River in present-day Canada. That first winter, 16 of his 25 men died of scurvy.
 
-In June 1609 Champlain went south with two other Frenchmen and a party of Wendat, Algonquin and Montagnais warriors. The Wendat are also called the Huron. They took him to the lake now named for him, between present-day New York and Vermont. In late July, at Ticonderoga, they met a party of Haudenosaunee men. The Haudenosaunee are also called the Iroquois. In the fight that followed, according to the historian Marcel Trudel, Champlain killed two of the Haudenosaunee men.
+Champlain went south in June 1609 with two other Frenchmen and a party of Wendat, Algonquin and Montagnais warriors. The Wendat are also called the Huron. They took him to the lake now named for him, between present-day New York and Vermont. In late July, at Ticonderoga, they met a party of Haudenosaunee men. The Haudenosaunee are also called the Iroquois. In the fight that followed, according to the historian Marcel Trudel, Champlain killed two of the Haudenosaunee men.
 
 <a id="story-henry-hudson"></a>
 
@@ -353,15 +426,25 @@ In June 1609 Champlain went south with two other Frenchmen and a party of Wendat
 >
 > **When and where:** 1609 to 1611. The Hudson River in New York, then Hudson Bay in Canada.
 
-In September 1609 Henry Hudson sailed the Dutch ship *Half Moon* up a river in what is now New York. The Lenape called it Muhheakantuck, and the Mohicans called it Mahicannittuk. Today it is called the Hudson River. Hudson was not the first European in its harbor. Verrazzano had been there in 1524. The Lenape and Munsee people lived along the lower river, and the Mohicans lived along the upper river.
+**The ship's mate wrote down every killing on the river.**
 
-Hudson's mate, Robert Juet, kept a journal of the voyage. A mate is a ship's officer just below the captain. Juet's journal records what happened on the river. On September 6 two canoes carrying 26 men attacked the ship's small boat. An arrow hit a sailor named John Colman in the throat and killed him. Two other sailors were hurt. On September 9 the crew seized two Native men who had come aboard. They dressed them in red coats to keep them on the ship. On the morning of September 15 the two men climbed out through a port, a small opening in the ship's side, and swam away. Once the ship was under sail, Juet wrote, "they called to us in scorn."
+Henry Hudson sailed the Dutch ship *Half Moon* up a river in what is now New York in September 1609. The Lenape called it Muhheakantuck, and the Mohicans called it Mahicannittuk. Today it is called the Hudson River. Hudson was not the first European in its harbor. Verrazzano had been there in 1524. The Lenape and Munsee people lived along the lower river, and the Mohicans lived along the upper river.
 
-On the way back down the river, Hudson's crew killed about 10 to 12 Native men. Juet's journal records each of these killings, on October 1 and 2. On October 1 a man in a canoe climbed in through the cabin window. He took a pillow, two shirts and two belts for carrying bullets. The ship's mate shot him in the chest and killed him. Another man swam up and grabbed the side of the ship's small boat. The ship's cook cut off one of the man's hands with a sword, and the man drowned.
+Hudson's mate, the officer just below the captain, was Robert Juet, and he kept a journal of the voyage. It records what happened on the river. Two canoes carrying 26 men attacked the ship's small boat on September 6. An arrow hit a sailor named John Colman in the throat and killed him. Two other sailors were hurt.
 
-On October 2 men in two canoes shot arrows at the ship. The crew fired their guns and killed two or three of them. About a hundred men on a point of land shot at the ship too. Juet fired a small cannon at them and killed two. He fired again at a canoe with nine or ten men in it and killed one, and the crew shot three or four more. Then the ship anchored off the shore that Juet called "Manna-hata." Juet did not write down which nation the dead men belonged to.
+Three days later the crew seized two Native men who had come aboard. They dressed them in red coats to keep them on the ship. On the morning of September 15 the two men climbed out through a port, a small opening in the ship's side, and swam away. Once the ship was under sail, Juet wrote, "they called to us in scorn."
 
-On his next voyage Hudson sailed for England in a ship called the *Discovery*. He searched for a northern sea passage in the great bay in Canada now named for him. The crew spent the winter in James Bay. In June 1611 most of the crew mutinied, which means they rose up against their captain. They put Hudson, his teenage son John and seven sick or loyal men into a small open boat and sailed away. No European saw any of them again. A survivor, Abacuk Pricket, named Henry Greene and Robert Juet as the leaders. The men Pricket blamed were already dead and could not answer him, so his story cannot be checked. Only eight of the thirteen mutineers lived to reach England. English courts put some of them on trial, and none was punished.
+**The way back.** On the way back down the river, Hudson's crew killed about 10 to 12 Native men. Juet's journal records each of these killings, on October 1 and 2.
+
+A man in a canoe climbed in through the cabin window on October 1. He took a pillow, two shirts and two belts for carrying bullets. The ship's mate shot him in the chest and killed him. Another man swam up and grabbed the side of the ship's small boat. The ship's cook cut off one of the man's hands with a sword, and the man drowned.
+
+The next day, men in two canoes shot arrows at the ship. The crew fired their guns and killed two or three of them. About a hundred men on a point of land shot at the ship too. Juet fired a small cannon at them and killed two. He fired again at a canoe with nine or ten men in it and killed one, and the crew shot three or four more.
+
+Then the ship anchored off the shore that Juet called "Manna-hata." Juet did not write down which nation the dead men belonged to.
+
+**The mutiny.** Hudson sailed for England on his next voyage, in a ship called the *Discovery*. He searched for a northern sea passage in the great bay in Canada now named for him. The crew spent the winter in James Bay. In June 1611 most of the crew mutinied, which means they rose up against their captain. They put Hudson, his teenage son John and seven sick or loyal men into a small open boat and sailed away. No European saw any of them again.
+
+A survivor, Abacuk Pricket, named Henry Greene and Robert Juet as the leaders. The men Pricket blamed were already dead and could not answer him, so his story cannot be checked. Only eight of the thirteen mutineers lived to reach England. English courts put some of them on trial, and none was punished.
 
 <a id="story-marquette-and-jolliet"></a>
 
@@ -371,11 +454,15 @@ On his next voyage Hudson sailed for England in a ship called the *Discovery*. H
 >
 > **When and where:** May to August 1673. From St. Ignace, Michigan, down the Mississippi River to the mouth of the Arkansas River.
 
-In 1673 Jacques Marquette and Louis Jolliet paddled down the Mississippi River far enough to learn that it flows to the Gulf of Mexico and not to the Pacific Ocean. Native people had told them about the river first. Illinois people had described it to Marquette and invited him to visit.
+**They turned back 435 miles short of the Gulf.**
+
+Jacques Marquette and Louis Jolliet paddled down the Mississippi River in 1673 far enough to learn that it flows to the Gulf of Mexico and not to the Pacific Ocean. Native people had told them about the river first. Illinois people had described it to Marquette and invited him to visit.
 
 The two men left St. Ignace, in present-day Michigan, on May 17, 1673. They had two canoes and five paddlers of French and Native ancestry. On the river, Michigamea warriors almost attacked them. The town's elders stopped the attack and fed the travelers. Farther south the Quapaw people hosted them for two nights near the mouth of the Arkansas River.
 
-On July 17 they turned back, about 435 miles from the Gulf. They feared the Spanish. They had also been told that the nations farther south were well armed and would attack anyone who got in the way of their trade. On the way home they took a shorter route up the Illinois River, which their Native hosts told them about. In August they reached the mission of St. Francis Xavier, a church post where priests worked to turn Native people to the Catholic faith, at Green Bay in present-day Wisconsin.
+They turned back on July 17, about 435 miles from the Gulf. They feared the Spanish. They had also been told that the nations farther south were well armed and would attack anyone who got in the way of their trade.
+
+On the way home they took a shorter route up the Illinois River, which their Native hosts told them about. In August they reached the mission of St. Francis Xavier, a church post where priests worked to turn Native people to the Catholic faith, at Green Bay in present-day Wisconsin.
 
 Near Montreal, Jolliet's canoe tipped over in the Lachine Rapids, and his notes were lost. Marquette's account became the main record of the journey. Marquette died of dysentery on May 18, 1675, in present-day Michigan. Dysentery is an infection of the gut that causes severe, bloody diarrhea.
 
@@ -387,17 +474,23 @@ Near Montreal, Jolliet's canoe tipped over in the Lachine Rapids, and his notes 
 >
 > **When and where:** 1682 to 1687. The lower Mississippi River and the coast of Texas.
 
+**One of his own men shot him from an ambush in Texas.**
+
 Robert de La Salle was the first European known to follow the Mississippi River all the way down to the sea. In February 1682 his party came down the Illinois River to the Mississippi, built canoes there, and paddled down to the Gulf of Mexico. On the way, his men built a small fort near present-day Memphis, Tennessee.
 
-On April 9, 1682, at the mouth of the river, La Salle claimed the whole Mississippi River basin for France. A river basin is all the land whose rain drains into one river. He named it Louisiana, after King Louis XIV. Many Native nations lived in that basin. La Salle left every one of them out of his claim. In 1803 French officials sold the claim that began that day to the United States.
+**The claim.** At the mouth of the river, on April 9, 1682, La Salle claimed the whole Mississippi River basin for France. A river basin is all the land whose rain drains into one river. He named it Louisiana, after King Louis XIV. Many Native nations lived in that basin. La Salle left every one of them out of his claim. In 1803 French officials sold the claim that began that day to the United States.
 
-In July 1684 La Salle sailed from France with four ships and 300 colonists to build a colony at the river's mouth. The ships sailed past the river's mouth and landed at Matagorda Bay, in Texas, on the land of the Karankawa people. Before they got there, Spanish sea raiders in the Caribbean had seized one ship, the *St. Francois*, with its load of supplies and tools. In Matagorda Bay the *Aimable* ran onto a sandbar and stuck there. The commander of the escort ship, the *Joly*, sailed it back to France. That left only *La Belle*, and it later ran aground in the bay. The colonists built their settlement on Garcitas Creek, near present-day Victoria, Texas.
+**The lost colony.** La Salle sailed from France in July 1684 with four ships and 300 colonists to build a colony at the river's mouth. The ships sailed past the river's mouth and landed at Matagorda Bay, in Texas, on the land of the Karankawa people. Before they got there, Spanish sea raiders in the Caribbean had seized one ship, the *St. Francois*, with its load of supplies and tools.
 
-On March 19, 1687, near present-day Navasota, Texas, one of La Salle's own men, Pierre Duhaut, killed him from an ambush. Jean L'Archeveque had drawn La Salle into talking with him so that Duhaut could strike. Later a third member of the party shot Duhaut. In 1688 Karankawa-speaking people killed the 20 adults still at the colony and took five children captive. The wreck of *La Belle* was found in Matagorda Bay in 1995.
+In Matagorda Bay the *Aimable* ran onto a sandbar and stuck there. The commander of the escort ship, the *Joly*, sailed it back to France. That left only *La Belle*, and it later ran aground in the bay. The colonists built their settlement on Garcitas Creek, near present-day Victoria, Texas.
+
+One of La Salle's own men, Pierre Duhaut, killed him from an ambush on March 19, 1687, near present-day Navasota, Texas. Jean L'Archeveque had drawn La Salle into talking with him so that Duhaut could strike. Later a third member of the party shot Duhaut. In 1688 Karankawa-speaking people killed the 20 adults still at the colony and took five children captive. The wreck of *La Belle* was found in Matagorda Bay in 1995.
 
 ### 1700 to 1750
 
-English colonists did little exploring beyond the Appalachian Mountains between 1700 and 1750. The journeys into country that no European had mapped came from outside the English colonies. Men of the Russian navy reached the coast of Alaska in 1741. Four Frenchmen, two of them sons of a fur trader, crossed the northern Great Plains in 1742 and 1743 with Mandan guides. They may have been the first Europeans to do so.
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
+
+Men of the Russian navy reached the coast of Alaska in 1741, and four Frenchmen, two of them sons of a fur trader, crossed the northern Great Plains in 1742 and 1743 with Mandan guides. They may have been the first Europeans to do so. English colonists did little exploring beyond the Appalachian Mountains between 1700 and 1750. The journeys into country that no European had mapped came from outside the English colonies.
 
 <a id="story-vitus-bering"></a>
 
@@ -407,27 +500,38 @@ English colonists did little exploring beyond the Appalachian Mountains between 
 >
 > **When and where:** 1728 and 1741. The Bering Strait and the coast of Alaska.
 
-Vitus Bering led the Russian voyage that reached Alaska in 1741. He was born in Horsens, in Denmark, in 1681, and he served as an officer in the navy of Russia. In August 1728 he sailed north through the narrow strip of sea between Asia and North America. It is now called the Bering Strait.
+**In 1991 scientists dug up Bering's bones to learn how he died.**
 
-Before the second voyage, Native people in Kamchatka, in eastern Siberia, killed several Russians under Bering's command. Bering sent a group of armed men north to find the killers, with orders not to use force if they could avoid it. The armed men killed several Koryak people in the settlement of Utkolotsk and made the rest slaves. The Russians tortured Koryak people, hurting them on purpose to make them give up the killers. The naturalist on the voyage, Georg Steller, was horrified to see it. A naturalist is a scientist who studies plants and animals. The report of what Steller saw does not say how the Russians tortured them.
+Vitus Bering led the Russian voyage that reached Alaska in 1741. He sailed north in August 1728 through the narrow strip of sea between Asia and North America. It is now called the Bering Strait.
 
-In 1741 Bering commanded the ship *St. Peter*. On July 16 his crew sighted Mount Saint Elias on the Alaska coast, and they landed briefly at or near Kayak Island. That coast was Native land. Steller described animals that European scientists had not recorded before, among them a bird now called Steller's jay and a sea animal now called Steller's sea cow.
+Before the second voyage, Native people in Kamchatka, in eastern Siberia, killed several Russians under Bering's command. Bering sent a group of armed men north to find the killers, with orders not to use force if they could avoid it. The armed men killed several Koryak people in the settlement of Utkolotsk and made the rest slaves.
 
-Bering's second ship, the *St. Paul*, was under the command of Aleksei Chirikov. On July 15, 1741, Chirikov's crew sighted land in southeast Alaska, the homeland of the Tlingit people. On July 17 he sent an officer, Abram Dementiev, and 10 armed men ashore in a boat to look for a safe place to anchor. After a week they had not come back. Chirikov sent another officer, Saveliev, and a few men in his second, smaller boat. They did not come back either. About 15 men were gone. With no boats left, Chirikov could not search for them or land, and on July 27 he sailed west without them. Nobody knows what happened to them. People living on that shore may have killed them, or they may have drowned in the strong tides along that coast. One study argues that they went to live among the Tlingit.
+The Russians tortured Koryak people, hurting them on purpose to make them give up the killers. The naturalist on the voyage, Georg Steller, was horrified to see it. A naturalist is a scientist who studies plants and animals. The report of what Steller saw does not say how the Russians tortured them.
 
-On the way home, scurvy spread through the crew of the *St. Peter*. The ship was wrecked on an island near Kamchatka, now called Bering Island. Bering died there on December 19, 1741. About 28 of his men also died. At the time, people blamed scurvy for all of these deaths. In 1991 a team of Russian and Danish scientists dug up Bering's remains and studied his teeth and bones. They concluded that his own death was more likely caused by heart failure.
+**Alaska.** Bering commanded the ship *St. Peter* in 1741. On July 16 his crew sighted Mount Saint Elias on the Alaska coast, and they landed briefly at or near Kayak Island. That coast was Native land. Steller described animals that European scientists had not recorded before, among them a bird now called Steller's jay and a sea animal now called Steller's sea cow.
 
-#### The La Verendrye brothers on the northern Plains, 1742 to 1743
+Bering's second ship, the *St. Paul*, was under the command of Aleksei Chirikov. On July 15, 1741, Chirikov's crew sighted land in southeast Alaska, the homeland of the Tlingit people. Two days later he sent an officer, Abram Dementiev, and 10 armed men ashore in a boat to look for a safe place to anchor. After a week they had not come back. Chirikov sent another officer, Saveliev, and a few men in his second, smaller boat. They did not come back either.
 
-Pierre La Verendrye was a French fur trader in what is now Canada. On April 29, 1742, two of his sons and two other Frenchmen left Fort La Reine, at present-day Portage la Prairie, Manitoba. The son who kept the journal was known by the French title the Chevalier, which means knight. He was most likely Louis-Joseph La Verendrye. They reached the Mandan towns on the upper Missouri River on May 19 and waited there two months. On July 23 they set out west with two Mandan guides.
+**Fifteen men lost.** With no boats left, Chirikov could not search for them or land, and on July 27 he sailed west without them.
+**Not known:** what happened to the 15 men. People living on that shore may have killed them, they may have drowned in the strong tides along that coast, or, as one study argues, they went to live among the Tlingit.
 
-For months they traveled with Plains nations that the French called the Horse People, the Bow People and the Little Cherry People. Which modern nations these were is not agreed. The Bow People may have been Pawnee, and the Little Cherry People were probably Arikara. The Horse People told them that two years before, a nation the French called the Snake People had destroyed seventeen of their villages. The Snake People had killed the men and the old women and taken the young women to sell. Which nation the Snake People were is not certain.
+**Bering's death.** On the way home, scurvy spread through the crew of the *St. Peter*. The ship was wrecked on an island near Kamchatka, now called Bering Island. Bering died there on December 19, 1741. About 28 of his men also died. At the time, people blamed scurvy for all of these deaths. A team of Russian and Danish scientists dug up Bering's remains in 1991 and studied his teeth and bones. They concluded that his own death was more likely caused by heart failure.
+
+#### The lead plate: the La Verendrye brothers on the northern Plains, 1742 to 1743
+
+Pierre La Verendrye was a French fur trader in what is now Canada. Two of his sons and two other Frenchmen left Fort La Reine, at present-day Portage la Prairie, Manitoba, on April 29, 1742. The son who kept the journal was known by the French title the Chevalier, which means knight. He was most likely Louis-Joseph La Verendrye. They reached the Mandan towns on the upper Missouri River on May 19 and waited there two months. On July 23 they set out west with two Mandan guides.
+
+For months they traveled with Plains nations that the French called the Horse People, the Bow People and the Little Cherry People. Which modern nations these were is not agreed. The Bow People may have been Pawnee, and the Little Cherry People were probably Arikara.
+
+The Horse People told them that two years before, a nation the French called the Snake People had destroyed seventeen of their villages. The Snake People had killed the men and the old women and taken the young women to sell. Which nation the Snake People were is not certain.
 
 The brothers may have been the first Europeans to see the Rocky Mountains, probably in what is now Wyoming. Their journal is hard to follow, so nobody knows their route for certain. It lay in French archives until it was found in 1851.
 
-On March 30, 1743, the brothers buried a lead plate at the Little Cherry People's fort beside the Missouri River. The plate is six by eight inches. One side has words in Latin stamped into it that name King Louis XV, their father and the year 1741. On the other side someone scratched the date and the names of the men who placed it. The plate was found at Pierre, South Dakota, in 1913. It is kept in the South Dakota Cultural Heritage Center.
+The brothers buried a lead plate at the Little Cherry People's fort beside the Missouri River on March 30, 1743. The plate is six by eight inches. One side has words in Latin stamped into it that name King Louis XV, their father and the year 1741. On the other side someone scratched the date and the names of the men who placed it. The plate was found at Pierre, South Dakota, in 1913. It is kept in the South Dakota Cultural Heritage Center.
 
 ### 1750 to 1800
+
+**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
 
 American and British diplomats signed a peace treaty in Paris on September 3, 1783. Diplomats are officials who speak for their countries, and a treaty is a written agreement between them. In the treaty the diplomats agreed that the western border of the new United States would be the Mississippi River. Native nations lived on the land between the Appalachian Mountains and that river. The diplomats did not invite them to the talks.
 
@@ -441,45 +545,65 @@ Before and after that treaty, colonists from Virginia and North Carolina pushed 
 >
 > **When and where:** 1767 to 1778. The Appalachian Mountains and Kentucky.
 
+**The Shawnee took his skins and told him never to come back.**
+
 Daniel Boone marked the road that colonists used to cross the Appalachian Mountains into Kentucky. The Cumberland Gap is a low pass through the Appalachians, and Native nations had used it long before any colonist. In 1750 a Virginia doctor named Thomas Walker told colonists about it, and he named the Cumberland River. In 1769 Joseph Martin built a fort near the gap for people who claimed land there, and Native men chased Martin and his men out.
 
 Kentucky was the hunting ground of the Shawnee. The Cherokee and the Haudenosaunee also claimed it. In a treaty signed at Fort Stanwix in 1768, Haudenosaunee leaders gave up their claim to Kentucky to the British. The Shawnee did not sign that treaty.
 
 Boone and his brother Squire first crossed into Kentucky in 1767. In May 1769 Boone set out with five other men on a hunting and trapping trip that lasted two years. One of them, John Findley, had told him about the Cumberland Gap. On December 22, 1769, a Shawnee party caught Boone and his brother-in-law, John Stewart. The Shawnee took all their skins and told them to leave and never come back.
 
-In 1773 Boone led his family and about 50 other people toward Kentucky to settle there. On October 9 a small group left the main party to get supplies. It included Boone's oldest son, James, several white men and two enslaved Black men named Charles and Adam. A band of Delaware, Shawnee and Cherokee men attacked them. The historian John Mack Faragher writes that the band had decided "to send a message of their opposition to settlement." The attackers shot James Boone, who was 16 or 17, and Henry Russell through the hips so they could not run. The historians Michael Lofaro and Nancy O'Malley describe what the attackers did next. They tortured the two young men, slashing them with knives and tearing out their fingernails and toenails. Then they killed them. They captured Charles. Adam hid in a pile of driftwood and saw what happened. The families turned back.
+**The attack of 1773.** Boone led his family and about 50 other people toward Kentucky in 1773 to settle there. On October 9 a small group left the main party to get supplies. It included Boone's oldest son, James, several white men and two enslaved Black men named Charles and Adam. A band of Delaware, Shawnee and Cherokee men attacked them. The historian John Mack Faragher writes that the band had decided "to send a message of their opposition to settlement."
 
-In 1774 Virginians fought the Shawnee in a war called Dunmore's War. After the Virginians won a battle at Point Pleasant, Shawnee leaders gave up their claims to Kentucky. Then Richard Henderson, a judge from North Carolina, hired Boone to help start a colony in Kentucky, which Henderson called Transylvania.
+The attackers shot James Boone, who was 16 or 17, and Henry Russell through the hips so they could not run. The historians Michael Lofaro and Nancy O'Malley describe what the attackers did next. They tortured the two young men, slashing them with knives and tearing out their fingernails and toenails. Then they killed them. They captured Charles. Adam hid in a pile of driftwood and saw what happened. The families turned back.
 
-In March 1775 Boone invited leaders of Cherokee towns to a meeting at Sycamore Shoals, where Henderson bought the Cherokee claim to Kentucky. Three Cherokee leaders, Attakullakulla, Oconostota and Sewanooko, signed the deed, the paper that handed over the land. It is dated March 17. It covered about 20 million acres. Henderson paid in trade goods, which one estimate values at about 10,000 British pounds. The sale broke the law. A British royal order of 1763 and the laws of Virginia and North Carolina all forbade private buyers to buy Native land. A Cherokee leader named Dragging Canoe refused to agree to the sale. He warned that Kentucky "is bloody ground, and will be dark and difficult to settle."
+Virginians fought the Shawnee in 1774 in a war called Dunmore's War. After the Virginians won a battle at Point Pleasant, Shawnee leaders gave up their claims to Kentucky. Then Richard Henderson, a judge from North Carolina, hired Boone to help start a colony in Kentucky, which Henderson called Transylvania.
 
-Boone then led a work party that cut a trail through the Cumberland Gap into central Kentucky. It was later called the Wilderness Road. The work party included Sam, an enslaved Black man, and other enslaved workers. Near present-day Richmond, Kentucky, Native men attacked the camp and killed Sam and his owner. Boone built a settlement called Boonesborough on the Kentucky River.
+**The sale.** Boone invited leaders of Cherokee towns to a meeting at Sycamore Shoals in March 1775, where Henderson bought the Cherokee claim to Kentucky. Three Cherokee leaders, Attakullakulla, Oconostota and Sewanooko, signed the deed, the paper that handed over the land. It is dated March 17. It covered about 20 million acres. Henderson paid in trade goods, which one estimate values at about 10,000 British pounds.
 
-On July 14, 1776, three teenage girls were floating in a canoe on the Kentucky River outside Boonesborough. Two Cherokee and three Shawnee warriors, led by the Cherokee Hanging Maw, captured them. The girls were Boone's daughter Jemima and Elizabeth and Frances Callaway. Boone's men caught up two days later, as the warriors were building a fire for breakfast, and freed the girls. In 1778 Shawnee warriors captured Boone himself. He lived among the Shawnee for months before he escaped.
+The sale broke the law. A British royal order of 1763 and the laws of Virginia and North Carolina all forbade private buyers to buy Native land. A Cherokee leader named Dragging Canoe refused to agree to the sale. He warned that Kentucky "is bloody ground, and will be dark and difficult to settle."
 
-#### The Pacific: California, Hawaii and the Columbia, 1769 to 1792
+**The road.** Boone then led a work party that cut a trail through the Cumberland Gap into central Kentucky. It was later called the Wilderness Road. The work party included Sam, an enslaved Black man, and other enslaved workers. Near present-day Richmond, Kentucky, Native men attacked the camp and killed Sam and his owner. Boone built a settlement called Boonesborough on the Kentucky River.
 
-In 1769 a Spanish official, Jose de Galvez, sent an expedition north from San Diego to survey California and to claim it for Spain. Native nations already lived there. The commander was Gaspar de Portola. His party of 74 men included soldiers, an engineer, two friars and Christian Native men from Baja California. They walked past Monterey Bay without recognizing it. In early November 1769 Sergeant Jose Francisco Ortega led a group of scouts over Montara Mountain, south of present-day San Francisco. A huge bay blocked their way north. Ortega's scouts were the first Europeans known to see San Francisco Bay. Portola, their commander, was not with the scouting party.
+**The girls in the canoe.** Three teenage girls were floating in a canoe on the Kentucky River outside Boonesborough on July 14, 1776. Two Cherokee and three Shawnee warriors, led by the Cherokee Hanging Maw, captured them. The girls were Boone's daughter Jemima and Elizabeth and Frances Callaway. Boone's men caught up two days later, as the warriors were building a fire for breakfast, and freed the girls. In 1778 Shawnee warriors captured Boone himself. He lived among the Shawnee for months before he escaped.
+
+#### Who saw San Francisco Bay first? The Pacific, 1769 to 1792
+
+**California, 1769.** Scouts under a Spanish sergeant, Jose Francisco Ortega, were the first Europeans known to see San Francisco Bay. A Spanish official, Jose de Galvez, had sent an expedition north from San Diego in 1769 to survey California and to claim it for Spain. Native nations already lived there. The commander was Gaspar de Portola. His party of 74 men included soldiers, an engineer, two friars and Christian Native men from Baja California. They walked past Monterey Bay without recognizing it.
+
+In early November 1769 Ortega led a group of scouts over Montara Mountain, south of present-day San Francisco. A huge bay blocked their way north. Portola, their commander, was not with the scouting party.
 
 Portola and his officers agreed to turn back on November 11. Members of the expedition reported that most of their meetings with Native people along the way were peaceful, and that people gave the Spaniards directions and food. On November 30 about a dozen Rumsen people brought the starving soldiers pinole, which is flour made from ground seeds.
 
-The British navy captain James Cook reached the Hawaiian Islands on January 18, 1778. He and his crews were the first Europeans known to see them. They landed at Waimea, on the island of Kauai, and on Niihau. While Cook's men were ashore collecting supplies, one of them, John Williamson, shot and killed a Hawaiian man. Cook's crews were also the first Europeans to bring some diseases to the islands.
+**Hawaii, 1778.** The British navy captain James Cook reached the Hawaiian Islands on January 18, 1778. He and his crews were the first Europeans known to see them. They landed at Waimea, on the island of Kauai, and on Niihau. While Cook's men were ashore collecting supplies, one of them, John Williamson, shot and killed a Hawaiian man. Cook's crews were also the first Europeans to bring some diseases to the islands.
 
-Cook came back in late November 1778. At Kealakekua Bay, on the island of Hawaii, about 10,000 people and 1,000 canoes met the ships, and the high chief Kalaniopuu welcomed him. On February 13, 1779, Hawaiians took one of the ships' boats. The next day Cook went ashore to kidnap Kalaniopuu and hold him until the boat was returned. Crowds gathered. Cook fired a warning shot, then shot one Hawaiian man dead. In the fight that followed, Hawaiians killed Cook and four marines, the soldiers who served on his ships. The marines were Corporal James Thomas and Privates Theophilus Hinks, Thomas Fatchett and John Allen. Cook's men killed seventeen Hawaiians. The accounts of Cook's last moments contradict each other.
+Cook came back in late November 1778. At Kealakekua Bay, on the island of Hawaii, about 10,000 people and 1,000 canoes met the ships, and the high chief Kalaniopuu welcomed him.
 
-Robert Gray was a sea captain from Rhode Island. In 1787 a group of Boston merchants sent him and another captain, John Kendrick, to the Pacific Northwest. The two were to buy sea otter furs and sell them in China. In 1790 Gray finished the first voyage by an American ship around the world. On his first trip, in August 1788, his men fought the Tillamook people at Tillamook Bay, in Oregon. On August 16 Marcus Lopez, Gray's Black cabin boy and cook from the Cape Verde Islands, saw that a Tillamook man had taken his cutlass, a short curved sword. Lopez chased the man. Armed Tillamook men surrounded Lopez and killed him. Gray named the bay Murderer's Harbor.
+**Cook's death.** Hawaiians took one of the ships' boats on February 13, 1779. The next day Cook went ashore to kidnap Kalaniopuu and hold him until the boat was returned. Crowds gathered. Cook fired a warning shot, then shot one Hawaiian man dead. In the fight that followed, Hawaiians killed Cook and four marines, the soldiers who served on his ships. The marines were Corporal James Thomas and Privates Theophilus Hinks, Thomas Fatchett and John Allen. Cook's men killed seventeen Hawaiians. The accounts of Cook's last moments contradict each other.
 
-In 1792 Gray attacked Native villages along the coast, both before and after he found the Columbia. In April 1792 he ordered his men to destroy Opitsaht, a Nuu-chah-nulth village of about 200 houses on Vancouver Island, in present-day Canada. The village was empty at the time. One of his officers, John Boit, called it "a fine village, the Work of Ages," and wrote that Gray "had let his passions go too far." In May he ordered an attack on another Nuu-chah-nulth village, and his men killed seven people and took their sea otter furs.
+**The Columbia, 1792.** Robert Gray was a sea captain from Rhode Island. In 1787 a group of Boston merchants sent him and another captain, John Kendrick, to the Pacific Northwest. The two were to buy sea otter furs and sell them in China. In 1790 Gray finished the first voyage by an American ship around the world.
 
-On the evening of May 11, 1792, Gray's crew found a safe channel over the sandbars at the mouth of a large river, where Chinook and Clatsop people lived. His ship, the *Columbia Rediviva*, sailed in. Gray named the river the Columbia, after his ship. He was the first navigator known to enter it who was not Native.
+On his first trip, in August 1788, his men fought the Tillamook people at Tillamook Bay, in Oregon. On August 16 Marcus Lopez, Gray's Black cabin boy and cook from the Cape Verde Islands, saw that a Tillamook man had taken his cutlass, a short curved sword. Lopez chased the man. Armed Tillamook men surrounded Lopez and killed him. Gray named the bay Murderer's Harbor.
 
-Later in 1792, at Grays Harbor in present-day Washington State, Gray fired on a group of Chinook people and killed 20. Back in Clayoquot Sound, near Opitsaht, a war canoe came toward his ship at night, and Gray killed or wounded at least 25 of the men in it. In 2005 Gray's descendants formally apologized for the destruction of Opitsaht.
+Gray attacked Native villages along the coast in 1792, both before and after he found the Columbia. In April 1792 he ordered his men to destroy Opitsaht, a Nuu-chah-nulth village of about 200 houses on Vancouver Island, in present-day Canada. The village was empty at the time. One of his officers, John Boit, called it "a fine village, the Work of Ages," and wrote that Gray "had let his passions go too far."
+
+In May he ordered an attack on another Nuu-chah-nulth village, and his men killed seven people and took their sea otter furs.
+
+**The river.** Gray's crew found a safe channel over the sandbars at the mouth of a large river, where Chinook and Clatsop people lived. It was the evening of May 11, 1792. His ship, the *Columbia Rediviva*, sailed in. Gray named the river the Columbia, after his ship. He was the first navigator known to enter it who was not Native.
+
+Gray fired on a group of Chinook people at Grays Harbor, in present-day Washington State, later in 1792, and killed 20. Back in Clayoquot Sound, near Opitsaht, a war canoe came toward his ship at night, and Gray killed or wounded at least 25 of the men in it. In 2005 Gray's descendants formally apologized for the destruction of Opitsaht.
 
 ### 1800 to 1850
 
-On April 30, 1803, American diplomats in Paris agreed to pay France $15 million for the right to take Louisiana from the Native nations who lived on most of it. Diplomats are officials who speak for their countries. American officials could now take that land by treaty or by war, and no European government could claim it ahead of them. A treaty is a written agreement between nations. French officials controlled only a small part of Louisiana. It covered about 828,000 square miles, most of the land west of the Mississippi River whose rain drains into that river. With it, the land the United States claimed nearly doubled.
+**Era 6 of 10 · 1800 to 1850 · about 29 minutes**
 
-Over the next fifty years Army officers, fur trappers and a Navy squadron, a group of warships, crossed and mapped lands where Native nations already lived. Native guides showed several of them the way. Crow people drew a map that showed trappers the way over South Pass. Two men who had run away from Spanish missions, church settlements run by Catholic priests, led a party across the Mojave Desert. An Ojibwe guide led an American to the source of the Mississippi. Some of these explorers killed the people whose land they crossed.
+**The deal.** American diplomats in Paris, the officials who spoke for their country, agreed to pay France $15 million for the right to take Louisiana from the Native nations who lived on most of it. The date was April 30, 1803. American officials could now take that land by a treaty, a written agreement between nations, or by war, and no European government could claim it ahead of them.
+
+French officials controlled only a small part of Louisiana. It covered about 828,000 square miles, most of the land west of the Mississippi River whose rain drains into that river. With it, the land the United States claimed nearly doubled.
+
+Over the next fifty years Army officers, fur trappers and a Navy squadron, a group of warships, crossed and mapped lands where Native nations already lived. Native guides showed several of them the way.
+
+Crow people drew a map that showed trappers the way over South Pass. Two men who had run away from Spanish missions, church settlements run by Catholic priests, led a party across the Mojave Desert. An Ojibwe guide led an American to the source of the Mississippi. Some of these explorers killed the people whose land they crossed.
 
 <a id="story-lewis-and-clark"></a>
 
@@ -489,21 +613,29 @@ Over the next fifty years Army officers, fur trappers and a Navy squadron, a gro
 >
 > **When and where:** May 1804 to September 1806. From near St. Louis up the Missouri River, over the Rocky Mountains and down the Columbia River to the Pacific coast of Oregon.
 >
-> **Movie:** *The Far Horizons* (1955), a film about the expedition.
+> **Movie:** *The Far Horizons* (1955). It invents a romance between Sacagawea and Clark, and a rivalry between the captains.
+
+**Every man but York came home to double pay and 320 acres.**
 
 Meriwether Lewis and William Clark led an Army expedition from near St. Louis, through the new Louisiana Purchase and beyond it, to the Pacific Ocean and back. President Thomas Jefferson gave them written orders. They were to find "the most direct & practicable water communication across this continent for the purpose of commerce." Jefferson wanted a river route that traders could use to cross the continent. Members of Congress voted $2,324 for supplies.
 
-Jefferson also ordered them to tell the Native nations they met that their land now belonged to the United States. They were to say that the president in Washington, whom they called "their great father," now ruled over them. Lewis and Clark carried silver peace medals with Jefferson's face on them. They carried an air rifle to show off American weapons. American officials used the expedition's maps, medals and flags as legal steps to claim each nation's land. They relied on an idea in American law called the doctrine of discovery. Under it, the government whose explorers found a land first held the right to it against every other European government. When American diplomats bought Louisiana, they bought that right from France.
+Jefferson also ordered them to tell the Native nations they met that their land now belonged to the United States. They were to say that the president in Washington, whom they called "their great father," now ruled over them. Lewis and Clark carried silver peace medals with Jefferson's face on them. They carried an air rifle to show off American weapons.
 
-On May 14, 1804, Clark and about 30 men left Camp Dubois, in Illinois, near St. Louis. Lewis joined them at St. Charles, Missouri. In all the party had as many as 45 members, among them York, a man Clark held as a slave. Sergeant Charles Floyd died on August 20, 1804, probably of appendicitis, an infection of a small part of the gut. He was the only member of the party to die on the journey.
+**The doctrine of discovery.** American officials used the expedition's maps, medals and flags as legal steps to claim each nation's land. They relied on an idea in American law called the doctrine of discovery. Under it, the government whose explorers found a land first held the right to it against every other European government. When American diplomats bought Louisiana, they bought that right from France.
 
-On September 25, 1804, near present-day Fort Pierre, South Dakota, Lakota chiefs, among them Black Buffalo, demanded gifts before they would let the boats pass. Lakota warriors took hold of a boat and an oar. Lewis ordered his men to show their guns, and Clark drew his sword. Black Buffalo ordered his warriors back, and nobody was killed. In his journal Clark called the Lakota the "vilest miscreants," meaning the worst villains, and in the same line he used an insulting word for Native people.
+**The journey.** Clark and about 30 men left Camp Dubois, in Illinois, near St. Louis, on May 14, 1804. Lewis joined them at St. Charles, Missouri. In all the party had as many as 45 members, among them York, a man Clark held as a slave. Sergeant Charles Floyd died on August 20, 1804, probably of appendicitis, an infection of a small part of the gut. He was the only member of the party to die on the journey.
 
-The party spent the winter of 1804 to 1805 at Fort Mandan, beside the Mandan and Hidatsa towns in present-day North Dakota. There Lewis and Clark, the expedition's two captains, hired a French-Canadian trader, Toussaint Charbonneau. They also met Sacagawea, a young Shoshone woman he held as his wife. In the spring they went on up the Missouri to the streams where it begins. They crossed the Continental Divide at Lemhi Pass. The Continental Divide is the line of high ground that separates rivers flowing east from rivers flowing west. They crossed the Bitterroot Mountains at Lolo Pass and then went down the Clearwater, Snake and Columbia rivers by canoe. They found no water route across the continent. What they found instead was a trail that Native people used.
+Near present-day Fort Pierre, South Dakota, Lakota chiefs, among them Black Buffalo, stopped the boats on September 25, 1804, and demanded gifts before they would let them pass. Lakota warriors took hold of a boat and an oar. Lewis ordered his men to show their guns, and Clark drew his sword. Black Buffalo ordered his warriors back, and nobody was killed. In his journal Clark called the Lakota the "vilest miscreants," meaning the worst villains, and in the same line he used an insulting word for Native people.
+
+The party spent the winter of 1804 to 1805 at Fort Mandan, beside the Mandan and Hidatsa towns in present-day North Dakota. There Lewis and Clark, the expedition's two captains, hired a French-Canadian trader, Toussaint Charbonneau. They also met Sacagawea, a young Shoshone woman he held as his wife.
+
+In the spring they went on up the Missouri to the streams where it begins. They crossed the Continental Divide at Lemhi Pass. The Continental Divide is the line of high ground that separates rivers flowing east from rivers flowing west. They crossed the Bitterroot Mountains at Lolo Pass and then went down the Clearwater, Snake and Columbia rivers by canoe. They found no water route across the continent. What they found instead was a trail that Native people used.
 
 They first saw the Pacific on November 7, 1805. On November 24 Clark wrote down every member's choice for a place to spend the winter, including the choices of York and of Sacagawea. Accounts differ about whether this counts as a vote. The party built Fort Clatsop near present-day Astoria, Oregon. Food ran short that winter, and they had too little money to buy enough food from the Native nations nearby.
 
-On the way home the party split up. Lewis took three men: George Drouillard and the brothers Joseph and Reubin Field. On the night of July 26, 1806, the four camped with some Blackfeet men on the Two Medicine River in present-day Montana. At dawn the Blackfeet men took the Americans' guns and tried to drive off their horses. Reubin Field stabbed one of the Blackfeet men to death. Lewis shot another man in the belly. The National Park Service says two or three Blackfeet were killed. Lewis wrote down no names for them. He left a peace medal around the neck of a dead man "that they might be informed who we were." It was the only fight on the expedition in which anyone was killed.
+On the way home the party split up. Lewis took three men: George Drouillard and the brothers Joseph and Reubin Field. On the night of July 26, 1806, the four camped with some Blackfeet men on the Two Medicine River in present-day Montana.
+
+**The only killings.** At dawn the Blackfeet men took the Americans' guns and tried to drive off their horses. Reubin Field stabbed one of the Blackfeet men to death. Lewis shot another man in the belly. The National Park Service says two or three Blackfeet were killed. Lewis wrote down no names for them. He left a peace medal around the neck of a dead man "that they might be informed who we were." It was the only fight on the expedition in which anyone was killed.
 
 The expedition reached St. Louis on September 23, 1806. The captains had met more than 70 Native nations and drawn about 140 maps. Every man in the party except York received double pay and 320 acres of land.
 
@@ -515,17 +647,24 @@ The expedition reached St. Louis on September 23, 1806. The captains had met mor
 >
 > **When and where:** 1805 to 1806. From Fort Mandan in North Dakota to the Pacific and back.
 
-Sacagawea was the interpreter who spoke for the expedition with her own Shoshone people. An interpreter is a person who puts one language into another. She was born about 1788 near present-day Salmon, Idaho, among the Lemhi Shoshone. Most accounts say she was Shoshone. A Hidatsa account written in 2021, *Our Story of Eagle Woman*, states that she was Hidatsa by birth.
+**Her brother turned out to be the Shoshone leader with the horses.**
 
-In 1800, when she was about 12, Hidatsa raiders captured her and several other children. The raiders killed four Shoshone men, four women and several boys. She was held at a Hidatsa village in present-day North Dakota. When she was about 13, Toussaint Charbonneau, a French-Canadian trader, took her as his wife. She did not agree to it. Accounts say he either bought her and another Shoshone girl, Otter Woman, from the Hidatsa, or won Sacagawea gambling. Records of the expedition describe Charbonneau as her husband and her owner.
+Sacagawea was the interpreter, the person who put one language into another, who spoke for the expedition with her own Shoshone people. She was born about 1788 near present-day Salmon, Idaho, among the Lemhi Shoshone. Most accounts say she was Shoshone. A Hidatsa account written in 2021, *Our Story of Eagle Woman*, states that she was Hidatsa by birth.
+
+Hidatsa raiders captured her and several other children in 1800, when she was about 12. The raiders killed four Shoshone men, four women and several boys. She was held at a Hidatsa village in present-day North Dakota. When she was about 13, Toussaint Charbonneau, a French-Canadian trader, took her as his wife. She did not agree to it. Accounts say he either bought her and another Shoshone girl, Otter Woman, from the Hidatsa, or won Sacagawea gambling. Records of the expedition describe Charbonneau as her husband and her owner.
 
 Her son, Jean Baptiste, was born at Fort Mandan on February 11, 1805. Lewis gave her crushed rattlesnake rattle to speed the birth. She carried her son on the whole journey.
 
-In August 1805 the party met a band of Shoshone. Its leader, Cameahwait, turned out to be her brother. Sacagawea interpreted, and the Shoshone traded horses to the party for the crossing of the mountains. She also met a woman who had been taken prisoner at the same time as she was.
+The party met a band of Shoshone in August 1805. Its leader, Cameahwait, turned out to be her brother. Sacagawea interpreted, and the Shoshone traded horses to the party for the crossing of the mountains. She also met a woman who had been taken prisoner at the same time as she was.
 
-She was mainly the expedition's interpreter, not its guide. On the way home she did show the way in country she knew. On July 13, 1806, she told Clark to cross into the valley of the Yellowstone River through the pass now called Bozeman Pass, in Montana. Clark wrote that she "has been of great service to me as a pilot through this Country." In the journals the men called her "the wife of our interpreter" and "the Snake woman." Snake was their name for the Shoshone. They also called her by an insulting word for a Native woman.
+She was mainly the expedition's interpreter, not its guide. On the way home she did show the way in country she knew. On July 13, 1806, she told Clark to cross into the valley of the Yellowstone River through the pass now called Bozeman Pass, in Montana. Clark wrote that she "has been of great service to me as a pilot through this Country."
 
-A clerk at a fur post on the Missouri River, John Luttig, wrote that "the wife of Charbonneau" died of a fever on December 20, 1812, at about age 25. The post was in present-day South Dakota. Most accounts accept that record. In Shoshone tradition, she lived until 1884 and died on the Wind River Reservation in Wyoming. A reservation is land the US government set aside for a Native nation. The Hidatsa account also disputes the 1812 record. In 1813 William Clark became the legal guardian of her son and her daughter, Lizette. That meant the law made him responsible for the children.
+In the journals the men called her "the wife of our interpreter" and "the Snake woman." Snake was their name for the Shoshone. They also called her by an insulting word for a Native woman.
+
+**Her death.** A clerk at a fur post on the Missouri River, John Luttig, wrote that "the wife of Charbonneau" died of a fever on December 20, 1812, at about age 25. The post was in present-day South Dakota. The next year William Clark became the legal guardian of her son and her daughter, Lizette, which meant the law made him responsible for the children. That is the strongest record, and most accounts accept it.
+
+**Known:** a clerk wrote down her death in December 1812, and Clark took legal charge of her children in 1813.
+**Disputed:** Shoshone tradition holds that she lived until 1884 and died on the Wind River Reservation in Wyoming, land the US government had set aside for the Shoshone. The Hidatsa account also disputes the 1812 record.
 
 <a id="story-york"></a>
 
@@ -535,15 +674,19 @@ A clerk at a fur post on the Missouri River, John Luttig, wrote that "the wife o
 >
 > **When and where:** 1804 to about 1815. The journey to the Pacific, then Kentucky.
 
+**He asked Clark for his freedom, and Clark had him whipped.**
+
 York crossed the continent with Lewis and Clark as a slave, and he came home still a slave. He was born into slavery in Caroline County, Virginia. His parents, Old York and Rose, were enslaved by John Clark III. In 1799 William Clark inherited York under his father's will. Before the expedition York married a woman who was enslaved by a different owner, near Louisville, Kentucky.
 
 On the journey York hunted with a gun. Enslaved men were usually not allowed to carry one. On November 24, 1805, Clark wrote down York's choice for the winter camp alongside everyone else's.
 
-After the expedition every other man received double pay and 320 acres of land. York received nothing. He asked Clark for his freedom because of his services on the journey. He also asked to be hired out near his wife in Louisville, or to be sold to someone there. Clark refused, and he wanted York hired out to "a Severe Master." In 1808 Clark wrote that York had "Such a notion about freedom and his emence Services." He meant that York believed his great services on the journey had earned him his freedom. Clark did not agree. In July 1809 Clark whipped York, giving him what Clark called "a Severe trouncing," and had him put in jail.
+After the expedition every other man received double pay and 320 acres of land. York received nothing. He asked Clark for his freedom because of his services on the journey. He also asked to be hired out near his wife in Louisville, or to be sold to someone there. Clark refused, and he wanted York hired out to "a Severe Master."
+
+In 1808 Clark wrote that York had "Such a notion about freedom and his emence Services." He meant that York believed his great services on the journey had earned him his freedom. Clark did not agree. In July 1809 Clark whipped York, giving him what Clark called "a Severe trouncing," and had him put in jail.
 
 Clark rented York out to work for other people as a wagon driver in Louisville. The last record of him in that work is from 1815. In 1811 his wife's owner planned to move to Natchez, Mississippi, far to the south, and York probably never saw her again. The National Park Service states that York was freed sometime after 1815. No paper freeing him has been found. Nobody knows for certain when or how he died.
 
-In 2001 President Bill Clinton made York an honorary sergeant in the US Army.
+President Bill Clinton made York an honorary sergeant in the US Army in 2001.
 
 <a id="story-zebulon-pike"></a>
 
@@ -553,9 +696,11 @@ In 2001 President Bill Clinton made York an honorary sergeant in the US Army.
 >
 > **When and where:** 1805 to 1807. Minnesota, then Colorado, New Mexico and northern Mexico.
 
+**Spanish soldiers arrested him and took his papers.**
+
 Zebulon Pike led two Army expeditions to the edges of the Louisiana Purchase. His commander, General James Wilkinson, sent him out. Pike left St. Louis on August 9, 1805, to find where the Mississippi River begins. On September 21, 1805, at the mouth of the Minnesota River, he bought land from the Dakota people for a future Army fort. He named Cass Lake, in present-day Minnesota, as the river's source, but the true source is a lake farther up. An Ojibwe guide showed it to an American in 1832.
 
-In 1806 Wilkinson sent him west to find where the Arkansas and Red rivers begin, near the Spanish lands of New Mexico and Texas. In November 1806 Pike's men tried to climb the tall peak in present-day Colorado that later took his name. They turned back in snow up to their waists. They had gone almost two days without food.
+Wilkinson sent him west in 1806 to find where the Arkansas and Red rivers begin, near the Spanish lands of New Mexico and Texas. In November 1806 Pike's men tried to climb the tall peak in present-day Colorado that later took his name. They turned back in snow up to their waists. They had gone almost two days without food.
 
 Pike's party crossed into Spanish land. No one knows whether he got lost or went there on purpose. On February 26, 1807, Spanish soldiers arrested Pike and some of his men. The soldiers took them to Santa Fe and then to Chihuahua, in Mexico. There the Spanish commander, Nemesio Salcedo, questioned Pike and took his papers. Spanish officials released Pike at the Louisiana border on July 1, 1807. Accounts still differ about whether Pike was an explorer or a spy for Wilkinson.
 
@@ -569,11 +714,15 @@ Pike was killed on April 27, 1813, in the War of 1812, during an American attack
 >
 > **When and where:** 1806 to 1809. Montana and Wyoming.
 
-In the winter of 1807 to 1808 John Colter walked alone through the country that is now Yellowstone National Park. He was the first person of European descent known to see it. He had been a member of the Lewis and Clark expedition. On August 13, 1806, at the Mandan towns, the captains let him leave early to guide two trappers back up the Missouri River.
+**He ran five miles naked with the Blackfeet behind him.**
 
-In 1807 Colter joined a fur party led by the trader Manuel Lisa. In October 1807 Lisa sent him out alone to find the Crow people and ask them to trade. That winter Colter walked more than 500 miles through the country that is now Yellowstone and Grand Teton national parks. He came back in March or April 1808. Few people believed his reports of hot springs, and they called the place "Colter's Hell."
+John Colter walked alone through the country that is now Yellowstone National Park in the winter of 1807 to 1808. He was the first person of European descent known to see it. He had been a member of the Lewis and Clark expedition. On August 13, 1806, at the Mandan towns, the captains let him leave early to guide two trappers back up the Missouri River.
 
-In 1808 Colter fought beside Flathead and Crow men against the Blackfeet, and he was wounded in the leg. Many retellings blame Lewis's fight of 1806 for the Blackfeet's anger at Americans, and that link is disputed. In 1808 or 1809 he and another trapper, John Potts, were paddling a canoe on the Jefferson River in present-day Montana. Several hundred Blackfeet men ordered them ashore. Colter came ashore, and the Blackfeet took his weapons and stripped him naked. Potts refused to come ashore. Blackfeet men shot and wounded him. He shot one of them, and then they killed him with arrows.
+Colter joined a fur party led by the trader Manuel Lisa in 1807. In October 1807 Lisa sent him out alone to find the Crow people and ask them to trade. That winter Colter walked more than 500 miles through the country that is now Yellowstone and Grand Teton national parks. He came back in March or April 1808. Few people believed his reports of hot springs, and they called the place "Colter's Hell."
+
+Colter fought beside Flathead and Crow men against the Blackfeet in 1808, and he was wounded in the leg. Many retellings blame Lewis's fight of 1806 for the Blackfeet's anger at Americans, and that link is disputed.
+
+**The run.** He and another trapper, John Potts, were paddling a canoe on the Jefferson River, in present-day Montana, in 1808 or 1809. Several hundred Blackfeet men ordered them ashore. Colter came ashore, and the Blackfeet took his weapons and stripped him naked. Potts refused to come ashore. Blackfeet men shot and wounded him. He shot one of them, and then they killed him with arrows.
 
 The Blackfeet told Colter to run, and they chased him. He ran about five miles to the Madison River. He killed the one man who caught up with him, using the man's own spear. Then he hid in a beaver lodge and walked for eleven days to a trading fort. All of this comes from Colter's own telling, as other people retold it later.
 
@@ -581,17 +730,21 @@ Colter died of jaundice, an illness that turns the skin and eyes yellow. One rec
 
 #### The first recorded climb of Pikes Peak, 1820
 
-On July 14, 1820, three men from an Army expedition led by Major Stephen Long reached the top of the mountain now called Pikes Peak. One of them was Edwin James, a 22-year-old naturalist, a scientist who studies plants and animals. It is the first recorded climb to the top. The Ute people call the mountain Tava-kaavi. Their tradition says that Ute ancestors were the first to climb it. Long called the high plains a "Great American Desert."
+**By 1810:** Lewis and Clark were home with about 140 maps, Pike was back from Mexico, and few people believed Colter's reports of hot springs in the Yellowstone country.
+
+Three men from an Army expedition led by Major Stephen Long reached the top of the mountain now called Pikes Peak on July 14, 1820. One of them was Edwin James, a 22-year-old naturalist, a scientist who studies plants and animals. It is the first recorded climb to the top. The Ute people call the mountain Tava-kaavi. Their tradition says that Ute ancestors were the first to climb it. Long called the high plains a "Great American Desert."
 
 #### Trappers and the fur trade, 1822 to 1840
 
-In 1822 two fur traders, William Ashley and Andrew Henry, put an advertisement in a St. Louis newspaper. They wanted one hundred "enterprising young men," meaning bold young men ready for hard work, to go up the Missouri River to its source and work there for one, two or three years. They paid $200 a year. The men who answered became known as Ashley's Hundred. Jedediah Smith, Jim Bridger and Hugh Glass were among the men who joined Ashley's company.
+Two fur traders, William Ashley and Andrew Henry, put an advertisement in a St. Louis newspaper in 1822. They wanted one hundred "enterprising young men," meaning bold young men ready for hard work, to go up the Missouri River to its source and work there for one, two or three years. They paid $200 a year. The men who answered became known as Ashley's Hundred. Jedediah Smith, Jim Bridger and Hugh Glass were among the men who joined Ashley's company.
 
-In late May 1823 Ashley's boats reached the towns of the Arikara people on the Missouri River, in present-day South Dakota, to buy horses. The Arikara were angry after a fight with men of another fur company, and they wanted a trading post of their own. On June 2, 1823, Arikara men attacked Ashley's party. Records give two counts of Ashley's men killed, 12 and 13. In August an Army officer, Henry Leavenworth, led about 230 soldiers against the Arikara towns. About 750 Lakota and Yankton warriors and about 50 trappers went with him. His men fired cannon at the towns. Leavenworth and the Arikara then agreed to a peace, and the Arikara left their towns at night. Men of the Missouri Fur Company then burned one of the towns. No reliable count of the Arikara killed has survived.
+**The Arikara fight.** Ashley's boats reached the towns of the Arikara people on the Missouri River, in present-day South Dakota, in late May 1823, to buy horses. The Arikara were angry after a fight with men of another fur company, and they wanted a trading post of their own. On June 2, 1823, Arikara men attacked Ashley's party. Records give two counts of Ashley's men killed, 12 and 13.
 
-From 1825 to 1840 the trappers met every summer at a gathering they called the rendezvous, in the mountains of present-day Wyoming, Utah or Idaho. The word is French for a meeting. There the trappers sold their furs and bought supplies for the next year. Native people came too, and so did the Native wives and children of many trappers.
+In August an Army officer, Henry Leavenworth, led about 230 soldiers against the Arikara towns. About 750 Lakota and Yankton warriors and about 50 trappers went with him. His men fired cannon at the towns. Leavenworth and the Arikara then agreed to a peace, and the Arikara left their towns at night. Men of the Missouri Fur Company then burned one of the towns. No reliable count of the Arikara killed has survived.
 
-In 1832 an Ojibwe guide named Ozaawindib led Henry Rowe Schoolcraft to the true source of the Mississippi River. Schoolcraft was an Indian agent, a US official who dealt with Native nations, at Sault Ste. Marie, in Michigan. The source was a lake that the Ojibwe called Elk Lake. Schoolcraft renamed it Lake Itasca. He made up the name from pieces of the Latin words for "truth" and "head."
+**The rendezvous.** The trappers met every summer from 1825 to 1840 at a gathering they called the rendezvous, in the mountains of present-day Wyoming, Utah or Idaho. The word is French for a meeting. There the trappers sold their furs and bought supplies for the next year. Native people came too, and so did the Native wives and children of many trappers.
+
+**The source of the Mississippi.** An Ojibwe guide named Ozaawindib led Henry Rowe Schoolcraft to the true source of the Mississippi River in 1832. Schoolcraft was an Indian agent, a US official who dealt with Native nations, at Sault Ste. Marie, in Michigan. The source was a lake that the Ojibwe called Elk Lake. Schoolcraft renamed it Lake Itasca. He made up the name from pieces of the Latin words for "truth" and "head."
 
 <a id="story-hugh-glass"></a>
 
@@ -603,13 +756,17 @@ In 1832 an Ojibwe guide named Ozaawindib led Henry Rowe Schoolcraft to the true 
 >
 > **Movie:** *The Revenant* (2015), a film based on his story. An earlier film, *Man in the Wilderness* (1971), is based on it too.
 
-Hugh Glass crawled and walked about 200 miles to safety after a grizzly bear tore the flesh from his body. The two men left to care for him had taken his gun and gone. He was born about 1783. In 1823 he joined Ashley's fur company, and he was shot in the leg in the Arikara attack of June 2. A letter he wrote to the parents of John Gardner, a trapper killed that day, still survives.
+**He let maggots eat the dead flesh in his wounds.**
+
+Hugh Glass crawled and walked about 200 miles to safety after a grizzly bear tore the flesh from his body. The two men left to care for him had taken his gun and gone. In 1823 he joined Ashley's fur company, and he was shot in the leg in the Arikara attack of June 2. A letter he wrote to the parents of John Gardner, a trapper killed that day, still survives.
 
 Late that summer, near the forks of the Grand River in present-day South Dakota, Glass surprised a mother grizzly with two cubs. The bear bit him and slashed him with her claws. Another trapper later said she had "torn the flesh from the lower part of the body, and from the lower limbs," and torn his neck badly. His leg was broken. The cuts on his back were so deep that his ribs showed through.
 
 Andrew Henry, the leader of the party, asked for two men to stay with Glass until he died and then bury him. John Fitzgerald and a man written down as "Bridges" stayed. They dug a grave. Then they left, taking Glass's rifle and knife, and told the others he was dead. Whether "Bridges" was Jim Bridger is still argued. Bridger later denied it.
 
-Glass set his own broken leg and wrapped himself in the bear's hide. He crawled and walked about 200 miles to Fort Kiowa on the Missouri River, and part of the way he floated on a raft down the Cheyenne River. The journey took six weeks. He let maggots eat the dead flesh in his wounds, to keep the wounds from turning to gangrene. Gangrene is the rotting of dead flesh in a living body. Glass later found "Bridges" and forgave him. Fitzgerald had joined the Army, and Glass got his rifle back.
+Glass set his own broken leg and wrapped himself in the bear's hide. He crawled and walked about 200 miles to Fort Kiowa on the Missouri River, and part of the way he floated on a raft down the Cheyenne River. The journey took six weeks.
+
+He let maggots eat the dead flesh in his wounds, to keep the wounds from turning to gangrene. Gangrene is the rotting of dead flesh in a living body. Glass later found "Bridges" and forgave him. Fitzgerald had joined the Army, and Glass got his rifle back.
 
 The story was first printed in 1825, in a Philadelphia magazine called *The Port Folio*. A writer named James Hall wrote it, and other accounts dispute parts of it. No diary by Glass tells the story. It comes from other people's later retellings. In early 1833 Arikara warriors killed Glass and two other trappers, Edward Rose and Hilain Menard, on the Yellowstone River.
 
@@ -621,17 +778,21 @@ The story was first printed in 1825, in a Philadelphia magazine called *The Port
 >
 > **When and where:** 1823 to 1831. The Rocky Mountains, California and Oregon.
 
-Jedediah Smith led the first party of US citizens known to reach California over land. He was born in New York in 1799 and answered Ashley's advertisement in 1822. In the autumn of 1823, in the Black Hills region, a grizzly bear broke his ribs and took his head in its mouth. It tore off his scalp and one ear. Smith told another trapper, Jim Clyman, how to sew them back on, and Clyman did. Afterward Smith wore his hair long to hide the scar.
+**A grizzly tore off his scalp and one ear.**
 
-In 1824, in the Wind River valley of present-day Wyoming, Crow people drew a map in sand and on a buffalo hide to show Smith's men the way west. With the map, Smith's men crossed South Pass, a crossing of the Rocky Mountains in present-day Wyoming. The Crow already used the pass. A trader named Robert Stuart had crossed it in 1812, but few Americans learned of his crossing. Smith's party made the pass known to Americans.
+Jedediah Smith led the first party of US citizens known to reach California over land. He answered Ashley's advertisement in 1822. In the autumn of 1823, in the Black Hills region, a grizzly bear broke his ribs and took his head in its mouth. It tore off his scalp and one ear. Smith told another trapper, Jim Clyman, how to sew them back on, and Clyman did. Afterward Smith wore his hair long to hide the scar.
 
-In August 1826 Smith led 15 men southwest toward California. Mojave people near present-day Needles, California, sheltered them. Two men who had run away from the Spanish missions guided them west across the Mojave Desert. On November 27, 1826, they reached Mission San Gabriel. California then belonged to Mexico. The Mexican governor, Jose Maria Echeandia, arrested Smith as a suspected spy and held him for about two weeks. In 1827 Smith's party became the first US citizens known to cross the Sierra Nevada mountains and the Great Basin desert, going east.
+**The map.** Crow people drew a map in sand and on a buffalo hide in 1824, in the Wind River valley of present-day Wyoming, to show Smith's men the way west. With the map, Smith's men crossed South Pass, a crossing of the Rocky Mountains in present-day Wyoming. The Crow already used the pass. A trader named Robert Stuart had crossed it in 1812, but few Americans learned of his crossing. Smith's party made the pass known to Americans.
 
-In August 1827 Smith came back with 18 men and two French-Canadian women. As they crossed the Colorado River, Mojave men attacked them. Trappers from Taos, in New Mexico, had fought the Mojave, and the Mojave were set on revenge. They killed ten of Smith's men, among them Silas Gobel, and took the two women captive. Smith's men shot and killed two Mojave men.
+**California.** Smith led 15 men southwest toward California in August 1826. Mojave people near present-day Needles, California, sheltered them. Two men who had run away from the Spanish missions guided them west across the Mojave Desert. On November 27, 1826, they reached Mission San Gabriel. California then belonged to Mexico.
 
-On July 11, 1828, on the Umpqua River in present-day Oregon, an Umpqua man took an axe from Smith's camp. Smith and another man tied a cord around the Umpqua man's neck while the rest of the party held their guns ready. On July 14 Umpqua men attacked the camp while Smith and two others were away. They killed 15 of Smith's men. One man, Arthur Black, escaped.
+The Mexican governor, Jose Maria Echeandia, arrested Smith as a suspected spy and held him for about two weeks. In 1827 Smith's party became the first US citizens known to cross the Sierra Nevada mountains and the Great Basin desert, going east.
 
-On May 27, 1831, Smith left a wagon train on the Santa Fe Trail to look for water near the Cimarron River, in present-day Kansas. He did not come back. Weeks later his partners learned that Comanche men had killed him. His body was never found.
+Smith came back in August 1827 with 18 men and two French-Canadian women. As they crossed the Colorado River, Mojave men attacked them. Trappers from Taos, in New Mexico, had fought the Mojave, and the Mojave were set on revenge. They killed ten of Smith's men, among them Silas Gobel, and took the two women captive. Smith's men shot and killed two Mojave men.
+
+**The Umpqua.** An Umpqua man took an axe from Smith's camp on the Umpqua River, in present-day Oregon, on July 11, 1828. Smith and another man tied a cord around the Umpqua man's neck while the rest of the party held their guns ready. On July 14 Umpqua men attacked the camp while Smith and two others were away. They killed 15 of Smith's men. One man, Arthur Black, escaped.
+
+Smith left a wagon train on the Santa Fe Trail on May 27, 1831, to look for water near the Cimarron River, in present-day Kansas. He did not come back. Weeks later his partners learned that Comanche men had killed him. His body was never found.
 
 <a id="story-jim-bridger"></a>
 
@@ -641,11 +802,15 @@ On May 27, 1831, Smith left a wagon train on the Santa Fe Trail to look for wate
 >
 > **When and where:** 1823 to 1881. Wyoming, Utah and Montana.
 
+**He reached the Great Salt Lake in a buffalo-hide boat.**
+
 Jim Bridger was one of the first two men who were not Native known to reach the Great Salt Lake. He was born in Richmond, Virginia, in 1804. His parents died when he was 13, and he never learned to read or write. In 1823, at 19, he joined Ashley's trappers.
 
-In the fall of 1824 Bridger floated down the Bear River in a bull boat, a boat made of buffalo hide, and reached the Great Salt Lake. A French-Canadian trader, Etienne Provost, reached the lake at about the same time. In October 1824 Shoshone men attacked Provost's party at the Jordan River and killed eight of his men. The Shoshone, the Ute and other nations already lived around the lake.
+Bridger floated down the Bear River in the fall of 1824 in a bull boat, a boat made of buffalo hide, and reached the Great Salt Lake. A French-Canadian trader, Etienne Provost, reached the lake at about the same time. In October 1824 Shoshone men attacked Provost's party at the Jordan River and killed eight of his men. The Shoshone, the Ute and other nations already lived around the lake.
 
-In 1843 Bridger and his partner Louis Vasquez built Fort Bridger, a trading post on the Oregon Trail in present-day Wyoming. In 1850 Bridger found a crossing of the mountains now called Bridger Pass. He later worked as a scout for the Army. By 1875 he was blind, and he died on July 17, 1881. Whether he was the "Bridges" who left Hugh Glass in 1823 is still argued. Bridger denied it.
+Bridger and his partner Louis Vasquez built Fort Bridger in 1843, a trading post on the Oregon Trail in present-day Wyoming. In 1850 Bridger found a crossing of the mountains now called Bridger Pass. He later worked as a scout for the Army. By 1875 he was blind, and he died on July 17, 1881. Whether he was the "Bridges" who left Hugh Glass in 1823 is still argued. Bridger denied it.
+
+**By 1840:** The last rendezvous had been held, Americans knew South Pass and the Great Salt Lake, and the source of the Mississippi was on the map. The next two explorers of this era went out with warships and a cannon.
 
 <a id="story-charles-wilkes"></a>
 
@@ -655,19 +820,29 @@ In 1843 Bridger and his partner Louis Vasquez built Fort Bridger, a trading post
 >
 > **When and where:** August 1838 to June 1842. The Pacific islands, Antarctica and the Pacific Northwest.
 
-Charles Wilkes commanded the United States Exploring Expedition, a Navy exploring voyage paid for by the US government. W. John Kress, a plant scientist at the Smithsonian Institution, calls it the first American exploring expedition to other parts of the world. Members of Congress approved it in May 1836. Wilkes was only a lieutenant, and he got the command in April 1838 after more senior officers turned it down. On August 18, 1838, he left Virginia with six ships and nearly 350 men. They included naturalists, a mineralogist, who studies rocks, and a scholar of languages. One ship, the *Sea Gull*, went missing off South America in 1839.
+**His men burned villages in Fiji and brought home 60,000 specimens.**
 
-On January 16, 1840, two officers on the ship *Peacock* sighted mountain peaks in the far south. The ships followed the coast. In February Wilkes wrote that they had "discovered the Antarctic Continent." His crews charted about 1,500 miles of that coast, which is now called Wilkes Land. French and British ships were exploring the same waters that year.
+Charles Wilkes commanded the United States Exploring Expedition, a Navy exploring voyage paid for by the US government. W. John Kress, a plant scientist at the Smithsonian Institution, calls it the first American exploring expedition to other parts of the world. Members of Congress approved it in May 1836. Wilkes was only a lieutenant, and he got the command in April 1838 after more senior officers turned it down.
 
-In the Fiji Islands in 1840, Wilkes's men burned villages and killed Fijians. On July 12 Wilkes had his men burn the villages of Solevu and Tye after people from Solevu took one of his boats. An officer, William Hudson, took a Fijian chief named Vendovi prisoner by first taking his brothers prisoner. Americans blamed Vendovi for killing American sailors in 1834. Vendovi died in the Navy hospital in New York soon after the ships came home in June 1842. The expedition's surgeons cut off his head, and his skull became part of the first collections of the Smithsonian Institution. In December 2025 his remains were returned to his home district of Rewa, in Fiji, and buried in the chiefs' burial ground at Lomanikoro.
+He left Virginia on August 18, 1838, with six ships and nearly 350 men. They included naturalists, a mineralogist, who studies rocks, and a scholar of languages. One ship, the *Sea Gull*, went missing off South America in 1839.
 
-Later in July 1840, off Malolo Island, Lieutenant Joseph Underwood held the son of a village chief hostage while he bargained for food. The young man jumped from the boat, and the Americans fired over his head. Fighting began. Fijians killed Underwood and Wilkes's nephew, Midshipman Wilkes Henry. The Americans killed about ten Fijians that day. Accounts disagree over whether the escape or the shot started the fight.
+**Antarctica.** Two officers on the ship *Peacock* sighted mountain peaks in the far south on January 16, 1840. The ships followed the coast. In February Wilkes wrote that they had "discovered the Antarctic Continent." His crews charted about 1,500 miles of that coast, which is now called Wilkes Land. French and British ships were exploring the same waters that year.
+
+**Fiji.** Wilkes's men burned villages and killed Fijians in the Fiji Islands in 1840. On July 12 Wilkes had his men burn the villages of Solevu and Tye after people from Solevu took one of his boats. An officer, William Hudson, took a Fijian chief named Vendovi prisoner by first taking his brothers prisoner. Americans blamed Vendovi for killing American sailors in 1834.
+
+Vendovi died in the Navy hospital in New York soon after the ships came home in June 1842. The expedition's surgeons cut off his head, and his skull became part of the first collections of the Smithsonian Institution. In December 2025 his remains were returned to his home district of Rewa, in Fiji, and buried in the chiefs' burial ground at Lomanikoro.
+
+Off Malolo Island, later in July 1840, Lieutenant Joseph Underwood held the son of a village chief hostage while he bargained for food. The young man jumped from the boat, and the Americans fired over his head. Fighting began. Fijians killed Underwood and Wilkes's nephew, Midshipman Wilkes Henry. The Americans killed about ten Fijians that day. Accounts disagree over whether the escape or the shot started the fight.
 
 The next day Wilkes landed about 70 men on Malolo. He ordered them to kill the men, to burn the villages and to "spare only the women and the children." His men burned the villages of Sualib and Arro and killed between 74 and 104 Fijians. In 1841 men from the *Peacock* fought about 700 islanders on Drummond's Island, in the Gilbert Islands, killed twelve and burned two villages.
 
-In 1841 Wilkes's ships mapped Puget Sound, in present-day Washington State, and his men mapped more than 800 miles of Oregon. The *Peacock* was wrecked on the sandbar at the mouth of the Columbia. The expedition came home to New York on June 10, 1842. It had sailed about 87,000 miles and lost two ships and 28 men. It brought back more than 60,000 plant and bird specimens, which helped start the collections of the Smithsonian Institution in Washington. It also brought 254 live plants, which started what became the US Botanic Garden.
+**Home.** Wilkes's ships mapped Puget Sound, in present-day Washington State, in 1841, and his men mapped more than 800 miles of Oregon. The *Peacock* was wrecked on the sandbar at the mouth of the Columbia. The expedition came home to New York on June 10, 1842. It had sailed about 87,000 miles and lost two ships and 28 men.
 
-Back home, Navy officers tried Wilkes in a court-martial, a trial held by the military. They cleared him of losing the *Peacock* and of mistreating his officers. They found him guilty of illegally punishing sailors in his squadron. His punishments had included flogging, which means beating a man's bare back with a whip. Navies of that time used a whip of nine knotted cords, called a cat-o'-nine-tails, which was made to tear the skin and cause great pain. One charge named flogging round the fleet, a sentence under which a sailor was whipped aboard each ship of the squadron in turn.
+It brought back more than 60,000 plant and bird specimens, which helped start the collections of the Smithsonian Institution in Washington. It also brought 254 live plants, which started what became the US Botanic Garden.
+
+Back home, Navy officers tried Wilkes in a court-martial, a trial held by the military. They cleared him of losing the *Peacock* and of mistreating his officers. They found him guilty of illegally punishing sailors in his squadron.
+
+His punishments had included flogging, which means beating a man's bare back with a whip. Navies of that time used a whip of nine knotted cords, called a cat-o'-nine-tails, which was made to tear the skin and cause great pain. One charge named flogging round the fleet, a sentence under which a sailor was whipped aboard each ship of the squadron in turn.
 
 <a id="story-john-c-fremont"></a>
 
@@ -677,23 +852,44 @@ Back home, Navy officers tried Wilkes in a court-martial, a trial held by the mi
 >
 > **When and where:** 1842 to 1849. The Oregon Trail, the Great Basin, the Sierra Nevada, California and Oregon.
 
-John C. Frémont led four expeditions to map the West, and on the third one his men killed at least 120 Wintu people in California. He was born in 1813. In 1841 he married Jessie Benton, the daughter of Senator Thomas Hart Benton of Missouri. Benton got the government to pay for Frémont's expeditions. A mountain man, a trapper who lived in the western mountains, named Kit Carson guided him. Frémont and Jessie wrote the report of the first expedition together.
+**Kit Carson called what they did on the Sacramento River "a perfect butchery."**
 
-In 1842 Frémont led 25 men up the Platte River to South Pass. In 1843 and 1844 he went on to the Columbia River with almost 40 men and a cannon. Then he turned south and, in winter, crossed the Sierra Nevada into California. He was one of the first Americans to see Lake Tahoe. He showed that no river drains the Great Basin to the sea. The Great Basin is a huge dry region between the Rocky Mountains and the Sierra Nevada. Members of the Senate and of the House each ordered 10,000 copies of his report on this trip. In 1846 members of the Senate had seven maps from his work printed. Thousands of American travelers heading west used them as a guide.
+John C. Frémont led four expeditions to map the West, and on the third one his men killed at least 120 Wintu people in California. In 1841 he married Jessie Benton, the daughter of Senator Thomas Hart Benton of Missouri. Benton got the government to pay for Frémont's expeditions. A mountain man, a trapper who lived in the western mountains, named Kit Carson guided him. Frémont and Jessie wrote the report of the first expedition together.
 
-In 1845 Frémont set out again, with an armed party of about 60 men. Officials of the War Department secretly told him to act as a soldier if war with Mexico began. On April 5, 1846, some settlers claimed that Native people were about to attack them. Frémont's party attacked a camp of Wintu people on the Sacramento River, near present-day Redding, California. Most of the people in the camp were women and children, and they were trapped against the river. One of Frémont's men, Thomas Breckenridge, wrote that "the order was given to ask no quarter and to give none." That meant no one would be spared, even people who tried to surrender.
+**The maps.** Frémont led 25 men up the Platte River to South Pass in 1842. In 1843 and 1844 he went on to the Columbia River with almost 40 men and a cannon. Then he turned south and, in winter, crossed the Sierra Nevada into California. He was one of the first Americans to see Lake Tahoe. He showed that no river drains the Great Basin to the sea. The Great Basin is a huge dry region between the Rocky Mountains and the Sierra Nevada.
 
-Frémont's men fired their rifles in volleys, then charged with swords and pistols. Men on horseback chased and killed people who ran. Riflemen shot people who were swimming in the river. Breckenridge counted 120 to 150 dead, and another of Frémont's men, Thomas Martin, counted over 175. An eyewitness, William Isaac Tustin, said at least 600 to 700 were killed on land and 200 or more in the water. Kit Carson, who took part, later called it "a perfect butchery." None of Frémont's men was killed or wounded. Nobody was ever charged.
+Members of the Senate and of the House each ordered 10,000 copies of his report on this trip. In 1846 members of the Senate had seven maps from his work printed. Thousands of American travelers heading west used them as a guide.
 
-After that, Frémont's men shot Native people on sight. Breckenridge said the men "had orders while in camp or on the move to shoot Indians on sight." On the night of May 9, 1846, Klamath men attacked Frémont's camp and killed two or three of his party. On May 12 Kit Carson led an attack on Dokdokwas, a Klamath village at the mouth of the Williamson River, in present-day Oregon, and killed at least 14 people. The people of Dokdokwas may have had nothing to do with the first attack. Nobody was charged for these killings either. In June 1846 Frémont joined a revolt by American settlers against Mexican rule in California, the start of his part in the war with Mexico.
+**The Sacramento River, 1846.** Frémont set out again in 1845 with an armed party of about 60 men. Officials of the War Department secretly told him to act as a soldier if war with Mexico began.
 
-In the winter of 1848 to 1849 Frémont tried to find a route for a railroad through the San Juan Mountains of Colorado. By December 12, 1848, the party needed ninety minutes to move 300 yards, and the mules had begun to die. In the end ten of the men died. Some of the starving survivors partly ate at least one of the bodies. Ute warriors later killed two of the men, Benjamin Kern and "Old Bill" Williams, when they went back for the party's gear. In 1856 members of the new Republican Party made Frémont their first candidate for president. He died in 1890.
+Some settlers claimed on April 5, 1846, that Native people were about to attack them. Frémont's party attacked a camp of Wintu people on the Sacramento River, near present-day Redding, California. Most of the people in the camp were women and children, and they were trapped against the river. One of Frémont's men, Thomas Breckenridge, wrote that "the order was given to ask no quarter and to give none." That meant no one would be spared, even people who tried to surrender.
+
+Frémont's men fired their rifles in volleys, then charged with swords and pistols. Men on horseback chased and killed people who ran. Riflemen shot people who were swimming in the river. Breckenridge counted 120 to 150 dead, and another of Frémont's men, Thomas Martin, counted over 175. An eyewitness, William Isaac Tustin, said at least 600 to 700 were killed on land and 200 or more in the water.
+
+Kit Carson, who took part, later called it "a perfect butchery." None of Frémont's men was killed or wounded. Nobody was ever charged.
+
+After that, Frémont's men shot Native people on sight. Breckenridge said the men "had orders while in camp or on the move to shoot Indians on sight." On the night of May 9, 1846, Klamath men attacked Frémont's camp and killed two or three of his party.
+
+Three days later Kit Carson led an attack on Dokdokwas, a Klamath village at the mouth of the Williamson River, in present-day Oregon, and killed at least 14 people. The people of Dokdokwas may have had nothing to do with the first attack. Nobody was charged for these killings either. In June 1846 Frémont joined a revolt by American settlers against Mexican rule in California, the start of his part in the war with Mexico.
+
+**The San Juans.** Frémont tried to find a route for a railroad through the San Juan Mountains of Colorado in the winter of 1848 to 1849. By December 12, 1848, the party needed ninety minutes to move 300 yards, and the mules had begun to die. In the end ten of the men died. Some of the starving survivors partly ate at least one of the bodies. Ute warriors later killed two of the men, Benjamin Kern and "Old Bill" Williams, when they went back for the party's gear.
+
+Members of the new Republican Party made Frémont their first candidate for president in 1856. He died in 1890.
+
+**If you remember one thing:** The Army officers and trappers of these fifty years crossed and mapped the West with Native guides, and some of them killed the people whose land they crossed.
+In 1803: American diplomats had just bought France's claim to Louisiana, and Lewis and Clark had not yet left St. Louis.
+In 1850: South Pass, the Great Salt Lake, the source of the Mississippi, the Yellowstone country and the Great Basin were known to Americans, and thousands of travelers were heading west with Frémont's maps.
+**Next:** After 1850 government survey teams mapped the West in detail, and American explorers turned toward Alaska and the North Pole.
 
 ### 1850 to 1900
 
-Between 1850 and 1900 government teams mapped the West in detail, and other Americans pushed into Alaska and the Arctic. After the Civil War members of Congress paid for four survey teams, groups sent to measure and map the western lands. Native nations lived on the land the surveyors mapped. One survey leader, an Army officer, had written orders to count them and to choose places for Army forts. In 1867 Secretary of State William Seward agreed to buy Alaska from Russia, and in 1885 an Army officer crossed part of its interior.
+**Era 7 of 10 · 1850 to 1900 · about 14 minutes**
 
-By 1890 the official in charge of the census wrote that there could "hardly be said to be a frontier line" left between settled and unsettled land. American explorers had already turned toward the North Pole. Two of their voyages ended with most of the men dead.
+After the Civil War members of Congress paid for four survey teams, groups sent to measure and map the western lands in detail, and other Americans pushed into Alaska and the Arctic. Native nations lived on the land the surveyors mapped. One survey leader, an Army officer, had written orders to count them and to choose places for Army forts.
+
+Secretary of State William Seward agreed in 1867 to buy Alaska from Russia, and in 1885 an Army officer crossed part of its interior.
+
+The official in charge of the census wrote in 1890 that there could "hardly be said to be a frontier line" left between settled and unsettled land. American explorers had already turned toward the North Pole. Two of their voyages ended with most of the men dead.
 
 <a id="story-jim-beckwourth"></a>
 
@@ -703,37 +899,53 @@ By 1890 the official in charge of the census wrote that there could "hardly be s
 >
 > **When and where:** 1824 to 1866. The Rocky Mountains, California and Colorado.
 
-Jim Beckwourth found the lowest pass through the Sierra Nevada mountains in California, and it now carries his name. He turned an old Native path over it into a trail and was never paid for the work. He was born into slavery in Frederick County, Virginia, in 1798 or 1800. His father, Jennings Beckwith, was a white planter who held Beckwourth's mother, a Black woman, as a slave. By law he owned her, and she could not refuse him. His father freed him in papers filed in court in 1824, 1825 and 1826.
+**Marysville owed him for the trail and never paid.**
 
-In 1824 Beckwourth joined Ashley's fur company. For eight or nine years he lived with a band of Crow people, who named him "Bull's Robe." He married the daughter of a chief and rose from warrior to chief. His own book says he became the Crow's highest war chief. Other accounts suggest his fur company planned his stay so that it could win the Crow people's trade.
+Jim Beckwourth found the lowest pass through the Sierra Nevada mountains in California, and it now carries his name. He turned an old Native path over it into a trail and was never paid for the work.
+
+He was born into slavery in Frederick County, Virginia, in 1798 or 1800. His father, Jennings Beckwith, was a white planter who held Beckwourth's mother, a Black woman, as a slave. By law he owned her, and she could not refuse him. His father freed him in papers filed in court in 1824, 1825 and 1826.
+
+Beckwourth joined Ashley's fur company in 1824. For eight or nine years he lived with a band of Crow people, who named him "Bull's Robe." He married the daughter of a chief and rose from warrior to chief. His own book says he became the Crow's highest war chief. Other accounts suggest his fur company planned his stay so that it could win the Crow people's trade.
 
 Beckwourth found the pass in 1850. At 5,221 feet above sea level, it is the lowest crossing of the Sierra Nevada in California. In 1851 he improved an old Native path over it into a trail that ran down to the town of Marysville. It saved gold seekers and settlers about 150 miles and kept them off steep passes such as Donner Pass.
 
 By Beckwourth's own account, the merchants of Marysville had promised to pay him for the trail. When he came to collect in 1851, two large fires had burned the town, and its leaders were unable to pay him. In 1996 Marysville named its largest park Beckwourth Riverfront Park, to recognize the debt the town still owed him.
 
-In the winter of 1854 to 1855 Beckwourth told the story of his life to a writer, Thomas Bonner. The book came out in 1856. Bonner never paid Beckwourth his half of the money. How much of the book is true is disputed.
+Beckwourth told the story of his life to a writer, Thomas Bonner, in the winter of 1854 to 1855. The book came out in 1856. Bonner never paid Beckwourth his half of the money. How much of the book is true is disputed.
 
-In 1864 Colonel John Chivington hired Beckwourth as a scout. On November 29, 1864, Chivington's soldiers attacked a camp of Cheyenne people at Sand Creek, in Colorado. The commander of a nearby Army fort had told the Cheyenne they would be safe there, and the camp was flying an American flag. Chivington's soldiers killed an estimated 70 to 163 Cheyenne. National Park Service counts give about 230 killed, most of them women, children and old people, among the Cheyenne and Arapaho in the camp. Soldiers cut scalps and other parts from the bodies of the dead. After that the Cheyenne refused to trade with Beckwourth.
+**Sand Creek.** Colonel John Chivington hired Beckwourth as a scout in 1864. On November 29, 1864, Chivington's soldiers attacked a camp of Cheyenne people at Sand Creek, in Colorado. The commander of a nearby Army fort had told the Cheyenne they would be safe there, and the camp was flying an American flag. Chivington's soldiers killed an estimated 70 to 163 Cheyenne. National Park Service counts give about 230 killed, most of them women, children and old people, among the Cheyenne and Arapaho in the camp.
+
+Soldiers cut scalps and other parts from the bodies of the dead. After that the Cheyenne refused to trade with Beckwourth.
 
 He died in a Crow village in Montana in 1866. Jim Bridger and a newspaper editor, William Byers, said the Crow poisoned him. Modern accounts name severe high blood pressure as the more likely cause.
 
 #### The Great Surveys of the West, 1867 to 1879
 
-In 1867 Clarence King, a geologist, a scientist who studies rocks and the earth, began a survey along the 40th parallel, from eastern California to Wyoming. A parallel is an east-west line on a map. In 1872 King's team found a field in Colorado where diamonds had supposedly been found, and showed that the diamond field was a fake.
+**King.** Clarence King, a geologist, a scientist who studies rocks and the earth, began a survey in 1867 along the 40th parallel, from eastern California to Wyoming. A parallel is an east-west line on a map. In 1872 King's team found a field in Colorado where diamonds had supposedly been found, and showed that the diamond field was a fake.
 
-In 1871 members of Congress gave Ferdinand Hayden $40,000 to survey the Yellowstone country. His party of 32 included the photographer William Henry Jackson and the painter Thomas Moran. The railroad banker Jay Cooke arranged for Moran to go. Cooke wanted to make Yellowstone known to help the Northern Pacific Railroad. Jackson took the first known photographs of Yellowstone's waterfalls. Jackson's photographs, Moran's paintings and the survey's work helped persuade members of Congress to make Yellowstone a public park. President Ulysses S. Grant signed the law on March 1, 1872.
+**Hayden and Yellowstone.** Members of Congress gave Ferdinand Hayden $40,000 in 1871 to survey the Yellowstone country. His party of 32 included the photographer William Henry Jackson and the painter Thomas Moran. The railroad banker Jay Cooke arranged for Moran to go. Cooke wanted to make Yellowstone known to help the Northern Pacific Railroad.
 
-A band of Mountain Shoshone called the Tukudika had lived in the Yellowstone country for thousands of years. In the fall of 1879 the park's superintendent, Philetus Norris, found a camp the Tukudika had recently left. He asked the US Indian agent at Fort Washakie for help. The agent sent a party of Shoshone men, who moved the Tukudika out of their homeland to the Wind River Reservation, in Wyoming. A National Park Service history states that the Tukudika "were forcibly removed to reservations," which means they were made to go whether they wanted to or not.
+Jackson took the first known photographs of Yellowstone's waterfalls. Jackson's photographs, Moran's paintings and the survey's work helped persuade members of Congress to make Yellowstone a public park. President Ulysses S. Grant signed the law on March 1, 1872.
 
-From 1872 to 1879 Army Lieutenant George Wheeler mapped the land west of the 100th meridian. A meridian is a north-south line on a map, and the 100th meridian runs through the Great Plains. Under his orders, each inch of his maps was to stand for eight miles of land. He was also to "discover the numbers, habits, and disposition of Indians in the section" and to "select sites for future military installations." That meant counting the Native people, learning how they lived and whether they were friendly, and picking places for Army forts.
+A band of Mountain Shoshone called the Tukudika had lived in the Yellowstone country for thousands of years. In the fall of 1879 the park's superintendent, Philetus Norris, found a camp the Tukudika had recently left.
 
-In 1879 members of Congress ended the Wheeler, King and Powell surveys and moved their work into a new agency, the US Geological Survey. Clarence King was its first director.
+He asked the US Indian agent at Fort Washakie for help. The agent sent a party of Shoshone men, who moved the Tukudika out of their homeland to the Wind River Reservation, in Wyoming. A National Park Service history states that the Tukudika "were forcibly removed to reservations," which means they were made to go whether they wanted to or not.
+
+**Wheeler.** Army Lieutenant George Wheeler mapped the land west of the 100th meridian from 1872 to 1879. A meridian is a north-south line on a map, and the 100th meridian runs through the Great Plains. Under his orders, each inch of his maps was to stand for eight miles of land.
+
+He was also to "discover the numbers, habits, and disposition of Indians in the section" and to "select sites for future military installations." That meant counting the Native people, learning how they lived and whether they were friendly, and picking places for Army forts.
+
+Members of Congress ended the Wheeler, King and Powell surveys in 1879 and moved their work into a new agency, the US Geological Survey. Clarence King was its first director.
 
 #### Alaska, 1867 to 1885
 
-At 4 in the morning on March 30, 1867, Secretary of State William Seward and a Russian diplomat, Eduard de Stoeckl, signed a treaty. Under it, Seward agreed to pay $7.2 million for Alaska, about 2 cents an acre, for 586,412 square miles, and de Stoeckl agreed for Russia to sell it. Most reactions in the United States were positive. Some opponents called it "Seward's Folly" or "Seward's Icebox." Seward's own figures counted about 8,000 Native people under Russian rule and about 50,000 more living beyond it. Neither Seward nor the Russian officials asked any of them.
+**Two cents an acre.** Secretary of State William Seward and a Russian diplomat, Eduard de Stoeckl, signed a treaty at 4 in the morning on March 30, 1867. Under it, Seward agreed to pay $7.2 million for Alaska, about 2 cents an acre, for 586,412 square miles, and de Stoeckl agreed for Russia to sell it. Most reactions in the United States were positive. Some opponents called it "Seward's Folly" or "Seward's Icebox."
 
-In the spring of 1885 Army Lieutenant Henry Allen set out to cross Alaska with two soldiers, Sergeant Cady Robertson and Private Fred Fickett, and $2,000. They went up the Copper River. At the Native village of Taral a prospector, John Bremner, joined them. A prospector is a person who searches for gold or other minerals. Local Native people showed them how to build and use boats made of animal skins. The men ate rotten meat full of worms. They crossed the Alaska Range by a pass that Allen named Miles Pass and went down the Tanana River and up the Koyukuk, about 1,500 miles in all. Two of the men got scurvy, a disease caused by a severe lack of vitamin C, which comes from fresh food.
+Seward's own figures counted about 8,000 Native people under Russian rule and about 50,000 more living beyond it. Neither Seward nor the Russian officials asked any of them.
+
+**Across Alaska on foot.** Army Lieutenant Henry Allen set out in the spring of 1885 to cross Alaska with two soldiers, Sergeant Cady Robertson and Private Fred Fickett, and $2,000. They went up the Copper River. At the Native village of Taral a prospector, John Bremner, joined them. A prospector is a person who searches for gold or other minerals. Local Native people showed them how to build and use boats made of animal skins. The men ate rotten meat full of worms.
+
+They crossed the Alaska Range by a pass that Allen named Miles Pass and went down the Tanana River and up the Koyukuk, about 1,500 miles in all. Two of the men got scurvy, a disease caused by a severe lack of vitamin C, which comes from fresh food.
 
 <a id="story-john-wesley-powell"></a>
 
@@ -745,11 +957,16 @@ In the spring of 1885 Army Lieutenant Henry Allen set out to cross Alaska with t
 >
 > **Movie:** *Ten Who Dared* (1960), a Disney film about the expedition.
 
-John Wesley Powell had only one arm when he led the first recorded boat trip by white men through the whole Grand Canyon. He was born in 1834. At the Battle of Shiloh, in April 1862, he was giving the order to fire when a rifle bullet hit his right arm. He lost the arm below the elbow. The raw nerve endings hurt him for the rest of his life. He went back to the Army and fought at Vicksburg.
+**He ran the Grand Canyon with one arm and four wooden boats.**
 
-On May 24, 1869, Powell and nine other men set out from Green River, in Wyoming Territory, in four wooden boats. At a rapid they named Disaster Falls they wrecked and lost one boat, the *No Name*. They named other places along the way, among them Flaming Gorge and Glen Canyon. One man, Frank Goodman, left the trip in July.
+John Wesley Powell had only one arm when he led the first recorded boat trip by white men through the whole Grand Canyon. At the Battle of Shiloh, in April 1862, he was giving the order to fire when a rifle bullet hit his right arm. He lost the arm below the elbow. The raw nerve endings hurt him for the rest of his life. He went back to the Army and fought at Vicksburg.
 
-On August 28 three men, Oramel Howland, his brother Seneca Howland and William Dunn, left the river. They were afraid of the rapids ahead, and they climbed out of the canyon. They were never seen again. Shivwits Paiute men later told Powell's interpreter that they had killed the three by mistake. The Shivwits said they had taken them for prospectors who had raped and killed a Shivwits woman. Rape means forcing a person to have sex. Other accounts say Mormon settlers from Toquerville, Utah, killed them instead. Mormons are members of the Church of Jesus Christ of Latter-day Saints. No one knows for certain.
+Powell and nine other men set out from Green River, in Wyoming Territory, on May 24, 1869, in four wooden boats. At a rapid they named Disaster Falls they wrecked and lost one boat, the *No Name*. They named other places along the way, among them Flaming Gorge and Glen Canyon. One man, Frank Goodman, left the trip in July.
+
+**The three who left.** Three men, Oramel Howland, his brother Seneca Howland and William Dunn, left the river on August 28. They were afraid of the rapids ahead, and they climbed out of the canyon. They were never seen again.
+
+Shivwits Paiute men later told Powell's interpreter that they had killed the three by mistake. The Shivwits said they had taken them for prospectors who had raped and killed a Shivwits woman. Rape means forcing a person to have sex. Other accounts say Mormon settlers from Toquerville, Utah, killed them instead. Mormons are members of the Church of Jesus Christ of Latter-day Saints.
+**Not known:** which account is true.
 
 Powell and five men reached the Mormon settlement of St. Thomas, Nevada, on August 30, 1869. They had traveled almost 930 miles in 98 days. They were the first white men recorded passing through the whole canyon. Paiute people and other Native nations had lived along it long before them.
 
@@ -757,27 +974,53 @@ Powell went down the river a second time in 1871 and 1872. From 1881 to 1894 he 
 
 #### Toward the North Pole, 1879 to 1898
 
-Twenty of the 33 men on the *Jeannette* died on the voyage, among them its captain, Navy Lieutenant George De Long. In 1879 De Long sailed the ship north through the Bering Strait. James Gordon Bennett Jr., the owner of the *New York Herald* newspaper, paid for the voyage. De Long hoped to find an open sea around the North Pole. Ice trapped the ship for nearly two years and crushed it on June 13, 1881. The men dragged their boats across the ice and then sailed for the Lena River in Siberia. One boat, under Lieutenant Charles Chipp, was lost with all eight men in it. De Long and the men in his boat landed in the river's delta, the low, wet land where a river splits into many channels near the sea. They starved there. His last journal entry, on October 30, 1881, lists the dead and ends "Mr Collins dying." Thirteen men came home. The voyage proved that there is no open sea at the pole.
+**The Jeannette.** Twenty of the 33 men on the *Jeannette* died on the voyage, among them its captain, Navy Lieutenant George De Long. In 1879 De Long sailed the ship north through the Bering Strait. James Gordon Bennett Jr., the owner of the *New York Herald* newspaper, paid for the voyage. De Long hoped to find an open sea around the North Pole.
 
-Only six of the 25 men Army Lieutenant Adolphus Greely took to the far north came home, and Greely ordered one of the others shot. In 1881 Greely took his men to Ellesmere Island, in Canada's far north. They were to record the weather as part of the First International Polar Year, when scientists from several countries studied the far north and far south at the same time. Two of his men, Lieutenant James Lockwood and Sergeant David Brainard, set a new record for the farthest north anyone had reached. Two Greenland Inuit dog drivers, Jens Edward and Thorlip Frederik Christiansen, went with them.
+Ice trapped the ship for nearly two years and crushed it on June 13, 1881. The men dragged their boats across the ice and then sailed for the Lena River in Siberia. One boat, under Lieutenant Charles Chipp, was lost with all eight men in it.
 
-Supply ships failed to reach the party in 1882 and again in 1883. The men spent their last winter at Cape Sabine with about 40 days of food. Private Charles B. Henry stole food again and again. On June 6, 1884, Greely wrote an order: "Private Henry will be shot to-day." The order warned that Henry was stronger than any two of the other men. Three men, David Brainard, Francis Long and Julius Fredericks, shot him at 2 in the afternoon. On Greely's order, two of their guns held bullets and one held a blank, a cartridge with no bullet in it.
+De Long and the men in his boat landed in the river's delta, the low, wet land where a river splits into many channels near the sea. They starved there. His last journal entry, on October 30, 1881, lists the dead and ends "Mr Collins dying." Thirteen men came home. The voyage proved that there is no open sea at the pole.
+
+**Greely.** Only six of the 25 men Army Lieutenant Adolphus Greely took to the far north came home, and Greely ordered one of the others shot. In 1881 Greely took his men to Ellesmere Island, in Canada's far north. They were to record the weather as part of the First International Polar Year, when scientists from several countries studied the far north and far south at the same time.
+
+Two of his men, Lieutenant James Lockwood and Sergeant David Brainard, set a new record for the farthest north anyone had reached. Two Greenland Inuit dog drivers, Jens Edward and Thorlip Frederik Christiansen, went with them.
+
+Supply ships failed to reach the party in 1882 and again in 1883. The men spent their last winter at Cape Sabine with about 40 days of food. Private Charles B. Henry stole food again and again.
+
+Greely wrote an order on June 6, 1884: "Private Henry will be shot to-day." The order warned that Henry was stronger than any two of the other men. Three men, David Brainard, Francis Long and Julius Fredericks, shot him at 2 in the afternoon. On Greely's order, two of their guns held bullets and one held a blank, a cartridge with no bullet in it.
 
 When rescue ships arrived on June 22, 1884, seven men were still alive. One died soon after, so six of the 25 lived to go home. Apart from Henry, the dead died of hunger, cold and drowning. In August 1884 doctors examined the body of one dead officer, Lieutenant Frederick Kislingbury, and found flesh cut from the bones. The survivors said they knew nothing about anyone eating the dead.
 
-Robert Peary was a Navy officer who later led expeditions toward the pole. In 1894 he reached the Cape York meteorite in northern Greenland. A meteorite is a rock that falls to Earth from space. Inuit people had relied on it to make tools. Peary took it. In 1896 Franz Boas, a scientist at the American Museum of Natural History in New York, asked Peary to bring an Inuk, one of the Inuit, to the museum. In 1897 Peary deceived six Inuit into sailing with him to New York. He promised they could go home within a year with tools, weapons and gifts, and he did not keep that promise. The six arrived in September 1897. Staff at the museum kept them in its basement, and 20,000 people paid to look at them.
+**The six Inuit.** Robert Peary was a Navy officer who later led expeditions toward the pole. In 1894 he reached the Cape York meteorite in northern Greenland. A meteorite is a rock that falls to Earth from space. Inuit people had relied on it to make tools. Peary took it.
 
-By November 1 all six had tuberculosis, a lung disease that spreads through the air. Four died in a New York hospital in 1898: Qisuk on February 17, Atangana and Nuktaq that spring, and a girl, Aviaq, on May 24. Qisuk's son, Minik, born about 1890, survived. The museum's scientific staff wanted to keep Qisuk's body for study. Boas had the staff hold a fake burial. They filled a coffin with stones, laid a stuffed shape covered with a cloth on top, and buried it so that Minik would believe his father had been buried. Boas later said the ceremony was meant to comfort the boy. Museum staff sent Qisuk's body to the estate of the museum's building manager, William Wallace, where Wallace had a workshop for cleaning skeletons. There the flesh was stripped from Qisuk's bones. The records do not name who did that work. Museum staff later put the skeleton on display in the museum. Wallace adopted Minik.
+In 1896 Franz Boas, a scientist at the American Museum of Natural History in New York, asked Peary to bring an Inuk, one of the Inuit, to the museum. The next year Peary deceived six Inuit into sailing with him to New York. He promised they could go home within a year with tools, weapons and gifts, and he did not keep that promise. The six arrived in September 1897. Staff at the museum kept them in its basement, and 20,000 people paid to look at them.
+
+All six had tuberculosis, a lung disease that spreads through the air, by November 1. Four died in a New York hospital in 1898: Qisuk on February 17, Atangana and Nuktaq that spring, and a girl, Aviaq, on May 24. Qisuk's son, Minik, born about 1890, survived.
+
+**The fake burial.** The museum's scientific staff wanted to keep Qisuk's body for study. Boas had the staff hold a fake burial. They filled a coffin with stones, laid a stuffed shape covered with a cloth on top, and buried it so that Minik would believe his father had been buried. Boas later said the ceremony was meant to comfort the boy.
+
+Museum staff sent Qisuk's body to the estate of the museum's building manager, William Wallace, where Wallace had a workshop for cleaning skeletons. There the flesh was stripped from Qisuk's bones. The records do not name who did that work. Museum staff later put the skeleton on display in the museum. Wallace adopted Minik.
 
 Of the two who lived, a young man named Uisaakassak demanded to go home to Greenland. He sailed home on the ship *Windward* in July 1898. Minik stayed in the United States. About 1906 New York newspapers reported that his father's skeleton was on display, and Minik learned it from his classmates. He died in the flu epidemic of 1918. In 1993 a Canadian writer, Kenn Harper, got the remains of Qisuk and the three others returned to Greenland, where they were buried at Qaanaaq.
 
 #### 1898: islands in two oceans
 
-In 1898 President William McKinley, members of Congress and American diplomats took control of islands in the Pacific Ocean and the Caribbean Sea. Members of Congress voted to annex the Republic of Hawaii, which means to take it over as part of the United States. McKinley signed their resolution on July 7, 1898. Hawaii's former ruler, Queen Liliuokalani, protested to Congress. On December 10, 1898, after a war between Spain and the United States, diplomats from the two countries signed a treaty in Paris. Under the treaty, Spanish officials gave up Cuba and handed Puerto Rico, Guam and the Philippines to the United States. American officials agreed to pay Spain $20 million for the Philippines.
+President William McKinley, members of Congress and American diplomats took control of islands in the Pacific Ocean and the Caribbean Sea in 1898. Members of Congress voted to annex the Republic of Hawaii, which means to take it over as part of the United States. McKinley signed their resolution on July 7, 1898. Hawaii's former ruler, Queen Liliuokalani, protested to Congress.
+
+After a war between Spain and the United States, diplomats from the two countries signed a treaty in Paris on December 10, 1898. Under the treaty, Spanish officials gave up Cuba and handed Puerto Rico, Guam and the Philippines to the United States. American officials agreed to pay Spain $20 million for the Philippines.
+
+**If you remember one thing:** By 1900 the West was surveyed and the census said the frontier line was gone, so American explorers turned north, and most of the men on the two Arctic voyages died there of hunger and cold.
+**One number:** six. Of the 25 men Greely took to Ellesmere Island in 1881, six came home. The *Jeannette* did a little better, 13 men out of 33.
+**Next:** The explorers of the next fifty years went by dog sled, airplane and car, and the two most famous claims among them are still argued over.
 
 ### 1900 to 1950
 
-Many American explorers of the years 1900 to 1950 worked far from home. Some traveled by dog sled toward the North Pole. Pilots flew toward both poles and across the Atlantic Ocean. Teams from Yale University and from a New York museum dug in the mountains of Peru and the Gobi Desert of Mongolia. Two of the explorers' claims are still argued over. One is whether Robert Peary's party reached the North Pole in 1909, and the other is whether Richard Byrd flew over it in 1926. In some of the places these explorers went, local people led the way. Inuit men, women and children joined Peary's last expedition to the North Pole. The Inuit are the Native people of the far north, from Alaska to Greenland. Four Inuit men were in the small party that Peary said reached the pole, and a local man led Hiram Bingham up to Machu Picchu.
+**Era 8 of 10 · 1900 to 1950 · about 11 minutes**
+
+Many American explorers of the years 1900 to 1950 worked far from home. Some traveled by dog sled toward the North Pole. Pilots flew toward both poles and across the Atlantic Ocean. Teams from Yale University and from a New York museum dug in the mountains of Peru and the Gobi Desert of Mongolia.
+
+Two of the explorers' claims are still argued over. One is whether Robert Peary's party reached the North Pole in 1909, and the other is whether Richard Byrd flew over it in 1926.
+
+In some of the places these explorers went, local people led the way. Inuit men, women and children joined Peary's last expedition to the North Pole. The Inuit are the Native people of the far north, from Alaska to Greenland. Four Inuit men were in the small party that Peary said reached the pole, and a local man led Hiram Bingham up to Machu Picchu.
 
 <a id="story-matthew-henson"></a>
 
@@ -787,19 +1030,29 @@ Many American explorers of the years 1900 to 1950 worked far from home. Some tra
 >
 > **When and where:** 1887 to 1909. Northern Greenland and the Arctic Ocean.
 
-Matthew Henson went with Robert Peary on the 1909 journey that Peary claimed reached the North Pole. Members of Congress thanked Peary in 1911. Most of Henson's honors came after 1937, more than 25 years later. Henson was born on August 8, 1866, in Charles County, Maryland. His parents were sharecroppers, farmers who worked someone else's land for a share of the crop. They had been free before the Civil War. In 1867 the family left southern Maryland to escape attacks by the Ku Klux Klan, a group of white men who used violence to terrorize Black people.
+**Henson said he reached the spot before Peary did.**
+
+Matthew Henson went with Robert Peary on the 1909 journey that Peary claimed reached the North Pole. Members of Congress thanked Peary in 1911. Most of Henson's honors came after 1937, more than 25 years later.
+
+Henson was born in Charles County, Maryland, in 1866. His parents were sharecroppers, farmers who worked someone else's land for a share of the crop. They had been free before the Civil War. In 1867 the family left southern Maryland to escape attacks by the Ku Klux Klan, a group of white men who used violence to terrorize Black people.
 
 At 12 Henson went to sea as a cabin boy. The ship's captain, a man named Childs, taught him to read and write. In November 1887 Henson was working in a clothing store in Washington, D.C., when he met Robert Peary, a Navy officer. Peary hired him as his helper on a trip to measure and map land in Nicaragua, where people were planning a canal. Their first Arctic trip together was in 1891 and 1892, and they made seven Arctic voyages over nearly 23 years.
 
 Henson traded with the Inuit and learned their language. They called him Mahri-Pahluk. He is remembered as the only member of the expedition who was not Inuit and became skilled at driving and training dog teams the Inuit way. He was also Peary's navigator, the person who worked out where they were and which way to go.
 
-In July 1908 Peary's ship, the *Roosevelt*, left New York. Inuit men, women and children from Cape York, in Greenland, joined the expedition. In February 1909 the sled parties set out across the frozen Arctic Ocean. There were 7 expedition members, 19 Inuit, 140 dogs and 28 sleds. They carried supplies forward in relays. One party hauled loads part of the way and left them, and the next party carried them on. By the end Peary could no longer walk, and he rode on a sled. He sent Henson ahead as a scout.
+**The last expedition.** Peary's ship, the *Roosevelt*, left New York in July 1908. Inuit men, women and children from Cape York, in Greenland, joined the expedition. In February 1909 the sled parties set out across the frozen Arctic Ocean. There were 7 expedition members, 19 Inuit, 140 dogs and 28 sleds.
 
-On April 6, 1909, Peary said that his party had reached the North Pole. The last group was six men: Peary, Henson and four Inuit men named Ootah, Egingwah, Seegloo and Ooqueah. Henson later said that he was the first of the party to reach the spot they believed was the pole.
+They carried supplies forward in relays. One party hauled loads part of the way and left them, and the next party carried them on. By the end Peary could no longer walk, and he rode on a sled. He sent Henson ahead as a scout.
 
-The claim is disputed. Frederick Cook, who had been the doctor on Peary's trip of 1891 to 1892, said he had reached the pole in 1908, a year before Peary. Members of a National Geographic Society committee backed Peary. In 1989 the British explorer Wally Herbert studied Peary's records for the National Geographic Society. He concluded that the records were unreliable. They showed the party moving faster than seemed possible. Herbert found that the party may have stopped 30 to 60 miles short of the pole.
+Peary said that his party had reached the North Pole on April 6, 1909. The last group was six men: Peary, Henson and four Inuit men named Ootah, Egingwah, Seegloo and Ooqueah. Henson later said that he was the first of the party to reach the spot they believed was the pole.
 
-In 1911 members of Congress voted Peary their formal thanks, and he was promoted to rear admiral, one of the highest ranks in the Navy. Henson published a book in 1912 called *A Negro Explorer at the North Pole*. "Negro" was the common word for a Black person at that time. He became the first African American life member of the Explorers Club, a society of explorers, in 1937, and he received a medal for the Peary expedition in 1944. Presidents Harry Truman and Dwight Eisenhower welcomed him to the White House. He died on March 9, 1955. In 1988 he and his wife were buried again at Arlington National Cemetery. The National Geographic Society gave him its Hubbard Medal in 2000. In 2021 the International Astronomical Union, the scientists' group that names places in space, named a crater on the Moon after him.
+**The claim.** The claim is disputed. Frederick Cook, who had been the doctor on Peary's trip of 1891 to 1892, said he had reached the pole in 1908, a year before Peary. Members of a National Geographic Society committee backed Peary. In 1989 the British explorer Wally Herbert studied Peary's records for the National Geographic Society. He concluded that the records were unreliable. They showed the party moving faster than seemed possible. Herbert found that the party may have stopped 30 to 60 miles short of the pole.
+
+**Honors, late.** Members of Congress voted Peary their formal thanks in 1911, and he was promoted to rear admiral, one of the highest ranks in the Navy.
+
+Henson published a book in 1912 called *A Negro Explorer at the North Pole*. "Negro" was the common word for a Black person at that time. He became the first African American life member of the Explorers Club, a society of explorers, in 1937, and he received a medal for the Peary expedition in 1944. Presidents Harry Truman and Dwight Eisenhower welcomed him to the White House.
+
+He died on March 9, 1955. In 1988 he and his wife were buried again at Arlington National Cemetery. The National Geographic Society gave him its Hubbard Medal in 2000. In 2021 the International Astronomical Union, the scientists' group that names places in space, named a crater on the Moon after him.
 
 <a id="story-hiram-bingham"></a>
 
@@ -809,9 +1062,11 @@ In 1911 members of Congress voted Peary their formal thanks, and he was promoted
 >
 > **When and where:** 1911 to 1915. The Andes Mountains of Peru.
 
-In 1911 Hiram Bingham reached Machu Picchu and later made it famous around the world, though people had known the place long before he arrived. He was born in Honolulu in 1875 and taught South American history at Yale University. He later served one day as governor of Connecticut, in 1925, and then as a US senator until 1933. He was not trained as an archaeologist, a scientist who studies the past by digging up what people left behind. In 1911 he led an expedition from Yale to Peru to look for the last capital of the Inca. The Inca ruled an empire in the Andes Mountains before the Spanish arrived.
+**Somebody had already written "A. Lizarraga 1902" on a wall.**
 
-On July 24, 1911, a local man named Melchor Arteaga led Bingham up to Machu Picchu. The people living in the valley next to it already knew the ruins. Explorers from the Peruvian city of Cusco are said to have reached it in 1901. One of them, Agustin Lizarraga, wrote "A. Lizarraga 1902" in charcoal on a wall there, and Bingham found the writing. A map from 1874 already shows the site. Bingham later wrote about the ruins as if he had found them himself.
+Hiram Bingham reached Machu Picchu in 1911 and later made it famous around the world, though people had known the place long before he arrived. He taught South American history at Yale University. He was not trained as an archaeologist, a scientist who studies the past by digging up what people left behind. In 1911 he led an expedition from Yale to Peru to look for the last capital of the Inca. The Inca ruled an empire in the Andes Mountains before the Spanish arrived.
+
+A local man named Melchor Arteaga led Bingham up to Machu Picchu on July 24, 1911. The people living in the valley next to it already knew the ruins. Explorers from the Peruvian city of Cusco are said to have reached it in 1901. One of them, Agustin Lizarraga, wrote "A. Lizarraga 1902" in charcoal on a wall there, and Bingham found the writing. A map from 1874 already shows the site. Bingham later wrote about the ruins as if he had found them himself.
 
 Bingham guessed that Machu Picchu was the Incas' last capital, and he called it the "Lost City." The last capital was really Vilcabamba, which Bingham also visited without recognizing it.
 
@@ -825,11 +1080,13 @@ Bingham's team dug up about 40,000 objects at Machu Picchu, among them mummies, 
 >
 > **When and where:** 1922 to 1928. The Gobi Desert of Mongolia.
 
-In the Gobi Desert in 1923, Roy Chapman Andrews's team found the first nests of dinosaur eggs known to science. Andrews was born in Beloit, Wisconsin, in 1884. He started work at the American Museum of Natural History in New York as a janitor. From 1922 to 1928 he led the museum's expeditions into the Gobi Desert of Mongolia. His teams went by car from Peking, in China, the city now called Beijing. He was looking for the remains of the earliest humans. His teams found none.
+**His team found nests full of dinosaur eggs on July 13, 1923.**
+
+Roy Chapman Andrews's team found the first nests of dinosaur eggs known to science in the Gobi Desert in 1923. Andrews started work at the American Museum of Natural History in New York as a janitor. From 1922 to 1928 he led the museum's expeditions into the Gobi Desert of Mongolia. His teams went by car from Peking, in China, the city now called Beijing. He was looking for the remains of the earliest humans. His teams found none.
 
 They found other fossils instead. Fossils are the remains of living things from long ago, turned to stone or pressed into rock. In 1922 they found the bones of a giant relative of the rhinoceros that had no horn. On July 13, 1923, they found nests full of fossil dinosaur eggs. Scientists first thought the eggs came from a dinosaur called *Protoceratops*. In 1995 scientists showed that they belonged to a meat-eating dinosaur called *Oviraptor*.
 
-In 1928 Chinese officials seized what the expedition had found. They later gave the finds back. In 1934 Andrews became director of the museum.
+Chinese officials seized what the expedition had found in 1928. They later gave the finds back. In 1934 Andrews became director of the museum.
 
 <a id="story-richard-byrd"></a>
 
@@ -841,13 +1098,17 @@ In 1928 Chinese officials seized what the expedition had found. They later gave 
 >
 > **Movie:** *With Byrd at the South Pole* (1930), a documentary film of the trip.
 
-Richard Byrd led the first flight to the South Pole, in 1929. His claim to have flown over the North Pole three years earlier is disputed. Byrd was born in Virginia in 1888 and became a Navy pilot in 1918.
+**His diary holds navigation readings that somebody erased.**
 
-On May 9, 1926, Byrd and the pilot Floyd Bennett flew a three-engine plane, the *Josephine Ford*, toward the North Pole. Members of Congress voted both men the Medal of Honor for the flight. Most researchers who have studied the flight believe the plane could not carry enough fuel to fly as far as Byrd said. In 1958 another pilot, Bernt Balchen, said that Bennett had told him they never reached the pole. Byrd's diary was made public in 1996. It contains navigation readings that were erased. Those readings differ from his official report. The historian Dennis Rawlins concluded that Byrd flew about 80 percent of the way and turned back because of an oil leak. Other researchers defend Byrd's claim.
+Richard Byrd led the first flight to the South Pole, in 1929. His claim to have flown over the North Pole three years earlier is disputed. Byrd became a Navy pilot in 1918.
 
-In Antarctica, Byrd built a base camp called Little America on the Ross Ice Shelf, a huge sheet of ice floating on the sea. On November 28, 1929, Byrd, the pilot Bernt Balchen, the radio operator Harold June and the photographer Ashley McKinley took off for the South Pole. They flew there and back in 18 hours and 41 minutes. To make the plane light enough to climb onto the high ice of the Antarctic Plateau, they threw supplies out.
+**The North Pole claim.** Byrd and the pilot Floyd Bennett flew a three-engine plane, the *Josephine Ford*, toward the North Pole on May 9, 1926. Members of Congress voted both men the Medal of Honor for the flight. Most researchers who have studied the flight believe the plane could not carry enough fuel to fly as far as Byrd said. In 1958 another pilot, Bernt Balchen, said that Bennett had told him they never reached the pole.
 
-On his second expedition, in 1934, Byrd spent five months alone in a weather hut called Advance Base. Fumes from a badly vented stove, one that did not let its smoke out properly, gave him carbon monoxide poisoning. Carbon monoxide is a gas with no smell that stops the blood from carrying oxygen. He nearly died. Men from the base camp reached him on their third try. Byrd died in 1957.
+Byrd's diary was made public in 1996. It contains navigation readings that were erased. Those readings differ from his official report. The historian Dennis Rawlins concluded that Byrd flew about 80 percent of the way and turned back because of an oil leak. Other researchers defend Byrd's claim.
+
+**The South Pole.** In Antarctica, Byrd built a base camp called Little America on the Ross Ice Shelf, a huge sheet of ice floating on the sea. On November 28, 1929, Byrd, the pilot Bernt Balchen, the radio operator Harold June and the photographer Ashley McKinley took off for the South Pole. They flew there and back in 18 hours and 41 minutes. To make the plane light enough to climb onto the high ice of the Antarctic Plateau, they threw supplies out.
+
+**Alone.** Byrd spent five months alone in a weather hut called Advance Base on his second expedition, in 1934. Fumes from a badly vented stove, one that did not let its smoke out properly, gave him carbon monoxide poisoning. Carbon monoxide is a gas with no smell that stops the blood from carrying oxygen. He nearly died. Men from the base camp reached him on their third try. Byrd died in 1957.
 
 <a id="story-charles-lindbergh"></a>
 
@@ -857,9 +1118,11 @@ On his second expedition, in 1934, Byrd spent five months alone in a weather hut
 >
 > **When and where:** May 20 to 21, 1927. From Garden City, New York, to Paris, France.
 
-In May 1927 Charles Lindbergh, an airmail pilot, became the first person to fly alone and without stopping across the Atlantic Ocean. Workers at Ryan Airlines, a company in San Diego, built his single-engine plane, the *Spirit of St. Louis*.
+**He flew alone for 33 hours and 30 minutes.**
 
-On May 20, 1927, Lindbergh took off from Roosevelt Field, in Garden City, New York. He landed at Le Bourget airfield outside Paris 33 hours and 30 minutes later, after about 3,600 miles. He won the $25,000 Orteig Prize, which had been offered for the first nonstop flight between New York and Paris.
+Charles Lindbergh, an airmail pilot, became the first person to fly alone and without stopping across the Atlantic Ocean in May 1927. Workers at Ryan Airlines, a company in San Diego, built his single-engine plane, the *Spirit of St. Louis*.
+
+Lindbergh took off from Roosevelt Field, in Garden City, New York, on May 20, 1927. He landed at Le Bourget airfield outside Paris 33 hours and 30 minutes later, after about 3,600 miles. He won the $25,000 Orteig Prize, which had been offered for the first nonstop flight between New York and Paris.
 
 Two British fliers, John Alcock and Arthur Brown, had made the first nonstop flight across the Atlantic eight years earlier. They flew from St. John's, Newfoundland, to Clifden, Ireland, on June 14 and 15, 1919, in under sixteen hours. Lindbergh was the first to make the crossing alone.
 
@@ -871,13 +1134,21 @@ Two British fliers, John Alcock and Arthur Brown, had made the first nonstop fli
 >
 > **When and where:** 1932, Newfoundland to Northern Ireland, and 1937, the central Pacific Ocean.
 
-Five years after Lindbergh, Amelia Earhart made the same kind of crossing, alone and without stopping, the first woman to do it. She was born on July 24, 1897. In 1928 she crossed the Atlantic by air as a passenger, the first woman to do so. On May 20, 1932, when she was 34, she took off alone from Harbour Grace, in Newfoundland. She flew through strong winds and ice, and her engine had problems. After 14 hours and 56 minutes she landed in a pasture near the city of Derry, in Northern Ireland. Members of Congress voted her the Distinguished Flying Cross, a medal for bravery or great skill in flying.
+**The *Itasca* heard her clearly, and she could not hear the ship.**
 
-In 1937 Earhart set out to be the first woman to fly around the world. Her route ran about 29,000 miles, near the equator. The navigator Fred Noonan flew with her. On June 29 they reached Lae, in New Guinea, with about 7,000 miles to go.
+Five years after Lindbergh, Amelia Earhart made the same kind of crossing, alone and without stopping, the first woman to do it. In 1928 she had crossed the Atlantic by air as a passenger, the first woman to do so.
 
-On July 2, 1937, they took off for Howland Island, a tiny island in the Pacific. A Coast Guard ship, the *Itasca*, waited there to guide them in by radio. The crew of the *Itasca* heard her clearly, but she could not hear the ship. The ship's radio direction finder could not lock onto her signal to show which way it came from. At 7:58 in the morning she radioed that she could not hear the *Itasca*. Earhart and Noonan were never found. She was declared legally dead on January 5, 1939.
+She took off alone from Harbour Grace, in Newfoundland, on May 20, 1932, when she was 34. She flew through strong winds and ice, and her engine had problems. After 14 hours and 56 minutes she landed in a pasture near the city of Derry, in Northern Ireland. Members of Congress voted her the Distinguished Flying Cross, a medal for bravery or great skill in flying.
+
+**Around the world.** Earhart set out in 1937 to be the first woman to fly around the world. Her route ran about 29,000 miles, near the equator. The navigator Fred Noonan flew with her. On June 29 they reached Lae, in New Guinea, with about 7,000 miles to go.
+
+They took off for Howland Island, a tiny island in the Pacific, on July 2, 1937. A Coast Guard ship, the *Itasca*, waited there to guide them in by radio. The crew of the *Itasca* heard her clearly, but she could not hear the ship. The ship's radio direction finder could not lock onto her signal to show which way it came from.
+
+At 7:58 in the morning she radioed that she could not hear the *Itasca*. Earhart and Noonan were never found. She was declared legally dead on January 5, 1939.
 
 ### 1950 to 2000
+
+**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
 
 After 1950 the places no person had ever seen were the deepest parts of the ocean and space beyond the Earth. On October 4, 1957, Soviet engineers launched Sputnik, the first satellite to circle the Earth. A satellite is an object that travels in a path around a planet. The next year members of Congress passed a law that set up NASA, the US space agency. Soviet and American crews then flew into space, one flight after another. Between 1969 and 1972 twelve American astronauts walked on the Moon.
 
@@ -891,7 +1162,9 @@ Three American astronauts died in a fire on the launch pad in 1967. Seven died w
 >
 > **When and where:** January 23, 1960. The Challenger Deep in the Mariana Trench, near Guam in the Pacific Ocean.
 
-On January 23, 1960, Navy Lieutenant Don Walsh and the Swiss ocean scientist Jacques Piccard reached the bottom of the deepest known place in the ocean. It is called the Challenger Deep, and it lies in the Mariana Trench, near the island of Guam in the Pacific. No craft of any kind, with people or without, had been there before.
+**Below 30,000 feet a window pane cracked and the craft shook.**
+
+Navy Lieutenant Don Walsh and the Swiss ocean scientist Jacques Piccard reached the bottom of the deepest known place in the ocean on January 23, 1960. It is called the Challenger Deep, and it lies in the Mariana Trench, near the island of Guam in the Pacific. No craft of any kind, with people or without, had been there before.
 
 They went down in the *Trieste*, a deep-diving craft called a bathyscaphe. Piccard's father, Auguste Piccard, had designed it, and it was built in Italy in 1953. The US Navy bought it. The trip down took 4 hours and 47 minutes. Below 30,000 feet, one of the outer window panes cracked, and the craft shook.
 
@@ -901,13 +1174,19 @@ Walsh and Piccard reported seeing flatfish on the bottom. Scientists now doubt i
 
 #### Into space, 1957 to 1972
 
-NASA was set up on July 29, 1958, under a law called the National Aeronautics and Space Act. NASA's staff began work on October 1, 1958. Its full name is the National Aeronautics and Space Administration. On April 12, 1961, a Soviet cosmonaut, Yuri Gagarin, circled the Earth once, the first person to travel into space. Cosmonaut is the Russian word for an astronaut. Three weeks later, on May 5, 1961, Alan Shepard became the first American in space. His flight lasted 15 minutes. It went up into space and came straight back down without circling the Earth.
+**NASA.** NASA was set up on July 29, 1958, under a law called the National Aeronautics and Space Act. NASA's staff began work on October 1, 1958. Its full name is the National Aeronautics and Space Administration.
 
-On May 25, 1961, President John F. Kennedy asked Congress to set the goal, "before this decade is out, of landing a man on the Moon and returning him safely to the Earth." The Moon program was called Apollo. At its peak 400,000 people worked on it, and it cost $25.4 billion. On February 20, 1962, John Glenn circled the Earth three times in 4 hours and 55 minutes in a capsule called *Friendship 7*. He was the first American to orbit the Earth, which means to travel all the way around it. Two Soviet cosmonauts had orbited before him.
+**The first people in space.** A Soviet cosmonaut, Yuri Gagarin, circled the Earth once on April 12, 1961, the first person to travel into space. Cosmonaut is the Russian word for an astronaut. Three weeks later, on May 5, 1961, Alan Shepard became the first American in space. His flight lasted 15 minutes. It went up into space and came straight back down without circling the Earth.
 
-On January 27, 1967, three astronauts died in a fire during a practice countdown on the launch pad in Florida. They were Gus Grissom, Ed White and Roger Chaffee, the crew of Apollo 1. An electric spark set nylon material on fire inside a cabin filled with pure oxygen. The hatch opened inward, and the pressure inside the cabin held it shut. It took workers on the launch pad five minutes to open all three layers of the hatch. The fire melted the men's suits and air hoses. Doctors who examined their bodies found that the main cause of death was carbon monoxide gas from the fire, which had stopped their hearts. All three also had third-degree burns, burns that destroy the skin all the way through. Most of the burns happened after the men had died.
+President John F. Kennedy asked Congress on May 25, 1961, to set the goal, "before this decade is out, of landing a man on the Moon and returning him safely to the Earth." The Moon program was called Apollo. At its peak 400,000 people worked on it, and it cost $25.4 billion.
 
-In December 1968 the crew of Apollo 8 became the first people to orbit the Moon. Between December 1968 and December 1972, 24 astronauts flew around the Moon. Six Apollo crews landed on it, and twelve men walked on it. The last landing was Apollo 17, in December 1972. No one has walked on the Moon since.
+John Glenn circled the Earth three times on February 20, 1962, in 4 hours and 55 minutes, in a capsule called *Friendship 7*. He was the first American to orbit the Earth, which means to travel all the way around it. Two Soviet cosmonauts had orbited before him.
+
+**Apollo 1.** Three astronauts died in a fire during a practice countdown on the launch pad in Florida on January 27, 1967. They were Gus Grissom, Ed White and Roger Chaffee, the crew of Apollo 1. An electric spark set nylon material on fire inside a cabin filled with pure oxygen. The hatch opened inward, and the pressure inside the cabin held it shut. It took workers on the launch pad five minutes to open all three layers of the hatch.
+
+The fire melted the men's suits and air hoses. Doctors who examined their bodies found that the main cause of death was carbon monoxide gas from the fire, which had stopped their hearts. All three also had third-degree burns, burns that destroy the skin all the way through. Most of the burns happened after the men had died.
+
+**The Moon.** The crew of Apollo 8 became the first people to orbit the Moon in December 1968. Between December 1968 and December 1972, 24 astronauts flew around the Moon. Six Apollo crews landed on it, and twelve men walked on it. The last landing was Apollo 17, in December 1972. No one has walked on the Moon since.
 
 <a id="story-katherine-johnson"></a>
 
@@ -919,13 +1198,19 @@ In December 1968 the crew of Apollo 8 became the first people to orbit the Moon.
 >
 > **Movie:** *Hidden Figures* (2016). The actor Taraji P. Henson plays Johnson.
 
-Katherine Johnson worked out the flight path of the first American spaceflight, in 1961, and checked the numbers for the first American flight around the Earth, in 1962. She was born on August 26, 1918, in White Sulphur Springs, West Virginia. Her county had no public high school for Black students. Her family sent her to one on the campus of West Virginia State College, and she started there at the age of ten. Later she was one of three Black students chosen to be the first to attend the graduate school of West Virginia University.
+**Glenn refused to fly until she had checked the machines' numbers.**
 
-In June 1953 she was hired at the Langley laboratory, in Hampton, Virginia. The laboratory belonged to NACA, the government agency that came before NASA. Her job title was "computer." At that time a computer was a person who did long calculations by hand. Segregation means keeping people apart by race. Virginia's lawmakers had passed segregation laws, and federal workplaces had segregation rules of their own. Under them, Johnson and the other Black women computers had to work, eat and use restrooms apart from white workers. The sign on their office read "Colored Computers." "Colored" was a word for Black people used at that time.
+Katherine Johnson worked out the flight path of the first American spaceflight, in 1961, and checked the numbers for the first American flight around the Earth, in 1962. She was born in White Sulphur Springs, West Virginia, in 1918. Her county had no public high school for Black students.
+
+Her family sent her to one on the campus of West Virginia State College, and she started there at the age of ten. Later she was one of three Black students chosen to be the first to attend the graduate school of West Virginia University.
+
+**"Colored Computers."** The Langley laboratory, in Hampton, Virginia, hired her in June 1953. The laboratory belonged to NACA, the government agency that came before NASA. Her job title was "computer." At that time a computer was a person who did long calculations by hand.
+
+Segregation means keeping people apart by race. Virginia's lawmakers had passed segregation laws, and federal workplaces had segregation rules of their own. Under them, Johnson and the other Black women computers had to work, eat and use restrooms apart from white workers. The sign on their office read "Colored Computers." "Colored" was a word for Black people used at that time.
 
 Johnson calculated the path and the launch time for Alan Shepard's flight in 1961. For John Glenn's flight in 1962, NASA officials used electronic computers for the first time to plan the orbit. Glenn asked for Johnson by name to check the machines' numbers. He refused to fly until she had checked them. She later worked on the paths that let Apollo spacecraft meet each other in space.
 
-In 2015 President Barack Obama gave her the Presidential Medal of Freedom. Members of Congress awarded her the Congressional Gold Medal in 2019. She died on February 24, 2020, at the age of 101.
+President Barack Obama gave her the Presidential Medal of Freedom in 2015. Members of Congress awarded her the Congressional Gold Medal in 2019. She died on February 24, 2020, at the age of 101.
 
 <a id="story-apollo-11-crew"></a>
 
@@ -935,7 +1220,9 @@ In 2015 President Barack Obama gave her the Presidential Medal of Freedom. Membe
 >
 > **When and where:** July 16 to 24, 1969. From Florida to the Moon's Sea of Tranquility and back to the Pacific Ocean.
 
-On July 20, 1969, Neil Armstrong and Buzz Aldrin became the first people to land on the Moon. A Saturn V rocket had launched them and Michael Collins from Kennedy Space Center, in Florida, on July 16.
+**About one in five people on Earth watched the first step live.**
+
+Neil Armstrong and Buzz Aldrin became the first people to land on the Moon on July 20, 1969. A Saturn V rocket had launched them and Michael Collins from Kennedy Space Center, in Florida, on July 16.
 
 Armstrong and Aldrin flew the lunar module, a small landing craft named *Eagle*, down to a flat plain called the Sea of Tranquility. Collins stayed in orbit around the Moon in the command module, *Columbia*, the part of the spacecraft that would carry all three men home. About six hours after landing, Armstrong stepped out onto the Moon. Aldrin followed him 19 minutes later. An estimated 600 million people, about one in five people on Earth, watched Armstrong's first steps live on television. Another count gives 650 million.
 
@@ -951,11 +1238,15 @@ The two men collected 47.5 pounds of rock and soil and spent more than 21 hours 
 >
 > **Movie:** *Apollo 13* (1995), based on Lovell's book about the flight, *Lost Moon*.
 
+**An oxygen tank exploded two days out, and they came home anyway.**
+
 The crew of Apollo 13 survived an explosion on the way to the Moon by living in their small landing craft. They were Jim Lovell, the commander, Jack Swigert and Fred Haise. Swigert had taken the place of Ken Mattingly, who had been exposed to German measles, an illness that spreads from person to person.
 
 The spacecraft launched on April 11, 1970. Two days later the crew stirred one of the oxygen tanks, a routine job. Damaged insulation on the wires inside the tank caught fire, and the tank exploded. The oxygen in both of the main spacecraft's tanks escaped into space.
 
-After the explosion, mission controllers cancelled the Moon landing and worked to bring the crew home alive. The three men shut down the main spacecraft to save it for the trip back down through the atmosphere, the layer of air around the Earth. They moved into the small lunar module, *Aquarius*, and lived in it on the way home. It was cold and wet inside, and they ran short of drinking water. The air had to be cleared of carbon dioxide, the gas people breathe out. The crew and the engineers on the ground worked out a way to make the main spacecraft's carbon dioxide filters fit the lunar module.
+After the explosion, mission controllers cancelled the Moon landing and worked to bring the crew home alive. The three men shut down the main spacecraft to save it for the trip back down through the atmosphere, the layer of air around the Earth.
+
+They moved into the small lunar module, *Aquarius*, and lived in it on the way home. It was cold and wet inside, and they ran short of drinking water. The air had to be cleared of carbon dioxide, the gas people breathe out. The crew and the engineers on the ground worked out a way to make the main spacecraft's carbon dioxide filters fit the lunar module.
 
 The crew swung around the Moon and headed home. They splashed down safely in the South Pacific on April 17, 1970. Members of the review board later blamed the way the tank had been tested before the flight, and the Teflon plastic inside it.
 
@@ -967,9 +1258,13 @@ The crew swung around the Moon and headed home. They splashed down safely in the
 >
 > **When and where:** 1970 to 1992. The Virgin Islands and the waters off Hawaii.
 
-Sylvia Earle holds the women's record for the deepest dive to the sea floor, 1,250 feet down. She was born in New Jersey in 1935 and became a marine biologist, a scientist who studies life in the sea. In 1969 the people running the Tektite project, which let scientists live in a laboratory under the sea, turned her down. By then she had spent more than 1,000 hours underwater doing research.
+**She walked the sea floor 1,250 feet down, with no line up.**
 
-In 1970 Earle led the first all-woman team of aquanauts, people who live and work underwater. They lived in a laboratory 50 feet below the surface off the Virgin Islands. In 1979 she put on a hard diving suit that kept the water pressure away from her body. With no line connecting her to the surface, she dived to the sea floor off Oahu, Hawaii, 1,250 feet down. That women's depth record still stands. From 1990 to 1992 she was the first woman to be chief scientist of NOAA, the US government's ocean and weather agency.
+Sylvia Earle holds the women's record for the deepest dive to the sea floor, 1,250 feet down. She became a marine biologist, a scientist who studies life in the sea. In 1969 the people running the Tektite project, which let scientists live in a laboratory under the sea, turned her down. By then she had spent more than 1,000 hours underwater doing research.
+
+Earle led the first all-woman team of aquanauts, people who live and work underwater, in 1970. They lived in a laboratory 50 feet below the surface off the Virgin Islands.
+
+She put on a hard diving suit in 1979 that kept the water pressure away from her body. With no line connecting her to the surface, she dived to the sea floor off Oahu, Hawaii, 1,250 feet down. That women's depth record still stands. From 1990 to 1992 she was the first woman to be chief scientist of NOAA, the US government's ocean and weather agency.
 
 <a id="story-robert-ballard"></a>
 
@@ -979,11 +1274,15 @@ In 1970 Earle led the first all-woman team of aquanauts, people who live and wor
 >
 > **When and where:** 1977 to 1989. The Pacific floor near the Galapagos Islands and the North Atlantic.
 
-Robert Ballard helped find living things where scientists had expected none, and later he found the wreck of the *Titanic*. He was born in Wichita, Kansas, in 1942. He became an oceanographer, a scientist who studies the ocean, and he worked at the Woods Hole Oceanographic Institution.
+**First he had to look at two sunken Navy submarines in secret.**
 
-In 1977 Ballard was a diver on an expedition that used the submarine *Alvin* on the sea floor near the Galapagos Islands, in the Pacific. Its members found hot springs on the sea floor. Groups of living things surrounded them. They got their energy from chemicals in the water from the springs, not from sunlight. All the scientists on board were geologists, scientists who study rocks and the Earth, because they had been certain there would be no life to study.
+Robert Ballard helped find living things where scientists had expected none, and later he found the wreck of the *Titanic*. He became an oceanographer, a scientist who studies the ocean, and he worked at the Woods Hole Oceanographic Institution.
 
-In 1982 Ballard asked the Navy to pay for a search for the *Titanic*. He planned to use a new camera robot called *Argo*, which a ship could tow along the sea floor. The Navy's leaders agreed, on one condition. First he had to use *Argo* to look in secret at the wrecks of two Navy nuclear submarines, the *Thresher* and the *Scorpion*. Both had sunk in the 1960s. After that work, in 1985, Ballard and a French team found the wreck of the *Titanic*. In June 1989 he found the wreck of the *Bismarck*, a battleship of Nazi Germany that sank in the North Atlantic in May 1941.
+Ballard was a diver in 1977 on an expedition that used the submarine *Alvin* on the sea floor near the Galapagos Islands, in the Pacific. Its members found hot springs on the sea floor. Groups of living things surrounded them. They got their energy from chemicals in the water from the springs, not from sunlight. All the scientists on board were geologists, scientists who study rocks and the Earth, because they had been certain there would be no life to study.
+
+**The Titanic.** Ballard asked the Navy in 1982 to pay for a search for the *Titanic*. He planned to use a new camera robot called *Argo*, which a ship could tow along the sea floor. The Navy's leaders agreed, on one condition. First he had to use *Argo* to look in secret at the wrecks of two Navy nuclear submarines, the *Thresher* and the *Scorpion*. Both had sunk in the 1960s.
+
+After that work, in 1985, Ballard and a French team found the wreck of the *Titanic*. In June 1989 he found the wreck of the *Bismarck*, a battleship of Nazi Germany that sank in the North Atlantic in May 1941.
 
 <a id="story-sally-ride-mae-jemison"></a>
 
@@ -993,29 +1292,43 @@ In 1982 Ballard asked the Navy to pay for a search for the *Titanic*. He planned
 >
 > **When and where:** 1983 and 1992, aboard the space shuttles *Challenger* and *Endeavour*.
 
-In 1983 Sally Ride became the first American woman in space, and in 1992 Mae Jemison became the first African American woman in space. Ride was a physicist from California, a scientist who studies matter and energy. She joined NASA in 1978. On June 18, 1983, she flew on the space shuttle *Challenger*. She was the third woman in space. The first had been Valentina Tereshkova of the Soviet Union, in 1963. At 32 Ride was the youngest American astronaut to fly.
+**Reporters sent more than 500 requests to interview Ride.**
+
+Sally Ride became the first American woman in space in 1983, and Mae Jemison became the first African American woman in space in 1992. Ride was a physicist from California, a scientist who studies matter and energy. She joined NASA in 1978. On June 18, 1983, she flew on the space shuttle *Challenger*. She was the third woman in space. The first had been Valentina Tereshkova of the Soviet Union, in 1963. At 32 Ride was the youngest American astronaut to fly.
 
 On the flight Ride worked the shuttle's robot arm. Reporters sent more than 500 requests to interview her. Two months later, on August 30, 1983, Guion Bluford became the first African American in space.
 
 Ride later served on the Rogers Commission, which investigated the *Challenger* explosion in 1986, and on the Columbia Accident Investigation Board, which investigated the loss of the shuttle *Columbia* in 2003. She was the only person to serve on both. She died in 2012. Her obituary, the published notice of her death, named Tam O'Shaughnessy as her partner of 27 years. Ride had kept the relationship private while she was alive. She is the first astronaut known to have been LGBTQ, which stands for lesbian, gay, bisexual, transgender or queer.
 
-Mae Jemison was born in Decatur, Alabama, in 1956 and grew up in Chicago. She studied chemical engineering at Stanford University and then became a doctor. From 1983 to 1985 she worked as a doctor in Liberia and Sierra Leone, in West Africa. She went there with the Peace Corps, a US government program that sends volunteers to work in other countries. She joined NASA in 1987. From September 12 to 20, 1992, she flew aboard the space shuttle *Endeavour*.
+**Jemison.** Mae Jemison was born in Decatur, Alabama, in 1956 and grew up in Chicago. She studied chemical engineering at Stanford University and then became a doctor. From 1983 to 1985 she worked as a doctor in Liberia and Sierra Leone, in West Africa. She went there with the Peace Corps, a US government program that sends volunteers to work in other countries. She joined NASA in 1987. From September 12 to 20, 1992, she flew aboard the space shuttle *Endeavour*.
 
 #### The Challenger explosion, 1986
 
-On January 28, 1986, the space shuttle *Challenger* broke apart 73 seconds after it lifted off. All seven people on board died. They were the commander, Dick Scobee, the pilot, Michael Smith, and Ellison Onizuka, Judith Resnik, Ronald McNair, Gregory Jarvis and Christa McAuliffe, a schoolteacher. Many schools watched the launch live because a teacher was on board.
+The space shuttle *Challenger* broke apart 73 seconds after it lifted off on January 28, 1986. All seven people on board died. They were the commander, Dick Scobee, the pilot, Michael Smith, and Ellison Onizuka, Judith Resnik, Ronald McNair, Gregory Jarvis and Christa McAuliffe, a schoolteacher. Many schools watched the launch live because a teacher was on board.
 
-The shuttle broke apart because rubber rings, called O-rings, failed in a joint of one of its booster rockets. The rings sealed the joint so that hot gas could not escape. The record cold that morning had made them stiff. Test results going back to 1977 had shown that these seals were flawed. Two engineers at the Morton Thiokol company, Allan McDonald and Roger Boisjoly, had warned against launching in the cold. NASA managers ignored their warnings. Several of the crew are thought to have survived the breakup itself. Someone switched on the emergency air supply of the pilot, Michael Smith. The crew cabin then fell and struck the ocean.
+The shuttle broke apart because rubber rings, called O-rings, failed in a joint of one of its booster rockets. The rings sealed the joint so that hot gas could not escape. The record cold that morning had made them stiff. Test results going back to 1977 had shown that these seals were flawed. Two engineers at the Morton Thiokol company, Allan McDonald and Roger Boisjoly, had warned against launching in the cold. NASA managers ignored their warnings.
+
+Several of the crew are thought to have survived the breakup itself. Someone switched on the emergency air supply of the pilot, Michael Smith. The crew cabin then fell and struck the ocean.
+
+**If you remember one thing:** Between 1950 and 2000 people reached the bottom of the ocean and walked on the Moon, and ten American astronauts died on the launch pad or on the way up.
+**One question this era leaves open:** Nobody has walked on the Moon since Apollo 17 came home in December 1972. Would anyone go back? The next era answers it.
+**Next:** After 2000 most of the explorers were robots, until April 2026.
 
 ### 2000 to Today
 
-Since 2000, robot spacecraft steered from Earth have explored Mars and the outer solar system. Rovers, robot vehicles, drive across Mars, and probes, robot spacecraft sent to study faraway places, have flown past Pluto and out beyond the planets. People have lived on the International Space Station, a laboratory that circles the Earth, without a break since November 2, 2000. On Earth, most of the ocean floor has still not been mapped. In April 2026 an international mapping project reported that 28.7 percent had been mapped. That same month four astronauts flew around the Moon, the first people to travel there since 1972.
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
+
+Since 2000, robot spacecraft steered from Earth have explored Mars and the outer solar system. Rovers, robot vehicles, drive across Mars, and probes, robot spacecraft sent to study faraway places, have flown past Pluto and out beyond the planets. People have lived on the International Space Station, a laboratory that circles the Earth, without a break since November 2, 2000.
+
+On Earth, most of the ocean floor has still not been mapped. In April 2026 an international mapping project reported that 28.7 percent had been mapped. That same month four astronauts flew around the Moon, the first people to travel there since 1972.
 
 #### The loss of Columbia, 2003
 
-On February 1, 2003, the space shuttle *Columbia* broke apart over Texas and Louisiana. It was coming back down through the atmosphere. All seven astronauts on board died. They were the commander, Rick Husband, the pilot, William McCool, and Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark and Ilan Ramon, the first astronaut from Israel.
+The space shuttle *Columbia* broke apart over Texas and Louisiana on February 1, 2003, as it was coming back down through the atmosphere. All seven astronauts on board died. They were the commander, Rick Husband, the pilot, William McCool, and Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark and Ilan Ramon, the first astronaut from Israel.
 
-During the launch, a piece of foam from the shuttle's big fuel tank had broken off and hit the left wing. It damaged the panels that protected the wing from the heat of coming back through the atmosphere. Foam had struck shuttles before, on 65 of the 79 earlier launches that had been photographed. While *Columbia* was in orbit, a team of engineers asked several times for pictures of the wing, taken by military satellites or telescopes. The mission's management team said it had no need for the pictures, and Linda Ham, the mission manager, cancelled the request.
+During the launch, a piece of foam from the shuttle's big fuel tank had broken off and hit the left wing. It damaged the panels that protected the wing from the heat of coming back through the atmosphere. Foam had struck shuttles before, on 65 of the 79 earlier launches that had been photographed.
+
+While *Columbia* was in orbit, a team of engineers asked several times for pictures of the wing, taken by military satellites or telescopes. The mission's management team said it had no need for the pictures, and Linda Ham, the mission manager, cancelled the request.
 
 #### Robots to Mars and beyond
 
@@ -1025,7 +1338,9 @@ NASA's rover *Curiosity* landed in Gale crater on Mars on August 6, 2012. *Curio
 
 The probe *New Horizons* left Earth on January 19, 2006. On July 14, 2015, it passed 7,800 miles above Pluto, the first spacecraft to visit it. On January 1, 2019, it flew past an object called Arrokoth, about 4 billion miles from the Sun.
 
-Two older probes, *Voyager 1* and *Voyager 2*, were launched in 1977. On August 25, 2012, *Voyager 1* became the first spacecraft to reach interstellar space, the space between the stars. Interstellar space begins beyond the stream of particles that blows out from the Sun. *Voyager 2* followed on November 5, 2018. *Voyager 1* is the most distant object people have ever made. Both Voyagers get their power from plutonium, a radioactive metal that gives off heat. According to a NASA report of April 17, 2026, each loses about 4 watts of power a year. A watt is the unit used to measure electric power. That day NASA engineers switched off one of *Voyager 1*'s instruments, the Low-energy Charged Particles instrument, to save power. Two of its science instruments still work.
+Two older probes, *Voyager 1* and *Voyager 2*, were launched in 1977. On August 25, 2012, *Voyager 1* became the first spacecraft to reach interstellar space, the space between the stars. Interstellar space begins beyond the stream of particles that blows out from the Sun. *Voyager 2* followed on November 5, 2018. *Voyager 1* is the most distant object people have ever made.
+
+Both Voyagers get their power from plutonium, a radioactive metal that gives off heat. According to a NASA report of April 17, 2026, each loses about 4 watts of power a year. A watt is the unit used to measure electric power. That day NASA engineers switched off one of *Voyager 1*'s instruments, the Low-energy Charged Particles instrument, to save power. Two of its science instruments still work.
 
 The James Webb Space Telescope was launched on December 25, 2021, from French Guiana, in South America. It cost just under $10 billion. It was built to see light from about 180 million years after the universe began, light that left the first galaxies. A galaxy is a huge group of billions of stars.
 
@@ -1037,7 +1352,9 @@ The James Webb Space Telescope was launched on December 25, 2021, from French Gu
 >
 > **When and where:** March 26, 2012. The Challenger Deep in the Mariana Trench, in the western Pacific Ocean.
 
-On March 26, 2012, James Cameron, a film director from Canada, became the first person to dive alone to the Challenger Deep, the deepest point in the ocean. He piloted a small deep-diving craft, the *Deepsea Challenger*, to the bottom alone. The craft was built in Sydney, Australia, with the National Geographic Society.
+**He spent about three hours alone at the bottom of the ocean.**
+
+James Cameron, a film director from Canada, became the first person to dive alone to the Challenger Deep, the deepest point in the ocean, on March 26, 2012. He piloted a small deep-diving craft, the *Deepsea Challenger*, to the bottom alone. The craft was built in Sydney, Australia, with the National Geographic Society.
 
 The trip down took 2 hours and 37 minutes, about twice as fast as the *Trieste* in 1960. The deepest reading on the dive was 35,787 feet. Cameron spent about three hours exploring the bottom, the first person to spend that long there. A problem with the craft's hydraulic system made it hard to use the equipment for collecting samples. The hydraulic system used fluid under pressure to move the equipment.
 
@@ -1055,13 +1372,37 @@ In an international project called Seabed 2030, people from many countries are w
 >
 > **When and where:** April 1 to 10, 2026. From Florida around the Moon and back to the Pacific Ocean off San Diego.
 
-In April 2026 four astronauts flew around the Moon, the first people to go there in more than 50 years. They were the commander, Reid Wiseman, the pilot, Victor Glover, and Christina Koch of NASA, and Jeremy Hansen of the Canadian Space Agency. They launched on April 1, 2026. It was the first flight with a crew for NASA's Orion spacecraft and its SLS rocket. SLS stands for Space Launch System. The crew circled around the Moon but did not land.
+**They flew 252,756 miles from Earth, farther than any people before them.**
 
-According to NASA's announcement of April 10, 2026, the crew traveled 252,756 miles from Earth at their farthest point. That broke the record of 248,655 miles set by the crew of Apollo 13 in 1970. A web page of the Smithsonian's National Air and Space Museum states that Koch became the first woman to travel that far from Earth. Glover became the first Black man and Hansen the first Canadian to do so. Koch had already spent 328 days in orbit on the International Space Station, ending in February 2020. It was the longest single spaceflight by a woman up to that time.
+Four astronauts flew around the Moon in April 2026, the first people to go there in more than 50 years. They were the commander, Reid Wiseman, the pilot, Victor Glover, and Christina Koch of NASA, and Jeremy Hansen of the Canadian Space Agency. They launched on April 1, 2026. It was the first flight with a crew for NASA's Orion spacecraft and its SLS rocket. SLS stands for Space Launch System. The crew circled around the Moon but did not land.
+
+According to NASA's announcement of April 10, 2026, the crew traveled 252,756 miles from Earth at their farthest point. That broke the record of 248,655 miles set by the crew of Apollo 13 in 1970. A web page of the Smithsonian's National Air and Space Museum states that Koch became the first woman to travel that far from Earth. Glover became the first Black man and Hansen the first Canadian to do so.
+
+Koch had already spent 328 days in orbit on the International Space Station, ending in February 2020. It was the longest single spaceflight by a woman up to that time.
 
 Some experts outside NASA objected to flying this mission without a redesigned heat shield. After Orion's test flight without a crew in November 2022, NASA engineers found that its heat shield had worn away in ways they had not expected. The heat shield protects the spacecraft from the heat of coming back through the atmosphere. NASA's leaders kept the same shield for Artemis II and changed the path the spacecraft would take on the way down.
 
 The crew splashed down safely in the Pacific Ocean off San Diego at 5:07 p.m. Pacific time on April 10, 2026, after a trip of nearly ten days.
+
+**The three questions, answered**
+- How do we know people were living here at least 21,000 years ago? Human footprints at White Sands, in New Mexico, lie between layers of seeds, pollen and quartz sand, and three different tests date those layers to about 21,000 to 23,000 years ago.
+- What did the explorers do to the people whose land they crossed? Some traded with them and were fed by them. Others took captives, from the 500 Taino Columbus's men shipped to Spain to the six Inuit Peary brought to New York, and some killed: de Soto's men at Mabila, Coronado's at Arenal, Frémont's on the Sacramento River.
+- Which famous "firsts" are still in doubt? Peary's North Pole in 1909 and Byrd's flight over it in 1926. Wally Herbert found Peary's records unreliable, and most researchers think Byrd's plane could not carry enough fuel. Whether the Norse camp in Newfoundland was Leif's own is not settled either.
+
+**What changed:** The chapter begins with people walking into Alaska from Asia across dry land and ends with four people flying around the Moon, and by 1950 the only places left to find were the ones where nobody lived.
+
+**Five dates to keep**
+- 1021: Norse sailors cut trees at L'Anse aux Meadows, in Newfoundland.
+- 1540: Hopi guides lead Spanish soldiers to the rim of the Grand Canyon.
+- 1806: Lewis and Clark reach St. Louis with about 140 maps.
+- 1909: Peary says his party has reached the North Pole.
+- 1969: Armstrong and Aldrin walk on the Moon.
+
+**Not known:** Nobody knows how many people lived north of Mexico in 1500, and the estimates run from about 1 million to about 18 million.
+
+**Where to go:** The La Verendrye lead plate from 1743 is kept in the South Dakota Cultural Heritage Center.
+
+**Next:** Chapter 2, Native Nations. It asks what happened to the nations whose land the explorers in this chapter crossed, told from their side.
 
 [Back to contents](#contents)
 
@@ -13579,11 +13920,31 @@ How many Americans do this kind of work depends on the question asked. Researche
 
 ## Chapter 20: Government, Law, and Politics
 
+**Chapter 20 of 37 · Government, Law, and Politics · 10 eras · about 140 minutes**
+
+**The rules of American government were written by people, and in every era people with power rewrote them, most often to decide who could vote and who could not.**
+
+One copy of a report survives in the National Archives of the United Kingdom. John Pory wrote it in 1619. It records six days, July 30 to August 4, when twenty-two elected men sat in the church at Jamestown, Virginia, the only building on the island big enough to hold them all. They were the first elected lawmakers in English North America. They made rules about tobacco, gambling and land. No record says who voted for them.
+
+This chapter follows the rules from that church to the Capitol on January 6, 2021. Watch three things as you read. Who may vote: the answer changes in nearly every era, and the people who changed it usually wrote down why. What judges may do: in 1803 the justices of the Supreme Court first cancelled a law, and they have been cancelling and allowing laws ever since. What happens to people in power who break the law: a printer's jury in 1735, a cabinet secretary in 1929, a president in 1974.
+
+The chapter also follows the laws about schools, which say where children must go and what they may be taught.
+
+**Three questions this chapter answers**
+- Who decided who could vote, and how did the answer change?
+- When did judges first cancel a law, and what have they done with that power since?
+- What happens when a president, a senator or a governor breaks the law?
+
+**Five minutes?** Read "The Zenger trial, 1735" in 1700 to 1750.
+**Can skip:** "Land for colleges, 1862", "The food laws of 1906", "New kinds of schools, 1991 to 1996", "Immigration law after 2001". The chapter still makes sense without them.
+
 ### Before 1500
 
-Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Five nations in the Northeast joined in a league and lived under one law. Along the Rio Grande, each Pueblo town ran its own affairs. At Cahokia, on the Mississippi River, chiefs and officials led a city of thousands of people.
+**Era 1 of 10 · Before 1500 · about 6 minutes**
 
-#### The Great Law of Peace
+Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Most of this era is about the Haudenosaunee, five nations in the Northeast that joined in a league and lived under one law, because their own full telling of that law survives. Two short spans at the end cover the Pueblo towns along the Rio Grande, where each town ran its own affairs, and Cahokia, a city of thousands on the Mississippi River led by chiefs.
+
+#### How five nations at war made one law
 
 The Haudenosaunee are a league of Native nations whose homelands lie mainly in what is now New York State and the Great Lakes region. Their name means "people who build a house." Five nations joined first: the Mohawk, the Oneida, the Onondaga, the Cayuga and the Seneca. The Tuscarora joined in 1722, which made six. Each nation stayed a separate nation inside the league.
 
@@ -13591,19 +13952,22 @@ The law that joined them is called the Great Law of Peace. In the Haudenosaunee 
 
 The Haudenosaunee kept the Great Law in memory and passed it on by speaking it. A full telling takes several days. They also wove belts of purple and white shell beads, called wampum. The patterns in the belts recorded the laws of the league, the stories told at ceremonies, and important dealings with other nations. The belts were presented at meetings of the Grand Council, the league's lawmaking body. The Haudenosaunee used wampum to keep these records, and never as money.
 
-Accounts differ on when the league began. The dates people give run from about 1142 to the 1400s or 1500s. It was already in place before Europeans arrived.
+**Known:** The league was in place before Europeans arrived.
+**Disputed:** When it began. The dates people give run from about 1142 to the 1400s or 1500s.
 
 #### The Grand Council and the clan mothers
 
-The league's lawmaking body is the Grand Council, and it has fifty seats. Each seat belongs to a leader called a *hoyaneh*. The Onondaga hold fourteen seats, the Cayuga ten, the Mohawk nine, the Oneida nine and the Seneca eight. The Haudenosaunee count the Onondaga Nation as the league's capital. They say the council fire burns there, as the Peacemaker promised, and they call the Onondaga the "Keepers of the Central Fire." The Mohawk, in the east, are the "Keepers of the Eastern Door," and the Seneca, in the west, are the "Keepers of the Western Door." Council members are not paid, and they serve for life.
+The league's lawmaking body is the Grand Council, and it has fifty seats. Each seat belongs to a leader called a *hoyaneh*. The Onondaga hold fourteen seats, the Cayuga ten, the Mohawk nine, the Oneida nine and the Seneca eight. Council members are not paid, and they serve for life.
 
-Before the council members make a decision or pass a law, every member must agree to it. This way of deciding is called consensus. Under it, no law passes while even one member is against it.
+The Haudenosaunee count the Onondaga Nation as the league's capital. They say the council fire burns there, as the Peacemaker promised, and they call the Onondaga the "Keepers of the Central Fire." The Mohawk, in the east, are the "Keepers of the Eastern Door," and the Seneca, in the west, are the "Keepers of the Western Door."
+
+**How a law passes.** Before the council members pass a law, every member must agree to it. This way of deciding is called consensus. Under it, no law passes while even one member is against it.
 
 Women hold power in this government through the clan mothers. A clan is a large group of related families. The members of a clan choose a clan mother together, and she serves for life. The clan mothers choose the council members. A clan mother can also remove any *hoyaneh* who does not serve the good of his nation.
 
-In 1988 members of both houses of Congress voted for a resolution about the league. A resolution is a written statement that lawmakers vote on. Representative Morris Udall put it forward. Its title states that it was meant "to acknowledge the contribution of the Iroquois Confederacy of Nations to the development of the U.S. Constitution." A confederacy is a league of nations or states. Iroquois is another name for the Haudenosaunee, and it is the more common one in English. The Constitution is the written plan for how the national government of the United States works.
+**Did the Constitution borrow from this law?** In 1988 members of both houses of Congress voted for a resolution, a written statement that lawmakers vote on, which said yes. Representative Morris Udall put it forward. Its title states that it was meant "to acknowledge the contribution of the Iroquois Confederacy of Nations to the development of the U.S. Constitution." Iroquois is the more common English name for the Haudenosaunee, and a confederacy is a league of nations or states. The Constitution is the written plan for how the national government of the United States works.
 
-Scholars disagree about how much the men who wrote the Constitution took from the Great Law. Bruce Johansen and Donald Grinde argue that the founders admired Native governments and borrowed ideas from them. The anthropologist Elisabeth Tooker, a scientist who studied human societies, argued the other side. She wrote that the founders took their models from European ideas and that the evidence of borrowing from the league is very thin.
+Scholars disagree about how much the men who wrote the Constitution took from the Great Law. Bruce Johansen and Donald Grinde argue that the founders admired Native governments and borrowed ideas from them. Elisabeth Tooker, an anthropologist, a scientist who studies how peoples live, argued the other side. She wrote that the founders took their models from European ideas and that the evidence of borrowing from the league is very thin.
 
 #### The Pueblo towns
 
@@ -13613,11 +13977,13 @@ At Zuni, a council of priests held power over the town. One group of them, the b
 
 #### Cahokia, a city led by chiefs
 
-Cahokia stood near the Mississippi River, east of where St. Louis is now. The city covered more than 4,000 acres. Its largest years came between about 1050 and 1150. Archaeologists are scientists who study the past by digging up what people left behind. Their estimates of how many people lived in Cahokia then run from 10,000 to 20,000, and some go higher. They disagree widely about the number.
+Cahokia stood near the Mississippi River, east of where St. Louis is now. The city covered more than 4,000 acres, and its largest years came between about 1050 and 1150. Archaeologists, the scientists who dig up what people left behind, disagree widely about how many people lived there then. Their estimates run from 10,000 to 20,000, and some go higher.
 
 Cahokia was a chiefdom, a society led by chiefs and by officials of high rank. The people built large mounds of earth with flat tops. Buildings for religious leaders and for other officials stood on top of the mounds. Other mounds held the graves of people of high rank.
 
 ### The 1500s
+
+**Era 2 of 10 · The 1500s · about 2 minutes**
 
 The first governors of Florida and of New Mexico served the king of Spain. Pedro Menéndez de Avilés held his office in Florida by a contract with the king, who lived across the ocean in Spain. Juan de Oñate held his office in New Mexico by a contract with the viceroy, the official who ruled in the king's name from Mexico City. Menéndez used a Timucua council house as his first fort. Oñate made a Tewa town his first capital.
 
@@ -13627,31 +13993,44 @@ Pedro Menéndez de Avilés founded St. Augustine, in Florida, on September 8, 15
 
 Menéndez made his first settlement in the town led by Seloy, a chief of the Timucua people. About 800 colonists came with him, among them 26 women and an unknown number of Africans whom the Spanish held as slaves. Timucua council houses were usually round, built of thatch, and big enough to hold up to a thousand people. Seloy offered Menéndez his council house to use as a fort, and the Spanish used it as their first fort in Florida.
 
-In 1573 officials of the king of Spain set rules for laying out new towns. The rules belong to a body of royal orders known as the Laws of the Indies. They required a town's streets to form a grid around a central square, or plaza. The main government buildings and the church were to face the plaza. St. Augustine's grid of streets was laid out in 1603, thirty-eight years after the town was founded.
+Officials of the king of Spain set rules in 1573 for laying out new towns. The rules belong to a body of royal orders known as the Laws of the Indies. They required a town's streets to form a grid around a central square, or plaza. The main government buildings and the church were to face the plaza. St. Augustine's grid of streets was laid out in 1603, thirty-eight years after the town was founded.
 
 #### A governor for New Mexico, 1598
 
-Juan de Oñate made a contract with the viceroy in Mexico City. A viceroy is an official who rules a colony in the king's name. Oñate promised to settle New Mexico and govern it. In return he got loans, supplies and soldiers. He left the town of Santa Bárbara early in 1598 with 600 Spanish settlers and Native allies from Tlaxcala, in Mexico.
+Juan de Oñate made a contract with the viceroy in Mexico City. He promised to settle New Mexico and govern it. In return he got loans, supplies and soldiers. He left the town of Santa Bárbara early in 1598 with 600 Spanish settlers and Native allies from Tlaxcala, in Mexico.
 
-On the Rio Grande he set up his first capital at Ohkay Owingeh, a town of Tewa-speaking people. In 1598 the Spanish named the town San Juan de los Caballeros. In 1599 Oñate moved his capital across the river to a place called San Gabriel. The people of Ohkay Owingeh still live in their town.
+On the Rio Grande he set up his first capital at Ohkay Owingeh, a town of Tewa-speaking people. The Spanish named the town San Juan de los Caballeros in 1598. A year later Oñate moved his capital across the river to a place called San Gabriel. The people of Ohkay Owingeh still live in their town.
 
-In the autumn of 1598 Oñate went to the pueblos one by one. Through translators, he made the people of each pueblo swear loyalty to the king of Spain. He also placed a missionary in each one. A missionary is a priest sent to bring people into his religion. Oñate governed New Mexico until 1608.
+Oñate went to the pueblos one by one in the autumn of 1598. Through translators, he made the people of each pueblo swear loyalty to the king of Spain. He also placed a missionary, a priest sent to bring people into his religion, in each one. Oñate governed New Mexico until 1608. The next era tells what the king's judges later found he had done there.
 
 ### The 1600s
 
-Spanish judges in Mexico City put a former governor of New Mexico on trial in 1614. The English built Jamestown, in Virginia, in 1607, and twelve years later twenty-two elected men met there as the first elected assembly in English North America. The next year, forty-one men aboard the *Mayflower* signed an agreement to make laws for themselves and obey them. The colonists' own lawmakers decided who could vote, and they changed the rules many times. In 1662 Virginia's lawmakers passed a law that made every child born to an enslaved woman a slave as well.
+**Era 3 of 10 · The 1600s · about 10 minutes**
 
-#### The king's judges try New Mexico's governor, 1614
+Spanish judges in Mexico City put a former governor of New Mexico on trial in 1614. The English built Jamestown, in Virginia, in 1607, and twelve years later twenty-two elected men met there as the first elected assembly in English North America. The next year, forty-one men aboard the *Mayflower* signed an agreement to make laws for themselves and obey them.
+
+The colonists' own lawmakers decided who could vote, and they changed the rules many times. In 1662 Virginia's lawmakers passed a law that made every child born to an enslaved woman a slave as well. In Massachusetts, lawmakers made towns keep a school.
+
+#### What the judges found Oñate guilty of, 1614
 
 Royal judges in Mexico City tried Juan de Oñate, the former governor of New Mexico, in 1614. Officials of the king of Spain had brought 30 charges against him. The judges found him guilty of 12 and not guilty of 18. One of the twelve was using too much force against Acoma Pueblo.
 
 In December 1598 Oñate's nephew Juan de Zaldívar came to Acoma with about thirty soldiers. He took some of them up the mesa, the flat-topped hill where the town stands, to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number.
 
-In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time. Estimates run from about 300 to about 1,500, and the Pueblo nations' own leaders use the figure of about 800. PBS reports that about 200 people of Acoma survived, out of nearly 2,000. These figures come from different sources, and they do not fit together.
+In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time.
 
-Afterward Oñate sentenced the Acoma men over twenty-five to have one foot cut off. He also sentenced them to be forced to work as slaves of the Spanish for twenty years. He sentenced younger men and boys from twelve up, and women and girls over twelve, to the same twenty years of forced work. He handed the old people to the Plains Apache as slaves. He took the children under twelve from their families and gave them to the friars, the Catholic religious brothers with his colony. On Oñate's order, about 70 of the girls were sent to convents in Mexico, as the National Park Service reports. A convent is a house where nuns live. The Park Service's account states that almost certainly none of the girls ever came home. Oñate also sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people. The sentences are in the written record. Whether the feet were cut off is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. The historians Marc Simmons and John Kessell doubt that it was done, and Kessell points out that no record describes a one-footed Acoma man.
+**Known:** The soldiers killed hundreds of people. The Pueblo nations' own leaders use the figure of about 800.
+**Disputed:** The count. Estimates run from about 300 to about 1,500, and PBS reports that about 200 people of Acoma survived out of nearly 2,000. Those figures come from different sources and do not fit together.
 
-Oñate was also found guilty of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was. The judges ordered him out of New Mexico for life. They also barred him from Mexico City. Accounts differ on how long: four years or five. The judges fined him 6,000 ducats in the money of Castile, in Spain.
+**The sentences.** Afterward Oñate sentenced the Acoma men over twenty-five to have one foot cut off, and to be forced to work as slaves of the Spanish for twenty years. Younger men and boys from twelve up, and women and girls over twelve, got the same twenty years of forced work. He handed the old people to the Plains Apache as slaves.
+
+**The children.** He took the children under twelve from their families and gave them to the friars, the Catholic religious brothers with his colony. On Oñate's order, about 70 of the girls were sent to convents in Mexico, houses where nuns live. The National Park Service's account states that almost certainly none of the girls ever came home.
+
+**The Hopi men.** Oñate also sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people.
+
+**The feet.** The sentences are in the written record. Whether the feet were cut off is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. The historians Marc Simmons and John Kessell doubt that it was done, and Kessell points out that no record describes a one-footed Acoma man.
+
+**The judges' ruling.** Oñate was also found guilty of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was. The judges ordered him out of New Mexico for life and barred him from Mexico City for four years, or five, since accounts differ. They fined him 6,000 ducats in the money of Castile, in Spain.
 
 #### The first General Assembly, 1619
 
@@ -13661,9 +14040,11 @@ In the summer of 1619 Governor George Yeardley used that power. The colony had e
 
 In six days the members set rules for how they would do business and protected colonists' claims to their land. They also made the Church of England the colony's official church. They passed laws about tobacco, gambling, behavior and dealings with Native nations.
 
-Jamestown stood on land that belonged to the Paspahegh. They were one of twenty-eight to thirty-two groups, each with its own chief, that paid tribute to Powhatan. Tribute is a payment of goods to a more powerful ruler. Powhatan was the chief over all the other chiefs of Tsenacomoco. The anthropologist Helen C. Rountree estimates that about 15,000 people lived in Tsenacomoco, across about 6,000 square miles. The English built Jamestown on Paspahegh land in 1607 and stayed there without asking the Paspahegh's permission.
+**Whose land it was.** Jamestown stood on land that belonged to the Paspahegh. They were one of twenty-eight to thirty-two groups, each with its own chief, that paid tribute, goods given to a more powerful ruler, to Powhatan. He was the chief over all the other chiefs of Tsenacomoco. The anthropologist Helen C. Rountree estimates that about 15,000 people lived in Tsenacomoco, across about 6,000 square miles. The English built Jamestown on Paspahegh land in 1607 and stayed there without asking the Paspahegh's permission.
 
-In 1624 the king's officials took away the Virginia Company's charter. Virginia became a royal colony in 1625, with a governor and council chosen by the king. No one in England had given the assembly permission to go on meeting, but the burgesses kept meeting. Whether the assembly had any legal right to meet stayed unclear until 1627. That year the king asked the General Assembly to help make rules for the tobacco trade. By asking, he treated the assembly as a lawful body, though no written order said it could meet.
+**The assembly outlives the company.** The king's officials took away the Virginia Company's charter in 1624. Virginia became a royal colony in 1625, with a governor and council chosen by the king. No one in England had given the assembly permission to go on meeting, but the burgesses kept meeting.
+
+Whether the assembly had any legal right to meet stayed unclear until 1627. That year the king asked the General Assembly to help make rules for the tobacco trade. By asking, he treated the assembly as a lawful body, though no written order said it could meet.
 
 <a id="story-john-pory"></a>
 
@@ -13673,19 +14054,19 @@ In 1624 the king's officials took away the Virginia Company's charter. Virginia 
 >
 > **When and where:** Jamestown, Virginia, July 30 to August 4, 1619.
 
-John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Brent Tarter wrote about the missing copies on the Library of Virginia's blog in 2019. Any copies kept in Virginia, he wrote, would have been destroyed in one of the British raids on Richmond during the American Revolution. Most of the colony's records were destroyed in those raids.
+**Twenty-two men, six days, and one surviving copy of the record.**
 
-Pory was born in about 1572 at Thompson, in Norfolk, England. He studied at Gonville and Caius College, Cambridge, and earned his first degree in 1592 and a higher degree in 1595. He had also sat in the English Parliament, the group of lawmakers who made England's laws, so he knew how a lawmaking body ran its business.
+John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Any copies kept in Virginia, Brent Tarter wrote on the Library of Virginia's blog in 2019, would have been destroyed in one of the British raids on Richmond during the American Revolution, along with most of the colony's records.
 
-On December 2, 1618, the leaders of the Virginia Company made him secretary of the colony. He sailed from England in January 1619 with the governor, George Yeardley, and reached Jamestown on April 18. That summer Yeardley made him Speaker of the assembly, the officer who runs its meetings. Pory was not one of the elected burgesses. He ran the meetings because the governor appointed him.
+Pory knew how a lawmaking body ran its business. He had sat in the English Parliament, the group of lawmakers who made England's laws. The leaders of the Virginia Company made him secretary of the colony on December 2, 1618. He sailed from England in January 1619 with the governor, George Yeardley, and reached Jamestown on April 18.
 
-Pory left Virginia in the early summer of 1622 on a ship called the *Discovery*, after Christopher Davidson was made secretary in his place. He was buried at Sutton Saint Edmunds, in Lincolnshire, England. The history website of the Virginia House of Delegates gives the year of his death as 1636. Other reference books give 1633.
+That summer Yeardley made him Speaker of the assembly, the officer who runs its meetings. Pory was not one of the elected burgesses. He ran the meetings because the governor appointed him. He left Virginia in the early summer of 1622, after Christopher Davidson was made secretary in his place.
 
-#### Plymouth and the Mayflower Compact, 1620
+#### Why forty-one men signed a paper off Cape Cod, 1620
 
 The *Mayflower* anchored off Cape Cod, in what is now Massachusetts, in November 1620. The passengers had permission, called a patent, to settle near the Hudson River. That land lay inside the Virginia Company's territory. Off Cape Cod they were outside it, so no one had given them the right to govern themselves there.
 
-On November 11, 1620, forty-one men signed an agreement to keep order until a new patent came. It is known as the Mayflower Compact. The signers agreed to "covenant & combine our selves together into a Civill body politick." That meant they promised to form a government together. They also promised to make and obey "just & equall lawes." The women and children did not sign. Most of the servants did not sign either. The original paper has been lost.
+Forty-one men signed an agreement on November 11, 1620, to keep order until a new patent came. It is known as the Mayflower Compact. The signers agreed to "covenant & combine our selves together into a Civill body politick." That meant they promised to form a government together. They also promised to make and obey "just & equall lawes." The women and children did not sign. Most of the servants did not sign either. The original paper has been lost.
 
 The passengers founded Plymouth Colony. They settled at Patuxet, where a Wampanoag community had lived until "a sickness had killed most of them." Plymouth remained a separate colony from Massachusetts Bay until 1691.
 
@@ -13697,7 +14078,9 @@ In 1676, during a revolt called Bacon's Rebellion, all freemen could vote again 
 
 Candidates in Virginia gave voters food and drink before and after an election. People called it treating. Virginia's lawmakers limited treating during the week of an election, so candidates had other people do the treating for them.
 
-In Massachusetts Bay, the officers of the colony's company sat together as its lawmaking group, called the General Court. In May 1631 they ruled that only church members could become freemen, the men who could vote. To join a church, a person had to stand before the church members, tell how they had come to their faith, and be accepted. Most men in the colony could not pass that test. Women could not vote at all. Under a new charter from the king in 1691, men who owned property could vote whether or not they belonged to a church.
+**Massachusetts: church members only.** In Massachusetts Bay, the officers of the colony's company sat together as its lawmaking group, called the General Court. In May 1631 they ruled that only church members could become freemen, the men who could vote. Women could not vote at all.
+
+To join a church, a person had to stand before the church members, tell how they had come to their faith, and be accepted. Most men in the colony could not pass that test. Under a new charter from the king in 1691, men who owned property could vote whether or not they belonged to a church.
 
 #### A Virginia law on the children of enslaved women, 1662
 
@@ -13705,7 +14088,9 @@ The members of Virginia's General Assembly passed a law about the children of en
 
 #### A town made to keep a school
 
-In 1642 the lawmakers of Massachusetts Bay put the duty of teaching children on each household. Parents and masters had to try to teach their children and apprentices to "read the English tongue," or have someone else teach them. They also had to teach them the colony's capital laws, the laws whose penalty was death. An apprentice was a young person bound to a master to learn a trade. If a household failed, the town's selectmen could fine it. The selectmen were the elected leaders of a town. They could also take the children away and place them with another master.
+The lawmakers of Massachusetts Bay put the duty of teaching children on each household in 1642. Parents and masters had to try to teach their children and apprentices, young people bound to a master to learn a trade, to "read the English tongue," or have someone else teach them. They also had to teach them the colony's capital laws, the laws whose penalty was death.
+
+If a household failed, the town's selectmen, its elected leaders, could fine it. They could also take the children away and place them with another master.
 
 In 1647 the lawmakers passed a second law. Its opening words state that "that old deluder, Satan" wants to keep people from knowing the Scriptures, the Bible. A deluder is someone who tricks people. Once a town had fifty households, the people of the town had to appoint someone to teach reading and writing. The parents or the town paid that teacher. A town of one hundred families also had to set up a grammar school to prepare boys for the university.
 
@@ -13713,17 +14098,23 @@ Under the 1647 law, the penalty fell on the town rather than on the parents. If 
 
 ### 1700 to 1750
 
-After 1680 the members of the elected assemblies in the colonies had the power to propose all of a colony's laws. They also decided how public money was spent. That gave them control over the pay of the governors the king appointed. Juries also used their power. In 1735 a New York jury refused to find a printer guilty, though the governor wanted him punished. In the same years, the men of Virginia's assembly took the vote away from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
+**Era 4 of 10 · 1700 to 1750 · about 7 minutes**
 
-#### The assemblies and the governor's pay
+A New York jury set a printer free in 1735 though the governor wanted him in prison. In the same years, the men elected to the colonial assemblies held the power to propose every law and to decide how public money was spent, which gave them control over the pay of the governors the king appointed. The men of Virginia's assembly used their power another way. They took the vote away from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
 
-After 1680 the members of the colonial assemblies had the power to propose all of a colony's laws. In a royal colony, the king chose the governor and his council, and the colonists elected the assembly. By 1763 nine of the thirteen colonies that later rebelled had royal governors. The members of each colonial assembly decided how public money was spent, and they checked the spending. That gave them control over the salaries of the governor and of the colony's judges.
+#### Why the governors could not control their own pay
+
+After 1680 the members of the colonial assemblies had the power to propose all of a colony's laws. In a royal colony, the king chose the governor and his council, and the colonists elected the assembly. By 1763 nine of the thirteen colonies that later rebelled had royal governors.
+
+The members of each colonial assembly decided how public money was spent, and they checked the spending. That gave them control over the salaries of the governor and of the colony's judges.
 
 Officials in London tried to make the assemblies set fixed yearly salaries. They also wanted a fixed civil list, a set list of paid government posts. That list would have given each governor jobs to hand out to his supporters. The assembly members turned down every one of these attempts.
 
 #### Virginia's burgesses take away the vote, 1723
 
-In May 1723 the burgesses of Virginia's General Assembly passed a law about enslaved people accused of crimes punished by death. It also set punishments for plots and revolts, and rules to control Black and Native people, enslaved or free. One clause of it states that "no free negro, mullatto, or indian whatsoever, shall hereafter have any vote at the election of burgesses, or any other election whatsoever." Negro was a word used then for a Black person. Mulatto was a word used then for a person with both Black and white parents or ancestors. With that clause, the burgesses took the vote from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
+The burgesses of Virginia's General Assembly passed a law in May 1723 about enslaved people accused of crimes punished by death. It also set punishments for plots and revolts, and rules to control Black and Native people, enslaved or free.
+
+One clause of it states that "no free negro, mullatto, or indian whatsoever, shall hereafter have any vote at the election of burgesses, or any other election whatsoever." Negro was a word used then for a Black person. Mulatto was a word used then for a person with both Black and white parents or ancestors. With that clause, the burgesses took the vote from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
 
 A lawyer in London objected. Richard West advised the Board of Trade, the group of officials in London who oversaw the colonies. On January 10, 1724, he wrote: "I cannot see why one Freeman should be used worse than another meerly upon account of his complexion." Complexion meant skin color.
 
@@ -13733,9 +14124,13 @@ That same year, 1736, Virginia's lawmakers set a land test for voters. A man had
 
 #### The Zenger trial, 1735
 
-In 1735 a jury in New York refused to find the printer John Peter Zenger guilty of seditious libel. Libel means printed words that harm someone's good name. Seditious libel was the crime of publishing written blame of any public official, of the law, or of anything the law set up. Under that law, it made no difference whether the printed words were true. The judge told the jury to decide only one question: whether Zenger had printed the newspaper. The jury decided more than that and found him not guilty.
+A jury in New York refused in 1735 to find the printer John Peter Zenger guilty of seditious libel. Libel means printed words that harm someone's good name. Seditious libel was the crime of publishing written blame of any public official, of the law, or of anything the law set up. Under that law, it made no difference whether the printed words were true.
 
-The jurors set Zenger free, but the law stayed the same. The Historical Society of the New York Courts states that the case set no rule that later judges had to follow. A defense is a reason that can keep a person from being found guilty. In New York, the truth of the printed words did not become a defense in a libel case until April 6, 1805, seventy years later. That day the state's lawmakers passed a law allowing truth as a defense when the words were printed "with good motive and for justifiable ends." In 1821 New York's leaders wrote the same rule into the state's second constitution.
+The judge told the jury to decide only one question: whether Zenger had printed the newspaper. The jury decided more than that and found him not guilty.
+
+**What the verdict did not change.** The jurors set Zenger free, but the law stayed the same. The case set no rule that later judges had to follow. In New York, the truth of the printed words did not become a defense, a reason that can keep a person from being found guilty, in a libel case until April 6, 1805, seventy years later.
+
+That day the state's lawmakers passed a law allowing truth as a defense when the words were printed "with good motive and for justifiable ends." In 1821 New York's leaders wrote the same rule into the state's second constitution.
 
 <a id="story-john-peter-zenger-government-politics"></a>
 
@@ -13745,9 +14140,11 @@ The jurors set Zenger free, but the law stayed the same. The Historical Society 
 >
 > **When and where:** New York City, November 1734 to August 1735.
 
-John Peter Zenger sat in jail from November 17, 1734, to August 5, 1735, more than eight months, for printing a newspaper that attacked the governor of New York. The trouble began in 1733. In a court case called *Cosby v. Van Dam*, the chief judge, Lewis Morris, wrote a dissent against Governor William Cosby. A dissent is a judge's written disagreement with the other judges. Cosby removed Morris from office. Morris's allies answered by starting a newspaper, the *New-York Weekly Journal*, and Zenger printed it. The first issue came out on November 5, 1733.
+**Eight months in jail, and the paper missed only one issue.**
 
-For many years the only paper in the colony had been the *New York Gazette*, started in 1725, which printed the governor's side. In the *Journal*, writers accused Cosby's government of tyranny, meaning cruel and unfair rule, with articles, jokes and mocking verses, issue after issue. Cosby offered a reward of fifty pounds to anyone who found out who wrote them. He also ordered copies of the paper burned in public by the hangman.
+John Peter Zenger sat in jail from November 17, 1734, to August 5, 1735, for printing a newspaper that attacked the governor of New York. The trouble began in 1733. The chief judge, Lewis Morris, wrote a dissent, a judge's written disagreement with the other judges, against Governor William Cosby in a court case. Cosby removed Morris from office. Morris's allies answered by starting a newspaper, the *New-York Weekly Journal*, and Zenger printed it. The first issue came out on November 5, 1733.
+
+Until then the only paper in the colony had been the *New York Gazette*, which printed the governor's side. In the *Journal*, writers accused Cosby's government of tyranny, meaning cruel and unfair rule, with articles, jokes and mocking verses, issue after issue. Cosby offered a reward of fifty pounds to anyone who found out who wrote them. He also ordered copies of the paper burned in public by the hangman.
 
 In January 1734 Chief Justice James De Lancey asked a grand jury to charge Zenger with a crime. A grand jury is a group of citizens who decide whether there is enough proof to charge a person with a crime. The grand jury refused. In October a second grand jury refused too. Its members said no one could tell who had written the pieces.
 
@@ -13765,19 +14162,27 @@ The trial took place on August 4, 1735, on the second floor of City Hall. Andrew
 >
 > **When and where:** New York City, August 4, 1735. Philadelphia before and after.
 
+**He took the case for nothing and told the jury to judge the law.**
+
 Andrew Hamilton defended John Peter Zenger for free. He was a lawyer in Philadelphia, and the members of the Pennsylvania Assembly elected him their Speaker. He traveled to New York for the trial and worked on the case with another lawyer, John Chambers.
 
-The judge would not let Hamilton prove that Zenger's words were true. So Hamilton built his defense on the power of the jury. He told the jurors that the case was "not of small or private concern." He called it "the cause of liberty." He argued that the law gave people "a right to liberty of both exposing and opposing arbitrary power," meaning power used without limits, "by speaking and writing truth." The jury found Zenger not guilty. The phrase "Philadelphia lawyer" entered American speech because of this case. Dictionaries define it as a very clever lawyer, skilled at the fine points of the law.
+The judge would not let Hamilton prove that Zenger's words were true. So Hamilton built his defense on the power of the jury. He told the jurors that the case was "not of small or private concern." He called it "the cause of liberty." He argued that the law gave people "a right to liberty of both exposing and opposing arbitrary power," meaning power used without limits, "by speaking and writing truth." The jury found Zenger not guilty.
+
+The phrase "Philadelphia lawyer" entered American speech because of this case. Dictionaries define it as a very clever lawyer, skilled at the fine points of the law.
 
 Back in Pennsylvania, Hamilton led the planning of the Pennsylvania State House and pushed to get it finished. The building is now called Independence Hall.
 
 ### 1750 to 1800
 
-Between 1776 and 1791, leaders of the new country wrote down how it would be governed. They wrote a declaration of independence, a plan of government, a constitution to replace that plan, and a list of rights added to the constitution. The men who wrote the Constitution put clauses in it that protected slavery. They set no national rule on who could vote, so each state's lawmakers decided. In the 1790s the country's leaders split into the first two political parties. In 1798 President John Adams signed a law that made it a crime to publish false and scandalous writing against the government. Federal judges sent people who criticized him to jail under it.
+**Era 5 of 10 · 1750 to 1800 · about 15 minutes**
+
+Fifty-six men signed the Declaration of Independence, and in the next fifteen years the leaders of the new country wrote down how it would be governed. They wrote a plan of government, a constitution to replace that plan, and a list of rights added to the constitution. The men who wrote the Constitution put clauses in it that protected slavery. They set no national rule on who could vote, so each state's lawmakers decided.
+
+In the 1790s the country's leaders split into the first two political parties. In 1798 President John Adams signed a law that made it a crime to publish false and scandalous writing against the government. Federal judges sent people who criticized him to jail under it.
 
 #### The Declaration of Independence, 1776
 
-On July 2, 1776, the delegates to the Continental Congress voted for independence from Britain. The Continental Congress was the meeting of delegates from the thirteen colonies. Two days later, on July 4, they approved the Declaration of Independence, which gave their reasons.
+The delegates to the Continental Congress voted for independence from Britain on July 2, 1776. The Continental Congress was the meeting of delegates from the thirteen colonies. Two days later, on July 4, they approved the Declaration of Independence, which gave their reasons.
 
 Five men made up the committee that wrote the first version: Thomas Jefferson, John Adams, Benjamin Franklin, Robert R. Livingston and Roger Sherman. Jefferson did most of the writing. The delegates began signing the finished copy on August 2, 1776. In the end 56 men signed it. Livingston, who helped write it, never signed.
 
@@ -13787,7 +14192,9 @@ Leaders in many of the new states wrote state constitutions, each with its own r
 
 New Jersey's constitution of 1776 gave the vote to "all inhabitants of this colony of full age, who are worth fifty pounds." That meant every adult living there who owned fifty pounds' worth of property could vote. It said nothing about sex or race. So unmarried women and free Black people who owned enough property could vote. Fifty pounds was about the price of three horses or eight cows in 1806.
 
-In 1790 New Jersey's lawmakers passed an election law that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase about the property a voter owned, from the property rule. With those words gone, it was easier for wives and widows to qualify. Then in 1798 the lawmakers passed a law that let only white male taxpayers vote for town officers. Property owners of any race or sex still voted for county, state and national offices.
+New Jersey's lawmakers passed an election law in 1790 that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase about the property a voter owned, from the property rule. With those words gone, it was easier for wives and widows to qualify.
+
+Then in 1798 the lawmakers passed a law that let only white male taxpayers vote for town officers. Property owners of any race or sex still voted for county, state and national offices. The next era tells how that ended.
 
 #### The Articles of Confederation
 
@@ -13797,11 +14204,13 @@ Under the Articles, each state had one vote in Congress, whatever its size. Cong
 
 #### The Constitutional Convention, 1787
 
-In 1787 delegates from the states met in Philadelphia to write a new plan of government. The meeting was called for May 14, but too few delegates had arrived to begin until May 25. About 55 delegates took part. No delegates came from Rhode Island. The delegates worked until September 17, 1787, and 39 of them signed the finished Constitution.
+Delegates from the states met in Philadelphia in 1787 to write a new plan of government. The meeting was called for May 14, but too few delegates had arrived to begin until May 25. About 55 delegates took part. No delegates came from Rhode Island. The delegates worked until September 17, 1787, and 39 of them signed the finished Constitution.
 
 The delegates settled how to share seats in Congress with a deal called the Connecticut Compromise. Every state got two senators, and the number of seats each state got in the House of Representatives depended on its population.
 
-The delegates also had to decide whether enslaved people counted as part of a state's population. They agreed to count each enslaved person as three-fifths of a free person when working out a state's seats in the House. This rule is in Article I, Section 2. Under it, the states with the most enslaved people got extra seats in the House. Article II states that each state has as many electors, the people who pick the president, as it has senators and representatives. So those states also got extra votes for president. Under the law, the enslaved people being counted were property, with no rights at all, so none of them could vote.
+**Three-fifths.** The delegates also had to decide whether enslaved people counted as part of a state's population. They agreed to count each enslaved person as three-fifths of a free person when working out a state's seats in the House. This rule is in Article I, Section 2. Under it, the states with the most enslaved people got extra seats in the House.
+
+Article II states that each state has as many electors, the people who pick the president, as it has senators and representatives. So those states also got extra votes for president. Under the law, the enslaved people being counted were property, with no rights at all, so none of them could vote.
 
 #### Slavery and voting in the Constitution
 
@@ -13825,17 +14234,23 @@ On June 21, 1788, New Hampshire's delegates made it the ninth state to ratify. T
 >
 > **When and where:** Federal Hall, New York, April 30, 1789. Philadelphia, September 19, 1796.
 
+**Every elector voted for him, twice. He stopped after two terms.**
+
 George Washington is the only person ever elected president with every electoral vote. It happened twice, in 1789 and in 1792. The electoral votes are the votes cast by electors, the people each state chooses to pick the president. The votes for the first election were counted on April 6, 1789, more than a month late. Members of the new Congress could not reach New York in time because of a cold, snowy winter. Washington had all 69 votes.
 
 On April 30, 1789, Washington swore the oath of office, the promise each new president makes, on the second-floor balcony of Federal Hall in New York. Robert R. Livingston, a New York judge whose title was chancellor, read him the oath while a crowd watched from the street. Then Washington went inside and read his first speech as president, called the first inaugural address, to both houses of Congress.
 
-Nothing in the Constitution limited how many times a president could be elected. In 1796 Washington decided to stop after two terms. He announced it in a written message to the country, printed on September 19, 1796, in a Philadelphia newspaper. It is called his Farewell Address, though he never read it aloud. James Madison had written a first version in 1792. Alexander Hamilton did most of the writing in 1796. Washington made changes to it himself. In it he told the country of "the resolution I have formed, to decline being considered among the number of those out of whom a choice is to be made." That meant he would not run again.
+Nothing in the Constitution limited how many times a president could be elected. In 1796 Washington decided to stop after two terms. He announced it in a written message to the country, printed on September 19, 1796, in a Philadelphia newspaper. It is called his Farewell Address, though he never read it aloud.
+
+James Madison had written a first version in 1792. Alexander Hamilton did most of the writing in 1796, and Washington made changes to it himself. In it he told the country of "the resolution I have formed, to decline being considered among the number of those out of whom a choice is to be made." That meant he would not run again.
 
 In the same address he warned "against the baneful effects of the spirit of party." Baneful means harmful. He also wrote that it was "our true policy to steer clear of permanent alliances with any portion of the foreign world."
 
-For about 150 years the two-term limit stayed a habit, not a law. Franklin Roosevelt broke it when he won a third term in 1940 and a fourth in 1944. In 1947 members of Congress proposed writing a two-term limit into the Constitution. The 22nd Amendment, a change to the Constitution, took effect on February 27, 1951, when Minnesota's lawmakers made it the 36th state to approve it.
+For about 150 years the two-term limit stayed a habit, not a law. Franklin Roosevelt broke it when he won a third term in 1940 and a fourth in 1944. The Twenty-second Amendment of 1951 made the limit law. Era 9 tells how.
 
-Washington was an enslaver. He owned 123 people at his plantation, Mount Vernon. He also managed 153 more who belonged to the estate of his wife Martha's first husband. An estate is the property a person leaves when they die. Under the law, Washington could not sell or free those 153. In his will, dated July 9, 1799, he freed his valet, or personal servant, William Lee at once. He ordered the other 122 people he owned to be freed after Martha died. Martha Washington freed them on January 1, 1801. The other 153 people went back to her first husband's estate. Martha's grandchildren, who inherited that estate, divided them among themselves, and in dividing them they split up families.
+**The people he owned.** Washington was an enslaver. He owned 123 people at his plantation, Mount Vernon. He also managed 153 more who belonged to the estate of his wife Martha's first husband, the property that man had left when he died. Under the law, Washington could not sell or free those 153.
+
+In his will, dated July 9, 1799, he freed his valet, or personal servant, William Lee at once. He ordered the other 122 people he owned to be freed after Martha died. Martha Washington freed them on January 1, 1801. The other 153 people went back to her first husband's estate. Martha's grandchildren, who inherited that estate, divided them among themselves, and in dividing them they split up families.
 
 The custom of reading the Farewell Address aloud in Congress began on February 22, 1862, during the Civil War, after a thousand people in Philadelphia asked Congress to mark Washington's birthday. Since 1896 a senator has read it aloud in the Senate every year. It runs 7,641 words.
 
@@ -13846,6 +14261,8 @@ The custom of reading the Farewell Address aloud in Congress began on February 2
 > **Who:** A delegate to the Constitutional Convention who first argued against a bill of rights, then wrote one and steered it through Congress.
 >
 > **When and where:** Philadelphia and New York, 1787 to 1791. Born March 16, 1751. Died June 28, 1836.
+
+**He argued against a bill of rights. Then he wrote one.**
 
 James Madison introduced the amendments that became the Bill of Rights. An amendment is a change or addition to the Constitution. Madison had been the loudest voice against adding a list of rights. He had argued that the Constitution already limited the government's powers. Then delegates in several states agreed to ratify only if the first Congress would consider the amendments they proposed. After that, Madison changed his position.
 
@@ -13861,7 +14278,9 @@ Madison enslaved people all through these years. About 100 enslaved people worke
 
 #### Who could become a citizen, 1790
 
-The first federal law on who could become a citizen allowed only a "free white person." Members of Congress passed it in 1790 and called it the Naturalization Act. Naturalization is the legal process by which a person born in another country becomes a citizen. The person also had to be of good character, and had to have lived in the United States for two years and in the state for one. The person also had to swear an oath to support the Constitution. Part of that racial limit stayed in federal law until 1952.
+The first federal law on who could become a citizen allowed only a "free white person." Members of Congress passed it in 1790 and called it the Naturalization Act. Naturalization is the legal process by which a person born in another country becomes a citizen.
+
+The person had to be of good character, had to have lived in the United States for two years and in the state for one, and had to swear an oath to support the Constitution. Part of that racial limit stayed in federal law until 1952.
 
 #### The Fugitive Slave Act, 1793
 
@@ -13883,15 +14302,27 @@ The only newspaper editors put on trial under the Sedition Act worked for Democr
 
 One of them was Matthew Lyon, a Democratic-Republican congressman from Vermont who had been born in Ireland. In a letter, he wrote that he saw the public good "swallowed up in a continual grasp for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice." Pomp means showy display. Adulation means too much praise. Avarice means greed. He had also read aloud at campaign meetings a letter by the poet Joel Barlow that blamed Adams and the Senate for trouble with France.
 
-On October 5, 1798, a federal grand jury in Vermont charged Lyon. A deputy marshal, a federal law officer, arrested him the next day. On October 9 he stood trial at Rutland before Justice William Paterson of the Supreme Court. Lyon defended himself. Paterson told the jury that its job had "nothing whatever to do with the constitutionality or unconstitutionality of the sedition law." Constitutionality means whether a law is allowed by the Constitution. The jury found Lyon guilty within an hour. Paterson sentenced him to four months in prison, a $1,000 fine and $60.96 in court costs.
+A federal grand jury in Vermont charged Lyon on October 5, 1798. A deputy marshal, a federal law officer, arrested him the next day. On October 9 he stood trial at Rutland before Justice William Paterson of the Supreme Court. Lyon defended himself.
+
+Paterson told the jury that its job had "nothing whatever to do with the constitutionality or unconstitutionality of the sedition law." Constitutionality means whether a law is allowed by the Constitution. The jury found Lyon guilty within an hour. Paterson sentenced him to four months in prison, a $1,000 fine and $60.96 in court costs.
 
 Lyon was held in the jail at Vergennes. While he was there, the voters of his district elected him to Congress again. He was released on February 9, 1799.
 
 Justice Samuel Chase sentenced another writer, James Callender, to nine months in prison and a $400 fine. After Jefferson became president, he pardoned Callender. To pardon means to officially forgive a crime. In 1804 the members of the House voted to impeach Chase, partly for how he ran Callender's trial. To impeach means to charge an official with wrongdoing in office, so that the Senate puts him on trial. The senators found him not guilty.
 
+**If you remember one thing:** Between 1776 and 1791 the country's leaders wrote down how it would be governed, protected slavery in the plan, and left the vote to each state.
+- 1787: Thirty-nine delegates signed the Constitution in Philadelphia.
+- 1791: Ten amendments, the Bill of Rights, became part of it.
+- 1798: Under the Sedition Act, a jury found a congressman guilty of writing against the president, and his voters re-elected him from jail.
+**Next:** In 1803 the justices of the Supreme Court claimed a power the Constitution does not name: cancelling a law.
+
 ### 1800 to 1850
 
-In 1803 the Supreme Court's justices struck down part of a law passed by Congress for the first time. From then on, American judges claimed the power to cancel laws that break the Constitution. In the same years, lawmakers in several states dropped the rule that a white man had to own property to vote. Lawmakers in some of those states took the vote away from Black men. The first national party convention met in 1831. President Andrew Jackson handed out government jobs to his supporters. He also signed a law that let him make treaties to push Native nations out of the East and send them west. By the end of his presidency, his officials had removed about 50,000 Native people from their homelands in the East.
+**Era 6 of 10 · 1800 to 1850 · about 11 minutes**
+
+The Supreme Court's justices struck down part of a law passed by Congress for the first time in 1803. From then on, American judges claimed the power to cancel laws that break the Constitution. In the same years, lawmakers in several states dropped the rule that a white man had to own property to vote. Lawmakers in some of those states took the vote away from Black men.
+
+The first national party convention met in 1831. President Andrew Jackson handed out government jobs to his supporters. He also signed a law that let him make treaties to push Native nations out of the East and send them west. By the end of his presidency, his officials had removed about 50,000 Native people from their homelands in the East.
 
 <a id="story-john-marshall"></a>
 
@@ -13901,7 +14332,11 @@ In 1803 the Supreme Court's justices struck down part of a law passed by Congres
 >
 > **When and where:** Washington, D.C., 1801 to 1835. *Marbury v. Madison* decided in February 1803.
 
-John Marshall wrote the ruling in which the Supreme Court's justices first claimed the power to strike down a law passed by Congress. He was the Chief Justice, the head of the Supreme Court. President John Adams named Marshall for that post on January 20, 1801. Marshall took his seat on February 4, 1801. He held it for 34 years, until he died in Philadelphia on July 6, 1835. In that time he heard more than a thousand cases and wrote more than five hundred opinions. An opinion is a judge's written explanation of a ruling.
+**A judge's job, he wrote, is "to say what the law is."**
+
+John Marshall wrote the ruling in which the Supreme Court's justices first claimed the power to strike down a law passed by Congress. He was the Chief Justice, the head of the Supreme Court. President John Adams named Marshall for that post on January 20, 1801, and Marshall took his seat on February 4.
+
+He held the seat for 34 years, until he died in Philadelphia on July 6, 1835. In that time he heard more than a thousand cases and wrote more than five hundred opinions. An opinion is a judge's written explanation of a ruling.
 
 In 1801, in his last days in office, Adams appointed William Marbury a justice of the peace, a local judge, for Washington, D.C. The paper that gave Marbury the job, called a commission, was never delivered to him. The new Secretary of State, James Madison, refused to hand it over. The Secretary of State is the president's chief adviser on dealings with other countries. Marbury asked the Supreme Court for an order forcing Madison to deliver it.
 
@@ -13911,9 +14346,11 @@ Marshall wrote: "It is emphatically the province and duty of the judicial depart
 
 #### The Louisiana Purchase, 1803
 
-On April 30, 1803, two American officials, Robert Livingston and James Monroe, signed a treaty, a written agreement between countries, with France. Under it the United States bought 828,000 square miles of land west of the Mississippi River. The price was $15 million, about 4 cents an acre. President Jefferson had sent Monroe to buy only New Orleans and the land to its east called West Florida, and to spend no more than $10 million.
+**The deal.** Two American officials, Robert Livingston and James Monroe, signed a treaty, a written agreement between countries, with France on April 30, 1803. Under it the United States bought 828,000 square miles of land west of the Mississippi River. The price was $15 million, about 4 cents an acre. President Jefferson had sent Monroe to buy only New Orleans and the land to its east called West Florida, and to spend no more than $10 million.
 
-The purchase raised a question about the Constitution. President Thomas Jefferson usually read the Constitution strictly, which means he held that the government could do only what the document said it could. He wondered whether the Constitution allowed the government to take on new land at all. In a letter in 1803 to Wilson Cary Nicholas, Jefferson wrote: "Our peculiar security is in possession of a written Constitution. Let us not make it a blank paper by construction." Peculiar here meant special. By construction he meant by stretching the meaning of its words. He wrote that he would rather ask the nation for more power than take it. He went ahead with the purchase anyway.
+**The question it raised.** President Thomas Jefferson usually read the Constitution strictly, which means he held that the government could do only what the document said it could. He wondered whether the Constitution allowed the government to take on new land at all.
+
+In a letter in 1803 to Wilson Cary Nicholas, Jefferson wrote: "Our peculiar security is in possession of a written Constitution. Let us not make it a blank paper by construction." Peculiar here meant special. By construction he meant by stretching the meaning of its words. He wrote that he would rather ask the nation for more power than take it. He went ahead with the purchase anyway.
 
 French officials sold France's claim to the land. Thousands of Native people, in dozens of nations, lived on it. They were not part of the sale. Article VI of the treaty states that the United States would carry out the treaties Spain had made with "the tribes and nations of Indians" there.
 
@@ -13925,17 +14362,19 @@ Under the Constitution, the members of Congress could not ban the shipping of en
 
 Between 1807 and 1838, the lawmakers of several states rewrote their rules on voting. They let white men without property vote. In the same laws and constitutions, they shut out Black men. New Jersey's lawmakers also ended voting by women.
 
-In 1807 New Jersey's lawmakers passed an election law that let all white male taxpayers vote and shut out everyone else. Women and free Black people in New Jersey who met the property test had voted since 1776. The new law ended that. The law's words gave its aim as a "uniform practice" across the state, meaning the same rules everywhere.
+**New Jersey.** New Jersey's lawmakers passed an election law in 1807 that let all white male taxpayers vote and shut out everyone else. Women and free Black people in New Jersey who met the property test had voted since 1776. The new law ended that. The law's words gave its aim as a "uniform practice" across the state, meaning the same rules everywhere.
 
-In 1821 the delegates who rewrote New York's constitution dropped the property test for white men. In the same document, they required a Black man to own property worth $250, free of debt, before he could vote. In 1825 only 298 of the nearly 6,000 free Black adults in New York met that test.
+**New York.** The delegates who rewrote New York's constitution in 1821 dropped the property test for white men. In the same document, they required a Black man to own property worth $250, free of debt, before he could vote. In 1825 only 298 of the nearly 6,000 free Black adults in New York met that test.
 
-North Carolina's free Black men lost the vote in 1835. The delegates to the state's constitutional convention, a meeting of men chosen to rewrite the state constitution, took it away from them. Pennsylvania's convention delegates did the same in January 1838. They added the word "white" before "freemen," the men allowed to vote, in the section on who could vote.
+**North Carolina and Pennsylvania.** North Carolina's free Black men lost the vote in 1835. The delegates to the state's constitutional convention, a meeting of men chosen to rewrite the state constitution, took it away from them. Pennsylvania's convention delegates did the same in January 1838. They added the word "white" before "freemen," the men allowed to vote, in the section on who could vote.
 
 Robert Purvis wrote a protest called the *Appeal of Forty Thousand Citizens, Threatened with Disfranchisement*. To disfranchise means to take away the vote. He read it aloud on March 14, 1838, at the First African Presbyterian Church in Philadelphia. Pennsylvania's voters approved the new constitution on October 9, 1838, by 113,971 votes to 112,759. Black men in Pennsylvania could not vote again until the Fifteenth Amendment in 1870. That change to the Constitution barred the states from denying a man the vote because of his race.
 
 #### The first national party convention, 1831
 
-Men who opposed the Freemasons, a secret society, formed the Anti-Masonic Party. In September 1831 the party's members met in Baltimore to choose their candidate for president. It was the first national nominating convention held by any party. A nominating convention is a meeting where a party's members choose its candidates. The Anti-Masons were also the first party to give voters a platform, a written list of what the party stood for. The delegates chose William Wirt. In the 1832 election he won only Vermont and its seven electoral votes, the votes that each state's electors cast to choose the president.
+Men who opposed the Freemasons, a secret society, formed the Anti-Masonic Party. In September 1831 the party's members met in Baltimore to choose their candidate for president. It was the first national nominating convention held by any party. A nominating convention is a meeting where a party's members choose its candidates.
+
+The Anti-Masons were also the first party to give voters a platform, a written list of what the party stood for. The delegates chose William Wirt. In the 1832 election he won only Vermont and its seven electoral votes.
 
 <a id="story-andrew-jackson-gov"></a>
 
@@ -13945,15 +14384,25 @@ Men who opposed the Freemasons, a secret society, formed the Anti-Masonic Party.
 >
 > **When and where:** Washington, D.C., 1829 to 1837.
 
-Andrew Jackson was the seventh president, from 1829 to 1837. On May 28, 1830, he signed the Indian Removal Act. The act allowed the president to make treaties with Native nations living east of the Mississippi River. Under those treaties the nations had to give up their eastern land and move west. The members of the House passed it on May 26, 1830, by 102 votes to 97, according to the House's own historians. The National Park Service gives the count as 101 to 97. The Senate vote was 28 to 19.
+**He signed the removal law, and his officials forced about 50,000 people west.**
 
-By the end of Jackson's presidency, his officials had made nearly 70 removal treaties. Federal officials removed about 50,000 Native people from the East to Indian Territory, land west of the Mississippi River that the government set aside for them. The Choctaw, starting in 1831, were the first of the southeastern nations to be forced out. The forced removal of the Muscogee, or Creek, began in 1836. Forcing the Seminole from their land took the government almost twenty years and $15 million. White settlers got about 25 million acres of the nations' eastern land, which federal officials opened to them. In 1838, a year after Jackson left office, United States Army troops and state militia forced more than 16,000 Cherokee people out of their homelands. Militia were part-time soldiers called up by a state. The soldiers held the Cherokee in camps and then sent them west. The journey is called the Trail of Tears. The National Archives puts the Cherokee dead at about 4,000. The National Park Service counts more than a thousand who died on the way and perhaps several thousand more who died from its effects.
+Andrew Jackson was the seventh president, from 1829 to 1837. On May 28, 1830, he signed the Indian Removal Act. The act allowed the president to make treaties with Native nations living east of the Mississippi River. Under those treaties the nations had to give up their eastern land and move west. The senators passed it 28 to 19. The House's own historians put the House vote on May 26, 1830, at 102 to 97, and the National Park Service at 101 to 97.
 
-Georgia's lawmakers had also passed a law about white people living on Cherokee land. It required any white person living in Cherokee territory after March 1, 1831, to get a license from Georgia's governor and to swear an oath to support Georgia's constitution and laws. Samuel Worcester, a Christian missionary, a man sent to spread his religion, lived on Cherokee land without that license. He was found guilty in a Georgia court and sentenced to four years of hard labor, forced heavy work, in the state prison.
+**What the law did.** By the end of Jackson's presidency, his officials had made nearly 70 removal treaties. Federal officials removed about 50,000 Native people from the East to Indian Territory, land west of the Mississippi River that the government set aside for them. The Choctaw, starting in 1831, were the first of the southeastern nations to be forced out. The forced removal of the Muscogee, or Creek, began in 1836. Forcing the Seminole from their land took the government almost twenty years and $15 million.
 
-In 1832 the justices of the Supreme Court decided *Worcester v. Georgia*. Chief Justice John Marshall wrote that Georgia's law was "void, and the judgment a nullity," meaning it had no force. Georgia's officials did not carry out the ruling. In April 1832 Jackson wrote to John Coffee that the Court's decision "has fell still born." Stillborn means born dead. Many schoolbooks quote Jackson saying, "John Marshall has made his decision, now let him enforce it." No record from his own time shows that he said it. The sentence first appears in a history book by Horace Greeley printed in 1864, about twenty years after Jackson died.
+White settlers got about 25 million acres of the nations' eastern land, which federal officials opened to them.
 
-On July 10, 1832, Jackson vetoed a bill to renew the charter of the Second Bank of the United States, a national bank. The charter was the paper that gave the Bank the right to operate. A veto is a president's refusal to sign a bill into law. His veto message called the Bank "dangerous to the liberties of the people." He was the first president to make a veto the center of a major fight over the economy. He made the veto a part of his campaign in 1832 and won a second term.
+**The Trail of Tears.** In 1838, a year after Jackson left office, United States Army troops and state militia, part-time soldiers called up by a state, forced more than 16,000 Cherokee people out of their homelands. The soldiers held the Cherokee in camps and then sent them west. The journey is called the Trail of Tears. The National Archives puts the Cherokee dead at about 4,000. The National Park Service counts more than a thousand who died on the way and perhaps several thousand more who died from its effects.
+
+**The ruling Georgia ignored.** Georgia's lawmakers had also passed a law about white people living on Cherokee land. It required any white person living in Cherokee territory after March 1, 1831, to get a license from Georgia's governor and to swear an oath to support Georgia's constitution and laws. Samuel Worcester, a Christian missionary, a man sent to spread his religion, lived on Cherokee land without that license. He was found guilty in a Georgia court and sentenced to four years of hard labor, forced heavy work, in the state prison.
+
+In 1832 the justices of the Supreme Court decided *Worcester v. Georgia*. Chief Justice John Marshall wrote that Georgia's law was "void, and the judgment a nullity," meaning it had no force. Georgia's officials did not carry out the ruling. In April 1832 Jackson wrote to John Coffee that the Court's decision "has fell still born." Stillborn means born dead.
+
+Many schoolbooks quote Jackson saying, "John Marshall has made his decision, now let him enforce it." No record from his own time shows that he said it. The sentence first appears in a history book by Horace Greeley printed in 1864, about twenty years after Jackson died.
+
+**The veto.** On July 10, 1832, Jackson vetoed a bill to renew the charter of the Second Bank of the United States, a national bank. The charter was the paper that gave the Bank the right to operate. A veto is a president's refusal to sign a bill into law. His veto message called the Bank "dangerous to the liberties of the people."
+
+He was the first president to make a veto the center of a major fight over the economy. He made the veto a part of his campaign in 1832 and won a second term.
 
 Jackson then moved the government's money out of the Bank. On March 28, 1834, the senators voted to censure him for it. To censure is to scold someone officially. It is the only time the Senate has censured a president. In January 1837, after Jackson's party won a majority, the senators voted to expunge the censure, which means to strike it from the record.
 
@@ -13965,11 +14414,17 @@ In 1834 Pennsylvania's lawmakers passed the Free Public School Act, a law for a 
 
 Many voters did not want to pay the tax. In 1835 petitions, written requests signed by thousands of them, reached the state's lawmakers, asking them to repeal, or cancel, the law. No one in the state Senate spoke against repeal, and few members of the House did.
 
-On April 11, 1835, Thaddeus Stevens, a member of the Pennsylvania House, spoke against repeal. He said: "Many complain of the school tax, not so much on account of its amount, as because it is for the benefit of others and not themselves." He pointed out that a man "cheerfully pays the tax which is necessary to support and punish convicts." The same man, Stevens said, "loudly complains of that which goes to prevent his fellow being from becoming a criminal." After his speech, the lawmakers dropped the repeal, and the schools stayed. Stevens later called the speech the "crowning utility" of his life, the most useful thing he ever did.
+Thaddeus Stevens, a member of the Pennsylvania House, spoke against repeal on April 11, 1835. He said: "Many complain of the school tax, not so much on account of its amount, as because it is for the benefit of others and not themselves." He pointed out that a man "cheerfully pays the tax which is necessary to support and punish convicts." The same man, Stevens said, "loudly complains of that which goes to prevent his fellow being from becoming a criminal."
+
+After his speech, the lawmakers dropped the repeal, and the schools stayed. Stevens later called the speech the "crowning utility" of his life, the most useful thing he ever did.
 
 ### 1850 to 1900
 
-Members of Congress passed three amendments to the Constitution between 1865 and 1870, and lawmakers in enough states approved them. Under them, slavery ended, everyone born in the country became a citizen, and no state could deny a citizen the vote because of race. In the 1870s and 1880s Black men in many Southern states voted and held office. Starting in 1890, the delegates who rewrote Southern state constitutions added rules meant to stop Black men from voting. In Louisiana the number of Black men registered to vote fell from 130,344 in 1897 to 5,320 in 1900. The justices of the Supreme Court ruled that those rules were allowed. They also ruled that laws requiring Black and white people to be kept apart were allowed. In the same years, lawmakers in Washington passed the first laws to shut out immigrants by nationality, and to fill some government jobs by exam. Lawmakers in more and more states required children to go to school.
+**Era 7 of 10 · 1850 to 1900 · about 21 minutes**
+
+Black men in Louisiana registered to vote in 1897 numbered 130,344. In 1900 they numbered 5,320. This era tells how both numbers came to be. Members of Congress passed three amendments to the Constitution between 1865 and 1870, and lawmakers in enough states approved them. Under them, slavery ended, everyone born in the country became a citizen, and no state could deny a citizen the vote because of race. In the 1870s and 1880s Black men in many Southern states voted and held office.
+
+Starting in 1890, the delegates who rewrote Southern state constitutions added rules meant to stop Black men from voting. The justices of the Supreme Court ruled that those rules were allowed. They also ruled that laws requiring Black and white people to be kept apart were allowed. In the same years, lawmakers in Washington passed the first laws to shut out immigrants by nationality, and to fill some government jobs by exam. Lawmakers in more and more states required children to go to school.
 
 #### Laws that made children go to school
 
@@ -13977,13 +14432,15 @@ In 1852 the lawmakers of Massachusetts passed the first state law that required 
 
 #### Dred Scott v. Sandford, 1857
 
-Dred Scott, an enslaved man, sued in federal court. On March 6, 1857, the justices of the Supreme Court decided his case, *Dred Scott v. Sandford*, by a vote of 7 to 2. Chief Justice Roger B. Taney wrote the ruling. He wrote that a Black person whose ancestors were brought to the country and sold as slaves was not a citizen under the Constitution. So Scott had no right to sue in a federal court. Taney also wrote that Black people "had no rights which the white man was bound to respect."
+Dred Scott, an enslaved man, sued in federal court. On March 6, 1857, the justices of the Supreme Court decided his case, *Dred Scott v. Sandford*, by a vote of 7 to 2.
+
+Chief Justice Roger B. Taney wrote the ruling. He wrote that a Black person whose ancestors were brought to the country and sold as slaves was not a citizen under the Constitution. So Scott had no right to sue in a federal court. Taney also wrote that Black people "had no rights which the white man was bound to respect."
 
 Taney's ruling also said that Congress had no power to ban slavery in the federal territories, the lands that were not yet states. That made *Dred Scott* only the second time the justices had struck down a law passed by Congress. The first was *Marbury v. Madison* in 1803.
 
 #### Secession, 1860
 
-On December 20, 1860, in Charleston, the delegates of a South Carolina convention signed an ordinance of secession, a law declaring that their state was leaving the United States. Four days later the delegates approved a statement of their reasons. In it they wrote of "an increasing hostility on the part of the non-slaveholding States to the institution of slavery." They also wrote that the Northern states had joined to elect a man "whose opinions and purposes are hostile to slavery." The man they meant was Abraham Lincoln.
+The delegates of a South Carolina convention signed an ordinance of secession, a law declaring that their state was leaving the United States, in Charleston on December 20, 1860. Four days later the delegates approved a statement of their reasons. In it they wrote of "an increasing hostility on the part of the non-slaveholding States to the institution of slavery." They also wrote that the Northern states had joined to elect a man "whose opinions and purposes are hostile to slavery." The man they meant was Abraham Lincoln.
 
 <a id="story-abraham-lincoln"></a>
 
@@ -13995,11 +14452,17 @@ On December 20, 1860, in Charleston, the delegates of a South Carolina conventio
 >
 > **Movie:** *Lincoln* (2012), a film about the fight in January 1865 to get the House of Representatives to pass the Thirteenth Amendment. The film is about the amendment, not about habeas corpus.
 
+**The Chief Justice ordered Merryman freed. The army kept him.**
+
 In the first months of the Civil War, President Abraham Lincoln suspended the writ of habeas corpus. A writ is a written order from a court. Habeas corpus is a person's right to be brought before a judge, who decides whether the government may go on holding that person. When it is suspended, the government can hold a person without taking them before a judge at all. The Constitution allows the writ to be suspended "in Cases of Rebellion or Invasion." It does not say who may suspend it.
 
-On April 25, 1861, Lincoln wrote to General Winfield Scott. Governor Hicks of Maryland had called the state's lawmakers to a special meeting, and they looked likely to vote to leave the United States. Lincoln told Scott to stop any effort to arm Maryland's people against the federal government. He approved "the most prompt, and efficient means." Those means included "the bombardment of their cities" and, "in the extremest necessity," suspending the writ. On April 27 he gave Scott the power to suspend it anywhere along the routes the army's troops used between Philadelphia and Washington. No federal official had suspended the writ since the War of 1812.
+Lincoln wrote to General Winfield Scott on April 25, 1861. Governor Hicks of Maryland had called the state's lawmakers to a special meeting, and they looked likely to vote to leave the United States. Lincoln told Scott to stop any effort to arm Maryland's people against the federal government. He approved "the most prompt, and efficient means." Those means included "the bombardment of their cities" and, "in the extremest necessity," suspending the writ.
 
-At two in the morning on May 25, 1861, federal soldiers entered the country house of John Merryman, a planter, or owner of a large farm, in Baltimore County, and woke him from his bed. They took him to Fort McHenry. General George Cadwalader held him there. The charge was that Merryman was an officer in a company of men who supported secession and had federal weapons. On May 26 Chief Justice Roger Taney, who also served as a judge in Maryland, ordered Cadwalader to bring Merryman to court. Cadwalader refused in a letter. He wrote that Lincoln had given officers the power to suspend the writ. A deputy marshal, an officer of the federal courts, carried Taney's next order to the gate of the fort, and a guard would not let him in.
+On April 27 he gave Scott the power to suspend it anywhere along the routes the army's troops used between Philadelphia and Washington. No federal official had suspended the writ since the War of 1812.
+
+**The arrest.** At two in the morning on May 25, 1861, federal soldiers entered the country house of John Merryman, a planter, or owner of a large farm, in Baltimore County, and woke him from his bed. They took him to Fort McHenry. General George Cadwalader held him there. The charge was that Merryman was an officer in a company of men who supported secession and had federal weapons.
+
+On May 26 Chief Justice Roger Taney, who also served as a judge in Maryland, ordered Cadwalader to bring Merryman to court. Cadwalader refused in a letter. He wrote that Lincoln had given officers the power to suspend the writ. A deputy marshal, an officer of the federal courts, carried Taney's next order to the gate of the fort, and a guard would not let him in.
 
 On May 28, with a crowd gathered outside, Taney ruled in Baltimore that the president had no power to suspend the writ, under the Constitution or any law. He said Merryman must be freed at once. Taney issued no order to make that happen. He was 84 years old. He was also the judge who had written *Dred Scott*, so almost no one at the time saw him as neutral.
 
@@ -14011,7 +14474,9 @@ On January 31, 1865, the members of the House passed the Thirteenth Amendment, t
 
 #### Land for colleges, 1862
 
-On July 2, 1862, the Morrill Act became law. Senator Justin Morrill of Vermont put the bill forward. Under it, each state received 30,000 acres of federal land for each of its senators and representatives in Congress. The land was to pay for colleges that taught "agriculture and the mechanic arts," meaning farming and the skills of building and machines. More than 10 million acres of the land given out under the act had been taken from Native nations by United States officials, through treaties, agreements and seizure. Colleges paid for by these land gifts are called land-grant colleges. A second Morrill Act, in 1890, set a rule for each state. The state had to set up separate land-grant colleges for Black students, or show that its colleges did not turn students away because of race.
+Senator Justin Morrill of Vermont put forward the bill that became the Morrill Act on July 2, 1862. Under it, each state received 30,000 acres of federal land for each of its senators and representatives in Congress. The land was to pay for colleges that taught "agriculture and the mechanic arts," meaning farming and the skills of building and machines. More than 10 million acres of the land given out under the act had been taken from Native nations by United States officials, through treaties, agreements and seizure.
+
+Colleges paid for by these land gifts are called land-grant colleges. A second Morrill Act, in 1890, set a rule for each state. The state had to set up separate land-grant colleges for Black students, or show that its colleges did not turn students away because of race.
 
 #### The Fourteenth and Fifteenth Amendments
 
@@ -14029,9 +14494,13 @@ Article X of the constitution they wrote required a system of free public school
 
 In the 1860s and 1870s, William M. Tweed held several offices in New York City and New York State at once. He was a state senator from 1867 to 1871 and chaired the state Senate's finance committee. From 1868 he was the Grand Sachem, or head, of Tammany Hall. Tammany Hall was a political machine of the Democratic Party. A political machine is a party organization that wins votes by handing out jobs and favors. Through Tammany Hall, Tweed had great power in the Democratic Party.
 
-Tweed and the men around him, called the Tweed Ring, stole money from the city in several ways. They sent the city bills for more than the work cost. Through printing and supply companies they controlled, Tweed's men billed the city too much for supplies. They ran up the cost of public buildings far past their budgets. A new county courthouse was expected to cost half a million dollars. It ended up costing the city's taxpayers about $13 million. EBSCO Research Starters, a reference guide, gives modern estimates of what the ring stole: from $30 million to $200 million.
+**How the ring stole.** Tweed and the men around him, called the Tweed Ring, stole money from the city in several ways. They sent the city bills for more than the work cost. Through printing and supply companies they controlled, Tweed's men billed the city too much for supplies. They ran up the cost of public buildings far past their budgets.
 
-The cartoonist Thomas Nast attacked Tweed in the magazine *Harper's Weekly* from 1869. In July 1871 editors at *The New York Times* printed evidence from inside the city's accounts, after people who knew about the thefts passed it to the paper. In late 1873 a court found Tweed guilty and sentenced him to twelve years in prison and a fine of $12,750. He appealed, which means he asked a higher court to look at the case again, and the higher court cut his sentence to one year. He died of pneumonia in the Ludlow Street jail on April 12, 1878.
+A new county courthouse was expected to cost half a million dollars. It ended up costing the city's taxpayers about $13 million. Modern estimates of what the ring stole in all run from $30 million to $200 million, by the count of the reference guide EBSCO Research Starters.
+
+**How it ended.** The cartoonist Thomas Nast attacked Tweed in the magazine *Harper's Weekly* from 1869. In July 1871 editors at *The New York Times* printed evidence from inside the city's accounts, after people who knew about the thefts passed it to the paper.
+
+In late 1873 a court found Tweed guilty and sentenced him to twelve years in prison and a fine of $12,750. He appealed, which means he asked a higher court to look at the case again, and the higher court cut his sentence to one year. He died of pneumonia in the Ludlow Street jail on April 12, 1878.
 
 #### Minor v. Happersett: citizens without the vote
 
@@ -14051,7 +14520,9 @@ Federal officials also took over the work of admitting immigrants. Officials of 
 
 The presidential election of 1876 was between Rutherford B. Hayes, a Republican, and Samuel J. Tilden, a Democrat. The electoral votes of Florida, Louisiana, South Carolina and Oregon were in dispute. On January 18, 1877, Senator George Edmunds of Vermont proposed an Electoral Commission to settle the count. It had fifteen members: five representatives, five senators and five Supreme Court justices. Members of Congress passed the bill.
 
-The commission's members voted 8 to 7, along party lines, to give every disputed electoral vote to Hayes. Hayes became president. On April 24, 1877, on his orders, federal troops left the Louisiana state house. It was the last state house in the South that federal troops had guarded. The Equal Justice Initiative, in its calendar *A History of Racial Injustice*, marks that withdrawal as the end of Reconstruction. Its calendar says the withdrawal opened the way for white supremacist rule to come back in the South with nothing to hold it back. White supremacy is the belief that white people should rule over everyone else.
+The commission's members voted 8 to 7, along party lines, to give every disputed electoral vote to Hayes. Hayes became president. On April 24, 1877, on his orders, federal troops left the Louisiana state house. It was the last state house in the South that federal troops had guarded.
+
+The Equal Justice Initiative, in its calendar *A History of Racial Injustice*, marks that withdrawal as the end of Reconstruction. Its calendar says the withdrawal opened the way for white supremacist rule to come back in the South with nothing to hold it back. White supremacy is the belief that white people should rule over everyone else.
 
 <a id="story-joseph-rainey"></a>
 
@@ -14061,13 +14532,19 @@ The commission's members voted 8 to 7, along party lines, to give every disputed
 >
 > **When and where:** Georgetown, South Carolina, and Washington, D.C. Born June 21, 1832. Sworn in December 12, 1870. Died August 2, 1887.
 
-Joseph Hayne Rainey was the first African American to serve in the House of Representatives. He was born on June 21, 1832, in Georgetown, South Carolina. His parents were enslaved. His father, Edward L. Rainey, worked as a barber and used his earnings to buy the family's freedom in the early 1840s.
+**The Confederate army made him dig. In 1874 he presided over the House.**
 
-The Confederacy was the group of Southern states that broke away from the United States and fought it in the Civil War. During the war, the Confederate army forced Rainey to work on the defenses of Charleston. He also worked as a steward, a ship's servant, on a Confederate ship that slipped through the blockade, the line of United States warships that tried to keep ships out of Southern ports. In 1862 he and his wife escaped to Bermuda. There he ran a barbershop and she ran a dress shop. They came home in 1866.
+Joseph Hayne Rainey was the first African American to serve in the House of Representatives. He was born in Georgetown, South Carolina, to enslaved parents. His father, Edward L. Rainey, worked as a barber and used his earnings to buy the family's freedom in the early 1840s.
 
-On October 19, 1870, Rainey won election to a full term in Congress with 63 percent of the vote. On November 8 he won a special election for the rest of the current term, with 86 percent. He was sworn in on December 12, 1870.
+The Confederacy was the group of Southern states that broke away from the United States and fought it in the Civil War. During the war, the Confederate army forced Rainey to work on the defenses of Charleston. He also worked as a steward, a ship's servant, on a Confederate ship that slipped through the blockade, the line of United States warships that tried to keep ships out of Southern ports.
 
-On April 1, 1871, he spoke for the Ku Klux Klan Act. The Ku Klux Klan was a vigilante group, people who act outside the law, that attacked Black Americans and their white allies in the South. Klansmen whipped men, women and children, and they burned Black schools and churches. In July 1870 Klansmen killed six people, among them a schoolteacher, at Cross Plains, Alabama. Members of Congress gathered testimony that Klansmen in Alabama alone committed more than 100 murders between 1868 and 1871. Under the Ku Klux Klan Act, it became a federal crime to deny anyone the rights the Constitution protects. President Ulysses S. Grant signed it on April 20, 1871. Rainey said the Constitution owed "protection to the humblest citizen, without regard to rank."
+In 1862 he and his wife escaped to Bermuda. There he ran a barbershop and she ran a dress shop. They came home in 1866.
+
+Rainey won election to a full term in Congress on October 19, 1870, with 63 percent of the vote. On November 8 he won a special election for the rest of the current term, with 86 percent. He was sworn in on December 12, 1870.
+
+**The Klan law.** On April 1, 1871, he spoke for the Ku Klux Klan Act. The Ku Klux Klan was a vigilante group, people who act outside the law, that attacked Black Americans and their white allies in the South. Klansmen whipped men, women and children, and they burned Black schools and churches. In July 1870 Klansmen killed six people, among them a schoolteacher, at Cross Plains, Alabama. Members of Congress gathered testimony that Klansmen in Alabama alone committed more than 100 murders between 1868 and 1871.
+
+Under the Ku Klux Klan Act, it became a federal crime to deny anyone the rights the Constitution protects. President Ulysses S. Grant signed it on April 20, 1871. Rainey said the Constitution owed "protection to the humblest citizen, without regard to rank."
 
 Rainey also supported the Civil Rights Act of 1875. He pressed for equal schooling, and he said "mixed schools," schools for Black and white children together, would "annihilate" prejudice. Annihilate means wipe out.
 
@@ -14075,7 +14552,7 @@ On April 29, 1874, he led a meeting of the House from the Speaker's chair, the s
 
 On January 25, 1877, Rainey spoke against the Electoral Commission. He warned it could lead to "the election of a President by one man rather than by a majority of the people of the United States." Members of Congress passed the bill anyway.
 
-Rainey lost his seat in 1878, by 62 percent to 38, and left the House on March 3, 1879, after more than eight years. No Black member of Congress served longer than he had until the 1950s. He was the first of fourteen Black representatives who served during Reconstruction. After Reconstruction ended, the number of Black members of Congress fell to zero and stayed near zero for decades. Rainey worked for the Treasury Department in South Carolina and ran a banking business in Washington. He died in Georgetown on August 2, 1887.
+Rainey lost his seat in 1878, by 62 percent to 38, and left the House on March 3, 1879, after more than eight years. No Black member of Congress served longer than he had until the 1950s. He was the first of fourteen Black representatives who served during Reconstruction. After Reconstruction ended, the number of Black members of Congress fell to zero and stayed near zero for decades.
 
 #### The Pendleton Act, 1883
 
@@ -14087,17 +14564,25 @@ On January 16, 1883, Arthur signed the Pendleton Act. Under it, some federal job
 
 The Fifteenth Amendment barred states from denying the vote because of race. In 1890 the delegates who wrote Mississippi's new constitution set out to stop Black men from voting without naming race. Senator J. Z. George led the convention. Its committee on voting included its one Black delegate, Isaiah Montgomery. The committee members agreed that their task was to take away Black men's votes.
 
-The delegates added a poll tax, a tax of $2 a year that a man had to pay before he could vote. They required two years of living in the state and one in the county. A voter had to swear he had not committed certain crimes, crimes the committee believed Black men were more likely to commit. State officials printed the ballots, and only a man who could read could use them. A man who could not read could be read a section of the constitution. If he could explain it, he could vote. The registrar alone decided whether he had explained it well enough. The delegates put the new constitution into effect themselves, without a vote of the people.
+**The rules.** The delegates added a poll tax, a tax of $2 a year that a man had to pay before he could vote. They required two years of living in the state and one in the county. A voter had to swear he had not committed certain crimes, crimes the committee believed Black men were more likely to commit.
 
-In 1898 the justices of the Supreme Court heard *Williams v. Mississippi*. Williams was a Black man found guilty of murder. Jurors in Mississippi were chosen from the lists of voters. He argued that the voting rules in the 1890 constitution kept Black men off those lists, and so off his jury. On April 25, 1898, the justices ruled against him, and no justice disagreed. Justice Joseph McKenna wrote that the rules "do not on their face discriminate between the races, and it has not been shown that their actual administration was evil." He went on: "only that evil was possible under them." McKenna meant that the rules did not name any race, and no one had proved that officials used them unfairly, only that they could. Mississippi's voting rules stood until the Twenty-fourth Amendment of 1964.
+State officials printed the ballots, and only a man who could read could use them. A man who could not read could be read a section of the constitution. If he could explain it, he could vote. The registrar alone decided whether he had explained it well enough. The delegates put the new constitution into effect themselves, without a vote of the people.
 
-Louisiana's delegates wrote a new constitution in 1898 and also put it into effect without a vote of the people. Their rules for voters were a poll tax of $1 a year, with receipts for two past years, a reading test given by parish registrars, a test of owning $300 in property, and a grandfather clause. The registrars were the officials who signed up voters in each parish, Louisiana's name for a county. The reading test had no fixed standard. Under the grandfather clause, a man who failed the tests could still register if his father or grandfather had voted in 1867, a year when formerly enslaved men could not vote in Louisiana. Thomas Semmes chaired the convention's committee on the courts. He said: "We met here to establish the supremacy of the white race, and the white race constitutes the Democratic Party of this State."
+**What the justices said.** In 1898 the justices of the Supreme Court heard *Williams v. Mississippi*. Williams was a Black man found guilty of murder. Jurors in Mississippi were chosen from the lists of voters. He argued that the voting rules in the 1890 constitution kept Black men off those lists, and so off his jury.
 
-By the count of the Louisiana encyclopedia *64 Parishes*, 130,344 Black voters were registered in 1897. In 1898 there were 12,902. In 1900 there were 5,320, and in 1922 there were 598.
+On April 25, 1898, the justices ruled against him, and no justice disagreed. Justice Joseph McKenna wrote that the rules "do not on their face discriminate between the races, and it has not been shown that their actual administration was evil." He went on: "only that evil was possible under them." McKenna meant that the rules did not name any race, and no one had proved that officials used them unfairly, only that they could. Mississippi's voting rules stood until the Twenty-fourth Amendment of 1964.
+
+**Louisiana.** Louisiana's delegates wrote a new constitution in 1898 and also put it into effect without a vote of the people. Their rules for voters were a poll tax of $1 a year, with receipts for two past years, a reading test given by parish registrars, a test of owning $300 in property, and a grandfather clause. The registrars were the officials who signed up voters in each parish, Louisiana's name for a county. The reading test had no fixed standard.
+
+Under the grandfather clause, a man who failed the tests could still register if his father or grandfather had voted in 1867, a year when formerly enslaved men could not vote in Louisiana. Thomas Semmes chaired the convention's committee on the courts. He said: "We met here to establish the supremacy of the white race, and the white race constitutes the Democratic Party of this State."
+
+**The count.** By the count of the Louisiana encyclopedia *64 Parishes*, 130,344 Black voters were registered in 1897. In 1898 there were 12,902. In 1900 there were 5,320, and in 1922 there were 598.
 
 #### Plessy v. Ferguson, 1896
 
-A Louisiana law required railroads to give Black and white passengers separate cars, or cars split by a partition. A person who broke the law could be fined $25 or jailed for 20 days. On May 18, 1896, the justices of the Supreme Court ruled 7 to 1 in *Plessy v. Ferguson* that the law was allowed. Justice Henry Billings Brown wrote the ruling. He called it a "fallacy," a mistake in reasoning, to believe that "the enforced separation of the two races stamps the colored race with a badge of inferiority." A badge of inferiority means a mark that one group is lower than another.
+A Louisiana law required railroads to give Black and white passengers separate cars, or cars split by a partition. A person who broke the law could be fined $25 or jailed for 20 days. On May 18, 1896, the justices of the Supreme Court ruled 7 to 1 in *Plessy v. Ferguson* that the law was allowed.
+
+Justice Henry Billings Brown wrote the ruling. He called it a "fallacy," a mistake in reasoning, to believe that "the enforced separation of the two races stamps the colored race with a badge of inferiority." A badge of inferiority means a mark that one group is lower than another.
 
 Justice John Marshall Harlan was the only justice who dissented, or disagreed. He wrote: "Our constitution is color-blind, and neither knows nor tolerates classes among citizens."
 
@@ -14111,11 +14596,24 @@ In June 1897 the members of the school board of Richmond County, Georgia, closed
 
 J. W. Cumming, James S. Harper and John C. Ladeveze, Black taxpayers, sued. They asked the court to stop the board from spending public money on the white high schools until there was an equal school for their children. They also asked it to stop taxing them for schools their children could not attend.
 
-The justices of the Supreme Court turned them down on December 18, 1899. The justices found no violation of the Fourteenth Amendment and treated the closing as a question of money, not of race. Justice John Marshall Harlan wrote the ruling. Three years earlier he had been the one dissenter in *Plessy*. Here he wrote that "if it appeared that the board's refusal to maintain such a school was in fact an abuse of its discretion and in hostility to the colored population because of their race, different questions might have arisen." Discretion means the power to decide.
+The justices of the Supreme Court turned them down on December 18, 1899. The justices found no violation of the Fourteenth Amendment and treated the closing as a question of money, not of race.
+
+Justice John Marshall Harlan wrote the ruling. Three years earlier he had been the one dissenter in *Plessy*. Here he wrote that "if it appeared that the board's refusal to maintain such a school was in fact an abuse of its discretion and in hostility to the colored population because of their race, different questions might have arisen." Discretion means the power to decide.
+
+**If you remember one thing:** The three amendments of 1865 to 1870 made Black men citizens and voters, and by 1900 the delegates of the Southern states and the justices of the Supreme Court had taken most of that vote back.
+In 1870: The Fifteenth Amendment barred every state from denying a man the vote because of race, and Joseph Rainey of South Carolina sat in the House.
+In 1900: Louisiana had 5,320 Black voters on its rolls, down from 130,344 three years earlier, and the justices had allowed Mississippi's voting rules and Louisiana's separate railroad cars.
+**Next:** Between 1913 and 1920, four amendments changed who paid, who chose the senators, who could drink and who could vote.
 
 ### 1900 to 1950
 
-An amendment is a change to the Constitution. Between 1913 and 1920, members of Congress and state lawmakers added four of them. Under those four, Congress could tax incomes, voters chose their senators, alcohol was banned, and no state could deny women the vote. A fifth amendment ended the ban on alcohol in 1933. President Franklin Roosevelt was elected four times. The judges of the Supreme Court are called justices. They struck down parts of his New Deal, the set of laws he backed in the 1930s, and then he tried to add more justices to the Court. The justices ruled that a Virginia law was allowed, and under it doctors sterilized about 8,300 people. To sterilize a person is to operate on them so that they can never have children. The justices also held that the Army's orders forcing people of Japanese descent from their homes during World War II were justified. About 122,000 people were forced into camps under those orders. In big cities, the leaders of party organizations called political machines still traded jobs and favors for votes.
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
+
+Four amendments, changes to the Constitution, went in between 1913 and 1920. Under them, Congress could tax incomes, voters chose their senators, alcohol was banned, and no state could deny women the vote. A fifth amendment ended the ban on alcohol in 1933.
+
+President Franklin Roosevelt was elected four times. The justices of the Supreme Court struck down parts of his New Deal, the set of laws he backed in the 1930s, and then he tried to add more justices to the Court. The justices ruled that a Virginia law was allowed, and under it doctors sterilized about 8,300 people, operating on them so that they could never have children. The justices also held that the Army's orders forcing people of Japanese descent from their homes during World War II were justified. About 122,000 people were forced into camps under those orders.
+
+In big cities, the leaders of party organizations called political machines still traded jobs and favors for votes. One of them explained how, and this era opens with him.
 
 <a id="story-george-washington-plunkitt"></a>
 
@@ -14125,29 +14623,37 @@ An amendment is a change to the Constitution. Between 1913 and 1920, members of 
 >
 > **When and where:** The Fifteenth Assembly District, New York City. His talks were printed in 1905. He died in 1924.
 
+**"I seen my opportunities and I took 'em."**
+
 George Washington Plunkitt was a district leader for Tammany Hall, the Democratic Party's political machine in New York City. A district leader was the party's boss in one part of the city. Plunkitt led Tammany's work in the Fifteenth Assembly District. He also served as a state senator and as a member of the state assembly, one of the two groups of lawmakers in New York State. He grew up poor. By the time he died in 1924, he was rich.
 
 A newspaperman named William L. Riordon wrote down Plunkitt's talks and published them in 1905 as *Plunkitt of Tammany Hall*. The title page states that Plunkitt gave the talks "from His Rostrum." A rostrum is a speaker's stand, and his was the shoeshine stand at the New York County Court House. The book is not a word-for-word record. Riordon gathered and shaped what Plunkitt said.
 
-Plunkitt split graft into two kinds. Graft is money a person gets by using a public office. Dishonest graft, he said, meant blackmailing gamblers and squeezing money out of illegal businesses. To blackmail people is to make them pay money by threatening to tell their secrets. Honest graft meant learning where city officials planned to build something, buying the land first and then selling it to the city at a profit. "I ain't no looter," he said. "The looter hogs it. I never hogged." His summary of himself is cut into his gravestone: "I seen my opportunities and I took 'em."
+Plunkitt split graft into two kinds. Graft is money a person gets by using a public office. Dishonest graft, he said, meant blackmailing gamblers and squeezing money out of illegal businesses. To blackmail people is to make them pay money by threatening to tell their secrets.
+
+Honest graft meant learning where city officials planned to build something, buying the land first and then selling it to the city at a profit. "I ain't no looter," he said. "The looter hogs it. I never hogged." His summary of himself is cut into his gravestone: "I seen my opportunities and I took 'em."
 
 He also described the everyday work of a machine. When a building burned at night, Plunkitt and his captains, the party workers under him, came to the fire and found the families shelter and clothes on the spot. He knew employers across the city and got people jobs. His men found families in trouble before the charity groups did. He said he did it because those people remembered him on election day.
 
 #### The food laws of 1906
 
-On June 30, 1906, President Theodore Roosevelt signed two laws on the same day. The Pure Food and Drug Act banned selling food, drink or drugs across state lines if they were mislabeled or made impure. Harvey Wiley and the officials of his Bureau of Chemistry enforced it. In 1930 that office was renamed the Food and Drug Administration. The Meat Inspection Act required federal inspectors in meatpacking plants, set rules for cleanliness and banned false labels. The laws followed Upton Sinclair's book *The Jungle*, published in February 1906, and years of work by Wiley's team.
+President Theodore Roosevelt signed two laws on the same day, June 30, 1906. The Pure Food and Drug Act banned selling food, drink or drugs across state lines if they were mislabeled or made impure. Harvey Wiley and the officials of his Bureau of Chemistry enforced it. In 1930 that office was renamed the Food and Drug Administration. The Meat Inspection Act required federal inspectors in meatpacking plants, set rules for cleanliness and banned false labels. The laws followed Upton Sinclair's book *The Jungle*, published in February 1906, and years of work by Wiley's team.
 
 #### Two amendments in 1913
 
-In 1894 members of Congress put a 2 percent tax on incomes over $4,000 into a tariff bill, a law setting taxes on goods brought in from other countries. The Supreme Court's justices struck the income tax down, 5 to 4. Members of Congress passed the Sixteenth Amendment on July 2, 1909. According to the National Archives, the conservatives who proposed it expected it never to be ratified. An amendment is ratified, or approved, when lawmakers or special meetings in three-quarters of the states have voted for it. The Sixteenth Amendment was ratified on February 3, 1913. Under it, Congress may tax incomes "without apportionment among the several States." That meant the money did not have to be divided among the states by population.
+**The income tax.** Members of Congress put a 2 percent tax on incomes over $4,000 into a tariff bill in 1894. A tariff is a tax on goods brought in from other countries. The Supreme Court's justices struck the income tax down, 5 to 4.
 
-The Seventeenth Amendment was ratified on April 8, 1913, when Connecticut's lawmakers voted for it and completed the three-quarters needed. Before it, the lawmakers of each state chose that state's senators. After it, the voters chose them. Augustus Bacon of Georgia was the first senator elected by the voters under the new amendment, on July 15, 1913.
+Members of Congress passed the Sixteenth Amendment on July 2, 1909. According to the National Archives, the conservatives who proposed it expected it never to be ratified. An amendment is ratified, or approved, when lawmakers or special meetings in three-quarters of the states have voted for it. The Sixteenth Amendment was ratified on February 3, 1913. Under it, Congress may tax incomes "without apportionment among the several States." That meant the money did not have to be divided among the states by population.
+
+**Senators chosen by voters.** The Seventeenth Amendment was ratified on April 8, 1913, when Connecticut's lawmakers voted for it and completed the three-quarters needed. Before it, the lawmakers of each state chose that state's senators. After it, the voters chose them. Augustus Bacon of Georgia was the first senator elected by the voters under the new amendment, on July 15, 1913.
 
 #### The grandfather clause struck down, 1915
 
 Under a 1910 amendment to Oklahoma's constitution, Black men had to pass a reading test to vote, and white men were excused from it. The amendment excused anyone who could vote "on January 1st, 1866, or at any time prior thereto." It also excused any "lineal descendant" of such a person, meaning a child or grandchild. Almost no Black man could vote before 1866, so nearly all white men were excused and Black men had to take the test. A rule like this is called a grandfather clause, because it excused a man whose grandfather could vote.
 
-Federal prosecutors, the government lawyers who bring criminal charges for the United States, charged two Oklahoma election officers, Frank Guinn and J. J. Beal, with keeping Black citizens from voting under this rule. The justices of the Supreme Court ruled against the 1866 clause in *Guinn v. United States* on June 21, 1915. They held that it was void, meaning it had no force, because it broke the Fifteenth Amendment. That amendment bars the United States and every state from denying a citizen the vote "on account of race, color, or previous condition of servitude." Chief Justice Edward White wrote the opinion, the Court's written explanation of its ruling.
+Federal prosecutors, the government lawyers who bring criminal charges for the United States, charged two Oklahoma election officers, Frank Guinn and J. J. Beal, with keeping Black citizens from voting under this rule. The justices of the Supreme Court ruled against the 1866 clause in *Guinn v. United States* on June 21, 1915.
+
+They held that it was void, meaning it had no force, because it broke the Fifteenth Amendment. That amendment bars the United States and every state from denying a citizen the vote "on account of race, color, or previous condition of servitude." Chief Justice Edward White wrote the opinion.
 
 #### Prohibition and repeal
 
@@ -14157,7 +14663,11 @@ Fourteen years later, members of Congress voted to end the ban. They passed the 
 
 #### The Nineteenth Amendment, 1920
 
-Members of the House passed the Nineteenth Amendment on May 21, 1919, and senators passed it on June 4, 1919. On August 18, 1920, Tennessee's lawmakers ratified it. Their vote made Tennessee the thirty-sixth state to ratify, which was enough. Secretary of State Bainbridge Colby certified it, or officially declared it part of the Constitution, on August 26, 1920. Its words are: "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex." Abridged means cut down. After it, no state could keep the vote for men only, as the justices had allowed in *Minor v. Happersett*.
+Members of the House passed the Nineteenth Amendment on May 21, 1919, and senators passed it on June 4, 1919. On August 18, 1920, Tennessee's lawmakers ratified it. Their vote made Tennessee the thirty-sixth state to ratify, which was enough. Secretary of State Bainbridge Colby certified it, or officially declared it part of the Constitution, on August 26, 1920.
+
+Its words are: "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex." Abridged means cut down. After it, no state could keep the vote for men only, as the justices had allowed in *Minor v. Happersett*.
+
+**By 1920:** Four amendments in seven years had given Congress the income tax, given voters the choice of their senators, banned alcohol, and barred every state from keeping the vote from women. The rules that kept Black men from voting in the South still stood, except the grandfather clause.
 
 #### Quotas, and citizenship for Native people, 1921 and 1924
 
@@ -14165,7 +14675,11 @@ In 1921 members of Congress passed the Emergency Quota Act, the first law with a
 
 In 1924 members of Congress passed the Immigration Act, which set a lower limit. It was 2 percent of the people born in each country who were living in the United States in 1890, as the census of that year counted them. A census is a count of all the people in the country. Under the 1924 act, fewer immigrants could come from Southern and Eastern Europe than before, and nearly all immigrants from Asia were barred. The total was capped at about 165,000 a year.
 
-On June 2, 1924, President Calvin Coolidge signed the Indian Citizenship Act. Under it, American Indians became citizens. It did not put them on the lists of voters, because each state's lawmakers wrote their own rules about who could vote. An Arizona law barred people "under guardianship" from voting. In 1928 the judges of the Arizona Supreme Court held that Native people on reservations were wards of the federal government, people under its guardianship. So, the judges held, the law kept them from voting. New Mexico's constitution shut out "Indians not taxed." In 1948 judges in both states ended these bans. On July 15 the Arizona Supreme Court overturned its own 1928 ruling in *Harrison v. Laveen*. Justice Levi Udall wrote that ruling. In August a federal court in New Mexico ruled in *Trujillo v. Garley* that the "Indians not taxed" rule broke the Constitution. In Utah, Native people could not vote until 1957, later than in any other state.
+**Citizens, but not voters.** President Calvin Coolidge signed the Indian Citizenship Act on June 2, 1924. Under it, American Indians became citizens. It did not put them on the lists of voters, because each state's lawmakers wrote their own rules about who could vote.
+
+An Arizona law barred people "under guardianship" from voting. In 1928 the judges of the Arizona Supreme Court held that Native people on reservations were wards of the federal government, people under its guardianship. So, the judges held, the law kept them from voting. New Mexico's constitution shut out "Indians not taxed."
+
+In 1948 judges in both states ended these bans. On July 15 the judges of the Arizona Supreme Court overturned their own 1928 ruling in *Harrison v. Laveen*. Justice Levi Udall wrote that ruling. In August a federal court in New Mexico ruled in *Trujillo v. Garley* that the "Indians not taxed" rule broke the Constitution. In Utah, Native people could not vote until 1957, later than in any other state.
 
 #### The anti-lynching bill, 1922
 
@@ -14173,31 +14687,51 @@ Lynching is murder by a mob, carried out without any trial. Members of Congress 
 
 #### Teapot Dome
 
-In the Teapot Dome case, a member of the president's cabinet leased Navy oil land to two oil men who gave him money. The cabinet is the group of officials who head the big government departments. Albert B. Fall was Secretary of the Interior under President Warren G. Harding. Fall persuaded Harding to move the Navy's oil reserves, land kept for the Navy's future oil, to the Interior Department. Secretary of the Navy Edwin Denby carried out the transfer. Fall then leased, or rented out, the Teapot Dome reserve in Wyoming to Harry F. Sinclair's Mammoth Oil company. He leased the Elk Hills reserve in California to Edward Doheny's Pan-American Petroleum. Doheny gave Fall a $100,000 "loan" with no interest. Sinclair gave him about $300,000 in cash and government bonds, papers the government promises to pay back with interest.
+In the Teapot Dome case, a member of the president's cabinet leased Navy oil land to two oil men who gave him money. The cabinet is the group of officials who head the big government departments. Albert B. Fall was Secretary of the Interior under President Warren G. Harding. Fall persuaded Harding to move the Navy's oil reserves, land kept for the Navy's future oil, to the Interior Department, and the Secretary of the Navy carried out the transfer.
 
-In October 1923 the senators on the Public Lands Committee opened an investigation. Senator John B. Kendrick of Wyoming had called for it, and Senator Thomas J. Walsh of Montana led it for about two years. Walsh found Doheny's $100,000. In 1927 the justices of the Supreme Court ruled that the oil men had gotten the leases corruptly, meaning by dishonest deals. On October 25, 1929, a jury found Fall guilty of taking a bribe from Doheny. A bribe is money given to an official in return for a favor. A judge sentenced Fall to one year in prison and a $100,000 fine. He was the first person found guilty of a crime he committed while serving in a president's cabinet. Doheny was found not guilty of paying the same bribe. Sinclair went to jail for several months, for contempt of Congress and for having the jury in his case followed. Contempt of Congress is the crime of refusing to obey Congress or one of its committees.
+**The leases and the money.** Fall then leased, or rented out, the Teapot Dome reserve in Wyoming to Harry F. Sinclair's Mammoth Oil company. He leased the Elk Hills reserve in California to Edward Doheny's Pan-American Petroleum. Doheny gave Fall a $100,000 "loan" with no interest. Sinclair gave him about $300,000 in cash and government bonds, papers the government promises to pay back with interest.
+
+**The investigation.** In October 1923 the senators on the Public Lands Committee opened an investigation. Senator Thomas J. Walsh of Montana led it for about two years, and he found Doheny's $100,000. In 1927 the justices of the Supreme Court ruled that the oil men had gotten the leases corruptly, meaning by dishonest deals.
+
+On October 25, 1929, a jury found Fall guilty of taking a bribe from Doheny. A bribe is money given to an official in return for a favor. A judge sentenced Fall to one year in prison and a $100,000 fine. He was the first person found guilty of a crime he committed while serving in a president's cabinet.
+
+Doheny was found not guilty of paying the same bribe. Sinclair went to jail for several months, for contempt of Congress, the crime of refusing to obey Congress or one of its committees, and for having the jury in his case followed.
 
 #### School law: who decides, and who pays
 
-Oregon's Compulsory Education Act of 1922 required parents to send children aged 8 to 16 to the public school in their district. Compulsory means required. The Society of the Sisters of the Holy Names of Jesus and Mary, which ran Catholic schools, sued Oregon's governor, Pierce, over the law. A second case was brought for Hill Military Academy. The justices of the Supreme Court struck the law down in *Pierce v. Society of Sisters* on June 1, 1925. Justice James McReynolds wrote that it interfered with the liberty of parents to direct their children's education. He wrote: "The child is not the mere creature of the state." He meant that a child does not belong to the government, and that the people who raise a child have the right to guide the child's future. Under that ruling, state lawmakers may require a child to be educated, but they may not require every child to attend a government school. Private schools, church schools and, later, homeschooling are all legal because of it.
+**Who decides where a child goes to school.** Oregon's Compulsory Education Act of 1922 required parents to send children aged 8 to 16 to the public school in their district. Compulsory means required. The Society of the Sisters of the Holy Names of Jesus and Mary, which ran Catholic schools, sued Oregon's governor, Pierce, over the law. A second case was brought for Hill Military Academy.
 
-On March 21, 1925, Tennessee's governor, Austin Peay, signed the Butler Act. It made it unlawful to teach in the state's public schools "any theory that denies the story of Divine Creation of man as taught in the Bible, and to teach instead that man has descended from a lower order of animals." That meant a teacher could not teach evolution, the scientific idea that living things, people included, developed over a very long time from earlier forms. Civic leaders in Dayton, Tennessee, heard that the American Civil Liberties Union would pay for a court challenge to the law. They set up a test case, a trial arranged on purpose so that a court would rule on the law. They asked John T. Scopes, a football coach and science teacher, whether biology could be taught without evolution. He said it could not, because the state's own approved textbook included it. His trial opened in Dayton on July 10, 1925, before Judge John T. Raulston. On July 21 the jury found him guilty, and he was fined $100, the smallest fine the law allowed.
+The justices of the Supreme Court struck the law down in *Pierce v. Society of Sisters* on June 1, 1925. Justice James McReynolds wrote that it interfered with the liberty of parents to direct their children's education. He wrote: "The child is not the mere creature of the state." He meant that a child does not belong to the government, and that the people who raise a child have the right to guide the child's future.
+
+Under that ruling, state lawmakers may require a child to be educated, but they may not require every child to attend a government school. Private schools, church schools and, later, homeschooling are all legal because of it.
+
+**Who decides what a teacher may teach.** Tennessee's governor, Austin Peay, signed the Butler Act on March 21, 1925. It made it unlawful to teach in the state's public schools "any theory that denies the story of Divine Creation of man as taught in the Bible, and to teach instead that man has descended from a lower order of animals." That meant a teacher could not teach evolution, the scientific idea that living things, people included, developed over a very long time from earlier forms.
+
+Civic leaders in Dayton, Tennessee, heard that the American Civil Liberties Union would pay for a court challenge to the law. They set up a test case, a trial arranged on purpose so that a court would rule on the law. They asked John T. Scopes, a football coach and science teacher, whether biology could be taught without evolution. He said it could not, because the state's own approved textbook included it.
+
+His trial opened in Dayton on July 10, 1925, before Judge John T. Raulston. On July 21 the jury found him guilty, and he was fined $100, the smallest fine the law allowed.
 
 In January 1927 the judges of the Tennessee Supreme Court threw out his conviction. The state constitution required a jury, not a judge, to set any fine over $50, and Raulston had set the fine himself. So the judges never ruled on the Butler Act itself. It stayed in force until 1967.
 
-In these years, most of the money for public schools was local money, raised in thousands of small school districts. The National Center for Education Statistics counted the shares. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. State money made up 39.8 percent that year, and federal money 2.9 percent. The number of school districts also fell, from 119,001 in 1937-38 to 83,718 in 1949-50, as small districts were merged into larger ones.
+**Who pays.** In these years, most of the money for public schools was local money, raised in thousands of small school districts. The National Center for Education Statistics counted the shares. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. State money made up 39.8 percent that year, and federal money 2.9 percent. The number of school districts also fell, from 119,001 in 1937-38 to 83,718 in 1949-50, as small districts were merged into larger ones.
 
-In June 1947 Governor Earl Warren of California signed the Anderson Bill. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
+Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
 
 #### Buck v. Bell, 1927
 
-In 1924 Virginia's lawmakers passed a law that allowed state officials to sterilize people they judged "feeble-minded" and likely to have "socially inadequate offspring." Sterilization is an operation that makes a person unable ever to have children. "Feeble-minded" was a label officials put on people they judged to be slow to learn. Offspring means children. Aubrey Strode wrote the law and then defended it in court.
+Virginia's lawmakers passed a law in 1924 that allowed state officials to sterilize people they judged "feeble-minded" and likely to have "socially inadequate offspring." Sterilization is an operation that makes a person unable ever to have children. "Feeble-minded" was a label officials put on people they judged to be slow to learn. Offspring means children. Aubrey Strode wrote the law and then defended it in court.
 
 Carrie Buck was born on July 2, 1906, in Charlottesville. She was raised by foster parents, the Dobbs family. In 1923 she became pregnant. By her own account, as Encyclopedia Virginia reports it, Clarence Garland, the foster parents' nephew, raped her. Rape means forcing a person into sex. Her foster parents believed the pregnancy showed promiscuity, meaning sex with many partners, and so showed that she was "feebleminded." On January 23, 1924, they asked a court to have her committed to a state institution, meaning sent there to live by a court's order.
 
-Her case went to a trial court under Judge Bennett T. Gordon on November 18, 1924, then to Virginia's Supreme Court of Appeals on November 12, 1925, and then to the Supreme Court. On May 2, 1927, the justices ruled 8 to 1 that Virginia's law was allowed. Justice Oliver Wendell Holmes wrote the opinion. It includes the sentence "Three generations of imbeciles are enough." Imbecile was another insulting label for a person judged slow to learn. Justice Pierce Butler dissented, meaning he disagreed with the ruling, without writing an opinion.
+**The ruling.** Her case went to a trial court under Judge Bennett T. Gordon on November 18, 1924, then to Virginia's Supreme Court of Appeals on November 12, 1925, and then to the Supreme Court. On May 2, 1927, the justices ruled 8 to 1 that Virginia's law was allowed. Justice Oliver Wendell Holmes wrote the opinion. It includes the sentence "Three generations of imbeciles are enough." Imbecile was another insulting label for a person judged slow to learn. Justice Pierce Butler dissented, meaning he disagreed with the ruling, without writing an opinion.
 
-She had been sent to the Virginia State Colony for Epileptics and Feebleminded, a state home for people who had seizures or were judged slow to learn. Dr. Albert Priddy ran it. He picked her for the operation, and on September 10, 1924, the colony's board approved it. Carrie Buck did not agree to it. Near the end of her life she said she "kicked against it," and she told the historian Paul Lombardo, "They done me wrong. They done us all wrong." On October 19, 1927, Dr. John H. Bell performed the operation on Carrie Buck. It is called a salpingectomy. He cut her fallopian tubes, the tubes that carry eggs to the womb, so that she could never become pregnant again. Between 1927 and 1972, doctors in Virginia sterilized about 8,300 people under the law. Encyclopedia Virginia names the two main operations: a vasectomy for men, which cuts the tubes that carry sperm, and a salpingectomy for women. It does not say which operation was done on each person. Virginia's lawmakers repealed the law in 1974. On May 2, 2002, Governor Mark Warner apologized for the state's program. No later group of justices has overruled *Buck v. Bell*, or cancelled it with a new ruling.
+**The operation.** She had been sent to the Virginia State Colony for Epileptics and Feebleminded, a state home for people who had seizures or were judged slow to learn. Dr. Albert Priddy ran it. He picked her for the operation, and on September 10, 1924, the colony's board approved it. Carrie Buck did not agree to it. Near the end of her life she said she "kicked against it," and she told the historian Paul Lombardo, "They done me wrong. They done us all wrong."
+
+On October 19, 1927, Dr. John H. Bell performed the operation on Carrie Buck. It is called a salpingectomy. He cut her fallopian tubes, the tubes that carry eggs to the womb, so that she could never become pregnant again.
+
+**The 8,300.** Between 1927 and 1972, doctors in Virginia sterilized about 8,300 people under the law. Encyclopedia Virginia names the two main operations: a vasectomy for men, which cuts the tubes that carry sperm, and a salpingectomy for women. It does not say which operation was done on each person. Virginia's lawmakers repealed the law in 1974. On May 2, 2002, Governor Mark Warner apologized for the state's program. No later group of justices has overruled *Buck v. Bell*, or cancelled it with a new ruling.
+
+**By 1927:** The justices had struck down the grandfather clause and allowed the sterilization law. Tennessee's teachers still could not teach evolution, and most of the money for schools was still local.
 
 <a id="story-franklin-d-roosevelt"></a>
 
@@ -14207,11 +14741,17 @@ She had been sent to the Virginia State Colony for Epileptics and Feebleminded, 
 >
 > **When and where:** Washington, D.C., 1933 to 1945. His plan for the courts went to Congress on February 5, 1937.
 
-Franklin D. Roosevelt tried to change the size of the Supreme Court after its justices struck down one of his laws. On May 27, 1935, in *Schechter Poultry Corp. v. United States*, the justices struck down part of the National Industrial Recovery Act. That part let the president approve "codes of fair competition," which were rules for whole industries. The justices held that members of Congress had given the president powers that Congress had no right to give away. They also held that the poultry business in the case was not trade between the states, so Congress could not make rules for it.
+**The justices struck down his law. He tried to add six justices.**
+
+Franklin D. Roosevelt tried to change the size of the Supreme Court after its justices struck down one of his laws. On May 27, 1935, in *Schechter Poultry Corp. v. United States*, the justices struck down part of the National Industrial Recovery Act. That part let the president approve "codes of fair competition," which were rules for whole industries.
+
+The justices held that members of Congress had given the president powers that Congress had no right to give away. They also held that the poultry business in the case was not trade between the states, so Congress could not make rules for it.
 
 On February 5, 1937, Roosevelt sent Congress a plan to reorganize the federal courts. Under the plan, the president could name one new justice to the Supreme Court for each justice over the age of 70, up to six more. The Court could have grown from nine justices to fifteen.
 
-On March 29, 1937, in *West Coast Hotel Co. v. Parrish*, the justices ruled that Washington State's minimum wage for women and minors was allowed. A minimum wage is the lowest pay the law allows, and minors are young people who are not yet adults. Soon after, they ruled that other New Deal laws were allowed too. Many people at the time believed that Roosevelt's plan had changed the justices' votes. As the historian William Leuchtenburg describes it, they believed the justices, and Justice Owen Roberts above all, had "crossed over." The legal historians G. Edward White and Barry Cushman argue against that. Court papers show that Roberts had already voted for the Washington law at the justices' private meeting on December 19, 1936, weeks before Roosevelt sent his plan to Congress.
+On March 29, 1937, in *West Coast Hotel Co. v. Parrish*, the justices ruled that Washington State's minimum wage for women and minors was allowed. A minimum wage is the lowest pay the law allows, and minors are young people who are not yet adults. Soon after, they ruled that other New Deal laws were allowed too.
+
+**Did the plan change the justices' minds?** Many people at the time believed it had. As the historian William Leuchtenburg describes it, they believed the justices, and Justice Owen Roberts above all, had "crossed over." The legal historians G. Edward White and Barry Cushman argue against that. Court papers show that Roberts had already voted for the Washington law at the justices' private meeting on December 19, 1936, weeks before Roosevelt sent his plan to Congress.
 
 On June 14, 1937, the members of the Senate Judiciary Committee told the Senate to reject the plan. They called it "needless, futile, and utterly dangerous." On July 22, 1937, the senators rejected it, 70 to 20. According to the Federal Judicial Center, Roosevelt lost a great deal of political support for proposing it.
 
@@ -14219,19 +14759,27 @@ George Washington had served two terms, and presidents after him had kept that c
 
 On June 25, 1941, he signed Executive Order 8802. An executive order is a written order from the president to the officials under him. It states: "There shall be no discrimination in the employment of workers in defense industries and in Government, because of race, creed, color, or national origin." Discrimination means treating people worse because of who they are. A creed is a religion. With the order, Roosevelt created the Committee on Fair Employment Practice. After the war, members of Congress refused to make that committee permanent.
 
-On February 19, 1942, Roosevelt signed Executive Order 9066. It let the Secretary of War and military commanders mark off military areas and shut "any or all persons" out of them. Lieutenant General John L. DeWitt, commander of the Army's Western Defense Command, used it to force people of Japanese descent from their homes. He issued Public Proclamation No. 4, an official public order, on March 29, 1942. Over six months, under his orders, about 122,000 men, women and children were forced into assembly centers, which were short-term holding places. From there they were forced into ten camps in remote parts of six western states and Arkansas. Nearly 70,000 of them were American citizens, by the count of the National Archives. None was charged with a crime, and none had any way to appeal.
+**The camps.** On February 19, 1942, Roosevelt signed Executive Order 9066. It let the Secretary of War and military commanders mark off military areas and shut "any or all persons" out of them. Lieutenant General John L. DeWitt, commander of the Army's Western Defense Command, used it to force people of Japanese descent from their homes. He issued Public Proclamation No. 4, an official public order, on March 29, 1942.
+
+Over six months, under his orders, about 122,000 men, women and children were forced into assembly centers, which were short-term holding places. From there they were forced into ten camps in remote parts of six western states and Arkansas. Nearly 70,000 of them were American citizens, by the count of the National Archives. None was charged with a crime, and none had any way to appeal.
 
 #### The courts and the camps
 
-A federal court in San Francisco found Fred Korematsu guilty of breaking the military's exclusion orders, the orders that shut people of Japanese descent out of the military areas. It gave him five years of probation, a time when a person found guilty lives under a court's watch instead of in prison. On December 18, 1944, in *Korematsu v. United States*, the justices of the Supreme Court let his conviction stand, 6 to 3. They held that forcing citizens out of their homes in wartime was justified. On the same day, in *Ex parte Endo*, all the justices agreed that federal officials could not hold a citizen whom they admitted was loyal. According to the National Archives, that ruling "paved the way for the end of mass confinement."
+A federal court in San Francisco found Fred Korematsu guilty of breaking the military's exclusion orders, the orders that shut people of Japanese descent out of the military areas. It gave him five years of probation, a time when a person found guilty lives under a court's watch instead of in prison. On December 18, 1944, in *Korematsu v. United States*, the justices of the Supreme Court let his conviction stand, 6 to 3. They held that forcing citizens out of their homes in wartime was justified.
+
+On the same day, in *Ex parte Endo*, all the justices agreed that federal officials could not hold a citizen whom they admitted was loyal. According to the National Archives, that ruling "paved the way for the end of mass confinement."
 
 In the 1980s federal judges threw out the convictions of Korematsu and others. Judge Marilyn Hall Patel vacated, or cancelled, Korematsu's conviction on November 10, 1983. In the Civil Liberties Act of 1988, members of Congress apologized for the imprisonment and voted to pay $20,000 to each person who had been held.
 
 #### Poll taxes and the white primary
 
-Under Georgia law, a voter owed a poll tax of $1 a year, and officials let no one vote who had not paid it. People under 21 or over 60, blind people, and women who did not register to vote did not have to pay. A poll tax kept anyone who could not pay it from voting. In 1890 the delegates who wrote Mississippi's constitution had added one as part of their plan to stop Black men from voting. Nolan Breedlove sued Georgia's tax collector, T. Earl Suttles. All the justices of the Supreme Court ruled that the tax was allowed, in *Breedlove v. Suttles* on December 6, 1937. Justice Pierce Butler wrote that "the equal protection clause does not require absolute equality." The equal protection clause is the part of the Fourteenth Amendment that requires states to treat people equally under the law.
+**The poll tax.** Under Georgia law, a voter owed a poll tax of $1 a year, and officials let no one vote who had not paid it. People under 21 or over 60, blind people, and women who did not register to vote did not have to pay. A poll tax kept anyone who could not pay it from voting. In 1890 the delegates who wrote Mississippi's constitution had added one as part of their plan to stop Black men from voting.
 
-In Texas, the Democratic Party was the only party that won elections, so its primary was the election that counted. A primary is the election in which a party chooses its candidates. On May 24, 1932, the leaders of the Texas Democratic Party voted that only "white citizens" could be members. The election judges of precinct 48 in Harris County refused Lonnie Smith, a Black voter, a ballot in the primary. A precinct is one small voting area. Smith sued one of those judges, a man named Allwright, and the others. In *Smith v. Allwright*, decided on April 3, 1944, the justices held that the party's leaders were acting for the state when they ran the primary. Keeping Black voters out of it therefore broke the Fifteenth Amendment. Justice Stanley Reed wrote the opinion. Justice Owen Roberts dissented.
+Nolan Breedlove sued Georgia's tax collector, T. Earl Suttles. All the justices of the Supreme Court ruled that the tax was allowed, in *Breedlove v. Suttles* on December 6, 1937. Justice Pierce Butler wrote that "the equal protection clause does not require absolute equality." The equal protection clause is the part of the Fourteenth Amendment that requires states to treat people equally under the law.
+
+**The white primary.** In Texas, the Democratic Party was the only party that won elections, so its primary was the election that counted. A primary is the election in which a party chooses its candidates. On May 24, 1932, the leaders of the Texas Democratic Party voted that only "white citizens" could be members. The election judges of precinct 48 in Harris County refused Lonnie Smith, a Black voter, a ballot in the primary. A precinct is one small voting area. Smith sued one of those judges, a man named Allwright, and the others.
+
+In *Smith v. Allwright*, decided on April 3, 1944, the justices held that the party's leaders were acting for the state when they ran the primary. Keeping Black voters out of it therefore broke the Fifteenth Amendment. Justice Stanley Reed wrote the opinion. Justice Owen Roberts dissented.
 
 #### 1948: the armed forces, refugees and conventions on television
 
@@ -14239,21 +14787,35 @@ On July 26, 1948, President Harry Truman signed Executive Order 9981. It states:
 
 The Displaced Persons Act of 1948 was the first American law for refugees, people forced from their home countries. It first allowed 200,000 Europeans who had lost their homes in the war to come to the United States. Members of Congress raised the number later. Between 1948 and 1952 about 350,000 to 400,000 people came in under it.
 
-In 1948 both major parties held their national conventions in Philadelphia, and television networks broadcast them. A national convention is a large meeting of a party. Delegates, the people each state's party sends, choose the party's candidate for president there. They also write its platform, the list of positions it stands for. The National Constitution Center puts the television audience at as many as 10 million viewers on the East Coast. On July 12, 1948, after a speech by Hubert Humphrey, the Democratic delegates added a civil rights plank to their platform. A plank is one position in a platform. Civil rights are the rights every citizen has to equal treatment under the law. Two Southern delegations walked out on live television. On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Segregation means keeping people of different races apart. Thurmond won four states and 39 electoral votes. Electoral votes are the votes for president cast by electors, the people chosen in each state for that job.
+Both major parties held their national conventions in Philadelphia in 1948, and television networks broadcast them. A national convention is a large meeting of a party. Delegates, the people each state's party sends, choose the party's candidate for president there. They also write its platform, the list of positions it stands for. The National Constitution Center puts the television audience at as many as 10 million viewers on the East Coast.
+
+On July 12, 1948, after a speech by Hubert Humphrey, the Democratic delegates added a civil rights plank to their platform. A plank is one position in a platform. Civil rights are the rights every citizen has to equal treatment under the law. Two Southern delegations walked out on live television.
+
+On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Segregation means keeping people of different races apart. Thurmond won four states and 39 electoral votes.
+
+**If you remember one thing:** In this era the justices allowed a state to sterilize people who had not agreed to it and allowed the Army to force 122,000 people into camps, and later officials apologized for both.
+About 122,000 men, women and children of Japanese descent were forced into camps in 1942, nearly 70,000 of them American citizens, more than half. None was charged with a crime. In 1988 members of Congress apologized and voted to pay each person who had been held $20,000. Virginia's governor apologized for the sterilizations in 2002. No later justices have overruled *Buck v. Bell*.
+**Next:** In 1954 the same Court ruled that segregated schools broke the Constitution, and the fight moved to how fast anything had to change.
 
 ### 1950 to 2000
 
-From 1954 to 1977, the justices of the Supreme Court decided cases on schools, on how votes and voting districts were counted, and on how police question people they arrest. In 1964 and 1965, members of Congress passed two laws. One banned segregation in public places. Under the other, officials in some states and counties had to ask federal officials before changing any voting rule. Five amendments were added to the Constitution between 1951 and 1971. In 1974 President Richard Nixon resigned before members of the House could vote to impeach him. To impeach a president is to charge him formally with wrongdoing, which leads to a trial in the Senate. In 1998 the members of the House impeached President Bill Clinton, and the senators found him not guilty.
+**Era 9 of 10 · 1950 to 2000 · about 25 minutes**
+
+A senator with a brain tumor, unable to speak, pointed to his eye to vote "aye" on June 10, 1964, and the Senate cut off debate on a civil rights bill for the first time. That law banned segregation in public places. Under a second law, in 1965, officials in some states and counties had to ask federal officials before changing any voting rule. Between 1954 and 1977 the justices of the Supreme Court decided cases on schools, on how votes and voting districts were counted, and on how police question people they arrest.
+
+Five amendments were added to the Constitution between 1951 and 1971. In 1974 President Richard Nixon resigned before members of the House could vote to impeach him. To impeach a president is to charge him formally with wrongdoing, which leads to a trial in the Senate. In 1998 the members of the House impeached President Bill Clinton, and the senators found him not guilty.
 
 #### Five amendments, 1951 to 1971
 
 Each of the five amendments added between 1951 and 1971 governs who holds office or who votes.
 
-Since the Twenty-second Amendment was ratified on February 27, 1951, "No person shall be elected to the office of the President more than twice." Before it, Washington's two terms had been a custom, and Franklin Roosevelt had broken it.
+Since the Twenty-second Amendment was ratified on February 27, 1951, "No person shall be elected to the office of the President more than twice." Before it, Washington's two terms had been a custom, and Franklin Roosevelt had broken it. Members of Congress proposed the amendment in 1947, and Minnesota's lawmakers made it the thirty-sixth state to approve it.
 
 The District of Columbia, the capital city, got electors in presidential elections through the Twenty-third Amendment, ratified on March 29, 1961. The District got no senators and no voting member of the House.
 
-Ratified on January 23, 1964, the Twenty-fourth Amendment bans poll taxes only in elections for president, vice president, senator and representative. A state could still charge a poll tax in its own elections. Then, on March 24, 1966, in *Harper v. Virginia State Board of Elections*, the justices of the Supreme Court struck down state poll taxes too. Virginia's constitution had set a poll tax of up to $1.50 a year. Justice William O. Douglas wrote that making "the affluence of the voter or payment of any fee an electoral standard" breaks the Equal Protection Clause. Affluence means wealth.
+The Twenty-fourth Amendment, ratified on January 23, 1964, bans poll taxes only in elections for president, vice president, senator and representative. A state could still charge a poll tax in its own elections.
+
+Then, on March 24, 1966, in *Harper v. Virginia State Board of Elections*, the justices of the Supreme Court struck down state poll taxes too. Virginia's constitution had set a poll tax of up to $1.50 a year. Justice William O. Douglas wrote that making "the affluence of the voter or payment of any fee an electoral standard" breaks the Equal Protection Clause. Affluence means wealth.
 
 The Twenty-fifth Amendment was ratified on February 10, 1967. It states what happens when a president dies, resigns or is removed. It also sets out a way to fill an empty vice presidency: the president names someone, and the members of both houses of Congress vote to confirm, or approve, the choice.
 
@@ -14263,7 +14825,9 @@ Eighteen-year-olds got the vote under the Twenty-sixth Amendment. It was ratifie
 
 On May 17, 1954, in *Brown v. Board of Education*, the justices of the Supreme Court held that segregated public schools broke the Constitution. The ruling did not state how or when to end segregation.
 
-A year later, on May 31, 1955, they decided a second case, often called *Brown* II. Chief Justice Earl Warren wrote for a unanimous Court, meaning every justice agreed. The justices sent the cases back to federal district judges, the judges of the lowest federal courts. They told school boards to make "a prompt and reasonable start toward full compliance." Compliance means obeying the ruling. They ordered the judges to admit the children who had sued to public schools "on a racially nondiscriminatory basis with all deliberate speed." A racially nondiscriminatory basis meant that no child could be turned away because of race. Deliberate means careful and unhurried, so under those words school boards could move slowly. The order set no date. School board members who moved slowly were not clearly breaking it.
+A year later, on May 31, 1955, they decided a second case, often called *Brown* II. Chief Justice Earl Warren wrote for a unanimous Court, meaning every justice agreed. The justices sent the cases back to federal district judges, the judges of the lowest federal courts. They told school boards to make "a prompt and reasonable start toward full compliance." Compliance means obeying the ruling.
+
+They ordered the judges to admit the children who had sued to public schools "on a racially nondiscriminatory basis with all deliberate speed." A racially nondiscriminatory basis meant that no child could be turned away because of race. Deliberate means careful and unhurried, so under those words school boards could move slowly. The order set no date. School board members who moved slowly were not clearly breaking it.
 
 <a id="story-thurgood-marshall"></a>
 
@@ -14273,21 +14837,31 @@ A year later, on May 31, 1955, they decided a second case, often called *Brown* 
 >
 > **When and where:** Baltimore, New York and Washington, D.C. Born 1908. Died 1993.
 
-Thurgood Marshall held four jobs in the American legal system. He ran the Legal Defense and Educational Fund of the NAACP, the National Association for the Advancement of Colored People. Colored was a word used then for Black people. Then he was a federal appeals judge, then Solicitor General, the officer who argues the government's own cases in the Supreme Court, and then a justice of the Supreme Court. He was the first Black justice. He was born in Baltimore, Maryland, on July 2, 1908. He wanted to study law at the University of Maryland, and officials at the law school turned him away because he was Black. He went to Howard University's law school instead and graduated first in his class in 1933. One of his first cases, *Murray v. Pearson*, ended with Maryland's judges ordering that same law school to admit Black students. The Maryland Court of Appeals ruled in the case on January 15, 1936.
+**The law school that turned him away had to admit Black students three years later.**
 
-From 1940 to 1961 he ran the NAACP Legal Defense and Educational Fund, a law office whose lawyers took civil rights cases to court. The NAACP's own history says he argued 32 cases in the Supreme Court in those years and won 29. The *New York Times* counted his record another way when he died. It said he argued 32 cases in the Supreme Court before he became a justice, 14 as a private lawyer and 18 as Solicitor General, and won 29. His NAACP cases included *Smith v. Allwright* in 1944, *Morgan v. Virginia* in 1946 on segregated buses between states, *Sweatt v. Painter* in 1950 on the University of Texas law school, and *Brown v. Board of Education* in 1954.
+Thurgood Marshall wanted to study law at the University of Maryland, and officials at the law school turned him away because he was Black. He went to Howard University's law school instead and graduated first in his class in 1933. One of his first cases, *Murray v. Pearson*, ended with Maryland's judges ordering that same law school to admit Black students. The Maryland Court of Appeals ruled in the case on January 15, 1936.
+
+He went on to hold four jobs in the American legal system. He ran the Legal Defense and Educational Fund of the NAACP, the National Association for the Advancement of Colored People. Colored was a word used then for Black people. Then he was a federal appeals judge, then Solicitor General, the officer who argues the government's own cases in the Supreme Court, and then a justice of the Supreme Court. He was the first Black justice.
+
+From 1940 to 1961 he ran the NAACP Legal Defense and Educational Fund, a law office whose lawyers took civil rights cases to court. The NAACP's own history says he argued 32 cases in the Supreme Court in those years and won 29. The *New York Times* counted his record another way when he died. It said he argued 32 cases in the Supreme Court before he became a justice, 14 as a private lawyer and 18 as Solicitor General, and won 29.
+
+His NAACP cases included *Smith v. Allwright* in 1944, *Morgan v. Virginia* in 1946 on segregated buses between states, *Sweatt v. Painter* in 1950 on the University of Texas law school, and *Brown v. Board of Education* in 1954.
 
 On October 5, 1961, President John F. Kennedy made Marshall a judge of the United States Court of Appeals for the Second Circuit, a court that hears appeals from trial courts. He did it by recess appointment, which means a president fills the seat while the Senate is away. A recess appointment ends unless the senators confirm it. Southern senators opposed Marshall, and the senators did not confirm him until September 11, 1962, eleven months later.
 
 On August 23, 1965, he left that court to become Solicitor General of the United States. The National Park Service says he won 14 of the 19 cases he argued in that job. The two counts of his cases as Solicitor General differ by one: 18 in the *Times*, 19 by the Park Service.
 
-President Lyndon Johnson nominated him, or named him, to the Supreme Court on June 13, 1967, for the seat Tom C. Clark had left. The senators confirmed him on August 30, 1967. He took the oath as a justice on October 2, 1967. He took senior status, which meant he stopped full-time work on the Court, on October 1, 1991. He died on January 24, 1993.
+President Lyndon Johnson nominated him, or named him, to the Supreme Court on June 13, 1967. The senators confirmed him on August 30, 1967, and he took the oath as a justice on October 2. He stopped full-time work on the Court on October 1, 1991, and died on January 24, 1993.
 
 After his death, Chief Justice William Rehnquist said most justices are remembered for their work on the Court. "Justice Marshall, however, is unique because his contributions to constitutional law before becoming a member of the Court were so significant."
 
 #### Prayer and the Bible in public schools, 1962 and 1963
 
-The members of the New York State Board of Regents, the officials who oversaw the state's schools, wrote a prayer for public school children to say each morning. It read: "Almighty God, we acknowledge our dependence upon Thee, and we beg Thy blessings upon us, our parents, our teachers and our Country." No child had to say it. On June 25, 1962, in *Engel v. Vitale*, the justices of the Supreme Court held the prayer unconstitutional anyway, 6 to 1. Unconstitutional means against the Constitution. The justices ruled against the prayer because government officials had written it. The prayer was short and a child could stay silent, and the justices held that neither fact changed the ruling. Justice Hugo Black wrote that the First Amendment's ban on establishing a religion, meaning setting up an official religion, "must at least mean that in this country it is no part of the business of government to compose official prayers for any group."
+The members of the New York State Board of Regents, the officials who oversaw the state's schools, wrote a prayer for public school children to say each morning. It read: "Almighty God, we acknowledge our dependence upon Thee, and we beg Thy blessings upon us, our parents, our teachers and our Country." No child had to say it.
+
+On June 25, 1962, in *Engel v. Vitale*, the justices of the Supreme Court held the prayer unconstitutional anyway, 6 to 1. Unconstitutional means against the Constitution. The justices ruled against the prayer because government officials had written it.
+
+The prayer was short and a child could stay silent, and the justices held that neither fact changed the ruling. Justice Hugo Black wrote that the First Amendment's ban on establishing a religion, meaning setting up an official religion, "must at least mean that in this country it is no part of the business of government to compose official prayers for any group."
 
 The justices decided two more cases together in *Abington School District v. Schempp* on June 17, 1963. In Pennsylvania's public schools, the school day opened with Bible readings. In the Baltimore city schools, children said the Lord's Prayer together. The justices struck down both. Justice Tom Clark wrote the opinion, and Justice Potter Stewart was the only one to dissent.
 
@@ -14295,7 +14869,9 @@ The justices decided two more cases together in *Abington School District v. Sch
 
 Under Georgia's county unit system for statewide elections, the candidate who won a county got all of that county's unit votes. So a vote in a small rural county counted many times as much as a vote in a city. The justices struck the system down, 8 to 1, in *Gray v. Sanders* on March 18, 1963. Justice William O. Douglas wrote: "The conception of political equality from the Declaration of Independence, to Lincoln's Gettysburg Address, to the Fifteenth, Seventeenth, and Nineteenth Amendments can mean only one thing." He ended the sentence with the words "one person, one vote."
 
-On June 15, 1964, in *Reynolds v. Sims*, the justices applied the same rule to the lawmaking bodies of the states. Alabama's lawmakers had not redrawn the lines of the state's legislative districts, the areas that elect the state's lawmakers, since 1901. They still used the 1900 census. By 1960, 25.1 percent of Alabamians could elect a majority of the state senate. In the worst case, one senate district had about 41 times as many people as another. Chief Justice Earl Warren wrote the opinion. Under it, districts had to hold about equal numbers of people, and lawmakers in almost every state had to redraw their districts.
+On June 15, 1964, in *Reynolds v. Sims*, the justices applied the same rule to the lawmaking bodies of the states. Alabama's lawmakers had not redrawn the lines of the state's legislative districts, the areas that elect the state's lawmakers, since 1901. They still used the 1900 census. By 1960, 25.1 percent of Alabamians could elect a majority of the state senate. In the worst case, one senate district had about 41 times as many people as another.
+
+Chief Justice Earl Warren wrote the opinion. Under it, districts had to hold about equal numbers of people, and lawmakers in almost every state had to redraw their districts.
 
 <a id="story-lyndon-b-johnson"></a>
 
@@ -14305,11 +14881,19 @@ On June 15, 1964, in *Reynolds v. Sims*, the justices applied the same rule to t
 >
 > **When and where:** Texas and Washington, D.C., 1948 to 1969.
 
+**Eighty-seven votes out of nearly a million. "Landslide Lyndon."**
+
 Lyndon Johnson reached the Senate in 1948 by 87 votes, out of nearly a million cast. That was his final margin over Coke Stevenson in the Texas Democratic runoff, a second election between the top two candidates in the party's primary. A landslide is a win by a huge margin. For the rest of his life people called him "Landslide Lyndon."
 
-On the night of the runoff, Johnson seemed to have lost. Six days after the polls closed, an election judge named Luis Salas reported 202 more votes from Precinct 13 in Jim Wells County. Of them, 200 were for Johnson and 2 for Stevenson. He had changed the total on the tally sheet from 765 to 965. The added names were in alphabetical order, in the same ink and the same handwriting. Some of the people listed said they had not voted that day. The members of the state party's executive committee voted 29 to 28 to declare Johnson the winner. A federal judge, T. Whitfield Davidson, blocked that result. Then Supreme Court Justice Hugo Black, acting alone, ruled for Johnson. He ruled aloud on September 28, 1948, and in writing the next day. Johnson's name went on the ballot. In 1977 Salas told a reporter, James Mangan of the Associated Press, that the local political boss, George B. Parr, had ordered about 200 votes added. No court ever ruled that the votes were forged, and Johnson was never charged.
+**Precinct 13.** On the night of the runoff, Johnson seemed to have lost. Six days after the polls closed, an election judge named Luis Salas reported 202 more votes from Precinct 13 in Jim Wells County. Of them, 200 were for Johnson and 2 for Stevenson. He had changed the total on the tally sheet from 765 to 965. The added names were in alphabetical order, in the same ink and the same handwriting. Some of the people listed said they had not voted that day.
 
-Johnson became his party's whip in the Senate in 1951. The whip counts votes and keeps party members in line. In 1953 he became its minority leader, the leader of the smaller party, and from 1955 to 1961 he was majority leader, the leader of the larger party. At 45, still in his first term, he was the youngest party leader the Senate had ever had. The Senate's historians describe how he worked on other senators. He stood close to a senator's face and pulled "clippings, memos, statistics" out of his pockets. The Senate's historians list the tones he used on other senators: begging, accusing, coaxing, high spirits, scorn, tears, complaint and "the hint of threat."
+The members of the state party's executive committee voted 29 to 28 to declare Johnson the winner. A federal judge, T. Whitfield Davidson, blocked that result. Then Supreme Court Justice Hugo Black, acting alone, ruled for Johnson. He ruled aloud on September 28, 1948, and in writing the next day. Johnson's name went on the ballot.
+
+In 1977 Salas told a reporter, James Mangan of the Associated Press, that the local political boss, George B. Parr, had ordered about 200 votes added. No court ever ruled that the votes were forged, and Johnson was never charged.
+
+**The vote counter.** Johnson became his party's whip in the Senate in 1951. The whip counts votes and keeps party members in line. In 1953 he became its minority leader, the leader of the smaller party, and from 1955 to 1961 he was majority leader, the leader of the larger party. At 45, still in his first term, he was the youngest party leader the Senate had ever had.
+
+The Senate's historians describe how he worked on other senators. He stood close to a senator's face and pulled "clippings, memos, statistics" out of his pockets. They list the tones he used: begging, accusing, coaxing, high spirits, scorn, tears, complaint and "the hint of threat."
 
 In 1957 he pushed through the first civil rights law since Reconstruction, the years after the Civil War. He wanted it passed, but he feared a long filibuster would split his party. A filibuster is a way of blocking a bill by talking on and on so that no vote can happen. To get the bill through, he took out its main enforcement sections. Members of Congress passed it without them. According to the Senate's own history, very little changed because of it.
 
@@ -14317,11 +14901,19 @@ As president, Johnson signed the Civil Rights Act on July 2, 1964. On April 11, 
 
 #### How the civil rights laws passed
 
-Southern senators led by Richard Russell of Georgia tried to block the Civil Rights Act of 1964 with a filibuster. They held the Senate floor, meaning they kept talking so that no vote could happen, for 60 working days, including seven Saturdays. On June 10, 1964, the senators voted 71 to 29 for cloture, the motion that ends debate. It was the first time senators had ever cut off debate on a civil rights bill. Senator Clair Engle of California had a brain tumor and could not speak. He raised his weakened arm and pointed to his eye to vote aye, which means yes. The senators passed the bill 73 to 27 on June 19.
+**The filibuster.** Southern senators led by Richard Russell of Georgia tried to block the Civil Rights Act of 1964 with a filibuster. They held the Senate floor, meaning they kept talking so that no vote could happen, for 60 working days, including seven Saturdays. On June 10, 1964, the senators voted 71 to 29 for cloture, the motion that ends debate. It was the first time senators had ever cut off debate on a civil rights bill.
 
-The act has ten parts, called titles. Title II bans segregation in places that serve the public. Its words are: "All persons shall be entitled to the full and equal enjoyment of the goods, services, facilities, and privileges ... of any place of public accommodation ... without discrimination or segregation." Title VI bans discrimination in any program paid for with federal money. Later, federal officials used Title VI to cut off money to school districts that stayed segregated. Title VII bans discrimination in jobs. In Title VII, members of Congress also created the Equal Employment Opportunity Commission.
+Senator Clair Engle of California had a brain tumor and could not speak. He raised his weakened arm and pointed to his eye to vote aye, which means yes. The senators passed the bill 73 to 27 on June 19.
 
-Section 4 of the Voting Rights Act of 1965 contains a formula for which places were covered. A state or county was covered if it had used a literacy test, a reading test for voters, or a similar device on November 1, 1964. It also had to have fewer than half of its voting-age people registered or voting in the 1964 presidential election. Under Section 5, officials in every covered place had to get permission before changing any voting rule at all. The permission had to come from the Attorney General, the head of the Justice Department, or from a federal court in Washington. By the end of 1965, a quarter of a million new Black voters had been registered, one-third of them by federal examiners, according to the National Archives.
+**What the 1964 act says.** The act has ten parts, called titles. Title II bans segregation in places that serve the public. Its words are: "All persons shall be entitled to the full and equal enjoyment of the goods, services, facilities, and privileges ... of any place of public accommodation ... without discrimination or segregation." Title VI bans discrimination in any program paid for with federal money.
+
+Later, federal officials used Title VI to cut off money to school districts that stayed segregated. Title VII bans discrimination in jobs. In Title VII, members of Congress also created the Equal Employment Opportunity Commission.
+
+**What the 1965 act says.** Section 4 of the Voting Rights Act of 1965 contains a formula for which places were covered. A state or county was covered if it had used a literacy test, a reading test for voters, or a similar device on November 1, 1964. It also had to have fewer than half of its voting-age people registered or voting in the 1964 presidential election.
+
+Under Section 5, officials in every covered place had to get permission before changing any voting rule at all. The permission had to come from the Attorney General, the head of the Justice Department, or from a federal court in Washington. By the end of 1965, a quarter of a million new Black voters had been registered, one-third of them by federal examiners, according to the National Archives.
+
+**By 1965:** The justices had ruled that segregated schools, official school prayers and unequal voting districts all broke the Constitution. Members of Congress had passed the two civil rights laws, and federal examiners were registering Black voters in the South.
 
 #### Federal money for schools, 1965
 
@@ -14331,7 +14923,9 @@ Under Title I of the act, federal officials send money to school districts accor
 
 #### Immigration law after 1965
 
-In 1965 members of Congress passed the Immigration and Nationality Act. Under it, the national quotas set in the 1920s ended, and officials admitted immigrants on the basis of family ties and skills. The act also set the first cap on immigration from the Americas. The Refugee Act of 1980 set out a permanent system for admitting refugees. The Immigration Reform and Control Act became law on November 6, 1986. Under it, about 2.7 million people who had lived in the country for years without permission got legal status, meaning the right to stay. The act also set penalties for employers who hired workers without permission to work.
+Members of Congress passed the Immigration and Nationality Act in 1965. Under it, the national quotas set in the 1920s ended, and officials admitted immigrants on the basis of family ties and skills. The act also set the first cap on immigration from the Americas.
+
+The Refugee Act of 1980 set out a permanent system for admitting refugees. The Immigration Reform and Control Act became law on November 6, 1986. Under it, about 2.7 million people who had lived in the country for years without permission got legal status, meaning the right to stay. The act also set penalties for employers who hired workers without permission to work.
 
 #### Miranda v. Arizona, 1966
 
@@ -14341,43 +14935,79 @@ The justices of the Supreme Court set a rule for police in *Miranda v. Arizona* 
 
 #### School law in the 1970s
 
-Wisconsin law required children to attend school until age 16. Three fathers did not send their children to high school after the eighth grade. Jonas Yoder and Wallace Miller belonged to the Old Order Amish church, and Adin Yutzy to the Conservative Amish Mennonite church. Their children were Frieda Yoder and Barbara Miller, both 15, and Vernon Yutzy, 14. Each father was fined $5. The justices of the Supreme Court held 6 to 1 in *Wisconsin v. Yoder*, on May 15, 1972, that Wisconsin officials could not make the fathers send their children to high school. Chief Justice Warren Burger wrote the opinion. The justices found that the families' way of life was a religious practice, lived every day and centuries old. They held that Wisconsin's officials had not shown that two more years of school mattered enough to override that practice, which the First Amendment protects.
+**The Amish fathers.** Wisconsin law required children to attend school until age 16. Three fathers did not send their children to high school after the eighth grade. Jonas Yoder and Wallace Miller belonged to the Old Order Amish church, and Adin Yutzy to the Conservative Amish Mennonite church. Their children were Frieda Yoder and Barbara Miller, both 15, and Vernon Yutzy, 14. Each father was fined $5.
 
-The Education Amendments of 1972 became law on June 23, 1972. Title IX of that law states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance." That means a school or college that gets federal money may not treat a student worse because the student is a girl or a boy.
+The justices of the Supreme Court held 6 to 1 in *Wisconsin v. Yoder*, on May 15, 1972, that Wisconsin officials could not make the fathers send their children to high school. Chief Justice Warren Burger wrote the opinion. The justices found that the families' way of life was a religious practice, lived every day and centuries old. They held that Wisconsin's officials had not shown that two more years of school mattered enough to override that practice, which the First Amendment protects.
 
-Texas schools were paid for partly with local property taxes. A property tax is a tax on the value of land and buildings. In the school year 1967-68, two school districts in San Antonio spent different amounts on each pupil. Edgewood, whose students were mostly Mexican American, spent $356 on each pupil. Alamo Heights spent $594. In *San Antonio Independent School District v. Rodriguez*, on March 21, 1973, the justices decided 5 to 4 that education is not a fundamental right. A fundamental right is a right the Constitution itself protects. They found no right to education written in the Constitution or clearly implied by it. Justice Lewis Powell wrote the opinion. Texas officials only had to show that their way of paying for schools was rational, meaning it had a sensible reason. Keeping schools under local control counted as a sensible reason. After 1973, people who sued over unequal school money had to go to state courts, under state constitutions.
+**Title IX.** The Education Amendments of 1972 became law on June 23, 1972. Title IX of that law states: "No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance." That means a school or college that gets federal money may not treat a student worse because the student is a girl or a boy.
 
-On November 29, 1975, President Gerald Ford signed the Education for All Handicapped Children Act. Handicapped is an older word for disabled. Under the act, every child with a disability had a right to a free, appropriate public education. The Department of Education's history of the law states that in 1970, schools in the United States educated only one in five children with disabilities. It also states that members of Congress were concerned about "the more than 1 million children with disabilities excluded entirely from the education system." The history also records that under the laws of many states, certain children were not allowed in school. Those laws applied to children who were deaf or blind. They also applied to children with an intellectual disability, a condition that makes learning and thinking much harder, and to children who were emotionally disturbed, meaning they had serious trouble controlling their feelings and behavior.
+**Is education a right?** Texas schools were paid for partly with local property taxes. A property tax is a tax on the value of land and buildings. In the school year 1967-68, two school districts in San Antonio spent different amounts on each pupil. Edgewood, whose students were mostly Mexican American, spent $356 on each pupil. Alamo Heights spent $594.
 
-In October 1970, James Ingraham was a student at Drew Junior High School in Dade County, Florida. Because he was slow to follow a teacher's instructions, he was held over a table in the principal's office and hit more than 20 times with a wooden paddle. School policy allowed one to five blows, called licks, on the buttocks with a flat wooden paddle less than two feet long, three to four inches wide and about half an inch thick. The beating raised a hematoma, a pocket of blood under the skin. He needed a doctor, and he missed school for several days. His family sued three school officials: the principal, Willie J. Wright, an assistant principal, Lemmie Deliford, and an assistant to the principal, Solomon Barnes. The Supreme Court's opinion does not say who held him or who struck him. Another student, Roosevelt Andrews, was paddled several times for small offenses. Once he was hit on the arms and lost the full use of an arm for a week. The opinion does not say who struck him either.
+In *San Antonio Independent School District v. Rodriguez*, on March 21, 1973, the justices decided 5 to 4 that education is not a fundamental right. A fundamental right is a right the Constitution itself protects. They found no right to education written in the Constitution or clearly implied by it. Justice Lewis Powell wrote the opinion.
 
-The justices decided *Ingraham v. Wright* 5 to 4 on April 19, 1977. They held that the Eighth Amendment's ban on "cruel and unusual punishments" does not cover school discipline. They wrote that it "was designed to protect those convicted of crimes." They also held that school staff do not have to give a child a hearing, a chance to tell his side, before hitting him, because the child can sue afterward if the beating was too severe. The Constitution, as the justices read it, did not forbid paddling in schools. So paddling ended only in states where lawmakers voted to end it, one state at a time.
+Texas officials only had to show that their way of paying for schools was rational, meaning it had a sensible reason. Keeping schools under local control counted as a sensible reason. After 1973, people who sued over unequal school money had to go to state courts, under state constitutions.
+
+**Children with disabilities.** President Gerald Ford signed the Education for All Handicapped Children Act on November 29, 1975. Handicapped is an older word for disabled. Under the act, every child with a disability had a right to a free, appropriate public education.
+
+The Department of Education's history of the law states that in 1970, schools in the United States educated only one in five children with disabilities. It also states that members of Congress were concerned about "the more than 1 million children with disabilities excluded entirely from the education system."
+
+The history also records that under the laws of many states, certain children were not allowed in school. Those laws applied to children who were deaf or blind. They also applied to children with an intellectual disability, a condition that makes learning and thinking much harder, and to children who were emotionally disturbed, meaning they had serious trouble controlling their feelings and behavior.
+
+**The paddle.** In October 1970, James Ingraham was a student at Drew Junior High School in Dade County, Florida. Because he was slow to follow a teacher's instructions, he was held over a table in the principal's office and hit more than 20 times with a wooden paddle. School policy allowed one to five blows, called licks, on the buttocks with a flat wooden paddle less than two feet long, three to four inches wide and about half an inch thick.
+
+The beating raised a hematoma, a pocket of blood under the skin. He needed a doctor, and he missed school for several days.
+
+His family sued three school officials: the principal, Willie J. Wright, an assistant principal, Lemmie Deliford, and an assistant to the principal, Solomon Barnes. The Supreme Court's opinion does not say who held him or who struck him. Another student, Roosevelt Andrews, was paddled several times for small offenses. Once he was hit on the arms and lost the full use of an arm for a week. The opinion does not say who struck him either.
+
+The justices decided *Ingraham v. Wright* 5 to 4 on April 19, 1977. They held that the Eighth Amendment's ban on "cruel and unusual punishments" does not cover school discipline. They wrote that it "was designed to protect those convicted of crimes."
+
+They also held that school staff do not have to give a child a hearing, a chance to tell his side, before hitting him, because the child can sue afterward if the beating was too severe. The Constitution, as the justices read it, did not forbid paddling in schools. So paddling ended only in states where lawmakers voted to end it, one state at a time.
+
+**By 1977:** The justices had let Amish children leave school after eighth grade, had refused to call education a right, and had let school staff go on paddling. Members of Congress had opened schools to every child with a disability and barred schools that take federal money from treating girls worse than boys.
 
 #### Congress and the president: war powers and Watergate
 
-In 1973 members of Congress passed the War Powers Resolution, a law that limits how long a president may keep troops fighting without the approval of Congress. President Nixon vetoed it, meaning he rejected it, on October 24, 1973. On November 7, 1973, the representatives voted 284 to 135 and the senators voted 75 to 18 to override the veto, which made it law without his signature. Under it, when a president sends troops into fighting without a declaration of war, he must report to Congress in writing within 48 hours. Within 60 days he must end the fighting unless members of Congress declare war, vote to approve it or give more time.
+**War powers.** Members of Congress passed the War Powers Resolution in 1973, a law that limits how long a president may keep troops fighting without the approval of Congress. President Nixon vetoed it, meaning he rejected it, on October 24, 1973. On November 7, 1973, the representatives voted 284 to 135 and the senators voted 75 to 18 to override the veto, which made it law without his signature.
 
-Early on June 17, 1972, five men broke into the offices of the Democratic National Committee at the Watergate building in Washington, D.C. Police arrested them with cash and equipment for spying on the offices. Investigators later tied them to Nixon's re-election campaign. Officials in Nixon's White House at first denied any link. The break-in and the scandal that followed are called Watergate. A scandal is wrongdoing that becomes publicly known.
+Under it, when a president sends troops into fighting without a declaration of war, he must report to Congress in writing within 48 hours. Within 60 days he must end the fighting unless members of Congress declare war, vote to approve it or give more time.
 
-On February 7, 1973, the senators voted to create a committee to investigate, led by Sam Ervin of North Carolina. A White House aide, Alexander Butterfield, told the committee that the president kept a tape recorder in rooms of the White House that switched on at the sound of a voice. In October 1973 Nixon ordered Attorney General Elliott Richardson to fire the special prosecutor, Archibald Cox, a lawyer named to investigate the case, who had demanded the tapes. Richardson and his deputy resigned in protest over Nixon's order.
+**The break-in.** Early on June 17, 1972, five men broke into the offices of the Democratic National Committee at the Watergate building in Washington, D.C. Police arrested them with cash and equipment for spying on the offices. Investigators later tied them to Nixon's re-election campaign. Officials in Nixon's White House at first denied any link. The break-in and the scandal that followed are called Watergate. A scandal is wrongdoing that becomes publicly known.
+
+**The tapes.** On February 7, 1973, the senators voted to create a committee to investigate, led by Sam Ervin of North Carolina. A White House aide, Alexander Butterfield, told the committee that the president kept a tape recorder in rooms of the White House that switched on at the sound of a voice. In October 1973 Nixon ordered Attorney General Elliott Richardson to fire the special prosecutor, Archibald Cox, a lawyer named to investigate the case, who had demanded the tapes. Richardson and his deputy resigned in protest over Nixon's order.
 
 In *United States v. Nixon*, decided on July 24, 1974, the justices of the Supreme Court ruled 8 to 0 that Nixon had to hand the tapes over to the prosecutor. Justice William Rehnquist took no part. Chief Justice Warren Burger wrote that the president's right to keep his talks private "must yield to the demonstrated, specific need for evidence in a pending criminal trial."
 
-In late July the members of the House Judiciary Committee approved three articles of impeachment, or formal charges. They approved obstruction of justice on July 27, abuse of power on July 29 and contempt of Congress on July 30. Obstruction of justice means trying to block an investigation. Abuse of power means using the powers of an office for wrong purposes. On the morning of August 9, 1974, Nixon signed a one-sentence letter of resignation. He addressed it to the Secretary of State, because a law passed in 1792 states that a president's resignation is filed there. It took effect at 11:35 a.m., when Secretary of State Henry Kissinger initialed it, or wrote his initials on it. The members of the full House never voted on the articles.
+**The charges and the resignation.** In late July the members of the House Judiciary Committee approved three articles of impeachment, or formal charges. They approved obstruction of justice on July 27, abuse of power on July 29 and contempt of Congress on July 30. Obstruction of justice means trying to block an investigation. Abuse of power means using the powers of an office for wrong purposes.
 
-Gerald Ford took the oath of office at noon. He said: "My fellow Americans, our long national nightmare is over." He went on to say that the Constitution worked. He also said: "I am acutely aware that you have not elected me as your President by your ballots." Vice President Spiro Agnew had resigned in October 1973. Nixon had named Ford to replace him under the Twenty-fifth Amendment, and the members of both houses had confirmed him. As president, Ford named Nelson Rockefeller as his vice president the same way. For about two and a half years, the country had a president and a vice president whom no voter had chosen for either office.
+On the morning of August 9, 1974, Nixon signed a one-sentence letter of resignation. He addressed it to the Secretary of State, because a law passed in 1792 states that a president's resignation is filed there. It took effect at 11:35 a.m., when Secretary of State Henry Kissinger initialed it, or wrote his initials on it. The members of the full House never voted on the articles.
+
+Gerald Ford took the oath of office at noon. He said: "My fellow Americans, our long national nightmare is over." He went on to say that the Constitution worked. He also said: "I am acutely aware that you have not elected me as your President by your ballots."
+
+Vice President Spiro Agnew had resigned in October 1973. Nixon had named Ford to replace him under the Twenty-fifth Amendment, and the members of both houses had confirmed him. As president, Ford named Nelson Rockefeller as his vice president the same way. For about two and a half years, the country had a president and a vice president whom no voter had chosen for either office.
 
 #### New kinds of schools, 1991 to 1996
 
 In 1991 Minnesota's lawmakers passed the first state law allowing charter schools. Under it, a local school district could grant a group a charter, a written agreement, to run a school. The law's text calls them "outcome-based schools," and it allowed only eight in the whole state. State Senator Ember Reichgott Junge was its chief author. The first one, City Academy in St. Paul, opened in 1992.
 
-Homeschooling became legal across the country state by state during the 1980s and early 1990s, through new laws and court rulings. Michigan was the last state, and it took two steps there, in 1993 and 1995. On May 25, 1993, in *People v. DeJonge*, the justices of the Michigan Supreme Court struck down the state's rule that parents who taught their children at home must use certified teachers, meaning teachers licensed by the state. The ruling covered only families whose religious beliefs forbade certified teachers. On the same day, in *People v. Bennett*, the same justices ruled that the rule still applied to a family with no religious objection. Michigan's lawmakers wrote a home-education exemption into the state's school attendance law in 1995. An exemption is a rule that lets some people off a requirement. It took effect on July 1, 1996.
+Homeschooling became legal across the country state by state during the 1980s and early 1990s, through new laws and court rulings. Michigan was the last state, and it took two steps there, in 1993 and 1995.
+
+On May 25, 1993, in *People v. DeJonge*, the justices of the Michigan Supreme Court struck down the state's rule that parents who taught their children at home must use certified teachers, meaning teachers licensed by the state. The ruling covered only families whose religious beliefs forbade certified teachers.
+
+On the same day, in *People v. Bennett*, the same justices ruled that the rule still applied to a family with no religious objection. Michigan's lawmakers wrote a home-education exemption into the state's school attendance law in 1995. An exemption is a rule that lets some people off a requirement. It took effect on July 1, 1996.
 
 #### An impeachment at the end of the century
 
-The members of the House of Representatives impeached President Bill Clinton on December 19, 1998. They voted 228 to 206 to charge him with perjury, which means lying under oath, before a grand jury, a group of citizens who hear evidence in secret and decide whether someone should be charged with a crime. They voted 221 to 212 to charge him with obstruction of justice in the matter of Monica Lewinsky. They voted down two other charges. The Constitution requires the votes of two-thirds of the senators, 67 votes, to find a president guilty and remove him. On February 12, 1999, the senators voted 45 guilty and 55 not guilty on the perjury charge. On the obstruction charge the vote was 50 to 50. Clinton stayed in office.
+The members of the House of Representatives impeached President Bill Clinton on December 19, 1998. They voted 228 to 206 to charge him with perjury, which means lying under oath, before a grand jury, a group of citizens who hear evidence in secret and decide whether someone should be charged with a crime. They voted 221 to 212 to charge him with obstruction of justice in the matter of Monica Lewinsky. They voted down two other charges.
+
+The Constitution requires the votes of two-thirds of the senators, 67 votes, to find a president guilty and remove him. On February 12, 1999, the senators voted 45 guilty and 55 not guilty on the perjury charge. On the obstruction charge the vote was 50 to 50. Clinton stayed in office.
+
+**If you remember one thing:** In this era the justices and members of Congress struck down most of the rules that had kept Black Americans from voting, and a president resigned rather than face a vote on three charges, after the justices made him hand over his own tapes.
+Who counts the votes when the count itself is disputed? In 1948 a party committee and a single justice settled Lyndon Johnson's 87-vote win. The next era opens with that question in Florida in 2000, and the answer this time came from the Supreme Court.
+**Next:** Since 2000, judges have ruled on recounts, on money in elections and on the shape of voting districts, and on January 6, 2021, a crowd attacked the Capitol while the electoral votes were being counted.
 
 ### 2000 to Today
+
+**Era 10 of 10 · 2000 to Today · about 21 minutes**
 
 Since 2000, judges have ruled on how votes are counted, how voting districts are drawn and whether corporations may spend money on elections. In 2000 the justices of the Supreme Court stopped a recount, a second count of the votes, in Florida during the presidential election. On January 6, 2021, while members of Congress counted the electoral votes, a crowd attacked the Capitol, the building where Congress meets. Judges also ruled on public money for religious schools and on how children are assigned to schools.
 
@@ -14385,25 +15015,41 @@ Since 2000, judges have ruled on how votes are counted, how voting districts are
 
 The presidential election of 2000, between George W. Bush and Al Gore, came down to Florida. The United States Supreme Court's opinion describes what the justices of the Florida Supreme Court had ordered. They had ordered a hand recount of about 9,000 ballots in Miami-Dade County that counting machines had read as blank. They had also ordered 215 votes from Palm Beach County and 168 from Miami-Dade added to the certified total, the official count. They had called for recounts of blank ballots in the counties that had not yet counted them by hand.
 
-On December 12, 2000, the justices of the United States Supreme Court decided *Bush v. Gore* in an unsigned opinion, one that no single justice signed as its author. Seven justices saw a problem under the Constitution. Different counties used different rules to decide what a ballot meant, so two identical ballots could be counted differently depending on where they were cast. Five justices voted to stop the recount instead of sending it back to be fixed, because there was no time left. Justices John Paul Stevens, David Souter, Ruth Bader Ginsburg and Stephen Breyer dissented. The opinion states that the ruling was "limited to the present circumstances." The recount ended. Bush won Florida's 25 electoral votes and became president, with 271 electoral votes to Gore's 266. Gore had received more votes across the country than Bush.
+The justices of the United States Supreme Court decided *Bush v. Gore* on December 12, 2000, in an unsigned opinion, one that no single justice signed as its author. Seven justices saw a problem under the Constitution. Different counties used different rules to decide what a ballot meant, so two identical ballots could be counted differently depending on where they were cast. Five justices voted to stop the recount instead of sending it back to be fixed, because there was no time left.
+
+Justices John Paul Stevens, David Souter, Ruth Bader Ginsburg and Stephen Breyer dissented. The opinion states that the ruling was "limited to the present circumstances." The recount ended. Bush won Florida's 25 electoral votes and became president, with 271 electoral votes to Gore's 266. Gore had received more votes across the country than Bush.
 
 #### Money and maps
 
-On January 21, 2010, the justices decided *Citizens United v. Federal Election Commission*, 5 to 4. Citizens United, a nonprofit corporation, had made a film attacking Hillary Clinton. A nonprofit corporation is a group organized like a company that does not pay profits to owners. Its leaders wanted to advertise the film during a period before an election when federal law barred corporations from spending money on elections. Justice Anthony Kennedy wrote for the majority that "the Government may not suppress political speech based on the speaker's corporate identity." Suppress means stop. That means government officials may not ban a group's political speech just because the group is a corporation. The justices overruled a 1990 decision, *Austin v. Michigan Chamber of Commerce*, and part of another, *McConnell v. Federal Election Commission*.
+**Money.** The justices decided *Citizens United v. Federal Election Commission* on January 21, 2010, 5 to 4. Citizens United, a nonprofit corporation, had made a film attacking Hillary Clinton. A nonprofit corporation is a group organized like a company that does not pay profits to owners. Its leaders wanted to advertise the film during a period before an election when federal law barred corporations from spending money on elections.
 
-The justices decided *Rucho v. Common Cause*, also 5 to 4, on June 27, 2019. Gerrymandering is drawing the lines of voting districts so that one side wins more seats. Two maps were before the Court: North Carolina's map for Congress drawn by Republicans in 2016, and Maryland's drawn by Democrats in 2011. Chief Justice John Roberts wrote that "partisan gerrymandering claims present political questions beyond the reach of the federal courts." Partisan means favoring one political party. Justice Elena Kagan wrote in dissent: "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities." After 2019, a voter who believed a map was drawn to favor one party could not take that complaint to a federal court. Judges in state courts and members of Congress could still act on it.
+Justice Anthony Kennedy wrote for the majority that "the Government may not suppress political speech based on the speaker's corporate identity." Suppress means stop. That means government officials may not ban a group's political speech just because the group is a corporation. The justices overruled a 1990 decision, *Austin v. Michigan Chamber of Commerce*, and part of another, *McConnell v. Federal Election Commission*.
 
-A map drawn by race is a separate question, governed by the Voting Rights Act. The justices decided a Voting Rights Act case, *Shelby County v. Holder*, on June 25, 2013. They struck down the formula in Section 4(b) of the act. That formula set which places had to ask permission before changing voting rules. As of September 2026, members of Congress had passed no new formula.
+**Maps.** The justices decided *Rucho v. Common Cause*, also 5 to 4, on June 27, 2019. Gerrymandering is drawing the lines of voting districts so that one side wins more seats. Two maps were before the Court: North Carolina's map for Congress drawn by Republicans in 2016, and Maryland's drawn by Democrats in 2011.
+
+Chief Justice John Roberts wrote that "partisan gerrymandering claims present political questions beyond the reach of the federal courts." Partisan means favoring one political party. Justice Elena Kagan wrote in dissent: "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities." After 2019, a voter who believed a map was drawn to favor one party could not take that complaint to a federal court. Judges in state courts and members of Congress could still act on it.
+
+**Maps drawn by race.** A map drawn by race is a separate question, governed by the Voting Rights Act. The justices decided a Voting Rights Act case, *Shelby County v. Holder*, on June 25, 2013. They struck down the formula in Section 4(b) of the act. That formula set which places had to ask permission before changing voting rules. As of September 2026, members of Congress had passed no new formula.
 
 #### Schools and the courts
 
-The No Child Left Behind Act is named for 2001, but it became law on January 8, 2002. Members of Congress wrote it as a new version of the Elementary and Secondary Education Act of 1965, and they kept that act's method: federal money for schools, with conditions attached. The Congressional Research Service is the office that does research for members of Congress. It states that with No Child Left Behind, members of Congress began to focus on accountability for test results. Accountability here means judging schools by how their students scored on tests. On December 10, 2015, members of Congress replaced it with the Every Student Succeeds Act. State officials still had to set standards, lists of what students should learn, and test students every year in reading, mathematics and science. Under the new law, state officials had more say over what to do about the results. In the 2023 budget year, federal spending on all the programs under the 1965 act came to $29.0 billion, according to a Congressional Research Service report of February 2024.
+**Tests and money.** The No Child Left Behind Act is named for 2001, but it became law on January 8, 2002. Members of Congress wrote it as a new version of the Elementary and Secondary Education Act of 1965, and they kept that act's method: federal money for schools, with conditions attached. The Congressional Research Service, the office that does research for members of Congress, states that with No Child Left Behind, members of Congress began to focus on accountability for test results. Accountability here means judging schools by how their students scored on tests.
 
-Four times between 2002 and 2022, the justices of the Supreme Court ruled on public money for religious schools. On June 27, 2002, in *Zelman v. Simmons-Harris*, the justices ruled 5 to 4 that Ohio's scholarships for students in Cleveland were allowed. The scholarships paid up to $2,250 a year for families with low incomes, and up to $1,875 for other families. According to the Court's 2002 opinion, 82 percent of the private schools taking part were religious, and 96 percent of the children using the scholarships went to a religious school. The justices held that such a program is allowed if it treats religion neutrally, favoring no religion and no lack of one. The money also had to reach a religious school only because a family chose that school.
+On December 10, 2015, members of Congress replaced it with the Every Student Succeeds Act. State officials still had to set standards, lists of what students should learn, and test students every year in reading, mathematics and science. Under the new law, state officials had more say over what to do about the results. In the 2023 budget year, federal spending on all the programs under the 1965 act came to $29.0 billion, according to a Congressional Research Service report of February 2024.
 
-In the next three rulings the justices went further. They held that when state officials pay for private schools or programs, they may not leave out religious ones. Missouri officials had refused a church preschool a grant, a gift of public money, for resurfacing its playground just because it was a church, though the grant was open to others. The justices ruled against them in *Trinity Lutheran Church of Columbia v. Comer* on June 26, 2017. Three years later, five justices barred Montana officials from keeping scholarship money from religious schools, in *Espinoza v. Montana Department of Revenue*, decided 5 to 4 on June 30, 2020. Maine officials paid tuition, the cost of attending a school, for children from towns with no high school, but only at nonreligious schools. In *Carson v. Makin*, decided 6 to 3 on June 21, 2022, the justices held that Maine officials could not require that.
+**Public money for religious schools.** Four times between 2002 and 2022, the justices of the Supreme Court ruled on public money for religious schools. On June 27, 2002, in *Zelman v. Simmons-Harris*, the justices ruled 5 to 4 that Ohio's scholarships for students in Cleveland were allowed. The scholarships paid up to $2,250 a year for families with low incomes, and up to $1,875 for other families.
 
-On June 28, 2007, in *Parents Involved in Community Schools v. Seattle School District No. 1*, the justices struck down two plans that used a child's race to decide which school the child attended. The vote was 5 to 4. Officials of Seattle's school district had used race to break ties, meaning to choose between students who ranked the same for a high school place. School officials in Jefferson County, Kentucky, had used it in placing children in elementary schools. Chief Justice Roberts wrote: "The way to stop discrimination on the basis of race is to stop discriminating on the basis of race." Only four justices joined that sentence. Justice Kennedy cast the fifth vote and wrote separately. He wrote that school officials may still work toward a mix of students. He listed ways to do it. Officials could choose where to build new schools, draw attendance zones and pay for special programs. They could also recruit students and teachers, and track enrollment and results by race. Attendance zones are the areas whose children go to each school. After 2007, school officials could still try to mix their schools, but they could not assign a single child to a school because of that child's race.
+According to the Court's 2002 opinion, 82 percent of the private schools taking part were religious, and 96 percent of the children using the scholarships went to a religious school. The justices held that such a program is allowed if it treats religion neutrally, favoring no religion and no lack of one. The money also had to reach a religious school only because a family chose that school.
+
+In the next three rulings the justices went further. They held that when state officials pay for private schools or programs, they may not leave out religious ones. Missouri officials had refused a church preschool a grant, a gift of public money, for resurfacing its playground just because it was a church, though the grant was open to others. The justices ruled against them in *Trinity Lutheran Church of Columbia v. Comer* on June 26, 2017.
+
+Three years later, five justices barred Montana officials from keeping scholarship money from religious schools, in *Espinoza v. Montana Department of Revenue*, decided 5 to 4 on June 30, 2020. Maine officials paid tuition, the cost of attending a school, for children from towns with no high school, but only at nonreligious schools. In *Carson v. Makin*, decided 6 to 3 on June 21, 2022, the justices held that Maine officials could not require that.
+
+**Race and school assignment.** On June 28, 2007, in *Parents Involved in Community Schools v. Seattle School District No. 1*, the justices struck down two plans that used a child's race to decide which school the child attended. The vote was 5 to 4. Officials of Seattle's school district had used race to break ties, meaning to choose between students who ranked the same for a high school place. School officials in Jefferson County, Kentucky, had used it in placing children in elementary schools.
+
+Chief Justice Roberts wrote: "The way to stop discrimination on the basis of race is to stop discriminating on the basis of race." Only four justices joined that sentence. Justice Kennedy cast the fifth vote and wrote separately. He wrote that school officials may still work toward a mix of students.
+
+He listed ways to do it. Officials could choose where to build new schools, draw attendance zones and pay for special programs. They could also recruit students and teachers, and track enrollment and results by race. Attendance zones are the areas whose children go to each school. After 2007, school officials could still try to mix their schools, but they could not assign a single child to a school because of that child's race.
 
 #### Counting the votes, January 6, 2021
 
@@ -14411,19 +15057,27 @@ Every four years, the members of the House and Senate meet together in the House
 
 Joe Biden won the 2020 election, with 306 electoral votes to Donald Trump's 232, by the count of the National Archives. Republicans who acted as electors in some states prepared papers presented as certificates of electoral votes, and they sent them to the Senate and the National Archives. According to a Congressional Research Service report of December 2024, those papers did not carry the certificate that each state's governor or other executive must issue under federal law. So they were not presented at the count.
 
-A crowd attacked the Capitol while the count was under way on January 6, 2021. The Government Accountability Office is a federal agency that checks the government's work. It reported in 2022 that over about seven hours, members of the crowd assaulted, or attacked, about 140 police officers. About 80 of them were from the United States Capitol Police. About 114 Capitol Police officers reported injuries. The damage cost about $1.5 million. The same report states that the plans Capitol Police officials made for the day "did not reflect the potential for extreme violence aimed at the Capitol." Those officials had information that protesters might be armed and were planning to target Congress.
+**The attack.** A crowd attacked the Capitol while the count was under way on January 6, 2021. The Government Accountability Office is a federal agency that checks the government's work. It reported in 2022 that over about seven hours, members of the crowd assaulted, or attacked, about 140 police officers. About 80 of them were from the United States Capitol Police. About 114 Capitol Police officers reported injuries. The damage cost about $1.5 million.
+
+The same report states that the plans Capitol Police officials made for the day "did not reflect the potential for extreme violence aimed at the Capitol." Those officials had information that protesters might be armed and were planning to target Congress.
 
 That day, members of Congress took up two objections. According to the Congressional Research Service report, senators rejected the objection to Arizona's votes 93 to 6, and representatives rejected it 303 to 121. The objection to Pennsylvania's votes failed 92 to 7 among senators and 282 to 138 among representatives. The members of Congress then finished the count and declared the result.
 
-Afterward, members of Congress changed the rules. The Electoral Count Reform and Presidential Transition Improvement Act became law on December 29, 2022. Under it, an objection must have the support of one-fifth of the members of each house, about 87 representatives and 20 senators. Only the state's executive, usually the governor, may certify the state's electors. Electors must be chosen under state laws passed before election day. The President of the Senate is the vice president, and the act states: "The President of the Senate shall have no power to solely determine, accept, reject, or otherwise adjudicate or resolve disputes over the proper certificate of ascertainment of appointment of electors, the validity of electors, or the votes of electors." That means the vice president cannot decide alone which electors or which votes count.
+**The new rules.** Afterward, members of Congress changed the rules. The Electoral Count Reform and Presidential Transition Improvement Act became law on December 29, 2022. Under it, an objection must have the support of one-fifth of the members of each house, about 87 representatives and 20 senators. Only the state's executive, usually the governor, may certify the state's electors. Electors must be chosen under state laws passed before election day.
 
-On January 20, 2025, the day he took office again, President Donald Trump signed Proclamation 10887, a formal order from the president. With it, he cut the prison sentences of fourteen named members of two groups, the Oath Keepers and the Proud Boys, to the time they had already served. Among them were Stewart Rhodes and Kelly Meggs. A pardon is a president's order that forgives a federal crime, so the person is no longer punished for it. He gave "a full, complete and unconditional pardon" to everyone else found guilty of crimes connected with the events at the Capitol on January 6, 2021. He also ordered everyone still in prison for them released.
+The President of the Senate is the vice president, and the act states: "The President of the Senate shall have no power to solely determine, accept, reject, or otherwise adjudicate or resolve disputes over the proper certificate of ascertainment of appointment of electors, the validity of electors, or the votes of electors." That means the vice president cannot decide alone which electors or which votes count.
+
+**The pardons.** On January 20, 2025, the day he took office again, President Donald Trump signed Proclamation 10887, a formal order from the president. With it, he cut the prison sentences of fourteen named members of two groups, the Oath Keepers and the Proud Boys, to the time they had already served. Among them were Stewart Rhodes and Kelly Meggs.
+
+A pardon is a president's order that forgives a federal crime, so the person is no longer punished for it. He gave "a full, complete and unconditional pardon" to everyone else found guilty of crimes connected with the events at the Capitol on January 6, 2021. He also ordered everyone still in prison for them released.
 
 #### Donald Trump's two impeachment trials
 
 Senators can remove a president from office only if two-thirds of them, 67 votes, find him guilty. Senators have never found a president guilty.
 
-The members of the House impeached President Donald Trump on December 18, 2019, on two charges: abuse of power and obstruction of Congress, meaning blocking Congress's investigation. On February 5, 2020, the senators voted 48 guilty and 52 not guilty on the abuse of power charge, and 47 to 53 on the obstruction charge. The members of the House impeached him a second time on January 13, 2021. The charge was incitement of insurrection, meaning stirring people up to rise against the government. On February 13, 2021, the senators voted 57 guilty and 43 not guilty, ten votes short of conviction. Seven Republican senators voted guilty: Richard Burr, Bill Cassidy, Susan Collins, Lisa Murkowski, Mitt Romney, Ben Sasse and Pat Toomey.
+The members of the House impeached President Donald Trump on December 18, 2019, on two charges: abuse of power and obstruction of Congress, meaning blocking Congress's investigation. On February 5, 2020, the senators voted 48 guilty and 52 not guilty on the abuse of power charge, and 47 to 53 on the obstruction charge.
+
+The members of the House impeached him a second time on January 13, 2021. The charge was incitement of insurrection, meaning stirring people up to rise against the government. On February 13, 2021, the senators voted 57 guilty and 43 not guilty, ten votes short of conviction. Seven Republican senators voted guilty: Richard Burr, Bill Cassidy, Susan Collins, Lisa Murkowski, Mitt Romney, Ben Sasse and Pat Toomey.
 
 <a id="story-shaye-moss"></a>
 
@@ -14433,21 +15087,33 @@ The members of the House impeached President Donald Trump on December 18, 2019, 
 >
 > **When and where:** Fulton County, Georgia, 2017 to 2022. Sworn testimony in Washington, D.C., June 21, 2022.
 
+**The object on the video was a ginger mint.**
+
 Shaye Moss worked in the Department of Registration and Elections in Fulton County, Georgia, from 2017 until 2022. She handled applications from voters and requests for absentee ballots, which are ballots mailed to voters who vote from home. She also helped count the votes. Her mother, Ruby Freeman, worked as a temporary election worker in the same county for the 2020 election.
 
-On June 21, 2022, Moss testified under oath to the House committee that investigated January 6. She said: "I have always been told by my grandmother how important it is to vote and how people before me, a lot of people, older people in my family did not have that right." Older voters were her favorite part of the job: "the older voters like to call, they like to talk to you, they like to get my card, they like to know that every election I am here." She once drove to a hospital to bring a woman her absentee ballot application.
+On June 21, 2022, Moss testified under oath to the House committee that investigated January 6. She said: "I have always been told by my grandmother how important it is to vote and how people before me, a lot of people, older people in my family did not have that right."
 
-About five million Georgians voted in 2020. From November 11 to 19, 2020, election workers counted every ballot by hand, in 41,881 batches. In no county did the margin, the gap between the two candidates' totals, change by more than 0.73 percent. Secretary of State Brad Raffensperger certified the result on November 20, and Governor Brian Kemp certified it too. After a machine recount, requested on behalf of the Trump campaign, state officials certified the result again on December 7, 2020. Joe Biden won Georgia and its 16 electoral votes.
+Older voters were her favorite part of the job: "the older voters like to call, they like to talk to you, they like to get my card, they like to know that every election I am here." She once drove to a hospital to bring a woman her absentee ballot application.
+
+**The count.** About five million Georgians voted in 2020. From November 11 to 19, 2020, election workers counted every ballot by hand, in 41,881 batches. In no county did the margin, the gap between the two candidates' totals, change by more than 0.73 percent. Secretary of State Brad Raffensperger certified the result on November 20, and Governor Brian Kemp certified it too. After a machine recount, requested on behalf of the Trump campaign, state officials certified the result again on December 7, 2020. Joe Biden won Georgia and its 16 electoral votes.
 
 On December 3, 2020, a lawyer working for the Trump campaign played clips of a security video from the State Farm Arena at a hearing of the Georgia Senate. The lawyer said election workers there had pulled 18,000 hidden ballots from "suitcases of ballots under a table, under a tablecloth." The two women in the clips were Freeman and Moss.
 
 The women's lawsuit, as the federal court described it in 2022, states what happened next. Georgia's state election officials and agents of the Georgia Bureau of Investigation watched the whole security tape, which ran for hours, and interviewed everyone who had been there. They found no evidence for any of the claims. Early on December 4, the state's Voting Implementation Manager posted that the video "Shows normal ballot processing." The containers held ballots that had been processed earlier that night, and no observer had been told to leave.
 
-On December 10, 2020, Rudolph Giuliani, a lawyer for President Trump, told a hearing of the Georgia House that the two women were "quite obviously surreptitiously passing around USB ports as if they are vials of heroin or cocaine." Surreptitiously means secretly. USB ports are the sockets that computer memory sticks plug into. He said their homes and workplaces should have been searched. Moss later testified that the object her mother handed her in the video was "a ginger mint." On January 2, 2021, Trump telephoned Raffensperger and named Ruby Freeman again and again. He called her "a vote scammer, a professional vote scammer and hustler." Raffensperger answered on the call that Giuliani "or his people, they sliced and diced that video and took it out of context."
+On December 10, 2020, Rudolph Giuliani, a lawyer for President Trump, told a hearing of the Georgia House that the two women were "quite obviously surreptitiously passing around USB ports as if they are vials of heroin or cocaine." Surreptitiously means secretly. USB ports are the sockets that computer memory sticks plug into. He said their homes and workplaces should have been searched. Moss later testified that the object her mother handed her in the video was "a ginger mint."
 
-Moss testified that Trump supporters sent her messages. She described them as "a lot of threats, wishing death upon me, telling me that, you know, I will be in jail with my mother, and saying things like, 'Be glad it's 2020 and not 1920.'" Many were racist, she said. The historian Tera W. Hunter wrote that the "1920" message, and messages telling the two women they should hang, pointed back to the history of lynching, murder by a mob without a trial. Strangers went to her grandmother's house and pushed their way in. They said they had come to make a citizen's arrest, an arrest by someone who is not a police officer, and needed to find Moss and her mother. Agents of the FBI, the Federal Bureau of Investigation, a national police agency, advised Freeman to leave her home around the week of January 6, 2021, and she stayed away about two months. "I've lost my name," Freeman said, "and I've lost my reputation." Moss said she stopped giving out her business cards and stopped going to the grocery store. Asked how many of the permanent election workers and supervisors in that video were still doing the job, Moss answered: "There is no permanent election worker or supervisor in that video that is still there." She had left too.
+On January 2, 2021, Trump telephoned Raffensperger and named Ruby Freeman again and again. He called her "a vote scammer, a professional vote scammer and hustler." Raffensperger answered on the call that Giuliani "or his people, they sliced and diced that video and took it out of context."
 
-In December 2021 Freeman and Moss sued Giuliani for defamation in federal court in Washington, D.C. Defamation is harming a person's good name with false statements. On August 30, 2023, Chief Judge Beryl Howell ruled against Giuliani on all their claims, as a penalty for refusing to hand over evidence. On December 15, 2023, a jury awarded the two women about $148 million, a figure reported by PBS. The judge later reduced the amount to about $146 million, according to NBC News. On April 15, 2024, Judge Howell refused Giuliani's request to throw out or change the verdict, the jury's decision. In January 2025 a federal judge in New York, Lewis Liman, found Giuliani in contempt of court for failing to give information about his property. Contempt of court is the offense of disobeying a court's orders. A court filing showed that the judgment had been satisfied, meaning its terms had been met, on February 21, 2025.
+**What followed.** Moss testified that Trump supporters sent her messages. She described them as "a lot of threats, wishing death upon me, telling me that, you know, I will be in jail with my mother, and saying things like, 'Be glad it's 2020 and not 1920.'" Many were racist, she said. The historian Tera W. Hunter wrote that the "1920" message, and messages telling the two women they should hang, pointed back to the history of lynching, murder by a mob without a trial.
+
+Strangers went to her grandmother's house and pushed their way in. They said they had come to make a citizen's arrest, an arrest by someone who is not a police officer, and needed to find Moss and her mother. Agents of the FBI, the Federal Bureau of Investigation, a national police agency, advised Freeman to leave her home around the week of January 6, 2021, and she stayed away about two months. "I've lost my name," Freeman said, "and I've lost my reputation."
+
+Moss said she stopped giving out her business cards and stopped going to the grocery store. Asked how many of the permanent election workers and supervisors in that video were still doing the job, Moss answered: "There is no permanent election worker or supervisor in that video that is still there." She had left too.
+
+**The lawsuit.** In December 2021 Freeman and Moss sued Giuliani for defamation in federal court in Washington, D.C. Defamation is harming a person's good name with false statements. On August 30, 2023, Chief Judge Beryl Howell ruled against Giuliani on all their claims, as a penalty for refusing to hand over evidence. On December 15, 2023, a jury awarded the two women about $148 million, a figure reported by PBS. The judge later reduced the amount to about $146 million, according to NBC News.
+
+On April 15, 2024, Judge Howell refused Giuliani's request to throw out or change the verdict, the jury's decision. In January 2025 a federal judge in New York, Lewis Liman, found Giuliani in contempt of court, the offense of disobeying a court's orders, for failing to give information about his property. A court filing showed that the judgment had been satisfied, meaning its terms had been met, on February 21, 2025.
 
 In November 2025 President Trump pardoned Giuliani and others who had worked to overturn the 2020 result. A presidential pardon covers only federal crimes, and none of the people named had been charged with a federal crime over the 2020 election. A pardon does not cancel a civil judgment, a court's order in a lawsuit to pay money, such as the award to Freeman and Moss. That award had already been paid.
 
@@ -14459,15 +15125,47 @@ The same census found 3,285,874 people in Puerto Rico, more than lived in 21 of 
 
 None of those four places has a voting member of Congress or electors for president. In all, about 3.6 million American citizens and nationals lived in 2020 in places with no voting member of Congress. Nationals are people who belong to the United States without being full citizens. The Census Bureau states the rule itself: "The populations of the District of Columbia and Puerto Rico are excluded from the apportionment population because they do not have voting seats in Congress." The apportionment population is the count used to divide the seats in the House among the states.
 
-In 2024, about 4 million Americans could not vote because of a felony conviction, 1.7 percent of adults of voting age. A felony is a serious crime. The count is an estimate by the Sentencing Project, not a government count. In 2016 the number had been 5.9 million. Among Black Americans of voting age, 1 in 22, or 4.5 percent, could not vote for this reason. That was more than three times the rate for everyone else, 1.3 percent. About 72 percent of the people counted were not in prison. They were on probation, which is supervision in place of prison, or on parole, which is early release from prison under supervision, or they had finished their sentences. State lawmakers and state constitutions set these rules. Under the laws of Maine and Vermont, people in prison can vote.
+**Felony convictions.** In 2024, about 4 million Americans could not vote because of a felony conviction, 1.7 percent of adults of voting age. A felony is a serious crime. The count is an estimate by the Sentencing Project, not a government count. In 2016 the number had been 5.9 million. Among Black Americans of voting age, 1 in 22, or 4.5 percent, could not vote for this reason. That was more than three times the rate for everyone else, 1.3 percent.
+
+About 72 percent of the people counted were not in prison. They were on probation, which is supervision in place of prison, or on parole, which is early release from prison under supervision, or they had finished their sentences. State lawmakers and state constitutions set these rules. Under the laws of Maine and Vermont, people in prison can vote.
 
 #### A senator convicted, 2024
 
-On September 22, 2023, federal prosecutors in Manhattan charged Senator Bob Menendez of New Jersey, his wife, Nadine Menendez, and others with bribery. According to news reports of the case in 2023, agents had found $480,000 in cash and more than $100,000 in gold bars in the Menendez home. On July 16, 2024, a jury found him guilty on all counts, or charges, including acting as a foreign agent of Egypt, meaning acting on behalf of Egypt's government. He resigned from the Senate in August 2024. On January 29, 2025, a judge sentenced him to 11 years in prison. He reported to prison in June 2025.
+On September 22, 2023, federal prosecutors in Manhattan charged Senator Bob Menendez of New Jersey, his wife, Nadine Menendez, and others with bribery. According to news reports of the case in 2023, agents had found $480,000 in cash and more than $100,000 in gold bars in the Menendez home. On July 16, 2024, a jury found him guilty on all counts, or charges, including acting as a foreign agent of Egypt, meaning acting on behalf of Egypt's government.
+
+He resigned from the Senate in August 2024. On January 29, 2025, a judge sentenced him to 11 years in prison. He reported to prison in June 2025.
 
 #### Immigration law after 2001
 
-In the Homeland Security Act of 2002, members of Congress created the Department of Homeland Security. Its officials began work in 2003. Under the act, the old Immigration and Naturalization Service was split into three agencies: U.S. Citizenship and Immigration Services (USCIS), Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). On June 15, 2012, officials of the Department of Homeland Security began a policy called Deferred Action for Childhood Arrivals, or DACA. Under it, certain people brought to the country as children could get protection from being deported, or sent out of the country, and permission to work. Lawsuits over DACA went on for years.
+In the Homeland Security Act of 2002, members of Congress created the Department of Homeland Security. Its officials began work in 2003. Under the act, the old Immigration and Naturalization Service was split into three agencies: U.S. Citizenship and Immigration Services (USCIS), Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP).
+
+On June 15, 2012, officials of the Department of Homeland Security began a policy called Deferred Action for Childhood Arrivals, or DACA. Under it, certain people brought to the country as children could get protection from being deported, or sent out of the country, and permission to work. Lawsuits over DACA went on for years.
+
+**If you remember one thing:** Since 2000 the fights over the rules have been about counting: who counts the votes, whose money counts, and who gets no vote to count.
+- 2000: Five justices stopped the Florida recount, and George W. Bush became president with fewer votes across the country than Al Gore.
+- 2021: A crowd attacked the Capitol during the electoral count, and members of Congress then finished the count and declared the result.
+- 2020: About 3.6 million citizens and nationals lived in places with no voting member of Congress, and about 4 million adults could not vote because of a felony conviction in 2024.
+**Next:** The chapter closing is below. Chapter 21, Crime, Police, and Justice, follows.
+
+**The three questions, answered**
+- Who decided who could vote, and how did the answer change? Each colony's and then each state's lawmakers decided, and the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Four amendments (1870, 1920, 1964, 1971) and the Voting Rights Act of 1965 took most of that power back from the states.
+- When did judges first cancel a law, and what have they done with that power since? In 1803, in *Marbury v. Madison*. The justices have used it to allow sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
+- What happens when a president, a senator or a governor breaks the law? A jury, a court or the Senate decides. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
+
+**What changed:** The rules began as whatever the lawmakers of each colony chose. Over ten eras they became a written plan that judges enforce, and the vote, which began with men who owned property, reached women in 1920 and eighteen-year-olds in 1971.
+
+**Five dates to keep**
+- 1619: Twenty-two elected burgesses met at Jamestown, the first elected assembly in English North America.
+- 1803: The justices of the Supreme Court first cancelled a law passed by Congress.
+- 1870: The Fifteenth Amendment barred every state from denying a man the vote because of race.
+- 1920: The Nineteenth Amendment barred every state from denying a woman the vote.
+- 1974: Richard Nixon resigned the presidency rather than face a House vote on three charges.
+
+**Not known:** Whether the feet of the Acoma men were cut off in 1599: the sentence is in the written record, the Acoma account says it was done, and two historians doubt it.
+
+**Where to go:** Independence Hall in Philadelphia, where the delegates signed the Constitution on September 17, 1787, is open to visitors as part of a national park.
+
+**Next:** Chapter 21, Crime, Police, and Justice. It asks who enforced these laws, and what happened to the people they caught.
 
 [Back to contents](#contents)
 
@@ -31075,113 +31773,145 @@ Tickets for the final started at $6,730. For the first time, FIFA officials rais
 
 ## Chapter 37: Holidays
 
+**Chapter 37 of 37 · Holidays · 10 eras · about 95 minutes**
+
+**Every holiday on the American calendar got there because people asked for it, argued over it or fought for it, and the arguing is not over.**
+
+In May 1877 a woman of 88 in Philadelphia had a helper write a letter for her, because her eyes were too weak. Her name was Sarah Josepha Hale. For about thirty years she had been asking governors and presidents to make Thanksgiving one day for the whole country. President Lincoln had proclaimed it in 1863. She was still asking Congress for a law that made the last Thursday in November a legal holiday. She died two years later. Congress passed that law in 1941.
+
+Most of the days in this chapter were made that way. Someone asked for a day, and someone else said no, often for years. The chapter starts with the ceremonies the Native nations keep for corn, salmon and the winter sun, and with the Spanish, French and English colonists who each held a "first Thanksgiving" of their own. It follows the days Black Americans made for themselves when white Americans' holidays left them out, from election days in Connecticut to Juneteenth in Texas. It ends with the fights still going on over Columbus Day, King's day and Juneteenth. Watch for two things as you read: who had the power to name a day, and who kept a day without anyone's permission.
+
+**Three questions this chapter answers**
+- Who decided when Americans would give thanks, and why did it take until 1941 to fix the date?
+- Which days did Black Americans make their own, from election days to Juneteenth?
+- Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it?
+
+**Five minutes?** Read "Juneteenth, 1865" in 1850 to 1900. The Jack Yates story follows it.
+**Can skip:** "Places named for holy days", "Washington's birthday", "Pinkster banned in Albany, 1811", "Columbus Day, 1905 to 1937". The chapter still makes sense without them.
+
 ### Before 1500
 
-The Native nations here marked their year with ceremonies. Each ceremony came at its own time of year. Some came when a group of stars rose, or when the sun reached the end of its path along the horizon. Others came when the corn ripened or when the salmon swam back up the river. At many of these ceremonies, people gave thanks for food as it came in. They gave thanks for maple sap, strawberries, the first ripe corn and the first salmon.
+**Era 1 of 10 · Before 1500 · about 6 minutes**
 
-The oldest written descriptions of the Green Corn Ceremony date from the 1700s, and outsiders wrote them. The nations have written others themselves, and they still hold many of these ceremonies today. The Wampanoag writer Nancy Eldredge says that her people and other Native peoples of the Northeast have held thanksgiving ceremonies "from time immemorial," which means since before anyone can remember.
+The Native nations marked their year with ceremonies, and each one came at its own time. Some came when a group of stars rose, or when the sun reached the end of its path along the horizon. Others came when the corn ripened or when the salmon swam back up the river. At many of them, people gave thanks for food as it came in: maple sap, strawberries, the first ripe corn, the first salmon.
 
-#### Giving thanks through the year in the Northeast
+The oldest written descriptions of the Green Corn Ceremony date from the 1700s, and outsiders wrote them. The nations have written their own since, and they still hold many of these ceremonies today. The Wampanoag writer Nancy Eldredge says that her people and other Native peoples of the Northeast have given thanks this way "from time immemorial," which means since before anyone can remember. The five ceremonies below come from five parts of the land, the Northeast first and Hawaii last.
 
-The Onondaga Nation is one of the Haudenosaunee nations, in what is now New York. It lists seven ceremonies in its year: Midwinter, Maple Sap, Planting, Bean, Strawberry, Green Corn and Harvest. Men and women called Faith Keepers decide when each one takes place. They go by the seasons and the moon, so the dates change from year to year. Midwinter lasts 21 days, and on each day people give thanks for different things.
+#### Who sets the dates in the Northeast
+
+**The Faith Keepers.** On the Onondaga Nation's land just south of Syracuse, New York, men and women called Faith Keepers decide when each ceremony takes place. The Onondaga are one of the Haudenosaunee nations. They list seven ceremonies in their year: Midwinter, Maple Sap, Planting, Bean, Strawberry, Green Corn and Harvest. The Faith Keepers go by the seasons and the moon, so the dates change from year to year. Midwinter lasts 21 days, and on each day people give thanks for different things.
 
 Haudenosaunee people often start and end their meetings with the Thanksgiving Address. They also call it the Words That Come Before All Else. The speaker gives thanks to the people, the earth, the waters, the fish and the plants, one at a time. Then come the food plants and the medicine plants, and the thanks go on from there. Each part ends with the words "Now our minds are one." An English translation of the Mohawk version was published in 1993.
 
 Farther east lived the Wampanoag. Nancy Eldredge, a Nauset Wampanoag writer, wrote about her people's thanksgiving ceremonies in 1998. They held one in early spring, for a good growing season, and one in the fall, for the harvest. They also gave thanks for strawberries and cranberries as each one ripened, through the thirteen moons of their year. The Wampanoag Tribe of Gay Head (Aquinnah), on the island of Martha's Vineyard, still holds Cranberry Day each October. The day opens with a greeting at sunrise. People pick cranberries, share a meal and set aside a share for the elders.
 
-#### The Green Corn Ceremony in the Southeast
+#### Why every fire in a Creek town went out
 
-The Muscogee (Creek) and other nations of the Southeast held the Green Corn Ceremony in midsummer, when the first corn was ripe. It lasted four or eight days. Men fasted, which means they went without food. Eric Bowne, who wrote about the ceremony for the Encyclopedia of Alabama, gives the men's fast as one and a half to two days. Women, children and old people could eat certain foods.
+Once a year, every fire in a Muscogee (Creek) town went out. The Muscogee and other nations of the Southeast held the Green Corn Ceremony in midsummer, when the first corn was ripe. It lasted four or eight days. Men fasted, which means they went without food, and women, children and old people could eat certain foods. During the ceremony, people forgave every crime except murder.
 
-People put out every fire in the town. During the ceremony, people forgave every crime except murder.
+**What Bartram saw.** William Bartram, a Philadelphia man who studied plants and animals, traveled through Creek towns in the 1770s. In a book printed in 1791, he wrote that the Creek had a feast for almost every month of the year. He called the Green Corn Ceremony the busk and said it was the most important one. Each town held its own busk in August, when its own corn was ripe.
 
-William Bartram, a Philadelphia man who studied plants and animals, traveled through Creek towns in the 1770s. In a book printed in 1791, he wrote that the Creek had a feast for almost every month of the year. He called the Green Corn Ceremony the busk and said it was the most important one. Each town held its own busk in August, when its own corn was ripe.
+Families made new clothes, pots and pans, and swept their houses and the whole town. Then everyone piled the worn-out clothes and the old grain in one heap and set it on fire. On the fourth morning, the high priest made a new fire by rubbing dry wood together, and every house took its fire from it. Then the women brought in the new corn, and people danced in the square at night.
 
-Bartram described what people did to get ready. Families made new clothes, pots and pans, and swept their houses and the whole town. Then everyone piled the worn-out clothes and the old grain in one heap and set it on fire. Bartram gives the fast as three days. On the fourth morning, the high priest made a new fire by rubbing dry wood together, and every house took its fire from it. Then the women brought in the new corn, and people danced in the square at night.
+Accounts differ on how long the men fasted. Bartram gives three days. Eric Bowne, writing for the Encyclopedia of Alabama, gives one and a half to two days. Three men who saw the ceremony in the 1700s wrote early accounts of it: James Adair in the middle of the century, Bartram in the 1770s, and Benjamin Hawkins, who wrote about the Creek country in 1798 and 1799. Creek and Yuchi towns in Oklahoma still hold the ceremony at their stomp grounds, the grounds each town keeps for it.
 
-Three men who saw the ceremony in the 1700s wrote early accounts of it. James Adair described it from the middle of the century. Bartram came in the 1770s, and Benjamin Hawkins wrote about the Creek country in 1798 and 1799. Creek and Yuchi towns in Oklahoma still hold the ceremony at their stomp grounds, the grounds each town keeps for it.
+#### How a Sun-priest sets the calendar
 
-#### Watching the sun in the Southwest
-
-*Pueblo* is the Spanish word for a town, and the Pueblo peoples of the Southwest get their name from the towns they live in. In Pueblo towns today, a man called the Sun-priest watches where the sun comes up over the horizon. He usually watches at sunrise, from a quiet spot not far from the town. The point where the sun rises moves along the horizon through the year, so from his sightings he can tell the time of year. From them he sets the planting calendar and the dates of the ceremonies.
+In Pueblo towns today, a man called the Sun-priest watches where the sun comes up over the horizon. He usually watches at sunrise, from a quiet spot not far from the town. (*Pueblo* is the Spanish word for a town, and the Pueblo peoples of the Southwest get their name from the towns they live in.) The point where the sun rises moves along the horizon through the year, so from his sightings he can tell the time of year. From them he sets the planting calendar and the dates of the ceremonies.
 
 The Hopi of northeastern Arizona begin their year of ceremonies with the Soyal ceremony at the winter solstice in December. The winter solstice is the shortest day of the year. After Soyal, each village holds a ceremony about once a month until the Niman, or Home Dance, in late July.
 
 #### The First Salmon Feast on the Columbia River
 
-The Yakama, Umatilla, Warm Springs and Nez Perce peoples fish for salmon in the Columbia River and its branches in the Northwest. Each spring, before the fishing season opens, they hold a First Salmon Feast. These peoples say that when the Creator was about to bring people onto the earth, Salmon offered his body to feed them.
+The Yakama, Umatilla, Warm Springs and Nez Perce peoples say that when the Creator was about to bring people onto the earth, Salmon offered his body to feed them. These peoples fish for salmon in the Columbia River and its branches in the Northwest. Each spring, before the fishing season opens, they hold a First Salmon Feast.
 
 At the feast, drummers sing, and a bell rings for everyone to stand for a prayer song. People bless water and drink it first. Then they eat the salmon and the other foods. At Celilo, on the Oregon bank of the Columbia, people hold the feast in the longhouse, a long building where the community gathers for ceremonies. There the feast usually falls on the second weekend of April.
 
-#### Makahiki in Hawaii
+#### Makahiki, the season when chiefs could not make war
 
-In July 1898 members of the US Congress voted to take over Hawaii as American land, and President William McKinley signed their resolution on July 7. Long before that, Hawaiians kept their own calendar. Their new year began when the Pleiades rose at sunset, in late October or early November. The Pleiades are a small group of stars that Hawaiians call Makaliʻi. The season that followed was called Makahiki. Kaʻanoʻi Walk of the Kamehameha Schools gives mid-November as the usual start of Makahiki and late January or February as its end.
+Hawaiians kept their own calendar long before the islands became American land. Their new year began when the Pleiades, a small group of stars they call Makaliʻi, rose at sunset in late October or early November. The season that followed was called Makahiki. Kaʻanoʻi Walk of the Kamehameha Schools gives mid-November as the usual start of Makahiki and late January or February as its end. (The islands became American land in July 1898, when members of the US Congress voted to take them over and President William McKinley signed their resolution on July 7.)
 
-The Hawaiian historian David Malo was born in about 1793. He wrote that Makahiki lasted four months. Priests carried an image of the god Lono around the island. At the edge of each district, the local chief handed over the taxes the people owed to the king. They paid in goods: pigs, taro, sweet potatoes, feathers, kapa cloth and mats. Taro is a plant with a starchy root that Hawaiians cooked and ate, and kapa is cloth made by beating tree bark thin. Chiefs could not make war on each other during the season. People held races, boxing and wrestling matches, and games of skill.
+The Hawaiian historian David Malo was born in about 1793. He wrote that Makahiki lasted four months. Priests carried an image of the god Lono around the island. At the edge of each district, the local chief handed over the taxes the people owed to the king. They paid in goods: pigs, taro, sweet potatoes, feathers, kapa cloth and mats.
+
+Taro is a plant with a starchy root that Hawaiians cooked and ate, and kapa is cloth made by beating tree bark thin. Chiefs could not make war on each other during the season. People held races, boxing and wrestling matches, and games of skill.
 
 ### The 1500s
 
-In the 1500s, Spanish and French colonists brought the Christian church year to a few places on the coast of Florida and along the Rio Grande. The church year is a calendar of holy days: Sundays, Easter, Christmas and the feast days of saints. A saint's feast day is a day kept each year to honor a holy person. The colonists named places after those days. When they landed, they held church services to give thanks. Today people in St. Augustine, in Jacksonville and in Texas each call a different one of those services the "first Thanksgiving." A National Park Service page states that the national holiday came from English days of thanksgiving instead. Across the rest of the land, the Native nations kept their own ceremonies.
+**Era 2 of 10 · The 1500s · about 5 minutes**
+
+Spanish and French colonists brought the Christian church year to a few places on the coast of Florida and along the Rio Grande. The church year is a calendar of holy days: Sundays, Easter, Christmas and the feast days of saints, the days kept each year to honor holy people. The colonists named places after those days. When they landed, they held church services to give thanks.
+
+Today people in St. Augustine, in Jacksonville and in Texas each call a different one of those services the "first Thanksgiving." The national holiday came from English days of thanksgiving instead, as the National Park Service's own page on St. Augustine says. Across the rest of the land, the Native nations kept their own ceremonies.
 
 #### Places named for holy days
 
 Juan Ponce de León claimed the coast of what is now Florida for Spain on April 2, 1513. It was the Easter season, which Spanish speakers called *Pascua Florida*. He named the land *La Florida* after it.
 
-Pedro Menéndez de Avilés sighted the same coast on August 28, 1565. That was the feast day of Saint Augustine, the day Catholics kept each year to honor him. Menéndez named the town he founded St. Augustine.
+Pedro Menéndez de Avilés sighted the same coast on August 28, 1565, the feast day of Saint Augustine. Menéndez named the town he founded St. Augustine.
 
-#### Services of thanks on the Florida coast, 1564 and 1565
+#### Two services of thanks on the Florida coast, and the killings that followed
 
-Protestants are Christians whose churches broke away from the Catholic Church in the 1500s. French Protestants, called Huguenots, built Fort Caroline in June 1564, near what is now Jacksonville. The land belonged to the Timucua people. The Huguenots' leader, René de Laudonnière, wrote that on June 30, 1564, he had his people gather on the beach. There he ordered them to sing aloud and give thanks to God for their safe arrival.
+French Protestants, Christians whose churches had broken away from the Catholic Church, built Fort Caroline in June 1564, near what is now Jacksonville. The French called these Protestants Huguenots. The land belonged to the Timucua people. The Huguenots' leader, René de Laudonnière, wrote that on June 30, 1564, he had his people gather on the beach. There he ordered them to sing aloud and give thanks to God for their safe arrival.
 
-On September 8, 1565, Menéndez and about 800 Spanish settlers came ashore at Seloy, a Timucua town. A priest, Father Francisco López de Mendoza Grajales, said a Mass of thanksgiving. A Mass is the main church service of the Catholic Church. Afterward, the priest wrote, Menéndez "had the Indians fed and dined himself."
+Menéndez and about 800 Spanish settlers came ashore at Seloy, a Timucua town, on September 8, 1565. A priest, Father Francisco López de Mendoza Grajales, said a Mass of thanksgiving, the main church service of the Catholic Church. Afterward, the priest wrote, Menéndez "had the Indians fed and dined himself."
 
-A National Park Service page describes this Mass and meal as "the first community act of religion and thanksgiving in the first permanent European settlement" in North America. The phrase comes from the historian Michael Gannon. The Mass came 56 years before the English colonists' harvest meal at Plymouth, in New England. The same page states that the day "did not become the origin of a national annual tradition."
+The historian Michael Gannon called this Mass and meal "the first community act of religion and thanksgiving in the first permanent European settlement" in North America, and the National Park Service repeats his words. The Mass came 56 years before the English colonists' harvest meal at Plymouth, in New England. The same Park Service page states that the day "did not become the origin of a national annual tradition."
 
-Menéndez's soldiers captured Fort Caroline on September 20, 1565, twelve days after the Mass. They killed most of the men there. They spared the women and children and shipped them to Havana, in Cuba. Other French survivors surrendered to the Spanish at an inlet south of St. Augustine.
+**What the Spanish did next.** Menéndez's soldiers captured Fort Caroline on September 20, 1565, twelve days after the Mass. They killed most of the men there. They spared the women and children and shipped them to Havana, in Cuba. Other French survivors surrendered to the Spanish at an inlet south of St. Augustine.
 
 Menéndez's soldiers killed them there: 111 men in late September and 134 more in October, by the Park Service's count. The Park Service says the soldiers spared 16 men from the first group. A few said they were Catholic, some were sailors from Brittany (a part of France), and four were craftsmen. The Spanish named the inlet Matanzas, which means "slaughters."
 
-Menéndez wrote to King Philip II of Spain about the killings on October 15, 1565. His letter gives different numbers. He wrote that his men cut the throats of 132 men at Fort Caroline, and of 10 more the next day. At the inlet, he wrote, his men tied the hands of the first group behind their backs. Then they "put them to the knife," which means they stabbed them to death. He spared 16 of them, and 12 of those were sailors from Brittany. The French commander, Jean Ribault, surrendered with up to 70 men. Menéndez spared five: two young men of about 18, and three musicians who played the fife (a small flute), the drum and the trumpet. He killed Ribault and all the rest.
+Menéndez wrote to King Philip II of Spain about the killings on October 15, 1565. His letter gives different numbers. He wrote that his men cut the throats of 132 men at Fort Caroline, and of 10 more the next day. At the inlet, he wrote, his men tied the hands of the first group behind their backs. Then they "put them to the knife," which means they stabbed them to death. He spared 16 of them, and 12 of those were sailors from Brittany.
+
+The French commander, Jean Ribault, surrendered with up to 70 men. Menéndez spared five: two young men of about 18, and three musicians who played the fife (a small flute), the drum and the trumpet. He killed Ribault and all the rest.
 
 In the same letter Menéndez told the king why he had killed them. He wrote that they "spread the Lutheran sect," which meant the Protestant faith. He also wrote that they had built their fort "without permission of Your Majesty."
 
-#### A thanksgiving on the Rio Grande, 1598
+#### The thanksgiving Texans claim, 1598
 
 Juan de Oñate led about 500 people north across the Chihuahuan Desert to start a Spanish colony in New Mexico. They were soldiers, colonists, wives and children. They brought about 7,000 farm animals. The crossing took about 50 days. They reached the Rio Grande near what is now San Elizario, Texas.
 
-After ten days of rest, on April 30, 1598, Oñate ordered a day of thanksgiving. Franciscan friars said Mass. A friar is a man who has promised to spend his life in prayer and service in the Catholic Church. The Franciscans are one group of friars. The colonists ate game they had hunted and fish that Manso people, who lived nearby, brought them. One of the colonists wrote, "We built a great bonfire and roasted the meat and fish." Then Oñate read out a claim to the land for King Philip II. The claim is called La Toma, "the taking."
+Oñate ordered a day of thanksgiving after ten days of rest, on April 30, 1598. Franciscan friars, men who had promised their lives to prayer and service in the Catholic Church, said Mass. The colonists ate game they had hunted and fish that Manso people, who lived nearby, brought them. One of the colonists wrote, "We built a great bonfire and roasted the meat and fish." Then Oñate read out a claim to the land for King Philip II. The claim is called La Toma, "the taking."
 
 Some Texans call this day the first Thanksgiving. Others have made the same claim for a celebration held by Francisco Vázquez de Coronado's men in Palo Duro Canyon in 1541. The *Texas Almanac* states that this claim was later questioned.
 
-#### A ceremony at Secotan, 1585
+#### What John White painted at Secotan, 1585
 
-In July 1585 the English artist John White visited Secotan, a town in what is now North Carolina. Its people spoke an Algonquian language, one of a family of related Native languages. White painted a large ceremony there. Men and women sang and danced around a circle of wooden posts. Some shook gourd rattles, and some carried leafy branches. Thomas Hariot, an Englishman on the same voyage, wrote a description of the scene. He wrote that the posts were carved with heads like the faces of nuns in their veils. He wrote that the dancers dressed in "the most strange fashion they can devise" and had marks on their backs to show which place they came from.
+The English artist John White visited Secotan, a town in what is now North Carolina, in July 1585. Its people spoke an Algonquian language, one of a family of related Native languages. White painted a large ceremony there. Men and women sang and danced around a circle of wooden posts. Some shook gourd rattles, and some carried leafy branches.
+
+Thomas Hariot, an Englishman on the same voyage, wrote a description of the scene. He wrote that the posts were carved with heads like the faces of nuns in their veils. He wrote that the dancers dressed in "the most strange fashion they can devise" and had marks on their backs to show which place they came from.
 
 Encyclopedia Virginia describes the ceremony as "perhaps connected to the corn harvest." The records that survive do not say what the ceremony was called or what it meant to the people of Secotan.
 
 ### The 1600s
 
-English colonists in the 1600s did not agree about holidays. In Virginia, John Smith and his men kept Christmas in a Native town in the winter of 1608 to 1609. The Puritans were English Protestants, and their leaders ran the New England colonies. Puritans kept Sundays as holy days but did not keep Christmas, because nothing in the Bible told Christians to keep it. When a drought threatened the crops, Puritan leaders called a day of fasting and prayer. After rain, a good harvest, the safe arrival of ships or a victory, they called a day of thanksgiving, spent in church. In 1659 the lawmakers of Massachusetts Bay made keeping Christmas a crime.
+**Era 3 of 10 · The 1600s · about 9 minutes**
 
-In the fall of 1621, the colonists at Plymouth held a harvest meal. About ninety Wampanoag men joined them, and the meal went on for three days. Americans now call it the first Thanksgiving. A Plimoth Patuxet Museums page states that nobody in print gave it that name until 1841.
+John Smith and his men kept Christmas in a Native town in Virginia in the winter of 1608 to 1609. Fifty years later, in 1659, the lawmakers of Massachusetts Bay made keeping Christmas a crime. English colonists did not agree about holidays. The Puritans, English Protestants whose leaders ran the New England colonies, kept Sundays as holy days but did not keep Christmas, because nothing in the Bible told Christians to keep it.
+
+When a drought threatened the crops, Puritan leaders called a day of fasting and prayer. After rain, a good harvest, the safe arrival of ships or a victory, they called a day of thanksgiving, spent in church.
+
+In the fall of 1621, the colonists at Plymouth held a harvest meal. About ninety Wampanoag men joined them, and the meal went on for three days. Americans now call it the first Thanksgiving. Nobody in print gave it that name until 1841.
 
 #### Christmas and thanksgiving in Virginia
 
-In the winter of 1608 to 1609, John Smith and his men were caught by bad weather at Kecoughtan, a Native town in Virginia. They stayed six or seven days, over Christmas. Smith wrote that they "were never more merry." He wrote that they had never eaten more good oysters, fish, meat, wild birds and bread. He also wrote that he had never had better fires in England than in the dry, smoky houses of Kecoughtan.
+John Smith and his men were caught by bad weather at Kecoughtan, a Native town in Virginia, in the winter of 1608 to 1609. They stayed six or seven days, over Christmas. Smith wrote that they "were never more merry." He wrote that they had never eaten more good oysters, fish, meat, wild birds and bread. He also wrote that he had never had better fires in England than in the dry, smoky houses of Kecoughtan.
 
-On December 4, 1619, the ship *Margaret* landed 35 settlers and their captain, John Woodlief, at Berkeley Hundred on the James River. The land there was home to Native nations, among them the Chickahominy, the Paspahegh and the Weyanock. Before the settlers left England, a group of men there called the Berkeley Company had given them ten written orders. The first order said the day of arrival "shall be yearly and perpetually kept holy as a day of Thanksgiving to Almighty God." Perpetually means forever. The settlers held a service of thanks that day. The records do not show whether they held it again in the next two years.
+**Berkeley Hundred.** The ship *Margaret* landed 35 settlers and their captain, John Woodlief, at Berkeley Hundred on the James River on December 4, 1619. The land there was home to Native nations, among them the Chickahominy, the Paspahegh and the Weyanock.
 
-On March 22, 1622, Powhatan men attacked the English settlements along the James River. They killed eleven people at Berkeley. In 1958 Senator John Wicker, the Jamieson family and descendants of John Woodlief began holding the Berkeley thanksgiving again.
+Before the settlers left England, a group of men there called the Berkeley Company had given them ten written orders. The first order said the day of arrival "shall be yearly and perpetually kept holy as a day of Thanksgiving to Almighty God," and perpetually meant forever. The settlers held a service of thanks that day. The records do not show whether they held it again in the next two years.
+
+Powhatan men attacked the English settlements along the James River on March 22, 1622. They killed eleven people at Berkeley. In 1958 Senator John Wicker, the Jamieson family and descendants of John Woodlief began holding the Berkeley thanksgiving again.
 
 #### The harvest meal at Plymouth, 1621
 
-The Plymouth colonists built their town in 1620 on the site of Patuxet, a Wampanoag town. An epidemic between 1616 and 1619 had killed most of the people of Patuxet. An epidemic is a disease that spreads to many people at once. Of the 102 people who came on the *Mayflower*, 53 were still alive by the fall of 1621: 24 men, 5 women and 24 children and teenagers.
+The Plymouth colonists built their town in 1620 on the site of Patuxet, a Wampanoag town. An epidemic, a disease that spread through many people at once, had killed most of the people of Patuxet between 1616 and 1619. Of the 102 people who came on the *Mayflower*, 53 were still alive by the fall of 1621: 24 men, 5 women and 24 children and teenagers.
 
 Only two people who were there wrote about that fall's harvest. One was Edward Winslow, in a letter of December 1621 that was printed in London in 1622. The book it was printed in is now called *Mourt's Relation*. The other was William Bradford, the governor, who later wrote a history of the colony that runs to the year 1650.
 
 Winslow wrote that after the harvest, the governor sent four men to hunt birds "so we might after a special manner rejoice together." Massasoit, the leader the English called the Wampanoag's "greatest king," came "with some ninety men." The English "entertained and feasted" them for three days. The Wampanoag men went out, killed five deer, and gave them to the governor and other leaders.
 
-Massasoit's own name was Ousamequin. The two sides had made an alliance earlier that year. To the Wampanoag, an alliance was a spoken agreement sealed by giving gifts. A Plimoth Patuxet Museums page states that Ousamequin's visit was probably a show of strength. The same page explains that the two sides needed to renew such agreements, perhaps on a regular basis, to keep the terms alive in memory.
+Massasoit's own name was Ousamequin. The two sides had made an alliance earlier that year. To the Wampanoag, an alliance was a spoken agreement sealed by giving gifts. Historians at Plimoth Patuxet Museums think Ousamequin's visit was probably a show of strength, and that the two sides needed to renew such agreements, perhaps regularly, to keep the terms alive in memory.
 
 Neither Winslow nor Bradford called the meal a thanksgiving. To the colonists, a thanksgiving was a day of prayer in church.
 
@@ -31195,7 +31925,7 @@ Later Americans called the Plymouth colonists the Pilgrims. By 1816 New Englande
 >
 > **When and where:** Plymouth, in what is now Massachusetts, 1621 to 1623.
 
-William Bradford was the governor of Plymouth, and he wrote down how the colony kept its days. In the fall of 1621 he sent four men to hunt birds for the harvest meal. The Wampanoag men who came with Massasoit gave him and other leaders five deer.
+**Christmas Day 1621: the governor took away the bat and the ball.**
 
 On Christmas Day 1621, Bradford called the men of Plymouth out to work. Most of the men who had just arrived on the ship *Fortune* said that working on Christmas went against what they believed was right. Bradford let them stay behind. At noon he came back and found them playing games in the street. Some were "pitching the bar," a contest to see who could throw a heavy bar or pole the farthest. Others were playing stool-ball, a game played with a ball, a bat and a stool.
 
@@ -31207,21 +31937,26 @@ In 1623 no rain fell on Plymouth from the third week of May until the middle of 
 
 The Puritan leaders of New England called a fast or a thanksgiving when something happened. Each one was a day of church services, so the dates changed from year to year. In Massachusetts Bay, the members of the General Court, the colony's lawmakers, set these days together with the elders who led the churches.
 
-In September 1638 the lawmakers asked the elders to keep a thanksgiving on the last Thursday of the eighth month. The colony's lawmakers counted the months from March, so their records call August "the 6th Month." So the eighth month was October. The thanks were for the many ships that had arrived safely that year, for the good weather in the spring and for the ripening harvest.
+**One example.** The lawmakers asked the elders in September 1638 to keep a thanksgiving on the last Thursday of the eighth month. The colony's lawmakers counted the months from March, so their records call August "the 6th Month." So the eighth month was October. The thanks were for the many ships that had arrived safely that year, for the good weather in the spring and for the ripening harvest.
 
-#### Thanksgiving days after the Pequot War, 1637
+#### A thanksgiving for a massacre, 1637
 
-In 1637 the Massachusetts Bay colonists held a day of thanksgiving after the Pequot War. In that war, colonists killed hundreds of Pequot at Mystic. Before dawn on May 26, 1637, Connecticut colonists under Captain John Mason, with Mohegan and Narragansett allies, attacked the Pequot town at Mystic. The town had a wall of wooden posts around it. Mason's men set it on fire and shot the people who tried to escape. Between 400 and 700 Pequot were killed, most of them old men, women and children. Those figures come from the Mashantucket Pequot Tribal Nation's own history.
+The Massachusetts Bay colonists held a day of thanksgiving in 1637 for a victory in which colonists killed hundreds of Pequot people. Before dawn on May 26, 1637, Connecticut colonists under Captain John Mason, with Mohegan and Narragansett allies, attacked the Pequot town at Mystic. The town had a wall of wooden posts around it. Mason's men set it on fire and shot the people who tried to escape. They killed between 400 and 700 Pequot, most of them old men, women and children, by the count in the Mashantucket Pequot Tribal Nation's own history.
 
-In August 1637 the lawmakers asked the magistrates to talk with the church elders about a day of thanksgiving for the soldiers' return. Magistrates were the colony's judges and officials. They also asked each town to hold a feast for its soldiers. Later that year they ordered that October 12, 1637, be kept as a day of thanksgiving to God. The order lists the reasons for the thanks: "subdewing the Pecoits," meaning defeating the Pequot, and "bringing the soldiers in safety." It also lists "the successe of the conference" and good news from Germany. "The conference" was most likely the meeting of ministers at Newtown, now Cambridge, from August 30 to September 22, 1637. The ministers met to settle a quarrel over church teachings.
+**The order.** That August the lawmakers asked the magistrates, the colony's judges and officials, to talk with the church elders about a day of thanksgiving for the soldiers' return. They also asked each town to hold a feast for its soldiers. Later that year they ordered that October 12, 1637, be kept as a day of thanksgiving to God.
 
-William B. Newell, a Penobscot scholar, said that "the first official Thanksgiving Day commemorated the massacre of 700 Indian men, women and children during one of their religious ceremonies." Commemorated means marked or celebrated the memory of. A massacre is the killing of many people who cannot defend themselves. The records of the attack do not mention a ceremony. Newell was described as a former head of anthropology, the study of human peoples and their ways of life, at the University of Connecticut. Jeremy Bangs, writing for the History News Network in 2005, answered that Newell never headed that department and that Plymouth Colony took no part in the attack. The court records show that the lawmakers set a day of thanksgiving for the victory over the Pequot. They also show other thanksgiving days, such as one in 1638 for the ships, the spring weather and the harvest.
+The order lists the reasons for the thanks: "subdewing the Pecoits," meaning defeating the Pequot, and "bringing the soldiers in safety." It also lists "the successe of the conference" and good news from Germany. "The conference" was most likely the meeting of ministers at Newtown, now Cambridge, from August 30 to September 22, 1637. The ministers met to settle a quarrel over church teachings.
+
+**A claim that spread.** William B. Newell, a Penobscot scholar, said that "the first official Thanksgiving Day commemorated (marked the memory of) the massacre of 700 Indian men, women and children during one of their religious ceremonies." A massacre is the killing of many people who cannot defend themselves. Newell was described as a former head of anthropology, the study of human peoples and their ways of life, at the University of Connecticut. Jeremy Bangs, writing for the History News Network in 2005, answered that Newell never headed that department and that Plymouth Colony took no part in the attack.
+
+**Known:** The court records show that the lawmakers set October 12, 1637, as a day of thanksgiving for the victory over the Pequot, and set other days for other reasons, such as the 1638 day for the ships, the spring weather and the harvest.
+**Not known:** No record of the attack mentions a ceremony at Mystic that morning.
 
 #### Christmas made a crime, 1659 to 1681
 
-On May 11, 1659, the lawmakers of Massachusetts Bay passed a law against Christmas. Anyone found "observing any such day as Christmas or the like, either by forbearing of labor, feasting, or any other way" had to pay a fine of five shillings. Forbearing of labor meant not working. A shilling was an English coin, and twenty shillings made a pound.
+**The law.** The lawmakers of Massachusetts Bay passed a law against Christmas on May 11, 1659. Anyone found "observing any such day as Christmas or the like, either by forbearing of labor, feasting, or any other way" had to pay a fine of five shillings. Forbearing of labor meant not working, and twenty shillings made an English pound.
 
-The Puritans saw Christmas as a season of too much eating and drinking, with nothing in the Bible behind it. The minister Increase Mather called Christmas "a profane and superstitious custom." Profane meant not holy, and superstitious meant based on false beliefs about magic and luck.
+The Puritans saw Christmas as a season of too much eating and drinking, with nothing in the Bible behind it. The minister Increase Mather called Christmas "a profane and superstitious custom," meaning one that was not holy and rested on false beliefs about magic and luck.
 
 In 1681, under pressure from King Charles II's government in London, the lawmakers canceled the Christmas law. People in Massachusetts went back to keeping Christmas slowly. By the 1750s some hymn books in Massachusetts had Christmas songs in them. By 1760 most almanacs, small books printed each year with a calendar, marked December 25 as Christmas. Families there began to make it a home holiday in the early 1800s.
 
@@ -31229,23 +31964,29 @@ In 1681, under pressure from King Charles II's government in London, the lawmake
 
 In New Mexico, Spanish church leaders and governors tried to end the Pueblo people's own ceremonies. From 1656 to 1665, the head of the Franciscan friars there, Alonso de Posada, forbade those ceremonies. He ordered the friars to break into the kivas, the underground rooms where the Pueblo people worship. There the friars were to burn the masks and take or destroy the sacred objects.
 
-In 1675 Governor Juan Francisco Treviño had 47 Pueblo religious leaders arrested for practicing sorcery, which means using magic to do harm. Spanish officials sentenced four of them to be hanged. They hanged three, and the fourth killed himself. The officials shamed the rest, whipped them in public and sent them to prison. Then a force of Pueblo men went to Santa Fe, and Treviño freed the prisoners. One of the men freed was Po'pay, who had been whipped in public. Cliff Fragua's statue of Po'pay shows the scars of the whipping on his back. In August 1680 he led the Pueblo Revolt, and the Pueblo people drove the Spanish out of New Mexico for twelve years.
+**Treviño's arrests.** Governor Juan Francisco Treviño had 47 Pueblo religious leaders arrested in 1675 for practicing sorcery, which means using magic to do harm. Spanish officials sentenced four of them to be hanged. They hanged three, and the fourth killed himself. The officials shamed the rest, whipped them in public and sent them to prison.
+
+Then a force of Pueblo men went to Santa Fe, and Treviño freed the prisoners. One of the men freed was Po'pay, who had been whipped in public. Cliff Fragua's statue of Po'pay shows the scars of the whipping on his back. In August 1680 he led the Pueblo Revolt, and the Pueblo people drove the Spanish out of New Mexico for twelve years.
 
 ### 1700 to 1750
 
-Between 1700 and 1750, people in different colonies kept different days, and many of those days came from Britain. New England governors ordered days of thanksgiving and days of fasting. In 1746 a Massachusetts governor banned ordinary work on a day of thanksgiving. In Boston, boys and young men paraded through the streets every November 5, on Pope's Night. In New York, African and Dutch New Yorkers, many of them enslaved, gathered for Pinkster, a spring holiday the Dutch had brought. In New England, Black communities began choosing their own governors and kings.
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
-#### Thanksgiving and fast days by the governor's order
+Boston boys paraded every November 5 with figures of the Pope, and New York's enslaved and free Black people gathered each spring for Pinkster, a holiday the Dutch had brought. Between 1700 and 1750, people in different colonies kept different days, and many of those days came from Britain. New England governors ordered days of thanksgiving and days of fasting by printed order. In 1746 a Massachusetts governor banned ordinary work on a day of thanksgiving. In New England, Black communities began choosing their own governors and kings.
+
+#### Thanksgiving and fast days by the governor's printed order
 
 In Connecticut and Massachusetts, the governor named the days of thanksgiving and the days of fasting. Printers published his order on a large single sheet of paper called a broadside.
 
-On October 14, 1721, Governor Gurdon Saltonstall of Connecticut set Wednesday, November 8, as a day of thanksgiving. Smallpox, a disease that passes from person to person and can kill, was then spreading in Boston. In his order, Saltonstall gave thanks that the sickness had not reached Connecticut. He also gave thanks for the peace, for that year's harvest and for the birth of a prince in the royal family, Prince William Augustus.
+Governor Gurdon Saltonstall of Connecticut set Wednesday, November 8, 1721, as a day of thanksgiving, in an order dated October 14. Smallpox, a disease that passes from person to person and can kill, was then spreading in Boston. In his order, Saltonstall gave thanks that the sickness had not reached Connecticut. He also gave thanks for the peace, for that year's harvest and for the birth of a prince in the royal family, Prince William Augustus.
 
 Governor William Shirley of Massachusetts ordered a thanksgiving for Thursday, August 14, 1746. Soldiers under the Duke of Cumberland had defeated rebels in Scotland. Shirley called on people to go to worship that day. His order said, "all servile Labour is prohibited on said Day." Servile labor meant ordinary work. Massachusetts governors also ordered fast days. Jonathan Belcher ordered one in 1734, and Spencer Phips ordered another in 1745.
 
-#### Pope's Night in Boston
+#### Why Boston boys burned the Pope every November 5
 
-Pope's Night began with a plot in England. In the early hours of November 5, 1605, men loyal to King James I searched the cellars under Parliament, England's lawmaking body, in London. They found a man named Guy Fawkes there, in a cloak and hat, with boots and spurs, carrying fuses and matches. He and a group of other English Catholics had planned to kill the king when Parliament opened. The members of Parliament then passed a law for a public thanksgiving every November 5. In New England the day became Pope's Night, and crowds burned figures of the Pope, the head of the Catholic Church.
+Pope's Night began with a plot in England. In the early hours of November 5, 1605, men loyal to King James I searched the cellars under Parliament, England's lawmaking body, in London. They found a man named Guy Fawkes there, in a cloak and hat, with boots and spurs, carrying fuses and matches. He and a group of other English Catholics had planned to kill the king when Parliament opened.
+
+The members of Parliament then passed a law for a public thanksgiving every November 5. In New England the day became Pope's Night, and crowds burned figures of the Pope, the head of the Catholic Church.
 
 In Boston, young men and older boys built wagons that carried moving figures of the Pope, devils and political enemies. One figure was the Stuart Pretender, a man who claimed he should be king of Britain. Some of the young men dressed as devils in tall pointed caps, and some dressed as women. They paraded through town and asked homeowners for money. The night ended with a meal outdoors and a bonfire.
 
@@ -31263,33 +32004,37 @@ The celebration lasted several days. Enslavers gave enslaved men and women time 
 
 Black communities in New England held elections of their own. Where white men elected their governor, as in Connecticut and Rhode Island, Black communities elected a Black governor. Where the king of England appointed the governor, as in Massachusetts and New Hampshire, they elected a king.
 
-The elections in Connecticut may have begun as early as 1749. The earliest governor's name known today is Hercules, of New London, Connecticut, from about that year. He is known from the gravestone of his wife, Florio.
+The earliest Black governor whose name survives is Hercules, of New London, Connecticut, from about 1749. He is known from the gravestone of his wife, Florio. The elections in Connecticut may have begun that year.
 
 In Connecticut the Black election came the day after the white men's election, and the celebration went on for a week. Some people borrowed clothes from the men and women who enslaved them. The enslaver of the man who won was expected to help provide the food, the decorations and the liquor. People ate gingerbread and thick election cakes full of fruit, and drank rum. The parades had gunshots, tambourines, banjos, fiddles and drums, and some marchers spoke African languages.
 
 ### 1750 to 1800
 
+**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
+
 Americans held the first planned Fourth of July celebrations on July 4, 1777, the first anniversary of independence. Within a few years they also celebrated George Washington's birthday. Neither day was a national holiday yet. The Continental Congress was the meeting of men sent by each state to lead the Revolution. Its members asked Americans to keep days of thanksgiving on dates they chose. Later President Washington did the same. None of them set a yearly date.
 
 Older customs changed during the Revolution. Boston's crowds turned Pope's Night into a protest against British taxes, and General Washington banned it in his army. At Washington's own plantation, the evidence points to four days off at Christmas for most enslaved workers. The Washingtons made the enslaved people who worked in the house do extra work, serving their guests.
 
-#### Pope's Night, 1764 to 1775
+#### Pope's Night turns into protest, 1764 to 1775
 
-On Pope's Night, November 5, 1764, one of the Pope wagons in Boston ran over and killed a boy named Brown. Accounts give his age as five to nine. The records that survive do not give his first name or say who was driving. The boy died early in the day. The parades and the fight between the gangs went on that night.
+A Pope wagon in Boston ran over and killed a boy named Brown on Pope's Night, November 5, 1764. Accounts give his age as five to nine. The records that survive do not give his first name or say who was driving. The boy died early in the day. The parades and the fight between the gangs went on that night.
 
-In August 1765, crowds in Boston protested the Stamp Act, a British tax on printed paper. They used the customs of Pope's Night: they hanged and burned figures, marched through town and lit bonfires. They broke into three or four large houses and smashed the furniture. Ebenezer Mackintosh, a shoemaker and the captain of the South End gang, led the crowd on August 14. On August 26 a crowd attacked the house of Lieutenant Governor Thomas Hutchinson. Afterward Sheriff Stephen Greenleaf arrested Mackintosh, then let him go.
+**The Stamp Act crowds.** Crowds in Boston protested the Stamp Act, a British tax on printed paper, in August 1765. They used the customs of Pope's Night: they hanged and burned figures, marched through town and lit bonfires. They broke into three or four large houses and smashed the furniture. Ebenezer Mackintosh, a shoemaker and the captain of the South End gang, led the crowd on August 14. On August 26 a crowd attacked the house of Lieutenant Governor Thomas Hutchinson. Afterward Sheriff Stephen Greenleaf arrested Mackintosh, then let him go.
 
 That fall Mackintosh made a deal with Henry Swift, the captain of the North End gang. A Boston printer, John Boyle, wrote it down: "A Union established between the South and North End Popes." On Pope's Night the two gangs joined as one, and they sat down to a dinner that wealthy merchants paid for.
 
-Ten years later, on November 5, 1775, General George Washington ordered his soldiers not to keep "that ridiculous and childish Custom of burning the Effigy of the pope." An effigy is a figure made to look like a person. He wrote that the custom was improper "at a time when we are soliciting, and have really obtained the friendship and alliance of the people of Canada." Soliciting meant asking for. Pope's Night ended in Boston during the Revolution. By one account it ended in the mid-1770s. By another, Boston crowds kept it again in 1776 and 1777 and stopped when soldiers from France, a Catholic country, arrived to fight on the American side.
+**Washington's order.** General George Washington ordered his soldiers on November 5, 1775, not to keep "that ridiculous and childish Custom of burning the Effigy of the pope." An effigy is a figure made to look like a person. He wrote that the custom was improper "at a time when we are soliciting (asking for), and have really obtained the friendship and alliance of the people of Canada."
+
+Pope's Night ended in Boston during the Revolution. By one account it ended in the mid-1770s. By another, Boston crowds kept it again in 1776 and 1777 and stopped when soldiers from France, a Catholic country, arrived to fight on the American side.
 
 #### The first Fourth of July, 1777
 
-The members of the Continental Congress voted for independence on July 2, 1776. The next day John Adams wrote to his wife, Abigail. He wrote that July 2 would be celebrated as "the great anniversary Festival" and that the day "ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires and Illuminations from one End of this Continent to the other." Solemnized meant marked with ceremony. Shews meant shows. Illuminations were candles lit in the windows. The members of Congress formally approved the Declaration of Independence on July 4, and that is the date Americans celebrate.
+The members of the Continental Congress voted for independence on July 2, 1776. The next day John Adams wrote to his wife, Abigail. He wrote that July 2 would be celebrated as "the great anniversary Festival" and that the day "ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires and Illuminations from one End of this Continent to the other." By solemnized he meant marked with ceremony, shews were shows, and illuminations were candles lit in the windows. The members of Congress formally approved the Declaration of Independence on July 4, and that is the date Americans celebrate.
 
-In July 1776, crowds greeted the public readings of the Declaration with parades, bonfires and gunfire. The first planned Fourth of July celebrations came a year later, in Philadelphia and in Boston.
+Crowds greeted the public readings of the Declaration in July 1776 with parades, bonfires and gunfire. The first planned Fourth of July celebrations came a year later, in Philadelphia and in Boston.
 
-In Philadelphia on July 4, 1777, the armed ships in the Delaware River were hung with flags. At one o'clock each ship fired thirteen cannon, one for each state. That night bells rang and fireworks went up over the city's common, and people lit candles in their windows. A Philadelphia newspaper, the *Pennsylvania Evening Post* of July 5, 1777, describes the day. In 1781 Massachusetts lawmakers made the Fourth of July an official state holiday, the first state to do so.
+**The first planned Fourth.** In Philadelphia on July 4, 1777, the armed ships in the Delaware River were hung with flags. At one o'clock each ship fired thirteen cannon, one for each state. That night bells rang and fireworks went up over the city's common, and people lit candles in their windows. A Philadelphia newspaper, the *Pennsylvania Evening Post* of July 5, 1777, describes the day. In 1781 Massachusetts lawmakers made the Fourth of July an official state holiday, the first state to do so.
 
 <a id="story-henry-wight-holidays"></a>
 
@@ -31299,35 +32044,37 @@ In Philadelphia on July 4, 1777, the armed ships in the Delaware River were hung
 >
 > **When and where:** Bristol, Rhode Island, from 1785.
 
-Henry Wight started the yearly Fourth of July celebration in Bristol, Rhode Island, in 1785. The Bristol Fourth of July Committee dates the celebration from that year, when Wight led the first Patriotic Exercises. The town still holds it, and the town government calls it the oldest Fourth of July celebration in the United States that has never stopped.
+**The oldest Fourth of July that never stopped: Bristol, since 1785.**
 
-Wight was born in Medfield, Massachusetts, on May 26, 1752. He left his studies at Harvard to serve in the Revolutionary War. One account says he served as a soldier. Another says he served as a surgeon, a doctor who operates on the body.
+Henry Wight started the yearly Fourth of July celebration in Bristol, Rhode Island, in 1785, when he led the town's first Patriotic Exercises. The town still holds it, and the town government calls it the oldest Fourth of July celebration in the United States that has never stopped.
 
-In January 1785 the members of the First Congregational Church of Bristol hired him as their minister. There were 36 members.
+Wight had left his studies at Harvard to serve in the Revolutionary War. One account says he served as a soldier. Another says he served as a surgeon, a doctor who operates on the body. In January 1785 the 36 members of the First Congregational Church of Bristol hired him as their minister.
 
-Bristol stands on Mount Hope, called Montaup in the Pokanoket language. It was part of the homeland of the Pokanoket Wampanoag. Metacom, a Wampanoag leader whom the English called King Philip, had his base there.
-
-In 1675 and 1676 he led a war against the New England colonies, called King Philip's War. On August 12, 1676, Metacom was killed at Mount Hope in an ambush led by the English captain Benjamin Church. A Native man serving with the English shot him dead. The English put Metacom's head on display at Plymouth and sold his wife and nine-year-old son into slavery.
+**Whose land Bristol stands on.** Bristol stands on Mount Hope, called Montaup in the Pokanoket language. It was part of the homeland of the Pokanoket Wampanoag. Metacom, a Wampanoag leader whom the English called King Philip, had his base there. In 1675 and 1676 he led a war against the New England colonies, called King Philip's War. On August 12, 1676, Metacom was killed at Mount Hope in an ambush led by the English captain Benjamin Church. A Native man serving with the English shot him dead. The English put Metacom's head on display at Plymouth and sold his wife and nine-year-old son into slavery.
 
 After the war, Plymouth Colony's leaders treated Mount Hope as the colony's land. In 1680 they sold it to four Boston merchants, John Walley, Nathaniel Byfield, Stephen Burton and Nathaniel Oliver, for 1,100 pounds. They shared the money among the colony's towns to pay the war's debts. The town of Bristol was founded on the land that year, and Plymouth Colony made it a town by law on October 28, 1681.
 
-The people of Bristol had fired cannon on the Fourth before Wight came. In 1777, one account says, "they ushered in the morning by firing 13 cannons, one for each colony." In 1785, his first year in Bristol, Wight led the town's first Patriotic Exercises on the Fourth of July. He gave a speech that honored the veterans and celebrated the new country's freedoms. The town's Fourth of July committee gives the early 1800s as the likely start of Bristol's parade. Wight died in 1837.
+**The cannon.** The people of Bristol had fired cannon on the Fourth before Wight came. In 1777, one account says, "they ushered in the morning by firing 13 cannons, one for each colony." In 1785 Wight gave a speech that honored the veterans and celebrated the new country's freedoms. The town's Fourth of July committee gives the early 1800s as the likely start of Bristol's parade. Wight died in 1837.
 
 #### Thanksgiving days for the new country
 
-On October 17, 1777, the British general John Burgoyne and his army surrendered to American soldiers at Saratoga, New York. The members of the Continental Congress then set December 18, 1777, as a day of thanksgiving for the whole country. Over the war years they named days of fasting in 1775, 1776, 1778, 1779, 1780, 1781 and 1782, and days of thanksgiving in 1777, 1778, 1781 and 1783.
+The British general John Burgoyne and his army surrendered to American soldiers at Saratoga, New York, on October 17, 1777. The members of the Continental Congress then set December 18, 1777, as a day of thanksgiving for the whole country. Over the war years they named days of fasting in 1775, 1776, 1778, 1779, 1780, 1781 and 1782, and days of thanksgiving in 1777, 1778, 1781 and 1783.
 
 Elias Boudinot of New Jersey was a member of the new House of Representatives. In 1789 he asked the other members of Congress to request a day of thanksgiving. The members of both houses agreed. They asked the president to name a day of thanks for the chance "peaceably to establish a form of government." On October 3, 1789, President George Washington named Thursday, November 26, 1789, as a day of thanksgiving.
 
-Washington sent his order to the state governors. On the day, he went to church at St. Paul's Chapel in New York City. He sent beer and food to men held in prison because they owed money. In 1794 thousands of farmers in western Pennsylvania took up arms against a federal tax on whiskey. This uprising is called the Whiskey Rebellion. Washington led an army of militia, citizen soldiers, against it, and the rebel leaders fled. On January 1, 1795, Washington named February 19 as a day of thanksgiving. One of the reasons he gave was the end of the uprising. None of these days became a yearly holiday.
+Washington sent his order to the state governors. On the day, he went to church at St. Paul's Chapel in New York City. He sent beer and food to men held in prison because they owed money.
+
+**A second day, 1795.** Thousands of farmers in western Pennsylvania took up arms in 1794 against a federal tax on whiskey. This uprising is called the Whiskey Rebellion. Washington led an army of militia, citizen soldiers, against it, and the rebel leaders fled. On January 1, 1795, Washington named February 19 as a day of thanksgiving. One of the reasons he gave was the end of the uprising. None of these days became a yearly holiday.
 
 #### Washington's birthday
 
 Soldiers at the army's winter camp at Valley Forge, Pennsylvania, gathered on George Washington's birthday in 1778 to wish him well. In 1779 people in Milton, Massachusetts, held a public celebration of the day.
 
-Washington was not born on February 22 by the calendar used in his time. When he was born, the date was February 11, 1731. In 1751 the members of Parliament passed a law that moved Britain and its colonies to the calendar used today. To catch up with that calendar, they took eleven days out of September 1752. In Britain and the colonies, the day after September 2, 1752, was September 14. The same law moved the start of the year from March 25 to January 1. Under the old count, a February birthday fell near the end of the year 1731. Under the new calendar, Washington's birth date became February 22, 1732.
+Washington was not born on February 22 by the calendar used in his time. When he was born, the date was February 11, 1731. In 1751 the members of Parliament passed a law that moved Britain and its colonies to the calendar used today.
 
-#### Christmas on the plantations
+To catch up with that calendar, they took eleven days out of September 1752. In Britain and the colonies, the day after September 2, 1752, was September 14. The same law moved the start of the year from March 25 to January 1. Under the old count, a February birthday fell near the end of the year 1731. Under the new calendar, Washington's birth date became February 22, 1732.
+
+#### Four days off at Christmas, and who got none
 
 Mount Vernon was George Washington's plantation in Virginia. Mary V. Thompson, writing for Mount Vernon, says the evidence shows that most enslaved workers there had four days off at Christmas. They used the days to rest and to visit family, at Mount Vernon and on nearby plantations. For the enslaved cooks, housemaids, waiters and others who worked in the house, Christmas brought no rest. The Washingtons had extra guests over the holiday, and they made these workers do extra work.
 
@@ -31353,6 +32100,8 @@ These governors had little power of their own. A Black governor had no power to 
 >
 > **When and where:** Hartford, Connecticut, 1776 to 1780.
 
+**A Black governor named without an election, two months before independence.**
+
 John Anderson became the Black governor of Hartford in May 1776, two months before the Declaration of Independence. White officials investigated his choice as a possible British plot.
 
 That May, white men in Connecticut elected Jonathan Trumbull governor again. He had been governor since 1769. Soon after, Cuff, the Black governor of Hartford, resigned. He named John Anderson as governor in his place, without an election. Major French recorded it in his journal on May 11, 1776.
@@ -31363,7 +32112,9 @@ Two accounts disagree about what the committee members found. Chris Menapace wri
 
 ### 1800 to 1850
 
-In the first half of the 1800s, wealthier families and newspaper editors in American towns worked to turn Christmas from a noisy street holiday into a day for families and children. In a poem printed in 1823, St. Nicholas comes down the chimney to fill the children's stockings. Thanksgiving was still mostly a New England day. Sarah Josepha Hale, a magazine editor, began asking governors and presidents to make it one day for the whole country.
+**Era 6 of 10 · 1800 to 1850 · about 10 minutes**
+
+Wealthier families and newspaper editors in American towns worked, in the first half of the 1800s, to turn Christmas from a noisy street holiday into a day for families and children. In a poem printed in 1823, St. Nicholas comes down the chimney to fill the children's stockings. Thanksgiving was still mostly a New England day. Sarah Josepha Hale, a magazine editor, began asking governors and presidents to make it one day for the whole country.
 
 In the South, enslavers gave enslaved people three to six days off at Christmas. In Edenton, North Carolina, January 1 was hiring day. Enslavers rented enslaved people out to other white men for the year. After the hiring they sold others, and Harriet Jacobs watched a mother's seven children sold away from her. Free Black Americans chose days of their own to celebrate: January 1, 1808, July 5, 1827, in New York, and August 1 after 1834. In 1811 the city leaders of Albany, New York, banned Pinkster, a spring holiday that African and Dutch New Yorkers had kept since the 1700s.
 
@@ -31371,35 +32122,41 @@ In the South, enslavers gave enslaved people three to six days off at Christmas.
 
 In the early 1800s, Christmas in American towns still meant heavy drinking, begging from door to door and rowdy parades. Wealthier families and newspaper editors feared that these crowds threatened public order. They worked to turn Christmas into a quiet day at home, centered on children.
 
-On December 23, 1823, the *Troy Sentinel*, a newspaper in Troy, New York, printed a poem called "Account of a Visit from St. Nicholas." It carried no author's name. It begins "'Twas the night before Christmas," and it describes stockings hung by the chimney for St. Nicholas to fill. "Down the chimney St. Nicholas came with a bound," the poem says. Eight reindeer pull his sleigh, and in the 1823 printing two of them are named Dunder and Blixem.
+**The poem.** The *Troy Sentinel*, a newspaper in Troy, New York, printed a poem called "Account of a Visit from St. Nicholas" on December 23, 1823. It carried no author's name. It begins "'Twas the night before Christmas," and it describes stockings hung by the chimney for St. Nicholas to fill. "Down the chimney St. Nicholas came with a bound," the poem says. Eight reindeer pull his sleigh, and in the 1823 printing two of them are named Dunder and Blixem.
 
-In 1837 a book called the *New York Book of Poetry* listed Clement Clarke Moore, a professor at a school for ministers in New York City, as the author. Moore put the poem in his own book of poems in 1844. The descendants of Henry Livingston Jr., a New York farmer and poet, say he wrote it as early as 1808. Accounts still differ about who wrote it.
+**Who wrote it.** A book called the *New York Book of Poetry* listed Clement Clarke Moore, a professor at a school for ministers in New York City, as the author in 1837. Moore put the poem in his own book of poems in 1844. The descendants of Henry Livingston Jr., a New York farmer and poet, say he wrote it as early as 1808. Accounts still differ about who wrote it.
 
 A few years after the poem appeared, Catharine Maria Sedgwick of Stockbridge, Massachusetts, published a story about children who found a Christmas tree with gifts around it. Shopkeepers began to advertise gifts for children.
 
 By the 1840s lawmakers in many states had begun to make Christmas a legal holiday, a holiday set by law. Alabama is often called the first state, in 1836, but Alabama's state archivists searched and found no law from that year. In 1848 Alabama's lawmakers made Christmas a bank holiday, a day when payments on loans were not due.
 
-#### Christmas and New Year's Day for enslaved people
+#### Christmas under slavery, three days in the year
 
-Enslavers in the South gave enslaved workers three to six days off at Christmas. Edwin Epps, who held Solomon Northup on a plantation on Bayou Boeuf in Louisiana in the 1840s, gave three days. A bayou is a slow, swampy stream. Northup wrote that other enslavers gave four, five or six.
+Enslavers in the South gave enslaved workers three to six days off at Christmas. Edwin Epps, who held Solomon Northup in the 1840s on a plantation on Bayou Boeuf, a slow swampy stream in Louisiana, gave three days. Northup wrote that other enslavers gave four, five or six.
 
 Northup wrote that the planters on Bayou Boeuf took turns holding a "Christmas supper" for enslaved people from nearby plantations. Three to five hundred people came, and white people came to watch them eat. The supper and the days off were, Northup wrote, "southern life as it is, three days in the year." The other 362 days, he wrote, were "days of weariness, and fear, and suffering, and unremitting labor." Unremitting means without a break.
 
-Frederick Douglass was enslaved in Maryland. In 1845 he wrote that enslavers gave the days from Christmas to New Year's as holidays. He wrote that they did it because they knew it "would be unsafe to deprive them of it." To deprive someone of a thing is to take it away. Douglass called the holidays "safety-valves." By that he meant that enslavers used the days off to drain away the anger that could lead enslaved people to rebel.
+Frederick Douglass was enslaved in Maryland. In 1845 he wrote that enslavers gave the days from Christmas to New Year's as holidays. He wrote that they did it because they knew it "would be unsafe to deprive them of it," that is, to take it away. Douglass called the holidays "safety-valves." By that he meant that enslavers used the days off to drain away the anger that could lead enslaved people to rebel.
 
-In Edenton, North Carolina, enslaved men from the plantations went from door to door in costume on Christmas Day, until noon. Harriet Jacobs, who was enslaved in Edenton, called these groups the "Johnkannaus." Each group had about a hundred men. Two of them wore calico, a cheap printed cotton cloth, covered with a net of bright stripes, with cows' tails and horns. The men beat a drum made from a box covered in sheepskin, and others played triangles and jawbones. They sang songs they had made up during the month before. At every door they asked for a penny or a glass of rum, and a group could collect twenty or thirty dollars.
+In Edenton, North Carolina, enslaved men from the plantations went from door to door in costume on Christmas Day, until noon. Harriet Jacobs, who was enslaved in Edenton, called these groups the "Johnkannaus." Each group had about a hundred men. Two of them wore calico, a cheap printed cotton cloth, covered with a net of bright stripes, with cows' tails and horns.
 
-In Jacobs's town, January 1 was hiring day. On that day enslavers rented enslaved people to other white men for the coming year. The next day, each person had to go to the new master. Jacobs wrote that anyone who refused "is whipped, or locked up in jail, until he consents to go." She did not name who did the whipping. After the hiring, enslavers sold people.
+The men beat a drum made from a box covered in sheepskin, and others played triangles and jawbones. They sang songs they had made up during the month before. At every door they asked for a penny or a glass of rum, and a group could collect twenty or thirty dollars.
 
-Jacobs wrote that on one of these sale days she watched a mother lead her seven children to the auction block, the platform where people were sold. The mother knew some of them would be taken from her, but the buyers took all seven. A slave trader bought the children. A man from the town bought the mother. Jacobs did not give the mother's name. On another New Year's Day, Jacobs's friend Fanny was sold at auction to pay her enslaver's debts. Jacobs does not say who ordered the sale. One master bought Fanny, and another master, far away, bought her four daughters. Fanny later escaped.
+**Hiring day.** In Jacobs's town, January 1 was hiring day. On that day enslavers rented enslaved people to other white men for the coming year. The next day, each person had to go to the new master. Jacobs wrote that anyone who refused "is whipped, or locked up in jail, until he consents to go." She did not name who did the whipping. After the hiring, enslavers sold people.
 
-#### Days Black Americans chose to celebrate
+**The sale days.** Jacobs wrote that on one of these sale days she watched a mother lead her seven children to the auction block, the platform where people were sold. The mother knew some of them would be taken from her, but the buyers took all seven. A slave trader bought the children. A man from the town bought the mother. Jacobs did not give the mother's name.
 
-The members of Congress had voted to ban bringing enslaved people into the United States from other countries. The ban took effect on January 1, 1808. That day Absalom Jones preached a sermon of thanks at St. Thomas's African Episcopal Church in Philadelphia. He asked Black Americans to keep January 1 every year as a day of thanks. On that day they would teach their children "the history of the sufferings of our brethren, and of their deliverance." Brethren means brothers and sisters, and deliverance means being set free. Enslavers inside the country kept buying and selling people after the law.
+On another New Year's Day, Jacobs's friend Fanny was sold at auction to pay her enslaver's debts. Jacobs does not say who ordered the sale. One master bought Fanny, and another master, far away, bought her four daughters. Fanny later escaped.
 
-On March 31, 1817, New York's lawmakers voted to end slavery in the state on July 4, 1827. On that day about 4,600 people were freed. Some of them still had to work for their former enslavers for a set number of years under written contracts called indentures. Black New Yorkers held church services on July 4, 1827, and held their public celebration on July 5. Nathaniel Paul had led a meeting in Albany that voted to celebrate on the fifth, because the fourth was the day white citizens celebrated. The people at the July 4 church services went home quietly. They feared that white men celebrating Independence Day would pick fights with them. In New York City on July 5, between 2,000 and 4,000 people gathered in St. John's Park. Samuel Hardenburgh led them as the marshal of the day, the man in charge of the celebration.
+#### Why Black New Yorkers celebrated on July 5
 
-The members of Parliament, Britain's lawmakers, set August 1, 1834, as the day slavery would begin to end in the British colonies of the West Indies. The West Indies are the islands of the Caribbean Sea. On that day enslaved people in Antigua, Montserrat and Bermuda went free. In the other colonies they became "apprentices." Apprentices still had to work about 40 hours a week for their former enslavers, without pay. Their protests helped end that system in 1838.
+The members of Congress had voted to ban bringing enslaved people into the United States from other countries. The ban took effect on January 1, 1808. That day Absalom Jones preached a sermon of thanks at St. Thomas's African Episcopal Church in Philadelphia. He asked Black Americans to keep January 1 every year as a day of thanks. On that day they would teach their children "the history of the sufferings of our brethren (brothers and sisters), and of their deliverance (being set free)." Enslavers inside the country kept buying and selling people after the law.
+
+**July 5, not July 4.** New York's lawmakers voted on March 31, 1817, to end slavery in the state on July 4, 1827. On that day about 4,600 people were freed. Some of them still had to work for their former enslavers for a set number of years under written contracts called indentures. Black New Yorkers held church services on July 4, 1827, and held their public celebration on July 5. Nathaniel Paul had led a meeting in Albany that voted to celebrate on the fifth, because the fourth was the day white citizens celebrated.
+
+The people at the July 4 church services went home quietly. They feared that white men celebrating Independence Day would pick fights with them. In New York City on July 5, between 2,000 and 4,000 people gathered in St. John's Park. Samuel Hardenburgh led them as the marshal of the day, the man in charge of the celebration.
+
+**August 1.** The members of Parliament, Britain's lawmakers, set August 1, 1834, as the day slavery would begin to end in the British colonies of the West Indies. The West Indies are the islands of the Caribbean Sea. On that day enslaved people in Antigua, Montserrat and Bermuda went free. In the other colonies they became "apprentices." Apprentices still had to work about 40 hours a week for their former enslavers, without pay. Their protests helped end that system in 1838.
 
 Black Americans in New York City held a celebration on August 1, 1834. After freedom was complete in 1838, the editors of *The Emancipator*, Arthur Tappan's antislavery newspaper, called for a yearly holiday. In Oberlin, Ohio, Sabram Cox, who had escaped slavery, led the town's first August 1 celebration in 1842. The historian Jeffrey Kerr-Ritchie writes that for about thirty years, August 1 was the most important yearly celebration of freedom among Black people in the northern United States.
 
@@ -31423,31 +32180,39 @@ John Adams and Thomas Jefferson both died on July 4, 1826. It was fifty years to
 >
 > **When and where:** New England and Philadelphia, 1827 to 1879.
 
-Sarah Josepha Hale spent decades asking governors and presidents to make Thanksgiving one holiday for the whole country, on the same Thursday in every state. She was born in Newport, New Hampshire, on October 24, 1788. Her husband, David Hale, died after nine years of marriage and left her with five children. She wrote poems and books to support them. One of her poems for children was "Mary Had a Little Lamb."
+**Thirty years of letters, and the law came after her death.**
+
+Sarah Josepha Hale spent decades asking governors and presidents to make Thanksgiving one holiday for the whole country, on the same Thursday in every state. Her husband, David Hale, died after nine years of marriage and left her with five children. She wrote poems and books to support them. One of her poems for children was "Mary Had a Little Lamb."
 
 In her 1827 novel *Northwood*, she described a New England Thanksgiving dinner. Roast turkey sat at the head of the table. Of all the pies, "the pumpkin pie occupied the most distinguished niche," which means the place of honor.
 
-In 1837 she became the editor of *Godey's Lady's Book*, a women's magazine read across the country. She held the job until 1877. She used the magazine and her letters to ask for a national Thanksgiving. Accounts disagree about when she began. Plimoth Patuxet Museums gives the 1830s. The National Women's History Museum gives 1846. In 1863 Hale herself wrote that she had asked "for the last fifteen years," which points to about 1848. She sent her articles to the governors of every state and every territory. A territory was a part of the country that was not yet a state.
+**The magazine.** She became the editor of *Godey's Lady's Book*, a women's magazine read across the country, in 1837, and held the job until 1877. She used the magazine and her letters to ask for a national Thanksgiving. She sent her articles to the governors of every state and every territory, a part of the country that was not yet a state.
+
+Accounts disagree about when she began. Plimoth Patuxet Museums gives the 1830s. The National Women's History Museum gives 1846. In 1863 Hale herself wrote that she had asked "for the last fifteen years," which points to about 1848.
 
 Some Southern leaders saw Thanksgiving as a Northern holiday. Governor Henry Wise of Virginia wrote back to Hale that he wanted nothing to do with "this theatrical national claptrap of Thanksgiving." Claptrap means silly talk meant to win cheers. Northern ministers preached against slavery on the day, and that was what Wise objected to.
 
 Hale supported ending slavery, and later she backed a plan to send freed Black Americans to Africa. She did not support the movement to give women the vote.
 
-She got her national day in 1863. After that, each president proclaimed it each year. To proclaim a day is to name it in a public order. No law yet made Thanksgiving a holiday for the whole country. From 1870, a federal law gave national government workers in Washington, D.C., the day off on any thanksgiving day the president named. In May 1877, when she was 88, her eyes were so weak that a helper wrote a letter for her to George Washington Warren. In it she was still asking for "a Resolution of Congress making the last Thursday in November a legal holiday." She died in 1879.
+**Still asking.** She got her national day in 1863. After that, each president proclaimed it each year. To proclaim a day is to name it in a public order. No law yet set Thanksgiving as a holiday for the whole country. From 1870, under a federal law, national government workers in Washington, D.C., had the day off on any thanksgiving day the president named.
+
+In May 1877, when she was 88, her eyes were so weak that a helper wrote a letter for her to George Washington Warren. In it she was still asking for "a Resolution of Congress making the last Thursday in November a legal holiday." She died in 1879.
 
 ### 1850 to 1900
 
-Americans got their first national holidays between 1863 and 1894. President Abraham Lincoln proclaimed a national Thanksgiving in 1863. In 1870 the members of Congress made New Year's Day, the Fourth of July, Christmas and any thanksgiving day the president named holidays for federal workers in Washington, D.C. Federal workers are people who work for the national government. The members of Congress added Washington's birthday in 1879, Decoration Day in 1888 and Labor Day in 1894. Decoration Day was a day for putting flowers on soldiers' graves.
+**Era 7 of 10 · 1850 to 1900 · about 18 minutes**
+
+President Abraham Lincoln proclaimed the first national Thanksgiving in 1863, and the first national holidays followed between 1870 and 1894. In 1870 the members of Congress made New Year's Day, the Fourth of July, Christmas and any thanksgiving day the president named holidays for federal workers, the people who work for the national government, in Washington, D.C. The members of Congress added Washington's birthday in 1879, Decoration Day in 1888 and Labor Day in 1894. Decoration Day was a day for putting flowers on soldiers' graves.
 
 Freed Black Americans made days of their own after the Civil War. Freed people in Texas celebrated June 19, the day in 1865 when a Union general announced that slavery had ended there, and in Charleston, South Carolina, freed people reburied Union prisoners of war and decorated their graves. In Norfolk, Virginia, in 1866, white men attacked a march held to celebrate a new civil rights law.
 
-In 1890 the Commissioner of Indian Affairs, the official who ran the government's office for Native affairs, ordered the government's boarding schools for Native children to celebrate the anniversary of the Dawes Act. Under that law, federal officials broke up the land set aside for Native nations. In 1891 a mob in New Orleans killed eleven Italian American men. The next year, President Benjamin Harrison proclaimed the first national Columbus Day.
+The Commissioner of Indian Affairs, the official who ran the government's office for Native affairs, ordered the government's boarding schools for Native children in 1890 to celebrate the anniversary of the Dawes Act. Under that law, federal officials broke up the land set aside for Native nations. In 1891 a mob in New Orleans killed eleven Italian American men. The next year, President Benjamin Harrison proclaimed the first national Columbus Day.
 
-#### Thanksgiving for the whole country, 1863
+#### How Thanksgiving became national, 1863
 
-In the 1850s, some Southern leaders called Thanksgiving a Northern holiday. In 1856 the Richmond *Whig*, a Virginia newspaper, printed an attack on the thanksgiving day in the District of Columbia. The editors wrote that the day cost working men a day's pay and led to drunkenness. They called New England a "crazy society."
+Some Southern leaders in the 1850s called Thanksgiving a Northern holiday. In 1856 the Richmond *Whig*, a Virginia newspaper, printed an attack on the thanksgiving day in the District of Columbia. The editors wrote that the day cost working men a day's pay and led to drunkenness. They called New England a "crazy society."
 
-On September 28, 1863, in the middle of the Civil War, Sarah Josepha Hale wrote to President Abraham Lincoln. She asked him to proclaim the last Thursday in November as a national day of thanksgiving. Getting every state to pass a law, she wrote, "would require years." A proclamation is a public order or announcement by a president or governor.
+**Hale's letter.** Sarah Josepha Hale wrote to President Abraham Lincoln on September 28, 1863, in the middle of the Civil War. She asked him to proclaim the last Thursday in November as a national day of thanksgiving. Getting every state to pass a law, she wrote, "would require years."
 
 Lincoln issued the proclamation on October 3, 1863. Secretary of State William Seward, the head of the government's dealings with other countries, wrote it. In it Lincoln invited Americans everywhere, even those at sea and in other countries, to keep the last Thursday in November as a day of thanks. He also asked them to pray for "all those who have become widows, orphans, mourners or sufferers" in the war.
 
@@ -31455,19 +32220,19 @@ After 1863 every president proclaimed a Thanksgiving Day each year. Most chose t
 
 #### The first federal holidays, 1870 to 1888
 
-On June 28, 1870, the members of Congress passed the first law that gave federal workers in Washington, D.C., holidays. The days were New Year's Day, the Fourth of July, Christmas Day and any day the president named for fasting or thanksgiving. Fasting means going without food, here as a way to pray. Researchers at the Congressional Research Service, the office that writes studies for Congress, write that the law was apparently an answer to a written request from bankers and businessmen in the city. Representative Burton Cook of Illinois said it would match the holidays of the states around the city.
+**The 1870 law.** The members of Congress passed the first law that gave federal workers in Washington, D.C., holidays on June 28, 1870. The days were New Year's Day, the Fourth of July, Christmas Day and any day the president named for fasting (going without food, as a way to pray) or thanksgiving. Researchers at the Congressional Research Service, the office that writes studies for Congress, write that the law was apparently an answer to a written request from bankers and businessmen in the city. Representative Burton Cook of Illinois said it would match the holidays of the states around the city.
 
-In January 1879 the members of Congress added Washington's birthday, February 22. The main purpose was to make it a bank holiday. Lawmakers in Massachusetts had already made Christmas, Washington's birthday and the Fourth of July state holidays in 1856. Irish Catholic voters in the state helped pass that law. A law of January 6, 1885, gave paid holidays to federal workers paid by the day, all over the country.
+**Washington's birthday, 1879.** The members of Congress added Washington's birthday, February 22, in January 1879. The main purpose was to make it a bank holiday. Lawmakers in Massachusetts had already made Christmas, Washington's birthday and the Fourth of July state holidays in 1856. Irish Catholic voters in the state helped pass that law. A law of January 6, 1885, gave paid holidays to federal workers paid by the day, all over the country.
 
-In 1888 the members of Congress made Decoration Day, May 30, a holiday for federal workers in the city. Many of those workers belonged to the Grand Army of the Republic, the organization of Union veterans. Before the law, they lost a day's pay when they went to the Decoration Day ceremonies.
+**Decoration Day, 1888.** The members of Congress made Decoration Day, May 30, a holiday for federal workers in the city in 1888. Many of those workers belonged to the Grand Army of the Republic, the organization of Union veterans. Before the law, they lost a day's pay when they went to the Decoration Day ceremonies.
 
-During the war, on January 3, 1863, a magazine called *Harper's Weekly* printed a drawing by Thomas Nast, who had come to America from Bavaria, in Germany. A writer in Smithsonian Magazine calls it Union propaganda, a picture made to win people to the Union side. It showed Santa Claus visiting a Union army camp. Santa wore a coat covered in stars and striped trousers. In his hands was a toy of the Confederate president, Jefferson Davis, with a rope around its neck.
+**Santa in the army camp.** A magazine called *Harper's Weekly* printed a drawing by Thomas Nast on January 3, 1863, during the war. Nast had come to America from Bavaria, in Germany. A writer in Smithsonian Magazine calls the drawing Union propaganda, a picture made to win people to the Union side. It showed Santa Claus visiting a Union army camp. Santa wore a coat covered in stars and striped trousers. In his hands was a toy of the Confederate president, Jefferson Davis, with a rope around its neck.
 
 #### Juneteenth, 1865
 
-On June 19, 1865, the Union general Gordon Granger announced in Galveston, Texas, that slavery had ended there. The Confederate general Robert E. Lee had surrendered his army in Virginia on April 9, 1865, ten weeks earlier. Granger arrived with about 1,800 soldiers, according to the historian Henry Louis Gates Jr. Other accounts give about 2,000.
+The Union general Gordon Granger announced in Galveston, Texas, on June 19, 1865, that slavery had ended there. The Confederate general Robert E. Lee had surrendered his army in Virginia on April 9, 1865, ten weeks earlier. Granger arrived with about 1,800 soldiers, according to the historian Henry Louis Gates Jr. Other accounts give about 2,000.
 
-Granger issued General Orders No. 3. It stated that "all slaves are free," and that former masters and the people they had enslaved now stood as "employer and hired labor." The order stated that the freed people were advised "to remain quietly at their present homes and work for wages." It said they would not be allowed to gather at army posts, and that they would not be "supported in idleness," which meant fed without working.
+Granger issued General Orders No. 3. It stated that "all slaves are free," and that former masters and the people they had enslaved now stood as "employer and hired labor." The order stated that the freed people were advised "to remain quietly at their present homes and work for wages." It also stated that they would not be allowed to gather at army posts, and that they would not be "supported in idleness," which meant fed without working.
 
 About 250,000 people were enslaved in Texas. After 1862, enslavers from other Southern states who were fleeing the Union army had forced more than 150,000 of them to move there.
 
@@ -31477,7 +32242,7 @@ Susan Merritt had been enslaved in Texas. She said that right after freedom, she
 
 The Freedmen's Bureau was the federal office set up to help freed people. Its officials did not reach Texas until September 1865. In 1868 Texans met to write a new state constitution, the state's basic set of laws. A committee of that meeting counted 939 murders in the state between 1865 and 1868. In 379 of them, white people killed Black people. Outlaw gangs and armed groups such as the Ku Klux Klan, a secret group of white men who used terror against Black people, attacked freed people and Union soldiers.
 
-Freed people in Texas celebrated the day a year later, on June 19, 1866. People began to call the day Juneteenth, a word made from June and nineteenth. Some early celebrations were political meetings, where freed people learned about their new right to vote. In some towns, city officials made Black people hold their celebrations outside the town. Black Texans raised money to buy land of their own for the day. In Houston they bought ten acres in 1872, and the land became Emancipation Park. Emancipation means being freed from slavery.
+**The first Juneteenth.** Freed people in Texas celebrated the day a year later, on June 19, 1866. People began to call the day Juneteenth, a word made from June and nineteenth. Some early celebrations were political meetings, where freed people learned about their new right to vote. In some towns, city officials made Black people hold their celebrations outside the town. Black Texans raised money to buy land of their own for the day. In Houston they bought ten acres in 1872, and the land became Emancipation Park, named for the freeing of enslaved people.
 
 <a id="story-jack-yates-holidays"></a>
 
@@ -31487,39 +32252,50 @@ Freed people in Texas celebrated the day a year later, on June 19, 1866. People 
 >
 > **When and where:** Virginia, then Houston, Texas, 1828 to 1897.
 
-In 1872 Jack Yates and three other men paid $800 for ten acres in Houston, Texas, so that the city's Black people had a place of their own for Juneteenth. The other three men were Richard Allen, Richard Brock and Elias Dibble. The members of two churches bought the land for the Black people of Houston. One was Antioch Missionary Baptist Church, where Yates was the pastor. The other was Trinity Methodist Episcopal Church.
+**Eight hundred dollars for ten acres, so Juneteenth had a home.**
 
-The land became Emancipation Park. It is the oldest park in Houston. For parts of the years of legal segregation, it was the only public park in the area that Black people were allowed to use. Segregation was the system of laws that kept Black people and white people apart. Juneteenth celebrations are still held there.
+Jack Yates and three other men paid $800 in 1872 for ten acres in Houston, Texas, so that the city's Black people had a place of their own for Juneteenth. The other three men were Richard Allen, Richard Brock and Elias Dibble. The members of two churches bought the land for the Black people of Houston. One was Antioch Missionary Baptist Church, where Yates was the pastor. The other was Trinity Methodist Episcopal Church.
 
-Yates was born enslaved in Gloucester County, Virginia, on July 11, 1828. His full name was John Henry Yates. His enslaver's child taught him to read, which was against the law. He married Harriet Willis, who was enslaved on a nearby farm, and they had eleven children.
+The land became Emancipation Park. It is the oldest park in Houston. For parts of the years of legal segregation, the system of laws that kept Black people and white people apart, it was the only public park in the area that Black people were allowed to use. Juneteenth celebrations are still held there.
+
+Yates was born enslaved in Gloucester County, Virginia, in 1828, as John Henry Yates. His enslaver's child taught him to read, which was against the law. He married Harriet Willis, who was enslaved on a nearby farm, and they had eleven children.
 
 In about 1863, Harriet's enslaver moved to Matagorda County, Texas. Yates could not bear to be separated from his wife and children, so he begged to go along. The Emancipation Park Conservancy, a group that works to keep up the park, says he had already gained his freedom. By its account, he went back into slavery to stay with his family.
 
 When freedom came in June 1865, the family moved to Houston. Yates hauled goods by day and preached at night. In January 1866 freed people organized Antioch Missionary Baptist Church, the first Black Baptist church in Houston. Yates became its first pastor, in 1868 by one account. He bought land for his own house in 1869. In 1885 he started Houston Academy, a school that taught formerly enslaved people reading, writing, arithmetic and trades. He died on December 22, 1897.
 
-#### Freedom celebrations, and the attacks on them
+#### Freedom celebrations, and the attack at Norfolk, 1866
 
-Black Americans marked freedom on days of their own, and in Norfolk, Virginia, white men attacked one of those celebrations. Before the war, on July 5, 1852, Frederick Douglass spoke in Rochester, New York. He asked, "What, to the American slave, is your 4th of July?" He answered that the day showed an enslaved person "the gross injustice and cruelty to which he is the constant victim." The Emancipation Proclamation took effect on January 1, 1863. It was President Lincoln's order freeing the enslaved people in the states fighting against the Union. On the night it took effect, Douglass and other Black leaders in the North led large celebrations that began at midnight.
+Black Americans marked freedom on days of their own, and in Norfolk, Virginia, white men attacked one of those celebrations. Before the war, on July 5, 1852, Frederick Douglass spoke in Rochester, New York. He asked, "What, to the American slave, is your 4th of July?" He answered that the day showed an enslaved person "the gross injustice and cruelty to which he is the constant victim."
 
-In April 1866, the members of Congress passed a Civil Rights Act over President Andrew Johnson's veto. A veto is a president's refusal to sign a law. The members of Congress can still make it law if two-thirds of each house vote for it again. On April 16, Black residents of Norfolk, Virginia, marched to celebrate the law. Black Union soldiers marched with them in uniform, carrying their guns.
+**Midnight, 1863.** The Emancipation Proclamation, President Lincoln's order freeing the enslaved people in the states fighting against the Union, took effect on January 1, 1863. On the night it took effect, Douglass and other Black leaders in the North led large celebrations that began at midnight.
+
+**Norfolk.** The members of Congress passed a Civil Rights Act in April 1866 over President Andrew Johnson's veto, his refusal to sign it. The members of Congress can still make a bill law if two-thirds of each house vote for it again. On April 16, Black residents of Norfolk, Virginia, marched to celebrate the law. Black Union soldiers marched with them in uniform, carrying their guns.
 
 Someone fired a shot. In the chase that followed, a white Confederate veteran was shot and killed. The records do not say who fired either shot. White men then attacked Black people. They killed at least two Black people, badly wounded six, and destroyed property that belonged to Black people. The attacks went on through the night until United States Army soldiers stopped them. The records do not give the names of the dead.
 
 Joseph T. Wilson was a Black Union veteran who published a newspaper in Norfolk, the *True Southerner*. He printed his side of the story in it. After that issue came out, white men attacked his printing office and destroyed his press.
 
-#### Decoration Day: who started it
+#### Who started Decoration Day?
 
-People in several towns say their town held the first day for decorating soldiers' graves. A page of the National Cemetery Administration, the federal office that runs the national military cemeteries, lists these claims. Accounts still differ about which came first, and about whether the later ceremonies copied the one in Charleston.
+The first national Decoration Day was May 30, 1868, and the man who ordered it was General John A. Logan, the head of the Grand Army of the Republic, the organization of Union veterans. On May 5, 1868, he ordered its members to decorate the graves of Union soldiers on that day. The first ceremony was held at Arlington National Cemetery in Virginia, on land that had been the home of the Confederate general Robert E. Lee.
 
-In October 1864, three women in Boalsburg, Pennsylvania, decorated the graves of soldiers who had died.
+The veterans' organization itself credited the idea to a member who had written to it about a German custom of decorating graves. Logan's wife, Mary Logan, said the idea came from her visit to a Confederate cemetery in Virginia.
 
-In Charleston, South Carolina, Confederate soldiers had held Union prisoners of war at the Washington Race Course, a track for horse racing. The prisoners were kept outdoors in the middle of the track. According to the historian David Blight, at least 257 of them died of exposure and disease. Exposure means being left outside with no shelter from cold and weather. They were buried quickly in a mass grave, one pit for many bodies, behind the stands.
+People in several towns say their town did it first, and people in at least three places had decorated soldiers' graves before Logan's order. A page of the National Cemetery Administration, the federal office that runs the national military cemeteries, lists the claims.
 
-In April 1865 freed people and Black workmen dug up the bodies and buried each man in his own grave. They built a fence and an arch over the gate that read "Martyrs of the Race Course." A martyr is a person who dies for a cause. On May 1, 1865, freed people and white allies from the North held a ceremony there. Blight found the account of it in old papers at Harvard and in Charleston. An account from the College of Charleston says the parade may have included as many as 10,000 people. Among them were 3,000 Black schoolchildren, who sang the song "John Brown's Body."
+**Boalsburg, 1864.** In October 1864, three women in Boalsburg, Pennsylvania, decorated the graves of soldiers who had died.
 
-On April 25 and 26, 1866, women in Columbus, Mississippi, and Columbus, Georgia, held days to put flowers on the graves of Confederate soldiers. In Columbus, Mississippi, they put flowers on Union soldiers' graves too. Mary Ann Williams of the Ladies Memorial Association in Columbus, Georgia, had asked for the day in a letter to the newspaper. Supporters of the Confederacy in the South kept a separate Memorial Day of their own.
+**Charleston, 1865.** In Charleston, South Carolina, Confederate soldiers had held Union prisoners of war at the Washington Race Course, a track for horse racing. The prisoners were kept outdoors in the middle of the track. According to the historian David Blight, at least 257 of them died of disease and of exposure, which means being left outside with no shelter from cold and weather. They were buried quickly in a mass grave, one pit for many bodies, behind the stands.
 
-General John A. Logan led the Grand Army of the Republic. On May 5, 1868, he ordered its members to decorate the graves of Union soldiers on May 30, 1868. The first national Decoration Day was held that day at Arlington National Cemetery in Virginia. The cemetery stands on land that had been the home of the Confederate general Robert E. Lee.
+In April 1865 freed people and Black workmen dug up the bodies and buried each man in his own grave. They built a fence and an arch over the gate that read "Martyrs of the Race Course" (a martyr is a person who dies for a cause).
+
+On May 1, 1865, freed people and white allies from the North held a ceremony there. Blight found the account of it in old papers at Harvard and in Charleston. An account from the College of Charleston says the parade may have included as many as 10,000 people. Among them were 3,000 Black schoolchildren, who sang the song "John Brown's Body."
+
+**Columbus, 1866.** On April 25 and 26, 1866, women in Columbus, Mississippi, and Columbus, Georgia, held days to put flowers on the graves of Confederate soldiers. In Columbus, Mississippi, they put flowers on Union soldiers' graves too. Mary Ann Williams of the Ladies Memorial Association in Columbus, Georgia, had asked for the day in a letter to the newspaper. Supporters of the Confederacy in the South kept a separate Memorial Day of their own.
+
+**Known:** Logan's order of May 5, 1868, started the national day. The three earlier days are each documented, Charleston's most fully, in the newspapers Blight found.
+**Disputed:** Whether Logan copied any of them. The College of Charleston says historians debate whether the Charleston ceremony and the 1868 day are connected. The National Cemetery Administration says recent scholarship points to the women of Columbus, Georgia.
 
 #### Labor Day, 1882 to 1894
 
@@ -31531,39 +32307,55 @@ Cleveland signed it in the first days of a national railroad strike. On June 26,
 
 #### Columbus Day, 1892, and the New Orleans lynching
 
-The first national Columbus Day came a year and a half after a mob in New Orleans killed eleven Italian American men. A lynching is a killing by a mob, without a trial. The writer Richard Gambino is among those who say President Benjamin Harrison meant the holiday partly to calm Italy and Italian Americans after the killings.
+The first national Columbus Day came a year and a half after a mob in New Orleans lynched eleven Italian American men, that is, killed them without a trial. The writer Richard Gambino is among those who say President Benjamin Harrison meant the holiday partly to calm Italy and Italian Americans after the killings.
 
-In October 1890, someone shot and killed David Hennessy, the police chief of New Orleans. Police arrested Italian Americans, and 19 were charged, among them a 14-year-old boy. Nine were tried. The jury found six of them not guilty and could not agree about the other three. No solid evidence had been shown against them.
+**The police chief.** Someone shot and killed David Hennessy, the police chief of New Orleans, in October 1890. Police arrested Italian Americans, and 19 were charged, among them a 14-year-old boy. Nine were tried. The jury found six of them not guilty and could not agree about the other three. No solid evidence had been shown against them.
 
-On March 14, 1891, after the verdicts, thousands of people gathered in the city. A lawyer, William S. Parkerson, told the crowd to "set aside the verdict." A verdict is a jury's decision. Parkerson led an armed group into the city jail with three other men: Walter Denegre, James D. Houston and John C. Wickliffe.
+**The mob.** Thousands of people gathered in the city on March 14, 1891, after the verdicts. A lawyer, William S. Parkerson, told the crowd to "set aside the verdict," the jury's decision. Parkerson led an armed group into the city jail with three other men: Walter Denegre, James D. Houston and John C. Wickliffe.
 
 The armed men killed eleven Italian American men. They shot and clubbed nine of them to death inside the jail. Outside, they hanged Emmanuele Polizzi from a lamppost and Antonio Bagnetto from a tree, and shot both men. Among the mob were John M. Parker, who later became governor of Louisiana, and Walter C. Flower, who later became mayor of New Orleans.
 
 The eleven men were Antonio Bagnetto, James Caruso, Loreto Comitis, Rocco Geraci, Joseph Macheca, Antonio Marchesi, Pietro Monasterio, Emmanuele Polizzi, Frank Romero, Antonio Scaffidi and Charles Traina. Three had been found not guilty. Three had had a mistrial, which means the jury could not agree. Five had never been tried.
 
-A grand jury is a group of citizens who decide whether someone should be charged with a crime. The grand jury worked under Judge Robert H. Marr, a friend of several men in the mob. Its members said they could not identify the killers. They called the mob "several thousands of the first, best, and even the most law-abiding, of the citizens," and they charged no one. Italy's leaders called home their ambassador, the official who spoke for Italy in the United States. President Harrison agreed to pay $25,000 to the dead men's families. Members of Congress objected, and federal officials paid $2,211.90 to each family.
+**No one charged.** The grand jury, a group of citizens who decide whether someone should be charged with a crime, worked under Judge Robert H. Marr, a friend of several men in the mob. Its members said they could not identify the killers. They called the mob "several thousands of the first, best, and even the most law-abiding, of the citizens," and they charged no one. Italy's leaders called home their ambassador, the official who spoke for Italy in the United States. President Harrison agreed to pay $25,000 to the dead men's families. Members of Congress objected, and federal officials paid $2,211.90 to each family.
 
-On July 21, 1892, Harrison proclaimed Friday, October 21, 1892, a general holiday for the people of the United States. It was the 400th anniversary of Columbus's landing in the Americas. He asked schools to lead the celebrations and to fly the flag over every schoolhouse. The proclamation does not mention Italy or New Orleans.
+**The proclamation.** Harrison proclaimed Friday, October 21, 1892, a general holiday for the people of the United States, in an order dated July 21. It was the 400th anniversary of Columbus's landing in the Americas. He asked schools to lead the celebrations and to fly the flag over every schoolhouse. The proclamation does not mention Italy or New Orleans.
 
-#### Holidays in the government boarding schools
+#### Dances made crimes, and a holiday for losing land
 
-From 1879 on, federal officials took Native children from their families and put them in government boarding schools. Federal officials meant the schools to make the children give up their nations' languages and ways. Richard Henry Pratt, the Army officer who opened the Carlisle school in Pennsylvania in 1879, described its aim in 1892: "Kill the Indian in him, and save the man." In 1891 the members of Congress let officials make rules to force Native children to attend. In 1893 they let officials take away food rations, clothing and payments from parents who refused. Some government agents sent reservation police to seize children. At the schools, staff cut the children's hair, took their clothes and gave them English names. Staff beat children for speaking their own languages, shut them alone in rooms, kept food from them and washed their mouths out with soap. Interior Department investigators later counted at least 973 children who died at the schools, and their 2024 report says the true number is higher.
+**Dances made crimes.** Commissioner of Indian Affairs Hiram Price issued rules in 1883 that made the Sun Dance and other Native ceremonies "Indian offenses" on the reservations. He wrote them after a letter from Henry Teller, the Secretary of the Interior, the head of the federal department in charge of Native affairs, who had called the ceremonies "old heathenish dances." Heathen was an insulting word for people who were not Christian.
 
-In 1890 the Commissioner of Indian Affairs, Thomas J. Morgan, ordered the boarding schools to celebrate a new holiday. It marked the anniversary of the Dawes Act of 1887. Under that law, federal officials broke up reservation land, the land set aside for Native nations, into farms for single families, and sold the land left over. Native nations held about 138 million acres in 1887. By 1934 they held about 48 million. They had lost about 90 million acres, two-thirds of their land.
+Under the rules, government agents punished a person who held one of these dances by taking away the person's food rations for up to ten days. For later offenses they could take the rations for 15 to 30 days or put the person in the agency jail for up to thirty days. US officials had promised those rations in treaties, in return for the nations' land, which US officials had taken.
 
-In 1883 Commissioner Hiram Price issued rules that made the Sun Dance and other Native ceremonies "Indian offenses" on the reservations. He wrote them after a letter from Henry Teller, the Secretary of the Interior, the head of the federal department in charge of Native affairs, who had called the ceremonies "old heathenish dances." Heathen was an insulting word for people who were not Christian. Under the rules, government agents punished a person who held one of these dances by taking away the person's food rations for up to ten days. For later offenses they could take the rations for 15 to 30 days or put the person in the agency jail for up to thirty days. US officials had promised those rations in treaties, in return for the nations' land, which US officials had taken.
+**The boarding schools.** From 1879 on, federal officials took Native children from their families and put them in government boarding schools. Federal officials meant the schools to make the children give up their nations' languages and ways. Richard Henry Pratt, the Army officer who opened the Carlisle school in Pennsylvania in 1879, described its aim in 1892: "Kill the Indian in him, and save the man."
+
+In 1891 the members of Congress let officials make rules to force Native children to attend. In 1893 they let officials take away food rations, clothing and payments from parents who refused. Some government agents sent reservation police to seize children.
+
+At the schools, staff cut the children's hair, took their clothes and gave them English names. Staff beat children for speaking their own languages, shut them alone in rooms, kept food from them and washed their mouths out with soap. Interior Department investigators later counted at least 973 children who died at the schools, and their 2024 report says the true number is higher.
+
+**A holiday for losing land.** Commissioner Thomas J. Morgan ordered the boarding schools in 1890 to celebrate a new holiday. It marked the anniversary of the Dawes Act of 1887. Under that law, federal officials broke up reservation land, the land set aside for Native nations, into farms for single families, and sold the land left over. Native nations held about 138 million acres in 1887. By 1934 they held about 48 million. They had lost about 90 million acres, two-thirds of their land.
+
+**If you remember one thing:** The first national holidays came between 1863 and 1894, and three of them began as somebody's campaign: Hale's Thanksgiving, the Union veterans' Decoration Day and the New York unions' Labor Day. Juneteenth began in the same years, and no one in Washington made it a holiday for another 155 years.
+- 1863: Lincoln proclaims a national Thanksgiving on the last Thursday in November.
+- 1865: Granger's order at Galveston, June 19, and the first Juneteenth a year later.
+- 1892: the first national Columbus Day, a year and a half after the New Orleans lynching.
+**Next:** The 1900s add Mother's Day and Armistice Day, and a president moves Thanksgiving to help stores.
 
 ### 1900 to 1950
 
-From 1914 to 1941, presidents and members of Congress added new national days and fixed the dates of old ones. After a campaign by Anna Jarvis, Mother's Day became a national day in 1914. She spent the rest of her life fighting the businesses that sold flowers and cards for it. After the First World War, Americans marked November 11, the day the fighting stopped, as Armistice Day. In 1938 lawmakers in Congress made it a holiday set by law, dedicated to world peace. In 1934 President Franklin Roosevelt proclaimed October 12 of each year as Columbus Day. To proclaim a day is to name it in a public order.
+**Era 8 of 10 · 1900 to 1950 · about 8 minutes**
+
+Presidents and members of Congress added new national days between 1914 and 1941 and fixed the dates of old ones. After a campaign by Anna Jarvis, Mother's Day became a national day in 1914. She spent the rest of her life fighting the businesses that sold flowers and cards for it.
+
+After the First World War, Americans marked November 11, the day the fighting stopped, as Armistice Day. In 1938 lawmakers in Congress made it a holiday set by law, dedicated to world peace. In 1934 President Franklin Roosevelt proclaimed, that is, named in a public order, October 12 of each year as Columbus Day.
 
 Store owners used the holidays to sell. Workers at Macy's department store in New York City marched in the store's first Thanksgiving parade in 1924. In 1939 Roosevelt moved Thanksgiving a week earlier to give stores more shopping days before Christmas. Governors in sixteen states refused to follow him, by the National Archives' count, and in 1941 the members of Congress fixed the date by law.
 
-#### Mother's Day, 1908 to 1914
+#### Who thought of Mother's Day first?
 
 Other Americans had proposed a day for mothers before Anna Jarvis did. In 1872 Julia Ward Howe, who wrote "The Battle Hymn of the Republic," started a Mothers' Peace Day. People held services for it every June 2 until about 1913. In 1887 Mary Towles Sasseen of Henderson, Kentucky, made a plan for schools to honor mothers. In February 1904 Frank Hering of the Fraternal Order of Eagles, a men's club, gave a speech about a day for mothers. The Eagles still call themselves the "true founders" of Mother's Day.
 
-On May 8, 1914, President Woodrow Wilson approved a joint resolution, a measure that both houses of Congress pass together. It named the second Sunday in May as Mother's Day. The next day, Wilson asked Americans to fly the flag on that day "as a public expression of our love and reverence for the mothers of our country." He asked for nothing more, and since Mother's Day fell on a Sunday, no one got a day off for it.
+**The law.** President Woodrow Wilson approved a joint resolution, a measure that both houses of Congress pass together, on May 8, 1914. It named the second Sunday in May as Mother's Day. The next day, Wilson asked Americans to fly the flag on that day "as a public expression of our love and reverence for the mothers of our country." He asked for nothing more, and since Mother's Day fell on a Sunday, no one got a day off for it.
 
 <a id="story-anna-jarvis"></a>
 
@@ -31573,7 +32365,9 @@ On May 8, 1914, President Woodrow Wilson approved a joint resolution, a measure 
 >
 > **When and where:** West Virginia and Philadelphia, 1905 to 1948.
 
-Anna Jarvis campaigned for years to create Mother's Day, and then spent her money and the rest of her life fighting the people who sold things for it. She was born in Webster, West Virginia, on May 1, 1864, during the Civil War. Her mother, Ann Reeves Jarvis, ran Mothers' Day Work Clubs. The clubs cared for sick and wounded soldiers from both armies.
+**She made Mother's Day, then got arrested fighting it.**
+
+Anna Jarvis campaigned for years to create Mother's Day, and then spent her money and the rest of her life fighting the people who sold things for it. She was born in Webster, West Virginia, in 1864, during the Civil War. Her mother, Ann Reeves Jarvis, ran Mothers' Day Work Clubs, which cared for sick and wounded soldiers from both armies.
 
 Her mother died in 1905. To honor her, Anna Jarvis began asking for a national day for mothers. She chose the second Sunday in May, because her mother had died near that date.
 
@@ -31581,11 +32375,11 @@ The first formal Mother's Day church service was held on May 10, 1908, at Andrew
 
 Jarvis wrote letters to business owners, politicians, ministers and newspaper editors across the country. In 1914 the members of Congress and President Wilson made the second Sunday in May a national Mother's Day.
 
-Florists raised the price of carnations before Mother's Day, and card companies sold printed Mother's Day cards. Jarvis wrote, "A printed card means nothing except that you are too lazy to write to the woman who has done more for you than anyone in the world." In the 1920s she wrote that she did not want Mother's Day to become a "burdensome, wasteful, expensive gift day."
+**The fight.** Florists raised the price of carnations before Mother's Day, and card companies sold printed Mother's Day cards. Jarvis wrote, "A printed card means nothing except that you are too lazy to write to the woman who has done more for you than anyone in the world." In the 1920s she wrote that she did not want Mother's Day to become a "burdensome, wasteful, expensive gift day."
 
-In 1925, when she was 61, police in Philadelphia arrested her for disturbing the peace, which means making a public disturbance. She had burst into a meeting of the American War Mothers, a group that sold carnations to raise money on Mother's Day. She brought many lawsuits against groups that used the name "Mother's Day," and she spent much of her money on lawyers.
+**Arrested.** Police in Philadelphia arrested her in 1925, when she was 61, for disturbing the peace, which means making a public disturbance. She had burst into a meeting of the American War Mothers, a group that sold carnations to raise money on Mother's Day. She brought many lawsuits against groups that used the name "Mother's Day," and she spent much of her money on lawyers.
 
-In 1943 she started a petition, a list of signatures, asking to end the holiday. Later she was placed in the Marshall Square Sanitarium, a hospital in West Chester, Pennsylvania. She stayed there until she died. The National Park Service's account of her life does not say who had her placed there or why. The historian Katharine Antolini found that people connected with the flower and greeting-card businesses paid her bills there. Jarvis died on November 24, 1948, at 84, with no money left. She never had children.
+She started a petition, a list of signatures, in 1943, asking to end the holiday. Later she was placed in the Marshall Square Sanitarium, a hospital in West Chester, Pennsylvania. She stayed there until she died. The National Park Service's account of her life does not say who had her placed there or why. The historian Katharine Antolini found that people connected with the flower and greeting-card businesses paid her bills there. Jarvis died on November 24, 1948, at 84, with no money left. She never had children.
 
 #### Armistice Day, 1919 and 1938
 
@@ -31593,15 +32387,15 @@ The fighting in the First World War stopped at 11 o'clock in the morning on Nove
 
 By 1926 the lawmakers of 27 states had made November 11 a holiday. That year senators and representatives asked the president to call for flags and for ceremonies of "friendly relations with all other peoples."
 
-On May 13, 1938, the members of Congress made Armistice Day a holiday set by law, "dedicated to the cause of world peace." By then all 48 states kept the day. Groups of First World War veterans backed the law.
+**The 1938 law.** The members of Congress made Armistice Day a holiday set by law on May 13, 1938, "dedicated to the cause of world peace." By then all 48 states kept the day. Groups of First World War veterans backed the law.
 
-#### Thanksgiving, stores and the date fight
+#### Why Thanksgiving is the fourth Thursday, not the last
 
-On November 27, 1924, workers at Macy's department store in New York City marched to the store in costume. They brought floats and animals from the Central Park Zoo. At the end of the parade, Santa Claus arrived at the store. The parade was held again in later years, and in 1933 more than a million people watched it.
+Workers at Macy's department store in New York City marched to the store in costume on November 27, 1924. They brought floats and animals from the Central Park Zoo. At the end of the parade, Santa Claus arrived at the store. The parade was held again in later years, and in 1933 more than a million people watched it.
 
 New York children had their own Thanksgiving custom before the parade. From about 1870 into the 1920s, on Ragamuffin Day, they dressed in costumes and begged from door to door. Fewer children kept the custom over the years, and the last ragamuffin parade in New York City was held in 1956.
 
-In 1939 the last Thursday in November fell on November 30. President Franklin Roosevelt was worried that a short shopping season before Christmas would slow the country's recovery from the Great Depression. The Great Depression was the long period of hard times in the 1930s, when many Americans had no work. Roosevelt moved Thanksgiving a week earlier, to November 23, to help stores.
+**The date fight.** In 1939 the last Thursday in November fell on November 30. President Franklin Roosevelt was worried that a short shopping season before Christmas would slow the country's recovery from the Great Depression. The Great Depression was the long period of hard times in the 1930s, when many Americans had no work. Roosevelt moved Thanksgiving a week earlier, to November 23, to help stores.
 
 The governors of 32 states followed him. The governors of 16 states kept the last Thursday, by the National Archives' count. A history website called Ghosts of DC counts 23 states that refused. For two years, Americans kept two different Thanksgivings. In 1941 the members of Congress set Thanksgiving by law as the fourth Thursday in November. Roosevelt signed the law on December 26, 1941.
 
@@ -31613,21 +32407,25 @@ The Knights of Columbus, a Catholic men's organization, and Generoso Pope, an It
 
 Federal workers, the people who work for the national government, did not get the day off until a law passed in 1968 took effect in 1971.
 
-#### Christmas, Labor Day, Juneteenth and Memorial Day
+#### Christmas, Labor Day, Juneteenth and Memorial Day, 1921 to 1937
 
-In November 1923 Grace Coolidge, the president's wife, gave the public schools of Washington, D.C., permission to put up a tree near the White House. On Christmas Eve 1923 President Calvin Coolidge lit it. It was the first National Christmas Tree, a fir 48 feet tall from Vermont. About 3,000 people watched.
+**The first National Christmas Tree.** Grace Coolidge, the president's wife, gave the public schools of Washington, D.C., permission in November 1923 to put up a tree near the White House. On Christmas Eve 1923 President Calvin Coolidge lit it. It was the first National Christmas Tree, a fir 48 feet tall from Vermont. About 3,000 people watched.
 
-The 1894 Labor Day law covered only federal workers. As late as the 1930s, unions encouraged workers to strike to make sure they got the day off.
+**Labor Day.** The 1894 Labor Day law covered only federal workers. As late as the 1930s, unions encouraged workers to strike to make sure they got the day off.
 
-Juneteenth, June 19, marks the day in 1865 when a Union general announced in Galveston that slavery had ended in Texas. A Boston Public Library history says Juneteenth celebrations began to grow smaller in the early 1900s. One reason, it says, is that teachers taught that the Emancipation Proclamation had ended slavery. That proclamation was President Lincoln's 1863 order freeing enslaved people in the states fighting the Union. During the Great Depression, the same history says, many people were forced to work in cities, and employers there did not want to give workers the day off.
+**Juneteenth grows smaller.** Juneteenth, June 19, marks the day in 1865 when a Union general announced in Galveston that slavery had ended in Texas. A Boston Public Library history says Juneteenth celebrations began to grow smaller in the early 1900s. One reason, it says, is that teachers taught that the Emancipation Proclamation, President Lincoln's 1863 order freeing enslaved people in the states fighting the Union, had ended slavery. During the Great Depression, the same history says, many people were forced to work in cities, and employers there did not want to give workers the day off.
 
-On Memorial Day 1937, Chicago police shot and killed ten people who were marching in support of striking steelworkers at the Republic Steel plant.
+**Memorial Day 1937.** Chicago police shot and killed ten people on Memorial Day 1937 who were marching in support of striking steelworkers at the Republic Steel plant.
 
-In 1883 Commissioner Hiram Price had issued rules that made the Sun Dance and other ceremonies "Indian offenses." Under those rules, government agents could take away a dancer's food rations for up to ten days the first time. After that they could take the rations for 15 to 30 days or put the person in the agency jail for up to thirty days. Rations were the food that US officials had promised in treaties to give Native nations in return for their land. Charles Burke was the Commissioner of Indian Affairs, the official who ran the government's office for Native affairs. In 1921 he sent out an order that let the officials in charge of reservations shut down Native dances. He added to it in 1923.
+**The dances.** Commissioner Hiram Price's 1883 rules, which made the Sun Dance and other ceremonies "Indian offenses" punished by taking away food rations, were still in force. Charles Burke, the Commissioner of Indian Affairs, the official who ran the government's office for Native affairs, sent out an order in 1921 that let the officials in charge of reservations shut down Native dances. He added to it in 1923.
 
 ### 1950 to 2000
 
-After 1950, Americans argued over whose days the country should mark. In 1968 the members of Congress moved three holidays to Mondays, so that workers got more three-day weekends, and made Columbus Day a federal holiday, a paid day off for the national government's workers. Maulana Karenga and his group, called Us, started Kwanzaa in 1966. Students and marchers in the civil rights movement brought Juneteenth back. Coretta Scott King, the Southern Christian Leadership Conference, Stevie Wonder and millions of people who signed petitions campaigned for 15 years for a holiday for Martin Luther King Jr. President Ronald Reagan signed that law in 1983. Some state leaders refused the King holiday for years. The last state named a day for King in 1999.
+**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
+
+After 1950, Americans argued over whose days the country should mark. In 1968 the members of Congress moved three holidays to Mondays, so that workers got more three-day weekends, and made Columbus Day a federal holiday, a paid day off for the national government's workers. Maulana Karenga and his group, called Us, started Kwanzaa in 1966. Students and marchers in the civil rights movement brought Juneteenth back.
+
+Coretta Scott King, the Southern Christian Leadership Conference, Stevie Wonder and millions of people who signed petitions campaigned for 15 years for a holiday for Martin Luther King Jr. President Ronald Reagan signed that law in 1983. Some state leaders refused the King holiday for years. The last state named a day for King in 1999.
 
 Native people began to mark Thanksgiving as a National Day of Mourning in 1970. In 1992 the members of the city council of Berkeley, California, renamed Columbus Day for Indigenous peoples. Indigenous peoples are the first peoples of a place and their descendants.
 
@@ -31637,7 +32435,9 @@ On June 1, 1954, the members of Congress renamed Armistice Day as Veterans Day. 
 
 Memorial Day, the old Decoration Day, got an official birthplace in 1966. That year the members of Congress and President Lyndon Johnson named Waterloo, New York, the "birthplace" of Memorial Day. People in several other towns still say their town held the first one.
 
-In 1968 a bill called the Uniform Monday Holiday bill proposed moving several holidays to Mondays. Robert McClory, a member of the House of Representatives from Illinois, took it through the House Judiciary Committee. He was a Republican, a member of one of the country's two main political parties. That committee of House members worked on the bill before the full House voted. Four business groups backed it: the US Chamber of Commerce, the National Association of Manufacturers, the National Association of Travel Organizations and the National Retail Federation. McClory said it would give families more time together and more chances to visit historic places. Representative H. R. Gross of Iowa asked whether store clerks would get the days off or spend them selling. McClory answered that labor unions supported the bill.
+**The Monday holidays.** Under a 1968 bill called the Uniform Monday Holiday bill, several holidays would move to Mondays. Robert McClory, a member of the House of Representatives from Illinois, took it through the House Judiciary Committee. He was a Republican, a member of one of the country's two main political parties. That committee of House members worked on the bill before the full House voted.
+
+Four business groups backed it: the US Chamber of Commerce, the National Association of Manufacturers, the National Association of Travel Organizations and the National Retail Federation. McClory said it would give families more time together and more chances to visit historic places. Representative H. R. Gross of Iowa asked whether store clerks would get the days off or spend them selling. McClory answered that labor unions supported the bill.
 
 President Johnson signed it on June 28, 1968, and it took effect in 1971. Under the law, Washington's Birthday fell on the third Monday in February, Memorial Day on the last Monday in May and Veterans Day on the fourth Monday in October. In the same law, the members of Congress made Columbus Day a federal holiday, on the second Monday in October.
 
@@ -31651,7 +32451,11 @@ Maulana Karenga, a Black activist who led a group called Us in the Los Angeles a
 
 At first Karenga said that Kwanzaa gave Black Americans "an alternative to the existing holiday." In 1997 he wrote that it "was not created to give people an alternative to their own religion or religious holiday." The US Postal Service issued the first Kwanzaa stamp in 1997. Counts of how many Americans celebrate Kwanzaa are only rough estimates. One estimate in 2009 put the number between 500,000 and 2 million. In a 2019 National Retail Federation poll, 2.6 percent of the people who celebrated a winter holiday said they planned to celebrate Kwanzaa.
 
-In 1971 a California court convicted Karenga of two crimes, felony assault and false imprisonment. Felony assault is a serious crime of attacking a person. False imprisonment means holding people against their will so they cannot leave. The charges came from what was done to two women at his home in Inglewood, California. The Root describes the crimes as torturing the two women. The women, Deborah Jones and Gail Davis, were members of his group. At the trial, Jones and Brenda Karenga testified that Karenga believed the two women were plotting to poison him. Jones testified that the two women were ordered to take off their clothes. Then they were whipped with an electrical cord and beaten with a karate baton. By one fuller version of the report, they were also hit on the head with toasters. She testified that a hot soldering iron, a tool that heats metal to join wires, was put in Davis's mouth and pressed against Davis's face. One of Jones's own big toes was squeezed in a vise, a clamp that tightens with a screw. Jones said Karenga himself put detergent and running water hoses in their mouths. The news report of her testimony does not say who did each of the other acts.
+**The crimes.** A California court convicted Karenga in 1971 of two crimes, felony assault and false imprisonment. Felony assault is a serious crime of attacking a person. False imprisonment means holding people against their will so they cannot leave. The charges came from what was done to two women at his home in Inglewood, California. The Root describes the crimes as torturing the two women. The women, Deborah Jones and Gail Davis, were members of his group.
+
+At the trial, Jones and Brenda Karenga testified that Karenga believed the two women were plotting to poison him. Jones testified that the two women were ordered to take off their clothes. Then they were whipped with an electrical cord and beaten with a karate baton. By one fuller version of the report, they were also hit on the head with toasters.
+
+She testified that a hot soldering iron, a tool that heats metal to join wires, was put in Davis's mouth and pressed against Davis's face. One of Jones's own big toes was squeezed in a vise, a clamp that tightens with a screw. Jones said Karenga himself put detergent and running water hoses in their mouths. The news report of her testimony does not say who did each of the other acts.
 
 Karenga was sentenced to one to ten years in prison and was released on parole in 1975. Parole is an early release from prison under rules. He has denied the charges and called them "trumped up," which means made up, and "politically motivated." He says he was one of many people the FBI went after for political reasons.
 
@@ -31663,13 +32467,17 @@ Al Edwards, a Texas state lawmaker from Houston and a Democrat, a member of the 
 
 #### Thanksgiving as a day of mourning, from 1970
 
-On Thanksgiving Day, November 26, 1970, the Wampanoag leader Frank James and other Native people gathered on Cole's Hill in Plymouth, above Plymouth Rock, for the first National Day of Mourning. About 500 Native people came.
+The Wampanoag leader Frank James and other Native people gathered on Cole's Hill in Plymouth, above Plymouth Rock, on Thanksgiving Day, November 26, 1970, for the first National Day of Mourning. About 500 Native people came.
 
 The gathering has been held every Thanksgiving since then. United American Indians of New England organizes it. Many who come go without food from the evening before.
 
-Plymouth police stopped the marchers from walking through the center of town on Thanksgiving Day 1997. Earlier that day, people dressed as Pilgrims had walked the same road. The marchers' group and other accounts say police used pepper spray, a spray made from hot peppers that burns the eyes and skin. One witness, Chris Groden, told the Associated Press that police sprayed mace, a similar spray, straight into several people's eyes. The police arrested 25 marchers. They charged them with disorderly conduct, which means disturbing public order, and with unlawful assembly, which means gathering where the law does not allow it. The records do not name the officers.
+**The arrests, 1997.** Plymouth police stopped the marchers from walking through the center of town on Thanksgiving Day 1997. Earlier that day, people dressed as Pilgrims had walked the same road. The marchers' group and other accounts say police used pepper spray, a spray made from hot peppers that burns the eyes and skin. One witness, Chris Groden, told the Associated Press that police sprayed mace, a similar spray, straight into several people's eyes.
 
-In October 1998 the charges were dropped when the town and the marchers' group reached an agreement. Plymouth officials agreed that the marchers could walk on Thanksgiving without a permit, forever. The town paid $135,000 in all. By the marchers' group's account, $100,000 went to a fund for teaching about Metacom, $20,000 to the lawyers of the American Civil Liberties Union and $15,000 to two plaques. One plaque stands on Cole's Hill. The other stands in Post Office Square in Plymouth and tells of Metacom, the Wampanoag leader. He was killed in 1676 in an ambush led by the English captain Benjamin Church. The English then put his head on a pole in that square and left it there for 25 years.
+The police arrested 25 marchers. They charged them with disorderly conduct, which means disturbing public order, and with unlawful assembly, which means gathering where the law does not allow it. The records do not name the officers.
+
+**The settlement.** The charges were dropped in October 1998, when the town and the marchers' group reached an agreement. Plymouth officials agreed that the marchers could walk on Thanksgiving without a permit, forever. The town paid $135,000 in all. By the marchers' group's account, $100,000 went to a fund for teaching about Metacom, $20,000 to the lawyers of the American Civil Liberties Union and $15,000 to two plaques.
+
+One plaque stands on Cole's Hill. The other stands in Post Office Square in Plymouth and tells of Metacom, the Wampanoag leader. He was killed in 1676 in an ambush led by the English captain Benjamin Church. The English then put his head on a pole in that square and left it there for 25 years.
 
 <a id="story-frank-james-wamsutta"></a>
 
@@ -31679,7 +32487,9 @@ In October 1998 the charges were dropped when the town and the marchers' group r
 >
 > **When and where:** Massachusetts, 1970.
 
-Frank James started the National Day of Mourning in 1970, after the organizers of a state celebration for a Pilgrim anniversary rejected the speech he had written for it. He lived from 1923 to 2001. He was Aquinnah Wampanoag, and he led the Wampanoag Tribe of Gay Head. His Wampanoag name was Wamsutta. Massasoit's eldest son, a Wampanoag leader of the 1600s, had the same name.
+**Invited to speak, then told his speech was out of place.**
+
+Frank James started the National Day of Mourning in 1970, after the organizers of a state celebration for a Pilgrim anniversary rejected the speech he had written for it. He was Aquinnah Wampanoag, and he led the Wampanoag Tribe of Gay Head. His Wampanoag name was Wamsutta. Massasoit's eldest son, a Wampanoag leader of the 1600s, had the same name.
 
 In September 1970, Massachusetts officials planning the celebration of the 350th anniversary of the Pilgrims' landing invited him to speak. Governor Francis Sargent was among the organizers. James wrote his speech from the Pilgrims' own records, including William Bradford's history and *Mourt's Relation*, a book of Pilgrim writings printed in London in 1622. It began: "I speak to you as a man, a Wampanoag Man."
 
@@ -31689,29 +32499,31 @@ The organizers read the speech in advance. A state commerce official told him th
 
 On Thanksgiving Day 1970, he spoke instead on Cole's Hill in Plymouth, beside the statue of the Wampanoag leader Massasoit. Accounts differ on whether he read the same speech or a changed one. That year he founded United American Indians of New England.
 
-#### Martin Luther King Jr. Day, 1968 to 1983
+#### Fifteen years to get King's day, 1968 to 1983
 
-It took 15 years of campaigning to make Martin Luther King Jr.'s birthday a national holiday. James Earl Ray, a white man, shot and killed King in Memphis on April 4, 1968. Ray pleaded guilty in 1969 and was sentenced to 99 years in prison. He spent 30 years trying to take back his plea. In 1999 a jury in a lawsuit found that there had been a conspiracy, a secret plan by several people, to kill King. In 2000 Justice Department lawyers found those claims could not be believed. Four days after the killing, Representative John Conyers of Michigan brought a bill to Congress for a national holiday on King's birthday, January 15. The House members on the committee in charge of the bill took no action on it.
+It took 15 years of campaigning to make Martin Luther King Jr.'s birthday a national holiday. James Earl Ray, a white man, shot and killed King in Memphis on April 4, 1968. Ray pleaded guilty in 1969 and was sentenced to 99 years in prison. He spent 30 years trying to take back his plea. In 1999 a jury in a lawsuit found that there had been a conspiracy, a secret plan by several people, to kill King. In 2000 Justice Department lawyers found those claims could not be believed.
 
-In the early 1970s, members of the Southern Christian Leadership Conference, the group King had led, gathered 3 million signatures on petitions. In 1973 lawmakers in Illinois made the first state King holiday. State lawmaker Harold Washington was the bill's sponsor, the lawmaker who brought it forward.
+**The first bill.** Four days after the killing, Representative John Conyers of Michigan brought a bill to Congress for a national holiday on King's birthday, January 15. The House members on the committee in charge of the bill took no action on it. Members of the Southern Christian Leadership Conference, the group King had led, gathered 3 million signatures on petitions in the early 1970s. In 1973 lawmakers in Illinois made the first state King holiday. State lawmaker Harold Washington was the bill's sponsor, the lawmaker who brought it forward.
 
-In 1979 Coretta Scott King, King's widow, spoke for the holiday before Congress. In November 1979 the members of the House voted 252 to 133 for it. Under the rules for that vote, the bill needed two-thirds of the votes, and it fell short. The Congressional Research Service, a group that studies laws for Congress, counts it as four votes short. The King Institute at Stanford University counts five.
+**Four or five votes short.** Coretta Scott King, King's widow, spoke for the holiday before Congress in 1979. That November the members of the House voted 252 to 133 for it. Under the rules for that vote, the bill needed two-thirds of the votes, and it fell short. The Congressional Research Service, a group that studies laws for Congress, counts it as four votes short. The King Institute at Stanford University counts five.
 
-In 1980 the singer Stevie Wonder released "Happy Birthday," a song asking for the holiday. His money paid for a lobbying office, an office whose staff pressed lawmakers to vote for the bill. Petitions reached more than 6 million signatures. On January 15, 1983, more than 100,000 people rallied at the Washington Monument.
+**Stevie Wonder's song.** The singer Stevie Wonder released "Happy Birthday," a song asking for the holiday, in 1980. His money paid for a lobbying office, an office whose staff pressed lawmakers to vote for the bill. Petitions reached more than 6 million signatures. On January 15, 1983, more than 100,000 people rallied at the Washington Monument.
 
-The members of the House passed the bill 338 to 90 on August 2, 1983. In the Senate, Jesse Helms of North Carolina led the opposition. He called for the FBI's secret recordings of King to be made public. The King Institute says he wanted to hurt King's reputation. A court had sealed the recordings until 2027. He also gave senators a 300-page paper that claimed King had ties to communists, people who wanted the government to own all land and businesses. Senator Daniel Patrick Moynihan called it a "packet of filth" and stamped on it. Helms's plan to open the FBI records lost, 3 votes to 90. Other senators said another paid day off would cost too much.
+**The Senate.** The members of the House passed the bill 338 to 90 on August 2, 1983. In the Senate, Jesse Helms of North Carolina led the opposition. He called for the FBI's secret recordings of King to be made public. The King Institute says he wanted to hurt King's reputation. A court had sealed the recordings until 2027. He also gave senators a 300-page paper that claimed King had ties to communists, people who wanted the government to own all land and businesses. Senator Daniel Patrick Moynihan called it a "packet of filth" and stamped on it.
+
+Helms's plan to open the FBI records lost, 3 votes to 90. Other senators said another paid day off would cost too much.
 
 Senators passed the bill 78 to 22 on October 19, 1983. Reagan had wanted a day of remembrance, not a paid holiday. He signed the law on November 2, 1983. The first King holiday was kept on January 20, 1986.
 
 #### The states that held out, 1986 to 1999
 
-The 1983 law made King's birthday a federal holiday, a day off for the national government's workers. Each state's leaders decided for themselves whether to keep the day. By January 1989, 44 states kept a King holiday.
+The 1983 law made King's birthday a federal holiday. Each state's leaders decided for themselves whether to keep the day. By January 1989, 44 states kept a King holiday.
 
 Some state lawmakers joined King's day to a day for Confederate generals. The Confederacy was the group of Southern states that fought the Union in the Civil War to keep slavery. Alabama's holiday was named for Robert E. Lee and King, and Mississippi's for King and Lee. Arkansas lawmakers combined King and Lee from 1985. Virginia's lawmakers called their day Lee-Jackson-King Day, for Lee, the Confederate general Thomas "Stonewall" Jackson and King.
 
 In Arizona, Governor Bruce Babbitt made King's day a paid state holiday by his own order in 1986. His successor, Evan Mecham, canceled it in January 1987. Mecham said Babbitt had no legal power to create it. Groups across the country moved their conventions out of Arizona. Stevie Wonder and other musicians refused to perform there.
 
-In November 1990, Arizona voters voted no on two questions on the ballot about a King holiday. Officials of the National Football League then took the 1993 Super Bowl away from Arizona and moved it to Pasadena, California. *PHOENIX* magazine says the game was to be played in Tempe, next to Phoenix, and the Pima County Public Library says Phoenix. People there had expected about $200 million from the game. In November 1992, 61 percent of Arizona voters approved Martin Luther King Jr./Civil Rights Day. Arizona is the only state whose voters approved the holiday themselves.
+**The Super Bowl.** Arizona voters voted no in November 1990 on two questions on the ballot about a King holiday. Officials of the National Football League then took the 1993 Super Bowl away from Arizona and moved it to Pasadena, California. *PHOENIX* magazine says the game was to be played in Tempe, next to Phoenix, and the Pima County Public Library says Phoenix. People there had expected about $200 million from the game. In November 1992, 61 percent of Arizona voters approved Martin Luther King Jr./Civil Rights Day. Arizona is the only state whose voters approved the holiday themselves.
 
 New Hampshire's lawmakers made a "Civil Rights Day" in 1991. In June 1999 they renamed it for King. New Hampshire was the last state to name a day for King.
 
@@ -31723,7 +32535,9 @@ New Hampshire's lawmakers made a "Civil Rights Day" in 1991. In June 1999 they r
 >
 > **When and where:** Wyoming, 1981 to 1990.
 
-Liz Byrd brought a bill for a Martin Luther King Jr. holiday before the Wyoming legislature, the state's lawmakers, nine times. In 1990 the lawmakers passed it. Her full name was Harriett Elizabeth Byrd, and she was born on April 20, 1926. Her grandfather Charles Rhone had come to Wyoming Territory as a boy in 1876.
+**Nine bills in nine years before Wyoming said yes.**
+
+Liz Byrd brought a bill for a Martin Luther King Jr. holiday before the Wyoming legislature, the state's lawmakers, nine times. In 1990 the lawmakers passed it. Her full name was Harriett Elizabeth Byrd. Her grandfather Charles Rhone had come to Wyoming Territory as a boy in 1876.
 
 Officials at the University of Wyoming did not accept her application. Her son believes it was because she was Black. She earned her teaching degree at West Virginia State College in 1949. Cheyenne school officials turned her down at first too, WyoHistory says probably because of her race. They hired her in 1959. A reference book, *Black America: A State-by-State Historical Encyclopedia*, calls her the first fully certified full-time Black teacher in Wyoming. She taught second grade for most of her 37 years as a teacher.
 
@@ -31733,23 +32547,32 @@ One Republican who voted against her King holiday bill was Loren Willford. He sa
 
 She died on January 27, 2015, at 88. Governor Matt Mead ordered flags lowered in her honor.
 
-#### Columbus Day renamed, and Pride marches, 1970 to 1999
+#### Pride marches, and Columbus Day renamed, 1970 to 1999
 
-In 1977, people at a United Nations conference in Geneva, Switzerland, discussed replacing Columbus Day with a day for Indigenous peoples. The year 1992 was the 500th anniversary of Columbus's first voyage. That year a group from the San Francisco Bay Area called Resistance 500 persuaded the city council of Berkeley, California, to declare October 12 a "Day of Solidarity with Indigenous People." Solidarity means standing together. The council members renamed the day Indigenous Peoples Day.
+Several thousand people marched 51 blocks on June 28, 1970, from Sheridan Square in Greenwich Village to the Sheep Meadow in Central Park, in New York City. Their permit came two hours before the start. The march came one year after police raided the Stonewall Inn, a gay bar in the city. The organizers' counts ranged from 3,000 to 20,000, and the *New York Times* put the march on its front page. Craig Rodwell and three others had proposed a yearly march in 1969.
 
-On June 28, 1970, several thousand people marched 51 blocks, from Sheridan Square in Greenwich Village to the Sheep Meadow in Central Park, in New York City. Their permit came two hours before the start. The march came one year after police raided the Stonewall Inn, a gay bar in the city. The organizers' counts ranged from 3,000 to 20,000, and the *New York Times* put the march on its front page. Craig Rodwell and three others had proposed a yearly march in 1969.
+**Columbus Day renamed.** In 1977, people at a United Nations conference in Geneva, Switzerland, discussed replacing Columbus Day with a day for Indigenous peoples. The year 1992 was the 500th anniversary of Columbus's first voyage. That year a group from the San Francisco Bay Area called Resistance 500 persuaded the city council of Berkeley, California, to declare October 12 a "Day of Solidarity with Indigenous People." Solidarity means standing together. The council members renamed the day Indigenous Peoples Day.
 
-The march has been held every June since. People call these marches Pride marches. On June 11, 1999, President Bill Clinton proclaimed June "Gay and Lesbian Pride Month." It was the first time a president had proclaimed it.
+**Pride Month.** The New York march has been held every June since 1970. People call these marches Pride marches. On June 11, 1999, President Bill Clinton proclaimed June "Gay and Lesbian Pride Month." It was the first time a president had proclaimed it.
+
+**If you remember one thing:** After 1950 the fights were over whose days counted, and the longest one, for Martin Luther King Jr.'s birthday, took from 1968 to 1983 in Congress and until 1999 in the last state.
+In 1950: the federal holidays were New Year's Day, Washington's Birthday, Memorial Day, the Fourth of July, Labor Day, Armistice Day, Thanksgiving and Christmas, and not one was named for a Black American or for the Native nations.
+In 2000: King's day was a federal holiday and every state had named a day for him, Juneteenth was a Texas state holiday, Berkeley kept Indigenous Peoples Day, and a president had proclaimed Pride Month.
+**Next:** Juneteenth becomes the newest federal holiday in 2021, and two presidents disagree about Columbus Day.
 
 ### 2000 to Today
 
-Since 2000 the members of Congress have added one federal holiday, Juneteenth, in 2021. Lawmakers in Virginia and Arkansas stopped joining King's day to days for Confederate generals. Alabama and Mississippi still honor Robert E. Lee on the same Monday as King. In 2021 President Joe Biden became the first president to proclaim Indigenous Peoples' Day. In 2025 President Donald Trump proclaimed Columbus Day only, and the Associated Press reported that he stayed silent on Juneteenth. Some states also added days for other communities, such as Lunar New Year in New York's schools and Diwali in California. As of September 2026, Juneteenth, King's day and Columbus Day are all still federal holidays.
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
+
+Since 2000 the members of Congress have added one federal holiday, Juneteenth, in 2021. Lawmakers in Virginia and Arkansas stopped joining King's day to days for Confederate generals. Alabama and Mississippi still honor Robert E. Lee on the same Monday as King.
+
+In 2021 President Joe Biden became the first president to proclaim Indigenous Peoples' Day. In 2025 President Donald Trump proclaimed Columbus Day only, and the Associated Press reported that he stayed silent on Juneteenth. Some states also added days for other communities, such as Lunar New Year in New York's schools and Diwali in California. As of September 2026, Juneteenth, King's day and Columbus Day are all still federal holidays.
 
 #### The end of most combined days, 2000 to 2020
 
-In May 2000, South Carolina's governor, Jim Hodges, signed a law that gave all state workers King's day off. South Carolina was the last state to do so. Before then, state workers there could choose King's day or one of three Confederate holidays.
+South Carolina's governor, Jim Hodges, signed a law in May 2000 that gave all state workers King's day off. South Carolina was the last state to do so. Before then, state workers there could choose King's day or one of three Confederate holidays.
 
-From 1984 to 2000, Virginians kept Lee-Jackson-King Day, which honored the two Confederate generals and King on the same day. From 2000 to 2020 Virginia had two separate holidays. In April 2020 Virginia's governor, Ralph Northam, signed a law under which Lee-Jackson Day ended and Election Day became a state holiday. Northam said the old day "commemorates a lost cause. It's time to move on." A lost cause is a cause that has failed. CNN reported that both generals had enslaved people and had fought to keep slavery.
+**Virginia.** Virginians kept Lee-Jackson-King Day from 1984 to 2000. It honored the two Confederate generals and King on the same day. From 2000 to 2020 Virginia had two separate holidays. In April 2020 Virginia's governor, Ralph Northam, signed a law under which Lee-Jackson Day ended and Election Day became a state holiday. Northam said the old day "commemorates a lost cause. It's time to move on." A lost cause is a cause that has failed. CNN reported that both generals had enslaved people and had fought to keep slavery.
 
 Arkansas lawmakers moved Lee's day off King's day in 2017. Alabama and Mississippi still honor Lee's birthday on the same Monday as King's day.
 
@@ -31757,11 +32580,13 @@ Arkansas lawmakers moved Lee's day off King's day in 2017. Alabama and Mississip
 
 Juneteenth, the June 19 celebration of the end of slavery in Texas, became a federal holiday in 2021. On May 25, 2020, Derek Chauvin, a Minneapolis police officer, killed George Floyd. That June, many Juneteenth gatherings called for changes in the way police do their work.
 
-In June 2021 the senators passed the Juneteenth National Independence Day Act. On June 16, 2021, the members of the House passed it 415 votes to 14, according to the House's own record of the vote. All 14 votes against it came from Republicans. President Biden signed it on June 17, 2021. It was the first new federal holiday since King's day in 1983.
+**The vote.** The senators passed the Juneteenth National Independence Day Act in June 2021. On June 16, 2021, the members of the House passed it 415 votes to 14, according to the House's own record of the vote. All 14 votes against it came from Republicans. President Biden signed it on June 17, 2021. It was the first new federal holiday since King's day in 1983.
 
 The leaders of each state still decide whether state workers get the day off. In 2025 the Congressional Research Service, which studies laws for Congress, counted 31 states and Washington, D.C., with a permanent paid Juneteenth holiday. PolitiFact, a fact-checking news site, reported that count in June 2026. Alabama was the most recent state to add it, in May 2025. PolitiFact also reported that New Mexico names the day each year, and that the governors of Kansas and Kentucky have declared it. Private employers do not have to give the day off.
 
-On Juneteenth 2025, President Trump signed no proclamation for the day, the Associated Press reported. The White House had said earlier that he planned to sign one. "I'm not tracking his signature on a proclamation today," his press secretary, Karoline Leavitt, said. President Trump said that America has "too many non-working holidays," CBS News reported. In December 2025, CBS News reported a change in the National Park Service's list of days with free entry to the parks. The 2026 list no longer included Martin Luther King Jr. Day and Juneteenth, which President Biden's officials had made free-entry days. It added June 14, which is Flag Day and President Trump's birthday. The change affects only park fees. Both days are still federal holidays.
+**Juneteenth 2025.** President Trump signed no proclamation for the day on Juneteenth 2025, the Associated Press reported. The White House had said earlier that he planned to sign one. "I'm not tracking his signature on a proclamation today," his press secretary, Karoline Leavitt, said. President Trump said that America has "too many non-working holidays," CBS News reported.
+
+**Park fees.** In December 2025, CBS News reported a change in the National Park Service's list of days with free entry to the parks. The 2026 list no longer included Martin Luther King Jr. Day and Juneteenth, which President Biden's officials had made free-entry days. It added June 14, which is Flag Day and President Trump's birthday. The change affects only park fees. Both days are still federal holidays.
 
 <a id="story-opal-lee"></a>
 
@@ -31771,23 +32596,27 @@ On Juneteenth 2025, President Trump signed no proclamation for the day, the Asso
 >
 > **When and where:** Fort Worth, Texas, 1939 to today.
 
-Opal Lee was the best-known campaigner for making Juneteenth a national holiday. She was there when President Biden signed the law on June 17, 2021, and he asked the crowd to stand and cheer for her. She was born Opal Flake in Marshall, Texas, on October 7, 1926. When she was nine, her family moved to Fort Worth.
+**At 89 she walked toward Washington, 2.5 miles at a time.**
 
-In June 1939, her parents bought a house at 940 East Annie Street in Fort Worth, in a white neighborhood. On June 19, 1939, when she was 12, a white mob of about 500 people drove the family out. The mob dragged the family's furniture out and burned it, and burned the house to the ground. Lee remembered that police officers were there and did not stop the mob. She said her father came home from work with a gun. The police told him that if he fired, they would let the mob have the family. No record names anyone in the mob, and no record shows that anyone was arrested.
+Opal Lee was the best-known campaigner for making Juneteenth a national holiday. She was there when President Biden signed the law on June 17, 2021, and he asked the crowd to stand and cheer for her. She was born Opal Flake in Marshall, Texas, in 1926, and her family moved to Fort Worth when she was nine.
+
+In June 1939, her parents bought a house at 940 East Annie Street in Fort Worth, in a white neighborhood. On June 19, 1939, when she was 12, a white mob of about 500 people drove the family out. The mob dragged the family's furniture out and burned it, and burned the house to the ground.
+
+Lee remembered that police officers were there and did not stop the mob. She said her father came home from work with a gun. The police told him that if he fired, they would let the mob have the family. No record names anyone in the mob, and no record shows that anyone was arrested.
 
 She became a teacher after she graduated from Wiley College in 1953. When she retired in 1977, she helped found the Tarrant County Black Historical and Genealogical Society. She began planning Fort Worth's Juneteenth celebrations, and she led them for about 40 years.
 
-In 2016, when she was 89, she organized a walk of 1,400 miles from her home in Texas to Washington, D.C. The walk drew attention across the country to Juneteenth. Her family worried about her health. So she walked about 300 miles herself, in pieces of 2.5 miles each. The 2.5 miles stand for the two and a half years it took for the news of freedom to reach Texas. Her petition for the holiday gathered 1.6 million signatures, according to the National Women's History Museum.
+**The walk.** In 2016, when she was 89, she organized a walk of 1,400 miles from her home in Texas to Washington, D.C. The walk drew attention across the country to Juneteenth. Her family worried about her health. So she walked about 300 miles herself, in pieces of 2.5 miles each. The 2.5 miles stand for the two and a half years it took for the news of freedom to reach Texas. Her petition for the holiday gathered 1.6 million signatures, according to the National Women's History Museum.
 
-On May 3, 2024, President Biden gave her the Presidential Medal of Freedom, the country's highest honor for a civilian. A civilian is a person who is not in the military. That year builders put up a new house for her on the lot where her family's house had burned. She paid $10 for the land, KERA News reported in 2024.
+President Biden gave her the Presidential Medal of Freedom, the country's highest honor for a civilian, a person who is not in the military, on May 3, 2024. That year builders put up a new house for her on the lot where her family's house had burned. She paid $10 for the land, KERA News reported in 2024.
 
 On Juneteenth 2026, nearly 600 people walked Opal's Walk for Freedom in Fort Worth, the Fort Worth Report counted. Lee did not attend. Her family led the walk while she rested, a few months before her 100th birthday.
 
-#### Indigenous Peoples' Day and Columbus Day, 2021 to 2026
+#### Two presidents, two Octobers: Indigenous Peoples' Day and Columbus Day, 2021 to 2026
 
-On October 8, 2021, President Biden proclaimed Indigenous Peoples' Day. He wrote that for generations "Federal policies systematically sought to assimilate and displace Native people and eradicate Native cultures." To assimilate people means to make them give up their own ways and take on someone else's. To displace people means to push them off their land. To eradicate means to wipe out. Biden also proclaimed Columbus Day each year from 2021 to 2024. In 2020 Colorado's lawmakers replaced Columbus Day in their state with Cabrini Day, named for an Italian American nun.
+President Biden proclaimed Indigenous Peoples' Day on October 8, 2021. He wrote that for generations "Federal policies systematically sought to assimilate and displace Native people and eradicate Native cultures." To assimilate people means to make them give up their own ways and take on someone else's, to displace them means to push them off their land, and to eradicate means to wipe out. Biden also proclaimed Columbus Day each year from 2021 to 2024. In 2020 Colorado's lawmakers replaced Columbus Day in their state with Cabrini Day, named for an Italian American nun.
 
-In October 2025, President Trump proclaimed Columbus Day and did not mention Indigenous Peoples' Day. His proclamation said of Columbus, "Left-wing radicals toppled his statues, vandalized his monuments, tarnished his character." NPR reported a count by the Pew Research Center, a group that studies public life. In 2025 Pew researchers counted 30 states and three territories that recognize Columbus Day in some way. They also counted 17 states and Washington, D.C., that honor Indigenous people on that day. Some states do both.
+**October 2025.** President Trump proclaimed Columbus Day in October 2025 and did not mention Indigenous Peoples' Day. His proclamation said of Columbus, "Left-wing radicals toppled his statues, vandalized his monuments, tarnished his character." NPR reported a count by the Pew Research Center, a group that studies public life. In 2025 Pew researchers counted 30 states and three territories that recognize Columbus Day in some way. They also counted 17 states and Washington, D.C., that honor Indigenous people on that day. Some states do both.
 
 The National Day of Mourning is still held at noon on Cole's Hill in Plymouth every Thanksgiving. The most recent one was on November 27, 2025. Only Native people speak, and many of those who come go without food from the evening before. Frank James's granddaughter, Kisha James, helps organize it.
 
@@ -31797,9 +32626,87 @@ President Barack Obama proclaimed Lesbian, Gay, Bisexual and Transgender Pride M
 
 Americans also began to keep more communities' days. Cinco de Mayo, the fifth of May, marks the Mexican army's defeat of French troops at Puebla, Mexico, on May 5, 1862. Latinos in California began celebrating it during the Civil War, according to David Hayes-Bautista, a scholar at the University of California, Los Angeles. Hayes-Bautista says it is scarcely observed in Mexico. It is not Mexico's Independence Day, which is September 16.
 
-In September 2023, New York's governor, Kathy Hochul, signed a law that closes all the state's public schools for Lunar New Year. Lunar New Year is the start of the year in calendars based on the moon. In October 2025, California's governor, Gavin Newsom, signed a law making Diwali a state holiday from 2026. California was the third state to do so, after Pennsylvania and Connecticut. Diwali is the festival of lights, kept mostly by Hindus, Sikhs, Jains and Buddhists.
+New York's governor, Kathy Hochul, signed a law in September 2023 that closes all the state's public schools for Lunar New Year, the start of the year in calendars based on the moon. California's governor, Gavin Newsom, signed a law in October 2025 making Diwali a state holiday from 2026. California was the third state to do so, after Pennsylvania and Connecticut. Diwali is the festival of lights, kept mostly by Hindus, Sikhs, Jains and Buddhists.
 
 Halloween, on October 31, is not a federal holiday, but Americans spend billions of dollars on it. The National Retail Federation, a trade group for stores, has surveyed shoppers each year since 2005. In September 2026 it reported that Halloween spending had reached a record $13.1 billion in 2025. Its survey forecast $13.5 billion for 2026. These are estimates from a survey, not counts of actual sales.
+
+**The three questions, answered**
+- Who decided when Americans would give thanks, and why did it take until 1941 to fix the date? Governors and church elders set the days one at a time, until Lincoln proclaimed a national Thursday in 1863 at Sarah Josepha Hale's request. Every president after him named the day by proclamation, so when Franklin Roosevelt moved it in 1939 to help stores, sixteen states refused by the National Archives' count, and Congress ended the confusion with the 1941 law.
+- Which days did Black Americans make their own, from election days to Juneteenth? Black governors' election days in New England from about 1749, January 1 from 1808, July 5 in New York in 1827, August 1 after 1834, and Juneteenth from 1866, which Congress made a federal holiday in 2021.
+- Why did President Harrison proclaim the first Columbus Day in 1892, and why do some states no longer keep it? He proclaimed it for the 400th anniversary of Columbus's landing, a year and a half after a New Orleans mob lynched eleven Italian American men, and some writers say the holiday was partly meant to calm Italy. Since Berkeley in 1992, cities and 17 states have used the day to honor Indigenous peoples instead.
+
+**What changed:** Ten eras ago the Faith Keepers and the Sun-priests set the days. By 2021 a majority in Congress did, and the days they chose included one, Juneteenth, that freed people in Texas had kept for 155 years without asking anyone.
+
+**Five dates to keep**
+- Fall 1621: the harvest meal at Plymouth, called the first Thanksgiving only from 1841.
+- October 3, 1863: Lincoln proclaims a national Thanksgiving on the last Thursday in November.
+- June 19, 1865: General Granger announces in Galveston that slavery has ended in Texas.
+- October 21, 1892: the first national Columbus Day.
+- June 17, 2021: President Biden signs the law making Juneteenth a federal holiday.
+
+**Not known:** No surviving record gives the first name of the boy Brown, killed by a Pope wagon in Boston on November 5, 1764, or says who was driving it.
+
+**Where to go:** Cole's Hill in Plymouth, Massachusetts, where the statue of Massasoit stands and the National Day of Mourning is held at noon every Thanksgiving.
+
+**Next:** This is the last of the 37 chapters. Chapter 1, Exploration and Discovery, is where the grid begins.
+
+[Back to contents](#contents)
+
+---
+
+<a id="back-01-how-we-know"></a>
+
+# How We Know What Happened
+
+Nobody alive today saw the Pueblo Revolt, the founding of Jamestown or the first Thanksgiving. Nobody alive saw Cahokia when it was the largest city north of Mexico. Everything known about those times comes from what people left behind: papers, objects, bones, buildings, photographs, and the stories that families and nations told their children.
+
+Historians are people who study the past and write about it. They gather that evidence and check it. Each kind of evidence keeps some facts and loses others, so a historian gathers as many kinds as possible and checks them against each other. Then the historian states three things: what is known, what is not known, and where the evidence disagrees. Those three show up all through this book. A fact the records show is stated as a fact. A fact no record kept is marked "not known." Where records conflict, the better-supported version comes first, and the other is given with its source.
+
+## Papers written at the time
+
+A record made when something happened, by someone who was there, is called a primary source. Letters, diaries, court papers and newspaper reports are primary sources. A book written later by someone who studied those papers is called a secondary source. Historians trust a primary source most, but they still check it, because the person who wrote it saw only part of what happened.
+
+A diary is a book in which a person writes down each day as it happens. Amelia Stewart Knight kept one in 1853, when she traveled by wagon from Iowa to Oregon with her husband and seven children. She wrote about rain, mud, dust, sick children and hard river crossings. She was pregnant the whole way. She did not mention it in the diary until her son Adam was born, on September 18, 1853. The family had reached Oregon the day before. A diary records what its writer chose to write down, and a careful reader notices what was left out.
+
+Court records contain the judges' own words about how they punished people. On July 9, 1640, a court in Virginia judged three servants of a man named Hugh Gwyn who had run away together and been caught. The judges gave the two European men four more years of work as punishment. They sentenced the third man, John Punch, an African, to serve "for the time of his natural Life." That record is the first known sentence in Virginia that made a person a slave for life. It is also the first record in which Virginia judges punished one man more harshly than the others because of his race. Nobody wrote down why.
+
+## Bones, ruins and things in the ground
+
+Archaeology is the study of the past through the things people left in the ground: tools, pots, buildings, trash and graves. Archaeologists dig slowly and record exactly where each object lay, because where something was found is part of what it shows. For most of the thousands of years that people lived in North America, nobody wrote anything on paper. Most of what is known about those years comes from archaeology.
+
+Sometimes bones confirm a written account. At Jamestown in Virginia, the English colonists ran out of food in the winter of 1609 to 1610. Powhatan, the leader of the Native nations around them, had cut off trade and surrounded their fort. The colonists ate their horses, their dogs, rats and leather. Written accounts from the time say starving colonists also ate the bodies of the dead. In 2013, researchers at the Smithsonian announced a find from that winter. The bones of a girl showed that starving colonists had eaten from her body. Researchers call her Jane. No record states her real name. For that winter, the written accounts and the bones agree.
+
+## Stories passed down
+
+Oral tradition is history that people keep by telling it, from parents to children, across many lifetimes. Native nations kept their laws, treaties and histories this way for thousands of years before Europeans arrived, and many still do. Records written by colonists describe Native nations from the outside. A nation's own tradition records what its people remember and how they understood events. Where this book gives a Native nation's history, it gives the nation's own account beside the written one and says which is which. Chapter 2, Native Nations, contains the 2023 horse-bone study that showed the Plains nations' own histories were right.
+
+## Counting
+
+Numbers look exact, but every count depends on who did the counting, what they counted, and why. When two counts of the same thing differ, historians look for the reason.
+
+A count changes when someone decides what to leave out. At Hoover Dam, built in the 1930s, the federal Bureau of Reclamation's official count is 96 workers killed on the job. That count leaves out 42 deaths recorded as pneumonia. Many historians think those men were poisoned by carbon monoxide, a gas from engine exhaust, in the tunnels. The official count is lower than the true one, and the exact number is unknown.
+
+The words "at least" in a count mean the real number may be higher. Where this book gives a number, it gives the range when the sources give a range, and it names who counted.
+
+## Who wrote the records, and who is missing
+
+For most of American history, the people who wrote things down and kept the papers were the people with power: officials, officers, owners and ministers. Their records describe other people from the outside, and many people appear in them without names. In late August 1619, an English ship called the *White Lion* landed captive Africans at Point Comfort, Virginia. The colonist John Rolfe wrote that it brought "20. and odd Negroes." His record lists none of their names. The first record of Africans in English Virginia records them only as a number.
+
+When an account names a person, this book names the person. When the only record names nobody, the book states the event without a name, because an invented name would be a false fact.
+
+## When sources disagree
+
+When two records tell a story differently, historians check who wrote each one and whether that person was there. They check how long after the event it was written, whether the writer checked it with the people involved, and what the writer gained from telling it one way. A record made soon after, by a witness who checked it, is the better source. When neither is clearly better, a careful historian reports both. Chapter 25, Rights and Movements, contains the clearest case in this book: the two versions of Sojourner Truth's 1851 speech, one printed three weeks later by a man who knew her, the other written twelve years later by a woman who never checked it with her.
+
+## Questions with no answer
+
+Some questions cannot be answered, because no record of the answer was ever made or none survived. When that happens, a careful historian states that the record is missing and leaves the gap empty instead of guessing. No surviving record names any of the Africans who landed in 1619, and the records do not settle whether the Virginia colonists treated them as servants, who could earn their freedom after some years, or as slaves for life. Virginia's laws did not yet use the word "slave." This book leaves that gap open, and every gap like it.
+
+A quotation keeps the words the person actually used, even words people today find hurtful, because changing them would change the record. Rolfe's "Negroes" was the common word of his time for Black people. Words made to insult a whole people are not repeated. Instead, the account says plainly what the word called people.
+
+## The past keeps changing
+
+What is known about the past changes as new evidence is found. New tests find new facts in old bones. Lost letters turn up in attics and archives. People who were left out of the old records are found again when someone looks for them. Each new piece of evidence can confirm an old account, correct it, or show that it was wrong. The best way to know the past is the way historians do: look at the evidence, ask who made it, and say plainly what it shows.
 
 [Back to contents](#contents)
 
