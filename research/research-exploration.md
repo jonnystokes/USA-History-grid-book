@@ -558,6 +558,14 @@ How the prose can say it: "The three men were never seen again. Shivwits Paiute 
 ### SEARCHED, NOT FOUND 2026-10-03 (T-623): "the first large exploring voyage paid for by the US government" (Wilkes, era 06)
 - Wikipedia "United States Exploring Expedition" (opened 2026-10-03) makes no such "first" claim. A search summary credits the Smithsonian Institution Archives with "the first U.S. government funded scientific expedition", but that page returned HTTP 403, and the Harvard Curiosity page returned no text. Prose drops "first" and says "a Navy exploring voyage paid for by the US government".
 
+### PATCH 2026-10-26 (T-652): Wilkes's expedition as a "first", on real Smithsonian pages (answers the SEARCHED, NOT FOUND above)
+- Smithsonian Institution Libraries digital collection "The United States Exploring Expedition, 1838-1842" (https://www.sil.si.edu/DigitalCollections/usexex/learn.htm, essays read 2026-10-26):
+  - W. John Kress, Research Scientist and Curator, Department of Botany, National Museum of Natural History, "Botanical Exploration: Yesterday, Today, and Tomorrow" (learn/Kress.htm): the Columbia Institute "provided the impetus for the first US international exploring expedition. In 1828 Congress approved the United States South Seas Exploring Expedition..."
+  - Jane Walsh, Museum Specialist, Department of Anthropology, NMNH, "From the Ends of the Earth" (learn/Walsh-01.htm, dated March 29, 2004): the collections "are the tangible result and product of the first government-sponsored scientific expedition." Not used as worded: Lewis and Clark's expedition (1804-1806) was also paid for by the US government and also gathered plants and animals, so "first government-sponsored scientific expedition" overstates.
+  - Nathaniel Philbrick, essay of January 2004 (learn/Philbrick.htm): later western surveys followed "the tradition of America's first exploring and surveying expedition"; he recommends William Stanton, *The First Great United States Exploring Expedition* (book title).
+- The Smithsonian Institution Archives pages (siarchives.si.edu, incl. "150 Years of Smithsonian Research in Latin America: International Exploring Expedition") returned a robot-verification page to curl and 403 to WebFetch on 2026-10-26; a search summary says that page calls it "the first international scientific expedition the United States sponsored". Not opened.
+- **Prose (story `charles-wilkes`):** restores the fact in Kress's form, credited: "W. John Kress, a plant scientist at the Smithsonian Institution, calls it the first American exploring expedition to other parts of the world." ("International" glossed as "to other parts of the world".)
+
 ## 08 · 1900 to 1950
 
 Sources opened 2026-09-27 (T-257r) unless marked. Wikipedia pages read as plain text through the Wikipedia API.
