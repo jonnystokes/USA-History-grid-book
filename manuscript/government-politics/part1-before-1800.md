@@ -13,30 +13,55 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-time:start id="before-1500" order="01" chapter="government-politics" label="Before 1500" state="full" progress="written" -->
 ## Before 1500
 
-<!-- hb-zoom level="era" -->
-Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Five nations in the Northeast joined in a league and lived under one law. Along the Rio Grande, each Pueblo town ran its own affairs. At Cahokia, on the Mississippi River, chiefs and officials led a city of thousands of people.
+<!-- hb-zoom level="era" label="Chapter opening" -->
+**Chapter 20 of 37 · Government, Law, and Politics · 10 eras · about 140 minutes**
+
+**The rules of American government were written by people, and in every era people with power rewrote them, most often to decide who could vote and who could not.**
+
+One copy of a report survives in the National Archives of the United Kingdom. John Pory wrote it in 1619. It records six days, July 30 to August 4, when twenty-two elected men sat in the church at Jamestown, Virginia, the only building on the island big enough to hold them all. They were the first elected lawmakers in English North America. They made rules about tobacco, gambling and land. No record says who voted for them.
+
+This chapter follows the rules from that church to the Capitol on January 6, 2021. Watch three things as you read. Who may vote: the answer changes in nearly every era, and the people who changed it usually wrote down why. What judges may do: in 1803 the justices of the Supreme Court first cancelled a law, and they have been cancelling and allowing laws ever since. What happens to people in power who break the law: a printer's jury in 1735, a cabinet secretary in 1929, a president in 1974.
+
+The chapter also follows the laws about schools, which say where children must go and what they may be taught.
+
+**Three questions this chapter answers**
+- Who decided who could vote, and how did the answer change?
+- When did judges first cancel a law, and what have they done with that power since?
+- What happens when a president, a senator or a governor breaks the law?
+
+**Five minutes?** Read "The Zenger trial, 1735" in 1700 to 1750.
+**Can skip:** "Land for colleges, 1862", "The food laws of 1906", "New kinds of schools, 1991 to 1996", "Immigration law after 2001". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Great Law of Peace" -->
+<!-- hb-zoom level="era" -->
+**Era 1 of 10 · Before 1500 · about 6 minutes**
+
+Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Most of this era is about the Haudenosaunee, five nations in the Northeast that joined in a league and lived under one law, because their own full telling of that law survives. Two short spans at the end cover the Pueblo towns along the Rio Grande, where each town ran its own affairs, and Cahokia, a city of thousands on the Mississippi River led by chiefs.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="How five nations at war made one law" -->
 The Haudenosaunee are a league of Native nations whose homelands lie mainly in what is now New York State and the Great Lakes region. Their name means "people who build a house." Five nations joined first: the Mohawk, the Oneida, the Onondaga, the Cayuga and the Seneca. The Tuscarora joined in 1722, which made six. Each nation stayed a separate nation inside the league.
 
 The law that joined them is called the Great Law of Peace. In the Haudenosaunee account, the five nations were once at war with each other. A man called the Peacemaker wanted to spread peace among them. He came to the house of an Onondaga leader named Hayo'wetha, often written Hiawatha. When the nations made peace, they pulled up a white pine tree and threw their weapons into the hole. Then they planted the tree again on top of the weapons and named it the Tree of Peace.
 
 The Haudenosaunee kept the Great Law in memory and passed it on by speaking it. A full telling takes several days. They also wove belts of purple and white shell beads, called wampum. The patterns in the belts recorded the laws of the league, the stories told at ceremonies, and important dealings with other nations. The belts were presented at meetings of the Grand Council, the league's lawmaking body. The Haudenosaunee used wampum to keep these records, and never as money.
 
-Accounts differ on when the league began. The dates people give run from about 1142 to the 1400s or 1500s. It was already in place before Europeans arrived.
+**Known:** The league was in place before Europeans arrived.
+**Disputed:** When it began. The dates people give run from about 1142 to the 1400s or 1500s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Grand Council and the clan mothers" -->
-The league's lawmaking body is the Grand Council, and it has fifty seats. Each seat belongs to a leader called a *hoyaneh*. The Onondaga hold fourteen seats, the Cayuga ten, the Mohawk nine, the Oneida nine and the Seneca eight. The Haudenosaunee count the Onondaga Nation as the league's capital. They say the council fire burns there, as the Peacemaker promised, and they call the Onondaga the "Keepers of the Central Fire." The Mohawk, in the east, are the "Keepers of the Eastern Door," and the Seneca, in the west, are the "Keepers of the Western Door." Council members are not paid, and they serve for life.
+The league's lawmaking body is the Grand Council, and it has fifty seats. Each seat belongs to a leader called a *hoyaneh*. The Onondaga hold fourteen seats, the Cayuga ten, the Mohawk nine, the Oneida nine and the Seneca eight. Council members are not paid, and they serve for life.
 
-Before the council members make a decision or pass a law, every member must agree to it. This way of deciding is called consensus. Under it, no law passes while even one member is against it.
+The Haudenosaunee count the Onondaga Nation as the league's capital. They say the council fire burns there, as the Peacemaker promised, and they call the Onondaga the "Keepers of the Central Fire." The Mohawk, in the east, are the "Keepers of the Eastern Door," and the Seneca, in the west, are the "Keepers of the Western Door."
+
+**How a law passes.** Before the council members pass a law, every member must agree to it. This way of deciding is called consensus. Under it, no law passes while even one member is against it.
 
 Women hold power in this government through the clan mothers. A clan is a large group of related families. The members of a clan choose a clan mother together, and she serves for life. The clan mothers choose the council members. A clan mother can also remove any *hoyaneh* who does not serve the good of his nation.
 
-In 1988 members of both houses of Congress voted for a resolution about the league. A resolution is a written statement that lawmakers vote on. Representative Morris Udall put it forward. Its title states that it was meant "to acknowledge the contribution of the Iroquois Confederacy of Nations to the development of the U.S. Constitution." A confederacy is a league of nations or states. Iroquois is another name for the Haudenosaunee, and it is the more common one in English. The Constitution is the written plan for how the national government of the United States works.
+**Did the Constitution borrow from this law?** In 1988 members of both houses of Congress voted for a resolution, a written statement that lawmakers vote on, which said yes. Representative Morris Udall put it forward. Its title states that it was meant "to acknowledge the contribution of the Iroquois Confederacy of Nations to the development of the U.S. Constitution." Iroquois is the more common English name for the Haudenosaunee, and a confederacy is a league of nations or states. The Constitution is the written plan for how the national government of the United States works.
 
-Scholars disagree about how much the men who wrote the Constitution took from the Great Law. Bruce Johansen and Donald Grinde argue that the founders admired Native governments and borrowed ideas from them. The anthropologist Elisabeth Tooker, a scientist who studied human societies, argued the other side. She wrote that the founders took their models from European ideas and that the evidence of borrowing from the league is very thin.
+Scholars disagree about how much the men who wrote the Constitution took from the Great Law. Bruce Johansen and Donald Grinde argue that the founders admired Native governments and borrowed ideas from them. Elisabeth Tooker, an anthropologist, a scientist who studies how peoples live, argued the other side. She wrote that the founders took their models from European ideas and that the evidence of borrowing from the league is very thin.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Pueblo towns" -->
@@ -46,7 +71,7 @@ At Zuni, a council of priests held power over the town. One group of them, the b
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cahokia, a city led by chiefs" -->
-Cahokia stood near the Mississippi River, east of where St. Louis is now. The city covered more than 4,000 acres. Its largest years came between about 1050 and 1150. Archaeologists are scientists who study the past by digging up what people left behind. Their estimates of how many people lived in Cahokia then run from 10,000 to 20,000, and some go higher. They disagree widely about the number.
+Cahokia stood near the Mississippi River, east of where St. Louis is now. The city covered more than 4,000 acres, and its largest years came between about 1050 and 1150. Archaeologists, the scientists who dig up what people left behind, disagree widely about how many people lived there then. Their estimates run from 10,000 to 20,000, and some go higher.
 
 Cahokia was a chiefdom, a society led by chiefs and by officials of high rank. The people built large mounds of earth with flat tops. Buildings for religious leaders and for other officials stood on top of the mounds. Other mounds held the graves of people of high rank.
 <!-- /hb-zoom -->
@@ -56,6 +81,8 @@ Cahokia was a chiefdom, a society led by chiefs and by officials of high rank. T
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
+**Era 2 of 10 · The 1500s · about 2 minutes**
+
 The first governors of Florida and of New Mexico served the king of Spain. Pedro Menéndez de Avilés held his office in Florida by a contract with the king, who lived across the ocean in Spain. Juan de Oñate held his office in New Mexico by a contract with the viceroy, the official who ruled in the king's name from Mexico City. Menéndez used a Timucua council house as his first fort. Oñate made a Tewa town his first capital.
 <!-- /hb-zoom -->
 
@@ -64,15 +91,15 @@ Pedro Menéndez de Avilés founded St. Augustine, in Florida, on September 8, 15
 
 Menéndez made his first settlement in the town led by Seloy, a chief of the Timucua people. About 800 colonists came with him, among them 26 women and an unknown number of Africans whom the Spanish held as slaves. Timucua council houses were usually round, built of thatch, and big enough to hold up to a thousand people. Seloy offered Menéndez his council house to use as a fort, and the Spanish used it as their first fort in Florida.
 
-In 1573 officials of the king of Spain set rules for laying out new towns. The rules belong to a body of royal orders known as the Laws of the Indies. They required a town's streets to form a grid around a central square, or plaza. The main government buildings and the church were to face the plaza. St. Augustine's grid of streets was laid out in 1603, thirty-eight years after the town was founded.
+Officials of the king of Spain set rules in 1573 for laying out new towns. The rules belong to a body of royal orders known as the Laws of the Indies. They required a town's streets to form a grid around a central square, or plaza. The main government buildings and the church were to face the plaza. St. Augustine's grid of streets was laid out in 1603, thirty-eight years after the town was founded.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A governor for New Mexico, 1598" -->
-Juan de Oñate made a contract with the viceroy in Mexico City. A viceroy is an official who rules a colony in the king's name. Oñate promised to settle New Mexico and govern it. In return he got loans, supplies and soldiers. He left the town of Santa Bárbara early in 1598 with 600 Spanish settlers and Native allies from Tlaxcala, in Mexico.
+Juan de Oñate made a contract with the viceroy in Mexico City. He promised to settle New Mexico and govern it. In return he got loans, supplies and soldiers. He left the town of Santa Bárbara early in 1598 with 600 Spanish settlers and Native allies from Tlaxcala, in Mexico.
 
-On the Rio Grande he set up his first capital at Ohkay Owingeh, a town of Tewa-speaking people. In 1598 the Spanish named the town San Juan de los Caballeros. In 1599 Oñate moved his capital across the river to a place called San Gabriel. The people of Ohkay Owingeh still live in their town.
+On the Rio Grande he set up his first capital at Ohkay Owingeh, a town of Tewa-speaking people. The Spanish named the town San Juan de los Caballeros in 1598. A year later Oñate moved his capital across the river to a place called San Gabriel. The people of Ohkay Owingeh still live in their town.
 
-In the autumn of 1598 Oñate went to the pueblos one by one. Through translators, he made the people of each pueblo swear loyalty to the king of Spain. He also placed a missionary in each one. A missionary is a priest sent to bring people into his religion. Oñate governed New Mexico until 1608.
+Oñate went to the pueblos one by one in the autumn of 1598. Through translators, he made the people of each pueblo swear loyalty to the king of Spain. He also placed a missionary, a priest sent to bring people into his religion, in each one. Oñate governed New Mexico until 1608. The next era tells what the king's judges later found he had done there.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -80,19 +107,32 @@ In the autumn of 1598 Oñate went to the pueblos one by one. Through translators
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-Spanish judges in Mexico City put a former governor of New Mexico on trial in 1614. The English built Jamestown, in Virginia, in 1607, and twelve years later twenty-two elected men met there as the first elected assembly in English North America. The next year, forty-one men aboard the *Mayflower* signed an agreement to make laws for themselves and obey them. The colonists' own lawmakers decided who could vote, and they changed the rules many times. In 1662 Virginia's lawmakers passed a law that made every child born to an enslaved woman a slave as well.
+**Era 3 of 10 · The 1600s · about 10 minutes**
+
+Spanish judges in Mexico City put a former governor of New Mexico on trial in 1614. The English built Jamestown, in Virginia, in 1607, and twelve years later twenty-two elected men met there as the first elected assembly in English North America. The next year, forty-one men aboard the *Mayflower* signed an agreement to make laws for themselves and obey them.
+
+The colonists' own lawmakers decided who could vote, and they changed the rules many times. In 1662 Virginia's lawmakers passed a law that made every child born to an enslaved woman a slave as well. In Massachusetts, lawmakers made towns keep a school.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The king's judges try New Mexico's governor, 1614" -->
+<!-- hb-zoom level="span" label="What the judges found Oñate guilty of, 1614" -->
 Royal judges in Mexico City tried Juan de Oñate, the former governor of New Mexico, in 1614. Officials of the king of Spain had brought 30 charges against him. The judges found him guilty of 12 and not guilty of 18. One of the twelve was using too much force against Acoma Pueblo.
 
 In December 1598 Oñate's nephew Juan de Zaldívar came to Acoma with about thirty soldiers. He took some of them up the mesa, the flat-topped hill where the town stands, to demand food. In the Acoma people's own account, the soldiers raped an Acoma woman. Rape means forcing a person into sex. The Acoma killed Zaldívar and eleven to fourteen of his men. Accounts differ on the number.
 
-In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time. Estimates run from about 300 to about 1,500, and the Pueblo nations' own leaders use the figure of about 800. PBS reports that about 200 people of Acoma survived, out of nearly 2,000. These figures come from different sources, and they do not fit together.
+In January 1599 Oñate sent Juan's brother, Vicente de Zaldívar, to Acoma with about seventy soldiers. Over two or three days of fighting, those soldiers killed Acoma men, women and children, and they burned much of the town. No one counted the dead at the time.
 
-Afterward Oñate sentenced the Acoma men over twenty-five to have one foot cut off. He also sentenced them to be forced to work as slaves of the Spanish for twenty years. He sentenced younger men and boys from twelve up, and women and girls over twelve, to the same twenty years of forced work. He handed the old people to the Plains Apache as slaves. He took the children under twelve from their families and gave them to the friars, the Catholic religious brothers with his colony. On Oñate's order, about 70 of the girls were sent to convents in Mexico, as the National Park Service reports. A convent is a house where nuns live. The Park Service's account states that almost certainly none of the girls ever came home. Oñate also sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people. The sentences are in the written record. Whether the feet were cut off is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. The historians Marc Simmons and John Kessell doubt that it was done, and Kessell points out that no record describes a one-footed Acoma man.
+**Known:** The soldiers killed hundreds of people. The Pueblo nations' own leaders use the figure of about 800.
+**Disputed:** The count. Estimates run from about 300 to about 1,500, and PBS reports that about 200 people of Acoma survived out of nearly 2,000. Those figures come from different sources and do not fit together.
 
-Oñate was also found guilty of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was. The judges ordered him out of New Mexico for life. They also barred him from Mexico City. Accounts differ on how long: four years or five. The judges fined him 6,000 ducats in the money of Castile, in Spain.
+**The sentences.** Afterward Oñate sentenced the Acoma men over twenty-five to have one foot cut off, and to be forced to work as slaves of the Spanish for twenty years. Younger men and boys from twelve up, and women and girls over twelve, got the same twenty years of forced work. He handed the old people to the Plains Apache as slaves.
+
+**The children.** He took the children under twelve from their families and gave them to the friars, the Catholic religious brothers with his colony. On Oñate's order, about 70 of the girls were sent to convents in Mexico, houses where nuns live. The National Park Service's account states that almost certainly none of the girls ever came home.
+
+**The Hopi men.** Oñate also sentenced two Hopi men captured in the fighting to have their right hands cut off. Then he had them released to carry word of the punishment to their own people.
+
+**The feet.** The sentences are in the written record. Whether the feet were cut off is disputed. In the Acoma people's own account, Oñate had the right feet of 24 captive men cut off. The historians Marc Simmons and John Kessell doubt that it was done, and Kessell points out that no record describes a one-footed Acoma man.
+
+**The judges' ruling.** Oñate was also found guilty of ordering his captains to kill two soldiers who had run away from the army, and of lying to the viceroys and the king about how rich the land was. The judges ordered him out of New Mexico for life and barred him from Mexico City for four years, or five, since accounts differ. They fined him 6,000 ducats in the money of Castile, in Spain.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first General Assembly, 1619" -->
@@ -102,9 +142,11 @@ In the summer of 1619 Governor George Yeardley used that power. The colony had e
 
 In six days the members set rules for how they would do business and protected colonists' claims to their land. They also made the Church of England the colony's official church. They passed laws about tobacco, gambling, behavior and dealings with Native nations.
 
-Jamestown stood on land that belonged to the Paspahegh. They were one of twenty-eight to thirty-two groups, each with its own chief, that paid tribute to Powhatan. Tribute is a payment of goods to a more powerful ruler. Powhatan was the chief over all the other chiefs of Tsenacomoco. The anthropologist Helen C. Rountree estimates that about 15,000 people lived in Tsenacomoco, across about 6,000 square miles. The English built Jamestown on Paspahegh land in 1607 and stayed there without asking the Paspahegh's permission.
+**Whose land it was.** Jamestown stood on land that belonged to the Paspahegh. They were one of twenty-eight to thirty-two groups, each with its own chief, that paid tribute, goods given to a more powerful ruler, to Powhatan. He was the chief over all the other chiefs of Tsenacomoco. The anthropologist Helen C. Rountree estimates that about 15,000 people lived in Tsenacomoco, across about 6,000 square miles. The English built Jamestown on Paspahegh land in 1607 and stayed there without asking the Paspahegh's permission.
 
-In 1624 the king's officials took away the Virginia Company's charter. Virginia became a royal colony in 1625, with a governor and council chosen by the king. No one in England had given the assembly permission to go on meeting, but the burgesses kept meeting. Whether the assembly had any legal right to meet stayed unclear until 1627. That year the king asked the General Assembly to help make rules for the tobacco trade. By asking, he treated the assembly as a lawful body, though no written order said it could meet.
+**The assembly outlives the company.** The king's officials took away the Virginia Company's charter in 1624. Virginia became a royal colony in 1625, with a governor and council chosen by the king. No one in England had given the assembly permission to go on meeting, but the burgesses kept meeting.
+
+Whether the assembly had any legal right to meet stayed unclear until 1627. That year the king asked the General Assembly to help make rules for the tobacco trade. By asking, he treated the assembly as a lawful body, though no written order said it could meet.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-pory" name="John Pory" movie="" kind="ordinary" status="verified" -->
@@ -113,19 +155,19 @@ In 1624 the king's officials took away the Virginia Company's charter. Virginia 
 > **Who:** The colony's secretary, who served as Speaker of the first elected assembly in English North America and wrote the record of what it did.
 > **When and where:** Jamestown, Virginia, July 30 to August 4, 1619.
 
-John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Brent Tarter wrote about the missing copies on the Library of Virginia's blog in 2019. Any copies kept in Virginia, he wrote, would have been destroyed in one of the British raids on Richmond during the American Revolution. Most of the colony's records were destroyed in those raids.
+**Twenty-two men, six days, and one surviving copy of the record.**
 
-Pory was born in about 1572 at Thompson, in Norfolk, England. He studied at Gonville and Caius College, Cambridge, and earned his first degree in 1592 and a higher degree in 1595. He had also sat in the English Parliament, the group of lawmakers who made England's laws, so he knew how a lawmaking body ran its business.
+John Pory wrote the record of the first meeting of Virginia's General Assembly. He called his report "The Proceedings of the First General Assembly, July 30, 1619." One copy of it survives, in the National Archives of the United Kingdom. Any copies kept in Virginia, Brent Tarter wrote on the Library of Virginia's blog in 2019, would have been destroyed in one of the British raids on Richmond during the American Revolution, along with most of the colony's records.
 
-On December 2, 1618, the leaders of the Virginia Company made him secretary of the colony. He sailed from England in January 1619 with the governor, George Yeardley, and reached Jamestown on April 18. That summer Yeardley made him Speaker of the assembly, the officer who runs its meetings. Pory was not one of the elected burgesses. He ran the meetings because the governor appointed him.
+Pory knew how a lawmaking body ran its business. He had sat in the English Parliament, the group of lawmakers who made England's laws. The leaders of the Virginia Company made him secretary of the colony on December 2, 1618. He sailed from England in January 1619 with the governor, George Yeardley, and reached Jamestown on April 18.
 
-Pory left Virginia in the early summer of 1622 on a ship called the *Discovery*, after Christopher Davidson was made secretary in his place. He was buried at Sutton Saint Edmunds, in Lincolnshire, England. The history website of the Virginia House of Delegates gives the year of his death as 1636. Other reference books give 1633.
+That summer Yeardley made him Speaker of the assembly, the officer who runs its meetings. Pory was not one of the elected burgesses. He ran the meetings because the governor appointed him. He left Virginia in the early summer of 1622, after Christopher Davidson was made secretary in his place.
 <!-- hb-story:end slug="john-pory" -->
 
-<!-- hb-zoom level="span" label="Plymouth and the Mayflower Compact, 1620" -->
+<!-- hb-zoom level="span" label="Why forty-one men signed a paper off Cape Cod, 1620" -->
 The *Mayflower* anchored off Cape Cod, in what is now Massachusetts, in November 1620. The passengers had permission, called a patent, to settle near the Hudson River. That land lay inside the Virginia Company's territory. Off Cape Cod they were outside it, so no one had given them the right to govern themselves there.
 
-On November 11, 1620, forty-one men signed an agreement to keep order until a new patent came. It is known as the Mayflower Compact. The signers agreed to "covenant & combine our selves together into a Civill body politick." That meant they promised to form a government together. They also promised to make and obey "just & equall lawes." The women and children did not sign. Most of the servants did not sign either. The original paper has been lost.
+Forty-one men signed an agreement on November 11, 1620, to keep order until a new patent came. It is known as the Mayflower Compact. The signers agreed to "covenant & combine our selves together into a Civill body politick." That meant they promised to form a government together. They also promised to make and obey "just & equall lawes." The women and children did not sign. Most of the servants did not sign either. The original paper has been lost.
 
 The passengers founded Plymouth Colony. They settled at Patuxet, where a Wampanoag community had lived until "a sickness had killed most of them." Plymouth remained a separate colony from Massachusetts Bay until 1691.
 <!-- /hb-zoom -->
@@ -137,7 +179,9 @@ In 1676, during a revolt called Bacon's Rebellion, all freemen could vote again 
 
 Candidates in Virginia gave voters food and drink before and after an election. People called it treating. Virginia's lawmakers limited treating during the week of an election, so candidates had other people do the treating for them.
 
-In Massachusetts Bay, the officers of the colony's company sat together as its lawmaking group, called the General Court. In May 1631 they ruled that only church members could become freemen, the men who could vote. To join a church, a person had to stand before the church members, tell how they had come to their faith, and be accepted. Most men in the colony could not pass that test. Women could not vote at all. Under a new charter from the king in 1691, men who owned property could vote whether or not they belonged to a church.
+**Massachusetts: church members only.** In Massachusetts Bay, the officers of the colony's company sat together as its lawmaking group, called the General Court. In May 1631 they ruled that only church members could become freemen, the men who could vote. Women could not vote at all.
+
+To join a church, a person had to stand before the church members, tell how they had come to their faith, and be accepted. Most men in the colony could not pass that test. Under a new charter from the king in 1691, men who owned property could vote whether or not they belonged to a church.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A Virginia law on the children of enslaved women, 1662" -->
@@ -145,7 +189,9 @@ The members of Virginia's General Assembly passed a law about the children of en
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A town made to keep a school" -->
-In 1642 the lawmakers of Massachusetts Bay put the duty of teaching children on each household. Parents and masters had to try to teach their children and apprentices to "read the English tongue," or have someone else teach them. They also had to teach them the colony's capital laws, the laws whose penalty was death. An apprentice was a young person bound to a master to learn a trade. If a household failed, the town's selectmen could fine it. The selectmen were the elected leaders of a town. They could also take the children away and place them with another master.
+The lawmakers of Massachusetts Bay put the duty of teaching children on each household in 1642. Parents and masters had to try to teach their children and apprentices, young people bound to a master to learn a trade, to "read the English tongue," or have someone else teach them. They also had to teach them the colony's capital laws, the laws whose penalty was death.
+
+If a household failed, the town's selectmen, its elected leaders, could fine it. They could also take the children away and place them with another master.
 
 In 1647 the lawmakers passed a second law. Its opening words state that "that old deluder, Satan" wants to keep people from knowing the Scriptures, the Bible. A deluder is someone who tricks people. Once a town had fifty households, the people of the town had to appoint someone to teach reading and writing. The parents or the town paid that teacher. A town of one hundred families also had to set up a grammar school to prepare boys for the university.
 
@@ -157,17 +203,23 @@ Under the 1647 law, the penalty fell on the town rather than on the parents. If 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-After 1680 the members of the elected assemblies in the colonies had the power to propose all of a colony's laws. They also decided how public money was spent. That gave them control over the pay of the governors the king appointed. Juries also used their power. In 1735 a New York jury refused to find a printer guilty, though the governor wanted him punished. In the same years, the men of Virginia's assembly took the vote away from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
+**Era 4 of 10 · 1700 to 1750 · about 7 minutes**
+
+A New York jury set a printer free in 1735 though the governor wanted him in prison. In the same years, the men elected to the colonial assemblies held the power to propose every law and to decide how public money was spent, which gave them control over the pay of the governors the king appointed. The men of Virginia's assembly used their power another way. They took the vote away from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The assemblies and the governor's pay" -->
-After 1680 the members of the colonial assemblies had the power to propose all of a colony's laws. In a royal colony, the king chose the governor and his council, and the colonists elected the assembly. By 1763 nine of the thirteen colonies that later rebelled had royal governors. The members of each colonial assembly decided how public money was spent, and they checked the spending. That gave them control over the salaries of the governor and of the colony's judges.
+<!-- hb-zoom level="span" label="Why the governors could not control their own pay" -->
+After 1680 the members of the colonial assemblies had the power to propose all of a colony's laws. In a royal colony, the king chose the governor and his council, and the colonists elected the assembly. By 1763 nine of the thirteen colonies that later rebelled had royal governors.
+
+The members of each colonial assembly decided how public money was spent, and they checked the spending. That gave them control over the salaries of the governor and of the colony's judges.
 
 Officials in London tried to make the assemblies set fixed yearly salaries. They also wanted a fixed civil list, a set list of paid government posts. That list would have given each governor jobs to hand out to his supporters. The assembly members turned down every one of these attempts.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Virginia's burgesses take away the vote, 1723" -->
-In May 1723 the burgesses of Virginia's General Assembly passed a law about enslaved people accused of crimes punished by death. It also set punishments for plots and revolts, and rules to control Black and Native people, enslaved or free. One clause of it states that "no free negro, mullatto, or indian whatsoever, shall hereafter have any vote at the election of burgesses, or any other election whatsoever." Negro was a word used then for a Black person. Mulatto was a word used then for a person with both Black and white parents or ancestors. With that clause, the burgesses took the vote from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
+The burgesses of Virginia's General Assembly passed a law in May 1723 about enslaved people accused of crimes punished by death. It also set punishments for plots and revolts, and rules to control Black and Native people, enslaved or free.
+
+One clause of it states that "no free negro, mullatto, or indian whatsoever, shall hereafter have any vote at the election of burgesses, or any other election whatsoever." Negro was a word used then for a Black person. Mulatto was a word used then for a person with both Black and white parents or ancestors. With that clause, the burgesses took the vote from every free Black man, every free man of mixed Black and white family, and every Native man in the colony.
 
 A lawyer in London objected. Richard West advised the Board of Trade, the group of officials in London who oversaw the colonies. On January 10, 1724, he wrote: "I cannot see why one Freeman should be used worse than another meerly upon account of his complexion." Complexion meant skin color.
 
@@ -177,9 +229,13 @@ That same year, 1736, Virginia's lawmakers set a land test for voters. A man had
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Zenger trial, 1735" -->
-In 1735 a jury in New York refused to find the printer John Peter Zenger guilty of seditious libel. Libel means printed words that harm someone's good name. Seditious libel was the crime of publishing written blame of any public official, of the law, or of anything the law set up. Under that law, it made no difference whether the printed words were true. The judge told the jury to decide only one question: whether Zenger had printed the newspaper. The jury decided more than that and found him not guilty.
+A jury in New York refused in 1735 to find the printer John Peter Zenger guilty of seditious libel. Libel means printed words that harm someone's good name. Seditious libel was the crime of publishing written blame of any public official, of the law, or of anything the law set up. Under that law, it made no difference whether the printed words were true.
 
-The jurors set Zenger free, but the law stayed the same. The Historical Society of the New York Courts states that the case set no rule that later judges had to follow. A defense is a reason that can keep a person from being found guilty. In New York, the truth of the printed words did not become a defense in a libel case until April 6, 1805, seventy years later. That day the state's lawmakers passed a law allowing truth as a defense when the words were printed "with good motive and for justifiable ends." In 1821 New York's leaders wrote the same rule into the state's second constitution.
+The judge told the jury to decide only one question: whether Zenger had printed the newspaper. The jury decided more than that and found him not guilty.
+
+**What the verdict did not change.** The jurors set Zenger free, but the law stayed the same. The case set no rule that later judges had to follow. In New York, the truth of the printed words did not become a defense, a reason that can keep a person from being found guilty, in a libel case until April 6, 1805, seventy years later.
+
+That day the state's lawmakers passed a law allowing truth as a defense when the words were printed "with good motive and for justifiable ends." In 1821 New York's leaders wrote the same rule into the state's second constitution.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="john-peter-zenger-government-politics" name="John Peter Zenger" movie="" kind="famous" status="verified" -->
@@ -188,9 +244,11 @@ The jurors set Zenger free, but the law stayed the same. The Historical Society 
 > **Who:** A New York printer jailed for more than eight months for printing attacks on the governor, then found not guilty by a jury.
 > **When and where:** New York City, November 1734 to August 1735.
 
-John Peter Zenger sat in jail from November 17, 1734, to August 5, 1735, more than eight months, for printing a newspaper that attacked the governor of New York. The trouble began in 1733. In a court case called *Cosby v. Van Dam*, the chief judge, Lewis Morris, wrote a dissent against Governor William Cosby. A dissent is a judge's written disagreement with the other judges. Cosby removed Morris from office. Morris's allies answered by starting a newspaper, the *New-York Weekly Journal*, and Zenger printed it. The first issue came out on November 5, 1733.
+**Eight months in jail, and the paper missed only one issue.**
 
-For many years the only paper in the colony had been the *New York Gazette*, started in 1725, which printed the governor's side. In the *Journal*, writers accused Cosby's government of tyranny, meaning cruel and unfair rule, with articles, jokes and mocking verses, issue after issue. Cosby offered a reward of fifty pounds to anyone who found out who wrote them. He also ordered copies of the paper burned in public by the hangman.
+John Peter Zenger sat in jail from November 17, 1734, to August 5, 1735, for printing a newspaper that attacked the governor of New York. The trouble began in 1733. The chief judge, Lewis Morris, wrote a dissent, a judge's written disagreement with the other judges, against Governor William Cosby in a court case. Cosby removed Morris from office. Morris's allies answered by starting a newspaper, the *New-York Weekly Journal*, and Zenger printed it. The first issue came out on November 5, 1733.
+
+Until then the only paper in the colony had been the *New York Gazette*, which printed the governor's side. In the *Journal*, writers accused Cosby's government of tyranny, meaning cruel and unfair rule, with articles, jokes and mocking verses, issue after issue. Cosby offered a reward of fifty pounds to anyone who found out who wrote them. He also ordered copies of the paper burned in public by the hangman.
 
 In January 1734 Chief Justice James De Lancey asked a grand jury to charge Zenger with a crime. A grand jury is a group of citizens who decide whether there is enough proof to charge a person with a crime. The grand jury refused. In October a second grand jury refused too. Its members said no one could tell who had written the pieces.
 
@@ -207,9 +265,13 @@ The trial took place on August 4, 1735, on the second floor of City Hall. Andrew
 > **Who:** The Philadelphia lawyer who defended Zenger without pay and told the jury it could judge the law as well as the facts.
 > **When and where:** New York City, August 4, 1735. Philadelphia before and after.
 
+**He took the case for nothing and told the jury to judge the law.**
+
 Andrew Hamilton defended John Peter Zenger for free. He was a lawyer in Philadelphia, and the members of the Pennsylvania Assembly elected him their Speaker. He traveled to New York for the trial and worked on the case with another lawyer, John Chambers.
 
-The judge would not let Hamilton prove that Zenger's words were true. So Hamilton built his defense on the power of the jury. He told the jurors that the case was "not of small or private concern." He called it "the cause of liberty." He argued that the law gave people "a right to liberty of both exposing and opposing arbitrary power," meaning power used without limits, "by speaking and writing truth." The jury found Zenger not guilty. The phrase "Philadelphia lawyer" entered American speech because of this case. Dictionaries define it as a very clever lawyer, skilled at the fine points of the law.
+The judge would not let Hamilton prove that Zenger's words were true. So Hamilton built his defense on the power of the jury. He told the jurors that the case was "not of small or private concern." He called it "the cause of liberty." He argued that the law gave people "a right to liberty of both exposing and opposing arbitrary power," meaning power used without limits, "by speaking and writing truth." The jury found Zenger not guilty.
+
+The phrase "Philadelphia lawyer" entered American speech because of this case. Dictionaries define it as a very clever lawyer, skilled at the fine points of the law.
 
 Back in Pennsylvania, Hamilton led the planning of the Pennsylvania State House and pushed to get it finished. The building is now called Independence Hall.
 <!-- hb-story:end slug="andrew-hamilton" -->
@@ -219,11 +281,15 @@ Back in Pennsylvania, Hamilton led the planning of the Pennsylvania State House 
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-Between 1776 and 1791, leaders of the new country wrote down how it would be governed. They wrote a declaration of independence, a plan of government, a constitution to replace that plan, and a list of rights added to the constitution. The men who wrote the Constitution put clauses in it that protected slavery. They set no national rule on who could vote, so each state's lawmakers decided. In the 1790s the country's leaders split into the first two political parties. In 1798 President John Adams signed a law that made it a crime to publish false and scandalous writing against the government. Federal judges sent people who criticized him to jail under it.
+**Era 5 of 10 · 1750 to 1800 · about 15 minutes**
+
+Fifty-six men signed the Declaration of Independence, and in the next fifteen years the leaders of the new country wrote down how it would be governed. They wrote a plan of government, a constitution to replace that plan, and a list of rights added to the constitution. The men who wrote the Constitution put clauses in it that protected slavery. They set no national rule on who could vote, so each state's lawmakers decided.
+
+In the 1790s the country's leaders split into the first two political parties. In 1798 President John Adams signed a law that made it a crime to publish false and scandalous writing against the government. Federal judges sent people who criticized him to jail under it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Declaration of Independence, 1776" -->
-On July 2, 1776, the delegates to the Continental Congress voted for independence from Britain. The Continental Congress was the meeting of delegates from the thirteen colonies. Two days later, on July 4, they approved the Declaration of Independence, which gave their reasons.
+The delegates to the Continental Congress voted for independence from Britain on July 2, 1776. The Continental Congress was the meeting of delegates from the thirteen colonies. Two days later, on July 4, they approved the Declaration of Independence, which gave their reasons.
 
 Five men made up the committee that wrote the first version: Thomas Jefferson, John Adams, Benjamin Franklin, Robert R. Livingston and Roger Sherman. Jefferson did most of the writing. The delegates began signing the finished copy on August 2, 1776. In the end 56 men signed it. Livingston, who helped write it, never signed.
 <!-- /hb-zoom -->
@@ -233,7 +299,9 @@ Leaders in many of the new states wrote state constitutions, each with its own r
 
 New Jersey's constitution of 1776 gave the vote to "all inhabitants of this colony of full age, who are worth fifty pounds." That meant every adult living there who owned fifty pounds' worth of property could vote. It said nothing about sex or race. So unmarried women and free Black people who owned enough property could vote. Fifty pounds was about the price of three horses or eight cows in 1806.
 
-In 1790 New Jersey's lawmakers passed an election law that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase about the property a voter owned, from the property rule. With those words gone, it was easier for wives and widows to qualify. Then in 1798 the lawmakers passed a law that let only white male taxpayers vote for town officers. Property owners of any race or sex still voted for county, state and national offices.
+New Jersey's lawmakers passed an election law in 1790 that said a voter must vote in the town where "he or she" lived. In 1797 they passed a law that did the same for the whole state. It also dropped the words "clear estate," an old legal phrase about the property a voter owned, from the property rule. With those words gone, it was easier for wives and widows to qualify.
+
+Then in 1798 the lawmakers passed a law that let only white male taxpayers vote for town officers. Property owners of any race or sex still voted for county, state and national offices. The next era tells how that ended.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Articles of Confederation" -->
@@ -243,11 +311,13 @@ Under the Articles, each state had one vote in Congress, whatever its size. Cong
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Constitutional Convention, 1787" -->
-In 1787 delegates from the states met in Philadelphia to write a new plan of government. The meeting was called for May 14, but too few delegates had arrived to begin until May 25. About 55 delegates took part. No delegates came from Rhode Island. The delegates worked until September 17, 1787, and 39 of them signed the finished Constitution.
+Delegates from the states met in Philadelphia in 1787 to write a new plan of government. The meeting was called for May 14, but too few delegates had arrived to begin until May 25. About 55 delegates took part. No delegates came from Rhode Island. The delegates worked until September 17, 1787, and 39 of them signed the finished Constitution.
 
 The delegates settled how to share seats in Congress with a deal called the Connecticut Compromise. Every state got two senators, and the number of seats each state got in the House of Representatives depended on its population.
 
-The delegates also had to decide whether enslaved people counted as part of a state's population. They agreed to count each enslaved person as three-fifths of a free person when working out a state's seats in the House. This rule is in Article I, Section 2. Under it, the states with the most enslaved people got extra seats in the House. Article II states that each state has as many electors, the people who pick the president, as it has senators and representatives. So those states also got extra votes for president. Under the law, the enslaved people being counted were property, with no rights at all, so none of them could vote.
+**Three-fifths.** The delegates also had to decide whether enslaved people counted as part of a state's population. They agreed to count each enslaved person as three-fifths of a free person when working out a state's seats in the House. This rule is in Article I, Section 2. Under it, the states with the most enslaved people got extra seats in the House.
+
+Article II states that each state has as many electors, the people who pick the president, as it has senators and representatives. So those states also got extra votes for president. Under the law, the enslaved people being counted were property, with no rights at all, so none of them could vote.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Slavery and voting in the Constitution" -->
@@ -270,17 +340,23 @@ On June 21, 1788, New Hampshire's delegates made it the ninth state to ratify. T
 > **Who:** The first president, elected twice with every electoral vote, who chose to leave office after two terms.
 > **When and where:** Federal Hall, New York, April 30, 1789. Philadelphia, September 19, 1796.
 
+**Every elector voted for him, twice. He stopped after two terms.**
+
 George Washington is the only person ever elected president with every electoral vote. It happened twice, in 1789 and in 1792. The electoral votes are the votes cast by electors, the people each state chooses to pick the president. The votes for the first election were counted on April 6, 1789, more than a month late. Members of the new Congress could not reach New York in time because of a cold, snowy winter. Washington had all 69 votes.
 
 On April 30, 1789, Washington swore the oath of office, the promise each new president makes, on the second-floor balcony of Federal Hall in New York. Robert R. Livingston, a New York judge whose title was chancellor, read him the oath while a crowd watched from the street. Then Washington went inside and read his first speech as president, called the first inaugural address, to both houses of Congress.
 
-Nothing in the Constitution limited how many times a president could be elected. In 1796 Washington decided to stop after two terms. He announced it in a written message to the country, printed on September 19, 1796, in a Philadelphia newspaper. It is called his Farewell Address, though he never read it aloud. James Madison had written a first version in 1792. Alexander Hamilton did most of the writing in 1796. Washington made changes to it himself. In it he told the country of "the resolution I have formed, to decline being considered among the number of those out of whom a choice is to be made." That meant he would not run again.
+Nothing in the Constitution limited how many times a president could be elected. In 1796 Washington decided to stop after two terms. He announced it in a written message to the country, printed on September 19, 1796, in a Philadelphia newspaper. It is called his Farewell Address, though he never read it aloud.
+
+James Madison had written a first version in 1792. Alexander Hamilton did most of the writing in 1796, and Washington made changes to it himself. In it he told the country of "the resolution I have formed, to decline being considered among the number of those out of whom a choice is to be made." That meant he would not run again.
 
 In the same address he warned "against the baneful effects of the spirit of party." Baneful means harmful. He also wrote that it was "our true policy to steer clear of permanent alliances with any portion of the foreign world."
 
-For about 150 years the two-term limit stayed a habit, not a law. Franklin Roosevelt broke it when he won a third term in 1940 and a fourth in 1944. In 1947 members of Congress proposed writing a two-term limit into the Constitution. The 22nd Amendment, a change to the Constitution, took effect on February 27, 1951, when Minnesota's lawmakers made it the 36th state to approve it.
+For about 150 years the two-term limit stayed a habit, not a law. Franklin Roosevelt broke it when he won a third term in 1940 and a fourth in 1944. The Twenty-second Amendment of 1951 made the limit law. Era 9 tells how.
 
-Washington was an enslaver. He owned 123 people at his plantation, Mount Vernon. He also managed 153 more who belonged to the estate of his wife Martha's first husband. An estate is the property a person leaves when they die. Under the law, Washington could not sell or free those 153. In his will, dated July 9, 1799, he freed his valet, or personal servant, William Lee at once. He ordered the other 122 people he owned to be freed after Martha died. Martha Washington freed them on January 1, 1801. The other 153 people went back to her first husband's estate. Martha's grandchildren, who inherited that estate, divided them among themselves, and in dividing them they split up families.
+**The people he owned.** Washington was an enslaver. He owned 123 people at his plantation, Mount Vernon. He also managed 153 more who belonged to the estate of his wife Martha's first husband, the property that man had left when he died. Under the law, Washington could not sell or free those 153.
+
+In his will, dated July 9, 1799, he freed his valet, or personal servant, William Lee at once. He ordered the other 122 people he owned to be freed after Martha died. Martha Washington freed them on January 1, 1801. The other 153 people went back to her first husband's estate. Martha's grandchildren, who inherited that estate, divided them among themselves, and in dividing them they split up families.
 
 The custom of reading the Farewell Address aloud in Congress began on February 22, 1862, during the Civil War, after a thousand people in Philadelphia asked Congress to mark Washington's birthday. Since 1896 a senator has read it aloud in the Senate every year. It runs 7,641 words.
 <!-- hb-story:end slug="george-washington-government-politics" -->
@@ -290,6 +366,8 @@ The custom of reading the Farewell Address aloud in Congress began on February 2
 
 > **Who:** A delegate to the Constitutional Convention who first argued against a bill of rights, then wrote one and steered it through Congress.
 > **When and where:** Philadelphia and New York, 1787 to 1791. Born March 16, 1751. Died June 28, 1836.
+
+**He argued against a bill of rights. Then he wrote one.**
 
 James Madison introduced the amendments that became the Bill of Rights. An amendment is a change or addition to the Constitution. Madison had been the loudest voice against adding a list of rights. He had argued that the Constitution already limited the government's powers. Then delegates in several states agreed to ratify only if the first Congress would consider the amendments they proposed. After that, Madison changed his position.
 
@@ -305,7 +383,9 @@ Madison enslaved people all through these years. About 100 enslaved people worke
 <!-- hb-story:end slug="james-madison" -->
 
 <!-- hb-zoom level="span" label="Who could become a citizen, 1790" -->
-The first federal law on who could become a citizen allowed only a "free white person." Members of Congress passed it in 1790 and called it the Naturalization Act. Naturalization is the legal process by which a person born in another country becomes a citizen. The person also had to be of good character, and had to have lived in the United States for two years and in the state for one. The person also had to swear an oath to support the Constitution. Part of that racial limit stayed in federal law until 1952.
+The first federal law on who could become a citizen allowed only a "free white person." Members of Congress passed it in 1790 and called it the Naturalization Act. Naturalization is the legal process by which a person born in another country becomes a citizen.
+
+The person had to be of good character, had to have lived in the United States for two years and in the state for one, and had to swear an oath to support the Constitution. Part of that racial limit stayed in federal law until 1952.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Fugitive Slave Act, 1793" -->
@@ -327,10 +407,20 @@ The only newspaper editors put on trial under the Sedition Act worked for Democr
 
 One of them was Matthew Lyon, a Democratic-Republican congressman from Vermont who had been born in Ireland. In a letter, he wrote that he saw the public good "swallowed up in a continual grasp for power, in an unbounded thirst for ridiculous pomp, foolish adulation, or selfish avarice." Pomp means showy display. Adulation means too much praise. Avarice means greed. He had also read aloud at campaign meetings a letter by the poet Joel Barlow that blamed Adams and the Senate for trouble with France.
 
-On October 5, 1798, a federal grand jury in Vermont charged Lyon. A deputy marshal, a federal law officer, arrested him the next day. On October 9 he stood trial at Rutland before Justice William Paterson of the Supreme Court. Lyon defended himself. Paterson told the jury that its job had "nothing whatever to do with the constitutionality or unconstitutionality of the sedition law." Constitutionality means whether a law is allowed by the Constitution. The jury found Lyon guilty within an hour. Paterson sentenced him to four months in prison, a $1,000 fine and $60.96 in court costs.
+A federal grand jury in Vermont charged Lyon on October 5, 1798. A deputy marshal, a federal law officer, arrested him the next day. On October 9 he stood trial at Rutland before Justice William Paterson of the Supreme Court. Lyon defended himself.
+
+Paterson told the jury that its job had "nothing whatever to do with the constitutionality or unconstitutionality of the sedition law." Constitutionality means whether a law is allowed by the Constitution. The jury found Lyon guilty within an hour. Paterson sentenced him to four months in prison, a $1,000 fine and $60.96 in court costs.
 
 Lyon was held in the jail at Vergennes. While he was there, the voters of his district elected him to Congress again. He was released on February 9, 1799.
 
 Justice Samuel Chase sentenced another writer, James Callender, to nine months in prison and a $400 fine. After Jefferson became president, he pardoned Callender. To pardon means to officially forgive a crime. In 1804 the members of the House voted to impeach Chase, partly for how he ran Callender's trial. To impeach means to charge an official with wrongdoing in office, so that the Senate puts him on trial. The senators found him not guilty.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" label="By 1800" -->
+**If you remember one thing:** Between 1776 and 1791 the country's leaders wrote down how it would be governed, protected slavery in the plan, and left the vote to each state.
+- 1787: Thirty-nine delegates signed the Constitution in Philadelphia.
+- 1791: Ten amendments, the Bill of Rights, became part of it.
+- 1798: Under the Sedition Act, a jury found a congressman guilty of writing against the president, and his voters re-elected him from jail.
+**Next:** In 1803 the justices of the Supreme Court claimed a power the Constitution does not name: cancelling a law.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->
