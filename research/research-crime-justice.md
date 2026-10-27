@@ -1027,6 +1027,13 @@ How the prose can say it: "Elam Lynds, the head keeper at Auburn, had prisoners 
 - The same bank's story entry (Nat Turner, verified): "led the deadliest slave revolt in U.S. history, August 1831 ... hanged November 11, 1831."
 - Prose use: "In August 1831" for the revolt, "Turner hid for two months" (21-23 August to 30 October), and the hanging on 11 November as the justices ordered. The sources read do not name the hangman.
 
+### PATCH 2026-10-26 (T-651): Eastern State's warden named, and who investigated (era 6)
+- Jennifer Lawrence Janofsky, "Eastern State Penitentiary," *Encyclopedia of Greater Philadelphia* (https://philadelphiaencyclopedia.org/essays/eastern-state-penitentiary/, curl 2026-10-26, full page text): "the most serious were those brought against Warden Samuel Wood for cruel and unusual punishment." The penitentiary "was investigated for corrupt behavior as early as 1834, just five years after opening its doors." Maccumsey's hands "were bound behind his back and shackled"; "One hour later" he "was found dead in his cell"; "multiple witnesses contended his death was a result of being placed in the gag." "Despite the investgation by police, Wood was not found guilty of cruel and unusual punishment and served as warden until his retirement." (The page says "police" here. The Vanderbilt paper below, from the committee's papers, says a legislative committee investigated. The prose names the lawmakers' committee.)
+- Erica Rhodes Hayden, "Philadelphia's Eastern State Penitentiary: The Darker Side of Good Intentions in Criminal Punishment," Vanderbilt University Institutional Repository, deposited 2015-10-13 (https://ir.vanderbilt.edu/handle/1803/14310, abstract opened 2026-10-26): "Within five years of the opening of the penitentiary, Eastern State was under state legislative investigation for cruel and unusual punishment towards inmates who broke the institution's rules." The paper uses "papers from the legislative committee organized to investigate Eastern State's cruelty charges in 1834-1835."
+- Search summaries only (not used in prose): the joint committee was appointed December 6, 1834, and its majority and minority reports were read in the Pennsylvania House on March 26, 1835 (Thomas B. McElwee pamphlet, via search); Wikipedia lists the warden as Samuel R. Wood (1829 to 1840).
+- Prose use (part 2, Eastern State): "In 1834 and 1835 a committee of Pennsylvania lawmakers investigated charges that the prison's officials had been cruel to prisoners. The lawmakers did not find the warden, Samuel Wood, guilty of cruel and unusual punishment."
+- The other two F7 polish notes (Attica: who killed William Quinn; Wounded Knee 1973: who shot Lloyd Grimm and Frank Clearwater) are already settled in the part 3 prose by later fixes: the 1975 jury verdict against John Hill and Charley Joe Pernasilice; the AP 2000 report that no suspects were found for Grimm; the FBI's 2000 Pine Ridge report on Clearwater. No change.
+
 ## Era 7: 1850 to 1900 (T-265b, 2026-09-27)
 
 ### San Francisco's Committees of Vigilance, 1851 and 1856
@@ -1158,6 +1165,10 @@ How the prose can say it: leave the trials out, or "Few of the rioters were ever
   discoloration was noticeable and that mostly about the neck."
 - Prose use: "Newspaper reports said she had also been raped", with the *Sun*'s word, and Wells's
   witnesses who saw no sign of it. Rape is already defined earlier in part 2 (the Dakota trials).
+
+### PATCH 2026-10-26 (T-651): what the Lower Agency was (the Dakota trials, 1862)
+- Minnesota Historical Society, "Lower Sioux Agency: History" (https://www.mnhs.org/lowersioux/learn/history, opened 2026-10-26): "The US government established the Lower Sioux Agency in 1853 as an administrative center for the newly created Dakota reservation. It was the site of the outbreak of the US-Dakota War of 1862." It was "one of two US government Indian agencies established in 1853 to be the administrative centers of the newly created Dakota reservations for the Mdewakanton and Wahpekute bands of Dakota." It "had a school, blacksmith shop, stables, carpenter shop, church, boarding house, and homes for agency employees." In 1862 the settlement at the lower agency had "between 15 and 20 government buildings." A stone warehouse built in 1861 stored food and goods meant for the Dakota. Agency workers fled toward Fort Ridgely on the morning of August 18, 1862, "after the war erupted." After the war "the US government eliminated the reservations and sold the land."
+- Prose use (part 2, the Dakota trials): the Lower Sioux Agency, also called the Lower Agency, was the government post US officials set up in 1853 to run the Dakota reservation. It had a school, shops and homes for the government workers. The war began there in August 1862.
 
 ## Era 8: 1900 to 1950 (T-265b, 2026-09-27)
 
