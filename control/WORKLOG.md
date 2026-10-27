@@ -5145,3 +5145,10 @@ USAGE at launch 72%.
 ### 2026-10-03 | [LOCAL] T-643 | full-book build + viewer check | model opus
 STATUS: DONE
 RESULT: build/history-book.html (4.97 MB) and .pdf (15.6 MB, 1,965 pages), 824,017 words; rebuild: python tools/build_full_book.py --pdf. Viewer parses all 112 files cleanly. 115,554 tokens (opus).
+
+### 2026-10-26 | [LOCAL] GAPS-FINAL burst T-650..T-658 | nine agents at once (Jon authorised parallel, 2026-10-26) | model opus
+STATUS: IN-FLIGHT
+BRIEF: control/briefs/GAPS-FINAL-DISPATCH.md (common rules + per-task item lists); control/briefs/GAPS.md
+SCOPE: every NEEDS-RESEARCH item left by the step-7 fixers (control/checkpoints/F7-*.md) and the open AUDIT-QUEUE polish items; T-658 = viewer em dashes and nickname headings.
+VERIFY: python tools/project_state.py --check <slug> --stage prose for every chapter touched; checkpoints control/checkpoints/T-65x-gaps.md
+USAGE at launch: 5-hour 37%, weekly 10%.

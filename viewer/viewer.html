@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
-<title>The Lamplit Almanac — Grid Viewer</title>
+<title>The Lamplit Almanac · Grid Viewer</title>
 <style>
 /* ══════════════════════════════════════════════════════════════════
    THE LAMPLIT ALMANAC
@@ -753,7 +753,7 @@ body.collapsed-ui .rb-collapse{display:none}
     <span class="rb-lab">Era</span>
     <div class="rb-ctl">
       <button class="btn icon" id="bPrevEra" title="Previous era (↑)">↑</button>
-      <span class="rb-era" id="tEra">—</span>
+      <span class="rb-era" id="tEra">·</span>
       <button class="btn icon" id="bNextEra" title="Next era (↓)">↓</button>
     </div>
   </div>
@@ -787,7 +787,7 @@ body.collapsed-ui .rb-collapse{display:none}
 <!-- ═══ search ═══ -->
 <div id="searchBar">
   <input id="searchInput" type="text" placeholder="Search…" autocomplete="off" spellcheck="false">
-  <span id="searchCount">—</span>
+  <span id="searchCount">·</span>
   <button class="btn icon" id="bFindPrev" title="Previous (⇧⏎)">↑</button>
   <button class="btn icon" id="bFindNext" title="Next (⏎)">↓</button>
   <button class="btn icon" id="bFindClose" title="Close (Esc)">✕</button>
@@ -837,7 +837,7 @@ body.collapsed-ui .rb-collapse{display:none}
 
     <div class="pane" id="p-file">
       <div class="row">
-        <div><div class="lab" id="fName">Demo book</div><div class="hint" id="fStat">Built in — three lenses, ten eras</div></div>
+        <div><div class="lab" id="fName">Demo book</div><div class="hint" id="fStat">Built in: three lenses, ten eras</div></div>
       </div>
       <div class="row">
         <div><div class="lab">Open a grid file</div><div class="hint">Pick one or more .md files, or drop them anywhere</div></div>
@@ -852,7 +852,7 @@ body.collapsed-ui .rb-collapse{display:none}
         <div class="ctl"><button class="btn" id="bDemo">Load demo</button></div>
       </div>
       <div class="row">
-        <div><div class="lab">Storage used</div><div class="hint" id="fQuota">—</div></div>
+        <div><div class="lab">Storage used</div><div class="hint" id="fQuota">·</div></div>
       </div>
     </div>
 
@@ -1589,7 +1589,7 @@ function parseGrid(text, srcName){
   const seen={};
   chapters.forEach(c=>{
     const miss = ERAS.filter(e=>!c.eras[e.id]).map(e=>e.id);
-    if(miss.length) errs.push(`${c.slug}: missing ${miss.length} era(s) — ${miss.join(', ')}`);
+    if(miss.length) errs.push(`${c.slug}: missing ${miss.length} era(s): ${miss.join(', ')}`);
     ERAS.forEach(e=>{
       const E=c.eras[e.id]; if(!E) return;
       E.blocks.forEach(b=>{
@@ -1600,7 +1600,7 @@ function parseGrid(text, srcName){
       });
     });
   });
-  if(!chapters.length) errs.push('No hb-chapter declaration found — is this a grid file?');
+  if(!chapters.length) errs.push('No hb-chapter declaration found. Is this a grid file?');
 
   chapters.sort((a,b)=> (a.id||'').localeCompare(b.id||''));
   return {book, chapters, errs, src:srcName||''};
@@ -1622,17 +1622,20 @@ function inline(s){
     .replace(/\[VERIFY([^\]]*)\]/g,'<span class="vtag">[VERIFY$1]</span>');
 }
 
-/* returns {record:[{k,v}], html} */
+/* returns {record:[{k,v}], html, head} (head = first markdown heading, or '') */
 function mdBlock(md){
   const out=[], rec=[];
-  let para=[], list=[];
+  let para=[], list=[], head='';
   const flushP=()=>{ if(para.length){ out.push('<p>'+inline(para.join(' '))+'</p>'); para=[]; } };
   const flushL=()=>{ if(list.length){ out.push('<ul class="md-list">'+list.map(x=>'<li>'+inline(x)+'</li>').join('')+'</ul>'); list=[]; } };
   const flush=()=>{ flushP(); flushL(); };
   md.split('\n').forEach(raw=>{
     const l=raw.trim();
     if(!l){ flush(); return; }
-    if(/^#{1,6}\s/.test(l)) return;                    // headings come from attributes
+    if(/^#{1,6}\s/.test(l)){                           // headings are not body text
+      if(!head) head=l.replace(/^#{1,6}\s+/,'').trim(); // first one kept: a story heading can carry a "nickname" that name= cannot
+      return;
+    }
     if(/^<!--[\s\S]*-->$/.test(l)) return;             // v2: stray comments never render
     if(l.startsWith('>')){
       flush();
@@ -1646,7 +1649,7 @@ function mdBlock(md){
     flushL(); para.push(l);
   });
   flush();
-  return {record:rec, html:out.join('')};
+  return {record:rec, html:out.join(''), head};
 }
 
 /* ══════════════════════════════════════════════════════════════
@@ -1719,16 +1722,17 @@ function cellHTML(ch,E,era,ei){
         <div class="span-label"><span class="txt">${esc(b.label||'')}</span><span class="ln"></span></div>
         ${html}</div>`;
     }
-    const {record,html}=mdBlock(b.md);
+    const {record,html,head}=mdBlock(b.md);
+    const nm = head || b.name;                 // the ### heading keeps nicknames in double quotes
     const rec = record.map(r=>{
       const cls = /movie|film/i.test(r.k)?' film':'';
-      return `<div class="${cls.trim()}"><span class="k">${esc(r.k)}</span> — ${inline(r.v)}</div>`;
+      return `<div class="${cls.trim()}"><span class="k">${esc(r.k)}</span>: ${inline(r.v)}</div>`;
     }).join('');
     const badges = `${b.kind?`<span class="badge kind-${esc(b.kind)}">${esc(b.kind)}</span>`:''}`
                  + `${b.status?`<span class="badge status-${esc(b.status)}">${esc(b.status)}</span>`:''}`;
-    return `<div class="story-fold"><span>${esc(b.name)}</span><span class="ln"></span></div>
+    return `<div class="story-fold"><span>${esc(nm)}</span><span class="ln"></span></div>
       <div class="blk blk-story">
-        <div class="story-name"><span class="story-orn">${storyOrn()}</span>${esc(b.name)} ${badges}</div>
+        <div class="story-name"><span class="story-orn">${storyOrn()}</span>${esc(nm)} ${badges}</div>
         ${rec?`<div class="story-rec">${rec}</div>`:''}
         ${html}
       </div>`;
@@ -1756,7 +1760,7 @@ function cellHTML(ch,E,era,ei){
     </div>
     ${ei<ERAS.length-1
       ? `<div class="era-next"><span class="ln"></span>
-           <button type="button" data-next="1">Next — ${esc(ERAS[ei+1].label)} →</button>
+           <button type="button" data-next="1">Next: ${esc(ERAS[ei+1].label)} →</button>
            <span class="ln"></span></div>`
       : `<div class="era-next"><span class="ln"></span><span class="fin">End of the book</span><span class="ln"></span></div>`}
     <div class="card st-${esc(era.state)}">
@@ -2326,7 +2330,7 @@ function clearHits(){
 }
 function runSearch(q){
   clearHits();
-  if(!q||q.length<2){ $('#searchCount').textContent='—'; return; }
+  if(!q||q.length<2){ $('#searchCount').textContent='·'; return; }
   const needle=q.toLowerCase();
   scopeCells().forEach(cell=>{
     const root=$('.cell-inner',cell); if(!root) return;
@@ -2366,7 +2370,7 @@ function jumpHit(d){
   pos.ratio=clamp((anim.target.y-L.rowTop[pos.era])/L.rowH[pos.era],0,1);
 }
 function openSearch(){ $('#searchBar').classList.add('open'); $('#searchInput').focus(); $('#searchInput').select(); $('#searchScope').textContent=scopeName(); }
-function closeSearch(){ $('#searchBar').classList.remove('open'); clearHits(); $('#searchCount').textContent='—'; }
+function closeSearch(){ $('#searchBar').classList.remove('open'); clearHits(); $('#searchCount').textContent='·'; }
 
 /* ══════════════════════════════════════════════════════════════
    12 · STORAGE
@@ -2386,7 +2390,7 @@ function storeGrid(md,name){
     localStorage.setItem(K.md,md);
     localStorage.setItem(K.name,name);
     localStorage.setItem(K.at,new Date().toISOString());
-  }catch(e){ toast('Too large to keep in this browser — loaded for this session only'); }
+  }catch(e){ toast('Too large to keep in this browser, so it is loaded for this session only'); }
 }
 function forgetGrid(){ [K.md,K.name,K.at].forEach(k=>{try{localStorage.removeItem(k)}catch(e){}}); }
 function quotaText(){
@@ -2401,7 +2405,7 @@ function loadText(md, name, remember){
   const g=parseGrid(md,name);
   if(!g.chapters.length){
     showErrors(g.errs);
-    toast('That file has no hb-chapter markers — nothing loaded');
+    toast('That file has no hb-chapter markers, so nothing loaded');
     return false;
   }
   S.file=name; S.loadedAt=new Date();
@@ -2618,7 +2622,7 @@ function frame(now){
   }catch(e){}
   if(!md) md=$('#demoGrid').textContent;
   loadText(md,name,false);
-  if(name!=='Demo book') toast(`${name} — kept from last time`);
+  if(name!=='Demo book') toast(`${name}: kept from last time`);
   requestAnimationFrame(frame);
 })();
 
