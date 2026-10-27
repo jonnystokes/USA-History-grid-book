@@ -84,14 +84,6 @@ bullet, nothing else:
 
 Everything in this file must already be in the chapter. It is a hand-off, not new research.
 
-## Pacing (Jon's standing rules)
-
-Update the checkpoint after each era before anything else. Check the 5-hour window about a quarter,
-half and three-quarters of the way through, by feel: ToolSearch
-`select:mcp__ccd_session_mgmt__get_usage`, read only its `plan` part. Above 95%: finish the era in
-hand, update the checkpoint, report that you are not done, and stop. The director resumes you after
-the reset. At the weekly limit: report and halt. No routine context checks.
-
 ## Report (under 300 words, no prose pasted)
 
 The spine sentence and the three questions. Per era: what furniture was added, how many paragraphs
