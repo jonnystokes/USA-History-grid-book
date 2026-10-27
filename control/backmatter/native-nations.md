@@ -1,0 +1,207 @@
+# Back-matter hand-off: native-nations (Chapter 2, Native Nations)
+
+## Glossary
+
+- archaeologists: the scientists who dig up and study old camps and tools (Before 1500)
+- confederacy: a group of nations that keep their own governments but act together on matters they share (Before 1500)
+- democracy: a government in which the people have a say (Before 1500)
+- obsidian: a black volcanic glass that chips to a sharp edge (Before 1500)
+- pueblo: the Spanish word for town (Before 1500)
+- tribute: regular payments in goods (Before 1500)
+- wampum belt: shell beads woven into patterns in which each pattern stands for the terms of an agreement (Before 1500)
+- watercourts: Calusa pens with walls of shell where live fish were kept (Before 1500)
+- baptized: made a member of the Christian church in a ceremony (The 1500s)
+- banished: ordered never to return (The 1500s)
+- chiefdom: a group of towns under a single ruler (The 1500s)
+- convent: a house of nuns, women who have promised their lives to the Catholic church (The 1500s)
+- ducats: Spanish gold coins (The 1500s)
+- entradas: the Spanish name for armed expeditions into the north (The 1500s)
+- formal inquiry: an official hearing to find out what had happened (The 1500s)
+- friars: Catholic religious brothers (The 1500s)
+- Jesuit mission: a group of priests from the Jesuit order of the Catholic church, with helpers, sent to turn people to Christianity (The 1500s)
+- mesa: a hill with a flat top and steep sides (The 1500s)
+- Mississippians: the town-building peoples of the Mississippi Valley and the Southeast in these centuries (The 1500s)
+- pardon: an official forgiving of a crime (The 1500s)
+- rape: forcing a person into sex (The 1500s)
+- refugees: people who had fled their own towns (The 1500s)
+- vassal: a person bound to obey a ruler (The 1500s)
+- viceroy: the man who governed a Spanish colony for the king (The 1500s)
+- yardarm: a crossbeam on a ship's mast (The 1500s)
+- besieged: surrounded a town or fort and cut it off (The 1600s)
+- coalition: a group that agrees to act together (The 1600s)
+- covenant: a serious promise (The 1600s)
+- diplomats: the people who spoke for their nations with other nations (The 1600s)
+- famine: a long shortage of food (The 1600s)
+- fur trade: the trade in animal furs with Europeans (The 1600s)
+- oral histories: accounts passed down by telling (The 1600s)
+- paramount chief (mamanatowick): a chief whom other chiefs answer to (The 1600s)
+- praying towns: villages of Native people who had become Christians (The 1600s)
+- radiocarbon dating: measuring a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is (The 1600s)
+- sachem: the leader of a nation (The 1600s)
+- sorcery: using magic to do harm (The 1600s)
+- torture: hurting a person on purpose to force them to talk (The 1600s)
+- treaty: a formal written agreement between nations (The 1600s)
+- weroance: the leader of a tribe in Tsenacommacah (The 1600s)
+- delegates: people sent to speak for their nations (1700 to 1750)
+- diplomacy: the work of dealing with other nations through talks and agreements (1700 to 1750)
+- minutes: the written record of what was said at a meeting (1700 to 1750)
+- neutral: fighting for neither side (1700 to 1750)
+- raid: a quick attack to seize goods, horses or people (1700 to 1750)
+- treaty council: a meeting where Native leaders and colonial officials bargained and made agreements (1700 to 1750)
+- casualties: the killed and wounded together (1750 to 1800)
+- legion: an army unit, here of 3,300 men (1750 to 1800)
+- proclamation: an official public announcement of an order (1750 to 1800)
+- ratified: formally approved (1750 to 1800)
+- scalped: cut away the skin and hair from the top of the head (1750 to 1800)
+- smallpox: a disease that spreads from person to person and can kill (1750 to 1800)
+- sovereignty: the right of a nation to govern itself (1750 to 1800)
+- workhouse: a building where poor people were made to work (1750 to 1800)
+- abolished: ended by law (1800 to 1850)
+- constitution: a written plan for a government and its basic laws (1800 to 1850)
+- federal officials: officials of the national government (1800 to 1850)
+- flag of truce: a white flag, a sign that both sides promise not to attack or seize anyone while they talk (1800 to 1850)
+- hard labor: forced hard work (1800 to 1850)
+- militia: citizen soldiers (1800 to 1850)
+- recognized (federally): accepted by federal officials as a nation with its own government (1800 to 1850)
+- stockade: a pen fenced with upright logs (1800 to 1850)
+- syllabary: a set of written characters in which each character stands for a whole syllable, not a single sound (1800 to 1850)
+- allotment: cutting land that a whole nation owned together into private pieces (1850 to 1900)
+- autobiography: a book a person writes about their own life (1850 to 1900)
+- band: a group of families who lived and traveled together (1850 to 1900)
+- bayonet: a blade fixed to the end of a rifle (1850 to 1900)
+- carbines: short rifles (1850 to 1900)
+- cavalry: soldiers on horseback (1850 to 1900)
+- Commissioner of Indian Affairs: the federal official in charge of Native affairs (1850 to 1900)
+- copyright: the legal right to control who copies and sells a piece of writing (1850 to 1900)
+- dastardly: an old word for cowardly and cruel (1850 to 1900)
+- Hotchkiss guns: small cannon (1850 to 1900)
+- Indian agents: the federal officials in charge of the reservations (1850 to 1900)
+- Indian police: Native men who worked as police for the agency that ran the reservation (1850 to 1900)
+- leg irons: chains locked around the ankles (1850 to 1900)
+- mass execution: the most people put to death at one time (1850 to 1900)
+- Medal of Honor: the top award the United States military gives for bravery in battle (1850 to 1900)
+- military commission: a court run by the army (1850 to 1900)
+- prisoners of war: people an army holds after capturing them in a war (1850 to 1900)
+- rations, clothing and annuities: the food, goods and yearly payments promised to a nation in its treaties (1850 to 1900)
+- reprieved: had an execution called off (1850 to 1900)
+- reservation: a piece of land set aside for a nation in a treaty or by an order (1850 to 1900)
+- rider: a short passage attached to a spending bill (1850 to 1900)
+- solitary confinement: locking a child away alone (1850 to 1900)
+- surplus: extra, the name officials gave to land left over after allotment (1850 to 1900)
+- uprising: an armed revolt (1850 to 1900)
+- civil rights: the rights every citizen has to equal treatment under the law (1900 to 1950)
+- classified: officially secret (1900 to 1950)
+- code talkers: Native soldiers who sent military messages in their own languages, which the enemy could not understand (1900 to 1950)
+- coroner: the official who decides how a person died (1900 to 1950)
+- decathlon: a contest of ten track and field events (1900 to 1950)
+- exposure: dying from cold or other harsh weather without shelter (1900 to 1950)
+- guardian: a person given legal control of someone else's money (1900 to 1950)
+- headright: an equal share of the Osage nation's oil money (1900 to 1950)
+- land held in trust: land the United States holds on behalf of a Native nation or person (1900 to 1950)
+- memoir: a book about the writer's own life (1900 to 1950)
+- paratrooper: a soldier trained to jump from planes by parachute (1900 to 1950)
+- parole: being freed early under watch (1900 to 1950)
+- pentathlon: a contest of five track and field events (1900 to 1950)
+- riveting gang: a crew that joined steel beams together with hot metal pins called rivets (1900 to 1950)
+- royalties: payments for the oil companies took out (1900 to 1950)
+- structural iron: the metal frames that hold up bridges and tall buildings (1900 to 1950)
+- war bonds: loans people made to the government to pay for the war (1900 to 1950)
+- coercive assimilation: forcing a group of people to give up their own language and ways of life (1950 to 2000)
+- compact: a formal agreement between a nation and a state about gaming (1950 to 2000)
+- compensation: money paid to make up for a loss (1950 to 2000)
+- co-managers of the fishery: tribal governments and the state running the salmon catch and its waters together (1950 to 2000)
+- fish-in: people fishing in the open in front of state officers and letting themselves be arrested, to force the treaties into a courtroom (1950 to 2000)
+- gaming: gambling businesses such as casinos (1950 to 2000)
+- hysterectomy: an operation in which a surgeon cuts out the womb (1950 to 2000)
+- recognition: United States officials dealing with a nation as a government (1950 to 2000)
+- relocation: the federal program that moved Native people off reservations and into cities (1950 to 2000)
+- repatriation: sending human remains and sacred objects home to the nations and families they came from (1950 to 2000)
+- self-determination: a nation deciding its own affairs (1950 to 2000)
+- sniper: a hidden marksman (1950 to 2000)
+- sterilization: an operation after which a woman can never become pregnant (1950 to 2000)
+- subcommittee: a small group of senators assigned to one subject (1950 to 2000)
+- termination: members of Congress and federal officials no longer treating a tribe as a nation with its own government, and the tribe losing its federal services (1950 to 2000)
+- tubal ligation: an operation in which a surgeon cuts or ties the two tubes that carry eggs to the womb (1950 to 2000)
+- cabinet office: the job of heading one of the main federal departments (2000 to Today)
+- easement: the legal permission the pipeline needed to cross under the lake (2000 to Today)
+- enrolled citizens: people officially listed as members of a nation (2000 to Today)
+- immersion school: a school where teachers give every lesson in the language itself (2000 to Today)
+- Indigenous: belonging to the people who lived in a place first (2000 to Today)
+- linguistics: the study of how languages work (2000 to Today)
+- opinion: the written decision of a court (2000 to Today)
+- reclamation: taking something back (2000 to Today)
+- wildlife refuge: land set aside to protect wild animals (2000 to Today)
+
+## People
+
+- Paquiquineo (Don Luís): Chesapeake man who met the king of Spain, came home with a Spanish mission in 1570 and led an attack on it (The 1500s)
+- Metacom (King Philip): Wampanoag sachem who led the coalition war of 1675 and 1676 against the New England colonies (The 1600s)
+- Po'pay (Popé): Tewa religious leader who organized the Pueblo rising of 1680 (The 1600s)
+- Canasatego: Onondaga speaker who told the colonies to unite at Lancaster in 1744 (1700 to 1750)
+- Little Turtle (Mishikinaakwa): Miami war leader who helped destroy St. Clair's army in 1791 and signed the Treaty of Greenville (1750 to 1800)
+- Tecumseh: Shawnee leader who argued that no single nation could sell land that belonged to all of them (1800 to 1850)
+- Sequoyah: Cherokee silversmith who could not read any language and made a way to write Cherokee (1800 to 1850)
+- Rebecca Neugin: Cherokee woman taken west on the Trail of Tears at about three, interviewed in 1932 (1800 to 1850)
+- Osceola: Seminole war leader seized under a flag of truce in 1837 (1800 to 1850)
+- Sitting Bull: Hunkpapa Lakota leader and holy man killed by Indian police at Standing Rock in 1890 (1850 to 1900)
+- Chief Joseph: Nez Perce leader in the flight of 1877 who surrendered forty miles from Canada (1850 to 1900)
+- Sarah Winnemucca: Northern Paiute interpreter, lecturer and writer of the first known autobiography by a Native American woman (1850 to 1900)
+- Zitkala-Ša: Yankton Dakota writer taken to a boarding school as a child, who later wrote against the schools (1850 to 1900)
+- Jim Thorpe: Sac and Fox athlete and Carlisle student, the first Native American to win an Olympic gold medal (1900 to 1950)
+- Ira Hayes: Akimel O'odham Marine who helped raise the second flag on Iwo Jima (1900 to 1950)
+- Chester Nez: Navajo Marine, one of the twenty-nine who built the Navajo code (1900 to 1950)
+- Wilma Mankiller: the first woman elected Principal Chief of the Cherokee Nation (1950 to 2000)
+- Billy Frank Jr.: Nisqually fisherman arrested more than fifty times, a leader of the fish-ins (1950 to 2000)
+- Adam Fortunate Eagle: Ojibwe writer, Pipestone boarding-school student and a lead organizer of the Alcatraz occupation (1950 to 2000)
+- Deb Haaland: Laguna Pueblo, one of the first two Native American women in Congress and the first Native American cabinet secretary (2000 to Today)
+- Jessie Little Doe Baird: Mashpee Wampanoag linguist who brought the Wôpanâak language back into use (2000 to Today)
+
+## Dates
+
+- August 10, 1680: Pueblo fighters rise and drive the Spanish out of New Mexico
+- 1838: Soldiers force the Cherokee west on the Trail of Tears
+- 1887: Allotment begins under the Dawes Act
+- February 12, 1974: Judge George Boldt upholds the Northwest fishing treaties
+- July 9, 2020: Five Supreme Court justices rule in McGirt v. Oklahoma that the Muscogee (Creek) reservation never ended
+- January 1599: Spanish soldiers attack Acoma Pueblo
+- May 26, 1637: An English-led force burns the Pequot town at Mystic
+- September 17, 1778: United States officials sign their first treaty with a Native nation, the Lenape
+- November 4, 1791: The Northwest Confederacy destroys St. Clair's army
+- May 28, 1830: President Jackson signs the Indian Removal Act
+- November 29, 1864: Chivington's soldiers kill about 230 Cheyenne and Arapaho people at Sand Creek
+- June 25, 1876: Lakota, Cheyenne and Arapaho fighters defeat Custer at the Little Bighorn
+- November 1, 1879: The Carlisle Indian Industrial School opens
+- December 29, 1890: Soldiers of the 7th Cavalry kill between 250 and 300 Lakota people at Wounded Knee
+- June 2, 1924: Every Native person born in the United States becomes a citizen under the Indian Citizenship Act
+
+## Places
+
+- National Museum of the American Indian, Washington, D.C.: the national museum of Native peoples on the National Mall, opened in 2004
+- Sand Creek Massacre National Historic Site, Colorado: the place of the 1864 massacre, looked after by National Park Service staff
+- National Statuary Hall collection, United States Capitol, Washington, D.C.: the statue of Po'pay
+- National Archives, Washington, D.C.: all 374 ratified treaties between the United States and Native nations, every one online
+- Deer Island, Boston Harbor, Massachusetts: the island prison of 1675 and 1676, where descendants hold a gathering every year
+- Acoma Pueblo, New Mexico: the Acoma town on its mesa
+- Chaco Canyon, New Mexico: the stone great houses of the Ancestral Puebloans
+- Mound Key, Florida: the shell mounds of Calos, the Calusa capital
+- Carlisle Barracks, Carlisle, Pennsylvania: the cemetery of children who died at the Carlisle Indian Industrial School
+- National Bison Range, Montana: the range given back to the Confederated Salish and Kootenai Tribes in 2020
+- Wounded Knee, Pine Ridge Reservation, South Dakota: the site of the 1890 massacre and the 1973 occupation
+- Mount Rushmore (Tunkasila Sakpe, the Six Grandfathers), Black Hills, South Dakota: the mountain the Lakota call the Six Grandfathers
+
+## Movies
+
+- We Shall Remain: Tecumseh's Vision (2009): no note
+- Sitting Bull: A Stone in My Heart (2006): no note
+- I Will Fight No More Forever (1975): no note
+- Jim Thorpe – All-American (1951): no note
+- The Outsider (1961): no note
+- Flags of Our Fathers (2006): no note
+- Mankiller (2017): no note
+- We Still Live Here: Âs Nutayuneân (2011): no note
+
+## Questions
+
+- Q: How did Native nations govern themselves and deal with other nations before the United States existed? A: They ran their own councils and laws, as the Haudenosaunee did under the Great Law of Peace. Their leaders made alliances and treaties and recorded them on wampum belts.
+- Q: What did United States officials and soldiers do to take the nations' land and break the nations up? A: Soldiers forced whole nations west and onto reservations, and killed hundreds of people at a time at Sand Creek, Wounded Knee and other places. Officials cut the nations' land from about 138 million acres to 48 million and took children to boarding schools, where at least 973 died.
+- Q: How did Native nations hold on to their governments, their languages and some of their land? A: They went to court, from Worcester v. Georgia in 1832 to McGirt v. Oklahoma in 2020. They organized until members of Congress restored the Menominee, and they kept their languages, first in secret and now in schools of their own.
