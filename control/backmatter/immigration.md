@@ -1,0 +1,278 @@
+## Glossary
+
+- land bridge: a stretch of dry ground that joined Asia to North America during the ice age (Before 1500)
+- missionaries: people sent to bring others into their religion (The 1500s)
+- feast day: a day the church sets aside to honor a saint (The 1500s)
+- Huguenots: French Protestants (The 1500s)
+- Protestants: members of the Christian churches that split away from the Catholic Church led by the pope in Rome (The 1500s)
+- colony: a settlement ruled from a faraway country (The 1500s)
+- Spanish Armada: a fleet of Spanish warships (The 1500s)
+- council house: the building where a town's leaders met (The 1500s)
+- Powhatan: a union of Native towns and peoples under one head chief (The 1600s)
+- Chesapeake: the country around the Chesapeake Bay, in Virginia and Maryland (The 1600s)
+- indentured servant: a person who signed a contract and gave up four to seven years of work in exchange for the trip across the ocean (The 1600s)
+- indenture: the contract an indentured servant signed (The 1600s)
+- freedom dues: a payment promised at the end of an indenture (The 1600s)
+- privateer: a privately owned armed ship whose crew attacked the ships of enemy countries (The 1600s)
+- Imbangala: African fighters paid to fight for others (The 1600s)
+- buy out an indenture: pay to free a servant from the rest of his years of work (The 1600s)
+- loblollie: a thick porridge (The 1600s)
+- Separatists: English Pilgrims who wanted to worship apart from the Church of England (The 1600s)
+- Church of England: the official church of England (The 1600s)
+- flagship: the ship that carried a fleet's leader (The 1600s)
+- Puritans: English Protestants who disagreed with how the Church of England was run (The 1600s)
+- Archbishop of Canterbury: the head of the Church of England (The 1600s)
+- ministers: the men who led church services (The 1600s)
+- branding: burning the skin with a hot iron to leave a mark that never goes away (The 1600s)
+- Great Migration: the coming of about 20,000 Puritans to New England in the 1630s (The 1600s)
+- West Indies: the islands of the Caribbean Sea (The 1600s)
+- banished: ordered to leave and never come back (The 1600s)
+- jurisdiction: the land a court ruled (The 1600s)
+- wherefore: why (The 1600s)
+- Lenapehoking: the homeland of the Lenape people (The 1600s)
+- refugees: people fleeing danger at home (The 1600s)
+- Dutch West India Company: the trading company that ran New Netherland and gave its governor his orders (The 1600s)
+- Quakers: members of a Protestant group also called the Society of Friends (The 1600s)
+- Edict of Nantes: a French law of 1598 under which French Protestants could worship in the towns they held (The 1600s)
+- Palatines: people from the Palatinate, a region along the Rhine River (1700 to 1750)
+- Pennsylvania Dutch: German settlers of Pennsylvania, from Deutsch, the German word for German (1700 to 1750)
+- Presbyterians: members of a Protestant church (1700 to 1750)
+- Test Act: a 1704 Irish law under which only people who took communion in the Church of Ireland could hold a public job (1700 to 1750)
+- communion: a church ceremony of bread and wine (1700 to 1750)
+- Appalachian backcountry: the land in and near the Appalachian Mountains, far from the coast (1700 to 1750)
+- bound workers: workers who could not leave their work for years or for life (1700 to 1750)
+- apprentice: a young worker who learns a trade from a master (1700 to 1750)
+- seditious libel: the crime of printing words that blame a public official or the government (1700 to 1750)
+- bail: money paid to a court so that a person can leave jail until the trial (1700 to 1750)
+- Sephardic Jews: Jews whose families had come from Spain and Portugal (1700 to 1750)
+- convicts: people found guilty of crimes (1700 to 1750)
+- treasury: the office that handled the government's money (1700 to 1750)
+- bound laborers: workers who had to work for a buyer for a set number of years (1700 to 1750)
+- emigrate: leave your own country to live in another (1700 to 1750)
+- Lowcountry: the low coastal land of South Carolina (1700 to 1750)
+- quarantine station: a place where new arrivals were kept apart so that any disease they carried would not spread (1700 to 1750)
+- pest houses: buildings where people who might carry disease were held and checked (1700 to 1750)
+- citizen: a full legal member of a country (1750 to 1800)
+- clerk: a worker who keeps written records for a business (1750 to 1800)
+- orphan: a child whose parents have both died (1750 to 1800)
+- Loyalists: colonists who sided with the British king against the Revolution (1750 to 1800)
+- naturalization: the legal process by which a person born in another country becomes a citizen (1750 to 1800)
+- yellow fever: a deadly disease spread by mosquitoes (1750 to 1800)
+- crypt: a burial room beneath a church (1750 to 1800)
+- Venerable: a title the pope gives to a person whom church leaders are studying as a possible saint (1750 to 1800)
+- free people of color: people of African or mixed descent who were not enslaved (1750 to 1800)
+- famine: a time when food runs so short that many people die of hunger (1800 to 1850)
+- importation: bringing people or goods in from abroad (1800 to 1850)
+- democratic government: government in which the people choose their leaders (1800 to 1850)
+- Prussia: a kingdom in what is now Germany (1800 to 1850)
+- Forty-Eighters: German revolutionaries of 1848 who came to the United States (1800 to 1850)
+- professionals: people trained for skilled work such as law or medicine (1800 to 1850)
+- boardinghouse: a house where people paid to sleep and eat (1800 to 1850)
+- capitol: the building where a state's lawmakers meet (1800 to 1850)
+- convent school: a school that nuns ran in their own home (1800 to 1850)
+- convicted: found guilty (1800 to 1850)
+- alibi: proof that a person was somewhere else when a crime happened (1800 to 1850)
+- pardon: forgive a crime and end the punishment (1800 to 1850)
+- nativists: people who wanted power kept for native-born Protestants (1800 to 1850)
+- seminary: a school that trains people for church work (1800 to 1850)
+- militia: a force of citizens called up to serve as soldiers (1800 to 1850)
+- grand jury: a group of citizens who decide whether there is enough evidence to put a person on trial (1800 to 1850)
+- potato blight: a plant disease, a water mold, that rotted Ireland's potatoes (1800 to 1850)
+- water mold: a tiny living thing that grows on a plant and makes it rot (1800 to 1850)
+- Great Famine: the Irish famine of 1845 to 1852 (1800 to 1850)
+- prime minister: the head of the British government (1800 to 1850)
+- famine relief: the food and work given to people who were starving (1800 to 1850)
+- perverse: stubbornly wrong (1800 to 1850)
+- turbulent: unruly (1800 to 1850)
+- Parliament: the lawmakers in London (1800 to 1850)
+- tenant families: families who rent the land they farm (1800 to 1850)
+- eviction: forcing tenant families off their land, often pulling their houses down (1800 to 1850)
+- coffin ships: what people called the crowded ships that carried the Irish in the famine years (1800 to 1850)
+- cooper: a person who makes barrels (1800 to 1850)
+- cholera: a disease people catch from dirty water or food, which causes heavy diarrhea and can kill within days (1800 to 1850)
+- nationality: the country a person comes from (1850 to 1900)
+- Know-Nothings: the American Party of the 1850s, against immigrants and Catholics, named for members' answer "I know nothing" (1850 to 1900)
+- Union army: the army of the United States government in the Civil War (1850 to 1900)
+- Secretary of the Interior: one of the heads of government departments who advise the president (1850 to 1900)
+- California Gold Rush: when crowds of people went to California to look for gold (1850 to 1900)
+- strike: stopping work together to press for better terms (1850 to 1900)
+- avalanche: a mass of snow sliding down a mountainside (1850 to 1900)
+- black powder: an early kind of gunpowder (1850 to 1900)
+- nitroglycerin: a liquid explosive that can go off from a jolt (1850 to 1900)
+- smallpox: a disease that passes from person to person and covers the body in sores (1850 to 1900)
+- contract laborer: a worker brought over already bound by a contract to work for someone (1850 to 1900)
+- prostitution: selling sex for money (1850 to 1900)
+- pretext: a false excuse (1850 to 1900)
+- Chinese Exclusion Act: the 1882 law that shut Chinese workers out (1850 to 1900)
+- ethnicity: the group, with its own language and ways, that someone belongs to (1850 to 1900)
+- manslaughter: the crime of killing someone without planning to (1850 to 1900)
+- territory: land the national government ran before it became a state (1850 to 1900)
+- gallows: a frame for hanging people (1850 to 1900)
+- city charter: a city's basic set of laws (1850 to 1900)
+- pogroms: violent riots in which a crowd attacks Jewish people and their homes, shops and synagogues (1850 to 1900)
+- synagogues: the buildings where Jews worship (1850 to 1900)
+- peasants: poor farm workers (1850 to 1900)
+- rape: forcing a person into sex (1850 to 1900)
+- Pale of Settlement: the region of the Russian Empire where Jews were allowed to live (1850 to 1900)
+- pedestal: the stone base a statue stands on (1850 to 1900)
+- refuge: a safe place (1850 to 1900)
+- depot for immigrants: a building where officials received newcomers, checked them and recorded them (1850 to 1900)
+- genealogist: a person who traces family histories through old records (1850 to 1900)
+- tenement: a crowded apartment building (1850 to 1900)
+- justices: the judges of the Supreme Court (1850 to 1900)
+- writ of habeas corpus: a court order that the people holding someone bring that person before a judge and give a lawful reason for holding them (1850 to 1900)
+- Fourteenth Amendment: an addition to the Constitution (1850 to 1900)
+- quota laws: laws that fixed how many people could come from each country (1900 to 1950)
+- melting pot: a pot in which different metals melt together, used to mean newcomers blending into one nation (1900 to 1950)
+- steerage: the cheapest space on a ship, below the decks (1900 to 1950)
+- underage: younger than an adult (1900 to 1950)
+- bachelor: a man who has never married (1900 to 1950)
+- detainees: people being held (1900 to 1950)
+- dormitory: a large room full of beds (1900 to 1950)
+- trachoma: an eye infection that can cause blindness (1900 to 1950)
+- stool: bowel movements (1900 to 1950)
+- genitals: the private parts of the body (1900 to 1950)
+- paper sons and paper daughters: Chinese arrivals who claimed a family tie that existed only on paper (1900 to 1950)
+- stenographer: a clerk who wrote down every word (1900 to 1950)
+- deport: force a person to leave the country (1900 to 1950)
+- war bride: a woman engaged or married to a man who served in the war (1900 to 1950)
+- census: the official count of everyone living in the country (1900 to 1950)
+- ineligible for citizenship: unable to become a citizen under US law (1900 to 1950)
+- homogeneity: sameness (1900 to 1950)
+- eugenics: a false belief that a nation could improve its people by controlling who had children and who came into the country (1900 to 1950)
+- testify: speak under oath at a hearing (1900 to 1950)
+- feeblemindedness, insanity, criminality, dependency: old words for low intelligence, mental illness, crime and needing public charity (1900 to 1950)
+- model law: a sample law for lawmakers to copy (1900 to 1950)
+- sterilization: an operation after which a person can never have a baby. For a woman a doctor cut or tied the tubes that carry eggs to the womb, or cut out a piece of each, and for a man a doctor cut the tubes that carry sperm. It could not be undone (1900 to 1950)
+- honorary degree: a degree given as an honor instead of for study (1900 to 1950)
+- Mexican Repatriation: the pushing of people of Mexican descent out of the United States from 1929 to 1936, from a word for sending people back to their own country (1900 to 1950)
+- Great Depression: the years when many people in the United States had no work (1900 to 1950)
+- relief: public money for people without work (1900 to 1950)
+- welfare officers: the officials who handed out relief money (1900 to 1950)
+- plaque: a metal sign with words on it (1900 to 1950)
+- federal government: the national government in Washington (1900 to 1950)
+- bracero: a Spanish word for a man who works with his arms, from brazo, arm (1900 to 1950)
+- Kristallnacht: the Night of Broken Glass, November 9 and 10, 1938, when Nazi leaders set off attacks on Jews across Germany (1900 to 1950)
+- concentration camps: prison camps for people the Nazis targeted (1900 to 1950)
+- Holocaust: the Nazis' murder of Jews and other people during World War II (1900 to 1950)
+- displaced persons: Europeans who had lost their homes in World War II (1900 to 1950)
+- Rio Grande: the river along the border between Texas and Mexico (1950 to 2000)
+- Attorney General: the head of the US Justice Department (1950 to 2000)
+- Immigration and Naturalization Service (INS): the federal office in charge of immigration (1950 to 2000)
+- commissioner: the head of the INS (1950 to 2000)
+- Border Patrol: the federal agents who guard the border (1950 to 2000)
+- mutiny: when the people on a ship rise up against the crew (1950 to 2000)
+- braceros: Mexican farm workers hired under contract (1950 to 2000)
+- sunstroke: an illness in which the body gets so hot that it can no longer cool itself (1950 to 2000)
+- national-origins quotas: the rules that limited immigration country by country from the 1920s to 1965 (1950 to 2000)
+- Western Hemisphere: the half of the world that includes North and South America (1950 to 2000)
+- refugee (Refugee Act of 1980): a person outside their own country who cannot go back because of a real fear of being harmed for their race, religion, nationality, group or political beliefs (1950 to 2000)
+- gay: loving people of the same sex (1950 to 2000)
+- persecuted: punished again and again for who a person is and what he says or writes (1950 to 2000)
+- ideological deviation: holding ideas that Cuba's rulers banned (1950 to 2000)
+- extravagant: here, living too freely (1950 to 2000)
+- State Security: the political police of Fidel Castro's government (1950 to 2000)
+- AIDS: a disease caused by a virus that destroys the body's defenses against other illnesses (1950 to 2000)
+- Hmong: an ethnic group from the mountains of Laos (1950 to 2000)
+- boat people: Vietnamese who escaped in small boats (1950 to 2000)
+- Orderly Departure Program: a legal way to leave Vietnam without the boat trip (1950 to 2000)
+- cannibalism: eating human flesh (1950 to 2000)
+- letter of reprimand: a written scolding (1950 to 2000)
+- communist country: a country where the government owned the businesses and only one party was allowed (1950 to 2000)
+- employer sanctions: punishments for employers who knowingly hire workers without legal permission (1950 to 2000)
+- foreign-born: born in another country (2000 to Today)
+- DACA: Deferred Action for Childhood Arrivals, under which some people brought to the country as children can apply to have their removal put off and to work legally (2000 to Today)
+- deferred: put off (2000 to Today)
+- Government Accountability Office: the office that checks federal agencies for Congress (2000 to Today)
+- medical examiners: the doctors who find out why a person died (2000 to Today)
+- custody: being held by officers (2000 to Today)
+- coroners: the officials who look into deaths (2000 to Today)
+- Darién: a jungle between Colombia and Panama (2000 to Today)
+- apprehended: caught (2000 to Today)
+- minors: children (2000 to Today)
+- inspector general: an official who checks the work of a government department (2000 to Today)
+- settlement: an agreement that ends a lawsuit (2000 to Today)
+- Rotunda: the round central hall of the US Capitol (2000 to Today)
+- detention: holding people in custody while officials decide whether to deport them (2000 to Today)
+- apparent suicides: deaths in which people appeared to have killed themselves (2000 to Today)
+- homicide: on a death record, a death that another person caused, which is not a finding that anyone broke the law (2000 to Today)
+- torso: the middle of the body (2000 to Today)
+- removal: the government's word for deportation (2000 to Today)
+- self-deportation: leaving the country on one's own, without being deported by officers (2000 to Today)
+- stateless: counted by no country as its citizen (2000 to Today)
+- NBA draft: the yearly event in which basketball teams choose new players (2000 to Today)
+- Dinka: an ethnic group of southern Sudan (2000 to Today)
+- civil war: a war inside one country (2000 to Today)
+- militias: armed groups outside the regular army (2000 to Today)
+
+## People
+
+- Richard Frethorne: English indentured servant whose letters home from Virginia survive (The 1600s)
+- Anne Hutchinson: English woman who followed her minister to Boston and was banished by the Massachusetts court (The 1600s)
+- John Peter Zenger: Palatine boy who became a New York printer, jailed and found not guilty of seditious libel (1700 to 1750)
+- Alexander Hamilton: orphaned Caribbean clerk sent to school in New York after his letter about a hurricane (1750 to 1800)
+- Pierre Toussaint: man brought enslaved from Saint-Domingue who became a leading New York hairdresser and was freed in 1807 (1750 to 1800)
+- Jette Bruns: German settler in Missouri who wrote letters home to her brother for more than fifty years (1800 to 1850)
+- Patrick Kennedy and Bridget Murphy: famine-era couple from County Wexford who married in Boston, great-grandparents of John F. Kennedy (1800 to 1850)
+- Carl Schurz: German Forty-Eighter who became a Union general, the first German-born senator and Secretary of the Interior (1850 to 1900)
+- Annie Moore: Irish girl of 17, the first immigrant processed at Ellis Island (1850 to 1900)
+- Irving Berlin: Jewish boy from the Russian Empire who came through Ellis Island and wrote "God Bless America" (1850 to 1900)
+- Wong Kim Ark: San Francisco-born cook whose Supreme Court case made everyone born in the United States a citizen (1850 to 1900)
+- Frank Capra: Sicilian boy who came through Ellis Island and won three Academy Awards as a director (1900 to 1950)
+- Doukenie Bacos: Greek girl held three days at Ellis Island at 16 (1900 to 1950)
+- Lee Puey You: Chinese "paper daughter" held about 20 months on Angel Island and deported (1900 to 1950)
+- Antonio García: Mexican farmworker who joined the Bracero Program at seventeen (1950 to 2000)
+- Reinaldo Arenas: Cuban novelist jailed for his writing and for being gay, who left in the Mariel boatlift (1950 to 2000)
+- Tung Trinh: survivor of a Vietnamese refugee boat that drifted 37 days in 1988 (1950 to 2000)
+- Sergey Brin: Jewish boy from Moscow who came at six and started Google (1950 to 2000)
+- Giannis Antetokounmpo: basketball player born stateless in Greece to Nigerian parents, who came to play for the Milwaukee Bucks (2000 to Today)
+- Peter Dut and Santino Chuor: two Dinka "Lost Boys of Sudan" resettled in the United States (2000 to Today)
+
+## Dates
+
+- September 8, 1565: Menéndez founds St. Augustine, the oldest European town on the US mainland
+- 1790: Members of Congress limit citizenship to free white people
+- May 6, 1882: President Arthur signs the Chinese Exclusion Act
+- May 26, 1924: President Coolidge signs the quota law
+- 1965: lawmakers end the national-origins quotas
+- August 1619: the White Lion brings more than twenty Africans to Point Comfort, Virginia
+- 1654: twenty-three Jewish refugees land at New Amsterdam
+- January 1, 1808: the national ban on bringing enslaved people in from abroad begins
+- 1845: potato blight begins the Irish famine
+- August 6, 1855: Bloody Monday, Know-Nothing mobs attack immigrants in Louisville
+- September 2, 1885: white miners attack Chinese miners at Rock Springs, Wyoming Territory
+- January 1, 1892: Ellis Island opens, and Annie Moore is the first immigrant processed
+- March 28, 1898: the Supreme Court rules in Wong Kim Ark's case that everyone born in the United States is a citizen
+- June 9, 1954: Joseph Swing announces the mass deportation of Mexicans
+- April 6, 2018: Jeff Sessions announces the "zero tolerance" policy that led to children being taken from their parents
+
+## Places
+
+- Ellis Island, New York, New York: the immigration station where about 12 million immigrants came through from 1892 to 1954, and a statue of Annie Moore
+- Statue of Liberty, New York Harbor, New York: the statue, with Emma Lazarus's poem mounted on a bronze plaque inside its base in 1903
+- Castle Clinton, Battery Park, New York, New York: the site of Castle Garden, the first official immigrant depot, 1855 to 1890
+- St. Patrick's Cathedral, New York, New York: the crypt where Pierre Toussaint's remains lie
+- Angel Island Immigration Station, San Francisco Bay, California: the barracks whose walls carry poems carved by Chinese detainees
+- St. Augustine, Florida: the oldest town Europeans founded on the US mainland
+- L'Anse aux Meadows, Newfoundland, Canada: the Norse camp with wood cut in 1021
+- Africatown, near Mobile, Alabama: the town survivors of the Clotilda built
+- Hells Canyon, Snake River, Oregon: the 2012 stone marker, in English, Chinese and Nez Perce, where as many as 34 Chinese miners were killed
+- LA Plaza, Los Angeles, California: the 2012 plaque apologizing for the Mexican Repatriation
+- Sullivan's Island, Charleston, South Carolina: the harbor island where enslaved Africans were held in pest houses
+- Cobh, Ireland: a statue of Annie Moore
+- Bracero History Archive (online): more than 700 recorded interviews with braceros, including Antonio García's
+
+## Movies
+
+- Hamilton (2020): the filmed Broadway stage musical, a dramatization, not a documentary
+- Frank Capra's American Dream (1997): a documentary made for television
+- Before Night Falls (2000): a drama based on Reinaldo Arenas's life story
+- Bolinao 52 (2008): a documentary
+- Rise (2022): a Disney+ drama about the Antetokounmpo family, made with the family, a dramatization, not a documentary
+- Lost Boys of Sudan (2003): a documentary that records the lives of Peter Dut and Santino Chuor
+
+## Questions
+
+- Q: Why did people leave home to come here? A: Many came for land and work, like the Germans who farmed the Midwest and the Chinese who built the western railroad, or to worship in their own way, like the Puritans. Many more ran from danger: the Irish famine, the pogroms against Jews in the Russian Empire, the Nazis, and wars in Vietnam and Sudan.
+- Q: Who did Americans try to keep out, and how? A: Lawmakers shut out Chinese workers in 1882 and almost everyone from Asia in 1924, and they cut the number of southern and eastern Europeans with quotas. Mobs burned Catholic churches in Philadelphia and drove Chinese people out of Eureka and Tacoma. Officials pushed hundreds of thousands of people of Mexican descent, many of them citizens, across the border in the 1930s and again in 1954.
+- Q: Who could become a citizen, and how did that change? A: In 1790 only "a free white person" could become a citizen. In 1898 the Supreme Court ruled in Wong Kim Ark's case that anyone born here is a citizen, and in 1952 members of Congress removed the limit to white people.
