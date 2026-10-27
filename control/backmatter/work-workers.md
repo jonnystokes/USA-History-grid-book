@@ -1,0 +1,213 @@
+## Glossary
+
+- Eastern Woodlands: the forests of eastern North America (Before 1500)
+- maple sugaring: boiling down the sap of maple trees to make sugar (Before 1500)
+- encomienda: a system set up by the king of Spain under which Spanish settlers could force Native people to work for them and hand over tribute (The 1500s)
+- tribute: payments of goods or work that rulers force people to give (The 1500s)
+- repartimiento: a second Spanish system under which officials sent Native workers in groups, by turns, to work on Spanish projects, and were supposed to pay them (The 1500s)
+- forced labor: work people could not refuse and could not leave (The 1500s)
+- rape: forcing a person into sex (The 1500s)
+- Acoma Pueblo: the Acoma people's town, with their fields around it (The 1500s)
+- indentured servant: a person bound by a written contract, called an indenture, to work for a master for a set number of years (The 1600s)
+- seasoning: the name for the sickness that killed more than half of the newcomers in their first summer (The 1600s)
+- freedom dues: goods a master owed a servant at the end of the term, to start a free life with (The 1600s)
+- bushel: a measure of about eight gallons (The 1600s)
+- shilling: an English coin (The 1600s)
+- musket: a long gun (The 1600s)
+- apprentice: a child or teenager who worked for a master to learn a trade such as printing or shoemaking (The 1600s)
+- brewing: the making of beer (The 1600s)
+- Tsenacomoco: the land of the Powhatan chiefdom (The 1600s)
+- chiefdom: a union of many Native nations under one high chief (The 1600s)
+- muster list: a count of the living and the dead at each settlement (The 1600s)
+- loblollie: a thin porridge boiled in water (The 1600s)
+- General Court: the governor of Virginia and his council, sitting together as the colony's highest court (The 1600s)
+- planter: the owner of a plantation (The 1600s)
+- branding: pressing a red-hot iron into the skin. The burn left the letter on the cheek as a scar for life (The 1600s)
+- shackles: iron rings locked around the legs (The 1600s)
+- journeyman: the middle rank of a trade, a skilled worker paid wages by the day (1700 to 1750)
+- hired out: rented by an owner to another employer, who paid wages that the owner kept (1700 to 1750)
+- impress: to seize men and force them to serve on a navy ship (1700 to 1750)
+- press gangs: the groups of men sent to seize sailors and dock workers for the navy (1700 to 1750)
+- commodore: a navy officer who commanded a group of ships (1700 to 1750)
+- strike: stopping work together until the employer meets the workers' demands (1750 to 1800)
+- trade union: a group of workers in one trade who join together to bargain, or make a deal, with their employers over pay and hours (1750 to 1800)
+- strike fund: a fund of money the strikers set up to support one another during a strike (1750 to 1800)
+- authenticated: proven by records (1750 to 1800)
+- cordwainers: shoemakers (1750 to 1800)
+- turn-out: the shoemakers' and mill workers' word for a strike (1750 to 1800)
+- standard wage: the same pay for the same work across a trade (1750 to 1800)
+- conspiracy: a secret plan by two or more people to break the law (1800 to 1850)
+- doffing: taking the full bobbins, the spools that held the spun thread, off a spinning machine and putting empty ones on (1800 to 1850)
+- grade: to level the ground for railroad tracks (1800 to 1850)
+- charcoal: wood burned slowly with little air until only a black fuel is left (1800 to 1850)
+- cord: a stack of cut wood of a set size (1800 to 1850)
+- collier: a man who made charcoal (1800 to 1850)
+- cut: a channel dug through high ground so railroad tracks can run level (1800 to 1850)
+- cholera: an infection of the gut, spread by water or food that carries traces of a sick person's waste. In bad cases it causes watery diarrhea and vomiting, and the body loses water so fast that a person can go into shock and die (1800 to 1850)
+- nativism: hatred of immigrants (1800 to 1850)
+- sachem: a chief (1800 to 1850)
+- coal heaver: a man who moved coal on and off boats (1800 to 1850)
+- general strike: workers in many different trades stopping work at the same time (1800 to 1850)
+- petition: a written request signed by many people (1800 to 1850)
+- militia: the part-time soldiers of each state (1850 to 1900)
+- sweatshop: a crowded workshop where people sewed clothing for long hours and low pay (1850 to 1900)
+- breaker: a tall wooden building over a coal mine where coal was broken up and sorted (1850 to 1900)
+- breaker boys: boys who sat on benches in the breakers and picked slate, a kind of rock, out of the coal (1850 to 1900)
+- utilities: the companies that supplied things like gas and water (1850 to 1900)
+- census: the count of everyone in the country that the United States government takes every ten years (1850 to 1900)
+- domestic servants: people paid to cook, clean and care for other families' homes (1850 to 1900)
+- loft: the open upper floor of a building (1850 to 1900)
+- tenement: a cheap apartment building packed with families (1850 to 1900)
+- switchboard: the board where an operator connected each telephone caller to the person being called (1850 to 1900)
+- anarchists: people who believe there should be no government (1850 to 1900)
+- pardon: an order that frees a person from the rest of their punishment for a crime (1850 to 1900)
+- craft union: a union of the skilled workers of one trade, such as cigar makers or carpenters (1850 to 1900)
+- coupling: joining the cars of a train (1850 to 1900)
+- patent: the right to be the only one to make and sell an invention for a set time (1850 to 1900)
+- air brake: a brake worked by air pressure (1850 to 1900)
+- company town: a town where one company owned the houses and its managers collected the rent (1850 to 1900)
+- industrial union: a union that takes in every kind of worker in an industry, instead of one craft at a time (1850 to 1900)
+- convention: a big meeting of delegates sent by a union's branches (1850 to 1900)
+- boycott: refusing to handle, buy or use something. In 1894 railroad workers refused to handle trains that carried Pullman cars (1850 to 1900)
+- injunction: a court order to stop doing something (1850 to 1900)
+- locomotive fireman: the worker who shoveled coal into the engine's fire (1850 to 1900)
+- contempt of court: disobeying a court's order (1850 to 1900)
+- Socialists: people who wanted the public, not private owners, to own the big industries (1850 to 1900)
+- deputize: to give men the power to act as officers of the law (1850 to 1900)
+- convict leasing: state officials renting out prisoners to mines, railroads and planters, who forced them to work (1850 to 1900)
+- Black Codes: laws Southern lawmakers passed from November 1865 to make Black people prove they had work (1850 to 1900)
+- mediator: a go-between who helps both sides reach a deal (1900 to 1950)
+- commission: a group of people chosen to look into something, such as a strike (1900 to 1950)
+- anemic: pale and weak because the blood is not carrying enough of what the body needs (1900 to 1950)
+- shirtwaist: a woman's blouse (1900 to 1950)
+- Yiddish: the language of many Jewish immigrants (1900 to 1950)
+- manslaughter: the crime of killing someone without meaning to, through a wrongful act or through carelessness (1900 to 1950)
+- New Deal: the set of programs President Franklin Roosevelt started in the 1930s (1900 to 1950)
+- Cabinet: the group of top advisers who run the government's departments (1900 to 1950)
+- Social Security: the government's program of payments to people who are old or cannot work (1900 to 1950)
+- overtime: extra hours of work. Later in the chapter, overtime pay is extra pay for hours past 40 in a week (1900 to 1950)
+- chassis: a car frame (1900 to 1950)
+- turnover: how often workers quit and must be replaced. At Ford in 1913 it meant hiring nearly four men a year for every job (1900 to 1950)
+- boarders: people who paid to live in a room of someone's home (1900 to 1950)
+- recognize a union: to accept it and bargain with it (1900 to 1950)
+- suffocate: to die because one cannot get air (1900 to 1950)
+- radiation: energy that damages the body from the inside (1900 to 1950)
+- settlement: a deal to pay people so that they end a lawsuit or their claims (1900 to 1950)
+- hearing officer: the official who runs a hearing (1900 to 1950)
+- appeal: asking for a new ruling (1900 to 1950)
+- silica: the hard mineral that sand is made of (1900 to 1950)
+- silicosis: a disease caused by breathing silica dust. The dust forms scar tissue in the lungs, the scarred lungs cannot take in enough oxygen, it cannot be cured, and in bad cases it kills (1900 to 1950)
+- pneumonia: a disease of the lungs (1900 to 1950)
+- carbon monoxide: a poison gas from engines (1900 to 1950)
+- sit-down strike: a strike in which workers stop working but stay inside the plant, so the company cannot bring in other workers (1900 to 1950)
+- excessive force: far more force than was needed (1900 to 1950)
+- baseless allegations: claims with nothing true behind them (1900 to 1950)
+- executive order: an order from the president (1900 to 1950)
+- bracero: the Spanish word for a man who works with his arms, the name of the program that brought Mexican men to work on American farms and railroads (1900 to 1950)
+- white-collar jobs: jobs in offices, stores and schools (1950 to 2000)
+- blue-collar jobs: jobs working with one's hands in factories, mines and building trades (1950 to 2000)
+- labor force: everyone who has a paid job or is looking for one (1950 to 2000)
+- DDT: a white powder that kills insects (1950 to 2000)
+- pesticides: chemicals that kill insects and weeds (1950 to 2000)
+- high steel: building the steel frames of bridges and skyscrapers, walking on narrow beams far above the ground (1950 to 2000)
+- collective bargaining: bargaining as a union with employers (1950 to 2000)
+- girdle: a tight undergarment (1950 to 2000)
+- compactor: the part of a garbage truck that crushes the garbage (1950 to 2000)
+- welfare: government help for people without enough money (1950 to 2000)
+- Mace: a stinging chemical spray (1950 to 2000)
+- black lung: a disease caused by breathing coal dust, which scars the lungs. In the worst form, masses of scar tissue leave the miner "gasping for every breath" (1950 to 2000)
+- clerical work: office work such as typing, filing and answering phones (1950 to 2000)
+- harassment: treatment meant to upset, shame or frighten a worker (1950 to 2000)
+- back pay: pay that workers were owed and had not been paid (1950 to 2000)
+- pension: money paid to workers after they retire (1950 to 2000)
+- sharecroppers: farmers who farm land that belongs to someone else and pay the owner with part of the crop (1950 to 2000)
+- Merchant Marine: the crews of American cargo ships (1950 to 2000)
+- air traffic controllers: the workers who guide airplanes in and out of airports (1950 to 2000)
+- plead guilty: to tell a court one has broken the law (1950 to 2000)
+- human trafficking: the buying, selling and moving of people to force them to work (1950 to 2000)
+- independent contractor: a person who works for themselves and sells their work to companies (2000 to Today)
+- gig platform: an app or website that hands out short jobs one at a time (2000 to Today)
+- ballot question: a question put on the ballot for voters to decide, such as California's Proposition 22 (2000 to Today)
+- appeals court: a higher court that checks the rulings of lower courts (2000 to Today)
+- gamed: tricked an app (2000 to Today)
+- essential workers: workers in grocery stores, warehouses, delivery and health care who kept going to work in person during the pandemic (2000 to Today)
+- baristas: the workers who make the coffee drinks (2000 to Today)
+- meatpacking plant: a plant where animals are killed and cut up for meat (2000 to Today)
+- systemic: built into the way a company worked (2000 to Today)
+- reasonable diligence: reasonable care (2000 to Today)
+- citations: the official notices for breaking safety rules (2000 to Today)
+- conspiring: plotting with others (2000 to Today)
+- wage theft: an employer not paying workers all the money the law says they have earned (2000 to Today)
+- H-2A visa: a visa that allows a person to do farm work in the United States for a season (2000 to Today)
+- fiscal year: the government's budget year (2000 to Today)
+
+## People
+
+- Richard Frethorne: indentured servant at Martin's Hundred, Virginia, whose letters home begging for food survive (The 1600s)
+- Benjamin Franklin: printer's apprentice who ran away from his brother's Boston shop at 17 (1700 to 1750)
+- Harriet Hanson Robinson: Lowell mill girl who led her room out on strike at 11 and later wrote a book about the mill girls (1800 to 1850)
+- Samuel Gompers: cigar maker who led the American Federation of Labor for almost forty years (1850 to 1900)
+- Jennie Curtis: Pullman seamstress whose speech helped start the Pullman boycott (1850 to 1900)
+- Eugene V. Debs: locomotive fireman who founded the American Railway Union and went to jail for leading the Pullman boycott (1850 to 1900)
+- Mother Jones (Mary Harris Jones): union organizer for coal miners who led the March of the Mill Children in 1903 (1900 to 1950)
+- Addie Card: child spinner in a Vermont cotton mill whose Lewis Hine photograph appeared on a 1998 postage stamp (1900 to 1950)
+- Rose Rosenfeld Freedman: Triangle fire survivor who told the truth about the locked doors for ninety years (1900 to 1950)
+- Frances Perkins: witness to the Triangle fire who became the first woman in a US Cabinet and pushed for the first federal minimum wage (1900 to 1950)
+- Grace Fryer: radium dial painter who sued the company while she was dying (1900 to 1950)
+- A. Philip Randolph: union leader who won the first contract between a major American company and a union led by Black workers (1900 to 1950)
+- Naomi Parker Fraley: Navy yard war worker found to be the woman in a 1942 photograph linked to the "We Can Do It!" poster (1900 to 1950)
+- Cesar Chavez: organizer of the farmworkers' union in the California grape fields, accused in March 2026 accounts of sexually abusing two girls and of raping Dolores Huerta. He died in 1993, and no court heard the accusations (1950 to 2000)
+- Dolores Huerta: farmworkers' union organizer who negotiated the first grape contracts and made up the slogan "Sí, se puede" (1950 to 2000)
+- Frank Lumpkin: Chicago steelworker who fought for 17 years to win back the pay and pensions lost when Wisconsin Steel closed (1950 to 2000)
+- Raef Lawson: Grubhub delivery driver whose court case asked whether an app driver is an employee (2000 to Today)
+- Chris Smalls: fired Amazon warehouse worker who organized the first union at an Amazon warehouse in the United States (2000 to Today)
+
+## Dates
+
+- July 9, 1640: Virginia judges sentence John Punch to serve his master for life
+- June 2, 1786: Philadelphia's printers begin the earliest proven strike of workers in one trade in the United States
+- March 25, 1911: the Triangle fire kills 146 workers in a New York factory where a stairway door was locked
+- June 25, 1938: President Roosevelt signs the law that sets the first federal minimum wage, 25 cents an hour
+- April 1, 2022: workers at Amazon's JFK8 warehouse on Staten Island win the first union at an Amazon warehouse in the country
+- February 1599: Juan de Oñate sentences the Acoma survivors to twenty years of forced labor
+- November 17, 1747: the Knowles Riot begins in Boston
+- May 1794: Philadelphia's journeymen shoemakers form the first lasting trade union in the United States
+- June 10, 1835: nearly 20,000 Philadelphia workers in more than forty trades are on strike, the first general strike in the United States
+- September 6, 1869: a fire at the Avondale coal mine kills 110 people
+- May 4, 1886: a bomb is thrown at the police at a workers' meeting in Haymarket Square, Chicago
+- April 20, 1914: National Guard soldiers burn the strikers' tent colony at Ludlow, Colorado
+- 1935: members of Congress pass the Wagner Act, making it a legal right for workers to form unions
+- February 1, 1968: two Memphis garbage collectors are crushed in their truck, and the sanitation strike begins eleven days later
+- August 5, 1981: President Reagan fires 11,345 striking air traffic controllers
+
+## Places
+
+- Hopewell Furnace National Historic Site, Pennsylvania: the National Park Service site of the ironworks where more than 100 woodcutters and about 20 colliers worked in the 1830s
+- 9/11 Memorial and Museum, New York, New York: an exhibit about Mohawk ironworkers called "Skywalkers"
+- Chicago History Museum, Chicago, Illinois: its Haymarket history counts eight police officers dead and an unknown number in the crowd killed or wounded
+- West Virginia Mine Wars Museum, West Virginia: it puts the Monongah mine dead of 1907 at more than 500
+- University of Nevada, Las Vegas library, Las Vegas, Nevada: keeps a history of Hoover Dam that tells how company doctors called tunnel workers' illness pneumonia
+- Cooper Union, New York, New York: the hall where Clara Lemlich called the shirtwaist makers out on strike in 1909
+- Haymarket Square, Chicago, Illinois: the square where the bomb was thrown at the police on May 4, 1886
+- Lorraine Motel, Memphis, Tennessee: where James Earl Ray shot and killed Martin Luther King Jr. on April 4, 1968, during the sanitation strike
+- Clayborn Temple, Memphis, Tennessee: the church where police fired tear gas and clubbed marchers on March 28, 1968
+- Acoma Pueblo, New Mexico: the Acoma people's town, whose survivors Oñate sentenced to forced labor in 1599
+- Lowell, Massachusetts: the mill city built at Pawtucket Falls on the Merrimack River, on the land of the Pennacook people
+
+## Movies
+
+- Benjamin Franklin (2022): no note (a two-part documentary by Ken Burns, shown on PBS)
+- American Socialist: The Life and Times of Eugene Victor Debs (2017): no note (a documentary directed by Yale Strom)
+- Summoned: Frances Perkins and the General Welfare (2020): no note (a documentary by Mick Caouette, shown on PBS)
+- Radium Girls (2018): a drama inspired by the dial painters' case. Its main characters are two invented sisters, not Grace Fryer
+- 10,000 Black Men Named George (2002): no note (a television drama with Andre Braugher as Randolph)
+- A. Philip Randolph: For Jobs and Freedom (1996): no note (a documentary shown on PBS)
+- Cesar Chavez (2014): no note (a drama directed by Diego Luna, with Michael Peña as Chavez)
+- Dolores (2017): no note (a documentary about Dolores Huerta directed by Peter Bratt)
+- Union (2024): no note (a documentary by Brett Story and Stephen Maing about the union campaign at JFK8. It won a Special Jury Award at the Sundance Film Festival in 2024)
+
+## Questions
+
+- Q: Which workers were not free to leave their work? A: Native people forced to work under Spanish rule, indentured servants bound for years, enslaved people, prisoners leased to Southern mines and planters, and the Thai garment workers held behind a fence in El Monte until 1995. Virginia judges sentenced John Punch in 1640 to serve for the rest of his life.
+- Q: What happened when workers went on strike? A: Some won, like the Philadelphia printers in 1786 and the Flint autoworkers in 1937. Many times police, hired guards and soldiers broke the strike, and at Lattimer in 1897, Ludlow in 1914 and Chicago in 1937 they killed strikers, their families and people marching with them.
+- Q: What made work less deadly? A: Laws written after workers died: more than one way out of every Pennsylvania mine after the Avondale fire, safer couplers after thousands of brakemen died, new factory laws in New York after the Triangle fire, and the 1969 coal mine law after Farmington. Deaths on the job fell from about 38 a day in 1970 to about 14 a day in 2024.
