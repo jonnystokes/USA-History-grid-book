@@ -505,6 +505,12 @@ imagine a situation that the writer can describe.
   date gives the reader the same detail and can be checked.
 - **Delete the scene.** The remaining sentences state what the writer verified.
 
+**Reconstruction is not staging (History Book, 2026-10-26).** A scene built only from sourced
+detail, with its basis signaled ("the judges wrote", "the sagas say", "his letter states"), is
+allowed and wanted in story boxes. What stays forbidden is the invented part: weather, faces,
+dialogue or thoughts the source does not give, and asking the reader to imagine being there.
+`control/ARCHITECTURE-GUIDE.md` §4.8.
+
 ### Forced Rhythm and Sound Patterning
 
 The writer must not choose a word for its sound next to neighbouring words. No
@@ -708,6 +714,12 @@ it. The writer must perform the function without narrating the performance.
 
 Brief functional transitions are allowed ("By 1850, however..."). Self-referential
 transitions are not.
+
+**Furniture exception (History Book, 2026-10-26, DECISIONS #50).** Chapter openings and closings,
+era strips, "By [year]" lines, era closers, chapter cards and the front and back matter are
+navigation, not metadiscourse. There a narrator may address the reader, name the chapter or the
+book, give a reading time, and point to another chapter. `control/ARCHITECTURE-GUIDE.md` §3 and §4
+say where and how. Inside the body of a span, this section applies in full.
 
 **Repairs.**
 
@@ -934,6 +946,12 @@ restates the same content in the same order is not a reference.
 **Repairs.** Cut the closing paragraph and end on the last fact, convert it into a
 reference the reader acts on, or move a fact forward when the closing paragraph
 states one the body did not.
+
+**Furniture exception (History Book, 2026-10-26, DECISIONS #50).** A chapter closing that answers
+the opening's three questions, an era closer that states what changed, and a "By [year]" line that
+states where things stand are references the reader uses and syntheses that add a frame. They are
+required by `control/ARCHITECTURE-GUIDE.md` §4. A closer that only restates the last section in new
+words is still the defect this section names, and is cut.
 
 ### Writing the Reader Will Act On
 

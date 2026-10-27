@@ -5157,3 +5157,12 @@ RESULT: nine tasks, 51 items: about 36 CLOSED with a source, 4 left as is (alrea
 USAGE: 5-hour 37% -> about 55% for the whole burst; agents 120k-330k tokens each, 3-20 min.
 CHECKPOINTS: control/checkpoints/T-650-gaps.md .. T-657-gaps.md, T-658-viewer.md
 ### 2026-10-26 | [LOCAL] STEP 8 DONE. The book is finished. What remains is Jon's read.
+
+### 2026-10-26 | [LOCAL] PHASE 2: READABILITY EDIT begins (Jon, after his read + a DeepSeek critique; DECISIONS #50-53)
+Guides: control/ARCHITECTURE-GUIDE.md (new, layer 3), furniture exceptions added to the general guide (Metadiscourse, Staged Scenes, End When the Information Ends), amendment §0 guideline 7 reworded and §0b added. Brief: control/briefs/READABILITY.md. Dispatch: control/briefs/READABILITY-DISPATCH.md. Measurement: tools/measure_readability.py (indicator only).
+
+### 2026-10-26 | [LOCAL] PILOT WAVE T-660..T-664 | five agents at once | T-660 opus (tools), T-661..T-664 fable (writers)
+STATUS: IN-FLIGHT (launch waits for the 5-hour reset at 10:10 PM; window was at 94%)
+SCOPE: T-660 build/front/back-matter plumbing; T-661 exploration; T-662 government-politics; T-663 holidays; T-664 introduction + front matter + the method essay moved to back matter.
+VERIFY: python tools/project_state.py --check <slug> --stage prose for 661-663; both builds run clean for 660; --punct 0/0 on every new file for 664. Checkpoints control/checkpoints/T-66x-*.md.
+RESUME RULE (Jon): agents cut off by the usage window are resumed by SendMessage after the reset (CLAUDE.md recipe if the session id changed). If a resume fails, stop and tell Jon; no replacement agent.

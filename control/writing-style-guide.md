@@ -88,6 +88,14 @@ Also binding, and also not summarised here: `control/hard-subjects-policy.md`.
 
 ---
 
+## 0b. The architecture layer (2026-10-26)
+
+`control/ARCHITECTURE-GUIDE.md` governs the structure of a chapter: openings, closings, era strips,
+"By [year]" lines, era closers, story-box shape, paragraph size, the narrator's voice and where it
+may speak, Known / Not known pairs, repetition across chapters, and date style. It sits above this
+file on structure and below it on the reader, the subject and the seven guidelines. Read it after
+this file and before editing a chapter.
+
 ## 1. The Reader
 
 This section outranks anything in either file that conflicts with it.
