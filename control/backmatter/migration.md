@@ -1,0 +1,179 @@
+## Glossary
+
+- drought: a long stretch with little or no rain (Before 1500)
+- Ancestral Puebloan people: the ancestors of today's Pueblo peoples (Before 1500)
+- Diné: the name the Navajo call themselves (Before 1500)
+- Athabascan migration: the long move of the ancestors of the Navajo and Apache south from western Canada and eastern Alaska (Before 1500)
+- seasonal round: a yearly circuit from one camp to the next (Before 1500)
+- obsidian: a black glass made by volcanoes (Before 1500)
+- expedition: a group of men sent out to explore (The 1500s)
+- New Spain: the Spanish colony that included Mexico (The 1500s)
+- column: the long line of people, wagons and animals on the march (The 1500s)
+- La Toma: "the taking," the ceremony in which Oñate claimed New Mexico for Spain (The 1500s)
+- El Camino Real de Tierra Adentro: the royal road of the interior, from Mexico City to northern New Mexico (The 1500s)
+- livestock: farm animals (The 1500s)
+- friar: a man who belongs to a Catholic religious order (The 1500s)
+- rape: forcing a person into sex (The 1500s)
+- mesa: a steep hill with a flat top (The 1500s)
+- All Pueblo Council of Governors: the governors who lead the 20 Pueblo nations of New Mexico and Texas (The 1500s)
+- convent: a home for nuns (The 1500s)
+- medicine men: religious leaders (The 1600s)
+- sorcery: witchcraft (The 1600s)
+- archaeologist: a scientist who studies the past through the things people left behind (The 1600s)
+- sachem: a leader (The 1600s)
+- deed: a paper that says who owns a piece of land (The 1600s)
+- congregation: the people of a church (The 1600s)
+- horse litter: a stretcher carried by horses (The 1600s)
+- backcountry: the valleys and hills behind the older coastal settlements (1700 to 1750)
+- Piedmont: the hill country of the Carolinas (1700 to 1750)
+- Protestants: Christians whose churches had split from the Catholic Church (1700 to 1750)
+- Pennsylvania Dutch: German settlers in Pennsylvania, from Deutsch, the German word for German (1700 to 1750)
+- Moravians: members of a Protestant church from central Europe (1700 to 1750)
+- Haudenosaunee: the Iroquois, a league of six nations, also called the Six Nations (1700 to 1750)
+- treaty: a written agreement between nations (1700 to 1750)
+- militia: colonists called up to fight as soldiers, later part-time soldiers called up by a state (1700 to 1750)
+- siege: surrounding a fort or town and attacking it again and again (1700 to 1750)
+- Comanchería: Comanche country, the land the Comanche held on the southern Plains (1700 to 1750)
+- lieutenant governor: one of the top British officials in a colony (1750 to 1800)
+- delegates: men chosen to speak for their villages (1750 to 1800)
+- the Crown: the British king (1750 to 1800)
+- bayonet: a blade fixed to the end of a gun (1750 to 1800)
+- Le Grand Dérangement: "the great upheaval," the French name for the forced removal of the Acadians (1750 to 1800)
+- bayou: a slow-moving stream through low, wet land (1750 to 1800)
+- Cajun: a descendant of the Acadians in Louisiana, from the word Acadian (1750 to 1800)
+- Treaty of Paris (1763): a peace agreement that ended the war between Britain and France (1750 to 1800)
+- National Historic Person: a title Canadian officials give to people who were important in Canada's history (1750 to 1800)
+- Royal Proclamation of 1763: a British rule that banned private buyers from buying Native land (1750 to 1800)
+- Continental Congress: the meeting of leaders from the colonies (1750 to 1800)
+- surveyors: workers who measure land (1750 to 1800)
+- township: a square of land six miles on a side, divided into 36 sections of 640 acres (1750 to 1800)
+- Northwest Territory: the land north of the Ohio River that later became Ohio, Indiana, Illinois, Michigan and Wisconsin (1750 to 1800)
+- Upper South: Virginia, Maryland, the Carolinas, and later Kentucky and Tennessee (1800 to 1850)
+- Deep South: the cotton lands from Georgia west to Texas (1800 to 1850)
+- Second Middle Passage: the forced move of enslaved people inside the country, from the Upper South to the Deep South (1800 to 1850)
+- Middle Passage: the voyage of captured Africans across the Atlantic Ocean (1800 to 1850)
+- coffle: a line of enslaved people chained together and marched over land (1800 to 1850)
+- abolitionist: someone who worked to end slavery (1800 to 1850)
+- Indian Territory: the land in present-day Oklahoma where federal officials moved many Native nations (1800 to 1850)
+- exposure: the harm cold and bad weather do to the body (1800 to 1850)
+- stockade: a pen with walls of tall logs (1800 to 1850)
+- Trail of Tears: the Cherokee removal of 1838 and 1839 (1800 to 1850)
+- cholera: a disease that causes severe diarrhea and vomiting (1800 to 1850)
+- typhoid: a disease that causes a high fever (1800 to 1850)
+- emigrant: a person leaving one home to settle in another (1800 to 1850)
+- exterminate: to kill off entirely (1800 to 1850)
+- vigilante: a person who uses force to punish others without any legal right to (1800 to 1850)
+- handcart: a small two-wheeled cart pulled by hand (1800 to 1850)
+- vanguard company: the group that goes ahead of the rest (1800 to 1850)
+- Manifest Destiny: the idea that the United States was meant to spread across the continent to the Pacific Ocean (1800 to 1850)
+- annexed: made part of the United States (1800 to 1850)
+- Mexican Cession: the land Mexican officials gave up after the Mexican-American War (1800 to 1850)
+- forty-niners: the people who rushed to California for gold in 1849 (1800 to 1850)
+- reservation: an area of land that federal officials set aside for a Native nation, often far from its homeland (1850 to 1900)
+- territory: land the United States governed that was not yet a state (1850 to 1900)
+- sub-captain: one of the leaders under a company's captain (1850 to 1900)
+- broker: a person who arranges sales for others (1850 to 1900)
+- Homestead Act: the 1862 law that let an adult who headed a household claim up to 160 acres of public land for free and own it after five years of farming (1850 to 1900)
+- railhead: a town at the end of a railroad line (1850 to 1900)
+- quarantine law: a law keeping animals apart to stop the spread of disease (1850 to 1900)
+- Exodusters: Black Southerners who moved to Kansas around 1879, named after the Exodus, the Bible story of the Israelites' escape from slavery in Egypt (1850 to 1900)
+- Confederates: the Southerners who fought against the United States in the Civil War to keep slavery (1850 to 1900)
+- sharecropper: a person who farms someone else's land and pays the owner with a share of the crop (1850 to 1900)
+- undertaker: a person who prepares the dead for burial (1850 to 1900)
+- handbill: a short printed notice (1850 to 1900)
+- Unassigned Lands: the last part of Indian Territory federal officials had not given to any Native nation, opened in the 1889 Land Run (1850 to 1900)
+- boomers: settlers who entered the Unassigned Lands against the law before 1889 (1850 to 1900)
+- Sooners: people who sneaked in before the start of the 1889 Land Run to grab land (1850 to 1900)
+- Five Tribes: the Cherokee, Choctaw, Muscogee (Creek), Chickasaw and Seminole nations (1850 to 1900)
+- Commissioner of Indian Affairs: the federal official in charge of dealings with Native nations (1850 to 1900)
+- cavalry: soldiers who fought on horseback (1850 to 1900)
+- census: the official count of the population, taken every ten years (1850 to 1900)
+- frontier line: the edge of thinly settled land in the West, where two to six people lived on each square mile (1850 to 1900)
+- Great Migration: the movement of Black Americans out of the rural South from about 1910 to 1970 (1900 to 1950)
+- boll weevil: a beetle that eats cotton plants (1900 to 1950)
+- lynch mob: a crowd that kills a person without any trial (1900 to 1950)
+- Jim Crow laws: the Southern laws that kept Black people and white people apart (1900 to 1950)
+- editorial: an article that gives a newspaper's opinion (1900 to 1950)
+- labor recruiter: a person hired to find workers (1900 to 1950)
+- Dust Bowl: the parts of Oklahoma, Texas, Kansas, Colorado and New Mexico where drought and windstorms tore the topsoil off farms in the 1930s (1900 to 1950)
+- Okies: what Californians called the newcomers from the Dust Bowl (1900 to 1950)
+- bum blockade: the Los Angeles police chief's 1936 use of his officers at the state line to turn back poor migrants (1900 to 1950)
+- vagrancy: the crime of having no home or means of support (1900 to 1950)
+- Chamber of Commerce: a group of a city's business owners (1900 to 1950)
+- attorney general: a state's top lawyer (1900 to 1950)
+- unconstitutional: against the Constitution (1900 to 1950)
+- timing chain: an engine part a car cannot run without (1900 to 1950)
+- executive order: a rule issued by a president (1900 to 1950)
+- Japanese ancestry: having a family that came from Japan (1900 to 1950)
+- Jim Crow car: the railroad car set aside for Black passengers (1900 to 1950)
+- packing house: where fruit was packed for sale (1900 to 1950)
+- Rust Belt: a nickname for the older factory states of the North (1950 to 2000)
+- Sun Belt: a nickname for the South and the West (1950 to 2000)
+- Census Bureau: the federal office that counts the population (1950 to 2000)
+- Interstate Highway System: a network of big highways across the country (1950 to 2000)
+- suburb: a town at the edge of a city (1950 to 2000)
+- Bureau of Indian Affairs: the federal office in charge of the government's dealings with Native nations (1950 to 2000)
+- Relocation: the federal program that paid for Native people to move from reservations to cities (1950 to 2000)
+- New Great Migration: the return of Black Americans to the South since the 1970s (1950 to 2000)
+- net domestic migration: the number of people who move into a state from other states, minus the number who move out to other states (2000 to Today)
+- metro area: a city together with its suburbs (2000 to Today)
+- levee: a wall of earth or concrete built to hold back water (2000 to Today)
+- parish: the Louisiana name for a county (2000 to Today)
+- paramedic: a medical worker who rides an ambulance (2000 to Today)
+- evacuee: a person who leaves a place to escape danger (2000 to Today)
+- FEMA: the federal office for disaster help (2000 to Today)
+
+## People
+
+- Juan de Oñate: Spanish leader of the 1598 colony that came over land into New Mexico, who ordered the attack on Acoma Pueblo (The 1500s)
+- Thomas Hooker: minister who led about 100 members of his church from Massachusetts to found Hartford (The 1600s)
+- Joseph Broussard (Beausoleil): Acadian who fought the British removal, then led about 200 Acadians to Louisiana (1750 to 1800)
+- Charles Ball: enslaved man marched in a chained coffle from Maryland to South Carolina, who escaped and told his story (1800 to 1850)
+- Rebecca Neugin: Cherokee woman forced west on the Trail of Tears at about three, interviewed at 97 or 98 (1800 to 1850)
+- Brigham Young: Latter-day Saint leader of the first company to the Salt Lake Valley in 1847 (1800 to 1850)
+- Amelia Stewart Knight: Oregon Trail traveler whose 1853 diary does not mention her pregnancy until the birth (1850 to 1900)
+- Levi Savage: Willie handcart company leader who warned against leaving late in 1856 and kept a journal (1850 to 1900)
+- Laura Ingalls Wilder: author of the Little House books, whose family moved by covered wagon again and again (1850 to 1900)
+- Benjamin "Pap" Singleton: man born into slavery who organized Black Southerners to move to Kansas, the "Father of the Exodus" (1850 to 1900)
+- Ida Mae Brandon Gladney: sharecropper's wife who left Mississippi for Chicago in 1937 after white men nearly beat a cousin to death (1900 to 1950)
+- Florence Owens Thompson: farmworker of Cherokee descent, the woman in Dorothea Lange's "Migrant Mother" (1900 to 1950)
+- George Swanson Starling: Florida fruit picker who fled to Harlem in 1945 when grove owners plotted to hang him (1900 to 1950)
+- Robert Joseph Pershing Foster: Black surgeon who drove from Louisiana to Los Angeles in 1953 to practice medicine (1950 to 2000)
+- Kimberly Rivers Roberts: New Orleans woman who filmed the Katrina flood from inside it (2000 to Today)
+
+## Dates
+
+- April 30, 1598: Oñate claims New Mexico for Spain in La Toma, "the taking"
+- May 1838: US soldiers begin rounding up the Cherokee for the Trail of Tears
+- May 20, 1862: Lincoln signs the Homestead Act
+- February 19, 1942: Roosevelt signs Executive Order 9066
+- August 2005: Hurricane Katrina forces more than 1 million people from their homes
+- 1680: Popé leads the Pueblo Revolt against Spanish rule
+- September 5, 1755: John Winslow holds the Acadian men of Grand-Pré in their church
+- 1775: Daniel Boone and his axmen cut the Wilderness Road through the Cumberland Gap
+- July 13, 1787: the Northwest Ordinance bans slavery north of the Ohio River
+- 1803: the Louisiana Purchase about doubles the size of the United States
+- 1830: Andrew Jackson signs the Indian Removal Act
+- March 2 and 3, 1859: the Weeping Time, the largest single sale of enslaved people, near Savannah
+- March 1864: soldiers begin the Long Walk of the Navajo to Bosque Redondo
+- April 22, 1889: about 50,000 people race into the Unassigned Lands in the Oklahoma Land Run
+- July 27, 1919: Eugene Williams drowns after a white man stones him, and five days of attacks follow in Chicago
+
+## Places
+
+- Trail of Tears National Historic Trail, nine states: more than 2,200 miles of the Cherokee removal routes, run by the National Park Service
+- El Camino Real de Tierra Adentro National Historic Trail, the road's stretch inside the United States: the route Oñate's colonists traveled north in 1598
+- National Archives: records of the 1942 forced removal of Japanese Americans, which count about 120,000 people removed
+- Missouri State Archives, Missouri: records of the 1838 fighting between older Missouri settlers and armed Mormon groups
+
+## Movies
+
+- 17 Miracles (2011): a film about the Willie handcart company that draws on Levi Savage's journal
+- Little House on the Prairie (NBC series, 1974 to 1983): loosely based on the books
+- Trouble the Water (2008): a documentary built largely on Kimberly Rivers Roberts's own video
+
+## Questions
+
+- Q: How did horses reach the Native nations of the Plains? A: In the older account, horses spread north through trade after the Pueblo Revolt of 1680, when the Spanish left perhaps more than 1,500 of them behind. A 2023 study of horse bones found that many nations had horses by the early 1600s, decades earlier, as the nations' own histories say.
+- Q: How many Cherokee died when soldiers forced them west? A: Nobody knows exactly. The count most often given is about 4,000, and estimates run from more than 1,000 on the journey itself to about 8,000 or more.
+- Q: Why did about 6 million Black Americans leave the South between 1910 and 1970? A: They left lynch mobs, Jim Crow laws and cotton crops ruined by the boll weevil and floods, and they went toward jobs in Northern and Western cities. In Georgia alone, lynch mobs killed more than 450 people between 1880 and 1930, and nearly all Black Georgians could not vote.
