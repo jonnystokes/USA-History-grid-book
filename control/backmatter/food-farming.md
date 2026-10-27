@@ -1,0 +1,228 @@
+## Glossary
+- teosinte: the wild grass Native farmers made corn out of. Its seed head holds only a few hard kernels (Before 1500)
+- breeding: each year taking seed only from the plants farmers chose and planting it again, so the crop changed a little at a time (Before 1500)
+- genes: the tiny instructions inside every living thing that parents pass on to their young (Before 1500)
+- Three Sisters: corn, beans and squash planted together in the same field, each helping the other two grow (Before 1500)
+- bacteria: tiny living things. Those in bean roots take nitrogen from the air and put it into the soil (Before 1500)
+- nitrogen: a gas in the air that plants need to grow (Before 1500)
+- protein: the part of food the body uses to build muscle (Before 1500)
+- Eastern Agricultural Complex: the group of crops Native people in eastern North America bred on their own, a squash and six seed plants (Before 1500)
+- manoomin: a wild rice that grows in shallow water. In Ojibwe the word means "the good berry" (Before 1500)
+- Anishinaabe: a family of related nations that includes the Ojibwe, the Odawa and the Potawatomi (Before 1500)
+- prophecy: a teaching about what was to come (Before 1500)
+- Columbian Exchange: the carrying of crops and farm animals across the Atlantic in both directions, named by the historian Alfred W. Crosby in 1972 (The 1500s)
+- cacao: the bean that chocolate is made from (The 1500s)
+- citrus fruit: the family of fruit that includes oranges and lemons (The 1500s)
+- rape: forcing a person to have sex (The 1500s, explained again in 1950 to 2000)
+- archaeologists: scientists who study the past by digging up what people left behind (The 1500s)
+- Starving Time: the winter of 1609 to 1610 at Jamestown, when about 500 colonists fell to about 61 (The 1600s)
+- weroance: a leader (the Paspahegh weroance, or leader) (The 1600s)
+- assembly: Virginia's assembly was the colony's lawmaking body (The 1600s)
+- bushel: a measure that holds about 8 gallons (The 1600s)
+- epidemic: a disease that spreads quickly through many people (The 1600s)
+- interpret: to put each side's words into the other's language (The 1600s)
+- manure (to manure ground): to bury something in the soil to feed the crops, as the Plymouth colonists buried fish with their corn seed (The 1600s)
+- anthropologist: a scientist who studies how people live (The 1600s)
+- hominy: dried corn cooked in water (The 1600s)
+- samp: corn pounded into coarse meal and boiled into a mush. The name comes from the Narragansett word nasàump (The 1600s)
+- johnnycakes: flat cakes baked from cornmeal (The 1600s)
+- Lowcountry: the flat, wet land along the coast of South Carolina (1700 to 1750)
+- Rice Coast: the part of West Africa that included Senegambia and Sierra Leone (1700 to 1750)
+- Senegambia: the land along the Senegal and Gambia rivers (1700 to 1750)
+- fanner baskets: coiled baskets in which enslaved workers tossed rice to separate the grain from its husks (1700 to 1750)
+- geographer: a scientist who studies the land and how people use it (1700 to 1750)
+- task: the set amount of work a planter gave each enslaved rice worker every day, usually a quarter of an acre (1700 to 1750)
+- indigo: a plant that colors cloth blue, a farm crop but not a food (1700 to 1750)
+- lieutenant governor: the official just below the governor (1700 to 1750)
+- breadbasket colonies: Pennsylvania, New York and New Jersey, where farmers grew more wheat than their families needed (1700 to 1750)
+- Scots-Irish: families of Scottish background who had lived in the north of Ireland (1700 to 1750)
+- census: a count of the people (1750 to 1800)
+- joiner: a carpenter who does the finer woodwork in a house (1750 to 1800)
+- survey (land): to measure land and mark its borders (1750 to 1800)
+- peck: a measure. Three pecks of corn are about 24 quarts (1750 to 1800)
+- deeds: the papers that prove who owns a piece of land (1750 to 1800)
+- hemp and flax: plants whose fibers are made into rope and cloth (1750 to 1800)
+- stook: a bundle of cut grain stood up to dry (1750 to 1800)
+- ration: a set amount of food given out, as Jefferson's weekly food for each enslaved worker at Monticello (1750 to 1800)
+- backcountry: the land far from the coast, beyond the older farms and towns (1750 to 1800)
+- pearlash: a salt made from wood ashes, used to make dough rise before baking powder existed (1750 to 1800)
+- slaw: a salad of shredded cabbage (1750 to 1800)
+- planters: the owners of large farms worked by enslaved people (1800 to 1850)
+- canning: sealing food in a container and then heating it, so it keeps without spoiling (1800 to 1850)
+- patent: a government paper that gives an inventor the sole right to make and sell an invention for a set number of years (1800 to 1850, shorter re-gloss in 1900 to 1950)
+- icebox: a box in which families kept ice (1800 to 1850)
+- speculation: a risky business deal (1800 to 1850)
+- debtors' prison: a jail for people who could not pay what they owed (1800 to 1850)
+- dysentery: a disease of the gut that causes bloody diarrhea (1800 to 1850)
+- Trail of Tears: the Cherokee removal of 1838 and 1839 (1800 to 1850)
+- sod: the top layer of soil, held together by the tangled roots of grass (1800 to 1850)
+- reaper: a machine that cuts grain (1800 to 1850)
+- sickle: a curved blade for cutting wheat by hand (1800 to 1850)
+- militia: citizens called up to fight (1800 to 1850)
+- treaty: a written agreement between nations (1800 to 1850)
+- late blight: a potato disease caused by a water mold, a tiny living thing that destroys potato plants (1800 to 1850)
+- famine: a time of so little food that people starve (1800 to 1850, explained again in 1950 to 2000)
+- Homestead Act: the 1862 law under which a person could claim 160 acres of public land for free by living on it and farming it for five years (1850 to 1900)
+- land patent: the government paper that made homestead land the owner's (1850 to 1900)
+- Dawes Act: the 1887 law under which federal officials broke up land each Native nation held together into plots for single families and sold the land they called surplus (1850 to 1900)
+- surplus: left over (1850 to 1900), or extra (1900 to 1950)
+- sod corn: corn set straight into newly plowed prairie sod (1850 to 1900)
+- freedpeople: the men, women and children who had been freed from slavery (1850 to 1900)
+- sharecroppers: families who farmed someone else's land for a share of the crop (1850 to 1900, explained again in 1900 to 1950)
+- on credit: getting something now and paying for it later (1850 to 1900)
+- furnish: the food, seed, tools and cabin a landowner gave a sharecropping family on credit (1850 to 1900)
+- interest: an extra charge for paying later (1850 to 1900), or the extra money a borrower pays back on top of a loan (1950 to 2000)
+- lien: a legal claim to a crop until the debt was paid (1850 to 1900)
+- open range: the unfenced grassland where cattle could graze and travel freely (1850 to 1900)
+- quarantine line: the border Texas cattle could not cross into Kansas under a Kansas law of 1885 and 1886 (1850 to 1900)
+- Texas fever: a cattle disease the Kansas law of 1885 and 1886 was passed to keep out (1850 to 1900)
+- chuckwagon: the kitchen on wheels that fed cowhands on cattle drives (1850 to 1900)
+- trail boss: the man in charge of the whole cattle drive (1850 to 1900)
+- stock yards: pens where cattle, hogs and sheep were held until they were sold (1850 to 1900)
+- meatpacker: a businessman who ran a plant where animals were killed and cut up into meat for sale (1850 to 1900)
+- steer: one of the male cattle raised for beef (1850 to 1900)
+- husbandry: an old word for farming (1850 to 1900)
+- Grange: the Patrons of Husbandry, the first large farmers' group with members across the whole country (1850 to 1900)
+- land-grant colleges: colleges started with money from selling federal land, teaching farming and the skills of working with machines (1850 to 1900)
+- experiment station: a station run by a land-grant college where scientists studied soil, seed and farm animals and sent their results to farmers (1850 to 1900)
+- adulterated: made impure or mixed with something that should not be in it (1900 to 1950)
+- FDA: the Food and Drug Administration, named in 1930 (1900 to 1950)
+- crop rotation: changing the crop planted in a field from one year to the next (1900 to 1950)
+- cowpeas: a kind of bean (1900 to 1950)
+- bulletin: a small printed booklet (1900 to 1950)
+- pellagra: a disease caused by a diet missing a vitamin called niacin. It brought skin rashes, diarrhea and dementia and could end in death (1900 to 1950)
+- niacin: a vitamin, also called vitamin B3 (1900 to 1950)
+- scrip: a kind of paper money that could be spent only at the company's own store (1900 to 1950)
+- dementia: confusion and loss of memory (1900 to 1950)
+- pardon: being let out of prison (1900 to 1950)
+- annex: to take a place over and make it part of the country (1900 to 1950)
+- cultivate (row crops): to work the soil between rows of growing plants (1900 to 1950)
+- hybrid seed: seed that comes from crossing two different parent plants (1900 to 1950)
+- broiler: a young chicken raised for its meat (1900 to 1950)
+- Delmarva Peninsula: the land where Delaware, Maryland and Virginia meet (1900 to 1950)
+- Black Sunday: the dust storm of April 14, 1935 (1900 to 1950)
+- dust pneumonia: illness that came when dust settled deep in a person's lungs and stopped the cilia from moving. The person had fever, chest pain, coughing and trouble breathing (1900 to 1950)
+- cilia: the tiny hairs that sweep the airways clean (1900 to 1950)
+- breadlines: long lines for free food (1900 to 1950)
+- on relief: getting government help (1900 to 1950)
+- evicting: forcing people off the land (1900 to 1950)
+- day laborers: workers paid one day at a time (1900 to 1950)
+- union: a group of workers who join together to demand better pay and treatment (1900 to 1950)
+- tenant farmer: a farmer who works land that someone else owns (1900 to 1950)
+- lynched: killed by a mob (1900 to 1950)
+- riding bosses: the men on horseback who watched over the field workers (1900 to 1950)
+- rationing: limiting how much of a food each person could buy (1900 to 1950)
+- victory gardens: home vegetable gardens grown to help feed the country during World War II (1900 to 1950)
+- mirliton: a pale green squash (1900 to 1950)
+- executive order: an order from the president that has the force of law (1900 to 1950)
+- braceros: Mexican workers brought into the country for farm and railroad work under the bracero program, 1942 to 1964 (1900 to 1950)
+- settlement: an agreement that ends a lawsuit (1900 to 1950)
+- malnutrition: not having had enough of the right food (1900 to 1950)
+- draft: the system that called men into the military (1900 to 1950)
+- Census of Agriculture: the federal government's count of the country's farms (1950 to 2000)
+- carhops: the servers who had carried food out to people's cars (1950 to 2000)
+- assembly line: a line of workers where each worker did one job over and over (1950 to 2000)
+- franchise: a deal that lets other people open stores under an owner's name and system in return for fees (1950 to 2000)
+- royalties: a share of the money from every sale (1950 to 2000)
+- semi-dwarf wheat: wheat with short stems (1950 to 2000)
+- irrigation: water brought to the fields by pipes and ditches (1950 to 2000)
+- Green Revolution: the rise in grain harvests in poor countries that followed Borlaug's wheat (1950 to 2000)
+- pesticides: chemicals that kill insects and weeds (1950 to 2000)
+- DDT: a pesticide that kills insects. It made the shells of eagles' eggs thin (1950 to 2000)
+- will: a paper that says who gets a person's things after the person dies (1950 to 2000)
+- heirs: the family members who inherit a person's things (1950 to 2000)
+- heirs' property: land that all of a landowner's heirs owned together after the owner died without a will, each owning a share of the whole farm (1950 to 2000)
+- involuntary land loss: land lost when the owners did not choose to sell (1950 to 2000)
+- organic farming: growing food without man-made chemical fertilizers and pesticides (1950 to 2000)
+- compost: rotted plant and animal matter (1950 to 2000)
+- USDA organic seal: a label for food that meets the national organic rules (1950 to 2000)
+- California cuisine: cooking built on fresh food from local farms (1950 to 2000)
+- farm-to-table: buying food straight from local farms (1950 to 2000)
+- fencerow to fencerow: planting every acre up to the fences (1950 to 2000)
+- defaulted: could not pay back their loans (1950 to 2000)
+- obesity: a body weight high enough to raise the risk of illness (2000 to Today)
+- type 2 diabetes: an illness in which the body cannot keep the sugar in the blood at a healthy level (2000 to Today)
+- food deserts: low-income areas far from a supermarket, more than 1 mile away in a city or more than 10 miles in the country (2000 to Today)
+- SNAP: the Supplemental Nutrition Assistance Program, once called food stamps (2000 to Today)
+- genetically engineered seed: seed whose DNA scientists changed in a laboratory (2000 to Today)
+- DNA: the chemical instructions inside every cell (2000 to Today)
+- shares: small parts of a company (2000 to Today)
+- lab-grown meat: chicken grown from animal cells instead of from a live bird (2000 to Today)
+- vertical farms: farms where workers grow vegetables indoors on shelves stacked high (2000 to Today)
+- bankruptcy: a court process for a business that cannot pay its debts (2000 to Today)
+- H-2A visa: a paper that lets a farmworker from another country come for one season of farm work (2000 to Today)
+- heat stroke: what happens when the body cannot cool itself (2000 to Today)
+- minimum wage: the lowest pay the law allows (2000 to Today)
+- premium: an extra amount of money (2000 to Today)
+- code of conduct: a written set of rules (2000 to Today)
+- sexual assault: any sexual touching or attack against a person's will, including rape (2000 to Today)
+- auditors: checkers who make sure growers follow the Fair Food code (2000 to Today)
+- discrimination: being treated worse because of who you are, such as your race (2000 to Today)
+- food sovereignty: Native nations' work to control their own food (2000 to Today)
+
+## People
+- Squanto (Tisquantum): Patuxet man who taught the Plymouth colonists to plant corn after an English captain kidnapped him (The 1600s)
+- Eliza Lucas Pinckney: planter's daughter who ran her family's South Carolina plantations as a teenager and made the colony's first successful indigo dye (1700 to 1750)
+- Matthew Patten: New Hampshire farmer, carpenter and judge whose diary records what his family grew, caught and ate (1750 to 1800)
+- Amelia Simmons: author of *American Cookery*, the first cookbook written by an American for American kitchens (1750 to 1800)
+- Frederic Tudor: Boston merchant called the Ice King, who shipped New England pond ice to warm places around the world (1800 to 1850)
+- Uriah and Mattie Oblinger: Nebraska homesteaders whose letters describe the food and work of a farm claim (1850 to 1900)
+- Charles Goodnight: Texas cattleman who invented the chuckwagon (1850 to 1900)
+- Upton Sinclair: novelist whose book about the Chicago meatpacking plants came out months before the 1906 food-safety laws (1900 to 1950)
+- George Washington Carver: scientist who taught poor Southern farmers how to rebuild worn-out cotton land and grow their own food (1900 to 1950)
+- Cecile Steele: Delaware farmer who began the business of raising chickens for meat after a hatchery sent her 500 chicks by mistake (1900 to 1950)
+- Adelaide Wisdom Benjamin: girl whose family grew a victory garden and shopped with ration stamps during World War II (1900 to 1950)
+- Ray Kroc: milkshake-machine salesman who became the McDonald brothers' franchise agent and then bought them out (1950 to 2000)
+- Norman Borlaug: plant scientist whose wheat helped poor countries grow far more grain, in the Green Revolution (1950 to 2000)
+- Alice Waters: cook who built her restaurant around food from nearby farms and started a school garden (1950 to 2000)
+- Russel and Mary Jane Jordan: Iowa farm couple who sold their machinery, livestock and household goods at auction to pay their bank (1950 to 2000)
+- Lucas Benitez: tomato picker who helped start the Coalition of Immokalee Workers and its Fair Food Program (2000 to Today)
+- Nephi Craig: White Mountain Apache and Diné (Navajo) chef who opened a café built around Apache foods (2000 to Today)
+
+## Dates
+- About 9,000 years ago: farmers in southern Mexico begin breeding corn from teosinte
+- November 1620: the *Mayflower* men dig up Nauset seed corn at Cornhill, on Cape Cod
+- May 20, 1862: the Homestead Act becomes law
+- June 30, 1906: Theodore Roosevelt signs the Pure Food and Drug Act and the Meat Inspection Act
+- April 14, 1999: Judge Paul L. Friedman approves the *Pigford v. Glickman* settlement for Black farmers
+- May 1539: Hernando de Soto's army lands near Tampa Bay, in Florida
+- 1609 to 1610: the Starving Time at Jamestown
+- 1744: Eliza Lucas makes South Carolina's first successful indigo dye
+- 1796: Amelia Simmons's *American Cookery* is printed in Hartford, Connecticut
+- 1837: John Deere makes a plow of polished steel
+- 1838 to 1839: the Cherokee removal, the Trail of Tears
+- 1887: the Dawes Act
+- May 16, 1939: the first Food Stamp Program begins in Rochester, New York
+- 1942: US officials start the bracero program
+- June 4, 1946: Harry Truman signs the National School Lunch Act
+
+## Places
+- Library of Congress, Prairie Settlement collection (online): 318 of the Oblinger family's letters, written from 1862 to 1911 (the chapter's "Where to go")
+- Nebraska State Historical Society: also keeps the Oblinger family's letters
+- National WWII Museum: Adelaide Wisdom Benjamin's 2013 oral history
+- Walter P. Reuther Library, Wayne State University: the source of the San Joaquin Valley cancer figure
+- Cornhill, Cape Cod, Massachusetts: where the *Mayflower* men dug up Nauset seed corn in November 1620
+- Anhaica, Tallahassee, Florida: the Apalachee town de Soto's army seized in 1539. Archaeologists have found burned corncobs at the site
+- Cahokia, near St. Louis: a Native town where 10,000 to 20,000 people lived around 1100, fed by corn farming
+- Monticello, Virginia: Jefferson's plantation, where enslaved people did the farm work
+- Amoskeag Falls, on the Merrimack River, New Hampshire: Pennacook fishing place where Matthew Patten fished in 1767
+- Walden Pond, New England: one of the ponds where workers cut ice in winter
+- Tule Lake, California: the camp where US officials sent about 15,000 Japanese Americans
+- Chez Panisse, Berkeley, California: Alice Waters's restaurant, opened in 1971
+- The Edible Schoolyard, Martin Luther King Jr. Middle School, Berkeley, California: a school garden where students grow food, cook it and eat it
+- Café Gozhóó, Whiteriver, Arizona, on the White Mountain Apache Reservation: Nephi Craig's café built around Apache foods, opened in 2021
+
+## Movies
+- Squanto: A Warrior's Tale (1994): a feature film that mixes his real story with invented events
+- George Washington Carver: An Uncommon Life (2018): a documentary (Iowa PBS)
+- The Founder (2016): a drama based on Ray Kroc's story and the McDonald brothers'
+- The Man Who Tried to Feed the World (2020): a documentary (PBS American Experience) about Norman Borlaug
+- Alice Waters and Her Delicious Revolution (2003): a documentary (PBS American Masters)
+- Troublesome Creek: A Midwestern (1995): a documentary about the Jordan family. It won the Grand Jury Prize at the Sundance Film Festival and was nominated for an Academy Award
+- Food Chains (2014): a documentary about the Coalition of Immokalee Workers. Lucas Benitez appears in it
+- Gather (2020): a documentary about Native food sovereignty that features Nephi Craig
+
+## Questions
+- Q: How did Native farmers turn a wild grass into corn? A: For thousands of years, starting in southern Mexico about 9,000 years ago, they saved seed only from the teosinte plants they chose, until the grass became corn.
+- Q: Who did the hardest farm work, and what did they get for it? A: Enslaved people worked the rice and cotton fields for no pay, and sharecroppers got half the crop's value or less and stayed in debt. From 1992 to 2006, crop workers died of heat at about 20 times the rate of all American workers.
+- Q: How did Americans come to eat food grown far away by people they never met? A: With canning, pond ice and railroad cars cooled with ice, food could be sold far from the farm, and the farms grew fewer, down to 1.9 million in 2022.
