@@ -315,3 +315,7 @@ rests on Lofaro and O'Malley; big-business unconfirmed PATCHes checked; land-env
 Wounded Knee, Sally, DC count, Baird, 1964-65 laws, Peck/Bergman and Chavez #46 were already closed by
 POLISH-1 or wave B; viewer em dashes and nickname headings fixed (T-658). Still SEARCHED, NOT FOUND: see
 `control/TODO.md` NOW section. Nothing in this queue is open.
+
+## Open from phase 2 (readability edit, 2026-10-27)
+
+- **land-environment bank line 163 (T-688):** the bank states as fact that To Tu Ya's uncle was one of Tenaya's sons (an inference from her being Tenaya's granddaughter). The prose now says neither source links her uncle to the son the guard shot. Polish: narrow the bank line to what the sources say.

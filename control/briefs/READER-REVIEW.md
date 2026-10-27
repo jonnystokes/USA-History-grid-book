@@ -1,9 +1,9 @@
 # READER-REVIEW brief: read part of the finished book as its readers will (model: sonnet)
 
 The dispatch gives you a GROUP name and a list of chapters (or the front and back matter). Read
-them start to finish, in book order, in `build/history-book.md` (the whole book in one Markdown
-file; find your chapters by their `## Chapter N:` headings and read with offset and limit, never
-the whole file at once). You are a reader, not an editor: you change nothing in the manuscript.
+them start to finish, in book order, in `build/review/<GROUP>.md`: your chapters only, cut from the
+whole book for you. Read it with offset and limit, about 300 lines at a time, from the first line to
+the last, skipping nothing. You are a reader, not an editor: you change nothing in the manuscript.
 
 ## Who reads this book
 
