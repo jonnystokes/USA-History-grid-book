@@ -1,0 +1,211 @@
+## Glossary
+
+- coppersmith: a person who makes things out of copper (Before 1500)
+- atom: one of the tiny pieces, far too small to see, that everything is made of (Before 1500)
+- element: a substance made of only one kind of atom (Before 1500)
+- native copper: copper that lies in the rock as pure metal (Before 1500)
+- awl: a thin pointed tool for punching holes (Before 1500)
+- radiocarbon date: an age measured from something that was once alive, such as wood or bone (Before 1500)
+- pendant: an ornament that hangs from a cord (Before 1500)
+- obsidian: a natural glass that forms from volcanic lava (Before 1500)
+- meteorite: a piece of rock or metal from space that has fallen to Earth (Before 1500)
+- smelting: heating rock until the metal inside it melts out (Before 1500)
+- archaeologist: a scientist who digs up and studies what people left behind long ago (Before 1500)
+- Hopewell: a Native way of life in the eastern woodlands from about 2,000 to 1,600 years ago (Before 1500)
+- burial mound: a mound people built over the graves of their dead (Before 1500)
+- ochre: a colored earth that went into paint (Before 1500)
+- iron oxide: a compound of iron and oxygen, which gives ochre its color (Before 1500)
+- compound: two or more elements joined together, such as iron and oxygen in iron oxide or sodium and chlorine in salt (Before 1500)
+- flint and chert: two hard stones made of compounds that contain the element silicon (Before 1500)
+- outpost: a small fort or settlement (The 1500s)
+- alchemy: the older practice that came before chemistry, in which alchemists tried to turn ordinary metals such as lead into gold (The 1500s)
+- ore: rock that contains metal (The 1600s)
+- Powhatan: a union of Native towns in eastern Virginia (The 1600s)
+- undertaker: in the 1600s, a person who took on a business project (The 1600s)
+- bog iron: iron ore that workers collected from swamps and ponds (The 1600s)
+- blast furnace: a tall furnace with air blown into its fire, hot enough to melt iron out of ore (The 1600s)
+- pig iron: the iron that came out of a blast furnace (The 1600s)
+- forge: a workshop where workers heat iron and hammer it (The 1600s)
+- wrought iron: a tougher iron that bends instead of breaking (The 1600s)
+- rolling and slitting mill: a mill where rollers pressed iron flat and blades cut it into strips (The 1600s)
+- indenture: a written agreement that bound a person to work for a master for a set number of years (The 1600s)
+- collier: a man who made charcoal (The 1600s)
+- chemist: a person who studies what substances are made of and how they change (The 1600s)
+- raw iron: iron not yet made into finished goods (1700 to 1750)
+- plantation: a large farm (1700 to 1750)
+- convict: here, a person found guilty of a crime in Britain and shipped across the ocean as punishment (1700 to 1750)
+- Parliament: Great Britain's lawmakers (1700 to 1750)
+- bar iron: iron hammered into bars (1700 to 1750)
+- finished ironware: iron goods ready for use (1700 to 1750)
+- pewter: a gray metal made mostly of tin and used for plates, bowls, mugs and spoons (1700 to 1750)
+- brass: a metal made partly of copper (1700 to 1750)
+- mint: the place where workers make the country's coins (1750 to 1800)
+- eagle: a gold coin made under the Coinage Act (1750 to 1800)
+- Loyalist: a colonist who sided with Britain in the Revolution (1750 to 1800)
+- waggoner: a man who drove wagons (1750 to 1800)
+- DNA: the material in the body's cells that parents pass down to their children (1750 to 1800)
+- burning lens: a glass lens that bends sunlight to one hot point (1750 to 1800)
+- mercuric oxide: a compound of the element mercury and oxygen (1750 to 1800)
+- isolate: to collect a gas apart from everything else (1750 to 1800)
+- carbonated water: water with bubbles of gas in it (1750 to 1800)
+- lottery: a drawing of names by chance (1800 to 1850)
+- treaty: a written agreement between nations (1800 to 1850)
+- band: a group within the Ojibwe nation (1800 to 1850)
+- militia: a part-time army run by a state (1800 to 1850)
+- stockade: a pen fenced with tall wooden posts (1800 to 1850)
+- state geologist: a scientist the state paid to study its rocks (1800 to 1850)
+- vein: a long thin band of metal running through the rock (1800 to 1850)
+- prospector: a person who searches the ground for metal (1800 to 1850)
+- War Department: the part of the government that ran the army (1800 to 1850)
+- galena: a lead ore (1800 to 1850)
+- process: a series of steps for making something, such as Hall's way of making aluminum (1850 to 1900)
+- mercury (quicksilver): a metal and element that stays liquid at room temperature (1850 to 1900)
+- placer miner: a miner who washes gold out of sand and gravel in streams (1850 to 1900)
+- hardrock mine: a mine dug into solid rock (1850 to 1900)
+- vapor: a gas rising off a liquid or a solid (1850 to 1900)
+- methylmercury: the form of mercury that builds up most easily in living bodies and is most poisonous to people (1850 to 1900)
+- felt: a thick cloth of pressed fur (1850 to 1900)
+- carroting: soaking fur in a liquid that contained mercury nitrate so it matted into felt (1850 to 1900)
+- tremor: shaking a person cannot stop (1850 to 1900)
+- hallucination: seeing or hearing things that are not there (1850 to 1900)
+- Danbury shakes: the mercury poisoning of the hatters of Danbury, Connecticut (1850 to 1900)
+- lode: a long, rich band of ore inside the rock (1850 to 1900)
+- periodic table: a chart that arranges the elements in order, with elements that act alike grouped together (1850 to 1900)
+- taking: the legal word for a government taking property that it must pay for (1850 to 1900)
+- interest: here, extra money for every year since 1877 that the Sioux had not been paid (1850 to 1900)
+- foundry: a factory where workers melt metal and pour it into molds (1850 to 1900)
+- patent: a government paper that gives an inventor alone the right to make and sell an invention for a set number of years (1850 to 1900)
+- aluminum oxide: a compound of aluminum and oxygen (1850 to 1900)
+- spectroscope: an instrument that splits light into its colors (1850 to 1900)
+- helium: an element, a gas that does not burn (1900 to 1950)
+- geologist: a scientist who studies rocks (1900 to 1950)
+- federal workers: people who worked for the national government (1900 to 1950)
+- hydrogen: a gas that burns (1900 to 1950)
+- radioactive: having atoms that break apart on their own and give off radiation (1900 to 1950)
+- radiation: energy that shoots out of an atom as it breaks apart, some of it traveling as tiny, fast particles that can damage the living cells of a body (1900 to 1950)
+- alpha radiation: the kind of radiation radium gives off (1900 to 1950)
+- tonic: a drink sellers claimed would make people healthy (1900 to 1950)
+- lip-pointing: drawing a paintbrush between the lips to shape its tip, which made the dial painters swallow radium (1900 to 1950)
+- bone marrow: the soft center of the bones that makes blood cells (1900 to 1950)
+- aplastic anemia: radiation damage to the bone marrow until the marrow stops making blood cells (1900 to 1950)
+- necrosis of the jaw: the jawbone dying and breaking down, which Harrison Martland named "radium jaw" (1900 to 1950)
+- medical examiner: the doctor who looks into sudden and suspicious deaths (1900 to 1950)
+- microgram: a millionth of a gram (1900 to 1950)
+- pension: money paid every year for the rest of a person's life (1900 to 1950)
+- Federal Trade Commission: the federal office whose officials act against companies that cheat or mislead buyers (1900 to 1950)
+- paralysis: being unable to move part of the body (1900 to 1950)
+- gout: painful, swollen joints (1900 to 1950)
+- colic: sharp pains in the belly (1900 to 1950)
+- tetraethyl lead: a liquid made of lead joined with other chemicals, added to gasoline to stop engine knock (workers called it "loony gas") (1900 to 1950)
+- knock: a pinging sound in a gasoline engine (1900 to 1950)
+- refinery: a plant that turns oil into gasoline and other products (1900 to 1950)
+- straitjacket: a coat that pins a person's arms to the body (1900 to 1950)
+- Surgeon General: the official who ran the Public Health Service, the federal office in charge of the nation's health (1900 to 1950)
+- "safe level" theory: the lead industry's claim that lead below a certain amount did no harm (1900 to 1950)
+- International Labour Organization: a world body that sets rules for workplaces (1900 to 1950)
+- workmen's compensation law: a law under which employers pay workers who are hurt or made sick by their jobs (1900 to 1950)
+- union: a group of workers who join together to bargain with their employers (1900 to 1950)
+- arsenic: an element and a strong poison (1900 to 1950)
+- smelter: a plant where workers melt ore to get the metal out (1900 to 1950)
+- smoke easement: a legal right to send a company's smoke over a farm (1900 to 1950)
+- Environmental Protection Agency (EPA): the federal office whose staff work to protect the country's air, water and land (1900 to 1950)
+- uranium: a heavy metal element whose atoms break apart slowly and give off radiation (1900 to 1950)
+- lease: an agreement to use land for a set time in return for payment (1900 to 1950)
+- physicist: a scientist who studies matter and energy (1900 to 1950)
+- cyclotron: a machine that whirls tiny charged particles in a spiral up to high speed (1900 to 1950)
+- technetium: element 43, the first element made by people, named from a Greek word meaning "artificial" (1900 to 1950)
+- antiproton: a tiny particle with the opposite electric charge of the proton, a particle in the center of every atom (1900 to 1950)
+- Atomic Energy Commission (AEC): the federal agency in charge of atomic energy (1900 to 1950)
+- hydrogen bomb: a bomb far more powerful than the first atomic bombs (1950 to 2000)
+- atoll: a ring of small coral islands (1950 to 2000)
+- neutron: a tiny particle in the center of an atom (1950 to 2000)
+- classified: kept secret by government officials (1950 to 2000)
+- Cold War: the long contest between the United States and the Soviet Union (1950 to 2000)
+- diplomacy: the work of officials who handle dealings between countries (1950 to 2000)
+- IUPAC (International Union of Pure and Applied Chemistry): the world organization of chemists whose officials approve element names (1950 to 2000)
+- transfermium: the elements after fermium, element 100 (1950 to 2000)
+- doctorate: the highest university degree (1950 to 2000)
+- nuclear chemist: a chemist who studies atoms that break apart and give off radiation (1950 to 2000)
+- radon: a radioactive gas that uranium atoms turn into when they break apart (1950 to 2000)
+- radon daughters: radioactive specks that radon atoms break apart into, which miners breathed in (1950 to 2000)
+- lung fibrosis: scarring that makes the lungs stiff, so that breathing gets harder (1950 to 2000)
+- ventilation: the fans and shafts that blow fresh air into a mine and push radon out (1950 to 2000)
+- homogeneous population: a group of people who are all alike (1950 to 2000)
+- working level months: a unit that measures how much radon a miner breathed over time (1950 to 2000)
+- Diné: the Navajo people's own name for themselves (1950 to 2000)
+- uranium mill: a plant that takes uranium out of crushed rock (1950 to 2000)
+- tailings: the ground-up rock left behind after the uranium is taken out (1950 to 2000)
+- curie: a unit of radioactivity (1950 to 2000)
+- lead encephalopathy: swelling and damage of the brain caused by lead (1950 to 2000)
+- convulsions: fits of violent shaking a person cannot control (1950 to 2000)
+- National Priorities List: the list of the country's most dangerous waste sites, chosen for cleanup under the federal Superfund program (1950 to 2000)
+- milligram: a thousandth of a gram (2000 to Today)
+- customs officials: officials who check what comes into a country at its border (2000 to Today)
+- purify: to remove everything else from a substance (2000 to Today)
+- U.S. Treasury: the government's money office (2000 to Today)
+- MRI machine: a machine that takes pictures of the inside of the body (2000 to Today)
+- hogan: a traditional Navajo house (2000 to Today)
+- settlement: an agreement to pay money to end a legal fight (2000 to Today)
+- bankruptcy court: the court that handles a company that cannot pay its debts (2000 to Today)
+- emergency manager: an official the governor appointed to run a city in place of its elected leaders (2000 to Today)
+- corrosion control: a treatment that keeps water from eating into pipes (2000 to Today)
+- orthophosphate: a chemical that protects pipes from corrosion (2000 to Today)
+- service line: the pipe that carries water from the main line under the street into a house (2000 to Today)
+- Legionnaires' disease: a lung infection and a kind of pneumonia, caused by bacteria that grow in poorly treated water (2000 to Today)
+- chlorine: the chemical that kills germs in drinking water (2000 to Today)
+- involuntary manslaughter: causing a person's death through carelessness without meaning to kill (2000 to Today)
+- willful neglect of duty: knowingly failing to do one's job (2000 to Today)
+- misconduct in office: breaking the law while doing a government job (2000 to Today)
+- one-judge grand jury: a single judge who decides alone whether to charge someone with a crime (2000 to Today)
+
+## People
+
+- Joseph Priestley: the English chemist credited with discovering oxygen, who spent his last ten years in Pennsylvania (1750 to 1800)
+- Conrad Reed: the 12-year-old who found the first gold in the United States that an expert confirmed was real (1750 to 1800)
+- Charles Martin Hall: the 22-year-old who found the cheap way to make aluminum, in his family's woodshed (1850 to 1900)
+- Julia Brainerd Hall: his older sister, a chemist whose notes helped him win the fight over his patent (1850 to 1900)
+- The Radium Girls: young women, among them Grace Fryer and Catherine Wolfe Donohue, who were poisoned by the radium paint they used on watch dials (1900 to 1950)
+- Ernest Lawrence: the physicist who invented the cyclotron, the machine behind most of the elements discovered in the United States (1900 to 1950)
+- Emilio Segrè: the Italian physicist who stayed in the United States after Mussolini's officials barred Jews from university jobs, and who helped find technetium and astatine (1900 to 1950)
+- Glenn Seaborg: the chemist whose teams found plutonium and nine more elements, and the first person to see an element named for him while he was alive (1900 to 1950)
+- Albert Ghiorso: the builder of instruments who helped discover 12 elements without ever earning a doctorate (1950 to 2000)
+- Darleane Hoffman: the nuclear chemist who found plutonium in ancient rock, proving it occurs in nature (1950 to 2000)
+- Clarice Phelps: the Oak Ridge nuclear chemist and Navy veteran who helped purify the berkelium used to confirm element 117 (2000 to Today)
+
+## Dates
+
+- 1799: Conrad Reed finds a 17-pound gold nugget in North Carolina
+- October 4, 1842: Ojibwe bands give up the Keweenaw copper country in the Treaty of La Pointe
+- June 8, 1928: The New Jersey dial painters sign their settlement with the U.S. Radium Corporation
+- December 14, 1940: Glenn Seaborg's team makes plutonium at Berkeley
+- April 2014: Emergency managers switch Flint's water to the Flint River
+- At least 9,500 years ago: Native miners near Lake Superior begin working copper
+- March 22, 1622: Powhatan fighters destroy the Falling Creek ironworks
+- August 1, 1774: Joseph Priestley isolates oxygen in England
+- April 2, 1792: The Coinage Act becomes law, putting gold, silver and copper in the new coins
+- 1838: Soldiers under General Winfield Scott force the Cherokee west on the Trail of Tears
+- February 23, 1886: Charles Martin Hall makes aluminum in his family's woodshed in Oberlin, Ohio
+- July 16, 1979: A uranium waste dam breaks near Church Rock, New Mexico
+- October 15, 1990: President George H. W. Bush signs the Radiation Exposure Compensation Act
+- January 1, 1996: The ban on leaded gasoline for cars and trucks takes effect
+- November 28, 2016: Names are announced for elements 113, 115, 117 and 118
+
+## Places
+
+- Saugus Iron Works National Historic Site, Saugus, Massachusetts: the site of the Hammersmith ironworks, which ran from the 1640s until about 1670
+- Smithsonian, Washington, D.C.: the Ontonagon Boulder, a 3,708-pound lump of pure copper sacred to the Ojibwe, held there since 1860
+- Priestley's house, Northumberland, Pennsylvania: Joseph Priestley's house, finished in 1798, where American chemists met in 1874, now a National Historic Landmark
+- Room 307, Gilman Hall, Berkeley, California: the room where plutonium was proved a new element, now a National Historic Landmark
+- Mount Clare Museum House, Baltimore, Maryland: the museum whose staff record the enslaved workers of the Baltimore Iron Works
+- Catoctin Furnace, Maryland: the furnace the Johnson brothers built and the cemetery of its African American workers, with burials from 1774
+- Washington Monument, Washington, D.C.: the aluminum pyramid on its top, set in place on December 6, 1884
+
+## Movies
+
+- None: no story box in this chapter has a Movie line
+
+## Questions
+
+- Q: Who lost their land when Americans found gold and copper on it? A: The Cherokee lost theirs after gold turned up in Georgia in 1829, when Georgia lawmakers gave it away by lottery and soldiers forced them west in 1838. The Ojibwe bands of Lake Superior gave up the copper country in the Treaty of La Pointe in 1842, and members of Congress took the Black Hills from the Sioux in 1877, after Custer's men found gold there.
+- Q: What did the people in charge say about the radium, lead and uranium that poisoned workers? A: Supervisors told the dial painters the paint was safe, the Bayway supervisor said his poisoned men had worked too hard, and Thomas Midgley breathed the vapor of tetraethyl lead in front of reporters to show it was safe. Public Health Service researchers agreed with mine owners not to tell the uranium miners what they found.
+- Q: When did someone in the United States first discover a new element? A: In 1940, at Berkeley, California, when teams using Ernest Lawrence's cyclotron made astatine and neptunium, and then plutonium. Every element before that had been found abroad, and Fred Allison's 1931 claims were false.

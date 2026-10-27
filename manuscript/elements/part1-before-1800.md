@@ -13,34 +13,52 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-time:start id="before-1500" order="01" chapter="elements" label="Before 1500" state="full" progress="written" -->
 ## Before 1500
 
-<!-- hb-zoom level="era" -->
-Native miners near Lake Superior were digging and shaping copper at least 9,500 years ago. A 2021 study places them among the first coppersmiths in the world. A coppersmith is a person who makes things out of copper. All the land that later became the United States was Native land before 1500, and no miner or metalworker from these thousands of years is known by name.
+<!-- hb-zoom level="era" label="Chapter opening" -->
+**Chapter 13 of 37 · The Elements · 10 eras · about 85 minutes**
 
-Copper is one of the chemical elements. Everything is made of tiny pieces called atoms, far too small to see. An element is a substance made of only one kind of atom. Copper, iron, gold and silver are all elements. Nobody anywhere on Earth yet knew what a chemical element was. People here mined copper, gathered salt and colored earth, and chose hard stone for tools. In some regions they also worked iron that had fallen from space. They turned these materials into tools, beads, ornaments and paint.
+**From the first ironworks to the uranium mines, the people whose land held the metal, or who dug and handled it, often paid for it with that land, their freedom or their health.**
+
+A lump of pure copper that weighs 3,708 pounds has been at the Smithsonian, in Washington, since 1860. It once lay in the Ontonagon River country near Lake Superior. The Ojibwe had known it for a long time, held it sacred and made offerings at it. In 1843 a Detroit merchant hauled it away, and a federal agent made him hand it over to the government. The Keweenaw Bay Indian Community asked for it back in 1991, and Smithsonian officials refused in 2000.
+
+This chapter follows the elements people here dug up, shaped, named and made, from copper hammered 9,500 years ago to the hunt for element 120. The gold, copper and uranium in this chapter lay under Cherokee, Ojibwe, Sioux and Navajo land, so watch what happened to the people who lived there. Watch, too, who did the work with the metal: Scottish prisoners, enslaved ironworkers, hatters, dial painters, men making a lead additive for gasoline, and uranium miners. Nobody in the United States discovered a new element until 1940. Between 1940 and 1974, teams in American labs made or found at least twelve.
+
+**Three questions this chapter answers**
+- Who lost their land when Americans found gold and copper on it?
+- What did the people in charge say about the radium, lead and uranium that poisoned workers?
+- When did someone in the United States first discover a new element?
+
+**Five minutes?** Read "Lead in gasoline and paint" in 1900 to 1950.
+**Can skip:** "Meanwhile in Europe", "Lead at Galena", "Silver, copper and a table from Russia", "Elements at home". The chapter still makes sense without them.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" -->
+**Era 1 of 10 · Before 1500 · about 3 minutes**
+
+Native miners near Lake Superior were digging and shaping copper at least 9,500 years ago. A 2021 study places them among the world's first coppersmiths, people who make things out of copper. All the land that later became the United States was Native land before 1500. No miner or metalworker from these thousands of years is known by name.
+
+Copper is one of the chemical elements. Everything is made of atoms, tiny pieces far too small to see, and an element is a substance made of only one kind of atom. Copper, iron, gold and silver are all elements. Nobody anywhere on Earth yet knew what an element was. People here mined copper, gathered salt and colored earth, and chose hard stone for tools. In some regions they also worked iron that had fallen from space. They turned these materials into tools, beads, ornaments and paint.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Copper from Lake Superior" -->
-Copper that lies in the ground as pure metal is called native copper. The Lake Superior country, in what are now Michigan, Wisconsin and Minnesota, has veins of it running through the rock. Native miners dug out this copper and hammered it into spear points, knives, fishhooks and ornaments. They also made awls, which are thin, pointed tools for punching holes.
+In the Lake Superior country, in what are now Michigan, Wisconsin and Minnesota, veins of pure copper metal, called native copper, run through the rock. Native miners dug it out and hammered it into spear points, knives, fishhooks and ornaments. They also made awls, thin pointed tools for punching holes.
 
-In 2021 a team led by the geologist David Pompeani published new dates for this copper work in a journal called *Radiocarbon*. A journal is a magazine where scientists publish their studies. A geologist is a scientist who studies rocks and the Earth. Radiocarbon dating is a way to measure the age of things that were once alive, such as wood or bone. The team used 53 radiocarbon dates. They found that the copper work began at least 9,500 years ago, which is about 3,500 years earlier than scientists had thought. The work was busiest between about 7,000 and 5,000 years ago.
+**How old the work is.** David Pompeani, a scientist who studies rocks and the Earth, led a team that dated the copper work. They used 53 radiocarbon dates, ages measured from things that were once alive, such as wood or bone. The team published its results in 2021 in *Radiocarbon*, a magazine for scientists' studies. The copper work began at least 9,500 years ago, about 3,500 years earlier than scientists had thought. It was busiest between about 7,000 and 5,000 years ago.
 
-The oldest known copper work in the Middle East is a pendant about 8,700 years old. A pendant is an ornament that hangs from a cord. So the Lake Superior copper work is as old as the earliest known copper work in the Middle East, or older. Writers at the journal *Science* reported the 2021 study under the headline "Ancient Native Americans were among the world's first coppersmiths."
+The oldest known copper work in the Middle East is a pendant, an ornament that hangs from a cord, about 8,700 years old. So the Lake Superior work is as old as the earliest copper work known in the Middle East, or older. Writers at the journal *Science* reported the study under the headline "Ancient Native Americans were among the world's first coppersmiths."
 
-Traders carried Lake Superior copper hundreds of miles along Native trade routes. On the same routes they also carried turquoise, shells and obsidian. Turquoise is a blue-green stone. Obsidian is a natural glass that forms from the lava of volcanoes.
+Traders carried Lake Superior copper hundreds of miles along Native trade routes. Along the same routes they carried shells, blue-green turquoise stone, and obsidian, a natural glass that forms from volcanic lava.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Iron from space" -->
-Before 1500, the only iron metal that people here could work came from meteorites. A meteorite is a piece of rock or metal from space that has fallen to Earth. Nobody here got iron out of rock by smelting yet. Smelting means heating rock until the metal inside it melts out.
+The only iron metal people here could work before 1500 came from meteorites, pieces of rock or metal from space that have fallen to Earth. Nobody here yet got iron out of rock by smelting, which means heating rock until the metal inside it melts out.
 
-In 1945, archaeologists dug 22 iron beads out of Hopewell burial mounds near Havana, Illinois. Archaeologists are scientists who dig up and study the things people left behind long ago. Hopewell is the name for a Native way of life in the woodlands of eastern North America from about 2,000 to 1,600 years ago. A burial mound is a hill of earth that people built over the graves of their dead. People made the beads about 2,000 years ago. In 2017, Timothy McCoy of the Smithsonian and four other scientists published a study of the beads in the *Journal of Archaeological Science*. They found that the iron came from the Anoka meteorite, an iron meteorite from Minnesota.
+**The beads from Havana.** Archaeologists, the scientists who dig up and study what people left behind long ago, found 22 iron beads in 1945 in burial mounds near Havana, Illinois. Native people of the Hopewell way of life, which lasted in the eastern woodlands from about 2,000 to 1,600 years ago, had built the mounds over the graves of their dead. They made the beads about 2,000 years ago.
 
-That means people had carried or traded the metal several hundred miles before anyone made it into beads. The beadmakers shaped the iron by hammering it. They used the same hammering skills that people used on copper.
+Timothy McCoy of the Smithsonian and four other scientists studied the beads and published their findings in 2017. The iron came from the Anoka meteorite, an iron meteorite from Minnesota. So people had carried or traded the metal several hundred miles before anyone made it into beads. The beadmakers shaped the iron by hammering it, the same way people worked copper.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Gold, silver, ochre, salt and stone" -->
-In some regions, metalworkers made ornaments of gold and silver. Red and yellow ochre, a colored earth, went into paint. The color of ochre comes from iron oxides. An iron oxide is a compound of iron and oxygen. A compound is a substance made of two or more elements joined together.
-
-People gathered salt and traded it. Salt is a compound of two elements, sodium and chlorine. They made tools of flint and chert, two hard stones. Both are made of compounds that contain the element silicon.
+In some regions, metalworkers made ornaments of gold and silver. Red and yellow ochre, a colored earth, went into paint. Ochre gets its color from iron oxide, a compound of two elements, iron and oxygen, joined together. People gathered salt, a compound of sodium and chlorine, and traded it. They made tools of flint and chert, two hard stones made of compounds that contain the element silicon.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -48,13 +66,15 @@ People gathered salt and traded it. Salt is a compound of two elements, sodium a
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-In the 1500s, Spanish expeditions came looking for gold and silver. An expedition is a long journey made by a group of people for a purpose. The Spaniards found no cities of gold in the lands that later became the United States. The land was still Native land from coast to coast. People here worked the same copper, gold and meteorite iron as before. Spaniards brought some metal of their own into their few outposts, the small forts and settlements they built.
+**Era 2 of 10 · The 1500s · about 1 minute**
+
+Spanish explorers crossed the Southeast and the Southwest in the 1500s on long journeys called expeditions, looking for gold and silver. They found no cities of gold in the lands that later became the United States. The land was still Native land from coast to coast, and people here worked the same copper, gold and meteorite iron as before. The Spaniards brought some metal of their own into their few outposts, the small forts and settlements they built.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Spanish gold hunters, 1539 to 1543" -->
-Hernando de Soto led a Spanish expedition across the Southeast from 1539 to 1543. Francisco Vázquez de Coronado led another across the Southwest from 1540 to 1542. Both men were following stories of cities full of gold. Neither man found one.
+Hernando de Soto led a Spanish expedition across the Southeast from 1539 to 1543. Francisco Vázquez de Coronado led another across the Southwest from 1540 to 1542. Both men were following stories of cities full of gold, and neither found one. In the same century Spaniards did find large amounts of silver, but in Mexico and South America, not in the future United States.
 
-In the same century, Spaniards found large amounts of silver in Mexico and South America, not in the future United States. Nobody here or anywhere else yet had a science of elements. In Europe, the modern idea of an element had not been written down. People there who studied what things are made of still worked by alchemy, the older practice that came before chemistry. Alchemists tried to turn ordinary metals, such as lead, into gold by heating them and trying to make them purer. They kept most of their methods secret.
+**No science of elements yet.** Nobody here or anywhere else had a science of elements. In Europe, the modern idea of an element had not been written down. People there who studied what things are made of still worked by alchemy, the older practice that came before chemistry. Alchemists tried to turn ordinary metals, such as lead, into gold by heating them and trying to make them purer. They kept most of their methods secret.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -62,39 +82,47 @@ In the same century, Spaniards found large amounts of silver in Mexico and South
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-English colonists built ironworks in Virginia and Massachusetts in the 1600s. An ironworks is a place where workers make iron out of ore, which is rock that contains a metal. Fighters of the Powhatan, a union of Native towns in eastern Virginia, destroyed the Virginia works in 1622. Building at Saugus, in Massachusetts, began in 1646, and the works there ran until about 1670. Scottish prisoners of war did forced labor at Saugus. People in Europe, Asia and Africa had already been smelting iron for thousands of years.
+**Era 3 of 10 · The 1600s · about 5 minutes**
+
+The first ironworks English colonists built here stood on the land of the Powhatan, a union of Native towns in eastern Virginia, and Powhatan fighters destroyed it in 1622. At the second, at Saugus in Massachusetts, workers melted iron out of ore, rock that contains metal, from 1647 until about 1670. The company's men forced Scottish prisoners of war to work there. People in Europe, Asia and Africa had been smelting iron for thousands of years already.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Falling Creek, 1619 to 1622" -->
-In 1619, English colonists began building an ironworks on Falling Creek, near present-day Richmond. They built it for the Virginia Company, the English business that King James I had allowed in 1606 to start a colony in Virginia. By March 1622 the furnace was ready to make iron, or close to it.
+English colonists began building an ironworks on Falling Creek, near present-day Richmond, in 1619. They built it for the Virginia Company, the English company that King James I had allowed to start a colony in Virginia in 1606. By March 1622 the furnace was ready to make iron, or close to it.
 
-Opechancanough was the head chief of the Powhatan, a union of Native towns and nations in eastern Virginia. The English colony stood on Powhatan land. English colonists had been moving farther up the James River and settling more of that land. From 1618, Virginia Company officials gave land to new colonists, who planted it in tobacco. By 1620 colonists were taking the land they wanted from the Powhatan without asking or paying, according to the historian Betty Wood. Company officials, George Thorpe most of all, also pressed the Powhatan to send their children to live among the English. The English wanted to school the children and make them Christian.
+Opechancanough was the head chief of the Powhatan. The English colony stood on Powhatan land, and English colonists had been moving farther up the James River and settling more of it. From 1618, Virginia Company officials gave land to new colonists, who planted it in tobacco. By 1620 colonists were taking the land they wanted from the Powhatan without asking or paying, according to the historian Betty Wood.
 
-Opechancanough planned attacks on many parts of the colony to drive the English out for good. On March 22, 1622, Powhatan fighters destroyed the ironworks at Falling Creek and killed twenty-seven people there. The colonists never managed to rebuild the works.
+Company officials, George Thorpe most of all, also pressed the Powhatan to send their children to live among the English. The English wanted to school the children and make them Christian. Opechancanough planned attacks on many parts of the colony to drive the English out for good.
+
+**The attack.** Powhatan fighters destroyed the ironworks at Falling Creek on March 22, 1622, and killed 27 people there. The colonists never managed to rebuild the works.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hammersmith at Saugus" -->
-In 1646 Richard Leader began building an ironworks on the Saugus River near Boston. He worked for the Company of Undertakers of the Iron Works in New England. In the 1600s, an undertaker meant a person who took on a business project. People called the works Hammersmith. Its furnace was running by the next year.
+Richard Leader began building an ironworks on the Saugus River near Boston in 1646. He worked for the Company of Undertakers of the Iron Works in New England, and in the 1600s an undertaker meant a person who took on a business project. People called the works Hammersmith. Its furnace was running by the next year.
 
-Hammersmith was the first ironworks in North America where every stage of the work happened on one site. A blast furnace is a tall furnace with air blown into its fire, which makes it hot enough to melt iron out of ore. The iron that came out of it was called pig iron. A forge is a workshop where workers heat iron and hammer it. At the Saugus forge, workers hammered pig iron into wrought iron, a tougher iron that bends instead of breaking. The rolling and slitting mill had rollers that pressed the iron flat and blades that cut it into strips. The strips were the raw material for nails, tools and horseshoes. Seven waterwheels powered the machines.
+**From ore to iron.** Hammersmith was the first ironworks in North America where every stage of the work happened on one site. The ore was bog iron, which workers collected from swamps and ponds. A blast furnace, a tall furnace with air blown into its fire, got hot enough to melt the iron out of the ore. The iron that came out of it was called pig iron.
 
-The ore was bog iron. Workers collected it from swamps and ponds. The works ran until about 1668 to 1670. The site is now Saugus Iron Works National Historic Site.
+At the forge, a workshop where workers heat iron and hammer it, they turned pig iron into wrought iron, a tougher iron that bends instead of breaking. In the rolling and slitting mill, rollers pressed the iron flat and blades cut it into strips. The strips were the raw material for nails, tools and horseshoes. Seven waterwheels powered the machines.
+
+The works ran until about 1668 to 1670. The site is now Saugus Iron Works National Historic Site. Chapter 8 tells more about both ironworks and the people who built and ran them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Scottish prisoners at Saugus" -->
 Scottish prisoners of war did forced labor at Saugus. English soldiers under Oliver Cromwell took these Scottish soldiers prisoner at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. About 400 prisoners from the two battles reached New England in all, according to the National Park Service. The prisoners had no choice about going or about the work.
 
-English soldiers led by Oliver Cromwell won the Battle of Dunbar in September 1650. Cromwell let more than 5,000 of the Scottish prisoners go. He marched about 3,900 of the fittest south to the English city of Durham. On the march their English captors gave the Scots no food and no shelter. The captors killed some of the prisoners for refusing to keep walking. At Durham the English locked the prisoners in the city's cathedral, a large church that was not in use at the time.
+**The march to Durham.** Cromwell's soldiers won the Battle of Dunbar in September 1650. Cromwell let more than 5,000 of the Scottish prisoners go and marched about 3,900 of the fittest south to the English city of Durham. Their English captors gave them no food and no shelter on the march, and killed some of them for refusing to keep walking. At Durham the English locked the prisoners in the city's cathedral, a large church that was not in use at the time.
 
-A group of English leaders called the Council of State decided to send most of the prisoners to the colonies. In November 1650 they ordered Sir Arthur Haselrig, the governor at Newcastle, to hand over 150 Dunbar prisoners. The prisoners went to agents of John Becx and Joshua Foote. Becx and Foote were two of the main investors in the Company of Undertakers, which had built the Saugus works. The prisoners sailed from England on a ship called the *Unity* and reached Boston in December 1650. The records do not show how many died on the voyage.
+A group of English leaders called the Council of State decided to send most of the prisoners to the colonies. In November 1650 they ordered the governor at Newcastle to hand over 150 Dunbar prisoners to agents of John Becx and Joshua Foote, two of the main investors in the Company of Undertakers. The prisoners sailed from England on a ship called the *Unity* and reached Boston in December 1650. The records do not show how many died on the voyage.
 
-The men running the Company of Undertakers kept 62 of the prisoners for the ironworks, according to the historian Marsha Hamilton. They sent 36 to Saugus and 17 to a Boston warehouse run by William Aubrey, a manager for the company. Hamilton does not say where the other nine of the 62 went. The company's men sold the rest of the prisoners to farmers, merchants and other mills.
+The men running the company kept 62 of the prisoners for the ironworks, according to the historian Marsha Hamilton. They sent 36 to Saugus and 17 to a Boston warehouse run by a company manager. Hamilton does not say where the other nine went. The company's men sold the rest of the prisoners to farmers, merchants and other mills.
 
-The men running the company forced many of the Scots to work five to seven years under indentures at the Saugus ironworks. An indenture was a written agreement that bound a person to work for a master for a set number of years. These men had no say in theirs. They had to work to pay back the cost of their voyage, food, shelter, care and clothing. National Park Service staff give the term at Saugus as seven years. There, most of the Scots cut wood, made charcoal or did heavy work that needed no special skill. The charcoal makers were called colliers. Other prisoners did hard and dangerous forced labor elsewhere in Massachusetts and in New Hampshire and Maine, for the farmers, merchants and mill owners who bought them.
+**Bound to work.** The company's men forced many of the Scots to work five to seven years at Saugus under indentures, written agreements that bound a person to work for a master for a set number of years. These men had no say in theirs. They had to work to pay back the cost of their voyage, food, shelter, care and clothing. National Park Service staff give the term at Saugus as seven years.
+
+Most of the Scots at Saugus cut wood, worked as colliers, the men who made charcoal, or did heavy work that needed no special skill. Other prisoners did hard and dangerous forced labor elsewhere in Massachusetts and in New Hampshire and Maine, for the farmers, merchants and mill owners who bought them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Meanwhile in Europe" -->
-Chemistry is the science of what substances are made of and how they change. In Europe in the 1600s, chemists began to separate their work from alchemy. Robert Boyle published his book *The Sceptical Chymist* in 1661, and the book is one sign of that split. Every element discovery of this century happened in Europe. Phosphorus was found in the city of Hamburg in 1669.
+Chemists in Europe, people who study what substances are made of and how they change, began to separate their work from alchemy in the 1600s. Robert Boyle's book *The Sceptical Chymist* ("chymist" is an old spelling of chemist), published in 1661, is one sign of that split. Every element discovered in this century was found in Europe. Phosphorus, for one, was found in the city of Hamburg in 1669.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -102,23 +130,27 @@ Chemistry is the science of what substances are made of and how they change. In 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-By about 1750, colonists were shipping raw iron from their own furnaces to Britain. Raw iron meant iron not yet made into finished goods. Colonists had built ironworks in New England, Pennsylvania, Maryland, Virginia and New Jersey. The owners of many ironworks forced enslaved people to do much of the labor. Nobody discovered an element anywhere in the Americas in these years, and element science still happened only in Europe.
+**Era 4 of 10 · 1700 to 1750 · about 3 minutes**
+
+At many of the iron furnaces colonists built between 1700 and 1750, the owners forced enslaved people to do much of the work. Colonists had built ironworks in New England, Pennsylvania, Maryland, Virginia and New Jersey. By about 1750 they were shipping raw iron, iron not yet made into finished goods, from their own furnaces to Britain. Nobody discovered an element anywhere in the Americas in these years, and element science still happened only in Europe.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved and indentured ironworkers" -->
-Owners held enslaved people as property and forced them to work without pay. Five rich Maryland planters, owners of large farms called plantations, founded the Baltimore Iron Works in 1731. They were Dr. Charles Carroll, his cousins Charles and Daniel Carroll, Daniel Dulany and Benjamin Tasker. The partners put up money and supplied enslaved workers. The works opened with 89 workers, and 42 of them were enslaved, according to the staff of the Mount Clare Museum House in Baltimore.
+British investors set up the Principio Company in Maryland in 1719. Its furnace began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs.
 
-Workers at the Baltimore furnace hauled cartloads of charcoal, oyster shells and iron ore to its top in 12-hour shifts. The furnace ran day and night, six or seven days a week. Many of the workers were enslaved people. Others were convicts, people found guilty of crimes in Britain and shipped across the ocean as punishment. The owners did not give the workers enough food, according to the museum. Some enslaved and convict workers ran away, and others worked slowly or carelessly on purpose.
+The owners fed their enslaved and indentured workers mostly corn and salt pork. Some of these workers tried to escape. Historians at the University of Maryland and the Maryland Historical Trust, who surveyed the state's old industries, wrote that escape attempts were "not uncommon."
 
-British investors set up the Principio Company in Maryland in 1719. Its Principio Furnace began with workers who were mostly indentured servants from Britain. By the middle of the 1700s, more of the workers there were enslaved African Americans, many of them in skilled jobs. Principio's owners gave their enslaved and indentured workers mostly corn and salt pork to eat. Some of these workers tried to escape. Historians at the University of Maryland and the Maryland Historical Trust surveyed the state's old industries. They wrote that escape attempts were "not uncommon."
+**The Baltimore Iron Works.** Five rich Maryland planters, owners of large farms called plantations, founded the Baltimore Iron Works in 1731. They were Dr. Charles Carroll, his cousins Charles and Daniel Carroll, Daniel Dulany and Benjamin Tasker. The partners put up money and supplied enslaved people, whom they held as property and forced to work without pay. The works opened with 89 workers, and 42 of them were enslaved, according to the staff of the Mount Clare Museum House in Baltimore.
+
+Workers hauled cartloads of charcoal, oyster shells and iron ore to the top of the furnace in 12-hour shifts. The furnace ran day and night, six or seven days a week. Many of the workers were enslaved people. Others were convicts, people found guilty of crimes in Britain and shipped across the ocean as punishment. The owners did not give the workers enough food, according to the museum. Some enslaved and convict workers ran away, and others worked slowly or carelessly on purpose.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Iron Act of 1750" -->
-Parliament was the lawmaking body of Great Britain. In 1750 its members passed the Iron Act. They wrote it to encourage colonists to keep making raw iron and sending it to Britain. Raw iron meant pig iron and bar iron, which is iron hammered into bars. The act also stated that colonists could not build new mills to make finished ironware, meaning iron goods ready for use. The members of Parliament wanted that business kept in Britain.
+Members of Parliament, Great Britain's lawmakers, passed the Iron Act in 1750. They wrote it to keep colonists making pig iron and bar iron, iron hammered into bars, and sending it to Britain. The act also stated that colonists could not build new mills to make finished ironware, iron goods ready for use. The members of Parliament wanted that business kept in Britain.
 
 Colonists ignored the ban. After 1750 they built more than sixty new ironworks, about twenty of them in Pennsylvania. By the American Revolution, colonists made more iron than people in England and Wales did. By a common ranking, the colonies were third in the world for iron.
 
-Other elements turned up in colonial homes every day. Lead went into gunshot and into pewter, a gray metal made mostly of tin and used for plates, bowls, mugs and spoons. Kettles and buttons were made of copper or of brass, a metal made partly of copper. Silver and gold arrived in the colonies as Spanish coins.
+**At home.** Colonists used other elements every day. Lead went into gunshot and into pewter, a gray metal made mostly of tin and used for plates, bowls, mugs and spoons. Kettles and buttons were made of copper or of brass, a metal made partly of copper. Silver and gold arrived in the colonies as Spanish coins.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -126,23 +158,27 @@ Other elements turned up in colonial homes every day. Lead went into gunshot and
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-Between 1750 and 1800, chemists in Europe turned chemistry into a modern science. Among them were the Swedish chemist Carl Wilhelm Scheele and the French chemist Antoine Lavoisier. They worked out what an element is and found new ones. Nobody in the United States discovered an element in these years. Americans used elements in their coins and dug ores out of the ground.
+**Era 5 of 10 · 1750 to 1800 · about 5 minutes**
 
-Joseph Priestley collected the gas oxygen on its own in England in 1774 and moved to Pennsylvania twenty years later. In Maryland, owners of iron furnaces held hundreds of Black people in slavery. In North Carolina in 1799, a 12-year-old boy found the first gold in the United States that an expert confirmed was real.
+Chemists in Europe turned chemistry into a modern science in the second half of the 1700s. Among them were Carl Wilhelm Scheele in Sweden and Antoine Lavoisier in France, who worked out what an element is and found new ones. Nobody in the United States discovered an element in these years. Americans put elements into their coins and dug ores out of the ground.
+
+Joseph Priestley, one of those chemists, collected oxygen in England in 1774 and moved to Pennsylvania twenty years later. Meanwhile owners of iron furnaces in Maryland held hundreds of Black people in slavery. And in North Carolina in 1799, a 12-year-old boy found the first gold in the United States that an expert confirmed was real.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three elements in the new coins" -->
-A mint is a place where workers make coins. Lawmakers in Congress passed the Coinage Act, and it became law on April 2, 1792. Under it, government officials set up the United States Mint. The act also stated that the new country's coins would be made of three elements. Gold went into coins called eagles, silver into dollars and smaller coins, and copper into cents.
+Lawmakers in Congress passed the Coinage Act, and it became law on April 2, 1792. Under it, government officials set up the United States Mint, where workers make the country's coins. The act also stated that the coins would be made of three elements: gold for coins called eagles, silver for dollars and smaller coins, and copper for cents.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved ironworkers in Maryland" -->
-After the Revolution, Maryland officials took a one-fifth share of the Baltimore Iron Works from Daniel Dulany, a Loyalist. A Loyalist was a colonist who sided with Britain in the war. In 1785 they offered the share for sale in a newspaper advertisement, in the *Maryland Gazette*. The advertisement listed more than 200 enslaved Black people at the works, according to the Mount Clare Museum House. Their owners made them work without pay.
+After the Revolution, Maryland officials took a one-fifth share of the Baltimore Iron Works from Daniel Dulany, who had sided with Britain in the war as a Loyalist. They offered the share for sale in 1785 in an advertisement in the *Maryland Gazette*, a newspaper. The advertisement listed more than 200 enslaved Black people at the works, according to the Mount Clare Museum House. Their owners made them work without pay.
 
-Four brothers, Thomas, James, Baker and Roger Johnson, built Catoctin Furnace in Maryland. It was making iron by 1776. Thomas Johnson later became the first governor of the state of Maryland. In 1803 Baker Johnson became the only owner. A Johnson owner enslaved more than 80 people at the furnace, according to the Catoctin Furnace Historical Society, which names him only as "Johnson." The society names some of the enslaved men, among them Collier Sam, Waggoner's Henry and Harvey. A collier made charcoal, and a waggoner drove wagons.
+**Catoctin Furnace.** Four brothers, Thomas, James, Baker and Roger Johnson, built Catoctin Furnace in Maryland, and it was making iron by 1776. Thomas Johnson later became the first governor of the state of Maryland. In 1803 Baker Johnson became the only owner.
+
+A Johnson owner enslaved more than 80 people at the furnace, according to the Catoctin Furnace Historical Society, which names him only as "Johnson." The society names some of the enslaved men, among them Collier Sam, Waggoner's Henry and Harvey. A collier made charcoal, and a waggoner drove wagons.
 
 At least 271 enslaved people and an unknown number of free African Americans worked at Catoctin, according to a 2023 study in the journal *Science*. They mined ore, made charcoal, worked the forge, filled the furnace, drove wagons and cut wood. Others worked in the owners' houses and fields. The furnace had a cemetery for its African American workers, with burials from 1774. Between about 1825 and 1850, the owners switched to paid workers, most of them white.
 
-On August 4, 2023, a team of scientists published a study in the journal *Science*. Three of them planned and led the work. They were David Reich of Harvard Medical School, Douglas Owsley of the Smithsonian and Joanna Mountain of the company 23andMe. They studied the DNA of 27 people buried in the Catoctin cemetery. DNA is the material inside the body's cells that parents pass down to their children. The team linked the 27 people to nearly 42,000 living relatives.
+**The cemetery.** The same study traced the DNA, the material in the body's cells that parents pass down to their children, of 27 people buried in the Catoctin cemetery. Scientists from Harvard Medical School, the Smithsonian and the company 23andMe planned and led the work, and they published it on August 4, 2023. They linked the 27 people to nearly 42,000 living relatives.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="joseph-priestley" name="Joseph Priestley" movie="" kind="famous" status="verified" -->
@@ -151,15 +187,15 @@ On August 4, 2023, a team of scientists published a study in the journal *Scienc
 > **Who:** The English chemist credited with discovering oxygen, who spent his last ten years as an immigrant in Pennsylvania.
 > **When and where:** Isolated oxygen on August 1, 1774, in England. Moved to America in 1794. Lived in Northumberland, Pennsylvania, until his death on February 6, 1804.
 
-On August 1, 1774, Joseph Priestley heated a substance called mercuric oxide with a burning lens. Mercuric oxide is a compound of the element mercury and oxygen. A burning lens is a glass lens that bends sunlight to one hot point. Priestley isolated a gas from the mercuric oxide, which means he collected it apart from everything else. The gas was later named oxygen.
+**Priestley pointed sunlight through a lens and caught a new gas.**
 
-Carl Wilhelm Scheele, in Sweden, had found the same gas earlier than Priestley did. Scheele published his work later. The French chemist Antoine Lavoisier gave oxygen its name.
+He did it in England on August 1, 1774. With a burning lens, a glass lens that bends sunlight to one hot point, he heated mercuric oxide, a compound of the element mercury and oxygen. He isolated a gas from it, which means he collected the gas apart from everything else. The gas was later named oxygen.
 
-Priestley invented carbonated water in Leeds in 1767. Carbonated water is water with bubbles of gas in it. In 1770 he gave rubber its English name, because he found it was good for rubbing out pencil marks.
+Carl Wilhelm Scheele, in Sweden, had found the same gas earlier but published his work later. The French chemist Antoine Lavoisier gave oxygen its name. Priestley had already invented carbonated water, water with bubbles of gas in it, in Leeds in 1767. In 1770 he gave rubber its English name, because he found it was good for rubbing out pencil marks.
 
-Priestley was also a minister, a leader of a church. He preached outside the official Church of England, and many people in Birmingham, England, turned against him for his views on religion. In 1791 a mob there burned his home and his laboratory. In 1794 he left England for Pennsylvania and settled in Northumberland, where his house was finished in 1798. There he built what was then the best chemistry laboratory in the United States and identified the gas carbon monoxide. The University of Pennsylvania offered him a job as a professor, and he turned it down. Priestley died in Northumberland in 1804.
+**A mob, then Pennsylvania.** Priestley was also a minister, a leader of a church, and he preached outside the official Church of England. Many people in Birmingham, England, turned against him for his views on religion, and in 1791 a mob there burned his home and his laboratory. In 1794 he left England for Pennsylvania and settled in Northumberland, where his house was finished in 1798.
 
-American chemists met at his house in 1874, one hundred years after he isolated oxygen. That meeting was a step toward the founding of the American Chemical Society in 1876. The house is now a National Historic Landmark.
+There he built what was then the best chemistry laboratory in the United States and identified the gas carbon monoxide. He turned down a job as a professor at the University of Pennsylvania. Priestley died in Northumberland in 1804. American chemists met at his house in 1874, one hundred years after he isolated oxygen, and that meeting was a step toward the founding of the American Chemical Society in 1876. The house is now a National Historic Landmark.
 <!-- hb-story:end slug="joseph-priestley" -->
 
 <!-- hb-story:start slug="conrad-reed" name="Conrad Reed" movie="" kind="ordinary" status="verified" -->
@@ -168,10 +204,12 @@ American chemists met at his house in 1874, one hundred years after he isolated 
 > **Who:** A 12-year-old farm boy who found the first gold in the United States that an expert confirmed was real.
 > **When and where:** 1799, Little Meadow Creek, Cabarrus County, North Carolina.
 
-In 1799 Conrad Reed pulled a heavy yellow rock out of Little Meadow Creek. The creek ran through the farm of his father, John Reed, in Cabarrus County, North Carolina. The rock was a gold nugget that weighed 17 pounds. A nugget is a lump of metal found in the ground.
+**The Reeds used a 17-pound gold nugget to hold a door open.**
 
-The family did not know the rock was gold. They used it to hold a door open for about three years. In 1802 a jeweler identified it as gold. The jeweler bought it from John Reed for $3.50, about a week's wages. It was worth about $3,600 at the time.
+Conrad Reed pulled a heavy yellow rock out of Little Meadow Creek in 1799. The creek ran through the farm of his father, John Reed, in Cabarrus County, North Carolina. The rock was a gold nugget, a lump of metal found in the ground, and it weighed 17 pounds.
 
-Conrad's find was the first gold found in the United States that an expert checked and showed was real. After the find, people in North Carolina began the first gold mining in the United States.
+Nobody in the family knew the rock was gold. They used it as a doorstop for about three years. In 1802 a jeweler identified it as gold and bought it from John Reed for $3.50, about a week's wages. It was worth about $3,600 at the time.
+
+Conrad's find was the first gold found in the United States that an expert checked and showed was real. After it, people in North Carolina began the first gold mining in the United States.
 <!-- hb-story:end slug="conrad-reed" -->
 <!-- hb-time:end id="1750-1800" -->
