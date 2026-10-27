@@ -1,0 +1,226 @@
+## Glossary
+
+- quarried: cut from the ground (Before 1500, chapter opening)
+- BC: years counted back before the year 1, so 1700 BC to 1100 BC is about 3,700 to 3,100 years ago (Before 1500)
+- World Heritage List: a list of places chosen because they matter to all people (Before 1500)
+- UNESCO: a part of the United Nations whose World Heritage Committee keeps the World Heritage List (Before 1500)
+- archaeologists: scientists who study the past from the things people left behind (Before 1500)
+- radiocarbon dating: a way to measure the age of anything that was once alive (Before 1500)
+- great houses: the large stone buildings people built in Chaco Canyon (Before 1500)
+- overhang: a place where the rock of a cliff sticks out above like a roof (Before 1500)
+- kiva: a room used for religious ceremonies (Before 1500)
+- Hopewell culture: a name archaeologists gave the Native people who built the Ohio earthworks, not the name of any nation (Before 1500)
+- lease: to rent (Before 1500)
+- treaty: a written agreement between nations (Before 1500)
+- reservation: land set aside for a Native nation (Before 1500)
+- eminent domain: a legal power to take property for public use as long as the owner is paid (Before 1500)
+- mission: a settlement run by Catholic priests, where Native people lived and were taught the Catholic religion (The 1500s)
+- adobe: bricks of mud and straw dried in the sun (The 1600s)
+- meetinghouse: a wooden church building in New England (The 1600s)
+- viceroy of New Spain: the king's highest official in Mexico (The 1600s)
+- pesos: Spanish coins (The 1600s)
+- masonry fort: a fort built of stone or brick (The 1600s)
+- coquina: a soft stone made of packed seashells (The 1600s)
+- quarry: a pit where stone is cut out of the ground (The 1600s)
+- mortar: a paste that hardens (The 1600s)
+- lime: a white powder, made by burning oyster shells, that went into the mortar (The 1600s)
+- kilns: very hot ovens (The 1600s)
+- bushel: a measure of about 8 gallons (The 1600s)
+- siege: an attack in which an army surrounds a place and tries to force the people inside to give up (The 1600s)
+- drafted: ordered to come and work (The 1600s)
+- real: a Spanish silver coin, worth 12 and a half cents by Manucy's count and about 20 cents by the 1993 park handbook's (The 1600s)
+- payrolls: the lists of workers and their pay (The 1600s)
+- convicts: men sentenced to forced labor for a set number of years (The 1600s)
+- baptized: made a member of the Catholic Church in a ceremony with water (The 1600s)
+- mason: a builder in stone (The 1600s)
+- tribute: payments of goods (The 1600s)
+- Puritans: a group of English Protestants who settled in New England (The 1600s)
+- hull: the body of a ship (The 1600s)
+- cornerstone: the first stone set at a corner of a new building (1700 to 1750)
+- ballad: a song that tells a story (1700 to 1750)
+- steeple: the tall pointed tower on top of a church (1700 to 1750)
+- sexton: the caretaker of a church (1700 to 1750)
+- commissioners: the officials in charge of the new District of Columbia (1750 to 1800)
+- "Negro hire": the commissioners' name for renting enslaved men from their owners by the year, using "Negro," a word of that time for Black people (1750 to 1800)
+- rations: a set share of food and drink (1750 to 1800)
+- sawyers: men who sawed logs into boards (1750 to 1800)
+- draftsman: a man who drew building plans (1750 to 1800)
+- minister to France: the man who represented the United States to the French government (1750 to 1800)
+- Virginia General Assembly: Virginia's lawmakers (1750 to 1800)
+- Classical Revival: a style of building that copies the temples of ancient Greece and Rome (1750 to 1800)
+- joiner: a woodworker who makes the fine wooden parts inside a house, such as doors, trim and furniture (1750 to 1800)
+- obelisk: a tall stone pillar with four sides that narrows toward a pointed top (1800 to 1850)
+- dedicated: opened with a public ceremony (1800 to 1850)
+- Know-Nothing movement: a political movement against Catholics (1800 to 1850)
+- foundry: a workshop where metal is melted and poured into molds (1850 to 1900)
+- pulley and tackle: a set of ropes and wheels for lifting heavy loads (1850 to 1900)
+- emancipating: setting enslaved people free (1850 to 1900)
+- compensated: paid (1850 to 1900)
+- the Union: the side of the United States government in the Civil War (1850 to 1900)
+- suspension bridge: a bridge whose roadway hangs from cables strung between tall towers (1850 to 1900)
+- caissons: huge boxes, open underneath, sunk to the bottom of a river, where men dug out the riverbed in air pumped in under pressure (1850 to 1900)
+- caisson disease, or the bends: the illness that struck men who came up out of the air under pressure too quickly, when bubbles of gas formed in their blood, causing great pain in the joints and sometimes paralysis or death (1850 to 1900)
+- paralyzed: unable to move parts of the body (1850 to 1900)
+- tetanus: an infection from a wound that makes the muscles tighten and lock (1850 to 1900)
+- trustees: the people chosen to look after a project (1850 to 1900)
+- pedestal: the tall stone base a statue stands on (1850 to 1900)
+- Centennial Exhibition: a big fair in Philadelphia in 1876 that marked 100 years since 1776 (1850 to 1900)
+- repoussé: shaping thin copper sheets by hammering (1850 to 1900)
+- Paris Universal Exposition: a world's fair in Paris (1850 to 1900)
+- burials: the graves of people (1850 to 1900)
+- Confederate army: the army of the Southern states that fought to keep slavery in the Civil War (1900 to 1950)
+- Lincoln Memorial Commission: the group in charge of building the Lincoln Memorial (1900 to 1950)
+- segregated: kept Black people and white people apart (1900 to 1950)
+- telegram: a message sent by wire (1900 to 1950)
+- Chief Justice: the head of the US Supreme Court (1900 to 1950)
+- insinuation: a hint (1900 to 1950)
+- propaganda: messages meant to push people to one side (1900 to 1950)
+- teamsters: men who drove wagons (1900 to 1950)
+- justices: the judges of the US Supreme Court (1900 to 1950)
+- interest: extra money added for every year a debt goes unpaid, 5 percent a year in the Black Hills award (1900 to 1950)
+- monetary compensation: payment in money (1900 to 1950)
+- honeycombing: drilling rows of holes close together (1900 to 1950)
+- bosun chairs: seats hung from a cable (1900 to 1950)
+- white supremacy: the belief that white people should rule over everyone else (1900 to 1950)
+- warrant: a court paper ordering a person's arrest (1900 to 1950)
+- winch: a machine that winds a cable (1900 to 1950)
+- ironworkers: workers who put up the steel frames of buildings and bridges (1900 to 1950)
+- rivets: hot metal pins that lock steel beams together (1900 to 1950)
+- Royal Commission: a group set up to find the cause of the Quebec Bridge collapse (1900 to 1950)
+- unofficial spokesman: a man who speaks for a club without holding any title (1900 to 1950)
+- pneumonia: a sickness of the lungs (1900 to 1950)
+- compensation claims: payments owed when a worker is hurt or killed on the job (1900 to 1950)
+- carbon monoxide: a gas with no color or smell that comes from burning fuel and, when a person breathes it in, stops the blood from carrying oxygen (1900 to 1950)
+- diversion tunnels: tunnels dug to carry a river around a building site (1900 to 1950)
+- intake towers: towers that take in water (1900 to 1950)
+- Bureau of Reclamation: the federal office that runs Hoover Dam (1900 to 1950)
+- building trades unions: groups that carpenters, plumbers, ironworkers and other builders join to bargain together for jobs and pay (1950 to 2000)
+- activists: people who campaign for a cause (1950 to 2000)
+- Title VII: the part of the Civil Rights Act of 1964 that forbids employers and unions to treat workers unfairly because of their race, color, religion, sex or national origin (1950 to 2000)
+- "pattern or practice": unfair treatment by race as a regular habit (1950 to 2000)
+- discriminatory practices: every rule and habit that kept Black workers out (1950 to 2000)
+- US Commission of Fine Arts: a federal board that reviews designs in Washington (1950 to 2000)
+- gash: a deep cut (1950 to 2000)
+- sarcophagus: a stone coffin (1950 to 2000)
+- gold leaf: thin sheets of gold (1950 to 2000)
+- proclamation: a formal order from the president (1950 to 2000)
+- Confederacy: the Southern states that fought to keep slavery in the Civil War (2000 to Today)
+- Southern Poverty Law Center: a group that campaigns for civil rights (2000 to Today)
+- Pentagon: the headquarters of the US military, near Washington (2000 to Today)
+- landscape architect: a person who plans outdoor spaces such as parks (2000 to Today)
+- commemorates: honors (2000 to Today)
+- corona: the bronze-colored shape in three levels on the outside of the National Museum of African American History and Culture (2000 to Today)
+- Yoruba: an African people (2000 to Today)
+- lynched: killed by a mob without a trial (2000 to Today)
+- census: the government's count of everyone in the country (2000 to Today)
+- Juneteenth: the holiday that marks June 19, 1865, the day Major General Gordon Granger reached Galveston, Texas, with the news that enslaved African Americans were free (2000 to Today)
+- Jim Crow laws: laws that Southern lawmakers wrote to force Black and white people apart and to take away Black people's rights (2000 to Today)
+- segregationists: people who wanted to keep the races apart (2000 to Today)
+- paralegal: a worker who helps lawyers (2000 to Today)
+- first-degree murder: the most serious kind of murder, done on purpose (2000 to Today)
+- hate crimes: crimes against people chosen because of their race, religion or a similar trait (2000 to Today)
+- propaganda campaign: a huge effort to push one side of the story (2000 to Today)
+- executive order: a written command from the president (2000 to Today)
+- "mammy": a made-up picture of an enslaved Black woman who cared for a white family's children and seemed happy in slavery, which hid the truth that enslavers separated these women from their own children (2000 to Today)
+- sanitized depictions: pictures with the cruelty cleaned out (2000 to Today)
+- appealed: asked a higher court to change a ruling (2000 to Today)
+- stabilize: make firm (2000 to Today)
+
+## People
+
+- Glenna Wallace: the first woman to lead the Eastern Shawnee Tribe of Oklahoma, chief from 2006 to 2026, who fought to get a golf course off the Octagon Earthworks (Before 1500)
+- John Collins: an English mason the Spanish held prisoner, who made the lime and ran the quarry for the Castillo de San Marcos (The 1600s)
+- George Worthylake: the first keeper of Boston Light, who drowned with his family in 1718 (1700 to 1750)
+- Tom, Peter, Ben, Harry and Daniel: five enslaved carpenters on the President's House payroll for May 1795, known only by their first names (1750 to 1800)
+- Thomas Jefferson: the owner of Monticello, who designed his own house and worked on a design for Virginia's capitol modeled on a Roman temple (1750 to 1800)
+- John Hemmings: an enslaved joiner who made the fine woodwork of Monticello's rebuilt rooms, one of five people Jefferson freed in his will (1800 to 1850)
+- Philip Reid: an enslaved foundry worker who worked out how to take apart the model of the Statue of Freedom, free by the day it was raised (1850 to 1900)
+- John, Washington and Emily Roebling: the man who designed the Brooklyn Bridge, the son who took charge of building it, and the son's wife, who carried his instructions to the engineers for 11 years (1850 to 1900)
+- Frédéric Auguste Bartholdi: the French sculptor who designed the Statue of Liberty (1850 to 1900)
+- Gutzon Borglum: the sculptor who designed Mount Rushmore, after starting a Confederate carving at Stone Mountain that the Ku Klux Klan helped pay for (1900 to 1950)
+- Nick Clifford: the youngest worker on Mount Rushmore and the last of its carvers to die (1900 to 1950)
+- Joseph Strauss: the chief engineer of the Golden Gate Bridge, who hung a safety net under it that caught 19 men (1900 to 1950)
+- Al Zampa: an ironworker who fell into the Golden Gate Bridge's net and lived, and who later had a bridge named for him (1900 to 1950)
+- Harold McComber: a Mohawk ironworker from Kahnawake whose work on Manhattan skyscrapers became the film High Steel (1950 to 2000)
+- Philippe Petit: a French high-wire walker who crossed between the Twin Towers on a cable eight times (1950 to 2000)
+- Maya Lin: the 21-year-old college student whose design won the contest for the Vietnam Veterans Memorial (1950 to 2000)
+- Michael Arad: the architect whose design for the National September 11 Memorial was chosen from 5,201 entries (2000 to Today)
+
+## Dates
+
+- October 2, 1672: workers break ground for the Castillo de San Marcos
+- September 18, 1793: George Washington lays the cornerstone of the Capitol
+- February 28, 1877: members of Congress take the Black Hills from the Sioux
+- May 24, 1883: the Brooklyn Bridge opens, after at least 21 workers died building it
+- June 17, 2015: Dylann Roof kills nine Black worshippers in Charleston
+- September 8, 1565: Pedro Menéndez de Avilés lands at Seloy, a Timucua town, where St. Augustine began
+- 1832: US officials force the Lewistown band of Shawnee and Seneca out of Ohio, and more than 15 percent die on the 800-mile walk
+- April 16, 1862: Lincoln signs the District of Columbia Compensated Emancipation Act, and Philip Reid goes free
+- December 6, 1884: workers finish the Washington Monument, then the tallest structure in the world
+- May 30, 1922: the Lincoln Memorial is dedicated before a segregated crowd
+- September 30, 1935: President Franklin D. Roosevelt dedicates Hoover Dam
+- July 14, 1964: Percy Green and Richard Daly climb the unfinished Gateway Arch in protest
+- November 13, 1982: the Vietnam Veterans Memorial is dedicated
+- April 26, 2018: the National Memorial for Peace and Justice opens in Montgomery
+- January 1, 2025: the Octagon Earthworks open to the public
+
+## Places
+
+- Octagon Earthworks, Newark, Ohio: earth walls about 2,000 years old that line up with the moonrise, a golf course from 1910 to 2024 and open to the public since January 1, 2025 (the chapter's "Where to go")
+- Emancipation Hall, Capitol Visitor Center, Washington, DC: the block of Aquia Creek sandstone that honors the enslaved laborers who quarried the Capitol's stone
+- Monks Mound, Cahokia, Illinois: the largest structure made of earth in North and South America
+- Poverty Point, Louisiana: five mounds and six curved ridges built 3,100 to 3,700 years ago, on the World Heritage List
+- Serpent Mound, Ohio: a snake of earth about a quarter of a mile long
+- Pueblo Bonito, Chaco Canyon, New Mexico: the largest great house, four stories high
+- Cliff Palace, Mesa Verde, Colorado: the largest cliff dwelling in North America
+- Castillo de San Marcos National Monument, St. Augustine, Florida: the coquina fort begun in 1672
+- San Miguel Chapel, Santa Fe, New Mexico: an adobe chapel on foundations from about 1620
+- Old Ship Meetinghouse, Hingham, Massachusetts: the only Puritan meetinghouse from the 1600s still standing
+- Boston Light, Little Brewster Island, Boston Harbor, Massachusetts: the tower rebuilt in 1783 on the site of the first lighthouse
+- Old North Church, Boston, Massachusetts: the steeple where two lanterns were hung on April 18, 1775
+- Independence Hall, Philadelphia, Pennsylvania: the old Pennsylvania State House
+- The Alamo, San Antonio, Texas: the unfinished mission church begun in 1758
+- Mount Vernon, Virginia: George Washington's home, built and enlarged by enslaved workers
+- Monticello, Virginia: Thomas Jefferson's home, with the woodwork of enslaved craftsmen such as John Hemmings
+- Virginia State Capitol, Richmond, Virginia: the capitol modeled on the Maison Carrée
+- Bunker Hill Monument, Charlestown, Massachusetts: the 221-foot granite obelisk on Breed's Hill
+- Washington Monument, Washington, DC: the change in the marble's color about 150 feet up, where work stopped for 25 years
+- Smithsonian Institution Building, Washington, DC: the red sandstone building called the Castle
+- Statue of Freedom, US Capitol dome, Washington, DC: the bronze statue Philip Reid helped cast
+- Brooklyn Bridge, New York, New York: the suspension bridge opened in 1883
+- Statue of Liberty, New York Harbor: the statue, and the original 1886 torch in the statue's museum
+- Sugarloaf Mound, St. Louis, Missouri: the last Native mound in the city, now owned by the Osage Nation
+- Biltmore House, Asheville, North Carolina: the largest privately owned house in the United States
+- Woolworth Building, New York, New York: the tallest building in the world when it was finished in 1913
+- Lincoln Memorial, Washington, DC: Daniel Chester French's seated Lincoln, and the steps where Marian Anderson sang in 1939
+- Mount Rushmore, Black Hills, South Dakota: the carving on Tunkasila Sakpe, the Six Grandfathers
+- Empire State Building, New York, New York: the 102-story building finished in 1931
+- Village cemetery, Kahnawake, Canada: crosses made from the Quebec Bridge's steel in the village cemetery, and the 2007 monument to the men killed
+- Golden Gate Bridge, San Francisco, California: the bridge opened in 1937
+- Alfred Zampa Memorial Bridge, Carquinez Strait, California: the bridge named for the ironworker in 2003
+- Hoover Dam, near Boulder City: the dam dedicated in 1935
+- Space Needle, Seattle, Washington: the 605-foot tower built for the 1962 world's fair
+- Gateway Arch National Park, St. Louis, Missouri: the 630-foot stainless steel arch
+- Vietnam Veterans Memorial, National Mall, Washington, DC: the black granite walls with more than 58,000 names
+- Ellis Island, New York Harbor: the main building, a museum of immigration since 1990
+- Angel Island Immigration Station, San Francisco Bay, California: barracks with more than 200 poems carved into the walls
+- National September 11 Memorial and Museum, New York, New York: the two pools and the names of 2,983 people
+- One World Trade Center, New York, New York: the tower 1,776 feet to the tip of its spire
+- Martin Luther King, Jr. Memorial, Washington, DC: the 30-foot Stone of Hope
+- National Museum of African American History and Culture, Washington, DC: the building whose metal screen copies ironwork by enslaved and free Black craftsmen
+- National Memorial for Peace and Justice and the Legacy Museum, Montgomery, Alabama: 805 steel blocks, one for each county where a lynching was recorded
+- Freedom Monument Sculpture Park, Montgomery, Alabama: the National Monument to Freedom, with more than 122,000 last names from the 1870 census
+- President's House site, Philadelphia, Pennsylvania: exhibit panels on nine people George Washington held in slavery there
+
+## Movies
+
+- Brooklyn Bridge (1981): no note (Ken Burns' first documentary, narrated by David McCullough, nominated for the Academy Award for Best Documentary Feature, about the bridge and the Roeblings)
+- High Steel (1965): no note (a documentary by the National Film Board of Canada, directed by Don Owen, about Harold McComber's working life)
+- Man on Wire (2008): no note (directed by James Marsh, winner of the Academy Award for Best Documentary Feature, about Philippe Petit's walk)
+- Maya Lin: A Strong Clear Vision (1994): no note (winner of the Academy Award for Best Documentary Feature, about Maya Lin)
+
+## Questions
+
+- Q: Who built the White House and the Capitol, and who was paid for their work? A: Enslaved men did much of the work, from quarrying the stone to sawing boards and hauling loads. The officials in charge rented them from their owners by the year, and the owners collected the pay.
+- Q: How many workers died building Hoover Dam? A: By the official count, 96. The records list 42 more as dying of pneumonia, deaths that workers blamed on carbon monoxide in the tunnels, so the exact number is not known.
+- Q: What has happened to the Confederate monuments since 2015? A: By April 2025 officials and work crews had taken down, moved or renamed 415 Confederate memorials, from statues to place names, hundreds of them after the killings in Charleston, Charlottesville and Minneapolis. In 2025 federal officials began putting some back.
