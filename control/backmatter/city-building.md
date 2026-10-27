@@ -1,0 +1,219 @@
+## Glossary
+
+- planned city: a city whose builders decide ahead of time where each open square, wall and mound will go (Before 1500)
+- archaeologist: a scientist who digs up and studies what people left behind long ago (Before 1500)
+- prehistoric: built before anyone here kept written records (Before 1500)
+- terrace: a wide step, here on the side of a mound (Before 1500)
+- UNESCO: the United Nations body for historic sites, which keeps the World Heritage list (Before 1500)
+- chunkey: a game in which one player rolled a stone disk across the ground and the players threw spears to see whose landed closest to where the stone stopped (Before 1500)
+- solstices: the longest day and the shortest day of the year (Before 1500)
+- equinoxes: the days between the solstices when day and night are the same length (Before 1500)
+- palisade: a wall of upright logs (Before 1500)
+- Ancestral Puebloans: the ancestors of the people who live in the pueblos of the Southwest today (Before 1500)
+- pueblo: the Spanish word for a town, which Spanish colonists used for the stone and adobe towns of the Southwest (Before 1500)
+- adobe: sun-dried mud brick (Before 1500)
+- great house: a large building of shaped stone, as at Chaco Canyon (Before 1500)
+- kiva: a round room used for ceremonies and meetings, usually sunk into the ground (Before 1500)
+- thatch: dried straw or reeds used as roofing (The 1500s)
+- grid: a pattern of straight streets crossing at right angles (The 1500s)
+- Laws of the Indies: the written orders of 1573 for Spain's lands in the Americas, which the Spanish called the Indies. They stated how the founders of Spanish towns had to lay them out (The 1500s)
+- plaza: a public square of open ground with the town built around it (The 1500s)
+- surveyor: a man who measured the land and marked out the streets (The 1600s)
+- tribute: a payment of goods to a ruler (The 1600s)
+- stockade: a fence of upright logs (The 1600s)
+- peninsula: a piece of land with water on almost every side (The 1600s)
+- half-freedom: the Dutch status under which a man could hold land of his own but still owed the Dutch West India Company work and a yearly payment, and his children stayed the Company's property (The 1600s)
+- director general: the man who governed the Dutch colony of New Netherland for the Company (The 1600s)
+- guilder: the Dutch money of the time (The 1600s)
+- minutes: the written record of officials' meetings (The 1600s)
+- skepel: a Dutch measure for dry goods (The 1600s)
+- surveyor-general: the chief surveyor of a colony (The 1600s)
+- Quaker: a member of the Religious Society of Friends, a Christian group that began in England in the 1600s (The 1600s)
+- wholesome: healthy to live in (The 1600s)
+- Board of Fire Wards: a group of town officers for fires (1700 to 1750)
+- firemaster: an officer chosen by a vote whose orders at a fire everyone had to obey as if they were the law (1700 to 1750)
+- mutual fire society: a group whose members helped one another and agreed to protect one another's houses (1700 to 1750)
+- articles: the written rules of a group, as in the Articles of the Union Fire Company (1700 to 1750)
+- commissioners: officials put in charge of building the capital (1750 to 1800)
+- bluff: a high, steep bank (1750 to 1800)
+- tobacco inspection house: a building where tobacco was checked before it was shipped (1750 to 1800)
+- district: the land set aside for the capital (1750 to 1800)
+- plantation: a big farm worked by enslaved people (1750 to 1800)
+- census: the government's count of the people (1750 to 1800)
+- Original Proprietors: the owners of the land when Washington, D.C., was laid out (1750 to 1800)
+- survey: to measure the ground and mark exactly where its corners and edges lie (1750 to 1800)
+- astronomy: the science of the stars and planets (1750 to 1800)
+- insubordination: refusing to obey the people in charge of you (1750 to 1800)
+- regulator clock: a very exact clock (1750 to 1800)
+- almanac: a book printed once a year with a calendar and tables of the sun, moon and stars (1750 to 1800)
+- yellow fever: a disease caused by a virus that people catch from the bite of a mosquito. In about one case in seven it comes back worse, destroys cells in the liver, turns the skin and the whites of the eyes yellow, and causes bleeding from the mouth, nose and eyes and into the stomach, and between 30 and 60 percent of people who reach that stage die (1750 to 1800)
+- black vomit: blood from the stomach, mixed with stomach acid and vomited up black, in the late stage of yellow fever (1750 to 1800)
+- cholera: a disease people catch from water with human waste in it. It causes watery diarrhea so heavy that a person with a bad case who does not get water back fast enough can die within hours (1800 to 1850)
+- boomtown: a town whose number of people grows very fast, in a few years (1800 to 1850)
+- treaty: a written agreement between nations or governments (1800 to 1850)
+- reservation: land kept for a Native nation (1800 to 1850)
+- sewer: an underground pipe that carries waste water away (1800 to 1850)
+- California Gold Rush: a race to California to dig for gold (1800 to 1850)
+- hulk: the hull of an old ship that no longer sailed (1800 to 1850)
+- cistern: a tank for catching rain (1800 to 1850)
+- privy: an outdoor toilet built over a pit in the ground (1800 to 1850)
+- hydrant: a street pipe that firefighters draw water from (1800 to 1850)
+- aqueduct: a channel built to carry water a long way, as the Croton Aqueduct (1800 to 1850)
+- distributing reservoir: a large basin that held the water and fed it out to the city's pipes (1800 to 1850)
+- tenement: an apartment building put up cheaply to hold as many families as a plot of land would take (1850 to 1900)
+- fill: earth dumped on top, here to raise Chicago's streets over the sewer pipes (1850 to 1900)
+- jackscrew: a screw inside a case that a man turned by hand with a lever, used by the hundreds to lift buildings (1850 to 1900)
+- masonry building: a building of brick or stone (1850 to 1900)
+- ratchet: a bar with teeth (1850 to 1900)
+- exposition: a large public show of new machines and goods (1850 to 1900)
+- wall-bearing building: a building whose outside walls hold up everything (1850 to 1900)
+- skyscraper: a very tall building held up by a metal frame (1850 to 1900)
+- booster: a person who promoted a city to bring in money and business (1850 to 1900)
+- site plan: the layout of the grounds (1850 to 1900)
+- staff: a mix of plaster, cement and plant fiber that workers poured into molds, used for the fronts of the 1893 fair buildings (1850 to 1900)
+- high steel: joining the steel frames of bridges and buildings high above the ground (1850 to 1900)
+- booming out: the Mohawk ironworkers' name for traveling to bridge and skyscraper jobs wherever the steel work was (1850 to 1900)
+- dumbbell tenement: a tenement pinched in at the middle around a narrow air shaft, wide at both ends and thin in the middle, like an exercise weight with a ball at each end of a short bar (1850 to 1900)
+- flue: a channel that draws hot air and smoke upward, as a chimney does (1850 to 1900)
+- photographic plate: a glass sheet coated with chemicals that change where light hits them (1850 to 1900)
+- engraving: a picture printed from lines cut into metal or wood (1850 to 1900)
+- marasmus: severe malnutrition, a form of starvation in which the body gets too little food of every kind, uses up its own fat and then its own muscle, and the child wastes away (1850 to 1900)
+- swill milk: thin, dirty milk from cows kept in stables beside distilleries and fed the leftover grain mush from making liquor (1850 to 1900)
+- distillery: a place where liquor is made (1850 to 1900)
+- eminent domain: the power of a government to take private property for public use, paying the owner whether the owner wants to sell or not (1850 to 1900)
+- New York State Supreme Court: the state's main trial court (1850 to 1900)
+- evict: to force people out of their homes under the law (1850 to 1900)
+- landscape architecture: designing the land itself, its paths, lawns, trees, water and roads (1850 to 1900)
+- streetcar suburb: a neighborhood of homes at the edge of a city, along a streetcar line, where people lived and from which they traveled in to work (1850 to 1900)
+- land run: a race in which settlers rushed in at a set signal to claim pieces of land (1850 to 1900)
+- Commissioner of Indian Affairs: the federal official in charge of the government's dealings with Native nations (1850 to 1900)
+- Confederacy: the Southern states that fought the United States in the Civil War (1850 to 1900)
+- land office: an office where settlers filed their claims (1850 to 1900)
+- injunction: an order telling someone to stop (1900 to 1950)
+- water main: a large pipe that carries water under the streets (1900 to 1950)
+- conservationist: a person who works to protect wild land (1900 to 1950)
+- zoning: dividing a city into districts and setting rules for what may be built in each one: how tall, how close to the street, and for what use (1900 to 1950)
+- setback: a place where the upper floors of a building step back from the street (1900 to 1950)
+- NAACP: a group that fought for Black Americans' rights (1900 to 1950)
+- comprehensive plan: a plan setting out what a whole city should become, with its streets, parks and waterfront planned together (1900 to 1950)
+- spire: a tall pointed top (1900 to 1950)
+- fire tower: a shaft that ran up through a building (1900 to 1950)
+- Depression: the years of the 1930s when businesses failed and people lost their jobs (1900 to 1950)
+- Great Migration: the move of about 6 million Black Americans out of the South between 1910 and 1970 (1900 to 1950)
+- deed: the legal paper that records who owns a house (1900 to 1950)
+- restrictive covenant: a section written into the deed of a house that forbade the owner to sell or rent it to a Black buyer, and sometimes to Jewish or Asian buyers, and bound every later owner (1900 to 1950)
+- hotplate: a small electric burner for cooking (1900 to 1950)
+- kitchenette: a one-room unit split from an apartment and rented separately, with a hotplate and a bathroom shared with other families (1900 to 1950)
+- mortgage: a loan to buy a house (1900 to 1950)
+- redlining: drawing a line around a neighborhood on a map and then refusing to lend money for houses inside it (1900 to 1950)
+- appraiser: a staff member of the Home Owners' Loan Corporation who judged each neighborhood (1900 to 1950)
+- infiltration: a word for an enemy sneaking in, which appraisers used for Black families moving in (1900 to 1950)
+- Federal Reserve Bank of Chicago: a branch of the country's central bank (1900 to 1950)
+- insure a loan: to promise to repay the lender if the buyer cannot (1900 to 1950)
+- low-to-moderate income: earning well below the typical family in the area (1900 to 1950)
+- majority-minority: where most of the people living there are not white (1900 to 1950)
+- Works Progress Administration (WPA): a federal program that hired people to build public projects such as roads, pipes and schools (1900 to 1950)
+- storm and sewer lines: pipes that carry away rainwater and waste (1900 to 1950)
+- Manhattan Project: the Army's secret program to build an atomic bomb (1900 to 1950)
+- declaration of taking: a paper under which the government could take land right away, whether or not the owners wanted to sell, and settle the price later (1900 to 1950)
+- cemesto: ready-made panels of cement and asbestos (1900 to 1950)
+- asbestos: a mineral fiber (1900 to 1950)
+- alphabet houses: Oak Ridge houses built in a few standard types named by letters, such as the A house and the B house (1900 to 1950)
+- flat-top: a flat-roofed house (1900 to 1950)
+- uranium: a heavy metal (1900 to 1950)
+- weld: a place where two pieces of metal have been melted together (1900 to 1950)
+- oral history: a recorded interview about a person's life (1900 to 1950)
+- metropolitan area: a city together with its suburbs (1950 to 2000)
+- subdivision: a tract of land divided into lots for single-family houses (1950 to 2000)
+- blighted: a legal label for an area that officials judged run-down enough to tear down (1950 to 2000)
+- urban renewal: the later name for the "urban redevelopment" program under Title I, one section of the Housing Act of 1949 (1950 to 2000)
+- Negro: the usual word of the time for Black Americans, as in James Baldwin's 1963 words (1950 to 2000)
+- condemn: to take buildings by law (1950 to 2000)
+- State Law Librarian: the librarian in charge of the state's law library (1950 to 2000)
+- sprawl: the spreading of cities outward in subdivisions of houses (1950 to 2000)
+- speculator: a person who buys property to sell it again at a profit (1950 to 2000)
+- blockbusting: agents and speculators pushing white families to sell and move out by telling them Black families were moving in, then selling the same houses to Black families for much more (1950 to 2000)
+- contract sale: a sale under which a buyer who missed a single payment could be put out and lose everything already paid (1950 to 2000)
+- expressway: a wide road for fast traffic (1950 to 2000)
+- inciting to riot: urging a crowd to violence (1950 to 2000)
+- public housing: apartments owned by a government and rented to families with low incomes (1950 to 2000)
+- veto: a president's refusal to sign a law. Members of Congress can pass a law over a veto when two-thirds of each house vote for it (1950 to 2000)
+- Sun Belt: the warm states of the South and the West (1950 to 2000)
+- annexation: moving a city's legal boundary out to take in neighboring land (1950 to 2000)
+- lease: a contract for renting space (2000 to Today)
+- gentrification: what happens when buyers and lenders return to a neighborhood they had avoided for years: new owners fix up the houses, rents and prices rise, and the people who lived there can no longer afford to stay (2000 to Today)
+- close-in neighborhood: a neighborhood near downtown (2000 to Today)
+- condominium: an apartment that each owner buys (2000 to Today)
+- curfew: an order to stay off the streets at night (2000 to Today)
+- Metro: Washington's subway (2000 to Today)
+- King Tides: the name used in Miami Beach for the highest tides of the year (2000 to Today)
+- Western Hemisphere: the half of the world that holds North and South America (2000 to Today)
+
+## People
+
+- William Penn: the founder of Pennsylvania, a Quaker, who had Philadelphia planned on paper before it existed on the ground (The 1600s)
+- Benjamin Franklin: a Philadelphia printer who helped start the Union Fire Company, the first volunteer fire company in the colonies to protect a whole town (1700 to 1750)
+- Pierre L'Enfant: the French-born engineer who drew the plan of Washington, D.C., and was dismissed in 1792 before it was built (1750 to 1800)
+- Benjamin Banneker: a free Black tobacco farmer and self-taught astronomer whose observations fixed the starting corner of the federal district (1750 to 1800)
+- George Templeton Strong: a young New York lawyer whose diary records the coming of Croton water and his baths at home (1800 to 1850)
+- Jacob Riis: a Danish immigrant and police reporter whose flash photographs showed how New York's poor lived (1850 to 1900)
+- Bridget and Joseph Moore: an Irish immigrant couple at 97 Orchard Street whose daughter Agnes Mary died of marasmus at five months in 1869 (1850 to 1900)
+- Frederick Law Olmsted: the designer, with Calvert Vaux, of Central Park (1850 to 1900)
+- Daniel Burnham: the Chicago architect who directed the building of the 1893 world's fair and wrote the 1909 Plan of Chicago with Edward Bennett (1900 to 1950)
+- Colleen Black: a teenager from Nashville who worked as a leak detector at Oak Ridge's K-25 plant and lived in Oak Ridge the rest of her life (1900 to 1950)
+- Marvin Roger Anderson: a Rondo resident whose family lost its townhomes to Interstate 94 and who now leads ReConnect Rondo (1950 to 2000)
+- Robert Moses: the New York official who built bridges, parks and expressways for decades without winning an election (1950 to 2000)
+- Jane Jacobs: the writer who helped defeat three New York projects, among them the Lower Manhattan Expressway (1950 to 2000)
+- Carl Stokes: the first Black mayor of a major American city, elected in Cleveland in 1967 (1950 to 2000)
+- Virginia Ali: a co-founder of Ben's Chili Bowl on U Street in Washington, D.C., which she has helped run since 1958 (2000 to Today)
+
+## Dates
+
+- About 1100: Cahokia reaches its peak
+- 1573: Spain's king orders a plaza and a grid for every new Spanish town (the Laws of the Indies)
+- June 22, 1842: Croton water reaches New York City
+- July 25, 1916: New York adopts the first citywide zoning rules
+- 1948: the Supreme Court rules in Shelley v. Kraemer that courts can no longer enforce covenants
+- September 8, 1565: Pedro Menendez de Aviles lands in Florida and places St. Augustine inside the Timucua town of Seloy
+- March 13, 1653: Stuyvesant and New Amsterdam's officials order the wall that gave Wall Street its name
+- December 1682: Thomas Holme lays out the grid of Philadelphia
+- December 7, 1736: about twenty-five men, Franklin among them, sign the Articles of the Union Fire Company
+- 1791: Pierre L'Enfant draws the plan of Washington, D.C.
+- March 1811: the commissioners file their grid plan for Manhattan
+- October 1857: New York City officials evict the last people of Seneca Village
+- January 2, 1900: the reversal of the Chicago River is complete
+- 1949: members of Congress pass the Housing Act of 1949, which starts urban renewal
+- June 29, 1956: President Eisenhower signs the Federal-Aid Highway Act
+
+## Places
+
+- Tenement Museum, New York, New York: the Moores' apartment at 97 Orchard Street, recreated as it was in 1869
+- Cahokia, Illinois, across the Mississippi from St. Louis: Monks Mound and the Grand Plaza, a UNESCO World Heritage listing
+- Chaco Canyon, northwestern New Mexico: great houses, among them Pueblo Bonito, and the planned roads
+- Mesa Verde, southwestern Colorado: Cliff Palace, with 150 rooms and 23 kivas
+- Plaza de la Constitucion, St. Augustine, Florida: the oldest public square in the country
+- Palace of the Governors, Santa Fe, New Mexico: on the plaza, used as a public building without a break for longer than any other building in the United States
+- Jamestown Island, Virginia: the foundations of rows of houses at New Towne, dug up by archaeologists
+- Logan, Franklin, Washington and Rittenhouse squares and City Hall, Philadelphia, Pennsylvania: the five squares of Holme's 1682 plan
+- National Museum of African American History and Culture, Washington, D.C.: stands on part of Notley Young's plantation
+- Arlington National Cemetery: L'Enfant's grave, on a hillside above Washington
+- Central Park, New York, New York: the site of Seneca Village
+- Smithsonian's National Museum of the American Indian: the exhibition Booming Out: Mohawk Ironworkers Build New York
+- Mapping Inequality project, University of Richmond (online): the 1930s redlining maps and the appraisers' notes
+- K-25 Virtual Museum (online): Colleen Black's account
+- Voices of the Manhattan Project, Atomic Heritage Foundation (online): Colleen Black's 2005 oral history
+- Voices of Rondo oral-history collection: Marvin Roger Anderson's account
+- University of Minnesota St. Paul campus, St. Paul, Minnesota: four of the Rangh Court townhomes moved for Interstate 94
+- Ben's Chili Bowl, 1213 U Street NW, Washington, D.C.: the diner, still open
+
+## Movies
+
+- Penn of Pennsylvania (1941): released in the United States as The Courageous Mr. Penn (1942). The film is about Penn's life in general, not the making of the city plan
+- Frederick Law Olmsted: Designing America (2014): no note (a PBS documentary that premiered June 20, 2014)
+- Citizen Jane: Battle for the City (2016): no note (a documentary directed by Matt Tyrnauer, 92 minutes)
+
+## Questions
+
+- Q: Why do so many American cities have straight streets that cross in a grid? A: People planned them that way: Spain's king ordered a plaza and a grid for every new Spanish town in 1573, Penn had Philadelphia drawn as a grid in 1682, and three men laid one over Manhattan's hills in 1811.
+- Q: How did people get clean water into crowded cities? A: City leaders paid for big waterworks after epidemics and fires: steam pumps in Philadelphia in 1801, the Croton Aqueduct in New York in 1842, and a canal that turned Chicago's river around in 1900.
+- Q: Who decided which families could live in which neighborhoods? A: White owners wrote covenants into their deeds and judges enforced them until 1948, federal officials refused to back home loans where Black families lived, and after 1949 city officials cleared about 2,000 neighborhoods.
