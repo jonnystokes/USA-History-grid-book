@@ -5171,3 +5171,9 @@ STATUS: DONE (2026-10-26 10:50 PM). All five tasks landed; T-664 one revision pa
 RESULT: exploration 20,056 -> 21,715 words (paragraphs over 90: 84 -> 6; date-first 28.9% -> 0.7%); government-politics 25,809 -> 27,595 (120 -> 31; 29.0% -> 12.7%); holidays 18,088 -> 19,284 (55 -> 28; 19.8% -> 3.0%). All three PASS prose. Introduction 290 words; front matter 3 files; method essay to back matter at 1,392 words. Builds place the cards, read _frontmatter/_backmatter, show reading times. Book rebuilt: 837,003 words, 1,990 pages, 0/0. Director read the opening, one era, one story and the closing of each pilot chapter: the shape works (REPORT-PILOT-2026-10-26.md).
 USAGE: 5-hour 6% -> 29%; weekly Fable 50% -> 62% (the three Fable writers cost about 4% of weekly Fable each; 34 chapters on Fable would need about 135%, so the next wave mixes models or waits for the weekly reset at 12:00 PM 2026-10-27).
 NEXT: Jon reads the three pilot chapters and the front matter in book/history-book.pdf, then the wave of 34.
+
+### 2026-10-27 | [LOCAL] WAVE 2 T-670..T-703 | the other 34 chapters | up to 20 at once, writers on Fable (Jon: Max 20, use it all before noon)
+STATUS: IN-FLIGHT
+DISPATCH: control/briefs/READABILITY-WAVE2-DISPATCH.md. Brief gained the two pilot fixes and the back-matter hand-off (control/backmatter/<slug>.md per chapter).
+REUSED: T-661 -> migration (T-670), T-662 -> crime-justice (T-671), T-663 -> sports-play (T-672); each sat at 34-37% of its window after the pilot.
+VERIFY: python tools/project_state.py --check <slug> --stage prose per chapter; hand-off file present.

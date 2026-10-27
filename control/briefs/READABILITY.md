@@ -54,6 +54,36 @@ and `python tools/project_state.py --punct <file>` (0/0). Before you report:
 `python tools/project_state.py --check <slug> --stage prose` must PASS, and run
 `python tools/measure_readability.py <slug>` for the report.
 
+## Two things the pilot writers missed (added 2026-10-27)
+
+- **Glosses inside the sentence, in story boxes too.** The pilot chapters folded definitions into
+  the body but left sentences like "Claptrap means silly talk meant to win cheers" standing alone
+  in story boxes. Guideline 7 (DECISIONS #51) applies everywhere: "claptrap, silly talk meant to
+  win cheers". Clinical words from the hard-subjects policy keep their full explanation.
+- **The era's first paragraph leads with the era's through-line.** The era summary paragraphs
+  still open on three or four dated facts in a row, which reads as a list. The first sentence after
+  the strip says what the era was about for this subject; the dated facts hang on it.
+
+## Hand-off for the back matter (added 2026-10-27)
+
+When the chapter is done and passing, write `control/backmatter/<slug>.md` (create the folder if it
+is missing) so the back-matter agents can build the glossary, timeline, people index, places and
+movie list without rereading 37 chapters. Plain Markdown, these six `##` sections, one item per
+bullet, nothing else:
+
+- `## Glossary`: every hard word the chapter explains, as `- term: the plain explanation as the
+  chapter gives it (era label)`. Include clinical words. Do not include words an 11-year-old knows.
+- `## People`: every story-box subject, as `- Name: role in one clause (era label)`.
+- `## Dates`: the five dates from the closing first, then up to ten more that a timeline needs,
+  as `- Month Day, Year: event in a few words` (year alone when that is all the chapter gives).
+- `## Places`: the "Where to go" place and any other museum, site or archive the chapter names
+  where a reader could see something, as `- Place, City, State: what is there`.
+- `## Movies`: every Movie record line, as `- Title (year): the accuracy note the box gives, or
+  "no note"`.
+- `## Questions`: the three questions and their answers from the closing, as `- Q: ... A: ...`.
+
+Everything in this file must already be in the chapter. It is a hand-off, not new research.
+
 ## Pacing (Jon's standing rules)
 
 Update the checkpoint after each era before anything else. Check the 5-hour window about a quarter,
