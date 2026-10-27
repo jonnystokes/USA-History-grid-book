@@ -40,6 +40,16 @@ Task: READABILITY-DISPATCH.md section T-664. Files: manuscript/_introduction/how
 - Nothing. If resumed by mistake: re-run `python tools/project_state.py --punct` on the five files
   (all 0/0 at finish) and report again.
 
+## Revision 1 (coordinator, 2026-10-26 late): DONE
+
+- 03-ten-minute-history.md reshaped: every beat opens with a through-line sentence (what the era
+  was about), every other sentence leads with a person, place or action and the date follows, the
+  ten openings differ. Every fact and date kept, same citations. Beats about 105 to 125 words
+  (the through-line sentence adds 10 to 20 words to each), file about 1,250 words.
+- Introduction: second paragraph split at "Every fact in this book comes from a record", so the
+  furniture paragraph and the sources sentence stand apart (three paragraphs now, 290 words).
+- `--punct` 0/0 on both.
+
 ## Notes for the director
 
 - Final sizes: introduction 290 words; 01 before-you-start 179; 02 four-ways 363 (ten-line era
