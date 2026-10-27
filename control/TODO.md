@@ -9,7 +9,19 @@ Last updated: 2026-10-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-home
 
 ---
 
-## NOW (2026-10-26): STEP 8, DONE
+## NOW (2026-10-26, evening): PHASE 2, THE READABILITY EDIT
+
+Jon read the finished book and ruled it needs rewriting for readers who cannot hold attention long
+(DECISIONS #50-53): the fourth-wall rule is withdrawn, a narrator's voice is in, the grid does not
+move, the book grows. The plan is `control/ARCHITECTURE-GUIDE.md`; the brief is
+`control/briefs/READABILITY.md`; the pilot dispatch is `control/briefs/READABILITY-DISPATCH.md`.
+**Pilot wave T-660..T-664** (tools; exploration; government-politics; holidays; introduction and
+front matter) runs first; Jon reads the three pilot chapters; then the other 34 chapters, then story
+boxes, then back matter (glossary, timeline, people, places, movies, answers), then a rebuild.
+Resume rule: agents cut off by the usage window are resumed after the reset; if a resume fails, the
+director stops and tells Jon. Measurements: `python tools/measure_readability.py` (indicator only).
+
+## Step 8 (the first draft), DONE 2026-10-26 afternoon
 
 **All eight steps are complete.** The book is `book/history-book.md` and `book/history-book.pdf`
 (37 chapters, the introduction "How We Know What Happened" first; rebuilt 2026-10-26 after the
