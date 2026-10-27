@@ -13,10 +13,30 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-time:start id="before-1500" order="01" chapter="big-business" label="Before 1500" state="empty" progress="written" -->
 ## Before 1500
 
-<!-- hb-zoom level="era" -->
-No company existed in this land before 1500. A company is a group of people who put their money together to run a business and share what it earns. A corporation is a kind of company that goes on after its first owners are gone. To start one, people needed a written grant from a government.
+<!-- hb-zoom level="era" label="Chapter opening" -->
+**Chapter 19 of 37 · Big Business and Its Power · 10 eras · about 90 minutes**
 
-Native nations did trade goods over long distances. Archaeologists have found copper from Lake Superior, shells from the Gulf of Mexico and turquoise from the Southwest hundreds of miles from their sources. People at Cahokia, in what is now Illinois, traded stone hoe blades that have turned up more than 400 miles away. The traders belonged to many different nations. None of them organized that trade as a company whose owners each held a part of it.
+**From the Virginia Company of 1606 to the trillion-dollar companies of 2026, the biggest businesses here kept getting bigger, and at every step people fought over how much power their owners should have.**
+
+Members of a protest group called the Sons of Liberty smashed open 340 chests of tea with axes on December 16, 1773, and dumped the tea into Boston Harbor. The tea belonged to a company, the East India Company of London. British lawmakers had just let the company's agents sell its tea straight to the colonies, more cheaply than colonial merchants could. In February 1774 the company's directors sent a bill for the tea to the British minister in charge of the colonies. It came to 9,659 pounds, 6 shillings and 4 pence.
+
+This chapter describes the biggest companies of each era, from the London investors behind Jamestown to the technology companies in court in 2026. Watch where each company's power came from. At first it came from a government's written permission. Later it came from secret deals with railroads and from buying up rivals until a few owners ran whole industries. Watch, too, who pushed back: kings and lawmakers who took that permission away, workers who went on strike, a reporter named Ida Tarbell, and presidents and judges who split companies apart. The owners of some of these companies made money from shipping enslaved people. Others kept selling products after the people who made or used them died.
+
+**Three questions this chapter answers**
+- How did a few companies come to control whole industries?
+- What did owners do when their workers went on strike?
+- Did breaking up a giant company ever work?
+
+**Five minutes?** Read "Homestead, 1892" in 1850 to 1900.
+**Can skip:** "The Hudson's Bay Company, 1670 to 1825", "Who ran the corporations? 1932", "What was a conglomerate?". The chapter still makes sense without them.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="era" -->
+**Era 1 of 10 · Before 1500 · about 1 minute**
+
+No company existed in this land before 1500, no business owned by a group of people who put money into it and shared what it earned. Starting a corporation, a company that goes on after its first owners are gone, took a written grant from a government.
+
+Native nations traded goods over long distances. Archaeologists, the scientists who dig up and study what people left behind, have found copper from Lake Superior, shells from the Gulf of Mexico and turquoise from the Southwest hundreds of miles from their sources. People at Cahokia, in what is now Illinois, traded stone hoe blades that have turned up more than 400 miles away. The traders belonged to many different nations, and none of them ran that trade as a company whose owners each held a part of it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -24,15 +44,19 @@ Native nations did trade goods over long distances. Archaeologists have found co
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-The Europeans who reached this coast in the 1500s came on voyages paid for by kings and queens. No chartered company traded on this coast during that century. At the same time, merchants in London were forming joint-stock companies. Companies of that kind later paid for the first lasting English colonies here.
+**Era 2 of 10 · The 1500s · about 1 minute**
+
+Merchants in London started forming joint-stock companies in the 1500s, and later companies of that kind paid for England's first lasting colonies on this coast. Kings and queens paid for the European voyages that reached this coast during that century. No company with a charter, the written grant from a government that creates a company and lists its rights, traded here in those years.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The joint-stock company, an English idea" -->
-In the 1500s, merchants in London began forming joint-stock companies. In a joint-stock company, many investors each buy a share. A share is one part of the ownership. Each investor gets a part of the profit that matches the number of shares he owns. The money he paid in is called stock.
+<!-- hb-zoom level="span" label="What was a joint-stock company?" -->
+A joint-stock company had many owners at once. Each investor bought shares, parts of the ownership, and got a part of the profit that matched the number of shares he owned. The money the investors paid in was called stock.
 
-In 1555 the explorer Sebastian Cabot and a group of London merchants formed the Muscovy Company. The company held a monopoly on English trade with Russia. A monopoly is the right to be the only seller of something, or the only trader in a place. Earlier investors had taken their money back after each voyage. The Muscovy Company kept its investors' money in the business from one voyage to the next. It was the first English joint-stock company to work that way.
+The explorer Sebastian Cabot and a group of London merchants formed the Muscovy Company in 1555. It held a monopoly on English trade with Russia, the right to be the only English company trading there. Before it, investors had taken their money back after each voyage. The Muscovy Company was the first English joint-stock company that kept its investors' money in the business from one voyage to the next.
 
-On 11 September 1592, Sir Edward Osborne founded the Levant Company by joining two older companies, the Venice Company and the Turkey Company. Its merchants traded in the eastern Mediterranean Sea. The Levant Company's merchants did not trade in North America. On 31 December 1600 Queen Elizabeth I gave a charter to the East India Company of London. The Earl of Cumberland, a nobleman, and 218 other men had asked her for one. A charter is the written grant from a government that creates a company and lists its rights.
+Sir Edward Osborne founded the Levant Company on September 11, 1592, by joining two older companies, the Venice Company and the Turkey Company. Its merchants traded in the eastern Mediterranean Sea, not in North America.
+
+**A charter from the queen.** A nobleman and 218 other men asked Queen Elizabeth I for a charter for a new company. She gave one to the East India Company of London on December 31, 1600.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -40,72 +64,88 @@ On 11 September 1592, Sir Edward Osborne founded the Levant Company by joining t
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-Investors in English companies paid for the first lasting English colonies in this land. The companies' officers sent the settlers who founded them. A king signed each company's charter. Investors bought shares in each company, hoping the colony would earn them a profit. The kings who signed the charters gave the companies land where Native nations already lived. The Virginia Company and the Massachusetts Bay Company both lost their charters.
+**Era 3 of 10 · The 1600s · about 10 minutes**
 
-Other companies made money by owning enslaved people and by shipping enslaved Africans across the ocean. The Dutch West India Company owned the enslaved men who dug the trench for a wall at New Amsterdam. The historian William Pettigrew judged that the Royal African Company, chartered in 1672, shipped more enslaved Africans to the Americas than any other single company or group in the whole history of the slave trade.
+The first lasting English colonies here were started by companies, and the investors who owned them hoped the colonies would earn them a profit. A king signed each company's charter, investors bought its shares, and the company's officers sent the settlers. The kings who signed the charters gave the companies land where Native nations already lived. Two of those companies lost their charters before the century ended. King James I took the Virginia Company's in 1624, and English judges cancelled the Massachusetts Bay Company's in 1684.
+
+**Companies that traded people.** The owners of other companies made money from enslaved people. The Dutch West India Company owned the enslaved men who dug the trench for a wall at New Amsterdam. The ships of the Royal African Company, chartered in 1672, carried more enslaved Africans to the Americas than those of any other company or group in the history of the slave trade, the historian William Pettigrew found.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Virginia Company, a colony run as a business" -->
-In 1606 King James I of England gave a charter to the Virginia Company of London. It allowed the company to start a colony in North America. The company's settlers founded Jamestown on 13 May 1607. They built it inside Tsenacomoco, the land of the Powhatan chiefdom. A chiefdom is a group of towns under one leading chief.
+King James I of England gave the Virginia Company of London a charter in 1606 to start a colony in North America. The company's settlers founded Jamestown on May 13, 1607. They built it inside Tsenacomoco, the land of the Powhatan chiefdom, a group of towns under one leading chief.
 
-A share in the company cost 12 pounds and 10 shillings, and it lasted seven years. A shilling was a coin worth one twentieth of a pound. The first sale of shares may have raised as much as 10,000 pounds. In 1616 the company paid its shareholders in land alone.
+**The shares.** A share in the company cost 12 pounds and 10 shillings, at 20 shillings to the pound, and it lasted seven years. By one estimate, the first sale of shares raised as much as 10,000 pounds. In 1616 the company paid its shareholders in land alone.
 
-Under a second charter, dated 23 May 1609, the king gave up some of his power over the company. From then on the investors elected a treasurer to run it. Under a third charter, dated 12 March 1612, the company's lands included the island of Bermuda, and the company could run lotteries. A lottery is a game in which people buy tickets and a few tickets win prizes. By May 1620 lotteries had brought in 7,000 pounds of the company's 9,831 pounds in cash for the year. In February 1621 members of the House of Commons attacked the lotteries in a debate. The House of Commons is one of the two groups of lawmakers in England's Parliament. King James I banned the lotteries soon after.
+**Who ran it.** Under a second charter, dated May 23, 1609, the king gave up some of his power over the company, and from then on the investors elected a treasurer to run it. A third charter, dated March 12, 1612, added the island of Bermuda to the company's lands and allowed the company to run lotteries.
 
-Of the 4,270 people counted in Virginia from 1619 to 1622, only 1,240 were alive at the end. In 1619 about 700 settlers lived in the colony. Over the next three years the company shipped 3,570 more men, women and children there, for a total of 4,270. English settlers had been taking Powhatan land to grow tobacco. On 22 March 1622 an alliance of Virginia Indians led by Opechancanough attacked the English settlements. Opechancanough was the leading chief of the Powhatan. The attackers killed as many as 347 colonists.
+The lotteries raised 7,000 pounds of the company's 9,831 pounds in cash in the year before May 1620. Members of the House of Commons, one of the two groups of lawmakers in England's Parliament, attacked the lotteries in a debate in February 1621. King James I banned them soon after.
 
-Besides the 347 killed in the attack, 2,683 people were gone. An investor named Samuel Wrote asked what had happened to them. Encyclopedia Virginia's history of the company states that most of them died of disease.
+**The first Africans in Virginia.** The first Africans known to reach English Virginia came in 1619, while the company ran the colony. Earlier that summer the crews of two privateers, ships whose captains had a government's permission to attack and rob enemy ships, had attacked a Portuguese slave ship, the *São João Bautista*, off the coast of Campeche, in what is now Mexico. They seized 50 to 60 Africans from it.
 
-In May 1623 King James I's advisers on his Privy Council, the king's inner council, set up a royal commission, a group of officials named to look into the company's business. On 24 May 1624 the king took away the company's charter. From then on Virginia was a royal colony, run by officials the king chose.
+One of the two, the *White Lion*, had sailed from the Netherlands, and its captain, John Colyn Jope, carried Dutch papers giving him that permission. The *White Lion* landed "20. and odd" Africans at Point Comfort in Virginia in late August 1619, in the words of the colonist John Rolfe. Governor George Yeardley and the merchant Abraham Peirsey bought them and paid for them with food.
 
-The first Africans known to reach English Virginia came in 1619, while the company ran the colony. Earlier that summer the crews of two privateer ships had attacked a Portuguese slave ship, the *São João Bautista*, off the coast of Campeche, in what is now Mexico. They seized 50 to 60 Africans from it. A privateer was a ship's captain with a government's permission to attack and rob enemy ships. One ship, the *White Lion*, had sailed from the Netherlands, and its captain, John Colyn Jope, carried Dutch papers giving him that permission.
+The other ship, the English *Treasurer*, arrived three or four days later with more of the stolen people. Its owners were Robert Rich, Lord Warwick, a nobleman, and Samuel Argall, Virginia's deputy governor.
 
-In late August 1619 the *White Lion* landed "20. and odd" Africans, in the words of the colonist John Rolfe, at Point Comfort in Virginia. The other ship, the English *Treasurer*, arrived three or four days later with more of the stolen people. Its owners were Robert Rich, Lord Warwick, a nobleman, and Samuel Argall, Virginia's deputy governor. Governor George Yeardley and the merchant Abraham Peirsey bought the enslaved people from the *White Lion* and paid for them with food.
+**The deaths.** Of the 4,270 people counted in Virginia from 1619 to 1622, only 1,240 were alive at the end. About 700 settlers lived in the colony in 1619. Over the next three years the company's officers shipped 3,570 more men, women and children there.
+
+English settlers had been taking Powhatan land to grow tobacco. An alliance of Virginia Indians led by Opechancanough, the leading chief of the Powhatan, attacked the English settlements on March 22, 1622, and killed as many as 347 colonists. Besides those 347, 2,683 people were gone. One investor asked what had happened to them. Most of them had died of disease, Encyclopedia Virginia's history of the company states.
+
+**The end of the company.** King James I's advisers on the Privy Council, his inner council, named a group of officials in May 1623 to look into the company's business. On May 24, 1624, the king took away the company's charter. From then on Virginia was a royal colony, run by officials the king chose.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="edwin-sandys" name="Sir Edwin Sandys" movie="" kind="famous" status="verified" -->
 ### Sir Edwin Sandys
 
-> **Who:** The treasurer the Virginia Company's investors elected in 1619, the year its shipments of settlers grew.
+> **Who:** The man who ran the Virginia Company while its officers shipped thousands of settlers to a colony where most of them died.
 > **When and where:** London, 1619 to 1624.
 
-The investors of the Virginia Company elected Sir Edwin Sandys their treasurer on 28 April 1619. From 1619 to 1622, most of the people counted in the company's colony died or were killed.
+**Every person shipped to Virginia earned someone 50 acres.**
 
-Under Sandys, the company's officers used a plan called the headright to draw settlers. They promised 50 acres of land for each person whose trip to Virginia someone paid for. The payer got the land, whether he paid for his own trip or for another person's. The settler then paid the company a quitrent of one shilling a year. A quitrent is a small yearly rent paid on land. The land the company handed out this way was Powhatan land.
+The investors of the Virginia Company elected Sir Edwin Sandys their treasurer, the man who ran the company, on April 28, 1619. In the next three years most of the people counted in the company's colony died or were killed.
 
-Sandys and the company's officers shipped 3,570 more men, women and children to Virginia from 1619 to 1622. Of the 4,270 people counted in the colony in those years, 1,240 were still alive at the end. The historian Edmund S. Morgan studied these years in a book published in 1975. Encyclopedia Virginia's history of the company sums up what Morgan and later scholars showed: "any responsible monarch would have been obliged to stop the reckless shipment of his subjects to their deaths." A monarch is a king or a queen. Obliged means bound by duty, and subjects are the people a monarch rules. The king at the time was James I. He took the company's charter away in 1624.
+To draw settlers, Sandys and the company's officers used a plan called the headright. They promised 50 acres of land for each person whose trip to Virginia someone paid for. The payer got the land, whether he paid for his own trip or for another person's. The settler then paid the company a quitrent, a small yearly rent on the land, of one shilling a year. The land handed out this way was Powhatan land.
+
+Sandys and the officers shipped 3,570 more men, women and children to Virginia from 1619 to 1622. Of the 4,270 people counted in the colony in those years, only 1,240 were still alive at the end.
+
+The historian Edmund S. Morgan studied these years in a book published in 1975. Encyclopedia Virginia's history of the company sums up what Morgan and later scholars showed: any responsible king "would have been obliged (bound by duty) to stop the reckless shipment of his subjects (the people he ruled) to their deaths." The king at the time, James I, took the company's charter away in 1624.
 <!-- hb-story:end slug="edwin-sandys" -->
 
 <!-- hb-zoom level="span" label="The Dutch West India Company" -->
-On 3 June 1621, members of the States General, the lawmaking assembly of the Netherlands, gave a charter to the Dutch West India Company. For 24 years, no one else from the Netherlands could sail to or trade with the Americas. The same rule covered the coast of Africa from the Tropic of Cancer to the Cape of Good Hope. The Tropic of Cancer is a line on maps that circles the earth north of the equator. The Cape of Good Hope is near the southern tip of Africa.
+Members of the States General, the lawmaking assembly of the Netherlands, gave the Dutch West India Company a charter on June 3, 1621. For 24 years no one else from the Netherlands could sail to or trade with the Americas. The same rule held for the coast of Africa from the Tropic of Cancer, a line on maps north of the equator, to the Cape of Good Hope, near Africa's southern tip.
 
-In 1624 men working for the company built a trading post called Fort Orange, where Albany, New York, stands today. It was the first lasting Dutch settlement in New Netherland, the colony along the Hudson River. The upper Hudson was the country of the Mohican people. The company's settlers then moved onto Manhattan Island, the home of the Lenape people. Company officials said they bought Manhattan in 1626 for trade goods worth 60 guilders, which were Dutch coins. A guide to Lenape history from the Pratt Institute Libraries says the Dutch likely misunderstood what the Lenape meant by that exchange.
+**Fort Orange and Manhattan.** Men working for the company built a trading post called Fort Orange in 1624, where Albany, New York, stands today. It was the first lasting Dutch settlement in New Netherland, the colony along the Hudson River. The upper Hudson was the country of the Mohican people.
 
-The company owned people as well as ships and forts. In 1653 enslaved men owned by the company dug the trench for a wall at New Amsterdam, the town on Manhattan. Three of them are known by name: Paulo d'Angola, Simon Congo and Anthony Portuguese. In 1644, after 18 or 19 years of forced work, the company's director and council had given these three, eight other men and their wives what the officials called "half-freedom." The men could own land. Their children stayed the company's property, and the men still had to pay the company a yearly fee of grain or beans and a hog. They also had to work for the company whenever it called them.
+The company's settlers then moved onto Manhattan Island, the home of the Lenape people. Company officials said they bought Manhattan in 1626 for trade goods worth 60 guilders in Dutch coins. A guide to Lenape history from the Pratt Institute Libraries says the Dutch likely misunderstood what the Lenape meant by that exchange.
+
+**People the company owned.** The company owned people as well as ships and forts. Enslaved men owned by the company dug the trench for a wall at New Amsterdam, the town on Manhattan, in 1653. Three of them are known by name: Paulo d'Angola, Simon Congo and Anthony Portuguese.
+
+The company's director and council had given these three men, eight other men and their wives what the officials called "half-freedom" in 1644, after 18 or 19 years of forced work. The men could own land, but their children stayed the company's property. The men still owed the company a yearly payment of grain or beans and a hog, and they had to work for the company whenever its officials called them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Massachusetts Bay Company" -->
-The colony of Massachusetts was started by a company of investors, the Massachusetts Bay Company, and the company's leaders governed the colony under its charter. King Charles I signed the charter of the Massachusetts Bay Company in March 1629. In late August 1629, twelve men signed a paper called the Cambridge Agreement. Among them were John Winthrop, Richard Saltonstall and Thomas Dudley. They promised to sail to New England if the company's charter and its government moved there with them.
+Investors in the Massachusetts Bay Company started the colony of Massachusetts, and the company's leaders governed it under the company's charter. King Charles I signed that charter in March 1629. In late August 1629 twelve men, among them John Winthrop, signed a paper called the Cambridge Agreement. They promised to sail to New England if the company's charter and its government moved there with them.
 
-In 1630 Winthrop and about 1,000 Puritan settlers arrived at the Shawmut Peninsula. Puritans were English Protestants who wanted to "purify" the Church of England, the king's official church. The land around the peninsula belonged to the Massachusett people, whose leading chief was Chickataubut. According to the West End Museum in Boston, about 100,000 people had lived in the region. An epidemic from 1616 to 1618 had killed about 75,000 of them. An epidemic is a disease that spreads quickly through many people. Winthrop renamed the peninsula Boston. In 1633 Chickataubut agreed to a treaty with Winthrop that gave up his rights to the peninsula. A treaty is a written agreement between nations or their leaders. Chickataubut died of smallpox that same year.
+**Boston.** Winthrop arrived at the Shawmut Peninsula in 1630 with about 1,000 Puritan settlers, English Protestants who wanted to "purify" the king's official church, the Church of England. Winthrop renamed the peninsula Boston.
 
-On 23 October 1684 English judges cancelled the company's charter for three reasons. Colonists had traded with other countries against English trade laws. The colony's leaders had made their own coins, without the king's picture on them. The colony's lawmakers had passed laws against Quakers and against members of the Church of England. Quakers belong to a Christian group, also called the Society of Friends, that began in England in the 1600s.
+The land around the peninsula belonged to the Massachusett people, whose leading chief was Chickataubut. About 100,000 people had lived in the region, according to the West End Museum in Boston, and an epidemic, a disease that spread quickly through many people, had killed about 75,000 of them from 1616 to 1618. In 1633 Chickataubut agreed to a treaty with Winthrop, a written agreement that gave up his rights to the peninsula. He died of smallpox that same year.
+
+**The charter cancelled.** English judges cancelled the company's charter on October 23, 1684, for three reasons. Colonists had traded with other countries against English trade laws. The colony's leaders had made their own coins, without the king's picture on them. And the colony's lawmakers had passed laws against members of the Church of England and against Quakers, a Christian group, also called the Society of Friends, that began in England in the 1600s.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Hudson's Bay Company" -->
-King Charles II gave a charter to the Hudson's Bay Company on 2 May 1670. Prince Rupert, the king's cousin, had persuaded the king and a group of merchants and noblemen to back the company. The charter gave the company the only right to trade in all the lands whose rivers flow into Hudson Bay. Those lands are in what is now Canada. In the charter they are called Rupert's Land.
+<!-- hb-zoom level="span" label="The Hudson's Bay Company, 1670 to 1825" -->
+King Charles II gave a charter to the Hudson's Bay Company on May 2, 1670. Prince Rupert, the king's cousin, had persuaded the king and a group of merchants and noblemen to back the company. Under the charter, the company alone could trade in all the lands whose rivers flow into Hudson Bay, in what is now Canada. In the charter those lands are called Rupert's Land.
 
-The Hudson's Bay Company was an English company. In 1821 it took over the trading posts of its rival, the North West Company, in the Pacific Northwest. On 19 March 1825 the company's governor, George Simpson, and the trader Dr. John McLoughlin opened Fort Vancouver on the Columbia River, in what is now Washington state. Chinookan people had lived along that river for thousands of years. They called the place where the fort stood Skatcutxat, which means "Mud Turtles."
+The Hudson's Bay Company was an English company. Much later, in 1821, it took over the trading posts of its rival, the North West Company, in the Pacific Northwest. The company's governor, George Simpson, and the trader Dr. John McLoughlin opened Fort Vancouver on the Columbia River, in what is now Washington state, on March 19, 1825. Chinookan people had lived along that river for thousands of years. They called the place where the fort stood Skatcutxat, which means "Mud Turtles."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Royal African Company" -->
-The Royal African Company was an English company whose investors made money from shipping enslaved Africans to the Americas. King Charles II gave it a charter in 1672, and his brother James, Duke of York, led it. Duke of York was James's royal title. It held the only English right to trade with West Africa. That trade included gold, silver and enslaved people. James later became King James II.
+The Royal African Company's investors made money from shipping enslaved Africans to the Americas. King Charles II gave the company a charter in 1672, and his brother James, who held the title Duke of York, led it. James later became King James II. The company held the only English right to trade with West Africa, a trade in gold, silver and enslaved people.
 
-Between 1672 and 1731, ships that the company put money into carried 186,748 enslaved people on 652 voyages to English colonies in the Americas. Of those people, 16,077 died on the way. The count comes from the Trans-Atlantic Slave Trade Database, a record of known slave voyages. From 1680 to 1686, the company's ships carried about 5,000 people a year. Most of them went to English colonies in the Caribbean and to Virginia.
+Ships that the company put money into carried 186,748 enslaved people on 652 voyages to English colonies in the Americas between 1672 and 1731. Of those people, 16,077 died on the way. The count comes from the Trans-Atlantic Slave Trade Database, a record of known slave voyages. From 1680 to 1686 the company's ships carried about 5,000 people a year, most of them to English colonies in the Caribbean and to Virginia.
 
-Thousands of the people the company shipped arrived with the company's initials branded on their chests. To brand a person means to press a red-hot metal stamp against the skin. The heat burns the letters into the flesh and leaves a raised scar for life. Many of the brands read DoY, for Duke of York, the company's leader. Others read RAC, for Royal African Company. The accounts of the branding name the company but not the men who pressed the hot stamps into people's skin.
+**The brands.** Thousands of the people on the company's ships arrived with the company's initials branded on their chests. To brand a person means to press a red-hot metal stamp against the skin. The heat burns the letters into the flesh and leaves a raised scar for life. Many of the brands read DoY, for Duke of York, the company's leader. Others read RAC, for Royal African Company. The accounts of the branding name the company but not the men who pressed the hot stamps into people's skin.
 
-The historian William Pettigrew wrote in his 2013 book *Freedom's Debt* that the company "shipped more enslaved African women, men and children to the Americas than any other single institution during the entire period of the transatlantic slave trade." An institution here means a company or any other organization. Transatlantic means across the Atlantic Ocean. He also wrote that its investors knew what the company did and meant to make money from it.
+The historian William Pettigrew wrote in his 2013 book *Freedom's Debt* that the company "shipped more enslaved African women, men and children to the Americas than any other single institution (company or other group) during the entire period of the transatlantic (across the Atlantic) slave trade." He also wrote that its investors knew what the company did and meant to make money from it.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -113,36 +153,42 @@ The historian William Pettigrew wrote in his 2013 book *Freedom's Debt* that the
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-From 1700 to 1750 almost no business in the colonies was a corporation. The historian Robert E. Wright counts only 8 business corporations chartered in the colonies before independence. He writes, "Before the Revolution, American business corporations were few, small, and largely inconsequential." Inconsequential means unimportant. Under British rules, Wright writes, a charter cost a lot to get and gave its owners little in return. So most colonists in business chose other ways to organize.
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
+
+The historian Robert E. Wright counts only 8 business corporations chartered in the colonies before independence, so almost no business in the colonies from 1700 to 1750 was a corporation. He writes that before the Revolution, American business corporations were "few, small, and largely inconsequential," which means mostly unimportant. Under British rules, Wright writes, getting a charter cost a lot, and its owners got little in return. So most colonists in business found other ways to organize.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Partners, and the trade in people" -->
-Many colonial businesses were partnerships. In a partnership, two or more men put their money together and shared the profits. Under the law of the time, each partner was liable for all of the firm's debts. Liable means that a person has to pay. If the firm failed, the people it owed could make any one partner pay all of it from his own property.
+Many colonial businesses were partnerships, in which two or more men put their money together and shared the profits. Under the law of the time, each partner was liable for all of the firm's debts, which meant he could be made to pay them. If the firm failed, the people it owed could make any one partner pay all of it from his own property.
 
-The Royal African Company lost its monopoly in practice in 1689, after King James II lost his throne. The company's own leaders admitted it that year. In 1698 members of the English Parliament passed a law that opened the African trade to every English merchant. Under that law any English merchant could carry enslaved people from Africa. He had to pay the company a fee of 10 percent on the goods he shipped out of Africa. The Royal African Company itself stopped trading in enslaved people in 1731.
+**The trade opened.** The Royal African Company's monopoly ended in practice in 1689, after King James II lost his throne, and the company's own leaders admitted it that year. Under a law that members of the English Parliament passed in 1698, any English merchant could carry enslaved people from Africa. He had to pay the company a fee of 10 percent on the goods he shipped out of Africa. The Royal African Company itself stopped trading in enslaved people in 1731.
 
-Boston merchants bought and sold people. From 1719 to 1781 the *Boston Gazette*, a newspaper, ran about 2,300 advertisements for about 2,000 enslaved people. Charles Apthorp, a Boston merchant born in Britain, ran a firm that imported enslaved people and sold them along with other goods. By 1746 he was one of the richest men in Boston. In the 1730s and 1740s he placed advertisements in the *Boston Gazette* for "a parcel of likely negros just imported." A parcel meant a group. Sellers used likely as a word of praise. It meant fit for work, healthy and good-looking. Negro was a word used then for a Black person. In 1742 Apthorp offered a reward of five pounds for the return of "a negro man named Jack about 35 years old." Jack had escaped from his enslaver, Stephen Eastwick. Apthorp was also a business partner of Thomas Hancock, one of the richest merchants in New England.
+**Boston's trade in people.** Boston merchants bought and sold people. The *Boston Gazette*, a newspaper, ran about 2,300 advertisements for about 2,000 enslaved people from 1719 to 1781. Charles Apthorp, a Boston merchant born in Britain, ran a firm that brought in enslaved people and sold them along with other goods. By 1746 he was one of the richest men in Boston.
+
+Apthorp placed advertisements in the *Boston Gazette* in the 1730s and 1740s for "a parcel of likely negros just imported," a group of newly arrived Black people he called healthy, good-looking and fit for work. In 1742 he offered a reward of five pounds for the return of "a negro man named Jack about 35 years old," who had escaped from his enslaver, Stephen Eastwick. Apthorp's business partner was Thomas Hancock, one of the richest merchants in New England.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="thomas-hancock" name="Thomas Hancock" movie="" kind="famous" status="verified" -->
 ### Thomas Hancock
 
-> **Who:** A Boston merchant who built one of the largest fortunes in New England. With his partner Charles Apthorp, he rented out the ships that carried the Acadians away from their homeland in 1755.
+> **Who:** The Boston merchant whose firm rented out the ships that carried the Acadians away from their homeland in 1755.
 > **When and where:** Boston, from about 1724 until his death in 1764.
 
-Thomas Hancock built one of the largest fortunes in New England. Part of his firm's business was carrying people whom British officials had forced from their homes. He was born in Lexington, Massachusetts, on 17 July 1703. At 13 or 14 (accounts differ), he was apprenticed to a bookseller in Boston. An apprentice works for a master for a set number of years to learn a trade. Hancock opened his own bookshop in 1723 or 1724. In 1730 he married Lydia Henchman. She was the daughter of Daniel Henchman, a Boston bookseller who was Hancock's business partner.
+**Ships from his firm were rebuilt to hold two people a ton.**
 
-Hancock traded in many goods, and with different partners he made paper. His ships took codfish, whale oil, logwood and potash to other countries. Logwood is a tree whose wood gives a dye, and potash is a salt made from wood ashes. He sold rum and molasses to the crews of the fishing fleet off Newfoundland, and he controlled a group of fishing boats of his own.
+Thomas Hancock built one of the largest fortunes in New England, and part of his firm's business was carrying people whom British officials had forced from their homes. He started out at 13 or 14 as a bookseller's apprentice in Boston, learning the trade.
 
-Smuggling was part of the business too. Smuggling means moving goods in or out of a place in secret, against the law. Under English trade laws, colonial merchants could buy and sell only where those laws allowed. Hancock's ships carried tea and paper from Amsterdam to the West Indies. When his ships brought French molasses into Boston, he hid it.
+**What he traded.** Hancock's ships took codfish, whale oil, logwood (a wood that gives a dye) and potash (a salt made from wood ashes) to other countries. With different partners he made paper. He sold rum and molasses to the crews of the fishing fleet off Newfoundland, and he controlled a group of fishing boats of his own.
 
-Hancock's partner Charles Apthorp worked as a paymaster and agent for the British army and navy. A paymaster is the man who pays out an army's or a navy's money. Apthorp supplied goods and money to British forces in Nova Scotia and in Boston. In the autumn of 1755, British officials forced the Acadians out of Nova Scotia and took their houses and farms. The Acadians were French-speaking Catholic farm families. The officials who gave the orders were Governor Charles Lawrence of Nova Scotia and Governor William Shirley of Massachusetts.
+**Smuggling.** Under English trade laws, colonial merchants could buy and sell only where the laws allowed. Hancock's ships carried tea and paper from Amsterdam to the West Indies anyway, and when his ships brought French molasses into Boston, he hid it.
 
-Lawrence and Shirley hired about 24 sailing ships from the firm of Apthorp and Hancock to carry the Acadians away. They paid by the month, and they paid a fixed fee for each person carried. The partners charged 40 to 48 pounds a month for each ship. In Boston the partners' ships were rebuilt inside to hold two people for every ton of cargo the ship could carry. Some ships held 300 to 500 people. The historian Mark Peterson writes that the ships were "fitted out in the manner of slave ships." The ships carried the Acadians to British colonies along the Atlantic coast, among them Maryland and South Carolina.
+**The Acadians.** Hancock's partner Charles Apthorp was a paymaster and agent for the British army and navy, the man who paid out their money, and he supplied goods and money to British forces in Nova Scotia and Boston. In the autumn of 1755 British officials forced the Acadians, French-speaking Catholic farm families, out of Nova Scotia and took their houses and farms. The officials who gave the orders were Governor Charles Lawrence of Nova Scotia and Governor William Shirley of Massachusetts.
 
-The ships that Apthorp and Hancock supplied were in poor condition. On board, Acadians went without enough food, caught diseases and died. The ships carried no passenger lists, so no record shows which Acadians died at sea or how many.
+Lawrence and Shirley hired about 24 sailing ships from the firm of Apthorp and Hancock to carry the Acadians away. The partners charged 40 to 48 pounds a month for each ship, and the governors also paid a fixed fee for each person carried. In Boston the ships were rebuilt inside to hold two people for every ton of cargo the ship could carry, and some held 300 to 500 people. The historian Mark Peterson writes that they were "fitted out in the manner of slave ships."
 
-In 1763 Hancock made his nephew John Hancock his equal partner. Thomas Hancock died of a stroke on 1 August 1764, as he entered the council chamber in Boston. He left property and money worth about 70,000 pounds.
+The ships carried the Acadians to British colonies along the Atlantic coast, among them Maryland and South Carolina. They were in poor condition. On board, Acadians went without enough food, caught diseases and died. The ships carried no passenger lists, so no record shows which Acadians died at sea or how many.
+
+Hancock made his nephew, John Hancock, his equal partner in 1763. Thomas Hancock died of a stroke on August 1, 1764, as he entered the council chamber in Boston. He left property and money worth about 70,000 pounds.
 <!-- hb-story:end slug="thomas-hancock" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -150,47 +196,63 @@ In 1763 Hancock made his nephew John Hancock his equal partner. Thomas Hancock d
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-In 1773 colonists in Boston destroyed tea that belonged to the East India Company of London. British lawmakers had just given that company the right to sell its tea straight to the colonies. After independence, American lawmakers began chartering companies of their own. Most of the charters went to banks, to insurance companies, to companies that piped water to towns, and to companies that built bridges, canals and toll roads. An insurance company takes a regular fee from people and pays them back if they suffer a loss, such as a fire. A toll is a fee that people pay to use a road or to cross a bridge. Robert E. Wright counts 319 business corporations chartered in the United States before 1801. Only 8 of them came from the colonial years, and 21 more from 1776 to 1789. The rest were chartered from 1790 to 1800.
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
+
+Colonists in Boston destroyed tea in 1773 that belonged to the East India Company of London. British lawmakers had just given that company the right to sell its tea straight to the colonies. After independence, American lawmakers began chartering companies of their own.
+
+**Charters at home.** Most of the new charters went to banks and to insurance companies, which took a regular fee from people and paid them back after a loss such as a fire. Others went to companies that piped water to towns or built canals, bridges and toll roads, roads that people paid a fee to use.
+
+Robert E. Wright counts 319 business corporations chartered in the United States before 1801. Only 8 of them came from the colonial years and 21 from 1776 to 1789. The other 290 were chartered from 1790 to 1800.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Tea Act and the East India Company" -->
-Members of the British Parliament passed the Tea Act on 10 May 1773. The East India Company of London, the company chartered in 1600, held about 17 million pounds of tea, by weight, that it could not sell. Under the Tea Act the company could ship tea straight to the American colonies. Its own agents could sell the tea there at a lower price. Under the Act, the tax on tea that members of Parliament had set in 1767 still had to be paid on the company's tea in the colonies. The Act added no new tax. The company's agents could sell tea more cheaply than colonial merchants, so the merchants who sold tea in the colonies lost business.
+<!-- hb-zoom level="span" label="Whose tea went into Boston Harbor?" -->
+The tea belonged to the East India Company of London, the company chartered in 1600. The company held about 17 million pounds of tea, by weight, that it could not sell. Members of the British Parliament passed the Tea Act on May 10, 1773. Under it, the company could ship tea straight to the American colonies, and its own agents could sell the tea there at a lower price.
 
-Ships carrying the company's tea reached Boston in late 1773. Thomas Hutchinson was the royal governor of Massachusetts. He refused to let the *Beaver*, the *Dartmouth* and the *Eleanor* leave the harbor until they had unloaded. On 16 December 1773, members of a protest group called the Sons of Liberty boarded the three ships. Some were dressed as Mohawk men. They smashed open 340 chests of tea with axes and dumped them into Boston Harbor. The tea weighed more than 92,000 pounds, about 46 tons. Many accounts say 342 chests, but the company's own papers say 340.
+The Act contained no new tax. The tax on tea that members of Parliament had set in 1767 still had to be paid on the company's tea. But the company's agents could sell tea more cheaply than colonial merchants could, so the merchants who sold tea in the colonies lost business.
 
-In February 1774 the company's directors sent a bill to the Earl of Dartmouth, a British lord who was the minister in charge of the American colonies. They asked to be paid back for the tea. The bill came to 9,659 pounds, 6 shillings and 4 pence. A penny was a coin worth one twelfth of a shilling, and "pence" means more than one penny.
+**The Boston Tea Party.** Ships carrying the company's tea reached Boston in late 1773. Thomas Hutchinson, the royal governor of Massachusetts, refused to let the three ships, the *Beaver*, the *Dartmouth* and the *Eleanor*, leave the harbor until they had unloaded. Members of a protest group called the Sons of Liberty boarded the ships on December 16, 1773, some of them dressed as Mohawk men. They smashed open 340 chests of tea with axes and dumped them into Boston Harbor.
+
+The tea weighed more than 92,000 pounds, about 46 tons. Many accounts say 342 chests, but the company's own papers say 340.
+
+**The bill.** The company's directors sent a bill to the Earl of Dartmouth, the British lord in charge of the American colonies, in February 1774. They asked to be paid back for the tea. The bill came to 9,659 pounds, 6 shillings and 4 pence, with 12 pence to the shilling.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Americans start chartering companies" -->
-The Bank of North America was the first commercial bank in the United States. A commercial bank keeps people's money safe and lends money to merchants and businesses. Robert Morris planned the bank, and members of the Continental Congress approved his plan on 26 May 1781. The Continental Congress was the meeting of leaders from the 13 states that ran the country during the Revolution. Its members granted the charter on 31 December 1781. The bank opened on 7 January 1782 on Chestnut Street in Philadelphia.
+Robert Morris planned the first commercial bank in the United States, the Bank of North America, a bank that kept people's money safe and lent money to merchants and businesses. Members of the Continental Congress, the leaders from the 13 states who ran the country during the Revolution, approved his plan on May 26, 1781. They granted the bank its charter on December 31, 1781, and it opened on Chestnut Street in Philadelphia on January 7, 1782.
 
-Morris used a shipment of French silver worth $450,000, which had been sent to Congress, to start the bank. The bank then lent the money back to Congress. Ninety-nine Philadelphians and members of Congress bought shares.
+Morris started the bank with a shipment of French silver worth $450,000 that had been sent to Congress, and the bank's officers then lent the money back to Congress. Ninety-nine Philadelphians and members of Congress bought shares.
 
-Pennsylvania's lawmakers had given the bank a second charter of their own in 1782. In March 1785 members of the Pennsylvania assembly, the state's lawmakers, received petitions asking them to cancel that charter. A petition is a written request signed by many people. The bank's critics said its officers favored their friends, charged too much interest on loans, and had too much power over trade and politics. They pointed to the 14 percent dividends the bank paid its shareholders. A dividend is a share of the profits paid out to the owners. The lawmaker William Findley called the bank "a monopoly." That September the lawmakers voted to cancel the charter. In 1787 they gave the bank a narrower charter. It lasted 14 years, and under it the bank's capital, the money its owners put in, could be no more than $2 million. The bank could own no property beyond what its business needed.
+**A fight over the charter.** Pennsylvania's lawmakers gave the bank a second charter of their own in 1782. In March 1785 they received petitions, written requests signed by many people, asking them to cancel it. The bank's critics said its officers favored their friends, charged too much interest on loans and had too much power over trade and politics. They pointed to the 14 percent dividends, shares of the profits, that the bank paid its shareholders.
 
-Only 7 of the 319 corporations that Wright counts before 1801 were for making goods. From 1786 to 1798, lawmakers in the Northeast chartered 59 private companies to build toll bridges. The first was the Charles River Bridge in Boston. In its first six years, its investors earned an average of 10.5 percent a year on their money.
+The lawmaker William Findley called the bank "a monopoly." That September the lawmakers voted to cancel the charter. In 1787 they gave the bank a narrower charter that lasted 14 years. Under it the bank's capital, the money its owners put in, could be no more than $2 million, and the bank could own no property beyond what its business needed.
 
-Getting a charter cost money. Wright found that people who wanted one paid for signatures and for help getting a bill passed by the lawmakers. Some paid lobbyists and bribes. A lobbyist is a person paid to persuade lawmakers. A bribe is money paid to someone in power to get them to do something.
+**Toll bridges.** Only 7 of the 319 corporations that Wright counts before 1801 were for making goods. Lawmakers in the Northeast chartered 59 private companies to build toll bridges from 1786 to 1798. The first was the Charles River Bridge in Boston, and in its first six years its investors earned an average of 10.5 percent a year on their money.
 
-In a corporation, each owner risks the money he paid for his shares. Limited liability is the rule that owners cannot also be made to pay the company's debts from their own property. The historians Oscar and Mary Handlin found only 16 early charters that spelled out a promise of limited liability. Wright argues that owners' risk was limited anyway. A company could not charge its shareholders more than the price of their shares.
+**What a charter cost.** Getting a charter cost money. Wright found that people who wanted one paid for signatures and for help getting a bill passed by the lawmakers. Some paid lobbyists, people hired to persuade lawmakers, and some paid bribes.
+
+**How much an owner could lose.** In a corporation, each owner risks the money he paid for his shares. Under a rule called limited liability, owners cannot also be made to pay the company's debts from their own property. The historians Oscar and Mary Handlin found only 16 early charters that spelled out that promise. Wright argues that owners' risk was limited anyway, because a company could not charge its shareholders more than the price of their shares.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="robert-morris" name="Robert Morris" movie="" kind="famous" status="verified" -->
 ### Robert Morris
 
-> **Who:** The merchant who ran the country's finances near the end of the Revolution and planned its first commercial bank. He bought almost all of the Seneca Nation's remaining land in New York, and he was later locked in a prison for people who could not pay their debts.
+> **Who:** The merchant who ran the country's finances near the end of the Revolution, then went to a debtors' prison owing nearly $3 million.
 > **When and where:** Philadelphia, 1781 to 1801. Born 1734, died 1806.
 
-Robert Morris ran the finances of the United States near the end of the Revolution, and later he went to prison for his debts. As Superintendent of Finance, the man the Continental Congress put in charge of its money, he wrote the charter of the Bank of North America. He used the bank to keep the value of the country's money steady and to keep the national government from running out of money.
+**When he left prison, he owed $2,948,711.11.**
 
-After the war, Morris bought land with borrowed money. Starting in 1793, he and his partners John Nicholson and James Greenleaf bought thousands of building lots in the new District of Columbia. They also bought millions of acres in Pennsylvania, New York, Kentucky, Virginia, Georgia and the Carolinas.
+As Superintendent of Finance, the official in charge of the Continental Congress's money, Robert Morris wrote the charter of the Bank of North America. He used the bank to keep the value of the country's money steady and to keep the national government from running out of money.
 
-Morris's land in western New York was Seneca land. From 20 August to 16 September 1797, his son Thomas Morris and his agent Charles Williamson met Seneca leaders at Geneseo, New York. Nearly 3,000 Seneca and other Haudenosaunee people came. The Haudenosaunee are a union of Native nations: the Mohawk, Oneida, Onondaga, Cayuga and Seneca, later joined by the Tuscarora. The Seneca leaders at Geneseo included Cornplanter, Red Jacket and Handsome Lake, along with the clan mothers. Clan mothers are women leaders who choose their clan's chiefs and can remove a chief who acts badly. At this meeting the Seneca leaders signed the Treaty of Big Tree. Under it they gave up almost all of their remaining land in New York, nearly 3.5 million acres. They kept 12 small pieces of land.
+After the war, Morris bought land with borrowed money. Starting in 1793, he and his partners, among them John Nicholson, bought thousands of building lots in the new District of Columbia. They also bought millions of acres in Pennsylvania, New York, Kentucky, Virginia, Georgia and the Carolinas.
+
+**Seneca land.** Morris's land in western New York was Seneca land. His son Thomas Morris and his agent Charles Williamson met Seneca leaders at Geneseo, New York, from August 20 to September 16, 1797. Nearly 3,000 people came from the Seneca and the other nations of the Haudenosaunee, the union of six Native nations to which the Seneca belong.
+
+The Seneca leaders at Geneseo included Cornplanter, Red Jacket and Handsome Lake, along with the clan mothers, the women leaders who choose their clan's chiefs and can remove a chief who acts badly. At this meeting the Seneca leaders signed the Treaty of Big Tree. They gave up almost all of their remaining land in New York, nearly 3.5 million acres, and kept 12 small pieces.
 
 Morris paid $100,000. Federal officials held the money and put it into shares of the Bank of the United States, which paid the Seneca up to $6,000 a year. Morris asked that the $100,000 go back to his own heirs, the family members who would inherit from him, if the Seneca nation should "become extinct," meaning if every Seneca died. The heads of the federal Treasury and State departments refused. Most of the land went on to the Holland Land Company.
 
-By 1797 Morris and Nicholson together owed their creditors about $12 million. A creditor is a person owed money. In February 1798 officers arrested Morris at his home. They took him to the Prune Street debtors' apartment, next to the Walnut Street Prison in Philadelphia. Morris was held there because he could not pay his debts. He stayed there about three and a half years.
+**Prison.** Morris and Nicholson together owed their creditors, the people they had borrowed from, about $12 million by 1797. Officers arrested Morris at his home in February 1798 and took him to the Prune Street debtors' apartment, next to the Walnut Street Prison in Philadelphia. He was held there about three and a half years because he could not pay his debts.
 
-In 1800 members of Congress passed a bankruptcy law. Bankruptcy is a legal process for a person who cannot pay his debts. A court divides what he owns among the people he owes, and he is freed from the rest of the debt. Accounts differ about whether Morris's time in prison helped get that law passed. He was released under it in August or October 1801 (accounts differ). At his release, three bankruptcy commissioners, officials who handled his case, found that he himself owed $2,948,711.11.
+Members of Congress passed a bankruptcy law in 1800. Under it, a court could divide what a person owned among the people he owed and free him from the rest of the debt. Accounts differ about whether Morris's time in prison helped get that law passed. He was released under it in August or October 1801. The three officials who handled his case found that he himself owed $2,948,711.11.
 <!-- hb-story:end slug="robert-morris" -->
 <!-- hb-time:end id="1750-1800" -->

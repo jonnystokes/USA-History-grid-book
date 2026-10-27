@@ -1,0 +1,211 @@
+## Glossary
+
+- corporation: a company that goes on after its first owners are gone, one the law treats as one body (Before 1500)
+- archaeologists: the scientists who dig up and study what people left behind (Before 1500)
+- charter: the written grant from a government that creates a company and lists its rights (The 1500s)
+- joint-stock company: a company with many owners at once, each holding shares (The 1500s)
+- shares: parts of the ownership of a company (The 1500s)
+- stock: the money the investors in a joint-stock company paid in, and later the shares a company sells to investors (The 1500s)
+- monopoly: the right to be the only company trading somewhere, and later a business with no real rivals (The 1500s)
+- chiefdom: a group of towns under one leading chief (The 1600s)
+- shilling: an English coin, 20 to the pound (The 1600s)
+- House of Commons: one of the two groups of lawmakers in England's Parliament (The 1600s)
+- privateer: a ship whose captain had a government's permission to attack and rob enemy ships (The 1600s)
+- Privy Council: the English king's inner council (The 1600s)
+- headright: the Virginia Company's plan that gave 50 acres of land for each person whose trip to Virginia someone paid for (The 1600s)
+- quitrent: a small yearly rent on land (The 1600s)
+- obliged: bound by duty (The 1600s)
+- subjects: the people a king rules (The 1600s)
+- States General: the lawmaking assembly of the Netherlands (The 1600s)
+- Tropic of Cancer: a line on maps north of the equator (The 1600s)
+- guilder: a Dutch coin (The 1600s)
+- half-freedom: the Dutch West India Company officials' name for a status in which a man could own land, but his children stayed the company's property and he still owed it yearly payments and work (The 1600s)
+- Puritans: English Protestants who wanted to "purify" the king's official church, the Church of England (The 1600s)
+- epidemic: a disease that spreads quickly through many people (The 1600s)
+- treaty: a written agreement, here one that gave up a leader's rights to land (The 1600s)
+- Quakers: a Christian group, also called the Society of Friends, that began in England in the 1600s (The 1600s)
+- brand (to brand a person): to press a red-hot metal stamp against the skin. The heat burns the letters into the flesh and leaves a raised scar for life (The 1600s)
+- institution: a company or other group (The 1600s)
+- transatlantic: across the Atlantic (The 1600s)
+- inconsequential: mostly unimportant (1700 to 1750)
+- partnership: a business in which two or more men put their money together and shared the profits (1700 to 1750)
+- liable: able to be made to pay a debt (1700 to 1750)
+- parcel: a group (1700 to 1750)
+- likely: a sellers' word of praise for an enslaved person, meaning healthy, good-looking and fit for work (1700 to 1750)
+- apprentice: a young worker learning a trade (1700 to 1750)
+- logwood: a wood that gives a dye (1700 to 1750)
+- potash: a salt made from wood ashes (1700 to 1750)
+- paymaster: the man who pays out an army's or a navy's money (1700 to 1750)
+- Acadians: French-speaking Catholic farm families of Nova Scotia (1700 to 1750)
+- insurance company: a company that takes a regular fee from people and pays them back after a loss such as a fire (1750 to 1800)
+- toll road: a road that people paid a fee to use (1750 to 1800)
+- pence: pennies, 12 to the shilling (1750 to 1800)
+- commercial bank: a bank that keeps people's money safe and lends money to merchants and businesses (1750 to 1800)
+- Continental Congress: the leaders from the 13 states who ran the country during the Revolution (1750 to 1800)
+- petition: a written request signed by many people (1750 to 1800)
+- dividend: a share of a company's profits paid to its owners (1750 to 1800)
+- capital: the money a company's owners put in (1750 to 1800)
+- lobbyist: a person hired to persuade lawmakers (1750 to 1800)
+- limited liability: the rule that a company's owners cannot also be made to pay its debts from their own property (1750 to 1800)
+- Superintendent of Finance: the official in charge of the Continental Congress's money (1750 to 1800)
+- Haudenosaunee: the union of six Native nations to which the Seneca belong (1750 to 1800)
+- clan mothers: the women leaders who choose their clan's chiefs and can remove a chief who acts badly (1750 to 1800)
+- heirs: the family members who will inherit from someone (1750 to 1800)
+- creditors: the people someone has borrowed from (1750 to 1800)
+- bankruptcy: a court process that divides what a person owns among the people he owes and frees him from the rest of the debt, and for a company, a court process for a company that cannot pay its debts (1750 to 1800)
+- general incorporation law: a law that let any group form a corporation by following set steps, without a special vote (1800 to 1850)
+- embargo: a government ban on trade (1800 to 1850)
+- incorporate: to form a corporation (1800 to 1850)
+- trustees: the board that runs a college (1800 to 1850)
+- impairing: weakening (1800 to 1850)
+- alter, modify, or repeal: change or cancel (1800 to 1850)
+- spindle: the rod that twists cotton fibers into thread (1800 to 1850)
+- power loom: a weaving machine driven by water power (1800 to 1850)
+- negro cloth: the name people at the time gave a cheap cloth planters bought to clothe the people they enslaved (1800 to 1850)
+- lash: a whip (1800 to 1850)
+- unconstitutional: against the Constitution (1800 to 1850)
+- veto: a president's refusal to sign a bill (1800 to 1850)
+- credit: money to borrow (1800 to 1850)
+- suspend payment: for a bank, to stop handing out coins to people who bring in its paper notes (1800 to 1850)
+- stockholders: the people who own a company's shares (1800 to 1850)
+- grand jury: a group of citizens who decide whether there is enough proof for a trial (1800 to 1850)
+- land grant: a gift of land from a government (1850 to 1900)
+- refining: the work of cleaning crude oil from the ground and separating it into products people can use (1850 to 1900)
+- rebate: money a railroad would pay back to a shipper on every barrel he shipped (1850 to 1900)
+- drawback: money a railroad would pay a shipper on every barrel his rivals shipped (1850 to 1900)
+- never know want: never be poor (1850 to 1900)
+- trust: a way to run many companies as one business, with one small group in charge (1850 to 1900)
+- trustee: a person who holds and manages property for others (1850 to 1900)
+- antitrust laws: laws against trusts and other combinations of companies (1850 to 1900)
+- notes: written promises to repay loans (1850 to 1900)
+- mortgage: borrowing money by pledging a house, which the lender can take if the loan is not repaid (1850 to 1900)
+- Interstate Commerce Commission: the federal board set up in 1887 to watch over the railroads (1850 to 1900)
+- vertical integration: one company owning each stage of making a product, from the raw material to the finished goods (1850 to 1900)
+- coke: a fuel baked from coal that steel makers burn to melt iron ore (1850 to 1900)
+- carte blanche: full freedom (1850 to 1900)
+- lockout: closing a plant to its workers (1850 to 1900)
+- heater's helper: one of the workers who heated the steel (1850 to 1900)
+- blacklist: a list of workers that employers agree never to hire (1850 to 1900)
+- about going: about to die (1850 to 1900)
+- interstate commerce: trade between the states (1850 to 1900)
+- federal regulation: rules made and enforced by the national government (1850 to 1900)
+- in restraint of trade: blocking free buying and selling between the states (1850 to 1900)
+- monopolize: to become the only seller of something (1850 to 1900)
+- depression: a long time when many businesses fail and many people lose their jobs (1850 to 1900)
+- boycott of Pullman cars: railroad workers refusing to handle trains that carried them (1850 to 1900)
+- injunction: a court order that tells people to stop doing something and lets judges jail anyone who breaks it (1850 to 1900)
+- merger: two or more companies joining into one (1900 to 1950)
+- pools: agreements among owners to hold prices up (1900 to 1950)
+- inevitable: certain to happen (1900 to 1950)
+- market dominance: a lead in a market (1900 to 1950)
+- watered stock: stock issued for more than the property behind it (1900 to 1950)
+- holding company: a company that owns controlling shares in other companies and does little else (1900 to 1950)
+- deposition: sworn testimony taken outside a courtroom and written down (1900 to 1950)
+- rule of reason: the court's test that the Sherman Act banned only "unreasonable" limits on trade (1900 to 1950)
+- dissolution: the breakup of a company (1900 to 1950)
+- price discrimination: charging different buyers different prices for the same goods (1900 to 1950)
+- commodity: a thing to be bought and sold (1900 to 1950)
+- National Guard: a state's part-time army (1900 to 1950)
+- main stockholder: the person who owns the most shares in a company (1900 to 1950)
+- suffocate: to die for lack of air (1900 to 1950)
+- tetraethyl lead: a liquid made with lead that researchers at General Motors added to gasoline (1900 to 1950)
+- engine knock: a pinging sound in the engine (1900 to 1950)
+- straitjacket: a coat that holds a person's arms tight against the body (1900 to 1950)
+- Surgeon General: the head of the federal public health service (1900 to 1950)
+- excessive force: far more force than was needed (1900 to 1950)
+- annex: to take over (1900 to 1950)
+- prime contract: a contract made directly between the government and a company (1900 to 1950)
+- vice versa: the other way around (1950 to 2000)
+- military-industrial complex: the ties between the armed forces and the companies that made their weapons (1950 to 2000)
+- unwarranted: without good reason (1950 to 2000)
+- conglomerate: one company that owns many businesses that have nothing to do with each other (1950 to 2000)
+- CIA: the American spy agency (1950 to 2000)
+- pulpit: preachers in churches (1950 to 2000)
+- surveillance: a close watch (1950 to 2000)
+- political action committee (PAC): a group that collects money and gives it to candidates (1950 to 2000)
+- public relations firm: a company paid to shape what the public thinks of its clients (1950 to 2000)
+- carcinogen: a substance that causes cancer (1950 to 2000)
+- attorney general: a state's chief lawyer (1950 to 2000)
+- asbestos: a mineral that separates into thin, strong fibers, used to fireproof and insulate buildings (1950 to 2000)
+- asbestosis: a lung disease from breathing asbestos fibers, which scar the lungs. It brings shortness of breath, coughing and lasting lung damage (1950 to 2000)
+- mesothelioma: a cancer of the thin linings of the chest and belly that asbestos fibers can cause (1950 to 2000)
+- pesticide plant: a factory that makes poisons to kill insects (1950 to 2000)
+- methyl isocyanate: the poison gas that leaked at Bhopal. It damaged people's eyes and filled their lungs with fluid (1950 to 2000)
+- Baby Bells: the seven regional companies made from AT&T's local telephone companies in 1984 (1950 to 2000)
+- operating system: the main program that runs a computer and the other programs on it (1950 to 2000)
+- web browser: the program people use to look at websites (1950 to 2000)
+- bundle: to build one program into another (1950 to 2000)
+- evasive and nonresponsive: dodging the questions (1950 to 2000)
+- market value: the price of one share times the number of shares (2000 to Today)
+- revenue: the money a company takes in (2000 to Today)
+- independent contractor: a worker paid for each job who is not an employee (2000 to Today)
+- conspiracy: planning a crime together with others (2000 to Today)
+- fraud: lying or cheating to get money (2000 to Today)
+- racketeering law: the law against running a business through a pattern of fraud (2000 to Today)
+- zeal: great eagerness (2000 to Today)
+- opioid: a drug from the same family of chemicals as heroin (2000 to Today)
+- misbranding: selling a drug with false or misleading claims about it (2000 to Today)
+- felonies: serious crimes (2000 to Today)
+- quarter: one of the three-month periods for which companies report their results (2000 to Today)
+- search index: the huge list of web pages a search engine keeps (2000 to Today)
+- brief: a written argument filed with a court (2000 to Today)
+- advertising exchange: the online market where websites sell ad space to advertisers (2000 to Today)
+- paradox: something that seems to contradict itself (2000 to Today)
+- cloud computing: renting out computer storage and computing power over the internet (2000 to Today)
+- super PAC: a committee that may raise and spend unlimited sums on elections (2000 to Today)
+- dark money: election spending by groups that do not have to name their donors (2000 to Today)
+
+## People
+
+- Sir Edwin Sandys: ran the Virginia Company while its officers shipped thousands of settlers to a colony where most of them died (The 1600s)
+- Thomas Hancock: Boston merchant whose firm rented out the ships that carried the Acadians away in 1755 (1700 to 1750)
+- Robert Morris: ran the country's finances near the end of the Revolution, bought most of the Seneca Nation's land in New York, then went to a debtors' prison (1750 to 1800)
+- Nicholas Biddle: head of the Second Bank of the United States who cut off its loans in his fight with President Andrew Jackson (1800 to 1850)
+- John D. Rockefeller: built Standard Oil and set up the first large trust (1850 to 1900)
+- Franklin Tarbell: oil producer who fought Standard Oil from 1872 into the 1890s, father of Ida Tarbell (1850 to 1900)
+- Andrew Carnegie: Pittsburgh steelmaker whose company owned every step of making steel (1850 to 1900)
+- John W. Holway: medical student hired as a Pinkerton guard, beaten by a crowd at Homestead in 1892 (1850 to 1900)
+- J.P. Morgan: Wall Street banker who joined rival companies into giant ones, among them US Steel (1900 to 1950)
+- Ida Tarbell: reporter whose history of Standard Oil showed how Rockefeller took over the oil business (1900 to 1950)
+- Theodore Roosevelt: the president known as the trust-buster, whose lawyers won the Northern Securities case (1900 to 1950)
+- Bill Gates: head of Microsoft when government lawyers sued it for keeping an illegal monopoly (1950 to 2000)
+- Steve Young: Vlasic pickle executive who described selling to Walmart (1950 to 2000)
+- Lina Khan: law student whose 2017 article on Amazon's power came before she led the Federal Trade Commission (2000 to Today)
+
+## Dates
+
+- May 13, 1607: The Virginia Company's settlers found Jamestown
+- December 16, 1773: Colonists dump the East India Company's tea into Boston Harbor
+- July 2, 1890: The Sherman Antitrust Act becomes law
+- May 15, 1911: The justices of the Supreme Court rule against Standard Oil
+- January 21, 2010: The justices decide Citizens United, on corporate spending in elections
+- December 31, 1600: Queen Elizabeth I charters the East India Company of London
+- May 24, 1624: King James I takes away the Virginia Company's charter
+- 1672: King Charles II charters the Royal African Company
+- 1755: Ships rented from Apthorp and Hancock carry the Acadians away from Nova Scotia
+- 1819: The Supreme Court rules in the Dartmouth case that a charter is a contract
+- January 2, 1882: Standard Oil's owners sign the Standard Oil Trust Agreement
+- July 6, 1892: Pinkerton men and steelworkers fight at Homestead
+- April 20, 1914: Colorado National Guard soldiers burn the strikers' tent camp at Ludlow
+- January 1, 1984: The Bell System's local companies become seven Baby Bells
+- December 3, 1984: Poison gas leaks from a Union Carbide pesticide plant in Bhopal, India
+
+## Places
+
+- Lowell National Historical Park, Lowell, Massachusetts: the mill town the Boston Associates built
+- West End Museum, Boston, Massachusetts: a history of the Shawmut Peninsula and the Massachusett people, with the count of the 1616 to 1618 epidemic
+
+## Movies
+
+- The Men Who Built America (2012): a History Channel docudrama in which actors play the real people in scripted scenes
+- Andrew Carnegie: The Richest Man in the World (1997): no note
+- The River Ran Red (1993): a documentary that tells the Homestead story from the workers' side
+- TR: The Story of Theodore Roosevelt (1996): no note
+- Inside Bill's Brain: Decoding Bill Gates (2019): no note
+- Is Wal-Mart Good for America? (2004): no note
+
+## Questions
+
+- Q: How did a few companies come to control whole industries? A: Their owners made secret deals with railroads, bought out rivals and joined companies into trusts and mergers. By 1880 Standard Oil refined 90 to 95 percent of the country's oil.
+- Q: What did owners do when their workers went on strike? A: They locked workers out and hired armed guards, and officials sent soldiers and court orders. At Homestead in 1892 Frick's Pinkerton men fought the steelworkers, and at Ludlow in 1914 soldiers paid by the mine owners burned the strikers' tent camp.
+- Q: Did breaking up a giant company ever work? A: Judges ordered Standard Oil split up in 1911, and AT&T gave up its local telephone companies in 1984. But Rockefeller was three times as rich by 1913, the order to split Microsoft was thrown out in 2001, and judges in 2025 and 2026 would not make Google sell off parts of its business.
