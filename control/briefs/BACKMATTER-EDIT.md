@@ -1,4 +1,4 @@
-# BACKMATTER-EDIT brief: turn the assembled back matter into finished pages (model: fable)
+# BACKMATTER-EDIT brief: turn the assembled back matter into finished pages (model: opus)
 
 `python tools/build_backmatter.py` has assembled six files in `manuscript/_backmatter/` from the
 writers' hand-offs in `control/backmatter/<slug>.md`: 02-glossary, 03-timeline, 04-people,

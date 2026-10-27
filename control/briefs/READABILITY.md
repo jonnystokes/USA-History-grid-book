@@ -1,4 +1,4 @@
-# READABILITY brief: the second edition of one chapter (model: fable, or the best available)
+# READABILITY brief: the second edition of one chapter (model: opus)
 
 The dispatch gives you the TASK id, the CHAPTER slug and the CHECKPOINT. You are rewriting one
 finished chapter so a reader who cannot hold attention long can get through it and want to. You

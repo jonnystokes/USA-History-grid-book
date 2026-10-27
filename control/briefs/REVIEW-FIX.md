@@ -1,4 +1,4 @@
-# REVIEW-FIX brief: the one improvement pass after the reader review (model: fable)
+# REVIEW-FIX brief: the one improvement pass after the reader review (model: opus)
 
 The dispatch gives you a TASK id, a CHAPTER slug and the review file that covers it
 (`control/review/<GROUP>.md`, your chapter's section only). Sonnet readers read the finished book as

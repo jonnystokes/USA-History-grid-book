@@ -1,16 +1,12 @@
 # READABILITY dispatch, wave 2: the other 34 chapters (2026-10-27, DECISIONS #53)
 
-Jon's instruction: use the whole allowance before noon on 2026-10-27, as many agents as the harness
-allows (about 20 at once), writers on Fable. Three pilot writers are reused for one related chapter
-each. Everything else starts fresh. Agents that stop (usage window, interruption) are resumed by
-message and carry on from their checkpoint.
+Jon's instruction: as many agents at once as the harness allows (about 20), every agent on Opus
+(Jon, 7:21 AM 2026-10-27: Fable is out for the week). All 34 tasks start fresh.
 
 ## Rules for every task
 
 - Brief: `control/briefs/READABILITY.md`, including the two pilot fixes and the back-matter
   hand-off added 2026-10-27. Read its "Read first" list in full, in order, before touching prose.
-  A reused writer has already read the guides this session; it rereads only the two added
-  sections of the brief and the whole new chapter.
 - Edit only your chapter's `manuscript/<slug>/part*.md`, its bank for a PATCH, your checkpoint
   `control/checkpoints/<TASK>-readability.md`, and your hand-off `control/backmatter/<slug>.md`.
   No git. No installs. No sub-agents. Scratch in your own scratchpad subfolder.
@@ -28,13 +24,13 @@ message and carry on from their checkpoint.
 
 ## Task list
 
-Reused writers (one more chapter each, related to the one they just did):
+First three:
 
-| Task | Agent | Chapter | Words |
-|---|---|---|---|
-| T-670 | T-661 (exploration) | migration | 13,984 |
-| T-671 | T-662 (government-politics) | crime-justice | 26,201 |
-| T-672 | T-663 (holidays) | sports-play | 23,535 |
+| Task | Chapter | Words |
+|---|---|---|
+| T-670 | migration | 13,984 |
+| T-671 | crime-justice | 26,201 |
+| T-672 | sports-play | 23,535 |
 
 Fresh writers, wave 2a (launched together, biggest first):
 
