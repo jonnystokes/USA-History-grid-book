@@ -1,0 +1,186 @@
+## Glossary
+
+- archaeologist: a scientist who studies the past from the things people left behind (Before 1500)
+- radiocarbon dating: a test that measures how much of one kind of carbon is left in something that was once alive (Before 1500)
+- mulch: a covering that keeps soil from drying out (Before 1500)
+- great houses: the large stone buildings of the Chaco towns (Before 1500)
+- plates: the huge slabs the outer layer of the earth is broken into (Before 1500)
+- fault: a crack in the earth's crust where the rock on each side can move (Before 1500)
+- subduction: one plate sliding down under another (Before 1500)
+- hurricane: a huge storm that forms over warm ocean water, with winds that spin in a circle (The 1500s)
+- chiefdom: a group of towns under one head chief (The 1500s)
+- short rations: less food than people need (The 1500s)
+- viceroy: the Spanish king's governor in Mexico (The 1500s)
+- Algonquian: a large family of Native languages along the coast (The 1500s)
+- privateer: a ship captain who raided enemy ships and towns with his own government's permission (The 1500s)
+- thatch: roofs of dried plants (The 1500s)
+- paramount chiefdom: a group of many towns and chiefs under one head chief (The 1600s)
+- malnutrition: the body does not get enough food (The 1600s)
+- pinnace: a small sailing ship (The 1600s)
+- mark: an English unit of money (The 1600s)
+- magnitude: the scale scientists use for an earthquake's strength, where each step up means the ground moves about ten times as far and the quake lets out about 32 times as much energy (The 1600s)
+- aftershocks: smaller quakes that follow a large one (The 1600s)
+- naturallists: Bradford's spelling of naturalists, people who study nature (The 1600s)
+- water engine: a pump that sprays water (The 1600s)
+- swab pole: a long pole with a mop on the end for putting out sparks on roofs (The 1600s)
+- tsunami: a series of huge waves that can cross a whole ocean (1700 to 1750)
+- ghost forests: the dead trunks of cedar trees killed by salt water when the coast dropped in 1700 (1700 to 1750)
+- pack line: the rope a person used to carry loads (1700 to 1750)
+- salvage: bringing up goods from a wreck (1700 to 1750)
+- pieces of eight: the silver coins of Spain (1700 to 1750)
+- oakum: old rope fiber picked apart and used to seal the seams of ships (1700 to 1750)
+- meeting house: a building used as a church (1700 to 1750)
+- militia: a colony's armed citizens (1700 to 1750)
+- vestry: the governing board of a church, here St. Philip's in Charleston (1700 to 1750)
+- burned at the stake: tied to a post with a fire set around the person (1700 to 1750)
+- mutual fire society: a group of neighbors who promised to help save one another's houses, and only those (1700 to 1750)
+- articles: the written rules of a group (1700 to 1750)
+- Sabbath: the day of rest (1700 to 1750)
+- day of fasting: a day when people went without food and prayed (1700 to 1750)
+- fire insurance: many owners each pay a small amount into a shared fund, and the company that keeps the fund pays any owner whose house burns (1750 to 1800)
+- sermon: a talk given in church (1750 to 1800)
+- lightning rod: a metal rod on a building that carries lightning into the ground (1750 to 1800)
+- arsonist: a person who sets fires on purpose (1750 to 1800)
+- Lesser Antilles: the chain of small islands at the eastern edge of the Caribbean (1750 to 1800)
+- Good Friday: the Christian holy day before Easter (1750 to 1800)
+- manumission: freeing an enslaved person by a legal paper (1750 to 1800)
+- federal law: a law made by Congress for the whole country (1800 to 1850)
+- seismologist: a scientist who studies earthquakes (1800 to 1850)
+- territory: land that belonged to the country but was not yet a state (1800 to 1850)
+- speculators: people who buy things cheaply to sell them later for a profit (1800 to 1850)
+- boiler: a large metal tank where a fire turns water into steam to drive an engine (1800 to 1850)
+- starboard: a ship's right side (1800 to 1850)
+- delirious: confused and out of one's mind (1800 to 1850)
+- schooner: a sailing ship with two masts or more (1800 to 1850)
+- sailing master: the officer in charge of sailing a ship (1800 to 1850)
+- certificates: signed papers a steamboat owner needed to get a license to run the boat (1800 to 1850)
+- tornado: a spinning column of wind that reaches down from a storm cloud to the ground (1800 to 1850)
+- flatboats: large, flat-bottomed boats that carried farm goods and people downriver (1800 to 1850)
+- planter: the owner of a large farm worked by enslaved people (1800 to 1850)
+- turpentine: a paint thinner that burns easily (1800 to 1850)
+- safety valve: a part that lets steam out before the pressure gets too high (1850 to 1900)
+- enlisted soldier: a soldier who is not an officer (1850 to 1900)
+- quartermaster: an army supply officer (1850 to 1900)
+- kickback: a secret payment for a favor (1850 to 1900)
+- parole camp: a camp where freed prisoners waited to go home (1850 to 1900)
+- Judge Advocate General: the Army's top lawyer (1850 to 1900)
+- coroner: the official who looks into deaths and finds out how people died (1850 to 1900)
+- martial law: rule by the army, when soldiers or armed guards take over from the police and courts (1850 to 1900)
+- cold front: the edge of a large mass of cold air (1850 to 1900)
+- treaty: a written agreement between nations (1850 to 1900)
+- blizzard: a snowstorm with very strong wind and bitter cold (1850 to 1900)
+- sod: blocks of earth held together by grass roots (1850 to 1900)
+- frostbitten: frozen and damaged flesh from the cold (1850 to 1900)
+- civilians: people who are not in the army (1850 to 1900)
+- spillway: the channel that lets extra water out of a dam (1850 to 1900)
+- act of God: a natural event that no person could be blamed for or could have prevented (1850 to 1900)
+- petition: a written request signed by many people (1850 to 1900)
+- looters: people who steal from damaged buildings (1900 to 1950)
+- segregation: keeping people apart by race (1900 to 1950)
+- manslaughter: the crime of killing a person without meaning to, through carelessness (1900 to 1950)
+- settle: to agree to take money and end a lawsuit (1900 to 1950)
+- Board of Trade: the British government office in charge of British ships (1900 to 1950)
+- grand jury: a group of citizens who decide whether there is enough evidence for a trial (1900 to 1950)
+- scintilla of proof: almost no evidence (1900 to 1950)
+- levee: a wall of earth built along a riverbank to hold the water in (1900 to 1950)
+- parish: what Louisiana calls a county (1900 to 1950)
+- overseer: the man who bossed the workers on a plantation (1900 to 1950)
+- lynched: killed by a mob without a trial (1900 to 1950)
+- coroner's jury: a group of citizens who decide how people died (1900 to 1950)
+- eminent: famous and respected (1900 to 1950)
+- dike: a bank of earth built to keep water back (1900 to 1950)
+- migrant farm workers: people who moved from farm to farm to pick crops (1900 to 1950)
+- duster: a dust storm (1900 to 1950)
+- crawlspace: the low space under a floor (1900 to 1950)
+- airship: a giant aircraft held up by a gas lighter than air, with engines to push it and a cabin for passengers (1900 to 1950)
+- hydrogen: a gas that burns very easily (1900 to 1950)
+- newsreels: short news films shown in movie theaters (1900 to 1950)
+- ammonium nitrate: a chemical used as fertilizer that can explode (1900 to 1950)
+- naval magazine: a Navy base for storing explosives (1900 to 1950)
+- storm surge: the wall of seawater that a hurricane's winds push onto land (1950 to 2000)
+- flagrant disregard: openly ignoring something, here the residents' safety (1950 to 2000)
+- flood plain: the low land beside a river that the river covers when it floods (1950 to 2000)
+- executive orders: written orders from the president (1950 to 2000)
+- nuclear reactor: a machine that makes heat from uranium fuel in its core, with water flowing around the core to cool it (1950 to 2000)
+- gross negligence: a serious failure to take the care a job requires (1950 to 2000)
+- misconduct and unprofessional conduct: breaking the rules of one's profession (1950 to 2000)
+- bank examiner: a person who checks that banks follow the rules (1950 to 2000)
+- skid: one of the long metal bars a helicopter lands on (1950 to 2000)
+- mass casualty: an event in which many people are hurt or killed at once (1950 to 2000)
+- cavalry: soldiers on horseback (1950 to 2000)
+- viaduct: here, a two-level section of a highway raised above the ground (1950 to 2000)
+- medical examiner: a doctor who examines the dead to find out how they died (1950 to 2000)
+- building code: a set of rules for how strong buildings must be (1950 to 2000)
+- FEMA: the Federal Emergency Management Agency, the office that holds much of the national government's disaster work (1950 to 2000)
+- mandatory evacuation: an order for everyone to leave (2000 to Today)
+- refuge of last resort: a place to go when there is nowhere else (2000 to Today)
+- asbestos: a mineral whose tiny fibers lodge in the lungs and can cause cancer years later (2000 to Today)
+- morphine: a strong painkiller that in large doses slows and then stops a person's breathing (2000 to Today)
+- midazolam: a drug that makes people calm and sleepy and in large doses slows and then stops a person's breathing (2000 to Today)
+- dialysis: a treatment that cleans the blood of people whose kidneys have failed (2000 to Today)
+- carbon monoxide: a poison gas in engine exhaust that has no smell (2000 to Today)
+- citations: official notices that a company broke a safety rule (2000 to Today)
+- flash flood emergency: a more urgent alert than a flash flood warning (2000 to Today)
+- special session: an extra meeting of lawmakers (2000 to Today)
+- involuntary manslaughter: the crime of killing people through carelessness (2000 to Today)
+- rekindle: to start a fire burning again (2000 to Today)
+- arson: the crime of setting a fire on purpose (2000 to Today)
+- hypothermia: the body gets so cold that it stops working (2000 to Today)
+- concrete deterioration: concrete breaking down (2000 to Today)
+
+## People
+
+- Tristán de Luna y Arellano: Spanish noble who led the colony at Pensacola Bay when a hurricane sank its ships and food (The 1500s)
+- Anthony Thacher: colonist who, with his wife, alone survived a boat wreck in the hurricane of 1635 and wrote it down (The 1600s)
+- Will: enslaved man who put out the fire on St. Philip's Church roof and whom the church's leaders bought and freed (1750 to 1800)
+- Rebecca Lamar: survivor of the *Pulaski* explosion who lived five days on a piece of the wreck and wrote it down (1800 to 1850)
+- Victor Heiser: 16-year-old who rode the Johnstown Flood on a barn roof, lost both parents, and became a doctor (1850 to 1900)
+- Clara Barton: founder of the American Red Cross, who led its relief after fires, floods and hurricanes (1850 to 1900)
+- Isaac Cline: Galveston's chief weather forecaster, who had called a hurricane harming the city "a crazy idea" and whose wife died in the 1900 storm (1900 to 1950)
+- Hugh Kwong Liang: 15-year-old Chinatown survivor of the 1906 San Francisco earthquake and fire (1900 to 1950)
+- Kate Alterman: Triangle fire survivor who told the jury how Margaret Schwartz died at the locked door (1900 to 1950)
+- Melvin Windsor: Park Police officer who stood on a helicopter skid to pull the last Air Florida survivor from the Potomac (1950 to 2000)
+- Herbert Freeman Jr.: New Orleans man who rescued his mother by boat and stayed by her body after she died at the Convention Center (2000 to Today)
+- Jesse Vazquez: retired veteran in Puerto Rico who lived 96 days without electricity after Hurricane Maria with his mother (2000 to Today)
+
+## Dates
+
+- January 26, 1700: The Cascadia fault breaks, and its tsunami reaches Japan the next day
+- May 31, 1889: The South Fork Dam breaks, and 2,208 people die in Johnstown
+- September 8, 1900: A hurricane floods Galveston, the deadliest natural disaster in the country's history
+- March 25, 1911: The Triangle fire kills 146 workers in New York
+- August 29, 2005: Hurricane Katrina comes ashore, and New Orleans floods when its floodwalls break
+- 1609: The Starving Time begins at Jamestown (winter of 1609 to 1610)
+- July 31, 1715: A hurricane wrecks eleven Spanish treasure ships off Florida
+- March 20, 1760: A fire in Boston burns 349 buildings
+- December 16, 1811: The first New Madrid earthquake
+- July 7, 1838: Congress passes the first federal law to inspect steamboats
+- April 27, 1865: The *Sultana*'s boilers explode north of Memphis
+- October 8, 1871: The Chicago and Peshtigo fires begin
+- May 21, 1881: Clara Barton founds the American Red Cross
+- April 18, 1906: The San Francisco earthquake, and the fires after it
+- April 1, 1979: President Carter signs the orders that start FEMA
+
+## Places
+
+- Clara Barton National Historic Site, Glen Echo, Maryland: Clara Barton's house, built partly from the lumber of the Red Cross buildings at Johnstown
+- Crater Lake, southern Oregon: the lake that filled the collapsed top of Mount Mazama, 1,943 feet deep
+- Ghost forests, rivers and bays of Washington and Oregon: dead cedar trunks from the coast's drop in the 1700 earthquake
+- Thacher Island, off Cape Ann, Massachusetts: the island where Anthony Thacher and his wife came ashore in 1635
+- Old State House, Boston, Massachusetts: the brick Town House rebuilt after the fire of 1711
+- St. Philip's Church, Charleston, South Carolina: the church whose burning roof Will saved in 1796
+- Reelfoot Lake, northwest Tennessee: the lake formed when the ground sank in the New Madrid earthquakes
+- Galveston seawall, Galveston, Texas: the seawall built after the 1900 hurricane, 17 feet above the low-tide line
+- Presidio of San Francisco, San Francisco, California: the Army post where officers kept Chinese survivors apart in 1906
+- Anchor monument, Texas City, Texas: lists 576 people known to have died in the 1947 explosions
+- Mass grave site and state historical marker, West Palm Beach, Florida: where Black victims of the 1928 hurricane were buried, marked in 2003
+
+## Movies
+
+- None. No story box in this chapter has a Movie line.
+
+## Questions
+
+- Q: What rules did Americans make after disasters, and did they work? A: After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some needed a second try. The steamboat law of 1838 had no one to enforce it, so members of Congress passed a stronger one in 1852.
+- Q: Was anyone punished when people's choices killed others? A: Rarely. No one was punished for the *Sultana*, the Johnstown club won in court, a jury found the Triangle owners not guilty, and no Pittston official was charged after Buffalo Creek. Barnett Welansky went to prison for the Cocoanut Grove fire, and PG&E pleaded guilty to 84 counts of involuntary manslaughter after the Camp Fire.
+- Q: Did everyone get the same help after a disaster? A: No. Officials paid out London's money for Charleston in 1740 by the size of each loss, so most went to rich merchants. Armed men forced Black workers to handle Galveston's dead in 1900, and camp leaders forced Black people to work in the 1927 flood. In 2005 police turned back people walking out of New Orleans at gunpoint, and in 2025 orders to leave reached west Altadena hours late.
