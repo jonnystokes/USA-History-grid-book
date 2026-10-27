@@ -2,8 +2,10 @@
 
 Usage:  python tools/build_full_book_md.py
 
-Same order and content as tools/build_full_book.py (registry order, three part files per chapter in era
-order, the introduction first), using its parser. Viewer markers and editor notes are dropped; era titles,
+Same order and content as tools/build_full_book.py (front matter, the introduction, the chapters in
+registry order with three part files per chapter in era order, back matter), using its parser and its
+chapter loader: the "Chapter opening" card sits under the chapter heading and the "Chapter closing" card
+after the last era (see that file's docstring for the rules). Viewer markers and editor notes are dropped; era titles,
 span labels and story names become headings. A linked table of contents comes first, with explicit
 anchors so the links work in any Markdown viewer, and every chapter ends with a link back to it.
 """
@@ -58,18 +60,28 @@ def zoom(attrs, lines):
 
 def build():
     chapters, parts = B.read_registry()
+    before, after = B.load_matters()
+    for c in chapters:
+        B.load_chapter(c)
     md = [f"# {B.BOOK_TITLE}", "",
           f"*{len(chapters)} chapters, each told across the same ten eras*", "",
-          '<a id="contents"></a>', "", "## Contents", "", "**[Introduction: How We Know What Happened](#introduction)**", ""]
+          '<a id="contents"></a>', "", "## Contents", ""]
+    for m in before:
+        md += [f"**[{m['toc']}](#{m['id']})**", ""]
     last = None
     for c in chapters:
         if c["part"] != last:
             last = c["part"]
             md += ["", f"**Part {last}: {parts.get(last, '')}**", ""]
-        md.append(f"{int(c['num'])}. [{c['title']}](#ch-{c['slug']})")
+        time = f" · about {c['card_minutes']} minutes" if c["card_minutes"] else ""
+        md.append(f"{int(c['num'])}. [{c['title']}](#ch-{c['slug']}){time}")
+    if after:
+        md.append("")
+    for m in after:
+        md += [f"**[{m['toc']}](#{m['id']})**", ""]
     md += ["", "---", ""]
-    iw = [l for l in B.INTRO.read_text(encoding="utf-8").splitlines() if "<!--" not in l]
-    md += ['<a id="introduction"></a>', ""] + tidy(shift(iw, 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
+    for m in before:
+        md += [f'<a id="{m["id"]}"></a>', ""] + tidy(shift(m["lines"], 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
 
     last = None
     for c in chapters:
@@ -77,12 +89,17 @@ def build():
             last = c["part"]
             md += [f'<a id="part-{last}"></a>', "", f"# Part {last}: {parts.get(last, '')}", ""]
         md += [f'<a id="ch-{c["slug"]}"></a>', "", f"## Chapter {int(c['num'])}: {c['title']}", ""]
-        for e in B.parse_chapter(c["slug"]):
+        if c["opening"]:
+            md += zoom(c["opening"][1], c["opening"][2])
+        for e in c["eras"]:
             md += [f"### {e['heading'] or e['label']}", ""]
             for kind, attrs, lines in e["blocks"]:
                 md += story(attrs, lines) if kind == "story" else zoom(attrs, lines)
+        if c["closing"]:
+            md += zoom(c["closing"][1], c["closing"][2])
         md += ["[Back to contents](#contents)", "", "---", ""]
-
+    for m in after:
+        md += [f'<a id="{m["id"]}"></a>', ""] + tidy(shift(m["lines"], 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
 
     B.OUT.mkdir(exist_ok=True)
     out = B.OUT / "history-book.md"
@@ -100,3 +117,5 @@ if __name__ == "__main__":
     print(f"Markdown: {out} ({out.stat().st_size/1024:.0f} KB), about {words:,} words, "
           f"comments left: {text.count('<!--')}")
     print(f"warnings: {len(B.warnings)}")
+    for w in B.warnings:
+        print("  WARN", w)
