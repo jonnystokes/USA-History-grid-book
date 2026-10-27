@@ -304,3 +304,14 @@ will be worded differently, which is exactly why a search will not find it.
 - **crime-justice Attica and Wounded Knee 'who did it' lines (T-626):** rest on Wikipedia only; polish: find the official reports (McKay Commission for Attica; FBI/court records for Wounded Knee 1973) and name or state silence per #45.
 - **art Spiro/Craig Mound names (T-629):** rest on a dealer's website quoting a 1952 report; polish: confirm in David La Vere, Looting Spiro Mounds (2007), or an Oklahoma Historical Society source.
 - **Viewer (T-643):** the viewer itself inserts em dashes (record lines, the Next button): the zero-em-dash rule covers everything a reader sees, so change those in viewer/viewer.html (careful: line 89 is a base64 image). Six story headings drop nicknames (shown from name=). The manuscript is near the browser storage limit (~5.2M chars), so the viewer may not remember it between visits.
+
+## Closed by GAPS-FINAL (2026-10-26, T-650..T-658)
+
+Every item above that was still open was worked in the GAPS-FINAL burst; the per-item outcomes are in
+`control/checkpoints/T-650-gaps.md` through `T-657-gaps.md` and `T-658-viewer.md`. In short: Hemings (#32)
+named historians by position; Myrtle Vance already "raped" (T-485); education bank whip line narrowed;
+Palisades status as of 2026-10-26; Kennedy Center and Suno refreshed to 2026-10-26; Kake names Poulson; Boone
+rests on Lofaro and O'Malley; big-business unconfirmed PATCHes checked; land-environment, Spiro, Attica,
+Wounded Knee, Sally, DC count, Baird, 1964-65 laws, Peck/Bergman and Chavez #46 were already closed by
+POLISH-1 or wave B; viewer em dashes and nickname headings fixed (T-658). Still SEARCHED, NOT FOUND: see
+`control/TODO.md` NOW section. Nothing in this queue is open.

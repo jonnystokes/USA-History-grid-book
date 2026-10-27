@@ -61,6 +61,8 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 | 47 | (2026-10-03) The afterword becomes the introduction (Jon) | "How We Know" moves to the front of the book, renamed "How We Know What Happened" (manuscript/_introduction/how-we-know.md). The director revised it lightly: a new opening, a section on old words and names, and a closing section on how knowledge of the past keeps changing. It still never mentions the book itself |
 | 48 | (2026-10-03) How the book is read (Jon) | The grid viewer is retired as the reading format. The book is read as the built single file: book/history-book.md (linked contents) and book/history-book.pdf, rebuilt with tools/build_full_book_md.py and tools/build_full_book.py --pdf. The grid markers stay in the manuscript files as structure |
 
+| 49 | (2026-10-26) GAPS-FINAL burst and two director calls (Jon: "go ahead and follow whatever you suggest is best") | Jon authorised nine agents at once for the last research leftovers (T-650..T-658). Director calls made under #28: (a) **Jefferson and Hemings (#32):** no published book or article by a named historian was found using the word rape (Kendi's own words do not; the earlier bank lines quoting LitCharts were corrected). The prose keeps the plain facts, then names each historian with their own position: Johnson (2026, "rapist"), Gordon-Reed (2008, love), Foner (review, the record is silent). (b) **Acoma 1598:** no new ruling needed; #31 stands and the prose follows it. Both the "Open for Jon" items from step 3 are closed. |
+
 ## Consequences already applied
 
 - 35 → **37 chapters**: `art` (32), `music` (33), `storytelling-evolution` (34);

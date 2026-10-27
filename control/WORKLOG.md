@@ -5152,3 +5152,8 @@ BRIEF: control/briefs/GAPS-FINAL-DISPATCH.md (common rules + per-task item lists
 SCOPE: every NEEDS-RESEARCH item left by the step-7 fixers (control/checkpoints/F7-*.md) and the open AUDIT-QUEUE polish items; T-658 = viewer em dashes and nickname headings.
 VERIFY: python tools/project_state.py --check <slug> --stage prose for every chapter touched; checkpoints control/checkpoints/T-65x-gaps.md
 USAGE at launch: 5-hour 37%, weekly 10%.
+STATUS: DONE (2026-10-26 7:45 PM)
+RESULT: nine tasks, 51 items: about 36 CLOSED with a source, 4 left as is (already settled), 11 SEARCHED, NOT FOUND (prose states the silence or stands). Facts corrected: Haitian cacos count 2,250 not 3,250 (Barnett 1920); Calley sentenced March 31 not 29; Montag killed Jan 31 1971 not Aug 29 1970; Hay's 1945 words quoted exactly; Kendi bank lines corrected (LitCharts wording, not his); 1768 tailors' strike removed; Acadian counts both credited. All 37 chapters PASS prose; manuscript 816,903 -> 819,078 words. Book rebuilt: book/history-book.md 832,669 words, book/history-book.pdf 1,968 pages, 0 em dashes, 0 semicolons. Viewer (T-658): no em dashes rendered, nickname headings fixed, line 89 unchanged.
+USAGE: 5-hour 37% -> about 55% for the whole burst; agents 120k-330k tokens each, 3-20 min.
+CHECKPOINTS: control/checkpoints/T-650-gaps.md .. T-657-gaps.md, T-658-viewer.md
+### 2026-10-26 | [LOCAL] STEP 8 DONE. The book is finished. What remains is Jon's read.

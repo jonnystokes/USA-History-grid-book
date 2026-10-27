@@ -5,21 +5,40 @@ decision, and before any window closes. The measured truth is `python tools/proj
 The record of what happened is `control/WORKLOG.md` (read the tail). The cloud-era TODO is archived
 at `control/archive/cloud/TODO-at-cloud-stop-2026-09-26.md`.
 
-Last updated: 2026-09-29 (LOCAL, Jon's PC, branch `feature/local-cloud-code-homebrew`)
+Last updated: 2026-10-26 (LOCAL, Jon's PC, branch `feature/local-cloud-code-homebrew`)
 
 ---
 
-## NOW (2026-10-03)
+## NOW (2026-10-26): STEP 8, DONE
 
-**STEPS 1-6 COMPLETE. STEP 7 nearly done.** All 37 chapters fixed on the second-audit findings (T-600..T-639,
-plan in control/STEP7-PLAN.md) and passing; POLISH-1 (T-640) cleared the book-wide items; outlines rebuilt to match
-(T-641); afterword written at manuscript/_afterword/how-we-know.md (T-642); full-book build running (T-643).
-Manuscript ~817,000 words, 684 stories verified. Next: Jon's read of build/, then the final render (step 8).
-Open small items: the NEEDS-RESEARCH lines in control/checkpoints/F7-*.md and the unclosed AUDIT-QUEUE items.
+**All eight steps are complete.** The book is `book/history-book.md` and `book/history-book.pdf`
+(37 chapters, the introduction "How We Know What Happened" first; rebuilt 2026-10-26 after the
+GAPS-FINAL burst). Manuscript about 819,000 words, 684 stories, all verified, all 37 chapters PASS
+`--stage prose`. Rebuild with `python tools/build_full_book_md.py` and
+`python tools/build_full_book.py --pdf`, then copy `build/history-book.md` and `.pdf` into `book/`.
 
+**GAPS-FINAL (2026-10-26, T-650..T-658, nine agents at once on Jon's word):** every NEEDS-RESEARCH item
+the step-7 fixers left and every open AUDIT-QUEUE polish item was researched. Results are in
+`control/checkpoints/T-65x-gaps.md` and the WORKLOG entry. Left as SEARCHED, NOT FOUND (prose states the
+silence or stands as it was): a town count for Jayuya and Utuado 1950; who sued Biddle; who turned off the
+Bhopal scrubber; a count of nations before 1500; the Chicano Moratorium officers' names; the Puerto Rico
+factories and hospitals; whether Fithian's Nelson was enslaved; a named historian in print calling Wayles's
+conduct rape; the 1768 tailors' strike (removed); who ordered the Wisconsin Steel shutdown; a named official
+for the 1792 Young Ladies' Academy charter (the Evans page sits behind a Cloudflare check Jon could pass).
 
+**What remains is Jon's:** read the book. Anything he finds goes to `control/BUGS.md` style notes or a new
+task. The two "for Jon" items from step 3 are closed: Kehinde Wiley's profile was removed (DECISIONS #30,
+T-641) and the Acoma 1598 wording was ruled by Jon (DECISIONS #31: "rape", stated plainly and attributed).
+The viewer is retired as the reading format (DECISIONS #48); T-658 still removed its em dashes and fixed
+its nickname headings so it stays usable as a tool.
 
-NOW-RUNNING: T-486 news-communication (RESEARCH round 2 R4-culture: news-communication music storytelling-evolution sports-play styles art holidays)
+---
+
+## History (kept for the record)
+
+Step 7 closed 2026-10-03: all 37 chapters fixed on the second-audit findings (T-600..T-639, plan in
+control/STEP7-PLAN.md); POLISH-1 (T-640) cleared the book-wide items; outlines rebuilt to match (T-641);
+afterword written (T-642) and moved to the front as the introduction (DECISIONS #47); full-book build (T-643).
 
 **STEP 1 (RESEARCH): COMPLETE 2026-09-29.** All 37 chapters pass `--stage research`. 684 stories, all verified.
 **STEP 2 (WRITING): COMPLETE 2026-09-30.** All 37 chapters pass `--stage prose` (111 part files, 0 validator
