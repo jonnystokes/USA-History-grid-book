@@ -11,7 +11,7 @@ FINDINGS FILE: `control/audit/<slug>/<part>-findings-<model>.md`.
 **Jon's seven guidelines are the standard you check against** (`control/writing-style-guide.md`
 §0, DECISIONS #28). Two of them are checks of their own: report every softened word for violence
 or sexual violence ("assaulted" where the record says rape, "mistreated", "relocated") as BLOCKING;
-and report **every big word**, even a defined one, with a plain replacement (Pass 5). **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
+and report **every big word**, even a defined one, with a plain replacement (Pass 5). **These are instructions for how to write, never content:** the prose never shows the research, the owner, the writer or AI, and never says it is being honest, plain or fun. (The fourth-wall rule, never mention the reader, the book or the chapter, was withdrawn 2026-10-26, DECISIONS #50: a narrator's voice is now allowed and is not a defect.)
 
 ## Read first, in full, in this order
 
@@ -118,12 +118,12 @@ the same sentence or the next one says what it means in plain words. Report each
 not. Report a long
 word where a shorter one means the same. For each paragraph, try to finish "This teaches the
 reader that ____." If you cannot, report the paragraph under "The Teaching Point". Report any
-paragraph that withholds its main fact until late, for suspense. Report every **fourth-wall
-break** (BLOCKING): any sentence that mentions the book itself, this chapter, research,
-searching, sources checked, writers, agents, AI, drafts or the book's owner ("this book", "we
-could not find", "while researching"), or that talks about or to its readers ("kids", "young
-readers", "you may find this hard"), or that announces its own manner ("to be honest", "plainly
-put", "here is the fun part"). An unknown fact is stated from the side of the historical record
+paragraph that withholds its main fact until late, for suspense. Report every sentence that
+**shows the making of the book** (BLOCKING): research, searching, sources checked, writers, agents,
+AI, drafts or the book's owner ("we could not find", "while researching"), or that announces its own
+manner ("to be honest", "plainly put", "here is the fun part"). Do NOT report a narrator's voice:
+sentences that address the reader, name the chapter or the book, or point to another chapter are
+allowed since 2026-10-26 (DECISIONS #50) in openings, closings, era strips, recaps and cards. An unknown fact is stated from the side of the historical record
 ("No surviving record names...").
 That sentence is the prescribed form, not a defect: do not report "the records do not say
 who" as a missing agent or ask for a SEARCHED, NOT FOUND line behind it.

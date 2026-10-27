@@ -32,8 +32,9 @@ contain the detail. Read them when they apply.
   whole truth in plain words (rape, not assault), fit the age by clarity not omission, fun to read
   with real people and true detail, the director settles disagreements, no accusation against a
   living person told as fact, and **no big words anywhere** ("charged with a crime", not "indicted"). These are writing
-  instructions, never content: the prose never mentions its readers, the book, the owner, the writer
-  or AI.
+  instructions, never content: the prose never shows the making of the book (research, the owner,
+  the writer or AI). The old fourth-wall rule (never mention the reader, the book or the chapter) was
+  withdrawn by Jon on 2026-10-26 (DECISIONS #50): the readability edit uses a narrator's voice.
 - **No language softening, ever.** That covers euphemism, minimization, downplaying,
   semantic abstraction, sanitization, gist extraction and lossy summarization. This book's
   reader does not know this history and cannot reconstruct what you left out. Anything

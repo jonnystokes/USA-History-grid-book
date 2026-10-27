@@ -25,7 +25,7 @@ numbers); fit the age by clarity, not by leaving things out; make it fun to read
 concrete detail and true surprises; when sources disagree, the better-supported version, or say
 plainly that accounts differ; never an accusation against a living person told as fact; and **no
 big words anywhere**: use the plain word, or spell it out in a few plain words ("charged with a
-crime", not "indicted"). **These are instructions for how to write, never content:** the prose never mentions its readers ("kids", "young readers"), the book, the chapter, the research, the owner, the writer or AI, and never says it is being honest, plain or fun. It only tells the history.
+crime", not "indicted"). **These are instructions for how to write, never content:** the prose never shows the research, the owner, the writer or AI, and never says it is being honest, plain or fun. (The fourth-wall rule, never mention the reader, the book or the chapter, was withdrawn 2026-10-26, DECISIONS #50.)
 
 ## Read before writing a word, in this order
 
@@ -103,11 +103,12 @@ without adding fiction. Look them up yourself rather than leaving them for later
    less specific version, and it is not softening. **Softening** is blurring what IS known: a
    vaguer word for the harm, a smaller number, or a passive that hides a known actor. It is
    still forbidden.
-   **Never break the fourth wall** (Jon, 2026-09-26). The book never mentions itself, this
-   project, research, searching, sources checked, agents, writers or drafts. Never write "in
-   researching this", "while writing this chapter", "we could not find", "this book" or "our
-   sources". The reader sees history, not the making of the book. The search itself belongs
-   only in the bank and the checkpoint.
+   **Never show the making of the book.** The prose never mentions this project, research,
+   searching, sources checked, agents, writers or drafts. Never write "in researching this",
+   "while writing this chapter", "we could not find" or "our sources". The search itself belongs
+   only in the bank and the checkpoint. (The wider fourth-wall rule of 2026-09-26, never mention
+   the reader, the book or the chapter, was withdrawn by Jon on 2026-10-26, DECISIONS #50: the
+   readability edit uses a narrator's voice in openings, closings, strips, recaps and cards.)
 4. **Keep it proportionate.** You are a writer who checks facts, not a research agent. If a
    question would take more than a few searches, record it as not found and move on.
 

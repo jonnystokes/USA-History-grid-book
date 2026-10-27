@@ -37,7 +37,7 @@ Core reminders (see the full guide for detail and examples):
 - No gnomic statements (proverb-like "timeless truths").
 - No imported analogies. Do not explain a historical event by comparing it to an unrelated modern thing.
 - No staged scenes ("imagine you are a farmer in 1786").
-- No self-commentary. Do not describe what the text is doing. Do not break the fourth wall or talk about the book, the chapters, or the reader. Do not cross-reference other chapters inside the prose.
+- No self-commentary about the making of the book (research, drafts, writers, AI). The earlier rule here, never talk about the book, the chapters or the reader and never cross-reference other chapters, was withdrawn by Jon on 2026-10-26 (DECISIONS #50): the readability edit uses a narrator's voice and may point to other chapters.
 - Anchor comparatives with numbers ("grew 35 percent," not "grew much faster").
 - Name specific agents where possible.
 - Use words precisely (a revolution is not a reform; a depression is not a recession).

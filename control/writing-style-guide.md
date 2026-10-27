@@ -21,10 +21,16 @@ policy. Version 2 governs prose mechanics.**
 These govern every other rule in this file and in the hard-subjects policy.
 
 **They are instructions for how to write, never content to put in the book.** The prose never
-mentions its readers ("kids", "young readers", "you may find this hard to read"), the book or
-this chapter, the writing or research ("sources checked", "we could not find"), the owner, the
-writer, or AI, and never says it is trying to be honest, plain, gentle or fun. It only tells the
-history. Breaking the fourth wall is a BLOCKING defect wherever it appears.
+says it is trying to be honest, plain, gentle or fun, and never shows the making of the book (the
+research, "sources checked", "we could not find", the owner, the writer, agents or AI).
+
+**The fourth-wall rule is withdrawn (Jon, 2026-10-26, DECISIONS #50).** The first draft was written
+under a rule that the prose never mentions its readers, the book or the chapter. That rule did its
+job for the draft and no longer applies. The readability edit needs a narrator's voice: openings,
+closings, era strips, recaps, chapter cards and "look at this" lines may address the reader, name the
+chapter and the book, and point to other chapters. The history itself still tells the history; the
+narrator frames it. The one hard-subjects limit stands: never ask the reader to imagine being a
+victim.
 
 1. **The whole truth, plainly.** Use the plain word for the act: rape (never "assault"),
    murder, killed, enslaved, stole, burned alive. Name who did it. Give the numbers. No modern

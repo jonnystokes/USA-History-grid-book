@@ -63,6 +63,8 @@ Structural rulings are recorded in `control/chapter-registry.md`.
 
 | 49 | (2026-10-26) GAPS-FINAL burst and two director calls (Jon: "go ahead and follow whatever you suggest is best") | Jon authorised nine agents at once for the last research leftovers (T-650..T-658). Director calls made under #28: (a) **Jefferson and Hemings (#32):** no published book or article by a named historian was found using the word rape (Kendi's own words do not; the earlier bank lines quoting LitCharts were corrected). The prose keeps the plain facts, then names each historian with their own position: Johnson (2026, "rapist"), Gordon-Reed (2008, love), Foner (review, the record is silent). (b) **Acoma 1598:** no new ruling needed; #31 stands and the prose follows it. Both the "Open for Jon" items from step 3 are closed. |
 
+| 50 | (2026-10-26) The fourth-wall rule is withdrawn (Jon) | After reading the finished book and a DeepSeek critique, Jon ruled: the rule that the prose never mentions its readers, the book or this chapter was for the first draft and is no longer needed. The next phase is a readability edit for readers who cannot hold attention long, and it needs a narrator's voice: chapter openings and closings, era strips with reading times, recaps, chapter cards, a compressed introduction, front and back matter. The book expands; nothing in the 37-by-10 grid moves. Kept: the prose never shows the making of the book (research, agents, AI), and never asks the reader to imagine being a victim. The rule text was removed from the amendment §0, CLAUDE.md, WRITER.md, FIXER.md, CHECKER.md and project-notes.md the same day. |
+
 ## Consequences already applied
 
 - 35 → **37 chapters**: `art` (32), `music` (33), `storytelling-evolution` (34);
