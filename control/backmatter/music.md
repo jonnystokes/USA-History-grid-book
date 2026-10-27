@@ -1,0 +1,242 @@
+# Back-matter hand-off: music (Chapter 33)
+
+## Glossary
+
+- archaeologist: a scientist who digs up and studies what people left behind (Before 1500)
+- panpipe: a row of tubes held together, which a player blows across, each tube making a different note (Before 1500)
+- earthworks: mounds and long banks of piled earth (Before 1500)
+- longhouse: the Onondaga building where ceremonies are held (Before 1500)
+- clan: a large family group that traces itself back to shared ancestors (Before 1500)
+- at.óow: the Tlingit word for a clan's owned things, "something owned or purchased" (Before 1500)
+- iconoclastic traditionalist: someone who breaks with old ways and keeps them at the same time (Before 1500)
+- RIAA: the Recording Industry Association of America, the record companies' own group, which gives sales awards and counts what the companies take in (Before 1500)
+- platinum album: the RIAA's award for one million copies sold (Before 1500)
+- hymn: a song that praises God (The 1500s)
+- Protestants: Christians who had broken away from the Catholic Church (The 1500s)
+- psalm: a song from the Bible (The 1500s)
+- Huguenots: French Protestants (The 1500s)
+- chaplain: the priest who served a group of soldiers (The 1500s)
+- salutes of artillery: cannons fired as a greeting (The 1500s)
+- Te Deum: a Latin hymn of praise to God (The 1500s)
+- Lutheran sect: Menéndez's words for the Protestant faith (The 1500s)
+- anthropologist: a scientist who studies people and the ways they live (The 1500s)
+- friar: a Catholic man who lived by the rules of a religious order and put the title Fray in front of his name (The 1500s)
+- congregation: the people who worship together at a church (The 1600s)
+- lining out: a way of singing in which a leader read or sang one line and the congregation sang it back (The 1600s)
+- Franciscans: a Catholic religious order (The 1600s)
+- baptize: to make a person a member of the Christian church in a ceremony with water (The 1600s)
+- Divine Service: the church service (The 1600s)
+- kiva: a sacred room where Pueblo people held their ceremonies (The 1600s)
+- sorcery: using magic to do harm (The 1600s)
+- Negroes: a word of that time for Black people, used inside quotations and names only (The 1600s)
+- regular singing: singing from written notes (1700 to 1750)
+- singing school: a class where a teacher taught people to read and sing music (1700 to 1750)
+- bar lines: the lines that divide music into equal parts of time (1700 to 1750)
+- shilling: a British coin, five of which made a quarter of a pound (1700 to 1750)
+- selectmen: the men elected to run a New England town (1700 to 1750)
+- Cremona fiddle: a violin made in the town of Cremona, in Italy (1700 to 1750)
+- pistole: a Spanish gold coin used in the colonies (1700 to 1750)
+- sawyer: a man who saws logs into boards (1700 to 1750)
+- breeches: pants that end at the knee (1700 to 1750)
+- militia: a force of armed planters (1700 to 1750)
+- Province: the colony, in South Carolina's 1740 law (1700 to 1750)
+- overseer: the man who ran the work on a plantation and drove enslaved people at their work (1700 to 1750)
+- tanner: a worker who turns animal skins into leather (1750 to 1800)
+- sacred music: music for worship (1750 to 1800)
+- engraving: cutting a picture into a metal plate so it can be printed (1750 to 1800)
+- copyright: the legal right to decide who may copy and sell a piece of writing or music, and to be paid when a song is printed, recorded or played (1750 to 1800)
+- bill: a proposed law (1750 to 1800)
+- Loyalists: colonists who stayed on the British side (1750 to 1800)
+- anthem: an official song, or a church song (1750 to 1800)
+- fife: a small, high-pitched flute (1750 to 1800)
+- tutor: a live-in teacher (1750 to 1800)
+- gourd: a large fruit with a hard shell that can be dried and hollowed out (1750 to 1800)
+- deacon: a church member who helps lead it (1750 to 1800)
+- botanist: a scientist who studies plants (1750 to 1800)
+- ethnomusicologist: a scholar who studies the music of a people and its place in their lives (1750 to 1800)
+- harmony: two or more notes sung together (1750 to 1800)
+- synthesizer: a machine that makes musical sounds electronically (1750 to 1800)
+- blackface minstrelsy: a stage show in which white men darkened their faces with burnt cork and acted as Black people (1800 to 1850)
+- juba: beating out rhythms on one's own body with the hands (1800 to 1850)
+- Canaan: in the Bible, the land God promised to the people of Israel after they escaped from slavery in Egypt (1800 to 1850)
+- teamsters: the men who drove the wagons (1800 to 1850)
+- Jim Crow: first a minstrel song, then an insult for Black people, then the name for the laws and customs used against Black people (1800 to 1850)
+- the bones: a rhythm instrument (1800 to 1850)
+- bound servant: someone who had to work for a family without pay until a set number of years ran out (1800 to 1850)
+- sheet music: the printed music people bought to play at home (1800 to 1850)
+- chamber pot: a bowl kept in the room for use as a toilet (1800 to 1850)
+- shape notes: printed notes whose shape tells the singer which sound to sing (1800 to 1850)
+- African Methodist Episcopal Church: a church run by Black Methodists (1800 to 1850)
+- keyed bugle: a brass horn with keys (1800 to 1850)
+- warrant: a paper from a court that orders an arrest (1800 to 1850)
+- Big Dipper: the group of stars that points to the North Star (1800 to 1850)
+- spiritual: a religious song made by enslaved Black people (1850 to 1900)
+- ragtime: piano music with a "ragged" rhythm, in which the tune lands between the beats while a steady beat keeps time (1850 to 1900)
+- Confederacy: the group of Southern states that broke away from the United States (1850 to 1900)
+- camp meeting: a big outdoor church gathering (1850 to 1900)
+- regiment: one unit of soldiers (1850 to 1900)
+- brigade: a larger group of soldiers made up of several regiments (1850 to 1900)
+- tourniquet: a band tied tight around an arm or leg to stop heavy bleeding (1850 to 1900)
+- abolitionist: a person who worked to end slavery (1850 to 1900)
+- arrange: to write out the parts of a song for each voice (1850 to 1900)
+- cholera: a gut infection people catch from dirty food or water, which drains so much water from the body that a person can die (1850 to 1900)
+- rations: the food federal officials handed out to Native people on reservations (1850 to 1900)
+- agency prison: the jail at the government office on a reservation (1850 to 1900)
+- Ghost Dance: a religious movement whose followers danced in a circle (1850 to 1900)
+- cavalry: an army unit on horseback (1850 to 1900)
+- apprentice musician: a boy learning the work of a band musician (1850 to 1900)
+- operetta: a short comic opera (1850 to 1900)
+- sousaphone: a large brass horn made for marching bands (1850 to 1900)
+- phonograph: a machine that recorded sound and played it back (1850 to 1900)
+- brothel: a house where men paid women for sex (1850 to 1900)
+- cornet: a brass horn like a small trumpet (1850 to 1900)
+- syphilis: a disease passed from person to person during sex, which without treatment can spread to the brain and cause confusion, changes in personality and dementia (1850 to 1900)
+- dementia: the loss of memory and of the ability to think (1850 to 1900)
+- Pulitzer Prize: a top American award (1850 to 1900)
+- sharecropping: farming a landowner's fields in return for a share of the crop, buying tools, seed and food on credit at the landowner's prices (1850 to 1900)
+- race records: record company managers' name in the 1920s for records made for Black buyers (1900 to 1950)
+- royalty: a small payment for every copy sold, for as long as the record sells (1900 to 1950)
+- heir: the one person with the right to what someone left (1900 to 1950)
+- census: the government's count of everyone in the country (1900 to 1950)
+- amputate: to cut off an arm or leg (1900 to 1950)
+- blank: a gun shell with gunpowder but no bullet (1900 to 1950)
+- thumb-lead style: Maybelle Carter's way of picking the tune on the low strings with the thumb while strumming the high strings with one finger (1900 to 1950)
+- polio: a disease caused by a virus that can damage the nerves that move the muscles (1900 to 1950)
+- ASCAP: a group that collected money for songwriters (1900 to 1950)
+- BMI: the group radio station owners started in 1939 to collect fees for songwriters (1900 to 1950)
+- gospel: a kind of Black church music (1900 to 1950)
+- wax cylinder: a tube of wax that held two or three minutes of sound (1900 to 1950)
+- petition: a written request to the government (1900 to 1950)
+- annex: to make a place part of the United States (1900 to 1950)
+- Huntington's disease: a disease passed down in families that destroys parts of the brain, causing movements a person cannot control, changes in mood, and the loss of the ability to think (1900 to 1950)
+- Dust Bowl: the years of drought that drove farm families from the Great Plains to California in the 1930s (1900 to 1950)
+- relief office: a place that gave out food or money to the poor (1900 to 1950)
+- fascists: the followers of the dictators who ruled Italy and Germany (1900 to 1950)
+- Merchant Marine: the ships that carried supplies in the Second World War (1900 to 1950)
+- lynching: a mob killing a person without a trial, often by hanging (1900 to 1950)
+- rape: forcing a person to have sex (1900 to 1950)
+- juvenile court: a court for children (1900 to 1950)
+- reform school: a school where courts sent children who were in trouble (1900 to 1950)
+- narcotics: illegal drugs (1900 to 1950)
+- Federal Bureau of Narcotics: the government's drug police (1900 to 1950)
+- cabaret card: the New York City police license a performer needed to work in any club that sold alcohol (1900 to 1950)
+- cirrhosis: a disease that scars the liver (1900 to 1950)
+- contralto: a singer with a low woman's voice (1900 to 1950)
+- NAACP: a group that fights for the rights of Black Americans (1900 to 1950)
+- disc jockey: a person who plays records on the radio (1950 to 2000)
+- co-writer: a person named as one of a song's writers, with a right to part of the money the song earns its writers (1950 to 2000)
+- cover version: a new recording of a song that someone else has already recorded (1950 to 2000)
+- settle out of court: to reach an agreement so the case never goes to trial (1950 to 2000)
+- payola: secret payments to a disc jockey or a radio station to play a record (1950 to 2000)
+- master recording: the original recording that every copy is made from (1950 to 2000)
+- coroner's jury: a panel that decides how a person died (1950 to 2000)
+- justifiable homicide: a killing the law excuses (1950 to 2000)
+- SNCC: the Student Nonviolent Coordinating Committee (1950 to 2000)
+- curator: a person in charge of a museum's collections (1950 to 2000)
+- DJ: a person who plays records for dancers or listeners (1950 to 2000)
+- arson: fires set on purpose (1950 to 2000)
+- census tract: a small area the census counts separately (1950 to 2000)
+- National Recording Registry: the Library of Congress's list of recordings chosen to be kept for the future (1950 to 2000)
+- heavy rotation: playing a song often on television or radio (1950 to 2000)
+- Tejano music: the Spanish-language music of Texas (1950 to 2000)
+- parole board: the officials who decide whether a prisoner may leave prison early (1950 to 2000)
+- streaming: playing songs over the internet without buying copies (2000 to Today)
+- wholesale: the price the record companies themselves are paid (2000 to Today)
+- music publisher: a company that owns or manages the rights to songs and collects money when people use them (2000 to Today)
+- sexual harassment: unwanted sexual remarks or touching (2000 to Today)
+- stage 4 cancer: cancer that has spread through the body (2000 to Today)
+- rotation: the list of songs a station plays over and over each day (2000 to Today)
+- compressive asphyxiation: being squeezed so hard that a person cannot breathe (2000 to Today)
+- grand jury: a group of citizens who decide whether someone should be charged with a crime (2000 to Today)
+- Auto-Tune: a computer program that moves a singer's off-key notes onto the right pitch (2000 to Today)
+- backlot: the outdoor area of a film studio's sets and storage buildings (2000 to Today)
+- fair use: a use of someone else's work that the law allows in some cases (2000 to Today)
+- publishing rights: the rights to a song itself (2000 to Today)
+
+## People
+
+- R. Carlos Nakai: Navajo and Ute flute player whose records were the first of the traditional Native flute to sell 500,000 copies (Before 1500)
+- Fray Cristóbal de Quiñones: Franciscan friar who put an organ in the church at San Felipe Pueblo and trained its singers (The 1600s)
+- Harry: enslaved fiddler who ran away near Jamestown, Virginia, in 1746, known from one runaway notice (1700 to 1750)
+- William Billings: Boston tanner who wrote about 340 choir songs, including "Chester," and died poor (1750 to 1800)
+- Newport Gardner: born Occramer Marycoo in West Africa, enslaved in Newport, Rhode Island, music teacher who bought his freedom with a lottery prize (1750 to 1800)
+- Stephen Foster: white songwriter of minstrel songs such as "Oh! Susanna," who died with 37 cents and three pennies (1800 to 1850)
+- Francis Johnson: free Black bandleader in Philadelphia who published more than 200 pieces of music (1800 to 1850)
+- Ella Sheppard: born into slavery, pianist and arranger of the Fisk Jubilee Singers (1850 to 1900)
+- John Philip Sousa: leader of the Marine Band and writer of "The Stars and Stripes Forever" (1850 to 1900)
+- Scott Joplin: Black composer of the "Maple Leaf Rag" and the opera *Treemonisha* (1850 to 1900)
+- Bessie Smith: Black blues singer paid $125 a side, with no royalty, for a record that sold 780,000 copies (1900 to 1950)
+- Louis Armstrong: Black trumpet player and singer who told a reporter in 1957 that "the government can go to hell" over Little Rock (1900 to 1950)
+- Maybelle Carter: guitarist of the Carter Family who made the guitar a lead instrument in country music (1900 to 1950)
+- DeFord Bailey: Black harmonica player whose playing came just before the Grand Ole Opry got its name (1900 to 1950)
+- Woody Guthrie: folk singer who wrote "This Land Is Your Land" (1900 to 1950)
+- Billie Holiday: Black jazz singer who recorded "Strange Fruit" and was arrested in her hospital bed (1900 to 1950)
+- Marian Anderson: Black contralto who sang at the Lincoln Memorial in 1939 and was the first Black American singer at the Metropolitan Opera (1900 to 1950)
+- Elvis Presley: white rock and roll singer whose manager took 25 and then 50 percent of his income (1950 to 2000)
+- Aretha Franklin: Black singer who turned "Respect" into a woman's demand (1950 to 2000)
+- Bernice Johnson Reagon: Albany, Georgia, song leader of the civil rights movement and a SNCC Freedom Singer (1950 to 2000)
+- Bob Dylan: songwriter who won the Nobel Prize in Literature (1950 to 2000)
+- DJ Kool Herc: Clive Campbell, the DJ at the 1973 Bronx party that people name as the start of hip-hop (1950 to 2000)
+- Selena Quintanilla: Mexican American Tejano singer killed at 23 by the woman who ran her fan club (1950 to 2000)
+- Zoë Keating: cellist who publishes what streaming services pay her (2000 to Today)
+- Taylor Swift: songwriter who recorded four albums again after a music manager bought her masters (2000 to Today)
+- Kendrick Lamar: Black rapper, the first musician outside classical music and jazz to win the Pulitzer Prize for Music (2000 to Today)
+- Dolly Parton: Tennessee songwriter who refused to give Elvis Presley's manager half the rights to "I Will Always Love You" (2000 to Today)
+
+## Dates
+
+- May 10, 1740: South Carolina lawmakers ban enslaved people from using drums and horns
+- 1843: Four white men in blackface perform in New York as the Virginia Minstrels
+- October 6, 1871: The Fisk Jubilee Singers set out on their first tour
+- August 10, 1920: Mamie Smith records "Crazy Blues"
+- August 11, 1973: Kool Herc plays records at the Bronx party named as the start of hip-hop
+- 1640: Stephen Daye prints the Bay Psalm Book at Cambridge, Massachusetts
+- August 10, 1680: Po'pay leads the Pueblo nations against the Spanish
+- September 9, 1739: Enslaved men rise up near the Stono River, with drums beating
+- 1770: William Billings publishes *The New-England Psalm-Singer*
+- 1867: *Slave Songs of the United States*, the first book of spirituals, is published
+- March 30, 1883: Hiram Price's rules make Native religious dances "Indian offenses"
+- August 10, 1899: Scott Joplin signs the contract for the "Maple Leaf Rag"
+- April 9, 1939: Marian Anderson sings at the Lincoln Memorial
+- August 13, 1952: Big Mama Thornton records "Hound Dog"
+- 1978: Members of Congress pass the American Indian Religious Freedom Act
+
+## Places
+
+- Abby Aldrich Rockefeller Folk Art Museum, Williamsburg, Virginia: *The Old Plantation*, the earliest known painting of a banjo
+- Arizona State Museum, Tucson, Arizona: the four Ancestral Pueblo flutes from Broken Flute Cave, made between 620 and 670
+- Jubilee Hall, Fisk University, Nashville, Tennessee: the building paid for by the Fisk Jubilee Singers' tours, a National Historic Landmark
+- Lincoln Memorial, Washington, D.C.: the steps where Marian Anderson sang on April 9, 1939
+- Library of Congress, Washington, D.C.: about 10,000 wax cylinders, nearly 8,000 of them holding Native songs and speech
+- 1520 Sedgwick Avenue, the Bronx, New York: the building city officials named the birthplace of hip-hop
+- Congo Square, New Orleans, Louisiana: the place where enslaved people gathered to sing, dance and play music on Sunday afternoons
+- Faneuil Hall, Boston, Massachusetts: the hall where a 1744 concert raised 205 pounds for the poor of Boston
+- Graceland, Memphis, Tennessee: Elvis Presley's home, where he died
+- Dollywood, Pigeon Forge, Tennessee: the theme park Dolly Parton became a partner in
+- Edmund Pettus Bridge, Selma, Alabama: where state troopers attacked marchers on March 7, 1965
+- Kennedy Center, Washington, D.C.: the building for music, theater and dance, closed as of October 26, 2026
+- Museo de América, Madrid, Spain: Tadeo Haenke's 1791 sheets of Tlingit songs
+
+## Movies
+
+- Jubilee Singers: Sacrifice and Glory (2000): no note
+- Stars and Stripes Forever (1952): a Hollywood film loosely based on Sousa's memoir
+- Bessie (2015): no note
+- Louis Armstrong's Black & Blues (2022): no note
+- The Carter Family: Will the Circle Be Unbroken (2005): no note
+- DeFord Bailey: A Legend Lost (2002): no note
+- Bound for Glory (1976): a Hollywood film based loosely on Guthrie's own book about his life
+- Billie (2019): no note
+- Marian Anderson: The Lincoln Memorial Concert (1939): no note
+- Elvis (2022): no note
+- Amazing Grace (2018): no note
+- No Direction Home: Bob Dylan (2005): no note
+- Selena (1997): no note
+- Miss Americana (2020): no note
+- Dolly Parton: Here I Am (2019): no note
+
+## Questions
+
+- Q: Where did the banjo and the blues come from? A: The banjo came from West African instruments, and enslaved Black people played it in the colonies from at least 1736, about a hundred years before a white man played it on a stage. The blues grew out of the work songs and field calls of enslaved people and the songs of Black workers in the South after slavery, between about 1870 and 1900.
+- Q: Why did so many musicians make hit songs and still die poor? A: Many were paid a set fee and no royalty, as Bessie Smith was at $125 a side, or someone else put his name on their song, as Don Robey did on "Hound Dog." Others, like Stephen Foster, sold their rights to future payments for money right away.
+- Q: Who tried to stop people from playing their own music, and why? A: South Carolina lawmakers banned drums and horns in 1740, saying the sound could call enslaved people together to rise up. Spanish friars burned Pueblo masks in the 1600s, Richard Henry Pratt gave Carlisle students brass horns to stop their drumming, and federal rules from 1883 to 1978 punished Native religious dances.
