@@ -396,6 +396,12 @@ Europeans and not Americans.
 - Peter Bower, *Louisbourg: A Focus of Conflict*, Parks Canada report H E 13, ch. VI, "The New England Occupation Period," transcribed by Krause House for the Fortress of Louisbourg research web, http://www.krausehouse.ca/krause/FortressOfLouisbourgResearchWeb/search/HE13-8.html (read 2026-10-02; https refused, http worked): by mid-February 1746 "At least 561 men had been buried during two months, 1,100 were still sick"; "On June 1, Pepperrell estimated that 1,200 men [died, word lost in the scan] of disease during the winter"; "By the end of January, 1746, nearly one-fifth of the garrison had been buried while half the remaining men were too sick for duty."
 - Prose: in June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
 
+### PATCH 2026-10-26 (T-650): who disputes the Haudenosaunee reading of the Nanfan deed (1701)
+- The deed's own words (Oklahoma State University treaty archive, https://treaties.okstate.edu/treaties/nanfan-treaty-1701 , opened 2026-10-26): the Five Nations "absolutely surrender, deliver up and for ever quit claime unto our great Lord and Master the King of England" the lands, and they are to have "free hunting for us and the heires and descendants from us the Five nations for ever ... free of all disturbances expecting to be protected therein by the Crown of England."
+- **R. v. Ireland, [1991] 2 C.N.L.R. 120, Ontario Court of Justice (General Division), Gautreau J., November 7, 1990** (full reasons, Ontario Energy Board record copy, https://www.rds.oeb.ca/CMWebDrawer/Record/362255/File/document , opened 2026-10-26; also listed by the UBCIC First Nations court decisions collection, https://collections.ubcic.bc.ca/s/fndds/item/11712 , which sits behind a Cloudflare check). Two Oneida men, **Jesse Hiram Ireland and David Jamieson**, were found with a gun and "two recently killed racoons" in a cornfield in Elgin County, Ontario, on January 21, 1987, and charged under Ontario's Game and Fish Act with hunting without a licence and in the closed season. Judge G.A. Phillips dismissed the charges on April 2, 1990, holding that their right to hunt under the Treaty of 1701 "must prevail." The Crown (counsel L.C. McCaffrey, Q.C.) appealed. The Crown argued that "the guarantee of free hunting rights was not absolute but was contingent on the re-conquest of the territory which was occupied by other Indians, who were allies of the French, as well as the French themselves ... It never happened and therefore the treaty is of no consequence," and that "free hunting" meant only that "the British would protect the right of the Iroquois to hunt in the territory undisturbed by other Indians." Gautreau J.: "I do not think these arguments are well founded ... It is a clear and positive statement of the rights of the Indians." Appeal dismissed. Counsel for the Oneida men was P. Williams.
+- So the "other writers dispute" line above (4.2) now has a named disputant: the Crown's lawyers in R. v. Ireland (1990), who lost. The Two Row Times (Jim Windle, "What about that 1701 Nanfan Treaty?", Dec 28, 2016, https://tworowtimes.com/historical/1701-nanfan-treaty/) says only that "Some say it only covered hunting and fishing rights" and names no one. Wikipedia (*Nanfan Treaty*) names only the French, who "did not recognize the treaty" because New France claimed the same lands.
+- Prose: the deed's English words; Haudenosaunee groups read it as protecting their hunting right; in R. v. Ireland government lawyers argued the promise depended on a reconquest that never happened; Judge Gautreau rejected that in 1990.
+
 ## ERA 05 — 1750 TO 1800 — where this chapter actually begins
 
 ### 5.1 The Revolution was a foreign-relations project from the start
@@ -1309,6 +1315,13 @@ army-history magazine, label it).
 - The bank's era 08 lines (Guampedia) name the **CHamoru** people as the people of Guam.
   Era 07 prose may name them as the people living on Guam when Spain handed it over.
 
+### PATCH 2026-10-26 (T-650): the Tripartite Convention's text, who gave up which claims (confirms the T-621 search summary)
+- Treaty text, *Convention between the United States, Germany, and Great Britain to adjust amicably the questions between the three governments in respect to the Samoan group of islands*, U.S. Statutes at Large vol. 31, pp. 1878-1880 (scan of the Statutes page, https://dheller.org/Timeline-files/US-Statutes/v31/treaties/Convention-Samoa-1899-b.pdf , opened 2026-10-26). Signed at Washington, December 2, 1899; Senate advised ratification January 16, 1900; ratifications exchanged and proclaimed February 16, 1900. Signers: **John Hay**, Secretary of State, for the United States; **von Holleben** (the text gives "Herr von Holleben" and, in German, "Dr. von Holleben"; no first name), German ambassador; **Lord Pauncefote**, British ambassador.
+- Article I annuls the 1889 Berlin General Act "and all previous treaties, conventions and agreements relating to Samoa."
+- Article II: "Germany renounces in favor of the United States of America all her rights and claims over and in respect to the Island of Tutuila and all other islands of the Samoan group east of Longitude 171° west of Greenwich. Great Britain in like manner renounces in favor of the United States of America all her rights and claims over and in respect to the Island of Tutuila and all other islands of the Samoan group east of Longitude 171° west of Greenwich. Reciprocally, the United States of America renounce in favor of Germany all their rights and claims over and in respect to the Islands of Upolu and Savaii and all other Islands of the Samoan group west of Longitude 171° west of Greenwich."
+- Article III: each of the three keeps equal trading rights in all the islands. The preamble notes Germany and Britain had already made a separate agreement "regarding their respective rights and interests" (the Anglo-German convention of November 14, 1899, not opened).
+- Prose: one sentence pair on who gave up which claims.
+
 ---
 
 ## ERA 08 — 1900 to 1950
@@ -1442,10 +1455,11 @@ https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Pa
   Marine detachment sent from Port-au-Prince met protesters and "at least 12 Haitians"
   died. Wilson's administration began the occupation. Roosevelt authorized withdrawal in
   1934.
-- A US military inquiry of the time put cacos killed at **3,250** (search summaries of
-  Wikipedia and TheCollector **(unconfirmed: search summary only)**). **Write the range:
-  "more than 2,000, and a US military count of the time said 3,250."** No count of other
-  Haitian civilians killed was found.
+- ~~A US military inquiry of the time put cacos killed at **3,250**~~ **CORRECTED 2026-10-26
+  (T-650):** 3,250 was an addition error. General George Barnett told the 1920 naval court
+  of inquiry that the true Marine count was **2,250** Haitians killed, 1915-1920. See the
+  PATCH 2026-10-26 (T-650) below this era's T-459 patch. Do not print 3,250 as a count. No
+  count of other Haitian civilians killed was found.
 
 **Dominican Republic, 1916-1924.**
 - Library of Congress Country Studies, *Dominican Republic: Occupation by the United
@@ -1459,8 +1473,8 @@ https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Pa
   control of Dominican financial affairs," page itself did not load).
 - Casualties: Marines 144 killed; Dominican casualties "1,137 killed or wounded"
   **(unconfirmed: search summary only)**. Gavillero leader **Ramón Natera** (search
-  summary only). **How the prose can say it:** "By one US count, 1,137 Dominicans were
-  killed or wounded," flagged as a single count, or omit the number.
+  summary only). **DROPPED 2026-10-26 (T-650):** no opened page confirms "1,137" or
+  "144"; do not print either number. See the PATCH 2026-10-26 (T-650) below.
 
 **Nicaragua, 1912-1933.**
 - Britannica, *Nicaragua: Foreign intervention* (read directly via curl,
@@ -1499,6 +1513,13 @@ https://www.paulkrameronline.com/wp-content/uploads/2016/08/The-Water-Cure-by-Pa
   fifteen hundred people," "wounding twenty-three and killing twelve." A search summary of
   Wikipedia (*Les Cayes massacre*) gives 12 to 22 dead and 51 injured **(search summary
   only)**. With CRS's "at least 12": the Marines fired, at least 12 Haitians died.
+
+### PATCH 2026-10-26 (T-650): the Marine count of Haitians killed (2,250, not 3,250), and the Dominican "1,137" dropped
+- **Haiti.** *Omaha Daily Bee*, October 28, 1920, p. 1, Associated Press report datelined Washington, Oct. 27 (Nebraska Newspapers, University of Nebraska-Lincoln, OCR text, https://nebnewspapers.unl.edu/lccn/sn99021999/1920-10-28/ed-1/seq-1/ocr , opened 2026-10-26). Headline (quotes below are from the OCR, with scan garbage removed; the OCR reads "3.250" and "2.250" with periods): "General Barnett Explains Mis take in Figures Responsible For Statement of 3,250 Deaths of Natives. Toy [Total] Killings Only 2,250." The "special naval court of inquiry" into the conduct of Marines in Haiti opened its public hearing on October 27, 1920, with **Brig. Gen. George Barnett**, former commandant of the Marine Corps, and **Maj. Edmund N. McClellan** of the corps historical division. Barnett "corrected a previous announcement that a total of 3,250 natives had been killed in action or otherwise during the five years of American occupation ... explaining that an error in addition ... resulted in this announcement," and said "the total was 2,250." McClellan's table of "the recorded number of bandits killed" gave 1919 as 1,861 and 1920 as 90 (other years garbled in the scan: 1916 50, 1918 35); he said "very few had met death otherwise than in action." Barnett said his earlier charge of "indiscriminate killing" of Haitians came from the court-martial records of two Marine privates, and that he meant "executions without judgment."
+- Corroborating, not opened: a 1929 Georgia newspaper attributing "a total of 2,250 Haitians were killed" to General Barnett (gahistoricnewspapers.galileo.usg.edu, search summary only); war-memorial.net's *Caco Revolt* entry says the commandant reported 2,250 to the 1921 Senate hearings and 3,250 to the Secretary of the Navy (search summary only).
+- **Bank correction:** the T-254 line "a US military count of the time said 3,250" is wrong as a count. The Marine figure, as corrected by Barnett under questioning, is 2,250 for 1915-1920. CRS ("over 2,000 cacos," already in the bank) agrees with it.
+- **Dominican Republic.** "1,137 killed or wounded" and "Marines 144 killed": no opened page confirms either. Checked: search for the exact figure (no hit on any opened page); Fuller and Cosmas, *Marines in the Dominican Republic, 1916-1924* (USMC History and Museums Division, 1974), marines.mil PDF, refused (Akamai "Access Denied" to curl, 403 to WebFetch). Both figures are dropped. The prose prints neither.
+- Prose: Haiti paragraph may add Barnett's 2,250 count, credited to his 1920 testimony.
 
 ### SEARCHED, NOT FOUND 2026-09-27 (T-254): How many Nicaraguans did US Marines kill, 1912-1933?
 Sources checked: Britannica *Nicaragua: Foreign intervention* and *Sandino* (no count).
@@ -1769,6 +1790,12 @@ them.
 ### Giving the canal back
 
 - **The Torrijos–Carter Treaties were signed September 7, 1977**; the United States **handed the canal to Panama on December 31, 1999**. ([Office of the Historian — The Panama Canal and the Torrijos-Carter Treaties](https://history.state.gov/milestones/1977-1980/panama-canal).)
+
+### SEARCHED, NOT FOUND 2026-10-26 (T-650): how many people were killed when the National Guard attacked Jayuya and Utuado (October 1950)
+- **Opened and read:** *Time*, "Insurrection," November 13, 1950 (https://time.com/archive/6886054/insurrection/): "Seventy Nationalists seized the town of Jayuya, killing four policemen, firing the post office, police station ... Selective Service headquarters and 20 homes"; "the guardsmen hunted down the terrorists with bazookas, tanks and planes"; Governor Muñoz Marín "soberly took note of the 'tragic and useless' death of 31 Puerto Ricans" (island-wide, all sides, not broken down by town). Democracy Now!, October 29, 2010 (https://democracynow.org/2010/10/29/puerto_rico_marks_60th_anniversary_of), Juan Gonzalez: "Two towns were bombed by the National Guard: Jayuya and Utuado ... about twenty-five people were killed" (island-wide).
+- **Not opened:** University at Albany scholarly PDF (403 to WebFetch and curl); usso.uk page citing Harry Franqui-Rivera (500); the Michigan Daily 1950 text (403); Presbyterian Historical Society "Memories of the Rebellion" (404 after redirect).
+- **Search summaries only, not used:** Wikipedia's *Jayuya Uprising* infobox (16 Nationalists, 8 police and soldiers dead; an older revision said 3 Nationalists); *Utuado uprising* (7 insurgents dead, 4 "after surrendering"; 2 National Guardsmen and 1 policeman dead); *1954 United States Capitol shooting* (28 dead in the 1950 revolts: 16 Nationalists, 7 police, 1 Guardsman, 4 civilians); a 1950 New York Times headline "23 Dead" via a newspaper dealer.
+- **Result:** no opened page gives a count of the people the Guard killed in the attacks on the two towns. Prose may say: Time reported Nationalists killed four policemen at Jayuya and Muñoz Marín counted 31 dead across the island; Time's report gives no count for the two towns (DECISIONS #45, the silent document named).
 
 ---
 
