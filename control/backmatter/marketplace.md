@@ -1,0 +1,204 @@
+## Glossary
+
+- archaeologist: a scientist who studies the past from what people left behind (Before 1500)
+- obsidian: a black volcanic glass that makes sharp blades (Before 1500)
+- captives: people seized by force and traded away with the other goods (Before 1500)
+- camas: a root that people dug up and ate (Before 1500)
+- wapato: a root that people dug up and ate (Before 1500)
+- dentalium shells: the shells of a small sea animal, each shaped like a tiny elephant tusk, which traders used to measure what other goods were worth (Before 1500)
+- mart: an old word for a market (Before 1500)
+- US Army Corps of Engineers: the part of the army that builds dams and other large works (Before 1500)
+- chert: a hard stone that holds a sharp edge (Before 1500)
+- Basque Country: a mountain region on the border of Spain and France (The 1500s)
+- pendant: an ornament that hangs from a cord (The 1500s)
+- awl: a pointed tool for punching holes in leather (The 1500s)
+- market day: a set day when farmers brought meat, milk, butter, cheese, fruit and vegetables into town to sell (The 1600s)
+- trading post: a building where colonists traded goods with Native people and with other traders (The 1600s)
+- wampum: small beads made from shells and strung together (The 1600s)
+- journal (a shopkeeper's): the book that listed every sale and every purchase in the order it happened (The 1600s)
+- ledger: the shopkeeper's book that gave each customer a page, purchases on the left and payments on the right (The 1600s)
+- buying on credit: taking the goods home and paying for them later (The 1600s)
+- deed: a signed paper that records who owns a piece of land (The 1600s)
+- fathom of wampum: a string of beads six feet long (The 1600s)
+- pound: the main English unit of money (The 1600s)
+- shilling: a smaller unit of English money (The 1600s)
+- forge: the fire where a blacksmith heats iron to shape it (The 1600s)
+- bellows: the air pump that blows on a forge fire (The 1600s)
+- troopers: soldiers on horseback (The 1600s)
+- unseasonable night meetings: meetings at an improper hour of the night (The 1600s)
+- consumer: a person who buys goods to use them (1700 to 1750)
+- consumer revolution: historians' name for the big change in buying in the 1700s, when colonists began buying the clothes, tools and kitchen things they had once made (1700 to 1750)
+- aldermen: the men on the Common Council who ran New York City (1700 to 1750)
+- subscribers: the people who paid to get every copy of a newspaper (1700 to 1750)
+- haberdashery: small sewing goods such as thread, ribbons and buttons (1700 to 1750)
+- Parliament: the lawmakers in London (1750 to 1800)
+- duties: taxes on goods brought into the colonies from Britain (1750 to 1800)
+- boycott: refusing to buy something as a protest (1750 to 1800)
+- theses: a printed sheet of the ideas graduates were ready to argue for in public at the ceremony (1750 to 1800)
+- homespun: cloth made at home (1750 to 1800)
+- flax: a plant whose stems give the threads for linen (1750 to 1800)
+- knot: a measured length of yarn (1750 to 1800)
+- Daughters of Liberty: a name for women on the side of the protest against British taxes (1750 to 1800)
+- embroidery: sewing pictures and patterns with colored thread (1750 to 1800)
+- posterity: the people who live later (1750 to 1800)
+- Loyalists: the colonists who sided with Britain in the Revolutionary War (1750 to 1800)
+- customs informer: a person paid by customs officials, who collected the taxes on goods brought in by ship, to report smugglers (1750 to 1800)
+- acting governor: the official running a colony for the king while the governor was away (1750 to 1800)
+- funeral procession: the line of people walking behind the coffin (1750 to 1800)
+- calico: a cotton cloth (1750 to 1800)
+- molasses: a dark sweet syrup (1750 to 1800)
+- spirits: a strong liquor (1750 to 1800)
+- notes: written promises to pay (1750 to 1800)
+- peddler: a seller who traveled a route through the countryside and sold goods at people's doors (1800 to 1850)
+- patent medicines: bottled remedies sold under a brand name (1800 to 1850)
+- tinware: pots, pans, cups and other things made of thin sheets of metal coated with tin (1800 to 1850)
+- bound out: made to work for a farmer until turning 21 (1800 to 1850)
+- banter: to haggle over the price (1800 to 1850)
+- taverns and inns: places where people drank, ate and stayed the night (1800 to 1850)
+- dissection: the cutting open of a dead body to look at its insides (1800 to 1850)
+- humbug: a trick or a false claim made to fool people (1800 to 1850)
+- swindles: tricks to cheat people out of their money (1800 to 1850)
+- dry goods: cloth, clothing and sewing supplies (1800 to 1850)
+- wholesale: selling goods in bulk to other sellers (1800 to 1850)
+- department store: a large store with many kinds of goods, each kind in its own section, called a department (1800 to 1850)
+- installments: paying for goods in small amounts over time, after taking them home (1850 to 1900)
+- freight station: a building where trains loaded and unloaded goods (1850 to 1900)
+- Postmaster General: the official in charge of the national mail service (1850 to 1900)
+- rural free delivery: a service in which postal workers carried mail to farm families' homes (1850 to 1900)
+- chain store: one of many stores that belong to the same owners and sell the same kinds of goods (1850 to 1900)
+- advertising agency: a business that plans advertisements for sellers and buys space for them in newspapers and magazines (1850 to 1900)
+- female complaint: a health problem of women, in the words of patent-medicine advertisements (1850 to 1900)
+- teething: growing first teeth (1850 to 1900)
+- morphine: a strong painkilling drug that slows a person's breathing, so that too much can kill, especially a child (1850 to 1900)
+- trade cards: small printed cards given out to customers (1850 to 1900)
+- nostrums and quackery: fake cures and the selling of fake medicine (1850 to 1900)
+- catalog: a printed list of goods that customers could order by mail (1850 to 1900)
+- middlemen: the sellers between the maker and the buyer (1850 to 1900)
+- libel: printing something false that harms a person's name (1850 to 1900)
+- bona fide: real (1850 to 1900)
+- territories: lands that were not yet states (1850 to 1900)
+- Nineteenth Amendment: a change to the Constitution stating that no state and no federal official may keep a citizen from voting because of whether the citizen is a man or a woman (1850 to 1900)
+- heliotrope: a small purple flower (1850 to 1900)
+- retailer: a business that sells goods to the people who use them (1900 to 1950)
+- capital: the money put into a business to run it (1900 to 1950)
+- self-service: customers picking goods off the shelves themselves instead of asking a clerk to fetch them (1900 to 1950)
+- turnstile: a gate with turning arms that lets one person through at a time (1900 to 1950)
+- patent: a paper that lets only the inventor use an invention for a number of years (1900 to 1950)
+- supermarket: a store that meets the Smithsonian's five tests: separate departments, self-service, low prices, many stores under one name and buying goods in huge amounts (1900 to 1950)
+- slogan: a short phrase repeated in advertising (1900 to 1950)
+- stock exchange: a market where people buy and sell shares (1900 to 1950)
+- shares: small pieces of ownership in a company (1900 to 1950)
+- selling short: a bet that a stock's price will fall, made by selling borrowed shares and planning to buy them back later at a lower price (1900 to 1950)
+- bankrupt: unable to pay one's debts (1900 to 1950)
+- Great Depression: the years of hard times that began in 1929 (1900 to 1950)
+- scrip: a coal company's own money, made as metal coins or paper (1900 to 1950)
+- economist: someone who studies how money, work and business fit together (1900 to 1950)
+- debt bondage: being forced to keep working to pay off a debt (1900 to 1950)
+- Jim Crow: the laws and customs in the South under which white lawmakers and officials kept Black people apart from white people (1900 to 1950)
+- lynching: a mob killing a person without any trial (1900 to 1950)
+- Federal Communications Commission: the government office that licenses stations (1900 to 1950)
+- rationing: limiting how much of each good a person could buy (1900 to 1950)
+- processed foods: foods that were canned, dried or frozen (1900 to 1950)
+- ceiling price: the highest price government officials allowed (1900 to 1950)
+- workmen's compensation: money paid to a worker's family after the worker is hurt or killed on the job (1900 to 1950)
+- Anschluss: the takeover of Austria by Nazi Germany in March 1938 (1950 to 2000)
+- arcade: a covered walkway (1950 to 2000)
+- alimony: the money a person pays a former husband or wife after a divorce (1950 to 2000)
+- credit card: a card with which a shopper could take goods home from any store that took the card and pay the bank later (1950 to 2000)
+- mortgage lenders: lenders who lend money to buy houses (1950 to 2000)
+- national origin: the country a person or their family came from (1950 to 2000)
+- discount chain: stores selling goods at prices below what other stores charged (1950 to 2000)
+- five-and-dime stores: stores that sold small goods for 5 and 10 cents (1950 to 2000)
+- variety stores: stores that sold many kinds of small, cheap goods (1950 to 2000)
+- largest private employer: the company with more workers than any other company (1950 to 2000)
+- franchise: the right for other people to run a business under a business's name, following its owner's rules (1950 to 2000)
+- Universal Product Code (UPC): the barcode printed on packages in stores, read by a scanner at the checkout (1950 to 2000)
+- research and development: the work of trying out new ideas (1950 to 2000)
+- trading stamps: small stamps that shoppers got with purchases, pasted into books and traded for goods (1950 to 2000)
+- auction: selling goods to whoever offers the most money (1950 to 2000)
+- Federal Reserve: the bank that acts as a bank for other banks (2000 to Today)
+- union: a group that workers form to bargain together with their employer (2000 to Today)
+- anchor store: a big store that draws shoppers to the smaller shops around it (2000 to Today)
+- data brokers: companies that collect records of what people look at online, combine them with records from outside the internet and sell what they gather (2000 to Today)
+- Federal Trade Commission: the government office that protects shoppers (2000 to Today)
+- data elements: separate facts (2000 to Today)
+- V-Bucks: game money that Fortnite players buy with real money to get costumes and dance moves for their characters (2000 to Today)
+- Children's Online Privacy Protection Act: a law that requires a company to get a parent's permission before it collects personal information from a child under 13 (2000 to Today)
+- dark patterns: confusing buttons and screens that led players into charges they did not mean to make (2000 to Today)
+- unauthorized charges: charges that players had not agreed to (2000 to Today)
+- payday loan: a small loan from a storefront lender that the borrower is supposed to pay back on the next payday (2000 to Today)
+- Consumer Financial Protection Bureau: a government office that watches over lenders (2000 to Today)
+- OSHA: the government's workplace safety office (2000 to Today)
+- heat illness: what happens when the body gets too hot and cannot cool itself down (2000 to Today)
+- medical examiner: the doctor whose job is to find out why a person died (2000 to Today)
+- dispatcher: the worker who sends drivers out and keeps track of them (2000 to Today)
+- strike: stopping work as a protest (2000 to Today)
+- National Labor Relations Board: the government office that enforces labor law (2000 to Today)
+- joint employer: a company that shares an employer's legal duties toward workers another company hired (2000 to Today)
+- settling a case: agreeing on terms that end it (2000 to Today)
+
+## People
+
+- John Stewart: a Scottish prisoner of war, sold into forced labor, who bought his freedom on credit and became Springfield's blacksmith (The 1600s)
+- Benjamin Franklin: the Philadelphia printer who made advertising pay for his newspaper and ran advertisements offering enslaved people for sale (1700 to 1750)
+- Ame and Elizabeth Cuming: Boston shopkeeper sisters who refused to join the boycott and were named in the newspaper and the town record for it (1750 to 1800)
+- James Guild: a Vermont farm boy who peddled goods from a trunk and wrote down what happened to him (1800 to 1850)
+- P.T. Barnum: a showman whose first paid show was Joice Heth, an enslaved woman he advertised as 161 years old (1800 to 1850)
+- John Wanamaker: the Philadelphia merchant credited with spreading the price tag and the money-back promise (1850 to 1900)
+- Aaron Montgomery Ward: the traveling salesman who started selling to farm families by mail from a printed catalog (1850 to 1900)
+- Richard Sears: the railroad station agent who sold watches and built the Sears catalog (1850 to 1900)
+- Persis Foster Eames Albee: the first woman to sell door to door for the company that became Avon (1850 to 1900)
+- F. W. Woolworth: the storekeeper who built a national chain of five-cent and ten-cent stores and paid cash for the tallest building in the world (1900 to 1950)
+- Clarence Saunders: the Memphis grocer who started self-service shopping with Piggly Wiggly and lost the company in a fight over its stock (1900 to 1950)
+- Emilia Ruth Palmquist Lundberg: a widowed mother of six in Jersey City who shopped for her family with ration books in the Second World War (1900 to 1950)
+- Victor Gruen: the architect who designed Southdale, the first enclosed American mall, and later rejected what developers built from his idea (1950 to 2000)
+- Sam Walton: the Arkansas storekeeper who put discount stores in small towns and built Walmart (1950 to 2000)
+- Sharon Buchanan: the cashier who made the first sale ever scanned with a barcode (1950 to 2000)
+- Jeff Bezos: the founder of Amazon (2000 to Today)
+- Renica Turner: an Amazon delivery driver in the California desert who joined a union to push for protection from the heat (2000 to Today)
+
+## Dates
+
+- December 29, 1653: John Pynchon writes in his account book that John Stewart owes him 30 pounds for his freedom
+- November 30, 1711: New York's aldermen set up a market at Wall Street where enslaved people were sold
+- August 18, 1872: Montgomery Ward mails his first catalog from Chicago
+- September 6, 1916: Clarence Saunders opens the first Piggly Wiggly, where shoppers serve themselves
+- July 16, 1995: Amazon.com opens for orders
+- 1634: Governor John Winthrop orders a public market for Boston
+- October 2, 1729: Benjamin Franklin buys the Pennsylvania Gazette
+- August 1, 1768: Boston merchants sign the Boston Non-Importation Agreement
+- February 22, 1770: Ebenezer Richardson shoots and kills Christopher Seider during a protest at a Boston shop door
+- September 21, 1846: A. T. Stewart opens the Marble Palace in New York
+- September 1856: Edward Clark begins selling Singer sewing machines on installments
+- March 2 and 3, 1859: Pierce Butler sells between 429 and 436 people near Savannah, Georgia ("the weeping time")
+- October 1, 1896: rural free delivery begins in West Virginia
+- October 8, 1956: Southdale Center, the first fully enclosed mall, opens in Edina, Minnesota
+- June 26, 1974: the first barcode scan, a pack of gum, at the Marsh Supermarket in Troy, Ohio
+
+## Places
+
+- Wall Street and Water Street, New York City, New York: a sign marking where the city's market for enslaved people stood from 1711 to 1762
+- Sun Building, 280 Broadway, New York City, New York: A. T. Stewart's Marble Palace store building of 1846, which still stands
+- Smithsonian's National Museum of American History, Washington: one of the first ten barcode scanners, a Spectra-Physics Model A
+- The Dalles Dam, on the Columbia River between Oregon and Washington: the dam whose lake covers Celilo Falls and the old trading place
+- East Hampton Library: Robert Townsend's account books of 1773 to 1785, copied out and published by its staff
+- Vermont Historical Society: printed James Guild's journal in 1937
+- Rutgers Oral History Archives: Donald Lundberg's 2008 interview about shopping under rationing
+- West Virginia Mine Wars Museum: a page describing coal-company scrip as debt bondage
+- Chicago History Museum, Chicago: its count of 163 items in Montgomery Ward's first catalog
+
+## Movies
+
+- Benjamin Franklin (2022): a documentary by Ken Burns, shown on PBS, that covers Franklin's whole life
+- The Circus (2018): a two-part American Experience documentary on PBS about the American circus that tells a large part of Barnum's story
+- The Greatest Showman (2017): a musical movie about Barnum whose story is mostly made up, and Joice Heth does not appear in it (named in the Barnum box, not a Movie record line)
+- Mr. Sears' Catalogue (1989): an American Experience documentary on PBS about Richard Sears and his catalog
+- The Gruen Effect: Victor Gruen and the Shopping Mall (2009): a documentary by Anette Baldauf and Katharina Weingartner about Gruen and the malls he started
+- Wal-Mart: The High Cost of Low Price (2005): a documentary by Robert Greenwald that argues against the company and is not a life story of Walton
+- Amazon Empire: The Rise and Reign of Jeff Bezos (2020): a Frontline documentary by James Jacoby and Anya Bourg, an investigation that argues a case against Amazon's power
+
+## Questions
+
+- Q: How did colonists pay for goods when they had almost no coins? A: They took goods home on credit and paid later in crops, other goods, work and wampum, while the shopkeeper wrote each debt in a ledger.
+- Q: Where were people bought and sold like goods? A: At the market New York's aldermen set up on Wall Street in 1711, in newspaper advertisements such as the 277 or more in Franklin's Pennsylvania Gazette, and at a racetrack near Savannah, where Pierce Butler sold between 429 and 436 people in 1859.
+- Q: How much of what Americans buy today is bought online? A: About one dollar in six: online sales were 17.1 percent of all retail sales from April to June 2026, by the US Census Bureau's count.
