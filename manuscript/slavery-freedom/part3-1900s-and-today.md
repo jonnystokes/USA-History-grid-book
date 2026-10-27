@@ -12,39 +12,59 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-Slavery was against the law after 1865, but in the first half of the 1900s, Southern lawmakers, sheriffs, judges and company managers built a system that took its place. Lawmakers passed laws that kept Black and white people apart, and they took the vote from most Black men. Sheriffs arrested Black men for small crimes, judges sentenced them, and state officials rented them to mine companies, whose managers worked them without pay. White mobs lynched Black people by the thousands. Researchers at the Equal Justice Initiative have counted more than 4,400 such killings between 1877 and 1950.
+**Era 8 of 10 · 1900 to 1950 · about 7 minutes**
 
-By the 1930s, the people who had been born into slavery were old. From 1936 to 1938, writers paid by the federal government wrote down the life stories of more than 2,300 of them.
+Southern lawmakers, sheriffs, judges and company managers spent the first half of the 1900s running a system that took slavery's place. Lawmakers passed laws that kept Black and white people apart, and they took the vote from most Black men. Sheriffs arrested Black men for small crimes, judges sentenced them, and state officials rented them to mine companies, whose managers worked them without pay. White mobs lynched Black people by the thousands. Researchers at the Equal Justice Initiative have counted more than 4,400 such killings between 1877 and 1950.
+
+The people who had been born into slavery were old by the 1930s. Writers paid by the federal government wrote down the life stories of more than 2,300 of them between 1936 and 1938.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Segregation and the stolen vote" -->
-In 1896 the justices of the Supreme Court decided the case *Plessy v. Ferguson*. They ruled that a state could keep Black and white people apart by law, under a rule called "separate but equal." After that ruling, lawmakers across the South passed laws that kept Black and white people apart in schools, railroad cars, waiting rooms, courtrooms and cemeteries, and at water fountains. Keeping people apart by race is called segregation. These laws became known as Jim Crow laws.
+**Jim Crow.** The justices' 1896 ruling in *Plessy v. Ferguson*, told at the end of the last era, let states keep Black and white people apart by law. Lawmakers across the South then passed laws that kept them apart in schools, railroad cars, waiting rooms, courtrooms and cemeteries, and at water fountains. This segregation, the separating of people by race, was written into what people called the Jim Crow laws.
 
-Southern lawmakers also took away the vote from Black men. A state's constitution is its set of basic laws. The men who wrote Mississippi's constitution of 1890 set the pattern, with three rules for voters. A poll tax was a fee a man had to pay before he could vote. A literacy test was a reading test. A clause is one part of a written law or constitution. Under the understanding clause, a man had to be able to read any part of the state constitution. A man who could not read could still sign up to vote if he understood a part when someone read it to him, or gave "a reasonable interpretation" of it. Henry Williams had been found guilty of murder in Mississippi by an all-white jury. In 1898 his lawyer told the justices of the Supreme Court that the local officer who signed up voters was "the sole judge" of each test. The officer could turn away any man he chose. The justices ruled against Williams.
+**The stolen vote.** Southern lawmakers also took the vote from most Black men. The men who wrote Mississippi's constitution of 1890, the state's set of basic laws, set the pattern with three rules for voters. One was a poll tax, a fee a man had to pay before he could vote. Another was a literacy test, a reading test.
 
-Much later, the justices decided another case about the same rules, in 1965. In it, lawyers for the United States government told the Supreme Court that Black men had once been more than half of Mississippi's qualified voters. By 1899 they were about 9 percent.
+The third was the understanding clause. Under it, a man had to be able to read any part of the state constitution. A man who could not read could still sign up to vote if he understood a part when someone read it to him, or gave "a reasonable interpretation" of it.
 
-In 1898 the men who wrote Louisiana's new constitution added a grandfather clause. It let a man vote if his father or grandfather had voted before January 1, 1867. At that time most Black Southerners had been enslaved. So the clause let white men who could not pass the tests vote anyway.
+**Henry Williams.** An all-white jury in Mississippi had found Henry Williams guilty of murder. In 1898 his lawyer told the justices of the Supreme Court that the local officer who signed up voters was "the sole judge" of each test, so the officer could turn away any man he chose. The justices ruled against Williams.
 
-In 1896 about 130,000 Black voters were registered in Louisiana. By 1900 there were 5,320. By 1904, by the count of Equal Justice Initiative researchers, there were about 1,000.
+Much later, in a 1965 case about the same rules, lawyers for the United States government told the Supreme Court that Black men had once been more than half of Mississippi's qualified voters. By 1899 they were about 9 percent.
+
+**The grandfather clause.** The men who wrote Louisiana's new constitution added a grandfather clause in 1898. It let a man vote if his father or grandfather had voted before January 1, 1867. At that time most Black Southerners had been enslaved, so the clause let white men who could not pass the tests vote anyway.
+
+Louisiana had about 130,000 registered Black voters in 1896. By 1900 there were 5,320. By 1904, by the count of Equal Justice Initiative researchers, there were about 1,000.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Lynching" -->
-A lynching is the killing of a person by a mob, with no trial. Researchers at the Equal Justice Initiative have documented more than 4,400 lynchings of Black people carried out as racial terror between 1877 and 1950. Other counts, which use different years and different rules for what counts, give different totals. Mobs hanged people and shot them. In Chattanooga, Tennessee, in 1906, an all-white jury found a Black man named Ed Johnson guilty of rape, though about a dozen witnesses said he was somewhere else. Rape means forcing a person into sex. Johnson's lawyers appealed, which means they asked a higher court to look at the case again. The justices of the Supreme Court stopped his execution while they looked at his appeal. That night the sheriff, Joseph F. Shipp, took away the jail's usual guard and left only the night jailer. A mob broke into the jail, took Johnson to a bridge over the Tennessee River, hanged him from a beam and shot him. In 2000 a Tennessee judge threw out the guilty verdict.
+Researchers at the Equal Justice Initiative have documented more than 4,400 lynchings, killings by a mob with no trial, of Black people carried out as racial terror between 1877 and 1950. Other counts, which use different years and different rules for what counts, give different totals. Mobs hanged people and shot them.
+
+**Ed Johnson.** An all-white jury in Chattanooga, Tennessee, found a Black man named Ed Johnson guilty of rape in 1906, though about a dozen witnesses said he was somewhere else. His lawyers asked the Supreme Court to look at the case again, and the justices stopped his execution while they did.
+
+That night the sheriff, Joseph F. Shipp, took away the jail's usual guard and left only the night jailer. A mob broke into the jail, took Johnson to a bridge over the Tennessee River, hanged him from a beam and shot him. In 2000 a Tennessee judge threw out the guilty verdict.
 
 White mobs used lynching to frighten Black people into staying in low-paid work and into obeying white Southerners. Black Southerners left the South to get away from the terror, in a movement known as the Great Migration.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Forced labor after slavery" -->
-Sheriffs, judges, state officials and company managers kept Black people working without pay well into the 1900s, through convict leasing and debt peonage. Under convict leasing, state officials rented prisoners out to companies, and company managers worked them without wages. Sheriffs arrested Black men, often for having no job or for small crimes, and county judges sentenced them. Debt peonage meant forcing a person to work to pay off a debt. Douglas Blackmon told this history in his book *Slavery by Another Name*, which won the Pulitzer Prize, one of the top American prizes for writing. In 2012 PBS showed a film made from the book.
+Sheriffs, judges, state officials and company managers kept Black people working without pay well into the 1900s, through convict leasing and debt peonage. Under convict leasing, state officials rented prisoners out to companies, and company managers worked them without wages. Debt peonage meant forcing a person to work to pay off a debt.
 
-Alabama officials leased the state's prisoners to coal companies from 1875 to 1928, among them the Tennessee Coal, Iron and Railroad Company. More than 95 percent of Alabama's county prisoners were Black. In one count from the 1890s, 181 of 745 county prisoners working in the mines died within two years. In 1911, 123 Black county prisoners whom officials had leased to the Banner Mine were killed in an explosion there. In 1924 a prisoner named James Knox, from Mobile, died at the Flat Top mine. His death was first reported as a suicide by poison. An autopsy, an examination of the body after death, then showed that he had died of heart failure and that poison had been put into his body with a needle after he died. A City of Birmingham article states that his fatal injuries came from being whipped with a steel wire and lowered into hot water. The historian Mary Ellen Curtin describes a vat, a large tub, of boiling water. Neither account names who first called his death a suicide, who put in the poison, or who whipped him and put him in the water. Alabama officials ended convict leasing on June 30, 1928. Alabama was the last state to end it.
+Douglas Blackmon told this history in his book *Slavery by Another Name*, which won the Pulitzer Prize, one of the top American prizes for writing. In 2012 PBS showed a film made from the book.
 
-On January 3, 1911, the justices of the Supreme Court ruled that an Alabama law punishing farm workers who quit after taking an advance broke the 13th Amendment. An advance is money paid before the work is done. The 13th Amendment is the part of the Constitution, added in 1865, that forbids slavery. The case began with Alonzo Bailey, a farm worker in Alabama. He signed on to work for the Riverside Company for $12 a month and took $15 in advance. After about a month he left. Under Alabama law, leaving a job after taking an advance was a crime, and the law barred him from telling the court why he had left. He was fined $30 and sentenced to 136 days of hard labor. In *Bailey v. Alabama*, the justices ruled 7 to 2 that the law broke the 13th Amendment. Booker T. Washington secretly helped pay for Bailey's lawyers. Lawmakers in other Southern states kept laws like it for decades. The justices of the Supreme Court struck down Georgia's law in 1942 and Florida's in 1944.
+**The mines.** Alabama's convict leasing, told in the last era, went on until 1928. In 1911, 123 Black county prisoners whom officials had leased to the Banner Mine were killed in an explosion there.
+
+A prisoner named James Knox, from Mobile, died at the Flat Top mine in 1924. His death was first reported as a suicide by poison. An autopsy, an examination of the body after death, then showed that he had died of heart failure and that poison had been put into his body with a needle after he died.
+
+A City of Birmingham article states that his fatal injuries came from being whipped with a steel wire and lowered into hot water. The historian Mary Ellen Curtin describes a vat, a large tub, of boiling water. Neither account names who first called his death a suicide, who put in the poison, or who whipped him and put him in the water. Alabama officials ended convict leasing on June 30, 1928. Alabama was the last state to end it.
+
+**Alonzo Bailey.** Alonzo Bailey, a farm worker in Alabama, signed on to work for the Riverside Company for $12 a month and took $15 in advance, paid before the work was done. After about a month he left. Under Alabama law, leaving a job after taking an advance was a crime, and the law barred him from telling the court why he had left. He was fined $30 and sentenced to 136 days of hard labor.
+
+Booker T. Washington secretly helped pay for Bailey's lawyers. On January 3, 1911, in *Bailey v. Alabama*, the justices of the Supreme Court ruled 7 to 2 that the law broke the 13th Amendment, the part of the Constitution, added in 1865, that forbids slavery.
+
+Lawmakers in other Southern states kept laws like it for decades. The justices struck down Georgia's law in 1942 and Florida's in 1944.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The last voices" -->
-From 1936 to 1938, federal officials running the Federal Writers' Project, a government program that gave jobs to writers, sent interviewers to talk with people who had been born into slavery. The interviewers worked in 17 states, wrote down more than 2,300 life stories and took 500 photographs. The Library of Congress keeps them in a collection called "Born in Slavery."
+Federal officials running the Federal Writers' Project, a government program that gave jobs to writers, sent interviewers to talk with people who had been born into slavery. Between 1936 and 1938 the interviewers worked in 17 states, wrote down more than 2,300 life stories and took 500 photographs. The Library of Congress keeps them in a collection called "Born in Slavery."
 
 The Library of Congress also keeps sound recordings of people who were born into slavery, made between 1932 and 1975. The collection is called "Voices Remembering Slavery."
 <!-- /hb-zoom -->
@@ -55,13 +75,17 @@ The Library of Congress also keeps sound recordings of people who were born into
 > **Who:** A man born into slavery in Virginia, one of the few people born enslaved whose own voice survives on a recording.
 > **When and where:** Born in Charlottesville, Virginia. Recorded by the Library of Congress in Baltimore, Maryland, on June 11, 1949.
 
-Fountain Hughes was recorded talking about slavery in 1949, and the recording still exists. On June 11, 1949, in Baltimore, Hermond Norwood of the Library of Congress interviewed him. Hughes began: "My name is Fountain Hughes. I was born in Charlottesville, Virginia." He said he was 101 years old, which would mean he was born in about 1848. Some reference books give 1854, and other accounts argue for a later year.
+**"They'd sell us like they sell horses and cows and hogs."**
+
+Hermond Norwood of the Library of Congress interviewed Fountain Hughes in Baltimore on June 11, 1949, and the recording still exists. Hughes began: "My name is Fountain Hughes. I was born in Charlottesville, Virginia."
 
 His grandfather, Wormley Hughes, was the enslaved head gardener at Monticello, Thomas Jefferson's plantation. Fountain Hughes said his father "got killed in the Army," and that left the children "to live on whatever people choose to give us."
 
-He was never sold, he said, because "I was too young to sell." But he described how others were sold: "They'd sell us like they sell horses and cows and hogs and all like that. Have an auction bench, and they'd put you on up on the bench and bid on you." He could not go anywhere without his enslaver's permission: "I couldn't go from here across the street, or I couldn't go through nobody's house without I have a note or something from my master."
+He was never sold, he said, because "I was too young to sell." But he described how others were sold: "They'd sell us like they sell horses and cows and hogs and all like that. Have an auction bench, and they'd put you on up on the bench and bid on you."
 
-He said of being enslaved: "You're nothing but a dog. You're not a thing but a dog!"
+He could not go anywhere without his enslaver's permission: "I couldn't go from here across the street, or I couldn't go through nobody's house without I have a note or something from my master." He said of being enslaved: "You're nothing but a dog. You're not a thing but a dog!"
+
+**Not known:** the year he was born. He said he was 101 years old, which would mean about 1848. Some reference books give 1854, and other accounts argue for a later year.
 <!-- hb-story:end slug="fountain-hughes" -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -69,21 +93,29 @@ He said of being enslaved: "You're nothing but a dog. You're not a thing but a d
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-An amendment is a change added to the Constitution. The 14th Amendment, added in 1868, says that no state may deny any person "the equal protection of the laws," which means the same protection the laws give everyone else. The 15th, added in 1870, says that no one may be kept from voting because of race. For almost a hundred years, federal officials did not enforce those amendments in the South. In 1954 the justices of the Supreme Court ruled that public schools kept separate by race were against the Constitution. In 1964 and 1965, members of Congress passed two laws that gave federal officials the power to enforce the amendments. After Alex Haley's book *Roots* came out in 1976 and ABC showed it on television in 1977, many Black families began tracing their ancestors back to slavery.
+**Era 9 of 10 · 1950 to 2000 · about 4 minutes**
+
+Federal judges and lawmakers began to enforce the promises of the Civil War amendments in these fifty years, almost a hundred years after they were written.
+
+The 14th Amendment, a change added to the Constitution in 1868, says that no state may deny any person "the equal protection of the laws," the same protection the laws give everyone else. The 15th, added in 1870, says that no one may be kept from voting because of race. For almost a hundred years, federal officials did not enforce them in the South.
+
+The justices of the Supreme Court ruled in 1954 that public schools kept separate by race were against the Constitution. Members of Congress passed two laws in 1964 and 1965 that gave federal officials the power to enforce the amendments. After Alex Haley's book *Roots* came out in 1976 and ABC showed it on television in 1977, many Black families began tracing their ancestors back to slavery.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The amendments enforced" -->
-On May 17, 1954, in *Brown v. Board of Education*, the justices of the Supreme Court all agreed that "separate educational facilities are inherently unequal." Inherently means by their very nature. With that ruling, the justices threw out the "separate but equal" rule of *Plessy v. Ferguson* for public schools.
+The justices of the Supreme Court all agreed in *Brown v. Board of Education*, on May 17, 1954, that "separate educational facilities are inherently unequal," unequal by their very nature. With that ruling, the justices threw out the "separate but equal" rule of *Plessy v. Ferguson* for public schools.
 
-The Civil Rights Act became law on July 2, 1964, and the Voting Rights Act on August 6, 1965. Under the Civil Rights Act, hotels, restaurants and other places open to the public could no longer turn people away or keep them apart because of race, and employers could no longer refuse people jobs because of race. Under the Voting Rights Act, no state or county could use any rule to keep a citizen from voting because of race. With these laws, the members of Congress who voted for them gave federal officials the power to enforce the 14th and 15th Amendments. They came about a hundred years after the 13th Amendment forbade slavery.
+**Two laws.** The Civil Rights Act became law on July 2, 1964, and the Voting Rights Act on August 6, 1965. Under the Civil Rights Act, hotels, restaurants and other places open to the public could no longer turn people away or keep them apart because of race, and employers could no longer refuse people jobs because of race. Under the Voting Rights Act, no state or county could use any rule to keep a citizen from voting because of race.
 
-In 1995 Mississippi's state lawmakers voted to approve the 13th Amendment, 130 years after it became part of the Constitution. No one filed the paperwork that would have made their vote official.
+With these laws, the members of Congress who voted for them gave federal officials the power to enforce the 14th and 15th Amendments. They came about a hundred years after the 13th Amendment forbade slavery.
+
+**Mississippi, 1995.** Mississippi's state lawmakers voted in 1995 to approve the 13th Amendment, 130 years after it became part of the Constitution. No one filed the paperwork that would have made their vote official.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Roots and the search for family" -->
-In 1976 Alex Haley published *Roots*, a book about his family, which he traced back to an African man enslaved in America. In January 1977 the ABC television network showed *Roots* as a miniseries, a story told over several nights. An estimated 130 million people watched it, the largest audience a television series had ever had. Afterward, many Black families began searching for their own ancestors.
+Alex Haley published *Roots* in 1976, a book about his family, which he traced back to an African man enslaved in America. The ABC television network showed *Roots* as a miniseries, a story told over several nights, in January 1977. An estimated 130 million people watched it, the largest audience a television series had ever had. Afterward, many Black families began searching for their own ancestors.
 
-Parts of Haley's work were later challenged. In 1978 Haley agreed to pay the writer Harold Courlander $650,000 to settle a lawsuit claiming that Haley had copied passages from Courlander's novel *The African*. Professional genealogists, people who trace family histories from records, have challenged links in the chain of records behind Haley's family story.
+Parts of Haley's research and writing were later challenged.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="alex-haley" name="Alex Haley" movie="Roots (1977)" kind="famous" status="verified" -->
@@ -93,13 +125,17 @@ Parts of Haley's work were later challenged. In 1978 Haley agreed to pay the wri
 > **When and where:** Born in Ithaca, New York, in 1921. *Roots* published in 1976. Died in Tennessee in 1992.
 > **Movie:** *Roots* (1977), a television miniseries on ABC based on Haley's book. It tells his family's story as drama. It is not a documentary about Haley.
 
-Alex Haley wrote *Roots*, a book about his family's history from Africa through slavery. He was born in Ithaca, New York, on August 11, 1921. He spent part of his childhood in Henning, Tennessee, his mother's hometown. There his aunts and grandmothers told the family's stories. One story was about an African ancestor named Toby, who "insisted that his real name was Kin-te."
+**A family story said an ancestor insisted "his real name was Kin-te."**
+
+Alex Haley spent part of his childhood in Henning, Tennessee, his mother's hometown. There his aunts and grandmothers told the family's stories. One was about an African ancestor named Toby, who "insisted that his real name was Kin-te."
 
 Haley served twenty years in the United States Coast Guard, and he became a writer while he was in it. Later he traveled to Gambia, in West Africa. There a griot, a keeper of history who tells it from memory, told him the story of "his ancestor Kunta Kinte, captured by slave traders."
 
-*Roots* came out in 1976. It won a special Pulitzer Prize in 1977. The television miniseries ran on eight nights in a row in January 1977 and won 145 awards, including nine Emmys, the top awards for television.
+*Roots* came out in 1976 and won a special Pulitzer Prize in 1977. The television miniseries ran on eight nights in a row in January 1977 and won 145 awards, including nine Emmys, the top awards for television.
 
-In 1978 Haley agreed to pay Harold Courlander $650,000 to settle Courlander's lawsuit. Genealogists have questioned whether the records support every link Haley drew between his family and Kunta Kinte. Haley died in a Tennessee hospital in February 1992, of problems caused by diabetes.
+**The challenges.** In 1978 Haley agreed to pay the writer Harold Courlander $650,000 to settle a lawsuit claiming that Haley had copied passages from Courlander's novel *The African*. Professional genealogists, people who trace family histories from records, have challenged links in the chain of records behind Haley's family story. Haley died in a Tennessee hospital in February 1992, of problems caused by diabetes.
+
+**Not known:** whether the records support every link Haley drew between his family and Kunta Kinte.
 <!-- hb-story:end slug="alex-haley" -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -107,7 +143,11 @@ In 1978 Haley agreed to pay Harold Courlander $650,000 to settle Courlander's la
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-Since 2000, Americans have built museums about slavery and opened its records to the public. Lawmakers and city leaders have argued over whether to make payments or other repairs to the descendants of enslaved people. The Smithsonian's National Museum of African American History and Culture opened in Washington in 2016. In a project begun in 2015, volunteers made about 1.8 million names from the records of the Freedmen's Bureau searchable online. The Freedmen's Bureau was the federal office set up after the Civil War to help freed people. In 2025 and 2026, federal officials removed or changed exhibits about slavery at some national parks, and judges were still deciding in September 2026 whether that was lawful.
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
+
+Americans since 2000 have built museums about slavery, opened its records to anyone who wants to search them, and argued over whether to repair what it did. The Smithsonian's National Museum of African American History and Culture opened in Washington in 2016. In a project begun in 2015, volunteers made about 1.8 million names from the records of the Freedmen's Bureau, the federal office set up after the Civil War to help freed people, searchable online.
+
+Lawmakers and city leaders have argued over payments or other repairs to the descendants of enslaved people. Federal officials removed or changed exhibits about slavery at some national parks in 2025 and 2026, and judges were still deciding in September 2026 whether that was lawful.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Museums, a holiday and a late vote" -->
@@ -115,17 +155,23 @@ The Smithsonian's National Museum of African American History and Culture opened
 
 Members of Congress passed the Juneteenth National Independence Day Act, and President Joe Biden signed it on June 17, 2021. Under it, June 19 is a federal holiday. It marks the day in 1865 when Union soldiers announced freedom in Galveston, Texas.
 
-In 2012 two Mississippi residents found that the paperwork for the state's 1995 vote approving the 13th Amendment had never been filed. It was officially recorded on February 7, 2013.
+Two Mississippi residents found in 2012 that the paperwork for the state's 1995 vote approving the 13th Amendment had never been filed. It was officially recorded on February 7, 2013.
 
-On December 20, 2024, at the request of her descendants, Missouri's governor, Mike Parson, pardoned Celia. A pardon is an official act that forgives a person for a crime. Celia was the enslaved woman hanged in 1855 for killing Robert Newsom. The accounts of her death do not name the officials who hanged her. He had bought her at 14 in 1850 and raped her again and again from 1850 to 1855.
+**Celia's pardon.** Celia was the enslaved girl Robert Newsom bought at 14 in 1850 and raped again and again until 1855, when she killed him. She was hanged that December, and the accounts do not name the officials who hanged her. On December 20, 2024, at the request of her descendants, Missouri's governor, Mike Parson, pardoned her, an official act that forgave her for the crime.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The records opened" -->
-For millions of Black Americans, the records of the Freedmen's Bureau are the first papers in which their ancestors appear by name, according to FamilySearch and the Smithsonian. The records include marriage registers, work contracts and school lists. In a project begun in 2015, volunteers for FamilySearch, a genealogy group, typed up about 1.8 million names from these records so that people could search them. The names can be searched at discoverfreedmen.org.
+For millions of Black Americans, the records of the Freedmen's Bureau are the first papers in which their ancestors appear by name, according to FamilySearch and the Smithsonian. The records include marriage registers, work contracts and school lists. Volunteers for FamilySearch, a genealogy group, typed up about 1.8 million names from them so that people could search them, in a project begun in 2015. The names can be searched at discoverfreedmen.org.
 
-In 1838 the Maryland Jesuits, priests of a Catholic religious order, sold 272 enslaved people to plantations in Louisiana. They sold them in part to keep Georgetown College, now Georgetown University, from running out of money. It is one of the best-documented mass sales of people in American history. The people sold are now called the GU272. In 2016 Georgetown's leaders announced that descendants of the GU272 would get an advantage when they applied to the university. They also renamed buildings. Genealogists have traced thousands of descendants, according to the Georgetown Memory Project in 2021. In 2021 the Jesuits and leaders of the descendants set up the Descendants Truth and Reconciliation Foundation. Reconciliation means making peace after a wrong. The Jesuits promised to give $100 million to it. The Boston Globe reported that it is the largest pledge of its kind by a religious group in the United States.
+**The GU272.** The Maryland Jesuits, priests of a Catholic religious order, sold 272 enslaved people to plantations in Louisiana in 1838. They sold them in part to keep Georgetown College, now Georgetown University, from running out of money. It is one of the best-documented mass sales of people in American history. The people sold are now called the GU272.
 
-When slavery ended, Cherokee slaveholders held as many as 2,500 Black people in slavery. In a treaty of 1866, a written agreement with the United States, Cherokee leaders promised these people, called Freedmen, "all the rights of native Cherokees." In 2017, in the case *Cherokee Nation v. Nash*, a federal judge ruled that the treaty still bound the Cherokee Nation. Descendants of Cherokee Freedmen had a right to full citizenship in the nation. Cherokee leaders accepted the ruling. In 2021 the justices of the Cherokee Nation's own Supreme Court struck the words "by blood" out of its rules on citizenship.
+Georgetown's leaders announced in 2016 that descendants of the GU272 would get an advantage when they applied to the university, and they renamed buildings. Genealogists have traced thousands of descendants, according to the Georgetown Memory Project in 2021.
+
+The Jesuits and leaders of the descendants set up the Descendants Truth and Reconciliation Foundation in 2021, reconciliation meaning making peace after a wrong. The Jesuits promised to give $100 million to it. The Boston Globe reported that it is the largest pledge of its kind by a religious group in the United States.
+
+**The Cherokee Freedmen.** The Cherokee treaty of 1866, told in the 1850 to 1900 era, promised the people Cherokee slaveholders had held in slavery, called Freedmen, "all the rights of native Cherokees."
+
+In 2017, in the case *Cherokee Nation v. Nash*, a federal judge ruled that the treaty still bound the Cherokee Nation. Descendants of Cherokee Freedmen had a right to full citizenship in the nation. Cherokee leaders accepted the ruling. In 2021 the justices of the Cherokee Nation's own Supreme Court struck the words "by blood" out of its rules on citizenship.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="melisande-short-colomb" name="Mélisande Short-Colomb" movie="" kind="ordinary" status="verified" -->
@@ -134,33 +180,47 @@ When slavery ended, Cherokee slaveholders held as many as 2,500 Black people in 
 > **Who:** A descendant of two people sold by the Maryland Jesuits in 1838, who enrolled at Georgetown University at the age of 63.
 > **When and where:** From New Orleans. Entered Georgetown University in Washington, D.C., in the fall of 2017.
 
-Mélisande Short-Colomb enrolled at Georgetown University in 2017, at 63 years old. That was 179 years after the Jesuits of Maryland sold her ancestors to keep the college going. She was a retired chef from New Orleans.
+**She enrolled at Georgetown at 63, 179 years after the sale.**
 
-She descends from Abraham Mahoney and Mary Ellen Queen. Both were among the 272 people the Jesuits sold in 1838. She grew up hearing family stories from her grandmother and her great-aunts. In the summer of 2016 she learned that Mahoney and Queen had been part of the 1838 sale. In April 2017 Georgetown's leaders held a Liturgy of Remembrance, a religious service honoring the people who were sold. After that, she applied to the university.
+Mélisande Short-Colomb was a retired chef from New Orleans. She descends from Abraham Mahoney and Mary Ellen Queen, two of the 272 people the Jesuits of Maryland sold in 1838 to keep the college going.
+
+She grew up hearing family stories from her grandmother and her great-aunts. In the summer of 2016 she learned that Mahoney and Queen had been part of the 1838 sale. In April 2017 Georgetown's leaders held a Liturgy of Remembrance, a religious service honoring the people who were sold. After that, she applied to the university, and she started there that fall.
 
 At Georgetown she wrote a play, *Here I Am*, about her ancestors and the university.
 <!-- hb-story:end slug="melisande-short-colomb" -->
 
 <!-- hb-zoom level="span" label="Repair debated" -->
-Reparations are payments or other actions meant to make up for a wrong. Since 1989 members of Congress have argued over whether the United States should pay reparations for slavery.
+Reparations are payments or other actions meant to make up for a wrong. Members of Congress have argued since 1989 over whether the United States should pay reparations for slavery.
 
-Representative John Conyers first introduced a bill called H.R. 40 in 1989. It would set up a commission, a group of people chosen to study slavery and its effects and to recommend ways to repair them, including a formal apology and payments. The number 40 comes from the forty-acre plots that General William T. Sherman set aside for freed families in January 1865. President Andrew Johnson took the land back that fall and returned it to its former owners. In 2021 the members of the House Judiciary Committee voted to move it forward for the first time. On January 3, 2025, Representative Ayanna Pressley of Massachusetts introduced it again. As of September 2026, neither the full House nor the full Senate had voted to pass it, according to the records of Congress.
+**H.R. 40.** Representative John Conyers first introduced a bill called H.R. 40 in 1989. It would set up a commission, a group of people chosen to study slavery and its effects and to recommend ways to repair them, including a formal apology and payments. The number 40 comes from the forty-acre plots that General William T. Sherman set aside for freed families in January 1865, land President Andrew Johnson took back that fall.
 
-In 2019 the members of the city council of Evanston, Illinois, voted to create the first reparations program paid for by a city. Council member Robin Rue Simmons led the effort. City officials set aside $10 million and in March 2021 approved its first grants of $25,000 for housing. The program is for Black residents who lived in Evanston between 1919 and 1969. In those years Evanston's city officials used city laws to separate where Black and white people could live. In January 1921 the members of the city council passed Evanston's first zoning law, a law that sets what may be built in each part of a city. Mayor Harry P. Pearsons signed it. The law marked almost every block where Black people lived outside the west side of town for stores and businesses. As those blocks were turned over to businesses, the Black families living there were pushed out to the west side, the historian Andrew Wiese writes. 
+The members of the House Judiciary Committee voted to move the bill forward for the first time in 2021. Representative Ayanna Pressley of Massachusetts introduced it again on January 3, 2025. As of September 2026, neither the full House nor the full Senate had voted to pass it, according to the records of Congress.
 
-By August 2026, according to the Evanston RoundTable newspaper, 137 people had received a total of $3.47 million. In May 2024 a conservative group called Judicial Watch sued the city, arguing that paying people based on race breaks the 14th Amendment. On June 16, 2026, lawyers for the U.S. Department of Justice asked to join the lawsuit against the city. The case was still open in September 2026.
+**Evanston.** The members of the city council of Evanston, Illinois, voted in 2019 to create the first reparations program paid for by a city. Council member Robin Rue Simmons led the effort. City officials set aside $10 million and in March 2021 approved its first grants of $25,000 for housing. The program is for Black residents who lived in Evanston between 1919 and 1969.
 
-In California, a state task force, a group the state set up to study reparations, delivered its final report on June 29, 2023. According to the state's Department of Justice, it made more than 115 recommendations, including a formal apology. Governor Gavin Newsom signed the state's apology in September 2024. On October 10, 2025, he signed a law creating a state Bureau for Descendants of American Slavery. The bureau is to check who qualifies, handle claims and recommend forms of repair. The law provides for no payments.
+In those years Evanston's city officials used city laws to separate where Black and white people could live. The members of the city council passed Evanston's first zoning law, a law that sets what may be built in each part of a city, in January 1921, and Mayor Harry P. Pearsons signed it.
+
+The law marked almost every block where Black people lived outside the west side of town for stores and businesses. As those blocks were turned over to businesses, the Black families living there were pushed out to the west side, the historian Andrew Wiese writes.
+
+By August 2026, according to the Evanston RoundTable newspaper, 137 people had received a total of $3.47 million. A conservative group called Judicial Watch sued the city in May 2024, arguing that paying people based on race breaks the 14th Amendment. On June 16, 2026, lawyers for the U.S. Department of Justice asked to join the lawsuit against the city. The case was still open in September 2026.
+
+**California and Maryland.** In California, a state task force, a group the state set up to study reparations, delivered its final report on June 29, 2023. According to the state's Department of Justice, it made more than 115 recommendations, including a formal apology. Governor Gavin Newsom signed the state's apology in September 2024.
+
+Newsom signed a law on October 10, 2025, creating a state Bureau for Descendants of American Slavery. The bureau is to check who qualifies, handle claims and recommend forms of repair. The law provides for no payments.
 
 In Maryland, Governor Wes Moore vetoed a bill for a state reparations commission in May 2025, which means he refused to sign it into law. On December 16, 2025, Maryland's state lawmakers passed it over his veto, 31 to 14 in the Senate and 93 to 35 in the House. The 23-member commission is to study state and local policies from 1877 to 1965.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Slavery exhibits in the national parks, 2025 and 2026" -->
-On March 27, 2025, President Donald Trump signed an executive order, a written command from the president to the people who run the federal government. It was called "Restoring Truth and Sanity to American History." Interior Secretary Doug Burgum, who is in charge of the national parks, then ordered a review of how the signs and exhibits in the parks present the history of the United States.
+President Donald Trump signed an executive order, a written command from the president to the people who run the federal government, on March 27, 2025. It was called "Restoring Truth and Sanity to American History." Interior Secretary Doug Burgum, who is in charge of the national parks, then ordered a review of how the signs and exhibits in the parks present the history of the United States.
 
-In September 2025, reporters for the Washington Post and the New York Times wrote that officials had ordered a copy of an 1863 photograph removed from an exhibit. The exhibit was at Fort Pulaski National Monument, near Savannah, Georgia. The photograph shows the back of Peter, a man who escaped slavery in Louisiana in 1863, covered in scars from whipping. On September 16, 2025, Elizabeth Peace, who spoke for the Interior Department, told The Hill newspaper that park sites "were not asked to remove the photo." The two accounts differ. In January 2026, officials removed the exhibits about slavery at the President's House site in Philadelphia. That was the house where President George Washington lived, and where Ona Judge, an enslaved woman, walked out to freedom in 1796. On February 16, 2026, Judge Cynthia M. Rufe ordered the exhibits put back. Government lawyers appealed, and the judges of an appeals court, a higher court that hears appeals, later ruled that the administration had the power to replace that exhibit.
+**Peter's photograph.** Reporters for the Washington Post and the New York Times wrote in September 2025 that officials had ordered a copy of an 1863 photograph removed from an exhibit at Fort Pulaski National Monument, near Savannah, Georgia. The photograph shows the back of Peter, a man who escaped slavery in Louisiana in 1863, covered in scars from whipping. On September 16, 2025, Elizabeth Peace, who spoke for the Interior Department, told The Hill newspaper that park sites "were not asked to remove the photo." The two accounts differ.
 
-In a separate case, Judge Angel Kelley of the federal court in Massachusetts ruled on June 12, 2026, that the order could not be carried out at any of the park system's 433 sites. She ordered the removed exhibits put back by July 3. On July 2, 2026, the judges of the First Circuit Court of Appeals paused her order, so removals could go on while the case continued. By the government's own count, in court papers filed in June 2026, exhibits had been removed or changed at 37 park sites. The case was still undecided in September 2026.
+**The President's House.** Officials removed the exhibits about slavery at the President's House site in Philadelphia in January 2026. That was the house where President George Washington lived, and where Ona Judge, an enslaved woman, walked out to freedom in 1796. On February 16, 2026, Judge Cynthia M. Rufe ordered the exhibits put back. Government lawyers appealed, and the judges of an appeals court, a higher court that hears appeals, later ruled that the administration had the power to replace that exhibit.
+
+**The national case.** In a separate case, Judge Angel Kelley of the federal court in Massachusetts ruled on June 12, 2026, that the order could not be carried out at any of the park system's 433 sites. She ordered the removed exhibits put back by July 3. On July 2, 2026, the judges of the First Circuit Court of Appeals paused her order, so removals could go on while the case continued.
+
+By the government's own count, in court papers filed in June 2026, exhibits had been removed or changed at 37 park sites. The case was still undecided in September 2026.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="joycelyn-davis" name="Joycelyn Davis" movie="Descendant (2022)" kind="ordinary" status="verified" -->
@@ -170,12 +230,36 @@ In a separate case, Judge Angel Kelley of the federal court in Massachusetts rul
 > **When and where:** Africatown, in Mobile, Alabama, where she has lived all her life.
 > **Movie:** *Descendant* (2022), a documentary by Margaret Brown about the *Clotilda*, Africatown and the survivors' families. Joycelyn Davis appears in it.
 
-Joycelyn Davis descends from people who survived the last known slave ship to reach the United States, and she organizes gatherings in their honor in the town they founded. Her ancestors Charlie and Maggie Lewis were among the 110 Africans whom Captain William Foster carried from West Africa and smuggled into Mobile on the *Clotilda* in 1860. Bringing captives into the country had been against the law since 1808. She has lived in Africatown all her life. As a child she visited her great-grandmother in Lewis Quarters, one of the first pieces of land the *Clotilda* survivors bought. It was named for Charlie and Maggie Lewis.
+**"Our community is suffering, and you're asking about a ship?"**
 
-She went to the school and the church that her ancestors founded. In 2017 she sued the International Paper Company over pollution from its old mill near Mobile. She is a cancer survivor.
+Joycelyn Davis descends from people who survived the last known slave ship to reach the United States, and she organizes gatherings in their honor in the town they founded. Her ancestors Charlie and Maggie Lewis were among the 110 Africans whom Captain William Foster carried from West Africa and smuggled into Mobile on the *Clotilda* in 1860, more than fifty years after bringing captives into the country became illegal.
 
-Early in the search for the wreck of the *Clotilda*, she said: "Our community is suffering, and you're asking about a ship?" After the wreck was confirmed in 2019, she came to see the ship as a way to bring money and attention to Africatown. In 2019 she organized a reunion of *Clotilda* descendants. Of the crowd that came, she told National Geographic: "I never in a million years thought it would be that big." A yearly festival she organizes is called Spirit of Our Ancestors. The 2021 festival, the third, honored the women who survived the *Clotilda*.
+She has lived in Africatown all her life. As a child she visited her great-grandmother in Lewis Quarters, one of the first pieces of land the *Clotilda* survivors bought, named for Charlie and Maggie Lewis. She went to the school and the church that her ancestors founded. In 2017 she sued the International Paper Company over pollution from its old mill near Mobile. She is a cancer survivor.
 
-She appears in *Descendant*, the documentary by Margaret Brown. It won a special jury award at the Sundance Film Festival in January 2022 and was released in theaters and on Netflix on October 21, 2022.
+**The ship.** She said those words early in the search for the wreck of the *Clotilda*. After the wreck was confirmed in 2019, she came to see the ship as a way to bring money and attention to Africatown. That year she organized a reunion of *Clotilda* descendants. Of the crowd that came, she told National Geographic: "I never in a million years thought it would be that big."
+
+A yearly festival she organizes is called Spirit of Our Ancestors. The 2021 festival, the third, honored the women who survived the *Clotilda*. She appears in *Descendant*, the documentary by Margaret Brown. It won a special jury award at the Sundance Film Festival in January 2022 and was released in theaters and on Netflix on October 21, 2022.
 <!-- hb-story:end slug="joycelyn-davis" -->
+
+<!-- hb-zoom level="era" label="Chapter closing" -->
+**The three questions, answered**
+- How did a servant in Virginia become a slave for life, and a child a slave from birth? Virginia's judges and lawmakers did it one ruling at a time. Judges sentenced John Punch to serve for life in 1640, and in 1662 lawmakers ruled that a child born to an enslaved mother was enslaved for life.
+- How did enslaved people fight back? They worked slowly, ran away, sued, learned to read in secret and rose up with weapons. During the Civil War about half a million freed themselves by reaching the Union army.
+- What happened to the freedom people won in 1865? Freed people voted, built schools and sent 16 men to Congress, but within twelve years Black Codes, the Klan and the end of Reconstruction took much of it back, until the laws of 1964 and 1965.
+
+**What changed:** Slavery grew from a few court rulings in Virginia into a system that held four million people, and the freedom that ended it in 1865 took another hundred years to enforce.
+
+**Five dates to keep**
+- July 9, 1640: John Punch is sentenced to serve for life.
+- 1662: Virginia's law makes a child follow the mother into slavery.
+- January 1, 1808: Bringing captives from abroad becomes illegal.
+- December 6, 1865: The 13th Amendment ends slavery.
+- July 2, 1964: The Civil Rights Act becomes law.
+
+**Not known:** whether Virginia's colonists held the Africans of 1619 as servants for a set number of years or as slaves for life.
+
+**Where to go:** The Smithsonian's National Museum of African American History and Culture, in Washington, D.C., whose history galleries begin with the slave trade.
+
+**Next:** Chapter 25, Rights and Movements. It follows the campaigns for the rights the Constitution promised, from 1877 on.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->

@@ -1,0 +1,213 @@
+# Back-matter hand-off: Chapter 24, Slavery and Freedom (T-684)
+
+## Glossary
+- chattel slavery: holding a person as property for life and passing that status on to the person's children, from chattel, an old word for property (Before 1500)
+- mourning war: a Haudenosaunee custom in which a family that had lost someone in war adopted a captive to take the dead person's place (Before 1500)
+- encomienda: a Spanish system under which colonists forced Native people to work for them and to hand over goods (The 1500s)
+- New Laws: laws King Charles I of Spain issued in 1542 saying no one could enslave Native people and that an encomienda ended when its holder died (The 1500s)
+- friar: a member of a Catholic religious order (The 1500s)
+- Siete Partidas: an old Spanish code of laws that listed rights for enslaved people (The 1500s)
+- Negro: the word English writers of the 1600s used for Black Africans, later an old word for a Black person, used in this book only inside quotes and names (The 1600s)
+- privateer: a privately owned armed ship that attacked the ships of enemy countries (The 1600s)
+- Algonquian: a large group of related Native languages (The 1600s)
+- Middle Passage: the crossing of the Atlantic Ocean that ship crews forced captive Africans to make (The 1600s)
+- rape: forcing a person into sex (The 1600s)
+- windlass: the winch that pulled up a ship's anchor chain (The 1600s)
+- flogging: tying a person down and striking the bare body over and over with a whip, each stroke cutting the skin, and deep or repeated flogging leaving raised scars for life (The 1600s)
+- stripe: one stroke of the whip (The 1600s)
+- assigns: anyone a master sold or handed a servant to (The 1600s)
+- indentured servant: a worker bound by a contract to work for a master for a set number of years and then set free (The 1600s)
+- House of Burgesses: Virginia's elected assembly (The 1600s)
+- partus sequitur ventrem: a Latin phrase, "the child follows the womb", the rule that a child born to an enslaved mother was enslaved for life (The 1600s)
+- baptism: the ceremony that made a person a Christian (The 1600s)
+- slave code: a set of laws listing what enslaved people could not do, how they could be punished and what their owners could do to them (The 1600s)
+- Lords Proprietors: the English noblemen who owned the Carolina colony (The 1600s)
+- branding: pressing a metal iron, heated red-hot, into a person's skin, burning a mark, often a letter, that stayed on the body as a scar for life (The 1600s)
+- nose-slitting: cutting a person's nose open (The 1600s)
+- castration: cutting off a man's testicles, which left him unable to father children (The 1600s)
+- aldermen: the men who governed New York City (1700 to 1750)
+- Coromantee: Akan people from the Gold Coast of West Africa, which is Ghana today (1700 to 1750)
+- militia: a colony's or a place's armed citizens, a band of armed local men (1700 to 1750)
+- breaking on the wheel: a public execution in which the person was tied to a large wheel and the executioner broke the person's arms and legs with an iron bar and left the person to die (1700 to 1750)
+- Lowcountry: the coast of South Carolina around Charleston (1700 to 1750)
+- pest house: the quarantine station on Sullivan's Island, where captives who might carry disease were held apart from everyone else (1700 to 1750)
+- lash: one stroke of the whip (1700 to 1750)
+- justice of the peace: a local judge (1700 to 1750)
+- Achilles tendon: the cord just above the heel (1700 to 1750)
+- misdemeanor: a minor crime punished by a fine (1700 to 1750)
+- West Indies: the islands of the Caribbean (1700 to 1750)
+- census: a count of every person in the United States (1750 to 1800)
+- clause: one part of a written law or constitution (1750 to 1800)
+- gradual abolition: ending slavery step by step over many years (1750 to 1800)
+- minister to France: the man who spoke for the United States in Paris (1750 to 1800)
+- concubine: an old word for a woman a man kept for sex without marrying her (1750 to 1800)
+- three-fifths clause: the part of the Constitution under which each enslaved person counted as three-fifths of a person when seats in the House were given out (1750 to 1800)
+- fugitive clause: the part of the Constitution that said a person "held to Service or Labour" who escaped to another state had to be handed back (1750 to 1800)
+- slave-trade clause: the part of the Constitution that barred Congress from ending the import of enslaved people before 1808 (1750 to 1800)
+- quarries: the open pits where stone was dug (1750 to 1800)
+- sloop: a small sailing ship (1750 to 1800)
+- cotton gin: a machine that pulls the seeds out of cotton (1800 to 1850)
+- upland cotton: cotton that grows away from the coast (1800 to 1850)
+- bale: a big pressed bundle of cotton (1800 to 1850)
+- mortgage: borrowing money and promising to hand enslaved people over to the lender if the loan was not paid back (1800 to 1850)
+- treaty: a written agreement with the United States (1800 to 1850)
+- coffle: a line of people chained together (1800 to 1850)
+- "fancy" trade: the sale of enslaved women and teenage girls, at much higher prices, to men who bought them in order to rape them (1800 to 1850)
+- overseer: a man an owner paid to run the work (1800 to 1850)
+- gang system: overseers driving enslaved people in gangs, row by row across the fields (1800 to 1850)
+- task system: each person given a set task for the day, with the rest of the day the person's own once it was done (1800 to 1850)
+- gin-house: the building where the cotton gin stood (1800 to 1850)
+- bushel: a measure, about a big basketful (1800 to 1850)
+- cowskin: a whip made of dried, twisted cow's hide, also called the cowhide (1800 to 1850)
+- abolitionist: one of the people working to end slavery (1800 to 1850)
+- denomination: a group of churches that share the same beliefs and leaders (1800 to 1850)
+- hush harbors: brush arbors, shelters built of branches, where enslaved people worshipped out of their owners' sight (1800 to 1850)
+- spirituals: religious songs that expressed faith and also had hidden messages in them (1800 to 1850)
+- pass: a note from an owner that allowed an enslaved person to travel (1800 to 1850)
+- forge: to fake (1800 to 1850)
+- tribunals: special courts in which planters sat as judges (1800 to 1850)
+- levee: the river wall (1800 to 1850)
+- slave pen: a building where traders locked up enslaved people until they sold them (1800 to 1850)
+- cat-o'-nine-tails: a whip of rope with many strands, each with a knot tied at the end (1800 to 1850)
+- Underground Railroad: a network of people, with guides and safe houses, who helped enslaved people escape to the free states and to Canada (1800 to 1850)
+- vigilance committees: groups that hid people who had escaped and helped them move on (1800 to 1850)
+- massacre: the killing of many people who could not defend themselves (1850 to 1900)
+- Reconstruction: the period of rebuilding after the Civil War, ended in 1877 (1850 to 1900)
+- fugitive: a person who has escaped (1850 to 1900)
+- commissioners: federal officials who decided whether a captured person was a runaway slave (1850 to 1900)
+- testify: to speak as a witness in court (1850 to 1900)
+- appeal: asking a higher court to look at a case again (1850 to 1900)
+- porter: a man who carried guests' bags (1850 to 1900)
+- tuberculosis: a disease of the lungs (1850 to 1900)
+- barracoon: a pen for captives (1850 to 1900)
+- batteries: gun positions (1850 to 1900)
+- Confederate army: the army of the Southern states that had broken away from the United States (1850 to 1900)
+- contraband of war: property of the enemy that an army may seize (1850 to 1900)
+- contraband camps: camps run by Union army officials, and later the Freedmen's Bureau, for people who had escaped slavery (1850 to 1900)
+- Freedmen's Bureau: the federal office set up to help freed people (1850 to 1900)
+- smallpox: a disease caused by a virus that spreads from person to person, bringing a fever and a rash that spreads over the skin and turns to scabs (1850 to 1900)
+- vaccinate: to give a shot that protects against a disease (1850 to 1900)
+- quarantine: keeping the sick away from the well (1850 to 1900)
+- foundry: a workshop where metal is melted and cast (1850 to 1900)
+- pilot: the man who steered a ship (1850 to 1900)
+- blockading: closing off a harbor (1850 to 1900)
+- emancipation: setting people free from slavery (1850 to 1900)
+- Medal of Honor: the highest award for bravery in battle (1850 to 1900)
+- keloid scars: thick raised scars that grow over a healed wound (1850 to 1900)
+- scourged: whipped (1850 to 1900)
+- Juneteenth: June 19, the day of celebration for the announcement of freedom in Galveston, Texas, in 1865 (1850 to 1900)
+- Five Tribes: the Cherokee, Muscogee (Creek), Choctaw, Chickasaw and Seminole nations (1850 to 1900)
+- Freedmen: the people the Five Tribes had enslaved and freed after 1866 (1850 to 1900)
+- chain gang: a crew of prisoners chained together and forced to work (1850 to 1900)
+- dysentery: a disease of the gut (1850 to 1900)
+- abridged: cut down (1850 to 1900)
+- servitude: slavery (1850 to 1900)
+- chaplain: a minister to soldiers (1850 to 1900)
+- noncommissioned officer: a soldier who had risen through the ranks to lead other soldiers (1850 to 1900)
+- Black Codes: Southern laws of 1865 and after that let officials arrest, hire out and force to work Black people who could not prove they had a job (1850 to 1900)
+- vagrancy laws: laws that made it a crime to have no job or home (1850 to 1900)
+- sharecropper: a person who farmed a landlord's fields in exchange for a share of the crop (1850 to 1900)
+- convict leasing: state officials renting prisoners out to planters, mine owners and railroads, who worked them without pay (1850 to 1900)
+- parish: what other states call a county, in Louisiana (1850 to 1900)
+- conspiracy: planning a crime together (1850 to 1900)
+- segregation: separating people by race by law (1850 to 1900)
+- separate but equal: the rule of Plessy v. Ferguson (1896) that let states keep Black and white people apart by law (1850 to 1900)
+- constitution: a state's set of basic laws (1900 to 1950)
+- poll tax: a fee a man had to pay before he could vote (1900 to 1950)
+- literacy test: a reading test for voters (1900 to 1950)
+- understanding clause: a rule that a man had to read any part of the state constitution, or understand it when read to him, or give "a reasonable interpretation" of it, before he could vote (1900 to 1950)
+- grandfather clause: a rule that let a man vote if his father or grandfather had voted before January 1, 1867 (1900 to 1950)
+- Jim Crow laws: the Southern laws that kept Black and white people apart (1900 to 1950)
+- lynching: a killing by a mob with no trial (1900 to 1950)
+- Great Migration: the movement of Black Southerners out of the South (1900 to 1950)
+- debt peonage: forcing a person to work to pay off a debt (1900 to 1950)
+- Pulitzer Prize: one of the top American prizes for writing (1900 to 1950)
+- autopsy: an examination of the body after death (1900 to 1950)
+- vat: a large tub (1900 to 1950)
+- advance: money paid before the work is done (1900 to 1950)
+- Federal Writers' Project: a government program that gave jobs to writers (1900 to 1950)
+- amendment: a change added to the Constitution (1950 to 2000)
+- equal protection of the laws: the same protection the laws give everyone else (1950 to 2000)
+- inherently: by their very nature (1950 to 2000)
+- miniseries: a story told on television over several nights (1950 to 2000)
+- griot: a keeper of history who tells it from memory (1950 to 2000)
+- genealogists: people who trace family histories from records (1950 to 2000)
+- Emmys: the top awards for television (1950 to 2000)
+- reconciliation: making peace after a wrong (2000 to Today)
+- reparations: payments or other actions meant to make up for a wrong (2000 to Today)
+- commission: a group of people chosen to study a question and recommend what to do (2000 to Today)
+- zoning law: a law that sets what may be built in each part of a city (2000 to Today)
+- task force: a group a state sets up to study a question (2000 to Today)
+- veto: a governor's refusal to sign a bill into law (2000 to Today)
+- executive order: a written command from the president to the people who run the federal government (2000 to Today)
+- appeals court: a higher court that hears appeals (2000 to Today)
+
+## People
+- Estevanico: an enslaved man from Morocco who walked across the south of the continent after a shipwreck and was killed guiding a Spanish expedition at Hawikuh (The 1500s)
+- John Punch: the first African known to have been sentenced by a Virginia court to serve for life (The 1600s)
+- Francisco Menéndez: a Mandinga man who escaped slavery in Carolina and led the free Black militia at Fort Mose (1700 to 1750)
+- Phillis Wheatley: a girl kidnapped from West Africa who became the first African American to publish a book of poetry (1750 to 1800)
+- Elizabeth Freeman (Mum Bett): an enslaved woman who sued for her freedom under the Massachusetts constitution and won (1750 to 1800)
+- Ona Judge: an enslaved woman who walked out of President George Washington's household and was never caught (1750 to 1800)
+- Frederick Douglass: a man born enslaved who taught himself to read, escaped, and became the most heard abolitionist of his century (1800 to 1850)
+- Milla Granson (Lilly Ann Granderson): an enslaved woman who ran a secret night school in Natchez and taught hundreds to read and write (1800 to 1850)
+- Nat Turner: an enslaved preacher who led the deadliest slave revolt in United States history (1800 to 1850)
+- Sengbe Pieh (Joseph Cinqué): a Mende man who led the *Amistad* captives in taking the ship and won their freedom in the Supreme Court (1800 to 1850)
+- Solomon Northup: a free New Yorker kidnapped and held in slavery in Louisiana for twelve years, who named the people who did it (1800 to 1850)
+- Sojourner Truth: a woman who walked away from slavery in New York and sued to get back her son, sold south against the law (1800 to 1850)
+- Harriet Tubman: a woman who escaped slavery in Maryland and went back about 13 times to lead about 70 people out (1800 to 1850)
+- Dred and Harriet Scott: an enslaved couple whose freedom suit ended in the Supreme Court ruling that no Black American could be a citizen (1850 to 1900)
+- Oluale Kossola (Cudjo Lewis): a man carried to Alabama on the *Clotilda*, the last known slave ship, who helped found Africatown (1850 to 1900)
+- Robert Smalls: an enslaved harbor pilot who sailed a Confederate ship out of Charleston to freedom and later served five terms in Congress (1850 to 1900)
+- William Harvey Carney: a man born enslaved who carried the flag at Fort Wagner, the earliest act of Black American bravery recognized with the Medal of Honor (1850 to 1900)
+- Thornton Copeland: a freed man who advertised in 1865 for his mother, from whom he had been sold away in 1844 (1850 to 1900)
+- Susie King Taylor: a girl who learned to read in secret schools and at 14 became the first Black teacher of freed children in a school working openly in Georgia (1850 to 1900)
+- Hiram Revels and Blanche K. Bruce: the first two Black United States senators, both from Mississippi (1850 to 1900)
+- Fountain Hughes: a man born into slavery whose own voice survives on a 1949 Library of Congress recording (1900 to 1950)
+- Alex Haley: the writer of *Roots*, which led many Black Americans to search for their families, parts of whose research were challenged (1950 to 2000)
+- Mélisande Short-Colomb: a descendant of two of the GU272 who enrolled at Georgetown University at 63 (2000 to Today)
+- Joycelyn Davis: a descendant of *Clotilda* survivors who organizes gatherings in their honor in Africatown (2000 to Today)
+
+## Dates
+- July 9, 1640: Virginia judges sentence John Punch to serve for life
+- 1662: Virginia's lawmakers rule that a child born to an enslaved mother is enslaved for life
+- January 1, 1808: bringing captives from abroad becomes illegal
+- December 6, 1865: the 13th Amendment becomes part of the Constitution
+- July 2, 1964: the Civil Rights Act becomes law
+- October 1526: enslaved Africans rise up and escape at San Miguel de Gualdape, the first known revolt of enslaved Africans here
+- August 1619: the *White Lion* lands about twenty Africans at Point Comfort, Virginia
+- September 9, 1739: the Stono Rebellion begins
+- March 1, 1780: Pennsylvania passes the first law anywhere by elected lawmakers to end slavery, step by step
+- May 21, 1796: Ona Judge walks out of the President's House in Philadelphia
+- August 21, 1831: Nat Turner's revolt begins
+- September 18, 1850: the Fugitive Slave Act becomes law
+- March 6, 1857: the Supreme Court rules against Dred and Harriet Scott
+- June 19, 1865: Union soldiers announce freedom in Galveston, Texas (Juneteenth)
+- April 24, 1877: the last federal troops leave the Louisiana statehouse, ending Reconstruction
+
+## Places
+- National Museum of African American History and Culture, Washington, D.C.: history galleries that begin with the slave trade, and a cabin where enslaved people lived
+- International African American Museum, Charleston, South Carolina: a museum at Gadsden's Wharf, one of the main places where slave ships landed their captives
+- Fort Mose Historic State Park, near St. Augustine, Florida: the site of Fort Mose, the first free Black town in what is now the United States to be recognized by law
+- Library of Congress, Washington, D.C.: the "Born in Slavery" interviews and photographs and the "Voices Remembering Slavery" recordings, including Fountain Hughes
+- National Archives (the chapter names no city): the Freedmen's Bureau marriage registers
+- Fort Pulaski National Monument, near Savannah, Georgia: a national park site whose exhibit included a copy of the 1863 photograph of Peter's scarred back
+- President's House site, Philadelphia, Pennsylvania: the site of the house where Ona Judge walked out to freedom, and the exhibits about slavery there
+- Africatown, Mobile, Alabama: the town *Clotilda* survivors founded, with the church and school they started and Lewis Quarters
+- Natchez City Cemetery, Natchez, Mississippi: Milla Granson's grave
+- discoverfreedmen.org (online): about 1.8 million searchable names from the Freedmen's Bureau records
+- "Last Seen: Finding Family After Slavery" (online): more than 5,000 "Information Wanted" advertisements, including Thornton Copeland's, item 918
+
+## Movies
+- Becoming Frederick Douglass (2022): a documentary by Stanley Nelson, shown on PBS, about Douglass's life
+- The Birth of a Nation (2016): a feature film about Turner's revolt, a different film from a 1915 film with the same title
+- Amistad (1997): no note
+- 12 Years a Slave (2013): no note (directed by Steve McQueen, won the Academy Award for Best Picture)
+- Harriet (2019): no note (Cynthia Erivo as Tubman)
+- Descendant (2022): a documentary by Margaret Brown about the *Clotilda*, Africatown and the survivors' families (Kossola and Joycelyn Davis boxes)
+- Roots (1977): tells Haley's family story as drama, and is not a documentary about Haley
+
+## Questions
+- Q: How did a servant in Virginia become a slave for life, and a child a slave from birth? A: Virginia's judges and lawmakers did it one ruling at a time. Judges sentenced John Punch to serve for life in 1640, and in 1662 lawmakers ruled that a child born to an enslaved mother was enslaved for life.
+- Q: How did enslaved people fight back? A: They worked slowly, ran away, sued, learned to read in secret and rose up with weapons. During the Civil War about half a million freed themselves by reaching the Union army.
+- Q: What happened to the freedom people won in 1865? A: Freed people voted, built schools and sent 16 men to Congress, but within twelve years Black Codes, the Klan and the end of Reconstruction took much of it back, until the laws of 1964 and 1965.

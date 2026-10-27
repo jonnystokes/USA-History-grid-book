@@ -13,16 +13,36 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-time:start id="before-1500" order="01" chapter="slavery-freedom" label="Before 1500" state="thin" progress="written" -->
 ## Before 1500
 
-<!-- hb-zoom level="era" -->
-Before 1500, some Native nations in North America took captives in war. In most of those nations, a captive could become a member of a family. A captive's children did not automatically become captives too. On the Northwest Coast, the Tlingit, the Haida and their neighbors held people as slaves. They bought and sold them, and the children of slaves were slaves too.
+<!-- hb-zoom level="era" label="Chapter opening" -->
+**Chapter 24 of 37 · Slavery and Freedom · 10 eras · about 105 minutes**
 
-Holding a person as property for life, and passing that status on to the person's children, is called chattel slavery. Chattel is an old word for property. Later, Europeans wrote chattel slavery into the laws of the colonies they set up here.
+**Slavery here was built on purpose, one law and one sale at a time, and enslaved people fought it until it ended in 1865, then had to fight again when white lawmakers and mobs took much of their new freedom away.**
+
+In October 1865 a freed man named Thornton Copeland placed a few lines in the *Colored Tennessean*, a Black newspaper in Nashville. "INFORMATION is wanted of my mother," they began. Her name was Betty. He had last seen her in Fauquier County, Virginia, in 1844, the year he was sold in Richmond to a man named Samuel Copeland. His advertisement is now one of more than 5,000 like it that anyone can read online. No record shows whether he ever found her.
+
+This chapter follows slavery from the captives of Native wars before 1500 to the arguments about repair going on now. Watch for two things as you read. First, watch who made each rule: the Virginia judges who sentenced John Punch to serve for life in 1640, the lawmakers who made a child's status follow the mother's in 1662, the traders who sold a million people south. Second, watch what enslaved people did back. They ran, they sued, they learned to read in secret, and some rose up with weapons. After 1877 Chapter 25 takes over the campaigns for rights, and this chapter follows the forced labor that replaced slavery and the work of remembering it.
+
+**Three questions this chapter answers**
+- How did a servant in Virginia become a slave for life, and a child a slave from birth?
+- How did enslaved people fight back?
+- What happened to the freedom people won in 1865?
+
+**Five minutes?** Read "How did a servant become a slave for life?" in The 1600s.
+**Can skip:** "Enslaved builders of the capital", "Churches and hush harbors", "Roots and the search for family". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Captives and slaves" -->
-Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. This practice is called the mourning war. Of all these customs of captive-taking, it is the one the records describe most fully. In most of these nations, a captive could stop being a captive. The captive's children did not automatically become captives.
+<!-- hb-zoom level="era" -->
+**Era 1 of 10 · Before 1500 · about 1 minute**
 
-The Northwest Coast was different. There, among the Tlingit, the Haida and the nations near them, slaves were property. Their owners traded them, and a slave's children were born slaves. Leland Donald studied this system in a 1997 book and found that it was slavery in the full sense of the word.
+Native nations took captives in war long before Europeans arrived, but in most of them a captive could become a member of a family. A captive's children did not automatically become captives too. The Northwest Coast was different. There the Tlingit, the Haida and their neighbors bought and sold people, and the children of slaves were slaves.
+
+Holding a person as property for life, and passing that status on to the person's children, is called chattel slavery, from chattel, an old word for property. Europeans later wrote chattel slavery into the laws of the colonies they set up here.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Captives who could become family" -->
+Warriors in some Native nations took captives in raids on their enemies. Among the Haudenosaunee, the nations also called the Iroquois, a family that had lost someone in war could adopt a captive to take the dead person's place. People call this custom the mourning war, and the records describe it more fully than any other kind of captive-taking. In most of these nations a captive could stop being a captive.
+
+On the Northwest Coast, among the Tlingit, the Haida and the nations near them, slaves were property. Their owners traded them, and a slave's children were born slaves. Leland Donald studied this system in a 1997 book and found that it was slavery in the full sense of the word.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -30,28 +50,41 @@ The Northwest Coast was different. There, among the Tlingit, the Haida and the n
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-The first people enslaved by Europeans in what is now the United States were Native people. From the early 1500s, Spanish raiders took Native people captive on the coasts of Florida and the Carolinas. In 1526 a Spanish colonist brought about 100 enslaved Africans to a colony on the Atlantic coast. That October they rebelled and escaped, in the first known revolt of enslaved Africans in what became the United States.
+**Era 2 of 10 · The 1500s · about 3 minutes**
+
+The first people Europeans enslaved in what is now the United States were Native people. Spanish raiders took them captive on the coasts of Florida and the Carolinas from the early 1500s. Enslaved Africans came with the Spanish too. About 100 of them rebelled at a Spanish colony on the Atlantic coast in October 1526 and escaped. It is the first known revolt of enslaved Africans in what became the United States.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Spanish slavery and the first revolt" -->
-In their colonies, the Spanish ran a system called the encomienda. Under it, Spanish colonists forced Native people to work for them and to hand over goods. On November 20, 1542, King Charles I of Spain issued the New Laws. They said that no one could enslave Native people, and that an encomienda ended when its holder died. Spanish colonists opposed the New Laws and kept forcing Native people to work.
+**The encomienda.** In their colonies, Spanish colonists ran a system called the encomienda. Under it they forced Native people to work for them and to hand over goods. King Charles I of Spain issued the New Laws on November 20, 1542. They said that no one could enslave Native people, and that an encomienda ended when its holder died. Spanish colonists opposed the New Laws and kept forcing Native people to work.
 
-In 1526 Lucas Vázquez de Ayllón founded a colony called San Miguel de Gualdape on the coast of what is now Georgia or South Carolina. Nobody knows the exact spot. Between 600 and 700 colonists came with him, and about 100 of them were enslaved Africans. Ayllón died, and the colonists fought among themselves. In October 1526 the enslaved Africans rose up and escaped. Where they went is not certain. The accounts say they most likely found shelter with Native people nearby, probably the Guale. Within months the surviving colonists gave up the colony.
+**The first revolt.** Lucas Vázquez de Ayllón founded a colony called San Miguel de Gualdape in 1526, on the coast of what is now Georgia or South Carolina. Nobody knows the exact spot. Between 600 and 700 colonists came with him, and about 100 of them were enslaved Africans. Ayllón died, and the colonists fought among themselves.
 
-On September 8, 1565, Pedro Menéndez de Avilés and about 800 Spanish colonists founded St. Augustine, in Florida. They moved into the Timucua town of a chief named Seloy and made his council house their first fort. Africans were among St. Augustine's first residents, some free and some enslaved. They worked as craftsmen, farmers and house servants. Spanish slave law, set down in an old code called the *Siete Partidas*, listed rights for enslaved people that English colonial law later left out. Under it, owners were not to split up families. Enslaved people could join the Catholic Church and marry in it, and the code listed ways for them to become free.
+In October 1526 the enslaved Africans rose up and escaped. Where they went is not certain. The accounts say they most likely found shelter with Native people nearby, probably the Guale. Within months the surviving colonists gave up the colony.
+
+**St. Augustine.** Pedro Menéndez de Avilés and about 800 Spanish colonists founded St. Augustine, in Florida, on September 8, 1565. They moved into the Timucua town of a chief named Seloy and made his council house their first fort. Africans were among St. Augustine's first residents, some free and some enslaved. They worked as craftsmen, farmers and house servants.
+
+Spanish slave law came from an old code called the *Siete Partidas*. It listed rights for enslaved people that English colonial law later left out. Under it, owners were not to split up families. Enslaved people could join the Catholic Church and marry in it, and the code listed ways for them to become free.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="estevanico-slavery-freedom" name="Estevanico" movie="" kind="famous" status="verified" -->
 ### Estevanico
 
-> **Who:** An enslaved man from North Africa who survived a Spanish shipwreck, crossed the south of the continent on foot, and was killed while guiding a Spanish expedition.
-> **When and where:** Born in Azemmour, Morocco. Shipwrecked on the Texas coast in 1528. Reached Mexico in 1536. Killed at the Zuni town of Hawikuh in 1539.
+> **Who:** An enslaved man from Morocco who walked across the south of the continent after a shipwreck, then was killed while guiding a Spanish expedition into Zuni country.
+> **When and where:** Shipwrecked on the Texas coast in 1528. Reached Mexico City in 1536. Killed at the Zuni town of Hawikuh in 1539.
 
-Estevanico was an enslaved man who guided Spanish expeditions through North America. He was born in about 1500 in Azemmour, in Morocco. In 1522 a Spanish nobleman named Andrés Dorantes de Carranza bought him as a slave.
+**Shipwrecked in 1528, he walked to Mexico City as a healer.**
 
-In 1528 Dorantes and Estevanico were part of a Spanish expedition that was wrecked on the coast of Texas. Native people on that coast held the survivors, Estevanico among them, as slaves for several years. In 1534 four of the survivors escaped: Estevanico, Dorantes, Álvar Núñez Cabeza de Vaca and Alonso del Castillo Maldonado. They walked west, working as healers along the way, and reached Mexico City in July 1536.
+Estevanico was born in about 1500 in Azemmour, in Morocco. In 1522 a Spanish nobleman named Andrés Dorantes de Carranza bought him. Six years later both men were on a Spanish expedition that was wrecked on the coast of Texas. Native people on that coast held the survivors, Estevanico among them, as slaves for several years.
 
-After that, the Spanish official who ruled Mexico, Viceroy Antonio de Mendoza, got Estevanico from Dorantes. He either bought him or received him as a gift. Some evidence suggests Mendoza freed him. On March 7, 1539, Estevanico set out as the guide for Marcos de Niza, who was heading north. Marcos was a friar, a member of a Catholic religious order. Estevanico went ahead of the friar with Native men from Sonora. The people of Hawikuh, a Zuni town, killed him there in 1539. Several accounts of his death survive, and they do not agree about why the people of Hawikuh killed him. The Spanish commander Coronado wrote in 1540 that they killed him because he had "killed and assaulted their women." Another Spaniard, Pedro de Castañeda, wrote that they killed him for demanding turquoise and women. Hernando de Alarcón reported that they killed him after he boasted that armed men were coming behind him. Zuni tradition does not agree with the Spanish accounts.
+In 1534 four of the survivors escaped: Estevanico, Dorantes, Álvar Núñez Cabeza de Vaca and Alonso del Castillo Maldonado. They walked west, working as healers along the way, and reached Mexico City in July 1536.
+
+The Spanish official who ruled Mexico, Viceroy Antonio de Mendoza, then got Estevanico from Dorantes, either by buying him or as a gift. Some evidence suggests Mendoza freed him. On March 7, 1539, Estevanico set out as the guide for Marcos de Niza, a friar, a member of a Catholic religious order, who was heading north. Estevanico went ahead of the friar with Native men from Sonora.
+
+The people of Hawikuh, a Zuni town, killed him there in 1539. The Spanish accounts give three different reasons. The commander Coronado wrote in 1540 that they killed him because he had "killed and assaulted their women." Pedro de Castañeda wrote that he had demanded turquoise and women. Hernando de Alarcón reported that he had boasted that armed men were coming behind him.
+
+**Known:** The people of Hawikuh killed Estevanico in 1539.
+**Not known:** why they did it. Zuni tradition does not agree with the Spanish accounts.
 <!-- hb-story:end slug="estevanico-slavery-freedom" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -59,23 +92,32 @@ After that, the Spanish official who ruled Mexico, Viceroy Antonio de Mendoza, g
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-In the 1600s, English colonists built slavery into their laws step by step, through court cases and new laws. When about twenty Africans reached Virginia in 1619, Virginia's law had no category for a person held as property for life. Between 1640 and 1705, judges and elected lawmakers in Virginia, Massachusetts and Carolina created that category. In 1662 Virginia's lawmakers ruled that a child born to an enslaved mother was enslaved for life, whoever the father was.
+**Era 3 of 10 · The 1600s · about 9 minutes**
 
-Over the whole Atlantic slave trade, ship crews loaded about 12.5 million captive Africans onto ships bound for the Americas. About 1.8 million of them died on the way.
+English colonists made slavery part of their law step by step in the 1600s, one court case and one new law at a time. When about twenty Africans reached Virginia in 1619, Virginia's law had no category for a person held as property for life. Judges and elected lawmakers in Virginia, Massachusetts and Carolina created that category between 1640 and 1705. In 1662 Virginia's lawmakers ruled that a child born to an enslaved mother was enslaved for life, whoever the father was.
+
+Ship crews fed the system from across the ocean. Over the whole Atlantic slave trade they loaded about 12.5 million captive Africans onto ships bound for the Americas. About 1.8 million of them died on the way, about one person in every seven.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Point Comfort, 1619" -->
-In late August 1619, an English ship called the *White Lion* landed at Point Comfort, in Virginia. It carried "20. and odd Negroes," in the words of the colonist John Rolfe. Negro was the word English writers of the time used for Black Africans. The *White Lion* was a privateer, a privately owned armed ship that attacked the ships of enemy countries. Its crew had taken these Africans from a Portuguese slave ship. They came from the Ndongo and Kongo region of West Central Africa. Sources give different days for the landing. The National Park Service says late August. Some writers give August 20, and the Hampton historian Beth Austin argues for about August 25.
+<!-- hb-zoom level="span" label="Who landed at Point Comfort in 1619?" -->
+An English ship called the *White Lion* landed at Point Comfort, in Virginia, in late August 1619. It carried "20. and odd Negroes," in the words of the colonist John Rolfe, using Negro, the word English writers of the time used for Black Africans. The *White Lion* was a privateer, a privately owned armed ship that attacked the ships of enemy countries. Its crew had taken these Africans from a Portuguese slave ship.
 
-Point Comfort was Native land. It belonged to the Kecoughtan, one of the Powhatan nations. They lived where the city of Hampton stands today. Their language belonged to the Algonquian family, a large group of related Native languages. English colonists built a fort beside their main village in 1609. On July 9, 1610, soon after Lord De La Warr arrived, the colonists seized the village. They drew the people out with a man playing a tambourine and then attacked them. The records do not say how many Kecoughtan they killed. The survivors fled to other towns of the Powhatan nations.
+The Africans came from the Ndongo and Kongo region of West Central Africa. The exact day they landed is disputed. The National Park Service says late August. Some writers give August 20, and the Hampton historian Beth Austin argues for about August 25.
 
-In 1619 Virginia's law did not yet have a category for slaves. Accounts still differ about whether the colonists held the Africans of 1619 as servants for a set number of years or as slaves for life. The records that survive do not settle it.
+**Whose land it was.** Point Comfort belonged to the Kecoughtan, one of the Powhatan nations, who lived where the city of Hampton stands today. Their language belonged to the Algonquian family, a large group of related Native languages. English colonists built a fort beside their main village in 1609.
+
+Soon after Lord De La Warr arrived, on July 9, 1610, the colonists seized the village. They drew the people out with a man playing a tambourine and then attacked them. The records do not say how many Kecoughtan they killed. The survivors fled to other towns of the Powhatan nations.
+
+**Known:** In 1619 Virginia's law did not yet have a category for slaves.
+**Not known:** whether the colonists held the Africans of 1619 as servants for a set number of years or as slaves for life. The records that survive do not settle it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Middle Passage" -->
-Ship crews took captive Africans across the Atlantic Ocean to the Americas. That crossing is called the Middle Passage. Over the whole history of the trade, ship crews loaded about 12.5 million Africans onto slave ships. About 10.7 million lived through the crossing. About 1.8 million died at sea. These figures come from the SlaveVoyages database of slave-ship voyages.
+The Middle Passage was the crossing of the Atlantic Ocean that ship crews forced captive Africans to make. Over the whole history of the trade, crews loaded about 12.5 million Africans onto slave ships. About 10.7 million lived through the crossing, and about 1.8 million died at sea. These figures come from the SlaveVoyages database of slave-ship voyages.
 
-The average voyage took just over two months. The trip from Upper Guinea, in West Africa, took about three weeks. Crews chained the captives below the deck, in spaces too low for a person to stand up. They held the women apart from the men and kept the men in chains for long periods so they could not revolt. Crew members often raped the women and children. Rape means forcing a person into sex. About one captive in four was a child.
+The average voyage took just over two months, and the trip from Upper Guinea, in West Africa, about three weeks. Crews chained the captives below the deck, in spaces too low for a person to stand up. They held the women apart from the men and kept the men in chains for long periods so they could not revolt.
+
+Crew members often raped the women and children, which means they forced them into sex. About one captive in four was a child.
 
 People died of disease and of thirst, and some killed themselves. The crew threw the bodies of the dead into the sea. Historians at the College of Charleston report that 13 to 19 percent of the people on board died during a crossing.
 
@@ -83,13 +125,18 @@ Ship crews landed most of the captives who survived in the Caribbean and in Braz
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="One survivor's account" -->
-Slave traders carried Olaudah Equiano across the ocean on a slave ship when he was a child. In 1789 he published a book in London about his life, *The Interesting Narrative of the Life of Olaudah Equiano*. In it he described the crossing.
+Slave traders carried Olaudah Equiano across the ocean on a slave ship when he was a child. In 1789 he published a book in London about what he saw. It was called *The Interesting Narrative of the Life of Olaudah Equiano*.
 
 The crew put Equiano below deck, and he was too sick to eat. Two white crewmen tied him across the windlass, the winch that pulled up the anchor chain, and flogged him for refusing food. Flogging means that a person is tied down and struck over and over on the bare body with a whip. Each stroke cuts the skin, and deep or repeated flogging leaves raised scars for life. Equiano wrote that captives were "hourly whipped for not eating."
 
-He wrote that the hold was "so crowded that each had scarcely room to turn himself." The heat and the foul air made people sick, "of which many died." Children fell into the tubs the captives used as toilets and nearly smothered. One day two men who were chained together broke through the netting around the deck and jumped into the sea. A third man followed them. The crew lowered a boat. The two chained men drowned. The crew pulled the third man out "and afterwards flogged him unmercifully."
+He wrote that the hold was "so crowded that each had scarcely room to turn himself." The heat and the foul air made people sick, "of which many died." Children fell into the tubs the captives used as toilets and nearly smothered.
 
-The ship landed at Barbados, an island in the Caribbean. From there, traders sold him on to Virginia. In 2005 the historian Vincent Carretta reported two records that give Equiano's birthplace as Carolina: a 1759 baptism record in London and a 1773 Royal Navy crew list. Equiano's own book says he was born in Africa. The two cannot both be right, and the question is still open.
+One day two men who were chained together broke through the netting around the deck and jumped into the sea. A third man followed them. The crew lowered a boat. The two chained men drowned. The crew pulled the third man out "and afterwards flogged him unmercifully."
+
+The ship landed at Barbados, an island in the Caribbean, and from there traders sold him on to Virginia.
+
+**Known:** Equiano's own book says he was born in Africa.
+**Not known:** whether that is true. In 2005 the historian Vincent Carretta reported two records that give his birthplace as Carolina, a 1759 baptism record in London and a 1773 Royal Navy crew list. The book and the records cannot both be right.
 <!-- /hb-zoom -->
 
 
@@ -99,35 +146,45 @@ The ship landed at Barbados, an island in the Caribbean. From there, traders sol
 > **Who:** The first African known to have been sentenced by a Virginia court to serve for life.
 > **When and where:** Virginia. Sentenced on July 9, 1640.
 
-On July 9, 1640, the judges of the General Court of Virginia sentenced John Punch to serve his master for the rest of his life. The same judges gave the two white men who had run away with him four more years. Punch was the only African among the three.
+**Three servants ran away together. Only the African got life.**
 
 The three men were servants of a man named Hugh Gwyn. The court record calls them "Victor, a dutchman, the other a Scotchman called James Gregory, the third being a negro named John Punch." They ran away together toward Maryland and were caught.
 
-The judges ordered that "the said three servants shall receive the punishment of whipping and to have thirty stripes apiece." A stripe is one stroke of the whip. Victor and James Gregory then had to finish their time with their master, serve him one more year, and serve the colony for three years after that.
+The judges of the General Court of Virginia heard the case on July 9, 1640. They ordered that "the said three servants shall receive the punishment of whipping and to have thirty stripes apiece," thirty strokes of the whip each. Victor and James Gregory then had to finish their time with their master, serve him one more year, and serve the colony for three years after that.
 
-The judges ordered that John Punch "shall serve his said master or his assigns for the time of his natural Life here or elsewhere." His assigns meant anyone the master sold or handed him to. It is the first known sentence of lifetime slavery in Virginia.
+For John Punch the judges wrote a different sentence. He "shall serve his said master or his assigns for the time of his natural Life here or elsewhere." His assigns meant anyone the master sold or handed him to. Punch was the only African among the three.
+
+It is the first known sentence of lifetime slavery in Virginia.
 <!-- hb-story:end slug="john-punch" -->
 
-<!-- hb-zoom level="span" label="From servant to slave for life, 1640 to 1705" -->
-In the early years of Virginia, many workers were indentured servants. An indentured servant was bound by a contract to work for a master for a set number of years and then went free. Between 1640 and 1705, judges and lawmakers made a different rule for Africans. They could be held for life.
+<!-- hb-zoom level="span" label="How did a servant become a slave for life?" -->
+Judges and lawmakers made a separate rule for Africans, one case and one law at a time between 1640 and 1705. Under it, Africans could be held for life, and so could their children. In the early years of Virginia, many workers were indentured servants, bound by a contract to work for a master for a set number of years and then set free.
 
-In 1654 Anthony Johnson went to court in Northampton County, Virginia. Johnson was an African who had arrived in about 1621, gained his freedom and become a landowner on the Eastern Shore. He sued his white neighbor Robert Parker over a Black man named John Casor. Casor said the time on his contract had run out and he was free. In 1655 the county judges ruled that Casor was Johnson's servant for life. That made Casor Johnson's slave. It was the first court ruling in the English mainland colonies that a person who had committed no crime could be held for life.
+**Massachusetts, 1641.** Lawmakers in New England wrote slavery into law too. The lawmakers of the Massachusetts Bay colony, called the General Court, adopted a code of laws named the Body of Liberties on December 10, 1641. It allowed slavery for "lawful captives taken in just wars, and such strangers as willingly sell themselves or are sold to us."
 
-Lawmakers in New England wrote slavery into law too. The lawmakers of the Massachusetts Bay colony were called the General Court. On December 10, 1641, they adopted a code of laws named the Body of Liberties. In it they wrote that slavery was allowed for "lawful captives taken in just wars, and such strangers as willingly sell themselves or are sold to us." That meant people captured in a war the colonists called fair could be held as slaves. So could outsiders who sold themselves or were sold to the colonists. The Massachusetts Bay lawmakers were the first in any English colony on the mainland to put slavery into a written law.
+That meant people captured in a war the colonists called fair could be held as slaves. So could outsiders who sold themselves or were sold to the colonists. The Massachusetts Bay lawmakers were the first in any English colony on the mainland to put slavery into a written law.
 
-In 1662 the members of Virginia's House of Burgesses, the colony's elected assembly, passed a law about children. Under the old rule in English law, a child's place in the law, free or bound, came from the father. Virginia's lawmakers broke with that on purpose. They ruled that a child's place followed the mother's. A child born to an enslaved mother was enslaved for life, whoever the father was. Lawyers called the rule by a Latin phrase, *partus sequitur ventrem*, which means "the child follows the womb."
+**John Casor.** Anthony Johnson, an African, had arrived in Virginia in about 1621, gained his freedom and become a landowner on the Eastern Shore. In 1654 he went to court in Northampton County against his white neighbor Robert Parker over a Black man named John Casor. Casor said the time on his contract had run out and he was free.
 
-Some colonists were unsure whether baptism, the ceremony that made a person a Christian, set an enslaved person free. In September 1667, Virginia's lawmakers, who met as the General Assembly, passed a law that said the opposite. It stated that "the conferring of baptisme doth not alter the condition of the person as to his bondage or ffreedome." In other words, being baptized as a Christian did not set an enslaved person free. The lawmakers gave their reason in the law. With that doubt gone, they wrote, masters would be more willing to let enslaved people be baptized.
+The county judges ruled in 1655 that Casor was Johnson's servant for life, which made Casor Johnson's slave. It was the first court ruling in the English mainland colonies that a person who had committed no crime could be held for life.
+
+**The child follows the mother.** Virginia's House of Burgesses, the colony's elected assembly, passed a law about children in 1662. Under the old rule in English law, a child's place in the law, free or bound, came from the father. Virginia's lawmakers broke with that on purpose. A child born to an enslaved mother was now enslaved for life, whoever the father was. Lawyers called the rule by a Latin phrase, *partus sequitur ventrem*, "the child follows the womb."
+
+**Baptism.** Some colonists were unsure whether baptism, the ceremony that made a person a Christian, set an enslaved person free. Virginia's lawmakers, meeting as the General Assembly in September 1667, passed a law that said it did not. It stated that "the conferring of baptisme doth not alter the condition of the person as to his bondage or ffreedome."
+
+The lawmakers gave their reason in the law itself. With that doubt gone, they wrote, masters would be more willing to let enslaved people be baptized.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The slave codes" -->
-A slave code is a set of laws about enslaved people: what they could not do, how they could be punished, and what their owners could do to them. In 1705 the same lawmakers gathered the colony's earlier slave laws into one code. Under it, enslaved people counted as real estate, the same kind of property as land. The code said that baptism did not free anyone. A master who killed an enslaved person while "correcting" him, which meant punishing him, faced no penalty.
+Virginia's lawmakers gathered the colony's earlier slave laws into one slave code in 1705: a set of laws listing what enslaved people could not do, how they could be punished and what their owners could do to them. Under it, enslaved people counted as real estate, the same kind of property as land. The code said that baptism did not free anyone. A master who killed an enslaved person while "correcting" him, which meant punishing him, faced no penalty.
 
-Carolina's lawmakers, who met as the colony's assembly, passed their first slave law in 1690. The Lords Proprietors, the English noblemen who owned the colony, struck that law down. The assembly's members passed a new code in 1696. They based both laws on the slave code that lawmakers in Barbados, an English island in the Caribbean, had written in 1661.
+**Carolina's codes.** Carolina's lawmakers, who met as the colony's assembly, passed their first slave law in 1690. The Lords Proprietors, the English noblemen who owned the colony, struck that law down. The assembly's members passed a new code in 1696. They based both laws on the slave code that lawmakers in Barbados had written in 1661.
 
-The 1690 Carolina law already allowed branding, nose-slitting and castration as punishments. Branding meant pressing a metal iron, heated red-hot, into the person's skin. The iron burned a mark, often a letter, that stayed on the body as a scar for life. Nose-slitting meant cutting the person's nose open. Under the Barbados code, an enslaved person who hit a Christian a second time was to be whipped hard, have the nose slit and be burned on the face with a hot iron. Castration meant cutting off a man's testicles, which left him unable to father children.
+The 1690 Carolina law already allowed branding, nose-slitting and castration as punishments. Branding meant pressing a metal iron, heated red-hot, into the person's skin. The iron burned a mark, often a letter, that stayed on the body as a scar for life. Nose-slitting meant cutting the person's nose open.
 
-The slave codes of the 1600s set rules for enslaved people's bodies and for who could be held for life. They said nothing about reading or writing. South Carolina's lawmakers passed the first law against teaching enslaved people to write in 1740.
+Under the Barbados code, an enslaved person who hit a Christian a second time was to be whipped hard, have the nose slit and be burned on the face with a hot iron. Castration meant cutting off a man's testicles, which left him unable to father children.
+
+These codes of the 1600s set rules for enslaved people's bodies and for who could be held for life. They said nothing about reading or writing. South Carolina's lawmakers passed the first law against teaching enslaved people to write in 1740.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -135,13 +192,15 @@ The slave codes of the 1600s set rules for enslaved people's bodies and for who 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-Between 1700 and 1750, colonial lawmakers wrote slave codes that ordered whipping, branding and cutting off ears as punishments. Enslaved people rose up in both the South and the North. South Carolina planters grew rice to sell overseas, a crop that enslaved West Africans already knew how to grow. In 1739 about 20 enslaved men near Charleston took up arms and marched toward Spanish Florida. The king of Spain had promised freedom to people who escaped there from the English colonies.
+**Era 4 of 10 · 1700 to 1750 · about 10 minutes**
 
-The English colonists enslaved Native people as well as Africans. In New York City in 1712, about one person in five was enslaved.
+Enslaved people rose up in the North and in the South between 1700 and 1750, and after each revolt colonial lawmakers wrote harsher laws. Their slave codes ordered whipping, branding and cutting off ears. South Carolina planters grew rice to sell overseas, a crop that enslaved West Africans already knew how to grow. In 1739 about 20 enslaved men near Charleston took up arms and marched toward Spanish Florida, where the king of Spain had promised freedom to people who escaped from the English colonies.
+
+English colonists enslaved Native people as well as Africans. Slavery was a Northern business too: in New York City in 1712, about one person in five was enslaved.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Carolina's trade in Native captives" -->
-English traders in Carolina ran a large business in enslaved Native people. Between 1670 and 1715, they enslaved between 24,000 and 51,000 Native people of the Southeast. That range comes from the historian Alan Gallay. The traders shipped many of the captives to the Caribbean. In those years, traders shipped more enslaved Native people out of Charleston than slave ships brought enslaved Africans in.
+<!-- hb-zoom level="span" label="How many Native people did Carolina's traders enslave?" -->
+English traders in Carolina enslaved between 24,000 and 51,000 Native people of the Southeast from 1670 to 1715. That range comes from the historian Alan Gallay. The traders shipped many of the captives to the Caribbean. In those years they shipped more enslaved Native people out of Charleston than slave ships brought enslaved Africans in.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The ships from Rhode Island" -->
@@ -151,31 +210,39 @@ The DeWolf family of Bristol, Rhode Island, sent out about twice as many slaving
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New York, 1711 and 1712" -->
-In 1700 New York City had about 5,000 people, and at least 750 of them were enslaved. On November 30, 1711, the city's aldermen, the men who governed the city, set up a market at the foot of Wall Street. There, enslaved people were sold, rented out and inspected by buyers. The market stood from 1711 to 1762. The accounts of the market do not name the men who bought and sold people there.
+New York City had about 5,000 people in 1700, and at least 750 of them were enslaved. The city's aldermen, the men who governed the city, set up a market at the foot of Wall Street on November 30, 1711. There, enslaved people were sold, rented out and inspected by buyers. The market stood from 1711 to 1762. The accounts of the market do not name the men who bought and sold people there.
 
-On April 6, 1712, more than 20 enslaved people in New York City set fire to a building on Maiden Lane. Accounts describe most of them as Coromantee, Akan people from the Gold Coast of West Africa, which is Ghana today. When white people came to fight the fire, the rebels attacked them. They killed 8 or 9 white people and wounded 6 or 7. Six of the rebels killed themselves before they could be captured.
+**The fire on Maiden Lane.** More than 20 enslaved people in New York City set fire to a building on Maiden Lane on April 6, 1712. Accounts describe most of them as Coromantee, Akan people from the Gold Coast of West Africa, which is Ghana today. When white people came to fight the fire, the rebels attacked them. They killed 8 or 9 white people and wounded 6 or 7. Six of the rebels killed themselves before they could be captured.
 
-Governor Robert Hunter called out the militia, the colony's armed citizens. Officials arrested more than 70 Black people. They put 27 on trial, found 21 guilty and put all 21 to death. One account says 20 were burned alive and one was broken on the wheel. Breaking on the wheel was a public execution. The person was tied to a large wheel, and the executioner broke the person's arms and legs with an iron bar and left the person to die. Other accounts say only that the punishments ran from burning alive to breaking on the wheel. Afterward, the members of the colony's assembly made it illegal for enslaved people to gather in groups of more than three or to own guns.
+Governor Robert Hunter called out the militia, the colony's armed citizens. Officials arrested more than 70 Black people. They put 27 on trial, found 21 guilty and put all 21 to death.
+
+One account says 20 were burned alive and one was broken on the wheel. Breaking on the wheel was a public execution: the person was tied to a large wheel, and the executioner broke the person's arms and legs with an iron bar and left the person to die. Other accounts say only that the punishments ran from burning alive to breaking on the wheel.
+
+Afterward, the members of the colony's assembly made it illegal for enslaved people to gather in groups of more than three or to own guns.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Rice and the Lowcountry" -->
-The Lowcountry is the coast of South Carolina around Charleston. Rice planters there relied on the skill and the labor of West Africans from rice-growing parts of Africa. Planters paid more for captives from those coasts. Rice shipped out of Carolina rose from about 268,602 pounds a year around 1700 to more than 30 million pounds a year around 1740. Charleston became the largest port on the mainland where slave ships landed their captives.
+The Lowcountry is the coast of South Carolina around Charleston. Rice planters there relied on the skill and the labor of West Africans from rice-growing parts of Africa, and they paid more for captives from those coasts. Rice shipped out of Carolina rose from about 268,602 pounds a year around 1700 to more than 30 million pounds a year around 1740, more than a hundred times as much. Charleston became the largest port on the mainland where slave ships landed their captives.
 
-Ships arriving at Charleston stopped first at Sullivan's Island, in the harbor. The island had a quarantine station, called the pest house, where captives who might carry disease were held apart from everyone else. Many accounts say about 40 percent of all the enslaved Africans brought to mainland North America passed through the island itself. The Charleston historian Nic Butler and others say that figure is too high, because many ships landed elsewhere in the harbor. Their doubt is about the island's share only.
+**Sullivan's Island.** Ships arriving at Charleston stopped first at Sullivan's Island, in the harbor. The island had a quarantine station, called the pest house, where captives who might carry disease were held apart from everyone else.
 
-The rice plantations stand on Native land. When English colonists settled Charleston in 1670, about fifteen Native groups lived in the Lowcountry. Among them were the Stono, the Kiawah, the Etiwan, the Edisto and the Combahee. By the middle 1700s these groups were nearly gone. Many of their people had died of disease or been killed in wars, and English colonists had taken their land.
+Many accounts say about 40 percent of all the enslaved Africans brought to mainland North America passed through the island itself. The Charleston historian Nic Butler and others say that figure is too high, because many ships landed elsewhere in the harbor. Their doubt is about the island's share only.
 
-In June 1712, the members of South Carolina's assembly passed a law that listed punishments for people who ran away. The law applied to any enslaved person who stayed away for twenty days or more. For a first escape, it ordered a public whipping of up to forty lashes. A lash is one stroke of the whip. For a second escape, it ordered the person "branded with the letter R, on the right cheek." For a third, it ordered forty lashes and one ear cut off. A man caught a fourth time was to be castrated. A woman caught a fourth time was to be whipped, branded with an R on the left cheek, and have her left ear cut off. The 1712 law does not name the people who carried out these punishments.
+**Whose land it was.** The rice plantations stand on Native land. When English colonists settled Charleston in 1670, about fifteen Native groups lived in the Lowcountry, among them the Stono, the Kiawah, the Etiwan, the Edisto and the Combahee. By the middle 1700s these groups were nearly gone. Many of their people had died of disease or been killed in wars, and English colonists had taken their land.
 
-For a fifth escape, the law let two justices of the peace and three landowners decide. A justice of the peace was a local judge. They could order the person killed. Or they could order the person's Achilles tendon, the cord just above the heel, cut through. After that the person could not run. From 1723 on, South Carolina's lawmakers dropped these lists from their codes and left punishment to the enslaver.
+**The runaway law.** South Carolina's assembly passed a law in June 1712 that listed punishments for any enslaved person who stayed away for twenty days or more. For a first escape, it ordered a public whipping of up to forty lashes, forty strokes of the whip. For a second escape, it ordered the person "branded with the letter R, on the right cheek." For a third, it ordered forty lashes and one ear cut off.
+
+A man caught a fourth time was to be castrated. A woman caught a fourth time was to be whipped, branded with an R on the left cheek, and have her left ear cut off. The 1712 law does not name the people who carried out these punishments.
+
+For a fifth escape, the law let two justices of the peace, who were local judges, and three landowners decide. They could order the person killed. Or they could order the person's Achilles tendon, the cord just above the heel, cut through, so that the person could never run again. From 1723 on, South Carolina's lawmakers dropped these lists from their codes and left punishment to the enslaver.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Fort Mose, 1738" -->
+<!-- hb-zoom level="span" label="A free town to run to" -->
 Florida belonged to Spain. In 1693 the king of Spain promised freedom to enslaved people who escaped from the English colonies and reached Florida, if they became Catholics. Men also had to serve in the militia.
 
-In 1738 Florida's governor, Manuel Montiano, set up a town for these free people about two miles north of St. Augustine. Its Spanish name was Gracia Real de Santa Teresa de Mose. People call it Fort Mose. It was the first free Black town in what is now the United States to be recognized by law. About 100 people lived there, in more than 20 households.
+Florida's governor, Manuel Montiano, set up a town for these free people in 1738, about two miles north of St. Augustine. Its Spanish name was Gracia Real de Santa Teresa de Mose, and people call it Fort Mose. It was the first free Black town in what is now the United States to be recognized by law. About 100 people lived there, in more than 20 households.
 
-In 1740 British forces surrounded St. Augustine and attacked it. Fort Mose was destroyed in the fighting, which people remember as the battle of Bloody Mose. The people rebuilt it in 1752. In 1763, when the Spanish left Florida, the people of Mose left with them for Cuba. The site is now Fort Mose Historic State Park.
+British forces surrounded St. Augustine and attacked it in 1740. Fort Mose was destroyed in the fighting, which people remember as the battle of Bloody Mose. The people rebuilt it in 1752. In 1763, when the Spanish left Florida, the people of Mose left with them for Cuba. The site is now Fort Mose Historic State Park.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="francisco-menendez" name="Francisco Menéndez" movie="" kind="ordinary" status="verified" -->
@@ -184,31 +251,41 @@ In 1740 British forces surrounded St. Augustine and attacked it. Fort Mose was d
 > **Who:** A man from West Africa who escaped slavery in Carolina and became captain of the free Black militia at Fort Mose.
 > **When and where:** Born in the Gambia region of Africa. Enslaved in Carolina. Led the militia at Fort Mose, Florida, from 1738.
 
-Francisco Menéndez commanded the free Black militia at Fort Mose, the town of people who had escaped slavery in the English colonies. He was a Mandinga man, born in the Gambia region of West Africa. Slave traders carried him to Carolina, where he was enslaved.
+**He escaped slavery in Carolina and became a captain in Florida.**
 
-He escaped south to Spanish Florida. There he was baptized as a Catholic and took the name Francisco Menéndez. From 1738 he led the militia at Mose, the armed men who defended the town. Spanish colonial records document his life. Of all the people who lived at Mose, he is the one the records describe most fully.
+Francisco Menéndez was a Mandinga man, born in the Gambia region of West Africa. Slave traders carried him to Carolina, where he was enslaved.
+
+He escaped south to Spanish Florida. There he was baptized as a Catholic and took the name Francisco Menéndez. From 1738 he led the militia at Mose, the armed men who defended the town of people who had escaped from the English colonies.
+
+Spanish colonial records document his life. Of all the people who lived at Mose, he is the one the records describe most fully.
 <!-- hb-story:end slug="francisco-menendez" -->
 
 <!-- hb-zoom level="span" label="The Stono Rebellion, 1739" -->
-On September 9, 1739, about 20 enslaved men rose up at the Stono River, south of Charleston. It was the largest uprising of enslaved people in the mainland colonies before the American Revolution. Their leader was a man named Jemmy. A report written in 1739 describes them as Angolan and says "one who was called Jemmy was their Captain." They seized weapons and marched south toward Spanish Florida. Others joined them along the way. The same report says they were "calling out Liberty" and marched "with Colours displayed, and two Drums beating." The rebels killed about 25 white colonists.
+About 20 enslaved men rose up at the Stono River, south of Charleston, on September 9, 1739. It was the largest uprising of enslaved people in the mainland colonies before the American Revolution. A report written in 1739 describes them as Angolan and says "one who was called Jemmy was their Captain."
+
+The rebels seized weapons and marched south toward Spanish Florida, and others joined them along the way. The same report says they were "calling out Liberty" and marched "with Colours displayed, and two Drums beating." The rebels killed about 25 white colonists.
 
 Lieutenant Governor William Bull met the rebels on the road that day. He rode off to warn the planters and raised the militia, which attacked the rebels the same day. Bull also hired Chickasaw and Catawba men, and some enslaved men, to hunt down those who got away. About a week later, the militia fought a group of rebels again, about 30 miles from the first fight.
 
-The militia killed between 35 and 50 rebels in the first fight. A historical marker says at least 54. The 1739 report gives its own count: "about 40 Negroes and 20 whites were killed." The report says the militia "shot on the Spot" rebels they took in the field. Colonists cut off the heads of rebels and set them on stakes along the main roads as a warning to others. The colonists put most of the captured rebels to death. One account says the militia took 43 rebels who had no weapons and hanged them. The colonists sold the survivors to the West Indies, the islands of the Caribbean.
+**The count.** The militia killed between 35 and 50 rebels in the first fight. A historical marker says at least 54. The 1739 report gives its own count: "about 40 Negroes and 20 whites were killed."
+
+**What the colonists did to the captured.** The report says the militia "shot on the Spot" rebels they took in the field. Colonists cut off the heads of rebels and set them on stakes along the main roads as a warning to others. The colonists put most of the captured rebels to death. One account says the militia took 43 rebels who had no weapons and hanged them. The colonists sold the survivors to the West Indies, the islands of the Caribbean.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The Negro Act of 1740" -->
-On May 10, 1740, the members of South Carolina's assembly passed the Negro Act in answer to Stono. Under it, enslaved people could not gather in groups, grow their own food, earn money or move about freely. Teaching an enslaved person to write became a crime. That was the first law in what became the United States against teaching enslaved people. It named writing, not reading.
+<!-- hb-zoom level="span" label="What the Negro Act took away" -->
+South Carolina's assembly passed the Negro Act on May 10, 1740, in answer to Stono. Under it, enslaved people could not gather in groups, grow their own food, earn money or move about freely. Teaching an enslaved person to write became a crime. That was the first law in what became the United States against teaching enslaved people. It named writing, not reading.
 
-Under the Negro Act, a white person who murdered an enslaved person was guilty only of a misdemeanor, a minor crime punished by a fine. Any white person, not only an owner, could arrest and punish a Black person who broke the act. Under the act, a court could put an enslaved person to death for plotting a revolt, running away, setting fires, or teaching others about poisonous plants.
+Under the Negro Act, a white person who murdered an enslaved person was guilty only of a misdemeanor, a minor crime punished by a fine. Any white person, not only an owner, could arrest and punish a Black person who broke the act. A court could put an enslaved person to death for plotting a revolt, running away, setting fires, or teaching others about poisonous plants.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New York, 1741" -->
-In March 1741, a string of fires began in New York City with a fire at Fort George, the governor's home. City officials claimed that enslaved people and poor white people had plotted to burn the city. Three judges of the colony's Supreme Court heard the cases: James De Lancey, Daniel Horsmanden and Frederick Philipse. The trials began on May 11, 1741.
+A string of fires began in New York City in March 1741, with a fire at Fort George, the governor's home. City officials claimed that enslaved people and poor white people had plotted to burn the city. Three judges of the colony's Supreme Court heard the cases: James De Lancey, Daniel Horsmanden and Frederick Philipse. The trials began on May 11, 1741.
 
 The main witness was Mary Burton, a young servant bound to a tavern owner named John Hughson. Judge Horsmanden offered her an end to her contract and a reward in money.
 
-About 200 people were tried. The New York courts' historical society counts 30 people sentenced to death and 70 sentenced to be sold into slavery in the Caribbean. The historian Jill Lepore counts 34 put to death between May 11 and August 29, 1741. By her count, officials burned 13 Black men at the stake and hanged 17 Black men, two white men and two white women. John Hughson, his wife Sarah and their daughter Sarah were among the white people put to death. In 1744 Horsmanden published his record of the trials.
+**The count.** About 200 people were tried. The New York courts' historical society counts 30 people sentenced to death and 70 sentenced to be sold into slavery in the Caribbean. The historian Jill Lepore counts 34 put to death between May 11 and August 29, 1741.
+
+By Lepore's count, officials burned 13 Black men at the stake and hanged 17 Black men, two white men and two white women. John Hughson, his wife Sarah and their daughter Sarah were among the white people put to death. In 1744 Horsmanden published his record of the trials.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -216,38 +293,44 @@ About 200 people were tried. The New York courts' historical society counts 30 p
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-In 1776 the Declaration of Independence stated "that all men are created equal." In 1790 officials made the first census, a count of every person in the United States. They counted 697,681 people held in slavery. Some enslaved people went to court and used the words of the new state constitutions to win their freedom. Elizabeth Freeman won hers in a Massachusetts court in 1781. About 20,000 Black people joined or fled to the British during the war, after Virginia's royal governor promised freedom to enslaved men who fought for Britain. In 1796 Ona Judge escaped from President George Washington's household.
+**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
 
-Between 1777 and 1804, lawmakers and judges in Vermont and six northern states began to end slavery. Most of their laws freed no one right away. They freed only children born after a set date, and only once those children grew up. The men who wrote the Constitution in 1787 protected slavery in three of its clauses without once using the word. A clause is one part of a written law or constitution.
+The men who led the Revolution wrote in 1776 "that all men are created equal," and enslaved people used words like those to claim their freedom. Elizabeth Freeman won hers in a Massachusetts court in 1781 with the words of the new state constitution. About 20,000 Black people joined or fled to the British during the war, after Virginia's royal governor promised freedom to enslaved men who fought for Britain. In 1796 Ona Judge walked out of President George Washington's household and never went back.
+
+Slavery stayed legal in most of the new country. The first census, a count of every person in the United States, found 697,681 people held in slavery in 1790. Lawmakers and judges in Vermont and six northern states began to end slavery between 1777 and 1804, but most of their laws freed only children born after a set date, and only once those children grew up. The men who wrote the Constitution in 1787 protected slavery in three of its clauses, or parts, without once using the word slave.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="phillis-wheatley-slavery-freedom" name="Phillis Wheatley" movie="" kind="famous" status="verified" -->
 ### Phillis Wheatley
 
 > **Who:** A girl kidnapped from West Africa who became the first African American to publish a book of poetry.
-> **When and where:** Landed in Boston in 1761. Her book was published in London on September 1, 1773. Freed by November 1773. Died in 1784, at about age 31.
+> **When and where:** Landed in Boston in 1761. Her book was published in London on September 1, 1773. Freed by November 1773. Died in 1784.
 
-Phillis Wheatley was the first African American to publish a book of poetry. She was about seven years old when slave traders kidnapped her from West Africa. In 1761 she landed in Boston on a slave ship called the *Phillis*. When she arrived, John Wheatley, a Boston merchant, and his family bought her. Her first name came from the ship that carried her. Her last name came from the family who bought her.
+**Her first name came from the slave ship that carried her.**
 
-Her book, *Poems on Various Subjects, Religious and Moral*, was published in London on September 1, 1773. The Wheatleys freed her by November 1773, shortly after it appeared.
+Slave traders kidnapped her from West Africa when she was about seven years old. In 1761 she landed in Boston on a slave ship called the *Phillis*. John Wheatley, a Boston merchant, and his family bought her. Her first name came from the ship, and her last name from the family who bought her.
 
-In 1778 she married John Peters. She died poor in 1784, at about 31 years old.
+Twelve years later she was a poet. Her book, *Poems on Various Subjects, Religious and Moral*, was published in London on September 1, 1773. It was the first book of poetry by an African American. The Wheatleys freed her by November 1773, shortly after it appeared.
+
+She married John Peters in 1778. She died poor in 1784, at about 31 years old.
 <!-- hb-story:end slug="phillis-wheatley-slavery-freedom" -->
 
 <!-- hb-zoom level="span" label="Two promises of freedom in the Revolution" -->
-On March 5, 1770, British soldiers fired on a crowd of colonists in King Street, in Boston. People call it the Boston Massacre. Crispus Attucks was the first person killed. He was a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
+British soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. People call it the Boston Massacre. The first person killed was Crispus Attucks, a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
 
-On November 7, 1775, Virginia's royal governor, Lord Dunmore, made a promise to the men enslaved by Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800. Over the whole war, by the estimates of the Gilder Lehrman Institute and the American Battlefield Trust, about 20,000 Black people joined or fled to the British. About 9,000 served the American side, the Patriots. About 5,000 of those fought as soldiers. Both sides promised freedom to some of the enslaved men who fought for them, and neither side kept those promises to all of them.
+**Lord Dunmore's promise.** Virginia's royal governor, Lord Dunmore, made a promise on November 7, 1775, to the men enslaved by Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800.
+
+Over the whole war, by the estimates of the Gilder Lehrman Institute and the American Battlefield Trust, about 20,000 Black people joined or fled to the British. About 9,000 served the American side, the Patriots, and about 5,000 of those fought as soldiers. Both sides promised freedom to some of the enslaved men who fought for them, and neither side kept those promises to all of them.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The first states to end slavery" -->
-In 1777 Vermont's constitution banned holding adults in slavery. Vermont then governed itself as its own country, and it joined the United States in 1791. It was the first constitution to ban slavery.
+<!-- hb-zoom level="span" label="Which states ended slavery first?" -->
+Vermont's constitution of 1777 was the first constitution to ban slavery. It banned holding adults in slavery. Vermont then governed itself as its own country, and it joined the United States in 1791.
 
-On March 1, 1780, Pennsylvania's lawmakers passed the Act for the Gradual Abolition of Slavery. To abolish something means to end it. Gradual means step by step, over many years. No elected lawmakers anywhere in the world had passed a law to end slavery before. No enslaved person went free on the day it passed. Children born after it were to go free when they turned 28.
+**Pennsylvania, 1780.** Pennsylvania's lawmakers passed the Act for the Gradual Abolition of Slavery on March 1, 1780, a law to end slavery step by step over many years. No elected lawmakers anywhere in the world had passed a law to end slavery before. No enslaved person went free on the day it passed. Children born after it were to go free when they turned 28.
 
-In Massachusetts, juries and judges ended slavery in court cases decided between 1781 and 1783. Lawmakers in Connecticut and Rhode Island passed gradual laws, which ended slavery step by step, in 1784. New York's lawmakers passed one in 1799, and the last enslaved people in New York were freed in 1827. New Jersey's lawmakers passed theirs last, in 1804. Under these gradual laws, people in the North stayed enslaved for decades.
+In Massachusetts, juries and judges ended slavery in court cases decided between 1781 and 1783. Lawmakers in Connecticut and Rhode Island passed gradual laws in 1784. New York's lawmakers passed one in 1799, and the last enslaved people in New York were freed in 1827. New Jersey's lawmakers passed theirs last, in 1804. Under these gradual laws, people in the North stayed enslaved for decades.
 
-On July 13, 1787, the members of Congress passed the Northwest Ordinance, a law for the lands north of the Ohio River. It banned slavery there.
+The members of Congress passed the Northwest Ordinance on July 13, 1787, a law for the lands north of the Ohio River. It banned slavery there.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="elizabeth-freeman" name="Elizabeth Freeman (Mum Bett)" movie="" kind="famous" status="verified" -->
@@ -256,11 +339,13 @@ On July 13, 1787, the members of Congress passed the Northwest Ordinance, a law 
 > **Who:** An enslaved woman who sued for her freedom under the new Massachusetts constitution and won.
 > **When and where:** Sheffield and Great Barrington, Massachusetts. Jury verdict in August 1781. Died in 1829.
 
-Elizabeth Freeman went to court in 1781 and won her freedom. Before that she was known as Bett, or Mum Bett. She was enslaved in the household of Colonel John Ashley in Sheffield, Massachusetts.
+**Her lawyer argued that seven words in a constitution set her free.**
 
-The new Massachusetts constitution of 1780 states that "all men are born free and equal." Bett and an enslaved man named Brom sued Ashley for their freedom. Their lawyer, Theodore Sedgwick, argued that those words in the constitution made slavery illegal.
+Before she was Elizabeth Freeman, she was known as Bett, or Mum Bett. She was enslaved in the household of Colonel John Ashley in Sheffield, Massachusetts.
 
-In August 1781, a jury in Great Barrington set them free. The jury also ordered Ashley to pay them 30 shillings for the harm done to them. The case was called *Brom and Bett v. Ashley*, which means Brom and Bett against Ashley. The juries and judges in that case and in the court cases of an enslaved man named Quock Walker, decided from 1781 to 1783, ended slavery in Massachusetts.
+The new Massachusetts constitution of 1780 states that "all men are born free and equal." Bett and an enslaved man named Brom sued Ashley for their freedom. Their lawyer, Theodore Sedgwick, argued that those words made slavery illegal.
+
+A jury in Great Barrington set them free in August 1781. The jury also ordered Ashley to pay them 30 shillings for the harm done to them. The case was called *Brom and Bett v. Ashley*, Brom and Bett against Ashley. The juries and judges in that case and in the cases of an enslaved man named Quock Walker, decided from 1781 to 1783, ended slavery in Massachusetts.
 
 Bett took the name Elizabeth Freeman. For the rest of her life she worked for pay as a housekeeper and a nurse. She died in 1829.
 <!-- hb-story:end slug="elizabeth-freeman" -->
@@ -268,25 +353,37 @@ Bett took the name Elizabeth Freeman. For the rest of her life she worked for pa
 <!-- hb-zoom level="span" label="Sally Hemings and Thomas Jefferson" -->
 Thomas Jefferson was the main author of the Declaration of Independence. Over his lifetime he owned more than 600 enslaved people. One of them was Sally Hemings. Jefferson owned her and used her for sex from the time she was a girl, and she had his children.
 
-Sally Hemings was born enslaved in 1773. Her mother, Elizabeth Hemings, was enslaved. Her father was most likely John Wayles, the man who owned her mother. By law Wayles owned Elizabeth Hemings, and she had no legal right to refuse him sex. Wayles was also the father of Jefferson's wife, Martha. That made Sally Hemings the half-sister of Jefferson's wife.
+**Her family.** Sally Hemings was born enslaved in 1773. Her mother, Elizabeth Hemings, was enslaved. Her father was most likely John Wayles, the man who owned her mother. By law Wayles owned Elizabeth Hemings, and she had no legal right to refuse him sex. Wayles was also the father of Jefferson's wife, Martha. That made Sally Hemings the half-sister of Jefferson's wife.
 
-In 1787 Jefferson was the United States minister to France, the man who spoke for his country in Paris. That year Sally Hemings went to Paris with his daughter Polly. Sally was 14 and enslaved by Jefferson. He was 44. By law he owned her, and she could not refuse him. He had the legal power to sell her or her family. Her son Madison Hemings said in 1873 that in Paris she "became Mr. Jefferson's concubine." A concubine, in the old meaning of the word, was a woman a man kept for sex without marrying her. Madison Hemings said she was pregnant when they came back to Virginia.
+**Paris, 1787.** Jefferson was the United States minister to France in 1787, the man who spoke for his country in Paris. That year Sally Hemings went to Paris with his daughter Polly. Sally was 14 and enslaved by Jefferson. He was 44. By law he owned her, and she could not refuse him. He had the legal power to sell her or her family.
+
+Her son Madison Hemings said in 1873 that in Paris she "became Mr. Jefferson's concubine," using an old word for a woman a man kept for sex without marrying her. Madison Hemings said she was pregnant when they came back to Virginia.
 
 Historians disagree about the right word for what Jefferson did. Jessica Marie Johnson, a historian of slavery at Johns Hopkins University, wrote in 2026 that Jefferson was a rapist. In her 2008 history of the Hemings family, the historian Annette Gordon-Reed argued that Jefferson and Sally Hemings loved each other. Another historian, Eric Foner, answered in a review that neither of them left any record of their feelings.
 
 Under French law she could have claimed her freedom in Paris. Madison Hemings said Jefferson promised that her children would be freed at age 21 if she went back with him. She had children from 1790 to 1808. Four lived to be adults: Beverly, Harriet, Madison and Eston.
 
-In 1998 scientists compared DNA and found that a man of the Jefferson family was the father of Eston Hemings. In January 2000 the Thomas Jefferson Foundation, which runs Jefferson's home at Monticello, concluded that Jefferson "was probably the father" of her children. By 2018 the foundation's historians treated this as a fact. In September 2026 a study paid for by the Smithsonian tested DNA from a lock of Jefferson's hair, cut on the day he died. Descendants of Madison and Eston Hemings carried more of Jefferson's DNA than the scientists expected, and the scientists concluded that Jefferson fathered her children. Jefferson died in 1826. Neither he nor anyone after him ever legally freed Sally Hemings. His daughter Martha Jefferson Randolph let her live in Charlottesville with her sons. The census of 1833 listed her as free. She died in 1835.
+**The DNA.** In 1998 scientists compared DNA and found that a man of the Jefferson family was the father of Eston Hemings. In January 2000 the Thomas Jefferson Foundation, which runs Jefferson's home at Monticello, concluded that Jefferson "was probably the father" of her children. By 2018 the foundation's historians treated this as a fact.
+
+In September 2026 a study paid for by the Smithsonian tested DNA from a lock of Jefferson's hair, cut on the day he died. Descendants of Madison and Eston Hemings carried more of Jefferson's DNA than the scientists expected, and the scientists concluded that Jefferson fathered her children.
+
+Jefferson died in 1826. Neither he nor anyone after him ever legally freed Sally Hemings. His daughter Martha Jefferson Randolph let her live in Charlottesville with her sons. The census of 1833 listed her as free. She died in 1835.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Constitution's protections for slavery, 1787" -->
 The men who wrote the Constitution in 1787 put three protections for slavery into it. None of the three clauses uses the word slave.
 
-Under the three-fifths clause, each enslaved person counted as three-fifths of a person. The number of seats a state got in the House of Representatives depended on that count. Enslaved people could not vote, but their owners' states got extra seats for them. In 1793 the slave states held 47 of the 105 seats in the House. Counting only their free people, they would have had 33. The fugitive clause said that a person "held to Service or Labour" who escaped to another state had to be "delivered up," handed back to the person who claimed that person's work. The slave-trade clause barred Congress from ending the import of enslaved people before 1808.
+**Three-fifths.** Under the three-fifths clause, each enslaved person counted as three-fifths of a person. The number of seats a state got in the House of Representatives depended on that count. Enslaved people could not vote, but their owners' states got extra seats for them. The slave states held 47 of the 105 seats in the House in 1793. Counting only their free people, they would have had 33.
+
+**Runaways.** The fugitive clause said that a person "held to Service or Labour" who escaped to another state had to be "delivered up," handed back to the person who claimed that person's work.
+
+**The trade.** The slave-trade clause barred Congress from ending the import of enslaved people before 1808.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved builders of the capital" -->
-Enslaved people worked at every stage of building the White House and the Capitol in Washington. The cornerstone of the White House was laid on October 13, 1792, and that of the Capitol on September 18, 1793. Enslaved men cut sandstone at the quarries on Aquia Creek, the open pits where the stone was dug. They also cut timber, made bricks, sawed lumber and did carpentry. The officials in charge of the building hired them from their owners, and the owners kept the pay.
+Enslaved people worked at every stage of building the White House and the Capitol in Washington. The cornerstone of the White House was laid on October 13, 1792, and that of the Capitol on September 18, 1793.
+
+Enslaved men cut sandstone at the quarries on Aquia Creek, the open pits where the stone was dug. They also cut timber, made bricks, sawed lumber and did carpentry. The officials in charge of the building hired them from their owners, and the owners kept the pay.
 
 The payroll of the President's House for May 1795 names five enslaved carpenters: Tom, Peter, Ben, Harry and Daniel. The architect James Hoban owned four of them, and his assistant Pierce Purcell owned one. The payroll records the days four of the men worked that month: Peter 28, Ben 28, Daniel 25 and Harry 9. Hoban signed for their wages.
 <!-- /hb-zoom -->
@@ -297,11 +394,11 @@ The payroll of the President's House for May 1795 names five enslaved carpenters
 > **Who:** An enslaved woman who escaped from President George Washington's household and was never caught.
 > **When and where:** Walked out of the President's House in Philadelphia on May 21, 1796. Lived free in New Hampshire. Died in 1848.
 
-Ona Judge escaped from President George Washington and his wife, Martha, and lived the rest of her life free. She was enslaved as Martha Washington's personal servant.
+**She walked out while the Washingtons were eating dinner.**
 
-On May 21, 1796, while the Washingtons were eating dinner in the President's House in Philadelphia, Ona Judge walked out. She boarded a sloop, a small sailing ship, called the *Nancy*, and sailed to Portsmouth, New Hampshire.
+Ona Judge was enslaved as Martha Washington's personal servant. On May 21, 1796, while the Washingtons sat at dinner in the President's House in Philadelphia, she left. She boarded a sloop, a small sailing ship, called the *Nancy*, and sailed to Portsmouth, New Hampshire.
 
-On May 24, 1796, a runaway advertisement ran in the *Philadelphia Gazette*. It offered ten dollars for her capture. George Washington tried for years to get her back. She refused an offer to return. She married and lived in New Hampshire until she died in 1848.
+Three days later a runaway advertisement ran in the *Philadelphia Gazette*, offering ten dollars for her capture. George Washington tried for years to get her back. She refused an offer to return. She married and lived in New Hampshire until she died in 1848.
 
 In the 1840s she told her own story to newspaper interviewers, including one from *The Granite Freeman* in 1845. She told them that she was poor and that she was free.
 <!-- hb-story:end slug="ona-judge" -->
