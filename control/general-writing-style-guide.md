@@ -1,7 +1,7 @@
 # Writing Style Guide, Version 2
 
 **Status.** Version 2 is the live guide. The owner adopted it on 2026-09-26 as an absolute
-requirement. Version 1 (`C:\Users\jon\Projects\writing-style-guide.md` on the owner's
+requirement. Version 1 (`C:\Users\jon\Projects\writing-style-guide-v1.md` on the owner's
 computer) is superseded for this book. In this project, this file is
 `control/general-writing-style-guide.md`. The book's own amendment is
 `control/writing-style-guide.md`. The two files have different names and different jobs.

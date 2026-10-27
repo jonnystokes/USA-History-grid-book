@@ -20,7 +20,7 @@ contain the detail. Read them when they apply.
 1. **`control/general-writing-style-guide.md`**, the Writing Style Guide, Version 2. It
    contains the general prose rules and their repairs. **Read it in full before you write or
    judge a sentence.** Jon adopted it on 2026-09-26 as an absolute requirement. It replaces
-   Version 1 at `C:\Users\jon\Projects\writing-style-guide.md`. Its rules have headings and
+   Version 1 at `C:\Users\jon\Projects\writing-style-guide-v1.md`. Its rules have headings and
    no numbers, so the bullets below cite them by heading.
 2. **`control/writing-style-guide.md`**, this book's amendment. It covers the reader, the
    subject and the order. It governs the reader, the subject and the policy. Version 2

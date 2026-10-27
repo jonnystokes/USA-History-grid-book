@@ -5,7 +5,7 @@
 **You must read `control/general-writing-style-guide.md` (Writing Style Guide, Version 2)
 in full before you write or judge a sentence of this book.** It is required, and this file
 does not summarise it. Jon adopted Version 2 on 2026-09-26 as an absolute requirement, in
-both environments. It replaces Version 1 (`C:\Users\jon\Projects\writing-style-guide.md`).
+both environments. It replaces Version 1 (`C:\Users\jon\Projects\writing-style-guide-v1.md`).
 
 Version 2 contains the prose rules and their repairs. Its rules are grouped by defect under
 headings and carry no section numbers, so cite a rule by its heading, for example "The AI
