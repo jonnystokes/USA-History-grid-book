@@ -1,0 +1,222 @@
+## Glossary
+
+- archaeologists: scientists who dig up and study what people left behind (Before 1500)
+- scalping: cutting the skin and hair off the top of a person's head (Before 1500)
+- palisade: a fence of tall logs set upright in the ground (Before 1500)
+- bastions: towers that stuck out from a wall, where archers could stand and shoot at attackers (Before 1500)
+- radiocarbon dating: dating bones by measuring the carbon left in them (Before 1500)
+- throwing a person to the dogs: setting trained attack dogs on a captive to bite and tear the person, often to death (The 1500s)
+- rape: forcing a person to have sex (The 1500s, again at My Lai, 1950 to 2000)
+- royal prosecutor: the lawyer who brought a case for the king (The 1500s)
+- Council of the Indies: the king of Spain's council for Spain's colonies (The 1500s)
+- ducats: Spanish coins (The 1500s)
+- Huguenots: French members of the Protestant churches, which had broken away from the Catholic Church (The 1500s)
+- Matanzas: the Spanish word for "slaughters" (The 1500s)
+- privateer: a sea captain allowed by his government to attack enemy ships and towns (The 1500s)
+- militia: ordinary men, mostly farmers, who left their work to fight when their leaders called them and went home when the fighting ended (The 1600s)
+- regiment: a large unit of soldiers (The 1600s)
+- plantation: a large farm (The 1600s)
+- sachem: a leader (The 1600s)
+- reservation: land kept for a Native nation to live on (The 1600s)
+- friars: Catholic priests, here Franciscans (The 1600s)
+- Haudenosaunee Confederacy: an alliance of Native nations, also called the Iroquois (1700 to 1750)
+- lieutenant: a junior officer (1700 to 1750)
+- Kanien'kehaka: the Mohawk people's own name for themselves (1700 to 1750)
+- miscarriage: losing a baby before it is born (1700 to 1750)
+- baptism: the Christian ceremony with water that makes a person a member of a church (1700 to 1750)
+- scalp hunters: men who hunted Native people for their scalps (1700 to 1750)
+- siege: surrounding a fort or town to cut it off until it gives up (1700 to 1750)
+- column: a long line of marching soldiers (1750 to 1800)
+- smallpox: a disease that spreads from person to person, mostly through the air, and killed about one in three people who caught it (1750 to 1800)
+- bayonet: a long blade fixed to the end of a musket or rifle (1750 to 1800)
+- casualties: soldiers killed, wounded or missing (1750 to 1800, again 1850 to 1900)
+- delegates: representatives sent to a meeting such as the Continental Congress (1750 to 1800)
+- draft: ordering a person into the army by law (1750 to 1800)
+- drilling: practicing marching and handling weapons with a company of soldiers (1750 to 1800)
+- inoculate: give a person a mild case of smallpox on purpose by putting matter from a smallpox sore under the skin, so they can never catch it again (1750 to 1800)
+- typhus: a fever spread by body lice (1750 to 1800)
+- dysentery: an infection of the gut, spread through dirty water and food, that causes bloody diarrhea and can kill by draining the body of water (1750 to 1800)
+- weevils: small beetles (1750 to 1800)
+- emaciated: so thin from hunger that the bones show (1750 to 1800)
+- missionary: a person sent to spread a religion (1750 to 1800)
+- aide: a helper to a general (1750 to 1800)
+- commission: the paper that made an officer commander (1750 to 1800)
+- sappers and miners: soldiers who dug the trenches that let an army surround a fort (1750 to 1800)
+- pension: money paid every year to a former soldier (1750 to 1800)
+- memoir: a book about the writer's own life (1750 to 1800)
+- indentured servant: a person who owed a family a set number of years of unpaid work (1750 to 1800)
+- light infantry: lightly armed foot soldiers (1750 to 1800)
+- Loyalists: colonists who fought for the British king (1750 to 1800)
+- honorable discharge: a record that a soldier served well and left in good standing (1750 to 1800, again 1900 to 1950)
+- confederacy: an alliance of nations (1750 to 1800)
+- impressment: British navy officers taking sailors off American ships and forcing them to serve on British warships (1800 to 1850)
+- diplomats: officials sent to make peace or deal with other countries (1800 to 1850)
+- stockade: a fort with a wall of upright logs (1800 to 1850)
+- infantry: foot soldiers (1800 to 1850)
+- white flag of truce: the sign that both sides agree not to fight while they talk (1800 to 1850)
+- ploy: a trick (1800 to 1850)
+- cavalry: soldiers on horseback (1800 to 1850)
+- amputation: an operation that cuts off an arm or leg (1800 to 1850)
+- anesthetic: a drug that puts a patient to sleep so the patient feels no pain (1800 to 1850)
+- yellow fever and malaria: fevers spread by mosquitoes (1800 to 1850)
+- deserter: a soldier who leaves his army without permission (1800 to 1850)
+- battalion: an army unit of a few hundred soldiers (1800 to 1850)
+- bigotry: hatred of people for who they are or what they believe (1800 to 1850)
+- court-martial: a military trial (1800 to 1850, again 1900 to 1950)
+- lashes: blows from a whip on the bare back that cut the skin (1800 to 1850)
+- branding: pressing red-hot metal into the skin to burn a scar in the shape of a letter (1800 to 1850)
+- Union: the United States government and the states that stayed loyal to it in the Civil War (1850 to 1900)
+- Confederacy: the Southern slave states whose leaders broke away in the Civil War (1850 to 1900)
+- census: the government's count of everyone in the country (1850 to 1900)
+- provost marshal: an army officer who ran the draft (1850 to 1900)
+- substitute: a man hired to go into the army in a drafted man's place (1850 to 1900)
+- lynch: kill someone without any trial (1850 to 1900)
+- Colored: a word used then for Black people (1850 to 1900)
+- minié ball: a soft lead bullet shaped like a cone that often flattened when it hit a body (1850 to 1900)
+- tourniquet: a tight band tied around an arm or leg to slow bleeding (1850 to 1900)
+- scalpel: a surgeon's knife (1850 to 1900)
+- typhoid: an infection from bacteria in food or water that contains human waste, causing high fever and stomach pain (1850 to 1900)
+- ambrotype: a small photograph on glass (1850 to 1900)
+- enlisted soldier: a soldier who is not an officer (1850 to 1900)
+- deadline: at Andersonville, a line inside the wall that guards shot any prisoner for crossing (1850 to 1900)
+- war crimes: acts that break the laws of war (1850 to 1900)
+- US Sanitary Commission: a group that checked on the health of soldiers and their camps (1850 to 1900)
+- artillery: soldiers who fire the big guns (1850 to 1900)
+- Medal of Honor: the country's highest award for bravery in battle (1850 to 1900)
+- sergeant major: a regiment's top sergeant (1850 to 1900)
+- colors: a regiment's flag (1850 to 1900)
+- brine: very salty water (1850 to 1900)
+- side arms: the small weapons officers carried (1850 to 1900)
+- massacre: a killing of many people who cannot defend themselves (1850 to 1900)
+- dastardly: cowardly (1850 to 1900)
+- lodges: the tent homes of a Plains band (1850 to 1900)
+- Hotchkiss guns: small cannon on wheels that fired exploding shells one after another (1850 to 1900)
+- contraband: the army's word for enslaved people who came under Union control (1850 to 1900)
+- certificate of disability: a paper saying a soldier was not fit to serve (1850 to 1900)
+- water cure: a torture in which soldiers poured water into a prisoner's mouth and nose until his stomach swelled, then pressed or stood on his stomach to force it out, and started again (1900 to 1950)
+- reprimand: scold officially (1900 to 1950)
+- conscientious objector: a person who refuses to fight because their religion forbids it (1900 to 1950)
+- high cuffing: chaining a prisoner standing to the cell bars with the hands crossed and pulled up high, so only the toes touch the floor, which strained the arms and shoulders until they swelled (1900 to 1950)
+- pneumonia: a sickness that fills the lungs with fluid (1900 to 1950)
+- mutiny: soldiers refusing orders as a group (1900 to 1950)
+- armistice: an agreement to stop fighting (1900 to 1950)
+- censors: army officials who read soldiers' mail (1900 to 1950)
+- Distinguished Service Cross: an army medal for bravery in battle (1900 to 1950)
+- bonus: an extra payment for war service (1900 to 1950)
+- veto: a president's refusal to sign a law (1900 to 1950)
+- mess attendant: a sailor who cooked and served food (1900 to 1950)
+- Navy Cross: a navy medal for bravery in battle (1900 to 1950)
+- Allies: the countries fighting Germany in World War II (1900 to 1950)
+- Executive Order: an order from the president that officials had to follow (1900 to 1950)
+- Purple Heart: the medal for being wounded or killed in battle (1900 to 1950)
+- napalm: gasoline thickened into a jelly that sticks to whatever it lands on, including skin, and keeps burning (1900 to 1950)
+- firestorm: many fires joined into one huge fire that uses up the oxygen in the air (1900 to 1950)
+- Manhattan Project: the secret program to build the atomic bomb (1900 to 1950)
+- uranium and plutonium: heavy metals used to make the two atomic bombs (1900 to 1950)
+- radiation: invisible energy given off by the bombs, which killed the cells that make blood and line the gut (1900 to 1950)
+- radiation sickness: fever within two days, then hair falling out and bleeding from the gums, nose and under the skin, caused by radiation (1900 to 1950)
+- infantry officer: an officer of foot soldiers (1900 to 1950)
+- morphine: a painkiller (1900 to 1950)
+- post-traumatic stress disorder: nightmares and memories of combat that keep coming back (1900 to 1950)
+- G.I. Bill: a 1944 law under which federal officials paid for veterans' schooling and backed their home loans (1900 to 1950)
+- blackjacks: short clubs (1900 to 1950)
+- refugees: people fleeing from danger (1950 to 2000)
+- nuclear weapons: bombs that get their huge power from the tiny centers of atoms (1950 to 2000)
+- hydrogen bomb: a far more powerful kind of nuclear weapon (1950 to 2000)
+- atoll: a ring of small coral islands around a lagoon (1950 to 2000)
+- fallout: radioactive dust and ash that falls back to the ground after a nuclear blast, burning the skin and damaging the body from inside when breathed in or swallowed (1950 to 2000)
+- thyroid: a gland in the neck (1950 to 2000)
+- tour: a stretch of service in a war zone (1950 to 2000)
+- student deferment: putting off a full-time college student's draft call while he stayed in school (1950 to 2000)
+- draft boards: the local officials who chose which men in an area were drafted (1950 to 2000)
+- pardon: an official order that forgives a crime (1950 to 2000)
+- spinal cord: the bundle of nerves inside the backbone that carries messages between the brain and the body (1950 to 2000)
+- induction center: the place where new soldiers were sworn in (1950 to 2000)
+- house arrest: being kept under guard in one's own quarters (1950 to 2000)
+- parole: being freed early under rules one has to follow (1950 to 2000)
+- Viet Cong: the communist fighters in South Vietnam who fought on North Vietnam's side (1950 to 2000)
+- Agent Orange: a plant-killing chemical sprayed over South Vietnam, tainted with a poison called dioxin (1950 to 2000)
+- pesticides: chemicals used to kill insects (1950 to 2000)
+- Soldier's Medal: the Army's highest award for bravery outside combat with an enemy (1950 to 2000)
+- active duty: serving full-time in the military (2000 to Today)
+- drone: an aircraft with no pilot aboard (2000 to Today)
+- sadistic: taking pleasure in hurting people (2000 to Today)
+- blatant: done openly (2000 to Today)
+- wanton: done for no reason (2000 to Today)
+- plea deal: an agreement to admit a crime in return for a lighter punishment (2000 to Today)
+- Ranger: a soldier of a specially trained Army unit (2000 to Today)
+- Silver Star: a medal for bravery in battle (2000 to Today)
+- traumatic brain injury: damage to the brain from a blow or a blast (2000 to Today)
+- concussion: an injury in which a blow shakes the brain (2000 to Today)
+- Army National Guard: a part-time state army force that can be sent to war (2000 to Today)
+- rocket-propelled grenade: a small rocket fired from a tube carried on a fighter's shoulder (2000 to Today)
+
+## People
+
+- John Williams: Deerfield's minister, captured in the 1704 raid, who wrote the best-known captivity story of colonial America (1700 to 1750)
+- Eunice Kanenstenhawi Williams: his daughter, taken at seven, who became Kanien'kehaka at Kahnawake and refused to come back (1700 to 1750)
+- George Washington: Virginia officer in the French and Indian War and commander of the Continental Army through the Revolution (1750 to 1800)
+- Joseph Plumb Martin: a Connecticut teenager who joined at 15 and wrote down what the war was like (1750 to 1800)
+- Deborah Sampson: a woman who served 17 months as Robert Shurtleff and was wounded in combat (1750 to 1800)
+- John Riley: an Irish-born sergeant who led the San Patricios on the Mexican side and was whipped and branded (1800 to 1850)
+- Amos Humiston: a sergeant killed at Gettysburg, identified by the photograph of his three children (1850 to 1900)
+- Christian Fleetwood: a free Black sergeant major who carried his regiment's flag at New Market Heights and received the Medal of Honor (1850 to 1900)
+- Ulysses S. Grant: commander of all the Union armies from 1864, who took Lee's surrender at Appomattox (1850 to 1900)
+- Robert E. Lee: commander of the Confederate Army of Northern Virginia, who surrendered at Appomattox (1850 to 1900)
+- Cathay Williams: a woman born enslaved who served two years as William Cathay and was refused a pension (1850 to 1900)
+- Henry Gunther: a drafted bank clerk listed as the last American soldier killed in World War I (1900 to 1950)
+- Benjamin O. Davis Jr.: commander of the Black fighter pilots trained at Tuskegee and the first Black general in the Air Force (1900 to 1950)
+- Daniel Inouye: a Japanese American soldier who lost his right arm in Italy and later served Hawaii in the Senate for 50 years (1900 to 1950)
+- Chester Nez: one of the first 29 Navajo code talkers, who fought on four Pacific islands (1900 to 1950)
+- Ron Kovic: a Marine paralyzed in Vietnam who came home and spoke against the war (1950 to 2000)
+- Muhammad Ali: the heavyweight champion who refused the draft and won his case in the Supreme Court (1950 to 2000)
+- Hugh Thompson Jr.: the helicopter pilot who landed between American soldiers and villagers at My Lai (1950 to 2000)
+- Pat Tillman: a football player who joined the Army Rangers and was killed by soldiers of his own platoon (2000 to Today)
+- Tammy Duckworth: a helicopter pilot who lost both legs in Iraq and later became a US senator (2000 to Today)
+
+## Dates
+
+- May 26, 1637: English soldiers burn the Pequot town at Mystic
+- April 19, 1775: the shooting starts at Lexington
+- July 1 to 3, 1863: the battle of Gettysburg
+- August 6, 1945: an American bomber crew drops an atomic bomb on Hiroshima
+- June 30, 1973: the law allowing the draft runs out
+- About 1325: at least 486 people killed in one attack at Crow Creek
+- October 18, 1540: the battle at Mabila
+- September 29, 1565: Menéndez's soldiers kill French prisoners at Matanzas
+- December 13, 1636: Massachusetts Bay orders every healthy man between 16 and 60 into the militia
+- February 29, 1704: the raid on Deerfield
+- March 8, 1782: Pennsylvania militiamen kill 96 Christian Lenape and Mohican people at Gnadenhutten
+- April 12, 1861: Confederate gunners fire on Fort Sumter
+- November 29, 1864: Colorado volunteers kill about 230 Cheyenne and Arapaho people at Sand Creek
+- December 29, 1890: soldiers of the 7th Cavalry kill 250 to 300 Lakota at Wounded Knee
+- December 7, 1941: Japanese pilots attack Pearl Harbor
+- March 16, 1968: American soldiers kill the people of My Lai
+
+## Places
+
+- Amos Humiston monument, Gettysburg, Pennsylvania: on North Stratton Street, the only monument on the battlefield to a single enlisted soldier
+- Soldiers' National Cemetery, Gettysburg, Pennsylvania: the graves of the Gettysburg dead, 979 of them marked "Unknown"
+- Cahokia Mounds State Historic Site, near St. Louis: the site of the town whose log wall was built four times
+- Mashantucket Pequot Museum, Mashantucket, Connecticut: the Pequot Nation's museum and history of the Pequot War
+- Pocumtuck Valley Memorial Association, Deerfield, Massachusetts: Deerfield's history museum, which keeps the town's old records of the 1704 raid
+- Berry site, Burke County, North Carolina: the remains of Fort San Juan, built in 1567
+- Fort McHenry, Baltimore, Maryland: the fort the British shelled for 25 hours in 1814
+- Valley Forge, Pennsylvania: the winter camp of 1777 to 1778
+- Andersonville, Georgia: the Confederate prison camp where almost 13,000 Union soldiers died
+- USS Arizona, Pearl Harbor, Hawaii: the sunken ship, with more than 900 of its crew still inside
+- Vietnam Veterans Memorial, Washington: Maya Lin's memorial, with 58,281 names
+- Most Holy Redeemer Cemetery, Baltimore, Maryland: Henry Gunther's grave
+
+## Movies
+
+- Washington (2020): a History channel documentary series in three parts, with acted scenes
+- One Man's Hero (1999): a drama about John Riley, not a documentary
+- Grant (2020): a History channel documentary in three parts about Grant, with acted scenes
+- Born on the Fourth of July (1989): based on Ron Kovic's memoir, and Kovic helped write the screenplay
+
+## Questions
+
+- Q: What killed most American soldiers before World War II? A: Disease. In the war with Mexico seven of every eight American dead died of something other than enemy fire, and in World War I flu and pneumonia killed more soldiers than the war's deadliest battle did.
+- Q: Who was made to fight, and who could get out of it? A: Drafts filled the armies of the Civil War, both world wars and Vietnam. In 1863 a drafted man could pay $300 and go home, and in the Vietnam years college students could put off the draft. Since 1973 everyone who serves has volunteered.
+- Q: Were soldiers who killed people who could not fight back ever punished? A: Rarely. No one was charged for Gnadenhutten or tried for Sand Creek, and Calley, the only man convicted for My Lai, went free on parole in 1974.
