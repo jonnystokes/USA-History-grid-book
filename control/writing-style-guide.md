@@ -49,10 +49,16 @@ victim.
 6. **The director decides and reports.** Calls are logged in `control/DECISIONS.md`.
 7. **No big words anywhere.** Use the word an 11-year-old would use. If no single plain word
    exists, spell it out in a few plain words: "charged with a crime", not "indicted";
-   "lawmakers", not "legislature"; "later", not "subsequently". A hard word stays only when
-   it is the subject itself (a disease, a law's name, a word people of the time used), and
-   then it is explained in plain words right there, the first time it appears in each part
-   file (a reader may open any era).
+   "lawmakers", not "legislature"; "later", not "subsequently".
+   A hard word stays only when it is the subject itself (a disease, a law's name, a word people
+   of the time used) or when the history cannot be told without it. Explain it the first time it
+   appears in the chapter, in a few words inside the sentence ("obsidian, a volcanic glass"), not
+   in a sentence of its own, except the clinical words the hard-subjects policy names, which get
+   the full plain explanation it requires. Never explain a word an 11-year-old already knows.
+   After that, the glossary defines it. If a reader opening a later era would be lost without it,
+   a short gloss is allowed again, once. (Reworded by Jon, 2026-10-26, DECISIONS #51. The old
+   version explained every hard word in every part file, which produced a definition every few
+   paragraphs.)
 
 ### Version 2 rules with a fixed meaning in this book
 
