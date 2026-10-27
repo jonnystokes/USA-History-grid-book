@@ -5183,3 +5183,37 @@ Meanwhile (director, tools only): tools/make_pdf.py (automatic page breaks: no h
 LAUNCH 1 (7:25 AM): T-670..T-689, 20 Opus writers at once; T-690..T-703 as slots free.
 Agent ids (session c3422736-ab9a-4784-b707-6df665469603, all opus, named T-6xx): T-670 a05150a5e05f8cf7d, T-671 aa645ba062a9f18f1, T-672 ae84d8546b80ecf8c, T-673 af03a88ff352cfdff, T-674 a878f34c69c8d698b, T-675 a3b68bf3f21ad8a3b, T-676 a24223ecc1fa5eb17, T-677 a2474e8a13661fabc, T-678 a6d685f5394a65d3f, T-679 ae48e9daea5e05434, T-680 aa24ad05aec4b30fa, T-681 aac52563eafae80a4, T-682 afab1d4c93474861d, T-683 af8f5f90a58784dfc, T-684 a299d9bbca43b8659, T-685 a5a1024e709ae6d92, T-686 a8ddbeb942935ada2, T-687 ac152949652e5a93f, T-688 ae4404ca6436dde55, T-689 a79b943442819716a.
 Jon (7:26 AM): as many parallel agents as possible without collisions, up to 20. Queue for free slots: T-690..T-703, then T-704 back-matter hand-offs for the three pilot chapters (exploration, government-politics, holidays; the Fable pilot writers cannot be reused).
+7:45 AM T-670 migration DONE: PASS prose (15,979 words incl. markers; prose 13,984 -> 14,805), over-90 paragraphs 29 -> 3, date-first 14.1% -> 0.0%, hand-off 162 items. Commit 577071f. 355k tokens, 24 min. T-690 city-building launched: a941f5951837b720f.
+7:46 AM T-686 styles DONE: PASS, 18,601 -> 19,536, over-90 45 -> 3, date-first 20.5% -> 0.0%. Commit 620733b.
+7:48 AM T-682 health DONE: PASS, 20,820 -> 22,050, over-90 54 -> 9, date-first 28.3% -> 0.2%. T-684 slavery-freedom DONE: PASS, 20,268 -> 21,110, over-90 70 -> 6, date-first 23.5% -> 0.7%. T-683 drugs-alcohol DONE: PASS, 20,402 -> 21,790, over-90 53 -> 2, date-first 33.3% -> 0.0%. Each about 360k tokens, 24 min.
+Launched: T-704 pilot hand-offs a52f508ef38c3af0f, T-691 big-business a1b3446bb30da7ab1, T-692 america-world afc32007bd64b60c9, T-693 elements (id in next line).
+T-693 elements: a744eb315b6b8a9da. Running now: 20 (T-671 T-672 T-673 T-674 T-675 T-676 T-677 T-678 T-679 T-680 T-681 T-685 T-687 T-688 T-689, T-690 T-691 T-692 T-693 T-704). Queue: T-694..T-703.
+7:47 AM T-672 sports-play DONE: PASS, 23,535 -> 24,881, over-90 66 -> 3, date-first 24.1% -> 0.2%. Commit b45742d. T-694 work-workers launched: ad373c485ec1effb7.
+7:47 AM T-687 immigration DONE: PASS, 18,326 -> 19,412, over-90 65 -> 3, date-first 21.2% -> 0.0%, ch 2 repeat + Leif Erikson cut to callbacks. Commit 9125913. T-695 technology launched: a2ce824be4dc3cf43.
+07:48 AM T-679 disasters DONE: PASS, 23,746 -> 25,410, over-90 87 -> 6, date-first 11.6% -> 0.0%. T-696 economy launched (id next line).
+T-696 economy: a04fb41770a5d0437.
+07:49 AM T-681 storytelling-evolution DONE: PASS, 23,109 -> 24,860, over-90 84 -> 2, date-first 25.3% -> 1.2%. T-697 marketplace launched (id next line).
+T-697 marketplace: af00f2dd72cd3ba0b.
+07:49 AM T-689 science DONE: PASS, 17,866 -> 18,860, over-90 44 -> 5, date-first 24.5% -> 0.0%. T-698 energy launched (id next line).
+T-698 energy: a76041d91fe50ec1e.
+07:50 AM T-685 native-nations DONE: PASS, 19,446 -> 20,219, over-90 59 -> 3, date-first 26.2% -> 0.0%. T-699 food-farming launched (id next line).
+T-699 food-farming: a729a8a192641c43d.
+07:50 AM T-688 land-environment DONE: PASS, 17,891 -> 19,056, over-90 60 -> 5, date-first 31.5% -> 0.0%. Flag parked in AUDIT-QUEUE (To Tu Ya bank line). Love Canal 950 checked: bank PATCH line 228 (236 + 710) backs it. T-700 money launched: af72e0952b6964b99.
+07:52 AM T-680 news-communication DONE: PASS, 23,187 -> 24,295, over-90 91 -> 5, date-first 29.5% -> 0.0%; 6 boxes still over 400 (kept on purpose). T-701 landmarks launched (id next line).
+T-701 landmarks: a83b162f6c14c1e4c.
+07:53 AM T-678 war DONE: PASS, 23,979 -> 25,530, over-90 92 -> 6, date-first 18.8% -> 0.0%. T-702 transportation launched (id next line).
+T-702 transportation: adf592fbca1e6b6dd.
+07:53 AM T-676 art DONE: PASS, 28,296 -> 30,127, over-90 119 -> 8, date-first 30.4% -> 0.2%. T-703 home-family launched (id next line). Queue empty after this.
+T-703 home-family: a226beedc6e5ea90d.
+07:54 AM T-677 music DONE: PASS, 25,427 -> 27,175, over-90 90 -> 8, date-first 24.6% -> 0.0%.
+07:56 AM T-673 rights-movements DONE: PASS, 54,849 -> 55,480, over-90 262 -> 8, date-first 25.0% -> 0.6%; 19 boxes still over 400.
+READER REVIEW begins as slots free (control/briefs/READER-REVIEW-DISPATCH.md; extracts in build/review/). First: R15, R16.
+R15 rights-movements reader (sonnet): a9e2bfcd401921edd. R16 health+disasters reader (sonnet): a51fa0f818a695ec0.
+07:57 AM T-671 crime-justice DONE: PASS, 26,201 -> 27,270, over-90 108 -> 14, date-first 31.1% -> 0.0%. DIRECTOR NOTE for its REVIEW-FIX: part 3 line ~356, 'raped him' (Michael Eugene Thomas, 1989) is in the book's voice but rests on Wikipedia citing NYDN/NYT/NYP; Martin pleaded guilty to voluntary manslaughter only and is likely living (guideline 5): credit the rape to the newspapers, keep the plain word, keep the killing in the book's voice.
+R23 storytelling+styles reader (sonnet): a48d1b2d3a014e60e.
+7:58 AM: the 5-hour limit stopped 19 agents (HTTP 429, resets 8:10 AM). 8:26 AM: reset message received; all 19 resumed with a plain 'continue' by SendMessage to their ids, every one replied 'Resuming agent' (same session, no file copy needed). T-699 food-farming never stopped (files written 8:18-8:26 AM), left alone.
+08:33 AM T-675 religion DONE: PASS, 39,038 -> 40,690, over-90 176 -> 3, date-first 21.8% -> 0.0%. R24 sports+holidays reader launched (id next line).
+R24 sports+holidays reader (sonnet): adafd9dd0bd12c84f.
+08:36 AM T-674 education DONE: PASS, 44,320 -> 46,254, over-90 205 -> 6, date-first 18.4% -> 0.0%. R19 education reader launched (id next line).
+R19 education reader (sonnet): a56735b03aa4f276a.
+12:26 PM (after the weekly reset at noon): Jon: resume every stopped agent, run as many in parallel as can be without conflict, no hurry, be fuel-efficient. All 20 resumed by SendMessage (14 writers T-690..T-703, T-704, readers R15 R16 R19 R23 R24); all replied 'Resuming agent'. Fix pass changed to one agent per review group (24, not 37 + front matter).

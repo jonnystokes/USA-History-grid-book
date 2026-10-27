@@ -29,9 +29,11 @@ Readers: model sonnet, brief `control/briefs/READER-REVIEW.md`, output `control/
 
 ## The fix pass
 
-One REVIEW-FIX agent per chapter (model opus, brief `control/briefs/REVIEW-FIX.md`), task ids
-T-710 onward, started as soon as its group's review file lands. R01's front-matter findings and
-R25's findings go to one agent each. Each part of the book gets one read and one fix, then stops.
+One REVIEW-FIX agent per review group (model opus, brief `control/briefs/REVIEW-FIX.md`), task
+ids T-710 onward, started as soon as its group's review file lands. One agent per group, not per
+chapter, so the guides are read 24 times instead of 37 (Jon, 12:30 PM 2026-10-27: no hurry, be
+fuel-efficient, many agents at once is fine). R01's agent also takes the front-matter findings;
+R25's findings get one agent. Each part of the book gets one read and one fix, then stops.
 
 ## Order of the rest
 
