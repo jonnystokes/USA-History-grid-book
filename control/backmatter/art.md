@@ -1,0 +1,293 @@
+# Back-matter hand-off: art (Chapter 32)
+
+## Glossary
+
+- archaeologist: a scientist who digs up and studies the things people left behind (Before 1500)
+- kill hole: a hole punched on purpose through the bottom of a Mimbres bowl before it was set over a dead person's face or head (Before 1500)
+- petroglyph: a picture cut or pecked into rock (Before 1500)
+- pictograph: a picture painted on rock (Before 1500)
+- quarry: a pit where people dug stone (Before 1500)
+- catlinite: a pipe stone from quarries in southwestern Minnesota (Before 1500)
+- flint clay: a stone from near St. Louis, Missouri, used for the Birger figurine (Before 1500)
+- tuberculosis: a disease of the lungs (Before 1500)
+- Works Progress Administration (WPA): a government jobs program of the 1930s (Before 1500)
+- clan: a large group of related families (Before 1500)
+- clan crest: an animal symbol that belongs to a clan (Before 1500)
+- pneumonia: a serious sickness of the lungs (Before 1500)
+- adze: a carving tool with a curved blade set across the end of its handle (Before 1500)
+- apprentice: a younger worker who learns a trade by working beside a master (Before 1500)
+- Algonquian languages: a family of related languages spoken by nations of the coast John White painted (The 1500s)
+- black lead: a kind of pencil (The 1500s)
+- engraving: a picture cut into a metal plate so that many copies can be printed (The 1500s)
+- friar: a member of a Catholic religious order (The 1600s)
+- Puritans: English Protestants who wanted a plainer and stricter church (The 1600s)
+- Protestants: Christians outside the Catholic Church (The 1600s)
+- cherubs: carvings of baby angels (The 1600s)
+- Memento Mori: Latin words on gravestones that mean "remember you will die" (The 1600s)
+- sampler: a strip of cloth that kept a record of stitches and patterns to copy later (The 1600s)
+- psalms: 150 poems in the Hebrew Bible (The 1600s)
+- elders: men respected in the colony for their learning (The 1600s)
+- pence: pennies (The 1600s)
+- Muses: in old Greek stories, nine goddesses who watched over poetry and the other arts (The 1600s)
+- mesa: a hill with steep sides and a flat top (The 1600s)
+- rape: forcing a person into sex (The 1600s)
+- forced labor: work for others without pay and without the right to leave (The 1600s)
+- Katsina masks: Pueblo ceremonial masks that show spirit beings (The 1600s)
+- kiva: a room used for religious ceremonies (The 1600s)
+- English subject: a person with the rights of someone born English (1700 to 1750)
+- Middle Atlantic colonies: the group of colonies that included Maryland (1700 to 1750)
+- Moravians: a Protestant group (1700 to 1750)
+- pastel: a crayon made from a paste of colored powder and resin (1700 to 1750)
+- resin: a sticky stuff that comes from trees (1700 to 1750)
+- torture: hurting people on purpose to make them give in (1700 to 1750)
+- cast: a copy made by pouring material into a mold (1700 to 1750)
+- deed: a paper selling land (1700 to 1750)
+- surveyors: the men who measured and marked out land (1700 to 1750)
+- river cane: a tall plant with hollow stems that grows along rivers (1700 to 1750)
+- double-woven basket: two baskets woven one inside the other from the same strips, so both the inside and the outside show a finished pattern (1700 to 1750)
+- militia: a part-time army of local men (1750 to 1800)
+- Sons of Liberty: groups of colonists who formed in 1765 to resist the Stamp Act, a British tax on printed paper (1750 to 1800)
+- silhouette: an outline portrait cut from paper (1750 to 1800)
+- genius: in a 1769 letter, talent (1750 to 1800)
+- Negro: a word people of that time used for a Black person, kept only inside quotes and titles (1750 to 1800)
+- taking faces: painting portraits (1750 to 1800)
+- limner: an old word for a painter of portraits (1750 to 1800)
+- uncultivated: untaught (1750 to 1800)
+- barbarian: an insult for a person thought to be wild and without learning (1750 to 1800)
+- manumission: a legal paper that freed an enslaved person (1750 to 1800)
+- insuperable obstacles: problems he could not get past (1750 to 1800)
+- federal officials: the officials of the national government (1800 to 1850)
+- landscape: a picture of the land and sky (1800 to 1850)
+- Hudson River School: a group of American landscape painters, about 1825 to 1870 (1800 to 1850)
+- physiognotrace: a machine that traced the outline of a sitter's face onto paper through a set of connected rods (1800 to 1850)
+- city directory: a book that listed a town's people and their trades (1800 to 1850)
+- life class: a class where students draw from a model without clothes (1800 to 1850)
+- Quakers: a Christian group (1800 to 1850)
+- paralyzed: unable to move or feel part of the body (1800 to 1850)
+- patronage: paying an artist for pictures (1800 to 1850)
+- patron: a person who pays an artist to make work (1800 to 1850)
+- treaty: a written agreement between governments (1800 to 1850)
+- mission town: a town built around a church where ministers taught Christianity (1800 to 1850)
+- squatting: settling on land without any right (1800 to 1850)
+- reservation: land set aside for a Native nation by treaty (1800 to 1850)
+- smallpox: a disease caused by a virus that spread face to face and killed about 3 of every 10 people who caught it (1800 to 1850)
+- vaccination: a shot that protects a person from smallpox (1800 to 1850)
+- ingratitude: not being thankful (1800 to 1850)
+- white flag of truce: a sign that two sides have stopped fighting to talk (1800 to 1850)
+- malaria: a disease spread by mosquitoes that brings fever and chills (1800 to 1850)
+- scalping: cutting the skin and hair from the top of an enemy's head (1800 to 1850)
+- mortgaged: used as a guarantee for a loan, so the lender could take the enslaved person if the loan was not repaid (1800 to 1850)
+- country born: born in America and not brought from Africa (1800 to 1850)
+- amputated: cut off (1800 to 1850)
+- Emancipation Proclamation: President Lincoln's order freeing enslaved people in the states at war with the United States (1800 to 1850)
+- census: the government's count of everyone in the country (1800 to 1850)
+- turner: a person who shapes pots on a wheel (1800 to 1850)
+- daguerreotype: an early photograph made directly on a silver-coated copper plate, a single picture that could not be copied (1800 to 1850)
+- picture factory: a shop that turned out many portraits fast (1800 to 1850)
+- impartial: fair (1800 to 1850)
+- dime novel: a novel of about 100 pages sold for ten cents (1850 to 1900)
+- Confederate: a soldier of the Southern states that fought the United States to keep slavery (1850 to 1900)
+- sharpshooter: a soldier who shoots at a distance with a rifle (1850 to 1900)
+- door-yards: the yards in front of houses (1850 to 1900)
+- lithography: printing pictures from drawings made on stone (1850 to 1900)
+- cantharides: a poison made from blister beetles (1850 to 1900)
+- bust: a sculpture of a person's head and shoulders (1850 to 1900)
+- sent by subscription: paid for by a group of people (1850 to 1900)
+- colored: a word of the 1800s for Black people, kept only inside quotes (1850 to 1900)
+- repellant: disgusting (1850 to 1900)
+- curator: a museum worker who chooses and cares for the art and plans shows (1850 to 1900; re-glossed 2000 to Today)
+- disposition: whether people were likely to be friendly or to fight (1850 to 1900)
+- trustees: the people in charge of a museum (1850 to 1900)
+- ledger art: Plains drawings made on paper in ledgers, lined account books (1850 to 1900)
+- war crimes: acts in war that break the rules of war (1850 to 1900)
+- ringleaders: the leaders of the fighting (1850 to 1900)
+- leg-irons: chains locked around the ankles (1850 to 1900)
+- deacon: a church minister (1850 to 1900)
+- Dawes Act: the 1887 law under which federal officials broke up land each nation held together into small plots and sold the "surplus" (1850 to 1900)
+- Wild West show: a traveling show of riding, shooting and scenes of frontier life (1850 to 1900)
+- Impressionists: a group of painters in France (1850 to 1900)
+- bishop: a high church leader (1850 to 1900)
+- crucified: fastened to a cross (1850 to 1900)
+- typhoid fever: a disease spread by dirty water and food (1850 to 1900)
+- Paris Salon: a large yearly art show (1850 to 1900)
+- Legion of Honor: an order of people honored by France for their work (1850 to 1900)
+- tenements: crowded buildings where poor families rented rooms (1850 to 1900)
+- magnesium flash powder: a powder that burns with a sudden bright light (1850 to 1900)
+- armory: a large building where soldiers train and keep their weapons (1900 to 1950)
+- arson: the crime of setting fire to something on purpose (1900 to 1950)
+- normal college: a college that trained teachers (1900 to 1950)
+- macular degeneration: an eye disease that destroys the center of sight (1900 to 1950)
+- boarding school: a school where children live as well as study (1900 to 1950)
+- authentic: real and true to its roots (1900 to 1950)
+- splints: thin strips cut for weaving (1900 to 1950)
+- renaissance: a French word that means rebirth (1900 to 1950)
+- mural: a painting made on a wall or for a wall (1900 to 1950)
+- lynching: the killing of a person by a mob without any trial (1900 to 1950)
+- segregation: keeping people apart by race (1900 to 1950)
+- casting in bronze: pouring melted metal into a mold of a sculpture (1900 to 1950)
+- folklorist: someone who collects the stories, songs and sayings people pass along by word of mouth (1900 to 1950)
+- incorporated: recognized by the state as a town by law, with its own government (1900 to 1950)
+- royalty: the share of each book's price that goes to the writer (1900 to 1950)
+- Great Depression: the hard years of the 1930s when many people had no work (1900 to 1950)
+- sit-down strike: workers refusing to leave their workplaces (1900 to 1950)
+- abstract art: art that shows shapes and colors instead of things (1900 to 1950)
+- war bonds: loans to the government to pay for World War II (1900 to 1950)
+- foster care: living with families paid to raise children not their own (1900 to 1950)
+- grant: a gift of money (1900 to 1950)
+- Great Migration: the move of Black families from the South to cities in the North (1900 to 1950)
+- Executive Order: an order from the president that has the force of law (1900 to 1950)
+- assembly center: a holding camp, such as the Tanforan racetrack, where horse stalls were turned into rooms for families (1900 to 1950)
+- polio: a disease that attacks the nerves (1900 to 1950)
+- libel: a printed lie that harms someone's good name (1900 to 1950)
+- sealed bid: a sale where buyers send in secret offers and the highest offer wins (1900 to 1950)
+- AIDS: a disease that destroys the body's defenses against other illnesses (1950 to 2000)
+- Abstract Expressionism: painting that shows no real objects, as Pollock's did (1950 to 2000)
+- CIA: the Central Intelligence Agency, the government's spy agency (1950 to 2000)
+- Cold War: a long contest for power and friends around the world between the United States and the Soviet Union that never became open war between them (1950 to 2000)
+- Socialist Realism: the Soviet government's official style of art (1950 to 2000)
+- at two or three removes: through other groups (1950 to 2000)
+- Guggenheim Fellowship: a grant of money for artists and writers (1950 to 2000)
+- deputy US marshals: federal officers (1950 to 2000)
+- KKK: the Ku Klux Klan, a white group that has threatened, beaten and killed Black people (1950 to 2000)
+- segregated school: a school for Black children only (1950 to 2000)
+- pawnshop: a store that lends money and sells things people leave there and do not come back for (1950 to 2000)
+- photo essay: a set of photographs that tell a story (1950 to 2000)
+- art dealer: a person who buys and sells art for a living (1950 to 2000)
+- silkscreen printing: pushing ink through a design on a fine screen with a rubber blade, so the same picture can be printed again and again (1950 to 2000)
+- diptych: a picture in two parts (1950 to 2000)
+- graffiti: writing or drawing on walls without permission (1950 to 2000)
+- coma: a state like deep sleep that a person cannot wake from (1950 to 2000)
+- medical examiner: the doctor who studies a body to find the cause of death (1950 to 2000)
+- pornography: pictures or objects made to show sex (1950 to 2000)
+- paratrooper: a soldier who jumps from planes (1950 to 2000)
+- Bronze Star: a medal for brave or useful service in war (1950 to 2000)
+- repatriation: sending something back home (1950 to 2000)
+- NAGPRA: the Native American Graves Protection and Repatriation Act of 1990, under which museums and agencies that take federal money must return Native remains and sacred objects (1950 to 2000)
+- NEA: the National Endowment for the Arts, a federal agency that gives money to artists and museums (1950 to 2000)
+- crucifix: a model of Jesus on the cross (1950 to 2000)
+- obscene: so shocking or indecent that some people want it banned (1950 to 2000)
+- blasphemous: insulting to God or religion (1950 to 2000)
+- performance artist: an artist who puts on live shows (1950 to 2000)
+- MacArthur Fellowship: a large prize of money given to people for creative work (2000 to Today)
+- pandered: gave people what they wanted, to win their favor (2000 to Today)
+- sphinx: a creature with a lion's body and a human head (2000 to Today)
+- congestive heart failure: a heart that cannot pump blood well enough (2000 to Today)
+- heart transplant: an operation that gives a person the heart of someone who has died (2000 to Today)
+- transgender: someone whose sense of being a man or a woman is different from the sex written down at birth (2000 to Today)
+- Confederacy: the Confederate States of America, set up in February 1861 by seven Southern states that had left the United States (2000 to Today)
+- chief justice: the head judge of the Supreme Court (2000 to Today)
+- Biennale: an international art show held in Venice, Italy (2000 to Today)
+- pavilion: the building where a country shows its artists at the Biennale (2000 to Today)
+- queer: a word many gay and lesbian people use for themselves (2000 to Today)
+- Ether: a kind of digital money (2000 to Today)
+- copyright: the legal right to copy a work and sell copies (2000 to Today)
+- ISBN: the identifying number books for sale carry (2000 to Today)
+- stereotype: an unfair, fixed idea about a whole group of people (2000 to Today)
+- lucre: an old word for money (2000 to Today; also in the chapter opening)
+
+## People
+
+- Nathan Jackson: Tlingit carver of totem poles and masks, still carving in his eighties (Before 1500)
+- John White: English artist whose 1585 Roanoke watercolors are the oldest surviving European pictures made here, later governor of the 1587 colony (The 1500s)
+- Loara Standish: Plymouth Colony girl thought to have stitched the oldest known American sampler (The 1600s)
+- Anne Bradstreet: author of the first book of poems by someone living in the English colonies (The 1600s)
+- Henrietta Johnston: first woman recorded as working for pay as an artist in the English colonies, a pastel portraitist in Charleston (1700 to 1750)
+- John Smibert: Scottish portrait painter in Boston whose studio of copies trained younger painters (1700 to 1750)
+- Charles Willson Peale: painter of the Revolution's leaders, paid for portraits with two enslaved people (1750 to 1800)
+- Prince Demah: enslaved portrait painter in Boston who later served free in the Massachusetts militia (1750 to 1800)
+- Phillis Wheatley: first African American to publish a book of poems, enslaved in Boston when it came out (1750 to 1800)
+- Gilbert Stuart: painter of the unfinished Washington portrait on the one-dollar bill (1750 to 1800)
+- Joseph Whiting Stock: travelling portrait painter who could not walk and kept a journal of 900 paintings (1800 to 1850)
+- Thomas Cole: landscape painter and a first leader of the Hudson River School (1800 to 1850)
+- Dave (David Drake): enslaved potter and poet who cut his name and verses into his jars (1800 to 1850)
+- Frederick Douglass: writer who escaped slavery and sat for 160 known photographs (1800 to 1850)
+- Winslow Homer: drew the Civil War for Harper's Weekly and later painted the sea (1850 to 1900)
+- Edmonia Lewis: Mississauga Ojibwe and African American sculptor who carved in marble in Rome after being beaten and falsely charged at Oberlin (1850 to 1900)
+- Howling Wolf: Southern Cheyenne survivor of Sand Creek who became a ledger artist as a prisoner at Fort Marion (1850 to 1900)
+- Mark Twain: writer whose books were sold door to door (1850 to 1900)
+- Henry Ossawa Tanner: Black painter who studied under Eakins and made his career in France (1850 to 1900)
+- Georgia O'Keeffe: painter shown by Stieglitz in 1916 who later lived and painted in New Mexico (1900 to 1950)
+- Maria Martinez: San Ildefonso potter known for black-on-black pottery (1900 to 1950)
+- Augusta Savage: Harlem sculptor and teacher whose 16-foot Harp was bulldozed after the 1939 World's Fair (1900 to 1950)
+- Zora Neale Hurston: novelist and folklorist who never earned more than $943.75 in royalties from any book (1900 to 1950)
+- Jacob Lawrence: painter of the 60-panel Migration Series (1900 to 1950)
+- Dorothea Lange: government photographer of 1930s farm families and the 1942 forced removal of Japanese Americans (1900 to 1950)
+- Jackson Pollock: painter who dripped and poured paint onto canvas laid on the floor (1950 to 2000)
+- Gordon Parks: first African American staff photographer at Life magazine (1950 to 2000)
+- Andy Warhol: painter of soup cans, dollar bills and famous faces (1950 to 2000)
+- Faith Ringgold: painter and quilt maker arrested for protesting at the Whitney Museum (1950 to 2000)
+- Toni Morrison: editor and novelist who won the Nobel Prize in Literature (1950 to 2000)
+- Amy Sherald: painter of Michelle Obama's official portrait and of Breonna Taylor, who cancelled her National Portrait Gallery show in 2025 (2000 to Today)
+- Jeffrey Gibson: Choctaw and Cherokee artist, the first Native artist to represent the United States alone at the Venice Biennale (2000 to Today)
+- Kelly McKernan: illustrator who sued the makers of picture-making programs in 2023 (2000 to Today)
+
+## Dates
+
+- 1585: John White paints the town of Secotan, on the coast of what is now North Carolina
+- 1773: Phillis Wheatley's Poems comes out in London while she is enslaved in Boston
+- 1857: Dave cuts "I made this Jar = for cash" into the Poem Jar
+- 1936: Dorothea Lange photographs Florence Owens Thompson at Nipomo, California
+- November 16, 1990: President George H. W. Bush signs NAGPRA
+- September 20, 1565: Spanish soldiers take Fort Caroline, and Le Moyne loses his Florida drawings
+- August 10, 1680: Po'pay leads the Pueblo Revolt
+- September 19, 1737: the Walking Purchase walk begins
+- 1846: Squier and Davis dig into the Mound City mounds and take more than 200 pipes
+- June 18, 1837: the steamboat St. Peters brings smallpox to the Mandan villages
+- 1875: Plains prisoners are taken to Fort Marion, Florida, and begin drawing in ledgers
+- May 31, 1891: the Metropolitan Museum of Art opens on a Sunday for the first time
+- 1933: the Pocola Mining Company begins digging into Craig Mound at Spiro
+- February 19, 1942: President Roosevelt signs Executive Order 9066
+- January 12, 2024: the NAGPRA rule requiring a Native nation's consent takes effect
+
+## Places
+
+- Museum of Fine Arts, Boston, Massachusetts: the two jars Dave made in 1857, one bought from his descendants and one lent by them (the chapter's "Where to go")
+- Volcanic cliffs west of Albuquerque, New Mexico: about 24,000 to 25,000 petroglyphs
+- Mesa Verde, Colorado: where Ancestral Pueblo potters made black-on-white pottery from about 600 to 1300
+- National Museum of Natural History (Smithsonian), Washington, DC: the two best-known Etowah Birdman copper plates
+- British Museum, London, England: John White's watercolors, the Mound City pipes and the Cherokee double-woven baskets of 1725
+- Arts Council of Princeton, Princeton, New Jersey: Nathan Jackson's Raven and Fog Woman pole, in the lobby
+- New York Public Library, New York, New York: Le Moyne's painting Laudonnière and Athore, 1564
+- Worcester Art Museum, Worcester, Massachusetts: the Freake portrait of Elizabeth and Mary Freake
+- Pilgrim Hall Museum, Plymouth, Massachusetts: Loara Standish's sampler
+- San Esteban del Rey, Acoma Pueblo, New Mexico: the oldest European church in New Mexico that still stands, built by Acoma workers
+- Maryland Center for History and Culture, Baltimore, Maryland: Kühn's portrait of Henry Darnall III with the enslaved boy in a collar
+- Harvard Law School, Cambridge, Massachusetts: Feke's portrait of the Royall family
+- Historical Society of Pennsylvania, Philadelphia, Pennsylvania: Hesselius's portraits of Lapowinsa and Tishcohan
+- Metropolitan Museum of Art, New York, New York: a signed painting by Prince Demah, and Cole's The Oxbow
+- National Portrait Gallery, Washington, DC: the Obama portraits by Kehinde Wiley and Amy Sherald, and (with the Museum of Fine Arts, Boston) Stuart's Athenaeum portrait of Washington
+- Philadelphia Museum of Art, Philadelphia, Pennsylvania: Moses Williams's silhouettes of the Peale family
+- Thomas Cole National Historic Site, Catskill, New York: Cole's house and studio
+- Charleston Museum, Charleston, South Carolina: two Dave jars that each hold more than 40 gallons
+- Taft Museum of Art, Cincinnati, Ohio: Duncanson's eight landscape murals in the entrance hall
+- Smithsonian American Art Museum, Washington, DC: Edmonia Lewis's The Death of Cleopatra
+- Castillo de San Marcos (Fort Marion), St. Augustine, Florida: the fort where the Plains prisoners were held, 1875 to 1878
+- St. Augustine National Cemetery, St. Augustine, Florida: the graves of Fort Marion prisoners
+- Shaw Memorial, Boston Common, Boston, Massachusetts: Saint-Gaudens's memorial to Shaw and the 54th Massachusetts
+- Phillips Collection, Washington, DC, and Museum of Modern Art, New York, New York: the odd- and even-numbered panels of The Migration Series
+- Library of Congress, Washington, DC: the more than 2,300 accounts by formerly enslaved people recorded from 1936 to 1938
+- Brooklyn Museum, Brooklyn, New York: Judy Chicago's The Dinner Party
+- Chicano Park, San Diego, California: murals on the bridge pillars, first painted in 1973
+- Virginia Museum of Fine Arts, Richmond, Virginia: Kehinde Wiley's Rumors of War
+- Freedom Monument Sculpture Park, Montgomery, Alabama: work by Kehinde Wiley
+- Museum of Contemporary Art, Los Angeles, California: Kara Walker's Unmanned Drone, made from a Stonewall Jackson statue
+
+## Movies
+
+- Becoming Frederick Douglass (2022): no note
+- Mark Twain (2001): no note
+- Georgia O'Keeffe (1977): no note
+- Maria Martinez: Indian Pottery of San Ildefonso (1972): no note
+- Searching for Augusta Savage (2024): no note
+- Zora Neale Hurston: Jump at the Sun (2008): no note
+- Dorothea Lange: Grab a Hunk of Lightning (2014): no note
+- Pollock (2000): no note
+- Half Past Autumn: The Life and Works of Gordon Parks (2000): no note
+- Andy Warhol: A Documentary Film (2006): no note
+- Toni Morrison: The Pieces I Am (2019): no note
+
+## Questions
+
+- Q: How did enslaved artists make art, and who got paid for it? A: They painted, cut silhouettes, turned pots and wrote poems while other people held them as property. Henry Barnes took Prince Demah to London for painting lessons, and Dave cut verses into his jars in years when it was a crime for him to learn to read. Peale was paid for portraits with Moses Williams's parents, and Dave's jars were sold for the profit of Lewis J. Miles.
+- Q: Who decided what counted as art, and who got to see it? A: Mostly people with money or power: the Met's trustees, who kept it shut on Sundays until 1891, a teacher in Santa Fe who taught one "authentic" Native style, and a congressman who called a touring show of modern paintings trash. Artists pushed back, from Oscar Howe's letter in 1958 to Amy Sherald cancelling her show in 2025.
+- Q: Why are museums giving back things they once took? A: Diggers took objects and human remains out of Native graves, at Mound City in 1846 and at Spiro in the 1930s, and sold many of the objects. Under a 1990 law, NAGPRA, museums that take federal money must return Native remains and sacred objects, and since 2024 they need a nation's consent even to show them.
