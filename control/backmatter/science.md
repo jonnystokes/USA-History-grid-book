@@ -1,0 +1,252 @@
+## Glossary
+
+- solstices: the longest and the shortest days of the year (Before 1500)
+- equinoxes: the two days each year when day and night are about the same length (Before 1500)
+- butte: a steep hill with a flat top (Before 1500)
+- ecology: the ways living things depend on each other and on the land (Before 1500)
+- Traditional Ecological Knowledge (TEK): the knowledge of ecology that Native nations built up by watching closely over many generations (Before 1500)
+- botanist: a plant scientist (Before 1500)
+- PhD: the highest degree a university gives (Before 1500)
+- Algonquian languages: a group of languages related to each other, spoken by the Secotan and their neighbors (The 1500s)
+- almanac: a yearly booklet with a calendar and tables of the sun and moon (The 1600s)
+- astronomy: the study of the sun, the moon, the planets and the stars (The 1600s)
+- fellow (of the Royal Society): a full member (The 1600s)
+- parallax: looking at an object from two different places, so that a near object seems to shift against the stars far more than a distant one (The 1600s)
+- natural philosophy: the old name for the study of nature, so a philosophical society was a group for studying nature (The 1600s)
+- chaplain: a minister who serves people far from home (The 1600s)
+- learned society: a group of people who meet to share and discuss what they have found out (1700 to 1750)
+- pamphlet: a short printed booklet (1700 to 1750)
+- positive and negative (electricity): Franklin's words for an object holding more or less of the electric fluid than normal (1700 to 1750)
+- conservation of charge: the idea that electric charge is never made or destroyed, only moved from one object to another (1700 to 1750)
+- Quaker: a member of a Christian group also called the Society of Friends (1700 to 1750)
+- botanic garden: a garden where plants are grown so they can be studied (1700 to 1750)
+- transit of Venus: the planet Venus passing across the face of the sun, as seen from Earth (1750 to 1800)
+- orrery: a machine that shows the planets moving around the sun (1750 to 1800)
+- degenerate: Buffon's word for animals and people growing smaller and weaker in the Americas (1750 to 1800)
+- Query: an old word for a question, Jefferson's name for each chapter of his book (1750 to 1800)
+- inferior: lower or less able (1750 to 1800)
+- manuscript: written by hand (1750 to 1800)
+- abolition society: a group that worked to end slavery (1750 to 1800)
+- spherical trigonometry: the mathematics of angles and distances on a sphere, such as the sky (1750 to 1800)
+- puffing: praising someone too much (1750 to 1800)
+- genus: a group of closely related kinds of animals or plants (1750 to 1800)
+- paleontology: the study of ancient life through fossils (1750 to 1800)
+- science journal: a magazine where scientists publish their research (1800 to 1850)
+- natural history: the study of plants, animals and rocks (1800 to 1850)
+- meteorite: a rock from space that falls to the ground (1800 to 1850)
+- electromagnetic induction: the making of an electric current with a magnet (1800 to 1850)
+- self-induction: a coil of wire making its own push of electricity against a change in its current (1800 to 1850)
+- electromagnet: a magnet made by sending electricity through a coil of wire (1800 to 1850)
+- missionaries: people sent by churches to spread their religion (1800 to 1850)
+- potter's field: a burial ground for poor people (1800 to 1850)
+- almshouse: a public home for poor people (1800 to 1850)
+- gallows: the frames on which people were hanged (1800 to 1850)
+- scientific racism: the use of the look of science to claim that some races are better than others (1800 to 1850)
+- unethical: wrong (1800 to 1850)
+- heirs: children or other family to inherit money (1800 to 1850)
+- telegraph: a machine that sent messages along a wire as bursts of electricity (1800 to 1850)
+- current (ocean): a stream of moving water inside the ocean (1800 to 1850)
+- ship's log: the daily record a crew keeps of the ship's position, the wind and the sea (1800 to 1850)
+- Confederacy: the group of Southern states that broke away from the United States and fought against it in the Civil War (1800 to 1850)
+- natural selection: Darwin's name for the way species change, when living things with a helpful trait have more young and the trait spreads (1850 to 1900)
+- trait: a feature of a living thing, such as color or size (1850 to 1900)
+- polygenism: the false and racist claim that the races of people were created separately (1850 to 1900)
+- daguerreotype: an early kind of photograph made on a polished metal plate (1850 to 1900)
+- driver: an enslaved man put in charge of other enslaved workers (1850 to 1900)
+- emotional distress: harm to a person's mind and feelings (1850 to 1900)
+- militiamen: part-time citizen soldiers (1850 to 1900)
+- scalp: the skin and hair of the top of the head (1850 to 1900)
+- craniometry: measuring skulls, part of a false "racial science" used to rank the races (1850 to 1900)
+- curator: the person in charge of a museum's collection (1850 to 1900)
+- exposure: dying from cold out in the open (1850 to 1900)
+- land-grant colleges: colleges started with money from public land under the Morrill Act, teaching farming and the skills of machines and building (1850 to 1900)
+- agricultural experiment station: a place where scientists run tests to improve farming (1850 to 1900)
+- total solar eclipse: the moon blocking all of the sun's light for a short time (1850 to 1900)
+- thermodynamics: the science of heat and energy (1850 to 1900)
+- chemical thermodynamics: the science that uses the rules of heat and energy to explain what happens when substances change (1850 to 1900)
+- equilibrium: a steady balance (1850 to 1900)
+- doctorate: the highest degree a university gives (1850 to 1900)
+- ether: an unseen substance that scientists once thought light traveled through as waves (1850 to 1900)
+- null result: a result where the test finds nothing (1850 to 1900)
+- theory of relativity: Einstein's account of space, time and light, and of how they are tied to gravity (1850 to 1900)
+- observatory: a building for studying the sky (1850 to 1900)
+- computer (old meaning): a person whose job was to do calculations and measurements (1850 to 1900)
+- photographic plate: a glass sheet that holds a photograph of the night sky (1850 to 1900)
+- nebula: a cloud of gas and dust in space (1850 to 1900)
+- nova: a star that suddenly grows much brighter for a time (1850 to 1900)
+- variable star: a star whose brightness changes (1850 to 1900)
+- time capsule: a box of papers sealed to be opened in the future (1850 to 1900)
+- electron: one of the tiny particles inside every atom, which carries electricity (1900 to 1950)
+- Nobel Prizes: awards first given in 1901 under the will of Alfred Nobel, a Swedish inventor (1900 to 1950)
+- gene: a piece of the instructions, passed from parents to children, that shapes a living thing (1900 to 1950)
+- chromosome: a thread inside a cell that carries genes (1900 to 1950)
+- genetics: the study of how living things pass on their traits (1900 to 1950)
+- ornithologist: a scientist who studies birds (1900 to 1950)
+- citizen science: research done by ordinary volunteers (1900 to 1950)
+- editorial: an article giving a newspaper's own opinion (1900 to 1950)
+- credulity: a willingness to believe things (1900 to 1950)
+- vacuum: a space with no air in it, like outer space (1900 to 1950)
+- Cepheid: a variable star that grows brighter and dimmer over and over, in a steady rhythm (1900 to 1950)
+- period-luminosity law: Henrietta Leavitt's rule that the time of a Cepheid's blink tells its true brightness (1900 to 1950)
+- light-year: the distance light travels in a year (1900 to 1950)
+- physical anthropology: the study of human bodies and bones (1900 to 1950)
+- consent: agreeing to something after being told what it is (1900 to 1950)
+- eugenics: the claim that a country should decide which of its people may have children, and stop the rest (1900 to 1950)
+- heredity: the passing of traits from parents to children (1900 to 1950)
+- feeblemindedness: the eugenicists' label for people they judged to be of low intelligence (1900 to 1950)
+- sterilize: to operate on the body so that the person can never have a child. In a woman a doctor cut out a piece of each of the two tubes that carry eggs to the womb, and in a man doctors cut the tubes that carry sperm. It cannot be undone (1900 to 1950)
+- honorary degree: a degree a college gives to honor a person's life and work (1900 to 1950)
+- antisemitic: hostile to Jews (1900 to 1950)
+- proton and antiproton: a tiny particle with a positive electric charge in the center of every atom, and a particle that matches it but has a negative charge (1900 to 1950)
+- fission: the splitting of the center of an atom, called the nucleus, into two pieces, which gives off energy (1900 to 1950)
+- refugee: a person who flees their home country to be safe (1900 to 1950)
+- chain reaction: each atom that splits setting off more atoms splitting (1900 to 1950)
+- reactor: a machine built to run a chain reaction (1900 to 1950)
+- Manhattan Project: the secret American program that built the atomic bomb (1900 to 1950)
+- national laboratories: the government's big science labs (1900 to 1950)
+- cyclotron: a machine that speeds tiny particles around in a circle and smashes them into atoms (1900 to 1950)
+- periodic table: the chart of all the chemical elements (1900 to 1950)
+- plutonium: a radioactive metal that scientists made during the war and used in atomic bombs (1900 to 1950)
+- radioactive: giving off radiation, invisible energy that can damage or kill the cells of the body (1900 to 1950)
+- spleen: an organ that cleans the blood (1900 to 1950)
+- microgram: one millionth of a gram (1900 to 1950)
+- ulcer: a sore in the stomach (1900 to 1950)
+- chondrosarcoma: a slow-growing bone cancer (1900 to 1950)
+- porter: a worker who carried passengers' bags on the trains (1900 to 1950)
+- propagandist: a person who spreads one side's story (1900 to 1950)
+- roentgen: a unit for measuring radiation (1900 to 1950)
+- fallout: radioactive dust that falls back to the ground after a nuclear explosion (1900 to 1950)
+- stillbirth: a baby born dead (1900 to 1950)
+- birth defect: a problem in a baby's body that begins before it is born (1900 to 1950)
+- transistor: a small solid part that can make an electrical signal stronger (1900 to 1950)
+- quantum mechanics: the branch of physics that describes very tiny particles (1900 to 1950)
+- transposition: genes moving from one place to another on the chromosomes (1900 to 1950)
+- mutable loci: places on a chromosome that can change (1900 to 1950)
+- gynecologist: a doctor who treats the parts of a woman's body that carry and deliver babies (1950 to 2000)
+- malignant: cancerous (1950 to 2000)
+- cervix: the narrow lower end of the womb (1950 to 2000)
+- radium: a radioactive metal (1950 to 2000)
+- anesthesia: a medicine that puts a patient into a deep sleep so they feel no pain (1950 to 2000)
+- HeLa: the name of Henrietta Lacks's cells, from the first two letters of her first and last names (1950 to 2000)
+- leukemia: a cancer of the blood (1950 to 2000)
+- DNA: the molecule inside cells that carries genes (1950 to 2000)
+- molecule: a group of atoms joined together (1950 to 2000)
+- double helix: two long strands wound around each other in a spiral (1950 to 2000)
+- unsubstantiated: not backed by proof (1950 to 2000)
+- reprehensible: deserving strong blame (1950 to 2000)
+- geologist: a scientist who studies the Earth's rocks (1950 to 2000)
+- plate tectonics: the idea that the Earth's outer shell is broken into huge pieces, called plates, that slowly shift (1950 to 2000)
+- seafloor spreading: the idea that new ocean floor forms along the undersea mountain ranges and spreads outward (1950 to 2000)
+- rift valley: a valley that forms where the Earth's crust, its rocky outer layer, is pulling apart (1950 to 2000)
+- sounding: a measurement of how deep the water is (1950 to 2000)
+- greenhouse gas: a gas that takes in heat and gives it off again (1950 to 2000)
+- parts per million: molecules of a gas in every million molecules of air (1950 to 2000)
+- Keeling Curve: the line that the carbon dioxide measurements on Mauna Loa make on a graph (1950 to 2000)
+- Big Bang: the hot beginning of the universe (1950 to 2000)
+- cosmic microwave background: the cooled light left over from the early universe (1950 to 2000)
+- organic matter: the carbon-based material that living things are made of (1950 to 2000)
+- interstellar space: the space between the stars (1950 to 2000)
+- active volcano: a volcano that is erupting, throwing out gas and melted rock (1950 to 2000)
+- navigation engineer: a person who works out where a spacecraft is and where it is heading (1950 to 2000)
+- quantum electrodynamics: the theory of how light and electrically charged matter act on each other (1950 to 2000)
+- Feynman diagrams: simple drawings that show how particles act on each other (1950 to 2000)
+- O-ring: a rubber ring that seals a joint (1950 to 2000)
+- Cold War: the long rivalry between the United States and the Soviet Union after World War II (1950 to 2000)
+- genome: the complete set of DNA in a living thing (1950 to 2000)
+- repatriation: sending something back to where it came from (1950 to 2000)
+- NAGPRA: the Native American Graves Protection and Repatriation Act of 1990 (1950 to 2000)
+- testicles: the organs that make sperm (1950 to 2000)
+- vasectomy: an operation that cuts the tubes that carry sperm so a man can no longer father children (1950 to 2000)
+- Higgs boson: a particle tied to how other particles get their mass, the amount of matter in an object (2000 to Today)
+- Large Hadron Collider: a machine that smashes tiny particles together at very high speed (2000 to Today)
+- experimental physicist: a scientist who runs experiments and measurements (2000 to Today)
+- postdoc: a scientist doing research for a few years after a PhD before taking a permanent job (2000 to Today)
+- CRISPR-Cas9: a tool that scientists can program to cut DNA at a spot they choose (2000 to Today)
+- biochemist: a scientist who studies the chemistry inside living things (2000 to Today)
+- gravitational waves: ripples in space and time (2000 to Today)
+- black hole: a place in space where gravity is so strong that not even light can get out (2000 to Today)
+- laser interferometer: a detector that uses laser beams to measure very small changes in distance (2000 to Today)
+- exoplanet: a planet that circles a star other than our Sun (2000 to Today)
+- protein: a molecule that does work inside living cells, whose shape sets what it can do (2000 to Today)
+- artificial intelligence (AI): computer software that learns patterns from huge amounts of data (2000 to Today)
+- island of stability: a group of superheavy elements that physicists predict would last longer before breaking apart (2000 to Today)
+- estate: the property a dead person leaves behind, managed for the heirs (2000 to Today)
+- free, prior and informed consent: a yes given freely and beforehand, by people who have been told everything about the request (2000 to Today)
+- downwinders: people who lived where the wind carried fallout from nuclear bomb tests (2000 to Today)
+
+## People
+
+- Robin Wall Kimmerer: Citizen Potawatomi botanist who uses Native knowledge and laboratory science together (Before 1500)
+- John Campanius Holm: New Sweden chaplain who kept the first known weather record in what is now the United States (The 1600s)
+- Benjamin Franklin: Philadelphia experimenter whose electricity letters made him the first American scientist known abroad (1700 to 1750)
+- John Bartram: Quaker farmer and botanist who built the oldest surviving botanic garden in America (1700 to 1750)
+- David Rittenhouse: self-taught instrument maker and astronomer who timed Venus at Norriton in 1769 (1750 to 1800)
+- Benjamin Banneker: free Black farmer and self-taught astronomer who sent Jefferson his almanac as proof against Jefferson's claim (1750 to 1800)
+- James Smithson: English chemist who left his fortune to found the Smithsonian without ever visiting the country (1800 to 1850)
+- Joseph Henry: discoverer of self-induction and first head of the Smithsonian, who drew the first national weather maps (1800 to 1850)
+- Maria Mitchell: Nantucket librarian and astronomer who found "Miss Mitchell's Comet" in 1847 (1800 to 1850)
+- Josiah Willard Gibbs: Yale physicist who founded chemical thermodynamics and worked nine years without pay (1850 to 1900)
+- Albert Michelson: Prussian-born physicist who measured the speed of light to within about 0.05 percent (1850 to 1900)
+- Williamina Fleming: Scottish immigrant hired as a maid who sorted more than 10,000 stars at Harvard's observatory (1850 to 1900)
+- Frank Chapman: ornithologist who started the Christmas Bird Count in 1900 (1900 to 1950)
+- Robert Goddard: Clark University physicist who flew the first liquid-fuel rocket in 1926 (1900 to 1950)
+- Edwin Hubble: astronomer who showed Andromeda is a separate galaxy and the universe is expanding (1900 to 1950)
+- Albert Einstein: physicist who came to Princeton in 1933, signed the 1939 bomb letter and called racism "a disease of white people" (1900 to 1950)
+- Emilio Segrè: Italian physicist who lost his job under Mussolini's anti-Jewish laws and stayed at Berkeley (1900 to 1950)
+- Barbara McClintock: scientist who found that genes can move, in corn (1900 to 1950)
+- Marie Tharp: geologist and mapmaker who found the rift valley in the Mid-Atlantic Ridge (1950 to 2000)
+- Darleane Hoffman: nuclear chemist who found plutonium in nature (1950 to 2000)
+- Linda Morabito: navigation engineer who found the first active volcano seen beyond Earth, on Io (1950 to 2000)
+- Richard Feynman: physicist who rebuilt quantum electrodynamics and showed the Challenger O-ring failure in ice water (1950 to 2000)
+- Monica Dunford: physicist on the ATLAS experiment followed in *Particle Fever* (2000 to Today)
+- Jennifer Doudna: Berkeley biochemist who with Emmanuelle Charpentier made CRISPR-Cas9 a tool for cutting DNA (2000 to Today)
+- Rainer Weiss: MIT physicist and child refugee from Nazi Germany who worked out the idea for the LIGO detectors (2000 to Today)
+
+## Dates
+
+- June 3, 1769: four men at Norriton time Venus crossing the sun
+- 1839: Samuel Morton's *Crania Americana* ranks the races by skull size
+- 1912: Henrietta Leavitt publishes her rule for measuring space
+- April 25, 1953: Watson and Crick publish the shape of DNA
+- November 16, 1990: NAGPRA becomes law
+- May 10, 1752: Dalibard's iron rod at Marly-la-Ville shows lightning is electricity
+- August 19, 1791: Benjamin Banneker sends Jefferson his almanac
+- August 10, 1846: President Polk signs the law that sets up the Smithsonian
+- March 11, 1869: Army surgeon B. E. Fryer ships 26 Native skulls to Washington
+- March 16, 1926: Robert Goddard flies the first liquid-fuel rocket
+- December 2, 1942: Fermi's team runs the first controlled nuclear chain reaction
+- July 16, 1945: the Trinity test, the first atomic bomb
+- November 15, 1993: Eileen Welsome's series names the plutonium patients
+- October 3, 1995: President Clinton apologizes for the radiation experiments
+- September 14, 2015: LIGO picks up gravitational waves for the first time
+
+## Places
+
+- International African American Museum, Charleston, South Carolina: the 1850 Zealy daguerreotypes of Renty, Delia and five others, on public view since March 11, 2026
+- Cahokia, Illinois: the site of the Woodhenge circles of sunrise posts
+- Fajada Butte, Chaco Canyon, New Mexico: the Sun Dagger slabs and carved spirals
+- John Bartram's botanic garden, Kingsessing, on the Schuylkill River: the oldest botanic garden in America that survives today
+- Penn Museum, University of Pennsylvania, Philadelphia, Pennsylvania: holds Samuel Morton's skull collection
+- Eden Cemetery, Collingdale, Pennsylvania: burial place of 19 Black Philadelphians from the Morton collection
+- Smithsonian's National Museum of Natural History, Washington, DC: the museum that holds the Hrdlička-era remains
+- Mount Wilson Observatory, California: the Hooker telescope Hubble used
+- Mauna Loa, Hawaii: where the Keeling Curve measurements have run since 1958
+- NASA's Johnson Space Center: keeps the 2,200 Apollo Moon samples
+- Cold Spring Harbor Laboratory, New York: its archive website publishes the Eugenics Record Office history
+- University of Minnesota: holds the Eugenics Record Office records
+- LIGO detectors, Hanford, Washington, and Livingston, Louisiana: the detectors that first picked up gravitational waves
+- Field Museum, Chicago, Illinois: covered display cases in two halls under the 2024 NAGPRA rule
+
+## Movies
+
+- Benjamin Franklin (2022): no note
+- The Farthest (2017): no note
+- The Fantastic Mr Feynman (2013): no note
+- Particle Fever (2013): no note
+- Human Nature (2019): no note
+
+## Questions
+
+- Q: How did American scientists learn how far away the stars are? A: Henrietta Leavitt showed in 1912 that the blink of a Cepheid star tells how bright it truly is, and so how far away it is. Edwin Hubble used her rule in 1923 to place Andromeda far outside our own galaxy.
+- Q: Why did scientists collect human skulls and brains, and where are those remains now? A: Samuel Morton, the Army's museum scientists and Aleš Hrdlička measured them to rank the races, an idea that is false. Many have been returned since the laws of 1989 and 1990, but in January 2025 museums still had 90,831 Native American remains not yet made available for return.
+- Q: Who did the work but was left out of the credit? A: Lise Meitner explained fission, and Rosalind Franklin's X-ray pictures showed the shape of DNA. The Nobel Prizes went to Otto Hahn alone in 1944 and to Watson, Crick and Wilkins in 1962.
