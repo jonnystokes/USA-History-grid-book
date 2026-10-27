@@ -1,0 +1,216 @@
+## Glossary
+- plaza: a wide open square (Before 1500)
+- katsinam: spirit beings in Pueblo religion, more than 500 of them (Before 1500)
+- tundra: the flat treeless land of the far north (Before 1500)
+- archaeologists: scientists who dig up and study what people left behind long ago (Before 1500)
+- medicine society: in the Haudenosaunee policy of 1995, Haudenosaunee who have taken part in the medicine (Before 1500)
+- aadizookaanag: the Ojibwe sacred stories, told only in winter (Before 1500)
+- clan: a large family group that traces back to the same ancestors (Before 1500)
+- crest: an animal or spirit figure that stands for a clan (Before 1500)
+- at.óow: the Tlingit word for sacred clan property: crests and the stories, songs and names that go with them (Before 1500)
+- kiva: a round room, partly underground, used for ceremonies (Before 1500)
+- niches: small openings set into a wall (Before 1500)
+- expedition: a large group of soldiers, priests and settlers (The 1500s)
+- pueblo: a Native town in the Southwest (The 1500s)
+- Mass: a Catholic church service (The 1500s)
+- La Toma: "the taking," Oñate's 1598 statement claiming the land for the king of Spain (The 1500s)
+- friars: Catholic priests who belong to a religious order (The 1500s)
+- baptism: the Catholic ceremony with water that makes a person a member of the church (The 1500s)
+- mining claim: a piece of ground where someone says they have the right to dig for ore (The 1500s)
+- ore: rock that holds metal (The 1500s)
+- mesa: a steep hill with a flat top (The 1500s)
+- rape: forcing a person into sex (The 1500s)
+- convent: a house where nuns live (The 1500s)
+- ducats: Spanish gold coins (The 1500s)
+- Moors: Muslims who fought Christians in Spain from the 700s to the 1400s (The 1500s)
+- Parliament: England's lawmakers, in two parts, the House of Lords and the House of Commons (The 1600s)
+- tragedy: a serious play with a sad ending (The 1600s)
+- king's attorney: the lawyer who brought cases to court in the king's name (The 1600s)
+- habiliments: an old word for clothes ("habilemts" in the 1665 court record) (The 1600s)
+- security: a promise backed by money or property that a person will come back to court (The 1600s)
+- Franciscans: one group of Catholic friars (The 1600s)
+- missionaries: priests sent to win people over to Christianity (The 1600s)
+- sorcery: using magic to do harm (The 1600s)
+- stick dance: a dance of enslaved people (The 1600s)
+- indentured servant: a person bound by a contract to work for a master for a set number of years (1700 to 1750)
+- preface: the short opening piece of a book (1700 to 1750)
+- exciseman: a collector of taxes on goods (1700 to 1750)
+- publican: a tavern keeper (1700 to 1750)
+- player: an actor (1700 to 1750)
+- Grand Council: the group of men who governed the Carolina colony (1700 to 1750)
+- foreclose: to take a property because the debt on it was not paid (1700 to 1750)
+- modulation: the rise and fall of the voice (1700 to 1750)
+- rehearsal: a practice run of a performance (1700 to 1750)
+- impiety: a lack of respect for God (1750 to 1800)
+- morals: a person's ideas of right and wrong (1750 to 1800)
+- Stamp Act: a British tax that many colonists protested (1750 to 1800)
+- Sons of Liberty: secret groups of colonists, sometimes violent, who fought the Stamp Act (1750 to 1800)
+- delegates: men chosen by each colony to speak for it (1750 to 1800)
+- extravagance and dissipation: spending too much, and wasting time and money on pleasure (1750 to 1800)
+- prologue: a speech given before a play begins (1750 to 1800)
+- repeal: to end a law by a vote (1750 to 1800)
+- moral lectures: talks meant to teach right from wrong (1750 to 1800)
+- Yankee: a word that can mean a person from New England (1750 to 1800)
+- steward: a servant on a ship (1800 to 1850)
+- tea garden: an outdoor place for refreshments and shows (1800 to 1850)
+- playbill: a printed poster for a show (1800 to 1850)
+- discrimination: being treated worse because of race (1800 to 1850)
+- blackface minstrelsy: shows in which white actors darkened their faces with burnt cork and acted Black people as fools (1800 to 1850)
+- caricature: an act that makes fun of people by blowing up some of their features (1800 to 1850)
+- Jim Crow: a Black character acted as a fool by Thomas Dartmouth Rice, later an insult, and by the end of the 1800s the name for the segregation laws and customs (1800 to 1850)
+- segregation: keeping people apart by race (1800 to 1850)
+- greasepaint: a thick stage makeup (1800 to 1850)
+- top billing: having your name first on the posters (1800 to 1850)
+- flatboat: a wide boat with a flat bottom (1800 to 1850)
+- militia: an army of part-time soldiers who have other jobs (1800 to 1850)
+- recorder: an elected city officer in New York who also served as a judge (1800 to 1850)
+- bystanders: people who were only watching (1800 to 1850)
+- Tom shows: stage versions of *Uncle Tom's Cabin* (1850 to 1900)
+- Negro: a word of that time for a Black person (1850 to 1900)
+- culls: the leftovers (1850 to 1900)
+- breakdown: a minstrel dance (1850 to 1900)
+- derringer: a small pistol (1850 to 1900)
+- Confederacy: the group of Southern states whose leaders broke away from the United States to keep slavery (1850 to 1900)
+- inquest jury: a jury that looks into a death (1850 to 1900)
+- criminal negligence: carelessness so serious it is a crime (1850 to 1900)
+- bankrupt: unable to pay debts (1850 to 1900)
+- vaudeville: a show made of many short, separate acts, one after another (1850 to 1900)
+- colored: a word of that time for Black (1850 to 1900)
+- Indian agent: the federal official who ran a reservation from an office called an agency (1850 to 1900)
+- reservation: land that US officials set aside for a Native nation (1850 to 1900)
+- Commissioner of Indian Affairs: the federal official over all the Indian agents (1850 to 1900)
+- permits: written permission from federal officials (1850 to 1900)
+- typhoid fever and smallpox: two diseases that often killed people then (1850 to 1900)
+- carbines: short rifles (1850 to 1900)
+- Hotchkiss guns: small cannon (1850 to 1900)
+- Ghost Dance: a religious ceremony (1850 to 1900)
+- rations: the food handed out to people on a reservation (1850 to 1900)
+- heathen rites: missionaries' words for the religion of people who were not Christian (1850 to 1900)
+- Kinetoscope: a machine that showed one short film to one person looking into it (1850 to 1900)
+- contortionist: a performer who bends the body into unusual shapes (1850 to 1900)
+- Vitascope: a film projector (1850 to 1900)
+- blackface: dark makeup that made a white face look Black (1900 to 1950)
+- nickelodeon: a small theatre that charged a nickel to see films (1900 to 1950)
+- censors: officials who decided which films could be shown (1900 to 1950)
+- lynch: for a mob to kill a person with no lawful trial (1900 to 1950)
+- Ku Klux Klan: a secret group that Confederate veterans founded in December 1865 (1900 to 1950)
+- sexually aggressive: as the chapter gives it, wanting to force sex on someone (1900 to 1950)
+- extras: actors hired to fill out crowd scenes (1900 to 1950)
+- Cabinet: the officials who head the government's departments (1900 to 1950)
+- cross burning: setting a large cross on fire (1900 to 1950)
+- technical consultants: people who advise filmmakers on how to get details right (1900 to 1950)
+- billing: the size and place of a performer's name on the posters (1900 to 1950)
+- revue: a show of songs and comic scenes (1900 to 1950)
+- workhouse: a place where poor people lived and worked in return for food and a bed (1900 to 1950)
+- dictator: a ruler with total power (1900 to 1950)
+- Production Code: the set of rules the heads of the big studios agreed in 1930 to follow (1900 to 1950)
+- miscegenation: an old word for marriage or romance between people of different races (1900 to 1950)
+- block booking: the studios' practice of selling films to theatres only in large bundles (1900 to 1950)
+- Pullman porter: an attendant on railroad sleeping cars (1900 to 1950)
+- homestead: a farm on land that the federal government gave to settlers who lived on it and worked it (1900 to 1950)
+- petition: a written request signed by many people (1900 to 1950)
+- communism: a system in which one party runs the government and the government owns the farms and factories (1900 to 1950)
+- blacklist: a list of people studio executives would not hire (1950 to 2000)
+- contempt of Congress: the crime of refusing to cooperate with Congress (1950 to 2000)
+- stoolie: a person who informs on others (1950 to 2000)
+- method acting: a way of acting built on the teaching of Konstantin Stanislavsky (1950 to 2000)
+- B movies: low-budget films (1950 to 2000)
+- restrictive covenant: an agreement among owners not to sell to Black people (1950 to 2000)
+- stereotypes: unfair ideas that every member of a group is the same (1950 to 2000)
+- tomahawk chop: a chopping arm motion that makes fun of Native people (1950 to 2000)
+- federal marshals: officers who work for the courts (1950 to 2000)
+- oscilloscope: a screen that draws lines of light (1950 to 2000)
+- laser discs: shiny discs read by a beam of light (1950 to 2000)
+- motion capture: cameras record an actor's movements, and a computer uses them to move a character artists have drawn (2000 to Today)
+- performance capture: motion capture that also records the actor's face (2000 to Today)
+- frame: a single picture of a film (2000 to Today)
+- residuals: payments that grow when a game sells well (2000 to Today)
+- streaming: watching a film or show sent over the internet while it plays (2000 to Today)
+- previews: the shows before a play's official opening (2000 to Today)
+- dark: closed, said of a theatre (2000 to Today)
+- hashtag: a tag that people add to their posts, here to join a protest (2000 to Today)
+- headright: an Osage person's share of the tribe's oil money (2000 to Today)
+- guardians: white men whom local judges put in control of Osage adults' money (2000 to Today)
+- refugees: people who flee their country to be safe (2000 to Today)
+- sexual harassment: unwanted sexual remarks, demands or touching (2000 to Today)
+- sexual assault: a sexual attack (2000 to Today)
+- egregious errors: very serious mistakes (2000 to Today)
+- production assistant: a helper on a film crew (2000 to Today)
+- AI, artificial intelligence: computer programs that can make new text, images and voices by copying patterns from the work of real people (2000 to Today)
+- background actors: extras with no lines (2000 to Today)
+- consent: permission (2000 to Today)
+- digital replica: a computer copy of an actor's face, body or voice (2000 to Today)
+- National Labor Relations Board: the federal agency that hears complaints about unfair treatment of workers (2000 to Today)
+- estate: the people in charge of a person's property after death (2000 to Today)
+- talent agency: a company that finds work for actors (2000 to Today)
+- misappropriation: as the chapter gives it, having your face and voice taken (2000 to Today)
+
+## People
+- Marcos Farfán de los Godos: a captain with Oñate who wrote the first European play on record in what is now the United States (The 1500s)
+- William Darby: one of three men tried for acting *Ye Bare and Ye Cubb* in Virginia, the one the sheriff was ordered to arrest (The 1600s)
+- Anthony Aston: a British lawyer turned actor who wrote a play about South Carolina (1700 to 1750)
+- William Levingston: a merchant and dancing teacher who built the first playhouse in the English colonies, with two indentured servants as his actors (1700 to 1750)
+- Lewis Hallam the Younger: a boy in the first touring company who became the leading actor and manager of the American Company (1750 to 1800)
+- Nancy Hallam: an actress in the American Company whom Charles Willson Peale painted in costume (1750 to 1800)
+- Mercy Otis Warren: a Massachusetts writer who attacked the royal government in five unsigned plays (1750 to 1800)
+- William Alexander Brown: the founder of the African Theatre, the first known Black theatre company in the United States, and author of *King Shotaway* (1800 to 1850)
+- Ira Aldridge: a Black actor from New York who left in 1824 and acted Shakespeare in Britain and Europe for more than forty years (1800 to 1850)
+- William Henry Lane (Master Juba): a Black dancer who danced in blackface and toured with a white minstrel company (1800 to 1850)
+- Edwin Forrest: an American star actor whose fans rioted against his English rival at Astor Place (1800 to 1850)
+- Charlotte Cushman: a Boston-born actress who played men's parts, including Romeo and Hamlet (1850 to 1900)
+- Edwin Booth: a Shakespeare actor who played Hamlet a record hundred nights in a row, brother of John Wilkes Booth (1850 to 1900)
+- Billy Kersands: the most popular Black minstrel comedian of his day, who performed in burnt-cork blackface (1850 to 1900)
+- Lilian St. Cyr (Red Wing): a Ho-Chunk actress who played the leading woman in the first Western made in Hollywood (1900 to 1950)
+- Bert Williams: a Black comedian who wore blackface and starred in an otherwise all-white Broadway show (1900 to 1950)
+- Charlie Chaplin: a London comedian who became a film star around the world by acting without speaking (1900 to 1950)
+- Oscar Micheaux: a Black homesteader and novelist who made more than 40 films for Black audiences (1900 to 1950)
+- Anna May Wong: often called the first Chinese American film star, who protested the parts studios gave her (1900 to 1950)
+- Hattie McDaniel: the first Black person to win an Academy Award (1900 to 1950)
+- Lee Grant: an actress blacklisted for twelve years who later won an Academy Award (1950 to 2000)
+- Lucille Ball: star of *I Love Lucy* and the first woman to run a major television studio (1950 to 2000)
+- Lorraine Hansberry: the first Black woman to have a drama produced on Broadway (1950 to 2000)
+- Rita Moreno: the first Hispanic woman to win an Academy Award (1950 to 2000)
+- Sidney Poitier: the first Black man to win the Academy Award for Best Actor (1950 to 2000)
+- Andy Serkis: the English actor whose performance-capture work as Gollum started an argument about what counts as acting (2000 to Today)
+- Ashley Johnson: the actor who played Ellie in *The Last of Us* with her voice and body (2000 to Today)
+- Ke Huy Quan: a child actor from a refugee family who quit acting and came back to win an Academy Award (2000 to Today)
+- Alexandria Rubalcaba: a background actor scanned into a digital copy with no word on how it would be used (2000 to Today)
+
+## Dates
+- April 30, 1598: Spanish soldiers and priests acted the first European play on record here, beside the Rio Grande
+- 1821: William Brown opened the African Theatre in New York
+- 1828: Thomas Dartmouth Rice first went on stage as "Jim Crow," in blackface
+- February 8, 1915: *The Birth of a Nation* opened in Los Angeles
+- July 14, 2023: SAG-AFTRA's actors began the longest actors' strike against the film and television studios
+- November 16, 1665: Accomack County judges ordered three actors to court in their costumes
+- August 10, 1680: Po'pay started the Pueblo Revolt
+- July 11, 1716: William Levingston's contract with Charles and Mary Stagg to build and act in a Williamsburg playhouse
+- September 15, 1752: Lewis Hallam's company opened in Williamsburg with *The Merchant of Venice*
+- April 24, 1767: *The Prince of Parthia*, the first play by an American writer acted by professionals
+- May 10, 1849: soldiers fired into the crowd at Astor Place, killing at least 22 people
+- April 14, 1865: John Wilkes Booth shot President Lincoln at Ford's Theatre
+- April 14, 1894: the first Kinetoscope parlor opened in New York
+- October 6, 1927: *The Jazz Singer* opened in New York
+- November 24, 1947: members of the House voted to charge the Hollywood Ten with contempt of Congress
+
+## Places
+- Ford's Theatre, Washington, D.C.: the theatre where John Wilkes Booth shot President Lincoln, restored, with its first public performance since that night in 1968
+- Colonial Williamsburg, Williamsburg, Virginia: owns Charles Willson Peale's painting of Nancy Hallam dressed as Fidele
+- Cahokia, Illinois (across the Mississippi from St. Louis): the Grand Plaza of about 47 acres
+- Chaco Canyon, northwestern New Mexico: Casa Rinconada, a great kiva about 63 feet across
+- Faneuil Hall, Boston, Massachusetts: where British officers staged *Zara* in 1775
+- Jim Crow Museum at Ferris State University (no city given in the chapter): its writers' account of blackface minstrelsy
+
+## Movies
+- Prince of Players (1955): no note
+- Chaplin (1992): no note
+- Midnight Ramble: Oscar Micheaux and the Story of Race Movies (1994): no note
+- Being the Ricardos (2021): no note
+- Lorraine Hansberry: Sighted Eyes/Feeling Heart (2017): no note
+- Rita Moreno: Just a Girl Who Decided to Go for It (2021): no note
+- Sidney (2022): no note
+
+## Questions
+- Q: Who tried to stop Americans from acting, and why? A: Spanish priests burned Pueblo masks to end the ceremonies, and lawmakers from Massachusetts to the Continental Congress banned plays as wasteful or bad for morals. Later, police arrested Black actors for playing Shakespeare, federal officials made Native dances crimes, and studio heads blacklisted hundreds of film workers over communism.
+- Q: Why did white actors play Black, Asian and Native people for so long? A: White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. The studio heads' own Code and state laws against marriage between races kept actors of color out of leading parts.
+- Q: Who controls a computer copy of an actor's face and voice? A: Since the strikes of 2023 and 2024 to 2025, union contracts say a studio or game company must get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.
