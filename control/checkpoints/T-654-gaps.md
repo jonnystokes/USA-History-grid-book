@@ -30,7 +30,11 @@ NEXT:   nothing; director sets DONE
 
 ## Decisions and defects fixed
 
+- Follow-up (coordinator): migration part1 '1,100 Acadians' is Marsh's count of people on ships for SC, GA and PA only, no district named; Winslow's table counts 2,242 shipped from Minas (1,510 Winslow + 732 Capt Phineas Osgood's company). Not a contradiction, different scopes. Prose now states both, credited (Marsh; Winslow's table). Bank note added to the T-654 Winslow PATCH.
+
 ## Log
+
+- 2026-10-26 follow-up | migration part1 1,100 vs 2,242 | validator 0 errors | punct 0/0 | --check prose PASS
 
 - 2026-10-26 item 6 | money bank + part3 | validator 0 errors | punct 0/0
 
