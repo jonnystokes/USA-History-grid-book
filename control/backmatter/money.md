@@ -1,0 +1,193 @@
+## Glossary
+
+- barter: trading one thing straight for another (Before 1500)
+- obsidian: a black volcanic glass that can be chipped into sharp blades (Before 1500)
+- wampum: beads made from shell (Before 1500)
+- whelks: large sea snails (Before 1500)
+- quahogs: hard-shelled clams of the Atlantic coast (Before 1500)
+- Haudenosaunee: a league of Native nations in what is now New York State (Before 1500)
+- councils: meetings of leaders (Before 1500)
+- mint: a workshop where coins are made (The 1500s)
+- piece of eight: a Spanish silver coin worth 8 reales, also called the Spanish dollar (The 1500s)
+- reales: Spanish money units (The 1500s)
+- Andes: the high mountains of South America (The 1500s)
+- viceroy: the man who governed Peru for the king of Spain (The 1500s)
+- mita: the system under which Spanish officials forced Native men to work in the mines in turns (The 1500s)
+- legal tender: money the law says people have to accept to pay a debt (The 1500s)
+- bits: the eight parts of a piece of eight, so two bits made a quarter of a dollar (The 1500s)
+- country pay: payment in goods (The 1600s)
+- commodity money: money that is a useful thing in itself (The 1600s)
+- pence, shillings and pounds: English money, with twelve pence to a shilling and twenty shillings to a pound (The 1600s)
+- Massachusetts General Court: the colony's lawmakers (The 1600s)
+- Parliament: England's lawmakers (The 1600s)
+- charter: the legal paper that gives a colony, bank or company the right to exist and states what it may do (The 1600s)
+- silversmith: a craftsman who makes things out of silver (The 1600s)
+- mintmaster: the man in charge of the mint (The 1600s)
+- treasurer: the official in charge of a colony's money (The 1600s)
+- dowry: the money or goods a bride's family gives when she marries (The 1600s)
+- mutiny: an uprising against officers (The 1600s)
+- bills of credit: the paper money Massachusetts lawmakers printed from 1690 (The 1600s)
+- economists: people who study how money and trade work (1700 to 1750)
+- tobacco note: a receipt for inspected tobacco, passed from hand to hand as money (1700 to 1750)
+- planter: a farmer who grew tobacco to sell (1700 to 1750); in Louisiana, the enslavers who ran large farms (1800 to 1850)
+- pamphlet: a short printed booklet (1700 to 1750)
+- counterfeiters: people who make fake money (1700 to 1750)
+- nature printing: printing the shapes of real leaves on bills to stop counterfeiters (1700 to 1750)
+- security: something a borrower promises to hand over if a loan is not paid back (1700 to 1750)
+- bond: a written promise to pay back a loan (1700 to 1750); a paper promise to repay a loan with interest (1800 to 1850)
+- mortgage: a loan in which the borrower pledges property as security, so the lender can take that property if the borrower does not pay (1700 to 1750)
+- chattel: movable property (1700 to 1750)
+- slave broker: a dealer in enslaved people (1700 to 1750)
+- Register of Deeds: the county office that keeps records of land (1700 to 1750)
+- Continental Congress: the men from the thirteen colonies who led the Revolution (1750 to 1800)
+- Continental currency: the paper money members of the Continental Congress printed to pay for the war (1750 to 1800)
+- engraver: a man who cuts designs into metal plates for printing (1750 to 1800)
+- armorer: a man who makes and repairs weapons (1750 to 1800)
+- cropping: cutting off part or all of each ear (1750 to 1800)
+- branding: burning a letter, here C for counterfeiter, into the skin with a hot iron (1750 to 1800)
+- decimal ratio: counting up by tens (1750 to 1800)
+- mill: one tenth of a cent (1750 to 1800)
+- eagle: a ten-dollar gold coin (1750 to 1800)
+- Secretary of the Treasury: the head of the government department in charge of money (1750 to 1800)
+- banknote: paper money printed by a bank (1750 to 1800)
+- veto: a president's refusal to sign a bill (1800 to 1850)
+- interest: an extra payment for the use of borrowed money (1800 to 1850)
+- head: the word for counting cattle, used in an 1824 loan to count enslaved people (1800 to 1850)
+- national bank: a bank chartered by the national government to hold the government's money (1800 to 1850)
+- deposits: money kept in a bank's care (1800 to 1850)
+- pet banks: the state banks Jackson chose for the government's money, as his opponents called them (1800 to 1850)
+- censure: a vote to blame someone officially (1800 to 1850)
+- promissory notes: written promises to pay money later (1800 to 1850)
+- creditors: the people someone owes money (1800 to 1850)
+- debtors' prison: a jail for people who could not pay what they owed (1800 to 1850)
+- speculation: buying something only to sell it later at a higher price (1800 to 1850)
+- discount: the difference between the amount printed on a bank's note and the smaller amount people far from the bank would take it for (1800 to 1850)
+- bank note reporters, counterfeit detectors: printed guides that listed each bank's discount and described the fake notes going around (1800 to 1850)
+- free-banking laws: state laws with few rules for opening a bank (1800 to 1850)
+- wildcat banks: banks set up under free-banking laws, said in the story to stand so far out in the woods that only wildcats lived nearby (1800 to 1850)
+- treaty: a written agreement between nations (1800 to 1850)
+- receiver: an official who takes over a failed bank and pays its debts from what is left (1800 to 1850)
+- state constitution: the state's basic set of laws (1800 to 1850)
+- panic: a time when fear spreads and many people try to get their money out of banks at once (1800 to 1850)
+- run: a rush on a single bank, when people crowd in to trade its notes or their deposits for coins (1800 to 1850)
+- specie: coins of gold and silver (1800 to 1850)
+- greenbacks: the national paper money of 1862, called United States Notes, printed with green ink on the back (1850 to 1900)
+- national banks: banks that got their charters from the national government (1850 to 1900)
+- Office of the Comptroller of the Currency: the government office that oversees national banks (1850 to 1900)
+- passbooks: the small books that recorded depositors' savings (1850 to 1900)
+- deposit insurance: a promise backed by the government to repay people's savings if their bank fails (1850 to 1900)
+- New York Stock Exchange: the market in New York City where people buy and sell shares of companies (1850 to 1900)
+- suspend: to shut a bank's doors or stop paying out cash (1850 to 1900)
+- free silver: the government coining all the silver brought to it, at 16 ounces of silver to 1 ounce of gold (1850 to 1900)
+- bondholders: people who had lent money by buying bonds (1850 to 1900)
+- Crime of '73: the silver side's name for the Coinage Act of 1873 (1850 to 1900)
+- platform: a party's list of positions (1850 to 1900)
+- crucify: to put someone to death by nailing them to a cross (1850 to 1900)
+- gold standard: a dollar backed by gold alone (1850 to 1900)
+- delegates: the party members sent to a convention (1850 to 1900)
+- electoral votes: each state's votes for president, set by its seats in Congress, with more than half needed to win (1850 to 1900)
+- Federal Reserve: a bank for the nation's banks, the central bank of the United States (1900 to 1950)
+- trust company: a kind of bank that took people's deposits and managed their money (1900 to 1950)
+- central bank: a bank that holds other banks' cash and lends to them in a crisis (1900 to 1950)
+- corner a stock: to buy up so much of it that the buyers can set its price (1900 to 1950)
+- Treasury: the government department in charge of its money (1900 to 1950)
+- reserves: the money a bank keeps on hand instead of lending it out (1900 to 1950)
+- embezzlement: taking money a person was trusted to look after (1900 to 1950)
+- pardon: an official act that forgives a crime and ends the punishment (1900 to 1950)
+- deputized: sworn in as temporary officers (1900 to 1950)
+- grand jury: a group of citizens who decide whether to charge people with crimes (1900 to 1950)
+- Negro: the common word of the time for Black people, in the name of the National Negro Business League (1900 to 1950)
+- FDIC, the Federal Deposit Insurance Corporation: the government agency that insures bank deposits (1900 to 1950)
+- liquidity problems: banks' lack of cash on hand to pay depositors (1900 to 1950)
+- bank holiday: Roosevelt's closing of every bank in the country on March 6, 1933 (1900 to 1950)
+- fireside chats: Roosevelt's radio talks (1900 to 1950)
+- executive order: a written order from the president (1900 to 1950)
+- gold certificates: paper notes that could be traded for gold (1900 to 1950)
+- charge card: a card whose holder had to pay the whole bill each month (1950 to 2000)
+- credit card: a card whose holder could pay part of the bill and owe the rest later (1950 to 2000)
+- fraud: cheating to get money or goods (1950 to 2000)
+- mortgages: home loans (1950 to 2000)
+- public assistance: money from a government aid program (1950 to 2000)
+- automated teller machine: a machine that pays out cash without a bank clerk (1950 to 2000)
+- Bretton Woods system: the agreement the governments of many countries made after World War II, under which foreign governments could trade dollars for gold at $35 an ounce (1950 to 2000)
+- fiat money: money backed by no metal and worth what it can buy (1950 to 2000)
+- inflation: prices rising so that each dollar buys less (1950 to 2000)
+- money market fund: a fund that pools many people's money to buy short-term loans to the government and to large companies, a way for small savers to earn more than the legal limit on bank interest (1950 to 2000)
+- Regulation Q: a federal rule that forbade banks to pay more than a set rate of interest on a savings account (1950 to 2000)
+- Treasury bills: short loans to the government (1950 to 2000)
+- federal funds rate: the rate banks charge one another for overnight loans (1950 to 2000)
+- recession: a time when business shrinks and people lose jobs (1950 to 2000)
+- savings and loans, thrifts: businesses that took in people's savings and made long-term home loans at fixed interest rates (1950 to 2000)
+- broke the buck: a money market fund's shares fell below $1 (2000 to Today)
+- negligence: carelessness, in the law's word (2000 to Today)
+- bitcoin: a digital coin that no government and no bank puts out (2000 to Today)
+- Chancellor: the British government's top money official (2000 to Today)
+- bailout: government money given to businesses in trouble (2000 to Today)
+- mining: using a computer to create new bitcoins (2000 to Today)
+- forum: a website where users wrote to one another (2000 to Today)
+- payday loan: a small loan meant to be paid back from the borrower's next paycheck (2000 to Today)
+- annual percentage rate: the cost of a loan over a full year as a share of the amount borrowed (2000 to Today)
+- supply chains: the network of factories, ships and trucks that moves goods (2000 to Today)
+- cryptocurrency: digital money such as bitcoin (2000 to Today)
+- bankrupt: unable to pay what it owed, so it went to court to settle its debts (2000 to Today)
+- wire fraud: cheating people by phone, email or the internet (2000 to Today)
+- conspiracy: a plan made with other people to commit a crime (2000 to Today)
+- money laundering: hiding where money from a crime came from (2000 to Today)
+- stablecoins: digital coins whose makers promise to trade each one for a fixed amount, such as one dollar (2000 to Today)
+- Congressional Research Service: the office that does research for members of Congress (2000 to Today)
+
+## People
+
+- John Hull: Boston silversmith who ran the Massachusetts mint against English law and struck the pine-tree shilling (The 1600s)
+- Benjamin Franklin: Pennsylvania printer who argued for paper money, then printed it with the veins of real leaves to stop counterfeiters (1700 to 1750)
+- Alexander Hamilton: first Secretary of the Treasury, who planned the national bank and the United States Mint (1750 to 1800)
+- Andrew Jackson: president who vetoed the Second Bank's new charter and moved the government's money out of it (1800 to 1850)
+- Alpheus Felch: Michigan bank commissioner, later the state's governor and a US senator, who wrote down the frauds he found in 1838 (1800 to 1850)
+- Emanuel Ninger: sign painter who drew fake money by hand and was caught when his ink ran on a wet bar in 1896 (1850 to 1900)
+- William Jennings Bryan: former congressman from Nebraska who became the Democratic candidate for president in 1896 with his "cross of gold" speech for silver (1850 to 1900)
+- J.P. Morgan: New York banker who ran the rescue in the Panic of 1907 from his own library (1900 to 1950)
+- Lydia Lobsiger: the first depositor paid back by federal deposit insurance, with a $1,250 check dated July 3, 1934 (1900 to 1950)
+- Bruce Bent and Henry Brown: two men who set up the first money market fund, the Reserve Fund (1950 to 2000)
+- Paul Volcker: chairman of the Federal Reserve who stopped the Great Inflation by letting interest rates rise past 20 percent (1950 to 2000)
+- Laszlo Hanyecz: programmer who made the first recorded purchase with bitcoin, two pizzas for 10,000 coins (2000 to Today)
+
+## Dates
+
+- December 1690: Massachusetts lawmakers vote for paper money
+- July 6, 1785: members of Congress vote for a dollar counted in tens
+- December 23, 1913: President Wilson signs the Federal Reserve Act
+- January 1, 1934: federal deposit insurance begins
+- August 15, 1971: President Nixon ends the dollar's last tie to gold
+- 1652: Massachusetts lawmakers set up a mint in Boston without asking anyone in England
+- 1781: in Philadelphia a silver dollar is worth about 100 Continental paper dollars, and people stop using the paper
+- April 2, 1792: the Coinage Act sets up the United States Mint in Philadelphia
+- July 10, 1832: Jackson vetoes a new charter for the Second Bank of the United States
+- May 10, 1837: New York City's banks stop paying out gold and silver for their notes and deposits
+- February 25, 1862: members of Congress pass the Legal Tender Act, the start of the greenbacks
+- June 29, 1874: the Freedman's Savings Bank closes, and about 31,000 depositors never collect anything
+- July 9, 1896: Bryan gives his "cross of gold" speech in Chicago
+- May 31 and June 1, 1921: a white mob attacks Greenwood, the Black district of Tulsa
+- September 16, 2008: the Reserve Primary Fund breaks the buck, and savers run on money market funds
+
+## Places
+
+- National Archives: the Freedman's Savings Bank's signature books and deposit records from 29 branches, which list depositors' names, ages, jobs and family members
+- Morgan Library & Museum, New York City, New York: an exhibition on the Panic of 1907 that describes Morgan's locked-door meeting
+- Charleston County Register of Deeds, Charleston County, South Carolina: hundreds of colonial land mortgages
+- South Carolina Department of Archives and History, South Carolina: thousands of early chattel mortgages, in which enslavers and lenders listed enslaved people as property
+- Philadelphia Mint, Philadelphia, Pennsylvania: where the last pennies made for everyday use were struck on November 12, 2025
+- Greenwood, Tulsa, Oklahoma: the Black district a white mob burned in 1921, which its residents rebuilt
+- Jekyll Island Club, Jekyll Island, Georgia: where six men secretly wrote a plan for a central bank in November 1910
+- St. Augustine, Florida: the Spanish town founded in September 1565 at Seloy, a Timucua village
+
+## Movies
+
+- Benjamin Franklin (2022): a documentary by Ken Burns, shown on PBS, about his whole life, not only his work on money
+- Alexander Hamilton (2007): no note (a documentary in the PBS series American Experience)
+- Andrew Jackson: Good, Evil and the Presidency (2007): a two-hour PBS documentary narrated by Martin Sheen that covers his whole presidency, not only the Bank War
+
+## Questions
+
+- Q: What has stood behind the dollar, and what stands behind it now? A: Silver and gold stood behind it, then gold alone. Since August 15, 1971, only the law and people's trust in the government that prints it have stood behind it.
+- Q: Why did people rush to pull their money out of banks, and who lost when a bank failed? A: A bank keeps only part of its money in cash, so the first in line got paid. Until deposit insurance began in 1934, the rest took the loss, about $1.34 billion from 1930 to 1933.
+- Q: How did enslavers and bankers use enslaved people to raise money? A: Enslavers pledged them for loans, and in the 1830s Louisiana banks lent out their own paper money against them. When the loans went unpaid, the people were sold.
