@@ -471,6 +471,37 @@ surrounded the town of the rape, and that the State Historian's history names th
 took as Arenal. Round 2: confirm from Flint and Flint (trial testimony) and, if confirmed, add
 the name.
 
+### PATCH 2026-10-26 (T-657): Juan de Villegas, what a real source says (and what it does not)
+- University of New Mexico, "A Most Splendid Company" (Richard and Shirley Cushing Flint's
+  database of the expedition's members), "Juan de Villegas," https://coronado.unm.edu/node/7994
+  (opened 2026-10-26): Villegas "was present at the 1540 muster as an unassigned horseman" and
+  served in Lopez de Cardenas's company. "During the Expedition Juan was accused of raping a Pueblo
+  woman, but apparently was not punished due to lack of acceptable evidence." The entry cites the
+  1544 inquiry testimony: Juan de Contreras ("raped an Indian woman", Flint, *Great Cruelties Have
+  Been Reported*, 2002, p. 112) and Melchior Perez ("raped a woman"), and the Cardenas trial record
+  AGI, Justicia, 267, N.3 (testimony of Rodrigo Frias).
+- **What the entry does NOT say:** it names no pueblo for the rape, does not say Arenal, and does
+  not tie Villegas to Castaneda's story of the husband, the horse and the line-up. Castaneda withholds
+  the name of his soldier ("one whom I will not name"). So a real source confirms that witnesses
+  accused Villegas of raping a Pueblo woman during the expedition. No opened source confirms he was
+  Castaneda's soldier.
+- Wikipedia "Tiguex War" (opened 2026-10-26) ties Villegas to the husband's complaint, citing
+  Aguilar et al., eds., *New Mexico and the Pimeria Alta* (University Press of Colorado, 2017), no
+  page given. Wikipedia does not place the rape at Arenal either (it names Arenal only as the town
+  Cardenas attacked afterwards). Legends of America is the only page that says Arenal.
+- How the prose can use it: the prose keeps Castaneda's unnamed soldier and does not say Arenal.
+  If a writer adds Villegas, it must be as a separate accusation: witnesses at the Spanish inquiry
+  a few years later accused a horseman, Juan de Villegas, of raping a Pueblo woman during the
+  expedition, and he was not punished. Never write that he was the soldier in Castaneda's story.
+
+### SEARCHED, NOT FOUND 2026-10-26 (T-657): was the Tiguex rape at Arenal, and was Villegas the soldier?
+Sources checked: UNM "A Most Splendid Company" Villegas entry (above: no pueblo named); Wikipedia
+"Tiguex War" (no pueblo named for the rape); Real Academia de la Historia biography of Garcia Lopez
+de Cardenas (historia-hispanica.rah.es, page text did not load); searches for Flint, *Great Cruelties
+Have Been Reported* and Flint and Flint, *Documents of the Coronado Expedition* (2005) text on the
+village and the husband's complaint (no preview text found); newmexicohistory.org (no page on the
+question returned). The Arenal link stays unconfirmed. Settled unless a new lead names the village.
+
 ---
 
 ## 3. THE 1600s
@@ -570,6 +601,22 @@ upgrade it to "the deadliest."** No source found here does the arithmetic.
   Colony in 1666." Search summaries (tribalextension.org) add that the Connecticut Colony granted the
   500 acres in 1651. Thin source (Wikipedia; the tribe's own history page returned 403). Round 2:
   confirm on the tribe's page or a colonial record.
+  PATCH 2026-10-26 (T-657), Mashantucket 1666 confirmed by a named scholar: Kevin A. McBride
+  (associate professor in the anthropology department, University of Connecticut, Storrs, per the
+  article's author note), "Site Lines: Continuity and Change on the Mashantucket
+  Pequot Reservation," *Connecticut Explored*,
+  https://www.ctexplored.org/site-lines-continuity-and-change-on-the-mashantucket-pequot-reservation/
+  (opened 2026-10-26): "The reservation was established in 1666, one of the earliest reservations
+  in the United States." Between 1650 and 1678 "the Connecticut Colony allowed the Mashantucket
+  Pequots to use several different tracts of land on the east side of the Thames River", among them
+  the Mashantucket tract. So the year and the Connecticut Colony's control of the grant are now on a
+  scholar's page. McBride does not name the General Court or the colony's officers, and gives no
+  acreage for 1666 (search summaries give about 3,000 acres, Wikipedia, and 2,000 acres, an unopened
+  federal document: unconfirmed, not for the prose). Still checked and not opened: the tribe's
+  history page (mptn-nsn.gov/history, 403 again by curl 2026-10-26), the tribe's older history page
+  (drive4diabetes.mptn-nsn.gov, 404), and the 1666 entry in *The Public Records of the Colony of
+  Connecticut* vol. 2 (not opened). The prose sentence "In 1666, leaders of the Connecticut colony
+  set aside a reservation for the Pequot at Mashantucket" stands.
 - **Captives were sold overseas as slaves.** New England colonies shipped Native captives to
   **Barbados, Bermuda, Jamaica, the Azores, Spain, and Tangier in North Africa.** Certificates
   signed by **Plymouth Governor Josiah Winslow and Massachusetts Bay Governor John Leverett**
@@ -1368,6 +1415,21 @@ before the prose stage.** No other chapter has it (grep of outlines/ and researc
   PATCH 2026-10-03 (T-625): Wikipedia, same article, re-opened 2026-10-03: "Despite talk of bringing
   the murderers to justice, no criminal charges were filed and the conflict continued unabated."
   (its note 39). Prose: no one charged any of the militiamen with a crime.
+  PATCH 2026-10-26 (T-657), stronger sources for "no one charged": (1) Florida State University,
+  *Moravian Soundscapes*, chapter 4 "1782," https://moraviansoundscapes.music.fsu.edu/node/31
+  (opened 2026-10-26): "None of the perpetrators were ever brought to justice." It adds that a later
+  investigation "could not locate a single person who would admit to having participated". **Do not
+  copy** its phrase "commissioned by President George Washington": Washington was not president in
+  1782. (2) Equal Justice Initiative, *A History of Racial Injustice* calendar, March 8,
+  https://calendar.eji.org/racial-injustice/mar/8 (opened 2026-10-26): "When the Congress learned of
+  the incident, it ordered an investigation." The investigation was called off because of worry it
+  would "produce a confusion and ill will amongst the people." EJI records no punishment. (3) Search
+  summary only (page behind a bot check, not opened): the editors of *The Papers of James Madison*,
+  Founders Online (National Archives), https://founders.archives.gov/documents/Madison/01-09-02-0237 ,
+  write that "there appears to be no evidence" that anyone responsible was brought to justice by
+  Virginia or Pennsylvania, both of which claimed the militiamen's home district in 1782.
+  Checked and not found: Ohio History Central "Gnadenhutten Massacre" (404 on 2026-10-26). Three
+  sources now agree no one was punished. The prose sentence stands.
 - The missionary **John Heckewelder** later gathered the bones and buried them in a mound at the
   village site, which is on the National Register of Historic Places.
 - **Clinical word for the prose:** scalping is already glossed in 5.1 (the skin and hair cut off
@@ -2850,6 +2912,24 @@ https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026
   "Calley Is Court-Martialed for My Lai Massacre" (opened 2026-10-03): found guilty "by a panel of
   six officers"; "In April, 1974, further reduced it to ten years"; "parole was granted in November"
   1974.
+  PATCH 2026-10-26 (T-657), the court record for the reductions: US Court of Appeals for the Fifth
+  Circuit (en banc), *Calley v. Callaway*, 519 F.2d 184 (decided September 10, 1975), text via vLex,
+  https://case-law.vlex.com/vid/calley-v-callaway-no-884556295 (opened 2026-10-26; CourtListener
+  lists the same case at /opinion/328769/, text not loaded): on March 31, 1971 the court members
+  sentenced Calley "to confinement at hard labor for life." On August 20, 1971 the convening
+  authority approved the findings and sentence "except as to the confinement period which was
+  reduced to twenty years." The Secretary of the Army, "in a separate clemency action commuted the
+  confinement portion of the sentence to ten years" (clemency means a lighter punishment granted
+  by an official). So the court confirms life, then 20 years on August 20, 1971, then 10 years by
+  the Secretary of the Army (Howard Callaway, the named respondent). **Small discrepancy, recorded:**
+  the opinion calls the convening authority "the Commanding General of Fort Benning, Georgia";
+  Wikipedia names Lt. Gen. Albert O. Connor, Commanding General of Third Army. The prose says only
+  "Lieutenant General Albert Connor, the commander who reviewed the case", which fits both; Connor's
+  name rests on Wikipedia. The opinion gives no date for the Secretary's action and nothing on
+  parole; April 1974 and November 1974 stay on EBSCO. Not opened: the Peers report and the Nixon
+  Library (not needed once the court record confirmed the reductions). Prose: the reductions stand.
+  T-657 fixed one date: the prose had Calley "tried" and sentenced on March 29. It now says the
+  panel found him guilty on March 29, 1971 and sentenced him two days later (March 31).
   The Warrant Officer Historical Foundation profile (below) says soldiers "tortured and killed several
   hundred unarmed Vietnamese civilians, mutilating their bodies after they had been murdered." Rape
   at My Lai is widely reported but was not verified from a source read in this pass, so the outline
