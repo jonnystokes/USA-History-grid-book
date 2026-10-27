@@ -1,0 +1,168 @@
+## Glossary
+
+- Mesoamerica: the region that is now Mexico and Central America (Before 1500)
+- Algonquian and Iroquoian: two families of related languages (Before 1500)
+- salt lick: a place where animals lick salt from the ground (Before 1500)
+- native copper: copper found pure in the ground (Before 1500)
+- dugout: a canoe made from one log that builders hollowed out with fire and tools (Before 1500)
+- Eastern Woodlands: the forests that covered the eastern part of the continent (Before 1500)
+- freight: goods being shipped (Before 1500)
+- portage: a crossing over land, carrying the canoes, from one river or lake to the next (Before 1500)
+- travois: two long poles with the load slung between them, dragged by a dog (Before 1500)
+- council house: the building where a town's leaders met (The 1500s)
+- New Spain: the Spanish colony that included Mexico (The 1500s)
+- La Toma: "the taking," the ceremony in which Oñate claimed New Mexico for Spain (The 1500s)
+- El Camino Real de Tierra Adentro: Spanish for "the royal road of the interior," the route from Mexico City to northern New Mexico (The 1500s)
+- shallop: a small open boat (The 1600s)
+- post rider: a man on horseback who carried letters (The 1600s)
+- admirable: in Roger Williams's English, worth wondering at (The 1600s)
+- Court of Assistants: the Massachusetts colony's ruling council (The 1600s)
+- pence: two or more of the small English coins called pennies (The 1600s)
+- charter: a written permission from a government (The 1600s)
+- Puritan: one of the English Christians who started the Massachusetts colony (The 1600s)
+- deacon: a church officer who helps the minister (The 1600s)
+- workhouse: a locked building where people who broke small laws were held and made to work (1700 to 1750)
+- stage line: a wagon or coach carrying passengers along a fixed route between towns (1700 to 1750)
+- corduroy road: logs laid side by side across swampy ground, named after a cloth with raised ribs (1700 to 1750)
+- Six Nations: six Native nations joined in one league, the Iroquois (1700 to 1750)
+- treaty: a written agreement between nations (1700 to 1750)
+- overseer of the highways: a man put in charge of the roads (1700 to 1750)
+- tithables: the people counted for a tax on each person, all free men and all enslaved people 16 and older (1700 to 1750)
+- ford: a shallow place where people and horses can wade across a river (1700 to 1750)
+- turnpike: a road whose owners charge travelers a fee, called a toll, at gates along the way (1750 to 1800)
+- share of stock: a piece of ownership in a company (1750 to 1800)
+- engineered road: a road planned and built to a design, with a prepared surface (1750 to 1800)
+- folly: a foolish project (1800 to 1850)
+- boiler: the tank where water was heated into steam under pressure (1800 to 1850)
+- monopoly: a legal right under which no one else could run the same business there (1800 to 1850)
+- federal government: the national government in Washington (1800 to 1850)
+- canal: a waterway that people dug so boats could travel where no river ran (1800 to 1850)
+- hoggee: a boy who drove the mules that pulled canal boats (1800 to 1850)
+- contractor: a man who ran a section of the work (1800 to 1850)
+- convict: a person serving a prison sentence (1800 to 1850)
+- malaria: a disease that brings high fevers and chills again and again (1800 to 1850)
+- reservation: land set aside for a Native nation (1800 to 1850)
+- reservoir: a lake made to store water (1800 to 1850)
+- overseer: the man in charge of the workers (1800 to 1850)
+- flogging: whipping a person's bare back until the skin splits (1800 to 1850)
+- brine: the salt water used to keep meat (1800 to 1850)
+- entrails: the organs inside the body (1800 to 1850)
+- locomotive: a train engine (1800 to 1850)
+- omnibus: a horse-drawn coach (1800 to 1850)
+- Confederate states: the Southern states that later fought the United States in the Civil War (1800 to 1850)
+- free labor: workers who were not enslaved (1800 to 1850)
+- streetcar: a passenger car that ran on rails laid in the streets (1850 to 1900)
+- bond: a kind of loan (1850 to 1900)
+- extinguish a title: end someone's ownership of land (1850 to 1900)
+- telegraph line: the wire that carried messages by electric signals (1850 to 1900)
+- strike: stopping work to demand better terms (1850 to 1900)
+- payroll: a company's list of the people it paid (1850 to 1900)
+- headman: a man who led a Chinese work gang (1850 to 1900)
+- periauger: a shallow sailboat with two masts (1850 to 1900)
+- commodore: a navy officer who commands a group of ships (1850 to 1900)
+- steamboat pilot: the person who steers the boat (1850 to 1900)
+- leadsman: the crew member who measured the depth of the water (1850 to 1900)
+- fathom: six feet (1850 to 1900)
+- time zone: a region where all clocks show the same time (1850 to 1900)
+- trainmen: the workers who ran the trains (1850 to 1900)
+- coupling: the job of joining railroad cars together (1850 to 1900)
+- brakeman: the crew member who set the brakes and joined the cars (1850 to 1900)
+- patent: the legal right to be the only one to make and sell an invention (1850 to 1900)
+- craze: something that very many people took up at the same time (1850 to 1900)
+- emancipate: set free (1850 to 1900)
+- flying boat: a plane that takes off from and lands on water (1900 to 1950)
+- curator: a collection keeper at a museum (1900 to 1950)
+- union: a group of workers who bargain together with their employer (1900 to 1950)
+- discretion: the power to decide (1900 to 1950)
+- warrant: a paper that allows an arrest (1900 to 1950)
+- NAACP: a civil rights group (1900 to 1950)
+- Interstates: the big highways that join the states (1950 to 2000)
+- public works: projects that the government pays for and the public uses (1950 to 2000)
+- convoy: a group of vehicles traveling together (1950 to 2000)
+- autobahns: Germany's highways (1950 to 2000)
+- disproportionate: more than their share (1950 to 2000)
+- white supremacy and segregation: white rule, and keeping Black and white people apart by law (1950 to 2000)
+- telegram: a short message sent over electric wires (1950 to 2000)
+- "negro": the common word for Black people in Ralph Abernathy's time (1950 to 2000)
+- economists: experts on money, prices and trade (1950 to 2000)
+- stewardess: a woman who served passengers on an airplane, now called a flight attendant (1950 to 2000)
+- lobby: try to talk lawmakers into acting (1950 to 2000)
+- Equal Employment Opportunity Commission: the federal office that handles complaints of unfair treatment at work (1950 to 2000)
+- firebomb: a bomb that starts a fire (1950 to 2000)
+- Ku Klux Klan: a group that used violence against Black people and their supporters (1950 to 2000)
+- Interstate Commerce Commission: the federal officials in charge of trade and travel between states (1950 to 2000)
+- shipping container: a metal box 35 feet long, the size of a truck trailer (1950 to 2000)
+- GPS: the Global Positioning System, which uses signals from satellites to show a GPS device where it is (2000 to Today)
+- Selective Availability: a setting that made GPS less exact for ordinary users until 2000 (2000 to Today)
+- independent contractors: people in business for themselves rather than employees (2000 to Today)
+- California Labor Commissioner: the state office that handles pay disputes (2000 to Today)
+- hearing: a meeting where each side tells its story to an official who decides (2000 to Today)
+- interest: extra money owed for the time someone waited to be paid (2000 to Today)
+- Proposition 22: a law put to California voters directly (2000 to Today)
+- light trucks: pickups, sport utility vehicles (SUVs) and minivans (2000 to Today)
+- tax credit: money taken off what a buyer owes in taxes (2000 to Today)
+- federal grants: money the national government had promised (2000 to Today)
+- cap-and-trade: a state program that makes polluters pay for permits to pollute (2000 to Today)
+- prosecutors: the government lawyers who bring criminal cases (2000 to Today)
+- charge: an accusation, not proof (2000 to Today)
+- settlement: a deal that ends a legal claim (2000 to Today)
+- National Transportation Safety Board: the federal board that investigates crashes (2000 to Today)
+
+## People
+
+- Edward Converse: Puritan settler and deacon who ran the first ferry between Charlestown and Boston (The 1600s)
+- Sarah Kemble Knight: Boston businesswoman whose journal of her 1704 ride is an eyewitness record of the road (1700 to 1750)
+- John Fitch: builder of the first steamboat service anywhere to carry paying passengers on a schedule (1750 to 1800)
+- Robert Fulton: the man who made the steamboat a business that lasted (1800 to 1850)
+- DeWitt Clinton: New York governor who pushed the Erie Canal through while people mocked it (1800 to 1850)
+- James Garfield: 16-year-old canal boat hand in 1848 who later became president (1800 to 1850)
+- Moses Grandy: enslaved boatman on the Dismal Swamp canals who bought his freedom three times and described the men who dug the canals (1800 to 1850)
+- Hung Wah: the leading Chinese headman on the Central Pacific (1850 to 1900)
+- Cornelius Vanderbilt: ferryman who moved his money into railroads and left the largest American fortune of his time (1850 to 1900)
+- Mark Twain (Samuel Clemens): Mississippi River steamboat pilot before he wrote books (1850 to 1900)
+- Frank Sprague: engineer whose 1888 Richmond streetcar system showed that electric streetcars could work in a city (1850 to 1900)
+- Orville and Wilbur Wright: the brothers who flew their powered airplane four times on December 17, 1903 (1900 to 1950)
+- Jack Knight: airmail pilot who flew through a night snowstorm in 1921 to finish the test that kept the airmail going (1900 to 1950)
+- The porters of Miles of Smiles (C. L. Dellums, E. D. Nixon and six other retired Pullman porters, with Rosina Tucker, a porter's wife): described the porters' work in their own words on film in 1982 (1900 to 1950)
+- Irene Morgan: Baltimore war worker who refused to give up her bus seat in 1944 and won her case in the Supreme Court in 1946 (1900 to 1950)
+- Dwight Eisenhower: president who signed the Interstate highway law 37 years after crossing the country in an Army convoy (1950 to 2000)
+- Barbara "Dusty" Roads: American Airlines stewardess who fought the rule that fired women at 32 or when they married (1950 to 2000)
+- Malcom McLean: North Carolina trucking owner who started shipping truck-sized containers by sea in 1956 (1950 to 2000)
+- Barbara Ann Berwick: San Francisco Uber driver whom a California hearing officer ruled to be Uber's employee in 2015 (2000 to Today)
+
+## Dates
+
+- January 1673: the first post rider leaves New York for Boston
+- October 26, 1825: the Erie Canal opens
+- May 10, 1869: Chinese workers lay the last track of the first railroad across the country, at Promontory Summit
+- May 18, 1896: the Supreme Court rules against Homer Plessy in Plessy v. Ferguson
+- June 29, 1956: Eisenhower signs the Interstate highway law
+- September 8, 1565: Pedro Menéndez de Avilés lands at the Timucua town of Seloy, where St. Augustine began
+- 1598: Juan de Oñate's colony brings 83 wagons and carts into New Mexico
+- June 14, 1631: Massachusetts leaders license Edward Converse's ferry
+- 1790: John Fitch's Experiment carries paying passengers on a schedule
+- August 17, 1807: Fulton's steamboat leaves New York City for Albany
+- July 1, 1862: Lincoln signs the Pacific Railroad Act
+- November 18, 1883: railroads in the United States and Canada begin using standard time zones
+- October 1, 1908: the Ford Model T goes on sale
+- June 3, 1946: the Supreme Court rules for Irene Morgan
+- May 14, 1961: mobs attack the Freedom Riders at Anniston and Birmingham, Alabama
+
+## Places
+
+- Golden Spike National Historical Park, Promontory Summit, Utah: marks where the last track of the first railroad across the country was laid in 1869; working copies of the engines Jupiter and No. 119 run there from May to October
+- West End Museum, Boston: a history page on Edward Converse's ferry, which it calls the first on that crossing
+- Baltimore and Ohio Railroad Museum: its page on the Tom Thumb describes the 1830 race with a horse as a legend
+- Smithsonian's National Air and Space Museum: the collection whose curator calls the DC-3 the first airliner able to make money just by carrying passengers
+
+## Movies
+
+- Mark Twain (2001): no note (a Ken Burns documentary about his whole life, shown on PBS in January 2002)
+- Miles of Smiles, Years of Struggle (1982): no note (a documentary by Jack Santino and Paul Wagner, made from the porters' own accounts)
+- Fly With Me (2024): no note (a PBS American Experience documentary about flight attendants, directed by Sarah Colt and Helen Dobrowski, in which Dusty Roads appears)
+
+## Questions
+
+- Q: How much faster and cheaper did travel get? A: On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon. On the first railroad across the country, a coast-to-coast trip took a week instead of four months.
+- Q: Whose land and homes did the new routes take? A: Native nations lost land to them, and in 1862 members of Congress directed federal officials to end Native ownership along the railroad "as rapidly as may be." Highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
+- Q: How did Black travelers fight the laws that made them sit apart? A: They refused to move and went to court: Ida B. Wells sued a railroad in 1884, Homer Plessy lost in the Supreme Court in 1896, and Irene Morgan won there in 1946. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.

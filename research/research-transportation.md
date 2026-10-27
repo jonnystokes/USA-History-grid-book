@@ -218,6 +218,10 @@ Main source, opened and text-extracted: Dr. George J. Svejda, *Irish Immigrant P
 - **Chinese railroad dead, who estimated 100 to 150:** the CPRR Museum is the Central Pacific Railroad Photographic History Museum (cprr.org); the estimate is from researchers on its discussion forum (bank line above, T-238 via immigration).
 - **Air brake, 1869:** Westinghouse's first system used air pressure from a steam-driven pump on the locomotive. Hoses carried the compressed air to each car, and when the engineer opened a valve, the air set the brakes on every car. In 1873 he improved it so a break in the hose line set the brakes by itself. (EBSCO research starter "Westinghouse Patents His Air Brake"; Wikipedia "Railway air brake"; search results 2026-10-03.)
 
+### PATCH 2026-10-27 (T-702): where a reader can see Promontory Summit (furniture: the chapter closing's "Where to go")
+- National Park Service, "Everlasting Steam: The Story of Jupiter and No. 119" (nps.gov/gosp/learn/historyculture/everlasting-steam-the-story-of-jupiter-and-no-119.htm, opened 2026-10-27): the official name is **Golden Spike National Historical Park**; the joining of the rails in 1869 took place "right here at Golden Spike National Historical Park"; the replicas were brought "800 miles here to Promontory Summit, Utah"; the page calls them "the reborn Jupiter and No. 119" (the Central Pacific's Jupiter and the Union Pacific's No. 119, per the Wikipedia search result).
+- National Park Service, "Locomotive Ranger Programs" (nps.gov/gosp/planyourvisit/locomotive-ranger-programs.htm, opened 2026-10-27): "Here, you can see the steam locomotives Jupiter and No. 119." "They operate daily from May 1st through October 14th, except on boiler wash days." (Wikipedia "Golden Spike National Historical Park", search result: the two are replicas; the original engines were scrapped in 1901 and 1903.)
+
 
 ## 8. 1900 to 1950
 
