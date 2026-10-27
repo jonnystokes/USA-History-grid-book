@@ -165,6 +165,11 @@ How the prose can say it: "No record from the 1600s describes a performance by a
 
 ---
 
+### PATCH 2026-10-26 (T-656): the tavern's later name, "Cole's Tavern" (bank only)
+- Henry A. Wise, *Over on the Eastern Shore* (1962), Internet Archive full-text search snippet (item overoneasternsho00wise, read 2026-10-26): the play was given at "the home of Thomas Fowkes, or the tavern of Thomas Fowkes, and that the Thomas Fowkes tavern later became the tavern of John Cole" or as it was later better known, "Cole's Tavern."
+- Robert Leland Johnson, *The Ancestry of Anthony Morris Johnson* (1989), same search (item ancestryofanthon03john): "Traditionally it is called Cole's Tavern, but Pungoteague Tavern would be a more appropriate name." Both rest on Ralph T. Whitelaw, *Virginia's Eastern Shore* (1951), which records "the tavern of Thomas Fowkes" at Pungoteague.
+- So "Cole's Tavern" is a later name for the same building, after John Cole kept it. The spelling "Cowle's" was not found on any opened page: SEARCHED, NOT FOUND. The prose keeps "Fowkes Tavern." No prose change (optional item).
+
 # ERA 04 · 1700 to 1750 (T-269a, 2026-09-28)
 
 ## Anthony Aston
@@ -267,6 +272,12 @@ How the prose can say it: "A crowd tore the theatre down. One modern historian w
 - Yankee: Wikipedia summary (read 2026-10-02): the word may "refer to New Englanders" among other meanings.
 - Peale: Wikipedia, "Nancy Hallam" (raw text read 2026-10-02): "Nancy Hallam is the subject of a famous painting by Charles Willson Peale"; image caption "by Charles Willson Peale, 1771."
 - Valley Forge: McGhee, *JAR* 2024 (re-read 2026-10-02) calls him "Lieutenant Colonel" William Bradford Jr. and quotes the letter on: "The Scenery was in Taste ... and the performance admirable." The recipient of the letter is not named on the page.
+
+### PATCH 2026-10-26 (T-656): who "His Excellency and Lady" were at the Valley Forge *Cato*
+- Nancy K. Loane, *Following the Drum: Women at the Valley Forge Encampment* (Potomac Books, 2009), Internet Archive full-text search snippet (item followingdrumwom0000loan, read 2026-10-26): "... May 11 Martha Washington and her husband attended the camp production of Joseph Addison's Cato, one of the general's favorite plays." Loane quotes the same "very numerous & splendid audience" line from Bradford's letter. The snippets do not show her saying in so many words that "His Excellency and Lady" means the Washingtons, so the prose credits her for the attendance only.
+- Thomas Clark Pollock, *The Philadelphia Theatre in the Eighteenth Century* (1933), same search (item IA41547323_0030): prints Bradford's letter: "Monday Cato was performed before a very numerous and splendid audience. His Excellency and Lady, Lord ..."
+- Mount Vernon Digital Encyclopedia, "Joseph Addison's Cato (1713)," Rob Hardy (curl, read 2026-10-26): says Washington "entertained his men with a production" of *Cato* at Valley Forge. It does not quote the "His Excellency and Lady" line. NPS, "The Women Present at Valley Forge" (https://home.nps.gov/vafo/learn/historyculture/valleyforgewomen.htm , read 2026-10-26): "Lady Stirling joined other officers' wives for the camp production of the play Cato."
+- Prose: keeps Bradford's words and adds "The historian Nancy K. Loane writes that General George Washington and his wife, Martha, attended the play." This closes the T-631 SEARCHED, NOT FOUND line on the same question.
 
 ### SEARCHED, NOT FOUND 2026-09-28 (T-269a): the number of actors in Hallam's 1752 company
 Sources checked: Historic Interpreter blog; Daly 1896; Encyclopedia.com (Gale); Britannica. None gives a count.

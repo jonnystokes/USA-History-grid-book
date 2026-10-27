@@ -90,7 +90,7 @@ On April 29, 1937, at age 41, Carothers killed himself in Philadelphia by taking
 > **Who:** A Black dressmaker from Alabama who made gowns for rich families in Tampa and New York, while the wider public hardly knew her name.
 > **When and where:** Alabama, New York and Tampa, 1898 to 1950.
 
-Ann Lowe made gowns for Jacqueline Kennedy, the actress Olivia de Havilland and the heiress Marjorie Merriweather Post, but she stayed almost unknown to the wider public. She was born about 1898 in Clayton, Alabama, into a family of Black dressmakers. Her great-grandmother was an enslaved woman, and her great-grandfather was a plantation owner.
+Ann Lowe made gowns for Jacqueline Kennedy, the actress Olivia de Havilland and the heiress Marjorie Merriweather Post, but she stayed almost unknown to the wider public. She was born about 1898 in Clayton, Alabama, into a family of Black dressmakers. Her great-grandmother was enslaved on an Alabama plantation, and the man who owned that plantation was Ann's great-grandfather. He held her as his property, and by law she could not refuse him. Their daughter Georgia was Ann's grandmother.
 
 Her mother, Jane, and her grandmother, Georgia, made dresses for well-known families in Montgomery, and Ann learned the trade from them. Her mother died in 1914, when Ann was 16, and Ann took over the business.
 

@@ -435,6 +435,8 @@ In 2022 scientists using the telescope made the first clear detection of carbon 
 <!-- hb-zoom level="span" label="Computers that predict the shapes of proteins" -->
 Scientists at DeepMind, a British lab, showed in 2020 that their program AlphaFold2 could predict the shape of a protein well enough for practical use. A protein is a molecule that does work inside living cells, and its shape sets what it can do. AlphaFold2 is an example of artificial intelligence, or AI: computer software that learns patterns from huge amounts of data. According to the European Molecular Biology Laboratory, free public databases held more than 200 million predicted protein shapes by 2026.
 
+In 2023 staff at the science journal *Nature* surveyed more than 1,600 researchers around the world. Reporting the results, Richard Van Noorden and Jeffrey Perkel wrote that AI tools were becoming more common in science. Many of the researchers expected AI tools to become a central part of their work soon.
+
 In 2024 the Nobel Prize in Chemistry was split in two. Half went to David Baker, an American at the University of Washington, for using computers to design new proteins. The other half went to Demis Hassabis and John Jumper of DeepMind in Britain.
 <!-- /hb-zoom -->
 
