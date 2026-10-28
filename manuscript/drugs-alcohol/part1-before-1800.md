@@ -16,13 +16,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" label="Chapter opening" -->
 **Chapter 28 of 37 · Drugs and Alcohol · 10 eras · about 110 minutes**
 
-**People in this land have used drugs and alcohol for at least 12,000 years, and when Americans turned against a drug, the punishment fell hardest on the people who had the least power.**
+**People in this land have used tobacco for at least 12,000 years, and when Americans turned against a drug, the punishment fell hardest on the people who had the least power.**
 
-Judges in the Massachusetts Bay Colony ordered a colonist named Robert Coles in 1634 to wear a letter D for a year. The D was made of red cloth, set on a white background, and it hung from his neck over his clothes whenever he was among other people. It was his fourth punishment for drunkenness in three years. Governor John Winthrop wrote in his journal that Coles was "now ordered to wear a red D about his neck for a year."
+Judges in the Massachusetts Bay Colony ordered a colonist named Robert Coles in 1634 to wear a letter D for a year. The D was made of red cloth, set on a white background, and it hung from his neck over his clothes whenever he was among other people. It was his fourth punishment for drunkenness in three years. Governor John Winthrop wrote in his journal that Coles, "having been oft (often) punished for drunkenness, was now ordered to wear a red D about his neck for a year."
 
 This chapter follows tobacco, alcohol and other drugs through all ten eras, from a fire pit 12,300 years old to the fentanyl deaths of the 2020s. Again and again a drug is sold freely, then feared, then taxed or banned, and sometimes allowed again.
 
-Each time, look at who gets punished. Coles was a free colonist with the right to vote. The laws that came later fell on Native people, Chinese immigrants, Black Americans and poor drinkers. No member of the Sackler family has been charged with a crime, and the businessman whose Jamaica ginger poisoned thousands never served a day in jail. Look, too, for the people who quit and then helped others quit.
+Each time, look at who gets punished. Coles was a free colonist with the right to vote. The laws that came later fell on Native people, Chinese immigrants, Black Americans and poor drinkers. No member of the Sackler family, which owned the company that made the painkiller OxyContin, has been charged with a crime. The businessman whose ginger medicine left tens of thousands of people unable to use their hands and feet never served a day in jail. Look, too, for the people who quit and then helped others quit.
 
 **Three questions this chapter answers**
 - How long have people here used tobacco, and what did they use it for?
@@ -78,7 +78,7 @@ Native nations in the Southwest made beer and wine before Europeans came, and ot
 
 Europeans learned to use tobacco from the peoples of the Americas in the 1500s and carried the habit home. A French official sent tobacco seeds to the queen of France in 1560, and English colonists at Roanoke smoked it the Algonquian way in 1585. Spanish colonists brought wine with them to Florida.
 
-Most Native people in this land first met alcohol in the 1500s and 1600s, when Europeans arrived. A regular trade in alcohol with Native nations did not begin until about 1650.
+Most Native people in this land first met alcohol in the 1500s and 1600s, when Europeans arrived. A regular trade in alcohol with Native nations began in the 1600s.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why nicotine is named after a Frenchman" -->
@@ -105,9 +105,11 @@ Thomas Hariot studied mathematics and the stars. In 1585 he sailed to Roanoke Is
 
 Hariot wrote that the English "vsed to suck it after their maner" on the island. In today's words, they smoked it the way the Algonquian people did, and they went on smoking it after they came home.
 
-**The killing of Wingina.** On June 1, 1586, men under the English commander Ralph Lane attacked Wingina's village. They shot Wingina and chased him down, and an Irishman named Edward Nugent cut off his head. A week later the English sailed home.
+**The killing of Wingina.** Wingina had let the English build their fort in 1585, and the next year they killed him. On June 1, 1586, men under the English commander Ralph Lane attacked his village. They shot Wingina and chased him down, and an Irishman named Edward Nugent cut off his head. A week later the English sailed home, and Hariot went with them.
 
-Hariot described uppowoc in a book printed in 1588, *A Briefe and True Report of the New Found Land of Virginia*. He died in London on July 2, 1621, of cancer of the nose. The writers of Encyclopedia Virginia state that the cancer was "probably caused by heavy tobacco use."
+Hariot described uppowoc in a book printed in 1588, *A Briefe and True Report of the New Found Land of Virginia*. In it he also wrote that near the end of the colony's year, some of the English had been "too fierce, in slaying some of the people." In the same sentence he wrote that the people had "iustly deserued" (justly deserved) it. He did not name the dead.
+
+Hariot died in London on July 2, 1621, of cancer of the nose. The writers of Encyclopedia Virginia state that the cancer was "probably caused by heavy tobacco use."
 <!-- hb-story:end slug="thomas-hariot-drugs-alcohol" -->
 
 <!-- hb-zoom level="span" label="Spanish wine in Florida" -->
@@ -115,7 +117,7 @@ Pedro Menéndez de Avilés and his Spanish colonists founded St. Augustine, in F
 
 Wine and olive oil came by ship in big Spanish storage jars called olive jars. Historians at the Florida Museum of Natural History write that the two were perhaps even more important to the Spanish than wheat and beef. They also write that the Spanish soon turned to the Timucua for food, cooking pots and wives. Their account does not say whether the Timucua women chose these marriages.
 
-**Alcohol as a gift.** The historian Peter C. Mancall writes that some Europeans surely offered alcohol to Native people when they first met, though no record from this century names a case. No record from the 1500s describes the Spanish trading wine to Native nations as a regular business. Mancall dates the start of a real trade in alcohol to about 1650.
+**Alcohol as a gift.** The historian Peter C. Mancall writes that some Europeans surely offered alcohol to Native people when they first met, though no record from this century names a case. No record from the 1500s describes the Spanish trading wine to Native nations as a regular business.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -127,7 +129,7 @@ Wine and olive oil came by ship in big Spanish storage jars called olive jars. H
 
 Drinking came over on the first English ships, and colony leaders spent the 1600s trying to keep it in bounds. The colonists' first drinks were cider and beer, and they believed alcohol kept the body warm and strong. Their leaders licensed taverns and punished drunks with fines, iron shackles, the stocks and public shame. In Virginia, planters grew tobacco to sell in England, and the smoking habit spread.
 
-**Liquor for furs.** English traders sold rum and French traders sold brandy to Native nations in exchange for furs from about 1650. Colony leaders passed laws against these sales, and traders kept breaking them.
+**Liquor for furs.** English traders sold rum and French traders sold brandy to Native nations in exchange for furs. Colony leaders passed laws against these sales, and traders kept breaking them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Beer, cider and bad water" -->
@@ -153,12 +155,12 @@ If he still kept drinking, the governor and his council, the men who advised him
 <!-- hb-story:start slug="samuel-cole-drugs-alcohol" name="Samuel Cole" movie="" kind="ordinary" status="verified" -->
 ### Samuel Cole
 
-> **Who:** A maker of sugar-coated sweets who kept the earliest tavern in Boston known to have had a license.
+> **Who:** The keeper of the earliest tavern in Boston known to have had a license. He is not Robert Coles, whom Massachusetts judges punished for drunkenness.
 > **When and where:** Boston, in the Massachusetts Bay Colony, 1634 to 1638.
 
 **About twenty Narragansett men ate their peace-treaty meal at his inn.**
 
-Samuel Cole kept the earliest tavern in Boston known to have had a license. Samuel Adams Drake, a historian of Boston's taverns, dates the opening to March 4, 1634. A tavern was then called an ordinary.
+Samuel Adams Drake, a historian of Boston's taverns, dates the opening of Samuel Cole's tavern to March 4, 1634. A tavern was then called an ordinary.
 
 Cole was a comfit-maker, a maker of sugar-coated sweets. He came to Boston in 1630, in the fleet of ships that brought Governor John Winthrop. His ordinary stood on Washington Street, and the house had a brew-house, a building for making beer.
 
@@ -170,20 +172,20 @@ The colony's judges let Cole sell his house as an inn in 1638, and he sold it to
 <!-- hb-story:start slug="robert-coles-drugs-alcohol" name="Robert Coles" movie="" kind="ordinary" status="verified" -->
 ### Robert Coles
 
-> **Who:** A colonist whom judges in Massachusetts punished again and again for drunkenness, the last time by making him wear a red letter D.
+> **Who:** A colonist whom judges in Massachusetts punished four times for drunkenness, the last time by making him wear a red letter D. He is not Samuel Cole, the Boston tavern keeper.
 > **When and where:** Roxbury and Agawam, now Ipswich, in the Massachusetts Bay Colony, 1631 to 1634.
 
 **A paper on his back said DRUNKARD in large letters.**
 
-Judges in Massachusetts punished Robert Coles for drunkenness four times between 1631 and 1634. The last time, they ordered him to wear a red letter D around his neck for a year.
-
-**The first fine.** Coles came to Massachusetts in 1630 with Governor John Winthrop's fleet. In 1631 the colony's judges fined him five marks, about 3 pounds, 6 shillings and 8 pence, for being drunk on the ship *Friendship* and at Winnisimmet, now Chelsea. The *Friendship* was carrying a spiced wine made from honey.
+**The first fine.** Robert Coles came to Massachusetts in 1630 with Governor John Winthrop's fleet. In 1631 the colony's judges fined him five marks, about 3 pounds, 6 shillings and 8 pence, for being drunk on the ship *Friendship* and at Winnisimmet, now Chelsea. The *Friendship* was carrying a spiced wine made from honey.
 
 **The paper.** At Agawam in 1633 he was charged with drunkenness for the third time. He had been drunk, had encouraged John Shatswell's wife to drink, and had urged her to be unfaithful to her husband. The judges fined him 10 pounds and made him stand in public with a paper on his back. On it the word drunkard was written in large letters.
 
-**The red D.** He was drunk again at Roxbury in 1634. This time the judges ordered him to wear a D made of red cloth, set on a white background, hanging from his neck over his clothes. He had to wear it for a year, whenever he was among other people, and they took away his right to vote. Governor Winthrop wrote in his journal that Coles, "having been oft (often) punished for drunkenness, was now ordered to wear a red D about his neck for a year."
+**The red D.** He was drunk again at Roxbury in 1634. This time the judges ordered him to wear the red D for a year, and they took away his right to vote.
 
-**Afterward.** About two months later Coles got back his right to vote. The records show no later charge of drunkenness against him, though the Roxbury church later put him out. He moved to Providence, a town built on land that Roger Williams got in 1636 from the Narragansett leaders Canonicus and Miantonomi. In 1640 Coles helped write the Providence Combination, a written plan for governing the town. He died in Warwick, Rhode Island, in 1655.
+**Afterward.** Coles got back his right to vote about two months later, on May 14, 1634. The records show no later charge of drunkenness against him, though the Roxbury church later put him out.
+
+By 1637 he had moved to Providence, a town built on land that Roger Williams got in 1636 from the Narragansett leaders Canonicus and Miantonomi. Coles was one of the 13 men who first owned land there, and in 1640 he helped write the Providence Combination, a written plan for governing the town. He died in Warwick, Rhode Island, in 1655.
 <!-- hb-story:end slug="robert-coles-drugs-alcohol" -->
 
 <!-- hb-zoom level="span" label="Liquor for furs" -->
@@ -191,7 +193,7 @@ Henry Hudson used liquor to test a group of Mahican leaders in September 1609. H
 
 **Why Hudson did it.** Robert Juet, who kept a journal on the ship, wrote that Hudson and the mate wanted to find out whether the leaders were planning "treacherie," a plan to betray them. In the end one of the men got drunk. Juet wrote that this was strange to the Mahican, "for they could not tell how to take it." The next day the people came back with tobacco and beads for Hudson, and a platter of venison.
 
-**The regular trade.** The historian Peter C. Mancall dates the start of a regular trade in alcohol to about 1650, though some liquor was sold earlier. English traders sold rum to Native nations, and French traders sold brandy, in exchange for furs. Mancall writes that young men who controlled the furs from a season's hunt traded them for liquor, and more families became poor.
+**The regular trade.** The historian Peter C. Mancall dates the start of a regular trade in alcohol to the middle of the 1600s. From 1650 on, he writes, liquor was a common item in the fur trade. English traders sold rum to Native nations, and French traders sold brandy, in exchange for furs. Mancall writes that young men who controlled the furs from a season's hunt traded them for liquor, and more families became poor.
 
 **What the liquor did.** Native and colonial witnesses both wrote down what happened when Native people drank the trade liquor. Drinkers fought each other and members of their own families. Some fell into fires or off cliffs, some drowned, and some killed other people. No one counted the deaths.
 
@@ -275,7 +277,7 @@ Traders from South Carolina had kept carrying rum up the Savannah River all alon
 
 **He drank three "bumpers" with the Hungarian Club and left at ten.**
 
-Dr. Alexander Hamilton kept a diary in 1744 that records how people drank in the taverns of the colonies. He rode 1,624 miles, from Maryland to Maine and back. He had moved to Annapolis in 1738 to work as a doctor, and he had been very sick in 1743. He set out on horseback on May 30, 1744, mainly to get his health back, and reached home on September 27.
+Dr. Alexander Hamilton had moved to Annapolis in 1738 to work as a doctor, and in 1743 he was very sick. Mainly to get his health back, he set out on horseback on May 30, 1744. He rode 1,624 miles, from Maryland to Maine and back, and reached home on September 27.
 
 **Crooked riders.** On May 31, at Tradaway's inn in Maryland, he met "a drunken Club" leaving. Most of the men had climbed onto their horses and sat on them crooked. At an inn near Philadelphia on June 5, the landlady did all the work because the landlord was drunk. Hamilton wrote that the liquor had taken away "the use of his tongue." The landlord sat without moving in a corner, smoking his pipe.
 
@@ -291,7 +293,7 @@ Some of the men, he wrote, thought nothing was finer than being able "to pour do
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 12 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 13 minutes**
 
 Rum made fortunes in the colonies before the Revolution, and whiskey took its place after. By 1770 the colonies had more than 140 rum distilleries, making about 4.8 million gallons a year. Ship captains from Rhode Island carried rum to Africa and traded it for African people to sell into slavery. After the war, Americans switched to whiskey made from their own corn and rye.
 
@@ -313,7 +315,7 @@ Rhode Island had about 30 rum distilleries by 1764, 22 of them in the town of Ne
 
 At least 109 of the 196 died, by the count in Brown University's report on the voyage. Several were children, and one woman hanged herself below deck. When the captives rose up against the crew at sea, Hopkins's men fired on them. The ship's account book records that the crew "Destroyed 8," which means they killed eight people. After that, the account book says, "Some Drowned themselves Some Starved and others Sickened & Dyed."
 
-**The Sugar Act.** The same year, members of the British Parliament cut the tax on foreign molasses to threepence a gallon, in a law called the Sugar Act. Under it, British navy officers who caught smugglers could seize half of the smuggled goods they found.
+**The Sugar Act.** Rum was made from molasses. Since the Molasses Act of 1733, colonial merchants had smuggled molasses from the French islands to avoid its tax of sixpence a gallon. In 1764, the year the *Sally* sailed, members of the British Parliament cut the tax on foreign molasses to threepence a gallon, in a law called the Sugar Act. They also pushed the British navy to stop the smuggling, and navy officers who caught smugglers could seize half of the smuggled goods they found.
 
 **From rum to whiskey.** During the Revolution, British warships stopped much of the shipping, and molasses became costly and hard to get. Scotch-Irish farmers in Pennsylvania, Maryland, western Virginia and western North Carolina made whiskey from rye and corn instead. Before 1800, distillers in Kentucky were shipping whiskey down the rivers to New Orleans.
 <!-- /hb-zoom -->
@@ -336,7 +338,7 @@ One was Handsome Lake, a Seneca man from the Genesee River. In 1799, sick after 
 
 **His chart put water at the top and the gallows at the bottom.**
 
-Benjamin Rush argued that heavy drinking was a disease and an addiction. Before him, most Americans thought a drunkard simply lacked the will to stop. Rush was a Philadelphia doctor, and he had signed the Declaration of Independence.
+Before Benjamin Rush, most Americans thought a drunkard simply lacked the will to stop. Rush argued that heavy drinking was an addiction.
 
 **The book.** In 1785 he published a book about ardent spirits, meaning strong liquor such as rum, gin and whiskey. Its title was *An Inquiry into the Effects of Ardent Spirits Upon the Human Body and Mind*, and some records date the first printing to 1784.
 
@@ -348,26 +350,30 @@ Few people changed their drinking at the time. The historian Mark Lender says th
 <!-- hb-story:end slug="benjamin-rush-drugs-alcohol" -->
 
 <!-- hb-zoom level="span" label="Why farmers went to war over a whiskey tax" -->
-Farmers in western Pennsylvania turned their grain into whiskey and used the whiskey as money. They farmed land that the Shawnee, Delaware and Mingo peoples had used. At Fort Stanwix in New York in 1768, representatives of the Six Nations of the Haudenosaunee had signed that land over to Britain. The Shawnee and Delaware, who lived on much of the land, were at the meeting but did not sign.
+Farmers in western Pennsylvania turned their grain into whiskey and used the whiskey as money. From 1791 some of them fought a new federal tax on whiskey, and in 1794 hundreds of them took up guns against it. The fight is called the Whiskey Rebellion.
 
-**Whiskey as money.** The roads over the mountains to the east were bad, and grain spoiled on the way. Whiskey kept, and it was easier to carry. Coins were scarce on the frontier, so people paid for goods and paid their workers in whiskey.
+**Why whiskey.** The roads over the mountains to the east were bad, and grain spoiled on the way. Whiskey kept, and it was easier to carry. Coins were scarce on the frontier, so people paid for goods and paid their workers in whiskey.
 
-**The tax.** Alexander Hamilton, the Treasury Secretary in charge of the country's money, asked for a tax on whiskey made in the United States in January 1791, to pay the debt from the Revolutionary War. Members of Congress voted it into law. The law set a tax of 7 cents a gallon.
+**Whose land it was.** The whiskey farmers worked land that the Shawnee, Delaware and Mingo peoples had used. Representatives of the Six Nations of the Haudenosaunee had signed that land over to Britain in 1768, at Fort Stanwix in New York. That was an earlier treaty than the one made at the same fort in 1784. The Shawnee and Delaware, who lived on much of the land, were at the meeting but did not sign.
 
-Large distillers could instead pay a flat fee for each still, the equipment used to distill liquor, which came to as little as 6 cents a gallon. A farmer with a small still paid about 9 cents a gallon. The law required payment in coin, which the farmers rarely had.
+**The tax.** Alexander Hamilton, the Treasury Secretary in charge of the country's money, asked for a tax on whiskey made in the United States in January 1791, to pay the debt from the Revolutionary War. Members of Congress voted it into law. The law set the tax at 7 cents a gallon, but big distillers paid less than that and small ones paid more.
 
-**The first attacks.** A gang of armed men in disguise caught Robert Johnson, a new tax collector, at Pigeon Creek in Washington County, Pennsylvania, on September 6, 1791. Some records give the date as September 11. They tarred and feathered him, which meant pouring hot tar on his skin and sticking feathers to the tar. They cut off his hair and took his horse, so he had to walk a long way. Hamilton's 1794 report on the attacks names none of the men.
+A big distiller could instead pay a flat fee for each still, the equipment used to distill liquor, and that came to as little as 6 cents a gallon. A farmer with a small still paid about 9 cents a gallon. The law required payment in coin, which the farmers rarely had.
+
+**Two men tarred and feathered.** A gang of armed men in disguise caught Robert Johnson, a new tax collector, at Pigeon Creek in Washington County, Pennsylvania, on September 6, 1791. Some records give the date as September 11. They tarred and feathered him, which meant pouring hot tar on his skin and sticking feathers to the tar. They cut off his hair and took his horse, so he had to walk a long way. Hamilton's 1794 report on the attacks names none of the men.
 
 Officials sent a man named John Connor to serve court papers on Johnson's attackers. Men seized Connor, whipped him, and tarred and feathered him too. They took his money and his horse, blindfolded him and tied him up in the woods, where he stayed for five hours. No surviving record names who did it.
 
-**Bower Hill.** John Neville, the regional tax inspector, went with David Lenox, a United States marshal, to serve court papers on July 15, 1794. A marshal was an officer who carried out the orders of the national courts. At a farm about 10 miles south of Pittsburgh, men fired warning shots at them.
+**The fight at Bower Hill.** John Neville, the regional tax inspector, went with a United States marshal to serve court papers on July 15, 1794. A marshal was an officer who carried out the orders of the national courts. At a farm about 10 miles south of Pittsburgh, men fired warning shots at them.
 
 The next day, at least 30 men from the Mingo Creek militia surrounded Neville's house, called Bower Hill. Neville shot and killed one of them, Oliver Miller. Neville had the people he enslaved help him defend the house. They could not refuse.
 
-The men came back on July 17, this time between 400 and 600 of them, led by Major James McFarlane, who had fought in the Revolution. After about an hour of shooting, McFarlane called a stop. When he stepped into the open, someone in the house shot and killed him. The records do not say who fired. The attackers burned Neville's house and the quarters where the enslaved people lived.
+The men came back on July 17, this time between 400 and 600 of them, led by Major James McFarlane, who had fought in the Revolution. By then 10 United States soldiers from Pittsburgh had come to defend the house, and Neville had left to hide nearby.
+
+After about an hour of shooting, McFarlane called a stop. When he stepped into the open, someone in the house shot and killed him. The records do not say who fired. The attackers burned Neville's house and the quarters where the enslaved people lived. The soldiers surrendered, and the attackers sent them away.
 
 **Known:** The dead at Bower Hill included McFarlane and one or two other militiamen.
-**Not known:** How many men died there in all, and whether a soldier was among them.
+**Not known:** How many men died there in all, and whether one of the soldiers later died of his wounds.
 
 **The army.** Washington called up 12,950 militiamen from New Jersey, Maryland, Virginia and Pennsylvania. He went with them as far as Bedford, Pennsylvania, and Fort Cumberland, Maryland, then went back to Philadelphia. He left Henry Lee, the governor of Virginia, in command, and Hamilton went along as an adviser. The rebels scattered without a battle. About 12 soldiers died of illness or accidents.
 
@@ -384,13 +390,13 @@ The men came back on July 17, this time between 400 and 600 of them, led by Majo
 
 **His party carried guns, beat drums and burned a tax officer's house.**
 
-Philip Vigol and John Mitchell were the first two Americans found guilty of treason against the United States. Vigol's crime was attacking two officers who collected the whiskey tax. The court report spells his name Vigol. Other records spell it Wigle, Weigel or Wigal.
+The court report spells Philip Vigol's name this way. Other records spell it Wigle, Weigel or Wigal.
 
 **Reigan.** During the rebellion, Vigol went with an armed party, carrying guns and beating drums, to the house of Reigan, a tax officer in Westmoreland County. They forced Reigan to hand over his official papers and made him swear never to collect the tax again.
 
 **Wells.** The same party then rode to the house of Wells, the tax officer in Fayette County, and swore to destroy Wells and his house. Wells had run and hidden. The men ransacked his house, which means they tore through it and wrecked it. Then they burned it, with everything inside, including the tax records. Later they found Wells, locked him up and made him swear to quit his job.
 
-**The trial.** A jury in the United States court in Philadelphia found Vigol guilty of treason in 1795, and the judges sentenced him to death by hanging. At the trial, Justice William Paterson told the jury that fear excused a crime only when a person's life was in real danger at that moment.
+**The trial.** A jury in the United States court in Philadelphia found Vigol guilty of treason in 1795, and the judges sentenced him to death by hanging. At the trial, Justice William Paterson told the jury that fear excused a crime only when a person's life was in real danger at that moment. John Mitchell, the other man found guilty, was also sentenced to hang.
 
 **The pardon.** President Washington pardoned Vigol and Mitchell in November 1795, which means he freed them from their punishment. The records differ on the day, November 2 or November 14. In his yearly message to Congress, Washington wrote, "The misled have abandoned their errors."
 <!-- hb-story:end slug="philip-vigol-drugs-alcohol" -->

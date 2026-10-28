@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 19 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 20 minutes**
 
 Drugs and alcohol came under federal control in the first half of the 1900s, first through labels and then through bans. From 1906, drug makers had to list opium, morphine and alcohol on their labels. From 1915, everyone who sold opium or cocaine had to register and keep records, and Treasury officials, who worked in the department that handles the government's money and taxes, took doctors to court for giving addicts their drug. In 1937 members of Congress taxed marijuana.
 
@@ -29,7 +29,7 @@ Drugs and alcohol came under federal control in the first half of the 1900s, fir
 
 **She walked into Dobson's Saloon carrying rocks.**
 
-Carry Nation smashed saloons in Kansas because officials there did not enforce the state's ban on liquor. Kansas voters had put the ban into their state constitution in 1880, and it took effect in 1881, but saloons stayed open.
+Kansas voters had put a ban on liquor into their state constitution in 1880, and it took effect in 1881, but saloons stayed open.
 
 **Her name.** She was born Caroline Amelia Moore in Garrard County, Kentucky, in 1846. Official records spell her name Carrie. Later she spelled it Carry, and she said her name meant "Carry A Nation for Prohibition."
 
@@ -53,7 +53,9 @@ By official tests, Hostetter's Bitters was 44 percent alcohol. One bottle of a m
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Harrison Act, 1914: doctors and addicts" -->
-Some officials and newspaper writers in these years blamed drug use on Black and Chinese people. A citizens' panel called the Committee on the Acquirement of the Drug Habit wrote in 1903 that if a Chinese man "cannot get along without his dope we can get along without him." In place of "a Chinese man," the panel used an insulting name for Chinese people.
+Members of Congress passed the Harrison Narcotics Act in 1914. Under it, every seller of opium and cocaine had to register with the government and keep records.
+
+**The claims.** In the years before the law passed, some officials and newspaper writers blamed drug use on Black and Chinese people. A citizens' panel called the Committee on the Acquirement of the Drug Habit wrote in 1903 that if a Chinese man "cannot get along without his dope we can get along without him." In place of "a Chinese man," the panel used an insulting name for Chinese people.
 
 **Hamilton Wright.** Theodore Roosevelt named Dr. Hamilton Wright the first United States opium commissioner, the official in charge of the country's work against opium, in 1908. Wright told members of Congress that cocaine was often "the direct incentive to the crime of rape of white women by Negroes." He was claiming that cocaine drove Black men (Negroes, in the word of the time) to rape white women, that is, to force them to have sex.
 
@@ -61,7 +63,7 @@ A *New York Times* headline of 1914 read "Negro Cocaine 'Fiends' Are a New South
 
 **The dispute.** Historians disagree about how much these claims shaped the drug laws. David T. Courtwright writes that cocaine became linked in the public mind with crime sprees, especially by Black men. George Fisher of Stanford Law School points out that the first state cocaine bans, from 1887 to 1898, came before these newspaper stories. He argues that racial hatred came later, in the way police and other officers enforced the laws.
 
-**The law.** Representative Francis Burton Harrison of New York proposed a new federal drug law, and President Woodrow Wilson signed it as the Harrison Narcotics Act on December 17, 1914. It took effect on March 1, 1915. In the law, narcotics meant drugs made from opium or from coca, the plant that cocaine comes from. Everyone who sold or handed out these drugs, including doctors and druggists, had to register, pay a small tax and keep records.
+**The law.** Representative Francis Burton Harrison of New York proposed the law, and President Woodrow Wilson signed it on December 17, 1914. It took effect on March 1, 1915. In the law, narcotics meant drugs made from opium or from coca, the plant that cocaine comes from. Doctors and druggists who handed out these drugs had to register too, and every seller had to pay a small tax.
 
 **Doctors in court.** Treasury officials read the law to mean that a doctor could not give an addict regular doses of a drug, and they took doctors who did to court. The justices of the Supreme Court agreed with them on March 3, 1919, in the case of *Webb v. United States*. A doctor could not write a prescription, a doctor's written order for a drug, for an addict just to keep the addict comfortable. Dr. Webb had written more than 80 morphine prescriptions a week, at 50 cents each.
 
@@ -81,7 +83,9 @@ Americans smoked an average of 54 cigarettes a year each in 1900, by the count o
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Prohibition: the law and the people who wrote it" -->
-Wayne Wheeler of the Anti-Saloon League played a major part in winning a national ban on liquor. Wheeler and other prohibitionists gained support from the fight to win the vote for women. In World War I, League leaders also used Americans' anger at Germany to win support.
+Wayne Wheeler of the Anti-Saloon League played a major part in winning a national ban on liquor. Wheeler and other prohibitionists gained support from the fight to win the vote for women. Frances Willard of the WCTU had joined the two causes in 1879, when she asked for votes for women as a way to protect their homes from drink.
+
+**The war.** In World War I, League leaders also used Americans' anger at Germany to win support. German Americans had been a major force against a ban, and after members of Congress declared war on Germany in April 1917, their protests were ignored.
 
 **The amendment.** Members of Congress approved the Eighteenth Amendment to the Constitution on December 18, 1917. An amendment is a change added to the Constitution. Lawmakers in the 36th state voted for it on January 16, 1919, which made it part of the Constitution. Only the lawmakers of Connecticut and Rhode Island never voted for it.
 
@@ -101,9 +105,7 @@ Wayne Wheeler of the Anti-Saloon League played a major part in winning a nationa
 
 **One Sunday he and his partner made 71 raids in 12 hours.**
 
-Izzy Einstein and his partner Moe Smith arrested thousands of people for breaking the Prohibition law, and most of those people were found guilty. Einstein caught many of them while wearing a disguise.
-
-**Eight languages.** Isidor Einstein was born in 1880 to a Jewish family in Austria-Hungary. He came to the United States around 1901, speaking Yiddish, Hungarian, Polish and German, and some Russian, French, Spanish and Italian. He worked as a salesman and then as a postal clerk, and he struggled to support his family on a clerk's pay.
+**Eight languages.** Isidor "Izzy" Einstein was born in 1880 to a Jewish family in Austria-Hungary. He came to the United States around 1901, speaking Yiddish, Hungarian, Polish and German, and some Russian, French, Spanish and Italian. He worked as a salesman and then as a postal clerk, and he struggled to support his family on a clerk's pay.
 
 **More than 100 disguises.** With no police training, he joined the new federal Prohibition service in 1920. He brought in his friend Moe Smith, who owned a cigar store. The two men said they used more than 100 disguises, among them a streetcar conductor, a gravedigger, a fisherman, an iceman and an opera singer. They usually carried no guns. Sometimes Einstein told a doorman that he was a Prohibition agent. The doorman laughed and let him in.
 
@@ -125,7 +127,9 @@ The writer Daniel Okrent describes the first agent to kill a suspected bootlegge
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Poisoned alcohol and jake leg" -->
-Treasury Department officials under President Calvin Coolidge ordered more poison put into factory alcohol in 1926 and 1927, and the poison killed thousands of people who drank it. Factory alcohol, used for fuel and in factories, had chemicals added to it so that no one could drink it. This is called denatured alcohol. Bootleggers stole it and paid chemists to take the chemicals out.
+Prohibition, the national ban on alcohol, lasted from 1920 to 1933. In 1926 and 1927, Treasury Department officials under President Calvin Coolidge ordered more poison put into factory alcohol, and the poison killed thousands of people who drank it.
+
+Factory alcohol, used for fuel and in factories, had chemicals added to it so that no one could drink it. This is called denatured alcohol. Bootleggers, people who made or sold liquor against the law, stole it, paid chemists to take the chemicals out and sold it as liquor.
 
 **More poison.** The officials then ordered makers to add far more poison. By 1927 the mixes included kerosene, gasoline, benzene and mercury salts, and up to 10 percent methyl alcohol, also called wood alcohol, which blinds and kills people who drink it. *Time* magazine reported in January 1927 that three ordinary drinks of the new mix could cause blindness. The records do not name the official who signed the order.
 
@@ -138,7 +142,9 @@ Treasury Department officials under President Calvin Coolidge ordered more poiso
 
 Seymour Lowman, the Treasury official in charge of Prohibition from 1927 as Assistant Secretary of the Treasury, said drinkers were "dying off fast from poison 'hooch.'" If the result was a sober America, he said, "a good job will have been done." Wayne Wheeler said that a person who drank this alcohol "is a deliberate suicide." Senator Edward I. Edwards of New Jersey called the program "legalized murder."
 
-**Jake leg.** Thousands of people were poisoned in 1930 after they drank Jamaica ginger, a medicine that was 70 to 80 percent alcohol. The poison came from Harry Gross, the president of Hub Products Corporation in Boston, who wanted a cheaper ingredient for his Jamaica ginger. He chose a chemical called TOCP, used in making lacquer, a shiny coating for wood and metal. People at the Celluloid Corporation, which made TOCP, told him it was not poisonous.
+**Jake leg.** Tens of thousands of people were poisoned in 1930 after they drank Jamaica ginger, a medicine that was 70 to 80 percent alcohol. Under Prohibition one form of it could still be bought without a doctor's order, so people drank it to get alcohol.
+
+The poison came from Harry Gross, the president of Hub Products Corporation in Boston, who wanted a cheaper ingredient for his Jamaica ginger. He chose a chemical called TOCP, used in making lacquer, a shiny coating for wood and metal. People at the Celluloid Corporation, which made TOCP, told him it was not poisonous.
 
 TOCP destroys nerve cells in the spinal cord, the bundle of nerves inside the backbone that carries signals from the brain to the body. People who drank Gross's Jamaica ginger lost the use of their hands and feet. They walked with their toes flopping down. People called the illness "jake leg" and the walk the "jake walk." For most of them the damage never healed.
 
@@ -177,7 +183,9 @@ Marijuana is made from the dried leaves and flowers of the cannabis plant. Harry
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Liquor laws and Native nations" -->
-Federal bans on liquor on Native land stayed in force through all of these years. Members of Congress made it a crime in 1910 to bring alcohol onto the land of the Pueblo nations of New Mexico, as a condition of New Mexico becoming a state. That same year Attorney General George Wickersham asked for lighter punishments for Native liquor crimes.
+Federal bans on liquor on Native land stayed in force through all of these years. Members of Congress made it a crime in 1910 to bring alcohol onto the land of the Pueblo nations of New Mexico, as a condition of New Mexico becoming a state.
+
+That same year Attorney General George Wickersham, the nation's top lawyer, asked for lighter punishments for selling, giving or bringing liquor to Native people. He wanted these to be lesser crimes, which his lawyers could charge without a grand jury, a group of citizens who decide whether there is enough proof for a trial. The punishments stayed as they were.
 
 The Native American Church was organized in Oklahoma in 1918. Its members take peyote as a sacred act of worship.
 <!-- /hb-zoom -->
@@ -227,7 +235,9 @@ She died in that room on July 17, 1959, at the age of 44. The cause was heart fa
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Native nations and the end of the federal ban, 1953" -->
-Federal law stopped barring Native people from buying alcohol off their nations' land in 1953. Members of Congress passed a law on August 15 of that year "to eliminate certain discriminatory legislation against Indians," meaning laws that treated Native people worse than others. The ban on liquor on Native land had lasted 20 years longer than national Prohibition.
+Members of Congress changed the federal liquor laws for Native people on August 15, 1953. Since 1834 it had been a federal crime to bring liquor onto Native land. Under later laws it was also a crime to sell or give alcohol to many Native people even off that land. After the 1953 change, Native people could buy alcohol off their land like anyone else.
+
+The law's title states its purpose: "to eliminate certain discriminatory legislation against Indians," meaning laws that treated Native people worse than others. The federal ban on liquor on Native land had lasted 20 years longer than national Prohibition.
 
 **Each nation's choice.** On a nation's own land, a sale of alcohol now had to follow both state law and a law passed by that nation's government, approved by the Secretary of the Interior, the head of the federal department that handles dealings with Native nations.
 
@@ -262,9 +272,7 @@ Nixon signed a law on October 27, 1970, that sorted drugs into five lists, calle
 
 **At times she took as many as 20 pills a day.**
 
-Betty Ford told the whole country in 1978 that she was addicted to pills and to alcohol. Four years later she founded a center to treat people with the same addictions.
-
-**The pills.** A pinched nerve in her neck put her in the hospital for two weeks in 1964. Doctors gave her drugs for the pain, including strong painkillers and Valium, a drug that calms people. At times she took as many as 20 pills a day. She also drank. Her father and her brother Bob had both been addicted to alcohol.
+**The pills.** A pinched nerve in Betty Ford's neck put her in the hospital for two weeks in 1964. Doctors gave her drugs for the pain, including strong painkillers and Valium, a drug that calms people. At times she took as many as 20 pills a day. She also drank. Her father and her brother Bob had both been addicted to alcohol.
 
 **The intervention.** Her family held an intervention, a meeting to ask her to go into treatment, on April 1, 1978, after the Fords had left the White House. On April 11 she checked into the Naval hospital in Long Beach, California. She had arthritis, a disease that makes the joints swell and hurt, and a family spokesman read her statement: "I have found I am not only addicted to the medication I have been taking for my arthritis, but also to alcohol."
 
@@ -294,11 +302,13 @@ Nancy Reagan, the president's wife, began a campaign in the early 1980s, with he
 
 **The 1986 law.** The basketball player Len Bias died from cocaine on June 19, 1986. Afterward, Speaker of the House Tip O'Neill had Democratic leaders write a new drug law, and Reagan signed it on October 27, 1986. In it, members of Congress added $1.7 billion to the fight against drugs and set 29 new minimum prison terms that judges had to give. The law set five years in federal prison for 5 grams of crack, the same as for 500 grams of powder cocaine.
 
-**Who went to prison.** Under the law, a person caught with crack got the same prison term as a person caught with 100 times as much powder cocaine. Most of the people sentenced for crack were Black. In 1992, 91 of every 100 people sentenced in federal court for crack were Black, by the count of the US Sentencing Commission.
+**Who went to prison.** Most of the people sentenced for crack were Black. In 1992, 91 of every 100 people sentenced in federal court for crack were Black and about 3 were white, by the count of the US Sentencing Commission.
 
-Among people who entered treatment for crack in 2004, 53 of every 100 were Black and 38 were white. The historian Elizabeth Hinton writes that Reagan "led Congress in criminalizing drug users, especially African American drug users."
+The people treated for crack were a more mixed group. Of those who entered treatment for crack in 2004, 53 of every 100 were Black and 38 were white. The historian Elizabeth Hinton writes that Reagan "led Congress in criminalizing drug users, especially African American drug users."
 
-**The bag on television.** President George H. W. Bush held up a bag of crack on television on September 5, 1989. He said it had been "seized a few days ago in a park across the street from the White House." Agents of the Drug Enforcement Administration had lured the seller to that park to make the arrest. By 2000 the federal government spent $18.4 billion a year against drugs. Nearly half went to law enforcement, the police and agents who catch lawbreakers, and one-sixth went to treatment.
+**The bag on television.** President George H. W. Bush held up a bag of crack on television on September 5, 1989. He said it had been "seized a few days ago in a park across the street from the White House." It came out later that agents of the Drug Enforcement Administration had been asked to make an arrest there, and that they had to lure the seller to the park to do it. So the sale across from the White House was one the agents had set up.
+
+**The cost.** By 2000 the federal government spent $18.4 billion a year against drugs, more than 200 times the $81 million of 1969. Nearly half went to law enforcement, the police and agents who catch lawbreakers, and one-sixth went to treatment.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="jeffrey-wigand-drugs-alcohol" name="Jeffrey Wigand" movie="The Insider (1999)" kind="famous" status="verified" -->
@@ -310,9 +320,7 @@ Among people who entered treatment for crack in 2004, 53 of every 100 were Black
 
 **He said his company added ammonia to boost nicotine's effect.**
 
-Jeffrey Wigand told the public in 1996 that his former company had changed its tobacco to strengthen the effect of nicotine, the drug in tobacco that makes people addicted.
-
-**Fired.** Wigand trained as a biochemist, a scientist who studies the chemistry of living things. He became vice president for research at Brown & Williamson Tobacco in Louisville, Kentucky, in January 1989. Brown & Williamson fired him on March 24, 1993. That September the company sued him and cut off his health insurance. In November 1993 he signed an agreement not to talk about his work.
+**Fired.** Jeffrey Wigand trained as a biochemist, a scientist who studies the chemistry of living things. He became vice president for research at Brown & Williamson Tobacco in Louisville, Kentucky, in January 1989. Brown & Williamson fired him on March 24, 1993. That September the company sued him and cut off his health insurance. In November 1993 he signed an agreement not to talk about his work.
 
 **Testimony.** Under a judge's order, Wigand gave sworn testimony in Pascagoula, Mississippi, in late November 1995, for the state's lawsuit against the tobacco companies. The company's lawyers got a Kentucky court order against him and sued him for "theft, fraud, breach of contract," which means they said he stole, cheated and broke his agreement with the company. Lawyers for the CBS television network stopped the news program *60 Minutes* from showing an interview with him that November.
 
@@ -334,9 +342,11 @@ Prescriptions of OxyContin for pain not caused by cancer rose from about 670,000
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** Smokers fell from about 42 of every 100 adults in 1965 to about 25 in 1997, while the federal fight against drugs grew from $81 million a year to $18.4 billion and the prison terms for crack fell most heavily on Black Americans.
-**The question this era leaves open:** What would happen to the people taking OxyContin, now that doctors were writing about 6.2 million prescriptions for it a year?
-**Next:** After 2000, overdose deaths from opioids rose for more than twenty years.
+**If you remember one thing:** Federal spending against drugs grew from $81 million a year in 1969 to $18.4 billion in 2000.
+- 1964: A committee of experts working for the Surgeon General reports that smoking causes lung cancer.
+- 1986: A new law gives a person caught with crack the same prison term as one caught with 100 times as much powder cocaine.
+- 1996: The Sackler family's company starts selling the painkiller OxyContin.
+**Next:** After 2000, deaths from opioids, starting with pills such as OxyContin, rose for more than twenty years.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -358,9 +368,9 @@ CDC scientists describe the opioid deaths as coming in three waves. The first wa
 
 **The death rate.** About 6 of every 100,000 Americans died of a drug overdose in 1999, by the CDC's count. The rate rose to about 33 of every 100,000 in 2022 and fell to about 23 in 2024.
 
-**The counts.** The CDC's final counts of overdose deaths from all drugs rose from 70,237 in 2017 to 91,799 in 2020 and 107,941 in 2022. That last figure is about 300 deaths a day. By the CDC's early count, deaths peaked at 112,418 in the 12 months ending in August 2023.
+**The counts.** Overdose deaths from all drugs rose to a peak in 2022 and then fell. CDC scientists give two kinds of count. The final count for a year is published about a year later. The early count is published within months, and the scientists warn that it is often incomplete.
 
-The final count fell to 105,007 in 2023, and opioids were involved in 79,358 of those deaths. In 2024 it fell to 79,384. The CDC's early count for the 12 months ending in April 2026 is 66,937, and opioids were involved in 41,755 of those. CDC scientists warn that their early counts are often incomplete.
+By the final count, overdoses killed 107,941 Americans in 2022, about 300 a day, and opioids were involved in about three of every four of those deaths. The final count for 2024 was 79,384. The early count for the 12 months ending in April 2026 is 66,937.
 
 **Who dies.** Some groups die at far higher rates than others. American Indian and Alaska Native people died of overdoses at a rate of 51.6 of every 100,000 in 2024, by the CDC's count. The rate was 33.8 for Black Americans and 24.7 for white Americans. By age, people aged 35 to 44 died at the highest rate, 44.2 of every 100,000.
 <!-- /hb-zoom -->
@@ -386,11 +396,11 @@ No member of the Sackler family has gone to prison. When Judge Madeline Cox Arle
 
 **The sentence.** Judge Arleo, in Newark, New Jersey, sentenced Purdue to $5.5 billion in fines and penalties for its 2020 guilty plea on April 28, 2026. For nearly seven hours she heard from people harmed by the crisis. More than 40 spoke in court, and more than 200 sent letters.
 
-Ed Bisch's son Eddie died of an overdose in 2001. "Punishment by a fine means 'legal for a price,'" Bisch said. Alexis Pleus said her son Jeff had first been prescribed OxyContin for a football injury, before he died of an overdose. "We still deserve justice, and this isn't it," she said.
+Ed Bisch's son Eddie died of an overdose in 2001. "Punishment by a fine means 'legal for a price,'" Bisch said. Alexis Pleus said her son Jeff had first been prescribed OxyContin for a football injury, before he died of an overdose. "We still deserve justice, and this isn't it," she said. "Your government failed you," Arleo told the families.
 
-**"Your government failed you."** That is what Arleo told the families. Most of the $5.5 billion will never be paid. Federal officials collect $225 million, and Purdue's other money goes to the states and towns it owes. The settlement includes $865 million for people harmed one by one. Many victims said they could not qualify because they could not find their old prescription records.
+**Who gets the money.** Most of the $5.5 billion in fines and penalties will never be paid. Federal officials collect $225 million of it. Purdue's other money goes to the states and towns it owes, as part of the $7.4 billion settlement. Purdue and the Sacklers pay the settlement over 15 years, to fund treatment, prevention and recovery. It includes $865 million for people harmed one by one. Many victims said they could not qualify because they could not find their old prescription records.
 
-**Purdue shuts down.** New York Attorney General Letitia James announced three days after the sentence, on May 1, 2026, that Purdue had shut down. A new company, Knoa Pharma, owned by a charity, took over. Under the settlement the Sacklers must pay $2.9 billion by 2029, and none of them may sell opioids in the United States. The Sackler family has always said it did nothing wrong.
+**Purdue shuts down.** New York Attorney General Letitia James announced three days after the sentence, on May 1, 2026, that Purdue had shut down. A new company, Knoa Pharma, owned by a charity, took over. As part of the $7.4 billion, the Sacklers must pay $2.9 billion by 2029, and none of them may sell opioids in the United States. The Sackler family has always said it did nothing wrong.
 
 **Other companies.** The three largest companies that ship drugs to pharmacies, McKesson, Cardinal Health and AmerisourceBergen, agreed in 2021 to pay up to $21 billion over 18 years. The drug maker Johnson & Johnson agreed to pay up to $5 billion. In 2022 the drug makers Teva and Allergan and the pharmacy chains CVS, Walgreens and Walmart agreed to pay up to about $18.5 billion more among them. Under the settlements, states and towns must spend at least 85 of every 100 dollars they get on the overdose crisis.
 <!-- /hb-zoom -->
@@ -404,9 +414,7 @@ Ed Bisch's son Eddie died of an overdose in 2001. "Punishment by a fine means 'l
 
 **She threw OxyContin bottles into a museum's temple pool.**
 
-Nan Goldin became addicted to OxyContin after a doctor prescribed it, and she overdosed on fentanyl. After treatment, she led protests against the Sackler family, who owned the company that made OxyContin. She told her own story in the magazine *Artforum* in January 2018.
-
-**Addicted.** Goldin is a photographer known for her book of photographs *The Ballad of Sexual Dependency* (1986). A doctor in Berlin prescribed OxyContin for her after surgery on her wrist. "Though I took it as directed I got addicted overnight," she wrote. "I went from three pills a day, as prescribed, to eighteen."
+**Addicted.** Nan Goldin is a photographer known for her book of photographs *The Ballad of Sexual Dependency* (1986). A doctor in Berlin prescribed OxyContin for her after surgery on her wrist. "Though I took it as directed I got addicted overnight," she wrote in the magazine *Artforum* in January 2018. "I went from three pills a day, as prescribed, to eighteen."
 
 **The overdose.** When her doctors stopped prescribing it, she bought pills from a dealer in New York. "When I ran out of money for Oxy I copped dope," she wrote, which means she bought illegal drugs from dealers. "I ended up snorting fentanyl and I overdosed." She waited a year before she went into treatment, because she was afraid of withdrawal, the sickness that comes when the body loses a drug it depends on. Then she spent two and a half months in treatment.
 
@@ -434,7 +442,7 @@ An e-cigarette heats a liquid, usually one with nicotine in it, into a mist that
 
 **The lung injuries.** A lung injury from vaping put 2,807 people in the hospital or killed them in 2019 and early 2020, by the CDC's count. Of them, 68 died. CDC scientists found that vitamin E acetate, a chemical added to illegal marijuana vaping liquids, was strongly linked to the injuries. They linked most cases to those liquids, which most of the sick people had bought from friends, family or dealers. The records do not name who made them.
 
-**Age 21.** President Trump signed a law on December 20, 2019, that raised the age to buy any tobacco product, including e-cigarettes, from 18 to 21. About 5.2 of every 100 middle and high school students vaped in 2025, by the count of a national survey released by the FDA in June 2026.
+**Age 21.** President Trump signed a law on December 20, 2019, that raised the age to buy any tobacco product, including e-cigarettes, from 18 to 21. By 2024 the share of high school students who vaped had fallen to 7.8 of every 100, by the CDC's count. The newest survey, released by the FDA in June 2026, counted middle school and high school students together: 5.2 of every 100 of them vaped in 2025.
 
 **Cigarettes.** About 9.1 of every 100 adults smoked cigarettes in 2025, by the CDC's count, against 42.4 in 1965. Smoking and secondhand smoke, the smoke other people breathe in, still kill more than 480,000 Americans a year, by the CDC's newest count, from 2024.
 <!-- /hb-zoom -->
