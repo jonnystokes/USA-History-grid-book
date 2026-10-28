@@ -122,7 +122,7 @@ Museums, sites and archives the chapters name, grouped by state so you can find 
 - **Catoctin Furnace**: the iron furnace the Johnson brothers built, where at least 271 enslaved African Americans worked, and the cemetery of its African American workers, with burials going back to 1774 (Chapter 13)
 - **Clara Barton National Historic Site, Glen Echo**: Clara Barton's house, built partly from the lumber of the Red Cross buildings at Johnstown (Chapter 27)
 - **Fort McHenry, Baltimore**: the fort the British shelled for 25 hours in 1814 (Chapter 22)
-- **Jefferson Patterson Park and Museum**: its staff say people went on playing chunkey across North America after Cahokia declined around 1500 (Chapter 36)
+- **Jefferson Patterson Park and Museum**: its staff say people went on playing chunkey across North America after Cahokia emptied (Chapter 36)
 - **Maryland Center for History and Culture, Baltimore**: Kühn's portrait of Henry Darnall III with the enslaved boy in a collar (Chapter 32)
 - **Most Holy Redeemer Cemetery, Baltimore**: Henry Gunther's grave (Chapter 22)
 - **Mount Clare Museum House, Baltimore**: the museum whose staff record the history of the Baltimore Iron Works and the enslaved people who worked there (Chapter 13)

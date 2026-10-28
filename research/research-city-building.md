@@ -30,6 +30,15 @@
 ### PATCH 2026-10-03 (T-632): how chunkey was played
 - Illinois State Museum, "Discoidal or Chunkey Stone" (https://story.illinoisstatemuseum.org/content/discoidal-or-chunkey-stone, opened 2026-10-03), quoting Le Page du Pratz's 1720s account of the Natchez: "a man rolled a stone across the ground. When the stone came to rest, other men wagered on who could cast a spear closest to the stone." So chunkey = a game in which one player rolled a stone disk and players threw spears to land closest to where it stopped. (The account is of the Natchez in the 1720s; it describes the game, not a scene at Cahokia.)
 
+### PATCH 2026-10-28 (T-763): when Cahokia emptied (director fact item: a back-matter line gave "around 1500")
+- NPS, "Cahokia Mounds State Historic Site World Heritage Site" (https://www.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm, fetched 2026-10-01, copied from research-styles.md line 50): the Mississippian culture of the mounds "flourished between A.D. 1000 and 1350."
+- National Geographic, "This American Indian metropolis was mysteriously abandoned. Archaeologists want to know why" (https://www.nationalgeographic.com/history/history-magazine/article/this-american-indian-metropolis-was-mysteriously-abandoned-archaeologists-want-to-know-why, fetched with curl 2026-10-28), section "Mysterious decline": "As many as 15,000 people lived in Cahokia at its peak, some estimate, but by 1400 the city was deserted." and "By the 1400s it was abandoned."
+- The other banks agree: research-native-nations.md line 15 (occupied about 700 to 1400, dispersed by about 1350) and research-migration.md line 33 ("By about 1350 its people had dispersed, and it was largely empty by the 1400s").
+- The outlier: Jefferson Patterson Park and Museum (Maryland), Curator's Choice, "Native American Gaming Stones", by Rebecca Morehouse, MAC Lab State Curator, January 2011 (apps.jefpat.maryland.gov/curatorschoice/CCIssues/2011-01.aspx, fetched with curl 2026-10-28): "Even after the city of Cahokia fell in c. 1500 A.D., variations were played throughout North America." The page is about gaming stones and gives no source for that date (it cites Pauketat 2009 only for where chunkey began).
+- Ruling (T-763): most of Cahokia's people had left by about 1350, and the city was empty by about 1400. The JPPM date of about 1500 is not used. Chapter 6's "The people of Cahokia had scattered and left the city by about 1350" stands unchanged. The Jefferson Patterson Park and Museum line in manuscript/_backmatter/05-places.md no longer gives a date for Cahokia (changed by dispatch).
+- Still carrying "around 1500" (outside T-763, for the director): manuscript/sports-play/part1-before-1800.md line 55 and research-sports-play.md line 46.
+- UNESCO's listing (whc.unesco.org/en/list/198/) answered curl with a Cloudflare check page, so it was not read this time.
+
 ## 02 The 1500s
 
 ### St. Augustine and the Laws of the Indies

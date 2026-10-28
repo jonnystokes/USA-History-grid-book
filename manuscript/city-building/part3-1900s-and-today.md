@@ -39,8 +39,10 @@ An earthquake broke the main pipes from San Francisco's reservoirs on April 18, 
 President Woodrow Wilson signed the Raker Act on December 19, 1913. Under it, San Francisco's city officials could build the dam, and no other American city has been allowed to build in a national park for its own use. The members of Congress who passed the Act wrote into it that nobody could make a private profit from that water and power.
 
 Workers finished the O'Shaughnessy Dam in 1923, and by 1934 the full system was carrying water to San Francisco. City officials later sold the dam's electricity to a private company, Pacific Gas and Electric, and people fought in court for decades over whether that broke the Act.
+<!-- /hb-zoom -->
 
-**Federal work crews.** In the 1930s, federal crews laid new water and sewer pipes in cities across the country. They worked for the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, from 1935 to 1943. WPA crews laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
+<!-- hb-zoom level="span" label="Federal work crews of the 1930s" -->
+Federal crews laid new water and sewer pipes in cities across the country in the 1930s. They worked for the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, from 1935 to 1943. WPA crews laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
 
 WPA crews built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports, and they built or improved about 651,000 miles of road. Counts of the WPA's work differ from one record to another, so each of these figures is close but not exact.
 <!-- /hb-zoom -->
