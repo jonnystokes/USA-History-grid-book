@@ -36,10 +36,15 @@ was. Every device below answers one of those.
 
 ## 2. What never changes
 
-The grid stays exactly as it is: 37 chapters in their order, 10 eras in their order, every span
-and story in its era. No chapter, era, span or story moves, merges, splits or is removed. Every
-marker line, era id, story slug, `status=`, `progress=` and record key stays as it is. Each
-chapter still covers only its own subject.
+The grid stays as it is: 37 chapters in their order, 10 eras in their order, every span and story
+in its era. No chapter or era moves, and no span or story leaves its era, merges or is removed. Every
+era id, story slug, `status=`, `progress=` and record key stays as it is. Each chapter still covers
+only its own subject.
+
+Within one era (DECISIONS #54, 2026-10-28), a span or a story may move to a better place in that era,
+a long span may be split into two spans (a new `hb-zoom level="span"` marker with its own label), and
+a span's label may be reworded. When a label changes, update every card line that names it ("Five
+minutes?", "Can skip:"), and run the validator and the build's card check.
 
 Shrinking is allowed only when it makes the book better (DECISIONS #52): a repeated explanation
 cut to a one-line callback, a story box trimmed of its birth-to-death résumé, three hedging
