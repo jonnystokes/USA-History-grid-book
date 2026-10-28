@@ -505,11 +505,17 @@ Hanna-Attisha and her colleagues at Hurley Medical Center told pregnant women an
 **Known:** State health officials counted 10 dead in one report and 12 in another.
 **Disputed:** The official count, because reporters for the PBS program *Frontline* found more deaths from pneumonia that it missed.
 
-**The charges.** None of the officials charged over Flint's water was convicted of a felony, one of the most serious kinds of crime. Michigan's attorney general, the state's top lawyer, charged 15 officials in 2016 and 2017, Busch, Prysby and Earley among them. Seven of them took plea deals for lesser crimes called misdemeanors. In June 2019 the prosecutors who had taken over the cases dropped the charges against the other eight, saying the cases were only partly built.
+**The charges.** None of the officials charged over Flint's water ever went on trial, and no judge sent any of them to jail or prison. Lawyers hired by Michigan's attorney general, the state's top lawyer, charged 15 state and city officials in 2016 and 2017. Seven of them made deals and agreed to help the investigators.
 
-The same prosecutors charged Governor Snyder and eight other officials in January 2021, Earley among them. Snyder faced two counts of willful neglect of duty, knowingly failing to do his job. The state's health director and its chief medical executive each faced nine counts of involuntary manslaughter, causing a person's death through carelessness without meaning to kill.
+All seven had been charged with at least one felony, one of the most serious kinds of crime. Under the deals, each one accepted a single lesser charge, a misdemeanor, without admitting guilt, and the lawyers dropped the rest. Judges later dismissed all seven cases, so none of them has a criminal record from these charges.
 
-**How the cases ended.** A one-judge grand jury, a single judge who decides alone whether to charge someone with a crime, had brought the 2021 charges. The judges of the Michigan Supreme Court ruled in 2022 that this broke the state constitution. The 2021 cases ended on October 31, 2023, with no one found guilty.
+New lawyers took over the cases in 2019. In June they dropped the charges against the other eight, saying the first lawyers had not gone after all the evidence. In January 2021 they brought new charges against nine officials, among them six of those eight and the former governor.
+
+The former governor faced two counts of willful neglect of duty, knowingly failing to do his job. The state's health director and its chief medical executive each faced nine counts of involuntary manslaughter, causing a person's death through carelessness without meaning to kill.
+
+**How the cases ended.** The new lawyers had brought the 2021 charges through a one-judge grand jury, a single judge who decides alone whether to charge someone with a crime. In June 2022 the judges of the Michigan Supreme Court ruled that, under Michigan's laws, such a judge had no power to start a criminal case.
+
+Judges in Genesee County then dismissed all nine cases. The new lawyers declared the cases closed on October 31, 2023. By then the time limit for bringing most of the charges again had run out.
 
 Flint's people sued. U.S. District Judge Judith Levy approved a settlement of $626.25 million on November 10, 2021, for more than 90,000 Flint residents and businesses.
 <!-- /hb-zoom -->
