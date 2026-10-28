@@ -292,7 +292,9 @@ Mary Bedon, an innkeeper with three children, and Catharine Joor, a shopkeeper, 
 <!-- hb-zoom level="span" label="New York, 1741: fires and blame" -->
 Thirteen fires broke out in lower Manhattan in March and April 1741. The first, in March, burned the governor's house and its chapel inside Fort George. Accounts give its date as March 8 or March 18. New York officials claimed that enslaved Black people and poor white people had plotted together to burn the city. A witness named Mary Burton told the court that the fires were such a plot.
 
-Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Counts of the people put to death range from 30 to 34. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there. Chapter 24, Slavery and Freedom, tells the trials and the witnesses in full.
+Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Counts of the people put to death range from 30 to 34. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there.
+
+Historians disagree about whether any plot existed. Judge Horsmanden had offered Mary Burton, a young servant bound to a tavern keeper, an end to her years of service and a reward in money. Other enslaved witnesses spoke after they were promised their lives. Two of the men burned at the stake, Quack and Cuffee, had no lawyers at their trial. Chapter 24, Slavery and Freedom, tells the trials in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="An earthquake in New England, 1727" -->

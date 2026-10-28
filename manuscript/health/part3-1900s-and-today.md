@@ -51,7 +51,7 @@ Mary Mallon was a cook in New York who carried the germs of typhoid, a fever spr
 
 Officials of the New York City Board of Health held her on North Brother Island, in the East River, from 1907. In a letter in June 1909, she wrote that they kept her "a prisoner without being sick nor needing medical treatment." She also wrote, "I have been in fact a peep show for everybody."
 
-The officials let her go after more than two years on the island. They took her back to the island in 1915, and she stayed there until she died on November 11, 1938. She became known as "Typhoid Mary."
+The officials let her go in February 1910, after she signed a promise not to work as a cook again. In October 1914 she took a job as a cook at the Sloane Maternity Hospital, under the name Mary Brown. Early in 1915 typhoid broke out there, and 25 people caught it and 2 died. Health officials found her in March 1915 and sent her back to the island. She stayed there until she died on November 11, 1938, and she became known as "Typhoid Mary."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fewer medical schools, 1910" -->
@@ -249,7 +249,11 @@ Doctors at Johns Hopkins Hospital in Baltimore cut cells from Henrietta Lacks's 
 
 She grew up in Clover, Virginia, in a log cabin that had been slave quarters on a plantation. Her white great-grandfather and great-uncle had owned it. In January 1951 she went to Johns Hopkins with a lump in her womb. Doctors found cancer of the cervix, the opening of the womb. They treated her with radium placed inside her body, and then with X-rays. During her treatments, doctors cut the two samples.
 
-Dr. George Gey grew the cells. They kept dividing, and they were named HeLa, from the first two letters of her first and last names. By 1954 Jonas Salk's team used HeLa cells in its polio vaccine work. Another doctor, Chester Southam, injected HeLa cells into cancer patients, prisoners and healthy people to see whether cancer could be passed on.
+Dr. George Gey grew the cells. They kept dividing, and they were named HeLa, from the first two letters of her first and last names. By 1954 Jonas Salk's team used HeLa cells in its polio vaccine work.
+
+Another doctor, Chester Southam, injected HeLa cells into cancer patients, prisoners and healthy people to see whether cancer could be passed on. He did not tell the people he injected that the cells were cancer cells, and prisoners were hardly free to refuse.
+
+The members of New York's Board of Regents, the state board that licenses doctors, later found Southam guilty of fraud, deceit and unprofessional conduct. Those are legal words for cheating, lying and breaking the rules of his profession. They put him on probation, a trial period under watch, for a year.
 
 She died on October 4, 1951, at 31, after the cancer spread through her body. Her family did not learn about the cells until 1975. In 2021 her family sued a company, Thermo Fisher Scientific, for making money from HeLa cells without her permission, and the two sides settled in 2023.
 <!-- hb-story:end slug="henrietta-lacks" -->

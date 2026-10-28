@@ -126,6 +126,8 @@
 - arson: the crime of setting a fire on purpose (2000 to Today)
 - hypothermia: the body gets so cold that it stops working (2000 to Today)
 - concrete deterioration: concrete breaking down (2000 to Today)
+- defendants: the people and companies being sued (2000 to Today)
+- National Institute of Standards and Technology: a federal science office (2000 to Today)
 
 ## People
 
