@@ -61,6 +61,8 @@
 - aqueduct: a channel built to carry water a long way, as the Croton Aqueduct (1800 to 1850)
 - distributing reservoir: a large basin that held the water and fed it out to the city's pipes (1800 to 1850)
 - tenement: an apartment building put up cheaply to hold as many families as a plot of land would take (1850 to 1900)
+- typhoid fever: a fever caught from food or water dirtied by human waste (1850 to 1900)
+- dysentery: a gut infection that causes bloody diarrhea (1850 to 1900)
 - fill: earth dumped on top, here to raise Chicago's streets over the sewer pipes (1850 to 1900)
 - jackscrew: a screw inside a case that a man turned by hand with a lever, used by the hundreds to lift buildings (1850 to 1900)
 - masonry building: a building of brick or stone (1850 to 1900)
@@ -155,7 +157,7 @@
 - Benjamin Franklin: a Philadelphia printer who helped start the Union Fire Company, the first volunteer fire company in the colonies to protect a whole town (1700 to 1750)
 - Pierre L'Enfant: the French-born engineer who drew the plan of Washington, D.C., and was dismissed in 1792 before it was built (1750 to 1800)
 - Benjamin Banneker: a free Black tobacco farmer and self-taught astronomer whose observations fixed the starting corner of the federal district (1750 to 1800)
-- George Templeton Strong: a young New York lawyer whose diary records the coming of Croton water and his baths at home (1800 to 1850)
+- George Templeton Strong: a young New York lawyer whose diary, kept for forty years, records the coming of Croton water (1800 to 1850)
 - Jacob Riis: a Danish immigrant and police reporter whose flash photographs showed how New York's poor lived (1850 to 1900)
 - Bridget and Joseph Moore: an Irish immigrant couple at 97 Orchard Street whose daughter Agnes Mary died of marasmus at five months in 1869 (1850 to 1900)
 - Frederick Law Olmsted: the designer, with Calvert Vaux, of Central Park (1850 to 1900)
@@ -174,7 +176,7 @@
 - June 22, 1842: Croton water reaches New York City
 - July 25, 1916: New York adopts the first citywide zoning rules
 - 1948: the Supreme Court rules in Shelley v. Kraemer that courts can no longer enforce covenants
-- September 8, 1565: Pedro Menendez de Aviles lands in Florida and places St. Augustine inside the Timucua town of Seloy
+- September 8, 1565: Pedro Menéndez de Avilés lands in Florida and places St. Augustine inside the Timucua town of Seloy
 - March 13, 1653: Stuyvesant and New Amsterdam's officials order the wall that gave Wall Street its name
 - December 1682: Thomas Holme lays out the grid of Philadelphia
 - December 7, 1736: about twenty-five men, Franklin among them, sign the Articles of the Union Fire Company
@@ -214,6 +216,6 @@
 
 ## Questions
 
-- Q: Why do so many American cities have straight streets that cross in a grid? A: People planned them that way: Spain's king ordered a plaza and a grid for every new Spanish town in 1573, Penn had Philadelphia drawn as a grid in 1682, and three men laid one over Manhattan's hills in 1811.
+- Q: Why do so many American cities have straight streets that cross in a grid? A: Town founders chose the grid on purpose, from Spain's town rules of 1573 to Penn's Philadelphia in 1682. The three men who laid a grid over Manhattan in 1811 wrote that square-cornered houses were "the most cheap to build and the most convenient to live in."
 - Q: How did people get clean water into crowded cities? A: City leaders paid for big waterworks after epidemics and fires: steam pumps in Philadelphia in 1801, the Croton Aqueduct in New York in 1842, and a canal that turned Chicago's river around in 1900.
 - Q: Who decided which families could live in which neighborhoods? A: White owners wrote covenants into their deeds and judges enforced them until 1948, federal officials refused to back home loans where Black families lived, and after 1949 city officials cleared about 2,000 neighborhoods.

@@ -14,17 +14,11 @@ Editor's in-development note — not part of the final book; the parser strips i
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 19 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 18 minutes**
 
-New York's officials wrote the first rules for a whole American city on what could be built where in 1916, while white property owners and judges kept Black families out of most neighborhoods. The New York rules divided the city into districts and set a formula for how far a tall building had to step back from the street as it rose. Between 1929 and 1931, builders in New York put up the tallest buildings in the world.
+New York's officials wrote the first rules for a whole American city on what could be built where, and builders in New York went on to put up the tallest buildings in the world. Millions of people moved into American cities in these decades. In 1907 alone, more than a million immigrants came through Ellis Island in New York, and millions of Black Americans moved from the South to cities such as Chicago and Detroit.
 
-Millions of people moved into American cities in these decades. In 1907 alone, more than a million immigrants came through Ellis Island in New York. About 6 million Black Americans left the South between 1910 and 1970.
-
-White property owners wrote clauses into their deeds, the legal papers that record who owns a house, that forbade selling or renting to Black buyers. Judges enforced those clauses, so Black families could find homes in only a few districts, and landlords there charged them more rent for each square foot than white families paid.
-
-Staff at a federal agency, the Home Owners' Loan Corporation, graded the neighborhoods of 239 cities from A to D between 1935 and 1940, by how safe they judged it was to lend money there. If Black families lived in a neighborhood, that all but guaranteed it a D, colored red on the map. Scholars disagree about how much these maps changed lending, but both sides agree that federal officials refused to back home loans in the neighborhoods where Black homeowners lived.
-
-Workers for the Manhattan Project, the Army's secret program to build an atomic bomb, built whole new cities from 1942. One of them, Oak Ridge in Tennessee, went up on land where about 1,000 families had lived and farmed. Army officials took that land in October 1942 and made the families leave. No published map showed Oak Ridge.
+White property owners and judges kept Black families out of most neighborhoods, and federal officials refused to back home loans in the neighborhoods where Black families lived. To build a secret city for the atomic bomb, Army officials took farmland in Tennessee from the families who lived on it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Drinking water for Chicago and San Francisco" -->
@@ -45,6 +39,10 @@ An earthquake broke the main pipes from San Francisco's reservoirs on April 18, 
 President Woodrow Wilson signed the Raker Act on December 19, 1913. Under it, San Francisco's city officials could build the dam, and no other American city has been allowed to build in a national park for its own use. The members of Congress who passed the Act wrote into it that nobody could make a private profit from that water and power.
 
 Workers finished the O'Shaughnessy Dam in 1923, and by 1934 the full system was carrying water to San Francisco. City officials later sold the dam's electricity to a private company, Pacific Gas and Electric, and people fought in court for decades over whether that broke the Act.
+
+**Federal work crews.** In the 1930s, federal crews laid new water and sewer pipes in cities across the country. They worked for the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, from 1935 to 1943. WPA crews laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
+
+WPA crews built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports, and they built or improved about 651,000 miles of road. Counts of the WPA's work differ from one record to another, so each of these figures is close but not exact.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Zoning: rules for what may be built where" -->
@@ -58,7 +56,9 @@ The resolution's height rule depended on the width of the street. A building's f
 
 **The wedding cake.** Architects who followed that formula designed New York's skyscrapers of the next decades as stacked boxes, each one smaller than the one below, and people called the shape a wedding cake. The officials who wrote the resolution meant the setbacks to keep air and sunlight reaching the sidewalks.
 
-Officials in Louisville, Kentucky, used a city law to keep Black families out of white blocks. The law barred Black buyers from buying homes on blocks where most people were white. In 1917, in *Buchanan v. Warley*, the justices of the Supreme Court all agreed that the Louisville law could not stand. William Warley, the Black buyer in the case, was a lawyer for the NAACP, a group that fought for Black Americans' rights. After that ruling, local officials turned to zoning rules that did not name race.
+Officials also used city laws to decide who could live where. In Louisville, Kentucky, a city law barred Black buyers from buying homes on blocks where most people were white.
+
+William Warley led the Louisville branch of the NAACP, a group that fought for Black Americans' rights. He agreed to buy a lot in a mostly white neighborhood so that the law could be tested in court. In 1917, in *Buchanan v. Warley*, the justices of the Supreme Court all agreed that the Louisville law could not stand. After that ruling, local officials turned to zoning rules that did not name race.
 
 Officials in the village of Euclid, Ohio, had banned two-family houses and apartment buildings from parts of the village, so families who could not afford a whole house of their own could not live there. In 1926, in the case *Village of Euclid v. Ambler Realty Co.*, the justices of the Supreme Court ruled that a local government had the power to zone. After the ruling, officials in cities across the country wrote zoning rules.
 <!-- /hb-zoom -->
@@ -93,24 +93,22 @@ The Empire State Building opened on May 1, 1931. It had 102 stories and stood 1,
 The building opened during the Depression, the years of the 1930s when businesses failed and people lost their jobs. Through the Depression the building stood about half empty.
 
 Mohawk ironworkers from Kahnawake and Akwesasne worked on the steel of both the Empire State and Chrysler buildings. From the 1920s to the 1960s, their families lived in a Brooklyn neighborhood that people called Little Caughnawaga, after an older spelling of Kahnawake.
-
-**By 1931:** New York's towers rose in setbacks under its zoning rules, and the Empire State Building stood 1,250 feet tall, the tallest building in the world.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where Great Migration families could live" -->
 The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 500 percent, and New York's roughly doubled.
 
-Black families who arrived could not live wherever they chose. White property owners kept them out of neighborhoods with restrictive covenants, sections written into the deed of a house. A covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey it too.
+Black families who arrived could not live wherever they chose. White property owners kept them out of neighborhoods with restrictive covenants, sections written into the deed of a house, the legal paper that records who owns it. A covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey it too.
 
 Through the 1920s, white owners in Chicago and across the country signed covenants into their deeds, and judges enforced the covenants by ordering owners to obey them. Because of the covenants and the judges, Black families could rent or buy homes in only a few districts. In Chicago that was a strip of the South Side called the Black Belt, which its own residents named Bronzeville. In New York it was Harlem.
 
-The number of people who needed rooms in those districts kept rising. In 1948, in the case *Shelley v. Kraemer*, the justices of the Supreme Court ruled that courts could no longer enforce the covenants.
+**Kitchenettes.** The number of people who needed rooms in those districts kept rising. Landlords in the crowded districts split their flats, or apartments, into smaller units: one apartment became several one-room units, each rented separately. Each unit had a hotplate, a small electric burner for cooking, and the families shared one bathroom. Bronzeville had more than 80,000 of these kitchenettes. For each square foot of floor, families in them paid more rent than white families paid in white neighborhoods.
 
-**Kitchenettes.** Landlords in the crowded districts split their flats, or apartments, into smaller units: one apartment became several one-room units, each rented separately. Each unit had a hotplate, a small electric burner for cooking, and the families shared one bathroom. Bronzeville had more than 80,000 of these kitchenettes. For each square foot of floor, families in them paid more rent than white families paid in white neighborhoods.
+**The 1948 ruling.** In the case *Shelley v. Kraemer*, in 1948, the justices of the Supreme Court ruled that courts could no longer enforce the covenants. The ruling did not stop owners, builders and lenders from refusing Black buyers on their own, and many kept refusing for years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The maps with red lines" -->
-Federal officials set up an agency called the Home Owners' Loan Corporation in 1933, during the Depression. Its staff worked with mortgages, loans to buy a house. They bought more than a million home loans from lenders and replaced each one with a new 15-year loan at 5 percent interest, easier terms than banks then gave. By 1936 they had swapped in new loans for about one in ten home loans outside farms.
+Federal officials set up an agency called the Home Owners' Loan Corporation in 1933, during the Depression, the hard times of the 1930s. Its staff worked with mortgages, loans to buy a house. They bought more than a million home loans from lenders and replaced each one with a new 15-year loan at 5 percent interest, easier terms than banks then gave. By 1936 they had swapped in new loans for about one in ten home loans outside farms.
 
 The same staff made maps of 239 cities between 1935 and 1940, called "Residential Security" maps. They went through each city neighborhood by neighborhood and gave each one a grade for how safe they judged it was to lend money on the houses there.
 
@@ -128,13 +126,11 @@ Researchers at the National Community Reinvestment Coalition compared the old ma
 
 Researchers at the University of Richmond scanned the maps for their Mapping Inequality project and put them online, so anyone can look up what the appraisers wrote about a street.
 
-**Federal work crews.** Crews of the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, worked from 1935 to 1943. They laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
-
-WPA crews built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports, and they built or improved about 651,000 miles of road. Counts of the WPA's work differ from one record to another, so each of these figures is close but not exact.
+**By 1940:** White owners and judges had kept Black families in a few crowded districts for twenty years, and federal staff had shaded nearly every neighborhood where Black families lived red on their lending maps.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Oak Ridge: a secret city on taken farmland" -->
-Brigadier General Leslie Groves, an Army officer, had just taken charge of the Manhattan Project. On September 19, 1942, he approved taking about 59,000 acres along the Clinch River in eastern Tennessee, a site Army officials called "Site X." Officers of the US Army Corps of Engineers took the land in October 1942.
+Brigadier General Leslie Groves, an Army officer, had just taken charge of the Manhattan Project, the Army's secret program to build an atomic bomb. On September 19, 1942, he approved taking about 59,000 acres along the Clinch River in eastern Tennessee, a site Army officials called "Site X." Officers of the US Army Corps of Engineers took the land in October 1942.
 
 **Who lived there.** About 1,000 families lived on that land. Some farmed it, and others lived in its small crossroads communities: Wheat, Elza, Scarboro (also spelled Scarborough) and Robertsville, with New Bethel and New Hope also named. Many of the families had farmed the same ground for generations. Accounts of how many people lived there differ: the Tennessee Encyclopedia states roughly 4,000 people, and other accounts state more than 3,000.
 
@@ -159,13 +155,13 @@ Oak Ridge did not appear on any published map. Los Alamos in New Mexico and Hanf
 > **Who:** A teenager from Nashville whose family moved to a city left off every published map, and who spent the rest of her life there.
 > **When and where:** Oak Ridge, Tennessee, from 1944 until her death in March 2015.
 
-**At her plant, workers were not supposed to say the word "helium."**
+**At nineteen, she hunted leaks in pipes without knowing what they carried.**
 
 Colleen Black was born Colleen Rowan, one of more than ten children in a Nashville family. In 1944 the family moved to Oak Ridge for war work. They lived in a trailer camp. The ground was mud, with boardwalks laid across it, and people needed a pass to get through the gates.
 
 At nineteen, Colleen worked as a leak detector at the K-25 plant. Her employer was Ford, Bacon & Davis, a company hired to do work at the plant. Her job was to find holes in the welded joints of pipes, the places where two pieces of metal had been melted together. She climbed over the pipes with a probe that sensed helium, looking for pinhole leaks.
 
-Helium atoms are small enough to escape through a flaw too fine to see, so where the probe found helium, the weld was leaking. The plant had hundreds of miles of pipe, and the workers were not even supposed to say the word "helium." Years later she said, "I didn't know where those pipes were going, I didn't know what was going through them ... I just knew that I had to find the leak and mark it."
+Helium atoms are small enough to escape through a flaw too fine to see, so where the probe found helium, the weld was leaking. The plant had hundreds of miles of pipe. Even the gas's name was kept quiet: the workers were not supposed to say the word "helium." Years later she said, "I didn't know where those pipes were going, I didn't know what was going through them ... I just knew that I had to find the leak and mark it."
 
 She learned what the plant had been separating only after American forces dropped an atomic bomb on Hiroshima, in Japan, on August 6, 1945. The bomb killed between 90,000 and 166,000 people in the city within two to four months. That count comes from the Radiation Effects Research Foundation, a research group that the United States and Japan run together and that studies the bomb's survivors. An American survey in 1946 recorded a lower count, 70,000 to 80,000. The exact number is not known.
 
@@ -240,11 +236,11 @@ The *Voices of Rondo* oral-history collection records his account, and so do pre
 <!-- hb-zoom level="span" label="Sprawl, and the people who left the old centers" -->
 Levittown, New York, opened in 1947, and by 1951 its builders had put up more than 17,000 houses there. The builders, Levitt and Sons, mass-produced the houses, building the same house over and over. They split the work into 27 steps and trained each crew to do one step. The houses stayed in place, and the crews moved from house to house. At the busiest time, about 30 houses went up in a day.
 
-The houses sold at first for $7,990. The lease for the first houses stated that they could not be "used or occupied by any person other than members of the Caucasian race," meaning white people. In 1960 every family in Levittown was still white.
+The first houses rented for $60 a month, and a renter could buy one for $7,500 after a year. From 1949, the builders sold ranch houses for $7,990. The lease for the first houses stated that they could not be "used or occupied by any person other than members of the Caucasian race," meaning white people. In 1960 every family in Levittown was still white.
 
 Builders at the edges of other cities copied the pattern, and the spreading of cities outward in subdivisions like these came to be called sprawl.
 
-The older cities lost people in the same fifty years. Detroit had 1,849,568 people in 1950 and 951,270 in 2000. St. Louis had 856,796 in 1950 and 348,189 in 2000, a fall of roughly 60 percent. St. Louis kept losing people after that, down to about 300,000 by 2020.
+The older cities lost people in the same fifty years. Detroit fell from about 1.85 million people in 1950 to about 950,000 in 2000, a loss of nearly half. St. Louis fell from about 857,000 to about 348,000, a loss of roughly 60 percent, and it kept shrinking after that, to about 300,000 by 2020.
 
 Real estate agents and speculators, people who buy property to sell it again at a profit, pushed white families to sell and move out, a practice called blockbusting. They frightened white owners into selling cheaply by telling them Black families were moving in. Then they sold the same houses to Black families for much more, often "on contract."
 
@@ -313,11 +309,7 @@ Houston, Texas, went from 596,163 people in 1950 to 1,953,631 in 2000, and by 19
 <!-- hb-zoom level="era" -->
 **Era 10 of 10 · 2000 to today · about 7 minutes**
 
-Downtowns in most big American cities gained people in the 2000s, and in the 2020s many of their office towers began to empty. After the coronavirus pandemic of 2020, many office workers kept working from home. Companies gave up office space, and by 2024 about a fifth of American office space stood empty, more than 900 million square feet in all. Builders have begun turning some of it into apartments.
-
-In the neighborhoods that buyers and lenders have returned to, rents and prices have risen, and some of the people who lived there can no longer afford to stay.
-
-Cities run several degrees hotter than the land around them, and in Miami Beach the sea now floods some streets at high tide. City officials there have raised streets and put in pumps.
+Downtowns in most big American cities gained people in the 2000s, and in the 2020s many of their office towers began to empty. In the neighborhoods that buyers and lenders have returned to, rents and prices have risen, and some of the people who lived there can no longer afford to stay. Cities run hotter than the land around them, and in Miami Beach the sea now floods some streets at high tide.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Downtown living and empty offices" -->
@@ -356,11 +348,11 @@ People then called U Street "Black Broadway." Hundreds of Black-owned businesses
 
 Martin Luther King Jr. was shot and killed in Memphis, Tennessee, on April 4, 1968. James Earl Ray later pleaded guilty to his murder. For the next four days, riots broke out across Washington, and the corner of 14th and U was at the center of them. Thirteen people died, and about 1,200 homes and businesses were damaged.
 
-**Open past curfew.** Stokely Carmichael led the Student Nonviolent Coordinating Committee, a civil rights group. He asked the Alis to keep the Bowl open past the curfew, an order to stay off the streets at night. According to the shop's own history, they did, and they fed police officers and activists. Ben wrote "Soul Brother" in soap on the front window.
+**Open past curfew.** Stokely Carmichael led the Student Nonviolent Coordinating Committee, a civil rights group. He asked the Alis to keep the Bowl open past the curfew, an order to stay off the streets at night. According to the shop's own history, they did, and they fed police officers and activists. Ben wrote "Soul Brother" in soap on the front window. Like many other Black business owners, he wrote it to mark the diner as Black-owned and keep rioters from wrecking it, and the diner came through the riots untouched.
 
 Drug dealing at 14th and U rose sharply in the mid-1970s. From 1986 to 1991, crews digging the Metro, Washington's subway, tore up U Street. From the 1990s, buyers and lenders returned, and the new condominiums went up around the Bowl.
 
-Ben's is still open, and Virginia Ali, in her nineties, is still one of the people who run it. She talks openly in interviews about how the neighborhood around the diner has changed.
+Ben's is still open, and Virginia Ali, in her nineties, is still one of the people who run it. When the diner turned 65 in 2023, she told a reporter: "We really mean something to this community."
 <!-- hb-story:end slug="virginia-ali" -->
 
 <!-- hb-zoom level="span" label="Building for heat and water" -->
@@ -387,11 +379,13 @@ One World Trade Center is the tallest building in the Western Hemisphere, the ha
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- Why do so many American cities have straight streets that cross in a grid? People planned them that way: Spain's king ordered a plaza and a grid for every new Spanish town in 1573, Penn had Philadelphia drawn as a grid in 1682, and three men laid one over Manhattan's hills in 1811.
+- Why do so many American cities have straight streets that cross in a grid? Town founders chose the grid on purpose, from Spain's town rules of 1573 to Penn's Philadelphia in 1682. The three men who laid a grid over Manhattan in 1811 wrote that square-cornered houses were "the most cheap to build and the most convenient to live in."
 - How did people get clean water into crowded cities? City leaders paid for big waterworks after epidemics and fires: steam pumps in Philadelphia in 1801, the Croton Aqueduct in New York in 1842, and a canal that turned Chicago's river around in 1900.
 - Who decided which families could live in which neighborhoods? White owners wrote covenants into their deeds and judges enforced them until 1948, federal officials refused to back home loans where Black families lived, and after 1949 city officials cleared about 2,000 neighborhoods.
 
 **What changed:** Builders went from carrying baskets of earth at Cahokia to raising steel towers, and owners, judges and officials wrote rules about who could live where.
+
+**Whose land:** Every colonial town and boomtown in this chapter went up on a Native nation's land, from Seloy's Timucua town at St. Augustine to the Lenape homeland at Philadelphia and the Potawatomi lands at Chicago.
 
 **Five dates to keep**
 - About 1100: Cahokia reaches its peak.

@@ -14,9 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 12 minutes**
 
-Running water and electric power reached most American homes between 1900 and 1950, city homes first and many farm homes decades later. In the Great Depression, the hard times of the 1930s, families who could not pay their home loans lost their houses.
-
-Federal officials, the officials of the national government, then changed home loans so that a family could pay for a house month by month over many years. They also rated the neighborhoods where Black people lived as the worst risk, and they usually refused to back loans there. In 1947 the first families moved into Levittown, a new suburb on Long Island, New York.
+Running water and electric power reached most American homes between 1900 and 1950, city homes first and many farm homes decades later. After the Great Depression, the hard times of the 1930s, federal officials made home loans easier to pay off, but they usually refused to back loans in the neighborhoods where Black families lived.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why washday took more than a day" -->
@@ -24,17 +22,17 @@ Without running water or electric power, washing a family's clothes by hand took
 
 Then the washer boiled the clothes in a pot with soap and soda to kill lice, stirring them with a wooden stick called a dolly. After rinsing the clothes, the washer hung them out to dry, with the whites in the sun to bleach them. Last came the ironing, with flatirons, solid metal irons heated over the coals and held with a rag around the handle.
 
-**Pipes and wires.** Some homes got water pipes and electric wires long before others. By 1940, 74 of every 100 American homes had running water and 83 had electric lights, while more than half were heated with coal and another quarter with wood. By 1950, 83 of every 100 households had running water and 94 had electricity. Most of the homes without running water were in the country.
+**Pipes and wires.** Water pipes and electric wires reached city homes first and farm homes decades later. In 1940, 74 of every 100 American homes had running water, and by 1950, 83 did. Officials of the Census Bureau, the federal office that counts the country's people and homes, found that more than one home in three had no flush toilet in 1940. Most of the homes without running water were in the country.
 
-Officials of the Census Bureau, the federal office that counts the country's people and homes, counted a home as having complete plumbing only if it had three things: hot and cold running water, a bathtub or shower, and a flush toilet. In 1940 nearly half of American homes lacked complete plumbing, and more than one home in three had no flush toilet. In about ten states, the share without complete plumbing was near 70 percent or higher.
+Electric power spread the same way. By 1950, 94 of every 100 households had it, but farms came last: fewer than 11 of every 100 farms had electric power in 1935, and about 9 in 10 had it by 1950.
 
-Farms got electric power later than city homes. Fewer than 11 of every 100 farms had it in 1935, about half by 1945, and about 9 in 10 by 1950.
+**From icebox to refrigerator.** In 1930, 14 of every 100 households had a modern refrigerator, and by 1950, 80 did. A family without one used an icebox, a cabinet cooled by a block of ice, and relied on the iceman's deliveries, on milk brought each day and on canned food. The refrigerator ended the iceman's rounds and the daily trip to buy fresh food.
 
-Families also changed how they kept food cold. Of every 100 households, 14 had a modern refrigerator in 1930, 44 in 1940 and 80 in 1950. Households without one used an icebox, a cabinet cooled by a block of ice, and they relied on milk delivered each day, on canned food and on stores that sold fresh food.
+**Cowan's argument.** The historian Ruth Schwartz Cowan studied what the new machines did to a housewife's work. In her 1983 book *More Work for Mother*, she argued that washing machines, vacuum cleaners and other new conveniences mostly replaced work that servants, children and men had done before. She wrote that a housewife of 1950 kept a middle-class home clean and comfortable by herself, work that a household of 1850 had needed three or four workers to do.
 
-**Cowan's argument.** The historian Ruth Schwartz Cowan studied what the new machines did to a housewife's work. In her 1983 book *More Work for Mother*, she argued that the machines mostly replaced work that servants, children and men had done before. At the same time, families expected clothes washed more often, houses kept cleaner and more cooking done.
+At the same time, families expected clothes washed more often, houses kept cleaner and more cooking done. So, in Cowan's argument, the housewife's own hours of work did not fall. Census counts record one part of the change: the number of domestic servants fell by 32 percent between 1940 and 1950.
 
-So, in Cowan's argument, the housewife's own hours of work did not fall. Another scholar, Joel Mokyr, took up her argument in a paper called "Why Was There More Work for Mother?" Census counts record one part of the change: the number of domestic servants fell by 32 percent between 1940 and 1950.
+**Mokyr's answer.** Another scholar, Joel Mokyr, agreed that the hours did not fall, and in 2000 he gave a reason. In the late 1800s, scientists showed that germs cause many diseases. Doctors and nurses then told housewives that keeping germs out of the house would keep their families healthy, so, Mokyr wrote, housewives cleaned more.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bungalows, and houses sold by catalog" -->
@@ -46,7 +44,7 @@ Sears, Roebuck and Company sold whole houses by catalog from 1908 to 1940. A buy
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Rogarshevskys and the tailor's disease" -->
-When Abraham Rogarshevsky died of tuberculosis on July 17, 1918, his widow kept the family in its tenement home by working for the building and renting out space. The Rogarshevskys were a Jewish family from Lithuania who had lived since about 1908 at 97 Orchard Street in New York, a tenement of small apartments rented to working families.
+When Abraham Rogarshevsky died of tuberculosis on July 17, 1918, his widow kept the family in its tenement home by working for the building and renting out space. The Rogarshevskys were a Jewish family from Lithuania who had lived since about 1908 at 97 Orchard Street in New York.
 
 Tuberculosis, a disease caused by a germ, usually infects the lungs, and it spreads through the air when a sick person coughs or talks. People then called it "the tailor's disease." After Abraham died, his widow, Fanny, became the building's janitor, the worker who cleaned the building and kept it in repair. She also took in boarders, people who paid to live in the family's rooms.
 <!-- /hb-zoom -->
@@ -60,11 +58,9 @@ At the end, the borrower owed the whole amount at once. Buyers usually had to pa
 
 Members of Congress set up the Federal Housing Administration, or FHA, in 1934. FHA officials insured home loans, which means they promised to repay the lender if the family could not. Those loans ran 20 to 25 years and needed only a small down payment. After the Second World War the 30-year loan became the usual kind.
 
-**Graded by color.** HOLC staff graded neighborhoods in many American cities between 1935 and 1940. They worked with local bank loan officers, city officials, real estate agents and appraisers, the people whose job is to judge what a property is worth. Each neighborhood got a letter and a color. A was green, for "Best," and B was blue, for "Still Desirable." C was yellow, for "Definitely Declining," and D was red, for "Hazardous."
+**Graded by color.** Chapter 6 tells the story of the HOLC maps. Between 1935 and 1940, HOLC staff graded city neighborhoods with help from local bank loan officers, real estate agents and appraisers, the people whose job is to judge what a property is worth. Each neighborhood got a grade from A, "Best," down to D, "Hazardous," and the staff shaded the D neighborhoods red. Refusing loans in a neighborhood came to be called redlining, after those red areas.
 
-FHA officials used maps of their own. They rated neighborhoods where Black people lived "D" and usually refused to insure loans there. People call this redlining, after the red line drawn around such a neighborhood to cut it off from loans.
-
-Researchers at the National Community Reinvestment Coalition studied 115 of the HOLC maps. Of the neighborhoods graded "Hazardous," they found that 74 of every 100 are low or moderate income today, and nearly 64 of every 100 are neighborhoods where most people belong to racial or ethnic minority groups.
+FHA officials used a rating system of their own. They too rated neighborhoods where Black people lived "D," and they usually refused to insure loans there. The story of Clyde Ross, in 1950 to 2000, shows what that meant for one family.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Depression households" -->
@@ -79,7 +75,7 @@ Landlords there split apartments into one-room units called kitchenettes and cha
 Some buildings had no proper heat. Families lit kerosene lamps, and the stoves they rigged up often overheated and started fires. In one year, about 751 fires broke out in the Black Belt. The writer Richard Wright recorded this life in his 1941 book *12 Million Black Voices*.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Spanking and the new advice" -->
+<!-- hb-zoom level="span" label="Expert advice, and parents' letters about hitting" -->
 Many parents of the 1920s and 1930s began to take advice from experts on child development and psychology, the study of the mind and of how people behave. John B. Watson's 1928 book, *Psychological Care of Infant and Child*, sold 100,000 copies within months.
 
 Watson told parents: "Never hug and kiss them. Never let them sit in your lap." He went on: "If you must, kiss them once on the forehead when they say goodnight." He advised them to "shake hands with them in the morning."
@@ -92,7 +88,7 @@ The parents wrote more about how useful hitting was than about a child's right t
 <!-- hb-zoom level="span" label="The teenager, and the war at home" -->
 A new word for a stage of life came into use in these years: teenager. More children stayed in high school instead of going to work, and that is part of why people began to see the teenage years as a stage of their own.
 
-Writers had printed "teen ager," as two words, as early as 1913. A 1941 article in *Popular Science* printed "teen-agers," and this is usually named as the first use in print as a single word. The word spread in the late 1940s, when advertisers used it to sell goods to young people.
+Writers had printed "teen ager," as two words, as early as 1913. A 1941 article in *Popular Science* printed it with a hyphen, as "teen-agers," and this is usually named as the first time it appeared in print as one word rather than two. The word spread in the late 1940s, when advertisers used it to sell goods to young people.
 
 **The war at home.** During the Second World War, individuals and families moved to cities with war factories to take well-paid jobs, and more Americans moved from one part of the country to another than in any earlier period. Richmond, California, grew from fewer than 24,000 people to more than 100,000 during the war.
 
@@ -124,13 +120,13 @@ After the Tenement Museum was founded in 1988, Josephine Baldizzi came back to 9
 > **Who:** The first family to move into Levittown, with their 14-month-old twin daughters, Patricia Ann and Betty Ann.
 > **When and where:** October 1, 1947, 67 Bellmore Road, Levittown, Long Island, New York.
 
-**Levittown's lease let only white people live in its houses, except servants.**
+**Levittown's lease allowed only white families, and servants of any race.**
 
 Theodore and Patricia Bladykas were the first family to move into a house in Levittown. They moved in on October 1, 1947, with their twin daughters, Patricia Ann and Betty Ann, who were 14 months old. A photographer from the newspaper *Newsday* took their picture that day, when the first 300 families moved into Levittown.
 
-The builder was the company Levitt and Sons, run by William Levitt. The first houses rented for 60 dollars a month, and a renter could buy the house for 7,500 dollars after a year. A ranch house, a long, low house of one story, sold for 7,990 dollars in 1949. By 1951 Levitt and Sons had built 17,447 houses there, and many of the fathers who moved in were veterans just back from the Second World War.
+Chapter 6 tells how the company Levitt and Sons, run by William Levitt, built Levittown. The first houses rented for 60 dollars a month, and a renter could buy the house for 7,500 dollars after a year. From 1949 the company sold ranch houses, long, low houses of one story, for 7,990 dollars. Many of the fathers who moved in were veterans just back from the Second World War.
 
-**Clause 25.** William Levitt and his company rented and sold these houses to white families only. Clause 25 of the Levittown lease, the paper that set the rules for renting, stated that no "person other than members of the Caucasian race," meaning no one who was not white, could live in the house. The only exception was for domestic servants.
+**Clause 25.** William Levitt and his company rented and sold these houses to white families only. Clause 25 of the Levittown lease, the paper that set the rules for renting, stated that no "person other than members of the Caucasian race," meaning no one who was not white, could live in the house. The one exception was for servants: a white family could employ servants who were not white, and those servants could live with the family in the house.
 
 The justices of the US Supreme Court ruled in 1948, in the case *Shelley v. Kraemer*, that courts could not enforce rules like this. William Levitt dropped the written clause and kept refusing to sell to Black families. His sales contracts forbade buyers to resell their houses to African Americans.
 
@@ -149,7 +145,7 @@ He said that if a Black family bought a house in Levittown, white families would
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
 
 A house in the suburbs became the common picture of American family life after 1950. The share of households that owned their home rose from 43.6 of every 100 in 1940 to 61.9 in 1960. Lenders and sellers kept Black families out of many of the new suburbs, and in Levittown, Pennsylvania, a mob attacked the house of the first Black family to move in.
 
@@ -163,13 +159,13 @@ Builders, sellers and lenders went on with redlining and whites-only sales for m
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The TV in the living room" -->
-Most American families bought their first television set in the 1950s. About 9 of every 100 households had a set in 1950, 64.5 had one by 1955, and 87 by 1960. Families began to plan their evenings around the programs.
+Most American families bought their first television set in the 1950s. About 9 of every 100 households had a set in 1950, 64.5 had one by 1955, and 87 by 1960.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The household changes shape" -->
 The divorce rate more than doubled between 1960 and 1980, from 9.2 divorces each year for every 1,000 married women to 22.6. The rate reached its peak in 1981 and then began to fall.
 
-More mothers took paid jobs. About 17 of every 100 married mothers were in the labor force in 1948, which means they worked for pay or were looking for paid work. The figure was 61 by 1985 and about 70 by 1995. Counting all mothers with children under 18, the share rose from 47 percent in 1975 to a peak of 73 percent in 2000. With both parents at work, more families paid for day care.
+More mothers took paid jobs. In 1948, about 17 of every 100 married mothers were in the labor force, which means they worked for pay or were looking for paid work. By 1985 the figure was 61 of every 100, and by 1995 about 70. With both parents at work, more families paid for day care.
 
 **Latchkey children.** Some children went home after school to an empty house. People called them latchkey children, because they carried their own key to the house.
 
@@ -199,7 +195,7 @@ William and Daisy Myers and their three small children moved into 43 Deepgreen L
 
 **The crowds.** Crowds of 200 to 1,000 people gathered on Deepgreen Lane for more than a week. People in the crowds threw rocks through the windows of the house and threw Molotov cocktails, bottles filled with fuel and set on fire. They burned crosses, one of them at the Wechsler house.
 
-People in the Ku Klux Klan, a group whose members bombed and attacked Black Americans, had burned crosses as a threat for decades. The justices of the US Supreme Court wrote in 2003 that a burning cross is often meant to make its targets fear they will be attacked.
+Members of the Ku Klux Klan, a group whose members bombed and attacked Black Americans, had used burning crosses as a threat for decades, to make the people who saw them fear they would be attacked. The account of the attacks on Deepgreen Lane does not say who in the crowds burned the crosses there.
 
 Callers threatened the family by telephone. Milk, bread and oil stopped coming to the house, and the family's fire insurance was canceled. On the seventh night more than 500 people gathered before state troopers, the state police, broke up the crowd.
 
@@ -222,7 +218,7 @@ Neighbors, church members and Quaker families, members of the Christian church c
 
 Clyde Ross was born in 1923 near Clarksdale, Mississippi. In the Second World War he was drafted, ordered into the armed forces, and he served on Guam. He moved to Chicago in 1947 and took a job as a taster at Campbell's Soup.
 
-**No loan.** Ross tried to get an ordinary mortgage for a house in another neighborhood. A loan officer told him there was no money to lend, and the records do not name the officer or the bank. FHA officials rated neighborhoods where Black people lived "D," colored them red on their maps, and usually refused to back loans there.
+**No loan.** Ross tried to get an ordinary mortgage for a house in another neighborhood. A loan officer told him there was no money to lend, and the records do not name the officer or the bank. FHA officials, using a rating system of their own, rated neighborhoods where Black people lived "D" and usually refused to back loans there.
 
 **The contract.** Ross bought a house in North Lawndale in 1961 for 27,500 dollars. The seller was a speculator, a person who buys property to sell it again at a profit, and had paid 12,000 dollars for the house. Ross bought on contract: the seller kept the deed, the paper that shows who owns a house, until Ross made the last payment.
 
@@ -259,7 +255,7 @@ Grant, Drew and Reed went on to Harvard University and graduated in 1987, 1990 a
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 6 minutes**
+**Era 10 of 10 · 2000 to Today · about 7 minutes**
 
 The median new American house grew to 2,467 square feet by 2015, while the average household shrank to 2.50 people by 2025. In the crash that began in 2007, lenders took back millions of homes from families who could not pay their loans. During the pandemic of 2020, many homes became an office and a school at the same time.
 <!-- /hb-zoom -->
@@ -275,29 +271,31 @@ The Census Bureau counted 65 of every 100 households as owning their home in the
 <!-- hb-zoom level="span" label="How millions of families lost their homes, 2007 to 2010" -->
 Lenders foreclosed on about 3.8 million homes between 2007 and 2010. Estimates for the whole crisis run from about 7.7 million to 10 million homes lost, because researchers counted in different ways. Federal Reserve History, a website of the country's central bank, and the Federal Reserve Bank of Chicago list these figures.
 
-**The loans.** In the years before the crash, lenders made many subprime loans, which cost more and went to borrowers with weaker credit, a weaker record of paying back debts. Reporters at the Center for Public Integrity, a news organization, ranked Countrywide Financial the largest subprime lender of 2005 to 2007 in a 2009 report. They found that Countrywide made at least 97.2 billion dollars in high-interest loans in those years. Angelo Mozilo founded the company and ran it for 39 years.
+**The loans.** In the years before the crash, lenders made many subprime loans, which cost more and went to borrowers with weaker credit, a weaker record of paying back debts. Because the loans cost more, the monthly payments were bigger.
+
+While house prices kept rising, a borrower who fell behind could sell the house and pay off the loan, or borrow more against the higher price. When prices stopped rising, neither way out worked. Borrowers who could not pay fell further behind, and lenders foreclosed on their homes.
+
+Reporters at the Center for Public Integrity, a news organization, ranked Countrywide Financial the largest subprime lender of 2005 to 2007 in a 2009 report. They found that Countrywide made at least 97.2 billion dollars in high-interest loans in those years. Angelo Mozilo founded the company and ran it for 39 years.
 
 Foreclosure filings, the papers a lender files to start taking back a home, reached their peak in 2010, at nearly 2.9 million homes. In 2025 there were 367,460, according to ATTOM, a private company that collects property records.
 
-More Americans came to live in households of several generations, such as grandparents, parents and children together. Researchers at the Pew Research Center, which studies American life, counted 7 of every 100 Americans in such households in 1971, and 18 of every 100, or 59.7 million people, in 2021. The number grew faster during the years of the crash than in the years before.
+More Americans came to live in households of several generations, such as grandparents, parents and children together. Researchers at the Pew Research Center, which studies American life, counted 7 of every 100 Americans in such households in 1971, and 18 of every 100, or 59.7 million people, in 2021. The number grew faster during the years of the crash than in the years before. When Pew asked people in these households why they lived that way, money was the reason they gave most often.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How many people have no home?" -->
-Each January, local volunteers count the people who are homeless on a single night, and officials of the US Department of Housing and Urban Development (HUD), the federal housing department, report the count. The volunteers counted 771,480 people in January 2024, the highest number on record and 18 percent more than a year before. The number of homeless people in families with children rose 39 percent in that year.
+Each January, local volunteers count the people who are homeless on a single night, and officials of the US Department of Housing and Urban Development (HUD), the federal housing department, report the count. The volunteers counted 771,480 people in January 2024, the highest number on record and 18 percent more than a year before.
 
-The count was 745,652 people in January 2025. HUD officials called the change a drop of 3 percent, and the National Low Income Housing Coalition gave it as 3.4 percent. People in families with children fell 11 percent, to 230,366. The number of people counted as chronically homeless, homeless for a long time, reached 155,750, the highest on record.
+HUD's report named several likely causes: a shortage of homes people could afford, rising prices, pay that did not keep up for families with middle and low incomes, and the lasting effects of racism. Homeless people in families with children rose 39 percent that year. In 13 communities where many newly arrived immigrants had gone into shelters, family homelessness more than doubled. The next count, in January 2025, was a little lower, at 745,652 people.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="2020: office and school at once" -->
-Many homes became a workplace and a classroom at once in 2020. The share of workers who worked mainly from home tripled, from 5.7 percent in 2019 to 17.9 percent in 2021, by the Census Bureau's American Community Survey. Nearly 22 percent of workers worked from home at least part of the time in 2025, by Census data reported by the Federal Reserve Bank of Minneapolis.
+Many homes became a workplace and a classroom at once in 2020. The share of workers who worked mainly from home tripled, from 5.7 percent in 2019 to 17.9 percent in 2021, by the Census Bureau's count.
 
-Homeschooling rose too, meaning that the family taught the children, not that teachers at a school taught them online. In the spring of 2020, 5.4 percent of households with school-age children were homeschooling, and by the fall the figure was 11.1 percent, by the Census Bureau's Household Pulse Survey. Among Black households it rose from 3.3 to 16.1 percent.
+Homeschooling rose too, meaning that the family taught the children, not that teachers at a school taught them online. By the fall of 2020, 11.1 percent of households with school-age children were homeschooling, about twice the share that spring.
 
-Many children did their schoolwork online, and some homes had no broadband, the fast home internet used for online classes. Pew researchers reported that 35 percent of households with children aged 6 to 17 and incomes under 30,000 dollars a year had no broadband. Among households with incomes over 75,000 dollars, 6 percent had none.
+Many children did their schoolwork online, and some homes had no broadband, the fast home internet used for online classes. Pew researchers reported that 35 percent of households with children and incomes under 30,000 dollars a year had no broadband, against 6 percent of households with incomes over 75,000 dollars.
 
-Parents reported in a survey by the National Center for Education Statistics that 5.2 percent of children aged 5 to 17 learned at home in the 2022-23 school year, a count that includes children in full-time online school. The figure had been 3.7 percent in 2018-19. The share in 2022-23 was higher than before the pandemic and much lower than in the fall of 2020.
-
-**Not known:** the exact trend from 2020 to 2023. The 2020 survey and the later one asked different questions.
+**Not known:** how much of the rise in learning at home lasted. In a later federal survey, parents reported that about 5 of every 100 children learned at home in 2022-23, against about 4 before the pandemic, but that survey asked different questions from the one in 2020.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="solon-familia-foreclosure" name="Pierre Solon and Katty Familia" movie="" kind="ordinary" status="verified" -->
@@ -308,11 +306,11 @@ Parents reported in a survey by the National Center for Education Statistics tha
 
 **Bought for 584,000 dollars, sold at auction for 115,000.**
 
-Pierre Solon, from Haiti, and Katty Familia, from the Dominican Republic, bought a green wooden house in Boston's Hyde Park neighborhood in about 2006 for 584,000 dollars. They borrowed the whole price from Fremont Investment and Loan, a subprime lender. Their lawyer, Nadine Cohen of Greater Boston Legal Services, said the two mortgage payments came to almost 5,000 dollars a month more than the couple's whole income.
+Pierre Solon, from Haiti, and Katty Familia, from the Dominican Republic, bought a green wooden house in Boston's Hyde Park neighborhood in about 2006 for 584,000 dollars. They borrowed the whole price from Fremont Investment and Loan, a subprime lender, as two mortgages, two separate loans on the same house. Their lawyer, Nadine Cohen of Greater Boston Legal Services, said the payments on the two loans were almost 5,000 dollars a month more than the couple earned.
 
 Each parent worked two jobs, and then each lost one. "Sometimes we don't even have food," Katty Familia said. The couple fell more than 150,000 dollars behind.
 
-Staff at Wells Fargo, the bank that collected their payments, offered lower monthly payments on a debt that would have grown to more than 600,000 dollars. The couple turned the offer down. Wells Fargo's staff then foreclosed, and late in 2009 the family moved out with their children.
+Staff at Wells Fargo, the bank that collected their payments, offered lower monthly payments. The couple turned the offer down, because the change would have raised what they owed to more than 600,000 dollars. Wells Fargo's staff then foreclosed, and late in 2009 the family moved out with their children.
 
 **The sale.** Wells Fargo sold the house at auction, a sale where the highest bidder wins, in November 2010. The buyer was an investor, a buyer who hopes to sell later for more, and the price was 115,000 dollars. Two weeks later that investor sold it to another investor for 270,000 dollars.
 
@@ -341,6 +339,8 @@ The father, Johnathan Munoz, recorded the family's first week as an audio diary 
 - How did lenders and builders keep Black families out of new neighborhoods, and what did those families do? FHA officials usually refused to back loans where Black families lived, and William Levitt sold only to white families. The Myers family stayed through weeks of attacks, and about 500 families in the league Clyde Ross helped lead stopped paying together.
 
 **What changed:** Households shrank from longhouses of relatives to 2.50 people, and owning a home came to depend on long loans that lenders gave some families and refused others.
+
+**Whose land:** The colonists' and settlers' houses in this chapter went up on Native land, from Plymouth, built on the Wampanoag village of Patuxet, to the Ingalls family's dugout on land the Dakota signed away in 1851.
 
 **Five dates to keep**
 - September 1565: Spanish colonists settle inside Seloy's town.

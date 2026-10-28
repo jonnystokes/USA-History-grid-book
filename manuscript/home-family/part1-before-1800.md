@@ -27,7 +27,7 @@ This chapter describes American homes from the earth lodges and longhouses of th
 - Who did the work of keeping house, and did stoves, pipes and wires make it lighter?
 - How did lenders and builders keep Black families out of new neighborhoods, and what did those families do?
 
-**Five minutes?** Read "New home loans, and the red lines" in 1900 to 1950.
+**Five minutes?** Read "New home loans, and the red lines" in 1900 to 1950, then the story of Clyde Ross in 1950 to 2000.
 **Can skip:** "Where the log cabin came from", "Bungalows, and houses sold by catalog", "The TV in the living room". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -38,7 +38,7 @@ A Native household was built around kin, a person's relatives by birth or by mar
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who was in charge of a longhouse?" -->
-Women ran the longhouse among the Haudenosaunee, several Native nations joined together in one union. The head of each house was the clan mother. She was the eldest or most respected woman of her clan, a large group of families who come down from the same ancestor. Women owned the house's everyday goods. Everyone in a longhouse came down from one woman who lived long ago, and every family traced itself back through the mothers' side.
+Women ran the longhouse among the Haudenosaunee, several Native nations joined together in one union. The head of each house was the clan mother. She was the eldest or most respected woman of her clan, a large group of families who come down from the same ancestor. Women owned the house's everyday goods. The women of a longhouse and their children all came down from one woman who lived long ago, and every family traced itself back through the mothers' side.
 
 The longhouse was a long building with a frame of wooden posts, covered with bark, and it held many related families. Two families lived in each section of the house, one on each side of an aisle, and they shared one fire in the middle. By different counts, one house held 30 to 60 people, or 20 families or more.
 
@@ -66,19 +66,17 @@ In the Eastern Woodlands, the forests of the eastern part of the continent, many
 <!-- hb-zoom level="era" -->
 **Era 2 of 10 · The 1500s · about 2 minutes**
 
-Most of the Europeans who came to this land in the 1500s were soldiers, priests and sailors, so European families were few. At St. Augustine in Florida, many Spanish soldiers married Native women. Native households went on living in their own towns.
+Most of the Europeans who came to this land in the 1500s were soldiers, priests and sailors, so European families were few, and Native households went on living in their own towns.
 
 The newcomers carried diseases that Native people had never had before, and those diseases made Native people sick and killed many of them. About 200,000 Timucua people lived in what is now northern Florida and southern Georgia before the Spanish came. After one outbreak of disease after another, only about 2,000 were left by the 1650s, 1 for every 100 who had lived there. No record counts how many died in the 1500s alone.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="St. Augustine, built in Seloy's town" -->
-Chapter 1 describes how the Spanish sea commander Pedro Menéndez de Avilés and about 800 colonists came ashore at Seloy, a town of the Timucua people, in September 1565. Of the colonists, 26 were women, and an unknown number were enslaved Africans, people the Spanish owned as property and forced to work without pay.
+Chapter 6 tells how Pedro Menéndez de Avilés founded St. Augustine in September 1565, inside Seloy, a town of the Timucua people. The town's chief, also named Seloy, at first offered Menéndez his council house, the building where the town held its meetings, and the Spanish used it as their first fort. Within months the Timucua were attacking the newcomers to drive them away. Seloy's town covered more than 12 acres, and its remains lie under what is now the Fountain of Youth Park in St. Augustine.
 
-The town's chief was also named Seloy. He offered Menéndez his council house, the building where the town held its meetings, and the Spanish used it as their first fort. Menéndez and his colonists made their first settlement inside Seloy's town, which covered more than 12 acres. Its remains lie under what is now the Fountain of Youth Park in St. Augustine.
+Few of the newcomers came as families. Of the 800 or so colonists, 26 were women, and an unknown number were enslaved Africans, people the Spanish owned as property and forced to work without pay.
 
-The settlement Menéndez started became St. Augustine, and people have lived there ever since. It is the oldest European settlement on the US mainland where people have lived without a break.
-
-The Timucua traced their families and their inheritance through the mother's line. In St. Augustine, fewer than half of the Spanish men were married, and fewer than half of the married men had a Spanish wife. From 1565 on, many Spanish soldiers married Native women.
+Most Spanish men in St. Augustine had no wife. Most of the men who did marry had wives who were not Spanish, and from 1565 on, many Spanish soldiers married Native women. The Timucua traced their families and their inheritance through the mother's line.
 
 Church officials in the town wrote down the names of the church's members. Their lists are called the Cathedral Parish records, after the parish, the group of people who belong to one church. The records begin on January 24, 1594, and they are the oldest church records that survive in the United States. The first marriage in them is dated February 2, 1594. The first baptism, the church ceremony that welcomes a person, often a baby, into the church, is dated June 25.
 <!-- /hb-zoom -->
@@ -103,9 +101,9 @@ Francisco had come to Florida in the 1560s from San Lúcar de Barrameda, a town 
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 4 minutes**
+**Era 3 of 10 · The 1600s · about 5 minutes**
 
-At Plymouth in 1620, English colonists built their houses on the site of Patuxet, a Wampanoag village. The usual English colonial house in Massachusetts had one room, and the household cooked and worked there, around the hearth, the open fireplace that gave the room its heat and light. Servants lived and worked in the household too, and so did enslaved people, whom colonists forced to work without pay. Many boys left home for good at about 14 to learn a trade in another household.
+At Plymouth in 1620, English colonists built their houses on the site of Patuxet, a Wampanoag village. The usual English house in Massachusetts had one room, where the family lived and worked, and many households also held servants, enslaved people and boys from other families learning a trade.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why Patuxet's houses stood empty" -->
@@ -119,7 +117,7 @@ One of the kidnapped Patuxet men was Tisquantum, also known as Squanto. He made 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="One room, then two" -->
-The basic English house in Massachusetts had a single room, called the hall. Next to it stood the chimney bay, the part of the house that held the chimney, the front door and the stairs. The family cooked, kept warm, had light and did its work at the hearth in the hall.
+The basic English house in Massachusetts had a single room, called the hall. Next to it stood the chimney bay, the part of the house that held the chimney, the front door and the stairs. The family cooked, kept warm, had light and did its work at the hearth, the open fireplace in the hall that gave the room its heat and light.
 
 The next step up was the hall-and-parlor house, with a second room called the parlor. The hall was still for cooking and work. The parlor was the best room, and it usually held a bed. Colonists went on building one-room houses well into the 1700s.
 <!-- /hb-zoom -->
@@ -148,9 +146,11 @@ The inventory lists her books: a Bible, a psalm book with the songs from the Bib
 
 The inventory also lists money owed to her. Governor William Bradford owed her 2 pounds in English money, written in the record as "Due from Gov." Edward Winslow owed her beaver fur, which the record spells the old way: "Bever due from mr Wynslow."
 
-She wrote her own will, the paper that says who gets a person's belongings after death, and signed her name to it. The colony's court officials proved the will on October 28, 1633, which means they agreed it was real, so it could be carried out.
+She wrote her own will, the paper that says who gets a person's belongings after death, and signed her name to it. The colony's court officials proved the will on October 28, 1633, more than two years after she died, which means they agreed it was real, so it could be carried out. By then both of the men she had named to oversee the will had died, and her son Andrew was still a child. Another colonist, Thomas Prence, took on the job of looking after Andrew's share.
 
-Her husband, William Ring, died in the city of Leiden, in the Netherlands, sometime between 1620 and 1629. The couple had planned to sail to America in 1620, but they were among 20 people who could not go when their ship, the Speedwell, turned back. Mary Ring came to Plymouth as a widow in 1629 or 1630 with her three children, Elizabeth, Susanna and Andrew. All three married in the colony.
+Her husband, William Ring, died in the city of Leiden, in the Netherlands, sometime between 1620 and 1629. The Rings belonged to a church of English Separatists, people who wanted to worship apart from the Church of England. The church had moved to Leiden, and in 1620 some of its members sailed to America and founded Plymouth.
+
+The Rings had planned to go too, but they were among 20 people who could not sail when their ship, the Speedwell, turned back. Mary Ring came to Plymouth as a widow in 1629 or 1630 with her three children, Elizabeth, Susanna and Andrew. All three married in the colony.
 <!-- hb-story:end slug="mary-ring" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -241,9 +241,9 @@ Her years of running the farm alone ended in 1784, when she and Nabby sailed to 
 > **When and where:** Hallowell, Maine. The diary runs from January 1785 to 1812.
 > **Movie:** *A Midwife's Tale* (1997), a documentary made for the PBS series *American Experience*. It is about Martha Ballard.
 
-**She wrote down 816 births, each one with a name and a number.**
+**She wrote down 816 births, each one with a name.**
 
-Martha Ballard was a midwife, a woman who helps other women give birth, in Hallowell, Maine. She wrote in her diary nearly every day for 27 years, from January 1785 to 1812: about 10,000 entries over 9,965 days. The diary records 816 births that she helped with, each one with a name and a number.
+Martha Ballard was a midwife, a woman who helps other women give birth, in Hallowell, Maine. She wrote in her diary nearly every day for 27 years, from January 1785 to 1812: about 10,000 entries over 9,965 days. The diary records 816 births that she helped with.
 
 Around those births, the diary records the daily work of her own household: her garden, spinning, weaving, quilting and brewing, the work her daughters did, the visitors who came and the weather each day.
 

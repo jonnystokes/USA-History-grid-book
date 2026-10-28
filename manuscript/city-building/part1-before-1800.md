@@ -66,7 +66,7 @@ The people of Chaco planned their roads too. The roads run straight for miles ac
 
 At Mesa Verde, in southwestern Colorado, people built rooms of sandstone blocks and mud into the hollows under overhanging cliffs. They built Cliff Palace, the largest of these cliff dwellings, between 1190 and 1280. It has 150 rooms and 23 kivas, round rooms used for ceremonies and meetings and usually sunk into the ground. More than 100 people lived there.
 
-People began leaving Chaco in the 1140s, and by about 1180 to 1200 the last building and the last living in the canyon had come to an end. People had left Mesa Verde by the 1280s. The people who left both places gathered again in the pueblo towns along the Rio Grande, and their descendants still live in those pueblos.
+People began leaving Chaco in the 1140s, and by about 1180 to 1200 they had stopped building and living in the canyon. People had left Mesa Verde by the 1280s. The people who left both places gathered again in the pueblo towns along the Rio Grande, and their descendants still live in those pueblos.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -77,22 +77,20 @@ People began leaving Chaco in the 1140s, and by about 1180 to 1200 the last buil
 **Era 2 of 10 · The 1500s · about 3 minutes**
 
 The oldest lasting European town on the US mainland began inside a Timucua town. Eight years after Spanish colonists founded it, the king of Spain set written rules for how every new Spanish town must be laid out.
-
-Pedro Menendez de Aviles founded St. Augustine on the Florida coast in 1565. The settlers moved their town twice in its first seven years, but people have lived in St. Augustine without a break since 1565. The king's orders of 1573 required a plaza at the center of each new town, with straight streets crossing at right angles in a grid.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="St. Augustine and the Laws of the Indies" -->
-Pedro Menendez de Aviles landed on the coast of Florida on September 8, 1565, with about 800 colonists, among them 26 women and an unknown number of enslaved Africans. He placed his town, St. Augustine, inside Seloy's town, a town of the Timucua people whose chief was named Seloy. The colonists moved in and used the chief's council house as their first fort. Timucua council houses were round and roofed with thatch, dried straw or reeds, and they were big enough to hold up to a thousand people.
+Pedro Menéndez de Avilés landed on the coast of Florida on September 8, 1565, with about 800 colonists, among them 26 women and an unknown number of enslaved Africans. He placed his town, St. Augustine, inside Seloy's town, a town of the Timucua people whose chief was named Seloy. Chief Seloy offered Menéndez his council house, and the colonists used it as their first fort. Timucua council houses were round and roofed with thatch, dried straw or reeds, and they were big enough to hold up to a thousand people.
 
-The Timucua did not want the Spaniards living in their town, and they attacked them again and again to drive them away. In 1566, according to the Florida Museum of Natural History, the Timucua shot flaming arrows at the fort. The fort was the Timucua's own council house, and the museum's account states that this is why the attack did so much harm. On April 1, 1566, half of the fort burned, and the Spaniards lost all their supplies.
+Within months the Timucua had tired of the Spaniards living in their town, and they attacked them again and again to drive them away. In 1566, according to the Florida Museum of Natural History, the Timucua shot flaming arrows at the fort. The fort was the Timucua's own council house, and the museum's account states that this is why the attack did so much harm. On April 1, 1566, half of the fort burned, and the Spaniards lost all their supplies.
 
-**Three places in seven years.** Menendez moved the settlement across the bay to Anastasia Island in May 1566, about nine months after landing. There the Spaniards felt safer from attack, and they lived on the island for about six years. By about 1572 they had moved back to the mainland, to the site of today's St. Augustine.
+**Three places in seven years.** Menéndez moved the settlement across the bay to Anastasia Island in May 1566, about nine months after landing. There the Spaniards felt safer from attack, and they lived on the island for about six years. By about 1572 they had moved back to the mainland, to the site of today's St. Augustine.
 
 Through both moves, people went on living in the town. Of all the cities Europeans founded on the mainland of the United States, St. Augustine is the oldest one that people have lived in the whole time.
 
 King Philip II of Spain issued the Laws of the Indies in 1573. They were written orders for Spain's lands in the Americas, which the Spanish called the Indies, and they stated exactly how the men who founded Spanish towns had to lay them out.
 
-Each town began with a central plaza, a public square of open ground with the town built around it. The plaza's sides had to face north, south, east and west, and it had to be one and a half times as long as it was wide. The streets ran out from it in a grid. The founders had to set aside certain lots, or pieces of land, for the church and for the government buildings.
+Each town began with a central plaza, a public square of open ground with the town built around it. The plaza's sides had to face north, south, east and west, and it had to be one and a half times as long as it was wide. The streets ran out from it in a grid, straight streets crossing at right angles. The founders had to set aside certain lots, or pieces of land, for the church and for the government buildings.
 
 St. Augustine's Plaza de la Constitucion was laid out under those orders, after the town already existed. It is the oldest public square in the country. Government buildings and the church faced onto it, and traders began holding a market there in 1598.
 
@@ -128,13 +126,15 @@ The people of Boston set up a night watch that same year. The watchmen walked th
 
 Wall Street in New York City runs along the line of a wall that is long gone. The wall ran across the northern edge of New Amsterdam, the Dutch town on the southern tip of Manhattan, in the homeland of the Lenape people. It stretched from the East River to the North River, which is now called the Hudson.
 
-**Who dug it.** A gang of Black men dug the trench for the wall in 1653. The Dutch West India Company, the trading company whose officials ran the colony, owned them. Some of the men had gained what the Dutch called half-freedom: a half-free man could hold land of his own, but he still owed the Company work and a yearly payment, and his children stayed the Company's property.
+**Who dug it.** A gang of Black men dug a trench across the island for the wall in 1653. The Dutch West India Company, the trading company whose officials ran the colony, owned them. Some of the men had gained what the Dutch called half-freedom: a half-free man could hold land of his own, but he still owed the Company work and a yearly payment, and his children stayed the Company's property.
 
-According to a Columbia University history project, the men dug as long as daylight allowed. Their trench was three feet deep and ran all the way across the island. They stood logs 12 feet long and 18 inches around up in it and packed dirt and stones around each one. The finished wall was made of planks and stood about five or six feet high, from river to river.
+According to a Columbia University history project, the men dug as long as daylight allowed, all the way from the East River to the Hudson. The town's records show what went up along that line: a wall of planks 9 feet high, nailed to posts, from river to river. The officials had first planned a wall of sharpened logs 12 feet long, but nobody would build it for the price they offered, so they changed the plan to planks.
 
 **Who ordered it.** Petrus Stuyvesant and the town's officials ordered the wall on March 13, 1653. Stuyvesant was the director general, the man who governed the Dutch colony of New Netherland for the Company. He and the officials had heard that the English in New England were preparing to attack.
 
-Under their order, the soldiers, the other servants of the Company and the half-free Black men, "no one excepted," had to build up the fort. The townsmen, also "without exception," had to dig the ditch from river to river. The officials put the cost at 3,166 guilders, the Dutch money of the time. Townsmen paid that money in, and the minutes of the officials' meetings, their written record, name the men who paid. Officials reported the wall finished on July 28, 1653.
+In April, Stuyvesant's council gave out the rest of the work. The townsmen, "without exception," had to dig a ditch in front of the wall from river to river. The ditch was 4 to 5 feet deep and 11 to 12 feet wide, a much bigger hole than the trench, and it was there to slow down attackers. The soldiers, the other servants of the Company and the half-free Black men, "no one excepted," had to finish building up the town's fort.
+
+So the order sent the half-free Black men to the fort, not to the ditch. The city's archivists write that enslaved and free workers built the wall itself together. The officials put the cost at 3,166 guilders, the Dutch money of the time. Townsmen paid that money in, and the minutes of the officials' meetings, their written record, name the men who paid. Officials reported the wall finished on July 28, 1653.
 
 The Columbia project names three of the men who dug the trench: Paulo d'Angola, Simon Congo and Anthony Portuguese. All three were half-free. They were among eleven enslaved men who had worked for the Company for eighteen or nineteen years. The eleven asked the colony's council to free them, saying the Company had promised them their freedom.
 
@@ -225,9 +225,7 @@ Washington rode out and looked at the country himself. He chose the ground at an
 
 Three Native towns had stood inside that square of land. The largest was Nacotchtank, on the southeast side of the Anacostia River, and the river's name comes from the town's name. A second town, Nameroughquena, stood on the west bank of the Potomac, across from today's Theodore Roosevelt Island. The third stood on a bluff, a high, steep bank, in the northwest part of today's city, and the record does not give its name.
 
-Captain John Smith reached that stretch of the Potomac in 1608. Within forty years of that first contact, a National Park Service history of the Native peoples of Washington states, only about a quarter as many Native people lived in the region as before 1608. Many had died of diseases that Europeans brought, and others had been killed in wars, though the Park Service history does not say who fought them. Others joined nations to the north, south and west.
-
-The Histories of the National Mall project at George Mason University puts it this way: the Native communities on that land "had been driven away by war and disease."
+Captain John Smith reached that stretch of the Potomac in 1608. Within forty years of that first contact, only about a quarter as many Native people lived in the region as before 1608, according to a National Park Service history of the Native peoples of Washington. Many had died of diseases that Europeans brought, and others had been killed in wars, though the Park Service history does not say who fought them. Others joined nations to the north, south and west.
 
 Two towns stood inside the square by the spring of 1791, and both are still there. Virginia's colonial lawmakers voted to create the town of Alexandria in 1749. The county surveyor, John West, laid out its first sixty acres around Hugh West's tobacco warehouse.
 
@@ -235,13 +233,13 @@ Maryland's colonial lawmakers approved the town of Georgetown in 1751. They boug
 
 The members of Congress changed the law on March 3, 1791, so that the district, the land set aside for the capital, could reach south and take in Alexandria too. Jones Point, where the survey of the district's boundary began, is at Alexandria.
 
-The rest of the land was farms, and the main crop was tobacco. Five men owned the ground where the National Mall is now: Daniel Carroll of Duddington, David Burnes, Notley Young, Benjamin Oden and Samuel Davidson. The Histories of the National Mall project reports that the men who owned this land enslaved people, and the enslaved men and women raised tobacco, corn, wheat and cattle on it.
+The rest of the land was farms, and the main crop was tobacco. Five men owned the ground where the National Mall is now. The Histories of the National Mall project at George Mason University reports that these men enslaved people, and the enslaved men and women raised tobacco, corn, wheat and cattle on the land.
 
-Notley Young's tobacco plantation, a big farm worked by enslaved people, covered 800 acres, and the Smithsonian's National Museum of African American History and Culture stands on part of it. The museum gives the number of people enslaved there as 245, from the 1790 census, the government's count of the people. The Histories of the National Mall project gives 260. Federal officials bought Young's land in 1791.
+The largest of the five farms was Notley Young's tobacco plantation, a big farm worked by enslaved people. It covered 800 acres, and the Smithsonian's National Museum of African American History and Culture stands on part of it. The museum gives the number of people enslaved there as 245, from the 1790 census, the government's count of the people. The Histories of the National Mall project gives 260. Federal officials bought Young's land in 1791.
 
-In all, nineteen men owned the land for the new city. Washington met them at a dinner in Georgetown, and they signed an agreement on March 30, 1791. The owners put about 6,000 acres together.
+In all, nineteen men owned the land for the new city, about 6,000 acres. Washington met them at a dinner in Georgetown, and they signed an agreement on March 30, 1791.
 
-**The deal.** The owners got nothing for the land that became streets. For land taken for public buildings and squares, they got 25 English pounds an acre under the agreement. The rest of the land was split into 20,272 building lots, and half of the lots went back to the owners. These men were later called the Original Proprietors, which means the owners of the land when the city was laid out.
+**The deal.** The owners got nothing for the land that became streets. For land taken for public buildings and squares, they were paid by the acre. The rest of the land was split into building lots, and half of the lots went back to the owners. These men were later called the Original Proprietors, which means the owners of the land when the city was laid out.
 
 Before anyone could build the city, a crew had to survey the boundary of the district, measuring the ground and marking exactly where its corners and edges lay. Someone also had to draw the plan of the city that would go inside it.
 
@@ -260,7 +258,7 @@ Pierre Charles L'Enfant drew the plan of the capital in 1791. He laid down a str
 
 The three commissioners Washington had appointed under the Residence Act asked for L'Enfant's original drawing, so that an engraver could cut it into a printing plate and print copies. L'Enfant refused to hand it over, and he clashed with the commissioners. In February 1792 George Washington dismissed him for insubordination, refusing to obey the people in charge of him.
 
-Andrew Ellicott, with help from his brother Benjamin, rebuilt the plan and changed parts of it. He straightened Massachusetts Avenue and took out some of the squares. The engravers Thackara and Vallance made an engraving of Ellicott's version in March 1792. Copies of their engraving were the first plan of the city that many people saw, and the city was built from it: L'Enfant's plan as Ellicott had changed it.
+Andrew Ellicott, with help from his brother Benjamin Ellicott, rebuilt the plan and changed parts of it. He straightened Massachusetts Avenue and took out some of the squares. The engravers Thackara and Vallance made an engraving of Ellicott's version in March 1792. Copies of their engraving were the first plan of the city that many people saw, and the city was built from it: L'Enfant's plan as Ellicott had changed it.
 
 L'Enfant died poor in 1825. He was buried on a farm in Prince George's County, Maryland, that belonged to his friend William Dudley Digges.
 
@@ -275,7 +273,7 @@ L'Enfant died poor in 1825. He was buried on a farm in Prince George's County, M
 
 **At nearly sixty, Banneker worked nights, timing the stars.**
 
-George Ellicott recommended Banneker, and Major Andrew Ellicott hired him as scientific assistant on the survey of the ten-mile square. Banneker was nearly sixty. He farmed tobacco, and he had taught himself astronomy.
+George Ellicott, Andrew Ellicott's cousin and Banneker's neighbor and friend, recommended him, and Major Andrew Ellicott hired him as scientific assistant on the survey of the ten-mile square. Banneker was nearly sixty. He farmed tobacco, and he had taught himself astronomy.
 
 Banneker worked at night. To find a position on the earth by astronomy, an observer watches particular stars cross a particular point in the sky and records the exact moment, then calculates the position from those times. Banneker made those observations and did those calculations, and he kept the survey's regulator clock, a very exact clock, running true.
 
@@ -287,19 +285,17 @@ According to a popular story, Banneker redrew the whole plan of Washington from 
 <!-- hb-story:end slug="benjamin-banneker" -->
 
 <!-- hb-zoom level="span" label="Water after the fevers" -->
-Yellow fever comes from a virus, a germ far too small to see, and people catch it from the bite of a mosquito that carries the virus. Most people who fall sick with it have fever, chills, headache and vomiting, and they get better within a week.
-
-In about one case in seven, the fever eases and then comes back worse. In that stage the virus destroys cells in the liver. As the liver fails, the skin and the whites of the eyes turn yellow, and that color gives the disease its name.
-
-The person bleeds from the mouth, the nose and the eyes, and into the stomach. There the blood mixes with stomach acid, and the person vomits it up black, which people at the time called the black vomit. The kidneys fail as well. Of the people who reach that stage, between 30 and 60 percent die.
-
 Yellow fever killed about 5,000 people in Philadelphia between August 1 and November 9, 1793. About 50,000 people lived in the city, so the fever killed roughly one of every ten of them. About 20,000 other people fled the city, among them the officials of the new federal government.
 
-A group of Philadelphians asked the city's councils to take charge of the water supply in 1797, and the council members formed a Watering Committee. The fever came back in 1798. The city's leaders then hired Benjamin Henry Latrobe, an English-born architect and engineer, to design a waterworks.
+Yellow fever comes from a virus that mosquitoes carry from person to person. Most people who catch it get better within a week. In about one case in seven, the illness comes back worse and the virus destroys the liver, so the skin and the whites of the eyes turn yellow. The person bleeds from the mouth, nose and eyes and vomits blood turned black by stomach acid, which people then called the black vomit. Between 30 and 60 percent of these people die.
+
+**What people blamed.** Nobody then knew that mosquitoes spread the fever. Many Philadelphians thought it came from dirty water or from rotting matter in the streets, so they wanted clean water for the city. In 1797 a group of them asked the city's councils to take charge of the water supply, and the council members formed a Watering Committee. The fever came back in 1798. The city's leaders then hired Benjamin Henry Latrobe, an English-born architect and engineer, to design a waterworks.
 
 **The waterworks.** The members of the Watering Committee accepted Latrobe's design in 1799, and workers began building the Centre Square Water Works that year. Nicholas J. Roosevelt built its engines and pumps under a contract worth $33,000. The steam engine went up from February 1800.
 
 The steam pumps started supplying the city on January 21, 1801. The engines pumped water from the Schuylkill River through a tunnel along Chestnut Street to the pump house, a white marble building on Centre Square. From there the water ran through the streets in pipes made of hollowed-out logs. Philadelphia was the first American city with a public water supply driven by steam.
+
+**What the water could not do.** Clean water could not stop a disease that mosquitoes spread. The fever came back seven times in the twelve years after 1793. Each time, only the winter frost, which killed the mosquitoes, brought it to an end.
 
 The engines broke down often and cost a great deal to keep running. Centre Square ran for only fourteen years. In 1815 the Fairmount Water Works took its place.
 <!-- /hb-zoom -->
