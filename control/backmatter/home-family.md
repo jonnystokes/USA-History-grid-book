@@ -1,0 +1,197 @@
+## Glossary
+
+- kin: a person's relatives by birth or by marriage (Before 1500)
+- Haudenosaunee: several Native nations joined together in one union (Before 1500)
+- clan: a large group of families who come down from the same ancestor (Before 1500)
+- clan mother: the eldest or most respected woman of the clan, the head of a longhouse (Before 1500)
+- longhouse: a long building with a frame of wooden posts, covered with bark, that held many related families (Before 1500)
+- earth lodge: a dome made of timber and packed over with earth (Before 1500)
+- pueblo: a Native town of many homes joined together and stacked on top of one another (Before 1500)
+- adobe: earth mixed with water and straw, poured into molds or shaped into bricks and dried in the sun (Before 1500)
+- Eastern Woodlands: the forests of the eastern part of the continent (Before 1500)
+- saplings: thin young trees (Before 1500)
+- wigwam: a house with a frame of saplings, covered with bark or with woven mats (Before 1500)
+- Plains: the grasslands in the middle of the continent (Before 1500)
+- tipi: a house covered with animal hides that a family could take down and pack up to move with the hunt (Before 1500)
+- enslaved people: people owned as property and forced to work without pay (The 1500s)
+- council house: the building where a town held its meetings (The 1500s)
+- parish: the group of people who belong to one church (The 1500s)
+- baptism: the church ceremony that welcomes a person, often a baby, into the church (The 1500s)
+- regiment: a unit of the army (The 1500s)
+- hearth: the open fireplace that gave a room its heat and light (The 1600s)
+- hall: the single room of the basic English colonial house (The 1600s)
+- chimney bay: the part of the house that held the chimney, the front door and the stairs (The 1600s)
+- hall-and-parlor house: a house with a hall for cooking and work and a second room, the parlor, the best room (The 1600s)
+- Chesapeake: the colonies around Chesapeake Bay (The 1600s)
+- indentured servant: a person who had signed a contract to work for a master for a set number of years (The 1600s)
+- indenture: the written contract under which a boy had to live with a master, work for him and learn his trade (The 1600s)
+- freedom dues: a payment of clothes, tools or money at the end of an indenture (The 1600s)
+- inventory: a list of a dead person's belongings, written down one by one (The 1600s)
+- psalm book: a book with the songs from the Bible's Book of Psalms (The 1600s)
+- will: the paper that says who gets a person's belongings after death (The 1600s)
+- proved (a will): agreed by court officials to be real, so it could be carried out (The 1600s)
+- Georgian house: a style of house with both sides built to match and a balanced look taken from ancient Greek and Roman buildings (1700 to 1750)
+- frontier: the edge of the colonists' settlements, on land where Native nations lived (1750 to 1800)
+- notched-corner log cabin: a cabin whose builders cut notches near the ends of the logs so that the logs locked together at the corners (1750 to 1800)
+- Forest Finns: settlers of New Sweden who were skilled at building with logs (1750 to 1800)
+- sachems: leaders (1750 to 1800)
+- Continental Congress: the meeting of leaders from the colonies (1750 to 1800)
+- diplomat: a person who represents a country to other governments (1750 to 1800)
+- inoculate: give a healthy person smallpox on purpose so that the person got a milder case; a doctor cut the skin with a small blade called a lancet and put in a thread soaked in pus from a smallpox sore (1750 to 1800)
+- lancet: a small blade (1750 to 1800)
+- midwife: a woman who helps other women give birth (1750 to 1800)
+- Pulitzer Prize: a yearly American prize for writing (1750 to 1800)
+- middle-class families: the families in between the rich and the poor (1800 to 1850)
+- cult of domesticity: a strongly held set of beliefs about the home, named by the historian Aileen Kraditor in 1968 (1800 to 1850)
+- treatise on domestic economy: a long book about running a home (1800 to 1850)
+- foundries: the workshops where iron was melted and poured into molds (1800 to 1850)
+- chemic process: a kind of chemistry, Henry David Thoreau's words for cooking on a stove (1800 to 1850)
+- district schools: country schools, which usually held a summer term and a winter term (1800 to 1850)
+- boarding around: a teacher living with the students' families, staying with one family and then the next (1800 to 1850)
+- rod: a stick or switch used for punishment (1800 to 1850)
+- Deep South: the states farther south (1800 to 1850)
+- coffles: chained lines of enslaved people that traders marched overland (1800 to 1850)
+- profession: a skilled job that people should study and that schools should teach (1800 to 1850)
+- female seminary: a school for girls and young women (1800 to 1850)
+- anthropologist: a scientist who studies how groups of people live (1800 to 1850)
+- smallpox: a deadly disease that spreads from person to person (1800 to 1850)
+- trading post: a place where traders swapped goods for furs (1800 to 1850)
+- travois: a frame of two poles that a dog dragged along the ground (1800 to 1850)
+- stage: the raised platform where a Hidatsa family dried its corn (1800 to 1850)
+- federal officials: the officials of the national government (1800 to 1850)
+- reservation: the land set aside for a Native nation to live on (1800 to 1850)
+- allotment: a plot of reservation land that federal officials assigned to one family (1800 to 1850)
+- Dawes Act: the law of 1887 under which federal officials divided reservation land into allotments and sold the land left over (1800 to 1850)
+- tenement: a building of small apartments, called flats, rented to working families (1850 to 1900)
+- boarders: people who paid to sleep in a family's rooms (1850 to 1900)
+- privies: outdoor toilets (1850 to 1900)
+- air shafts: narrow gaps between buildings meant to let in air and light (1850 to 1900)
+- commission: a group of people chosen to study the housing laws (1850 to 1900)
+- census: the count of the country's people taken every ten years (1850 to 1900)
+- domestic service: paid work in another family's home (1850 to 1900)
+- sod: the top layer of prairie soil, held together by the roots of the grass (1850 to 1900)
+- dugout: a home dug into the side of a hill or a creek bank (1850 to 1900)
+- treaty: a written agreement between nations (1850 to 1900)
+- territory: land that was not yet a state, such as Minnesota Territory (1850 to 1900)
+- annuity money: the yearly payments promised to the Dakota (1850 to 1900)
+- Commissioner of Indian Affairs: the federal official in charge of Native affairs (1850 to 1900)
+- Panic of 1873: a money crash in which many people lost their jobs (1850 to 1900)
+- declared legally dead: counted as dead under the law (1850 to 1900)
+- estate: the money and property a person leaves when he dies (1850 to 1900)
+- arranged marriage: a marriage planned by other people rather than by the couple (1850 to 1900)
+- homesteader: a settler who claimed land from the US government to live on and farm (1850 to 1900)
+- shanty: a small, roughly built house (1850 to 1900)
+- memoir: a book about a person's own life (1850 to 1900)
+- Yiddish: a language spoken by many Jews in Eastern Europe (1850 to 1900)
+- Great Depression: the hard times of the 1930s (1900 to 1950)
+- washboard: a ridged board set in a tub of warm water and soap (1900 to 1950)
+- dolly: a wooden stick for stirring clothes as they boiled (1900 to 1950)
+- flatirons: solid metal irons heated over the coals and held with a rag around the handle (1900 to 1950)
+- Census Bureau: the federal office that counts the country's people and homes (1900 to 1950)
+- complete plumbing: hot and cold running water, a bathtub or shower, and a flush toilet, all three (1900 to 1950)
+- icebox: a cabinet cooled by a block of ice (1900 to 1950)
+- bungalow: a house of one main floor with a low roof and a front porch, and sometimes rooms tucked under the roof (1900 to 1950)
+- tuberculosis: a disease caused by a germ that usually infects the lungs and spreads through the air when a sick person coughs or talks, then called "the tailor's disease" (1900 to 1950)
+- janitor: the worker who cleaned a building and kept it in repair (1900 to 1950)
+- mortgage: a loan to buy a house, under which the lender can take the house if the borrower does not repay it (1900 to 1950)
+- interest: the fee for borrowing money (1900 to 1950)
+- down payment: part of the price paid up front (1900 to 1950)
+- foreclose: take a house back from a borrower who cannot pay (1900 to 1950)
+- fixed rate: an interest charge that never changes (1900 to 1950)
+- insured loan: a loan that FHA officials promised to repay to the lender if the family could not (1900 to 1950)
+- appraisers: the people whose job is to judge what a property is worth (1900 to 1950)
+- redlining: refusing loans in a neighborhood, named for the red line drawn around it on the maps (1900 to 1950)
+- restrictive covenants: written agreements not to sell or rent to Black people (1900 to 1950)
+- kitchenettes: one-room units that landlords split apartments into (1900 to 1950)
+- psychology: the study of the mind and of how people behave (1900 to 1950)
+- corporal punishment: hitting a child as a punishment (1900 to 1950)
+- evict: force the people who live in a place to leave (1900 to 1950)
+- lease: the paper that set the rules for renting a home (1900 to 1950)
+- Caucasian: white (1900 to 1950)
+- ranch house: a long, low house of one story (1900 to 1950)
+- baby boom: the years 1946 to 1964, when about 76 million babies were born in the United States (1950 to 2000)
+- labor force: the people who work for pay or are looking for paid work (1950 to 2000)
+- latchkey children: children who went home after school to an empty house and carried their own key (1950 to 2000)
+- advocacy groups: groups that campaign for a cause (1950 to 2000)
+- Molotov cocktails: bottles filled with fuel and set on fire (1950 to 2000)
+- Ku Klux Klan: a group whose members bombed and attacked Black Americans (1950 to 2000)
+- state troopers: the state police (1950 to 2000)
+- petition: a paper that many people sign to ask for something (1950 to 2000)
+- harassment: a steady stream of acts meant to frighten people (1950 to 2000)
+- Quakers: members of the Christian church called the Society of Friends (1950 to 2000)
+- drafted: ordered into the armed forces (1950 to 2000)
+- speculator: a person who buys property to sell it again at a profit (1950 to 2000)
+- deed: the paper that shows who owns a house (1950 to 2000)
+- buying on contract: buying a house while the seller keeps the deed until the last payment, so that one missed payment loses the down payment, every monthly payment and the house (1950 to 2000)
+- appeal: a request for a higher court to change a ruling (1950 to 2000)
+- rote: learned by repeating things over and over (1950 to 2000)
+- median: the one in the middle when all are ranked by size (2000 to Today)
+- subprime loans: loans that cost more and went to borrowers with weaker credit (2000 to Today)
+- credit: a person's record of paying back debts (2000 to Today)
+- foreclosure filing: the paper a lender files to start taking back a home (2000 to Today)
+- chronically homeless: homeless for a long time (2000 to Today)
+- broadband: the fast home internet used for online classes (2000 to Today)
+- auction: a sale where the highest bidder wins (2000 to Today)
+- investor: a buyer who hopes to sell later for more (2000 to Today)
+- Attorney General: a state's top lawyer (2000 to Today)
+- deceptive lending: lending by misleading borrowers (2000 to Today)
+- bankrupt: unable to pay its debts (2000 to Today)
+
+## People
+
+- Teresa and Francisco Camacho: a Spanish soldier and fisherman and his Native wife, who shared their St. Augustine household with her sister and her sister's son (The 1500s)
+- Mary Ring: Plymouth widow whose will and inventory record what one household owned (The 1600s)
+- Sarah Kemble Knight: Boston businesswoman whose 1704 journal records the households where she stayed on the road to New York (1700 to 1750)
+- Abigail Adams: ran her family's farm, its money and her children's schooling through the Revolutionary War, and had her four children inoculated against smallpox in 1776 (1750 to 1800)
+- Martha Ballard: Maine midwife whose diary of 27 years records 816 births and the daily work of her household (1750 to 1800)
+- Catharine Beecher: wrote *A Treatise on Domestic Economy* (1841) and argued that keeping house was a profession schools should teach (1800 to 1850)
+- Buffalo Bird Woman (Waheenee): Hidatsa woman who grew up in her mothers' earth lodge and told the story of her life to Gilbert Wilson (1800 to 1850)
+- Nathalie Gumpertz: tenement mother of four at 97 Orchard Street who supported her children as a dressmaker after her husband disappeared (1850 to 1900)
+- Rachel Calof: young woman from Russia whose memoir records a 12-by-14-foot homestead shanty in North Dakota, shared in winter with her in-laws and the chickens (1850 to 1900)
+- The Baldizzi family: Sicilian immigrant family at 97 Orchard Street through the Depression, forced out in 1935, whose apartment museum staff rebuilt from the daughter's memories (1900 to 1950)
+- Theodore and Patricia Bladykas: the first family to move into Levittown, New York, on October 1, 1947 (1900 to 1950)
+- Daisy and William Myers: the first Black family in Levittown, Pennsylvania, who stayed in their house through weeks of mob attacks in 1957 (1950 to 2000)
+- Clyde Ross: veteran refused a mortgage who bought his Chicago house on contract and became vice president of the Contract Buyers League (1950 to 2000)
+- David and Micki Colfax and their sons: California ranch family who taught their four sons at home, three of whom went to Harvard (1950 to 2000)
+- Pierre Solon and Katty Familia: immigrant parents who lost their Boston house to foreclosure in 2009 (2000 to Today)
+- The Munoz family: Las Vegas family whose four school-age children did school online at the dining room table in August 2020 (2000 to Today)
+
+## Dates
+
+- September 1565: Spanish colonists settle inside Seloy's town, the start of St. Augustine
+- 1841: Catharine Beecher's *A Treatise on Domestic Economy* comes out
+- November 1, 1879: Richard Henry Pratt opens the Carlisle Indian Industrial School
+- October 1, 1947: the first families move into Levittown, New York
+- 1968: members of Congress pass the Fair Housing Act
+- 1614: Thomas Hunt kidnaps 20 people from Patuxet and 7 from Nauset to sell as slaves in Spain
+- 1620: the English build Plymouth's houses at Patuxet, a Wampanoag village
+- July 13, 1776: Abigail Adams writes that all four of her children have been inoculated
+- June 1837: the steamboat St. Peters carries smallpox up the Missouri, and by October all but 138 of about 2,000 Mandan people are dead
+- July 23, 1851: at Traverse des Sioux, three men bargain with the Sisseton and Wahpeton Dakota for about 24 million acres
+- April 12, 1901: New York's lawmakers pass the tenement law requiring a window in every room
+- June 1933: members of Congress pass the Home Owners' Loan Act
+- 1948: in Shelley v. Kraemer, the Supreme Court justices rule that courts cannot enforce whites-only rules
+- August 13, 1957: the Myers family moves into Levittown, Pennsylvania, and crowds gather outside
+- 2010: foreclosure filings reach their peak, at nearly 2.9 million homes
+
+## Places
+
+- Tenement Museum, 97 Orchard Street, New York, New York: the tenement where about 7,000 people lived, with the Baldizzi family's apartment rebuilt from Josephine Baldizzi's memories
+- Taos Pueblo, Taos, New Mexico: the North House and the South House, five stories of adobe built between about 1000 and 1450, where people have lived for more than 1,000 years
+- Fountain of Youth Park, St. Augustine, Florida: the remains of Seloy's Timucua town lie under it
+- Nothnagle Log House, Greenwich Township, New Jersey: a log house built in about 1638 to 1643 that still stands
+- Ingalls dugout site, Plum Creek near Walnut Grove, Minnesota: the hollow in the creek bank where the Ingalls family's dugout stood, on the former Gordon farm
+- Chicago's bungalows, Chicago, Illinois: more than 80,000 brick bungalows built between 1910 and the mid-1930s
+- DoHistory.org, online: the whole of Martha Ballard's diary
+
+## Movies
+
+- John Adams (2008): a miniseries made for HBO about John Adams and his family, with Abigail Adams as one of its main characters
+- A Midwife's Tale (1997): a documentary made for the PBS series American Experience, about Martha Ballard
+- Crisis in Levittown (1957): a documentary by Lee Bobker and Lester Becker, filmed while the events were happening
+
+## Questions
+
+- Q: Who lived together under one roof, from the longhouse to today? A: A longhouse held 30 to 60 relatives, and colonial households held servants, apprentices and enslaved people too. By 2025 the average household held 2.50 people.
+- Q: Who did the work of keeping house, and did stoves, pipes and wires make it lighter? A: Women and children did most of it. In Ruth Schwartz Cowan's argument, the machines did not cut a housewife's hours, because families expected more.
+- Q: How did lenders and builders keep Black families out of new neighborhoods, and what did those families do? A: FHA officials usually refused to back loans where Black families lived, and William Levitt sold only to white families. The Myers family stayed through weeks of attacks, and about 500 families in the league Clyde Ross helped lead stopped paying together.
