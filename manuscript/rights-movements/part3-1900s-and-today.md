@@ -562,11 +562,11 @@ Sergeant Isaac Woodard was discharged from the Army after four years on February
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 55 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 56 minutes**
 
 Five groups of Americans ran organized campaigns after 1950: Black Americans, women, Mexican Americans, gay Americans and disabled Americans. Each group won changes in the country's laws. The justices of the Supreme Court ruled in 1954 that segregated public schools broke the Constitution, and in 1956 they struck down segregation on Montgomery's buses. Members of Congress then passed new laws.
 
-Three of those laws banned literacy tests for voting in 1965, sex discrimination in schools that took federal money in 1972, and refusing a disabled person a job or a way into a public building in 1990. A literacy test was a reading and writing test that officials used to keep Black citizens from voting.
+In the Civil Rights Act of 1964 they made segregation in businesses and public places illegal. Later they banned literacy tests for voting in 1965, sex discrimination in schools that took federal money in 1972, and refusing a disabled person a job or a way into a public building in 1990. A literacy test was a reading and writing test that officials used to keep Black citizens from voting.
 
 **The cost.** Each of those changes followed years of organizing, and the organizers paid for it. People who signed lawsuits lost their jobs, police beat marchers with nightsticks, and firemen turned high-pressure hoses on children. Members of the Ku Klux Klan, a secret white group that used terror against Black Americans, killed four girls with a bomb in a Birmingham church in 1963.
 
@@ -795,7 +795,13 @@ About 250,000 people came to Washington on August 28, 1963, for the March on Was
 
 **All men.** All ten of the march's sponsors were men. Besides Randolph, they included Martin Luther King Jr., John Lewis of the Student Nonviolent Coordinating Committee, the heads of three other civil rights groups and four other men, among them the union leader Walter Reuther. Dorothy Height of the National Council of Negro Women helped plan the march, and the Park Service page states that she "operated in the background of this male dominated, leadership group." No woman gave a formal speech.
 
-**The day.** The sponsors issued ten demands, among them fair wages, fair hiring and desegregated schools. King was one of the men who spoke to the crowd, and so was Lewis. The Park Service page records that Lewis's speech was "toned down...at the request of white liberals and moderate black allies," people on his own side who asked him to say it more softly. What he said included, "we do not want our freedom gradually but we want to be free now."
+**The day.** The marchers walked the mile-long National Mall to the Lincoln Memorial, where civil rights and religious leaders spoke for three hours. The sponsors issued ten demands, among them fair wages, fair hiring and desegregated schools. The Park Service page records that John Lewis's speech was "toned down...at the request of white liberals and moderate black allies," people on his own side who asked him to say it more softly. What he said included, "we do not want our freedom gradually but we want to be free now."
+
+**King's speech.** The National Archives calls King's speech, known as "I Have a Dream," the high point of the march. He told the crowd that he dreamed his four little children would one day live in a nation where they "will not be judged by the color of their skin but by the content of their character."
+
+**The law that followed.** In 1964, Southern senators kept talking for 60 working days so that no vote could be held on a civil rights bill. On June 10, enough senators voted to end the talking, the first time that had happened on a civil rights bill, and nine days later they passed it, 73 to 27. President Lyndon Johnson signed the Civil Rights Act on July 2, 1964.
+
+Under the act, segregation became illegal in businesses such as theaters, restaurants and hotels, and in public places such as swimming pools, libraries and public schools. Job discrimination became illegal too. A Government Publishing Office page states that this act and the Voting Rights Act of 1965 "reflected the demands of the march."
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="bayard-rustin" name="Bayard Rustin" movie="" kind="famous" status="verified" -->
@@ -868,7 +874,9 @@ Witnesses said Lyn Ward died when a tear gas canister exploded, and police said 
 
 **Disputed:** The art historian Ruben C. Cordova counts three dead that day, because the fourth man often named, Gustav Montag, was killed at a later protest, on January 31, 1971, when a pellet from a police shotgun bounced and struck him in the heart. PBS SoCal counts four dead on August 29.
 
-**The farmworkers.** In the same years, farmworkers organized under Larry Itliong, Cesar Chavez and Dolores Huerta. About 1,500 mostly Filipino American grape workers led by Itliong walked out at Delano, California, on September 8, 1965. Eight days later, members of the union of Chavez and Huerta, the National Farm Workers Association, voted to join them. The two unions joined together and became the union now called the United Farm Workers. Chapter 14, Work and Workers, tells the strike in full.
+**The farmworkers.** In the same years, farmworkers organized under Larry Itliong, Cesar Chavez and Dolores Huerta. About 1,500 mostly Filipino American grape workers led by Itliong walked out at Delano, California, on September 8, 1965. Eight days later, members of the union of Chavez and Huerta, the National Farm Workers Association, voted to join them.
+
+**What the strike won.** The two unions joined together and became the union now called the United Farm Workers. People across the country stopped buying California table grapes to back the strikers. On July 29, 1970, 26 grape growers in Delano signed the farmworkers' first union contracts. Chapter 14, Work and Workers, tells the strike in full.
 
 **What was reported about Chavez.** The *New York Times* reported in March 2026 that Chavez had sexually abused two girls in the 1970s. The two women, Debra Rojas and Ana Murguia, are daughters of union organizers. They said the abuse began when they were 12 and 13, and Rojas said Chavez raped her in a motel room when she was 15.
 
@@ -1021,7 +1029,7 @@ Japanese Americans who had been held in the camps of the Second World War campai
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** Marchers, students, parents and disabled protesters won court rulings against segregated schools and buses, and new laws against literacy tests, sex discrimination in schools and shutting disabled people out. Many of them were beaten, jailed or killed for it.
+**If you remember one thing:** Marchers, students, parents and disabled protesters won court rulings against segregated schools and buses, and new laws against segregation in public places, literacy tests, sex discrimination in schools and shutting disabled people out. Many of them were beaten, jailed or killed for it.
 **Left open:** Would the justices of the Supreme Court keep the Voting Rights Act as members of Congress wrote it in 1965?
 
 **Next:** After 2000, judges and lawmakers widened some of these rights and narrowed others.

@@ -355,6 +355,7 @@
 - June 1, 1921: White Tulsans burn Greenwood
 - February 19, 1942: President Roosevelt signs Executive Order 9066
 - December 1, 1955: Police arrest Rosa Parks in Montgomery
+- July 2, 1964: President Lyndon Johnson signs the Civil Rights Act
 - June 28, 1969: Police raid the Stonewall Inn and the crowd fights back
 - July 26, 1990: President George H. W. Bush signs the Americans with Disabilities Act
 - June 25, 2013: The justices strike down the Voting Rights Act's list in Shelby County v. Holder
@@ -370,7 +371,7 @@
 - Greenwood Cultural Center, Tulsa, Oklahoma: where President Biden met the three Greenwood survivors in 2021
 - Oaklawn Cemetery, Tulsa, Oklahoma: where searchers have dug up the remains of 55 people in the search for the massacre's graves
 - Henry Gerber House, Chicago, Illinois: a National Historic Landmark, home of the founder of the Society for Human Rights
-- Lincoln Memorial, Washington, D.C.: where Marian Anderson sang on the steps in 1939
+- Lincoln Memorial, Washington, D.C.: where Marian Anderson sang on the steps in 1939 and the March on Washington ended in 1963
 - Topaz camp site, near Delta, Utah: one of the ten camps where Japanese Americans were held
 - Central High School, Little Rock, Arkansas: where nine Black students entered in 1957
 - Daisy Bates home, Little Rock, Arkansas: where the nine students met every school day
