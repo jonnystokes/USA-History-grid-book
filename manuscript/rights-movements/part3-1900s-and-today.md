@@ -688,7 +688,9 @@ White parents took their children out. By the end of the month, fewer than ten w
 <!-- hb-zoom level="span" label="Levittown, 1957: a family moves in" -->
 Levittown, Pennsylvania, was a town of houses built and sold by one builder, William Levitt. Daisy and William Myers became the first Black family to live there in August 1957, and white mobs gathered outside their home for nearly three months. William Myers was an Army veteran of the Second World War, and Daisy Myers was a teacher. They had three young children.
 
-**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race," meaning anyone who was not white, from living in a house. The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. Levitt dropped the written clause and kept selling only to white buyers.
+**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race," meaning anyone who was not white, from living in a house. The lease included one exception: servants who were not white could live in a house if they worked for the white family there.
+
+The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. Levitt dropped the written clause and kept selling only to white buyers.
 
 **The mobs.** When the Myers family moved in, mobs gathered outside the house. People threw rocks through the windows, burned crosses and made death threats by telephone. Delivery men stopped bringing milk, bread and heating oil, and state police guarded the house. A documentary, *Crisis in Levittown*, was filmed while it was happening, in 1957. Daisy Myers later wrote a book about it, *Sticks 'n Stones*, published in 2005.
 <!-- /hb-zoom -->
@@ -1412,7 +1414,7 @@ Tribal leaders asked the judges of a federal appeals court to drop the tribe's o
 **Greenpeace.** Energy Transfer's lawyers sued the environmental group Greenpeace over the protests. A jury in Morton County ordered Greenpeace to pay about $667 million on March 19, 2025, and Judge James Gion cut the amount to $345 million. Greenpeace officials said the group had six employees at the camps and called the lawsuit an attempt to punish the group for supporting the protests. "The oil is still flowing. The pipeline hasn't been shut down," Nola Taken Alive, a member of the Standing Rock tribal council, said in September 2026.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The DREAM Act and DACA, 2001 to 2026, and two killings in Minneapolis" -->
+<!-- hb-zoom level="span" label="The DREAM Act and DACA, 2001 to 2026" -->
 Young people who had been brought into the United States as children, without legal permission to live there, organized from 2010 for a way to become citizens, and members of Congress never passed one. Senator Richard Durbin of Illinois and Representative Howard Berman of California first introduced the DREAM Act in 2001. It would have let these young people become citizens after two years of college or military service.
 
 **The walk.** Four students from Miami Dade College, Gaby Pacheco, Carlos Roa, Felipe Matos and Juan Rodriguez, set out on January 1, 2010, to walk 1,500 miles from Miami to Washington. Three of them were in the country without legal permission. They said so in public all along the way, which put them at risk of arrest and deportation. They gathered 30,000 signatures.
@@ -1426,8 +1428,10 @@ Attorney General Jeff Sessions wrote in September 2017 that the program should e
 **Texas.** Officials of Texas and other states also sued. A federal appeals court ruled in January 2025 that DACA's work permits were unlawful in Texas. By July 2026 the judge in Texas, Andrew Hanen, had not issued the order that would carry that out.
 
 **The numbers.** Agents of ICE, a federal immigration agency, arrested 261 DACA holders and deported 86 of them in the first year of President Donald Trump's second term, by the count of FWD.us, an immigration advocacy group. About 455,000 people held DACA on March 31, 2026, by government figures reported by the National Immigration Forum, another immigration advocacy group. Federal immigration officials were renewing permits and not approving new ones.
+<!-- /hb-zoom -->
 
-**Minneapolis, 2026.** Federal officials ran a large immigration operation in Minneapolis in early 2026, called Operation Metro Surge. During it, federal immigration agents shot and killed two American citizens, Renée Macklin Good on January 7 and Alex Pretti on January 24. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
+<!-- hb-zoom level="span" label="Federal agents kill two citizens in Minneapolis, 2026" -->
+Federal officials ran a large immigration operation in Minneapolis in early 2026, called Operation Metro Surge. During it, federal immigration agents shot and killed two American citizens, Renée Macklin Good on January 7 and Alex Pretti on January 24. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
 
 Federal officials said Good had used her car as a weapon, and local officials said video contradicted that. Federal officials called Pretti a domestic terrorist, and NPR reported that video contradicted their account of his death.
 
