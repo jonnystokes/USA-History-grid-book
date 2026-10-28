@@ -374,7 +374,7 @@ Afterward Andrea Hunter, the Osage Nation's Historic Preservation Officer, said,
 **The three questions, answered**
 - Who built the White House and the Capitol, and who was paid for their work? Enslaved men did much of the work, from quarrying the stone to sawing boards and hauling loads. The officials in charge rented them from their owners by the year, and the owners collected the pay.
 - How many workers died building Hoover Dam? By the official count, 96. The records list 42 more as dying of pneumonia, deaths that workers blamed on carbon monoxide in the tunnels, so the exact number is not known.
-- What has happened to the Confederate monuments since 2015? By April 2025 officials and work crews had taken down, moved or renamed 415 Confederate memorials, from statues to place names, hundreds of them after the killings in Charleston, Charlottesville and Minneapolis. In 2025 federal officials began putting some back.
+- What has happened to the Confederate monuments since 2015? By April 2025 officials and work crews had taken down, moved or renamed 415 Confederate memorials, from statues to place names. Hundreds of them came down or were renamed after Dylann Roof killed nine Black worshippers in Charleston in 2015, James Alex Fields Jr. killed Heather Heyer in Charlottesville in 2017 and the police officer Derek Chauvin murdered George Floyd in Minneapolis in 2020. In 2025 federal officials began putting some back.
 
 **What changed:** No one wrote down who built the oldest landmarks here, and since 2000 Americans have built memorials to the enslaved and the murdered and fought over monuments to the Confederacy.
 

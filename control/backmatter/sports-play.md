@@ -233,6 +233,6 @@
 - Athlete A (2020): no note (a Netflix documentary by Bonni Cohen and Jon Shenk about the Indianapolis Star reporters and the Nassar scandal)
 
 ## Questions
-- Q: Who invented baseball? A: No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The Doubleday story rests on one letter from a man who was 5 years old in 1839.
+- Q: Who invented baseball? A: No one person did. Clubs wrote the rules, and the Knickerbocker club of New York adopted twenty of them in 1845. The story that Abner Doubleday invented it in 1839 rests on one letter from a man who was 5 years old that year.
 - Q: Who was kept out of American games, and how did they get in? A: The people who ran the games kept out laborers, Black players, girls and Black swimmers, and left enslaved riders' names off the race cards. Some got in through courts and a new law, like Maria Pepe and the girls of Title IX. Jackie Robinson got in when Branch Rickey signed him, and Kathryn Johnston played anyway, under a boy's name.
 - Q: How has children's free time changed? A: In the 1830s Lucy Larcom made doll furniture from burrs while the grown-ups left the children alone. Since then more of children's time has gone to lessons and organized sports, and by 2022, 95 of every 100 teenagers had or could use a smartphone.

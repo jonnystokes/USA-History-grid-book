@@ -381,7 +381,7 @@ One World Trade Center is the tallest building in the Western Hemisphere, the ha
 **The three questions, answered**
 - Why do so many American cities have straight streets that cross in a grid? Town founders chose the grid on purpose, from Spain's town rules of 1573 to Penn's Philadelphia in 1682. The three men who laid a grid over Manhattan in 1811 wrote that square-cornered houses were "the most cheap to build and the most convenient to live in."
 - How did people get clean water into crowded cities? City leaders paid for big waterworks after epidemics and fires: steam pumps in Philadelphia in 1801, the Croton Aqueduct in New York in 1842, and a canal that turned Chicago's river around in 1900.
-- Who decided which families could live in which neighborhoods? White owners wrote covenants into their deeds and judges enforced them until 1948, federal officials refused to back home loans where Black families lived, and after 1949 city officials cleared about 2,000 neighborhoods.
+- Who decided which families could live in which neighborhoods? White owners wrote rules called covenants into their deeds to bar Black buyers, and judges enforced them until 1948. Federal officials refused to back home loans where Black families lived, and after 1949 city officials cleared about 2,000 neighborhoods.
 
 **What changed:** Builders went from carrying baskets of earth at Cahokia to raising steel towers, and owners, judges and officials wrote rules about who could live where.
 

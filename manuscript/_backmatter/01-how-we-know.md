@@ -10,7 +10,7 @@ A record made when something happened, by someone who was there, is called a pri
 
 A diary is a book in which a person writes down each day as it happens. Amelia Stewart Knight kept one in 1853, when she traveled by wagon from Iowa to Oregon with her husband and seven children. She wrote about rain, mud, dust, sick children and hard river crossings. She was pregnant the whole way. She did not mention it in the diary until her son Adam was born, on September 18, 1853. The family had reached Oregon the day before. A diary records what its writer chose to write down, and a careful reader notices what was left out.
 
-Court records contain the judges' own words about how they punished people. On July 9, 1640, a court in Virginia judged three servants of a man named Hugh Gwyn who had run away together and been caught. The judges gave the two European men four more years of work as punishment. They sentenced the third man, John Punch, an African, to serve "for the time of his natural Life." That record is the first known sentence in Virginia that made a person a slave for life. It is also the first record in which Virginia judges punished one man more harshly than the others because of his race. Nobody wrote down why.
+Court records contain the judges' own words about how they punished people. On July 9, 1640, a court in Virginia judged three servants who had run away together from their master, Hugh Gwyn, and been caught. The judges gave the two European men four more years of work as punishment. They sentenced the third man, John Punch, an African, to serve "for the time of his natural Life." Historians count that ruling as the first known sentence of lifetime slavery in Virginia, because Punch had to serve until he died and his master could sell him or give him away. It is also the first record in which Virginia judges punished one man more harshly than the others because of his race. Nobody wrote down why.
 
 ## Bones, ruins and things in the ground
 
@@ -20,19 +20,21 @@ Sometimes bones confirm a written account. At Jamestown in Virginia, the English
 
 ## Stories passed down
 
-Oral tradition is history that people keep by telling it, from parents to children, across many lifetimes. Native nations kept their laws, treaties and histories this way for thousands of years before Europeans arrived, and many still do. Records written by colonists describe Native nations from the outside. A nation's own tradition records what its people remember and how they understood events. Where this book gives a Native nation's history, it gives the nation's own account beside the written one and says which is which. Chapter 2, Native Nations, contains the 2023 horse-bone study that showed the Plains nations' own histories were right.
+Oral tradition is history that people keep by telling it, from parents to children, across many lifetimes. Native nations kept their laws, treaties and histories this way for thousands of years before Europeans arrived, and many still do. Records written by colonists describe Native nations from the outside. A nation's own tradition records what its people remember and how they understood events. Where this book gives a Native nation's history, it gives the nation's own account beside the written one and says which is which.
+
+Chapter 2, Native Nations, and Chapter 5, Migration Across America, describe a 2023 study in which scientists tested old horse bones to find their age. The bones showed that many Plains nations had horses by the early 1600s, as the nations' own histories say.
 
 ## Counting
 
 Numbers look exact, but every count depends on who did the counting, what they counted, and why. When two counts of the same thing differ, historians look for the reason.
 
-A count changes when someone decides what to leave out. At Hoover Dam, built in the 1930s, the federal Bureau of Reclamation's official count is 96 workers killed on the job. That count leaves out 42 deaths recorded as pneumonia. Many historians think those men were poisoned by carbon monoxide, a gas from engine exhaust, in the tunnels. The official count is lower than the true one, and the exact number is unknown.
+A count changes when someone decides what to leave out. At Hoover Dam, built in the 1930s, the official count is 96 workers killed on the job. That count comes from the Bureau of Reclamation, the federal office that runs the dam, and it leaves out deaths from heat and sickness. The records list 42 more workers as dying of pneumonia, a sickness of the lungs. Workers blamed those deaths on carbon monoxide, a gas from engine exhaust, in the tunnels. The true number of workers who died is higher than 96, and nobody knows exactly how many.
 
 The words "at least" in a count mean the real number may be higher. Where this book gives a number, it gives the range when the sources give a range, and it names who counted.
 
 ## Who wrote the records, and who is missing
 
-For most of American history, the people who wrote things down and kept the papers were the people with power: officials, officers, owners and ministers. Their records describe other people from the outside, and many people appear in them without names. In late August 1619, an English ship called the *White Lion* landed captive Africans at Point Comfort, Virginia. The colonist John Rolfe wrote that it brought "20. and odd Negroes." His record lists none of their names. The first record of Africans in English Virginia records them only as a number.
+For most of American history, the people who wrote things down and kept the papers were the people with power: officials, officers, owners and ministers. Their records describe other people from the outside, and many people appear in them without names. In late August 1619, an English ship called the *White Lion*, which had sailed from the Netherlands, landed captive Africans at Point Comfort, Virginia. The colonist John Rolfe wrote that it brought "20. and odd Negroes." His record lists none of their names. The first record of Africans in English Virginia records them only as a number.
 
 When an account names a person, this book names the person. When the only record names nobody, the book states the event without a name, because an invented name would be a false fact.
 
@@ -42,10 +44,10 @@ When two records tell a story differently, historians check who wrote each one a
 
 ## Questions with no answer
 
-Some questions cannot be answered, because no record of the answer was ever made or none survived. When that happens, a careful historian states that the record is missing and leaves the gap empty instead of guessing. No surviving record names any of the Africans who landed in 1619, and the records do not settle whether the Virginia colonists treated them as servants, who could earn their freedom after some years, or as slaves for life. Virginia's laws did not yet use the word "slave." This book leaves that gap open, and every gap like it.
+Some questions cannot be answered, because no record of the answer was ever made or none survived. When that happens, a careful historian states that the record is missing and leaves the gap empty instead of guessing. No record made in 1619 names any of the Africans who landed that year, and the records do not settle whether the Virginia colonists treated them as servants, who could earn their freedom after some years, or as slaves for life. Virginia's laws did not yet use the word "slave." This book leaves that gap open, and every gap like it.
 
 A quotation keeps the words the person actually used, even words people today find hurtful, because changing them would change the record. Rolfe's "Negroes" was the common word of his time for Black people. Words made to insult a whole people are not repeated. Instead, the account says plainly what the word called people.
 
 ## The past keeps changing
 
-What is known about the past changes as new evidence is found. New tests find new facts in old bones. Lost letters turn up in attics and archives. People who were left out of the old records are found again when someone looks for them. Each new piece of evidence can confirm an old account, correct it, or show that it was wrong. The best way to know the past is the way historians do: look at the evidence, ask who made it, and say plainly what it shows.
+What is known about the past changes as new evidence is found. New tests find new facts in old bones. Lost letters turn up in attics and in archives, the places where old papers are kept. People who were left out of the old records are found again when someone looks for them. Each new piece of evidence can confirm an old account, correct it, or show that it was wrong.

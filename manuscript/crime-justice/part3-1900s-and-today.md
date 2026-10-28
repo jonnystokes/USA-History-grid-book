@@ -585,7 +585,7 @@ Tulsa's mayor, Monroe Nichols, announced the Greenwood Trust on June 1, 2025, a 
 **The three questions, answered**
 - How did punishment move from the whipping post to the prison cell? Colonial judges had people whipped, branded and hanged in public, and had their ears cut off. Pennsylvania's lawmakers turned the Walnut Street Jail into the country's first state prison in 1790, and by 2009 American prisons held about 1.62 million people.
 - Who kept order before there were police? Among the Native nations, families and clans settled killings, and in the colonies settlers took turns on a night watch while white men in the South rode on slave patrols. Full-time police began work in Boston in 1838 and in New York in 1845, and the US attorney general put 34 federal agents to work in 1908.
-- What happened to the people in mobs who killed without a trial? In almost every case in this chapter, nobody punished them. No one was charged for the Conestoga killings in 1763, for burning Francis McIntosh in 1836 or for burning Henry Smith in 1893, and no white person went to prison for Tulsa in 1921.
+- What happened to the people in mobs who killed without a trial? In almost every case the chapter describes, nobody punished them. No one was charged for killing twenty Conestoga people in 1763, for burning Francis McIntosh in 1836 or for burning Henry Smith in 1893, and no white person went to prison for the attack on Greenwood, the Black district of Tulsa, in 1921.
 
 **What changed:** The chapter begins with families settling a killing life for a life and ends with about 1.25 million people in state and federal prisons. From the first colonial courts on, whether a person got a fair trial depended on who that person was.
 

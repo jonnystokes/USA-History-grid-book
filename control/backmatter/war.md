@@ -224,4 +224,4 @@
 
 - Q: What killed most American soldiers before World War II? A: Disease. In the war with Mexico seven of every eight American dead died of something other than enemy fire, and in World War I flu and pneumonia killed more soldiers than the war's deadliest battle did.
 - Q: Who was made to fight, and who could get out of it? A: Drafts filled the armies of the Civil War, both world wars and Vietnam. In 1863 a drafted man could pay $300 and go home, and in the Vietnam years college students could put off the draft. Since 1973 everyone who serves has volunteered.
-- Q: Were soldiers who killed people who could not fight back ever punished? A: Rarely. No one was charged for Gnadenhutten or tried for Sand Creek, and Calley, the only man convicted for My Lai, went free on parole in 1974.
+- Q: Were soldiers who killed people who could not fight back ever punished? A: Rarely. No one was charged for killing 96 Christian Lenape and Mohican people at Gnadenhutten in 1782, and no one was tried for Sand Creek. Lieutenant William Calley, the only man convicted for My Lai, went free on parole in 1974.
