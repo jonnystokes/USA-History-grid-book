@@ -32,7 +32,7 @@ This chapter follows the people who did the work, era by era, from the farmers a
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 2 minutes**
+**Era 1 of 10 · Before 1500 · about 1 minute**
 
 The people of North America worked for their own households and towns before 1500, and they planned the work around the seasons. They farmed, hunted, fished and built canoes. Nobody worked for wages, pay from an employer, and no one hired another person, set their hours or fired them. Work for wages began here only after people from Europe arrived.
 <!-- /hb-zoom -->

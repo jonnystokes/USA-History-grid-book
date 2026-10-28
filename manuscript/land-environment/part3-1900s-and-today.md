@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 President Theodore Roosevelt and the federal officials after him took charge of hundreds of millions of acres in the first half of the 1900s, and some of that land had belonged to Native nations. Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909, in national forests, parks, bird refuges (land where wild birds are kept safe) and monuments.
 
@@ -211,7 +211,7 @@ In 1950: Crews had orders to put out every wildfire by 10 the next morning, and 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
 
 Pollution that people could see pushed members of Congress to pass the big laws that protect the land, air and water, and then people began to count who lived next to the waste. DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 an oil well blew out off Santa Barbara, California, and oil and trash on the Cuyahoga River in Cleveland caught fire.
 

@@ -102,7 +102,7 @@ The 1573 orders were among the first written rules anywhere in the world that sp
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 8 minutes**
+**Era 3 of 10 · The 1600s · about 7 minutes**
 
 Each colonial town of the 1600s went up in the homeland of a Native nation, and some were planned while others simply grew. English colonists began Jamestown in 1607 as a fort. Spanish officials laid out Santa Fe around a plaza. Boston, founded in 1630, had no plan at all, and its streets formed around the houses and the hills.
 
@@ -172,7 +172,7 @@ All five squares are still there. The four quarter squares are called Logan, Fra
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 3 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 2 minutes**
 
 As the four biggest colonial ports grew to between 8,000 and 13,000 people each, the people in them organized to fight fire. Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston, though some of the Charleston counts come from 1760 rather than 1750. London at the same date had over 700,000 people.
 

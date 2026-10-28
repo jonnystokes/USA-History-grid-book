@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
 
 Electric wires reached almost every American home in these fifty years. About 8 households in 100 had electricity in 1890, and 94 in 100 did by 1950. Emanuela Cardia worked out those figures in a 2008 study from the census, the government's count of the people and their homes, taken every ten years. Most farms got their wires only after 1935.
 
@@ -269,7 +269,7 @@ Some of the panels went to Unity College in Maine in 1991, where workers put 16 
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Natural gas took coal's place as the fuel that makes the most American electricity. Drillers got more and more of that gas by fracking, which cracks rock deep underground to free the gas inside. Natural gas made more electricity than coal over a full year for the first time in 2016, according to the US Energy Information Administration, or EIA. Wind and solar power made a record share of the country's electricity in 2025, about 17 to 18 percent, by EIA figures.
 

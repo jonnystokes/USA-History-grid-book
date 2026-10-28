@@ -74,7 +74,7 @@ Few records of single persons survive from these centuries.
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 10 minutes**
+**Era 2 of 10 · The 1500s · about 9 minutes**
 
 Spanish armies marched inland in the 1500s, and the diseases they carried reached many Native towns before the soldiers did. These expeditions were large armed groups traveling into country new to them. The diseases spread ahead of them and behind them. A town could lose many of its people before any European arrived there, and the diseases killed large shares of whole communities. Some writers call these deaths the Great Dying.
 
@@ -274,7 +274,7 @@ The horses had been ridden and had eaten corn that people fed them. They had als
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 3 minutes**
 
 Haudenosaunee leaders bargained with French and British officials for fifty years, because both sides wanted Native allies. Native nations also went on making their own agreements with one another.
 
@@ -329,7 +329,7 @@ Benjamin Franklin printed the minutes of the council, the written record of what
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
 French and British armies fought their wars on Native land after 1750. Then the leaders, soldiers and settlers of a new country, the United States, moved onto that land and fought the nations for it.
 

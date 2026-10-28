@@ -97,7 +97,7 @@ Federal workers, the people who work for the national government, did not get th
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 After 1950, Americans argued over whose days the country should mark. In 1968 the members of Congress moved three holidays to Mondays, so that workers got more three-day weekends, and made Columbus Day a federal holiday, a paid day off for the national government's workers. Maulana Karenga and his group, called Us, started Kwanzaa in 1966. Students and marchers in the civil rights movement brought Juneteenth back.
 
@@ -246,7 +246,7 @@ In 2000: King's day was a federal holiday and every state had named a day for hi
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 8 minutes**
+**Era 10 of 10 · 2000 to Today · about 7 minutes**
 
 Since 2000 the members of Congress have added one federal holiday, Juneteenth, in 2021. Lawmakers in Virginia and Arkansas stopped joining King's day to days for Confederate generals. Alabama and Mississippi still honor Robert E. Lee on the same Monday as King.
 

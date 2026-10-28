@@ -345,7 +345,7 @@ One evening in the autumn of 1771 Dock did not come home from school at the usua
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 12 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
 
 The men who founded the United States argued that the new country needed schools, and they mostly did not pay for them. Thomas Jefferson wrote a plan for public schools in Virginia, and Virginia's lawmakers never passed it. The new schools of these fifty years included private academies, the first school for girls with a charter from a government, church charity schools, and a charity school and a college meant for Native students.
 

@@ -13,7 +13,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 22 minutes**
 
 Clubs, troops and leagues run by adults filled more and more of children's free time in the first half of the 1900s. Adults set up 4-H clubs in 1902, the Boy Scouts in 1910, the Girl Scouts in 1912 and Little League baseball in 1939. Children also spent many free hours watching and listening, at Saturday movies, beside the radio and over comic books. In Muncie, Indiana, in the 1930s, at least half of the children at Saturday movies stayed five or six hours.
 
@@ -257,7 +257,7 @@ Robinson was named the first Rookie of the Year, the best first-year player, in 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
 Girls and Black children pushed their way into games that had kept them out in the second half of the 1900s, while more of children's afternoons went to lessons and organized sports. Fewer children walked or biked to school. Diaries of how children spent their days in 1981 and 1997 showed more time in organized sports and lessons, and less time in free play and watching television. Children could play video games for a quarter in arcades from 1972, and on game machines at home from 1975.
 

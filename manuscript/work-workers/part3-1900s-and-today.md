@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Members of Congress passed the first federal laws for a lowest wage, a shorter work week and the right to form a union in the 1930s, after three decades of child labor and deaths on the job. Under the Wagner Act of 1935, forming a union became a legal right. A law of 1938 set a minimum wage of 25 cents an hour and a work week of 44 hours, falling to 40 by 1940, and it banned most work by children under 16.
 
@@ -436,7 +436,7 @@ After the case, and partly because of it, members of Congress passed a federal l
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Millions of Americans now work for themselves and sell their work to companies, outside most labor laws, including the minimum wage law. About 11.9 million of them were independent contractors in their main job in July 2023, and some find their work through apps on their phones. One worker in ten belonged to a union in 2025, according to the federal Bureau of Labor Statistics. Workers at Starbucks coffee shops and at an Amazon warehouse voted in their first unions in 2021 and 2022.
 

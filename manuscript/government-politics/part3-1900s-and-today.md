@@ -214,7 +214,7 @@ About 122,000 men, women and children of Japanese descent were forced into camps
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 25 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 24 minutes**
 
 A senator with a brain tumor, unable to speak, pointed to his eye to vote "aye" on June 10, 1964, and the Senate cut off debate on a civil rights bill for the first time. That law banned segregation in public places. Under a second law, in 1965, officials in some states and counties had to ask federal officials before changing any voting rule. Between 1954 and 1977 the justices of the Supreme Court decided cases on schools, on how votes and voting districts were counted, and on how police question people they arrest.
 
@@ -428,7 +428,7 @@ Who counts the votes when the count itself is disputed? In 1948 a party committe
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 21 minutes**
+**Era 10 of 10 · 2000 to Today · about 19 minutes**
 
 Since 2000, judges have ruled on how votes are counted, how voting districts are drawn and whether corporations may spend money on elections. In 2000 the justices of the Supreme Court stopped a recount, a second count of the votes, in Florida during the presidential election. On January 6, 2021, while members of Congress counted the electoral votes, a crowd attacked the Capitol, the building where Congress meets. Judges also ruled on public money for religious schools and on how children are assigned to schools.
 <!-- /hb-zoom -->

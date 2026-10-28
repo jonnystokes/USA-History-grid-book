@@ -34,7 +34,7 @@ Watch who is allowed to act. Priests burned Pueblo masks, lawmakers banned plays
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 7 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 In the Native nations here before 1500, acting was part of religion. A dancer in a mask took on the part of a spirit or an animal, in ceremonies and to ask the animals to give themselves to hunters. Among the Pueblo peoples, men carved dolls of these spirits so that girls would learn who each one was.
 
@@ -84,7 +84,7 @@ No person from before 1500 in this land who acted, danced or told stories is nam
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 7 minutes**
+**Era 2 of 10 · The 1500s · about 6 minutes**
 
 The first European play on record in what is now the United States was acted on the day a Spanish leader claimed the land for his king, and his men made Native people act in it. Spanish soldiers and priests put it on beside the Rio Grande on April 30, 1598. They made Manso people, who lived near their camp, take part.
 

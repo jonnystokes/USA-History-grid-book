@@ -4,7 +4,7 @@
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 11 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
 
 Native leaders founded national organizations of their own in these fifty years, the Society of American Indians in 1911 and the National Congress of American Indians in 1944. Federal boarding schools stayed open the whole time.
 
@@ -135,7 +135,7 @@ He wrote about what happened to him in *Code Talker*, a memoir, or book about th
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
 
 Native nations spent these fifty years fighting a federal plan to end them as nations, and winning back the running of their own affairs. Members of Congress declared in 1953 that the United States should end its recognition of Native nations, which means its dealings with each nation as a government. Twenty-two years later, in 1975, President Ford signed a law under which Native nations could take control of their own schools, clinics and police.
 
@@ -299,7 +299,7 @@ Other people who were children at the schools told it differently. Chester Nez w
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 10 minutes**
+**Era 10 of 10 · 2000 to Today · about 9 minutes**
 
 Native nations govern themselves today. There are 574 federally recognized Native nations in the United States, which means that United States officials deal with each one as a government. There are also nations recognized by their states, and nations still working to win federal recognition. More than 200 Alaska Native villages have their own corporations. Native Hawaiians have no federally recognized government of their own.
 

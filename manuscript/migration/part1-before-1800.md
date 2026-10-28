@@ -64,7 +64,7 @@ Trade goods moved across the land as well. Traders passed turquoise, seashells, 
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 5 minutes**
+**Era 2 of 10 · The 1500s · about 4 minutes**
 
 Spanish colonists brought two things north in the 1500s that later changed how people moved across this land: horses, and families who came with wagons and herds to stay. The whole land from coast to coast was still Native land. Europeans reached its edges, but no crowds of settlers moved across the interior. The first colony that came over land to stay arrived at the very end of the century, when Juan de Oñate led Spanish colonists north into what is now New Mexico in 1598.
 <!-- /hb-zoom -->

@@ -32,7 +32,7 @@ Era by era, this chapter describes how people and goods moved, from foot trails 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 Nobody in North America hauled loads on wheels before 1500, and nobody rode a horse. People moved themselves and their goods on foot and by water, over trails and rivers that crossed the whole continent. The horses of the Americas had died out after the ice age. North of Mexico, no large animal was left that could pull a cart.
 
@@ -127,7 +127,7 @@ Converse was a Puritan, one of the English Christians who started the Massachuse
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Stage lines for passengers and a big freight wagon called the Conestoga came into use in the English colonies between 1700 and 1750. Pennsylvania wagon builders made the Conestoga to haul freight to Philadelphia, and New Jersey officials licensed one of the first stage lines in 1706. The roads were still rough, as Sarah Kemble Knight wrote in her journal after she rode from Boston to New York in 1704.
 <!-- /hb-zoom -->
@@ -180,7 +180,7 @@ Her journal is an eyewitness record of the road itself. It was published in 1825
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 4 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 3 minutes**
 
 Around Philadelphia, between 1750 and 1800, investors paid for a road and charged travelers a fee to use it, and an inventor ran a boat pushed by a steam engine. The investors, people in and around Philadelphia and Lancaster, put their money into the road company in 1792. Their Philadelphia and Lancaster Turnpike, finished in the mid-1790s, was the first long-distance road of its kind in the country.
 

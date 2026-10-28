@@ -202,7 +202,7 @@ The Old Ship Meetinghouse in Hingham, Massachusetts, was built in 1681. The Puri
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Colonists in Boston and Philadelphia put up public buildings that are still landmarks today. The first lighthouse in what became the United States was lit at the mouth of Boston Harbor in 1716, and Boston's Old North Church went up in 1723. In Philadelphia, builders began a statehouse for Pennsylvania's lawmakers in 1732. It is now called Independence Hall.
 

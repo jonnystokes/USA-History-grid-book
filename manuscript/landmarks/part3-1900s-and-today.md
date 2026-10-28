@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 13 minutes**
 
 Workers died building three of the giant landmarks that went up between 1913 and 1941. Five died on the Empire State Building and 11 on the Golden Gate Bridge. At Hoover Dam the official count is 96, and it leaves out 42 more deaths that were listed as pneumonia.
 
@@ -170,7 +170,7 @@ People tell a story that men are buried inside the dam's concrete. It is false. 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 7 minutes**
 
 Americans in these years fought over who was allowed to build a landmark and over what a memorial to the dead should look like. In St. Louis, Justice Department lawyers later charged in court that leaders and members of the building trades unions kept Black workers out of the unions, and so off the job building the Gateway Arch. Two men climbed the unfinished arch in protest.
 

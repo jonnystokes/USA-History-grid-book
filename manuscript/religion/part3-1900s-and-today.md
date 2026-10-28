@@ -490,7 +490,7 @@ Danforth also reported that an FBI agent had fired three tear-gas rounds of a ki
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 29 minutes**
+**Era 10 of 10 · 2000 to Today · about 28 minutes**
 
 Fewer Americans have belonged to a congregation since 2000. In a survey taken in 2023 and 2024, 29 percent of American adults said they had no religion, up from 16 percent in 2007. People attacked worshippers inside gurdwaras, the houses of worship of the Sikh religion, and inside churches and synagogues, and killed them where they prayed.
 

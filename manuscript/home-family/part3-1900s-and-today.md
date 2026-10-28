@@ -145,7 +145,7 @@ He said that if a Black family bought a house in Levittown, white families would
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
 
 A house in the suburbs became the common picture of American family life after 1950. The share of households that owned their home rose from 43.6 of every 100 in 1940 to 61.9 in 1960. Lenders and sellers kept Black families out of many of the new suburbs, and in Levittown, Pennsylvania, a mob attacked the house of the first Black family to move in.
 
@@ -255,7 +255,7 @@ Grant, Drew and Reed went on to Harvard University and graduated in 1987, 1990 a
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 7 minutes**
+**Era 10 of 10 · 2000 to Today · about 6 minutes**
 
 The median new American house grew to 2,467 square feet by 2015, while the average household shrank to 2.50 people by 2025. In the crash that began in 2007, lenders took back millions of homes from families who could not pay their loans. During the pandemic of 2020, many homes became an office and a school at the same time.
 <!-- /hb-zoom -->

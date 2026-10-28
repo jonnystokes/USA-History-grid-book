@@ -243,7 +243,7 @@ By one estimate, some Native nations lost more than 60 of every 100 people. A So
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 7 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 6 minutes**
 
 Doctors in Boston and Charleston began protecting people against smallpox in these fifty years by inoculation: giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children, and smallpox killed about half of the Cherokee Nation.
 <!-- /hb-zoom -->

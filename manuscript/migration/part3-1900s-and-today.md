@@ -190,7 +190,7 @@ A small number of Black Americans began moving back to the South in the 1970s, a
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 7 minutes**
 
 Hurricane Katrina and the broken levees around New Orleans forced more than 1 million people from their homes on the Gulf Coast in 2005, the largest sudden move of these years. After Hurricane María hit Puerto Rico in 2017, about 130,000 people left the island for the mainland within a year.
 

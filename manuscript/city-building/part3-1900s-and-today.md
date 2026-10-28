@@ -183,7 +183,7 @@ She married a man called Blackie Black and stayed in Oak Ridge for the rest of h
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
 
 St. Louis lost about 60 percent of its people between 1950 and 2000, and Detroit lost nearly half. Families moved out of the centers of older American cities to new suburbs at their edges. Cities in the hot South and West grew fast. Phoenix, Arizona, went from about 107,000 people in 1950 to more than 1.3 million in 2000.
 

@@ -78,7 +78,7 @@ When the rock along a fault moves suddenly, the ground shakes. Scientists have f
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 7 minutes**
+**Era 2 of 10 · The 1500s · about 6 minutes**
 
 A hurricane in Pensacola Bay sank six Spanish ships in 1559 with the food for 1,500 colonists still on board. Spanish and English colonists of the 1500s wrote down the disasters they lived through, and this storm is one of them.
 
@@ -228,7 +228,7 @@ A fire in Boston's North End destroyed 45 buildings on November 27, 1676. Among 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 10 minutes**
 
 Every member of Philadelphia's Union Fire Company kept six leather buckets ready for the next fire. In these fifty years townspeople began to organize against the fires that kept burning their wooden towns. In 1722 about two-thirds of Boston's nearly 3,000 houses were built of wood. Boston got its first fire wardens after a fire in 1711, and neighbors in Boston and Philadelphia formed fire companies.
 

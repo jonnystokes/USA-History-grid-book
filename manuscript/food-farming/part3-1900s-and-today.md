@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 Federal inspectors went to work inside the meatpacking plants in 1906, and in the years that followed federal officials took on many new jobs in how Americans got their food. In the 1930s, officials paid farmers to grow less, bought up extra food and gave it to hungry families. During World War II they limited how much sugar, meat and coffee each person could buy. In 1946 President Harry Truman signed a law that made school lunch a permanent federal program.
 
@@ -213,7 +213,7 @@ Towns and charities had already run school meal programs for decades, and in the
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
 
 Fewer, bigger farms grew more food on each acre after 1950. Farmers used tractors, hybrid seed, fertilizer and pesticides. Swanson sold 25 million frozen TV dinners in 1955, and fast-food stands served hamburgers in seconds. In the 1980s the owners of about 300,000 farms could not pay their loans, after land prices fell and interest rates rose. Meanwhile some farmers and cooks began to grow food by organic methods, without man-made chemical fertilizers and pesticides, and to serve food from nearby farms.
 <!-- /hb-zoom -->
@@ -348,7 +348,7 @@ Their daughter, Jeanne Jordan, and the filmmaker Steven Ascher made the film abo
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 10 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 Americans have argued since 2000 over what goes into their food, who picks it and who can get enough of it. Meanwhile the number of farms kept falling. The 2022 Census of Agriculture, the USDA's count of the country's farms, found 1.9 million farms in the United States, 7 percent fewer than in 2017. It was the first count below 2 million since before the Civil War. In 1935 there had been 6.8 million.
 <!-- /hb-zoom -->

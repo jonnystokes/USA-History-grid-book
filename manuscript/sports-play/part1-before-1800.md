@@ -116,7 +116,7 @@ Spanish friars, Catholic religious men who lived by strict rules, began building
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 11 minutes**
+**Era 3 of 10 · The 1600s · about 10 minutes**
 
 The men who governed the English and Dutch colonies in the 1600s wrote laws about when and where people could play. In Massachusetts and Plymouth, lawmakers and judges fined people for cards, dice and tavern games. In New Netherland, the Dutch director banned ball games, cards and bowling on Sunday before, between and during church services. Virginia planters, men who owned big farms, raced horses for thousands of pounds of tobacco, and one county court punished a tailor for racing, saying racing was "a sport only for Gentlemen."
 

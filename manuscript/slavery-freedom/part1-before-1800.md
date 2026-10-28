@@ -299,7 +299,7 @@ By Lepore's count, officials burned 13 Black men at the stake and hanged 17 Blac
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
 
 The men who led the Revolution wrote in 1776 "that all men are created equal," and enslaved people used words like those to claim their freedom. Elizabeth Freeman won hers in a Massachusetts court in 1781 with the words of the new state constitution. About 20,000 Black people joined or fled to the British during the war, after Virginia's royal governor promised freedom to enslaved men who fought for Britain. In 1796 Ona Judge walked out of President George Washington's household and never went back.
 

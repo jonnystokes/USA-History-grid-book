@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Most of the Americans who fought in the two world wars were drafted. World War II was the first American war in which more of them died in battle than of disease, accidents and infections.
 
@@ -246,7 +246,7 @@ Federal officials charged Shull with violating Woodard's civil rights. In Novemb
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
 
 American forces fought two long wars in Asia between 1950 and 2000, in Korea and in Vietnam. Drafted men fought in Vietnam until the draft ended in 1973, and after that everyone who joined the armed forces had volunteered.
 
@@ -398,7 +398,7 @@ The committee's scientists linked the illness to pills the soldiers took to prot
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Every American who fought in the wars after the attacks of September 11, 2001, had volunteered. American forces fought in Afghanistan for almost 20 years and in Iraq for almost 9.
 

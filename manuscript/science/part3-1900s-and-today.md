@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 American scientists measured distances across the universe and ran the first controlled nuclear chain reaction in these fifty years, and some of them used people as research material without asking them. Henrietta Leavitt found a rule for measuring space in 1912, and Edwin Hubble used it to show in 1929 that the galaxies are moving apart. Enrico Fermi's team in Chicago ran the chain reaction on December 2, 1942. Fermi, Albert Einstein and Emilio Segrè all came to American labs from Europe in the 1930s.
 
@@ -273,7 +273,7 @@ She first described the moving genes in 1948. In 1950 she published a paper abou
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 19 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
 
 A doctor cut cells from Henrietta Lacks's tumor in 1951 without asking her, and for the rest of the century Americans kept learning what scientists had done to people who never agreed. The reporter Eileen Welsome made the plutonium injections public in 1993. Members of a federal committee then found nearly 4,000 radiation experiments on people, and in 1995 President Bill Clinton apologized. Under laws passed in 1989 and 1990, museum staff had to begin returning the Native American dead that scientists had collected.
 
@@ -471,7 +471,7 @@ O'Leary announced in November 1996 that the families of 12 people injected in th
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 The biggest experiments after 2000 had thousands of scientists on them. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012. Scientists finished reading nearly all of the human genome in 2003 and read all of it in 2022, and they detected gravitational waves for the first time in 2015.
 

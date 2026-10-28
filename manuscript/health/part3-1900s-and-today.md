@@ -491,7 +491,7 @@ In 2000: No one had caught polio inside the United States since 1979, Medicare p
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 COVID-19 and drug overdoses cut American lives short in these years, even as doctors learned to edit the genes in a patient's own cells to treat sickle cell disease. COVID-19 killed 1,245,791 people in the United States from 2020 to September 19, 2026, by the early count of the CDC, the federal disease agency. Drug overdoses killed more than 100,000 Americans a year in 2022 and 2023.
 

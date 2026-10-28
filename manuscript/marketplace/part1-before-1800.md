@@ -149,7 +149,7 @@ Pynchon's books list his purchases until 1689. They do not say what became of hi
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Goods made in Britain became cheap enough in the 1700s for colonial families to buy them in large amounts. Shops in the port towns sold these goods, and in Philadelphia Benjamin Franklin made advertisements pay for much of his newspaper. Colonists bought and sold enslaved people in the same towns. In New York, city officials set up a market for those sales, and printers, Franklin among them, ran advertisements offering people for sale.
 <!-- /hb-zoom -->

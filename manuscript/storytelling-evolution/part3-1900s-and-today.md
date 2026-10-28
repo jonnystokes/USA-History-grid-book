@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Acting moved onto film and into radio in these fifty years, and the people in charge kept the parts of the old minstrel stage, where white men had blacked their faces to mock Black people. Americans in 1903 saw films mostly in vaudeville theatres, which put on shows made of many short live acts. From 1905 small theatres charged five cents to see short films, and by 1908 there were about 8,000 of them.
 
@@ -253,7 +253,7 @@ Twenty years later, on June 8, 1948, the NBC network began broadcasting a comedy
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 The fight over who could act turned political after 1947. Members of a House committee questioned film workers about communism, a system in which one party runs the government and the government owns the farms and factories. Studio executives announced that they would not knowingly hire any Communist. Hundreds of writers, directors and actors lost work, some for more than ten years.
 
@@ -433,7 +433,7 @@ The physicist William Higinbotham built *Tennis for Two* in 1958 for a public ex
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 26 minutes**
+**Era 10 of 10 · 2000 to Today · about 23 minutes**
 
 The newest fight over acting is over computer copies of actors' faces, bodies and voices. Since 2000, actors have performed in suits covered with markers while computer artists turned their movements into creatures and game characters, and game makers now hire actors to perform whole stories. In 2023 film and television actors and writers went on strike together for the first time since 1960.
 

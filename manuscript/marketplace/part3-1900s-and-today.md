@@ -10,7 +10,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 13 minutes**
 
 Chain stores spread across the country, and the biggest grocery chain, the A&P, grew from about 200 stores in 1900 to about 15,000 by 1930. Grocers began letting customers take goods off the shelves themselves, and families bought cars and radios on monthly payments. Sellers began paying radio and television stations to air their advertisements. Coal companies paid miners in their own money, which only the company store accepted at full value. During the Second World War, shoppers needed ration stamps as well as money to buy many foods.
 <!-- /hb-zoom -->
@@ -153,7 +153,7 @@ Emilia had a 1933 Plymouth car. Donald remembered the family's gasoline ration a
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
 
 Americans began shopping at enclosed malls and discount stores after 1950, and paying with plastic cards. The first fully enclosed shopping mall in the United States opened in Minnesota in 1956. Kmart, Target and Wal-Mart all opened their first stores in 1962. In 1974 a cashier in Troy, Ohio, made the first sale with a scanner that read a printed code on a package. By 2000, people could shop at home on television shopping channels, and from 1995 on a computer.
 <!-- /hb-zoom -->
@@ -264,7 +264,7 @@ Pierre Omidyar started a website called AuctionWeb, where people sold goods at a
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 About one dollar in six of all American retail spending went to online sales from April to June 2026, by the count of the US Census Bureau. Since 2005, members of Amazon Prime have paid a fee for two-day shipping. Drivers carry the orders to people's doors, including on days of summer heat. Sellers now buy the right to show advertisements to one person at a time, chosen from records of what that person has done online.
 <!-- /hb-zoom -->

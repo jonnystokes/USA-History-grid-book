@@ -36,7 +36,7 @@ Again and again the money and the credit went to someone else: a white stage per
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Native nations in this land made music for nearly every part of life, and they passed their songs on by teaching them. Their songs were for ceremonies, healing, work, games, courting a sweetheart, storytelling, hunting, farming, war and social dances. None of the nations north of Mexico had a way of writing tunes down, so no singer's name and no song's name from these centuries survives in writing.
 
@@ -183,7 +183,7 @@ Enslaved Africans made music in the English colonies through the 1600s, but no o
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 8 minutes**
 
 Two fights over music ran through these fifty years. In New England, church members argued about singing from written notes, and in South Carolina, lawmakers took drums away from enslaved people. New England ministers began teaching their congregations to read notes around 1720. They started singing schools and printed the first books of music lessons in the colonies.
 

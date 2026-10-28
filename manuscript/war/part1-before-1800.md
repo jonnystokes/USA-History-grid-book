@@ -32,7 +32,7 @@ This chapter follows, in order, the wars fought on this land and then the wars A
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 People fought wars in North America long before Europeans came, and everything known about those wars comes from what the fighters left in the ground. No one north of Mexico wrote them down. Archaeologists, scientists who dig up and study what people left behind, have found skeletons with wounds, houses burned where they stood, and ditches and walls built around towns.
 
@@ -240,7 +240,7 @@ The raids broke the Wendat apart between 1642 and 1649. Haudenosaunee fighters d
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 8 minutes**
 
 Both wars that reached North America in these years began in Europe, one over who would become king of Spain and one over who would rule Austria. Colonial militia and Native fighters did most of the fighting here, and the Native fighters had their own reasons. Here the two wars are called Queen Anne's War, from 1702 to 1713, and King George's War, from 1744 to 1748.
 
@@ -334,7 +334,7 @@ British officials gave Louisbourg back to France in 1748 in the Treaty of Aix-la
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 17 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 16 minutes**
 
 Soldiers from the colonies, and then from the new United States, were at war for most of the forty years after 1754. In the Revolution, sickness killed more of them than enemy weapons did.
 

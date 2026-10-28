@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 64 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 63 minutes**
 
 The people who organized for their rights between 1900 and 1950 worked out the methods that organizers in the 1960s later used. Alice Paul put women on a picket line at the White House gates in 1917. Disabled New Yorkers sat down in a city relief office in 1935 and would not leave.
 
@@ -562,7 +562,7 @@ Sergeant Isaac Woodard was discharged from the Army after four years on February
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 56 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 55 minutes**
 
 Five groups of Americans ran organized campaigns after 1950: Black Americans, women, Mexican Americans, gay Americans and disabled Americans. Each group won changes in the country's laws. The justices of the Supreme Court ruled in 1954 that segregated public schools broke the Constitution, and in 1956 they struck down segregation on Montgomery's buses. Members of Congress then passed new laws.
 

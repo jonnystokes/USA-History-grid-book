@@ -32,7 +32,7 @@ This chapter follows what Americans wore, and what it was made from, through all
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 7 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 The people of North America before 1500 dressed in what they could grow, hunt or get by trade. They wore deer hide, rabbit fur and turkey feathers, and cloth woven from cotton and from the fiber of the yucca, a desert plant. Their ornaments were sea shells from the Gulf of Mexico and copper from the country around Lake Superior. Their colors came from plants and from a mineral called red ochre.
 
@@ -291,7 +291,7 @@ South Carolina's indigo was shipped to England for British cloth makers. South C
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
 Colonists who opposed British taxes turned their clothes into a protest. From the Stamp Act tax of 1765 until the Revolution, they agreed again and again to boycott, or refuse to buy, British goods, including cloth. Delegates at the First Continental Congress, a meeting of leaders from the colonies, voted in 1774 to ban British goods in every colony from December 1.
 

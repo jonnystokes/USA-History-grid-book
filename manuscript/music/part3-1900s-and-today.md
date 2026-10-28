@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 29 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 27 minutes**
 
 Record companies began to record and sell the blues, jazz and country music in these years, and the companies and the men who held the copyrights kept much of the money. Black musicians in the South made the blues and jazz. Country music came from Southern singers and players, white ones like the Carter Family and Black ones like DeFord Bailey and Lesley Riddle. Bessie Smith's first record sold 780,000 copies, and Columbia paid her a set fee and no share of the sales.
 
@@ -294,7 +294,7 @@ As a young woman, Marian Anderson applied to a music school in Philadelphia. The
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 22 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 20 minutes**
 
 Black musicians made rock and roll, soul and hip-hop. White singers then sold more copies of some of those songs than the Black singers who recorded them first. Record company owners, managers and publishers kept much of the money from songs such as "Hound Dog" and "That's All Right."
 
@@ -512,7 +512,7 @@ Between 30,000 and 40,000 people came to see Selena's coffin. Her album *Dreamin
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 25 minutes**
+**Era 10 of 10 · 2000 to Today · about 22 minutes**
 
 Most Americans now stream their music, playing songs over the internet without buying copies, and a streaming service pays the owner of each recording a fraction of a cent a play. By 2025, 82 cents of every dollar that American record companies took in came from streaming.
 

@@ -32,7 +32,7 @@ This chapter follows faith in America from the sun posts at Cahokia to the shoot
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Hundreds of Native nations lived on this land before 1500, and each one had its own religious life. So there were hundreds of Native religions, and many are still practiced today. The nations shared no holy book and no single founder. Each held its ceremonies in a set place, at a set season, with its own community.
 

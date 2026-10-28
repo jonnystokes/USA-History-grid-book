@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 9 minutes**
 
 Orville and Wilbur Wright flew a powered airplane in 1903, and Ford's Model T car went on sale five years later, for $825. Workers at Ford built 15 million Model Ts by 1927. The first airline to fly on a schedule began in 1914, across Tampa Bay in Florida, and by 1927 airplanes were carrying mail and paying passengers on schedules.
 
@@ -131,7 +131,7 @@ The ruling covered only trips between states. Reporters at the *Afro-American* n
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
 
 Three new ways of moving people and goods over long distances began between 1956 and 1958: Interstate highways, shipping containers and American jet airliners across the Atlantic. President Dwight Eisenhower signed the law for the Interstates, the big highways that join the states, in 1956, the same year a ship called the *Ideal X* carried 58 shipping containers from New Jersey to Texas.
 
@@ -257,7 +257,7 @@ Workers in Windsor, Ontario, in Canada, built the first Dodge Caravan and Plymou
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 With a phone in hand, Americans after 2000 could find their way and hire a ride, and some of them bought electric cars. About 8 of every 100 new cars sold in 2024 ran on batteries alone, according to Kelley Blue Book. About 7 of every 100 bridges in the country were rated in poor condition in federal records in 2025, by the count of a road builders' group.
 

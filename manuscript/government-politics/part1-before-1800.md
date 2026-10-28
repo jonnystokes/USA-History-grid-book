@@ -34,7 +34,7 @@ The chapter also follows the laws about schools, which say where children must g
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Most of this era is about the Haudenosaunee, five nations in the Northeast that joined in a league and lived under one law, because their own full telling of that law survives. Two short spans at the end cover the Pueblo towns along the Rio Grande, where each town ran its own affairs, and Cahokia, a city of thousands on the Mississippi River led by chiefs.
 <!-- /hb-zoom -->

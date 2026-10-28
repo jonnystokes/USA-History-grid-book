@@ -169,7 +169,7 @@ New England soldiers under Colonel William Pepperrell sailed from Boston on Marc
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 16 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 15 minutes**
 
 In the middle of their war for independence, American leaders looked in secret for anyone abroad who would help them fight Britain. They started in November 1775. French and American diplomats signed an alliance in 1778, and in 1783 American diplomats in Paris signed the peace that ended the war.
 

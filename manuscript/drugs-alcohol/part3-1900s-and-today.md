@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 20 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 19 minutes**
 
 Drugs and alcohol came under federal control in the first half of the 1900s, first through labels and then through bans. From 1906, drug makers had to list opium, morphine and alcohol on their labels. From 1915, everyone who sold opium or cocaine had to register and keep records, and Treasury officials, who worked in the department that handles the government's money and taxes, took doctors to court for giving addicts their drug. In 1937 members of Congress taxed marijuana.
 
@@ -354,7 +354,7 @@ Prescriptions of OxyContin for pain not caused by cancer rose from about 670,000
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Opioids, first pain pills such as OxyContin, then heroin, then fentanyl, killed about 806,000 Americans from 1999 to 2023, by the count of the Centers for Disease Control and Prevention (CDC). An overdose is too much of a drug at once, enough to make a person very sick or kill them.
 

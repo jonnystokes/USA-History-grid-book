@@ -298,7 +298,7 @@ Later she became a US citizen, learned English and was reunited with her childre
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Today almost all the clothes sold in the United States are sewn in other countries, and Americans throw away far more cloth than they did in 2000. They threw away 17 million tons of cloth in 2018, most of it clothing, by the count of the US Environmental Protection Agency. That was almost twice the 9.5 million tons they threw away in 2000.
 

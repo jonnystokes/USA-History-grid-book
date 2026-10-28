@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 8 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 7 minutes**
 
 Southern lawmakers, sheriffs, judges and company managers spent the first half of the 1900s running a system that took slavery's place. Lawmakers passed laws that kept Black and white people apart, and they took the vote from most Black men. Sheriffs arrested Black men for small crimes, judges sentenced them, and state officials rented them to mine companies, whose managers worked them without pay. White mobs lynched Black people by the thousands. Researchers at the Equal Justice Initiative have counted more than 4,400 such killings between 1877 and 1950.
 
@@ -99,7 +99,7 @@ He could not go anywhere without his enslaver's permission: "I couldn't go from 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 4 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 3 minutes**
 
 Federal judges and lawmakers began to enforce the promises of the Civil War amendments in these fifty years, almost a hundred years after they were written.
 

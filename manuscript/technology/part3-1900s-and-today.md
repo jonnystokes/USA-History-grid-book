@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 9 minutes**
 
 Americans brought machines into their factories, farms and homes in these fifty years. Workers at Henry Ford's car plant in Michigan started building car frames on a moving assembly line on October 7, 1913. Electric refrigerators and radios went into American homes, tractors began to replace horses on farms, and chemists made new materials, starting in 1907 with Leo Baekeland's Bakelite, the first plastic made entirely from chemicals.
 
@@ -133,7 +133,7 @@ Scientists used cyclotrons to make elements that do not occur in nature. They ma
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
 
 Computers shrank from machines that filled a room to machines that sat on a desk at home, and people linked them into networks. Jack Kilby of Texas Instruments built the first integrated circuit, a whole electronic circuit on one small chip, in 1958. The Altair 8800, a computer sold as a kit of parts, was announced in the magazine *Popular Electronics* in January 1975, and IBM began selling the IBM PC in 1981. The IBM PC became the standard office computer.
 

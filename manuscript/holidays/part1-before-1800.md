@@ -264,7 +264,7 @@ In Connecticut the Black election came the day after the white men's election, a
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
 
 Americans held the first planned Fourth of July celebrations on July 4, 1777, the first anniversary of independence. Within a few years they also celebrated George Washington's birthday. Neither day was a national holiday yet. The Continental Congress was the meeting of men sent by each state to lead the Revolution. Its members asked Americans to keep days of thanksgiving on dates they chose. Later President Washington did the same. None of them set a yearly date.
 

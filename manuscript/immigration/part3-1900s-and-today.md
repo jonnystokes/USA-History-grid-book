@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 The great wave of newcomers peaked in the early 1900s, and then members of Congress cut it down with quota laws, laws that fixed how many people could come from each country. Officials at Ellis Island admitted 1,004,756 people in 1907 alone. Under the 1924 law, no more than about 165,000 immigrants could come each year, and almost no one from Asia could come at all. On the West Coast, officials at Angel Island held Chinese arrivals anywhere from a few days to many months.
 
@@ -173,7 +173,7 @@ After 1924: no more than about 165,000 could come in a year, and about 86 of eve
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 13 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
 
 Members of Congress threw out the country-by-country quotas in 1965, and after that most newcomers came from Asia, Latin America, Africa and the Caribbean instead of Europe. Federal officers rounded up Mexicans and Mexican Americans in 1954 and sent them to Mexico, and many of the people they sent were US citizens.
 
@@ -321,7 +321,7 @@ Under the same law, officials could for the first time punish employers who know
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 18 minutes**
+**Era 10 of 10 · 2000 to Today · about 15 minutes**
 
 The share of people here who were born in another country rose almost to its highest ever, and federal officers held more people in immigration detention than ever before. About 47.8 million people living in the United States in 2023 had been born in another country, by the Census Bureau's count. That was 14.3 percent of the population, the highest share since 1910. More of them came from Mexico than from any other country.
 

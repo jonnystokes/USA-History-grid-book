@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 The Galveston hurricane of September 1900 killed between 6,000 and 12,000 people, more than any other natural disaster in the country's history. In the fifty years after it, many more people died because of choices other people made.
 

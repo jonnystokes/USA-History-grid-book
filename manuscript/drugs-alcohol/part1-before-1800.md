@@ -34,7 +34,7 @@ Each time, look at who gets punished. Coles was a free colonist with the right t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 People in this land used plants that change how the body and the mind feel for thousands of years before Europeans came. The oldest one found so far is tobacco. In the records written later, many of these uses were part of prayer and ceremony. Native people offered tobacco in prayer, men in the Southeast drank Black Drink to make themselves pure, and the O'odham drank cactus wine at a rain ceremony. The Apache drank their corn beer mostly at everyday social times.
 

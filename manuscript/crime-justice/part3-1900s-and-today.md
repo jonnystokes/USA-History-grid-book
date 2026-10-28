@@ -189,7 +189,7 @@ Seven more years of trials followed. The men were let out of prison between 1943
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 24 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 23 minutes**
 
 The number of people in American prisons grew more than eight times over in these fifty years, by the count of the Bureau of Justice Statistics, part of the US Department of Justice. In 2000, about 46 of every 100 sentenced prisoners were Black. From the 1970s on, lawmakers in Congress and the states wrote long prison terms that judges had to give, many of them for drug crimes.
 

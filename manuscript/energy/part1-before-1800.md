@@ -32,7 +32,7 @@ This chapter describes the fuels in order, from the fires Native people set on p
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 People here did their work with the strength of their own bodies and with fire, and wood was the fuel they burned. They burned it to heat their homes, to cook and to see after dark.
 

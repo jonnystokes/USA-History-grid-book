@@ -32,7 +32,7 @@ This chapter follows the news through ten eras. Watch two things as you go. The 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 News traveled on foot in this land before 1500. Runners carried messages from one nation to another, and nations that spoke different languages talked with their hands. What is known about how they did it comes from two places. One is the accounts that Native nations and Europeans gave later. The other is the old objects that archaeologists, scientists who study the past by digging, have found in the ground.
 <!-- /hb-zoom -->
@@ -117,7 +117,7 @@ Both men began to learn English from the sailors during the voyage. The ship rea
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 8 minutes**
+**Era 3 of 10 · The 1600s · about 7 minutes**
 
 The men who governed the English colonies in the 1600s decided who could print news, and they stopped printers they had not approved. Virginia's governor, Thomas Culpeper, and his council, a small group of men who advised him, ordered the printer William Nuthead to stop printing in 1683. Seven years later, in Massachusetts, Governor Simon Bradstreet and his council shut down the first newspaper printed in the English colonies.
 

@@ -32,7 +32,7 @@ This chapter follows American science from the sunrise posts at Cahokia to the J
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 3 minutes**
 
 The people of Native nations here watched the sky for many generations and learned where the sun rose at each time of year. They studied plants, fire, the weather and the tides as well. Each generation taught what it knew to the next.
 

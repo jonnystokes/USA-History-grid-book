@@ -32,7 +32,7 @@ This chapter follows American food from those fields to the drive-in and the lab
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Native farmers turned a wild grass into corn, and by 1500 corn fed whole towns. Farming here was already thousands of years old. People in each region also ate what grew or lived best around them: bison on the Plains, salmon in the Northwest, wild rice around the Great Lakes.
 

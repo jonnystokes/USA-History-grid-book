@@ -194,7 +194,7 @@ When the ironworks company went bankrupt, unable to pay its debts, Jenks bought 
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 6 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
 
 Iron furnaces and forges went up across Pennsylvania, Maryland and Virginia, and in Maryland many of the ironworkers were enslaved people or convicts. At the Baltimore Iron Works, which opened in 1731, 42 of the first 89 workers, almost half, were enslaved. Waterwheels still drove the machines, and the furnaces still burned charcoal. In Philadelphia, the printer Benjamin Franklin designed a new kind of stove in 1741 or 1742 and refused to patent it.
 <!-- /hb-zoom -->
@@ -252,7 +252,7 @@ In London an ironmonger, a seller of iron goods, copied much of Franklin's pamph
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
 
 Machines began to do work that had taken many hands, and after one of them, the cotton gin, planters enslaved far more people. Eli Whitney built the gin in 1793. One small gin could clean about 50 pounds of cotton a day, work that took several hundred hours by hand.
 

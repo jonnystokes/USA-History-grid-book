@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 Radium, lead, mercury, arsenic and uranium poisoned many of the Americans who worked with them in the first half of the 1900s. Young women who painted watch dials swallowed radium because their supervisors told them to shape their brushes with their lips, and many of them died of radium poisoning. At least 15 workers died of lead poisoning in the 1920s at the plants that made a lead additive for gasoline.
 

@@ -251,7 +251,7 @@ Quakers in other regions made the same change in those years. The members of New
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 12 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
 
 People left out of the Revolution's promises answered with the Revolution's own words. The delegates to the Continental Congress voted on July 4, 1776, to adopt the Declaration of Independence, which states that "all men are created equal." The men who wrote the new state constitutions of 1776 kept women from voting, except in New Jersey.
 

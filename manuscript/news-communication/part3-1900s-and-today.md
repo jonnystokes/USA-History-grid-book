@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 Radio carried the news into American homes as it happened, and in two world wars federal officials worked to control what Americans printed and heard. Magazine reporters investigated companies and city governments from 1902 on and printed long reports about what they found. During World War I, federal officials ran the government's first large propaganda office. They also barred dozens of newspapers from the mail and filed more than 2,000 criminal cases against people for what they said or printed.
 
@@ -190,7 +190,7 @@ Philo Farnsworth, who was 21, sent the first picture by all-electronic televisio
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
 Television became the way most Americans got the news. About 9 of every 100 American homes had a television set in 1950, and by 1960, 87 of every 100 did. After the DuMont network closed in 1955, three national television networks were left: NBC, CBS and ABC.
 
@@ -376,7 +376,7 @@ President Bill Clinton signed the Telecommunications Act in February 1996. Under
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to today · about 14 minutes**
+**Era 10 of 10 · 2000 to today · about 13 minutes**
 
 Since 2000 the news has moved from paper to phones and feeds, and the men who own the biggest sites have changed what those feeds show. In a 2025 survey by the Pew Research Center, 86 of every 100 American adults said they got news at least sometimes from a phone, computer or tablet, and 64 of every 100 from television. Newspapers lost most of their advertising money. Researchers at Northwestern University counted close to 3,500 newspapers that closed between 2005 and 2025.
 

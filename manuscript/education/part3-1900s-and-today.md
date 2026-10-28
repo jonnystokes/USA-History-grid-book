@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 42 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 41 minutes**
 
 Finishing high school went from rare to ordinary. In 1900 about 6 American children in every 100 finished high school, and by 1940 about half did. School board members closed one-teacher schools by the tens of thousands and sent buses to carry the children to bigger schools.
 
@@ -810,7 +810,7 @@ The one-room school nearly disappeared in these years. The federal count of one-
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 37 minutes**
+**Era 10 of 10 · 2000 to Today · about 35 minutes**
 
 The arguments over American schooling after 2000 were about which school a child attended, what was taught there and how learning was measured. Under a federal law signed in 2002, every state had to test every child in reading and math each year from third grade to eighth, and the yearly tests began in the school year 2005 to 2006. More families chose charter schools, private schools paid for with state money, or teaching at home.
 

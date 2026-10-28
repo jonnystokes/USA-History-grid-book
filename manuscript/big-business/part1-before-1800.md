@@ -64,7 +64,7 @@ Sir Edward Osborne founded the Levant Company on September 11, 1592, by joining 
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 10 minutes**
+**Era 3 of 10 · The 1600s · about 9 minutes**
 
 The first lasting English colonies here were started by companies, and the investors who owned them hoped the colonies would earn them a profit. A king signed each company's charter, investors bought its shares, and the company's officers sent the settlers. The kings who signed the charters gave the companies land where Native nations already lived. Two of those companies lost their charters before the century ended. King James I took the Virginia Company's in 1624, and English judges cancelled the Massachusetts Bay Company's in 1684.
 

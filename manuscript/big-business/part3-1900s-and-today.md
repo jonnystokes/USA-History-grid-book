@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
 
 The biggest companies the country had yet seen took shape in these years, and presidents and judges began to break some of them apart. Between 1895 and 1904 owners and bankers joined more than 1,800 manufacturing firms into 157 large corporations. The largest, US Steel, issued more than a billion dollars in stock, shares sold to investors, in 1901.
 
@@ -176,7 +176,7 @@ Federal officials also paid for new factories and rented them to private compani
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had more than a million that year. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
 
@@ -326,7 +326,7 @@ Later, Walmart's buyers let Vlasic shrink the jar to just over half a gallon, at
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Three American companies, Nvidia, Apple and Alphabet, the company that owns Google, were each worth more than $4 trillion in September 2026. In the same years government lawyers took four of the largest technology companies to court over monopoly power. Walmart employed about 1.6 million people in the United States in 2026, by its own count, about 2.6 times General Motors' American workforce at its peak in 1979.
 
