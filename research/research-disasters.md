@@ -176,6 +176,10 @@ How the prose can say it: "No record gives the number who drowned. Most were sai
   - By May 1610 "only 60 men and women, out of 240, remained alive" at Jamestown.
 - **Count note:** McCartney gives 60 alive of 240 (at Jamestown fort). The `food-farming` bank (line 37, Historic Jamestowne and others) gives about 500 at the start of the winter and about 61 by spring. Glover (Sea Venture entry, above) gives "only sixty survivors." The prose gives about 60 survivors and both starting figures.
 
+### PATCH 2026-10-28 (T-773): how the two Starving Time counts fit together
+- Director's reading (T-773 dispatch, 2026-10-28): both counts above can be right. About 500 colonists were in the colony and about 240 of them were in the fort at Jamestown when the winter of 1609 to 1610 began. About 60 were alive in the fort by spring (McCartney: "only 60 men and women, out of 240, remained alive"). The director asked for health (Chapter 26) and food-farming to say it this way.
+- The prose (span "Why Jamestown starved, 1609 to 1610") now says it the same way: "About 500 colonists were in Virginia when the winter began. The historian Martha McCartney counts 240 of them in the fort at Jamestown. By May 1610 only about 60 of those 240 were alive." It no longer says "Counts of the colonists differ," and the 60 is tied to the fort's 240, not to the 500.
+
 ## 04 · 1700 to 1750
 
 Researched by T-264r (continuation of T-264a), 2026-09-27. T-264a was killed before it wrote any era 04 text.

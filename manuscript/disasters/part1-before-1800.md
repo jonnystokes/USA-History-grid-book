@@ -169,7 +169,7 @@ Most of the people at Jamestown starved to death in the winter of 1609 to 1610, 
 
 The killing began on both sides in the autumn of 1609. The colonist Francis West cut off the heads of two warriors of the Patawomeck people while he was trading with them. In November 1609 warriors ambushed a party of colonists led by John Ratcliffe at Orapax. They tortured Ratcliffe to death. That same month Powhatan ordered his people to surround Jamestown and cut off its food.
 
-**How many died.** Counts of the colonists differ. The historian Martha McCartney counts 240 people at Jamestown at the start of the winter. Other counts record about 500 in the colony. By May 1610 about 60 were alive. Some survivors dug up and ate the bodies of dead colonists and of Native people the colonists had killed.
+**How many died.** About 500 colonists were in Virginia when the winter began. The historian Martha McCartney counts 240 of them in the fort at Jamestown. By May 1610 only about 60 of those 240 were alive. Some survivors dug up and ate the bodies of dead colonists and of Native people the colonists had killed.
 
 The *Sea Venture* castaways reached Jamestown in their two small ships on May 24, 1610. Gates decided to give up the colony and sail home with the survivors. On the river they met Thomas West, Lord De La Warr, an English nobleman. He was bringing a year's supply of food, and everyone went back to Jamestown. Between 1607 and 1625, the company's leaders sent about 6,000 people to Jamestown. About 4,800 of them died.
 <!-- /hb-zoom -->

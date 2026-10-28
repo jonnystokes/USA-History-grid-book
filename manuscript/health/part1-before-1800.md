@@ -151,7 +151,7 @@ Then Native people of the area, whom Percy called "our mortall enemies," brought
 
 **The river and the drought.** The geographer Carville Earle pointed to the river in 1979. At Jamestown the river water was part salt and part fresh, so the colonists' waste stayed in it instead of washing away. Tree rings show a drought that lasted seven years, from 1606 to 1612. The historian Dennis Blanton wrote that colonists who were hungry and thirsty from the drought were the most likely to fall sick.
 
-Only about 60 of about 240 colonists in the fort lived through the winter of 1609 to 1610. That winter is called the Starving Time.
+Eight ships from England reached Jamestown in August 1609 with hundreds of new colonists. When the winter of 1609 to 1610 began, about 500 colonists were in Virginia, and about 240 of them were in the fort. By spring only about 60 of those 240 were alive. That winter is called the Starving Time.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="An epidemic on the New England coast, 1616 to 1619" -->

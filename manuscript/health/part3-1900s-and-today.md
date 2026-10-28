@@ -418,18 +418,6 @@ President Bill Clinton apologized at the White House on May 16, 1997, to five of
 To sterilize a person is to operate so that the person can never have a baby. In an operation called a tubal ligation, a surgeon cuts or ties the two tubes that carry eggs from the ovaries to the womb. In a hysterectomy, a surgeon cuts out the womb.
 
 A federal judge ruled in 1974 in the case of Minnie Lee and Mary Alice Relf, two Black sisters in Alabama who had been sterilized as children. The judge found that doctors in programs paid for by the federal government were sterilizing an estimated 100,000 to 150,000 poor people a year. Some doctors told women on welfare, government money for poor families, that they would lose it unless they agreed. The judge barred federal money for sterilizing people against their will, and barred the threats to cut off welfare.
-
-**The Indian Health Service.** Investigators of the General Accounting Office, which checks how federal money is spent, reported on the Indian Health Service in 1976. In four of its 12 regions, its doctors had sterilized 3,406 Native women from 1973 to 1976. Writers for the National Library of Medicine and the National Archives describe the operations as done without the women's permission. Thirty-six of the women were under 21, although a federal judge had ordered that women that young not be sterilized.
-
-The investigators' report does not name the doctors. Two years before it, in 1974, Dr. Connie Pinkerton-Uri, who is Choctaw and Cherokee, had found in her own study that 1 in 4 Native women had been sterilized without consent.
-
-**One woman's case.** Norma Jean Serena, who was Shawnee and Creek, gave birth in Armstrong County, Pennsylvania, on August 16, 1970. Two days later Drs. Donald Carter and James Houston cut out her fallopian tubes, the tubes that carry eggs to the womb. She said no doctor ever told her. A welfare caseworker, Jean Burgess, had advised the operation. Burgess later said, "This was a burden on society. I felt that Mrs. Serena should have no further children."
-
-Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000 for the taking of her children.
-
-On the operation, the same jurors found against her. They decided that she had agreed to it, though she said no doctor ever told her about it.
-
-In Puerto Rico, about 1 in 3 women of child-bearing age had been sterilized by 1968, and 37.4 of every 100 by 1976, historians on the history podcast DIG report. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pushed into it by their employers.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="relf-sisters" name="Minnie Lee and Mary Alice Relf" movie="" kind="ordinary" status="verified" -->
@@ -446,8 +434,22 @@ Nurses from a family planning clinic had told their mother, Minnie Relf, about t
 
 Their father, Lonnie Relf, saw the scars when the girls came home from the hospital. The same day a nurse asked their sister Katie, who was 17, to agree to be sterilized. Katie locked herself in her room.
 
-Lawyers from the Southern Poverty Law Center sued for the family. The federal officials they sued included Caspar Weinberger, the Secretary of Health, Education and Welfare, and Alvin Arnett of the Office of Economic Opportunity. The judge barred federal money for sterilizing people against their will, and barred doctors from threatening to cut off welfare money.
+Lawyers from the Southern Poverty Law Center sued for the family in a case called *Relf v. Weinberger*. The federal officials they sued included Caspar Weinberger, the Secretary of Health, Education and Welfare, and Alvin Arnett of the Office of Economic Opportunity.
 <!-- hb-story:end slug="relf-sisters" -->
+
+<!-- hb-zoom level="span" label="Native and Puerto Rican women" -->
+**The Indian Health Service.** Investigators of the General Accounting Office, which checks how federal money is spent, reported on the Indian Health Service in 1976. In four of its 12 regions, its doctors had sterilized 3,406 Native women from 1973 to 1976. Writers for the National Library of Medicine and the National Archives describe the operations as done without the women's permission. Thirty-six of the women were under 21, although a federal judge had ordered that women that young not be sterilized.
+
+The investigators' report does not name the doctors. Two years before it, in 1974, Dr. Connie Pinkerton-Uri, who is Choctaw and Cherokee, had found in her own study that 1 in 4 Native women had been sterilized without consent.
+
+**One woman's case.** Norma Jean Serena, who was Shawnee and Creek, gave birth in Armstrong County, Pennsylvania, on August 16, 1970. Two days later Drs. Donald Carter and James Houston cut out her fallopian tubes, the tubes that carry eggs to the womb. She said no doctor ever told her. A welfare caseworker, Jean Burgess, had advised the operation. Burgess later said, "This was a burden on society. I felt that Mrs. Serena should have no further children."
+
+Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000 for the taking of her children.
+
+On the operation, the same jurors found against her. They decided that she had agreed to it, though she said no doctor ever told her about it.
+
+In Puerto Rico, about 1 in 3 women of child-bearing age had been sterilized by 1968, and 37.4 of every 100 by 1976, historians on the history podcast DIG report. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pushed into it by their employers.
+<!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="AIDS, 1981 to 2000" -->
 CDC doctors reported a rare kind of pneumonia in five young gay men in Los Angeles on June 5, 1981. Two of them had died. The disease was later named AIDS. It is caused by HIV, a virus that destroys the white blood cells that fight infection. As those cells die, other infections and cancers kill the person. HIV passes through blood, semen and other body fluids, not through touch.
