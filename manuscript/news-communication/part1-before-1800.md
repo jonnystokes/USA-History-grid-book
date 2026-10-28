@@ -14,9 +14,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 31 of 37 · News and Communication · 10 eras · about 120 minutes**
+**Chapter 31 of 37 · News and Communication · 10 eras · about 125 minutes**
 
-**Each new way of carrying news in America, from a runner with a knotted cord to a phone, has come with a fight over who may carry it and what it may say.**
+**Again and again, from a runner with a knotted cord to a phone, a new way of carrying news in America has come with a fight over who may carry it and what it may say.**
 
 One copy of the first newspaper printed in the English colonies is known to survive, and it is in London. It is called *Publick Occurrences, Both Forreign and Domestick*. Benjamin Harris printed it in Boston on September 25, 1690. It has three printed pages and a blank fourth page, where readers could write more news before they passed the paper on. Four days later the governor and his council stopped the paper and ordered every copy handed back. There was never a second issue.
 
@@ -62,17 +62,21 @@ Trade goods moved hundreds of miles. Copper from Lake Superior and shells from t
 <!-- hb-zoom level="era" -->
 **Era 2 of 10 · The 1500s · about 5 minutes**
 
-Newcomers from Spain, France and England sent their news home across the ocean in letters and printed books, and each side told its own version. A Spanish commander wrote to his king about the Frenchmen his soldiers had killed in Florida. A French survivor wrote a book about the same killings, and a printer in France published it. On the plains, Native people made themselves understood to the Spanish in hand signs. On Roanoke Island, English colonists left a message carved in a post.
+Newcomers from Spain, France and England sent their news home across the ocean in letters and printed books, and each side told its own version. On the plains, Native people made themselves understood to the Spanish in hand signs. On Roanoke Island, English colonists left a message carved in a post.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A letter to a king and a book by a survivor, 1565 and 1566" -->
-**The killings.** The Spanish commander Pedro Menéndez de Avilés and his soldiers killed French Protestants, Christians who do not belong to the Catholic Church, at Fort Caroline in Florida in September 1565. The fort stood in the homeland of Timucua-speaking peoples. Menéndez's men then killed more of the French in two groups at Matanzas Inlet, south of the fort. Both groups had given up before they were killed.
+The news of the killings in Florida in 1565 reached Europe in two accounts. One came from the Spanish commander who ordered the killings, in a letter to his king. The other was a book by a French survivor.
 
-The National Park Service counts 111 men killed at the inlet in late September and 134 more, with their leader Jean Ribault, on October 11 or 12. Matanzas is the Spanish word for "slaughters." Menéndez gave his reason himself: the Frenchmen were Protestants.
+**The killings.** The Spanish commander Pedro Menéndez de Avilés and his soldiers killed French Protestants, Christians who do not belong to the Catholic Church, at Fort Caroline in Florida in September 1565. The fort stood in the homeland of Timucua-speaking peoples. Menéndez's men then killed two more groups of Frenchmen at Matanzas Inlet, south of the fort. Both groups had given up before they were killed. Matanzas is the Spanish word for "slaughters." Menéndez gave his reason himself: the Frenchmen were Protestants.
 
-**The letter.** Menéndez reported the killings to King Philip II of Spain in a letter dated October 15, 1565. By his own count, his men cut the throats of 132 men at the fort. The next day they cut the throats of 10 more, prisoners they had caught in the woods. At the inlet, he wrote, the first group of Frenchmen gave up their weapons. "I had their hands tied behind them and put them to the knife." He meant that his men killed them with knives. He spared sixteen.
+**The letter.** Menéndez reported the killings to King Philip II of Spain in a letter dated October 15, 1565. By his own count, his men cut the throats of 132 men at the fort. The next day they cut the throats of 10 more, prisoners they had caught in the woods.
 
-**The book.** Nicolas Le Challeux, a carpenter who escaped from Fort Caroline, wrote the French account of the killings. A printer in Dieppe, France, published it in 1566. Its title calls the killings the cruelty of the Spaniards against the French king's subjects.
+At the inlet, he wrote, the first group of Frenchmen gave up their weapons. "I had their hands tied behind them and put them to the knife." He meant that his men killed them with knives. He spared sixteen men of that group: twelve sailors, and four craftsmen he said he needed.
+
+**How many.** The National Park Service counts about 245 Frenchmen killed at the inlet, among them their leader, Jean Ribault, on October 11 or 12. By these counts, Menéndez's men killed nearly 390 Frenchmen in about three weeks. Chapter 22, War and the Military, describes the killings in full.
+
+**The book.** Nicolas Le Challeux, a carpenter who escaped from Fort Caroline, wrote the French account. A printer in Dieppe, France, published it in 1566. Its title describes the killings as the cruelty of the Spaniards against the French king's subjects. Le Challeux told how he fled from the fort into the woods. Two of the men with him climbed a tall tree and signaled to a small French ship, and a boat came to pick them up. The survivors then sailed home to France.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hand signs on the plains, 1541" -->
@@ -115,7 +119,7 @@ Both men began to learn English from the sailors during the voyage. The ship rea
 <!-- hb-zoom level="era" -->
 **Era 3 of 10 · The 1600s · about 8 minutes**
 
-The men who governed the English colonies in the 1600s decided who could print news, and they stopped printers they had not approved. Virginia's governor, Thomas Culpeper, and his council, a small group of men who advised him, ordered the printer William Nuthead to stop printing in 1683. Seven years later, in Massachusetts, Governor Simon Bradstreet and his council shut down the first newspaper four days after it appeared.
+The men who governed the English colonies in the 1600s decided who could print news, and they stopped printers they had not approved. Virginia's governor, Thomas Culpeper, and his council, a small group of men who advised him, ordered the printer William Nuthead to stop printing in 1683. Seven years later, in Massachusetts, Governor Simon Bradstreet and his council shut down the first newspaper printed in the English colonies.
 
 The colonies also got their first mail service, a rider who carried letters from New York to Boston. In New Mexico in 1680, Pueblo runners carried the plan for a revolt against Spanish rule from town to town.
 <!-- /hb-zoom -->
@@ -145,13 +149,13 @@ The next governor, Francis Howard, arrived in 1684 with orders from King Charles
 <!-- hb-zoom level="span" label="The first newspaper, 1690, closed after one issue" -->
 Printers in Massachusetts had printed single sheets of news called broadsides since 1667, one at a time, with no plan for a next issue.
 
-**Numb. 1.** Benjamin Harris printed *Publick Occurrences, Both Forreign and Domestick* in Boston on September 25, 1690. It was the first newspaper in the English colonies. Harris marked it "Numb. 1," number one, and planned to print it once a month. It had three printed pages and a blank fourth page. Harris's notice suggested that readers could write more news on the blank page and pass the paper on.
+**Numb. 1.** Benjamin Harris printed *Publick Occurrences, Both Forreign and Domestick* in Boston on September 25, 1690. It was the first newspaper in the English colonies. Harris marked it "Numb. 1," number one, and planned to print it once a month.
 
 **Four days.** Governor Simon Bradstreet and the men of his council ordered the paper "Suppressed and called in" on September 29. That meant it was stopped, and every copy had to be handed back. They said Harris had printed it without their permission.
 
 They also objected to what he had printed. Harris had accused Native allies of the English of "barbarous" cruelty to French prisoners. He had complained that colonial officials told the Mohawks, one of the Six Nations of the Haudenosaunee, too much about the colonists' war plans. The paper also carried a rumor that King Louis XIV of France was having sex with his son's wife.
 
-Bradstreet and his council then ordered that no one could print news in the colony without a license, written permission from the government. There was never a second issue of *Publick Occurrences*. One copy is known to survive, in London.
+Bradstreet and his council then ordered that no one could print news in the colony without a license, written permission from the government.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-harris-news-communication" name="Benjamin Harris" movie="" kind="famous" status="verified" -->
@@ -166,7 +170,7 @@ In London in the 1670s and 1680s Harris printed pamphlets, short printed booklet
 
 Harris printed a newspaper without a license in 1679, *The Domestick Intelligence*. English officials jailed him twice. After a third arrest in 1685 he fled to the Netherlands. A year later he sailed to Boston and opened a print shop.
 
-**The paper.** His opening notice in *Publick Occurrences* said he wanted to stop the "many False Reports, maliciously made, and spread among us." The paper reported a fire that burned about 20 houses. It also reported an outbreak of smallpox, a disease that spreads from person to person and kills many of the people who catch it. When the governor and his council ordered every copy called in, they also forbade Harris to print any newspaper in the colony again.
+**The paper.** His opening notice in *Publick Occurrences* said he wanted to stop the "many False Reports, maliciously made, and spread among us." The paper reported a fire that burned about 20 houses. It also reported an outbreak of smallpox, a disease that spreads from person to person and kills many of the people who catch it. The governor and his council forbade Harris to print any newspaper in the colony again.
 
 Harris obeyed. Massachusetts officials named him the colony's official printer in 1692. He went back to England in 1695 and started a London paper, the *London Post*, in 1699. He died in 1720.
 <!-- hb-story:end slug="benjamin-harris-news-communication" -->
@@ -178,7 +182,7 @@ Pueblo leaders in New Mexico planned a revolt in 1680 to drive out the Spanish, 
 
 **The knotted cords.** Po'pay planned the revolt with towns that spoke at least five different languages. All of them had to rise on the same day. To set that day, he sent runners with knotted cords. Each town untied one knot a day, and when the last knot was untied, the revolt would begin. The accounts differ on the day planned. The National Museum of the American Indian gives August 11, and the Indian Pueblo Cultural Center gives August 13.
 
-The Spanish learned of the plan and caught two of the runners on August 9. The revolt began a day early, on August 10, 1680. Pueblo fighters killed about 400 people, including 21 of the 33 Spanish priests in New Mexico. Governor Antonio de Otermín led about 2,000 Spanish settlers out of Santa Fe on August 21 and south to El Paso. The Spanish did not return until 1692.
+The revolt began on August 10, 1680, earlier than planned, because the Spanish caught two of the runners. Pueblo fighters killed about 400 people, including 21 of the 33 Spanish priests in New Mexico. Governor Antonio de Otermín led about 2,000 Spanish settlers out of Santa Fe on August 21 and south to El Paso. The Spanish did not return until 1692.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="catua-and-omtua" name="Nicolás Catua and Pedro Omtua" movie="" kind="ordinary" status="verified" -->
@@ -197,7 +201,7 @@ After they left Pecos, Christian Pueblo people told Fernando de Velasco that two
 
 The historian Charles W. Hackett worked from Otermín's own records. He wrote in 1911 that the two told Otermín they had been given a cord with two knots, to carry to the chiefs of the Tano towns, San Marcos and La Cienega. The two knots stood for the two days left before the revolt. Then the Spanish hanged them. The accounts do not name the men who tortured and hanged them.
 
-When Po'pay heard that the runners had been caught, he ordered the revolt to start a day early. It began on August 10.
+When Po'pay heard that the runners had been caught, he ordered the revolt to start a day early.
 <!-- hb-story:end slug="catua-and-omtua" -->
 <!-- hb-time:end id="1600s" -->
 
@@ -225,7 +229,9 @@ Almost every doctor in Boston except Boylston opposed inoculation. James Frankli
 
 Nearly 6,000 people caught smallpox in the epidemic, and 844 of them died. Boylston inoculated 248 people, and 98 out of every 100 of them lived. Among people who caught smallpox the ordinary way, 85 out of every 100 lived.
 
-**A month in jail.** James Franklin printed a short item in the *Courant* in June 1722. It said Massachusetts officials were fitting out a ship to chase pirates, which would sail "some time this Month, if Wind and Weather permit." Massachusetts officials read it as a hidden attack on them. The members of the General Court, the colony's lawmakers, had James Franklin jailed for a month. His younger brother Benjamin, then 16, ran the paper while James was locked up. James was let out on July 2, 1722.
+**A month in jail.** Pirates were raiding along the coast of New England in 1722. In June, James Franklin printed a short item in the *Courant* saying that Massachusetts officials were fitting out a ship to chase them. The ship, it said, would sail "some time this Month, if Wind and Weather permit." The item hinted that the officials were in no hurry to go after the pirates.
+
+Massachusetts officials read it as a hidden attack on them. The members of the General Court, the colony's lawmakers, had James Franklin jailed for a month. His younger brother Benjamin, then 16, ran the paper while James was locked up. James was let out on July 2, 1722.
 
 The members of the General Court then ordered censorship, checking and cutting what a printer may print before it comes out. Early in 1723 they forbade James Franklin to print the *Courant* unless officials checked each issue first. James then put the paper in Benjamin's name, and it came out that way until it closed in 1726.
 <!-- /hb-zoom -->
@@ -237,9 +243,11 @@ For years New York had one newspaper, the *New-York Gazette*. Its printer, Willi
 
 **Arrested for libel.** Officials arrested Zenger on November 17, 1734, for seditious libel. Under the law of that time, seditious libel meant printing blame of any official, of the law, or of anything the law had set up, without a lawful excuse. Whether the words were true did not matter.
 
-The court set Zenger's bail, the money paid to a court so that a prisoner can go free until his trial, at £400. Zenger stayed in jail for more than eight months. His wife Anna kept the *Journal* coming out.
+The court set Zenger's bail, the money paid to a court so that a prisoner can go free until his trial, at £400. Zenger stayed in jail for more than eight months, until his trial.
 
-**Not guilty.** A jury found Zenger not guilty on August 4, 1735. The verdict changed no law. In New York, a printer could not defend himself by showing that his words were true until 1805, when the state's lawmakers passed a law that allowed it. An account of the trial came out as a pamphlet in 1736, *A Brief Narrative of the Case and Tryal of John Peter Zenger*. Printers reprinted it many times.
+**Not guilty.** At the trial, the judge would not let Zenger's lawyer prove that the printed words were true. The jurors, the judge said, must decide only whether Zenger had printed the papers. Zenger's lawyer told them they had the right to judge the law as well. The jurors went further than the judge allowed. They found Zenger not guilty on August 4, 1735. Chapter 20, Government, Law, and Politics, describes the trial in full.
+
+The verdict changed no law. In New York, a printer could not defend himself by showing that his words were true until 1805, when the state's lawmakers passed a law that allowed it. An account of the trial came out as a pamphlet in 1736, *A Brief Narrative of the Case and Tryal of John Peter Zenger*. Printers reprinted it many times.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="anna-zenger-news-communication" name="Anna Catharina Zenger" movie="" kind="ordinary" status="verified" -->
@@ -250,7 +258,7 @@ The court set Zenger's bail, the money paid to a court so that a prisoner can go
 
 **Instructions came, the story goes, through a hole in the jail door.**
 
-Anna Catharina Zenger was born Anna Catharina Maulin, and she married John Peter Zenger on September 11, 1722. When officials jailed him on November 17, 1734, she took charge of the shop. She kept the *New-York Weekly Journal* coming out for more than eight months while he was held. The writer Ann T. Keene reports the story that Zenger gave her his instructions "through the hole of the door of the prison."
+Anna Catharina Zenger was born Anna Catharina Maulin, and she married John Peter Zenger on September 11, 1722. When officials jailed him, she took charge of the shop. She and his apprentices kept the *New-York Weekly Journal* coming out while he was held. They missed only one issue. The writer Ann T. Keene reports the story that Zenger gave her his instructions "through the hole of the door of the prison."
 
 **After the trial.** Zenger became New York's official printer in 1737. He died on July 28, 1746. Anna Zenger then ran the family print shop for more than two years, until their eldest son, John, took it over in December 1748.
 <!-- hb-story:end slug="anna-zenger-news-communication" -->
@@ -287,7 +295,7 @@ Newspaper owners made much of their money from advertisements, and some of those
 
 Franklin himself owned enslaved people. According to the Benjamin Franklin House museum in London, he and his household held enslaved people from about 1735 until 1790 and bought at least seven people. Their names were Joseph, Jemima, Peter, King, Othello, George and Bob. Peter and King went with Franklin to London.
 
-Lawmakers in South Carolina made it a crime in 1740 to teach an enslaved person to write.
+Enslaved people had no say in how owners and traders described them in those advertisements. In South Carolina, lawmakers made it a crime in 1740 even to teach an enslaved person to write.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-franklin-news-communication" name="Benjamin Franklin" movie="Benjamin Franklin (2022)" kind="famous" status="verified" -->
@@ -301,13 +309,13 @@ Lawmakers in South Carolina made it a crime in 1740 to teach an enslaved person 
 
 Benjamin Franklin grew rich as a printer, and much of his money came from the advertisements in his newspaper. In 1718 he became an apprentice, a young worker bound to a master for years to learn a trade, to his older brother James, a printer in Boston. Benjamin carried copies of the *New-England Courant* through the streets to the people who paid for it. In 1722, at 16, he wrote letters to the paper under the made-up name "Silence Dogood." He later wrote that his brother "had often beaten me."
 
-**Running away.** When James was jailed in 1722, Benjamin ran the paper. In 1723, at 17, he broke his apprenticeship and ran away. He landed at the Market Street wharf in Philadelphia on a Sunday morning.
+**Running away.** Benjamin broke his apprenticeship and ran away in 1723, at 17. He landed at the Market Street wharf in Philadelphia on a Sunday morning.
 
 **The Gazette.** Franklin bought the *Pennsylvania Gazette* from the printer Samuel Keimer on October 2, 1729. Advertising became the paper's main source of money, and Franklin grew the paper from two pages to four, partly to hold more advertisements.
 
 He began *Poor Richard's Almanac*, a book that came out once a year with a calendar and other useful facts, in 1732. He wrote it under the made-up name Richard Saunders. He said that he sold "near ten thousand" copies a year, and that ordinary people "bought scarcely any other books."
 
-**The post office.** Franklin became the postmaster of Philadelphia in 1737. He wrote that the post office "facilitated the correspondence that improv'd my newspaper." He meant that the job helped him get the letters and news that made his paper better, and with them more readers and more advertisements. British officials named him and William Hunter in 1753 to run the royal post office for all the colonies together.
+**The post office.** As postmaster of Philadelphia, Franklin wrote that the post office "facilitated the correspondence that improv'd my newspaper." He meant that the job helped him get the letters and news that made his paper better, and with them more readers and more advertisements. British officials named him and William Hunter in 1753 to run the royal post office for all the colonies together.
 <!-- hb-story:end slug="benjamin-franklin-news-communication" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -319,7 +327,7 @@ He began *Poor Richard's Almanac*, a book that came out once a year with a calen
 
 Printers, letter writers and post riders carried the news and the arguments that led to the American Revolution. Supporters of independence also wrecked the press of a New York printer who took Britain's side. Once the war was won, the new country's leaders fought over how free the press should be.
 
-Lawmakers in three-fourths of the states approved the First Amendment to the Constitution in 1791, and it protects freedom of the press. Seven years later the Federalist members of Congress passed the Sedition Act. Federal judges then jailed newspaper editors who had criticized President John Adams.
+Lawmakers in three-fourths of the states approved the First Amendment to the Constitution in 1791, and it protects freedom of the press. Seven years later the Federalists, President John Adams's party, used their majority in Congress to pass the Sedition Act. Federal judges then jailed newspaper editors who had criticized Adams.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Stamp Act and the printers, 1765" -->
@@ -362,9 +370,9 @@ Palmer took care to make his letter believable. Seven months earlier, in Septemb
 
 **His name was Isaac, not Israel, and he stopped in Connecticut.**
 
-Isaac Bissell came from Suffield, a town on Connecticut's northern border. He was in Watertown, Massachusetts, on April 19, 1775, when Joseph Palmer handed him the letter about the killings at about 10 in the morning. The letter said that "the Bearer Mr. Isaac Bissell" was "charged to alarm the country quite to Connecticutt." His job was to warn people all the way to Connecticut. The letter asked people along the way to give him the horses he needed.
+Isaac Bissell came from Suffield, a town on Connecticut's northern border. He was in Watertown, Massachusetts, on April 19, 1775, when Joseph Palmer handed him the letter. The letter said that "the Bearer Mr. Isaac Bissell" was "charged to alarm the country quite to Connecticutt." His job was to warn people all the way to Connecticut. The letter asked people along the way to give him the horses he needed.
 
-Bissell reached Worcester in the early afternoon, and the town clerk copied the letter there. On the morning of April 20 the letter reached Connecticut's leaders.
+Bissell reached Worcester in the early afternoon. On the morning of April 20 the letter reached Connecticut's leaders.
 
 **Too fast to believe.** In Wethersfield, the home town of Governor Jonathan Trumbull, Silas Deane wrote in his journal that the news "was discredited," not believed, "from the suddeness of its arrival." After men from Massachusetts confirmed the news, Trumbull agreed to call Connecticut's lawmakers together.
 
@@ -391,13 +399,15 @@ The members of Congress ordered the copies sent to the new states and to the sol
 > **Who:** An English-born writer whose pamphlet *Common Sense* argued that the colonies should declare independence.
 > **When and where:** Philadelphia, 1774 to 1776, and with the army, 1776.
 
-**He took no money from the sales of *Common Sense*.**
+**He promised his share of the profits to buy mittens for soldiers.**
 
 Thomas Paine met Benjamin Franklin in London, and Franklin gave him letters of introduction to people in America. Paine arrived in Philadelphia on November 30, 1774. He helped edit the *Pennsylvania Magazine* and wrote articles under pen names, made-up names that hid who the writer was.
 
 **The slavery essay.** For a long time Paine was named as the writer of "African Slavery in America," an essay printed in March 1775 under the name "Justice and Humanity." The essay calls slavery unjust. Gary Berton of the Thomas Paine National Historical Association later concluded that a Rhode Island minister, Samuel Hopkins, most likely wrote it, so the accounts differ.
 
-**Common Sense.** The pamphlet came out on January 10, 1776. Paine soon fell out with its first printer, Robert Bell. Paine later wrote that he gave the right to print it to every state.
+**Common Sense.** The pamphlet came out on January 10, 1776. Paine agreed to pay for the printing whether it sold or not, and the printer, Robert Bell, was to get half of any profits. Paine promised his own half to buy mittens for the American soldiers outside the city of Quebec, in Canada, that winter. Bell handed over no money.
+
+Then Bell printed a second edition that Paine had told him not to print. Paine took a new, longer edition to the printers of the *Pennsylvania Journal* instead. He never received any money from the sales. He later wrote that he gave the right to print it to every state.
 
 Paine published *The American Crisis* on December 19, 1776. It began, "These are the times that try men's souls." Washington ordered it read to all his troops. Paine died in New York City on June 8, 1809.
 <!-- hb-story:end slug="thomas-paine" -->
@@ -454,9 +464,9 @@ American and French warships began fighting each other in the Caribbean Sea in 1
 
 **What it banned.** Under the act, it was a crime to write or print "any false, scandalous and malicious writing" against the federal government, Congress or the President. The punishment was a fine of up to $2,000 and up to two years in prison. Unlike the law in the Zenger trial, the act let a person charged try to prove that his words were true, and the jury could decide what the law meant as well as what the facts were.
 
-**Who was charged.** Federal prosecutors and judges used the act mostly against editors of newspapers that supported Jefferson's party, the Democratic-Republicans. Peter McNamara, writing in the First Amendment Encyclopedia, gives the count that scholars long used: 17 formal criminal charges under the act, and 10 people found guilty. The legal historian Wendell Bird later found 11 more court cases against 16 more people. Writers for the National Constitution Center, a museum about the Constitution, count more than two dozen people found guilty, most of them publishers who opposed Adams's party.
+**Who was charged.** Federal prosecutors and judges used the act mostly against editors of newspapers that supported Jefferson's party, the Democratic-Republicans. The counts of people found guilty differ. The lowest is 10, the number scholars long used. The highest, from the National Constitution Center, a museum about the Constitution, is more than two dozen. The legal historian Wendell Bird found cases against 16 people that the old count missed.
 
-Among those charged were Congressman Matthew Lyon of Vermont, William Duane of the *Aurora*, Ann Greenleaf of New York's *Argus*, and Anthony Haswell of the *Vermont Gazette*. Luther Baldwin and Brown Clark of Newark, New Jersey, were charged for words they spoke against President Adams in a tavern.
+**Some of those charged.** They included Congressman Matthew Lyon of Vermont, William Duane of the *Aurora*, Ann Greenleaf of New York's *Argus*, and Anthony Haswell of the *Vermont Gazette*. Luther Baldwin and Brown Clark of Newark, New Jersey, were charged for words they spoke against President Adams in a tavern.
 
 **Bache.** Federalist supporters physically attacked Benjamin Franklin Bache in Philadelphia. Jonathan Dayton of New Jersey, a Federalist, was Speaker of the House of Representatives, the member chosen to run its meetings. Dayton barred Bache from the floor of the House, the room where its members met, so that he could not report its debates.
 

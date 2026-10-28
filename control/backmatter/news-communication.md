@@ -49,6 +49,7 @@
 - Tory: the old name for colonists who sided with Britain's king (1750 to 1800)
 - subscribers: people who paid to get each issue of a paper (1750 to 1800)
 - pen name: a made-up name that hides who the writer is (1750 to 1800)
+- Federalists: President John Adams's party (1750 to 1800)
 - sedition: the crime of stirring people up against their government (1750 to 1800)
 - Speaker of the House: the member chosen to run the House's meetings (1750 to 1800)
 - yellow fever: a disease carried from person to person by mosquitoes (1750 to 1800)
@@ -72,6 +73,7 @@
 - telegraph: a machine that sends messages along a wire as pulses of electricity (1800 to 1850)
 - patent: the legal right to be the only one to make or use an invention (1800 to 1850)
 - "What hath God wrought": old words for "What has God done" (1800 to 1850)
+- Union: the name for the Northern side in the Civil War (1850 to 1900)
 - Confederacy: the Southern states that broke away from the United States (1850 to 1900)
 - banish: to force a person to leave and not come back (1850 to 1900)
 - military governor: an army officer put in charge of a place (1850 to 1900)
@@ -222,4 +224,4 @@
 ## Questions
 - Q: Did the First Amendment stop the government from punishing people for what they printed? A: No. Seven years after it took effect, federal judges jailed editors under the Sedition Act, and during World War I prosecutors won more than 1,000 convictions for words.
 - Q: Who was shut out of carrying and printing the news? A: From 1802 to 1865 federal law let only free white persons carry the mail, and white mobs drove Black editors out of Memphis and Wilmington. Black and Cherokee Americans started papers of their own.
-- Q: Why have so many local newspapers closed since 2005? A: Their advertising money fell by more than four-fifths between 2005 and 2022, while readers moved to phones and feeds. By 2025, 212 counties had no local news source.
+- Q: Why have so many local newspapers closed since 2005? A: Advertisers moved their money online, where most of it went to technology companies such as Google and Facebook, so newspapers' advertising money fell by more than four-fifths between 2005 and 2022. Readers moved to phones and feeds too, and by 2025, 212 counties had no local news source.

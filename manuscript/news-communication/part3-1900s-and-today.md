@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
 
 Radio carried the news into American homes as it happened, and in two world wars federal officials worked to control what Americans printed and heard. Magazine reporters investigated companies and city governments from 1902 on and printed long reports about what they found. During World War I, federal officials ran the government's first large propaganda office. They also barred dozens of newspapers from the mail and filed more than 2,000 criminal cases against people for what they said or printed.
 
@@ -108,9 +108,11 @@ Eight stations were on the air by the end of 1921, and by November 1, 1922, fede
 
 **Networks.** The National Broadcasting Company, NBC, bought WEAF in 1926 and set up a permanent network, a group of stations in different cities that carry the same programs. Other networks followed, among them the Columbia Broadcasting System, CBS.
 
-**Rules for the air.** The biggest makers of radio equipment and the biggest broadcasters made business deals with each other that could have given them a monopoly over radio.
+**Rules for the air.** By the middle of the 1920s, so many stations were on the air that their signals crossed and drowned each other out. Federal judges had ruled that the secretary of commerce, who gave out the licenses, could not stop giving them out even when the dial was full. The broadcasters themselves asked the federal government to restore order.
 
-Members of Congress passed the Radio Act of 1927. Under it, the members of a federal commission decided which station could use which wavelength, the spot on the radio dial where a station is heard. In 1934 Congress's members passed the Communications Act and with it set up the Federal Communications Commission, the FCC, to oversee radio and messages sent by wire.
+The biggest makers of radio equipment and the biggest broadcasters had also made business deals with each other. Those deals could have given a few companies a monopoly over radio, with no real competition from anyone else.
+
+Members of Congress passed the Radio Act of 1927. Under it, the members of a federal commission decided which station could use which wavelength, the spot on the radio dial where a station is heard. They gave each of the 732 stations a set place on the dial, and they could turn down a new station when no room was left. In 1934 Congress's members passed the Communications Act and with it set up the Federal Communications Commission, the FCC, to oversee radio and messages sent by wire.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The president on the radio, 1933 to 1944" -->
@@ -224,7 +226,7 @@ The managers of WLBT, a television station in Jackson, Mississippi, that carried
 
 Station staff also cut away from NBC's evening news when it turned to civil rights. WLBT reporters used racial slurs on the air. The White Citizens' Council, a group that fought to keep segregation, ran a bookstore in the station's lobby. About half the people in WLBT's viewing area were Black, and the station's managers refused them time to answer.
 
-**Medgar Evers.** Medgar Evers, the Mississippi field secretary of the NAACP, the National Association for the Advancement of Colored People, a civil rights group, spoke on WLBT in May 1963 to answer the mayor of Jackson. Three weeks later Byron De La Beckwith shot Evers in the back in the driveway of his home and killed him.
+**Medgar Evers.** Medgar Evers was the Mississippi organizer for the NAACP, the National Association for the Advancement of Colored People, a civil rights group. In May 1963 he spoke on WLBT to answer the mayor of Jackson, Allen Thompson. Three weeks later Byron De La Beckwith shot Evers in the back in the driveway of his home and killed him.
 
 That year WLBT staff again ran the "Cable Trouble" sign, this time over NBC's report on white people attacking protesters at a lunch counter in Jackson. WLBT's own crew had filmed the attack.
 
@@ -292,7 +294,7 @@ The papers recorded that President Johnson had planned open war in 1964, a year 
 
 Prosecutors charged Ellsberg under the Espionage Act, and he faced up to 115 years in prison. Men working for President Richard Nixon, led in this case by the former CIA officer E. Howard Hunt, broke into the office of Ellsberg's psychiatrist, a doctor who treats mental illness. They were looking for information to damage Ellsberg. In 1973 the judge dismissed all the charges because of this break-in and other wrongdoing by government officials.
 
-The justices of the Supreme Court ruled in 1972, in a case called *Branzburg v. Hayes*, that the Constitution gives reporters no right to refuse to tell a grand jury who their sources are, the people who give them information.
+The justices of the Supreme Court ruled in 1972, in a case called *Branzburg v. Hayes*, that the Constitution gives reporters no right to refuse to tell a grand jury who their sources are, the people who give them information. That same year two reporters at *The Washington Post* began getting information from a source whose name stayed hidden until 2005.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="woodward-and-bernstein" name="Bob Woodward and Carl Bernstein" movie="All the President's Men (1976)" kind="famous" status="verified" -->
@@ -332,12 +334,16 @@ Reporters from many other papers came to Arizona and spent five months finishing
 
 Duong Trong Lam, 27, was shot outside his home in San Francisco in 1981. A gunman chased Nguyen Dam Phong from his house in Houston in 1982 and shot him seven times.
 
-Pham Van Tap was killed by the smoke from a fire that someone set in his office in Garden Grove, California, while he slept. A message sent to the Vietnamese press after his death said he was killed for printing advertisements for companies that did business with Vietnam. Le Triet was shot at his home in Virginia on September 22, 1990.
+Pham Van Tap was killed by the smoke from a fire that someone set in his office in Garden Grove, California, while he slept. A message sent to the Vietnamese press after his death said he was killed for printing advertisements for companies that did business with Vietnam.
+
+The last two worked for the same magazine in Virginia, *Van Nghe Tien Phong*. A gunman shot and killed Do Trong Nhan, 56, who laid out the magazine's pages, in his car as he got ready to drive to work. Ten months later, on September 22, 1990, killers shot and killed the writer Le Triet and his wife, Dang-Tran Thi Tuyet, in their car in the driveway of their home.
 
 FBI agents suspected a group led by former South Vietnamese military officers, but they never found enough evidence to charge anyone. No one was ever arrested or charged.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Public broadcasting, the fairness rule, cable news and talk radio, 1967 to 1996" -->
+Lawmakers, federal officials and owners changed who paid for the news on radio and television, and what it had to include, between 1967 and 1996.
+
 Members of Congress set up the Corporation for Public Broadcasting in the Public Broadcasting Act of 1967, to hand out federal money to public television and radio stations. People at the corporation started PBS in 1969 and NPR, National Public Radio, in 1970.
 
 Ted Turner's company started CNN, the first television channel to show news 24 hours a day, on June 1, 1980. It reached viewers through cable, wires that carried many channels into homes.
@@ -360,10 +366,10 @@ President Bill Clinton signed the Telecommunications Act in February 1996. Under
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** Television brought the news into nearly every home, and the fights over it went to court: over a Mississippi station's license, over a secret history of the war, and over a president's tapes.
-- 1955: WLBT staff cut Thurgood Marshall off the air behind a "Cable Trouble" sign.
+**If you remember one thing:** As television brought the news into nearly every home, judges settled fights over keeping news from the public.
+- 1969: Federal judges order the FCC to take WLBT's license from the owners who cut civil rights news off the air.
 - June 30, 1971: The justices of the Supreme Court vote 6 to 3 that newspapers may keep printing the Pentagon Papers.
-- June 1, 1980: CNN begins showing news 24 hours a day.
+- July 24, 1974: The justices order President Nixon to hand over his tapes.
 **Next:** After 2000 the news moved to phones and feeds, and thousands of newspapers closed.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
@@ -388,7 +394,7 @@ Mark Zuckerberg and three other Harvard students started Facebook in February 20
 
 Smartphones spread quickly. In 2011, according to the Pew Research Center, 35 of every 100 American adults owned one, and by 2025, 91 of every 100 did.
 
-In a Pew survey in August 2025, 53 of every 100 adults said they got news at least sometimes from social media. Thirty-eight of every 100 said they regularly got news on Facebook, and 35 on YouTube. Fewer used Instagram (20), TikTok (20) and X (12), the site called Twitter until 2023. Only 7 of every 100 said they often read news in a printed newspaper or magazine.
+In a Pew survey in August 2025, about half of American adults said they got news at least sometimes from social media, most often on Facebook and YouTube. Only 7 of every 100 said they often read news in a printed newspaper or magazine.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="False news, measured, 2018" -->
@@ -420,11 +426,13 @@ Paramount's owners settled the lawsuit in September 2026 by agreeing to set up a
 <!-- hb-zoom level="span" label="Newspapers close: the news deserts, 2005 to 2025" -->
 American newspapers took in less than a fifth as much money from advertising in 2022 as in 2005. Researchers at the Pew Research Center put the figures at about $49.4 billion in 2005 and an estimated $9.8 billion in 2022.
 
-Researchers at the Medill school of journalism at Northwestern University count newspapers every year. In their 2025 report they found that close to 3,500 newspapers had closed since 2005, almost 40 of every 100. More than 130 closed in the year before the report. Since 2005 the newspaper business had lost more than three of every four of its jobs.
+**Where the money went.** Advertisers spent more and more online, and most of that money went to big technology companies that do not report the news, such as Google and Facebook. Pew researchers wrote in 2014 that these companies could reach far more people than any news outlet, and aim their ads better than any one newspaper's website could. In 2014 five companies, including Google and Facebook, took in 61 of every 100 dollars spent on online ads in the United States.
 
-**News deserts.** The Medill researchers call a county with no local newspaper, news website or station a news desert. Just over 150 counties had no local news source in 2005. In 2025 there were 212, and about 80 of every 100 of them were mostly rural.
+Researchers at the Medill school of journalism at Northwestern University count newspapers every year. In their 2025 report they found that almost 2 of every 5 local newspapers in the country had closed since 2005, close to 3,500 papers in all. Papers were still closing in 2025, at more than two a week. Since 2005 the newspaper business had lost more than three of every four of its jobs.
 
-Another 1,525 counties had only one local source. About 50 million people lived in counties with one source or none. In 2005 there were 3,995 different owners of American newspapers, and in 2025 there were just under 1,900.
+**News deserts.** The Medill researchers call a county with no local newspaper, news website or station a news desert. The number of news deserts grew from just over 150 counties in 2005 to 212 in 2025, and most of them were in the countryside. Another 1,525 counties had only one local source left. In all, about 50 million people lived in a county with one local source or none.
+
+**Fewer owners.** The number of companies and people who owned American newspapers fell by more than half, from 3,995 in 2005 to just under 1,900 in 2025.
 
 The *Chicago Defender*, the paper that urged Black Southerners to move north in the 1910s, ended its print edition in 2019. Its owners now publish it only online.
 <!-- /hb-zoom -->
@@ -480,7 +488,7 @@ Special prosecutors, lawyers brought in from outside to handle the case, later f
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Reporters arrested, hit and deported, 2017 to 2026" -->
-Staff of the US Press Freedom Tracker, a project of the Freedom of the Press Foundation, have counted attacks on journalists in the United States since 2017. By September 2026 they had counted 1,487 assaults and 445 arrests or criminal charges. In 2020 and 2021 together they counted nearly 800 assaults.
+Staff of the US Press Freedom Tracker, a project of the Freedom of the Press Foundation, have counted attacks on journalists in the United States since 2017. More than half of all the assaults they counted came in two years, 2020 and 2021: nearly 800 of the 1,487 they had counted by September 2026. They also counted 445 arrests or criminal charges.
 
 **Protests against deportation.** The tracker counted at least 32 journalists arrested or held in 2025 and at least 170 assaulted. Most were covering protests against deportation, the sending of immigrants out of the country. Police in Los Angeles surrounded and held at least 10 journalists at one protest on June 9, 2025.
 
@@ -490,7 +498,7 @@ Staff of the US Press Freedom Tracker, a project of the Freedom of the Press Fou
 
 Federal officials held Guevara and argued that his filming of police was a danger to public safety. They deported him on October 3, 2025, sending him out of the country to El Salvador. The Committee to Protect Journalists said it was the first time it had recorded this kind of punishment for reporting.
 
-Julian Assange published secret documents about the US wars in Afghanistan and Iraq on his WikiLeaks website starting in 2010. In June 2024 he pleaded guilty under the Espionage Act of 1917.
+**WikiLeaks.** Julian Assange published secret documents about the US wars in Afghanistan and Iraq on his WikiLeaks website starting in 2010. Federal prosecutors charged him in 2019 under the Espionage Act of 1917, the law once used against the editor Victor Berger and against Daniel Ellsberg. In June 2024 Assange pleaded guilty under that law.
 
 **The press pool.** White House press secretary Karoline Leavitt told the Associated Press, the AP, on February 11, 2025, that its reporters could no longer come into the Oval Office with the press pool, the small group of reporters that covers the president up close. The ban was to last until the AP agreed to call the Gulf of Mexico the Gulf of America.
 
@@ -506,16 +514,18 @@ The members of the corporation's board voted in January 2026 to close it after 5
 
 Rural stations and stations run by Native nations had gotten a large share of their money from the federal government, and they were hit hardest. By mid-2026 at least one public television station had shut down, and more had announced plans to close. No full count had been published. Stations of every kind saw the number of people giving them money rise between 2024 and 2025.
 
-**Pressure on commercial stations.** Officials also pressed commercial broadcasters, the stations paid for by advertising. Brendan Carr, the chair of the Federal Communications Commission, pressed ABC in 2025 to take the talk show *Jimmy Kimmel Live!* off the air. Carr acted after Kimmel made comments about which political side was held by the man accused of killing the activist Charlie Kirk. In 2026 Carr opened an investigation of the talk show *The View* under the rule that stations must give political candidates equal time.
+**Pressure on commercial stations.** Officials also pressed commercial broadcasters, the stations paid for by advertising. The members of the Federal Communications Commission give out the licenses that those stations need to broadcast.
+
+The talk-show host Jimmy Kimmel spoke on his show in 2025 about which political side the man accused of killing the activist Charlie Kirk was on. Brendan Carr, the chair of the FCC, then pressed ABC to take *Jimmy Kimmel Live!* off the air. In 2026 Carr opened an investigation of the talk show *The View* under the rule that stations must give political candidates equal time.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - Did the First Amendment stop the government from punishing people for what they printed? No. Seven years after it took effect, federal judges jailed editors under the Sedition Act, and during World War I prosecutors won more than 1,000 convictions for words.
 - Who was shut out of carrying and printing the news? From 1802 to 1865 federal law let only free white persons carry the mail, and white mobs drove Black editors out of Memphis and Wilmington. Black and Cherokee Americans started papers of their own.
-- Why have so many local newspapers closed since 2005? Their advertising money fell by more than four-fifths between 2005 and 2022, while readers moved to phones and feeds. By 2025, 212 counties had no local news source.
+- Why have so many local newspapers closed since 2005? Advertisers moved their money online, where most of it went to technology companies such as Google and Facebook, so newspapers' advertising money fell by more than four-fifths between 2005 and 2022. Readers moved to phones and feeds too, and by 2025, 212 counties had no local news source.
 
-**What changed:** In 1673 the mail took about two weeks to ride from New York to Boston, and by 2025 most American adults got at least some news on a phone, computer or tablet.
+**What changed:** In 1673 a post rider took about two weeks to carry the mail from New York to Boston. By 1920 radio listeners heard election results on election night, and by 2025 most American adults got at least some news on a phone, computer or tablet.
 
 **Five dates to keep**
 - September 25, 1690: *Publick Occurrences* appears in Boston and is stopped four days later.
