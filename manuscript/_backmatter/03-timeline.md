@@ -1,12 +1,12 @@
 # Timeline
 
-Every chapter's five dates to keep, plus the country's big turning points, oldest first, each with the chapter where you can read the whole story.
+The key dates from every chapter and the country's big turning points, oldest first, each with the chapter where you can read the whole story. When a line gives only a year, it comes first in that year.
 
 ## Before 1500
 
 - **About 9,000 years ago**: Farmers in southern Mexico begin breeding corn from a wild grass called teosinte (Chapter 15)
 - **1021**: Norse sailors cut trees at L'Anse aux Meadows, in Newfoundland (Chapter 1)
-- **About 1100**: Cahokia, the largest town north of Mexico, reaches its peak of roughly 10,000 to 20,000 people (Chapter 6)
+- **About 1100**: Cahokia, the largest city north of Mexico, reaches its peak of roughly 10,000 to 20,000 people (Chapter 6)
 - **October 12, 1492**: Rodrigo de Triana, a lookout on Columbus's ship *Pinta*, sees Guanahani, an island in the Bahamas (Chapter 1)
 - **June 7, 1494**: The rulers of Spain and Portugal split the lands across the Atlantic at Tordesillas (Chapter 23)
 
@@ -17,15 +17,15 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **1573**: In the Laws of the Indies, Spain's king orders a plaza and a grid for every new Spanish town (Chapter 6)
 - **1585**: John White paints the town of Secotan, on the coast of what is now North Carolina (Chapter 32)
 - **April 30, 1598**: Juan de Oñate claims New Mexico for Spain in La Toma, "the taking" (Chapter 5)
-- **April 30, 1598**: Spanish soldiers and priests act the first European play on record here, beside the Rio Grande (Chapter 34)
+- **April 30, 1598**: On the day of La Toma, Spanish soldiers and priests act the first European play on record in what is now the United States, beside the Rio Grande (Chapter 34)
 
 ## The 1600s
 
 - **May 13, 1607**: The Virginia Company's settlers found Jamestown (Chapter 19)
 - **1614**: John Rolfe sends his first tobacco to London (Chapter 16)
-- **1619**: Twenty-two elected burgesses meet at Jamestown, the first elected assembly in English North America (Chapter 20)
-- **August 1619**: The English ship *White Lion* carries about twenty Africans to Point Comfort, Virginia (Chapter 24)
-- **November 1620**: The *Mayflower* men dig up Nauset seed corn at Cornhill, on Cape Cod (Chapter 15)
+- **July 30 to August 4, 1619**: Twenty-two burgesses, two elected men from each of Virginia's settlements, meet at Jamestown as the first elected assembly in English North America (Chapter 20)
+- **August 1619**: The English ship *White Lion* carries about twenty captive Africans to Point Comfort, Virginia (Chapter 24)
+- **November 1620**: The *Mayflower* men dig up and take the seed corn that Nauset farmers had buried at Cornhill, on Cape Cod (Chapter 15)
 - **Fall 1621**: The harvest meal at Plymouth, called the first Thanksgiving only from 1841 (Chapter 37)
 - **1631**: Massachusetts judges order settlers to keep a night watch (Chapter 21)
 - **1634**: Massachusetts judges order Robert Coles to wear a red D for a year as punishment for drunkenness (Chapter 28)
@@ -35,7 +35,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **1642**: The Narragansett leader Miantonomi describes what English settlers are doing to the land (Chapter 3)
 - **1646**: Joseph Jenks gets a patent for his water-driven mills (Chapter 8)
 - **1651**: Massachusetts lawmakers fine people worth less than 200 pounds for dressing like gentlemen (Chapter 35)
-- **December 29, 1653**: John Pynchon's account book records that John Stewart owes him 30 pounds for his freedom (Chapter 18)
+- **December 29, 1653**: John Pynchon's account book records that John Stewart, a Scottish prisoner of war sold into forced labor, owes him 30 pounds for his freedom (Chapter 18)
 - **1662**: Virginia's lawmakers pass a law that a child born to an enslaved mother is enslaved for life (Chapter 24)
 - **October 2, 1672**: Workers break ground for the Castillo de San Marcos, the stone fort at St. Augustine (Chapter 12)
 - **January 1673**: The first post rider leaves New York for Boston (Chapter 11)
@@ -48,19 +48,19 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 ## 1700 to 1750
 
 - **January 26, 1700**: The Cascadia fault breaks along the Pacific coast, and its tsunami reaches Japan the next day (Chapter 27)
-- **November 30, 1711**: New York's aldermen set up a market at Wall Street for selling enslaved people (Chapter 18)
-- **1721**: Boston doctors inoculate people against smallpox, a method Cotton Mather first heard of from Onesimus, a man he enslaved (Chapter 26)
+- **November 30, 1711**: New York's aldermen, the men who run the city, set up a market at Wall Street for selling enslaved people (Chapter 18)
+- **1721**: The Boston doctor Zabdiel Boylston inoculates people, giving them a small case of smallpox on purpose so they will not catch it again. Cotton Mather first heard of the method from Onesimus, a man he enslaved (Chapter 26)
 - **September 9, 1739**: About 20 enslaved men rise up at the Stono River, south of Charleston, South Carolina (Chapter 24)
 - **May 10, 1740**: South Carolina's lawmakers pass the Negro Act and ban enslaved people from using drums and horns (Chapter 33)
-- **May 10, 1740**: South Carolina's lawmakers make it a crime to teach an enslaved person to write (Chapter 30)
-- **1740**: Under South Carolina's Negro Act, enslaved people may wear only coarse cloth (Chapter 35)
+- **May 10, 1740**: In the same law, South Carolina's lawmakers also make it a crime to teach an enslaved person to write (Chapter 30)
+- **May 10, 1740**: In the same law, South Carolina's lawmakers also bar enslaved people from wearing anything finer than coarse cloth (Chapter 35)
 
 ## 1750 to 1800
 
 - **June 3, 1769**: Four men at Norriton time the planet Venus crossing the sun (Chapter 9)
 - **1773**: Phillis Wheatley's *Poems* comes out in London while she is enslaved in Boston (Chapter 32)
 - **December 16, 1773**: Colonists dump the East India Company's tea into Boston Harbor (Chapter 19)
-- **April 19, 1775**: The shooting of the Revolution starts at Lexington, Massachusetts, where British soldiers kill eight militiamen (Chapter 22)
+- **April 19, 1775**: The shooting of the Revolution starts at Lexington, Massachusetts, where British soldiers kill eight militiamen, ordinary men called up to fight (Chapter 22)
 - **July 4, 1776**: Delegates to the Continental Congress adopt the Declaration of Independence, which states that "all men are created equal" (Chapter 25)
 - **September 3, 1783**: In the Treaty of Paris, British diplomats accept American independence (Chapter 23)
 - **May 20, 1785**: Members of Congress pass the Land Ordinance and order the land northwest of the Ohio River measured into a grid (Chapter 3)
@@ -73,7 +73,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **December 15, 1791**: The First Amendment, on freedom of speech and of the press, takes effect (Chapter 31)
 - **1793**: Eli Whitney builds the cotton gin (Chapter 8)
 - **September 18, 1793**: George Washington lays the cornerstone of the Capitol (Chapter 12)
-- **1799**: Conrad Reed finds a 17-pound gold nugget in North Carolina (Chapter 13)
+- **1799**: Conrad Reed, 12, finds a 17-pound rock in a North Carolina creek, and his family uses it as a doorstop until a jeweler identifies it as gold in 1802 (Chapter 13)
 
 ## 1800 to 1850
 
@@ -87,7 +87,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **February 13, 1826**: Reformers in Boston found the American Temperance Society (Chapter 28)
 - **1828**: Thomas Dartmouth Rice first goes on stage as "Jim Crow," in blackface (Chapter 34)
 - **May 28, 1830**: President Andrew Jackson signs the Indian Removal Act (Chapter 2)
-- **May 1838**: US soldiers begin rounding up about 16,000 Cherokee for the Trail of Tears, and more than 4,000 die (Chapter 2)
+- **May 1838**: US soldiers begin rounding up about 16,000 Cherokee for the Trail of Tears, and more than 4,000 die by the usual count, or as many as twice that by the scholar Russell Thornton's estimate (Chapter 2)
 - **1839**: In *Crania Americana*, Samuel Morton ranks the races by skull size (Chapter 9)
 - **1841**: Catharine Beecher's *A Treatise on Domestic Economy*, a book on running a home, comes out (Chapter 7)
 - **June 22, 1842**: Water from the Croton Aqueduct reaches New York City (Chapter 6)
@@ -109,12 +109,12 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **April 12, 1861**: Confederate gunners fire on Fort Sumter, in South Carolina, and the Civil War begins (Chapter 22)
 - **May 20, 1862**: President Lincoln signs the Homestead Act (Chapter 5)
 - **January 1, 1863**: Lincoln's Emancipation Proclamation takes effect, and Union soldiers begin freeing enslaved people as they advance (Chapter 24)
-- **July 1 to 3, 1863**: The battle of Gettysburg (Chapter 22)
+- **July 1 to 3, 1863**: The Union and Confederate armies fight the battle of Gettysburg, in Pennsylvania, and about 7,000 soldiers are killed (Chapter 22)
 - **October 3, 1863**: Lincoln proclaims a national Thanksgiving on the last Thursday in November (Chapter 37)
 - **March 3, 1865**: Members of Congress end the whites-only rule for mail carriers (Chapter 31)
 - **April 14, 1865**: The actor John Wilkes Booth shoots President Lincoln at Ford's Theatre, and Lincoln dies the next morning (Chapter 34)
 - **June 19, 1865**: General Granger announces in Galveston that slavery has ended in Texas, the day later called Juneteenth (Chapter 37)
-- **December 6, 1865**: The Thirteenth Amendment, which forbids slavery, becomes part of the Constitution (Chapter 24)
+- **December 6, 1865**: The Thirteenth Amendment, which forbids slavery except as a punishment for crime, becomes part of the Constitution (Chapter 24)
 - **May 10, 1869**: Chinese workers lay the last track of the first railroad across the country, at Promontory Summit (Chapter 11)
 - **1870**: The Fifteenth Amendment bars every state from denying a man the vote because of race (Chapter 20)
 - **October 6, 1871**: The Fisk Jubilee Singers set out on their first tour (Chapter 33)
@@ -123,7 +123,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **June 25, 1876**: Lakota, Cheyenne and Arapaho fighters defeat George Custer's soldiers at the Little Bighorn (Chapter 2)
 - **February 28, 1877**: Members of Congress take the Black Hills from the Sioux (Chapter 12)
 - **April 24, 1877**: The last federal troops leave the Louisiana statehouse, and Reconstruction, the rebuilding after the war, ends (Chapter 24)
-- **October 6, 1879**: The first children arrive at the Carlisle boarding school (Chapter 30)
+- **October 6, 1879**: The first Native children arrive at the federal boarding school at Carlisle, Pennsylvania, far from their homes, a few weeks before it formally opens (Chapter 30)
 - **November 1, 1879**: Richard Henry Pratt opens the Carlisle Indian Industrial School in Pennsylvania (Chapter 2)
 - **May 6, 1882**: President Arthur signs the Chinese Exclusion Act (Chapter 4)
 - **September 4, 1882**: Thomas Edison's workers start the country's first permanent central power station, on Pearl Street in New York City (Chapter 10)
@@ -134,7 +134,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **December 29, 1890**: Soldiers of the 7th Cavalry kill between 250 and 300 Lakota people at Wounded Knee (Chapter 2)
 - **October 21, 1892**: The first national Columbus Day (Chapter 37)
 - **February 1, 1893**: A white mob burns Henry Smith to death in Paris, Texas (Chapter 21)
-- **May 18, 1896**: The justices of the Supreme Court rule against Homer Plessy in *Plessy v. Ferguson* (Chapter 11)
+- **May 18, 1896**: In *Plessy v. Ferguson*, the justices of the Supreme Court rule against Homer Plessy and allow states to keep separating Black and white passengers by law (Chapter 11)
 - **December 10, 1898**: In the Treaty of Paris, Spanish diplomats sign over Puerto Rico and Guam and sell the Philippines (Chapter 23)
 
 ## 1900 to 1950
@@ -148,7 +148,7 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **December 6, 1907**: The Monongah mine explosions kill at least 362 miners (Chapter 10)
 - **1909**: Peary says his party has reached the North Pole (Chapter 1)
 - **March 25, 1911**: The Triangle fire kills 146 workers in a New York factory where a stairway door was locked (Chapter 14)
-- **May 15, 1911**: The justices of the Supreme Court rule against Standard Oil (Chapter 19)
+- **May 15, 1911**: The justices of the Supreme Court rule that Standard Oil has broken the Sherman Antitrust Act and give its owners six months to split it up (Chapter 19)
 - **1912**: Henrietta Leavitt publishes her rule for measuring how far away stars are (Chapter 9)
 - **December 23, 1913**: President Wilson signs the Federal Reserve Act (Chapter 17)
 - **September 1, 1914**: Martha, the last passenger pigeon, dies at the Cincinnati Zoo (Chapter 3)
@@ -175,11 +175,11 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 - **August 6, 1945**: An American bomber crew drops an atomic bomb on Hiroshima, and 90,000 to 166,000 people die within four months (Chapter 22)
 - **April 15, 1947**: Jackie Robinson plays his first game for Brooklyn (Chapter 36)
 - **October 1, 1947**: The first families move into Levittown, New York (Chapter 7)
-- **1948**: In *Shelley v. Kraemer*, the justices of the Supreme Court rule that courts can no longer enforce covenants against Black buyers (Chapter 6)
+- **1948**: In *Shelley v. Kraemer*, the justices of the Supreme Court rule that courts can no longer enforce restrictive covenants, sections of house deeds that forbid selling to Black buyers (Chapter 6)
 
 ## 1950 to 2000
 
-- **April 25, 1953**: Watson and Crick publish the shape of DNA (Chapter 9)
+- **April 25, 1953**: Watson and Crick publish the shape of DNA, which they worked out from Rosalind Franklin's X-ray pictures without her knowledge (Chapter 9)
 - **May 17, 1954**: In *Brown v. Board of Education*, all nine justices rule that separating children by race in public schools breaks the Constitution (Chapter 25)
 - **1955**: Jonas Salk's polio vaccine is shown to work and approved for use (Chapter 26)
 - **December 1, 1955**: Police in Montgomery, Alabama, arrest Rosa Parks for refusing to give up her bus seat (Chapter 25)
@@ -207,13 +207,13 @@ Every chapter's five dates to keep, plus the country's big turning points, oldes
 
 ## 2000 to today
 
-- **September 11, 2001**: Nineteen al-Qaeda hijackers fly passenger jets into the World Trade Center and the Pentagon and kill 2,977 people (Chapter 27)
+- **September 11, 2001**: Nineteen al-Qaeda hijackers take over four passenger jets and kill 2,977 people. They fly three into the World Trade Center and the Pentagon, and the fourth crashes in Pennsylvania after passengers and crew fight back (Chapter 27)
 - **August 29, 2005**: Hurricane Katrina comes ashore, and New Orleans floods when its floodwalls break (Chapter 27)
-- **September 15, 2008**: Lehman Brothers fails, owing about 619 billion dollars (Chapter 16)
+- **September 15, 2008**: The financial firm Lehman Brothers fails during the crash in home prices, owing about 619 billion dollars (Chapter 16)
 - **2009**: The number of people in prison reaches its highest point, 1,617,970 (Chapter 21)
-- **January 21, 2010**: The justices decide *Citizens United*, on corporate spending in elections (Chapter 19)
-- **2013**: Rana Plaza collapses in Bangladesh, and more than 1,100 people are killed (Chapter 35)
-- **April 2014**: Emergency managers switch Flint's water to the Flint River (Chapter 13)
+- **January 21, 2010**: The justices of the Supreme Court decide *Citizens United*, and from then on corporations and unions may spend without limit on elections if they do not work directly with a candidate (Chapter 19)
+- **2013**: Rana Plaza, a building in Bangladesh that holds five clothing factories, collapses and kills more than 1,100 people (Chapter 35)
+- **April 2014**: Emergency managers switch the water of Flint, Michigan, to the Flint River, and lead from old pipes gets into the city's tap water (Chapter 13)
 - **June 17, 2015**: Dylann Roof kills nine Black worshippers at Mother Emanuel church in Charleston (Chapter 29)
 - **2016**: For the first time, more American electricity comes from natural gas than from coal (Chapter 10)
 - **July 28, 2019**: Kyle Giersdorf, 16, wins the first *Fortnite* World Cup (Chapter 36)
