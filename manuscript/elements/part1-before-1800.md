@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" label="Chapter opening" -->
 **Chapter 13 of 37 · The Elements · 10 eras · about 85 minutes**
 
-**From the first ironworks to the uranium mines, the people whose land held the metal, or who dug and handled it, often paid for it with that land, their freedom or their health.**
+**From the first ironworks to the uranium mines, the people whose land held the metal often lost that land. Many of the people who dug and handled it paid with their freedom or their health.**
 
 A lump of pure copper that weighs 3,708 pounds has been at the Smithsonian, in Washington, since 1860. It once lay in the Ontonagon River country near Lake Superior. The Ojibwe had known it for a long time, held it sacred and made offerings at it. In 1843 a Detroit merchant hauled it away, and a federal agent made him hand it over to the government. The Keweenaw Bay Indian Community asked for it back in 1991, and Smithsonian officials refused in 2000.
 
@@ -28,15 +28,21 @@ This chapter follows the elements people here dug up, shaped, named and made, fr
 - When did someone in the United States first discover a new element?
 
 **Five minutes?** Read "Lead in gasoline and paint" in 1900 to 1950.
-**Can skip:** "Meanwhile in Europe", "Lead at Galena", "Silver, copper and a table from Russia", "Elements at home". The chapter still makes sense without them.
+**Can skip:** "Meanwhile in Europe", "Lead at Galena", "Elements at home". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 3 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Native miners near Lake Superior were digging and shaping copper at least 9,500 years ago. A 2021 study places them among the world's first coppersmiths, people who make things out of copper. All the land that later became the United States was Native land before 1500. No miner or metalworker from these thousands of years is known by name.
 
-Copper is one of the chemical elements. Everything is made of atoms, tiny pieces far too small to see, and an element is a substance made of only one kind of atom. Copper, iron, gold and silver are all elements. Nobody anywhere on Earth yet knew what an element was. People here mined copper, gathered salt and colored earth, and chose hard stone for tools. In some regions they also worked iron that had fallen from space. They turned these materials into tools, beads, ornaments and paint.
+Copper is one of the chemical elements. Everything is made of atoms, tiny pieces far too small to see, and an element is a substance made of only one kind of atom. Copper, iron, gold and silver are all elements.
+
+**Numbers and rows.** Each element has a number. It counts the protons, tiny particles in the center of each atom, so copper is element 29 because every copper atom has 29 protons. Chemists arrange the elements in order of their numbers in a chart called the periodic table.
+
+The numbers rise from left to right along each row, and the elements in each column often act alike. The seventh row ends with element 118. Heavier elements, such as element 120, which scientists are trying to make, would go in an eighth row.
+
+Nobody anywhere on Earth knew what an element was before 1500. People here mined copper, gathered salt and colored earth, and chose hard stone for tools. In some regions they also worked iron that had fallen from space. They turned these materials into tools, beads, ornaments and paint.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Copper from Lake Superior" -->
@@ -58,7 +64,9 @@ Timothy McCoy of the Smithsonian and four other scientists studied the beads and
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Gold, silver, ochre, salt and stone" -->
-In some regions, metalworkers made ornaments of gold and silver. Red and yellow ochre, a colored earth, went into paint. Ochre gets its color from iron oxide, a compound of two elements, iron and oxygen, joined together. People gathered salt, a compound of sodium and chlorine, and traded it. They made tools of flint and chert, two hard stones made of compounds that contain the element silicon.
+In some regions, metalworkers made ornaments of gold and silver. People also gathered salt and traded it, and they made tools of flint and chert, two hard stones.
+
+**A compound.** Red and yellow ochre, a colored earth, went into paint. Ochre gets its color from iron oxide, a compound. A compound is two or more elements joined together, and iron oxide is iron joined with oxygen.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -110,11 +118,11 @@ The works ran until about 1668 to 1670. The site is now Saugus Iron Works Nation
 <!-- hb-zoom level="span" label="Scottish prisoners at Saugus" -->
 Scottish prisoners of war did forced labor at Saugus. English soldiers under Oliver Cromwell took these Scottish soldiers prisoner at the Battle of Dunbar in 1650 and the Battle of Worcester in 1651. About 400 prisoners from the two battles reached New England in all, according to the National Park Service. The prisoners had no choice about going or about the work.
 
-**The march to Durham.** Cromwell's soldiers won the Battle of Dunbar in September 1650. Cromwell let more than 5,000 of the Scottish prisoners go and marched about 3,900 of the fittest south to the English city of Durham. Their English captors gave them no food and no shelter on the march, and killed some of them for refusing to keep walking. At Durham the English locked the prisoners in the city's cathedral, a large church that was not in use at the time.
+**The march to Durham.** Cromwell's soldiers won the Battle of Dunbar in September 1650. They marched about 3,900 of the fittest prisoners south to the English city of Durham. Their English captors gave them no food and no shelter on the march, and killed some of them for refusing to keep walking. At Durham the English locked the prisoners in the city's cathedral, a large church that was not in use at the time.
 
-A group of English leaders called the Council of State decided to send most of the prisoners to the colonies. In November 1650 they ordered the governor at Newcastle to hand over 150 Dunbar prisoners to agents of John Becx and Joshua Foote, two of the main investors in the Company of Undertakers. The prisoners sailed from England on a ship called the *Unity* and reached Boston in December 1650. The records do not show how many died on the voyage.
+A group of English leaders called the Council of State decided to send most of the prisoners to the colonies. In November 1650 they ordered 150 of the Dunbar prisoners handed over to agents of John Becx and Joshua Foote, two of the main investors in the Company of Undertakers. The prisoners sailed from England on a ship called the *Unity* and reached Boston in December 1650. The records do not show how many died on the voyage.
 
-The men running the company kept 62 of the prisoners for the ironworks, according to the historian Marsha Hamilton. They sent 36 to Saugus and 17 to a Boston warehouse run by a company manager. Hamilton does not say where the other nine went. The company's men sold the rest of the prisoners to farmers, merchants and other mills.
+The men running the company sent 36 of these prisoners to work at Saugus, according to the historian Marsha Hamilton. They put others to work at a company warehouse in Boston and sold the rest to farmers, merchants and other mills.
 
 **Bound to work.** The company's men forced many of the Scots to work five to seven years at Saugus under indentures, written agreements that bound a person to work for a master for a set number of years. These men had no say in theirs. They had to work to pay back the cost of their voyage, food, shelter, care and clothing. National Park Service staff give the term at Saugus as seven years.
 
@@ -162,7 +170,7 @@ Colonists ignored the ban. After 1750 they built more than sixty new ironworks, 
 
 Chemists in Europe turned chemistry into a modern science in the second half of the 1700s. Among them were Carl Wilhelm Scheele in Sweden and Antoine Lavoisier in France, who worked out what an element is and found new ones. Nobody in the United States discovered an element in these years. Americans put elements into their coins and dug ores out of the ground.
 
-Joseph Priestley, one of those chemists, collected oxygen in England in 1774 and moved to Pennsylvania twenty years later. Meanwhile owners of iron furnaces in Maryland held hundreds of Black people in slavery. And in North Carolina in 1799, a 12-year-old boy found the first gold in the United States that an expert confirmed was real.
+Joseph Priestley, one of those chemists, collected oxygen in England in 1774 and moved to Pennsylvania twenty years later. Meanwhile owners of iron furnaces in Maryland held hundreds of Black people in slavery. And in North Carolina in 1799, a 12-year-old boy found a gold nugget in a creek on his father's farm.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three elements in the new coins" -->
@@ -174,9 +182,9 @@ After the Revolution, Maryland officials took a one-fifth share of the Baltimore
 
 **Catoctin Furnace.** Four brothers, Thomas, James, Baker and Roger Johnson, built Catoctin Furnace in Maryland, and it was making iron by 1776. Thomas Johnson later became the first governor of the state of Maryland. In 1803 Baker Johnson became the only owner.
 
-A Johnson owner enslaved more than 80 people at the furnace, according to the Catoctin Furnace Historical Society, which names him only as "Johnson." The society names some of the enslaved men, among them Collier Sam, Waggoner's Henry and Harvey. A collier made charcoal, and a waggoner drove wagons.
+One Johnson owner by himself enslaved more than 80 people at the furnace, according to the Catoctin Furnace Historical Society, which names him only as "Johnson." The society names some of the enslaved men, among them Collier Sam, Waggoner's Henry and Harvey. A collier made charcoal, and a waggoner drove wagons.
 
-At least 271 enslaved people and an unknown number of free African Americans worked at Catoctin, according to a 2023 study in the journal *Science*. They mined ore, made charcoal, worked the forge, filled the furnace, drove wagons and cut wood. Others worked in the owners' houses and fields. The furnace had a cemetery for its African American workers, with burials from 1774. Between about 1825 and 1850, the owners switched to paid workers, most of them white.
+Counting all the years the furnace ran on enslaved labor, at least 271 enslaved people and an unknown number of free African Americans worked at Catoctin, according to a 2023 study in the journal *Science*. They mined ore, made charcoal, worked the forge, filled the furnace, drove wagons and cut wood. Others worked in the owners' houses and fields. The furnace had a cemetery for its African American workers, with burials from 1774. Between about 1825 and 1850, the owners switched to paid workers, most of them white.
 
 **The cemetery.** The same study traced the DNA, the material in the body's cells that parents pass down to their children, of 27 people buried in the Catoctin cemetery. Scientists from Harvard Medical School, the Smithsonian and the company 23andMe planned and led the work, and they published it on August 4, 2023. They linked the 27 people to nearly 42,000 living relatives.
 <!-- /hb-zoom -->

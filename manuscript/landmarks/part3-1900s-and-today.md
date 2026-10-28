@@ -46,13 +46,15 @@ Mount Rushmore is carved on land that US officials promised to the Sioux in a tr
 
 Lieutenant Colonel George Armstrong Custer led close to 1,000 soldiers and teamsters, men who drove wagons, into the Black Hills on July 2, 1874. Lieutenant General Philip Sheridan had sent them, and by the middle of August they had found gold.
 
-**The food law.** In August 1876, members of Congress passed a law saying no more money would be spent on food for the Sioux until they gave up the Black Hills. Under it, officials would give the Sioux no more food rations, and the Sioux then depended on those rations to eat.
+**The gold rush.** Hundreds of miners rushed into the hills once the news spread. At first soldiers tried to keep them out of the land the treaty had set apart for the Sioux. In late 1875 President Ulysses S. Grant ordered the Army to leave the miners alone.
+
+**The food law.** Members of Congress then set out to get the hills for the United States. In August 1876 they passed a law saying no more money would be spent on food for the Sioux until they gave up the Black Hills. Under it, officials would give the Sioux no more food rations, and the Sioux then depended on those rations to eat.
 
 A group of officials led by George Manypenny brought the Sioux a paper in September 1876. It was already written, and it stated that the Sioux gave up the Black Hills. Only about one in ten of the adult Sioux men signed it, far fewer than the three-fourths the treaty required. Members of Congress made that paper a law anyway on February 28, 1877, and with it they took the Black Hills.
 
-The judges of the US Supreme Court, who are called justices, decided the case *United States v. Sioux Nation* in 1980. Justice Harry Blackmun wrote for the court that the taking had broken the treaty. The justices agreed with an earlier award of $17.1 million for the land, plus interest, extra money of 5 percent for every year since 1877. The total came to between about $102 million and $106 million.
+The judges of the US Supreme Court, who are called justices, decided the case *United States v. Sioux Nation* in 1980. Justice Harry Blackmun wrote for the court that the taking had broken the treaty. The justices agreed with an earlier award of $17.1 million for the land, plus interest, extra money of 5 percent for every year since 1877. The total came to about $106 million.
 
-The Sioux nations have never taken the money. They say the Black Hills were never for sale. The money sits in a federal account held by the US Interior Department, and officials keep its balance secret. Published estimates put it at more than $1 billion. Frank Star Comes Out, president of the Oglala Sioux Tribe, has said, "We will never sell out our holy lands, the Black Hills, to the United States for monetary compensation (payment in money)."
+The Sioux nations have never taken the money. They say the Black Hills were never for sale. The money sits in a federal account held by the US Interior Department, and officials keep its balance secret. South Dakota Public Broadcasting put it at about $2 billion in 2022. Frank Star Comes Out, president of the Oglala Sioux Tribe, has said, "We will never sell out our holy lands, the Black Hills, to the United States for monetary compensation (payment in money)."
 
 **The carving.** Workers carved the mountain from October 4, 1927, to October 31, 1941. According to the National Park Service, nearly 400 men and women worked there, among them drillers and blacksmiths. They did about 90 percent of the carving with dynamite and removed about 450,000 tons of rock in all.
 
@@ -96,9 +98,11 @@ When Clifford died on November 23, 2019, at the age of 98, he was the last of th
 <!-- hb-story:end slug="nick-clifford" -->
 
 <!-- hb-zoom level="span" label="The Empire State Building and the Mohawk ironworkers" -->
-Builders took about 410 days to put up the Empire State Building in New York, from the first steel to the opening on May 1, 1931. Up to 3,400 workers were on the job each day, and during the fastest stretch the steel frame rose about four and a half floors a week.
+Five workers died building the Empire State Building in New York, by the official count. A story that hundreds died is false.
 
-The building has 102 stories and stands 1,250 feet tall, or 1,454 feet to the tip of today's antenna. It was the tallest building in the world until 1970, when the steel frame of the World Trade Center's North Tower rose higher. Five workers died building it, by the official count. A story that hundreds died is false. The photographer Lewis Hine took pictures of the men working on the steel for his book *Men at Work*.
+Builders took about 410 days to put up the building, from the first steel to the opening on May 1, 1931. Up to 3,400 workers were on the job each day, and during the fastest stretch the steel frame rose about four and a half floors a week. The photographer Lewis Hine took pictures of the men working on the steel for his book *Men at Work*.
+
+The building has 102 stories and stands 1,250 feet tall, or 1,454 feet to the tip of today's antenna. It was the tallest building in the world until 1970, when the steel frame of the World Trade Center's North Tower rose higher.
 
 **High steel.** Some of the riveting crews were ironworkers from Kahnawake, a community of the Mohawk Nation in Canada. Ironworkers put up the steel frames of buildings and bridges, and riveters joined the steel beams with rivets, hot metal pins that lock the beams together. Kahnawake men had done this work since the 1880s.
 
@@ -166,7 +170,7 @@ People tell a story that men are buried inside the dam's concrete. It is false. 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 7 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
 
 Americans in these years fought over who was allowed to build a landmark and over what a memorial to the dead should look like. In St. Louis, Justice Department lawyers later charged in court that leaders and members of the building trades unions kept Black workers out of the unions, and so off the job building the Gateway Arch. Two men climbed the unfinished arch in protest.
 
@@ -186,25 +190,27 @@ Black workers were kept out of the building jobs on the arch, a federal monument
 
 Green later helped start ACTION, a St. Louis group that worked for fair hiring. ACTION stood for the Action Committee to Improve Opportunities for Negroes, a word of that time for Black people.
 
-Two Black plumbers, Elijah Smith and Oliver Parker, were hired in 1966 to work on bathrooms in the arch's visitor center. White union workers walked off the job to protest the hiring of the two men.
+Two Black plumbers, Elijah Smith and Oliver Parker, were hired to work on bathrooms in the arch's visitor center. White union workers walked off the job on January 7, 1966, to protest the hiring of the two men.
 
-Lawyers in the US Justice Department then sued the St. Louis Building and Construction Trades Council and five of its unions. They sued under Title VII of the Civil Rights Act of 1964, the part of that law that forbids employers and unions to treat workers unfairly because of their race, color, religion, sex or national origin. It was the department's first lawsuit under Title VII charging a "pattern or practice," which means unfair treatment by race as a regular habit.
+**The lawsuit.** Lawyers in the US Justice Department sued the St. Louis Building and Construction Trades Council and five of its unions about a month later, on February 4, 1966. They charged the unions under the Civil Rights Act of 1964, which made it against the law for unions and employers to treat workers unfairly because of their race.
 
-Officials of the St. Louis building trades unions signed an agreement to end "all practices that were discriminatory," meaning every rule and habit that kept Black workers out.
+Officials of several of the unions settled the case. They signed an agreement to end "all practices that were discriminatory," meaning every rule and habit that kept Black workers out, and to judge everyone who applied by the same written standards. Two unions, the sheet metal workers and the electricians, fought the case in court. A judge ruled for them in 1968. In 1969 appeals judges overturned that ruling, found that the two unions' rules still kept Black workers out, and ordered the rules changed.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="harold-mccomber" name="Harold McComber" movie="High Steel (1965)" kind="ordinary" status="verified" -->
 ### Harold McComber
 
-> **Who:** A Mohawk ironworker from Kahnawake whose work on New York skyscrapers became a film.
+> **Who:** A Mohawk ironworker from Kahnawake, in Canada, who left home to work on the steel frames of Manhattan skyscrapers.
 > **When and where:** Manhattan and Kahnawake, filmed in 1965.
 > **Movie:** *High Steel* (1965), a documentary by the National Film Board of Canada, directed by Don Owen. It is about McComber's working life.
 
-**McComber's work on Manhattan skyscrapers became a documentary film in 1965.**
+**McComber's sons grew up without him while he built New York skyscrapers.**
 
-Harold McComber was a Mohawk ironworker from Kahnawake. Like many Kahnawake men, he worked on the steel frames of skyscrapers in Manhattan. His community had sent men into high steel since the 1880s, and 33 of them died when the Quebec Bridge fell in 1907.
+Harold McComber was a Mohawk ironworker from Kahnawake, in Quebec. Like many Kahnawake men, he left home to work on the steel frames of skyscrapers in Manhattan.
 
-The director Don Owen made the documentary about McComber's working life, *High Steel*, in 1965. The National Film Board of Canada produced it.
+The director Don Owen built his 13-minute documentary *High Steel* around McComber's working life, and the National Film Board of Canada produced it in 1965. The film shows McComber and the men he worked with on the steel high above New York City. It also shows the quieter life of their community at home. To film the men at work, the camera crew reached the site by crossing on a ladder from the building next door.
+
+In the film, McComber is sorry that his sons have had to grow up without their father. The film also tells how Kahnawake men first earned their name for steelwork, on a railway bridge built in the late 1800s.
 <!-- hb-story:end slug="harold-mccomber" -->
 
 <!-- hb-zoom level="span" label="The World Trade Center" -->
@@ -228,7 +234,7 @@ Afterward police arrested him. The charges against him were dropped. In return, 
 <!-- hb-zoom level="span" label="The Vietnam Veterans Memorial and its critics" -->
 Two long walls of polished black granite, set into the ground of the National Mall in Washington, form the Vietnam Veterans Memorial. The names of more than 58,000 Americans who died in the Vietnam War are cut into the stone, in the order they died. It was dedicated on November 13, 1982, and it became the most visited memorial in Washington.
 
-**The attacks.** Critics attacked the design before it was built. One veteran called it "a black gash (a deep cut) of shame." Another critic said that burying the dead "in a black stone sarcophagus," a stone coffin, "is like spitting on their graves." Opponents of the design included Patrick Buchanan and Congressman Henry Hyde.
+**The attacks.** Critics attacked the design before it was built. One veteran called it "a black gash (a deep cut) of shame." Another critic said that burying the dead "in a black stone sarcophagus," a stone coffin, "is like spitting on their graves." Opponents of the design included the radio host Patrick Buchanan and Congressman Henry Hyde. They campaigned to make the wall white and to add an eight-foot statue of soldiers.
 
 The members of the US Commission of Fine Arts, a federal board that reviews designs in Washington, kept the wall. They also added a statue of three soldiers by Frederick Hart nearby, in 1984. Hart's design had won third place in the contest for the memorial.
 <!-- /hb-zoom -->
@@ -246,7 +252,7 @@ Maya Lin was a 21-year-old architecture student at Yale University when she won 
 
 **The contest.** It was the biggest design competition held in the United States up to then. The judges looked at the entries without knowing who had made them, and they chose entry number 1026 over 1,420 others. In May 1981 officials came to Lin's college room to tell her she had won the $20,000 first prize.
 
-People who attacked the wall used Lin's age and her Chinese family background as reasons to change the design or drop it. At the dedication in 1982, no one spoke her name.
+**The critics.** Lin argued against the campaign to make her wall white and add a statue, and she said Congressman Henry Hyde was "drawing mustaches on other people's portraits." Some of the wall's critics also used her age and her Chinese family background as reasons to change the design or drop it. The speakers at the dedication in 1982 did not mention her.
 <!-- hb-story:end slug="maya-lin" -->
 
 <!-- hb-zoom level="span" label="Restoring the old landmarks" -->
@@ -262,7 +268,7 @@ On the West Coast, from 1910, US officials held immigrants in barracks on Angel 
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Memorials to people who were killed or enslaved went up after 2000: to the victims of the September 11 attacks, to the Black Americans murdered by mobs without a trial, and to the people held in slavery. In the same years, officials and work crews took down, moved or renamed hundreds of memorials to the Confederacy, the Southern states that fought to keep slavery in the Civil War.
 
@@ -307,9 +313,9 @@ The National Memorial for Peace and Justice, in Montgomery, Alabama, is a memori
 
 A copy of each county's block stands at the site, and EJI offers each copy to groups in that county to set up at home. A team called MASS Design Group designed the memorial, and it cost about $20 million, paid by private foundations.
 
-**122,000 names.** EJI opened the Freedom Monument Sculpture Park nearby in March 2024, on 17 acres with nearly 50 sculptures. Its National Monument to Freedom lists more than 122,000 last names taken from the 1870 census, the government's count of everyone in the country that year. Nearly five million Black people took those names.
+**122,000 names.** EJI opened the Freedom Monument Sculpture Park nearby in March 2024, on 17 acres with nearly 50 sculptures. Its National Monument to Freedom lists more than 122,000 last names taken from the 1870 census, the government's count of everyone in the country that year. That census was the first time people who had been enslaved could claim a last name that the government would recognize. In it, nearly five million Black people took these names as their own.
 
-The 1870 census was the first time people who had been enslaved could claim a last name that the government would recognize. The monument stands 43 feet tall and 155 feet long, and EJI dedicated it on Juneteenth, June 19, 2024. Juneteenth marks June 19, 1865, the day Major General Gordon Granger of the US Army reached Galveston, Texas, with the news that enslaved African Americans were free.
+The monument stands 43 feet tall and 155 feet long, and EJI dedicated it on Juneteenth, June 19, 2024. Juneteenth marks June 19, 1865, the day Major General Gordon Granger of the US Army reached Galveston, Texas, with the news that enslaved African Americans were free.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Confederate monuments coming down and going back up" -->
@@ -319,15 +325,15 @@ The first began around 1900, while lawmakers in Southern states were passing Jim
 
 Hundreds of these memorials came down or were renamed after people were killed in three places: Charleston, Charlottesville and Minneapolis.
 
-**Charleston.** On June 17, 2015, a 21-year-old white man named Dylann Roof sat in on a Bible study at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina. After about an hour he opened fire and killed nine Black worshippers. Roof had posted pictures of himself with Confederate flags on his website, and he had written racist views there. A federal jury found Roof guilty of all 33 federal charges against him on December 15, 2016, and the federal court sentenced him to death on January 10, 2017.
+**Charleston.** A 21-year-old white man named Dylann Roof sat in on a Bible study at the Emanuel African Methodist Episcopal Church in Charleston, South Carolina, on June 17, 2015. After about an hour he opened fire and killed nine Black worshippers. Roof had posted pictures of himself with Confederate flags on his website, and he had written racist views there. A federal jury found Roof guilty of all 33 federal charges against him on December 15, 2016, and the federal court sentenced him to death on January 10, 2017.
 
-**Charlottesville.** Paul Goodloe McIntire paid for a statue of the Confederate general Robert E. Lee in Charlottesville, Virginia, and it was dedicated in 1924. The members of the city council voted 3 to 2 on February 6, 2017, to remove it. White supremacists then organized a rally called Unite the Right around the statue.
+The Confederate battle flag had flown at the South Carolina State House, in Columbia, since 1961. After the murders, state lawmakers voted to take it down, and Governor Nikki Haley signed the law on July 9, 2015. The next day an honor guard of the state Highway Patrol lowered the flag, and it went to the Confederate Relic Room at the state museum.
 
-James Alex Fields Jr. drove his car into a crowd of people protesting against the rally on August 12, 2017. He killed Heather Heyer, a 32-year-old paralegal, a worker who helps lawyers, and injured many others. Counts of the injured run from 19 to 29.
+**Charlottesville.** Paul Goodloe McIntire paid for a statue of the Confederate general Robert E. Lee in Charlottesville, Virginia, and it was dedicated in 1924. The members of the city council voted 3 to 2 on February 6, 2017, to remove it. City workers took the statue down on July 10, 2021, and city officials gave it to the Jefferson School African American Heritage Center. In October 2023 the staff of the center's Swords into Plowshares project had the statue melted down at a foundry.
+
+**The rally.** White supremacists organized a rally called Unite the Right around the statue for August 2017, six months after the council's vote. On August 12 James Alex Fields Jr. drove his car into a crowd of people protesting against the rally. He killed Heather Heyer, a 32-year-old paralegal, a worker who helps lawyers, and injured many others. Counts of the injured run from 19 to 29.
 
 A Virginia jury found Fields guilty in December 2018 of first-degree murder, the most serious kind of murder, done on purpose. In 2019 he pleaded guilty to 29 federal hate crimes, crimes against people chosen because of their race, religion or a similar trait, and a federal judge sentenced him to life in prison.
-
-City workers took the Charlottesville statue down on July 10, 2021, and city officials gave it to the Jefferson School African American Heritage Center. In October 2023 the staff of the center's Swords into Plowshares project had the statue melted down at a foundry.
 
 **Minneapolis.** Minneapolis police officer Derek Chauvin murdered George Floyd on May 25, 2020, by kneeling on his neck, back and shoulder for about ten minutes. A jury convicted Chauvin of murder in 2021. Protests followed Floyd's murder, and SPLC researchers counted at least 168 Confederate symbols removed in 2020 alone.
 
@@ -345,11 +351,13 @@ On that commission's advice, the memorial was taken down in December 2023. *Star
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who took down the slavery exhibit in Philadelphia?" -->
-National Park Service workers took down an exhibit about slavery in Philadelphia in 2026, and a federal judge ordered it put back. The President's House site marks where George Washington lived while he was president. Its exhibit panels described the lives of nine people Washington held in slavery there.
+National Park Service workers took down an exhibit about slavery in Philadelphia in 2026. A federal judge ordered it put back, but appeals judges later let officials of the Trump administration replace it with panels of their own. The President's House site marks where George Washington lived while he was president. Its exhibit panels described the lives of nine people Washington held in slavery there.
 
 **The court case.** The workers removed the panels in January 2026, following President Trump's executive order called "Restoring Truth and Sanity to American History." Lawyers for the City of Philadelphia sued. On February 16, 2026, US District Judge Cynthia Rufe ordered the panels restored while the case went on, and workers began putting them back three days later.
 
-Lawyers for the federal government appealed, which means they asked a higher court to change the ruling. By July 2026, judges of the Third Circuit Court of Appeals had agreed that officials of the Trump administration had the power to replace the exhibit.
+Lawyers for the federal government appealed, which means they asked a higher court to change the ruling. On June 18, 2026, judges of the Third Circuit Court of Appeals ruled that the city had no right to decide what the exhibit showed. On July 15 officials of the Trump administration replaced the old panels with their own.
+
+The new panels still describe the nine enslaved people, but they leave out some of the old panels' detail, such as a map of the routes of the slave trade and a timeline of slavery. As of September 2026, the administration's panels were in place, and the city's case was still going on in the lower court.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Old landmarks, new names and owners" -->

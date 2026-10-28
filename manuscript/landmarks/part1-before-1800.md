@@ -14,13 +14,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 12 of 37 · Landmarks · 10 eras · about 70 minutes**
+**Chapter 12 of 37 · Landmarks · 10 eras · about 75 minutes**
 
-**Many of the people who built America's landmarks were enslaved, forced to work or killed on the job, and Americans still argue about whose land the landmarks stand on and which people they honor.**
+**Many of the people who built America's landmarks were enslaved, forced to work or killed on the job. Americans still argue about whose land the landmarks stand on and which people they honor.**
 
 In Emancipation Hall, in the Capitol Visitor Center in Washington, there is a block of sandstone from Aquia Creek, Virginia. It was part of the Capitol's East Front, built from 1824 to 1826. Members of Congress unveiled it as a marker on February 28, 2012. Its plaque states that the stone "was quarried," or cut from the ground, "by laborers, including enslaved African Americans." In the 1790s the officials in charge of building the Capitol rented enslaved men from their owners by the year, and the owners collected the pay.
 
-This chapter describes landmarks from earthworks more than 3,000 years old to memorials opened in 2024. In every era, watch for two things. One is who did the building: Native men drafted to cut stone for a Spanish fort, enslaved men rented out by their owners, immigrants killed on the Brooklyn Bridge. The other is what people argued about afterward. A golf club used an ancient earthwork in Ohio as a golf course from 1910 to 2024. Workers carved Mount Rushmore on land that members of Congress had taken from the Sioux. Since 2015, officials and work crews have taken down, moved or renamed hundreds of Confederate memorials, and in 2025 federal officials began putting some back.
+This chapter describes landmarks from earthworks more than 3,000 years old to memorials opened in 2024. Watch for two things as you read. One is who did the building: Native men drafted to cut stone for a Spanish fort, enslaved men rented out by their owners, immigrants killed on the Brooklyn Bridge. The other is what people argued about afterward. A golf club used an ancient earthwork in Ohio as a golf course from 1910 to 2024. Workers carved Mount Rushmore on land that members of Congress had taken from the Sioux. Since 2015, officials and work crews have taken down, moved or renamed hundreds of Confederate memorials, and in 2025 federal officials began putting some back.
 
 **Three questions this chapter answers**
 - Who built the White House and the Capitol, and who was paid for their work?
@@ -32,7 +32,7 @@ This chapter describes landmarks from earthworks more than 3,000 years old to me
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 7 minutes**
+**Era 1 of 10 · Before 1500 · about 6 minutes**
 
 Native people built the oldest landmarks in the United States, hundreds and even thousands of years before any European arrived. They piled up mounds of earth, and one of them covers more ground than the Great Pyramid in Egypt. In the Southwest they built stone houses with hundreds of rooms and set whole villages under cliffs.
 
@@ -58,13 +58,13 @@ In Chaco Canyon, in what is now New Mexico, people built large stone buildings c
 
 At Mesa Verde, in what is now Colorado, people built Cliff Palace between about 1190 and 1280. They set it under an overhang, a place where the rock of the cliff sticks out above like a roof. Cliff Palace has about 150 rooms and 23 kivas, rooms used for religious ceremonies. It is the largest cliff dwelling in North America.
 
-The builders' descendants are the Pueblo peoples of the Southwest. The National Park Service lists 26 tribes with a special tie to Mesa Verde, among them the Hopi Tribe, the Navajo Nation and the 19 Pueblos of New Mexico, including Zuni, Taos and Acoma. The Ute Mountain Ute, the Southern Ute, the Northern Ute and the Jicarilla Apache are on the list too.
+The National Park Service lists 26 tribes with a special tie to Mesa Verde. Twenty-one of them are Pueblo nations, among them the Hopi Tribe and the Pueblos of Zuni, Taos and Acoma in New Mexico. The other five, the Navajo Nation, three Ute tribes and the Jicarilla Apache Nation, also have a tie to the place.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Earthworks under a golf course" -->
 Native people in southern Ohio built long walls of earth in the shapes of circles and eight-sided figures about 2,000 years ago. Archaeologists call these people the Hopewell culture. Hopewell is a name archaeologists gave them, not the name of any nation.
 
-Written accounts differ on how long the building went on. A National Park Service article gives about 400 years, and an article in the Smithsonian's *American Indian* magazine gives from about the year 1 to about the year 400. A report on WVXU, a public radio station in Cincinnati, puts the span longer, from 200 BC to the year 500.
+Accounts differ on how long the building went on, from about 400 years to about 700, in the centuries between about 200 BC and the year 500.
 
 The Octagon Earthworks, in Newark, Ohio, is a large circle of earth joined to an eight-sided wall. Together the two walls surround nearly 70 acres. The walls line up with the points where the moon rises, in a pattern that repeats every 18.6 years.
 
@@ -81,17 +81,17 @@ Members of UNESCO's World Heritage Committee voted on September 19, 2023, to add
 
 **A golfer shouted at her, "Out of the way! You don't belong here!"**
 
-Wallace's people once lived in western Ohio, near a place called Lewistown, on land they shared with a band of Seneca. Joined as one mixed band, the two groups signed a treaty, a written agreement between nations, on July 20, 1831. James B. Gardiner, a special official, signed it for the United States. The band gave up about 48 square miles near Lewistown, plus 8,960 acres of a reservation, land set aside for a Native nation, that dated from 1818.
-
-**The march.** In return Gardiner promised 60,000 acres west of the Mississippi River, and under the treaty US officials had to move the band there. They forced the people out of Ohio in 1832. The people walked about 800 miles, and more than 15 percent of them died on the way, according to the Ohio History Connection. No record of the march names the officials who led it.
-
-The band received the promised 60,000 acres in December 1832, as a reservation in what is now Ottawa County, Oklahoma. Wallace was born in that county in about 1939.
-
 **The golfer.** Wallace first visited the Octagon Earthworks in the late 2000s, in 2007 by the account in the Smithsonian's *American Indian* magazine and in 2009 by other accounts. That was the visit when the golfer shouted at her. She decided to get the golf course off the earthworks and to win World Heritage status for them.
+
+**Forced out of Ohio.** Wallace's own people had once lived in western Ohio, near Lewistown. Their band of Shawnee and Seneca, joined as one, gave up that land in a treaty, a written agreement between nations, signed on July 20, 1831. James B. Gardiner, a special official, signed it for the United States.
+
+Under the treaty, US officials forced the people out of Ohio in 1832. They walked about 800 miles to a reservation, land set aside for a Native nation, in what is now Ottawa County, Oklahoma. More than 15 percent of them died on the way, according to the Ohio History Connection. No record of the march names the officials who led it. Wallace was born in that county in about 1939.
+
+**Her own words.** At Ohio Statehood Day in 2019, Wallace asked, "Why had I never read anything about Newark Earthwork Mounds?" Then she answered her own question: "Because you here in Ohio didn't even realize the treasures that you had."
 
 **The court case.** Leaders of the Ohio History Connection went to court to end the club's lease. They used eminent domain, a legal power to take property for public use as long as the owner is paid. On December 7, 2022, the judges of the Ohio Supreme Court ruled 5 to 1 that they could do it.
 
-When UNESCO's World Heritage Committee voted in 2023 to add the Hopewell earthworks to its list, at a meeting in Riyadh, Saudi Arabia, Wallace gave the main speech. In August 2024 leaders of the club and of the Ohio History Connection agreed to end the court case, and they did not make the terms public. "At last," Wallace said. "So many people have worked so long for this to become reality."
+Wallace gave the main speech at the 2023 meeting in Riyadh, Saudi Arabia, where members of UNESCO's World Heritage Committee voted to list the earthworks. In August 2024 leaders of the club and of the Ohio History Connection agreed to end the court case, and they did not make the terms public. "At last," Wallace said. "So many people have worked so long for this to become reality."
 
 The club ran the golf course until the end of 2024. The Octagon opened to the public on January 1, 2025.
 <!-- hb-story:end slug="glenna-wallace" -->
@@ -121,7 +121,7 @@ Francis Drake and his men burned the town in 1586. The only landmark left from t
 <!-- hb-zoom level="era" -->
 **Era 3 of 10 · The 1600s · about 9 minutes**
 
-Spanish officials forced Native men from their towns to cut the stone for a fort at St. Augustine, in Florida. The fort is one of three buildings from the 1600s that still stand and are among the oldest that Europeans put up in the United States. The other two are a chapel in Santa Fe, New Mexico, made of adobe, bricks of mud and straw dried in the sun, and a wooden church building in Massachusetts called a meetinghouse.
+Spanish officials forced Native men from their towns to cut the stone for a fort at St. Augustine, in Florida. The fort still stands, and it is among the oldest buildings that Europeans put up in the United States. So are two churches of this century: a chapel in Santa Fe, New Mexico, made of adobe, bricks of mud and straw dried in the sun, and a wooden church building in Massachusetts called a meetinghouse.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A fort built of shell stone" -->
@@ -129,13 +129,11 @@ Spanish officials ordered a stone fort, the Castillo de San Marcos, built at St.
 
 **The order.** Queen Mariana of Spain then named Manuel de Cendoya governor of Florida. She sent him to the viceroy of New Spain, the king's highest official in Mexico, to collect 12,000 pesos, which were Spanish coins, to begin a fort of stone.
 
-Workers broke ground on October 2, 1672, and Cendoya laid the first foundation stone on November 9. The main work was finished in about 1687, under Governor Juan Cabrera. By 1696 the fort had cost close to 100,000 pesos. It is the oldest masonry fort, a fort built of stone or brick, in the continental United States.
-
-**The last stones.** Governor Laureano de Torres had the last stones set on the fort's water defenses in 1695 or 1696. Two histories written for the National Park Service give different years. Albert Manucy, who wrote the first one in 1942, gives 1696, and a 1993 park handbook gives August 1695.
+Workers broke ground on October 2, 1672, and Cendoya laid the first foundation stone that November. The last stones were set in 1695 or 1696, by different accounts. By 1696 the fort had cost close to 100,000 pesos. It is the oldest masonry fort, a fort built of stone or brick, in the continental United States.
 
 **Stone made of shells.** The fort is made of coquina, a soft stone made of packed seashells. Workers cut the coquina from quarries, pits where stone is cut out of the ground, on Anastasia Island, across the bay from the town. They cut grooves in the rock with picks and axes, then broke the blocks loose with bars and wedges.
 
-The largest blocks were 2 feet thick and 4 feet long, and Manucy wrote that six strong men "could hardly lift" one of them. Oxen dragged the blocks to a dock, and rafts carried them across the bay.
+The largest blocks were 2 feet thick and 4 feet long. Albert Manucy, who wrote a history of the fort for the National Park Service in 1942, says six strong men "could hardly lift" one of them. Oxen dragged the blocks to a dock, and rafts carried them across the bay.
 
 The stones are held together with mortar, a paste that hardens. Workers made lime, a white powder, for the mortar by burning oyster shells in kilns, or very hot ovens. By the spring of 1672 they had stored about 7,000 bushels of lime, measures of about 8 gallons each. The walls they built are 14 feet thick at the base and about 9 feet thick at the top.
 
@@ -147,15 +145,15 @@ The fort and the people inside it survived. General James Oglethorpe of Georgia 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who cut the stone?" -->
-Spanish officials forced Native men to work on the Castillo. At times up to 300 Native people were working for the Spanish king in St. Augustine, on the fort and in the corn fields. The men came from three nations: the Guale of what is now Georgia, the Timucua of eastern Florida and the Apalache of western Florida.
+Spanish officials forced Native men to work on the Castillo and in the king's corn fields near the town. At times up to 300 Native people were working for the Spanish king in St. Augustine, counting the men in the fields as well as the men on the fort. The men came from three nations: the Guale of what is now Georgia, the Timucua of eastern Florida and the Apalache of western Florida.
 
 Officials drafted the men in their home towns, which means they ordered them to come and work. Some of the men had to walk about 200 miles to reach St. Augustine. Manucy wrote that "many of them served unwillingly." A drafted man had two choices. He could bring his family with him, or he could leave his wife and children in the village to feed themselves.
 
-**Past their terms.** Officials drafted even some chiefs, and they kept men working past the end of their terms. One chief was forced to work on the fort for more than three years without once going home. Some governors used Native men as their own servants. Years before, Spanish officials had sentenced the Apalache to forced labor on the forts as a punishment for rebelling.
+**Past their terms.** Each group of drafted men was supposed to work for a set time and then go home, but officials often held the men long past it. They drafted even some chiefs, and one chief was forced to work on the fort for more than three years without once going home. Some governors used Native men as their own servants. Years before the work on the Castillo began, Spanish officials had sentenced the Apalache to forced labor on the forts as a punishment for rebelling.
 
-**The pay.** The Native laborers were paid 1 real, a Spanish silver coin, a day, plus a daily share of corn. Manucy counted the real as worth 12 and a half cents, and the 1993 park handbook puts it at about 20 cents. Spanish master masons on the same job earned 20 reales a day.
+**The pay.** The Native laborers were paid 1 real, a Spanish silver coin, a day, plus a daily share of corn. Manucy counted the real as worth 12 and a half cents, and a park handbook written in 1993 puts it at about 20 cents. Spanish master masons on the same job earned 20 reales a day.
 
-The work needed about 150 laborers, and officials found it hard to get even 100. In the first winter a sickness the Spanish called El Contagio, "the contagion," spread among the Native laborers, and the crew shrank to almost no one. Manucy's history does not count how many men died.
+The fort alone needed about 150 laborers: 50 to quarry and haul the stone, 50 to gather oyster shells and help at the lime kilns, and 50 to dig trenches, carry sand and mix mortar. Officials found it hard to get even 100. In the first winter a sickness the Spanish called El Contagio, "the contagion," spread among the Native laborers, and the crew shrank to almost no one. Manucy's history does not count how many men died.
 
 **No names.** The payrolls, the lists of workers and their pay, counted the Guale, Timucua and Apalache men who cut the stone. Manucy's history and the 1993 park handbook were both written from those payrolls. They give the men's nations and numbers, but not their names.
 
@@ -195,6 +193,8 @@ The chapel was partly destroyed in the revolt. The histories of the chapel writt
 The Old Ship Meetinghouse in Hingham, Massachusetts, was built in 1681. The Puritans, a group of English Protestants who settled in New England, met in buildings like this one for church. It is the only Puritan meetinghouse from the 1600s still standing in the country, and the oldest church building in the United States that has been in use without a break.
 
 **The name.** Its roof rests on a frame of heavy timbers, left open to view from inside. To the people who worshiped there, the frame looked like the hull, or body, of a ship turned upside down. That is how the building got its name.
+
+**The two claims.** San Miguel's foundations are about 60 years older than the Old Ship Meetinghouse, but San Miguel's standing walls are about 30 years younger.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -202,7 +202,7 @@ The Old Ship Meetinghouse in Hingham, Massachusetts, was built in 1681. The Puri
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
 
 Colonists in Boston and Philadelphia put up public buildings that are still landmarks today. The first lighthouse in what became the United States was lit at the mouth of Boston Harbor in 1716, and Boston's Old North Church went up in 1723. In Philadelphia, builders began a statehouse for Pennsylvania's lawmakers in 1732. It is now called Independence Hall.
 
@@ -223,7 +223,7 @@ Boston Light stands on Little Brewster Island, at the entrance to Boston Harbor.
 
 George Worthylake became the first keeper of Boston Light in 1716. He was paid £50 a year, 50 British pounds, to keep the light burning from sundown to sunrise. Worthylake lived on the island with his wife Ann and his daughter Ruth. He earned extra money guiding ships in and out of the harbor, and he kept a flock of sheep on Great Brewster Island, next door.
 
-**The canoe.** The family had gone into Boston for a church sermon on November 3, 1718. Just after noon, on the way back to the island, their canoe tipped over. Worthylake, Ann and Ruth all drowned. Shadwell, a man Worthylake enslaved, drowned with them, and so did George Cutler, a servant, and John Edge, a friend of the family. A few days later the next keeper, Robert Saunders, drowned too.
+**The canoe.** The family had gone into Boston for a church sermon on November 3, 1718. Just after noon, on the way back to the island, their canoe tipped over. Worthylake, Ann and Ruth all drowned. Shadwell, a man Worthylake enslaved, drowned with them, and so did George Cutler, a servant, and John Edge, a friend of the family. Within weeks, in a second accident, two of the men hired to keep the light until a new keeper was chosen drowned near the island too.
 
 **Franklin's song.** Benjamin Franklin was 12 years old and working for his older brother, a printer in Boston. His brother had him write a ballad about the drowning, a song that tells the story, called "The Lighthouse Tragedy." Once it was printed, Franklin's brother sent him around the town to sell copies. Franklin later called his own verses "wretched stuff," and no copy survives.
 <!-- hb-story:end slug="george-worthylake" -->
@@ -233,7 +233,9 @@ Old North Church in Boston, also called Christ Church, was built in 1723. It is 
 
 **Two lanterns.** On April 18, 1775, the church's sexton, or caretaker, Robert Newman, and Captain John Pulling Jr. hung two lanterns in the steeple. The lanterns were a signal, worked out by Paul Revere, that British troops were moving by water.
 
-Work on the Pennsylvania State House in Philadelphia began in 1732 and ended in 1753, 21 years later. Andrew Hamilton designed it with Edmund Woolley, a master carpenter. Workers added its tower from 1750 to 1753, and a bell was hung in the new tower in 1753. Words on the bell read "Proclaim liberty throughout all the land." The building is now called Independence Hall.
+Work on the Pennsylvania State House in Philadelphia began in 1732 and ended in 1753, 21 years later. Andrew Hamilton designed it with Edmund Woolley, a master carpenter. Workers added its tower from 1750 to 1753, and in 1753 they raised a bell into it. Words on the bell read "Proclaim liberty throughout all the land." The bell later became known as the Liberty Bell.
+
+The State House is now called Independence Hall. Leaders of the colonies debated and signed the Declaration of Independence inside it in 1776.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The mission church later called the Alamo" -->
@@ -245,7 +247,11 @@ The people who lived at the mission came from more than a hundred Native groups,
 
 The cornerstone of a stone church, the first stone set at a corner of the new building, was laid on May 8, 1744. That church fell down in the 1750s. Work on the church that stands today began in 1758. The missionaries never finished it, and the bell towers and the dome they planned were never built. The records do not say who laid the church's stones.
 
-Spanish officials closed the mission in 1793 and divided its lands among the Native people and others who still lived there. The old mission church is known today as the Alamo.
+Spanish officials closed the mission in 1793 and divided its lands among the Native people and others who still lived there.
+
+**The Alamo Company.** From 1803 a company of Spanish soldiers lived in the old mission. They had been stationed before at Alamo de Parras, a town in what is now Mexico, so people called them the Alamo Company, and the mission took its name from them.
+
+Texans were fighting to break away from Mexico in 1836, in a war called the Texas Revolution. That year Mexican soldiers attacked the old mission and killed the Texan soldiers defending it, 187 men by the National Park Service's count.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -265,7 +271,7 @@ James Hoban, an architect born in Ireland, designed the President's House, later
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved men who built the capital" -->
-Enslaved men quarried sandstone for the President's House and the Capitol. They also cut timber, made bricks, sawed boards, did carpentry and hauled loads. The three commissioners, the officials in charge of the new District of Columbia, bought a sandstone quarry on Aquia Creek, in Stafford County, Virginia, for $6,000 on December 2, 1791. At the Government Island quarry, forty Black men worked beside free workers.
+Enslaved men quarried sandstone for the President's House and the Capitol. They also cut timber, made bricks, sawed boards, did carpentry and hauled loads. The three commissioners, the officials in charge of the new District of Columbia, bought a sandstone quarry on Government Island, in Aquia Creek, in Stafford County, Virginia, for $6,000 on December 2, 1791. In the fall of 1792 they allowed the man running the quarry to rent forty enslaved men to work there, beside a number of free workers.
 
 **Rented by the year.** William C. Allen, a historian in the office of the Architect of the Capitol, studied the Capitol's payrolls for Congress in 2005. His report states that the commissioners rented enslaved men from their owners by the year. They called this "Negro hire," using a word of that time for Black people. The Capitol's accounts list 385 payments for it between February 11, 1795, and May 17, 1801.
 
@@ -297,7 +303,11 @@ The payroll records how many days the men worked that month. Peter and Ben each 
 <!-- hb-story:end slug="white-house-enslaved-carpenters" -->
 
 <!-- hb-zoom level="span" label="Who built Mount Vernon and Monticello?" -->
-Enslaved workers built and enlarged Mount Vernon, George Washington's home in Virginia, and Monticello, Thomas Jefferson's home in Virginia. Jefferson began building Monticello in 1769 and left it unfinished in 1784. From 1796 to about 1809 he redesigned it and had it rebuilt, and enslaved workers did much of the building and made much of its fine woodwork.
+Enslaved workers built and enlarged Mount Vernon, George Washington's home in Virginia, and Monticello, Thomas Jefferson's home in Virginia.
+
+Washington had the roof of his one-story house at Mount Vernon raised in the late 1750s to make a full second floor. The people he enslaved did most of the work, while he was away at war. He began enlarging the house again in 1774, and its last new room was finished in about 1787.
+
+Jefferson began building Monticello in 1769 and left it unfinished in 1784. From 1796 to about 1809 he redesigned it and had it rebuilt, and enslaved workers did much of the building and made much of its fine woodwork. One of them was John Hemmings, a joiner, or maker of fine woodwork.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="thomas-jefferson-landmarks" name="Thomas Jefferson" movie="" kind="famous" status="verified" -->
@@ -308,12 +318,12 @@ Enslaved workers built and enlarged Mount Vernon, George Washington's home in Vi
 
 **Virginia's capitol was modeled on an ancient Roman temple in France.**
 
-Thomas Jefferson designed his own house at Monticello, and with a French draftsman, a man who drew building plans, he made the design for the Virginia State Capitol. The house at Monticello was being built from 1769 to about 1809, a span of 40 years. The people he enslaved did much of the building.
+Thomas Jefferson designed his own house at Monticello, and with a French draftsman, a man who drew building plans, he made the design for the Virginia State Capitol.
 
 **The temple.** Virginia's Directors of Public Buildings asked Jefferson for a design for a new state capitol in Richmond in 1785. He was then the United States minister to France, the man who represented the country to the French government. The French draftsman, Charles-Louis Clérisseau, persuaded him to model the outside of the building on the Maison Carrée, an ancient Roman temple in the city of Nîmes, in France.
 
 Clérisseau drew the final plans. A plaster model reached Richmond late in 1786 to guide the workmen, and Samuel Dobie built the capitol. A history of the building by the Virginia General Assembly, the state's lawmakers, states that the capitol "introduced the Classical Revival temple style to the modern world," a style that copies the temples of ancient Greece and Rome. The same history states that the capitol "has inspired countless public buildings for over 200 years."
 
-At Monticello, enslaved craftsmen made the fine woodwork of the rebuilt rooms. One of them was John Hemmings, a joiner, or maker of fine woodwork.
+**Not known:** who Dobie's workmen were, or whether any of them were enslaved. The General Assembly's history names only Dobie.
 <!-- hb-story:end slug="thomas-jefferson-landmarks" -->
 <!-- hb-time:end id="1750-1800" -->

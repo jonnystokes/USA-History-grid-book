@@ -14,13 +14,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
 
 Radium, lead, mercury, arsenic and uranium poisoned many of the Americans who worked with them in the first half of the 1900s. Young women who painted watch dials swallowed radium because their supervisors told them to shape their brushes with their lips, and many of them died of radium poisoning. At least 15 workers died of lead poisoning in the 1920s at the plants that made a lead additive for gasoline.
 
 Arsenic from a copper smelter in Montana killed farm animals. From 1941 Navajo and other Native miners dug uranium, and Navajo miners later reported that no one had told them of its dangers.
 
-At the same time, scientists began making new elements, substances of only one kind of atom, with a machine at Berkeley, California. The first, in 1937, came from material out of that machine. By the end of 1949, teams working in the United States had made or found seven more: astatine, neptunium, plutonium, curium, americium, promethium and berkelium.
+At the same time, scientists began making new elements, substances of only one kind of atom, with a machine at Berkeley, California. The first, in 1937, was identified in Italy, in material that had come out of that machine. By the end of 1949, teams working in the United States had made or found seven more: astatine, neptunium, plutonium, curium, americium, promethium and berkelium.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The gas well that put out the fire" -->
@@ -56,7 +56,7 @@ Arthur Roeder, who had been the company's treasurer, in charge of its money, rep
 
 **The method had a name: "lip, dip, paint."**
 
-Young women at the U.S. Radium Corporation plant in Orange, New Jersey, painted watch numbers with radium paint from 1917. To shape each brush to a fine tip, they drew it between their lips. This was called lip-pointing. Each time a painter lip-pointed, she swallowed a little radium. The women went home glowing, and some people called them ghost girls.
+Young women at the U.S. Radium Corporation plant in Orange, New Jersey, painted watch numbers with radium paint from 1917. To shape each brush to a fine tip, a painter drew it between her lips, then dipped it in the paint and painted: lip, dip, paint. Drawing the brush through the lips was called lip-pointing. Each time a painter lip-pointed, she swallowed a little radium. The women went home glowing, and some people called them ghost girls.
 
 **Who told them to.** Their supervisors told them to lip-point and said the paint was safe. Von Sochocky, one of the company's founders, grew worried about lip-pointing and told the painters to stop, but the supervisors contradicted him, according to Northern Public Radio. Arthur Roeder was the company's president from January 1921, and he still signed papers for the company in 1926. Lip-pointing there went on until after 1926. No surviving record names the New Jersey supervisors.
 
@@ -64,29 +64,29 @@ Young women at the U.S. Radium Corporation plant in Orange, New Jersey, painted 
 
 The jawbone died and broke down, which doctors call necrosis of the jaw, and some women got bone cancer. A history published by the National Institute of Standards and Technology states that the radiation "had eaten away their bones from the inside out." Some women's spines collapsed, and they had to wear braces. Their jawbones shattered under light pressure. When doctors examined dial painters' bodies after death, they found 99 percent of the radioactivity in the skeleton.
 
-**The first deaths.** Grace Fryer began painting dials at the Orange plant on April 10, 1917, and worked there until 1920. Amelia Maggia, called Mollie, painted dials at the company until she died in 1922. In 1924 a dentist, Theodor Blum, found damage to Grace Fryer's jawbone of a kind he had never seen.
+**The first deaths.** Grace Fryer began painting dials at the Orange plant on April 10, 1917, and worked there until 1920. Another painter there, Amelia Maggia, called Mollie, painted dials at the company until she died in 1922. In 1924 a dentist found damage to Grace Fryer's jawbone of a kind he had never seen.
 
-Edwin Leman, a chemist at the company, died of aplastic anemia on June 5, 1925, and Sarah Maillefer, a dial painter, died on June 18. Harrison Martland, the medical examiner of Essex County, New Jersey, the doctor who looks into sudden and suspicious deaths there, examined Leman's body. Martland gave the jaw disease the name "radium jaw."
+In June 1925 a chemist at the company died of aplastic anemia, and a dial painter died 13 days later. The medical examiner of Essex County, New Jersey, the doctor who looks into sudden and suspicious deaths there, examined the chemist's body. He gave the jaw disease the name "radium jaw."
 
-**The lawsuit.** The lawyer Raymond Berry sued the company in May 1927 for five women: Grace Fryer, Katherine Schaub, Quinta Maggia Macdonald, Albina Maggia Larice and Edna Hussman. Mollie Maggia's body was dug up on October 25, 1927. It held 48.4 micrograms of radium, millionths of a gram, which is 500 times the amount later set as the limit for a human body.
+**The lawsuit.** Grace Fryer and four other dial painters sued the company in May 1927. Their lawyer was Raymond Berry. Mollie Maggia's body was dug up on October 25, 1927. It held 48.4 micrograms of radium, millionths of a gram, which is 500 times the amount later set as the limit for a human body.
 
 Company officials first offered each woman $10,000, with her medical and legal costs taken out of it. The women refused. In June 1928 they accepted $10,000 each, their medical bills and a pension of $600 a year, money paid every year for the rest of their lives. A committee of three doctors had to approve the bills. Some accounts give the amount each woman got as $15,000.
 
-A federal judge, William Clark, arranged the deal on June 4, and the agreement was signed on June 8. The company's officials admitted no blame, and Berry took 10 percent. Von Sochocky, one of the two doctors who founded the company, died of radium poisoning on November 14, 1928. Grace Fryer died in 1933.
+A federal judge arranged the deal on June 4, and the agreement was signed on June 8. The company's officials admitted no blame, and Berry took 10 percent. Von Sochocky, one of the two doctors who founded the company, died of radium poisoning on November 14, 1928. Grace Fryer died in 1933.
 
 **Ottawa, Illinois.** The Radium Dial Company advertised for painters in Ottawa in September 1922. The advertisement named a Miss Murray as the person young women should apply to. Catherine Wolfe, who later married and took the name Donohue, described how Miss Murray taught them to point the brushes between their teeth. Supervisors at Radium Dial told the women the paint was safe, and even healthy, and kept them lip-pointing.
 
-Radium Dial's managers hired doctors to examine the painters from 1925. The doctors told one painter, Peg Looney, that she was very healthy. Nobody told her that she had tested positive for radiation, her niece said later.
+Radium Dial's managers hired doctors to examine the painters from 1925. The doctors told one painter that she was very healthy. Nobody told her that she had tested positive for radiation, her niece said later.
 
 Catherine Wolfe Donohue painted dials there and began to feel sick in 1925. Radium Dial's managers fired her in 1931. In her own words, "my limping was causing much talk." She lost half her body weight, and parts of her jaw fell out.
 
 Joseph Kelly lost his post as Radium Dial's president in 1934. He opened a new dial company, Luminous Processes, a few blocks away and hired many of the same workers. That plant ran until 1976, when officials of the Nuclear Regulatory Commission, a federal agency, found radiation there 1,666 times the allowed level.
 
-**The hearing.** The lawyer Leonard J. Grossman took Catherine Donohue's case for no pay, before the Illinois Industrial Commission, a state board that decided claims by workers hurt on the job. At a hearing on February 10, 1938, she brought a box of pieces of bone that she said had come from her jaw. When the judge asked her doctor about her chances of living, she collapsed, and several men carried her from the room. She weighed 71 pounds.
+**The hearing.** A lawyer took Catherine Donohue's case for no pay, before the Illinois Industrial Commission, a state board that decided claims by workers hurt on the job. At a hearing on February 10, 1938, she brought a box of pieces of bone that she said had come from her jaw. When the judge asked her doctor about her chances of living, she collapsed, and several men carried her from the room. She weighed 71 pounds.
 
 The hearing moved to her home. On April 5, 1938, the hearing officer ruled that her work at Radium Dial had made her sick and awarded her $5,661, which included a pension of $277 a year for life. On July 6 the members of the commission threw out the company's appeal and added $730.
 
-Catherine Donohue died on July 27, 1938, at the age of 35. According to NPR Illinois, she weighed less than 60 pounds. Grossman said hers was the eleventh death among women who had done that work at the plant, and Northern Public Radio later counted fifteen Ottawa workers dead of radium. Radium Dial's lawyers appealed all the way to the United States Supreme Court and lost, and the case ended in October 1938. Because Radium Dial had left Illinois, the Ottawa women together collected only $10,000.
+Catherine Donohue died on July 27, 1938, at the age of 35. According to NPR Illinois, she weighed less than 60 pounds. Her lawyer said hers was the eleventh death among women who had done that work at the plant, and Northern Public Radio later counted fifteen Ottawa workers dead of radium. Radium Dial's lawyers appealed all the way to the United States Supreme Court and lost, and the case ended in October 1938. Because Radium Dial had left Illinois, the Ottawa women together collected only $10,000.
 <!-- hb-story:end slug="radium-girls-elements" -->
 
 <!-- hb-zoom level="span" label="Radium sold as medicine" -->
@@ -104,7 +104,7 @@ Byers gave testimony to the Federal Trade Commission, the federal office whose o
 <!-- hb-zoom level="span" label="Lead in gasoline and paint" -->
 Lead is a soft, heavy metal and an element, and it poisons people who swallow it or breathe it in. Scientists at the National Institute for Occupational Safety and Health (NIOSH), the federal office that studies dangers at work, list what large doses of lead do. Their list includes paralysis (being unable to move part of the body), madness, gout (painful, swollen joints), colic (sharp pains in the belly) and death.
 
-**The additive.** Thomas Midgley Jr., a researcher at General Motors (GM), found a way to stop engine "knock," a pinging sound in a gasoline engine. He added tetraethyl lead, a liquid made of lead joined with other chemicals, to the gasoline. Charles Kettering ran GM's research. In August 1924, GM and Standard Oil of New Jersey formed the Ethyl Gasoline Corporation to sell tetraethyl lead, and the DuPont company made it.
+**The additive.** Thomas Midgley Jr., a researcher at General Motors (GM), found that tetraethyl lead, a liquid made of lead joined with other chemicals, stopped engine "knock," a pinging sound in gasoline engines. In August 1924 GM and Standard Oil of New Jersey set up the Ethyl Gasoline Corporation to sell it, and the DuPont company made it.
 
 **The dead.** Workers who made tetraethyl lead died of lead poisoning at three plants. Standard Oil ran one, the Bayway refinery in Elizabeth, New Jersey, a plant that turned oil into gasoline and other products. Seven men died there in October 1924, and 33 went to the hospital, according to Bill Kovarik, who counted the dead in a 2005 article in a journal about workers' health.
 
@@ -119,7 +119,7 @@ At Bayway, poisoned men had to be held down and tied into straitjackets, coats t
 
 **What the bosses said.** Frank Mann, the Bayway plant supervisor in 1924, said, "These men probably went insane because they worked too hard." A month before the deaths, in September 1924, engineers from DuPont had visited Bayway and called its safety measures "grossly inadequate."
 
-Joseph G. Leslie, a Bayway worker poisoned there, was kept in a mental hospital for 40 years. Only his wife, Gertrude, and later his son knew he was alive, and everyone else believed he had died. Kovarik does not say who sent Leslie to the hospital or who spread the story that he was dead. He names no manager of the Deepwater plant or the Dayton laboratory apart from Midgley and Kettering.
+Joseph G. Leslie, a Bayway worker poisoned there, was kept in a mental hospital for 40 years. Only his wife, Gertrude, and later his son knew he was alive, and everyone else believed he had died. Kovarik does not say who sent Leslie to the hospital or who spread the story that he was dead. He names no manager of the Deepwater plant or the Dayton laboratory apart from Midgley and Charles Kettering, who ran GM's research.
 
 Midgley held a press conference on October 30, 1924. He poured tetraethyl lead on his hands and breathed its vapor for about 60 seconds, to show it was safe. A few months earlier, lead had made him seriously ill. At the same event he acknowledged the two deaths in Dayton and said more than 50 workers were "under observation" for lead poisoning.
 
@@ -151,9 +151,11 @@ Connecticut Governor Robert A. Hurley announced his state's ban on December 1, 1
 <!-- hb-zoom level="span" label="Arsenic smoke in Montana" -->
 Arsenic is an element and a strong poison. The Anaconda Copper Mining Company started its Washoe smelter, a plant where workers melt ore, rock that holds metal, to get the metal out, at Anaconda, Montana, in 1902. It stood about 25 miles from the copper mines of Butte. When workers melted copper ore there, arsenic went up the smokestack with the smoke, and farmers nearby reported livestock dying in the smelter's first year.
 
-Farmers in the Deer Lodge Valley formed an association in 1904 to sue the company. Fred J. Bliss, whose 320-acre farm lay about five miles from the smelter, filed the case, *Bliss v. Anaconda Copper Mining Co.*, in 1905. In 1909 the judges of a federal appeals court found that arsenic had poisoned the farmers' livestock and crops, but they refused to close the smelter.
+Farmers in the Deer Lodge Valley formed an association in 1904 to sue the company. Fred J. Bliss, whose 320-acre farm lay about five miles from the smelter, filed the case, *Bliss v. Anaconda Copper Mining Co.*, in 1905. In January 1909 a federal judge, William Hunt, agreed that arsenic from the smelter had poisoned livestock and the hay and grass they ate, but he refused to close the smelter.
 
-**Buying the smoke rights.** The company's officers then bought out many of the farmers. From the rest they bought "smoke easements," legal rights to send the company's smoke over a farm. Staff of the Environmental Protection Agency (EPA), the federal office whose staff work to protect the country's air, water and land, wrote a history of the site. Neither that history nor the 1909 court ruling names the officers who ran the smelter or chose the buyouts, and neither counts the people harmed by the arsenic.
+**The judge's reason.** Closing the smelter, Hunt wrote, would throw thousands of the company's workers out of their jobs and do harm that could never be undone to the cities of Anaconda and Butte. Bliss could ask a court for money for his losses instead. The smelter's superintendent, a Mr. Mathewson, told the court that no known way of catching the arsenic would work at a smelter that size, and in April 1909 Hunt dismissed the case.
+
+**Buying the smoke rights.** The company's officers then bought out many of the farmers. From the rest they bought "smoke easements," legal rights to send the company's smoke over a farm. Staff of the Environmental Protection Agency (EPA), the federal office whose staff work to protect the country's air, water and land, wrote a history of the site. Neither that history nor the 1909 rulings name the officers who chose the buyouts, and neither counts the people harmed by the arsenic.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Uranium from Navajo land" -->
@@ -180,7 +182,7 @@ Scientists at other labs tried his method and could not get the same results. Th
 
 **Lawrence's first cyclotron was small enough to hold in one hand.**
 
-Ernest O. Lawrence built it at Berkeley in 1930 and 1931 out of glass, sealing wax and bronze. He and his teams then built larger and larger ones, and the 60-inch cyclotron of 1939 had a magnet that weighed 220 tons. The Radiation Laboratory at Berkeley became an independent laboratory in 1936. Lawrence won the Nobel Prize in Physics, a world prize given each year, in 1939.
+Lawrence made his first cyclotron out of glass, sealing wax and bronze, and it was small enough to hold in one hand. He and his teams then built larger and larger ones, and the 60-inch cyclotron of 1939 had a magnet that weighed 220 tons. The Radiation Laboratory at Berkeley became an independent laboratory in 1936. Lawrence won the Nobel Prize in Physics, a world prize given each year, in 1939.
 
 His machines made the material for several new elements. His 37-inch cyclotron supplied the metal sheet that held the first element made by people, and teams used his 60-inch cyclotron to make astatine and plutonium in 1940. Lawrence died in 1958. Element 103, lawrencium, carries his name.
 <!-- hb-story:end slug="ernest-lawrence-elements" -->
@@ -190,21 +192,25 @@ Mendeleev's periodic table of 1869, the chart of the elements in order, had a ga
 
 **The first element made by people.** Segrè and Carlo Perrier, a scientist who studies minerals, took a few billionths of a gram of element 43 out of the sheet. They named it technetium, from a Greek word meaning "artificial." Technetium was the first element made by people. Italian scientists did the chemistry, and the material came from an American machine.
 
-**The first elements found in America.** Dale R. Corson, Kenneth R. MacKenzie and Segrè made element 85 at Berkeley in 1940 by striking the element bismuth with alpha particles in the 60-inch cyclotron. It was the element Allison had called "alabamine." In 1947 its makers named it astatine, from a Greek word for "unstable."
+**The first elements found in America.** Teams in American labs made or found seven new elements in the 1940s. Most of their names came from planets, places and people.
 
-Edwin McMillan and Philip Abelson found element 93 the same year, in uranium that had been struck in the cyclotron. It was the first element heavier than uranium. Uranium was named for the planet Uranus, so they named element 93 neptunium, for Neptune, the next planet out.
+Segrè and two other Berkeley scientists made element 85 in 1940 by striking the element bismuth with alpha particles in the 60-inch cyclotron. It was the element Allison had called "alabamine." In 1947 its makers named it astatine, from a Greek word for "unstable."
 
-**Plutonium.** Glenn Seaborg, McMillan, Joseph W. Kennedy and Arthur C. Wahl made element 94 in the 60-inch cyclotron on December 14, 1940. On the night of February 23 and 24, 1941, they proved by chemistry that it was a new element, in Room 307 of Gilman Hall at Berkeley. The room is now a National Historic Landmark.
+Edwin McMillan and a colleague found element 93 the same year, in uranium that had been struck in the cyclotron. It was the first element heavier than uranium. Uranium was named for the planet Uranus, so they named element 93 neptunium, for Neptune, the next planet out.
+
+**Plutonium.** Glenn Seaborg's team made element 94 in the 60-inch cyclotron on December 14, 1940. On the night of February 23 and 24, 1941, they proved by chemistry that it was a new element, in Room 307 of Gilman Hall at Berkeley. The room is now a National Historic Landmark.
 
 They named the element plutonium, for the planet Pluto. Seaborg chose the symbol Pu instead of "Pl" as a joke, because "pee-yoo" is what people say about a bad smell, and the members of the naming committee accepted it. Government officials kept the work secret from the start. During World War II, American scientists used plutonium and uranium to build atomic bombs.
 
-Seaborg's group made element 96 in the summer of 1944, with Albert Ghiorso on the team, and named it curium, for Marie and Pierre Curie. Element 95 came next, in 1944 and 1945, and was named americium, for the Americas. Much of this work took place at the Metallurgical Laboratory, a secret wartime lab in Chicago.
+**96 before 95.** Seaborg's team made element 96 in the summer of 1944 and named it curium, for Marie and Pierre Curie. They identified element 95 late that year and named it americium, for the Americas.
+
+An element's number counts the protons in its atoms, not the order in which it was found. These two were so hard to separate from each other that the team nicknamed them "pandemonium" and "delirium," words for wild uproar and madness. Much of this work took place at the Metallurgical Laboratory, a secret wartime lab in Chicago.
 
 **Told on a quiz show.** Seaborg was a guest on a children's radio show called *Quiz Kids* on November 11, 1945. A boy asked him whether any new elements had turned up during the war. Seaborg said yes, elements 95 and 96. He told the boy five days before he planned to announce them to the American Chemical Society, a national group of chemists.
 
-Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell found element 61 in 1945 at Clinton Laboratories in Oak Ridge, Tennessee, now Oak Ridge National Laboratory, in the leftovers of uranium atoms that had been split. Grace Mary Coryell, Charles Coryell's wife, suggested the name promethium, for Prometheus, who stole fire from the gods in Greek stories. The team announced the element in 1947. Promethium is still the only element ever discovered in Tennessee.
+Charles D. Coryell and two other chemists found element 61 in 1945 at Clinton Laboratories in Oak Ridge, Tennessee, now Oak Ridge National Laboratory, in the leftovers of uranium atoms that had been split. Grace Mary Coryell, Charles Coryell's wife, suggested the name promethium, for Prometheus, who stole fire from the gods in Greek stories. The team announced the element in 1947. Promethium is still the only element ever discovered in Tennessee.
 
-Stanley G. Thompson, Ghiorso and Seaborg made element 97 at Berkeley in December 1949 by striking americium with alpha particles in the 60-inch cyclotron. They named it berkelium, for Berkeley.
+Seaborg's team made element 97 at Berkeley in December 1949 by striking americium with alpha particles in the 60-inch cyclotron. They named it berkelium, for Berkeley.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="emilio-segre-elements" name="Emilio Segrè" movie="" kind="famous" status="verified" -->
@@ -217,7 +223,7 @@ Stanley G. Thompson, Ghiorso and Seaborg made element 97 at Berkeley in December
 
 Emilio Segrè was Jewish, and he was in Berkeley for the summer when he learned the news. Benito Mussolini and his officials in Italy had issued new racial laws against Jews. Under them, Italian officials took university jobs away from Jews. Segrè stayed in the United States and became an American citizen.
 
-He had already helped find one element. In Palermo in 1937, he and Carlo Perrier identified technetium, the first element made by people, in the metal sheet Ernest Lawrence had mailed them. At Berkeley, Segrè helped make astatine in 1940. With Glenn Seaborg, he showed in 1941 that atoms of plutonium-239 could be split.
+He had already helped identify technetium in Palermo. At Berkeley, Segrè helped make astatine in 1940, and with Glenn Seaborg he showed in 1941 that atoms of plutonium-239 could be split.
 
 He won the Nobel Prize in Physics in 1959 for his work on the antiproton, a tiny particle with the opposite electric charge of the proton, a particle in the center of every atom.
 <!-- hb-story:end slug="emilio-segre-elements" -->
@@ -276,15 +282,13 @@ The team named element 101 mendelevium, for Dmitri Mendeleev, the Russian who ma
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The fight over elements 102 to 106" -->
-Scientists in three countries worked on element 102. A team in Stockholm, Sweden, claimed it in 1957 and named it nobelium, for Alfred Nobel, then took back its claim. Berkeley scientists claimed the element in 1958, and scientists at Dubna did experiments on it in 1966.
+Berkeley and Dubna each claimed to have made elements 102 through 106 first. Each side gave the elements its own names and argued for them in science journals for decades. In 1992 and 1993 a panel of chemists and physicists called the Transfermium Working Group, named for the elements after fermium, element 100, split the credit between the two labs, and the names were settled in 1997.
 
-**Who decided.** The International Union of Pure and Applied Chemistry (IUPAC) is the world organization of chemists whose officials approve element names. A joint panel of chemists and physicists called the Transfermium Working Group, named for the elements after fermium, element 100, studied who had found what and reported in 1992 and 1993. The panel's members credited Dubna with element 102. IUPAC's officials kept the Swedish name nobelium anyway, because scientists had used it for more than 30 years.
+**Element 102.** Scientists in three countries worked on element 102. A team in Stockholm, Sweden, claimed it in 1957 and named it nobelium, for Alfred Nobel, then took back its claim. Berkeley scientists claimed the element in 1958, and scientists at Dubna did experiments on it in 1966. The panel's members credited Dubna. The International Union of Pure and Applied Chemistry (IUPAC), the world organization of chemists whose officials approve element names, kept the Swedish name nobelium anyway, because scientists had used it for more than 30 years.
 
-Ghiorso and three other Berkeley scientists made element 103 in 1961. Dubna scientists did important work on it from 1965 to 1967, and the Working Group's members split the credit between the two labs. The element kept the name lawrencium, for Ernest Lawrence.
+The panel's members split the credit for elements 103, 104 and 105 between Berkeley and Dubna. They credited Berkeley alone with element 106. Element 103 kept the name lawrencium, for Ernest Lawrence.
 
-Dubna scientists claimed element 104 in 1964, and Berkeley scientists claimed it in 1969. For element 105, the Dubna claim came in 1968 and the Berkeley claim in 1970. Each side gave the elements its own names and argued for them in science journals for decades. The Working Group's members split the credit for both. They credited Berkeley alone with element 106, made there in 1974.
-
-**Seaborgium.** IUPAC's officials proposed a rule in 1994 against naming elements for living people. Under that rule, they could not have approved the Berkeley name for element 106, seaborgium. In 1997 they approved the final names: rutherfordium for element 104, after the scientist Ernest Rutherford, dubnium for element 105, after the town of Dubna, and seaborgium for element 106.
+**Seaborgium.** IUPAC's officials proposed a rule in 1994 against naming elements for living people. Under that rule, they could not have approved the Berkeley name for element 106, seaborgium. In 1997 they set the proposal aside and approved the final names: rutherfordium for element 104, after the scientist Ernest Rutherford, dubnium for element 105, after the town of Dubna, and seaborgium for element 106.
 
 Glenn Seaborg was the first person to see an element named for him while he was alive. He kept a periodic table with seaborgium on it until he died in 1999.
 <!-- /hb-zoom -->
@@ -301,7 +305,7 @@ Albert Ghiorso helped discover americium through seaborgium, numbers 95 to 106, 
 
 Ghiorso built the tools the element hunters needed, among them the detectors. He worked out the method of catching new atoms on a foil, which his team used to find mendelevium in 1955. And he ran the HILAC, a machine at Berkeley that sped up particles to make new elements.
 
-His colleagues told stories about him. In one, he wired the mendelevium counter to a fire alarm. In another, he drove fresh, radioactive samples across the lab in a Volkswagen car.
+One story his colleagues told about him has him driving fresh, radioactive samples across the lab in a Volkswagen car.
 <!-- hb-story:end slug="albert-ghiorso" -->
 
 <!-- hb-story:start slug="darleane-hoffman-elements" name="Darleane Hoffman" movie="" kind="famous" status="verified" -->
@@ -338,7 +342,7 @@ Navajo miners report that no one told them about the dangers of uranium mining. 
 
 **A warning turned down.** Members of a federal panel, the Advisory Committee on Human Radiation Experiments, traced who made these choices in their 1995 report. In 1948 Merril Eisenbud, a safety expert in the AEC's New York office, urged AEC officials to write safety rules into the agency's contracts to buy ore. Officials of two AEC divisions, Biology and Medicine and Raw Materials, rejected his advice. They said that under the law the AEC had no power over safety in the mines.
 
-**The study that did not warn them.** Public Health Service workers led by Duncan Holaday and Victor Archer followed the miners from 1950 to measure their cancer risk. The researchers tracked 3,415 miners, and 779 of them were Native American. Brugge and Goble found that the researchers did not tell the miners about the risks they were studying.
+**The study that did not warn them.** Public Health Service workers led by Duncan Holaday and Victor Archer followed the miners from 1950 to measure their cancer risk. Accounts give the study group two sizes. Linda M. Richards, writing in 2013 for *Distillations*, the magazine of the Science History Institute, counts 3,415 miners, 779 of them Native American. The 1995 federal committee counted about 4,100. Brugge and Goble found that the researchers did not tell the miners about the risks they were studying.
 
 At first the researchers left the minority miners out of the results, saying they wanted "a homogeneous population," a group of people who are all alike. Duncan Holaday later testified in court that the researchers made a spoken agreement with the mine owners not to tell the miners what they found. They made that deal so the owners would let them into the mines.
 
@@ -350,9 +354,11 @@ Warren then asked that Hueper be fired. Hueper kept his job, but Victor Archer l
 
 Public Health Service officials urged the mining companies to ventilate. Some large mines got ventilation in the 1950s and 1960s, but most small mines got none until the 1960s or later. Secretary of Labor Willard Wirtz set the first federal radon limit for these mines in 1967. The committee's members found that the mine owners, the state governments and the federal government all had a duty to ventilate the mines after 1951.
 
-**In court.** A federal judge found in 1984, in a case called *Begay v. United States*, that Public Health Service officials, working under the Surgeon General, decided not to warn the miners because they feared many would quit. The judge still ruled that the miners could not sue the United States government. In the ruling, the judge wrote that the miners' situation "cries for redress," meaning it called out to be put right, and called it a "tragedy of the nuclear age."
+**In court.** A federal judge found in 1984, in a case called *Begay v. United States*, that Public Health Service officials, working under the Surgeon General, decided not to warn the miners because they feared many would quit. The judge still ruled that the miners could not sue the United States government. The law that lets people sue the government for harm does not cover choices that officials make as a matter of policy, and the judge found that the choice not to warn the miners was one of those.
 
-A study from 2000, cited by Brugge and Goble, found 94 deaths from lung cancer among Navajo people from 1969 to 1993, and 63 of them had been uranium miners. Linda M. Richards, writing in 2013 for *Distillations*, the magazine of the Science History Institute, reported that by the early 1980s "hundreds of Indian miners had died from lung diseases and cancers."
+In the ruling, the judge wrote that the miners' situation "cries for redress," meaning it called out to be put right, and called it a "tragedy of the nuclear age." Appeals judges upheld the ruling in 1985.
+
+A study from 2000, cited by Brugge and Goble, found 94 deaths from lung cancer among Navajo people from 1969 to 1993, and 63 of them had been uranium miners. Richards reported that by the early 1980s "hundreds of Indian miners had died from lung diseases and cancers."
 
 **Known:** The 1995 federal committee found that 410 of the 4,100 miners in the Public Health Service study had died of lung cancer by 1990, more than five times the 75 deaths expected.
 **Not known:** How many Navajo miners died in all, since none of these accounts gives a full count.
@@ -385,9 +391,9 @@ Thousands of American children went to the hospital each year in the 1960s with 
 
 Lead harms a child's growing brain. It lowers intelligence and causes trouble with reading, paying attention and behavior, and the 2007 review states that no safe level of lead is known. The review names the main ones to blame: the paint and pigment industry, the oil industry and a few scientists paid by industry.
 
-**The proof.** Clair Patterson, a Caltech scientist who studied the chemistry of rocks and the Earth, measured lead in the air at about 1,000 times its natural level. In a 1965 paper he called Kehoe's "safe level" idea "an ill-defined opinion unsupported by any evidence."
+**The proof.** Clair Patterson, a Caltech scientist who studied the chemistry of rocks and the Earth, measured lead in the air at about 1,000 times its natural level. In a 1965 paper he called the "safe level" idea of Robert Kehoe, the scientist the Ethyl company had paid to study lead, "an ill-defined opinion unsupported by any evidence."
 
-Herbert Needleman, a children's doctor in Pittsburgh, measured the lead in the baby teeth of about 2,500 schoolchildren in the 1970s. Children with more lead in their teeth did worse in school. Scientists paid by the lead industry challenged his work, and later reviews backed his findings, according to Kovarik.
+Herbert Needleman, a children's doctor in Pittsburgh, measured the lead in the baby teeth of about 2,500 schoolchildren in the 1970s. Children with more lead in their teeth did worse in school. Scientists paid by the lead industry challenged his work, and later reviews backed his findings, according to Bill Kovarik, who wrote the 2005 article about the tetraethyl lead deaths.
 
 **The bans.** Members of Congress passed the Lead-Based Paint Poisoning Prevention Act in 1971. Under it, homes built or repaired with federal money could have only limited amounts of lead paint, and in 1972 the limit was set at 0.5 percent of the paint. Officials of the U.S. Consumer Product Safety Commission banned lead paint in all homes in 1978, and from then on house paint could hold no more than 0.06 percent lead. Homes built before 1978 are still likely to have some lead paint.
 
@@ -397,7 +403,7 @@ EPA officials began work on a rule to cut the lead in gasoline in 1972 and 1973.
 <!-- hb-zoom level="span" label="Poisoned ground put on the cleanup list" -->
 EPA officials put both the Anaconda smelter site in Montana and the Church Rock mill on the National Priorities List in 1983. The list includes the country's most dangerous waste sites, chosen for cleanup under the federal Superfund program.
 
-Smelting at Anaconda had stopped in 1980. EPA staff count nearly 100 years of smelting at the whole site, which left arsenic, cadmium, copper, lead and zinc over more than 200 square miles. EPA staff list Atlantic Richfield as the company responsible for the cleanup.
+Smelting at Anaconda had stopped in 1980. EPA staff count nearly 100 years of smelting at the whole site, which left arsenic, cadmium, copper, lead and zinc over more than 200 square miles. EPA staff list Atlantic Richfield, the company that bought the smelter in 1977, as responsible for the cleanup.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
@@ -468,9 +474,9 @@ Begay's family hogan, a traditional Navajo house, gave off radiation up to 100 t
 
 **The Navajo ban.** Members of the Navajo Nation Council passed the Diné Natural Resources Protection Act in 2005. Under it, uranium mining is banned on Navajo land.
 
-**How many mines.** The counts of old mines differ. EPA staff count 523 abandoned uranium mines on the Navajo Nation as of June 2026. They have money to study and clean up 230 of them, and they list 46 as priority mines. Richards counted at least 1,032 abandoned mine sites on Navajo land in 2013, and 38 water sources with more radioactive elements than health limits allow.
+**How many mines.** EPA staff count 523 abandoned uranium mines on the Navajo Nation as of June 2026. They have money to study and clean up 230 of them, fewer than half, and they list 46 as priority mines. Richards, counting abandoned mine sites rather than mines, found at least 1,032 on Navajo land in 2013, and 38 water sources with more radioactive elements than health limits allow.
 
-EPA officials had reached agreements and settlements over the mines worth more than $1.7 billion by June 2026. A settlement is an agreement to pay money to end a legal fight. One was made in 2015 with the Tronox company in bankruptcy court, the court that handles a company that cannot pay its debts. An EPA page updated in September 2026 states that EPA officials have added the Lukachukai Mountains Mining District to the Superfund list.
+EPA officials had reached agreements and settlements over the mines worth more than $1.7 billion by June 2026. A settlement is an agreement to pay money to end a legal fight.
 
 About 3,975 uranium workers had applied for payments under the Radiation Exposure Compensation Act by March 2001, according to Brugge and Goble. The law ran out for a time. Members of Congress renewed it as part of the One Big Beautiful Bill Act, which became law on July 4, 2025. According to the Department of Justice in September 2026, workers must file claims by December 31, 2027, and a uranium worker who qualifies receives $100,000, paid once.
 <!-- /hb-zoom -->
@@ -499,13 +505,11 @@ Hanna-Attisha and her colleagues at Hurley Medical Center told pregnant women an
 **Known:** State health officials counted 10 dead in one report and 12 in another.
 **Disputed:** The official count, because reporters for the PBS program *Frontline* found more deaths from pneumonia that it missed.
 
-**The charges.** Michigan Attorney General Bill Schuette, the state's top lawyer, charged Busch, Prysby and Mike Glasgow of Flint with crimes in April 2016, according to news reports. In December 2016 he charged Earley and the emergency manager who followed him, Gerald Ambrose, along with others. In June 2017 he charged the state health director, Nick Lyon, with involuntary manslaughter, causing a person's death through carelessness without meaning to kill. He also charged the state's chief medical executive, Eden Wells.
+**The charges.** None of the officials charged over Flint's water was convicted of a felony, one of the most serious kinds of crime. Michigan's attorney general, the state's top lawyer, charged 15 officials in 2016 and 2017, Busch, Prysby and Earley among them. Seven of them took plea deals for lesser crimes called misdemeanors. In June 2019 the prosecutors who had taken over the cases dropped the charges against the other eight, saying the cases were only partly built.
 
-Two more lawyers for the people of Michigan brought new charges in January 2021. They were Solicitor General Fadwa Hammoud, a top lawyer in the Michigan attorney general's office, and Kym Worthy, the lawyer who brings criminal cases for Wayne County.
+The same prosecutors charged Governor Snyder and eight other officials in January 2021, Earley among them. Snyder faced two counts of willful neglect of duty, knowingly failing to do his job. The state's health director and its chief medical executive each faced nine counts of involuntary manslaughter, causing a person's death through carelessness without meaning to kill.
 
-Snyder faced two counts of willful neglect of duty, knowingly failing to do his job. Lyon and Wells each faced nine counts of involuntary manslaughter. Earley faced three counts and Ambrose four counts of misconduct in office, breaking the law while doing a government job. Four other officials were charged too.
-
-**How the cases ended.** They had been charged by a one-judge grand jury, a single judge who decides alone whether to charge someone with a crime. The judges of the Michigan Supreme Court ruled in 2022 that this broke the state constitution. The 2021 cases ended on October 31, 2023, with no one found guilty.
+**How the cases ended.** A one-judge grand jury, a single judge who decides alone whether to charge someone with a crime, had brought the 2021 charges. The judges of the Michigan Supreme Court ruled in 2022 that this broke the state constitution. The 2021 cases ended on October 31, 2023, with no one found guilty.
 
 Flint's people sued. U.S. District Judge Judith Levy approved a settlement of $626.25 million on November 10, 2021, for more than 90,000 Flint residents and businesses.
 <!-- /hb-zoom -->
