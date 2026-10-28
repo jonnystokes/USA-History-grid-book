@@ -116,7 +116,7 @@ Native corn kept the first English colonists at Jamestown and Plymouth alive in 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Jamestown: hunger, and corn the English took by force" -->
-The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them, and Powhatan warriors surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. About 500 colonists were alive when it began. By spring, about 61 were still alive.
+The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them, and Powhatan warriors surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. When it began, the colony had about 500 people, and about 240 of them were inside the fort. By spring, about 60 of the people in the fort were still alive.
 
 The colonists ate their horses, dogs and rats, and they ate leather. Some ate the bodies of people who had died. Archaeologists found the bones of a girl whom researchers call Jane. The bones show that colonists ate her body after she died. Scientists at the Smithsonian announced the finding in 2013.
 

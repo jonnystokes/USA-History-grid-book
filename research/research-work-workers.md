@@ -57,6 +57,12 @@ Every fact below was web-checked 2026-08-07 with the source named inline. Journa
 - Encyclopedia Virginia, "General Court Responds to Runaway Servants and Slaves (1640)" (opened 2026-10-02): on July 22, 1640 the court ordered thirty stripes for Christopher Miller (a Dutchman), Peter Wilcocke, Andrew Noxe and Emanuel ("the Negro"). Miller, Wilcocke and Emanuel were each ordered "to be Burnt in the cheek with the letter R." Miller was to work in shackles "one whole year, and longer if said master shall see cause," and Emanuel "one year or more as his master shall see cause." So the cheek is confirmed for all three, and the record's own word is "Burnt." It does not describe the iron or name who did it.
 - Encyclopedia Virginia, "Runaway Servants (1643)" (opened 2026-10-02): a repeat runaway "shall be branded in the cheek with the letter R." The act does not name who was to do the branding.
 
+### PATCH 2026-10-28 (T-766, director fact item): what loblollie was (copied from `research-immigration.md`)
+- Copied from `research/research-immigration.md` (era 03, found by T-461): "**Loblollie (found by T-461), CORRECTION to the prose's "thin porridge":** loblolly is "a thick gruel", a thick porridge, especially one eaten by sailors (Merriam-Webster, Collins, Dictionary.com entries "loblolly", via search summary 2026-10-01)."
+- Opened 2026-10-28: Dictionary.com, "loblolly," https://www.dictionary.com/browse/loblolly : noun, "a thick gruel." The page's British entry (Collins): "nautical a thick gruel". (Merriam-Webster's page sits behind a robot check and was not opened.)
+- The letter's own gloss, opened 2026-10-28: "for since I came out of the ship I never ate anything but peas, and loblollie (that is, water gruel)." Richard Frethorne to his father and mother, March 20, April 2 and 3, 1623, in Susan Kingsbury, ed., *The Records of the Virginia Company of London*, vol. 4 (1935), pages 58 to 62, text at History Matters, https://historymatters.gmu.edu/d/6475.html . The "(water gruel)" in the Frethorne entry at the top of this era is this gloss.
+- Prose (director's ruling, to match Chapter 4's "a thick porridge"): "peas and loblollie, a thick porridge boiled in water." "Boiled in water" rests on the letter's "water gruel".
+
 ## 04 · 1700 to 1750 — the craft ladder, the docks, and the growing enslaved workforce
 
 - **The craft ladder:** apprentice → journeyman (a wage-earner paid by the day) → master with a shop. This was the standard path in printing, shoemaking, carpentry, smithing.

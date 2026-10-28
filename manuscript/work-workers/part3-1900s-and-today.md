@@ -244,12 +244,8 @@ President Roosevelt signed the Fair Labor Standards Act on June 25, 1938, and it
 The justices of the Supreme Court ruled the other way on child labor in 1941. They decided that Congress did have the power to limit child labor, under the 1938 law.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="War work and the braceros" -->
-US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
-
-**The missing pay.** American employers held back 10 percent of every bracero's pay from 1942 to 1946, and many braceros said the holdbacks went on after that. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
-
-**Women in the war plants.** Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
+<!-- hb-zoom level="span" label="Women in the war plants" -->
+Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="naomi-parker-fraley" name="Naomi Parker Fraley" movie="" kind="ordinary" status="verified" -->
@@ -264,6 +260,12 @@ Naomi Parker went to work at the Naval Air Station in Alameda, California, durin
 
 **The photograph and the poster.** People later linked her photograph to a poster of a woman worker with the words "We Can Do It!", which became famous in the 1980s. For decades the woman in the photograph was said to be someone else. Then a scholar named James J. Kimble found the original print, and its caption named Naomi Parker. Nobody has proved that the poster's artist used this photograph.
 <!-- hb-story:end slug="naomi-parker-fraley" -->
+
+<!-- hb-zoom level="span" label="The bracero program, 1942" -->
+US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
+
+**The missing pay.** American employers held back 10 percent of every bracero's pay from 1942 to 1946, and many braceros said the holdbacks went on after that. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
+<!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The strike wave of 1945 and 1946" -->
 When the war ended, workers in steel, coal, railroads and car plants struck in greater numbers than ever before. There were 4,750 strikes involving 3.47 million workers in 1945. The Bureau of Labor Statistics, the federal office that counts jobs and workers, recorded 4,985 strikes involving 4.6 million workers in 1946, and no other year in its records has more.
@@ -368,8 +370,10 @@ Black lung is a disease caused by breathing coal dust, which scars the lungs. In
 
 <!-- hb-zoom level="span" label="Office workers organize" -->
 Two office workers in Boston, Karen Nussbaum and Ellen Cassedy, founded 9to5 in 1973. Its members were women who did clerical work, such as typing, filing and answering phones. They organized over pay, promotion and harassment on the job, treatment meant to upset, shame or frighten a worker. In an early lawsuit, they won $1.5 million in back pay, the pay the women were owed, from publishing companies in Boston.
+<!-- /hb-zoom -->
 
-**At the checkout.** With barcode scanners, cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules. The first sale rung up by scanning a barcode came at a Marsh supermarket in Troy, Ohio, at 8:01 in the morning on June 26, 1974, when the cashier Sharon Buchanan scanned a ten-pack of Juicy Fruit gum.
+<!-- hb-zoom level="span" label="Cashiers and the barcode, 1974" -->
+With barcode scanners, cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules. The first sale rung up by scanning a barcode came at a Marsh supermarket in Troy, Ohio, at 8:01 in the morning on June 26, 1974, when the cashier Sharon Buchanan scanned a ten-pack of Juicy Fruit gum.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The mills close" -->

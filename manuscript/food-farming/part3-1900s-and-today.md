@@ -367,12 +367,12 @@ USDA economists had counted households that did not always have enough food sinc
 President Donald Trump signed the One Big Beautiful Bill Act on July 4, 2025. Under it, federal spending on SNAP, the Supplemental Nutrition Assistance Program once called food stamps, goes down. Economists at the Congressional Budget Office, which works out costs for Congress, figured that the cut will come to $186.7 billion over ten years.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Farmers' markets and the 2020 pandemic" -->
+<!-- hb-zoom level="span" label="Farmers' markets" -->
 Farmers' markets, where farmers sell their own crops straight to shoppers, grew in number. USDA officials counted 1,755 of them in 1994 and 8,771 in 2019, five times as many. The number grew about 7 percent a year until about 2011, and then it stopped growing much.
+<!-- /hb-zoom -->
 
-**The meat plants.** Other food reaches shoppers from people they never see, such as the workers in plants that process meat and poultry, meaning chickens and turkeys. The disease COVID-19 spread through those plants in 2020.
-
-Officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants in April and May 2020, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
+<!-- hb-zoom level="span" label="COVID-19 in the meat plants, 2020" -->
+The disease COVID-19 spread through the plants that process meat and poultry, birds such as chickens and turkeys. Officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants in April and May 2020, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Changed seeds and new kinds of meat" -->

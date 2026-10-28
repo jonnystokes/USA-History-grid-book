@@ -117,7 +117,7 @@ Tsenacomoco ran north from the James River to the Potomac River, and from Chesap
 
 Richard Frethorne reached Martin's Hundred in December 1622 on a ship called the *Abigail*, nine months after the Powhatan attack. He had come as an indentured servant, and he was probably a young teenager.
 
-**His letters.** He wrote to his parents in England in March and April 1623. He begged them to buy out his indenture, or else to send food. Since he left the ship, he wrote, he had eaten nothing but peas and loblollie, a thin porridge boiled in water.
+**His letters.** He wrote to his parents in England in March and April 1623. He begged them to buy out his indenture, or else to send food. Since he left the ship, he wrote, he had eaten nothing but peas and loblollie, a thick porridge boiled in water.
 
 **The muster list.** A muster list made by February 1624, a count of the living and the dead at each settlement, records Frethorne, spelled "Frethram," among the dead at Martin's Hundred.
 <!-- hb-story:end slug="richard-frethorne" -->
