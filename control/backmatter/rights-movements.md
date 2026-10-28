@@ -390,5 +390,5 @@
 ## Questions
 
 - Q: How did people without power get the people in power to listen? A: They signed petitions, printed pamphlets and spoke to crowds, and later they planned test cases, boycotted, marched, sat in and filmed the police, from the Germantown protest of 1688 to Darnella Frazier's video in 2020.
-- Q: What did organizing cost the people who did it? A: Their jobs, their homes and their freedom, and sometimes their bodies and their lives. Lucy Burns was fed by force through a tube, Fannie Lou Hamer was beaten in a Mississippi jail, Medgar Evers was shot in his driveway, and four girls died in a Birmingham church.
+- Q: What did organizing cost the people who did it? A: Their jobs, their homes and their freedom, and sometimes their bodies and their lives. A prison doctor fed Lucy Burns by force through a tube, state highway patrolmen had Fannie Lou Hamer beaten in a Mississippi jail, Byron De La Beckwith shot Medgar Evers in his driveway, and Klansmen killed four girls with a bomb in a Birmingham church.
 - Q: Can a right that has been won be taken away again? A: Yes. New Jersey's lawmakers took the vote from women and free Black men in 1807, members of Congress took Utah women's vote in 1887, and the justices of the Supreme Court cut back the Voting Rights Act in 2013 and 2026 and ended the right to an abortion in 2022.

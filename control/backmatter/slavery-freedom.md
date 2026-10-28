@@ -212,4 +212,4 @@
 ## Questions
 - Q: How did a servant in Virginia become a slave for life, and a child a slave from birth? A: Virginia's judges and lawmakers did it one ruling at a time. Judges sentenced John Punch to serve for life in 1640, and in 1662 lawmakers ruled that a child born to an enslaved mother was enslaved for life.
 - Q: How did enslaved people fight back? A: They worked slowly, ran away, sued, learned to read in secret and rose up with weapons. During the Civil War about half a million freed themselves by reaching the Union army.
-- Q: What happened to the freedom people won in 1865? A: Freed people voted, built schools and sent 16 men to Congress, but within twelve years Black Codes, the Klan and the end of Reconstruction took much of it back, until the laws of 1964 and 1965.
+- Q: What happened to the freedom people won in 1865? A: Freed people voted, built schools and sent 16 men to Congress. But within twelve years Southern lawmakers passed Black Codes, Klansmen whipped and murdered freed people, and federal officials stopped enforcing their rights in the South until members of Congress passed the laws of 1964 and 1965.

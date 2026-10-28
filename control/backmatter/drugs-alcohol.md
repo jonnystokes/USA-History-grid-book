@@ -58,7 +58,7 @@
 - license: a paper from the government that allowed a person to sell liquor (1800 to 1850)
 - ration: a set share handed out each day (1800 to 1850)
 - petition: a paper people sign to ask for something (1800 to 1850)
-- delirium tremens: an illness of heavy drinkers who suddenly stop, in which the body shakes, the mind is confused and the person sees things that are not there; it can kill (1800 to 1850)
+- delirium tremens: an illness of heavy drinkers who suddenly stop, in which the body shakes, the mind is confused and the person sees things that are not there. It can kill (1800 to 1850)
 - morphine: a strong painkilling drug taken out of opium (1800 to 1850)
 - spittoon: a bowl for spitting into (1800 to 1850)
 - cocaine: a drug made from coca leaves (1850 to 1900)
@@ -167,5 +167,5 @@
 ## Questions
 
 - Q: How long have people here used tobacco, and what did they use it for? A: For at least 12,300 years, since the fire at the Wishbone site. Native people offered it in prayer, burning it or smoking it in pipes, and the Algonquian people at Roanoke smoked it to keep the body healthy.
-- Q: What happened when the whole country banned alcohol from 1920 to 1933? A: Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Poisoned factory alcohol killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
+- Q: What happened when the whole country banned alcohol from 1920 to 1933? A: Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Treasury officials had more poison added to factory alcohol, and the poison killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
 - Q: Who has been punished for drugs, and who has not? A: Robert Coles with his red D, the laborer Samuel Caldwell with four years of hard labor, Billie Holiday handcuffed to her hospital bed, and the people sentenced for crack, 91 of every 100 of them Black in 1992, were all punished. Harry Gross never served his jail sentence, and no member of the Sackler family has been charged with a crime.

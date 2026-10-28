@@ -462,7 +462,7 @@ Federal health officials dropped their old advice in January 2026, which had bee
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
 - How long have people here used tobacco, and what did they use it for? For at least 12,300 years, since the fire at the Wishbone site. Native people offered it in prayer, burning it or smoking it in pipes, and the Algonquian people at Roanoke smoked it to keep the body healthy.
-- What happened when the whole country banned alcohol from 1920 to 1933? Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Poisoned factory alcohol killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
+- What happened when the whole country banned alcohol from 1920 to 1933? Drinking fell at first to about 30 percent of what it had been, then rose to about 60 to 70 percent. Treasury officials had more poison added to factory alcohol, and the poison killed thousands of drinkers before delegates in Utah ended the ban on December 5, 1933.
 - Who has been punished for drugs, and who has not? Robert Coles with his red D, the laborer Samuel Caldwell with four years of hard labor, Billie Holiday handcuffed to her hospital bed, and the people sentenced for crack, 91 of every 100 of them Black in 1992, were all punished. Harry Gross never served his jail sentence, and no member of the Sackler family has been charged with a crime.
 
 **What changed:** Tobacco went from an offering in prayer to a habit that kills more than 480,000 Americans a year, and opium, cocaine and liquor went from open sale in the 1800s to bans in the 1900s, with liquor made legal again in 1933.

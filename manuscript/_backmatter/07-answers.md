@@ -118,7 +118,7 @@ Each chapter opens with three questions, and here they are with their answers, c
 
 ## Chapter 20: Government, Law, and Politics
 
-- **Who decided who could vote, and how did the answer change?** Each colony's and then each state's lawmakers decided, and the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Four amendments (1870, 1920, 1964, 1971) and the Voting Rights Act of 1965 took most of that power back from the states.
+- **Who decided who could vote, and how did the answer change?** Each colony's and then each state's lawmakers decided, and the men who wrote the Constitution left it that way. Virginia's burgesses took the vote from free Black men in 1723, New Jersey's lawmakers took it from women in 1807, and Southern delegates took it from Black men again after 1890. Members of Congress took most of that power from the states with four amendments (1870, 1920, 1964, 1971), which state lawmakers approved, and with the Voting Rights Act of 1965.
 - **When did judges first cancel a law, and what have they done with that power since?** In 1803, in *Marbury v. Madison*. The justices have used it to allow forced sterilization, separate railroad cars and the wartime camps, and to strike down school segregation, official prayers, poll taxes and unequal districts.
 - **What happens when people in power break the law?** A jury, a court or the Senate decides. In 1614 royal judges found Juan de Oñate, a former governor of New Mexico, guilty of 12 charges and ordered him out of New Mexico for life. A jury found a cabinet secretary guilty of taking a bribe in 1929, and a judge sentenced him to a year in prison. A president resigned in 1974 rather than face a vote. Bill Clinton and Donald Trump were impeached, Trump twice, and the senators found neither guilty. A jury found a senator guilty of bribery in 2024, and he went to prison.
 
@@ -144,7 +144,7 @@ Each chapter opens with three questions, and here they are with their answers, c
 
 - **How did a servant in Virginia become a slave for life, and a child a slave from birth?** Virginia's judges and lawmakers did it one ruling at a time. Judges sentenced John Punch to serve for life in 1640, and in 1662 lawmakers ruled that a child born to an enslaved mother was enslaved for life.
 - **How did enslaved people fight back?** They worked slowly, ran away, sued, learned to read in secret and rose up with weapons. During the Civil War about half a million freed themselves by reaching the Union army.
-- **What happened to the freedom people won in 1865?** Freed people voted, built schools and sent 16 men to Congress, but within twelve years Black Codes, the Klan and the end of Reconstruction took much of it back, until the laws of 1964 and 1965.
+- **What happened to the freedom people won in 1865?** Freed people voted, built schools and sent 16 men to Congress. But within twelve years Southern lawmakers passed Black Codes, Klansmen whipped and murdered freed people, and federal officials stopped enforcing their rights in the South until members of Congress passed the laws of 1964 and 1965.
 
 ## Chapter 25: Rights and Movements
 
@@ -203,7 +203,7 @@ Each chapter opens with three questions, and here they are with their answers, c
 ## Chapter 34: Storytelling Evolution
 
 - **Who tried to stop Americans from acting, and why?** A Virginia court tried three actors in 1665 on one man's complaint, and the record does not say why he objected. Spanish priests burned Pueblo masks to end the ceremonies. Massachusetts lawmakers banned plays, saying they made people less moral and less religious. The delegates to the Continental Congress promised to discourage plays as wasteful, then asked the states to stop them. Later, police arrested Black actors after a rival white manager, by one account, started a riot to destroy their company. Federal officials made Native dances crimes, and missionaries in Alaska called Yup'ik masked dances "heathen rites." Studio heads blacklisted hundreds of film workers over communism.
-- **Why did white actors play Black, Asian and Native people for so long?** White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. The studio heads' own Code and state laws against marriage between races kept actors of color out of leading parts.
+- **Why did white actors play Black, Asian and Native people for so long?** White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. Because of the studio heads' own Code and state laws against marriage between races, producers kept actors of color out of leading parts.
 - **Who controls a computer copy of an actor's face and voice?** Since the strikes of 2023 and 2024 to 2025, union contracts require a studio or game company to get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.
 
 ## Chapter 35: Styles

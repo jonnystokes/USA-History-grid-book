@@ -153,7 +153,7 @@
 
 ## Places
 
-- Golden Spike National Historical Park, Promontory Summit, Utah: marks where the last track of the first railroad across the country was laid in 1869; working copies of the engines Jupiter and No. 119 run there from May to October
+- Golden Spike National Historical Park, Promontory Summit, Utah: marks where the last track of the first railroad across the country was laid in 1869. Working copies of the engines Jupiter and No. 119 run there from May to October
 - West End Museum, Boston: a history page on Edward Converse's ferry, which it calls the first on that crossing
 - Baltimore and Ohio Railroad Museum: its page on the Tom Thumb describes the 1830 race with a horse as a legend
 - Smithsonian's National Air and Space Museum: the collection whose curator calls the DC-3 the first airliner able to make money just by carrying passengers
@@ -167,5 +167,5 @@
 ## Questions
 
 - Q: How much faster and cheaper did travel get? A: On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon, and on the first railroad across the country a coast-to-coast trip took a week instead of four months. By 1956, loading a ton of cargo onto a ship cost about 16 cents in containers, against about $5.86 by hand.
-- Q: Who built the new routes, and whose land and homes did they take? A: Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. The routes took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
-- Q: How did Black travelers fight the laws that made them sit apart? A: They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
+- Q: Who built the new routes, and whose land and homes did they take? A: Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. Builders and US officials took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
+- Q: How did Black travelers fight the laws that made them sit apart? A: They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After white mobs and Klansmen beat the Freedom Riders in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
