@@ -18,16 +18,20 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **For most of American history, the people who made the music were often not the people who got paid for it.**
 
-Willie Mae "Big Mama" Thornton, a blues singer from Alabama, recorded "Hound Dog" on August 13, 1952. Her record was No. 1 on the rhythm and blues chart for seven weeks. Don Robey, who owned her record company, put his own name on the copyright form as one of the song's writers. Four years later Elvis Presley recorded the same song and sold about 10 million copies. "I got one check for $500 and never saw another," Thornton said. She died poor in a Los Angeles boarding house in 1984.
+Willie Mae "Big Mama" Thornton, a blues singer from Alabama, recorded "Hound Dog" on August 13, 1952, and her record went to No. 1 on the rhythm and blues chart. Don Robey, who owned her record company, put his own name on the copyright form as one of the song's writers. Each writer named on that form has a right to part of the money the song earns.
 
-This chapter follows American music from wooden flutes made in the 600s to songs streamed over the internet. In every era, look first at who made the music: Native singers, enslaved fiddlers, New England singing teachers, blues singers in Mississippi, a teenage DJ in the Bronx. Then look at who was paid. Again and again the money and the credit went to someone else, such as the white minstrel who copied a Black song, the publisher who put his own name on it, or the company that paid a set fee and kept the rest. Watch, too, for the people who tried to stop music, from lawmakers who banned drums to officials who banned Native dances.
+Four years later Elvis Presley recorded the same song and sold about 10 million copies. "I got one check for $500 and never saw another," Thornton said. She died poor in a Los Angeles boarding house in 1984.
+
+This chapter follows American music from wooden flutes made in the 600s to songs streamed over the internet. In every era, look first at who made the music: Native singers, enslaved fiddlers, New England singing teachers, blues singers in Mississippi, a teenage DJ in the Bronx. From the 1770s on, the records show who was paid, so look at that too.
+
+Again and again the money and the credit went to someone else: a white stage performer who copied a Black man's song, a publisher who put his own name on a song, a company that paid a set fee and kept the rest. Watch, too, for the people who tried to stop music, from lawmakers who banned drums to officials who banned Native dances.
 
 **Three questions this chapter answers**
 - Where did the banjo and the blues come from?
 - Why did so many musicians make hit songs and still die poor?
 - Who tried to stop people from playing their own music, and why?
 
-**Five minutes?** Read "What the singers said the songs meant" in 1800 to 1850.
+**Five minutes?** Read "Drums at Stono, and the 1740 law against drums and horns" in 1700 to 1750, then "Records for Black buyers, and who was paid, 1920 to 1938" in 1900 to 1950.
 **Can skip:** "Jenny Lind's tour, 1850 to 1852", "Concerts for a ticket, and a fiddle for a prize", "The Kennedy Center, 2025 and 2026". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -46,7 +50,7 @@ The oldest known wooden flutes in North America were made between the years 620 
 
 **The panpipes.** Farther east, people of the Hopewell culture lived in the woodlands of eastern North America between the years 1 and 400. "Hopewell" is a name archaeologists gave them, not the name of a nation. In southern Ohio they built earthworks, mounds and long banks of piled earth. A Hopewell panpipe is a row of three or four tubes of cane, reed or bone, held together by a metal jacket. A player blows across the tubes, and each tube makes a different note.
 
-Archaeologists have found 105 of these panpipes at 55 sites, from Wisconsin and Ontario down to the Gulf Coast. The metal of 102 jackets is known. Of those, 81 are copper. The others are silver, copper covered with silver, iron, or iron and copper together. Almost all of the panpipes were buried with the dead. Very few came from places where people lived.
+Almost every Hopewell panpipe that archaeologists have found was buried with the dead. They have found 105, from Wisconsin and Ontario down to the Gulf Coast, and very few came from places where people lived. Most of the metal jackets are copper. The rest are silver, copper covered with silver, or iron.
 
 **Not known:** Nobody knows what tunes anyone played on these flutes and panpipes.
 <!-- /hb-zoom -->
@@ -74,7 +78,7 @@ Some songs and stories tell of a clan's losses in a certain place. In the Tlingi
 
 R. Carlos Nakai first studied the trumpet. A car accident ruined the way he shaped his lips against the trumpet's mouthpiece. Someone gave him a cedar flute as a gift and challenged him to master it. His family is Navajo and Ute, and his father, Raymond Nakai, was chairman of the Navajo Nation from 1963 to 1970.
 
-**The records.** Nakai has recorded more than forty albums with Canyon Records in Phoenix, Arizona, starting with *Changes* in 1983. His albums *Canyon Trilogy* and *Earth Spirit* each sold 500,000 copies. They were the first recordings of the traditional Native flute to sell that many. In 2014 the RIAA, the music business group that gives sales awards, named *Canyon Trilogy* a platinum album, its award for one million copies.
+**The records.** Nakai has recorded more than forty albums with Canyon Records in Phoenix, Arizona, starting with *Changes* in 1983. His albums *Canyon Trilogy* and *Earth Spirit* each sold 500,000 copies, and each earned a gold album award from the RIAA, the music business group that gives sales awards. They were the first recordings of the traditional Native flute to sell that many. *Canyon Trilogy* kept selling. In 2014 the RIAA named it a platinum album, its award for one million copies.
 
 He was nominated for ten Grammy awards between 1994 and 2013. Nakai calls himself "an iconoclastic traditionalist," someone who breaks with old ways and keeps them at the same time. His concert calendar for 2026 lists shows in Utah and Colorado in September and more in October and November.
 
@@ -96,11 +100,11 @@ Europeans wrote down a few of the Native listeners' reactions. No record from th
 <!-- hb-zoom level="span" label="Hymns sung at the landings, Florida, 1564 and 1565" -->
 French Protestants called Huguenots built Fort Caroline in 1564, near the mouth of the St. Johns River and today's Jacksonville, Florida. They built it on the land of the Timucua people. Their leader, René de Laudonnière, wrote that on June 30 he ordered his men to sing aloud on the beach to thank God for their safe arrival. The historian Francis Parkman wrote in 1865 that on the morning they began the fort, the men sang a psalm before they started work.
 
-**St. Augustine.** The Spanish commander Pedro Menéndez de Avilés landed at Seloy, a Timucua town, on September 8, 1565, and founded St. Augustine. His chaplain, the priest who served his soldiers, was Francisco López de Mendoza Grajales, and Mendoza wrote an account of that day. Menéndez came ashore "to the sound of trumpets and salutes of artillery," he wrote, meaning cannons fired as a greeting.
+**St. Augustine.** The Spanish commander Pedro Menéndez de Avilés landed at Seloy, a Timucua town, on September 8, 1565, and founded St. Augustine. His chaplain, the priest who served his soldiers, was Francisco López de Mendoza Grajales, and the chaplain wrote an account of that day. He wrote that Menéndez came ashore "to the sound of trumpets and salutes of artillery," meaning cannons fired as a greeting.
 
-Mendoza walked to meet him carrying a cross and singing the *Te Deum*, a Latin hymn of praise to God. "A large number of Indians watched these proceedings and imitated all they saw done," he wrote.
+The chaplain walked to meet Menéndez carrying a cross and singing the *Te Deum*, a Latin hymn of praise to God. "A large number of Indians watched these proceedings and imitated all they saw done," the chaplain wrote.
 
-**The killings.** Menéndez's soldiers captured Fort Caroline on September 20, 1565, and killed most of the Frenchmen there. In a letter of October 15, Menéndez wrote that 132 of them had "their throats cut." He gave his reason in the same letter: "they spread the Lutheran sect," meaning the Protestant faith. When Menéndez came back to St. Augustine, Mendoza and his companions walked ahead of him in a line, "singing the Te Deum laudamus."
+**The killings.** Menéndez's soldiers captured Fort Caroline on September 20, 1565, and killed most of the Frenchmen there. In a letter of October 15, Menéndez wrote that 132 of them had "their throats cut." He gave his reason in the same letter: "they spread the Lutheran sect," meaning the Protestant faith. When Menéndez came back to St. Augustine, the chaplain and his companions walked ahead of him in a line, "singing the Te Deum laudamus."
 
 In the weeks after, shipwrecked Frenchmen surrendered to Menéndez at a place called Matanzas. His soldiers killed 111 of them. On October 12 they killed 134 more who had surrendered with their leader, Jean Ribault.
 <!-- /hb-zoom -->
@@ -114,7 +118,7 @@ The English captain Francis Drake stopped on the California coast in June 1579 t
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New Mexico, 1598" -->
-Juan de Oñate led Spanish colonists north into New Mexico in 1598 to start a colony on the lands of the Pueblo peoples. Pueblo people then began to hear Spanish military music and to sing Catholic church songs, some of them in parts. The music historian John Koegel dates this to "the Oñate expedition and its aftermath," meaning the journey and the years after it.
+Juan de Oñate led Spanish colonists north into New Mexico in 1598 to start a colony on the lands of the Pueblo peoples. Pueblo people then began to hear Spanish military music and to sing Catholic church songs, some of them in parts, with different voices singing different notes at the same time. The music historian John Koegel dates this to "the Oñate expedition and its aftermath," meaning the journey and the years after it.
 
 The earliest music teachers there that Koegel names are two friars, Catholic men who lived by the rules of a religious order and put the title Fray in front of their names. Fray Bernardo de Marta came in about 1605. Fray Cristóbal de Quiñones died in 1609.
 <!-- /hb-zoom -->
@@ -179,7 +183,7 @@ Enslaved Africans made music in the English colonies through the 1600s, but no o
 ## 1700 to 1750
 
 <!-- hb-zoom level="era" -->
-**Era 4 of 10 · 1700 to 1750 · about 8 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
 
 Two fights over music ran through these fifty years. In New England, church members argued about singing from written notes, and in South Carolina, lawmakers took drums away from enslaved people. New England ministers began teaching their congregations to read notes around 1720. They started singing schools and printed the first books of music lessons in the colonies.
 
@@ -193,7 +197,7 @@ The Reverend Thomas Symmes of Bradford, Massachusetts, made the case in a bookle
 
 **The first music books.** The Reverend John Tufts of Newbury, Massachusetts, published *An Introduction to the Singing of Psalm Tunes*, the first book of music lessons printed in the English colonies.
 
-Neither its exact title nor the date of its first edition is known, so its date is disputed. Foote dated it to about 1712. The Sacred Harp Publishing Company, which still prints a book of church songs, dates it to 1721. Tufts traveled to give talks about singing and to set up singing schools, where a teacher taught a class to read and sing music.
+No copy of the first printing is known, so its exact title and year are uncertain. The dates given for it run from about 1712 to 1721. Tufts traveled to give talks about singing and to set up singing schools, where a teacher taught a class to read and sing music.
 
 Thomas Walter, a 25-year-old nephew of the Boston minister Cotton Mather, published *The Grounds and Rules of Musick Explained* in 1721, with 24 psalm tunes. James Franklin printed it in Boston. It was the first music in the colonies printed with bar lines, the lines that divide music into equal parts of time. It stayed a favorite for more than forty years and went through six editions.
 
@@ -203,7 +207,9 @@ New singing schools spread in the 1720s. The records that survive do not say whe
 
 **The fight.** Other church members fought the change. In Symmes's town, he reported, "a great part of the town has for near half a year, been in a mere flame about it." He meant that people had been angry and arguing about it for almost six months.
 
-The Reverend Nathaniel Chauncey of Connecticut wrote answers in 1728 to the objections people raised. One objection was that singing by note "leads to the Church of England and will bring in organs quickly." The Church of England was the official church back in England. Another was that the new way must be wrong "because the young people fall in with it."
+The Reverend Nathaniel Chauncey of Connecticut wrote answers in 1728 to the objections people raised. One objection was that singing by note "leads to the Church of England and will bring in organs quickly." The Church of England was the official church back in England.
+
+The churches in this fight had been started by Puritans, English Protestants who wanted to clear the Church of England of what they saw as leftovers of the Catholic Church. Puritan congregations sang with no instruments at all, because instruments looked to them like Catholic worship. Another objection was only about who liked the change: the new way must be wrong "because the young people fall in with it."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Concerts for a ticket, and a fiddle for a prize" -->
@@ -250,9 +256,9 @@ The report counts about 40 Black people and 20 white people killed. Later counts
 
 They gave the reason in the same sentence: such instruments "may call together or give sign or notice to one another of their wicked designs and purposes." They meant that drums and horns could be used to call enslaved people together to rise up.
 
-**What the law allowed.** A master or an overseer, the man who ran the work on a plantation, paid a fine of ten pounds each time he let enslaved people beat drums, blow horns or gather in public. Any master, overseer or other person could seize an enslaved person found off the plantation without a written pass and without a white person.
+**What the law allowed.** A master or an overseer, the man who ran the work on a plantation, paid a fine of ten pounds each time he let enslaved people beat drums, blow horns or gather in public. The lawmakers wrote that enslaved people had to be kept from wandering and meeting at all times, and most of all on Saturday nights, Sundays and holidays. Any master, overseer or other person could seize an enslaved person found off the plantation without a written pass and with no white person along.
 
-The law named Saturday nights, Sundays and holidays in particular. If an enslaved man found off the plantation carried a weapon, any master, overseer or other person could take the weapon away, seize him and whip him, even if he carried a pass.
+If an enslaved man found off the plantation carried a weapon, any master, overseer or other person could take the weapon away, seize him and whip him, even if he carried a pass.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -276,14 +282,14 @@ Billings also taught singing schools. He opened one in Boston with John Barry in
 <!-- hb-story:start slug="william-billings" name="William Billings" movie="" kind="famous" status="verified" -->
 ### William Billings
 
-> **Who:** A tanner and singing teacher who wrote about 340 songs for choirs. His 1770 book was the first book of church music written entirely by an American-born composer.
+> **Who:** A tanner and singing teacher who wrote about 340 songs for choirs.
 > **When and where:** Boston. Born October 7, 1746. Died September 26, 1800.
 
 **A tanner with one blind eye wrote 340 songs and died poor.**
 
 William Billings wrote about 340 songs for choirs and published them in six books. He did it while working as a tanner and a singing teacher. His father died when Billings was 14, and he went to work learning to tan leather. He was mostly self-taught in music, though he may have had some lessons from John Barry of Boston's New South Church. A writer named Nathaniel Gould described him in 1853 as having "one eye blind, one leg shorter than the other, one arm somewhat withered."
 
-**"Chester."** His first book, *The New-England Psalm-Singer* of 1770, included his song "Chester." It opens with the words "Let tyrants shake their iron rod." The singers say that they do not fear tyrants or the chains of slavery, because they trust in God. Billings printed a new version with five verses in *The Singing Master's Assistant* in 1778. Soldiers "learned the words by heart," according to the writer David Stowe, and carried Billings's songs wherever the army sent them.
+**"Chester."** His 1770 book included his song "Chester." It opens with the words "Let tyrants shake their iron rod." The singers say that they do not fear tyrants or the chains of slavery, because they trust in God. Billings printed a new version with five verses in *The Singing Master's Assistant* in 1778. Soldiers "learned the words by heart," according to the writer David Stowe, and carried Billings's songs wherever the army sent them.
 
 **No copyright.** Other printers copied Billings's tunes without paying him. Before the Revolution, the men who made Massachusetts's laws voted for a bill, a proposed law, to give Billings copyright over his first book: the legal right to decide who may copy and sell it. The governor, a Tory loyal to the British king, refused to sign it. Stowe writes that the governor may have refused because Billings had ties to patriots such as Samuel Adams.
 

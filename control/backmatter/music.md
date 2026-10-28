@@ -10,6 +10,7 @@
 - at.óow: the Tlingit word for a clan's owned things, "something owned or purchased" (Before 1500)
 - iconoclastic traditionalist: someone who breaks with old ways and keeps them at the same time (Before 1500)
 - RIAA: the Recording Industry Association of America, the record companies' own group, which gives sales awards and counts what the companies take in (Before 1500)
+- gold album: the RIAA's award for 500,000 copies sold (Before 1500)
 - platinum album: the RIAA's award for one million copies sold (Before 1500)
 - hymn: a song that praises God (The 1500s)
 - Protestants: Christians who had broken away from the Catholic Church (The 1500s)
@@ -20,6 +21,7 @@
 - Te Deum: a Latin hymn of praise to God (The 1500s)
 - Lutheran sect: Menéndez's words for the Protestant faith (The 1500s)
 - anthropologist: a scientist who studies people and the ways they live (The 1500s)
+- singing in parts: different voices singing different notes at the same time (The 1500s)
 - friar: a Catholic man who lived by the rules of a religious order and put the title Fray in front of his name (The 1500s)
 - congregation: the people who worship together at a church (The 1600s)
 - lining out: a way of singing in which a leader read or sang one line and the congregation sang it back (The 1600s)
@@ -32,6 +34,7 @@
 - regular singing: singing from written notes (1700 to 1750)
 - singing school: a class where a teacher taught people to read and sing music (1700 to 1750)
 - bar lines: the lines that divide music into equal parts of time (1700 to 1750)
+- Puritans: English Protestants who wanted to clear the Church of England of what they saw as leftovers of the Catholic Church (1700 to 1750)
 - shilling: a British coin, five of which made a quarter of a pound (1700 to 1750)
 - selectmen: the men elected to run a New England town (1700 to 1750)
 - Cremona fiddle: a violin made in the town of Cremona, in Italy (1700 to 1750)
@@ -81,12 +84,14 @@
 - arrange: to write out the parts of a song for each voice (1850 to 1900)
 - cholera: a gut infection people catch from dirty food or water, which drains so much water from the body that a person can die (1850 to 1900)
 - rations: the food federal officials handed out to Native people on reservations (1850 to 1900)
+- heathenish: an insulting word for not Christian (1850 to 1900)
 - agency prison: the jail at the government office on a reservation (1850 to 1900)
 - Ghost Dance: a religious movement whose followers danced in a circle (1850 to 1900)
 - cavalry: an army unit on horseback (1850 to 1900)
 - apprentice musician: a boy learning the work of a band musician (1850 to 1900)
 - operetta: a short comic opera (1850 to 1900)
 - sousaphone: a large brass horn made for marching bands (1850 to 1900)
+- wax cylinder: a tube of wax that held two or three minutes of sound, which a machine could play back (1850 to 1900)
 - phonograph: a machine that recorded sound and played it back (1850 to 1900)
 - brothel: a house where men paid women for sex (1850 to 1900)
 - cornet: a brass horn like a small trumpet (1850 to 1900)
@@ -95,6 +100,7 @@
 - Pulitzer Prize: a top American award (1850 to 1900)
 - sharecropping: farming a landowner's fields in return for a share of the crop, buying tools, seed and food on credit at the landowner's prices (1850 to 1900)
 - race records: record company managers' name in the 1920s for records made for Black buyers (1900 to 1950)
+- side: one song on one face of a record (1900 to 1950)
 - royalty: a small payment for every copy sold, for as long as the record sells (1900 to 1950)
 - heir: the one person with the right to what someone left (1900 to 1950)
 - census: the government's count of everyone in the country (1900 to 1950)
@@ -105,7 +111,6 @@
 - ASCAP: a group that collected money for songwriters (1900 to 1950)
 - BMI: the group radio station owners started in 1939 to collect fees for songwriters (1900 to 1950)
 - gospel: a kind of Black church music (1900 to 1950)
-- wax cylinder: a tube of wax that held two or three minutes of sound (1900 to 1950)
 - petition: a written request to the government (1900 to 1950)
 - annex: to make a place part of the United States (1900 to 1950)
 - Huntington's disease: a disease passed down in families that destroys parts of the brain, causing movements a person cannot control, changes in mood, and the loss of the ability to think (1900 to 1950)
@@ -239,4 +244,4 @@
 
 - Q: Where did the banjo and the blues come from? A: The banjo came from West African instruments, and enslaved Black people played it in the colonies from at least 1736, about a hundred years before a white man played it on a stage. The blues grew out of the work songs and field calls of enslaved people and the songs of Black workers in the South after slavery, between about 1870 and 1900.
 - Q: Why did so many musicians make hit songs and still die poor? A: Many were paid a set fee and no royalty, as Bessie Smith was at $125 a side, or someone else put his name on their song, as Don Robey did on "Hound Dog." Others, like Stephen Foster, sold their rights to future payments for money right away.
-- Q: Who tried to stop people from playing their own music, and why? A: South Carolina lawmakers banned drums and horns in 1740, saying the sound could call enslaved people together to rise up. Spanish friars burned Pueblo masks in the 1600s, Richard Henry Pratt gave Carlisle students brass horns to stop their drumming, and federal rules from 1883 to 1978 punished Native religious dances.
+- Q: Who tried to stop people from playing their own music, and why? A: South Carolina lawmakers banned drums and horns in 1740, saying the sound could call enslaved people together to rise up. Spanish friars burned Pueblo masks in the 1600s to punish Pueblo people for keeping their own religion. Richard Henry Pratt gave Carlisle students brass horns to stop their drumming, at a school whose own paper gave its aim as "the complete transformation of the Indians." Federal rules from 1883 to 1978 punished Native religious dances, which the Secretary of the Interior had called "heathenish."

@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 29 minutes**
 
-Record companies began to record and sell the blues, jazz and country music in these years, and the companies and the men who held the copyrights kept much of the money. Black musicians in the South made the blues and jazz. Country music came from Southern singers and players, white ones like the Carter Family and Black ones like DeFord Bailey and Lesley Riddle. Bessie Smith's first record sold 780,000 copies, and Columbia paid her a set fee for each side and nothing more.
+Record companies began to record and sell the blues, jazz and country music in these years, and the companies and the men who held the copyrights kept much of the money. Black musicians in the South made the blues and jazz. Country music came from Southern singers and players, white ones like the Carter Family and Black ones like DeFord Bailey and Lesley Riddle. Bessie Smith's first record sold 780,000 copies, and Columbia paid her a set fee and no share of the sales.
 
 Americans spent $106 million on records in 1921. From the 1920s, anyone with a radio could hear music at home for free. Owners and managers of clubs, hotels and concert halls kept Black people out, even Black stars. Billie Holiday recorded "Strange Fruit" in 1939, a song about Black people murdered by white mobs. That same year Marian Anderson sang outdoors in Washington to more than 75,000 people, after the leaders of two indoor halls in the city refused her.
 <!-- /hb-zoom -->
@@ -38,7 +38,7 @@ Some white people had already warned Hager not to record Black musicians, and he
 
 **"Race records."** Record company managers then went looking for Black singers to sell records to Black buyers. By 1922 managers at Okeh were calling these records "race records." The Black businessman Harry Pace started Black Swan Records in 1921. Black Swan paid its singers fair wages and let them record under their own names. Paramount took over Black Swan in 1924.
 
-**A set fee.** Columbia paid Bessie Smith a set fee for each side of a record and no royalty, the small payment for every copy sold that lasts as long as the record sells. It paid white singers royalties. With a set fee, a singer earned the same whether the record sold a hundred copies or a million.
+**A set fee.** Columbia paid Bessie Smith a set fee for each side she recorded. A side was one song on one face of a record. She got no royalty, the small payment for every copy sold that lasts as long as the record sells. Columbia paid white singers more, and it paid them royalties. With a set fee, a singer earned the same whether the record sold a hundred copies or a million.
 
 **Twenty-nine songs.** Robert Johnson, a Black guitarist from Mississippi, recorded 29 songs in 1936 and 1937, in a hotel room in San Antonio and in Dallas, both in Texas. His best seller, "Terraplane Blues," sold about 10,000 copies. His pay for the sessions is not on record. He died near Greenwood, Mississippi, on August 16, 1938, at 27. The cause of his death is not known. One story says he was poisoned, but no one has proved it.
 
@@ -58,7 +58,7 @@ The editors of *Billboard*, a music magazine, renamed its "race records" sales c
 
 Bessie Smith was born in Chattanooga, Tennessee. Her family kept April 15, 1894, as her birthday, but the 1900 census, the government's count of everyone in the country, gives July 1892. Both her parents died when she was a child. She and her brother Andrew sang and danced for coins on the streets of Chattanooga. In 1912 she joined a traveling show as a dancer, and Ma Rainey sang in the same show.
 
-**The pay.** Frank Walker of Columbia Records signed her in 1923. Her first record, "Down Hearted Blues," sold 780,000 copies in six months. Her contract paid her $125 for each side that could be used. Later contracts paid $150 and then $200 a side, and none of them paid a royalty. Record companies paid white singers more, and they gave white singers royalties.
+**The pay.** Frank Walker of Columbia Records signed her in 1923. Her first record, "Down Hearted Blues," sold 780,000 copies in six months. Her contract paid her $125 for each side that could be used. Later contracts paid $150 and then $200 a side, and none of them paid a royalty.
 
 She recorded between 150 and 200 songs. Cary O'Dell's essay for the Library of Congress states 150 in one place and close to 200 in another. On tour she earned up to $2,000 a week, and she traveled in her own railroad car.
 
@@ -75,6 +75,8 @@ Jazz began in the Black communities of New Orleans in the late 1800s and early 1
 **A legend.** One story says that in 1915 Victor had asked a Black New Orleans player of the cornet, a brass horn like a small trumpet, to record first. The player was Freddie Keppard, and the story says he said no. The historian John Edward Hasse calls that story a legend.
 
 **The Cotton Club.** Owney Madden, a gangster who sold illegal liquor, ran the Cotton Club in Harlem, New York. Madden's managers hired Black musicians and dancers, and they let in only white customers, apart from a few Black stars. The club's dancers had to be light-skinned, at least 5 feet 6 inches tall and under 21. Duke Ellington's band played there from December 4, 1927, to June 30, 1931. When Ellington asked, the people running the club let in a few more Black customers.
+
+**By 1927:** Blues records by Black singers sold in the hundreds of thousands, and the first jazz record, made by white musicians, had sold a million copies by some counts.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="louis-armstrong" name="Louis Armstrong" movie="Louis Armstrong's Black & Blues (2022)" kind="famous" status="verified" -->
@@ -96,8 +98,6 @@ Staff at WBKJ, a radio station in Hattiesburg, Mississippi, threw out his record
 <!-- hb-story:end slug="louis-armstrong" -->
 
 <!-- hb-zoom level="span" label="Country music on record: Bristol, 1927" -->
-**By 1927:** Blues records by Black singers sold in the hundreds of thousands, Columbia paid Bessie Smith a set fee and no royalty, and Duke Ellington's band was about to open at a Harlem club whose managers let in only white customers.
-
 Ralph Peer of the Victor record company recorded 76 songs by 19 singers and groups in Bristol, Tennessee, from July 25 to August 5, 1927. He set up on the third floor of a hat and glove company's building. Each performer got $50 in cash for each side, plus 2½ cents for each record sold. The Carter Family recorded on August 1 and 2, and a singer named Jimmie Rodgers on August 4.
 
 **What Peer kept.** Peer took no salary from Victor. Instead he took a royalty of one cent on each record side, which he split with the singer. He also kept the copyright of the songs he recorded, including old songs passed down from singer to singer, and with it the right to be paid whenever those songs were printed, recorded or played.
@@ -138,7 +138,7 @@ That December night the *Barn Dance* came on the air after a program of opera mu
 > **When and where:** Born December 14, 1899, in Smith County, Tennessee. Played on Nashville radio from 1926 to 1941. Died July 2, 1982.
 > **Movie:** *DeFord Bailey: A Legend Lost* (2002), a Nashville Public Television documentary about him.
 
-**The Grand Ole Opry got its name right after he played.**
+**White stars got him into hotels by the fire escape.**
 
 DeFord Bailey's family in Smith County, Tennessee, played what he called "Black hillbilly music." He caught polio at three. The virus that causes polio can damage the nerves that move the muscles, and it stunted Bailey's growth and left his back bent.
 
@@ -146,7 +146,7 @@ DeFord Bailey's family in Smith County, Tennessee, played what he called "Black 
 
 **On tour.** He toured the South with white stars such as Roy Acuff, Bill Monroe and Uncle Dave Macon. Hotel and restaurant owners would not serve him because he was Black. The other players brought him food, or got him into hotels by the fire escape.
 
-**Fired.** The managers of most radio stations stopped playing songs licensed by ASCAP, a group that collected money for songwriters, in 1941, after ASCAP's leaders raised its fees. Managers at WSM told Bailey not to play his ASCAP songs, which were some of his most popular ones. They fired him at the end of 1941.
+**Fired.** The managers of most radio stations stopped playing songs licensed by ASCAP, a group that collected money for songwriters, during a fight over fees in 1941. Managers at WSM told Bailey not to play his ASCAP songs, which were some of his most popular ones. They fired him at the end of 1941.
 
 **"Lazy."** Hay wrote a book about the show in 1945. In it he wrote, "Like some members of his race and other races, DeFord was lazy." Hay added that Bailey knew about a dozen tunes and "refused to learn more."
 
@@ -160,7 +160,9 @@ John Philip Sousa wrote in 1906 that records and player pianos were becoming a "
 
 **Sales up and down.** Americans spent $106 million on records in 1921. A history of records from the University of Michigan Press says they did not spend that much again until 1945. IASA, a group of sound archivists, says sales did not reach their old peak until the 1950s. During the Great Depression, in the early 1930s, record sales fell to about one tenth of what they had been in the 1920s.
 
-**ASCAP and BMI.** Radio station owners paid fees to ASCAP to play songs. ASCAP's leaders announced higher fees in 1939, and radio station owners started their own group to collect fees for songwriters, called BMI. In 1941 managers at almost every station, and at all three national networks, stopped playing ASCAP songs. ASCAP's leaders had not wanted writers of blues, gospel, country, folk and Latin music. BMI became the first licensing group to sign them.
+**ASCAP and BMI.** Radio station owners paid ASCAP a fee for the right to play songs by its songwriters, and ASCAP passed the money on to the writers. When ASCAP's leaders announced a big rise in fees in 1939, radio station owners started a group of their own, BMI, so they would have songs to play without paying ASCAP.
+
+Managers at almost every station, and at all three national networks, stopped playing ASCAP songs in 1941. ASCAP's leaders had not wanted writers of blues, gospel, country, folk and Latin music, and BMI became the first such group to sign them.
 
 **The record ban.** James Petrillo, the head of the musicians' union, told its members to stop making records on August 1, 1942. He wanted musicians to be paid when radio stations and jukeboxes played records instead of hiring live bands. Decca's managers signed an agreement in September 1943 to pay a fee on every record into a union fund. Victor and Columbia signed on November 11, 1944. Union rules still let singers record with voices alone, so for two years singers made records without bands.
 <!-- /hb-zoom -->
@@ -186,9 +188,9 @@ The band of the Carlisle Indian School, a boarding school for Native children in
 
 One collector, Francis La Flesche, took singers from Oklahoma to Washington, D.C., so that neighbors who objected could not stop him from recording ceremonial songs. No record shows that the singers were paid. Frances Densmore recorded the songs of the Ojibwe, Sioux, Mandan, Hidatsa, Tohono O'odham, Seminole and other nations for the Smithsonian Institution from 1907.
 
-**The steel guitar.** Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings.
+**The steel guitar.** Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played his steel guitar in theaters across the mainland United States.
 
-A group of mostly American businessmen overthrew Hawaii's queen, Liliʻuokalani, in 1893. Before they moved, John L. Stevens, the top US official in Hawaii, had 162 American sailors and Marines brought ashore. Native Hawaiians put 21,269 signatures on petitions, written requests to the government, against joining the United States in 1897. Members of Congress voted to annex Hawaii anyway in 1898, making it part of the United States. From 1904 Kekuku played this steel guitar in theaters across the mainland United States.
+By then Hawaii belonged to the United States. A group of mostly American businessmen had overthrown Hawaii's queen, Liliʻuokalani, in 1893. Before they moved, John L. Stevens, the top US official in Hawaii, had 162 American sailors and Marines brought ashore. Native Hawaiians put 21,269 signatures on petitions, written requests to the government, against joining the United States in 1897. Members of Congress voted to annex Hawaii anyway in 1898, making it part of the United States.
 
 **A new songwriter.** Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key, and he wrote "Alexander's Ragtime Band" in 1911. Through his own publishing company he owned his own songs. He gave all the money from "God Bless America," which Kate Smith first sang in 1938, to the Boy Scouts and Girl Scouts.
 
@@ -248,7 +250,7 @@ At nine she was brought before a juvenile court, a court for children, for missi
 
 **Anslinger's agents.** Harry Anslinger ran the Federal Bureau of Narcotics, the government's drug police, from 1930 to 1962. Federal agents arrested Holiday on May 16, 1947, for having narcotics, illegal drugs, in her New York apartment. She pleaded guilty, and a judge sent her to the Alderson Federal Prison Camp in West Virginia for a year. She said later: "It was called 'The United States of America versus Billie Holiday'. And that's just the way it felt."
 
-Because of the conviction, she lost her New York City cabaret card, the police license a performer needed to work in any club that sold alcohol. After that she sang in concert halls and theaters. A federal agent, George White, arrested her again in a San Francisco hotel in January 1949.
+Because of the conviction, she lost her New York City cabaret card, the police license a performer needed to work in any club that sold alcohol. After that she sang in concert halls and theaters. A federal agent named George White, a different man from the Fisk Jubilee Singers' leader, arrested her again in a San Francisco hotel in January 1949.
 
 **Disputed:** No source before 2015 says that Anslinger's agents went after her because she sang "Strange Fruit," the jazz writer Lewis Porter points out. The writer Johann Hari wrote in 2015 that they did, from 1939.
 
@@ -270,9 +272,9 @@ Officials of Howard University in Washington, D.C., asked in January 1939 to ren
 
 **Toscanini told her she had "a voice heard once in a hundred years."**
 
-Marian Anderson was a contralto, a singer with a low woman's voice, and the first Black American singer to perform at the Metropolitan Opera in New York. As a young woman she applied to a music school in Philadelphia. The school's officials turned her away because they took only white students. In Salzburg, Austria, in 1935, the conductor Arturo Toscanini told her she had "a voice heard once in a hundred years."
+As a young woman, Marian Anderson applied to a music school in Philadelphia. The school's officials turned her away because they took only white students. In Salzburg, Austria, in 1935, the conductor Arturo Toscanini told her she had "a voice heard once in a hundred years."
 
-**Constitution Hall.** The DAR's president, Sarah Corbin Robert, and its other leaders kept her out of Constitution Hall in 1939. She sang outdoors at the Lincoln Memorial instead, on April 9, 1939.
+**Constitution Hall.** The DAR's president in 1939, when its leaders kept Anderson out of the hall, was Sarah Corbin Robert.
 
 **The Met.** She sang at the Metropolitan Opera on January 7, 1955, at 57, in the part of Ulrica, a fortune teller, in Verdi's opera *Un ballo in maschera*. She sang at the March on Washington in August 1963. That year she was given the Presidential Medal of Freedom, an award given by the president.
 <!-- hb-story:end slug="marian-anderson" -->
@@ -290,7 +292,7 @@ Marian Anderson was a contralto, a singer with a low woman's voice, and the firs
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 22 minutes**
 
-Black musicians made rock and roll, soul and hip-hop. White singers then sold more copies of some of those songs than the Black singers who recorded them first. Record company owners, managers and publishers kept much of the money from songs such as "Hound Dog" and "That's All Right." Big Mama Thornton said she got one check for $500 for "Hound Dog."
+Black musicians made rock and roll, soul and hip-hop. White singers then sold more copies of some of those songs than the Black singers who recorded them first. Record company owners, managers and publishers kept much of the money from songs such as "Hound Dog" and "That's All Right."
 
 In Detroit, Berry Gordy built Motown, which became the largest Black-owned business on one magazine's list. Civil rights marchers sang old church songs with new words at their mass meetings.
 
@@ -316,11 +318,9 @@ Members of Congress made payola a crime in 1960, punished by up to a year in jai
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hound Dog: Big Mama Thornton and Elvis Presley" -->
-The songwriters Jerry Leiber and Mike Stoller wrote "Hound Dog." Willie Mae "Big Mama" Thornton, a blues singer from Alabama, recorded it on August 13, 1952. Don Robey's Peacock Records put it out in 1953, and it was No. 1 on the rhythm and blues chart for seven weeks. Robey guessed that it sold 500,000 to 750,000 copies.
+The songwriters Jerry Leiber and Mike Stoller wrote "Hound Dog." The chapter opening tells the start of this story: Big Mama Thornton's 1952 record, Don Robey's name on the copyright form, and her one check for $500. Robey's Peacock Records put her record out in 1953, and it stayed at No. 1 on the rhythm and blues chart for seven weeks. Robey guessed that it sold 500,000 to 750,000 copies. Thornton said, "That song sold over two million records."
 
-"That song sold over two million records. I got one check for $500 and never saw another," Thornton said. Robey put his own name on the copyright form as one of the song's writers.
-
-**Presley's record.** Elvis Presley recorded "Hound Dog" for RCA on July 2, 1956. His record was No. 1 on the pop chart for 11 weeks and sold about 10 million copies. He followed a reworked version by Freddie Bell and the Bellboys, a band he had heard in Las Vegas that year. Leiber and Stoller earned large royalties only after Presley's record. Thornton died poor in a Los Angeles boarding house in 1984, of heart and liver disease. She was buried in a grave shared with two other people.
+**Presley's record.** Elvis Presley recorded "Hound Dog" for RCA on July 2, 1956. His record was No. 1 on the pop chart for 11 weeks. He followed a reworked version by Freddie Bell and the Bellboys, a band he had heard in Las Vegas that year. Leiber and Stoller earned large royalties only after Presley's record. Thornton died of heart and liver disease in 1984. She was buried in a grave shared with two other people.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="elvis-presley" name="Elvis Presley" movie="Elvis (2022)" kind="famous" status="verified" -->
@@ -355,6 +355,8 @@ Berry Gordy Jr. of Detroit started a record company on January 12, 1959, with an
 A Los Angeles motel manager, Bertha Franklin, shot and killed him on December 11, 1964. A coroner's jury, a panel that decides how a person died, called it justifiable homicide, a killing the law excuses. His family has disputed that account.
 
 **James Brown.** Brown paid for the recording of his 1963 album *Live at the Apollo* himself. Martin Luther King Jr. was shot and killed on April 4, 1968, and James Earl Ray later pleaded guilty to his murder. The next day, Brown gave a free concert in Boston that was shown on television. His song "Say It Loud, I'm Black and I'm Proud" came out that August.
+
+**By 1970:** Motown had put 79 songs in the pop top ten, Sam Cooke's own company owned his master recordings, and Ray Charles had a contract that promised him his.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="aretha-franklin" name="Aretha Franklin" movie="Amazing Grace (2018)" kind="famous" status="verified" -->
@@ -374,19 +376,17 @@ She recorded for Columbia from 1960 to 1966 and had few hits. Jerry Wexler then 
 
 It was No. 1 on the pop chart for two weeks and on the rhythm and blues chart for eight. It became a song of the women's movement and of the civil rights movement. Redding called it the song "that a girl took away from me."
 
-**Angela Davis.** FBI agents arrested the Black activist Angela Davis in October 1970. She was charged with kidnapping and with the murder of Judge Harold Haley, who was killed in an attack on a California courthouse. Franklin said, "Angela Davis must go free." An all-white jury found Davis not guilty in June 1972.
+**Angela Davis.** Franklin spoke up in 1970 for Angela Davis, a Black activist whom FBI agents had arrested that October. Davis was charged with kidnapping and with the murder of Judge Harold Haley, who was killed in an attack on a California courthouse. Franklin said, "Angela Davis must go free." An all-white jury found Davis not guilty in June 1972.
 
 **Amazing Grace.** Franklin recorded the gospel album *Amazing Grace* at New Temple Missionary Baptist Church in Los Angeles in January 1972. It sold more than two million copies. The film made at the same time was not shown until 2018, because the sound and the pictures could not be matched. In 1987 she became the first woman named to the Rock and Roll Hall of Fame. She died in Detroit on August 16, 2018.
 <!-- hb-story:end slug="aretha-franklin" -->
 
 <!-- hb-zoom level="span" label="Where did 'We Shall Overcome' come from?" -->
-**By 1970:** Motown had put 79 songs in the pop top ten, Sam Cooke's own company owned his master recordings, and Ray Charles had a contract that promised him his.
-
 "We Shall Overcome" started as a church hymn, "I'll Overcome Some Day," that Charles Albert Tindley wrote in 1901. Tobacco workers went on strike at a cigar factory in Charleston, South Carolina, in 1945 and 1946. One of them, Lucille Simmons, led the strikers in singing "We Will Overcome." Zilphia Horton of the Highlander Folk School learned it from her and printed it in 1947.
 
 The folk singer Pete Seeger changed "will" to "shall," because, he said, "'We shall' opens the mouth wider." From 1959 Guy Carawan taught the song to young civil rights workers.
 
-**The March on Washington.** At the March on Washington on August 28, 1963, Mahalia Jackson sang "I've Been 'Buked and I've Been Scorned." Marian Anderson sang "He's Got the Whole World in His Hands," and Joan Baez led "We Shall Overcome." Odetta sang "I'm On My Way," Peter, Paul and Mary sang "Blowin' in the Wind," and Bob Dylan joined Baez for "When the Ship Comes In." During Martin Luther King Jr.'s speech, Jackson called out to him, "Tell them about the dream, Martin!"
+**The March on Washington.** Joan Baez led "We Shall Overcome" at the March on Washington on August 28, 1963. Mahalia Jackson, Marian Anderson, Odetta, Bob Dylan, and Peter, Paul and Mary sang there too. During Martin Luther King Jr.'s speech, Jackson called out to him, "Tell them about the dream, Martin!"
 
 **Selma.** About 600 marchers set out from Selma, Alabama, on March 7, 1965. At the Edmund Pettus Bridge, Alabama state troopers and other officers, led by Major John Cloud, attacked them with nightsticks and tear gas. At least 50 marchers went to the hospital. President Lyndon Johnson spoke to Congress on March 15 and used the song's words: "And we shall overcome." In January 2018, after a court case, the owners of the song's copyright gave it up. Since then anyone may use it freely.
 <!-- /hb-zoom -->
@@ -441,9 +441,9 @@ Johnny Cash recorded two concerts for prisoners at Folsom State Prison in Califo
 <!-- hb-zoom level="span" label="Hip-hop from the Bronx, 1973 onward" -->
 Clive Campbell, a teenage DJ called Kool Herc, played records for dancers at a party at 1520 Sedgwick Avenue in the Bronx, New York, on August 11, 1973. His sister Cindy Campbell planned the party to earn money for back-to-school clothes. City officials named the building the birthplace of hip-hop in 2007.
 
-**The fires.** In the same years, fires burned much of the South Bronx. Most were arson, fires set on purpose. Landlords paid people who lived nearby to set fires in the landlords' own buildings, so the landlords could collect insurance money. One landlord collected $125,000 from 21 fires. After a study of the fire service by the RAND Corporation, a research company, city officials closed 12 fire companies in the South Bronx between 1974 and 1976, when the city was nearly out of money.
+**The fires.** The first hip-hop DJs played in the Bronx in the same years that fires burned much of the South Bronx. Most of the fires were arson, fires set on purpose. Landlords paid people who lived nearby to set fires in the landlords' own buildings, so the landlords could collect insurance money. One landlord collected $125,000 from 21 fires.
 
-Seven census tracts, small areas the census counts separately, lost more than 97 percent of their buildings to fire and abandonment. About 250,000 people lost their homes.
+After a study of the fire service by the RAND Corporation, a research company, city officials closed 12 fire companies in the South Bronx between 1974 and 1976, when the city was nearly out of money. Seven census tracts, small areas the census counts separately, lost more than 97 percent of their buildings to fire and abandonment. About 250,000 people lost their homes.
 
 **"Rapper's Delight."** The Sugarhill Gang's "Rapper's Delight" came out on Sugar Hill Records on September 16, 1979. Sylvia Robinson produced it and ran the company's work. It reached No. 36 on the national pop chart, and many writers call it the first rap record that sold widely. It used the music of Chic's song "Good Times." Chic's writers, Nile Rodgers and Bernard Edwards, got credit only after they threatened to sue. One of its rappers, Big Bank Hank, used rhymes written by Grandmaster Caz and did not credit him.
 
@@ -458,15 +458,13 @@ Seven census tracts, small areas the census counts separately, lost more than 97
 
 **He played two copies of one record to stretch the drums.**
 
-DJ Kool Herc played records at the 1973 party that people name as the start of hip-hop. He was born Clive Campbell in Kingston, Jamaica, and moved to the Bronx in November 1967, at 13.
-
 **The Merry-Go-Round.** At parties he played funk records. The "break" of a funk record is its drum part. Herc used two copies of the same record. When the break ended on one, he started it again on the other, so the drum part lasted longer. He called this the "Merry-Go-Round." He called the dancers who danced to the breaks "b-boys" and "b-girls."
 
-His sister Cindy planned the party of August 11, 1973, at 1520 Sedgwick Avenue. Later someone stabbed Herc at a club called the Executive Playhouse while he was trying to stop a fight. No record names who stabbed him. After that he pulled back from playing, and by 1980 he had stopped working as a DJ. No surviving document shows what he earned from hip-hop.
+Later someone stabbed Herc at a club called the Executive Playhouse while he was trying to stop a fight. No record names who stabbed him. After that he pulled back from playing, and by 1980 he had stopped working as a DJ. No surviving document shows what he earned from hip-hop.
 <!-- hb-story:end slug="dj-kool-herc" -->
 
 <!-- hb-zoom level="span" label="Woodstock, music television, compact discs and the lyrics hearing" -->
-The Woodstock music festival took place on Max Yasgur's dairy farm in Bethel, New York, from August 15 to 18, 1969. The organizers expected about 50,000 people. Estimates of the crowd run from 400,000 to more than 460,000, and no record names who counted. The fences were not finished, so the festival became free. Three people died. Two died from taking too much of a drug, and a tractor ran over a 17-year-old as he slept. No record names the driver.
+Thirty-two acts played at the Woodstock music festival, on Max Yasgur's dairy farm in Bethel, New York, from August 15 to 18, 1969. The organizers expected about 50,000 people. Estimates of the crowd run from 400,000 to more than 460,000, and no record names who counted. The fences were not finished, so the festival became free. Three people died. Two died from taking too much of a drug, and a tractor ran over a 17-year-old as he slept. No record names the driver.
 
 **MTV.** The MTV television channel began playing music videos on August 1, 1981. Its managers said they kept to a "rock format," and they played few Black artists. Walter Yetnikoff, president of CBS Records, threatened to pull CBS's videos unless MTV's managers played Black artists. They then put Michael Jackson's "Billie Jean" into heavy rotation from March 1983, which means they played it often. Compact disc players went on sale in Japan on October 1, 1982, and in the United States in March 1983.
 
@@ -474,7 +472,7 @@ The Woodstock music festival took place on Max Yasgur's dairy farm in Bethel, Ne
 
 Leaders of the RIAA, the record companies' own group, agreed on November 1, 1985, to put warning labels on some albums. Record companies began putting a standard "Parental Advisory" sticker on albums in 1990. Managers at Walmart and some other stores would not sell albums with the sticker.
 
-**The 1978 act.** Members of Congress passed the American Indian Religious Freedom Act in 1978. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things. Until that year, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883.
+**The 1978 act.** Many Native songs belong to religious ceremonies. Until 1978, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883. That year members of Congress passed the American Indian Religious Freedom Act. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="selena-quintanilla" name="Selena Quintanilla" movie="Selena (1997)" kind="famous" status="verified" -->
@@ -486,7 +484,7 @@ Leaders of the RIAA, the record companies' own group, agreed on November 1, 1985
 
 **The woman who ran her fan club shot her at 23.**
 
-Selena Quintanilla was a Mexican American singer of Tejano music, the Spanish-language music of Texas. She sang with her brother and sister in their father Abraham Quintanilla Jr.'s band, Selena y Los Dinos, and learned the Spanish words of her songs by their sound, with her father's help. She won the Tejano Music Award for Female Vocalist of the Year in 1987 and in each of the next nine years. In 1994 she won a Grammy Award for her album *Live!*
+Selena Quintanilla sang with her brother and sister in their father Abraham Quintanilla Jr.'s band, Selena y Los Dinos, and learned the Spanish words of her songs by their sound, with her father's help. She won the Tejano Music Award for Female Vocalist of the Year in 1987 and in each of the next nine years. In 1994 she won a Grammy Award for her album *Live!*
 
 **Yolanda Saldívar.** Saldívar ran Selena's fan club and managed her clothing stores. She had secretly taken money from the business, more than $30,000 or more than $60,000 by different counts. Selena meant to fire her.
 
@@ -528,7 +526,7 @@ Shawn Fanning and Sean Parker started Napster in June 1999. It let people copy m
 
 Sales then fell in 15 of the 16 years from 2000 to 2015. In 2016 they were $7.57 billion, a little more than a third of the 1999 figure. That year, for the first time, Americans paid more for streaming than for CDs, downloads and ringtones.
 
-The RIAA reported in March 2026 that in 2025 the companies took in a record $11.5 billion at wholesale, the price the companies themselves are paid. Of that money, $9.5 billion came from streaming, and $1.04 billion came from vinyl records.
+The RIAA reported in March 2026 that in 2025 the companies took in $11.5 billion at wholesale, the price the companies themselves are paid, which is lower than the price in stores. Counted that way, without taking out the rise in prices, the RIAA called 2025 the companies' best year. With the rise in prices taken out, the 1999 peak was still higher. Of the 2025 money, $9.5 billion came from streaming, and $1.04 billion came from vinyl records.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What does a stream pay?" -->
@@ -561,11 +559,15 @@ She played cello in the band Rasputina from 2002 to 2006. Alone, she uses a comp
 
 **On her own.** She released her album *One Cello x 16: Natoma* herself, without a record company. It reached No. 1 on the iTunes classical chart four times. She began publishing her income from sales and streaming in August 2012.
 
-**Her husband.** Doctors found in May 2014 that her husband, Jeff Rusch, had stage 4 cancer, cancer that has spread through the body. Staff at their insurance company, Anthem, first refused to pay for his hospital stay. The records do not name them. Anthem's staff reversed the refusal after local news stories about it. He died on February 19, 2015.
+**Her husband.** Doctors found in May 2014 that her husband, Jeff Rusch, had stage 4 cancer, cancer that has spread through the body. Staff at their insurance company, Anthem, first refused to pay for his hospital stay. The records do not name them. Keating wrote about the refusal on her blog, as she publishes her pay. Anthem's staff reversed the refusal after local news stories about it. He died on February 19, 2015.
 <!-- hb-story:end slug="zoe-keating" -->
 
 <!-- hb-zoom level="span" label="Who owns a recording: masters and songs" -->
 Every recorded song has two copyrights. One covers the song itself, its words and tune. The other covers the master, the first recording, which every copy is made from. Whoever owns the master is paid for every copy and every stream of that recording. Sam Cooke's own company owned his master recordings from 1963. Ray Charles's 1959 contract promised that he would own his in time.
+
+**The Universal fire.** Jody Rosen, a writer for the New York Times Magazine, reported in 2019 that a fire in 2008 had destroyed 118,000 to 175,000 of Universal Music Group's master tapes. He wrote that they might include records by Chuck Berry, Muddy Waters and John Coltrane. A statement from Universal Music Group said the report held "numerous inaccuracies," meaning many mistakes. The company's leaders confirmed that the masters of one Soundgarden album had burned.
+
+The fire began at Universal Studios Hollywood on June 1, 2008, when a worker used a blowtorch to heat roof shingles and left before they cooled. It spread across the studio's backlot, the outdoor area of sets and storage buildings.
 
 Bob Dylan sold the rights to all of his songs to Universal Music Publishing Group in December 2020. Reporters at *The New York Times* estimated the price at more than $300 million, and other reports said about $400 million.
 <!-- /hb-zoom -->
@@ -599,7 +601,7 @@ Members of Congress passed the Music Modernization Act in 2018. House members vo
 <!-- hb-zoom level="span" label="Hip-hop, Latin music and country radio" -->
 Hip-hop and R&B made up 24.5 percent of all the music Americans bought or streamed in 2017, more than any other kind. Rock came second, with just under 21 percent. Analysts at Nielsen Music, a company that tracks sales and streams, made the count, and CNBC's reporters wrote about it in January 2018.
 
-Sales of Latin music came to $1 billion in 2025, 8.8 percent of what the record companies took in across the United States. The RIAA reported in 2026 that it was Latin music's tenth record year in a row.
+Sales of Latin music came to $1 billion in 2025, 8.8 percent of what the record companies took in across the United States. The RIAA reported in 2026 that Latin music's sales had reached a new high for the tenth year in a row.
 
 **Country radio.** Jada Watson, a researcher, counts the songs played on country radio. She found that songs by women got 11 percent of the plays by 2022. She reported in 2023 that no song by a Black, Indigenous or other woman of color was in regular daytime rotation, the list of songs a station plays over and over each day.
 
@@ -607,7 +609,7 @@ Sales of Latin music came to $1 billion in 2025, 8.8 percent of what the record 
 
 Her country album *Cowboy Carter*, from 2024, made her the first Black woman with a No. 1 album on the country album chart. The album got no nominations at the Country Music Association Awards that year. It won the Grammy Awards for Album of the Year and Best Country Album on February 2, 2025.
 
-**By 2025:** Streaming made up 82 cents of every dollar that record companies took in, Latin music had its tenth record year in a row, and Taylor Swift had bought back the masters of her first six albums.
+**By 2025:** Streaming made up 82 cents of every dollar that record companies took in, Latin music's sales reached a new high for the tenth year in a row, and Taylor Swift had bought back the masters of her first six albums.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="kendrick-lamar" name="Kendrick Lamar" movie="" kind="famous" status="verified" -->
@@ -640,21 +642,17 @@ A Harris County grand jury, a group of citizens who decide whether someone shoul
 <!-- hb-zoom level="span" label="Machines that make music" -->
 Auto-Tune is a computer program that moves a singer's off-key notes onto the right pitch. The engineer Andy Hildebrand invented it, and the company Antares put it on sale on September 19, 1997. The singer Cher used it as a sound effect on her song "Believe" in 1998, the first record sold in stores to use it that way. The rapper and singer T-Pain used it that way on his 2005 album *Rappa Ternt Sanga* and after, and Kanye West used it on his 2008 album *808s & Heartbreak*.
 
-**The Universal fire.** A worker at Universal Studios Hollywood used a blowtorch to heat roof shingles on June 1, 2008, and left before they cooled. The fire that followed spread across the studio's backlot, the outdoor area of sets and storage buildings.
+**Songs made by programs.** Companies such as Suno and Udio sell computer programs that make whole songs. To train such a program, its makers feed recordings into it, and the program uses them to work out how to make new songs.
 
-Jody Rosen, a writer for the New York Times Magazine, reported in 2019 that the same fire had destroyed 118,000 to 175,000 of Universal Music Group's master tapes. He wrote that they might include records by Chuck Berry, Muddy Waters and John Coltrane. A statement from Universal Music Group said the report held "numerous inaccuracies," meaning many mistakes. The company's leaders confirmed that the masters of one Soundgarden album had burned.
+**The lawsuits.** Record companies, led by the RIAA, sued Suno and Udio in June 2024. They said the two companies had trained their programs on the record companies' recordings without permission.
 
-**Songs made by programs.** Companies such as Suno and Udio sell computer programs that make whole songs. To train such a program, its makers feed recordings into it, and the program uses them to work out how to make new songs. Record companies, led by the RIAA, sued both of them in June 2024. They said the two companies had trained their programs on the record companies' recordings without permission.
+**The settlements.** Some of the cases were settled in 2025 and 2026, which means the two sides ended them by agreement. Universal settled with Udio, and Udio's owners agreed to use only music they had permission to use. Warner and BMG settled with Suno and gave it permission to use their music.
 
-Some of the cases were settled, which means the two sides ended them by agreement. Universal settled with Udio in October 2025, and Udio's owners agreed to use only music they had permission to use. Warner settled with Suno in November 2025 and gave it permission to use Warner's music, and BMG settled in August 2026.
+**Still in court.** Universal and Sony kept suing Suno. In court papers, Suno's lawyers admitted that it had downloaded audio from YouTube. They argued that this was fair use, a use of someone else's work that the law allows in some cases.
 
-**Suno in court.** Universal and Sony kept suing Suno. In court papers, Suno's lawyers admitted that it had downloaded audio from YouTube. They argued that this was fair use, a use of someone else's work that the law allows in some cases. The songwriter Jason Isbell and three other musicians sued Suno on September 1, 2026, and asked the court to let them speak for other artists too.
+Suno put out a new version of its program in September 2026, and its makers said they trained it on music from companies that had given permission. Universal and Sony sued again that month over 60,202 recordings, saying the new version grew out of the old ones. The songwriter Jason Isbell and three other musicians sued Suno that month too, and asked to speak for other artists as well. In October a music publisher sued Suno over 1,050 songs.
 
-Suno put out a new version of its program on September 9, 2026. Suno's makers said they trained it on music from companies that had given permission, such as Warner and BMG.
-
-Universal and Sony sued Suno a second time on September 18, over 60,202 recordings. They said the new version grew out of Suno's older programs, which had used their recordings without permission. The music publisher Reservoir, a company that owns the rights to songs and collects money when people use them, sued Suno over 1,050 songs on October 21, 2026, Music Business Worldwide reported.
-
-**No final ruling.** A federal judge, Eumi Lee, turned down a request from music publishers in March 2025. They had asked her to stop the company Anthropic from using song lyrics to train its computer program while their case went on. As of October 26, 2026, no American court had given a final ruling on whether a company may train a song-making program on recordings without permission.
+**No final ruling.** A separate case is about song lyrics. In March 2025 a federal judge, Eumi Lee, turned down music publishers' request to stop the company Anthropic from using lyrics to train its computer program while that case went on. As of October 26, 2026, no American court had given a final ruling on whether a company may train a song-making program on recordings without permission.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Kennedy Center, 2025 and 2026" -->
@@ -684,7 +682,7 @@ NBC News and ABC News reported on October 1, 2026, an email in which Floca told 
 
 **She told Elvis Presley's manager no, and kept her song.**
 
-Dolly Parton wrote more than 3,000 songs, and in 1974 she refused to give Elvis Presley's manager half the rights to one of them. She started a program that mails free books to children, one a month from birth to age five. She died of cancer in Nashville on August 25, 2026, at 80.
+Dolly Parton wrote more than 3,000 songs, and in 1974 she refused to give Elvis Presley's manager half the rights to one of them. She started a program that mails free books to children, one a month from birth to age five.
 
 **The cabin.** She was the fourth of 12 children, born in a one-room cabin in Pittman Center, in Sevier County, Tennessee. Her father, Robert Lee Parton, farmed tobacco and could not read or write. He paid the doctor who delivered her with a sack of cornmeal. Her mother was Avie Lee Parton. From age six Dolly sang in her grandfather's church.
 
@@ -692,13 +690,15 @@ By ten she sang on a radio and television show in Knoxville. At 13 she made her 
 
 **Porter Wagoner.** The country singer Porter Wagoner hired her for his weekly television show in 1967. Their duets made the country Top 10 for six years in a row. From 1969 Wagoner owned nearly half of Owe-Par, the company that she and her uncle Bill Owens had started to publish her songs.
 
-Her first No. 1 single as a solo singer was "Joshua," which she wrote by herself. It reached the top of the country chart in February 1971. That same year she recorded "Coat of Many Colors," about her family's poverty. She wrote "Jolene" and "I Will Always Love You" within a few days of each other in 1973. She wrote "I Will Always Love You" as a goodbye to Wagoner, and she left his show in 1974.
+Her first No. 1 single as a solo singer was "Joshua," which she wrote by herself. It reached the top of the country chart in February 1971. That same year she recorded "Coat of Many Colors," about her family's poverty. She wrote "Jolene" and "I Will Always Love You" within a few days of each other in 1973.
+
+"I Will Always Love You" was her goodbye to Wagoner, and she left his show in 1974. The two later settled a lawsuit between them, and their 1980 album came out as part of that settlement.
 
 **Saying no.** That year Elvis Presley wanted to record "I Will Always Love You." His manager, Colonel Tom Parker, told her that the songwriter always signed over half the publishing rights, the rights to the song itself, on any song Presley recorded. She said no. Whitney Houston recorded the song in 1992, and her record sold more than 24 million copies around the world. "I made enough money to buy Graceland," Parton said later, meaning Presley's home.
 
 **Hits.** She wrote "9 to 5" for a 1980 film of the same name, in which she also acted. It reached No. 1 on the country and pop charts in February 1981. She sold more than 100 million records, had at least 25 No. 1 country songs, and won 11 Grammy Awards. She turned down the Presidential Medal of Freedom three times.
 
-**Who owned what.** Ed Christman wrote in the magazine *Billboard* in August 2026 that Parton owned her own songs for her whole career, though Wagoner owned nearly half of Owe-Par from 1969. Parton and Wagoner later settled a lawsuit between them, and their 1980 album came out as part of that settlement. Sony Music owns her recordings from her years with RCA, and probably from her Columbia years, about 23 albums in all. From 1995 she owned most of her new recordings, through her own record label.
+**Who owned what.** Ed Christman wrote in the magazine *Billboard* in August 2026 that Parton owned her own songs for her whole career. The records do not say how long Wagoner kept his share of Owe-Par, so they do not settle how that share fits with Christman's account. Her older recordings belong to Sony Music: the ones from her years with RCA, and probably from her Columbia years, about 23 albums in all. From 1995 she owned most of her new recordings, through her own record label.
 
 **Dollywood.** She became a partner in a theme park in Pigeon Forge, Tennessee, which reopened as Dollywood on May 3, 1986. It has about 4,000 to 4,500 workers, more than any other employer in Sevier County. From 2022 Dollywood paid college costs for workers who chose to go.
 
@@ -727,7 +727,7 @@ That day Representative Tim Burchett of Tennessee said, "Tennessee lost one of o
 **The three questions, answered**
 - Where did the banjo and the blues come from? The banjo came from West African instruments, and enslaved Black people played it in the colonies from at least 1736, about a hundred years before a white man played it on a stage. The blues grew out of the work songs and field calls of enslaved people and the songs of Black workers in the South after slavery, between about 1870 and 1900.
 - Why did so many musicians make hit songs and still die poor? Many were paid a set fee and no royalty, as Bessie Smith was at $125 a side, or someone else put his name on their song, as Don Robey did on "Hound Dog." Others, like Stephen Foster, sold their rights to future payments for money right away.
-- Who tried to stop people from playing their own music, and why? South Carolina lawmakers banned drums and horns in 1740, saying the sound could call enslaved people together to rise up. Spanish friars burned Pueblo masks in the 1600s, Richard Henry Pratt gave Carlisle students brass horns to stop their drumming, and federal rules from 1883 to 1978 punished Native religious dances.
+- Who tried to stop people from playing their own music, and why? South Carolina lawmakers banned drums and horns in 1740, saying the sound could call enslaved people together to rise up. Spanish friars burned Pueblo masks in the 1600s to punish Pueblo people for keeping their own religion. Richard Henry Pratt gave Carlisle students brass horns to stop their drumming, at a school whose own paper gave its aim as "the complete transformation of the Indians." Federal rules from 1883 to 1978 punished Native religious dances, which the Secretary of the Interior had called "heathenish."
 
 **What changed:** Music in this land began as songs one singer taught to the next, and by 2026 most of it reached listeners as streams that paid the owner of a recording less than half a cent a play.
 
