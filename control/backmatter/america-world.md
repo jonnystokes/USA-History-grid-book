@@ -1,0 +1,198 @@
+## Glossary
+
+- alliance: a promise to stand together against enemies (Before 1500)
+- diplomat: a person sent to speak and bargain for a nation (Before 1500)
+- Polynesians: people of the many islands of the central and southern Pacific (Before 1500)
+- treaty: a written agreement between countries (Before 1500)
+- radiocarbon dating: a way of measuring the age of old wood, bone and charcoal (Before 1500)
+- archaeologists: scientists who study the past through the things people left behind (Before 1500)
+- league: a measure of distance, 370 leagues being about 1,185 miles (Before 1500)
+- Protestants: Christians who had broken away from the Catholic Church (The 1500s)
+- inlet: a narrow arm of the sea that reaches into the land (The 1500s)
+- put to the knife: stabbed to death (The 1500s)
+- caulkers: men who sealed the seams of a ship so water could not get in (The 1500s)
+- Matanzas: the Spanish word for slaughters (The 1500s)
+- ambassador: an official sent to live in another country and speak for their own (The 1600s)
+- Parliament: England's lawmakers in London (The 1600s)
+- Navigation Acts: the laws by which members of Parliament decided what English colonists could buy and sell (The 1600s)
+- indigo: a plant used to make blue dye (The 1600s)
+- customs officers: officers who collected the taxes on goods coming in (The 1600s)
+- guilders: the Dutch money of the time (The 1600s)
+- Lenapehoking: the Lenape name for their homeland (The 1600s)
+- plantations: large farms where the planters forced enslaved people to do the work (The 1600s)
+- Haudenosaunee: a league of five Native nations in what is now New York, called the Five Nations by the English, and the Six Nations after the Tuscarora joined in about 1722 (1700 to 1750)
+- deed: a signed paper that hands over land or rights to land (1700 to 1750)
+- New France: the French colony in North America (1700 to 1750)
+- neutral: taking neither side (1700 to 1750)
+- asiento: the contract that gave British traders the only right, for thirty years, to carry enslaved Black people into Spain's colonies in the Americas and sell them there (1700 to 1750)
+- Acadia: a French colony on the Atlantic coast of what is now Canada (1700 to 1750)
+- siege: surrounding a place and cutting it off until the people inside give up (1700 to 1750)
+- Second Continental Congress: the meeting of delegates each colony chose to speak for it (1750 to 1800)
+- recognize (a country): to accept officially that it exists (1750 to 1800)
+- ratify: to give final approval (1750 to 1800)
+- commissioners: the men sent to bargain for the United States (1750 to 1800)
+- Treaty of Amity and Commerce: a treaty of friendship and trade (1750 to 1800)
+- Minister Plenipotentiary: a title meaning full power to act for one's country in another country (1750 to 1800)
+- credentials: the letters that proved an official's position (1750 to 1800)
+- Loyalists: colonists who had sided with Britain (1750 to 1800)
+- Royal Proclamation: the British king's order of 1763 that set aside much of the western land for Native nations (1750 to 1800)
+- Barbary states: Algiers, Tunis, Tripoli and Morocco, states on the coast of North Africa (1750 to 1800)
+- Dey: the ruler of Algiers (1750 to 1800)
+- consul: an official who looks after his country's trade and citizens in a foreign port (1750 to 1800)
+- bastinado: a punishment in which men threw a person down, tied him and beat the soles of his bare feet with sticks. Cathcart took 28 blows and lost four toenails (1750 to 1800)
+- plague: a disease that spread quickly and killed many people (1750 to 1800)
+- dispatches: official letters for a government (1750 to 1800)
+- privateers: privately owned armed ships with a government's permission to attack enemy ships (1750 to 1800)
+- Proclamation of Neutrality: Washington's 1793 statement that the United States would take neither side (1750 to 1800)
+- arbitration: settling a dispute by letting a neutral panel decide (1750 to 1800)
+- parallel: an east-west line on the map, such as the 31st parallel and the 49th parallel (1750 to 1800)
+- Quasi-War: the undeclared war at sea with France, 1798 to 1800, from a word meaning "almost" (1750 to 1800)
+- tribute: protection money (1800 to 1850)
+- pasha: the ruler of Tripoli (1800 to 1850)
+- envoys: men sent to bargain for their government (1800 to 1850)
+- incorporated in the Union: made part of the country (1800 to 1850)
+- immunities: the protections the law gives every citizen (1800 to 1850)
+- Secretary of State: the official who runs the country's dealings with other countries (1800 to 1850)
+- henceforth: from now on (1800 to 1850)
+- annex: to take a place and make it part of the country (1800 to 1850)
+- joint resolution: a measure passed by members of both the House and the Senate, which passes when more than half of each vote for it (1800 to 1850)
+- land grant: a legal title to land given by Spanish or Mexican officials (1800 to 1850)
+- squatters: newcomers who settled on land that was not theirs (1800 to 1850)
+- lynched: killed by a mob without any trial (1800 to 1850)
+- guano: the droppings of seabirds, which make crops grow (1850 to 1900)
+- territory: land that belongs to the United States but is not a state (1850 to 1900)
+- commodore: the navy officer in command of a group of warships (1850 to 1900)
+- convention: a written agreement between governments, such as the Convention of Kanagawa (1850 to 1900)
+- civil government: one run by elected or appointed officials outside the armed forces (1850 to 1900)
+- compensation: a payment to a dead person's family (1850 to 1900)
+- clans: large family groups (1850 to 1900)
+- oral history: accounts passed down by word of mouth (1850 to 1900)
+- haole: the Hawaiian word for white people who are not Native Hawaiian (1850 to 1900)
+- militia: a force of armed citizens (1850 to 1900)
+- bayonet: a blade fixed to the end of a rifle (1850 to 1900)
+- provisional government: a government set up for a short time until a lasting one is formed (1850 to 1900)
+- military demonstration: a show of armed force (1850 to 1900)
+- reprehensible: deserving blame (1850 to 1900)
+- misprision of treason: knowing about a plot against the government and not reporting it (1850 to 1900)
+- hard labor: forced heavy work (1850 to 1900)
+- civilians: people who were not soldiers (1850 to 1900)
+- cholera: a gut disease spread by dirty water (1850 to 1900)
+- epidemic: an outbreak of a disease (1850 to 1900)
+- reconcentration: forcing civilians out of their homes into camps or zones that soldiers guarded (1850 to 1900)
+- guerrillas: fighters in small bands who hide among the people and attack by surprise (1850 to 1900)
+- water cure: a torture in which soldiers held a prisoner's throat so he had to swallow water until it filled his stomach, then forced the water out by pressing on his stomach (1850 to 1900)
+- Katipunan: a secret society fighting Spanish rule in the Philippines (1850 to 1900)
+- tripartite: three-sided (1850 to 1900)
+- court-martial: a trial in a military court (1900 to 1950)
+- conduct to the prejudice of good order and military discipline: behaving in a way that harmed order and discipline in the armed forces (1900 to 1950)
+- justices: the judges of the Supreme Court (1900 to 1950)
+- Insular Cases: the Supreme Court decisions of 1901 to 1922 that the islands taken in 1898 belonged to the United States but were not fully part of it, insular meaning having to do with islands (1900 to 1950)
+- unincorporated territory: a place the United States owns and rules, where the people do not get the whole Constitution unless Congress chooses to give it to them (1900 to 1950)
+- draft: a law requiring young men to serve in the military (1900 to 1950)
+- American national: a person who can live in the United States and carry an American passport but is not a citizen (1900 to 1950)
+- deemed: counted (1900 to 1950)
+- occupy: to hold a country with troops and control its government (1900 to 1950)
+- Gendarmerie: the Haitian police force that Marines commanded (1900 to 1950)
+- corvée: a system of forced labor (1900 to 1950)
+- cacos: Haitian fighters who rose against the American occupation (1900 to 1950)
+- court of inquiry: a panel of officers looking into what Marines had done in Haiti (1900 to 1950)
+- gavilleros: guerrillas in the east of the Dominican Republic (1900 to 1950)
+- League of Nations: a group of countries that would settle quarrels by talking instead of fighting (1900 to 1950)
+- sterilization: operating on a woman so she can never become pregnant again. In Puerto Rico it was usually done by tubal ligation, in which a doctor cut or tied the two tubes that carry eggs from the ovaries to the womb, and in some women by hysterectomy, in which a surgeon removed the womb (1900 to 1950)
+- la operación: the Puerto Rican name for tubal ligation (1900 to 1950)
+- eugenics: a set of beliefs, now rejected, that some groups of people should be kept from having children (1900 to 1950)
+- segregation: keeping Black and white soldiers in separate units (1900 to 1950)
+- sedition: the crime of urging people to rise against the government (1900 to 1950)
+- Holocaust: the Nazis' mass murder of the Jews of Europe (1900 to 1950)
+- concentration camps: camps where soldiers held civilians under guard (1900 to 1950)
+- NATO: the North Atlantic Treaty Organization, a military alliance (1900 to 1950)
+- Cold War: the long rivalry between the United States and its allies and the Soviet Union and its allies (1950 to 2000)
+- quarantine: President Kennedy's name for stopping ships carrying weapons to Cuba (1950 to 2000)
+- Peace Corps: a program for American volunteers to serve in other countries (1950 to 2000)
+- coup: a sudden takeover of a government by a small group, often the army (1950 to 2000)
+- CIA: the Central Intelligence Agency, the American government's spy service (1950 to 2000)
+- land reform: a plan to share out farmland (1950 to 2000)
+- psychological warfare: using fear, rumors and false stories to turn people against their leaders (1950 to 2000)
+- military attaché: an officer posted to an embassy (1950 to 2000)
+- disappeared: taken by the government's forces and never seen again (1950 to 2000)
+- Commonwealth (Estado Libre Asociado): the name Puerto Rico took in 1952, under which it stayed a territory of the United States (1950 to 2000)
+- trust territory: islands one country governs for the United Nations, with a duty to look after the people (1950 to 2000)
+- atoll: a ring of small coral islands around a lagoon (1950 to 2000)
+- fallout: the radioactive dust from a nuclear blast (1950 to 2000)
+- megaton: an explosive force equal to a million tons of TNT (1950 to 2000)
+- Atomic Energy Commission: the government agency in charge of nuclear weapons (1950 to 2000)
+- thyroid: a gland in the neck (1950 to 2000)
+- Covenant: a formal agreement, such as the one between the Northern Mariana Islands and the United States (1950 to 2000)
+- conspired: plotted in secret (1950 to 2000)
+- sovereignty: the right of a people to govern themselves (1950 to 2000)
+- Article 5: NATO's promise that an attack on one member is an attack on all of them (2000 to Today)
+- weapons of mass destruction: nuclear, chemical or biological weapons (2000 to Today)
+- World Trade Organization: a group of countries that agree on rules for trade between them (2000 to Today)
+- Paris climate agreement: an agreement in which the governments that join promise to cut the gases that are warming the earth (2000 to Today)
+- Pentagon: the headquarters of the American military (2000 to Today)
+- census: the government's count of everyone who lives in the country and its territories (2000 to Today)
+- naturalization: the process a person from another country uses to become a citizen (2000 to Today)
+- Resident Commissioner: Puerto Rico's delegate in the House, who can speak and work on committees but cannot vote on whether a bill passes (2000 to Today)
+- pensions: money promised to workers after they retire (2000 to Today)
+- la junta: Puerto Ricans' name for the seven-member board, appointed in Washington under PROMESA, that has power over Puerto Rico's budget (2000 to Today)
+- only for cause: for a real reason such as wrongdoing (2000 to Today)
+- free association: being a separate country tied to the United States by a formal agreement, as the Marshall Islands are (2000 to Today)
+- Supplemental Security Income: a federal payment for people with very low incomes who are elderly, blind or disabled (2000 to Today)
+- faʻa Sāmoa: the Samoan way of life, which includes land held in common by families and the matai system of chiefs (2000 to Today)
+- ACLU: a group that defends civil rights in court (2000 to Today)
+
+## People
+
+- Kondiaronk: Huron-Wendat chief who argued for the Great Peace of Montréal while dying of a fever (1700 to 1750)
+- Benjamin Franklin: American commissioner and then minister in France, and one of the three Americans who made the peace with Britain (1750 to 1800)
+- John Adams: the first American minister to Great Britain, presented to King George III in 1785 (1750 to 1800)
+- James Leander Cathcart: American sailor enslaved in Algiers for eleven years who became the Dey's chief Christian clerk and put the 1795 treaty into English (1750 to 1800)
+- John Quincy Adams: Secretary of State who got Florida from Spain and wrote the warning now called the Monroe Doctrine (1800 to 1850)
+- Nicholas Trist: American diplomat who made peace with Mexico after President Polk ordered him home (1800 to 1850)
+- Queen Liliʻuokalani: last queen of Hawaii, overthrown with American help in 1893 and tried in her own palace in 1895 (1850 to 1900)
+- Emilio Aguinaldo: Filipino leader who declared independence from Spain and led the war against the United States (1850 to 1900)
+- Woodrow Wilson: president who proposed the League of Nations and sent the Marines into Haiti (1900 to 1950)
+- Pedro Albizu Campos: Army officer in the First World War who became the leader of the movement for Puerto Rican independence (1900 to 1950)
+- Lillian Carter: nurse from Plains, Georgia, who joined the Peace Corps at 68 and served in India (1950 to 2000)
+- John Fitisemanu: American national born in American Samoa, living in Utah, who sued to be counted a citizen from birth (2000 to Today)
+- José Luis Vaello Madero: man the United States government sued for $28,081 after he moved from New York to Puerto Rico (2000 to Today)
+
+## Dates
+
+- June 7, 1494: the rulers of Spain and Portugal split the lands across the Atlantic at Tordesillas
+- September 3, 1783: in the Treaty of Paris, British diplomats accept American independence
+- February 2, 1848: in the Treaty of Guadalupe Hidalgo, Mexican officials sign over the Southwest
+- December 10, 1898: in the Treaty of Paris, Spanish diplomats sign over Puerto Rico and Guam and sell the Philippines
+- May 27, 1901: in Downes v. Bidwell, the justices rule that Puerto Rico "belongs to, but is not a part of, the United States"
+- September 20, 1565: Menéndez's soldiers take Fort Caroline, and the Matanzas killings follow
+- August 4, 1701: Great Peace of Montréal signed
+- February 6, 1778: French and American diplomats sign the Treaty of Alliance and the Treaty of Amity and Commerce
+- April 30, 1803: Louisiana Purchase treaty signed
+- December 2, 1823: Monroe tells Europe's rulers to start no new colonies in the Americas
+- March 30, 1867: treaty to buy Alaska from Russia signed
+- January 17, 1893: Queen Liliʻuokalani overthrown with American help
+- July 7, 1898: McKinley signs the Newlands Resolution taking Hawaii
+- March 2, 1917: Jones-Shafroth Act makes Puerto Ricans American citizens
+- August 19, 1953: coup in Iran with American help
+
+## Places
+
+- ʻIolani Palace, Honolulu, Hawaii: where Queen Liliʻuokalani was tried in her throne room and held prisoner in an upstairs bedroom in 1895
+- Philadelphia Museum of Art, Philadelphia: Augustin de Saint-Aubin's 1777 engraving of Benjamin Franklin in his fur cap
+- Library of Congress (the chapter gives no city): John Adams's letter of June 3, 1785, to Thomas Jefferson about meeting King George III
+- Castle Hill, Sitka, Alaska: site of the 1867 handover of Alaska, on Tlingit land the Russians took from the Kiksadi clan in 1804
+- Matanzas Inlet, south of St. Augustine, Florida: where Menéndez's soldiers killed French prisoners in 1565
+- Bellows Beach site, Waimānalo, Oʻahu, Hawaii: the one early home site in Hawaii dated with confidence
+- Blair House, Washington, D.C.: where President Truman was living when two Nationalists attacked it in 1950
+- United States Holocaust Memorial Museum (the chapter gives no city): its count of 254 *St. Louis* passengers killed in the Holocaust
+
+## Movies
+
+- Franklin (2024): an eight-part drama series on Apple TV+ about Franklin's time in France, with Michael Douglas, based on Stacy Schiff's book *A Great Improvisation*. The box notes: "It is a drama, not a documentary."
+- Miss Lillian: More Than a President's Mother (2021): no note (a documentary directed by Vivian Winther)
+
+## Questions
+
+- Q: Who got to choose when this land and its islands changed hands? A: Almost never the people who lived there: no Native nation was at Paris in 1783, and no one from Puerto Rico, Guam or the Philippines was at Paris in 1898. Only the people of the Northern Mariana Islands voted to join.
+- Q: How did a weak new country come to rule islands and overthrow governments? A: Its leaders took land across the continent by 1848 and islands in two oceans in 1898, and after 1950 American officials secretly helped overthrow governments in Iran, Guatemala and Chile.
+- Q: Are the people of the territories American citizens? A: Most are, but people born in American Samoa are nationals, not citizens, and no one living in a territory can vote for president.
