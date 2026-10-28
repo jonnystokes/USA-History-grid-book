@@ -287,12 +287,14 @@ American officials set off 67 nuclear tests between 1946 and 1958 at Bikini and 
 The Marshall Islands and the Federated States of Micronesia became independent countries in 1986, tied to the United States by agreements called Compacts of Free Association. Palau's compact took effect in 1994.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The capital, the canal and an apology" -->
-**The capital.** Washington, D.C. is not a state either. Until 1961 the people living there could not vote for president at all, just as the people of the territories still cannot. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
+<!-- hb-zoom level="span" label="Washington, D.C., and the vote" -->
+Washington, D.C. is not a state either. Until 1961 the people living there could not vote for president at all, just as the people of the territories still cannot. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
 
 The city got back a delegate in the House in 1971, one who can speak there but cannot vote on bills. Under the Home Rule Act of 1973, its people elected their own mayor from 1975. Members of Congress passed an amendment in 1978 to give the city full seats in Congress, but lawmakers in too few states approved it, and it ran out of time in 1985.
+<!-- /hb-zoom -->
 
-**The canal.** American and Panamanian leaders signed the Torrijos-Carter Treaties on September 7, 1977. Under them, American officials handed the Panama Canal to Panama on December 31, 1999.
+<!-- hb-zoom level="span" label="The Panama Canal and an apology to Native Hawaiians" -->
+American and Panamanian leaders signed the Torrijos-Carter Treaties on September 7, 1977. Under them, American officials handed the Panama Canal to Panama on December 31, 1999.
 
 **An apology.** Members of Congress passed, and President Bill Clinton signed, the Apology Resolution, Public Law 103-150, in 1993. It is about the overthrow of the Kingdom of Hawaii a hundred years earlier. On January 17, 1893, a group of mostly American businessmen had overthrown Queen Liliʻuokalani, and John L. Stevens, the top American diplomat in Hawaii, had landed 162 American sailors and Marines to back them.
 

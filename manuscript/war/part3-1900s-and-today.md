@@ -489,8 +489,10 @@ She was an assistant secretary of Veterans Affairs from 2009 to 2011. Illinois v
 **Transgender service members.** The justices of the Supreme Court let President Donald Trump's ban on transgender service members take effect on May 6, 2025, while lawsuits went on. On June 1, 2026, judges of a federal appeals court in Washington ruled 2 to 1 that the ban likely broke the Constitution, and they blocked the discharge of the service members who had sued.
 
 A few weeks later a judge of a lower court extended that protection to all transgender troops then serving, about 4,240 people by the count of the Gender Justice League, a group that works for transgender people's rights. New people were still not allowed to join. On August 28, 2026, Justice Department lawyers asked the Supreme Court to lift the lower court's order.
+<!-- /hb-zoom -->
 
-**The Wounded Knee medals.** Twenty soldiers of the 7th Cavalry received the Medal of Honor for Wounded Knee in 1890, where soldiers of the regiment killed between 250 and 300 Lakota people, almost half of them women and children. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
+<!-- hb-zoom level="span" label="The Wounded Knee medals and the Defense Department's name" -->
+Twenty soldiers of the 7th Cavalry received the Medal of Honor for Wounded Knee in 1890, where soldiers of the regiment killed between 250 and 300 Lakota people, almost half of them women and children. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
 
 **The department's name.** President Trump signed an order on September 5, 2025, letting officials call the Defense Department the "Department of War." Members of Congress set its legal name. Members of the House voted 216 to 212 on July 22, 2026, to change the legal name, but as of late September 2026 the change had not become law.
 <!-- /hb-zoom -->

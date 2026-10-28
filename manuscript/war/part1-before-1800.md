@@ -83,16 +83,18 @@ Small Spanish armies marched into the homelands of Native nations in the 1500s, 
 Hernando de Soto landed near Tampa Bay, in Florida, in May 1539, with about 600 men, 220 horses, packs of dogs and a herd of pigs. For the next three years his army crossed the Southeast. De Soto took hostages to force the towns to let his army pass. He held the leader of the Coosa towns hostage to get through those towns, and his men ate the food the Coosa had stored.
 
 The National Park Service's page on de Soto states what his men did to towns that did not cooperate. They threw people to the dogs, setting trained attack dogs on captives to bite and tear them, often to death. They burned people alive. They raped Native people, which means they forced them to have sex. They cut off people's noses and hands, and they enslaved men and women to carry the army's loads.
-
-**The end of the march.** De Soto died of a fever on May 21, 1542. His men sank his body in the Mississippi River and hid his death, so the nations they had been fighting would not learn that he could die. In June 1543 the rest of the army went down the Mississippi in seven boats. Only 311 of the Spanish reached the Gulf of Mexico. They took enslaved Native people with them, and no one recorded how many.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How the battle at Mabila began" -->
-De Soto's army reached Mabila, a town with a palisade around it, in October 1540, a year and a half before de Soto died. The battle there began on October 18, when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila's leader was a man the Spanish called Tascalusa.
+De Soto's army reached Mabila, a town with a palisade around it, in October 1540. The battle there began on October 18, when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila's leader was a man the Spanish called Tascalusa.
 
 The battle lasted about nine hours. At the end de Soto's soldiers burned the town while people were still inside it. The army's own record-keeper wrote, "We killed them all either with fire or the sword."
 
 The counts of the dead do not agree. The National Park Service's page lists more than 200 Spanish dead and about 2,000 people of Mabila. A University of Alabama news report states about 20 Spanish killed and 250 wounded, with thousands of Mabila dead. Searchers from the University of Alabama have looked for the town, and no one has ever found where Mabila stood.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="The end of the march, 1542 and 1543" -->
+De Soto died of a fever on May 21, 1542. His men sank his body in the Mississippi River and hid his death, so the nations they had been fighting would not learn that he could die. In June 1543 the rest of the army went down the Mississippi in seven boats. Only 311 of the Spanish reached the Gulf of Mexico. They took enslaved Native people with them, and no one recorded how many.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Tiguex towns, 1540 to 1541" -->
