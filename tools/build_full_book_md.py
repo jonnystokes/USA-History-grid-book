@@ -8,6 +8,14 @@ chapter loader: the "Chapter opening" card sits under the chapter heading and th
 after the last era (see that file's docstring for the rules). Viewer markers and editor notes are dropped; era titles,
 span labels and story names become headings. A linked table of contents comes first, with explicit
 anchors so the links work in any Markdown viewer, and every chapter ends with a link back to it.
+
+Every line of a block is its own paragraph, as in the HTML (T-706): a blank line goes between two lines
+of text, between a list and the line after it, and between a record box and the line after it. So a
+Markdown viewer never joins furniture lines (an era closer's lines, a Known / Not known pair, the card's
+"Five minutes?" and "Can skip:") into one paragraph, and never pulls a "Next:" line into the last bullet.
+A "By [year]" line that opens a span is printed above the span's heading, as in the HTML. The
+front-matter tokens ({{book_words}} and the others listed in build_full_book.py) are filled in.
+tools/review_extract.py cuts this file at its "# Part N:" and "## Chapter N:" lines: keep both forms.
 """
 import re
 import sys
@@ -38,31 +46,63 @@ def tidy(lines):
     return out
 
 
+def line_kind(l):
+    if re.match(r"^(?:[-*]|\d+\.)\s+", l):
+        return "li"
+    if l.startswith(">"):
+        return ">"
+    return "p"
+
+
+def separate(lines):
+    """Every line its own paragraph: a blank line between two lines that are not both list items
+    or both record lines."""
+    out = []
+    for l in lines:
+        if out and l.strip() and out[-1].strip():
+            a, b = line_kind(out[-1]), line_kind(l)
+            if not (a == b and a in ("li", ">")):
+                out.append("")
+        out.append(l)
+    return out
+
+
+def body(lines, n):
+    return separate(tidy(shift(lines, n)))
+
+
+def matter(lines):
+    """A front or back matter section. A "## Chapter N:" heading there (the answers file's sections)
+    goes one level down, so that only the chapters themselves carry the form review_extract.py cuts at."""
+    return [re.sub(r"^## (Chapter \d+:)", r"### \1", l) for l in body(lines, 0)]
+
+
 def story(attrs, lines):
-    name, body = attrs.get("name", ""), list(lines)
-    for i, l in enumerate(body):
+    name, rest = attrs.get("name", ""), list(lines)
+    for i, l in enumerate(rest):
         if l.strip():
             h = re.match(r"^#{1,6}\s+(.*)$", l.strip())
             if h:
                 name = h.group(1).strip()
-                body = body[i + 1:]
+                rest = rest[i + 1:]
             break
     slug = attrs.get("slug", "")
-    return [f'<a id="story-{slug}"></a>', "", f"#### {name}", ""] + tidy(shift(body, 2)) + [""]
+    return [f'<a id="story-{slug}"></a>', "", f"#### {name}", ""] + body(rest, 2) + [""]
 
 
 def zoom(attrs, lines):
-    out = []
+    out, lines = [], list(lines)
     if attrs.get("level") == "span" and attrs.get("label"):
+        k = next((x for x, l in enumerate(lines) if l.strip()), None)
+        if k is not None and B.RE_BY.match(lines[k].strip()):
+            out += [lines[k].strip(), ""]       # a "By [year]" line belongs above the span (see above)
+            lines = lines[:k] + lines[k + 1:]
         out += [f"#### {attrs['label']}", ""]
-    return out + tidy(shift(lines, 2)) + [""]
+    return out + body(lines, 2) + [""]
 
 
 def build():
-    chapters, parts = B.read_registry()
-    before, after = B.load_matters()
-    for c in chapters:
-        B.load_chapter(c)
+    chapters, parts, before, after = B.prepare_book()
     md = [f"# {B.BOOK_TITLE}", "",
           f"*{len(chapters)} chapters, each told across the same ten eras*", "",
           '<a id="contents"></a>', "", "## Contents", ""]
@@ -81,7 +121,7 @@ def build():
         md += [f"**[{m['toc']}](#{m['id']})**", ""]
     md += ["", "---", ""]
     for m in before:
-        md += [f'<a id="{m["id"]}"></a>', ""] + tidy(shift(m["lines"], 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
+        md += [f'<a id="{m["id"]}"></a>', ""] + matter(m["lines"]) + ["", "[Back to contents](#contents)", "", "---", ""]
 
     last = None
     for c in chapters:
@@ -99,7 +139,7 @@ def build():
             md += zoom(c["closing"][1], c["closing"][2])
         md += ["[Back to contents](#contents)", "", "---", ""]
     for m in after:
-        md += [f'<a id="{m["id"]}"></a>', ""] + tidy(shift(m["lines"], 0)) + ["", "[Back to contents](#contents)", "", "---", ""]
+        md += [f'<a id="{m["id"]}"></a>', ""] + matter(m["lines"]) + ["", "[Back to contents](#contents)", "", "---", ""]
 
     B.OUT.mkdir(exist_ok=True)
     out = B.OUT / "history-book.md"
