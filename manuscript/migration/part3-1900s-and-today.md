@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 11 minutes**
 
-About 6 million Black Americans left the South between about 1910 and 1970 to get away from lynch mobs and Jim Crow laws, and most of the early travelers went north by train. Plains farm families moved too. In the late 1930s more than 250,000 people left the dried-out farms of the southern Plains for California.
+About 6 million Black Americans left the South between about 1910 and 1970 to get away from lynch mobs, crowds that kill a person without any trial, and from Jim Crow laws, and most of the early travelers went north by train. Plains farm families moved too. In the late 1930s more than 250,000 people left the dried-out farms of the southern Plains for California.
 
 **Forced out.** United States Army officers ordered Japanese Americans out of their homes on the West Coast in 1942. Soldiers and officials forced them into camps.
 <!-- /hb-zoom -->
@@ -24,15 +24,15 @@ About 6 million Black Americans left the South between about 1910 and 1970 to ge
 <!-- hb-zoom level="span" label="The Great Migration, the first wave" -->
 The movement of Black Americans out of the rural South from about 1910 to 1970 is called the Great Migration. The first wave, from about 1910 to 1940, went mostly to cities in the North and the Midwest. Most people rode the trains north, and later travelers also went by car and by bus.
 
-**The cities.** The Black population of Chicago grew by about 148 percent between 1910 and 1920. Philadelphia's grew by about 500 percent, and Detroit's by about 611 percent, so Detroit had about seven times as many Black residents in 1920 as in 1910. In New York City the Black population about doubled, from about 152,000 people to 328,000.
+**The cities.** Between 1910 and 1920, Chicago's Black population grew to about two and a half times its size, and Detroit's grew to about seven times. Many newcomers also went to New York, Philadelphia and Pittsburgh.
 
 About 90 percent of Black Americans lived in the South in 1900. By 1970 fewer than 55 percent did.
 
-**Why they left.** Black Georgians had several reasons to leave. The boll weevil, a beetle that eats cotton plants, and floods ruined the cotton crop in 1915 and 1916. Lynch mobs, crowds that kill a person without any trial, killed more than 450 people in Georgia between 1880 and 1930, most of them Black.
+**Why they left.** Georgia is one example. Black Georgians had several reasons to leave. The boll weevil, a beetle that eats cotton plants, and floods ruined the cotton crop in 1915 and 1916. Lynch mobs killed more than 450 people in Georgia between 1880 and 1930, most of them Black.
 
 Under Jim Crow laws, the Southern laws that kept Black people and white people apart, nearly all Black Georgians could not vote. About 74,000 Black Georgians left between 1910 and 1920, and about 260,000 more left in the 1920s.
 
-**The Chicago Defender.** Some people in the North urged Black Southerners to come. Robert S. Abbott started a Black newspaper, the *Chicago Defender*, in 1905. In its pages, job listings and train schedules ran beside editorials, articles that give a newspaper's opinion, and the editorials urged Black Southerners to come north. The *Defender* listed May 15, 1917, as the date for a "Great Northern Drive." Some Northern employers paid migrants' train fares and then took the money back out of their wages.
+**The Chicago Defender.** Black Southerners from across the South went north for jobs, and some people in the North urged them to come. Robert S. Abbott started a Black newspaper, the *Chicago Defender*, in 1905. In its pages, job listings and train schedules ran beside editorials, articles that give a newspaper's opinion, and the editorials urged Black Southerners to come north. The *Defender* listed May 15, 1917, as the date for a "Great Northern Drive." Some Northern employers paid migrants' train fares and then took the money back out of their wages.
 
 White officials in the South worked to keep Black workers from leaving. Officials in Macon, Georgia, charged Northern labor recruiters, people hired to find workers, a license fee of $25,000 for permission to work there.
 
@@ -49,9 +49,9 @@ Five days of attacks followed, through August 3. The white attackers included yo
 
 **The turkeys turned up the next day, and no one apologized.**
 
-Ida Mae Brandon Gladney and her family left Mississippi in 1937 after a group of white men beat a cousin of theirs nearly to death. The cousin, Joe Lee, had been falsely accused of stealing turkeys. The men beat him with heavy chains. The turkeys turned up the next day, and no one apologized to him. The accounts of the beating do not name the men.
+Ida Mae Brandon Gladney and her husband, George Gladney, were sharecroppers in Chickasaw County, Mississippi, farming another man's land for part of the crop. They grew cotton on the plantation of Edd Pearson, whom they called Mr. Edd.
 
-Ida Mae and her husband, George Gladney, were sharecroppers in Chickasaw County, farming another man's land for part of the crop. They grew cotton on the plantation of Edd Pearson, whom they called Mr. Edd. After the beating, George came home and told her, "This is the last crop that we're making."
+In 1937 a group of white men beat a cousin of theirs, Joe Lee, nearly to death with heavy chains. The men had falsely accused him of stealing turkeys. The accounts of the beating do not name them. After the beating, George came home and told Ida Mae, "This is the last crop that we're making."
 
 **The train north.** The cotton was picked by late October 1937, and George settled with Mr. Edd over what the year's work was worth. None of the family had ever been on a train or out of Mississippi. A brother-in-law drove Ida Mae and the two children, James and Velma, in his truck to the train station at Okolona. There they met George and rode north through the night.
 
@@ -82,9 +82,9 @@ Davis called his officers home in early April 1936. He claimed they had turned b
 
 **Lange took seven pictures of her in about ten minutes.**
 
-Florence Owens Thompson moved to California in the 1920s, years before the Dust Bowl, and worked in its fields as a farm laborer. She was born Florence Leona Christie in Indian Territory, which is now Oklahoma, and both of her parents said their families were Cherokee.
+Florence Owens Thompson was born Florence Leona Christie in Indian Territory, which is now Oklahoma, in 1903. Both of her parents said their families were Cherokee.
 
-She married Cleo Owens in 1921, and during the 1920s they moved west with several of his relatives to Oroville, California. Cleo died in 1931. In about 1933 she and her parents moved to Shafter, California, and she followed the crops from one harvest to the next.
+She married Cleo Owens in 1921, and during the 1920s, years before the Dust Bowl, they moved west with several of his relatives to Oroville, California. Cleo died in 1931. In about 1933 she and her parents moved to Shafter, California, and she worked in the fields as a farm laborer, following the crops from one harvest to the next.
 
 **Nipomo.** The timing chain in the family's car, an engine part the car could not run without, snapped on March 6, 1936. The family stopped at a camp of pea pickers near Nipomo, where freezing rain had destroyed the pea crop. The photographer Dorothea Lange took seven pictures of Thompson in about ten minutes. One of them became known as "Migrant Mother," and it became one of the most reproduced pictures of the 1930s.
 
@@ -92,7 +92,7 @@ Thompson's name was not made public until 1978, when Emmett Corrigan, a reporter
 <!-- hb-story:end slug="florence-owens-thompson" -->
 
 <!-- hb-zoom level="span" label="The forced removal of Japanese Americans, 1942" -->
-United States Army officers forced more than 110,000 Japanese Americans out of their homes on the West Coast in 1942. President Franklin D. Roosevelt signed Executive Order 9066, a rule issued by a president, on February 19, 1942. Under it, military commanders could keep "any or all persons" out of areas they named.
+United States Army officers forced more than 110,000 Japanese Americans out of their homes on the West Coast in 1942. The United States had been at war with Japan since Japanese forces attacked Pearl Harbor, in Hawaii, on December 7, 1941. President Franklin D. Roosevelt signed Executive Order 9066, a rule issued by a president, on February 19, 1942. Under it, military commanders could keep "any or all persons" out of areas they named.
 
 General John L. DeWitt commanded the Army on the West Coast. In March and April 1942 he issued orders aimed at "all persons of Japanese ancestry," meaning everyone whose family came from Japan. United States citizens and people who were not citizens were ordered out alike.
 
@@ -103,6 +103,10 @@ Under each order, the people in that area had to report on a set day, about a we
 **The camps.** Army engineers built 15 temporary camps, many of them at fairgrounds and racetracks. When people arrived, soldiers searched their bags. At the Tanforan camp in California, half of the people lived in horse stables, three to six people in a stall built for one horse.
 
 After about three months, on average, officials moved them again, to 10 larger camps run by officials of a federal office called the War Relocation Authority. Staff at the National Archives count about 120,000 people removed in all, a larger total than the count for the 108 orders alone.
+
+**The end.** None of the people removed was charged with a crime or tried. Officials lifted the order that kept Japanese Americans off the West Coast on January 2, 1945, and they closed Tule Lake, the last camp, on March 20, 1946.
+
+In 1983 the members of a federal commission that studied the removal found that its causes were "race prejudice, war hysteria and a failure of political leadership." Under the Civil Liberties Act, which President Ronald Reagan signed in 1988, each surviving person who had been held received a written apology and $20,000.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="george-swanson-starling" name="George Swanson Starling" movie="" kind="ordinary" status="verified" -->
@@ -113,13 +117,11 @@ After about three months, on average, officials moved them again, to 10 larger c
 
 **For asking ten cents more a box, grove owners plotted to hang him.**
 
-George Swanson Starling fled Florida on April 14, 1945, because the owners of the citrus groves where he worked were plotting to kill him.
+George Swanson Starling grew up in Eustis, in Lake County, Florida. He finished first in his high school class and went to Florida Agricultural and Mechanical State College in Tallahassee. In the middle of his second year, his father told him he had had enough schooling and must go to work.
 
-Starling grew up in Eustis, in Lake County, Florida. He finished first in his high school class and went to Florida Agricultural and Mechanical State College in Tallahassee. In the middle of his second year, his father told him he had had enough schooling and must go to work.
+**The groves.** Starling went to work picking citrus fruit. The pickers climbed trees as tall as 40 feet, and some fell and broke arms or legs. Starling organized the pickers to ask for better pay. In one dispute, the packing house, where the fruit was packed for sale, would pay the pickers ten cents for each box of tangerines. The pickers asked for twenty cents. At auction in 1944, tangerines sold for an average of $4.40 a box.
 
-**The groves.** Starling went to work picking citrus fruit. The pickers climbed trees as tall as 40 feet, and some fell and broke arms or legs. Starling organized the pickers to ask for about 10 cents more a box. In one dispute the price at the packing house, where the fruit was packed for sale, was ten cents a box for picking tangerines, and the pickers asked for twenty. Tangerines sold at auction for an average of $4.40 a box in 1944.
-
-**The plot.** The grove owners were angry. Someone overheard them planning to take Starling and two other pickers out to the cypress swamps at Blackwater Creek and hang them. Starling left within days. A man named Roscoe Colton drove him in his truck to the train station in Wildwood.
+**The plot.** The grove owners were angry. Someone overheard them planning to take Starling and two other pickers out to the cypress swamps at Blackwater Creek and hang them. Starling left within days, on April 14, 1945. A man named Roscoe Colton drove him in his truck to the train station in Wildwood.
 
 There Starling boarded the Silver Meteor, a train to New York. He rode in the Jim Crow car, the car set aside for Black passengers, where luggage was also stored. The ride took 23 hours. His wife, Inez, stayed behind until he could send for her.
 
@@ -131,7 +133,7 @@ Starling settled in Harlem, where an aunt and many of his friends lived. He late
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 4 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 5 minutes**
 
 Americans moved south and west after 1950, toward jobs, warmer weather and cheaper land. The population of the South grew by about 36 percent between 1970 and 1990, and the population of the West by about 51 percent. In the second wave of the Great Migration, many Black Southerners moved to cities on the West Coast. Federal officials paid for Native people to move from reservations to cities.
 
@@ -150,7 +152,7 @@ The second wave of the Great Migration lasted from about 1940 to 1970, and it wa
 
 **Motel clerks in Arizona turned him away under "vacancy" signs.**
 
-Robert Joseph Pershing Foster drove from Louisiana to California in 1953 because he could not work as a surgeon at home. He had served as a surgeon in the Army. Back in Monroe, Louisiana, he found that the people who ran St. Francis Hospital there would not let Black doctors do even a simple operation to take out a patient's tonsils. Isabel Wilkerson traced his trip in *The Warmth of Other Suns*.
+Robert Joseph Pershing Foster had served as a surgeon in the Army. Back home in Monroe, Louisiana, he found that the people who ran St. Francis Hospital there would not let Black doctors do even a simple operation to take out a patient's tonsils. Isabel Wilkerson traced his trip in *The Warmth of Other Suns*.
 
 **The drive.** Foster set out alone on Easter Monday, April 6, 1953, in his 1949 Buick Roadmaster, a dark red car with white-walled tires. He planned to send for his family once he was settled. Once he was long past Texas, he thought he was a safe distance from the South.
 
@@ -170,9 +172,9 @@ The South grew by about 36 percent between 1970 and 1990, and the West by about 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Federal officials move Native families to cities" -->
-Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956.
+Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956. It ran in the same years as termination, a policy that members of Congress declared on August 1, 1953, to end the government's recognition of Native nations and the services that came with it.
 
-The officials gave people one-way tickets to a city and help for a short time after they arrived. About 30,000 Native people moved to cities in the 1950s, and more than 100,000 had moved by the time the program ended in the 1970s. They went to Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, Denver and other cities. Many of them lived in poverty there. They also built new Native communities in those cities.
+The officials promised people one-way tickets to a city and help for a short time after they arrived. About 30,000 Native people moved to cities in the 1950s, and more than 100,000 had moved by the time the program ended in the 1970s. They went to Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, Denver and other cities. Many of them lived in poverty there. They also built new Native communities in those cities.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="When did the Great Migration turn around?" -->
@@ -228,15 +230,15 @@ Gretna Police Chief Arthur Lawson made the decision together with officials of t
 
 **She filmed the Katrina flood on a $20 camcorder.**
 
-Kimberly Rivers Roberts and her husband, Scott Roberts, were still in their New Orleans neighborhood when Katrina's flood came, because someone had recently stolen their car. "If I had wheels I'd be gone too," she told a neighbor. She began filming on August 28, 2005.
+Kimberly Rivers Roberts and her husband, Scott Roberts, were still in their New Orleans neighborhood when Katrina's flood came, because someone had recently stolen their car. "If I had wheels I'd be gone too," she told a neighbor. She began filming on August 28, 2005, two days before the storm reached the city, with a camcorder she had bought for $20.
 
 As the water rose, the couple and their neighbors climbed into an attic. They called 911 and heard that police would not come until conditions got better. A neighbor floated people to safety on a punching bag.
 
 **The Navy base.** Afterward the group tried to take shelter at a Navy base that stood nearly empty. The couple's film shows men at the gate turning them away at gunpoint, and a voice says, "Get off our property, or we're going to start shooting." Navy officials deny that this happened. The accounts of the film do not name the men at the gate.
 
-Kimberly's grandmother died in a hospital that was not emptied of its patients, and her uncle was later found dead in his home. The accounts do not say who decided to leave the hospital's patients there, and they do not state the cause of either death.
+Kimberly's grandmother died in a hospital that was not emptied of its patients, and one of her uncles, called Uncle Ned in the film, was later found dead in his home. The accounts do not say who decided to leave the hospital's patients there, and they do not state the cause of either death.
 
-The couple went to a Red Cross shelter in Alexandria, Louisiana, then to her uncle's trailer in northern Louisiana. Next they moved to Memphis, Tennessee, to stay with one of Kimberly's cousins and try to start over. They waited for a promised check from FEMA, the federal office for disaster help, but it did not arrive, and they had a hard time settling in a new city.
+The couple went to a Red Cross shelter in Alexandria, Louisiana, then to the trailer of another uncle, in northern Louisiana. Next they moved to Memphis, Tennessee, to stay with one of Kimberly's cousins and try to start over. They waited for a promised check from FEMA, the federal office for disaster help, but it did not arrive, and they had a hard time settling in a new city.
 
 **Home.** Kimberly and Scott went back to their home in the Ninth Ward and set out to rebuild it. Scott got a job with a builder repairing houses that the flood had ruined. Kimberly started her own record label, Born Hustler Records.
 <!-- hb-story:end slug="kimberly-rivers-roberts" -->
@@ -253,7 +255,7 @@ Puerto Rico is a territory of the United States, land that belongs to the countr
 **The three questions, answered**
 - How did horses reach the Native nations of the Plains? In the older account, horses spread north through trade after the Pueblo Revolt of 1680, when the Spanish left perhaps more than 1,500 of them behind. A 2023 study of horse bones found that many nations had horses by the early 1600s, decades earlier, as the nations' own histories say.
 - How many Cherokee died when soldiers forced them west? Nobody knows exactly. The count most often given is about 4,000, and estimates run from more than 1,000 on the journey itself to about 8,000 or more.
-- Why did about 6 million Black Americans leave the South between 1910 and 1970? They left lynch mobs, Jim Crow laws and cotton crops ruined by the boll weevil and floods, and they went toward jobs in Northern and Western cities. In Georgia alone, lynch mobs killed more than 450 people between 1880 and 1930, and nearly all Black Georgians could not vote.
+- Why did about 6 million Black Americans leave the South between 1910 and 1970? They left lynch mobs, Jim Crow laws and cotton crops ruined by the boll weevil and floods, and they went toward jobs in Northern and Western cities. In Georgia, one example, lynch mobs killed more than 450 people between 1880 and 1930, and nearly all Black Georgians could not vote.
 
 **What changed:** Before 1900 most of the moves in this chapter went west onto Native land, many of them forced, and after 1900 millions of Black Southerners went north, until the flow began turning back toward the South in the 1970s.
 

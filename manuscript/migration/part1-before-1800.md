@@ -14,9 +14,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 5 of 37 · Migration Across America · 10 eras · about 75 minutes**
+**Chapter 5 of 37 · Migration Across America · 10 eras · about 80 minutes**
 
-**Many of the biggest moves across this land were forced: soldiers marched whole nations west, slave traders marched more than a million people south, and about 6 million Black Southerners went north to get away from lynch mobs and Jim Crow laws, the laws that kept Black and white people apart.**
+**Many of the biggest moves across this land were forced or driven. Soldiers marched whole nations west, and slave traders and enslavers forced more than a million enslaved people south. Later, about 6 million Black Southerners went north to get away from mob killings and from Jim Crow laws, the laws that kept Black and white people apart.**
 
 In about 1805, in Maryland, a slave trader from Georgia locked an iron collar around the neck of a man named Charles Ball. A padlock fastened the collar to a chain about 100 feet long. Fifty-one other people were locked to the same chain, and the trader handcuffed the men in pairs. He had just bought Ball away from his wife and children. The line of people walked south for more than a month, to Columbia, South Carolina.
 
@@ -27,12 +27,12 @@ This chapter follows people moving across the land that became the United States
 - How many Cherokee died when soldiers forced them west?
 - Why did about 6 million Black Americans leave the South between 1910 and 1970?
 
-**Five minutes?** Read "Indian removal and the Trail of Tears" in 1800 to 1850.
+**Five minutes?** Read "Indian removal and the Trail of Tears" in 1800 to 1850, the Rebecca Neugin story after it, and the next section, "The overland trails."
 **Can skip:** "Seasonal rounds and trade paths", "The cattle drives", "The frontier line disappears from the census, 1890". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 People were moving across this land for thousands of years before any European saw it. The first people came on foot from Asia during the ice age, and their descendants kept moving. Some built towns and later left them. Some nations traveled south over a long time, and many families moved with the seasons to hunt, fish and gather food.
 
@@ -105,7 +105,7 @@ Oñate sent Zaldívar's brother, Vicente de Zaldívar, with about seventy soldie
 
 Nobody counted the Acoma dead at the time. Estimates run from about 300 to about 1,500. The number given most often is about 800, which Pueblo leaders gave in a 2023 statement from the All Pueblo Council of Governors, the governors who lead the 20 Pueblo nations of New Mexico and Texas.
 
-**The sentences.** The soldiers captured about 500 people. In February 1599 Oñate sentenced the men over 25 to have a foot cut off and to twenty years of forced work as slaves. He sentenced boys and men from 12 to 25, and girls and women over 12, to twenty years as slaves as well. He ordered the children under 12 taken from their families and given to the friars.
+**The sentences.** The soldiers captured about 500 people. In February 1599 Oñate sentenced them in four groups. Each man over 25 was to have a foot cut off and do twenty years of forced work as a slave. Boys and men from 12 to 25 got twenty years as slaves. Girls and women over 12 got the same twenty years. Children under 12 were to be taken from their families and given to the friars.
 
 The Acoma's own account, passed down since 1599, gives the number of men whose feet were cut off as 24, and so do news reports. Reporters for AP and NPR, and Pueblo leaders, say it was the right foot. Two historians, Marc Simmons and John Kessell, doubt that the feet were ever cut off. Simmons had once written that they were.
 
@@ -127,11 +127,11 @@ Along the Atlantic coast, English, Dutch and other colonists settled at places l
 <!-- hb-zoom level="span" label="How did horses spread to the Plains nations?" -->
 Two accounts explain how horses spread, and the timing is still not settled. In the older account, horses passed north through trade after the Pueblo Revolt of 1680. In the newer one, many nations already had horses by the early 1600s.
 
-**The older account.** It starts with the Spanish governor of New Mexico, Juan Francisco Treviño. In 1675 he ordered the arrest of 47 Pueblo medicine men, who were religious leaders, on a charge of sorcery, or witchcraft. Spanish officials sentenced four of them to be hanged. They hanged three, and the fourth killed himself. Treviño's men whipped the others in public and put them in prison.
+**The older account.** In this account, Pueblo peoples drove the Spanish out of New Mexico in 1680, and the Spanish left their horses behind. The trouble began with the Spanish governor of New Mexico, Juan Francisco Treviño. In 1675 he ordered the arrest of 47 Pueblo medicine men, who were religious leaders, on a charge of sorcery, or witchcraft. Spanish officials sentenced four of them to be hanged. They hanged three, and the fourth killed himself. Treviño's men whipped the others in public and put them in prison.
 
 Pueblo people went to Santa Fe and demanded that the prisoners be let go, and the Spanish freed them. One of the freed men was Popé, a religious leader of the Tewa, one of the Pueblo peoples. In 1680 Popé led the Pueblo peoples of what is now New Mexico in a rising against Spanish rule. They killed about 400 Spaniards and drove the rest out of New Mexico for more than a decade.
 
-The Spanish left behind large numbers of horses, perhaps more than 1,500, the largest number of horses to pass into Native hands at one time. In the older account, these horses then moved north and east through trade. The Ute, Navajo and Apache got them first, and then the Comanche, Kiowa and Shoshone. Over the next few decades horses reached the nations of the northern Plains, among them the Lakota, Crow, Cheyenne, Blackfoot and Nez Perce.
+The horses the Spanish left behind, perhaps more than 1,500, were the largest number of horses to pass into Native hands at one time. In the older account, these horses then moved north and east through trade. The Ute, Navajo and Apache got them first. Over the next few decades horses reached many other nations, as far as the northern Plains.
 
 **The newer account.** It comes from a study published in the journal *Science* in 2023. The archaeologist William Taylor, a scientist who studies the past through the things people left behind, led it, working with Lakota, Comanche, Pawnee and other Native partners. The team tested horse bones from Kansas, New Mexico and Wyoming to find their age. Some dated from the 1500s and 1600s.
 
@@ -141,7 +141,7 @@ Over the next century, horses changed how the Comanche, Lakota, Cheyenne and the
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first colonial moves inland" -->
-Two English ministers moved out of the colony of Massachusetts Bay in 1636 and started new towns in what are now Connecticut and Rhode Island. Thomas Hooker chose to go. He led about 100 members of his church west to the Connecticut River.
+Two English ministers moved out of the colony of Massachusetts Bay in 1636 and started new towns in what are now Connecticut and Rhode Island. Thomas Hooker chose to go, and his story follows this section.
 
 **Roger Williams.** The other minister did not choose. The leaders of Massachusetts ordered Roger Williams out of the colony for what he preached: he taught that the government should not force religious beliefs on people. He fled in the winter rather than be sent back to England, and Wampanoag people helped him survive.
 
@@ -156,7 +156,7 @@ With help from Wampanoag and Narragansett people, Williams then traveled by cano
 
 **His church walked for two weeks, living partly on milk from 160 cows.**
 
-Thomas Hooker was the pastor of the church at Newtown, the town that is now Cambridge, Massachusetts. He led about 100 members of his church west to the Connecticut River in May and June of 1636. The walk took about two weeks.
+Thomas Hooker was the pastor of the church at Newtown, the town that is now Cambridge, Massachusetts. His church set out on foot for the Connecticut River in May 1636.
 
 They drove 160 cattle with them and lived partly on the cows' milk. They followed Native trails, a route later called the Old Connecticut Path. John Winthrop, a leader of Massachusetts Bay, wrote about the departure in his journal on May 31, 1636: "Mr. Hooker, pastor of the church of Newtown, and most of his congregation (the people of his church), went to Connecticut." Winthrop also noted that Hooker's wife rode on a horse litter, a stretcher carried by horses.
 
@@ -182,11 +182,13 @@ Native nations were moving too. After a war with colonists in North Carolina, th
 <!-- hb-zoom level="span" label="Who traveled the Great Wagon Road?" -->
 Many of the families on the Great Wagon Road were German or Scots-Irish. The road ran about 730 miles into the backcountry. It started in Philadelphia and went southwest through the Shenandoah Valley of Virginia. Then it ran down through the hill country of the Carolinas, called the Piedmont, toward Augusta, Georgia. Heavy traffic began in the 1720s.
 
-Both groups had come to Pennsylvania and found land there too costly. The Scots-Irish were Protestants, Christians whose churches had split from the Catholic Church. Their families had moved from Scotland to the north of Ireland in the 1600s and then on to America. The Germans were called the "Pennsylvania Dutch," from *Deutsch*, the German word for German. Moravians, members of a Protestant church from central Europe, came along the road as well.
+Both groups had come to Pennsylvania. By the time of the Wagon Road, land there had grown costly, so many families moved on. The Scots-Irish were Protestants, Christians whose churches had split from the Catholic Church. Their families had moved from Scotland to the north of Ireland in the 1600s and then on to America. The Germans were called the "Pennsylvania Dutch," from *Deutsch*, the German word for German. Moravians, members of a Protestant church from central Europe, came along the road as well.
 
-**An older path.** The road followed a Native path that colonists called the "Indian Road." When settlers began arriving in the Shenandoah Valley in about 1729, most of the people living near the present-day town of Winchester, Virginia, were Shawnee. Iroquois, Delaware and Conoy people also used the valley. The Iroquois were the Haudenosaunee, a league of six nations, also called the Six Nations. The valley's north-south trail was a war path between the Seneca and Delaware nations to the north and the Catawba nation to the south.
+**An older path.** The road followed a Native path that colonists called the "Indian Road." When settlers began arriving in the Shenandoah Valley in about 1729, most of the people living near the present-day town of Winchester, Virginia, were Shawnee. Other nations used the valley too, among them the Iroquois, a league of six nations also called the Six Nations or the Haudenosaunee. The valley's north-south trail was a war path between nations to the north and the Catawba nation to the south.
 
-**The Treaty of Lancaster.** Officials sent by Virginia's governor, William Gooch, met Six Nations leaders at Lancaster, Pennsylvania, in 1744. In the treaty they signed there, a written agreement between nations, Gooch's officials bought the Six Nations' claim to the valley, meaning their right to the land. Colonists also got the right to use the Indian Road. Accounts of how much the officials paid do not agree. Even more settlers traveled the road after 1744.
+**The Treaty of Lancaster.** Officials sent by Virginia's governor, William Gooch, met Iroquois leaders at Lancaster, Pennsylvania, in 1744. In the treaty they signed there, a written agreement between nations, Gooch's officials bought the Iroquois claim to the valley, meaning their right to the land. Colonists also got the right to use the Indian Road. Accounts of how much the officials paid do not agree.
+
+The Native delegates at Lancaster came from five nations of the Iroquois league, the West Virginia Encyclopedia states. None came from the Shawnee, who lived in the valley. Even more settlers traveled the road after 1744.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why did the Tuscarora walk north?" -->
@@ -212,7 +214,7 @@ Apache groups were already living on the southern Plains. The Handbook of Texas,
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
 Crowds of American settlers crossed the Appalachian Mountains for the first time in these fifty years, onto land that belonged to Native nations. As many as 300,000 went through the Cumberland Gap into Kentucky and beyond between 1775 and about 1810. After the Revolutionary War ended in 1783, more settlers moved into the Ohio Valley. Members of Congress passed two laws, in 1785 and 1787, that set out how western land would be measured, sold and governed.
 
@@ -232,9 +234,9 @@ Winslow wrote that the order was "very disagreeable to my nature," but that his 
 
 **The plan.** Charles Morris, a New Englander, drew up the plan. Soldiers would surround the churches on a Sunday morning and capture as many men as they could. Then they would break the earth walls that kept the sea off the Acadians' fields, and burn their houses and crops.
 
-New England and British soldiers did burn many Acadian houses, barns and churches that year. Around the Minas Basin, where Grand-Pré stands, they set fire to about 700 houses, barns and other buildings. Winslow kept his own list of what the soldiers under him burned there by November 1755: 255 houses, 276 barns, 155 smaller farm buildings, 11 mills and one Catholic church, 698 buildings in all.
+New England and British soldiers did burn many Acadian houses, barns and churches that year. Around the Minas Basin, where Grand-Pré stands, Winslow's own list records 698 buildings that the soldiers under him burned by November 1755, most of them houses and barns, and one Catholic church.
 
-**The ships.** When the men refused to go, the soldiers threatened their families with bayonets, blades fixed to the ends of their guns. By the fall of 1755, soldiers had put about 1,100 Acadians on ships bound for South Carolina, Georgia and Pennsylvania, the historian James H. Marsh writes. Winslow's own table counts the people shipped from the Minas district alone, to all places: 2,242 in all, 1,510 of them by his men and 732 by a second company.
+**The ships.** When the men refused to go, the soldiers threatened their families with bayonets, blades fixed to the ends of their guns. By the fall of 1755, soldiers had put about 1,100 Acadians on ships bound for three colonies, South Carolina, Georgia and Pennsylvania, the historian James H. Marsh writes. That count includes only the people on ships for those three colonies. Winslow's own table records everyone shipped from the Minas district alone, to all places: 2,242 people, 1,510 of them by his men and 732 by a second company.
 
 British officers and soldiers kept removing Acadians until 1764. One count gives about 10,000 Acadians forced out between 1755 and 1763, and another gives about 11,500 between 1755 and 1764. British ships carried them to the thirteen colonies, to England and to France. Many Acadians escaped into the forests, and British soldiers hunted them for the next five years. In French the forced removal is called *Le Grand Dérangement*, the great upheaval.
 

@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
 
 The great wave of newcomers peaked in the early 1900s, and then members of Congress cut it down with quota laws, laws that fixed how many people could come from each country. Officials at Ellis Island admitted 1,004,756 people in 1907 alone. Under the 1924 law, no more than about 165,000 immigrants could come each year, and almost no one from Asia could come at all. On the West Coast, officials at Angel Island held Chinese arrivals anywhere from a few days to many months.
 
@@ -34,11 +34,9 @@ Ellis Island's busiest year was 1907. Officials there admitted 1,004,756 immigra
 
 **He crossed in steerage and rode a train across the whole country.**
 
-Frank Capra came to the United States from Sicily in 1903 as a young boy. As a grown man he directed films, and in the 1930s he won three Academy Awards as best director.
+Frank Capra was born Francesco Rosario Capra in the town of Bisacquino, in Sicily, an island that belongs to Italy. His family crossed the Atlantic on the ship *Germania*. They traveled in steerage, the cheapest space on a ship, below the decks. They passed through Ellis Island and then rode a train across the whole country to Los Angeles.
 
-He was born Francesco Rosario Capra in the town of Bisacquino, in Sicily, an island that belongs to Italy. His family crossed the Atlantic on the ship *Germania*. They traveled in steerage, the cheapest space on a ship, below the decks. They passed through Ellis Island and then rode a train across the whole country to Los Angeles.
-
-He made the film *It's a Wonderful Life* in 1946.
+As a grown man he directed films. He won his three Academy Awards as best director in the 1930s, and he made the film *It's a Wonderful Life* in 1946.
 <!-- hb-story:end slug="frank-capra" -->
 
 <!-- hb-story:start slug="doukenie-bacos" name="Doukenie Bacos" movie="" kind="ordinary" status="verified" -->
@@ -49,13 +47,13 @@ He made the film *It's a Wonderful Life* in 1946.
 
 **She thought of jumping into the water rather than be sent home.**
 
-Doukenie Bacos reached Ellis Island at the age of 16. She was traveling underage, younger than an adult, and she was afraid the officials would send her home.
+Doukenie Bacos was born to a Greek family in Thrace, a region of southeastern Europe now divided among Greece, Turkey and Bulgaria. She was 16 when she sailed from Piraeus, the port city of Athens, on the ship *King Alexander* on December 22, 1920. She was traveling underage, younger than an adult, to join her uncle in America.
 
-Her full name was Doukenie Babayanie Bacos. She was born to a Greek family in Thrace, a region of southeastern Europe now divided among Greece, Turkey and Bulgaria. She sailed on the ship *King Alexander* from Piraeus, the port city of Athens, on December 22, 1920, and reached Ellis Island on January 5, 1921. Some records give 1919 as the year she left, and National Park Service staff marked that year as a mistake.
+**Three days.** She reached Ellis Island on January 5, 1921, and officials held her there for three days. Her uncle was a bachelor, a man who had never married. The officials would not hand a girl her age to a bachelor alone, so he had to find a family for her to live with. She was afraid they would send her back, and she later said she had thought of jumping into the water rather than be sent home.
 
-**Three days.** Officials at Ellis Island held her for three days. Her uncle was a bachelor, a man who had never married. The officials would not hand a girl her age to a bachelor alone, so he had to find a family for her to live with. She was afraid they would send her back, and she later said she had thought of jumping into the water rather than be sent home.
+On the third day the officials let her go. That night her uncle came with a woman from the family he had found. "This is your aunt," he told her, and Doukenie went to live with that family.
 
-On the third day the officials let her go. That night her uncle came with a woman he called her "aunt," and Doukenie went to live with that family. She told her story to the Ellis Island Oral History Project, which records interviews with people who came through the island, in 1991. Her interview is number 49 in its EI series.
+Her full name was Doukenie Babayanie Bacos. She told her story to the Ellis Island Oral History Project, which records interviews with people who came through the island, in 1991. Her interview is number 49 in its EI series. Some records give 1919 as the year she left Greece, and National Park Service staff marked that year as a mistake.
 <!-- hb-story:end slug="doukenie-bacos" -->
 
 <!-- hb-zoom level="span" label="Angel Island" -->
@@ -67,11 +65,11 @@ Station officials kept the detainees, the people being held, locked in crowded d
 
 **The doctors.** Doctors from the Public Health Service examined the arrivals. They turned people's eyelids inside out to look for trachoma, an eye infection that can cause blindness. They took samples of blood, spit, urine or stool, which means bowel movements, and they tested Asian arrivals for worms that live inside the body, such as hookworm. When officials doubted a person's age, doctors made the person strip naked. The doctors then examined the person's hair, skin, teeth, voice and genitals, the private parts of the body.
 
-**Paper sons.** Under the exclusion laws, most Chinese people could get in only by showing a family tie to a US citizen. Some claimed a tie that was false. They were called "paper sons" and "paper daughters," because the family tie existed only on paper.
+**Paper sons.** Chinese Americans born in the United States were citizens, as the Supreme Court had ruled in 1898. Under the exclusion laws, most other Chinese people could get in only by showing a family tie to a citizen. Some claimed a tie that was false. They were called "paper sons" and "paper daughters," because the family tie existed only on paper.
 
 To catch them, a group of officials called a Board of Special Inquiry questioned each Chinese applicant about home villages and relatives. The board was made up of two inspectors, a translator and a stenographer, a clerk who wrote down every word. One inspector said in 1934 that "well over ninety percent" of his time went to questioning arriving Chinese people.
 
-Some detainees killed themselves. The historian Judy Yung said in 2026 that a few were driven to it, most of them by hanging themselves in the bathrooms. She gave no names and no count.
+A few detainees killed themselves, most of them by hanging themselves in the bathrooms. The historian Judy Yung, who gave this account in 2026, said they were "driven to suicide." She gave no names and no count.
 
 **The poems.** Detainees carved poems into the wooden walls of the barracks where they were held. The poems were almost lost before a park ranger, Alexander Weiss, found them in 1970, and then they were saved.
 
@@ -86,9 +84,9 @@ Counts of the Chinese people who passed through the station differ. One count is
 
 **Inspectors asked her about 170 questions, then sent her back.**
 
-Officials held Lee Puey You on Angel Island for about 20 months, one of the longest stays known for a Chinese detainee. Then they refused to let her in and deported her, which means they forced her to leave the country.
+Lee Puey You arrived at Angel Island in 1939 as a "paper daughter," and inspectors asked her about 170 questions. Officials held her there for about 20 months, one of the longest stays known for a Chinese detainee.
 
-She arrived in 1939 as a "paper daughter," and inspectors asked her about 170 questions. Officials sent her back to China in November 1940. She later said she "cried a bowlful of tears."
+In November 1940 they refused to let her in and deported her, which means they forced her to leave the country. She later said she "cried a bowlful of tears."
 
 Members of Congress canceled the Chinese Exclusion Act in 1943. Lee Puey You came back to the United States in 1947 as a war bride, a woman engaged or married to a man who served in the war. She married and settled in San Francisco. Judy Yung later wrote about her in an article called "A Bowlful of Tears Revisited."
 <!-- hb-story:end slug="lee-puey-you" -->
@@ -100,7 +98,7 @@ The Emergency Quota Act of 1921 was the first law to put number limits on immigr
 
 Under the 1924 law, each country's quota was 2 percent of the people born there who lived in the United States in 1890. Lawmakers picked 1890 because it came before the large wave from southern and eastern Europe. Italy's yearly quota fell from more than 42,000 to fewer than 6,000.
 
-**Asia shut out.** Lawmakers also shut out anyone "ineligible for citizenship," meaning anyone who could not become a citizen under US law. At that time the law let only white people and people of African birth or descent become citizens. In 1922 and 1923 the justices, the judges of the Supreme Court, ruled that immigrants from Japan and from India could not count as white. Under that rule, almost no one from Asia could come in.
+**Asia shut out.** Lawmakers also shut out anyone "ineligible for citizenship," meaning anyone who could not become a citizen under US law. At that time the law let only white people and people of African birth or descent become citizens. Members of Congress had added people of African birth or descent in 1870, five years after the Civil War, and left Asian immigrants out. In 1922 and 1923 the justices, the judges of the Supreme Court, ruled that immigrants from Japan and from India could not count as white. Under that rule, almost no one from Asia could come in.
 
 Lawmakers capped the total at about 165,000 people a year, down from about 355,000 under the 1921 law. About 86 of every 100 quota places went to northern and western Europe, and about 9 went to southern and eastern Europe. Under those limits, the great rush of newcomers from Europe came to an end.
 
@@ -114,15 +112,19 @@ The men who shaped the 1924 law argued for it with eugenics. Eugenics was a fals
 
 Laughlin claimed that immigrants from southern and eastern Europe, mainly Italians and Jews, had higher rates of "feeblemindedness, insanity, criminality, and dependency." Those were old words for low intelligence, mental illness, crime and needing public charity. He said that too many of the people in mental hospitals came from southern and eastern Europe. His own figures showed high rates for German and Irish immigrants as well.
 
-Laughlin also wrote a model law, a sample law for lawmakers to copy, for forced sterilization in 1922. Sterilization is an operation after which a person can never have a baby. For a woman, a doctor cut or tied the two tubes that carry eggs from the ovaries to the womb, or cut out a piece of each tube, so that no egg could reach the womb again. For a man, a doctor cut the tubes that carry sperm. The operation could not be undone.
+**Madison Grant.** Madison Grant was a New York lawyer. In 1916 he wrote a book called *The Passing of the Great Race*. In it he claimed that a "Nordic race" from northwestern Europe was better than all other people. Grant helped Johnson write the 1924 law. Adolf Hitler, who later ruled Germany, wrote to Grant and called the book his "Bible."
+
+**At home.** Laughlin also turned eugenics against Americans already living here. In 1922 he wrote a model law, a sample law for lawmakers to copy, for forced sterilization.
+
+Sterilization is an operation after which a person can never have a baby. For a woman, a doctor cut or tied the two tubes that carry eggs from the ovaries to the womb, or cut out a piece of each tube, so that no egg could reach the womb again. For a man, a doctor cut the tubes that carry sperm. The operation could not be undone.
 
 In part because of Laughlin's work, lawmakers in dozens of states passed laws that let officials force people to be sterilized against their will. By the 1960s doctors in the United States had sterilized more than 62,000 people this way, about 60 out of every 100 of them women.
 
-**Carrie Buck.** On May 2, 1927, in the case Buck v. Bell, the justices of the Supreme Court ruled 8 to 1 that Virginia officials could sterilize Carrie Buck, a Virginia woman, against her will. On October 19, 1927, Dr. John H. Bell cut out a piece of each of her tubes.
+**Carrie Buck.** Carrie Buck grew up with foster parents in Charlottesville, Virginia. In 1923 she became pregnant, by her own account because the foster parents' nephew raped her. The foster parents took the pregnancy as proof that she was "feebleminded" and had her sent to a Virginia state colony for people called feebleminded. The colony's head, Dr. Albert Priddy, picked her for a court case that would test whether Virginia's new sterilization law was allowed.
 
-**In Germany.** In 1933 the Nazis, the party of Adolf Hitler that then ruled Germany, passed a forced sterilization law based in part on the American practice. Under it, special courts of a judge and two doctors decided each case, and an approved doctor did the operation. About 400,000 people in Nazi Germany were sterilized this way. In 1936 leaders of the University of Heidelberg, in Germany, gave Laughlin an honorary degree, a degree given as an honor instead of for study.
+On May 2, 1927, in the case Buck v. Bell, the justices of the Supreme Court ruled 8 to 1 that Virginia officials could sterilize her against her will. On October 19, 1927, Dr. John H. Bell cut out a piece of each of her tubes.
 
-Madison Grant was a New York lawyer. In 1916 he wrote a book called *The Passing of the Great Race*. In it he claimed that a "Nordic race" from northwestern Europe was better than all other people. Grant helped Johnson write the 1924 law. Hitler wrote to Grant and called the book his "Bible."
+**In Germany.** In 1933 the Nazis, Hitler's party, which then ruled Germany, passed a forced sterilization law based in part on the American practice. Under it, special courts of a judge and two doctors decided each case, and an approved doctor did the operation. About 400,000 people in Nazi Germany were sterilized this way. In 1936 leaders of the University of Heidelberg, in Germany, gave Laughlin an honorary degree, a degree given as an honor instead of for study.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Mexican arrivals and the Mexican Repatriation" -->
@@ -152,7 +154,9 @@ The German ship *St. Louis* left Hamburg for Havana, Cuba, on May 13, 1939, with
 
 Nazis burned more than 1,400 synagogues, the buildings where Jews worship, wrecked thousands of Jewish-owned shops and broke into Jewish homes. German police locked about 26,000 Jewish men in concentration camps, prison camps for people the Nazis targeted, just because they were Jewish. Afterward Nazi officials seized property that Jews owned.
 
-The ship turned back to Europe on June 6. The passengers went to four countries: 288 to Britain, 224 to France, 214 to Belgium and 181 to the Netherlands. Of the 620 who went back to the European mainland, 87 moved on to other countries before the German army invaded in 1940. Nazis killed 254 of the rest in the Holocaust, their murder of Jews and other people during World War II. The other 278 survived.
+The ship turned back to Europe on June 6. The passengers went to four countries: 288 to Britain, 224 to France, 214 to Belgium and 181 to the Netherlands.
+
+The German army invaded France, Belgium and the Netherlands in May 1940. Before the invasion, 87 of the passengers in those countries had moved on to other countries. Nazis killed 254 of those who were still there in the Holocaust, their murder of Jews and other people during World War II. The other 278 survived.
 
 **The first refugee law.** Members of Congress passed the Displaced Persons Act in 1948, the first refugee law in the United States. Displaced persons were Europeans who had lost their homes in the war. Under the law, 200,000 people could come at first, counted against the yearly quotas, and in 1950 lawmakers raised the total. About 350,000 to 400,000 European refugees settled in the United States between 1948 and 1952. One count gives 393,542.
 <!-- /hb-zoom -->
@@ -169,7 +173,7 @@ After 1924: no more than about 165,000 could come in a year, and about 86 of eve
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 13 minutes**
 
 Members of Congress threw out the country-by-country quotas in 1965, and after that most newcomers came from Asia, Latin America, Africa and the Caribbean instead of Europe. Federal officers rounded up Mexicans and Mexican Americans in 1954 and sent them to Mexico, and many of the people they sent were US citizens.
 
@@ -183,7 +187,7 @@ Federal officers carried out a mass deportation of Mexicans in 1954, in a federa
 
 **Who ran it.** Attorney General Herbert Brownell Jr., the head of the US Justice Department under President Dwight D. Eisenhower, pushed for the operation. General Joseph M. Swing ran it. He was the commissioner, or head, of the Immigration and Naturalization Service (INS), the federal office in charge of immigration. Swing announced the operation on June 9, 1954. INS officials planned it with officials of the Mexican government. Officers started in California and Arizona and moved into Texas in the middle of July.
 
-**The roundups.** Border Patrol officers, the federal agents who guard the border, ran the roundups in a military style. Newspapers covered them heavily, and officials meant the coverage to scare people into leaving on their own. On the first day in Texas, July 15, 1954, officers caught 4,800 people.
+**The roundups.** Border Patrol officers, the federal agents who guard the border, ran the roundups in a military style. Newspapers covered them heavily, and officials meant the coverage to scare people into leaving on their own. On the first day in Texas, July 15, 1954, officers caught 4,800 people. That July officers held 42,000 people in Texas, and more than 63,000 left on their own.
 
 Officers sent people south by truck, bus, train and plane. From Port Isabel, Texas, they also put people on two ships, the *Emancipation* and the *Mercurio*, bound for Veracruz, Mexico. About a quarter of the people removed from Texas went by ship. A History.com article states that the ships were later compared to slave ships.
 
@@ -195,11 +199,11 @@ Ngai also quotes a Mexican labor leader. He reported that deportees were carried
 
 **Not known:** No record gives a full count of the dead, says whether the 88 were left in the desert, names the officers who ran that roundup, or shows that any official was charged for the deaths.
 
-**The count.** INS officials claimed that as many as 1,300,000 people had left. That count included people who, officials said, had fled out of fear. An INS report gave nearly 1.1 million people caught.
+**The count.** INS officials claimed that as many as 1,300,000 people had left, counting people who, officials said, had fled out of fear. The historian Kelly Lytle Hernández puts the true number deported at "likely closer to 300,000."
 
-Katrina Burgess, a professor at Tufts University, wrote in 2024 that the 1.1 million figure covered a whole government year, which ended in June 1954. The operation was announced on June 9, 1954, so most of those people had been caught before it began. Burgess also wrote that many of the arrests were the same people caught again, sometimes on the same day, so the real number of arrests was far lower.
+The official numbers rested on an INS report of nearly 1.1 million people caught. Katrina Burgess, a professor at Tufts University, wrote in 2024 that this figure covered a whole government year, which ended in June 1954. The operation was announced on June 9, 1954, so most of those people had been caught before it began. Many of the arrests were also the same people caught again, sometimes on the same day, Burgess wrote.
 
-In the San Antonio district, officers caught slightly more than 80,000 people. In Texas in July 1954, officers held 42,000 people, and more than 63,000 left on their own. The historian Kelly Lytle Hernández puts the true number deported at "likely closer to 300,000." Many of the people deported were US citizens of Mexican descent. No one knows how many.
+Many of the people deported were US citizens of Mexican descent. No one knows how many.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="antonio-garcia-bracero" name="Antonio García" movie="" kind="ordinary" status="verified" -->
@@ -210,9 +214,9 @@ In the San Antonio district, officers caught slightly more than 80,000 people. I
 
 **At seventeen he had his ID changed to say eighteen.**
 
-Antonio García had his military ID card changed to say he was eighteen, so that he could join the Bracero Program at seventeen. He then worked in the United States on and off for years as a contract farmworker.
+Antonio García was born in Tepehuanes, in the Mexican state of Durango. He grew up in Nuevo Ideal and left school after fourth grade. With his changed ID card, he signed up at the contracting centers in Chihuahua and in Empalme, Sonora, where Mexican workers signed contracts to work in the United States.
 
-He was born in Tepehuanes, in the Mexican state of Durango. He grew up in Nuevo Ideal and left school after fourth grade. He signed up at the contracting centers in Chihuahua and in Empalme, Sonora, where Mexican workers signed contracts to work in the United States. His first contract was for work in the cotton fields of Texas, and within a week he was seriously ill. He kept working on contracts into the early 1960s, in California, Colorado, New Mexico and Texas.
+His first contract was for work in the cotton fields of Texas, and within a week he was seriously ill. He kept working on contracts, on and off, into the early 1960s, in California, Colorado, New Mexico and Texas.
 
 Claudia Morales Haro recorded his life story in Chicago on March 12, 2003. The recording is item 162 in the Bracero History Archive, which contains more than 700 such interviews. His record does not say whether he settled in the United States for good.
 <!-- hb-story:end slug="antonio-garcia-bracero" -->
@@ -240,19 +244,17 @@ About a month before the boatlift began, members of Congress passed the Refugee 
 
 **He tried to escape Cuba floating on a tire inner tube.**
 
-Reinaldo Arenas was a novelist whom Cuban government officials put in prison for his writing and for being gay, which means loving people of the same sex. In May 1980 he left Cuba through the port of Mariel, one of about 125,000 Cubans in the boatlift.
+Cuban officials persecuted Reinaldo Arenas, which means they punished him again and again, for what he wrote and for being gay, which means loving people of the same sex. In 1973, according to records at Princeton University Library, they charged him with "ideological deviation," holding ideas that Cuba's rulers banned, and with publishing his books in other countries without permission. A court convicted him on both. Another account says the court also called him "extravagant," which here means living too freely, and "immoral."
 
-Cuban officials persecuted him, which means they punished him again and again for who he was and what he wrote. In 1973, according to records at Princeton University Library, officials charged him with "ideological deviation," holding ideas that Cuba's rulers banned. The second charge was publishing his books in other countries without permission.
-
-**The charges.** Other accounts differ. One says the court found him guilty of being "extravagant," which here means living too freely, and "immoral." The Mexican writer Rafael Lemus writes that officials accused him in 1973 of abusing children. Lemus says Arenas hid for four months and was held from January 1974.
+**A charge he denied.** The Mexican writer Rafael Lemus writes that in 1973 officials also accused Arenas and a friend of abusing two young people who were not yet adults. Arenas denied it, and none of these accounts says it was ever proved. Lemus says Arenas hid for four months to avoid arrest and was held from January 1974.
 
 Arenas escaped from prison and tried to leave Cuba by floating away on a tire inner tube. Cuban officers caught him and locked him in El Morro, an old fort in Havana used as a prison. Officers of State Security, the political police of Fidel Castro's government, moved him to their headquarters, called Villa Marista.
 
 **Villa Marista.** Lemus writes that at Villa Marista officers sent steam into the prisoners' closed cell until it became a steam room. There officers forced Arenas to sign a paper saying he was sorry for being gay and for his books. He was released in 1976, after he signed a promise not to write again. No record names any of the officers who held him.
 
-In the United States he lived and wrote in New York. He wrote the story of his own life, called *Before Night Falls*. It was published in 1992, and in English in 1993.
+In May 1980 he left Cuba through the port of Mariel, one of about 125,000 Cubans in the boatlift. In the United States he lived in New York, and there he wrote the story of his own life, called *Before Night Falls*.
 
-He became sick with AIDS, a disease caused by a virus that destroys the body's defenses against other illnesses. On December 7, 1990, at the age of 47, he killed himself.
+He became sick with AIDS, a disease caused by a virus that destroys the body's defenses against other illnesses. On December 7, 1990, at the age of 47, he killed himself. His life story came out in 1992, two years after his death, and in English in 1993.
 <!-- hb-story:end slug="reinaldo-arenas" -->
 
 <!-- hb-zoom level="span" label="Refugees from Southeast Asia and the boat people" -->
@@ -297,11 +299,9 @@ Filipino fishermen found the boat and brought the 52 survivors to Bolinao, in th
 
 **He left Moscow at six and later started Google with Larry Page.**
 
-Sergey Brin came to the United States from the Soviet Union on October 25, 1979, when he was six. In 1998 he and Larry Page started the company Google.
+Sergey Brin was born in 1973 in Moscow, the capital of the Soviet Union, a communist country where the government owned the businesses and only one party was allowed. His family was Jewish. In the Soviet Union his parents were held back in their careers and harassed because they were Jews. The accounts of his life do not name the people who did it.
 
-He was born in 1973 in Moscow, the capital of the Soviet Union, a communist country where the government owned the businesses and only one party was allowed. His family was Jewish. In the Soviet Union his parents were held back in their careers and harassed because they were Jews. The accounts of his life do not name the people who did it.
-
-The family got permission to leave in 1979. About 51,000 Soviet Jews left that year, the most in any single year. In the United States his father, Michael, taught mathematics at the University of Maryland. His mother, Eugenia, became a researcher at NASA, the US space agency.
+The family got permission to leave in 1979. About 51,000 Soviet Jews left that year, the most in any single year. In the United States his father, Michael, taught mathematics at the University of Maryland. His mother, Eugenia, became a researcher at NASA, the US space agency. In 1998 Sergey and Larry Page started the company Google.
 <!-- hb-story:end slug="sergey-brin" -->
 
 <!-- hb-zoom level="span" label="The 1986 law" -->
@@ -321,21 +321,21 @@ Under the same law, officials could for the first time punish employers who know
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 17 minutes**
+**Era 10 of 10 · 2000 to Today · about 18 minutes**
 
 The share of people here who were born in another country rose almost to its highest ever, and federal officers held more people in immigration detention than ever before. About 47.8 million people living in the United States in 2023 had been born in another country, by the Census Bureau's count. That was 14.3 percent of the population, the highest share since 1910. More of them came from Mexico than from any other country.
 
-Attorney General Jeff Sessions announced a "zero tolerance" policy in April 2018: every adult who crossed the border illegally was to be charged with a crime. Border Patrol agents then took thousands of children from their parents. The US Border Patrol counted 895 migrant deaths along the border with Mexico in the year ending September 2022, the most on record. In January 2026 immigration officers held more than 71,000 people in detention, the most ever, according to a report by two human rights groups.
+Attorney General Jeff Sessions announced a "zero tolerance" policy in April 2018, during President Donald Trump's first term: every adult who crossed the border illegally was to be charged with a crime. Border Patrol agents then took thousands of children from their parents. The US Border Patrol counted 895 migrant deaths along the border with Mexico in the year ending September 2022, the most on record. In January 2026 immigration officers held more than 71,000 people in detention, the most ever, according to a report by two human rights groups.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who comes now" -->
-The Census Bureau's American Community Survey counted about 47.8 million foreign-born people, people born in another country, in the United States in 2023. They made up 14.3 percent of everyone living here. That was the highest share since 1910, when it was 14.7 percent. The highest share ever recorded was 14.8 percent, in 1890, and the lowest was 4.7 percent, in 1970.
+About 11 million of the immigrants living here in 2023 were born in Mexico, 22 of every 100, Pew Research Center researchers found. Immigration from Mexico has slowed since about 2007.
 
-Pew Research Center researchers counted where the immigrants living here in 2023 were born. About 11 million came from Mexico, 22 of every 100 immigrants. India came next with 3.2 million, then China with 3 million, the Philippines with 2.1 million and Cuba with 1.7 million.
-
-About 52 of every 100 immigrants were born in Latin America, and 27 of every 100 in Asia. The Pew researchers found that immigration from Mexico has slowed since about 2007.
+India came next with 3.2 million, then China with 3 million, the Philippines with 2.1 million and Cuba with 1.7 million. Counted by region, about 52 of every 100 immigrants were born in Latin America and 27 of every 100 in Asia.
 
 The number of immigrants from Africa south of the Sahara Desert roughly tripled from 2000 to about 2.5 million in 2024, the Migration Policy Institute found. Communities of people born in Jamaica, Haiti, the Dominican Republic and other Caribbean countries also grew.
+
+The share of people born abroad, 14.3 percent in 2023 by the Census Bureau's count, came close to the record of 14.8 percent, set in 1890. The lowest share was 4.7 percent, in 1970.
 
 Pew and the Department of Homeland Security both publish estimates of how many people live in the country without legal permission. Their estimates reached about 12 million in 2007, then fell to about 11 million, and rose again in the 2020s. The estimates are uncertain.
 <!-- /hb-zoom -->
@@ -343,33 +343,35 @@ Pew and the Department of Homeland Security both publish estimates of how many p
 <!-- hb-zoom level="span" label="Homeland Security and DACA" -->
 Hijackers from the group al-Qaeda flew planes into the World Trade Center in New York and the Pentagon near Washington on September 11, 2001, and a fourth plane crashed in Pennsylvania. They killed 2,977 people.
 
-**A new department.** After those attacks, members of Congress passed the Homeland Security Act of 2002. With it, lawmakers created the Department of Homeland Security (DHS), which began work in 2003. Lawmakers ended the old INS and gave its immigration work to three new DHS agencies: US Citizenship and Immigration Services (USCIS), Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP). ICE officers arrest and hold immigrants inside the country. CBP officers, including the Border Patrol, work at the borders.
+**A new department.** After those attacks, members of Congress passed the Homeland Security Act of 2002. With it, lawmakers created the Department of Homeland Security, called DHS, which began work in 2003. They ended the old Immigration and Naturalization Service and split its work among three new agencies inside DHS.
 
-**DACA.** DHS officials started DACA, short for Deferred Action for Childhood Arrivals, on June 15, 2012. Under DACA, some people who were brought to the country as children can apply to have their removal from the country deferred, or put off, and to work legally.
+Officers of Immigration and Customs Enforcement, called ICE, arrest and hold immigrants inside the country. Officers of Customs and Border Protection, called CBP, work at the borders, and the Border Patrol is part of CBP. Staff of the third agency, US Citizenship and Immigration Services, took over the government's other immigration work, such as handling requests to become a citizen.
 
-Lawyers and judges have fought over DACA in court again and again. In September 2017 Sessions advised ending it, and Elaine Duke, the acting Secretary of Homeland Security, ended it. On June 18, 2020, the justices of the Supreme Court ruled that the way officials had ended DACA broke federal law, so DACA stayed.
+**DACA.** Janet Napolitano, the Secretary of Homeland Security, created DACA, short for Deferred Action for Childhood Arrivals, on June 15, 2012. President Barack Obama spoke about it at the White House that day. Under DACA, some people who were brought to the country as children can apply to have their removal from the country deferred, or put off, and to work legally.
 
-A federal appeals court ruled on January 17, 2025, that its work permits were unlawful and limited that ruling to Texas. About 455,000 people held DACA status on March 31, 2026, according to the National Immigration Forum, an immigrant rights group, using USCIS figures.
+Lawyers and judges have fought over DACA in court again and again. In September 2017, in President Donald Trump's first term, Sessions advised ending it, and Elaine Duke, the acting Secretary of Homeland Security, ended it. On June 18, 2020, the justices of the Supreme Court ruled that the way officials had ended DACA broke federal law, so DACA stayed.
+
+A federal appeals court ruled on January 17, 2025, that its work permits were unlawful and limited that ruling to Texas. About 455,000 people held DACA status on March 31, 2026, according to the National Immigration Forum, an immigrant rights group, using figures from US Citizenship and Immigration Services.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Deaths at the border" -->
-Every year hundreds of migrants die trying to cross from Mexico into the United States. Border Patrol officials count these deaths by the federal budget year, which runs from October to September. Their count was 281 in 2018, 300 in 2019, 254 in 2020, 568 in 2021 and 895 in 2022. The 2022 count is the highest on record, more than three times the count for 2018.
+Every year hundreds of migrants die trying to cross from Mexico into the United States. People die of heat and thirst in the desert, drown in the Rio Grande, or die during or after chases by Border Patrol agents. Some die in custody, meaning while officers are holding them. Investigators inside CBP counted 171 deaths in the 2022 budget year in which CBP officers were involved "in some way," and 52 of those people died in CBP custody.
 
-A report of April 2025 from the Government Accountability Office, which checks federal agencies for Congress, gives 704 deaths and more than 5,800 rescues for 2023.
+**Two counts.** Border Patrol officials and the staff of the International Organization for Migration (IOM), a United Nations agency, count these deaths in different ways. For 2022, Border Patrol officials counted 895 deaths along the border in the federal budget year, which runs from October to September. IOM staff counted 686 deaths and disappearances there in 2022. They call their figures minimums, because Texas county coroners, the officials who look into deaths, and Mexican search teams do not report every death to them.
 
-The government's own auditors found in 2022 that the Border Patrol's counts were too low. Border Patrol officials had not collected complete records of migrant deaths. They had left out deaths found by sheriffs, by medical examiners, the doctors who find out why a person died, and by other agencies. The auditors later reported that Border Patrol officials had made the changes they asked for.
+Auditors at the Government Accountability Office, which checks federal agencies for Congress, found in 2022 that Border Patrol officials had left out deaths found by sheriffs, by medical examiners, the doctors who find out why a person died, and by other agencies. The auditors later reported that Border Patrol officials had made the changes they asked for. In a report of April 2025, the same auditors gave 704 deaths and more than 5,800 rescues for 2023.
 
-People die of heat and thirst in the desert, drown in the Rio Grande, or die during or after chases by Border Patrol agents. Some die in custody, meaning while officers are holding them. Investigators inside CBP counted 171 deaths in the 2022 budget year in which CBP officers were involved "in some way." Of those people, 52 died in CBP custody.
+Border Patrol officials' yearly counts were 281 in 2018, 300 in 2019, 254 in 2020, 568 in 2021 and 895 in 2022. The 2022 count is the highest on record, more than three times the count for 2018.
 
-**A second count.** The International Organization for Migration (IOM), a United Nations agency, keeps its own count. Its staff recorded 686 deaths and disappearances on the US-Mexico border in 2022, and they called it "the world's deadliest migration land route." Of those people, 307 died crossing the Sonoran and Chihuahuan deserts, most of them from heat. IOM staff call their figures minimums. Texas county coroners, the officials who look into deaths, and Mexican search teams do not report every death to the IOM, so the real numbers are higher.
+IOM staff called the US-Mexico border "the world's deadliest migration land route." Of the 686 people they counted there in 2022, 307 died crossing the Sonoran and Chihuahuan deserts, most of them from heat.
 
-For 2025, the IOM counted 409 migrant deaths in all of North and South America, the lowest count since 2014. Its staff linked the drop to fewer people trying to cross the US-Mexico border and the Darién, a jungle between Colombia and Panama. In February 2026 they said the 2025 figures would not be final until the middle of 2026.
+For 2025, IOM staff counted 409 migrant deaths in all of North and South America, the lowest count since 2014. They linked the drop to fewer people trying to cross the US-Mexico border and the Darién, a jungle between Colombia and Panama. In February 2026 they said the 2025 figures would not be final until the middle of 2026.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Children taken from their parents, 2018" -->
 **Zero tolerance.** Attorney General Jeff Sessions, the head of the Justice Department, announced a "zero tolerance" policy on April 6, 2018. He told federal prosecutors along the southwest border to charge with a crime every adult whom DHS officers sent to them for crossing the border illegally. That included parents who came with their children. Officers sent the parents to jail to face criminal charges, and Border Patrol agents took their children away from them.
 
-**The memo.** Inside DHS, three agency heads proposed charging those parents in a memo dated April 23, 2018. They were Kevin K. McAleenan, the head of CBP, Thomas Homan, the acting head of ICE, and L. Francis Cissna, the head of USCIS. They recommended sending every adult who crossed illegally to be charged, "including those initially arriving or apprehended (caught) with minors (children)." Sessions urged Kirstjen Nielsen, the Secretary of Homeland Security and the head of DHS, to approve the memo's plan, and she approved it on May 4, 2018.
+**The memo.** Kirstjen Nielsen, the Secretary of Homeland Security, approved a plan on May 4, 2018, to send every adult caught crossing illegally to be charged with a crime, parents included. Sessions had urged her to approve it. The plan came from a memo of April 23, 2018, signed by the heads of three agencies inside DHS: Kevin K. McAleenan of CBP, Thomas Homan, the acting head of ICE, and L. Francis Cissna of US Citizenship and Immigration Services. It covered adults "initially arriving or apprehended (caught) with minors (children)."
 
 Border Patrol leaders told their commanders along the Mexican border to begin on May 5. McAleenan left out parents with children under five who were crossing illegally for the first time. Agents asked a federal refugee office to take each child, and ICE officers held the parents. In a later court case, government lawyers wrote that there was "no prescribed specific course of action for reunification." That means no one had set a plan for putting the families back together.
 
@@ -379,21 +381,23 @@ Sessions said in a speech on May 7, 2018, "If you are smuggling a child, then we
 
 He also wrote that the department's "single-minded focus on increasing immigration prosecutions came at the expense of careful and appropriate consideration of the impact of child separations."
 
-**The count of the children.** Officials deported hundreds of parents without their children before a court ordered the families put back together in June 2018. Counts of the children differ, because each measures something different.
+**The count of the children.** Officials deported hundreds of parents without their children before a federal judge ordered the government to put the families back together in June 2018. The counts of the children differ because each one includes a different group of children.
 
-Staff of a federal group, the Family Reunification Task Force, counted 3,924 children taken from their parents between January 20, 2017, and January 20, 2021. In February 2023 task force staff said that more than 600 had been reunited by then. They said that 998 were still separated and that the true number still apart was "likely greater than 1,000."
+**Taken.** President Joe Biden set up the Family Reunification Task Force in February 2021. Its staff counted 3,924 children taken from their parents between January 20, 2017, and January 20, 2021.
 
-A federal judge approved a settlement, an agreement that ends a lawsuit, on December 11, 2023, in a lawsuit brought by the American Civil Liberties Union called *Ms. L. v. ICE*. It covers an estimated 4,500 to 5,000 children and their parents. By March 20, 2024, task force staff had confirmed 1,120 separated children as part of that group. No final count of children returned to their parents is on record. As of September 2026, no record shows that any official had been charged for the separations.
+**Back together, and still apart.** By February 1, 2023, 2,926 of those children had been reunited with their families. Most were reunited before the task force began, and more than 600 through its work. The other 998 were still apart, and task force staff said the true number still apart was "likely greater than 1,000."
+
+**Covered by the lawsuit.** A federal judge approved a settlement, an agreement that ends a lawsuit, on December 11, 2023, in a lawsuit brought by the American Civil Liberties Union called *Ms. L. v. ICE*. It covers an estimated 4,500 to 5,000 children and their parents. By March 20, 2024, task force staff had confirmed 1,120 separated children as part of that group. No final count of children returned to their parents is on record. As of September 2026, no record shows that any official had been charged for the separations.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Arrests, detention and deportation, 2025 and 2026" -->
-Chief Justice John G. Roberts Jr. swore in Donald Trump as president on January 20, 2025, in the Rotunda, the round central hall of the US Capitol. A year later, in January 2026, ICE officers held more than 71,000 people in detention, in custody while officials decided whether to deport them. It was a record.
+Chief Justice John G. Roberts Jr. swore in Donald Trump as president for a second term on January 20, 2025, in the Rotunda, the round central hall of the US Capitol. A year later, in January 2026, ICE officers held more than 71,000 people in detention, in custody while officials decided whether to deport them. It was a record.
 
 Human Rights Watch and Physicians for Human Rights gave that figure in a report of June 25, 2026. ABC News reported on July 21, 2026, that ICE officers held 65,765 people, citing figures ICE had posted.
 
-**Deaths in custody.** The same report counted 52 people who died in ICE custody from January 20, 2025, to June 4, 2026. Thirty-nine of them died in the first year. Of those 39, seven were apparent suicides, meaning they appeared to have killed themselves, and five died of injuries. The others died of strokes, heart failure, long-term illness and failure to breathe. The death rate reached about 8.4 for every 10,000 people held, which the report describes as "nearly four times" the rate under the previous president.
+**Deaths in custody.** The same report counted 52 people who died in ICE custody from January 20, 2025, to June 4, 2026. Thirty-nine of them died in the first year. Of those 39, seven were apparent suicides, meaning they appeared to have killed themselves, and five died of injuries. The others died of strokes, heart failure, long-term illness and failure to breathe. The yearly death rate reached about 8.4 for every 10,000 people held, which the report describes as "nearly four times" the rate under the previous president, Joe Biden.
 
-The report lists how each of the five died of injuries. An ICE officer shot Silverio Villegas González during an arrest near Chicago on September 12, 2025. Twelve days later, on September 24, a gunman fired on a van of detainees at the ICE office in Dallas, Texas. Two of the men in the van died of their wounds. Norlan Guzmán-Fuentes of El Salvador died that day, and Miguel Ángel García-Hernández of Mexico died on September 30. The gunman, Joshua Jahn, 29, shot and killed himself, NBC News reported.
+The report lists how each of the five died of injuries. One was Silverio Villegas González, whom an ICE officer shot during an arrest near Chicago. His death is told below, with the other shootings. On September 24, 2025, a gunman fired on a van of detainees at the ICE office in Dallas, Texas. Two of the men in the van died of their wounds. Norlan Guzmán-Fuentes of El Salvador died that day, and Miguel Ángel García-Hernández of Mexico died on September 30. The gunman, Joshua Jahn, 29, shot and killed himself, NBC News reported.
 
 José Castro-Rivera of Honduras, 24, ran into traffic in Virginia on October 23 while ICE officers chased him to arrest him. A vehicle hit and killed him, and the report does not name the driver.
 
@@ -405,13 +409,15 @@ The medical examiner found that pressure on his neck and torso, the middle of hi
 
 DHS officials claimed on January 20, 2026, "more than 675,000 deportations" and "an estimated 2.2 million self-deportations" in the year since January 20, 2025. Self-deportation means leaving the country on one's own, without being deported by officers. Kocher notes that DHS officials have not published how they count these numbers. He found that ICE's own removals made up only about 54 percent of an earlier DHS claim of 605,000. In the year after January 20, 2025, DHS officials counted 90,084 people caught along the southwest border.
 
-**Shootings.** Federal immigration officers shot and killed at least four people from January 2025 to late January 2026, PBS NewsHour reported. One was Silverio Villegas González, a citizen of Mexico. ICE officers stopped his car in Franklin Park, a suburb of Chicago, on September 12, 2025, just after he had dropped his children at school. One officer shot him in the neck, and he died.
+**Shootings.** Federal immigration officers shot and killed at least four people from January 2025 to late January 2026, PBS NewsHour reported. Three of them were Silverio Villegas González, Renée Nicole Good and Alex Pretti.
 
-ICE officer Jonathan Ross shot Renée Nicole Good, a US citizen, in Minneapolis on January 7, 2026. CBP officers shot Alex Pretti in Minneapolis on January 24, 2026. As of that report, no officer had been charged.
+Villegas González was a citizen of Mexico. ICE officers stopped his car in Franklin Park, a suburb of Chicago, on September 12, 2025, just after he had dropped his children at school. One officer shot him in the neck, and he died.
 
 DHS officials said that Villegas González drove his car at officers and dragged one of them, and that the officer fired "fearing for his own life." In body-camera video, an agent described his own injuries as "nothing major." Federal officials have not released the name of the officer who shot him, and federal prosecutors declined to charge that officer.
 
 Investigators of the Illinois State Police opened their own case in spring 2026, at the request of the Franklin Park police. It was still open in September 2026, the Chicago Sun-Times and WBEZ reported.
+
+ICE officer Jonathan Ross shot Renée Nicole Good, a US citizen, in Minneapolis on January 7, 2026. CBP officers shot Alex Pretti in Minneapolis on January 24, 2026. As of the PBS NewsHour report, no officer had been charged in either death.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="giannis-antetokounmpo" name="Giannis Antetokounmpo" movie="Rise (2022)" kind="famous" status="verified" -->
@@ -423,11 +429,9 @@ Investigators of the Illinois State Police opened their own case in spring 2026,
 
 **As boys in Greece, he and his brothers sold goods on the street.**
 
-Giannis Antetokounmpo grew up stateless, which means no country counted him as its citizen. In 2013, at the age of 18, he came to the United States to play basketball for the Milwaukee Bucks.
+Giannis Antetokounmpo's parents, Charles and Veronica, were immigrants from Nigeria with no legal status in Greece. Giannis was born in Athens and grew up stateless, which means no country counted him as its citizen. Under Greek law, a child does not become a citizen just by being born in Greece. In the United States, the 1898 ruling in Wong Kim Ark's case makes any child born in the country a citizen. As boys, Giannis and his brothers sold goods on the street.
 
-His parents, Charles and Veronica Antetokounmpo, were immigrants from Nigeria with no legal status in Greece. Under Greek law, a child does not become a citizen just by being born in Greece. In the United States, the 1898 ruling in Wong Kim Ark's case makes any child born in the country a citizen. As boys, Giannis and his brothers sold goods on the street.
-
-Greek officials made him a citizen in 2013. A few weeks later, in June 2013, the Bucks' managers picked him 15th in the NBA draft, the yearly event in which teams choose new players. He was named the league's Most Valuable Player in 2019 and in 2020. In 2021 he won the NBA championship with the Bucks and was named the most valuable player of the finals. His parents and brothers joined him in the United States.
+Greek officials made him a citizen in 2013. A few weeks later, in June 2013, the managers of the Milwaukee Bucks picked him 15th in the NBA draft, the yearly event in which teams choose new players, and he came to the United States at 18 to play for them. He was named the league's Most Valuable Player in 2019 and in 2020. In 2021 he won the NBA championship with the Bucks and was named the most valuable player of the finals. His parents and brothers joined him in the United States.
 <!-- hb-story:end slug="giannis-antetokounmpo" -->
 
 <!-- hb-story:start slug="lost-boys-of-sudan" name="Peter Dut and Santino Chuor, Lost Boys of Sudan" movie="Lost Boys of Sudan (2003)" kind="ordinary" status="verified" -->
@@ -439,22 +443,20 @@ Greek officials made him a citizen in 2013. A few weeks later, in June 2013, the
 
 **They walked out of Sudan and spent years in a camp in Kenya.**
 
-Peter Nyarol Dut and Santino Majok Chuor were two of about 4,000 young refugees from Sudan who were resettled in the United States starting in 2001. They were called the "Lost Boys of Sudan."
-
-They were Dinka, an ethnic group of southern Sudan. Sudan's civil war was a war inside one country, between the government in the north and rebels in the south. Military forces of the central government attacked the boys' villages, destroyed them and killed their families, according to the notes for the PBS film about them. Those notes do not state which soldiers or fighters killed each boy's parents.
+Peter Nyarol Dut and Santino Majok Chuor were Dinka, an ethnic group of southern Sudan. Sudan's civil war was a war inside one country, between the government in the north and rebels in the south. Military forces of the central government attacked the boys' villages, destroyed them and killed their families, according to the notes for the PBS film about them. Those notes do not state which soldiers or fighters killed each boy's parents.
 
 **The militias.** Researchers at Human Rights Watch report that in these years Sudan's rulers gave modern weapons to militias, armed groups outside the regular army, called the muraheleen. The militia fighters burned Dinka villages, stole cattle and food, and carried off women and children as slaves. Human Rights Watch does not say that these militias attacked the two boys' own villages.
 
 The rebel army of the south, the Sudan People's Liberation Army, also took many of the older Lost Boys as soldiers. The two boys survived a long walk out of Sudan and then spent years in Kakuma, a refugee camp in Kenya.
 
-The documentary records their first year in the United States, which began in Houston. After a time, Peter left Houston for Kansas to go to high school.
+Starting in 2001, about 4,000 of these young refugees from Sudan were resettled in the United States. People called them the "Lost Boys of Sudan," and Peter and Santino were among them. The documentary records their first year in the United States, which began in Houston. After a time, Peter left Houston for Kansas to go to high school.
 <!-- hb-story:end slug="lost-boys-of-sudan" -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- Why did people leave home to come here? Many came for land and work, like the Germans who farmed the Midwest and the Chinese who built the western railroad, or to worship in their own way, like the Puritans. Many more ran from danger: the Irish famine, the pogroms against Jews in the Russian Empire, the Nazis, and wars in Vietnam and Sudan.
-- Who did Americans try to keep out, and how? Lawmakers shut out Chinese workers in 1882 and almost everyone from Asia in 1924, and they cut the number of southern and eastern Europeans with quotas. Mobs burned Catholic churches in Philadelphia and drove Chinese people out of Eureka and Tacoma. Officials pushed hundreds of thousands of people of Mexican descent, many of them citizens, across the border in the 1930s and again in 1954.
-- Who could become a citizen, and how did that change? In 1790 only "a free white person" could become a citizen. In 1898 the Supreme Court ruled in Wong Kim Ark's case that anyone born here is a citizen, and in 1952 members of Congress removed the limit to white people.
+- Why did people leave home to come here? Many came for land and work, like the Germans who farmed the Midwest and the Chinese who built the western railroad, or to worship in their own way, like the Puritans. Others ran from danger: the Irish famine, the pogroms against Jews in the Russian Empire, the Nazis, and wars in Vietnam and Sudan.
+- Who did Americans try to keep out, and how? Lawmakers shut out Chinese workers in 1882 and almost everyone from Asia in 1924, and they cut the number of southern and eastern Europeans with quotas. Mobs burned Catholic churches in Philadelphia and drove Chinese people out of Eureka and Tacoma. Officials pushed hundreds of thousands of people of Mexican descent, many of them citizens, across the border in the 1930s and again in 1954. In 2018 agents took thousands of children from their parents at the border, and in January 2026 officers held more than 71,000 people in detention, the most ever.
+- Who could become a citizen, and how did that change? In 1790 only "a free white person" could become a citizen. In 1870 members of Congress added people of African birth or descent. In 1898 the Supreme Court ruled in Wong Kim Ark's case that anyone born here is a citizen, and in 1952 members of Congress removed the limit to white people.
 
 **What changed:** In 1500 no one from across the ocean had come to stay, and by 2023 about 47.8 million people living in the United States had been born in another country.
 

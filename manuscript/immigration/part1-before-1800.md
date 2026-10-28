@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 4 of 37 · Immigration to America · 10 eras · about 95 minutes**
+**Chapter 4 of 37 · Immigration to America · 10 eras · about 105 minutes**
 
 **People came here to stay from almost every country on earth, and from the 1600s on, the people who had come earlier kept deciding who could join them, by law and sometimes by mob violence.**
 
@@ -27,12 +27,12 @@ This chapter follows the people who came to stay, from a Spanish fort in Florida
 - Who did Americans try to keep out, and how?
 - Who could become a citizen, and how did that change?
 
-**Five minutes?** Read "Angel Island" in 1900 to 1950.
+**Five minutes?** Read "Angel Island" in 1900 to 1950, the Lee Puey You story after it, and the next section, "How the quota laws of 1921 and 1924 worked."
 **Can skip:** "The Dutch and the Swedes" in the 1600s, "Jewish communities" in 1700 to 1750, "The Revolution and the Loyalists" in 1750 to 1800. The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 3 minutes**
+**Era 1 of 10 · Before 1500 · about 1 minute**
 
 No one from across the ocean came to settle here for good before 1500. Hundreds of Native nations lived in the land that is now the United States, and their people spoke hundreds of different languages. Every group of newcomers who came later arrived on land where people were already living.
 
@@ -137,20 +137,22 @@ About 20,000 Puritans came to New England over the 1630s, in what is called the 
 <!-- hb-story:start slug="anne-hutchinson-immigration" name="Anne Hutchinson" movie="" kind="famous" status="verified" -->
 ### Anne Hutchinson
 
-> **Who:** An English woman who followed her minister to Boston, was put on trial and banished three years later, and was killed by Siwanoy fighters in 1643.
+> **Who:** An English woman who followed her minister to Boston, was put on trial and banished (ordered to leave and never come back) three years later, and was killed by Siwanoy fighters in 1643.
 > **When and where:** Crossed on the *Griffin* in the fall of 1634. Boston, then Rhode Island, then land the Dutch claimed.
 
 **She asked the court why she was banished, and got no answer.**
 
-Anne Hutchinson crossed the Atlantic to follow her minister, John Cotton, the preacher who led her church, to Boston. Three years after she landed, the leaders of the Massachusetts colony put her on trial and banished her, which means they ordered her to leave and never come back.
+Anne Hutchinson sailed from England on the *Griffin* in the fall of 1634 with her husband, William, and their children. About 200 passengers were on board. She was following her minister, John Cotton, the preacher who led her church, to Boston.
 
-She sailed on the *Griffin* in the fall of 1634 with her husband, William, and their children. About 200 passengers were on board.
+**What she taught.** She held a meeting in her Boston house every week, starting in 1636, to go over the Sunday sermons. Women came at first, and then men came too. She taught that God's grace, his gift of being saved and going to heaven, did not depend on good behavior. She also said she could tell which of the colony's ministers had received that grace and which had not.
 
-**The trial.** In November 1637 the colony's lawmakers and judges, sitting as the General Court of Massachusetts, tried her at Newtown, now Cambridge. Governor John Winthrop led the questioning. At the end he told her, "you are banished from out of our jurisdiction (the land the court ruled) as being a woman not fit for our society." She answered, "I desire to know wherefore (why) I am banished?" Winthrop replied, "Say no more, the court knows wherefore and is satisfied."
+**The trial.** Governor John Winthrop and other colony leaders accused her of heresy, which means teaching against the church's beliefs. They counted the meetings against her too. In November 1637 the colony's lawmakers and judges, sitting as the General Court of Massachusetts, tried her at Newtown, now Cambridge, and Winthrop led the questioning.
 
-She moved to Portsmouth, Rhode Island, in 1638. Later she moved again, into territory the Dutch claimed, near what is now New York City. The Dutch governor there, Willem Kieft, was fighting the Native nations nearby, in a war now called Kieft's War. On the night of February 25, 1643, Kieft's men killed at least 80 and perhaps as many as 120 Munsee people.
+At the end Winthrop told her, "you are banished from out of our jurisdiction (the land the court ruled) as being a woman not fit for our society." She answered, "I desire to know wherefore (why) I am banished?" Winthrop replied, "Say no more, the court knows wherefore and is satisfied."
 
-**Her death.** Siwanoy fighters attacked Anne Hutchinson's household near Pelham Bay in August or September 1643. They killed her, her servants, and all but one of the children who were with her.
+She moved to Portsmouth, Rhode Island, in 1638. In 1642 she moved again, to land on Long Island Sound that the Dutch claimed, near what is now New York City. The Siwanoy, a Native people, lived there. The Dutch governor was Willem Kieft. On the night of February 25, 1643, Kieft's men killed at least 80 and perhaps as many as 120 Munsee people. With those killings they started a war with the Native nations nearby. It is now called Kieft's War, and it lasted until 1645.
+
+**Her death.** During that war, in August or September 1643, Siwanoy fighters attacked Anne Hutchinson's household near Pelham Bay. They killed her, her servants, and all but one of the children who were with her.
 <!-- hb-story:end slug="anne-hutchinson-immigration" -->
 
 <!-- hb-zoom level="span" label="The Dutch and the Swedes" -->
@@ -251,7 +253,7 @@ After the Revolution, members of Congress decided who could become a citizen, a 
 
 **A letter about a hurricane paid his way to school.**
 
-Alexander Hamilton was an orphan, both of his parents dead, working on the Caribbean island of St. Croix as a clerk, a worker who keeps written records for a business. He was born on the nearby island of Nevis on January 11. The year is disputed: accounts of his life give either 1755 or 1757.
+Alexander Hamilton was born on the Caribbean island of Nevis on January 11. The year is disputed: accounts of his life give either 1755 or 1757. By 1772 he was working on the nearby island of St. Croix as a clerk, a worker who keeps written records for a business.
 
 A hurricane struck St. Croix on August 31, 1772. Hamilton wrote a letter describing the storm, dated September 6, and a newspaper called the *Royal Danish American Gazette* printed it on October 3. After reading it, men on the island raised money to send him to school in North America.
 
@@ -280,13 +282,13 @@ The men who wrote the Constitution in 1787 also set a date for arrivals by force
 
 **He was one of New York's leading hairdressers, and still enslaved.**
 
-The Bérard family took Pierre Toussaint, whom they enslaved, from Saint-Domingue to New York in 1787. Saint-Domingue was a French colony in the Caribbean. The Bérards were fleeing fighting and disorder there, four years before the revolution in the colony began. Toussaint had been born enslaved in Saint-Domingue in about 1766, though some recent accounts give 1781.
+Pierre was born enslaved in Saint-Domingue, a French colony in the Caribbean, in about 1766, though some recent accounts give 1781. Until he was freed, he was known simply as Pierre. In 1787 Marie Elisabeth Bérard and her husband, the family that enslaved him, took him to New York. The Bérards were fleeing fighting and disorder in the colony, four years before the revolution there began.
 
-In New York he trained under a hairdresser and became one of the city's leading hairdressers. When the husband of Marie Elisabeth Bérard died, Toussaint supported her. He was still enslaved by her family at the time.
+In New York Pierre trained under a hairdresser and became one of the city's leading hairdressers. When Marie Elisabeth Bérard's husband died, Pierre supported her. He was still enslaved by her family at the time. During an outbreak of yellow fever, a deadly disease spread by mosquitoes, in New York in 1798, he nursed sick people who were kept apart from others.
 
-**Freedom.** Marie Elisabeth Bérard married again, to a Mr. Nicolas, and she died in 1807. On her deathbed she made her second husband promise to free Toussaint. Mr. Nicolas kept the promise, and Toussaint was free on July 2, 1807. If he was born in about 1766, he was about 41, though one account says 45. He took the surname Toussaint to honor Toussaint Louverture, a leader of the revolution in Saint-Domingue.
+**Freedom.** Marie Elisabeth Bérard married again, to a Mr. Nicolas, and she died in 1807. On her deathbed she made her second husband promise to free Pierre. Mr. Nicolas kept the promise, and Pierre was free on July 2, 1807. If he was born in about 1766, he was about 41, though one account says 45. As a free man he took the surname Toussaint, to honor Toussaint Louverture, a leader of the revolution in Saint-Domingue.
 
-Toussaint used his money to care for orphans and to fund early Catholic charities in New York, groups that helped the poor. During an outbreak of yellow fever, a deadly disease spread by mosquitoes, in New York in 1798, he nursed sick people who were kept apart from others. In 1811 he married Juliette Noel, an enslaved woman, after he paid for her freedom.
+Toussaint used his money to care for orphans and to fund early Catholic charities in New York, groups that helped the poor. In 1811 he married Juliette Noel, an enslaved woman, after he paid for her freedom.
 
 **After his death.** Cardinal John O'Connor, the head of the Catholic Church in New York, had Toussaint's remains moved in 1990 to the crypt of St. Patrick's Cathedral, a burial room beneath the church. Pope John Paul II declared him Venerable in 1996, a title the pope gives to a person whom church leaders are studying as a possible saint.
 <!-- hb-story:end slug="pierre-toussaint" -->

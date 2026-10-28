@@ -29,7 +29,7 @@
 - Protestants: Christians whose churches had split from the Catholic Church (1700 to 1750)
 - Pennsylvania Dutch: German settlers in Pennsylvania, from Deutsch, the German word for German (1700 to 1750)
 - Moravians: members of a Protestant church from central Europe (1700 to 1750)
-- Haudenosaunee: the Iroquois, a league of six nations, also called the Six Nations (1700 to 1750)
+- Iroquois: a league of six nations, also called the Six Nations or the Haudenosaunee (1700 to 1750)
 - treaty: a written agreement between nations (1700 to 1750)
 - militia: colonists called up to fight as soldiers, later part-time soldiers called up by a state (1700 to 1750)
 - siege: surrounding a fort or town and attacking it again and again (1700 to 1750)
@@ -56,6 +56,7 @@
 - abolitionist: someone who worked to end slavery (1800 to 1850)
 - Indian Territory: the land in present-day Oklahoma where federal officials moved many Native nations (1800 to 1850)
 - exposure: the harm cold and bad weather do to the body (1800 to 1850)
+- Everglades: the swamps of southern Florida (1800 to 1850)
 - stockade: a pen with walls of tall logs (1800 to 1850)
 - Trail of Tears: the Cherokee removal of 1838 and 1839 (1800 to 1850)
 - cholera: a disease that causes severe diarrhea and vomiting (1800 to 1850)
@@ -114,6 +115,7 @@
 - suburb: a town at the edge of a city (1950 to 2000)
 - Bureau of Indian Affairs: the federal office in charge of the government's dealings with Native nations (1950 to 2000)
 - Relocation: the federal program that paid for Native people to move from reservations to cities (1950 to 2000)
+- termination: a policy, declared by members of Congress in 1953, to end the government's recognition of Native nations and the services that came with it (1950 to 2000)
 - New Great Migration: the return of Black Americans to the South since the 1970s (1950 to 2000)
 - net domestic migration: the number of people who move into a state from other states, minus the number who move out to other states (2000 to Today)
 - metro area: a city together with its suburbs (2000 to Today)
@@ -176,4 +178,4 @@
 
 - Q: How did horses reach the Native nations of the Plains? A: In the older account, horses spread north through trade after the Pueblo Revolt of 1680, when the Spanish left perhaps more than 1,500 of them behind. A 2023 study of horse bones found that many nations had horses by the early 1600s, decades earlier, as the nations' own histories say.
 - Q: How many Cherokee died when soldiers forced them west? A: Nobody knows exactly. The count most often given is about 4,000, and estimates run from more than 1,000 on the journey itself to about 8,000 or more.
-- Q: Why did about 6 million Black Americans leave the South between 1910 and 1970? A: They left lynch mobs, Jim Crow laws and cotton crops ruined by the boll weevil and floods, and they went toward jobs in Northern and Western cities. In Georgia alone, lynch mobs killed more than 450 people between 1880 and 1930, and nearly all Black Georgians could not vote.
+- Q: Why did about 6 million Black Americans leave the South between 1910 and 1970? A: They left lynch mobs, Jim Crow laws and cotton crops ruined by the boll weevil and floods, and they went toward jobs in Northern and Western cities. In Georgia, one example, lynch mobs killed more than 450 people between 1880 and 1930, and nearly all Black Georgians could not vote.
