@@ -1016,7 +1016,10 @@ def story_html(attrs, lines, ecls=""):
             h = re.match(r"^#{1,6}\s+(.*)$", l.strip())
             if h:
                 title = h.group(1).strip()
-                if name and title != name:
+                # a heading may add a nickname in quotes or brackets ('Barbara "Dusty" Roads'); that is
+                # by design (the viewer decision of T-658), so only a different name is worth a warning
+                nick = lambda s: re.sub(r"(?<!\w)'([^'\s][^']*)'(?!\w)", r'"\1"', s)    # 'Pap' as "Pap"
+                if name and title != name and name_words(nick(title)) != name_words(nick(name)):
                     warn(f"story {attrs.get('slug')}: heading {title!r} != name {name!r}")
                 body = body[i + 1:]
             break
