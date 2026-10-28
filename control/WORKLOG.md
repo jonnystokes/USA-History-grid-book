@@ -5348,3 +5348,27 @@ Ids: T-753 ac31df5d4b07f0b2a, T-754 a0e0438186db42128, T-755 a2512a5413109ccaf, 
 NOTE: commit 827c590 (T-757) also swept in-progress edits of manuscript/_backmatter/02-glossary.md by T-753 (my 'git add manuscript' was too wide). The file is not harmed; T-753's finished work lands in its own commit. Both are Opus agents.
 09:50 AM T-753 glossary fix DONE (16/19; 4,132 entries; 478 references corrected to the first chapter).
 09:51 AM T-756 places fix DONE (394 -> 342). ALL AGENT WORK DONE. Final build next.
+10:46 AM Jon: do what is best for the grid-rule findings and settle every unresolved item; as many parallel agents as needed. DECISIONS #54 relaxes ARCHITECTURE section 2 within one era. Launching the STRUCTURE-PASS: T-760..T-778 (19 chapter groups, opus, with the director fact items) and T-779 tools (validator gap, resume drill and RESUME.md, slice_bank, director_task, salvage_agent, README). Shelf edition (T-780) when a slot frees.
+Ids: T-760 a7b479c9502cae6e7, T-761 add16d56085ebdbd1, T-762 aaa9fa2233fa9bf22, T-763 ab921fe8f17c3c819, T-764 a80c16c14db49986c, T-765 a5e0a20c12329adaf, T-766 aeb9764e6b8c8bbd8, T-767 a23bff02627ffaa96, T-768 ac1ebe895c1d55c4a, T-769 a2d87e2f9bf987570, T-770 a99d8116cc0b0c853, T-771 ade699312df1d120e, T-772 a3ea977d6879134b3, T-773 aa4d5d199c9f70c36, T-774 a97a5f8994ed0add9, T-775 a3b724b7e3fdd0079, T-776 ae1efe335d79ed268, T-777 ae1ba6dde307cefd4, T-778 a152ee3e281189d48, T-779 a83fe399137138f6b.
+10:57 AM T-772 DONE (1 split; Levittown fixed). T-780 shelf edition launched (id next line).
+T-780 shelf edition: a2d32e9a6cdc66f80.
+10:59 AM T-770 DONE (3 splits).
+10:59 AM T-767 DONE (2 relabels, 1 split).
+11:00 AM T-760 DONE (1 split; front matter unchanged).
+11:00 AM T-777 DONE (1978 act span; era 8 span in three).
+11:01 AM T-778 DONE (no change needed).
+11:01 AM T-775 DONE (penny press moved; 1 split) — the original 25th finding is now done.
+11:02 AM T-771 DONE (2 splits, 1 relabel; smallpox wording). BACK-MATTER FOLLOW-UPS for the director: glossary 'cowpox' should cite Chapter 24 (now first explained there); glossary 'vaccinate' wording 'a shot' to check; hand-offs slavery-freedom.md line 92 and art.md line 76 say 'a shot'.
+11:03 AM T-776 DONE (2 moves; smallpox wording). RESIDUAL for a cleanup pass: Chapter 26 says Lewis Cass left the Mandan out of the vaccination program; Chapter 32 says the records name no one. Hand-offs art.md line 76 and slavery-freedom.md line 92 still say 'a shot'.
+11:04 AM T-763 DONE. RESIDUAL for cleanup: sports-play part1 line ~55 and its bank line ~46 still say Cahokia fell about 1500 (Chapter 6 and NPS: gone by about 1350, empty by about 1400).
+11:05 AM T-768 DONE (1 split/move; GM vs Bell settled: Bell 1,029,905 vs GM 618,365 US, AT&T 1979 annual report).
+11:06 AM T-773 DONE (1 split/move; Starving Time settled in health and disasters).
+11:07 AM T-762 DONE. RESIDUAL for cleanup: city-building part3 line ~101 and research-city-building.md line ~325 still carry the wrong Philadelphia (500 percent) and New York growth figures; the Census-checked figures are now in research-migration.md (T-762 PATCH).
+11:08 AM T-769 DONE (2 splits; bank lines corrected).
+11:08 AM T-774 DONE (4 moves, 1 relabel).
+11:10 AM T-761 DONE (5 splits/headings; To Tu Ya bank line narrowed).
+11:11 AM T-766 DONE (3 splits; loblollie thick; Starving Time). RESIDUAL: glossary line ~3621 (Starving Time) says 500 fell to 61; food-farming era 10 strip says 11, should be 10; hand-offs work-workers.md line 22 (thin) and food-farming.md line 18.
+11:14 AM T-779 DONE (validator gap closed, resume drill/RESUME.md, three tools, README). Director: CLAUDE.md rules 4 and 6 updated (parallel; resume never replace). Still stale, low impact: AGENT-MECHANICS.md, WRITER-DISPATCH.md, SALVAGE.md, grid-markers.md, VIEWER-CONTRACT.md (left; RESUME.md and CLAUDE.md now govern).
+11:14 AM T-781 cleanup launched (Cass/Mandan, sports-play Cahokia date, city-building growth figures, six hand-offs, food-farming era 10 strip): a6c8475eea7b81e0a.
+11:20 AM T-765 DONE (1 split; Flint outcome settled). Running: T-780 shelf, T-781 cleanup.
+11:42 AM FINAL: grid-rule findings done (about 45 moves, splits, headings; DECISIONS #54), all 10 audit items settled, cross-chapter cleanup (T-781), era strips unified (143 changed), tools fixed (T-779), shelf edition rebuilt and pushed to Cool-tools (T-780). Final PDF 3,555 pages, 1,402 breaks, 6,088 page numbers, 0 warnings. Report updated.

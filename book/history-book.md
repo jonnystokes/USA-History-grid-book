@@ -160,7 +160,7 @@ Pick one of the ten eras and read that era in every chapter, in the order of the
 - 1800 to 1850: about 7 hours 30 minutes
 - 1850 to 1900: about 10 hours 30 minutes
 - 1900 to 1950: about 11 hours 30 minutes
-- 1950 to 2000: about 10 hours 15 minutes
+- 1950 to 2000: about 10 hours
 - 2000 to today: about 8 hours 45 minutes
 
 ## 4. The short road
@@ -769,8 +769,6 @@ In August an Army officer, Henry Leavenworth, led about 230 soldiers against the
 
 **The rendezvous.** The trappers met every summer from 1825 to 1840 at a gathering they called the rendezvous, in the mountains of present-day Wyoming, Utah or Idaho. The word is French for a meeting. There the trappers sold their furs and bought supplies for the next year. Native people came too, and so did the Native wives and children of many trappers.
 
-**The source of the Mississippi.** An Ojibwe guide named Ozaawindib led Henry Rowe Schoolcraft to the true source of the Mississippi River in 1832. Schoolcraft was an Indian agent, a US official who dealt with Native nations, at Sault Ste. Marie, in Michigan. The source was a lake that the Ojibwe called Elk Lake. Schoolcraft renamed it Lake Itasca. He made up the name from pieces of the Latin words for "truth" and "head."
-
 <a id="story-hugh-glass"></a>
 
 #### Hugh Glass
@@ -836,6 +834,12 @@ Jim Bridger was one of the first two men who were not Native known to reach the 
 His boat was a bull boat, a boat made of buffalo hide, and he floated it down the Bear River to the lake in the fall of 1824. A French-Canadian trader, Etienne Provost, reached the lake at about the same time. In October 1824 Shoshone men attacked Provost's party at the Jordan River and killed eight of his men. The Shoshone, the Ute and other nations already lived around the lake.
 
 Bridger and his partner Louis Vasquez built Fort Bridger in 1843, a trading post on the Oregon Trail in present-day Wyoming. In 1850 Bridger found a crossing of the mountains now called Bridger Pass. He later worked as a scout for the Army. By 1875 he was blind, and he died on July 17, 1881. Whether he was the "Bridges" who left Hugh Glass in 1823 is still argued. Bridger denied it.
+
+#### The source of the Mississippi, 1832
+
+An Ojibwe guide named Ozaawindib led Henry Rowe Schoolcraft to the true source of the Mississippi River in 1832. Schoolcraft was an Indian agent, a US official who dealt with Native nations, at Sault Ste. Marie, in Michigan. The source was a lake that the Ojibwe called Elk Lake. Schoolcraft renamed it Lake Itasca. He made up the name from pieces of the Latin words for "truth" and "head."
+
+**By 1840:** The trappers had held their last rendezvous. Charles Wilkes's Navy crews had sailed in 1838 and were exploring the Pacific and the coast of Antarctica.
 
 <a id="story-charles-wilkes"></a>
 
@@ -1511,7 +1515,7 @@ Few records of single persons survive from these centuries.
 
 ### The 1500s
 
-**Era 2 of 10 · The 1500s · about 10 minutes**
+**Era 2 of 10 · The 1500s · about 9 minutes**
 
 Spanish armies marched inland in the 1500s, and the diseases they carried reached many Native towns before the soldiers did. These expeditions were large armed groups traveling into country new to them. The diseases spread ahead of them and behind them. A town could lose many of its people before any European arrived there, and the diseases killed large shares of whole communities. Some writers call these deaths the Great Dying.
 
@@ -1673,16 +1677,6 @@ The people of many separate towns rose against the Spanish on the same day, Augu
 
 The Pueblos governed themselves for the next twelve years, through drought, raids and famine, a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Writers of the EBSCO Research Starters history guide call the Pueblo Revolt the most successful uprising by Native people against European rule in North America.
 
-**The horses left behind.** When the Spanish went south out of New Mexico in 1680, they left their horses. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
-
-**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
-
-The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
-
-**Known:** Plains nations had horses by the 1700s.
-
-**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
-
 <a id="story-pope"></a>
 
 #### Po'pay (Popé)
@@ -1703,9 +1697,21 @@ When Po'pay learned that the runners had been caught, he ordered the rising to b
 
 A statue of Po'pay stands in the United States Capitol. It is one of New Mexico's two statues in the Capitol's Statuary Hall collection, which holds statues of two people from each state's history.
 
+#### Where the Plains horses came from
+
+When the Spanish went south out of New Mexico in 1680, they left their horses. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
+
+**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
+
+The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
+
+**Known:** Plains nations had horses by the 1700s.
+
+**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
+
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 3 minutes**
 
 Haudenosaunee leaders bargained with French and British officials for fifty years, because both sides wanted Native allies. Native nations also went on making their own agreements with one another.
 
@@ -1757,13 +1763,13 @@ Benjamin Franklin printed the minutes of the council, the written record of what
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
 French and British armies fought their wars on Native land after 1750. Then the leaders, soldiers and settlers of a new country, the United States, moved onto that land and fought the nations for it.
 
 When British forces beat the French in 1763, Native nations lost the second empire they had bargained with against Britain. Then the colonists went to war with Britain in the American Revolution. The Haudenosaunee nations took different sides in that war, and their Confederacy split for the first time in centuries. During the war, in 1778, United States officials signed their first treaty with a Native nation. In 1791 fighters from a confederacy of nations in the Ohio Country destroyed a United States army.
 
-#### Pontiac and the Line
+#### Pontiac, smallpox and the Line
 
 French and British commanders both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. A loose confederacy of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British in 1763. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
 
@@ -1775,7 +1781,9 @@ French and British commanders both needed Native allies in the French and Indian
 
 **The Line.** British officials answered the war by drawing a line. They issued the Royal Proclamation, an official public announcement of an order, on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists were angry about the line and crossed it anyway. Writers for Encyclopedia Virginia call the Proclamation a foundation of later treaty law, the set of rules for agreements between governments.
 
-**Paxton.** While the war went on, settlers in Pennsylvania attacked Native people who were not fighting in it. Armed settlers from Paxton Township killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
+#### The Conestoga killings
+
+While Pontiac's war went on, settlers in Pennsylvania attacked Native people who were not fighting in it. Armed settlers from Paxton Township killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
 
 One of the dead was Shehaes, a very old man who had helped make a treaty with William Penn in 1701. They killed him in his bed. The attackers scalped all six, cutting away the skin and hair from the top of each head, and burned the huts.
 
@@ -1827,7 +1835,7 @@ At his urging, members of Congress passed a law in 1802 that let the president s
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 10 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 9 minutes**
 
 East of the Mississippi River, Native leaders tried several ways to keep their nations' land. North of the Ohio River, people from many nations joined a confederacy and fought American armies. In the Southeast, Cherokee leaders wrote a constitution, a written plan for their government and its basic laws, and took their fight to court. In Florida, Seminole fighters went to war against removal.
 
@@ -1951,7 +1959,7 @@ He died a prisoner at Fort Moultrie three months after Jesup seized him. Frederi
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 22 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 21 minutes**
 
 United States officials and soldiers forced one Native nation after another onto reservations, pieces of land set aside for each nation in a treaty or by an order, between 1850 and 1900. Soldiers and officials held the people there, and officials and settlers took the rest of each nation's country.
 
@@ -1996,6 +2004,8 @@ Captain Silas Soule, one of the officers there, refused to let his men fire. He 
 Members of a committee of Congress later wrote, using an old word for cowardly and cruel, that Chivington "deliberately planned and executed a foul and dastardly massacre." Chivington left the army and was never put on trial, and no officer or soldier was punished.
 
 A man shot Soule dead on a Denver street in April 1865, about two months after Soule spoke against Chivington before investigators. No one was ever punished for killing him. National Park Service staff look after the place of the massacre today as the Sand Creek Massacre National Historic Site.
+
+#### From Red Cloud to Geronimo
 
 **Red Cloud's War.** Gold was found in Montana in 1863, and the Bozeman Trail was opened as a road for white settlers to reach it. The trail ran through Lakota country, and the Lakota had never given permission for it. When soldiers built forts along it to protect the settlers, Lakota fighters went to war, from 1866 to 1868. The war is named for the Lakota leader Red Cloud.
 
@@ -2161,7 +2171,7 @@ Twenty-five soldiers also died. Writers for Britannica and History.com say that 
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 11 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
 
 Native leaders founded national organizations of their own in these fifty years, the Society of American Indians in 1911 and the National Congress of American Indians in 1944. Federal boarding schools stayed open the whole time.
 
@@ -2293,7 +2303,7 @@ He wrote about what happened to him in *Code Talker*, a memoir, or book about th
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
 
 Native nations spent these fifty years fighting a federal plan to end them as nations, and winning back the running of their own affairs. Members of Congress declared in 1953 that the United States should end its recognition of Native nations, which means its dealings with each nation as a government. Twenty-two years later, in 1975, President Ford signed a law under which Native nations could take control of their own schools, clinics and police.
 
@@ -2311,7 +2321,7 @@ Officials of the Bureau of Indian Affairs, the federal agency in charge of India
 
 Many of them lived in poverty in the cities. They also built lasting Native communities in Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, and Denver. The next Native movement started in those cities.
 
-#### Alcatraz and Wounded Knee, 1969 to 1973
+#### Alcatraz, Blue Lake and Alaska
 
 George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement, known as AIM, in Minneapolis in July 1968. Its members began with street patrols against police abuse. Many Native people had moved to Minneapolis under relocation.
 
@@ -2323,7 +2333,9 @@ George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people found
 
 That is nearly as much land as the 48 million acres all Native nations together held in 1934. The land and money went to twelve regional corporations, later thirteen, and to more than 200 village corporations. These were businesses, and Alaska Natives became their owners, called shareholders.
 
-**Wounded Knee, 1973.** About 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota, in 1973. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. Of the 146 dead whom a burial party put in one grave there, 62 were women and children.
+#### Wounded Knee, 1973
+
+About 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota, in 1973. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. Of the 146 dead whom a burial party put in one grave there, 62 were women and children.
 
 The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals, officers who carry out the orders of the national courts, and agents of the FBI, the national police force that looks into federal crimes. The federal forces surrounded the village with armored vehicles.
 
@@ -2361,11 +2373,9 @@ The Lakota call one mountain in the Black Hills Tunkasila Sakpe, the Six Grandfa
 
 The justices of the Supreme Court held in *United States v. Sioux Nation*, in 1980, that United States officials had broken the treaty when they took the hills. They awarded the Lakota compensation, money paid to make up for a loss.
 
-#### Self-rule, children taken and women sterilized
+#### Children taken and women sterilized
 
-President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975, self-determination meaning a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because schools were at the center of it.
-
-**Children taken.** While nations were taking over their own programs, workers at agencies were still taking Native children from their families, as they had for decades before 1978. Writers at the National Indian Child Welfare Association state that 25 to 35 percent of Native children were taken, between one in four and one in three. They also state that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them.
+Workers at agencies took Native children from their families for decades before 1978. Writers at the National Indian Child Welfare Association state that 25 to 35 percent of Native children were taken, between one in four and one in three. They also state that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them.
 
 Members of Congress passed the Indian Child Welfare Act in 1978. In it they set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts the power to decide the cases.
 
@@ -2375,7 +2385,11 @@ Investigators from the General Accounting Office, a federal office, studied 4 of
 
 Thirty-six of the women were under 21, although a court had ordered a stop to sterilizing women that young. Two years before the report, Dr. Connie Pinkerton-Uri, a Choctaw and Cherokee doctor, had found that one in four Native women had been sterilized without agreeing to it.
 
-**Gaming.** Ten years after the child welfare law, members of Congress set rules for gaming run by Native nations, meaning gambling businesses such as casinos. Their Indian Gaming Regulatory Act became law on October 17, 1988. For some nations gaming became a large source of income, and the amount varies a great deal from nation to nation.
+#### Self-rule, casinos and remains sent home
+
+President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975, self-determination meaning a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because schools were at the center of it.
+
+**Gaming.** Members of Congress set rules for gaming run by Native nations, meaning gambling businesses such as casinos. Their Indian Gaming Regulatory Act became law on October 17, 1988. For some nations gaming became a large source of income, and the amount varies a great deal from nation to nation.
 
 Under the act, tribal gaming falls into three classes of games, and a nation and a state can make a compact, a formal agreement about the games. In the act, members of Congress also set up the National Indian Gaming Commission to watch over tribal gaming.
 
@@ -2453,7 +2467,7 @@ Other people who were children at the schools told it differently. Chester Nez w
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 10 minutes**
+**Era 10 of 10 · 2000 to Today · about 9 minutes**
 
 Native nations govern themselves today. There are 574 federally recognized Native nations in the United States, which means that United States officials deal with each one as a government. There are also nations recognized by their states, and nations still working to win federal recognition. More than 200 Alaska Native villages have their own corporations. Native Hawaiians have no federally recognized government of their own.
 
@@ -2807,7 +2821,7 @@ After independence, the British king no longer had any right to the white pines 
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 5 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 4 minutes**
 
 New Englanders put their rivers to work and cut down most of their forests in the first half of the 1800s, and a few Americans began to write about saving wild places. Mill dams across the rivers stopped the salmon from swimming upstream to lay their eggs. By 1850 farmers had cleared most of New England's forest, partly to feed a boom in sheep.
 
@@ -2871,7 +2885,7 @@ Thoreau gave a talk called "Walking" in Concord on April 23, 1851. It came out a
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 22 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 21 minutes**
 
 US officials gave away the land they had taken from Native nations in these fifty years, and hunters killed nearly all the bison, the animals the Plains nations lived on. Members of Congress passed laws in 1862 for giving the land to railroad companies, to settlers called homesteaders and to the states for colleges. By one historian's count, US officials took more than 1.5 billion acres from the nations between 1776 and 1887.
 
@@ -3070,7 +3084,7 @@ Muir was the club's first president, and he led it until he died in 1914. In May
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 President Theodore Roosevelt and the federal officials after him took charge of hundreds of millions of acres in the first half of the 1900s, and some of that land had belonged to Native nations. Roosevelt alone put about 230 million acres under federal protection from 1901 to 1909, in national forests, parks, bird refuges (land where wild birds are kept safe) and monuments.
 
@@ -3272,7 +3286,7 @@ In 1950: Crews had orders to put out every wildfire by 10 the next morning, and 
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
 
 Pollution that people could see pushed members of Congress to pass the big laws that protect the land, air and water, and then people began to count who lived next to the waste. DDT, a chemical for killing insects, left bald eagles with eggs so thin they broke. In 1969 an oil well blew out off Santa Barbara, California, and oil and trash on the Cuyahoga River in Cleveland caught fire.
 
@@ -3320,7 +3334,7 @@ Jay Johnson, the last Native park worker who lived in the valley, retired and le
 
 **Not known:** No record names the official who ordered the village torn down in 1969. Erin Davenport, a Yosemite park historian, told the National Parks Conservation Association that park historians have found no record of why it was done either.
 
-#### The river that burned
+#### The river that burned and the Santa Barbara oil spill
 
 Oil and trash floating on the Cuyahoga River in Cleveland, Ohio, caught fire on June 22, 1969. The fire burned for about 20 to 30 minutes before it was brought under control. The river had burned at least 13 times since 1868. The 1912 fire killed five men, and the 1952 fire did $1.3 million in damage.
 
@@ -3908,7 +3922,7 @@ Refugees fled to cities in the United States. They included white planters and f
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 11 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 10 minutes**
 
 The first large wave of people who chose to come here arrived in these years, mostly from Germany and Ireland, and some Protestant Americans met the Irish Catholics with mobs. Germans were the largest group of newcomers from about 1840.
 
@@ -4014,7 +4028,7 @@ Patrick's son Patrick Joseph Kennedy, known as P.J., had a son named Joseph P. K
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 21 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 20 minutes**
 
 Chinese immigrants became the first people that lawmakers barred from the country because of where they came from. Newcomers from Europe kept arriving, about 11 million through the port of New York alone between 1855 and 1890. Germans still came in the largest numbers in the 1850s. Chinese immigrants began arriving on the West Coast in 1849. Toward the end of the century, Italians, Poles, Hungarians, Greeks and Jews from the Russian Empire came in growing numbers.
 
@@ -4116,11 +4130,13 @@ Mobs in Seattle forced more than 300 Chinese residents to the docks in February 
 
 A stone marker placed at the site in 2012 states, "No one was held accountable." Its words are in English, in Chinese and in Nez Perce, a Native American language.
 
-#### Jews from the Russian Empire, and others from southern and eastern Europe
+#### Italians, Poles, Hungarians and Greeks
 
 Italians, Poles, Hungarians and Greeks came in growing numbers late in the century. Many of them were peasants, poor farm workers, who had lost their land as farming in Europe became a business. They came to earn enough money to go home and buy a piece of land. One Slavic steelworker put the plan this way: "A good job, save money, work all time, go home, sleep, no spend." Many did go home.
 
-Jews from the Russian Empire came too, running from riots and from laws aimed at them. They came as families and planned to stay.
+#### Jews from the Russian Empire
+
+Jews from the Russian Empire came running from riots and from laws aimed at them. Unlike many of the peasants who came to earn money, they came as families and planned to stay.
 
 Revolutionaries murdered the ruler of the Russian Empire, Tsar Alexander II, in March 1881. In the towns, many people in the crowds believed a rumor that Jews had killed him. They also believed that a special order from the government allowed them to beat Jews.
 
@@ -4208,7 +4224,7 @@ Henry Foote, the national government's lawyer in San Francisco, had brought the 
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 The great wave of newcomers peaked in the early 1900s, and then members of Congress cut it down with quota laws, laws that fixed how many people could come from each country. Officials at Ellis Island admitted 1,004,756 people in 1907 alone. Under the 1924 law, no more than about 165,000 immigrants could come each year, and almost no one from Asia could come at all. On the West Coast, officials at Angel Island held Chinese arrivals anywhere from a few days to many months.
 
@@ -4370,7 +4386,7 @@ After 1924: no more than about 165,000 could come in a year, and about 86 of eve
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 13 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
 
 Members of Congress threw out the country-by-country quotas in 1965, and after that most newcomers came from Asia, Latin America, Africa and the Caribbean instead of Europe. Federal officers rounded up Mexicans and Mexican Americans in 1954 and sent them to Mexico, and many of the people they sent were US citizens.
 
@@ -4520,7 +4536,7 @@ Under the same law, officials could for the first time punish employers who know
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 18 minutes**
+**Era 10 of 10 · 2000 to Today · about 15 minutes**
 
 The share of people here who were born in another country rose almost to its highest ever, and federal officers held more people in immigration detention than ever before. About 47.8 million people living in the United States in 2023 had been born in another country, by the Census Bureau's count. That was 14.3 percent of the population, the highest share since 1910. More of them came from Mexico than from any other country.
 
@@ -4732,7 +4748,7 @@ Trade goods moved across the land as well. Traders passed turquoise, seashells, 
 
 ### The 1500s
 
-**Era 2 of 10 · The 1500s · about 5 minutes**
+**Era 2 of 10 · The 1500s · about 4 minutes**
 
 Spanish colonists brought two things north in the 1500s that later changed how people moved across this land: horses, and families who came with wagons and herds to stay. The whole land from coast to coast was still Native land. Europeans reached its edges, but no crowds of settlers moved across the interior. The first colony that came over land to stay arrived at the very end of the century, when Juan de Oñate led Spanish colonists north into what is now New Mexico in 1598.
 
@@ -5102,7 +5118,7 @@ In 1850: the country reached the Pacific, soldiers had forced those five nations
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 16 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 15 minutes**
 
 Settlers filled the Great Plains and the far West after 1850, and United States soldiers forced the Native nations who lived there onto reservations, areas of land that federal officials set aside for them, often far from their homelands. In 1864 soldiers marched about 8,500 Navajo people more than 300 miles to one of them.
 
@@ -5182,7 +5198,11 @@ About 200 people died on the march, in winter. Navajo accounts passed down in fa
 
 Soldiers held more than 8,000 Navajo and Mescalero Apache people at Bosque Redondo, and thousands more died there. On June 1, 1868, Navajo leaders signed a treaty with the United States, and under it the Navajo could go home.
 
-**On the Plains.** Through the 1870s and 1880s, soldiers forced many other nations onto reservations. In the Treaty of Fort Laramie of 1868, United States officials had set aside the Great Sioux Reservation, all of present-day South Dakota west of the Missouri River, the Black Hills included, "for the absolute and undisturbed use" of the Lakota. After soldiers on an Army expedition reported gold in the Black Hills in 1874, federal officials ignored the treaty. In December 1875 they ordered the Lakota bands in their winter camps to move onto the reservation by January 31, 1876, and then they sent the Army against the bands that stayed out.
+#### Reservations on the Plains
+
+Through the 1870s and 1880s, soldiers forced many nations of the Great Plains onto reservations. In the Treaty of Fort Laramie of 1868, United States officials had set aside the Great Sioux Reservation, all of present-day South Dakota west of the Missouri River, the Black Hills included, "for the absolute and undisturbed use" of the Lakota.
+
+After soldiers on an Army expedition reported gold in the Black Hills in 1874, federal officials ignored the treaty. In December 1875 they ordered the Lakota bands in their winter camps to move onto the reservation by January 31, 1876, and then they sent the Army against the bands that stayed out.
 
 <a id="story-laura-ingalls-wilder"></a>
 
@@ -5282,9 +5302,9 @@ About 6 million Black Americans left the South between about 1910 and 1970 to ge
 
 The movement of Black Americans out of the rural South from about 1910 to 1970 is called the Great Migration. The first wave, from about 1910 to 1940, went mostly to cities in the North and the Midwest. Most people rode the trains north, and later travelers also went by car and by bus.
 
-**The cities.** Between 1910 and 1920, Chicago's Black population grew to about two and a half times its size, and Detroit's grew to about seven times. Many newcomers also went to New York, Philadelphia and Pittsburgh.
+**The cities.** Between 1910 and 1920, Chicago's Black population grew to about two and a half times its size, and Detroit's grew to about seven times. New York's and Philadelphia's grew by more than half, and many newcomers also went to Pittsburgh.
 
-About 90 percent of Black Americans lived in the South in 1900. By 1970 fewer than 55 percent did.
+The growth went on in the 1920s. New York's Black population more than doubled in those ten years, from about 152,000 to about 328,000. About 90 percent of Black Americans lived in the South in 1900. By 1970 fewer than 55 percent did.
 
 **Why they left.** Georgia is one example. Black Georgians had several reasons to leave. The boll weevil, a beetle that eats cotton plants, and floods ruined the cotton crop in 1915 and 1916. Lynch mobs killed more than 450 people in Georgia between 1880 and 1930, most of them Black.
 
@@ -5354,7 +5374,9 @@ Thompson's name was not made public until 1978, when Emmett Corrigan, a reporter
 
 United States Army officers forced more than 110,000 Japanese Americans out of their homes on the West Coast in 1942. The United States had been at war with Japan since Japanese forces attacked Pearl Harbor, in Hawaii, on December 7, 1941. President Franklin D. Roosevelt signed Executive Order 9066, a rule issued by a president, on February 19, 1942. Under it, military commanders could keep "any or all persons" out of areas they named.
 
-General John L. DeWitt commanded the Army on the West Coast. In March and April 1942 he issued orders aimed at "all persons of Japanese ancestry," meaning everyone whose family came from Japan. United States citizens and people who were not citizens were ordered out alike.
+**The reason given.** Roosevelt gave his reason in the order's opening words. Winning the war, he stated, required "every possible protection" against spying and against damage done on purpose to war supplies and to buildings and services needed for the war. The order does not identify any group of people.
+
+General John L. DeWitt commanded the Army on the West Coast. In March and April 1942 he issued orders aimed at one group, "all persons of Japanese ancestry," meaning everyone whose family came from Japan. United States citizens and people who were not citizens were ordered out alike.
 
 **108 orders.** DeWitt set up an Army office on March 11 to carry out the removal. Karl Bendetsen, an Army officer, commanded it, and the next day, at 34, he was made a colonel. Bendetsen's staff divided the coast into 108 areas of about 1,000 Japanese Americans each and issued a separate order for each area.
 
@@ -5366,7 +5388,7 @@ After about three months, on average, officials moved them again, to 10 larger c
 
 **The end.** None of the people removed was charged with a crime or tried. Officials lifted the order that kept Japanese Americans off the West Coast on January 2, 1945, and they closed Tule Lake, the last camp, on March 20, 1946.
 
-In 1983 the members of a federal commission that studied the removal found that its causes were "race prejudice, war hysteria and a failure of political leadership." Under the Civil Liberties Act, which President Ronald Reagan signed in 1988, each surviving person who had been held received a written apology and $20,000.
+In 1983 the members of a federal commission that studied the removal found that the order "was not justified by military necessity," meaning there was no military need for it. They found that the causes of the removal were "race prejudice, war hysteria and a failure of political leadership." Under the Civil Liberties Act, which President Ronald Reagan signed in 1988, each surviving person who had been held received a written apology and $20,000.
 
 <a id="story-george-swanson-starling"></a>
 
@@ -5430,7 +5452,9 @@ The South grew by about 36 percent between 1970 and 1990, and the West by about 
 
 #### Federal officials move Native families to cities
 
-Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956. It ran in the same years as termination, a policy that members of Congress declared on August 1, 1953, to end the government's recognition of Native nations and the services that came with it.
+Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956.
+
+**The aim.** Bureau officials opened relocation offices in Denver, Salt Lake City and Los Angeles in 1951 to help Native people from reservations find jobs in big cities. The National Archives describes Relocation as part of termination. Members of Congress declared that policy on August 1, 1953, to end the government's recognition of Native nations and the services that came with it. The federal officials behind termination aimed to make Native people live like most other Americans.
 
 The officials promised people one-way tickets to a city and help for a short time after they arrived. About 30,000 Native people moved to cities in the 1950s, and more than 100,000 had moved by the time the program ended in the 1970s. They went to Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, Denver and other cities. Many of them lived in poverty there. They also built new Native communities in those cities.
 
@@ -5440,7 +5464,7 @@ A small number of Black Americans began moving back to the South in the 1970s, a
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 7 minutes**
 
 Hurricane Katrina and the broken levees around New Orleans forced more than 1 million people from their homes on the Gulf Coast in 2005, the largest sudden move of these years. After Hurricane María hit Puerto Rico in 2017, about 130,000 people left the island for the mainland within a year.
 
@@ -5618,7 +5642,7 @@ The 1573 orders were among the first written rules anywhere in the world that sp
 
 ### The 1600s
 
-**Era 3 of 10 · The 1600s · about 8 minutes**
+**Era 3 of 10 · The 1600s · about 7 minutes**
 
 Each colonial town of the 1600s went up in the homeland of a Native nation, and some were planned while others simply grew. English colonists began Jamestown in 1607 as a fort. Spanish officials laid out Santa Fe around a plaza. Boston, founded in 1630, had no plan at all, and its streets formed around the houses and the hills.
 
@@ -5686,7 +5710,7 @@ All five squares are still there. The four quarter squares are called Logan, Fra
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 3 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 2 minutes**
 
 As the four biggest colonial ports grew to between 8,000 and 13,000 people each, the people in them organized to fight fire. Around 1750 about 13,000 people lived in Philadelphia, about 12,000 in Boston, about 11,000 in New York, and about 8,000 in Charleston, though some of the Charleston counts come from 1760 rather than 1750. London at the same date had over 700,000 people.
 
@@ -5890,7 +5914,7 @@ While the water was still on its way in 1842, Strong wrote that "Croton Water is
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 20 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 19 minutes**
 
 Builders made American cities taller in these fifty years, dug sewers under them, and spread them outward along streetcar lines. In Chicago, crews raised the streets over new sewers and lifted the buildings to match. Census takers counted 1,099,850 people in Chicago in 1890, which made it the second-largest city in the country.
 
@@ -5932,11 +5956,9 @@ Other buildings have a claim to be first. One is New York's Equitable Life Build
 
 **By 1893:** Chicago's downtown stood on streets raised over its sewers, and its office buildings rose ten stories and more on frames of iron and steel.
 
-**The White City.** Steel frames also held up the buildings of a world's fair, the World's Columbian Exposition, which opened in Chicago in 1893. Daniel Burnham directed the building work, and Frederick Law Olmsted drew the site plan, the layout of the grounds. Workers put up a matched set of white buildings in the style of ancient Greek and Roman buildings, with rows of columns. Electric lights lit them, and the fair got the name the White City.
+#### Mohawk ironworkers
 
-The buildings were temporary, built to stand only while the fair ran. Under their fronts they were sheds on those steel frames. The fronts were made of staff, a mix of plaster, cement and plant fiber that workers poured into molds, and then painted white. More than 27 million people visited the fair in its six months. Planners in the City Beautiful movement of the 1890s and 1900s took the White City as their model. They worked to bring grand public buildings, wide avenues and parks into American cities.
-
-**High steel.** Mohawk ironworkers built steel frames like these. From 1886 on, men from two Mohawk communities, Kahnawake and Akwesasne, helped build bridges and tall buildings across the Northeast. That year, at a bridge job at Kahnawake, a Mohawk town near Montreal, Mohawk men started working high steel, joining the steel frames of bridges and buildings high above the ground.
+Mohawk ironworkers built steel frames like these. From 1886 on, men from two Mohawk communities, Kahnawake and Akwesasne, helped build bridges and tall buildings across the Northeast. That year, at a bridge job at Kahnawake, a Mohawk town near Montreal, Mohawk men started working high steel, joining the steel frames of bridges and buildings high above the ground.
 
 From Kahnawake and Akwesasne, the men traveled to bridge and skyscraper jobs wherever the steel work was, and they called that "booming out." An exhibition at the Smithsonian's National Museum of the American Indian, *Booming Out: Mohawk Ironworkers Build New York*, documents their work. It includes their work in the next century on the Empire State Building, the Chrysler Building, the George Washington Bridge and the World Trade Center.
 
@@ -5951,10 +5973,6 @@ Builders pinched each building in at its middle, which left room for a narrow ai
 The shaft was too narrow and too deep to bring daylight or moving air down below the top floors, so most of the rooms it was built for stayed dark and stale. The shafts filled up with garbage. The shaft also worked as a flue, a channel that draws hot air and smoke upward, as a chimney does. A fire in the shaft could climb it to the floors above.
 
 New York's state lawmakers passed a new Tenement House Act in 1901, later known as the New Law. In it they banned the dumbbell design and required windows facing outward in every room, along with courtyards, indoor toilets and protection against fire. The rules covered old buildings as well, so owners had to change those too.
-
-**The White Wings.** The reporter Jacob Riis wrote that one man's broom "saved more lives in the crowded tenements than a squad of doctors." The man was George E. Waring Jr. New York's reform mayor, William L. Strong, appointed him street-cleaning commissioner in 1895, and Waring held the job until 1898. He put about 2,000 street sweepers in white uniforms, and people called them the White Wings. Each day they cleaned about 450 miles of street.
-
-Waring set up the first planned systems for getting rid of the city's waste and for recycling it. He organized Juvenile Street Cleaning Leagues too, clubs for children who helped keep their streets clean.
 
 <a id="story-jacob-riis"></a>
 
@@ -5995,6 +6013,12 @@ The other was the building itself. The water at 97 Orchard Street came from a pu
 Of the eight children Bridget and Joseph Moore had, four lived to be adults.
 
 The building still stands, and museum staff have recreated the Moores' apartment as it was in 1869. Between 1863 and 1935, when the floors where people lived were sealed shut, an estimated 7,000 people from more than twenty countries lived at 97 Orchard Street. The Moores are one of the families among them whose names appear in the records.
+
+#### The White Wings
+
+The reporter Jacob Riis wrote that one man's broom "saved more lives in the crowded tenements than a squad of doctors." The man was George E. Waring Jr. New York's reform mayor, William L. Strong, appointed him street-cleaning commissioner in 1895, and Waring held the job until 1898. He put about 2,000 street sweepers in white uniforms, and people called them the White Wings. Each day they cleaned about 450 miles of street.
+
+Waring set up the first planned systems for getting rid of the city's waste and for recycling it. He organized Juvenile Street Cleaning Leagues too, clubs for children who helped keep their streets clean.
 
 #### Central Park and Seneca Village
 
@@ -6039,6 +6063,12 @@ His travels through the South and Texas lasted until 1857, and his reports were 
 He and Calvert Vaux won the Central Park contest in 1858 with the Greensward plan. They designed the land itself, its paths, lawns, trees, water and roads, which is the work called landscape architecture. Olmsted meant the park for everyone in the city, rich and poor. He and Vaux gave it meadows and woods shaped to look like open country, so that city people could get some relief from the city.
 
 Olmsted's best-known designs after Central Park include Prospect Park in Brooklyn, the Emerald Necklace in Boston, a chain of connected parks, and the grounds of the US Capitol in Washington. In 1893 he laid out the grounds of the World's Columbian Exposition in Chicago, in Jackson Park.
+
+#### The White City
+
+A world's fair, the World's Columbian Exposition, opened in Chicago in 1893. Daniel Burnham directed the building work, and Olmsted drew the site plan, the layout of the grounds. Workers put up a matched set of white buildings in the style of ancient Greek and Roman buildings, with rows of columns. Electric lights lit them, and the fair got the name the White City.
+
+The buildings were temporary, built to stand only while the fair ran. Under their fronts they were sheds on steel frames. The fronts were made of staff, a mix of plaster, cement and plant fiber that workers poured into molds, and then painted white. More than 27 million people visited the fair in its six months. Planners in the City Beautiful movement of the 1890s and 1900s took the White City as their model. They worked to bring grand public buildings, wide avenues and parks into American cities.
 
 #### Out: streetcar lines and streetcar suburbs
 
@@ -6102,7 +6132,9 @@ President Woodrow Wilson signed the Raker Act on December 19, 1913. Under it, Sa
 
 Workers finished the O'Shaughnessy Dam in 1923, and by 1934 the full system was carrying water to San Francisco. City officials later sold the dam's electricity to a private company, Pacific Gas and Electric, and people fought in court for decades over whether that broke the Act.
 
-**Federal work crews.** In the 1930s, federal crews laid new water and sewer pipes in cities across the country. They worked for the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, from 1935 to 1943. WPA crews laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
+#### Federal work crews of the 1930s
+
+Federal crews laid new water and sewer pipes in cities across the country in the 1930s. They worked for the Works Progress Administration (WPA), a federal program that hired people to build public projects such as roads, pipes and schools, from 1935 to 1943. WPA crews laid about 24,000 miles of storm and sewer lines, which carry away rainwater and waste, and about 19,700 miles of water mains.
 
 WPA crews built about 500 water-treatment plants, more than 4,000 new schools, hundreds of hospitals, and airports, and they built or improved about 651,000 miles of road. Counts of the WPA's work differ from one record to another, so each of these figures is close but not exact.
 
@@ -6160,7 +6192,7 @@ Mohawk ironworkers from Kahnawake and Akwesasne worked on the steel of both the 
 
 #### Where Great Migration families could live
 
-The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 500 percent, and New York's roughly doubled.
+The Great Migration was the move of about 6 million Black Americans out of the South between 1910 and 1970. In its first ten years, from 1910 to 1920, the Black population of Chicago rose 148 percent. Detroit's rose 611 percent, to about seven times its 1910 size. Philadelphia's rose about 59 percent, and New York's about 66 percent. In the 1920s New York's Black population more than doubled.
 
 Black families who arrived could not live wherever they chose. White property owners kept them out of neighborhoods with restrictive covenants, sections written into the deed of a house, the legal paper that records who owns it. A covenant forbade the owner to sell or rent the house to a Black buyer, and sometimes to Jewish or Asian buyers as well. Each later owner of the house had to obey it too.
 
@@ -6242,7 +6274,7 @@ She married a man called Blackie Black and stayed in Oak Ridge for the rest of h
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
 
 St. Louis lost about 60 percent of its people between 1950 and 2000, and Detroit lost nearly half. Families moved out of the centers of older American cities to new suburbs at their edges. Cities in the hot South and West grew fast. Phoenix, Arizona, went from about 107,000 people in 1950 to more than 1.3 million in 2000.
 
@@ -6700,7 +6732,7 @@ The historian Laurel Thatcher Ulrich, who wrote *Good Wives*, published a book a
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 9 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 8 minutes**
 
 Middle-class families in towns and cities, the families in between the rich and the poor, began in the early 1800s to treat the home as a place set apart from paid work. From the 1830s, cooks began to trade the open hearth, the fireplace where food cooked over the fire, for the iron stove. On farms, children's chores came first, and school fitted around them. In the South, enslavers could sell any member of an enslaved family at any time.
 
@@ -6792,7 +6824,7 @@ Native nations held about 138 million acres in 1887 and about 48 million in 1934
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 8 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 7 minutes**
 
 Where an American family made its home in these years depended on how much money it had and what part of the country it was in. In New York, a working family might rent a tenement flat of small rooms, with shared toilets out in the yard. A middle-class family might have a house with a parlor for guests, a dining room for meals and a paid servant to help run it. On the plains, where few trees grew, settler families cut their houses out of the ground.
 
@@ -7011,7 +7043,7 @@ He said that if a Black family bought a house in Levittown, white families would
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
 
 A house in the suburbs became the common picture of American family life after 1950. The share of households that owned their home rose from 43.6 of every 100 in 1940 to 61.9 in 1960. Lenders and sellers kept Black families out of many of the new suburbs, and in Levittown, Pennsylvania, a mob attacked the house of the first Black family to move in.
 
@@ -7121,7 +7153,7 @@ Grant, Drew and Reed went on to Harvard University and graduated in 1987, 1990 a
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 7 minutes**
+**Era 10 of 10 · 2000 to Today · about 6 minutes**
 
 The median new American house grew to 2,467 square feet by 2015, while the average household shrank to 2.50 people by 2025. In the crash that began in 2007, lenders took back millions of homes from families who could not pay their loans. During the pandemic of 2020, many homes became an office and a school at the same time.
 
@@ -7407,7 +7439,7 @@ When the ironworks company went bankrupt, unable to pay its debts, Jenks bought 
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 6 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
 
 Iron furnaces and forges went up across Pennsylvania, Maryland and Virginia, and in Maryland many of the ironworkers were enslaved people or convicts. At the Baltimore Iron Works, which opened in 1731, 42 of the first 89 workers, almost half, were enslaved. Waterwheels still drove the machines, and the furnaces still burned charcoal. In Philadelphia, the printer Benjamin Franklin designed a new kind of stove in 1741 or 1742 and refused to patent it.
 
@@ -7463,7 +7495,7 @@ In London an ironmonger, a seller of iron goods, copied much of Franklin's pamph
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
 
 Machines began to do work that had taken many hands, and after one of them, the cotton gin, planters enslaved far more people. Eli Whitney built the gin in 1793. One small gin could clean about 50 pounds of cotton a day, work that took several hundred hours by hand.
 
@@ -7647,7 +7679,7 @@ The records do not make clear whether this treaty or an earlier one covered the 
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 16 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 15 minutes**
 
 Inventors after 1850 worked with patent lawyers and teams of workers, and US officials decided who could own an invention at all. In 1858 the US attorney general, the government's chief lawyer, ruled that an invention by an enslaved person could not be patented. According to the law scholar Kara Swanson, after that ruling free Black inventors could not get patents either.
 
@@ -7830,7 +7862,7 @@ Native peoples who moved with the seasons had always used these lands too. The f
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 9 minutes**
 
 Americans brought machines into their factories, farms and homes in these fifty years. Workers at Henry Ford's car plant in Michigan started building car frames on a moving assembly line on October 7, 1913. Electric refrigerators and radios went into American homes, tractors began to replace horses on farms, and chemists made new materials, starting in 1907 with Leo Baekeland's Bakelite, the first plastic made entirely from chemicals.
 
@@ -7954,7 +7986,7 @@ Scientists used cyclotrons to make elements that do not occur in nature. They ma
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
 
 Computers shrank from machines that filled a room to machines that sat on a desk at home, and people linked them into networks. Jack Kilby of Texas Instruments built the first integrated circuit, a whole electronic circuit on one small chip, in 1958. The Altair 8800, a computer sold as a kit of parts, was announced in the magazine *Popular Electronics* in January 1975, and IBM began selling the IBM PC in 1981. The IBM PC became the standard office computer.
 
@@ -8240,7 +8272,7 @@ This chapter follows American science from the sunrise posts at Cahokia to the J
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 3 minutes**
 
 The people of Native nations here watched the sky for many generations and learned where the sun rose at each time of year. They studied plants, fire, the weather and the tides as well. Each generation taught what it knew to the next.
 
@@ -8472,7 +8504,7 @@ Caspar Wistar wrote a second paper to go with Jefferson's. With it, Wistar began
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 10 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 9 minutes**
 
 Americans set up their own places for science between 1800 and 1850. Benjamin Silliman, Yale's professor of chemistry from 1802, founded the country's first lasting science journal, a magazine where scientists publish their research, in 1818. President James K. Polk signed a law in 1846 to set up the Smithsonian Institution in Washington, paid for by an Englishman who never visited the country. Its first head, Joseph Henry, set up a network of volunteers who reported the weather.
 
@@ -8580,7 +8612,7 @@ She became the first woman elected to the American Academy of Arts and Sciences,
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 14 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 13 minutes**
 
 Louis Agassiz, the most famous scientist in America, used his fame in these years to push a false claim about race. In 1850 he had seven enslaved people in South Carolina photographed, with their clothes taken off, as "evidence" that the races of people were created separately.
 
@@ -8726,7 +8758,7 @@ Fleming discovered 59 nebulae and 10 novae, stars that suddenly grow much bright
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 American scientists measured distances across the universe and ran the first controlled nuclear chain reaction in these fifty years, and some of them used people as research material without asking them. Henrietta Leavitt found a rule for measuring space in 1912, and Edwin Hubble used it to show in 1929 that the galaxies are moving apart. Enrico Fermi's team in Chicago ran the chain reaction on December 2, 1942. Fermi, Albert Einstein and Emilio Segrè all came to American labs from Europe in the 1930s.
 
@@ -8983,7 +9015,7 @@ She first described the moving genes in 1948. In 1950 she published a paper abou
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 19 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
 
 A doctor cut cells from Henrietta Lacks's tumor in 1951 without asking her, and for the rest of the century Americans kept learning what scientists had done to people who never agreed. The reporter Eileen Welsome made the plutonium injections public in 1993. Members of a federal committee then found nearly 4,000 radiation experiments on people, and in 1995 President Bill Clinton apologized. Under laws passed in 1989 and 1990, museum staff had to begin returning the Native American dead that scientists had collected.
 
@@ -9181,7 +9213,7 @@ O'Leary announced in November 1996 that the families of 12 people injected in th
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 The biggest experiments after 2000 had thousands of scientists on them. About 3,000 people worked on ATLAS, one of the two experiments that found the Higgs boson in 2012. Scientists finished reading nearly all of the human genome in 2003 and read all of it in 2022, and they detected gravitational waves for the first time in 2015.
 
@@ -9357,7 +9389,7 @@ This chapter describes the fuels in order, from the fires Native people set on p
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 People here did their work with the strength of their own bodies and with fire, and wood was the fuel they burned. They burned it to heat their homes, to cook and to see after dark.
 
@@ -9621,7 +9653,7 @@ The *Charles W. Morgan* was built in New Bedford in 1841 and made 37 voyages bet
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 13 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 12 minutes**
 
 Americans began to buy two new kinds of energy in these years: kerosene for their lamps, made from oil, and electricity sent through wires. Edwin Drake's crew drilled a well in Pennsylvania that reached oil in 1859, and refiners made the oil into kerosene. Thomas Edison's workers began sending electric current to paying customers from a station in New York City in 1882.
 
@@ -9664,6 +9696,40 @@ The whaling fleet had been largest in 1846, and whalers caught fewer whales thro
 **The tax.** During the Civil War, members of Congress passed the Internal Revenue Act to pay for the Union Army, the army of the Northern states. Under that law, alcohol was taxed at up to $2.08 a gallon from 1862 to 1864. The lawmakers meant to tax alcohol that people drank, but they did not leave camphene out of the law, and camphene was about three quarters alcohol.
 
 Before the tax, camphene and kerosene each sold for about 50 cents a gallon. At the top rate, the tax on the alcohol in one gallon of camphene came to more than a dollar, while kerosene was taxed at 10 cents a gallon. People stopped buying camphene, and families switched to kerosene.
+
+#### Avondale, 1869: one way out
+
+A fire at the Avondale coal mine, near Wilkes-Barre, Pennsylvania, killed 110 people on September 6, 1869. The Steuben Coal Company owned the mine.
+
+Mine operators then kept small fires burning at the bottom of their shafts, the deep holes that lead down into a mine. A fire like this, called a ventilating furnace, made a draft that moved fresh air through the mine.
+
+**One way out.** Sparks from the ventilating furnace set fire to the wooden timbers in the shaft, and the flames spread up to the breaker, the wooden building where coal was broken and sorted. The breaker stood right over the shaft, and the shaft was the only way into or out of the mine. The men who ran the Steuben Coal Company had the mine and its breaker built that way.
+
+The fire filled the mine with smoke and gas, and 108 men and boys underground died because they could not breathe. Five of the dead were boys between 12 and 17 years old. Two men who went down to rescue the miners also died.
+
+Pennsylvania lawmakers passed a mine law in 1870. It required every mine to have more than one way out, and it forbade using a single passage both to bring fresh air in and to let bad air out.
+
+#### From charcoal to coal
+
+Hopewell Furnace in Pennsylvania burned charcoal from about 1771 until it closed in 1883. By then iron makers had built new ironworks that burned anthracite, the hard coal, and charcoal furnaces had fallen out of use. For more than a hundred years, workers at Hopewell had cut the forest around it for charcoal. Mark Bird, who built the furnace, enslaved some of those workers in its early decades, and the last record of slavery at Hopewell is from 1821.
+
+<a id="story-lafayette-houck"></a>
+
+#### Lafayette Houck
+
+> **Who:** One of the last colliers at Hopewell Furnace, who later taught the National Park Service how charcoal was made.
+>
+> **When and where:** Hopewell Furnace, Berks County, Pennsylvania, in the later 1800s, and again in 1936.
+
+**Fifty-three years after the furnace closed, he showed how charcoal was made.**
+
+Lafayette Houck came from a family of colliers. Their work at Hopewell began in 1818, when Henry Houck worked there as a master collier, in charge of the pits and of the helpers who worked them. In winter Henry also repaired wooden wagon wheels or chopped wood to sell. In the 1830s the furnace's owners paid about 20 colliers, and each one tended eight or nine pits.
+
+**The watch.** Lafayette made charcoal the way Hopewell's colliers had since the 1700s, in smoldering piles of stacked wood. A Hopewell collier lived in a rough hut near his pits from May to October, with one or two helpers, and together they tended up to eight or nine pits at once. They watched the pits day and night, from the moment a pit was lit until a teamster, a man who drove a wagon, hauled away the last load of charcoal.
+
+**Teaching the trade.** Hopewell closed in 1883, and federal officials bought the land in the 1930s. In 1936 Houck and his son, William, showed workers of the Civilian Conservation Corps, a government jobs program, how a collier lived and worked. Houck taught the National Park Service how charcoal was made, and he told them what he remembered about life at the furnace.
+
+**Not known:** his exact age, his pay, and the years he began and stopped work as a collier. One National Park Service page gives his life as 1846 to 1939, and another says he was 82 in 1936, which would put his birth around 1854.
 
 #### Pearl Street, 1882
 
@@ -9727,40 +9793,6 @@ New York State officials asked to buy three Westinghouse AC dynamos for the new 
 
 After Kemmler's execution in August 1890, Westinghouse said, "It has been a brutal affair. They could have done better with an ax."
 
-#### Avondale, 1869: one way out
-
-Power stations such as Pearl Street burned coal, and miners died digging it. Thirteen years before Pearl Street opened, a fire at the Avondale mine, near Wilkes-Barre, Pennsylvania, killed 110 people on September 6, 1869. The Steuben Coal Company owned the mine.
-
-Mine operators then kept small fires burning at the bottom of their shafts, the deep holes that lead down into a mine. A fire like this, called a ventilating furnace, made a draft that moved fresh air through the mine.
-
-**One way out.** Sparks from the ventilating furnace set fire to the wooden timbers in the shaft, and the flames spread up to the breaker, the wooden building where coal was broken and sorted. The breaker stood right over the shaft, and the shaft was the only way into or out of the mine. The men who ran the Steuben Coal Company had the mine and its breaker built that way.
-
-The fire filled the mine with smoke and gas, and 108 men and boys underground died because they could not breathe. Five of the dead were boys between 12 and 17 years old. Two men who went down to rescue the miners also died.
-
-Pennsylvania lawmakers passed a mine law in 1870. It required every mine to have more than one way out, and it forbade using a single passage both to bring fresh air in and to let bad air out.
-
-#### From charcoal to coal
-
-Hopewell Furnace in Pennsylvania burned charcoal from about 1771 until it closed in 1883. By then iron makers had built new ironworks that burned anthracite, the hard coal, and charcoal furnaces had fallen out of use. For more than a hundred years, workers at Hopewell had cut the forest around it for charcoal. Mark Bird, who built the furnace, enslaved some of those workers in its early decades, and the last record of slavery at Hopewell is from 1821.
-
-<a id="story-lafayette-houck"></a>
-
-#### Lafayette Houck
-
-> **Who:** One of the last colliers at Hopewell Furnace, who later taught the National Park Service how charcoal was made.
->
-> **When and where:** Hopewell Furnace, Berks County, Pennsylvania, in the later 1800s, and again in 1936.
-
-**Fifty-three years after the furnace closed, he showed how charcoal was made.**
-
-Lafayette Houck came from a family of colliers. Their work at Hopewell began in 1818, when Henry Houck worked there as a master collier, in charge of the pits and of the helpers who worked them. In winter Henry also repaired wooden wagon wheels or chopped wood to sell. In the 1830s the furnace's owners paid about 20 colliers, and each one tended eight or nine pits.
-
-**The watch.** Lafayette made charcoal the way Hopewell's colliers had since the 1700s, in smoldering piles of stacked wood. A Hopewell collier lived in a rough hut near his pits from May to October, with one or two helpers, and together they tended up to eight or nine pits at once. They watched the pits day and night, from the moment a pit was lit until a teamster, a man who drove a wagon, hauled away the last load of charcoal.
-
-**Teaching the trade.** Hopewell closed in 1883, and federal officials bought the land in the 1930s. In 1936 Houck and his son, William, showed workers of the Civilian Conservation Corps, a government jobs program, how a collier lived and worked. Houck taught the National Park Service how charcoal was made, and he told them what he remembered about life at the furnace.
-
-**Not known:** his exact age, his pay, and the years he began and stopped work as a collier. One National Park Service page gives his life as 1846 to 1939, and another says he was 82 in 1936, which would put his birth around 1854.
-
 **If you remember one thing:** Alternating current, which a transformer could raise or lower, won the current war against Edison's direct current.
 
 - 1859: Edwin Drake's crew strikes oil near Titusville, Pennsylvania.
@@ -9771,7 +9803,7 @@ Lafayette Houck came from a family of colliers. Their work at Hopewell began in 
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
 
 Electric wires reached almost every American home in these fifty years. About 8 households in 100 had electricity in 1890, and 94 in 100 did by 1950. Emanuela Cardia worked out those figures in a 2008 study from the census, the government's count of the people and their homes, taken every ten years. Most farms got their wires only after 1935.
 
@@ -10025,7 +10057,7 @@ Some of the panels went to Unity College in Maine in 1991, where workers put 16 
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Natural gas took coal's place as the fuel that makes the most American electricity. Drillers got more and more of that gas by fracking, which cracks rock deep underground to free the gas inside. Natural gas made more electricity than coal over a full year for the first time in 2016, according to the US Energy Information Administration, or EIA. Wind and solar power made a record share of the country's electricity in 2025, about 17 to 18 percent, by EIA figures.
 
@@ -10045,7 +10077,7 @@ Critics worry that fracking fluid can pollute groundwater and that methane, the 
 
 Drillers pump wastewater from oil and gas wells deep underground. Scientists at the US Geological Survey wrote in 2017 that the sharp rise in Oklahoma's earthquakes is widely seen as the result of that deep pumping of waste fluids. An earthquake near Pawnee, Oklahoma, measured 5.8 in magnitude, the number that states an earthquake's size, on September 3, 2016. It was the largest ever recorded in the state.
 
-#### Mine deaths, black lung and a pipeline
+#### Mine deaths and black lung
 
 An explosion of gas and coal dust killed 29 miners at the Upper Big Branch mine in Montcoal, West Virginia, on April 5, 2010. It was the worst mine disaster in the United States in 40 years. Performance Coal Company, part of Massey Energy, ran the mine.
 
@@ -10055,7 +10087,9 @@ The federal Mine Safety and Health Administration's report on the explosion iden
 
 Black lung came back among coal miners in the 2000s. Researchers at NIOSH, the federal agency that studies workers' health, found 60 cases of the worst form of the disease in 20 months at one small clinic in Kentucky in 2016. Reporters at National Public Radio found 962 cases of advanced black lung in the 2010s, more than double the 441 cases NIOSH had recorded in the 40 years before. *Smithsonian Magazine* reported both counts in 2017.
 
-**Standing Rock.** Pumping more oil also meant moving it. A company called Energy Transfer Partners built the Dakota Access pipeline to carry crude oil from the Bakken oil field in North Dakota to Illinois. Members of the Standing Rock Sioux Tribe opposed it in 2016 where it crosses under Lake Oahe, upstream of their reservation. The lake is the tribe's water supply, and they feared that a spill would pollute it.
+#### Standing Rock and the pipeline
+
+Pumping more oil also meant moving it. A company called Energy Transfer Partners built the Dakota Access pipeline to carry crude oil from the Bakken oil field in North Dakota to Illinois. Members of the Standing Rock Sioux Tribe opposed it in 2016 where it crosses under Lake Oahe, upstream of their reservation. The lake is the tribe's water supply, and they feared that a spill would pollute it.
 
 Protest camps began in April 2016. Army Corps of Engineers officials denied the easement for the crossing, the permission to cross federal land under the lake, on December 4, 2016. President Trump ordered the Army Corps to review and approve the easement quickly on January 24, 2017. Army Corps officials approved it on February 8, 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
 
@@ -10175,7 +10209,7 @@ Era by era, this chapter describes how people and goods moved, from foot trails 
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 Nobody in North America hauled loads on wheels before 1500, and nobody rode a horse. People moved themselves and their goods on foot and by water, over trails and rivers that crossed the whole continent. The horses of the Americas had died out after the ice age. North of Mexico, no large animal was left that could pull a cart.
 
@@ -10259,7 +10293,7 @@ Converse was a Puritan, one of the English Christians who started the Massachuse
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Stage lines for passengers and a big freight wagon called the Conestoga came into use in the English colonies between 1700 and 1750. Pennsylvania wagon builders made the Conestoga to haul freight to Philadelphia, and New Jersey officials licensed one of the first stage lines in 1706. The roads were still rough, as Sarah Kemble Knight wrote in her journal after she rode from Boston to New York in 1704.
 
@@ -10309,7 +10343,7 @@ Her journal is an eyewitness record of the road itself. It was published in 1825
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 4 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 3 minutes**
 
 Around Philadelphia, between 1750 and 1800, investors paid for a road and charged travelers a fee to use it, and an inventor ran a boat pushed by a steam engine. The investors, people in and around Philadelphia and Lancaster, put their money into the road company in 1792. Their Philadelphia and Lancaster Turnpike, finished in the mid-1790s, was the first long-distance road of its kind in the country.
 
@@ -10509,13 +10543,47 @@ The president of the Mississippi Central Railroad told the people who owned shar
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 14 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 13 minutes**
 
 Railroad builders laid track across the whole country in the second half of the 1800s. The country had about 9,000 miles of railroad track in 1850 and more than 190,000 by 1900, more than twenty times as much. Counts for 1900 run from about 193,000 to 215,000 miles, depending on whether side tracks are counted.
 
 **Coast to coast.** The first railroad across the country was finished in 1869. Central Pacific managers hired about 10,000 to 12,000 Chinese workers to build its western part. The tracks crossed the lands of the Cheyenne, Lakota, Arapaho, Shoshone and Paiute nations.
 
 In the cities, streetcars ran on rails laid in the streets, and by the end of the century the companies that ran them were switching from horse-drawn cars to electric ones. Many Americans, women among them, were riding bicycles.
+
+<a id="story-mark-twain-transportation"></a>
+
+#### Mark Twain, steamboat pilot
+
+> **Who:** Samuel Clemens, who steered steamboats on the Mississippi River before he wrote books as Mark Twain.
+>
+> **When and where:** The Mississippi River. He got his pilot's license on April 9, 1859.
+>
+> **Movie:** *Mark Twain* (2001), a documentary by Ken Burns about his whole life. PBS showed it in January 2002.
+
+**"Mark twain" was a river call meaning twelve feet of water.**
+
+Steamboats still ran on the Mississippi River while the railroads spread. Samuel Clemens was a licensed steamboat pilot, the person who steers the boat, on the Mississippi. He got his license on April 9, 1859, when he was 23. He piloted boats until 1861, when the Civil War began and traffic on the river stopped.
+
+He took his pen name from a call used on the river. A leadsman, the crew member who measured the depth of the water, called the depth out to the pilot. "Mark twain" meant two fathoms, and a fathom is six feet, so the call meant twelve feet of water. In 1883 he published *Life on the Mississippi*, a book about his years as a pilot.
+
+<a id="story-cornelius-vanderbilt-transportation"></a>
+
+#### Cornelius Vanderbilt
+
+> **Who:** A ferryman who moved his money from steamboats into railroads and left the largest American fortune of his time.
+>
+> **When and where:** New York, 1810 to 1877.
+
+**The ferryman of 1810 died in 1877 with about $100 million.**
+
+Cornelius Vanderbilt had owned steamboats, and early in the 1860s he moved his money into railroads. In 1867 he took control of the New York Central Railroad, in the East. He joined the New York Central with his Hudson River Railroad on November 1, 1869, and in 1871 he opened Grand Central Depot, a train station in Manhattan.
+
+**The ferryman.** Vanderbilt had started at 16, in 1810, carrying freight and passengers between Staten Island and Manhattan in a periauger, a shallow sailboat with two masts. Other boat captains called him "the Commodore," the title of a navy officer who commands a group of ships, at first as a joke.
+
+**Two stories.** Accounts of how he got the boat differ. One says he borrowed $100 from his mother and named the boat *Swiftsure*. The first account of his life, printed in 1853, says the boat was his father's and he kept half the profit. The website Biography.com describes the story of the young ferryman as a legend.
+
+When he died in 1877, he left the largest American fortune of his time.
 
 #### The railroad across the continent
 
@@ -10576,40 +10644,6 @@ Most men, weak from lack of food, went back. The men who refused faced a group o
 Hung Wah is one of the few Chinese railroad workers whose names appear in the records. The company's payroll, its list of the people it paid, usually named only headmen, the men who led the Chinese work gangs. The names of most of the thousands of Chinese laborers are not in the records.
 
 Hung Wah first appears on the Central Pacific's payroll in January 1864. With another headman, Ah Toy, he supervised the railroad's first Chinese crew, about 23 men. He became the leading Chinese headman on the line, over hundreds of Chinese workers and at times thousands. He handled the workers' pay and their living arrangements, and he dealt with the company for them.
-
-<a id="story-cornelius-vanderbilt-transportation"></a>
-
-#### Cornelius Vanderbilt
-
-> **Who:** A ferryman who moved his money from steamboats into railroads and left the largest American fortune of his time.
->
-> **When and where:** New York, 1810 to 1877.
-
-**The ferryman of 1810 died in 1877 with about $100 million.**
-
-Cornelius Vanderbilt took control of the New York Central Railroad, in the East, in 1867, the same year Chinese crews were building the Central Pacific through the Sierra Nevada. He had owned steamboats, and early in the 1860s he moved his money into railroads. He joined the New York Central with his Hudson River Railroad on November 1, 1869, and in 1871 he opened Grand Central Depot, a train station in Manhattan.
-
-**The ferryman.** Vanderbilt had started at 16, in 1810, carrying freight and passengers between Staten Island and Manhattan in a periauger, a shallow sailboat with two masts. Other boat captains called him "the Commodore," the title of a navy officer who commands a group of ships, at first as a joke.
-
-**Two stories.** Accounts of how he got the boat differ. One says he borrowed $100 from his mother and named the boat *Swiftsure*. The first account of his life, printed in 1853, says the boat was his father's and he kept half the profit. The website Biography.com describes the story of the young ferryman as a legend.
-
-When he died in 1877, he left the largest American fortune of his time.
-
-<a id="story-mark-twain-transportation"></a>
-
-#### Mark Twain, steamboat pilot
-
-> **Who:** Samuel Clemens, who steered steamboats on the Mississippi River before he wrote books as Mark Twain.
->
-> **When and where:** The Mississippi River. He got his pilot's license on April 9, 1859.
->
-> **Movie:** *Mark Twain* (2001), a documentary by Ken Burns about his whole life. PBS showed it in January 2002.
-
-**"Mark twain" was a river call meaning twelve feet of water.**
-
-Steamboats still ran on the Mississippi River while the railroads spread. Samuel Clemens was a licensed steamboat pilot, the person who steers the boat, on the Mississippi. He got his license on April 9, 1859, when he was 23. He piloted boats until 1861, when the Civil War began and traffic on the river stopped.
-
-He took his pen name from a call used on the river. A leadsman, the crew member who measured the depth of the water, called the depth out to the pilot. "Mark twain" meant two fathoms, and a fathom is six feet, so the call meant twelve feet of water. In 1883 he published *Life on the Mississippi*, a book about his years as a pilot.
 
 #### Clocks, sleeping cars and danger on the railroads
 
@@ -10673,7 +10707,7 @@ In 1900: it had more than 190,000 miles of track, and since 1869 the trip had ta
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 9 minutes**
 
 Orville and Wilbur Wright flew a powered airplane in 1903, and Ford's Model T car went on sale five years later, for $825. Workers at Ford built 15 million Model Ts by 1927. The first airline to fly on a schedule began in 1914, across Tampa Bay in Florida, and by 1927 airplanes were carrying mail and paying passengers on schedules.
 
@@ -10791,7 +10825,7 @@ The ruling covered only trips between states. Reporters at the *Afro-American* n
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
 
 Three new ways of moving people and goods over long distances began between 1956 and 1958: Interstate highways, shipping containers and American jet airliners across the Atlantic. President Dwight Eisenhower signed the law for the Interstates, the big highways that join the states, in 1956, the same year a ship called the *Ideal X* carried 58 shipping containers from New Jersey to Texas.
 
@@ -10917,7 +10951,7 @@ Workers in Windsor, Ontario, in Canada, built the first Dodge Caravan and Plymou
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 10 minutes**
 
 With a phone in hand, Americans after 2000 could find their way and hire a ride, and some of them bought electric cars. About 8 of every 100 new cars sold in 2024 ran on batteries alone, according to Kelley Blue Book. About 7 of every 100 bridges in the country were rated in poor condition in federal records in 2025, by the count of a road builders' group.
 
@@ -11217,7 +11251,7 @@ The Old Ship Meetinghouse in Hingham, Massachusetts, was built in 1681. The Puri
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Colonists in Boston and Philadelphia put up public buildings that are still landmarks today. The first lighthouse in what became the United States was lit at the mouth of Boston Harbor in 1716, and Boston's Old North Church went up in 1723. In Philadelphia, builders began a statehouse for Pennsylvania's lawmakers in 1732. It is now called Independence Hall.
 
@@ -11343,7 +11377,7 @@ Clérisseau drew the final plans. A plaster model reached Richmond late in 1786 
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 4 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 3 minutes**
 
 Work on two tall stone monuments, one to the Battle of Bunker Hill and one to George Washington, stopped when the people raising them ran out of money. They were among the first monuments Americans built to the Revolution and to Washington. Workers finished the Bunker Hill Monument near Boston in 1842. The Washington Monument in the capital stood at about 150 feet when work stopped in 1854, and the stump stayed unfinished for 25 years.
 
@@ -11365,9 +11399,9 @@ Workers finished the 221-foot granite obelisk in July 1842. It was dedicated, or
 
 **The Pope's stone.** In March 1854, members of the Know-Nothing movement, a political movement against Catholics, stole a block of marble meant for the monument. Pope Pius IX, the head of the Catholic Church, had given it. By the usual account, the thieves threw the stone into the Potomac River, and it was never found. Know-Nothings took control of the monument society from 1855 to 1858. The stump of the monument stood unfinished until 1879.
 
-**The Castle.** One building in the capital in these years was paid for out of one man's gift. James Smithson, an English chemist who never set foot in the United States, left his fortune to the country in his will, to found the Smithsonian Institution.
+#### The Smithsonian Castle
 
-Workers put up the Smithsonian Institution Building, of red sandstone, from 1847 to 1855, and the money for the work came from the interest that Smithson's gift had earned. The architect James Renwick Jr. designed it, and its cornerstone was laid on May 1, 1847. People call it the Castle.
+James Smithson, an English chemist who never set foot in the United States, left his fortune to the country in his will, to found the Smithsonian Institution. Workers put up the Smithsonian Institution Building, of red sandstone, from 1847 to 1855, and the money for the work came from the interest that Smithson's gift had earned. The architect James Renwick Jr. designed it, and its cornerstone was laid on May 1, 1847. People call it the Castle.
 
 <a id="story-john-hemmings-landmarks"></a>
 
@@ -11513,7 +11547,7 @@ George W. Vanderbilt had Biltmore House built in Asheville, North Carolina, betw
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 13 minutes**
 
 Workers died building three of the giant landmarks that went up between 1913 and 1941. Five died on the Empire State Building and 11 on the Golden Gate Bridge. At Hoover Dam the official count is 96, and it leaves out 42 more deaths that were listed as pneumonia.
 
@@ -11671,7 +11705,7 @@ People tell a story that men are buried inside the dam's concrete. It is false. 
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 8 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 7 minutes**
 
 Americans in these years fought over who was allowed to build a landmark and over what a memorial to the dead should look like. In St. Louis, Justice Department lawyers later charged in court that leaders and members of the building trades unions kept Black workers out of the unions, and so off the job building the Gateway Arch. Two men climbed the unfinished arch in protest.
 
@@ -12223,7 +12257,7 @@ William Ramsay in London followed up on Hillebrand's paper in 1895. He got a gas
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 Radium, lead, mercury, arsenic and uranium poisoned many of the Americans who worked with them in the first half of the 1900s. Young women who painted watch dials swallowed radium because their supervisors told them to shape their brushes with their lips, and many of them died of radium poisoning. At least 15 workers died of lead poisoning in the 1920s at the plants that made a lead additive for gasoline.
 
@@ -12717,11 +12751,17 @@ Hanna-Attisha and her colleagues at Hurley Medical Center told pregnant women an
 
 **Disputed:** The official count, because reporters for the PBS program *Frontline* found more deaths from pneumonia that it missed.
 
-**The charges.** None of the officials charged over Flint's water was convicted of a felony, one of the most serious kinds of crime. Michigan's attorney general, the state's top lawyer, charged 15 officials in 2016 and 2017, Busch, Prysby and Earley among them. Seven of them took plea deals for lesser crimes called misdemeanors. In June 2019 the prosecutors who had taken over the cases dropped the charges against the other eight, saying the cases were only partly built.
+**The charges.** None of the officials charged over Flint's water ever went on trial, and no judge sent any of them to jail or prison. Lawyers hired by Michigan's attorney general, the state's top lawyer, charged 15 state and city officials in 2016 and 2017. Seven of them made deals and agreed to help the investigators.
 
-The same prosecutors charged Governor Snyder and eight other officials in January 2021, Earley among them. Snyder faced two counts of willful neglect of duty, knowingly failing to do his job. The state's health director and its chief medical executive each faced nine counts of involuntary manslaughter, causing a person's death through carelessness without meaning to kill.
+All seven had been charged with at least one felony, one of the most serious kinds of crime. Under the deals, each one accepted a single lesser charge, a misdemeanor, without admitting guilt, and the lawyers dropped the rest. Judges later dismissed all seven cases, so none of them has a criminal record from these charges.
 
-**How the cases ended.** A one-judge grand jury, a single judge who decides alone whether to charge someone with a crime, had brought the 2021 charges. The judges of the Michigan Supreme Court ruled in 2022 that this broke the state constitution. The 2021 cases ended on October 31, 2023, with no one found guilty.
+New lawyers took over the cases in 2019. In June they dropped the charges against the other eight, saying the first lawyers had not gone after all the evidence. In January 2021 they brought new charges against nine officials, among them six of those eight and the former governor.
+
+The former governor faced two counts of willful neglect of duty, knowingly failing to do his job. The state's health director and its chief medical executive each faced nine counts of involuntary manslaughter, causing a person's death through carelessness without meaning to kill.
+
+**How the cases ended.** The new lawyers had brought the 2021 charges through a one-judge grand jury, a single judge who decides alone whether to charge someone with a crime. In June 2022 the judges of the Michigan Supreme Court ruled that, under Michigan's laws, such a judge had no power to start a criminal case.
+
+Judges in Genesee County then dismissed all nine cases. The new lawyers declared the cases closed on October 31, 2023. By then the time limit for bringing most of the charges again had run out.
 
 Flint's people sued. U.S. District Judge Judith Levy approved a settlement of $626.25 million on November 10, 2021, for more than 90,000 Flint residents and businesses.
 
@@ -12779,7 +12819,7 @@ This chapter follows the people who did the work, era by era, from the farmers a
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 2 minutes**
+**Era 1 of 10 · Before 1500 · about 1 minute**
 
 The people of North America worked for their own households and towns before 1500, and they planned the work around the seasons. They farmed, hunted, fished and built canoes. Nobody worked for wages, pay from an employer, and no one hired another person, set their hours or fired them. Work for wages began here only after people from Europe arrived.
 
@@ -12857,7 +12897,7 @@ Tsenacomoco ran north from the James River to the Potomac River, and from Chesap
 
 Richard Frethorne reached Martin's Hundred in December 1622 on a ship called the *Abigail*, nine months after the Powhatan attack. He had come as an indentured servant, and he was probably a young teenager.
 
-**His letters.** He wrote to his parents in England in March and April 1623. He begged them to buy out his indenture, or else to send food. Since he left the ship, he wrote, he had eaten nothing but peas and loblollie, a thin porridge boiled in water.
+**His letters.** He wrote to his parents in England in March and April 1623. He begged them to buy out his indenture, or else to send food. Since he left the ship, he wrote, he had eaten nothing but peas and loblollie, a thick porridge boiled in water.
 
 **The muster list.** A muster list made by February 1624, a count of the living and the dead at each settlement, records Frethorne, spelled "Frethram," among the dead at Martin's Hundred.
 
@@ -13027,7 +13067,7 @@ Lowell mill workers formed the Lowell Female Labor Reform Association in the win
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 15 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 14 minutes**
 
 Police, private guards, state militia (the part-time soldiers of each state) and federal soldiers broke many strikes between 1850 and 1900, and they shot and killed strikers. The workers had formed the first national unions, to fight for higher pay and an eight-hour day.
 
@@ -13203,7 +13243,7 @@ State officials in the South leased, or rented out, prisoners to mines, railroad
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Members of Congress passed the first federal laws for a lowest wage, a shorter work week and the right to form a union in the 1930s, after three decades of child labor and deaths on the job. Under the Wagner Act of 1935, forming a union became a legal right. A law of 1938 set a minimum wage of 25 cents an hour and a work week of 44 hours, falling to 40 by 1940, and it banned most work by children under 16.
 
@@ -13441,13 +13481,9 @@ President Roosevelt signed the Fair Labor Standards Act on June 25, 1938, and it
 
 The justices of the Supreme Court ruled the other way on child labor in 1941. They decided that Congress did have the power to limit child labor, under the 1938 law.
 
-#### War work and the braceros
+#### Women in the war plants
 
-US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
-
-**The missing pay.** American employers held back 10 percent of every bracero's pay from 1942 to 1946, and many braceros said the holdbacks went on after that. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
-
-**Women in the war plants.** Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
+Women took jobs in war plants in large numbers during World War II. They made up 27 percent of the workforce in 1940 and nearly 37 percent by 1945, when about 6.5 million more women were working. Before the war about 1 percent of aircraft workers were women. In 1943 more than 310,000 women built aircraft, about 65 percent of all the workers in that industry.
 
 <a id="story-naomi-parker-fraley"></a>
 
@@ -13462,6 +13498,12 @@ US officials started the bracero program, named for the Spanish word for a man w
 Naomi Parker went to work at the Naval Air Station in Alameda, California, during World War II. She was assigned to its machine shop, where her jobs included drilling, patching airplane wings and riveting. In March 1942 a photographer took her picture at work on a turret lathe, a metal-cutting machine for making many copies of the same part.
 
 **The photograph and the poster.** People later linked her photograph to a poster of a woman worker with the words "We Can Do It!", which became famous in the 1980s. For decades the woman in the photograph was said to be someone else. Then a scholar named James J. Kimble found the original print, and its caption named Naomi Parker. Nobody has proved that the poster's artist used this photograph.
+
+#### The bracero program, 1942
+
+US officials started the bracero program, named for the Spanish word for a man who works with his arms, in 1942 to bring Mexican men to work on American farms and railroads during the war. Over 22 years, more than 4.5 million contracts were signed.
+
+**The missing pay.** American employers held back 10 percent of every bracero's pay from 1942 to 1946, and many braceros said the holdbacks went on after that. The money went through American banks to banks in Mexico, for a savings fund the braceros were to receive when they went home. Most braceros never got that money, and the records of where it went do not add up. Mexican officials agreed in 2009 to pay former braceros or their families 38,000 pesos each.
 
 #### The strike wave of 1945 and 1946
 
@@ -13567,7 +13609,9 @@ Black lung is a disease caused by breathing coal dust, which scars the lungs. In
 
 Two office workers in Boston, Karen Nussbaum and Ellen Cassedy, founded 9to5 in 1973. Its members were women who did clerical work, such as typing, filing and answering phones. They organized over pay, promotion and harassment on the job, treatment meant to upset, shame or frighten a worker. In an early lawsuit, they won $1.5 million in back pay, the pay the women were owed, from publishing companies in Boston.
 
-**At the checkout.** With barcode scanners, cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules. The first sale rung up by scanning a barcode came at a Marsh supermarket in Troy, Ohio, at 8:01 in the morning on June 26, 1974, when the cashier Sharon Buchanan scanned a ten-pack of Juicy Fruit gum.
+#### Cashiers and the barcode, 1974
+
+With barcode scanners, cashiers no longer had to key in each price by hand. The scanners also recorded, hour by hour, what sold, and managers later used those records to set workers' schedules. The first sale rung up by scanning a barcode came at a Marsh supermarket in Troy, Ohio, at 8:01 in the morning on June 26, 1974, when the cashier Sharon Buchanan scanned a ten-pack of Juicy Fruit gum.
 
 #### The mills close
 
@@ -13627,7 +13671,7 @@ After the case, and partly because of it, members of Congress passed a federal l
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Millions of Americans now work for themselves and sell their work to companies, outside most labor laws, including the minimum wage law. About 11.9 million of them were independent contractors in their main job in July 2023, and some find their work through apps on their phones. One worker in ten belonged to a union in 2025, according to the federal Bureau of Labor Statistics. Workers at Starbucks coffee shops and at an Amazon warehouse voted in their first unions in 2021 and 2022.
 
@@ -13793,7 +13837,7 @@ This chapter follows American food from those fields to the drive-in and the lab
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Native farmers turned a wild grass into corn, and by 1500 corn fed whole towns. Farming here was already thousands of years old. People in each region also ate what grew or lived best around them: bison on the Plains, salmon in the Northwest, wild rice around the Great Lakes.
 
@@ -13869,7 +13913,7 @@ Native corn kept the first English colonists at Jamestown and Plymouth alive in 
 
 #### Jamestown: hunger, and corn the English took by force
 
-The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them, and Powhatan warriors surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. About 500 colonists were alive when it began. By spring, about 61 were still alive.
+The colonists at Jamestown, in Virginia, planned to live partly on food they traded from the Powhatan people and partly on supply ships from England. In the autumn of 1609, Powhatan leaders stopped trading food with them, and Powhatan warriors surrounded the fort. The winter of 1609 to 1610 is called the Starving Time. When it began, the colony had about 500 people, and about 240 of them were inside the fort. By spring, about 60 of the people in the fort were still alive.
 
 The colonists ate their horses, dogs and rats, and they ate leather. Some ate the bodies of people who had died. Archaeologists found the bones of a girl whom researchers call Jane. The bones show that colonists ate her body after she died. Scientists at the Smithsonian announced the finding in 2013.
 
@@ -14065,7 +14109,7 @@ It also contains the first printed recipe that used pearlash, a salt made from w
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 7 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 6 minutes**
 
 Sealed in tin cans or kept cold with ice cut from frozen ponds, food could now be sold far from the farm where it grew, to people the grower never met. In the Deep South, planters, the owners of large farms worked by enslaved people, spread cotton fields over land that federal troops had forced Native nations to leave. On the prairie of the Midwest, farmers used a new steel plow to turn thick grassland into fields of wheat and corn.
 
@@ -14225,7 +14269,7 @@ Oliver Hudson Kelley, a Minnesota farmer and a clerk in the federal Department o
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 Federal inspectors went to work inside the meatpacking plants in 1906, and in the years that followed federal officials took on many new jobs in how Americans got their food. In the 1930s, officials paid farmers to grow less, bought up extra food and gave it to hungry families. During World War II they limited how much sugar, meat and coffee each person could buy. In 1946 President Harry Truman signed a law that made school lunch a permanent federal program.
 
@@ -14425,7 +14469,7 @@ Towns and charities had already run school meal programs for decades, and in the
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
 
 Fewer, bigger farms grew more food on each acre after 1950. Farmers used tractors, hybrid seed, fertilizer and pesticides. Swanson sold 25 million frozen TV dinners in 1955, and fast-food stands served hamburgers in seconds. In the 1980s the owners of about 300,000 farms could not pay their loans, after land prices fell and interest rates rose. Meanwhile some farmers and cooks began to grow food by organic methods, without man-made chemical fertilizers and pesticides, and to serve food from nearby farms.
 
@@ -14563,7 +14607,7 @@ Their daughter, Jeanne Jordan, and the filmmaker Steven Ascher made the film abo
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 Americans have argued since 2000 over what goes into their food, who picks it and who can get enough of it. Meanwhile the number of farms kept falling. The 2022 Census of Agriculture, the USDA's count of the country's farms, found 1.9 million farms in the United States, 7 percent fewer than in 2017. It was the first count below 2 million since before the Civil War. In 1935 there had been 6.8 million.
 
@@ -14581,13 +14625,13 @@ USDA economists had counted households that did not always have enough food sinc
 
 President Donald Trump signed the One Big Beautiful Bill Act on July 4, 2025. Under it, federal spending on SNAP, the Supplemental Nutrition Assistance Program once called food stamps, goes down. Economists at the Congressional Budget Office, which works out costs for Congress, figured that the cut will come to $186.7 billion over ten years.
 
-#### Farmers' markets and the 2020 pandemic
+#### Farmers' markets
 
 Farmers' markets, where farmers sell their own crops straight to shoppers, grew in number. USDA officials counted 1,755 of them in 1994 and 8,771 in 2019, five times as many. The number grew about 7 percent a year until about 2011, and then it stopped growing much.
 
-**The meat plants.** Other food reaches shoppers from people they never see, such as the workers in plants that process meat and poultry, meaning chickens and turkeys. The disease COVID-19 spread through those plants in 2020.
+#### COVID-19 in the meat plants, 2020
 
-Officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants in April and May 2020, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
+The disease COVID-19 spread through the plants that process meat and poultry, birds such as chickens and turkeys. Officials in 23 states reported 16,233 cases of COVID-19 among workers in 239 plants in April and May 2020, and 86 of those workers died. This count comes from a CDC report of July 2020. Of the sick workers whose race was recorded, 87 percent were members of racial or ethnic minority groups.
 
 #### Changed seeds and new kinds of meat
 
@@ -15287,7 +15331,7 @@ When cash ran out, he wrote, people turned to barter, trading goods instead of p
 
 His son, Daniel B. Roth, and James Ledbetter edited the diary in 2009, and the publisher PublicAffairs printed it as a book, *The Great Depression: A Diary*.
 
-#### Last hired, first fired
+#### Pushed out when jobs ran short
 
 Black workers lost their jobs first and at higher rates than white workers. Employers hired Black workers last and fired them first, a pattern called "last hired, first fired." By 1932 nearly half of all Black Americans had no work, according to the National Museum of African American History and Culture.
 
@@ -15689,7 +15733,7 @@ These bills were the first paper money printed by any government in Europe or th
 
 Lawmakers in colony after colony printed paper money in the early 1700s, until every colony had its own. The bills held their value only where the lawmakers printed limited amounts.
 
-Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take the land or the enslaved people who had been pledged.
+Benjamin Franklin argued for paper money in Pennsylvania and then printed it. In South Carolina, which had no private banks, enslavers borrowed money by pledging land and the people they enslaved. If a loan was not paid back, the lender could take the land or the enslaved people who had been pledged.
 
 #### Paper that held its value and paper that lost it
 
@@ -15721,7 +15765,7 @@ Scientists at the University of Notre Dame looked closely at 600 notes printed b
 
 Colonial bills carried the words "To Counterfeit is Death." Under colonial laws, judges could sentence a counterfeiter to death.
 
-#### Paper money lent against land and people
+#### Loans against land and enslaved people
 
 South Carolina's lawmakers lent some of the colony's paper money out on land. In 1712 they set up a public land bank, through which officials lent paper money to people who pledged their land as security, something a borrower promises to hand over if a loan is not paid back.
 
@@ -16133,10 +16177,6 @@ Franklin Roosevelt became president in March 1933. On March 6, two days after he
 
 **Deposit insurance.** Members of Congress created the Federal Deposit Insurance Corporation in the Banking Act of June 16, 1933. Its insurance began on January 1, 1934, and covered each depositor up to $2,500. In July 1934 the limit rose to $5,000. If an insured bank failed, its depositors would be paid back from the insurance fund, up to the limit. With that promise, depositors no longer had a reason to rush to the bank to get their money out first.
 
-**The gold.** In the same months, Roosevelt and members of Congress took gold out of Americans' hands. Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
-
-Members of Congress moved all the gold the country used as money to the Treasury in the Gold Reserve Act of January 30, 1934. They set a new price of $35 an ounce. From then on, Americans could not trade their dollars for gold. Foreign governments still could.
-
 <a id="story-lydia-lobsiger"></a>
 
 #### Lydia Lobsiger
@@ -16152,6 +16192,12 @@ Lydia Lobsiger received the first federal deposit insurance check ever paid. She
 Her bank was the Fond du Lac State Bank of East Peoria, Illinois, and it failed in the spring of 1934. It was the first bank with FDIC insurance to fail, a few months after the insurance began.
 
 When Lobsiger's bank failed, reporters at newspapers across the country wrote that a depositor with a small account had not lost her savings.
+
+#### What happened to Americans' gold?
+
+Roosevelt and members of Congress took gold out of Americans' hands in 1933 and 1934. Roosevelt signed Executive Order 6102, a written order from the president, on April 5, 1933. It required Americans to turn in their gold coins, gold bars and gold certificates, paper notes that could be traded for gold, to the government at $20.67 an ounce. Americans could keep small keepsakes and collections.
+
+Members of Congress moved all the gold the country used as money to the Treasury in the Gold Reserve Act of January 30, 1934. They set a new price of $35 an ounce. From then on, Americans could not trade their dollars for gold. Foreign governments still could.
 
 #### War bonds
 
@@ -16533,7 +16579,7 @@ Pynchon's books list his purchases until 1689. They do not say what became of hi
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 5 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 4 minutes**
 
 Goods made in Britain became cheap enough in the 1700s for colonial families to buy them in large amounts. Shops in the port towns sold these goods, and in Philadelphia Benjamin Franklin made advertisements pay for much of his newspaper. Colonists bought and sold enslaved people in the same towns. In New York, city officials set up a market for those sales, and printers, Franklin among them, ran advertisements offering people for sale.
 
@@ -16888,17 +16934,13 @@ A change called the Nineteenth Amendment became part of the Constitution in 1920
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 13 minutes**
 
 Chain stores spread across the country, and the biggest grocery chain, the A&P, grew from about 200 stores in 1900 to about 15,000 by 1930. Grocers began letting customers take goods off the shelves themselves, and families bought cars and radios on monthly payments. Sellers began paying radio and television stations to air their advertisements. Coal companies paid miners in their own money, which only the company store accepted at full value. During the Second World War, shoppers needed ration stamps as well as money to buy many foods.
 
 #### The chain store at full size
 
 The A&P had 1,600 stores by 1915. By 1930 it had about 15,000 stores and sold $2.9 billion worth of goods a year. That made it the world's largest retailer, a business that sells goods to the people who use them. The A&P was the largest grocery seller in the United States from 1915 to 1975.
-
-**The lunch counter.** Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only, and the rule was still in force in 1960. On February 1 of that year, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
-
-Hundreds of people joined their protest over the next six months. On July 25, 1960, the staff of the Greensboro counter began serving Black customers. By the account of Geneva Tisdale, who worked in the store's kitchen, the manager of the lunch counter picked her and two other Black kitchen workers to be the first. He told them to get dressed, walk around the store like customers and then sit at the counter. Tisdale ordered an egg-salad sandwich. Chapter 25, Rights Movements, tells the sit-ins in full.
 
 <a id="story-frank-woolworth"></a>
 
@@ -16974,6 +17016,12 @@ According to Hyman, many Black farm families had to buy on credit at a white-own
 
 Hyman says that some Southern storekeepers held bonfires to burn catalogs, and told white customers that Sears was owned by Black people to keep them from buying there. These are Hyman's claims.
 
+#### Woolworth's lunch counter, 1960
+
+Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only, and the rule was still in force in 1960. On February 1 of that year, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
+
+Hundreds of people joined their protest over the next six months. On July 25, 1960, the staff of the Greensboro counter began serving Black customers. By the account of Geneva Tisdale, who worked in the store's kitchen, the manager of the lunch counter picked her and two other Black kitchen workers to be the first. He told them to get dressed, walk around the store like customers and then sit at the counter. Tisdale ordered an egg-salad sandwich. Chapter 25, Rights Movements, tells the sit-ins in full.
+
 #### Buying on time
 
 Americans began buying cars, radios, furniture and household machines on installments in the 1920s, paying a little at a time, as buyers of sewing machines had since the 1850s. By the end of the 1920s, about 60 percent of cars and about 80 percent of radios were bought on installments, according to the reference site Encyclopedia.com. The number of cars registered in the United States grew from about 9 million in 1920 to nearly 27 million by 1929, nearly three times as many.
@@ -17028,7 +17076,7 @@ Emilia had a 1933 Plymouth car. Donald remembered the family's gasoline ration a
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 10 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 9 minutes**
 
 Americans began shopping at enclosed malls and discount stores after 1950, and paying with plastic cards. The first fully enclosed shopping mall in the United States opened in Minnesota in 1956. Kmart, Target and Wal-Mart all opened their first stores in 1962. In 1974 a cashier in Troy, Ohio, made the first sale with a scanner that read a printed code on a package. By 2000, people could shop at home on television shopping channels, and from 1995 on a computer.
 
@@ -17140,7 +17188,7 @@ Pierre Omidyar started a website called AuctionWeb, where people sold goods at a
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 About one dollar in six of all American retail spending went to online sales from April to June 2026, by the count of the US Census Bureau. Since 2005, members of Amazon Prime have paid a fee for two-day shipping. Drivers carry the orders to people's doors, including on days of summer heat. Sellers now buy the right to show advertisements to one person at a time, chosen from records of what that person has done online.
 
@@ -17326,7 +17374,7 @@ Sir Edward Osborne founded the Levant Company on September 11, 1592, by joining 
 
 ### The 1600s
 
-**Era 3 of 10 · The 1600s · about 10 minutes**
+**Era 3 of 10 · The 1600s · about 9 minutes**
 
 The first lasting English colonies here were started by companies, and the investors who owned them hoped the colonies would earn them a profit. A king signed each company's charter, investors bought its shares, and the company's officers sent the settlers. The kings who signed the charters gave the companies land where Native nations already lived. Two of those companies lost their charters before the century ended. King James I took the Virginia Company's in 1624, and English judges cancelled the Massachusetts Bay Company's in 1684.
 
@@ -17594,7 +17642,7 @@ Biddle paid the bank's creditors, the people it owed money, with what was left o
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 18 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 17 minutes**
 
 A few companies came to control whole industries between 1850 and 1900. One railroad, the Pennsylvania, had more capital in 1880 than the federal government took in that whole year. John D. Rockefeller's Standard Oil refined 90 to 95 percent of the country's oil by 1880, and by 1895 one company controlled about 98 percent of the country's sugar refining.
 
@@ -17772,7 +17820,7 @@ About 30 people were killed across the country during the strike, and the histor
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
 
 The biggest companies the country had yet seen took shape in these years, and presidents and judges began to break some of them apart. Between 1895 and 1904 owners and bankers joined more than 1,800 manufacturing firms into 157 large corporations. The largest, US Steel, issued more than a billion dollars in stock, shares sold to investors, in 1901.
 
@@ -17936,9 +17984,9 @@ Federal officials also paid for new factories and rented them to private compani
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
-Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had about a million in the early 1980s. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
+Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had more than a million that year. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
 
 **Products and disease.** The leaders of some companies kept selling products that studies linked to disease and death. Tobacco companies paid for advertisements in 1954 in which their leaders disputed studies linking smoking to lung cancer, and in 1994 heads of tobacco companies told a House hearing that they did not believe nicotine is addictive.
 
@@ -17948,7 +17996,7 @@ Companies grew so large in these years that General Motors had 618,365 workers i
 
 General Motors was the country's largest car maker in the 1950s, and in 1953 it sold more to the armed forces than any other company. In 1954 it sold about half of all new cars in the country, 54 percent by the Associated Press's count.
 
-**A billion dollars.** In 1955 GM became the first company to earn more than a billion dollars in profit in one year. In the first three quarters of that year alone it made $912,887,537 in profit. *TIME* magazine wrote, "Never before in history has one corporation made so much in so short a time." GM's workforce in the United States peaked at 618,365 in 1979, which made it the largest private employer in the country, according to an Associated Press timeline.
+**A billion dollars.** In 1955 GM became the first company to earn more than a billion dollars in profit in one year. In the first three quarters of that year alone it made $912,887,537 in profit. *TIME* magazine wrote, "Never before in history has one corporation made so much in so short a time."
 
 **"Good for General Motors."** President Dwight D. Eisenhower chose GM's president, Charles E. Wilson, as Secretary of Defense in January 1953. Wilson gave up a salary of $600,000 a year for one of $22,000. He owned 40,000 shares of GM stock, and GM sold more to the armed forces than any other company. As Secretary of Defense he could make decisions that helped or hurt GM, so at his hearing senators pressed him on that conflict.
 
@@ -17957,6 +18005,8 @@ Senator Robert C. Hendrickson asked whether Wilson could make a decision that we
 **Ralph Nader.** Ralph Nader criticized the safety of GM's Corvair car in a 1965 book called *Unsafe at Any Speed*. GM managers hired private detectives to look into Nader's private life, and in 1966 GM's president, James M. Roche, apologized to a Senate committee. That same year members of Congress passed the National Traffic and Motor Vehicle Safety Act, the first federal rules for how cars must be built.
 
 Nader sued GM for invading his privacy and settled for $425,000, which he used to start groups that work for consumers. GM stopped making the Corvair in 1969.
+
+**Workers in 1979.** GM's workforce in the United States peaked at 618,365 in 1979. AT&T's Bell telephone system had more workers than GM that year. By AT&T's own count, it employed 1,029,905 people at the end of 1979.
 
 #### Eisenhower's warning, 1961
 
@@ -18084,7 +18134,7 @@ Later, Walmart's buyers let Vlasic shrink the jar to just over half a gallon, at
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Three American companies, Nvidia, Apple and Alphabet, the company that owns Google, were each worth more than $4 trillion in September 2026. In the same years government lawyers took four of the largest technology companies to court over monopoly power. Walmart employed about 1.6 million people in the United States in 2026, by its own count, about 2.6 times General Motors' American workforce at its peak in 1979.
 
@@ -18246,7 +18296,7 @@ The chapter also follows the laws about schools, which say where children must g
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 Long before Europeans arrived, the Native nations here governed themselves, and they did it in different ways. Most of this era is about the Haudenosaunee, five nations in the Northeast that joined in a league and lived under one law, because their own full telling of that law survives. Two short spans at the end cover the Pueblo towns along the Rio Grande, where each town ran its own affairs, and Cahokia, a city of thousands on the Mississippi River led by chiefs.
 
@@ -19044,8 +19094,6 @@ In January 1927 the judges of the Tennessee Supreme Court threw out his convicti
 
 **Who pays.** Between 1920 and 1950, more and more of the money for public schools came from the states, and less from local school districts. In the school year 1919-20, local money made up 83.2 percent of the money for public schools. By 1949-50 the local share had fallen to 57.3 percent. Nearly all the rest came from the state, and less than 3 percent from the federal government. Small districts were merged, and their number fell by almost a third between 1937-38 and 1949-50.
 
-**Ending segregated schools.** Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
-
 #### Buck v. Bell, 1927
 
 Virginia's lawmakers passed a law in 1924 that allowed state officials to sterilize people they judged "feeble-minded" and likely to have "socially inadequate offspring." Sterilization is an operation that makes a person unable ever to have children. "Feeble-minded" was a label officials put on people they judged to be slow to learn. Offspring means children. Aubrey Strode wrote the law and then defended it in court.
@@ -19112,6 +19160,10 @@ Nolan Breedlove sued Georgia's tax collector, T. Earl Suttles. All the justices 
 
 In *Smith v. Allwright*, decided on April 3, 1944, the justices held that the party's leaders were acting for the state when they ran the primary. Keeping Black voters out of it therefore broke the Fifteenth Amendment. Justice Stanley Reed wrote the opinion. Justice Owen Roberts dissented.
 
+#### Ending California's law on segregated schools, 1947
+
+Governor Earl Warren of California signed the Anderson Bill in June 1947. With it, California's lawmakers and governor became the first in the country to repeal their own state's law on segregated schools. Segregated schools kept children of different races apart.
+
 #### 1948: the armed forces, refugees and conventions on television
 
 On July 26, 1948, President Harry Truman signed Executive Order 9981. It states: "There shall be equality of treatment and opportunity for all persons in the armed forces without regard to race, color, religion or national origin." By about 1953 Black and white troops served together in nearly all the armed services.
@@ -19122,7 +19174,7 @@ Both major parties held their national conventions in Philadelphia in 1948, and 
 
 On July 12, 1948, after a speech by Hubert Humphrey, the Democratic delegates added a civil rights plank to their platform. A plank is one position in a platform. Civil rights are the rights every citizen has to equal treatment under the law. Two Southern delegations walked out on live television.
 
-On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Segregation means keeping people of different races apart. Thurmond won four states and 39 electoral votes.
+On July 17, Southern delegates met in Birmingham, Alabama, and formed the States' Rights Democratic Party, called the Dixiecrats. They chose Strom Thurmond, the governor of South Carolina, as their candidate. Their platform stated, "We stand for the segregation of the races." Thurmond won four states and 39 electoral votes.
 
 **If you remember one thing:** In this era the justices allowed a state to sterilize people who had not agreed to it and allowed the Army to force 122,000 people into camps, and later officials apologized for both.
 
@@ -19132,7 +19184,7 @@ About 122,000 men, women and children of Japanese descent were forced into camps
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 25 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 24 minutes**
 
 A senator with a brain tumor, unable to speak, pointed to his eye to vote "aye" on June 10, 1964, and the Senate cut off debate on a civil rights bill for the first time. That law banned segregation in public places. Under a second law, in 1965, officials in some states and counties had to ask federal officials before changing any voting rule. Between 1954 and 1977 the justices of the Supreme Court decided cases on schools, on how votes and voting districts were counted, and on how police question people they arrest.
 
@@ -19344,7 +19396,7 @@ Who counts the votes when the count itself is disputed? In 1948 a party committe
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 21 minutes**
+**Era 10 of 10 · 2000 to Today · about 19 minutes**
 
 Since 2000, judges have ruled on how votes are counted, how voting districts are drawn and whether corporations may spend money on elections. In 2000 the justices of the Supreme Court stopped a recount, a second count of the votes, in Florida during the presidential election. On January 6, 2021, while members of Congress counted the electoral votes, a crowd attacked the Capitol, the building where Congress meets. Judges also ruled on public money for religious schools and on how children are assigned to schools.
 
@@ -19366,7 +19418,9 @@ Justice Anthony Kennedy wrote for the majority that "the Government may not supp
 
 Chief Justice John Roberts wrote that "partisan gerrymandering claims present political questions beyond the reach of the federal courts." Partisan means favoring one political party. Justice Elena Kagan wrote in dissent: "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities." After 2019, a voter who believed a map was drawn to favor one party could not take that complaint to a federal court. Judges in state courts and members of Congress could still act on it.
 
-**Asking permission.** Under Section 5 of the Voting Rights Act, officials in the places the act covered had to get federal permission before changing any voting rule. On June 25, 2013, in *Shelby County v. Holder*, the justices struck down the formula in Section 4(b) that set which places were covered. The ruling states that the formula "can no longer be used" to make a place ask permission. So the places it had covered no longer had to ask.
+#### Asking permission to change voting rules, 2013
+
+Under Section 5 of the Voting Rights Act, officials in the places the act covered had to get federal permission before changing any voting rule. On June 25, 2013, in *Shelby County v. Holder*, the justices struck down the formula in Section 4(b) that set which places were covered. The ruling states that the formula "can no longer be used" to make a place ask permission. So the places it had covered no longer had to ask.
 
 The justices left Section 5 itself in place and wrote that "Congress may draft another formula based on current conditions." As of September 2026, members of Congress had passed no new formula.
 
@@ -20416,7 +20470,7 @@ Seven more years of trials followed. The men were let out of prison between 1943
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 24 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 23 minutes**
 
 The number of people in American prisons grew more than eight times over in these fifty years, by the count of the Bureau of Justice Statistics, part of the US Department of Justice. In 2000, about 46 of every 100 sentenced prisoners were Black. From the 1970s on, lawmakers in Congress and the states wrote long prison terms that judges had to give, many of them for drug crimes.
 
@@ -20863,7 +20917,7 @@ This chapter follows, in order, the wars fought on this land and then the wars A
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 People fought wars in North America long before Europeans came, and everything known about those wars comes from what the fighters left in the ground. No one north of Mexico wrote them down. Archaeologists, scientists who dig up and study what people left behind, have found skeletons with wounds, houses burned where they stood, and ditches and walls built around towns.
 
@@ -20911,15 +20965,17 @@ Hernando de Soto landed near Tampa Bay, in Florida, in May 1539, with about 600 
 
 The National Park Service's page on de Soto states what his men did to towns that did not cooperate. They threw people to the dogs, setting trained attack dogs on captives to bite and tear them, often to death. They burned people alive. They raped Native people, which means they forced them to have sex. They cut off people's noses and hands, and they enslaved men and women to carry the army's loads.
 
-**The end of the march.** De Soto died of a fever on May 21, 1542. His men sank his body in the Mississippi River and hid his death, so the nations they had been fighting would not learn that he could die. In June 1543 the rest of the army went down the Mississippi in seven boats. Only 311 of the Spanish reached the Gulf of Mexico. They took enslaved Native people with them, and no one recorded how many.
-
 #### How the battle at Mabila began
 
-De Soto's army reached Mabila, a town with a palisade around it, in October 1540, a year and a half before de Soto died. The battle there began on October 18, when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila's leader was a man the Spanish called Tascalusa.
+De Soto's army reached Mabila, a town with a palisade around it, in October 1540. The battle there began on October 18, when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila's leader was a man the Spanish called Tascalusa.
 
 The battle lasted about nine hours. At the end de Soto's soldiers burned the town while people were still inside it. The army's own record-keeper wrote, "We killed them all either with fire or the sword."
 
 The counts of the dead do not agree. The National Park Service's page lists more than 200 Spanish dead and about 2,000 people of Mabila. A University of Alabama news report states about 20 Spanish killed and 250 wounded, with thousands of Mabila dead. Searchers from the University of Alabama have looked for the town, and no one has ever found where Mabila stood.
+
+#### The end of the march, 1542 and 1543
+
+De Soto died of a fever on May 21, 1542. His men sank his body in the Mississippi River and hid his death, so the nations they had been fighting would not learn that he could die. In June 1543 the rest of the army went down the Mississippi in seven boats. Only 311 of the Spanish reached the Gulf of Mexico. They took enslaved Native people with them, and no one recorded how many.
 
 #### The Tiguex towns, 1540 to 1541
 
@@ -21057,7 +21113,7 @@ The raids broke the Wendat apart between 1642 and 1649. Haudenosaunee fighters d
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 8 minutes**
 
 Both wars that reached North America in these years began in Europe, one over who would become king of Spain and one over who would rule Austria. Colonial militia and Native fighters did most of the fighting here, and the Native fighters had their own reasons. Here the two wars are called Queen Anne's War, from 1702 to 1713, and King George's War, from 1744 to 1748.
 
@@ -21149,7 +21205,7 @@ British officials gave Louisbourg back to France in 1748 in the Treaty of Aix-la
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 17 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 16 minutes**
 
 Soldiers from the colonies, and then from the new United States, were at war for most of the forty years after 1754. In the Revolution, sickness killed more of them than enemy weapons did.
 
@@ -21441,7 +21497,7 @@ Riley stayed in the Mexican army after the war. Records of where he went stop a 
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 23 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 21 minutes**
 
 More American soldiers died in the Civil War, from 1861 to 1865, than in any other war the United States has fought. The Union was the United States government and the states that stayed loyal to it. The Confederacy was made up of Southern slave states whose leaders broke away.
 
@@ -21661,7 +21717,7 @@ Historians at the State Department count more than 4,200 American and more than 
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Most of the Americans who fought in the two world wars were drafted. World War II was the first American war in which more of them died in battle than of disease, accidents and infections.
 
@@ -21893,7 +21949,7 @@ Federal officials charged Shull with violating Woodard's civil rights. In Novemb
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
 
 American forces fought two long wars in Asia between 1950 and 2000, in Korea and in Vietnam. Drafted men fought in Vietnam until the draft ended in 1973, and after that everyone who joined the armed forces had volunteered.
 
@@ -22045,7 +22101,7 @@ The committee's scientists linked the illness to pills the soldiers took to prot
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 13 minutes**
+**Era 10 of 10 · 2000 to Today · about 11 minutes**
 
 Every American who fought in the wars after the attacks of September 11, 2001, had volunteered. American forces fought in Afghanistan for almost 20 years and in Iraq for almost 9.
 
@@ -22139,7 +22195,9 @@ She was an assistant secretary of Veterans Affairs from 2009 to 2011. Illinois v
 
 A few weeks later a judge of a lower court extended that protection to all transgender troops then serving, about 4,240 people by the count of the Gender Justice League, a group that works for transgender people's rights. New people were still not allowed to join. On August 28, 2026, Justice Department lawyers asked the Supreme Court to lift the lower court's order.
 
-**The Wounded Knee medals.** Twenty soldiers of the 7th Cavalry received the Medal of Honor for Wounded Knee in 1890, where soldiers of the regiment killed between 250 and 300 Lakota people, almost half of them women and children. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
+#### The Wounded Knee medals and the Defense Department's name
+
+Twenty soldiers of the 7th Cavalry received the Medal of Honor for Wounded Knee in 1890, where soldiers of the regiment killed between 250 and 300 Lakota people, almost half of them women and children. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
 
 **The department's name.** President Trump signed an order on September 5, 2025, letting officials call the Defense Department the "Department of War." Members of Congress set its legal name. Members of the House voted 216 to 212 on July 22, 2026, to change the legal name, but as of late September 2026 the change had not become law.
 
@@ -22327,7 +22385,7 @@ New England soldiers under Colonel William Pepperrell sailed from Boston on Marc
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 16 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 15 minutes**
 
 In the middle of their war for independence, American leaders looked in secret for anyone abroad who would help them fight Britain. They started in November 1775. French and American diplomats signed an alliance in 1778, and in 1783 American diplomats in Paris signed the peace that ended the war.
 
@@ -23014,13 +23072,15 @@ American officials set off 67 nuclear tests between 1946 and 1958 at Bikini and 
 
 The Marshall Islands and the Federated States of Micronesia became independent countries in 1986, tied to the United States by agreements called Compacts of Free Association. Palau's compact took effect in 1994.
 
-#### The capital, the canal and an apology
+#### Washington, D.C., and the vote
 
-**The capital.** Washington, D.C. is not a state either. Until 1961 the people living there could not vote for president at all, just as the people of the territories still cannot. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
+Washington, D.C. is not a state either. Until 1961 the people living there could not vote for president at all, just as the people of the territories still cannot. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
 
 The city got back a delegate in the House in 1971, one who can speak there but cannot vote on bills. Under the Home Rule Act of 1973, its people elected their own mayor from 1975. Members of Congress passed an amendment in 1978 to give the city full seats in Congress, but lawmakers in too few states approved it, and it ran out of time in 1985.
 
-**The canal.** American and Panamanian leaders signed the Torrijos-Carter Treaties on September 7, 1977. Under them, American officials handed the Panama Canal to Panama on December 31, 1999.
+#### The Panama Canal and an apology to Native Hawaiians
+
+American and Panamanian leaders signed the Torrijos-Carter Treaties on September 7, 1977. Under them, American officials handed the Panama Canal to Panama on December 31, 1999.
 
 **An apology.** Members of Congress passed, and President Bill Clinton signed, the Apology Resolution, Public Law 103-150, in 1993. It is about the overthrow of the Kingdom of Hawaii a hundred years earlier. On January 17, 1893, a group of mostly American businessmen had overthrown Queen Liliʻuokalani, and John L. Stevens, the top American diplomat in Hawaii, had landed 162 American sailors and Marines to back them.
 
@@ -23426,7 +23486,7 @@ By Lepore's count, officials burned 13 Black men at the stake and hanged 17 Blac
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 9 minutes**
 
 The men who led the Revolution wrote in 1776 "that all men are created equal," and enslaved people used words like those to claim their freedom. Elizabeth Freeman won hers in a Massachusetts court in 1781 with the words of the new state constitution. About 20,000 Black people joined or fled to the British during the war, after Virginia's royal governor promised freedom to enslaved men who fought for Britain. In 1796 Ona Judge walked out of President George Washington's household and never went back.
 
@@ -23450,11 +23510,13 @@ Twelve years after she landed, she was a published poet. Her book, *Poems on Var
 
 She married John Peters in 1778. She died poor in 1784, at about 31 years old.
 
+#### Crispus Attucks, 1770
+
+Crispus Attucks was the first person British soldiers killed in the Boston Massacre. The soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. Attucks was a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
+
 #### Two promises of freedom in the Revolution
 
 Both sides in the Revolution promised freedom to some of the enslaved men who would fight for them. Neither side kept that promise to all of them.
-
-**Before any promise.** A Black man died in the quarrel with Britain years before either side promised anything. British soldiers fired on a crowd of colonists in King Street, in Boston, on March 5, 1770. People call it the Boston Massacre. The first person killed was Crispus Attucks, a sailor with African and Wampanoag ancestors. Most accounts say he had escaped from slavery in Framingham, Massachusetts, around 1750. Accounts differ about whether he was legally free by 1770 or still an escaped slave.
 
 **Lord Dunmore's promise.** Virginia's royal governor, Lord Dunmore, made a promise on November 7, 1775, to the men enslaved by Virginians who were fighting the British. Any of them who joined the British army would be free. About 300 men joined his Ethiopian Regiment within a month, and it grew to about 800.
 
@@ -23546,7 +23608,7 @@ In the 1840s she told her own story to newspaper interviewers, including one fro
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 26 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 24 minutes**
 
 Cotton planters spread slavery west and south between 1800 and 1850. The number of people held in slavery kept rising, even after a federal law against bringing captives from abroad took effect on January 1, 1808. Most of the growth came from children born into slavery. Census takers counted 697,681 enslaved people in 1790 and 3,953,760 in 1860, almost six times as many.
 
@@ -23830,7 +23892,7 @@ In 1840: it had 195,211, three times as many, on the land the Choctaw and Chicka
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 32 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 30 minutes**
 
 Slavery ended in this era, and the people it had held spent the rest of the century fighting to keep the freedom they had won. In 1850 the members of Congress passed a law that forced people in the free states to help catch those who escaped.
 
@@ -23922,7 +23984,7 @@ General Benjamin Butler refused to send them back. He called them "contraband of
 
 More than 60,000 freed people died of smallpox between 1862 and 1868, according to the historian Jim Downs. Smallpox is a disease caused by a virus that spreads from person to person. It brings a fever and a rash that spreads over the skin and turns to scabs. About 3 in every 10 people who caught it died, and many who lived had scars for life, most of all on their faces.
 
-Doctors knew how to prevent it. They could vaccinate people, giving them a shot that protects against the disease, and they could keep the sick away from the well, which is called quarantine. The quarantine tents for freed people were made of old, ripped army cloth.
+Doctors knew how to prevent it. They could vaccinate people by scratching fluid from the sores of cowpox, a mild disease of cows, into the skin. They could also keep the sick away from the well, which is called quarantine. The quarantine tents for freed people were made of old, ripped army cloth.
 
 **Philip Reid.** Philip Reid was an enslaved craftsman at the foundry of Clark Mills in Washington, D.C., a workshop where metal is melted and cast. Mills owned him. Mills's workers were casting the Statue of Freedom for the top of the Capitol dome. The paid foreman demanded more money before he would take apart the plaster model, and Reid worked out how to separate it with a pulley and tackle. He was paid $1.25 a day, but he kept only the pay for Sundays. Mills took the rest.
 
@@ -23978,7 +24040,7 @@ Carney took the flag and went forward with several serious wounds. He planted it
 
 He received the Medal of Honor in May 1900. The National Park Service says his actions were "the earliest act of African American bravery to be recognized with the medal." He was one of 22 African Americans to receive it for service in the Civil War. He died at Boston City Hospital on December 9, 1908.
 
-#### Combahee Ferry, Juneteenth and the 13th Amendment
+#### Combahee Ferry, the 13th Amendment and Juneteenth
 
 Harriet Tubman guided Union gunboats and soldiers of the 2nd South Carolina Volunteers up the Combahee River in South Carolina on the night of June 2, 1863. More than 700 enslaved people escaped to freedom on the boats that night.
 
@@ -23986,9 +24048,11 @@ Harriet Tubman guided Union gunboats and soldiers of the 2nd South Carolina Volu
 
 **Juneteenth.** Major General Gordon Granger arrived in Galveston, Texas, on June 19, 1865, with about 2,000 federal soldiers. He issued General Order No. 3. It said that "all slaves are free," with "absolute equality of personal rights." More than 250,000 people were still enslaved in Texas, two and a half years after the Emancipation Proclamation, because the Union army had not been there to enforce it. June 19 became a day of celebration, called Juneteenth.
 
-**The Five Tribes.** Slaveholders in the Choctaw and Chickasaw nations, the nations that United States officials forced west to Indian Territory in the 1830s, had also held Black people in slavery. So had slaveholders in the Cherokee, Muscogee (Creek) and Seminole nations. Together these five nations were known as the Five Tribes. At emancipation as many as 2,500 people were enslaved in the Cherokee Nation.
+#### Slavery in the Five Tribes
 
-The leaders of each of these nations signed treaties with the United States in 1866. In them the leaders agreed to free the people their nations had enslaved and to make them citizens of the nation. In Article 9 of the Cherokee treaty, Cherokee leaders promised the freed people, called Freedmen, "all the rights of native Cherokees."
+Slaveholders in the Choctaw and Chickasaw nations, the nations that United States officials forced west to Indian Territory in the 1830s, had also held Black people in slavery. So had slaveholders in the Cherokee, Muscogee (Creek) and Seminole nations. Together these five nations were known as the Five Tribes. At emancipation as many as 2,500 people were enslaved in the Cherokee Nation.
+
+The leaders of each of these nations signed treaties with the United States in 1866. In them the leaders agreed to free the people held in slavery in their nations and to make them citizens of the nation. In Article 9 of the Cherokee treaty, Cherokee leaders promised the freed people, called Freedmen, "all the rights of native Cherokees."
 
 **By 1866:** Slavery was illegal everywhere in the United States, about four million people were free, and Union soldiers had announced freedom as far away as Galveston, Texas.
 
@@ -24160,7 +24224,7 @@ President Hayes then ordered the last federal troops out of the Southern stateho
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 8 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 7 minutes**
 
 Southern lawmakers, sheriffs, judges and company managers spent the first half of the 1900s running a system that took slavery's place. Lawmakers passed laws that kept Black and white people apart, and they took the vote from most Black men. Sheriffs arrested Black men for small crimes, judges sentenced them, and state officials rented them to mine companies, whose managers worked them without pay. White mobs lynched Black people by the thousands. Researchers at the Equal Justice Initiative have counted more than 4,400 such killings between 1877 and 1950.
 
@@ -24244,7 +24308,7 @@ He could not go anywhere without his enslaver's permission: "I couldn't go from 
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 4 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 3 minutes**
 
 Federal judges and lawmakers began to enforce the promises of the Civil War amendments in these fifty years, almost a hundred years after they were written.
 
@@ -24644,7 +24708,7 @@ Quakers in other regions made the same change in those years. The members of New
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 12 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
 
 People left out of the Revolution's promises answered with the Revolution's own words. The delegates to the Continental Congress voted on July 4, 1776, to adopt the Declaration of Independence, which states that "all men are created equal." The men who wrote the new state constitutions of 1776 kept women from voting, except in New Jersey.
 
@@ -24740,7 +24804,7 @@ She argued that men and women have equal minds, and that women fell behind only 
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 25 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 24 minutes**
 
 Women who organized against slavery in these fifty years learned to gather signatures, print their arguments and speak to crowds, and then some of them turned the same methods to their own rights. Ministers, lawmakers and mobs attacked them for it. Black families in Boston campaigned to get their children into the city's schools.
 
@@ -24970,7 +25034,7 @@ The signers had written that they expected "misconception, misrepresentation, an
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 52 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 50 minutes**
 
 Americans who were denied rights in the second half of the 1800s learned to plan court cases on purpose. They chose a law to challenge, raised money, hired a lawyer and found a person willing to be arrested or refused. Susan B. Anthony voted in 1872, the Tape family sued a school board in 1884, and Black men on a committee in New Orleans arranged an arrest on a train in 1892.
 
@@ -25394,7 +25458,7 @@ Governor Daniel Russell did not ask for federal help, and President William McKi
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 64 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 63 minutes**
 
 The people who organized for their rights between 1900 and 1950 worked out the methods that organizers in the 1960s later used. Alice Paul put women on a picket line at the White House gates in 1917. Disabled New Yorkers sat down in a city relief office in 1935 and would not leave.
 
@@ -25946,7 +26010,7 @@ Sergeant Isaac Woodard was discharged from the Army after four years on February
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 56 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 55 minutes**
 
 Five groups of Americans ran organized campaigns after 1950: Black Americans, women, Mexican Americans, gay Americans and disabled Americans. Each group won changes in the country's laws. The justices of the Supreme Court ruled in 1954 that segregated public schools broke the Constitution, and in 1956 they struck down segregation on Montgomery's buses. Members of Congress then passed new laws.
 
@@ -26074,7 +26138,9 @@ White parents took their children out. By the end of the month, fewer than ten w
 
 Levittown, Pennsylvania, was a town of houses built and sold by one builder, William Levitt. Daisy and William Myers became the first Black family to live there in August 1957, and white mobs gathered outside their home for nearly three months. William Myers was an Army veteran of the Second World War, and Daisy Myers was a teacher. They had three young children.
 
-**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race," meaning anyone who was not white, from living in a house. The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. Levitt dropped the written clause and kept selling only to white buyers.
+**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race," meaning anyone who was not white, from living in a house. The lease included one exception: servants who were not white could live in a house if they worked for the white family there.
+
+The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. Levitt dropped the written clause and kept selling only to white buyers.
 
 **The mobs.** When the Myers family moved in, mobs gathered outside the house. People threw rocks through the windows, burned crosses and made death threats by telephone. Delivery men stopped bringing milk, bread and heating oil, and state police guarded the house. A documentary, *Crisis in Levittown*, was filmed while it was happening, in 1957. Daisy Myers later wrote a book about it, *Sticks 'n Stones*, published in 2005.
 
@@ -26798,7 +26864,7 @@ Tribal leaders asked the judges of a federal appeals court to drop the tribe's o
 
 **Greenpeace.** Energy Transfer's lawyers sued the environmental group Greenpeace over the protests. A jury in Morton County ordered Greenpeace to pay about $667 million on March 19, 2025, and Judge James Gion cut the amount to $345 million. Greenpeace officials said the group had six employees at the camps and called the lawsuit an attempt to punish the group for supporting the protests. "The oil is still flowing. The pipeline hasn't been shut down," Nola Taken Alive, a member of the Standing Rock tribal council, said in September 2026.
 
-#### The DREAM Act and DACA, 2001 to 2026, and two killings in Minneapolis
+#### The DREAM Act and DACA, 2001 to 2026
 
 Young people who had been brought into the United States as children, without legal permission to live there, organized from 2010 for a way to become citizens, and members of Congress never passed one. Senator Richard Durbin of Illinois and Representative Howard Berman of California first introduced the DREAM Act in 2001. It would have let these young people become citizens after two years of college or military service.
 
@@ -26814,7 +26880,9 @@ Attorney General Jeff Sessions wrote in September 2017 that the program should e
 
 **The numbers.** Agents of ICE, a federal immigration agency, arrested 261 DACA holders and deported 86 of them in the first year of President Donald Trump's second term, by the count of FWD.us, an immigration advocacy group. About 455,000 people held DACA on March 31, 2026, by government figures reported by the National Immigration Forum, another immigration advocacy group. Federal immigration officials were renewing permits and not approving new ones.
 
-**Minneapolis, 2026.** Federal officials ran a large immigration operation in Minneapolis in early 2026, called Operation Metro Surge. During it, federal immigration agents shot and killed two American citizens, Renée Macklin Good on January 7 and Alex Pretti on January 24. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
+#### Federal agents kill two citizens in Minneapolis, 2026
+
+Federal officials ran a large immigration operation in Minneapolis in early 2026, called Operation Metro Surge. During it, federal immigration agents shot and killed two American citizens, Renée Macklin Good on January 7 and Alex Pretti on January 24. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
 
 Federal officials said Good had used her car as a weapon, and local officials said video contradicted that. Federal officials called Pretti a domestic terrorist, and NPR reported that video contradicted their account of his death.
 
@@ -26986,7 +27054,7 @@ Then Native people of the area, whom Percy called "our mortall enemies," brought
 
 **The river and the drought.** The geographer Carville Earle pointed to the river in 1979. At Jamestown the river water was part salt and part fresh, so the colonists' waste stayed in it instead of washing away. Tree rings show a drought that lasted seven years, from 1606 to 1612. The historian Dennis Blanton wrote that colonists who were hungry and thirsty from the drought were the most likely to fall sick.
 
-Only about 60 of about 240 colonists in the fort lived through the winter of 1609 to 1610. That winter is called the Starving Time.
+Eight ships from England reached Jamestown in August 1609 with hundreds of new colonists. When the winter of 1609 to 1610 began, about 500 colonists were in Virginia, and about 240 of them were in the fort. By spring only about 60 of those 240 were alive. That winter is called the Starving Time.
 
 #### An epidemic on the New England coast, 1616 to 1619
 
@@ -27076,7 +27144,7 @@ By one estimate, some Native nations lost more than 60 of every 100 people. A So
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 7 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 6 minutes**
 
 Doctors in Boston and Charleston began protecting people against smallpox in these fifty years by inoculation: giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children, and smallpox killed about half of the Cherokee Nation.
 
@@ -27308,7 +27376,7 @@ Waterhouse sent vaccine to other doctors and to President Thomas Jefferson. Jeff
 
 President Andrew Jackson signed a law on May 5, 1832, that set aside $12,000 to vaccinate Native people. Members of Congress had passed it. Secretary of War Lewis Cass designed the program and ran it through federal Indian agents, the government officials sent to deal with each Native nation. By February 1833, more than 17,000 Native people had been vaccinated. Some Army doctors refused to take part because the pay was too low.
 
-Cass left the Mandan, Hidatsa and Arikara nations on the upper Missouri River out of the program. The accounts of the program do not give his reason.
+Cass left the Mandan, Hidatsa and Arikara nations on the upper Missouri River out of the program. He believed the fur trade on the upper Missouri was no longer worth much to the United States. He also said that the treaties the three nations had signed in 1825 described them as hostile to the country and its citizens.
 
 **The steamboat.** The American Fur Company's steamboat *St. Peters* stopped at Fort Clark, beside the Mandan villages in what is now North Dakota, on June 18, 1837. A deckhand had shown signs of smallpox weeks earlier, and three Arikara women who had caught it had boarded to go home to their village. The fort's trader, Francis Chardon, learned from the captain that people on the boat had smallpox. The crew unloaded goods and loaded furs in less than a day, and the boat went on upriver.
 
@@ -27406,7 +27474,7 @@ With her sister, Dr. Emily Blackwell, and Dr. Marie Zakrzewska, she opened the N
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 9 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 8 minutes**
 
 Disease killed more Civil War soldiers than fighting did, and in peacetime too Americans died of sicknesses spread by dirty water, filthy streets and unwashed hands. Smallpox killed more than 60,000 people who had just been freed from slavery between 1862 and 1868. Officers of New York's new health board ordered filth cleared from the streets in 1866, and cholera killed a smaller share of the city than in earlier years. Yellow fever killed about 20,000 people along the Mississippi River in 1878.
 
@@ -27912,18 +27980,6 @@ To sterilize a person is to operate so that the person can never have a baby. In
 
 A federal judge ruled in 1974 in the case of Minnie Lee and Mary Alice Relf, two Black sisters in Alabama who had been sterilized as children. The judge found that doctors in programs paid for by the federal government were sterilizing an estimated 100,000 to 150,000 poor people a year. Some doctors told women on welfare, government money for poor families, that they would lose it unless they agreed. The judge barred federal money for sterilizing people against their will, and barred the threats to cut off welfare.
 
-**The Indian Health Service.** Investigators of the General Accounting Office, which checks how federal money is spent, reported on the Indian Health Service in 1976. In four of its 12 regions, its doctors had sterilized 3,406 Native women from 1973 to 1976. Writers for the National Library of Medicine and the National Archives describe the operations as done without the women's permission. Thirty-six of the women were under 21, although a federal judge had ordered that women that young not be sterilized.
-
-The investigators' report does not name the doctors. Two years before it, in 1974, Dr. Connie Pinkerton-Uri, who is Choctaw and Cherokee, had found in her own study that 1 in 4 Native women had been sterilized without consent.
-
-**One woman's case.** Norma Jean Serena, who was Shawnee and Creek, gave birth in Armstrong County, Pennsylvania, on August 16, 1970. Two days later Drs. Donald Carter and James Houston cut out her fallopian tubes, the tubes that carry eggs to the womb. She said no doctor ever told her. A welfare caseworker, Jean Burgess, had advised the operation. Burgess later said, "This was a burden on society. I felt that Mrs. Serena should have no further children."
-
-Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000 for the taking of her children.
-
-On the operation, the same jurors found against her. They decided that she had agreed to it, though she said no doctor ever told her about it.
-
-In Puerto Rico, about 1 in 3 women of child-bearing age had been sterilized by 1968, and 37.4 of every 100 by 1976, historians on the history podcast DIG report. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pushed into it by their employers.
-
 <a id="story-relf-sisters"></a>
 
 #### Minnie Lee and Mary Alice Relf
@@ -27940,7 +27996,21 @@ Nurses from a family planning clinic had told their mother, Minnie Relf, about t
 
 Their father, Lonnie Relf, saw the scars when the girls came home from the hospital. The same day a nurse asked their sister Katie, who was 17, to agree to be sterilized. Katie locked herself in her room.
 
-Lawyers from the Southern Poverty Law Center sued for the family. The federal officials they sued included Caspar Weinberger, the Secretary of Health, Education and Welfare, and Alvin Arnett of the Office of Economic Opportunity. The judge barred federal money for sterilizing people against their will, and barred doctors from threatening to cut off welfare money.
+Lawyers from the Southern Poverty Law Center sued for the family in a case called *Relf v. Weinberger*. The federal officials they sued included Caspar Weinberger, the Secretary of Health, Education and Welfare, and Alvin Arnett of the Office of Economic Opportunity.
+
+#### Native and Puerto Rican women
+
+**The Indian Health Service.** Investigators of the General Accounting Office, which checks how federal money is spent, reported on the Indian Health Service in 1976. In four of its 12 regions, its doctors had sterilized 3,406 Native women from 1973 to 1976. Writers for the National Library of Medicine and the National Archives describe the operations as done without the women's permission. Thirty-six of the women were under 21, although a federal judge had ordered that women that young not be sterilized.
+
+The investigators' report does not name the doctors. Two years before it, in 1974, Dr. Connie Pinkerton-Uri, who is Choctaw and Cherokee, had found in her own study that 1 in 4 Native women had been sterilized without consent.
+
+**One woman's case.** Norma Jean Serena, who was Shawnee and Creek, gave birth in Armstrong County, Pennsylvania, on August 16, 1970. Two days later Drs. Donald Carter and James Houston cut out her fallopian tubes, the tubes that carry eggs to the womb. She said no doctor ever told her. A welfare caseworker, Jean Burgess, had advised the operation. Burgess later said, "This was a burden on society. I felt that Mrs. Serena should have no further children."
+
+Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000 for the taking of her children.
+
+On the operation, the same jurors found against her. They decided that she had agreed to it, though she said no doctor ever told her about it.
+
+In Puerto Rico, about 1 in 3 women of child-bearing age had been sterilized by 1968, and 37.4 of every 100 by 1976, historians on the history podcast DIG report. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pushed into it by their employers.
 
 #### AIDS, 1981 to 2000
 
@@ -27982,7 +28052,7 @@ In 2000: No one had caught polio inside the United States since 1979, Medicare p
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 COVID-19 and drug overdoses cut American lives short in these years, even as doctors learned to edit the genes in a patient's own cells to treat sickle cell disease. COVID-19 killed 1,245,791 people in the United States from 2020 to September 19, 2026, by the early count of the CDC, the federal disease agency. Drug overdoses killed more than 100,000 Americans a year in 2022 and 2023.
 
@@ -28158,7 +28228,7 @@ When the rock along a fault moves suddenly, the ground shakes. Scientists have f
 
 ### The 1500s
 
-**Era 2 of 10 · The 1500s · about 7 minutes**
+**Era 2 of 10 · The 1500s · about 6 minutes**
 
 A hurricane in Pensacola Bay sank six Spanish ships in 1559 with the food for 1,500 colonists still on board. Spanish and English colonists of the 1500s wrote down the disasters they lived through, and this storm is one of them.
 
@@ -28246,7 +28316,7 @@ Most of the people at Jamestown starved to death in the winter of 1609 to 1610, 
 
 The killing began on both sides in the autumn of 1609. The colonist Francis West cut off the heads of two warriors of the Patawomeck people while he was trading with them. In November 1609 warriors ambushed a party of colonists led by John Ratcliffe at Orapax. They tortured Ratcliffe to death. That same month Powhatan ordered his people to surround Jamestown and cut off its food.
 
-**How many died.** Counts of the colonists differ. The historian Martha McCartney counts 240 people at Jamestown at the start of the winter. Other counts record about 500 in the colony. By May 1610 about 60 were alive. Some survivors dug up and ate the bodies of dead colonists and of Native people the colonists had killed.
+**How many died.** About 500 colonists were in Virginia when the winter began. The historian Martha McCartney counts 240 of them in the fort at Jamestown. By May 1610 only about 60 of those 240 were alive. Some survivors dug up and ate the bodies of dead colonists and of Native people the colonists had killed.
 
 The *Sea Venture* castaways reached Jamestown in their two small ships on May 24, 1610. Gates decided to give up the colony and sail home with the survivors. On the river they met Thomas West, Lord De La Warr, an English nobleman. He was bringing a year's supply of food, and everyone went back to Jamestown. Between 1607 and 1625, the company's leaders sent about 6,000 people to Jamestown. About 4,800 of them died.
 
@@ -28302,7 +28372,7 @@ A fire in Boston's North End destroyed 45 buildings on November 27, 1676. Among 
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 10 minutes**
 
 Every member of Philadelphia's Union Fire Company kept six leather buckets ready for the next fire. In these fifty years townspeople began to organize against the fires that kept burning their wooden towns. In 1722 about two-thirds of Boston's nearly 3,000 houses were built of wood. Boston got its first fire wardens after a fire in 1711, and neighbors in Boston and Philadelphia formed fire companies.
 
@@ -28568,7 +28638,7 @@ At about 8 p.m., off Silver Creek, New York, on Lake Erie, the turpentine explod
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 17 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 16 minutes**
 
 More than 2,000 Union soldiers were crowded onto the steamboat *Sultana*, built to carry 376, in April 1865. Its sinking, the Peshtigo fire and the Johnstown Flood each killed more than 1,000 people. They are still the country's deadliest shipwreck, deadliest wildfire and deadliest dam failure. After the *Sultana* and Johnstown, survivors and investigators blamed named men, and no court punished any of them.
 
@@ -28716,7 +28786,7 @@ Her house in Glen Echo, Maryland, was built partly from lumber of the Red Cross 
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 The Galveston hurricane of September 1900 killed between 6,000 and 12,000 people, more than any other natural disaster in the country's history. In the fifty years after it, many more people died because of choices other people made.
 
@@ -29308,7 +29378,7 @@ Each time, look at who gets punished. Coles was a free colonist with the right t
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 People in this land used plants that change how the body and the mind feel for thousands of years before Europeans came. The oldest one found so far is tobacco. In the records written later, many of these uses were part of prayer and ceremony. Native people offered tobacco in prayer, men in the Southeast drank Black Drink to make themselves pure, and the O'odham drank cactus wine at a rain ceremony. The Apache drank their corn beer mostly at everyday social times.
 
@@ -29678,7 +29748,7 @@ At his plantation, Mount Vernon, he gave the people he enslaved an allowance of 
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 9 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 8 minutes**
 
 Americans of the early 1800s drank almost three times as much alcohol as Americans do now, and the first big campaign against drinking began. The average American of drinking age drank 7.1 gallons of pure alcohol in 1830, against 2.48 gallons in 2023. People drank at breakfast, in the fields and at work.
 
@@ -29924,7 +29994,7 @@ Dr. Leslie Keeley opened a clinic for heavy drinkers in Dwight, Illinois, in 187
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 20 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 19 minutes**
 
 Drugs and alcohol came under federal control in the first half of the 1900s, first through labels and then through bans. From 1906, drug makers had to list opium, morphine and alcohol on their labels. From 1915, everyone who sold opium or cocaine had to register and keep records, and Treasury officials, who worked in the department that handles the government's money and taxes, took doctors to court for giving addicts their drug. In 1937 members of Congress taxed marijuana.
 
@@ -30266,7 +30336,7 @@ Prescriptions of OxyContin for pain not caused by cancer rose from about 670,000
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Opioids, first pain pills such as OxyContin, then heroin, then fentanyl, killed about 806,000 Americans from 1999 to 2023, by the count of the Centers for Disease Control and Prevention (CDC). An overdose is too much of a drug at once, enough to make a person very sick or kill them.
 
@@ -30426,7 +30496,7 @@ This chapter follows faith in America from the sun posts at Cahokia to the shoot
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Hundreds of Native nations lived on this land before 1500, and each one had its own religious life. So there were hundreds of Native religions, and many are still practiced today. The nations shared no holy book and no single founder. Each held its ceremonies in a set place, at a set season, with its own community.
 
@@ -31113,7 +31183,7 @@ All of the leaders were held in jail for two and a half years. Then Spanish offi
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 28 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 27 minutes**
 
 Protestant revivals were held in almost every corner of the country between 1800 and 1850, so many that one religious magazine stopped reporting them in 1827. Its editors wrote that revivals "are becoming too numerous in our country to admit of being generally mentioned in our Record." In 1833 Massachusetts lawmakers stopped using tax money to pay for churches, and no other state still did.
 
@@ -31349,7 +31419,7 @@ The historian Cook estimated that about 310,000 Native people lived in Californi
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 19 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 18 minutes**
 
 Some Protestants met the fast growth of Catholics and Jews after 1850 with mobs, school laws and state constitutions. Catholics were about one person in twenty in the United States in 1850. By 1906 there were 14 million of them, about one person in six. Catholics answered by building their own schools. Jews started schools to train rabbis, the teachers and leaders of Jewish congregations.
 
@@ -31990,7 +32060,7 @@ Danforth also reported that an FBI agent had fired three tear-gas rounds of a ki
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 29 minutes**
+**Era 10 of 10 · 2000 to Today · about 28 minutes**
 
 Fewer Americans have belonged to a congregation since 2000. In a survey taken in 2023 and 2024, 29 percent of American adults said they had no religion, up from 16 percent in 2007. People attacked worshippers inside gurdwaras, the houses of worship of the Sikh religion, and inside churches and synagogues, and killed them where they prayed.
 
@@ -32582,7 +32652,7 @@ One evening in the autumn of 1771 Dock did not come home from school at the usua
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 12 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
 
 The men who founded the United States argued that the new country needed schools, and they mostly did not pay for them. Thomas Jefferson wrote a plan for public schools in Virginia, and Virginia's lawmakers never passed it. The new schools of these fifty years included private academies, the first school for girls with a charter from a government, church charity schools, and a charity school and a college meant for Native students.
 
@@ -32955,7 +33025,7 @@ Black Bostonians kept up the fight. In 1855 Massachusetts lawmakers outlawed sep
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 31 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 30 minutes**
 
 State lawmakers began to order children to go to school, starting with Massachusetts in 1852, and school became a legal duty. Lawmakers in Congress gave states public land, which the United States had taken from Native nations, to found colleges.
 
@@ -32966,6 +33036,16 @@ Federal officials began sending Native children to boarding schools far from hom
 #### When school became the law
 
 Massachusetts lawmakers passed the first compulsory attendance law, a law that requires children to go to school, in 1852. It covered children from 8 to 14 years old. Each child had to attend at least twelve weeks a year, six of them in a row. By 1900, 32 states had such a law, and by 1918 every state had one. Mississippi was the last. How strictly officials enforced the early laws is not known.
+
+#### A teacher jailed in Norfolk, 1854
+
+Officials in Norfolk, Virginia, jailed a white teacher in 1854 for teaching free Black children to read. Margaret Douglass, a white woman in Norfolk, and her daughter Rosa opened a school for free Black children in June 1852. A Mr. Robinson, whose two daughters Margaret Douglass had begun to teach, asked her to do it. The Douglasses charged three dollars for each quarter of a year. Twenty-five boys and girls came, and the school ran openly for about eleven months.
+
+**The arrest.** The city constable, a town officer who kept order and made arrests, came to the house on the morning of May 9, 1853. His name was Cherry, and a second officer, Cox, came with him. Mayor Simon S. Stubbs had sent them. The officers wrote down the name of every child and every parent and marched the two teachers and the children to the mayor's office.
+
+The mayor read out the Virginia law and told them its highest penalty was a fine of one hundred dollars and six months in jail. Those are his figures, as Margaret Douglass later reported them, and they are higher than the fine of $50 and two months in jail that the 1831 law set for a white teacher. A grand jury charged the two women with meeting with Black children "for the purpose of instructing them to read and to write." Rosa left Norfolk for New York before the trial.
+
+**The sentence.** A jury found Margaret Douglass guilty in November 1853 and set her fine at one dollar. On January 10, 1854, Judge Baker of the Norfolk court added a month in the city jail. He said the jail term was "an example to all others in like cases disposed to offend." She served the month. Afterward she published her own account of the case, with the court papers printed in it.
 
 #### Colleges built with Native land: the Morrill Acts
 
@@ -33024,16 +33104,6 @@ In her journal she wrote that her time in Salem was "the happiest of my life." S
 **St. Helena Island.** She sailed to St. Helena Island, off South Carolina, in October 1862, in the middle of the war, to teach at the Penn School with Laura Towne and Ellen Murray. The school had opened that year with 41 pupils, and by 1865 it had 436 pupils in four buildings. She taught there until the war ended and kept a journal the whole time. In May and June 1864 she published an account of it, "Life on the Sea Islands," in the *Atlantic Monthly*, a magazine.
 
 After the war she taught in Boston and in Charleston, South Carolina. By 1872 she was teaching in Washington, D.C., at the school that became Dunbar High School.
-
-#### A teacher jailed in Norfolk, 1854
-
-Officials in Norfolk, Virginia, jailed a white teacher in 1854 for teaching free Black children to read. Margaret Douglass, a white woman in Norfolk, and her daughter Rosa opened a school for free Black children in June 1852. A Mr. Robinson, whose two daughters Margaret Douglass had begun to teach, asked her to do it. The Douglasses charged three dollars for each quarter of a year. Twenty-five boys and girls came, and the school ran openly for about eleven months.
-
-**The arrest.** The city constable, a town officer who kept order and made arrests, came to the house on the morning of May 9, 1853. His name was Cherry, and a second officer, Cox, came with him. Mayor Simon S. Stubbs had sent them. The officers wrote down the name of every child and every parent and marched the two teachers and the children to the mayor's office.
-
-The mayor read out the Virginia law and told them its highest penalty was a fine of one hundred dollars and six months in jail. Those are his figures, as Margaret Douglass later reported them, and they are higher than the fine of $50 and two months in jail that the 1831 law set for a white teacher. A grand jury charged the two women with meeting with Black children "for the purpose of instructing them to read and to write." Rosa left Norfolk for New York before the trial.
-
-**The sentence.** A jury found Margaret Douglass guilty in November 1853 and set her fine at one dollar. On January 10, 1854, Judge Baker of the Norfolk court added a month in the city jail. He said the jail term was "an example to all others in like cases disposed to offend." She served the month. Afterward she published her own account of the case, with the court papers printed in it.
 
 #### Separate schools by law, upheld by the courts
 
@@ -33233,7 +33303,7 @@ In 1900: 32 states made children go to school, Black and white children sat in s
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 42 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 41 minutes**
 
 Finishing high school went from rare to ordinary. In 1900 about 6 American children in every 100 finished high school, and by 1940 about half did. School board members closed one-teacher schools by the tens of thousands and sent buses to carry the children to bigger schools.
 
@@ -33289,9 +33359,43 @@ An amendment, a change to the Constitution, was proposed in the 1920s to allow a
 
 Every state had a law by 1918 that required children to go to school. As fewer children went to work, more of them stayed in school, and the high schools filled up.
 
-#### A school prayer case in Nebraska, 1902
+#### Religious teaching in a Nebraska school, 1902
 
 A court fight over religious teaching in a public school began at the Freeman School in Nebraska, the one-room brick school near Beatrice. Daniel Freeman, the first person to file a claim for free land under the Homestead Act, sued in 1898 over the religious teaching there. On October 9, 1902, the justices of the Nebraska Supreme Court ruled in his favor. That was sixty years before the justices of the US Supreme Court ruled that public school staff anywhere in the country could not lead official prayers.
+
+#### John Dewey's school: children learn by doing
+
+John Dewey, a professor at the University of Chicago, argued that children learn by doing things, not by sitting still and listening. To test the idea, he and his wife, Alice, ran a small school in Chicago for eight and a half years, from 1896 to 1904.
+
+He described the classroom he was arguing against in his book *The School and Society*, published in 1899.
+
+He had gone around the school supply stores in his city, looking for desks and chairs that children could work at. One dealer told him, "I am afraid we have not what you want. You want something at which the children may work. These are all for listening." Dewey described the ordinary schoolroom as having "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
+
+In his school, every child, boy or girl, had cooking, sewing and carpentry for an hour or two a week each. Each group of children cooked its own lunch once a week, set the table and served it to guests. Children also kept gardens and wove cloth.
+
+The teachers planned for reading, writing and arithmetic to grow out of that work. In *The School and Society*, Dewey answered the question of what schools are for: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
+
+<a id="story-john-dewey"></a>
+
+#### John Dewey
+
+> **Who:** A philosopher who started out as a high school teacher, argued that children learn by doing, and ran a school to test it.
+>
+> **When and where:** Born in Burlington, Vermont, on October 20, 1859. Died in New York City on June 1, 1952.
+
+**On the first day, each child made a paper box for pencils.**
+
+John Dewey taught high school before he studied philosophy, and later he ran a school of his own to test his ideas about learning. He graduated from the University of Vermont in June 1879 and went straight to work as assistant principal of Oil City High School in Pennsylvania. There he taught the classics, the old Greek and Latin writers, along with science and algebra. He was nineteen, and he did that job for two years.
+
+He earned a Ph.D., the highest degree a university gives, at Johns Hopkins University in 1884 and then taught at the University of Michigan. In March 1894 he accepted a job at the University of Chicago, and he was 34 when he arrived.
+
+**The school.** He opened an elementary school in a house on 57th Street in January 1896, with sixteen pupils and two adults in charge. On the first day, the student newspaper reported, each child made a paper box for pencils. Two teachers who worked there later wrote the school's history. They called its first six months a time of trial and error, "chiefly indicative of what not to do."
+
+The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
+
+*The School and Society* became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
+
+His wife, Alice Chipman Dewey, resigned as principal of the school on April 5, 1904, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
 
 #### Who could hit a child, city by city
 
@@ -33336,40 +33440,6 @@ The next morning she went to Mr. and Mrs. Crawford in Merchantville, New Jersey.
 She told the committee that Stauffer had whipped several boys from his band in the guardhouse, and she named one of them, Robert Nash. She had seen Ridenour and another staff member, Miss Knight, whip a young woman named Rose Whipper and lock her up. After the hearings, officials suspended Stauffer. He was not fired, but his job was abolished. Warner left Carlisle.
 
 **The end of Carlisle.** Officials handed Carlisle over to the War Department on September 1, 1918, and Army officers made it a hospital for the First World War. Federal officials moved the 279 children still at the school to other federal boarding schools.
-
-#### John Dewey's school: children learn by doing
-
-John Dewey, a professor at the University of Chicago, argued that children learn by doing things, not by sitting still and listening. To test the idea, he and his wife, Alice, ran a small school in Chicago for eight and a half years, from 1896 to 1904.
-
-He described the classroom he was arguing against in his book *The School and Society*, published in 1899.
-
-He had gone around the school supply stores in his city, looking for desks and chairs that children could work at. One dealer told him, "I am afraid we have not what you want. You want something at which the children may work. These are all for listening." Dewey described the ordinary schoolroom as having "rows of ugly desks placed in geometrical order, crowded together so that there shall be as little moving room as possible."
-
-In his school, every child, boy or girl, had cooking, sewing and carpentry for an hour or two a week each. Each group of children cooked its own lunch once a week, set the table and served it to guests. Children also kept gardens and wove cloth.
-
-The teachers planned for reading, writing and arithmetic to grow out of that work. In *The School and Society*, Dewey answered the question of what schools are for: "What the best and wisest parent wants for his own child, that must the community want for all of its children."
-
-<a id="story-john-dewey"></a>
-
-#### John Dewey
-
-> **Who:** A philosopher who started out as a high school teacher, argued that children learn by doing, and ran a school to test it.
->
-> **When and where:** Born in Burlington, Vermont, on October 20, 1859. Died in New York City on June 1, 1952.
-
-**On the first day, each child made a paper box for pencils.**
-
-John Dewey taught high school before he studied philosophy, and later he ran a school of his own to test his ideas about learning. He graduated from the University of Vermont in June 1879 and went straight to work as assistant principal of Oil City High School in Pennsylvania. There he taught the classics, the old Greek and Latin writers, along with science and algebra. He was nineteen, and he did that job for two years.
-
-He earned a Ph.D., the highest degree a university gives, at Johns Hopkins University in 1884 and then taught at the University of Michigan. In March 1894 he accepted a job at the University of Chicago, and he was 34 when he arrived.
-
-**The school.** He opened an elementary school in a house on 57th Street in January 1896, with sixteen pupils and two adults in charge. On the first day, the student newspaper reported, each child made a paper box for pencils. Two teachers who worked there later wrote the school's history. They called its first six months a time of trial and error, "chiefly indicative of what not to do."
-
-The school had four homes in eight years. By October 1898 it had 82 children, a gymnasium, two science laboratories and rooms for manual training, which means work with tools. At its largest it had 140 children, 23 teachers and about ten graduate students helping.
-
-*The School and Society* became a best seller in its first year. In 1916 he published *Democracy and Education*. In it he wrote that teaching which follows how children really grow "always sets out with situations which involve learning by doing."
-
-His wife, Alice Chipman Dewey, resigned as principal of the school on April 5, 1904, and Dewey resigned from the University of Chicago on the same day. In 1905 he began teaching at Columbia University in New York. He retired in 1930 and died of pneumonia in 1952, at ninety-two.
 
 #### Intelligence tests come to school
 
@@ -33645,12 +33715,6 @@ White students went to new private schools, to schools in other towns and other 
 
 The segregationist members of the school board, people who wanted the races kept apart, voted in May 1959 not to renew the contracts of 44 teachers and school officials. On May 25, 1959, a group of women, the Women's Emergency Committee to Open Our Schools, won a vote that removed three of those board members. The high schools opened again on August 12, 1959.
 
-#### Science and languages: the 1958 law
-
-Soviet scientists and engineers launched Sputnik, the first satellite to circle the Earth, on October 4, 1957. The launch shocked experts and ordinary people in the United States, who had hoped the United States would do it first. President Eisenhower signed the National Defense Education Act on September 2, 1958. Under it, federal officials paid for the teaching of science, mathematics and foreign languages, and for loans to college students.
-
-Eisenhower called it "an emergency undertaking to be terminated after four years." Members of Congress did not end it after four years. Its student loans went on under that name until 1972 and then continued under other names.
-
 #### Virginia closes its schools
 
 Officials in Virginia made the same choice as Faubus. They closed public schools in five places rather than let Black children into white schools, and in Prince Edward County they kept the public schools shut for five years. In late February 1956, Senator Harry F. Byrd called for "massive resistance" against *Brown*, a campaign by Virginia's leaders to block it. Virginia's lawmakers, under Governor Thomas B. Stanley, then passed a law under which the governor would close any school that federal judges ordered to take Black pupils.
@@ -33732,6 +33796,12 @@ The justices struck down both, eight votes to one, on June 17, 1963, in *School 
 **Yoder, 1972.** The justices let Amish parents, members of a Christian church called the Old Order Amish, take their children out of school after the eighth grade.
 
 Wisconsin's law required children to attend school until 16. Jonas Yoder, Wallace Miller and Adin Yutzy kept their children, Frieda Yoder and Barbara Miller, both 15, and Vernon Yutzy, 14, at home, and each father was fined $5. On May 15, 1972, in *Wisconsin v. Yoder*, Chief Justice Warren Burger wrote that the state could not force the parents to send the children to high school.
+
+#### Science and languages: the 1958 law
+
+Soviet scientists and engineers launched Sputnik, the first satellite to circle the Earth, on October 4, 1957. The launch shocked experts and ordinary people in the United States, who had hoped the United States would do it first. President Eisenhower signed the National Defense Education Act on September 2, 1958. Under it, federal officials paid for the teaching of science, mathematics and foreign languages, and for loans to college students.
+
+Eisenhower called it "an emergency undertaking to be terminated after four years." Members of Congress did not end it after four years. Its student loans went on under that name until 1972 and then continued under other names.
 
 #### Federal money for poor children's schools, 1965
 
@@ -34027,7 +34097,7 @@ The one-room school nearly disappeared in these years. The federal count of one-
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 37 minutes**
+**Era 10 of 10 · 2000 to Today · about 35 minutes**
 
 The arguments over American schooling after 2000 were about which school a child attended, what was taught there and how learning was measured. Under a federal law signed in 2002, every state had to test every child in reading and math each year from third grade to eighth, and the yearly tests began in the school year 2005 to 2006. More families chose charter schools, private schools paid for with state money, or teaching at home.
 
@@ -34078,6 +34148,34 @@ Patrick Wolf, a researcher at the University of Arkansas, has said that studies 
 **The argument over the money.** EdChoice states that its aim is "advancing educational freedom and choice for all," and it quotes the economists Milton and Rose Friedman's idea that "every family could choose the learning environment that best fits their child." The National Education Association, a teachers' union, states that "vouchers take scarce funding from students in public schools and give those resources to unaccountable private schools."
 
 Researchers who studied one program, Louisiana's vouchers, found different things about the children who used them and about the public schools nearby. The researchers Jonathan Mills and Patrick Wolf studied the program's first two years in 2016. Children who used a voucher to go to a private school scored lower in math than similar children who did not. The researcher Anna Egalite found that the public schools that stood to lose the most pupils to the program did the same or slightly better.
+
+#### The school buildings close, 2020
+
+State and local officials closed nearly every school building in the country in the spring of 2020 because of COVID-19, an illness caused by a virus. Officials of the World Health Organization had declared it a pandemic on March 11, 2020. On March 17, Governor Laura Kelly of Kansas ordered every school building in her state closed for the rest of the school year, and Kansas was the first state to do that.
+
+Reporters at Education Week, a newspaper about schools, tracked the closures from March 6 to May 15, 2020. By their count, at the peak at least 55.1 million students were shut out of 124,000 public and private school buildings. Nearly every state's officials ordered or advised that schools stay closed until the end of the school year.
+
+Teachers taught over the internet, and not every child had a computer at home. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer. By September 2021, staff at 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
+
+<a id="story-tabatha-rosproy-2020-teaching"></a>
+
+#### Tabatha Rosproy
+
+> **Who:** A preschool teacher named National Teacher of the Year in the spring her classroom was shut by the pandemic.
+>
+> **When and where:** Winfield, Kansas, 2020.
+
+**She put pinwheels in her pupils' yards.**
+
+Tabatha Rosproy kept teaching her preschool class from a distance after the governor of Kansas closed its school buildings in March 2020. In May 2020 she was named National Teacher of the Year, the first early childhood teacher to win the award.
+
+She taught for the Winfield Early Learning Center in Winfield, Kansas. Her classroom was not in a school. It was inside Cumbernauld Village, a retirement community and nursing home in the town, and the program was called Little Vikes. Children with disabilities and children without them were in her class together, and residents of the home joined in with the children every day.
+
+**Teaching from home.** When the Kansas school buildings closed, Rosproy was a co-chair of the state task force of teachers that wrote the guidance for teaching children at home. She recorded her lessons and put them on an app called Seesaw, and once a week she held a video call with each child, one at a time. When a family could not get online, she called them, texted them, or delivered the materials to their home.
+
+For the families of her pupils with disabilities, she prepared materials that showed the parents how to use the methods she used in the classroom. She mailed each child a bin of sensory toys, the part of the classroom they liked best, and she put pinwheels in their yards.
+
+"At first, I was nervous to be named National Teacher of the Year during this pandemic," she told Education Week, "because I wondered if I was able to make a difference." On May 22, 2020, she told the news site Chalkbeat, "Nothing will replace what we are able to do in person. But we are surviving through this and we are looking for the small victories when we have them."
 
 #### Teaching at home: the 2020 jump
 
@@ -34161,7 +34259,7 @@ Gunmen shot and killed children and teachers inside American schools in these ye
 
 Both counts include the people who fired. The statisticians warned that 2021 to 2022 was far above every earlier year, and as of September 2026 it was the newest year the federal count covered.
 
-**A narrower count.** Reporters at Education Week, a newspaper about schools, count only shootings on school grounds, during school or a school event, in which someone other than the shooter was hit. By their count, 7 people were killed in 2025, the fewest since 2020. The two counts use different rules and cannot be joined into one list.
+**A narrower count.** Reporters at Education Week count only shootings on school grounds, during school or a school event, in which someone other than the shooter was hit. By their count, 7 people were killed in 2025, the fewest since 2020. The two counts use different rules and cannot be joined into one list.
 
 **Sandy Hook, 2012.** Adam Lanza, who was 20, shot and killed his mother in her bed at their home in Newtown, Connecticut, on December 14, 2012. Then he went to Sandy Hook Elementary School with a rifle and shot his way into the building, killing the principal and the school psychologist in a hallway. In two first-grade classrooms he killed the two adults in each room, 15 children in one room and 5 in the other, and then he shot himself.
 
@@ -34186,34 +34284,6 @@ A grand jury, a group of citizens who decide whether there is enough proof for a
 A jury found Colin Gray guilty of two counts of second-degree murder on March 3, 2026. Under Georgia law, that crime means causing a death while, through criminal carelessness, causing a child under 18 "cruel or excessive physical or mental pain." It does not require meaning to kill, and it carries 10 to 30 years in prison.
 
 The jury also found him guilty of two counts of involuntary manslaughter, which means causing a death without meaning to, and of reckless conduct and cruelty to children. On July 30, 2026, he was sentenced to 15 years.
-
-#### The school buildings close, 2020
-
-State and local officials closed nearly every school building in the country in the spring of 2020 because of COVID-19, an illness caused by a virus. Officials of the World Health Organization had declared it a pandemic on March 11, 2020. On March 17, Governor Laura Kelly of Kansas ordered every school building in her state closed for the rest of the school year, and Kansas was the first state to do that.
-
-Reporters at Education Week tracked the closures from March 6 to May 15, 2020. By their count, at the peak at least 55.1 million students were shut out of 124,000 public and private school buildings. Nearly every state's officials ordered or advised that schools stay closed until the end of the school year.
-
-Teachers taught over the internet, and not every child had a computer at home. In the spring of 2020, 45 percent of public school principals said their school gave pupils a computer or other device to use at home. In a Census Bureau survey in September 2020, 59 percent of adults with a child in school said the school or district had given the child a computer. By September 2021, staff at 96 percent of public schools said they gave devices such as tablets to pupils who needed them, and 70 percent supplied internet service at home.
-
-<a id="story-tabatha-rosproy-2020-teaching"></a>
-
-#### Tabatha Rosproy
-
-> **Who:** A preschool teacher named National Teacher of the Year in the spring her classroom was shut by the pandemic.
->
-> **When and where:** Winfield, Kansas, 2020.
-
-**She put pinwheels in her pupils' yards.**
-
-Tabatha Rosproy kept teaching her preschool class from a distance after the governor of Kansas closed its school buildings in March 2020. In May 2020 she was named National Teacher of the Year, the first early childhood teacher to win the award.
-
-She taught for the Winfield Early Learning Center in Winfield, Kansas. Her classroom was not in a school. It was inside Cumbernauld Village, a retirement community and nursing home in the town, and the program was called Little Vikes. Children with disabilities and children without them were in her class together, and residents of the home joined in with the children every day.
-
-**Teaching from home.** When the Kansas school buildings closed, Rosproy was a co-chair of the state task force of teachers that wrote the guidance for teaching children at home. She recorded her lessons and put them on an app called Seesaw, and once a week she held a video call with each child, one at a time. When a family could not get online, she called them, texted them, or delivered the materials to their home.
-
-For the families of her pupils with disabilities, she prepared materials that showed the parents how to use the methods she used in the classroom. She mailed each child a bin of sensory toys, the part of the classroom they liked best, and she put pinwheels in their yards.
-
-"At first, I was nervous to be named National Teacher of the Year during this pandemic," she told Education Week, "because I wondered if I was able to make a difference." On May 22, 2020, she told the news site Chalkbeat, "Nothing will replace what we are able to do in person. But we are surviving through this and we are looking for the small victories when we have them."
 
 #### Test scores after 2020
 
@@ -34363,7 +34433,7 @@ This chapter follows the news through ten eras. Watch two things as you go. The 
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 4 minutes**
+**Era 1 of 10 · Before 1500 · about 2 minutes**
 
 News traveled on foot in this land before 1500. Runners carried messages from one nation to another, and nations that spoke different languages talked with their hands. What is known about how they did it comes from two places. One is the accounts that Native nations and Europeans gave later. The other is the old objects that archaeologists, scientists who study the past by digging, have found in the ground.
 
@@ -34441,7 +34511,7 @@ Both men began to learn English from the sailors during the voyage. The ship rea
 
 ### The 1600s
 
-**Era 3 of 10 · The 1600s · about 8 minutes**
+**Era 3 of 10 · The 1600s · about 7 minutes**
 
 The men who governed the English colonies in the 1600s decided who could print news, and they stopped printers they had not approved. Virginia's governor, Thomas Culpeper, and his council, a small group of men who advised him, ordered the printer William Nuthead to stop printing in 1683. Seven years later, in Massachusetts, Governor Simon Bradstreet and his council shut down the first newspaper printed in the English colonies.
 
@@ -34829,7 +34899,7 @@ Lyon was held in the jail at Vergennes. He ran for Congress again from his cell,
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 17 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 16 minutes**
 
 The fight over slavery reached into the print shops and the post office as newspapers spread across the country. The number of American newspapers grew from about 900 in the 1830s to 2,526 in 1850. That year they printed half a billion copies, for a population of about 23 million, or about 22 copies for every person.
 
@@ -34927,12 +34997,6 @@ The men forced the women out, seized Garrison, tied a rope around his waist and 
 
 The mayor stopped them and had Garrison held in the city jail overnight for his own safety. Garrison later wrote that "every mail" brought letters telling him he had "only so many days to live."
 
-#### The penny press, 1833
-
-Benjamin Day, a New York printer, started *The Sun* in 1833, partly to bring more work to his print shop. Most daily papers cost six cents. Day sold *The Sun* for one cent a copy, a penny, so people with little money could buy it every day. Boys sold it on the street. Day printed crime stories, and he hired George Wisner, the first police reporter in the United States, to write short reports from the police office.
-
-**Life on the Moon.** Day printed a made-up report in *The Sun* in 1835 that living creatures had been found on the Moon. Sales rose, and critics attacked Day when readers learned it was false. By 1839 *The Sun* sold 50,000 copies a day. Day paid for the paper mostly by selling advertisements. By 1842 New York City had nine daily papers that cost one or two cents.
-
 <a id="story-elijah-lovejoy"></a>
 
 #### Elijah Lovejoy
@@ -34943,7 +35007,7 @@ Benjamin Day, a New York printer, started *The Sun* in 1833, partly to bring mor
 
 **Men who supported slavery broke four of his presses, then shot him.**
 
-Elijah Lovejoy wrote against slavery, as Garrison did, but in a state where slavery was legal. He became the editor of the *St. Louis Observer*, a Presbyterian weekly paper in St. Louis, Missouri, in 1833. A group of leading men in St. Louis signed a letter in 1835 asking him to tone down what he wrote. He refused.
+Elijah Lovejoy wrote against slavery in a state where slavery was legal. He became the editor of the *St. Louis Observer*, a Presbyterian weekly paper in St. Louis, Missouri, in 1833. A group of leading men in St. Louis signed a letter in 1835 asking him to tone down what he wrote. He refused.
 
 **Francis McIntosh.** A white mob in St. Louis chained Francis McIntosh, a free Black steamboat worker, to a tree and burned him alive on April 28, 1836. Judge Luke Lawless refused to convict anyone and blamed abolitionists. Lovejoy attacked the judge in the *Observer*. In May 1836 men in St. Louis threatened him with mob violence and ran him out of town.
 
@@ -34956,6 +35020,12 @@ He moved his paper across the Mississippi River to Alton, in the free state of I
 Prosecutors then tried men from the mob, on January 19, 1838, for breaking into the warehouse and destroying the press. This time Linder was the lawyer for the mob. The jury found the men not guilty.
 
 **The men from the mob who were tried:** Frederick Drucher, William Carr, James M. Hock, David Butler, Horace Beall, Levi Palmer, and two men named Nutter and Jennings.
+
+#### The penny press, 1833
+
+Benjamin Day, a New York printer, started *The Sun* in 1833, partly to bring more work to his print shop. Most daily papers cost six cents. Day sold *The Sun* for one cent a copy, a penny, so people with little money could buy it every day. Boys sold it on the street. Day printed crime stories, and he hired George Wisner, the first police reporter in the United States, to write short reports from the police office.
+
+**Life on the Moon.** Day printed a made-up report in *The Sun* in 1835 that living creatures had been found on the Moon. Sales rose, and critics attacked Day when readers learned it was false. By 1839 *The Sun* sold 50,000 copies a day. Day paid for the paper mostly by selling advertisements. By 1842 New York City had nine daily papers that cost one or two cents.
 
 #### The telegraph, 1844, and who owned it
 
@@ -35186,7 +35256,7 @@ By late afternoon Waddell and his allies had forced the elected mayor and city c
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 17 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 16 minutes**
 
 Radio carried the news into American homes as it happened, and in two world wars federal officials worked to control what Americans printed and heard. Magazine reporters investigated companies and city governments from 1902 on and printed long reports about what they found. During World War I, federal officials ran the government's first large propaganda office. They also barred dozens of newspapers from the mail and filed more than 2,000 criminal cases against people for what they said or printed.
 
@@ -35360,7 +35430,7 @@ Philo Farnsworth, who was 21, sent the first picture by all-electronic televisio
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
 Television became the way most Americans got the news. About 9 of every 100 American homes had a television set in 1950, and by 1960, 87 of every 100 did. After the DuMont network closed in 1955, three national television networks were left: NBC, CBS and ABC.
 
@@ -35514,21 +35584,19 @@ The last two worked for the same magazine in Virginia, *Van Nghe Tien Phong*. A 
 
 FBI agents suspected a group led by former South Vietnamese military officers, but they never found enough evidence to charge anyone. No one was ever arrested or charged.
 
-#### Public broadcasting, the fairness rule, cable news and talk radio, 1967 to 1996
+#### The fairness rule and talk radio, 1949 to 1988
 
-Lawmakers, federal officials and owners changed who paid for the news on radio and television, and what it had to include, between 1967 and 1996.
-
-Members of Congress set up the Corporation for Public Broadcasting in the Public Broadcasting Act of 1967, to hand out federal money to public television and radio stations. People at the corporation started PBS in 1969 and NPR, National Public Radio, in 1970.
-
-Ted Turner's company started CNN, the first television channel to show news 24 hours a day, on June 1, 1980. It reached viewers through cable, wires that carried many channels into homes.
-
-**The fairness doctrine.** The members of the Federal Communications Commission required stations from 1949 on to follow a rule called the fairness doctrine. Station owners had to cover important public questions fairly and air more than one side, and people attacked on the air had to get a chance to answer. The justices of the Supreme Court upheld the rule in 1969.
+The members of the Federal Communications Commission required stations from 1949 on to follow a rule called the fairness doctrine. Station owners had to cover important public questions fairly and air more than one side, and people attacked on the air had to get a chance to answer. The justices of the Supreme Court upheld the rule in 1969.
 
 Members of Congress passed a bill in June 1987 to make the rule a law. President Ronald Reagan vetoed the bill, refusing to sign it. He wrote that the rule "requires Federal officials to supervise the editorial practices of broadcasters." That year the commissioners, led by their chairman, Dennis Patrick, voted 4 to 0 to end the rule.
 
 **Talk radio.** Rush Limbaugh began a national radio talk show in 1988 on which he gave his conservative political opinions, views that favor keeping old ways and limiting government. Within five years an estimated 20 million people listened each week. His show began the year after the fairness doctrine ended. Whether the end of the rule helped talk shows like his grow is argued and not settled.
 
-Rupert Murdoch's company started the Fox News Channel on October 7, 1996. Roger Ailes, a television producer and former Republican political adviser, ran it.
+#### Public broadcasting and cable news, 1967 to 1996
+
+Members of Congress set up the Corporation for Public Broadcasting in the Public Broadcasting Act of 1967, to hand out federal money to public television and radio stations. People at the corporation started PBS in 1969 and NPR, National Public Radio, in 1970.
+
+Ted Turner's company started CNN, the first television channel to show news 24 hours a day, on June 1, 1980. It reached viewers through cable, wires that carried many channels into homes. Rupert Murdoch's company started the Fox News Channel on October 7, 1996. Roger Ailes, a television producer and former Republican political adviser, ran it.
 
 #### The internet, 1969 to 1996
 
@@ -35548,7 +35616,7 @@ President Bill Clinton signed the Telecommunications Act in February 1996. Under
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to today · about 14 minutes**
+**Era 10 of 10 · 2000 to today · about 13 minutes**
 
 Since 2000 the news has moved from paper to phones and feeds, and the men who own the biggest sites have changed what those feeds show. In a 2025 survey by the Pew Research Center, 86 of every 100 American adults said they got news at least sometimes from a phone, computer or tablet, and 64 of every 100 from television. Newspapers lost most of their advertising money. Researchers at Northwestern University counted close to 3,500 newspapers that closed between 2005 and 2025.
 
@@ -35776,12 +35844,6 @@ Carvers of the Hopewell culture made smoking pipes of stone in the shapes of ani
 
 At Spiro, in eastern Oklahoma, people built twelve mounds between 850 and 1450, along with grounds for ceremonies and a town. One of the mounds, Craig Mound, held objects of stone, copper, shell, basketry and cloth.
 
-#### Carving on the Northwest Coast
-
-On the Northwest Coast, people carved bone, stone and horn at least 5,000 years ago. The oldest Coast Salish basketry comes from an old fishing camp on the Hoko River, on the Olympic Peninsula. It is about 2,500 years old.
-
-Most carving on the coast was done in cedar wood. Wood rots, so very little of it survives from before 1500. One piece that may be that old is a hat woven from twisted strands of cedar bark, found at the mouth of Wapato Creek. It dates from between 1450 and 1620. Carvers on the coast still work in this tradition today.
-
 #### Who dug the objects up, and where did they go?
 
 Two men named Ephraim Squier and Edwin Davis dug into the Mound City mounds, near Chillicothe, Ohio, in 1846 and took more than 200 stone pipes. Long before they came, the pipes had been broken and laid together under the floor of a building used for ceremonies.
@@ -35808,6 +35870,12 @@ Then University of Oklahoma archaeologists led workers paid by a government jobs
 
 **Mimbres.** In the Mimbres valley, looters dug up graves to reach the painted bowls. In the 1960s they began using bulldozers and earth movers to get to the bowls faster, and they wiped out many village sites completely. Every Mimbres site has been looted. The records do not name the people who ran the bulldozers.
 
+#### Carving on the Northwest Coast
+
+On the Northwest Coast, people carved bone, stone and horn at least 5,000 years ago. The oldest Coast Salish basketry comes from an old fishing camp on the Hoko River, on the Olympic Peninsula. It is about 2,500 years old.
+
+Most carving on the coast was done in cedar wood. Wood rots, so very little of it survives from before 1500. One piece that may be that old is a hat woven from twisted strands of cedar bark, found at the mouth of Wapato Creek. It dates from between 1450 and 1620. Carvers on the coast still work in this tradition today.
+
 <a id="story-nathan-jackson-art"></a>
 
 #### Nathan Jackson
@@ -35818,7 +35886,7 @@ Then University of Oklahoma archaeologists led workers paid by a government jobs
 
 **At 86, he carved an eight-foot pole about Raven and Fog Woman.**
 
-Carving on the Northwest Coast did not stop in 1500, and Nathan Jackson carves in that tradition today. He is Chilkoot Tlingit. Every Tlingit person belongs to one of two halves, Raven or Eagle, and each half is made up of clans, large groups of related families. Jackson's clan, the Sockeye Clan, is on the Raven side.
+Nathan Jackson is Chilkoot Tlingit. Every Tlingit person belongs to one of two halves, Raven or Eagle, and each half is made up of clans, large groups of related families. Jackson's clan, the Sockeye Clan, is on the Raven side.
 
 He carves totem poles, masks, canoes, carved doors and panels that show clan crests, the animal symbols that belong to a clan. He also works metal and dances. He learned his people's traditions from Jack David, his clan uncle and grandfather.
 
@@ -36212,12 +36280,6 @@ His first painting trip was a month in Wilbraham, Massachusetts, in 1836. He lat
 
 His journal lists more than 900 paintings and what he was paid for them. About a hundred of those paintings are known today. He died of tuberculosis, a disease of the lungs, in 1855, at forty. The Springfield Museums hold his journal.
 
-#### Writers
-
-Some writers of these years turned to the American land and to nature, as the painters did. Washington Irving set his 1819 story "Rip Van Winkle" in the Catskill Mountains of New York, the same mountains the Hudson River School painted a few years later. Ralph Waldo Emerson's long essay *Nature* appeared in 1836.
-
-James Fenimore Cooper's novel *The Last of the Mohicans* came out in Philadelphia on February 4, 1826. The Mohican people named in its title were living in New York and Wisconsin that year.
-
 #### The Hudson River School, and whose land it painted
 
 The Hudson River School was a group of American landscape painters who worked from about 1825 to 1870. They painted American land in careful, true-to-life detail, often with quiet farms next to the last of the wild forest. Many of them believed that God could be seen in the American landscape. Thomas Cole, Thomas Doughty and Asher B. Durand were the first leaders, and many of the group painted the Catskill Mountains, west of the Hudson River.
@@ -36258,6 +36320,12 @@ That same year he finished *The Course of Empire*, a set of five paintings. The 
 
 Cole died in Catskill on February 11, 1848. Durand painted a picture called *Kindred Spirits* in his memory. Cole's house and studio in Catskill are now the Thomas Cole National Historic Site.
 
+#### Writers
+
+Some writers of these years turned to the American land and to nature, as the painters did. Washington Irving set his 1819 story "Rip Van Winkle" in the Catskill Mountains of New York, the same mountains the Hudson River School painted a few years later. Ralph Waldo Emerson's long essay *Nature* appeared in 1836.
+
+James Fenimore Cooper's novel *The Last of the Mohicans* came out in Philadelphia on February 4, 1826. The Mohican people named in its title were living in New York and Wisconsin that year.
+
 **By 1840:** Painters were selling views of the Catskills in New York City, and federal officials and soldiers had forced the Mohican, the Munsee and the Cherokee out of their homelands.
 
 #### George Catlin and the people he painted
@@ -36274,7 +36342,7 @@ Catlin sometimes got objects from the people he painted, as proof that his pictu
 
 **Smallpox.** Five years after Catlin painted the Mandan, smallpox killed almost all of them, Four Bears among them. Smallpox was a disease caused by a virus. It spread when people were close together, face to face. It caused a fever and a rash that turned into scabs, and about 3 of every 10 people who caught it died.
 
-President Jackson signed the Indian Vaccination Act on May 5, 1832, a law to give Native people vaccinations, shots that protect a person from smallpox. Secretary of War Lewis Cass ran the program through federal Indian agents. The Mandan, the Hidatsa and the Arikara of the upper Missouri were kept out of it. The records do not name the officials who left them out.
+President Jackson signed the Indian Vaccination Act on May 5, 1832, a law to give Native people vaccinations. To vaccinate a person, a doctor scratched fluid from a sore of cowpox, a mild disease of cows, into the skin, and it protected the person against smallpox. Secretary of War Lewis Cass ran the program through federal Indian agents. He left the Mandan, the Hidatsa and the Arikara of the upper Missouri out of it.
 
 The American Fur Company's steamboat *St. Peters* reached Fort Clark, next to the Mandan villages, on June 18, 1837. The fort's trader, Francis Chardon, learned from the captain, Bernard Pratte Jr., that people on board had smallpox. The crew unloaded goods and loaded furs in less than a day, and the boat went on up the river. It had brought smallpox to the Mandan villages. About 2,000 Mandan lived there that spring. By October, 138 were alive.
 
@@ -37376,7 +37444,7 @@ Again and again the money and the credit went to someone else: a white stage per
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 4 minutes**
 
 Native nations in this land made music for nearly every part of life, and they passed their songs on by teaching them. Their songs were for ceremonies, healing, work, games, courting a sweetheart, storytelling, hunting, farming, war and social dances. None of the nations north of Mexico had a way of writing tunes down, so no singer's name and no song's name from these centuries survives in writing.
 
@@ -37514,7 +37582,7 @@ Enslaved Africans made music in the English colonies through the 1600s, but no o
 
 ### 1700 to 1750
 
-**Era 4 of 10 · 1700 to 1750 · about 9 minutes**
+**Era 4 of 10 · 1700 to 1750 · about 8 minutes**
 
 Two fights over music ran through these fifty years. In New England, church members argued about singing from written notes, and in South Carolina, lawmakers took drums away from enslaved people. New England ministers began teaching their congregations to read notes around 1720. They started singing schools and printed the first books of music lessons in the colonies.
 
@@ -37832,7 +37900,7 @@ The Hutchinson Family Singers were brothers from Milford, New Hampshire: John, A
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 19 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 18 minutes**
 
 The songs of slavery reached print and the concert stage after the Civil War. Black singers carried them to audiences in America and Europe, while the officer who ran a boarding school for Native children set out to silence the children's drums. Three white Northerners printed the first book of spirituals, the religious songs that enslaved Black people had made, in 1867. Students at Fisk University, a school for freed Black people, sang those songs on tour to keep their school open.
 
@@ -38016,7 +38084,7 @@ In 1900: *Slave Songs of the United States* was in print, the Fisk Jubilee Singe
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 29 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 27 minutes**
 
 Record companies began to record and sell the blues, jazz and country music in these years, and the companies and the men who held the copyrights kept much of the money. Black musicians in the South made the blues and jazz. Country music came from Southern singers and players, white ones like the Carter Family and Black ones like DeFord Bailey and Lesley Riddle. Bessie Smith's first record sold 780,000 copies, and Columbia paid her a set fee and no share of the sales.
 
@@ -38192,7 +38260,7 @@ Years before, Lead Belly had been convicted in Texas of killing a relative, Will
 
 **"Goodnight, Irene."** John Lomax then managed Lead Belly and took a share of his pay. The two men split over money in 1935. Lomax published a book in 1936 that printed Lead Belly's song "Goodnight, Irene" with both men named as its writers. Lomax had recorded the song. He had not written it. A group called the Weavers sold 2 million copies of "Goodnight, Irene" in 1950, the year after Lead Belly died.
 
-#### Native songs, Hawaiian guitar and a new songwriter
+#### The Carlisle band and Native songs on wax
 
 The band of the Carlisle Indian School, a boarding school for Native children in Pennsylvania, played the "Aboriginal Suite" at Carnegie Hall in New York on March 28, 1900. Its composer and conductor was Dennison Wheelock, an Oneida graduate of the school. Richard Henry Pratt had made him the Carlisle bandmaster in 1892, the first Native bandmaster there. Wheelock later became a lawyer and argued cases for Native nations before the Supreme Court.
 
@@ -38200,11 +38268,15 @@ The band of the Carlisle Indian School, a boarding school for Native children in
 
 One collector, Francis La Flesche, took singers from Oklahoma to Washington, D.C., so that neighbors who objected could not stop him from recording ceremonial songs. No record shows that the singers were paid. Frances Densmore recorded the songs of the Ojibwe, Sioux, Mandan, Hidatsa, Tohono O'odham, Seminole and other nations for the Smithsonian Institution from 1907.
 
-**The steel guitar.** Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played his steel guitar in theaters across the mainland United States.
+#### The Hawaiian steel guitar
+
+Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played his steel guitar in theaters across the mainland United States.
 
 By then Hawaii belonged to the United States. A group of mostly American businessmen had overthrown Hawaii's queen, Liliʻuokalani, in 1893. Before they moved, John L. Stevens, the top US official in Hawaii, had 162 American sailors and Marines brought ashore. Native Hawaiians put 21,269 signatures on petitions, written requests to the government, against joining the United States in 1897. Members of Congress voted to annex Hawaii anyway in 1898, making it part of the United States.
 
-**A new songwriter.** Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key, and he wrote "Alexander's Ragtime Band" in 1911. Through his own publishing company he owned his own songs. He gave all the money from "God Bless America," which Kate Smith first sang in 1938, to the Boy Scouts and Girl Scouts.
+#### Irving Berlin, who owned his songs
+
+Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key, and he wrote "Alexander's Ragtime Band" in 1911. Through his own publishing company he owned his own songs. He gave all the money from "God Bless America," which Kate Smith first sang in 1938, to the Boy Scouts and Girl Scouts.
 
 **By 1939:** Anyone with a radio could hear music at home for free, and record sales were still below their 1921 peak. That year one hour of the Grand Ole Opry began going out across the country on NBC.
 
@@ -38304,7 +38376,7 @@ As a young woman, Marian Anderson applied to a music school in Philadelphia. The
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 22 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 20 minutes**
 
 Black musicians made rock and roll, soul and hip-hop. White singers then sold more copies of some of those songs than the Black singers who recorded them first. Record company owners, managers and publishers kept much of the money from songs such as "Hound Dog" and "That's All Right."
 
@@ -38494,7 +38566,9 @@ Thirty-two acts played at the Woodstock music festival, on Max Yasgur's dairy fa
 
 Leaders of the RIAA, the record companies' own group, agreed on November 1, 1985, to put warning labels on some albums. Record companies began putting a standard "Parental Advisory" sticker on albums in 1990. Managers at Walmart and some other stores would not sell albums with the sticker.
 
-**The 1978 act.** Many Native songs belong to religious ceremonies. Until 1978, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883. That year members of Congress passed the American Indian Religious Freedom Act. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things.
+#### Native ceremonies and a 1978 law
+
+Many Native songs belong to religious ceremonies. Until 1978, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883. In 1978 members of Congress passed the American Indian Religious Freedom Act. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things.
 
 <a id="story-selena-quintanilla"></a>
 
@@ -38526,7 +38600,7 @@ Between 30,000 and 40,000 people came to see Selena's coffin. Her album *Dreamin
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 25 minutes**
+**Era 10 of 10 · 2000 to Today · about 22 minutes**
 
 Most Americans now stream their music, playing songs over the internet without buying copies, and a streaming service pays the owner of each recording a fraction of a cent a play. By 2025, 82 cents of every dollar that American record companies took in came from streaming.
 
@@ -38800,7 +38874,7 @@ Watch who is allowed to act. Priests burned Pueblo masks, lawmakers banned plays
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 7 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 In the Native nations here before 1500, acting was part of religion. A dancer in a mask took on the part of a spirit or an animal, in ceremonies and to ask the animals to give themselves to hunters. Among the Pueblo peoples, men carved dolls of these spirits so that girls would learn who each one was.
 
@@ -38846,7 +38920,7 @@ No person from before 1500 in this land who acted, danced or told stories is nam
 
 ### The 1500s
 
-**Era 2 of 10 · The 1500s · about 7 minutes**
+**Era 2 of 10 · The 1500s · about 6 minutes**
 
 The first European play on record in what is now the United States was acted on the day a Spanish leader claimed the land for his king, and his men made Native people act in it. Spanish soldiers and priests put it on beside the Rio Grande on April 30, 1598. They made Manso people, who lived near their camp, take part.
 
@@ -39162,7 +39236,7 @@ The Massachusetts law of 1750 still banned plays. In 1791 a group of men who wan
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 15 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 14 minutes**
 
 White audiences paid to watch white actors play Black people as fools, while Black actors who played Shakespeare were attacked and arrested. The first known Black theatre company in the United States opened in New York in 1821, and police arrested its actors in the middle of a play. In 1824 a young actor from the company, Ira Aldridge, left for England. In the United States he faced discrimination, which means he was treated worse because he was Black.
 
@@ -39318,7 +39392,7 @@ Forrest beat the writer Nathaniel Parker Willis with a whip in Washington Square
 
 ### 1850 to 1900
 
-**Era 7 of 10 · 1850 to 1900 · about 16 minutes**
+**Era 7 of 10 · 1850 to 1900 · about 15 minutes**
 
 The biggest touring shows after 1850 told the stories of Black and Native people, and white showmen decided how. From 1852 until well after 1900, white actors in blackface toured the country playing the enslaved people in stage versions of *Uncle Tom's Cabin*, a novel written against slavery. Buffalo Bill's Wild West opened in 1883, and Native performers in it acted out attacks on settlers. Black minstrels such as Billy Kersands worked in the same burnt-cork makeup that white minstrels wore.
 
@@ -39468,7 +39542,7 @@ That same month, the actors May Irwin and John Rice made a film of a stage kiss.
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
 
 Acting moved onto film and into radio in these fifty years, and the people in charge kept the parts of the old minstrel stage, where white men had blacked their faces to mock Black people. Americans in 1903 saw films mostly in vaudeville theatres, which put on shows made of many short live acts. From 1905 small theatres charged five cents to see short films, and by 1908 there were about 8,000 of them.
 
@@ -39710,7 +39784,7 @@ Twenty years later, on June 8, 1948, the NBC network began broadcasting a comedy
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 The fight over who could act turned political after 1947. Members of a House committee questioned film workers about communism, a system in which one party runs the government and the government owns the farms and factories. Studio executives announced that they would not knowingly hire any Communist. Hundreds of writers, directors and actors lost work, some for more than ten years.
 
@@ -39894,7 +39968,7 @@ The physicist William Higinbotham built *Tennis for Two* in 1958 for a public ex
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 26 minutes**
+**Era 10 of 10 · 2000 to Today · about 23 minutes**
 
 The newest fight over acting is over computer copies of actors' faces, bodies and voices. Since 2000, actors have performed in suits covered with markers while computer artists turned their movements into creatures and game characters, and game makers now hire actors to perform whole stories. In 2023 film and television actors and writers went on strike together for the first time since 1960.
 
@@ -40176,7 +40250,7 @@ This chapter follows what Americans wore, and what it was made from, through all
 
 ### Before 1500
 
-**Era 1 of 10 · Before 1500 · about 7 minutes**
+**Era 1 of 10 · Before 1500 · about 5 minutes**
 
 The people of North America before 1500 dressed in what they could grow, hunt or get by trade. They wore deer hide, rabbit fur and turkey feathers, and cloth woven from cotton and from the fiber of the yucca, a desert plant. Their ornaments were sea shells from the Gulf of Mexico and copper from the country around Lake Superior. Their colors came from plants and from a mineral called red ochre.
 
@@ -40422,7 +40496,7 @@ South Carolina's indigo was shipped to England for British cloth makers. South C
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 8 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
 Colonists who opposed British taxes turned their clothes into a protest. From the Stamp Act tax of 1765 until the Revolution, they agreed again and again to boycott, or refuse to buy, British goods, including cloth. Delegates at the First Continental Congress, a meeting of leaders from the colonies, voted in 1774 to ban British goods in every colony from December 1.
 
@@ -40992,7 +41066,7 @@ Later she became a US citizen, learned English and was reunited with her childre
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 14 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
 Today almost all the clothes sold in the United States are sewn in other countries, and Americans throw away far more cloth than they did in 2000. They threw away 17 million tons of cloth in 2018, most of it clothing, by the count of the US Environmental Protection Agency. That was almost twice the 9.5 million tons they threw away in 2000.
 
@@ -41176,7 +41250,7 @@ The game began about the year 600, in the area around present-day St. Louis. Peo
 
 Timothy Pauketat, an archaeologist at the University of Illinois, thinks messengers from Cahokia carried a chunkey stone in one hand and a war club in the other. In his account, they went out to the lands around the city to make peace or to make agreements with other peoples. He also writes that chunkey played a large part in how Cahokia's people lived together and how they were governed.
 
-Chunkey stones from about 1300 have turned up as far away as Georgia, and in Maryland at sites in Frederick and Montgomery counties. Staff at the Jefferson Patterson Park and Museum in Maryland say Cahokia declined around 1500, and that people went on playing chunkey across North America after that.
+Chunkey stones from about 1300 have turned up as far away as Georgia, and in Maryland at sites in Frederick and Montgomery counties. Most of Cahokia's people had left the city by about 1350, and it was empty by about 1400. Staff at the Jefferson Patterson Park and Museum in Maryland say that people across North America went on playing chunkey after that.
 
 #### Ball games with sticks
 
@@ -41232,7 +41306,7 @@ Spanish friars, Catholic religious men who lived by strict rules, began building
 
 ### The 1600s
 
-**Era 3 of 10 · The 1600s · about 11 minutes**
+**Era 3 of 10 · The 1600s · about 10 minutes**
 
 The men who governed the English and Dutch colonies in the 1600s wrote laws about when and where people could play. In Massachusetts and Plymouth, lawmakers and judges fined people for cards, dice and tavern games. In New Netherland, the Dutch director banned ball games, cards and bowling on Sunday before, between and during church services. Virginia planters, men who owned big farms, raced horses for thousands of pounds of tobacco, and one county court punished a tailor for racing, saying racing was "a sport only for Gentlemen."
 
@@ -41776,7 +41850,7 @@ In 1900: paid baseball teams played in leagues closed to Black players, Isaac Mu
 
 ### 1900 to 1950
 
-**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 22 minutes**
 
 Clubs, troops and leagues run by adults filled more and more of children's free time in the first half of the 1900s. Adults set up 4-H clubs in 1902, the Boy Scouts in 1910, the Girl Scouts in 1912 and Little League baseball in 1939. Children also spent many free hours watching and listening, at Saturday movies, beside the radio and over comic books. In Muncie, Indiana, in the 1930s, at least half of the children at Saturday movies stayed five or six hours.
 
@@ -42026,7 +42100,7 @@ Robinson was named the first Rookie of the Year, the best first-year player, in 
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 18 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
 Girls and Black children pushed their way into games that had kept them out in the second half of the 1900s, while more of children's afternoons went to lessons and organized sports. Fewer children walked or biked to school. Diaries of how children spent their days in 1981 and 1997 showed more time in organized sports and lessons, and less time in free play and watching television. Children could play video games for a quarter in arcades from 1972, and on game machines at home from 1975.
 
@@ -42694,7 +42768,7 @@ In Connecticut the Black election came the day after the white men's election, a
 
 ### 1750 to 1800
 
-**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
 
 Americans held the first planned Fourth of July celebrations on July 4, 1777, the first anniversary of independence. Within a few years they also celebrated George Washington's birthday. Neither day was a national holiday yet. The Continental Congress was the meeting of men sent by each state to lead the Revolution. Its members asked Americans to keep days of thanksgiving on dates they chose. Later President Washington did the same. None of them set a yearly date.
 
@@ -42796,7 +42870,7 @@ Anderson was enslaved by Philip Skene, who had been a major in the British army.
 
 ### 1800 to 1850
 
-**Era 6 of 10 · 1800 to 1850 · about 10 minutes**
+**Era 6 of 10 · 1800 to 1850 · about 9 minutes**
 
 Wealthier families and newspaper editors in American towns worked, in the first half of the 1800s, to turn Christmas from a noisy street holiday into a day for families and children. In a poem printed in 1823, St. Nicholas comes down the chimney to fill the children's stockings. Thanksgiving was still mostly a New England day. Sarah Josepha Hale, a magazine editor, began asking governors and presidents to make it one day for the whole country.
 
@@ -43114,7 +43188,7 @@ Federal workers, the people who work for the national government, did not get th
 
 ### 1950 to 2000
 
-**Era 9 of 10 · 1950 to 2000 · about 16 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 After 1950, Americans argued over whose days the country should mark. In 1968 the members of Congress moved three holidays to Mondays, so that workers got more three-day weekends, and made Columbus Day a federal holiday, a paid day off for the national government's workers. Maulana Karenga and his group, called Us, started Kwanzaa in 1966. Students and marchers in the civil rights movement brought Juneteenth back.
 
@@ -43262,7 +43336,7 @@ In 2000: King's day was a federal holiday and every state had named a day for hi
 
 ### 2000 to Today
 
-**Era 10 of 10 · 2000 to Today · about 8 minutes**
+**Era 10 of 10 · 2000 to Today · about 7 minutes**
 
 Since 2000 the members of Congress have added one federal holiday, Juneteenth, in 2021. Lawmakers in Virginia and Arkansas stopped joining King's day to days for Confederate generals. Alabama and Mississippi still honor Robert E. Lee on the same Monday as King.
 
@@ -44348,7 +44422,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 - **coverture**: the old English rule that a married woman was "covered" by her husband and had no legal standing of her own (Chapter 25)
 - **COVID-19**: an illness caused by a coronavirus that spreads in the droplets and tiny particles an infected person breathes out (Chapter 14)
 - **cowpeas**: a kind of bean (Chapter 15)
-- **cowpox**: a mild disease of cows (Chapter 26)
+- **cowpox**: a mild disease of cows (Chapter 24)
 - **co-writer**: a person named as one of a song's writers, with a right to part of the money the song earns its writers (Chapter 33)
 - **cowskin**: a whip made of dried, twisted cow's hide, also called the cowhide (Chapter 24)
 - **crack**: a form of cocaine that is smoked (Chapter 21)
@@ -47038,7 +47112,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 - **standards**: lists of what students should learn (Chapter 20)
 - **starboard**: a ship's right side (Chapter 27)
 - **Starvation Winter**: the winter of 1883 and 1884, when about 600 Blackfeet died of starvation. Hide hunters had killed nearly all the bison, and members of Congress had cut the money for the food promised to the tribe in a treaty (Chapter 3)
-- **Starving Time**: the winter of 1609 to 1610 at Jamestown, when about 500 colonists fell to about 61 (Chapter 15)
+- **Starving Time**: the winter of 1609 to 1610 at Jamestown, when about 60 of the 240 people in the fort lived to spring, out of about 500 in the colony (Chapter 15)
 - **state assembly**: one of the two groups of lawmakers in New York State (Chapter 20)
 - **state constitution**: the state's basic set of laws (Chapter 10)
 - **state geologist**: a scientist the state paid to study its rocks (Chapter 13)
@@ -47451,7 +47525,7 @@ Every hard word the chapters explain, from A to Z, with the chapter where it fir
 ## V
 
 - **vacate**: to cancel a conviction (Chapter 20)
-- **vaccination**: scratching fluid from a cowpox sore into the skin to protect a person against smallpox (Chapter 26)
+- **vaccination**: scratching fluid from a cowpox sore into the skin to protect a person against smallpox (Chapter 24)
 - **vaccine**: a medicine that trains the body to fight off a germ before the germ can make a person sick (Chapter 9)
 - **vacuum**: a space with no air in it, like outer space (Chapter 8)
 - **vacuum tube**: a glass tube with the air taken out, like a light bulb (Chapter 8)
@@ -48810,7 +48884,7 @@ Museums, sites and archives the chapters name, grouped by state so you can find 
 - **Catoctin Furnace**: the iron furnace the Johnson brothers built, where at least 271 enslaved African Americans worked, and the cemetery of its African American workers, with burials going back to 1774 (Chapter 13)
 - **Clara Barton National Historic Site, Glen Echo**: Clara Barton's house, built partly from the lumber of the Red Cross buildings at Johnstown (Chapter 27)
 - **Fort McHenry, Baltimore**: the fort the British shelled for 25 hours in 1814 (Chapter 22)
-- **Jefferson Patterson Park and Museum**: its staff say people went on playing chunkey across North America after Cahokia declined around 1500 (Chapter 36)
+- **Jefferson Patterson Park and Museum**: its staff say people went on playing chunkey across North America after Cahokia emptied (Chapter 36)
 - **Maryland Center for History and Culture, Baltimore**: Kühn's portrait of Henry Darnall III with the enslaved boy in a collar (Chapter 32)
 - **Most Holy Redeemer Cemetery, Baltimore**: Henry Gunther's grave (Chapter 22)
 - **Mount Clare Museum House, Baltimore**: the museum whose staff record the history of the Baltimore Iron Works and the enslaved people who worked there (Chapter 13)
