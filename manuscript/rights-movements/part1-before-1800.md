@@ -14,9 +14,9 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 25 of 37 · Rights and Movements · 10 eras · about 275 minutes**
+**Chapter 25 of 37 · Rights and Movements · 10 eras · about 280 minutes**
 
-**Most of the rights Americans have today were won by people who were first refused them, who organized and kept asking for years, often at the cost of their jobs, their freedom or their lives, and some of those rights were later taken away again.**
+**Most of the rights Americans have today were won by people who were first refused them and kept asking for years. Organizing often cost them their jobs, their freedom or their lives. Some of those rights were later taken away again.**
 
 Four men at Germantown, in Pennsylvania, signed a paper against owning enslaved people on April 18, 1688, and sent it to their Quaker church. The members of four church meetings read it, one after another, and passed it on without doing anything. Then the Quakers forgot it. People working to end slavery found it again in 1844, and it went missing a second time. In March 2005 it turned up in a vault in a Philadelphia meetinghouse. Haverford College, in Pennsylvania, keeps it now.
 
@@ -27,7 +27,7 @@ This chapter follows people who were told no: women, Black Americans, Native nat
 - What did organizing cost the people who did it?
 - Can a right that has been won be taken away again?
 
-**Five minutes?** Read "Sit-ins and Freedom Rides, 1960 and 1961" in 1950 to 2000.
+**Five minutes?** Read "Selma and the Voting Rights Act, 1965" in 1950 to 2000.
 **Can skip:** "Two men climb the Gateway Arch, 1964", "Suffragists remember the clan mothers, 1891 and 1893", "Equal pay for the women's soccer team, 2016 to 2022". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -88,11 +88,11 @@ King Charles I of Spain ended the encomienda in 1542 with a set of rules called 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bartolomé de Las Casas" -->
-Las Casas watched Spanish soldiers kill a whole town in Cuba, and he spent the rest of his life arguing for Native people. At first he also asked for enslaved Africans to take their place.
+Las Casas was a priest with the Spanish soldiers who killed the Taíno gathered in a Cuban town in 1513. He spent the rest of his life arguing for Native people. At first he also asked for enslaved Africans to take their place.
 
 He went to Cuba in 1513 as a chaplain, a priest who travels with soldiers, with the Spanish forces who were taking the island from the Taíno. At the town of Caonao, the Taíno had made cassava bread and fish for the soldiers under Captain Narváez. About two thousand people sat in the town square, and more than five hundred were in a large house nearby.
 
-In his *History of the Indies*, Las Casas wrote what happened next. One Spaniard drew his sword, and then the whole hundred soldiers drew theirs. They began "to rip open the bellies, to cut and kill" the men, women, children and old people, who were all sitting down. They went into the large house and killed the people there too. Some escaped by climbing to the top of the house. Las Casas had stepped away to another part of the town shortly before.
+In his *History of the Indies*, Las Casas wrote what happened next. One Spaniard drew his sword, and then the whole hundred soldiers drew theirs. They began "to rip open the bellies, to cut and kill" the men, women, children and old people, who were all sitting down. They went into the large house and killed the people there too. Some escaped by climbing to the top of the house. Las Casas was in the town, but he had stepped away to another square shortly before the killing began.
 
 **Giving up his grant.** For serving with the soldiers, Las Casas received land and an encomienda. In 1514 he told the people of his church that the whole encomienda system was wrong. He freed the Native people he held and began arguing for them to the Spanish officials on the island.
 
@@ -153,9 +153,9 @@ The trial record states the sentence: "Mrs. Hutchinson, the sentence of the cour
 
 That spring the family moved to Aquidneck Island, in what became Rhode Island, on land the minister Roger Williams helped them buy from the Narragansett. One of the first written rules of their new town, Portsmouth, said no person should be punished or "called into question on matter of religion ... so long as he keeps the peace."
 
-**Her death.** After her husband died, she moved in 1642 to Dutch-held land on Long Island Sound, the country of the Siwanoy, a Native people. The Dutch governor, Willem Kieft, had started a war with the Native people there.
+**Her death.** After her husband died, she moved in 1642 to Dutch-held land on Long Island Sound, the country of the Siwanoy, a Native people. The next winter the Dutch governor, Willem Kieft, and his council approved attacks by Dutch soldiers and armed settlers on the Native people of the region. On the night of February 25, 1643, those men murdered at least eighty Munsee people, and perhaps as many as 120.
 
-Armed Dutch settlers at Corlaer's Hook, on Manhattan, and Dutch soldiers at Pavonia, across the Hudson River, murdered at least eighty Munsee people, and perhaps as many as 120, on the night of February 25, 1643. Kieft and his council had approved both attacks. In August or September 1643, Siwanoy warriors killed Anne Hutchinson, her servants and all but one of the children who were with her. One daughter survived.
+The war that followed lasted until 1645. In August or September 1643, during that war, Siwanoy warriors killed Anne Hutchinson, her servants and all but one of the children who were with her. One daughter survived.
 <!-- hb-story:end slug="anne-hutchinson-rights-movements" -->
 
 <!-- hb-zoom level="span" label="Massachusetts leaders outlaw Quakers, then hang four of them" -->
@@ -195,7 +195,7 @@ The protest rested on the Golden Rule, the teaching that people should treat oth
 
 The last was Burlington Yearly Meeting, in New Jersey, and its members voted to take no stand either way. Nothing changed because of the protest.
 
-**Lost and found.** The Quakers put the paper aside and forgot it. Abolitionists, people working to end slavery, found it again in 1844. Then it went missing a second time. In March 2005 it turned up in a vault at the Arch Street Meetinghouse in Philadelphia. It is now kept at Haverford College, in Pennsylvania.
+**Lost and found.** The Quakers put the paper aside and forgot it. Abolitionists, people working to end slavery, found it again in 1844.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -205,7 +205,7 @@ The last was Burlington Yearly Meeting, in New Jersey, and its members voted to 
 <!-- hb-zoom level="era" -->
 **Era 4 of 10 · 1700 to 1750 · about 5 minutes**
 
-Single men, each writing on his own, printed the arguments against slavery in these fifty years. No organized group yet worked for anyone's rights, and the Quakers began to argue about slavery among themselves. Quaker leaders punished the members who raised the question first. By 1776 the Quakers of Philadelphia had changed their own rules anyway and banned slaveholding among their members.
+Single men, each writing on his own, printed the arguments against slavery in these fifty years. No organized group yet worked for anyone's rights, and the Quakers began to argue about slavery among themselves. Quaker leaders punished the members who raised the question first. By 1776 the Quakers of Philadelphia had changed their own rules anyway and banned slaveholding among their members. The era's last section runs past 1750, to 1778, to finish that story.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A Boston merchant writes a pamphlet against slavery, 1700" -->
@@ -289,9 +289,11 @@ On March 31, 1776, she wrote, in her own spelling, "I long to hear that you have
 
 "Do not put such unlimited power into the hands of the Husbands," she wrote. "Remember all Men would be tyrants if they could." Tyrants are rulers who use their power cruelly. "If perticuliar care and attention is not paid to the Laidies we are determined to foment a Rebelion, and will not hold ourselves bound by any Laws in which we have no voice, or Representation." To foment a rebellion is to stir one up.
 
-**What she was asking about.** In 1776 coverture still governed marriage in the colonies, and a husband controlled everything his wife owned and earned. An English lawyer, William Blackstone, had written the rule down a few years earlier in his *Commentaries on the Laws of England*, published from 1765 to 1769. "By marriage, the husband and wife are one person in law," he wrote, "that is, the very being or legal existence of the woman is suspended during the marriage." While she was married, a wife did not exist in law as her own person.
+**What she was asking about.** In 1776 coverture still governed marriage in the colonies, and a husband controlled everything his wife owned and earned. The rule was centuries old. An English lawyer, William Blackstone, had written it down a few years earlier in his *Commentaries on the Laws of England*, published from 1765 to 1769.
 
-Blackstone did not invent the rule. It was already centuries old. Her last sentence used the colonists' own complaint against Britain. That July the delegates accused the British king of "imposing Taxes on us without our Consent." They called "the right of Representation in the Legislature," a say in the body that makes the laws, "a right inestimable to them," too precious to measure.
+"By marriage, the husband and wife are one person in law," Blackstone wrote, "that is, the very being or legal existence of the woman is suspended during the marriage." While she was married, a wife did not exist in law as her own person.
+
+**The colonists' own words.** In her March letter, Abigail Adams warned that women would not obey laws in which they had "no voice, or Representation." She was using the colonists' own complaint against Britain. That July the delegates accused the British king of "imposing Taxes on us without our Consent." They called "the right of Representation in the Legislature," a say in the body that makes the laws, "a right inestimable to them," too precious to measure.
 
 **His answer.** John Adams wrote back on April 14, 1776: "As to your extraordinary Code of Laws, I cannot but laugh." He wrote that the war had "loosened the bands of Government every where," He listed who had grown bold: "That Children and Apprentices were disobedient," "that schools and Colledges were grown turbulent," meaning rowdy, and "that Indians slighted their Guardians and Negroes grew insolent to their Masters."
 

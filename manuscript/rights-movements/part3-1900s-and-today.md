@@ -23,6 +23,8 @@ Charles Hamilton Houston planned a chain of court cases, one law school at a tim
 **What they were up against.** Women won the vote in 1920, and white officials in the South kept many Black women from voting with the same rules and violence they used against Black men. White mobs attacked Black Americans in Springfield in 1908 and in 25 cities in 1919. White Tulsans burned the Black district of Greenwood in 1921 and killed as many as 300 people.
 
 Officials in 30 states had at least 60,000 people operated on so that they could never have children. After President Franklin D. Roosevelt signed an order in 1942, Army officers forced about 120,000 people whose families came from Japan out of their homes and into camps, without charging them with any crime. Those who disobeyed, such as Fred Korematsu, were charged with breaking the orders themselves. The justices of the Supreme Court ruled in 1927 that the operations were allowed, and in 1944 that the removal was allowed.
+
+Two sections run past 1950 to finish their stories: the Tulsa survivors' fight to be paid goes on to 2026, and Native Americans' fight for the vote goes on to 1957.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A mob in Lincoln's town, and the NAACP, 1908 and 1909" -->
@@ -124,7 +126,7 @@ The justices of the Supreme Court ruled on February 19, 1923, in *Moore v. Demps
 Sworn statements in the case said Black witnesses had been "whipped, placed in the electric chair and strangled by something put in their noses to make them testify." Governor Thomas McRae freed the last of the twelve in January 1925.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Thirty years of anti-lynching bills, 1900 to 1922" -->
+<!-- hb-zoom level="span" label="Anti-lynching bills in Congress, 1900 to 1924" -->
 NAACP leaders pushed Congress for a federal law against lynching, and in the whole of this era members of Congress never passed one. Under such a law, federal judges could have tried the members of a lynch mob when state officials would not.
 
 Representative George Henry White of North Carolina brought the first federal anti-lynching bill to Congress on January 20, 1900. He was the last Black member of Congress of his generation. Members of Congress did not pass his bill.
@@ -169,7 +171,7 @@ Tulsa police then deputized hundreds of white men, swearing them in as temporary
 
 **The night.** White men set the first fires in Greenwood at about 1 in the morning. When firemen came, armed white men threatened them and told them to let the Black homes burn. A little after 5 in the morning, a whistle blew. White men who had been organized into companies during the night gathered at three railroad stations and went into Greenwood.
 
-The 2001 Oklahoma state commission put their number at about 10,000, and a scholar writing in 1946 said 8,000 to 10,000. Charles Barrett, the adjutant general at the head of Oklahoma's National Guard, the state's own army of part-time soldiers, told the *New York Times* there were 25,000. The Justice Department's 2025 review states that many take that figure to be a misprint for 2,500.
+**How many.** Counts of the white men who went in run from 8,000 to 10,000, and the state commission of 2001 gave about 10,000. The head of Oklahoma's National Guard, the state's own army of part-time soldiers, gave the *New York Times* a figure of 25,000. The Justice Department's review says many take that to be a misprint for 2,500.
 
 **House by house.** The attackers went from house to house. They took what they wanted, piled bedding and furniture in the middle of a room, poured kerosene over it and lit it. They backed trucks up to houses and loaded "everything moveable and of value." White women came with shopping bags and took clothes, silverware and jewelry. The attackers opened safes and destroyed people's legal papers before burning the buildings.
 
@@ -373,11 +375,11 @@ The parents formed a committee, the Comité de Vecinos de Lemon Grove, the Lemon
 
 Judge Claude Chambers of the San Diego County Superior Court ruled on March 30, 1931. He ordered the district to admit the children "on a basis of equality with other children of said school district, and without separation or segregation in a separate school because of race or nationality." Putting "all the Mexicans in one group can only be done by infringing," or breaking, "the laws of the State of California," he said. Some accounts date the ruling March 31.
 
-**Mendez.** Fifteen years later, five families in Orange County, the Mendez, Guzman, Palomino, Estrada and Ramirez families, sued four school districts: Westminster, Garden Grove, Santa Ana and El Modena. Their lawyer was David C. Marcus, who had won a case in 1944 against segregated pools and parks in San Bernardino.
+**Mendez.** Fifteen years later, five families in Orange County, among them the Mendez family, sued four school districts there. Their lawyer had won a case in 1944 against segregated pools and parks in San Bernardino.
 
 Judge Paul J. McCormick ruled for the families on February 18, 1946. "A paramount requisite in the American system of public education is social equality," he wrote. He meant that treating all children as equals came first in American public schools.
 
-When the districts' officials appealed, asking a higher court to change the ruling, other groups joined the fight. NAACP lawyers filed a friend-of-the-court brief, an argument from people who are not part of a case. Thurgood Marshall, Robert L. Carter and Loren Miller wrote it. The Japanese American Citizens League, the League of United Latin American Citizens, the American Jewish Congress and the American Civil Liberties Union filed briefs too.
+When the districts' officials appealed, asking a higher court to change the ruling, other groups joined the fight. NAACP lawyers, among them Thurgood Marshall, filed a friend-of-the-court brief, an argument from people who are not part of a case. Four other groups filed briefs too, among them a Japanese American group and a Latin American group.
 
 The judges of the federal appeals court ruled for the families on April 14, 1947. Governor Earl Warren signed the Anderson Bill in June 1947, and with it California's lawmakers took segregated schools out of the state's school laws, the first lawmakers in any state to do so. Warren became Chief Justice of the United States in 1953.
 
@@ -562,9 +564,9 @@ Sergeant Isaac Woodard was discharged from the Army after four years on February
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 55 minutes**
 
-Five groups of Americans ran organized campaigns after 1950: Black Americans, women, Mexican Americans, gay Americans and disabled Americans. Each group won changes in the country's laws. The justices of the Supreme Court ruled in 1954 that segregated public schools broke the Constitution, and in 1956 they struck down segregation on Montgomery's buses. Members of Congress then passed three laws in 25 years.
+Five groups of Americans ran organized campaigns after 1950: Black Americans, women, Mexican Americans, gay Americans and disabled Americans. Each group won changes in the country's laws. The justices of the Supreme Court ruled in 1954 that segregated public schools broke the Constitution, and in 1956 they struck down segregation on Montgomery's buses. Members of Congress then passed new laws.
 
-They banned literacy tests for voting in 1965, sex discrimination in schools that took federal money in 1972, and refusing a disabled person a job or a way into a public building in 1990. A literacy test was a reading and writing test that officials used to keep Black citizens from voting.
+Three of those laws banned literacy tests for voting in 1965, sex discrimination in schools that took federal money in 1972, and refusing a disabled person a job or a way into a public building in 1990. A literacy test was a reading and writing test that officials used to keep Black citizens from voting.
 
 **The cost.** Each of those changes followed years of organizing, and the organizers paid for it. People who signed lawsuits lost their jobs, police beat marchers with nightsticks, and firemen turned high-pressure hoses on children. Members of the Ku Klux Klan, a secret white group that used terror against Black Americans, killed four girls with a bomb in a Birmingham church in 1963.
 
@@ -684,9 +686,9 @@ White parents took their children out. By the end of the month, fewer than ten w
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Levittown, 1957: a family moves in" -->
-Daisy and William Myers became the first Black family to live in Levittown, Pennsylvania, in August 1957, and white mobs gathered outside their home for nearly three months. William Myers was an Army veteran of the Second World War, and Daisy Myers was a teacher. They had three young children.
+Levittown, Pennsylvania, was a town of houses built and sold by one builder, William Levitt. Daisy and William Myers became the first Black family to live there in August 1957, and white mobs gathered outside their home for nearly three months. William Myers was an Army veteran of the Second World War, and Daisy Myers was a teacher. They had three young children.
 
-**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race" from living in a house, except white servants, Caucasian meaning white. The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. The builder, William Levitt, dropped the written clause and kept selling only to white buyers.
+**The lease.** In the first Levittown, in New York, the standard lease had barred anyone "other than members of the Caucasian race," meaning anyone who was not white, from living in a house. The justices of the Supreme Court ruled in *Shelley v. Kraemer* in 1948 that no court could enforce clauses like that, so no judge could order anyone to obey them. Levitt dropped the written clause and kept selling only to white buyers.
 
 **The mobs.** When the Myers family moved in, mobs gathered outside the house. People threw rocks through the windows, burned crosses and made death threats by telephone. Delivery men stopped bringing milk, bread and heating oil, and state police guarded the house. A documentary, *Crisis in Levittown*, was filmed while it was happening, in 1957. Daisy Myers later wrote a book about it, *Sticks 'n Stones*, published in 2005.
 <!-- /hb-zoom -->
@@ -791,9 +793,9 @@ One juror would not vote to find Edgar Ray Killen guilty. Killen was a former pr
 <!-- hb-zoom level="span" label="The March on Washington, August 28, 1963" -->
 About 250,000 people came to Washington on August 28, 1963, for the March on Washington for Jobs and Freedom. A National Park Service page counts about 190,000 of them as Black and about 60,000 as white. A. Philip Randolph, who had threatened a march on Washington in 1941 and called it off, led this one. Bayard Rustin organized it in less than three months.
 
-**All men.** The march's sponsors were all men. Besides Randolph, five of them led civil rights groups: Roy Wilkins of the NAACP, Whitney Young of the National Urban League, Martin Luther King Jr. of the Southern Christian Leadership Conference, James Farmer of CORE and John Lewis of the Student Nonviolent Coordinating Committee. The others were the union leader Walter Reuther, Joachim Prinz, Eugene Carson Blake and Matthew Ahmann. The sponsors issued ten demands, among them fair wages, fair hiring and desegregated schools.
+**All men.** All ten of the march's sponsors were men. Besides Randolph, they included Martin Luther King Jr., John Lewis of the Student Nonviolent Coordinating Committee, the heads of three other civil rights groups and four other men, among them the union leader Walter Reuther. Dorothy Height of the National Council of Negro Women helped plan the march, and the Park Service page states that she "operated in the background of this male dominated, leadership group." No woman gave a formal speech.
 
-No woman gave a formal speech. Dorothy Height of the National Council of Negro Women helped plan the march, and the Park Service page states that she "operated in the background of this male dominated, leadership group." The same page records that John Lewis's speech was "toned down...at the request of white liberals and moderate black allies," people on his own side who asked him to say it more softly. What he said included, "we do not want our freedom gradually but we want to be free now."
+**The day.** The sponsors issued ten demands, among them fair wages, fair hiring and desegregated schools. King was one of the men who spoke to the crowd, and so was Lewis. The Park Service page records that Lewis's speech was "toned down...at the request of white liberals and moderate black allies," people on his own side who asked him to say it more softly. What he said included, "we do not want our freedom gradually but we want to be free now."
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="bayard-rustin" name="Bayard Rustin" movie="" kind="famous" status="verified" -->
@@ -856,15 +858,17 @@ On the courthouse grounds, one of the two men's toilets was marked "Colored Men"
 
 Members of the Board of Education turned them down, saying the changes would cost too much. Police arrested thirteen organizers on March 31 on charges of felony conspiracy, planning together to commit a serious crime. One of them, the teacher Sal Castro, was fired. He got his job back after months of sit-ins at the board's offices, and on October 2 police arrested 35 people there.
 
-**The Moratorium.** Between 20,000 and 30,000 people marched through East Los Angeles in the National Chicano Moratorium on August 29, 1970. They were protesting how many Mexican Americans were being drafted, wounded and killed in the Vietnam War. About 1,500 police officers came to Laguna Park, fired tear gas into the crowd and beat protesters. At least three people were killed that day, and 150 were arrested.
+**The Moratorium.** Between 20,000 and 30,000 people marched through East Los Angeles in the National Chicano Moratorium on August 29, 1970. They were protesting how many Mexican Americans were being drafted, wounded and killed in the Vietnam War. About 1,500 police officers came to Laguna Park, fired tear gas into the crowd and beat protesters. Three or four people were killed that day, and 150 were arrested.
 
 Los Angeles County Sheriff's Deputy Thomas Wilson fired a tear gas projectile into the Silver Dollar Bar on Whittier Boulevard. It hit Rubén Salazar, a reporter for the *Los Angeles Times*, in the head and killed him. The coroner, the county official who decides how a person died, ruled his death a homicide, a killing by another person. District Attorney Evelle Younger decided not to charge Wilson. City officials later renamed Laguna Park for Salazar.
 
-**Two more dead.** Two young members of the Brown Berets, a Chicano youth group, were also killed that day. Police said that Angel Gilberto Díaz drove through a police barricade and that officers shot him. Raúl Ruiz, a reporter who was at the march, said Díaz was sitting in the passenger seat when he was shot in the back of the head. Neither the police account nor Ruiz's account names the officers who shot Díaz.
+**Two more dead.** Two young members of the Brown Berets, a Chicano youth group, were also killed that day. Police said that Angel Gilberto Díaz drove through a police barricade and that officers shot him. Raúl Ruiz, a reporter who was at the march, said Díaz was sitting in the passenger seat when he was shot in the back of the head. Neither account names the officers who shot him.
 
-Witnesses said Lyn Ward died when a tear gas canister exploded. Police said a bomb planted by protesters killed him. PBS SoCal counts four dead that day. The art historian Ruben C. Cordova writes that the fourth man often named, Gustav Montag, was killed at a later protest, on January 31, 1971, when a lead pellet fired from a police shotgun bounced and struck him in the heart.
+Witnesses said Lyn Ward died when a tear gas canister exploded, and police said a bomb planted by protesters killed him.
 
-**The farmworkers.** In the same years, farmworkers organized under Larry Itliong, Cesar Chavez and Dolores Huerta. About 1,500 mostly Filipino American grape workers led by Itliong walked out at Delano, California, on September 8, 1965. Eight days later, members of the union of Chavez and Huerta, the National Farm Workers Association, voted to join them.
+**Disputed:** The art historian Ruben C. Cordova counts three dead that day, because the fourth man often named, Gustav Montag, was killed at a later protest, on January 31, 1971, when a pellet from a police shotgun bounced and struck him in the heart. PBS SoCal counts four dead on August 29.
+
+**The farmworkers.** In the same years, farmworkers organized under Larry Itliong, Cesar Chavez and Dolores Huerta. About 1,500 mostly Filipino American grape workers led by Itliong walked out at Delano, California, on September 8, 1965. Eight days later, members of the union of Chavez and Huerta, the National Farm Workers Association, voted to join them. The two unions joined together and became the union now called the United Farm Workers. Chapter 14, Work and Workers, tells the strike in full.
 
 **What was reported about Chavez.** The *New York Times* reported in March 2026 that Chavez had sexually abused two girls in the 1970s. The two women, Debra Rojas and Ana Murguia, are daughters of union organizers. They said the abuse began when they were 12 and 13, and Rojas said Chavez raped her in a motel room when she was 15.
 
@@ -954,13 +958,13 @@ The two sides had reached an agreement by October 1971, and three federal judges
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Section 504, Gallaudet and the Americans with Disabilities Act, 1973 to 1990" -->
-Disabled Americans occupied federal offices in 1977 to force officials to enforce a law that had been passed four years before. Section 504 of the Rehabilitation Act of 1973 was the first federal law protecting the civil rights of disabled people. It says that no qualified person with a disability "shall, solely by reason of his or her disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance."
+Disabled Americans occupied federal offices in 1977 and forced officials to enforce a law that had been passed four years before. Section 504 of the Rehabilitation Act of 1973 was the first federal law protecting the civil rights of disabled people. It says that no qualified person with a disability "shall, solely by reason of his or her disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance."
 
 No one who ran a school, hospital or office paid with federal money could legally turn a person away only because of a disability. But federal officials could not enforce the law until someone signed the rules for carrying it out, and for four years no one did. Joseph A. Califano Jr., the Secretary of Health, Education, and Welfare, refused to sign them after leaders of schools and hospitals objected to what the rules would cost.
 
-**The sit-in.** Disabled people demonstrated at federal offices in eleven cities on April 5, 1977: San Francisco, Washington, Seattle, Los Angeles, Denver, Chicago, Dallas, Atlanta, New York, Boston and Philadelphia. In San Francisco, about 100 of them occupied the department's offices at 50 UN Plaza and stayed. National Park Service pages give the length of the sit-in as 26 days in one account and 24 days in another.
+**The sit-in.** Disabled people demonstrated at federal offices in eleven cities on April 5, 1977: San Francisco, Washington, Seattle, Los Angeles, Denver, Chicago, Dallas, Atlanta, New York, Boston and Philadelphia. In San Francisco, about 100 of them occupied the department's offices at 50 UN Plaza and stayed. National Park Service pages give the length of the sit-in as 26 days in one account and 24 days in another. The sit-in worked: Califano signed the rules.
 
-**Who fed them.** Members of the Black Panther Party, a Black political group, brought in one hot meal a day and food for two more. Leaders of a union, the International Association of Machinists, paid bills and paid to fly a group to Washington. The Brick Hut, a business owned and run together by a group of lesbian women, women who love women, and Glide Memorial Church also helped. Judy Heumann, Kitty Cone and Dennis Billups led the occupation from inside. Califano signed the rules.
+**Who fed them.** Members of the Black Panther Party, a Black political group, brought in one hot meal a day and food for two more. Leaders of a union, the International Association of Machinists, paid bills and paid to fly a group to Washington. The Brick Hut, a business owned and run together by a group of lesbian women, women who love women, and Glide Memorial Church also helped. Judy Heumann, Kitty Cone and Dennis Billups led the occupation from inside.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="judy-heumann" name="Judy Heumann" movie="" kind="famous" status="verified" -->
@@ -977,7 +981,7 @@ Judy Heumann got polio at eighteen months old, which paralyzed her, and she used
 
 That year the *New York Times* put her story on its front page, and a lawyer, Roy Lucas, offered to represent her. She sued the Board of Education at 22, before Judge Constance Baker Motley. Board officials settled before trial and gave her the license. She and her supporters then started a group called Disabled in Action.
 
-**50 UN Plaza.** She was one of about a hundred disabled people who occupied the federal offices at 50 UN Plaza in San Francisco in April 1977 to force federal officials to sign the Section 504 rules. She and Dennis Billups flew to Washington during the sit-in, with money from the machinists' union.
+**50 UN Plaza.** In April 1977 she was one of the three leaders inside the occupied federal offices at 50 UN Plaza in San Francisco. During the sit-in she and Dennis Billups flew to Washington.
 
 She spent the rest of her life on the same work. From 1993 to 2001 she was the federal official in charge of special education and rehabilitation. She advised the World Bank on disability from 2001 to 2005, and from 2010 to 2017 she was the federal government's special adviser on international disability rights. She died in Washington on March 4, 2023.
 
@@ -1017,7 +1021,7 @@ Japanese Americans who had been held in the camps of the Second World War campai
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
-**If you remember one thing:** Marchers, students, parents and disabled protesters won laws against segregation in schools and buses, against literacy tests for voting, against sex discrimination in schools, and against shutting disabled people out, and many of them were beaten, jailed or killed for it.
+**If you remember one thing:** Marchers, students, parents and disabled protesters won court rulings against segregated schools and buses, and new laws against literacy tests, sex discrimination in schools and shutting disabled people out. Many of them were beaten, jailed or killed for it.
 **Left open:** Would the justices of the Supreme Court keep the Voting Rights Act as members of Congress wrote it in 1965?
 
 **Next:** After 2000, judges and lawmakers widened some of these rights and narrowed others.
@@ -1038,7 +1042,7 @@ Their rulings of 2025 and 2026 allowed states to ban some medical care for trans
 
 **New tools.** Organizers used phones and social media alongside the old tools of meetings, lawsuits and marches. A seventeen-year-old recorded a Minneapolis police officer kneeling on George Floyd in 2020, and after people saw her video they protested in cities around the world. Two words posted on Twitter in October 2017, "me too," were used more than 19 million times within a year.
 
-Police officers and federal agents also killed people in these years, among them George Floyd in 2020, and Renée Good and Alex Pretti in Minneapolis in 2026. As of September 2026 no one had been charged with killing Good or Pretti, and the fights over voting maps, DACA and the Equal Rights Amendment were still going on.
+Police officers and federal agents also killed people in these years, among them George Floyd in 2020, and Renée Good and Alex Pretti, two American citizens shot by federal immigration agents in Minneapolis in 2026. As of September 2026 no one had been charged with killing Good or Pretti, and the fights over voting maps, DACA and the Equal Rights Amendment were still going on.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The justices strike down the Voting Rights Act's list, 2013" -->
@@ -1064,9 +1068,9 @@ Anyone suing under Section 2 of the Voting Rights Act must now show that state o
 
 The Congressional Research Service, which writes explanations of the law for members of Congress, put it this way on May 14, 2026. A person suing "now must show that a state drew a redistricting map based on racial, and not political, considerations." That person must also "present evidence of current-day, intentional voting discrimination that is based on race."
 
-**The dissent.** Justice Elena Kagan dissented, joined by Justices Sonia Sotomayor and Ketanji Brown Jackson. She described a round district that is 90 percent Black inside a state that is otherwise 90 percent white.
+**The dissent.** Justice Elena Kagan dissented, joined by Justices Sonia Sotomayor and Ketanji Brown Jackson. To show how lawmakers can draw districts so that some people's votes count for less, she asked readers to imagine a round district that was 90 percent Black, in a state that was otherwise 90 percent white.
 
-Lawmakers slice the district "into six pie pieces" and spread its Black voters across six mostly white districts. "Election after election, Black citizens' votes are, by every practical measure, wasted," she wrote. "'Cracked' is the usual term," she said, and the majority had made "a nullity of Section 2," a rule with no force left in it.
+Lawmakers could slice that district "into six pie pieces," she wrote, and spread its Black voters across six mostly white districts. In that imagined state, "Election after election, Black citizens' votes are, by every practical measure, wasted." "'Cracked' is the usual term," she said, and the majority had made "a nullity of Section 2," a rule with no force left in it.
 
 **The new map.** Louisiana's Republican lawmakers passed a new map in May 2026. It removed one of the state's two majority-Black districts and was expected to elect five Republicans and one Democrat. About a third of Louisiana's people are Black. State Senator Jay Morris wrote the bill. "We focused on the Democrat numbers, not the racial numbers when drawing," said State Representative Beau Beaullieu, a Republican. State Representative Kyle Green Jr., a Democrat, said the map took Black Louisianians "from 33% of the population to 16% of the representation."
 
@@ -1234,7 +1238,7 @@ The words "me too" were already in use. A youth worker in Selma, Alabama, named 
 
 **She was saying "me too" to girls years before the hashtag.**
 
-Tarana Burke built her work with survivors of sexual violence around the words "me too" long before millions of people posted them in 2017. She is a survivor of sexual abuse herself. She grew up in the Bronx, in New York City, and at fourteen she joined a group called the 21st Century Youth Leadership Movement. After Alabama State University and Auburn University, she moved to Selma, Alabama, and kept working for the same group there.
+Tarana Burke is herself a survivor of sexual abuse. She grew up in the Bronx, in New York City, and at fourteen she joined a group called the 21st Century Youth Leadership Movement. After Alabama State University and Auburn University, she moved to Selma, Alabama, and kept working for the same group there.
 
 **The girl at the camp.** A National Women's History Museum biography dates the start of her work to 1996, when a girl at a youth camp told Burke that she had been sexually abused. The same biography states that years later Burke "began using the phrase 'me too' to promote the idea of 'empowerment through empathy.'" Burke's own account says her work turned toward survivors of sexual violence while she lived in Selma.
 
@@ -1258,7 +1262,7 @@ Erica Chenoweth of Harvard and Jeremy Pressman of the University of Connecticut 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The end of Roe v. Wade, 2022" -->
-The justices of the Supreme Court overruled *Roe v. Wade* in 2022, and with it ended the right to an abortion that the Court had protected since 1973. An abortion is a medical procedure that ends a pregnancy.
+The justices of the Supreme Court ended the right to an abortion in 2022, when they overruled an earlier decision of their own court. An abortion is a medical procedure that ends a pregnancy. In *Roe v. Wade*, in 1973, the justices had decided that the Constitution protected that right, and the ruling stood for 49 years.
 
 **Dobbs.** Mississippi's lawmakers banned abortion after fifteen weeks of pregnancy, except in a medical emergency or when the fetus, the medical word for the unborn offspring growing in the womb after the first weeks of pregnancy, had a serious defect.
 
@@ -1385,7 +1389,9 @@ She ran. About 30 yards away, as she bent to pick up a piece of plywood, Officer
 
 A footnote in their ruling describes that round as "a flashbang embedded in a less-lethal bullet," a bullet made to hurt rather than kill. A flash-bang is an explosive device that makes a loud noise and a bright flash of light, and aerial ones are made to be fired above a crowd. Protesters carried her away. Her account says officers laughed and congratulated Moll, and the officers dispute that. "Her left hand and forearm are permanently and severely injured," the judges wrote.
 
-**No one held responsible.** Judges of the federal appeals court ruled against the injured protesters in 2023, and again on June 24, 2026, in Wilansky's case. In 2016, they said, the law had not clearly established that firing at a crowd to drive it off was a "seizure" under the Constitution, a way of stopping or holding a person by force. So the officers were protected by qualified immunity, a rule that shields government officials from being sued unless the right they broke was already clearly established.
+**No one held responsible.** No officer or police agency was held responsible for the injuries that night. Judges of the federal appeals court ruled against the injured protesters in 2023, and again on June 24, 2026, in Wilansky's case. They said that in 2016 the law had not yet made it clear that firing at a crowd to drive it off was a "seizure" under the Constitution, a way of stopping or holding a person by force.
+
+That mattered because of a rule called qualified immunity. It shields government officials from being sued unless the right they broke was already clearly established, meaning already made clear in the law.
 
 Police made hundreds of arrests at the protests. A Morton County judge, Allan Schmalenberger, threw out many trespass cases, charges of going onto private land without permission, because no one had told the protesters to leave.
 
@@ -1409,9 +1415,11 @@ A Secret Service agent refused to take their petition on April 28, 2010, and Whi
 
 Attorney General Jeff Sessions wrote in September 2017 that the program should end, and the acting Secretary of Homeland Security, Elaine Duke, ended it. DACA holders, universities and states sued. The justices of the Supreme Court ruled five to four on June 18, 2020, that federal officials had ended the program unlawfully, so DACA stayed.
 
-**Texas.** Officials of Texas and other states also sued. A federal appeals court ruled in January 2025 that DACA's work permits were unlawful in Texas. By July 2026 the judge in Texas, Andrew Hanen, had not issued the order that would carry that out. About 455,000 people held DACA on March 31, 2026, by government figures reported by the National Immigration Forum, an immigration advocacy group. Federal immigration officials were renewing permits and not approving new ones.
+**Texas.** Officials of Texas and other states also sued. A federal appeals court ruled in January 2025 that DACA's work permits were unlawful in Texas. By July 2026 the judge in Texas, Andrew Hanen, had not issued the order that would carry that out.
 
-**Minneapolis, 2026.** Federal immigration agents shot and killed two American citizens in Minneapolis in January 2026, Renée Macklin Good on January 7 and Alex Pretti on January 24. The agents were there for a large federal immigration operation called Operation Metro Surge. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
+**The numbers.** Agents of ICE, a federal immigration agency, arrested 261 DACA holders and deported 86 of them in the first year of President Donald Trump's second term, by the count of FWD.us, an immigration advocacy group. About 455,000 people held DACA on March 31, 2026, by government figures reported by the National Immigration Forum, another immigration advocacy group. Federal immigration officials were renewing permits and not approving new ones.
+
+**Minneapolis, 2026.** Federal officials ran a large immigration operation in Minneapolis in early 2026, called Operation Metro Surge. During it, federal immigration agents shot and killed two American citizens, Renée Macklin Good on January 7 and Alex Pretti on January 24. The *Star Tribune* named ICE officer Jonathan Ross as the man who shot Good. ProPublica named Border Patrol agent Jesus Ochoa and Customs and Border Protection officer Raymundo Gutierrez as the agents who shot Pretti.
 
 Federal officials said Good had used her car as a weapon, and local officials said video contradicted that. Federal officials called Pretti a domestic terrorist, and NPR reported that video contradicted their account of his death.
 

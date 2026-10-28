@@ -96,6 +96,7 @@
 - equal protection of the laws: a state must apply its laws the same way to everyone (1850 to 1900)
 - servitude: slavery (1850 to 1900)
 - rape: forcing a person into sex (1850 to 1900)
+- Reconstruction: the years after the Civil War, ending in 1877, when members of Congress wrote Black Americans' rights into three amendments and new federal laws, and federal soldiers stayed in the South (1850 to 1900)
 - public conveyances: trains, boats and coaches for hire (1850 to 1900)
 - suffrage: the right to vote (1850 to 1900)
 - prospectors: men searching for gold (1850 to 1900)
@@ -158,7 +159,6 @@
 - discriminatory: unfair to people because of who they are (1900 to 1950)
 - deputized: sworn in as temporary police officers (1900 to 1950)
 - National Guard: a state's own army of part-time soldiers (1900 to 1950)
-- adjutant general: the officer at the head of a state's National Guard (1900 to 1950)
 - martial law: putting the Guard in charge of a city (1900 to 1950)
 - probable cause or reasonable suspicion: the legal words for a good reason to believe a person has done something wrong (1900 to 1950)
 - grand jury: a group of citizens who decide whether there is enough evidence to charge someone with a crime (1900 to 1950)
@@ -300,9 +300,10 @@
 - less-lethal bullet: a bullet made to hurt rather than kill (2000 to Today)
 - flash-bang: an explosive device that makes a loud noise and a bright flash of light (2000 to Today)
 - seizure: under the Constitution, a way of stopping or holding a person by force (2000 to Today)
-- qualified immunity: a rule that shields government officials from being sued unless the right they broke was already clearly established (2000 to Today)
+- qualified immunity: a rule that shields government officials from being sued unless the right they broke was already clearly established, meaning already made clear in the law (2000 to Today)
 - trespass: going onto private land without permission (2000 to Today)
 - expedited: quick (2000 to Today)
+- ICE: a federal immigration agency, whose agents arrest and deport people (2000 to Today)
 
 ## People
 
