@@ -144,7 +144,11 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-exploration.md`: Opus agent T-652, then Fable agent T-661 (older file, changed)
 
-## Written by Opus only (250 files)
+## Written by Opus only (252 files)
+
+**control\**
+
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\WHO-WROTE-WHAT.md`: Opus director (new file)
 
 **control\backmatter\**
 
@@ -511,6 +515,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\make_pdf.py`: Opus director, then Opus agent T-706 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\project_state.py`: Opus agent T-705 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\review_extract.py`: Opus director (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\tools\who_wrote_what.py`: Opus director (new file)
 
 **viewer\**
 
