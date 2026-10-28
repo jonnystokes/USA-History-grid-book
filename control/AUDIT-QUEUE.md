@@ -330,3 +330,4 @@ POLISH-1 or wave B; viewer em dashes and nickname headings fixed (T-658). Still 
 - **Starving Time count (T-746):** Chapter 15 says about 500 colonists fell to about 61; Chapter 26 says about 60 of about 240 lived. Settle from the banks and make both chapters agree.
 - **loblollie (T-744):** Chapter 4 and the immigration bank say a thick porridge; Chapter 14's prose says a thin porridge. Make Chapter 14 match the bank.
 - **smallpox vaccination in the 1800s (T-747):** Chapters 24 and 32 call it 'a shot'; Chapter 26 says it was scratched into the skin. Make 24 and 32 match the method (scratched into the skin).
+- **Cahokia dates (T-756):** a places line follows a museum page dating an object 'c. 1500', but Chapter 6 says Cahokia was empty by about 1350. Settle from the banks.

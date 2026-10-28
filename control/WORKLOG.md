@@ -5313,3 +5313,37 @@ R17 reader: a9a2f9309d1c7d4cd.
 12:04 AM T-723 fix R03 DONE (47/50, 3 in part); two migration items parked in AUDIT-QUEUE.
 12:06 AM T-727 fix R04 DONE (48/50; Levittown clause plain; chapters agree); committed. Two notes parked in AUDIT-QUEUE. Running: T-728 only.
 12:10 AM T-728 fix R13 DONE (50/50); committed. ALL RUNNING AGENTS FINISHED. Paused per Jon (no new agents).
+06:39 AM Jon: keep using Opus; as many parallel agents as possible without conflicts; keep going until the book is done. Launching: T-729 fix R01 (front matter + exploration, with director notes: reading-aloud claim, build tokens, Menendez), T-730 fix R14 (slavery-freedom), T-731 fix R17 (drugs-alcohol), readers R20 (news-communication) and R22 (music). Back matter waits for these (fixers update hand-offs).
+Ids: T-729 a94b0d928d14b27cd, T-730 a53dca4656c7a93f8, T-731 a0f5b12234111cb90, R20 a3584ee454d8247ed, R22 acde52a3f8a99df57.
+07:03 AM R20 review DONE (25, uneven). T-732 fix R20 launched (id next line).
+T-732 fix R20: a891096a4d93b24a7.
+07:07 AM R22 review DONE (25, uneven; figures that do not add up). T-733 fix R22 launched (id next line).
+T-733 fix R22: a662b7dd0d0d92673.
+07:27 AM T-731 fix R17 DONE (25/25); committed.
+07:29 AM T-730 fix R14 DONE (21/25, 4 in part); committed.
+07:30 AM T-729 fix R01 DONE (front 20/22, ch 1 21/25 + 4 in part; tokens placed; reading-aloud claim fixed; Menendez fixed); committed. Waiting on T-732 (news) and T-733 (music) before the back matter.
+07:39 AM T-733 fix R22 DONE (25/25); committed. Waiting on T-732 (news) only.
+07:43 AM BACK MATTER: assembled (glossary 4,459, dates 555, people 718, places 392, movies 170, questions 111) and the glossary split in 8 parts. Launching 10 editors T-740..T-751 per control/briefs/BACKMATTER-DISPATCH.md (opus).
+Back-matter editor ids (opus): T-740 acc5b1fa87814cf52, T-741 a44bf3819031c04da, T-742 a45f16c2a621cc52c, T-743 aaa7478a847b0d790, T-744 a5a94d1dab3172463, T-745 aa0dc082d198cf4d6, T-746 ab8545528bbf0ff4a, T-747 a9ff9f9df5b0244e7, T-748 ab1f74dcab5152514, T-749 a93b0240855082b2d, T-750 a98bc76cfd5aa1e83, T-751 a8a7afa3b89720b84.
+08:06 AM T-743 glossary G-K DONE (549 -> 508).
+08:06 AM T-740 glossary A-B DONE (524 -> 481).
+08:07 AM T-741 glossary C DONE (530 -> 499).
+08:08 AM T-746 glossary S DONE (462 -> 429); Starving Time conflict parked in AUDIT-QUEUE.
+08:08 AM T-744 glossary L-O DONE (656 -> 617); loblollie note parked.
+08:08 AM T-745 glossary P-R DONE (615 -> 574). To do at join: 'antiproton' (glossary-1) cites Chapter 13 but Chapter 9 explains it first.
+08:09 AM T-749 people DONE (718 -> 734, all linked).
+08:09 AM T-747 glossary T-Z DONE (494 -> 452); smallpox wording parked.
+08:10 AM T-750 places DONE (53 'Other places' filed by state).
+08:12 AM T-751 movies + answers DONE. Seven closings soften or make laws the actors (ch 10, 11, 25, 28 softened; ch 20, 24, 34 laws as actors): T-752 launched to bring closings and answers into line (opus).
+T-752 closings: a21e5e112ab0f77f3.
+08:15 AM T-742 glossary D-F DONE (629 -> 566). Glossary joined: 4,126 entries. Waiting on T-748 (timeline) and T-752 (closings + answers) before R25 reads the back matter.
+08:24 AM T-748 timeline DONE (555 -> 192). All ten back-matter editors done. Waiting on T-752 (closings + answers) before R25.
+08:31 AM T-752 DONE (7 closings + answers + hand-offs aligned; 7/7 PASS). R25 back-matter reader launched (id next line).
+08:33 AM Card times fixed by script in 10 chapters (only the card line changed; 10/10 PASS). Build glossary lookup improved: every back-matter line links to its era. Warnings 6 (nickname headings). Waiting on R25.
+09:13 AM R25 review DONE (89 findings: How We Know 8, Glossary 19, Timeline 19, People 15, Places 15, Movies 6, Answers 7). Back-matter fix pass, one agent per file (opus): T-753 glossary, T-754 timeline, T-755 people, T-756 places, T-757 how-we-know + movies + answers.
+Ids: T-753 ac31df5d4b07f0b2a, T-754 a0e0438186db42128, T-755 a2512a5413109ccaf, T-756 a4a1f7b48e612faf6, T-757 a2937964532f83280.
+09:28 AM T-755 people fix DONE (12/15).
+09:29 AM T-754 timeline fix DONE (18/19).
+09:45 AM T-757 fix DONE (17/21; 9 closings synced; 111/111 answers match).
+NOTE: commit 827c590 (T-757) also swept in-progress edits of manuscript/_backmatter/02-glossary.md by T-753 (my 'git add manuscript' was too wide). The file is not harmed; T-753's finished work lands in its own commit. Both are Opus agents.
+09:50 AM T-753 glossary fix DONE (16/19; 4,132 entries; 478 references corrected to the first chapter).
