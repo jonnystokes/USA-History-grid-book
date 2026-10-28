@@ -1,0 +1,206 @@
+## Glossary
+
+- travois: two long poles tied together at one end to form a narrow V, dragged by a dog with the load riding on the poles (Before 1500)
+- cultural burning: lighting small fires on purpose and keeping them under control to help the plants and animals people use for food, clothing and ceremonies (Before 1500)
+- pueblo: the Spanish word for town or village, used by the Spanish for the Native peoples of the Southwest who lived in towns of stone and adobe (The 1500s)
+- adobe: brick made of mud and dried in the sun (The 1500s)
+- tub mill: a small water mill whose wheel lies flat in the stream and turns the millstone directly (The 1500s)
+- Camino Real: the Royal Road, which ran about 1,600 miles north from Mexico City (The 1500s)
+- archaeologists: scientists who dig up the past (The 1600s)
+- Algonquian: a family of Native languages (The 1600s)
+- gristmill: a mill that grinds grain (The 1600s)
+- overshot wheel: a water wheel turned by the weight of water poured onto its top (The 1600s)
+- sworn statement: a statement made with a promise under the law to tell the truth (The 1600s)
+- cord: a stack of wood 4 feet high, 4 feet wide and 8 feet long (The 1600s)
+- iron furnace: a tall oven where fire melts iron out of rock (1700 to 1750)
+- charcoal: wood heated with too little air for it to burn away, which leaves nearly pure carbon that burns hotter than wood (1700 to 1750)
+- collier: a man who made charcoal (1700 to 1750)
+- transported convict: a person found guilty of a crime in Britain and sent to the colonies to be sold into 7 to 14 years of forced work (1700 to 1750)
+- iron ore: the rock that iron comes from (1700 to 1750)
+- Negro: the word then used for Black people, which the chapter prints only inside a 1785 advertisement it quotes (1700 to 1750)
+- spermaceti: a waxy oil found in the head of the sperm whale, made into the brightest and costliest candles (1700 to 1750)
+- Yankee: someone from New England (1700 to 1750)
+- cast iron: iron poured into a mold while it is melted (1700 to 1750)
+- boiler: a closed tank of water heated by a fire to make steam (1750 to 1800)
+- fire engine: the name people in the 1700s used for a steam engine (1750 to 1800)
+- cylinder: a tall round tube (1750 to 1800)
+- piston: a heavy disk that could slide up and down inside the cylinder (1750 to 1800)
+- horsepower: a measure of power based on the work one horse can do (1750 to 1800)
+- vein: the band of ore running through the rock (1750 to 1800)
+- in blast: lit and making iron (1750 to 1800)
+- bushel: a measure for dry goods such as grain (1750 to 1800)
+- frauds: deals built on lies (1750 to 1800)
+- pit: the pile of stacked wood, covered with leaves and dust, in which a collier made charcoal (1750 to 1800)
+- green wood: freshly cut wood (1750 to 1800)
+- smolder: to burn slowly with very little air (1750 to 1800)
+- forge: the shop where iron was heated and hammered into shape (1750 to 1800), also the fire where blacksmiths heat metal (1800 to 1850)
+- teamster: a man who drove a wagon (1750 to 1800)
+- anthracite: a hard kind of coal from northeastern Pennsylvania, which people then called stone coal (1800 to 1850)
+- grate: a rack that holds coal up off the floor of a fireplace so air can flow in underneath (1800 to 1850)
+- arks: the boats that carried anthracite down the Lehigh River to Philadelphia (1800 to 1850)
+- charter: a legal paper that allowed a company to form (1800 to 1850)
+- gasometers: large tanks for storing gas made from coal (1800 to 1850)
+- gas works: plants that made gas (1800 to 1850)
+- camphene: a cheap lamp fuel of one part turpentine, four parts alcohol and a little camphor, whose fumes caught fire easily (1800 to 1850)
+- turpentine: a liquid made from pine trees (1800 to 1850)
+- tallow candles: candles made of animal fat (1800 to 1850)
+- lard oil: oil made from pig fat (1800 to 1850)
+- harpoon: a heavy iron spear thrown into a whale from a rowed boat, which whalers called an iron (1800 to 1850)
+- blubber: the thick layer of fat under a whale's skin (1800 to 1850)
+- lance: a long spear with a sharp blade (1800 to 1850)
+- bibles: the chunks of blubber whalers cut up for boiling (1800 to 1850)
+- try-works: a brick furnace built on a whaling ship's deck for boiling blubber into oil (1800 to 1850)
+- kerosene: a cheap lamp fuel that refiners made from oil (1850 to 1900)
+- shale: a soft rock made of hardened mud (1850 to 1900)
+- drive pipe: a pipe driven down to the rock so the drill could work inside it, which kept water and loose ground out (1850 to 1900)
+- patent: a government paper giving an inventor the only right to make and sell an invention (1850 to 1900)
+- pension: money paid to someone every year (1850 to 1900)
+- Union Army: the army of the Northern states in the Civil War (1850 to 1900)
+- central power station: a plant that makes electricity in one place and sends it through wires to many buildings (1850 to 1900)
+- dynamo: a machine that turns motion into electric current (1850 to 1900)
+- direct current (DC): electric current that flows in one direction only, like the current from a battery (1850 to 1900)
+- voltage: the force that pushes electric current through a wire (1850 to 1900)
+- alternating current (AC): electric current that flows back and forth, changing direction 60 times a second in the United States today (1850 to 1900)
+- transformer: a machine that can easily raise or lower the voltage of alternating current (1850 to 1900)
+- stock: shares in the ownership of a company (1850 to 1900)
+- Westinghoused: a word Edison's supporters used to mean killed by electricity (1850 to 1900)
+- electric chair: a chair that kills a person by sending a strong electric current through the body (1850 to 1900)
+- generator: a machine that turns motion into electric current (1850 to 1900)
+- shaft: a deep hole that leads down into a mine (1850 to 1900)
+- ventilating furnace: a small fire kept burning at the bottom of a mine shaft to make a draft that moved fresh air through the mine (1850 to 1900)
+- breaker: the wooden building where coal was broken and sorted (1850 to 1900)
+- master collier: a collier in charge of the pits and of the helpers who worked them (1850 to 1900)
+- Civilian Conservation Corps: a government jobs program of the 1930s (1850 to 1900)
+- census: the government's count of the people and their homes, taken every ten years (1900 to 1950)
+- Allies: the countries fighting Germany, Italy and Japan in World War II (1900 to 1950)
+- salt domes: large masses of salt buried deep underground (1900 to 1950)
+- federal: part of the national government (1900 to 1950)
+- trestle: a raised track (1900 to 1950)
+- National Guard: a state's own force of part-time soldiers (1900 to 1950)
+- strike: stopping work to demand changes (1900 to 1950)
+- union: a group workers form so they can bargain with owners together (1900 to 1950)
+- flag of truce: a white flag that asks for a pause in fighting (1900 to 1950)
+- holding company: a company that owns shares, or pieces of ownership, of other companies (1900 to 1950)
+- grand jury: a group of citizens who decide whether there is enough proof for a trial (1900 to 1950)
+- fraud: cheating people by lying (1900 to 1950)
+- embezzlement: stealing money that others trusted a person to handle (1900 to 1950)
+- bankruptcy law: the rules for what happens when a person or a company cannot pay its debts (1900 to 1950)
+- hydroelectric dam: a dam that holds back a river, so that water rushing down through it turns machines that make electricity (1900 to 1950)
+- federal corporation: a company owned by the national government (1900 to 1950)
+- condemn: to take land by law without the owner's agreement, at a price the government sets (1900 to 1950)
+- fish ladder: rising pools that let salmon swim upstream past a dam (1900 to 1950)
+- steelhead: a trout that swims to the sea and back (1900 to 1950)
+- headright: an Osage person's share of the oil money from the minerals under Osage land (1900 to 1950)
+- guardians: white people local judges chose to control the money of many Osage adults, under a 1921 law (1900 to 1950)
+- executive order: a rule a president issues on his own authority, without a vote of Congress (1900 to 1950)
+- cooperative: a business owned by the people who use it (1900 to 1950)
+- reactor: the machine in a nuclear power plant where atoms are split (1950 to 2000)
+- fission: the splitting of atoms, each split giving off a large amount of energy as heat (1950 to 2000)
+- uranium: a heavy metal dug out of the ground as ore, the fuel of nuclear power plants (1950 to 2000)
+- ore: rock that holds a metal (1950 to 2000)
+- core: the center of a reactor, where the fuel sits (1950 to 2000)
+- turbine: a wheel with many blades, spun by steam (1950 to 2000)
+- civilian use: use that is not for the military (1950 to 2000)
+- Army Corps of Engineers: the part of the Army that builds dams and waterways (1950 to 2000)
+- bottomlands: the low, flat lands beside a river (1950 to 2000)
+- treaty: a signed agreement between nations, such as the Treaty of Fort Laramie between the Three Affiliated Tribes and the United States (1950 to 2000)
+- black lung: a group of lung diseases caused by breathing coal mine dust, in which the body's defending cells burst trying to break down the dust, scar tissue and hard lumps form in the lungs, and in the worst form the miner gasps for every breath (1950 to 2000)
+- phlegm: the thick slime that comes up from the lungs (1950 to 2000)
+- OPEC: a group of countries that sell oil (1950 to 2000)
+- embargo: an order that stops trade (1950 to 2000)
+- crude oil: the oil that comes straight out of the ground (1950 to 2000)
+- Strategic Petroleum Reserve: a store of crude oil kept for emergencies (1950 to 2000)
+- fuel-economy standards: rules for how far a car must go on a gallon of gas (1950 to 2000)
+- meltdown: an accident in which a reactor's fuel gets so hot that it melts (1950 to 2000)
+- relief valve: a valve that opens to let out pressure (1950 to 2000)
+- millisievert: a unit that measures how much radiation a body takes in (1950 to 2000)
+- radon: a radioactive gas from uranium that caused lung cancer in miners who breathed it (1950 to 2000)
+- radioactive: giving off energy that can damage the cells of the body (1950 to 2000)
+- curie: a unit that measures radioactivity (1950 to 2000)
+- fracking: short for hydraulic fracturing, a way of getting gas and oil out of rock deep underground by pumping water, sand and chemicals down a well at high pressure to crack the rock (2000 to Today)
+- horizontal drilling: drilling wells that turn and run sideways through the rock for thousands of feet (2000 to Today)
+- slickwater fracturing: a cheaper way of fracking that an engineer, Nick Steinsberger, used on the Barnett Shale in the late 1990s (2000 to Today)
+- methane: the main gas in natural gas (2000 to Today)
+- magnitude: the number that states an earthquake's size (2000 to Today)
+- corporate culture: a company's habits and ways of working (2000 to Today)
+- citations and orders: written notices of broken safety rules (2000 to Today)
+- conspiring: planning with others (2000 to Today)
+- misdemeanor: a less serious kind of crime (2000 to Today)
+- supervised release: a time after prison when a court officer checks on a person (2000 to Today)
+- NIOSH: the federal agency that studies workers' health (2000 to Today)
+- easement: permission to cross land (2000 to Today)
+- renewable energy: wind, solar, flowing water and other sources that do not run out (2000 to Today)
+- hydropower: electricity made from flowing water (2000 to Today)
+- hybrid: a car with both a gasoline engine and an electric motor (2000 to Today)
+- battery electric car: a car that runs on electricity alone (2000 to Today)
+- tax credit: money taken off a buyer's tax bill (2000 to Today)
+- grid: the network of power plants and wires that serves an area (2000 to Today)
+- megawatt: a million watts (2000 to Today)
+- hypothermia: a body temperature fallen too low to keep a person alive (2000 to Today)
+- autopsy: an examination of a body to find the cause of death (2000 to Today)
+- carbon monoxide: a gas with no color or smell that comes from burning fuel and, when breathed in, stops the blood from carrying oxygen (2000 to Today)
+- rolling outages: planned power cuts that move from area to area (2000 to Today)
+- fuel assembly: a tall bundle of fuel rods (2000 to Today)
+- Nuclear Regulatory Commission: the federal agency that oversees nuclear plants (2000 to Today)
+- operating license: permission to run a reactor (2000 to Today)
+- Btu (British thermal unit): the heat that warms one pound of water by one degree Fahrenheit (2000 to Today)
+- quadrillion: a million billion (2000 to Today)
+- energy independence: a country producing more energy in total than it uses, while still buying some fuel from other countries (2000 to Today)
+
+## People
+
+- William Chadbourne: an English carpenter who helped build one of the first sawmills run by water in New England (The 1600s)
+- Josiah Hornblower: the young English engine builder who came over with the first steam engine in America and later ran it (1750 to 1800)
+- Nelson Cole Haley: a New Bedford harpooner on the whaling ship Charles W. Morgan whose book tells how a crew turned a whale into lamp oil (1800 to 1850)
+- Edwin Drake: the man whose 1859 well near Titusville, Pennsylvania, started the American oil business, though he lost his money afterward (1850 to 1900)
+- Thomas Edison: the inventor who built his Pearl Street electric system on direct current, which could not travel far (1850 to 1900)
+- George Westinghouse: the businessman who sold alternating current and won the jobs of lighting the 1893 Chicago world's fair and building the Niagara Falls generators (1850 to 1900)
+- Nikola Tesla: the inventor whose AC motors Westinghouse bought the right to use in 1888 (1850 to 1900)
+- Lafayette Houck: one of the last colliers at Hopewell Furnace, who taught the National Park Service how charcoal was made (1850 to 1900)
+- Samuel Insull: Edison's former secretary, who tied more than 85 electric companies into one chain that collapsed in 1932 (1900 to 1950)
+- Pearl Yates: a country schoolteacher in western North Carolina who remembered when the lights first came on in her home in 1939 (1900 to 1950)
+- David Falconer: a government photographer who recorded Oregon's gasoline shortage of 1973 and 1974 in pictures and captions (1950 to 2000)
+- Cristian Pavón Pineda: an 11-year-old sixth grader who died in his family's mobile home in Conroe, Texas, during the 2021 blackout (2000 to Today)
+
+## Dates
+
+- February 11, 1808: Jesse Fell burns hard coal in his tavern fireplace
+- August 27, 1859: Drake's crew strikes oil in Pennsylvania
+- September 4, 1882: Edison's Pearl Street station starts selling electricity
+- December 6, 1907: The Monongah mine explosions kill at least 362 miners
+- 2016: Natural gas passes coal in making American electricity
+- 1598: Spanish colonists build water mills in New Mexico
+- 1755: The first steam engine in America pumps water out of a New Jersey copper mine
+- February 7, 1817: The first public gas street lamp in the country is lit in Baltimore
+- September 6, 1869: A fire at the Avondale coal mine kills 110 people
+- January 10, 1901: The Spindletop well in Texas strikes oil
+- April 20, 1914: National Guard soldiers burn the strikers' tent camp at Ludlow, Colorado
+- May 18, 1933: President Roosevelt signs the law creating the Tennessee Valley Authority
+- December 20, 1951: A test reactor in Idaho makes the first usable electricity from nuclear energy
+- October 1973: Arab members of OPEC cut off oil sales to the United States
+- March 28, 1979: The Three Mile Island Unit 2 reactor partly melts down
+
+## Places
+
+- Mystic Seaport Museum, Mystic, Connecticut: the Charles W. Morgan, the last wooden whaling ship left in the world, on which Nelson Cole Haley sailed as a harpooner (the chapter's "Where to go")
+- Smithsonian Institution: half of the cylinder of the first steam engine in America (the chapter gives no city)
+- Smithsonian's National Museum of American History: one of President Carter's 1979 White House solar panels (the chapter gives no city)
+- Carter Library: some of the Carter White House solar panels (the chapter gives no city)
+- Unity College, Maine: 16 of the Carter White House solar panels, put back up to heat water for the cafeteria
+- A solar museum, Dezhou, China: some of the Carter White House solar panels
+- National Archives: David Falconer's photographs and captions of Oregon's 1973 and 1974 gasoline shortage (the chapter gives no city)
+- Southern Oral History Program, University of North Carolina: the 1984 interview with Pearl and Oral Yates about electricity reaching Haywood County
+- Great Works bridge, Brattle Street, South Berwick, Maine: the rocky gorge below the bridge where the 1634 sawmill stood
+- Hopewell Furnace, French Creek, Berks County, Pennsylvania: the charcoal iron furnace that ran from 1771 to 1883, on land federal officials bought in the 1930s
+- Catoctin Furnace, Maryland: the iron furnace where at least 271 enslaved African Americans worked, whose history the Catoctin Furnace Historical Society keeps
+
+## Movies
+
+- Born in Freedom: The Story of Colonel Drake (1954): a 30-minute drama paid for by the oil industry's American Petroleum Institute, with Vincent Price as Drake
+- The Current War (2017): a Hollywood drama, not a documentary
+
+## Questions
+
+- Q: Did kerosene really save the whales? A: No. Whaling was shrinking before kerosene came, and in most homes kerosene replaced camphene, after a Civil War tax on alcohol raised camphene's price.
+- Q: How did electricity reach almost every American home? A: Edison's Pearl Street station began selling current in 1882, and alternating current, which a transformer could raise or lower, carried power from Niagara Falls to Buffalo by 1896. After 1935 federal loans paid for farmers' own power lines, and by 1950, 94 households in 100 had electricity.
+- Q: Who paid for America's energy with their freedom, their land or their lives? A: Enslaved people fed the iron furnaces, at least 271 at Catoctin alone, and about 105,000 coal miners died in accidents from 1900 through 2025. Federal officials made 82,000 people in the Tennessee Valley leave their homes for dams, other dams flooded Kettle Falls and the Fort Berthold farmlands, and Osage people were murdered for their oil money.
