@@ -5217,3 +5217,99 @@ R24 sports+holidays reader (sonnet): adafd9dd0bd12c84f.
 08:36 AM T-674 education DONE: PASS, 44,320 -> 46,254, over-90 205 -> 6, date-first 18.4% -> 0.0%. R19 education reader launched (id next line).
 R19 education reader (sonnet): a56735b03aa4f276a.
 12:26 PM (after the weekly reset at noon): Jon: resume every stopped agent, run as many in parallel as can be without conflict, no hurry, be fuel-efficient. All 20 resumed by SendMessage (14 writers T-690..T-703, T-704, readers R15 R16 R19 R23 R24); all replied 'Resuming agent'. Fix pass changed to one agent per review group (24, not 37 + front matter).
+12:26 PM T-704 DONE: three pilot hand-offs (glossary 163/384/207 items), punct 0/0, trial back-matter build clean. R18 religion reader launched (id next line).
+12:29 PM T-699 food-farming DONE: PASS, 14,166 -> 15,000, over-90 45 -> 2, date-first 20.0% -> 0.0%. Bracero 1946/1949 note parked for R08's fixer.
+External input found at the project root (written 8:30-8:42 AM by other agents): BUGS.md (4), external-input-bug-find.md (14 bugs), EXTERNAL-INPUT-DESIGN-IMPROVEMENTS.md (13 ideas). Taken: gate and back-matter bugs (TOOLS-FIXES), furniture line breaks + looks + links, era colours and ribbon, grid page, back-matter page numbers, type and font check (BUILD-POLISH), front-matter reading-pace claim (R01 fixer). Not taken (report to Jon): shelf edition zip, viewer, README, slice_bank, resume_drill, director_task, salvage_agent; era footers (would force a break at every era); reading rate change; bundled fonts (would need a download).
+T-705 tools fixes (opus): a867fb0f12f8f8b84. R18 religion reader (sonnet): aa3f5f019f07e478a. Running 20: 13 writers, 6 readers, T-705. Next free slot: T-706 BUILD-POLISH (opus).
+12:33 PM R15 review DONE (25 findings, flow uneven): control/review/R15.md. T-706 BUILD-POLISH launched: ad3d4e3e3dc384c42. Fix queue: T-710 R15 (rights-movements) next slot.
+12:35 PM R16 review DONE (25 + 25, uneven; most: retellings in boxes and era intros). T-710 fix R15 rights-movements launched (id next line). Fix queue: T-711 R16.
+T-710 fix R15: a8099b5c1bcebf23c.
+12:41 PM T-693 elements DONE: PASS, 16,254 -> 16,963, over-90 44 -> 4, date-first 20.9% -> 0.0%; Hindenburg dead added by bank PATCH; Flint outcome parked in AUDIT-QUEUE. T-711 fix R16 launched (id next line).
+T-711 fix R16: af5ea78e6e0b5b9fa.
+12:43 PM R23 review DONE (25 + 25, uneven; contradictions flagged: 1759 Pennsylvania play ban vs theatres, first-play date, Congress 'banned' vs discouraged, San Juan vs Ohkay Owingeh). T-712 fix R23 launched (id next line).
+T-712 fix R23: a93099c2f8aa8ba12.
+12:45 PM T-695 technology DONE: PASS, 15,577 -> 16,516, over-90 59 -> 3, date-first 16.3% -> 0.0%. 5-hour limit reached: no new launches; on the reset message, resume every stopped agent, then continue the queue (fix T-713.. as reviews land, readers for ready groups).
+04:47 PM (5-hour reset): all 19 stopped agents resumed by SendMessage 'continue', all replied 'Resuming agent'. R02 reader launched in the free slot (id next line).
+R02 native-nations+land-environment reader (sonnet): a0466d3b9d13b0007. Running 20.
+04:48 PM R19 review DONE (25, uneven; Virginia penalty contradiction, closing answers off). T-713 fix R19 launched (id next line).
+T-713 fix R19: aab7e2f93197a572a.
+04:49 PM R24 review DONE (25 + 25, uneven). T-714 fix R24 launched (id next line).
+T-714 fix R24: a1666732f65a18a3e.
+04:50 PM T-697 marketplace DONE: PASS, 14,423 -> 14,946, over-90 47 -> 3, date-first 16.5% -> 0.0%. R05 technology+science reader launched (id next line).
+R05 technology+science reader (sonnet): ae631b53d21393914.
+04:53 PM T-694 work-workers DONE: PASS, 15,995 -> 17,052, over-90 50 -> 5, date-first 25.0% -> 0.0%. R08 work-workers+food-farming reader launched (id next line).
+04:53 PM T-702 transportation DONE: PASS, 13,357 -> 14,340, over-90 40 -> 4, date-first 19.7% -> 0.0%. Readers launched: R08 (id below), R03 (id below).
+R08 reader: acfbed0decb47cd39. R03 reader: a2f83b0722531cd2c.
+04:54 PM T-690 city-building DONE: PASS, 17,673 -> 18,351, over-90 78 -> 4, date-first 18.2% -> 0.0%. R21 art reader launched (id next line).
+04:55 PM T-705 DONE: gate counts marker labels/names + hb-note:end fix; back-matter colon/None/state fixes. Gate 37/37 PASS. Hand-offs with semicolons listed for the back-matter editor. Readers launched: R21 art, R11 government-politics (ids below).
+04:56 PM T-691 big-business DONE: PASS, 17,419 -> 18,221, over-90 70 -> 5, date-first 27.7% -> 0.0%; GM/Bell 1979 parked in AUDIT-QUEUE. R21 reader: ab3fc5e9ac081b23c. Launching R11 and R10 readers (ids below).
+R11 reader: a275f7ba0e0af03fd. R10 reader: a81d94080fb13597a. Running 20: writers T-692 T-696 T-698 T-700 T-701 T-703; readers R18 R02 R05 R08 R03 R21 R11 R10; fixers T-710..T-714; T-706.
+04:56 PM T-701 landmarks DONE: PASS, 13,615 -> 14,301, over-90 51 -> 2, date-first 15.4% -> 0.0%. Validator gap (dropped span close) logged in BUGS.md. R07 landmarks+elements reader launched (id next line).
+R07 reader: acebc64b372d5ed4c.
+04:58 PM T-700 money DONE: PASS, 14,046 -> 14,596, over-90 51 -> 1, date-first 19.1% -> 0.0%. R12 crime-justice reader launched (id next line).
+R12 reader: ae5a1dc2da51e0c44.
+04:59 PM R18 review DONE (25, uneven; Scopes outcome missing, five-minute pick short). T-715 fix R18 launched (id next line).
+T-715 fix R18: aa8059e153155f149.
+05:00 PM T-703 home-family DONE: PASS, 11,636 -> 12,290, over-90 46 -> 2, date-first 17.9% -> 0.0%. Levittown clause note for the R04 fixer. R04 city-building+home-family reader launched (id next line).
+R04 reader: a639fcef15a37c311.
+05:00 PM T-698 energy DONE: PASS, 14,287 -> 14,897, over-90 48 -> 4, date-first 25.6% -> 0.0%. R06 energy+transportation reader launched (id next line).
+R06 reader: a2afb6a59dc4ecf5b.
+05:01 PM T-696 economy DONE: PASS, 14,981 -> 15,734, over-90 58 -> 2, date-first 17.4% -> 0.3%. R09 economy+money reader launched (id next line).
+R09 reader: a0aad1c92f8bb53aa.
+05:02 PM T-692 america-world DONE: PASS, 17,276 -> 17,890, over-90 62 -> 4, date-first 25.1% -> 0.0%. ALL 37 CHAPTERS THROUGH THE READABILITY EDIT; 37 hand-offs. Director call: america-world keeps its shorter Philippine war-crimes passage (its officers span depends on it); R13's fixer may judge. R13 war+america-world reader launched (id next line).
+R13 reader: a692ed3d702faaa17. Readers left to launch: R01 R14 R17 R20 R22 (all ready), then R25 after the back matter.
+05:11 PM T-710 fix R15 DONE (22 of 25 fixed, 3 part-fixed for want of bank facts; committed 9bfebd6). Sent back to finish 2, 3, 14 with cross-bank PATCHes (1964 Civil Rights Act, March on Washington, farmworker strike). REVIEW-FIX brief now allows such PATCHes.
+05:19 PM T-710 DONE: all 25 R15 findings fixed; 3 bank PATCHes. R01 front matter+exploration reader launched (id next line).
+R01 reader: aa66f4b0255555e1b.
+05:20 PM R11 review DONE (25, uneven; contradictions across eras, number mismatches, Sedition Act count to check). T-716 fix R11 launched (id next line).
+T-716 fix R11: a5d070c118a4e8e57.
+05:22 PM R05 review DONE (25 + 25, uneven; boxes retell sections, ch 9 repeats ch 8). T-717 fix R05 launched (id next line).
+T-717 fix R05: aed5e314f699000e5.
+05:22 PM R12 review DONE (25, uneven). T-718 fix R12 launched with the Martin/Thomas director note (id next line).
+T-718 fix R12: ae3f06fbecfea8e79.
+05:23 PM T-711 fix R16 DONE (health 23/25, disasters 25/25, 4 in part; committed a0ca8f3); sent back to finish #15 #18 #31 #37 with PATCHes. R08 review DONE (25 + 25; bracero date conflict, ch 15 repeats ch 14). T-719 fix R08 launched with two director notes: a19aa862e8582d3b7.
+05:23 PM R10 review DONE (25 + 25, uneven; ch 19 era 1 repeats ch 18). T-720 fix R10 launched (id next line).
+T-720 fix R10: a69c03768003b2b1f.
+05:24 PM R21 review DONE (25, uneven; card minutes 150 vs strips 161, Fort Marion count). T-721 fix R21 launched (id next line).
+T-721 fix R21: af9115ae76d0aabcd.
+05:24 PM R07 review DONE (25 + 25, uneven; element numbers never explained, Black Hills repeat and money clash). T-722 fix R07 launched (id next line).
+T-722 fix R07: ae10050f89fed6422.
+05:26 PM R03 review DONE (25 + 25, uneven; boxes repeat the Who line in hook and first paragraph). T-723 fix R03 launched (id next line).
+T-723 fix R03: afc60f61b33c2f11b.
+05:27 PM R09 review DONE (25 + 25, uneven; ch 17 retells ch 16). T-724 fix R09 launched (id next line).
+T-724 fix R09: a7ca5935d06125800.
+05:29 PM R06 review DONE (25 + 25, uneven; boxes retell sections, de Soto vs Coronado horses). T-725 fix R06 launched (id next line).
+T-725 fix R06: ab0fdc58d66d061f5.
+05:29 PM R02 review DONE (25 + 25, uneven; cross-chapter number clashes). T-726 fix R02 launched (id next line).
+T-726 fix R02: a81768e69c7be16b7. Running 20 (readers R04 R13 R01; fixers T-711..T-726; T-706). Queue: readers R14 R17 R20 R22; later back matter + R25.
+05:31 PM T-712 fix R23 DONE (47/50; Po'pay's town now bridged: San Juan, today Ohkay Owingeh). R14 slavery-freedom reader launched (id next line).
+R14 reader: aa13d7f40874e14e9.
+05:32 PM R04 review DONE (25 + 25, uneven; ch 7 repeats and contradicts ch 6). T-727 fix R04 launched with the Levittown director note (id next line).
+T-727 fix R04: ae965fc056dd52bb2.
+05:33 PM R13 review DONE (25 + 25; ch 23 retells five ch 22 stories with clashing numbers). T-728 fix R13 launched (id next line).
+T-728 fix R13: aeb8788ca054b6624.
+05:33 PM T-713 fix R19 DONE (20/25, 5 in part). R17 drugs-alcohol reader launched (id next line).
+R17 reader: a9a2f9309d1c7d4cd.
+05:36 PM Jon: start no new agents; let the running ones finish, then pause. After that, a Markdown file listing the files written by Opus versus Fable (full paths), only files whose writer is known. Running at this point (20): readers R01 R14 R17; fixers T-711 T-714..T-728; T-706 build polish. Not to be launched: fixers for R01/R14/R17, readers R20 R22, back matter, R25.
+05:36 PM T-711 DONE: #15 #18 #31 #37 finished with PATCHes; committed.
+05:45 PM T-706 DONE: build polish committed; 3,113 pages (+17% from the 12 pt / 71-char type), 8 min 17 s; PNG checks (grid, era ribbon, Known/Not known panel) look right. 26 front-matter tokens available; front-matter figures stale (to place after the pause).
+05:46 PM T-715 fix R18 DONE (25/25); committed.
+05:46 PM T-714 fix R24 DONE (50/50, 5 in part); committed.
+05:55 PM R01 review DONE (front 22, ch 1 25); its fixer is NOT launched (Jon: no new agents).
+09:21 PM (after the 5-hour reset at 6:20 PM): the 15 agents the limit stopped (T-716 T-717 T-718 T-719 T-720 T-721 T-722 T-723 T-724 T-725 T-726 T-727 T-728, readers R14 R17) resumed by SendMessage 'continue', same session id, all replied 'Resuming agent'. Still no new launches (Jon).
+09:22 PM R17 review DONE (25, uneven); its fixer NOT launched (Jon: no new agents).
+09:22 PM R14 review DONE (25, uneven); its fixer NOT launched (Jon: no new agents).
+09:31 PM T-716 fix R11 DONE (24/25, 1 in part); two bank errors parked in AUDIT-QUEUE.
+09:34 PM T-718 fix R12 DONE (25/25 + Martin/Thomas note applied; Cruz rape credited to the DA too).
+09:41 PM T-721 fix R21 DONE (24/25, 1 in part).
+11:51 PM Jon: finish the 10 stopped fixers, start no new agents, then write the Opus versus Fable file list and report what is left. All 10 resumed (T-717 T-719 T-720 T-722 T-723 T-724 T-725 T-726 T-727 T-728).
+11:56 PM T-722 fix R07 DONE (49/50); committed.
+11:56 PM T-717 fix R05 DONE (50/50); committed.
+11:59 PM T-726 fix R02 DONE (46/50, 4 in part); committed.
+12:00 AM T-724 fix R09 DONE (50/50); committed.
+12:00 AM T-725 fix R06 DONE (49/50); committed.
+12:00 AM T-719 fix R08 DONE (50/50; bracero date settled 1942-1946, food-farming bank PATCHed); committed. AUDIT-QUEUE bracero item closed by this.
+12:01 AM T-720 fix R10 DONE (50/50); committed.
+12:04 AM T-723 fix R03 DONE (47/50, 3 in part); two migration items parked in AUDIT-QUEUE.
+12:06 AM T-727 fix R04 DONE (48/50; Levittown clause plain; chapters agree); committed. Two notes parked in AUDIT-QUEUE. Running: T-728 only.
+12:10 AM T-728 fix R13 DONE (50/50); committed. ALL RUNNING AGENTS FINISHED. Paused per Jon (no new agents).
