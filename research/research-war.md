@@ -792,6 +792,24 @@ South, and East Regiments were established with this order." The decree excluded
 judges. Confirms bank 3.1 (which could not open the National Guard page, HTTP 403 again on
 2026-09-30).
 
+### PATCH 2026-10-27 (T-728): why the English attacked the Narragansett at the Great Swamp
+NPS, Roger Williams National Memorial, "Roger Williams: King Philip's War,"
+https://www.nps.gov/rowi/learn/historyculture/philipswar.htm (the page 3.4 cites; re-opened
+2026-10-27 with curl): "When the war broke out in June of 1675, King Phillip sent the old men,
+women, and children of the tribe across Narragansett Bay to live safely with the Narragansett."
+"The Narragansett had maintained their neutrality during the early months of King Phillip's War."
+"In October of 1675 with Roger's help, the Narragansett signed a treaty of neutrality with the
+Massachusetts Bay Colony promising they would not join with Phillip. After the signing, the
+authorities in Boston demanded that the Narragansett turn over Wampanoag refugees as hostages."
+"The Narragansett would not turn over these refugees." "Fearing an alliance between the
+Narragansett and the Wampanoag, the English assembled a force of approximately 1000 soldiers and
+mercenaries from Massachusetts Bay, Plymouth, and Hartford and invaded Rhode Island." "This attack
+pushed the Narragansett into joining forces with the Phillip and the Wampanoag."
+- Prose: the Narragansett stayed out of the war and promised Massachusetts Bay in October 1675 not
+  to join Metacom; Boston's leaders demanded the Wampanoag who had fled to them; they refused; the
+  English, fearing the two nations would join, attacked; after the attack the Narragansett joined
+  Metacom.
+
 ---
 
 ## 4. 1700 TO 1750
@@ -1499,6 +1517,23 @@ Revolution*, February 2018, https://allthingsliberty.com/2018/02/moravians-middl
 - Survivors: a young man named Thomas survived his scalping, and a boy held with the women hid in a
   cellar and escaped through a window as the house burned. No prosecution is mentioned.
 - Also in the bank's Parked section (from `religion`, T-260), same source.
+
+### PATCH 2026-10-27 (T-728): what Saratoga and Yorktown led to
+- **Saratoga**, copied from `research/research-america-world.md` §5.3 (Office of the Historian,
+  "French Alliance, French Assistance, and European Diplomacy during the American Revolution,
+  1778-1782," https://history.state.gov/milestones/1776-1783/french-alliance): "Vergennes finally
+  decided in favor of an alliance when news of the British surrender at the Battle of Saratoga
+  reached him in December 1777." Vergennes was the French foreign minister. The Treaty of Alliance
+  was signed on 6 February 1778 (same page). `america-world` tells the alliance; war gives one
+  clause.
+- **Yorktown**, American Battlefield Trust, "Yorktown,"
+  https://www.battlefields.org/learn/revolutionary-war/battles/yorktown (opened 2026-10-27 with
+  curl): "This last major land battle of the American Revolution led to negotiations for peace with
+  the British and the signing of the Treaty of Paris in 1783." "When news of Cornwallis's surrender
+  reaches London on November 25, the Prime Minister, Lord North, declares, 'Oh God. It is all over.
+  It is all over.'" "On March 5, 1782, Parliament passes a bill authorizing the government to make
+  peace with America." (The Library of Congress page cited in 5.2 sat behind a Cloudflare check on
+  2026-10-27 and could not be re-read.)
 
 ## 6. 1800 TO 1850
 
@@ -2293,6 +2328,52 @@ children and elders). War's slice:
   testimony nor the Crossroads of War essay names them. Prose: say where they were caught and jailed
   and that no surviving record names who caught them.
 
+### PATCH 2026-10-27 (T-728): era 7 gaps the reader review found
+- **Fort Pillow, the count (settles 7.5's DISPUTE line).** Smithsonian Magazine, the 7.5 URL
+  (re-opened 2026-10-27 with curl): the garrison was "295 white members of the 13th United States
+  Cavalry and 262 USCT members"; "approximately 70 percent of the USCT soldiers at Fort Pillow were
+  killed, along with an unknown number of civilians"; the 182 is a list of names, "a sign that lists
+  the names of all who died on the day of the battle or from their wounds: 13 Confederates, 64
+  members of the 13th Tennessee and 182 USCT soldiers," in the museum at the fort. ABT, "Remember
+  Fort Pillow" (7.5 URL, re-opened 2026-10-27): "Some Black civilians were ultimately killed too."
+  The DISPUTE line's "about 300 Black soldiers killed" names no source and is larger than the 262
+  Black soldiers in the garrison. **Prose gives the named count (182, about 70 percent) and the
+  civilians, and drops the unsourced "near 300".**
+- **John Brown's raid, what it was.** NPS, "John Brown's Raid,"
+  https://www.nps.gov/articles/john-browns-raid.htm (opened 2026-10-27 with curl): Brown "raised
+  money from other abolitionists and ordered weapons" (the page names pikes and guns, set off by
+  dashes) "to be used in his war against slavery." "October 16, 1859 ... 8:00 pm Brown and 18 of his men advance towards Harpers Ferry.
+  10:00 pm The men take both bridges, the U.S. Armory and Arsenal and the U.S. Rifle Works." Brown
+  to the armory watchman: "I want to free all the negroes in this state." "11:00 pm Colonel Robert
+  E. Lee and 90 U.S. Marines arrive by train from Washington, D.C." October 18: "A Marine storming
+  party breaks into the engine house." Brown was charged with "murder, conspiring with enslaved
+  people to rebel and treason against the state of Virginia" and "was executed December 2, 1859."
+  "Sixteen people were killed in the raid, including ten of Brown's men." An armory is where the
+  government made guns; the arsenal is where it stored them.
+- **Why the New York mobs rioted, and why they attacked Black New Yorkers.** New-York Historical
+  Society, the 7.4 URL (re-opened 2026-10-27 with curl): "Many New Yorkers were enraged that the
+  wealthy could buy their way out of military service, while the poor and middle class, and a
+  disproportionate number of immigrants, risked an agonizing death in the war." "the rioters'
+  primary target was the city's African American community." "Many poor and immigrant whites,
+  mostly of Irish descent, feared that if slavery ended, more African Americans would move to New
+  York and take their jobs." "Many African Americans sought refuge in Brooklyn and New Jersey. As a
+  result of the riots, New York City's African American population declined by twenty percent."
+- **Little Bighorn, why the army was there**, copied from `research/research-native-nations.md`
+  (line beginning "1874:", sources NPS "Fighting for the Black Hills" and History.com): "Custer's
+  expedition announced gold in the Black Hills; the government ignored the 1868 treaty; December
+  1875 ultimatum ordered the winter camps onto the reservation by January 31, 1876, then sent the
+  army." The 1868 Fort Laramie Treaty set up the Great Sioux Reservation, including the Black Hills,
+  "for the absolute and undisturbed use" of the Lakota (same bank, line before; National Archives
+  1868 treaty exhibit). Matches this bank's parked line (Dec 1875 ultimatum, Jan 31, 1876).
+- **The Filipino civilian dead, one range for `war` and `america-world`**, copied from
+  `research/research-america-world.md` (Philippine-American War casualties line; Britannica,
+  New World Encyclopedia): "Filipino civilian deaths are estimated at more than 200,000
+  (Britannica), and other estimates run from 250,000 up to 1,000,000"; the Philippine-American War
+  Centennial Initiative "puts civilian deaths at 510,000." With 7.10's Office of the Historian
+  figure ("as many as 200,000"), the range both chapters give is **about 200,000 to as many as
+  1,000,000, and the counts disagree.** No source says how many of the civilians American soldiers
+  killed.
+
 ---
 ---
 
@@ -2814,6 +2895,27 @@ https://www.scencyclopedia.org/sce/entries/woodward-isaac-beating-of/ (read 2026
   Anacostia camp, "who set them on fire is somewhat unclear." Prose: soldiers used torches to set
   the camps on fire (NPS); accounts differ on who set the fires at Anacostia.
 
+### PATCH 2026-10-27 (T-728): who the United States fought in the two world wars, and why it joined
+- **World War I.** Office of the Historian, US Department of State, "U.S. Entry into World War I,
+  1917," https://history.state.gov/milestones/1914-1920/wwi (opened 2026-10-27 with curl): "On
+  April 2, 1917, President Woodrow Wilson went before a joint session of Congress to request a
+  declaration of war against Germany. Wilson cited Germany's violation of its pledge to suspend
+  unrestricted submarine warfare in the North Atlantic and the Mediterranean, as well as its
+  attempts to entice Mexico into an alliance against the United States, as his reasons for
+  declaring war. On April 4, 1917, the U.S. Senate voted in support of the measure to declare war
+  on Germany. The House concurred two days later." "Germany's resumption of submarine attacks on
+  passenger and merchant ships in 1917 became the primary motivation behind Wilson's decision."
+  "throughout February and March 1917, German submarines targeted and sank several U.S. ships,
+  resulting in the deaths of numerous U.S. seamen and citizens." The page calls the countries
+  already fighting Germany "the Allies" and names Great Britain among them.
+- **World War II.** Pearl Harbor, December 7, 1941, is 8.5 above. Miller Center, University of
+  Virginia, "December 11, 1941: Message to Congress Requesting War Declarations with Germany and
+  Italy," https://millercenter.org/the-presidency/presidential-speeches/december-11-1941-message-congress-requesting-war-declarations
+  (opened 2026-10-27 with curl; source credited on the page: National Archives): "On the morning of
+  December eleventh, the Government of Germany, pursuing its course of world conquest, declared war
+  against the United States." "Italy also has declared war against the United States." Roosevelt
+  asked Congress to recognize a state of war with both.
+
 ## 9. 1950 TO 2000
 
 ### 9.0 Shape of the era, and the official numbers (CRS Table 1)
@@ -3215,6 +3317,33 @@ offenses "involving force or violence" and offenses by employees of the Selectiv
 **It does not mention deserters.** It covers only draft-law offenses, so men who deserted from the
 armed forces were not covered by it. Confirms the T-259b PATCH (which was search-summary only).
 
+### PATCH 2026-10-27 (T-728): Castle Bravo's power settled, and what followed for the people under the fallout
+- **CORRECTION to the T-259b Castle Bravo line ("nearly three times what its designers
+  expected").** National Security Archive, "Castle BRAVO at 70," the T-259b URL (re-opened
+  2026-10-27 with curl): "an explosive yield of 15 megatons, 1,000 times that of the weapon that
+  destroyed Hiroshima and nearly three times the six megatons that its planners estimated" (dash
+  in the original). Fifteen divided by six is two and a half. `research/research-america-world.md`
+  (Arms Control Association, "No Promised Land," and the same NSA page) gives "15 megatons, about
+  2.5 times the predicted yield of 6 megatons." **Both chapters say two and a half times what its
+  planners expected, and 1,000 times the Hiroshima bomb.** (A July 1954 record on the NSA page gives
+  the predicted yield as "four to eight megatons".)
+- **No evacuation planned.** Same NSA page: "Unlike 1946, when the people of Rongelap and other
+  atolls were temporarily evacuated during the Bikini tests, the U.S. military made no arrangements
+  to evacuate nearby people during Castle Bravo."
+- **The secret study.** Same NSA page: "The secret directive establishing 'Project 4.1,' the group
+  charged with producing a 'Study of Response of Human Beings Exposed to Significant Beta and Gamma
+  Radiation Due to Fallout from High Yield Weapons.'" Its subjects were "human beings in the
+  Marshall Islands who have received significant doses due to the fall-out." "Secrecy was the
+  project watchword: 'Due to possible adverse public reaction, you will specifically instruct all
+  personnel in this project to be particularly careful not to discuss the purpose of this project
+  and its background or its findings with any except those who have a need to know.'"
+- **Medical care afterward**, copied from `research/research-america-world.md` (T-459 PATCH, from
+  the health bank; Takahashi and others, *Journal of Epidemiology* 13(2), 2003,
+  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9588433/): "The United States provided follow-up
+  medical care." The same line: a 1993-97 screening found 57 Marshallese born before 1954 (1.5
+  percent) who had thyroid cancer or had had it removed.
+- **Irradiate, plain words** (for Taylor's quote): to expose to radiation.
+
 ## 10. 2000 TO TODAY (current to September 26, 2026; every figure carries its year)
 
 ### 10.0 The official numbers, and their dates
@@ -3518,6 +3647,37 @@ From CRS RL32492 (updated July 29, 2020; DCAS data **as of July 16, 2020**):
   unreconciled." The prose's 19 (Pentagon, 22 September 2026) and "still going on in late
   September 2026" stand. ABC News, 24 July 2026 (opened): the Pentagon database once dropped from 18
   to 14 deaths, then was corrected (background only).
+
+### PATCH 2026-10-27 (T-728): why American troops were leaving Afghanistan in 2021; the Iraq date; when Maduro was charged
+- **The withdrawal and ISIS-K.** Congressional Research Service, R46879, "U.S. Military
+  Withdrawal and Taliban Takeover in Afghanistan: Frequently Asked Questions," September 17, 2021,
+  https://www.everycrsreport.com/files/20210917_R46879_ac5342e5a60e99fab7b409ed15dcf1cb555e88cc.html
+  (opened 2026-10-27 with curl): "U.S. military action began on October 7, 2001, with airstrikes on
+  Taliban targets throughout the country." "On August 15, 2021, the Taliban entered the Afghan
+  capital of Kabul, completing a rapid takeover over the country." "The Taliban's advance came as
+  the United States was completing the military withdrawal to which it agreed in the February 2020
+  U.S.-Taliban accord." "On April 14, 2021, President Biden announced that the United States would
+  begin a 'final withdrawal' on May 1, to be completed by September 11, 2021." "On July 8,
+  President Biden announced that 'our military mission in Afghanistan will conclude on August
+  31st.'" The fall of Kabul led to "the emergency evacuation of U.S. embassy personnel and some
+  Afghans out of Afghanistan," and the United States sent "several thousand additional troops to
+  facilitate the evacuation." "On August 26, 2021, U.S. forces and Afghan nationals were killed in
+  an attack in Kabul claimed by the Islamic State affiliate in Afghanistan, which has been in
+  conflict with the Taliban." "The U.S. military and diplomatic withdrawal and evacuation operation
+  concluded on August 30, 2021."
+- **The Iraq invasion date.** 10.1 already notes that Operation Iraqi Freedom began on March 19,
+  2003, in Washington (CRS) and on March 20 in Iraq. `research/research-america-world.md` gives
+  March 20. **Both chapters now say March 20, 2003, the date in Iraq, where the invasion took
+  place.**
+- **When Maduro was charged.** Council on Foreign Relations, the T-484 URL (re-opened 2026-10-27
+  with curl): "A twenty-five-page indictment [PDF] released on January 4" (the day after the raid)
+  "alleged that the Venezuelan leader worked with drug cartels to transport thousands of tons of
+  cocaine into the United States." "Two days later, Maduro appeared before a U.S. federal court in
+  New York City, where he pleaded not guilty to drug, weapons, and narco-terrorism charges." "He and
+  his wife pleaded not guilty in court on January 5." Brookings (`america-world` bank) says the
+  capture was made "under narco-terrorism charges". **Both chapters say only what both sources
+  support: the indictment was made public on January 4, 2026, the day after the raid, and both
+  pleaded not guilty on January 5.**
 
 ## Parked from `america-world` (2026-09-27, T-254)
 Filed by the director after the parallel run. Full sourced text is in `research/research-america-world.md` under the T-254 PATCH named in each item.

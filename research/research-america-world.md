@@ -175,6 +175,19 @@ and NPS Fort Matanzas history page
 Named people exist (Menéndez, Ribault, Laudonnière) but they are Spanish and French officers
 in a European war; `war` and `exploration` carry them. Keep the era to one era-zoom.
 
+### PATCH 2026-10-27 (T-728): Fort Caroline, one count for `war` and `america-world`
+- Copied from `research/research-war.md` §2.4 (NPS, "The Massacre of the French,"
+  https://www.nps.gov/places/000/the-massacre-of-the-french.htm): Menéndez's troops "killed most
+  of the settlers they found"; **Menéndez spared the women and children and shipped them to
+  Havana (about 50 women and children).**
+- With Menéndez's own letter (T-254 PATCH above: 132 men had their throats cut, and 10 more the
+  next day), both chapters now say: 132 men killed at the fort by Menéndez's count, 10 more the
+  next day, about 50 women and children spared and sent to Havana; then 111 and 134 killed at
+  Matanzas Inlet, about 245 in all. The "everyone was killed" line above rests on unnamed
+  "popular accounts" and conflicts with NPS and Menéndez; it is no longer in the prose.
+  `war` tells the killings in full; this chapter keeps the king's contract and the Timucua, and
+  points to Chapter 22.
+
 ---
 
 ## ERA 03 — THE 1600s
@@ -401,6 +414,16 @@ Europeans and not Americans.
 - **R. v. Ireland, [1991] 2 C.N.L.R. 120, Ontario Court of Justice (General Division), Gautreau J., November 7, 1990** (full reasons, Ontario Energy Board record copy, https://www.rds.oeb.ca/CMWebDrawer/Record/362255/File/document , opened 2026-10-26; also listed by the UBCIC First Nations court decisions collection, https://collections.ubcic.bc.ca/s/fndds/item/11712 , which sits behind a Cloudflare check). Two Oneida men, **Jesse Hiram Ireland and David Jamieson**, were found with a gun and "two recently killed racoons" in a cornfield in Elgin County, Ontario, on January 21, 1987, and charged under Ontario's Game and Fish Act with hunting without a licence and in the closed season. Judge G.A. Phillips dismissed the charges on April 2, 1990, holding that their right to hunt under the Treaty of 1701 "must prevail." The Crown (counsel L.C. McCaffrey, Q.C.) appealed. The Crown argued that "the guarantee of free hunting rights was not absolute but was contingent on the re-conquest of the territory which was occupied by other Indians, who were allies of the French, as well as the French themselves ... It never happened and therefore the treaty is of no consequence," and that "free hunting" meant only that "the British would protect the right of the Iroquois to hunt in the territory undisturbed by other Indians." Gautreau J.: "I do not think these arguments are well founded ... It is a clear and positive statement of the rights of the Indians." Appeal dismissed. Counsel for the Oneida men was P. Williams.
 - So the "other writers dispute" line above (4.2) now has a named disputant: the Crown's lawyers in R. v. Ireland (1990), who lost. The Two Row Times (Jim Windle, "What about that 1701 Nanfan Treaty?", Dec 28, 2016, https://tworowtimes.com/historical/1701-nanfan-treaty/) says only that "Some say it only covered hunting and fishing rights" and names no one. Wikipedia (*Nanfan Treaty*) names only the French, who "did not recognize the treaty" because New France claimed the same lands.
 - Prose: the deed's English words; Haudenosaunee groups read it as protecting their hunting right; in R. v. Ireland government lawyers argued the promise depended on a reconquest that never happened; Judge Gautreau rejected that in 1990.
+
+### PATCH 2026-10-27 (T-728): CORRECTION to 4.4, the day the Louisbourg force sailed
+- Copied from `research/research-war.md` era 4 (Dictionary of Canadian Biography, "PEPPERRELL,
+  Sir WILLIAM," http://www.biographi.ca/en/bio.php?BioId=35702): the Massachusetts force **left
+  Boston on 24 March 1744/45**, reached Canso on **4 April**, and landed at Louisbourg early on
+  **30 April 1745**. The war bank flagged 4.4's "4 April 1745 ... sailed from Boston" as the Canso
+  date. **Both chapters now say March 24, 1745.** 4.4's "almost 3,000" troops conflicts with the
+  war bank's numbers (nearly 2,000 landed on April 30; up to about 4,300 over the whole siege,
+  about half that at any one time); `war` gives the troop numbers, and this chapter gives none.
+  The war bank's own note: the "49-day siege" fits the April 30 landing and the June 17 surrender.
 
 ## ERA 05 — 1750 TO 1800 — where this chapter actually begins
 
@@ -815,6 +838,32 @@ they were not read; the two sources above cover every fact below.
   hanged" has no source naming Adams or hanging. Prose now states the proclamation and the
   signature instead.
 
+### SEARCHED, NOT FOUND 2026-10-27 (T-728): Adams's "new coat" for the king (5.5)
+- 5.5 says "Adams had bought a new coat for the occasion", but its only source is the Library
+  of Congress item page, whose title mentions the cordial greeting and no coat. One search
+  (Adams Papers, Massachusetts Historical Society, National Archives "Personal Encounters")
+  found Adams's own account of the audience and nothing on what he wore. The box's hook no
+  longer mentions a coat; it now states what the box tells (the king had declared the colonies
+  in rebellion ten years before).
+
+### PATCH 2026-10-27 (T-728): why Algerian warships caught the *Maria* in 1785, in Cathcart's own words
+- James Leander Cathcart, *The Captives: Eleven Years a Prisoner in Algiers*, ed. J. B.
+  Newkirk (1899), ch. 1, Internet Archive text,
+  https://archive.org/stream/captives00cathrich/captives00cathrich_djvu.txt (read 2026-10-27):
+  Consul Logie "immediately gave the Executive of Algiers a circumstantial detail of the motives
+  of the late war and the results, declaring that the United States were no longer under the
+  protection of his Master, and, that wherever the Cruisers of Algiers should fall in with the
+  vessels of the United States of America, they were good prizes." "The Cruisers of Algiers were
+  fitted out with all expedition and sailed on the 30th of June, bound direct to the Atlantic
+  ocean, where they had not cruised for a number of years before." Of the boarding: "Mediterranean
+  pass we had none; consequently, they conceived us to be a good prize." And: "a few months before
+  Spain was at war with the eastern states and prevented their Cruisers from coming into the
+  western ocean."
+- Prose: Spain's war with Algiers had kept Algerian warships out of the Atlantic until the two
+  made peace in 1785; then the British consul, Charles Logie, told the Dey's government that
+  American ships were no longer under the British king's protection, so the Algerians could take
+  them. Cathcart's account, attributed.
+
 ## Sources used (eras 1–5)
 
 **Government / official**
@@ -1087,6 +1136,41 @@ lived across the land and were not party to the sale. Name none. `native-nations
 - William D. Carrigan and Clive Webb, "The Lynching of Persons of Mexican Origin or Descent in the United States, 1848 to 1928," *Journal of Social History* 37, no. 2 (2003), abstract at https://www.researchwithrowan.com/en/publications/the-lynching-of-persons-of-mexican-origin-or-descent-in-the-unite/ (opened 2026-10-02): "between 1848 and 1928, mobs lynched at least 597 Mexicans." The abstract names race, economic competition and US-Mexico tensions as causes, and records self-defense and appeals to the Mexican government as resistance.
 - Not used: Josefa Segovia's lynching at Downieville, 5 July 1851 (Wikipedia only); California State Library Gold Rush page (403, BLOCKED).
 
+### PATCH 2026-10-27 (T-728): the Adams-Onís $5 million, the Guadalupe Hidalgo article as approved, and Texas
+- **CORRECTION to the T-621 Florida line ("liability for $5 million in damage done by American
+  citizens who rebelled against Spain").** The treaty's own text, Avalon Project, Yale Law School,
+  "Treaty of Amity, Settlement, and Limits Between the United States of America and His Catholic
+  Majesty. 1819," https://avalon.law.yale.edu/19th_century/sp1819.asp (read 2026-10-27), Article
+  XI: "The United States, exonerating Spain from all demands in future, on account of the claims
+  of their citizens to which the renunciations herein contained extend, and considering them
+  entirely cancelled, undertake to make satisfaction for the same, to an amount not exceeding five
+  millions of dollars." Article IX: each side gave up its claims for damages, and "The United
+  States will cause satisfaction to be made for the injuries, if any, which, by process of law,
+  shall be established to have been suffered by the Spanish officers, and individual Spanish
+  inhabitants, by the late operations of the American Army in Florida." **So the $5 million was
+  American citizens' claims against Spain, which the US government agreed to pay itself, so Spain
+  would not have to.** The Office of the Historian's wording is not followed.
+- **The citizenship article as the Senate approved it.** Treaty text, NPS, Chamizal National
+  Memorial (the T-312 URL, re-opened 2026-10-27), "Ratification advised by Senate, with
+  amendments, March 10, 1848"; Article IX: the Mexicans who did not keep Mexican citizenship
+  "shall be incorporated into the Union of the United States. and be admitted at the proper time
+  (to be judged of by the Congress of the United States) to the enjoyment of all the rights of
+  citizens of the United States, according to the principles of the Constitution; and in the mean
+  time, shall be maintained and protected in the free enjoyment of their liberty and property, and
+  secured in the free exercise of their religion without restriction." What the two struck
+  paragraphs said is not in this bank; the prose does not describe them.
+- **Texas.** Office of the Historian, "The Annexation of Texas, the Mexican-American War, and the
+  Treaty of Guadalupe-Hidalgo, 1845-1848," the T-621 URL (re-read 2026-10-27 with curl):
+  "Following Texas' successful war of independence against Mexico in 1836 ..." "in 1844, when
+  President John Tyler restarted negotiations with the Republic of Texas. His efforts culminated on
+  April 12 in a Treaty of Annexation ... Tyler, however, lacked the votes in the Senate to ratify
+  the treaty, and it was defeated by a wide margin in June. Shortly before he left office, Tyler
+  tried again, this time through a joint resolution of both houses of Congress." A treaty needs
+  two-thirds of the Senate; a joint resolution needs a simple majority of each house (era 7
+  Hawaii line, National Archives). Prose: Texas had won independence from Mexico in 1836; the
+  1844 treaty failed in the Senate; Congress then used a joint resolution, the method later used
+  for Hawaii.
+
 ## ERA 07 — 1850 to 1900
 
 ### Perry and Japan, 1853–54
@@ -1321,6 +1405,22 @@ army-history magazine, label it).
 - Article II: "Germany renounces in favor of the United States of America all her rights and claims over and in respect to the Island of Tutuila and all other islands of the Samoan group east of Longitude 171° west of Greenwich. Great Britain in like manner renounces in favor of the United States of America all her rights and claims over and in respect to the Island of Tutuila and all other islands of the Samoan group east of Longitude 171° west of Greenwich. Reciprocally, the United States of America renounce in favor of Germany all their rights and claims over and in respect to the Islands of Upolu and Savaii and all other Islands of the Samoan group west of Longitude 171° west of Greenwich."
 - Article III: each of the three keeps equal trading rights in all the islands. The preamble notes Germany and Britain had already made a separate agreement "regarding their respective rights and interests" (the Anglo-German convention of November 14, 1899, not opened).
 - Prose: one sentence pair on who gave up which claims.
+
+### PATCH 2026-10-27 (T-728): the Filipino civilian dead, one range for both chapters; what had made the country strong by 1898
+- **The Filipino civilian dead.** The range is unchanged (the "Casualties" line above): the
+  Office of the Historian's "as many as 200,000," Britannica's "more than 200,000," other
+  estimates from 250,000 up to 1,000,000, the Centennial Initiative's 510,000. Both `war` and
+  `america-world` now give it the same way: as many as 200,000 by the State Department's count,
+  other estimates much higher, up to 1,000,000, and historians disagree about the higher counts.
+  The cholera line (more than 200,000 dead in the 1902 epidemic, made worse by the war) stays, set
+  after the range so the reader sees it as part of why the higher counts exist.
+- **Steel and railroads**, copied from `research/research-economy.md` (era 7 "Rail and steel
+  numbers"; Census historical statistics; Cambridge CSSH "Progress in Iron and Steel"; Britannica
+  Carnegie entry): "railroad track more than 9,000 miles in 1850 → 193,346 miles by 1900"; "U.S.
+  steel output passed Britain's by about 1889–1890; by 1900 the U.S. made 11.4 million tons — more
+  than Britain and Germany combined." For the era 7 opener and the closing answer on how a weak
+  country came to rule islands: by 1900 it reached the Pacific, its railroads had grown twentyfold,
+  and its mills made more steel than Britain and Germany together.
 
 ---
 
@@ -1594,6 +1694,32 @@ Nicaraguans killed in the fighting with the Marines."
   to **over $12 billion**." **The $13.3 billion figure above stays unconfirmed.** Write
   "more than $12 billion."
 
+### PATCH 2026-10-27 (T-728): when the people of Hawaii became American citizens
+- Hawaiian Organic Act (31 Stat. 141, April 30, 1900), section 4, "Citizenship," as printed
+  by the Hawaii State Legislature, https://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/03-ORG/ORG_0004.htm
+  (read 2026-10-27): "That all persons who were citizens of the Republic of Hawaii on August
+  twelfth, eighteen hundred and ninety-eight, are hereby declared to be citizens of the United
+  States and citizens of the Territory of Hawaii." The same page's note: under the Republic's
+  1894 constitution "all persons born or naturalized in the Hawaiian" Islands were citizens.
+- Prose: under the same law of April 30, 1900, the people who had been citizens of the Republic
+  of Hawaii in August 1898 became American citizens.
+
+### PATCH 2026-10-27 (T-728): how a Frenchman came to sign for Panama
+- Office of the Historian, "Building the Panama Canal, 1903-1914,"
+  https://history.state.gov/milestones/1899-1913/panama-canal (read 2026-10-27 with curl): the
+  French canal attempt led by Ferdinand de Lesseps began digging in 1880, and "after 9 years and a
+  loss of approximately 20,000 lives, the French attempt went bankrupt." Colombia's congress
+  rejected the Hay-Herrán treaty. "President Roosevelt responded by dispatching U.S. warships to
+  Panama City (on the Pacific) and Colón (on the Atlantic) in support of Panamanian independence
+  ... Panama declared independence on November 3, 1903. The newly declared Republic of Panama
+  immediately named Philippe Bunau-Varilla (a French engineer who had been involved in the earlier
+  de Lesseps canal attempt) as Envoy Extraordinary and Minister Plenipotentiary. In his new role,
+  Bunau-Varilla negotiated the Hay-Bunau-Varilla Treaty of 1903."
+- Prose: Roosevelt sent warships; Panama declared independence on November 3; its leaders at once
+  named Bunau-Varilla, a French engineer from France's failed canal attempt, to bargain for them;
+  he signed for Panama, and no Panamanian signed (the treaty's two signers were Hay and
+  Bunau-Varilla, per the 1399 line above).
+
 ## ERA 09 — 1950 to 2000
 
 ### Containment and the Cold War as policy
@@ -1797,6 +1923,29 @@ them.
 - **Search summaries only, not used:** Wikipedia's *Jayuya Uprising* infobox (16 Nationalists, 8 police and soldiers dead; an older revision said 3 Nationalists); *Utuado uprising* (7 insurgents dead, 4 "after surrendering"; 2 National Guardsmen and 1 policeman dead); *1954 United States Capitol shooting* (28 dead in the 1950 revolts: 16 Nationalists, 7 police, 1 Guardsman, 4 civilians); a 1950 New York Times headline "23 Dead" via a newspaper dealer.
 - **Result:** no opened page gives a count of the people the Guard killed in the attacks on the two towns. Prose may say: Time reported Nationalists killed four policemen at Jayuya and Muñoz Marín counted 31 dead across the island; Time's report gives no count for the two towns (DECISIONS #45, the silent document named).
 
+### PATCH 2026-10-27 (T-728): what the Cold War was about; Castle Bravo's power settled
+- **The Soviet Union**, copied from `research/research-economy.md` (glosses line, "Britannica,
+  general reference"): "a large country ruled from Moscow, Russia, from 1922 to 1991, the main
+  rival of the United States in the Cold War."
+- **A communist country**, copied from `research/research-immigration.md` (glosses line,
+  "general definition"): "one ruling party, government ownership of businesses."
+- **Containment.** Office of the Historian, "Kennan and Containment, 1947,"
+  https://history.state.gov/milestones/1945-1952/kennan (read 2026-10-27 with curl):
+  containment was "the basic United States strategy for fighting the cold war (1947–1989) with
+  the Soviet Union"; the United States "should face down the Soviet Union and its Communist
+  allies whenever and wherever they posed a risk of gaining influence"; "containment in the more
+  general sense of blocking the expansion of Soviet influence remained the basic strategy of the
+  United States throughout the cold war," "until the collapse of communism in 1989." (The JFK
+  Library's Cold War page sat behind a Cloudflare check on 2026-10-27.)
+- **Castle Bravo, the figure both chapters use.** The line above gives "15 megatons, about 2.5
+  times the predicted yield of 6 megatons" (Arms Control Association). The war bank's National
+  Security Archive line said "nearly three times"; the same NSA page gives "15 megatons, 1,000
+  times that of the weapon that destroyed Hiroshima and nearly three times the six megatons that
+  its planners estimated," and 15 divided by 6 is 2.5. **Both chapters now say two and a half
+  times what its planners expected.** `war` tells the fallout in full; this chapter keeps the
+  trust territory, the 67 tests, the 64 people on Rongelap, the move off the island and Project
+  4.1, and points to Chapter 22.
+
 ---
 
 ## ERA 10 — 2000 to Today (current through 2026)
@@ -1918,6 +2067,22 @@ was read directly on 2026-09-27. Sources as named there:
   as killed in Iran as of April 7, including **1,701 civilians**." Search summaries give
   later and different counts (Iran's Health Ministry: at least 2,362 civilians; JINSA:
   3,724 or more) **(search summary only)**. Give HRANA's dated count.
+
+### PATCH 2026-10-27 (T-728): the Iraq date and the Maduro charges, made to agree with `war`
+- **Iraq.** `research/research-war.md` 10.1: Operation Iraqi Freedom began "March 19, 2003 (CRS;
+  March 20 in Iraq)." This bank's March 20 is the date in Iraq. **Both chapters say March 20,
+  2003.**
+- **Maduro**, copied from `research/research-war.md` (T-728 PATCH; Council on Foreign Relations,
+  "A Guide to Maduro's Capture and Venezuela's Uncertain Future," 8 January 2026): "A
+  twenty-five-page indictment [PDF] released on January 4" (the day after the raid) and "He and
+  his wife pleaded not guilty in court on January 5." Brookings (above) calls it a capture "under
+  narco-terrorism charges." **Both chapters say only that the charges were made public the day
+  after the raid; neither says when they were first filed.**
+- **Telling each once.** `war` (Chapter 22) tells the boat strikes, the Trinidad lawsuit, the
+  Maduro raid and the American dead in Iran in full, and gives the Costs of War totals and the
+  Lancet survey. This chapter keeps the Iraq counting dispute (Iraq Body Count, the Lancet, the WHO
+  survey), the Iranian dead (HRANA), and the point that Congress did not approve the raid, and it
+  points to Chapter 22 for the rest.
 
 ## Sources used (era 06–10 half)
 

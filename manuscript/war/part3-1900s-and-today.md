@@ -14,15 +14,17 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 23 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 24 minutes**
 
 Most of the Americans who fought in the two world wars were drafted. World War II was the first American war in which more of them died in battle than of disease, accidents and infections.
+
+**Who they fought.** Members of Congress declared war on Germany in April 1917. German submarines had sunk American ships, and German officials had tried to draw Mexico into an alliance against the United States. American soldiers then fought on the side of the Allies, the countries already at war with Germany, among them Britain. In World War II the United States fought Japan, Germany and Italy, after Japanese pilots attacked Pearl Harbor in December 1941 and Germany and Italy declared war four days later.
 
 **The two wars.** About 4.7 million Americans served in World War I, from 1917 to 1918, and 116,516 died, more of them of disease and accidents than in battle. More than 16 million served in World War II and 405,399 died, in counts that run from 1941 to 1946. These are the Defense Department's counts.
 
 **The draft.** In World War I, 2.8 million men were drafted, which means they were ordered into the armed forces by law, and 2 million volunteered. In World War II about 10 million of the 16 million who served were drafted.
 
-Military leaders kept Black service members in separate units until after President Harry Truman ordered equal treatment in 1948, and nearly every unit was mixed by about 1953. In 1945, American airmen dropped the first two atomic bombs used in war, on two cities in Japan.
+Military leaders kept Black service members in separate units until after President Harry Truman ordered equal treatment in 1948, and nearly every unit was mixed by about 1953. In 1945, American airmen dropped the first two atomic bombs used in war, on two cities in Japan. An atomic bomb gets its huge power from the tiny centers of atoms. One bomb could kill tens of thousands of people, and unlike other bombs it also gave off radiation, invisible energy that sickened and killed people for weeks afterward.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What was the water cure?" -->
@@ -226,11 +228,11 @@ President Franklin Roosevelt signed the G.I. Bill on June 22, 1944. Under it, fe
 
 **Who got the loans.** Local white bank officers and real estate agents decided who got the loans. Reporters at *Ebony* magazine found in 1947 that of 3,229 of these home loans in 13 Mississippi cities, only two went to Black veterans.
 
-**Isaac Woodard.** Sergeant Isaac Woodard, of Winnsboro, South Carolina, left the Army on February 12, 1946, after four years of service. On the bus home from Camp Gordon, Georgia, he argued with the driver after asking for a rest stop. At Batesburg, South Carolina, the driver had police take him off the bus.
+**Isaac Woodard.** Police in South Carolina beat a Black veteran blind on the day he left the Army. Sergeant Isaac Woodard, of Winnsboro, South Carolina, left the Army on February 12, 1946, after four years of service. On the bus home from Camp Gordon, Georgia, he argued with the driver after asking for a rest stop. At Batesburg, South Carolina, the driver had police take him off the bus.
 
 Woodard said that Police Chief Lynwood Shull and Officer Elliot Long beat him with blackjacks, which are short clubs, and tried to gouge out his eyes. Shull later said, "I hit him across the front of the head." A local judge fined Woodard $50. Doctors at the veterans' hospital in Aiken found bleeding in both eyeballs. He was blind for the rest of his life.
 
-Federal officials charged Shull with violating Woodard's civil rights. In November 1946, an all-white jury found Shull not guilty after thirty minutes.
+Federal officials charged Shull with violating Woodard's civil rights. In November 1946, an all-white jury found Shull not guilty after thirty minutes. Chapter 25, Rights and Movements, tells how his case reached President Truman.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
@@ -244,7 +246,7 @@ Federal officials charged Shull with violating Woodard's civil rights. In Novemb
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 14 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 15 minutes**
 
 American forces fought two long wars in Asia between 1950 and 2000, in Korea and in Vietnam. Drafted men fought in Vietnam until the draft ended in 1973, and after that everyone who joined the armed forces had volunteered.
 
@@ -266,15 +268,17 @@ By the Korean War Legacy Foundation's count, 38 percent of the Americans taken p
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The hydrogen bomb tests, 1952 and 1954" -->
-American scientists and military officers tested nuclear weapons, bombs that get their huge power from the tiny centers of atoms, in the Marshall Islands, in the Pacific, on the land of the Marshallese people.
+Radioactive dust from American bomb tests after World War II sickened people who were not at war: Marshall Islanders, American service members and Japanese fishermen. American scientists and military officers tested nuclear weapons, the atomic bombs and the stronger bombs that came after them, in the Marshall Islands, in the Pacific, on the land of the Marshallese people.
 
 **The first hydrogen bomb.** American scientists set off the first hydrogen bomb, a far more powerful kind of nuclear weapon, on Elugelab Island in Enewetak Atoll, a ring of small coral islands around a lagoon, on November 1, 1952. It was more than 450 times as powerful as the bomb dropped on Nagasaki. It destroyed the island and left an underwater crater 6,240 feet wide.
 
-**Castle Bravo.** The test called Castle Bravo, at Bikini Atoll on March 1, 1954, was nearly three times as powerful as its designers expected. A cloud 100 miles wide dropped fallout on Marshall Islanders, American service members, and the crew of a Japanese fishing boat. Fallout is radioactive dust and ash that falls back to the ground after a nuclear blast. It burns the skin it lands on and damages the body from inside when it is breathed in or swallowed.
+**Castle Bravo.** The test called Castle Bravo, at Bikini Atoll on March 1, 1954, was 1,000 times as powerful as the bomb dropped on Hiroshima, and two and a half times as powerful as its planners expected. A cloud 100 miles wide dropped fallout on Marshall Islanders, American service members, and the crew of a Japanese fishing boat. Fallout is radioactive dust and ash that falls back to the ground after a nuclear blast. It burns the skin it lands on and damages the body from inside when it is breathed in or swallowed.
 
-On Rongelap, about 110 miles away, the fallout looked like snow, and children played in it. About three days after the blast, American crews took more than 230 people off Rongelap, Rongerik and Utirik, among them 28 American service members. The fallout left Rongelap unsafe to live on.
+The military had made no plans to move the people living nearby. On Rongelap, about 110 miles away, the fallout looked like snow, and children played in it. About three days after the blast, American crews took more than 230 people off Rongelap, Rongerik and Utirik, among them 28 American service members. The fallout left Rongelap unsafe to live on.
 
-Twenty-three Japanese fishermen became sick, and one died. Later studies found 57 cases of thyroid cancer, a cancer of a gland in the neck, among Marshallese people born before 1954. The physicist Theodore Taylor said later, "obviously we didn't irradiate the natives on purpose. Obviously, we didn't know what the hell we were doing."
+Twenty-three Japanese fishermen became sick, and one died. The physicist Theodore Taylor said later, "obviously we didn't irradiate (expose to radiation) the natives on purpose. Obviously, we didn't know what the hell we were doing."
+
+**What followed.** American officials made the exposed Marshall Islanders the subjects of a secret medical study called Project 4.1. They told the people working on it not to discuss its purpose, "due to possible adverse public reaction," meaning for fear of how the public would react. The United States later gave the exposed people medical care. A screening from 1993 to 1997 found 57 cases of thyroid cancer, a cancer of a gland in the neck, among Marshallese people born before 1954.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The war in Vietnam, and who had to go" -->
@@ -404,15 +408,17 @@ Every American who fought in the wars after the attacks of September 11, 2001, h
 
 Far more people in those countries died. Researchers in the Costs of War project at Brown University study the wars after 9/11 in Iraq, Afghanistan, Syria, Yemen and Pakistan. They estimate that more than 940,000 people in those countries were killed in the fighting itself from 2001 to 2023, and more than 432,000 of them were civilians. They estimate that 3.6 to 3.8 million more died because of what the fighting destroyed: the ways people earned a living, hospitals and health care, roads and water systems, and the land.
 
-Counts of the Iraqi civilian dead differ widely. A 2006 survey published in the medical journal *The Lancet* estimated about 600,000 violent deaths, and US and Iraqi officials disputed it.
+Counts of the Iraqi civilian dead differ widely. A 2006 survey published in the medical journal *The Lancet* estimated about 600,000 violent deaths, and US and Iraqi officials disputed it. Chapter 23, America and the World, explains why the counts are so far apart.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Afghanistan and Iraq, 2001 to 2021" -->
-American bombing of Afghanistan began on October 7, 2001, less than a month after the September 11 attacks. The invasion of Iraq began on March 19, 2003. The last line of American military vehicles, carrying about 500 troops, left Iraq for Kuwait on December 18, 2011.
+American bombing of Afghanistan began on October 7, 2001, less than a month after the September 11 attacks. The invasion of Iraq began on March 20, 2003. The last line of American military vehicles, carrying about 500 troops, left Iraq for Kuwait on December 18, 2011.
 
-**Abbey Gate.** The last American plane left Kabul, Afghanistan's capital, at 11:59 p.m. on August 30, 2021. Four days earlier, a bomber from a terror group called ISIS-K set off explosives he was wearing in a crowd at Abbey Gate, an entrance to the Kabul airport. He killed 13 American service members: 11 Marines, a Navy medic and an Army soldier. Another 45 were wounded. US Justice Department officials said in 2025 that about 160 Afghan civilians were killed, and other reports say about 170.
+**Leaving Afghanistan.** American officials signed a deal with the Taliban in February 2020 and agreed to take American troops out of Afghanistan. The Taliban were the armed group American forces had fought there since 2001. President Joe Biden announced in April 2021 that the last of them would be out by September. Taliban fighters took Kabul, Afghanistan's capital, on August 15, 2021, and several thousand more American troops came to the airport to fly American embassy staff and some Afghans out.
 
-**The drone strike.** Three days after the Abbey Gate bombing, on August 29, 2021, American forces fired a missile from a drone, an aircraft with no pilot aboard, at a car in Kabul. Officers believed it carried an ISIS-K bomb. The driver was Zemari Ahmadi, a 43-year-old aid worker, and the car was at his family's home. The missile killed ten civilians, seven of them children.
+**Abbey Gate.** A bomber from ISIS-K, a terror group in Afghanistan that was also fighting the Taliban, set off explosives he was wearing in a crowd at Abbey Gate, an entrance to the Kabul airport, on August 26. He killed 13 American service members: 11 Marines, a Navy medic and an Army soldier. Another 45 were wounded. US Justice Department officials said in 2025 that about 160 Afghan civilians were killed, and other reports say about 170.
+
+**The drone strike.** Three days after the Abbey Gate bombing, on August 29, 2021, American forces fired a missile from a drone, an aircraft with no pilot aboard, at a car in Kabul. Officers believed it carried an ISIS-K bomb. The driver was Zemari Ahmadi, a 43-year-old aid worker, and the car was at his family's home. The missile killed ten civilians, seven of them children. The next night, at 11:59 p.m. on August 30, the last American plane left Kabul.
 
 General Mark Milley first called it a "righteous strike." On September 17, 2021, General Frank McKenzie, the head of the military's Central Command, called it "a tragic mistake." On December 13, 2021, Defense Secretary Lloyd Austin decided that no one would be punished.
 <!-- /hb-zoom -->
@@ -484,9 +490,9 @@ She was an assistant secretary of Veterans Affairs from 2009 to 2011. Illinois v
 
 A few weeks later a judge of a lower court extended that protection to all transgender troops then serving, about 4,240 people by the count of the Gender Justice League, a group that works for transgender people's rights. New people were still not allowed to join. On August 28, 2026, Justice Department lawyers asked the Supreme Court to lift the lower court's order.
 
-**The Wounded Knee medals.** Soldiers of the 7th Cavalry killed between 250 and 300 Lakota people at Wounded Knee in 1890, almost half of them women and children. Twenty of those soldiers received the Medal of Honor. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
+**The Wounded Knee medals.** Twenty soldiers of the 7th Cavalry received the Medal of Honor for Wounded Knee in 1890, where soldiers of the regiment killed between 250 and 300 Lakota people, almost half of them women and children. Defense Secretary Lloyd Austin ordered a review of those medals in 2024. In September 2025, Defense Secretary Pete Hegseth announced that the soldiers would keep them. A bill called the Remove the Stain Act, which would take the medals back, had not passed as of September 2026.
 
-President Trump signed an order on September 5, 2025, letting officials call the Defense Department the "Department of War." Members of Congress set its legal name. Members of the House voted 216 to 212 on July 22, 2026, to change the legal name, but as of late September 2026 the change had not become law.
+**The department's name.** President Trump signed an order on September 5, 2025, letting officials call the Defense Department the "Department of War." Members of Congress set its legal name. Members of the House voted 216 to 212 on July 22, 2026, to change the legal name, but as of late September 2026 the change had not become law.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="2025 and 2026: boats, Venezuela and Iran" -->
@@ -494,11 +500,11 @@ US military crews began firing on boats in the Caribbean Sea and the eastern Pac
 
 Lawyers for the American Civil Liberties Union are suing for the families of two men from Trinidad, Chad Joseph and Rishi Samaroo, who were killed in a strike on October 14, 2025. The group says they were fishermen and farm workers.
 
-**Maduro.** Soldiers of the Army's Delta Force and officers of the CIA, the American spy agency, captured Venezuela's president, Nicolás Maduro, and his wife, Cilia Flores, in the capital, Caracas, on January 3, 2026. They flew the two to a Navy ship, the USS *Iwo Jima*, and then took them to New York. There federal officials charged them with crimes tied to smuggling drugs, and both said they were not guilty.
+**Maduro.** Soldiers of the Army's Delta Force and officers of the CIA, the American spy agency, captured Venezuela's president, Nicolás Maduro, and his wife, Cilia Flores, in the capital, Caracas, on January 3, 2026. They flew the two to a Navy ship, the USS *Iwo Jima*, and then took them to New York. The next day federal officials made public the charges against them, crimes tied to smuggling drugs. On January 5, in a federal court in New York, both said they were not guilty.
 
 By the Council on Foreign Relations' account, American forces killed 32 Cuban officers in the attack. Members of Congress had not voted to approve the raid beforehand.
 
-**Iran.** American and Israeli forces began bombing Iran on February 28, 2026, and Iranian forces fired back at American troops. By the Pentagon's public count on September 22, 2026, 19 American service members had died and more than 820 had been wounded. Five officials told the *Washington Post* that at least 22 service members had died in the Middle East since the war began, not all of them in the fighting. The war was still going on in late September 2026.
+**Iran.** American and Israeli forces began bombing Iran on February 28, 2026, and Iranian forces fired back at American troops. By the Pentagon's public count on September 22, 2026, 19 American service members had died and more than 820 had been wounded. Five officials told the *Washington Post* that at least 22 service members had died in the Middle East since the war began, not all of them in the fighting. Chapter 23 gives a count of the people killed in Iran. The war was still going on in late September 2026.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
@@ -507,7 +513,7 @@ By the Council on Foreign Relations' account, American forces killed 32 Cuban of
 - Who was made to fight, and who could get out of it? Drafts filled the armies of the Civil War, both world wars and Vietnam. In 1863 a drafted man could pay $300 and go home, and in the Vietnam years college students could put off the draft. Since 1973 everyone who serves has volunteered.
 - Were soldiers who killed people who could not fight back ever punished? Rarely. No one was charged for Gnadenhutten or tried for Sand Creek, and Calley, the only man convicted for My Lai, went free on parole in 1974.
 
-**What changed:** The fighters changed from farmers called out for a few weeks, to millions of drafted men in the world wars, to a small army of volunteers, about one American in 200.
+**What changed:** The fighters changed from militia farmers, who went home when the fighting ended, to millions of drafted men in the world wars, to a small army of volunteers, about one American in 200.
 
 **Five dates to keep**
 - May 26, 1637: English soldiers burn the Pequot town at Mystic.
@@ -516,7 +522,7 @@ By the Council on Foreign Relations' account, American forces killed 32 Cuban of
 - August 6, 1945: An American bomber crew drops an atomic bomb on Hiroshima.
 - June 30, 1973: The law allowing the draft runs out.
 
-**Not known:** Nobody knows how many of the as many as 200,000 Filipino civilians who died from 1899 to 1902 were killed by American soldiers.
+**Not known:** Nobody knows how many Filipino civilians died in the war of 1899 to 1902, where the counts run from 200,000 to 1,000,000, or how many of them American soldiers killed.
 
 **Where to go:** The Amos Humiston monument stands on North Stratton Street in Gettysburg, Pennsylvania, the only one on the battlefield to a single enlisted soldier.
 

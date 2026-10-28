@@ -14,20 +14,20 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 22 of 37 · War and the Military · 10 eras · about 130 minutes**
+**Chapter 22 of 37 · War and the Military · 10 eras · about 135 minutes**
 
-**Far more people have died in the wars on this land than the soldiers who fell in battle: until World War II sickness killed more American soldiers than weapons did, and in almost every war soldiers killed people who could not fight back.**
+**Until World War II, sickness killed more American soldiers than weapons did. In almost every war, at home and abroad, soldiers also killed people who could not fight back.**
 
-A small photograph on glass, of three young children, was the only thing a dead Union sergeant carried at Gettysburg. He was killed on July 1, 1863, and buried as an unknown soldier. A doctor had copies of the photograph made, and that October the *Philadelphia Inquirer* printed the story under the headline "Whose Father Was He?" His wife, Philinda, saw a copy and knew her children. He was Amos Humiston. Without the photograph his grave would read "Unknown," like 979 others in the same cemetery.
+A small photograph on glass, of three young children, was the only thing Sergeant Amos Humiston had on him when he was killed at Gettysburg on July 1, 1863. The 1850 to 1900 era tells how that picture reached his wife. In his war, about five soldiers died of disease for every three who were killed in battle like him.
 
-This chapter follows the wars fought on this land in order, from a town on the Missouri River destroyed about 1325 to the war with Iran that began in 2026. As you read, keep three things in view: what killed the soldiers, who was made to go, and what happened to soldiers who killed people who could not fight back. For most of this history, typhoid, dysentery and the flu killed more soldiers than bullets did. In the Civil War a drafted man could pay $300 and go home. The men who burned towns and shot prisoners were rarely punished, though a few people stood in their way, like the helicopter pilot Hugh Thompson at My Lai.
+This chapter follows, in order, the wars fought on this land and then the wars American soldiers fought overseas, from a town on the Missouri River destroyed about 1325 to the war with Iran that began in 2026. As you read, keep three things in view: what killed the soldiers, who was made to go, and what happened to soldiers who killed people who could not fight back. For most of this history, the flu killed more soldiers than bullets did, and so did typhoid and dysentery, infections spread by dirty water and food. In the Civil War a drafted man, one ordered into the army by law, could pay $300 and go home. The men who burned towns and shot prisoners were rarely punished, though a few people stood in their way, like the helicopter pilot Hugh Thompson at My Lai.
 
 **Three questions this chapter answers**
 - What killed most American soldiers before World War II?
 - Who was made to fight, and who could get out of it?
 - Were soldiers who killed people who could not fight back ever punished?
 
-**Five minutes?** Read "The Mexican War, 1846 to 1848" in 1800 to 1850.
+**Five minutes?** Read "The Mexican War, 1846 to 1848" in 1800 to 1850 and "Who had to fight in the Civil War?" in 1850 to 1900.
 **Can skip:** "Louisbourg, 1745", "The forts that were destroyed, 1568 and 1586", "The Bonus Army, 1932". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -88,9 +88,9 @@ The National Park Service's page on de Soto states what his men did to towns tha
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="How the battle at Mabila began" -->
-The battle at Mabila began when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila was a town with a palisade around it, and its leader was a man the Spanish called Tascalusa. The date was October 18, 1540.
+De Soto's army reached Mabila, a town with a palisade around it, in October 1540, a year and a half before de Soto died. The battle there began on October 18, when a Spanish officer decided that a Mabila man had not shown him enough respect. The argument ended with the officer cutting off the man's arm. An article at HistoryNet, a history magazine website, names the officer as Captain Baltasar de Gallegos. Mabila's leader was a man the Spanish called Tascalusa.
 
-The battle lasted about nine hours. At the end the Spanish burned the town while people were still inside it. The expedition's own record-keeper wrote, "We killed them all either with fire or the sword."
+The battle lasted about nine hours. At the end de Soto's soldiers burned the town while people were still inside it. The army's own record-keeper wrote, "We killed them all either with fire or the sword."
 
 The counts of the dead do not agree. The National Park Service's page lists more than 200 Spanish dead and about 2,000 people of Mabila. A University of Alabama news report states about 20 Spanish killed and 250 wounded, with thousands of Mabila dead. Searchers from the University of Alabama have looked for the town, and no one has ever found where Mabila stood.
 <!-- /hb-zoom -->
@@ -124,7 +124,7 @@ An inlet south of St. Augustine, in Florida, has been called Matanzas, the Spani
 
 **Fort Caroline.** About 200 French colonists built Fort Caroline near present-day Jacksonville in 1564. They were Huguenots, French members of the Protestant churches, which had broken away from the Catholic Church, the church led by the pope in Rome. The land belonged to the Timucua, who had lived in northern Florida for at least 1,000 years. King Philip II of Spain claimed Florida, and he was Catholic.
 
-The Spanish founded St. Augustine, farther south, on September 8, 1565. Twelve days later their commander, Pedro Menéndez de Avilés, marched 500 soldiers overland and attacked Fort Caroline at dawn. His men killed most of the settlers they found. In his own letter to the king, Menéndez counted 132 people at the fort whose throats his men cut, and 10 more killed the next day. He spared about 50 women and children and sent them by ship to Havana, in Cuba.
+The Spanish founded St. Augustine, farther south, on September 8, 1565. Twelve days later their commander, Pedro Menéndez de Avilés, marched 500 soldiers overland and attacked Fort Caroline at dawn. His men killed most of the settlers they found. In his own letter to the king, Menéndez counted 132 men at the fort whose throats his soldiers cut, and 10 more killed the next day. He spared about 50 women and children and sent them by ship to Havana, in Cuba.
 
 **At the inlet.** A hurricane had already wrecked the French ships. About 127 French survivors came ashore at the inlet with no food and no weapons, and they surrendered to Menéndez. He told them to give up their Protestant faith. They refused, and his soldiers killed 111 of them.
 
@@ -202,11 +202,13 @@ A National Park Service article calls it one of the deadliest wars in American h
 
 English judges at Plymouth tried three Wampanoag men for his murder on June 1, 1675, before an all-English jury. Six Native men sat with the jury to advise it. Plymouth's officials hanged two of them, Tobias and Mattashunannamo, on June 8. They held back the third, Wampapaquan, for a month and then shot him to death. The fighting began that June at the English town of Swansea.
 
-**The swamp fort.** About 1,000 English soldiers attacked a fortified Narragansett winter village in a frozen swamp in Rhode Island on December 19, 1675. About 1,000 Narragansett men, women and children were living there. Governor Winslow of Plymouth and two majors, from Massachusetts and Connecticut, led the soldiers of their colonies.
+**The swamp fort.** When the war began, Metacom sent the old men, women and children of the Wampanoag across Narragansett Bay to live with the Narragansett. The Narragansett stayed out of the fighting. In October 1675 their leaders promised Massachusetts Bay in a treaty that they would not join Metacom. The leaders in Boston then demanded that the Narragansett hand over the Wampanoag who had fled to them, as hostages. The Narragansett refused.
+
+Leaders of the English colonies feared the two nations would join together. About 1,000 English soldiers attacked a fortified Narragansett winter village in a frozen swamp in Rhode Island on December 19, 1675. About 1,000 Narragansett men, women and children were living there. Governor Winslow of Plymouth and two majors, from Massachusetts and Connecticut, led the soldiers of their colonies.
 
 The soldiers took the fort and burned every house in it. The National Park Service counts 300 Narragansett men and almost 400 women and children killed. James Oliver, an English officer, wrote that the English lost about 68 dead and 150 wounded.
 
-Native fighters struck back across New England. By one count, they attacked 52 of the 90 English towns and burned 17 of them to the ground. Narragansett fighters came to Providence in late March 1676. Roger Williams of Providence tried to bargain with them, and they turned him down and burned the town.
+After the attack, the Narragansett joined Metacom, and Native fighters struck back across New England. By one count, they attacked 52 of the 90 English towns and burned 17 of them to the ground. Narragansett fighters came to Providence in late March 1676. Roger Williams of Providence tried to bargain with them, and they turned him down and burned the town.
 
 A Native man fighting with the colonists shot Metacom dead at Mount Hope on August 12, 1676. The colonists put his head on display at Plymouth. They sold his wife and his nine-year-old son into slavery.
 <!-- /hb-zoom -->
@@ -214,7 +216,7 @@ A Native man fighting with the colonists shot Metacom dead at Mount Hope on Augu
 <!-- hb-zoom level="span" label="What happened on Deer Island?" -->
 Massachusetts Bay's leaders held Christian Native people, who were allies of the English, on Deer Island in Boston Harbor through the winter of 1675, and many of them starved. The leaders moved them there that autumn because they did not trust them. The first were Nipmuc people from the town that is now South Natick. Between 500 and 1,100 people were held there, most of them women and children, with little shelter and too little food.
 
-The colonists let the survivors go in May 1676. A National Park Service page states that very few survived. Mass Humanities, a history group, states that about half of some 900 people held there died of hunger and cold.
+The colonists let the survivors go in May 1676. The two counts of the dead do not agree. Mass Humanities, a history group, states that about half of some 900 people held there died of hunger and cold. A National Park Service page states that very few survived, so by its account most of them died.
 
 Some people were smuggled off the island and sold as slaves in the West Indies, the islands of the Caribbean, or in Tangier, in North Africa. The National Park Service page gives no number and does not name the men who sold them. Massachusetts colonists also put about 45 Native people to death in public on Boston Common.
 
@@ -267,9 +269,9 @@ Mary Brooks, a young woman, told Williams that her falls on the ice had caused a
 
 **The raiders took him, his wife and five of their children.**
 
-Soon after the march began, at the Green River in what is now Greenfield, Massachusetts, Eunice Mather Williams fell while crossing and went under the icy water. She walked on a short way. At the foot of a mountain, the man who had taken her captive killed her with one blow of a hatchet. Williams did not record his name.
+Soon after the march began, at the Green River in what is now Greenfield, Massachusetts, his wife, Eunice Mather Williams, fell while crossing and went under the icy water. She walked on a short way. At the foot of a mountain, the man who had taken her captive killed her with one blow of a hatchet. Williams did not record his name.
 
-Williams and four of his children came home. His daughter Eunice did not. He returned late in 1706 and preached about his captivity in Boston on December 5 that year, and in 1707 he went back to his church in Deerfield.
+Williams and four of his children came home. His daughter Eunice, who was seven when the raiders took her, did not. He returned late in 1706 and preached about his captivity in Boston on December 5 that year, and in 1707 he went back to his church in Deerfield.
 
 His book about the raid and the march, *The Redeemed Captive Returning to Zion*, was printed in seven editions before 1795.
 <!-- hb-story:end slug="john-williams-deerfield" -->
@@ -376,11 +378,13 @@ That June, the delegates, or representatives, from the thirteen colonies who met
 
 **Who had to serve.** Under the rules of the time, the delegates in Congress had no power to draft anyone, which means to order a person into the army by law. So in 1778 they asked each state to draft men from its militia for one year in the Continental Army. Officials in some states drafted more men than others, and the army stayed short of men. A drafted man could pay someone else to go in his place.
 
-Enslaved men could not serve in the militia at all, because lawmakers in the colonies and the states wrote laws that kept them out. Pennsylvania lawmakers made Quakers, whose religion forbids fighting, pay a fine if they would not join the volunteer militia companies called Associations. The fine matched the value of the time a man would have spent drilling, practicing marching and handling weapons with his company. Officials took property from Quakers who refused to pay.
+Lawmakers in the colonies and the states wrote laws that kept enslaved men out of the militia. That ban covered the militia, not the Continental Army, where about 7,000 Black men served.
 
-**Saratoga and Yorktown.** General John Burgoyne surrendered his army of 5,895 British and German soldiers to General Horatio Gates at Saratoga, New York, on October 17, 1777.
+Pennsylvania lawmakers made Quakers, whose religion forbids fighting, pay a fine if they would not join the volunteer militia companies called Associations. The fine matched the value of the time a man would have spent drilling, practicing marching and handling weapons with his company. Officials took property from Quakers who refused to pay.
 
-Four years later, Washington and the French general Rochambeau led about 17,000 American and French soldiers to Yorktown, Virginia. There they surrounded the British general Charles Cornwallis, while a French fleet held the sea behind him. About 8,000 British soldiers surrendered there on October 19, 1781.
+**Saratoga and Yorktown.** The British general John Burgoyne surrendered his army of 5,895 British and German soldiers at Saratoga, New York, on October 17, 1777. When the news reached France that December, the French foreign minister decided to make an alliance with the United States.
+
+Four years later, Washington and the French general Rochambeau led about 17,000 American and French soldiers to Yorktown, Virginia. They surrounded the British general Charles Cornwallis there, while a French fleet held the sea behind him. About 8,000 British soldiers surrendered on October 19, 1781. It was the last big land battle of the war. When the news reached London, the British prime minister, Lord North, said, "Oh God. It is all over." The peace talks that followed ended with the Treaty of Paris in 1783.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox and Valley Forge" -->

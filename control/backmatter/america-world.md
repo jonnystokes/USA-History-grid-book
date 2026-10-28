@@ -9,8 +9,6 @@
 - league: a measure of distance, 370 leagues being about 1,185 miles (Before 1500)
 - Protestants: Christians who had broken away from the Catholic Church (The 1500s)
 - inlet: a narrow arm of the sea that reaches into the land (The 1500s)
-- put to the knife: stabbed to death (The 1500s)
-- caulkers: men who sealed the seams of a ship so water could not get in (The 1500s)
 - Matanzas: the Spanish word for slaughters (The 1500s)
 - ambassador: an official sent to live in another country and speak for their own (The 1600s)
 - Parliament: England's lawmakers in London (The 1600s)
@@ -38,7 +36,7 @@
 - Royal Proclamation: the British king's order of 1763 that set aside much of the western land for Native nations (1750 to 1800)
 - Barbary states: Algiers, Tunis, Tripoli and Morocco, states on the coast of North Africa (1750 to 1800)
 - Dey: the ruler of Algiers (1750 to 1800)
-- consul: an official who looks after his country's trade and citizens in a foreign port (1750 to 1800)
+- consul: an official who looks after his country's trade and citizens in another country (1750 to 1800)
 - bastinado: a punishment in which men threw a person down, tied him and beat the soles of his bare feet with sticks. Cathcart took 28 blows and lost four toenails (1750 to 1800)
 - plague: a disease that spread quickly and killed many people (1750 to 1800)
 - dispatches: official letters for a government (1750 to 1800)
@@ -80,7 +78,7 @@
 - epidemic: an outbreak of a disease (1850 to 1900)
 - reconcentration: forcing civilians out of their homes into camps or zones that soldiers guarded (1850 to 1900)
 - guerrillas: fighters in small bands who hide among the people and attack by surprise (1850 to 1900)
-- water cure: a torture in which soldiers held a prisoner's throat so he had to swallow water until it filled his stomach, then forced the water out by pressing on his stomach (1850 to 1900)
+- water cure: a torture in which soldiers forced water into a prisoner until his stomach swelled and then pressed it out of him (1850 to 1900)
 - Katipunan: a secret society fighting Spanish rule in the Philippines (1850 to 1900)
 - tripartite: three-sided (1850 to 1900)
 - court-martial: a trial in a military court (1900 to 1950)
@@ -107,6 +105,9 @@
 - concentration camps: camps where soldiers held civilians under guard (1900 to 1950)
 - NATO: the North Atlantic Treaty Organization, a military alliance (1900 to 1950)
 - Cold War: the long rivalry between the United States and its allies and the Soviet Union and its allies (1950 to 2000)
+- Soviet Union: a large country ruled from Moscow, in Russia, from 1922 to 1991 (1950 to 2000)
+- communist country: a country where one party rules and the government owns the businesses (1950 to 2000)
+- containment: American leaders' plan, from 1947, to block the spread of Soviet power (1950 to 2000)
 - quarantine: President Kennedy's name for stopping ships carrying weapons to Cuba (1950 to 2000)
 - Peace Corps: a program for American volunteers to serve in other countries (1950 to 2000)
 - coup: a sudden takeover of a government by a small group, often the army (1950 to 2000)
@@ -119,7 +120,6 @@
 - trust territory: islands one country governs for the United Nations, with a duty to look after the people (1950 to 2000)
 - atoll: a ring of small coral islands around a lagoon (1950 to 2000)
 - fallout: the radioactive dust from a nuclear blast (1950 to 2000)
-- megaton: an explosive force equal to a million tons of TNT (1950 to 2000)
 - Atomic Energy Commission: the government agency in charge of nuclear weapons (1950 to 2000)
 - thyroid: a gland in the neck (1950 to 2000)
 - Covenant: a formal agreement, such as the one between the Northern Mariana Islands and the United States (1950 to 2000)
@@ -129,7 +129,6 @@
 - weapons of mass destruction: nuclear, chemical or biological weapons (2000 to Today)
 - World Trade Organization: a group of countries that agree on rules for trade between them (2000 to Today)
 - Paris climate agreement: an agreement in which the governments that join promise to cut the gases that are warming the earth (2000 to Today)
-- Pentagon: the headquarters of the American military (2000 to Today)
 - census: the government's count of everyone who lives in the country and its territories (2000 to Today)
 - naturalization: the process a person from another country uses to become a citizen (2000 to Today)
 - Resident Commissioner: Puerto Rico's delegate in the House, who can speak and work on committees but cannot vote on whether a bill passes (2000 to Today)
@@ -139,7 +138,6 @@
 - free association: being a separate country tied to the United States by a formal agreement, as the Marshall Islands are (2000 to Today)
 - Supplemental Security Income: a federal payment for people with very low incomes who are elderly, blind or disabled (2000 to Today)
 - faʻa Sāmoa: the Samoan way of life, which includes land held in common by families and the matai system of chiefs (2000 to Today)
-- ACLU: a group that defends civil rights in court (2000 to Today)
 
 ## People
 
@@ -193,6 +191,6 @@
 
 ## Questions
 
-- Q: Who got to choose when this land and its islands changed hands? A: Almost never the people who lived there: no Native nation was at Paris in 1783, and no one from Puerto Rico, Guam or the Philippines was at Paris in 1898. Only the people of the Northern Mariana Islands voted to join.
-- Q: How did a weak new country come to rule islands and overthrow governments? A: Its leaders took land across the continent by 1848 and islands in two oceans in 1898, and after 1950 American officials secretly helped overthrow governments in Iran, Guatemala and Chile.
+- Q: Who got to choose when this land and its islands changed hands? A: Almost never the people who lived there: no Native nation was at Paris in 1783, and no one from Puerto Rico, Guam or the Philippines was at Paris in 1898. Of today's five territories, only the Northern Mariana Islands voted to join, and Hawaii's voters chose statehood in 1959 from a ballot that left out independence.
+- Q: How did a weak new country come to rule islands and overthrow governments? A: First it grew: by 1848 it reached the Pacific, and by 1900 its mills made more steel than Britain's and Germany's together. Then its leaders used force. Marines helped overthrow Hawaii's queen in 1893, American leaders took Puerto Rico, Guam and the Philippines after a war with Spain in 1898, and after 1950 CIA officers secretly helped overthrow governments in Iran, Guatemala and Chile.
 - Q: Are the people of the territories American citizens? A: Most are, but people born in American Samoa are nationals, not citizens, and no one living in a territory can vote for president.

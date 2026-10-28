@@ -22,15 +22,9 @@ Workers, most of them from islands in the Caribbean, built the Panama Canal for 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Finishing the war in the Philippines, 1900 to 1902" -->
-American soldiers in the Philippines tortured Filipinos and killed civilians. Of the officers who ordered it, one was suspended for a month and fined, one was scolded and forced to retire, and one went free.
+American soldiers in the Philippines tortured Filipino prisoners and killed civilians. Chapter 22, War and the Military, tells what they did at Igbaras and on Samar in full. Here is what happened in Washington, and to the officers who gave the orders.
 
-**Igbaras.** A group of five or six American soldiers tied up Tobeniano Ealdama, the mayor of Igbaras, on November 27, 1900, and gave him the water cure to make him talk, forcing the water out of his stomach with a foot or with their hands. Captain Edwin F. Glenn, an Army lawyer, directed it, along with a doctor working for the Army. After a second round, Ealdama said he was a captain among the Filipino fighters. That night Glenn ordered the whole town burned, 400 to 500 houses.
-
-**Samar.** Townspeople and Filipino fighters at Balangiga, on the island of Samar, attacked a company of American foot soldiers at breakfast on September 28, 1901. They killed about 48 soldiers, the Army's worst loss in a single fight since the Little Bighorn in 1876.
-
-General Jacob H. Smith gave the orders for the American answer on Samar, and they survive in the record: "I want no prisoners. I wish you to kill and burn." "The more you kill and burn, the better it will please me." He said the inside of Samar "must be made a howling wilderness."
-
-Someone asked Smith how young a target could be. He said any Filipino male over ten, because in his words a boy that age could carry a weapon. On Samar, Marine Major Littleton Waller had eleven Filipino guides and carriers shot without a trial.
+**Igbaras and Samar.** At Igbaras, on November 27, 1900, Captain Edwin F. Glenn, an Army lawyer, and a doctor working for the Army directed the water cure of the town's mayor, Tobeniano Ealdama, until Ealdama said he was a captain among the Filipino fighters. That night Glenn had the town burned. On Samar, townspeople and Filipino fighters at Balangiga killed about 48 American soldiers on September 28, 1901, the Army's worst loss in a single fight since the Little Bighorn. General Jacob H. Smith then ordered, "I want no prisoners. I wish you to kill and burn."
 
 **Disputed:** Counts of the people American troops killed on Samar are far apart. Most estimates fall between 2,000 and 2,500, and a British researcher, Bob Couttie, who studied it for ten years, put it at about 2,500. An American soldier who was there said 39, and other counts reach 5,000. An old figure of 50,000 is now traced to misread documents.
 <!-- /hb-zoom -->
@@ -38,9 +32,11 @@ Someone asked Smith how young a target could be. He said any Filipino male over 
 <!-- hb-zoom level="span" label="What happened to the officers" -->
 The torture came out in the Senate. Senator George Frisbie Hoar asked for an investigation, and Senator Henry Cabot Lodge kept it inside his own Committee on the Philippines. On April 14, 1902, Charles S. Riley, a former sergeant, told the committee what he had seen at Igbaras.
 
-**Glenn.** Secretary of War Elihu Root ordered Glenn court-martialed, tried in a military court. Army officials moved the trial from San Francisco to Catbalogan, in the Philippines, far from the witnesses. The officers on the court found Glenn guilty, suspended him for one month and fined him fifty dollars. He retired in 1919 as a brigadier general. Ealdama was then serving a prison sentence as a "war traitor."
+**Glenn.** Secretary of War Elihu Root ordered Glenn court-martialed, tried in a military court. Army officials moved the trial from San Francisco to Catbalogan, in the Philippines, far from the witnesses. The officers on the court found Glenn guilty, suspended him for one month and fined him fifty dollars. Ealdama, the mayor he had tortured, was then serving a prison sentence as a "war traitor."
 
-**Waller and Smith.** Waller told his court-martial that he had followed Smith's orders, and the officers on the court found him not guilty. Officers at another court-martial found Smith guilty of "conduct to the prejudice of good order and military discipline," behaving in a way that harmed order and discipline in the armed forces. They asked only that he be formally scolded. President Theodore Roosevelt went further and forced Smith to retire, two years before he was due to leave the Army. Smith was not sent to prison.
+**Waller and Smith.** On Samar, Marine Major Littleton Waller had eleven Filipino guides and carriers shot without a trial. He told his court-martial that he had followed Smith's orders, and the officers on the court found him not guilty.
+
+Officers at another court-martial found Smith guilty of "conduct to the prejudice of good order and military discipline," behaving in a way that harmed order and discipline in the armed forces. They asked only that he be formally scolded. President Theodore Roosevelt went further and forced Smith to retire, two years before he was due to leave the Army. Smith was not sent to prison.
 
 **Roosevelt's letter.** In a private letter, Roosevelt called the water cure "the old Filipino method of mild torture" and wrote that "nobody was seriously damaged." In the same letter he also wrote, "torture is not a thing that we can tolerate."
 
@@ -66,7 +62,7 @@ Members of Congress decided, island by island, whether the people of each territ
 
 One month later Americans entered the First World War. Two months after that, Wilson signed the law for the draft, which required young men to serve in the military. Accounts disagree on how many Puerto Ricans were drafted: the figure usually given is about 18,000, and History.com gives 20,000.
 
-**Hawaii and the Virgin Islands.** Hawaii's territorial government was set up under the Hawaiian Organic Act, signed on April 30, 1900. Danish officials agreed in a treaty signed on August 4, 1916, to sell the Danish West Indies to the United States for $25 million in gold. The islands changed hands on March 31, 1917, and became the U.S. Virgin Islands, but members of Congress did not make their people American citizens until 1927.
+**Hawaii and the Virgin Islands.** Hawaii's territorial government was set up under the Hawaiian Organic Act, signed on April 30, 1900. Under the same law, the people who had been citizens of the Republic of Hawaii in August 1898 became American citizens. Danish officials agreed in a treaty signed on August 4, 1916, to sell the Danish West Indies to the United States for $25 million in gold. The islands changed hands on March 31, 1917, and became the U.S. Virgin Islands, but members of Congress did not make their people American citizens until 1927.
 
 **Guam.** Officers of the United States Navy governed Guam from 1899. Its people did not become citizens until President Harry Truman signed the Organic Act of Guam on August 1, 1950, fifty-two years after Navy officers took the island. Under the act, Guam got a government run by civilians and stayed an unincorporated territory.
 
@@ -78,7 +74,9 @@ Filipinos served in the American armed forces in the Second World War, at the ca
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Frenchman who signed for Panama, 1903 to 1914" -->
-American officials backed Panama's break from Colombia in 1903. Philippe-Jean Bunau-Varilla, a Frenchman, signed the Hay-Bunau-Varilla Treaty for Panama on November 18, 1903. Under the treaty American officials got a strip of land 10 miles wide across Panama, forever. Panama got $10,000,000 at once and $250,000 a year, starting nine years later.
+American officials backed Panama's break from Colombia in 1903. President Theodore Roosevelt sent American warships to Panama, and Panama's leaders declared independence on November 3. They at once named Philippe-Jean Bunau-Varilla, a French engineer who had worked on France's failed attempt to dig a canal there, to bargain for them in Washington.
+
+Bunau-Varilla signed the Hay-Bunau-Varilla Treaty for Panama on November 18, 1903, and no Panamanian signed it. Under the treaty American officials got a strip of land 10 miles wide across Panama, forever. Panama got $10,000,000 at once and $250,000 a year, starting nine years later.
 
 **The cost in lives.** The canal opened on August 15, 1914. The official count of the dead during the American building of the canal is 5,609, out of about 56,000 workers, about one worker in ten. Most of the workers came from Barbados, Jamaica and other islands of the Caribbean. The historian Caroline Lieffers, writing for The Conversation, says many historians think the real number was several times higher.
 <!-- /hb-zoom -->
@@ -139,7 +137,7 @@ Accounts give the dead as between 19 and 21 and the wounded as between about 150
 
 In Puerto Rico the usual method of sterilization was tubal ligation, which Puerto Ricans called *la operación*. In it a doctor cut or tied the two tubes that carry eggs from the ovaries to the womb. Some women instead had a hysterectomy, in which a surgeon removed the womb.
 
-**Forced and pressured.** Members of the Eugenics Board forced 97 sterilizations from 1937 until the law was repealed in 1960. Many thousands more women had the operation under pressure. Some women were told, falsely, that it could be undone, or that employers would not hire them unless they were sterilized, and accounts do not name who told them. Employers did favor hiring sterilized women, and hospital staff turned away some pregnant women unless they agreed to be sterilized after giving birth.
+**Forced and pressured.** Members of the Eugenics Board forced 97 sterilizations from 1937 until the law was repealed in 1960. Many thousands more women had the operation under pressure. Some women were told, falsely, that the operation could be undone. Others were told that they would not be hired unless they were sterilized, and employers did favor hiring sterilized women. The accounts do not name who told them these things. Hospital staff turned away some pregnant women unless they agreed to be sterilized after giving birth.
 
 Clarence Gamble, an heir to the Procter and Gamble fortune who believed in eugenics, set up clinics on the island. By 1968 about one Puerto Rican woman in three of childbearing age had been sterilized, and a 1982 study found 41 percent of married women in Puerto Rico sterilized.
 
@@ -154,7 +152,7 @@ The record on consent is mixed. Some women chose the operation because it was th
 
 **Albizu Campos could be drafted but could not vote for president.**
 
-He was an American citizen from Ponce, and the first Puerto Rican to graduate from Harvard Law School.
+Under the 1917 law he was an American citizen, so officials could draft him into the army, but no one living in Puerto Rico could vote for president. He was also the first Puerto Rican to graduate from Harvard Law School.
 
 In the First World War he served in the United States Army and rose to second lieutenant. Army officers assigned him to the 375th Infantry Regiment, which was all Black, because Army leaders kept Black and white soldiers in separate units, a practice called segregation. The segregation he met there shaped his politics.
 
@@ -202,7 +200,7 @@ Three elected governments, in Iran, Guatemala and Chile, were overthrown with se
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What was the Cold War?" -->
-The Cold War was a long rivalry between the United States and its allies on one side and the Soviet Union and its allies on the other. American leaders picked their allies with the rivalry in mind. American troops fought in Korea from 1950 to 1953 and later in Vietnam, as part of this contest.
+The Cold War was a long rivalry between the United States and its allies on one side and the Soviet Union and its allies on the other. The Soviet Union was a large country ruled from Moscow, in Russia, from 1922 to 1991. It was a communist country, which meant that one party ruled it and the government owned the businesses. From 1947 on, American leaders' plan, which they called containment, was to block the spread of Soviet power wherever they saw a risk of it growing.
 
 **The end.** The Berlin Wall, which had divided the city of Berlin, was opened on November 9, 1989. The Soviet Union broke apart on December 26, 1991, and the Cold War was over.
 <!-- /hb-zoom -->
@@ -236,7 +234,7 @@ She was sent to the Godrej Colony, about 30 miles from Mumbai. After she came ho
 <!-- hb-zoom level="span" label="Governments overthrown with American help" -->
 American officials secretly helped overthrow elected governments in Iran, Guatemala and Chile, in coups, sudden takeovers of a government by a small group, often the army.
 
-**Iran, 1953.** Prime Minister Mohammad Mosaddegh had taken control of Iran's oil industry away from British companies. In June 1953 President Dwight Eisenhower approved a secret American and British plan to overthrow him. CIA Director Allen Dulles oversaw the planning for the Central Intelligence Agency, the American government's spy service, and Kermit Roosevelt of the CIA ran the plan in Iran. CIA officers paid journalists, religious leaders and politicians to attack Mosaddegh as corrupt and power-hungry.
+**Iran, 1953.** Prime Minister Mohammad Mosaddegh had taken control of Iran's oil industry away from British companies. In June 1953 President Dwight Eisenhower approved a secret American and British plan to overthrow him. Officers of the Central Intelligence Agency, or CIA, the American government's spy service, carried it out. The CIA's director, Allen Dulles, oversaw the planning, and Kermit Roosevelt, a CIA officer, ran the plan in Iran. CIA officers paid journalists, religious leaders and politicians to attack Mosaddegh as corrupt and power-hungry.
 
 General Fazlollah Zahedi replaced Mosaddegh on August 19, 1953, and the Shah, Iran's king, took back power. The Shah had Mosaddegh convicted of treason. Mosaddegh served three years in prison and lived the rest of his life under house arrest, and officials of the Shah's government put to death one of his advisers and more than a dozen military officers and student leaders on his side. In 2013 CIA officials released the agency's own history, which states that the agency "planned and helped implement the coup."
 
@@ -280,11 +278,9 @@ After the Second World War, members of the United Nations placed more than 2,000
 
 American officials set off 67 nuclear tests between 1946 and 1958 at Bikini and Enewetak, two atolls, rings of small coral islands around a lagoon, in the Marshall Islands. They moved the people off those atolls before the tests.
 
-**Castle Bravo.** The largest test was Castle Bravo, on March 1, 1954. Its explosive force was 15 megatons, equal to 15 million tons of TNT and about two and a half times what its designers had predicted. Fallout, the radioactive dust from the blast, came down on islands where people lived.
+**Castle Bravo.** The largest test was Castle Bravo, on March 1, 1954. It was two and a half times as powerful as its planners expected, and its fallout, the radioactive dust from the blast, came down on islands where people lived. All 64 people on Rongelap, about 110 miles away, took in radiation from it. American officials moved the people of Rongelap and Utirik away about three days after the blast, and Rongelap could no longer be lived on. Chapter 22, War and the Military, tells what the fallout did to them and to a Japanese fishing crew.
 
-On Rongelap, about 110 miles away, the fallout looked like snow, and children played with the flakes. All 64 people on Rongelap took in radiation from it. American officials moved the people of Rongelap and Utirik away about 72 hours after the blast, and Rongelap could no longer be lived on. Twenty-three Japanese fishermen on the boat *Lucky Dragon* were also caught in the fallout, and one of them died.
-
-**The study.** Officials of the Atomic Energy Commission, the government agency in charge of nuclear weapons, then ran a study of the exposed people, called Project 4.1. Radioactive iodine from fallout collects in the thyroid, a gland in the neck. In later years thyroid disease, including thyroid cancer, was the most common lasting harm among the people exposed. A screening from 1993 to 1997 found 57 Marshallese born before 1954 who had thyroid cancer or had had it removed.
+**The study.** Officials of the Atomic Energy Commission, the government agency in charge of nuclear weapons, then ran a study of the exposed people, called Project 4.1. The people in the study lived on islands that the United States governed for the United Nations, with a duty to look after them. Radioactive iodine from fallout collects in the thyroid, a gland in the neck, and in later years thyroid disease, including thyroid cancer, was the most common lasting harm among the people exposed.
 
 **One vote to join.** The people of the Northern Mariana Islands voted to join the United States. Of today's five territories with people living in them, it is the only one whose people voted to come in. A Covenant, a formal agreement, between the islands and the United States was signed on February 15, 1975, and 78.8 percent of the people who voted approved it on June 17, 1975. The Commonwealth of the Northern Mariana Islands began in 1978, and its people became American citizens in 1986.
 
@@ -292,7 +288,7 @@ The Marshall Islands and the Federated States of Micronesia became independent c
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The capital, the canal and an apology" -->
-**The capital.** Washington, D.C. is not a state, and the people living there could not vote for president at all until 1961. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
+**The capital.** Washington, D.C. is not a state either. Until 1961 the people living there could not vote for president at all, just as the people of the territories still cannot. That year lawmakers in enough states ratified, or approved, the Twenty-third Amendment to the Constitution, and it took effect on March 29, 1961.
 
 The city got back a delegate in the House in 1971, one who can speak there but cannot vote on bills. Under the Home Rule Act of 1973, its people elected their own mayor from 1975. Members of Congress passed an amendment in 1978 to give the city full seats in Congress, but lawmakers in too few states approved it, and it ran out of time in 1985.
 
@@ -310,7 +306,7 @@ The resolution states that the overthrow was illegal. In it, members of Congress
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 9 minutes**
+**Era 10 of 10 · 2000 to Today · about 8 minutes**
 
 More than 3.6 million people live in the five American territories with people on them, and none of them can vote for president while living at home. They still live under the Insular Cases. Since 2001 American leaders have sent troops to wars in Afghanistan, Iraq and, in 2026, Iran, and they have argued over trade and over the Paris agreement on climate.
 <!-- /hb-zoom -->
@@ -320,7 +316,7 @@ Nineteen hijackers attacked the United States on September 11, 2001, and killed 
 
 American forces went into Afghanistan on October 7, 2001, and the last American troops left on August 30, 2021. American forces invaded Iraq on March 20, 2003. American leaders said Iraq had weapons of mass destruction, meaning nuclear, chemical or biological weapons. None were found.
 
-**The dead.** Counts of the dead of these wars are far apart. Researchers on the Costs of War project at Brown University count more than 940,000 people killed directly by war violence in Iraq, Afghanistan, Syria, Yemen and Pakistan from 2001 to 2023, more than 432,000 of them civilians. They estimate that another 3.6 to 3.8 million people died from hunger, destroyed hospitals and disease caused by the wars, at least 4.5 to 4.7 million deaths in all.
+**The dead.** Chapter 22, War and the Military, gives the counts of the people killed in these wars.
 
 **Disputed:** For Iraq, counts built from deaths recorded one by one come out much lower than estimates built from surveys of households. Workers at Iraq Body Count, a group that records deaths one at a time, had counted more than 187,000 civilians killed from 2003 to 2024.
 
@@ -336,15 +332,11 @@ The United States has joined and left the Paris climate agreement twice. The gov
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Strikes at sea, Venezuela and Iran, 2025 and 2026" -->
-**Strikes at sea.** American forces began striking boats in the Caribbean Sea and the eastern Pacific Ocean on September 2, 2025. Officials in President Trump's government said the boats were carrying drugs. By September 19, 2026, American forces had killed at least 231 people in 69 strikes, the Associated Press reported, and in at least one strike, military officers gave no evidence that the boat was carrying drugs.
+**Strikes at sea.** From September 2, 2025, American forces fired on boats in the Caribbean Sea and the eastern Pacific Ocean that President Trump's officials said were carrying drugs. By September 19, 2026, they had killed at least 231 people, the Associated Press reported. Chapter 22, War and the Military, tells the strikes in full, with the families who went to court over two of the dead.
 
-American forces killed two men from Trinidad, Chad Joseph and Rishi Samaroo, in a strike on October 14, 2025. Lawyers for the ACLU, a group that defends civil rights in court, are suing for their families, and they say the men were fishermen and farm workers.
+**Venezuela.** American troops captured Venezuela's president, Nicolás Maduro, and his wife in Caracas, Venezuela's capital, on January 3, 2026, and took them to New York to face charges tied to drugs. According to the Brookings Institution, a research group, the raid went ahead without approval from Congress beforehand.
 
-**Venezuela.** American special operations troops captured Venezuela's president, Nicolás Maduro, and his wife on January 3, 2026, and took them out of Caracas, Venezuela's capital. American officials had charged them with crimes involving drugs. According to the Brookings Institution, a research group, the raid went ahead without approval from Congress beforehand.
-
-**Iran.** American and Israeli forces began a war with Iran by bombing it on February 28, 2026. Workers at the Human Rights Activists News Agency, a rights group that tracks Iran, counted 3,636 people killed in Iran by April 7, 2026, and 1,701 of them were civilians.
-
-The public count at the Pentagon, the headquarters of the American military, listed 19 American service members dead and more than 820 wounded on September 22, 2026. That same day, five American officials told the *Washington Post* that at least 22 service members had died in the Middle East since the war began, and a sixth official said 23. Not all of those deaths came from the fighting.
+**Iran.** American and Israeli forces began a war with Iran by bombing it on February 28, 2026. Workers at the Human Rights Activists News Agency, a rights group that tracks Iran, counted 3,636 people killed in Iran by April 7, 2026, and 1,701 of them were civilians. Chapter 22 gives the count of American service members killed.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The territories today" -->
@@ -401,8 +393,8 @@ While Vaello Madero lived in New York, he lawfully received Supplemental Securit
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- Who got to choose when this land and its islands changed hands? Almost never the people who lived there: no Native nation was at Paris in 1783, and no one from Puerto Rico, Guam or the Philippines was at Paris in 1898. Only the people of the Northern Mariana Islands voted to join.
-- How did a weak new country come to rule islands and overthrow governments? Its leaders took land across the continent by 1848 and islands in two oceans in 1898, and after 1950 American officials secretly helped overthrow governments in Iran, Guatemala and Chile.
+- Who got to choose when this land and its islands changed hands? Almost never the people who lived there: no Native nation was at Paris in 1783, and no one from Puerto Rico, Guam or the Philippines was at Paris in 1898. Of today's five territories, only the Northern Mariana Islands voted to join, and Hawaii's voters chose statehood in 1959 from a ballot that left out independence.
+- How did a weak new country come to rule islands and overthrow governments? First it grew: by 1848 it reached the Pacific, and by 1900 its mills made more steel than Britain's and Germany's together. Then its leaders used force. Marines helped overthrow Hawaii's queen in 1893, American leaders took Puerto Rico, Guam and the Philippines after a war with Spain in 1898, and after 1950 CIA officers secretly helped overthrow governments in Iran, Guatemala and Chile.
 - Are the people of the territories American citizens? Most are, but people born in American Samoa are nationals, not citizens, and no one living in a territory can vote for president.
 
 **What changed:** The chapter begins with rulers dividing land they had never seen and ends with a country that began as colonies holding five island territories whose people cannot vote for president.

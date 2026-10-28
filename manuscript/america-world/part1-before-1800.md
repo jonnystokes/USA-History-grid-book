@@ -27,7 +27,7 @@ This chapter follows America's dealings with other countries, from a line drawn 
 - How did a weak new country come to rule islands and overthrow governments?
 - Are the people of the territories American citizens?
 
-**Five minutes?** Read "Hawaii: a kingdom overthrown, 1887 to 1893" in 1850 to 1900.
+**Five minutes?** Read the Hawaii sections of 1850 to 1900, from "Hawaii: a kingdom overthrown, 1887 to 1893" through "21,269 names against annexation, 1897".
 **Can skip:** "Trade laws made in London", "A committee for secret letters, 1775 to 1789", "Perry's warships in Japan, 1853 and 1854", "Trade and the climate agreement". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -40,9 +40,9 @@ Far out in the Pacific Ocean, Polynesian voyagers, people of the many islands of
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="When did people first reach Hawaii?" -->
-Polynesian voyagers were the first people to live on the islands of Hawaii. Scientists using radiocarbon dating, a way of measuring the age of old wood, bone and charcoal, put their landing at about 1000 to 1200.
+Polynesian voyagers were the first people to live on the islands of Hawaii. Scientists using revised radiocarbon dating, a way of measuring the age of old wood, bone and charcoal, now put their landing at about the years 1000 to 1200.
 
-For a long time most archaeologists, scientists who study the past through the things people left behind, put the first landing much earlier, between about the year 300 and the year 750. Some newer studies narrow it to between about 1200 and 1290.
+Older estimates were much earlier. For a long time most archaeologists, scientists who study the past through the things people left behind, put the first landing between about the year 300 and the year 750. Some newer studies put it a little later, between about 1200 and 1290.
 
 Only one early home site in the islands has been dated with confidence, the Bellows Beach site at Waimānalo, on the island of Oʻahu. The argument over the first date is still open.
 <!-- /hb-zoom -->
@@ -60,7 +60,7 @@ Millions of people lived in the Americas, on the land these three rulers had div
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 2 minutes**
+**Era 2 of 10 · The 1500s · about 1 minute**
 
 Kings in Spain, Portugal, France and England claimed land on this side of the ocean from their capitals in Europe. French Protestants, Christians who had broken away from the Catholic Church, built a fort in Florida, on land the king of Spain claimed. Spanish soldiers settled the matter in 1565 by killing hundreds of French soldiers and sailors on the Florida coast. Most of the dead had already surrendered or been captured.
 <!-- /hb-zoom -->
@@ -70,15 +70,9 @@ Fort Caroline, the French fort, stood in the homeland of peoples who spoke the T
 
 **The king's contract.** King Philip II of Spain made a contract in 1565 with Pedro Menéndez de Avilés, a Spanish commander. Under it, Menéndez was to settle Florida and drive the French out of their fort. Menéndez arrived in August. In his own words, he came "to plant the Gospel in these parts," which meant spreading his Catholic faith there.
 
-**The fort.** The French commander, Jean Ribault, was away at sea with his ships, and a storm had scattered them. Menéndez marched about 500 men over land and took Fort Caroline on September 20, 1565. The French officer in charge at the fort escaped into the woods.
+**The killings.** Menéndez's soldiers took Fort Caroline on September 20, 1565. By his own count they cut the throats of 132 men there and killed 10 more the next day, and he sent about 50 women and children by ship to Havana. Timucua people told him where shipwrecked French sailors had come ashore. At that inlet, a narrow arm of the sea south of St. Augustine, his soldiers killed about 245 Frenchmen who had surrendered, among them the French commander, Jean Ribault. Chapter 22, War and the Military, tells the killings in full.
 
-In a letter to King Philip dated October 15, 1565, Menéndez reported that his men cut the throats of 132 men at the fort. The next day they killed ten more, men they had taken prisoner in the woods. Other accounts give other counts: one says about 240 people were at the fort, and some say everyone there was killed.
-
-**The inlet.** Late in September, Timucua people told Menéndez that a group of white men was on the beach south of St. Augustine. They were French sailors whose ships the storm had wrecked. The men surrendered to Menéndez at an inlet, a narrow arm of the sea that reaches into the land. He wrote, "I had their hands tied behind them and put them to the knife," which means his soldiers stabbed them to death.
-
-His men killed 111 of them. Menéndez spared sixteen: twelve sailors from Brittany and four "carpenters and caulkers" he needed, men who sealed the seams of a ship so water could not get in. He wrote that punishing the French this way was "serving God Our Lord, and Your Majesty," because they were Protestants.
-
-More shipwrecked Frenchmen came to the same inlet on October 12, and Menéndez's men killed 134 of them. Jean Ribault was among the dead. He had surrendered with his men before the soldiers killed them. The inlet is still called Matanzas, the Spanish word for slaughters.
+Menéndez wrote to King Philip that punishing the French this way was "serving God Our Lord, and Your Majesty," because they were Protestants. The inlet is still called Matanzas, the Spanish word for slaughters.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -163,9 +157,9 @@ The land came from France. French diplomats signed over three things to Britain:
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Louisbourg, taken in 1745 and given back in 1748" -->
-Almost 3,000 New England troops under Colonel William Pepperrell sailed from Boston on April 4, 1745, to take Louisbourg, a French fortress on Cape Breton Island. A small fleet of British Royal Navy warships joined them. They laid siege to the fortress, surrounding it and cutting it off until the French gave up. The siege lasted 49 days, and the French surrendered on June 17, 1745.
+New England soldiers under Colonel William Pepperrell sailed from Boston on March 24, 1745, to take Louisbourg, a French fortress on Cape Breton Island. With British warships offshore, they laid siege to it, surrounding it and cutting it off, and the French surrendered on June 17, 1745, after 49 days.
 
-**The winter.** French fire killed about 100 New England men during the siege, and about 30 more died of illness. The troops stayed in the broken, dirty fortress through the winter. Between late November 1745 and mid-February 1746 they buried at least 561 of their own men, dead of disease. In June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter.
+**The cost.** Far more of the New Englanders died holding the fortress than taking it. In June 1746 Pepperrell estimated that about 1,200 of his men had died, most of them of disease in the fortress that winter. Chapter 22, War and the Military, tells the siege and that winter in full.
 
 **Given back.** British diplomats gave Louisbourg back to France in 1748, in the Treaty of Aix-la-Chapelle. In exchange French diplomats gave back Madras, a city in India that French forces had taken from Britain. British officials did not ask the colonists, and New Englanders were furious.
 <!-- /hb-zoom -->
@@ -175,7 +169,7 @@ Almost 3,000 New England troops under Colonel William Pepperrell sailed from Bos
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 15 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 16 minutes**
 
 In the middle of their war for independence, American leaders looked in secret for anyone abroad who would help them fight Britain. They started in November 1775. French and American diplomats signed an alliance in 1778, and in 1783 American diplomats in Paris signed the peace that ended the war.
 
@@ -195,7 +189,7 @@ Sultan Mohammed III, the ruler of Morocco, was the first ruler of any country to
 
 His declaration named ships of several other nations too. It was part of his plan to trade in peace with Christian countries, and he did not aim it at the Americans alone.
 
-A treaty with Morocco followed nine years later. The American agent Thomas Barclay signed it at Marrakesh on June 28, 1786, five days after Moroccan officials approved it. Thomas Jefferson signed it in Paris and John Adams in London in January 1787, and delegates to Congress ratified it, giving it final approval, on July 18, 1787.
+A treaty with Morocco followed nine years later. The American agent Thomas Barclay signed it at Marrakesh on June 28, 1786. Thomas Jefferson and John Adams added their signatures in Paris and London, and delegates to Congress ratified it, giving it final approval, in July 1787.
 
 It was the first treaty American officials made with an African country or a Muslim one. Officials of the two countries rewrote parts of it in 1836 (some accounts say 1837), and it is still in force. No other treaty relationship in United States history has lasted as long without a break.
 <!-- /hb-zoom -->
@@ -221,19 +215,19 @@ Spain's leaders took their country into the war against Britain on June 21, 1779
 
 His biographer Walter Isaacson identifies the fur as marten. Franklin wore plain clothes too, and the French took the cap as a sign that he was a plain, rugged American. Augustin de Saint-Aubin made an engraving of Franklin in the cap in 1777, and the print is in the Philadelphia Museum of Art.
 
-Franklin represented the United States in France from December 1776 to May 1785, first as one of the commissioners and then as minister. Delegates to Congress named him Minister Plenipotentiary to France on September 14, 1778, a title meaning he had full power to act for his country there. He presented his credentials, the letters that proved his position, to the French government on March 23, 1779.
+Franklin represented the United States in France from December 1776 to May 1785, first as one of the commissioners and then as minister. Delegates to Congress named him Minister Plenipotentiary to France in 1778, a title meaning he had full power to act for his country there. He presented his credentials, the letters that proved his position, to the French government the next spring.
 
-The delegates also named him minister to Sweden, on September 28, 1782. Franklin never went to Sweden, but he worked out a treaty with it from Paris and signed it on April 3, 1783. In the same years he was one of the three Americans who made the peace with Britain. His mission in France ended on May 17, 1785.
+The delegates also named him minister to Sweden, in 1782. Franklin never went to Sweden, but he worked out a treaty with it from Paris and signed it in April 1783. In the same years he was one of the three Americans who made the peace with Britain. His mission in France ended in May 1785.
 <!-- hb-story:end slug="benjamin-franklin-america-world" -->
 
 <!-- hb-zoom level="span" label="What British diplomats signed away in 1783" -->
 In the Treaty of Paris, British diplomats accepted that the United States was independent. They also handed the United States Britain's claim to land that Native nations lived on.
 
-Benjamin Franklin, John Adams and John Jay bargained for the United States. They signed the first version of the peace terms on November 30, 1782, and French diplomats signed their own first version on January 20, 1783. The final Treaty of Paris was signed on September 3, 1783.
+Benjamin Franklin, John Adams and John Jay bargained for the United States, and they signed the Treaty of Paris on September 3, 1783.
 
 Under the treaty, the British accepted a western border for the United States at the Mississippi River. Americans could fish off Newfoundland, and British lenders could still collect the debts Americans had owed them since before the war. The American side promised Loyalists, colonists who had sided with Britain, payment for property that Americans had taken from them. British troops had to leave the thirteen states. Franklin asked the British to hand over Canada as well, and they refused.
 
-Members of the Confederation Congress, meeting at Annapolis, Maryland, ratified the treaty on January 14, 1784. British officials ratified it on April 9, 1784, and the two sides traded signed copies in Paris on May 12, 1784.
+The treaty took effect in 1784, after delegates to the Confederation Congress, meeting at Annapolis, Maryland, and British officials had both approved it.
 
 **Not invited.** No Native nation was invited to Paris, though the land inside that western border was their home. Among them were the Haudenosaunee in what is now New York and Pennsylvania. The Tuscarora had joined their league in about 1722, and after that it was called the Six Nations: the Mohawk, Oneida, Onondaga, Cayuga, Seneca and Tuscarora.
 
@@ -248,7 +242,7 @@ At Fort Stanwix in 1784, American officials backed by a strong force of soldiers
 > **Who:** The first American minister to Great Britain, sent to the king he had rebelled against.
 > **When and where:** London. Presented to King George III on June 1, 1785.
 
-**Adams bought a new coat to meet King George III.**
+**In 1785 Adams met the king who had called the colonies rebels.**
 
 Adams met the king as the representative of the United States on June 1, 1785. Nearly ten years earlier, in August 1775, the same king had declared the colonies to be in open rebellion against him, and the next year Adams signed the Declaration of Independence.
 
@@ -268,7 +262,7 @@ American leaders had almost no navy and very little money. They could not free t
 
 **The price.** The treaty freed 83 American sailors, by the count of the State Department's historians. Counts of the captives differ with the year, from 83 freed in 1796 to 115 held in 1793.
 
-Accounts of the cost differ too. Treasury officials estimated the total at about $992,463. It began with a first payment of about $585,000, which reached Algiers late, and the Dey demanded more. Editors of George Washington's papers at the University of Virginia give $642,500 paid at once, plus $21,600 a year in supplies for ships.
+In all, the treaty cost the United States about $1 million, by the Treasury's estimate. The money for the first payment reached Algiers late, and the Dey demanded more, which roughly doubled the price. Other accounts give a smaller sum paid at once, plus supplies for the Dey's ships every year.
 
 The Dey's officials released the surviving sailors on July 8, 1796. Six captives had died shortly before. Several others carried lasting injuries from their years of captivity.
 <!-- /hb-zoom -->
@@ -283,15 +277,17 @@ The Dey's officials released the surviving sailors on July 8, 1796. Six captives
 
 He had come to America from Ireland as a boy. During the Revolution the British had already captured him once and held him on prison ships at New York, until he escaped.
 
-**The capture.** Cathcart was one of six crewmen on the Boston ship *Maria* when an Algerian warship with 14 guns took it on July 25, 1785. He later gave his own reason for the timing. Spanish officials had just made peace with Algiers, and Charles Logie, who looked after British trade and citizens there as the British consul, told the Algerians they could take any ship that lacked a certain British pass.
+**The capture.** Cathcart was one of six crewmen on the Boston ship *Maria* when an Algerian warship with 14 guns took it on July 25, 1785. He later explained why Algerian warships were out in the Atlantic that summer. Spain's war with Algiers had kept them out until the two made peace in 1785.
+
+Then Charles Logie, the British consul in Algiers, spoke to the Dey's government. A consul is an official who looks after his country's trade and citizens in another country. Logie told them that American ships were no longer under the British king's protection, so the Algerians could take them.
 
 The Algerian crew drove the six Americans into a boat and took their hats, handkerchiefs and shoes. On the voyage the captors locked all 42 of their prisoners every night in the sail room in the ship's hold. The drinking water was so foul, Cathcart wrote, that "we were, literally, obliged to strain through our teeth." The *Maria* reached Algiers on August 4. On August 12 the *Dauphin* of Philadelphia arrived with 15 more American captives, which made 21 in all.
 
 Dey Muhammad chose some of the captives to work in his palace and garden. His officials sent others to the slave prisons and to hard labor at the harbor. A man at hard labor got one suit of clothes, worth about a dollar and a half, and two rough blankets meant to last his whole captivity.
 
-**The beating.** About four months after he arrived, officials who ran the Dey's household ordered Cathcart beaten. Four men threw him down, tied his arms and legs, and beat the soles of his bare feet with sticks, a punishment called the bastinado. Cathcart took 28 blows and lost four toenails.
+**The beating.** About four months after he arrived, officials who ran the Dey's household ordered Cathcart beaten with the bastinado, blows with sticks on the soles of the bare feet. Four men threw him down and tied his arms and legs. In the usual method, Cathcart wrote, the man lay face down with his ankles tied to a pole that two men held up, and a guard sat on his shoulders. Cathcart took 28 blows and lost four toenails.
 
-He wrote that all fourteen slaves in the garden got the same beating, "old men of sixty and children of ten years of age" among them. In the usual method, the guards threw the man face down and tied his ankles to a pole. Two men held up the pole, and a guard sat on his shoulders.
+He wrote that all fourteen slaves in the garden got the same beating, "old men of sixty and children of ten years of age" among them.
 
 **The clerk.** Cathcart rose step by step. He served coffee to the minister of the harbor, then became clerk of the harbor, then clerk of a slave prison, and at last chief Christian clerk to the Dey. Foreign ambassadors who could not get a meeting with the Dey went through him. He helped Joseph Donaldson, who bargained for the Americans, and he translated the Turkish text of the 1795 treaty into English.
 
