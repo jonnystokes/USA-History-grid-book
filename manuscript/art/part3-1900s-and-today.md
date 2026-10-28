@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 26 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 25 minutes**
 
 Americans argued over what counted as art from the first big show of modern paintings in 1913 on, and in the 1930s federal officials paid artists for the first time, though Black artists had to organize before they were given that work. About 75,000 people came to see modern European paintings at the Armory Show in New York in 1913, and its paintings drew jokes. In Harlem in the 1920s and 1930s, Black painters, sculptors, photographers and writers worked side by side.
 
@@ -92,7 +92,7 @@ Officials of the Santa Fe Indian School asked Maria to teach there in 1932. She 
 <!-- hb-story:end slug="maria-martinez" -->
 
 <!-- hb-zoom level="span" label="The Harlem Renaissance" -->
-**By 1932:** Stieglitz had shown that a photograph could hang in a gallery, Maria Martinez's black-on-black pots were sold from her family's shop, and the Studio in Santa Fe was teaching Native students a single style.
+**By 1932:** Stieglitz had shown that a photograph could hang in a gallery, Maria and Julian Martinez had been making black-on-black pots since 1918, and the Studio in Santa Fe was teaching Native students a single style.
 
 Black painters, photographers and writers worked side by side in Harlem, in New York City, in the 1920s and 1930s. This time is called the Harlem Renaissance, renaissance being a French word that means rebirth.
 
@@ -138,13 +138,15 @@ In about 1940 she moved to a farm at Saugerties, New York, and mostly left the a
 > **When and where:** Born January 7, 1891, in Notasulga, Alabama. Grew up in Eatonville, Florida. Harlem, Haiti and Jamaica. Died in Fort Pierce, Florida, on January 28, 1960.
 > **Movie:** *Zora Neale Hurston: Jump at the Sun* (2008), a documentary by Sam Pollard for the PBS series *American Masters*. It is about her life and writing.
 
-**She never earned more than $943.75 in royalties from any book.**
+**She never earned more than $943.75 from any one of her books.**
 
 Zora Neale Hurston wrote novels and collected the stories of Black Southerners, and she died poor. She grew up in Eatonville, Florida. According to the official Hurston website, Eatonville was the nation's first incorporated Black township, which means the state recognized it as a town by law, with its own government.
 
-**Kossola.** In 1927 she interviewed Kossola, also called Cudjo Lewis. In April 1860 soldiers of Ghezo, the king of Dahomey in West Africa, attacked Kossola's town and took him captive. Captain William Foster bought him and other captives there for Timothy Meaher, a businessman in Mobile, Alabama. In July 1860 Foster smuggled about 110 Africans into Mobile on the ship *Clotilda*, to be enslaved. Bringing enslaved people into the country had been against federal law for 52 years. In Mobile, Meaher's brother James enslaved Kossola.
+**Kossola.** In 1927 she interviewed Kossola, also called Cudjo Lewis. He was one of the last survivors of the *Clotilda*, the last known ship to bring captives from Africa to the United States.
 
-**The books.** Hurston gathered Black folktales in Florida for her book *Mules and Men* (1935), and stories in Haiti and Jamaica for *Tell My Horse* (1938). Her novel *Their Eyes Were Watching God* came out in 1937. In 1938 and 1939 she worked in Florida for the Federal Writers' Project.
+Soldiers of Ghezo, the king of Dahomey in West Africa, attacked Kossola's town in April 1860 and took him captive. Captain William Foster bought him and other captives there for Timothy Meaher, a businessman in Mobile, Alabama. In July 1860 Foster smuggled about 110 Africans into Mobile on the *Clotilda*, to be enslaved. Bringing enslaved people into the country had been against federal law for 52 years. In Mobile, Meaher's brother James enslaved Kossola.
+
+**The books.** Hurston wrote a book from what Kossola told her and called it *Barracoon*, the word for a pen where captives were held until a ship took them. It was not published until 2018, 58 years after she died. She gathered Black folktales in Florida for her book *Mules and Men* (1935), and stories in Haiti and Jamaica for *Tell My Horse* (1938). Her novel *Their Eyes Were Watching God* came out in 1937. In 1938 and 1939 she worked in Florida for the Federal Writers' Project.
 
 Her royalties, the share of each book's price that goes to the writer, never came to more than $943.75 for any of her books. She had a stroke in early 1959. In October 1959 she had to enter the St. Lucie County Welfare Home, a home the county ran for people with no money, and she died there on January 28, 1960. Her neighbors in Fort Pierce collected money for her funeral, but not enough for a headstone.
 
@@ -197,13 +199,15 @@ He wrote a caption for each panel first. Then he painted all 60 at the same time
 <!-- hb-zoom level="span" label="Photographs of hunger, and photographs of the camps" -->
 **By 1941:** Federal officials had paid thousands of artists a wage, Black artists in Harlem had organized to get some of that work, and Jacob Lawrence had painted the Great Migration in 60 panels.
 
-Officials of the federal Resettlement Administration, later called the Farm Security Administration, paid photographers in the 1930s to record poor farm families. In March 1936 Dorothea Lange stopped at a camp of pea pickers at Nipomo, California. Freezing rain had destroyed the crop, and as many as 2,500 to 3,500 people were camped there. Lange made seven pictures of a mother and her children. The government caption reads: "Destitute pea pickers in California. Mother of seven children. Age thirty-two."
+Officials of the federal Resettlement Administration, later called the Farm Security Administration, paid photographers in the 1930s to record poor farm families. In March 1936 Dorothea Lange stopped at a camp of pea pickers at Nipomo, California. Freezing rain had destroyed the crop, and as many as 2,500 to 3,500 people were camped there.
+
+**Migrant Mother.** Lange made seven pictures of a mother and her children. One of them became known as *Migrant Mother*, and it is one of the most reprinted pictures of the Great Depression. The government caption reads: "Destitute pea pickers in California. Mother of seven children. Age thirty-two" (destitute means so poor that a person has nothing to live on).
 
 **Two accounts.** Lange later wrote, "I did not ask her name or her history." She wrote that the mother said the family had been living on frozen vegetables from the fields and on birds the children killed. The mother had just sold the tires from her car to buy food, Lange wrote. The mother's son, Troy Owens, said later, "There's no way we sold our tires, because we didn't have any to sell." He thought Lange had mixed up two stories. The two accounts do not agree.
 
-**Florence Owens Thompson.** The mother was Florence Owens Thompson, born on September 1, 1903, in Indian Territory, now Oklahoma. Both of her parents said they had Cherokee ancestors. Cherokee Nation records list her father as Cherokee, but her mother told a federal commission that both of her own parents were white. The government had paid for the photograph, so anyone could print it for free, and neither Lange nor Thompson earned money from it.
+**Florence Owens Thompson.** The mother was Florence Owens Thompson, born on September 1, 1903, in Indian Territory, now Oklahoma. The records of her family's Cherokee ancestry disagree. Cherokee Nation records list her father as Cherokee, while her mother said she had Cherokee ancestors but told a federal commission that her own parents were both white. The government had paid for the photograph, so anyone could print it for free, and neither Lange nor Thompson earned money from it.
 
-A reporter for the *Modesto Bee*, Emmett Corrigan, found her in 1978, about 42 years after the picture was taken, living in a mobile home park in Modesto, California, and he named her. "I wish she hadn't taken my picture. I can't get a penny out of it. She didn't ask my name," she told him. "She said she wouldn't sell the pictures. She said she'd send me a copy. She never did."
+A reporter for the *Modesto Bee*, Emmett Corrigan, found her in 1978, about 42 years after the picture was taken. She was living in a mobile home park in Modesto, California, and he printed her name. "I wish she hadn't taken my picture. I can't get a penny out of it. She didn't ask my name," she told him. "She said she wouldn't sell the pictures. She said she'd send me a copy. She never did."
 
 Her children asked for help with her medical bills in 1983, when she was sick. More than 2,000 letters came with money. "For Mama and us, the photo had always been a bit of [a] curse," Troy Owens said. "After all those letters came in, I think it gave us a sense of pride." She died on September 16, 1983.
 
@@ -240,8 +244,6 @@ John Steinbeck's novel *The Grapes of Wrath* came out on April 14, 1939. It was 
 **The ban.** The members of the Kern County Board of Supervisors in California voted 4 to 1 in August 1939 to take the book out of the county's libraries and schools. One supervisor called it a "libel and lie," a libel being a printed lie that harms someone's good name. Bill Camp, who led the Associated Farmers, a group of large landowners, pushed for the ban. He had one of his workers, Clell Pruett, burn a copy in a trash can for a newspaper photographer. Pruett had not read the book.
 
 **The librarian.** The county librarian, Gretchen Knief, wrote to the supervisors: "Ideas don't die because a book is forbidden reading. If Steinbeck has written the truth, that truth will survive." She did not throw the books away. She offered them to other county libraries. The book went back on the shelves in January 1941.
-
-Laura Ingalls Wilder's Little House books, about her family's life as settlers on the frontier, came out from 1932 to 1943. In 2018 a librarians' group took her name off its children's book award, for reasons the last era of this chapter tells.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Paintings sent abroad, and called back, 1946 and 1947" -->
@@ -249,7 +251,7 @@ J. LeRoy Davidson, an art historian at the State Department, spent just under $5
 
 One congressman said, "I am just a dumb American who pays taxes for this kind of trash." President Harry Truman also mocked the paintings. He said that if that was art, then he was a member of an African people. The word he used for them was an insult that Europeans used for the Khoekhoe people of southern Africa.
 
-**Called back.** The tour was stopped in early April 1947. By the end of that month, members of Congress had cancelled the tour, cut off the State Department's art program and done away with Davidson's job. The writer Matthew Algeo says Secretary of State George Marshall ended the show in early May and told a House committee that the paintings would be brought home and sold.
+**Called back.** Accounts differ on who stopped the tour, and when. The art historian Jennifer McComas writes that the tour was stopped in early April 1947. By her account, members of Congress had cancelled it by the end of that month, cut off the State Department's art program and done away with Davidson's job. The writer Matthew Algeo says instead that Secretary of State George Marshall ended the show in early May, and told a House committee that the paintings would be brought home and sold.
 
 Officials sold the paintings, along with 38 watercolors, in June 1948 by sealed bid, in which buyers send in secret offers and the highest offer wins. Three universities in Alabama, Oklahoma and Georgia bought 81 of the 117 works.
 <!-- /hb-zoom -->
@@ -267,7 +269,7 @@ Officials sold the paintings, along with 38 watercolors, in June 1948 by sealed 
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 22 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 21 minutes**
 
 After 1950 the fights over who made American art, who profited from it and who paid for it came into the open. Painters in New York after 1950 made pictures that showed no objects at all, and officers of the CIA secretly paid for shows that sent some of that painting to Europe. In the 1960s other artists painted soup cans and comic strips, and the prices of paintings climbed. A painting that Robert Rauschenberg sold for $900 went for $85,000 at an auction in 1973.
 
@@ -289,17 +291,17 @@ Jackson Pollock laid his canvas on the floor from 1947 to 1950 and dripped and p
 
 **"On the floor I am more at ease," he wrote in 1947.**
 
-Jackson Pollock painted by walking around a canvas on the floor and dripping and pouring paint onto it. In 1945 he married the painter Lee Krasner.
+Jackson Pollock explained his method in 1947, in a magazine called *Possibilities*: "I prefer to tack the unstretched canvas to the hard wall or the floor. I need the resistance of a hard surface. On the floor I am more at ease. I feel nearer, more a part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting." He wrote that this was like the method of the Native sand painters of the West.
 
-**His own words.** In 1947 he explained his method in a magazine called *Possibilities*: "I prefer to tack the unstretched canvas to the hard wall or the floor. I need the resistance of a hard surface. On the floor I am more at ease. I feel nearer, more a part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting." He wrote that this was like the method of the Native sand painters of the West.
-
-The editors of *Life* magazine put this question in a headline over a story about him on August 8, 1949: "Jackson Pollock: Is he the greatest living painter in the United States?"
+Pollock had married the painter Lee Krasner in 1945. On August 8, 1949, the editors of *Life* magazine put this question in a headline over a story about him: "Jackson Pollock: Is he the greatest living painter in the United States?"
 
 **The crash.** On the night of August 11, 1956, in Springs, New York, Pollock drove his car while drunk. He crashed less than a mile from his home and was killed, and so was his passenger Edith Metzger. A second passenger, Ruth Kligman, survived.
 <!-- hb-story:end slug="jackson-pollock" -->
 
 <!-- hb-zoom level="span" label="The CIA and the painters" -->
-The historian Frances Stonor Saunders reported in *The Independent*, a British newspaper, in 1995 that officers of the CIA had helped promote Abstract Expressionism in other countries. The CIA, the Central Intelligence Agency, is the government's spy agency. In those years the United States and the Soviet Union were rivals in the Cold War, a long contest for power and friends around the world that never became open war between the two. The Soviet government's official style of art was called Socialist Realism.
+The historian Frances Stonor Saunders reported in *The Independent*, a British newspaper, in 1995 that officers of the CIA had helped promote Abstract Expressionism in other countries. The CIA, the Central Intelligence Agency, is the government's spy agency.
+
+In those years the United States and the Soviet Union were rivals in the Cold War, a long contest for power and friends around the world that never became open war between the two. The Soviet government's official style of art was called Socialist Realism. Its paintings looked like real life, only better, and they showed simple stories in support of the government's ideas, such as workers winning their freedom.
 
 **What a CIA man said.** Donald Jameson, a former CIA officer, told Saunders that CIA officers saw a chance in this new painting. He said "Abstract Expressionism was the kind of art that made Socialist Realism look even more stylised and more rigid." The support came "at two or three removes," he said, which means through other groups. The painters did not know.
 
@@ -315,13 +317,9 @@ Accounts differ about how much this mattered to the painters or to their fame. T
 <!-- hb-zoom level="span" label="Photographs and books" -->
 The photographer Robert Frank won a Guggenheim Fellowship, a grant of money for artists and writers, in 1955. He used it to pay for trips across the United States. In the South, a sheriff told him he had "an hour to leave town." His book of photographs, *The Americans*, came out in Paris in 1958 and in New York in 1959. A writer in *Popular Photography* called the pictures "meaningless blur, grain, muddy exposures, drunken horizons and general sloppiness."
 
-Black writers won national prizes and had a play on Broadway in the 1950s and 1960s. Ralph Ellison's novel *Invisible Man* came out in 1952 and won the National Book Award in 1953. James Baldwin published his novel *Go Tell It on the Mountain* in 1953.
+Black writers won national prizes and reached Broadway in the 1950s. Ralph Ellison's novel *Invisible Man*, about the problems Black Americans faced in the early 1900s, came out in 1952. It won the National Book Award in 1953, and Ellison was the first African American writer to win it.
 
-Lorraine Hansberry's play *A Raisin in the Sun* opened on Broadway on March 11, 1959. Its director, Lloyd Richards, was the first Black director of a Broadway play, and the New York Drama Critics' Circle named it the best play of the year. Maya Angelou's *I Know Why the Caged Bird Sings* came out in February 1969.
-
-**Ruby Bridges.** Ruby Bridges, who was six, walked into William Frantz Elementary School in New Orleans on November 14, 1960, between four federal officers called deputy US marshals. She and three other six-year-old girls at another school that day were the first Black children in white public schools in Louisiana. A crowd outside screamed at her.
-
-Norman Rockwell painted Ruby Bridges's walk in 1963, the year he left the *Saturday Evening Post*, whose editors limited what political subjects he could paint. On the wall behind her he painted a racial slur, the letters "KKK" and a smashed tomato. KKK stands for the Ku Klux Klan, a white group that has threatened, beaten and killed Black people. The editors of *Look* magazine printed the painting, *The Problem We All Live With*, on January 14, 1964.
+Lorraine Hansberry's play *A Raisin in the Sun* opened on Broadway on March 11, 1959. It follows a Black family in Chicago that buys a house in a white neighborhood, where a man from the neighborhood offers to buy them out. Its director, Lloyd Richards, was the first Black director of a Broadway play, and the New York Drama Critics' Circle named it the best play of the year.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="gordon-parks" name="Gordon Parks" movie="Half Past Autumn: The Life and Works of Gordon Parks (2000)" kind="famous" status="verified" -->
@@ -337,7 +335,7 @@ Gordon Parks was the first African American photographer on the staff of *Life* 
 
 **Washington, 1942.** Parks won a Julius Rosenwald Fellowship in 1942 and went to Washington, D.C., to work for the Farm Security Administration. Workers in restaurants and shops in the segregated capital refused to serve him.
 
-After that he photographed Ella Watson, a Black woman on the cleaning crew of the agency's building. She stands with a broom and a mop in front of an American flag. He titled the picture *American Gothic, Washington, D.C.* His boss, Roy Stryker, said the picture was an attack on America and could get all his photographers fired.
+After that he photographed Ella Watson, a Black woman on the cleaning crew of the agency's building. She stands with a broom and a mop in front of an American flag. He titled the picture *American Gothic, Washington, D.C.*, after Grant Wood's 1930 painting *American Gothic*, which shows a farmer holding a pitchfork beside a woman in front of their house. His boss, Roy Stryker, said the picture was an attack on America and could get all his photographers fired.
 
 Parks published a photo essay, a set of photographs that tell a story, about a young gang leader in Harlem in 1948. It won him a staff job at *Life*, and he stayed at the magazine until 1972.
 <!-- hb-story:end slug="gordon-parks" -->
@@ -373,7 +371,11 @@ His studio was called the Factory. On June 3, 1968, the writer Valerie Solanas s
 <!-- hb-story:end slug="andy-warhol" -->
 
 <!-- hb-zoom level="span" label="Walls, bridges and museums: art made as protest" -->
-**By 1973:** New York painters had toured Europe in shows paid for in secret with CIA money, and a Rauschenberg painting bought for $900 had resold for $85,000.
+**By 1973:** Paintings by New York artists had toured Europe in shows paid for in secret with CIA money, and a Rauschenberg painting bought for $900 had resold for $85,000.
+
+**A walk to school.** Ruby Bridges, who was six, walked into William Frantz Elementary School in New Orleans on November 14, 1960, between four federal officers called deputy US marshals. She and three other six-year-old girls at another school that day were the first Black children in white public schools in Louisiana. A crowd outside screamed at her.
+
+Norman Rockwell painted her walk in 1963, the year he left the *Saturday Evening Post*, whose editors limited what political subjects he could paint. On the wall behind her he painted a racial slur, the letters "KKK" and a smashed tomato. KKK stands for the Ku Klux Klan, a white group that has threatened, beaten and killed Black people. The editors of *Look* magazine printed the painting, *The Problem We All Live With*, on January 14, 1964.
 
 **The Wall of Respect.** Fourteen artists of the Organization of Black American Culture, among them William Walker, painted the *Wall of Respect* in 1967 on the side of a closed bar at 43rd Street and Langley Avenue in Chicago. It showed Nat Turner, Harriet Tubman, W. E. B. Du Bois, Marcus Garvey, Malcolm X, Gwendolyn Brooks, Muhammad Ali, Aretha Franklin and others. In the eight years after it, artists painted more than 1,500 murals across the country.
 
@@ -387,11 +389,15 @@ City officials set aside $21,814.96 for a park of 1.8 acres, called Chicano Park
 
 **At the museums.** Faith Ringgold and other artists protested at the Whitney Museum of American Art in New York in 1970, because its show of American art had no Black artists in it. They also demanded that half the artists it showed be women.
 
-Judy Chicago finished *The Dinner Party* in 1979. It is a table with three sides, set with 39 places for 39 women from history and legend, among them Sacajawea, Sojourner Truth, Susan B. Anthony, Virginia Woolf and Georgia O'Keeffe. Each place has a hand-painted plate. Most of the plates show a shape based on the female body.
+Judy Chicago finished *The Dinner Party* in 1979. It is a table with three sides, set with 39 places for 39 women from history and legend, among them Sacajawea, Sojourner Truth, Susan B. Anthony, Virginia Woolf and Georgia O'Keeffe. Each place has a hand-painted plate. Most of the plates show a butterfly or flower shape that stands for a vulva, the outer part of a woman's sex organs.
 
-The critic Hilton Kramer called it "very bad art ... failed art." Representative Robert K. Dornan called it "ceramic 3-D pornography" (pornography means pictures or objects made to show sex). The writer Alice Walker objected that Sojourner Truth, the one Black woman at the table, was shown in a different way from the white women.
+The critic Hilton Kramer called it "very bad art ... failed art." Representative Robert K. Dornan called it "ceramic 3-D pornography" (pornography means pictures or objects made to show sex). The writer Alice Walker objected that Sojourner Truth, the one Black woman at the table, was shown in a different way from the white women. Truth's plate shows three faces instead.
 
 The board of the University of the District of Columbia voted in 1990 to accept it as a gift. After the *Washington Times* printed stories against it, the plan was dropped. The records do not say who dropped it. *The Dinner Party* is now at the Brooklyn Museum.
+
+**Mining the Museum.** The artist Fred Wilson rearranged the collection of the Maryland Historical Society in Baltimore in 1992 for a show called *Mining the Museum*. In a case of fine silver, he placed shackles that had been used to chain enslaved people. He also hung Justus Engelhardt Kühn's portrait of Henry Darnall III, the Maryland boy painted in about 1710 with an enslaved Black boy beside him. Wilson lit the face of the enslaved boy and played a recorded voice asking, "Am I your brother?"
+
+In another room he set old chairs facing a whipping post. Several writers said that the post had been used on enslaved people, but it came from the Baltimore City jail, where officials had used it to whip men convicted of beating their wives.
 
 **On the subway walls.** Jean-Michel Basquiat and Al Diaz wrote graffiti, writing or drawing on walls without permission, signed "SAMO" on walls in Manhattan in the late 1970s. Basquiat later became a painter. He died of a heroin overdose on August 12, 1988, at 27.
 
@@ -410,9 +416,9 @@ Keith Haring drew in the early 1980s in white chalk on the black paper that cove
 
 **Her quilt *Tar Beach 2* shows a girl flying over Harlem.**
 
-Faith Ringgold painted stories on quilts, and she was arrested for protesting at a museum that left Black artists out. For years she taught art in New York City public schools. In 1967 she painted *The Flag Is Bleeding* and *Die* for a series called *The American People*.
+Faith Ringgold painted stories on quilts, and police arrested her during the protest at the Whitney. For years she taught art in New York City public schools. In 1967 she painted *The Flag Is Bleeding* and *Die* for a series called *The American People*.
 
-**Arrested.** With the critic Lucy Lippard and the artist Poppy Johnson, she started the Ad Hoc Women's Art Committee. They protested at the Whitney Museum and demanded that half the artists in its shows be women. The Whitney's show had no Black artists at all, not even Jacob Lawrence, whose work the museum owned. Police arrested Ringgold on November 13, 1970. That year she and her daughter, Michele Wallace, also started a group called Women Students and Artists for Black Art Liberation.
+**Arrested.** With the critic Lucy Lippard and the artist Poppy Johnson, she started the Ad Hoc Women's Art Committee, which joined the protest at the Whitney. The museum owned work by Jacob Lawrence but left him out of its show. Police arrested Ringgold on November 13, 1970. That year she and her daughter, Michele Wallace, also started a group called Women Students and Artists for Black Art Liberation.
 
 **Quilts.** From the 1980s she painted stories on quilts. *Tar Beach 2* (1990) shows Cassie Louise Lightfoot, an eight-year-old girl who dreams of flying over Harlem. She wrote and illustrated more than a dozen children's books.
 <!-- hb-story:end slug="faith-ringgold" -->
@@ -428,17 +434,13 @@ The Cherokee painter Roy Boney Jr. said of *Indian with Beer Can* (1969): "While
 
 T. C. Cannon, a Kiowa and Caddo painter, studied at the Institute. He served in Vietnam in 1967 and 1968 as a paratrooper, a soldier who jumps from planes, and he won two Bronze Stars, medals for brave or useful service in war. He died in 1978 at the age of 31.
 
-Maya Lin, a student of 21, won the contest to design the Vietnam Veterans Memorial in Washington in 1981. The judges knew the 1,421 entries only by number, not by name.
+Cannon was one of the Americans who served in that war. In 1981 a student, Maya Lin, 21, won the contest to design the memorial to them in Washington, the Vietnam Veterans Memorial. The judges knew the 1,421 entries only by number, not by name. Chapter 12 tells her story in full.
 
 **Two laws of 1990.** Members of Congress passed the Indian Arts and Crafts Act in 1990. Under it, selling work as made by a Native artist when it was not is a crime. A person who does it for the first time can be fined up to $250,000 or sent to prison for five years, or both. A business can be fined up to $1,000,000.
 
 President George H. W. Bush signed the Native American Graves Protection and Repatriation Act, called NAGPRA, on November 16, 1990. Representative Mo Udall had introduced it. Repatriation means sending something back home. Under the law, museums and agencies that take federal money must return Native human remains, objects buried with the dead, sacred objects and objects that belong to a whole nation, to descendants and to the Native nations.
 
 Some of those remains and objects had been dug out of graves and mounds, among them the remains of more than 600 people that workers took out of Craig Mound at Spiro after the Pocola Mining Company's dig, which the first era of this chapter tells.
-
-**Mining the Museum.** The artist Fred Wilson rearranged the collection of the Maryland Historical Society in Baltimore in 1992 for a show called *Mining the Museum*. In a case of fine silver, he placed shackles that had been used to chain enslaved people. He also hung Justus Engelhardt Kühn's portrait of Henry Darnall III, the Maryland boy painted in about 1710 with an enslaved Black boy beside him. Wilson lit the face of the enslaved boy and played a recorded voice asking, "Am I your brother?"
-
-In another room he set old chairs facing a whipping post. Several writers reported that the post had been used on enslaved people. In fact it had been used at the Baltimore City jail on men convicted of beating their wives.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The AIDS Memorial Quilt, 1987" -->
@@ -454,7 +456,9 @@ The National Endowment for the Arts, or NEA, is a federal agency that gives mone
 
 Senators Al D'Amato and Jesse Helms attacked the award in 1989. Some members of Congress called art like this obscene, so shocking or indecent that some people want it banned, or blasphemous, insulting to God or religion. Serrano received death threats and hate mail, and he lost grants.
 
-**Mapplethorpe.** Robert Mapplethorpe was a photographer who died of AIDS on March 9, 1989. That June, Christina Orr-Cahall, director of the Corcoran Gallery of Art in Washington, cancelled a show of his photographs, because she feared for the NEA's money. Senator Helms then proposed that no NEA money could pay for "obscene" art. For a time, artists who took NEA grants had to sign a promise not to promote obscenity.
+**Mapplethorpe.** Robert Mapplethorpe was a photographer who died of AIDS on March 9, 1989. A show of more than 150 of his photographs was then touring the country. It held portraits, nudes and pictures of flowers. It also held photographs that showed sex between men openly, some of it sex that involves pain, and two photographs of young children without clothes. At each museum, staff hung the sex pictures in a separate area that children could not enter.
+
+Christina Orr-Cahall, director of the Corcoran Gallery of Art in Washington, cancelled the show in June 1989, because she feared for the NEA's money. Senator Helms then proposed that no NEA money could pay for "obscene" art. For a time, artists who took NEA grants had to sign a promise not to promote obscenity.
 
 **A museum on trial.** The Mapplethorpe show opened at the Contemporary Arts Center in Cincinnati in 1990. After a campaign by a group called Citizens for Community Values, law officers ordered 400 visitors out of the museum and videotaped the photographs. Government lawyers charged the museum and its director, Dennis Barrie, with obscenity. It was the first time a museum in the United States was put on trial for art it showed. On October 5, 1990, a jury found them not guilty. More than 80,000 people saw the show in Cincinnati.
 
@@ -492,9 +496,9 @@ She and the collector Middleton A. Harris put together *The Black Book*, a colle
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 25 minutes**
+**Era 10 of 10 · 2000 to Today · about 24 minutes**
 
-Almost every adult now carries a camera, and the old arguments about art have come back over new things: computer programs that copy artists' styles, Native remains in museums, and what national museums may show. By 2025, 91 out of every 100 adults in the United States owned a smartphone with a camera in it, according to a survey by the Pew Research Center. After 2022, computer programs could make pictures in the style of living artists, and some of those artists sued the companies that made the programs.
+Almost every adult now carries a camera in a phone, and the old arguments about art have come back over new things: computer programs that copy artists' styles, Native remains in museums, and what national museums may show. After 2022, computer programs could make pictures in the style of living artists, and some of those artists sued the companies that made the programs.
 
 Under a rule that took effect in January 2024, museums must get a Native nation's consent before they show its ancestors' remains or sacred objects.
 
@@ -502,7 +506,7 @@ Two Black artists painted the official portraits of a president and a first lady
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A camera in every pocket" -->
-The Pew Research Center found, in a survey taken from February to June 2025, that 98 out of every 100 adults in the United States owned a cellphone. Ninety-one out of every 100 owned a smartphone. In Pew's first survey about smartphones, in 2011, only 35 out of every 100 did.
+A smartphone has a camera built in, so anyone who owns one can take a picture at any moment. In a survey taken from February to June 2025, researchers at the Pew Research Center found that 91 out of every 100 adults in the United States owned a smartphone. In Pew's first survey about smartphones, in 2011, only 35 out of every 100 did.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who is in the picture" -->
@@ -618,15 +622,19 @@ Four large sculptures by Gibson, of a deer, a coyote, a squirrel and a hawk, sto
 <!-- hb-story:end slug="jeffrey-gibson" -->
 
 <!-- hb-zoom level="span" label="Prices, and a picture that is only a file" -->
-A buyer paid $195 million at Christie's auction house in New York on May 9, 2022, for Andy Warhol's 1964 portrait of Marilyn Monroe, *Shot Sage Blue Marilyn*. Sixty years earlier, an art dealer had bought all 32 of Warhol's soup-can paintings for $1,000. The Associated Press reported that no work by an American artist had ever sold for more at auction.
+The highest prices paid for paintings by American artists have reached hundreds of millions of dollars. A buyer paid $195 million at Christie's auction house in New York on May 9, 2022, for Andy Warhol's 1964 portrait of Marilyn Monroe, *Shot Sage Blue Marilyn*. The money went to a charity for children in Zurich, Switzerland.
 
-It beat the $110.5 million paid in 2017 for a 1982 painting of a skull by Jean-Michel Basquiat. The money went to a charity for children in Zurich. As of September 2026, no American artist's work had sold for more. In May 2026 a painting by Jackson Pollock, *Number 7A, 1948*, sold for $181.2 million, according to the *Robb Report*.
+The Associated Press reported that no work by an American artist had ever sold for more at auction, and as of September 2026 none had. Sixty years before that sale, an art dealer had bought all 32 of Warhol's soup-can paintings for $1,000.
 
-Georgia O'Keeffe's *Jimson Weed/White Flower No. 1* sold for $44.4 million in 2014. According to the Associated Press, that was the most ever paid at auction for a work by a woman until November 20, 2025, when a painting by the Mexican painter Frida Kahlo sold for $54.7 million.
+Paintings by Basquiat and Pollock have also sold for more than $100 million. The Warhol beat the $110.5 million paid in 2017 for a 1982 painting of a skull by Jean-Michel Basquiat, the painter who had once written graffiti on Manhattan walls. In May 2026 a painting by Jackson Pollock, *Number 7A, 1948*, sold for $181.2 million, according to the *Robb Report*.
+
+Paintings by women have sold for much less. Georgia O'Keeffe's *Jimson Weed/White Flower No. 1* sold for $44.4 million in 2014. According to the Associated Press, that was the most ever paid at auction for a work by a woman until November 20, 2025, when a painting by the Mexican painter Frida Kahlo sold for $54.7 million.
 
 **A picture that is only a file.** A digital picture by Mike Winkelmann, who calls himself Beeple, sold at Christie's on March 11, 2021, for more than $69.3 million, according to Al Jazeera. It is a collage of 5,000 pictures he made, one each day, starting on May 1, 2007. The buyer, Vignesh Sundaresan, a programmer based in Singapore, paid in Ether, a kind of digital money.
 
-He got a record on a computer network that names him as the owner of the file, and the right to show it. He did not get the copyright, the legal right to copy the work and sell copies. The buyer and the seller both owned shares in digital tokens tied to other Beeple works, and some people called the sale a publicity stunt.
+What Sundaresan bought was a digital token, a record kept on a network of computers that names one person as the owner of a file. With it he got the right to show the picture. He did not get the copyright, the legal right to copy the work and sell copies.
+
+Sundaresan and Beeple also both owned part of a different set of tokens, tied to other Beeple works. The price of those tokens rose to its highest during the sale and then fell sharply, and some people called the sale a publicity stunt.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Pictures made by computer programs" -->
@@ -638,7 +646,9 @@ In their lawsuit, the artists say the companies built these programs by feeding 
 
 Judge William Orrick in San Francisco let the artists' copyright claims go forward on August 12, 2024. As of September 2026, the case was still before him, and no trial had been held, according to the court's record of the case.
 
-**No human author.** The computer scientist Stephen Thaler asked the US Copyright Office on November 3, 2018, to register a picture made by his computer program, with the program named as the only author. On August 12, 2019, officials refused, because the picture had no human author. They relied in part on an 1884 Supreme Court case, in which the justices had called a photograph of the writer Oscar Wilde "an original work of art, the product of plaintiff's intellectual invention."
+**No human author.** The computer scientist Stephen Thaler asked the US Copyright Office on November 3, 2018, to register a picture made by his computer program, with the program named as the only author. On August 12, 2019, officials refused, because the picture had no human author.
+
+The officials relied in part on an 1884 Supreme Court case. In it the justices decided that a photograph of the writer Oscar Wilde counted as a work of art, because it came from the photographer's own ideas, his "intellectual invention." A picture with no person's ideas behind it, the officials reasoned, had no author who could own it.
 
 Judges on a federal appeals court agreed with the refusal in 2025. On March 2, 2026, the justices of the Supreme Court declined to hear Thaler's appeal. As the law stood in 2026, according to the National Constitution Center, no one could hold the copyright to a picture made by a program with no human author.
 <!-- /hb-zoom -->
@@ -661,15 +671,23 @@ Kelly McKernan was one of three artists who sued the companies behind picture-ma
 <!-- hb-story:end slug="kelly-mckernan" -->
 
 <!-- hb-zoom level="span" label="Books" -->
-Books for sale carry an identifying number called an ISBN, and in the United States a company called Bowker issues them. By Bowker's figures, reported by the publishing writer Jane Friedman, writers who published their own books got these numbers for 53 percent more new books in 2021 than in 2018. People in the United States spent $2.43 billion on audiobooks in 2025, 9 percent more than in 2024, according to a survey for the Audio Publishers Association.
+More writers now publish their own books, without a publishing company. Every book for sale carries an identifying number called an ISBN, and in the United States a company called Bowker hands these numbers out. By Bowker's count, reported by the publishing writer Jane Friedman, writers who published their own books took out numbers for about one and a half times as many new books in 2021 as in 2018.
+
+Spending on audiobooks grew too. Americans spent $2.43 billion on them in 2025, 9 percent more than in 2024, according to a survey for the Audio Publishers Association.
 
 **Books taken off the shelves.** School and library officials removed or restricted thousands of books in the mid-2020s. Two groups count this, and their numbers differ because they count different things. PEN America, a group of writers that defends free expression, counts each time school officials remove or restrict a book. It counted 10,046 in the 2023-24 school year and 6,870 in 2024-25.
 
 The American Library Association counts attempts it hears about to remove books from school, public and college libraries, listed by title. It counted 4,235 different titles in 2025, and it found that 92 out of every 100 of those attempts were started by "pressure groups, government officials and decision makers."
 
-**Wilder's name.** The board of the Association for Library Service to Children took Laura Ingalls Wilder's name off its award for children's books on June 23, 2018. The award had carried her name since 1954. The board members wrote that her books include "expressions of stereotypical attitudes inconsistent with ALSC's core values," a stereotype being an unfair, fixed idea about a whole group of people. They acted after critics pointed to how her books show Native and Black people, and after a group that included the American Indian Library Association reviewed the award.
+**Which books, and why.** The books PEN America found removed most often included *A Clockwork Orange*, a 1962 novel by Anthony Burgess, and *Sold*, a 2006 novel by Patricia McCormick about a girl sold into sexual slavery in India. PEN America says that books showing gay, lesbian or transgender people were often called "sexually explicit," among them *And Tango Makes Three*, a picture book about two male penguins at New York's Central Park Zoo who raise a chick together.
 
-Wilder described one place in her 1935 book *Little House on the Prairie* as somewhere "there were no people. Only Indians lived there." Later printings changed that line. Several characters in the Little House books say that "the only good Indian is a dead Indian." The prize is now called the Children's Literature Legacy Award.
+In July 2025 federal officials removed nearly 600 titles from the schools the Defense Department runs on military bases. According to PEN America, those books did not fit President Trump's orders on diversity, race and "gender ideology extremism."
+
+**Wilder's name.** Laura Ingalls Wilder's Little House books, about her family's life as settlers on the frontier, came out from 1932 to 1943. The board of the Association for Library Service to Children took her name off its award for children's books on June 23, 2018. The award had carried her name since 1954.
+
+The board members wrote that her books include "expressions of stereotypical attitudes inconsistent with ALSC's core values," a stereotype being an unfair, fixed idea about a whole group of people. They acted after critics pointed to how her books show Native and Black people, and after a group that included the American Indian Library Association reviewed the award.
+
+Wilder described one place in her 1935 book *Little House on the Prairie* as somewhere "there were no people. Only Indians lived there." In that line, the Native people who lived there do not count as people. Later printings changed the line. Several characters in the Little House books say that "the only good Indian is a dead Indian." The prize is now called the Children's Literature Legacy Award.
 
 **Audubon's name.** The members of the board of the National Audubon Society voted in March 2023 to keep the name of John James Audubon, who painted *The Birds of America* and who had enslaved people. "The name has come to represent not one person, but a broader love of birds and nature," said the board chair, Susan Bell. Three board members resigned. The leaders of the local Audubon groups in Chicago, Seattle, Portland and Washington, D.C., had already decided to drop the name.
 <!-- /hb-zoom -->
@@ -679,9 +697,11 @@ White House officials sent Congress a budget for 2026 on May 2, 2025, that would
 
 Members of Congress did not close the agency. They gave it $207 million for 2026, the same amount as in 2024 and 2025, according to the Congressional Research Service. On April 3, 2026, White House officials proposed shutting the NEA down again, for 2027. As of September 2026, members of Congress had not decided.
 
-**The Smithsonian.** President Donald Trump signed an order titled "Restoring Truth and Sanity to American History" on March 27, 2025. It stated that the Smithsonian Institution had "come under the influence of a divisive, race-centered ideology." On May 30, Trump announced he had fired Kim Sajet, who had directed the National Portrait Gallery for 12 years. He called her a "highly partisan person." Sajet resigned on June 13, 2025.
+**The Smithsonian.** President Donald Trump signed an order titled "Restoring Truth and Sanity to American History" on March 27, 2025. It stated that the Smithsonian Institution had "come under the influence of a divisive, race-centered ideology."
 
-Three White House officials, Lindsey Halligan, Vince Haley and Russell Vought, wrote to the head of the Smithsonian, Lonnie Bunch, on August 12, 2025. They asked for a review of eight Smithsonian museums, among them the American Art Museum and the Portrait Gallery. They told the museums' leaders to begin changing their exhibits within 120 days. On July 24, 2026, Trump signed another order about the Smithsonian, aimed at the National Museum of American History.
+Trump announced on May 30 that he had fired Kim Sajet, who had directed the National Portrait Gallery for 12 years. He called her a "highly partisan person." He named no law under which he could fire her, and she kept coming to work. The members of the Smithsonian's Board of Regents, the group that governs it, then said that all decisions about staff belonged to the Smithsonian's head, Lonnie Bunch. Sajet resigned on June 13, 2025. She told her staff that her presence had become a distraction from the Smithsonian's mission.
+
+Three White House officials, Lindsey Halligan, Vince Haley and Russell Vought, wrote to Bunch on August 12, 2025. They asked for a review of eight Smithsonian museums, among them the American Art Museum and the Portrait Gallery. They told the museums' leaders to begin changing their exhibits within 120 days. On July 24, 2026, Trump signed another order about the Smithsonian, aimed at the National Museum of American History.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By today" -->
@@ -693,7 +713,7 @@ Three White House officials, Lindsey Halligan, Vince Haley and Russell Vought, w
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- How did enslaved artists make art, and who got paid for it? They painted, cut silhouettes, turned pots and wrote poems while other people held them as property. Henry Barnes took Prince Demah to London for painting lessons, and Dave cut verses into his jars in years when it was a crime for him to learn to read. Peale was paid for portraits with Moses Williams's parents, and Dave's jars were sold for the profit of Lewis J. Miles.
+- How did enslaved artists make art, and who got paid for it? They painted, cut silhouettes, turned pots and wrote poems while other people held them as property, and the people who held them got the money. Dave's jars were sold for the profit of Lewis J. Miles, and Moses Williams learned to cut silhouettes and build exhibits in Peale's museum while Peale held him enslaved. Henry Barnes took Prince Demah to London for painting lessons, and Dave cut verses into his jars in years when it was a crime for him to learn to read.
 - Who decided what counted as art, and who got to see it? Mostly people with money or power: the Met's trustees, who kept it shut on Sundays until 1891, a teacher in Santa Fe who taught one "authentic" Native style, and a congressman who called a touring show of modern paintings trash. Artists pushed back, from Oscar Howe's letter in 1958 to Amy Sherald cancelling her show in 2025.
 - Why are museums giving back things they once took? Diggers took objects and human remains out of Native graves, at Mound City in 1846 and at Spiro in the 1930s, and sold many of the objects. Under a 1990 law, NAGPRA, museums that take federal money must return Native remains and sacred objects, and since 2024 they need a nation's consent even to show them.
 

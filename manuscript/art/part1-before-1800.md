@@ -14,25 +14,25 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 32 of 37 · Art · 10 eras · about 150 minutes**
+**Chapter 32 of 37 · Art · 10 eras · about 155 minutes**
 
 **Who was allowed to make art in America, who got paid for it, and who ended up owning it has always depended on who held power.**
 
 An enslaved potter in South Carolina named Dave cut two lines into a big clay jar in 1857. They use lucre, an old word for money: "I made this Jar = for cash / Though its called Lucre trash." Dave was not paid for that jar. It was sold for the profit of the man who held him, Lewis J. Miles. On October 29, 2025, the Museum of Fine Arts in Boston gave Dave's descendants ownership of it and of a second jar he made that year.
 
-This chapter follows the pictures, carvings, pots, photographs and books made in this land, from Ancestral Pueblo bowls to pictures made by computer programs. Keep an eye on the names. The carvers of the Ohio pipes and the Boston painter of the 1670s left none, but the men who dug up, bought and sold such work often did. Then watch the money. Enslaved painters and potters earned it for other men, the mother in a famous 1936 photograph never got a penny, and artists today are suing over computer programs built from their pictures. From the 1800s on, the fights are also about who gets into the art schools, the museums and the shows.
+This chapter follows the pictures, carvings, pots, photographs and books made in this land, from Ancestral Pueblo bowls to pictures made by computer programs. Keep an eye on the names. The carvers of the Ohio pipes left none, but the men who dug up, bought and sold such work often did. Then watch the money. Enslaved painters and potters earned it for other men, the mother in the 1936 photograph *Migrant Mother* never got a penny, and artists today are suing over computer programs built from their pictures. From the 1800s on, the fights are also about who gets into art schools, museums and shows.
 
 **Three questions this chapter answers**
 - How did enslaved artists make art, and who got paid for it?
 - Who decided what counted as art, and who got to see it?
 - Why are museums giving back things they once took?
 
-**Five minutes?** Read "Photographs of hunger, and photographs of the camps" in 1900 to 1950.
+**Five minutes?** Read "Photographs of hunger, and photographs of the camps" in 1900 to 1950, and the Lange box after it.
 **Can skip:** "Portrait painters in the colonies", "Writers", "Painters of the 1930s and 1940s", "A camera in every pocket". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 11 minutes**
+**Era 1 of 10 · Before 1500 · about 9 minutes**
 
 Every pot, carving and copper plate made in this land before 1500 was made by Native people, and no surviving record names the people who made them. Potters in the Southwest painted bowls and jars. Carvers in the Ohio valley shaped stone pipes into birds and animals. In the towns of the Mississippi valley and the Southeast, metalworkers hammered copper into sheets and pressed pictures into it, and on the Northwest Coast people carved bone, horn and stone.
 
@@ -78,9 +78,9 @@ Two men named Ephraim Squier and Edwin Davis dug into the Mound City mounds, nea
 
 **Etowah.** John Rogan dug at Etowah for the Smithsonian, the national museum in Washington, in 1885. He took the two best-known Birdman plates from a grave lined with stone. The Smithsonian's National Museum of Natural History still holds them.
 
-**Spiro.** Craig Mound at Spiro was a burial mound. In 1933 six men who called themselves the Pocola Mining Company paid $50 each, $300 in all, to George Evans for the right to dig into it for two years. Evans was the grandfather of the children who owned the land. He needed the money to pay off a loan on the land and to treat his grandson's tuberculosis, a disease of the lungs. A local man, R. W. Wall, handled the company's business.
+**Spiro.** Craig Mound at Spiro was a burial mound. In 1933 six men who called themselves the Pocola Mining Company paid $50 each, $300 in all, to George Evans for the right to dig into it for two years. Evans was the grandfather of the children who owned the land. He needed the money to pay off a loan on the land and to treat his grandson's tuberculosis, a disease of the lungs.
 
-A company that sells copies of Spiro objects shows photographs of the dig from 1935 on its website, with notes drawn from a 1952 report on the mound. Those photographs and notes name some of the men who dug: the brothers Bill and Hayden Vandagriff, W. Guinn Cooper, John Hobbs and K. A. McKenzie. The company also hired coal miners, who dug tunnels into the mound.
+The Pocola Mining Company hired coal miners, who dug tunnels into the mound. A business that sells copies of Spiro objects shows photographs of the dig from 1935 on its website, with notes drawn from a 1952 report on the mound. The notes name two of the diggers, John Hobbs and K. A. McKenzie, who pried up thirty copper axes and carried them out of one of the tunnels. Captions on the photographs name three more: the brothers Bill and Hayden Vandagriff, and W. Guinn Cooper.
 
 **What the diggers did.** From 1933 to 1935 the diggers took things out of the graves to sell, and they destroyed about a third of the mound. They sold thousands of objects of stone, copper, shell, basketry and cloth to collectors around the world. One pile of objects, found in April 1935, went to a secondhand furniture dealer from Indianapolis, Indiana, for $100.
 
@@ -105,7 +105,9 @@ Then University of Oklahoma archaeologists led workers paid by a government jobs
 
 **At 86, he carved an eight-foot pole about Raven and Fog Woman.**
 
-Nathan Jackson is Tlingit, of the Sockeye Clan, a large group of related families, on the Raven side of the Chilkoot Tlingit. He carves totem poles, masks, canoes, carved doors and panels that show clan crests, the animal symbols that belong to a clan. He also works metal and dances. He learned his people's traditions from Jack David, his clan uncle and grandfather.
+Carving on the Northwest Coast did not stop in 1500, and Nathan Jackson carves in that tradition today. He is Chilkoot Tlingit. Every Tlingit person belongs to one of two halves, Raven or Eagle, and each half is made up of clans, large groups of related families. Jackson's clan, the Sockeye Clan, is on the Raven side.
+
+He carves totem poles, masks, canoes, carved doors and panels that show clan crests, the animal symbols that belong to a clan. He also works metal and dances. He learned his people's traditions from Jack David, his clan uncle and grandfather.
 
 **Totem poles in a hospital.** Jackson served in the Army in Germany until 1959. Later he spent 54 days in a hospital with pneumonia, a serious sickness of the lungs, and while he was there he whittled small totem poles. "I told the nurses, 'Those totem poles there, they have a price on them,'" he said later.
 
@@ -115,7 +117,7 @@ Nathan Jackson is Tlingit, of the Sockeye Clan, a large group of related familie
 
 Officials of the National Endowment for the Arts, a US government agency, gave him an honor called a National Heritage Fellowship in 1995. He has said that "the traditional way of life is something I identify with."
 
-He began the Raven and Fog Woman pole in 2024 at the Edwin DeWill Carving Center in Saxman, Alaska. He finished it that autumn at the Arts Council of Princeton, in New Jersey, where it stands in the lobby.
+He began the Raven and Fog Woman pole in 2024 at the Edwin DeWill Carving Center in Saxman, Alaska. He finished it that autumn at the Arts Council of Princeton, in New Jersey, where it stands in the lobby. In the Tlingit story the pole shows, Raven marries Fog Woman, a woman who came out of the fog, for the salmon in the basket she weaves. When he mistreats her, she leaves him, and all the salmon follow her.
 <!-- hb-story:end slug="nathan-jackson-art" -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -131,9 +133,9 @@ The oldest European pictures of this land and its people were made by two artist
 <!-- hb-zoom level="span" label="How Le Moyne lost his Florida drawings" -->
 Jacques Le Moyne lost every drawing he made in Florida when Spanish soldiers took the French fort there in 1565, so the pictures that survive are ones he drew again from memory. French colonists had set up the colony, called Fort Caroline, in 1564, in a part of Florida that Spanish leaders claimed. They brought Le Moyne along as their official artist, to record it. He drew the fort, the settlers and the land, and the people who already lived there, the Timucua.
 
-**The attack.** Pedro Menéndez de Avilés and 500 Spanish soldiers took the fort in an attack at dawn on September 20, 1565. They killed most of the French settlers they found. Menéndez spared about 50 women and children and shipped them to Havana. Le Moyne escaped, but his drawings did not.
+**The attack.** Pedro Menéndez de Avilés and 500 Spanish soldiers took the fort in an attack at dawn on September 20, 1565. They killed most of the French settlers they found. Menéndez spared about 50 women and children and shipped them to Havana. Le Moyne escaped.
 
-**Drawn again, and changed.** Back in France, Le Moyne drew the pictures again from memory. He died in 1588, and his widow sold them to de Bry, who printed them in 1591. De Bry changed the people and the landscapes to make his books sell better. He also made different versions of the pictures for different buyers.
+**Sold, and changed.** Le Moyne died in France in 1588, and his widow sold his new drawings to de Bry, who printed them in 1591. De Bry changed the people and the landscapes to make his books sell better. He also made different versions of the pictures for different buyers.
 
 One painting by Le Moyne, *Laudonnière and Athore, 1564*, shows the French commander René de Laudonnière with Athore, a Timucua leader. The year in the title is the year of the meeting the picture shows. Le Moyne made it after he got back to Europe. The New York Public Library holds it.
 <!-- /hb-zoom -->
@@ -146,7 +148,7 @@ One painting by Le Moyne, *Laudonnière and Athore, 1564*, shows the French comm
 
 **More than seventy watercolors survive from his thirteen months at Roanoke.**
 
-John White made the first pictures of this land by an English artist. Le Moyne drew Florida twenty-one years before him, but Le Moyne's Florida drawings were lost, so of all the pictures Europeans made here on the spot, White's are the oldest that survive.
+John White made the first pictures of this land by an English artist.
 
 **The voyage.** White sailed as the artist on Sir Richard Grenville's voyage to Roanoke Island in 1585. Walter Raleigh and other men who put money into the voyage paid for it. White worked beside the mathematician Thomas Harriot. The coast they recorded was the land of nations that spoke Algonquian languages, a family of related languages. Among them were the Roanoke, the Secotan and the Croatoan. In July 1585 White visited the town of Secotan and painted it.
 
@@ -160,7 +162,11 @@ The British Museum in London owns White's original watercolors, and its staff ke
 
 In August 1587 White led an attack on the town of Dasamonquepeuc to pay back Howe's killing. He believed its people were Roanoke, enemies of the English. They turned out to be Croatoan, who were friends of the English, and White's men killed a number of them. One account says the dead included a leader named Menatonon, and other accounts name the leader differently.
 
-That same year the colonists talked White into sailing back to England, because they did not have enough supplies to last long. When he got back in August 1590, the colonists were gone. The word "Croatoan" was carved on a tree.
+That same year the colonists talked White into sailing to England for more supplies. He could not return for three years. In 1588 Queen Elizabeth I took every English ship for her navy, to fight the Spanish Armada, a fleet of warships sent from Spain.
+
+When White reached Roanoke again on August 18, 1590, the colonists were gone. The word "CROATOAN" was carved on a post. Chapter 31 tells what that word meant and how White tried to find the colonists.
+
+**Not known:** what became of the colonists.
 <!-- hb-story:end slug="john-white-roanoke-art" -->
 <!-- hb-time:end id="1500s" -->
 
@@ -168,7 +174,7 @@ That same year the colonists talked White into sailing back to England, because 
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 8 minutes**
+**Era 3 of 10 · The 1600s · about 7 minutes**
 
 Art in the English colonies of the 1600s was made for families with money, for the graves of the dead and for the church. Painters made portraits for rich Boston families, carvers cut pictures into gravestones, and girls stitched needlework. A printer in Massachusetts produced the first full book printed in the English colonies in 1640, and a book of poems by a woman living in Massachusetts came out in London ten years later.
 
@@ -230,7 +236,9 @@ She was the daughter of Thomas and Dorothy Dudley. She married Simon Bradstreet 
 <!-- hb-zoom level="span" label="Mission churches and burned masks in New Mexico" -->
 Acoma Pueblo is a town built on top of a mesa, a hill with steep sides and a flat top. Chapter 2 tells in full what happened there in 1598 and 1599. In the Acoma people's own account, the soldiers of the Spanish captain Juan de Zaldívar raped an Acoma woman, which means they forced her into sex. In December 1598 Acoma people killed Zaldívar and eleven to fourteen of his men.
 
-**The attack on Acoma.** In January 1599 Spanish soldiers sent by Juan de Oñate, the leader of the Spanish colony in New Mexico, took the town and burned much of it. They killed hundreds of Acoma men, women and children, between about 300 and about 1,500 by the estimates. Oñate sentenced the Acoma men over twenty-five to have one foot cut off and to do forced labor, work for others without pay and without the right to leave, for twenty years. Whether the feet were really cut off is disputed.
+**The attack on Acoma.** In January 1599 Spanish soldiers sent by Juan de Oñate, the leader of the Spanish colony in New Mexico, took the town and burned much of it. They killed hundreds of Acoma men, women and children, between about 300 and about 1,500 by the estimates.
+
+Oñate sentenced the Acoma men older than twenty-five to have one foot cut off. He also sentenced them to twenty years of forced labor, work for others without pay and without the right to leave. Whether the feet were really cut off is disputed.
 
 **The church on the mesa.** A friar named Juan Ramírez arrived at Acoma in 1629. He probably began soon after to have Acoma people build a church on the mesa, called San Esteban del Rey. The Acoma workers had to carry every load up the mesa. The loads included roof beams 40 feet long, cut in mountains 30 to 40 miles away. One account says the builders were enslaved. Another says only that they had to do the work.
 
@@ -242,7 +250,7 @@ San Esteban del Rey is the oldest European church in New Mexico that still stand
 
 Governor Juan Francisco Treviño had 47 Pueblo religious leaders arrested in 1675. Three of them were hanged, and one killed himself. The rest were whipped in public and jailed, until Pueblo men came to Santa Fe and forced their release. Treviño ordered the arrests. Dennis Zotigh's account of these events for the Smithsonian does not name the men who hanged and whipped the prisoners.
 
-One of the freed men was Po'pay, of Ohkay Owingeh. He led the Pueblo Revolt on August 10, 1680, in which Pueblo people killed 21 friars and burned the mission churches across the province.
+One of the freed men was Po'pay, of Ohkay Owingeh. He led the Pueblo Revolt on August 10, 1680, in which Pueblo people killed 21 friars and burned many of the mission churches across the province.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -294,7 +302,7 @@ Pastels could be bought only in England. She sailed to London for supplies in 17
 
 **Upstairs over his paint shop hung copies of Europe's famous paintings.**
 
-John Smibert was the first painter with formal art training to work in the thirteen colonies. In 1728 a church leader named George Berkeley asked him to come to America. Berkeley planned to start a college in Bermuda, where Smibert would teach art. The college was never started.
+John Smibert was one of the first painters with formal art training to work in the thirteen colonies. In 1728 a church leader named George Berkeley asked him to come to America. Berkeley planned to start a college in Bermuda, where Smibert would teach art. The college was never started.
 
 Smibert reached Newport, Rhode Island, with Berkeley's group in 1729 and painted Berkeley and his party in a picture now at Yale University. By 1729 or 1730 he had moved to Boston. There he painted merchants, such as Peter Faneuil, and Judge Samuel Sewall. He drew the plans for Faneuil Hall in Boston in 1742.
 
@@ -332,7 +340,7 @@ Francis Nicholson, the first governor of South Carolina chosen by the British ki
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 11 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 10 minutes**
 
 The men who led the Revolution had their portraits painted by Americans, several of them trained in London, and in the same cities enslaved Black artists painted and wrote poems, though only a few records name them. In Boston, Prince Demah painted portraits while he was enslaved, and later he served during the Revolution in the Massachusetts militia, a part-time army of local men.
 
@@ -353,7 +361,7 @@ The Pennsylvania painter Benjamin West settled in England in 1763 and became the
 > **Who:** A painter of the leaders of the Revolution, who opened a museum in Philadelphia and held a young man in slavery to work in it.
 > **When and where:** Born in Chester, Maryland, in April 1741. Worked in Annapolis, then Philadelphia. Died in 1827.
 
-**A planter paid him for portraits with two people.**
+**A planter paid him for portraits with two enslaved people.**
 
 Charles Willson Peale painted the leaders of the Revolution, and George Washington sat for him seven times. Peale first trained to make saddles. Then he studied painting in England for three years. Back in Annapolis, Maryland, he joined the Sons of Liberty, groups of colonists who formed in 1765 to resist a British tax on printed paper, called the Stamp Act.
 
@@ -365,7 +373,9 @@ Washington paid a yearly fee to support it and gave it two golden pheasants from
 
 **Paid in people.** By 1776 a Maryland plantation owner had given Peale two enslaved people, Scarborough and Lucy, as payment for portraits. The account of this payment does not give the planter's name. Peale freed Scarborough and Lucy in 1786.
 
-Their son, Moses Williams, was born in about 1777. Pennsylvania lawmakers passed a law in 1780 to end slavery slowly, over many years, and under that law Moses Williams was not free. Peale kept him enslaved in his household until about 1802, when Moses was about 25 or 27. Peale trained him for work in the museum: cutting silhouettes, which are outline portraits cut from paper, preserving dead animals for display and building exhibits.
+Their son, Moses Williams, was born in about 1777. Pennsylvania lawmakers passed a law in 1780 to end slavery slowly, over many years. Under that law, only children born after it was passed were to go free, and only when they turned 28. Moses had been born about three years before, so he was not one of them.
+
+Peale kept him enslaved in his household until about 1802, when Moses was about 25 or 27. Peale trained him for work in the museum: cutting silhouettes, which are outline portraits cut from paper, preserving dead animals for display and building exhibits.
 <!-- hb-story:end slug="charles-willson-peale" -->
 
 <!-- hb-story:start slug="prince-demah" name="Prince Demah" movie="" kind="ordinary" status="verified" -->
@@ -376,7 +386,7 @@ Their son, Moses Williams, was born in about 1777. Pennsylvania lawmakers passed
 
 **He signed his portrait of a Boston merchant "Prince Demah Barnes."**
 
-Prince Demah painted portraits in Boston while he was enslaved. One of his signed paintings belongs today to the Metropolitan Museum of Art in New York. He and his mother, Daphney, were baptized at Trinity Church in Boston in May 1745.
+Prince Demah painted portraits in Boston while he was enslaved. One of his signed paintings belongs today to the Metropolitan Museum of Art in New York. He and his mother, Daphney, were baptized at Trinity Church in Boston in May 1745, when Prince was a small child.
 
 **Bought for his talent.** Henry Barnes was a merchant in Marlborough, Massachusetts, whose family already held Daphney in slavery. In 1769 Barnes bought her son, Prince, who was then in his late twenties. Barnes's wife, Christian, wrote to a friend that they planned on "improving his genius in painting," genius meaning talent. She also wrote that the Boston painter John Singleton Copley would not be willing to teach him.
 
@@ -384,9 +394,9 @@ Prince Demah painted portraits in Boston while he was enslaved. One of his signe
 
 **The advertisement.** Back in Boston, an advertisement ran at least nine times in the *Boston News-Letter* in 1773. It offered the work of a "Negro Artist," using the word of that time for a Black person, who "takes Faces at the lowest Rates," which meant painted portraits cheaply. That February, Prince painted William Duguid, a Scottish cloth merchant living in Boston, and signed it "Prince Demah Barnes." He also painted, or copied from Copley, portraits of Henry and Christian Barnes.
 
-**Free.** The Barnes family sided with the king. In late 1775 they left for England, and they left Daphney behind at their Marlborough home.
+**Free.** The Barnes family sided with the king. In late 1775 they left for England, and they left Daphney behind at their Marlborough home. The records do not say where Prince was when they sailed, or how he became free.
 
-Prince joined a unit of cannon soldiers in the Massachusetts militia in April 1777, under the name Prince Demah. The records do not say how he became free. On March 11, 1778, he wrote his will as "Prince Demah, limner," a painter of portraits, and as a "free Negro." He left everything he had to his mother. He died one week later. The record does not give the cause.
+Prince joined a unit of cannon soldiers in the Massachusetts militia in April 1777. He signed up as Prince Demah, without the Barnes name. On March 11, 1778, he wrote his will as "Prince Demah, limner," a painter of portraits, and as a "free Negro." He left everything he had to his mother. He died one week later. The record does not give the cause.
 <!-- hb-story:end slug="prince-demah" -->
 
 <!-- hb-story:start slug="phillis-wheatley" name="Phillis Wheatley" movie="" kind="famous" status="verified" -->
@@ -421,7 +431,7 @@ Joshua Johnson was listed in Baltimore as a portrait painter by 1796. In a 1798 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Mercy Otis Warren's plays" -->
-Mercy Otis Warren wrote plays that made fun of the British governor of Massachusetts and attacked his policies. She was born in Barnstable, Massachusetts, on September 14, 1728. The first play, *The Adulateur*, came out in a newspaper, the *Massachusetts Spy*, in 1772. Others followed, among them *Defeat* in 1773, *The Group* in 1775, *The Blockheads* in 1776 and *The Motley Assembly* in 1779.
+Mercy Otis Warren wrote plays that made fun of the British governor of Massachusetts and attacked his policies. She was born in Barnstable, Massachusetts, on September 14, 1728. Her first play, *The Adulateur*, came out in a newspaper, the *Massachusetts Spy*, in 1772. At least four more of her plays followed by 1779.
 
 All of them came out without her name. The National Women's History Museum says she likely did this to avoid punishment, and so that readers would take the work of a woman seriously. She died in 1814.
 <!-- /hb-zoom -->
@@ -434,7 +444,7 @@ All of them came out without her name. The National Women's History Museum says 
 
 **He never delivered Washington's portrait, and he sold copies for $100.**
 
-The picture of George Washington on the one-dollar bill is an engraving based on a portrait by Gilbert Stuart. Stuart sailed to London in 1775. There Benjamin West hired him and gave him a studio and a place to live. In 1787 Stuart left London for Dublin to get away from the people he owed money. He arrived in New York in May 1793.
+Gilbert Stuart sailed to London in 1775. There Benjamin West hired him and gave him a studio and a place to live. In 1787 Stuart left London for Dublin to get away from the people he owed money. He arrived in New York in May 1793.
 
 **The unfinished head.** Martha Washington ordered portraits of her husband and herself from Stuart in 1796. He painted only Washington's head and neck on a brown background, left the rest of the canvas unfinished and kept it. He never gave it to her, although she asked for it again and again after her husband died in 1799.
 

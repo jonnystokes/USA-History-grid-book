@@ -13,12 +13,14 @@
 - Works Progress Administration (WPA): a government jobs program of the 1930s (Before 1500)
 - clan: a large group of related families (Before 1500)
 - clan crest: an animal symbol that belongs to a clan (Before 1500)
+- Raven and Eagle sides: the two halves of the Tlingit people, each made up of clans (Before 1500)
 - pneumonia: a serious sickness of the lungs (Before 1500)
 - adze: a carving tool with a curved blade set across the end of its handle (Before 1500)
 - apprentice: a younger worker who learns a trade by working beside a master (Before 1500)
 - Algonquian languages: a family of related languages spoken by nations of the coast John White painted (The 1500s)
 - black lead: a kind of pencil (The 1500s)
 - engraving: a picture cut into a metal plate so that many copies can be printed (The 1500s)
+- Spanish Armada: a fleet of warships sent from Spain (The 1500s)
 - friar: a member of a Catholic religious order (The 1600s)
 - Puritans: English Protestants who wanted a plainer and stricter church (The 1600s)
 - Protestants: Christians outside the Catholic Church (The 1600s)
@@ -58,7 +60,7 @@
 - insuperable obstacles: problems he could not get past (1750 to 1800)
 - federal officials: the officials of the national government (1800 to 1850)
 - landscape: a picture of the land and sky (1800 to 1850)
-- Hudson River School: a group of American landscape painters, about 1825 to 1870 (1800 to 1850)
+- Hudson River School: a group of American landscape painters, about 1825 to 1870, who painted American land in careful, true-to-life detail (1800 to 1850)
 - physiognotrace: a machine that traced the outline of a sitter's face onto paper through a set of connected rods (1800 to 1850)
 - city directory: a book that listed a town's people and their trades (1800 to 1850)
 - life class: a class where students draw from a model without clothes (1800 to 1850)
@@ -82,6 +84,7 @@
 - Emancipation Proclamation: President Lincoln's order freeing enslaved people in the states at war with the United States (1800 to 1850)
 - census: the government's count of everyone in the country (1800 to 1850)
 - turner: a person who shapes pots on a wheel (1800 to 1850)
+- repent: to be sorry for doing wrong and to change (1800 to 1850)
 - daguerreotype: an early photograph made directly on a silver-coated copper plate, a single picture that could not be copied (1800 to 1850)
 - picture factory: a shop that turned out many portraits fast (1800 to 1850)
 - impartial: fair (1800 to 1850)
@@ -127,7 +130,9 @@
 - casting in bronze: pouring melted metal into a mold of a sculpture (1900 to 1950)
 - folklorist: someone who collects the stories, songs and sayings people pass along by word of mouth (1900 to 1950)
 - incorporated: recognized by the state as a town by law, with its own government (1900 to 1950)
+- barracoon: a pen where captives were held until a ship took them (1900 to 1950)
 - royalty: the share of each book's price that goes to the writer (1900 to 1950)
+- destitute: so poor that a person has nothing to live on (1900 to 1950)
 - Great Depression: the hard years of the 1930s when many people had no work (1900 to 1950)
 - sit-down strike: workers refusing to leave their workplaces (1900 to 1950)
 - abstract art: art that shows shapes and colors instead of things (1900 to 1950)
@@ -144,7 +149,7 @@
 - Abstract Expressionism: painting that shows no real objects, as Pollock's did (1950 to 2000)
 - CIA: the Central Intelligence Agency, the government's spy agency (1950 to 2000)
 - Cold War: a long contest for power and friends around the world between the United States and the Soviet Union that never became open war between them (1950 to 2000)
-- Socialist Realism: the Soviet government's official style of art (1950 to 2000)
+- Socialist Realism: the Soviet government's official style of art, paintings that looked like real life, only better, and showed simple stories in support of the government's ideas (1950 to 2000)
 - at two or three removes: through other groups (1950 to 2000)
 - Guggenheim Fellowship: a grant of money for artists and writers (1950 to 2000)
 - deputy US marshals: federal officers (1950 to 2000)
@@ -158,6 +163,7 @@
 - graffiti: writing or drawing on walls without permission (1950 to 2000)
 - coma: a state like deep sleep that a person cannot wake from (1950 to 2000)
 - medical examiner: the doctor who studies a body to find the cause of death (1950 to 2000)
+- vulva: the outer part of a woman's sex organs (1950 to 2000)
 - pornography: pictures or objects made to show sex (1950 to 2000)
 - paratrooper: a soldier who jumps from planes (1950 to 2000)
 - Bronze Star: a medal for brave or useful service in war (1950 to 2000)
@@ -180,9 +186,11 @@
 - pavilion: the building where a country shows its artists at the Biennale (2000 to Today)
 - queer: a word many gay and lesbian people use for themselves (2000 to Today)
 - Ether: a kind of digital money (2000 to Today)
+- digital token: a record kept on a network of computers that names one person as the owner of a file (2000 to Today)
 - copyright: the legal right to copy a work and sell copies (2000 to Today)
 - ISBN: the identifying number books for sale carry (2000 to Today)
 - stereotype: an unfair, fixed idea about a whole group of people (2000 to Today)
+- Board of Regents: the group that governs the Smithsonian (2000 to Today)
 - lucre: an old word for money (2000 to Today; also in the chapter opening)
 
 ## People
@@ -288,6 +296,6 @@
 
 ## Questions
 
-- Q: How did enslaved artists make art, and who got paid for it? A: They painted, cut silhouettes, turned pots and wrote poems while other people held them as property. Henry Barnes took Prince Demah to London for painting lessons, and Dave cut verses into his jars in years when it was a crime for him to learn to read. Peale was paid for portraits with Moses Williams's parents, and Dave's jars were sold for the profit of Lewis J. Miles.
+- Q: How did enslaved artists make art, and who got paid for it? A: They painted, cut silhouettes, turned pots and wrote poems while other people held them as property, and the people who held them got the money. Dave's jars were sold for the profit of Lewis J. Miles, and Moses Williams learned to cut silhouettes and build exhibits in Peale's museum while Peale held him enslaved. Henry Barnes took Prince Demah to London for painting lessons, and Dave cut verses into his jars in years when it was a crime for him to learn to read.
 - Q: Who decided what counted as art, and who got to see it? A: Mostly people with money or power: the Met's trustees, who kept it shut on Sundays until 1891, a teacher in Santa Fe who taught one "authentic" Native style, and a congressman who called a touring show of modern paintings trash. Artists pushed back, from Oscar Howe's letter in 1958 to Amy Sherald cancelling her show in 2025.
 - Q: Why are museums giving back things they once took? A: Diggers took objects and human remains out of Native graves, at Mound City in 1846 and at Spiro in the 1930s, and sold many of the objects. Under a 1990 law, NAGPRA, museums that take federal money must return Native remains and sacred objects, and since 2024 they need a nation's consent even to show them.
