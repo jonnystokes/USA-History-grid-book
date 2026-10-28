@@ -181,18 +181,22 @@ Years before, Lead Belly had been convicted in Texas of killing a relative, Will
 **"Goodnight, Irene."** John Lomax then managed Lead Belly and took a share of his pay. The two men split over money in 1935. Lomax published a book in 1936 that printed Lead Belly's song "Goodnight, Irene" with both men named as its writers. Lomax had recorded the song. He had not written it. A group called the Weavers sold 2 million copies of "Goodnight, Irene" in 1950, the year after Lead Belly died.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Native songs, Hawaiian guitar and a new songwriter" -->
+<!-- hb-zoom level="span" label="The Carlisle band and Native songs on wax" -->
 The band of the Carlisle Indian School, a boarding school for Native children in Pennsylvania, played the "Aboriginal Suite" at Carnegie Hall in New York on March 28, 1900. Its composer and conductor was Dennison Wheelock, an Oneida graduate of the school. Richard Henry Pratt had made him the Carlisle bandmaster in 1892, the first Native bandmaster there. Wheelock later became a lawyer and argued cases for Native nations before the Supreme Court.
 
 **Songs on wax.** Scientists recorded thousands of Native songs in these years on wax cylinders, tubes of wax that each held two or three minutes of sound. The Library of Congress holds about 10,000 cylinders, and nearly 8,000 of them hold Native songs and speech. Many held sacred songs meant only for ceremonies.
 
 One collector, Francis La Flesche, took singers from Oklahoma to Washington, D.C., so that neighbors who objected could not stop him from recording ceremonial songs. No record shows that the singers were paid. Frances Densmore recorded the songs of the Ojibwe, Sioux, Mandan, Hidatsa, Tohono O'odham, Seminole and other nations for the Smithsonian Institution from 1907.
+<!-- /hb-zoom -->
 
-**The steel guitar.** Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played his steel guitar in theaters across the mainland United States.
+<!-- hb-zoom level="span" label="The Hawaiian steel guitar" -->
+Joseph Kekuku, a Hawaiian student at the Kamehameha School for Boys, found in 1889 that he could change a guitar's pitch by sliding a steel bar along the strings. From 1904 he played his steel guitar in theaters across the mainland United States.
 
 By then Hawaii belonged to the United States. A group of mostly American businessmen had overthrown Hawaii's queen, Liliʻuokalani, in 1893. Before they moved, John L. Stevens, the top US official in Hawaii, had 162 American sailors and Marines brought ashore. Native Hawaiians put 21,269 signatures on petitions, written requests to the government, against joining the United States in 1897. Members of Congress voted to annex Hawaii anyway in 1898, making it part of the United States.
+<!-- /hb-zoom -->
 
-**A new songwriter.** Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key, and he wrote "Alexander's Ragtime Band" in 1911. Through his own publishing company he owned his own songs. He gave all the money from "God Bless America," which Kate Smith first sang in 1938, to the Boy Scouts and Girl Scouts.
+<!-- hb-zoom level="span" label="Irving Berlin, who owned his songs" -->
+Irving Berlin, born Israel Beilin, came to New York from the Russian Empire in 1893, at age five. He could not read music and could play the piano in only one key, and he wrote "Alexander's Ragtime Band" in 1911. Through his own publishing company he owned his own songs. He gave all the money from "God Bless America," which Kate Smith first sang in 1938, to the Boy Scouts and Girl Scouts.
 
 **By 1939:** Anyone with a radio could hear music at home for free, and record sales were still below their 1921 peak. That year one hour of the Grand Ole Opry began going out across the country on NBC.
 <!-- /hb-zoom -->
@@ -471,8 +475,10 @@ Thirty-two acts played at the Woodstock music festival, on Max Yasgur's dairy fa
 **The lyrics hearing.** Tipper Gore, Susan Baker and two other women in Washington started a group called the Parents Music Resource Center in 1985. They made a list of 15 songs they objected to and called it the "Filthy Fifteen." It included Prince's "Darling Nikki." Members of the Senate Commerce Committee held a hearing on September 19, 1985. The musicians Frank Zappa, Dee Snider and John Denver spoke against labels. Zappa called the plan "an ill-conceived piece of nonsense," a badly thought-out idea.
 
 Leaders of the RIAA, the record companies' own group, agreed on November 1, 1985, to put warning labels on some albums. Record companies began putting a standard "Parental Advisory" sticker on albums in 1990. Managers at Walmart and some other stores would not sell albums with the sticker.
+<!-- /hb-zoom -->
 
-**The 1978 act.** Many Native songs belong to religious ceremonies. Until 1978, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883. That year members of Congress passed the American Indian Religious Freedom Act. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things.
+<!-- hb-zoom level="span" label="Native ceremonies and a 1978 law" -->
+Many Native songs belong to religious ceremonies. Until 1978, federal officials could still enforce the rules against Native religious dances that Hiram Price, the head of the government's Indian office, had issued in 1883. In 1978 members of Congress passed the American Indian Religious Freedom Act. In it they wrote that Native "ceremonies have been intruded upon, interfered with, and in a few instances banned." The act does not name the people who did these things.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="selena-quintanilla" name="Selena Quintanilla" movie="Selena (1997)" kind="famous" status="verified" -->
