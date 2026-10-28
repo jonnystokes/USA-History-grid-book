@@ -9,13 +9,13 @@ Logged only, not fixed.
 - **Evidence:** `manuscript/exploration/part2-1800s.md` lines 288 to 291 hold the 1800 to 1850 era closer as four lines ("If you remember one thing:", "In 1803:", "In 1850:", "Next:"). Page 51 of `build/history-book.pdf` (the 4:41 AM build) prints them as one paragraph. The same happens to the Leif Erikson box's "Known:" and "Not known:" lines (`part1-before-1800.md` lines 78 and 79) and to the opening card's "Five minutes?" and "Can skip:" lines (lines 30 and 31, PDF page 14).
 - **Likely cause:** `md_blocks` joins consecutive non-blank lines into one `<p>`, as Markdown does, while ARCHITECTURE-GUIDE 4.1, 4.5 and 5.7 write these items one per line with no blank line between. Markdown viewers do the same to the `.md` build.
 
-## 2026-10-27 · The shelf edition reads the chapters in alphabetical order
+## 2026-10-27 · The shelf edition reads the chapters in alphabetical order (FIXED 2026-10-28, T-780: make_books.py packages the built book in registry order, one file per chapter, markers turned into headings)
 
 - **Where:** `Projects\cool-tools\books\american-history\book.zip` (made by `cool-tools\books\make_books.py`), as the Book reader opens it (`Projects\Walker of Worlds\src\book.js` and `chapter.js`).
 - **Evidence:** the zip's folders run `_introduction`, `america-world`, `art`, `big-business` and so on, with `exploration` (Chapter 1) thirteenth. The reader makes one section per folder and sorts the sections by folder name (`chapter.js`, `group()`), never by the `hb-chapter` id, so the nine parts are lost too. The reader's own collator puts `_backmatter` before `_frontmatter` and `_introduction` (checked with Node), so the next rebuild of the zip, with the new front and back matter folders, would open the book on the back matter.
 - **Likely cause:** `make_books.py` zips the manuscript folders under their slugs, and nothing carries the registry order into the zip.
 
-## 2026-10-27 · The shelf edition shows none of the span headings
+## 2026-10-27 · The shelf edition shows none of the span headings (FIXED 2026-10-28, T-780: make_books.py packages the built book in registry order, one file per chapter, markers turned into headings)
 
 - **Where:** the same zip and reader.
 - **Evidence:** span labels exist only inside `<!-- hb-zoom level="span" label="..." -->` comments (1,968 of them in the manuscript today). The reader deletes HTML comments before it shows or reads text (`chapter.js`, `softenMd`) and builds its contents list from `#` headings only. So "How old are the footprints at White Sands?" never appears, and the opening card's "Five minutes? Read 'Toward the North Pole, 1879 to 1898'" and "Can skip:" lists name headings the shelf reader never shows. Story names do appear, because they are `###` headings.
