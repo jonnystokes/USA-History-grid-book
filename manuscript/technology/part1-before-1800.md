@@ -18,9 +18,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **Many famous American inventors had help that their patents did not name, and the hardest work around the new machines often fell to people who had no say in it.**
 
-The Smithsonian's National Museum of American History holds a strip of paper tape from May 24, 1844. It records the first public message sent over the telegraph line from Washington to Baltimore: "What hath God wrought" (What has God done). Samuel Morse sent it and held the patents, and the code is named for him. His partner, Alfred Vail, who built the instruments, received it in Baltimore. In 1911 one of Vail's sons had his father's gravestone changed to read "INVENTOR OF THE TELEGRAPHIC DOT AND DASH ALPHABET."
+The Smithsonian's National Museum of American History holds a strip of paper tape from May 24, 1844. It records the first public message sent from Washington to Baltimore by telegraph, a machine that sent messages over a wire as pulses of electricity. The words were "What hath God wrought" (What has God done).
 
-This chapter follows American tools and machines from fish traps under a Boston street to the AI programs of the 2020s. As you read, notice whose name goes on each invention. A patent could name one man while a partner, a team of workers or an enslaved man did part of the work. In 1858 the government's chief lawyer ruled that an enslaved person's invention could not be patented. Notice also who did the hard work: Scottish prisoners at an ironworks, enslaved people at furnaces and in cotton fields, children at spinning machines. The last era describes a newer problem: what happens when people trust a machine's answer.
+Samuel Morse sent the message, and the code is named for him. He also held the patents, the government grants that gave him alone the right to make and sell the telegraph for a set number of years. His partner, Alfred Vail, who built the instruments, received the message in Baltimore. In 1911 one of Vail's sons had his father's gravestone changed to read "INVENTOR OF THE TELEGRAPHIC DOT AND DASH ALPHABET."
+
+This chapter follows American tools and machines from fish traps under a Boston street to the AI programs of the 2020s. As you read, notice whose name goes on each invention. A patent could name one man while a partner, a team of workers or an enslaved man did part of the work. In 1858 the government's chief lawyer ruled that an enslaved person's invention could not be patented.
+
+Notice also who did the hard work: Scottish prisoners at an ironworks, enslaved people at furnaces and in cotton fields, children at spinning machines. The last era covers smartphones and AI programs, and what happened when people trusted a machine's answer.
 
 **Three questions this chapter answers**
 - Why did planters enslave far more people after the cotton gin?
@@ -109,19 +113,19 @@ The first ironworks begun in the English colonies stood on Powhatan land in Virg
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Falling Creek, 1619 to 1622" -->
-Colonists began the first ironworks in the English colonies at Falling Creek, Virginia. They built it on Powhatan land at the falls of the James River, where the river drops over rocks, near present-day Richmond. In 1619 officers of the Virginia Company, the English company that ran the colony, hired Captain Benjamin Bluett to run the ironworks. Chesterfield County's history of the site states that he sailed with 80 men. A county tourism page gives the number as 150.
+Powhatan warriors destroyed the ironworks at Falling Creek, Virginia, in 1622, three years after Virginia Company officers sent the first ironworkers there. It was the first ironworks begun in the English colonies. Colonists built it at the falls of the James River, where the river drops over rocks, near present-day Richmond. In 1619 officers of the Virginia Company, the English company that ran the colony, hired Captain Benjamin Bluett to run the ironworks and sent workers with him.
 
-Bluett died on the voyage or soon after he arrived. Others of his men died too, of what colonists called seasoning, the sickness that killed between 50 and 90 percent of early newcomers, according to the county's history. The men who lived could not finish the furnace, the tall oven where iron is melted out of rock.
+Bluett died on the voyage or soon after he arrived. Others of his men died too, of what colonists called seasoning, the sickness that killed between 50 and 90 percent of early newcomers, according to Chesterfield County's history of the site. The men who lived could not finish the furnace, the tall oven where iron is melted out of rock.
 
 Company officers hired John Berkeley to take over in 1621. He sailed with his son Maurice and 25 other men, according to the county, and he promised iron by June 9, 1622.
 
-Opechancanough, a Powhatan leader, planned an attack on English settlements across the colony. From 1618 to 1620, English tobacco planters, owners of large farms called plantations, had taken Powhatan land without paying for it. Virginia Company officials had pressed to take Powhatan children for English schooling.
+**Why the Powhatan attacked.** Like the colonists' tobacco farms, the ironworks stood on Powhatan land. Opechancanough, a Powhatan leader, planned an attack across the colony to force the English to leave Powhatan territory, as the county's history states it. From 1618 to 1620, English tobacco planters, owners of large farms called plantations, had taken Powhatan land without paying for it. Virginia Company officials had pressed to take Powhatan children for English schooling.
 
 **The attack.** Powhatan warriors attacked the ironworks on March 22, 1622. They killed 27 English people there, John Berkeley among them. Two children at Falling Creek survived. The warriors left the works in ruins. Across the colony that day, Powhatan warriors killed about 350 English colonists.
 
-Maurice Berkeley was away from the works and lived. He tried to start the ironworks again and failed. Sir John Zouch tried again from 1634 to 1636 and failed too.
+Maurice Berkeley was away from the works and lived. He tried to start the ironworks again and failed. Another Englishman tried from 1634 to 1636 and failed too.
 
-Whether Falling Creek ever made iron is disputed. Virginia's official list of historic places states that workers produced iron there in 1620. The county's history states that Bluett's men could not finish the furnace, and that in 1621 Berkeley was still promising iron for the next year.
+Whether Falling Creek ever made iron is disputed. Virginia's official list of historic places states that workers produced iron there in 1620, and it calls Falling Creek the first successful ironworks in English North America. The county's history states that Bluett's men could not finish the furnace, and that in 1621 Berkeley was still promising iron for the next year. Either way, the first ironworks in the English colonies that ran for years was the one at Saugus, in Massachusetts.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Seven waterwheels at Saugus" -->
@@ -141,13 +145,11 @@ About 100 people worked at the Saugus ironworks. The company's managers brought 
 
 The workers lived in a village the company owned, called Hammersmith after the English town that many of the ironworkers came from. The works stood on the land of the Pawtucket, the Native people who lived there when the English arrived. Saugus had been a Native settlement, and the English first called it Lynn.
 
-**The Scots.** Some of the workers were prisoners of war. In September 1650, Oliver Cromwell's English soldiers defeated a Scottish army at Dunbar, in Scotland, and captured Scottish soldiers. Members of England's Council of State, the leaders who ran England's government at the time, ordered 150 of the prisoners handed over.
+**The Scots.** Some of the workers were prisoners of war. In September 1650, Oliver Cromwell's English soldiers defeated a Scottish army at Dunbar, in Scotland, and captured Scottish soldiers. Members of England's Council of State, the leaders who ran England's government at the time, ordered 150 of the prisoners handed over to agents of two of the ironworks company's investors.
 
-Sir Arthur Haselrig gave them to agents of John Becx and Joshua Foote, two of the company's investors. The agents shipped the prisoners across the ocean on the ship *Unity*, which left Gravesend, England, on November 11, 1650. How many died on the voyage is not known.
+The agents shipped the prisoners across the ocean on the ship *Unity*, which left Gravesend, England, on November 11, 1650, and reached Boston in December. How many died on the voyage is not known. The company kept 62 of the prisoners for its ironworks, and about 36 of them went to work at Saugus, though a National Park Service history gives about 35. The agents sent others to mills in Maine and New Hampshire and sold the rest to farmers and merchants in New England.
 
-The company's agents kept 62 of the Scots. About 36 of them reached Saugus in December 1650, and the agents put them to work there. A National Park Service history states the number as about 35, arriving in 1651.
-
-The agents held the Scots to seven years of forced labor under indentures, written contracts that required a person to work for a master for a set number of years. The Scots cut wood, worked as colliers, who make charcoal, and did other labor. They received clothing, food and tobacco.
+The company held the Scots at Saugus to seven years of forced labor under indentures, written contracts that required a person to work for a master for a set number of years. The Scots cut wood, worked as colliers, who make charcoal, and did other labor. They received clothing, food and tobacco.
 
 Some of the Scots are known by name. A list of 35 Scots at the works in 1653 includes James Adams, John Clark, Alexander Innes, Peter Grant, John Stewart and Thomas Tower. A November 1653 list of the property of the works includes Alexander Innes, with a value of 10 pounds. The Scottish Prisoners of War Society prints these lists from the company's record books.
 
@@ -166,23 +168,23 @@ Daye printed the *Bay Psalm Book* on the press in 1640. It was a book of psalms,
 > **Who:** A London sword maker who ran the blacksmith shop at the Saugus ironworks and asked the colony to protect his machines from copiers.
 > **When and where:** Saugus, then part of Lynn, Massachusetts. At the works from 1646. Died in 1683.
 
-**"Another when he seeth it makes the like," Jenks wrote in 1646.**
+**The colony gave Jenks 14 years of protection from copiers.**
 
-Joseph Jenks wanted to stop other men from copying his machines. In 1646 Massachusetts leaders gave him a patent, a government grant that gives an inventor the only right to make and sell an invention for a set number of years. A National Park Service page about his shop states that US Patent Office officials credit him with the first patent for a machine in what is now the United States.
+Joseph Jenks wanted to stop other men from copying his machines. In 1646 Massachusetts leaders gave him a patent for his water-driven mills. A National Park Service page about his shop states that US Patent Office officials credit him with the first patent for a machine in what is now the United States.
 
-Jenks learned his trade in England. In the 1630s he worked for a sword maker named Benjamin Stone, whose sword mill at Hounslow ran on water power. A sword marked with Jenks's name as its maker survives in a museum in Wales.
+Jenks learned his trade in England. In the 1630s he worked for a sword maker whose sword mill at Hounslow ran on water power. A sword marked with Jenks's name as its maker survives in a museum in Wales.
 
 **The petition.** In May 1646 Jenks asked the Massachusetts General Court, the leaders who made the colony's laws, for the only right to build water-driven mills for 14 years. The mills would make scythes, long curved blades for cutting grass. He also asked to build "a new Invented Saw Mill" and other machines for making tools with edges. His written request survives in the Massachusetts Archives, dated May 10, 1646.
 
-In it he explained why he wanted protection. Without it, he wrote, "Another when he seeth it makes the like," and "soe I loose the benefit." Another man would see his machine and copy it, and Jenks would lose the profit. The court's magistrates, the leaders who sat as its judges, granted his request.
+In it he explained why he wanted protection. Without it, another man would see his machine and copy it, and Jenks would lose the profit. In his own spelling: "Another when he seeth it makes the like," and "soe I loose the benefit." The court's magistrates, the leaders who sat as its judges, granted his request.
 
-**The shop.** Richard Leader, the agent in charge of the ironworks, let Jenks build a water-driven hammer at the tail of the blast furnace on January 20, 1647. It ran on the water that had already turned the furnace wheel. The company owned the shop, and Jenks paid rent.
+**The shop.** The agent in charge of the ironworks let Jenks build a water-driven hammer at the tail of the blast furnace on January 20, 1647. It ran on the water that had already turned the furnace wheel. The company owned the shop, and Jenks paid rent.
 
 There he made saw blades, felling saws for cutting down trees, and steelyards, a kind of weighing scale. He drew iron into fine wire, pulling it through small holes to make it thin. In 1652 he sent two saw blades for a water-powered sawmill that John Winthrop Jr. ran in Connecticut.
 
-When the ironworks company went bankrupt, unable to pay its debts, Jenks bought a share of his shop in September 1656 and the rolling and slitting mill that October, with a loan from Simon Bradstreet. By October 1667 he was "very weak in estate," with little money, and he asked the court for 50 pounds to start making iron wire. He died in March 1683.
+When the ironworks company went bankrupt, unable to pay its debts, Jenks bought a share of his shop in September 1656 and the rolling and slitting mill that October, with borrowed money. By October 1667 he had little money left, and he asked the court for 50 pounds to start making iron wire. He died in March 1683.
 
-**What the ground showed.** The archaeologist Roland Robbins dug up the site of Jenks's shop in 1952. He found waterwheels, the supports of a water-driven hammer, an anvil base and a stone forge.
+**What the ground showed.** An archaeologist dug up the site of Jenks's shop in 1952. He found waterwheels, the supports of a water-driven hammer, an anvil base and a stone forge.
 
 **Not known:** whether Jenks made the dies, the stamps, for the first silver coins made in New England in 1652, as a marker put up in 1898 states, because no document from the time shows that he did.
 <!-- hb-story:end slug="joseph-jenks" -->
@@ -208,11 +210,9 @@ Franklin refused to patent the stove. He gave his reason later in his autobiogra
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Enslaved people and convicts at the Maryland furnaces" -->
-Many of the workers at the Maryland ironworks were enslaved people or convicts. In 1719, investors in Britain set up the Principio Company in Cecil County, Maryland. In 1731 five Maryland planters founded the Baltimore Iron Works on the Patapsco River. They were Dr. Charles Carroll, another man named Charles Carroll, Daniel Carroll, Daniel Dulaney and Benjamin Tasker. Dr. Carroll put in 2,200 acres of land and served as the first manager. The five partners supplied the money and the enslaved workers.
+Many of the workers at the Maryland ironworks were enslaved people or convicts. In 1719, investors in Britain set up the Principio Company in Cecil County, Maryland. In 1731 Dr. Charles Carroll and four other Maryland planters, two of them also named Carroll, founded the Baltimore Iron Works on the Patapsco River. Dr. Carroll put in 2,200 acres of land and served as the first manager. The five partners supplied the money and the enslaved workers.
 
-**Whose land.** The Patapsco valley lay in a region where the Susquehannock and the Piscataway lived. In 1652 five Susquehannock war chiefs had signed a treaty, a written agreement between nations, with Maryland colonial officials. In it they gave up their claim to the western shore of the Chesapeake Bay from the Patuxent River north to Palmer's Island, a stretch of shore that includes the Patapsco.
-
-Emma Bilski, a history graduate student at Johns Hopkins University, points out that the land was not really the Susquehannock's to give away, because other nations, such as the Piscataway, lived in the region too.
+**Whose land.** Susquehannock leaders had signed away the Patapsco valley in 1652, though the Piscataway lived in the region too. Five Susquehannock war chiefs signed that treaty, a written agreement between nations, with Maryland colonial officials. In it they gave up their claim to a long stretch of the Chesapeake Bay shore that includes the valley. Emma Bilski, a history graduate student at Johns Hopkins University, points out that the land was not really the Susquehannock's to give away.
 
 **Convicts.** The Baltimore Iron Works opened with 89 workers, and 42 of them were enslaved. Over the years, many other workers there were convicts, people found guilty of crimes in Britain. Under a British law of 1718, English judges sentenced many such people to be shipped to the colonies. Merchants who held contracts with the British government carried them across the ocean and sold their labor to colonists, most often for seven years. Iron makers were among the buyers.
 
@@ -232,17 +232,19 @@ An enslaved blacksmith named Anthony and an indentured servant named Thomas Livy
 <!-- hb-story:start slug="benjamin-franklin-technology" name="Benjamin Franklin" movie="Benjamin Franklin (2022)" kind="famous" status="verified" -->
 ### Benjamin Franklin
 
-> **Who:** A Philadelphia printer who designed the Franklin stove and the lightning rod and refused to patent either one.
+> **Who:** A Philadelphia printer who designed the Franklin stove and, later, the lightning rod, and refused to patent either one.
 > **When and where:** Born in Boston in 1706. Worked in Philadelphia. Died there in 1790.
 > **Movie:** *Benjamin Franklin* (2022), a two-part documentary by Ken Burns, shown on PBS. It is about Franklin's life.
 
-**He printed the plans for his lightning rod in his own almanac.**
+**A London ironmonger patented a copy of Franklin's stove.**
 
-Benjamin Franklin made his living as a printer in Philadelphia. He printed a newspaper and a yearly almanac, a book of calendars, weather guesses and sayings. He was born in Boston on January 17, 1706, a date that was January 6 under the calendar the colonies used at the time.
+Benjamin Franklin made his living as a printer in Philadelphia. He printed a newspaper and a yearly almanac, a book of calendars, weather guesses and sayings.
 
-The printer designed devices for homes and buildings, too. In 1741 or 1742 he designed the Franklin stove, a metal fireplace that put more of a fire's heat into the room. In the 1750s he designed the lightning rod, an iron rod that protects a building from lightning, and he ran experiments with electricity.
+Franklin gave the model of his stove to an old friend, Robert Grace, who owned an iron furnace in Pennsylvania. Grace cast the iron plates for the stoves there, and he made money on them, because more and more people wanted one. To help sales, Franklin wrote a pamphlet in 1744 that explained how the stove worked.
 
-In his almanac for 1753, *Poor Richard's Almanack*, Franklin printed instructions telling his readers how to make a lightning rod. He took out no patent on it or on any other invention. In his autobiography he wrote that people gain from the inventions of others, so they should share their own inventions "freely and generously."
+Governor Thomas of Pennsylvania liked the stove so much that he offered Franklin a patent, which would have let only Franklin sell the stoves for a set number of years. Franklin turned the offer down.
+
+In London an ironmonger, a seller of iron goods, copied much of Franklin's pamphlet. He made small changes to the stove that "rather hurt its operation," took out a patent on it in England and, Franklin wrote, "made, as I was told, a little fortune by it." Other people patented Franklin's inventions too. Franklin never challenged them, he wrote, "having no desire of profiting by patents myself, and hating disputes."
 <!-- hb-story:end slug="benjamin-franklin-technology" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -260,7 +262,7 @@ Other machines came into use in the same years. Benjamin Franklin's lightning ro
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Franklin's lightning rod, step by step" -->
-Franklin described a way to protect buildings from what he called "electrical fire" in a letter of 1750 to Peter Collinson. After lightning tests in France in 1752, and then Franklin's own kite test, the first lightning rods went up on buildings in Philadelphia.
+Franklin described a way to protect buildings from what he called "electrical fire" in a letter of 1750 to Peter Collinson. After lightning tests in France in 1752, and then the kite test that Franklin described, the first lightning rods went up on buildings in Philadelphia.
 
 Franklin printed instructions for making one in *Poor Richard's Almanack* for 1753. Readers were to take a small iron rod and push one end three or four feet into moist ground, with the other end standing six or eight feet above the top of the building. A foot of brass wire, sharpened to a fine point, went on the top end. Small staples held the rod to the house.
 
@@ -278,7 +280,7 @@ The cotton gin cleaned cotton so fast that planters grew far more of it, and the
 
 Eli Whitney's cotton gin did the cleaning by machine. It used two cylinders that combed the cotton through small holes. The seeds could not pass through the holes and stayed behind. A history of the gin by the Eli Whitney Museum states that one small gin could clean 50 pounds of cotton a day. By hand, that much cotton took several hundred hours of work.
 
-Planters used the gin to grow far more cotton. Across the United States they grew fewer than 9,000 bales of cotton a year around 1790, more than 200,000 bales by 1800 and about 4 million by 1860, more than 400 times the crop of 1790.
+Planters used the gin to grow far more cotton. Across the United States they grew fewer than 9,000 bales of cotton a year around 1790 and more than 200,000 bales by 1800. By 1860 the cotton crop was more than 400 times as large as in 1790.
 
 **More people enslaved.** With the gin cleaning cotton so fast, planters wanted far more enslaved people to grow and pick it. The 1790 census, the government's count of everyone in the country, recorded 697,897 enslaved people in the United States. By 1860 there were nearly 4 million, more than five times as many, and about 2.5 million of them lived in the cotton-growing regions from eastern Maryland to Texas. Slaveholders spread slavery west across the South.
 

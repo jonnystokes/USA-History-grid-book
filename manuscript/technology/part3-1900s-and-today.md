@@ -12,13 +12,13 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 11 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 10 minutes**
 
-Americans brought machines into their factories, farms and homes in these fifty years. Workers at Henry Ford's car plant in Michigan started a moving assembly line on October 7, 1913, and a motor and a rope pulled each car frame past 140 workers, who added parts as it moved. Electric refrigerators and radios went into American homes, tractors began to replace horses on farms, and chemists made new materials, starting in 1907 with Leo Baekeland's Bakelite, the first plastic made entirely from chemicals.
+Americans brought machines into their factories, farms and homes in these fifty years. Workers at Henry Ford's car plant in Michigan started building car frames on a moving assembly line on October 7, 1913. Electric refrigerators and radios went into American homes, tractors began to replace horses on farms, and chemists made new materials, starting in 1907 with Leo Baekeland's Bakelite, the first plastic made entirely from chemicals.
 
 The airplane and the electronic computer both date from these years. Wilbur and Orville Wright flew a powered airplane in North Carolina on December 17, 1903. In February 1946 engineers at the University of Pennsylvania showed ENIAC, the first general-purpose electronic computer, one that could be set up to solve many kinds of problems.
 
-Scientists at Bell Labs made the first working transistor, a small part that controls the flow of electricity and can make a weak signal stronger, in December 1947. Transistors later replaced the glass vacuum tubes that machines like ENIAC used.
+Scientists at Bell Labs, the research laboratory of the telephone company AT&T, made the first working transistor in December 1947. It was a small part that could control the flow of electricity and make a weak signal stronger. Transistors later replaced vacuum tubes, glass tubes with the air taken out, like light bulbs, in machines like ENIAC.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="wright-brothers-technology" name="The Wright brothers" movie="Wright Brothers' Flying Machine (2003)" kind="famous" status="verified" -->
@@ -34,9 +34,11 @@ The Wright brothers made four flights in an airplane with an engine near Kill De
 
 Five people watched. One of them, John T. Daniels of the Life-Saving Station at Kill Devil Hills, squeezed the camera's shutter bulb and took the photograph of the first flight. It was the first photograph he had ever taken.
 
-The brothers worked out how to steer an airplane on gliders, which have no engine, in 1901 and 1902. Besides going forward, an airplane can roll, with its wing tips moving up and down, pitch, with its nose moving up and down, and yaw, with its nose swinging from side to side.
+The brothers worked out how to steer an airplane on gliders, which have no engine, in 1901 and 1902. Besides going forward, an airplane can move in three other ways, and the Wrights built a control for each.
 
-The Wrights used cables that twisted the tips of the wings up or down to control roll. In 1901 they added a movable part at the front, called an elevator, to control pitch, and in 1902 a movable upright part at the back, called a rudder, to control yaw. To test the shapes of wings, they built their own wind tunnel, in which a fan blows a steady stream of air past a model. They built a light gasoline engine, too, in the workshop of their bicycle shop in Dayton.
+When the wing tips move up and down, the airplane rolls. The Wrights controlled roll with cables that twisted the tips of the wings. To control pitch, the nose moving up and down, they added a movable part at the front, called an elevator, in 1901. Yaw is the nose swinging from side to side. In 1902 they added a movable upright part at the back, called a rudder, to control it.
+
+To test the shapes of wings, they built their own wind tunnel, in which a fan blows a steady stream of air past a model. They built a light gasoline engine, too, in the workshop of their bicycle shop in Dayton.
 
 **The first death.** Army officers were testing the Wright airplane at Fort Myer, Virginia, on September 17, 1908. Orville flew it with Lieutenant Thomas E. Selfridge of the Army Signal Corps as his passenger. The Signal Corps, the Army's communications branch, was then in charge of the Army's first aircraft.
 
@@ -56,15 +58,15 @@ At Henry Ford's plant in Highland Park, Michigan, the time it took to build the 
 
 Ford's workers tried the line first on one part. In the spring of 1913 they put together the flywheel magneto, an engine part that makes electricity, on a line, with the job split into 29 steps done by 29 men along a moving belt.
 
-The chassis line started on October 7, 1913. A motor and a rope pulled each chassis, the frame of the car with its wheels, along a line 150 feet long, past 140 workers. At first the time to build one fell to under 3 hours, and later to about 93 minutes.
+The chassis line started on October 7, 1913. Each chassis, the frame of the car with its wheels, moved along a line 150 feet long. At first the time to build one fell to under 3 hours.
 
 **Five dollars a day.** Ford announced a pay of $5 for an eight-hour day in January 1914. Before that, workers had earned about $2.34 for nine hours, so the new pay was more than double. Part of his reason was to keep workers who hated the pace of the line.
 
-The staff of the Bureau of Labor Statistics, a federal office, gather facts about work. Their count for 1913 recorded about 23,000 deaths of workers in industry, about 63 a day, among 38 million workers. That was 61 deaths for every 100,000 workers. The count includes all kinds of industrial work, not only work at machines.
+Ford's workers built cars in a year when about 23,000 workers in American industry died on the job, about 63 a day. Staff at the Bureau of Labor Statistics, a federal office that gathers facts about work, made that count for 1913. It covers every kind of industrial work across the country and gives no number for Ford's plant.
 <!-- hb-story:end slug="henry-ford-technology" -->
 
 <!-- hb-zoom level="span" label="Radios, refrigerators and plastic" -->
-Lee de Forest's Audion of 1906 made weak radio signals stronger. The Audion was a vacuum tube, a glass tube with the air taken out, like a light bulb. Inside it were a thin wire called a filament, a metal plate, and a bent wire between them called the grid. A small electric current on the grid controlled a bigger current between the other two parts. The Audion could pick up radio signals too, and tubes like it made radios for the home practical.
+Lee de Forest's Audion of 1906 made weak radio signals stronger. The Audion was a vacuum tube. Inside its glass were a thin wire called a filament, a metal plate, and a bent wire between them called the grid. A small electric current on the grid controlled a bigger current between the other two parts. The Audion could pick up radio signals too, and tubes like it made radios for the home practical.
 
 Philo Farnsworth, age 21, sent the first all-electronic television picture from his lab on Green Street in San Francisco on September 7, 1927. The picture was a straight line, made with his own camera tube, called the image dissector.
 
@@ -88,7 +90,7 @@ The Census of Agriculture of 1954 was the first to record more tractors than hor
 <!-- hb-zoom level="span" label="The first computers and the transistor" -->
 ENIAC, the first general-purpose electronic computer, was shown to the public at the University of Pennsylvania in February 1946. John Mauchly and J. Presper Eckert designed it at the university's Moore School, and the US Army paid to build it. It was built to work out artillery firing tables, charts that told soldiers how to aim their big guns.
 
-ENIAC had 17,468 vacuum tubes, weighed more than 27 tons, and filled 1,800 square feet. It could not store a program. For each new set of calculations, its programmers moved its switches and plugged its cables into new places by hand.
+ENIAC had 17,468 vacuum tubes, weighed more than 27 tons, and filled 1,800 square feet. It could not store a program. For each new set of calculations, its programmers, a team of six women, moved its switches and plugged its cables into new places by hand.
 
 **The transistor.** At Bell Labs, a group of scientists led by William Shockley looked for a replacement for vacuum tubes, which often failed. On December 16, 1947, John Bardeen and Walter Brattain placed two gold contacts, very close together, on a small slab of germanium, a chemical element. The electric push, or voltage, on one contact controlled the flow of electricity, or current, through the other.
 
@@ -106,9 +108,9 @@ The device made a signal up to 100 times stronger. It was the first transistor. 
 
 The six were Jean Jennings Bartik, Betty Snyder Holberton, Kathleen McNulty Mauchly Antonelli, Marlyn Wescoff Meltzer, Frances Bilas Spence and Ruth Lichterman Teitelbaum. No one invited them to the dinner held for the machine's public showing in 1946. The records do not say who made the guest list.
 
-ENIAC had no way to store a program. At first the six had only drawings of the machine's wiring to learn from. To give ENIAC a new problem, they moved its switches and plugged its cables into new places by hand. They were hired to work out the paths of artillery shells for the Army, and later they also ran calculations for the scientists at Los Alamos, the laboratory in New Mexico where the atomic bomb was built.
+At first the six had only drawings of the machine's wiring to learn from. They were hired to work out the paths of artillery shells for the Army, and later they also ran calculations for the scientists at Los Alamos, the laboratory in New Mexico where the atomic bomb was built.
 
-Their story went untold for decades, until Kathy Kleiman learned about the six while she was researching her college thesis, a long paper written at the end of college. She started the ENIAC Programmers Project to record their story. In 1997 the group Women in Technology International named all six to its Hall of Fame. Four of them were there to accept. Ruth Teitelbaum had died, and her husband, Adolph, accepted for her.
+Their story went untold for decades, until Kathy Kleiman learned about the six while she was researching her college thesis, a long paper written at the end of college. She started the ENIAC Programmers Project to record their story. In 1997 the group Women in Technology International named all six to its Hall of Fame. Four of them were there to accept. Ruth Teitelbaum had died, and her husband, Adolph, accepted for her. Frances Spence is not named among those who were there.
 <!-- hb-story:end slug="eniac-programmers" -->
 
 <!-- hb-story:start slug="ernest-lawrence-technology" name="Ernest Lawrence" movie="" kind="famous" status="verified" -->
@@ -193,15 +195,15 @@ Steve Jobs, Steve Wozniak and, for a short time, Ron Wayne founded Apple Compute
 
 **He put a public computer terminal in a Berkeley record store.**
 
-Lee Felsenstein and four other people set up a computer terminal that anyone could use, a keyboard and a printer or screen connected to a computer somewhere else, in a record store in Berkeley, California, in 1973. His partners were Efrem Lipkin, Ken Colstad, Jude Milhon and Mark Szpakowski. They called the project Community Memory and put the terminal at Leopold's Records, next to the store's paper bulletin board.
+**Arrested at Sproul Hall.** Nine years before he set up that terminal, Lee Felsenstein was a student at the University of California, Berkeley. He took part in the Free Speech Movement of 1964, a protest by Berkeley students for the right to speak and organize about politics on campus. He was at the Sproul Hall sit-in, where students sat inside a campus building and refused to leave. On December 3, 1964, hundreds of police officers went into the building and arrested nearly 800 students, Felsenstein among them.
+
+**Community Memory.** Felsenstein earned a degree in electrical engineering and computer science at Berkeley in 1972. The next year he and four partners, among them Efrem Lipkin and Jude Milhon, set up a computer terminal that anyone could use, a keyboard and a printer or screen connected to a computer somewhere else. They called the project Community Memory and put the terminal in a Berkeley record store, Leopold's Records, next to the store's paper bulletin board.
 
 People typed notes about music, politics, housing, services, women's groups and technology, and other people read them. The Computer History Museum's profile of Felsenstein describes it as one of the earliest online communities. The last version of the project closed in 1992.
 
-Community Memory ran on a large computer called an SDS-940, which was donated for the project. It was a time-sharing computer, one that many people could use at once from different terminals. The project's team worked with Resource One, a nonprofit group, run for a cause rather than for profit. Three students who had dropped out of computer science at Berkeley had started it.
+Community Memory ran on a large computer called an SDS-940, which was donated for the project. It was a time-sharing computer, one that many people could use at once from different terminals. The project's team worked with Resource One, a nonprofit group, run for a cause rather than for profit. Three students who had dropped out of computer science at Berkeley had started Resource One.
 
-**Arrested at Sproul Hall.** As a student at the University of California, Berkeley, Felsenstein took part in the Free Speech Movement of 1964, a protest by Berkeley students for the right to speak and organize about politics on campus. He was at the Sproul Hall sit-in, where students sat inside a campus building and refused to leave. On December 3, 1964, hundreds of police officers went into the building and arrested nearly 800 students, Felsenstein among them.
-
-**Homebrew.** Felsenstein earned a degree in electrical engineering and computer science at Berkeley in 1972. He was one of the first members of the Homebrew Computer Club, and he ran its open meetings, keeping order with a blackboard pointer.
+**Homebrew.** Felsenstein was one of the first members of the Homebrew Computer Club, and he ran its open meetings, keeping order with a blackboard pointer.
 
 With Gordon French and Bob Marsh, at a company called Processor Technology, he designed the Sol-20, one of the first small computers sold with its own case and keyboard. More than 10,000 were sold from 1977 to 1979. He then designed the Osborne 1 for Adam Osborne's company, a portable computer with a 5-inch screen. It cost $1,795, and more than 125,000 were sold in 1982.
 
@@ -257,7 +259,7 @@ The americium gives off tiny particles called alpha particles. The particles kno
 
 Nine in ten American adults carried a smartphone by 2025, a survey by the Pew Research Center found, and new programs could write answers and match faces, sometimes wrongly. Apple began selling the iPhone in 2007. In 2022 the company OpenAI released ChatGPT, a program that writes answers to typed requests, and by February 2026, 44 percent of American adults told Pew they had used it.
 
-ChatGPT is an AI program, and programs like it make mistakes. In 2020 Detroit police arrested the wrong man after a face-recognition search, a computer comparison of a photo of a face with a collection of photos, returned a false match.
+ChatGPT is an AI program. AI, short for artificial intelligence, is a name for computer programs that do tasks such as recognizing a face or writing a paragraph, and these programs make mistakes. In 2020 Detroit police arrested the wrong man after a face-recognition search, a computer comparison of a photo of a face with a collection of photos, returned a false match.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The smartphone" -->
@@ -279,7 +281,7 @@ John Goodenough, an American chemist then working at Oxford in England, found th
 
 **3D printing.** A 3D printer builds a solid object out of many thin layers, one on top of another. Chuck Hull invented stereolithography, a method of 3D printing in which the machine hardens each thin layer in turn, in 1983 and 1984. He applied for a patent on August 8, 1984, and received it on March 11, 1986. In the 2010s, 3D printers spread to factories and to hobbyists' desks.
 
-**Gene tools.** The scientists Jennifer Doudna and Emmanuelle Charpentier described CRISPR, a tool for changing genes, the instructions inside living cells that shape how a living thing grows and works, in a paper published on June 28, 2012. The two shared the Nobel Prize in Chemistry in 2020.
+**Gene tools.** CRISPR is a tool for changing genes, the instructions inside living cells that shape how a living thing grows and works. Chapter 9 tells how the scientists Jennifer Doudna and Emmanuelle Charpentier made it into that tool in 2012.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="limor-fried" name="Limor Fried" movie="" kind="ordinary" status="verified" -->
@@ -296,15 +298,19 @@ According to the company's website, Fried was the first woman engineer on the co
 <!-- hb-story:end slug="limor-fried" -->
 
 <!-- hb-zoom level="span" label="How AI programs work, and why they make mistakes" -->
-AI, short for artificial intelligence, is a name for computer programs that do tasks such as recognizing a face or writing a paragraph. One kind of AI program, a neural network, gets its settings from examples. A computer adjusts the network's settings by running the network on a huge number of examples, so no person writes out its rules step by step. People call this tuning learning.
+One kind of AI program, a neural network, learns from examples instead of following step-by-step instructions written by a person. To train a network to name what is in photographs, a computer shows it a huge number of photos whose right answers are already known.
 
-**A contest.** Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton of the University of Toronto won ImageNet in 2012 with a neural network called AlexNet. ImageNet was a contest that scored computer programs on naming what is in photographs. AlexNet's top five guesses missed the right answer for 15.3 percent of the pictures, and the second-place program missed for 26.2 percent. After AlexNet's win, neural networks came into wide use, a time called the deep-learning era.
+Each time the network gives an answer, the computer compares it with the right answer and adjusts the network's settings a little, so that the next answer comes closer. After enough examples, the network can name what is in photos it has never seen, though it still makes mistakes.
+
+**A contest.** Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton of the University of Toronto won ImageNet in 2012 with a neural network called AlexNet. ImageNet was a contest that scored computer programs on naming what is in photographs. Each program gave its five best guesses for each picture. AlexNet missed with all five on about 15 of every 100 pictures, and the second-place program missed on about 26 of every 100. After AlexNet's win, neural networks came into wide use, a time called the deep-learning era.
 
 ChatGPT and programs like it produce text, pictures and computer code from requests typed in plain language. OpenAI released ChatGPT on November 30, 2022. Five days later, OpenAI's chief executive, Sam Altman, posted online that it had "crossed 1 million users." Analysts at the bank UBS estimated that by the end of January 2023, about 100 million people a month were using it.
 
 **Why they make mistakes.** Staff at the National Institute of Standards and Technology, a federal agency, published a report in July 2024 on how large language models, programs that write text, work and why they make mistakes. A program of this kind predicts the next word in a sentence, over and over. That kind of guessing can produce true statements, and it can also produce false ones. The report states that the programs give false answers in a confident way, and that people who believe them can be misled.
 
-**Fake cases in court.** Lawyers in a federal court case in New York filed court decisions in 2023 that did not exist. Roberto Mata had sued the airline Avianca, saying a metal serving cart struck his knee on a flight. On March 1, 2023, his lawyers Steven A. Schwartz and Peter LoDuca filed a court paper that pointed to earlier court decisions to support Mata's side. ChatGPT had produced those decisions, with fake quotes.
+**Fake cases in court.** Two lawyers in a federal court case in New York cited court decisions in 2023 that ChatGPT had made up. Lawyers cite, or point to, earlier decisions to show a judge how courts have ruled in cases like theirs.
+
+Roberto Mata had sued the airline Avianca, saying a metal serving cart struck his knee on a flight. On March 1, 2023, his lawyers, Steven A. Schwartz and Peter LoDuca, filed a court paper that cited earlier decisions to support Mata's side. ChatGPT had made up those decisions and the quotes from them.
 
 Schwartz later said that he asked ChatGPT whether one case was real, and it answered that the case "does indeed exist." In written orders, the judge then asked whether the cases existed, and the lawyers kept standing by them. On June 22, 2023, Judge P. Kevin Castel found that the lawyers had acted in bad faith, meaning dishonestly. He ordered the two lawyers and their law firm to pay a penalty of $5,000.
 <!-- /hb-zoom -->
@@ -364,7 +370,7 @@ From January through August 2026, employers named AI as the reason for 116,175 a
 **The three questions, answered**
 - Why did planters enslave far more people after the cotton gin? One gin cleaned about 50 pounds of cotton a day, work that took several hundred hours by hand. Planters grew far more cotton and enslaved far more people to grow and pick it, nearly 4 million by 1860.
 - Why could an enslaved inventor not get a patent? Only the inventor could get a patent, and only by swearing an oath. In 1858 Attorney General Jeremiah Black ruled that an enslaved man was not a citizen and could not swear it, and that the enslaver could not take the patent instead.
-- What went wrong when people trusted a computer's answer? In 2023 two lawyers filed fake court decisions made by ChatGPT and were fined $5,000. In 2020 Detroit police held Robert Williams for 30 hours after a face-recognition search matched him by mistake.
+- What went wrong when people trusted a computer's answer? In 2023 two lawyers cited court decisions that ChatGPT had made up, and a judge ordered them and their law firm to pay a $5,000 penalty. In 2020 Detroit police held Robert Williams for 30 hours after a face-recognition search matched him by mistake.
 
 **What changed:** Work done by hand moved to machines run by water, then steam and electricity, then pocket-sized computers.
 

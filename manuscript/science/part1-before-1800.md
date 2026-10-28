@@ -27,7 +27,7 @@ This chapter follows American science from the sunrise posts at Cahokia to the J
 - Why did scientists collect human skulls and brains, and where are those remains now?
 - Who did the work but was left out of the credit?
 
-**Five minutes?** Read "The shape of DNA, and who got the credit" in 1950 to 2000.
+**Five minutes?** Read "How did Henrietta Leavitt measure space?" in 1900 to 1950, then "The shape of DNA, and who got the credit" in 1950 to 2000.
 **Can skip:** "Charting the winds at sea", "The physics inside the transistor, 1947", "Heavy elements, made by many countries", "Computers that predict the shapes of proteins". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -40,9 +40,7 @@ They marked what they knew about the sky with posts and with carvings in rock. A
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Woodhenge at Cahokia" -->
-The people of Cahokia, in what is now Illinois, tracked the sunrise with circles of upright wooden posts. The place where the sun comes up moves along the horizon over a year, and the posts marked that movement. The circles are known today as Woodhenge. Nations such as the Chickasaw and the Osage descend from the people who lived at Cahokia.
-
-They built five circles, one after another, between about the years 900 and 1100. Each had between 24 and 72 posts. The largest was about 145 meters across, about 475 feet, which is longer than a football field.
+The people of Cahokia, in what is now Illinois, tracked the sunrise with circles of upright wooden posts between about the years 900 and 1100. Chapter 8 tells how they built the circles. The place where the sun comes up moves along the horizon over a year, and the posts marked that movement. The circles are known today as Woodhenge. Nations such as the Chickasaw and the Osage descend from the people who lived at Cahokia.
 
 The posts marked the sunrise on the solstices, the longest and the shortest days of the year. They also marked it on the equinoxes, the two days each year when day and night are about the same length.
 <!-- /hb-zoom -->
@@ -71,9 +69,9 @@ The Ecological Society of America, a group of scientists who study ecology, has 
 
 The book is *Braiding Sweetgrass*, and it has been on the list since February 2020. Kimmerer is a member of the Citizen Potawatomi Nation. In her work she studies plants in two ways together. One is the knowledge that Native nations have built up and taught. The other is the science of the laboratory.
 
-She earned a PhD in botany, the highest degree a university gives, at the University of Wisconsin. She teaches at the College of Environmental Science and Forestry, part of the State University of New York. Her title there, Distinguished Teaching Professor, is the top rank the State University of New York gives for teaching.
+**Sweetgrass at a Mohawk farm.** In a study published in 2005, Kimmerer and a fellow researcher worked to bring back sweetgrass, a plant used to make baskets, at Kanatsiohareke, a Mohawk farm. Members of the Mohawk community chose the spot, because sweetgrass had grown there in the past. The researchers then tested four ways of planting it. The sweetgrass grew best beside a crop called hairy vetch.
 
-At that college she founded the Center for Native Peoples and the Environment. Outside it, she helped found the TEK section of the Ecological Society of America. In 2022 the MacArthur Foundation named her a MacArthur Fellow.
+She earned a PhD in botany, the highest degree a university gives, at the University of Wisconsin. She teaches at the College of Environmental Science and Forestry, part of the State University of New York, where she founded the Center for Native Peoples and the Environment. In 2022 the MacArthur Foundation named her a MacArthur Fellow.
 <!-- hb-story:end slug="robin-wall-kimmerer" -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -146,7 +144,7 @@ Officials of the National Oceanic and Atmospheric Administration, the US governm
 <!-- hb-zoom level="era" -->
 **Era 4 of 10 · 1700 to 1750 · about 3 minutes**
 
-A farmer named John Bartram and Benjamin Franklin of Philadelphia got colonists who studied nature sharing their work between 1700 and 1750, with each other and with scientists in London. Bartram traveled through the colonies from 1730 to collect and study American plants. Franklin organized a society in Philadelphia for this kind of work in 1743. From 1747 he ran experiments with electricity and mailed the results to London. Scientists in Britain read those letters, and Franklin became the first American scientist known outside the colonies.
+Colonists who studied nature began to share their work in these years, with each other and with scientists in London. A farmer named John Bartram and Benjamin Franklin of Philadelphia got them started. Bartram traveled through the colonies from 1730 to collect and study American plants. Franklin organized a society in Philadelphia for this kind of work in 1743. From 1747 he ran experiments with electricity and mailed the results to London. Scientists in Britain read those letters, and Franklin became the first American scientist known outside the colonies.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The American Philosophical Society, 1743" -->
@@ -197,7 +195,7 @@ Carl Linnaeus, the Swedish botanist who made the system scientists use to name l
 <!-- hb-zoom level="era" -->
 **Era 5 of 10 · 1750 to 1800 · about 7 minutes**
 
-Scientists in Europe began reading and reprinting American work after 1750. Benjamin Franklin designed the 1752 test that showed lightning is electricity. Men in France ran it first, and Franklin followed with his kite. In 1769 four men at Norriton timed the planet Venus as it crossed the sun, and members of the Royal Society in London reprinted their results.
+Scientists in Europe began reading and reprinting American work after 1750. Benjamin Franklin designed the 1752 test that showed lightning is electricity. Men in France ran it first, and Franklin wrote that he then ran it with a kite. In 1769 four men at Norriton timed the planet Venus as it crossed the sun, and members of the Royal Society in London reprinted their results.
 
 Thomas Jefferson used evidence in his book *Notes on the State of Virginia*, and later a moose, to argue with a scientist in France about the size of American animals. In that same book he wrote that Black people were inferior to white people, meaning less able, in body and mind. He called the claim "a suspicion only." Benjamin Banneker, a free Black farmer who taught himself astronomy, sent Jefferson an almanac he had calculated as proof against it.
 <!-- /hb-zoom -->
@@ -205,7 +203,9 @@ Thomas Jefferson used evidence in his book *Notes on the State of Virginia*, and
 <!-- hb-zoom level="span" label="Who ran the lightning test first?" -->
 Men in France ran Franklin's lightning test before Franklin did. Franklin had published a plan for a test that would show whether lightning is electricity. Thomas-François Dalibard followed the printed plan at Marly-la-Ville on May 10, 1752, with a tall iron rod. He reported the test to the French Academy, a society of scholars, on May 13. The test showed that lightning is electricity.
 
-**The kite.** Franklin ran his own test in Philadelphia with a kite. Nobody recorded the exact day or the exact spot. Franklin first described the kite in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. The date most often given, June 1752, comes from an account Joseph Priestley wrote in 1767. In a 2004 book called *Bolt of Fate*, the writer Tom Tucker argued that Franklin never flew the kite at all.
+**The kite.** Franklin wrote that he ran his own test in Philadelphia with a kite. He first described it in print on October 19, 1752, in the *Pennsylvania Gazette*, a newspaper. Nobody recorded the exact day or the exact spot. The date most often given, June 1752, comes from an account Joseph Priestley wrote in 1767.
+
+Few writers have doubted that the kite flight took place, and no record from the day settles the question either way. One who did doubt it, Tom Tucker, argued in a 2004 book called *Bolt of Fate* that Franklin never flew the kite at all.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Timing Venus, 1769" -->
@@ -225,8 +225,6 @@ Members of the American Philosophical Society chose teams to watch from three pl
 **He taught himself to build machines that showed the planets moving.**
 
 David Rittenhouse taught himself to make scientific instruments and to study the stars. He built orreries, machines that show the planets moving around the sun. When an orrery's gears turn, small models of the planets move along their paths.
-
-He built most of the instruments the Norriton team used on June 3, 1769, and he was one of the four men who timed Venus that day.
 
 He followed Franklin as president of the American Philosophical Society in 1791. Later he became the first director of the United States Mint, where the country's coins are made.
 <!-- hb-story:end slug="david-rittenhouse" -->

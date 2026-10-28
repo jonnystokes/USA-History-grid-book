@@ -7,6 +7,7 @@
 - Traditional Ecological Knowledge (TEK): the knowledge of ecology that Native nations built up by watching closely over many generations (Before 1500)
 - botanist: a plant scientist (Before 1500)
 - PhD: the highest degree a university gives (Before 1500)
+- sweetgrass: a plant used to make baskets (Before 1500)
 - Algonquian languages: a group of languages related to each other, spoken by the Secotan and their neighbors (The 1500s)
 - almanac: a yearly booklet with a calendar and tables of the sun and moon (The 1600s)
 - astronomy: the study of the sun, the moon, the planets and the stars (The 1600s)
@@ -62,9 +63,7 @@
 - land-grant colleges: colleges started with money from public land under the Morrill Act, teaching farming and the skills of machines and building (1850 to 1900)
 - agricultural experiment station: a place where scientists run tests to improve farming (1850 to 1900)
 - total solar eclipse: the moon blocking all of the sun's light for a short time (1850 to 1900)
-- thermodynamics: the science of heat and energy (1850 to 1900)
-- chemical thermodynamics: the science that uses the rules of heat and energy to explain what happens when substances change (1850 to 1900)
-- equilibrium: a steady balance (1850 to 1900)
+- chemical thermodynamics: the science of energy in chemical changes, whose rules let chemists work out from the energy in a change whether it will happen on its own (1850 to 1900)
 - doctorate: the highest degree a university gives (1850 to 1900)
 - ether: an unseen substance that scientists once thought light traveled through as waves (1850 to 1900)
 - null result: a result where the test finds nothing (1850 to 1900)
@@ -119,6 +118,8 @@
 - stillbirth: a baby born dead (1900 to 1950)
 - birth defect: a problem in a baby's body that begins before it is born (1900 to 1950)
 - transistor: a small solid part that can make an electrical signal stronger (1900 to 1950)
+- Bell Labs: the research laboratory of the telephone company AT&T (1900 to 1950)
+- amplifier: a device to make a signal stronger (1900 to 1950)
 - quantum mechanics: the branch of physics that describes very tiny particles (1900 to 1950)
 - transposition: genes moving from one place to another on the chromosomes (1900 to 1950)
 - mutable loci: places on a chromosome that can change (1900 to 1950)
@@ -148,8 +149,8 @@
 - interstellar space: the space between the stars (1950 to 2000)
 - active volcano: a volcano that is erupting, throwing out gas and melted rock (1950 to 2000)
 - navigation engineer: a person who works out where a spacecraft is and where it is heading (1950 to 2000)
-- quantum electrodynamics: the theory of how light and electrically charged matter act on each other (1950 to 2000)
 - Feynman diagrams: simple drawings that show how particles act on each other (1950 to 2000)
+- quarks: the smaller particles that protons and neutrons are built from (1950 to 2000)
 - O-ring: a rubber ring that seals a joint (1950 to 2000)
 - Cold War: the long rivalry between the United States and the Soviet Union after World War II (1950 to 2000)
 - genome: the complete set of DNA in a living thing (1950 to 2000)
@@ -197,7 +198,7 @@
 - Marie Tharp: geologist and mapmaker who found the rift valley in the Mid-Atlantic Ridge (1950 to 2000)
 - Darleane Hoffman: nuclear chemist who found plutonium in nature (1950 to 2000)
 - Linda Morabito: navigation engineer who found the first active volcano seen beyond Earth, on Io (1950 to 2000)
-- Richard Feynman: physicist who rebuilt quantum electrodynamics and showed the Challenger O-ring failure in ice water (1950 to 2000)
+- Richard Feynman: physicist who won a Nobel Prize for his work on how light and charged matter act on each other, and who showed the Challenger O-ring failure in ice water (1950 to 2000)
 - Monica Dunford: physicist on the ATLAS experiment followed in *Particle Fever* (2000 to Today)
 - Jennifer Doudna: Berkeley biochemist who with Emmanuelle Charpentier made CRISPR-Cas9 a tool for cutting DNA (2000 to Today)
 - Rainer Weiss: MIT physicist and child refugee from Nazi Germany who worked out the idea for the LIGO detectors (2000 to Today)
@@ -248,5 +249,5 @@
 ## Questions
 
 - Q: How did American scientists learn how far away the stars are? A: Henrietta Leavitt showed in 1912 that the blink of a Cepheid star tells how bright it truly is, and so how far away it is. Edwin Hubble used her rule in 1923 to place Andromeda far outside our own galaxy.
-- Q: Why did scientists collect human skulls and brains, and where are those remains now? A: Samuel Morton, the Army's museum scientists and Aleš Hrdlička measured them to rank the races, an idea that is false. Many have been returned since the laws of 1989 and 1990, but in January 2025 museums still had 90,831 Native American remains not yet made available for return.
+- Q: Why did scientists collect human skulls and brains, and where are those remains now? A: Samuel Morton, the Army's museum scientists and Aleš Hrdlička measured them to rank the races, an idea that is false. Morton's skulls are at the Penn Museum, whose staff buried 19 of them in 2024, and the Smithsonian still held at least 255 of the brains in 2023. Many Native American remains have been returned since the laws of 1989 and 1990, but in January 2025 museums still had 90,831 not yet made available for return.
 - Q: Who did the work but was left out of the credit? A: Lise Meitner explained fission, and Rosalind Franklin's X-ray pictures showed the shape of DNA. The Nobel Prizes went to Otto Hahn alone in 1944 and to Watson, Crick and Wilkins in 1962.
