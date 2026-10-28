@@ -328,3 +328,4 @@ POLISH-1 or wave B; viewer em dashes and nickname headings fixed (T-658). Still 
 - **exploration (T-727):** Chapter 1 writes 'Menendez' without the accent where other chapters write 'Menéndez'; make it match (R01's fix pass).
 - **rights-movements bank line 45 (T-710, T-727):** the same backwards Clause 25 wording ('Caucasian domestic servants excepted'); correct it from the Long Island Press source PATCHed into research-home-family.md.
 - **Starving Time count (T-746):** Chapter 15 says about 500 colonists fell to about 61; Chapter 26 says about 60 of about 240 lived. Settle from the banks and make both chapters agree.
+- **loblollie (T-744):** Chapter 4 and the immigration bank say a thick porridge; Chapter 14's prose says a thin porridge. Make Chapter 14 match the bank.
