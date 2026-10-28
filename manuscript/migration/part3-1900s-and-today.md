@@ -24,9 +24,9 @@ About 6 million Black Americans left the South between about 1910 and 1970 to ge
 <!-- hb-zoom level="span" label="The Great Migration, the first wave" -->
 The movement of Black Americans out of the rural South from about 1910 to 1970 is called the Great Migration. The first wave, from about 1910 to 1940, went mostly to cities in the North and the Midwest. Most people rode the trains north, and later travelers also went by car and by bus.
 
-**The cities.** Between 1910 and 1920, Chicago's Black population grew to about two and a half times its size, and Detroit's grew to about seven times. Many newcomers also went to New York, Philadelphia and Pittsburgh.
+**The cities.** Between 1910 and 1920, Chicago's Black population grew to about two and a half times its size, and Detroit's grew to about seven times. New York's and Philadelphia's grew by more than half, and many newcomers also went to Pittsburgh.
 
-About 90 percent of Black Americans lived in the South in 1900. By 1970 fewer than 55 percent did.
+The growth went on in the 1920s. New York's Black population more than doubled in those ten years, from about 152,000 to about 328,000. About 90 percent of Black Americans lived in the South in 1900. By 1970 fewer than 55 percent did.
 
 **Why they left.** Georgia is one example. Black Georgians had several reasons to leave. The boll weevil, a beetle that eats cotton plants, and floods ruined the cotton crop in 1915 and 1916. Lynch mobs killed more than 450 people in Georgia between 1880 and 1930, most of them Black.
 
@@ -94,7 +94,9 @@ Thompson's name was not made public until 1978, when Emmett Corrigan, a reporter
 <!-- hb-zoom level="span" label="The forced removal of Japanese Americans, 1942" -->
 United States Army officers forced more than 110,000 Japanese Americans out of their homes on the West Coast in 1942. The United States had been at war with Japan since Japanese forces attacked Pearl Harbor, in Hawaii, on December 7, 1941. President Franklin D. Roosevelt signed Executive Order 9066, a rule issued by a president, on February 19, 1942. Under it, military commanders could keep "any or all persons" out of areas they named.
 
-General John L. DeWitt commanded the Army on the West Coast. In March and April 1942 he issued orders aimed at "all persons of Japanese ancestry," meaning everyone whose family came from Japan. United States citizens and people who were not citizens were ordered out alike.
+**The reason given.** Roosevelt gave his reason in the order's opening words. Winning the war, he stated, required "every possible protection" against spying and against damage done on purpose to war supplies and to buildings and services needed for the war. The order does not identify any group of people.
+
+General John L. DeWitt commanded the Army on the West Coast. In March and April 1942 he issued orders aimed at one group, "all persons of Japanese ancestry," meaning everyone whose family came from Japan. United States citizens and people who were not citizens were ordered out alike.
 
 **108 orders.** DeWitt set up an Army office on March 11 to carry out the removal. Karl Bendetsen, an Army officer, commanded it, and the next day, at 34, he was made a colonel. Bendetsen's staff divided the coast into 108 areas of about 1,000 Japanese Americans each and issued a separate order for each area.
 
@@ -106,7 +108,7 @@ After about three months, on average, officials moved them again, to 10 larger c
 
 **The end.** None of the people removed was charged with a crime or tried. Officials lifted the order that kept Japanese Americans off the West Coast on January 2, 1945, and they closed Tule Lake, the last camp, on March 20, 1946.
 
-In 1983 the members of a federal commission that studied the removal found that its causes were "race prejudice, war hysteria and a failure of political leadership." Under the Civil Liberties Act, which President Ronald Reagan signed in 1988, each surviving person who had been held received a written apology and $20,000.
+In 1983 the members of a federal commission that studied the removal found that the order "was not justified by military necessity," meaning there was no military need for it. They found that the causes of the removal were "race prejudice, war hysteria and a failure of political leadership." Under the Civil Liberties Act, which President Ronald Reagan signed in 1988, each surviving person who had been held received a written apology and $20,000.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="george-swanson-starling" name="George Swanson Starling" movie="" kind="ordinary" status="verified" -->
@@ -172,7 +174,9 @@ The South grew by about 36 percent between 1970 and 1990, and the West by about 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Federal officials move Native families to cities" -->
-Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956. It ran in the same years as termination, a policy that members of Congress declared on August 1, 1953, to end the government's recognition of Native nations and the services that came with it.
+Officials of the Bureau of Indian Affairs, the federal office in charge of the government's dealings with Native nations, paid for Native people to move from reservations to cities from about 1950 into the 1970s. They started the program, called Relocation, between about 1948 and 1952, and members of Congress backed it with the Indian Relocation Act in 1956.
+
+**The aim.** Bureau officials opened relocation offices in Denver, Salt Lake City and Los Angeles in 1951 to help Native people from reservations find jobs in big cities. The National Archives describes Relocation as part of termination. Members of Congress declared that policy on August 1, 1953, to end the government's recognition of Native nations and the services that came with it. The federal officials behind termination aimed to make Native people live like most other Americans.
 
 The officials promised people one-way tickets to a city and help for a short time after they arrived. About 30,000 Native people moved to cities in the 1950s, and more than 100,000 had moved by the time the program ended in the 1970s. They went to Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, Denver and other cities. Many of them lived in poverty there. They also built new Native communities in those cities.
 <!-- /hb-zoom -->
