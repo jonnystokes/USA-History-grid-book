@@ -646,9 +646,12 @@ RE_QUOTED = re.compile(f'"([^"]+)"|{LQ}([^{RQ}]+){RQ}')
 def resolve_names(c, line, what):
     """[(name, span or story dict, or None)] for every quoted name on a card's line, with a warning
     for a name that matches no span (a loose or story match is linked, and still warned)."""
-    out = []
+    out, eras_said = [], []
     for m in RE_QUOTED.finditer(line):
         name = m.group(1) or m.group(2)
+        # the era written right after this name, if any ("... in 1800 to 1850")
+        e = re.match(r"\s+in\s+(before 1500|the 1[56]00s|\d{4} to (?:\d{4}|today))", line[m.end():], re.I)
+        eras_said.append(e.group(1) if e else None)
         key = label_key(name)
         hits = [s for s in c["spans"] if label_key(s["label"]) == key]
         if not hits:
@@ -667,12 +670,13 @@ def resolve_names(c, line, what):
         elif len(hits) > 1:
             warn(f'{c["slug"]}: "{what}" names "{name}", which {len(hits)} spans share; linked to the first')
         out.append((name, hits[0] if hits else None))
-    if what == "Five minutes?" and out and out[0][1] and "label" in out[0][1]:
-        m = re.search(f'["{RQ}]\\s+in\\s+([^.,]+)', line)
-        said, real = (era_order(m.group(1).strip()) if m else None), out[0][1]["era"]
-        if m and said != real:
-            warn(f'{c["slug"]}: "Five minutes?" says "{out[0][0]}" is in {m.group(1)}, but it is in '
-                 f'{c["era_label"].get(real, real)}')
+    if what == "Five minutes?":
+        for (name, hit), said_txt in zip(out, eras_said):
+            if not (hit and "label" in hit and said_txt):
+                continue
+            if era_order(said_txt) != hit["era"]:
+                warn(f'{c["slug"]}: "Five minutes?" says "{name}" is in {said_txt}, but it is in '
+                     f'{c["era_label"].get(hit["era"], hit["era"])}')
     return out
 
 
