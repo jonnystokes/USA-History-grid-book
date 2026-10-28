@@ -14,20 +14,20 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 21 of 37 · Crime, Police, and Justice · 10 eras · about 135 minutes**
+**Chapter 21 of 37 · Crime, Police, and Justice · 10 eras · about 140 minutes**
 
-**Americans stopped whipping and branding people in public and started locking them in prisons, and in every era whether a person got a fair trial depended on who that person was.**
+**Americans stopped whipping and branding people in public and started locking them in prisons, and from the first colonial courts on, whether a person got a fair trial depended on who that person was.**
 
 Clarence Earl Gideon sat in the Florida state prison at Raiford in 1961, with a five-year sentence for a break-in at a pool hall. He was 50 and had no money for a lawyer. Florida gave free lawyers only to people who could be sentenced to death, so the judge had refused him one. Gideon wrote to the US Supreme Court in pencil. In 1963 all nine justices agreed that a state must give a lawyer to a poor person charged with a serious crime. At his second trial, the jury found him not guilty after an hour.
 
-This chapter follows crime and punishment in order, from the clan laws of the Cherokee to the police killings and trials of the 2020s. In the 1600s judges had people whipped, branded and hanged in front of their neighbors. By 2009 about 1.6 million people were locked inside American prisons. The people who kept order changed too: settlers took turns on a night watch, then cities hired police, then the national government hired agents. Watch who got a trial. Mobs burned, hanged and shot thousands of people with no trial at all, and for most of those killings nobody was ever punished.
+This chapter follows crime and punishment in order, from the clan laws of the Cherokee to the police killings and trials of the 2020s. In the 1600s judges had people whipped, branded and hanged in front of their neighbors. By 2009 about 1.6 million people were locked inside American prisons. The people who kept order changed too: settlers took turns on a night watch, then cities hired police, then the national government hired agents. Thousands of people got no trial at all. Mobs burned, hanged and shot them, and for most of those killings nobody was ever punished.
 
 **Three questions this chapter answers**
 - How did punishment move from the whipping post to the prison cell?
 - Who kept order before there were police?
 - What happened to the people in mobs who killed without a trial?
 
-**Five minutes?** Read "From street work to the cell, Philadelphia" in 1750 to 1800.
+**Five minutes?** Read "From street work to the cell, Philadelphia" in 1750 to 1800, then "Francis McIntosh, St. Louis, 1836" in 1800 to 1850.
 **Can skip:** "Counterfeiting was a hanging crime", "A cabinet member convicted, 1929", "Leaders in court", "Whose courts: McGirt, 2020". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
@@ -47,7 +47,7 @@ Among the Cherokee, a killing was settled between two clans. A clan is a large f
 
 If the killer ran away, his brother or his nearest relative "was liable to suffer in his stead," in the article's words. The clan could kill the brother or the relative in the killer's place. Every killing counted as murder, so a person who killed someone by accident could be killed in return. A man who killed his own brother answered to no law and no clan.
 
-The same article states that about twenty years before 1829, the Cherokee held a council, a large meeting to decide the nation's business, and ended these rules. From then on, murder was a crime against the Cherokee government.
+The same article states that about twenty years before 1829, the Cherokee clans met in a council, a large meeting to decide the nation's business, and ended these rules. The Cherokee Nation dates that council to 1810. From then on, murder was a crime against the Cherokee government.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Words of comfort instead of revenge" -->
@@ -59,7 +59,7 @@ The Haudenosaunee told the Great Law aloud for generations. Two written versions
 
 **What the written law did to a murderer.** In that version, a chief who committed murder lost his title, and the other chiefs removed him. A war chief then ordered him to leave the land of the five nations and never come back.
 
-An outsider adopted into one of the nations got a warning from a war chief for a first wrong. After a second wrong, the written law says, the person was to be sent out of the land of the five nations for good. It does not say who was to send the person away.
+An outsider adopted into one of the nations got a warning from a war chief for a first wrong. After a second wrong, the written law says, the person was to be sent out of the land of the five nations for good.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Forgiveness at the Green Corn" -->
@@ -91,7 +91,7 @@ Juan de Oñate, the leader of the Spanish colony in New Mexico, put about 500 Ac
 
 The trial followed a fight at Acoma Pueblo, the Acoma people's town. Spanish soldiers under Juan de Zaldívar came to Acoma in December 1598 and demanded food. Acoma people killed Zaldívar and eleven or twelve of his soldiers. The Acoma people's own account says the soldiers had also raped an Acoma woman, which means they forced her into sex.
 
-Oñate opened an inquiry on December 28, an official hearing to find out what had happened. He asked the Franciscan friars with the colony, Catholic religious brothers, whether a war on Acoma would be just, meaning right and fair. They said yes. In January 1599 Vicente de Zaldívar led about 70 soldiers against Acoma. His soldiers broke into the town, killed Acoma men, women and children, and burned it.
+Oñate opened an inquiry on December 28, an official hearing to find out what had happened. He asked the Franciscan friars with the colony, Catholic religious brothers, whether a war on Acoma would be just, meaning right and fair. They said yes. In January 1599 Oñate sent Juan de Zaldívar's brother, Vicente de Zaldívar, with about 70 soldiers against Acoma. His soldiers broke into the town, killed Acoma men, women and children, and burned it.
 
 **The count of the dead.** The counts differ. New Mexico's state historian gives about 600. The Pueblo leaders of the All Pueblo Council of Governors give 800, and a National Park Service page gives about 1,500.
 
@@ -99,7 +99,7 @@ The trial of the captives began on February 9, 1599, and lasted three days. Oña
 
 **The sentences.** Oñate gave his sentence on February 12. He sentenced no one to death. Every man over 25 was to have one foot cut off and to be made a slave for twenty years, forced to work for Spanish colonists with no pay and no right to leave. Boys and young men from 12 to 25, and women and girls over 12, were also to be made slaves for twenty years.
 
-Oñate sentenced the old people to be handed over as slaves to the Plains Apache. Two Hopi men were to have their right hands cut off and be sent home to tell their people.
+Oñate sentenced the old people to be handed over as slaves to the Plains Apache. Two Hopi men, from a different people, had been captured in the fighting. Oñate sentenced each of them to have his right hand cut off and to be sent home to carry word of the punishment to his own people.
 
 **The children.** Oñate declared the Acoma children under 12 innocent. He still ordered them taken from their families and handed to the friars. A National Park Service page states that about 70 girls were sent to convents in Mexico, houses where nuns live, and that in all probability none of them ever came home. The PBS program *POV* states that some scholars believe the children were later sold as slaves. The Pueblo leaders of the All Pueblo Council of Governors give the number of children taken as 60.
 
@@ -113,7 +113,7 @@ The Acoma people's own history says that 24 men had a foot cut off, and reporter
 ## The 1600s
 
 <!-- hb-zoom level="era" -->
-**Era 3 of 10 · The 1600s · about 15 minutes**
+**Era 3 of 10 · The 1600s · about 16 minutes**
 
 Judges in the English colonies punished crime on the body and in public. They ordered whippings, brandings and cut-off ears, and they sent people to sit in the stocks where their neighbors could see them. Ordinary settlers in Massachusetts Bay took turns walking a watch to keep order at night. A jail held people waiting for a trial or a punishment, people who had done small wrongs, and people who owed money. Locking people in a prison for years as the punishment itself did not begin until the 1790s.
 
@@ -123,25 +123,27 @@ Colonial judges in Massachusetts Bay and Plymouth also tried Native people who l
 <!-- hb-zoom level="span" label="Jamestown under martial law, 1610 to 1619" -->
 The leaders of the Jamestown colony in Virginia ruled it under martial law, rule by army officers instead of by ordinary courts, from 1610 to 1619. Jamestown stood in Tsenacomoco, the land of the Powhatan people.
 
-Two of the colony's leaders issued the first orders in May and June of 1610, and Sir Thomas Dale added military rules on June 22, 1611. William Strachey printed the whole set in 1612 as the *Lawes Divine, Morall and Martiall*.
+Two of the colony's leaders issued the first orders in May and June of 1610, and Sir Thomas Dale added military rules on June 22, 1611. William Strachey printed the whole set in 1612 as the *Lawes Divine, Morall and Martiall*. Rule under these laws ended when Sir George Yeardley arrived in Virginia on April 18, 1619.
 
 **The death crimes.** The historian Brent Tarter lists the punishments in the *Encyclopedia Virginia*. The punishment was death for murder, for robbery and for blasphemy, insulting God. It was also death to speak treason, words against the king's rule, to speak against the company that ran the colony, or to trade with Indians without permission.
 
 The printed laws of 1612 also specify death for any man who would "ravish or force any woman, maid or Indian," which means rape. They specify death for "the horrible, and detestable sins of Sodomie" too, and they do not say which acts that word covered.
 
-**The whipping crimes.** The punishment was a whipping for gambling, for missing church, for sex between two unmarried people, for killing farm animals without need, and for stealing crops or farm tools. Tarter lists adultery, sex between a married person and someone outside the marriage, among the crimes punished by whipping, but the printed laws of 1612 specify death for it. Rule under these laws ended when Sir George Yeardley arrived in Virginia on April 18, 1619.
+**The whipping crimes.** The punishment was a whipping for gambling, for missing church, for sex between two unmarried people, for killing farm animals without need, and for stealing crops or farm tools.
+
+The sources disagree about adultery, sex between a married person and someone outside the marriage. The printed laws themselves specify death for it, and Tarter lists it among the whipping crimes.
 
 **What George Percy wrote.** The colonist George Percy wrote an account of the colony's early years in 1625. He wrote about the building of a fort at Henricus in 1611, and about colonists there who ran away to live with the Native people nearby. When they were caught, Dale had them put to death: "Some he apointed to be hanged some burned some to be broken upon wheles others to be Staked and some to be shott to deathe." Percy wrote that Dale did these things "To terrefy the reste," meaning to frighten the other colonists.
 
 Breaking on the wheel was a way of putting a person to death in Europe. The executioner broke the person's arms and legs with a heavy bar or club and tied the body to a large wooden wheel. Percy does not describe how it was done at Jamestown, and he does not explain what "Staked" meant.
 
-Percy also wrote that Dale had men who robbed the colony's storehouse tied to trees and left there until they starved to death. He gives no names and no count. Percy wrote his account partly to defend his own record in Virginia.
+Percy also wrote that Dale had men who robbed the colony's storehouse tied to trees and left there until they starved to death. Percy wrote his account partly to defend his own record in Virginia.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Oñate convicted, 1614" -->
-Spanish officials later put Juan de Oñate on trial in Mexico City for what he had done in New Mexico. They charged him with 30 crimes in 1612 or 1613 (accounts differ on the year). They found him guilty of 12 in 1614. Among them were using too much force against the Acoma and hanging two Indians without cause.
+Juan de Oñate was the leader who had sentenced the Acoma people in 1599. Spanish officials later put him on trial in Mexico City for what he had done in New Mexico. They charged him with 30 crimes in 1612 or 1613. They found him guilty of 12 in 1614. Among them were using too much force against the Acoma and hanging two Indians without cause.
 
-The officials banished Oñate from New Mexico for life, ordering him to leave and never return. They also barred him from Mexico City for four years, though one source says five, and fined him 6,000 ducats, which were Spanish coins. Whether he was later pardoned, officially forgiven and freed from the punishment, is not settled. No record shows that any Acoma person was asked to testify.
+The officials banished Oñate from New Mexico for life, ordering him to leave and never return. They also barred him from Mexico City for four or five years and fined him 6,000 ducats, which were Spanish coins. Whether he was later pardoned, officially forgiven and freed from the punishment, is not settled. No record shows that any Acoma person was asked to testify.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The watch and the whipping post in Massachusetts" -->
@@ -153,7 +155,7 @@ From the colony's first year, its judges tried Native people who lived near the 
 
 The watchmen were settlers taking turns, and some of them did not take their turn. The judges fined Daniel Abbott "for refuseing to watch" and Richard Norman for "negligence in watching."
 
-**The whipping post.** Whipping meant being struck on the bare back with a whip, often at a post in a public place. Bartholomew Hill got a whipping for stealing a loaf of bread from John Hoskins, and John Baker got one for shooting at birds on the Sabbath, the day of rest and worship. The records state "whipped" or "severely whipt" and do not say how many strokes anyone received.
+**The whipping post.** Whipping meant being struck on the bare back with a whip, often at a post in a public place. Bartholomew Hill got a whipping for stealing a loaf of bread from John Hoskins, and John Baker got one for shooting at birds on the Sabbath, the day of rest and worship.
 
 John Goulworth confessed to a felony, a serious crime, and the judges had him whipped and then set in the stocks. The stocks were a wooden board with holes that locked a person's ankles while the person sat in a public place. For helping in a crime, John Boggust and John Pickryn had to sit in the stocks at Salem for four hours.
 
@@ -165,7 +167,9 @@ The bilboes were iron rings locked around the ankles and joined to a bar, so the
 
 Officers of the colony also cut off ears. Three Quakers, members of a Christian group also called the Society of Friends, were held in the Boston prison in September 1658: Christopher Holder, John Copeland and John Rous. Their sentence stated that each man's right ear was to be "cut off by the Hangman."
 
-On September 16 the deputy of the marshal, the colony's officer who carried out the court's orders, came to the prison with a group of men and shut the door. They cut off the right ear of each of the three men. George Bishop, a Quaker, recorded it in his book *New England Judged* in 1661. He does not say which of the men did the cutting, and he does not name the tool.
+On September 16 the deputy of the marshal, the colony's officer who carried out the court's orders, came to the prison with a group of men and shut the door. They cut off the right ear of each of the three men. George Bishop, a Quaker, recorded it in his book *New England Judged* in 1661.
+
+**Not known:** How many strokes any of these whippings had, which of the deputy's men cut off the Quakers' ears, and with what tool.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="philip-ratcliffe" name="Philip Ratcliffe" movie="" kind="ordinary" status="verified" -->
@@ -192,19 +196,21 @@ The lawmakers gave their reason in the act. They wrote that no one would kill on
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A murder trial at Plymouth, 1675" -->
-The judges of Plymouth Colony tried three Native men in 1675 for killing another Native man. Plymouth stood in the country of the Wampanoag. John Sassamon died at Assawompset Pond on January 29, 1675. In March, Tobias, the sachem Tuspaquin and Tuspaquin's son pledged their land, worth 100 pounds, as a promise that Tobias would come to court in June.
+The judges of Plymouth Colony tried three Wampanoag men in 1675 for killing another Native man, John Sassamon. Plymouth stood in the country of the Wampanoag. Sassamon, a Christian, had reportedly warned Plymouth's governor that men of the Wampanoag leader Metacom, whom the English called Philip, were planning an attack. Sassamon died at Assawompset Pond on January 29, 1675.
 
-In June the judges tried Tobias, his son Wampapaquan, and Mattashunannamo for Sassamon's murder. The charge stated that they had struck him or twisted his neck until he died, then pushed his body through a hole in the ice of the pond. The three men said they were innocent.
+In March the judges ordered one of the three, a man named Tobias, to answer questions about the death. Three men put up their land, worth 100 pounds, as a promise that Tobias would come back to court in June: Tobias himself, a sachem named Tuspaquin, and Tuspaquin's son William.
 
-The jury was twelve English colonists. The judges added six Native men, Hope, Maskippague, Wannoo, George, Wampye and Acanootus, to advise the jury. They had not taken the jurors' oath, but the record states that they "fully concurred," meaning they agreed with the verdict. The jury found all three men guilty, and the judges sentenced them to hang.
+In June the judges tried Tobias, Tobias's son Wampapaquan and a third man, Mattashunannamo, for Sassamon's murder. The charge stated that they had struck him or twisted his neck until he died, then pushed his body through a hole in the ice of the pond. The three men said they were innocent.
 
-Plymouth officials hanged Tobias and Mattashunannamo on June 8, 1675. The judges put off Wampapaquan's hanging for a month. Within that month he was shot to death, and the colony's court record does not say who shot him. Later that June, King Philip's War began at Swansea.
+The jury was twelve English colonists. The judges added six Native men to advise the jury. The six had not taken the jurors' oath, but the record states that they "fully concurred," meaning they agreed with the verdict. The jury found all three men guilty, and the judges sentenced them to hang.
+
+Plymouth officials hanged Tobias and Mattashunannamo on June 8, 1675. The judges put off Wampapaquan's hanging for a month. Within that month he was shot to death, and the colony's court record does not say who shot him. Later that June, Metacom's men and the English colonists went to war, starting at Swansea. The English called it King Philip's War.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Salem, 1692" -->
-Colonial judges in Massachusetts tried people for witchcraft, using the Devil's power to hurt others, in 1692 and 1693. Accusers named more than 200 people, Smithsonian magazine reports. The judges had 19 of them hanged, and Sheriff George Corwin carried out the hangings. Corwin also had one man pressed to death under stones. At least five more accused people died in jail.
+English settlers built Salem on Naumkeag, a home of the Pawtucket people. A plague brought by English traders killed many of the Pawtucket between 1616 and 1619, the City of Salem's tourism office states.
 
-English settlers built Salem on Naumkeag, a home of the Pawtucket people. The City of Salem's tourism office states that between 1616 and 1619 a plague brought by English traders "devastated" the Pawtucket, meaning it killed many of them.
+Colonial judges in Massachusetts tried people for witchcraft, using the Devil's power to hurt others, in 1692 and 1693. Accusers named more than 200 people, Smithsonian magazine reports. The judges had 19 of them hanged, and Sheriff George Corwin carried out the hangings. Corwin also had one man pressed to death under stones. At least five more accused people died in jail.
 
 The first accusers were three girls in Salem Village: Betty Parris, who was 9, Abigail Williams, 11, and Ann Putnam Jr., about 12. They said three women were hurting them by witchcraft: Tituba, a woman enslaved in the house of the minister Samuel Parris, and Sarah Good and Sarah Osborn.
 
@@ -214,7 +220,7 @@ The magistrates, or local judges, John Hathorne and Jonathan Corwin questioned t
 
 The judges accepted spectral evidence: an accuser's word that the spirit of the accused person had come to her in a dream or a vision and hurt her. Only the accuser could say what she had seen. Stoughton was sure such evidence could be used. The minister Increase Mather wrote: "It were better that ten suspected witches should escape than one innocent person be condemned."
 
-**Pressed to death.** Giles Corey refused to plead guilty or not guilty. He was 71 or 81 years old, and accounts of his age differ. Under English law, a court could force a plea by pressing. The prisoner lay on the ground under a wooden board, and officers piled heavier and heavier stones on it until the prisoner answered or died.
+**Pressed to death.** Giles Corey refused to plead guilty or not guilty. Accounts give his age as 71 or 81. Under English law, a court could force a plea by pressing. The prisoner lay on the ground under a wooden board, and officers piled heavier and heavier stones on it until the prisoner answered or died.
 
 Sheriff Corwin made Corey strip naked and lie face up on the ground. Then Corwin placed large rocks on the board one at a time. The pressing went on for two days, and Corey died on the third, September 19, 1692. Because he was never convicted, his children could keep his land under the law. The Massachusetts Historical Society gives that as his reason for refusing to plead.
 
@@ -297,7 +303,9 @@ The justices could also convict on the word of Black or Native witnesses if it "
 
 The same law states a punishment for any Black or Native witness found to have lied. The person's ear was to be nailed to the pillory, and the person was to stand there for an hour. Then the ear was to be cut off. An hour later the other ear was to be nailed and cut off the same way.
 
-Then the person was to get 39 lashes of the whip, "well laid on, on his or her bare back, at the common whipping-post." The justices had this warning read aloud to every such witness. The law states the punishment and not the officer who was to carry it out, and it does not say how often it was done.
+Then the person was to get 39 lashes of the whip, "well laid on, on his or her bare back, at the common whipping-post." The justices had this warning read aloud to every such witness.
+
+**Not known:** Who was to carry out this punishment, and how often it was done.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The New York trials of 1741" -->
@@ -320,9 +328,7 @@ Douglas Linder, who wrote an account of the trials for the Famous Trials project
 
 **At the stake, each man was told the other had confessed.**
 
-Quack was enslaved by a painter named Roosevelt, and Cuffee by Adolph Philipse. Both men were tried in 1741 with no lawyer and burned at the stake.
-
-On May 12 the undersheriff, the sheriff's deputy, put Cuffee in a cell with a white prisoner, Arthur Price. He gave the two men "a tankard of punch now and then," a large cup of a mixed drink, so that Price could draw Cuffee into talking. Price then swore that Cuffee had spoken about the fires.
+Quack was enslaved by a painter named Roosevelt, and Cuffee by Adolph Philipse. On May 12 the undersheriff, the sheriff's deputy, put Cuffee in a cell with a white prisoner, Arthur Price. He gave the two men "a tankard of punch now and then," a large cup of a mixed drink, so that Price could draw Cuffee into talking. Price then swore that Cuffee had spoken about the fires.
 
 Attorney General Richard Bradley, the colony's chief lawyer, led the case against the two men. His side called eleven witnesses. Quack and Cuffee had to defend themselves. They called ten witnesses, and most of them said the two men had been somewhere else when the fires started. The men said they were innocent. The jury, Horsmanden wrote, was "soon returned" and found them guilty. Judge Horsmanden sentenced them to be "chained to a stake, and burnt to death" on Saturday, May 30, 1741.
 
@@ -330,7 +336,7 @@ The sheriff brought them to the stake at about three o'clock that afternoon, wit
 
 Moore asked the sheriff to wait while someone asked the governor for a reprieve, an order to put off the burning. The sheriff said he could not take the men back through the crowd without a strong guard. Horsmanden called the governor's answer "conditional and discretionary," meaning it came with conditions and left room for choice. He wrote that "the execution proceeded." He does not name the men who lit the fire.
 
-Their confessions at the stake named other people and led to more trials. Horsmanden told the story in his own book, *A Journal of the Proceedings*, in 1744.
+The names they gave led to more trials. Horsmanden told the story in his own book, *A Journal of the Proceedings*, in 1744.
 <!-- hb-story:end slug="quack-and-cuffee" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -368,7 +374,9 @@ The men killed all fourteen with guns and hatchets, among them children about a 
 
 Franklin named some of the dead. They included Shehaes, his daughter Peggy, and her husband John Smith, a Cayuga, with their child of about three. They also included Betty and her son Peter, and Sally, whose Native name was Wyanjoy.
 
-Governor John Penn offered a reward for the killers' names. A modern introduction to Franklin's pamphlet, published by Miami University, states that no one came forward and no one was ever charged and tried. As many as 200 of the Paxton men marched toward Philadelphia in January 1764 and stopped at Germantown. Franklin met with them. Afterward their leader, Matthew Smith, published their complaints.
+Governor John Penn offered a reward for the killers' names. In January 1764, as many as 200 of the Paxton men marched toward Philadelphia. They said they were protesting the government's failure to protect them, and they wanted to reach the Native refugees on Province Island, near the city. They stopped at Germantown when they heard that the city's militia had gathered. Franklin worked out a compromise: the marchers agreed to break up, and their leader, Matthew Smith, was allowed into the city to publish their complaints.
+
+No one ever came forward with the killers' names. A modern introduction to Franklin's pamphlet, published by Miami University, states that no one was ever charged and tried.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Three trials in Boston, 1770" -->
@@ -402,14 +410,14 @@ Each cell was six feet wide, eight feet long and nine feet high, and thirty-six 
 
 The law professor David Shapiro studied the prison's records for the *Harvard Law Review* in 2019. He found that judges sent 748 people to the prison between 1795 and 1800, and sentenced 29 of them to time in solitary confinement. Margaret Price, convicted of counterfeiting in 1795, got four years with four months in solitary.
 
-Prisoners worked in a nail factory inside the prison. Caleb Lownes wrote in 1799 that a prisoner who refused to work was locked in a cell for "some weeks, without labour, bed, or furniture, of any kind, except a vessel to hold his drink, and another his mush, and a blanket." Lownes does not name the keepers who locked the prisoner in.
+Prisoners worked in a nail factory inside the prison. Keepers locked a prisoner who refused to work in a cell. Caleb Lownes wrote in 1799 that such a prisoner stayed there "some weeks, without labour, bed, or furniture, of any kind, except a vessel to hold his drink, and another his mush, and a blanket."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Rights for the accused, 1791" -->
 Lawmakers in enough states approved the first ten amendments to the Constitution, called the Bill of Rights, on December 15, 1791. An amendment is an addition or change to the Constitution. Four of them list rights of people accused of crimes:
 
 - The Fourth Amendment requires officers to have a warrant, a judge's written order, to search a home. A judge may give one only when there is good reason to believe a crime took place.
-- The Fifth forbids forcing anyone to be a witness against himself.
+- The Fifth forbids forcing anyone to be a witness against himself. That means no one can be forced to confess, or to say anything that could help prove him guilty.
 - The Sixth requires, for an accused person, "a speedy and public trial, by an impartial jury," a jury whose members favor neither side, and the help of a lawyer.
 - The Eighth forbids "cruel and unusual punishments" and bail set too high. Bail is money paid to the court so an accused person can go free until the trial.
 

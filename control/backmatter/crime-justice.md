@@ -72,7 +72,7 @@
 - convict: a person found guilty of a crime (1800 to 1850)
 - regulating parties: companies of men who made sure people obeyed the Cherokee Nation's laws (1800 to 1850)
 - welts: raised stripes of swollen skin (1800 to 1850)
-- act of oblivion: a Cherokee act of 1810, oblivion means forgetting (1800 to 1850)
+- act of oblivion: a Cherokee act of 1810 in which the clans forgave every life one clan still owed another, oblivion means forgetting (1800 to 1850)
 - flogging: beating a person's bare back with a whip, which cuts the skin and leaves welts and scars (1800 to 1850)
 - lockstep: marching in step with arms locked together (1800 to 1850)
 - iron gag: an iron piece clamped over a prisoner's tongue and chained to his hands, held behind his back (1800 to 1850)

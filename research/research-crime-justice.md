@@ -2187,3 +2187,116 @@ Filed by the director after the parallel run. Full sourced text is in `research/
   law enforcement officials," returning fire after being fired on. "Buddy Lamont, also known as Lawrence Dean
   Lamont, was shot and killed April 27, 1973, during a gunfight with federal officers at a roadblock in Wounded
   Knee"; no charges after review by the US attorney. (ICT, Feb 22, 2023, gives April 26 for Lamont.)
+
+### PATCH 2026-10-27 (T-718, review fix for R12): facts the reader-review fixes need
+- **Acoma (era 2): who the Hopi men were, and Vicente de Zaldivar.** Copied from `research/research-native-nations.md`,
+  Acoma section, with its sources. Sentence table: "Two Hopi (Moqui) men captured in the fighting": right hand cut off,
+  "then released to carry word of the punishment to their own people" (Carlson 2008, p. 20, citing Hammond & Rey 1953,
+  p. 477; EBSCO). Sequence: "Oñate sends Juan de Zaldívar's brother Vicente de Zaldívar with about seventy soldiers"
+  (John L. Kessell, *Pueblos, Spaniards, and the Kingdom of New Mexico*, 2008; NPS, "Acoma Pueblo"). Why the two Hopi
+  men were at Acoma: not in these sources.
+- **Plymouth, 1675 (era 3): Sassamon's warning, the men's nation, and the war.** Copied from `research/research-war.md`,
+  PATCH T-259a (Colonial Society of Massachusetts, *The Correspondence of John Cotton Junior*, chapter "Three: King
+  Philip's War 1675-1676," https://www.colonialsociety.org/node/1864): Sassamon was "a Christian Indian"; "Only days
+  before, Sassamon had reportedly informed Gov. Josiah Winslow of an impending attack by Philip's men." Plymouth tried
+  "three Wampanoag men" for his murder. The war began in June 1675 at Swansea (war bank 3.4, NPS Nockum Hill article).
+  Philip was the English name for the Wampanoag leader Metacom (war bank 3.4, "King Philip's War, 1675-1676 (Metacom's
+  War)"). This supersedes the "not used" note in the Plymouth section above on what Sassamon told the governor and on
+  the men's nation. The Plymouth record calls Tuspaquin "the black sachem" of Namassakett; the son who joined the pledge
+  was Tuspaquin's son William, and Wampapaquan was Tobias's son (record, above).
+- **The Paxton march, 1764 (era 5).** Michael Goode, "Pontiac's War and the Paxton Boys," *Encyclopedia of Greater
+  Philadelphia* (https://philadelphiaencyclopedia.org/essays/pontiacs-war-and-the-paxton-boys/, WebFetch 2026-10-27;
+  the bank's own source above): "The marchers claimed they were merely protesting the government's failure to protect
+  them." Their "second stated intention" was to "conduct" the Indian refugees at Province Island (Goode doubts anyone
+  believed it). They got "as far as Germantown, where they decided to halt after hearing that the city's militia had
+  mobilized." Franklin "negotiated a compromise." "The marchers agreed to disperse," and Matthew Smith "was allowed into
+  the city to publish their grievances." A picture caption on the same page: the militia "stopped the Paxton Boys from
+  reaching Province Island."
+- **The Fifth Amendment behind *Miranda* (eras 5 and 9).** Cornell LII, *Miranda v. Arizona*, 384 U.S. 436
+  (https://www.law.cornell.edu/supremecourt/text/384/436, WebFetch 2026-10-27; the source in the government-politics
+  bank): Chief Justice Warren's opinion opens on the need for procedures that give "the individual" his "privilege under
+  the Fifth Amendment" to the Constitution "not to be compelled to incriminate himself," and requires "procedural
+  safeguards effective to secure the privilege against self-incrimination." Plain words: the warnings protect the Fifth
+  Amendment right (era 5 above) not to be forced to be a witness against oneself, that is, not to be forced to say
+  anything that would help prove oneself guilty.
+- **The 1810 act of oblivion, fuller text (era 6, and era 1's council).** *Cherokee Phoenix*, 13 March 1828, "Cherokee
+  Laws," Western Carolina University transcription (same URL as the era 6 section, WebFetch 2026-10-27): the clans
+  "unanimously" passed "an act of oblivion for all lives for which they may have been indebted" to one another, and "the
+  aforesaid act shall become binding upon every clan, or tribe." A life lost "without malice intended" leaves the
+  innocent aggressor not guilty. Should "a brother, forgetting his natural affection, ... raise his hand in anger and
+  kill his brother," he is "accounted guilty of murder." A man who kills a horse thief in anger answers to his own
+  conscience, and no satisfaction may be demanded of his relatives or clan. "By order of the seven clans," signed by
+  Turtle at Home, Speaker of Council, approved by Black Fox, Principal Chief, with Path Killer, Toochalar and Charles
+  Hicks, secretary to the council. Plain words: the clans forgave every life one clan still owed another, ended revenge
+  for accidental killings, and made the killing of a brother a murder. With the 1829 article (era 1: the Cherokee "about
+  twenty years ago in a solemn council, abolished it") and the Cherokee Nation's own date (1810, era 1 note), the prose
+  treats this council of the clans as the one that ended the law of blood. (On the WCU page the line "Oostanallah,
+  April 10, 1810" is printed after the signatures; the date is the one the era 6 section and the Cherokee Nation give.)
+- **The Kansas City killings, 1933 (era 8).** FBI, "The FBI and the American Gangster, 1924-1938"
+  (https://www.fbi.gov/history/brief-history/the-fbi-and-the-american-gangster, read with curl 2026-10-27; WebFetch got
+  403; the bank's own source above): "the 'Kansas City Massacre' in June 1933, a bloody slaughter at a train station that
+  claimed the lives of four lawmen, including a Bureau agent." "'Pretty Boy' Floyd, one of the hired hands of the Kansas
+  City Massacre, was killed in a shootout with Bureau agents and local law enforcement on an Ohio farm in October 1934."
+  Dillinger was a different case: "Dillinger and his revolving crew of gunslingers ... were shooting up banks across
+  America's heartland." "Along the way, Congress had given it newfound powers, too, including the ability to carry guns
+  and make arrests" (before the renaming of July 1935).
+- **The Dakota trials (era 7): Lincoln's reason, the two hanged by mistake, and the finding about Sibley.** Abraham
+  Lincoln, "Message to the Senate Responding to the Resolution Regarding Indian Barbarities in the State of Minnesota,"
+  11 December 1862 (American Presidency Project, UC Santa Barbara,
+  https://www.presidency.ucsb.edu/documents/message-the-senate-responding-the-resolution-regarding-indian-barbarities-the-state,
+  WebFetch 2026-10-27): he wrote that he was anxious not to act "with so much clemency as to encourage another outbreak
+  on the one hand, nor with so much severity as to be real cruelty on the other," so he "caused a careful examination of
+  the records of trials to be made, in view of first ordering the execution of such as had been proved guilty of
+  violating females." "Only two of this class were found." He then ordered "a classification of all who were proven to
+  have participated in massacres, as distinguished from participation in battles." Wikipedia, "1862 Mankato mass
+  execution" (WebFetch 2026-10-27, citing Chomsky 1990 and Anderson 2019, pp. 214-215): "the judge advocate general
+  determined that Sibley did not have the authority to convene trials of the Dakota"; "However, by then the executions
+  had already occurred." The page names no other result of the finding. Plain words for "hanged by mistake" (MNHS, era 7
+  above): two of the 38 men hanged were not men Lincoln had approved for hanging.
+- **Death penalty, race of victims, with the comparison (era 10).** DPIC, "Facts About the Death Penalty," fact sheet
+  updated 20 October 2026 (https://files.deathpenaltyinfo.org/documents/pdf/FactSheet.pdf, WebFetch, text read with
+  pdftotext 2026-10-27), table "Key Race Statistics: 1977 to Date" (columns % Black, % Latino/a, % White, Other):
+  victims of those executed 14, 7, 76; homicide victims (FBI, 1985 to 2023) 47 Black, 49 white, 4 other (the FBI row has
+  no Latino/a column); death-sentenced prisoners 40, 15, 42, 3; executed individuals 34, 8, 56; US Census 2020 12, 19,
+  62, 7. Plain words: white people were about half of all murder victims but about three of every four victims in the
+  cases that ended in an execution, so a killing was far more likely to end in an execution when the person killed was
+  white. (The October sheet counts 1,686 executions; the prose keeps the 18 September figures for its other counts.)
+- **James David Martin (era 9): the Pennsylvania murder and the Cruz plea, from an official record.** Bronx District
+  Attorney Darcel D. Clark, press release 94-2016, "Convicted Killer Pleads Guilty to Manslaughter for 1998 Rape and
+  Killing of Runaway Bronx Teen," 28 October 2016
+  (https://www.bronxda.nyc.gov/downloads/pdf/pr/2016/94-2016%20James%20Martin%20pleads%20guilty.pdf, WebFetch, text
+  read with pdftotext 2026-10-27): Martin, 44, "pleaded guilty on October 27, 2016, to first-degree Manslaughter"
+  (the Wikipedia line above gives 28 October, the date of the release); the release calls it a plea "to Manslaughter for
+  raping and strangling a 14 year-old girl in the Bronx in 1998"; 20 years expected at sentencing on 10 November 2016,
+  to run "consecutively to 22 to 40 year sentence he is serving in a Pennsylvania prison for the 2005 murder of his
+  wife." The district attorney: "He is currently in prison for murdering his wife." "According to the investigation,"
+  Marleny Cruz's body was found on 23 February 1998 on Valentine Avenue: "Her body was bruised and she had been sexually
+  assaulted and strangled." "In 2011, the Bronx Homicide Task Force connected DNA recovered from Cruz's fingernails to
+  Martin," and he was indicted in 2012. Wikipedia, "James David Martin" (WebFetch 2026-10-27, citing Michael Wilson,
+  *New York Times*, 11 May 2012): his wife was Cicela Santiago, and he strangled her in Allentown, Pennsylvania (its
+  infobox says third-degree murder; its uncited 22-to-44-year figure is not used, the district attorney's 22 to 40 is).
+  This settles the earlier "reported" Allentown line: the murder of his wife is a conviction. Guideline 5 (he is living,
+  and his pleas were to manslaughter only): the rape of Michael Eugene Thomas stays credited to the papers Wikipedia
+  cites (the *New York Daily News*, the *New York Times*, the *New York Post* and *Sports Illustrated*), and the rape of
+  Marleny Cruz is credited to the Bronx district attorney.
+- **Wounded Knee, 1973 (era 9): the movement and why it took the village.** Copied from
+  `research/research-native-nations.md`, "Red Power," with its sources: "American Indian Movement (AIM), founded July
+  1968, Minneapolis ... began with patrols against police abuse in the city relocation built" (Britannica; MNopedia;
+  History.com). "about 200 Oglala Lakota and AIM members held the village of Wounded Knee against marshals and the FBI,
+  protesting the Pine Ridge tribal chairman and broken treaties ... the site was chosen because of 1890" (SDPB; NLM
+  Native Voices timeline; U.S. Marshals history). The 1890 killing, same bank, "Wounded Knee and the Ghost Dance": on
+  December 29, 1890, the 7th Cavalry opened fire on Spotted Elk's band at Wounded Knee Creek, and "between 250 and 300
+  Lakota were killed" (EJI; Britannica; LOC).
+- **The Osage murders (era 8): who the FBI's count covers, and why Vaughn was killed.** FBI, "Osage Murders Case"
+  (https://www.fbi.gov/history/cases-and-criminals/osage-murders-case, read with curl 2026-10-27; WebFetch got 403; the
+  bank's own source above): "One by one, at least two dozen people, including Osage Native Americans, a well-known
+  oilman, and others, in the area inexplicably turned up dead" (the page uses dashes for the commas). "And anyone who
+  shared suspicions and accompanying evidence about what may be going on was met with death threats, or killed, like
+  attorney W.W. Vaughn, who was thrown from a train." "And if Anna, her mother, and two sisters died, in that order, all
+  head rights would pass to Ernest, and Hale could take control." Plain words: the FBI's "two dozen" counts everyone
+  who died, Osage and not; the Oklahoma Historical Society's "about 24" counts Osage people.
+- **Medgar Evers (era 9): where and when he was killed.** Copied from `research/research-rights-movements.md`,
+  "Medgar Evers," with its sources (NPS, "Medgar Evers" and "Assassination"; Mississippi Department of Archives and
+  History timeline): NAACP field secretary for Mississippi from 1954; shot "in the back in the driveway of his own home
+  in Jackson" in June 1963 (MDAH: 12 June; NPS: "June 11, 1963, just after midnight," the same night counted
+  differently). NPS: "In 1994 - 31 years and three trials later - Evers' killer, Byron De La Beckwith, was convicted."

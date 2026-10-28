@@ -33,13 +33,13 @@ White men, many of them made deputies by the police and given a police officer's
 
 A jury found Ed Johnson guilty of a rape he did not commit. Rape means forcing a person into sex. The justices of the US Supreme Court stopped his hanging. A mob then lynched him on a bridge in Chattanooga, which means the men in it killed him with no trial.
 
-A man attacked Nevada Taylor, a young white woman, from behind on January 23, 1906, as she walked home from a streetcar stop. He choked her with a leather strap. Ed Johnson, a Black man who worked as a porter at the Last Chance Saloon, was arrested on January 24 or 25. The court record does not name the officer who arrested him.
+A man attacked Nevada Taylor, a young white woman, from behind in January 1906, as she walked home from a streetcar stop. He choked her with a leather strap. A day or two later, officers arrested Ed Johnson, a Black man who worked as a porter at the Last Chance Saloon.
 
-A witness, Will Hixson, may have given the police Johnson's name to collect a $375 reward. At the trial, thirteen witnesses swore that Johnson was at the saloon at the time of the attack. An all-white, all-male jury found him guilty of rape on February 11, and the judge sentenced him to hang. The court had chosen his lawyers, and they dropped his appeal. An appeal is a request for a higher court to look at the case again.
+A witness, Will Hixson, may have given the police Johnson's name to collect a $375 reward. At the trial, thirteen witnesses swore that Johnson was at the saloon at the time of the attack. An all-white, all-male jury found him guilty of rape in February, and the judge sentenced him to hang. The court had chosen his lawyers, and they dropped his appeal. An appeal is a request for a higher court to look at the case again.
 
-Two Black lawyers, Noah Parden and Styles Hutchins, took up the appeal. They asked a federal court for habeas corpus, an order to review whether a prisoner is held lawfully, and the federal judges turned them down on March 10.
+Two Black lawyers, Noah Parden and Styles Hutchins, took up the appeal. They asked a federal court for habeas corpus, an order to review whether a prisoner is held lawfully, and the federal judges turned them down.
 
-Parden went to Washington and met Justice John Marshall Harlan of the US Supreme Court on March 17. The justices issued a stay, an order that stopped the hanging until they could hear the case, and ordered Sheriff Joseph Shipp to keep Johnson safe. The order is dated March 19 in the Court's later opinion, and one account dates Harlan's stay to March 18.
+Parden went to Washington and met Justice John Marshall Harlan of the US Supreme Court on March 17. Within two days the justices issued a stay, an order that stopped the hanging until they could hear the case, and ordered Sheriff Joseph Shipp to keep Johnson safe.
 
 **The night of March 19.** The order appeared in Chattanooga's evening newspapers that day. That evening Shipp sent away the usual guards and left only the night jailer, Jeremiah Gibson. Between nine o'clock and midnight, a mob broke into the jail and took Johnson to the county bridge over the Tennessee River. Shipp came to the jail during the break-in and made no effort to stop the mob or to send for help.
 
@@ -61,7 +61,9 @@ Attorney General Harlan Fiske Stone made J. Edgar Hoover, then 29, the Bureau's 
 
 Bureau officials began keeping the national crime counts in 1930. The FBI's own history gives November 24, 1932, as the official birthday of its crime laboratory, which agent Charles Appel did most of the work to build.
 
-Gunmen killed four lawmen in Kansas City in June 1933. Agents led by Melvin Purvis found the gangster John Dillinger in Chicago in July 1934 and shot him dead as he left a movie theater.
+**Gangsters.** Gunmen killed four lawmen, one of them a Bureau agent, at the train station in Kansas City in June 1933. The FBI's history names a gangster known as "Pretty Boy" Floyd as one of the gunmen. Agents and local police killed Floyd in a shootout on an Ohio farm in October 1934.
+
+John Dillinger was a different gangster, and his gang robbed banks across the middle of the country. Agents led by Melvin Purvis found Dillinger in Chicago in July 1934 and shot him dead as he left a movie theater. In these years members of Congress also gave the Bureau's agents the power to carry guns and make arrests.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Mobs and the courts, 1908 and 1930" -->
@@ -103,11 +105,17 @@ Men murdered members of the Osage Nation in Oklahoma in the early 1920s to take 
 
 **The guardians.** Under a 1921 law, local judges appointed white guardians to control the money of many Osage adults, and the judges handed many of these jobs to their friends. Guardians stole from the Osage people whose money they controlled, and some guardians and husbands killed Osage people to inherit their headrights.
 
-**Mollie Burkhart's family.** The cattleman William Hale, known as the "King of the Osage Hills," set out to get the headrights of Mollie Burkhart's family. Mollie was married to his nephew, Ernest Burkhart. If Mollie's sister Anna, their mother and two more sisters died in that order, all their headrights would pass to Ernest, and Hale could then control them. Federal agents later proved that Hale ordered the murders.
+**Mollie Burkhart's family.** The cattleman William Hale, known as the "King of the Osage Hills," set out to get the headrights of Mollie Burkhart's family. Mollie was married to his nephew, Ernest Burkhart. Hale's plan needed four women of the family to die in a set order: first Mollie's sister Anna, then their mother, then two more of Mollie's sisters. After those four deaths, all their headrights would pass to Ernest, and through his nephew Hale could take control of them. Federal agents later proved that Hale ordered the murders.
 
-Anna Brown was shot on May 22, 1921. Her mother, Lizzie Q. Kyle, died in July 1921, and people suspected poison. Their cousin Henry Roan was shot in January 1923, on Hale's orders, for his insurance money. Men blew up the house of Mollie's sister Rita Smith on March 10, 1923. The bomb killed Rita, her husband Bill and Nettie Brookshire, who worked in their house. Mollie herself was probably being poisoned.
+Members of Mollie's family died one after another:
+- Anna Brown, Mollie's sister, was shot on May 22, 1921.
+- Lizzie Q. Kyle, their mother, died in July 1921, and people suspected poison.
+- Henry Roan, their cousin, was shot in January 1923 on Hale's orders, for his insurance money.
+- Rita Smith, another sister, died on March 10, 1923, when men blew up her house. The bomb also killed her husband, Bill Smith, and Nettie Brookshire, who worked in their house.
 
-**The count.** Counts of the Osage people murdered in these years differ. The Oklahoma Historical Society's encyclopedia gives about 24, an FBI history page gives at least two dozen, and the Osage Nation counts more than 60. Someone also threw a lawyer, W. W. Vaughn, from a train, and the FBI's history page does not name his killer.
+Mollie herself was probably being poisoned.
+
+**The count.** Counts of the dead differ. The Oklahoma Historical Society and the FBI each give about two dozen, and the Osage Nation counts more than 60. People who told others what they suspected got death threats, and some were killed. Someone threw a lawyer, W. W. Vaughn, from a train.
 
 Members of the Osage Tribal Council asked federal officials to send detectives in April 1923, and Bureau of Investigation officials sent agents. Tom White led four agents who worked undercover, in secret and under false jobs, as a cattle buyer, an insurance salesman, an oil prospector and an herb doctor.
 
@@ -181,9 +189,9 @@ Seven more years of trials followed. The men were let out of prison between 1943
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 23 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 24 minutes**
 
-The number of people in American prisons grew more than eight times over in these fifty years. State and federal prisons held about 166,000 people with sentences in 1950 and about 1.38 million at the end of 2000, and about 46 of every 100 sentenced prisoners in 2000 were Black. Officials of the Bureau of Justice Statistics, part of the US Department of Justice, counted these numbers. From the 1970s on, lawmakers in Congress and the states wrote long prison terms that judges had to give, many of them for drug crimes.
+The number of people in American prisons grew more than eight times over in these fifty years, by the count of the Bureau of Justice Statistics, part of the US Department of Justice. In 2000, about 46 of every 100 sentenced prisoners were Black. From the 1970s on, lawmakers in Congress and the states wrote long prison terms that judges had to give, many of them for drug crimes.
 
 **New rules.** The justices of the US Supreme Court set new rules for police and courts between 1961 and 1968. Police could not use evidence from an illegal search. State courts had to give a lawyer to a poor person charged with a serious crime. Police had to warn people of their rights before questioning them.
 
@@ -203,7 +211,7 @@ Emmett Till was 14 and lived in Chicago. He was visiting relatives near Money, M
 
 Between 2 and 3:30 in the morning of August 28, Roy Bryant and his half-brother, J. W. Milam, came to the house of Till's great-uncle, Mose Wright, who was 64. Milam carried a pistol and a flashlight. The two men took the boy away by force, with at least one other person.
 
-Three days later his body was found in the Tallahatchie River. His killers had beaten him on his back and hips and shot him above the right ear, and one eye had been forced from its socket. The men had fastened a cotton gin fan around his neck with barbed wire to sink the body. The Department of Justice gives the fan's weight as 75 pounds, and another account gives 70.
+Three days later his body was found in the Tallahatchie River. His killers had beaten him on his back and hips and shot him above the right ear, and one eye had been forced from its socket. The men had fastened a cotton gin fan around his neck with barbed wire to sink the body. The fan weighed 70 to 75 pounds.
 
 He was identified by his father's silver ring. His mother, Mamie Till Bradley, later Mamie Till-Mobley, held an open-casket funeral in Chicago so that people could see what had been done to him.
 
@@ -243,7 +251,9 @@ Six of the nine justices ruled on June 19, 1961, in *Mapp v. Ohio*, that evidenc
 
 **Miranda.** Phoenix police officers Carroll Cooley and Wilfred Young arrested Ernesto Miranda on March 13, 1963, and questioned him for two hours about the kidnapping and rape of an 18-year-old woman. He confessed. No one had told him he could stay silent or have a lawyer.
 
-Five of the nine justices ruled on June 13, 1966, in *Miranda v. Arizona*, that police must tell a person they are holding about these rights before questioning. Chief Justice Earl Warren wrote the ruling. Afterward, officers across the country began reading people their rights aloud from "Miranda warning" cards. Arizona prosecutors, the government lawyers who bring the charges in court, tried Miranda again without the confession, and a jury convicted him again on March 1, 1967.
+Five of the nine justices ruled on June 13, 1966, in *Miranda v. Arizona*, that police must tell a person they are holding about these rights before questioning. Chief Justice Earl Warren wrote the ruling. He based it on the Fifth Amendment of 1791, which forbids forcing anyone to be a witness against himself.
+
+Afterward, officers across the country began reading people their rights aloud from "Miranda warning" cards. Arizona prosecutors, the government lawyers who bring the charges in court, tried Miranda again without the confession, and a jury convicted him again on March 1, 1967.
 
 **Gault.** The sheriff of Gila County, Arizona, took Gerald Gault, 15, into custody in June 1964 without telling his parents. A neighbor, Ora Cook, had complained that he made an obscene phone call. Judge Robert McGhee sent him to the State Industrial School until he turned 21, about six years. An adult could have been fined for the same act. Eight of the nine justices ruled in 1967 that children in juvenile court have the right to hear the charges, to have a lawyer, to question witnesses and to stay silent.
 
@@ -253,23 +263,25 @@ Five of the nine justices ruled on June 13, 1966, in *Miranda v. Arizona*, that 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The men who killed civil rights workers, in court" -->
-Members of the Ku Klux Klan and some Southern officers killed people who worked for Black Americans' rights in the 1960s. The Ku Klux Klan is a secret white group that used terror against Black people and their supporters. For the killings below, nobody was convicted of murder at the time. Some of the killers were convicted later, in federal courts or decades afterward.
+Members of the Ku Klux Klan and some Southern officers killed people who worked for Black Americans' rights in the 1960s. The Ku Klux Klan is a secret white group that used terror against Black people and their supporters. In the six cases below, nobody was convicted of murder at the time.
+
+**Jackson, Mississippi, 1963.** Byron De La Beckwith shot Medgar Evers, who led the NAACP's work in Mississippi, in the driveway of his home in Jackson in June 1963. Beckwith was tried twice in 1964, and both juries could not agree. A jury convicted him in 1994, 31 years after the killing.
 
 **Birmingham, 1963.** A bomb exploded under the steps of the 16th Street Baptist Church in Birmingham, Alabama, on September 15, 1963. It killed four girls: Addie Mae Collins, 14, Denise McNair, 11, Carole Robertson, 14, and Cynthia Wesley, 14. Klan members had set it.
 
-FBI agents named Robert Chambliss as the main suspect. FBI Director J. Edgar Hoover closed the case in 1968 without charging anyone and ordered the evidence sealed. Chambliss was convicted in 1977. Thomas Blanton was convicted in 2001 and Bobby Frank Cherry in 2002, with the help of secret FBI recordings made in 1964. Another suspect, Herman Cash, died before he could be tried.
-
-Byron De La Beckwith waited three decades for a verdict. He was tried twice in 1964 for the 1963 murder of Medgar Evers, a civil rights leader. Both juries could not agree, and a jury convicted him in 1994.
+FBI agents named Robert Chambliss as the main suspect. FBI Director J. Edgar Hoover closed the case in 1968 without charging anyone and ordered the evidence sealed. Chambliss was convicted in 1977. Thomas Blanton was convicted in 2001 and Bobby Frank Cherry in 2002, with the help of secret FBI recordings made in 1964. Another suspect died before he could be tried.
 
 **Neshoba County, 1964.** Local police in Neshoba County, Mississippi, jailed three civil rights workers for "speeding" on June 21, 1964. They were James Chaney, 21, a Black college student from Mississippi, and Andrew Goodman, 20, and Michael Schwerner, 24, white men from New York. After dark the police let them go "into the hands of the Ku Klux Klan." The three were stopped again, forced into a sheriff's car, driven to a country road and shot dead.
 
-A federal jury convicted seven of 18 men charged on October 20, 1967, among them Deputy Sheriff Cecil Price and Samuel Bowers, a Klan leader. Their sentences ran from three to ten years. Edgar Ray Killen, a Klan leader and former preacher who had organized the killings, went free because one juror would not convict a preacher. A jury in Mississippi convicted Killen of manslaughter, killing a person without planning to murder, on June 21, 2005, and he died in prison in 2018.
+A federal jury convicted seven of the 18 men charged, among them a deputy sheriff and the head of a Mississippi Klan group. The verdict came on October 20, 1967, and the sentences ran from three to ten years. Edgar Ray Killen, a Klan leader and former preacher who had organized the killings, went free because one juror would not convict a preacher. A jury in Mississippi convicted Killen of manslaughter, killing a person without planning to murder, on June 21, 2005, and he died in prison in 2018.
 
-Alabama State Trooper James Bonard Fowler shot Jimmie Lee Jackson, 26, in the stomach in a cafe in Marion, Alabama, in February 1965, and Jackson died eight days later. Fowler pleaded guilty in 2010 to misdemeanor manslaughter, a lesser charge for killing a person. He was sentenced to six months and served five.
+**Marion, Alabama, 1965.** Alabama State Trooper James Bonard Fowler shot Jimmie Lee Jackson, 26, in the stomach in a cafe in Marion in February 1965, and Jackson died eight days later. Fowler pleaded guilty in 2010 to misdemeanor manslaughter, a lesser charge for killing a person. He was sentenced to six months and served five.
 
-Four men in Selma attacked James Reeb, a minister from Boston, in March 1965. One of them struck him in the head with a club, and Reeb died two days later. The prosecutor let a man whose brother was a suspect sit on the jury, and the jury found all three men tried not guilty.
+**Selma, 1965.** Four men in Selma attacked James Reeb, a minister from Boston, in March 1965. One of them struck him in the head with a club, and Reeb died two days later. The prosecutor let a man whose brother was a suspect sit on the jury, and the jury found all three men tried not guilty.
 
-Klan members Collie Leroy Wilkins Jr., William Orville Eaton and Eugene Thomas shot and killed Viola Liuzzo, a mother of five from Detroit, on March 25, 1965, as she drove on Highway 80 in Alabama. A paid FBI informer, Gary Thomas Rowe, rode in their car. An informer is a person who secretly passes information to the police or the FBI. State juries did not convict the three men. Federal juries convicted all three of violating her civil rights, and each got 10 years in prison.
+**Highway 80, Alabama, 1965.** Three Klan members shot and killed Viola Liuzzo, a mother of five from Detroit, on March 25, 1965, as she drove on Highway 80. A paid FBI informer rode in their car. An informer is a person who secretly passes information to the police or the FBI. State juries did not convict the three men. Federal juries convicted all three of violating her civil rights, and each got 10 years in prison.
+
+In these six cases, every conviction came from a federal jury or came 14 to 45 years after the killing. No one was ever convicted of killing James Reeb.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Attica, September 1971" -->
@@ -297,7 +309,9 @@ New death sentences reached their highest number, 325, in 1986. Executions rose 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Wounded Knee, 1973: the marshals and the trial" -->
-Members of the American Indian Movement took over the village of Wounded Knee, South Dakota, on February 27, 1973, and held it for 71 days. US marshals, FBI agents and other federal officers surrounded the village with armored vehicles and automatic weapons.
+Members of the American Indian Movement took over the village of Wounded Knee, South Dakota, on February 27, 1973, and held it for 71 days. The movement had begun in Minneapolis in 1968, when its members patrolled the streets to watch for police abuse of Native people.
+
+About 200 Oglala Lakota and movement members held the village. They were protesting against the head of the tribal government on the Pine Ridge Reservation and against the treaties the United States had broken. They chose Wounded Knee because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota there in 1890. US marshals, FBI agents and other federal officers surrounded the village with armored vehicles and automatic weapons.
 
 **The shootings.** Someone opened fire on a group of US marshals on the night of March 16. A bullet hit one of them, Lloyd Grimm, and left him paralyzed from the waist down. The Associated Press reported in 2000 that no suspects were ever found.
 
@@ -305,7 +319,7 @@ A bullet hit Frank Clearwater, an Eastern Cherokee man inside the village, in th
 
 A federal sniper shot and killed Lawrence "Buddy" Lamont, an Oglala man, on April 26. The FBI report gives the date as April 27 and says he died in a gunfight with federal officers at a roadblock. A US attorney, a federal prosecutor, reviewed his killing and charged no one.
 
-Federal prosecutors charged the movement's leaders, Dennis Banks and Russell Means. After their trial had run for eight and a half months, US District Judge Fred Nichol threw out the charges in 1974. He wrote that "the misconduct by the government in this case is so aggravated that a dismissal must be entered in the interests of justice." Aggravated here means serious.
+Federal prosecutors charged the movement's leaders, Dennis Banks and Russell Means, for their part in the takeover. After their trial had run for eight and a half months, US District Judge Fred Nichol threw out the charges in 1974. He wrote that "the misconduct by the government in this case is so aggravated that a dismissal must be entered in the interests of justice." Aggravated here means serious.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Drug laws and long sentences, 1973 to 1994" -->
@@ -339,25 +353,33 @@ She turned herself in to federal agents on September 1, 1994. She pleaded guilty
 
 The NAACP Legal Defense Fund states that she never sold or used drugs, and that federal prosecutors still charged her with conspiracy to sell cocaine. Federal judge Richard B. Kellam sentenced her to 24 years and 6 months in federal prison, with no parole.
 
-She was pregnant during her case. Accounts differ on whether her son was born before or after she was sentenced. She said of her son, "I had two days with him before giving him to my parents."
+She was pregnant during her case. She said of her son, "I had two days with him before giving him to my parents."
 
 President Bill Clinton cut her sentence short on December 22, 2000, after about six and a half years in prison. The Clinton Library describes her as "a first time non-violent drug offender." President Joe Biden pardoned her on January 19, 2025.
 <!-- hb-story:end slug="kemba-smith" -->
 
 <!-- hb-zoom level="span" label="How many people were in prison" -->
-Officials of the Bureau of Justice Statistics have counted prisoners since 1925. State and federal prisons held about 166,000 people with sentences in 1950, or 109 for every 100,000 Americans, and about 196,000 in 1972.
+Officials of the Bureau of Justice Statistics have counted prisoners since 1925. These are their counts of people in state and federal prisons:
+- 1950: about 166,000
+- 1972: about 196,000
+- 1990: about 771,000
+- 2000: about 1.38 million
 
-The count began to climb in 1974. It reached about 330,000 in 1980, about 771,000 in 1990 and about 1.38 million in 2000. The rate rose from 292 for every 100,000 Americans in 1990 to 478 in 2000. Counting local jails, about 2.07 million people were locked up at the end of 2000.
+From 1950 to 1972 the count rose by about 30,000. Then it began to climb in 1974, and by 2000 it was about seven times the count of 1972. The share of Americans in prison grew more than four times over: about 1 of every 1,000 Americans in 1950, and almost 5 of every 1,000 in 2000.
 
-That year, almost 10 of every 100 Black men aged 25 to 29 were in prison. The figure for white men that age was about 1 in 100.
+In 2000, almost 10 of every 100 Black men aged 25 to 29 were in prison, against about 1 of every 100 white men that age.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Killed for his shoes, 1989" -->
-James David Martin, 17, killed Michael Eugene Thomas, 15, on May 2, 1989, to take his basketball shoes. Thomas was a ninth grader at Meade Senior High School in Anne Arundel County, Maryland. He had bought the shoes, Air Jordans, for $115.50. Martin led him into the woods near the school, raped him and strangled him to death. Then Martin took the shoes and ran.
+James David Martin, 17, killed Michael Eugene Thomas, 15, for his basketball shoes in 1989. Martin pleaded guilty to a lesser charge than murder and got seven years in prison. After his release he killed two more people.
 
-The school stood on federal land, so Martin was tried in federal court. He pleaded guilty to voluntary manslaughter, a charge for killing that is less serious than murder, and he was sentenced to seven years in prison. In May 1990 *Sports Illustrated* ran a cover story by Rick Telander called "Your Sneakers or Your Life."
+Thomas was a ninth grader at Meade Senior High School in Anne Arundel County, Maryland. He had bought the shoes, Air Jordans, for $115.50. On May 2, 1989, Martin led him into the woods near the school and strangled him to death. Then Martin took the shoes and ran. The *New York Daily News*, the *New York Times*, the *New York Post* and *Sports Illustrated* reported that Martin raped the boy before he killed him.
 
-Martin was released in 1996 and moved to New York City. In the Bronx on February 23, 1998, he grabbed 14-year-old Marleny Cruz by the throat, beat her, sexually abused her and strangled her to death. He pleaded guilty to manslaughter in her killing on October 28, 2016, and got 20 more years in prison. The *New York Daily News*, the *New York Times* and the *New York Post*, which reported these crimes, also reported that he strangled a woman named Cicela Santiago in Allentown, Pennsylvania.
+**Seven years.** The school stood on federal land, so Martin was tried in federal court. He pleaded guilty to voluntary manslaughter, a charge for killing that is less serious than murder, and he was sentenced to seven years in prison. In May 1990 *Sports Illustrated* ran a cover story by Rick Telander called "Your Sneakers or Your Life."
+
+**Two more killings.** Martin was released in 1996 and moved to New York City. In the Bronx on February 23, 1998, he beat 14-year-old Marleny Cruz and strangled her to death. In 2005 he murdered his wife, Cicela Santiago, in Allentown, Pennsylvania, and he was sentenced there to 22 to 40 years in prison.
+
+Bronx detectives matched DNA from under Cruz's fingernails to Martin in 2011. He pleaded guilty to manslaughter in her killing in 2016 and got 20 more years. The Bronx district attorney said the plea was for "raping and strangling" her.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Rodney King, 1991 and 1992" -->
@@ -396,8 +418,9 @@ Four of them confessed on video, then took it back within weeks, saying the poli
 
 <!-- hb-zoom level="era" label="By 2000" -->
 **If you remember one thing:** The justices gave accused people new protections in the 1960s, and from the 1970s lawmakers wrote the long sentences that filled the prisons.
-**The question this era leaves:** Would the prison count ever stop climbing? It had climbed since 1974, from about 196,000 in 1972 to about 1.38 million at the end of 2000.
-**Next:** The next era opens with the answer, and then with the five teenagers from Central Park.
+In 1960: Police did not have to warn a suspect that he could stay silent or have a lawyer.
+In 2000: Police had to give that warning before questioning, and prisons held about seven times as many people as in 1972.
+**Next:** In 2002 a judge cleared the five teenagers from Central Park, and after 2009 the prison count began to fall for the first time since 1972.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -407,11 +430,9 @@ Four of them confessed on video, then took it back within weeks, saying the poli
 <!-- hb-zoom level="era" -->
 **Era 10 of 10 · 2000 to Today · about 18 minutes**
 
-Courts cleared thousands of people of crimes they had not committed, and after 2009 the number of people in prison began to fall for the first time since 1972. American prisons held about 1.62 million people at the end of 2009, more than at any earlier time. State and federal prisons held about 1.25 million people at the end of 2023, the latest national count that officials of the Bureau of Justice Statistics had published by September 2026. Black Americans were in prison at almost five times the rate of white Americans in 2023.
+American prisons held about 1.62 million people at the end of 2009, the most ever counted. Then the count fell for the first time since 1972, and by the end of 2023 it was about 1.25 million. The gap between Black and white Americans stayed wide: Black Americans were in prison at almost five times the rate of white Americans in 2023.
 
-Judges and governors cleared 3,767 people of crimes they had been convicted of from 1989 through 2025, by the count of the National Registry of Exonerations. Police killed at least 1,383 people in 2024 and 1,314 in 2025, by the count of one group, and 62 of every 100 local police departments used body cameras in 2020. Some officers were charged and convicted, and others were never charged, or juries found them not guilty.
-
-Murders rose 29 percent in 2020. Violent crime then fell 9.3 percent from 2024 to 2025. FBI officials reported in 2026 that the 2025 murder rate, 4.1 for every 100,000 people, tied 1955 and 1956 for the lowest they have recorded.
+Judges and governors cleared thousands of people of crimes they had not committed. Police killed more than a thousand people a year in 2024 and 2025, by one group's count. Some officers were charged and convicted, and others were never charged, or juries found them not guilty. Murders jumped in 2020, then fell, and the 2025 murder rate tied the lowest the FBI has recorded.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fewer prisoners, a gap that shrank but stayed wide" -->
@@ -461,11 +482,13 @@ Governor Olin Johnston refused to spare him, and South Carolina officials put hi
 <!-- hb-zoom level="span" label="The death penalty, 2000 to 2026" -->
 Executions in the United States fell from 85 in 2000 to 11 in 2021, then rose to 47 in 2025. Officials had carried out 27 executions in 2026 by September 18. Judges and juries handed down 23 new death sentences in 2025, and 2,024 people were on death row on October 1, 2025. Twenty-three states have no death penalty. The Death Penalty Information Center gave these figures in September 2026.
 
-Officials in the United States have carried out 1,681 executions since 1977. They killed 1,490 of those people by lethal injection and 163 by electrocution. They killed 19 in gas chambers, sealed rooms filled with poison gas, 6 by firing squad and 3 by hanging. Of the victims of the crimes behind these executions, 76 of every 100 were white.
+Officials in the United States have carried out 1,681 executions since 1977. They killed 1,490 of those people by lethal injection. They killed the rest by electrocution, in gas chambers, sealed rooms filled with poison gas, by firing squad or by hanging.
+
+**The victims.** Of the victims in the crimes behind these executions, 76 of every 100 were white and 14 were Black. Of all murder victims in the United States from 1985 to 2023, about 49 of every 100 were white and 47 were Black, by FBI counts. A killing was far more likely to end in an execution when the person killed was white.
 
 The justices of the Supreme Court ruled in 2002 that states may not execute people with intellectual disabilities, a lasting limit on a person's ability to learn and reason. They ruled in 2005 that states may not execute people for crimes committed before age 18.
 
-**Cleared from death row.** The Death Penalty Information Center's fact sheet counts at least 203 people sentenced to death since 1973 who were later cleared and freed, though the table in the same document adds up to 202.
+**Cleared from death row.** The Death Penalty Information Center counts more than 200 people sentenced to death since 1973 who were later cleared and freed.
 
 The group's staff also list 21 people executed since 1976 who, they say, may have been innocent. Among them are Cameron Todd Willingham, executed in Texas in 2004, and Troy Davis, executed in Georgia in 2011. No court or governor has declared any of the 21 innocent. The group notes that courts do not usually hear a claim of innocence once the person is dead.
 <!-- /hb-zoom -->
@@ -564,7 +587,7 @@ Tulsa's mayor, Monroe Nichols, announced the Greenwood Trust on June 1, 2025, a 
 - Who kept order before there were police? Among the Native nations, families and clans settled killings, and in the colonies settlers took turns on a night watch while white men in the South rode on slave patrols. Full-time police began work in Boston in 1838 and in New York in 1845, and the US attorney general put 34 federal agents to work in 1908.
 - What happened to the people in mobs who killed without a trial? In almost every case in this chapter, nobody punished them. No one was charged for the Conestoga killings in 1763, for burning Francis McIntosh in 1836 or for burning Henry Smith in 1893, and no white person went to prison for Tulsa in 1921.
 
-**What changed:** The chapter begins with families settling a killing life for a life and ends with about 1.25 million people in state and federal prisons, and in every era who a person was decided whether that person got a fair trial.
+**What changed:** The chapter begins with families settling a killing life for a life and ends with about 1.25 million people in state and federal prisons. From the first colonial courts on, whether a person got a fair trial depended on who that person was.
 
 **Five dates to keep**
 - 1631: Massachusetts judges order settlers to keep a night watch.
