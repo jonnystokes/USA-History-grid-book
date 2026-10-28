@@ -18,7 +18,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **Americans moved from burning wood to burning coal, oil and natural gas, and getting that energy cost many people their freedom, their land or their lives.**
 
-A tavern keeper named Jesse Fell lit hard coal in his fireplace in Wilkes-Barre, Pennsylvania, on February 11, 1808. Most people thought that kind of coal was too difficult to burn at home. Fell had built a grate of "Small Iron rods" to hold it up, and he wrote that it burned "excellently well." From the 1820s to the 1840s, people put stoves and furnaces made for that coal into their homes. On September 6, 1869, a fire in the Avondale coal mine, near the same town, killed 110 people.
+A tavern keeper named Jesse Fell burned hard coal on an iron grate in his fireplace in Wilkes-Barre, Pennsylvania, on February 11, 1808. Most people thought that coal was too difficult to burn at home, but Fell showed that it could warm a house. From the 1820s to the 1840s, people put stoves and furnaces made for that coal into their homes. Miners dug that coal in northeastern Pennsylvania, and on September 6, 1869, a fire in one of their mines, the Avondale mine near Wilkes-Barre, killed 110 people.
 
 This chapter describes the fuels in order, from the fires Native people set on purpose before 1500 to the wind turbines and solar panels of 2025. Watch for two things. One is the main fuel. Wood came first, then coal, which passed wood around 1885, and then oil and natural gas. In 2016 natural gas passed coal as the fuel that made the most American electricity. The other is who did the work and who paid for it: the enslaved people who made charcoal for the iron furnaces, the coal miners killed underground, and the Native nations whose rivers were dammed and whose land held oil and uranium.
 
@@ -42,13 +42,13 @@ North of Mexico there were no horses, oxen or mules. People carried and dragged 
 <!-- hb-zoom level="span" label="Why did Native people set fires on purpose?" -->
 Native people lit small fires and kept them under control to help the plants and animals they used for food, clothing and ceremonies. They also burned land to clear space for crops and travel, and they used fire to hunt game. They burned on regular cycles, and the practice is now called cultural burning.
 
-In the eastern part of the continent, oak and chestnut trees fill many forests. According to the National Park Service, those forests grew that way because people burned them on purpose to get certain nut crops.
+In the eastern part of the continent, oak and chestnut trees fill many forests. According to the National Park Service, those forests grew that way because people burned them on purpose to get certain nut crops. In what is now northern California, Karuk and Yurok people burned their hazel shrubs so that the shrubs would grow new stems for weaving baskets.
 
-**Basket stems.** In what is now northern California, Karuk and Yurok people burned their hazel shrubs so that the shrubs would grow new stems for weaving baskets. Karuk and Yurok people still do these burns. Four researchers studied the burns done today and published their findings in 2021, and the study appears among the US Forest Service's research papers. Burning every three to five years gave the best stems. In the first season after a fire, the shrubs grew 13 times as many basket stems.
+**After 1500.** Native people went on burning land long after 1500. For most of the 1900s, though, federal officials in charge of forests tried to put out wildfires, to protect water supplies, towns and timber for sale. Under the rules those officials made, Native people could do far fewer burns.
 
-Federal officials in charge of forests tried to put out wildfires for most of the 1900s, to protect water supplies, towns and timber for sale. Under the rules those officials made, Native people could do far fewer burns. Writers for The Nature Conservancy reported in 2020 that Native people who burn in the old way still face punishment. Their report does not say who punishes them.
+Yurok people worked with California's state fire department on a small burn on Yurok land in 2013. In May 2014, organizers with the Cultural Fire Management Council held the first Yurok training event for this kind of burning. Writers for The Nature Conservancy reported in 2020 that Native people who burn in the old way still face punishment. Their report does not say who punishes them.
 
-Yurok people worked with California's state fire department on a small burn on Yurok land in 2013. In May 2014, organizers with the Cultural Fire Management Council held the first Yurok training event for this kind of burning.
+**Basket stems today.** Karuk and Yurok people still burn their hazel shrubs. Four researchers studied those burns and published their findings in 2021, and the study appears among the US Forest Service's research papers. Burning every three to five years gave the best stems. In the first season after a fire, the shrubs grew 13 times as many basket stems.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -100,7 +100,7 @@ George Yeardley, the governor of the Virginia colony, had a windmill built at Fl
 
 That same year, the crews of two armed ships, the *White Lion* and the *Treasurer*, attacked a Portuguese ship carrying 350 enslaved Africans and seized 50 to 60 of the captives. The *White Lion* brought its share to Point Comfort, Virginia, in late August 1619. Yeardley and a merchant named Abraham Peirsey bought them in exchange for food.
 
-At least 11 of these Africans were taken to Flowerdew Hundred, Yeardley's land. The archaeologists' account of Flowerdew does not say who moved them there. A count of the colony's people taken in 1624 and 1625 records seven Africans at Flowerdew as laborers. It gives no names for them.
+At least 11 of these Africans were taken to Flowerdew Hundred, Yeardley's land. The archaeologists' account of Flowerdew does not say who moved them there. A count of the colony's people taken in 1624 and 1625 records seven Africans at Flowerdew as laborers. It gives no names for them. The records do not say what happened to the other four.
 
 Records from 1621 also list a gristmill, a mill that grinds grain, near Jamestown. It is the first gristmill recorded in the English colonies. Farther north, three English carpenters built a sawmill and a gristmill run by water at Newichawannock, in what is now South Berwick, Maine, in 1634. They were among the first water mills in New England.
 <!-- /hb-zoom -->
@@ -113,15 +113,17 @@ Records from 1621 also list a gristmill, a mill that grinds grain, near Jamestow
 
 **The mill's model arrived three years before the men who built it.**
 
-William Chadbourne, James Wall and John Goddard arrived from England in July 1634 on a ship called the *Pied Cow*. They worked under a contract with the Laconia Company of Captain John Mason. Under it, the three carpenters were to build a sawmill, to cut logs into boards, and a gristmill on the Asbenbedick River, also called the Little Newichawannock.
+William Chadbourne, James Wall and John Goddard arrived from England in July 1634 on a ship called the *Pied Cow*. They worked under a contract with the Laconia Company of Captain John Mason. Under it, the three carpenters were to build a sawmill, to cut logs into boards, and a gristmill on the Little Newichawannock River.
 
-**The model.** Thomas Eyre wrote in a letter of May 1631 that a model of a sawmill had been sent to Newichawannock on the *Pied Cow*, the same ship the carpenters took three years later. Chadbourne and his partners built the sawmill in a rocky gorge. The spot is now below the Great Works bridge on Brattle Street in South Berwick.
+**The model.** Thomas Eyre wrote in a letter of May 1631 that a model of a sawmill had been sent to Newichawannock on the *Pied Cow*, the same ship the carpenters took three years later. Chadbourne and his partners built the sawmill in a rocky gorge. The spot is now below the Great Works bridge on Brattle Street in South Berwick. In 1652, in a lawsuit, James Wall made a sworn statement, a promise under the law to tell the truth, about where the 1634 mills had stood.
 
 **The wheel.** Writers for the Old Berwick Historical Society say the sawmill is "thought to be the first" mill in America with an overshot wheel. On an overshot wheel, water pours onto the top of the wheel, and the weight of the water turns it. People in other towns of the region say that their town had the first sawmill.
 
 **Whose river.** Newichawannock is an Abenaki word, and Abenaki people lived there. Between 1616 and 1618, before the carpenters came, diseases brought by Europeans, such as measles or smallpox, killed seven out of every ten of them. The society's histories of the mills do not say that Mason's men asked the Abenaki for permission to build. A leader named Rowls survived the diseases. In 1650 he sold his village land, Quamphegan, to a man named Thomas Spencer for five pounds.
 
-Mason died in 1638, and after that the mills fell apart. People stole the mills' materials, and one of the mills later burned. The society's timeline of the mills does not name who stole them. In 1652 James Wall made a sworn statement, a promise under the law to tell the truth, in a lawsuit about where the 1634 mills had stood.
+Mason died in 1638, and after that the mills fell apart. People stole their materials, and the society's timeline of the mills does not name the thieves. Later one of the mills burned.
+
+**Not known:** what became of William Chadbourne after he built the mills. The society's histories of the mills do not say.
 <!-- hb-story:end slug="william-chadbourne" -->
 
 <!-- hb-zoom level="span" label="How much wood did a family burn?" -->
@@ -137,7 +139,7 @@ Native people were riding horses, putting bridles on them and feeding them corn 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Oil from whales" -->
-English colonists on Long Island and in New England began killing whales close to shore for their oil in the 1600s. From about 1690, whale oil was one of the main fuels that Americans burned in their lamps, and it stayed one for about 150 years.
+English colonists on Long Island and in New England began killing whales close to shore for their oil in the 1600s. From about 1690, whale oil was one of the main fuels that Americans burned in their lamps, and it stayed one for about 150 years. By the 1840s it cost too much for most families, and they burned cheaper fuels instead.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
@@ -155,7 +157,7 @@ Lamps burned whale oil, and families who could pay the most bought candles made 
 <!-- hb-zoom level="span" label="Charcoal for iron" -->
 Iron furnaces burned charcoal, wood that has been heated with too little air for it to burn away. The heat drives off the water and gases in the wood. What is left is nearly pure carbon, and it burns hotter than wood. The men who made charcoal were called colliers.
 
-**The owners.** Five planters started the Baltimore Iron Works on the Patapsco River in Maryland in 1731. Dr. Charles Carroll, a surgeon, gave 2,200 acres of land and ran the works at first. His cousins Charles Carroll and Daniel Carroll, along with Daniel Dulany and Benjamin Tasker, put in money and enslaved workers. In the 1600s, the land around the Patapsco lay within the hunting grounds of the Susquehannock nation, whose villages stood farther north, along the Susquehanna River.
+**The owners.** Five planters started the Baltimore Iron Works on the Patapsco River in Maryland in 1731. Dr. Charles Carroll, a surgeon, gave 2,200 acres of land and ran the works at first. Two of his cousins, along with Daniel Dulany and Benjamin Tasker, put in money and enslaved workers. In the 1600s, the land around the Patapsco lay within the hunting grounds of the Susquehannock nation, whose villages stood farther north, along the Susquehanna River.
 
 **The workers.** The Baltimore Iron Works opened with 89 workers, and 42 of them were enslaved. Many of its workers were enslaved people or transported convicts, people found guilty of crimes in Britain and sent to the colonies to be sold into 7 to 14 years of forced work. Judges in English courts gave that sentence. Merchants shipped the convicts across the ocean, and merchants and ship captains sold them in the colonies, some of them to iron makers.
 
@@ -187,7 +189,7 @@ The iron furnaces still burned charcoal, and they burned it by the acre. Hopewel
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The first steam engine in America" -->
-Water flooded John Schuyler's copper mine at Second River, now North Arlington, New Jersey, in 1748, and the mine had to shut down. Schuyler paid an English engine maker, Jonathan Hornblower, 1,000 pounds to send him a "fire engine" and mechanics to set it up. Fire engine was the name people then used for this kind of steam engine, and Josiah Hornblower used it in a letter of 1768.
+Water flooded John Schuyler's copper mine at Second River, now North Arlington, New Jersey, in 1748, and the mine had to shut down. Schuyler paid an English engine maker, Jonathan Hornblower, 1,000 pounds to send him a "fire engine" and mechanics to set it up. Fire engine was the name people then used for this kind of steam engine.
 
 **The crossing.** The parts arrived in New York in September 1753 on a ship called the *Irene*, after twelve weeks at sea, and Jonathan's son Josiah came with them. The parts were taken to Newark, New Jersey, and put together there. By early 1755 the engine was pumping water out of the mine.
 
@@ -204,13 +206,13 @@ The piston was joined to one end of a beam that rocked up and down like a seesaw
 
 **The engine house burned the same night he shut the mine.**
 
-Josiah Hornblower was about 24 when he crossed from London to New York with the parts of the engine in 1753. His father, Jonathan Hornblower, was the English engine maker who had sold it to John Schuyler. Later Josiah ran the engine himself.
-
-For the next twenty years the engine worked only part of the time. Hornblower and a partner, John Stearndall, leased the mine from the Schuyler family in 1761. They paid one seventh of the ore they dug as rent.
+For twenty years after it started, the engine worked only part of the time. Josiah Hornblower, who had been about 24 when he came over with it, later ran it himself. In 1761 he and a partner, John Stearndall, leased the mine from the Schuyler family. They paid one seventh of the ore they dug as rent.
 
 **The first fire.** The building around the engine caught fire in March 1762 and burned to the ground. A report in the *New York Mercury* of March 22 states that the engine works had cost nearly ten thousand pounds. People at the time guessed that a careless workman had left a candle burning. The engine was working again by 1767. Richard McCormick, the historian who wrote the engine's history, does not say who repaired it or when.
 
-**Out of fuel.** Late in 1767, Hornblower had to stop the engine because he had run out of fuel. He got more, put the old pumps back in, made the repairs and started it again in April 1768. Soon the vein, the band of ore running through the rock, dipped deep. He tried to follow it with hand pumps, but they could not keep the water out, and his partners had not sent money they owed him.
+**Out of fuel.** Hornblower told what happened next in a letter of July 1768, in which he called the engine "the Fire engine." Late in 1767, he had to stop it because he had run out of fuel. He got more, put the old pumps back in, made the repairs and started it again in April 1768.
+
+Soon the vein, the band of ore running through the rock, dipped deep. He tried to follow it with hand pumps, but they could not keep the water out, and his partners had not sent money they owed him.
 
 **The second fire.** On a Monday in July 1768, he stopped the mine and let all the workers go. At about eight o'clock that evening, the engine house caught fire. It burned to ruins in a few minutes while a crowd of people tried to save it. Hornblower wrote that a man had gone into the engine house two hours before to light his pipe, and the man said he could not find any fire there to light it with.
 

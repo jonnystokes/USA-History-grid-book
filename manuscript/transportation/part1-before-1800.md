@@ -14,17 +14,17 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 11 of 37 · Transportation · 10 eras · about 70 minutes**
+**Chapter 11 of 37 · Transportation · 10 eras · about 75 minutes**
 
 **Each new way of moving people and goods made trips faster or cheaper, and enslaved people and immigrant workers did much of the building, on land taken from Native nations.**
 
-Eight Chinese workers laid the last stretch of track at Promontory Summit, in Utah, on May 10, 1869. It joined two railroad lines into the first one across the country, and a golden spike marked the spot. With it, a trip from coast to coast took about a week instead of about four months. Chinese workers had built the line's western part for less pay than white workers got. Fifty years later, three of the eight, Ging Cui, Wong Fook and Lee Shao, rode on a float at the anniversary.
+Eight Chinese workers laid the last stretch of track at Promontory Summit, in Utah, on May 10, 1869. It joined two railroad lines into the first one across the country, and a golden spike marked the spot. With it, a trip from coast to coast took about a week instead of about four months. Chinese workers had built the line's western part for less pay than white workers got.
 
 Era by era, this chapter describes how people and goods moved, from foot trails and canoes before 1500 to jets, container ships and ride apps after 2000. Watch two numbers fall as the eras go by: how long a trip took and what it cost. Look for old routes under new ones, too. Many colonial roads began as Native paths, and so did part of the first federal highway. And keep an eye on who did the digging and the track-laying, whose land and homes the routes went through, and who was told where to sit.
 
 **Three questions this chapter answers**
 - How much faster and cheaper did travel get?
-- Whose land and homes did the new routes take?
+- Who built the new routes, and whose land and homes did they take?
 - How did Black travelers fight the laws that made them sit apart?
 
 **Five minutes?** Read "The Chinese workers" in 1850 to 1900.
@@ -54,7 +54,7 @@ On the rivers and lakes, people traveled in two kinds of canoe. A dugout was one
 
 Where one river or lake ended, travelers lifted their canoes and carried them over land to the next, a crossing called a portage. Portages and trails linked the waterways into one network across the continent.
 
-On the Great Plains, dogs were the only animals people used to haul loads. A dog dragged a travois, two long poles with the load slung between them. The travois was the usual way to move goods on the Plains before horses came.
+On the Great Plains, dogs dragged loads on a travois, which Chapter 10 describes. The travois was the usual way to move goods on the Plains before horses came.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -64,11 +64,11 @@ On the Great Plains, dogs were the only animals people used to haul loads. A dog
 <!-- hb-zoom level="era" -->
 **Era 2 of 10 · The 1500s · about 3 minutes**
 
-Spanish soldiers and colonists brought horses and wagons into what is now the United States in the 1500s, and they built a port in Florida, all on land where Native nations already lived. The horses came north first, with Coronado's soldiers in 1540. The port, St. Augustine, began inside a Timucua town, where Spanish colonists took over the chief's council house in 1565. Juan de Oñate's colonists followed in 1598 with 83 wagons and carts, bound for Pueblo land in New Mexico.
+Spanish soldiers and colonists brought horses and wagons into what is now the United States in the 1500s, and they built a port in Florida, all on land where Native nations already lived. The first horses in the Southwest came north with Coronado's soldiers in 1540. The port, St. Augustine, began inside a Timucua town, where Spanish colonists took over the chief's council house in 1565. Juan de Oñate's colonists followed in 1598 with 83 wagons and carts, bound for Pueblo land in New Mexico.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Horses, a port and 83 wagons" -->
-**Horses.** Christopher Columbus carried horses to the Caribbean islands on his second voyage, in 1493. Almost fifty years later a Spanish commander, Francisco Vázquez de Coronado, led a long march north from the west coast of Mexico, from 1540 to 1542. His soldiers brought more than a thousand horses, the first in what is now Arizona. The march went on into New Mexico and the Great Plains.
+**Horses.** Christopher Columbus carried horses to the Caribbean islands on his second voyage, in 1493. In 1539 Hernando de Soto landed about 250 horses in Florida, on a march that Chapter 10 tells. The next year a Spanish commander, Francisco Vázquez de Coronado, led a long march north from the west coast of Mexico, from 1540 to 1542. His soldiers brought more than a thousand horses, the first in what is now Arizona. The march went on into New Mexico and the Great Plains.
 
 **A port.** Spanish colonists built St. Augustine, in what is now Florida, in 1565, and it became a port. Spanish ships sailing between Spain and the Caribbean stopped there for supplies and for protection. People have lived there without a break ever since. It is the oldest European town and port on the mainland of the United States.
 
@@ -78,7 +78,9 @@ The priest with the Spanish ships wrote that the Timucua received the Spanish we
 
 **Wagons.** Juan de Oñate led a Spanish colony north from Santa Bárbara, in northern New Spain, the Spanish colony that included Mexico, in January 1598. About 400 men came, about 130 of them with families. They brought 83 wagons and carts and more than 7,000 farm animals. In late April the long line of wagons, people and animals reached the Rio Grande near El Paso del Norte.
 
-The land the colony moved into was the homeland of the Pueblo peoples. Oñate claimed New Mexico for Spain on April 30, 1598, in a ceremony the Spanish called La Toma, "the taking." In July he set up the colony's headquarters at San Juan Pueblo, called Ohkay Owingeh, on the upper Rio Grande. The route the wagons followed became El Camino Real de Tierra Adentro, Spanish for "the royal road of the interior." It ran from Mexico City to northern New Mexico.
+The land the colony moved into was the homeland of the Pueblo peoples. Oñate claimed New Mexico for Spain on April 30, 1598, in a ceremony the Spanish called La Toma, "the taking." In July he set up the colony's headquarters, which the Spanish called San Juan de los Caballeros, at the Tewa town of Ohkay Owingeh on the upper Rio Grande. Chapter 10 tells about the colony's water mills.
+
+The route the wagons followed became El Camino Real de Tierra Adentro, Spanish for "the royal road of the interior." It ran about 1,600 miles from Mexico City to northern New Mexico.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1500s" -->
 
@@ -94,11 +96,13 @@ Boats carried most of the goods in the English colonies of the 1600s, from canoe
 <!-- hb-zoom level="span" label="The Boston Post Road, on Native paths" -->
 The first post rider, a man on horseback who carried letters, left New York for Boston in January 1673. The governor of New York, Francis Lovelace, had pushed for the route along with John Winthrop Jr. of Connecticut. The rider went by way of New Haven, Hartford, Springfield and Worcester. The trip was about 250 miles and took about two weeks. The path that he and later riders used grew into the Boston Post Road.
 
-Much of that road followed Native paths. Its lower part followed the Pequot Path, which Narragansett and Pequot people had traveled for hundreds of years. The path ran about 69 miles near the shore, from Providence to New London, Connecticut. English settlers kept using it until it became the lower part of the Boston Post Road.
+In time the road had two main routes between New York and Boston, an upper road inland and a lower road near the shore, and both followed Native paths.
+
+**The upper road.** The first rider's route, through Hartford, Springfield and Worcester, became the upper road. Between Boston and the Connecticut River it followed the Old Connecticut Path and the Bay Path, Native trails from Massachusetts Bay to the river. Nipmuc people carried corn along them to Massachusetts Bay in the early 1630s and traded it there for copper, iron goods and wool cloth. Thomas Hooker led the members of his church along the same path in 1636 to found the town of Hartford.
+
+**The lower road.** It ran near the shore, through New London and Providence. That stretch followed the Pequot Path, which Narragansett and Pequot people had traveled for hundreds of years. The path ran about 69 miles, from Providence to New London, Connecticut, and English settlers kept using it until it became part of the lower road.
 
 **What Roger Williams saw.** The English colonist Roger Williams walked the Pequot Path in 1636. Along 20 miles of it he passed about a dozen Narragansett villages. He wrote: "It is admirable to see what paths their naked hardened feet have made in the wilderness in the most stony and rockie places" (by admirable he meant worth wondering at).
-
-The road's upper part followed the Old Connecticut Path and the Bay Path, Native trails from Massachusetts Bay to the Connecticut River. Nipmuc people carried corn along them to Massachusetts Bay in the early 1630s and traded it there for copper, iron goods and wool cloth. Thomas Hooker led the members of his church along the same path in 1636 to found the town of Hartford.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="edward-converse" name="Edward Converse" movie="" kind="ordinary" status="verified" -->
@@ -125,7 +129,7 @@ Converse was a Puritan, one of the English Christians who started the Massachuse
 <!-- hb-zoom level="era" -->
 **Era 4 of 10 · 1700 to 1750 · about 5 minutes**
 
-Stage lines for passengers and a big freight wagon called the Conestoga came into use in the English colonies between 1700 and 1750. Pennsylvania wagon builders made the Conestoga to haul freight to Philadelphia, and New Jersey officials licensed one of the first stage lines in 1706. The roads were still rough. Riding from Boston to New York in 1704, Sarah Kemble Knight crossed some rivers by canoe in the dark.
+Stage lines for passengers and a big freight wagon called the Conestoga came into use in the English colonies between 1700 and 1750. Pennsylvania wagon builders made the Conestoga to haul freight to Philadelphia, and New Jersey officials licensed one of the first stage lines in 1706. The roads were still rough, as Sarah Kemble Knight wrote in her journal after she rode from Boston to New York in 1704.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The wagon and the people it was named for" -->
@@ -164,11 +168,11 @@ Titheables, or tithables, were the people counted for a tax on each person: all 
 > **Who:** A Boston businesswoman who rode from Boston to New York and wrote down what the road was like.
 > **When and where:** October 1704, by road from Boston to New Haven and on to New York. Her journal was published in 1825.
 
-**She crossed rivers by canoe in the dark, riding with the mail.**
+**She wrote down which bridges she was afraid to cross.**
 
-Sarah Kemble Knight, a businesswoman in Boston, rode from Boston to New Haven and on to New York in October 1704, and she kept a journal of the trip. She traveled with post riders, the men who carried the mail, and hired guides from one town to the next.
+Sarah Kemble Knight traveled with post riders, the men who carried the mail, and hired guides from one town to the next. She crossed some rivers by canoe in the dark and others at fords, shallow places where people and horses can wade across.
 
-Her journal is an eyewitness record of the road itself. She crossed some rivers by canoe in the dark and others at fords, shallow places where people and horses can wade across. She wrote down which bridges she was afraid to cross. The journal was published in 1825, more than a hundred years after her ride.
+Her journal is an eyewitness record of the road itself. It was published in 1825, more than a hundred years after her ride.
 <!-- hb-story:end slug="sarah-kemble-knight-transportation" -->
 <!-- hb-time:end id="1700-1750" -->
 
@@ -176,7 +180,7 @@ Her journal is an eyewitness record of the road itself. She crossed some rivers 
 ## 1750 to 1800
 
 <!-- hb-zoom level="era" -->
-**Era 5 of 10 · 1750 to 1800 · about 3 minutes**
+**Era 5 of 10 · 1750 to 1800 · about 4 minutes**
 
 Around Philadelphia, between 1750 and 1800, investors paid for a road and charged travelers a fee to use it, and an inventor ran a boat pushed by a steam engine. The investors, people in and around Philadelphia and Lancaster, put their money into the road company in 1792. Their Philadelphia and Lancaster Turnpike, finished in the mid-1790s, was the first long-distance road of its kind in the country.
 
@@ -195,7 +199,7 @@ The Lancaster Turnpike was the country's first long-distance engineered toll roa
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="A steamboat before Fulton's" -->
-John Fitch tested a steamboat on the Delaware River on August 22, 1787, while delegates to the Constitutional Convention watched. They were the men meeting in Philadelphia that summer to write the Constitution of the United States. A steam engine on Fitch's boat worked rows of oars that pushed the boat through the water.
+John Fitch tested a steamboat on the Delaware River on August 22, 1787, while delegates to the Constitutional Convention watched. They were the men meeting in Philadelphia that summer to write the Constitution of the United States. A steam engine on Fitch's boat worked rows of oars that pushed the boat through the water, and it moved upriver, against the current, at about three miles an hour.
 
 Fitch's boat, the *Experiment*, carried passengers on a schedule in the summer of 1790. It was the first steamboat service anywhere in the world to carry paying passengers on a schedule. The boat carried up to about 30 passengers at a time on the Delaware, between Philadelphia and New Jersey towns such as Trenton, Burlington and Bordentown, and also to Wilmington.
 <!-- /hb-zoom -->
@@ -206,10 +210,14 @@ Fitch's boat, the *Experiment*, carried passengers on a schedule in the summer o
 > **Who:** The builder of a working steamboat in 1787 and of the first steamboat service anywhere to carry paying passengers on a schedule.
 > **When and where:** The Delaware River, 1787 to 1790. Died 1798.
 
-**Men writing the Constitution watched his steamboat in 1787.**
+**George Washington backed a rival's steamboat, not his.**
 
-Fitch's steamboat service of 1790 did not last. Too few people bought tickets, the machinery broke down, and the people who had put money into his boats stopped paying for them.
+John Fitch had little money when he decided, at about 41, that a boat driven by steam could travel upriver against the current. The country had no national patent law yet. So in 1786 he went from state to state asking lawmakers for a patent, the legal right to be the only one to build and run such boats.
 
-Fitch died in 1798. Nine years later Robert Fulton's boat began running on the Hudson River, and Fulton built the first steamboat business that lasted.
+Benjamin Franklin, who had his own ideas about powering boats, showed little interest. Virginia's lawmakers turned Fitch down in favor of the boat of a Virginian, James Rumsey, which George Washington backed. New Jersey's lawmakers gave Fitch the only right to run steamboats on that state's waters for 14 years.
+
+**Losing out.** His 1790 passenger service failed when too few people bought tickets, the machinery broke down and the people who had put money into his boats stopped paying. In 1791 the members of the federal patent board, led by Thomas Jefferson, gave steamboat patents to both Fitch and Rumsey and would not say that Fitch had been first. Fitch sailed to France and England in 1793 to look for backers and found none.
+
+In 1796 he went to Kentucky, where he had claimed land, and found squatters, people living on it without his permission. He killed himself in Bardstown, Kentucky, in 1798, nine years before Robert Fulton's steamboat began running on the Hudson.
 <!-- hb-story:end slug="john-fitch" -->
 <!-- hb-time:end id="1750-1800" -->

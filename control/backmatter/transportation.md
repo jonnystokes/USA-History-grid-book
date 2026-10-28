@@ -8,7 +8,6 @@
 - Eastern Woodlands: the forests that covered the eastern part of the continent (Before 1500)
 - freight: goods being shipped (Before 1500)
 - portage: a crossing over land, carrying the canoes, from one river or lake to the next (Before 1500)
-- travois: two long poles with the load slung between them, dragged by a dog (Before 1500)
 - council house: the building where a town's leaders met (The 1500s)
 - New Spain: the Spanish colony that included Mexico (The 1500s)
 - La Toma: "the taking," the ceremony in which Oñate claimed New Mexico for Spain (The 1500s)
@@ -32,6 +31,8 @@
 - turnpike: a road whose owners charge travelers a fee, called a toll, at gates along the way (1750 to 1800)
 - share of stock: a piece of ownership in a company (1750 to 1800)
 - engineered road: a road planned and built to a design, with a prepared surface (1750 to 1800)
+- patent: the legal right to be the only one to make and sell an invention (1750 to 1800)
+- squatters: people living on land without the owner's permission (1750 to 1800)
 - folly: a foolish project (1800 to 1850)
 - boiler: the tank where water was heated into steam under pressure (1800 to 1850)
 - monopoly: a legal right under which no one else could run the same business there (1800 to 1850)
@@ -43,6 +44,7 @@
 - malaria: a disease that brings high fevers and chills again and again (1800 to 1850)
 - reservation: land set aside for a Native nation (1800 to 1850)
 - reservoir: a lake made to store water (1800 to 1850)
+- security: something a lender can take if a loan is not paid back (1800 to 1850)
 - overseer: the man in charge of the workers (1800 to 1850)
 - flogging: whipping a person's bare back until the skin splits (1800 to 1850)
 - brine: the salt water used to keep meat (1800 to 1850)
@@ -67,7 +69,6 @@
 - trainmen: the workers who ran the trains (1850 to 1900)
 - coupling: the job of joining railroad cars together (1850 to 1900)
 - brakeman: the crew member who set the brakes and joined the cars (1850 to 1900)
-- patent: the legal right to be the only one to make and sell an invention (1850 to 1900)
 - craze: something that very many people took up at the same time (1850 to 1900)
 - emancipate: set free (1850 to 1900)
 - flying boat: a plane that takes off from and lands on water (1900 to 1950)
@@ -100,6 +101,8 @@
 - interest: extra money owed for the time someone waited to be paid (2000 to Today)
 - Proposition 22: a law put to California voters directly (2000 to Today)
 - light trucks: pickups, sport utility vehicles (SUVs) and minivans (2000 to Today)
+- battery electric car: a car that runs on electricity alone (2000 to Today)
+- hybrid: a car with both a gasoline engine and an electric motor (2000 to Today)
 - tax credit: money taken off what a buyer owes in taxes (2000 to Today)
 - federal grants: money the national government had promised (2000 to Today)
 - cap-and-trade: a state program that makes polluters pay for permits to pollute (2000 to Today)
@@ -163,6 +166,6 @@
 
 ## Questions
 
-- Q: How much faster and cheaper did travel get? A: On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon. On the first railroad across the country, a coast-to-coast trip took a week instead of four months.
-- Q: Whose land and homes did the new routes take? A: Native nations lost land to them, and in 1862 members of Congress directed federal officials to end Native ownership along the railroad "as rapidly as may be." Highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
-- Q: How did Black travelers fight the laws that made them sit apart? A: They refused to move and went to court: Ida B. Wells sued a railroad in 1884, Homer Plessy lost in the Supreme Court in 1896, and Irene Morgan won there in 1946. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
+- Q: How much faster and cheaper did travel get? A: On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon, and on the first railroad across the country a coast-to-coast trip took a week instead of four months. By 1956, loading a ton of cargo onto a ship cost about 16 cents in containers, against about $5.86 by hand.
+- Q: Who built the new routes, and whose land and homes did they take? A: Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. The routes took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
+- Q: How did Black travelers fight the laws that made them sit apart? A: They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.

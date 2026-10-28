@@ -22,7 +22,7 @@ Trains carried about 43.7 million members of the armed forces in World War II, f
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Model T and the new roads" -->
-The Ford Model T went on sale on October 1, 1908, at $825, and its price fell to $260 by 1925. The 15 millionth Model T left the factory on May 26, 1927, the last day Ford's workers made the car.
+The Ford Model T went on sale on October 1, 1908, at $825, and its price fell to $260 by 1925. From 1913 Ford's workers built it on a moving assembly line, and the time it took to build a car's frame fell from more than 12 hours to about 93 minutes. Chapter 8 tells how the line worked. The 15 millionth Model T left the factory on May 26, 1927, the last day Ford's workers made the car.
 
 **The Lincoln Highway.** A group of private backers, among them Carl Fisher and Henry Joy, laid out the Lincoln Highway in 1913. It was the first named road for cars across the whole country, from Times Square in New York City to San Francisco. After 1926 highway officials made parts of it into sections of numbered routes.
 
@@ -88,9 +88,9 @@ The porters formed a union, a group of workers who bargain together with their e
 
 **On the job, the porters had to smile for the passengers.**
 
-Eight retired Pullman porters told the filmmakers Jack Santino and Paul Wagner in 1982 what their job had been like. Rosina Tucker, a porter's wife who worked to build the porters' union, tells the story in the film. The porters describe the smile Pullman managers required them to wear. They talk about living on tips, working through the night without sleep, and being called "George" instead of their own names.
+Eight retired Pullman porters told two filmmakers in 1982 what their job had been like. Rosina Tucker, a porter's wife who worked to build the porters' union, tells the story in the film. The porters describe the smile Pullman managers required them to wear and the nights they worked without sleep.
 
-Two of the men in the film are C. L. Dellums and E. D. Nixon. Pullman managers fired Dellums in October 1927 for organizing porters into a union. Nixon later called the meeting for the bus boycott in Montgomery, Alabama.
+Two of the men in the film are C. L. Dellums and E. D. Nixon. Pullman managers fired Dellums in October 1927 for organizing porters into a union. Nixon later called the meeting that organized the Montgomery bus boycott. From December 1955 to December 1956, most of the 40,000 Black people of Montgomery, Alabama, stayed off the city's buses, until federal judges ended bus segregation there. Chapter 25 tells the boycott in full.
 <!-- hb-story:end slug="miles-of-smiles-porters" -->
 
 <!-- hb-zoom level="span" label="Trains and Jeeps in World War II" -->
@@ -121,7 +121,9 @@ Irene Morgan, of Baltimore, was 27 and built B-26 bombers in a wartime factory. 
 
 Her lawyer was Spottswood W. Robinson III, and the lawyers Thurgood Marshall and William H. Hastie of the NAACP, a civil rights group, joined him. The judges of the Virginia Supreme Court of Appeals ruled against her on June 6, 1945.
 
-The justices of the US Supreme Court ruled for her on June 3, 1946. Justice Stanley Reed wrote that under Virginia's law travel between states was harder, so the law could not apply to buses crossing state lines. The ruling covered only trips between states. Reporters at the *Afro-American* newspaper wrote that bus companies' seating rules did not change right away.
+The justices of the US Supreme Court ruled for her on June 3, 1946. Justice Stanley Reed wrote that a passenger crossing several states could meet a different seating rule in each one, and under Virginia's law might have to change seats again and again inside Virginia. Seating on trips across state lines, he wrote, needed "a single, uniform rule," so Virginia's law could not apply to those buses.
+
+The ruling covered only trips between states. Reporters at the *Afro-American* newspaper wrote that bus companies' seating rules did not change right away.
 <!-- hb-story:end slug="irene-morgan" -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -176,9 +178,9 @@ Highway officials took about 356 homes in the Centennial Hill, Bel Air and Botto
 
 **The jet.** A Pan Am Boeing 707 jet flew from New York to Paris with 111 passengers and 12 crew members on October 26, 1958, in about 8 hours. It was the first jet service across the Atlantic by an American airline. The 707 flew about twice as fast as the older propeller airliners and carried about twice as many people.
 
-**Fares.** Until 1978 the members of a federal board, the Civil Aeronautics Board, decided which airlines could start or stop flying and what they could charge. President Jimmy Carter signed the Airline Deregulation Act on October 24, 1978, and under that law the board lost its control of fares and routes. Under the CAB Sunset Act, a part of that law, lawmakers set dates for the board to lose its powers one by one, and the board shut down on December 31, 1984.
+**Fares.** Until 1978 the members of a federal board, the Civil Aeronautics Board, or CAB, decided which airlines could start or stop flying and what they could charge. President Jimmy Carter signed the Airline Deregulation Act on October 24, 1978, and under that law the board lost its control of fares and routes. Under the CAB Sunset Act, a part of that law, lawmakers set dates for the board to lose its powers one by one, and the board shut down on December 31, 1984.
 
-Two economists named Morrison and Winston, experts on money, prices and trade, studied the change for a research group, the Brookings Institution. They worked out that fares ended up about 22 percent lower than they would have been under the old rules. Counted in dollars adjusted for rising prices, average fares fell about 40 to 45 percent in the decades after 1978, by government and industry figures.
+Average fares fell about 40 to 45 percent in the decades after 1978, counted in dollars adjusted for rising prices, by government and industry figures. Two economists, experts on money, prices and trade, studied the change for a research group, the Brookings Institution, and found that fares ended up lower than they would have been under the old rules.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="barbara-dusty-roads" name="Barbara 'Dusty' Roads" movie="Fly With Me (2024)" kind="ordinary" status="verified" -->
@@ -202,19 +204,19 @@ Roads helped start the Association of Professional Flight Attendants, a union, i
 <!-- hb-story:end slug="barbara-dusty-roads" -->
 
 <!-- hb-zoom level="span" label="The Freedom Rides" -->
-Black and white riders traveled together by bus into the South in May 1961, and people called them Freedom Riders. They were testing a court order that banned separating Black and white travelers in bus stations used for trips between states. Two groups, John Lewis among them, left Washington, D.C., on May 4 on a Greyhound bus and a Trailways bus, headed for New Orleans.
+Black and white riders traveled together by bus into the South in May 1961, and people called them Freedom Riders. They were testing a court order that banned separating Black and white travelers in bus stations used for trips between states. Two groups left Washington, D.C., on May 4 on a Greyhound bus and a Trailways bus, headed for New Orleans. Among the Black riders was John Lewis, who later led the Student Nonviolent Coordinating Committee, a civil rights group.
 
 **Anniston.** A white mob with clubs and bats attacked the Greyhound at Anniston, Alabama, on May 14. They broke its windows and slashed its tires, then chased the bus until the flat tires stopped it several miles out of town. One of the attackers threw a firebomb, a bomb that starts a fire, through a window. The riders and other passengers barely got out of the flames.
 
-E. L. Cowling, a state officer riding the bus in plain clothes, held the attackers back with his gun. The mob beat the riders while the bus burned, until police arrived. Later that day white men got on the Trailways bus at Anniston and beat the riders on it. Their beating left one rider, Walter Bergman, a white man, with permanent brain damage.
+A state officer riding the bus in plain clothes held the attackers back with his gun. The mob beat the riders while the bus burned, until police arrived. Later that day white men got on the Trailways bus at Anniston and beat the riders on it. Their beating left one rider, Walter Bergman, a white man, with permanent brain damage.
 
 **Birmingham.** The same day, a crowd met the Trailways bus in Birmingham with pipes, chains and baseball bats. Many in the crowd belonged to the Ku Klux Klan, a group that used violence against Black people and their supporters. Eugene "Bull" Connor, the city official in charge of the police, had told Klan leaders that the police would hold back from the bus station for 15 minutes, and he encouraged the Klan to attack the riders.
 
 With no police there, Klansmen beat the riders in the waiting room and in a dark hallway. They beat James Peck, a white rider, until he was unconscious, and he needed more than 50 stitches. Walter Bergman was among the riders they beat, for the second time that day.
 
-**Montgomery.** A white crowd in Montgomery attacked a new group of riders arriving by Greyhound on May 20. They beat John Seigenthaler, a Justice Department official, until he was unconscious. Alabama's public safety director, Floyd Mann, had arranged protection for the buses up to Montgomery. Montgomery police did not take over the protection, and Mann went into the fighting himself. Governor John Patterson blamed the riders for the violence.
+**Montgomery.** A white crowd in Montgomery attacked a new group of riders arriving by Greyhound on May 20. They beat John Seigenthaler, a Justice Department official, until he was unconscious. Alabama's public safety director had arranged protection for the buses up to Montgomery, but Montgomery police did not take it over, and the director went into the fighting himself. Governor John Patterson blamed the riders for the violence.
 
-**The ban.** Justice Department officials asked the members of the Interstate Commerce Commission, the federal officials in charge of trade and travel between states, to act. The commissioners banned keeping Black and white passengers apart in bus and train stations. They issued the ban on September 22, 1961, and it took effect on November 1, 1961. People in many Southern towns kept ignoring it.
+**The ban.** The rides went on, and over the summer of 1961 the number of Freedom Riders grew to more than 400. Justice Department officials asked the members of the Interstate Commerce Commission, the federal officials in charge of trade and travel between states, to act. The commissioners banned keeping Black and white passengers apart in bus and train stations. They issued the ban on September 22, 1961, and it took effect on November 1, 1961. People in many Southern towns kept ignoring it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Amtrak takes over the passenger trains" -->
@@ -237,11 +239,13 @@ Members of an international standards group set standard sizes for containers in
 
 **His trucking company began with one used truck in 1934.**
 
-Malcom McLean sent the *Ideal X* to sea with its 58 containers on April 26, 1956. He had started in North Carolina with that one truck and built it into a trucking company. Then he sold the trucking company and put the money into shipping containers by sea.
+Malcom McLean built that one truck into a trucking company in North Carolina. Then he sold the trucking company and put the money into carrying containers by sea, and in 1956 he sent the *Ideal X* to sea with them.
 <!-- hb-story:end slug="malcom-mclean" -->
 
 <!-- hb-zoom level="span" label="The deadliest year on the roads" -->
 Car crashes killed 54,589 people in the United States in 1972, the most in any single year before or since. By 1975 the yearly count had fallen to 44,525.
+
+Federal safety officials have given part of the credit to a lower speed limit. During the oil shortage of 1973 and 1974, which Chapter 10 tells, members of Congress set a national speed limit of 55 miles an hour to save fuel, and by March 1974 every state had lowered its limit to match. A federal task force later estimated that the 55-mile limit saved 20,000 to 30,000 lives from 1974 to 1978.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The minivan" -->
@@ -253,9 +257,9 @@ Workers in Windsor, Ontario, in Canada, built the first Dodge Caravan and Plymou
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 11 minutes**
+**Era 10 of 10 · 2000 to Today · about 12 minutes**
 
-With a phone in hand, Americans after 2000 could find their way and hire a ride, and some of them bought electric cars. About 8 of every 100 new cars sold in 2024 were electric, according to Kelley Blue Book. About 7 of every 100 bridges in the country were rated in poor condition in federal records in 2025, by the count of a road builders' group.
+With a phone in hand, Americans after 2000 could find their way and hire a ride, and some of them bought electric cars. About 8 of every 100 new cars sold in 2024 ran on batteries alone, according to Kelley Blue Book. About 7 of every 100 bridges in the country were rated in poor condition in federal records in 2025, by the count of a road builders' group.
 
 **Deaths.** Federal safety officials counted 43,230 deaths in car crashes in 2021, and their early estimate for 2025, published in April 2026, is about 36,640. A container ship that had lost power hit a bridge in Baltimore in 2024, and the bridge's fall killed six road workers. An Army helicopter and a passenger jet collided near Washington, D.C., in 2025, and the crash killed all 67 people aboard.
 <!-- /hb-zoom -->
@@ -263,9 +267,9 @@ With a phone in hand, Americans after 2000 could find their way and hire a ride,
 <!-- hb-zoom level="span" label="Maps and rides on a phone" -->
 GPS, the Global Positioning System, uses signals from satellites to show a GPS device where it is. Until 2000 a setting called Selective Availability made GPS less exact for ordinary users. Federal officials switched the setting off a few minutes after midnight at the end of May 1, 2000, and the error of an ordinary GPS device shrank from about 100 meters to about 20, according to the government's GPS website.
 
-**Ride apps.** People also began hiring rides through apps on their phones. Uber began in March 2009 as a company called UberCab and started its app service in San Francisco on July 5, 2010. After the company received an official order to stop, its owners changed its name to Uber in October 2010. Lyft started its service in June 2012.
+**Ride apps.** People also began hiring rides through apps on their phones. Uber began in March 2009 as a company called UberCab and started its app service in San Francisco on July 5, 2010. In October 2010, officials of San Francisco's city transit agency and of California's Public Utilities Commission ordered UberCab to stop operating. Its owners changed the company's name to Uber that month, so that it would not look like a taxi business. Lyft started its service in June 2012.
 
-In a ride-hailing app, a rider asks for a ride, and a driver using a personal car takes the job. The companies' managers called their drivers independent contractors, people in business for themselves rather than employees. A California state hearing officer ruled in 2015 that one driver, Barbara Ann Berwick, was Uber's employee and that Uber owed her money for the costs of her car.
+In a ride-hailing app, a rider asks for a ride, and a driver using a personal car takes the job. The companies' managers called their drivers independent contractors, people in business for themselves rather than employees. One driver, Barbara Ann Berwick, asked the state of California to decide whether she was Uber's employee.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="barbara-berwick" name="Barbara Ann Berwick" movie="" kind="ordinary" status="verified" -->
@@ -288,13 +292,15 @@ Uber's lawyers asked a court in San Francisco to undo the decision. In a stateme
 <!-- hb-story:end slug="barbara-berwick" -->
 
 <!-- hb-zoom level="span" label="The fight over drivers' pay" -->
-California voters decided the question for app drivers in their state in November 2020. They passed Proposition 22, a law put to the voters directly, 58.6 percent to 41.4 percent. Under it, app drivers stayed contractors, with a minimum pay of 120 percent of the minimum wage for the time they spent working on a ride request, plus 30 cents a mile.
+**What was at stake.** If app drivers were employees, the companies would have to pay back the costs of their cars, as the hearing officer ordered Uber to do for Berwick. As contractors, drivers paid those costs themselves.
 
-**The money.** Uber, Lyft, DoorDash, Instacart and Postmates paid for the campaign for the law, which raised $205.7 million. Ballotpedia, which tracks state ballot questions from official vote counts and money reports, lists that as the most money raised for any California ballot question up to then.
+California voters decided the question for app drivers in their state in November 2020. They passed Proposition 22, a law put to the voters directly, 58.6 percent to 41.4 percent. Under it, app drivers stayed contractors, but the companies had to pay them at least 120 percent of the minimum wage for the time they spent working on a ride request, plus 30 cents a mile.
 
-**In court.** Four drivers and the Service Employees International Union, a group of workers who bargain together with their employers, went to court on January 12, 2021, to overturn the law. The justices of the California Supreme Court ruled on July 25, 2024, that the law could stand.
+**The money.** Uber, Lyft, DoorDash, Instacart and Postmates paid for the campaign for the law. It raised $205.7 million, the most for any California ballot question up to then, by the count of Ballotpedia, which tracks state ballot questions.
 
-**Massachusetts.** The state's top lawyer, Attorney General Maura Healey, sued Uber and Lyft in 2020. The next attorney general, Andrea Campbell, ended the case with a deal on June 27, 2024, as WBUR, a Boston public radio station, reported. Leaders of Uber and Lyft agreed that the two companies would pay $175 million and would pay drivers in the state at least $32.50 an hour for time spent driving to a rider or carrying one. The drivers stayed contractors.
+**In court.** Four drivers and a union, the Service Employees International Union, went to court on January 12, 2021, to overturn the law. The justices of the California Supreme Court ruled on July 25, 2024, that the law could stand.
+
+**Massachusetts.** In June 2024 Uber and Lyft settled a lawsuit brought by Massachusetts, agreeing to pay $175 million and to pay drivers there at least $32.50 an hour for time spent driving to a rider or carrying one, while the drivers stayed contractors.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Bigger vehicles and electric ones" -->
@@ -302,7 +308,7 @@ Americans bought more light trucks, meaning pickups, sport utility vehicles (SUV
 
 **Tesla.** The company Tesla delivered its first Model S electric cars to buyers in Fremont, California, on June 22, 2012. It is named after the inventor Nikola Tesla, who died in 1943 and had no connection to it.
 
-Americans bought about 1.3 million electric cars in 2024 and almost as many in 2025, by the counts of Kelley Blue Book and Cox Automotive, car-market research companies, published in January 2026. Electric cars made up 8.1 percent of new car sales in 2024 and 7.8 percent in 2025. Tesla sold nearly half of all the electric cars bought in 2025.
+Americans bought about 1.3 million battery electric cars, which run on electricity alone, in 2024 and almost as many in 2025, by the counts of Kelley Blue Book and Cox Automotive, car-market research companies, published in January 2026. They made up 8.1 percent of new car sales in 2024 and 7.8 percent in 2025. Chapter 10 gives larger shares that also count hybrids, which have both a gasoline engine and an electric motor. Tesla sold nearly half of all the battery electric cars bought in 2025.
 
 **The tax credit.** Members of Congress passed a budget law in July 2025, and President Donald Trump signed it on July 4. Under it, the federal tax credits for buying electric cars, money taken off what a buyer owes in taxes, ended for cars bought after September 30, 2025. In the last three months of 2025, Americans bought 234,000 electric cars, 46 percent fewer than in the three months before.
 
@@ -343,11 +349,11 @@ The head of the National Transportation Safety Board, Jennifer Homendy, said on 
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- How much faster and cheaper did travel get? On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon. On the first railroad across the country, a coast-to-coast trip took a week instead of four months.
-- Whose land and homes did the new routes take? Native nations lost land to them, and in 1862 members of Congress directed federal officials to end Native ownership along the railroad "as rapidly as may be." Highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
-- How did Black travelers fight the laws that made them sit apart? They refused to move and went to court: Ida B. Wells sued a railroad in 1884, Homer Plessy lost in the Supreme Court in 1896, and Irene Morgan won there in 1946. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
+- How much faster and cheaper did travel get? On the Erie Canal a ton of goods went from Buffalo to New York City for under $10 instead of about $100 by wagon, and on the first railroad across the country a coast-to-coast trip took a week instead of four months. By 1956, loading a ton of cargo onto a ship cost about 16 cents in containers, against about $5.86 by hand.
+- Who built the new routes, and whose land and homes did they take? Irish and American-born laborers dug the Erie Canal, enslaved people dug the Dismal Swamp Canal and built most of the Southern railroads, and Chinese workers built the western part of the first railroad across the country. The routes took Native nations' land, and highway officials building federal roads took the homes of more than 475,000 households, many in Black neighborhoods.
+- How did Black travelers fight the laws that made them sit apart? They refused to move, went to court and stayed off the buses: Ida B. Wells sued a railroad in 1884, Homer Plessy tested a Louisiana law and lost in 1896, Irene Morgan won in the Supreme Court in 1946, and Black riders in Montgomery, Alabama, stayed off the city buses for more than a year in 1955 and 1956. After the Freedom Riders were beaten in Alabama in 1961, federal officials banned separating passengers in bus and train stations.
 
-**What changed:** Before 1500 people here moved on foot, by canoe and with dogs, and by 2000 they used railroads, highways, jets and container ships, each faster or cheaper than what came before.
+**What changed:** People here went from moving on foot, by canoe and with dogs before 1500 to railroads, highways, jets and container ships today, each faster or cheaper than what came before.
 
 **Five dates to keep**
 - January 1673: the first post rider leaves New York for Boston.

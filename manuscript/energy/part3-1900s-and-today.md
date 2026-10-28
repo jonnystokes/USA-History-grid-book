@@ -12,7 +12,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## 1900 to 1950
 
 <!-- hb-zoom level="era" -->
-**Era 8 of 10 · 1900 to 1950 · about 14 minutes**
+**Era 8 of 10 · 1900 to 1950 · about 15 minutes**
 
 Electric wires reached almost every American home in these fifty years. About 8 households in 100 had electricity in 1890, and 94 in 100 did by 1950. Emanuela Cardia worked out those figures in a 2008 study from the census, the government's count of the people and their homes, taken every ten years. Most farms got their wires only after 1935.
 
@@ -26,7 +26,9 @@ A well on Spindletop hill, about 3 miles south of Beaumont, Texas, struck oil 1,
 
 **Nine days.** All of Texas had produced 836,000 barrels of oil in the whole year of 1900. At the estimated rate, the Spindletop well poured out about 900,000 barrels in its nine days, more than that whole year's total.
 
-Anthony F. Lucas led the drilling. According to the Texas State Historical Association, he was the leading American expert on salt domes, large masses of salt buried deep underground. The well stood on a piece of land known as the McFaddin-Wiess and Kyle land. Several oil companies started at Spindletop or grew large there, among them the Texas Company, later called Texaco, and Gulf Oil.
+**The salt dome.** Anthony F. Lucas led the drilling. According to the Texas State Historical Association, he was the leading American expert on salt domes, large masses of salt buried deep underground, and Spindletop hill stood on one. Other geologists of the time doubted that oil lay in the salt domes along the coast of the Gulf of Mexico. Lucas was sure it did, and the well proved him right.
+
+Several oil companies started at Spindletop or grew large there, among them the Texas Company, later called Texaco, and Gulf Oil.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What coal cost the miners" -->
@@ -38,9 +40,9 @@ The yearly counts from 1900 through 2025 add up to about 105,000 coal miners who
 
 Some of the dead were boys as young as eight. Mine companies of the time hired more workers than they listed, and their lists left out many of the children who worked underground. The dead included immigrants from Italy, Poland and Hungary, and Black workers. About 1,000 children lost a father.
 
-Accounts differ about which company owned the mines. One names the Fairmont Coal Company, and another names the Consolidation Coal Company. The Fairmont company's president, C. W. Watson, said the explosion "could only have been caused by the careless use of a mining lamp." Experts at the time disagreed about the cause. Some blamed torn electrical wires, and others blamed lamps.
+**What went wrong.** Experts at the time did not agree on what set off the explosions. According to Clio, a history website run from Marshall University, a loaded coal car broke loose near the top of a trestle, a raised track, and ran back into mine No. 6. Some experts blamed torn electrical wires. Others blamed miners' lamps.
 
-Clio, a history website run from Marshall University, states that a loaded coal car broke loose near the top of a trestle, a raised track, and ran back into mine No. 6. The histories of the disaster by Clio and by the West Virginia Mine Wars Museum do not name anyone charged with a crime. After Monongah, members of Congress created the federal Bureau of Mines.
+C. W. Watson was the president of the Fairmont Coal Company, which Clio names as the owner of the mines. He said the explosion "could only have been caused by the careless use of a mining lamp." The West Virginia Mine Wars Museum names a different owner, the Consolidation Coal Company. Neither history names anyone charged with a crime. After Monongah, members of Congress created the federal Bureau of Mines.
 
 **Ludlow.** Colorado National Guard soldiers, the state's own force of part-time soldiers, killed striking coal miners and their families at Ludlow, Colorado, in 1914. The coal miners of southern Colorado had gone on strike in 1913, stopping work to demand changes. The coal they mined supplied Colorado's steel mill and its railroads. Most of them worked for the Colorado Fuel and Iron Company, whose main owner was John D. Rockefeller Jr.
 
@@ -81,9 +83,11 @@ Federal officials had large dams built to make electricity from 1933 to 1945. In
 
 **Who had to leave.** TVA officials bought or took about 1.3 million acres from their owners from 1933 to 1945, and they made those 82,000 people leave to make room for 16 hydroelectric dams. For Norris Dam alone, TVA officials made more than 3,000 families leave.
 
-TVA lawyer John Snyder described how the land was taken: "a price is set and we buy at that price or we condemn," meaning take the land by law without the owner's agreement, at a price the government sets. TVA's own economists estimated that condemning land got it for about 60 percent of what a private buyer would pay. Wayne Moore's 1995 history of the TVA land-taking does not name one official who made these choices. The TVA's board and staff made them together.
+**The price.** TVA officials set the price of each piece of land, and an owner who would not sell at that price lost the land anyway. TVA lawyer John Snyder put it this way: "a price is set and we buy at that price or we condemn." To condemn land is to take it by law without the owner's agreement, at a price the government sets. TVA's own economists estimated that condemning land got it for about 60 percent of what a private buyer would pay.
 
-The first generator at Hoover Dam began sending electricity over 266 miles of wire to Los Angeles on October 9, 1936. Some records date the start to October 26, 1936, the day that generator reached full operation.
+The TVA's board and staff made these choices together. Wayne Moore's 1995 history of the TVA land-taking does not name one official who made them.
+
+**Hoover Dam.** Hoover Dam stands on the Colorado River, between Arizona and Nevada, and it was one of the big federal dams that made electricity in these years. Its first generator began sending electricity over 266 miles of wire to Los Angeles on October 9, 1936. Some records date the start to October 26, 1936, the day that generator reached full operation. Chapter 12, Landmarks, tells how many men died building the dam.
 
 **Grand Coulee.** Officials of the federal Bureau of Reclamation had Grand Coulee Dam built on the Columbia River, and it was finished in 1941. The dam stands 550 feet high, and its builders gave it no fish ladders, the rising pools that let salmon swim upstream past a dam. Salmon and steelhead, a trout that swims to the sea and back, could no longer reach the whole upper Columbia Basin, and their runs there ended.
 
@@ -95,13 +99,15 @@ As the dam neared completion in June 1940, the Colville Confederated Tribes held
 <!-- hb-zoom level="span" label="Osage oil" -->
 Some of the oil Americans burned in the 1920s came from under the Osage Nation's land in Oklahoma. Under the Osage Allotment Act of 1906, the Osage kept the rights to the oil and minerals under their land, owned in common. Each Osage person with a share, called a headright, received part of the oil money. Under a law passed in 1921, local judges put many Osage adults' money under the control of white guardians, people the judges chose to handle it.
 
-**The murders.** From about 1920 to 1925, husbands, guardians and others killed Osage headright holders to inherit their shares of the oil money. Federal agents later proved that William Hale, a cattleman, ordered the murders of one family so that his nephew, Ernest Burkhart, could inherit their headrights. It was the family of Burkhart's wife, Mollie Burkhart.
+**The murders.** From about 1920 to 1925, husbands, guardians and others killed Osage headright holders to inherit their shares of the oil money. A cattleman named William Hale planned to have members of one Osage family killed so that his nephew, Ernest Burkhart, would inherit their headrights. It was the family of Ernest's wife, Mollie. Federal agents later proved that Hale ordered the murders.
 
-Kelsie Morrison shot Mollie's sister Anna Brown in May 1921, and he later admitted that he killed her at Hale's request. A cowboy named John Ramsey admitted that Hale hired him to kill their cousin Henry Roan, who was shot. The Oklahoma Historical Society's and the FBI's accounts do not say who fired that shot.
+**Mollie's family.** Mollie Burkhart's mother was Lizzie Q. Kyle. Her sisters were Anna Brown and Rita Smith, and Rita's husband was Bill Smith. Henry Roan was Mollie's cousin.
 
-A bomb blew up the home of Mollie's sister Rita Smith on March 10, 1923. It killed Rita, her husband, Bill Smith, and Nettie Brookshire, who worked for them. Ramsey confessed that he took part in those murders, and he named Hale as the leader, along with two other men.
+**The killings.** Kelsie Morrison shot Anna Brown in May 1921. He later admitted that he killed her at Hale's request. Henry Roan was shot and killed in January 1923. A cowboy named John Ramsey admitted that Hale had hired him to kill Roan, though Ramsey later took back his confession.
 
-**The sentences.** Burkhart admitted his guilt in June 1926 and got life in prison, and Morrison got life that November. Hale got life in January 1929, and Ramsey got life that November. Chapter 2 tells how Osage leaders brought in the federal agents who solved the case.
+A bomb blew up Rita Smith's home on March 10, 1923. It killed Rita, Bill Smith and Nettie Brookshire, who worked for them. Ramsey confessed that he took part in those murders too, and he named Hale as the leader, along with two other men.
+
+**The sentences.** Ernest Burkhart admitted his guilt in June 1926 and got life in prison for the murder of Bill Smith. Morrison got life that November for killing Anna Brown. Burkhart testified against his uncle and Ramsey. Hale got life in January 1929, and Ramsey got life that November, both for the murder of Henry Roan. Chapter 2 tells how Osage leaders brought in the federal agents who solved the case.
 
 **Not known:** whether Mollie's mother, Lizzie Q. Kyle, was poisoned when she died in July 1921, or by whom. Poison was suspected, but the Oklahoma Historical Society's and the FBI's accounts do not say.
 **Disputed:** the number of dead. Writers for the Oklahoma Historical Society count about 24 violent or suspicious deaths, and the FBI's history of the case says at least two dozen. The Osage Nation counts more than 60 murders and suspicious deaths.
@@ -139,7 +145,7 @@ Six of every seven barrels of oil the Allies used in World War II came from the 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 1950" -->
-**If you remember one thing:** Electricity reached almost every American home in these years, and for the dams that made some of it, federal officials made 82,000 people in the Tennessee Valley alone leave their homes.
+**If you remember one thing:** Electric wires reached almost every American home in these fifty years.
 In 1890: About 8 American households in 100 had electricity.
 In 1950: About 94 households in 100 had it, and about 9 farms in 10, most of them wired by farmers' own cooperatives after 1935.
 **Next:** After 1950 Americans began splitting atoms to make electricity, and in 1973 a cutoff of foreign oil left drivers waiting in long lines for gasoline.
@@ -150,7 +156,7 @@ In 1950: About 94 households in 100 had it, and about 9 farms in 10, most of the
 ## 1950 to 2000
 
 <!-- hb-zoom level="era" -->
-**Era 9 of 10 · 1950 to 2000 · about 11 minutes**
+**Era 9 of 10 · 1950 to 2000 · about 12 minutes**
 
 Splitting atoms became a new way to make American electricity after 1951, when a test reactor in Idaho lit four light bulbs. The first full-scale American plant built only for civilian power began sending electricity into a power company's lines in Pennsylvania in 1957. A reactor at Three Mile Island, also in Pennsylvania, partly melted in 1979, and after that American power companies stopped ordering new reactors.
 
@@ -178,7 +184,11 @@ Farms, homes, schools, a hospital, businesses, churches, cemeteries, roads and w
 
 **Who had to leave.** Under the federal act for taking the tribes' land, about 300 families had to leave their homes before the lake covered them. By one count, that was more than 90 percent of the tribes' people.
 
-Tribal chairman George Gillette spoke at the signing of the contract for the tribes' land in 1948. He spoke about the Treaty of Fort Laramie, a signed agreement the tribes had made with the United States. "The truth is, as everyone knows, our Treaty of Fort Laramie ... and our constitution are being torn to shreds by this contract," he said. In 1950, 525 of the tribes' 991 adults voted to accept the terms of the government's act for taking the land.
+**How the land was taken.** Federal planners had chosen the dam's plan without asking the tribes. In May 1948 tribal leaders signed a contract giving up the tribes' land for $5,105,625. Tribal chairman George Gillette was in tears as he signed. He said the contract broke the Treaty of Fort Laramie, a signed agreement the tribes had made with the United States: "The truth is, as everyone knows, our Treaty of Fort Laramie ... and our constitution are being torn to shreds by this contract."
+
+Members of Congress passed a law in 1949 that set out how the tribes would be paid for their land, and the president signed it. In 1950 the tribes' adults voted on whether to accept the terms of that law. Of the 991 adults, 525 voted yes. Tribal members feared that if they refused, they would be paid even less later.
+
+**Not known:** whether a vote against the terms could have stopped the dam.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Black lung and the 1969 law" -->
@@ -225,7 +235,9 @@ A stuck valve let cooling water escape from the Unit 2 reactor at the Three Mile
 
 Governor Dick Thornburgh advised pregnant women and preschool children living within 5 miles to leave on March 30, and he told people within 10 miles to stay indoors. Officials gave out messages that conflicted with each other. About 140,000 people left on their own.
 
-A small amount of radiation escaped. The average dose to people within 10 miles was 0.08 millisieverts, and no one got more than 1 millisievert, a unit that measures how much radiation a body takes in. Scientists at the Nuclear Regulatory Commission, and more than 12 health studies since 1981, found no health effects they could detect. No deaths are linked to the accident.
+A small amount of radiation escaped. Radiation is energy that substances such as a reactor's fuel give off, and it can damage the cells of the body. The average dose to people within 10 miles was 0.08 millisieverts, about the same as one chest X-ray. A millisievert is a unit that measures how much radiation a body takes in. No one got more than 1 millisievert, about a third of the radiation an average American gets from nature in a year.
+
+Scientists at the Nuclear Regulatory Commission, the federal agency that oversees nuclear plants, and more than 12 health studies since 1981, found no health effects they could detect. No deaths are linked to the accident.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Where the uranium came from" -->
@@ -239,7 +251,11 @@ A federal committee, the Advisory Committee on Human Radiation Experiments, repo
 
 **Church Rock.** A dam holding radioactive waste, owned by the United Nuclear Corporation, broke near Church Rock, New Mexico, on July 16, 1979, four months after Three Mile Island. About 94 million gallons of radioactive liquid and 1,100 tons of solid waste poured down the Rio Puerco, past about 1,700 Navajo people.
 
-A 2013 study estimated that the spill released 46 curies of radiation, a unit that measures radioactivity, against 13 curies for Three Mile Island. A New Mexico state agency called the effects "quite limited." Governor Bruce King turned down the Navajo Nation's request for a federal disaster declaration.
+A 2013 study estimated that the spill released 46 curies of radioactivity, against 13 curies for Three Mile Island. Curies measure how much radioactive material was let loose. The millisieverts given for Three Mile Island measure something else: how much radiation a person's body took in. The US Geological Survey called the spill "the largest accidental radioactive release in the United States."
+
+No official declared an emergency or ordered anyone to leave. A New Mexico state agency called the effects on people and the environment "quite limited," but its report also warned that water pumped out of the mines into the river might be a greater danger over time. Governor Bruce King turned down the Navajo Nation's request for a federal disaster declaration. Chapter 13, The Elements, tells the spill in full.
+
+**Not known:** how many of the people living along the river were harmed by the spill.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Panels on the White House roof" -->
@@ -265,7 +281,7 @@ Fracking, short for hydraulic fracturing, is a way of getting gas and oil out of
 
 **From Texas shale.** George Mitchell's company, Mitchell Energy, began working the Barnett Shale, a layer of rock made of hardened mud, in Texas in the early 1980s. Mitchell and his company spent about twenty years trying to get gas out of it. In the late 1990s an engineer, Nick Steinsberger, used a cheaper way of fracking called slickwater fracturing, which cut the cost enough that selling the shale gas made money. In the 2000s drillers joined fracking with horizontal drilling.
 
-American wells produced about 5 billion cubic feet of shale gas a day in 2007 and about 80 billion cubic feet a day in 2023, 16 times as much, according to the EIA. American wells became the world's largest producers of natural gas in 2011, and in 2018 they passed Russia's wells to become the world's largest producers of crude oil. In 2025 they pumped a record 13.6 million barrels of crude oil a day, by EIA figures published in 2026.
+American wells produced 16 times as much shale gas in 2023 as in 2007, according to the EIA. By 2018 the United States was the world's largest producer of both natural gas and crude oil.
 
 **The argument.** People disagree about fracking. Supporters say it brought cheaper energy and jobs. They add that natural gas burns cleaner than coal, and that power companies have replaced coal-burning plants with gas-burning ones.
 
@@ -283,9 +299,9 @@ The federal Mine Safety and Health Administration's report on the explosion iden
 
 Black lung came back among coal miners in the 2000s. Researchers at NIOSH, the federal agency that studies workers' health, found 60 cases of the worst form of the disease in 20 months at one small clinic in Kentucky in 2016. Reporters at National Public Radio found 962 cases of advanced black lung in the 2010s, more than double the 441 cases NIOSH had recorded in the 40 years before. *Smithsonian Magazine* reported both counts in 2017.
 
-**Standing Rock.** Members of the Standing Rock Sioux Tribe opposed the Dakota Access oil pipeline in 2016 where it crosses under Lake Oahe, the tribe's water supply, upstream of its reservation. Protest camps began in April 2016. Army Corps of Engineers officials denied the easement for the crossing, the permission to cross federal land under the lake, on December 4, 2016.
+**Standing Rock.** Pumping more oil also meant moving it. A company called Energy Transfer Partners built the Dakota Access pipeline to carry crude oil from the Bakken oil field in North Dakota to Illinois. Members of the Standing Rock Sioux Tribe opposed it in 2016 where it crosses under Lake Oahe, upstream of their reservation. The lake is the tribe's water supply, and they feared that a spill would pollute it.
 
-President Trump ordered the Army Corps to review and approve the easement quickly on January 24, 2017. Army Corps officials approved it on February 8, 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
+Protest camps began in April 2016. Army Corps of Engineers officials denied the easement for the crossing, the permission to cross federal land under the lake, on December 4, 2016. President Trump ordered the Army Corps to review and approve the easement quickly on January 24, 2017. Army Corps officials approved it on February 8, 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Natural gas, wind and solar, 2016 to 2025" -->
@@ -305,9 +321,9 @@ But 2025 was also the first year that sales of battery electric cars fell. Feder
 <!-- hb-zoom level="span" label="Why did the Texas lights go out in 2021?" -->
 Texas power plants of every kind broke down in the cold during a winter storm named Uri in February 2021. To keep the state's whole power grid from failing, the people who run it cut off power to millions of customers. More than 4.5 million households, about 10 million people, lost power, some of them for days. Reports on the failure by federal energy regulators and by researchers at the University of Texas give these figures, and so do news reports.
 
-**The grid.** The Electric Reliability Council of Texas, called ERCOT, runs the Texas grid, the network of power plants and wires that serves the state. Some of its gas, coal, nuclear and wind plants stopped working. ERCOT's operators cut 20,000 megawatts, a megawatt being a million watts. That was more than 300 times the full power of the Shippingport plant and the largest cutoff of its kind in American history.
+**The grid.** The Electric Reliability Council of Texas, called ERCOT, runs the Texas grid, the network of power plants and wires that serves the state. Some of its gas, coal, nuclear and wind plants stopped working. ERCOT's operators cut 20,000 megawatts, a megawatt being a million watts. That was more than 300 times the 60 megawatts the Shippingport nuclear plant made in 1957, and the largest cutoff of its kind in American history.
 
-ERCOT officials later said the grid came within 4 minutes and 37 seconds of a total collapse. Texas state health officials counted 246 deaths from the storm in 2022, but some researchers argue that the official count is much too low. Reporters at BuzzFeed News, for example, studied how many more people died that month than usual. Damage estimates run above $195 billion.
+ERCOT officials later said the grid came within 4 minutes and 37 seconds of a total collapse. Texas state health officials counted 246 deaths from the storm in 2022, but others have argued that the official count is much too low. Reporters at BuzzFeed News compared the number of Texans who died in the week of the worst blackouts with the number who would normally die. They estimated that about 700 people were killed by the storm in that week alone. Damage estimates run above $195 billion.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="cristian-pavon-pineda" name="Cristian Pavón Pineda" movie="" kind="ordinary" status="verified" -->
@@ -346,11 +362,11 @@ Workers began loading fuel into the reactor in late August 2026. On August 30 a 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What energy independence means" -->
-Americans produced more energy than they used in 2019, for the first time since 1957, according to the EIA. They produced 101.0 quadrillion Btu, or British thermal units, and used 100.2 quadrillion, a quadrillion being a million billion. Each Btu is the heat that warms one pound of water by one degree Fahrenheit.
+Americans produced more energy than they used in 2019, for the first time since 1957, according to the EIA. They produced less than 1 percent more than they used.
 
-People call this energy independence: Americans produce more energy in total than they use. It does not mean Americans stopped buying fuel from other countries. In November 2019 Americans still bought 5.8 million barrels of crude oil a day from other countries and sold 3.0 million barrels a day to them, by EIA figures.
+People call this energy independence: Americans produce more energy in total than they use. It does not mean Americans stopped buying fuel from other countries. In November 2019 Americans still bought nearly twice as much crude oil from other countries as they sold to them, by EIA figures.
 
-Americans sold a record 31 quadrillion Btu of energy to other countries in 2025 and bought 21 quadrillion Btu from them, the EIA reported in May 2026. Oil and products made from it were 63 percent of the energy sold abroad, and natural gas was 29 percent.
+Americans sold a record amount of energy to other countries in 2025, about one and a half times as much as they bought from them, the EIA reported in May 2026. Oil and products made from it were 63 percent of the energy sold abroad, and natural gas was 29 percent.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
