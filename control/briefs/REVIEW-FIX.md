@@ -19,11 +19,13 @@ A finding is a reader's report, not an order. Fix it when the reader is right an
 the chapter better under the guides. Skip it when it asks for softening, contradicts the guides,
 asks for a fact that is not in the chapter or the bank, or is a matter of taste. Never shrink a
 worked passage into a summary (DECISIONS #52). Never change a marker line, era id, story slug or
-record key. Add no fact that is not already in the chapter or `research/research-<slug>.md`.
+record key. Add no fact that is not already in the chapter or `research/research-<slug>.md`. When a finding
+needs a fact your bank lacks, copy it into your bank as a PATCH from another chapter's bank (with
+its source line), or after a few searches with a source, as CLAUDE.md allows writers; then write it.
 
 ## Rules
 
-- Edit only your chapters' part files and their `control/backmatter/<slug>.md` (keep the hand-off
+- Edit only your chapters' part files, their banks (PATCH only) and their `control/backmatter/<slug>.md` (keep the hand-off
   in step if you change a glossary explanation, a date, a question or an answer). R01 may also
   edit `manuscript/_frontmatter/*.md` and `manuscript/_introduction/*.md`. No git, no installs,
   no sub-agents.
