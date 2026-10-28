@@ -178,7 +178,7 @@ Federal officials also paid for new factories and rented them to private compani
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 16 minutes**
 
-Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had about a million in the early 1980s. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
+Companies grew so large in these years that General Motors had 618,365 workers in the United States in 1979, and the Bell telephone system had more than a million that year. From the 1970s, business leaders organized to win influence in Washington. By 1982 more than 2,400 firms paid lobbyists registered there to persuade lawmakers.
 
 **Products and disease.** The leaders of some companies kept selling products that studies linked to disease and death. Tobacco companies paid for advertisements in 1954 in which their leaders disputed studies linking smoking to lung cancer, and in 1994 heads of tobacco companies told a House hearing that they did not believe nicotine is addictive.
 
@@ -188,7 +188,7 @@ Companies grew so large in these years that General Motors had 618,365 workers i
 <!-- hb-zoom level="span" label="General Motors" -->
 General Motors was the country's largest car maker in the 1950s, and in 1953 it sold more to the armed forces than any other company. In 1954 it sold about half of all new cars in the country, 54 percent by the Associated Press's count.
 
-**A billion dollars.** In 1955 GM became the first company to earn more than a billion dollars in profit in one year. In the first three quarters of that year alone it made $912,887,537 in profit. *TIME* magazine wrote, "Never before in history has one corporation made so much in so short a time." GM's workforce in the United States peaked at 618,365 in 1979, which made it the largest private employer in the country, according to an Associated Press timeline.
+**A billion dollars.** In 1955 GM became the first company to earn more than a billion dollars in profit in one year. In the first three quarters of that year alone it made $912,887,537 in profit. *TIME* magazine wrote, "Never before in history has one corporation made so much in so short a time."
 
 **"Good for General Motors."** President Dwight D. Eisenhower chose GM's president, Charles E. Wilson, as Secretary of Defense in January 1953. Wilson gave up a salary of $600,000 a year for one of $22,000. He owned 40,000 shares of GM stock, and GM sold more to the armed forces than any other company. As Secretary of Defense he could make decisions that helped or hurt GM, so at his hearing senators pressed him on that conflict.
 
@@ -197,6 +197,8 @@ Senator Robert C. Hendrickson asked whether Wilson could make a decision that we
 **Ralph Nader.** Ralph Nader criticized the safety of GM's Corvair car in a 1965 book called *Unsafe at Any Speed*. GM managers hired private detectives to look into Nader's private life, and in 1966 GM's president, James M. Roche, apologized to a Senate committee. That same year members of Congress passed the National Traffic and Motor Vehicle Safety Act, the first federal rules for how cars must be built.
 
 Nader sued GM for invading his privacy and settled for $425,000, which he used to start groups that work for consumers. GM stopped making the Corvair in 1969.
+
+**Workers in 1979.** GM's workforce in the United States peaked at 618,365 in 1979. AT&T's Bell telephone system had more workers than GM that year. By AT&T's own count, it employed 1,029,905 people at the end of 1979.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Eisenhower's warning, 1961" -->

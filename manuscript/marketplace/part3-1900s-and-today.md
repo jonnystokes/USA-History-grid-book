@@ -17,10 +17,6 @@ Chain stores spread across the country, and the biggest grocery chain, the A&P, 
 
 <!-- hb-zoom level="span" label="The chain store at full size" -->
 The A&P had 1,600 stores by 1915. By 1930 it had about 15,000 stores and sold $2.9 billion worth of goods a year. That made it the world's largest retailer, a business that sells goods to the people who use them. The A&P was the largest grocery seller in the United States from 1915 to 1975.
-
-**The lunch counter.** Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only, and the rule was still in force in 1960. On February 1 of that year, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
-
-Hundreds of people joined their protest over the next six months. On July 25, 1960, the staff of the Greensboro counter began serving Black customers. By the account of Geneva Tisdale, who worked in the store's kitchen, the manager of the lunch counter picked her and two other Black kitchen workers to be the first. He told them to get dressed, walk around the store like customers and then sit at the counter. Tisdale ordered an egg-salad sandwich. Chapter 25, Rights Movements, tells the sit-ins in full.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="frank-woolworth" name="F. W. Woolworth" movie="" kind="famous" status="verified" -->
@@ -93,6 +89,12 @@ Jim Crow is the name for the laws and customs in the South under which white law
 According to Hyman, many Black farm families had to buy on credit at a white-owned country store, often owned by the landlord whose land they farmed. The storekeeper set the prices and made Black customers wait until white customers were served. A catalog order cost the same national price for everyone, and no clerk decided who was served first. Instead of the landlord's credit, the family could use the mail-order company's.
 
 Hyman says that some Southern storekeepers held bonfires to burn catalogs, and told white customers that Sears was owned by Black people to keep them from buying there. These are Hyman's claims.
+<!-- /hb-zoom -->
+
+<!-- hb-zoom level="span" label="Woolworth's lunch counter, 1960" -->
+Woolworth's stores had lunch counters, where customers sat and ate. In the South, the people who ran these counters served white customers only, and the rule was still in force in 1960. On February 1 of that year, four Black students from North Carolina A&T, a college in Greensboro, North Carolina, sat down at the Woolworth counter there and asked to be served. They were Ezell Blair Jr., Franklin McCain, Joseph McNeil and David Richmond. The counter staff refused to serve them.
+
+Hundreds of people joined their protest over the next six months. On July 25, 1960, the staff of the Greensboro counter began serving Black customers. By the account of Geneva Tisdale, who worked in the store's kitchen, the manager of the lunch counter picked her and two other Black kitchen workers to be the first. He told them to get dressed, walk around the store like customers and then sit at the counter. Tisdale ordered an egg-salad sandwich. Chapter 25, Rights Movements, tells the sit-ins in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Buying on time" -->
