@@ -97,11 +97,14 @@ each sub-agent. **Never shrink the book** (DECISIONS #20).
    `python tools/project_state.py --check <slug> --stage <research|patch|prose>`.
 3. **Log before you dispatch.** Write the `IN-FLIGHT` entry in `control/WORKLOG.md` first.
    Close it afterwards with the pasted check output.
-4. **Run one sub-agent at a time.** The director never reads chapter content.
+4. **Run sub-agents in parallel when their files do not overlap** (DECISIONS #53): give each its own
+   chapter, files and scratch folder. The director never reads chapter content.
 5. **Keep a checkpoint.** Every task has `control/checkpoints/T-<nnn>-<slug>.md`. The agent
    updates it after every unit, so a new agent can resume the task.
-6. **When an agent dies, salvage before re-dispatching.** Read its checkpoint, and run
-   `python tools/salvage_agent.py --list` while the transcript is still on this machine.
+6. **When an agent stops, resume it; never replace it.** A sub-agent cut off by a usage limit, a
+   restart or a crash is resumed with SendMessage "continue" (after a session-id change, copy its
+   three files first; `control/RESUME.md`, `python tools/resume_drill.py`). If a resume is impossible,
+   stop and tell Jon. Only Jon can direct a fresh agent to take over.
 7. **Make agents write early and often.** An agent killed before its first write leaves
    nothing. An agent killed after it leaves its file.
 
