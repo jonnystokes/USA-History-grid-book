@@ -290,7 +290,7 @@ Critics worry that fracking fluid can pollute groundwater and that methane, the 
 Drillers pump wastewater from oil and gas wells deep underground. Scientists at the US Geological Survey wrote in 2017 that the sharp rise in Oklahoma's earthquakes is widely seen as the result of that deep pumping of waste fluids. An earthquake near Pawnee, Oklahoma, measured 5.8 in magnitude, the number that states an earthquake's size, on September 3, 2016. It was the largest ever recorded in the state.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Mine deaths, black lung and a pipeline" -->
+<!-- hb-zoom level="span" label="Mine deaths and black lung" -->
 An explosion of gas and coal dust killed 29 miners at the Upper Big Branch mine in Montcoal, West Virginia, on April 5, 2010. It was the worst mine disaster in the United States in 40 years. Performance Coal Company, part of Massey Energy, ran the mine.
 
 The federal Mine Safety and Health Administration's report on the explosion identifies Massey's "corporate culture," its habits and ways of working, as the root cause. Officials of the agency issued 369 citations and orders, written notices of broken safety rules, with fines of $10.8 million.
@@ -298,8 +298,10 @@ The federal Mine Safety and Health Administration's report on the explosion iden
 **The trial.** Massey's former chief executive, Don Blankenship, was convicted in December 2015 of conspiring, or planning with others, to break federal mine safety laws. It was a misdemeanor, a less serious kind of crime. Judge Irene Berger gave him the longest sentence the law allowed on April 6, 2016: one year in prison and a $250,000 fine. A year of supervised release followed, when a court officer checks on him. He was not convicted of causing the miners' deaths.
 
 Black lung came back among coal miners in the 2000s. Researchers at NIOSH, the federal agency that studies workers' health, found 60 cases of the worst form of the disease in 20 months at one small clinic in Kentucky in 2016. Reporters at National Public Radio found 962 cases of advanced black lung in the 2010s, more than double the 441 cases NIOSH had recorded in the 40 years before. *Smithsonian Magazine* reported both counts in 2017.
+<!-- /hb-zoom -->
 
-**Standing Rock.** Pumping more oil also meant moving it. A company called Energy Transfer Partners built the Dakota Access pipeline to carry crude oil from the Bakken oil field in North Dakota to Illinois. Members of the Standing Rock Sioux Tribe opposed it in 2016 where it crosses under Lake Oahe, upstream of their reservation. The lake is the tribe's water supply, and they feared that a spill would pollute it.
+<!-- hb-zoom level="span" label="Standing Rock and the pipeline" -->
+Pumping more oil also meant moving it. A company called Energy Transfer Partners built the Dakota Access pipeline to carry crude oil from the Bakken oil field in North Dakota to Illinois. Members of the Standing Rock Sioux Tribe opposed it in 2016 where it crosses under Lake Oahe, upstream of their reservation. The lake is the tribe's water supply, and they feared that a spill would pollute it.
 
 Protest camps began in April 2016. Army Corps of Engineers officials denied the easement for the crossing, the permission to cross federal land under the lake, on December 4, 2016. President Trump ordered the Army Corps to review and approve the easement quickly on January 24, 2017. Army Corps officials approved it on February 8, 2017, and oil moved through the pipeline later that year. The tribe's lawsuits continued.
 <!-- /hb-zoom -->
