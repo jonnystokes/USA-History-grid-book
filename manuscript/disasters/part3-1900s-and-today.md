@@ -24,9 +24,9 @@ In three disasters, the people in charge treated Black survivors and Black victi
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Galveston, September 8, 1900" -->
-A hurricane flooded Galveston, Texas, on September 8, 1900, and killed more people than any other natural disaster in the country's history. Galveston was a port city of about 38,000 people on an island in the Gulf of Mexico. At about 6:30 that evening, a storm wave put the city under as much as 15 feet of water. The highest water mark was 15.7 feet.
+A hurricane flooded Galveston, Texas, on September 8, 1900, and killed more people than any other natural disaster in the country's history. Galveston was a port city of about 38,000 people on an island in the Gulf of Mexico. At about 6:30 that evening, a storm wave put the city under as much as 15 feet of water. The highest water mark was 15.7 feet. The storm destroyed a third of the city, including between 2,636 and about 3,600 homes by different counts.
 
-Between 6,000 and 8,000 people died in the city. Estimates for the whole island and the nearby coast run from 10,000 to 12,000. In early October the *Galveston News* printed a final list of 4,263 dead. The storm destroyed a third of the city. Counts of the homes destroyed run from 2,636 to about 3,600.
+Between 6,000 and 8,000 people died in the city. Estimates for the whole island and the nearby coast run from 10,000 to 12,000. The *Galveston News* printed a list of 4,263 dead in early October, months before searchers found the last body.
 
 Searchers found about 70 bodies a day during the first month. The last body was found on February 10, 1901. Galveston's leaders put the city under martial law, which means soldiers or armed guards take over from the police and courts. A volunteer militia, a group of armed citizens, patrolled the streets against looters, people who steal from damaged buildings. Some accounts say that men accused of looting were shot, but the records do not give their names or a count.
 
@@ -47,7 +47,7 @@ Clara Barton, 78, arrived with Red Cross workers on September 17, nine days afte
 
 **He had called a hurricane harming Galveston "a crazy idea."**
 
-Isaac Cline took charge of the Weather Bureau's Galveston office in 1889, and his brother Joseph joined him there in 1892. Isaac wrote an article for the *Galveston Daily News* in 1891, nine years before the storm. In it he called the thought of a hurricane seriously harming Galveston "a crazy idea." Many people in the city had asked for a seawall. His article was one reason no seawall was built before the storm.
+Isaac Cline took charge of the Galveston weather office in 1889, when the Army's Signal Service still ran the country's weather service. The office passed to the new Weather Bureau in 1890, and his brother Joseph joined him there in 1892. Isaac wrote an article for the *Galveston Daily News* in 1891, nine years before the storm. In it he called the thought of a hurricane seriously harming Galveston "a crazy idea." Many people in the city had asked for a seawall. His article was one reason no seawall was built before the storm.
 
 **The flags.** On September 8, 1900, water began flooding the low parts of the city. Around noon, Cline raised the hurricane warning flags without waiting for approval from the Weather Bureau's main office in Washington. Weather Bureau rules required that approval.
 
@@ -126,9 +126,11 @@ Kate turned her coat inside out and put it over her head with the fur against he
 **In court.** At the trial the prosecutor, Charles Bostwick, used her account to show that the locked door caused Margaret Schwartz's death. The owners' lawyer, Max Steuer, made her tell the story again and again. She used almost the same words each time. In this way Steuer made her story seem less believable without ever saying she was lying. She said she told it the same way "because he asked me the very same story over and over."
 <!-- hb-story:end slug="kate-alterman" -->
 
-<!-- hb-zoom level="span" label="Ships: the Titanic, 1912, and the Eastland, 1915" -->
+<!-- hb-zoom level="era" -->
 **By the end of 1911:** Thousands had died in Galveston and San Francisco, a jury had found the Triangle owners not guilty, and New York lawmakers were writing new rules for the state's factories.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Ships: the Titanic, 1912, and the Eastland, 1915" -->
 The *Titanic* carried lifeboats for only some of the people on board, and United States senators blamed British officials for that. The *Titanic* was a British passenger ship. It hit an iceberg in the North Atlantic and sank on April 15, 1912. More than 1,500 passengers and crew died. The ship *Carpathia* picked up about 710 survivors.
 
 The ship had too few lifeboats for everyone, but it met the rules of the British Board of Trade, the government office in charge of British ships. Senator William Alden Smith of Michigan led a Senate investigation. It began in New York on April 19, four days after the sinking. The senators found that Captain Edward Smith's "indifference to danger" was one of the direct causes of the deaths. They blamed the Board of Trade's officials for the missing lifeboats.
@@ -169,7 +171,7 @@ The dam gave way at about 11:57 that night. Harnischfeger and his family were pr
 
 At the investigation afterward, the *Express* newspaper reported that Mulholland said, "the only ones I envy are those who are dead." The *Los Angeles Times* printed his words as "on an occasion like this I envy the dead."
 
-**The jury's finding.** A coroner's jury, a group of citizens who decide how people died, ruled on the collapse on April 12, 1928. The jurors found an error in engineering judgment about the rock under the dam, and they put that blame on Mulholland's bureau and its chief engineer. They found a second error, in the rules meant to keep the public safe. They put that blame on three groups: the city's water and power commissioners, the lawmakers of the city and the state, and the public.
+**The jury's finding.** A coroner's jury, a group of citizens who decide how people died, ruled on the collapse on April 12, 1928. The jurors found an error in engineering judgment about the rock under the dam, and they put that blame on Mulholland's bureau and its chief engineer. They found a second error, in the rules meant to keep the public safe. They put that blame on the people the chief engineer answered to: the city's water and power commissioners, the lawmakers of the city and the state, and the public.
 
 The jurors wrote that a great dam should never be left "to the sole judgment of one man, no matter how eminent," meaning no matter how famous and respected. They found no crime and recommended that no one be charged. Mulholland's career as chief engineer ended after the dam broke.
 
@@ -182,9 +184,11 @@ Black workers did most of the cleanup after the storm. Officials saved the few c
 Robert Hazard of West Palm Beach started a group to win recognition for the Black victims buried in the city's mass grave. The city bought the grave site back in 2000. In 2003 a state historical marker was put up there.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Black Sunday, April 14, 1935" -->
+<!-- hb-zoom level="era" -->
 **By 1929:** The Mississippi flood had driven about 637,000 people from their homes, the St. Francis Dam and the Okeechobee hurricane had killed thousands more in 1928, and members of Congress had passed the Flood Control Act of 1928.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Black Sunday, April 14, 1935" -->
 A wall of blowing dirt swept across the southern Great Plains on April 14, 1935, with winds of up to 60 miles an hour. It reached Beaver, Oklahoma, at about 4 p.m. and Boise City, Oklahoma, at about 5:15 p.m. For a short time the sky was so black that people could not see their own hands in front of their faces. The day became known as Black Sunday.
 
 An Associated Press reporter, Robert Geiger, and a photographer, Harry Eisenhard, were caught in the storm six miles from Boise City. The next day Geiger wrote a news story that began, "Residents of the southwestern dust bowl marked up another black duster today." A duster was a dust storm. His story is generally accepted as the first use of the words "dust bowl."
@@ -240,17 +244,17 @@ In 1950: Galveston stood behind a seawall 17 feet high, Texas officials could re
 <!-- hb-zoom level="era" -->
 **Era 9 of 10 · 1950 to 2000 · about 17 minutes**
 
-Forecasters warned the whole Louisiana coast a day before Hurricane Audrey came ashore in June 1957, and at least 416 people died anyway. Warnings got faster after 1950, and help got organized. Weather Bureau forecasters began giving hurricanes human names in 1953. In 1979 President Jimmy Carter put much of the national government's disaster work under one new office, the Federal Emergency Management Agency, called FEMA.
+Hurricane Audrey killed at least 416 people on the Louisiana coast in June 1957. Warnings got faster after 1950, and help got organized. Weather Bureau forecasters began giving hurricanes human names in 1953. In 1979 President Jimmy Carter put much of the national government's disaster work under one new office, the Federal Emergency Management Agency, called FEMA.
 
 Choices made by owners and engineers still killed hundreds of people. A coal company's waste dam in West Virginia broke in 1972 and killed 125. Two hotel walkways in Kansas City fell in 1981 and killed 114, after an engineer approved a design change without checking the math. News reporters broadcast a rescue from a frozen river in Washington, D.C., live as it happened. After Hurricane Andrew in 1992, Florida got a single building code, a set of rules for how strong buildings must be.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hurricanes with names: Audrey, 1957, and Camille, 1969" -->
-Hurricane Audrey killed at least 416 people in 1957. Forecasters warned the Louisiana coast a day before it struck, but the storm sped up and arrived sooner than forecasters or residents expected. By then, hurricanes had names. In 1953 forecasters of the U.S. Weather Bureau began giving human names to storms. In 1956 Weather Bureau officials opened a hurricane center in Miami.
+By the time Hurricane Audrey struck in 1957, hurricanes had names. In 1953 forecasters of the U.S. Weather Bureau began giving human names to storms. In 1956 Weather Bureau officials opened a hurricane center in Miami.
 
-Forecasters warned the whole Louisiana coast at 10 a.m. on June 26, 1957, that a hurricane was coming. About 75,000 people left. Audrey came ashore the next day near Cameron, about 24 hours after the warning.
+Forecasters warned the whole Louisiana coast at 10 a.m. on June 26, 1957, that a hurricane was coming. About 75,000 people left. Audrey came ashore the next day near Cameron, about 24 hours after the warning. The storm had sped up and arrived sooner than forecasters or residents expected.
 
-Its storm surge, the wall of seawater that a hurricane's winds push onto land, rose as high as 12 feet. The water did damage as far as 25 miles inland. Most of the dead were in Cameron Parish. The final count may never be known.
+Its storm surge, the wall of seawater that a hurricane's winds push onto land, rose as high as 12 feet. The water did damage as far as 25 miles inland. At least 416 people died, most of them in Cameron Parish. The final count may never be known.
 
 **Camille.** Hurricane Camille came ashore near Bay St. Louis, Mississippi, late on August 17, 1969, with winds of 175 miles an hour. The water rose 24.6 feet at Pass Christian, Mississippi. Camille killed 172 people in Mississippi and 9 in Louisiana. As the storm moved north, its rain caused floods in Virginia that killed more than 153 people there. At least 343 people died in all.
 <!-- /hb-zoom -->
@@ -339,11 +343,11 @@ Melvin E. "Gene" Windsor, 41, pulled the last survivor of Air Florida Flight 90 
 
 He flew with the chief pilot, Donald W. Usher, 31. Earlier that day Usher had decided that no routine flights would go up. At about 4:09 p.m. a radio call came in. They took off at 4:16 and reached the river at about 4:20. Usher steered by watching the highway below through the windows in the helicopter's floor.
 
-Six people were holding on to the wreck, in water up to their shoulders and necks. Windsor dropped life jackets and lines to them while Usher flew so low that the skids went under the water.
+The people holding on to the wreck were in water up to their shoulders and necks. Windsor dropped life jackets and lines to them while Usher flew so low that the skids went under the water.
 
 **The last one out.** The last survivor out of the water was Patricia Felch. She had been in the river for 30 minutes. Windsor unbuckled his seat belt and stepped out onto the right skid, which was under the water. He grabbed her with one arm and held the back of her head with the other.
 
-They went back for the man who had passed the line to others, and could not find him. "In a mass casualty, you'll find people like him, but I've never seen one with that commitment," Windsor told *Time*, using the term for an event in which many people are hurt or killed at once. Windsor, Usher, Skutnik and Olian each received the Carnegie Medal for bravery. Windsor served 22 years with the Park Police.
+Of the passenger who twice passed the line to others, Windsor told *Time*: "In a mass casualty, you'll find people like him, but I've never seen one with that commitment." A mass casualty is an event in which many people are hurt or killed at once. Windsor, Usher, Skutnik and Olian each received the Carnegie Medal for bravery. Windsor served 22 years with the Park Police.
 <!-- hb-story:end slug="melvin-windsor" -->
 
 <!-- hb-zoom level="span" label="Hurricane Hugo and the Loma Prieta earthquake, 1989" -->
@@ -373,7 +377,7 @@ City officials did not issue a heat emergency warning until the last day of the 
 
 The morgue run by the medical examiner, Edmund Donoghue, a doctor who examines the dead to find out how they died, could hold 300 bodies, and it filled. Refrigerated trucks were parked outside to hold the rest.
 
-Donoghue said later that his office was not allowed to hold press conferences, and that Mayor Richard M. Daley was not told until the weekend. A later study counted 692 deaths above normal over the summer. In August, 41 victims whose bodies no one claimed were buried together in one grave in Homewood, Illinois.
+Donoghue said later that his office was not allowed to hold press conferences, and that Mayor Richard M. Daley was not told until the weekend. A later study counted 692 deaths above normal over the whole summer, from June 21 to August 10. That is fewer than the worst week's 739, because some of the people the heat killed would have died later that summer anyway, the study found. In August, 41 victims whose bodies no one claimed were buried together in one grave in Homewood, Illinois.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" label="By 2000" -->
@@ -427,7 +431,7 @@ Federal officials did not begin to act in earnest to help the people at the Conv
 
 On September 4, New Orleans police officers shot six unarmed Black people on the Danziger Bridge. They killed James Brissette, 17, and Ronald Madison, 40, a man with a mental disability. Madison was shot seven times, five times in the back. Among the officers were Kenneth Bowen, Robert Gisevius, Anthony Villavaso and Robert Faulcon. Police officers then tried to cover up the killings. In 2016 five former officers pleaded guilty and were sentenced to between 3 and 12 years in prison.
 
-**Memorial Medical Center.** At Memorial Medical Center, 45 bodies were found after the storm. In July 2006, the office of Charles Foti, Louisiana's attorney general and top lawyer, finished an investigation of nearly a year. A judge then ordered the arrest of a doctor, Anna Pou, and two nurses, Lori Budo and Cheri Landry, for murder, which Louisiana law called second degree murder.
+**Memorial Medical Center.** Patients, visitors and workers were trapped in Memorial Medical Center, a New Orleans hospital, during the flood. After the storm, 45 bodies were found there. In July 2006, the office of Charles Foti, Louisiana's attorney general and top lawyer, finished an investigation of nearly a year. A judge then ordered the arrest of a doctor, Anna Pou, and two nurses, Lori Budo and Cheri Landry, for murder, which Louisiana law called second degree murder.
 
 They were accused of giving deadly doses of morphine and midazolam to four patients: Emmett Everett Sr., 61, Hollis Alford, 66, Ireatha Watson, 89, and Rose Savoie, 90. Morphine is a strong painkiller, and midazolam is a drug that makes people calm and sleepy. In large doses, both slow and then stop a person's breathing. In 2007 a grand jury refused to charge any of the three. The state later paid Pou's legal bills of more than 450,000 dollars.
 <!-- /hb-zoom -->
@@ -462,7 +466,7 @@ The mayor of San Juan, Carmen Yulín Cruz, spoke of the national government's re
 
 Researchers at George Washington University estimated between 2,658 and 3,290 extra deaths from September 2017 to February 2018. On August 28, 2018, Rosselló's officials accepted their study and raised the official count to 2,975. A Harvard University study in 2018 estimated 4,645 extra deaths from September to December 2017, with a very wide range, from 793 to 8,498.
 
-Trump wrote on Twitter on September 13, 2018, that "3000 people did not die" and blamed Democrats for the number. He gave no evidence.
+Trump wrote on Twitter on September 13, 2018, that "3000 people did not die" and blamed Democrats for the number. The official count of 2,975, based on the George Washington University study, has stood since August 28, 2018.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="jesse-vazquez" name="Jesse Vazquez" movie="" kind="ordinary" status="verified" -->
@@ -482,16 +486,18 @@ Exhaust from a neighbor's generator blew into the family's living room. Megan sa
 By Christmas the house had been without power for 96 days. Jesse and his mother used the generator to run the refrigerator, and fans at night so they could sleep. A FEMA inspector told Jesse he could not get help to fix his damaged roof. "It's kind of humiliating," he said. With his son's help he bought four solar panels. He and his mother decided to stay in Puerto Rico.
 <!-- hb-story:end slug="jesse-vazquez" -->
 
-<!-- hb-zoom level="span" label="Floods: Harvey, 2017, Helene, 2024, and the Texas Hill Country, 2025" -->
+<!-- hb-zoom level="era" -->
 **By 2018:** Puerto Rico's officials had raised the count of Maria's dead from 64 to 2,975, and federal judges had thrown out the lawsuit that Herbert Freeman Jr. and two other Katrina families brought against the national government.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Floods: Harvey, 2017, Helene, 2024, and the Texas Hill Country, 2025" -->
 Hurricane Harvey struck Texas in late August 2017 and dropped more rain than any other hurricane or tropical storm in U.S. records. Scientists at the National Hurricane Center recorded 60.58 inches near Nederland, Texas. Rescuers made more than 17,000 rescues. Their report records at least 68 people killed by the storm's direct effects in Texas and about 35 more by causes such as electric shock, car crashes and being cut off from medical care.
 
 Hurricane Helene came ashore in Florida, near Perry, late on September 26, 2024. The next day its rain fell on North Carolina and Tennessee. Busick, North Carolina, got 30.78 inches of rain, and the rain set off more than 2,000 landslides. Scientists at the National Hurricane Center count at least 250 dead in the United States, 107 of them in North Carolina.
 
 **The plastics factory.** In Erwin, Tennessee, six people died at the Impact Plastics factory as the Nolichucky River rose on September 27. The flood swept 11 people away, and five were rescued. A worker who survived and the families of the dead spoke out. They said the workers were not told they could leave until floodwater had covered the road to the plant and the power had gone out. Five employees and a contractor who cleaned the offices were killed.
 
-Inspectors of Tennessee's workplace safety agency found in April 2025 that the deaths were not work-related. They issued no citations, which are official notices that a company broke a safety rule. District Attorney General Steven Finney filed no charges against the company's president, Gerald O'Connor, in July 2025, after a review by the Tennessee Bureau of Investigation.
+Inspectors of Tennessee's workplace safety agency found in April 2025 that the company had "exercised reasonable diligence," meaning it had taken reasonable care, and that the deaths were not work-related. They issued no citations, which are official notices that a company broke a safety rule. District Attorney General Steven Finney filed no charges against the company's president, Gerald O'Connor, in July 2025, after a review by the Tennessee Bureau of Investigation.
 
 The investigators said they found no evidence that workers were told they could not leave or that they would be fired for leaving, and that the workers had a little more than an hour to get out. The family of Johnny Peterson, one of the dead, sued the company.
 
@@ -505,7 +511,7 @@ After appeals from the camp, FEMA officials took 15 of its buildings on the Guad
 
 Texas lawmakers passed new camp safety laws in September 2025, at an extra meeting called a special session, among them the Heaven's 27 Camp Safety Act. On June 18, 2026, members of the Texas Senate and House investigating committees released a report. The lawmakers found that the camp had no written emergency plans, which state rules required. They also found that the camp's leaders did not move the campers out in time even though they had chances to.
 
-In the week before July 18, 2026, officials used three of Kerr County's six new sirens, an official of the Upper Guadalupe River Authority said.
+By July 2026 Kerr County had six new sirens. In the week before July 18, when floods came to the Hill Country again, officials sounded three of them to warn people, an official of the Upper Guadalupe River Authority said.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fires started by power lines: Paradise, 2018, Lahaina, 2023, and Los Angeles, 2025" -->
@@ -515,9 +521,11 @@ A single metal hook broke on a power line tower owned by Pacific Gas and Electri
 
 Firefighters lost water pressure in the hydrants. Many people died in their cars. Some jumped into the ocean to escape the flames.
 
+The fire destroyed a town that had been the capital of the Kingdom of Hawaii for 35 years. It burned the homes of many Native Hawaiian families who could afford to live in Lahaina only because they had inherited houses that were already paid for.
+
 Maui has more than 80 outdoor warning sirens, and none of them sounded. Herman Andaya, the head of the Maui County Emergency Management Agency, said the sirens would have sent people toward the mountains and into the fire. He resigned the next day.
 
-In an October 2024 report, federal fire investigators and the Maui Fire Department called the fire accidental and blamed no person or company. Lahaina had been the capital of the Kingdom of Hawaii for 35 years. Many Native Hawaiian families could afford to live there only because they had inherited homes that were already paid for.
+In an October 2024 report, federal fire investigators and the Maui Fire Department called the fire accidental, meaning no one set it on purpose. They found that the power lines brought down by the wind had started it, but they did not hold any person or company responsible.
 
 Under a settlement of the survivors' lawsuits, Hawaiian Electric, Maui County and others agreed to pay 4 billion dollars. As of August 2026, none of that money had been paid, because of a court fight over the lawyers' fees, the *Honolulu Star-Advertiser* reported.
 
@@ -527,17 +535,15 @@ Seventeen of the 19 died in west Altadena, a neighborhood with a long history as
 
 The Palisades Fire killed 12 people. In October 2025 Jonathan Rinderknecht, 29, was arrested and charged with starting it. Prosecutors say he set a small fire on January 1, and that strong winds rekindled it, or started it burning again, on January 7 as the Palisades Fire. Firefighters had thought the January 1 fire was out. A Los Angeles Fire Department battalion commander ordered crews to leave that site, although they reported that the ground was still burning slowly.
 
-Rinderknecht's federal trial ended on June 26, 2026, when the jury could not agree. Ten jurors voted not guilty and two voted guilty. Prosecutors then charged him again with two charges of arson, the crime of setting a fire on purpose, and dropped a third charge. On August 19, 2026, he pleaded not guilty.
-
-In an update dated October 22, 2026, federal prosecutors in Los Angeles listed a last hearing before trial for October 29 and the start of his second trial for November 2, before Judge Anne Hwang. As of October 26, 2026, the second trial had not begun, and he had not been convicted of any crime.
+His first trial ended in June 2026 when the jury could not agree: ten jurors voted not guilty and two voted guilty. Prosecutors charged him again with arson, the crime of setting a fire on purpose, and he pleaded not guilty. As of October 26, 2026, his second trial had not begun, and he had not been convicted of any crime.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cold, a collapse and FEMA's future: 2021 to 2026" -->
 A winter storm struck Texas in February 2021, and more than 4.5 million homes and businesses lost power, some of them for days. Officials of the Texas Department of State Health Services counted 246 deaths from the storm. Almost two-thirds of the dead died of hypothermia, which means the body gets so cold that it stops working. Some estimates run as high as 702 deaths. Cristian Pavón Pineda, 11, died of carbon monoxide poisoning in his family's mobile home in Conroe, Texas. The home had no power.
 
-**Surfside.** Part of Champlain Towers South, a 12-story apartment building in Surfside, Florida, fell down at 1:22 a.m. on June 24, 2021, and killed 98 people. Each family owned its own apartment. For years, water had seeped into the concrete and steel supports of the parking garage under the pool deck, and the steel had rusted.
+**Surfside.** Part of Champlain Towers South, a 12-story apartment building in Surfside, Florida, fell down at 1:22 a.m. on June 24, 2021, and killed 98 people. For years, water had seeped into the concrete and steel supports of the parking garage under the pool deck, and the steel had rusted.
 
-Engineers of the firm Morabito Consultants reported the damage in 2018. They warned that if the waterproofing was not replaced soon, the damage to the concrete would spread fast. On April 9, 2021, Jean Wodnicki, the president of the owners' board, wrote to the residents that "the concrete deterioration is accelerating," meaning the concrete was breaking down faster. A 15-million-dollar repair had been approved, but the main work had not started.
+Engineers of the firm Morabito Consultants reported the damage in 2018. They warned that if the waterproofing was not replaced soon, the damage to the concrete would spread fast. Each family owned its own apartment, and the owners together had a board. On April 9, 2021, Jean Wodnicki, the president of that board, wrote to the residents that "the concrete deterioration is accelerating," meaning the concrete was breaking down faster. A 15-million-dollar repair had been approved, but the main work had not started.
 
 **FEMA's future.** President Trump called for getting rid of FEMA. On February 17, 2025, officials of the Trump administration fired more than 200 FEMA workers. On March 24, 2025, Homeland Security Secretary Kristi Noem said she would move to eliminate FEMA. The acting head of FEMA, Cameron Hamilton, told members of Congress: "I do not believe it is in the best interest of the American people to eliminate the Federal Emergency Management Agency." He was removed from his job the next day.
 
@@ -552,11 +558,11 @@ More than 180 current and former FEMA workers signed a public statement of prote
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- What rules did Americans make after disasters, and did they work? After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some needed a second try. The steamboat law of 1838 had no one to enforce it, so members of Congress passed a stronger one in 1852.
+- What rules did Americans make after disasters, and did they work? After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some went into use fast: the smell was in natural gas within weeks. Some failed: the 1838 steamboat law had no one to enforce it, a New York law said factory doors must stay unlocked but witnesses said the Triangle owners kept one locked, the *Eastland*'s added lifeboats may have made it more dangerous, and New Orleans's floodwalls broke in 2005. Some are still being tested, such as Kerr County's new flood sirens and FEMA, whose future members of Congress were still debating in late September 2026.
 - Was anyone punished when people's choices killed others? Rarely. No one was punished for the *Sultana*, the Johnstown club won in court, a jury found the Triangle owners not guilty, and no Pittston official was charged after Buffalo Creek. Barnett Welansky went to prison for the Cocoanut Grove fire, and PG&E pleaded guilty to 84 counts of involuntary manslaughter after the Camp Fire.
 - Did everyone get the same help after a disaster? No. Officials paid out London's money for Charleston in 1740 by the size of each loss, so most of it went to rich merchants. Armed men forced Black workers to handle Galveston's dead in 1900, and camp leaders forced Black people to work in the 1927 flood. In 2005 police turned back people walking out of New Orleans at gunpoint, and in 2025 orders to leave reached west Altadena hours late.
 
-**What changed:** Over ten eras, help after a disaster moved from neighbors and churches to public money and a national office, and warnings moved from church bells to the telegraph and sirens.
+**What changed:** Over ten eras, help after a disaster moved from neighbors and churches to public money and a national office, and warnings moved from church bells to the telegraph and sirens. After 2000, FEMA's help was slow at Katrina, its officials admitted failures after Maria, and none of Maui's sirens sounded in 2023.
 
 **Five dates to keep**
 - January 26, 1700: The Cascadia fault breaks, and its tsunami reaches Japan the next day.

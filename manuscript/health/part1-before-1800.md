@@ -18,7 +18,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 
 **For most of American history nobody knew what caused disease, and after doctors learned how to stop it, the people with the least power were often the last to be protected and the first to be tested on.**
 
-Cotton Mather, a Boston minister, wrote to scientists in London in 1716 about a scar on the arm of Onesimus, an African man Mather enslaved. Onesimus said he had "undergone an Operation" that gave him a little smallpox and would "forever preserve him from it." The method was to cut the skin and put in a drop of "Juice of Small-Pox." When Boston doctors used it five years later, about 2 in 100 of the people they treated died, against 14 or 15 in 100 of those who caught smallpox the ordinary way.
+Cotton Mather, a Boston minister, wrote to scientists in London in 1716 about a scar on the arm of Onesimus, an African man Mather enslaved. Onesimus said it came from an operation that gave him a small case of smallpox, a disease of fever and blisters that often killed. The small case, he said, would keep him from ever catching it again. When Boston doctors tried the method in 1721, about 2 in 100 of the people they treated died, against 14 or 15 in 100 of those who caught smallpox the ordinary way.
 
 This chapter follows sickness and healing through ten eras, from what ancient bones show to COVID-19. In the first eras, look for the new diseases that came after 1492 and emptied whole Native towns. Then for a long stretch doctors guessed at what caused disease and bled and purged their patients, until scientists showed in the late 1800s and in 1900 that germs and mosquitoes spread it. Through all of it, notice who paid for the new knowledge: enslaved women operated on with nothing to stop the pain, Black men in Alabama kept from treatment for 40 years, and children fed a virus on purpose.
 
@@ -27,14 +27,14 @@ This chapter follows sickness and healing through ten eras, from what ancient bo
 - How did Americans learn to stop smallpox, yellow fever and polio?
 - Who was used in medical experiments without agreeing, and what changed because of it?
 
-**Five minutes?** Read "The Tuskegee study, 1932 to 1972" in 1900 to 1950.
+**Five minutes?** Read "The Tuskegee study, 1932 to 1972" in 1900 to 1950, then "The Tuskegee study ends, 1972 to 1997" in 1950 to 2000.
 **Can skip:** "Midwives and surgeons in New Amsterdam", "Medical care for sailors, 1798", "New operations and new pictures of the body, 1954 to 1963". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
 **Era 1 of 10 · Before 1500 · about 4 minutes**
 
-Almost everything known about sickness in this land before 1500 comes from bones and teeth, because nobody here wrote about illness then. They show that people had diseases, but not the ones that arrived after 1492 and killed great numbers of them. Smallpox, measles, influenza, mumps, chickenpox, cholera, diphtheria, typhus, malaria, leprosy, yellow fever and bubonic plague had never reached the Americas. Each of them is an infection caused by a germ, a living thing too small to see.
+Almost everything known about sickness in this land before 1500 comes from bones and teeth, because nobody here wrote about illness then. They show that people had diseases, but not the ones that arrived after 1492 and killed great numbers of them. Smallpox, measles, influenza, yellow fever and cholera had never reached the Americas. Neither had mumps, chickenpox, malaria, diphtheria, typhus, leprosy or bubonic plague. Every one of these twelve diseases is an infection caused by a germ, a living thing too small to see.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="What do the bones show?" -->
@@ -42,7 +42,9 @@ Some diseases leave marks on bone, so archaeologists, scientists who learn about
 
 Tuberculosis was here. It is caused by bacteria, one kind of germ, and it most often infects the lungs, though it can spread to the bones, including the spine. Skeletons with its damage appear after about the year 900. Most of them come from inland places in the middle of the continent and in the Southwest.
 
-Bones also show diseases in the same family as syphilis, a disease that is passed during sex. Two of them, yaws and bejel (also called non-venereal syphilis), spread mainly by touching skin and mouths, not by sex. A team of scientists studied ancient DNA from these bacteria, taken from five people buried in the Americas, and reported in 2025. Their results support the idea that every one of these bacteria scientists have studied, old and modern, began in the Americas.
+Bones also show diseases in the same family as syphilis, a disease that is passed during sex. Two of them, yaws and bejel, spread mainly by touching skin and mouths, not by sex. Bejel is also called non-venereal syphilis, which means syphilis that is not passed by sex.
+
+A team of scientists studied the DNA of these bacteria, taken from five people buried in the Americas long ago. DNA is the set of chemical instructions inside every living cell. In 2025 the team reported that the bacteria behind syphilis and its whole family most likely began in the Americas. Their results fit that idea for every sample of these bacteria that scientists have studied, ancient or modern.
 
 Martin and Goodman list other illnesses that were present: rabies, whooping cough, polio, hepatitis (an infection of the liver), herpes (a virus that causes sores), tularemia (a fever people catch from animals), and stomach infections from tiny living things called giardia and amoebas. They add that almost all of these were probably rare in any one group of people.
 
@@ -80,9 +82,9 @@ Three Europeans saw Native people in this land begin dying of diseases they had 
 <!-- hb-zoom level="span" label="The Texas coast, 1528 and 1529" -->
 About 80 Spanish men came ashore in two boats on or near Galveston Island, on the Texas coast, in November 1528. They were survivors of a Spanish expedition, a group sent out to explore and conquer, led by a commander named Narváez. One of them, Cabeza de Vaca, later wrote an account of what happened. He wrote that the people of the island spoke two languages, and he called them the Capoque and the Han.
 
-Only 15 of the 80 Spaniards stayed alive. Five Spaniards camped on the coast grew so desperate that they ate the bodies of their own dead as each one died. Their names were Sierra, Diego López, Corral, Palacios and Gonçalo Ruiz. Nobody ate the body of the last one to die. Cabeza de Vaca wrote that the islanders were in an uproar when they learned of it.
+The islanders watched most of the Spaniards die. Only 15 of the 80 stayed alive. Five Spaniards camped on the coast grew so desperate that they ate the bodies of their own dead as each one died. Their names were Sierra, Diego López, Corral, Palacios and Gonçalo Ruiz. Nobody ate the body of the last one to die. Cabeza de Vaca wrote that the islanders were in an uproar when they learned of it.
 
-Then a disease of the bowels, the long tube in the belly that food passes through after the stomach, killed half of the island's people, Cabeza de Vaca wrote. He did not name the disease. The islanders believed the Spaniards had caused the deaths, and they planned to kill the survivors. The Native man who had charge of Cabeza de Vaca talked them out of it. He pointed out that the Spaniards had not been able to save their own men from dying.
+Then a disease of the bowels, the long tube in the belly that food passes through after the stomach, killed half of the island's people, Cabeza de Vaca wrote. He did not name the disease. The islanders believed the Spaniards had caused the deaths, and they planned to kill the survivors. The Native man who had charge of Cabeza de Vaca talked them out of it. He told them that if the Spaniards had such power, they would have saved their own men, whom the islanders had watched die.
 
 **Healing for food.** The islanders then told the Spaniards to heal the sick, and they gave them no food until they did. Cabeza de Vaca described how the island's own healers worked. A healer made small cuts in the skin over the place that hurt and sucked at the cuts. Healers also burned the skin at the painful spot on purpose, a treatment called cautery, and then blew on it.
 
@@ -190,7 +192,7 @@ A fever killed more than 20 men, women and children at Plymouth in 1633, and man
 <!-- hb-zoom level="span" label="Smallpox on the Connecticut River, 1634" -->
 About 1,000 Native people closed themselves inside a fort on the Connecticut River in the winter of 1633 to 1634, upriver from Plymouth's trading house. A disease struck them, and more than 950 of them died, Bradford wrote. Many of the bodies lay rotting above the ground, unburied. Bradford did not name the nation or the disease.
 
-That spring, smallpox struck the Native people living near the trading house itself. Smallpox is caused by a virus, a germ even smaller than bacteria, and it spread from person to person through close contact, face to face. It caused a fever and a rash, and the rash turned into blisters and then scabs. In general, about 3 of every 10 people who caught smallpox died. Many survivors had scars for life, most of all on their faces.
+That spring, smallpox struck the Native people living near the trading house itself. Smallpox is caused by a virus, a germ even smaller than bacteria, and it spread from person to person through close contact, face to face. It caused a fever and a rash, and the rash turned into blisters and then scabs. In general, about 3 of every 10 people who caught smallpox died, though the share in a single epidemic could be higher or lower. Many survivors had scars for life, most of all on their faces.
 
 Bradford described the sick lying on hard mats. The blisters broke open and ran, and the skin stuck to the mats. When a sick person turned over, the skin of a whole side came off at once. So many were sick that no one could make a fire, fetch water or bury the dead. Some crawled on their hands and knees to get water and died on the way.
 
@@ -198,11 +200,11 @@ The English at the trading house brought the sick wood, water and food, and buri
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Midwives and surgeons in New Amsterdam" -->
-Officials of the Dutch West India Company, a trading company, ran the colony of New Netherland. Its town of New Amsterdam stood on Manhattan, in the homeland of the Munsee Lenape. Company officials appointed and paid the town's midwives, women who help other women give birth. The midwife Lysbert Dircksen lived in a house built for her with public money in 1638.
+The officials who ran New Amsterdam paid some of the people who cared for its sick, and in 1658 they set up a place for sick patients. They were officials of the Dutch West India Company, a trading company, and they governed the whole colony of New Netherland. New Amsterdam stood on Manhattan, in the homeland of the Munsee Lenape.
 
-Surgeons worked in the town too. Hans Kierstede arrived in 1638 and worked in the town for nearly 30 years. Under a rule of 1652, barbers from the ships could not treat wounds on shore without permission. Under a rule of 1657, surgeons had to report how each wounded person had been hurt.
+Company officials appointed and paid the town's midwives, women who help other women give birth. The midwife Lysbert Dircksen lived in a house built for her with public money in 1638. The officials also made rules for the town's surgeons, such as Hans Kierstede, who arrived in 1638 and worked there for nearly 30 years. Under rules of 1652 and 1657, barbers from the ships needed permission to treat wounds on shore, and surgeons had to report how each wounded person had been hurt.
 
-The Company surgeon Jacob Hendrichsen Varvanger asked in 1658 for a place to care for sick patients. Members of the colony's council agreed. They made Hilletje Wilbruch the matron, the woman in charge, and paid her 100 florins, which were Dutch coins, a year. Richard Amerman, in a 1957 article on medicine in New Netherland, called it the first hospital.
+The Company surgeon Jacob Hendrichsen Varvanger asked in 1658 for a place to care for sick patients. Members of the colony's council agreed. They made Hilletje Wilbruch the matron, the woman in charge, and paid her 100 florins, which were Dutch coins, a year. Richard Amerman, who wrote about medicine in New Netherland, called it the first hospital.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="tryntje-jonas" name="Tryntje Jonas" movie="" kind="ordinary" status="verified" -->
@@ -243,7 +245,7 @@ By one estimate, some Native nations lost more than 60 of every 100 people. A So
 <!-- hb-zoom level="era" -->
 **Era 4 of 10 · 1700 to 1750 · about 7 minutes**
 
-Doctors in Boston and Charleston began protecting people against smallpox in these fifty years by inoculation: giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. In Boston the minister Cotton Mather first heard of the method from Onesimus, an African man Mather enslaved. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children, and smallpox killed about half of the Cherokee Nation.
+Doctors in Boston and Charleston began protecting people against smallpox in these fifty years by inoculation: giving a healthy person a small case of smallpox on purpose, so that the person would not catch it again. Epidemics still killed thousands of people. Diphtheria killed about 5,000 people in New England, most of them children, and smallpox killed about half of the Cherokee Nation.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Smallpox and inoculation in Boston, 1721" -->
@@ -251,7 +253,7 @@ The ship *Seahorse* sailed into Boston from the island of Barbados on April 22, 
 
 The minister Cotton Mather led the Boston ministers who backed inoculation. He had first heard of it from Onesimus, a man he enslaved. To inoculate someone, a doctor took pus from a smallpox sore and dried it. Then the doctor rubbed or scratched the pus into a cut in a healthy person's skin.
 
-Almost all of Boston's doctors feared that inoculation would spread the disease. Zabdiel Boylston was the one Boston doctor who tried it, starting in June 1721. By the end of the epidemic, about 287 people in Boston had been inoculated, and 6 of them died. That is about 2 in every 100. Among people who caught smallpox the ordinary way, about 14 or 15 in every 100 died.
+Almost all of Boston's doctors feared that inoculation would spread the disease. Zabdiel Boylston was the one Boston doctor who tried it, starting in June 1721. By the end of the epidemic, about 287 people had been inoculated, most of them by Boylston, and 6 of them died. That is about 2 in every 100. Among people who caught smallpox the ordinary way, about 14 or 15 in every 100 died.
 
 **The fight.** The doctor William Douglass led the people who opposed inoculation. He called it a "poisonous humor," humor being an old word for a fluid of the body. James Franklin printed attacks on inoculation in his newspaper, the *New-England Courant*. The town's selectmen, its elected officials, ordered Boylston to stop. He started again two days later.
 
@@ -291,7 +293,7 @@ Zabdiel Boylston inoculated three people on June 26, 1721. One was his son Thoma
 
 Boylston wrote down how each one's illness went. Thomas and Jack each had about "an hundred" blisters full of pus. On the ninth day Boylston gave them a medicine to make them vomit. All three recovered.
 
-He went on to inoculate between 242 and 248 people, by different counts. Six of them died. When the selectmen ordered him to stop, he started again two days later. For a time he stayed on his farm, because he could not leave it without risk of being attacked.
+He went on to inoculate between 242 and 248 of the about 287 people inoculated in the epidemic, by different counts. Six of them died. When the selectmen ordered him to stop, he started again two days later. For a time he stayed on his farm, because he could not leave it without risk of being attacked.
 
 Later he sailed to London, where the scientists of the Royal Society made him a member. In 1726 he published a book about his inoculations, *An Historical Account of the Small-Pox Inoculated in New England*.
 <!-- hb-story:end slug="zabdiel-boylston" -->
@@ -357,7 +359,7 @@ The *South Carolina Gazette* newspaper printed Caesar's cure in May 1750. It was
 
 The same lawmakers passed a law in 1751 aimed at enslaved healers, "commonly called doctors." Under it, enslaved healers could not give anyone medicine without permission from white people.
 
-Caesar died in early 1754, at about 77 years old. His wife Lilly and his daughter Hannah were never freed by the lawmakers. They were still enslaved by John Norman. When Caesar died, he owned an enslaved woman himself.
+Caesar died in early 1754, at about 77 years old. He left an estate worth 62 pounds, and it included an enslaved woman. The record of his estate does not give her name or say how he came to own her. His wife Lilly and his daughter Hannah were never freed by the lawmakers. They were still enslaved by John Norman.
 <!-- hb-story:end slug="doctor-caesar" -->
 
 <!-- hb-zoom level="span" label="Pennsylvania Hospital and the first medical school" -->
@@ -365,7 +367,7 @@ Dr. Thomas Bond and Benjamin Franklin founded Pennsylvania Hospital in Philadelp
 
 The first patients came on February 6, 1752, to a house on Market Street that the hospital used until its own building was ready. Writers for the Mütter Museum, a museum of medical history in Philadelphia, give the year as 1753. The permanent building opened in 1756. Its basement held rooms for patients with mental illness. The first floor was for men, and the second floor was for women.
 
-Older places in the colonies also housed people in need. Philadelphia's almshouse, a home for the poor, opened in 1732. A New York workhouse of 1736, a place where poor people lived and were put to work, later became Bellevue Hospital. The Dutch hospital in New Amsterdam was older than both.
+Older places in the colonies also housed people in need. Philadelphia's almshouse, a home for the poor, opened in 1732. A New York workhouse of 1736, a place where poor people lived and were put to work, later became Bellevue Hospital. The place for the sick that Dutch officials set up in New Amsterdam in 1658 was older than both.
 
 Dr. John Morgan founded a medical school at the College of Philadelphia, now the University of Pennsylvania, in 1765. The museum's writers call it the first medical college in the colonies. Students learned at the bedsides of the hospital's patients.
 <!-- /hb-zoom -->
@@ -406,7 +408,9 @@ Yellow fever killed 4,041 people in Philadelphia from August to November 1793, b
 
 Dr. Benjamin Rush treated patients by bleeding them heavily and giving them purges, medicines that emptied the bowels. Rush's purges were made with mercury, a metal. Losing that much blood could send a weak patient into shock, which happens when too little blood is left in the body. A person in shock becomes confused, the heart beats fast, and the blood pressure drops. A French doctor, Jean Devèze, used milder treatment at the Bush Hill hospital.
 
-Mayor Matthew Clarkson issued a public order about the epidemic on September 10, 1793. From September 14, a committee of 26 citizens worked with him to run the city's response. After the elders of the African church asked, some prisoners were let out of jail on the condition that they nurse the sick at Bush Hill. Two thirds of those prisoners were Black. Jones and Allen's account does not name the officials who let them out.
+Mayor Matthew Clarkson issued a public order about the epidemic on September 10, 1793. From September 14, a committee of 26 citizens worked with him to run the city's response.
+
+Absalom Jones and Richard Allen, two Black Philadelphians who led volunteers in nursing the sick, printed an account of the epidemic in 1794. They wrote that some prisoners were let out of jail after the elders of the African church asked, on the condition that they nurse the sick at Bush Hill. Two thirds of those prisoners were Black. Jones and Allen's account does not name the officials who let them out.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="benjamin-rush" name="Benjamin Rush" movie="" kind="famous" status="verified" -->
@@ -438,7 +442,7 @@ They carried away and buried the dead, several hundred poor people and strangers
 
 The fever killed Black Philadelphians too. In 1792, 67 Black people were buried in the city. In 1793 the number was 305. When some Black nurses fell sick, the families they worked for put them out of their houses. Jones and Allen knew of one who died in a stable.
 
-Mathew Carey wrote that Black nurses had overcharged the sick and stolen from them. In 1794 Jones and Allen printed their own account to answer him. In it they named Mary Scott, a Black nurse who refused to take more than her wage from a Mrs. Mason. Mrs. Mason then gave her six pounds a year for life.
+Mathew Carey wrote that Black nurses had overcharged the sick and stolen from them. In 1794 Jones and Allen printed their own account to answer him. For burying the dead, they wrote, they had "never received, nor never asked any compensation," meaning any pay. They also named Mary Scott, a Black nurse who refused to take more than her wage from a Mrs. Mason. Mrs. Mason then gave her six pounds a year for life.
 <!-- hb-story:end slug="jones-and-allen" -->
 
 <!-- hb-zoom level="span" label="Medical care for sailors, 1798" -->

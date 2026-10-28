@@ -15,7 +15,6 @@
 - privateer: a ship captain who raided enemy ships and towns with his own government's permission (The 1500s)
 - thatch: roofs of dried plants (The 1500s)
 - paramount chiefdom: a group of many towns and chiefs under one head chief (The 1600s)
-- malnutrition: the body does not get enough food (The 1600s)
 - pinnace: a small sailing ship (The 1600s)
 - mark: an English unit of money (The 1600s)
 - magnitude: the scale scientists use for an earthquake's strength, where each step up means the ground moves about ten times as far and the quake lets out about 32 times as much energy (The 1600s)
@@ -181,6 +180,6 @@
 
 ## Questions
 
-- Q: What rules did Americans make after disasters, and did they work? A: After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some needed a second try. The steamboat law of 1838 had no one to enforce it, so members of Congress passed a stronger one in 1852.
+- Q: What rules did Americans make after disasters, and did they work? A: After many of these disasters someone wrote a rule: Boston's fire wardens in 1711, brick walls in Boston and New Orleans, steamboat inspections, a Weather Bureau in 1890, 36 factory laws after the Triangle fire, a smell in natural gas after New London, and one building code for Florida after Andrew. Some went into use fast: the smell was in natural gas within weeks. Some failed: the 1838 steamboat law had no one to enforce it, a New York law said factory doors must stay unlocked but witnesses said the Triangle owners kept one locked, the *Eastland*'s added lifeboats may have made it more dangerous, and New Orleans's floodwalls broke in 2005. Some are still being tested, such as Kerr County's new flood sirens and FEMA, whose future members of Congress were still debating in late September 2026.
 - Q: Was anyone punished when people's choices killed others? A: Rarely. No one was punished for the *Sultana*, the Johnstown club won in court, a jury found the Triangle owners not guilty, and no Pittston official was charged after Buffalo Creek. Barnett Welansky went to prison for the Cocoanut Grove fire, and PG&E pleaded guilty to 84 counts of involuntary manslaughter after the Camp Fire.
 - Q: Did everyone get the same help after a disaster? A: No. Officials paid out London's money for Charleston in 1740 by the size of each loss, so most went to rich merchants. Armed men forced Black workers to handle Galveston's dead in 1900, and camp leaders forced Black people to work in the 1927 flood. In 2005 police turned back people walking out of New Orleans at gunpoint, and in 2025 orders to leave reached west Altadena hours late.

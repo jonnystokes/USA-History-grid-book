@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 20 minutes**
 
-The first American patient saved by penicillin, Anne Miller, got her first dose in 1942, and in the same years government doctors kept that same drug from Black men in Alabama who had syphilis. Army doctors proved in 1900 that a mosquito spreads yellow fever.
+The first American patient saved by penicillin, a drug made from a mold that kills bacteria, was Anne Miller. She got her first dose in 1942. In the same years, government doctors kept that same drug from Black men in Alabama who had syphilis. Army doctors proved in 1900 that a mosquito spreads yellow fever.
 
 An influenza epidemic, a flu that spread to huge numbers of people at once, killed about 675,000 people in the United States in 1918. A medicine mixed with a poison killed more than 100 people in 1937, and in 1938 a new law required drug makers to prove a drug safe before selling it.
 
@@ -49,7 +49,9 @@ Soon after her death, the yellow fever commission was ordered to break up. The m
 <!-- hb-zoom level="span" label="Mary Mallon, held on an island" -->
 Mary Mallon was a cook in New York who carried the germs of typhoid, a fever spread through food and water, in her body without being sick herself. Health officials counted 47 people infected through her cooking, and 3 of them died.
 
-Officials of the New York City Board of Health held her on North Brother Island, in the East River, from 1907 for more than two years. In a letter in June 1909, she wrote that they kept her "a prisoner without being sick nor needing medical treatment." She also wrote, "I have been in fact a peep show for everybody." Officials took her back to the island in 1915. She stayed there until she died on November 11, 1938. She became known as "Typhoid Mary."
+Officials of the New York City Board of Health held her on North Brother Island, in the East River, from 1907. In a letter in June 1909, she wrote that they kept her "a prisoner without being sick nor needing medical treatment." She also wrote, "I have been in fact a peep show for everybody."
+
+The officials let her go after more than two years on the island. They took her back to the island in 1915, and she stayed there until she died on November 11, 1938. She became known as "Typhoid Mary."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Fewer medical schools, 1910" -->
@@ -92,16 +94,18 @@ The flu reached Brevig Mission, an Alaska Native village, in 1918. Within five d
 
 Josie Mabel Brown nursed sailors dying of influenza at the Great Lakes Naval Training Station in Illinois in 1918. At the worst of the epidemic, 6,000 of the 173,000 men there were in the hospitals. She had finished nurse training in 1917 and been called into the Navy, and in the fall of 1918 she was ordered to Great Lakes.
 
-On her first ward, one man lay dying on the bed and another lay on the floor. A third waited on a stretcher for the bed. The nurses wrapped each dead man in a sheet and tied a shipping tag to one big toe.
+On her first ward, one man lay dying on the bed and another lay on the floor. A third waited on a stretcher for the bed. The nurses wrapped each dead man in a sheet and tied a shipping tag to one big toe. The ambulance, she said, "would bring us four live ones and take out four dead ones."
 
 The nurses had no time to take temperatures. Patients had nosebleeds so strong that "the blood would just shoot across the room," she said. In some men, air leaked from torn lungs into the body, and she could see bubbles under the skin of their arms.
 
 She worked 16 hours a day until just before Christmas 1918. In March 1919 she caught a fever of 104 or 105 herself, and she recovered. She told her story to her niece in 1986 and died at 104.
 <!-- hb-story:end slug="josie-mabel-brown" -->
 
-<!-- hb-zoom level="span" label="Radium in the body, 1917 to 1932" -->
+<!-- hb-zoom level="era" -->
 **By 1920:** Army doctors had proved that mosquitoes carry yellow fever, and influenza had just killed about 675,000 Americans. Doctors still had no vaccine against the flu and no drug that killed bacteria.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Radium in the body, 1917 to 1932" -->
 Radium is a metal that gives off radiation, a stream of energy that damages living cells. Radium belongs to the same family of elements as calcium, so growing bones take it up as if it were calcium. There it keeps giving off radiation from the inside.
 
 Women painted watch dials with glowing radium paint at the U.S. Radium factory in Orange, New Jersey, from 1917. They shaped their brushes into a point with their lips. The radium destroyed their bone marrow, the soft tissue inside bones that makes blood, so their bodies could not make enough blood. Their jaw bones died and broke apart. Some grew cancers of the bone. In 1924 a dentist, Theodor Blum, examined the dial painter Grace Fryer. Her jaw bone was wasting away, and he called the damage "radium jaw."
@@ -136,7 +140,7 @@ The exams also included spinal taps. In a spinal tap a doctor pushes a needle be
 
 **Keeping the cure away.** Keeping treatment away from the men was part of the study. Its doctors gave local doctors lists of the men's names and asked them not to treat them. In 1941 army officials drafted some of the men and told them to start treatment. Public Health Service officers gave the draft board, the group that chose men for the army, a list of 256 names to leave untreated, and the board members did as they asked.
 
-Accounts differ on when penicillin became the usual cure for syphilis: 1943, by 1947, or the early 1950s. The study doctors never offered it to the men. Vonderlehr later wrote, "I hope that the availability of antibiotics has not interfered too much with this project."
+Accounts differ on when penicillin, the drug made from a mold, became the usual cure for syphilis: 1943, by 1947, or the early 1950s. The study doctors never offered it to the men. Vonderlehr later wrote, "I hope that the availability of antibiotics has not interfered too much with this project."
 
 **What their own reports show.** Reports that the study doctors printed show what the disease did to the men. In 1936 the doctors reported that the infected men had much more disease of the heart and blood vessels than the men without syphilis. Only 16 of every 100 infected men showed no sign of illness, against 61 of every 100 of the uninfected men.
 
@@ -308,9 +312,11 @@ That same year Dr. Thomas Parran reported to the Interior Department on the heal
 Under a 1959 law, Public Health Service workers could bring clean water and ways to get rid of sewage to reservations, and tribes took part in the decisions. In 1976 President Gerald Ford signed the Indian Health Care Improvement Act. Under it, Medicare and Medicaid could pay the Indian Health Service for the care its staff gave.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="New operations and new pictures of the body, 1954 to 1963" -->
+<!-- hb-zoom level="era" -->
 **By 1955:** Doctors had a polio vaccine that worked, and Public Health Service officials ran health care for Native people through the new Indian Health Service.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="New operations and new pictures of the body, 1954 to 1963" -->
 Dr. Joseph Murray moved a healthy kidney from Ronald Herrick into his identical twin brother, Richard, at a Boston hospital on December 23, 1954. Richard was dying of kidney disease. The body's defenses attack an organ from almost anyone else, which is called rejection. Because the twins were identical, Richard's body accepted the kidney. He lived eight more years, married and had two children.
 
 Scientists at Brookhaven National Laboratory in New York built the first machine to make technetium-99m, a radioactive chemical, in 1958. A doctor injects a tiny amount into a patient. It gives off rays that a camera outside the body picks up, to make pictures of the bones, the heart and other organs. Doctors in the United States first reported scans with it in 1963. Doctors around the world now use it in tens of millions of scans a year.
@@ -358,9 +364,11 @@ Under a 1965 law, every pack of cigarettes had to carry a health warning. From 1
 Shipyard workers, insulation workers, miners and firefighters were among those who breathed it. Johns-Manville, the biggest maker of asbestos, went bankrupt in 1982 while facing thousands of lawsuits.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Medicare and Medicaid, 1965 and 1966" -->
+<!-- hb-zoom level="era" -->
 **By 1965:** Surgeon General Luther Terry's report had found smokers 9 to 10 times as likely to get lung cancer, and members of Congress had made drug makers prove that their drugs worked. The Tuskegee study was still running.
+<!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Medicare and Medicaid, 1965 and 1966" -->
 Two thirds of Americans over 65 had incomes below $1,000 a year in 1950, and only 1 of every 8 had health insurance, a plan that pays doctor and hospital bills.
 
 President Lyndon Johnson signed Medicare and Medicaid into law at the Truman Library in Independence, Missouri, on July 30, 1965. Former President Harry Truman was with him. Truman had asked Congress for national health insurance 20 years earlier. Medicare is health insurance for people 65 and older. Medicaid is health insurance for people with little money. Nearly 20 million people signed up for Medicare in its first three years.
@@ -371,7 +379,7 @@ Judges of a federal appeals court ruled in 1963, in the case *Simkins v. Moses H
 
 **The inspectors.** The Civil Rights Act of 1964 barred federal money for any place that treated people differently by race, and Medicare payments to hospitals were set to begin on July 1, 1966. Before then, almost 1,000 federal workers volunteered to inspect about 6,000 hospitals. They checked beds, waiting rooms, lunch rooms and hiring.
 
-Inspectors drove at high speed to get away from local Klan groups. Some inspectors were jailed on false charges. Bullets were fired at their rental cars, and crosses were burned on the lawns of at least two of them. Several hospital workers who helped the inspectors had their homes bombed, and one may have been murdered, the historian David Barton Smith wrote. Smith's account does not name who jailed the inspectors, who fired, who burned the crosses or who set the bombs.
+Inspectors drove at high speed to get away from local groups of the Ku Klux Klan, a secret white group that used terror against Black people and their supporters. Some inspectors were jailed on false charges. Bullets were fired at their rental cars, and crosses were burned on the lawns of at least two of them. Several hospital workers who helped the inspectors had their homes bombed, and one may have been murdered, the historian David Barton Smith wrote. Smith's account does not name who jailed the inspectors, who fired, who burned the crosses or who set the bombs.
 
 By July 1, hospitals holding 97 of every 100 beds for short-term care in the country had met the rule.
 <!-- /hb-zoom -->
@@ -405,7 +413,7 @@ President Bill Clinton apologized at the White House on May 16, 1997, to five of
 <!-- hb-zoom level="span" label="Sterilized without consent, the 1970s" -->
 To sterilize a person is to operate so that the person can never have a baby. In an operation called a tubal ligation, a surgeon cuts or ties the two tubes that carry eggs from the ovaries to the womb. In a hysterectomy, a surgeon cuts out the womb.
 
-In the Relf sisters' case, a federal judge found in 1974 that doctors in programs paid for by the federal government were sterilizing an estimated 100,000 to 150,000 poor people a year. Some doctors told women on welfare, government money for poor families, that they would lose it unless they agreed. The judge barred both practices.
+A federal judge ruled in 1974 in the case of Minnie Lee and Mary Alice Relf, two Black sisters in Alabama who had been sterilized as children. The judge found that doctors in programs paid for by the federal government were sterilizing an estimated 100,000 to 150,000 poor people a year. Some doctors told women on welfare, government money for poor families, that they would lose it unless they agreed. The judge barred federal money for sterilizing people against their will, and barred the threats to cut off welfare.
 
 **The Indian Health Service.** Investigators of the General Accounting Office, which checks how federal money is spent, reported on the Indian Health Service in 1976. In four of its 12 regions, its doctors had sterilized 3,406 Native women from 1973 to 1976. Writers for the National Library of Medicine and the National Archives describe the operations as done without the women's permission. Thirty-six of the women were under 21, although a federal judge had ordered that women that young not be sterilized.
 
@@ -413,7 +421,9 @@ The investigators' report does not name the doctors. Two years before it, in 197
 
 **One woman's case.** Norma Jean Serena, who was Shawnee and Creek, gave birth in Armstrong County, Pennsylvania, on August 16, 1970. Two days later Drs. Donald Carter and James Houston cut out her fallopian tubes, the tubes that carry eggs to the womb. She said no doctor ever told her. A welfare caseworker, Jean Burgess, had advised the operation. Burgess later said, "This was a burden on society. I felt that Mrs. Serena should have no further children."
 
-Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000. The same jurors found that she had agreed to the operation.
+Burgess and two other county child welfare workers, Patricia Walker and Natalie Leezer, had also taken three of Serena's children from her in 1970. Serena sued in 1974. The jurors found that the welfare workers had given a false picture of the children's health and of how long the children would stay in foster homes. They awarded her $17,000 for the taking of her children.
+
+On the operation, the same jurors found against her. They decided that she had agreed to it, though she said no doctor ever told her about it.
 
 In Puerto Rico, about 1 in 3 women of child-bearing age had been sterilized by 1968, and 37.4 of every 100 by 1976, historians on the history podcast DIG report. Some chose it because it was the only birth control offered to them. Others were told it could be undone, or were pushed into it by their employers.
 <!-- /hb-zoom -->

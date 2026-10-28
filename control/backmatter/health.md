@@ -1,5 +1,6 @@
 ## Glossary
 
+- smallpox: a disease caused by a virus that spread face to face and caused a fever and a rash that turned into blisters and scabs, and in general about 3 of every 10 people who caught it died (Before 1500)
 - germ: a living thing too small to see that can cause disease (Before 1500)
 - archaeologist: a scientist who learns about the past from what people left behind (Before 1500)
 - pristine: untouched and pure (Before 1500)
@@ -8,6 +9,7 @@
 - syphilis: a disease passed during sex, or from a mother to her unborn baby, caused by bacteria (Before 1500)
 - yaws and bejel: diseases in the same family as syphilis that spread mainly by touching skin and mouths, not by sex (Before 1500)
 - non-venereal syphilis: another name for bejel, syphilis not passed by sex (Before 1500)
+- DNA: the set of chemical instructions inside every living cell (Before 1500)
 - pinta: a slow skin disease in the syphilis family (Before 1500)
 - hepatitis: an infection of the liver, a disease that inflames the liver (Before 1500)
 - herpes: a virus that causes sores (Before 1500)
@@ -31,7 +33,6 @@
 - leptospirosis: an infection by bacteria that rats carry in their urine (The 1600s)
 - scurvy: a disease caused by too little vitamin C, in which the gums swell and bleed, the teeth loosen, and the person grows too weak to work (The 1600s)
 - bloodletting, letting blood: cutting open a vein, most often in the arm, and letting blood run out into a bowl (The 1600s)
-- smallpox: a disease caused by a virus that spread face to face and caused a fever and a rash that turned into blisters and scabs, and about 3 of every 10 people who caught it died (The 1600s)
 - virus: a germ even smaller than bacteria (The 1600s)
 - sachem: a leader (The 1600s)
 - midwife: a woman who helps other women give birth (The 1600s)
@@ -144,6 +145,7 @@
 - health insurance: a plan that pays doctor and hospital bills (1950 to 2000)
 - Medicare: health insurance for people 65 and older (1950 to 2000)
 - Medicaid: health insurance for people with little money (1950 to 2000)
+- Ku Klux Klan: a secret white group that used terror against Black people and their supporters (1950 to 2000)
 - stool: solid waste (1950 to 2000)
 - CDC: the federal disease agency (1950 to 2000)
 - informed consent: the rule that every person in a study must first be told what will be done and what the risks are, and must agree (1950 to 2000)

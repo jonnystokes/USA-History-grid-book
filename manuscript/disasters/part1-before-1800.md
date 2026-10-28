@@ -96,7 +96,7 @@ After the storm the colonists did not have enough to eat. One ship came from Hav
 
 Many colonists grew sick and died from lack of food. Native people attacked and killed others, and the records do not state which Native people they were. The colonists shipped many survivors back to Mexico. By September 1560, 362 people were left at the bay, and another 200 were far inland.
 
-Most of the rest sailed away in April 1561 with a new commander, Ángel de Villafañe. Two small ships of his fleet later sank in another storm off Cape Hatteras, with everyone aboard. The last Spanish soldiers left the bay in August 1561. In February 1562 the viceroy, the Spanish king's governor in Mexico, gave up the colony.
+A new commander, Ángel de Villafañe, arrived in April 1561. He took most of the roughly 150 settlers still at the bay to Havana. Two small ships of his fleet later sank in another storm off Cape Hatteras, with everyone aboard. The last Spanish soldiers left the bay in August 1561. In February 1562 the viceroy, the Spanish king's governor in Mexico, gave up the colony.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="tristan-de-luna-disasters" name="Tristán de Luna y Arellano" movie="" kind="famous" status="verified" -->
@@ -107,13 +107,13 @@ Most of the rest sailed away in April 1561 with a new commander, Ángel de Villa
 
 **Luna ordered his hungry soldiers to march, and every one refused.**
 
-Tristán de Luna y Arellano led the colony at Pensacola Bay. It was the largest Spanish attempt up to that time to settle the Southeast, and the one with the most money behind it. Years before, Luna had marched with the Spanish explorer Coronado. The colonists he led landed in August 1559. The hurricane of September 19 to 20 sank or wrecked seven of his ships with the food still on board.
+Tristán de Luna y Arellano led the colony at Pensacola Bay. It was the largest Spanish attempt up to that time to settle the Southeast, and the one with the most money behind it. Years before, Luna had marched with the Spanish explorer Coronado.
 
-**Looking for food.** From February to June 1560, Luna moved most of his people inland to the town of Nanipacana. In April he sent 200 men under Mateo del Sauz farther north to look for food. They went to Coosa, a chiefdom, a group of towns under one head chief, in present-day northwestern Georgia. They stayed there until November.
+**Looking for food.** From February to June 1560, Luna moved most of his people inland to Nanipacana, the town the first search party had found. In April he sent a second group of 200 men, under Mateo del Sauz, farther north to look for food. They went to Coosa, a chiefdom, a group of towns under one head chief, in present-day northwestern Georgia. They stayed there until November.
 
-In late summer 1560, Luna ordered 100 soldiers and 50 servants to march to Coosa on short rations, meaning with less food than they needed. All of his soldiers refused, and the march never took place.
+**The refusal.** Luna ordered 100 soldiers and 50 servants to march to Coosa in late summer 1560, on short rations, meaning with less food than they needed. All of his soldiers refused, and the march never took place.
 
-In early April 1561, Ángel de Villafañe arrived at the bay with a small fleet. He dismissed Luna and ordered him back to Spain. Villafañe took most of the roughly 150 settlers still at the bay to Havana. Luna died in New Spain, the Spanish colony in Mexico, on September 16, 1573.
+When Ángel de Villafañe arrived at the bay with a small fleet in early April 1561, he dismissed Luna and ordered him back to Spain. Luna died in New Spain, the Spanish colony in Mexico, on September 16, 1573.
 <!-- hb-story:end slug="tristan-de-luna-disasters" -->
 
 <!-- hb-zoom level="span" label="The droughts behind the Lost Colony" -->
@@ -127,7 +127,7 @@ The Croatan people were allies of the English colonists, and in 1587 their crops
 
 They killed Howe in revenge. Men under Ralph Lane, leader of the earlier colony, had attacked and killed their leader, Wingina, in June 1586. After Howe's death the people of Dasemunkepeuc left their town.
 
-**The wrong people.** John White led his soldiers in an attack on Dasemunkepeuc before daylight on August 8, 1587. The people they found there were Croatan, who had come to the empty town looking for food. White's men killed one of them and wounded many before they saw their mistake. The Stahle team writes that the shooting happened partly because the Croatan needed food.
+**The wrong people.** John White led his soldiers in an attack on Dasemunkepeuc before daylight on August 8, 1587. The people they found there were Croatan, who had come to the empty town looking for food. White's men killed one of them and wounded many before they saw their mistake. The Stahle team links the killing to the drought, because hunger had brought the Croatan to the empty town.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="St. Augustine burns and floods" -->
@@ -153,9 +153,7 @@ Colonists built their towns mostly of wood, so a fire in one house could spread 
 <!-- hb-zoom level="span" label="Jamestown: drought and a hurricane" -->
 English colonists landed at Jamestown, in present-day Virginia, in April 1607. They built their fort inside Tsenacomoco, the land of the Powhatan people. Tsenacomoco was a paramount chiefdom, a group of many towns and chiefs under one head chief. Its head chief was Powhatan.
 
-Tree rings show that the colonists arrived during the driest seven years in 770 years, from 1606 to 1612. The drought hit the Powhatan towns as well as the English.
-
-The colonists' drinking water came from the lower James River, where fresh water mixes with salt water from the sea. In the dry years the water was salty and foul, and colonists fell sick from it. Of the 104 colonists who landed in 1607, only 38 were alive a year later. Malnutrition, which means the body does not get enough food, was a leading cause of death.
+Chapter 26, Health, Disease, and Medicine, tells how salty river water, sickness and hunger killed most of the first colonists. Tree rings show that the colonists arrived during the driest seven years in 770 years, from 1606 to 1612. The drought hit the Powhatan towns as well as the English.
 
 **The relief fleet.** The leaders of the Virginia Company of London, the business that ran the colony, sent nine ships and about 600 people to Jamestown on June 2, 1609, with farm animals and enough food to last a year. It was the largest English fleet yet to sail west.
 
@@ -200,7 +198,7 @@ Thacher's letter lists 23 people on board: 11 in Avery's family, 7 in his own, a
 
 The next wave broke the boat to pieces. It carried his wife toward the shore on a piece of the deck. All the others still on board drowned. Thacher's letter names four of his children who died. They were his oldest daughter Mary, his son William, his daughter Edith, and baby Peter, whom Edith was holding in her arms.
 
-Another wave swept all four off the rock. He was in the water for at least a quarter of an hour before he crawled ashore.
+Another wave swept the four on the rock into the sea: Thacher, Mary, Avery and Avery's son. Thacher was in the water for at least a quarter of an hour before he crawled ashore.
 
 **On the island.** He and his wife found a knapsack with a flint, a piece of steel for striking sparks from it, and dry gunpowder. They also found a drowned goat, two cheeses, some butter, a hat and his son William's coat. He struck a fire and they cooked some of the goat. They had only salty water to drink. He found the body of Avery's oldest daughter on the shore. She is buried on the island.
 
@@ -292,9 +290,9 @@ Mary Bedon, an innkeeper with three children, and Catharine Joor, a shopkeeper, 
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="New York, 1741: fires and blame" -->
-Thirteen fires broke out in lower Manhattan in March and April 1741. The first, in March, burned the governor's house and its chapel inside Fort George. Accounts give its date as March 8 or March 18. New York officials said that enslaved Black people and poor white people had plotted together to burn the city. A witness named Mary Burton told the court that the fires were such a plot.
+Thirteen fires broke out in lower Manhattan in March and April 1741. The first, in March, burned the governor's house and its chapel inside Fort George. Accounts give its date as March 8 or March 18. New York officials claimed that enslaved Black people and poor white people had plotted together to burn the city. A witness named Mary Burton told the court that the fires were such a plot.
 
-Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Counts of the people put to death range from 30 to 34. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there.
+Three judges, James De Lancey, Daniel Horsmanden and Frederick Philipse, tried about 200 people. Officials burned 13 Black men alive at the stake, which means they tied each man to a post and set a fire around him. They hanged 17 Black men and 4 white people, two men and two women. Counts of the people put to death range from 30 to 34. Officials shipped 70 to 84 more people to the Caribbean islands to be sold into slavery there. Chapter 24, Slavery and Freedom, tells the trials and the witnesses in full.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="An earthquake in New England, 1727" -->
