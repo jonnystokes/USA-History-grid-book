@@ -239,17 +239,6 @@ The people of many separate towns rose against the Spanish on the same day, Augu
 The Pueblos governed themselves for the next twelve years, through drought, raids and famine, a long shortage of food. Diego de Vargas led Spanish forces back into New Mexico in 1692 to retake it, and Pueblo fighters kept up armed resistance for years after that. Writers of the EBSCO Research Starters history guide call the Pueblo Revolt the most successful uprising by Native people against European rule in North America.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="era" -->
-**The horses left behind.** When the Spanish went south out of New Mexico in 1680, they left their horses. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
-
-**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
-
-The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
-
-**Known:** Plains nations had horses by the 1700s.
-**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
-<!-- /hb-zoom -->
-
 <!-- hb-story:start slug="pope" name="Po'pay (Popé)" movie="" kind="famous" status="verified" -->
 ### Po'pay (Popé)
 
@@ -268,6 +257,17 @@ When Po'pay learned that the runners had been caught, he ordered the rising to b
 
 A statue of Po'pay stands in the United States Capitol. It is one of New Mexico's two statues in the Capitol's Statuary Hall collection, which holds statues of two people from each state's history.
 <!-- hb-story:end slug="pope" -->
+
+<!-- hb-zoom level="span" label="Where the Plains horses came from" -->
+When the Spanish went south out of New Mexico in 1680, they left their horses. An estimated 1,500 or more horses passed into Native hands at once. Writers for the Smithsonian's National Museum of the American Indian call it the largest single transfer of horses. According to the traditional account, Native people then traded horses west and north along Native trade routes. The horses reached the Ute, the Navajo, the Apache, the Comanche, the Kiowa, the Shoshone and the nations of the northern Plains.
+
+**A newer finding.** A team led by William Taylor published a study in the journal *Science* in 2023, and its findings do not fit this account. Lakota, Comanche and Pawnee people were among the study's writers, and other Native partners worked on it too. The team used radiocarbon dating on the remains of horses from Wyoming, Kansas and New Mexico. Radiocarbon dating measures a form of carbon that breaks down at a steady rate, so the amount left shows how old a bone is.
+
+The horses had been ridden and had eaten corn that people fed them. They had also worn bridles, straps around a horse's head used to steer it. They were there by the early 1600s, decades before the revolt. Native oral histories, accounts passed down by telling, had said the same thing.
+
+**Known:** Plains nations had horses by the 1700s.
+**Not known:** whether most of their horses came from the Spanish herds left in 1680 or had spread north decades earlier.
+<!-- /hb-zoom -->
 <!-- hb-time:end id="1600s" -->
 
 <!-- hb-time:start id="1700-1750" order="04" chapter="native-nations" label="1700 to 1750" state="full" progress="written" -->
@@ -336,7 +336,7 @@ French and British armies fought their wars on Native land after 1750. Then the 
 When British forces beat the French in 1763, Native nations lost the second empire they had bargained with against Britain. Then the colonists went to war with Britain in the American Revolution. The Haudenosaunee nations took different sides in that war, and their Confederacy split for the first time in centuries. During the war, in 1778, United States officials signed their first treaty with a Native nation. In 1791 fighters from a confederacy of nations in the Ohio Country destroyed a United States army.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Pontiac and the Line" -->
+<!-- hb-zoom level="span" label="Pontiac, smallpox and the Line" -->
 French and British commanders both needed Native allies in the French and Indian War, which lasted from 1754 to 1763. A loose confederacy of nations from the Great Lakes, the Illinois Country and the Ohio Country rose against the British in 1763. Under the Odawa leader Pontiac, their fighters took or besieged British forts across the west. Pontiac lifted his siege of Detroit in October 1763, but the fighting went on until 1766.
 
 **Fort Pitt.** British officers at Fort Pitt tried to give smallpox, a disease that spreads from person to person and can kill, to the Native fighters around them in 1763. Delaware, Shawnee and Mingo fighters had besieged the fort, where Pittsburgh stands today, and smallpox had broken out among the British soldiers inside.
@@ -346,8 +346,10 @@ French and British commanders both needed Native allies in the French and Indian
 **Whether it worked.** A month after the June meeting, Trent saw the two Delaware men again, and they showed no sign of smallpox. A man named Gershom Hicks later said that about 100 Native people died of smallpox between the spring of 1763 and April 1764. The historian Elizabeth Fenn writes that no one can know whether the attempt to spread smallpox worked.
 
 **The Line.** British officials answered the war by drawing a line. They issued the Royal Proclamation, an official public announcement of an order, on October 7, 1763. In it they forbade colonists to settle west of the Appalachian Mountains, and they set aside the land beyond for the Native nations. Colonists were angry about the line and crossed it anyway. Writers for Encyclopedia Virginia call the Proclamation a foundation of later treaty law, the set of rules for agreements between governments.
+<!-- /hb-zoom -->
 
-**Paxton.** While the war went on, settlers in Pennsylvania attacked Native people who were not fighting in it. Armed settlers from Paxton Township killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
+<!-- hb-zoom level="span" label="The Conestoga killings" -->
+While Pontiac's war went on, settlers in Pennsylvania attacked Native people who were not fighting in it. Armed settlers from Paxton Township killed the twenty Conestoga people who lived in a small town near Lancaster in December 1763. The Conestoga were unarmed. Fifty-seven men came at daybreak on December 14 and found three men, two women and a boy at home. They shot them, stabbed them and killed them with hatchets.
 
 One of the dead was Shehaes, a very old man who had helped make a treaty with William Penn in 1701. They killed him in his bed. The attackers scalped all six, cutting away the skin and hair from the top of each head, and burned the huts.
 

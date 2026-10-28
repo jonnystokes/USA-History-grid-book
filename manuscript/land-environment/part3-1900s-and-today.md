@@ -258,7 +258,7 @@ Jay Johnson, the last Native park worker who lived in the valley, retired and le
 **Not known:** No record names the official who ordered the village torn down in 1969. Erin Davenport, a Yosemite park historian, told the National Parks Conservation Association that park historians have found no record of why it was done either.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="The river that burned" -->
+<!-- hb-zoom level="span" label="The river that burned and the Santa Barbara oil spill" -->
 Oil and trash floating on the Cuyahoga River in Cleveland, Ohio, caught fire on June 22, 1969. The fire burned for about 20 to 30 minutes before it was brought under control. The river had burned at least 13 times since 1868. The 1912 fire killed five men, and the 1952 fire did $1.3 million in damage.
 
 **Whose waste it was.** The river ran past steel mills and other factories. A 2019 *Smithsonian* magazine article names American Ship Building, the Sherwin-Williams Paint Company, Republic Steel and Standard Oil as Cleveland companies whose success left the river full of poisonous waste. A Cleveland State University history states that the river was "polluted from decades of industrial waste."

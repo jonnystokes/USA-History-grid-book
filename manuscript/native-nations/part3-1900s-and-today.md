@@ -154,7 +154,7 @@ Officials of the Bureau of Indian Affairs, the federal agency in charge of India
 Many of them lived in poverty in the cities. They also built lasting Native communities in Minneapolis, Chicago, Oakland and San Francisco, Los Angeles, and Denver. The next Native movement started in those cities.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Alcatraz and Wounded Knee, 1969 to 1973" -->
+<!-- hb-zoom level="span" label="Alcatraz, Blue Lake and Alaska" -->
 George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people founded the American Indian Movement, known as AIM, in Minneapolis in July 1968. Its members began with street patrols against police abuse. Many Native people had moved to Minneapolis under relocation.
 
 **Alcatraz.** A group calling itself Indians of All Tribes landed on Alcatraz Island in San Francisco Bay on November 20, 1969. They occupied the island's federal prison, closed since 1963, moving in and holding it. Richard Oakes, who was Mohawk, was among the leaders. In their proclamation, a public statement, they offered to buy the island for "$24 in glass beads and red cloth." They held it for nineteen months, until June 11, 1971. After the occupation began, President Nixon ended termination as federal policy.
@@ -164,8 +164,10 @@ George Mitchell, Dennis Banks, Clyde Bellecourt and about 200 other people found
 **Alaska.** A year after Blue Lake, members of Congress settled the land claims of Alaska Natives, ending them by agreement. The Alaska Native Claims Settlement Act became law on December 18, 1971. Under it, the claims were settled for 44 million acres and $962.5 million.
 
 That is nearly as much land as the 48 million acres all Native nations together held in 1934. The land and money went to twelve regional corporations, later thirteen, and to more than 200 village corporations. These were businesses, and Alaska Natives became their owners, called shareholders.
+<!-- /hb-zoom -->
 
-**Wounded Knee, 1973.** About 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota, in 1973. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. Of the 146 dead whom a burial party put in one grave there, 62 were women and children.
+<!-- hb-zoom level="span" label="Wounded Knee, 1973" -->
+About 200 Oglala Lakota and AIM members occupied the village of Wounded Knee, on the Pine Ridge Reservation in South Dakota, in 1973. They chose it because soldiers of the 7th Cavalry had killed between 250 and 300 Lakota people there in 1890. Of the 146 dead whom a burial party put in one grave there, 62 were women and children.
 
 The occupiers held the village for seventy-one days, from February 27 to May 8, against federal marshals, officers who carry out the orders of the national courts, and agents of the FBI, the national police force that looks into federal crimes. The federal forces surrounded the village with armored vehicles.
 
@@ -204,10 +206,8 @@ The Lakota call one mountain in the Black Hills Tunkasila Sakpe, the Six Grandfa
 The justices of the Supreme Court held in *United States v. Sioux Nation*, in 1980, that United States officials had broken the treaty when they took the hills. They awarded the Lakota compensation, money paid to make up for a loss.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Self-rule, children taken and women sterilized" -->
-President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975, self-determination meaning a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because schools were at the center of it.
-
-**Children taken.** While nations were taking over their own programs, workers at agencies were still taking Native children from their families, as they had for decades before 1978. Writers at the National Indian Child Welfare Association state that 25 to 35 percent of Native children were taken, between one in four and one in three. They also state that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them.
+<!-- hb-zoom level="span" label="Children taken and women sterilized" -->
+Workers at agencies took Native children from their families for decades before 1978. Writers at the National Indian Child Welfare Association state that 25 to 35 percent of Native children were taken, between one in four and one in three. They also state that 85 percent of them were placed outside their families, even when relatives or members of their tribe could care for them.
 
 Members of Congress passed the Indian Child Welfare Act in 1978. In it they set federal standards for those cases, meant to keep Native children with Native families. They also gave tribal courts the power to decide the cases.
 
@@ -216,8 +216,12 @@ Members of Congress passed the Indian Child Welfare Act in 1978. In it they set 
 Investigators from the General Accounting Office, a federal office, studied 4 of the agency's 12 areas. In 1976 they reported 3,406 sterilizations of Native women there from 1973 to 1976. Writers at the National Library of Medicine state that the women had not given their permission. The investigators' report does not name the doctors. No surviving record says how many of the women had each kind of operation.
 
 Thirty-six of the women were under 21, although a court had ordered a stop to sterilizing women that young. Two years before the report, Dr. Connie Pinkerton-Uri, a Choctaw and Cherokee doctor, had found that one in four Native women had been sterilized without agreeing to it.
+<!-- /hb-zoom -->
 
-**Gaming.** Ten years after the child welfare law, members of Congress set rules for gaming run by Native nations, meaning gambling businesses such as casinos. Their Indian Gaming Regulatory Act became law on October 17, 1988. For some nations gaming became a large source of income, and the amount varies a great deal from nation to nation.
+<!-- hb-zoom level="span" label="Self-rule, casinos and remains sent home" -->
+President Ford signed the Indian Self-Determination and Education Assistance Act in January 1975, self-determination meaning a nation deciding its own affairs. Under the act, a nation could sign a contract with the federal government and run federal programs itself, such as its own schools, clinics and police. The word Education is in the act's name because schools were at the center of it.
+
+**Gaming.** Members of Congress set rules for gaming run by Native nations, meaning gambling businesses such as casinos. Their Indian Gaming Regulatory Act became law on October 17, 1988. For some nations gaming became a large source of income, and the amount varies a great deal from nation to nation.
 
 Under the act, tribal gaming falls into three classes of games, and a nation and a state can make a compact, a formal agreement about the games. In the act, members of Congress also set up the National Indian Gaming Commission to watch over tribal gaming.
 
