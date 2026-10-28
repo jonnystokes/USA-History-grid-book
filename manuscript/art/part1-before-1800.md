@@ -65,12 +65,6 @@ Carvers of the Hopewell culture made smoking pipes of stone in the shapes of ani
 At Spiro, in eastern Oklahoma, people built twelve mounds between 850 and 1450, along with grounds for ceremonies and a town. One of the mounds, Craig Mound, held objects of stone, copper, shell, basketry and cloth.
 <!-- /hb-zoom -->
 
-<!-- hb-zoom level="span" label="Carving on the Northwest Coast" -->
-On the Northwest Coast, people carved bone, stone and horn at least 5,000 years ago. The oldest Coast Salish basketry comes from an old fishing camp on the Hoko River, on the Olympic Peninsula. It is about 2,500 years old.
-
-Most carving on the coast was done in cedar wood. Wood rots, so very little of it survives from before 1500. One piece that may be that old is a hat woven from twisted strands of cedar bark, found at the mouth of Wapato Creek. It dates from between 1450 and 1620. Carvers on the coast still work in this tradition today.
-<!-- /hb-zoom -->
-
 <!-- hb-zoom level="span" label="Who dug the objects up, and where did they go?" -->
 Two men named Ephraim Squier and Edwin Davis dug into the Mound City mounds, near Chillicothe, Ohio, in 1846 and took more than 200 stone pipes. Long before they came, the pipes had been broken and laid together under the floor of a building used for ceremonies.
 
@@ -97,6 +91,12 @@ Then University of Oklahoma archaeologists led workers paid by a government jobs
 **Mimbres.** In the Mimbres valley, looters dug up graves to reach the painted bowls. In the 1960s they began using bulldozers and earth movers to get to the bowls faster, and they wiped out many village sites completely. Every Mimbres site has been looted. The records do not name the people who ran the bulldozers.
 <!-- /hb-zoom -->
 
+<!-- hb-zoom level="span" label="Carving on the Northwest Coast" -->
+On the Northwest Coast, people carved bone, stone and horn at least 5,000 years ago. The oldest Coast Salish basketry comes from an old fishing camp on the Hoko River, on the Olympic Peninsula. It is about 2,500 years old.
+
+Most carving on the coast was done in cedar wood. Wood rots, so very little of it survives from before 1500. One piece that may be that old is a hat woven from twisted strands of cedar bark, found at the mouth of Wapato Creek. It dates from between 1450 and 1620. Carvers on the coast still work in this tradition today.
+<!-- /hb-zoom -->
+
 <!-- hb-story:start slug="nathan-jackson-art" name="Nathan Jackson" movie="" kind="ordinary" status="verified" -->
 ### Nathan Jackson
 
@@ -105,7 +105,7 @@ Then University of Oklahoma archaeologists led workers paid by a government jobs
 
 **At 86, he carved an eight-foot pole about Raven and Fog Woman.**
 
-Carving on the Northwest Coast did not stop in 1500, and Nathan Jackson carves in that tradition today. He is Chilkoot Tlingit. Every Tlingit person belongs to one of two halves, Raven or Eagle, and each half is made up of clans, large groups of related families. Jackson's clan, the Sockeye Clan, is on the Raven side.
+Nathan Jackson is Chilkoot Tlingit. Every Tlingit person belongs to one of two halves, Raven or Eagle, and each half is made up of clans, large groups of related families. Jackson's clan, the Sockeye Clan, is on the Raven side.
 
 He carves totem poles, masks, canoes, carved doors and panels that show clan crests, the animal symbols that belong to a clan. He also works metal and dances. He learned his people's traditions from Jack David, his clan uncle and grandfather.
 
