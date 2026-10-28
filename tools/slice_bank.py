@@ -54,6 +54,7 @@ ERA_RANGE = re.compile(r"\beras?\s*0?(\d{1,2})" + DASH.replace("through", "throu
                        + r"0?(\d{1,2})\b", re.I)                                 # "Eras 1-5", "eras 7 and 8"
 LEAD_NUM = re.compile(r"^\s*0?(\d{1,2})\s*[.·]?\s+\S")                          # "## 06 · 1800", "### 8. 1900"
 YEAR_RANGE = re.compile(r"\b(1[4-9]\d\d|20\d\d)\s*[-–]\s*(1[4-9]\d\d|20\d\d)\b")
+YEAR = re.compile(r"\b(1[4-9]\d\d|20\d\d)\b")
 
 
 def eras_for_range(a, b):
@@ -85,13 +86,22 @@ def strong_eras(text):
 
 def weak_eras(text):
     """A bare year range ("1900-1940") or a leading era number. Used only when the parent
-    heading has no era, because inside an era a range is usually a lifespan."""
+    heading has no era, because inside an era a range is usually a lifespan.
+
+    A leading number counts as an era number only when the heading also holds a year
+    inside that era ("## 06 · 1803, the Purchase"). A numbered list is not a list of
+    eras: until 2026-10-28 "### 1." to "### 8." under the Acoma 1598-1599 section were
+    filed under eras 1 to 8. Such a heading now gets no era here, so it takes its
+    parent's, or prints under UNTAGGED."""
     m = YEAR_RANGE.search(text)
     if m:
         return eras_for_range(int(m.group(1)), int(m.group(2)))
     m = LEAD_NUM.match(text)
     if m and 1 <= int(m.group(1)) <= 10:
-        return {int(m.group(1))}
+        n = int(m.group(1))
+        lo, hi = BOUNDS[n]
+        if any(lo <= int(y) < hi for y in YEAR.findall(text)):
+            return {n}
     return None
 
 

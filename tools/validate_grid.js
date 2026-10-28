@@ -48,6 +48,13 @@ function attrs(s){
   return o;
 }
 
+// Validator only: the markers at which an open hb-zoom should already have been closed.
+const ZOOM_ENDERS = new Set(['hb-chapter','hb-time','hb-zoom','hb-story']);
+function zoomDesc(b){
+  if(b.level!=='span' || !b.label) return `hb-zoom level="${b.level}"`;
+  return `hb-zoom span "${b.label.length>60 ? b.label.slice(0,57)+'...' : b.label}"`;
+}
+
 function parseGrid(text, srcName){
   const lines = text.replace(/\r\n?/g,'\n').split('\n');
   const errs = [], chapters = [];
@@ -75,6 +82,19 @@ function parseGrid(text, srcName){
     const A = attrs(tail);
     const opening = se===':start' || (!se && !slash && (name==='hb-note'||name==='hb-zoom'));
     const closing = se===':end'   || (!!slash);
+
+    // VALIDATOR ONLY, not in the viewer (2026-10-28, BUGS.md "The validator does not catch
+    // a dropped closing span marker"): every hb-zoom must end with its own /hb-zoom line.
+    // The viewer closes an open block at the next marker without a word, and
+    // tools/build_full_book.py loses the open block's text (with a build warning at most).
+    // hb-note lines and unknown hb-* names are skipped here; the next real marker still
+    // catches the gap.
+    const zoomClose = name==='hb-zoom' && !opening;
+    if(blk && blk.type==='zoom' && !zoomClose && ZOOM_ENDERS.has(name))
+      errs.push(`L${blk.line}: ${zoomDesc(blk)} has no closing <!-- /hb-zoom -->: the next marker is ${slash}${name}${se||''} at L${no}`);
+    if(zoomClose && !(blk && blk.type==='zoom'))
+      errs.push(blk ? `L${no}: <!-- /hb-zoom --> closes the hb-story opened at L${blk.line}, not an hb-zoom`
+                    : `L${no}: <!-- /hb-zoom --> closes no hb-zoom (none is open: its opening line is missing, or this is a second close)`);
 
     if(name==='hb-chapter'){
       flushBlk();
@@ -143,6 +163,8 @@ function parseGrid(text, srcName){
       continue;
     }
   }
+  if(blk && blk.type==='zoom')
+    errs.push(`L${blk.line}: ${zoomDesc(blk)} has no closing <!-- /hb-zoom -->: the file ends first`);
   if(stack.length) errs.push(`${stack.length} block(s) never closed: ${stack.join(', ')}`);
 
   /* completeness + slug uniqueness */

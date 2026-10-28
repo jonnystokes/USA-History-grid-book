@@ -24,8 +24,8 @@ Then read `control/TODO.md` (the live plan and the next step).
 If the last WORKLOG entry is `STATUS: IN-FLIGHT`, run the VERIFY command in it:
 
 - **PASS:** the work landed before the interruption. Close the entry. Do not redo it.
-- **FAIL:** the "measured:" line says how far it got. Read the task's checkpoint, then follow
-  "When an agent dies" below.
+- **FAIL:** the "measured:" line says how far it got. If the task's agent stopped, resume it
+  (see "When an interruption is reported" below). Never hand its task to a fresh agent.
 
 ## The definitions of done
 
@@ -72,7 +72,8 @@ destroys it. For each task:
    **No push, pull or any GitHub step unless Jon asks.**
 7. Next task.
 
-**One agent at a time,** always (Jon, 2026-09-07). **Size each task to fit a window:** an agent
+**As many agents at once as the work needs, in waves** (DECISIONS #53, 2026-10-26; this replaced
+"one agent at a time"). Jon sets the count (#27). **Size each task to fit a window:** an agent
 that spends its budget reading dies with nothing written. Use `python tools/slice_bank.py <slug>
 --eras <a-b> --summary` to see how many words a task must read. As a rule of thumb, split a
 task when its outline and bank slice pass about 25,000 words.
@@ -89,41 +90,40 @@ After every sub-agent, append a row to `control/usage-log.tsv`. The completion n
 when he is not. The header of the file explains the markers. **Every row gets its tokens.**
 Sizing decisions rest on them.
 
-## When an interruption is reported: run the drill first
+## When an interruption is reported: resume, never replace
 
 Jon's automation sends: *"I hit my usage limit while you were working, but it has reset now.
-Please continue from where you left off."* That means a window closed while an agent ran.
+Please continue from where you left off."* That means a window closed while agents ran. **The
+rule** (Jon, 2026-10-26: `C:\Users\jon\.claude\CLAUDE.md`, "Sub-agents: parallel is fine,
+resume is the rule"; DECISIONS #53): **a stopped sub-agent is resumed, never replaced.**
 
 ```bash
-python tools/resume_drill.py       # what landed, which transcripts died, a draft continuation brief
+python tools/resume_drill.py                  # this project's agents in this session: which stopped, and how to resume each
+python tools/resume_drill.py --session <id>   # after a session-id change: the old session's agents
 ```
 
-Three times in this project an agent reported as failed had already written its files.
+1. **Resume** every stopped agent whose task is still open: `SendMessage` to its name or id
+   with the plain message "continue". Say nothing about why. It did not notice the stop, and
+   the resume gives it back its whole memory.
+2. **"No transcript found"** means the session id changed (the 5-hour limit, an app restart,
+   a crash). COPY, never move, the agent's files `agent-<id>.jsonl`, `agent-<id>.meta.json`
+   and `agent-<id>.prefix.json` (when there is one) from
+   `~/.claude/projects/<key>/<old-session-id>/subagents/` into the current session's
+   `subagents` folder (the current id is `$CLAUDE_CODE_SESSION_ID`), then send "continue"
+   again. The drill prints the copy commands. The WORKLOG wave entry records the session id
+   the agents were launched in.
+3. **If a resume is impossible** (it fails after the copy, or the transcript ends
+   mid-tool-call and the resume fails), **stop and tell Jon.**
+4. **Never start a recovery, salvage or replacement agent.** Only Jon can direct a fresh agent
+   to take over, at the time, in so many words.
 
-## When an agent dies: salvage before you re-dispatch
+When an agent finishes, run its task's VERIFY command as usual. A file that validates is not
+a finished file: a stopped agent can leave an era that parses and is half-written (T-242c).
 
-Its full transcript, every page it fetched, survives for about 30 days at
-`~/.claude/projects/<key>/<sessionId>/subagents/agent-<agentId>.jsonl`.
-
-```bash
-python tools/salvage_agent.py --list                 # every transcript, newest first
-python tools/salvage_agent.py <agentId> --tail       # its last actions
-python tools/salvage_agent.py <agentId> -o out.md    # a digest
-```
-
-Then judge:
-- **Barely started** (still reading, nothing written): dispatch a fresh agent, same brief.
-- **Partway through writing:** dispatch a **sonnet** reader with `control/briefs/SALVAGE.md` on
-  the digest. It writes a measured SALVAGE section into the checkpoint. Then dispatch an opus
-  continuation agent with the same brief plus: *"This task was interrupted. Read the
-  checkpoint's SALVAGE section first and resume from its NEXT line. Do not redo landed units."*
-  Keep the T-number and add a suffix (T-243e2).
-- **Finished writing, never reported:** run the check.
-
-**A file that validates is not a finished file.** A killed agent can leave an era that parses
-and is half-written (T-242c). **Never re-run a research agent from zero without salvaging the
-dead one first.** Two `america-world` agents were written off while their transcripts held 103
-and 99 web fetches. Mechanics: `control/AGENT-MECHANICS.md`.
+To read what an agent did, without replacing it: `python tools/salvage_agent.py <agentId> --tail`
+(its last actions) or `--wrote` (did its writes land whole). Transcripts live at
+`~/.claude/projects/<key>/<sessionId>/subagents/agent-<agentId>.jsonl` for about 30 days.
+`control/AGENT-MECHANICS.md` predates working resume (it says SendMessage does not exist).
 
 ## When Jon says "pause"
 

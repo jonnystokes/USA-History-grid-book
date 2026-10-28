@@ -2,28 +2,30 @@
 """salvage_agent.py — recover the work of a sub-agent that died before reporting.
 
 WHY THIS EXISTS
-    A sub-agent killed by a usage limit is gone as a process and cannot be
-    resumed: this build has no SendMessage tool (verified 2026-09-07 by direct
-    name-select — six of seven requested tools returned, SendMessage did not),
-    and the Agent tool has no `name` or `maxTurns` parameter.
-
-    BUT ITS TRANSCRIPT SURVIVES ON DISK, in full, including every web page it
-    fetched. Two `america-world` research agents were written off as a "total
-    loss"; their transcripts held 103 and 99 web fetches across 623 and 740
+    A sub-agent's transcript survives on disk, in full, including every web page
+    it fetched. Two `america-world` research agents were once written off as a
+    "total loss"; their transcripts held 103 and 99 web fetches across 623 and 740
     distinct URLs — congress.gov, history.state.gov, loc.gov, archives.gov.
     Hours of primary-source research, recoverable as text.
 
-    The agent is not resumable. Its research is. That is what this tool does.
+    THIS TOOL READS A TRANSCRIPT. IT DOES NOT REPLACE THE AGENT. It was written
+    when the build had no SendMessage (2026-09-07), so a stopped agent could not
+    be resumed. Now it can, and the rule is resume (Jon, 2026-10-26:
+    C:/Users/jon/.claude/CLAUDE.md, "Sub-agents: parallel is fine, resume is the
+    rule"; control/RESUME.md): SendMessage "continue", after copying its files
+    into the current session's subagents folder if the session id changed. If a
+    resume is impossible, stop and tell Jon. A digest or --brief goes to a fresh
+    agent only when Jon directs one to take over.
 
 USAGE
     python tools/salvage_agent.py --list
-        Show every sub-agent transcript for this session, newest first, with
-        size, its task description, and whether it produced a final report.
+        Show every sub-agent transcript on this PC, newest first, with size, its
+        task description, and whether it produced a final report.
 
     python tools/salvage_agent.py <agentId> [-o out.md]
         Write a digest: the task it was given, its reasoning, every source it
-        fetched, and the substance of what it found. Hand that file to a fresh
-        agent as prior work. That is a manual resume.
+        fetched, and the substance of what it found. It is prior work for a fresh
+        agent, used only when Jon directs one to take over.
 
     python tools/salvage_agent.py <agentId> --tail [N]
         WHAT WAS IT DOING WHEN IT STOPPED. The last N events (default 8) — each
@@ -41,8 +43,8 @@ USAGE
         like success. Flags SHORT! and MISSING!.
 
     python tools/salvage_agent.py <agentId> --brief
-        THE CHEAP RESUME PAYLOAD: what it concluded + every source it reached,
-        WITHOUT the raw fetched pages. This is what you hand a fresh agent.
+        THE CHEAP PAYLOAD: what it concluded + every source it reached, WITHOUT
+        the raw fetched pages, for a fresh agent Jon has directed to take over.
 
     python tools/salvage_agent.py <agentId> --urls
         Just the source list — cheapest possible recovery.
@@ -77,14 +79,26 @@ def session_dirs():
 
 
 def find_transcript(agent_id):
-    for d in session_dirs():
-        p = os.path.join(d, "agent-%s.jsonl" % agent_id)
-        if os.path.exists(p):
-            return p
-    hits = []
-    for d in session_dirs():
-        hits += glob.glob(os.path.join(d, "agent-*%s*.jsonl" % agent_id))
-    return hits[0] if hits else None
+    """The agent's transcript. The resume recipe copies an agent's files into the new
+    session's folder, so the same agent can sit in two session folders: the old copy
+    frozen at the stop, the new one carrying on. Session ids say nothing about time,
+    so take the most recently written match (2026-10-28; it used to take the first
+    folder by name)."""
+    hits = [os.path.join(d, "agent-%s.jsonl" % agent_id) for d in session_dirs()]
+    hits = [p for p in hits if os.path.exists(p)]
+    if not hits:
+        for d in session_dirs():
+            hits += glob.glob(os.path.join(d, "agent-*%s*.jsonl" % agent_id))
+    if not hits:
+        return None
+    hits.sort(key=os.path.getmtime, reverse=True)
+    if len(hits) > 1:
+        ids = sorted({os.path.basename(p)[6:-6] for p in hits})
+        what = ("copies of agent-%s.jsonl" % ids[0]) if len(ids) == 1 else \
+            ("agents (%s)" % ", ".join(ids))
+        print("note: %d %s match; using the newest: %s" % (len(hits), what, hits[0]),
+              file=sys.stderr)
+    return hits[0]
 
 
 def read_records(path):
@@ -279,9 +293,10 @@ def cmd_tail(agent_id, n, chars):
         print("  - was a write its last act? then its NEXT step never happened.")
         print("  - is there a natural next step it clearly had not reached?")
         print("Confirm the writes landed whole:  --wrote")
-        print("If in doubt, hand the WHOLE thing to a fresh agent and let it judge:")
+        print("If it stopped, RESUME it: SendMessage \"continue\" (control/RESUME.md). If a")
+        print("resume is impossible, stop and tell Jon. Never start a replacement agent on")
+        print("your own; only if Jon directs one to take over, give it the full digest:")
         print("  python tools/salvage_agent.py %s -o handover.md" % agent_id)
-        print("  (full digest - research and reasoning included, not --brief)")
     return 0
 
 
