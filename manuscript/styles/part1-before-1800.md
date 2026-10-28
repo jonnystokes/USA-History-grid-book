@@ -16,23 +16,23 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" label="Chapter opening" -->
 **Chapter 35 of 37 · Styles · 10 eras · about 100 minutes**
 
-**From the first colonial dress laws to the CROWN Act, Americans with power made rules about who could wear what, and much of the cloth came from people who were enslaved, held captive or paid by the piece.**
+**From the first colonial dress laws to the CROWN Acts, laws against punishing people for their natural hair, Americans with power made rules about who could wear what, and much of the cloth came from people who were enslaved, held captive or paid by the piece.**
 
 Hannah Lyman was about 16 when the judges of the Hampshire County court in Northampton, Massachusetts, fined her 10 shillings for wearing silk. The year was 1676. Massachusetts lawmakers had passed laws saying who was allowed to wear silk, lace and "great boots." The charge against Hannah said she wore her silk "in a flaunting manner," and that she wore it "not only before, but when she stood presented." She wore silk even while she stood charged before the court.
 
-This chapter follows what Americans wore, and what it was made from, through all ten eras: turkey-feather blankets, wigs, homespun, hoop skirts, blue jeans, nylon stockings, polyester suits and sneakers. As you go, watch two things. Watch who made the rules: Massachusetts judges counting silk hoods, South Carolina lawmakers listing the only cloth enslaved people could wear, a San Francisco sheriff cutting off Chinese prisoners' braids, a wrestling referee in New Jersey. And watch who made the cloth: enslaved people in the cotton fields and indigo vats, Thai workers held behind razor wire in El Monte, women sewing in Bangladesh and Los Angeles.
+This chapter follows what Americans wore, and what it was made from, through all ten eras, from turkey-feather blankets to sneakers. It also looks at furniture in two eras, because styles changed in American homes too. As you go, watch who made the rules, such as the Massachusetts judges who fined people for wearing silk. Watch, too, who made the cloth: enslaved people in the cotton fields and indigo vats, and women sewing in Bangladesh and Los Angeles.
 
 **Three questions this chapter answers**
 - Why did lawmakers and officials make rules about other people's clothes and hair?
 - Who made the cloth Americans wore?
 - Which new materials changed what Americans wore?
 
-**Five minutes?** Read "Cotton picked in the South, woven in the North" in 1800 to 1850.
+**Five minutes?** Read "Cotton picked in the South, woven in the North" in 1800 to 1850, and the section after it.
 **Can skip:** "Wigs in Williamsburg, 1769 to 1775", "The Federal style, 1780 to 1820", "Shirtwaists and the Gibson Girl, 1890s". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 5 minutes**
+**Era 1 of 10 · Before 1500 · about 7 minutes**
 
 The people of North America before 1500 dressed in what they could grow, hunt or get by trade. They wore deer hide, rabbit fur and turkey feathers, and cloth woven from cotton and from the fiber of the yucca, a desert plant. Their ornaments were sea shells from the Gulf of Mexico and copper from the country around Lake Superior. Their colors came from plants and from a mineral called red ochre.
 
@@ -58,7 +58,7 @@ Mississippian metalworkers heated copper, hammered it while the heat kept it sof
 
 **The bird-man.** Some plates show a figure that is part bird and part man, pushed out by hammering from the back of the sheet. Artists at Cahokia began making pictures of this bird-man between 1100 and 1300. Mississippian copper plates were made from about 800 to 1600, and they have been found from Florida and Georgia to Oklahoma and Wisconsin.
 
-At Cahokia, archaeologists found a copper workshop just north of a mound called Mound 34. It was a building about 18 by 14 feet (5.5 by 4.4 meters). Inside were raw copper nuggets, scraps of worked copper and stone tools for working it. Gregory Perino first found signs of the workshop in 1956. Later its exact spot was lost, and archaeologists found it again in 1999.
+At Cahokia, archaeologists found a copper workshop with raw copper nuggets, scraps of worked copper and stone tools for working it.
 
 **A bed of shell beads.** People at Cahokia buried a man and a woman in the 1000s on a bed of shell disc beads laid out in the shape of a bird. The beads were made from sea shells. The magazine *Archaeology* gives the count as 20,000 beads, and another published count gives about 10,000.
 
@@ -68,11 +68,11 @@ Mound 72 holds about 272 people, buried at different times over about a century.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Colors from plants and earth" -->
-Red ochre is a mineral made of iron and oxygen, and it can be brown, red or yellow. Accounts written after Europeans arrived say that the Karankawa people of the Texas coast painted symbols on their faces with ochre, using their fingers or the stalks of plants. The Karankawa got their ochre by trade from inland. At a burial site called Mitchell Ridge, red ochre stains the bones of 18 people.
+Ochre is a mineral made of iron and oxygen, and it can be brown, red or yellow. Red ochre is the red kind. Accounts written after Europeans arrived say that the Karankawa people of the Texas coast painted symbols on their faces with ochre, using their fingers or the stalks of plants. The Karankawa got their ochre by trade from inland. At a burial site called Mitchell Ridge, red ochre stains the bones of 18 people.
 
 Native people of North America decorated clothing with porcupine quills, the stiff, hollow spines that cover a porcupine, before Europeans arrived. The Huron, Cheyenne, Arapaho, Cree and Gwich'in were among the nations that did quillwork. Men hunted the porcupines, and women did the work. They flattened the quills with an awl, a pointed tool, or with a piece of bone, then dyed them and sewed them onto moccasins, pouches, baby carriers and clothing.
 
-**The dyes.** Red came from the bark of the tamarack tree, from spruce cones and from berries, and black from walnuts and wild grapes. For yellow, quillworkers used wild sunflower, pine bark or willow root. Blueberries and larkspur, a flower, made blue. Writers at the Penn Museum in Philadelphia list these dye plants. The art is much older than the quilled pieces in the Penn Museum. Among the oldest there are pieces that George Catlin collected between 1832 and 1839.
+**The dyes.** Red came from the bark of the tamarack tree, from spruce cones and from berries, and black from walnuts and wild grapes. For yellow, quillworkers used wild sunflower, pine bark or willow root. Blueberries and larkspur, a flower, made blue. Writers at the Penn Museum in Philadelphia list these dye plants. The museum's own quilled pieces date from the 1830s and later, and among the oldest are pieces that George Catlin collected between 1832 and 1839. Quillwork itself is much older, from before Europeans arrived.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="before-1500" -->
 
@@ -82,9 +82,9 @@ Native people of North America decorated clothing with porcupine quills, the sti
 <!-- hb-zoom level="era" -->
 **Era 2 of 10 · The 1500s · about 5 minutes**
 
-The first written descriptions of what Native people wore come from the Spanish, French and English explorers and soldiers who arrived in the 1500s. They wrote down deerskin, cloth of bark fiber and feathers, and ornaments of pearls. Some of them took what they found. Hernando de Soto's soldiers dug up Native graves at the town of Cofitachequi in 1540 to take the pearls buried there. A French group led by René de Laudonnière built Fort Caroline in Florida in 1564.
+The first written descriptions of what Native people wore come from the Spanish, French and English explorers and soldiers who arrived in the 1500s. They wrote down deerskin, cloth of bark fiber and feathers, and ornaments of pearls. Some of them took what they found. Hernando de Soto's soldiers dug up Native graves at the town of Cofitachequi in 1540 to take the pearls buried there.
 
-De Soto's men also found Spanish beads and a dagger at Cofitachequi, left from a Spanish colony started on the coast in 1526. Spanish colonists drove churro sheep into New Mexico in 1598, onto the land of the Pueblo peoples. Wool from those sheep went into Native, Spanish and Mexican weaving for about 300 years.
+Spanish colonists drove churro sheep into New Mexico in 1598, onto the land of the Pueblo peoples. Wool from those sheep went into Native, Spanish and Mexican weaving for about 300 years.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Cloth and pearls at Cofitachequi, 1540" -->
@@ -96,7 +96,7 @@ Elvas wrote that the town's storehouses held mantles woven from yarn made of tre
 
 **The graves.** De Soto was looking for treasure. According to Elvas, the ruler told him to search the town's graves for pearls, because she had seen how much the Spaniards valued them. De Soto's men dug up the graves. They took the pearls, and small figures of babies and birds made from pearls.
 
-The accounts give different amounts. Richard Hakluyt's English translation of Elvas says the men found "fourteen rows of pearls." Other translations give 14 arrobas, about 350 pounds, since an arroba is a Spanish weight of about 25 pounds. An editor's note in a later printing gives 392 pounds, and other accounts give about 200 pounds.
+The accounts disagree on how many pearls the men took. They give weights from about 200 pounds, about the weight of a large man, to 392 pounds.
 
 In the same town, de Soto's men found a dagger and beads. They came from a colony that Lucas Vázquez de Ayllón had started in 1526 on the coast of today's South Carolina or Georgia. Ayllón died there, and the surviving colonists left within about two months.
 
@@ -181,7 +181,15 @@ Magistrates, officers, soldiers and their families did not have to obey this law
 
 **In court.** Judges in the county courts enforced the law. Judges in Essex County heard 18 cases in 1653, and they let 12 of the people go because they were worth more than 200 pounds. Ten years later, in 1663, the lawmakers made the law cover children and servants too, and barred tailors from making the forbidden clothes. A first offense brought a warning, a second a fine of 20 shillings, and later offenses up to 40 shillings.
 
-Seven married women of Northampton faced charges of wearing silk at the Hampshire County court in 1673. The judges found all but one of them not guilty. At the same court, 9 married women of Springfield faced the same charge, along with 9 of Hadley, 7 of Hatfield and 3 of Westfield.
+The judges of the Hampshire County court charged 35 married women from five towns with wearing silk at one session in 1673. They found all but one of the seven from Northampton not guilty, and they warned, fined or let go the women from the other towns.
+
+**Whose land.** Northampton stood on the land of the Nonotuck people. John Pynchon got a deed, a paper that hands over land, from seven Nonotuck men, including Chickwalloppe, on September 24, 1653. He paid 100 fathoms of wampum, strings of shell beads, and 10 wool coats. A fathom is 6 feet. The historian Margaret Bruchac writes that the Nonotuck signers probably understood the deed as an agreement to share the land, and that they probably expected to keep their own right to hunt, fish and plant there.
+
+**The war.** King Philip's War was fought in 1675 and 1676. Metacom, a leader of the Wampanoag whom the English called King Philip, led several Native nations against the New England colonies. About 9,000 people died in the war, and by some counts about half of all the Native people of New England died. A Native man fighting for the colonists shot Metacom dead on August 12, 1676. The colonists sold hundreds of Native captives into slavery.
+
+During the war the Northampton minister Solomon Stoddard asked the colony's leaders to act against "that intolerable pride in clothes and hair." In November 1675 the members of the General Court passed a law listing the sins they said were common in the colony. A law of 1675 also lowered the fine for a second or later offense to 10 shillings.
+
+**March 1676.** The Hampshire County judges heard charges against 23 people of Northampton, women and young men, on March 27, 1676, "for wearing silk in a flaunting manner and for long hair and other extravagances" (flaunting means showing off, and extravagances meant spending too much on show). They warned them all and made each one pay court fees of 2 shillings 6 pence, except the wife of Samuel Holton. She had offended before, so they fined her 10 shillings. That March the same judges fined 45 more people from four other towns for silk and long hair.
 
 The five towns of Northampton, Hadley, Hatfield, Westfield and Springfield were themselves charged at the county court between about 1680 and 1682. Their selectmen had failed to tax residents who wore silk "beyond their ranks." James Russell Trumbull, who wrote the history of Northampton, reports that nothing more was heard of these charges.
 <!-- /hb-zoom -->
@@ -192,21 +200,13 @@ The five towns of Northampton, Hadley, Hatfield, Westfield and Springfield were 
 > **Who:** A Northampton girl of about 16 who was fined for wearing silk, and who wore it even while she stood charged before the court.
 > **When and where:** Northampton, Massachusetts, 1676.
 
-**Charged with wearing silk, she wore silk to court.**
+**Her charge said she wore silk even on days set apart for prayer.**
 
-The judges of the Hampshire County court in Massachusetts fined Hannah Lyman of Northampton 10 shillings for wearing silk in 1676. She was about 16 years old, and her father, Richard Lyman, had died. The charge said she wore silk "in a flaunting manner, in an offensive way and garbe, not only before, but when she stood presented" (flaunting means showing off, garbe meant clothing, and to stand presented was to stand charged before the court). She wore silk even then.
+Hannah Lyman of Northampton was about 16, and her father, Richard Lyman, had died. The charge against her said she wore silk "not only in ordinary times, but in extraordinary times, when the people of God were falling before the Lord in public humiliation." A day of public humiliation was a day when the people of the town prayed together and humbled themselves before God, because of "the heavy judgments and calamities that were threatening to come upon us."
 
-**Whose land.** Northampton stood on the land of the Nonotuck people. John Pynchon got a deed, a paper that hands over land, from seven Nonotuck men, including Chickwalloppe, on September 24, 1653. He paid 100 fathoms of wampum, strings of shell beads, and 10 wool coats. A fathom is 6 feet. The historian Margaret Bruchac writes that the Nonotuck signers probably understood the deed as an agreement to share the land, and that they probably expected to keep their own right to hunt, fish and plant there.
+Her case came to a later session of the county court than the one in March 1676. The judges fined her 10 shillings. The charge also said she wore silk "not only before, but when she stood presented," which means she kept wearing it even while she stood charged before the court.
 
-**The war.** King Philip's War was fought in 1675 and 1676. Metacom, a leader of the Wampanoag whom the English called King Philip, led several Native nations against the New England colonies. About 9,000 people died in the war, and by some counts about half of all the Native people of New England died. A Native man fighting for the colonists shot Metacom dead on August 12, 1676. The colonists sold hundreds of Native captives into slavery.
-
-During the war the Northampton minister Solomon Stoddard asked the colony's leaders to act against "that intolerable pride in clothes and hair." In November 1675 the members of the General Court passed a law listing the sins they said were common in the colony.
-
-**The court.** Twenty-three people stood charged at the Hampshire County court in Northampton on March 27, 1676, "for wearing silk in a flaunting manner and for long hair and other extravagances" (extravagances meant spending too much on show). Six were married women. Six were unmarried, and the town's historian thought they were probably young girls. The rest were young men.
-
-The judges warned them and made each one pay court fees of 2 shillings 6 pence. The wife of Samuel Holton had been charged before, so the judges fined her 10 shillings. Hannah Lyman was charged at a later session of the same court. That March the county judges also fined 45 people from Springfield, Westfield, Hadley and Hatfield for silk and long hair: 11 married women, 15 unmarried women and 19 young men.
-
-Counts of the Northampton cases differ. The town's historian, James Russell Trumbull, gives the numbers above. The magazine *American Heritage* and the historian David Hackett Fischer write that Hannah Lyman was one of 36 young women of Northampton charged that year.
+Counts of the people charged in Northampton that year differ. The town's historian, James Russell Trumbull, who quoted the court records, gives 23 at the March session and Hannah at a later one. The magazine *American Heritage* and the historian David Hackett Fischer write that she was one of 36 young women of Northampton charged that year.
 <!-- hb-story:end slug="hannah-lyman-1676" -->
 
 <!-- hb-zoom level="span" label="Blankets taken as tribute in New Mexico" -->
@@ -242,9 +242,7 @@ Enslaved people in South Carolina rose up against their enslavers in the Stono R
 
 **What Section 40 said.** It began by claiming that "many of the slaves in this Province wear clothes much above the condition of slaves." The lawmakers said enslaved people got those clothes by "sinister and evil methods," meaning wrong and wicked ones. The section barred any owner from letting an enslaved person "have or wear any sort of apparel whatsoever, finer, other, or greater value" than the cloths it named. Servants in livery, a uniform the master chose, did not fall under this rule.
 
-The list read: "Negro cloth, duffels, kerseys, osnabrigs, blue linen, check linen or coarse garlix, or calicoes, checked cottons, or Scotch plaids." Many of those cloths were coarse, which means rough and thick. Calicoes and checked cottons were cotton cloths. Garlix was a linen, and the law calls it "coarse."
-
-Negro cloth was a coarse cloth made for enslaved people's clothes. Osnaburg was a coarse, plain cloth first woven from flax in the German city of Osnabrück. Kersey was a thick, coarse wool, and duffel was a heavy wool used for blankets and coats. An earlier South Carolina act, passed in 1735, had already named cheap cloth for enslaved people's clothing.
+The list read: "Negro cloth, duffels, kerseys, osnabrigs, blue linen, check linen or coarse garlix, or calicoes, checked cottons, or Scotch plaids." All of them were cheap cloths, and many were coarse, which means rough and thick. Negro cloth was a coarse cloth made for enslaved people's clothes. Osnaburg, which the law spells "osnabrigs," was a plain cloth first woven from flax in the German city of Osnabrück. An earlier South Carolina act, passed in 1735, had already named cheap cloth for enslaved people's clothing.
 
 **Who took the clothes.** The law required "all and every constable and other persons" to seize finer clothes from any enslaved person wearing them. The person who seized the clothes could keep them "to his or their own use." An owner who thought the clothes had been taken wrongly could take the matter to a justice of the peace, a local judge. The surviving records do not show how often anyone seized clothes under this law.
 <!-- /hb-zoom -->
@@ -359,7 +357,7 @@ Gould found little written evidence that officials enforced the rule, and no rec
 
 **He took the oath in brown wool woven in Connecticut.**
 
-George Washington took the oath as the first president of the United States on April 30, 1789, in New York. His suit was brown wool cloth made in Connecticut. Three weeks before, on April 8, he wrote: "I shall allways take a peculiar pleasure in giving every proper encouragement in my power to the manufactures of my Country" (manufactures meant goods made by hand or by machine).
+George Washington wrote on April 8, 1789, three weeks before he took the oath as the first president of the United States: "I shall allways take a peculiar pleasure in giving every proper encouragement in my power to the manufactures of my Country" (manufactures meant goods made by hand or by machine). He took the oath on April 30, in New York.
 
 **Finding the cloth.** In January 1789 a writer in *The Federal Gazette* had urged American leaders to wear clothing made in America. He signed himself "a Philadelphia mechanic," meaning a skilled worker who made things. The Hartford Woolen Manufactory in Connecticut had just begun making cloth. A merchant in Philadelphia could not get the cloth for Washington, so Henry Knox, then the secretary of war, dealt with the Hartford factory himself. The cloth reached Alexandria, Virginia, in early April. Washington left Mount Vernon for New York on April 16.
 
@@ -371,8 +369,8 @@ Washington did not wear a wig. He powdered his own hair.
 <!-- hb-story:end slug="george-washington-styles" -->
 
 <!-- hb-zoom level="span" label="The Federal style, 1780 to 1820" -->
-American cabinetmakers, the skilled makers of fine furniture, made pieces in a style now called Federal from about 1780 to 1820. Federal pieces had legs that grew thinner toward the floor, and sharp edges. Makers covered them with veneers, thin sheets of fine wood laid over the surface. They inlaid pictures of eagles, urns and bellflowers, setting small pieces of different wood into the surface.
+Styles changed in American homes as well as in clothes. From about 1780 to 1820, American cabinetmakers, the skilled makers of fine furniture, worked in a style now called Federal. They copied many of its designs from English pattern books by George Hepplewhite and Thomas Sheraton. Federal pieces had legs that grew thinner toward the floor, and sharp edges. Makers covered them with veneers, thin sheets of fine wood laid over the surface. They inlaid pictures of eagles, urns and bellflowers, setting small pieces of different wood into the surface.
 
-The main wood was mahogany, and makers also used satinwood, maple and birch. American makers copied designs from English pattern books by George Hepplewhite and Thomas Sheraton. Makers included John and Thomas Seymour in Boston and Duncan Phyfe in New York.
+The main wood was mahogany, and makers also used satinwood, maple and birch. Makers of Federal furniture included John and Thomas Seymour in Boston and Duncan Phyfe in New York.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1750-1800" -->

@@ -16,7 +16,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 <!-- hb-zoom level="era" -->
 **Era 8 of 10 · 1900 to 1950 · about 12 minutes**
 
-Chemists made the new materials that Americans wore and handled every day in the first half of the 1900s. Leo Baekeland made Bakelite, a hard plastic, in 1907, and chemists at the DuPont company made nylon in 1935. Nylon went on sale as women's stockings in 1939. Many women in the 1920s cut their hair short and wore shorter, looser dresses. Black women built companies that sold hair products to Black customers, and Madam C. J. Walker and Annie Malone each grew rich from that work.
+Chemists made the new materials that Americans wore and handled every day in the first half of the 1900s. Leo Baekeland made Bakelite, a hard plastic, in 1907, and chemists at the DuPont company made nylon in 1935. Nylon went on sale as women's stockings in 1939. Many women in the 1920s cut their hair short and wore shorter, looser dresses. Black women built companies that sold hair products to Black customers, and Madam C. J. Walker and Annie Turnbo Malone each grew rich from that work.
 
 Government officials also used clothes and hair to control people. The US commissioner of Indian affairs, the head of the federal office for Native affairs, told officials on the reservations, the lands the government had set aside for Native nations, to make Native men cut their hair in 1902.
 
@@ -46,9 +46,9 @@ Many women gave up stiff, formal layers for lighter, looser clothes. With new fa
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Hair care built by Black women" -->
-Annie Turnbo made a hair product she called Wonderful Hair Grower and sold it door to door. She was born on August 9, 1877, in Metropolis, Illinois, and her parents had been enslaved in Kentucky. She moved to St. Louis in 1902 and opened a shop. She later named her company Poro.
+Annie Turnbo, later known as Annie Turnbo Malone, made a hair product she called Wonderful Hair Grower and sold it door to door. She was born on August 9, 1877, in Metropolis, Illinois, and her parents had been enslaved in Kentucky. She moved to St. Louis in 1902 and opened a shop. She later named her company Poro.
 
-She opened Poro College in St. Louis in 1918, a building that held a factory, a store, rooms where students slept, a gym, a chapel and an auditorium. Nearly 200 people worked there. About 75,000 women, in several parts of the world, trained in her Poro system. She later became known as Annie Malone. In 1924 she paid nearly $40,000 in taxes.
+She opened Poro College in St. Louis in 1918, a building that held a factory, a store, rooms where students slept, a gym, a chapel and an auditorium. Nearly 200 people worked there. About 75,000 women, in several parts of the world, trained in her Poro system. In 1924 she paid nearly $40,000 in taxes.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="madam-cj-walker" name="Madam C. J. Walker" movie="Two Dollars and a Dream (1987)" kind="famous" status="verified" -->
@@ -60,11 +60,11 @@ She opened Poro College in St. Louis in 1918, a building that held a factory, a 
 
 **Her own hair falling out led her into the hair business.**
 
-Sarah Breedlove was washing clothes for pay and working as a cook in St. Louis when her hair began to fall out. A skin disease, harsh hair products, poor food and a home without running water all played a part. In 1904 she began using Annie Turnbo's hair product, and she became one of Turnbo's sales agents in St. Louis.
+Sarah Breedlove, the woman who later became Madam C. J. Walker, was washing clothes for pay and working as a cook in St. Louis when her hair began to fall out. A skin disease, harsh hair products, poor food and a home without running water all played a part. In 1904 she began using Annie Turnbo's hair product, and she became one of Turnbo's sales agents in St. Louis.
 
 She was born on December 23, 1867, in Delta, Louisiana, and her parents had been enslaved. Her parents died when she was 7, and she married at 14. She moved to St. Louis in 1889.
 
-**Her own company.** She moved to Denver in July 1905 and began selling her own product, "Madam Walker's Wonderful Hair Grower." She married Charles Joseph Walker in 1906 and took his name. In 1910 she moved her company to Indianapolis and built a factory there. The company made hair products for Black women, and she trained thousands of women to sell them.
+**Her own company.** She moved to Denver in July 1905 and began selling her own product, "Madam Walker's Wonderful Hair Grower," almost the same name as Turnbo's Wonderful Hair Grower, which she had sold in St. Louis. She married Charles Joseph Walker in 1906 and took his name. In 1910 she moved her company to Indianapolis and built a factory there. The company made hair products for Black women, and she trained thousands of women to sell them.
 
 Her company said that by 1917 nearly 20,000 women had trained with it. According to the National Women's History Museum, she employed 40,000 people. She gave money to the YWCA, the Young Women's Christian Association. She also gave $5,000 to the NAACP, the National Association for the Advancement of Colored People, for its work against lynching, the killing of a person by a mob without a trial.
 
@@ -106,7 +106,7 @@ Carothers killed himself in Philadelphia on April 29, 1937, at age 41, by taking
 
 The actress Olivia de Havilland wore a gown Ann Lowe made when she accepted her Academy Award in 1946. The credit for that dress went to the name "Sonia Rosenberg," not to Lowe. The record does not say who gave that credit. Lowe also made gowns for Jacqueline Kennedy and the heiress Marjorie Merriweather Post, but she stayed almost unknown to the wider public.
 
-**A family of dressmakers.** She was born about 1898 in Clayton, Alabama, into a family of Black dressmakers. Her great-grandmother was enslaved on an Alabama plantation, and the man who owned that plantation was Ann's great-grandfather. He held her as his property, and by law she could not refuse him. Their daughter Georgia was Ann's grandmother.
+**A family of dressmakers.** She was born about 1898 in Clayton, Alabama, into a family of Black dressmakers. Her great-grandmother was enslaved on an Alabama plantation, and the man who owned that plantation was Ann's great-grandfather. He held her as his property, and by law she could not refuse him. He was the father of her daughter, Georgia, who was Ann's grandmother.
 
 Her mother, Jane, and her grandmother, Georgia, made dresses for well-known families in Montgomery, and Ann learned the trade from them. Her mother died in 1914, when Ann was 16, and Ann took over the business.
 
@@ -116,9 +116,9 @@ She moved to New York in 1928 with $20,000. For years she made gowns to order fo
 <!-- hb-story:end slug="ann-lowe" -->
 
 <!-- hb-zoom level="span" label="Cloth rules in World War II, 1942 to 1946" -->
-Officials of the War Production Board issued General Limitation Order L-85 on April 8, 1942. The War Production Board was the federal agency whose officials controlled materials during the war, and its chairman was Donald M. Nelson. The order set how long and how wide women's coats, dresses, suits and skirts could be.
+Officials of the War Production Board issued General Limitation Order L-85 on April 8, 1942, to save cloth and workers' time for the war. The War Production Board was the federal agency whose officials controlled materials during the war, and its chairman was Donald M. Nelson. The order set how long and how wide women's coats, dresses, suits and skirts could be.
 
-**What it banned.** The order banned hoods, capes and scarves attached to coats, and belts and hems, the folded-up bottom edges of clothes, more than 2 inches wide. It also banned cuffs, turned-back bands of cloth, on long jacket sleeves and on slacks, which are loose pants. It banned pleats, tucks or gathers, which are folds or bunches of extra cloth, all over a garment.
+**What it banned.** To save cloth, the order banned hoods and capes attached to coats. It banned belts and hems, the folded-up bottom edges of clothes, more than 2 inches wide, and it banned cuffs, turned-back bands of cloth, on slacks, or loose pants.
 
 Wedding gowns, dresses for pregnant women, children's clothes, burial gowns and religious robes did not fall under the rules. The rules lasted until 1946.
 
@@ -227,11 +227,11 @@ Chesley Karr of El Paso, Texas, challenged his school's rule in 1970 that a boy'
 
 The Supreme Court justices never agreed to hear a school hair case. In 1971 Justice Hugo Black wrote that he could not see why "anyone should think the Federal Constitution imposes on the United States courts the burden of supervising the length of hair that public school students should wear." Justice William O. Douglas disagreed when the other justices turned such cases away.
 
-**The Pawnee boys.** One of those cases came from Pawnee boys in Oklahoma. The Pawnee Nation once lived in Nebraska and northern Kansas, and the Sioux attacked the Pawnee there for four decades. In 1874 the Pawnee began a two-year removal, a move of the whole nation away from its homeland, to Indian Territory, which later became Oklahoma. Some accounts say the Pawnee were forced to go. The US government's agent for the Pawnee chose their new reservation, on land that had belonged to the Cherokee.
-
-The boys wore their hair parted in the middle with a long braid on each side, to follow "the old traditional ways." One of them said it was "one way of telling people that I am proud [to be an Indian]."
+**The Pawnee boys.** One of those cases came from Pawnee boys in Oklahoma. The boys wore their hair parted in the middle with a long braid on each side, to follow "the old traditional ways." One of them said it was "one way of telling people that I am proud [to be an Indian]."
 
 Officials at Pawnee Junior High School suspended the boys with no end date on April 24, 1972, under a rule that a boy's hair could not reach his collar or his ears. The first name on their case is Norman New Rider. Federal appeals judges ruled that the school could keep its rule. On December 10, 1973, the Supreme Court justices refused to hear the case. Justices Douglas and Thurgood Marshall disagreed. Douglas wrote that the boys were telling other students of "their pride in being Indian."
+
+**From Nebraska to Oklahoma.** The Pawnee Nation once lived in Nebraska and northern Kansas, and the Sioux attacked the Pawnee there for four decades. In 1874 the Pawnee began a two-year removal, a move of the whole nation away from its homeland, to Indian Territory, which later became Oklahoma. Some accounts say the Pawnee were forced to go. The US government's agent for the Pawnee chose their new reservation, on land that had belonged to the Cherokee.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Afro, braids and a court ruling" -->
@@ -247,11 +247,11 @@ In New York in the 1980s, hip-hop groups such as Run DMC wore white Adidas sneak
 
 Nike began selling its Air Jordan basketball shoe, made for the player Michael Jordan, on April 1, 1985. NBA officials fined Jordan $5,000 a game for wearing shoes in colors that broke the league's rules. Reports of the shoe's sales in its first year range from $126 million to more than $150 million.
 
-**A killing for shoes.** James David Martin, 17, killed Michael Eugene Thomas, 15, on May 2, 1989, to take his Air Jordans. Thomas was a ninth grader at Meade Senior High School in Anne Arundel County, Maryland, and he had bought the shoes for $115.50. Martin led him into the woods near the school, raped him, forcing him into a sexual act, and strangled him to death. Then Martin took the shoes and ran.
+**A killing for shoes.** Costly sneakers could make the young person wearing them a target. James David Martin, 17, killed Michael Eugene Thomas, 15, on May 2, 1989, to take his Air Jordans. Thomas was a ninth grader at Meade Senior High School in Anne Arundel County, Maryland, and he had bought the shoes for $115.50. Martin led him into the woods near the school, raped him, forcing him into a sexual act, and strangled him to death. Then Martin took the shoes and ran.
 
 Martin pleaded guilty to voluntary manslaughter, killing a person on purpose but without planning it ahead, a crime the law treats as less serious than murder. He was sentenced to seven years in prison.
 
-In May 1990 the writer Rick Telander published a cover story in the magazine *Sports Illustrated*, "Your Sneakers or Your Life," about young people robbed for their sneakers and jackets, some of them killed. Police gave different estimates of how often such robberies happened. Each count covered a single city, such as Atlanta or Chicago. Richard Lapchick of Northeastern University called the reports "grossly exaggerated."
+In May 1990 the writer Rick Telander published a cover story in the magazine *Sports Illustrated*, "Your Sneakers or Your Life," about young people robbed for their sneakers and jackets, some of them killed. Police in a few cities counted such robberies. Atlanta police reported more than 50 muggings for sports clothes in four months, and a Chicago police sergeant counted about 50 jacket crimes and a dozen shoe crimes a month. Each count covered only one city. Richard Lapchick of Northeastern University called the news reports of these crimes "grossly exaggerated."
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Slavery in a California sewing shop, 1995" -->
@@ -298,7 +298,7 @@ Later she became a US citizen, learned English and was reunited with her childre
 ## 2000 to Today
 
 <!-- hb-zoom level="era" -->
-**Era 10 of 10 · 2000 to Today · about 12 minutes**
+**Era 10 of 10 · 2000 to Today · about 14 minutes**
 
 Today almost all the clothes sold in the United States are sewn in other countries, and Americans throw away far more cloth than they did in 2000. They threw away 17 million tons of cloth in 2018, most of it clothing, by the count of the US Environmental Protection Agency. That was almost twice the 9.5 million tons they threw away in 2000.
 
@@ -330,13 +330,13 @@ After the fire, Walmart officials said a supplier, one of the companies that mad
 
 A Bangladeshi television channel showed cracks in the building on April 23, 2013. The shops and the bank on the lower floors closed. Sohel Rana told reporters that the building was safe. Factory managers ordered the garment workers back the next morning. Managers at the Ether Tex factory threatened to hold back a month's pay from any worker who stayed away.
 
-The building fell at about 9 in the morning on April 24, 2013. Counts of the dead run from 1,129 to 1,136, and the Clean Clothes Campaign, a group that works for garment workers' rights, gives 1,134. Counts of the injured run from 1,524 to nearly 2,600. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
+The building fell at about 9 in the morning on April 24, 2013. It killed more than 1,100 people, 1,134 by the count of the Clean Clothes Campaign, a group that works for garment workers' rights. Counts of the injured run from about 1,500 to nearly 2,600. Some trapped workers could be freed only by amputating an arm or a leg, which means cutting it off.
 
 Researchers for the Clean Clothes Campaign found at least 29 brands with recent orders at the factories in Rana Plaza. They included two American companies, Cato Fashions and The Children's Place. News reports also linked Walmart. Officials of J.C. Penney said that one factory there had made a small amount of clothing for another brand that Penney stores sold.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="After Rana Plaza" -->
-After the collapse, officials of more than 200 clothing companies, most of them European, signed a safety agreement that bound them by law. Officials of Walmart and 14 other North American companies did not sign it. In July 2013 leaders of 17 North American store chains, including Walmart, Gap, Target and Macy's, announced a safety plan of their own. It had no promise, binding by law, to pay for repairs to the factories.
+After the collapse, officials of more than 200 clothing companies, most of them European, signed a safety agreement that bound them by law. Officials of Walmart and other North American companies did not sign it. In July 2013 leaders of 17 North American store chains, including Walmart, Gap, Target and Macy's, announced a safety plan of their own. It had no promise, binding by law, to pay for repairs to the factories.
 
 Clothing brands paid into a fund for the families of the dead and for injured workers. The fund reached its target only after more than two years, when the last brands, such as Benetton, paid in. By October 2015, more than $34 million had been paid out, according to the International Labour Organization. According to the Clean Clothes Campaign, some of the brands linked to the building never paid.
 
@@ -365,11 +365,11 @@ Marissa Nuncio, director of the Garment Worker Center in Los Angeles, said in 20
 
 **He sewed clothes that carried a TV star's name.**
 
-Francisco Tzul watched Kathie Lee Gifford's television talk show in the 1990s and recognized her name. It was on the labels of clothes he sewed in Los Angeles. He was paid a few cents a piece, about a dollar for each finished item, and he shared a one-bedroom apartment with three friends.
+Francisco Tzul watched Kathie Lee Gifford's television talk show in the 1990s and recognized her name. It was on the labels of clothes he sewed in Los Angeles. He was paid a few cents for each piece of the sewing work, about a dollar for each finished item. He shared a one-bedroom apartment with three friends.
 
 He came from Guatemala, and by 2020 he had sewn clothes in Los Angeles for decades. That year he was 56 and was living in the United States without legal papers. He has told his story in interviews with the news sites *CalMatters* in 2020 and Knock LA in 2021.
 
-**COVID-19.** He sewed face masks at the Los Angeles Apparel factory for $15 an hour in 2020, and he caught COVID-19 there. "My respiratory system was completely blocked and I wasn't able to breathe at all," he said. He spent 10 days in the hospital. When he came out, his roommates told him to leave. Staff at the Garment Worker Center found him a hotel room for two weeks.
+**COVID-19.** He sewed face masks at the Los Angeles Apparel factory in 2020, and the factory paid him by the hour: $15, the city's minimum wage, plus overtime. That was far more than the $5.50 an hour that piece pay came to in the small shops. He caught COVID-19 there. "My respiratory system was completely blocked and I wasn't able to breathe at all," he said. He spent 10 days in the hospital. When he came out, his roommates told him to leave. Staff at the Garment Worker Center found him a hotel room for two weeks.
 
 He went to Sacramento in 2021 to tell California's lawmakers about his work. He called the day the Garment Worker Protection Act was signed the best day of his life.
 <!-- hb-story:end slug="francisco-tzul" -->
@@ -381,7 +381,7 @@ New Jersey's governor, Phil Murphy, signed a CROWN Act on December 19, 2019. By 
 
 Members of the US House of Representatives passed a national CROWN Act in 2020 and again in 2022. Senators never voted on it. In September 2026 the United States had no national law against hair discrimination.
 
-**Damon Landor.** Guards at a prison in Louisiana handcuffed Damon Landor to a chair in 2020 and shaved off his dreadlocks. He had grown them for decades because of a promise he made as part of his Rastafarian religion, and he had three weeks left in his sentence. He showed the guards a court decision, and they threw it in the trash.
+**Damon Landor.** Damon Landor's case over his hair went to court under a religious-freedom law, not a CROWN Act. Guards at a prison in Louisiana handcuffed him to a chair in 2020 and shaved off his dreadlocks. He had grown them for decades because of a promise he made as part of his Rastafarian religion, and he had three weeks left in his sentence. He showed the guards a court decision, and they threw it in the trash.
 
 Six of the nine Supreme Court justices ruled on June 23, 2026, that he could not sue the guards for money under a federal law that protects the religious freedom of people in prison.
 <!-- /hb-zoom -->
@@ -415,7 +415,7 @@ In April 2026 ThredUp, a company that sells used clothing online, published a re
 **The three questions, answered**
 - Why did lawmakers and officials make rules about other people's clothes and hair? To keep rank where everyone could see it, and to control the people below them: Massachusetts fined people worth less than 200 pounds for wearing silk, South Carolina held enslaved people to coarse cloth in 1740, and a federal official ordered Native men's hair cut in 1902. Since 2019, CROWN Acts in about 30 states have turned the rule around and forbidden punishing people for natural hair, braids, locs or twists.
 - Who made the cloth Americans wore? Native weavers first, then enslaved people who grew the cotton and made the indigo, and mill workers in New England. Today almost all of it is sewn in other countries, by workers in places like Bangladesh, and in small Los Angeles shops where workers were paid by the piece until a California law required hourly pay in 2022.
-- Which new materials changed what Americans wore? Churro wool after 1598, dyes made from coal tar from 1856, Bakelite in 1907, nylon stockings in 1939 and polyester suits in 1951.
+- Which new materials changed what Americans wore? Churro wool, brought in 1598, became the main thread for weaving in New Mexico. Dyes made from coal tar, from 1856, gave clothes new colors such as mauve. In the 1920s "artificial silk" let more women dress in the new styles. Nylon made stockings from 1939, and polyester suits from 1951 could be washed and worn without ironing.
 
 **What changed:** Before 1500 people here made blankets from turkey feathers and yucca cord, and today about 97 percent of the clothes and shoes Americans buy are made in other countries.
 

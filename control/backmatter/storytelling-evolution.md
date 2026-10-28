@@ -22,17 +22,20 @@
 - rape: forcing a person into sex (The 1500s)
 - convent: a house where nuns live (The 1500s)
 - ducats: Spanish gold coins (The 1500s)
+- Tewa: one of the Pueblo peoples (The 1500s)
 - Moors: Muslims who fought Christians in Spain from the 700s to the 1400s (The 1500s)
 - Parliament: England's lawmakers, in two parts, the House of Lords and the House of Commons (The 1600s)
 - tragedy: a serious play with a sad ending (The 1600s)
 - king's attorney: the lawyer who brought cases to court in the king's name (The 1600s)
 - habiliments: an old word for clothes ("habilemts" in the 1665 court record) (The 1600s)
 - security: a promise backed by money or property that a person will come back to court (The 1600s)
+- actour: an old spelling of actor, used in the 1665 court record (The 1600s)
 - Franciscans: one group of Catholic friars (The 1600s)
 - missionaries: priests sent to win people over to Christianity (The 1600s)
 - sorcery: using magic to do harm (The 1600s)
 - stick dance: a dance of enslaved people (The 1600s)
 - indentured servant: a person bound by a contract to work for a master for a set number of years (1700 to 1750)
+- Algonquian: one family of related Native languages (1700 to 1750)
 - preface: the short opening piece of a book (1700 to 1750)
 - exciseman: a collector of taxes on goods (1700 to 1750)
 - publican: a tavern keeper (1700 to 1750)
@@ -211,6 +214,6 @@
 - Sidney (2022): no note
 
 ## Questions
-- Q: Who tried to stop Americans from acting, and why? A: Spanish priests burned Pueblo masks to end the ceremonies, and lawmakers from Massachusetts to the Continental Congress banned plays as wasteful or bad for morals. Later, police arrested Black actors for playing Shakespeare, federal officials made Native dances crimes, and studio heads blacklisted hundreds of film workers over communism.
+- Q: Who tried to stop Americans from acting, and why? A: A Virginia court tried three actors in 1665 on one man's complaint, and the record does not say why he objected. Spanish priests burned Pueblo masks to end the ceremonies. Massachusetts lawmakers banned plays, saying they made people less moral and less religious. The delegates to the Continental Congress promised to discourage plays as wasteful, then asked the states to stop them. Later, police arrested Black actors after a rival white manager, by one account, started a riot to destroy their company. Federal officials made Native dances crimes, and missionaries in Alaska called Yup'ik masked dances "heathen rites." Studio heads blacklisted hundreds of film workers over communism.
 - Q: Why did white actors play Black, Asian and Native people for so long? A: White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. The studio heads' own Code and state laws against marriage between races kept actors of color out of leading parts.
 - Q: Who controls a computer copy of an actor's face and voice? A: Since the strikes of 2023 and 2024 to 2025, union contracts say a studio or game company must get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.

@@ -14,7 +14,7 @@ Editor's in-development note, not part of the final book. The parser strips it.
 ## Before 1500
 
 <!-- hb-zoom level="era" label="Chapter opening" -->
-**Chapter 34 of 37 · Storytelling Evolution · 10 eras · about 125 minutes**
+**Chapter 34 of 37 · Storytelling Evolution · 10 eras · about 135 minutes**
 
 **People here have acted out stories for centuries, and in every era someone fought over who was allowed to act, whom an actor could play, and who owned the performance.**
 
@@ -29,16 +29,16 @@ Watch who is allowed to act. Priests burned Pueblo masks, lawmakers banned plays
 - Why did white actors play Black, Asian and Native people for so long?
 - Who controls a computer copy of an actor's face and voice?
 
-**Five minutes?** Read "The African Theatre, New York, 1821 to 1823" in 1800 to 1850.
+**Five minutes?** Read "The African Theatre, New York, 1821 to 1823" in 1800 to 1850, and the two stories after it.
 **Can skip:** "Places built to hold a crowd", "Shakespeare on the rivers", "Big openings and home video", "YouTube and TikTok". The chapter still makes sense without them.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="era" -->
-**Era 1 of 10 · Before 1500 · about 6 minutes**
+**Era 1 of 10 · Before 1500 · about 7 minutes**
 
 In the Native nations here before 1500, acting was part of religion. A dancer in a mask took on the part of a spirit or an animal, in ceremonies and to ask the animals to give themselves to hunters. Among the Pueblo peoples, men carved dolls of these spirits so that girls would learn who each one was.
 
-Some of what is known about these traditions comes from the nations themselves. Haudenosaunee leaders published a policy on their masks in 1995, and an Ojibwe teacher explained his people's storytelling rules in 2024. Older evidence survives in the ground. People built wide open squares called plazas and large round rooms for ceremonies, and they painted masked figures on walls and pots.
+Some of what is known about these traditions comes from the nations themselves. Leaders of the Haudenosaunee, six nations whose lands stretch across what is now New York State and into Canada, published a policy on their masks in 1995. An Ojibwe teacher explained his people's storytelling rules in 2024. Older evidence survives in the ground. People built wide open squares called plazas and large round rooms for ceremonies, and they painted masked figures on walls and pots.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who is inside the mask?" -->
@@ -50,9 +50,9 @@ The katsina religion reached Homol'ovi around 1350. Homol'ovi is a group of town
 
 People lived at Nunalleq, a village near Quinhagak, from 1300 to the 1650s. Archaeologists, scientists who dig up and study what people left behind long ago, found masks there that are the oldest complete Yup'ik masks anywhere. The masks were made before 1650, while people lived in the village.
 
-**Haudenosaunee masks.** Medicine societies among the Haudenosaunee use masks of wood and of cornhusk. The Haudenosaunee are six nations whose lands stretch across what is now New York State and into Canada. The Haudenosaunee have not published a date for when the societies began.
+**Haudenosaunee masks.** Among the Haudenosaunee, groups called medicine societies use masks of wood and of cornhusk. The Haudenosaunee have not published a date for when the societies began.
 
-The Grand Council of the Haudenosaunee published a policy on these masks in 1995. It defines a medicine society only as Haudenosaunee who have taken part in the medicine. It states that all the masks are sacred, whatever their size or age, and that only members of a medicine society should make masks. The masks must not be shown in public, and photographs and drawings of them should not be used in public displays.
+The Grand Council of the Haudenosaunee published its policy on these masks in 1995. The policy says only that a medicine society is made up of Haudenosaunee who have taken part in the medicine, and it does not explain the phrase further. It states that all the masks are sacred, whatever their size or age, and that only members of a medicine society should make masks. The masks must not be shown in public, and photographs and drawings of them should not be used in public displays.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Rules about who tells what, and when" -->
@@ -84,7 +84,7 @@ No person from before 1500 in this land who acted, danced or told stories is nam
 ## The 1500s
 
 <!-- hb-zoom level="era" -->
-**Era 2 of 10 · The 1500s · about 6 minutes**
+**Era 2 of 10 · The 1500s · about 7 minutes**
 
 The first European play on record in what is now the United States was acted on the day a Spanish leader claimed the land for his king, and his men made Native people act in it. Spanish soldiers and priests put it on beside the Rio Grande on April 30, 1598. They made Manso people, who lived near their camp, take part.
 
@@ -119,7 +119,7 @@ In November 1598 Farfán led a party west from the Hopi villages to look for min
 <!-- hb-story:end slug="marcos-farfan-de-los-godos" -->
 
 <!-- hb-zoom level="span" label="The same expedition at Acoma" -->
-About eight months after the play, men of the same expedition attacked Acoma Pueblo. Acoma is a town built on top of a mesa, a steep hill with a flat top.
+About eight months after the play, men of the same expedition attacked Acoma Pueblo. The play had shown Pueblo characters kneeling and asking the friars to baptize them. At Acoma the expedition's soldiers killed real Pueblo people, and Oñate sentenced most of the people they captured to slavery. Acoma is a town built on top of a mesa, a steep hill with a flat top.
 
 **The demand for food.** Oñate's nephew Juan de Zaldívar and his soldiers climbed the mesa in early December 1598 and demanded food. The All Pueblo Council of Governors is a council of the leaders of the Pueblo nations. In 2023 its leaders said that the soldiers had demanded food and supplies, and had forced the Acoma to promise loyalty to the king of Spain.
 
@@ -135,11 +135,11 @@ Oñate ordered the old people handed over as slaves to the Plains Apache, and ch
 
 **The 24.** Oñate's sentence is in the written record. Acoma people have passed down their own account since 1599: Oñate had the right feet of 24 captive men cut off. The Associated Press, NPR and the New York Times have reported that number. No one has traced it to a written record from the time. The historians Marc Simmons and John Kessell doubt that the cutting was carried out.
 
-**Oñate's own trial.** Spanish officials charged Oñate with 30 crimes in 1612 or 1613. In 1614 judges in Mexico found him guilty of 12 of them, including using too much force at Acoma. The judges ordered him out of New Mexico for life and barred him from Mexico City for four years. One account says five years. They also fined him 6,000 ducats, which were Spanish gold coins.
+**Oñate's own trial, years later.** Spanish officials charged Oñate with 30 crimes in 1612 or 1613. In 1614 judges in Mexico found him guilty of 12 of them, including using too much force at Acoma. The judges ordered him out of New Mexico for life and barred him from Mexico City for four years. One account says five years. They also fined him 6,000 ducats, which were Spanish gold coins.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Los Moros y Cristianos" -->
-Oñate's soldiers acted a second play in 1598, after the expedition reached a Tewa pueblo. The Spanish renamed it San Juan and made it their first capital. Today that pueblo is called Ohkay Owingeh.
+Oñate's soldiers had acted a second play months before the attack on Acoma. They put it on in the middle of 1598 to celebrate the expedition's safe arrival at a town of the Tewa, one of the Pueblo peoples, farther north. The Spanish renamed the town San Juan and made it their first capital. Today that pueblo is called Ohkay Owingeh.
 
 The play was *Los Moros y Cristianos*, which means *The Moors and the Christians*. It shows the battles between the Moors, who were Muslims, and the Christians in Spain from the 700s to the 1400s. The leaders of each side make long speeches, and the battle scenes are full of clashing weapons.
 
@@ -169,7 +169,7 @@ The order called plays "Spectacles of Pleasure, too commonly expressing lascivio
 <!-- hb-zoom level="span" label="A play, a complaint and a court, 1665" -->
 Three men named Cornelius Watkinson, Philip Howard and William Darby acted a play called *Ye Bare and Ye Cubb* in Accomack County, Virginia, on August 27, 1665. The court record does not say where. A local history site, Secrets of the Eastern Shore, says they acted it at Fowkes Tavern near Pungoteague.
 
-A man named Edward Martin reported the play to the court. The king's attorney for the county, the lawyer who brought cases to court in the king's name, took up the case.
+A man named Edward Martin reported the play to the court. The king's attorney for the county, the lawyer who brought cases to court in the king's name, took up the case. The record gives the charge only as "acting a play." It does not say what Martin objected to, or what law the attorney said the men had broken.
 
 **"In those habilemts."** The king's attorney accused the three men in the county court on November 16, 1665. The judges ordered the men to come to the next court "in those habilemts that they then acted in." Habilemts was the court clerk's short spelling of habiliments, an old word for clothes, so the men had to come in their costumes. They also had to bring a written copy of the verses and speeches.
 
@@ -184,11 +184,11 @@ The judges ordered the sheriff to hold Watkinson and Howard until they gave secu
 > **Who:** One of the three men who acted *Ye Bare and Ye Cubb* in Virginia in 1665, and the one the sheriff was ordered to arrest.
 > **When and where:** Accomack County, Virginia, August 27, 1665, and the county court, November 1665 to January 1666.
 
-**The judges ordered the sheriff to arrest only one of the three.**
+**Later writers name him as the author of the lost play.**
 
-William Darby is one of the first people on record to act a play in English in what is now the United States. In November 1665 the judges ordered the sheriff to arrest him "to answere at his ma'ties suit," which meant he had to answer a case brought in the name of His Majesty, the king. For the other two actors, the judges ordered only that they be held until they gave security that they would come back. In January 1666 the judges found all three men not guilty.
+William Darby is one of the first people on record to act a play in English in what is now the United States. The Accomack County court record names him as an "actour," an old spelling of actor, in *Ye Bare and Ye Cubb*. He was the one actor of the three whom the judges ordered arrested, "to answere at his ma'ties suit." That meant he had to answer a case brought in the name of His Majesty, the king.
 
-The Accomack County court record calls him an "actour" of *Ye Bare and Ye Cubb*. Later writers say he wrote the play or helped write it. The reference book *American Eras* lists it as "*Ye Bare and Ye Cubb*, by William Darby." Writers at the Oscar G. Brockett Center for Theatre History call him "one of the piece's authors."
+Later writers say he wrote the play or helped write it. The reference book *American Eras* lists it as "*Ye Bare and Ye Cubb*, by William Darby." Writers at the Oscar G. Brockett Center for Theatre History call him "one of the piece's authors."
 
 **Not known:** The court record is the only account of Darby from his own time, and it does not say what work he did, when he was born or when he died.
 <!-- hb-story:end slug="william-darby-1665" -->
@@ -198,7 +198,7 @@ In New Mexico, Spanish officials and priests tried to end the Pueblo ceremonies 
 
 The Franciscan leader Alonso de Posada forbade the Pueblo people to hold their ceremonies from 1656 to 1665. He ordered the missionaries, priests sent to win people over to Christianity, to go into the kivas, burn the masks there, and take or destroy the sacred objects. Armed Spanish soldiers protected the missionaries while they did it.
 
-**The arrests.** Governor Juan Francisco Treviño ordered the arrest of 47 Pueblo religious leaders for sorcery, using magic to do harm, in 1675. Spanish officials sentenced four of the men to death by hanging. They hanged three of them, and the fourth killed himself. They shamed the others, whipped them in public and put them in prison. Pueblo men then came to Santa Fe and demanded that the prisoners be freed, and the Spanish let them go. One of the men freed was Po'pay of Ohkay Owingeh.
+**The arrests.** Governor Juan Francisco Treviño ordered the arrest of 47 Pueblo religious leaders for sorcery, using magic to do harm, in 1675. Spanish officials sentenced four of the men to death by hanging. They hanged three of them, and the fourth killed himself. They shamed the others, whipped them in public and put them in prison. Pueblo men then came to Santa Fe and demanded that the prisoners be freed, and the Spanish let them go. One of the men freed was Po'pay of Ohkay Owingeh, the pueblo the Spanish called San Juan.
 
 **The knotted ropes.** Po'pay planned a revolt of all the Pueblo towns at once. He sent runners carrying knotted ropes to the towns, and the people in each town untied one knot a day. When the last knot was gone, the revolt would begin. On August 9, 1680, the Spanish caught two of the runners, Pedro Omtua and Nicolas Catua of Tesuque Pueblo, and tortured them. The Smithsonian's account does not say how.
 
@@ -228,7 +228,7 @@ The British actor Anthony Aston reached Charleston, South Carolina, in about 170
 
 The first play on record there was acted in 1718. Lieutenant Governor Alexander Spotswood, the colony's leader at the time, sponsored it. No list of the plays acted in Levingston's playhouse survives.
 
-Williamsburg stands on land that the Paspahegh and Chiskiack peoples used before the English came. Both belonged to Tsenacomoco, a group of nations that spoke related Algonquian languages and that Powhatan led until 1618.
+**Whose land.** Williamsburg stands on land that the Paspahegh and Chiskiack peoples used before the English came. Both belonged to Tsenacomoco, a group of nations that Powhatan led until 1618. Its people spoke Algonquian languages, one family of related Native languages.
 
 **Charleston.** A company of actors put on Thomas Otway's tragedy *The Orphan* in Charleston on January 24, 1735. They acted it in the "Court-room" of a tavern on Broad Street, a room that colony officials rented for trials. The company gave six shows through March.
 
@@ -236,7 +236,7 @@ A ticket cost forty shillings in South Carolina money, which was worth less than
 
 Builders then put up a theatre on Dock Street, made for plays. It opened on February 12, 1736, with George Farquhar's comedy *The Recruiting Officer*.
 
-The Etiwan people lived on the Charleston peninsula until 1672. That year the colony's Grand Council, the group of men who governed it, decided to build the town there. Colonists paid the Etiwan in trade goods to move away. Maurice Mathews, one of the colonists who probably arranged it, wrote in 1680 that the settlers paid the Etiwan "to remove them from their old habitations," meaning their old homes.
+**The Etiwan.** The Etiwan people lived on the Charleston peninsula until 1672. That year the colony's Grand Council, the group of men who governed it, decided to build the town there. Colonists paid the Etiwan in trade goods to move away. Maurice Mathews, one of the colonists who probably arranged it, wrote in 1680 that the settlers paid the Etiwan "to remove them from their old habitations," meaning their old homes.
 
 **Philadelphia.** A company led by Walter Murray and Thomas Kean gave its first show in Philadelphia on August 22, 1749. It acted Joseph Addison's tragedy *Cato* that month.
 <!-- /hb-zoom -->
@@ -251,7 +251,7 @@ The Etiwan people lived on the Charleston peninsula until 1672. That year the co
 
 Anthony Aston told his own story in the preface, the short opening piece, of his play *The Fool's Opera*, printed in 1730 or 1731. He listed himself as "a gentleman, lawyer, poet, actor, soldier, sailer, exciseman, publican," the last two meaning a collector of taxes on goods and a tavern keeper.
 
-In Charleston, he wrote, he "turned player," or actor, "and poet and wrote one play on the subject of the country." That play does not survive.
+In Charleston, he wrote, he "turned player," or actor, "and poet and wrote one play on the subject of the country." That Charleston play was a different play from *The Fool's Opera*, and no copy of it survives.
 
 He then spent about a month in the Albemarle region of North Carolina, where two settlers, Allen and Abraham Waights, supported him. On the way to New York, a storm blew his ship off course to the coast of Virginia. In New York he spent a winter "acting, writing, courting, fighting." Then he sailed to Virginia, and later he went back to England.
 <!-- hb-story:end slug="anthony-aston" -->
@@ -264,7 +264,7 @@ He then spent about a month in the Albemarle region of North Carolina, where two
 
 **He built a theatre beside his bowling alley and stable.**
 
-William Levingston built the first theatre in the English colonies, in Williamsburg, Virginia. Before that, he ran a dancing school that traveled around New Kent County. Charles and Mary Stagg were its star dancers, and they were his indentured servants.
+William Levingston built the first theatre in the English colonies, in Williamsburg, Virginia. Before that, he ran a dancing school that traveled around New Kent County, with Charles and Mary Stagg as its star dancers.
 
 Their contract, dated July 11, 1716, and recorded at Yorktown, set out how the theatre would work. Charles Stagg was an actor, a violin player and a dancer. Mary Stagg was an actor. The three agreed to share the costs of costumes, music and everything else needed to put on plays.
 
@@ -306,9 +306,9 @@ Enslavers gave the people they held time off for the holiday. For many enslaved 
 
 Lawmakers kept passing laws against plays even as paid actors arrived and found audiences. A family company of actors from London landed in Virginia in 1752 and toured the colonies. One reference work describes their *Merchant of Venice* in Williamsburg that year as the beginning of truly professional theatre in America.
 
-Lawmakers in Massachusetts, Pennsylvania and Rhode Island passed laws against plays between 1750 and 1761. In 1774, as the fight with Britain grew, the delegates to the First Continental Congress promised to discourage plays, and shortly before the war the leading company of actors left for the West Indies.
+Lawmakers in Massachusetts, Pennsylvania and Rhode Island passed laws against plays between 1750 and 1761. Even so, professional actors staged the first play by an American writer in 1767. In 1774, as the fight with Britain grew, the delegates to the First Continental Congress promised to discourage plays, and shortly before the war the leading company of actors left for the West Indies.
 
-During the war, British soldiers acted a play in Boston, and American officers acted one at Valley Forge. After the war the actors came back. The first plays by American writers reached the professional stage, and one of them brought a new character to it, the plain-spoken Yankee.
+During the war, British soldiers acted a play in Boston, and American officers acted one at Valley Forge. After the war the actors came back. In 1787 an American comedy brought a new character to the stage, the plain-spoken Yankee.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Why lawmakers banned plays" -->
@@ -366,7 +366,7 @@ Peale painted her dressed as Fidele, and the painting was on view by September 1
 <!-- hb-zoom level="span" label="The first American plays" -->
 Thomas Godfrey wrote a tragedy called *The Prince of Parthia*. The American Company acted it at the Southwark Theatre in Philadelphia on April 24, 1767. It was the first play by an American writer that professional actors performed. Godfrey had died of a disease called yellow fever in 1763, so he never saw it on the stage.
 
-Mercy Otis Warren of Massachusetts wrote plays in which she attacked the policies of the colony's British governor. They were printed without her name. The first appeared in a newspaper, the *Massachusetts Spy*. At the time, Massachusetts law banned acting plays.
+Mercy Otis Warren of Massachusetts wrote plays in which she attacked the policies of the colony's British governor. At the time, Massachusetts law banned acting plays.
 
 **The Yankee.** Royall Tyler wrote a comedy called *The Contrast*. It opened at the John Street Theatre in New York in 1787, the first comedy by an American that professional actors performed. Tyler wrote it after he met Thomas Wignell, the American Company's leading comic actor.
 
@@ -381,7 +381,7 @@ Its leading character, Jonathan, has rough, plain-spoken manners. He is a Yankee
 
 **She wrote five plays against the royal governor and signed none.**
 
-Mercy Otis Warren wrote five plays against the royal government in Massachusetts and signed none of them. Her first, *The Adulateur*, came out in 1772 in the *Massachusetts Spy* newspaper. In it she attacked the policies of the British governor of Massachusetts. *The Defeat* followed in 1773, *The Group* in 1775, *The Blockheads* in 1776 and *The Motley Assembly* in 1779.
+Mercy Otis Warren's first play, *The Adulateur*, came out in 1772 in a newspaper, the *Massachusetts Spy*. *The Defeat* followed in 1773, *The Group* in 1775, *The Blockheads* in 1776 and *The Motley Assembly* in 1779.
 
 The National Women's History Museum's biography of her states that she likely left her name off the plays to avoid being punished, and also so that readers would take her work seriously even though a woman wrote it. In 1805 she published a history of the American Revolution in three volumes.
 <!-- hb-story:end slug="mercy-otis-warren" -->

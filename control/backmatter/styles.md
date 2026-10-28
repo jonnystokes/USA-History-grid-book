@@ -10,12 +10,11 @@
 - Mississippian culture: the name archaeologists give the way of life of Cahokia and the towns like it (Before 1500)
 - annealing: heating copper, hammering it while the heat keeps it soft, letting it cool, and doing the same again and again (Before 1500)
 - sacrifices: people whom others at Cahokia killed on purpose as part of the burial ceremonies (Before 1500)
-- red ochre: a mineral made of iron and oxygen that can be brown, red or yellow (Before 1500)
+- ochre: a mineral made of iron and oxygen that can be brown, red or yellow, of which red ochre is the red kind (Before 1500)
 - porcupine quills: the stiff, hollow spines that cover a porcupine (Before 1500)
 - awl: a pointed tool (Before 1500)
 - larkspur: a flower (Before 1500)
 - mantles: cloaks (The 1500s)
-- arroba: a Spanish weight of about 25 pounds (The 1500s)
 - Algonquian languages: a large family of related languages (The 1500s)
 - quiver: the case that holds arrows (The 1500s)
 - aglet: the small metal tip of a lace, so it can pass through a hole (The 1500s)
@@ -50,12 +49,12 @@
 - mean condition: low rank (The 1600s)
 - selectmen: the elected men who ran each town (The 1600s)
 - flaunting: showing off (The 1600s)
-- garbe: clothing (The 1600s)
 - stand presented: to stand charged before the court (The 1600s)
 - deed: a paper that hands over land (The 1600s)
 - wampum: strings of shell beads (The 1600s)
 - fathom: 6 feet (The 1600s)
 - extravagances: spending too much on show (The 1600s)
+- public humiliation: a day when the people of a town prayed together and humbled themselves before God (The 1600s)
 - encomenderos: Spanish colonists in New Mexico who held the right to collect tribute from Pueblo households (The 1600s)
 - fanega: a Spanish measure of grain (The 1600s)
 - manta: a woven cotton blanket (The 1600s)
@@ -168,7 +167,6 @@
 - hems: the folded-up bottom edges of clothes (1900 to 1950)
 - cuffs: turned-back bands of cloth (1900 to 1950)
 - slacks: loose pants (1900 to 1950)
-- pleats, tucks or gathers: folds or bunches of extra cloth (1900 to 1950)
 - girdles: tight underwear that shaped the waist and hips (1900 to 1950)
 - lapels: the folded-back flaps at the front of a coat below the collar (1900 to 1950)
 - resolution: a statement of what lawmakers want (1900 to 1950)
@@ -263,4 +261,4 @@
 
 - Q: Why did lawmakers and officials make rules about other people's clothes and hair? A: To keep rank where everyone could see it, and to control the people below them: Massachusetts fined people worth less than 200 pounds for wearing silk, South Carolina held enslaved people to coarse cloth in 1740, and a federal official ordered Native men's hair cut in 1902. Since 2019, CROWN Acts in about 30 states have turned the rule around and forbidden punishing people for natural hair, braids, locs or twists.
 - Q: Who made the cloth Americans wore? A: Native weavers first, then enslaved people who grew the cotton and made the indigo, and mill workers in New England. Today almost all of it is sewn in other countries, by workers in places like Bangladesh, and in small Los Angeles shops where workers were paid by the piece until a California law required hourly pay in 2022.
-- Q: Which new materials changed what Americans wore? A: Churro wool after 1598, dyes made from coal tar from 1856, Bakelite in 1907, nylon stockings in 1939 and polyester suits in 1951.
+- Q: Which new materials changed what Americans wore? A: Churro wool, brought in 1598, became the main thread for weaving in New Mexico. Dyes made from coal tar, from 1856, gave clothes new colors such as mauve. In the 1920s "artificial silk" let more women dress in the new styles. Nylon made stockings from 1939, and polyester suits from 1951 could be washed and worn without ironing.

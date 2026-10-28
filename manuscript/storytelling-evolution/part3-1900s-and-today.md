@@ -60,9 +60,9 @@ In 1937, 22 years later, a magazine reported that Wilson had said of the film, "
 
 **The protests.** Protests began at the Los Angeles opening in February 1915 and went on when the film opened in New York the next month. In Boston in April 1915, the managers of the Tremont Theatre refused to sell tickets to William Monroe Trotter, the editor of a newspaper called the *Guardian*, and to others with him. Police arrested Trotter and ten others.
 
-Trotter and the Boston branch of the NAACP, the National Association for the Advancement of Colored People, then led rallies of thousands of people against the film. Officials in the state of Ohio and in Chicago, Denver, Pittsburgh, St. Louis and Minneapolis would not let the film be shown.
+Trotter and the Boston branch of the NAACP, the National Association for the Advancement of Colored People, then led rallies of thousands of people against the film.
 
-In Chicago, Black voters pressed the mayor to act, and on May 17, 1915, he banned showings of the film. Ohio's ban came on March 4, 1916. The mayor of Cedar Rapids, Iowa, was the first of twelve mayors to ban it in 1915. Most cities and states let it play.
+**The bans.** Twelve mayors banned the film in 1915, and the mayor of Cedar Rapids, Iowa, was the first. In Chicago, Black voters pressed the mayor to act, and he banned showings on May 17, 1915. Officials in Denver, Pittsburgh, St. Louis and Minneapolis kept the film out too, and officials in the state of Ohio banned it on March 4, 1916. Most cities and states let it play.
 
 **The money.** No one knows how much people paid to see the film. The company that made it reported $4.8 million by the end of 1917. The historian Richard Schickel estimates more than $60 million from its first run. No American film earned more until *Gone with the Wind* in 1939.
 
@@ -97,7 +97,7 @@ Cody filmed in the Badlands and the Black Hills of South Dakota. He got $50,000 
 
 The film was called *The Indian Wars*. Only a few minutes of it survive. Ben Black Elk later said that "the government put a ban on it" and destroyed it. No surviving record names the official who did so.
 
-**By 1915:** Hollywood had its first film studio, about 8,000 nickelodeons were selling films for a nickel, and the longest film yet made showed Klansmen lynching a Black man.
+**By 1915:** Hollywood had its first film studio, the Supreme Court had ruled that films had no protection as free speech, and the longest film yet made showed Klansmen lynching a Black man.
 <!-- /hb-zoom -->
 
 <!-- hb-story:start slug="bert-williams" name="Bert Williams" movie="" kind="famous" status="verified" -->
@@ -110,7 +110,7 @@ The film was called *The Indian Wars*. Only a few minutes of it survive. Ben Bla
 
 Bert Williams was a Black comedian who blacked his face to work, even as a star on Broadway. He moved to the United States at ten. From 1895 he worked with another Black comedian, George Walker. The two men wore burnt-cork blackface, as white minstrels did.
 
-They billed themselves under a stage name that used an insult for Black people, to set themselves apart from the many white performers in blackface. On stage Williams played the slow-witted, shuffling Black man that was then a standard part on the minstrel and vaudeville stage.
+Their stage name paired the word "Real" with an insult for Black people. It told audiences that these two were real Black men, unlike the many white performers in blackface. On stage Williams played the slow-witted, shuffling Black man that was then a standard part on the minstrel and vaudeville stage.
 
 In August 1900, during a riot in New York, a white mob pulled Walker off a streetcar and beat him. In 1903 the two men starred in *In Dahomey*, a musical with an all-Black cast. It played on Broadway and then at Buckingham Palace in London.
 
@@ -182,9 +182,9 @@ Radio drama was acting for listeners who could not see the actors. Two white men
 
 **The War of the Worlds.** Orson Welles, who was 23, and his Mercury Theatre on the Air performed H. G. Wells's novel *The War of the Worlds* on the CBS radio network on October 30, 1938. They acted it as a string of fake news bulletins about Martians landing in New Jersey. The announcement that it was a play came almost 40 minutes in.
 
-The next morning, newspaper stories across the country described a national panic. The *New York Times* ran an opinion piece headed "Terror by Radio." Later researchers, among them Jefferson Pooley and Michael J. Socolow, writing in *Slate* in 2013, checked the story.
+The next morning, newspaper stories across the country described a national panic. The *New York Times* ran an opinion piece headed "Terror by Radio." Later researchers found that the panic was far smaller than those stories said. Jefferson Pooley and Michael J. Socolow, writing in *Slate* in 2013, called it a myth, and they wrote that newspapers, which had been losing advertising money to radio, blew the story up.
 
-That night workers for C. E. Hooper, a company that counted radio listeners, had telephoned 5,000 homes, and 2 percent said they were listening to the Welles program. Some listeners were frightened and called police stations and newspapers. Six weeks later, Princeton researchers checked six New York City hospitals and found no one brought in because of the broadcast. No death has ever been traced to it.
+That night workers for C. E. Hooper, a company that counted radio listeners, had telephoned 5,000 homes. Only 2 percent said they were listening to the Welles program, and none said they were hearing a news broadcast. Some listeners were frightened and called police stations and newspapers. Six weeks later, Princeton researchers checked six New York City hospitals and found no one brought in because of the broadcast. No death has ever been traced to it.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The Federal Theatre Project, 1935 to 1939" -->
@@ -245,7 +245,7 @@ Twenty years later, on June 8, 1948, the NBC network began broadcasting a comedy
 **If you remember one thing:** Films and radio carried the old minstrel parts to millions of people, and studio rules and state laws kept actors of color out of love scenes with white actors.
 **One number:** about 40 million. That many people listened to one storyline of *Amos 'n' Andy*, in which two white men played Black characters, in 1930 and 1931. In 1931 more than 700,000 Black Americans signed petitions against the show.
 
-**Next:** After 1950 a House committee's questions about communism cost hundreds of writers, directors and actors their work.
+**Next:** Ten Hollywood writers and directors refused in 1947 to tell a House committee whether they belonged to the Communist Party.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1900-1950" -->
 
@@ -336,7 +336,7 @@ Lucille Ball became the first woman to run a major television studio in 1962. Th
 
 She starred in a radio comedy, *My Favorite Husband*, on CBS in 1948. Her real husband was Desi Arnaz, a Cuban American bandleader and actor. When CBS made *I Love Lucy*, the network's executives at first did not want Arnaz, a Cuban, cast as Ball's husband.
 
-*I Love Lucy* began on October 15, 1951. The episode in which Lucy has a baby aired on January 19, 1953, and about 44 million people watched it. In 1957 Desilu, the company Ball and Arnaz owned, bought the old RKO studios for more than $6 million. Ball had once worked there as a contract actress.
+The episode of *I Love Lucy* in which Lucy has a baby aired on January 19, 1953, and about 44 million people watched it. In 1957 Desilu, the company Ball and Arnaz owned, bought the old RKO studios for more than $6 million. Ball had once worked there as a contract actress.
 
 **Running the studio.** Ball and Arnaz divorced in 1960. In November 1962 she bought his share of Desilu and became its president. Desilu's staff developed the television series *Star Trek* and *Mission: Impossible*. She agreed in 1967 to sell Desilu for $17 million, and the sale closed in 1968.
 <!-- hb-story:end slug="lucille-ball" -->
@@ -425,7 +425,7 @@ The physicist William Higinbotham built *Tennis for Two* in 1958 for a public ex
 **If you remember one thing:** Actors lost work for their politics after 1947, and actors of color won the top awards while studios went on offering them narrow parts.
 **The question this era leaves open:** Game makers had begun to hire actors. Would the people who acted in games be paid like film and television actors?
 
-**Next:** After 2000 actors in marker suits performed whole stories in games, and game actors went on strike twice.
+**Next:** The English actor Andy Serkis played the creature Gollum in a marker suit, and people argued over whether that was acting.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="1950-2000" -->
 
@@ -462,7 +462,7 @@ Other actors followed. Tom Hanks played several characters this way in *The Pola
 
 **He called the animators' work "painting digital makeup."**
 
-After Andy Serkis played Gollum, people argued in public over whether an actor whose body is replaced on screen by a computer image is still acting. He played Gollum in *The Lord of the Rings* on set with the other actors, and he also gave Gollum his voice. For the second and third films, the artists redesigned Gollum's face to look more like Serkis's.
+After Andy Serkis played Gollum, people argued in public over whether an actor whose body is replaced on screen by a computer image is still acting. Serkis also gave Gollum his voice, and for the second and third films the artists redesigned Gollum's face to look more like his.
 
 **The Oscar campaign.** The films' producer, Barrie M. Osborne, argued that Serkis should be nominated for an Academy Award as an actor, because his voice, his body movements and his facial expressions were on screen. In 2011 staff at the studio 20th Century Fox campaigned for a nomination for his work as the ape Caesar in *Rise of the Planet of the Apes*.
 
@@ -489,7 +489,7 @@ The HBO television version began on January 15, 2023, with Pedro Pascal as Joel 
 
 Ashley Johnson played Ellie in *The Last of Us*, and her acting changed who Ellie is. She began acting at six, as Chrissy Seaver on the comedy *Growing Pains*, from 1990 to 1992. By the time she was 12 she had been in the casts of eight television series.
 
-In *The Last of Us*, she acted most of the part on a motion-capture stage opposite Troy Baker. She persuaded the director, Neil Druckmann, to rewrite Ellie as tougher and more independent. She said, "There were some days when we would shoot things that even at my age made me feel a little uncomfortable."
+She persuaded the game's director, Neil Druckmann, to rewrite Ellie as tougher and more independent. She said, "There were some days when we would shoot things that even at my age made me feel a little uncomfortable."
 
 **Her face.** Her own face shaped the character. The actor Elliot Page complained that the first design of Ellie looked like Page. The studio's artists then redrew Ellie to look younger and more like Johnson.
 
@@ -497,15 +497,15 @@ Johnson won the British Academy Games Award for Performer for the 2013 game. She
 <!-- hb-story:end slug="ashley-johnson" -->
 
 <!-- hb-zoom level="span" label="Streaming, and fewer people in movie theatres" -->
-Streaming means watching a film or show sent over the internet while it plays, instead of on a disc or at a set broadcast time. Netflix, a company that then mailed DVDs to renters, began its streaming service on January 16, 2007, with 1,000 titles.
+Since 2007 people have watched films and series streamed into their homes, and moviegoers now spend less at theatres than they did before 2020. Streaming means watching a film or show sent over the internet while it plays, instead of on a disc or at a set broadcast time. Netflix, a company that then mailed DVDs to renters, began its streaming service in January 2007, with 1,000 titles.
 
-Every episode of *Lilyhammer*, a Norwegian series Netflix had bought, came out on the same day, February 8, 2012. *House of Cards*, the first series Netflix had ordered made for itself, came out on February 1, 2013. By 2026 Netflix had 325 million paid memberships in more than 190 countries.
+Every episode of *Lilyhammer*, a Norwegian series Netflix had bought, came out on the same day in February 2012. *House of Cards*, the first series Netflix had ordered made for itself, came out in February 2013. By 2026 Netflix had 325 million paid memberships in more than 190 countries.
 
-**The empty theatres.** Theatres in North America had their lowest ticket sales since 1998 over the weekend of March 13 to 15, 2020, as the COVID-19 disease spread. On March 16 Universal executives announced that three new films would be sold for home viewing from March 20. Disney put *Mulan* on its own streaming service instead of in American theatres.
+**The empty theatres.** Theatres in North America had their lowest ticket sales since 1998 over one weekend in March 2020, as the COVID-19 disease spread. Days later, Universal executives announced that three new films would be sold for home viewing within the week. Disney put *Mulan* on its own streaming service instead of in American theatres.
 
-On July 28, 2020, executives at the AMC theatre chain and at Universal agreed that Universal could sell a film for home viewing after at least 17 days in AMC theatres.
+In July 2020 executives at the AMC theatre chain and at Universal agreed that Universal could sell a film for home viewing after at least 17 days in AMC theatres.
 
-Moviegoers in the United States and Canada spent $8.87 billion on tickets in 2025, according to the research company Comscore. That was 1.5 percent more than in 2024, and 22 percent less than the $11.4 billion they spent in 2019. They bought about 780 million tickets in 2025, about 5 percent fewer than the more than 820 million of 2024.
+**Fewer tickets.** Moviegoers in the United States and Canada bought about 780 million tickets in 2025, about 5 percent fewer than the more than 820 million of 2024, according to the research company Comscore. Because the average ticket cost more, they still spent 1.5 percent more than in 2024, a total of $8.87 billion. That was 22 percent less than the $11.4 billion they spent in 2019, before the theatres closed.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Broadway dark for eighteen months" -->
@@ -525,19 +525,19 @@ From May 2007, makers of videos in YouTube's Partner Program got a share of the 
 
 An app called Musical.ly was merged into TikTok, an app owned by the company ByteDance, on August 2, 2018. That October, TikTok was the most downloaded app in the United States.
 
-**By 2021:** Actors in marker suits played creatures and game characters, people watched films and series streamed into their homes, and Broadway had just reopened after 18 months dark.
+**By May 2026:** Actors in marker suits played creatures and game characters, Netflix had 325 million paid memberships, and Broadway had just finished the season that took in the most money on record.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="Who is on screen, and who votes on the awards" -->
 All 20 actors nominated for Academy Awards on January 15, 2015, were white. That day April Reign started the Twitter hashtag #OscarsSoWhite, a tag that people added to their posts to join the protest. On January 14, 2016, all 20 were white again. The director Spike Lee and the actress Jada Pinkett Smith said they would stay away from the ceremony.
 
-**The voters.** The Oscars are voted on by members of the Academy of Motion Picture Arts and Sciences. In 2015 its members were 92 percent white and 75 percent men. Its president, Cheryl Boone Isaacs, promised in 2016 to double the number of women and people of color by 2020.
+**The voters.** Members of the Academy of Motion Picture Arts and Sciences vote on the Oscars, and in 2015 most of them were white men. That year 92 percent of the members were white, and three of every four were men. In 2016 the Academy's president, Cheryl Boone Isaacs, promised to double the number of women and people of color among its members by 2020. The Academy then had about 6,000 members.
 
-By 2019 the members were 32 percent women and 16 percent people of color, up from 25 percent and 8 percent in 2015. The Academy had about 6,000 members in 2016. The Associated Press reported in June 2026 that after that year's invitations, the Academy could have 11,319 members, 75 percent of them white and 64 percent men.
+By 2019 women were 32 percent of the members, up from 25 percent, and people of color were 16 percent, twice the 8 percent of 2015. The Associated Press reported in June 2026 that if everyone invited that year joined, the Academy would have 11,319 members. Of them, 75 percent would be white, down from 92 percent in 2015, and 64 percent would be men.
 
-**The count.** Researchers at the USC Annenberg Inclusion Initiative count the speaking characters in each year's 100 most popular films. In the films of 2024, they reported in August 2025, 63.6 percent of speaking characters were white and 13.2 percent were Black. Another 13.5 percent were Asian, 3.1 percent were Hispanic or Latino, and fewer than 1 percent were American Indian or Alaska Native.
+**The count.** Hispanic and Native characters were rare in the most popular films of 2024. Researchers at the USC Annenberg Inclusion Initiative count the speaking characters in each year's 100 most popular films. In the films of 2024, they reported in August 2025, 63.6 percent of speaking characters were white, 13.2 percent Black and 13.5 percent Asian. Only 3.1 percent were Hispanic or Latino, and fewer than 1 percent were American Indian or Alaska Native. Ninety-eight of the 100 films had no Native American girls or women.
 
-Asian people are about 6.3 percent of the US population, the researchers note. Twenty-nine of the 100 films had no Asian speaking characters at all. Ninety-eight had no Native American girls or women.
+Asian people are about 6.3 percent of the US population, so Asian characters had about twice that share overall. They were bunched into some of the films, though: 29 of the 100 films had no Asian speaking characters at all.
 
 **Reservation Dogs.** *Reservation Dogs* ran on the Hulu streaming service from August 9, 2021, to September 27, 2023. Sterlin Harjo, a filmmaker from Oklahoma, created it with Taika Waititi. It is about four Native teenagers in a small town in the Muscogee Nation. It was the first American series with all Native writers and directors and an almost all Native cast.
 
@@ -545,9 +545,9 @@ Asian people are about 6.3 percent of the US population, the researchers note. T
 
 Under a 1921 law, local judges put many Osage adults' money under white "guardians," men who controlled it for them. Guardians and some of the men who married Osage women stole that money. Between about 1920 and 1925, more than 60 Osage headright holders died in murders and suspicious deaths, by the Osage Nation's count. The FBI counts at least two dozen.
 
-The cattleman William Hale ordered the murders of Anna Brown and her family, so that their headrights would pass to his nephew, Ernest Burkhart. Burkhart was married to Anna's sister Mollie. Anna Brown was shot on May 22, 1921. Her mother, Lizzie Q. Kyle, died in July 1921, and poison was suspected. Her cousin Henry Roan was shot in January 1923.
+The cattleman William Hale ordered the murders of the family of Mollie Kyle, an Osage woman, so that their headrights would pass to Hale's nephew, Ernest Burkhart, Mollie's husband. Mollie's sister Anna Brown was shot on May 22, 1921. The sisters' mother, Lizzie Q. Kyle, died in July 1921, and poison was suspected. Their cousin Henry Roan was shot in January 1923.
 
-On March 10, 1923, the house of her sister Rita and Rita's husband, Bill Smith, was blown up, killing them and their servant, Nettie Brookshire. Burkhart pleaded guilty in 1926, and Hale was found guilty in 1929. Both were sentenced to life in prison.
+On March 10, 1923, the house of Mollie's sister Rita and Rita's husband, Bill Smith, was blown up, killing them and their servant, Nettie Brookshire. Ernest Burkhart pleaded guilty in 1926, and Hale was found guilty in 1929. Both were sentenced to life in prison.
 
 **Osage actors.** The director, Martin Scorsese, met with the chief of the Osage Nation, Geoffrey Standing Bear. The film's makers held a meeting with about 200 Osage people. They cast Osage actors in at least 40 parts and hired Christopher Côté to teach the actors the Osage language.
 
@@ -578,27 +578,25 @@ He watched the film *Crazy Rich Asians* in 2018. "I was sitting in the theatre, 
 <!-- hb-story:end slug="ke-huy-quan" -->
 
 <!-- hb-zoom level="span" label="#MeToo in Hollywood: Harvey Weinstein" -->
-Reporters at *The New York Times* and *The New Yorker* published accounts from more than a dozen women in October 2017. The women said the film producer Harvey Weinstein had sexually harassed them, meaning unwanted sexual remarks, demands or touching. Some said he had sexually assaulted them, meaning attacked them sexually, or raped them, meaning forced them into sex.
+Actresses were among the women who accused the film producer Harvey Weinstein of sexual attacks, and juries in New York and Los Angeles later found him guilty of rape and other sex crimes. Reporters at *The New York Times* and *The New Yorker* published the first accounts, from more than a dozen women, in October 2017. The women said Weinstein had sexually harassed them, meaning unwanted sexual remarks, demands or touching. Some said he had sexually assaulted them, meaning attacked them sexually, or raped them, meaning forced them into sex.
 
-By October 31, 2017, more than 80 women had made such accusations. Leaders of his own company fired him, and the leaders of the Academy expelled him. Weinstein said he had never had sex with anyone against her will.
+By the end of that month, more than 80 women had made such accusations. Leaders of his own company fired him, and the leaders of the Academy expelled him. Weinstein said he had never had sex with anyone against her will.
 
-**The spies.** The reporter Ronan Farrow reported in *The New Yorker* in November 2017 that Weinstein had hired a private spy company called Black Cube. Its investigators used false names to follow reporters and actresses. The people they followed included the actress Rose McGowan, who had said Weinstein raped her.
+**The spies.** A month later a reporter for *The New Yorker* reported that Weinstein had hired a private spy company called Black Cube. Its investigators used false names to follow reporters and actresses. The people they followed included the actress Rose McGowan, who had said Weinstein raped her.
 
-**The New York trial.** A New York jury found Weinstein guilty on February 24, 2020, on two of the five charges against him: rape, and forcing oral sex on a woman. The jury found him not guilty on the other three, including the charge called predatory sexual assault. On March 11, 2020, a judge sentenced him to 23 years in prison.
+**The first trials.** A New York jury found Weinstein guilty in 2020 on two of the five charges against him: rape, and forcing oral sex on a woman. The jury found him not guilty on the other three, including the charge called predatory sexual assault. A judge sentenced him to 23 years in prison.
 
-**Los Angeles.** A Los Angeles jury found him guilty on December 19, 2022, on three of seven charges, for attacks in 2013: rape, forcing oral sex on a woman, and a third charge listed as sexual misconduct. The jury did not convict him on the other four. A judge sentenced him to 16 years.
+A Los Angeles jury found him guilty in 2022 on three of seven charges, for attacks in 2013: rape, forcing oral sex on a woman, and a third charge listed as sexual misconduct. The jury did not convict him on the other four. A judge sentenced him to 16 years.
 
-**The new trial.** The judges of New York's highest court threw out the two New York guilty decisions on April 25, 2024. They found that the trial judge had made "egregious errors," meaning very serious mistakes, and they ordered a new trial. Weinstein stayed in prison because of the California guilty decision.
+**The new trial.** In 2024 the judges of New York's highest court threw out the two New York guilty decisions. They found that the trial judge had made "egregious errors," meaning very serious mistakes, and they ordered a new trial. Weinstein stayed in prison because of the California guilty decision.
 
-At the new trial, on June 11, 2025, a jury found him guilty of forcing oral sex on Miriam Haley, a former production assistant, a helper on a film crew, in his Manhattan apartment in 2006. The jury found him not guilty on the charge that involved the model Kaja Sokola.
+At the new trial in 2025, a jury found him guilty of forcing oral sex on Miriam Haley, a former production assistant, a helper on a film crew, in his Manhattan apartment in 2006. The jury found him not guilty on the charge that involved the model Kaja Sokola. Two juries in a row could not agree on the charge that he raped the actress Jessica Mann, and in 2026 Manhattan's chief prosecutor announced that there would be no further trial on it.
 
-Two juries in a row could not agree on the charge that he raped the actress Jessica Mann. On June 25, 2026, Alvin Bragg, the chief prosecutor of Manhattan, announced that there would be no further trial on that charge.
+**The sentence.** In September 2026 a judge, Curtis Farber, sentenced Weinstein to 15 years in prison for the attack on Haley. He told Weinstein, "You took what you wanted by force, and you have never accepted responsibility." Haley told the court that what he did to her was "a life sentence for me."
 
-**The sentence.** Justice Curtis Farber sentenced Weinstein to 15 years in prison on September 23, 2026. He told him, "You took what you wanted by force, and you have never accepted responsibility." Haley told the court that what he did to her was "a life sentence for me."
+California judges had upheld his Los Angeles guilty decision earlier in 2026 but ordered a new sentence, and the California Supreme Court's justices declined to review the case. As of late September 2026, no date had been set for the new sentence.
 
-In June 2026, California judges had upheld his Los Angeles guilty decision but ordered a new sentence. On September 23, 2026, the California Supreme Court's justices declined to review the case. As of late September 2026, no date had been set for the new sentence.
-
-**By 2023:** Michelle Yeoh and Ke Huy Quan had won Academy Awards for acting, and Harvey Weinstein had been in prison since 2020.
+**By September 2026:** Michelle Yeoh and Ke Huy Quan had won Academy Awards for acting, Lily Gladstone had become the first Native American nominated for Best Actress, and Harvey Weinstein was in prison.
 <!-- /hb-zoom -->
 
 <!-- hb-zoom level="span" label="The 2023 strikes, and scanning" -->
@@ -629,7 +627,7 @@ Inside, dozens of background actors stood one at a time in front of cameras moun
 
 Each scan took about 15 minutes, and a digital copy of each actor was made from it. Rubalcaba earned the union rate for background actors, $187 a day. She would not be paid for any use of the scan, and she did not give permission for her copy to appear in any scene. "What if I don't want to be on MarioVision, or SarahVision?" she asked. "I fear that AI is eventually going to weed out background actors. They won't have any use for us anymore."
 
-Disney did not answer NPR's questions, and no record shows whether her scan was ever used. Her account came out in August 2023, during the actors' strike. The contract that ended the strike requires consent before a studio makes or uses a replica. It also forbids studios to use replicas in place of hiring background actors.
+Disney did not answer NPR's questions, and no record shows whether her scan was ever used. Her account came out in August 2023, during the actors' strike that won the rules on consent for replicas.
 <!-- hb-story:end slug="alexandria-rubalcaba" -->
 
 <!-- hb-zoom level="span" label="The video game strike, 2024 to 2025" -->
@@ -667,7 +665,7 @@ OpenAI, the union, Cranston and several talent agencies put out a joint statemen
 
 <!-- hb-zoom level="era" label="Chapter closing" -->
 **The three questions, answered**
-- Who tried to stop Americans from acting, and why? Spanish priests burned Pueblo masks to end the ceremonies, and lawmakers from Massachusetts to the Continental Congress banned plays as wasteful or bad for morals. Later, police arrested Black actors for playing Shakespeare, federal officials made Native dances crimes, and studio heads blacklisted hundreds of film workers over communism.
+- Who tried to stop Americans from acting, and why? A Virginia court tried three actors in 1665 on one man's complaint, and the record does not say why he objected. Spanish priests burned Pueblo masks to end the ceremonies. Massachusetts lawmakers banned plays, saying they made people less moral and less religious. The delegates to the Continental Congress promised to discourage plays as wasteful, then asked the states to stop them. Later, police arrested Black actors after a rival white manager, by one account, started a riot to destroy their company. Federal officials made Native dances crimes, and missionaries in Alaska called Yup'ik masked dances "heathen rites." Studio heads blacklisted hundreds of film workers over communism.
 - Why did white actors play Black, Asian and Native people for so long? White audiences paid to laugh at blackface from 1828 on, and producers carried the old minstrel parts into film and radio. The studio heads' own Code and state laws against marriage between races kept actors of color out of leading parts.
 - Who controls a computer copy of an actor's face and voice? Since the strikes of 2023 and 2024 to 2025, union contracts say a studio or game company must get the performer's consent before it makes or uses one, and the game contract also requires pay. Lawmakers in Tennessee and California passed laws of their own in 2024, and as of September 2026 Congress had passed no national law.
 
@@ -684,6 +682,6 @@ OpenAI, the union, Cranston and several talent agencies put out a joint statemen
 
 **Where to go:** Ford's Theatre in Washington, D.C., where John Wilkes Booth shot President Lincoln in 1865, held its first public performance since that night in 1968.
 
-**Next:** Chapter 35, Styles. It asks how Americans' clothes, hair and homes changed, and what those things were made of.
+**Next:** Chapter 35, Styles. It asks who made the rules about Americans' clothes and hair, and who made the cloth they wore.
 <!-- /hb-zoom -->
 <!-- hb-time:end id="2000-today" -->
