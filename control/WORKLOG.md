@@ -5347,3 +5347,4 @@ Ids: T-753 ac31df5d4b07f0b2a, T-754 a0e0438186db42128, T-755 a2512a5413109ccaf, 
 09:45 AM T-757 fix DONE (17/21; 9 closings synced; 111/111 answers match).
 NOTE: commit 827c590 (T-757) also swept in-progress edits of manuscript/_backmatter/02-glossary.md by T-753 (my 'git add manuscript' was too wide). The file is not harmed; T-753's finished work lands in its own commit. Both are Opus agents.
 09:50 AM T-753 glossary fix DONE (16/19; 4,132 entries; 478 references corrected to the first chapter).
+09:51 AM T-756 places fix DONE (394 -> 342). ALL AGENT WORK DONE. Final build next.

@@ -1,6 +1,6 @@
 # Who wrote what: Opus and Fable
 
-Generated October 28, 2026, 12:10 AM by `python tools/who_wrote_what.py` from the git history.
+Generated October 28, 2026, 10:01 AM by `python tools/who_wrote_what.py` from the git history.
 
 **What is listed.** Every project file changed from the start of the session that ran the readability edit (6:42 PM, October 26, 2026) to now, where the writer is on record. Each agent's work was committed under its task number, and each agent's model is confirmed by its own transcript (or, for T-650 to T-658, by the work log). Files the main session wrote are dated by commit: it ran on Fable until 11:18 PM on October 26 and on Opus from 3:11 AM on October 27.
 
@@ -16,48 +16,48 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 | Folder | Writers, in order |
 |---|---|
-| `manuscript\_backmatter\` | Fable agent T-664 |
-| `manuscript\_frontmatter\` | Fable agent T-664 |
-| `manuscript\_introduction\` | Fable agent T-664 |
+| `manuscript\_backmatter\` | Fable agent T-664, then Opus director, then Opus agent T-749, then Opus agent T-750, then Opus agent T-751, then Opus agent T-748, then Opus agent T-752, then Opus agent T-755, then Opus agent T-754, then Opus agent T-757, then Opus agent T-753, then Opus agent T-756 |
+| `manuscript\_frontmatter\` | Fable agent T-664, then Opus agent T-729 |
+| `manuscript\_introduction\` | Fable agent T-664, then Opus agent T-729 |
 | `manuscript\america-world\` | Opus agent T-650, then Opus agent T-692, then Opus agent T-728 |
 | `manuscript\art\` | Opus agent T-650, then Opus agent T-676, then Opus agent T-721 |
 | `manuscript\big-business\` | Opus agent T-691, then Opus agent T-720 |
-| `manuscript\city-building\` | Opus agent T-690, then Opus agent T-727 |
-| `manuscript\crime-justice\` | Opus agent T-651, then Opus agent T-671, then Opus agent T-718 |
-| `manuscript\disasters\` | Opus agent T-651, then Opus agent T-679, then Opus agent T-711 |
-| `manuscript\drugs-alcohol\` | Opus agent T-651, then Opus agent T-683 |
+| `manuscript\city-building\` | Opus agent T-690, then Opus agent T-727, then Opus agent T-757 |
+| `manuscript\crime-justice\` | Opus agent T-651, then Opus agent T-671, then Opus agent T-718, then Opus agent T-757 |
+| `manuscript\disasters\` | Opus agent T-651, then Opus agent T-679, then Opus agent T-711, then Opus director, then Opus agent T-757 |
+| `manuscript\drugs-alcohol\` | Opus agent T-651, then Opus agent T-683, then Opus agent T-731, then Opus agent T-752 |
 | `manuscript\economy\` | Opus agent T-652, then Opus agent T-696, then Opus agent T-724 |
-| `manuscript\education\` | Opus agent T-652, then Opus agent T-674, then Opus agent T-713 |
+| `manuscript\education\` | Opus agent T-652, then Opus agent T-674, then Opus agent T-713, then Opus director |
 | `manuscript\elements\` | Opus agent T-693, then Opus agent T-722 |
-| `manuscript\energy\` | Opus agent T-698, then Opus agent T-725 |
-| `manuscript\exploration\` | Opus agent T-652, then Fable agent T-661 |
+| `manuscript\energy\` | Opus agent T-698, then Opus agent T-725, then Opus agent T-752 |
+| `manuscript\exploration\` | Opus agent T-652, then Fable agent T-661, then Opus agent T-729 |
 | `manuscript\food-farming\` | Opus agent T-653, then Opus agent T-699, then Opus agent T-719 |
-| `manuscript\government-politics\` | Opus agent T-653, then Fable agent T-662, then Opus agent T-716 |
-| `manuscript\health\` | Opus agent T-682, then Opus agent T-711 |
-| `manuscript\holidays\` | Fable agent T-663, then Opus agent T-714 |
+| `manuscript\government-politics\` | Opus agent T-653, then Fable agent T-662, then Opus agent T-716, then Opus agent T-752, then Opus agent T-757 |
+| `manuscript\health\` | Opus agent T-682, then Opus agent T-711, then Opus director, then Opus agent T-757 |
+| `manuscript\holidays\` | Fable agent T-663, then Opus agent T-714, then Opus director |
 | `manuscript\home-family\` | Opus agent T-653, then Opus agent T-703, then Opus agent T-727 |
-| `manuscript\immigration\` | Opus agent T-654, then Opus agent T-687, then Opus agent T-723 |
+| `manuscript\immigration\` | Opus agent T-654, then Opus agent T-687, then Opus agent T-723, then Opus director |
 | `manuscript\land-environment\` | Opus agent T-688, then Opus agent T-726 |
-| `manuscript\landmarks\` | Opus agent T-701, then Opus agent T-722 |
+| `manuscript\landmarks\` | Opus agent T-701, then Opus agent T-722, then Opus agent T-757 |
 | `manuscript\marketplace\` | Opus agent T-654, then Opus agent T-697, then Opus agent T-720 |
-| `manuscript\migration\` | Opus agent T-654, then Opus agent T-670, then Opus agent T-723 |
+| `manuscript\migration\` | Opus agent T-654, then Opus agent T-670, then Opus agent T-723, then Opus director |
 | `manuscript\money\` | Opus agent T-654, then Opus agent T-700, then Opus agent T-724 |
-| `manuscript\music\` | Opus agent T-655, then Opus agent T-677 |
+| `manuscript\music\` | Opus agent T-655, then Opus agent T-677, then Opus agent T-733 |
 | `manuscript\native-nations\` | Opus agent T-655, then Opus agent T-685, then Opus agent T-726 |
-| `manuscript\news-communication\` | Opus agent T-655, then Opus agent T-680 |
-| `manuscript\religion\` | Opus agent T-675, then Opus agent T-715 |
-| `manuscript\rights-movements\` | Opus agent T-655, then Opus agent T-673, then Opus agent T-710 |
+| `manuscript\news-communication\` | Opus agent T-655, then Opus agent T-680, then Opus agent T-732 |
+| `manuscript\religion\` | Opus agent T-675, then Opus agent T-715, then Opus director |
+| `manuscript\rights-movements\` | Opus agent T-655, then Opus agent T-673, then Opus agent T-710, then Opus agent T-752 |
 | `manuscript\science\` | Opus agent T-656, then Opus agent T-689, then Opus agent T-717 |
-| `manuscript\slavery-freedom\` | Opus agent T-656, then Opus agent T-684 |
-| `manuscript\sports-play\` | Opus agent T-672, then Opus agent T-714 |
-| `manuscript\storytelling-evolution\` | Opus agent T-656, then Opus agent T-681, then Opus agent T-712 |
+| `manuscript\slavery-freedom\` | Opus agent T-656, then Opus agent T-684, then Opus agent T-730, then Opus agent T-752 |
+| `manuscript\sports-play\` | Opus agent T-672, then Opus agent T-714, then Opus director, then Opus agent T-757 |
+| `manuscript\storytelling-evolution\` | Opus agent T-656, then Opus agent T-681, then Opus agent T-712, then Opus agent T-752, then Opus director, then Opus agent T-757 |
 | `manuscript\styles\` | Opus agent T-656, then Opus agent T-686, then Opus agent T-712 |
 | `manuscript\technology\` | Opus agent T-656, then Opus agent T-695, then Opus agent T-717 |
-| `manuscript\transportation\` | Opus agent T-702, then Opus agent T-725 |
-| `manuscript\war\` | Opus agent T-657, then Opus agent T-678, then Opus agent T-728 |
+| `manuscript\transportation\` | Opus agent T-702, then Opus agent T-725, then Opus agent T-752 |
+| `manuscript\war\` | Opus agent T-657, then Opus agent T-678, then Opus agent T-728, then Opus director, then Opus agent T-757 |
 | `manuscript\work-workers\` | Opus agent T-657, then Opus agent T-694, then Opus agent T-719 |
 
-## Written by Fable only (26 files)
+## Written by Fable only (19 files)
 
 **The project folder itself**
 
@@ -89,30 +89,11 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-663-readability.md`: Fable agent T-663 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-664-frontmatter.md`: Fable agent T-664 (new file)
 
-**manuscript\_backmatter\**
-
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\01-how-we-know.md`: Fable agent T-664 (new file)
-
-**manuscript\_frontmatter\**
-
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\01-before-you-start.md`: Fable agent T-664 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\02-four-ways-to-read.md`: Fable agent T-664 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\03-ten-minute-history.md`: Fable agent T-664 (new file)
-
-**manuscript\_introduction\**
-
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_introduction\how-we-know.md`: Fable agent T-664 (older file, changed)
-
-**manuscript\exploration\**
-
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part1-before-1800.md`: Fable agent T-661 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part3-1900s-and-today.md`: Fable agent T-661 (older file, changed)
-
 **tools\**
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\measure_readability.py`: Fable director (new file)
 
-## Written by Fable, then edited by Opus (or the other way round) (12 files)
+## Written by Fable, then edited by Opus (or the other way round) (19 files)
 
 **control\**
 
@@ -124,27 +105,43 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\READABILITY-WAVE2-DISPATCH.md`: Fable director, then Opus director (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\READABILITY.md`: Fable director, then Opus director (new file)
 
+**manuscript\_backmatter\**
+
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\01-how-we-know.md`: Fable agent T-664, then Opus agent T-757 (new file)
+
+**manuscript\_frontmatter\**
+
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\01-before-you-start.md`: Fable agent T-664, then Opus agent T-729 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\02-four-ways-to-read.md`: Fable agent T-664, then Opus agent T-729 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_frontmatter\03-ten-minute-history.md`: Fable agent T-664, then Opus agent T-729 (new file)
+
+**manuscript\_introduction\**
+
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_introduction\how-we-know.md`: Fable agent T-664, then Opus agent T-729 (older file, changed)
+
 **manuscript\exploration\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part2-1800s.md`: Opus agent T-652, then Fable agent T-661 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part1-before-1800.md`: Fable agent T-661, then Opus agent T-729 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part2-1800s.md`: Opus agent T-652, then Fable agent T-661, then Opus agent T-729 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\exploration\part3-1900s-and-today.md`: Fable agent T-661, then Opus agent T-729 (older file, changed)
 
 **manuscript\government-politics\**
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\government-politics\part1-before-1800.md`: Fable agent T-662, then Opus agent T-716 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\government-politics\part2-1800s.md`: Fable agent T-662, then Opus agent T-716 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\government-politics\part3-1900s-and-today.md`: Opus agent T-653, then Fable agent T-662, then Opus agent T-716 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\government-politics\part3-1900s-and-today.md`: Opus agent T-653, then Fable agent T-662, then Opus agent T-716, then Opus agent T-752, then Opus agent T-757 (older file, changed)
 
 **manuscript\holidays\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\holidays\part1-before-1800.md`: Fable agent T-663, then Opus agent T-714 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\holidays\part1-before-1800.md`: Fable agent T-663, then Opus agent T-714, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\holidays\part2-1800s.md`: Fable agent T-663, then Opus agent T-714 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\holidays\part3-1900s-and-today.md`: Fable agent T-663, then Opus agent T-714 (older file, changed)
 
 **research\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-exploration.md`: Opus agent T-652, then Fable agent T-661 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-exploration.md`: Opus agent T-652, then Fable agent T-661, then Opus agent T-729 (older file, changed)
 
-## Written by Opus only (252 files)
+## Written by Opus only (270 files)
 
 **control\**
 
@@ -155,43 +152,44 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\america-world.md`: Opus agent T-692, then Opus agent T-728 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\art.md`: Opus agent T-676, then Opus agent T-721 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\big-business.md`: Opus agent T-691, then Opus agent T-720 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\city-building.md`: Opus agent T-690, then Opus agent T-727 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\crime-justice.md`: Opus agent T-671, then Opus agent T-718 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\disasters.md`: Opus agent T-679, then Opus agent T-711 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\drugs-alcohol.md`: Opus agent T-683 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\city-building.md`: Opus agent T-690, then Opus agent T-727, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\crime-justice.md`: Opus agent T-671, then Opus agent T-718, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\disasters.md`: Opus agent T-679, then Opus agent T-711, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\drugs-alcohol.md`: Opus agent T-683, then Opus agent T-731, then Opus agent T-752 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\economy.md`: Opus agent T-696, then Opus agent T-724 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\education.md`: Opus agent T-674, then Opus agent T-713 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\elements.md`: Opus agent T-693, then Opus agent T-722 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\energy.md`: Opus agent T-698, then Opus agent T-725 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\exploration.md`: Opus agent T-704 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\energy.md`: Opus agent T-698, then Opus agent T-725, then Opus agent T-752 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\exploration.md`: Opus agent T-704, then Opus agent T-729 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\food-farming.md`: Opus agent T-699, then Opus agent T-719 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\government-politics.md`: Opus agent T-704, then Opus agent T-716 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\health.md`: Opus agent T-682, then Opus agent T-711 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\government-politics.md`: Opus agent T-704, then Opus agent T-716, then Opus agent T-752, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\health.md`: Opus agent T-682, then Opus agent T-711, then Opus agent T-757 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\holidays.md`: Opus agent T-704, then Opus agent T-714 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\home-family.md`: Opus agent T-703, then Opus agent T-727 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\immigration.md`: Opus agent T-687, then Opus agent T-723 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\land-environment.md`: Opus agent T-688, then Opus agent T-726 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\landmarks.md`: Opus agent T-701, then Opus agent T-722 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\landmarks.md`: Opus agent T-701, then Opus agent T-722, then Opus agent T-757 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\marketplace.md`: Opus agent T-697, then Opus agent T-720 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\migration.md`: Opus agent T-670, then Opus agent T-723 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\money.md`: Opus agent T-700, then Opus agent T-724 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\music.md`: Opus agent T-677 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\music.md`: Opus agent T-677, then Opus agent T-733 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\native-nations.md`: Opus agent T-685, then Opus agent T-726 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\news-communication.md`: Opus agent T-680 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\news-communication.md`: Opus agent T-680, then Opus agent T-732 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\religion.md`: Opus agent T-675, then Opus agent T-715 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\rights-movements.md`: Opus agent T-673, then Opus agent T-710 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\rights-movements.md`: Opus agent T-673, then Opus agent T-710, then Opus agent T-752 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\science.md`: Opus agent T-689, then Opus agent T-717 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\slavery-freedom.md`: Opus agent T-684 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\sports-play.md`: Opus agent T-672, then Opus agent T-714 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\storytelling-evolution.md`: Opus agent T-681, then Opus agent T-712 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\slavery-freedom.md`: Opus agent T-684, then Opus agent T-730, then Opus agent T-752 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\sports-play.md`: Opus agent T-672, then Opus agent T-714, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\storytelling-evolution.md`: Opus agent T-681, then Opus agent T-712, then Opus agent T-752, then Opus agent T-757 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\styles.md`: Opus agent T-686, then Opus agent T-712 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\technology.md`: Opus agent T-695, then Opus agent T-717 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\transportation.md`: Opus agent T-702, then Opus agent T-725 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\war.md`: Opus agent T-678, then Opus agent T-728 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\transportation.md`: Opus agent T-702, then Opus agent T-725, then Opus agent T-752 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\war.md`: Opus agent T-678, then Opus agent T-728, then Opus agent T-757 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\backmatter\work-workers.md`: Opus agent T-694, then Opus agent T-719 (new file)
 
 **control\briefs\**
 
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\BACKMATTER-DISPATCH.md`: Opus director (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\BACKMATTER-EDIT.md`: Opus director (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\BACKMATTER-HANDOFF.md`: Opus director (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\briefs\BUILD-POLISH.md`: Opus director (new file)
@@ -265,6 +263,25 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-726-reviewfix.md`: Opus agent T-726 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-727-reviewfix.md`: Opus agent T-727 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-728-reviewfix.md`: Opus agent T-728 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-729-reviewfix.md`: Opus agent T-729 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-730-reviewfix.md`: Opus agent T-730 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-731-reviewfix.md`: Opus agent T-731 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-732-reviewfix.md`: Opus agent T-732 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-733-reviewfix.md`: Opus agent T-733 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-753-reviewfix.md`: Opus agent T-753 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-754-reviewfix.md`: Opus agent T-754 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-755-reviewfix.md`: Opus agent T-755 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-756-reviewfix.md`: Opus agent T-756 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\checkpoints\T-757-reviewfix.md`: Opus agent T-757 (new file)
+
+**manuscript\_backmatter\**
+
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\02-glossary.md`: Opus director, then Opus agent T-757, then Opus agent T-753 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\03-timeline.md`: Opus director, then Opus agent T-748, then Opus agent T-754 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\04-people.md`: Opus director, then Opus agent T-749, then Opus agent T-755 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\05-places.md`: Opus director, then Opus agent T-750, then Opus agent T-756 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\06-movies.md`: Opus director, then Opus agent T-751, then Opus agent T-757 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\_backmatter\07-answers.md`: Opus director, then Opus agent T-751, then Opus agent T-752, then Opus agent T-757 (new file)
 
 **manuscript\america-world\**
 
@@ -288,25 +305,25 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\city-building\part1-before-1800.md`: Opus agent T-690, then Opus agent T-727 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\city-building\part2-1800s.md`: Opus agent T-690, then Opus agent T-727 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\city-building\part3-1900s-and-today.md`: Opus agent T-690, then Opus agent T-727 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\city-building\part3-1900s-and-today.md`: Opus agent T-690, then Opus agent T-727, then Opus agent T-757 (older file, changed)
 
 **manuscript\crime-justice\**
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\crime-justice\part1-before-1800.md`: Opus agent T-671, then Opus agent T-718 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\crime-justice\part2-1800s.md`: Opus agent T-651, then Opus agent T-671, then Opus agent T-718 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\crime-justice\part3-1900s-and-today.md`: Opus agent T-671, then Opus agent T-718 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\crime-justice\part3-1900s-and-today.md`: Opus agent T-671, then Opus agent T-718, then Opus agent T-757 (older file, changed)
 
 **manuscript\disasters\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\disasters\part1-before-1800.md`: Opus agent T-679, then Opus agent T-711 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\disasters\part1-before-1800.md`: Opus agent T-679, then Opus agent T-711, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\disasters\part2-1800s.md`: Opus agent T-651, then Opus agent T-679, then Opus agent T-711 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\disasters\part3-1900s-and-today.md`: Opus agent T-651, then Opus agent T-679, then Opus agent T-711 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\disasters\part3-1900s-and-today.md`: Opus agent T-651, then Opus agent T-679, then Opus agent T-711, then Opus agent T-757 (older file, changed)
 
 **manuscript\drugs-alcohol\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part1-before-1800.md`: Opus agent T-651, then Opus agent T-683 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part2-1800s.md`: Opus agent T-683 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part3-1900s-and-today.md`: Opus agent T-683 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part1-before-1800.md`: Opus agent T-651, then Opus agent T-683, then Opus agent T-731 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part2-1800s.md`: Opus agent T-683, then Opus agent T-731 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\drugs-alcohol\part3-1900s-and-today.md`: Opus agent T-683, then Opus agent T-731, then Opus agent T-752 (older file, changed)
 
 **manuscript\economy\**
 
@@ -316,7 +333,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\education\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\education\part1-before-1800.md`: Opus agent T-652, then Opus agent T-674, then Opus agent T-713 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\education\part1-before-1800.md`: Opus agent T-652, then Opus agent T-674, then Opus agent T-713, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\education\part2-1800s.md`: Opus agent T-652, then Opus agent T-674, then Opus agent T-713 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\education\part3-1900s-and-today.md`: Opus agent T-674, then Opus agent T-713 (older file, changed)
 
@@ -330,7 +347,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\energy\part1-before-1800.md`: Opus agent T-698, then Opus agent T-725 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\energy\part2-1800s.md`: Opus agent T-698, then Opus agent T-725 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\energy\part3-1900s-and-today.md`: Opus agent T-698, then Opus agent T-725 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\energy\part3-1900s-and-today.md`: Opus agent T-698, then Opus agent T-725, then Opus agent T-752 (older file, changed)
 
 **manuscript\food-farming\**
 
@@ -340,9 +357,9 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\health\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\health\part1-before-1800.md`: Opus agent T-682, then Opus agent T-711 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\health\part1-before-1800.md`: Opus agent T-682, then Opus agent T-711, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\health\part2-1800s.md`: Opus agent T-682, then Opus agent T-711 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\health\part3-1900s-and-today.md`: Opus agent T-682, then Opus agent T-711 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\health\part3-1900s-and-today.md`: Opus agent T-682, then Opus agent T-711, then Opus agent T-757 (older file, changed)
 
 **manuscript\home-family\**
 
@@ -352,7 +369,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\immigration\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\immigration\part1-before-1800.md`: Opus agent T-687, then Opus agent T-723 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\immigration\part1-before-1800.md`: Opus agent T-687, then Opus agent T-723, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\immigration\part2-1800s.md`: Opus agent T-687, then Opus agent T-723 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\immigration\part3-1900s-and-today.md`: Opus agent T-654, then Opus agent T-687, then Opus agent T-723 (older file, changed)
 
@@ -366,7 +383,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\landmarks\part1-before-1800.md`: Opus agent T-701, then Opus agent T-722 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\landmarks\part2-1800s.md`: Opus agent T-701, then Opus agent T-722 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\landmarks\part3-1900s-and-today.md`: Opus agent T-701, then Opus agent T-722 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\landmarks\part3-1900s-and-today.md`: Opus agent T-701, then Opus agent T-722, then Opus agent T-757 (older file, changed)
 
 **manuscript\marketplace\**
 
@@ -376,7 +393,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\migration\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\migration\part1-before-1800.md`: Opus agent T-654, then Opus agent T-670, then Opus agent T-723 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\migration\part1-before-1800.md`: Opus agent T-654, then Opus agent T-670, then Opus agent T-723, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\migration\part2-1800s.md`: Opus agent T-654, then Opus agent T-670, then Opus agent T-723 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\migration\part3-1900s-and-today.md`: Opus agent T-670, then Opus agent T-723 (older file, changed)
 
@@ -388,9 +405,9 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\music\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part1-before-1800.md`: Opus agent T-677 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part2-1800s.md`: Opus agent T-655, then Opus agent T-677 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-677 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part1-before-1800.md`: Opus agent T-677, then Opus agent T-733 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part2-1800s.md`: Opus agent T-655, then Opus agent T-677, then Opus agent T-733 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\music\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-677, then Opus agent T-733 (older file, changed)
 
 **manuscript\native-nations\**
 
@@ -400,13 +417,13 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\news-communication\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part1-before-1800.md`: Opus agent T-680 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part2-1800s.md`: Opus agent T-680 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-680 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part1-before-1800.md`: Opus agent T-680, then Opus agent T-732 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part2-1800s.md`: Opus agent T-680, then Opus agent T-732 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\news-communication\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-680, then Opus agent T-732 (older file, changed)
 
 **manuscript\religion\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\religion\part1-before-1800.md`: Opus agent T-675, then Opus agent T-715 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\religion\part1-before-1800.md`: Opus agent T-675, then Opus agent T-715, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\religion\part2-1800s.md`: Opus agent T-675, then Opus agent T-715 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\religion\part3-1900s-and-today.md`: Opus agent T-675, then Opus agent T-715 (older file, changed)
 
@@ -414,7 +431,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\rights-movements\part1-before-1800.md`: Opus agent T-673, then Opus agent T-710 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\rights-movements\part2-1800s.md`: Opus agent T-673, then Opus agent T-710 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\rights-movements\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-673, then Opus agent T-710 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\rights-movements\part3-1900s-and-today.md`: Opus agent T-655, then Opus agent T-673, then Opus agent T-710, then Opus agent T-752 (older file, changed)
 
 **manuscript\science\**
 
@@ -424,21 +441,21 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **manuscript\slavery-freedom\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part1-before-1800.md`: Opus agent T-656, then Opus agent T-684 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part2-1800s.md`: Opus agent T-684 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part3-1900s-and-today.md`: Opus agent T-684 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part1-before-1800.md`: Opus agent T-656, then Opus agent T-684, then Opus agent T-730 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part2-1800s.md`: Opus agent T-684, then Opus agent T-730 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\slavery-freedom\part3-1900s-and-today.md`: Opus agent T-684, then Opus agent T-730, then Opus agent T-752 (older file, changed)
 
 **manuscript\sports-play\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\sports-play\part1-before-1800.md`: Opus agent T-672, then Opus agent T-714 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\sports-play\part1-before-1800.md`: Opus agent T-672, then Opus agent T-714, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\sports-play\part2-1800s.md`: Opus agent T-672, then Opus agent T-714 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\sports-play\part3-1900s-and-today.md`: Opus agent T-672, then Opus agent T-714 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\sports-play\part3-1900s-and-today.md`: Opus agent T-672, then Opus agent T-714, then Opus agent T-757 (older file, changed)
 
 **manuscript\storytelling-evolution\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\storytelling-evolution\part1-before-1800.md`: Opus agent T-656, then Opus agent T-681, then Opus agent T-712 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\storytelling-evolution\part1-before-1800.md`: Opus agent T-656, then Opus agent T-681, then Opus agent T-712, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\storytelling-evolution\part2-1800s.md`: Opus agent T-681, then Opus agent T-712 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\storytelling-evolution\part3-1900s-and-today.md`: Opus agent T-681, then Opus agent T-712 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\storytelling-evolution\part3-1900s-and-today.md`: Opus agent T-681, then Opus agent T-712, then Opus agent T-752, then Opus agent T-757 (older file, changed)
 
 **manuscript\styles\**
 
@@ -456,13 +473,13 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\transportation\part1-before-1800.md`: Opus agent T-702, then Opus agent T-725 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\transportation\part2-1800s.md`: Opus agent T-702, then Opus agent T-725 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\transportation\part3-1900s-and-today.md`: Opus agent T-702, then Opus agent T-725 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\transportation\part3-1900s-and-today.md`: Opus agent T-702, then Opus agent T-725, then Opus agent T-752 (older file, changed)
 
 **manuscript\war\**
 
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\war\part1-before-1800.md`: Opus agent T-678, then Opus agent T-728 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\war\part1-before-1800.md`: Opus agent T-678, then Opus agent T-728, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\war\part2-1800s.md`: Opus agent T-678, then Opus agent T-728 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\war\part3-1900s-and-today.md`: Opus agent T-657, then Opus agent T-678, then Opus agent T-728 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\manuscript\war\part3-1900s-and-today.md`: Opus agent T-657, then Opus agent T-678, then Opus agent T-728, then Opus agent T-757 (older file, changed)
 
 **manuscript\work-workers\**
 
@@ -478,7 +495,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-city-building.md`: Opus agent T-651, then Opus agent T-690, then Opus agent T-727 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-crime-justice.md`: Opus agent T-651, then Opus agent T-718 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-disasters.md`: Opus agent T-651, then Opus agent T-711 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-drugs-alcohol.md`: Opus agent T-651 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-drugs-alcohol.md`: Opus agent T-651, then Opus agent T-731 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-economy.md`: Opus agent T-652, then Opus agent T-724 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-education.md`: Opus agent T-652 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-elements.md`: Opus agent T-693, then Opus agent T-722 (older file, changed)
@@ -494,12 +511,12 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-marketplace.md`: Opus agent T-654, then Opus agent T-720 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-migration.md`: Opus agent T-654, then Opus agent T-723 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-money.md`: Opus agent T-654, then Opus agent T-724 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-music.md`: Opus agent T-655 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-music.md`: Opus agent T-655, then Opus agent T-733 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-native-nations.md`: Opus agent T-655, then Opus agent T-726 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-news-communication.md`: Opus agent T-655 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-news-communication.md`: Opus agent T-655, then Opus agent T-732 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-rights-movements.md`: Opus agent T-655, then Opus agent T-710 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-science.md`: Opus agent T-656, then Opus agent T-717 (older file, changed)
-- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-slavery-freedom.md`: Opus agent T-656 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\research\research-slavery-freedom.md`: Opus agent T-656, then Opus agent T-730 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-storytelling-evolution.md`: Opus agent T-656 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-styles.md`: Opus agent T-656 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\research\research-technology.md`: Opus agent T-656, then Opus agent T-717 (older file, changed)
@@ -509,8 +526,9 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 **tools\**
 
+- `C:\Users\jon\Projects\History-Book-Project-claude\tools\backmatter_chunks.py`: Opus director (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\build_backmatter.py`: Opus director, then Opus agent T-705 (new file)
-- `C:\Users\jon\Projects\History-Book-Project-claude\tools\build_full_book.py`: Opus agent T-660, then Opus director, then Opus agent T-706 (older file, changed)
+- `C:\Users\jon\Projects\History-Book-Project-claude\tools\build_full_book.py`: Opus agent T-660, then Opus director, then Opus agent T-706, then Opus director (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\build_full_book_md.py`: Opus agent T-660, then Opus agent T-706 (older file, changed)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\make_pdf.py`: Opus director, then Opus agent T-706 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\tools\project_state.py`: Opus agent T-705 (older file, changed)
@@ -521,7 +539,7 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 
 - `C:\Users\jon\Projects\History-Book-Project-claude\viewer\viewer.html`: Opus agent T-658 (older file, changed)
 
-## Written by Sonnet (the reader reviews) (22 files)
+## Written by Sonnet (the reader reviews) (25 files)
 
 **control\review\**
 
@@ -544,7 +562,10 @@ Each folder under `manuscript\`, with the writers who changed it in this window,
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R17.md`: Sonnet reader R17 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R18.md`: Sonnet reader R18 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R19.md`: Sonnet reader R19 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R20.md`: Sonnet reader R20 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R21.md`: Sonnet reader R21 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R22.md`: Sonnet reader R22 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R23.md`: Sonnet reader R23 (new file)
 - `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R24.md`: Sonnet reader R24 (new file)
+- `C:\Users\jon\Projects\History-Book-Project-claude\control\review\R25.md`: Sonnet reader R25 (new file)
 
